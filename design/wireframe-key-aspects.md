@@ -1,0 +1,20 @@
+## Wireframe - Key Aspects
+- Global Navigation Y/N
+- Navigation 3-5 buckets
+- Location of search (what prominience do we give it?)
+- Login in header Y/N
+- Login Box on HP
+  - Show all 3 options
+  - Toggle switch
+  - One button with a page
+- Utilities bar? Whats inculded?
+- Hero image featured?
+- How many zones do we use on the HP? (3-6)
+- Do we use a "top resources" section (the private sector pages did not)
+- Focus on images? Use of icons for services?
+- Cards for each service type
+  - Label
+  - Description?
+  - Icon?
+  - Number of links?
+  - divion of sections? half, thirds, quarters
