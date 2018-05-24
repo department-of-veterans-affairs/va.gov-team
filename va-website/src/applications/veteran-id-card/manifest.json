@@ -1,0 +1,8 @@
+{
+  "appName": "Veteran ID Card V1",
+  "entryFile": "./veteran-id-card-entry.jsx",
+  "entryName": "veteran-id-card",
+  "rootUrl": "/veteran-id-card",
+  "noRouting": true,
+  "production": true
+}

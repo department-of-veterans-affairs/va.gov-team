@@ -1,0 +1,8 @@
+{
+  "appName": "Account",
+  "entryFile": "./account-entry.jsx",
+  "entryName": "account",
+  "rootUrl": "/account",
+  "production": true,
+  "contentPage": "account/index.md"
+}

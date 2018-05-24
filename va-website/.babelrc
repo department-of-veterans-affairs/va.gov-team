@@ -1,0 +1,64 @@
+{
+  // Javascript settings.
+  "presets": [
+    ["env", {
+      "targets": {
+        "uglify": true,
+        "browsers": ["last 2 versions", "ie 11", "not ie 10"]
+      },
+      "useBuiltIns": true,
+      "modules": false,
+    }],
+    "react",
+    "stage-2",
+  ],
+  "plugins": [
+    "lodash"
+  ],
+  // Share polyfills between files.
+  "env": {
+    "test": {
+      "presets": ["env", "stage-2"],
+      "plugins": [ 
+        "istanbul",
+        "dynamic-import-node",
+        "transform-react-remove-prop-types"
+      ]
+    },
+    "production": {
+      "plugins": [
+        ["transform-react-remove-prop-types", {
+          "removeImport": true
+        }]
+      ]
+    },
+    "hot": {
+      "plugins": [
+        [
+          "react-transform",
+          {
+            "transforms": [
+              {
+                "transform": "react-transform-hmr",
+                // see transform docs for "imports" and "locals" dependencies
+                "imports": [
+                  "react"
+                ],
+                "locals": [
+                  "module"
+                ]
+              },
+              {
+                "transform": "react-transform-catch-errors",
+                "imports": [
+                  "react",
+                  "redbox-react"
+                ]
+              }
+            ]
+          }
+        ],
+      ]
+    }
+  },
+}

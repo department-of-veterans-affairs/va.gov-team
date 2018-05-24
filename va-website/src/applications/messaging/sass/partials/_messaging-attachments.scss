@@ -1,0 +1,30 @@
+.msg-attachments-received {
+  border-top: 2px solid $color-gray-light;
+  margin-top: 2rem;
+  padding: 1rem .25em 0;
+}
+
+.msg-attachments-received-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+
+  li {
+    margin-bottom: .5rem;
+  }
+}
+
+.msg-attachments-received-title {
+  color: $color-base;
+  font-size: inherit;
+}
+
+.msg-attachment-icon {
+  color: $color-base;
+  margin-right: .75rem;
+}
+
+.msg-attachment-item {
+  background-image: none;
+  padding-right: 0;
+}

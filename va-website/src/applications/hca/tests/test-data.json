@@ -1,0 +1,79 @@
+{
+  "lastServiceBranch": "air force",
+  "lastEntryDate": "1917-12-30",
+  "lastDischargeDate": "1920-12-02",
+  "dischargeType": "honorable",
+  "deductibleMedicalExpenses": 13,
+  "deductibleFuneralExpenses": 14,
+  "deductibleEducationExpenses": 15,
+  "veteranGrossIncome": 1,
+  "veteranNetIncome": 2,
+  "veteranOtherIncome": 3,
+  "view:spouseIncome": {
+    "spouseGrossIncome": 4,
+    "spouseNetIncome": 5,
+    "spouseOtherIncome": 6
+  },
+  "dependents": [
+    {
+      "fullName": {
+        "first": "John",
+        "last": "Doe"
+      },
+      "dependentRelation": "Son",
+      "socialSecurityNumber": "321321321",
+      "dateOfBirth": "1901-10-09",
+      "becameDependent": "1901-10-09",
+      "dependentEducationExpenses": 1,
+      "grossIncome": 7,
+      "netIncome": 8,
+      "otherIncome": 9
+    },
+    {
+      "fullName": {
+        "first": "Jane",
+        "last": "Doe"
+      },
+      "dependentRelation": "Daughter",
+      "socialSecurityNumber": "123456543",
+      "dateOfBirth": "1902-11-03",
+      "becameDependent": "1902-11-03",
+      "dependentEducationExpenses": 1,
+      "grossIncome": 10,
+      "netIncome": 11,
+      "otherIncome": 12
+    }
+  ],
+  "spouseFullName": {
+    "first": "SFirst",
+    "last": "SLast"
+  },
+  "spouseSocialSecurityNumber": "123123123",
+  "spouseDateOfBirth": "1900-01-08",
+  "dateOfMarriage": "1900-06-09",
+  "sameAddress": true,
+  "cohabitedLastYear": true,
+  "vaCompensationType": "none",
+  "vaMedicalFacility": "506GA",
+  "isCoveredByHealthInsurance": false,
+  "isMedicaidEligible": false,
+  "isEnrolledMedicarePartA": false,
+  "address": {
+    "street": "Street",
+    "city": "City",
+    "country": "USA",
+    "state": "OH",
+    "postalCode": "54321"
+  },
+  "gender": "M",
+  "maritalStatus": "Married",
+  "veteranDateOfBirth": "1900-01-01",
+  "veteranSocialSecurityNumber": "987654321",
+  "veteranFullName": {
+    "first": "First",
+    "last": "Last"
+  },
+  "view:reportDependents": true,
+  "privacyAgreementAccepted": true,
+  "discloseFinancialInformation": true
+}

@@ -1,0 +1,164 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-progress-bar";
+@import "partials/bb-breadcrumbs";
+@import "partials/bb-modal";
+@import "~react-datepicker/dist/react-datepicker.css";
+
+.bb-app {
+  padding: 1.5rem;
+
+  label {
+    margin-top: 0;
+  }
+
+  .info-type-section {
+    margin-top: 1.5em;
+  }
+
+  // TODO(css): Fix when #content .section h* is fixed
+  .highlight {
+    padding-bottom: 0.25em !important;
+    margin: 1em 0 !important;
+  }
+
+  a:visited {
+    color: $color-primary;
+  }
+
+  a.usa-button {
+    color: $color-white;
+
+    &:visited {
+      color: $color-white;
+    }
+  }
+
+  a.usa-button-secondary {
+    color: $color-primary;
+
+    &:visited {
+      color: $color-primary;
+    }
+  }
+
+  .date-range-fields {
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    -webkit-align-items: flex-center;
+
+    span {
+      margin: 0 1rem;
+    }
+  }
+
+  .form-actions {
+    margin: 1em 0;
+
+    button, [role="button"] {
+      padding-left: 2.7em;
+      padding-right: 2.7em;
+      width: auto;
+      display: inline-block;
+    }
+
+    a {
+      &:hover {
+        background: none;
+      }
+    }
+  }
+
+  .update-page {
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .heading-wrapper {
+    display: flex;
+    align-items: center;
+
+    h1 {
+      margin: 0;
+    }
+  }
+
+  .blue-button-logo {
+    background: url(/img/bb-logo.png) no-repeat center center;
+    background-size: contain;
+    height: 40px;
+    width: 40px;
+    padding: 0 1.5em;
+    display: inline-block;
+  }
+}
+
+.bb-status-ready {
+  color: $color-green;
+}
+
+.bb-download-table {
+  tbody {
+    tr {
+      &:first-child {
+        td {
+          border-bottom: 0;
+          padding-bottom: 0;
+        }
+      }
+
+      &:nth-child(2) {
+        td {
+          padding-top: 0;
+        }
+      }
+
+      td {
+        border-top: 0;
+        padding-bottom: .5rem;
+        padding-top: .5rem;
+      }
+    }
+  }
+
+  button, [role="button"] {
+    width: 16rem;
+  }
+}
+
+.bb-app-error {
+  p {
+    margin: 0;
+    font-size: initial !important;
+  }
+}
+
+.bb-tab-explainer {
+  display: inline-block;
+  margin: 3rem 0;
+}
+
+.custom-date-option {
+  &.date-range-error {
+    border-left: 3px solid $color-secondary-dark;
+    padding-left: 1rem;
+  }
+}
+
+// match uswds input error
+input.date-range-error {
+  border: 3px solid $color-secondary-dark;
+}
+
+p.date-range-error {
+  color: $color-secondary-dark;
+  font-weight: bold;
+  margin: 0;
+}
+
+.date-range-fields {
+  [disabled] {
+    background-color: $color-gray-lightest;
+  }
+}

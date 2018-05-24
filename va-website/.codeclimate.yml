@@ -1,0 +1,15 @@
+engines:
+  duplication:
+    enabled: true
+    config:
+      languages:
+        javascript:
+          mass_threshold: 100
+ratings:
+  paths:
+  - src/js/**
+exclude_paths:
+- test/**/*
+- config/**/*
+- vendor/**/*
+- script/**/*

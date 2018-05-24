@@ -1,0 +1,372 @@
+// Adds external icon to all links that begin
+// with http (including https)
+[href^=http] {
+  #playbook .primary &,
+  .coda & {
+    background-image: url(/img/icons/exit-icon-white.png);
+    margin-right: .1em;
+    padding-right: 1.5em;
+  }
+}
+
+.tagline-content {
+  p {
+    font-size: 2.15em;
+    border-bottom: 2px solid $color-white;
+    padding: 0 0 1em 0;
+    margin: 0 0 2em 0;
+    color: $color-white-alpha70;
+    line-height: 1.2em;
+  }
+}
+
+// Blog / Playbook
+.page-playbook {
+  background-color: $color-white;
+
+  .header {
+    background-color: inherit;
+  }
+
+  .vets-logo {
+    path, rect {
+      fill: $color-primary-darker;
+    }
+  }
+
+  .menu {
+    display: none !important;
+  }
+}
+
+.splash--hasimg {
+  // TODO: Remove !important when #content .splash is refactored
+  padding: 4em 0 !important;
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 1em;
+  padding: 6.1em 0 !important;
+}
+
+#playbook .splash {
+  margin: 0;
+  background: $color-white url(/img/design/background/thread.png) center center no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  min-height: 14em;
+}
+
+
+// TODO: Remove !important from this block
+// Once the specificity of #content .splash h2 block/
+// gets reduced.
+.va-headingflag {
+  margin: .5em 0 !important;
+  padding: 0 !important;
+  margin: 0 0 2em 0 !important;
+  background: none !important;
+  color: $color-primary-darkest !important;
+
+  @include media($medium-large-screen) {
+    position: absolute !important;
+    margin: 1.35em 0 0 0 !important;
+    z-index: 100 !important;
+  }
+
+  a {
+    text-decoration: none;
+    margin: 0;
+    color: $color-primary-darkest;
+    background: $color-gold;
+    border-bottom: none;
+    padding: .5em .25em;
+    // Transition only these properties.
+    -webkit-transition-property: padding;
+    transition-property: padding;
+
+    &:hover {
+      padding: .5em .65em;
+    }
+  }
+
+  @include media($medium-large-screen) {
+    position: absolute;
+    margin: 1.35em 0 0 0;
+    z-index: 100;
+  }
+}
+
+.va-headingflag--tagline {
+  padding: 0;
+}
+
+#playbook {
+  h2 {background: none; font-size: 2.5em;}
+
+  .card a {
+    border-bottom: 2px solid $color-gray-lighter;
+    display: inline-block;
+    background: $color-link-default-hover;
+    &:hover {background: $color-link-default-hover;}
+  }
+}
+
+.process--playbook {
+  padding: 0;
+
+  h4 {
+    padding-top: 1.5em;
+
+    span {
+      display: block;
+    }
+  }
+
+  h6 {
+    display: inline-block;
+  }
+}
+
+.process-step--playbook {
+  padding-top: 1.5em;
+  border-left: 4px solid $olso-gray;
+
+  &:before {
+    background: $color-white;
+    border-color: $olso-gray;
+    color: $olso-gray;
+    font-size: 1.3em;
+    font-weight: 700;
+    position: relative;
+    padding: 0;
+    margin-left: -2.6em;
+    top: -0.1em;
+    width: 2em;
+  }
+
+  &:last-child {
+    border-left: 4px solid $olso-gray;
+    padding: 0 0 2em 2em;
+  }
+
+  &.list-nine {
+    border-left: 0;
+  }
+
+  &.list-nine {
+    border-left: 0;
+  }
+}
+
+
+.process-step--iterative {
+  .list-four,
+  .list-six {
+    @include media-maxwidth($small-screen) {
+      padding-top: 0;
+      margin-top: 1em!important;
+    }
+  }
+
+  &:before {
+    background-image: url(/img/icons/SVG/loop2.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border-width: 0;
+    display: inline-block;
+    width: 3.4em;
+    height: 2.2em !important;
+    background-size: contain;
+    border: none;
+    margin-left: -3.3em;
+    padding-top: .35em;
+  }
+}
+
+.badge--iterative {
+  display: inline-block;
+  background: $color-link-default-hover;
+  padding: .2em .6em;
+  border-radius: 3px;
+  margin-left: 0;
+  text-transform: uppercase;
+  font-size: .85em;
+  vertical-align: 15%;
+  letter-spacing: .05em;
+
+  @include media($medium-large-screen) {
+    margin-left: 1.25em;
+  }
+
+  @include media-maxwidth($medium-large-screen) {
+    margin-bottom: 1em;
+  }
+}
+
+.human-centered {
+.discover,
+.design,
+.deliver {
+  border-top: 4px solid $color-white;
+  border-bottom: 4px solid $color-white;
+
+  div:nth-child(1) {
+    border-right: 8px solid $color-white;
+
+    @include media-maxwidth($small-screen) {
+      border-right: 0;
+    }
+  }
+  div:nth-child(2) {
+    padding: 1.5em 1.5em .2em;
+  }
+  .graphic {
+    background-size: 165px 165px;
+    padding: 0;
+    height: 209px;
+
+    @include media-maxwidth($medium-large-screen) {
+      background-position: 0 center;
+    }
+  }
+}
+}
+.discover {
+  background: $polar;
+
+  .process-step:first-child {
+    margin-top: 1.3em !important;
+    padding-top: 0;
+  }
+
+  .graphic {
+    background: url(/img/design/playbook/discover-process.svg) 40% center no-repeat;
+  }
+}
+
+.design {
+  background: $wild-sand;
+
+  .graphic {
+    background: url(/img/design/playbook/design-process.svg) 40% center no-repeat;
+  }
+}
+
+.deliver {
+  background: $green-white;
+
+  .graphic {
+    background: url(/img/design/playbook/discover-process.svg) 40% center no-repeat;
+  }
+}
+
+.va-list-num--discover {
+  li::before {
+    background-color: $polar;
+  }
+}
+
+.va-list-num--design {
+  li::before {
+    background-color: $wild-sand !important;
+  }
+}
+
+.va-list-num--deliver {
+// TODO: Figure out why !important is necessary here.
+  li::before {
+    background-color: $green-white !important;
+  }
+}
+
+.va-prodmethod {
+  padding: 0;
+
+  h5 {
+    padding-top: 1.5em;
+  }
+
+  h5, h6 {
+    font-size: 2.16rem;
+  }
+}
+
+// Visual Guide
+
+.color-chip {
+  height: 3em;
+  width: 3em;
+  margin: .5em 1em .5em 0;
+  border-radius: 10em;
+  vertical-align: middle;
+  display: inline-block;
+
+  &.primary-color {background: $color-primary;}
+  &.color-primary-darker {background: $color-primary-darker;}
+  &.color-primary-darkest {background: $color-primary-darkest;}
+  &.color-gray-dark {background: $color-gray-dark;}
+  &.color-gray-lightest {background: $color-gray-lightest;}
+  &.color-gold {background: $color-gold;}
+  &.color-green {background: $color-green;}
+  &.color-green-lightest {background: $color-green-lightest;}
+}
+
+// TODO(css): Remove !important once #content ul.breadcrumbs li.active
+// is refactored.
+.splash--alternate {
+
+  li a {
+    color: $color-primary-darkest !important;
+    border-bottom: 2px solid $color-gray-lighter !important;
+
+    &:hover {
+      border-bottom: 3px solid $color-gold !important;
+    }
+  }
+
+  li.parent:after {
+    color: $color-gray-light !important;
+  }
+}
+
+.tertiary {
+  background: $polar;
+}
+
+.quaternary {
+  background: $color-gray-lighter;
+  h1, h2, h3, h4, h5, h6, p, li {color: $color-white;}
+  h4 {font-weight: 700;}
+  .cards {
+    a {
+      height: 12em;
+    }
+  }
+  .feature {background: none;}
+}
+
+.tertiary,
+.quaternary,
+.coda {
+  padding: 3em 0;
+
+  h3 {
+    font-size: 2.2em;
+  }
+}
+
+.coda {
+  background: $color-primary-darker;
+  color: $color-white;
+
+  a {
+    color: inherit;
+  }
+
+  h4 {
+    color: inherit;
+    font-size: 1.5em;
+  }
+}

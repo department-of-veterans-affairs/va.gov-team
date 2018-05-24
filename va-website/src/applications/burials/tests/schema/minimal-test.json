@@ -1,0 +1,35 @@
+{
+  "data": {
+    "claimantAddress": {
+      "street": "123 Main St",
+      "city": "Small Town",
+      "country": "USA",
+      "state": "ID",
+      "postalCode": "12345"
+    },
+    "burialAllowanceRequested": "nonService",
+    "view:claimedBenefits": {
+      "burialAllowance": true,
+      "plotAllowance": false
+    },
+    "deathDate": "2003-10-25",
+    "burialDate": "2003-10-27",
+    "locationOfDeath": {
+      "location": "stateVeteransHome"
+    },
+    "veteranFullName": {
+      "first": "James",
+      "last": "Doe"
+    },
+    "veteranSocialSecurityNumber": "123123123",
+    "veteranDateOfBirth": "1955-04-11",
+    "claimantFullName": {
+      "first": "John",
+      "last": "Doe"
+    },
+    "relationship": {
+      "type": "parent"
+    },
+    "privacyAgreementAccepted": true
+  }
+}

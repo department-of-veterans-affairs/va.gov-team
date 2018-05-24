@@ -1,0 +1,46 @@
+{
+  "data": {
+    "privacyAgreementAccepted": true,
+    "relativeFullName": {
+      "first": "Jane",
+      "last": "Doe"
+    },
+    "previousBenefits": {
+      "veteranFullName": {}
+    },
+    "view:currentSponsorInformation": {
+      "veteranFullName": {
+        "first": "Jim",
+        "last": "Doe"
+      },
+      "veteranSocialSecurityNumber": "332344444"
+    },
+    "highSchool": {
+      "view:hasHighSchool": {
+        "dateRange": {}
+      }
+    },
+    "educationProgram": {
+      "address": {
+        "country": "USA"
+      }
+    },
+    "relativeAddress": {
+      "street": "123 main st",
+      "city": "Boston",
+      "country": "USA",
+      "state": "ME",
+      "postalCode": "03443"
+    },
+    "view:otherContactInfo": {
+      "email": "test@test.com",
+      "view:confirmEmail": "test@test.com"
+    },
+    "secondaryContact": {
+      "address": {
+        "country": "USA"
+      }
+    },
+    "bankAccount": {}
+  }
+}

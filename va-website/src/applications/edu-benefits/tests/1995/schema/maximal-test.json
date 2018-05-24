@@ -1,0 +1,84 @@
+{
+  "data": {
+    "privacyAgreementAccepted": true,
+    "veteranFullName": {
+      "first": "asdf",
+      "middle": "t",
+      "last": "asdf",
+      "suffix": "Jr."
+    },
+    "veteranSocialSecurityNumber": "123333333",
+    "view:noSSN": true,
+    "vaFileNumber": "C12345678",
+    "benefit": "chapter30",
+    "toursOfDuty": [
+      {
+        "serviceBranch": "Army",
+        "dateRange": {
+          "from": "2010-01-01",
+          "to": "2010-01-02"
+        }
+      },
+      {
+        "serviceBranch": "Navy",
+        "dateRange": {
+          "from": "2009-01-01",
+          "to": "2010-01-01"
+        }
+      }
+    ],
+    "view:hasServiceBefore1978": true,
+    "educationType": "college",
+    "newSchoolName": "Testing",
+    "newSchoolAddress": {
+      "country": "USA",
+      "street": "123 one st",
+      "street2": "Apt 3",
+      "city": "Big city",
+      "state": "MA",
+      "postalCode": "01010"
+    },
+    "educationObjective": "Get a degree",
+    "nonVaAssistance": true,
+    "civilianBenefitsAssistance": true,
+    "oldSchool": {
+      "name": "Testing",
+      "address": {
+        "country": "USA",
+        "street": "123 one st",
+        "street2": "Apt 3",
+        "city": "Big city",
+        "state": "MA",
+        "postalCode": "01010"
+      }
+    },
+    "trainingEndDate": "2005-03-12",
+    "reasonForChange": "Bad school",
+    "preferredContactMethod": "phone",
+    "veteranAddress": {
+      "country": "USA",
+      "street": "123 one st",
+      "street2": "Apt 3",
+      "city": "Big city",
+      "state": "MA",
+      "postalCode": "01010"
+    },
+    "view:otherContactInfo": {
+      "email": "test@test.com",
+      "view:confirmEmail": "test@test.com",
+      "homePhone": "1233345454",
+      "mobilePhone": "3332213233"
+    },
+    "serviceBefore1977": {
+      "married": true,
+      "haveDependents": true,
+      "parentDependent": true
+    },
+    "bankAccountChange": "stop",
+    "bankAccount": {
+      "accountType": "checking",
+      "accountNumber": "1234344",
+      "routingNumber": "114923756"
+    }
+  }
+}

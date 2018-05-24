@@ -1,0 +1,71 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+
+@import "~@department-of-veterans-affairs/formation/sass/modules/va-pagination";
+
+@import "partials/gi-preview-banner";
+@import "partials/gi-autocomplete";
+@import "partials/gi-modal";
+@import "partials/gi-landing-page";
+@import "partials/gi-search-page";
+@import "partials/gi-profile-page";
+
+.gi-app {
+
+  div.military-status-info {
+    font-size: 0.9em;
+    padding: 1em;
+    margin-top: 1em;
+    max-width: 460px;
+
+    &.warning {
+      background-color: $color-gibill-accent;
+    }
+
+    &.info {
+      background: $color-primary-alt-lightest;
+    }
+
+    i.fa {
+      padding-right: 0.4em;
+    }
+  }
+
+  .about-this-tool {
+    margin-top: 1em;
+
+    a {
+      // background-image: none;
+      text-align: center;
+      font-family: $font-sans;
+      font-size: 1.36rem;
+      line-height: 4rem;
+      margin-right: 2.5rem;
+      margin-bottom: 2rem;
+
+      @include media-maxwidth($small-screen) {
+        font-size: 1.2rem;
+        text-align: left;
+        margin: 0;
+        line-height: 1.2rem;
+      }
+
+      a.link{
+        @include media-maxwidth($small-screen) {
+          margin-left: 1rem;
+          padding: .5rem;
+        }
+      }
+    }
+  }
+
+  .disclaimer {
+    margin: 1em 0;
+    padding: 0;
+    border-top: 1px solid $color-gray-light;
+    z-index: 500;
+    color: $color-gray-dark;
+    background: $color-white;
+  }
+
+}

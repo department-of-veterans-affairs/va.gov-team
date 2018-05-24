@@ -1,0 +1,51 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-process-list";
+
+// ----- VA LAYOUTS (GRIDS/HEADER/FOOTER) ---- //
+@import "layouts/l-playbook";
+
+// ----- Modules that only affect non-React pages. ---- //
+@import "modules/m-card";
+@import "modules/m-piano-key";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-nav-sidebar";
+@import "modules/m-education-wizard";
+@import "../../../platform/forms/sass/m-applications";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-homepage-hero";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-nav-linkslist";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-nav-next-previous";
+
+//=============================
+// Home page only styles.
+//=============================
+
+.popular-container {
+  background: $color-white;
+  padding: 0 1rem;
+
+  > h3 {
+    padding: 2.4rem 0;
+    text-align: center;
+  }
+
+  .popular-container-links {
+    @include media($medium-large-screen) {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  .usa-button.usa-button-secondary {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+
+    @include media($medium-large-screen) {
+      flex: 0 1 32%;
+    }
+  }
+}
+
+.static-page-widget {
+  display: none;
+}

@@ -1,0 +1,556 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/va-pagination";
+// @import "~react-tabs/style/react-tabs.scss";
+@import "~leaflet/dist/leaflet.css";
+@import "~react-tabs/style/react-tabs";
+
+.facility-locator {
+  // TODO(css): Fix when #content .section h* is fixed
+  .highlight {
+    margin-bottom: 0.5em !important;
+  }
+  // TODO(css): Fix when #content .section h* is fixed
+  h4 {
+    padding: 0 !important;
+  }
+
+  .title-section {
+    padding: 0.5rem 0;
+
+    h1:first-child {
+      margin-top: 0;
+      padding: 0 0 0 1.5rem;
+    }
+  }
+
+  .flex-center {
+    display: flex;
+    align-items: center;
+  }
+
+  .leaflet-container {
+    height: 500px;
+    width: 100%;
+    z-index: 0;
+  }
+
+  .facility-phone-table {
+     border-collapse: collapse;
+  }
+
+  .pointer {
+    cursor: pointer;
+  }
+
+  .facility-phone-table td {
+     border: none;
+     outline: none;
+  }
+
+  .p1 {
+    padding: 0.5em 0;
+  }
+
+  label {
+    margin-top: 0;
+  }
+
+  i.fa {
+    width: 18px;
+    text-align: center;
+    margin-right: 15px;
+    color: $color-link-default;
+  }
+
+  .desktop-container {
+    margin-bottom: 3em;
+    border-bottom: solid thin $color-gray-lightest;
+  }
+
+  .facility-result {
+    padding: 1em;
+    border-bottom: none;
+
+    &.active {
+      box-shadow: inset 0px 0px 7px $color-link-default;
+    }
+
+    span.fa {
+      margin-right: 0.5rem;
+    }
+
+    a {
+      color: $color-link-default;
+      text-decoration: none;
+
+      &:focus {
+        h5 {
+          outline: $color-link-default solid thin;
+        }
+      }
+
+      &:visited {
+        color: $color-link-default;
+      }
+    }
+
+    h5 {
+      color: $color-link-default;
+    }
+
+    td {
+      vertical-align: top;
+    }
+  }
+
+  .facility-result + .facility-result {
+    border-top: solid 3px $color-gray-lightest;
+  }
+
+  .leaflet-popup-content {
+    h5 {
+      color: $color-link-default;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .text-center {
+    text-align: center;
+  }
+
+  .tab {
+    border-color: $color-black;
+    text-align: center;
+    background: $color-gray-light-alt;
+    border: solid 1px $color-black;
+    border-radius: 0 !important;
+
+    display: inline-block;
+    border-bottom: none;
+    bottom: -1px;
+    position: relative;
+    list-style: none;
+    padding: 6px 12px;
+    cursor: pointer;
+
+    &.react-tabs__tab--selected {
+      border-top: solid 3px $color-primary;
+      background: $color-white;
+      border-bottom: none;
+    }
+  }
+
+  .react-tabs [role=tab][aria-selected=true] {
+    border-left-color: $color-black;
+    border-right-color: $color-black;
+  }
+
+  ul.react-tabs__tab-list {
+    padding: 0;
+  }
+
+  .react-tabs__tab + .react-tabs__tab {
+    border-left: none;
+  }
+
+  .facility-search-results {
+    padding: 1rem;
+    border: solid 1px $color-gray-lightest;
+
+    ol {
+      padding: 0;
+    }
+
+    li {
+      p {
+        color: $color-black;
+      }
+    }
+     a {
+       text-decoration: none;
+     }
+  }
+
+  .fa.blue {
+    color: $color-link-default;
+  }
+
+  .fl-stats-bar-container {
+    display: flex;
+    align-items: center;
+
+    .fl-stats-bar {
+      display: block;
+      width: 230px;
+      height: 39px;
+      margin: 0.5em 0.5em 0.5em 0;
+      background: url("/img/icons/fa-male-lt-grey.svg") repeat-x left center;
+    }
+
+    .fl-stats-bar-inner {
+      display: block;
+      content: "&nbsp;";
+      height: 100%;
+      margin: 0;
+    }
+
+    .fl-stats-bar-inner.grey {
+      background: url("/img/icons/fa-male-dk-grey.svg") repeat-x left center;
+    }
+
+    .fl-stats-bar-inner.blue {
+      background: url("/img/icons/fa-male-blue.svg") repeat-x left center;
+    }
+  }
+
+  .mobile-search-result {
+    padding: 1em 0;
+    border-top: none;
+  }
+
+  .mobile-search-result + .mobile-search-result {
+    border-top: solid 1px $color-gray-light;
+  }
+
+  p {
+    margin: 0.5em 0;
+  }
+
+  .map-marker {
+    font-size: 15px;
+    height: 60px;
+    margin-left: -25px;
+    margin-top: -25px;
+    text-align: center;
+    width: 60px;
+    z-index: 999;
+    color: $color-white;
+  }
+
+  .fa-cemetery {
+    height: 15px;
+    width: 15px;
+  }
+
+  .fa-cemetery:before {
+    content: url("/img/icons/cemetery.svg");
+  }
+
+  .benefits-icon {
+    background: url("/img/icons/benefits-pin.svg") no-repeat center center;
+    background-size: contain;
+  }
+
+  .cemetery-icon {
+    background: url("/img/icons/cemetery-pin.svg") no-repeat center center;
+    background-size: contain;
+  }
+
+  .health-icon {
+    background: url("/img/icons/health-pin.svg") no-repeat center center;
+    background-size: contain;
+  }
+
+  .vet-center-icon {
+    background: url("/img/icons/vet-centers-pin.svg") no-repeat center center;
+    background-size: contain;
+  }
+
+  .numbered-icon {
+    height: 32px;
+    margin-left: -12px;
+    margin-top: -12px;
+    text-align: center;
+    padding-top: 3px;
+    width: 32px;
+    z-index: 999;
+    background: url("/img/icons/map-pin.svg") no-repeat center center;
+    background-size: contain;
+    color: $color-white;
+  }
+
+  .current-position-icon {
+    background: url("/img/icons/current-location-pin.svg") no-repeat center center;
+    background-size: contain;
+  }
+
+  .clearfix {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+  .search-controls-container {
+    padding: 1.5rem 1rem;
+    border: solid thin $color-gray-lightest;
+    margin-bottom: 2rem;
+    background: $color-gray-lightest;
+
+    select:disabled {
+      background: $color-gray-lightest;
+    }
+
+    input[type=submit] {
+      margin-top: 2.5rem;
+    }
+
+    .facility-dropdown-wrapper {
+      position: relative;
+      background: $color-white;
+      cursor: pointer;
+      border: 1px solid $color-gray-light;
+      border-radius: 0;
+      box-sizing: border-box;
+      color: $color-base;
+      display: block;
+      font-size: 1.6rem;
+      height: 4.4rem;
+      line-height: 1.3;
+      margin: 0.2em 0;
+      max-width: 46rem;
+      padding: 0 0.5em;
+      width: 100%;
+
+      &:after {
+        display: inline-block;
+        font: normal normal normal 1em FontAwesome;
+        content: "\F078";
+        width: 0;
+        height: 0;
+        position: absolute;
+        top: 33%;
+        right: 25px;
+        color: $color-black;
+      }
+
+      &.disabled {
+        cursor: default;
+        background-color: $color-gray-lightest;
+      }
+
+      span {
+        min-height: 2.4em;
+        text-align: left;
+      }
+
+      button.facility-option {
+        min-height: 2.4em;
+        padding: 0;
+        margin: 0;
+        background: none;
+        color: inherit;
+        font-weight: normal;
+        width: 100%;
+
+        &:focus {
+          box-shadow: none;
+        }
+      }
+
+      ul.dropdown {
+        padding: 0;
+      }
+
+      span.legend.spacer {
+        height: 2.4em;
+        width: 1px;
+      }
+
+      span.legend {
+        border-radius: 1em;
+        margin-right: 0.5em;
+        width: 2.4em;
+        height: 2.4em;
+        text-align: center;
+        color: $color-white;
+      }
+
+      .dropdown {
+        position: absolute;
+        width: 102%;
+        top: 0;
+        left: -1%;
+        right: 0;
+        font-size: 1.6rem;
+        background: $color-white;
+        list-style: none;
+        opacity: 0;
+        pointer-events: none;
+        z-index: 1010;
+        max-height: 70vh;
+        overflow-y: auto;
+        border-top: solid 1px $color-black;
+        border-bottom: solid 1px $color-black;
+        border-right: solid 1px $color-black;
+        border-left: solid 1px $color-black;
+        .dropdown-option {
+          border-bottom: solid 1px $color-black;
+          z-index: 1011;
+          width: 100%;
+          background-color: $color-white;
+          &.is-hovered, &.active, &:hover {
+            color: $color-white;
+            background: $color-primary-darker;
+          }
+          &:last-child {
+            border-bottom: none;
+          }
+        }
+      }
+
+      .dropdown-option {
+        font-weight: 400;
+        width: 100%;
+        background-color: inherit;
+        display: block;
+        box-shadow: none;
+        padding: 0;
+        margin: 0;
+        text-decoration: none;
+      }
+
+      &.active {
+        .dropdown {
+          opacity: 1;
+          pointer-events: auto;
+        }
+
+        .all-facilities {
+          &:after {
+            display: inline-block;
+            font: normal normal normal 1em FontAwesome;
+            content: "\F077";
+            width: 0;
+            height: 0;
+            position: absolute;
+            right: 25px;
+            color: $color-black;
+          }
+        }
+      }
+    }
+  }
+
+  .mb2 {
+    margin-bottom: 2em;
+  }
+
+  //TODO(css): Make this less specific
+  #content .section h4 {
+    padding: 0 0 .25em 0;
+  }
+
+  hr.light {
+    color: $color-gray-light;
+    margin: 0;
+    border: 1px solid $color-gray-light;
+  }
+
+  hr.title {
+    color: $color-primary-darker;
+    margin: 0 0 2rem;
+    border: 1px solid $color-primary-darker;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  input.full-width {
+    width: 100%;
+  }
+
+  ul {
+    margin: 0;
+  }
+
+  .facility-contact-link {
+    font-size: 2rem;
+    text-decoration: none;
+    i {
+      margin-right: 1rem;
+      width: 18px;
+    }
+  }
+
+  .facility-back-link {
+    margin-bottom: 1.5em;
+    i {
+      margin-right: 0.75rem;
+    }
+  }
+
+  .facility-detail {
+    padding: 0 1.5rem;
+
+    li.sublist {
+      margin-left: 1.5em;
+    }
+
+    li.show-more {
+      list-style-type: none;
+    }
+
+    a {
+      text-decoration: none;
+
+      &.seeMore {
+        text-decoration: underline;
+
+        &:after {
+          font: normal normal normal 1em FontAwesome;
+          content: "\F078";
+          text-decoration: none;
+          display: inline-block;
+          padding: 0 0.5em;
+        }
+
+        &.expanded {
+          &:after {
+            font: normal normal normal 1em FontAwesome;
+            content: "\F077";
+            text-decoration: none;
+            display: inline-block;
+            padding: 0 0.5em;
+          }
+        }
+      }
+    }
+
+    h5 {
+      padding-bottom: 0;
+    }
+
+    p {
+      margin: 0.5em 0;
+    }
+
+    a:visited, .edit-checkbox label:visited  {
+      color: $color-link-default;
+    }
+
+    .call-out {
+      border: solid thin $color-black;
+      background: $color-white;
+    }
+
+    hr {
+      border-color: $color-gray-lighter;
+      margin: 0rem 0 2rem;
+      color: $color-primary-darker;
+    }
+
+    hr.title {
+      color: $color-primary-darker;
+      margin: 0 0 2rem;
+      border: 1px solid $color-primary-darker;
+    }
+  }
+}

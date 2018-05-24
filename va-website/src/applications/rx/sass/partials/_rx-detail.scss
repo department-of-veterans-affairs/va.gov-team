@@ -1,0 +1,107 @@
+/* Rx detail page */
+
+#rx-prescription {
+  table {
+    // Get font size to stay the same when table shrinks.
+    display: block;
+    font-size: 1.6rem;
+
+    tbody {
+      &:first-child {
+        th, td {
+          border-top: none;
+        }
+      }
+
+      &:last-child {
+        th, td {
+          border-bottom: none;
+        }
+      }
+    }
+
+    th {
+      white-space: nowrap;
+    }
+
+    td:last-child {
+      width: 99%;
+    }
+  }
+
+  .rx-contact-card {
+    width: 100%;
+  }
+}
+
+#rx-details {
+  padding-top: 3rem;
+}
+
+#rx-info {
+  tbody {
+    &:first-child {
+      td, th {
+        border-bottom: none;
+        padding-top: 0;
+      }
+    }
+
+    &:nth-child(2) {
+      td, th {
+        border-top: none;
+      }
+    }
+  }
+
+  td {
+    padding-right: 0;
+    vertical-align: top;
+  }
+
+  th {
+    font-weight: bold;
+    padding-left: 0;
+    vertical-align: top;
+  }
+
+  .rx-refill-form {
+    display: block;
+    margin-top: .5rem;
+  }
+
+  .rx-prescription-button {
+    margin-left: 16.5rem;
+    width: auto;
+  }
+
+  @include media-maxwidth($medium-screen) {
+    margin-bottom: 3rem;
+  }
+}
+
+#rx-track-package {
+  .rx-history-tracking {
+    display: inline-block;
+    margin: 0;
+    padding-right: 2.2rem;
+  }
+
+  table {
+    margin: 0;
+
+    td {
+      vertical-align: top;
+      white-space: nowrap;
+    }
+
+    @include media-maxwidth($medium-screen) {
+      td {
+        &:nth-child(1):before { content: "Shipment date: "; }
+        &:nth-child(2):before { content: "Carrier: "; }
+        &:nth-child(3):before { content: "Tracking number: "; }
+        &:nth-child(4):before { content: "Prescriptions in package: "; }
+      }
+    }
+  }
+}

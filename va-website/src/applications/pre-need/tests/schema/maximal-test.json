@@ -1,0 +1,135 @@
+{
+  "data": {
+    "application": {
+      "applicant": {
+        "applicantRelationshipToClaimant": "Authorized Agent/Rep",
+        "view:applicantInfo": {
+          "name": {
+            "first": "Ben",
+            "middle": "J",
+            "last": "Preparer",
+            "suffix": "Jr."
+          },
+          "mailingAddress": {
+            "street": "102 medium sky st",
+            "street2": "Apt 4",
+            "city": "Boston",
+            "country": "USA",
+            "state": "ME",
+            "postalCode": "02034"
+          },
+          "view:contactInfo": {
+            "applicantPhoneNumber": "234244444"
+          }
+        }
+      },
+      "veteran": {
+        "address": {
+          "street": "101 small sky st",
+          "street2": "Apt 3",
+          "city": "Hadley",
+          "country": "USA",
+          "state": "ME",
+          "postalCode": "02040"
+        },
+        "view:hasServiceName": true,
+        "serviceName": {
+          "first": "Alex",
+          "middle": "Jane",
+          "last": "Doe",
+          "suffix": "Jr."
+        },
+        "serviceRecords": [
+          {
+            "dateRange": {
+              "from": "2003-01-01",
+              "to": "2005-03-02"
+            },
+            "serviceBranch": "FS",
+            "dischargeType": "1",
+            "highestRank": "Colonel?"
+          },
+          {
+            "dateRange": {
+              "from": "2007-01-01",
+              "to": "2009-03-02"
+            },
+            "serviceBranch": "C3",
+            "dischargeType": "2",
+            "highestRank": "General"
+          }
+        ],
+        "currentName": {
+          "first": "Jane",
+          "middle": "Meg",
+          "last": "Johnson",
+          "suffix": "Sr.",
+          "maiden": "Anderson"
+        },
+        "ssn": "234-44-4443",
+        "dateOfBirth": "1978-03-02",
+        "militaryServiceNumber": "sadasdf",
+        "vaClaimNumber": "23444444",
+        "placeOfBirth": "Amherst, MA",
+        "gender": "Female",
+        "maritalStatus": "Married",
+        "militaryStatus": "A",
+        "isDeceased": "yes",
+        "dateOfDeath": "1989-01-01"
+      },
+      "claimant": {
+        "address": {
+          "street": "101 big sky st",
+          "street2": "Apt 2",
+          "city": "Northampton",
+          "country": "USA",
+          "state": "ME",
+          "postalCode": "01050"
+        },
+        "view:contactInfoDescription": {},
+        "phoneNumber": "2342444444",
+        "email": "test@test.com",
+        "desiredCemetery": {
+          "id": "804",
+          "widget": "autosuggest",
+          "label": "BEVERLY NATIONAL CEMETERY"
+        },
+        "view:desiredCemeteryNote": {},
+        "name": {
+          "first": "Joe",
+          "middle": "Scott",
+          "last": "Tester",
+          "suffix": "Jr.",
+          "maiden": "Smith"
+        },
+        "ssn": "244-44-4444",
+        "dateOfBirth": "1978-03-02",
+        "relationshipToVet": "2"
+      },
+      "preneedAttachments": [
+        {
+          "name": "tavern_hill.pdf",
+          "confirmationCode": "74c64887-f843-4ea6-9c1d-85f412c8c309",
+          "attachmentId": "1"
+        }
+      ],
+      "hasCurrentlyBuried": "1",
+      "currentlyBuriedPersons": [
+        {
+          "name": {
+            "first": "Grant",
+            "middle": "E",
+            "last": "Smith",
+            "suffix": "Sr."
+          },
+          "cemeteryNumber": {
+            "label": "MASSACHUSETTS NATIONAL CEMETERY",
+            "id": "818",
+            "widget": "autosuggest"
+          }
+        }
+      ]
+    },
+    "privacyAgreementAccepted": false
+  }
+}

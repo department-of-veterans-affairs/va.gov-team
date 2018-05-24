@@ -1,0 +1,7 @@
+{
+  "appName": "686 Dependent-status form",
+  "entryFile": "./686-entry.jsx",
+  "entryName": "686-dependent-status",
+  "rootUrl": "/disability-benefits/apply/dependents/form-686c-dependents",
+  "production": false
+}

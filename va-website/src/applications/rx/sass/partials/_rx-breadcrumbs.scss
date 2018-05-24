@@ -1,0 +1,10 @@
+// Styles for breadcrumbs
+.rx-breadcrumbs {
+  color: $color-primary;
+
+  a {
+    &:hover, &:visited {
+      color: $color-primary;
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="93px" height="90px" viewBox="0 0 93 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>exit-icon-secondary-darkest</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="exit-icons" transform="translate(-19.000000, -456.000000)" fill="#981B1E">
+            <path d="M87,495 L47,495 L47,505 L87,505 L87,516 L112,500 L87,484 L87,495 Z M97,462.009833 C97,458.693521 94.3177317,456 91.008986,456 L24.991014,456 C21.6849366,456 19,458.690694 19,462.009833 L19,539.990167 C19,543.306479 21.6822683,546 24.991014,546 L91.008986,546 C94.3150634,546 97,543.309306 97,539.990167 L97,529 L87,529 L87,537 L29,537 L29,466 L87,466 L87,474 L97,474 L97,462.009833 Z" id="exit-icon-secondary-darkest"></path>
+        </g>
+    </g>
+</svg>

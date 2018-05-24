@@ -1,0 +1,148 @@
+// Variables
+
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-form-process";
+
+.user-profile-row {
+  margin-bottom: 6em;
+}
+
+.profile-section {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding: 0;
+
+  .mfa-message {
+    h2:first-of-type {
+      padding-top: 0.15em;
+    }
+
+    div + div {
+      padding-right: 0;
+      text-align: right;
+
+      button {
+        margin-right: 0;
+      }
+    }
+  }
+
+
+  h4 {
+    border-bottom: 2px solid $color-primary;
+    margin-bottom: 0.5em !important;
+  }
+
+  p {
+    padding: 0;
+    margin-top: 0;
+  }
+
+  .columns {
+    padding: 0;
+  }
+
+  .label {
+    font-weight: bold;
+  }
+
+  .success {
+    color: $color-green;
+  }
+
+  .error {
+    color: $color-secondary-darkest;
+  }
+
+  .va-callout {
+    color: $color-primary-darker;
+
+    &.grey {
+      background-color: $color-gray-lighter;
+    }
+
+    p {
+      margin: 0;
+    }
+  }
+
+  .info-container {
+    span.label {
+      margin-right: 5px;
+    }
+  }
+
+  .resume {
+    padding-left: 8px;
+    padding-right: 8px;
+    @include media($medium-large-screen) {
+      padding-left: 8px;
+    }
+  }
+  .saved-form-information {
+    margin: 0;
+
+    .saved-form-metadata-container {
+      margin-bottom: 8px;
+    }
+
+    .saved-form-metadata {
+      display: block;
+    }
+    .saved-form-item-metadata:last-child {
+      margin-bottom: 8px;
+    }
+    .saved-form-item-metadata:last-child {
+      margin-bottom: 8px;
+    }
+  }
+
+  .saved {
+    color: $color-primary;
+  }
+
+  .form-title {
+    @include media ($medium-large-screen) {
+      padding-right: 24px;
+    }
+  }
+
+  .remove-saved-application-button {
+    float: right;
+  }
+
+  .remove-saved-application-container {
+    margin-bottom: 16px;
+    float: right;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .remove-saved-application-label {
+    display: inline;
+    margin-left: 5px;
+  }
+
+  .application-route {
+    margin-top: 0;
+    margin-right: 0;
+  }
+
+  .expires {
+    font-weight: bold;
+    display: inline;
+  }
+
+  .va-expired-item-close {
+    float: right;
+    top: initial;
+    right: initial;
+    position: relative;
+  }
+
+  .saved-form-expired {
+    margin-top: 0;
+    margin-bottom: 1.5em;
+  }
+}

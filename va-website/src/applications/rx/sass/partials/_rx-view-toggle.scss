@@ -1,0 +1,37 @@
+.rx-view-toggle {
+  display: none;
+  float: right;
+  margin: 2.5rem 0;
+
+  @media (min-width: $medium-screen) {
+    display: block;
+  }
+
+  ul, li {
+    display: inline-block;
+    list-style-type: none;
+  }
+
+  ul {
+    margin: 0 0 0 1rem;
+    padding: 0;
+  }
+
+  li {
+    border: solid thin $color-black;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    width: 8rem;
+
+    &.active {
+      color: $color-white;
+      background: $color-primary;
+    }
+  }
+
+  li + li {
+    border-left: none;
+  }
+}

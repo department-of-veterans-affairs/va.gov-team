@@ -1,0 +1,26 @@
+{
+  "data": {
+    "veteranFullName": {
+      "first": "Joe",
+      "middle": "Francis",
+      "last": "Tester",
+      "suffix": "Jr."
+    },
+    "gender": "F",
+    "veteranSocialSecurityNumber": "224423444",
+    "veteranDateOfBirth": "1980-02-04",
+    "serviceBranch": "F",
+    "privacyAgreementAccepted": false,
+    "email": "test@test.com",
+    "view:confirmEmail": "test@test.com",
+    "phone": "2345555555",
+    "veteranAddress": {
+      "street": "123 1st st",
+      "street2": "Apt 3",
+      "city": "Troy",
+      "country": "USA",
+      "state": "MT",
+      "postalCode": "59935"
+    }
+  }
+}

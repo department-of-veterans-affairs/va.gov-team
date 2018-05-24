@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="93px" height="90px" viewBox="0 0 93 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>exit-icon-primary-dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-147.000000, -350.000000)" fill="#205493">
+            <path d="M215,389 L175,389 L175,399 L215,399 L215,410 L240,394 L215,378 L215,389 Z M225,356.009833 C225,352.693521 222.317732,350 219.008986,350 L152.991014,350 C149.684937,350 147,352.690694 147,356.009833 L147,433.990167 C147,437.306479 149.682268,440 152.991014,440 L219.008986,440 C222.315063,440 225,437.309306 225,433.990167 L225,423 L215,423 L215,431 L157,431 L157,360 L215,360 L215,368 L225,368 L225,356.009833 Z" id="exit-icon-primary-dark"></path>
+        </g>
+    </g>
+</svg>

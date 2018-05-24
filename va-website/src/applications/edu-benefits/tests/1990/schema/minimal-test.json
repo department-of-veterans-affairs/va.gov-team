@@ -1,0 +1,54 @@
+{
+  "data": {
+    "veteranAddress": {
+      "street": "123 test st",
+      "city": "Florence",
+      "country": "USA",
+      "state": "MA",
+      "postalCode": "01060"
+    },
+    "view:otherContactInfo": {
+      "email": "test@test.com",
+      "view:confirmEmail": "test@test.com"
+    },
+    "educationProgram": {
+      "address": {
+        "country": "USA"
+      },
+      "educationType": "college"
+    },
+    "toursOfDuty": [
+      {
+        "serviceBranch": "Army",
+        "dateRange": {
+          "from": "2003-03-02"
+        },
+        "applyPeriodToSelected": true
+      }
+    ],
+    "view:selectedBenefits": {
+      "chapter32": true
+    },
+    "veteranFullName": {
+      "first": "Joe",
+      "last": "Test"
+    },
+    "veteranSocialSecurityNumber": "234234244",
+    "veteranDateOfBirth": "1980-03-02",
+    "privacyAgreementAccepted": true,
+    "view:benefitsRelinquishedContainer": {
+      "benefitsRelinquishedDate": "2017-08-29"
+    },
+    "view:questionText": {},
+    "currentlyActiveDuty": {},
+    "secondaryContact": {
+      "view:address": {
+        "address": {
+          "country": "USA"
+        }
+      }
+    },
+    "serviceBefore1977": {},
+    "bankAccount": {}
+  }
+}

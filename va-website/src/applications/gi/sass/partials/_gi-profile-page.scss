@@ -1,0 +1,183 @@
+.gi-app .profile-page {
+
+  h3 {
+    font-size: 1.35em;
+  }
+
+  .usa-accordion {
+    margin-top: 1em;
+  }
+
+  .link-header {
+    h3, h5 {
+      display: inline-block;
+      padding: 0;
+    }
+
+    padding-bottom: .5em;
+  }
+
+  .caution-flag {
+    background-color: $color-gold;
+  }
+
+  .additional-resources {
+    @include media-maxwidth($medium-large-screen) {
+      display: none;
+    }
+  }
+
+  .icon-with-info {
+    margin-top: 0;
+  }
+
+  li button.usa-accordion-button {
+    text-align: left;
+
+    h2 {
+      font-size: 1.35em;
+      padding: 0;
+    }
+  }
+
+  .calculate-your-benefits {
+    div.eligibility-details h2 {
+      display: none;
+    }
+
+    button {
+      color: $color-primary;
+      margin: 0.5em 0;
+      padding: 1rem 2rem;
+    }
+
+    .form-expanding-group-open {
+      margin-bottom: 3rem;
+
+      @media screen and (min-width: $small-screen) {
+        border-left: none;
+        padding-left: 0;
+      }
+    }
+
+    .calculator-result {
+      .value {
+        text-align: right;
+      }
+
+      &.bold {
+        font-weight: bold;
+      }
+
+      h5 {
+        padding: 0;
+      }
+    }
+  }
+
+  .programs.row {
+    .fa-check {
+      color: $color-green;
+    }
+
+    .fa-remove {
+      color: $color-gray-medium;
+    }
+  }
+
+  .your-estimated-benefits {
+    background: $color-gray-lightest;
+    padding: 1.5rem;
+    overflow-wrap: break-word;
+
+    hr {
+      border: 1px solid $color-primary-darkest;
+    }
+  }
+
+  .total-paid-to-you {
+    .calculator-result {
+      margin-top: 1.6rem;
+    }
+  }
+
+  .per-term-section {
+    & + .per-term-section {
+      margin-top: 1.5rem;
+    }
+  }
+
+  .outcomes .graph-component {
+    margin: 1em auto;
+    clear: both;
+  }
+
+  .graph-key {
+    margin-top: 1rem;
+
+    @include media-maxwidth($medium-large-screen) {
+      width: 200%;
+    }
+  }
+
+  .cautionary-information {
+
+    .table {
+      table {
+        margin: 1em 0;
+      }
+
+      th:first-child {
+        width: 60%;
+      }
+    }
+
+    .complaints-by-type {
+      th:first-child span {
+        font-weight: normal;
+      }
+    }
+
+    .list {
+      h4 {
+        padding: 0.5em 0 !important;
+      }
+      .number {
+        text-align: right;
+      }
+      margin-bottom: 1em;
+    }
+
+    @media screen and (min-width: $medium-screen) {
+      .list {
+        display: none;
+      }
+    }
+
+    @include media-maxwidth($medium-screen) {
+      .table {
+        display: none;
+      }
+    }
+  }
+
+  .additional-information {
+    .historical-information.list {
+      margin-bottom: 2rem;
+
+      @media screen and (min-width: $medium-screen) {
+        display: none;
+      }
+    }
+
+    .institution-summary {
+      margin-bottom: 2rem;
+    }
+
+    @include media-maxwidth($medium-screen) {
+      .historical-information.table {
+        display: none;
+      }
+    }
+  }
+}

@@ -1,0 +1,197 @@
+// Nesting because USWDS uses high-specificity selectors.
+[id=msg-search] {
+  position: relative;
+
+  @media (min-width: $medium-screen) {
+    margin-bottom: 2rem;
+  }
+
+  label {
+    margin-top: 0;
+  }
+
+  .msg-search-btn {
+    border-radius: 0 0.3rem 0.3rem 0;
+    margin: 0;
+
+    @media (max-width: $medium-screen) {
+      flex: 0 1 5rem;
+    }
+  }
+
+  [type=search],
+  [type=text] {
+    margin: 0;
+    max-width: 100%;
+  }
+
+  button {
+    @media (min-width: $medium-screen) {
+      width: auto;
+    }
+  }
+
+  .msg-search-btn,
+  [name=mquery] {
+    position: relative;
+
+    &:focus,
+    &:hover {
+      z-index: 1;
+    }
+  }
+}
+
+.msg-search-simple-wrap {
+  > div {
+    flex: 1 1 30rem;
+  }
+  label {
+    position: absolute;
+    left: -9999em;
+  }
+  input {
+    &:focus {
+      position: relative;
+      z-index: 1;
+    }
+  }
+}
+
+.msg-search-btn {
+  .fa.fa-search {
+    font-size: 2rem;
+  }
+
+  @media (min-width: $medium-screen) {
+    .fa.fa-search {
+      display: none;
+    }
+  }
+
+  &-text {
+    position: absolute;
+    left: -9999rem;
+
+    @media (min-width: $medium-screen) {
+      position: static;
+    }
+  }
+}
+
+.msg-search-advanced {
+  text-align: right;
+}
+
+.msg-search-advanced-controls {
+  text-align: left;
+}
+
+.msg-search-advanced-group {
+  @media (min-width: $medium-screen) {
+    align-items: center;
+    display: flex;
+  }
+
+  label {
+    @media (min-width: $medium-screen) {
+      -webkit-flex: 1 0 10rem;
+      flex:  1 0 10rem;
+      width: auto;
+    }
+  }
+
+  legend {
+    @media (min-width: $medium-screen) {
+      -webkit-flex: 0 0 10rem;
+      flex:  0 0 10rem;
+    }
+  }
+
+  > div {
+    align-items: center;
+    margin-bottom: 1rem;
+
+    @media (min-width: $medium-screen) {
+      // Affects the element's  children
+      display: flex;
+      // Affects the element itself, since it's also a flex child
+      flex: 0 1 75%;
+    }
+  }
+
+  .form-checkbox {
+    -webkit-flex: 0 1 25%;
+    flex: 0 1 25%;
+
+    @media (max-width: $medium-screen) {
+      margin-bottom: 1em;
+    }
+
+    @media (min-width: $medium-screen) {
+      padding-left: 1.5rem;
+    }
+
+    label {
+      margin-bottom: 0;
+      white-space: nowrap;
+    }
+  }
+}
+
+.msg-search-date-range-legend {
+  font: inherit;
+  padding-top: 0rem;
+
+  @media (min-width: $medium-screen) {
+    > div {
+      text-align: center;
+    }
+  }
+}
+
+.msg-search-date-range {
+  align-items: center;
+  display: flex;
+
+  @media (max-width: $medium-screen) {
+    > div {
+      flex: 1 0 11rem;
+      text-align: center;
+    }
+  }
+
+  span {
+    padding-left: .5rem;
+    padding-right: .5rem;
+  }
+}
+
+.msg-search-advanced-toggle {
+  background: $color-white;
+  color: $color-primary;
+  margin-right: 0;
+  padding:  .25rem 0;
+  text-align: inherit;
+  text-decoration: underline;
+  width: auto;
+
+  &:hover {
+    background: $color-white;
+    color: $color-primary-darker;
+  }
+
+  &:focus {
+    box-shadow: 0 0 3px $color-focus, 0 0 7px $color-focus;
+  }
+}
+
+// Using an longer selector here because of a form[type="submit"]
+// somewhere else in the CSS
+form .msg-search-advanced-submit[type="submit"] {
+  margin: 2.5rem 0 0 0;
+
+  @media (min-width: $medium-screen) {
+    margin-left: 10rem;
+  }
+}
