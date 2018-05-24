@@ -1,0 +1,29 @@
+{
+  "privacyAgreementAccepted": true,
+  "relativeFullName": {
+    "first": "Jane",
+    "last": "Doe"
+  },
+  "previousBenefits": {
+    "chapter35": true,
+    "other": "Another benefit",
+    "veteranFullName": {
+      "first": "Previous sponsor first",
+      "middle": "middle",
+      "last": "Previous sponsor last",
+      "suffix": "Sr."
+    },
+    "vaFileNumber": "C12345678"
+  },
+  "highSchool": {},
+  "educationProgram": {},
+  "relativeAddress": {
+    "street": "123 main st",
+    "city": "Boston",
+    "country": "USA",
+    "state": "ME",
+    "postalCode": "03443"
+  },
+  "email": "test@test.com",
+  "secondaryContact": {}
+}

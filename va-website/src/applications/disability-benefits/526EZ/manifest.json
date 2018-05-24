@@ -1,0 +1,7 @@
+{
+  "appName": "21-526EZ disability compensation claim form",
+  "entryFile": "./form-entry.jsx",
+  "entryName": "526EZ-claims-increase",
+  "rootUrl": "/disability-benefits/526/apply-for-increase",
+  "production": false
+}

@@ -1,0 +1,7 @@
+{
+  "appName": "Terms and Conditions",
+  "entryFile": "./terms-and-conditions-entry.js",
+  "entryName": "terms-and-conditions",
+  "rootUrl": "/",
+  "production": true
+}

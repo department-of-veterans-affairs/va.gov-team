@@ -1,0 +1,66 @@
+$usa-btn-small-width:   4.5rem;
+$usa-btn-medium-width:  8.5rem;
+$usa-btn-big-width:     11.6rem;
+
+.usa-search {
+  // Wrapper for field and button
+  [role="search"] {
+    display: flex;
+  }
+
+  // Search box
+  [type="search"] {
+    -webkit-appearance: none;
+    border-bottom-right-radius: 0;
+    border-right: none;
+    border-top-right-radius: 0;
+    height: 3.3rem;
+    margin: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    width: calc(100% - #{$usa-btn-small-width});
+  }
+
+  [type="submit"] {
+    background-image: url(/img/search.png);
+    background-image: url(/img/search.svg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    height: 3.3rem;
+    margin: 0;
+    padding: 0;
+    width: $usa-btn-small-width;
+  }
+}
+
+
+//---- Mobile search
+.va-btn-mobsearchtrigger {
+  font-weight: normal;
+  padding: .5em;
+  margin-top: 0;
+  border-radius: .15em;
+  width: auto;
+
+  svg {
+    display: inline-block;
+    height: 19px;
+    vertical-align: -3px;
+    width: auto;
+  }
+
+  &:hover {
+    background: transparent;
+    color: $color-gold;
+
+    path {
+      fill: $color-gold;
+    }
+  }
+
+  @include media($medium-large-screen) {
+    display: none;
+  }
+}

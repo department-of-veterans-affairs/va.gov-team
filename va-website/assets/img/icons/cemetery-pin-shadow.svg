@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="28px" height="41px" viewBox="0 0 28 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Cemetery (shadow)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M0.0555075758,8.30668235 C0.0555075758,10.1144353 0.666606061,11.8277176 1.74829545,13.255 L8.14441667,21.7233176 C8.28531061,21.9138118 8.61449242,21.9611765 8.80265152,21.8185647 C8.84978788,21.7708118 8.84978788,21.7708118 8.89640909,21.7233176 L15.2925303,13.255 C16.3742197,11.8277176 16.9853182,10.1144353 16.9853182,8.30668235 C16.9853182,3.73948235 13.1759015,0.0284705882 8.52073485,0.0284705882 C3.86492424,0.0284705882 0.0555075758,3.73948235 0.0555075758,8.30668235 L0.0555075758,8.30668235 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cemetery-(shadow)">
+            <g id="Group" transform="translate(6.000000, 10.000000)">
+                <g id="Group-3" filter="url(#filter-1)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <polygon id="Fill-1" fill="#0056A8" mask="url(#mask-3)" points="-5.18461364 27.7800471 22.225697 27.7800471 22.225697 -5.85044706 -5.18461364 -5.85044706"></polygon>
+                </g>
+                <g id="Page-1" transform="translate(4.250000, 2.538462)" fill="#FEFEFE">
+                    <polygon id="Fill-1" points="0 11.3999341 7.97995939 11.3999341 7.97995939 10.6849275 0 10.6849275"></polygon>
+                    <path d="M5.71130491,4.25338125 L2.2685228,4.25338125 C2.13552567,4.25338125 2.02675773,4.14386976 2.02675773,4.00996346 C2.02675773,3.87605716 2.13552567,3.76641308 2.2685228,3.76641308 L5.71130491,3.76641308 C5.84430203,3.76641308 5.95306998,3.87605716 5.95306998,4.00996346 C5.95306998,4.14386976 5.84430203,4.25338125 5.71130491,4.25338125 M2.50172866,2.97543783 L5.31205016,2.97543783 C5.44504729,2.97543783 5.55381524,3.08494932 5.55381524,3.21898821 C5.55381524,3.35289451 5.44504729,3.462406 5.31205016,3.462406 L2.50172866,3.462406 C2.36873153,3.462406 2.25996358,3.35289451 2.25996358,3.21898821 C2.25996358,3.08494932 2.36873153,2.97543783 2.50172866,2.97543783 M4.02368986,6.6290249e-05 C2.1935967,6.6290249e-05 0.710086154,1.37943379 0.710086154,3.08097191 L0.710086154,10.1791992 L7.33742524,10.1791992 L7.33742524,3.08097191 C7.33742524,1.37943379 5.85378302,6.6290249e-05 4.02368986,6.6290249e-05" id="Fill-2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

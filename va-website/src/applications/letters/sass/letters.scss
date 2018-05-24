@@ -1,0 +1,199 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-form-process";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-progress-bar";
+
+@mixin schemaform-padding {
+  // query borrowed from _m-schemaform.scss
+  @media(max-width: 40.063em) {
+    padding-right: 2rem - .9375rem;
+  }
+}
+
+.letters {
+  h5 {
+    padding-top: 1.5em;
+  }
+
+  .form-process-total {
+    padding-left: 4px;
+  }
+
+  .feature {
+    margin-top: 1em;
+    min-height: 0;
+
+    &.help-desk {
+      margin-top: 2em;
+
+      h2 {
+        margin-top: .5em;
+      }
+    }
+  }
+
+  .address-block {
+    background-color: $color-gray-lightest;
+    padding: 1em;
+
+    h5 {
+      color: $color-primary-darker;
+      padding: 0;
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    button {
+      margin-top: 2em;
+
+      &.va-modal-close {
+        margin-top: .25rem;
+      }
+
+      &.address-help-btn {
+        background-color: transparent;
+        color: $color-primary-darker;
+        display: block;
+        font-weight: normal;
+        margin: 1em 0;
+        outline: none;
+        padding: 0;
+        text-align: left;
+        text-decoration: underline;
+      }
+
+      &.edit-address {
+        margin-top: 1em;
+      }
+    }
+  }
+
+  .va-introtext {
+    @include schemaform-padding;
+  }
+
+  .progress-bar-segmented {
+    @include schemaform-padding;
+    padding-right: 2rem;
+  }
+
+  .letters-address {
+    text-transform: capitalize;
+  }
+
+  .view-letters-button {
+    margin: 2em 0;
+  }
+
+  .accordion-header > button {
+    min-height: 6rem;
+    padding-bottom: 1.5rem;
+    padding-top: 1.5rem;
+  }
+
+  .download-button {
+    margin: 1.5em 0 1em;
+
+    > button {
+      &:disabled {
+        background-color: $color-gray-lighter;
+        color: $color-black;
+      }
+    }
+  }
+
+  .service-info {
+    text-transform: capitalize;
+  }
+
+  table > tbody > tr {
+    vertical-align: middle;
+
+    th {
+      input,
+      label {
+        cursor: pointer;
+      }
+
+      label {
+        // The USWDS label controlling the checkbox enforces an 8px margin-bottom
+        // We are adding an equivalent top margin so that vertical-align works
+        // correctly without using !important to over-ride margin-bottom
+        margin-top: 8px;
+        text-align: center;
+      }
+    }
+
+    td > label {
+      cursor: pointer;
+      margin: 0;
+    }
+  }
+
+  th {
+    [scope="row"] {
+      padding-bottom: 0;
+      padding-top: 0;
+    }
+  }
+
+  .form-expanding-group {
+    margin-left: initial;
+    margin-top: 1.5em;
+  }
+
+  .form-expanding-group-open {
+    border-left: 0;
+    padding-left: initial;
+  }
+}
+
+#records-not-found {
+  h2 {
+    margin-top: 2em;
+  }
+
+  hr {
+    border-color: $color-primary;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .letters-phone-nowrap {
+    white-space: nowrap;
+  }
+}
+
+// --- Copied from _m-schemaform.css --- //
+
+// This probably belongs somewhere else
+
+.usa-alert, .usa-input-error, .nav-header > h4, .nav-header {
+  &:focus {
+    outline: none;
+  }
+}
+
+label + div {
+  select, input:not([type="radio"]) {
+    margin-top: 0.5em;
+  }
+}
+
+// Copied from .schemaform-chapter-progress
+.section-content {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-bottom: 1.5em;
+  @media (max-width: 40.063em) {
+    padding-left: 2rem - .9375rem;
+    padding-right: 2rem - .9375rem;
+  }
+  > h4 {
+    padding-bottom: 0 !important;
+  }
+}
+
+// --- End copy from _m-schemaform.css --- //
+

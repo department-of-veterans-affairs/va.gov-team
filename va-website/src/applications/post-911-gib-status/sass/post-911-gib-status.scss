@@ -1,0 +1,116 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+
+.gib-info {
+  margin-bottom: 5em;
+
+  h3 {
+    border-bottom: 1px solid $color-gray-light;
+    margin: 1em 0 .5em 0;
+    padding: 0 0 .25em 0;
+  }
+
+  hr {
+    border-style: solid;
+    border-color: $color-gray-light;
+    border-width: 1px 0 0 0;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+
+  .section {
+    margin-bottom: 2em;
+  }
+
+  .section-line {
+    margin-bottom: .25em;
+  }
+
+  /*.usa-alert {
+    margin: 1em 0 1em 0;
+  }*/
+
+  .feature {
+      min-height: 0;
+      margin-top: 1em;
+
+    &.help-desk {
+      margin-top: 2em;
+    }
+  }
+
+  .not-qualified h5 {
+    margin-top: 1em;
+    padding-bottom: 0;
+  }
+
+  .usa-accordion {
+    margin-top: 16px;
+  }
+
+  .facility {
+    text-transform: capitalize;
+  }
+
+  .yellow-ribbon-school {
+    margin-bottom: 0.75em;
+  }
+
+  .print-status {
+    background-color: $color-white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow-y: scroll;
+    z-index: 2000;
+
+    h1 {
+      margin-top: 1em;
+    }
+  }
+
+  .print-screen {
+    @media (min-width: 950px) {
+      max-width: 950px;
+      margin: 0 auto;
+      padding: 50px 300px 30px 0;
+    }
+
+    @media (max-width: 949px) {
+      padding: 20px;
+    }
+
+    @media print {
+      font: $font-serif;
+      color: $color-gray-dark;
+      padding: 0;
+      a {
+        text-decoration: none;
+        &:after {
+          content: " (https://vets.gov" attr(href) ")";
+        }
+      }
+
+      button {
+        display: none;
+      }
+    }
+  }
+}
+
+#noChapter33Benefits {
+  h2 {
+    margin-top: 2em;
+  }
+
+  hr {
+    margin-top: 0;
+    margin-bottom: 0;
+    border-color: $color-primary;
+  }
+
+  .gi-phone-nowrap {
+    white-space: nowrap;
+  }
+}

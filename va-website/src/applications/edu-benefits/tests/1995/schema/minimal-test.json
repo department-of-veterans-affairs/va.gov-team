@@ -1,0 +1,24 @@
+{
+  "data": {
+    "privacyAgreementAccepted": true,
+    "veteranFullName": {
+      "first": "asdf",
+      "last": "asdf"
+    },
+    "veteranSocialSecurityNumber": "123333333",
+    "newSchoolAddress": {
+      "country": "USA"
+    },
+    "oldSchool": {
+      "address": {
+        "country": "USA"
+      }
+    },
+    "veteranAddress": {
+      "country": "USA"
+    },
+    "view:otherContactInfo": {},
+    "serviceBefore1977": {},
+    "bankAccount": {}
+  }
+}

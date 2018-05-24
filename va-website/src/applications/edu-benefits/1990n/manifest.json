@@ -1,0 +1,7 @@
+{
+  "appName": "22-1990N Education benefits form",
+  "entryFile": "./edu-benefits-entry.jsx",
+  "entryName": "1990n-edu-benefits",
+  "rootUrl": "/education/apply-for-education-benefits/application/1990N",
+  "production": true
+}

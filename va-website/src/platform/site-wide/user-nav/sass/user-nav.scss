@@ -1,0 +1,276 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+
+span.sidelines {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;
+  display: inline-block;
+
+  font-size: 1.15em;
+  font-weight: bold;
+
+  &:before, &:after {
+    position: absolute;
+    top: 51%;
+    overflow: hidden;
+    width: 50%;
+    height: 2px;
+    content: "\a0";
+    background-color: $color-gray-light-alt;
+  }
+
+  &:before {
+    margin-left: -52%;
+    text-align: right;
+  }
+
+  &:after {
+    margin-left: 2%;
+  }
+}
+
+#login-root {
+  .profile-nav {
+    display: flex;
+    align-items: center;
+  }
+
+  .va-modal-body {
+    // Overwrite white header color.
+    color: $color-gray-dark;
+    padding-top: 0;
+  }
+
+  .va-modal-title {
+    display: none;
+  }
+
+  .va-modal-inner {
+    max-width: 62.5em;
+    width: 95vw;
+  }
+
+  .login {
+    .explanation-content {
+      ul {
+        list-style: square;
+        padding-left: 1.5em;
+      }
+
+      p {
+        margin: 1em 0;
+      }
+    }
+  }
+}
+
+.verify, .login {
+  button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 0.75em;
+    font-size: 16px;
+    margin: 1em 0;
+    white-space: normal !important;
+
+    &.dslogon {
+      background: $color-primary-darker;
+
+      &:hover {
+        background: $color-primary-darkest;
+      }
+    }
+
+    &.idme-create {
+      box-shadow: inset 0 0 0 2px $color-green;
+      color: $color-green;
+      margin-bottom: 0;
+
+      &:hover {
+        box-shadow: inset 0 0 0 2px $color-green-darker;
+        color: $color-green-darker;
+      }
+    }
+
+    img {
+      height: 1em;
+      padding: 0 0.25em;
+    }
+  }
+
+  .container {
+    padding: 2em 0;
+    color: $color-base;
+  }
+
+  .logo {
+    text-align: center;
+    border-bottom: solid 2px $color-gray-light-alt;
+    padding: 1em 0;
+
+    a {
+      &:hover {
+        background-color: transparent;
+      }
+      display: inline-block;
+    }
+  }
+
+  .help-info {
+    padding: 2em 0;
+
+    p:first-of-type {
+      margin-top: 0;
+    }
+  }
+}
+
+.verify {
+  button {
+    width: auto;
+
+    &.dslogon {
+      margin-bottom: 0.25em;
+    }
+  }
+
+  h4 + p {
+    margin-top: 0;
+  }
+}
+
+.login {
+  background: $color-white;
+
+  hr {
+    border-color: $color-gray-lighter;
+  }
+
+  @include media-maxwidth($small-screen) {
+    .hide-for-small {
+      display: none;
+    }
+  }
+
+  @include media($small-screen) {
+    .hide-for-medium-up {
+      display: none;
+    }
+  }
+
+  .mobile-explanation {
+    padding: 1em 0;
+
+    p {
+      margin-top: 0;
+    }
+  }
+
+  .fed-warning {
+    font-size: 0.9em;
+    margin-bottom: 2em;
+
+    p {
+      margin: 0.5em 0;
+    }
+  }
+
+  .signin-actions-container {
+    text-align: center;
+    margin-right: 2em;
+
+    @include media-maxwidth($small-screen) {
+      margin-right: 0;
+    }
+
+    div:first-child {
+      background: $color-gray-light-alt;
+    }
+
+    border: solid 2px $color-gray-light-alt;
+
+    .top-banner {
+      text-align: center;
+      display: flex;
+      align-items: center;
+      padding: 0.25em 0;
+      font-style: italic;
+
+      div:first-child {
+        margin: 0 auto;
+      }
+
+      img {
+        height: inherit;
+        vertical-align: baseline;
+        padding: 0 0.25em;
+      }
+    }
+
+    .signin-actions {
+      padding: 2em 2em 1em;
+
+      h5 {
+        margin-top: 0;
+      }
+
+      @include media-maxwidth($small-screen) {
+        padding: 2em 1em 1em;
+      }
+
+      .alternate-signin {
+        padding-top: 1em;
+
+        p:first-of-type {
+          margin-top: 0.5em;
+          color: $color-gray-dark;
+        }
+      }
+    }
+  }
+}
+
+.sign-in-nav {
+  color: $color-white;
+  white-space: nowrap;
+
+  a {
+    color: inherit;
+    text-decoration: none;
+
+    &:visited {
+      color: inherit;
+    }
+  }
+
+  button {
+    &:disabled {
+      background-color: inherit;
+      opacity: 0.7;
+    }
+  }
+}
+
+.sign-in-links {
+  margin-left: 1rem;
+}
+
+.sign-in-link {
+  color: inherit !important;
+  text-decoration: none;
+
+  &:hover {
+    color: $color-gold !important;
+    text-decoration: underline;
+  }
+}
+
+.sign-in-spacer {
+  color: $color-white;
+  margin: 0 0.6em;
+}

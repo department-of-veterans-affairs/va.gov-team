@@ -1,0 +1,141 @@
+#messaging-folder-controls {
+  margin: 0;
+  position: relative;
+  width: 100%;
+
+  .messaging-compose-button {
+    margin: 2rem 0;
+  }
+
+  @media (max-width: $medium-screen) {
+    padding: 0 2rem;
+
+    .messaging-message-nav {
+      margin: 2rem 0;
+    }
+  }
+
+  @media (min-width: $medium-screen) {
+    &::after {
+      content: "\A0";
+      display: block;
+      clear: both;
+    }
+
+    padding: 0;
+
+    .messaging-compose-button {
+      display: none;
+      margin-bottom: 4.5rem;
+    }
+  }
+}
+
+.msg-nomessages {
+  margin: 0;
+}
+
+.msg-folder-sort-select {
+  margin: 2rem;
+
+  @media (min-width: $medium-screen) {
+    display: none;
+  }
+}
+
+.msg-table-list {
+  margin-top: 0;
+
+  @media (max-width: $medium-screen) {
+    border-color: $color-gray-light;
+    border-style: solid;
+    border-width: 1px 0;
+  }
+}
+
+// Also see messaging-moveto.scss for styles related
+// to the MoveTo component contained by the message table.
+.messaging-message-row {
+  &--unread td {
+    font-weight: bold;
+  }
+
+  a {
+    color: $color-black;
+    display: block;
+    padding: 1.5rem;
+    text-decoration: none;
+
+    &:hover {
+      background: transparent;
+    }
+
+    &:visited {
+      color: $color-black;
+    }
+  }
+
+  td {
+    padding: 0;
+  }
+
+  @media (max-width: $medium-screen) {
+    position: relative;
+
+    a {
+      padding: 2rem;
+    }
+
+    td {
+      display: block;
+
+      // From/To
+      &:nth-child(1) {
+        font-size: 1.8rem;
+        left: 0;
+        width: 75%;
+      }
+
+      // Subject
+      &:nth-child(2) {
+        margin-top: -2.5rem;
+
+        a {
+          color: $color-gray-light;
+        }
+      }
+
+      // Attachment icon
+      &:nth-child(3) {
+        font-weight: normal;
+        position: absolute;
+        right: 26%;
+        text-align: center;
+        top: 0;
+        width: 5%;
+
+        i {
+          padding: 2.7rem 0;
+        }
+      }
+
+      // Date
+      &:nth-child(4) {
+        font-weight: normal;
+        position: absolute;
+        right: 0;
+        text-align: right;
+        top: 0;
+        width: 25%;
+
+        a {
+          padding: 2.25rem 2rem 2.25rem 0;
+        }
+      }
+
+      &:nth-child(n+5) {
+        display: none;
+      }
+    }
+  }
+}

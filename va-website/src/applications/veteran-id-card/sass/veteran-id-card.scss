@@ -1,0 +1,26 @@
+// Variables
+
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+
+.vet-id-card {
+  padding: 0 0 2rem 2.4rem;
+
+  span.exit-icon {
+    background-image: url(/img/icons/exit-icon-white.png);
+    background-size: 1em auto;
+    padding-left: 1.1em;
+    padding-right: 1.1em;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+}
+
+.vet-id-email-capture {
+  padding-bottom: 4em;
+
+  button[type=submit] {
+    width: auto;
+  }
+}

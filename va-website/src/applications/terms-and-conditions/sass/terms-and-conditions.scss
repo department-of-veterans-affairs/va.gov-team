@@ -1,0 +1,54 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+
+.terms-and-conditions {
+  margin-bottom: 3em;
+
+  hr {
+    margin: 1rem 0;
+  }
+
+  h3 + hr {
+    margin: 0 0 2rem;
+  }
+
+  ul {
+    list-style: inherit;
+  }
+}
+
+.tc-buttons {
+  margin-top: 2rem;
+
+  button {
+    width: auto;
+
+    & + button {
+      margin-left: 2rem;
+    }
+  }
+}
+
+#agreement-checkbox {
+  margin-left: -9999rem;
+}
+
+.usa-alert {
+  margin: 0 0 1.5rem;
+}
+
+
+.usa-alert.no-background-image {
+  h3 {
+    margin: 1rem 0 2rem;
+  }
+
+  &:before {
+    width: 0;
+  }
+}
+
+.agreement-label {
+  display: inline-block;
+  margin-top: 1rem;
+  max-width: none;
+}

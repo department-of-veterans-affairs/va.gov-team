@@ -1,0 +1,9 @@
+--require src/platform/testing/unit/mocha-setup.js
+--require src/platform/testing/unit/enzyme-setup.js
+--require choma
+--require babel-polyfill
+--require blob-polyfill
+--compilers js:babel-register,jsx:babel-register
+--prof
+--reporter dot
+--timeout 5000

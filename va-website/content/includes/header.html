@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="ie6"> <![endif]-->
+<!--[if IE 7 ]> <html lang="en" class="ie7"> <![endif]-->
+<!--[if IE 8 ]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9 ]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en"> <!--<![endif]-->
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta content="Vets.gov" property="og:site_name">
+
+<!--twitter cards-->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="DeptVetAffairs">
+<!-- description, title tags added below-->
+<meta name="twitter:image:src" content="https://www.vets.gov/img/design/logo/og-twitter-image.jpg">
+<!-- end twitter cards -->
+
+{% if lastupdate %}
+<meta name="DC.Date" content="{{lastupdate| date: '%Y-%m-%d'}}" property="http://purl.org/dc/terms/date">
+{% endif %}
+{% if title %}
+<meta content="{{ title }}" property="og:title">
+<meta content="Vets.gov - {{ title }}" name="twitter:title" >
+{% else %}
+<meta content="https://www.va.gov" property="og:title">
+<meta content="https://www.va.gov" name="twitter:title">
+{% endif %}
+<meta content="website" property="og:type">
+{% if path %}
+<meta content="https://www.va.gov/{{ path }}" property="og:url">
+{% endif %}
+{% if description %}
+<meta content="{{ description }}" property="og:description">
+<meta content="{{ description }}" name="twitter:description" >
+<meta content="{{ description }}" name="description">
+{% endif %}
+<meta content="https://www.vets.gov/img/design/logo/og-image.jpg" property="og:image">
+{% if tags %}
+{% for tag in tags %}
+<meta content="{{ tag }}" property="article:tag">
+{% endfor %}
+{% endif %}
+{% if includes_edu_wizard %}
+{% include "content/includes/wizard.html" %}
+{% endif %}
+{% if title === 'Home' %}
+<title>VA.gov</title>
+{% else %}
+<title>{{ title }}: VA.gov</title>
+{% endif %}
+
+<!-- Icons -->
+<link href="/img/design/icons/apple-touch-icon.png" rel="apple-touch-icon-precomposed" />
+<link href="/img/design/icons/apple-touch-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+<link href="/img/design/icons/apple-touch-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+<link href="/img/design/icons/apple-touch-icon-152x152.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+<link rel="shortcut icon" href="/img/design/icons/favicon.ico" />
+
+<meta name="msapplication-TileImage" content="/img/design/icons/apple-touch-icon-114x114">
+<meta name="msapplication-TileColor" content="#144073">
+
+<!-- CSS -->
+<link rel="stylesheet" href="/generated/style.css">
+{% if entryname %}
+<link rel="stylesheet" href="/generated/{{ entryname }}.css">
+
+{% else %}
+<link rel="stylesheet" href="/generated/static-pages.css">
+{% endif %}
+
+<!-- Old IE -->
+
+<!--[if lt IE 9]>
+<link rel='stylesheet' href='/assets/css/ie.css'>
+<![endif]-->
+
+<script src="/js/record-event.js"></script>
+<script src="/js/settings.js"></script>
+
+<script defer src="/generated/vendor.entry.js"></script>
+{% if entryname %}
+<script defer src="/generated/{{ entryname }}.entry.js"></script>
+{% else %}
+<script defer src="/generated/static-pages.entry.js"></script>
+{% endif %}
+
+<!-- We participate in the US government’s analytics program. See the data at analytics.usa.gov. -->
+<script async type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=VA" id="_fed_an_ua_tag"></script>
+
+</head>
+<body class="{{ body_class }}">
+  <a class="show-on-focus" href="#content">Skip to Content</a>
+{% if !noHeader %}
+  {% include "content/includes/top-nav.html" %}
+{% endif %}
+
+<script async src="/js/usa-search.js"></script>

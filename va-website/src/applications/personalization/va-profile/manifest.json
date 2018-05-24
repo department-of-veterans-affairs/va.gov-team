@@ -1,0 +1,8 @@
+{
+  "appName": "VA Profile",
+  "entryFile": "./va-profile-entry.jsx",
+  "entryName": "va-profile",
+  "rootUrl": "/profile",
+  "production": false,
+  "contentPage": "profile/index.md"
+}

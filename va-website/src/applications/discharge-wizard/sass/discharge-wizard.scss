@@ -1,0 +1,93 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+
+.discharge-wizard {
+  padding-bottom: 3em;
+
+  .form-radio-buttons {
+    position: relative;
+    input {
+      top: -15px;
+    }
+  }
+
+  fieldset {
+    margin: 0;
+    padding: 0 1.5em;
+    margin-top: 2em;
+
+    &.dischargeMonth,
+    &.dischargeYear {
+      margin-top: 0;
+    }
+
+    .legend-label {
+      max-width: 100%;
+    }
+
+    label {
+      max-width: 100%;
+    }
+  }
+
+  .va-introtext {
+    p {
+      margin-top: 0;
+      color: $color-primary-darker;
+    }
+  }
+
+  .accordion-container {
+    margin-bottom: 3em;
+  }
+
+  hr {
+    margin: 0;
+  }
+
+  .review-answers {
+    margin-top: 3em;
+    padding: 0 1.5em;
+  }
+  .vertical-list-group {
+    margin-top: 2em;
+
+    &.numbered {
+      li.list-group-item {
+        counter-increment: step-counter;
+        border-left-width: 5px;
+        border-color: $color-gray-lighter;
+        padding-bottom: 3em;
+
+        h4 {
+          clear: none;
+        }
+
+        &:before {
+          content: counter(step-counter);
+          height: 25px;
+          line-height: 25px;
+          margin-left: -35px;
+          width: 25px;
+          color: $color-white;
+          font-weight: bold;
+          border: none;
+        }
+
+        &:last-child {
+          border-color: transparent;
+        }
+
+        & + li.list-group-item {
+          margin-top: -1.6em;
+        }
+      }
+    }
+  }
+
+  .usa-button[href^=http],
+  .usa-button[rel=external] {
+    background-image: url(/img/icons/exit-icon-white.png);
+    background-position: right 1.2em center;
+    padding-right: 2.9em;
+  }
+}

@@ -1,0 +1,17 @@
+/* may be able to remove this file as we standardize modal styling */
+
+.bb-modal {
+  .va-modal-title {
+    color: initial;
+    background: none;
+    padding-top: 1rem;
+  }
+
+  .va-modal-body {
+    padding-top: 0;
+  }
+
+  .va-modal-inner {
+    padding: 0.5rem 0.5em;
+  }
+}

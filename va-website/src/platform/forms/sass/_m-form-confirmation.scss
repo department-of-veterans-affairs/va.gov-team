@@ -1,0 +1,72 @@
+.confirmation-page-title {
+  &:focus {
+    outline: none;
+  }
+}
+
+.confirmation-page-inset-title {
+  margin-top: 0;
+}
+
+.inset {
+  margin: 2rem 0rem;
+  padding: 2rem 3rem;
+  line-height: 2.2rem;
+  background-color: $color-inset-bg;
+  &.secondary {
+    background-color: $color-gray-light-alt;
+  }
+  &.expandable {
+    .form-expanding-group,
+    .form-expanding-group-open {
+      padding-left: 0;
+      border-left: 0;
+    }
+    .clickable {
+      cursor: pointer;
+    }
+  }
+}
+
+.additional {
+  font-weight: normal;
+}
+
+ul.claim-list{
+  list-style: none;
+  padding-left: 0;
+  li {
+    margin-bottom: 1rem;
+  }
+}
+
+// ---- Additional print rules ---- //
+
+@media print {
+  // The + for on the confirmation page
+  // Will have to change when #4953 gets merged
+  .form-expanding-group-plus::after {
+    display: none;
+  }
+  .form-expanding-group {
+    margin-left: 0px;
+  }
+
+  .form-progress-buttons {
+    display: none;
+  }
+
+  .schemaform-title {
+    margin-bottom: 1rem;
+    justify-content: center;
+  }
+
+  .confirmation-page-title {
+    text-align: center;
+  }
+
+  .inset {
+    margin: 1rem 0rem;
+    padding: 0px;
+  }
+}

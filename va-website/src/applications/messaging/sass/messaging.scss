@@ -1,0 +1,47 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/va-tabs";
+@import "~react-datepicker/dist/react-datepicker.css";
+
+$messaging-label-width: 10rem;
+
+@mixin messaging-rectangular-button {
+  background: $color-white;
+  border-radius: 0;
+  border: 1px solid $color-black;
+  color: $color-black;
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 1rem;
+  width: auto;
+
+  &:focus,
+  &:hover,
+  &:active {
+    background: $color-white;
+    color: $color-black;
+    border-bottom: 1px solid $color-black;
+  }
+
+  &[disabled] {
+    &,
+    &:hover,
+    &:active {
+      color: $color-gray;
+      border-color: $color-gray;
+    }
+  }
+}
+
+@import "partials/message-category";
+@import "partials/message-compose";
+@import "partials/messaging-app";
+@import "partials/messaging-count-nav";
+@import "partials/messaging-folder";
+@import "partials/messaging-message";
+@import "partials/messaging-thread";
+@import "partials/messaging-modal";
+@import "partials/messaging-moveto";
+@import "partials/messaging-search";
+@import "partials/messaging-settings";
+@import "partials/messaging-attachments";

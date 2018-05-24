@@ -1,0 +1,9 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-nav-linkslist";
+
+.profile-section {
+  .section-header:first-of-type {
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+}

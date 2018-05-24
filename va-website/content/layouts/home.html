@@ -1,0 +1,201 @@
+{% include "content/includes/header.html" %}
+<main>
+  {% if enablewarning %}
+    {% include "content/includes/homepage-warning.html" %}
+  {% endif %}
+
+  <div id="content">
+
+    <div class="usa-grid row">
+
+    <!-- # Image gallery -->
+      <div class="fill usa-width-two-thirds">
+      <!-- # home slider -->
+        <div id="homepageSlider" class="homepageSlider slider">
+
+          <a class="prev">
+            <img src="img/arrow-left.png" alt="previous"/>
+          </a>
+
+          <div id="slider-controls">
+            <a href="#" id="pause">
+              <img width="20" height="20" id="pause1" alt="Pause" src="img/bt_pause_s2.png">
+            </a>
+            <a href="#" id="play">
+              <img width="20" height="20" id="play1" alt="Play" src="img/bt_play_s2.png">
+            </a>
+          </div>
+
+          <!-- slide container -->
+          <div class="scrollable">
+            <!-- slides -->
+            <div class="items">
+
+              <!-- SLIDE 1 -->
+              <div class="slide">
+                <a href="https://www.veteranscrisisline.net/" title="Veterans Crisis Line">
+                  <img src="https://www.va.gov/images/VAM_SP-004-2016-VCL-Web-Banner-1.jpg"  alt="Picture of a man and a woman and another man, standing side by side. Text reads - Help prevent suicide. Learn how to be there fore the Veteran or Servicemember in your life. Veterans Crisis Line - 1-800-273-8255 Press 1 - VeteransCrisisLine.net"/>
+                </a>
+              </div>
+              <!--end SLIDE 1 -->
+
+              <!-- SLIDE 2 -->
+              <div class="slide">
+                <a href="https://www.va.gov/health/appointments.asp" title="Schedule a VA Appointment">
+                  <img src="https://www.va.gov/images/va_scheduling_header.png"  alt="Image that Reads Schedule a VA Appointment"/>
+                </a>
+              </div>
+              <!--end SLIDE2 -->
+
+              <!-- SLIDE 3 -->
+              <div class="slide">
+                <a href="https://maketheconnection.net/mhm/" title="Make the Connection - Strength in Numbers">
+                  <img src="https://www.va.gov/images/MHM_VA_Homepage_Banner_638x308.jpg"  alt="Mental Health means reaching new heights. May is Mental Health Month. Please visit https://maketheconnection.net/mhm/ for more information."/>
+                </a>
+              </div>
+              <!--end SLIDE 3 -->
+
+              <!-- SLIDE 4 -->
+              <div class="slide">
+                <a href="https://www.blogs.va.gov/VAntage/" title="VAntage Point - the Official Blog of the Department of Veterans Affairs">
+                  <img src="https://www.va.gov/images/news/VAntagePointrevised2.png"  alt="VAntage Point - the Official Blog of the Department of Veterans Affairs"/>
+                </a>
+              </div>
+              <!--end SLIDE 4 -->
+
+            </div>
+
+          </div>
+          <!-- end slide container -->
+
+          <a class="next">
+            <img src="img/arrow-right.png" alt=""/>
+          </a>
+
+          <!-- # slider thumbnail -->
+          <div class="slider-thumbnails">
+            <div class="thumbnails-wrap">
+              <a href="" target="_self" class="">
+                <span>Veterans <br>Crisis Line</span>
+              </a>
+              <a href="" target="_self" class="">
+                <span>Schedule a <br>VA Appointment</span>
+              </a>
+              <a href="" target="_self" class="">
+                <span>Make the<br>Connection</span>
+              </a>
+              <a href="" target="_self" class="">
+                <span>VAntage Point</span>
+              </a>
+            </div>
+          </div>
+          <!-- / slider thumbnail -->
+
+        </div>
+        <!-- / home slider -->
+
+      </div>
+      <!-- end sliders section -->
+
+      <div class="usa-width-one-third">
+      <h3>Are you interested in?</h3>
+      <ul>
+        <li><a href="https://www.va.gov/jobs/">Careers at VA</a></li>
+        <li><a href="https://explore.va.gov">Exploring your Benefits</a></li>
+        <li><a href="https://www.myhealth.va.gov/pharmacy">Filling a Prescription</a></li>
+        <li><a href="https://www.va.gov/health/appointments.asp">Schedule a VA Appointment</a></li>
+        <li><a href="https://www.va.gov/vaforms/">Finding a VA Form</a></li>
+        <li><a href="https://www.va.gov/COMMUNITYCARE/programs/veterans/VCP/index.asp">Veterans Choice Program</a></li>
+        <li><a href="https://www.accesstocare.va.gov/ourproviders/">Our Providers</a></li>
+        <li><a href="https://www.va.gov/transparency/">Transparency</a></li>
+        <li><a href="https://www.data.va.gov">VA Open Data</a></li>
+      </ul>
+    </div>
+    </div>
+
+    <div class="usa-grid row">
+
+      <div class="usa-width-one-whole">
+        <h3>STAY CONNECTED WITH VA</h3>
+        <p id="signup">Sign up for email updates.</p>
+        <a href="https://public.govdelivery.com/accounts/USVA/subscriber/new">
+          <button class="button button2">Subscribe</button>
+        </a>
+      </div>
+    </div>
+
+    <!-- triple column of links above the footer -->
+    <div class="usa-grid row">
+
+      <!-- tri-col links lists -->
+      <div class="usa-width-one-third va-icon-cols">
+        <div class="va-icon-header">
+          <a href="https://www.va.gov/health" title="Click here to visit the Veterans Health Administrations homepage">
+            <img src="img/icon-hp-health.png" alt="Icon for the Veterans Health Administration" class="va-icon-icon">
+            <h3 class="va-icon-h">Health Care</h3>
+          </a>
+        </div>
+
+        <p>VA operates the nation's largest integrated health care system, with more than 1,700 hospitals, clinics, community living centers, domiciliaries, readjustment counseling centers, and other facilities.</p>
+
+        <ul>
+          <li><a href="https://www.va.gov/healthbenefits" title="Locate a hospital near you">Access Your Health Benefits</a></li>
+          <li><a href="https://www.va.gov/directory/guide/division.asp?dnum=1" title="Learn about health programs">Hospitals &amp; Clinics</a></li>
+          <li><a href="https://www.myhealth.va.gov/pharmacy" title="Learn about your prescriptions here">Online Pharmacy</a></li>
+          <li><a href="https://www.va.gov/health/topics/" title="Click here to use our Health Topic FInder here">Health Topics A-Z</a></li>
+          <li><a href="https://www.va.gov/health/aca/" title="Affordable Care Act">Affordable Care Act</a></li>
+        </ul>
+
+        <a href="https://www.va.gov/health" title="Click here to visit the Veterans Health Administrations homepage">Get Started</a>
+      </div>
+
+      <div class="usa-width-one-third va-icon-cols">
+        <div class="va-icon-header">
+          <a title="Go learn about benefits with the Veterans Benefits Administration" href="http://benefits.va.gov/benefits/">
+            <img src="img/icon-hp-benefits.png" alt="Icon for the Veterans Benefits Administration" class="va-icon-icon">
+            <h3 class="va-icon-h">Benefits</h3>
+          </a>
+        </div>
+
+        <p>VA administers a variety of benefits and services that provide financial and other forms of assistance to Servicemembers, Veterans, their dependents and survivors.</p>
+
+        <ul>
+          <li><a href="http://benefits.va.gov/compensation/" title="Learn abot compensation and pensions">Compensation</a></li>
+          <li><a href="http://www.gibill.va.gov/" title="Learn about the GI Bill">Education &amp; Training</a></li>
+          <li><a href="http://benefits.va.gov/homeloans/" title="Learn about home loans">Home Loans</a></li>
+          <li><a href="http://benefits.va.gov/insurance/" title="Learn about Life Insurance">Life Insurance </a></li>
+          <li><a href="http://www.benefits.va.gov/vocrehab/index.asp" title="Learn about Vocational Rehabilitation">Vocational Rehabilitation</a></li>
+        </ul>
+
+        <a title="Go learn about benefits with the Veterans Benefits Administration" href="http://benefits.va.gov/benefits/">Get Started</a>
+      </div>
+
+      <div class="usa-width-one-third va-icon-cols">
+        <div class="va-icon-header">
+          <a title="Learn about your burial benefits with the National Cemetery Administration" href="http://www.cem.va.gov/">
+            <img src="img/icon-hp-burials.png" alt="Icon for the National Cemetry Administration" class="va-icon-icon">
+            <h3 class="va-icon-h">Burials and Memorials</h3>
+          </a>
+        </div>
+
+        <p>VA operates 135 national cemeteries in the U.S. and Puerto Rico.  Burial and memorial benefits are available for eligible service members, Veterans, and family members.</p>
+
+        <ul>
+          <li><a href="http://www.cem.va.gov/burial_benefits/" title="Learn about burail benefits">Burial Benefits</a></li>
+          <li><a href="http://www.cem.va.gov/burial_benefits/need.asp" title="Schedule with us">Schedule a Burial</a></li>
+          <li><a href="http://www.cem.va.gov/hmm/" title="Learn about headstones markers and medallions">Headstones, Markers &amp; Medallions</a></li>
+          <li><a href="http://www.cem.va.gov/pmc.asp" title="Learn about burial flags">Presidential Memorial Certificates</a></li>
+          <li><a href="http://gravelocator.cem.va.gov/" title="Use our Gravesite Locator">Nationwide Gravesite Locator</a></li>
+        </ul>
+
+        <a title="Learn about your burial benefits with the National Cemetery Administration" href="http://www.cem.va.gov/">Get Started</a>
+      </div>
+
+    </div>
+    <!-- end triple column -->
+
+  </div> <!-- end #content -->
+
+
+</main>
+{% include "content/includes/footer.html" %}

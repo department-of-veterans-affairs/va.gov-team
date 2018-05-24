@@ -1,0 +1,11 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+
+.va-profile-btn {
+  text-decoration: none;
+}
+
+// @todo Should this be a global change?
+.va-profile-wrapper .va-modal-inner {
+  max-height: 100%;
+  overflow-y: auto;
+}

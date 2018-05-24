@@ -1,0 +1,148 @@
+{
+  "data": {
+    "bankAccount": {
+      "accountType": "checking",
+      "routingNumber": "114923756",
+      "accountNumber": "23423424234"
+    },
+    "secondaryContact": {
+      "fullName": "Jan Test",
+      "phone": "232342432444",
+      "view:address": {
+        "address": {
+          "street": "343 Second Ave",
+          "street2": "Room 12",
+          "city": "Boston",
+          "country": "USA",
+          "state": "ME",
+          "postalCode": "23333"
+        }
+      }
+    },
+    "preferredContactMethod": "phone",
+    "veteranAddress": {
+      "street": "123 big sky st",
+      "street2": "Apt 2",
+      "city": "Hadley",
+      "country": "USA",
+      "state": "ME",
+      "postalCode": "02333"
+    },
+    "view:otherContactInfo": {
+      "email": "test@test.com",
+      "view:confirmEmail": "test@test.com",
+      "homePhone": "234243244444",
+      "mobilePhone": "234234244444"
+    },
+    "educationProgram": {
+      "name": "UMASS Amherst",
+      "address": {
+        "street": "230 1st st",
+        "city": "Amherst",
+        "country": "USA",
+        "state": "MA",
+        "postalCode": "02011"
+      },
+      "educationType": "college"
+    },
+    "educationObjective": "Get a good degree",
+    "educationStartDate": "2017-03-02",
+    "view:hasNonMilitaryJobs": true,
+    "nonMilitaryJobs": [
+      {
+        "name": "Plumber",
+        "months": 23,
+        "licenseOrRating": "A+",
+        "postMilitaryJob": false
+      }
+    ],
+    "highSchoolOrGedCompletionDate": "1988-01-XX",
+    "postHighSchoolTrainings": [
+      {
+        "name": "Smith College",
+        "city": "Northampton",
+        "state": "MA",
+        "dateRange": {
+          "from": "1988-03-XX",
+          "to": "1991-01-XX"
+        },
+        "hours": 120,
+        "hoursType": "semester",
+        "degreeReceived": "BS",
+        "major": "Baskets"
+      }
+    ],
+    "faaFlightCertificatesInformation": "Certificate for flying good",
+    "civilianBenefitsAssistance": true,
+    "additionalContributions": true,
+    "activeDutyKicker": true,
+    "reserveKicker": true,
+    "view:activeDutyRepayingPeriod": true,
+    "activeDutyRepayingPeriod": {
+      "from": "2005-01-01",
+      "to": "2007-03-20"
+    },
+    "seniorRotcScholarshipProgram": true,
+    "view:seniorRotc": true,
+    "seniorRotc": {
+      "commissionYear": 1999,
+      "rotcScholarshipAmounts": [
+        {
+          "year": 2000,
+          "amount": 344
+        },
+        {
+          "year": 2002,
+          "amount": 2333
+        }
+      ]
+    },
+    "serviceAcademyGraduationYear": 1980,
+    "currentlyActiveDuty": {
+      "yes": true,
+      "onTerminalLeave": true
+    },
+    "toursOfDuty": [
+      {
+        "serviceBranch": "Army",
+        "serviceStatus": "Active duty",
+        "dateRange": {
+          "from": "2001-03-02",
+          "to": "2003-03-02"
+        },
+        "applyPeriodToSelected": true
+      },
+      {
+        "serviceBranch": "Navy",
+        "serviceStatus": "Active duty",
+        "dateRange": {
+          "from": "1991-03-02",
+          "to": "1992-03-02"
+        },
+        "applyPeriodToSelected": false,
+        "benefitsToApplyTo": "All at once"
+      }
+    ],
+    "view:benefitsRelinquishedContainer": {
+      "benefitsRelinquished": "chapter30",
+      "benefitsRelinquishedDate": "2017-08-28"
+    },
+    "view:questionText": {},
+    "view:selectedBenefits": {
+      "chapter33": true,
+      "view:chapter33ExpandedContent": {},
+      "chapter30": true
+    },
+    "veteranFullName": {
+      "first": "Joe",
+      "middle": "S",
+      "last": "Test",
+      "suffix": "Jr."
+    },
+    "veteranSocialSecurityNumber": "234244444",
+    "veteranDateOfBirth": "1970-03-21",
+    "gender": "M",
+    "privacyAgreementAccepted": true,
+    "serviceBefore1977": {}
+  }
+}

@@ -1,0 +1,36 @@
+.gi-preview-banner {
+  background: $color-gold;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+
+  div.outer {
+    margin: auto;
+    position: relative;
+  }
+
+  div.inner {
+    padding: 0.8em;
+
+    h5 {
+      font-size: 0.8em;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    p {
+      font-size: 0.8em;
+      margin: 0;
+
+      .actions {
+        @media screen and (min-width: $medium-screen) {
+          bottom: 0;
+          position: absolute;
+          right: 1em;
+        }
+      }
+    }
+  }
+}
