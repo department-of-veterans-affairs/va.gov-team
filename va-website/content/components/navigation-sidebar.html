@@ -4,58 +4,312 @@
  Navigation side bar
 =====================
 
-Used to display a side navigation bar of pages in a collection.
-
-1. To define a collection, edit `build.js`.
-2. Look for the line that begins `smith.use(collections` and edit as desired.
-3. OR add a `collection` property to those pages you wish to group into a
-   collection.
+Ok, so originally this was programatically determined -- that's how it works in vets-website --
+but because this is proof of concept, I'm hardcoding a fake nav in this file
 
 {% endcomment %}
 
-{% assign relatedPages = collections | get: collection %}
+<nav class="usa-width-one-fourth va-sidebarnav" id="va-detailpage-sidebar">
+  <div>
+    <button type="button" class="va-btn-close-icon va-sidebarnav-close">Close this menu</button>
 
-<nav {% if relatedPages != empty %}class="usa-width-one-fourth va-sidebarnav"{% endif %} id="va-detailpage-sidebar">
-<div>
-  <button type="button" class="va-btn-close-icon va-sidebarnav-close">Close this menu</button>
+    <ul class="usa-sidenav-list">
+      <li>
+        <a href="/education/eligibility" id="bqurxq">
+          Home
+          <script nonce="">(function() { var e = document.getElementById('bqurxq'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+      </li>
 
-{% if relatedPages != empty %}
-  {% if relatedPages.metadata.name != empty %}
-    <h4>{{ relatedPages.metadata.name }}</h4>
-  {% endif %}
-  <ul class="usa-sidenav-list">
-    {% for page in relatedPages %}
-      {% unless relatedPages.metadata.name == page.display_title or relatedPages.metadata.name == page.title %}
-        <li>
-          <a {% if page.path == path %}class="usa-current"{% endif %}
-              href="/{{ page.path }}" onClick="recordEvent({ event: 'nav-sidenav' });">
-            {% if page.display_title != empty %}
-              {{ page.display_title }}
-            {% else %}
-              {{ page.title }}
-            {% endif %}
-          </a>
-          {% if page.children != empty and page.path == path %}
-            {% assign childPages = collections | get: page.children %}
-              <ul class="usa-sidenav-sub_list">
-              {% for cpage in childPages %}
-                <li>
-                  <a {% if cpage.path == path %}class="usa-current"{% endif %}
-                      href="/{{ cpage.path }}" onClick="recordEvent({ event: 'nav-sidenav-child' });">
-                    {% if cpage.display_title != empty %}
-                      {{ cpage.display_title }}
-                    {% else %}
-                      {{ cpage.title }}
-                    {% endif %}
-                  </a>
-                </li>
-              {% endfor %}
-              </ul>
-          {% endif %}
-        </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
-{% endif %}
-</div>
+      <!-- this has more -->
+      <li>
+        <a href="#" id="pemkyaic">
+          Patients and Visitors
+          <script nonce="">(function() { var e = document.getElementById('pemkyaic'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+
+          <!-- level 2 -->
+          <!--<ul class="usa-sidenav-sub_list">
+            <li>
+              <a href="#" id="nfsqxhujoi">
+                Patient Information
+              <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+                Visitor Information
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+          </ul>-->
+      </li>
+
+      <li>
+        <a href="/education/after-you-apply" id="fjxwcgjrca">
+          Become a Patient
+          <script nonce="">(function() { var e = document.getElementById('fjxwcgjrca'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+      </li>
+
+      <li>
+        <a href="/gi-bill-comparison-tool" id="xmrpxhv">
+          Appointments
+        <script nonce="">(function() { var e = document.getElementById('xmrpxhv'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+      </li>
+
+      <!-- this has more -->
+      <li>
+        <a class="usa-current" href="/education/gi-bill" id="thhvlycea">
+        Locations and Directions
+        <script nonce="">(function() { var e = document.getElementById('thhvlycea'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+
+        <!-- level 2-->
+        <ul class="usa-sidenav-sub_list">
+          <li>
+            <a href="#" id="nfsqxhujoi">
+              Driving Directions, Parking and Maps
+            <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Community Clinics
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+
+          <li>
+            <a href="#" id="jziheegla">
+            Other VA Facilities
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+        </ul>
+
+      </li>
+
+      <!-- this has more -->
+      <li>
+        <a href="/education/tools-programs" id="noacmiaea">
+        Health Care Services
+        <script nonce="">(function() { var e = document.getElementById('noacmiaea'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+        <!--
+        <ul class="usa-sidenav-sub_list">
+          <li>
+            <a href="#" id="nfsqxhujoi">
+            A to Z List of Services
+            <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Caregivers
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Homeless Veterans
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Returning Service Members
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Women Veterans
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+        </ul>
+        -->
+      </li>
+
+      <li>
+        <a href="/education/work-learn" id="lxyrg">
+          Health Care Providers
+        <script nonce="">(function() { var e = document.getElementById('lxyrg'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+      </li>
+
+      <!-- this has more -->
+      <li>
+        <a href="/education/advanced-training-and-certifications" id="tfqmknun">
+          News and Events
+          <script nonce="">(function() { var e = document.getElementById('tfqmknun'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+          <!--
+          <ul class="usa-sidenav-sub_list">
+            <li>
+              <a href="#" id="nfsqxhujoi">
+              News, Events and Media Home
+              <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              Calendar of Events
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              Feature Stories
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              Press Releases
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              Sunday Magazine
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              VA Healthcare News
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              VA News
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+          </ul>
+        -->
+      </li>
+
+      <li>
+        <a href="/education/other-educational-assistance-programs" id="veunj">
+          Jobs and Careers
+        <script nonce="">(function() { var e = document.getElementById('veunj'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+      </li>
+
+      <!-- this has more -->
+      <li>
+        <a  href="/education/advanced-training-and-certifications" id="tfqmknun">
+          About Us
+          <script nonce="">(function() { var e = document.getElementById('tfqmknun'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+          <!--
+          <ul class="usa-sidenav-sub_list">
+            <li>
+              <a href="#" id="nfsqxhujoi">
+              About the Washington DC VA Medical Center
+              <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              Our History
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              Leadership Team
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              Management Team
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+            <li>
+              <a href="#" id="jziheegla">
+              VISN 5 - VA Capitol Health Care Network
+              <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+            </li>
+          </ul>
+          -->
+      </li>
+
+      <!-- this has more -->
+      <li>
+        <a  href="/education/advanced-training-and-certifications" id="tfqmknun">
+          Contact Us
+          <script nonce="">(function() { var e = document.getElementById('tfqmknun'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+          <!--
+        <ul class="usa-sidenav-sub_list">
+          <li>
+            <a href="#" id="nfsqxhujoi">
+            Contact the Washington DC VA Medical Center
+            <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Phone Directory
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+        </ul>
+      -->
+      </li>
+
+      <li>
+        <a href="/education/other-educational-assistance-programs" id="veunj">
+          Volunteer or Donate
+        <script nonce="">(function() { var e = document.getElementById('veunj'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+      </li>
+
+      <!-- this has more -->
+      <li>
+        <a  href="/education/advanced-training-and-certifications" id="tfqmknun">
+          Operating Status
+          <script nonce="">(function() { var e = document.getElementById('tfqmknun'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+          <!--
+        <ul class="usa-sidenav-sub_list">
+          <li>
+            <a href="#" id="nfsqxhujoi">
+            Current Operating Status
+            <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Work Status for Employees
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+        </ul>
+      -->
+      </li>
+
+      <!-- this has more -->
+      <li>
+        <a  href="/education/advanced-training-and-certifications" id="tfqmknun">
+          Staff, Clinicians and Trainees
+          <script nonce="">(function() { var e = document.getElementById('tfqmknun'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav' }); }); })();</script></a>
+          <!--
+        <ul class="usa-sidenav-sub_list">
+          <li>
+            <a href="#" id="nfsqxhujoi">
+            Adult Gerontology Nurse Practitioner Residency
+            <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            Dental Residency Programs
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="nreptvgd">
+            Internal Medicine Clerkship
+            <script nonce="">(function() { var e = document.getElementById('nreptvgd'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="gfqszxfh">
+            Internal Medicine Rotations
+            <script nonce="">(function() { var e = document.getElementById('gfqszxfh'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="nfsqxhujoi">
+            Rehabilitation Research Fellowship
+            <script nonce="">(function() { var e = document.getElementById('nfsqxhujoi'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="jziheegla">
+            PGY 1 Pharmacy Residency Program
+            <script nonce="">(function() { var e = document.getElementById('jziheegla'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="nreptvgd">
+            Psychology Training Programs
+            <script nonce="">(function() { var e = document.getElementById('nreptvgd'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+          <li>
+            <a href="#" id="gfqszxfh">
+            Psychiatry Externship
+            <script nonce="">(function() { var e = document.getElementById('gfqszxfh'); e.addEventListener('click', function(ev) { recordEvent({ event: 'nav-sidenav-child' }); }); })();</script></a>
+          </li>
+        </ul>
+      -->
+      </li>
+
+    </ul>
+  </div>
 </nav>
