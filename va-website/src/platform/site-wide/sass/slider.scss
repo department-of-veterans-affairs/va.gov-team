@@ -139,13 +139,13 @@
 left: 4px;
 position: absolute;
 top: 62%;
-z-index: 200; display:block;
+z-index: 1; display:block;
 }
 .slider-controls{
 left: 4px;
 position: absolute;
 top: 152px !important;
-z-index: 200; display:none;
+z-index: 1; display:none;
 }
 
 .homepageSlider .scrollable .items > div a{
@@ -262,7 +262,7 @@ top: 5px;
     left: 7px;
     position: absolute;
   top: 232px;
-    z-index: 200;
+    z-index: 1;
 }
 
 .slider > .slider-thumbnails > .thumbnails-wrap > a > span {
