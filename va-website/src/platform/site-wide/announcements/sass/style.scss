@@ -1,0 +1,27 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+
+.personalization-announcement {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 8px;
+  text-align: center;
+  background-color: $color-green-lightest;
+  border: 1px solid $color-green-lighter;
+  z-index: 2;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+#modal-announcement h3 {
+  margin-top: 1.5em;
+}
+
+.announcement-heading {
+  background-color: $color-primary-alt-lightest;
+  text-align: center;
+  padding: 42px 0;
+  img {
+    max-width: 86px;
+  }
+}

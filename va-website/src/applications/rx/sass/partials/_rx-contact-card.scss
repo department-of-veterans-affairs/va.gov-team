@@ -1,0 +1,20 @@
+// Styles for contact card
+.rx-contact {
+  &-line {
+    margin: 1rem 0;
+
+    &:nth-child(2) {
+      margin-top: 1.5rem;
+    }
+  }
+
+  &-header {
+    font-weight: bold;
+  }
+}
+
+.rx-message-provider-link {
+  display: inline-block;
+  margin: 1rem 0 0 0;
+  width: 100%;
+}

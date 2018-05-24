@@ -1,0 +1,25 @@
+{
+  "data": {
+    "privacyAgreementAccepted": true,
+    "veteranFullName": {
+      "first": "Jane",
+      "last": "Doe"
+    },
+    "veteranSocialSecurityNumber": "987654321",
+    "veteranDateOfBirth": "1973-02-06",
+    "view:applicantServed": false,
+    "educationProgram": {},
+    "veteranAddress": {
+      "street": "123 Main St.",
+      "city": "Metrocity",
+      "country": "USA",
+      "state": "IA",
+      "postalCode": "48394"
+    },
+    "view:otherContactInfo": {
+      "email": "name@mail.com",
+      "view:confirmEmail": "name@mail.com"
+    },
+    "bankAccount": {}
+  }
+}

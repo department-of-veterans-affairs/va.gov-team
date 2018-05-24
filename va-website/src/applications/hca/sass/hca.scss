@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-process-list";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-form-process";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-progress-bar";
+@import "../../../platform/forms/sass/m-schemaform";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-omb-info";
+@import "../../../platform/forms/sass/m-form-confirmation";
+
+.hca-success-icon {
+  color: $color-green;
+  font-size: 8rem;
+}
+
+.hca-alert-copy {
+  color: $color-secondary-dark;
+}
+
+.success-copy {
+  color: $color-green;
+  font-weight: 600;
+}
+
+.success-alert-box {
+  border: 1px solid $color-green;
+  text-align: center;
+}
+
+.hca-tooltip-wrapper {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

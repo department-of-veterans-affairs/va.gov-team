@@ -1,0 +1,95 @@
+{
+  "data": {
+    "officialPosition": "Important",
+    "claimantAddress": {
+      "street": "123 Main St",
+      "street2": "Apt. 13",
+      "city": "Small Town",
+      "country": "USA",
+      "state": "IA",
+      "postalCode": "12121"
+    },
+    "claimantEmail": "name@mail.com",
+    "claimantPhone": "1234567890",
+    "placeOfRemains": "Some place",
+    "federalCemetery": false,
+    "stateCemetery": true,
+    "govtContributions": true,
+    "amountGovtContribution": 9,
+    "burialAllowanceRequested": "vaMC",
+    "burialCost": 10,
+    "benefitsUnclaimedRemains": false,
+    "view:claimedBenefits": {
+      "burialAllowance": true,
+      "plotAllowance": true,
+      "transportation": true,
+      "amountIncurred": 7
+    },
+    "view:serveUnderOtherNames": true,
+    "previousNames": [
+      {
+        "first": "Jophes",
+        "middle": "Emdun",
+        "last": "Deo",
+        "suffix": "Sr."
+      },
+      {
+        "first": "Jsph",
+        "middle": "Dmnd",
+        "last": "D",
+        "suffix": "Sr."
+      }
+    ],
+    "toursOfDuty": [
+      {
+        "dateRange": {
+          "from": "1984-05-16",
+          "to": "1990-04-04"
+        },
+        "serviceBranch": "Army",
+        "rank": "Corporal",
+        "serviceNumber": "7",
+        "placeOfEntry": "Over here",
+        "placeOfSeparation": "Over there"
+      },
+      {
+        "dateRange": {
+          "from": "1994-06-08",
+          "to": "1997-03-20"
+        },
+        "serviceBranch": "Navy",
+        "rank": "Seven",
+        "serviceNumber": "7",
+        "placeOfEntry": "Over there",
+        "placeOfSeparation": "Over here"
+      }
+    ],
+    "deathDate": "2017-06-25",
+    "burialDate": "2017-06-26",
+    "locationOfDeath": {
+      "location": "vaMedicalCenter"
+    },
+    "veteranFullName": {
+      "first": "Donald",
+      "middle": "Edmund",
+      "last": "Doe",
+      "suffix": "Sr."
+    },
+    "veteranSocialSecurityNumber": "123123123",
+    "vaFileNumber": "12345678",
+    "veteranDateOfBirth": "1960-01-01",
+    "placeOfBirth": "Some place",
+    "claimantFullName": {
+      "first": "John",
+      "middle": "A",
+      "last": "Doe",
+      "suffix": "Jr."
+    },
+    "relationship": {
+      "type": "other",
+      "other": "Uncle",
+      "view:isEntity": true
+    },
+    "privacyAgreementAccepted": true
+  }
+}

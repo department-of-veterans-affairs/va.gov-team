@@ -1,0 +1,45 @@
+// /education/apply/ uses this wizard button for navigation
+// Where else can I put this? Also, it could use a better name.
+.wizard-button {
+  &::after {
+    background-image: url("/img/arrow-down-white.svg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: .6em auto;
+    content: ""; // Add content for accessibility purposes?
+    display: inline-block;
+    height: 1em;
+    margin-left: .5em;
+    margin-right: -.3em;
+    text-indent: -9999em;
+    width: 1em;
+  }
+}
+
+// Handles the height transition
+.wizard-content {
+
+  // Handles the opacity transition
+  .wizard-content-inner {
+    transition: opacity 700ms ease-in-out;
+  }
+
+  // Apply this to the inner content and make a new div
+  //  with the border to expand that without the opacity
+  &.wizard-content-closed {
+    max-height: 0 !important; // To override the id selector height
+    visibility: hidden;
+
+    .wizard-content-inner {
+      opacity: 0;
+
+      .usa-button-primary {
+        opacity: 0;
+      }
+    }
+  }
+}
+
+.wizard-alert-heading {
+  padding: 0;
+}

@@ -1,0 +1,61 @@
+{% comment %}
+
+=====================
+ Navigation side bar
+=====================
+
+Used to display a side navigation bar of pages in a collection.
+
+1. To define a collection, edit `build.js`.
+2. Look for the line that begins `smith.use(collections` and edit as desired.
+3. OR add a `collection` property to those pages you wish to group into a
+   collection.
+
+{% endcomment %}
+
+{% assign relatedPages = collections | get: collection %}
+
+<nav {% if relatedPages != empty %}class="usa-width-one-fourth va-sidebarnav"{% endif %} id="va-detailpage-sidebar">
+<div>
+  <button type="button" class="va-btn-close-icon va-sidebarnav-close">Close this menu</button>
+
+{% if relatedPages != empty %}
+  {% if relatedPages.metadata.name != empty %}
+    <h4>{{ relatedPages.metadata.name }}</h4>
+  {% endif %}
+  <ul class="usa-sidenav-list">
+    {% for page in relatedPages %}
+      {% unless relatedPages.metadata.name == page.display_title or relatedPages.metadata.name == page.title %}
+        <li>
+          <a {% if page.path == path %}class="usa-current"{% endif %}
+              href="/{{ page.path }}" onClick="recordEvent({ event: 'nav-sidenav' });">
+            {% if page.display_title != empty %}
+              {{ page.display_title }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </a>
+          {% if page.children != empty and page.path == path %}
+            {% assign childPages = collections | get: page.children %}
+              <ul class="usa-sidenav-sub_list">
+              {% for cpage in childPages %}
+                <li>
+                  <a {% if cpage.path == path %}class="usa-current"{% endif %}
+                      href="/{{ cpage.path }}" onClick="recordEvent({ event: 'nav-sidenav-child' });">
+                    {% if cpage.display_title != empty %}
+                      {{ cpage.display_title }}
+                    {% else %}
+                      {{ cpage.title }}
+                    {% endif %}
+                  </a>
+                </li>
+              {% endfor %}
+              </ul>
+          {% endif %}
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+{% endif %}
+</div>
+</nav>

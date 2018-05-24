@@ -1,0 +1,17 @@
+{% comment %}
+
+=====================
+ Navigation side bar trigger
+=====================
+
+Used to open or close the side bar navigation bar on mobile screens. Must be used in a template with navigation-sidebar.html
+
+{% endcomment %}
+
+<button type="button" class="va-btn-sidebarnav-trigger" aria-controls="{{ menuId }}">
+  <span>
+    <b>More in this section</b>
+    {% include "assets/img/arrow-right.svg" %}
+  </span>
+</button>
+

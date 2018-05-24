@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="29px" viewBox="0 0 24 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>multiple</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.0653030303,9.81698824 C0.0653030303,11.9534235 0.784242424,13.9782118 2.05681818,15.665 L9.58166667,25.6730118 C9.74742424,25.8981412 10.134697,25.9541176 10.3560606,25.7855765 C10.4115152,25.7291412 10.4115152,25.7291412 10.4663636,25.6730118 L17.9912121,15.665 C19.2637879,13.9782118 19.9827273,11.9534235 19.9827273,9.81698824 C19.9827273,4.41938824 15.5010606,0.0336470588 10.0243939,0.0336470588 C4.5469697,0.0336470588 0.0653030303,4.41938824 0.0653030303,9.81698824 L0.0653030303,9.81698824 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="multiple">
+            <g id="Group-3" transform="translate(2.000000, 2.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#40099E" mask="url(#mask-2)" points="-6.09954545 32.8309647 26.1478788 32.8309647 26.1478788 -6.91416471 -6.09954545 -6.91416471"></polygon>
+            </g>
+            <text id="1+" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="11" font-weight="bold" fill="#FFFFFF">
+                <tspan x="7" y="16">1+</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

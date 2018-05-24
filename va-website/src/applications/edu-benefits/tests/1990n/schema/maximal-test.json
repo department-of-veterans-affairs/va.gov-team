@@ -1,0 +1,75 @@
+{
+  "data": {
+    "privacyAgreementAccepted": true,
+    "veteranFullName": {
+      "first": "John",
+      "middle": "Nondescript",
+      "last": "Doe",
+      "suffix": "II"
+    },
+    "veteranSocialSecurityNumber": "987654321",
+    "veteranDateOfBirth": "1900-01-01",
+    "gender": "M",
+    "civilianBenefitsAssistance": true,
+    "civilianBenefitsSource": "Taxes",
+    "seniorRotcScholarshipProgram": true,
+    "view:applicantServed": true,
+    "toursOfDuty": [
+      {
+        "serviceBranch": "Army",
+        "serviceStatus": "Stuff",
+        "dateRange": {
+          "from": "1920-01-01",
+          "to": "1921-02-02"
+        }
+      },
+      {
+        "serviceBranch": "Airforce",
+          "serviceStatus": "Other stuff",
+        "dateRange": {
+          "from": "1923-01-01",
+          "to": "1925-01-01"
+        }
+      }
+    ],
+    "currentlyActiveDuty": {
+      "yes": true,
+      "onTerminalLeave": true,
+      "nonVaAssistance": true
+    },
+    "payHighestRateBenefit": true,
+    "educationProgram": {
+      "name": "School of Learning",
+      "address": {
+        "street": "1234 Main St.",
+        "street2": "Building 323",
+        "city": "Metrocity",
+        "country": "USA",
+        "state": "IA",
+        "postalCode": "52132"
+      },
+      "educationType": "college"
+    },
+    "educationObjective": "Get me some learnin!",
+    "preferredContactMethod": "phone",
+    "veteranAddress": {
+      "street": "4321 Main St.",
+      "street2": "Apt 323",
+      "city": "Metrocity",
+      "country": "USA",
+      "state": "IA",
+      "postalCode": "54321"
+    },
+    "view:otherContactInfo": {
+      "email": "name@mail.com",
+      "view:confirmEmail": "name@mail.com",
+      "homePhone": "5551112222",
+      "mobilePhone": "5552221111"
+    },
+    "bankAccount": {
+      "accountType": "savings",
+      "routingNumber": "789456124",
+      "accountNumber": "123451235"
+    }
+  }
+}

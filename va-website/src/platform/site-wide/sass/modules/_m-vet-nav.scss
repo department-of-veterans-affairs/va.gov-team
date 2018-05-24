@@ -1,0 +1,461 @@
+// The distance from the top of the sceen that the mobile navigation menu should appear
+$height-offset-small: 131.16px;
+$height-offset-xsmall: 153.16px;
+
+body.va-pos-fixed {
+  width: 100%;
+  height: 100%;
+}
+
+#vetnav,
+[role="menu"] [role="menu"] {
+  // The main menu takes up the whole screen under the Menu button for xsmall & small screens
+  // Sub menus also take up the whole screen to cover the main menu
+  min-height: calc(100vh - #{$height-offset-xsmall});
+
+  @include media($small-screen) {
+    min-height: calc(100vh - #{$height-offset-small});
+  }
+
+  // For medium and large screens, they're just as big as they need to be
+  @include media($medium-large-screen) {
+    min-height: 100%;
+  }
+}
+
+#vetnav {
+  background-color: $color-primary-darkest;
+
+  // This value should be equal to the default y-position of the menu so that removing it
+  // shouldn't affect anything. However, it's here to show how the height is offset by the
+  // vertical positioning.
+  // top: $height-offset;
+  left: -0.9rem;
+  overflow-y: scroll;
+  position: absolute;
+  width: 103%;
+
+  // Just large enough to take precedence over any other dropdowns on the page and the VA Map
+  z-index: 1011;
+
+  &.vetnav--submenu-expanded {
+    #vetnav-menu {
+      overflow: hidden;
+      height: 0;
+      @include media($medium-large-screen) {
+        height: auto;
+        overflow: visible;
+      }
+    }
+  }
+
+  @include media($medium-large-screen) {
+    margin-top: 1rem;
+    overflow-y: visible;
+    position: relative;
+    width: auto;
+    top: 0;
+  }
+}
+
+#vetnav-menu {
+  height: auto;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+
+  @include media($medium-large-screen) {
+    display: flex;
+    height: auto;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    overflow-y: visible;
+    position: relative;
+  }
+
+  > li {
+    margin-bottom: 6px;
+
+    @include media($medium-large-screen) {
+      margin-bottom: 0;
+    }
+
+    &:first-of-type {
+      @include media($medium-large-screen) {
+        display: none;
+      }
+    }
+  }
+
+  &::before {
+    display: block;
+    content: " ";
+  }
+
+  ul {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+
+  .va-button-primary {
+    border: 2px solid $color-white;
+    color: $color-white;
+    padding: 1rem;
+    margin: 0.8rem 1.6rem;
+    width: auto;
+
+    &:visited {
+      color: $color-white;
+    }
+
+    @include media($medium-large-screen) {
+      border-color: transparent;
+      display: inline-block;
+    }
+  }
+
+  .usa-button-secondary {
+    padding: calc(1rem + 2px);
+    margin: 0.8rem 1.6rem;
+    width: auto;
+    background-color: $color-gray-lightest;
+
+    &:hover {
+      text-decoration: none;
+    }
+
+    @include media($medium-large-screen) {
+      display: inline-block;
+      background-color: transparent;
+      &.vetnav-level2-button-second {
+        margin-left: 0;
+      }
+    }
+  }
+}
+
+#vetnav-controls {
+  position: relative;
+  width: 100px;
+
+  svg {
+    display: inline-block;
+    height: 1.6rem;
+    margin-right: 0.8rem;
+    width: 1rem;
+    vertical-align: 0;
+  }
+
+  path {
+    fill: $color-white;
+  }
+
+  @include media($medium-large-screen) {
+    display: none;
+  }
+}
+
+[class^="vetnav-controller"] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 0;
+  min-width: 100px;
+  width: auto;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+@include media($medium-large-screen) {
+  a.vetnav-level1 {
+    //border-bottom: 1px solid transparent;
+
+    &:hover {
+      background-color: $color-primary;
+      border-bottom-color: $color-primary;
+      transition: none;
+    }
+  }
+}
+
+.vetnav-level1 {
+  -webkit-font-smoothing: antialiased;
+  background-color: $color-primary-darker;
+  background-position: right 3rem center;
+  background-repeat: no-repeat;
+  background-size: 1.3rem auto;
+  border-radius: 0;
+  border-top: 3px solid transparent;
+  color: $color-white;
+  cursor: pointer;
+  display: block;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0;
+  padding: 1.6rem;
+  text-align: left;
+  text-decoration: none;
+  width: 100%;
+
+  &:not([href]) {
+    background-image: url(/img/minus-white.svg);
+    @include media($medium-large-screen) {
+      background-position: right 1.6rem center;
+      padding-right: 3.2rem;
+    }
+  }
+
+  &[aria-expanded="true"] {
+    @include media($medium-large-screen) {
+      color: $color-base;
+      background-color: $color-white;
+      background-image: url(/img/arrow-up.svg);
+      border-top-color: $color-va-accent;
+    }
+  }
+
+  &[aria-haspopup]:not([aria-expanded="true"]) {
+    background-image: url(/img/plus-white.svg);
+
+    &:hover {
+      background-color: $color-primary;
+    }
+
+    @include media($medium-large-screen) {
+      background-image: url(/img/arrow-down-white.svg);
+    }
+  }
+
+  @include media($medium-large-screen) {
+    background-color: transparent;
+    background-size: 1rem auto;
+  }
+
+  &:active {
+    color: inherit;
+  }
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  &:visited,
+  &:active {
+    color: inherit;
+  }
+}
+
+.vetnav-level2 {
+  background: $color-primary-darkest url(/img/arrow-right-white.svg) right 3rem
+    center no-repeat;
+  background-size: 1.4rem auto;
+  border-radius: 0;
+  display: block;
+  font-weight: normal;
+  margin: 0;
+  padding: 1.6rem;
+  text-align: left;
+  width: 100%;
+  -webkit-font-smoothing: antialiased;
+
+  @include media($medium-large-screen) {
+    background: transparent url(/img/arrow-right.svg) right 1rem center
+      no-repeat;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 1px 0;
+    color: $color-link-default;
+    background-size: 1rem auto;
+    margin-left: 0.8rem;
+    padding: 0.8rem 0 0.8rem 1.6rem;
+    position: relative;
+    width: 25.3rem;
+
+    &:hover {
+      background-color: transparent;
+      border-bottom: 1px solid transparent;
+      box-shadow: -3px 0 $color-va-accent;
+      color: $color-primary;
+      text-decoration: underline;
+    }
+
+    &[aria-expanded="true"] {
+      background-color: $color-gray-lightest;
+      border-bottom-color: $color-gray-warm-light;
+      border-top-color: $color-gray-warm-light;
+      box-shadow: -3px 0 $color-va-accent;
+      color: $color-gray-dark;
+      font-weight: bold;
+      text-decoration: inherit;
+      position: relative;
+      z-index: 2;
+    }
+  }
+
+  &-heading {
+    -webkit-font-smoothing: antialiased;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 0.8rem 1.6rem;
+
+    @include media($medium-large-screen) {
+      display: none;
+    }
+  }
+}
+
+#vetnav .back-button {
+  background: $color-primary-darker url(/img/arrow-left-white.svg) right 3rem
+    center no-repeat;
+  background-position: left 1rem center;
+  background-size: 1.4rem auto;
+  border-radius: 0;
+  padding: 1.6rem 1.6rem 1.6rem 3rem;
+  text-align: left;
+  width: 100%;
+  margin: 0;
+
+  @include media($medium-large-screen) {
+    display: none;
+  }
+}
+
+.vetnav-panel {
+  a {
+    @include no-sr-content;
+
+    background-image: none;
+    color: $color-white;
+    display: block;
+    padding: 0.8rem 1.6rem;
+    text-decoration: none;
+
+    @include media($medium-large-screen) {
+      color: $color-link-default;
+
+      &:hover {
+        background: transparent;
+        text-decoration: underline;
+      }
+    }
+  }
+
+  @include media($medium-large-screen) {
+    box-shadow: 0 5px 9px -5px $color-base;
+    background: $color-white;
+    padding-bottom: 1.6rem;
+    position: absolute;
+  }
+}
+
+.vetnav-panel--submenu {
+  &:not([hidden]) {
+    background-color: $color-primary-darkest;
+    box-shadow: none;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    visibility: visible;
+    margin: 0;
+
+    @include media($medium-large-screen) {
+      border-left: 1px solid $color-gray-warm-light;
+      background-color: $color-gray-lightest;
+      height: 100%;
+      margin-left: 23rem;
+      left: 30px;
+      padding: 0.5rem 0 1.6rem;
+      width: 31rem;
+    }
+  }
+}
+
+@include media($medium-large-screen) {
+  #vetnav-explore {
+    height: 415px;
+    padding-top: 0.8rem;
+    width: 540px;
+  }
+
+  #vetnav-benefits {
+    width: 276.47px;
+  }
+}
+
+.vet-toolbar {
+  align-items: center;
+  flex: 1 1 100%;
+  margin-left: -2rem;
+  position: relative;
+
+  > [data-reactroot],
+  > div {
+    align-items: center;
+    display: flex;
+  }
+
+  @include media($medium-large-screen) {
+    flex: 0 1 32.5rem;
+    margin-left: 0;
+    margin-right: 0;
+    z-index: 3;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  [href^="tel"] {
+    text-decoration: none;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+  }
+
+  .va-dropdown {
+    margin-left: 1rem;
+  }
+
+  .va-dropdown-trigger {
+    font-weight: 600;
+  }
+}
+
+[id="search"] {
+  width: 30rem;
+
+  [type="text"] {
+    margin: 0;
+    flex: 1 0 20rem;
+  }
+
+  [type="submit"] {
+    border-radius: 0 0.3rem 0.3rem 0;
+    display: flex;
+    flex: 1 0 3rem;
+    justify-content: center;
+    margin: 0;
+    padding: 1rem;
+  }
+
+  > .va-flex {
+    align-items: center;
+  }
+}
+
+.child-menu-opened {
+  height: 0;
+  overflow: hidden;
+}
+
+@include media($medium-screen) {
+  .child-menu-opened {
+    height: auto;
+  }
+}

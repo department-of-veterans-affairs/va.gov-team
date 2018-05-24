@@ -1,0 +1,45 @@
+// Variables
+
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-process-list";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-form-process";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-progress-bar";
+@import "../../../platform/forms/sass/m-schemaform";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-omb-info";
+@import "../../../platform/forms/sass/m-form-confirmation";
+
+.pensions-disclosure-title {
+  padding-bottom: 0;
+  font-size: 1.1em;
+  line-height: 1;
+}
+
+.pensions-disclosure-name {
+  border-bottom: 3px solid $color-primary;
+  margin: 0 0 0.8em;
+}
+
+.pensions-sources-adding {
+  max-width: 46rem;
+  margin-top: 3rem;
+}
+
+.pensions-sources-add-btn {
+  margin-top: 3rem !important;
+}
+
+.pensions-heading {
+  margin-top: 0;
+  &:focus {
+    outline: none;
+  }
+}
+
+p.pension-employment-desc, .pension-dd-warning {
+  margin-top: 3rem;
+}
+
+.pensions-disclosure-warning {
+  margin-bottom: 1em;
+}

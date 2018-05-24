@@ -1,0 +1,7 @@
+{
+  "appName": "Static pages",
+  "entryFile": "./static-pages-entry.js",
+  "entryName": "static-pages",
+  "noRouting": true,
+  "production": true
+}

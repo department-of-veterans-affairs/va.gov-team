@@ -1,0 +1,63 @@
+.rx-sort {
+  @media (min-width: $medium-screen) {
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+  }
+
+  label, select, ul, li {
+    display: inline-block;
+  }
+
+  select {
+    -webkit-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-width: 200px;
+  }
+
+  ul {
+    margin: 0 0 0 .75rem;;
+    padding: 0;
+    -webkit-flex: 1 0 auto;
+    flex: 1 0 auto;
+  }
+
+  li {
+    margin: 0 .75rem;
+
+    & + li {
+      &:before {
+        content: "|";
+        margin-right: .75rem;
+        margin-left: -.75rem;
+      }
+    }
+  }
+
+  label {
+    margin: 0 1.5rem 0 0;
+    -webkit-flex: none;
+    flex: none;
+  }
+
+  @media (max-width: $medium-screen) {
+    label, ul {
+      display: block;
+      margin: 0;
+    }
+
+    li:first-child {
+      margin-left: 0;
+    }
+
+    select {
+      display: block;
+      margin: 1.4rem 0;
+    }
+  }
+}
+
+.rx-sort-active {
+  font-weight: bold;
+  text-decoration: none;
+}

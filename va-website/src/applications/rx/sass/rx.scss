@@ -1,0 +1,112 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/va-pagination";
+@import "~@department-of-veterans-affairs/formation/sass/modules/va-tabs";
+
+// RX-specific partials
+@import "partials/rx-contact-card";
+@import "partials/rx-prescriptions";
+@import "partials/rx-detail";
+@import "partials/rx-glossary";
+@import "partials/rx-history";
+@import "partials/rx-modal";
+@import "partials/rx-sort-list";
+@import "partials/rx-table";
+@import "partials/rx-breadcrumbs";
+@import "partials/rx-view-toggle";
+
+// TODO: Replace this with a clearfix mixin
+// from USWDS or something
+.cf {
+  &::before,
+  &::after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+}
+
+/* For IE <= 10 */
+[hidden] {
+  display: none !important;
+}
+
+.rx-app {
+  margin-bottom: 3rem;
+}
+
+// Enhances a USWDS style that has higher specificity.
+// Do not refactor.
+button.usa-button-secondary {
+  font-weight: bold;
+}
+
+// Used to make functional buttons look like links.
+.rx-trigger {
+  background: transparent;
+  color: $color-link-default;
+  font-size: inherit;
+  font-weight: normal;
+  display: inline-block;
+  margin: 0;
+  padding: 0 !important;
+  text-align: left;
+  text-decoration: underline;
+  width: auto !important;
+
+  &:hover {
+    background: $color-link-default-hover;
+    color: $color-link-default;
+    text-decoration: inherit;
+  }
+}
+
+.rx-app-error {
+  p {
+    margin: 0;
+    font-size: initial !important;
+  }
+}
+
+.rx-tab-explainer {
+  display: inline-block;
+  margin: 3rem 0;
+}
+
+.rx-loading-error {
+  font-weight: bold;
+  width: 66%;
+}
+
+.rx-error-messages {
+  ul, li {
+    list-style-type: none;
+  }
+}
+
+#rx-active, #rx-history, #rx-detail {
+  .loading-indicator-container {
+    margin-top: 2rem;
+  }
+}
+
+#rx-settings {
+  .rx-tab-explainer {
+    margin-bottom: 0;
+  }
+
+  .rx-notifications-save {
+    margin: 3rem 0 0;
+  }
+}
+
+.rx-app-title {
+  align-items: flex-start;
+  display: flex;
+
+  h1 {
+    display: inline-block;
+    flex: 1;
+    vertical-align: top;
+  }
+}

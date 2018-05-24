@@ -1,0 +1,28 @@
+// Styles for application modals
+// Used in prescriptions, messaging.
+
+.rx-modal {
+  &-drug {
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+
+  .rx-glossary {
+    margin: 0 auto;
+  }
+}
+
+#rx-glossary-modal-title {
+  display: none;
+}
+
+.modalTitle {
+  //border: 1px solid red;
+  display: inline-block;
+  padding-bottom: 0;
+  p {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+  }
+}

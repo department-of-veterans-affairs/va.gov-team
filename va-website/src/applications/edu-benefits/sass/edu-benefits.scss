@@ -1,0 +1,30 @@
+// Variables
+
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-process-list";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-form-process";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-progress-bar";
+@import "../../../platform/forms/sass/m-schemaform";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-modal";
+@import "~@department-of-veterans-affairs/formation/sass/modules/m-omb-info";
+@import "../../../platform/forms/sass/m-form-confirmation";
+
+// Privacy agreement?
+.form-required-span {
+  font-size: 1.7em;
+  line-height: 0;
+  position: relative;
+  top: 10px;
+}
+
+.edu-benefits-dependents-desc {
+  margin-top: 5px;
+}
+
+.edu-dd-warning {
+  margin-top: 3rem;
+}
+
+.row .edu-intro-spacing {
+  margin-bottom: 7rem;
+}

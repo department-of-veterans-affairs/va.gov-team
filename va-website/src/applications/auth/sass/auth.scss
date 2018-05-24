@@ -1,0 +1,19 @@
+@import "~@department-of-veterans-affairs/formation/sass/shared-variables";
+
+.overlay {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  background-color: $color-white;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+
+  .overlay-content {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

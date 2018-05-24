@@ -1,0 +1,16 @@
+{
+  "name":"vets-website",
+  "env":{
+    "INSTALL_HOOKS": "no",
+    "CHECK_BROKEN_LINKS": "no",
+    "YARN_PRODUCTION":{
+      "required": true
+    }
+  },
+  "addons":[],
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "data": {
+    "privacyAgreementAccepted": true,
+    "relativeFullName": {
+      "first": "John",
+      "middle": "Q",
+      "last": "Doe",
+      "suffix": "Jr."
+    },
+    "relativeDateOfBirth": "1984-01-02",
+    "gender": "F",
+    "view:noSSN": true,
+    "relativeSocialSecurityNumber": "213333212",
+    "vaFileNumber": "12312313",
+    "relativeVaFileNumber": "99999999",
+    "view:applicantServed": true,
+    "toursOfDuty": [
+      {
+        "serviceBranch": "Army",
+        "dateRange": {
+          "from": "2001-03-03",
+          "to": "2003-03-02"
+        },
+        "serviceStatus": "Honorable"
+      },
+      {
+        "serviceBranch": "Navy",
+        "dateRange": {
+          "from": "2003-03-02",
+          "to": "2003-12-03"
+        },
+        "serviceStatus": "The best"
+      }
+    ],
+    "benefit": "chapter33",
+    "veteranFullName": {
+      "first": "Jim",
+      "middle": "B",
+      "last": "Doe",
+      "suffix": "II"
+    },
+    "view:veteranId": {
+      "view:noSSN": true,
+      "veteranSocialSecurityNumber": "433443223",
+      "vaFileNumber": "24234444"
+    },
+    "outstandingFelony": true,
+    "educationProgram": {
+      "name": "Smith",
+      "address": {
+        "street": "123 elm st",
+        "street2": "Apt 4",
+        "city": "Northampton",
+        "country": "USA",
+        "state": "MA",
+        "postalCode": "01060"
+      },
+      "educationType": "college"
+    },
+    "educationObjective": "Learn stuff",
+    "oldSchool": {
+      "name": "Mt Holyoke",
+      "address": {
+        "street": "123 main st",
+        "street2": "Apt 5",
+        "city": "South Hadley",
+        "country": "USA",
+        "state": "MA",
+        "postalCode": "01070"
+      }
+    },
+    "trainingEndDate": "2016-03-02",
+    "reasonForChange": "Don't like directionally named towns",
+    "relativeAddress": {
+      "street": "123 west st",
+      "street2": "Apt 2",
+      "city": "Amherst",
+      "country": "USA",
+      "state": "MA",
+      "postalCode": "01050"
+    },
+    "view:otherContactInfo": {
+      "email": "test@test.com",
+      "view:confirmEmail": "test@test.com",
+      "homePhone": "1234433444",
+      "mobilePhone": "2332244555"
+    },
+    "bankAccountChange": "startUpdate",
+    "bankAccount": {
+      "accountType": "checking",
+      "routingNumber": "211370545",
+      "accountNumber": "121231233"
+    }
+  }
+}
