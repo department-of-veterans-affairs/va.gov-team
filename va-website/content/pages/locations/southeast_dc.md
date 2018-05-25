@@ -119,4 +119,4 @@ Dr. Robin Peck provides comprehensive Women's health care.
 </ul>
 </div>
 
-https://www.washingtondc.va.gov/locations/Southeast_Washington_DC.asp
+<!--https://www.washingtondc.va.gov/locations/Southeast_Washington_DC.asp-->
