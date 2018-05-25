@@ -6,7 +6,7 @@ display_title: Washington DC COBC
 concurrence: complete
 lastupdate:
 order: 1
-relatedlinks:
+majorlinks:
   - heading: Other Locations
     links:
     - url: https://www.washingtondc.va.gov/locations/Charlotte_Hall_MD.asp
