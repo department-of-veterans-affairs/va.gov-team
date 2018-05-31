@@ -1,0 +1,23 @@
+import React from 'react';
+import DropDownPanel from './DropDownPanel';
+
+export default class DropDownPanelExample extends React.Component {
+  constructor() {
+    super();
+    this.state = { open: false };
+  }
+  render() {
+    return (
+      <div style={{ backgroundColor: '#112e51' }}>
+        <DropDownPanel
+          buttonText={this.props.buttonText}
+          cssClass={this.props.cssClass}
+          isOpen={this.state.open}
+          contents={this.props.contents}
+          clickHandler={() => this.setState({ open: !this.state.open })}>
+          {this.props.contents}
+        </DropDownPanel>
+      </div>
+    );
+  }
+}

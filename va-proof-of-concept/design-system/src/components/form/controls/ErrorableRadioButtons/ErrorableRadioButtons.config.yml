@@ -1,0 +1,20 @@
+label: Errorable Radio Buttons
+status: wip
+
+context:
+  componentSourcePath: './ErrorableRadioButtons.jsx'
+  id: 'defaultId'
+  name: 'defaultName'
+  errorMessage: 'Radio Button errorMessage'
+  label: 'Errorable Radio Buttons'
+  options:
+    - 'option 1'
+    - 'option 2'
+    - label: 'option 3 label'
+      value: 'expanding option 3'
+      additional: 'expanded option 3'
+  value:
+    value: 'option 2'
+    dirty: false
+  required: false
+  toolTipText: 'this triggers a tooltip'

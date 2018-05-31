@@ -1,0 +1,13 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "uglify": true,
+        "browsers": ["last 2 versions", "ie 11", "not ie 10"]
+      },
+      "useBuiltIns": true
+    }],
+    "react",
+    "stage-2",
+  ]
+}

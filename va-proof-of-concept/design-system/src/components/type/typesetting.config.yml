@@ -1,0 +1,40 @@
+label: Typesetting
+status: wip
+collated: true
+default: h1
+
+variants:
+  - name: h1
+    context:
+      name: h1
+      label: "Headline H1"
+  - name: h2
+    context:
+      name: h2
+      label: "Headline H2"
+  - name: h3
+    context:
+      name: h3
+      label: "Headline H3"
+  - name: h4
+    context:
+      name: h4
+      label: "Headline H4"
+  - name: h5
+    context:
+      name: h5
+      label: "Headline H5"
+  - name: h6
+    context:
+      name: h6
+      label: "Headline H6"
+  - name: IntroText
+    context:
+      name: Intro Text
+      class: va-introtext
+      label: VA Intro Text has the class 'va-introtext'. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis laoreet augue scelerisque sollicitudin.
+  - name: Standard paragraph
+    context:
+      name: Standard paragraph
+      class: ''
+      label: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean venenatis laoreet augue scelerisque sollicitudin. Proin sodales sodales posuere. 

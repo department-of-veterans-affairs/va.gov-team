@@ -1,0 +1,7 @@
+label: PrivacyAgreement
+status: wip
+order: 19
+
+context:
+  componentSourcePath: './PrivacyAgreement.jsx'
+  checked: true

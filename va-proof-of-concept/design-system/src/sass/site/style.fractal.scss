@@ -1,0 +1,41 @@
+$color-white: #ffffff;
+$color-primary-darkest: #112e51;
+$color-gray-lightest: #f1f1f1;
+
+.fractal-vets-logo {
+  display: block;
+  height: inherit;
+  width: inherit;
+  path, rect {
+    fill: white;
+  }
+}
+
+.Header {
+  color: $color-white;
+  background-color: $color-primary-darkest;
+
+  .f-pipe {
+    font-size: 3rem;
+  }
+
+  h2 {
+    color: $color-white;
+  }
+}
+
+.Header-navToggle svg {
+  fill: $color-white;
+}
+
+.Frame-panel {
+  background-color: $color-white;
+}
+
+/* .Tree {
+  border:1px solid orange;
+
+  .Status-dots {
+    border:1px solid red;
+  }
+}*/

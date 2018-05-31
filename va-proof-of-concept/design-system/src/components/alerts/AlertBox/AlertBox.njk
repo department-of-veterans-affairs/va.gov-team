@@ -1,0 +1,29 @@
+import React from 'react';
+import AlertBox from './AlertBox';
+
+export default function AlertBoxExample(props) {
+  return (
+    <div className="usa-width-one-whole">
+      <AlertBox
+        headline={props.headline}
+        content={props.content}
+        status={props.status}
+        isVisible={props.isVisible}/>
+      <AlertBox
+        headline={props.headline}
+        content={props.content}
+        status={'error'}
+        isVisible={props.isVisible}/>
+      <AlertBox
+        headline={props.headline}
+        content={props.content}
+        status={'success'}
+        isVisible={props.isVisible}/>
+      <AlertBox
+        headline={props.headline}
+        content={props.content}
+        status={'info'}
+        isVisible={props.isVisible}/>
+    </div>
+  );
+}

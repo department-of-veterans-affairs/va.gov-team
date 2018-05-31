@@ -1,0 +1,52 @@
+.va-dropdown {
+  position: relative;
+
+  // This should always be a button element
+  &-trigger {
+    background: transparent url(/img/arrow-down-white.svg) no-repeat;
+    background-position: right .8rem center;
+    background-size: 1rem 1rem;
+    border-radius: 0;
+    border-top: 3px solid transparent;
+    margin: 0;
+    padding: .9rem 2.5rem .8rem .8rem;
+
+    &:hover {
+      background-color: $color-primary;
+    }
+
+    &[aria-expanded=true] {
+      border-top-color: $color-va-accent;
+      background-color: $color-white;
+      background-image: url(/img/arrow-up.svg) !important;
+      color: $color-base;
+
+      path {
+        fill: currentColor;
+      }
+    }
+  }
+
+  &-panel {
+    background: $color-white;
+    box-shadow: 0px 4px 10px -4px $color-base;
+    color: $color-base;
+    padding: .8rem;
+    position: absolute;
+    min-width: 100%;
+    z-index: 2;
+
+    a {
+      color: $color-link-default;
+      display: inline-block;
+    }
+  }
+}
+
+//==============================
+// Specific component overrides
+//==============================
+
+[id=helpmenu] {
+  width: 21rem;
+}

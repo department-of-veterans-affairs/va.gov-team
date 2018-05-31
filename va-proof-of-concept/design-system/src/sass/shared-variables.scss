@@ -1,0 +1,20 @@
+// This file should import the variables that are common between style.scss
+// and the individual react apps (plus static-pages)
+// You should not add actual variables in here, but if you create a new file for variables
+// that you want to use in all apps, it would be imported in here
+@charset "UTF-8";
+
+@import "../../node_modules/uswds/src/stylesheets/lib/bourbon";
+@import "../../node_modules/uswds/src/stylesheets/lib/neat";
+
+$font-path: "../../node_modules/uswds/src/fonts";
+$image-path: "../../node_modules/uswds/src/img";
+@import "../../node_modules/uswds/src/stylesheets/core/grid-settings";
+@import "../../node_modules/uswds/src/stylesheets/core/variables";
+
+@import "base/b-variables";
+@import "base/b-breakpoints";
+@import "base/b-mixins";
+@import "base/b-element-overrides";
+
+$color-gray-warm-light: #e4e2e0;

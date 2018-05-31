@@ -1,0 +1,90 @@
+label: Iconography
+status: ready
+order: 2
+preview: '@uswds-framed'
+
+context:
+  category:
+    - name: Navigation
+      icon:
+        - id: fa-chevron-down
+          html: "&#xf078;"
+          usage: "Dropdown expand indicator"
+        - id: fa-chevron-up
+          html: "&#xf077;"
+          usage: "Dropdown collapse indicator"
+        - id: fa-plus
+          html: "&#xf067;"
+          usage: "Accordion expand indicator"
+        - id: fa-minus
+          html: "&#xf068;"
+          usage: "Accordion collapse indicator"
+        - id: fa-close
+          html: "&#xf00d;"
+          usage: "Close indicator (modals, alerts)"
+        - id: fa-angle-double-left
+          html: "&#xf100;"
+          usage: "Previous"
+        - id: fa-angle-double-right
+          html: "&#xf101;"
+          usage: "Next"
+        - id: fa-search
+          html: "&#xf002;"
+          usage: "Search"
+        - id: fa-sort
+          html: "&#xf0dc;"
+          usage: Form field dropdown
+    - name: Interaction
+      icon:
+        - id: fa-plus
+          html: "&#xf067;"
+          usage: "Add item"
+        - id: fa-trash
+          html: "&#xf1f8;"
+          usage: "Remove item"
+    - name: Feedback
+      icon:
+        - id: fa-info-circle
+          html: "&#xf05a;"
+          usage: "Informational"
+        - id: fa-check-circle
+          html: "&#xf058;"
+          usage: "Confirmation or completion"
+        - id: fa-exclamation-triangle
+          html: "&#xf071;"
+          usage: "Warning"
+        - id: fa-exclamation-circle
+          html: "&#xf06a;"
+          usage: "Error"
+    - name: Identification
+      icon:
+        - id: fa-phone
+          html: "&#xf095;"
+          usage: "Telephone number"
+        - id: fa-map-marker
+          html: "&#xf041;"
+          usage: "Location or address"
+        - id: fa-road
+          html: "&#xf018;"
+          usage: "Driving directions"
+        - id: fa-globe
+          html: "&#xf0ac;"
+          usage: "Website address"
+        - id: fa-question-circle
+          html: "&#xf059;"
+          usage: "Help or contact information"
+        - id: fa-gear
+          html: "&#xf013;"
+          usage: "Settings"
+        - id: fa-folder
+          html: "&#xf07b;"
+          usage: "Content folders (messaging)"
+        - id: fa-paperclip
+          html: "&#xf0c6;"
+          usage: "Attachment (messaging)"
+        - id: fa-calendar-o
+          html: "&#xf133;"
+          usage: Duration (days/months/years)
+        - id: fa-envelope
+          html: "&#xf0e0;"
+          usage: Message, notfication, letter

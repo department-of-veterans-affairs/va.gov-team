@@ -1,0 +1,88 @@
+/*
+Error: Undefined variable: "$color-gray-warm-light".
+        on line 21 of design-system-master/src/sass/./site/color-palette.scss
+
+16:   grid-auto-flow: row;
+17:   height: auto;
+18:   padding-bottom:30px;
+19: 
+20:   .palette-swatch {
+21:     border: 1px solid $color-gray-warm-light;
+22:     padding: 10px;
+23: 
+24:     .swatch {
+25:       display: inline-block;
+26:       width:100%;
+
+Backtrace:
+design-system-master/src/sass/./site/color-palette.scss:21
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/variable.rb:49:in `_perform'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/node.rb:50:in `perform'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/list_literal.rb:75:in `block in _perform'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/list_literal.rb:75:in `map'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/list_literal.rb:75:in `_perform'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/node.rb:50:in `perform'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:402:in `visit_prop'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `block in with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:135:in `with_frame'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:444:in `block (2 levels) in visit_rule'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:444:in `map'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:444:in `block in visit_rule'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:183:in `with_environment'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:442:in `visit_rule'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `block in with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:135:in `with_frame'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:444:in `block (2 levels) in visit_rule'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:444:in `map'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:444:in `block in visit_rule'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:183:in `with_environment'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:442:in `visit_rule'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `block in with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:135:in `with_frame'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:52:in `map'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:171:in `block in visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:183:in `with_environment'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:170:in `visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:190:in `visit_root'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:161:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:10:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/root_node.rb:36:in `css_tree'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/engine.rb:307:in `render_with_sourcemap'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:462:in `update_stylesheet'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:209:in `each'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:294:in `watch'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin.rb:109:in `method_missing'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/sass_scss.rb:360:in `watch_or_update'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/sass_scss.rb:51:in `process_result'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/base.rb:52:in `parse'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/base.rb:19:in `parse!'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/bin/sass:13:in `<top (required)>'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/sass:23:in `load'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/sass:23:in `<main>'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `eval'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$color-gray-warm-light\".\A         on line 21 of design-system-master/src/sass/./site/color-palette.scss\A \A 16:   grid-auto-flow: row;\A 17:   height: auto;\A 18:   padding-bottom:30px;\A 19: \A 20:   .palette-swatch {\A 21:     border: 1px solid $color-gray-warm-light;\A 22:     padding: 10px;\A 23: \A 24:     .swatch {\A 25:       display: inline-block;\A 26:       width:100%;"; }

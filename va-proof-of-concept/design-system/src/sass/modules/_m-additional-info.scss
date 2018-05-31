@@ -1,0 +1,33 @@
+.additional-info-content {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.additional-info-button {
+  text-decoration: none;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.additional-info-title {
+  border-bottom-right-radius: 1px;
+  border-bottom: 2px $color-primary dotted;
+  color: $color-gray-dark;
+  &:hover {
+    color: $color-black;
+  }
+}
+
+.fa-angle-down {
+  color: $color-gray-light;
+  font-size: 16px !important;
+  margin: 0.5rem;
+  transform: rotate(0deg);
+  transition: transform 0.15s linear;
+}
+
+.fa-angle-down.open {
+  transform: rotate(180deg);
+  transition: transform 0.15s linear;
+}

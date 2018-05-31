@@ -1,0 +1,563 @@
+/*
+Copyright Â© 2013 Adobe Systems Incorporated.
+
+Licensed under the Apache License, Version 2.0 (the â€œLicenseâ€);
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an â€œAS ISâ€ BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+*/
+
+.megamenu   {
+	background: url("http://www.va.gov/va_files/2012/images/bg-main-nav.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+	height: 52px;
+	margin: auto;
+	padding: 0;
+	}
+
+.accessible-megamenu {
+	position: relative;
+	display:block;
+	box-sizing: border-box;
+	list-style: none;
+	margin: 0 0 0 0;
+	padding: 0;
+	color: #454545;
+	background-color: #EEEEEE;
+	border-color: rgba(0, 0, 0, 0.3);
+	font-size: 13px;
+	z-index: 1000;
+}
+
+.accessible-megamenu h2,
+.accessible-megamenu h3,
+.accessible-megamenu h4 {
+	font-size: 1em;
+	display: inline;
+	margin: 0;
+	padding: 0;
+	line-height: inherit;
+}
+
+.accessible-megamenu-panel-group h3 .panelheader{
+	color: #0F4F89;
+	font-family: Arial,Helvetica,sand-serif;
+	font-size: 0.917em;
+	font-weight: bold;
+	letter-spacing: 0.05em;
+	margin: 0 0 0px;
+	padding: 10px 10px 10px 32px;
+	text-align: left;
+	text-transform: uppercase;
+	display: block;
+	border-bottom: 1px solid #C9C9C9;
+	background: url(../img/sub-closed.png) 20px center no-repeat #EFEFEF;
+}
+.accessible-megamenu-panel-group h3.active{
+	display:block;
+	background: -moz-linear-gradient(top, #dbf0ff 0%, #cbebff 50%, #bce6ff 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#DBF0FF), color-stop(50%,#CBEBFF), color-stop(100%,#BCE6FF));
+	background: -webkit-linear-gradient(top, #DBF0FF 0%,#CBEBFF 50%,#BCE6FF 100%);
+	background: -o-linear-gradient(top, #dbf0ff 0%,#cbebff 50%,#bce6ff 100%);
+	background: -ms-linear-gradient(top, #dbf0ff 0%,#cbebff 50%,#bce6ff 100%);
+	background: linear-gradient(to bottom, #DBF0FF 0%,#CBEBFF 50%,#BCE6FF 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#dbf0ff', endColorstr='#bce6ff',GradientType=0 );
+}
+	.accessible-megamenu-panel-group h3.active .panelheader{
+		background: url(/va_files/2014/responsive/images/sub-open.png) 18px center no-repeat;
+	}
+
+.accessible-megamenu .accessible-megamenu-top-nav-item {
+	color: #454545 !important;
+	display: block;
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	border-bottom:1px solid #0F4F8D;
+}
+
+.accessible-megamenu .accessible-megamenu-top-nav-item.last {
+	border-right: none;
+	color: #454545 !important;
+	display: block;
+	list-style: none outside none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+.accessible-megamenu .accessible-megamenu-top-nav-item a:link a:visited a:hover a:focus {
+	color: #003F72;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+
+
+.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup] {
+	background: none repeat scroll 0 0 #003161;
+	color: #FFF !important;
+	display: block;
+	font-family: Arial,Helvetica,sans-serif !important;
+	font-weight: normal;
+	line-height: 26px;
+	min-width: 94px !important;
+	padding: 5px 10px 5px 31px;
+	position: relative;
+	text-decoration: none;
+	z-index: inherit;
+}
+
+.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:after {
+	content: '';
+	display: block;
+	position: absolute;
+	width: 9px;
+	height: 9px;
+	left: 18px;
+	top: 13px;
+	z-index: 999;
+	background: url(../img/closed.png) 0 0 no-repeat;
+}
+.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup].active:after {
+	background: url(/va_files/2014/responsive/images/open.png) 0 0 no-repeat;
+}
+
+.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:hover,
+.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:focus {
+	outline-offset: -1px;
+}
+.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup].active {
+	margin-left: 0;
+	z-index: 1002;
+	background: -moz-linear-gradient(top, rgba(11,90,146,1) 0%, rgba(0,63,114,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#0B5A92), color-stop(100%,#003F72));
+	background: -webkit-linear-gradient(top, #0B5A92 0%,#003F72 100%);
+	background: -o-linear-gradient(top, rgba(11,90,146,1) 0%,rgba(0,63,114,1) 100%);
+	background: -ms-linear-gradient(top, rgba(11,90,146,1) 0%,rgba(0,63,114,1) 100%);
+	background: linear-gradient(top, rgba(11,90,146,1) 0%,rgba(0,63,114,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0b5a92', endColorstr='#003f72',GradientType=0 );
+}
+
+.accessible-megamenu .accessible-megamenu-top-nav-item:first-child a[aria-haspopup].open {
+	border-bottom-left-radius: 0px;
+	border-left: 1px solid rgba(0,0,0,0.3);
+	left: -1px;
+	margin-right: -1px;
+}
+.accessible-megamenu .accessible-megamenu-panel {
+	display: none;
+	color: #454545;
+	margin: 0;
+	line-height: normal;
+	background-color: #FFFFFF;
+	cursor: default;
+	overflow: hidden;
+}
+
+.accessible-megamenu .accessible-megamenu-panel.open {
+	visibility: visible;
+	top: 4em;
+	max-height: 1200px;
+	opacity: 1;
+	z-index: 1001;
+}
+
+.accessible-megamenu .accessible-megamenu-panel a {
+	display: block;
+	font-size: 0.92em;
+	line-height: 1.7em;
+	display: block;
+	color: #797979;
+	background: #fff;
+	padding: 6px 10px 6px 50px;
+	border-bottom: 1px solid #C9C9C9;
+	font-weight: normal;
+	text-decoration:none;
+}
+
+.accessible-megamenu .accessible-megamenu-panel.cols-4 {
+	width: 878px;
+}
+
+.accessible-megamenu .accessible-megamenu-panel.cols-4 > ol > li {
+	width: 22%;
+}
+
+.accessible-megamenu .accessible-megamenu-panel.cols-4b {
+	width: 878px;
+	left: -7.25em;
+	border-top-left-radius: 3px;
+}
+
+.accessible-megamenu .accessible-megamenu-panel.cols-4b > ol > li {
+	width: 22%;
+}
+
+
+.accessible-megamenu .accessible-megamenu-panel ol {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.accessible-megamenu .accessible-megamenu-panel ol  .accessible-megamenu-lvl3{
+	display:none;
+}
+
+.accessible-megamenu .accessible-megamenu-panel ol > li {
+	position: relative;
+	list-style: none;
+	padding: 0;
+}
+
+.accessible-megamenu .accessible-megamenu-panel > ol > li {
+	display: block;
+}
+
+.accessible-megamenu .accessible-megamenu-panel > ol > li:first-of-type {
+	padding-left: 0;
+	border-left: none;
+	box-shadow: none;
+}
+
+.accessible-megamenu .accessible-megamenu-panel > p {
+	color: #454545;
+	font-size: 1.2em;
+	line-height: 1.1em;
+}
+
+.accessible-megamenu .accessible-megamenu-panel > ol > li > h3 > a {
+	/*font-weight: bold;*/
+	color: #003F72;
+	font-size: 1.1em;
+	margin-bottom: 20px;
+	padding-top: .4em;
+	padding-bottom: 0;
+	line-height: 1.1em;
+}
+
+.accessible-megamenu .accessible-megamenu-panel ol ol > li > a {
+	width: auto;
+	color:#003F72;
+}
+
+.accessible-megamenu .accessible-megamenu-panel a:hover,
+.accessible-megamenu .accessible-megamenu-panel a:focus {
+	color: #c30000;
+	text-decoration: underline;
+}
+
+.accessible-megamenu .accessible-megamenu-panel > ol > li > h3 > a:hover,
+.accessible-megamenu .accessible-megamenu-panel > ol > li > h3 > a:focus {
+	color: #333;
+}
+
+.accessible-megamenu .accessible-megamenu-panel hr {
+	border-width: 1px 0px;
+	border-style: solid;
+	border-top-color: rgba(0,0,0, 0.3);
+	border-bottom-color: #fff;
+}
+.accessible-megamenu :focus {
+		outline:none;
+		-moz-outline-radius: 0px;
+	}
+
+@media screen and (min-width: 960px) {
+	.megamenu   { background: url("http://www.va.gov/va_files/2012/images/bg-main-nav.jpg") repeat-x scroll 0 0 rgba(0, 0, 0, 0);
+		float: left;
+		height: 52px;
+		margin: auto;
+		padding: 0;
+		width: 960px;
+		}
+
+	.accessible-megamenu {
+		height: 4em;
+		width: auto;
+	}
+
+	.accessible-megamenu-panel-group h3 .panelheader{
+		color: #0F4F89;
+		font-family: Arial,Helvetica,sand-serif;
+		font-size: 0.917em;
+		font-weight: bold;
+		letter-spacing: 0.05em;
+		margin: 0 0 20px;
+		padding: 0;
+		text-align: left;
+		text-transform: uppercase;
+		float:left;
+		width:100%;
+		 border-bottom: none;
+        background: none;
+	}
+	.accessible-megamenu .accessible-megamenu-top-nav-item {
+		border-right: 1px solid rgba(0, 0, 0, 0.3);
+		border-bottom: none;
+		float: left;
+		height: 52px;
+		text-shadow: 0 1px 0 #FFFFFF;
+	}
+
+	.accessible-megamenu .accessible-megamenu-top-nav-item.last {
+		border-right: none;
+		color: #454545 !important;
+		display: block;
+		float: left;
+		height: 52px;
+		list-style: none outside none;
+		margin: 0;
+		padding: 0;
+		position: relative;
+		text-shadow: 0 1px 0 #FFFFFF;
+	}
+	.accessible-megamenu .accessible-megamenu-top-nav-item a:link a:visited a:hover a:focus {
+		color: #003F72;
+		font-weight: normal;
+		text-decoration: none;
+	}
+
+	.accessible-megamenu :focus {
+		outline:  2px solid rgba(195, 0, 0, 0.3);
+		-moz-outline-radius: 3px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup] {
+		background:none;
+		box-shadow: 1px 1px 0 #FFFFFF inset;
+		color: #003F72 !important;
+		float: left;
+		font-family: Arial,Helvetica,sans-serif !important;
+		font-weight: bold;
+		height: 4em;
+		line-height: 4em;
+		padding:0 0.789em 0 0.789em;
+		text-align: center;
+		box-sizing: content-box;
+		-moz-box-sizing: content-box;
+		-ms-box-sizing: content-box;
+	}
+
+    .accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:after{ display:none;}
+	.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:hover,
+	.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:focus {
+		color: #333 !important;
+		outline-offset: -1px;
+	}
+	.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:hover,
+	.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup]:focus,
+	.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup].open {
+		margin-left: 0;
+		background: #EEEEEE none;
+		z-index: 1002;
+
+	}
+
+	.accessible-megamenu .accessible-megamenu-top-nav-item a[aria-haspopup].open {
+		background: #FFFFFF none;
+		padding-bottom: 2px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-top-nav-item:first-child a[aria-haspopup] {
+		border-bottom-left-radius: 3px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-top-nav-item:first-child a[aria-haspopup].open {
+		border-bottom-left-radius: 0px;
+		border-left: 1px solid rgba(0,0,0,0.3);
+		left: -1px;
+		margin-right: -1px;
+	}
+	.accessible-megamenu .accessible-megamenu-panel {
+		position: absolute;
+		display: block !important;
+		left: -1px;
+		padding: 1.538em 0.769em 0.769em;
+		-webkit-box-shadow: 0 4px 6px -2px rgba(0,0,0,.5), inset 1px 1px 0 #fff;
+		   -moz-box-shadow: 0 4px 6px -2px -moz-rgba(0,0,0,.5), inset 1px 1px 0 #fff;
+				box-shadow: 0 4px 6px -2px rgba(0,0,0,.5), inset 1px 1px 0 #fff;
+
+		visibility: hidden;
+		top: -9999em;
+		max-height: 0px;
+		opacity: 0;
+		-webkit-transition: opacity 250ms ease 250ms, max-height 500ms ease, visibility 0s linear 500ms, top 0s linear 500ms;
+		   -moz-transition: opacity 250ms ease 250ms, max-height 500ms ease, visibility 0s linear 500ms, top 0s linear 500ms;
+			-ms-transition: opacity 250ms ease 250ms, max-height 500ms ease, visibility 0s linear 500ms, top 0s linear 500ms;
+			 -o-transition: opacity 250ms ease 250ms, max-height 500ms ease, visibility 0s linear 500ms, top 0s linear 500ms;
+				transition: opacity 250ms ease 250ms, max-height 500ms ease, visibility 0s linear 500ms, top 0s linear 500ms;
+
+		border: 1px solid rgba(0,0,0,0.3);
+		border-top-right-radius: 3px;
+		border-bottom-right-radius: 3px;
+		border-bottom-left-radius: 3px;
+	}
+
+
+	.accessible-megamenu .accessible-megamenu-panel.open {
+		visibility: visible;
+		top: 4em;
+		max-height: 1200px;
+		opacity: 1;
+		z-index: 1001;
+		-webkit-transition: opacity 250ms ease, max-height 500ms ease, visibility 0s linear 0s, top 0s linear 0s;
+		   -moz-transition: opacity 250ms ease, max-height 500ms ease, visibility 0s linear 0s, top 0s linear 0s;
+			-ms-transition: opacity 250ms ease, max-height 500ms ease, visibility 0s linear 0s, top 0s linear 0s;
+			 -o-transition: opacity 250ms ease, max-height 500ms ease, visibility 0s linear 0s, top 0s linear 0s;
+				transition: opacity 250ms ease, max-height 500ms ease, visibility 0s linear 0s, top 0s linear 0s;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel a {
+		display: inline-block;
+		font-size: .92em;
+		line-height: 1.5em;
+		text-decoration: none;
+		color: #c30000;
+		font-weight: normal;
+		text-decoration: none;
+		margin-bottom: 0.5em;
+		background: none;
+		padding: 0;
+		border-bottom: none;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-4 {
+		width: 878px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-4 > ol > li {
+		width: 22%;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-4b {
+		width: 878px;
+		left: -7.25em;
+		border-top-left-radius: 3px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-4b > ol > li {
+		width: 22%;
+	}
+
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-3 {
+		width: 707px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-3 > ol > li {
+		width: 30%;
+	}
+
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-2 {
+		width: 600px; margin-left:-30px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-2 > ol > li {
+		width: 45%;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-1 {
+		width: 320px; /*was 286*/
+	}
+
+	/* Drop Down position adjustments */
+	.accessible-megamenu .accessible-megamenu-panel.cols-2.fifthtolast {
+	   margin-left: -40px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-3.thirdtolast {
+	   margin-left: -377px;
+	}
+	.accessible-megamenu .accessible-megamenu-panel.cols-1.secondtolast {
+		width: 289px; margin-left:-75px;
+	}
+	.accessible-megamenu .accessible-megamenu-panel.cols-1.last {
+		width: 289px; margin-left:-169px;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel.cols-1 > ol > li {
+		width: 95%;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel ol {
+		display: block;
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	.accessible-megamenu .accessible-megamenu-panel ol .accessible-megamenu-lvl3{display:block !important;}
+
+	.accessible-megamenu .accessible-megamenu-panel ol > li {
+		position: relative;
+		list-style: none;
+		margin: 0 0 4px 0;
+		padding: 0;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel > ol > li {
+		float: left;
+		display: block;
+		margin-right: 1em;
+		margin-bottom: 1em;
+		padding-left: 1em;
+		border-left: 1px solid rgba(0,0,0, 0.3);
+		box-shadow: inset 1px 0 0 #fff;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel > ol > li:first-of-type {
+		padding-left: 0;
+		border-left: none;
+		box-shadow: none;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel > p {
+		color: #454545;
+		font-size: 1.2em;
+		line-height: 1.1em;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel > ol > li > h3 > a {
+		/*font-weight: bold;*/
+		color: #003F72;
+		font-size: 1.1em;
+		margin-bottom: 20px;
+		padding-top: .4em;
+		padding-bottom: 0;
+		line-height: 1.1em;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel ol ol > li > a {
+		width: auto;
+		text-indent: -2.5em;
+		padding-left: 2.5em;
+		color:#003F72;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel a:hover,
+	.accessible-megamenu .accessible-megamenu-panel a:focus {
+		color: #c30000;
+		text-decoration: underline;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel > ol > li > h3 > a:hover,
+	.accessible-megamenu .accessible-megamenu-panel > ol > li > h3 > a:focus {
+		color: #333;
+	}
+
+	.accessible-megamenu .accessible-megamenu-panel hr {
+		border-width: 1px 0px;
+		border-style: solid;
+		border-top-color: rgba(0,0,0, 0.3);
+		border-bottom-color: #fff;
+	}
+
+}

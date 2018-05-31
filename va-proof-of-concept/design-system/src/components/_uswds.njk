@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <title>{{ _self.title }}</title>
+    <link rel="stylesheet" href="{{ assetPath }}dist/styles.css">
+  </head>
+  <body>
+    {% block body %}{{ yield }}{% endblock %}
+    <script src="https://unpkg.com/uswds/dist/js/uswds.min.js"></script>
+    <script src="{{ assetPath }}dist/components.bundle.js"></script>
+  </body>
+</html>

@@ -1,0 +1,319 @@
+@import url("vspse-site-styles.css");
+
+/*
+
+	File            : /[sitename]/styles/site-styles.css
+	Description     : Styles available for use across the web site.
+
+*/
+
+/*layout */
+
+ul ol {font-family:Arial, Helvetica, sans-serif;}
+
+a img {
+	border: none;
+}
+
+
+/* layout */
+
+.bdywrpr {
+	width:980px;
+	text-align:center;
+	margin:0 auto;
+	z-index:1;
+    background-color:#FFF;
+}
+.ctwrpr {clear:both; width: 966px; position: relative; text-align: left;margin:0 auto; background: #ffffff; padding-left: 0px;}
+.ctwrpr_special {clear:both; width: 928px; position: relative; margin:0 auto; padding-left: 19px; padding-right: 19px; text-align: left; background: #ffffff; padding-left: 0px;}
+
+
+
+/* header */
+
+.headerwrpr {
+	clear:both;
+	width:980px;
+	height:100px;
+	position: relative;
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align:left;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+.intheaderwrpr {
+	clear:both;
+	width:996px;
+	height:185px;
+	position: relative;
+	margin:-110px auto 0 -15px;
+	background: #ffffff;
+	background-image: url(../images/bg-header-three.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align:left;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+
+.intheaderwrpr {
+	clear:both;
+	width:996px;
+	height:185px;
+	position: relative;
+	margin:-60px auto 0 -15px;
+	background: #ffffff;
+	background-image: url(../images/bg-header-three.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align:left;
+}
+}
+
+@media all and (-webkit-min-device-pixel-ratio:10000), not all and (-webkit-min-device-pixel-ratio:0) {
+.intheaderwrpr {
+	clear:both;
+	width:996px;
+	height:185px;
+	position: relative;
+	margin:-70px auto 0 -15px;
+	background: #ffffff;
+	background-image: url(../images/bg-header-three.jpg);
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align:left;
+} }
+
+.intheaderwrpr_nosub {clear:both; width:966px; height:25px; position: relative; margin:0 auto; background: #ffffff; background-image: url(../images/bg-header-two.jpg); background-repeat: no-repeat; background-position: top center; text-align:left; }
+
+/* HP left content block */
+
+.leftctwrpr {float: left; width: 512px; position: relative; margin: 0 auto; vertical-align: top;}
+.leftctphotobg {width: 480px; height: 330px; padding-top: 19px; padding-right: 12px; padding-left: 20px; padding-bottom: 19px; background: #ffffff; background-image: url(../images/bg-leftct-one_02.jpg); background-repeat: no-repeat; background-position: top center; text-align:left; color:#b4cad9; font-size:.9em; line-height: 1.2em;}
+
+
+/* HP right content block */
+
+.rightctwrpr {float: right; width: 454px; text-align:left; position: relative; margin: 0 auto; vertical-align: top;}
+.rightctquotebg {width: 441px; padding-top: 19px; padding-left: 13px; background: #ffffff; background-image: url(../images/bg-rightct-one_02.jpg); background-repeat: no-repeat; background-position: top left; text-align:left; vertical-align: top;}
+.rightctquotebg_text {width: 351px; padding-left: 30px; padding-right: 30px; color: #000000; font-size:13px; }
+.rightctphotobg img {width:421px; height:231px; border-style:none;}
+
+
+/* INTERIOR left content block */
+
+.intleftctwrpr {float: left; width: 635px; position: relative; margin: -5px auto; padding-left: 30px; vertical-align: top; text-align:left;}
+.sept11search {border:1px solid #cccccc; padding: 10px; width: 268px; text-align: left;}
+.sept11search input.searchlocation {font-size:1.3em; color:#999999; border:1px solid #cccccc; margin:0 5px 0 0; padding:3px 3px 2px 3px; width:118px;}
+
+
+/* INTERIOR right content block */
+
+.intrightctwrpr {float: right; text-align:left; width: 283px; position: relative; margin: -3px 1px 20px; padding-top: 0px; vertical-align: top; background-color: #ffffff; background-image: url(../images/bg-callout-interior.jpg); background-repeat: no-repeat; background-position: top left;}
+.intrightctwrpr_text {width: 220px; text-align:left; color:#666666; font-size:12px; padding-left: 24px; padding-right: 20px; padding-bottom: 15px;}
+.intrightctwrpr_text-508 {width: 240px; text-align:left; color:#666666; font-size:9px; padding-left: 0px; padding-right: 0px; padding-bottom: 10px;}
+.intrightctwrpr_text_center {width: 220px; text-align:left; color:#666666; font-size:12px; padding-left: 24px; padding-right: 20px; padding-bottom: 15px; text-align: center;}
+.intrightctwrpr_divider {width: 220px; padding-left: 24px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px;}
+.intrightctwrpr_image {width: 220px; margin: 0 auto; text-align:left; padding-left: 0px; padding-right: 20px; padding-bottom: 3px;}
+.intrightctwrpr_image_social {width: 210px; margin: 0 auto; text-align:left; padding-left: 0px; padding-right: 20px; padding-bottom: 3px;}
+.intrightctwrpr_trim {width: 264px; height: 24px; padding-top: 0px; background-image: url(../images/bg-callout-interior-trim.jpg); background-repeat: no-repeat; background-position: top left; text-align:left;}
+.intrightctwrpr input.searchlocation {font-size:1.3em; color:#999999; border:1px solid #cccccc; margin:0 5px 0 0; padding:3px 3px 2px 3px; width:118px;}
+
+
+/*hack for background image*/
+
+.background-wrapper{
+    position:relative;
+	margin-left:-15px;
+	background-color: #FFFFFF;
+    background-image: url("../images/bg-main-one.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    width: 996px; height:1021px;}
+
+/* Styles for Accordian script */
+
+
+.technology{
+cursor: pointer;
+font-size:13px;
+font-weight:normal;
+margin: 10px 0 0 20px;
+}
+
+.technology:hover{text-decoration:underline;
+}
+
+
+.openlanguage{ /*class added to contents of 2nd demo when they are open*/
+color:#003366; margin: 10px 0 0 27px;
+
+}
+
+.closedlanguage{ /*class added to contents of 2nd demo when they are closed*/
+color: #6699CC; margin: 10px 0 0 27px;
+}
+
+.accordprefix{float:left; position:relative; margin-left:-9px;}
+
+.accordsuffix{float:left; position:relative; margin-left:-10px;}
+
+.thelanguage{margin: 10px 0 0 20px;}
+
+
+/* Styles for Vetsday Stuff */
+
+#vetdaywrapper{width: 960px;}
+.state-header{width:960px;color: #FFF; font-size:14px; font-weight:bold; padding:3px 3px 3px 15px; vertical-align:middle; float:left; border-bottom:#036 solid 1px; margin-bottom:20px; background-color:#000033;;  }
+.event-row{width: 960px; height:auto; margin-bottom: 20px; float:left;}
+.event-left{ margin-left: 15px; margin-right:15px; width:400px; float:left; height:auto;}
+.event{margin-right:15px; width:300px; height:auto; float:left;}
+
+/* Beginning of styles for the Special Events video list */
+
+/*Styles for OMR Account list page*/
+
+.beat-topic{margin-right:15px; width:500px; height:auto; float:left; margin-left: 15px;}
+
+.omr-special-header {border-top: solid #000033 4px; border-bottom: #000033 solid 4px; padding:5px 10px 20px 10px; width:960px; height: 20px; float:left; margin-bottom:30px; vertical-align:middle;}
+
+/* This style accomodates four video links */
+#speceven-videos-homepage {
+border-width:1px;
+border-style:solid;
+border-color:#006;
+width:290px;
+height:511px;
+}
+#speceven-videos {
+border-width:1px;
+border-style:solid;
+border-color:#006;
+width:290px;
+}
+
+#speceven-vid-container {
+width:290px;
+overflow:hidden;
+position:relative;
+}
+#speceven-vid-container .roller {
+overflow: auto;
+	}
+#speceven-vid-container div ul {
+margin:0;
+padding:0;
+position:relative;
+top: 0px;
+background: #fff;
+}
+#speceven-vid-container div ul li {
+display:block;
+height:94px;
+width:290px;
+position:relative;
+border-bottom: 1px solid #ccc;
+line-height:1.4em;
+}
+#speceven-vid-container div ul li a {
+background:#fff;
+color:#000;
+display:block;
+font-weight:normal;
+text-decoration:none;
+height:100%;
+}
+#speceven-vid-container div ul li a:hover {
+background-color:#ccc;
+}
+#speceven-vid-container div ul li a img {
+position:absolute;
+top:0px;
+left:0px;
+cursor: pointer;
+border: 0 none;
+left: 0;
+height:94px;
+width: 120px;
+background-position: -3px 0px;
+background-repeat: no-repeat;
+}
+#speceven-vid-container div ul li a img:hover {
+left: 0px;
+width: 120px;
+
+background-position: -3px 0px;
+}
+#speceven-vid-container div ul li a span.video-image {
+background-repeat: no-repeat;
+position: absolute;
+top: 0px;
+left: 0px;
+height: 94px;
+width: 122px;
+}
+#speceven-vid-container div ul li a span.summary {
+visibility: hidden;
+}
+#speceven-vid-container div ul li a strong {
+left:125px;
+position:absolute;
+top:5px;
+width: 160px;
+cursor: pointer;
+}
+/* End of styles for the Special Events video list */
+/* styles for the CAF gallery */
+#cafgallery
+{
+	margin: 0;
+	padding: 5px 2px;
+	border: 1px solid #c0c0c0;
+	height: 285px;
+	width: 190px;
+	float: left;
+	text-align: center;
+}
+#cafgallery img
+{
+  display: inline;
+  margin: 3px;
+  border: 1px solid #666;
+}
+#cafgallerydesc
+{
+  text-align: center;
+  width: 180px;
+  margin: auto;
+}
+#cafgallerytitle
+{
+  text-align: center;
+  font-weight: bold;
+  width: 180px;
+  margin: auto;
+}
+#cafgallerycategory
+{
+  text-align: center;
+  font-weight: normal;
+  font-style: italic;
+  width: 180px;
+  margin: auto;
+}
+/* End of styles for the CAF gallery */
+
+#omr-disclaimer-wrapper{width:700px; margin:auto; color:#C00; margin-bottom:20px; padding:10px; border:#000 solid 1px;}
+
+#omr-disclaimer-wrapper ul{ margin-bottom:-10px;}
+
+.disclaimer-first{text-align:center; margin-bottom:20px;}
+
+#advpg-innerRightContent a{background:none;}
+
+.relatedLinks {display:none;}

@@ -1,0 +1,95 @@
+//====================================
+// SCSS for content/components/navigation-sidebar.html
+//====================================
+
+.va-sidebarnav {
+
+  h4 {
+    margin-top: 0;
+  }
+
+  li {
+    border-top-color: $color-gray-lighter;
+   a {
+      &:visited {
+       color: $color-base;
+      }
+      &.usa-current:visited {
+        color: $color-primary;
+      }
+    }
+  }
+
+  @include media-maxwidth($medium-screen - 1) {
+    left: 0;
+    height: 100%;
+    overflow: scroll;
+    padding: 1.6rem;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+
+    // Necessary to override .usa-grid .usa-width-one-fourth
+    .va-l-detail-page & {
+       width: 100%;
+    }
+
+    &::before {
+      background: $color-link-default-hover;
+      content: "\00A0";
+      display: block;
+      height: 100%;
+      left: 0;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 1;
+    }
+
+    > div {
+      visibility: visible;
+      background: $color-white;
+      border-left: 1px solid $color-gray-light;
+      height: 100%;
+      max-width: 30rem;
+      overflow: auto;
+      padding: 3.2rem 1.6rem 1.6rem;
+      z-index: 2;
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 80%;
+      transform: translateX(100%);
+      -webkit-transition: 100ms transform linear;
+              transition: 100ms transform linear;
+    }
+
+    &--opened {
+      visibility: visible;
+
+      & > div {
+        transform: translateX(0);
+      }
+    }
+
+    &-close {
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+  }
+
+  @include media($medium-screen) {
+    a {
+      padding-right: 1.6rem;
+    }
+
+    &-close {
+      display: none;
+    }
+
+    .usa-sidenav-list {
+      margin-right: 1.6rem;
+    }
+  }
+}

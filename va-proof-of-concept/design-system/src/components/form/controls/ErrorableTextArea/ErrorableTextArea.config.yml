@@ -1,0 +1,14 @@
+label: Errorable Text Area
+status: wip
+
+context:
+  componentSourcePath: './ErrorableTextArea.jsx'
+  disabled: false
+  errorMessage: 'Error message'
+  label: 'Label'
+  placeholder: 'Placeholder'
+  name: 'Name'
+  required: true
+  field:
+    dirty: false
+  charMax: 255

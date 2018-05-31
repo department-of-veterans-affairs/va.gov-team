@@ -1,0 +1,21 @@
+import React from 'react';
+import SearchMenu from './SearchMenu';
+
+export default class SearchMenuExample extends React.Component {
+  constructor() {
+    super();
+    this.state = { open: false };
+  }
+  render() {
+    return (
+      <div style={{ backgroundColor: '#112e51', width: '100px' }}>
+        <SearchMenu
+          title={this.props.title}
+          id={this.props.id}
+          isOpen={this.state.open}
+          clickHandler={() => this.setState({ open: !this.state.open })}>
+        </SearchMenu>
+      </div>
+    );
+  }
+}

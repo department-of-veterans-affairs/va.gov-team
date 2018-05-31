@@ -1,0 +1,26 @@
+<!--
+Should display with header, footer, no sidenav
+-->
+
+{% extends '_uswds.njk' %}
+
+{% block body %}
+
+{% include '@header' %}
+
+<!-- {% render '@breadcrumbs' %}-->
+
+  <div class="usa-grid" style="padding: 2em">
+    <div class="usa-width-one-whole">
+
+      {% render '@typesetting--h1' %}
+      {% render '@typesetting--introtext' %}
+
+      {{ yield }}
+
+    </div>
+  </div>
+
+{% include '@footer' %}
+
+{% endblock %}

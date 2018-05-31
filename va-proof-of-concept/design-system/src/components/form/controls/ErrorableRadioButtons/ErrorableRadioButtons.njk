@@ -1,0 +1,33 @@
+import React from 'react';
+import ErrorableRadioButtons from './ErrorableRadioButtons';
+
+class StateWrapper extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = props;
+  }
+
+  render() {
+    return (
+        <ErrorableRadioButtons
+          onValueChange={({value}) => {
+            this.setState({value:{value, dirty: true}});
+          }}
+          {...this.state}
+          />
+        );
+  }
+}
+
+export default function ErrorableRadioButtonsExample(props) {
+  return (
+    <StateWrapper
+      {...props}
+      >
+        <ErrorableRadioButtons
+          onValueChange={()=>{}}
+          {...props}
+         />
+      </StateWrapper>
+      );
+}

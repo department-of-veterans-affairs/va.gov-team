@@ -1,0 +1,93 @@
+// CSS for pagination navigation
+// TODO: Move these to vets-website
+
+.va-pagination {
+  border-top: 1px solid $color-gray-lightest;
+  font-size: .9em;
+  overflow: hidden;
+  padding: 2rem 0 1rem;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+  &-prev {
+    @media (max-width: $medium-screen) {
+      margin-left: -3rem;
+      padding: 0 1rem 0 0;
+    }
+
+    &:not(:empty) {
+      @media (min-width: $small-screen) {
+        &::before {
+          content: "\2039\a0\a0";
+        }
+      }
+    }
+  }
+
+  &-next {
+    @media (max-width: $medium-screen) {
+      margin-right: -3rem;
+      padding: 0 0 0 1rem;
+    }
+
+    &:not(:empty) {
+      @media (min-width: $small-screen) {
+        &::after {
+          content: "\a0\a0\203a";
+        }
+      }
+    }
+  }
+
+  &-prev,
+  &-next {
+    position: relative;
+
+    &:hover,
+    &:focus {
+      text-decoration: underline;
+    }
+
+    @media (min-width: $medium-screen) {
+      padding: 0 1rem;
+    }
+  }
+
+  &-inner {
+    white-space: nowrap;
+    overflow: hidden;
+
+    @media (max-width: $medium-screen) {
+      width: 20rem;
+    }
+
+    @media (min-width: $large-screen) {
+      width: 40rem;
+    }
+  }
+
+  a {
+    line-height: 2;
+    text-decoration: none;
+  }
+}
+
+.va-pagination-inner a {
+  border-radius: 1000px;
+  display: inline-block;
+  height: 3rem;
+  margin: 0 .5rem;
+  width: 3rem;
+  text-decoration: none;
+}
+
+.va-pagination-inner a:hover,
+.va-pagination-inner a:focus,
+.va-pagination-active,
+.va-pagination-active:visited {
+  background: $color-primary;
+  color: $color-white;
+}

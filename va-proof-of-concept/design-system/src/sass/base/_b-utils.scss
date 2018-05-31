@@ -1,0 +1,86 @@
+.full-width {
+  width: 100%;
+}
+
+.no-background-image {
+  background-image: none;
+}
+
+.no-text-transform {
+  text-transform: none;
+}
+
+.no-bottom-margin {
+  margin-bottom: 0;
+}
+
+// This is intended to override button styles and make a button
+// look like a link. We have plenty of overspecified button styles, so there are
+// several instances in here of !important.
+.va-button-link {
+  background: none;
+  background-color: transparent !important;
+  border: 0;
+  border-radius: 0;
+  outline: 0;
+  padding: 0 !important;
+  margin: 0;
+  text-align: left;
+  -webkit-font-smoothing: auto;
+  color: $color-link-default !important;
+  font-weight: normal;
+  text-decoration: underline;
+  display: inline;
+  width: auto !important;
+  line-height: inherit;
+  &:hover {
+    background: none;
+    border: 0;
+    border-radius: 0;
+    outline: 0;
+    padding: 0 !important;
+    color: $color-link-default;
+    text-decoration: underline;
+    background-color: $color-link-default-hover !important;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
+
+    // Transition only these properties.
+    -webkit-transition-property: color, background-color, border-color;
+    transition-property: color, background-color, border-color;
+  }
+  &:active {
+    background: $color-link-default-hover;
+  }
+  &:focus {
+    outline: 2px dotted $color-gray-light;
+    outline-offset: 3px;
+  }
+}
+
+.dashed-underline {
+  text-decoration: none;
+  border-bottom: 1px dashed;
+
+  &:hover {
+    text-decoration: none;
+    border-bottom: 1px dashed;
+  }
+}
+
+.clickable:hover {
+  cursor: pointer;
+}
+
+// These are JavaScript only styles that will be added and removed
+// dynamically with scripts
+.js-visual {
+  visibility: hidden !important;
+}
+
+.js-hide {
+  display: none !important;
+}

@@ -1,0 +1,90 @@
+//======================================= 
+// Media query helper. Use to set max-width queries.
+// Use this sparingly. Please use @include media instead.
+//======================================= 
+
+@mixin media-maxwidth($bp) {
+  @media screen and (max-width: #{$bp}) {
+    @content;
+  }
+}
+
+//======================================= 
+// Heading style mixins
+//======================================= 
+
+// These styles Were orginally pulled from the corresponding,
+// legacy h* elements, which is why there is no `h1` style
+// and why `h3` is currently larger than `h2`. 
+// See discussion in: 
+//    https://github.com/department-of-veterans-affairs/vets-website/pull/5267#issuecomment-293024728
+// TODO(team, eventually): 
+//  - Decide on heading style hierarchy and consistency (design).
+//  - Update markup accordingly
+//  - Update these mixins
+//  - Delete these comments.
+
+@mixin heading-2 {
+  font-size: 1.2em;
+  line-height: 1.2;
+  font-weight: bold;
+}
+
+@mixin heading-3 {
+  font-size: 1.8em;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+@mixin heading-4 {
+  font-size: 1.35em;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+@mixin heading-5 {
+  font-size: 1.15em;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+@mixin heading-6 {
+  font-size: 0.9em;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+@mixin exit-icon {
+  // Using longhand properties instead of the shorthand to limit
+  // risk and impact of side effects
+  background-image: url(/img/icons/exit-icon.png);
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  background-size: 1em auto;
+  padding-right: 1.2em;
+  position: relative;
+
+  &:after {
+    // adds non-visible alt content for screen readers
+    position: absolute;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: clip;
+    padding: 0;
+    border: 0;
+    margin: -1px;
+    content: "this will open a new website";
+  }
+}
+
+// There are a few places where the exit-icon is explicitly hidden using prop / values
+// like 'background-image: none;'. In these cases, we want to hide the corresponding
+// content placed in the ::after pseudo-element
+@mixin no-sr-content {
+  &:after {
+    content: none;
+  }
+}
+

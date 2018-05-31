@@ -1,0 +1,10 @@
+label: Breadcrumbs
+status: wip
+handle: breadcrumbs
+
+context:
+  componentSourcePath: './Breadcrumbs.jsx'
+  crumbs: [{link: '#1', key: 'key1', label: 'link1'},
+  {link: '#2', key: 'key2', label: 'link2'},
+  {link: '#3', key: 'key3', label: 'link3', ariaCurrent: true}]
+  id: 'va-breadcrumbs'

@@ -1,0 +1,9 @@
+label: Dropdown Panel
+status: wip
+
+context:
+  componentSourcePath: './DropDownPanel.jsx'
+  id: default
+  buttonText: 'Helpdesk'
+  cssClass: 'va-dropdown'
+  contents: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ullamcorper at eros eu suscipit. Ut imperdiet libero et luctus pretium.'

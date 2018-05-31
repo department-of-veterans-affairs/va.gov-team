@@ -1,0 +1,270 @@
+<div class="login-container">
+  <div class="row va-flex">
+    <nav id="vetnav" role="navigation"> <!-- used to have `hidden`-->
+      <ul id="vetnav-menu" role="menubar">
+        <li><a href="/" class="vetnav-level1" role="menuitem">Home</a></li>
+        <li role="none">
+          <button
+            aria-controls="vetnav-explore"
+            role="button"
+            aria-haspopup="true"
+            class="vetnav-level1 vetnav-trigger"
+            onClick="window.dataLayer.push({ event: 'nav-header-top-level' });">Explore benefits</button>
+          <div id="vetnav-explore" class="vetnav-panel" role="none" hidden>
+            <ul role="menu" aria-label="Explore benefits">
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-disability"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Disability</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-disability"
+                  role="menu"
+                  aria-label="Disability"
+                  hidden>
+                  <li>
+                    <button
+                      class="vetnav-back vetnav-trigger"
+                      aria-controls="vetnav-disability">Back to menu</button>
+                    <div class="vetnav-level2-heading">Disability</div>
+                  </li>
+                  <li><a href="/disability-benefits/" onClick="reportHeaderNav('Explore Benefits->Disabilty');">Disability benefits overview</a></li>
+                  <li><a href="/disability-benefits/eligibility/" onClick="reportHeaderNav('Explore Benefits->Disabilty');">Eligibility</a></li>
+                  <li><a href="/disability-benefits/apply/" onClick="reportHeaderNav('Explore Benefits->Disabilty');">Application process</a></li>
+                  <li><a href="/disability-benefits/conditions/" onClick="reportHeaderNav('Explore Benefits->Disabilty');">Conditions</a></li>
+                  <li><a class="login-required" href="/track-claims/" onClick="reportHeaderNav('Explore Benefits->Disabilty');">Check claim and appeal status</a></li>
+                  <li><a href="/disability-benefits/claims-appeal/" onClick="reportHeaderNav('Explore Benefits->Disabilty');">Appeals process</a></li>
+                  <li><a class="usa-button va-button-primary va-external--light" href="https://www.ebenefits.va.gov/ebenefits/about/feature?feature=disability-compensation" onClick="reportHeaderNav('Explore Benefits->Disabilty');">Go to eBenefits to apply {{ "assets/img/icons/exit-icon-white.svg" }}</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-healthcare"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Health care</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-healthcare"
+                  role="menu"
+                  aria-label="Health care"
+                  hidden>
+                  <li>
+                    <button
+                      class="vetnav-back"
+                      aria-controls="vetnav-healthcare">Back to menu</button>
+                    <div class="vetnav-level2-heading">Health care</div>
+                  </li>
+                  <li><a href="/health-care/" onClick="reportHeaderNav('Explore Benefits->Health Care');">Health care benefits overview</a></li>
+                  <li><a href="/health-care/eligibility/" onClick="reportHeaderNav('Explore Benefits->Health Care');">Eligibility</a></li>
+                  <li><a href="/health-care/apply/" onClick="reportHeaderNav('Explore Benefits->Health Care');">Application process</a></li>
+                  <li><a href="/health-care/health-conditions/" onClick="reportHeaderNav('Explore Benefits->Health Care');">Health needs and conditions</a></li>
+                  <li><a class="login-required" href="/health-care/prescriptions/" onClick="reportHeaderNav('Explore Benefits->Health Care');">Refill prescriptions</a></li>
+                  <li><a class="login-required" href="/health-care/messaging/" onClick="reportHeaderNav('Explore Benefits->Health Care');">Message your health care team</a></li>
+                  <li><a href="/health-care/health-records/" onClick="reportHeaderNav('Explore Benefits->Health Care');">Get your VA health records</a></li>
+                  <li><a href="/health-care/apply/application/" class="usa-button va-button-primary" onClick="reportHeaderNav('Explore Benefits->Health Care');">Apply now</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-edu"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Education &amp; training</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-edu"
+                  role="menu"
+                  aria-label="Education and training"
+                  hidden>
+                  <li>
+                    <button
+                      class="vetnav-back vetnav-trigger"
+                      aria-controls="vetnav-edu">Back to menu</button>
+                    <div class="vetnav-level2-heading">Education &amp; training</div>
+                  </li>
+                  <li><a href="/education/" onClick="reportHeaderNav('Explore Benefits->Education Training');">Education benefits overview</a></li>
+                  <li><a href="/education/eligibility/" onClick="reportHeaderNav('Explore Benefits->Education Training');">Eligibility</a></li>
+                  <li><a href="/education/apply/" onClick="reportHeaderNav('Explore Benefits->Education Training');">Application process</a></li>
+                  <li><a href="/education/gi-bill/" onClick="reportHeaderNav('Explore Benefits->Education Training');">GI Bill programs</a></li>
+                  <li><a href="/gi-bill-comparison-tool/" onClick="reportHeaderNav('Explore Benefits->Education Training');">Compare GI Bill benefits</a></li>
+                  <li><a href="/education/apply/" class="usa-button va-button-primary" onClick="reportHeaderNav('Explore Benefits->Education Training');">Apply now</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-housing"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Housing assistance</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-housing"
+                  role="menu"
+                  aria-label="Housing assistance"
+                  hidden>
+                <li>
+                  <button
+                  class="vetnav-level2 vetnav-trigger vetnav-back"
+                  aria-controls="vetnav-housing">Back to menu</button>
+                  <div class="vetnav-level2-heading">Housing assistance</div>
+                  <li><a href="/housing-assistance/" onClick="reportHeaderNav('Explore Benefits->Housing Assistance');">Housing assistance overview</a></li>
+                  <li><a href="/housing-assistance/home-loans/" onClick="reportHeaderNav('Explore Benefits->Housing Assistance');">Home loans</a></li>
+                  <li><a href="/housing-assistance/adaptive-housing-grants/" onClick="reportHeaderNav('Explore Benefits->Housing Assistance');">Adaptive housing grants</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-careers"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Careers &amp; employment</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-careers"
+                  role="menu"
+                  aria-label="Careers and employment"
+                  hidden>
+                  <li>
+                    <button
+                    class="vetnav-level2 vetnav-trigger vetnav-back"
+                    aria-controls="vetnav-careers">Back to menu</button>
+                    <div class="vetnav-level2-heading">Careers &amp; employment</div>
+                  </li>
+                  <li><a href="/employment/" onClick="reportHeaderNav('Explore Benefits->Careers Employment');">Careers &amp; employment overview</a></li>
+                  <li><a href="/employment/" onClick="reportHeaderNav('Explore Benefits->Careers Employment');">Find a job / Hire a Veteran</a></li>
+                  <li><a href="/employment/vocational-rehab-and-employment/" onClick="reportHeaderNav('Explore Benefits->Careers Employment');">Vocational Rehabilitation &amp; <br>Employment (VR&amp;E)</a></li>
+                  <li><a href="/employment/job-seekers/register-your-business/" onClick="reportHeaderNav('Explore Benefits->Careers Employment');">Small business support</a></li>
+                  <li><a href="/employment/job-seekers/family-members/" onClick="reportHeaderNav('Explore Benefits->Careers Employment');">Resources for military &amp; Veteran<br>family members</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-lifeinsurance"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Life insurance</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-lifeinsurance"
+                  role="menu"
+                  aria-label="Life insurance"
+                  hidden>
+                  <li>
+                    <button
+                      class="vetnav-back vetnav-trigger"
+                      aria-controls="vetnav-lifeinsurance">Back to menu</button>
+                    <div class="vetnav-level2-heading">Life insurance</div>
+                  </li>
+                  <li><a href="/life-insurance/" onClick="reportHeaderNav('Explore Benefits->Life Insurance');">Life insurance overview</a></li>
+                  <li><a href="/life-insurance/options-and-eligibility/" onClick="reportHeaderNav('Explore Benefits->Life Insurance');">Options &amp; eligibility</a></li>
+                  <li><a href="/life-insurance/disabled-and-terminally-ill/" onClick="reportHeaderNav('Explore Benefits->Life Insurance');">Totally disabled or terminally ill</a></li>
+                  <li><a href="/life-insurance/manage-your-policy/" onClick="reportHeaderNav('Explore Benefits->Life Insurance');">Managing your policy</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-pension"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Pension</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-pension"
+                  role="menu"
+                  aria-label="Pension"
+                  hidden>
+                  <li>
+                    <button
+                    class="vetnav-level2 vetnav-trigger vetnav-back"
+                    aria-controls="vetnav-pension">Back to menu</button>
+                    <div class="vetnav-level2-heading">Pension</div>
+                  <li><a href="/pension/" onClick="reportHeaderNav('Explore Benefits->Pension');">Pension benefits overview</a></li>
+                  <li><a href="/pension/eligibility/" onClick="reportHeaderNav('Explore Benefits->Pension');">Eligibility</a></li>
+                  <li><a href="/pension/apply/" onClick="reportHeaderNav('Explore Benefits->Pension');">Application process</a></li>
+                  <li><a href="/pension/survivors-pension/" onClick="reportHeaderNav('Explore Benefits->Pension');">Survivors pension</a></li>
+                  <li><a href="/pension/application/527EZ/" class="usa-button va-button-primary" onClick="reportHeaderNav('Explore Benefits->Pension');">Apply now</a></li>
+                </ul>
+              </li>
+
+              <li>
+                <button
+                  class="vetnav-level2 vetnav-trigger"
+                  role="button"
+                  aria-haspopup="true"
+                  aria-controls="vetnav-burials"
+                  onClick="window.dataLayer.push({ event: 'nav-header-second-level' });">Burials &amp; memorials</button>
+                <ul
+                  class="vetnav-panel vetnav-panel--submenu"
+                  id="vetnav-burials"
+                  role="menu"
+                  aria-label="Burials and memorials"
+                  hidden>
+                  <li>
+                    <button
+                      class="vetnav-back vetnav-trigger"
+                      aria-controls="vetnav-burials">Back to menu</button>
+                    <div class="vetnav-level2-heading">Burials &amp; memorials</div>
+                  </li>
+                  <li><a href="/burials-and-memorials/" onClick="reportHeaderNav('Explore Benefits->Burials Memorials');">Burials &amp; memorials overview</a></li>
+                  <li><a href="/burials-and-memorials/eligibility/" onClick="reportHeaderNav('Explore Benefits->Burials Memorials');">Eligibility</a></li>
+                  <li><a href="/burials-and-memorials/burial-planning/" onClick="reportHeaderNav('Explore Benefits->Burials Memorials');">Plan a burial</a></li>
+                  <li><a href="/burials-and-memorials/survivor-and-dependent-benefits/" onClick="reportHeaderNav('Explore Benefits->Burials Memorials');">Allowances &amp; survivor compensation</a></li>
+                  <li><a href="/burials-and-memorials/find-a-cemetery/" onClick="reportHeaderNav('Explore Benefits->Burials Memorials');">Find a cemetery</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </li>
+
+
+        <li>
+          <button
+            class="vetnav-level1 vetnav-trigger"
+            role="button"
+            aria-controls="vetnav-benefits"
+            aria-haspopup="true"
+            onClick="window.dataLayer.push({ event: 'nav-header-top-level' });">Manage your health &amp; benefits</button>
+          <div class="vetnav-panel" id="vetnav-benefits" hidden>
+            <ul role="menu" aria-label="Manage your health and benefits">
+              <li><a class="login-required" href="/health-care/prescriptions" onClick="reportHeaderNav('Manage Health and Benefits');">Refill prescriptions</a></li>
+              <li><a class="login-required" href="/health-care/messaging" onClick="reportHeaderNav('Manage Health and Benefits');">Message your health care team</a></li>
+              <li><a href="/health-care/schedule-an-appointment/" onClick="reportHeaderNav('Manage Health and Benefits');">Schedule a VA appointment</a></li>
+              <li><a class="login-required" href="/health-care/health-records" onClick="reportHeaderNav('Manage Health and Benefits');">Get your VA health records</a></li>
+              <li><a class="login-required" href="/track-claims" onClick="reportHeaderNav('Manage Health and Benefits');">Check claim and appeal status</a></li>
+              <li><a class="login-required" href="/education/gi-bill/post-9-11/ch-33-benefit" onClick="reportHeaderNav('Manage Health and Benefits');">Check Post-9/11 GI Bill benefits</a></li>
+            </ul>
+          </div>
+        </li>
+
+
+        <li><a href="/facilities/" class="vetnav-level1" onClick="reportHeaderNav('Find VA locations');">Find VA locations</a></li>
+      </ul>
+    </nav>
+  </div>
+</div>
+
+<script>
+window.dataLayer = [];
+function reportHeaderNav(navpath) {
+  window.dataLayer.push({
+    event: 'nav-header-link',
+    'nav-path': navpath
+  });
+}
+</script>

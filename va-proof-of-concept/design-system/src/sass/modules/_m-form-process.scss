@@ -1,0 +1,208 @@
+.form-process {
+  li {
+    h5 {
+      color: $color-gray;
+    }
+    li {
+      display: none;
+    }
+    &:before {
+      background: $color-gray;
+    }
+    &.section-complete {
+      &:before {
+        background: $color-green;
+        content: "\2714\fe0e";
+        @include media-maxwidth($small-screen) {
+          content: "\2713\fe0e";
+        }
+      }
+    }
+    &.section-current {
+      h5 {
+        font-weight: bold;
+        color: $color-primary;
+      }
+      li {
+        display: list-item;
+        &.sub-section-current {
+          font-weight: bold;
+          color: $color-primary;
+        }
+        &.sub-section-hidden {
+          display: none;
+        }
+      }
+      &:before {
+        background: $color-primary;
+      }
+    }
+  }
+}
+
+.form-process-step {
+  color: $color-white;
+  font-weight: 700;
+  text-align: center;
+  width: 2em;
+  margin-left: -.2em;
+  margin-right: -.2em;
+  top: -.2em;
+  display: block;
+  border: 4px solid $color-white;
+  background: $olso-gray;
+  border-radius: 4em;
+  display: inline-block;
+  &.current {
+    background: $color-primary;
+  }
+}
+
+.form-process-total {
+  font-weight: normal;
+  padding-right: 4px;
+}
+
+// Overriding the accordion button styles that are too broad
+.form-review-panel {
+  button:not(.usa-button-unstyled) {
+    background-image: none;
+    background-color: $color-primary;
+    padding: 1rem 2rem;
+    color: $color-white;
+    width: auto;
+    &:hover {
+      color: $color-white;
+      background-color: $color-primary-darker;
+    }
+    &:active {
+      background-color: $color-primary-darkest;
+    }
+    &:focus {
+      outline: initial;
+    }
+  }
+  button.usa-button-secondary {
+    color: $color-primary;
+    background-color: $color-white;
+    &:hover {
+      background-color: $color-white;
+      color: $color-primary-darker;
+    }
+    &:active {
+      background-color: $color-white;
+      color: $color-primary-darkest;
+    }
+  }
+  .edit-btn {
+    background-color: $color-primary;
+    color: $color-white;
+    &:hover {
+      background-color: $color-primary-darker;
+      color: $color-white;
+    }
+  }
+  .edit-btn {
+    &.primary-outline {
+      background-color: transparent;
+      border: 2px solid $color-primary;
+      color: $color-primary;
+      &:hover {
+        background-color: transparent;
+        border: 2px solid $color-primary-darker;
+        color: $color-primary-darker;
+      }
+    }
+  }
+  .accordion-header > button {
+    min-height: 7rem;
+    padding: 2.5rem 6.5rem 2.5rem 3rem;
+    font-size: 1.15em;
+    line-height: 1.5;
+    font-weight: bold;
+  }
+  .section-label {
+    padding-bottom: 1rem;
+  }
+  legend.hide-for-small-only {
+    display: none !important;
+  }
+  table.review {
+    margin: 1em 0;
+    td {
+      padding-left: 0;
+      padding-right: 0;
+    }
+    td:first-child {
+      padding-right: 1em;
+    }
+  }
+  .usa-accordion-content {
+    padding: 1em;
+  }
+}
+// dealing with overly broad style in m_table
+.review-growable {
+  background-color: $color-gray-lightest;
+  table.review {
+    margin: 0;
+  }
+  tr {
+    > td {
+      background: $color-gray-lightest;
+    }
+    &:first-child {
+      > td {
+        border-top-style: none;
+      }
+    }
+    &:last-child {
+      > td {
+        border-bottom-style: none;
+      }
+    }
+  }
+}
+
+.form-review-panel-page {
+  margin-bottom: 5rem;
+  &:last-child {
+    margin-bottom: 0;
+  }
+  &:focus {
+    outline: none;
+  }
+  tr {
+    td {
+      &:last-child {
+        font-weight: 700;
+        min-width: 3em;
+      }
+    }
+  }
+}
+.form-review-panel-page-header-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  &.header-stacked-small {
+    @include media-maxwidth($small-screen) {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  }
+}
+
+.form-review-panel-page-header {
+  flex: 1;
+  padding-bottom: 0 !important;
+  padding-right: 5px;
+  line-height: 37px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.form-review-array {
+  margin-top: 5rem;
+}

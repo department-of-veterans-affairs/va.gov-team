@@ -1,0 +1,90 @@
+//=============================================================
+// Legacy styles for Crisis Line, mobile search modals
+// These styles are not quite the same as m-modal.
+//
+// When the differences between our modals are
+// squared-away, we can remove this chunk.
+// See vets.gov-team#1047 
+//=============================================================
+
+.va-overlay-close {
+  &--icon {
+    display: inline;
+    margin: 0;
+    padding: 1rem;
+    width: auto;
+
+    &:hover {
+      background: transparent;
+    }
+  }
+}
+
+.va-overlay {
+  background: $color-va-modal-bg;
+  height: 100%;
+  left: 0;
+  -webkit-transition: opacity 0.5s, visibility 0s 0.5s;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  transition: opacity 0.5s, visibility 0s 0.5s;
+  visibility: hidden;
+  width: 100%;
+  z-index: 800;
+
+  [type="text"] {
+    -webkit-appearance: none;
+    border-radius: 3px 0 0 3px;
+  }
+}
+
+.va-mobile-searchclose  {
+  border-radius: 0;
+  display: block !important;
+  width: 100% !important;
+  margin: 0;
+  width: auto;
+  background: $color-primary;
+}
+
+.va-overlay--open {
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: opacity 0.5s;
+  transition: opacity 0.5s;
+
+  .columns {
+    padding: 0;
+  }
+}
+
+.va-overlay .menu {
+  -webkit-perspective: 1200px;
+  perspective: 1200px;
+  padding: 1em 1em;
+}
+
+.va-overlay form {
+  opacity: 0.4;
+  -webkit-transform: translateY(-25%) rotateX(35deg);
+  transform: translateY(-25%) rotateX(35deg);
+  -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+  transition: transform 0.5s, opacity 0.5s;
+}
+
+.va-overlay--open form {
+  opacity: 1;
+  -webkit-transform: rotateX(0deg);
+  transform: rotateX(0deg);
+}
+
+.va-overlay-body {
+  margin: 1rem auto;
+}
+
+@media (max-height: 30.5em) {
+  .overlay form {
+    height: 70%;
+  }
+}

@@ -1,0 +1,10 @@
+label: Pagination
+status: wip
+handle: Pagination
+
+context:
+  componentSourcePath: './Pagination.jsx'
+  page: 2
+  pages: 3
+  maxPageListLength: 3
+  showLastPage: true

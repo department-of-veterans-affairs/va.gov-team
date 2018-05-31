@@ -1,0 +1,11 @@
+label: Progress Button
+status: wip
+
+context:
+  componentSourcePath: './ProgressButton.jsx'
+  buttonText: Progress Button
+  buttonClass: usa-button-primary
+  beforeText: «
+  afterText: »
+  disabled: PropTypes.bool
+  submitButton: PropTypes.bool

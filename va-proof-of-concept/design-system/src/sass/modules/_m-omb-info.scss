@@ -1,0 +1,16 @@
+// To avoid double-importing, we're not importing _m-modal.scss,
+//  but if this file is being imported, you'll probably want to include
+//  the modal module as well.
+
+// Align with navigation buttons
+.omb-info--container {
+  padding-left: 2rem;
+}
+
+// This media query is matched to the one wrapping .progress-box in edu-benefits.scss
+@media (max-width: 40.063em) {
+  // Match the OMB Info section padding
+  .omb-info--container {
+    padding-left: 2rem - .9375rem;
+  }
+}

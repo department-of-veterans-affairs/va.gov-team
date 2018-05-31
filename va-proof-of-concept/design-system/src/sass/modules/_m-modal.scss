@@ -1,0 +1,203 @@
+// Styles for application modals
+// Used in prescriptions, messaging.
+
+// Hide initially, to be shown if url contains #modal
+// Alternatively, modal.hide() in content/includes/modal.html
+#va-modal {
+  display: none;
+}
+
+.va-modal {
+  background: $color-va-modal-bg;
+  content: " ";
+  display: block;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 6;
+
+  @include media-maxwidth($small-screen) {
+    overflow-y: scroll;
+  }
+
+  // error standardization
+  .usa-alert {
+    .va-modal-title-undefined {
+      padding: 0.5rem !important;
+    }
+
+    &-undefined {
+      background: $color-white;
+      padding-left: 2rem;
+    }
+
+    &:before {
+      content: none;
+    }
+  }
+
+  .va-modal-body {
+    p:first-of-type {
+      margin-top: 0;
+    }
+  }
+
+  // "Forked" modal styles
+  &-split {
+    .va-modal-inner {
+      min-width: 710px;
+
+      @include media-maxwidth($small-screen) {
+        top: 0%;
+        transform: translateY(0%);
+        min-width: auto;
+        .usa-button-primary {
+          display: block;
+        }
+      }
+    }
+    &-container {
+      display: flex;
+    }
+    &-left,
+    &-right {
+      flex: 1;
+      padding: 0 20px;
+      @include media-maxwidth($small-screen) {
+        flex: none;
+        padding: 0;
+      }
+    }
+    &-title {
+      margin-top: 0;
+    }
+    &-list {
+      margin-top: 10px;
+    }
+    &-divider {
+      background: $color-primary-alt-lightest;
+      width: 3px;
+
+      // Horizontally aligned "OR" divider for mobile
+      @include media-maxwidth($small-screen) {
+        width: 100%;
+        height: 3px;
+        display: flex;
+        margin: 25px 0;
+        justify-content: center;
+        align-items: center;
+        &:after {
+          text-align: center;
+          content: "OR";
+          font-size: 20px;
+          font-weight: bold;
+          padding: 5px 10px;
+          background: $color-white;
+        }
+      }
+    }
+
+    @include media-maxwidth($small-screen) {
+      &-container {
+        flex-flow: column;
+      }
+    }
+  }
+
+  &-title {
+    // background: $color-primary-darkest;
+    // color: $color-white;
+    // font-size: 2.4rem;
+    margin: 0;
+    // Abusing important until #content .section h3 is cleared up.
+    padding: 0.5rem 2rem !important;
+  }
+
+  &-inner {
+    background: $color-white;
+    margin: auto;
+    max-width: 40rem;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    cursor: auto;
+
+    @include media-maxwidth($small-screen) {
+      transform: none;
+      top: 0;
+    }
+  }
+
+  &-body {
+    overflow-wrap: break-word;
+    padding: 2rem;
+    word-break: break-word;
+    word-wrap: break-word;
+  }
+
+  &-button-group {
+    bottom: 0;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    position: relative;
+    margin-top: 5rem;
+
+    button {
+      margin: 0 1rem 0 0;
+      width: auto;
+    }
+  }
+
+  &-large {
+    .va-modal-inner {
+      max-width: 75rem;
+      width: 75vw;
+
+      .va-modal-body {
+        max-height: 95vh;
+        overflow-y: auto;
+      }
+    }
+  }
+
+  span.exit-icon {
+    background-image: url(/img/icons/exit-icon-primary.png);
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    background-size: 1em auto;
+    padding-right: 1.2em;
+  }
+}
+
+.va-modal-body {
+  h3 {
+    margin-top: 0;
+  }
+}
+
+.va-modal button {
+  white-space: nowrap;
+}
+
+button.va-modal-close {
+  background-color: transparent;
+  color: $color-va-modal-close;
+  font-size: 2.5rem;
+  padding: 0.5rem 1rem;
+  position: absolute;
+  margin: 0.25rem;
+  right: 0;
+  top: 0;
+  width: auto;
+  z-index: 9;
+
+  &:hover {
+    background-color: inherit;
+    color: $color-base;
+  }
+}

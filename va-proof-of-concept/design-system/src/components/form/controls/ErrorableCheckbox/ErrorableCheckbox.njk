@@ -1,0 +1,11 @@
+import React from 'react';
+import ErrorableCheckbox from './ErrorableCheckbox';
+
+export default function ErrorableCheckboxExample(props) {
+  return (
+    <ErrorableCheckbox
+      label='Errorable Checkbox'
+      onValueChange={(value) => value}
+      {...props}/>
+  );
+}

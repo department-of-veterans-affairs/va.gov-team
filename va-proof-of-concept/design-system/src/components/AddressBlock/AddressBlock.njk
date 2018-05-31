@@ -1,0 +1,11 @@
+<p class="va-address-block">
+    {{ address.name }} <br/>
+    {% if address.attn %}
+    {{ address.attn }}<br/>
+    {% endif %}
+    {{ address.street_one }}<br/>
+    {% if address.street_two %}
+    {{ address.street_two }}<br/>
+    {% endif %}
+    {{ address.city }}, {{ address.state }} {{ address.zip }}<br/>
+</p>

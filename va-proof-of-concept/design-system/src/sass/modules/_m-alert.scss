@@ -1,0 +1,186 @@
+.va-alert-close {
+  background: transparent;
+  color: $color-base;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  right: 2rem;
+  top: 1.75rem;
+  width: auto;
+
+  &:hover {
+    background: transparent !important;
+    color: lighten($color-gray-dark, 30%);
+  }
+
+  .fa {
+    // Override fa font-size.
+    font-size: 1.45em !important;
+  }
+}
+
+// Ensure the info icon is centered in boxes with only one line of text
+.usa-alert-info {
+  min-height: 74px;
+}
+
+.usa-alert {
+  background-size: 2.8rem;
+  background-position: 1.7rem 2.8rem;
+  min-height: 74px;
+  display: table;
+  width: 100%;
+  padding-top: 1.2em;
+  padding-bottom: 1.2em;
+
+  .usa-alert-body {
+    display: table-cell;
+    vertical-align: middle;
+  //  border:1px solid pink;
+  }
+
+  .usa-alert-text {
+    p:first-child {
+      margin-top: 0;
+    }
+
+    p:last-child {
+       margin-bottom: 0;
+    }
+
+    //should override :first-child
+    usa-alert-heading + p:only-of-type {
+      margin-top: 1em;
+    }
+
+    ul {
+      padding-left: 2rem;
+    }
+  }
+}
+
+.usa-alert-heading {
+  margin-top: .3em;
+}
+
+// on post-9/11 GI Bill
+p.usa-alert-heading {
+  margin-top: 0;
+}
+
+.usa-alert-body, .usa-alert-header {
+  > h3:first-child, > h4:first-child, > h5:first-child {
+    margin-top: .5rem;
+    padding-top: 0;
+  }
+  padding-left: 2.2rem;
+
+  h3, h4, h5 {
+    font-size: 1.7rem;
+    margin-top: .5rem;
+    padding-top: 0;
+  }
+}
+
+.claims-list-alert {
+  margin-bottom: 1em;
+  margin-top: 0;
+}
+
+.va-alert-close-icon {
+  font-size: 1.1em !important;
+}
+
+.claims-alert-status {
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+// blue box on individual claim details
+.claims-alert-header {
+  padding-bottom: 0 !important;
+  margin-top: 0;
+}
+
+.alerts-list {
+  list-style: none;
+
+  li {
+    margin-left: -.4em;
+  }
+}
+
+.claims-alert-checkbox {
+  > label {
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 100%;
+  }
+}
+
+.need-files-alert {
+  padding-bottom: 4em;
+  @include media($medium-large-screen) {
+    padding-bottom: 1em;
+  }
+}
+
+.alert-with-details {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+
+  @include media($medium-large-screen) {
+    flex-direction: row;
+  }
+}
+
+// rx
+
+.rx-app {
+
+  // TODO: Find a better way to write this that doesn't rely on nesting
+  .usa-alert {
+    & + .rx-app-title {
+      margin-top: 2.5rem;
+    }
+  }
+}
+
+// education benefits
+
+// this can probably be removed
+.edu-benefits-alert {
+  margin-top: 0;
+  margin-bottom: 23px;
+}
+
+.edu-warning-single-line {
+  margin-top: 0;
+}
+
+@media screen and (min-width: 600px) {
+  .edu-warning-single-line {
+    > .usa-alert-body {
+      /*background-size: 4.2rem;
+      background-position: 1.3rem 1.5rem;*/
+    //  padding-left: 5rem;
+    }
+  }
+}
+
+//messaging
+#messaging-app-header {
+  .usa-alert {
+    margin-bottom: 2em;
+  }
+}
+
+// icon fixes
+.va-alert-body,
+.usa-alert-body {
+  > div:first-child,
+  > p:first-child {
+    margin-top:.3em;
+  }
+}

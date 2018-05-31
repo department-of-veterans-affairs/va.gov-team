@@ -1,0 +1,53 @@
+//====================================
+// SCSS for content/components/navigation-next-previous.html 
+//====================================
+
+.va-navigation-nextprevious {
+  padding: 2rem 0 4rem;
+
+  a:visited {
+    color: $color-link-default;
+  }
+  ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding-left: 0;
+  }
+
+  strong {
+    display: block;
+
+    &::before {
+      font-weight: bold;
+      display: inline-block;
+      vertical-align: 1px;
+    }
+  }
+}
+
+// Matches .va-navigation-nextprevious-* class names
+[class|=va-navigation-nextprevious] {
+  flex: 0 0 50%;
+}
+
+.va-navigation-nextprevious-previous {
+  strong::before {
+    content: "\2039\00A0";
+  }
+  &:only-child {
+    flex-basis: 100%
+  }
+}
+
+.va-navigation-nextprevious-next {
+  text-align: right;
+
+  li:only-child & {
+    margin-left: 50%;
+  }
+
+  strong::after {
+    content: "\00A0\203A";
+  }
+}

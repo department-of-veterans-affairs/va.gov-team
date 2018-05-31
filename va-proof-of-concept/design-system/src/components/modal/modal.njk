@@ -1,0 +1,15 @@
+import React from 'react';
+import Modal from './Modal';
+
+export default function ModalExample(props) {
+  return (
+    <Modal
+      title={props.title}
+      id={props.id}
+      status={props.status}
+      visible
+      onClose={() => {}}>
+      {props.content}
+    </Modal>
+  );
+}

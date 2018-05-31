@@ -1,0 +1,11 @@
+import React from 'react';
+import ErrorableDate from './ErrorableDate';
+
+export default function ErrorableDateExample(props) {
+  return (
+    <ErrorableDate
+      label={props.label}
+      onValueChange={(e) => {e.target.checked}}
+      {...props}
+    />);
+}

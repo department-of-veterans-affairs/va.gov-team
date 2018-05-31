@@ -1,0 +1,5 @@
+.form-radio-buttons {
+  [type=radio]:focus + label::before {
+    outline: none;
+  }
+}

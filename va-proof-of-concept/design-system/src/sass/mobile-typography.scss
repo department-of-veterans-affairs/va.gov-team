@@ -1,0 +1,20 @@
+//============================================
+// Created: 3/12/18
+// This file contains type overrides for mobile breakpoints only
+// See: https://github.com/department-of-veterans-affairs/vets.gov-team/issues/6214
+// ===========================================
+
+@media (max-width: $small-screen)  {
+
+  h1 {
+    font-size: 30px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
+  .va-introtext {
+    font-size: 16px;
+  }
+}

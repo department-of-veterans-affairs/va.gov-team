@@ -1,0 +1,38 @@
+import React from 'react';
+import ExpandingGroup from './ExpandingGroup';
+
+class Toggler extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = props;
+  }
+
+  render() {
+    return (
+      <div>
+        <button
+          onClick={() => this.setState({
+            open: !this.state.open
+          })}
+        >
+          Toggle Expanding Group
+        </button>
+
+        <ExpandingGroup
+          open={this.state.open}
+          >
+          <div>visible child</div>
+          <div>hidden child</div>
+        </ExpandingGroup>
+      </div>
+    );
+  }
+}
+
+export default function ExpandingGroupExample(props) {
+  return (
+    <Toggler
+      {...props}
+    />
+  );
+}

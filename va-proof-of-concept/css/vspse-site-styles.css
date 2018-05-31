@@ -1,0 +1,1658 @@
+/* @override http://10.0.0.2/opa/speceven/wsc/styles/vspse-site-styles.css */
+
+/* CSS Document */
+
+/*Fonts: Myriad*/
+/*
+@font-face {
+    font-family: 'MyriadProLight';
+    src: url('http://www.va.gov/adaptivesports/styles/myriadpro-light-webfont.eot');
+    src: url('http://www.va.gov/adaptivesports/styles/myriadpro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadpro-light-webfont.woff') format('woff'),
+         url('http://www.va.gov/adaptivesports/styles/myriadpro-light-webfont.ttf') format('truetype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadpro-light-webfont.svg#MyriadProLight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'MyriadWebProRegular';
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-webfont.eot');
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-webfont.woff') format('woff'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-webfont.ttf') format('truetype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-webfont.svg#MyriadWebProRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'MyriadWebProItalic';
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-italic-webfont.eot');
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-italic-webfont.woff') format('woff'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-italic-webfont.ttf') format('truetype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-italic-webfont.svg#MyriadWebProItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'MyriadWebProCondensedItalic';
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condenseditalic-webfont.eot');
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condenseditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condenseditalic-webfont.woff') format('woff'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condenseditalic-webfont.ttf') format('truetype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condenseditalic-webfont.svg#MyriadWebProCondensedItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*@font-face {
+    font-family: 'MyriadWebProCondensed';
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condensed-webfont.eot');
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condensed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condensed-webfont.woff') format('woff'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condensed-webfont.ttf') format('truetype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-condensed-webfont.svg#MyriadWebProCondensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'MyriadWebProBold';
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-bold-webfont.eot');
+    src: url('http://www.va.gov/adaptivesports/styles/myriadwebpro-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-bold-webfont.woff') format('woff'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-bold-webfont.ttf') format('truetype'),
+         url('http://www.va.gov/adaptivesports/styles/myriadwebpro-bold-webfont.svg#MyriadWebProBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+*/
+
+p {
+	font-family:Arial, Helvetica, Geneva, sans-seri;	
+	letter-spacing:normal;
+	font-weight:normal;
+}
+
+li { font-family:Arial, Helvetica, Geneva, sans-seri;}
+
+
+#PA-ContentWrapper2, #PA-ContentWrapper{
+		font-family: Arial, Helvetica, Geneva, sans-serif;
+}
+
+#PA-ContentWrapper2 h1, #PA-ContentWrapper h1{
+	color: #4d4b4c;
+	text-transform: uppercase;
+	margin: 0;
+	font-family:'myriad pro', myriad, calibri, arial, sans-serif;
+	font-weight:bold;
+	line-height:24px;
+	font-size:22px;
+	
+}
+
+li.PALink1 a, li.PALink2 a, li.PALink3 a, li.PALink4 a, li.PALink5 a, li.PALink6 a, li.PALink7 a{
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 25px;
+	padding-top: 10px;
+	text-decoration: none;
+	font: bold 14px Arial, Helvetica, Geneva, sans-serif;
+		color: #8d8d8d;
+}
+
+.picturewindowBox_ss span a {
+	font-weight: bold;
+	color: #156bb2;
+	text-decoration: none;
+	margin-top: 10px;
+	display: block;
+	font-size: 14px;
+	font-family:'myriad pro', myriad, calibri, arial, sans-serif;
+
+}
+
+.picturewindowBox_ss2 span a {
+	font-weight: bold;
+	color: #156bb2;
+	text-decoration: none;
+	margin-top: 10px;
+	display: block;
+	font-size: 14px;
+	font-family:'myriad pro', myriad, calibri, arial, sans-serif;
+}
+
+
+.vspse-brclear {clear:both;height:0;margin:0;font-size: 1px;line-height: 0px;}
+
+#vspse-ContentWrapper2, #vspse-ContentWrapper{
+		font-family: Arial, Helvetica, Geneva, sans-serif;
+}
+#vspse-ContentWrapper2 h1, #vspse-ContentWrapper h1{
+	color: #4d4b4c;
+	text-transform: uppercase;
+	margin: 0px 0px 8px 0px;
+	font-size: 22px;
+	font-weight:bold;
+font-family:'myriad pro', myriad, calibri, arial, sans-serif;  
+}
+#vspse-twoColumnRight h2, #vspse-ContentWrapper h2{
+	color: #4d4b4c;
+	font-size: 15px;
+	margin-top: 0px;
+	margin-bottom: 8px;
+}
+
+#vspse-ContentWrapper2{
+	color: #4d4b4c;
+	font-size: 12px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#vspse-ContentWrapper2 p, #vspse-ContentWrapper p {
+	margin-top: 0px;
+	margin-bottom: 16px;
+}
+
+/* @group Layout */
+
+#vspse-ContentWrapper {
+	background-color: white;
+	display: table;
+	margin-top: 10px;
+
+}
+
+/*#vspse-ContentWrapper p, li {
+	color: #636062;
+	font-size: 13px;
+	line-height: 150%;
+}
+
+
+
+*/
+
+/*
+#vspse-ContentWrapper p, li {
+	color: #vspse-636062;
+	font-size: 13px;
+	
+}
+*/
+/*
+#vspse-ContentWrapper2 p, li{
+	color: #636062;
+	font-size: 13px;
+	line-height: 150%;
+}
+*/
+
+/*
+#vspse-ContentWrapper2 p, li{
+	color: #636062;
+	font-size: 13px;
+}
+*/
+
+/* @group Navigation */
+
+/*Navigation*/
+
+#vspse-MainNav {
+	background-color: white;
+	position: relative;
+	top: 0;
+	display: block;
+	z-index: 30;
+	left: 15px;
+	height: 35px;
+	float: left;
+	clear: both;
+	letter-spacing: 0;
+}
+
+#vspse-navigationWrapper ul {
+	margin: 0;
+	padding: 0;
+	display: table;
+}
+
+#vspse-navigationWrapper li {
+	list-style-type: none;
+	height: 35px;
+	display: block;
+	float: left;
+}
+
+li.PALink1 a, li.PALink2 a, li.PALink3 a, li.PALink4 a, li.PALink5 a, li.PALink6 a, li.PALink7 a{
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 25px;
+	padding-top: 10px;
+	text-decoration: none;
+	font: bold 14px Arial, Helvetica, Geneva, sans-serif;
+		color: #vspse-8d8d8d;
+}
+
+li.PALink1 a:hover, li.PALink2 a:hover, li.PALink3 a:hover, li.PALink4 a:hover, li.PALink5 a:hover, li.PALink6 a:hover, li.PALink7 a:hover {
+	background-color: #f0f0f0;
+		color: #8d8d8d;
+}
+
+/* @end */
+
+/* Home Main GFX Callouts */
+
+#vspse-floatingBoxWrapper_bg {
+	position: absolute;
+	display: block;
+	width: 220px;
+	height: 110px;
+	background-color: white;
+	z-index: 40;
+	right: 20px;
+	float: right;
+	top: 72px;
+	opacity: 0.60;
+	filter: alpha(opacity=60);
+}
+#vspse-floatingBoxWrapper_bg2 {
+	position: absolute;
+	display: block;
+	width: 220px;
+	height: 73px;
+	background-color: white;
+	z-index: 40;
+	right: 20px;
+	float: right;
+	top: 199px;
+	opacity: 0.60;
+	filter: alpha(opacity=60);
+	visibility: visible;
+}
+
+#vspse-floatingBoxWrapper {
+	position: absolute;
+	display: block;
+	width: 220px;
+	height: 110px;
+	z-index: 41;
+	right: 20px;
+	float: right;
+	top: 72px;
+}
+
+#vspse-floatingBoxWrapper2 {
+	position: absolute;
+	display: block;
+	width: 220px;
+	height: 73px;
+	z-index: 41;
+	right: 20px;
+	float: right;
+	top: 199px;
+}
+
+.vspse-boxTitle {
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #vspse-343434;
+	font-size: 13px;
+	display: block;
+	margin-left: 8px;
+	margin-top: 10px;
+}
+
+.vspse-LinkboxTitle {
+	color: #023572;
+	display: block;
+	margin-left: 8px;
+	margin-top: 10px;
+}
+
+.vspse-LinkboxTitle img:hover {
+	opacity: 0.60;
+	filter: alpha(opacity=60);
+}
+
+/* @end */
+
+
+
+/* @group Lower Content Wrapper */
+
+#vspse-lowerContentWrapper {
+	width: 970px;
+	border-bottom: 1px solid #d4d4d4;
+	display: table;
+	margin-left: 15px;
+	margin-top: 28px;
+	padding-bottom: 20px;
+}
+
+#vspse-lowerContentWrapper a:link {
+	text-decoration: none;
+	color: #vspse-146bb2;
+}
+
+#vspse-lowerContentWrapper a:hover {
+	color: #67a0df;
+	text-decoration: underline;
+}
+
+
+#vspse-lowerBoxLeft {
+	display: table;
+	width: 460px;
+	padding-right: 30px;
+	float: left;
+}
+
+#vspse-lowerBoxRight {
+	display: table;
+	width: 460px;
+	float: left;
+}
+
+
+.vspse-BoxLeftInside h1, .vspse-BoxRightInside h1 {
+	margin-top: 0;
+	text-transform: uppercase;
+	color: #434343;
+}
+#vspse-BoxRightInside-half {
+	width:220px;
+	float:left;
+	margin-left:5px;
+}
+
+.vspse-BoxRightInside ul.vspse-recentLinks {
+	list-style-type: none;
+	padding-left: 0;
+	padding: 0;
+	margin: 0;
+}
+
+.vspse-BoxRightInside ul.vspse-recentLinks li {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	display: block;
+	width: 90%;
+}
+
+.vspse-BoxRightInside ul.vspse-recentLinks li a {
+	text-decoration: none;
+	color: #146bb2;
+}
+
+.vspse-BoxRightInside ul.vspse-recentLinks li a:hover {
+	color: #67a0df;
+	text-decoration: underline;
+}
+.vspse-learnMore{
+	margin:12px 0px 10px 0px;
+	font-weight:bold
+	text-transform: uppercase;
+}
+
+.vspse-learnMore a:link {
+	font-weight: bold;
+	text-decoration: none;
+	color: #146bb2;
+	display: block;
+	font-size: 13px MyriadWebProBold;
+	margin:12px 0px 0px 0px;
+}
+
+.vspse-learnMore a:hover {
+	color: #67a0df;
+	text-decoration: underline;
+}
+
+#vspse-socialmedia ul {padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px;}
+#vspse-socialmedia li {display:block;float:left;margin: 0px 0px 0px 0px;}
+#vspse-socialmedia li.vspse-blog a {display:inline-block;width:32px;height:32px;padding: 0px 12px 0px 0px;text-decoration:none;background:url(../img/core/blogbutton.png) top left no-repeat;}
+#vspse-socialmedia li.vspse-blog a:hover {text-decoration:none;}
+#vspse-socialmedia li.vspse-blog a span {display: none !important;}
+#vspse-socialmedia li.vspse-facebook a {display:inline-block;width:32px;height:32px;padding: 0px 12px 0px 0px;text-decoration:none;background:url(../img/core/facebook_32.png) top left no-repeat;}
+#vspse-socialmedia li.vspse-facebook a:hover {text-decoration:none;}
+#vspse-socialmedia li.vspse-facebook a span {display: none !important;}
+#vspse-socialmedia li.vspse-twitter a {display:inline-block;width:32px;height:32px;padding: 0px 12px 0px 0px;text-decoration:none;background:url(../img/core/twitter_32.png) top no-repeat;}
+#vspse-socialmedia li.vspse-twitter a:hover {text-decoration:none;}
+#vspse-socialmedia li.vspse-twitter a span {display: none !important;}
+#vspse-socialmedia li.vspse-flickr a {display:inline-block;width:32px;height:32px;padding: 0px 12px 0px 0px;text-decoration:none;background:url(../img/core/flickr_32.png) top no-repeat;}
+#vspse-socialmedia li.vspse-flickr a:hover {text-decoration:none;}
+#vspse-socialmedia li.vspse-flickr a span {display: none !important;}
+#vspse-socialmedia li.vspse-youtube a {display:inline-block;width:32px;height:32px;padding: 0px 12px 0px 0px;text-decoration:none;background:url(../img/core/youtube_32.png) top no-repeat;}
+#vspse-socialmedia li.vspse-youtube a:hover {text-decoration:none;}
+#vspse-socialmedia li.vspse-youtube a span {display: none !important;}
+
+/* @end */
+
+/* @group Body content pages */
+
+/* @group Veteran Stories List */
+
+div.vspse-vetStoryList ul li a {
+	text-decoration: none;
+	color: #074a84;
+	display: block;
+	padding: 3px;
+}
+div.vspse-vetStoryList ul li a:hover {
+	color: gray;
+	background-color: #e6e5e6;
+}
+
+div.vspse-vetStoryList ul li {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+div.vspse-vetStoryList ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+div.vspse-vetStoryList {
+	
+}
+
+
+
+/* @end */
+
+/* Right Column */
+
+#vspse-twoColumnRight{
+	width: 670px;
+	display: block;
+	float: left;
+	padding-left: 50px;
+}
+
+
+#vspse-twoColumnRight p{
+	color: #484848;
+}
+
+#vspse-twoColumnRight a:link{
+	color: #146bb2;
+	text-decoration:none;
+}
+
+#vspse-twoColumnRight a:hover{
+	color: #67a0df;
+	text-decoration:underline;
+}
+
+
+/* Left Column */
+
+#vspse-twoColumnLeft{
+	display: block;
+	float: left;
+	width: 228px;
+	padding-top: 5px;
+}
+
+/* Left Column Sub Navigation */
+
+.vspse-whiteBoxGryBorder{
+	width: 220px;
+	border: 4px solid #d8d8d8;
+	display: block;
+	margin-bottom: 15px;
+	padding-bottom: 4px;
+}
+
+div.vspse-whiteBoxGryBorder div.vspse-greyBoxTitle h2 {
+	width: 90%;
+	margin-left: 8px;
+	display: block;
+	margin-bottom: 5px;
+}
+
+div.vspse-whiteBoxGryBorder h2 {
+	color: #454545;
+	font-size: 13px;
+	margin-right: 0;
+	padding-right: 0;
+	width: 98%;
+}
+
+div.vspse-whiteBoxGryBorder a {
+	text-decoration: none;
+	color: #vspse-074a84;
+	font-weight: bold;
+	font-size: 12px;
+	width: 180px;
+	display: block;
+}
+
+#vspse-subButton ul {padding: 0px 0px 0px 0px;margin: 0px 4px 0px 4px;list-style-type: none;}
+#vspse-subButton li {display:block;margin: 0px 0px 0px 0px;}
+#vspse-subButton li a {display:block;width:170px;padding: 8px 30px 8px 12px;font-family: Arial, Helvetica, sans-serif;font-size: 12px;line-height: 14px;color: #074a84;text-align: left;font-weight: bold;text-decoration:none;text-transform: uppercase;background:url(../img/core/VA_arrow_Inactive.gif) top right no-repeat;}
+#vspse-subButton li a:hover {text-decoration:underline;}
+#vspse-subButton li.vspse-sub a {display:block;width:158px;padding: 8px 30px 8px 24px;font-family: Arial, Helvetica, sans-serif;font-size: 12px;line-height: 14px;color: #074a84;text-align: left;font-weight: bold;text-decoration:none;text-transform: none;background:url(../img/core/VA_arrow_Inactive.gif) top right no-repeat;}
+#vspse-subButton li.vspse-sub a:hover {text-decoration:underline;}
+#vspse-subButton li a span {display: none !important;}
+
+/* Left Column Call-out Boxes  */
+
+.vspse-greyBoxGreyBorder{
+	width: 220px;
+	border: 4px solid #d8d8d8;
+	display: block;
+	margin-bottom: 15px;
+	background-color: #F1F1F1;
+	padding-bottom: 12px;
+}
+
+div.vspse-greyBoxTitle {
+	text-transform: uppercase;
+	display: block;
+	margin-top: 10px;
+}
+
+div.vspse-greyBoxTitle_find {
+	text-transform: uppercase;
+	display: block;
+	height: 22px;
+	padding-top: 7px;
+	padding-left: 30px;
+	background:url(../img/core/VA_groups_FindIcon.jpg) top left no-repeat;
+}
+
+div.vspse-greyBoxTitle_grant {
+	text-transform: uppercase;
+	display: block;
+	height: 22px;
+	padding-top: 7px;
+	padding-left: 30px;
+	background:url(../img/core/VA_groups_GrantProIcon.jpg) top left no-repeat;
+}
+
+div.vspse-greyBoxTitle_questions {
+	text-transform: uppercase;
+	display: block;
+	height: 22px;
+	padding-top: 7px;
+	padding-left: 30px;
+	background:url(../img/core/VA_groups_QuestionsIcon.jpg) top left no-repeat;
+}
+
+div.vspse-greyBoxGreyBorder h2 {
+	color: #454545;
+	font-size: 13px;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 98%;
+}
+
+div.vspse-greyBoxContent {
+	display: block;
+	margin-top: 8px;
+	margin-left: 15px;
+}
+
+div.vspse-greyBoxContent a {
+	text-decoration: none;
+	color: #074a84;
+	font-weight: bold;
+	font-size: 12px;
+	width: 180px;
+	display: block;
+}
+
+div.vspse-greyBoxContent a:hover {
+	text-decoration: underline;
+}
+
+
+/* @group Map page styles */
+#vspse-onecolumnMap{ }
+
+/* Page Bottom */
+
+#vspse-lowerNavWrapper{
+	display: table;
+	float: left;
+	margin-left: 15px;
+}
+
+#vspse-announcementLong{
+	display: block;
+	width: 970px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	border-bottom: 1px solid #d4d4d4;
+	clear: both;
+}
+
+#vspse-announcementLong p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#vspse-announcementLong a {
+	color: #146bb2;
+}
+
+#vspse-announcementLong a:link {
+	text-decoration: none;
+	color: #146bb2;
+}
+
+#vspse-announcementLong a:hover {
+	color: #67a0df;
+	text-decoration: underline;
+}
+
+.vspse-announcementHDR{
+	font-weight: bold;
+	color: #4d4b4c;
+}
+
+.vspse-socialmediaHDR{
+	font-weight: bold;
+	color: #4d4b4c;
+	padding-bottom:10px;
+}
+
+.vspse-buttonRow{
+	display: block;
+	width: 970px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top: 1px solid #d4d4d4;
+	padding-top: 10px;
+	clear: both;
+}
+
+#vspse-PA-MainNavbottom {
+	background-color: white;
+	position: relative;
+	top: 0;
+	display: block;
+	z-index: 30;
+	height: 35px;
+	float: left;
+	clear: both;
+	letter-spacing: 0;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+
+/* Sub Page Content */
+
+.vspse-buttonContent{
+	display: block;
+	width: 970px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	clear: both;
+}
+
+.vspse-buttonContent2{
+	display: block;
+	width: 670px;
+	margin-top: 10px;
+	margin-bottom: 32px;
+	padding-top: 10px;
+	border-top: 1px solid #d4d4d4;
+	clear: both;
+}
+
+.vspse-viewStories{
+	height: 26px;
+	display: block;
+	width: 254px;
+	float: left;
+	margin-right: 15px;
+	background: url(../img/core/View-all-Stories.gif) no-repeat;
+}
+.vspse-shareStories{
+	height: 26px;
+	display: block;
+	float: left;
+	width: 206px;
+	margin-right: 15px;
+	background: url(../img/core/ShareYourStories.gif) no-repeat;
+}
+
+.vspse-FacebookConnect{
+	height: 27px;
+	display: block;
+	float: left;
+	width: 254px;
+	background: url(../img/core/VA_va_FacebookConnect.png) no-repeat;
+
+}
+.vspse-grantApply{
+	height: 27px;
+	display: block;
+	float: left;
+	width: 254px;
+	margin-right: 15px;
+	background: url(../img/core/Apply_to_grant_program.gif) no-repeat;
+}
+.vspse-printStory{
+	height: 26px;
+	display: block;
+	float: left;
+	width: 118px;
+	margin-right: 15px;
+	background: url(../img/core/PrintStories.gif) no-repeat;
+}
+.vspse-viewStories:hover, .vspse-shareStories:hover, .vspse-printStory:hover, .vspse-FacebookConnect:hover, .vspse-grantApply:hover{
+	background-position: 0 -26px;
+	cursor: hand;
+}
+
+
+/* @end */
+
+/* @group VetStory Styles */
+.vspse-vetStoryHead{
+	width: 100%;
+	display: block;
+	margin-top: 15px;
+	padding-bottom: 25px;
+}
+
+.vspse-vetStoryHead p{
+	margin-bottom: 10px;
+}
+
+.vspse-vetInforight {
+	display: block;
+	margin-left: 10px;
+	float: left;
+	width: 220px;
+}
+.vspse-vetInforight p{
+	font-weight: bold;
+	width: 220px;
+	float: left;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+.vspse-vetName span{
+	width: 220px;
+	float: left;
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+/* @end */
+
+/* @group top redundent links */
+
+div.vspse-subheadLinks {
+	position: relative;
+	display: block;
+	float: right;
+	top: -20px;
+	left: 25px;
+	color: #004785;
+	font-size: 12px;
+	font-weight: bold;
+}
+div.vspse-subheadLinks a:link{
+	text-decoration: none;
+	color: #004785;
+}
+
+
+
+/* @end */
+
+#vspse-ContentWrapper2 {
+	background-color: white;
+	display: table;
+	margin-top: 10px;
+	width: 980px;
+	margin-left: 16px;
+	float: left;
+}
+#vspse-PA-MainNav2 {
+	background-color: white;
+	position: relative;
+	top: 0;
+	display: block;
+	z-index: 30;
+	height: 35px;
+	float: left;
+	clear: both;
+	letter-spacing: 0;
+
+}
+
+#vspse-lowerContentBody{
+	display: block;
+	float: left;
+	margin-top: 30px;
+	border-bottom: 1px solid silver;
+	padding-bottom: 40px;
+	width: 960px;
+}
+
+#vspse-slideshowFrame2 {
+	position: relative;
+	width: 980px;
+	height: 160px;
+	display: block;
+	float: left;
+}
+#vspse-baseFrame {
+	position: relative;
+	width: 980px;
+	margin-top: 0px;
+	display: table;
+	float: left;
+}
+#vspse-headImage{
+	display: block;
+	float: left;
+	z-index: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.vspse-contentRow2Box{
+	width: 100%;
+	display: block;
+	clear: both;
+	float: left;
+	margin-bottom: 0px;
+	margin-top: 15px;
+}
+
+#vspse-breadCrumbPath{
+	font-size: 11px;
+	color: #227ea9;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+#vspse-breadCrumbPath a{
+	color: #vspse-227ea9;
+	text-decoration: none;
+}
+
+#vspse-breadCrumbPath a:hover{
+	color: #227ea9;
+	text-decoration: underline;
+}
+.vspse-contentRow2Box span{
+	width: 90%;
+	font-size: 12px;
+	text-decoration: none;
+	margin-top: 10px;
+	line-height: 150%;
+	font-weight: bold;
+	color: #227ea9;
+	margin-bottom: 15px;
+}
+.vspse-contentRow2Box a:link{
+	text-decoration: none;
+}
+#vspse-mapIncludeWrapper iframe{
+	display: block;
+	float: left;
+	clear: both;
+	width: 940px;
+	height: 1380px;
+	border: 1px solid white;
+}
+
+#vspse-mapIncludeWrapperAdvanced iframe{
+	display: block;
+	float: left;
+	clear: both;
+	width: 940px;
+	height: 1430px;
+	border: 1px solid white;
+}
+/* @end */
+
+/* @end */
+
+/* @group SlideShow Styles */
+
+#vspse-slideshowFrame {
+	position: relative;
+	width: 995px;
+	height: 350px;
+}
+
+#vspse-slideshow {
+	position: absolute;
+	width: 995px;
+	height: 350px;
+	left: 0px;
+	top: 0px;
+	z-index: 0;
+}
+
+#vspse-slide1 {
+	width: 996px;
+	height: 350px;
+	background-image: url("../img/core/PA_Main_1.jpg");
+	background-repeat: none;
+}
+
+#vspse-slide2 {
+	width: 996px;
+	height: 350px;
+	background-image: url("../img/core/PA_Main_2.jpg");
+	background-repeat: none;
+}
+
+#vspse-slide3 {
+	width: 996px;
+	height: 350px;
+	background-image: url("../img/core/PA_Main_3.jpg");
+	background-repeat: none;
+}
+
+#vspse-slide4 {
+	width: 996px;
+	height: 350px;
+	background-image: url("../img/core/PA_Main_4.jpg");
+	background-repeat: none;
+}
+
+.vspse-slideHeading {
+	font-size: 30px;
+	color: #0d5b41;
+	padding-left: 86px;
+	padding-top: 40px;
+}
+a.vspse-linkInside{
+	width: 996px;
+	height: 350px;
+	display: block;
+}
+
+#vspse-prevSlide {
+	position: absolute;
+	right: 184px;
+	bottom: 7px;
+	width: 21px;
+	height: 35px;
+	background-image: url("../img/home/arrow_left.png");
+	background-repeat: no-repeat;
+	z-index: 1;
+	cursor: pointer;
+	visibility: hidden;
+}
+
+#vspse-nextSlide {
+	position: absolute;
+	right: 10px;
+	bottom: 7px;
+	width: 21px;
+	height: 35px;
+	background-image: url("../img/home/arrow_right.png");
+	background-repeat: no-repeat;
+	z-index: 1;
+	cursor: pointer;
+	visibility: hidden;
+}
+
+#vspse-gotoBtns {
+	position: absolute;
+	right: 20px;
+	bottom: 10px;
+	height: 30px;
+	z-index: 1;
+}
+
+.vspse-gotoSlide {
+	float: left;
+	width: 25px;
+	height: 25px;
+	background-repeat: no-repeat;
+	margin-left: 6px;
+	cursor: pointer;
+	background-position: -3px;
+}
+
+.vspse-gotoSlideUp1 {
+	background-image: url("../img/home/icon1.png");
+}
+.vspse-gotoSlideUp1:hover {
+	background-image: url("../img/home/icon1_x.png");
+}
+.vspse-gotoSlideDown1 {
+	background-image: url("../img/home/icon1_x.png");
+}
+
+.vspse-gotoSlideUp2 {
+	background-image: url("../img/home/icon2.png");
+}
+
+.vspse-gotoSlideDown2 {
+	background-image: url("../img/home/icon2_x.png");
+}
+.vspse-gotoSlideUp2:hover {
+	background-image: url("../img/home/icon2_x.png");
+}
+.vspse-gotoSlideUp3 {
+	background-image: url("../img/home/icon3.png");
+}
+
+.vspse-gotoSlideDown3 {
+	background-image: url("../img/home/icon3_x.png");
+}
+.vspse-gotoSlideUp3:hover {
+	background-image: url("../img/home/icon3_x.png");
+}
+.vspse-gotoSlideUp4 {
+	background-image: url("../img/home/icon4.png");
+}
+
+.vspse-gotoSlideDown4 {
+	background-image: url("../img/home/icon4_x.png");
+}
+.vspse-gotoSlideUp4:hover {
+	background-image: url("../img/home/icon4_x.png");
+}
+
+/* Announcements jQuery */
+
+#vspse-slideshow2 {
+	width: 470px;
+	height: 120px;
+	left: 0px;
+	top: 0px;
+}
+
+#vspse-slide1b {
+	width: 470px;
+}
+
+#vspse-slide2b {
+	width: 470px;
+}
+
+#vspse-slide3b {
+	width: 470px;
+}
+
+#vspse-slide4b {
+	width: 470px;
+}
+/* @end */
+#vspse-TopContentWrapper{
+		font-family: Arial, Helvetica, Geneva, sans-serif;
+}
+#vspse-TopContentWrapper h1{
+	color: #4d4b4c;
+	text-transform: uppercase;
+	margin: 0;
+	font-size: 22px;
+	line-height:24px;
+	font-weight:bold;
+    font-family:'myriad pro', myriad, calibri, arial, sans-serif;
+}
+
+#vspse-ContentWrapper p {
+	margin-top: 0px;
+	margin-bottom: 16px;
+}
+
+/* @group Layout */
+
+#vspse-ContentWrapper {
+	background-color: white;
+	display: table;
+	margin-top: 10px;
+
+}
+
+
+/*#vspse-ContentWrapper p, li {
+	color: #636062;
+	font-size: 13px;
+	line-height: 150%;
+}
+
+*/
+
+/*
+#vspse-ContentWrapper p, li {
+	color: #636062;
+	font-size: 13px;
+	
+}
+
+*/
+#vspse-MainNav {
+	background-color: #FFF;
+	position: relative;
+	top: 0;
+	display: block;
+	z-index: 30;
+	left: 15px;
+	height: 35px;
+	float: left;
+	clear: both;
+	letter-spacing: 0;
+}
+
+#vspse_navigationWrapper ul {
+	margin: 0;
+	padding: 0;
+	display: table;
+}
+
+#vspse_navigationWrapper li {
+	list-style-type: none;
+	height: 35px;
+	display: block;
+	float: left;
+}
+
+li.vspseLink1 a, li.vspseLink2 a, li.vspseLink3 a, li.vspseLink4 a, li.vspseLink5 a, li.vspseLink6 a, li.vspseLink7 a{
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+	height: 25px;
+	padding-top: 10px;
+	text-decoration: none;
+	font: bold 14px Arial, Helvetica, Geneva, sans-serif;
+		color: #8d8d8d;
+}
+
+li.vspseLink1 a:hover, li.vspseLink2 a:hover, li.vspseLink3 a:hover, li.vspseLink4 a:hover, li.vspseLink5 a:hover, li.vspseLink6 a:hover, li.vspseLink7 a:hover {
+	background-color: #f0f0f0;
+		color: #8d8d8d;
+}
+
+#vspse-row2Wrapper {
+	width: 970px;
+	height: 184px;
+	border-top: 1px solid #c6c6c6;
+	border-bottom: 1px solid #c6c6c6;
+	display: block;
+	padding-top: 27px;
+	margin-left: 15px;
+	margin-top: 27px;
+}
+
+.vspse-row2VerticalSpacer {
+	display: block;
+	float: left;
+	width: 30px;
+	height: 10px;
+}
+
+.vspse-picturewindowBox {
+	float: left;
+	display: block;
+	width: 220px;
+	margin-left: -5px;
+	margin-right: 5px;
+}
+
+.vspse-picturewindowBox span {
+	clear: both;
+	display: block;
+	padding-left: 5px;
+}
+
+.vspse-picturewindowBox span a {
+	clear: both;
+	font-weight: bold;
+	color: #156bb2;
+	text-decoration: none;
+	margin-top: 10px;
+	display: block;
+	font-size: 14px;
+}
+
+.vspse-picturewindowBox:hover {
+	opacity: 0.80;
+	filter: alpha(opacity=80);
+	
+}
+
+.vspse-picturewindowBox:hover, span a:hover {
+	color: #vspse-177fd2;
+}
+
+
+#vspse-row3Wrapper {
+	width: 960px;
+	border-bottom: 1px solid #d4d4d4;
+	display: table;
+	margin-left: 15px;
+	margin-top: 28px;
+	padding-bottom: 20px;
+}
+
+#vspse-row3Wrapper a:link {
+	text-decoration: none;
+	color: #146bb2;
+}
+
+#vspse-row3Wrapper a:hover {
+	color: #67a0df;
+	text-decoration: underline;
+}
+
+#vspse-row4Wrapper{
+	display: table;
+	width: 960px;
+	margin-top:15px;
+	margin-left: 15px;
+}
+
+#vspse-row5Wrapper{
+	display: table;
+	width: 960px;
+	margin-top:15px;
+	margin-left:15px;
+	padding-top:15px;
+	border-top: 1px solid #d4d4d4;
+	border-bottom: 1px solid #d4d4d4;
+	clear: both;
+	overflow:auto;
+}
+
+#vspse-row5Wrapper a {
+	color: #146bb2;
+}
+
+#vspse-row5Wrapper a:link {
+	text-decoration: none;
+	color: #146bb2;
+}
+
+#vspse-row5Wrapper a:hover {
+	color: #67a0df;
+	text-decoration: underline;
+}
+
+#vspse-row6Wrapper{
+	display: table;
+	width: 960px;
+	margin-top:15px;
+	margin-left: 15px;
+	clear: both;
+	overflow:auto;
+}
+
+vspse-MainNav2 {
+	background-color: #FFF;
+	position: relative;
+	top: 0;
+	display: block;
+	z-index: 30;
+	height: 35px;
+	float: left;
+	clear: both;
+	letter-spacing: 0;
+}
+/* 	Beginning of styles for the NVWG Schedule of Events table 		*/
+.nvwg-eventschedule 
+{
+text-align: left;
+font-family: Verdana;
+font-weight: normal;
+font-size: 1em;
+color: #000000;
+width: 98%;
+background-color: #ffffff;
+border: 1px #666 solid;
+border-collapse: collapse;
+border-spacing: 0px;
+margin-bottom:25px;
+margin-left:20px;
+}
+
+/* five-column format*/
+.nvwg-schedulecol1 { width: 15%; }
+.nvwg-schedulecol2 { width: 30%; }
+.nvwg-schedulecol3 { width: 20%; }
+.nvwg-schedulecol4 { width: 20%; }
+.nvwg-schedulecol5 { width: 15%; }
+
+/* four-column format*/
+.nvwg-schedulecol6 { width: 25%; }
+.nvwg-schedulecol7 { width: 35%; }
+.nvwg-schedulecol8 { width: 25%; }
+.nvwg-schedulecol9 { width: 20%; }
+
+.nvwg-eventschedule caption {
+  font-size: 1em;
+  font-style: italic;
+  text-align: center;
+  padding: 0.5em 0;
+  font-weight:bold;
+}
+
+.nvwg-eventschedule td, .nvwg-eventschedule th 
+{
+border:1px solid #666;
+padding:3px 7px 2px 7px;
+}
+
+.nvwg-eventschedule th 
+{
+font-size:1.1em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#006;
+color:#fff;
+}
+
+.nvwg-eventschedule tr.alt td 
+{
+color:#000000;
+background-color:#ccffff;
+}
+
+.nvwg-eventschedule tr:hover th[scope=row], .nvwg-eventschedule tr:hover td
+{
+	background-color: #CCC;
+	color: #000;
+}
+/* 	End of styles for the NVWG Schedule of Events table 		*/
+
+/* 	Beginning of styles for the WSC schedule tables 		*/
+.wsc-eventschedule 
+{
+text-align: left;
+font-family: Verdana;
+font-weight: normal;
+font-size: 1em;
+color: #000000;
+width: 98%;
+background-color: #ffffff;
+border: 1px #666 solid;
+border-collapse: collapse;
+border-spacing: 0px;
+margin-bottom:25px;
+margin-left:20px;
+}
+/* two-column format*/
+.wsc-schedulecol1 { width: 20%; }
+.wsc-schedulecol2 { width: 80%; }
+
+/* three-column format */
+.wsc-schedulecol3 { width: 40%; }
+.wsc-schedulecol4 { width: 20%; }
+.wsc-schedulecol5 { width: 40%; }
+
+.wsc-eventschedule caption
+{
+  font-size: 1em;
+  font-style: italic;
+  text-align: center;
+  padding: 0.5em 0;
+  font-weight:bold;
+}
+
+.wsc-eventschedule td, .wsc-eventschedule th 
+{
+border:1px solid #666;
+padding:3px 7px 2px 7px;
+}
+
+.wsc-eventschedule th 
+{
+font-size:1.1em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#006;
+color:#fff;
+}
+
+.wsc-eventschedule tr.alt td 
+{
+color:#000000;
+background-color:#ccffff;
+}
+
+.wsc-eventschedule tr:hover th[scope=row], .wsc-eventschedule tr:hover td
+{
+	background-color: #CCC;
+	color: #000;
+}
+/* 	End of styles for the WSC schedule tables */
+
+/* 	Beginning of styles for the GAG schedule tables 		*/
+.gag-eventschedule 
+{
+text-align: left;
+font-family: Verdana;
+font-weight: normal;
+font-size: 1em;
+color: #000000;
+width: 98%;
+background-color: #ffffff;
+border: 1px #666 solid;
+border-collapse: collapse;
+border-spacing: 0px;
+margin-bottom:25px;
+margin-left:20px;
+}
+/* two-column format*/
+.gag-schedulecol1 { width: 20%; }
+.gag-schedulecol2 { width: 80%; }
+
+/* three-column format */
+.gag-schedulecol3 { width: 20%; }
+.gag-schedulecol4 { width: 40%; }
+.gag-schedulecol5 { width: 40%; }
+
+.gag-eventschedule caption
+{
+  font-size: 1em;
+  font-style: italic;
+  text-align: center;
+  padding: 0.5em 0;
+  font-weight:bold;
+}
+
+.gag-eventschedule td, .gag-eventschedule th 
+{
+border:1px solid #666;
+padding:3px 7px 2px 7px;
+}
+
+.gag-eventschedule th 
+{
+font-size:1.1em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#006;
+color:#fff;
+}
+
+.gag-eventschedule tr.alt td 
+{
+color:#000000;
+background-color:#ccffff;
+}
+
+.gag-eventschedule tr:hover th[scope=row], .gag-eventschedule tr:hover td
+{
+	background-color: #CCC;
+	color: #000;
+}
+/* 	End of styles for the GAG schedule tables */
+
+/* 	Beginning of styles for the CAF schedule tables 		*/
+.caf-eventschedule 
+{
+text-align: left;
+font-family: Verdana;
+font-weight: normal;
+font-size: 1em;
+color: #000000;
+width: 98%;
+background-color: #ffffff;
+border: 1px #666 solid;
+border-collapse: collapse;
+border-spacing: 0px;
+margin-bottom:25px;
+margin-left:20px;
+}
+/* two-column format */
+.caf-schedulecol1 { width: 25%; }
+.caf-schedulecol2 { width: 35%; }
+.caf-schedulecol3 { width: 40%; }
+
+.caf-eventschedule caption
+{
+  font-size: 1em;
+  font-style: italic;
+  text-align: center;
+  padding: 0.5em 0;
+  font-weight:bold;
+}
+
+.caf-eventschedule td, .caf-eventschedule th 
+{
+border:1px solid #666;
+padding:3px 7px 2px 7px;
+}
+
+.caf-eventschedule th 
+{
+font-size:1.1em;
+text-align:center;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#006;
+color:#fff;
+}
+
+.caf-eventschedule tr.alt td 
+{
+color:#000000;
+background-color:#ccffff;
+}
+
+.caf-eventschedule tr:hover th[scope=row], .caf-eventschedule tr:hover td
+{
+	background-color: #CCC;
+	color: #000;
+}
+/* 	End of styles for the CAF schedule tables */
+
+/* 	Beginning of styles for the medal count tables */
+.medaltable 
+{
+text-align: left;
+font-family: Verdana;
+font-weight: normal;
+font-size: 1em;
+color: #000000;
+width: 675px;
+background-color: #ffffff;
+border: 1px #666 solid;
+border-collapse: collapse;
+border-spacing: 0px;
+}
+
+#medaltablecol1 { width: 60%; }
+
+#medaltablecol2 {
+	width: 15%;
+	text-align:center;
+	color:#000000;
+	background-color:#CD7F32;
+}
+
+#medaltablecol3 {
+	width: 15%;
+	text-align:center;
+	color:#000000;
+	background-color:#E6E8FA;
+ }
+#medaltablecol4 {
+	width: 15%;
+	text-align:center;
+	color:#000000;
+	background-color:#8C7853;
+}
+
+
+.medaltable caption
+{
+  font-size: 1em;
+  font-style: italic;
+  text-align: center;
+  padding: 0.5em 0;
+  font-weight:bold;
+}
+
+.medaltable th 
+{
+border:1px solid #666;
+padding:3px 7px 2px 7px;
+}
+
+.medaltable td 
+{
+border:1px solid #666;
+padding:3px 7px 2px 7px;
+text-align:center;
+}
+
+.medaltable th 
+{
+font-size:1em;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#006;
+color:#fff;
+}
+
+.medaltable tr.alt td 
+{
+color:#000000;
+background-color:#ccffff;
+}
+
+.medaltable th[scope=col]
+{
+text-align:center;}
+
+/*.medaltable tr:hover th[scope=row], .medaltable tr:hover td
+{
+	background-color: #CCC;
+	color: #000;
+}
+*/
+/* 	End of styles for the medal count tables */

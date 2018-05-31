@@ -1,0 +1,91 @@
+<!--
+Should display with header, footer, no sidenav
+-->
+
+{% extends '_uswds.njk' %}
+
+{% block body %}
+
+{% include '@header' %}
+
+{% render '@breadcrumbs' %}
+
+  <div class="usa-grid" style="padding: 2em">
+    <div class="usa-width-one-whole">
+
+      {% render '@typesetting--h1' %}
+      {% render '@typesetting--introtext' %}
+
+      {{ yield }}
+
+      <aside class="va-nav-linkslist ">
+        <section>
+          <h3 class="va-nav-linkslist-heading">Apply for Disability Benefits</h3>
+
+        <ul class="va-nav-linkslist-list">
+          <li>
+              <a href="/disability-benefits/eligibility/" onclick="window.dataLayer.push({ event: 'nav-linkslist' });">
+                <h4 class="va-nav-linkslist-title">Eligibility</h4>
+
+                <p class="va-nav-linkslist-description">Find out if you can get disability benefits, like financial support and health care, from VA.</p>
+              </a>
+            </li>
+                              <li>
+              <a href="/disability-benefits/apply/" onclick="window.dataLayer.push({ event: 'nav-linkslist' });">
+                <h4 class="va-nav-linkslist-title">Application Process</h4>
+
+                <p class="va-nav-linkslist-description">Apply online now, or find out how to apply in person or get help from a trained professional.</p>
+              </a>
+            </li>
+                              <li>
+              <a href="/disability-benefits/conditions/" onclick="window.dataLayer.push({ event: 'nav-linkslist' });">
+                <h4 class="va-nav-linkslist-title">Conditions</h4>
+
+                <p class="va-nav-linkslist-description">Discover which illnesses or injuries qualify you for benefits.</p>
+              </a>
+            </li>
+                              <li>
+              <a href="/track-claims/" onclick="window.dataLayer.push({ event: 'nav-linkslist' });">
+                <h4 class="va-nav-linkslist-title">Check Claim and Appeal Status</h4>
+
+                <p class="va-nav-linkslist-description">Track the status of your disability claims and appeals.</p>
+              </a>
+            </li>
+                              <li>
+              <a href="/disability-benefits/claims-appeal/" onclick="window.dataLayer.push({ event: 'nav-linkslist' });">
+                <h4 class="va-nav-linkslist-title">Appeals Process</h4>
+
+                <p class="va-nav-linkslist-description">Find out what to do if you disagree with your disability rating decision.</p>
+              </a>
+            </li>
+                </ul>
+
+        <section>
+          <h3 class="va-nav-linkslist-heading">More VA Benefits</h3>
+
+        <ul class="va-nav-linkslist-list">
+                      <li>
+              <a href="/employment/vocational-rehab-and-employment/" onclick="window.dataLayer.push({ event: 'nav-linkslist' });">
+                <h4 class="va-nav-linkslist-title">Vocational Rehabilitation and Employment (VR&amp;E)</h4>
+
+                <p class="va-nav-linkslist-description">If your service-connected disability limits your ability to work or prevents you from working, find out if you can get VR&amp;E benefits and services—like help exploring employment options and getting more training if required.</p>
+              </a>
+            </li>
+                              <li>
+              <a href="/housing-assistance/adaptive-housing-grants/" onclick="window.dataLayer.push({ event: 'nav-linkslist' });">
+                <h4 class="va-nav-linkslist-title">Adaptive Housing Grants</h4>
+
+                <p class="va-nav-linkslist-description">Find out if you may be eligible for a grant to buy or change a home to meet your needs and help you live more independently with your service-connected disability.</p>
+              </a>
+            </li>
+                </ul>
+
+
+    </section></section></aside>
+
+    </div>
+  </div>
+
+{% include '@footer' %}
+
+{% endblock %}

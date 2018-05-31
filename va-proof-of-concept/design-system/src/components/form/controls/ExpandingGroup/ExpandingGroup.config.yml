@@ -1,0 +1,8 @@
+label: ExpandingGroup
+status: wip
+notes: Expects two child components.
+
+context:
+  componentSourcePath: './ExpandingGroup.jsx'
+  open: true
+  expandedContentId: 'expandedContentId'

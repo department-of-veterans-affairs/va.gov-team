@@ -1,0 +1,56 @@
+// CSS for Tab-based navigation
+
+.va-tabs {
+  list-style: none;
+  // Prevents wrapping, forces horizontal scrolling
+  // at QVGA widths in portrait orientation.
+  margin-bottom: -1px;
+  min-width: 260px;
+  padding-left: 0;
+
+  > li {
+    background: $color-gray-lightest;
+    border-width: 1px 0px 0 1px;
+    &:last-child {
+      border-right-width: 1px;
+    }
+    border-color: $color-gray;
+    border-style: solid;
+    display: inline-block;
+    margin-bottom: 0;
+  }
+}
+
+.va-tab-trigger {
+  border-width: 5px 1px 1px;
+  border-style: solid;
+  border-color: transparent;
+  border-bottom-color: $color-gray;
+  color: $color-gray;
+  display: inline-block;
+  padding: 1rem;
+  margin: 0px -1px;
+  text-decoration: none;
+
+  &:hover,
+  &:focus,
+  &--current {
+    background: $color-white;
+    border-color: $color-primary;
+    border-bottom-color: $color-white;
+  }
+
+  &:visited {
+    color: inherit;
+  }
+
+  @media (min-width: $small-screen) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
+.va-tab-content {
+  border-top: 1px solid $color-gray;
+}
+

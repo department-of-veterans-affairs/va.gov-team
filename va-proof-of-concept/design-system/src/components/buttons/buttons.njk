@@ -1,0 +1,6 @@
+
+<button class="{{ classes }}">{{ label }}</button>
+{% if (category != 'disabled') and (category != 'big') %}
+<button class="{{ classes }} usa-button-active">Active</button>
+<button class="{{ classes }} usa-button-hover">Hover</button>
+{% endif %}

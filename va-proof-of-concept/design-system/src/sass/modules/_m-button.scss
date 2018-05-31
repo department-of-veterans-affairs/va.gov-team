@@ -1,0 +1,188 @@
+.usa-button,
+.usa-button-primary,
+.usa-button:visited,
+.usa-button-primary:visited,
+button,
+[type="button"],
+[type="submit"],
+[type="reset"],
+[type="image"] {
+  background-color: $color-primary;
+
+  &.usa-button-secondary {
+    background: transparent;
+  }
+}
+
+.usa-button-primary {
+  color: $color-white !important;
+  &:hover {
+    // background-color: $color-primary-darker;
+  }
+  &[href^=http] {
+    @include no-sr-content;
+
+    background-image: none;
+    // TODO: clean up #content .main.interior a then remove !important
+    text-decoration: none !important;
+
+  }
+}
+
+// @todo Remove this once the USWDS upgrade is complete.
+.usa-accordion {
+  .usa-button-secondary:focus {
+    box-shadow: inset 0 0 0 2px $color-primary-darkest, 0 0 3px $color-focus, 0 0 7px $color-focus;
+  }
+}
+
+.usa-button-secondary-exit {
+  &::after {
+    background-image: url(/img/icons/exit-icon-primary.png);
+    background-size: 1em auto;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    // Content must have a decender in it
+    content: "leave vets.gov";
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin-left: .3em;
+    text-indent: -9999em;
+    padding-right: 1.1em;
+  }
+  &:hover::after {
+    background-image: url(/img/icons/exit-icon-primary-darker.png);
+  }
+}
+
+.usa-button-disabled {
+  background-color: $color-gray-lighter;
+}
+
+.row.form-progress-buttons {
+  max-width: 47rem;
+}
+
+button i.fa {
+  font-size: 0.75em;
+  &.before-text {
+    margin-right: 0.5em;
+  }
+  &.after-text {
+    margin-left: 0.5em;
+  }
+}
+
+button.short {
+  font-weight: 500;
+  padding: 1rem;
+}
+
+// For links and buttons that look like links and have an icon.
+.va-icon-link,
+.va-icon-link[type="button"] {
+  background: transparent;
+  border-radius: 0;
+  color: $color-primary !important;
+  font-weight: normal;
+  line-height: 1.3;
+  margin: 0;
+  text-align: left;
+
+  -webkit-transition-duration: 0.3s;
+          transition-duration: 0.3s;
+
+  -webkit-transition-timing-function: ease-in-out;
+          transition-timing-function: ease-in-out;
+
+  // Transition only these properties.
+  -webkit-transition-property: color, background-color, border-color;
+          transition-property: color, background-color, border-color;
+
+  white-space: nowrap;
+
+  &:hover {
+    background: $color-gray-lightest;
+  }
+
+  .fa {
+    display: inline-block;
+    font-size: 1.8rem;
+  }
+
+  span {
+    display: inline-block;
+    padding-left: .5rem;
+    text-decoration: underline;
+  }
+}
+
+// Buttons that do not look like buttons, but have an icon.
+// Ex: top navigation search, help buttons
+.va-btn-withicon {
+  > span {
+    display: flex;
+    align-items: center;
+  }
+
+  svg {
+    display: none;
+
+    @include media($medium-large-screen) {
+      display: block;
+      height: 1.5rem;
+      margin-right: .25rem;
+      pointer-events: none;
+      width: 1.5rem;
+    }
+  }
+}
+
+// Opens / closes a sidebar navigation on detail pages.
+.va-btn-sidebarnav-trigger {
+  background: $color-gray-lightest;
+  border-radius: 0;
+  display: block;
+  color: $color-link-default;
+  margin: 1rem 0 2rem;
+  text-align: left;
+
+  span {
+    align-items: center;
+    display: flex;
+  }
+
+  b {
+    flex: 1 1 10rem
+  }
+
+  svg {
+    display: inline-block;
+    height: 1rem;
+    width: 1rem;
+    fill: $color-link-default;
+  }
+
+  &:hover,
+  &:focus,
+  &:active {
+    svg {
+      fill: $color-white;
+    }
+  }
+
+  @include media($medium-large-screen) {
+    display: none;
+  }
+}
+
+.va-btn-close-icon {
+  background: transparent url(/img/icons/close.svg) center no-repeat;
+  background-size: 1rem 1rem;
+  height: 2.2rem;
+  padding: 2.2rem;
+  margin: 0;
+  text-indent: -9999rem;
+  width: 1rem;
+}

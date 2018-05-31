@@ -1,0 +1,24 @@
+{% for c in category %}
+
+<h3>{{ c.name }}</h3>
+<table class="icon-table usa-table-borderless">
+  <thead>
+    <tr>
+        <th scope="col">Icon</th>
+        <th scope="col">CSS Class</th>
+        <th scope="col">Unicode</th>
+        <th scope="col">Usage</th>
+    </tr>
+  </thead>
+  <tbody>
+  {% for i in c.icon %}
+    <tr>
+        <th scope="row"><i class="fa {{i.id}}"></i></th>
+        <td>{{ i.id }}</td>
+        <td><code class='code-fa'>{{ i.html | escape }}</code></td>
+        <td>{{ i.usage }}</td>
+    </tr>
+  {% endfor %}
+</tbody>
+</table>
+{% endfor %}

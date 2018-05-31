@@ -1,0 +1,40 @@
+label: Modal
+status: wip
+order: 10
+
+variants:
+  - name: default
+    context:
+      componentSourcePath: 'Modal.jsx'
+      id: default
+      title: 'Default Modal'
+      status: ''
+      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id felis pulvinar ligula ultricies sollicitudin eget nec dui. Cras augue velit, pellentesque sit amet nisl ut, tristique suscipit sem. Cras sollicitudin auctor mattis.'
+  - name: Info
+    context:
+      componentSourcePath: 'Modal.jsx'
+      id: info
+      title: 'Info Modal'
+      status: 'info'
+      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id felis pulvinar ligula ultricies sollicitudin eget nec dui. Cras augue velit, pellentesque sit amet nisl ut, tristique suscipit sem. Cras sollicitudin auctor mattis.'
+  - name: Success
+    context:
+      componentSourcePath: 'Modal.jsx'
+      id: success
+      title: 'Success Modal'
+      status: 'success'
+      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id felis pulvinar ligula ultricies sollicitudin eget nec dui. Cras augue velit, pellentesque sit amet nisl ut, tristique suscipit sem. Cras sollicitudin auctor mattis.'
+  - name: Warning
+    context:
+      componentSourcePath: 'Modal.jsx'
+      id: warning
+      title: 'Warning Modal'
+      status: 'warning'
+      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id felis pulvinar ligula ultricies sollicitudin eget nec dui. Cras augue velit, pellentesque sit amet nisl ut, tristique suscipit sem. Cras sollicitudin auctor mattis.'
+  - name: Error
+    context:
+      componentSourcePath: 'Modal.jsx'
+      id: error
+      title: 'Error Modal'
+      status: 'error'
+      content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id felis pulvinar ligula ultricies sollicitudin eget nec dui. Cras augue velit, pellentesque sit amet nisl ut, tristique suscipit sem. Cras sollicitudin auctor mattis.'

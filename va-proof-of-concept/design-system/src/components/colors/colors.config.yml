@@ -1,0 +1,174 @@
+label: Color palette
+status: wip
+collated: true
+order: 0
+preview: '@uswds-framed'
+
+context:
+  family:
+  - name: Defaults
+    color:
+    - var: color-link-default
+      name: "$color-link-default"
+      hex: "#004795"
+      contrast: AA
+    - var: color-visited
+      name: "$color-visited"
+      hex: "#4c2c92"
+      contrast: AAA
+    - var: color-focus
+      name: "$color-focus"
+      hex: "#3e94cf"
+      contrast: AA
+    - var: color-base
+      name: "$color-base"
+      hex: "#212121"
+      contrast: ''
+    - var: color-black
+      name: "$color-black"
+      hex: "#000000"
+      contrast: AAA
+    - var: color-white
+      name: "$color-white"
+      hex: "#ffffff"
+      contrast: AAA
+  - name: Primary
+    color:
+    - var: color-primary
+      name: "$color-primary"
+      hex: "#0071bc"
+      contrast: AA
+    - var: color-primary-darker
+      name: "$color-primary-darker"
+      hex: "#003E73"
+      contrast: AAA
+    - var: color-primary-darkest
+      name: "$color-primary-darkest"
+      hex: "#112e51"
+      contrast: AAA
+  - name: Primary Alt
+    color:
+    - var: color-primary-alt-lightest
+      name: "$color-primary-lightest"
+      hex: "#e1f3f8"
+      contrast: AAA
+    - var: color-primary-alt-light
+      name: "$color-primary-alt-light"
+      hex: "#9bdaf1"
+      contrast: AAA
+    - var: color-primary-alt
+      name: "$color-primary-alt"
+      hex: "#02bfe7"
+      contrast: AA
+    - var: color-primary-alt-dark
+      name: "$color-primary-alt-dark"
+      hex: "#00a6d2"
+      contrast: ''
+    - var: color-primary-alt-darkest
+      name: "$color-primary-alt-darkest"
+      hex: "#046b99"
+      contrast: AA
+  - name: Secondary
+    color:
+    - var: color-secondary-lightest
+      name: "$color-secondary-lightest"
+      hex: "#f9dede"
+      contrast: AAA
+    - var: color-secondary-light
+      name: "$color-secondary-light"
+      hex: "#e59393"
+      contrast: AA
+    - var: color-secondary
+      name: "$color-secondary"
+      hex: "#e31c3d"
+      contrast: AA
+    - var: color-secondary-dark
+      name: "$color-secondary-dark"
+      hex: "#cd2026"
+      contrast: AA
+    - var: color-secondary-darkest
+      name: "$color-secondary-darkest"
+      hex: "#981b1e"
+      contrast: AAA
+  - name: Gray
+    color:
+    - var: color-gray-lightest
+      name: "$color-gray-lightest"
+      hex: "#f1f1f1"
+      contrast: AAA
+    - var: color-gray-lighter
+      name: "$color-gray-lighter"
+      hex: "#d6d7d9"
+      contrast: AAA
+    - var: color-gray-light
+      name: "$color-gray-light"
+      hex: "#aeb0b5"
+      contrast: AA
+    - var: color-gray
+      name: "$color-gray"
+      hex: "#5b616b"
+      contrast: AA
+    - var: color-gray-dark
+      name: "$color-gray-dark"
+      hex: "#323a45"
+      contrast: AAA
+    - var: color-gray-medium
+      name: "$color-gray-medium"
+      hex: "#757575"
+      contrast: AA
+    - var: color-gray-warm-dark
+      name: "$color-gray-warm-dark"
+      hex: "#494440"
+      contrast: AAA
+    - var: color-gray-warm-light
+      name: "$color-gray-warm-light"
+      hex: "#e4e2e0"
+      contrast: AAA
+    - var: color-gray-cool-light
+      name: "$color-gray-cool-light"
+      hex: "#dce4ef"
+      contrast: AAA
+  - name: Gold
+    color:
+    - var: color-gold-lightest
+      name: "$color-gold-lightest"
+      hex: "#fff1d2"
+      contrast: AAA
+    - var: color-gold-lighter
+      name: "$color-gold-lighter"
+      hex: "#fad980"
+      contrast: AAA
+    - var: color-gold-light
+      name: "$color-gold-light"
+      hex: "#f9c642"
+      contrast: AAA
+    - var: color-gold
+      name: "$color-gold"
+      hex: "#fdb81e"
+      contrast: AA
+    - var: color-gold-darker
+      name: "$color-gold-darker"
+      hex: "#988530"
+      contrast: ''
+  - name: Green
+    color:
+    - var: color-green-lightest
+      name: "$color-green-lightest"
+      hex: "#e7f4e4"
+      contrast: AAA
+    - var: color-green-lighter
+      name: "$color-green-lighter"
+      hex: "#94bfa2"
+      contrast: AA
+    - var: color-green-light
+      name: "$color-green-light"
+      hex: "#4aa564"
+      contrast: ''
+    - var: color-green
+      name: "$color-green"
+      hex: "#2e8540"
+      contrast: AA
+    - var: color-green-darker
+      name: "$color-green-darker"
+      hex: "#195c27"
+      contrast: AAA

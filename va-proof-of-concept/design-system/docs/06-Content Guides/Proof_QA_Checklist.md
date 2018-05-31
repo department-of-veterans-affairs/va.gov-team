@@ -1,0 +1,14 @@
+-  Bullet points are rendering correctly. When they aren’t, the content will show up as a couple sentences of text all run together as if it’s a paragraph, with a dash in front of each sentence. (scan the page)
+-  There’s no raw code or markdown. (scan the page)
+-  If there’s more than one link on a line or at the end of text, each line of linked text is on its own line (i.e.,stack links, don’t run them together on one line). (scan the page)
+-  Subheads are in first person singular (I/my) and sentence capped. These are often, but not always, in the form of a question.
+-  The answer to the subhead’s question is in second person singular.
+-  Piano keys: Title capped.
+-  Blue cards on landing pages: Titlecapped.
+-  All links are functional (not broken) as well as logical (they land on the right page). For instance, make sure that if we send users to eBenefits, it’s the correct eBenefits page. (click on all links)
+-  There are no embedded links.
+-  There are no typos or errors in grammar, syntax, or usage.
+-  Text is in plain language according to the standards outlined in the Vets.gov style guide. (For example, a call to action in the first paragraph, contractions wherever possible/appropriate, active instead of passive voice).
+-  Capitalization of names of programs or other proper nouns is correct.
+-  Names of forms that we mention in the text match the name of the form itself that we link to. The numbered version ofthe form name must match too. Example: VA Form SGLV 8714 (Application for Veterans’ Group Life Insurance)
+-  Definitions of terms don’t make sentences too long or clunky. If there’s a long parenthetical definition, or two within one paragraph, consider pulling the definition out into a new sentence. Also consider whether the term that isn’t plain language needs to be mentioned at all—and instead simply use plain language.

@@ -1,0 +1,20 @@
+import React from 'react';
+import HelpMenu from './HelpMenu';
+
+export default class HelpMenuExample extends React.Component {
+  constructor() {
+    super();
+    this.state = { open: false };
+  }
+  render() {
+    return (
+      <div style={{ backgroundColor: '#112e51', width: '85px' }}>
+        <HelpMenu
+          {...this.props}
+          isOpen={this.state.open}
+          clickHandler={() => this.setState({ open: !this.state.open })}>
+        </HelpMenu>
+      </div>
+    );
+  }
+}

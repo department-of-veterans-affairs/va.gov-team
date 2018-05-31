@@ -1,0 +1,66 @@
+/*
+Error: Undefined variable: "$small-screen".
+        on line 7 of design-system-master/src/sass/./mobile-typography.scss
+
+2: // Created: 3/12/18
+3: // This file contains type overrides for mobile breakpoints only
+4: // See: https://github.com/department-of-veterans-affairs/vets.gov-team/issues/6214
+5: // ===========================================
+6: 
+7: @media (max-width: $small-screen)  {
+8: 
+9:   h1 {
+10:     font-size: 30px;
+11:   }
+12: 
+
+Backtrace:
+design-system-master/src/sass/./mobile-typography.scss:7
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/variable.rb:49:in `_perform'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/script/tree/node.rb:50:in `perform'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:555:in `block in run_interp_no_strip'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:553:in `map'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:553:in `run_interp_no_strip'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:560:in `run_interp'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:525:in `visit_media'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `block in visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `block in with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:135:in `with_frame'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/stack.rb:79:in `with_base'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:162:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:52:in `block in visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:52:in `map'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:52:in `visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:171:in `block in visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:183:in `with_environment'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:170:in `visit_children'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `block in visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:190:in `visit_root'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/base.rb:36:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:161:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/visitors/perform.rb:10:in `visit'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/root_node.rb:36:in `css_tree'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/tree/root_node.rb:29:in `render_with_sourcemap'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/engine.rb:389:in `_render_with_sourcemap'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/engine.rb:307:in `render_with_sourcemap'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:462:in `update_stylesheet'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:215:in `block in update_stylesheets'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:209:in `each'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:209:in `update_stylesheets'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin/compiler.rb:294:in `watch'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/plugin.rb:109:in `method_missing'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/sass_scss.rb:360:in `watch_or_update'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/sass_scss.rb:51:in `process_result'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/base.rb:52:in `parse'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/lib/sass/exec/base.rb:19:in `parse!'
+/Users/sophia/.rvm/gems/ruby-2.3.3/gems/sass-3.5.5/bin/sass:13:in `<top (required)>'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/sass:23:in `load'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/sass:23:in `<main>'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `eval'
+/Users/sophia/.rvm/gems/ruby-2.3.3/bin/ruby_executable_hooks:15:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Error: Undefined variable: \"$small-screen\".\A         on line 7 of design-system-master/src/sass/./mobile-typography.scss\A \A 2: // Created: 3/12/18\A 3: // This file contains type overrides for mobile breakpoints only\A 4: // See: https://github.com/department-of-veterans-affairs/vets.gov-team/issues/6214\A 5: // ===========================================\A 6: \A 7: @media (max-width: $small-screen)  {\A 8: \A 9:   h1 {\A 10:     font-size: 30px;\A 11:   }\A 12: "; }

@@ -1,0 +1,209 @@
+.form-radio-buttons {
+  label {
+    margin-top: 1em;
+    outline: none;
+    padding: 6px 12px;
+    display: inline-block;
+    margin: 0;
+
+    // Make links in radio button labels clickable
+    a {
+      position: relative;
+    }
+  }
+
+  input:focus {
+    &+label {
+      background: #fad980;
+    }
+  }
+}
+
+.form-required-span {
+  color: $color-secondary-dark;
+  margin: 0 0.35em;
+}
+
+
+button.form-button-green {
+  background: $color-green;
+}
+
+button.form-button-disabled {
+  pointer-events: none;
+}
+
+.form-datefield-month,
+.form-datefield-day {
+  clear: none;
+  float: left;
+  margin-right: 1.5rem;
+
+  & select {
+    padding-top: 0.85rem;
+    padding-bottom: 0.85rem;
+  }
+}
+
+.form-alert-body {
+  padding: 0 3.5rem;
+}
+
+.form-datefield-month {
+  width: 10rem;
+}
+
+.form-datefield-day {
+  width: 8rem;
+}
+
+.form-radio-buttons {
+  label {
+    margin-top: 1em;
+  }
+  > input[type="radio"] + label::before {
+    display: block;
+    float: left;
+    margin-left: -1.7em;
+    margin-top: 0.25em;
+    margin-right: 0;
+    pointer-events: none;
+  }
+  > input[type="radio"] + label {
+    margin-left: 1.7em;
+  }
+}
+
+.form-required-span {
+  color: $color-secondary-dark;
+  margin: 0 0.35em;
+}
+
+.form-checkbox {
+  // There's a too-broad type selector in USWDS that causes checkbox
+  // inputs to have a ridiculously wide, yet invisible click area in some browsers.
+  // See 18F/web-design-standards#1490
+  // This fixes things in the meantime.
+  [type="checkbox"] {
+    height: 1.8rem !important;
+    margin: 0;
+    width: 1.8rem !important;
+  }
+  > input[type="checkbox"] + label::before {
+    display: block;
+    float: left;
+    margin-left: -1.7em;
+    margin-top: 0.14em;
+    margin-right: 0;
+    pointer-events: none;
+  }
+  > input[type="checkbox"] + label {
+    margin-left: 1.7em;
+  }
+}
+
+.form-field-alert label {
+  margin-top: 0.5em;
+}
+
+.form-error-date {
+  margin-top: 0;
+}
+
+@include media($medium-large-screen) {
+  .form-select-medium {
+    max-width: 12rem;
+  }
+}
+
+.form-expanding-group-active-radio {
+  margin-left: 28px;
+}
+
+.form-expanding-group-active-radio.form-expanding-group-inner-enter,
+  .form-expanding-group-active-radio.form-expanding-group-inner-leave-active {
+	margin-top: -16px;
+}
+
+.form-expanding-group-inner-leave {
+  max-height: 800px;
+  opacity: 1;
+  margin-top: 0;
+}
+
+.form-expanding-group-inner-enter {
+  opacity: 0;
+  max-height: 0;
+}
+
+.form-expanding-group-inner-leave.form-expanding-group-inner-leave-active {
+  -webkit-transition: margin-top 500ms 0ms, max-height 300ms 0ms, opacity 300ms 0ms;
+  transition: margin-top 500ms 0ms, max-height 300ms 0ms, opacity 300ms 0ms;
+  max-height: 0;
+  opacity: 0;
+}
+
+.form-expanding-group-inner-enter.form-expanding-group-inner-enter-active {
+  -webkit-transition: margin-top 300ms 0ms, max-height 700ms 0ms, opacity 500ms 200ms;
+  transition: margin-top 300ms 0ms, max-height 700ms 0ms, opacity 500ms 200ms;
+  max-height: 800px;
+  opacity: 1;
+  margin-top: 0 !important;
+}
+
+.form-expanding-group > span {
+  .usa-input-error {
+    padding-left: calc(1.5rem - 6px);
+    right: calc(1.9rem - 6px);
+  }
+  .schemaform-expandUnder-indent {
+    .usa-input-error {
+      padding-left: 1.5rem;
+      right: 1.9rem;
+    }
+  }
+}
+
+.form-expanding-group {
+  margin-left: -2rem;
+  padding-left: 2rem;
+}
+
+.form-expanding-group-open {
+  padding-left: calc(2rem - 7px);
+  border-left: 7px solid $color-primary-alt-light;
+
+  // Avoid nested expanding group borders
+  .form-expanding-group-open {
+    border-left-color: transparent;
+  }
+}
+
+.form-expanding-group-plus {
+  position: relative;
+  &::after{
+    content: "+";
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+}
+
+.form-expanding-group-open.form-expanding-group-plus::after {
+    content: "-";
+}
+
+.form-errorable-group {
+  > .usa-input-error {
+    label {
+      margin-top: 3rem;
+    }
+    .usa-input-error-label {
+      margin-top: 0;
+    }
+    .usa-input-error-message {
+      margin-bottom: -2rem;
+    }
+  }
+}

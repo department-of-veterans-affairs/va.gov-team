@@ -1,0 +1,8 @@
+label: IconUser
+status: wip
+
+context:
+  componentSourcePath: 'IconUser.jsx'
+  color: '#000000'
+  cssClass: 'a-class'
+  id: 'user'

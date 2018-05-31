@@ -1,0 +1,11 @@
+label: Errorable Select
+status: wip
+
+context:
+  componentSourcePath: './ErrorableSelect.jsx'
+  errorMessage: "This is the error message"
+  label: 'select label'
+  name: "Attribute name"
+  options: ['first option', 'second option', 'third option']
+  required: true
+  value: {value: 'Value', dirty: true}

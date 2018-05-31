@@ -1,0 +1,13 @@
+label: Errorable Number Input
+status: wip
+
+context:
+  componentSourcePath: './ErrorableNumberInput.jsx'
+  errorMessage: 'Error message'
+  label: 'Please pick a number'
+  placeholder: 'Numbers are between 1 and 10'
+  name: 'Name'
+  min: 1
+  max: 10
+  field:
+    dirty: false

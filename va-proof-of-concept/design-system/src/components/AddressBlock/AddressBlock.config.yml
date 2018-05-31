@@ -1,0 +1,14 @@
+label: Address block
+status: wip
+preview: '@vets-l2'
+order: 16
+
+context:
+  address:
+    name: "Department of Veterans Affairs Claims Intake Center"
+    attn: "Attention: C-123 Claims"
+    street_one: "PO Box 5088"
+    street_two:
+    city: Janesville
+    state: WI
+    zip: 53547-5088

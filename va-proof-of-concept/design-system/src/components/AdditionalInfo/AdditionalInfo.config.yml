@@ -1,0 +1,7 @@
+label: Additional Info / Tooltip
+status: wip
+order: 17
+
+context:
+  componentSourcePath: './AdditionalInfo.jsx'
+  triggerText: 'Additional Information'

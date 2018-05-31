@@ -1,0 +1,107 @@
+// VA-specific table styles
+table {
+  border: none;
+  text-align: left;
+  font-size: .85em;
+
+  @include media($medium-screen) {
+    font-size: 1em;
+  }
+}
+
+thead {
+  td {
+    background-color: $color-gray-lightest;
+  }
+}
+
+caption {
+  text-align: left;
+  padding: 0 0 .25em;
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+td,
+th {
+  padding-top: .8em;
+  padding-bottom: .8em;
+  padding-left: .8em;
+}
+
+th {
+  span {
+    font-weight: normal;
+  }
+}
+
+tr {
+  background: $color-white !important;
+}
+
+// Use when a table needs to overflow a container horizontally
+.va-table-overflow {
+  overflow: auto;
+  width: 100%;
+
+  td {
+    vertical-align: top;
+  }
+}
+
+// Tables with rows that are sortable by the headers.
+.va-sortable-table {
+  th {
+    & > a {
+      color: $color-gray-dark;
+      text-decoration: none;
+
+      & > i {
+        margin-left: 1rem;
+      }
+    }
+  }
+}
+
+// Tables that transform into lists when viewed in a smaller screen.
+.va-table-list {
+  // Get font size to stay the same when table shrinks.
+  font-size: 1.6rem;
+
+  @media (max-width: $medium-screen) {
+    thead {
+      left: -9999rem;
+      position: absolute;
+      top: -9999rem;
+    }
+
+    tbody {
+      display: block;
+    }
+
+    tr {
+      display: block;
+
+      // Line between every row. No border above first row.
+      &:nth-child(n+2) {
+        border-top: 1px solid $color-gray-light;
+      }
+    }
+
+    td {
+      display: table-row;
+      border: none;
+    }
+  }
+}
+
+// Use for tables that contain long blocks of text to explain things
+// ex: https://www.vets.gov/education/gi-bill/survivors-dependent-assistance/
+.va-table-explanatory {
+  td, th[scope=row] {
+    vertical-align: top;
+  }
+  ul, ol {
+    margin: 0;
+  }
+}

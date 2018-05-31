@@ -1,0 +1,6 @@
+label: Progress bar
+status: wip
+
+context:
+  componentSourcePath: 'ProgressBar.jsx'
+  percent: 35

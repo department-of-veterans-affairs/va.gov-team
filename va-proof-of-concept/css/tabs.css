@@ -1,0 +1,308 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* ----------------------------------- tab styles -------------------------------------------- */
+
+/* root element for tabs  */
+
+.tab-accord {
+    list-style: none;
+    margin: 0 !important;
+    padding: 0;
+    border-bottom: 1px solid #E6e6e6;
+}
+
+.imagespace {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 3px solid #E0E9F0;
+}
+.imagespace_rt {
+    float: right;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    border: 3px solid #E0E9F0;
+}
+
+/* single tab */
+.tab-accord .tab {
+    text-indent: 0;
+    padding: 0;
+    margin: 0 !important;
+    list-style: none !important;
+}
+
+/* link inside the tab. uses a background image */
+
+.tab-accord .tab a {
+    font-size: .9em;
+    display: block;
+    height: 40px;
+    line-height: 38px;
+    text-align: center;
+    text-decoration: none;
+    color: #666;
+    padding: 0;
+    margin: 0 0 -1px 0;
+	outline:none;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: 700;
+	border:1px solid #CECECE;
+	background: #e6e6e6; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2U2ZTZlNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlY2VjZWMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #e6e6e6 0%, #ececec 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e6e6e6), color-stop(100%,#ececec)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #e6e6e6 0%,#ececec 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #e6e6e6 0%,#ececec 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #e6e6e6 0%,#ececec 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #e6e6e6 0%,#ececec 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e6e6e6', endColorstr='#ececec',GradientType=0 ); /* IE6-8 */
+
+}
+
+.tab-accord .tab a:active {
+    outline: none;
+}
+
+/* when mouse enters the tab move the background image */
+.tab-accord .tab a:hover {
+	background:#cccccc;
+    color: #fff;
+}
+
+/* active tab uses a class name "current". its highlight is also done by moving the background image. */
+.tab-accord .tab a.current,
+.tab-accord .tab a.current:hover,
+.tab-accord .tab.current .tab a {
+	cursor: default !important;
+	color: #666 !important;
+	background: #ffffff; /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNlY2VjZWMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  #ffffff 0%, #ececec 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#ececec)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#ececec 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 0%,#ececec 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 0%,#ececec 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ffffff 0%,#ececec 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ececec',GradientType=0 ); /* IE6-8 */
+
+}
+
+/* initially all panes are hidden */
+.panes .pane {
+    display: none;
+}
+
+.tab-accord .pane {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+/*    background: -moz-linear-gradient(center top , #F4F4F4 0%, #FFFFFF 100%) repeat scroll 0 0 transparent; */
+background: #f6f6f6; /* Old browsers */
+
+background: -moz-linear-gradient(top,  #f6f6f6 0%, #f4f4f4 100%); /* FF3.6+ */
+
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f6f6f6), color-stop(100%,#f4f4f4)); /* Chrome,Safari4+ */
+
+background: -webkit-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* Chrome10+,Safari5.1+ */
+
+background: -o-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* Opera 11.10+ */
+
+background: -ms-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* IE10+ */
+
+background: linear-gradient(to bottom,  #f6f6f6 0%,#f4f4f4 100%); /* W3C */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f6f6', endColorstr='#f4f4f4',GradientType=0 ); /* IE6-9 */
+
+    border: 1px solid #CECECE;
+    border-bottom:none;
+	border-top:none;
+    font-size: 14px;
+    min-height: 300px;
+    padding: 15px 10px;
+	clear:both;
+}
+
+.panes > div {
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+/*    background: -moz-linear-gradient(center top , #F4F4F4 0%, #FFFFFF 100%) repeat scroll 0 0 transparent; */
+background: #f6f6f6; /* Old browsers */
+
+background: -moz-linear-gradient(top,  #f6f6f6 0%, #f4f4f4 100%); /* FF3.6+ */
+
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f6f6f6), color-stop(100%,#f4f4f4)); /* Chrome,Safari4+ */
+
+background: -webkit-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* Chrome10+,Safari5.1+ */
+
+background: -o-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* Opera 11.10+ */
+
+background: -ms-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* IE10+ */
+
+background: linear-gradient(to bottom,  #f6f6f6 0%,#f4f4f4 100%); /* W3C */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f6f6', endColorstr='#f4f4f4',GradientType=0 ); /* IE6-9 */
+
+
+    border-color: -moz-use-text-color #E6E6E6 #E6E6E6;
+    border-right: 1px solid #E6E6E6;
+    border-bottom:1px solid #E6E6E6;
+    border-left:1px solid #E6E6E6;
+	border-style: none solid solid;
+    border-width: medium 1px 1px;
+    display: none;
+    font-size: 14px;
+    min-height: 300px;
+    padding: 15px 10px;
+    width: 458px; 
+}
+
+
+#innerRightContent #tabContent {
+    width: 190px;
+}
+
+#innerRightContent .tab-accord {
+	width: 184px; 
+}
+
+#innerRightContent .panes {
+	width: 184px; 
+}
+
+
+@media (min-width: 768px) {	
+	/* single tab */
+	.tab-accord .tab {
+		float: left;
+	}
+	.tab-accord .tab a {
+		font-size: .9em;
+		display: block;
+		height: 40px;
+		line-height: 40px;
+	/*    width: 128px; */
+		width: 174px;
+		text-align: center;
+		text-decoration: none;
+		color: #666;
+		padding: 0;
+		margin: 0;
+		margin-right:2px;
+		position: relative;
+		top: 1px;
+		border:none;
+		background-image: url("/va_files/2014/responsive/images/tabs.png") !important;
+		background-repeat: no-repeat;
+	/*    background-position: -420px 0; */
+		background-position: -246px 0;
+		font-family: Georgia, "Times New Roman", Times, serif;
+		font-weight: 700;
+	}
+
+	.tab-accord .tab a:active {
+		outline: none;
+	}
+
+	/* when mouse enters the tab move the background image */
+	.tab-accord .tab a:hover {
+	/*    background-position: -420px -41px; */
+		background-image: url("/va_files/2014/responsive/images/tabs.png");
+		background-color:transparent;
+		background-position: -246px -41px;
+		color: #fff;
+	}
+	/* Different widths for tabs: use a class name: w1, w2, w3 or w2 */
+	/* width 1 */
+	.tab-accord .tab a.s {
+		background-position: -548px -4;
+		width: 86px;
+	}
+
+	.tab-accord .tab a.s:hover {
+		background-position: -548px -41px;
+	}
+
+	.tab-accord .tab a.s.current {
+		background-position: -548px -84px;
+	}
+
+	/* width 2 */
+	.tab-accord .tab a.l {
+		background-position: -246px 0;
+		width: 174px;
+	}
+
+	.tab-accord .tab a.l:hover {
+		background-position: -246px -41px;
+	}
+
+	.tab-accord .tab a.l.current {
+		background-position: -246px -82px;
+	}
+
+	/* width 3 */
+	.tab-accord .tab a.xl {
+		background-position: 0 0;
+		width: 248px;
+	}
+
+	.tab-accord .tab a.xl:hover {
+		background-position: 0 -41px;
+	}
+
+	.tab-accord .tab a.xl.current {
+		background-position: 0 -82px;
+	}
+	.tab-accord .tab a.s {
+		background-position: -548px -4;
+		width: 86px;
+	}
+
+	.tab-accord .tab a.s:hover {
+		background-position: -548px -41px;
+	}
+
+	.tab-accord .tab a.s.current {
+		background-position: -548px -84px;
+	}
+
+	/* width 4 */
+	.tab-accord .tab a.m {
+		background-position: -419px 0;
+		width: 130px;
+	}
+
+	.tab-accord .tab a.m:hover {
+		background-position: -419px -41px;
+	}
+
+	.tab-accord .tab a.m.current {
+		background-position:-419px -84px;
+	}
+	
+	.tab-accord .pane {
+		-moz-border-bottom-colors: none;
+		-moz-border-image: none;
+		-moz-border-left-colors: none;
+		-moz-border-right-colors: none;
+		-moz-border-top-colors: none;
+		border-color: -moz-use-text-color #E6E6E6 #E6E6E6;
+		border-right: 1px solid #E6E6E6;
+		border-bottom:1px solid #E6E6E6;
+		border-left:1px solid #E6E6E6;
+		border-style: none solid solid;
+		border-width: medium 1px 1px;
+		border-top: 1px solid #E6e6e6;
+	}
+}

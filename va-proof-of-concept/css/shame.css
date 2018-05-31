@@ -1,0 +1,33 @@
+/* logo size override */
+.va-header-logo {
+  width: 264px;
+  height: auto; }
+
+/* new pattern? where we use old VA icons with h3 */
+.va-icon-header {
+  width: 100%;
+  height: 40px;
+  margin-left: -6px; }
+  .va-icon-header .va-icon-icon {
+    margin: 0;
+    padding: 0;
+    display: inline;
+    float: left;
+    width: 12%;
+    height: auto; }
+  .va-icon-header .va-icon-h {
+    display: inline;
+    width: 87%; }
+
+.va-icon-cols {
+  padding-bottom: 3em; }
+  .va-icon-cols p {
+    margin-top: 0; }
+
+.row {
+  padding-top: 3em; }
+
+#footer-first-child {
+  margin-top: 2em; }
+
+/*# sourceMappingURL=shame.css.map */

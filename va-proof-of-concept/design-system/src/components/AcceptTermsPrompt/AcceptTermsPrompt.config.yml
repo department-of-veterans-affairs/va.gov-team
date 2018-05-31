@@ -1,0 +1,6 @@
+label: Accept Terms Prompt
+status: wip
+order: 20
+
+context:
+  componentSourcePath: './AcceptTermsPrompt.jsx'

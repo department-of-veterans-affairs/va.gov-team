@@ -1,0 +1,16 @@
+<div class="Browser-panel Browser-props" data-role="tab-panel" id="browser-{{ entity.id }}-panel-props">
+    <div class="Prose Prose--condensed">
+        <table>
+          <tr><th>Prop</th><th>Required?</th><th>Type</th><th>Default</th><th>Description</th></tr>
+          {% for prop in entity | generateProps %}
+            <tr>
+              <td>{{ prop.name }}</td>
+              <td>{{ prop.required }}</td>
+              <td>{{ prop.type }}</td>
+              <td>{{ prop.defaultValue.value }}</td>
+              <td>{{ prop.description }}</td>
+            </tr>
+          {% endfor %}
+        </table>
+    </div>
+</div>

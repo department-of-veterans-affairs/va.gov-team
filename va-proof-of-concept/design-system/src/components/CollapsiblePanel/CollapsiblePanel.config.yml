@@ -1,0 +1,7 @@
+label: Collapsible Panel
+status: wip
+order: 18
+
+context:
+  componentSourcePath: 'CollapsiblePanel.jsx'
+  panelName: 'Collapsible Panel'

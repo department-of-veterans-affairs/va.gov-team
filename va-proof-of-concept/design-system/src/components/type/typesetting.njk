@@ -1,0 +1,11 @@
+<div class="usa-grid">
+
+  {% if( name != 'Intro Text') and  (name != 'Standard paragraph') %}
+    <{{ name }}>{{ label }}</{{ name }}>
+  {% else %}
+    <div class="{{ class }}">
+      <p>{{ label }}</p>
+    </div>
+  {% endif %}
+
+</div>

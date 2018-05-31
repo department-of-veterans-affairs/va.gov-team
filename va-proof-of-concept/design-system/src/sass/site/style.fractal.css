@@ -1,0 +1,30 @@
+.fractal-vets-logo {
+  display: block;
+  height: inherit;
+  width: inherit; }
+  .fractal-vets-logo path, .fractal-vets-logo rect {
+    fill: white; }
+
+.Header {
+  color: #ffffff;
+  background-color: #112e51; }
+  .Header .f-pipe {
+    font-size: 3rem; }
+  .Header h2 {
+    color: #ffffff; }
+
+.Header-navToggle svg {
+  fill: #ffffff; }
+
+.Frame-panel {
+  background-color: #ffffff; }
+
+/* .Tree {
+  border:1px solid orange;
+
+  .Status-dots {
+    border:1px solid red;
+  }
+}*/
+
+/*# sourceMappingURL=style.fractal.css.map */

@@ -1,0 +1,14 @@
+import React from 'react';
+import ProgressButton from './ProgressButton';
+
+export default function ProgressButtonExample(props) {
+  return (
+    <ProgressButton
+      buttonText={props.buttonText}
+      buttonClass={props.buttonClass}
+      beforeText={props.beforeText}
+      afterText={props.afterText}
+      disabled={false}
+      submitButton={false}/>
+  );
+}

@@ -1,0 +1,32 @@
+import React from 'react';
+import ErrorableMonthYear from './ErrorableMonthYear';
+import { makeField } from '../../../../helpers/fields.js';
+
+export default class ErrorableMonthYearExample extends React.Component {
+
+  constructor(props) {
+    super();
+
+    this.state = props;
+  }
+
+  handleChange = (value) => {
+    this.setState({
+      month: value.month.value,
+      year: value.year.value
+    })
+  }
+
+  render() {
+    const date = {
+      month: makeField(this.state.month.toString()),
+      year: makeField(this.state.year.toString())
+    };
+    return (
+      <ErrorableMonthYear
+        required
+        date={date}
+        name='ErrorableMonthYear'
+        onValueChange={this.handleChange} />);
+  }
+};

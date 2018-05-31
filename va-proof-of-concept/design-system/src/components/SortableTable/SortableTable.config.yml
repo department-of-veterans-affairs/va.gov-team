@@ -1,0 +1,36 @@
+label: Sortable Table
+status: wip
+order: 15
+
+context:
+  componentSourcePath: 'SortableTable.jsx'
+  className: 'va-table'
+  currentSort:
+    value: 'String'
+    order: ASC
+  fields: [
+    {
+      label: 'Label 1',
+      value: '1' },
+    {
+      label: 'Label 2',
+      value: '2' },
+    {
+      label: 'Label 3',
+      value: '3' }]
+  data: [
+    {
+      id: 1,
+      values: [1, 2, 3],
+      rowClass: 'class'
+    },
+    {
+      id: 2,
+      values: [1, 2, 3],
+      rowClass: 'class'
+    },
+    {
+      id: 3,
+      values: [1, 2, 3],
+      rowClass: 'class'
+    }]

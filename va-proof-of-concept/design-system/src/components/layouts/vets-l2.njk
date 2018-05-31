@@ -1,0 +1,33 @@
+<!--
+Should display with header, footer, no sidenav
+-->
+
+{% extends '_uswds.njk' %}
+
+{% block body %}
+
+{% include '@header' %}
+
+{% render '@breadcrumbs' %}
+
+<div class="usa-grid">
+  <nav class="usa-width-one-fourth va-sidebarnav">
+    {% render '@sidenav' %}
+  </nav>
+
+  <div class="usa-width-three-fourths">
+
+    {% render '@typesetting--h1' %}
+    {% render '@typesetting--introtext' %}
+    
+    {{ yield }}
+
+  </div>
+
+  PAGINATION GOES HERE
+
+</div>
+
+{% include '@footer' %}
+
+{% endblock %}

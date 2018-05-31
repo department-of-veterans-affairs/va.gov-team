@@ -1,0 +1,64 @@
+@charset "UTF-8";
+// Note: if you add variable files in here, make sure you updated shared-variables.scss
+
+//============ VENDOR PARTIALS ==============//
+@import "../../node_modules/uswds/src/stylesheets/lib/bourbon";
+@import "../../node_modules/uswds/src/stylesheets/lib/neat";
+@import "../../node_modules/uswds/src/stylesheets/lib/normalize"; // Currently 3.0.3
+
+@import "../../node_modules/foundation-sites/scss/foundation/components/grid";
+@import "../../node_modules/foundation-sites/scss/foundation/components/block-grid";
+@import "../../node_modules/foundation-sites/scss/foundation/components/visibility";
+
+// Font Awesome WOFF/WOFF2 fonts only
+@import "../../node_modules/font-awesome/scss/variables";
+@import "../../node_modules/font-awesome/scss/core";
+@import "../../node_modules/font-awesome/scss/icons";
+@font-face {
+  font-family: "FontAwesome";
+  src: url("../../node_modules/font-awesome/fonts/fontawesome-webfont.woff2") format("woff2"),
+       url("../../node_modules/font-awesome/fonts/fontawesome-webfont.woff") format("woff"),
+       url("../../node_modules/font-awesome/fonts/fontawesome-webfont.eot") format("eot");
+  font-weight: normal;
+  font-style: normal;
+}
+
+// ============ SETTINGS ============//
+// Order matters here! Please don't change it.
+@import "../../node_modules/uswds/src/stylesheets/core/variables";
+
+// A VA partial. Here so that we can override the
+// USWDS breakpoint and grid variables from above before
+// the grid, alerts, etc are loaded.
+@import "base/b-variables";
+@import "base/b-breakpoints";
+
+@import "../../node_modules/uswds/src/stylesheets/core/fonts";
+@import "../../node_modules/uswds/src/stylesheets/core/grid";
+@import "../../node_modules/uswds/src/stylesheets/core/utilities";
+@import "../../node_modules/uswds/src/stylesheets/core/base";
+
+// ---- U.S. WEB DESIGN STANDARDS ELEMENTS/COMPONENTS --- //
+@import "../../node_modules/uswds/src/stylesheets/elements/buttons";
+@import "../../node_modules/uswds/src/stylesheets/elements/inputs";
+@import "../../node_modules/uswds/src/stylesheets/elements/labels";
+@import "../../node_modules/uswds/src/stylesheets/elements/list";
+@import "../../node_modules/uswds/src/stylesheets/elements/table";
+@import "../../node_modules/uswds/src/stylesheets/elements/typography";
+@import "../../node_modules/uswds/src/stylesheets/components/accordions";
+@import "../../node_modules/uswds/src/stylesheets/components/alerts";
+@import "../../node_modules/uswds/src/stylesheets/components/forms";
+@import "../../node_modules/uswds/src/stylesheets/components/sidenav";
+@import "../../node_modules/uswds/src/stylesheets/components/media-block";
+@import "../../node_modules/uswds/src/stylesheets/components/banner";
+
+// ----- VA BASE (VARIABLES/HELPERS) ---- //
+@import "base/b-element-overrides";
+@import "base/b-mixins";
+@import "base/b-functions";
+@import "base/b-utils";
+@import "base/b-font-faces";
+
+// ----- VA GENERAL (MAIN FILE/OTHER) ---- //
+@import "base/va";
+@import "base/focus";

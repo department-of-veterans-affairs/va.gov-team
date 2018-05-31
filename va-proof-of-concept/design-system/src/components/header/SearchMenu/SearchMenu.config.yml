@@ -1,0 +1,8 @@
+label: Search Menu
+status: wip
+preview: '@uswds'
+
+context:
+  componentSourcePath: 'SearchMenu.jsx'
+  id: default
+  title: 'Default SearchMenu'

@@ -1,0 +1,10 @@
+import React from 'react';
+import PrivacyAgreement from './PrivacyAgreement';
+
+export default function PrivacyAgreementExample(props) {
+  return (
+    <PrivacyAgreement
+      onChange={(e) => {e.target.checked}}
+      {...props}/>
+  );
+}

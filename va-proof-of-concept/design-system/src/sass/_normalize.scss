@@ -1,0 +1,12 @@
+// Ideally all of this will go in uswds/src/stylesheets/lib/normalize, but until
+//  it does, normalizing css goes in here.
+
+dl {
+  display: block;
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

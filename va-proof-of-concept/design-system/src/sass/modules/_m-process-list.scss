@@ -1,0 +1,97 @@
+//=====================================
+// Process list with a connected
+// "subway map" line
+// Should only be used with ol elements
+// Also see l-playbook for a variation of these styles.
+//======================================
+
+@import "~uswds/src/stylesheets/core/utilities";
+
+.process {
+  list-style: none;
+  padding: 1em 0;
+  position: relative;
+
+  h2, h3, h4, h5 {
+    margin-top: 0;
+    font-size: $h4-font-size;
+    clear: none;
+    padding-top: 0.3em;
+  }
+
+  // Exception for when the paragraph is the
+  // lone child. Mostly found in Playbook.
+  p {
+    padding: 0;
+    margin-top: 0;
+
+    &:only-of-type {
+      margin-top: 0;
+    }
+
+    &.va-address-block {
+      padding-left: 1rem;
+    }
+  }
+
+  ul {
+    margin: 0 0 1em 1.25em !important;
+    padding: 0;
+
+    li {
+      list-style: square;
+      margin: 0;
+      padding: .1em 0;
+    }
+  }
+}
+
+.process-step {
+  border-left: 8px solid $color-gray-light;
+  padding: 0 0 2em 2em;
+  list-style: none;
+  margin: 0 !important;
+
+  &:before {
+    color: $color-white;
+    float: left;
+    font-size: 1.3em;
+    font-weight: 700;
+    text-align: center;
+    width: 2em;
+    top: -0.2em;
+    margin-left: -2.7em;
+    display: block;
+    border: 4px solid $color-white;
+    background: $olso-gray;
+    border-radius: 4em;
+    position: relative;
+  }
+
+  &:last-child {
+    border-left: 0;
+    padding-left: calc(2em + 8px);
+  }
+
+}
+
+.list-one:before {content: "1";}
+.list-two:before {content: "2";}
+.list-three:before {content: "3";}
+.list-four:before {content: "4";}
+.list-five:before {content: "5";}
+.list-six:before {content: "6";}
+.list-seven:before {content: "7";}
+.list-eight:before {content: "8";}
+.list-nine:before {content: "9";}
+.list-ten:before {content: "10";}
+.list-eleven:before {content: "11";}
+.list-twelve:before {content: "12";}
+.list-thirteen:before {content: "13";}
+.list-fourteen:before {content: "14";}
+.list-fifteen:before {content: "15";}
+.list-sixteen:before {content: "16";}
+.list-seventeen:before {content: "17";}
+.list-eighteen:before {content: "18";}
+.list-nineteen:before {content: "19";}
+.list-twenty:before {content: "20";}

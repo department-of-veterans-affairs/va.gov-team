@@ -1,0 +1,1497 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: $em-base;
+  font-weight: 500;
+}
+
+body {
+  background: $color-white;
+  color: $color-gray-dark;
+  // font-family: $font-sans;
+  font-size: $base-font-size;
+  font-family: inherit;
+
+  &.modal-open {
+    overflow: hidden;
+  }
+}
+
+// Skip link
+.show-on-focus {
+  position: absolute;
+  top: -10em;
+  background: $color-white;
+  padding: 1em;
+  margin: 1em;
+  color: $color-primary-darkest;
+  display: block;
+  font-weight: 600;
+
+  &:focus {
+    position: inherit;
+    top: auto;
+    outline: 2px solid $color-gold;
+  }
+}
+
+// row
+body .row.full {
+  width: 100%;
+  max-width: 100%;
+}
+
+// Screen Readers
+
+.sr-only {
+  position: absolute;
+  left: -9999em;
+  float: left;
+}
+
+// Remove from print view, incidentally removes from screen readers as well
+.no-print-no-sr {
+  display: none !important;
+}
+
+// Abbr
+
+abbr {
+  border-bottom: 0px !important;
+  text-decoration: none;
+  font-weight: inherit;
+  font-style: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+a {
+  color: $color-link-default;
+  text-decoration: underline;
+
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+
+  -webkit-transition-timing-function: ease-in-out;
+  transition-timing-function: ease-in-out;
+
+  // Transition only these properties.
+  -webkit-transition-property: color, background-color, border-color;
+  transition-property: color, background-color, border-color;
+
+  &:hover {
+    background-color: $color-link-default-hover;
+    color: inherit;
+    text-decoration: underline;
+  }
+  &:active {
+    background: $color-link-default-hover;
+  }
+  &:visited {
+    color: $color-visited;
+  }
+}
+
+// ====== Headings
+
+// H1 should only be used once at the top-level, so we can safely remove the margin-top.
+h1 {
+  margin-top: 0;
+}
+
+h6 {
+  margin: 0.5em 0 0;
+  text-transform: none;
+  font-weight: 700;
+}
+
+//======= Lists
+ul {
+  padding: 0 0 0 1.5em;
+  list-style: square;
+}
+
+ol {
+  margin: 0 0 0 1.25em;
+  list-style-position: outside;
+}
+
+ul,
+ol {
+  > ul,
+  ol {
+    margin: 0.5em 0 0.5em 1.2em;
+  }
+}
+
+// Definition lists
+dd {
+  margin-left: 0;
+}
+
+dd + dt {
+  margin-top: 1.5em;
+}
+
+// Figure / Caption
+figure {
+  font-size: 0.85em;
+  margin-left: -$column-gutter/2;
+  margin-right: -$column-gutter/2;
+
+  @include media($large-screen) {
+    margin-left: -16.66667%;
+    margin-right: -16.66667%;
+  }
+}
+
+figcaption {
+  color: $color-primary-darker;
+}
+
+input::-webkit-input-placeholder {
+  color: $color-gray;
+}
+input::-moz-placeholder {
+  color: $color-gray;
+}
+
+input:-ms-input-placeholder {
+  color: $color-gray;
+}
+
+// Visually clear placeholder text on focus
+input:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+
+input:focus::-moz-placeholder {
+  color: transparent;
+}
+
+input:focus:-ms-input-placeholder {
+  color: transparent;
+}
+
+input.va-input-medium-large {
+  max-width: 18rem;
+}
+
+// TODO(crew): Remove this at some point. Fix this by using JS for title casing or passing nav labels as an object.
+.text-capitalize {
+  text-transform: capitalize;
+}
+
+hr {
+  margin: 2.5em 0;
+  margin: 3rem 0 2.5rem;
+  border: 1px solid $color-gray-light;
+}
+
+// Default table width to being 100%
+table {
+  width: 100%;
+}
+
+// Utility classes
+// TODO(css): Move these into a partial once there are enough
+.va-util-rel,
+.va-pos-rel {
+  position: relative;
+}
+
+.va-pos-fixed {
+  position: fixed;
+}
+
+// Adds external icon to all links that begin
+// with http (including https)
+// Using this selector makes it easier for the content team to write content
+[href^="http"],
+[rel="external"] {
+  @include exit-icon;
+}
+
+// Logo and Header
+.header {
+  background: $color-primary-darkest;
+  color: $color-white;
+  clear: both;
+  margin: 0;
+  padding: 0;
+
+  // Without this value the navbar will look the same in the end but this keeps the navbar's height from expanding/blinking
+  // right as the navbar elements are rendered on screen during page load.
+  // This is the height on mobile fyi.
+  min-height: 189.19px;
+
+  // This sets the height of the header on large mobile devices between 480 and 768.
+  @include media($small-screen) {
+    min-height: 167.19px;
+  }
+
+  @include media($medium-screen) {
+    position: relative;
+    // Same reason as the comment above, only the value has been adjusted to be the height of the navbar for tablet/desktop.
+    min-height: 159px;
+  }
+
+  .login-container {
+    z-index: 2;
+    background: $color-primary-darkest;
+    flex-wrap: wrap;
+    white-space: nowrap;
+
+    .row {
+      padding: 0;
+    }
+
+    @include media($medium-large-screen) {
+      flex: 1 0 100%;
+    }
+  }
+}
+
+#va-header-logo-menu {
+  flex-wrap: wrap;
+  padding: 1em 0.75em 0;
+
+  @include media($medium-large-screen) {
+    padding-bottom: 0;
+  }
+}
+
+.va-header-logo-wrapper {
+  flex: 1 0 164px;
+
+  @include media($medium-large-screen) {
+    flex-basis: 6rem;
+  }
+}
+
+// Also see l-playbook for more styles
+.va-header-logo {
+  background-color: transparent;
+  border-bottom: none;
+  display: block;
+  height: 40px;
+  //padding-left: .5rem;
+  margin: 0;
+  width: 164px;
+
+  &:hover {
+    .vets-logo-va path {
+      fill: $color-gold;
+    }
+  }
+}
+
+.va-header-search-widescr {
+  display: none;
+  line-height: 1em;
+  margin: 0;
+
+  @include media($medium-large-screen) {
+    display: inherit;
+    flex: 1 1 80%;
+  }
+}
+
+.vets-logo {
+  display: block;
+  height: inherit;
+  width: inherit;
+
+  &-vetsdotgov,
+  &-va {
+    path,
+    rect {
+      fill: $color-white;
+    }
+  }
+}
+
+article > h1 {
+  margin-top: 0;
+}
+
+.text-center {
+  text-align: center;
+}
+
+// Banner
+
+#content {
+  margin: 0;
+  padding: 0;
+  color: $color-gray-dark;
+  overflow: hidden;
+}
+
+.va-facloc-tagline {
+  color: $color-white;
+  // font-family: $font-sans;
+  margin: 0.5em 0 1em 0 !important;
+}
+
+// TODO(css): Remove .feature-list ul once it"s
+// refactored from the Markdown
+.feature-list ul,
+.va-list--feature {
+  margin: 0;
+  padding: 0;
+  list-style: none outside;
+
+  li {
+    border-bottom: 1px solid $color-gray-light;
+    padding: 1em 0;
+
+    &:last-of-type {
+      border-bottom: none;
+    }
+  }
+
+  a {
+    font-weight: bold;
+  }
+}
+
+.primary {
+  p {
+    padding-top: 0;
+    margin-top: 0;
+  }
+}
+
+// This is a copy of USWDS's .usa-font-lead style
+// https://github.com/18F/web-design-standards/blob/develop/src/stylesheets/elements/_typography.scss#L164
+.va-introtext {
+  font-family: $font-serif;
+  font-size: $lead-font-size;
+  font-weight: $font-normal;
+  line-height: $lead-line-height;
+  max-width: $lead-max-width;
+}
+
+.secondary {
+  p:nth-child(1),
+  p:first-of-type {
+    color: initial;
+    font-size: 1em;
+    padding: 0;
+  }
+}
+
+// TODO: Integrate USWDS and elements/_typography.scss
+// and eliminate this declaration
+.usa-content {
+  max-width: $text-max-width;
+}
+
+//====================
+// Content callout boxes
+// ===================
+
+.feature {
+  background: $color-primary-alt-lightest;
+  padding: 1em;
+  clear: both;
+  margin: 1.5em 0 1.5em 0;
+
+  p {
+    color: inherit !important;
+    font: inherit !important;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0.5em;
+  }
+
+  h3 {
+    margin-top: 0;
+  }
+  h4 {
+    margin-top: 0;
+  }
+  ul {
+    margin: 0 0 0.5em 1.5em;
+    padding: 0;
+    li {
+      list-style: square;
+      margin: 0;
+    }
+  }
+}
+
+.va-callout {
+  background: $color-primary-alt-lightest;
+  padding: 1em;
+  clear: both;
+  margin: 0 0 1.5em 0;
+
+  dt {
+    color: $color-primary-darkest;
+    font-size: 1.65em;
+    font-weight: bold;
+    margin: 0 0 0.5rem 0;
+  }
+
+  dd {
+    margin-left: 0;
+    padding-left: 0;
+  }
+  ul {
+    margin: 0 0 0.5rem 1.5rem;
+    padding: 0;
+  }
+}
+
+// Usually call out boxes will be definition lists, but
+// sometimes they"re unordered lists.
+ul,
+ol {
+  &.va-callout {
+    li {
+      margin-left: 3rem !important;
+    }
+  }
+}
+
+//====================
+// Home, 404 page, maintenance page
+// ===================
+
+.navigation--major {
+  .va-cards--2across {
+    display: block;
+  }
+
+  .home & {
+    padding: 1.5em 0.5em 4em;
+  }
+}
+
+// Quick Links
+.va-quicklinks {
+  ul {
+    margin-top: 0.8rem;
+  }
+  li {
+    padding: 0.56rem 0;
+  }
+  h3 {
+    line-height: 1.2em;
+    // TODO: Drop the !important when .home #content h3 and
+    // body.fourohfour #content h3 are straightened out.
+    font-size: 1.65em;
+    color: $color-primary-darkest;
+    margin: 0 0 1rem 0;
+    padding: 0 0 0.2em 0;
+  }
+
+  &--commpop {
+    padding-bottom: 6.4rem;
+  }
+}
+
+.maintenance-page {
+  padding-top: 3.2rem;
+
+  .text-center {
+    margin: auto;
+  }
+}
+
+.faq-page {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+
+//========================
+// 404 page only
+//========================
+
+#search_form {
+  position: relative;
+  width: 100%;
+
+  label {
+    left: -9999rem;
+    position: absolute;
+  }
+
+  [type="text"] {
+    height: 5.7rem;
+    margin: 0;
+    max-width: 100%;
+  }
+
+  [type="submit"] {
+    border-radius: 0 3px 3px 0;
+    height: 5.7rem;
+    margin: 0;
+  }
+}
+
+// Content lead paragraphs
+
+#content.interior .primary {
+  li p:first-of-type,
+  ul + p {
+    font-weight: normal !important;
+    color: $color-gray-dark;
+    font-size: 1em;
+    padding-bottom: 0;
+  }
+}
+
+#content .section.primary {
+  background: none;
+  padding: 2em 0;
+  background: $color-primary;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  li {
+    color: $color-white;
+  }
+  p {
+    color: $color-white;
+  }
+  a {
+    color: $color-white;
+  }
+  ul li {
+    list-style: square;
+  }
+}
+
+#content .section.secondary {
+  padding: 3em 0;
+  h3 {
+    font-size: 2.2em;
+  }
+}
+
+#content .panel {
+  background: $color-gray-lightest;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  clear: both;
+}
+
+// Action
+.action {
+  margin: 0 auto;
+  text-align: left;
+
+  .button {
+    font-size: 1.25em;
+    padding: 1em 3.5em;
+  }
+}
+
+// Breadcrumbs
+.va-nav-breadcrumbs {
+  background: $color-white;
+  color: $color-link-default;
+  font-size: inherit;
+  padding: 1em 0;
+
+  // Gate / Sign-in pages only
+  &--gate {
+    margin-bottom: -1em;
+  }
+
+  li {
+    display: inline-block;
+    margin: 0.25em 0;
+    padding: 0.25em 0 0.25em 0;
+    vertical-align: middle;
+
+    &:after {
+      content: " › ";
+      display: inline-block;
+      padding: 0 0.35em;
+    }
+
+    &:last-child:after {
+      content: "";
+    }
+
+    &.active {
+      font-weight: bold;
+      padding: 0.3em 0;
+
+      &:after {
+        content: "";
+      }
+    }
+  }
+
+  a {
+    color: $color-link-default;
+    display: inline-block;
+    padding: 2px;
+
+    &:hover {
+      background: $color-link-default-hover;
+    }
+  }
+
+  a[aria-current="page"] {
+    color: $color-gray-dark !important;
+    cursor: default;
+    font-weight: bold;
+    pointer-events: none;
+    text-decoration: none;
+  }
+}
+
+.va-nav-breadcrumbs-list {
+  float: none !important;
+  position: relative;
+}
+
+.va-nav-breadcrumbs-list__mobile-link {
+  &::before {
+    content: " \2039 ";
+    display: inline-block;
+    padding: 0 0.15em;
+  }
+}
+
+//===== Playbook and Facility Locator
+.va-nav-breadcrumbs--playbook {
+  background: none;
+  margin: 0 0 1em 0;
+  padding: 0;
+
+  h2 {
+    font-size: 1em;
+  }
+
+  li {
+    text-transform: none;
+    margin: 0.25em 0;
+    padding: 0.1em;
+    display: inline-block;
+    line-height: 1.15em;
+    vertical-align: middle;
+    font-size: 1.35em;
+
+    &:hover {
+      border-bottom: none;
+      text-decoration: none;
+    }
+  }
+
+  .parent {
+    padding-top: 0.5em;
+    margin: 0 0 0.75em 0;
+
+    &:after {
+      content: " › ";
+      display: inline-block;
+      color: $color-white;
+      padding: 0 0.5em;
+    }
+  }
+
+  .active {
+    background: $color-gold;
+    color: $color-black;
+    font: 400 1.35em / 1.15em $font-serif;
+    margin: 0.5em 0;
+    padding: 0.2em;
+
+    @include media($medium-large-screen) {
+      font-size: 1.8em;
+    }
+
+    &:before {
+      content: "";
+      padding: 0;
+      margin: 0;
+    }
+  }
+
+  a {
+    border-bottom: 3px solid $color-white;
+    text-decoration: none !important;
+    color: $color-white;
+    &:hover {
+      text-decoration: none;
+      background: $color-link-default-hover;
+      border-bottom: 3px solid $color-gold;
+    }
+  }
+}
+
+.va-breadcrumbs-heading {
+  font-size: 1em !important;
+}
+//===== General List Styles
+
+li {
+  span.meta {
+    display: inline-block;
+    padding: 0.5em;
+    color: $color-primary-darkest;
+    background: $color-link-default-hover;
+    font-weight: bold;
+    float: right;
+    margin: 0.5em 0 1em 1em;
+  }
+}
+.inline-list {
+  > li {
+    float: left;
+  }
+  > * {
+    display: block;
+  }
+}
+
+//===== Navigation
+.navigation {
+  padding: 1em 0 3em 0;
+  background: $color-gray-lightest;
+  color: $color-primary-darkest;
+  border-bottom: 2px solid $color-white;
+  margin: 0 auto;
+}
+
+// Cards
+[class*="block-grid-"] > li {
+  padding: 0 0.625rem 1.25rem 0.625rem;
+}
+
+// Telephone numbers
+.tel {
+  background: $color-link-default-hover;
+  padding: 0.2em;
+  display: inline-block;
+}
+
+// Information Grid
+
+.information-grid {
+  strong {
+    font-size: 1.3em;
+    color: $color-primary-darkest;
+  }
+
+  p {
+    font-size: 0.9em;
+  }
+
+  div {
+    background: $color-gray-lightest;
+    background: $color-link-default-hover;
+    margin: 0 0 0.5em 0;
+    padding: 0.75em;
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: $color-link-default-hover;
+    }
+  }
+  a {
+    text-decoration: none;
+    border-bottom: 2px solid $color-primary-darkest;
+  }
+}
+
+.text-right {
+  text-align: right;
+}
+
+.primary blockquote {
+  margin: 0 0 1em 0;
+  padding: 0 0 0 1em;
+  border-left: 2px solid $color-gray-lighter;
+  p {
+    color: $color-primary-darker;
+  }
+}
+
+// Notice / feedback banners
+.va-notice--banner {
+  background: $color-white;
+  margin: 0 0 0.75em 0;
+  padding: 0;
+  font-weight: 400;
+
+  @include media($medium-large-screen) {
+    background: $color-gray-lightest;
+    .usa-banner-inner {
+      padding-left: 0;
+    }
+
+    .usa-banner-content {
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  &-inner {
+    margin: auto;
+    max-width: 97.5rem;
+    position: relative;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    background-image: none;
+    color: inherit;
+    padding: 0;
+  }
+}
+
+.incompatible-browser-warning {
+  padding: 0.5em;
+  font-weight: bold;
+  background: $color-gold-lightest;
+  color: $color-black;
+  font-size: 0.9em;
+  display: none;
+
+  &.visible {
+    display: block;
+  }
+}
+
+// Only used in the footer
+.va-notice--banner--alt {
+  background: $color-primary-darker;
+  color: $color-white;
+  padding: 1.25em 0;
+  margin: 1.5em 0 0 0;
+
+  @include media($medium-large-screen) {
+    .usa-grid {
+      padding-left: 0.9375rem;
+      padding-right: 2rem;
+    }
+  }
+}
+
+// Search
+
+.search-button {
+  margin: 1em 0.5em 0 0;
+  padding: 0;
+
+  @include media($xsmall-screen) {
+    float: right;
+    margin-top: 0.1em;
+  }
+}
+
+//===================================
+// Blog-related CSS
+//===================================
+
+// Info cards
+
+.card {
+  position: relative;
+  margin: 0 0 1.5em 0;
+  padding: 1em;
+  border: 1px solid $color-gray-lightest;
+  dt {
+    font-weight: 700;
+  }
+  dd {
+    padding: 0;
+    margin: 0;
+  }
+  &.templates {
+    height: 338px;
+  }
+  &:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+  }
+
+  h4,
+  h5 {
+    margin-top: 0;
+  }
+
+  span {
+    display: block;
+  }
+
+  .number {
+    font-family: $font-serif;
+    font-size: 2em;
+    font-weight: 700;
+    float: left;
+    margin: 0;
+    color: color-primary-darker;
+    line-height: 1em;
+    padding: 0 0 0.5em;
+    border-bottom: 1px solid $color-gray-light;
+  }
+
+  .heading,
+  .description {
+    display: block;
+  }
+
+  .heading {
+    color: $color-primary-alt-darkest;
+    font-size: 0.8em;
+    padding: 0;
+  }
+
+  .description {
+    font-size: 1em;
+    font-weight: 400;
+    padding: 0.3em 0 0;
+    text-align: left;
+    width: 100%;
+    float: left;
+  }
+
+  &.information {
+    background: $color-link-default-hover;
+    padding: 1em;
+  }
+
+  &.info-graphic {
+    border: 1px solid $color-white;
+    background: none;
+    padding: 1em 1em 0;
+    line-height: 2.5;
+    span.number {
+      color: $color-white;
+      display: inline-block;
+    }
+  }
+}
+
+// Actions
+
+.actions {
+  margin: 1em 0;
+}
+
+// Dividers
+
+.divider {
+  &.margin {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+  }
+  &.top {
+    border-top: 1px solid $color-gray-lightest;
+  }
+  &.bottom {
+    border-bottom: 1px solid $color-gray-lightest;
+  }
+}
+
+// Panel list
+.panel-list {
+  background: $color-link-default-hover;
+  padding: 1em;
+  position: relative;
+  min-height: 12em;
+
+  dt {
+    color: $color-primary-darkest;
+    padding: 0;
+    font-weight: 700;
+    font-size: 1.2em;
+  }
+
+  dd {
+    padding: 0;
+    margin: 0;
+  }
+
+  a {
+    margin: 0.5em 0;
+  }
+}
+
+// Highlight headings
+// TODO(css): Consolidate these rules, possibly into a new class name
+.highlight,
+.va-h-ruled {
+  border-bottom: 3px solid $color-primary;
+  padding-bottom: 0.25em;
+  font-weight: 700;
+}
+
+// Ruled headings with VA Accent color. (Currently gold metal)
+.va-h-ruled--a {
+  color: $color-primary-darker;
+  padding-bottom: 0.5em;
+  border-bottom: $color-va-accent solid 2px;
+}
+
+// If this divider gets reused and with text in the middle
+// you should create a variation of this rule that accounts
+// for the size of the text.
+.va-h-ruled--stars {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  // Flexbox magic means that setting a margin on ::before
+  // applies the same margin to ::after
+  &::before {
+    margin-right: 12rem;
+  }
+
+  &::before,
+  &::after {
+    border-top: 1px solid $color-gray-light;
+    content: " ";
+    flex: 1 1 50%;
+    padding: 1rem 0;
+  }
+
+  background: url(/img/stars.png) no-repeat center;
+  background-size: 11rem auto;
+  margin: 1.6rem auto auto;
+  padding: 2rem 0 0;
+  text-align: center;
+
+  @include media($medium-screen) {
+    padding-left: 0;
+  }
+}
+
+// Action bars
+[class^="va-action-bar"] {
+  background: $color-gray-lightest;
+}
+
+.va-action-bar--header {
+  padding: 0.5em 0;
+  text-align: right;
+}
+
+.va-action-bar--footer {
+  padding: 1em 0;
+}
+
+.va-action-bar--start {
+  background: $color-green-lightest;
+  border-bottom: 3px solid $color-white;
+}
+
+// TODO: Deprecate .va-action-bar--header a.usa-button-primary.
+// Use .va-button-primary and .va-button-secondary
+// going forward.
+// Drop !important from the lines below when everything
+// is refactored.
+.va-button-primary {
+  background: $color-green !important;
+
+  &:hover,
+  &:focus {
+    background-color: $color-green-darker !important;
+    text-decoration: none !important;
+  }
+
+  svg {
+    display: inline-block;
+    height: 1.2rem;
+    margin-left: 0.5rem;
+    width: 1.2rem;
+    vertical-align: -1px;
+  }
+}
+
+.va-button-secondary {
+  background-color: $color-primary-darker !important;
+
+  &:hover,
+  &:focus {
+    background-color: $color-primary-darkest !important;
+  }
+}
+
+// USDS component styles
+// Accordion
+.usa-accordion-content[aria-hidden="true"] {
+  display: none !important;
+}
+
+// Disclaimer
+.disclaimer {
+  padding: 1em 0;
+  padding-left: 0.9375rem;
+
+  p {
+    font-size: 1.28rem;
+  }
+
+  a {
+    background-image: none;
+    color: inherit;
+    padding: 0;
+
+    &:hover {
+      color: $color-gold;
+    }
+  }
+}
+
+// Formerly .disclaimer.minimal
+.va-note {
+  color: $color-gray-light;
+  font-size: 1.28rem;
+  padding: 0.25em 0;
+}
+
+// Info block
+
+.info-block {
+  p {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+// vets.gov branded apps
+.vets-app {
+  border-left: 3px solid $color-gold;
+  display: inline-block;
+  padding: 0 0 0 0.5em !important;
+}
+
+// Tooltip
+.js-simple-tooltip {
+  font-family: "Courier New", "Courier", serif;
+  font-weight: bold;
+  cursor: pointer;
+  display: inline-block;
+  padding: 0;
+  border-radius: 1.75em;
+  background: $color-gray-dark;
+  margin: 0 0 0 0.5em;
+  color: $color-white;
+  height: 1.75em;
+  font-size: 0.8em;
+  width: 1.75em;
+  text-align: center;
+  vertical-align: middle;
+}
+.simpletooltip[aria-hidden="true"] {
+  display: none;
+}
+.simpletooltip_container {
+  position: relative;
+  display: inline-block;
+}
+
+.simpletooltip {
+  position: absolute;
+  z-index: 777;
+  width: 11em;
+  border-radius: 0.3em;
+  background: $color-gray-dark;
+  color: $color-white;
+  padding: 0.6em;
+  text-align: left;
+  font-size: 1em;
+  font-weight: 300;
+  line-height: 1.3;
+  right: auto;
+  left: 100%;
+  margin-left: 0.8em;
+  white-space: normal;
+  top: -110%;
+
+  &:before {
+    border-bottom: 10px solid transparent; // left arrow slant
+    border-top: 10px solid transparent; // right arrow slant
+    border-right: 10px solid $color-gray-dark;
+    content: "";
+    font-size: 0;
+    position: absolute;
+    left: 0px;
+    line-height: 0;
+    margin-left: -10px;
+    width: 0;
+    height: 0;
+    top: 39%;
+  }
+}
+
+@include media($medium-screen) {
+  .simpletooltip {
+    top: 100%;
+    left: 45%;
+    right: 0;
+    margin: 0;
+    margin-top: 0.7em;
+    margin-left: -5em;
+
+    &:before {
+      top: -10px !important;
+      right: auto;
+      left: 45%;
+      margin-left: -5px;
+      margin-top: -10px;
+      border: 10px solid transparent;
+      border-bottom: 10px solid $color-gray-dark;
+    }
+  }
+}
+
+html.no-touchevents {
+  .touch {
+    display: none;
+  }
+  .no-touch {
+    display: block;
+  }
+}
+
+html.touchevents {
+  .touch {
+    display: block;
+  }
+  .no-touch {
+    display: none;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+.va-code-block,
+code[class*="language-"],
+pre[class*="language-"] {
+  background-color: $color-gray-lightest !important;
+  font-size: 0.9em;
+  line-height: inherit !important;
+}
+
+.va-address-block {
+  margin-left: 5rem;
+  border-left: 3px solid $color-primary;
+  padding-left: 1rem;
+}
+
+//====== Flexbox related utility classes
+.va-flex {
+  display: -webkit-flex;
+  display: flex;
+}
+
+// Vertically aligns at top when flex-direction: row;
+// Aligns flush left when flex-direction: column
+.va-flex--top {
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+}
+
+// Vertically aligns in the middle when flex-direction: row;
+// Aligns center horizontally when flex-direction: column
+.va-flex--ctr {
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+// Horizontally aligns in the center when flex-direction: row;
+// Aligns middle vertically when flex-direction: column
+.va-flex--jctr {
+  -webkit-justify-items: center;
+  justify-items: center;
+}
+
+// Stretches all flexbox items to be the same height when
+// flex-direction: row
+.va-flex--stretch {
+  -webkit-align-items: stretch;
+  align-items: stretch;
+}
+
+.react-container {
+  padding: 2em 0;
+}
+
+.react-container {
+  padding: 2em 0;
+}
+
+p.info-message {
+  font-size: 1.5em;
+}
+
+//==================
+// New .plain rewrite
+//===================
+
+.va-list--plain {
+  list-style: none;
+  padding-left: 0;
+}
+
+// Used for sidebar / aside style lists of links
+.va-rellinks {
+  margin-top: 0;
+
+  li {
+    padding: 0.8rem 0;
+  }
+}
+
+// Last updated
+
+.last-updated {
+  margin-top: 1.5em;
+  border-top: 2px solid $color-gray-light;
+  padding: 1em 0;
+  p {
+    font-size: 1em !important;
+    color: $color-gray-dark !important;
+  }
+}
+
+// ----------------------
+// Fixes an overly-broad ul selector
+// ----------------------
+
+.usa-sidenav-sub_list {
+  padding-left: 0;
+  list-style: none;
+}
+
+.vertical-list-group {
+  list-style-type: none;
+}
+
+.vertical-list-group.more-bottom-cushion {
+  margin-bottom: 2.5em;
+}
+
+.vertical-list-group .list-group-item {
+  border: none;
+  border-left: 4px solid $color-gray-lighter;
+  box-sizing: border-box;
+  border-radius: 0;
+  padding-left: 20px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-top: 0px;
+  margin-bottom: -30px;
+
+  &:last-child {
+    border: none;
+    margin-bottom: 24px;
+  }
+  h4 {
+    clear: none;
+  }
+}
+
+.vertical-list-group .list-group-item:last-child {
+  border-left: 4px solid transparent;
+  padding-bottom: 0;
+}
+.vertical-list-group .list-group-item::before {
+  border-radius: 50%;
+  border: 3px $color-white solid;
+  background-color: $color-gray-medium;
+  content: "";
+  display: inline;
+  float: left;
+  height: 18px;
+  line-height: 12px;
+  margin-left: -31px;
+  text-align: center;
+  width: 18px;
+  position: absolute;
+}
+
+.legend-heading-wrapper {
+  max-width: 100%;
+  margin: 0.08em 0;
+  width: 100%;
+}
+
+.legend-label {
+  display: block;
+  margin-top: 3rem;
+  max-width: 46rem;
+  font-weight: inherit;
+  font-size: inherit;
+  color: inherit;
+  line-height: inherit;
+}
+
+.fieldset-input {
+  margin-top: 3rem;
+  .health-record-fieldset {
+    //specificity used to override
+    margin-top: 1.5rem;
+  }
+}
+
+[itemprop="acceptedAnswer"] {
+  // margin-bottom: 3em;
+}
+
+// Error standardization
+.usa-alert,
+.plaintext-message {
+  .alert-actions {
+    margin-top: 0.5em;
+  }
+}
+
+.usa-label {
+  &.va-label-primary {
+    background-color: $color-green;
+    color: #fff;
+  }
+}

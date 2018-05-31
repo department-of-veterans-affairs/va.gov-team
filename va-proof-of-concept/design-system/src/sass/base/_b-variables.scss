@@ -1,0 +1,77 @@
+//++++++++++++++++++++++++++++++++++++
+// NOTE:
+//
+// For breakpoint variable values,
+// see b-breakpoints.scss
+//++++++++++++++++++++++++++++++++++++
+
+//===================================
+// Typography
+//===================================
+// These variables override values set in either
+// ~uswds/src/stylesheets/core/defaults" or
+// ~uswds/src/stylesheets/core/variables"
+
+$base-font-size:      rem(16px);
+$font-serif:          "Bitter", $georgia;
+
+$h6-font-size:        1.5rem;
+
+//===================================
+// Magic Numbers
+//===================================
+
+$text-max-width:      70rem; // Note: USWDS value is 53rem;
+$site-max-width:      100rem; // Worksout to about 1000px. USWDS value is 1040px
+
+//===================================
+// USWDS variables
+// Colors that override (or restate) USWDS values
+// Also see: https://standards.usa.gov/components/colors/
+//===================================
+
+$color-base:                 #212121;
+$color-primary-darker:       #003E73;
+$color-primary-darkest:      #112e51;
+$color-secondary-darkest:    #981b1e;
+$color-focus:                #3e94cf;
+$color-gray-light:           #aeb0b5;
+$color-gray-medium:          #757575;
+$color-gray-dark:            #323a45;
+$color-primary-alt-light:    #9bdaf1;
+$color-white:                #fff;
+
+//===================================
+// DSVA colors
+// Places where DSVA is going rogue!
+//===================================
+
+$color-black:                #000;
+$color-link-default:         #004795;
+$color-link-default-hover:   rgba($color-black, 0.05);
+$color-primary-alt-darkest:  #046b99;
+$color-green-darker:         #195c27;
+$color-va-accent:            #988530; // New gold "metal" acccent
+$color-gold:                 #fdb81e;
+$color-warning-message:      #fac922; // Used for Disability benefits
+$color-gray-light-alt:       #eee;
+$color-va-modal-bg:          rgba($color-gray-dark, .8);
+//$color-va-modal-bg--gi:      rgba($color-gray-dark, .8);
+$color-va-modal-close:       rgba($color-base, .8);
+
+$color-inset-bg:             #e0f3f8;
+$color-gibill-accent:        #fff1d2; // TODO: Replace with $color-gold-lightest;
+
+$color-white-alpha70:        rgba(255,255,255,.7);
+
+$color-sidebar-nav-bg:   rgba($color-black, 0.25);
+
+//===================================
+// Deprecated Colors;
+// Please avoid using.
+//===================================
+
+$polar:       #E8F5FA;
+$wild-sand:   #f6f6f6;
+$green-white: #eff0e6;
+$olso-gray:   #849097;

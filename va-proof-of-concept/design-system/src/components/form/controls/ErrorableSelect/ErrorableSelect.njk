@@ -1,0 +1,19 @@
+import React from 'react';
+import ErrorableSelect from './ErrorableSelect';
+
+export default function ErrorableSelectExample(props) {
+  return (
+    <ErrorableSelect
+      errorMessage={props.errorMessage}
+      name={props.name}
+      autocomplete={props.autocomplete}
+      label={props.label}
+      options={props.options}
+      required={props.required}
+      includeBlankOption={props.includeBlankOption}
+      value={props.value}
+      onValueChange={newValue => newValue}
+      additionalClass={props.additionalClass}
+      emptyDescription={props.emptyDescription}
+  />)
+}

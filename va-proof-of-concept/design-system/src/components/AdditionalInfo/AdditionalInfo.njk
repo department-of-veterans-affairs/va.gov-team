@@ -1,0 +1,15 @@
+import React from 'react';
+import AdditionalInfo from './AdditionalInfo';
+
+export default function AdditionalInfoExample(props) {
+  return (
+      <AdditionalInfo triggerText={props.triggerText}>
+        <ul>
+          <li>info A</li>
+          <li>info B</li>
+          <li>info C</li>
+          <li>info D</li>
+        </ul>
+      </AdditionalInfo>
+  );
+}

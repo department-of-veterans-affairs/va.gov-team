@@ -1,0 +1,294 @@
+// This file is a place where you put all the code you're not proud of,
+// with the intention of A) isolating it and B) fixing it later. The goal
+// is for this file to be empty, but some times you just have to throw that
+// hack in there to get it working.
+
+// message while loading react app
+.loading-message {
+  padding: 2em 0;
+  text-align: center;
+}
+
+body {
+  .row {
+    max-width: 62.5em;
+  }
+
+  // We have no container element, so elements that are full width have to redefine the container layout every time
+  // if they want to line up.
+  .row-padded {
+    max-width: 100rem;
+    padding: 0 1rem;
+    margin: 0 auto;
+  }
+}
+
+.form-panel {
+  @include media($medium-screen) {
+    max-width: $usa-form-width;
+  }
+}
+
+.main-form,
+.progress-box {
+  button {
+    width: 100%;
+  }
+}
+
+.button-icon {
+  font-size: 1.7rem;
+}
+
+.progress-box {
+  border: 1px solid $color-gray-lightest;
+  margin: 1.5rem 0;
+  padding: 1rem 2rem;
+}
+
+.form-section {
+  display: none;
+}
+
+#content .section {
+  fieldset {
+    h4 {
+      padding: 0;
+    }
+  }
+}
+
+.edit-checkbox {
+  label {
+    background-color: transparent;
+    display: inline-block;
+
+    &::before {
+      display: none !important;
+    }
+
+    &:hover {
+      cursor: pointer;
+      outline: 0;
+    }
+  }
+}
+
+.input-section {
+  margin-bottom: 2em;
+
+  .row {
+    margin: 0;
+  }
+}
+
+.usa-input-error {
+  select {
+    border: 3px solid $color-secondary-dark;
+    width: calc(100% + 1.5rem);
+  }
+}
+
+.hidden {
+  display: none !important;
+}
+
+// inline declarations moved here as a result of CSP rules
+
+.csp-inline-patch-footer {
+  display: none;
+  visibility: hidden;
+}
+
+.csp-inline-patch-header {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.csp-inline-patch-modal {
+  display: none;
+}
+
+.csp-inline-patch-page-breadcrumbs {
+  background-color: $color-warning-message;
+  text-align: center;
+}
+
+.csp-inline-patch-page-breadcrumbs-2 {
+  margin: 0;
+}
+
+.csp-inline-patch-page-react {
+  padding: 2em 0;
+}
+
+.csp-inline-patch-404 {
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.csp-inline-patch-application {
+  padding: 2em 0;
+}
+
+.csp-inline-patch-logout {
+  padding: 2em 0;
+}
+
+// /education/apply/ uses this expander button for navigation
+// Where else can I put this? Also, it could use a better name.
+.expander-button {
+  &::after {
+    background-image: url("/img/arrow-down-white.svg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: 0.6em auto;
+    content: ""; // Add content for accessibility purposes?
+    display: inline-block;
+    height: 1em;
+    margin-left: 0.5em;
+    margin-right: -0.3em;
+    text-indent: -9999em;
+    width: 1em;
+  }
+}
+
+// Handles the height transition
+.expander-content {
+  // No max height for small screens = no animation, which is fine
+  // Also means the Apply Now button doesn't get cut off
+  @include media($small-screen) {
+    max-height: 35em;
+  }
+  overflow: hidden;
+  transition: max-height 150ms ease-in-out;
+
+  // Handles the opacity transition
+  .expander-content-inner {
+    transition: opacity 150ms ease-in-out;
+
+    a.usa-button-primary {
+      transition: opacity 150ms ease-in-out;
+      transition-delay: 150ms;
+    }
+  }
+
+  // Apply this to the inner content and make a new div
+  //  with the border to expand that without the opacity
+  &.expander-content-closed {
+    max-height: 0 !important; // To override the id selector height
+    visibility: hidden;
+
+    .expander-content-inner {
+      opacity: 0;
+
+      a.usa-button-primary {
+        opacity: 0;
+      }
+    }
+  }
+}
+
+//============================================
+// Overrides for USWDS shenanigans.
+// See: https://github.com/18F/web-design-standards/issues/1899
+// ===========================================
+
+@include media($medium-large-screen) {
+  .usa-grid {
+    .usa-width-one-fourth {
+      margin-right: 2.35765%;
+      width: 23.23176%;
+    }
+
+    .usa-width-three-fourths {
+      width: 74.41059%;
+    }
+  }
+}
+
+// USWDS override so that checkboxes aren't offscreen
+// At some point between 0.10 and 1.4, USWDS modified radio/checkbox style
+// so be position: absolute, and left: -999em. This isn't compatible with our
+// e2e test cases, because Nightwatch can't find the elements on screen.
+input[type="checkbox"],
+input[type="radio"] {
+  margin-left: -2rem;
+  opacity: 0;
+  position: absolute;
+  left: auto;
+}
+
+// USWDS uses this:
+// [hidden] { display: none !important; }
+// However, some apps set the property to false and expect the element to be visible.
+// So, we do this shameful override to get around it.
+[hidden="false"] {
+  display: block !important;
+}
+
+// USWDS adds an increased margin for submit buttons, which break out grid display when we have a
+// back button on the left and a submit on the right.
+form {
+  [type="submit"] {
+    @include media($medium-screen) {
+      padding-left: 2rem;
+      padding-right: 2rem;
+      width: 100%;
+    }
+  }
+}
+
+// Overrides so that the left/right padding matches the Foundation grid.
+// Without this, using the USA grid causes alignment issues other components
+// on the page that use the Foundation grid.
+.va-l-detail-page {
+  > .usa-grid {
+    padding-left: 0.9375rem;
+    padding-right: 0.9375rem;
+  }
+}
+
+// .usa-alert shame moved to _m_alert.scss
+
+#top-of-page-alert-container {
+  width: 100%;
+  background-color: $color-gibill-accent;
+  position: relative;
+
+  &:before {
+    background-color: $color-gold;
+    content: "";
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1rem;
+  }
+}
+
+#top-of-page-alert {
+  max-width: 62.5em;
+  margin: 0 auto;
+
+  &.usa-alert::before {
+    content: none;
+  }
+
+  .usa-alert-body {
+    margin: 0 auto;
+    text-align: left;
+
+    .usa-alert-heading {
+      margin: 0 auto;
+      padding: 0;
+    }
+  }
+}
+
+// force use of png; IE does not support SVG
+select {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAcCAYAAABh2p9gAAAAAXNSR0IArs4c6QAAAPFJREFUSA3tlr0OAUEUhZdCRSQSBVFsQuNtPCS9t7CFRqNAFAoPoeE7m72FiTHWXp2THPN3z7eJ3Z3ZLEtrTsmxsvqNNCN9xffK6mvuK+WkLthg1mpOa7U0ofqMDRK2WlPNRxpRdcAhJByrRrVvNWR1j8NwbKxaZV5qwOwOx8KxeWWUfVKf0RbHQql5ZcUo1eN3g1Oh1LoYYmUrB5hdbNkGNhXVSbMWoDFe4E5D6I38uiHjH+cf+MlNKQDbc9S0LfQcnhzvVcnqAvR69cQq5bo5GNR1+zKo6wZrUNcjwKCuh5RBczpux6hBXQ96g9b6FHkA0+zeRS2oYfAAAAAASUVORK5CYII=);
+}

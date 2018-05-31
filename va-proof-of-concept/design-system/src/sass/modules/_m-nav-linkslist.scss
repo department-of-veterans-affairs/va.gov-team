@@ -1,0 +1,71 @@
+//============================================
+// m-nav-list-block
+// Created: 2017-04-12
+//
+// - Used for link lists.
+// - Find an example on /disability-benefits or home page
+// - Find corresponding markup in
+//   content/includes/navigation-links-list.html
+//============================================
+
+.va-nav-linkslist {
+  margin: 1rem 0 0;
+  padding: 0 0 1rem 0;
+
+  &--related {
+    background: $color-gray-lightest;
+    padding: 0.1rem 1.6rem;
+    margin: 2.6rem 0 4rem;
+  }
+
+  &-heading {
+    // TODO: Replace border-bottom with a hairline
+    // mixin when / if it's available
+    border-bottom: 1px solid $color-gray-light;
+    margin: 0;
+    padding: 1.6rem 0 0.4rem;
+    font-size: 1.5em;
+  }
+
+  &-list {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+
+    a {
+      background: transparent;
+      display: block;
+      padding: 0;
+      text-decoration: none;
+
+      &[href^=http],
+      &[rel=external] {
+        h1, h2, h3, h4, h5, span {
+          &:first-child{
+            @include exit-icon;
+
+            display: inline-block;
+          }
+        }
+      }
+    }
+
+    li {
+      margin: 1.6rem 0;
+    }
+  }
+
+  &-title {
+    color: $color-link-default;
+    padding: 0;
+
+    a:hover & {
+      text-decoration: underline;
+    }
+  }
+
+  &-description {
+    color: $color-base;
+    margin: 0;
+  }
+}

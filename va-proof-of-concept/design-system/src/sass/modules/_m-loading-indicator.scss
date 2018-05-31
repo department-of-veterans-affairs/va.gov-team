@@ -1,0 +1,17 @@
+.loading-indicator-container {
+  text-align: center;
+
+  .loading-indicator {
+    min-height: 10em;
+    background: url(/img/loading-state.gif) center center no-repeat;
+    background-size: contain;
+    text-align: center;
+    &:focus {
+      outline: none;
+    }
+  }
+}
+
+.async-loader {
+  padding-bottom: 1em;
+}

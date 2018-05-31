@@ -1,0 +1,38 @@
+.progress-bar {
+  display: block;
+  width: 100%;
+  height: 1em;
+  border-radius: 1em;
+  border: 2px solid $color-primary;
+  margin: 1em 0;
+}
+
+.progress-bar-inner {
+  background-color: $color-primary;
+  display: block;
+  content: "&nbsp;";
+  height: 100%;
+}
+
+.progress-bar-segmented {
+  display: flex;
+  width: 100%;
+  height: 6px;
+}
+
+.progress-segment {
+  content: "&nbsp;";
+  flex: 1;
+  margin-left: 2px;
+  margin-right: 2px;
+  background-color: $color-gray-lighter;
+  &-complete {
+    background-color: $color-primary;
+  }
+  &:first-child {
+    margin-left: 0;
+  }
+  &:last-child {
+    margin-right: 0;
+  }
+}

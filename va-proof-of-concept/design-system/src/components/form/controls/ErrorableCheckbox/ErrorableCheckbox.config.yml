@@ -1,0 +1,10 @@
+label: ErrorableCheckbox
+status: wip
+
+context:
+  componentSourcePath: './ErrorableCheckbox.jsx'
+  id: default
+  errorMessage: 'Error message'
+  label: 'Errorable Checkbox'
+  required: true
+  title: 'ErrorableCheckbox'

@@ -1,0 +1,328 @@
+@media screen and (min-width: 768px) {
+#mainSearchForm { padding: 0px;
+}
+}
+
+.va-flex {
+	display: -webkit-flex;
+	display: flex;
+}
+#va-crisis-title {
+	font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Roboto,Arial,sans-serif; color:black; font-weight: 700; font-size:1.9em
+	margin-top: 1em; 
+}
+
+.usa-hrule.center-bullseye, .usa-hrule.center-diamond, .usa-hrule.center-square, .va-center, .va-img_center, .va-text-center {
+	text-align: center;
+}
+
+.va-rounded--all {
+	border-radius: 6px !important;
+}
+.usa-sr-only {
+	position: absolute;
+	left: -999em;
+}
+
+#modal-crisisline {
+  display: none;
+}
+
+.usa-text-blue {
+	color: #0071bc;
+}
+
+.va-modal {
+  background: rgba(50, 58, 69, 0.8);
+  content: " ";
+  display: block;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10006;
+  font-size: 150%;
+}
+@media screen and (max-width: 481px) {
+  .va-modal {
+    overflow-y: scroll;
+  }
+}
+.va-modal .usa-alert .va-modal-title-undefined {
+  padding: 0.5rem !important;
+}
+.va-modal .usa-alert-undefined {
+  background: #ffffff;
+  padding-left: 2rem;
+}
+.va-modal .usa-alert:before {
+  content: none;
+}
+.va-modal .va-modal-body p:first-of-type {
+  margin-top: 0;
+}
+.va-modal-split .va-modal-inner {
+  min-width: 710px;
+}
+@media screen and (max-width: 481px) {
+  .va-modal-split .va-modal-inner {
+    top: 0%;
+    transform: translateY(0%);
+    min-width: auto;
+  }
+  .va-modal-split .va-modal-inner .usa-button-primary {
+    display: block;
+  }
+}
+.va-modal-split-container {
+  display: flex;
+}
+.va-modal-split-left, .va-modal-split-right {
+  flex: 1;
+  padding: 0 20px;
+}
+@media screen and (max-width: 481px) {
+  .va-modal-split-left, .va-modal-split-right {
+    flex: none;
+    padding: 0;
+  }
+}
+.va-modal-split-title {
+  margin-top: 0;
+}
+.va-modal-split-list {
+  margin-top: 10px;
+}
+.va-modal-split-divider {
+  background: #e1f3f8;
+  width: 3px;
+}
+@media screen and (max-width: 481px) {
+  .va-modal-split-divider {
+    width: 100%;
+    height: 3px;
+    display: flex;
+    margin: 25px 0;
+    justify-content: center;
+    align-items: center;
+  }
+  .va-modal-split-divider:after {
+    text-align: center;
+    content: "OR";
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 10px;
+    background: #ffffff;
+  }
+}
+@media screen and (max-width: 481px) {
+  .va-modal-split-container {
+    flex-flow: column;
+  }
+}
+.va-modal-title {
+  margin: 0;
+  padding: 0.5rem 2rem !important;
+}
+.va-modal-inner {
+  background: #f7f7f7;
+  margin: auto;
+  max-width: 40rem;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  cursor: auto;
+}
+@media screen and (max-width: 481px) {
+  .va-modal-inner {
+    transform: none;
+    top: 0;
+  }
+}
+.va-modal-body {
+  overflow-wrap: break-word;
+  padding: 2rem;
+  word-break: break-word;
+  word-wrap: break-word;
+}
+.va-modal-button-group {
+  bottom: 0;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  position: relative;
+  margin-top: 5rem;
+}
+.va-modal-button-group button {
+  margin: 0 1rem 0 0;
+  width: auto;
+}
+.va-modal-large .va-modal-inner {
+  max-width: 50rem;
+  width: 90vw;
+}
+.va-modal-large .va-modal-inner .va-modal-body {
+  max-height: 95vh;
+  overflow-y: auto;
+}
+.va-modal span.exit-icon {
+  background-image: url(https://www.oit.va.gov/_media/img/uswds/close-primary.png);
+  background-image: url(https://www.oit.va.gov/_media/img/uswds/close-primary.svg);
+  background-position: 100% 50%;
+  background-repeat: no-repeat;
+  background-size: 1em auto;
+  padding-right: 1.2em;
+}
+
+.va-modal-body h3 {
+  margin-top: 0;
+}
+
+.va-modal button {
+  white-space: nowrap;
+}
+
+button.va-modal-close {
+  background-color: transparent;
+  color: rgba(33, 33, 33, 0.8);
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+  position: absolute;
+  margin: 0.25rem;
+  right: 0;
+  top: 0;
+  width: auto;
+  z-index: 10009;
+  border: 0;
+}
+
+
+button.va-modal-close:hover {
+  background-color: inherit;
+  color: #212121;
+}
+
+button.va-modal-close:focus {outline: 2px dotted #c30000;}
+
+
+@media screen and (min-width: 768px) {
+  .va-crisis-line {
+   float: right;
+   margin: 0 20px 10px 0;
+   display: flex;
+  }
+}
+
+.va-crisis-panel {
+  list-style: none;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 2rem;
+  position: relative;
+  z-index: 10000;
+  width: 100%;
+}
+.va-crisis-panel li:nth-child(odd) {
+  border-top: 1px solid #212121;
+  border-bottom: 1px solid #212121;
+}
+.va-crisis-panel li a {
+  color: #212121;
+  display: block;
+  padding: 1.5rem 0;
+  text-decoration: none;
+}
+@media screen and (min-width: 768px) {
+  .va-crisis-panel {
+    margin: auto;
+    max-width: 50%;
+  }
+}
+.va-crisis-panel a {
+  padding: 0;
+  background-image: none;
+}
+.va-crisis-panel a:after {
+  content: none;
+}
+
+.va-crisis-panel-body {
+  height: auto;
+  list-style: inherit;
+  margin: 0;
+  max-height: 100%;
+  padding: 0;
+}
+.va-crisis-panel-body ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.va-crisis-panel-body p {font-size:1rem; margin-top: 1em;}
+
+button.va-crisis-line-button {
+  /*border-radius: 0 0 .5em .5em;*/
+  color: #212121;
+  background-color: #ffffff;
+  text-align: center;
+  margin: auto;
+  padding: 0.4em 26px 0.3em 0;
+  width: 100%;
+  display: block;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
+padding: 0 26px 0 0;
+
+}
+
+@media screen and (min-width: 768px) {
+  button.va-crisis-line-button {
+    background: #ffffff url(https://www.oit.va.gov/_media/img/uswds/arrow-right.svg) calc(100% - 0.5em) center no-repeat;
+    background-size: .8em auto;
+    border-radius: 0 0 0.5em 0.5em;
+    box-shadow: 0 2px 5px #212121;
+    padding: 0 26px 0 0;
+    text-align: left;
+  }
+}
+
+button.va-crisis-line-button:hover {
+  background-color: #ffffff;
+  color: #212121;
+}
+button.va-crisis-line-button:focus {
+  outline: 2px dotted #c30000;
+}
+button.va-crisis-line-button .vcl {
+  content: "";
+  background: url(https://www.oit.va.gov/_media/img/vcl-logo.png) no-repeat right 29%;
+  background-size: 100%;
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  margin: 0.3em 0.5em -0.3em 0.5em;
+}
+button.va-crisis-line-button > .va-flex {
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.va-footer-vcl-trigger {
+  background: transparent;
+  color: inherit;
+  font-size: inherit;
+  font-weight: normal;
+  text-decoration: underline;
+}
+.va-footer-vcl-trigger:hover {
+  background: inherit;
+  color: #fdb81e;
+  text-decoration: inherit;
+}

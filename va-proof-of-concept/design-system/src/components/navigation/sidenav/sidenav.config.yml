@@ -1,0 +1,27 @@
+label: Side navigation
+status: ready
+handle: sidenav
+preview: '@uswds-framed'
+display:
+  max-width: 150px;
+
+context:
+  sidenav:
+    links: &default_links
+      - text: Parent link
+      - text: Current page
+        current: true
+        links:
+          - text: Child link
+          - text: Child link
+            current: true
+            links:
+              - text: Grandchild link
+              - text: Grandchild link
+              - text: Grandchild link
+                current: true
+              - text: Grandchild link
+          - text: Child link
+          - text: Child link
+          - text: Child link
+      - text: Another link

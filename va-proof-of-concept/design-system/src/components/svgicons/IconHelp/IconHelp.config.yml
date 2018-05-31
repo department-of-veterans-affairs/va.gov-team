@@ -1,0 +1,8 @@
+label: IconHelp
+status: wip
+
+context:
+  componentSourcePath: 'IconHelp.jsx'
+  color: '#000000'
+  cssClass: 'a-class'
+  id: 'help'
