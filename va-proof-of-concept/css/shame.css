@@ -54,3 +54,7 @@
   background-color: white !important;
   background-image: none !important;
 }
+
+a[href$=".pdf"] {
+    background: none;
+}
