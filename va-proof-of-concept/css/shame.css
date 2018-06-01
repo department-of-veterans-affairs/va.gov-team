@@ -31,3 +31,16 @@
   margin-top: 2em; }
 
 /*# sourceMappingURL=shame.css.map */
+
+#container {
+  background: none !important;
+}
+
+#leftNavContainer {
+  background: none !important;
+  background-color: #fff !important;
+}
+
+.row {
+  border: 1px solid red;
+}

@@ -4318,7 +4318,7 @@ th.hide-for-touch {
 
 @font-face {
   font-family: "FontAwesome";
-  src: url("../node_modules/font-awesome/fonts/fontawesome-webfont.woff2") format("woff2"), url("../node_modules/font-awesome/fonts/fontawesome-webfont.woff") format("woff"), url("../node_modules/font-awesome/fonts/fontawesome-webfont.eot") format("eot");
+  src: url("../fonts/fontawesome-webfont.woff2") format("woff2"), url("../fonts/fontawesome-webfont.woff") format("woff"), url("../fonts/fontawesome-webfont.eot") format("eot");
   font-weight: normal;
   font-style: normal; }
 /* stylelint-disable at-rule-empty-line-before */
