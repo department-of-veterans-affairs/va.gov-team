@@ -41,6 +41,16 @@
   background-color: #fff !important;
 }
 
-.row {
-  border: 1px solid red;
+#mainContentWrapper1 {
+  background-image: none !important;
+}
+
+#innerRightContent {
+  background-image: none !important;
+}
+
+.widget {
+  border: none !important;
+  background-color: white !important;
+  background-image: none !important;
 }
