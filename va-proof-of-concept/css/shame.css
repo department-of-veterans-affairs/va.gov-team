@@ -58,3 +58,7 @@
 a[href$=".pdf"] {
     background: none;
 }
+
+h1, h2, h3, h4 {
+  color: #212121;
+}
