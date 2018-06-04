@@ -18,7 +18,80 @@ File-based sites don't use a GUI at all, and don't respect the templates and inc
 
 ---
 
+> How many VA.gov sites use Teamsite templates and how many sites are custom?
 
+Live Sites (Users deploy content to production Web sites) 
+
+**Internet (VHA, VACO, NCA)** 
+
+FQDN: 263 
+
+Non FQDN: 109 
+
+**Intranet (VHA, VACO, NCA)** 
+
+FQDN: 147
+Non FQDN: 85
+
+**VBA** 
+
+Internet: 87 (Non FQDN under benefits.va.gov) 
+Intranet: 84 (Non FQDN under vbaw.vba.va.gov) 
+
+> Where is a list of all Teamsite templates?
+
+**Total templates (Internet): 31**
+
+| Template Name               | #   Workareas |
+| --------------------------- | ------------- |
+| pages                       | 461           |
+| features                    | 273           |
+| pages_vha3column            | 271           |
+| homepage                    | 269           |
+| pressrel                    | 209           |
+| summary_archive             | 209           |
+| includes                    | 176           |
+| emergency                   | 164           |
+| vamc_homepage               | 163           |
+| careers                     | 161           |
+| customer_svc                | 161           |
+| facili.es                   | 161           |
+| patient_info                | 161           |
+| services                    | 161           |
+| vamc_multi                  | 161           |
+| navigation                  | 141           |
+| vha_homepage                | 110           |
+| rightnav                    | 108           |
+| advpages                    | 107           |
+| html_widget                 | 84            |
+| link_box_widget             | 84            |
+| faqs                        | 68            |
+| ro_homepage                 | 61            |
+| rss                         | 54            |
+| quick_links_widget          | 25            |
+| social_media_connect_widget | 25            |
+| admin_homepage              | 3             |
+| natcem_pages                | 1             |
+| speeches                    | 1             |
+| speeches_summary            | 1             |
+| va_homepage                 | 1             |
+
+**Total templates (Intranet): 10**
+
+Please note that there is some overlap between these and the Internet templates
+
+| Template Name   | #   Workareas |
+| --------------- | ------------- |
+| advpages        | 106           |
+| homepage        | 340           |
+| pages           | 340           |
+| navigation      | 135           |
+| rightnav        | 105           |
+| includes        | 102           |
+| pressrel        | 96            |
+| summary_archive | 96            |
+| faqs            | 93            |
+| rss             | 54            |
 
 > Can VA's current implementation of Teamsite support all Vets.gov content, including static (e.g., navigation, headings, and body content that doesn’t change and is always present) and dynamic content (e.g., contextual alerts, wizards, forms, status trackers, personalized content, etc.)?
 
@@ -187,8 +260,6 @@ If we can integrate USWDS completely, this will happen by default. But if we lea
 
 ## Open Questions
 
-> How many VA.gov sites use Teamsite templates and how many sites are custom?
-
 > Where is a list of all the VA.gov sites that are custom?
 
 > Where is a list of all the VA.gov pages organized by Teamsite template used?
@@ -200,7 +271,5 @@ If we can integrate USWDS completely, this will happen by default. But if we lea
 > What permissions roles are currently used in Teamsite?
 
 > How is a person's permission level in Teamsite determined?
-
-> Where is a list of all Teamsite templates?
 
 > Where is a list of all includes to Teamsite templates?
