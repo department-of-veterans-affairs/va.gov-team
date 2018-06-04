@@ -1,6 +1,6 @@
 # CMS & Teamsite research 
 
-
+**updated 6/4/18**
 
 The main point of contact for Teamsite needs and information is Sandeep Kumar, sandeep.kumar@va.gov. He's the sysadmin, and can grant us access to a sandbox set up for our use. 
 
@@ -8,9 +8,11 @@ Accessing the sandbox requires VA network access, though using CAG/Citrix is uns
 
 There are two kinds of sites that VA's implementation of Teamsite can currently support: **forms-based sites**, and **file-based sites**. 
 
-Forms-based sites are the closest Teamsite comes to functioning as a content management system: it provides a **GUI** that is adaptable to the circumstances and validated by Javascript. This GUI is what most content managers / subject matter experts are accustomed to seeing and using. 
+Forms-based sites are the closest Teamsite comes to functioning as a content management system: it provides a **graphical user interface (GUI)** that is adaptable to the circumstances and validated by Javascript. This GUI is what most content managers / subject matter experts are accustomed to seeing and using. 
 
-Data produced by these forms is then consumed by **templates**, which are written in a proprietary version of Perl known as IW Perl. These templates consume (or can consume) **includes**, which is how all form-based sites on VA.gov have the same header, footer, and some of the same navigation.
+Data produced by these **forms** are then consumed by **templates**, which are written in a proprietary version of Perl known as IW Perl. These templates consume (or can consume) **includes**, which is how all form-based sites on VA.gov have the same header, footer, and some of the same navigation.
+
+These includes are owned by Josh at VACO, but we don't need direct access to them in order to replace them; we can simply replace the URL of the include in the template files.
 
 File-based sites don't use a GUI at all, and don't respect the templates and includes that the form-based sites do. File-based sites are tech-agnostic (meaning they can be in any web language we like) and are uploaded wholesale to Teamsite. These sites are not using Teamsite's CMS functionality, but they do use the **workflows** that have been established by a variety of authorities in order to control publication of pages and content to the Internet and the VA Intranet. 
 
@@ -20,13 +22,31 @@ File-based sites don't use a GUI at all, and don't respect the templates and inc
 
 > Can VA's current implementation of Teamsite support all Vets.gov content, including static (e.g., navigation, headings, and body content that doesn’t change and is always present) and dynamic content (e.g., contextual alerts, wizards, forms, status trackers, personalized content, etc.)?
 
-Yes, if file-based: Because Teamsite can support anything in the form of a file-based site. However, there is no real advantage to putting Vets.gov on Teamsite as a file-based site, since the only functionality that gets us is the workflow controls. We already have those in the form of our Github workflow. 
+If file-based: **YES** - Because Teamsite can support anything in the form of a file-based site. However, there is no real advantage to putting Vets.gov on Teamsite as a file-based site, since the only functionality that gets us is the workflow controls. We already have those in the form of our Github workflow. 
 
-Maybe, if form-based: we need to determine if _everything_ needs to be on a CMS, including the React apps. If the React apps need to have Teamsite forms, we need to verify if React will play nice with the templates. Alternately, Bill is exploring the possibility that we can draw data out of Teamsite and apply it within our own templates and files without needing to use Teamsite's templates at all. This is TBD. 
+If form-based: 
+
+​	**Yes, for static content**. We would need Teamsite developers to build the forms to match our templates, but putting anything currently in `.md` in Vets.gov's repository into Teamsite is possible.
+
+​	**No, for React apps.** According to our Teamsite expert, the system can't currently support dynamic content. Since the plan is to keep anything currently that is currently React as it is, this shouldn't be an issue. That said, we may want to experiment and see how far we can push the boundaries of the existing version of Teamsite. 
+
+To take the example of the education forms on Vets.gov — these (and all) application forms are React apps and as such could not be moved to the current version of Teamsite.
 
 > If not, is there unbuilt or unutilized Teamsite functionality that can make this feasible?
 
 The version of Teamsite that VA is currently using is several years old; there is an updated version that has additional capabilities but it'd need to be procured and then implemented. Assuming this is a timeline of months or years to completion.
+
+The newest version of Teamsite was released in 2016. The software is no longer in active development, which poses a risk (the Internet moves fast, and two years old is pretty old). The 2016 version of Teamsite does have a handful of features that could be useful:
+
+- Visual previews of content (as opposed to having to open a file to see what's in it)
+- A/B testing and experimenting capability 
+- Visual version history (for content only, as far as I can tell)
+- Retains the ability to navigate Teamsite through its existing folder structure
+- Hot-swappable templates, which could reduce the overall number of templates we ultimately have to build
+
+Source: https://blogs.opentext.com/introducing-opentext-teamsite-8-2/
+
+Contact for more information: teamsite.mediabin@opentext.com
 
 > What is the anticipated technical feasibility and scope for preparing Vets.gov pages and content to be moved to Teamsite?
 
@@ -38,6 +58,8 @@ If form-based, it should still be technically feasible, but the scope increases 
 
 Integrating Vets.gov content to any CMS would be time-consuming at best. Whether it'd be technically challenging is a question for our engineering team to answer conclusively, but based on what we've learned about Teamsite so far, the challenge will be in designing the forms and making sure that they validate appropriately for particular kinds of content. 
 
+Vets.gov React apps (including our application forms) cannot be moved to the current version of Teamsite, according to Sandeep.
+
 > What are some of the benefits of using another CMS for Vets.gov pages and content? What are the tradeoffs with using Teamsite?
 
 Unless we're paying for the expertise, putting Vets.gov pages and content on _any_ CMS will require the engineering team to learn how to configure the CMS for our content. Any CMS will also require that we learn how to template for the particular system that we hypothetically choose. 
@@ -46,7 +68,7 @@ The benefits of _any_ CMS are ease of use for various subject-matter experts, in
 
 If we were to move off of Teamsite and onto a new (hopefully more modern) CMS, there'd be significant change management to worry about — and the costs associated with training a couple of hundred people who are not particularly tech-savvy and who are spread across the country (if not the globe). 
 
-If the solution we're exploring — using Teamsite's API to access the data coming from forms, to feed it into our own templates — pans out, the tradeoffs to using Teamsite are mostly that we'd have to learn IW Perl and its API. The benefits to using it — no change mangagement, plus a GUI CMS for those users who are currently managing content with Github — outweigh the tradeoffs. 
+If the solution Bill is exploring — using Teamsite's API to access the data coming from forms, to feed it into our own templates — pans out, the tradeoffs to using Teamsite are mostly that we'd have to learn IW Perl and its API. The benefits to using it — no change mangagement, plus a GUI CMS for those users who are currently managing content with Github — outweigh the tradeoffs. 
 
 The biggest risk to continuing to use Teamsite in its current iteration is a lack of technical support outside VA, but it's uncertain how big of a risk this actually is. (Put plainly, is the company going to go out of business / sell the product again, and if so, will VA lose vital technical support?
 
