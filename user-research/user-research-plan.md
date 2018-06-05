@@ -34,7 +34,7 @@
 - Participants: Veterans, VSOs, VA Employees
 
 ## Study 5
-- Research Question: Do the new HP and Nav bar work? Can everyone find what they need?
-- Format: Usability Test, Mixed, Moderated
-- Recruiting: Site Visits, remote usability testing
+- Research Question: Does the new "merged" design work for users? Can they find what they need using the HP, Nav, and Hubs?
+- Format: Usability Test on interactive prototype in dev, Mixed, Moderated
+- Recruiting: Site Visits, VSOs, possibly remote testing
 - Participants: Veterans, Familiies, VSO, VA Employees
