@@ -30,7 +30,7 @@
 ## Study 4
 - Research Question: Does a consolidated Veterans-first navigation work?
 - Format: Tree Test, Digital, Unmoderated
-- Recruiting: TBD
+- Recruiting: MHV email list + VSO Comms Support
 - Participants: Veterans, VSOs, VA Employees
 
 ## Study 5
