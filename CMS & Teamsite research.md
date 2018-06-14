@@ -1,5 +1,98 @@
 # CMS & Teamsite research 
 
+**updated 6/13/18**
+
+
+
+## Headless CMS 
+
+A headless CMS decouples content from front-end display. It provides an administrative back end and database, like any traditional CMS, but it removes the need for us to use a given system's particular templating system. This makes our front-end presentation portable, and removes the requirement that our developers learn how to template for whichever system we pick. 
+
+Meanwhile, we still gain the CMS benefits of workflow, auditing, and authoring control, and a friendly user interface for content owners to interact with. 
+
+The following are various paths we could pursue moving forward, in rough order of preference -- from top choice, to last resort.
+
+### Scenario 1 (top choice): 
+
+* Teamsite as headless CMS through MVP
+  * **Risk: **This is predicated on Bill's being able to extract data from Teamsite that we can then consume using our own templates, without being tethered to Teamsite's proprietary languages and structures.
+  * **Reward: **Current content owners won't notice a difference in their workflows until we actually make a CMS switch. This buys us time to prepare them for the change through messaging and training.
+* Wordpress as headless CMS post-MVP
+  * **Risk: ** Content owners will need to learn a new content-entry system. 
+  * **Risk:** We will need to do all the configuration of Wordpress on the administrative side to ensure the appropriate permissions are granted, content types exist, etc. 
+  * **Reward:** Wordpress is traditionally very easy to configure and extend via plugins and its own interface.
+  * **Reward: **We would need to do only minimal if any tweaking to the same templates we'd already be using from MVP.
+
+### Scenario 2: 
+
+- Teamsite as headless CMS through MVP
+  - **Risk: **This is predicated on Bill's being able to extract data from Teamsite that we can then consume using our own templates, without being tethered to Teamsite's proprietary languages and structures.
+  - **Reward: **Current content owners won't notice a difference in their workflows until we actually make a CMS switch. This buys us time to prepare them for the change through messaging and training.
+- Drupal as headless CMS post-MVP
+  - **Risk: ** Content owners will need to learn a new content-entry system. 
+  - **Risk:** While Drupal is extremely powerful and flexible, it is to the extent that configuring it appropriately will require outside expertise and quite a bit of manual installation.
+  - **Reward: **We would need to do only minimal if any tweaking to the same templates we'd already be using from MVP.
+
+### Scenario 3: 
+
+- Teamsite as headless CMS through MVP
+  - **Risk: **This is predicated on Bill's being able to extract data from Teamsite that we can then consume using our own templates, without being tethered to Teamsite's proprietary languages and structures.
+  - **Reward: **Current content owners won't notice a difference in their workflows.
+- Continued use of Teamsite as headless CMS post-MVP
+  - **Risk**: Teamsite is dead software -- while it's being supported, it's no longer in active development. This means no new features that take advantage of modern web technologies.
+  - **Risk:** The most recent version of Teamsite was released in 2016, which is already old by Internet standards.
+  - **Risk:** The currently installed version of Teamsite is positively prehistoric by Internet standards.
+  - **Risk:** We need to develop content-editor-facing forms to support new content types.
+  - **Reward:** Nobody needs to be retrained to use a new CMS.
+
+### Scenario 4: 
+
+- Teamsite in its current incarnation through MVP
+
+  - **Risk:** Only one member of the Vets.gov team has access to Teamsite. 
+  - **Risk:** Teamsite was last updated in 2013; the technology is old and all the forms and templates that run it are written in a proprietary version of Perl, which nobody knows how to write.
+  - **Risk:** We would need to learn how to develop forms for content editors to enter content, and then templates to support those forms and our new design. 
+  - **Risk:** Teamsite is dead software; even the upgraded version (released 2016) is old by Internet standards. 
+  - **Reward**: Current content owners do not notice a difference in their workflows, though they might need training on new forms.
+
+- Wordpress as headless CMS post-MVP
+
+  * **Risk: ** Content owners will need to learn a new content-entry system. 
+
+  - **Risk:** We will need to do all the configuration of Wordpress on the administrative side to ensure the appropriate permissions are granted, content types exist, etc. 
+  - **Reward:** Wordpress is traditionally very easy to configure and extend via plugins and its own interface.
+  - **Reward: **We would need to do only minimal if any tweaking to the same templates we'd already be using from MVP.
+
+###Scenario 5: 
+
+- Teamsite in its current incarnation through MVP
+  - **Risk:** Only one member of the Vets.gov team has access to Teamsite. 
+  - **Risk:** Teamsite was last updated in 2013; the technology is old and all the forms and templates that run it are written in a proprietary version of Perl, which nobody knows how to write.
+  - **Risk:** We would need to learn how to develop forms for content editors to enter content, and then templates to support those forms and our new design. 
+  - **Risk:** Teamsite is dead software; even the upgraded version (released 2016) is old by Internet standards. 
+  - **Reward**: Current content owners do not notice a difference in their workflows, though they might need training on new forms.
+- Drupal as headless CMS post-MVP
+  - **Risk: ** Content owners will need to learn a new content-entry system. 
+  - **Risk:** While Drupal is extremely powerful and flexible, it is to the extent that configuring it appropriately will require outside expertise and quite a bit of manual installation.
+  - **Reward: **We would need to do only minimal if any tweaking to the same templates we'd already be using from MVP.
+
+Scenario 6: 
+
+- Teamsite in its current incarnation through MVP
+  - **Risk:** Only one member of the Vets.gov team has access to Teamsite. 
+  - **Risk:** Teamsite was last updated in 2013; the technology is old and all the forms and templates that run it are written in a proprietary version of Perl, which nobody knows how to write.
+  - **Risk:** We would need to learn how to develop forms for content editors to enter content, and then templates to support those forms and our new design. 
+  - **Risk:** Teamsite is dead software; even the upgraded version (released 2016) is old by Internet standards. 
+  - **Reward**: Current content owners do not notice a difference in their workflows, though they might need training on new forms.
+- Upgraded Teamsite OR in its current incarnation post-MVP
+  - **Risk**: Teamsite is dead software -- while it's being supported, it's no longer in active development. This means no new features that take advantage of modern web technologies.
+  - **Risk:** The most recent version of Teamsite was released in 2016, which is already old by Internet standards.
+  - **Risk:** The currently installed version of Teamsite is positively prehistoric by Internet standards.
+  - **Risk:** We need to develop content-editor-facing forms to support new content types.
+  - **Reward:** Nobody needs to be retrained to use a new CMS.
+
+
+
 **updated 6/4/18**
 
 The main point of contact for Teamsite needs and information is Sandeep Kumar, sandeep.kumar@va.gov. He's the sysadmin, and can grant us access to a sandbox set up for our use. 
@@ -99,9 +192,9 @@ If file-based: **YES** - Because Teamsite can support anything in the form of a 
 
 If form-based: 
 
-​	**Yes, for static content**. We would need Teamsite developers to build the forms to match our templates, but putting anything currently in `.md` in Vets.gov's repository into Teamsite is possible.
+**Yes, for static content**. We would need Teamsite developers to build the forms to match our templates, but putting anything currently in `.md` in Vets.gov's repository into Teamsite is possible.
 
-​	**No, for React apps.** According to our Teamsite expert, the system can't currently support dynamic content. Since the plan is to keep anything currently that is currently React as it is, this shouldn't be an issue. That said, we may want to experiment and see how far we can push the boundaries of the existing version of Teamsite. 
+**No, for React apps.** According to our Teamsite expert, the system can't currently support dynamic content. Since the plan is to keep anything currently that is currently React as it is, this shouldn't be an issue. That said, we may want to experiment and see how far we can push the boundaries of the existing version of Teamsite. 
 
 To take the example of the education forms on Vets.gov — these (and all) application forms are React apps and as such could not be moved to the current version of Teamsite.
 
