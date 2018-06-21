@@ -1,8 +1,21 @@
 # CMS & Teamsite research 
 
-**updated 6/13/18**
+**updated 6/21/18**
 
 
+
+## Outstanding tasks
+
+After a conversation with someone who's recently moved a massive organization off a Teamsite build that's possibly older than ours, to a brand-new system, there are a few things we should take into account moving forward:
+
+- **User research:** So far, it seems like we've done the CMS work in the blind. We should speak to content editors currently working on Teamsite, and discover their pain points and wish lists. Likewise, we should do the same with the IT teams managing the installation.
+- **Content types & attributes:** For the utmost flexibility, independent of the actual technology chosen as CMS, we should compile a list of very clearly-defined content types and their various attributes. This will help us as we eventually transition off Teamsite by making it easier to lift-and-shift the data. It will also help us identify holes in our existing content types. (This may already be in-progress as part of the content audit, but it would be helpful to share with the CMS team.)
+
+Other learnings from someone who's gone through this process:
+
+- A presentation-agnostic system (headless/hybrid) is ultimately a better choice, especially with clearly-defined content types. You're not beholden to a given CMS' template system, which makes the entire thing more flexible should needs change.
+- Abandoning the presentation layer (the front-end) of a CMS can be a hard thing to manage -- it's so ingrained to expect templates as part of a CMS that it can be tough for anyone not actively using the CMS to understand. 
+- Assigning user roles and permissions should be _easy_. If you talk to a vendor who says it's not, find another vendor.
 
 ## Headless CMS 
 
