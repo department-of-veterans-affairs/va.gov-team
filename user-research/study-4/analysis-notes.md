@@ -1,0 +1,11 @@
+## Notes on Analysis for Study 4
+- cleaned data to exclude participants that skipped 90% or more of the tasks
+- After the first analysis and the creation of the readout, made some updates to the correct answers list to test a hypothesis that looser requirements would lead to higher success rate and to make "apply" tasks more equal.
+  - 8 removed about VA and Fam/Care, added HC Elig - success went from 37 to 53
+  - 9 added Eligibility - success went from 47 to 63
+  - 10 added App Process, Apply - success went from 41 to 53
+  - 11 added After You Apply - success went from 42 to 62
+  - 15 added About, Eligibility - success went from 34 to 63
+  - 22 added Eligibility - success went from 50 to 63
+  - 25 added About VRE, Counseling - success went from 5 to 27
+  - 29 added About Health Care - success went from 8 to 36
