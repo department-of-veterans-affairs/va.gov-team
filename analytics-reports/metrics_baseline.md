@@ -85,6 +85,19 @@ First, we will to measure a baseline for current performance of VA web propertie
 - (Potential) Vets.gov Medallia account
 - (In Progress) GA360 and Tag Manager accounts implemented on VA.gov, MHV, and eBN
 
+### Data from Fatima's worksheet
+**Various Sources:** Current Self-service Use Based on FY17 Transactional Volumes. Excel File.
+  - Apply for Education Benefits
+  - Apply for Healthcare
+  - File a Disability Claim
+  - Request Prescription Re3ill
+  - Schedule a Medical Appointment
+  - Request a Burial Flag
+  - Request a Pre-Need Burial
+  - Interments in VA cemetery
+  - Presidential Memorial Certi3icates
+  - Request Headstones and Markers
+
 ## Post-Merge
 After vets.gov has merged into VA.gov, we will continue our measures to capture an accurate comparison bewteen baseline and post-merge. Options for each:
 
