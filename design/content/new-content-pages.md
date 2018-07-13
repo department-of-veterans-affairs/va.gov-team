@@ -36,39 +36,39 @@
 - Make a Change to Your GI Bill Benefits
   - This includes Changes for both Veterans and Dependants
   
-  ## Careers
+## Careers
   
-  None at this time
+None at this time
   
-  ## Pensions
+## Pensions
   
-  None at this time
+None at this time
   
-  ## Housing
+## Housing
   
-  **Manage Tasks**
+**Manage Tasks**
   
-  - Apply for a Home Loan COE
-  - Track Your Housing Appeal Status
-    - may change depending on appeals convo
-  - Apply for Adaptive Housing Grant
-  - Track Your SAH Claim Status
-    - may change depending on appeals/claim status convo
+- Apply for a Home Loan COE
+- Track Your Housing Appeal Status
+  - may change depending on appeals convo
+- Apply for Adaptive Housing Grant
+- Track Your SAH Claim Status
+  - may change depending on appeals/claim status convo
     
- ## Life Insurance
+## Life Insurance
  
- **Get Benefits**
+**Get Benefits**
  
- - Apply for VGLI
-   - will include links to forms on eBenefits and Prudential sites
- - Track Your Appeal Status
-   - TBD based on appeal convo
+- Apply for VGLI
+  - will include links to forms on eBenefits and Prudential sites
+- Track Your Appeal Status
+  - TBD based on appeal convo
    
- ## Burials
+## Burials
  
- **More Resources**
+**More Resources**
  
- - Rates (title TBD)
+- Rates (title TBD)
    - includes all DIC and how to read pages
 
 ## Records
