@@ -62,14 +62,14 @@ Likely new audience benefits hubs:
 
 ## Post-MVP work (i.e., we won't get to this work until after launch)
 
-### CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS 
+#### CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS ~ CMS 
 
 #### Create 'Working with VA' content hub
 This will be where we put content for 1. people who help administer VA benefits (e.g., home loan officers) and 2. anyone doing business with VA (e.g., vendors).
 
 #### Create 'VA Employee' content hub
 
-### Create affinity group, conditions, and service era content hubs (some benefits-related, some not)
+#### Create affinity group, conditions, and service era content hubs (some benefits-related, some not)
 Some examples of these groups:
 - Homeless Veterans (see https://www.va.gov/homeless/)
 - Women Veterans (see https://www.va.gov/womenvet/)
@@ -82,3 +82,85 @@ These should live under our Facilities Locator (rather than under VHA's section 
 
 #### Benefits content translations
 We could consider creating a language selector pattern to toggle to translated content.
+
+### Content Questions and Open Items
+
+#### Content that needs a home
+-	Lots of content that is still TBD, need to finalize where it goes
+-	Health care specifically has a number of “Special Groups” – Family, Caregivers, elderly, homeless, incarcerated, gulf war, Korean war, LGB, Minority, Native americans, POWs, Living overseas, Vietnam war, women, world war II
+-	Appeals modernization and Board of Veterans Appeals 
+  - Where does the appeals content belong?
+  - Many areas have access to track an appeal, but don’t have content on how to file one
+-	Content that is generic to multiple benefit areas
+  - Accredited Representatives
+  - Update Direct Deposit, Track Your Claims
+    - [x] Place at root level, link each hub to one single page
+
+#### Records and Tools and Root Level Content
+-	Discuss what makes something a record or not?  
+  - Track your claims versus download VA benefit letters?  Users do go to Records to find claim status, and letters are a document not a record?
+-	There are a variety of items that don’t belong to one 
+-	Should this be linked to from every benefit hub?
+-	Review root level content pages
+  - Welcome Kit, playbook, scorecard, etc.  
+  - Profile and account
+  - Privacy, security pages
+
+#### Significant IA Changes
+-	Health Care – review of Conditions area, new content pages
+-	Disability – Movement of larger areas under eligibility, addition of newer items (Claim for increase, supplemental forms, dependents), About Disability Ratings section
+-	Education – movement of ways to use benefits,  breaking apart forms wizard, new content pages, addition of Opt out and Complaint Tool
+  - [ ] Follow up with Alex Taylor
+-	Careers – TBD
+-	Pension – ok
+-	Housing – new content pages, Homelessness content?
+  - Homeless content not part of MVP of Housing
+-	Life Insurance – significant amount of VA.gov content pages, pop-ups
+-	Burials – restructure of spokes, mostly reviewed and ok
+
+#### VHA, VBA, NCA Hubs
+-	For content “moving” to these hubs, what does that mean?
+-	Do we provide a single entry point to the administration hub or do we need to bubble up some of the content in the benefit hub.
+o	We will provide a single entry point to the admin hub through the right rail on the hub page.  The admins can also use the promo spot to highlight any key information.  
+-	At what point do we need to start defining the structure of these areas to ensure all required content is accessible and findable?
+  - Audit top nav, left nav and resources right rail on current VA site.  Note which items will no longer be readily accessible from new benefit hubs. Lower priority, post URL mapping. October?
+  - Start to define guidelines and purpose of the administration hubs 
+
+#### Crosslinking/Related Benefits – “Other VA Benefits and Services”
+-	Define what types of items should go in this area and what the correct label should be
+-	Originally defined as other VA benefits the user may be interested in
+-	Jennifer R interpreted the “Related” term to mean that they were benefits the user would be eligible for
+-	What other items are options for this area:
+  - Just VA benefits? Other gov benefits not offered through VA? Look at derivative benefits.
+  - What defines a VA service?  Social work?
+  - Jennifer R made reference to requirements to link out to other non-VA resources
+-	Stay focused on core benefits for this section, consider another section (future) if we need more detailed related/derivative benefits list
+
+#### Content Changes
+-	Number of pages that will need content changes because
+- New structure and context
+- Needs to accommodate new child pages
+- Needs to include inline links to VA pages
+- Small content additions to ensure coverage of pages that are being retired/consolidated
+- Stakeholder review and approval of changes
+- Where do we do these changes – production?
+
+#### Footer, About VA
+-	Areas that I have not spent significant time on
+
+#### URL Changes and Retiring Pages
+-	How to capture pages that should be “retired” and what they should be redirected to, if at all
+-	Who needs to view URL changes and what format would work best?  
+  - SCRUM team will need access – Wyatt, Bill John, Sophia?
+  - SMEs 
+-	Rediercting
+  - Look at whether retired pages should be redirected to equivalent page or to the hub
+
+#### SEO Questions
+-	Page names/URLs for promo pages prior to authenticated tools 
+  - how to name the promo page without being duplicative with the actual tool
+
+#### Benefit Menus on Sub-domains
+-	what do to with them, as most may not work
+-	How to find them?
+
