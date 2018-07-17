@@ -83,7 +83,7 @@ These should live under our Facilities Locator (rather than under VHA's section 
 #### Benefits content translations
 We could consider creating a language selector pattern to toggle to translated content.
 
-### Content Questions and Open Items
+## Content Questions and Open Items
 
 #### Content that needs a home
 -	Lots of content that is still TBD, need to finalize where it goes
