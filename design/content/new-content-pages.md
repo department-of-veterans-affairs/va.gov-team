@@ -1,5 +1,17 @@
 # New Content Pages to be Created
 
+## Order of Priority
+
+- [ ] Health Care (VHA)
+- [ ] Disability (VBA)
+- [ ] Education and Training (VBA)
+- [ ] Pension (VBA)
+- [ ] Burials and Memorials (NCA)
+- [ ] Records (no single owner)
+- [ ] Housing Assistance (VBA)
+- [ ] Life Insurance (VBA)
+- [ ] Careeers and Employment (VBA)
+
 ## Health Care
 
 **Manage Tasks**
