@@ -20,7 +20,6 @@
 - Order Hearing Aid Batteries or Prosthetic Socks
 - Get Your VA Health Care Records 
 - Update Your Health Benefit Information
-- Make a Health Care Appointment
 - Wellness Programs
 
 
