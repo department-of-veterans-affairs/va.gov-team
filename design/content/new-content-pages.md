@@ -24,8 +24,7 @@
 - Update Your Health Benefit Information
   - This page should inlcude reference to updating personal information and location of care
 - Make a Health Care Appointment
-- Track Your Health Care Appeal Status
-  - This is pending questiosn around appeals and whether there should be a single Appeal Status static page for all appeals
+
 
 **More Resources**  
 - Wellness Programs
@@ -50,7 +49,7 @@
   
 ## Careers
   
-None at this time
+- Apply for VR&E (application is on eBenefits)
   
 ## Pensions
   
@@ -61,11 +60,7 @@ None at this time
 **Manage Tasks**
   
 - Apply for a Home Loan COE
-- Track Your Housing Appeal Status
-  - may change depending on appeals convo
 - Apply for Adaptive Housing Grant
-- Track Your SAH Claim Status
-  - may change depending on appeals/claim status convo
     
 ## Life Insurance
  
@@ -73,15 +68,10 @@ None at this time
  
 - Apply for VGLI
   - will include links to forms on eBenefits and Prudential sites
-- Track Your Appeal Status
-  - TBD based on appeal convo
    
 ## Burials
  
-**More Resources**
- 
-- Rates (title TBD)
-   - includes all DIC and how to read pages
+None at this time
 
 ## Records
 
@@ -93,9 +83,8 @@ None at this time
 ## Root
 
 - Track Your Claims and Appeals Status
-  - TBD based on claims/appeals convos
 - File an Appeal
-  - TBD based on claims/appeals convo
+  - TBD based on appeals convo
 - Update Your Direct Deposit and Contact Information
 
  
