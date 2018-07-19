@@ -25,6 +25,7 @@
 
 ## Disability
 
+- Apply for Disability
 - Upload Documents to Support Your Claim
 
 ## Education
