@@ -19,18 +19,14 @@
 - Send a Secure Message to Your Health Care Team
 - View Your Labs and Test Results
 - Order Hearing Aid Batteries or Prosthetic Socks
-- Get Your VA Health Care Records
-  - This page would include links/content for Downloading records (Blue Button) and Sharing Your VA Health Records (MHV)
+- Get Your VA Health Care Records 
 - Update Your Health Benefit Information
-  - This page should inlcude reference to updating personal information and location of care
 - Make a Health Care Appointment
 
 
 **More Resources**  
 - Wellness Programs
-  - This content does not have a group landing page, so we will create a simple page with links to all wellness related programs/content that are currently included in this grouping
-- Special Groups  - TBD
-  - This content does not have a group landing page, so we will create a simple page with links to all wellness related programs/content that are currently included in this grouping
+
 
 ## Disability
 
@@ -45,7 +41,6 @@
 **Manage Tasks**
 - Check Your Post-9/11 GI Bill Benefits
 - Make a Change to Your GI Bill Benefits
-  - This includes Changes for both Veterans and Dependants
   
 ## Careers
   
@@ -67,7 +62,6 @@ None at this time
 **Get Benefits**
  
 - Apply for VGLI
-  - will include links to forms on eBenefits and Prudential sites
    
 ## Burials
  
@@ -78,13 +72,11 @@ None at this time
 - Request Your Military Records
 - Download You VA Benefit Letters
 - Get a Veteran ID Card
-  - will include links to VIC, DOD card, Veteran Designation on License and Health ID Card
 
 ## Root
 
 - Track Your Claims and Appeals Status
-- File an Appeal
-  - TBD based on appeals convo
+- File an Appeal - TBD based on appeals convo
 - Update Your Direct Deposit and Contact Information
 
  
