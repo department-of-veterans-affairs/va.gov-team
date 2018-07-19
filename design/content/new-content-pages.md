@@ -14,7 +14,6 @@
 
 ## Health Care
 
-**Manage Tasks**
 - Refill or Track Your Presriptions
 - Send a Secure Message to Your Health Care Team
 - View Your Labs and Test Results
@@ -22,23 +21,16 @@
 - Get Your VA Health Care Records 
 - Update Your Health Benefit Information
 - Make a Health Care Appointment
-
-
-**More Resources**  
 - Wellness Programs
 
 
 ## Disability
 
-**Manage Tasks**
 - Upload Documents to Support Your Claim
 
 ## Education
 
-**Get Benefits**
 - Types of Training and Assistance (title TBD)
-
-**Manage Tasks**
 - Check Your Post-9/11 GI Bill Benefits
 - Make a Change to Your GI Bill Benefits
   
@@ -52,14 +44,10 @@ None at this time
   
 ## Housing
   
-**Manage Tasks**
-  
 - Apply for a Home Loan COE
 - Apply for Adaptive Housing Grant
     
 ## Life Insurance
- 
-**Get Benefits**
  
 - Apply for VGLI
    
