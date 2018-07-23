@@ -1,5 +1,8 @@
 # Key Working Docs
 
+### Content Work Punchlist
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/content-work-list.md
+
 ### New Contet Pages to Create
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
 
