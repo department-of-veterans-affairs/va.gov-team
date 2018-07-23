@@ -1,7 +1,11 @@
-# Key Content Docs
+# Key Working Docs
 
-### Content Audit
-https://docs.google.com/spreadsheets/d/1zAyUp9Eo6mBXR0vPRxiXfcuD11bJK5Q8vsZtD0ekxXw/edit#gid=0
+### New Contet Pages to Create
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
+
+### Top Nav & Hub Page Link Lists
+https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=0
+
 
 ### Site Maps
 - Root: https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/a4dc7a719 
@@ -20,5 +24,5 @@ https://docs.google.com/spreadsheets/d/1zAyUp9Eo6mBXR0vPRxiXfcuD11bJK5Q8vsZtD0ek
 https://docs.google.com/spreadsheets/d/1Qox61fU-MWoaR7bYFMz9inW78pqIEH81uZKa5bPI3Rg/edit#gid=0
 
 
-### Top Nav & Hub Page Link Lists
-https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=0
+### Content Audit
+https://docs.google.com/spreadsheets/d/1zAyUp9Eo6mBXR0vPRxiXfcuD11bJK5Q8vsZtD0ekxXw/edit#gid=0
