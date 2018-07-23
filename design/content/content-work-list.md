@@ -4,16 +4,16 @@
 ## Baseline 2018 MVP work (i.e., we must complete this work by launch)
 
 #### Build new benefit hubs (9 in total)
-- [ ] Create link list for each spoke (3 in total) for each benefit hub (main body)
+- [x] Create link list for each spoke (3 in total) for each benefit hub (main body) - https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=434085583
 - [ ] Create link list for related resources and social media for each benefit hub (right rail)
 - [ ] Create help links and/or content for each benefit hub (right rail)
 - [ ] Write link teaser text for each spoke link list (main body)
 - [ ] Write hub intro text (main body)
 
 #### Build new ‘Health and Benefits’ mega menus and homepage zone 1 link lists using each benefit hub’s spoke links, and homepage zone 2 benefits index
-- [ ] Use up to the first 8 links from each benefit hub’s spoke 1 and spoke 2 for each benefit mega menu
+- [x] Use up to the first 8 links from each benefit hub’s spoke 1 and spoke 2 for each benefit mega menu - https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=434085583
 - [ ] Determine featured content for each benefit menu (which will also show on each benefit hub page)
-- [ ] Use the corresponding links from each benefit hub for the homepage zone 1 top tasks links lists
+- [x] Use the corresponding links from each benefit hub for the homepage zone 1 top tasks links lists - https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=434085583
 - [ ] Write teaser text for each benefit category homepage zone 2 benefits index
 
 #### Build new ‘About VA’ mega menu, ‘Contact Us’ menu, and global footer
@@ -23,11 +23,11 @@
 - [ ] Create link list for global footer (5 in total)
 
 #### Create IA mapping for each benefit hub
-- [ ] Determine how 2nd, 3rd, and 4th level content maps to each benefit hub
-- [ ] Move around static content pages, as needed
-- [ ] Create updated benefit IA so future content has a place to go
+- [x] Determine how 2nd, 3rd, and 4th level content maps to each benefit hub - Links to Site Maps: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/design/content
+- [x] Move around static content pages, as needed
+- [x] Create updated benefit IA so future content has a place to go
 - [ ] Determine how to handle user experience for authenticated links (including hub, menu, and homepage links)
-  - Create new static content pages for authenticated links (if that’s the chosen design solution)
+- [ ] Create new static content pages for authenticated links (if that’s the chosen design solution) - List of pages needed here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
 
 #### Build new ‘Health and Benefits’ and ‘About VA’ URL schemata for VA.gov, and maximize VA.gov SEO
 - [ ] Determine root URLs for each benefit hub and update URL schema for each benefit hub to reflect new benefit IA
@@ -93,8 +93,7 @@ We could consider creating a language selector pattern to toggle to translated c
   - Many areas have access to track an appeal, but don’t have content on how to file one
 -	Content that is generic to multiple benefit areas
   - Accredited Representatives
-  - Update Direct Deposit, Track Your Claims
-    - [x] Place at root level, link each hub to one single page
+  - Update Direct Deposit, Track Your Claims  - *Place at root level, link each hub to one single page*
 
 #### Records and Tools and Root Level Content
 -	Discuss what makes something a record or not?  
