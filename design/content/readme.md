@@ -3,7 +3,7 @@
 ### New Contet Pages to Create
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
 
-### Top Nav & Hub Page Link Lists
+### Home Page, Top Nav, Hub Page Link Lists
 https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=0
 
 
