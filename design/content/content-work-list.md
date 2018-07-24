@@ -5,8 +5,8 @@
 
 #### Build new benefit hubs (9 in total)
 - [x] Create link list for each spoke (3 in total) for each benefit hub (main body) - https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=434085583
-- [ ] Create link list for related resources and social media for each benefit hub (right rail)
-- [ ] Create help links and/or content for each benefit hub (right rail)
+- [ ] Create link list for related resources for each benefit hub (right rail)
+- [ ] Create help links and social media links for each benefit hub (right rail)
 - [ ] Write link teaser text for each spoke link list (main body)
 - [ ] Write hub intro text (main body)
 
@@ -88,12 +88,12 @@ We could consider creating a language selector pattern to toggle to translated c
 #### Content that needs a home
 -	Lots of content that is still TBD, need to finalize where it goes
 -	Health care specifically has a number of “Special Groups” – Family, Caregivers, elderly, homeless, incarcerated, gulf war, Korean war, LGB, Minority, Native americans, POWs, Living overseas, Vietnam war, women, world war II
--	Appeals modernization and Board of Veterans Appeals 
-  - Where does the appeals content belong?
-  - Many areas have access to track an appeal, but don’t have content on how to file one
+-	[x] Appeals modernization and Board of Veterans Appeals. Many areas have access to track an appeal, but don’t have content on how to file one. Where does the appeals content belong?  There was a request to have this available from each benefit hub. 
+      - We will not be handling this for MVP, table and Andy will continue to look into it
 -	Content that is generic to multiple benefit areas
   - Accredited Representatives
-  - Update Direct Deposit, Track Your Claims  - *Place at root level, link each hub to one single page*
+  - [x] Update Direct Deposit, Track Your Claims
+    - Place at root level, link each hub to one single page
 
 #### Records and Tools and Root Level Content
 -	Discuss what makes something a record or not?  
