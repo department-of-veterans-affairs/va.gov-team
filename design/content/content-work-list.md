@@ -92,11 +92,11 @@ We could consider creating a language selector pattern to toggle to translated c
 -	[x] Appeals Many areas have access to track an appeal, but don’t have content on how to file one. Where does the appeals content belong? Appeals content in Disability only. There was a request to have this available from each benefit hub. 
   - _We will not be handling this for MVP, table and Andy will continue to look into it_
 -	[ ] Content that is generic to multiple benefit areas. Some content should be included in multiple benefit areas, determine where each of these belong for a home and how to link to them.
-  - Accredited Representatives
+  - [ ] Accredited Representatives
   - [x] Update Direct Deposit, Track Your Claims
-     - _Place at root level, link each hub to one single page_
+  - _Place at root level, link each hub to one single page_
 - [x]	Discuss what makes something a record or not? Track your claims versus download VA benefit letters?  Users do go to Records to find claim status, and letters are a document not a record?
-  - _this will continue to be a topic of discussion and research as we evolve the Records hub_
+  -  _this will continue to be a topic of discussion and research as we evolve the Records hub_
 -	Review root level content pages
   - [ ] Welcome Kit, playbook, scorecard, etc.  
   - [ ] Profile and account
