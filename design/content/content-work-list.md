@@ -104,11 +104,10 @@ We could consider creating a language selector pattern to toggle to translated c
   - [ ] Review footer items
 
 #### Significant IA Changes
--	[ ] Ensure SMEs are clear on the major IA changes
-  - [ ]Health Care – review of Conditions area, new content pages
-  -	[ ] Disability – Movement of larger areas under eligibility, addition of newer items (Claim for increase, supplemental forms, dependents), About Disability Ratings section
-  -	[ ] Education – movement of ways to use benefits,  breaking apart forms wizard, new content pages, addition of Opt out and Complaint Tool
-    - [ ] Follow up with Alex Taylor
+Ensure SMEs are clear on the major IA changes
+- [x] Health Care – review of Conditions area, new content pages
+- [ ] Disability – Movement of larger areas under eligibility, addition of newer items (Claim for increase, supplemental forms, dependents), About Disability Ratings section
+-	[ ] Education – movement of ways to use benefits, new content pages, addition of Opt out and Complaint Tool
 -	[x] Housing – Homelessness content?
   - _Homeless content not part of MVP of Housing_
 -	[ ] Life Insurance – significant amount of VA.gov content pages, pop-ups
