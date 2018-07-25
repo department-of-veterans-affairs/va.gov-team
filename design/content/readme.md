@@ -3,6 +3,9 @@
 ### Content Work Punchlist
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/content-work-list.md
 
+### IA Open Issues
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/open_issues.md
+
 ### New Contet Pages to Create
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
 
