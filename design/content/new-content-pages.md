@@ -2,15 +2,15 @@
 
 ## Order of Priority
 
-- [ ] Health Care (VHA)
-- [ ] Disability (VBA)
-- [ ] Education and Training (VBA)
-- [ ] Pension (VBA)
-- [ ] Burials and Memorials (NCA)
-- [ ] Records (no single owner)
-- [ ] Housing Assistance (VBA)
-- [ ] Life Insurance (VBA)
-- [ ] Careeers and Employment (VBA)
+- [ ] Health Care (VHA) - APPROVED
+- [ ] Disability (VBA) - APPROVED
+- [ ] Education and Training (VBA) - CHANGES REQUESTED
+- [ ] Pension (VBA) - PENDING REVIEW
+- [ ] Burials and Memorials (NCA) - APPROVED
+- [ ] Records (no single owner) - NO APPROVAL NEEDED
+- [ ] Housing Assistance (VBA) - PENDING REVIEW
+- [ ] Life Insurance (VBA) - REVIEW FEEDBACK
+- [ ] Careeers and Employment (VBA) - PENDING REVIEW
 
 ## Health Care
 
