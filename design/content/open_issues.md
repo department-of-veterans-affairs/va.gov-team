@@ -29,12 +29,12 @@
  
  ### Life Insurance
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. 
+- [ ] Family SGLI - Do we move this up and out from under the general options to provide visibility to family/dependent benefits like we do in other hubs?  Or do we create a page that includes reference to all the family/dependent options (i.e.FSGLI, Ben Fin Counsel, Will Prep, etc.)
 
 ### Burials
-- [ ]  Find a Cemetery - This is a group of pages that will be partly retired, partly moved to new Burials hub and partly left as part of NCA hub.  Need to finalize what this looks like. https://www.cem.va.gov/cem/cems/index.asp
-  - Keep the Overview page that then links to Facility Locator
-  - Retire the National and State Cemeteries pages
-  - Leave the Volunteer and Design pages, they will be findable from the NCA hub
+- [x]  Find a Cemetery - This is a group of pages that will be partly retired, partly moved to new Burials hub and partly left as part of NCA hub.  Need to finalize what this looks like. https://www.cem.va.gov/cem/cems/index.asp
+  - Keep the Overview page and content, link to Facility Locator for National and State cemeteries.  All other content, including cemetery detail pages will live in NCA hub.  Cemetery detail pages will be accessible via the Facility Locator tool. 
 
-- [ ] Cemetery Detail Pages - The cemetery locator function will be handled by the Facility Locator by launch.  However, Facility Locator links back to individual cemetery detail pages.  Do the URLs of these pages all update to be part of the Burials hub, or will this content be in the NCA hub?
+- [x] Cemetery Detail Pages - The cemetery locator function will be handled by the Facility Locator by launch.  However, Facility Locator links back to individual cemetery detail pages.  Do the URLs of these pages all update to be part of the Burials hub, or will this content be in the NCA hub?
+  - Cemetery pages will live in NCA hub, no URL changes. 
 
