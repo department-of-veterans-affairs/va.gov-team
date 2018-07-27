@@ -35,6 +35,8 @@
  - [ ] WAVE Web Automated Verification of Enrollment - Is this redundant to checking your GI Bill benefit status, or is this a different task that should be included in Manage spoke? https://www.gibill.va.gov/wave/index.do
  
  - [ ] My Story Microsite - Do we move (i.e. change URL) this content into the Education hub? https://www.benefits.va.gov/gibill/my_story.asp
+ 
+ - [ ] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages or the left nav once in the hub. 
 
  
  ### Careers
