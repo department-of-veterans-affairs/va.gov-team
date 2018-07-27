@@ -10,6 +10,8 @@
 - [x] Scheduling/Viewing Appointments - What are all the different tools and where are they located?  There are static pages that talk about these tools on Vets, VA and MHV.  How can we simplify this experience?  What pages do we need to keep? 
   - We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9
   
+- [ ] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
+  
 ### Disability
 - [ ] Historic Rate pages - There are main rate pages for the differet types of compensation rates.  Each of them then link to historic rates, each year is a separate page.  Will we be updating the URLs of all of those historic rate pages as well?  The current year's rates live on the main page, how does this impact the process of moving the rates off the main page onto a historic/year page and posting the new rates?
 
