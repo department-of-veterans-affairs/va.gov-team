@@ -22,9 +22,9 @@
  ### Education
  - [ ] Apply Now Wizard - The current Vets site has a "wizard" that directs users to the correct application.  In the new IA there are contextual links that take users straight to specific forms and bypass the wizard.  Need to discuss this change with SMEs to determine any technical needs or UX challenges. 
  
- - [ ] Contact/Feedback Pages/Regional Processing Offices
+ - [ ] WAVE Web Automated Verification of Enrollment - Is this redundant to checking your GI Bill benefit status, or is this a different task that should be included in Manage spoke? https://www.gibill.va.gov/wave/index.do
  
- - [ ] My Story Microsite
+ - [ ] My Story Microsite - Do we move (i.e. change URL) this content into the Education hub? https://www.benefits.va.gov/gibill/my_story.asp
  
  
  ### Life Insurance
