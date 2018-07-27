@@ -82,6 +82,7 @@
 ### Retiring Pages
 - [ ] Retiring VA.gov pages
   - 301 Redirect for those that are being replaced by Vets version?
+  - Plan for thos pages outdated or no longer needed (not being replaced)
   - Documentation
   - Accessing content for future reference
   
