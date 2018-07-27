@@ -61,6 +61,7 @@ None at this time
 - Request Your Military Records
 - Download You VA Benefit Letters
 - Get a Veteran ID Card
+- View Your VA Payment History
 
 ## Root
 
