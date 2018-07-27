@@ -23,6 +23,8 @@
   - Create a single static page to include in the Disability hub about DBQ.  This page will keep the user in the HC hub to get high level info. The page will link to this microsite. Going to the microsite will take the user out of the Disability hub. 
   - Use the main page of the DBQ as the overview page and move it to the Disability hub (URL change).  Leave all other pages where they are.  Going to other pages will take the user out of the Disability hub. 
 
+- [ ] Radiogenic Risk Activities page on VA.gov - Is this the same as our Radiation Exposure page, or do we need to consider this page in our Exposures area?  https://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
+
   
   
  ### Education
