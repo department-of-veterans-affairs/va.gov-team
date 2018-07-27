@@ -80,16 +80,11 @@
 - [ ] Administration Hubs - What work needs to be done, in terms of IA, to ensure that these hubs provide accessibility to all the content that is not included in the benefit hubs, as well as prominent access to the benefit hubs?
 
 ### Retiring Pages
-- [ ] Retiring VA.gov pages
-  - 301 Redirect for those that are being replaced by Vets version?
-  - Plan for thos pages outdated or no longer needed (not being replaced)
-  - Documentation
+- 301 Redirect for those that are being replaced?
+- Plan for thos pages outdated or no longer needed (not being replaced)
+- Documentation
   - Accessing content for future reference
-  
-- [ ] Retiring Vets.gov pages
-  - Documentation
-  - Accessing content for future reference
-  - List (not complete):
+- Vets.gov List (not complete):
     - Advvanced Training and Certifications https://www.vets.gov/education/advanced-training-and-certifications/
     - Non-Traditional Options  https://www.vets.gov/education/work-learn/non-traditional/
     - Work and Learn https://www.vets.gov/education/work-learn/
