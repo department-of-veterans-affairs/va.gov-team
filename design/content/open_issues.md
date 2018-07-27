@@ -11,6 +11,9 @@
   - We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9
   
 - [ ] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
+
+- [ ] Wellness Programs - This is a grouping of pages from across the site and various sub-domains. There isn't landing or overview page for this contet. 
+  - Recommendation: Create a new static page that describes the various Wellness programs and links to the appropriate pages. The new page will live in the HC hub and link to the other pages.  No changes will be made to any other pages. The grouping can stay intact for the VHA hub.
   
 ### Disability
 - [ ] Historic Rate pages - There are main rate pages for the differet types of compensation rates.  Each of them then link to historic rates, each year is a separate page.  Will we be updating the URLs of all of those historic rate pages as well?  The current year's rates live on the main page, how does this impact the process of moving the rates off the main page onto a historic/year page and posting the new rates?
