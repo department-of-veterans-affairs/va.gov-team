@@ -2,24 +2,24 @@
 
 ### Health Care
 - [x] Health ID Card page - This page currently exists on VA.gov. Now that we are combining all ID cards into a single static page, do we still need this page that is specific to the Health ID Card.  https://www.va.gov/HEALTHBENEFITS/vhic/index.asp
-  - _Main ID card page will link to this health care ID card page for further information and instructions. Keep page in IA._
+  - _Decision: Main ID card page will link to this health care ID card page for further information and instructions. Keep page in IA._
 
 - [x] Community Care - Microsite that includes a heavy amount of content that is not geared towards Veterans.  https://www.va.gov/communitycare/ Options:
-  - _Link to this microsite from the HC hub page.  Do not make any changes to this site, URLs all stay the same. Clicking on option will take user out of HC hub. Link to the main page of Community Care site. Keep in left nav._
+  - _Decision: Link to this microsite from the HC hub page.  Do not make any changes to this site, URLs all stay the same. Clicking on option will take user out of HC hub. Link to the main page of Community Care site. Keep in left nav._
   - Create a single static page to include in the HC hub about Community Care.  This page will keep the user in the HC hub to get high level info. The page will link to this microsite. Going to the microsite will take the user out of the HC hub. 
   
 - [x] Scheduling/Viewing Appointments - What are all the different tools and where are they located?  There are static pages that talk about these tools on Vets, VA and MHV.  How can we simplify this experience?  What pages do we need to keep? 
-  - _We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9_
+  - _Decision: We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9_
   
 - [x] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to   - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
-  - _Confirm all options available on MHV, ensure 1 to 1 mapping of static pages to main options within MHV.  Crosslinking can be used as needed, but each page will have one main call to action into the appropriate area of MHV._
+  - _Decision: Confirm all options available on MHV, ensure 1 to 1 mapping of static pages to main options within MHV.  Crosslinking can be used as needed, but each page will have one main call to action into the appropriate area of MHV._
 
 
 - [x] Wellness Programs - This is a grouping of pages from across the site and various sub-domains. There isn't landing or overview page for this contet. 
-  - _Create a new static page that describes the various Wellness programs and links to the appropriate pages. The new page will live in the HC hub and link to the other pages.  No changes will be made to any other pages. The grouping can stay intact for the VHA hub._
+  - _Decision: Create a new static page that describes the various Wellness programs and links to the appropriate pages. The new page will live in the HC hub and link to the other pages.  No changes will be made to any other pages. The grouping can stay intact for the VHA hub._
   
 - [x]	Health care “Special Groups” – Family, Caregivers, elderly, homeless, incarcerated, gulf war, Korean war, LGB, Minority, Native americans, POWs, Living overseas, Vietnam war, women, world war II
-  - _Special groups will not be handled as part of first release.  Link to this content as needed, many will also be linked in the footer initially.  These will be part of future phase._
+  - _Decision: Special groups will not be handled as part of first release.  Link to this content as needed, many will also be linked in the footer initially.  These will be part of future phase._
   
 ### Disability
 - [ ] Historic Rate pages - There are main rate pages for the differet types of compensation rates.  Each of them then link to historic rates, each year is a separate page.  Will we be updating the URLs of all of those historic rate pages as well?  The current year's rates live on the main page, how does this impact the process of moving the rates off the main page onto a historic/year page and posting the new rates?
@@ -70,10 +70,10 @@
 
 ### Burials
 - [x]  Find a Cemetery - This is a group of pages that will be partly retired, partly moved to new Burials hub and partly left as part of NCA hub.  Need to finalize what this looks like. https://www.cem.va.gov/cem/cems/index.asp
-  - Keep the Overview page and content in the Burials hub.  On that page, link to Facility Locator for National and State cemeteries links.  DOI and AMBC pages will remain as is and live in NCA hub.  Volunteer and Construction/Design pages will live in NCA hub.  Cemetery detail pages will live in NCA hub, but will be accessible from Facility Locator.  
+  - _Decision: Keep the Overview page and content in the Burials hub.  On that page, link to Facility Locator for National and State cemeteries links.  DOI and AMBC pages will remain as is and live in NCA hub.  Volunteer and Construction/Design pages will live in NCA hub.  Cemetery detail pages will live in NCA hub, but will be accessible from Facility Locator._ 
 
 - [x] Cemetery Detail Pages - The cemetery locator function will be handled by the Facility Locator by launch.  However, Facility Locator links back to individual cemetery detail pages.  Do the URLs of these pages all update to be part of the Burials hub, or will this content be in the NCA hub?
-  - Cemetery pages will live in NCA hub, no URL changes. 
+  - _Decision: Cemetery pages will live in NCA hub, no URL changes._
   
 - [ ] NCA Mobile Site 
 
@@ -82,10 +82,10 @@
 
 ### Records/Root Level Content
 - [x] Claim and Appeal Status - Does the Vets tool include more than Disability statuses.  Do we need a different static page for every status tool, or can we use a single static page to divert traffic through?
-  - The goal is to have all claim and appeal types available through the Vets.gov tool by launch.  This will mean we can have a single static page that all benefit hubs link to that will describe the statuses that are available and link to a single tool.  If this does not happen, we will keep the single static page, but will link off to different tools as appropriate
+  - _Decision: The goal is to have all claim and appeal types available through the Vets.gov tool by launch.  This will mean we can have a single static page that all benefit hubs link to that will describe the statuses that are available and link to a single tool.  If this does not happen, we will keep the single static page, but will link off to different tools as appropriate._
 
 - [x] Appeals - The only content on the site for appeals, is under Disability.  Many benefit hubs have the ability to track an appeal but nothing on filing an appeal. 
-  - This will be part of a future phase.  
+  - _Decision: This will be part of a future phase._
   
 - [ ] Administration Hubs - What work needs to be done, in terms of IA, to ensure that these hubs provide accessibility to all the content that is not included in the benefit hubs, as well as prominent access to the benefit hubs?
 
