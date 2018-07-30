@@ -38,6 +38,7 @@ These are broad groupings of URL-related work, for both design and development, 
   - Example: VA.gov/health should change to VA.gov/vha so users don't accidentaly go there instead of the new Health Care benefit hub (VA.gov/health-care)
 - We will need to work with our stakeholders on reviewing and approving these changes (they will need to consider and plan for internal administration change management)
 - We will need to work with OI&T on impementation
+- We are not dealing with subdomains right now
 
 ### 5. Create list of existing VA.gov URLs with benefits content that should be retired
 
