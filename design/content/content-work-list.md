@@ -86,23 +86,6 @@ We could consider creating a language selector pattern to toggle to translated c
 
 # Content Questions and Open Items
 
-#### Content that needs a home
-- [x]	Health care “Special Groups” – Family, Caregivers, elderly, homeless, incarcerated, gulf war, Korean war, LGB, Minority, Native americans, POWs, Living overseas, Vietnam war, women, world war II
-  - _Special groups will not be handled as part of first release.  Link to this content as needed, many will also be linked in the footer initially.  These will be part of future phase._
--	[x] Appeals Many areas have access to track an appeal, but don’t have content on how to file one. Where does the appeals content belong? Appeals content in Disability only. There was a request to have this available from each benefit hub. 
-  - _We will not be handling this for MVP, table and Andy will continue to look into it_
--	[ ] Content that is generic to multiple benefit areas. Some content should be included in multiple benefit areas, determine where each of these belong for a home and how to link to them.
-  - [ ] Accredited Representatives
-  - [x] Update Direct Deposit, Track Your Claims
-  - _Place at root level, link each hub to one single page_
-- [x]	Discuss what makes something a record or not? Track your claims versus download VA benefit letters?  Users do go to Records to find claim status, and letters are a document not a record?
-  -  _this will continue to be a topic of discussion and research as we evolve the Records hub_
--	Review root level content pages
-  - [ ] Welcome Kit, playbook, scorecard, etc.  
-  - [ ] Profile and account
-  - [ ] Privacy, security pages
-  - [ ] Review footer items
-
 #### Significant IA Changes
 Ensure SMEs are clear on the major IA changes
 - [x] Health Care – review of Conditions area, new content pages
@@ -135,15 +118,6 @@ Ensure SMEs are clear on the major IA changes
 
 #### Footer, About VA
 -	Areas that I have not spent significant time on
-
-#### URL Changes and Retiring Pages
--	[ ] How to capture pages that should be “retired” and what they should be redirected to, if at all
--	[ ] Who needs to view URL changes and what format would work best?  SCRUM team will need access – Wyatt, Bill John, Sophia? SMEs?  
--	[ ] Rediercting - Look at whether retired pages should be redirected to equivalent page or to the hub
-
-#### SEO Questions
--	[x] Page names/URLs for promo pages prior to authenticated tools - how to name the promo page without being duplicative with the actual tool
-  - _Static page will carry the SEO value and appropriate URL and titling.
 
 #### Benefit Menus on Sub-domains
 -	[ ] what do to with them, as most may not work.  How to find them?
