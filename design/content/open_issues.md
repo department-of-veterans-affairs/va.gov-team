@@ -8,12 +8,15 @@
   - Create a single static page to include in the HC hub about Community Care.  This page will keep the user in the HC hub to get high level info. The page will link to this microsite. Going to the microsite will take the user out of the HC hub. 
   
 - [x] Scheduling/Viewing Appointments - What are all the different tools and where are they located?  There are static pages that talk about these tools on Vets, VA and MHV.  How can we simplify this experience?  What pages do we need to keep? 
-  - We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9
+  - _We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9 _
   
 - [ ] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
 
 - [ ] Wellness Programs - This is a grouping of pages from across the site and various sub-domains. There isn't landing or overview page for this contet. 
   - Recommendation: Create a new static page that describes the various Wellness programs and links to the appropriate pages. The new page will live in the HC hub and link to the other pages.  No changes will be made to any other pages. The grouping can stay intact for the VHA hub.
+  
+- [x]	Health care “Special Groups” – Family, Caregivers, elderly, homeless, incarcerated, gulf war, Korean war, LGB, Minority, Native americans, POWs, Living overseas, Vietnam war, women, world war II
+  - _Special groups will not be handled as part of first release.  Link to this content as needed, many will also be linked in the footer initially.  These will be part of future phase._
   
 ### Disability
 - [ ] Historic Rate pages - There are main rate pages for the differet types of compensation rates.  Each of them then link to historic rates, each year is a separate page.  Will we be updating the URLs of all of those historic rate pages as well?  The current year's rates live on the main page, how does this impact the process of moving the rates off the main page onto a historic/year page and posting the new rates?
@@ -85,9 +88,10 @@
 
 ### Retiring Pages
 - 301 Redirect for those that are being replaced?
-- Plan for thos pages outdated or no longer needed (not being replaced)
+- Plan for those pages outdated or no longer needed (not being replaced)
 - Documentation
   - Accessing content for future reference
+  - Who needs to view URL changes and what format would work best?  SCRUM team will need access – Wyatt, Bill John, Sophia? SMEs? 
 - Vets.gov List (not complete):
     - Advvanced Training and Certifications https://www.vets.gov/education/advanced-training-and-certifications/
     - Non-Traditional Options  https://www.vets.gov/education/work-learn/non-traditional/
