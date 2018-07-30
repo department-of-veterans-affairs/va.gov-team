@@ -5,16 +5,16 @@
 
 #### Build new benefit hubs (9 in total)
 - [x] Create link list for each spoke (3 in total) for each benefit hub (main body) - https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=434085583
-- [ ] Create link list for related resources for each benefit hub (right rail)
-- [ ] Create help links and social media links for each benefit hub (right rail)
-- [ ] Write link teaser text for each spoke link list (main body)
-- [ ] Write hub intro text (main body)
+- [x] Create link list for related resources for each benefit hub (right rail)
+- [x] Create help links and social media links for each benefit hub (right rail)
+- [x] Write link teaser text for each spoke link list (main body)
+- [x] Write hub intro text (main body)
 
 #### Build new ‘Health and Benefits’ mega menus and homepage zone 1 link lists using each benefit hub’s spoke links, and homepage zone 2 benefits index
 - [x] Use up to the first 8 links from each benefit hub’s spoke 1 and spoke 2 for each benefit mega menu - https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=434085583
-- [ ] Determine featured content for each benefit menu (which will also show on each benefit hub page)
+- [x] Determine featured content for each benefit menu (which will also show on each benefit hub page)
 - [x] Use the corresponding links from each benefit hub for the homepage zone 1 top tasks links lists - https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=434085583
-- [ ] Write teaser text for each benefit category homepage zone 2 benefits index
+- [x] Write teaser text for each benefit category homepage zone 2 benefits index
 
 #### Build new ‘About VA’ mega menu, ‘Contact Us’ menu, and global footer
 - [ ] Create link lists for ‘About VA’ mega menu (3 in total)
@@ -33,7 +33,7 @@
 - [ ] Determine root URLs for each benefit hub and update URL schema for each benefit hub to reflect new benefit IA
 - [ ] Update duplicative or redundant URLs on VA.gov and update to new URLs (e.g., va.gov/health  va.gov/vha)
 - [ ] Audit and update all benefit hub navigation links, headings , and pages for SEO (e.g., consistency in title tags [50-60 characters] and headings, meta descriptions [50-300 characters], content design [follow proper formatting/structure for content H1-H6], etc.)
-- [ ] Build in Google search keywords into benefit hub pages, links, and content and as individual page metadata
+- [x] Build in Google search keywords into benefit hub pages, links, and content and as individual page metadata
 
 #### Create "Vets.gov is now part of VA.gov" modal for users who are redirected from a Vets.gov URL to its new VA.gov URL
 - [ ] Create 1:1 URL mapping for old Vets.gov URLs and new VA.gov URLs
@@ -110,9 +110,9 @@ Ensure SMEs are clear on the major IA changes
 
 #### Content Changes
 -	[x] How to track all pages that will need content changes because new structure and context, need to accommodate new child pages, need to include inline links to VA pages, small content additions to ensure coverage of pages that are being retired/consolidated, etc
-  - _Beth will use the content audit spreadsheet_
+  - _Beth and Danielle will use the content audit spreadsheet_
 - [x] Determine how to handle stakeholder review and approval of changes
-  - _Beth and Andy to work out process_
+  - _Beth, Danielle, and Andy to work out process_
 - [ ] Where do we do these changes
 
 
