@@ -44,6 +44,8 @@
  - [ ] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages or the left nav once in the hub. 
  
  - [ ] Tuition Assistance Top-up - this page is currently grouped with ways to use your benefits, but doesn't seem to fit in that grouping. Is this more of a Manage task? Request a Tuition Assistance Top-up?
+ 
+ - [ ] Education Benefit Rates - Top level page with many child pages for each year and type of education benefit.  Will we update the URLs of all pages, or link off to these pages? https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp
 
  
  ### Careers
