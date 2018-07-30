@@ -32,7 +32,7 @@
 
   
   
- ### Education
+### Education
  - [ ] Apply Now Wizard - The current Vets site has a "wizard" that directs users to the correct application.  In the new IA there are contextual links that take users straight to specific forms and bypass the wizard.  Need to discuss this change with SMEs to determine any technical needs or UX challenges. 
  
  - [ ] Yellow Ribbon Participating SChools pages - There is a page for each year and under each year there is a page for each state that is participating for that year.  Will we be impacting the URLs for these pages as part of MVP or should they remain as they are?  If they remain, the user will leave the Education hub when they click on a link. 
@@ -45,10 +45,10 @@
  
  - [ ] Tuition Assistance Top-up - this page is currently grouped with ways to use your benefits, but doesn't seem to fit in that grouping. Is this more of a Manage task? Request a Tuition Assistance Top-up?
  
- - [ ] Education Benefit Rates - Top level page with many child pages for each year and type of education benefit.  Will we update the URLs of all pages, or link off to these pages? https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp
+ - [ ] Education Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages? https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp
 
  
- ### Careers
+### Careers
  - [ ] Family pages - There are two pages with family benefits and resources. Determine how these two pages can work together or possibly be combined. The goal is to have a single link in the main navigation for Family and Dependent Benefits
    - https://www.vets.gov/employment/job-seekers/family-members/
    - https://www.vets.gov/employment/vocational-rehab-and-employment/family-members/
@@ -58,7 +58,11 @@
   - https://www.benefits.va.gov/vocrehab/links_resources.asp
  
  
- ### Life Insurance
+### Pension
+- [ ] Historic Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages?https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp
+
+
+### Life Insurance
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. Removing them will require updating all entry point pages to link directly to the associated pdf rather than the pop-up.
 
 - [ ] Family content - There are a few benefits/services available to family members that are not readily called out. Options:
