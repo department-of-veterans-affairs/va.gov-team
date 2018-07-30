@@ -81,7 +81,9 @@ accessibility research - reach out to a11y folks. readers and cognitive aspects.
 - plan a study to see the editor workflow through GH or Teamsite. talk to content editors and identify the pain points in their current workflow.
 
 **A running list of things to research, test, or pay attention to:**
+
 These items have come up in conversation with stakeholders and internally with the team.
+
 - The use of Veteran images at the bottom of the homepage and benefit hub pages
 - Where users expect to see their name (i.e., in the account navigation or on the account homepage, or both)
 - The color and spacing between footer headings and links
