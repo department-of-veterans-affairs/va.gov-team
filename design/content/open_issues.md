@@ -1,7 +1,8 @@
 # IA Open Issues
 
 ### Health Care
-- [ ] Health ID Card page - This page currently exists on VA.gov. Now that we are combining all ID cards into a single static page, do we still need this page that is specific to the Health ID Card.  https://www.va.gov/HEALTHBENEFITS/vhic/index.asp
+- [x] Health ID Card page - This page currently exists on VA.gov. Now that we are combining all ID cards into a single static page, do we still need this page that is specific to the Health ID Card.  https://www.va.gov/HEALTHBENEFITS/vhic/index.asp
+  - _main ID card page will link to this health care ID card page for further information and instructions.  Keep page in IA. _
 
 - [x] Community Care - Microsite that includes a heavy amount of content that is not geared towards Veterans.  https://www.va.gov/communitycare/ Options:
   - _link to this microsite from the HC hub page.  Do not make any changes to this site, URLs all stay the same. Clicking on option will take user out of HC hub. Link to the main page of Community Care site. Keep in left nav._
