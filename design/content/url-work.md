@@ -1,5 +1,5 @@
 # URL Work for New VA.gov
-July 2018
+**July 2018**
 
 These are broad groupings of URL-related work, for both design and development, that need to be considered. This list may not be inclusive of everything that needs to happen, nor does it articulate how to do it.
 
@@ -18,7 +18,7 @@ These are broad groupings of URL-related work, for both design and development, 
 **Design status:** 
 
 **Development status:** 
-- 
+
 
 ### 3. Create 1:1 mappings for each existing Vets.gov URL to be redirected to each new VA.gov URL
 
