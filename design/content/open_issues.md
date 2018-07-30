@@ -89,6 +89,8 @@
   
 - [ ] Administration Hubs - What work needs to be done, in terms of IA, to ensure that these hubs provide accessibility to all the content that is not included in the benefit hubs, as well as prominent access to the benefit hubs?
 
+- [ ] ID Cards - identify all the cards to be listed on this static page, and what additional supporting pages are needed for each card type.  Determine which pages we want to optimize for SEO to determine titles, URLs and meta data. 
+
 ### Retiring Pages
 - 301 Redirect for those that are being replaced?
 - Plan for those pages outdated or no longer needed (not being replaced)
