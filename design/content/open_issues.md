@@ -2,17 +2,17 @@
 
 ### Health Care
 - [x] Health ID Card page - This page currently exists on VA.gov. Now that we are combining all ID cards into a single static page, do we still need this page that is specific to the Health ID Card.  https://www.va.gov/HEALTHBENEFITS/vhic/index.asp
-  - _main ID card page will link to this health care ID card page for further information and instructions.  Keep page in IA. _
+  - _Main ID card page will link to this health care ID card page for further information and instructions. Keep page in IA._
 
 - [x] Community Care - Microsite that includes a heavy amount of content that is not geared towards Veterans.  https://www.va.gov/communitycare/ Options:
-  - _link to this microsite from the HC hub page.  Do not make any changes to this site, URLs all stay the same. Clicking on option will take user out of HC hub. Link to the main page of Community Care site. Keep in left nav._
+  - _Link to this microsite from the HC hub page.  Do not make any changes to this site, URLs all stay the same. Clicking on option will take user out of HC hub. Link to the main page of Community Care site. Keep in left nav._
   - Create a single static page to include in the HC hub about Community Care.  This page will keep the user in the HC hub to get high level info. The page will link to this microsite. Going to the microsite will take the user out of the HC hub. 
   
 - [x] Scheduling/Viewing Appointments - What are all the different tools and where are they located?  There are static pages that talk about these tools on Vets, VA and MHV.  How can we simplify this experience?  What pages do we need to keep? 
-  - _We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9 _
+  - _We will revise the current Vets page that will explain the two tools that are available. The page will include links to both tools and direct them through the login first.  The current MHV static page in front of the Scheduling tool will remain.  See solution here:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/aeddf88e9_
   
 - [x] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to   - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
-  - _Confirm all options available on MHV, ensure 1 to 1 mapping of static pages to main options within MHV.  Crosslinking can be used as needed, but each page will have one main call to action into the appropriate area of MHV. _
+  - _Confirm all options available on MHV, ensure 1 to 1 mapping of static pages to main options within MHV.  Crosslinking can be used as needed, but each page will have one main call to action into the appropriate area of MHV._
 
 
 - [x] Wellness Programs - This is a grouping of pages from across the site and various sub-domains. There isn't landing or overview page for this contet. 
