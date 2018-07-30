@@ -79,3 +79,13 @@ qualitative approach for pension/records/disability issue.
 
 accessibility research - reach out to a11y folks. readers and cognitive aspects. we've added a lot of volume to content and making navigation more difficult. work with Trevor Pierce. 
 - plan a study to see the editor workflow through GH or Teamsite. talk to content editors and identify the pain points in their current workflow.
+
+**A runnin glist of things to research, test, or pay attention to:**
+These items have come up in conversation with stakeholders and internally with the team.
+- The use of Veteran images at the bottom of the homepage and benefit hub pages
+- Where users expect to see their name (i.e., in the account navigation or on the account homepage, or both)
+- The color and spacing between footer headings and links
+- Use of the word "pay" vs. "compensation"
+- Use of the word "VA" as an adjective (i.e., VA health care vs. health care)
+- The efficacy of adding a gray lock icon to authenticated links in the mega menu and benefit hubs
+- How family members, caregivers, and other "delegates" think of the Veteran-facing content and tasks (i.e., does it apply to them? do they act/read on behalf of the Veteran?)
