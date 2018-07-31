@@ -90,12 +90,11 @@ We could consider creating a language selector pattern to toggle to translated c
 Ensure SMEs are clear on the major IA changes
 - [x] Health Care – review of Conditions area, new content pages
 - [x] Disability – Movement of larger areas under eligibility, addition of newer items (Claim for increase, supplemental forms, dependents), About Disability Ratings section
--	[ ] Education – movement of ways to use benefits, new content pages, addition of Opt out and Complaint Tool
+-	[x] Education – movement of ways to use benefits, new content pages, addition of Opt out and Complaint Tool
 -	[x] Housing – Homelessness content?
   - _Homeless content not part of MVP of Housing_
--	[ ] Life Insurance – significant amount of VA.gov content pages, pop-ups
+-	[x] Life Insurance – significant amount of VA.gov content pages, pop-ups
 -	[x] Burials – restructure of spokes
-  - _reviewed and ok_
 
 #### VHA, VBA, NCA Hubs
 -	[ ] For content “moving” to these hubs, what does that mean? Need to create IA for these hubs and ensure proper linking back to Benefits. Start to define guidelines and purpose of the administration hubs 
