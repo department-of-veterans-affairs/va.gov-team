@@ -12,6 +12,8 @@
   
 - [x] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to   - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
   - _Decision: Confirm all options available on MHV, ensure 1 to 1 mapping of static pages to main options within MHV.  Crosslinking can be used as needed, but each page will have one main call to action into the appropriate area of MHV._
+  
+- [ ] CPAP Machines, Hearing Batteries and Prosthetic Socks - Do we list all three in the option or do we call it "Medical Equipment"? It is currently ranked as the 5th link for the top nav, and this is a long link for the top nav. However, "medical equipment" will likely not be as understandable.  Need to determine if this will be in the top nav or home page and what to call it. 
 
 
 - [x] Wellness Programs - This is a grouping of pages from across the site and various sub-domains. There isn't landing or overview page for this contet. 
@@ -61,6 +63,11 @@
 ### Pension
 - [ ] Historic Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages?https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp
 
+
+### Housing
+- [ ] Loan Fees - This page on VA has "purchase loan" in the URL but doesn't specify in the content. Does it apply to all loan types or just a purchase loan?  https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp
+
+- [ ] 
 
 ### Life Insurance
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. Removing them will require updating all entry point pages to link directly to the associated pdf rather than the pop-up.
