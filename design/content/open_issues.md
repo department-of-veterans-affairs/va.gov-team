@@ -24,34 +24,34 @@
   
 ### Disability
 - [x] Historic Rate pages - There are main rate pages for the differet types of compensation rates.  Each of them then link to historic rates, each year is a separate page.  Will we be updating the URLs of all of those historic rate pages as well?  The current year's rates live on the main page, how does this impact the process of moving the rates off the main page onto a historic/year page and posting the new rates?
-  - _not updating VA.gov URLs_
+  - _Link to pages as they are, not updating VA.gov URLs_
 
-- [ ] DBQ Microsite - There are a number of pages about the DBQ and process.  A few pages are not relatd to the Veteran, but most are.  https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp  Options:
-   - Only link to this microsite from the Disability hub page.  Do not make any changes to this site, URLs all stay the same. Clicking on option will take user out of the Disability hub.
-  - Create a single static page to include in the Disability hub about DBQ.  This page will keep the user in the HC hub to get high level info. The page will link to this microsite. Going to the microsite will take the user out of the Disability hub. 
-  - Use the main page of the DBQ as the overview page and move it to the Disability hub (URL change).  Leave all other pages where they are.  Going to other pages will take the user out of the Disability hub. 
+- [x] DBQ Microsite - There are a number of pages about the DBQ and process.  A few pages are not relatd to the Veteran, but most are.  https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp  Options:
+  - _Link to pages as they are, not updating VA.gov URLs_
 
 - [x] Radiogenic Risk Activities page on VA.gov - Is this the same as our Radiation Exposure page, or do we need to consider this page in our Exposures area?  https://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
   - _these are the same_
 
   
-  
 ### Education
  - [ ] Apply Now Wizard - The current Vets site has a "wizard" that directs users to the correct application.  In the new IA there are contextual links that take users straight to specific forms and bypass the wizard.  Need to discuss this change with SMEs to determine any technical needs or UX challenges. 
  
- - [ ] Yellow Ribbon Participating SChools pages - There is a page for each year and under each year there is a page for each state that is participating for that year.  Will we be impacting the URLs for these pages as part of MVP or should they remain as they are?  If they remain, the user will leave the Education hub when they click on a link. 
+ - [x] Yellow Ribbon Participating SChools pages - There is a page for each year and under each year there is a page for each state that is participating for that year.  Will we be impacting the URLs for these pages as part of MVP or should they remain as they are?  If they remain, the user will leave the Education hub when they click on a link. 
+   - _Link to pages as they are, not updating VA.gov URLs_
  
  - [ ] WAVE Web Automated Verification of Enrollment - Is this redundant to checking your GI Bill benefit status, or is this a different task that should be included in Manage spoke? https://www.gibill.va.gov/wave/index.do
    - _ask during VBA SME meeting_
  
- - [ ] My Story Microsite - Do we move (i.e. change URL) this content into the Education hub? https://www.benefits.va.gov/gibill/my_story.asp
+ - [x] My Story Microsite - Do we move (i.e. change URL) this content into the Education hub? https://www.benefits.va.gov/gibill/my_story.asp
+   - _Link to pages as they are, not updating VA.gov URLs_
  
  - [ ] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages or the left nav once in the hub. 
    - _VBA SME question. Andy to chat with Matt_
  
  - [ ] Tuition Assistance Top-up - this page is currently grouped with ways to use your benefits, but doesn't seem to fit in that grouping. Is this more of a Manage task? Request a Tuition Assistance Top-up?
  
- - [ ] Education Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages? https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp
+ - [x] Education Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages? https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp
+   - _Link to pages as they are, not updating VA.gov URLs_
 
  
 ### Careers
@@ -65,17 +65,19 @@
  
  
 ### Pension
-- [ ] Historic Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages?https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp
+- [x] Historic Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages?https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp
+  - _Link to pages as they are, not updating VA.gov URLs_
 
 
 ### Housing
 - [ ] Loan Fees - This page on VA has "purchase loan" in the URL but doesn't specify in the content. Does it apply to all loan types or just a purchase loan?  https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp
 
-- [ ] Natural Disasters PDF - can we alter the name of the PDF or just its location?
+- [x] Natural Disasters PDF - can we alter the name of the PDF or just its location?
+  - _Link to pages as they are, not updating VA.gov URLs_
 
 ### Life Insurance
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. Removing them will require updating all entry point pages to link directly to the associated pdf rather than the pop-up.
-  - _Talk with Jennifer, determine if Vets page should link to pop-ups_
+  - _Talk with Jennifer, determine if Vets page should link to pop-ups.  Ensure that we are linking to most updated forms._
 
 - [ ] Family content - There are a few benefits/services available to family members that are not readily called out. Options:
   - Move SGLI up and out from under the general options to provide visibility to family/dependent benefits like we do in other hubs?  
@@ -93,8 +95,6 @@
 
 - [x] Cemetery Detail Pages - The cemetery locator function will be handled by the Facility Locator by launch.  However, Facility Locator links back to individual cemetery detail pages.  Do the URLs of these pages all update to be part of the Burials hub, or will this content be in the NCA hub?
   - _Decision: Cemetery pages will live in NCA hub, no URL changes._
-  
-- [ ] NCA Mobile Site 
 
 - [ ] Disinterment - This content is not benefit oriented, however it is informational for the Veteran family.  Should we place it under More Resources or should we keep it in the NCA hub? https://www.cem.va.gov/cem/disinterment.asp
   - _Jessica_
