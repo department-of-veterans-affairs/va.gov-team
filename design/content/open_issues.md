@@ -13,8 +13,8 @@
 - [x] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to   - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
   - _Decision: Confirm all options available on MHV, ensure 1 to 1 mapping of static pages to main options within MHV.  Crosslinking can be used as needed, but each page will have one main call to action into the appropriate area of MHV._
   
-- [ ] CPAP Machines, Hearing Batteries and Prosthetic Socks - Do we list all three in the option or do we call it "Medical Equipment"? It is currently ranked as the 5th link for the top nav, and this is a long link for the top nav. However, "medical equipment" will likely not be as understandable.  Need to determine if this will be in the top nav or home page and what to call it. 
-
+- [ ] Order CPAP Machines, Hearing Aid Batteries and Prosthetic Socks - Do we list all three in the option or do we call it "Medical Equipment"? It is currently ranked as the 5th link for the top nav, and this is a long link for the top nav. However, "medical equipment" will likely not be as understandable.   
+  - _Leave it as "Order Hearing Aid Batteries and Prosthetic Socks", need to reach out to Chip to determine if it should be one link or two.  Andy is emailing Chip for more information._
 
 - [x] Wellness Programs - This is a grouping of pages from across the site and various sub-domains. There isn't landing or overview page for this contet. 
   - _Decision: Create a new static page that describes the various Wellness programs and links to the appropriate pages. The new page will live in the HC hub and link to the other pages.  No changes will be made to any other pages. The grouping can stay intact for the VHA hub._
@@ -23,14 +23,16 @@
   - _Decision: Special groups will not be handled as part of first release.  Link to this content as needed, many will also be linked in the footer initially.  These will be part of future phase._
   
 ### Disability
-- [ ] Historic Rate pages - There are main rate pages for the differet types of compensation rates.  Each of them then link to historic rates, each year is a separate page.  Will we be updating the URLs of all of those historic rate pages as well?  The current year's rates live on the main page, how does this impact the process of moving the rates off the main page onto a historic/year page and posting the new rates?
+- [x] Historic Rate pages - There are main rate pages for the differet types of compensation rates.  Each of them then link to historic rates, each year is a separate page.  Will we be updating the URLs of all of those historic rate pages as well?  The current year's rates live on the main page, how does this impact the process of moving the rates off the main page onto a historic/year page and posting the new rates?
+  - _not updating VA.gov URLs_
 
 - [ ] DBQ Microsite - There are a number of pages about the DBQ and process.  A few pages are not relatd to the Veteran, but most are.  https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp  Options:
    - Only link to this microsite from the Disability hub page.  Do not make any changes to this site, URLs all stay the same. Clicking on option will take user out of the Disability hub.
   - Create a single static page to include in the Disability hub about DBQ.  This page will keep the user in the HC hub to get high level info. The page will link to this microsite. Going to the microsite will take the user out of the Disability hub. 
   - Use the main page of the DBQ as the overview page and move it to the Disability hub (URL change).  Leave all other pages where they are.  Going to other pages will take the user out of the Disability hub. 
 
-- [ ] Radiogenic Risk Activities page on VA.gov - Is this the same as our Radiation Exposure page, or do we need to consider this page in our Exposures area?  https://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
+- [x] Radiogenic Risk Activities page on VA.gov - Is this the same as our Radiation Exposure page, or do we need to consider this page in our Exposures area?  https://www.benefits.va.gov/COMPENSATION/claims-postservice-exposures-radiogenic_diseases.asp
+  - _these are the same_
 
   
   
@@ -40,10 +42,12 @@
  - [ ] Yellow Ribbon Participating SChools pages - There is a page for each year and under each year there is a page for each state that is participating for that year.  Will we be impacting the URLs for these pages as part of MVP or should they remain as they are?  If they remain, the user will leave the Education hub when they click on a link. 
  
  - [ ] WAVE Web Automated Verification of Enrollment - Is this redundant to checking your GI Bill benefit status, or is this a different task that should be included in Manage spoke? https://www.gibill.va.gov/wave/index.do
+   - _ask during VBA SME meeting_
  
  - [ ] My Story Microsite - Do we move (i.e. change URL) this content into the Education hub? https://www.benefits.va.gov/gibill/my_story.asp
  
  - [ ] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages or the left nav once in the hub. 
+   - _VBA SME question. Andy to chat with Matt_
  
  - [ ] Tuition Assistance Top-up - this page is currently grouped with ways to use your benefits, but doesn't seem to fit in that grouping. Is this more of a Manage task? Request a Tuition Assistance Top-up?
  
@@ -71,6 +75,7 @@
 
 ### Life Insurance
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. Removing them will require updating all entry point pages to link directly to the associated pdf rather than the pop-up.
+  - _Talk with Jennifer, determine if Vets page should link to pop-ups_
 
 - [ ] Family content - There are a few benefits/services available to family members that are not readily called out. Options:
   - Move SGLI up and out from under the general options to provide visibility to family/dependent benefits like we do in other hubs?  
@@ -92,6 +97,7 @@
 - [ ] NCA Mobile Site 
 
 - [ ] Disinterment - This content is not benefit oriented, however it is informational for the Veteran family.  Should we place it under More Resources or should we keep it in the NCA hub? https://www.cem.va.gov/cem/disinterment.asp
+  - _Jessica_
   
 
 ### Records/Root Level Content
