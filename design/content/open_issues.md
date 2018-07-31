@@ -67,7 +67,7 @@
 ### Housing
 - [ ] Loan Fees - This page on VA has "purchase loan" in the URL but doesn't specify in the content. Does it apply to all loan types or just a purchase loan?  https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp
 
-- [ ] 
+- [ ] Natural Disasters PDF - can we alter the name of the PDF or just its location?
 
 ### Life Insurance
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. Removing them will require updating all entry point pages to link directly to the associated pdf rather than the pop-up.
