@@ -4,9 +4,9 @@
 
 - [ ] Health Care (VHA) - APPROVED
 - [ ] Disability (VBA) - APPROVED
+- [ ] Burials and Memorials (NCA) - APPROVED
 - [ ] Education and Training (VBA) - CHANGES REQUESTED
 - [ ] Pension (VBA) - PENDING REVIEW
-- [ ] Burials and Memorials (NCA) - APPROVED
 - [ ] Records (no single owner) - NO APPROVAL NEEDED
 - [ ] Housing Assistance (VBA) - PENDING REVIEW
 - [ ] Life Insurance (VBA) - REVIEW FEEDBACK
