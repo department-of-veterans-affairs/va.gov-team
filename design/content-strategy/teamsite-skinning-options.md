@@ -11,6 +11,7 @@ The research is captured in this issue: https://github.com/department-of-veteran
 ### Pros:
 - The minimum responsibility we have to users is that we provide a consistent navigation and wayfinding experience on VA.gov. User access to the same global haeader and footer on most pages of VA.gov provides this.
 - This is not a large technical lift to implement
+- Because the existing pages will look different from new pages, this can provide a visual cue to users between what's new and old. 
 
 ### Cons:
 - Users will be switching between "new" pages, layouts, and UI patterns using the USWDS and "old" pages, layouts, and UI patterns on VA.gov
@@ -40,7 +41,7 @@ The research is captured in this issue: https://github.com/department-of-veteran
 
 ### Cons:
 - Applying the USWDS will make existing VA.gov pages look "broken"
-- The existing VA.gov side nvaigation pattern is different in both user interaction design and how it it built/coded, so applying the USWDS side navigation pattern defaults all menus to open (because the USWDS navigation component doesn't accordion like VA.gov's navigation component)
+- The existing VA.gov side navigation pattern is different in both user interaction design and how it is built/coded, so applying the USWDS side navigation pattern defaults all menus to open (because the USWDS navigation component doesn't accordion like VA.gov's navigation component)
 - We would be forcing existing VA.gov page layouts into the USWDS, without doing research and design on creating new/better layouts for VA.gov pages
 - It will take considerable time and design & development resources to implement across VA.gov
 
