@@ -12,7 +12,7 @@
 - [ ] Life Insurance (VBA) - REVIEW FEEDBACK
 - [ ] Careeers and Employment (VBA) - PENDING REVIEW
 
-# New Static Content Landing Pages for Authenticated Tools
+# New Content Pages (Landing pages for authenticated tools AND ragular content pages)
 
 ## Health Care
 
@@ -70,7 +70,5 @@ None at this time
 - Track Your Claims and Appeals Status
 - File an Appeal - TBD based on appeals convo
 - Update Your Direct Deposit and Contact Information
-
-# New Content Pages for Each Benefit Hubs
   
   
