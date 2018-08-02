@@ -12,7 +12,7 @@
 - [ ] Life Insurance (VBA) - REVIEW FEEDBACK
 - [ ] Careeers and Employment (VBA) - PENDING REVIEW
 
-## 2. New Content Pages (Landing pages for authenticated tools AND ragular content pages)
+## 2. New Content Pages (landing pages for authenticated tools AND regular content pages)
 
 ## Health Care
 
