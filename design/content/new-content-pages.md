@@ -1,6 +1,6 @@
 # New Content Pages to be Created
 
-## Order of Priority
+## Order of Priority for Benefit Hub Implementation and Content Creation
 
 - [ ] Health Care (VHA) - APPROVED
 - [ ] Disability (VBA) - APPROVED
