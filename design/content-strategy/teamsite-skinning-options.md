@@ -17,7 +17,7 @@ The research is captured in this issue: https://github.com/department-of-veteran
 - The experience has an inconsistent look and feel
 
 ### Example:
-
+![alt tag](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/design/content-strategy/vadotgov-page-skinning-1.png)
 
 ## Option 2: 
 
