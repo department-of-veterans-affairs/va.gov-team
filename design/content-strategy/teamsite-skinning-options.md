@@ -19,7 +19,7 @@ The research is captured in this issue: https://github.com/department-of-veteran
 ### Example:
 ![alt tag](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/design/content-strategy/vadotgov-page-skinning-1.png)
 
-## Option 2: Uodate the header/nav, footer, and basic HTML/CSS styles (by appending a global CSS file on top of all the existing VA.gov CSS)
+## Option 2: Update the header/nav, footer, and basic HTML/CSS styles (by appending a global CSS file on top of all the existing VA.gov CSS)
 
 ### Pros:
 - This provides a little more consistency with look and feel by updating tyepfaces, colors, and basic HTML elements to use the USWDS
@@ -33,19 +33,16 @@ The research is captured in this issue: https://github.com/department-of-veteran
 ![alt tag](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/design/content-strategy/vadotgov-page-skinning-2.png)
 
 
-## Option 3: 
+## Option 3: Apply the USWDS to the body of VA.gov pages, without updating the existing page's content, layout, or side navigation
 
 ### Pros:
-- The minimum responsibility we have to users is that we provide a consistent navigation and wayfinding experience on VA.gov. User access to the same global haeader and footer on most pages of VA.gov provides this.
-- This is not a large technical lift to implement.
+- All (or most) of VA.gov will have the USWDS applied, creating a consistent look and feel
 
 ### Cons:
-- Users will be switching between "new" pages, layouts, and UI patterns using the USWDS and "old" pages, layouts, and UI patterns on VA.gov
-- The experience has an inconsistent look and feel
-
-the left-rail nav had to be rewritten to accommodate USWDS, and I had to make some tweaks to the markup to prevent namespace conflicts
-USWDS's left rail doesn’t accordion — when you click a link, you’re taken to another page where you get nav that has visually adjusted to reflect where you are
-the OPA nav has two problems: it’s totally independent of the page, meaning that it doesn’t actually exist in the left nav, so there’s no link to indicate “you are here”; and they show all their nav all the time, whereas we only show a chunk of it at a time
+- Applying the USWDS will make existing VA.gov pages look "broken"
+- The existing VA.gov side nvaigation pattern is different in both user interaction design and how it it built/coded, so applying the USWDS side navigation pattern defaults all menus to open (because the USWDS navigation component doesn't accordion like VA.gov's navigation component)
+- We would be forcing existing VA.gov page layouts into the USWDS, without doing research and design on creating new/better layouts for VA.gov pages
+- It will take considerable time and design & development resources to implement across VA.gov
 
 ### Example:
 ![alt tag](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/design/content-strategy/vadotgov-page-skinning-3.png)
