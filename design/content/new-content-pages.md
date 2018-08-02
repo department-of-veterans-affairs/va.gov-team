@@ -1,4 +1,4 @@
-# New Content Pages to be Created
+# Benefit Hub and Content Work for Merger MVP
 
 ## Order of Priority for Benefit Hub Implementation and Content Creation
 
@@ -11,6 +11,8 @@
 - [ ] Housing Assistance (VBA) - PENDING REVIEW
 - [ ] Life Insurance (VBA) - REVIEW FEEDBACK
 - [ ] Careeers and Employment (VBA) - PENDING REVIEW
+
+# New Static Content Landing Pages for Authenticated Tools
 
 ## Health Care
 
@@ -69,7 +71,6 @@ None at this time
 - File an Appeal - TBD based on appeals convo
 - Update Your Direct Deposit and Contact Information
 
- 
-    
+# New Content Pages for Each Benefit Hubs
   
   
