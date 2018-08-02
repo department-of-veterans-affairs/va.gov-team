@@ -1,6 +1,6 @@
 # Benefit Hub and Content Work for Merger MVP
 
-## Order of Priority for Benefit Hub Implementation and Content Creation
+## 1. Order of Priority for Benefit Hub Implementation and Content Creation
 
 - [ ] Health Care (VHA) - APPROVED
 - [ ] Disability (VBA) - APPROVED
@@ -12,7 +12,7 @@
 - [ ] Life Insurance (VBA) - REVIEW FEEDBACK
 - [ ] Careeers and Employment (VBA) - PENDING REVIEW
 
-# New Content Pages (Landing pages for authenticated tools AND ragular content pages)
+## 2. New Content Pages (Landing pages for authenticated tools AND ragular content pages)
 
 ## Health Care
 
