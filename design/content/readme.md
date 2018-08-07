@@ -1,10 +1,10 @@
 ## Open Issues
 
 **Content Work Punchlist**
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/content-work-list.md
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/content-work-list.md
 
 **IA Open Issues**
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/open_issues.md
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/open_issues.md
 
 
 
@@ -36,10 +36,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design
 ## Content Work
 
 **New Contet Pages to Create**
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
 
 **SEO/Keyword Work**
-https://docs.google.com/spreadsheets/d/1Qox61fU-MWoaR7bYFMz9inW78pqIEH81uZKa5bPI3Rg/edit#gid=0
+- https://docs.google.com/spreadsheets/d/1Qox61fU-MWoaR7bYFMz9inW78pqIEH81uZKa5bPI3Rg/edit#gid=0
 
 **Content Audit**
-https://docs.google.com/spreadsheets/d/1zAyUp9Eo6mBXR0vPRxiXfcuD11bJK5Q8vsZtD0ekxXw/edit#gid=0
+- https://docs.google.com/spreadsheets/d/1zAyUp9Eo6mBXR0vPRxiXfcuD11bJK5Q8vsZtD0ekxXw/edit#gid=0
