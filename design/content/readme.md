@@ -2,7 +2,7 @@
 
 ## Open Issues
 
-#### Content Work Punchlist
+*Content Work Punchlist*
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/content-work-list.md
 
 #### IA Open Issues
