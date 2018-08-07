@@ -9,6 +9,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/open_issues.md
 
 
+
 ## Link Lists and IA
 
 **Left Nav Link Lists**
@@ -28,6 +29,7 @@ https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4u
 - Life Ins:  https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/abd7f5456
 - Burials: https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/adc778cbd
 - Records: https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/acb2356b8
+
 
 
 ## Content Work
