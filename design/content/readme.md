@@ -1,5 +1,3 @@
-# Key Working Docs
-
 ## Open Issues
 
 **Content Work Punchlist**
@@ -12,11 +10,14 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design
 
 ## Link Lists and IA
 
+**URL Mapping**
+https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing
+
 **Left Nav Link Lists**
-https://docs.google.com/spreadsheets/d/1SsA5RVkERpMF8DE4Oal7fy4dK617JkdJgMQ2zrRdJXc/edit#gid=0
+https://docs.google.com/spreadsheets/d/1SsA5RVkERpMF8DE4Oal7fy4dK617JkdJgMQ2zrRdJXc/edit?usp=sharing
 
 **Home Page, Top Nav, Hub Page Link Lists**
-https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit#gid=0
+https://docs.google.com/spreadsheets/d/1oTOtVEDBO2FK-0rcNPX6Az6HHFkZrrZrzf-MjG4uEwo/edit?usp=sharing
 
 **Site Maps**
 - Root: https://app.moqups.com/greg@adhocteam.us/Rnc4BDEKrA/view/page/a4dc7a719 
