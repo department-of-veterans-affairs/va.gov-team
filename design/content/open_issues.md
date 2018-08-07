@@ -34,7 +34,8 @@
 
   
 ### Education
- - [ ] Apply Now Wizard - The current Vets site has a "wizard" that directs users to the correct application.  In the new IA there are contextual links that take users straight to specific forms and bypass the wizard.  Need to discuss this change with SMEs to determine any technical needs or UX challenges. 
+ - [x] Apply Now Wizard - The current Vets site has a "wizard" that directs users to the correct application.  In the new IA there are contextual links that take users straight to specific forms and bypass the wizard.  Need to discuss this change with SMEs to determine any technical needs or UX challenges. 
+   - _To ensure we do not risk more users selecting the wrong form, we will continue to follow the current experience where the How to Apply and Apply Now links both lead to the the How to Apply page to push users throught the wizard and ensure they are directed to the right form.  For the forms nested under Family, National Call to Service and Make Changes, Danielle and Mikki will review content to ensure that users are clearly vetted before they ove forward on those forms - if we don't feel we can make it clear enough, we will reroute through the How to Apply wizard.  We will also review the Transfer page to ensure users continue in the correct direction._
  
  - [x] Yellow Ribbon Participating SChools pages - There is a page for each year and under each year there is a page for each state that is participating for that year.  Will we be impacting the URLs for these pages as part of MVP or should they remain as they are?  If they remain, the user will leave the Education hub when they click on a link. 
    - _Link to pages as they are, not updating VA.gov URLs_
