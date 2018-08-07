@@ -35,6 +35,9 @@
 
 ## Content Work
 
+**SEO References**
+- https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/design/content/seo%20references
+
 **New Contet Pages to Create**
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/new-content-pages.md
 
