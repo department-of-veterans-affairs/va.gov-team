@@ -13,8 +13,8 @@
 - [x] Health Records - Need to define all the tools/capabilities that should be included in this static page and where it should link to   - Download Records, Share Records, Access Health Summary, Medical images,  Lab and Test Results (crosslink), more?
   - _Decision: Confirm all options available on MHV, ensure 1 to 1 mapping of static pages to main options within MHV.  Crosslinking can be used as needed, but each page will have one main call to action into the appropriate area of MHV._
   
-- [ ] Order CPAP Machines, Hearing Aid Batteries and Prosthetic Socks - Do we list all three in the option or do we call it "Medical Equipment"? It is currently ranked as the 5th link for the top nav, and this is a long link for the top nav. However, "medical equipment" will likely not be as understandable.   
-  - _Leave it as "Order Hearing Aid Batteries and Prosthetic Socks", need to reach out to Chip to determine if it should be one link or two.  Andy is emailing Chip for more information._
+- [x] Order CPAP Machines, Hearing Aid Batteries and Prosthetic Socks - Do we list all three in the option or do we call it "Medical Equipment"? It is currently ranked as the 5th link for the top nav, and this is a long link for the top nav. However, "medical equipment" will likely not be as understandable.   
+  - _Leave it as "Order Hearing Aid Batteries and Prosthetic Socks", determined we would not be handling CPAP equip at this time._
 
 - [x] Wellness Programs - This is a grouping of pages from across the site and various sub-domains. There isn't landing or overview page for this contet. 
   - _Decision: Create a new static page that describes the various Wellness programs and links to the appropriate pages. The new page will live in the HC hub and link to the other pages.  No changes will be made to any other pages. The grouping can stay intact for the VHA hub._
@@ -46,7 +46,7 @@
  - [x] My Story Microsite - Do we move (i.e. change URL) this content into the Education hub? https://www.benefits.va.gov/gibill/my_story.asp
    - _Link to pages as they are, not updating VA.gov URLs_
  
- - [ ] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages or the left nav once in the hub. 
+ - [ ] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages (i.e. FGIB). 
    - _VBA SME question. Andy to chat with Matt_
  
  - [ ] Tuition Assistance Top-up - this page is currently grouped with ways to use your benefits, but doesn't seem to fit in that grouping. Is this more of a Manage task? Request a Tuition Assistance Top-up?
@@ -56,14 +56,15 @@
 
  
 ### Careers
- - [ ] Family pages - There are two pages with family benefits and resources. Determine how these two pages can work together or possibly be combined. The goal is to have a single link in the main navigation for Family and Dependent Benefits
+ - [x] Family pages - There are two pages with family benefits and resources. Determine how these two pages can work together or possibly be combined. The goal is to have a single link in the main navigation for Family and Dependent Benefits
    - https://www.vets.gov/employment/job-seekers/family-members/
    - https://www.vets.gov/employment/vocational-rehab-and-employment/family-members/
 
-- [ ] General Resource pages - There is a VA page and a Vets pages for "Resources".  Can these be combined?
+- [x] General Resource pages - There is a VA page and a Vets pages for "Resources".  Can these be combined?
   - https://www.vets.gov/employment/vocational-rehab-and-employment/external-resources/
   - https://www.benefits.va.gov/vocrehab/links_resources.asp
- 
+
+  -_Solution for both the above open items:  The VA resources page will be "retired" and links to the items on that page will be placed on relevant content pages.  The Vets resources page will be retitled to represent Veteran resources, and the Vets job seekers page will be retitled to represent Family resources.  The Vets family page will remain as is and nested under counseling since it is specific to that benefit. 
  
 ### Pension
 - [x] Historic Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages?https://www.benefits.va.gov/pension/current_rates_veteran_pen.asp
@@ -71,10 +72,8 @@
 
 
 ### Housing
-- [ ] Loan Fees - This page on VA has "purchase loan" in the URL but doesn't specify in the content. Does it apply to all loan types or just a purchase loan?  https://www.benefits.va.gov/homeloans/purchaseco_loan_fee.asp
-
 - [x] Natural Disasters PDF - can we alter the name of the PDF or just its location?
-  - _Link to pages as they are, not updating VA.gov URLs_
+  - _Link to page as is, not updating VA.gov URLs_
 
 ### Life Insurance
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. Removing them will require updating all entry point pages to link directly to the associated pdf rather than the pop-up.
@@ -86,8 +85,9 @@
   
 - [ ] Beneficiary Financial Counseling and Online Will Preparation - This was called out by the SME as more of a Manage task.  
 
-- [ ] Insurance for Service-Disabled Vets - This appears to be a page that simply brings together all content for service-disabled veterans - similar to how we handle Family/Dependent.  Should we keep this page and where does it belong?
+- [x] Insurance for Service-Disabled Vets - This appears to be a page that simply brings together all content for service-disabled veterans - similar to how we handle Family/Dependent.  Should we keep this page and where does it belong?
   - https://www.benefits.va.gov/INSURANCE/disabledvet.asp
+  - _Page is duplicative content. Will not be included in benefit hub._
 
 
 ### Burials
@@ -97,8 +97,8 @@
 - [x] Cemetery Detail Pages - The cemetery locator function will be handled by the Facility Locator by launch.  However, Facility Locator links back to individual cemetery detail pages.  Do the URLs of these pages all update to be part of the Burials hub, or will this content be in the NCA hub?
   - _Decision: Cemetery pages will live in NCA hub, no URL changes._
 
-- [ ] Disinterment - This content is not benefit oriented, however it is informational for the Veteran family.  Should we place it under More Resources or should we keep it in the NCA hub? https://www.cem.va.gov/cem/disinterment.asp
-  - _Jessica_
+- [x] Disinterment - This content is not benefit oriented, however it is informational for the Veteran family.  Should we place it under More Resources or should we keep it in the NCA hub? https://www.cem.va.gov/cem/disinterment.asp
+  - _Discussed with Jessica, we will leave this content in VHA hub at this time._
   
 
 ### Records/Root Level Content
@@ -108,7 +108,8 @@
 - [x] Appeals - The only content on the site for appeals, is under Disability.  Many benefit hubs have the ability to track an appeal but nothing on filing an appeal. 
   - _Decision: This will be part of a future phase._
   
-- [ ] Administration Hubs - What work needs to be done, in terms of IA, to ensure that these hubs provide accessibility to all the content that is not included in the benefit hubs, as well as prominent access to the benefit hubs?
+- [x] Administration Hubs - What work needs to be done, in terms of IA, to ensure that these hubs provide accessibility to all the content that is not included in the benefit hubs, as well as prominent access to the benefit hubs?
+  - _Admin hub content will remain as it is today on VA.gov.  Options specific to benefits will be removed from their left navs._
 
 - [ ] ID Cards - identify all the cards to be listed on this static page, and what additional supporting pages are needed for each card type.  Determine which pages we want to optimize for SEO to determine titles, URLs and meta data. 
 
