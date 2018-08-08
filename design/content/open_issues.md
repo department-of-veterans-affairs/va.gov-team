@@ -79,8 +79,7 @@
 - [ ] Pop-ups - Need to review all pop-ups and determine whether we can eliminate them or need to keep them in the experience. Removing them will require updating all entry point pages to link directly to the associated pdf rather than the pop-up.
   - _Talk with Jennifer, determine if Vets page should link to pop-ups.  Ensure that we are linking to most updated forms._
 
-- [ ] Family content - There are a few benefits/services available to family members that are not readily called out. Options:
-  - Move SGLI up and out from under the general options to provide visibility to family/dependent benefits like we do in other hubs?  
+- [ ] Family content - There are a few benefits/services available to family members that are not readily called out. Options: 
   - Create a new static page that includes reference to all the family/dependent options (i.e.FSGLI, Ben Fin Counsel, Will Prep, etc.) similar to how we handled it in Health Care
   
 - [ ] Beneficiary Financial Counseling and Online Will Preparation - This was called out by the SME as more of a Manage task.  
