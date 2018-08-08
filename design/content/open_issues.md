@@ -113,15 +113,4 @@
 
 - [ ] ID Cards - identify all the cards to be listed on this static page, and what additional supporting pages are needed for each card type.  Determine which pages we want to optimize for SEO to determine titles, URLs and meta data. 
 
-### Retiring Pages
-- 301 Redirect for those that are being replaced?
-- Plan for those pages outdated or no longer needed (not being replaced)
-- Documentation
-  - Accessing content for future reference
-  - Who needs to view URL changes and what format would work best?  SCRUM team will need access – Wyatt, Bill John, Sophia? SMEs? 
-- Vets.gov List (not complete):
-    - Advvanced Training and Certifications https://www.vets.gov/education/advanced-training-and-certifications/
-    - Non-Traditional Options  https://www.vets.gov/education/work-learn/non-traditional/
-    - Work and Learn https://www.vets.gov/education/work-learn/
-    - Career Counseling https://www.vets.gov/education/tools-programs/
 
