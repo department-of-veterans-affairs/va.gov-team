@@ -15,6 +15,6 @@
 
 ### Dashboard
 - IF the user logs in from the VA.gov homepage, they are taken to their dashboard after logging in
-- IF the user logs in from any page except the homepage, they stay on the page they're currently on
-- IF the user is logged in, from anywhere on the site they can click "My VA" from the Account menu and that takes them to their dashboard
-- IF the user is logged in or not, from anywhere on the site, when they click the VA logo they are taken to the VA.gov homepage
+- ~IF the user logs in from any page except the homepage, they stay on the page they're currently on~ <-- discussion necessary for this; we have a vast content ecosystem and need to be thoughtful about behavior (8/9)
+- IF the user is logged in, from anywhere on the site they can click "My VA" from the Account menu (in the global header) and that takes them to their dashboard
+- IF the user is logged in or not, from anywhere on the site, when they click the VA logo in the top left corner (in the global header) they are taken to the VA.gov homepage
