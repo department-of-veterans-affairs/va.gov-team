@@ -52,6 +52,8 @@ vets-website
 When we are developing we need a way to run the different versions to check them and also develop them.
 
 - vets.gov
+        
       $ yarn watch
 - va.gov
+
       $ yarn watch:devpreview
