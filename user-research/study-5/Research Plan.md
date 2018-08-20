@@ -28,8 +28,9 @@ Current MHV enrolled Veterans
 - Analysis: August 29-31
 
 ## Method
-
 Homepage, Navigation, and Hubs for Health Care, Education, and Burials
+
+See Conversation Guide - LINK
 
 ### Things to Watch For - All
 - We are concerned about the density of the HP, are they seeing all the links?
@@ -37,8 +38,6 @@ Homepage, Navigation, and Hubs for Health Care, Education, and Burials
 - Reactions to the HP blue ribbon with faces
 - Does VCL pop-out, do they understand it?
 - General use of the term VA as an adjective like "VA Health Care"
-
-
 
 ### Things to Watch For - mobile specific
 - Does the footer work on mobile?
