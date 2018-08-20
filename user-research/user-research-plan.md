@@ -39,14 +39,26 @@
 - Recruiting: MHV email list + VSO Comms Support
 - Participants: Veterans, VSOs, VA Employees
 
-## Study 5
-- Research Question: Does the new "merged" design work for users? Can they find what they need using the HP, Nav, and Hubs?
-- Format: Usability Test on interactive prototype in dev, Mixed, Moderated
-- Recruiting: Site Visits, VSOs, possibly remote testing
-- Participants: Veterans, Familiies, VSO, VA Employees
+## Study 5 - August 27,28 Minneapolis VAMC
+- Research Questions: What do current Veterans think of preview.va.gov? Can they find what they need using the HP, Nav, and Hubs? How does preview perform on mobile?
+- Format: Usability Test on interactive prototype in dev. Moderated
+- Recruiting: Site Visit to Minneaplois VAMC
+- Participants: Current MHV Veterans
+
+## Study 6 - First Week of September, Remote
+- Research Questions:
+- Format: Usability Test on interactive prototype in dev. Moderated remote sessions
+- Recruiting: VHA Human Factors Office
+- Participants: Non-VA Veterans
+
+## Study 7 - Last Week of September, Remote
+- Research Questions:
+- Format: Usability Test on interactive prototype in dev. Moderated remote sessions
+- Recruiting: Current VA Veterans with MHV, DS Logon, and ID.me accounts
+- Participants: Non-VA Veterans
 
 
-## August - September Study Planning
+## August - September Study Planning Notes
 - will navigation it perform on mobile? will they be able to navigate easily? needs to be in person on mobile devices. we can use preview link. does the mega-menu still make sense when its collapsed down into an accordian. can they quickly and easily find things. 
 
 Priorities
