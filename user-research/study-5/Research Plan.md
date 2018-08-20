@@ -29,3 +29,17 @@ Current MHV enrolled Veterans
 
 ## Method
 
+Homepage, Navigation, and Hubs for Health Care, Education, and Burials
+
+### Things to Watch For - All
+- We are concerned about the density of the HP, are they seeing all the links?
+- What do users think of "View All" in the mega menu?
+- Reactions to the HP blue ribbon with faces
+- Does VCL pop-out, do they understand it?
+- General use of the term VA as an adjective like "VA Health Care"
+
+
+
+### Things to Watch For - mobile specific
+- Does the footer work on mobile?
+- Does the placement of the right-rail content still make sense?
