@@ -40,7 +40,7 @@
 - Participants: Veterans, VSOs, VA Employees
 
 ## Study 5 - August 27,28 Minneapolis VAMC
-- Research Questions: What do current Veterans think of preview.va.gov? Can they find what they need using the HP, Nav, and Hubs? How does preview perform on mobile?
+- Research Questions: What do current MHV Veterans think of preview.va.gov? Can they find what they need using the HP, Nav, and Hubs? How does preview perform on mobile?
 - Format: Usability Test on interactive prototype in dev. Moderated
 - Recruiting: Site Visit to Minneaplois VAMC
 - Participants: Current MHV Veterans
