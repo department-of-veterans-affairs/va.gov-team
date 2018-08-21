@@ -28,9 +28,9 @@ Current MHV enrolled Veterans
 - Analysis: August 29-31
 
 ## Method
-Homepage, Navigation, and Hubs for Health Care, Education, and Burials
+Homepage, Navigation, and Hubs for Health Care and Disabilty will be ready.
 
-See Conversation Guide - LINK
+See Conversation Guide
 
 ### Things to Watch For - All
 - We are concerned about the density of the HP, are they seeing all the links?
