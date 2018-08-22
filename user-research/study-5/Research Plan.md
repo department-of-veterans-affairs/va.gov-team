@@ -10,6 +10,8 @@ Assess the usability of the preview.va.gov on desktop and mobile. Validate our I
 
 ## Format
 In-person. Two stations - mobile and desktop
+- PC with mouse and GTM screen recording, test audio 
+- VA iphone with ?? screen recording app, also IPVO camera connected to a mac laptop
 
 ## Recruiting
 We connceted with Susan Haidary (MHV Coordnitors Lead) who gave us the POCs for the Minneapolis location:
