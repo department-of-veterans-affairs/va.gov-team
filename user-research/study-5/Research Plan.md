@@ -52,19 +52,19 @@ Minneapolis, MN 55417
 
 ### On-Site Plans
 - Arrival time and where to meet
- - Arrive at 8am. Park in parking lot, use main visitor entrance. 
- - Huge flag, go straight to MHV table. 
- - Leo will meet us there.
+   - Arrive at 8am. Park in parking lot, use main visitor entrance. 
+   - Huge flag, go straight to MHV table. 
+   - Leo will meet us there.
 - POC and contact information
- - Leo Bosard, Connected Health Facility Coordinator. 
- - Office: 612-629-7578 
- - Cell: 612 368 4540
+  - Leo Bosard, Connected Health Facility Coordinator. 
+    - Office: 612-629-7578 
+    - Cell: 612 368 4540
 - Where we will be talking to Veterans
- - Primary Care Area - Conference Room in 4E100 across from MSA check-in, near check-out desk
- - Patient Library 1S134
- - Back-up plan is in the Atrium but its louder
+  - Primary Care Area - Conference Room in 4E100 across from MSA check-in, near check-out desk
+  - Patient Library 1S134
+  - Back-up plan is in the Atrium but its louder
 - How we will recruit Veterans to participate
- - Use flyers and leave them at the MSA desk (we will bring the flyers)
- - Patient Library gets a lot of foot traffic
+  - Use flyers and leave them at the MSA desk (we will bring the flyers)
+  - Patient Library gets a lot of foot traffic
 - What time we should expect to wrap-up each day
- - Winding down by 3:30pm. Library closes at 4pm each day.
+  - Winding down by 3:30pm. Library closes at 4pm each day.
