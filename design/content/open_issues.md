@@ -40,16 +40,17 @@
  - [x] Yellow Ribbon Participating SChools pages - There is a page for each year and under each year there is a page for each state that is participating for that year.  Will we be impacting the URLs for these pages as part of MVP or should they remain as they are?  If they remain, the user will leave the Education hub when they click on a link. 
    - _Link to pages as they are, not updating VA.gov URLs_
  
- - [ ] WAVE Web Automated Verification of Enrollment - Is this redundant to checking your GI Bill benefit status, or is this a different task that should be included in Manage spoke? https://www.gibill.va.gov/wave/index.do
-   - _ask during VBA SME meeting_
+ - [x] WAVE Web Automated Verification of Enrollment - Is this redundant to checking your GI Bill benefit status, or is this a different task that should be included in Manage spoke? https://www.gibill.va.gov/wave/index.do
+   - _Need to add this option to the Manage spoke to "Verify School Attendance".  Created issue to track work needed._
  
  - [x] My Story Microsite - Do we move (i.e. change URL) this content into the Education hub? https://www.benefits.va.gov/gibill/my_story.asp
    - _Link to pages as they are, not updating VA.gov URLs_
  
- - [ ] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages (i.e. FGIB). 
-   - _VBA SME question. Andy to chat with Matt_
+ - [x] Colmery Opt-out Form - This form is launching on Vets.gov on Aug 1, it will not have high visiblity and stakeholders are not pushing traffic to it due to it not being very beneficial to the veteran.  In the new IA, this form has higher visibility from the hub page. Ensure that this is ok with SMEs or if it should be removed from the hub page and only accessible from referring pages (i.e. FGIB). 
+   - _Removed from left nav per SME feedback, only accessible from FGIB pages.  Created issue to remove from Edu Hub page._
  
- - [ ] Tuition Assistance Top-up - this page is currently grouped with ways to use your benefits, but doesn't seem to fit in that grouping. Is this more of a Manage task? Request a Tuition Assistance Top-up?
+ - [x] Tuition Assistance Top-up - this page is currently grouped with ways to use your benefits, but doesn't seem to fit in that grouping. Is this more of a Manage task? Request a Tuition Assistance Top-up?
+   - _Per SME feedback, this should remain grouped as it is currently. No change needed._
  
  - [x] Education Benefit Rates - Top level page with many child pages for each year.  Will we update the URLs of all pages, or link off to these pages? https://www.benefits.va.gov/GIBILL/resources/benefits_resources/rate_tables.asp
    - _Link to pages as they are, not updating VA.gov URLs_
