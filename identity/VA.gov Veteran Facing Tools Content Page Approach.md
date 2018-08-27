@@ -1,1 +1,29 @@
-Details TBD
+# Overview
+As part of the VA Web Brand Consolidation effort, all Veteran Facing Tools (VFT) that are not health rlated will be migrated from Vets.gov to VA.gov. In doing so, we need to ensure that users who are accessing VA.gov have been logged in with the proper account types in order to access the VFT.
+
+# Approach
+The following table describes the approach for each tool:
+
+| Tool | Content Page URL | Tool URL | Required Account Type | Not Logged In | Logged in (LOA1) | Logged in (LOA2) |
+|------|------------------|----------|-----------------------|---------------|------------------|------------------|
+| VA Letters* | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| 10-10 EZ (Healthcare) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
+| 1990 (GI Bill) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
+| Check Your GI Bill Benefits | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| GI Bill Comparison Tool (GIBCT) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
+| 527 (Pension) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
+| 526 (Comp & Pen)* | | | LOA1 | Content page w/ login button | Redirect to tool | Redirect to tool |
+| Claims & Appeals* | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| 530 (Burial Benefits) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
+| Veteran ID Card (VIC) | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+
+## Definitions
+- Required Account Type
+   - None: User does not have to be logged in to access the tool
+   - LOA1: Includes ID.me (not ID proofed), DS Logon Level 1, MHV Basic, and MHV Advanced
+   - LOA3: Any account with ID.me ID proof, D DS Logon Level 2, MHV Premium
+- Behaviors
+   - Direct navigation to tool: There is no content page for this tool; the user should always be directly navigated to the tool
+   - Content page w/ login button: Content page loads with a CTA for the user to log in to access the tool
+   - Content page w/ verify your identity button: Content page loads with CTA for the user to go through the identity proofing process to access the tool
+   - Redirect to tool: As the user is logged in with a sufficient account level, the user should be redirected to the tool
