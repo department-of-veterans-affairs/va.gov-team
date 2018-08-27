@@ -12,7 +12,7 @@ The following table describes the approach for each tool:
 | Check Your GI Bill Benefits | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | GI Bill Comparison Tool (GIBCT) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | 527 (Pension) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
-| 526 (Comp & Pen)* | | | LOA1 | Content page w/ login button | Redirect to tool | Redirect to tool |
+| 526 (Disability Benefits)* | | | LOA1 | Content page w/ login button | Redirect to tool | Redirect to tool |
 | Claims & Appeals* | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | 530 (Burial Benefits) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | Veteran ID Card (VIC) | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
