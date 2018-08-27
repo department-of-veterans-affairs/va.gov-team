@@ -21,7 +21,7 @@ The following table describes the approach for each tool:
 - Required Account Type
    - None: User does not have to be logged in to access the tool
    - LOA1: Includes ID.me (not ID proofed), DS Logon Level 1, MHV Basic, and MHV Advanced
-   - LOA3: Any account with ID.me ID proof, D DS Logon Level 2, MHV Premium
+   - LOA3: Any account with ID.me ID proofing, DS Logon Level 2, MHV Premium
 - Behaviors
    - Direct navigation to tool: There is no content page for this tool; the user should always be directly navigated to the tool
    - Content page w/ login button: Content page loads with a CTA for the user to log in to access the tool
