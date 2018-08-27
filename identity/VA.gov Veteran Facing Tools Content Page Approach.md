@@ -1,5 +1,5 @@
 # Overview
-As part of the VA Web Brand Consolidation effort, all Veteran Facing Tools (VFT) that are not health rlated will be migrated from Vets.gov to VA.gov. In doing so, we need to ensure that users who are accessing VA.gov have been logged in with the proper account types in order to access the VFT.
+As part of the VA Web Brand Consolidation effort, all Veteran Facing Tools (VFT) that are not health related (i.e. not to be hosted by My HealtheVet) will be migrated from Vets.gov to VA.gov. In doing so, we need to ensure that users who are accessing VA.gov have been logged in with the proper account types in order to access the VFT.
 
 # Approach
 The following table describes the approach for each tool:
