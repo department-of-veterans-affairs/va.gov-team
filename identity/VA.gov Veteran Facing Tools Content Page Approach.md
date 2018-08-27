@@ -6,14 +6,14 @@ The following table describes the approach for each tool:
 
 | Tool | Content Page URL | Tool URL | Required Account Type | Not Logged In | Logged in (LOA1) | Logged in (LOA2) |
 |------|------------------|----------|-----------------------|---------------|------------------|------------------|
-| VA Letters* | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| VA Letters | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | 10-10 EZ (Healthcare) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | 1990 (GI Bill) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | Check Your GI Bill Benefits | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | GI Bill Comparison Tool (GIBCT) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | 527 (Pension) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
-| 526 (Disability Benefits)* | | | LOA1 | Content page w/ login button | Redirect to tool | Redirect to tool |
-| Claims & Appeals* | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| 526 (Disability Benefits) | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| Claims & Appeals | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | 530 (Burial Benefits) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | Veteran ID Card (VIC) | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 
