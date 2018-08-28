@@ -17,7 +17,7 @@ The following table describes the approach for each tool:
 | 530 (Burial Benefits) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | Claims & Appeals | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | VA Letters | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
-| Veteran ID Card (VIC) | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| Veteran ID Card (VIC) | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Content page w/ button to get to the tool |
 
 ## Definitions
 - Required Account Type
