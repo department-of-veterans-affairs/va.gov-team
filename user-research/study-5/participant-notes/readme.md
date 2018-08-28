@@ -7,7 +7,8 @@
 - [P4](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-5/participant-notes/mobile/p4)
 
 ## 2018-08-28 (Tuesday)
-- 
+- [P5](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-5/participant-notes/mobile/p5)
+- [P6](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-5/participant-notes/mobile/p6)
 
 # Desktop Participants
 
