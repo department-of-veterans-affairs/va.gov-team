@@ -6,7 +6,7 @@ Details for health tools: https://github.com/department-of-veterans-affairs/va.g
 # Approach
 The following table describes the approach for each tool:
 
-| Tool | Content Page URL | Tool URL | Required Account Type | Not Logged In | Logged in (LOA1) | Logged in (LOA2) |
+| Tool | Content Page URL | Tool URL | Required Account Type | Not Logged In | Logged in (LOA1) | Logged in (LOA3) |
 |------|------------------|----------|-----------------------|---------------|------------------|------------------|
 | 10-10 EZ (Healthcare) | N/A | /health-care/apply-for-health-care-form-10-10ez | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | 1990 (GI Bill) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
