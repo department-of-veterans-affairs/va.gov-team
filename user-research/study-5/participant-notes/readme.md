@@ -22,11 +22,8 @@ Jeff (moderator) and Melissa (notetaker) ran 2 sessions in the atrium/main lobby
 
 Jeff (moderator) and Mikki (notetaker) ran 1 session in the Primary Care Area Conference Room 4E100 and 4 sessions in the atrium/main lobby, outside of the entrance to the cafeteria of the Minneapolis VAMC.
 
-- [P1]()
-- [P2]()
-- [P3]()
-- [P4]()
-- [P5]()
+- [Day 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/participant-notes/desktop/day1.md)
+
 
 ## 2018-08-28 (Tuesday)
 
