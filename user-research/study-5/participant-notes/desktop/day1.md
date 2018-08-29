@@ -1,6 +1,6 @@
-#Day 1 
+### Day 1 
 
-*Participant 1 – Male – Primary Care Clinic*
+**Participant 1 – Male – Primary Care Clinic**
 
 Wife does all web and email tasks, he won’t use the site, his wife will
 
@@ -39,7 +39,7 @@ Navigated participant to the disability hub page - she asked how he got there.  
 If this site went live tomorrow what would you like other veterans to know – I would encourage them that it’s a little easier to navigate. I noticed that you can log in at the top, versus MHV you have to go all the way to the bottom. 
 
 
-*Participant 3 – Male- Atrium*
+**Participant 3 – Male- Atrium**
 
 Army, Germany, Voc Rehab, worked at hospital
 
@@ -56,7 +56,7 @@ Hasn’t’ been on a lot of VA web sites.
 Interview did not get far, cognitive issues.
 
 
-*Participant 4 – Male- Atrium*
+**Participant 4 – Male- Atrium**
 
 Has used GI Bill, Uses phone primarily
 
