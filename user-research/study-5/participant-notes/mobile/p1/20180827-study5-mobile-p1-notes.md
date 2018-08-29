@@ -52,7 +52,7 @@ Let’s take a look at the menu at the top of the page. *Point it out if they ar
 Thanks for taking a look at the new site. We have two follow up questions.
 
 - How did that compare to your past experiences with VA websites?
-  - I guess I don't know what the current version i
+  - I guess I don't know what the current version is
 - If this website went live tomorrow, what would you want other Veterans to know?
   - Yeah, I probably would.
 - Overall impressions?
