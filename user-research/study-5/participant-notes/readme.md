@@ -31,7 +31,6 @@ Jeff (moderator) and Melissa (notetaker) ran 1 session in the atrium/main lobby 
 
 - [P6]()
 
-Andy (moderator) and Melissa (notetaker) ran 2 sessions in the atrium/main lobby of the Minneapolis VAMC.
+Andy (moderator) and Mikki (notetaker) ran 3 sessions in the atrium/main lobby of the Minneapolis VAMC.
 
-- [P7]()
-- [P8]()
+- [Day 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/participant-notes/desktop/day2.md)
