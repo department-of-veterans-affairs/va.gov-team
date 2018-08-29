@@ -26,7 +26,6 @@ Top reasons to visit va site – to see what’s going on, what benefits or anyt
 
 How does this compare – everything is one screen, all 4 areas, its more easier, It would make it more easier for veterans, its more informational, easier to find things.
 
-
 **Participant 2 – Male (with female) - Atrium**
 
 Uses some sites, has TBI, wife does many tasks; Both phone and computer, tablet too
@@ -60,7 +59,6 @@ That page with the 12 things are what I do (referring to left nav)
 I know to get my stuff I have to log in, I would look for a sign in, it would say HI Dan
 
 How did this compare – I remember getting super aggravated [with other sites], but that doesn’t mean anything because of my tbi
-
 
 **Participant 3 – Male - - Atrium**
 
