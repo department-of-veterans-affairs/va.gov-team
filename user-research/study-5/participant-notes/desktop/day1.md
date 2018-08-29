@@ -16,7 +16,8 @@ Not sure where he would go first, possibly life insurance not sure why – updat
 
 Took him to the life insurance hub page – interested in beneficiary content
 
-*Participant 2 – Female - Atrium*
+
+**Participant 2 – Female - Atrium**
 
 Does everything online, primarily uses phone
 
