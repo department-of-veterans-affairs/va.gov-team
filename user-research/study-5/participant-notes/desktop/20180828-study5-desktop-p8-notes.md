@@ -1,5 +1,9 @@
 # Preview.VA.gov - Desktop, 8-28-2018, P9
 
+[Video (file too large for GH)](https://dsva.slack.com/files/U69NC5MMG/FCLG61K53/20180828-study5-desktop-p8-video.mp4)
+
+
+
 ## Warm-up - 3 min
 
 Before we look at the new website, could you please tell us:
