@@ -10,11 +10,11 @@
 
 ## "On Call" POCs
 
-- *Help Desk: ?* 
-- *MHV: ?*
-- *ID.me: ?*
-- *NSOC: ?*
-- *TeamSite: ?*
+- **Help Desk: ?** 
+- **MHV: ?**
+- **ID.me: ?**
+- **NSOC: ?**
+- **TeamSite: ?**
 - Overall Implementation: Mina -> Rachael -> Chris
 - Engineering: Nick -> James
 - DevOps: Wyatt
