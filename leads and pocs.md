@@ -10,7 +10,7 @@
 - Implementation: Rachael Roueché, Mina Farzad
 - Marketing and Communications: Clare Martorana, Mandi Moore
 
-## "On Call" POCs
+## "On Call" POCs and escalation paths
 
 - **Help Desk: ?** 
 - **MHV: ?**
