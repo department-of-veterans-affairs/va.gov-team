@@ -19,15 +19,15 @@
 - **TeamSite: ?**
 - Overall Implementation: Mina -> Rachael -> Chris
 - Engineering: Nick -> James
-- DevOps: Wyatt
-- Content: Beth
-- Design: Amy -> Alex -> Lauren
+- DevOps: Wyatt -> James
+- Content: Beth -> ?
+- Design: Amy -> ? -> ?
 
 ## "On Call" dates
 On call means available to respond via email -> slack -> phone if there's an urgent issue that needs addressing prior to the milestone activities kicking off.
 
-Pre-milestone 9.3: Sept 
-Pre-milestone 10.1: 
-Pre-milestone 10.2:
-Pre-milestone 10.3:
+Pre-milestone 9.3: dates TBD
+Pre-milestone 10.1: dates TBD
+Pre-milestone 10.2: dates TBD
+Pre-milestone 10.3: dates TBD
 Launch week: Nov 5 - Nov 9
