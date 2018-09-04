@@ -1,3 +1,5 @@
+👑 = ultimate decision maker
+
 ## Pause / Pivot / Continue Discussion Group
 
 - 👑 Chris Johnston: Product Owner
