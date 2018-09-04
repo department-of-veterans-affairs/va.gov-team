@@ -68,7 +68,6 @@ None at this time
 ## Root
 
 - Track Your Claims and Appeals Status
-- File an Appeal - TBD based on appeals convo
 - Update Your Direct Deposit and Contact Information
   
   
