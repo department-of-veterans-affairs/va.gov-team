@@ -10,7 +10,7 @@
 - Implementation: Rachael Roueché, Mina Farzad
 - Marketing and Communications: Clare Martorana, Mandi Moore
 
-## "On Call" POCs and escalation paths
+## "On Call" escalation paths
 
 - **Help Desk: ?** 
 - **MHV: ?**
@@ -30,4 +30,4 @@ On call means available to respond via email -> slack -> phone if there's an urg
 - Pre-milestone 10.1: dates TBD
 - Pre-milestone 10.2: dates TBD
 - Pre-milestone 10.3: dates TBD
-- Launch week: Nov 5 - Nov 9
+- Launch week: ALL IN PERSON IF POSSIBLE Nov 5 - Nov 9
