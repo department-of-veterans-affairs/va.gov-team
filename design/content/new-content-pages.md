@@ -2,15 +2,15 @@
 
 ## 1. Order of Priority for Benefit Hub Implementation and Content Creation
 
-- [ ] Health Care (VHA) - APPROVED
-- [ ] Disability (VBA) - APPROVED
-- [ ] Burials and Memorials (NCA) - APPROVED
-- [ ] Education and Training (VBA) - CHANGES REQUESTED
-- [ ] Pension (VBA) - PENDING REVIEW
-- [ ] Records (no single owner) - NO APPROVAL NEEDED
-- [ ] Housing Assistance (VBA) - PENDING REVIEW
-- [ ] Life Insurance (VBA) - REVIEW FEEDBACK
-- [ ] Careeers and Employment (VBA) - PENDING REVIEW
+- [x] Health Care (VHA)
+- [ ] Disability (VBA)
+- [ ] Burials and Memorials (NCA)
+- [ ] Education and Training (VBA)
+- [ ] Pension (VBA)
+- [ ] Records (no single owner)
+- [ ] Housing Assistance (VBA)
+- [ ] Life Insurance (VBA)
+- [ ] Careeers and Employment (VBA)
 
 ## 2. New Content Pages (landing pages for authenticated tools AND regular content pages)
 
