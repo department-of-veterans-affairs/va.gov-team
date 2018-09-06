@@ -31,7 +31,7 @@ HMW...make the mega menu benefit hub View All link more noticeable for users who
 
 HMW...make the mobile page navigation more noticeable to users?
 
-- [Andy](2-mobile-menu-Andy.JPG)
+- [Andy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Andy.JPG)
 - [Mikki](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Mikki.jpg)
 - [Danielle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Danille.jpg)
 - [Amy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Amy.jpg)
