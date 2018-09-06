@@ -1,7 +1,9 @@
 # VA.gov opportunities for design session
 
 2018-09-06
+Design studio to ideate on design for preview.va.gov based on user feedback from August 2018 usability sessions at MN VAMC. 
 
+Attendees:
 - Andy
 - Mikki
 - Danielle
@@ -31,13 +33,12 @@ HMW...make the mega menu benefit hub View All link more noticeable for users who
 
 HMW...make the mobile page navigation more noticeable to users?
 
-- Andy
-- Mikki
-- Danielle
-- Amy
-- Layla
-- Emily
-
+- [Andy](2-mobile-menu-Andy.JPG)
+- [Mikki](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Mikki.jpg}
+- [Danielle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Danille.jpg)
+- [Amy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Amy.jpg)
+- [Layla](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Layla.jpg)
+- [Emily](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Emily.jpg)
  
 
 ## Task 3
