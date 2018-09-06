@@ -18,7 +18,7 @@ Attendees:
 1. [Read the readout from usability testing research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/Brand%20Consolidation%20Research%20Summary%209-6-2018_Study%205%20only.pptx)
 2. Review these four insights that we will focus on together during the meeting: How might we...
 
-## Task 1
+## Insight 1
 
 HMW...make the mega menu benefit hub View All link more noticeable for users who don’t find what they’re looking for in the menu link lists?
 
@@ -29,7 +29,7 @@ HMW...make the mega menu benefit hub View All link more noticeable for users who
 - Layla
 - Emily
 
-## Task 2
+## Insight 2
 
 HMW...make the mobile page navigation more noticeable to users?
 
@@ -41,7 +41,7 @@ HMW...make the mobile page navigation more noticeable to users?
 - [Emily](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Emily.jpg)
  
 
-## Task 3
+## Insight 3
 
 HMW...clarify that users need to sign in to complete their task when they get to an authenticated tool landing page (i.e., the alert box)?
 
@@ -52,7 +52,7 @@ HMW...clarify that users need to sign in to complete their task when they get to
 - Layla
 - Emily
 
-## Task 4	
+## Insight 4	
 
 HMW...reduce potential user anxiety on the benefit hub pages given the overwhelming amount of text on the page?
 
