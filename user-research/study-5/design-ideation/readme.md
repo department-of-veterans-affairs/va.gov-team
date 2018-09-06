@@ -11,14 +11,12 @@ Attendees:
 - Layla
 - Emily
 
-
-
 ## Before the meeting...
 
 1. [Read the readout from usability testing research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/Brand%20Consolidation%20Research%20Summary%209-6-2018_Study%205%20only.pptx)
 2. Review these four insights that we will focus on together during the meeting: How might we...
 
-## Task 1
+## Insight 1
 
 HMW...make the mega menu benefit hub View All link more noticeable for users who don’t find what they’re looking for in the menu link lists?
 
@@ -29,11 +27,11 @@ HMW...make the mega menu benefit hub View All link more noticeable for users who
 - Layla
 - Emily
 
-## Task 2
+## Insight 2
 
 HMW...make the mobile page navigation more noticeable to users?
 
-- [Andy](2-mobile-menu-Andy.JPG)
+- [Andy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Andy.JPG)
 - [Mikki](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Mikki.jpg)
 - [Danielle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Danille.jpg)
 - [Amy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Amy.jpg)
@@ -41,18 +39,18 @@ HMW...make the mobile page navigation more noticeable to users?
 - [Emily](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/2-mobile-menu/2-mobile-menu-Emily.jpg)
  
 
-## Task 3
+## Insight 3
 
 HMW...clarify that users need to sign in to complete their task when they get to an authenticated tool landing page (i.e., the alert box)?
 
-- Andy
-- Mikki
-- Danielle
-- Amy
-- Layla
-- Emily
+- [Andy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Andy.JPG)
+- [Mikki](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Mikki.jpg)
+- [Danielle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Danielle.jpg)
+- [Amy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Amy.jpg)
+- [Layla](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Layla.jpg)
+- [Emily](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Emily.jpg)
 
-## Task 4	
+## Insight 4	
 
 HMW...reduce potential user anxiety on the benefit hub pages given the overwhelming amount of text on the page?
 
