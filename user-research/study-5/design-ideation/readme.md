@@ -11,8 +11,6 @@ Attendees:
 - Layla
 - Emily
 
-
-
 ## Before the meeting...
 
 1. [Read the readout from usability testing research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/Brand%20Consolidation%20Research%20Summary%209-6-2018_Study%205%20only.pptx)
@@ -45,12 +43,12 @@ HMW...make the mobile page navigation more noticeable to users?
 
 HMW...clarify that users need to sign in to complete their task when they get to an authenticated tool landing page (i.e., the alert box)?
 
-- Andy
-- Mikki
-- Danielle
-- Amy
-- Layla
-- Emily
+- [Andy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Andy.JPG)
+- [Mikki](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Mikki.jpg)
+- [Danielle](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Danielle.jpg)
+- [Amy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Amy.jpg)
+- [Layla](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Layla.jpg)
+- [Emily](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/study-5/design-ideation/3-sign-in-task/3-sign-in-task-Emily.jpg)
 
 ## Insight 4	
 
