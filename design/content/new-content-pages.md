@@ -27,7 +27,6 @@
 
 ## Disability
 
-- Apply for Disability
 - Upload Documents to Support Your Claim
 
 ## Education
@@ -46,7 +45,6 @@ None at this time
   
 ## Housing
   
-- Apply for a Home Loan COE
 - Apply for Adaptive Housing Grant
     
 ## Life Insurance
