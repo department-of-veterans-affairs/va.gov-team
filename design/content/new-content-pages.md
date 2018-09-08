@@ -51,7 +51,6 @@ None at this time
     
 ## Life Insurance
  
-- Apply for VGLI
 - File an Appeal for TSGLI (currently there's just a pop-up)
    
 ## Burials
