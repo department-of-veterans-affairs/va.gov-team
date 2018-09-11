@@ -10,7 +10,7 @@ The following table describes the approach for each tool:
 |------|------------------|----------|-----------------------|---------------|------------------|------------------|
 | 10-10 EZ (Healthcare) | N/A | /health-care/apply-for-health-care-form-10-10ez | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | 1990 (GI Bill) | N/A | /education/apply-for-education-benefits/application/1990/introduction | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
-| Check Your GI Bill Benefits | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| Check Your GI Bill Benefits | | /education/check-post-9-11-gi-bill-benefit-status/ | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | GI Bill Comparison Tool (GIBCT) | N/A | /education/gi-bill-school-comparison-tool/ | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | 526 (Disability Benefits) | N/A | | LOA3 | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
 | 527 (Pension) | N/A | | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
