@@ -8,6 +8,6 @@
 | 9/14/2018 | Push back beta test of full site experience from 10/9 to 10/16 in order to have an additional week of moderated usability testing<br />Update reflected in the Rollout Doc | Chris Johnston              |
 | 9/14/2018 | **No more team responsibility swaps.** It's a waste of time, resources and effort. We're running out of time to do this work and swapping resources is a waste of everyone's time. | ALL                         |
 | 9/14/2018 | Transfer Teamsite Header/Footer effort to Dragons, effective immediately. De-scope search v2 as a priority for launch/MVP.<br />Update reflected in the Rollout Doc | Steve Kovacs, James Kassemi |
-| 9/14/2018 | For MVP, The "My Health" link in the Header will open the home page of My HealtheVet in a new tab. | Chris Johnson, Andy Lewandowski |
+| 9/14/2018 | For MVP, The "My Health" link in the Header will open the home page of My HealtheVet in a new tab. | Chris Johnston, Andy Lewandowski |
 
 
