@@ -1,8 +1,11 @@
 # WBC Decisions
 
-| Date      | Decision                                                     | Made by                    |
-| --------- | ------------------------------------------------------------ | -------------------------- |
-| 9/14/2014 | For Check Your GI Bill Benefits, VA letters, VIC, 526 SSCI these pages will continue to navigate to content page, no redirect, continue to tool button. <br />Griffins owns replacing the green buttons within Vets.gov content with the blue alert box/button that is used on preview.va.gov like on MHV tools. Need to account for a new state for on-site tool.<br />Hydra owns moving this page content to preview and applying the correct treatment | Chris Johnston,  David Bao |
-| 9/14/2014 | For Claims and Appeals Status these pages will follow the special redirect handling pattern similar to MHV. No need to put an additional content page in front of them. Keep current treatment of both buttons at top and bottom. <br />Revisit treatment of buttons on subway map pages post-launch/MVP | Chris Johnston,  David Bao |
-|           |                                                              |                            |
+| Date      | Decision                                                     | Made by                     |
+| --------- | ------------------------------------------------------------ | --------------------------- |
+| 9/14/2018 | For Check Your GI Bill Benefits, VA letters, VIC, 526 SSCI these pages will continue to navigate to content page, no redirect, continue to tool button. <br />Griffins owns replacing the green buttons within Vets.gov content with the blue alert box/button that is used on preview.va.gov like on MHV tools. Need to account for a new state for on-site tool.<br />Hydra owns moving this page content to preview and applying the correct treatment | Chris Johnston,  David Bao  |
+| 9/14/2018 | For Claims and Appeals Status these pages will follow the special redirect handling pattern similar to MHV. No need to put an additional content page in front of them. Keep current treatment of both buttons at top and bottom. <br />Revisit treatment of buttons on subway map pages post-launch/MVP | Chris Johnston,  David Bao  |
+| 9/14/2018 | For 10/9, for beta we're fine with alt users having to log in again when directed to MHV pages. David will write content that reflects the actions users have to take (log in with ID.me or DS logon, not MHV, and log in again) based on the experience that they had. **Content should reflect that they should not create a new MHV account if they have already attempted to log in using their MHV credentials.**<br />Update reflected in the Rollout Doc | Chris Johnston,  David Bao  |
+| 9/14/2018 | Push back beta test of full site experience from 10/9 to 10/16 in order to have an additional week of moderated usability testing<br />Update reflected in the Rollout Doc | Chris Johnston              |
+| 9/14/2018 | **No more team responsibility swaps.** It's a waste of time, resources and effort. We're running out of time to do this work and swapping resources is a waste of everyone's time. | ALL                         |
+| 9/14/2018 | Transfer Teamsite Header/Footer effort to Dragons, effective immediately. De-scope search v2 as a priority for launch/MVP.<br />Update reflected in the Rollout Doc | Steve Kovacs, James Kassemi |
 
