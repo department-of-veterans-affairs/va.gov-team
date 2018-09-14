@@ -18,6 +18,8 @@ The following table describes the approach for each tool:
 
 ## Other Tools
 
+The following tools do not require a particular logged in user type.
+
 | Tool | Content Page URL | Tool URL | Required Account Type | Not Logged In | Logged in (LOA1) | Logged in (LOA3) |
 |------|------------------|----------|-----------------------|---------------|------------------|------------------|
 | 10-10 EZ (Healthcare) | N/A | /health-care/apply-for-health-care-form-10-10ez | Any | Direct navigation to tool | Direct navigation to tool | Direct navigation to tool |
