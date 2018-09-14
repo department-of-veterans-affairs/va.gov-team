@@ -33,6 +33,7 @@ The following table describes the approach for each tool:
    - LOA3: Any account with ID.me ID proofing, DS Logon Level 2, MHV Premium
 - Behaviors
    - Direct navigation to tool: There is no content page for this tool; the user should always be directly navigated to the tool
-   - Content page w/ login button: Content page loads with a CTA for the user to log in to access the tool
-   - Content page w/ verify your identity button: Content page loads with CTA for the user to go through the identity proofing process to access the tool
+   - Content/Tool page w/ login button: Content/Tool page loads with a CTA for the user to log in to access the tool
+   - Content/Tool page w/ verify your identity button: Content/Tool page loads with CTA for the user to go through the identity proofing process to access the tool
+   - Content/Tool page w/ continue to tool: Content/Tool page loads with CTA for the user to continue to the tool (no redirect behavior)
    - Redirect to tool: As the user is logged in with a sufficient account level, the user should be redirected to the tool
