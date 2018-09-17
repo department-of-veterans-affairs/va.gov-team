@@ -117,12 +117,8 @@ You need a phone number for the local VA cemetery.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-As a thank you for your participation, we'd like to offer you a $25 gift either as an Amazon Gift Card or through Paypal. Do you have a preference?
-
-Great, is it ok for us to send that gift to the same address we used to communicate with you about scheduling this test? 
+As a thank you for your participation, we'd like to offer you a $25 gift. IOs it ok for us to send that gift to the same address we used to communicate with you about scheduling this test? 
 [If no] Ok, we'll follow up with an email after this session to get the right email from you in writing.
-
-Thanks! Lastly, would you like to share this feedback opportunity with other Veterans or Veteran groups you're a part of? If so, I can send you an email with a little blurb so you can easily connect folks to our team.
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
