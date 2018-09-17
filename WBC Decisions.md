@@ -1,5 +1,5 @@
-# WBC Decisions
-
+//# WBC Decisions
+9
 | Date      | Decision                                                     | Made by                     |
 | --------- | ------------------------------------------------------------ | --------------------------- |
 | 9/14/2018 | For Check Your GI Bill Benefits, VA letters, VIC, 526 SSCI these pages will continue to navigate to content page, no redirect, continue to tool button. <br />Griffins owns replacing the green buttons within Vets.gov content with the blue alert box/button that is used on preview.va.gov like on MHV tools. Need to account for a new state for on-site tool.<br />Hydra owns moving this page content to preview and applying the correct treatment | Chris Johnston,  David Bao  |
@@ -10,4 +10,5 @@
 | 9/14/2018 | Transfer Teamsite Header/Footer effort to Dragons, effective immediately. De-scope search v2 as a priority for launch/MVP.<br />Update reflected in the Rollout Doc | Steve Kovacs, James Kassemi |
 | 9/14/2018 | For MVP, The "My Health" link in the Header will open the home page of My HealtheVet in a new tab. | Chris Johnston, Andy Lewandowski |
 | 9/17/2018 | Trevor is responsible for accessibility ONLY on VA.gov pages, VA global utilities, VA global mega menu, and VA global footer that are on the Veteran Facing Services stack (including tools built by BAH, Veracity, and AbleVets). He cannot ensure compliance of any old VA pages that we do not currently have control over. | Lauren Alexanderson, Mary O'Toole, Andrew Hughey |
-
+| 9/17/2018 | Sign in Scenarios: 1)User clicks on Sign In button in header from any page on the site - they sign in and remain on the page they were on. 2) User clicks on Sign In button on home page - they sign in and remain on the home page.
+3) User is directed to sign in when attempting to access a tool that requires authentication (i.e. claim status or refill rx) - they sign in and are directed to the tool they were trying to access. 4)  User navigates directly to /my-va before signing in - they routed to sign in and are directed to My VA page (dashboard). 5)  User navigates directly to /account before signing in - they routed to sign in and are directed to Account. 6) User navigates directly to /profile before signing in - they routed to sign in and are directed to Profile. 7) User clicks on "Home" in breadcrumb from anywhere on the site - they are taken to the home page. 8)  User clicks on VA logo from anywhere on the site - they are taken to the home page. 9)  User clicks on My VA option in header - they are taken to the My VA page (dashboard). 10)  User clicks on Profile in the header (under signed in name) - they are taken to Profile page. 11)  User clicks on Account in the header (under signed in name) - they are taken to Account page. 12)  User clicks on Sign Out from anywhere on the site - they are signed out and taken to the home page. | Andy Lewandowski, Mikki Northuis |
