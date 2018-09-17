@@ -9,5 +9,5 @@
 | 9/14/2018 | **No more team responsibility swaps.** It's a waste of time, resources and effort. We're running out of time to do this work and swapping resources is a waste of everyone's time. | ALL                         |
 | 9/14/2018 | Transfer Teamsite Header/Footer effort to Dragons, effective immediately. De-scope search v2 as a priority for launch/MVP.<br />Update reflected in the Rollout Doc | Steve Kovacs, James Kassemi |
 | 9/14/2018 | For MVP, The "My Health" link in the Header will open the home page of My HealtheVet in a new tab. | Chris Johnston, Andy Lewandowski |
-
+| 9/17/2018 | Trevor is responsible for accessibility ONLY on VA.gov pages that are on the Veteran Facing Services stack (including tools built by BAH, Veracity, and AbleVets). He cannot ensure compliance of any old VA pages that we do not currently have control over. | Lauren Alexanderson, Mary O'Toole, Andrew Hughey |
 
