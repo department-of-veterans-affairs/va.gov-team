@@ -32,12 +32,11 @@
 ## Education
 
 - Types of Training and Assistance (title TBD)
-- Check Your Post-9/11 GI Bill Benefits
 - Make a Change to Your GI Bill Benefits
   
 ## Careers
   
-- Apply for VR&E (application is on eBenefits)
+None at this time
   
 ## Pensions
   
@@ -45,7 +44,7 @@ None at this time
   
 ## Housing
   
-- Apply for Adaptive Housing Grant
+- How to Apply for Adaptive Housing Grant
     
 ## Life Insurance
  
@@ -58,8 +57,6 @@ None at this time
 ## Records
 
 - Request Your Military Records
-- Download You VA Benefit Letters
-- Get a Veteran ID Card
 - View Your VA Payment History
 
 ## Root
