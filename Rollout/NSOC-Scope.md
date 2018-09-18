@@ -19,17 +19,22 @@ Note: Provided and discussed on September 6, 2018 with NSOC. No major concerns r
 
 ### Timeline
 
-#### Present State
+#### Start State
 
 Active development on current AWS environment on `dev-preview.va.gov` and `preview.va.gov`. `dev-preview.va.gov` routes traffic to our current development environment, and `preview.va.gov` routes traffic to our current staging environment. 
 
 #### Service Proxies to VAEC
 
-All service proxies will be moved to the VAEC pending ESCCB approval and associated configuration updates. All current AWS environments will utilize these VAEC connections to access VA services. This is the first major stage of the Vets.gov VAEC migration.
+All service proxies will be moved to the VAEC pending ESCCB approval and associated configuration updates. All current AWS environments will utilize these VAEC connections to access VA services. This is the first major stage of the Vets.gov VAEC migration. 
+
+- [Forward proxy #12349](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12349)
+- [Reverse proxy for vets.gov #11009](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11009)
 
 #### EWIS Proxies to VAEC
 
 `preview.va.gov` requests route EWIS destined traffic via internal network connection to EWIS. We expect a significant performance improvement to non-native requests by avoiding a second internet-based request for current va.gov resources. 
+
+- [#11703](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11703)  
 
 #### Reverse Proxies to VAEC
 
@@ -39,9 +44,14 @@ All service proxies will be moved to the VAEC pending ESCCB approval and associa
 
 `preview.va.gov` utilizes the `staging-api.va.gov` domain for API requests.
 
+- [lower environment hostnames #12332](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12332)
+- [preview.va.gov utilizes staging-api.va.gov change #12984](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12984)
+
 #### NSOC Web Flow Updates
 
 NSOC will evaluate network routing and DNS for `dev.va.gov`, `staging.va.gov`, `preview.va.gov`, and `www|va.gov` to improve EWIS proxy performance.  (Kevin Williams)
+
+- [#12985](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12985)
 
 #### Production Environment Preview
 
@@ -50,6 +60,8 @@ NSOC will evaluate network routing and DNS for `dev.va.gov`, `staging.va.gov`, `
 DNS updates route `preview.va.gov` to the production VAEC environment for selected testing.
 
 `preview.va.gov` utilizes the `api.va.gov` API domain for API requests.
+
+- [move preview.va.gov to production #12330](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12330)
 
 #### Partial Production Traffic Routed to EWIS proxy
 
@@ -60,6 +72,8 @@ We will increase the percentage of traffic incrementally toward 100%. At the end
 #### Load Testing
 
 Our team will notify VA Gateway Ops of test parameters, and perform a load test on `dev.va.gov` and potentially `staging.va.gov` after NSOC Web Flow Updates are confirmed in place. Information will be used to update monitoring and alerting configurations for production traffic.
+
+- [load testing ticket #11709](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11709) 
 
 #### Vets.gov Directs Limited Production Traffic to Preview
 
