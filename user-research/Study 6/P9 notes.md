@@ -6,14 +6,27 @@
 Before we look at the website, let’s start with a few warm-up questions.
 
 - Have you visited any VA webistes in the past? What was your reason for visiting?
-
+"yes, to see whats new and when the news says something i go there to find out whats happeneing. its my favorite source for that type of information. 
+dont remember which ones
 
 ## Zero Task: Homepage - 7 Minutes
 - This is the new homepage for va.gov, what are your first impressions?
+"theres a lot there" if i was coming in to look for something i wouls know where to start
+"looking at healthcare
+"everything i need would be there, not too confusing
+"i like the get help from crisis line, that could be a little bigger
 
 - What  kind of message do you think this new site sends to Veterans?
+its trying to answer all of our questions as quickly as possible
+now i just find the big red box for crisis line, you have it in two polaces
+theres a lot there and i have to take my time to look around
+"its reminds me of a powerpoint slide with too information on it, they tried to cram too much into it
 
 - What do you think you can do on this page?
+looks like i can do everything i normally do, refill, schedule, etc, 
+i dont have a disability claim so i dont look in that area
+records..
+looks pretty comprehensive
 
 ## First Task: Disability Eligibility - 5 minutes
 
@@ -22,8 +35,11 @@ You hurt your back on the job when you were in the service. Now that you're out,
 - Target is the Disability Hub --> Eligibility. https://preview.va.gov/disability/eligibility/
 
 ### Response
-
-
+looking at disability, reading the links, trying to find a new question
+"id prob start here, learn how to file a claim
+"reading how to apply for disability benefits
+found how do i apply button, "i guess i would go to ebenefits to apply" clicked link.
+reading the rest of the page
 
 ## Second Task: Disability Upload Docs - 5 minutes
 
@@ -32,7 +48,12 @@ You recently applied to get payments for an injury that happened during your ser
 - Target is Disability Hub --> Upload. https://preview.va.gov/disability/upload-supporting-evidence/
 
 ### Response
-
+back to homepage
+saw this earlier, upload evidence to support cliam, id go there.
+reading page
+sign in to ebenefits to 
+"anytime i see something that says i need to sign in i start loking around on my desk 
+thats where i would start
 
 
 ## Third Task: Education Apply - 5 minutes
@@ -42,6 +63,10 @@ You just got into college and want to get VA benefits to help pay for school. Wh
 - Target is Education --> GI Bill. https://preview.va.gov/education/about-gi-bill-benefits/
 
 ### Response
+go under education
+learn how to apply for education benefits
+start reading all this stuff
+"when i find the button i like i usually stop there, so anything below that i dont usually read
 
 ## Fourth Task: Education Transfer - 5 minutes
 
@@ -50,11 +75,17 @@ You want to find out if you can give your remaining GI Bill benefits to your chi
 - Target is Education --> Transfer https://preview.va.gov/education/transfer-post-9-11-gi-bill-benefits/
 
 ### Response
+*started from education page to see left nav*
 
-- Education, i would go to change your current education benefits
-- reading down the page. 
-- i would click on change program link, i dont think this is it
-- "at this point i would call the VA
+"i would start at this page, educatio and training
+"look down this column
+"clicked survivors and dependents
+scanned page, nothing jumped out at me there
+clicked other education assistance programs
+"i dont know anthing about this
+opened manage my benefits
+i dont see anything about passing it along to my dependents
+i would have to call to get help
 
 ## Fifth Task: Burials Pre-need  - 5 minutes
 
@@ -64,6 +95,21 @@ You heard VA now lets Veterans apply in advance to be buried in a VA cemetery. W
 
 ### Response
 
+"when i first logged on, i saw this find a VA link
+allowes current location
+scrolling through the list of all facilities 
+"that didnt help me
+found cememtery search box
+"i found a cemetery but it didnt answer my question
+using back arrow to get back
+found top navigation, scanning HC options
+found burails and memorials
+found pre-need eligibility
+reading page, scanning through the options
+found the green apply button and clicked
+"that was a little bit trickier
+
+
 ## Sixth Task: Burials Phone Number - 5 minutes
 
 You need a phone number for the local VA cemetery.
@@ -71,19 +117,37 @@ You need a phone number for the local VA cemetery.
 - Target is Burials --> Find Location https://www.cem.va.gov/cems/listcem.asp or Facility Locator
 
 ### Response
+well i just did that
+find a location from homepage
+"not wild about the tombstome as a symbol
+found the phone number using the map
 
 ### Impromptu
+finding news information
+its always questions about health or dental care
 
- 
+opened top navigation, scanning HC
+clicked on search and entered "dental benefits" navigated to dental page
+i usually get information directly from VA websites because the 3rd hand sources are usually unreliable
+
+usaully go through Tricare
+
 ## Post-Task Interview - 5 minutes
 
 - How did that compare to your past experiences with VA websites?
+actually, this is a lot simplerer menu on this first screen then the other one
+dividing up like this into big square blocks, it looks simpler to me right now
+quite easy to navigate through
 
 - If this website went live tomorrow, what would you want other Veterans to know?
+just that it has been restructured and is easier to use, they cant even do facebook, they are inteimidated by the website. 
+when it says sign in that always freaks me out
+simplifying it, hacing health care, disabilty, at the top, bc thats what i usually go for
+its been redesigned and its easier to use. thoroughly vetted to help ally their fears
 
 - Do you have any questions for me?
 
-Same email address. Thought it was supposed to be $50
+Vietnam era, worry about us older guys
 
 
 ## Thank-You and Closing - 1 minutes
