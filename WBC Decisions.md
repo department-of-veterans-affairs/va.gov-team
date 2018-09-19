@@ -16,4 +16,4 @@
 | 9/18/2018 |Login (for dependents and caregivers) - For MVP, no changes are needed to accommodate these groups. Griffin’s team will monitor any issues reported by the call center for these users and handle in future releases. | David Bao, Chris Johnston
 | 9/18/2018 |DS Logon  - No changes will be made to the way users access this feature.  | David Bao, Chris Johnston
 | 9/18/2018 |Login FAQ content - Updates will be made to the current login/identity FAQs to reflect new whitelabeling changes. Joe has reviewed the existing content and provided recommendations that will be implemented for MVP. (#11491)  | David Bao, Chris Johnston
-
+| 9/19/2018 | Confirmed with Carnetta from MHV that the current Vets.gov Health Tools Terms & Conditions are *not* required in VA.gov, as the health tools will not be hosted on VA.gov. Therefore, VA.gov may freely create and upgrade MHV accounts for users without asking them to accept T&C. | David Bao |
