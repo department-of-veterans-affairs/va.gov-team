@@ -12,7 +12,7 @@ The following table describes the approach for each tool:
 |------|------------------|----------|-----------------------|---------------|------------------|------------------|
 | Check Your GI Bill Benefits | N/A | /education/check-post-9-11-gi-bill-benefit-status/ | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
 | 526 (Disability Benefits) | N/A | /disability/file-for-increase-form-21-526ez/ | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
-| Claims & Appeals | | | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
+| Claims & Appeals | /claim-or-appeal-status | /track-claims | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | VA Letters | N/A | /records/download-va-letters/ | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
 | Veteran ID Card (VIC) | N/A | | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
 
