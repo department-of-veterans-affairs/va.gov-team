@@ -30,14 +30,15 @@ You hurt your back on the job when you were in the service. Now that you're out,
 
 ### Response
 
-- "First thing i would look at is disability, but then i went bakc to health care bc i need help, back to disability bc its payment, i would prob go to something in disability
-"kind of throws me off bc i dont want to check, file for incrase, 
-
-click on disability - file a claim, i dont think i would have clicked on that "I dont liek when it says learn"
-when i see action like apply, i dont want to read i dont like learn
-
-- reading how to apply,  clicked find out if you are eligvle, found how to apply button
+- "First thing I would look at is disability, but then I went back to health care because I need help, back to disability because its payment, I would probably go to something in disability."
+- "kind of throws me off because I don't want to check, file for increase." 
+- click on disability - file a claim
+- "I dont think I would have clicked on that "I dont like when it says learn"
+- "When I see an action like apply, I dont want to read I don't like learn"
+- reading how to apply, clicked find out if you are eligvle, found how to apply button
  pointed out eBN to user
+ 
+ **SUCCESS**
 
 ## Second Task: Disability Upload Docs - 5 minutes
 
@@ -47,12 +48,14 @@ You recently applied to get payments for an injury that happened during your ser
 
 ### Response
 
-- intially i looked at recrods, but then bakc to disability and i noticed uplaod
-clicked upload evidence
-i would go here, 
-promt NEXT?
-reading text, skiped over CTA, moving down page
-i would click on the button, bc i dont know what they need, i dont know what all these things are
+- "Intially I looked at recrods, but then back to disability and I noticed upload."
+- clicked upload evidence
+- "i would go here."
+- prompt NEXT?
+- reading text, skiped over CTA, moving down page
+- I would click on the button, because I don't know what they need, I don't know what all these things are."
+
+**SUCCESS**
 
 
 ## Third Task: Education Apply - 5 minutes
@@ -63,12 +66,14 @@ You just got into college and want to get VA benefits to help pay for school. Wh
 
 ### Response
 
-- "Education and i would prob, i dont know what to do, prob go to learn how to apply 
-- i would start with learn because i dont know what to do
+- "Education and I would probably, I dont know what to do, probably go to learn how to apply."
+- "I would start with learn because I dont know what to do."
 - scrolling down the page
 - went back to HP clicked on Check 911 GIB
-- found a button to view the GI Bill, clicked "to see how much money i have"
--"i would click post 911 GIB first, then learn how"
+- found a button to view the GI Bill, clicked "to see how much money I have"
+- "I would click post 911 GIB first, then learn how"
+
+**SUCCESS**
 
 ## Fourth Task: Education Transfer - 5 minutes
 
@@ -78,10 +83,12 @@ You want to find out if you can give your remaining GI Bill benefits to your chi
 
 ### Response
 
-- Education, i would go to change your current education benefits
-- reading down the page. 
-- i would click on change program link, i dont think this is it
-- "at this point i would call the VA
+- "Education, I would go to change your current education benefits"
+- reading down the page 
+- "I would click on change program link, i dont think this is it"
+- "at this point i would call the VA"
+
+**Fail**
 
 ## Fifth Task: Burials Pre-need  - 5 minutes
 
@@ -92,12 +99,14 @@ You heard VA now lets Veterans apply in advance to be buried in a VA cemetery. W
 ### Response
 
 - "hmm, thats a good one"
-- pausing, not seeing on top of HP
+- pausing, not seeing on the top of HP
 - went down to faclity locator, "that was complicated"
-- then i would click on my state, searched state
-- i would call, thats not what i want either
+- "Then I would click on my state." searched state
+- "I would call, that's not what I want either."
 - went back to facility locator, filtered cemetery
 - not scrolling down HP, or using top navigation
+
+**Fail**
 
 ## Sixth Task: Burials Phone Number - 5 minutes
 
@@ -111,23 +120,22 @@ You need a phone number for the local VA cemetery.
 
 ### Impromptu
 
-- "if I go here i can click my prescriptions, not even sure i can do it on eBN, i just go to MHV
+- "If I go here I can click my prescriptions, not even sure I can do it on eBN, I just go to MHV."
 
 Promted for options
-- they are similar to the ones on VA now, i dont pay a lot of attention
-- they are more detailed
-- oh look this is better, this is where i would have gone to look for the VA thing
-- the HP is superior like the top things, I would not look up here, but now I see burials na memorials, these on the HP are like favorites, I just see that
-- Like disability how to file a claim, that was not on the HP
-- these are like top things, i dont like that, i like how this is more clear it gives me what i need (in the top navigation)
+- "they are similar to the ones on VA now, I don't pay a lot of attention. They are more detailed."
+- "Oh look this is better, this is where I would have gone to look for the VA thing."
+- "The HP is superior, I like the top things. I would not look up here, but now I see burials and memorials, these on the HP are like favorites, I just see that."
+- "Like disability how to file a claim, that was not on the HP."
+- "These are like top things, I dont like that, I like how this is more clear it gives me what I need (in the top navigation)."
 
 ## Post-Task Interview - 5 minutes
 
 - How did that compare to your past experiences with VA websites?
-"It wasnt much different, everyhting is here just like any other website for me just need to figure out where you nd to go. its pretty intuitive, its not slow which is great
+"It wasn't much different, everything is here just like any other website for me just need to figure out where you need to go. Its pretty intuitive, its not slow which is great."
 
 - If this website went live tomorrow, what would you want other Veterans to know?
-"that they should go to the tab at the top to get more details, they are like me and dont like to read, this section gives you the top clicks but if you are really looking for something go to the tab at the top
+"That they should go to the tab at the top to get more details, they are like me and dont like to read, this section gives you the top clicks but if you are really looking for something go to the tab at the top."
 
 - Do you have any questions for me?
 
