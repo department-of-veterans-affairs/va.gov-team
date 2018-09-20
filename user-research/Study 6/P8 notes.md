@@ -8,19 +8,19 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Have you visited any VA webistes in the past? What was your reason for visiting?
 
 Uses VA healthcare and disability.
-"going to look at my beenfits and sending messages to my doctor and getting documents. ebenfits and MHV for numerous things.
+"Going to look at my benefits and sending messages to my doctor and getting documents. ebenfits and MHV for numerous things."
 
 
 ## Zero Task: Homepage - 7 Minutes
 - This is the new homepage for va.gov, what are your first impressions?
-"it looks very clean, i konw exactly where i need to go, i like it. im trying to thinkg of how the other site used to look, loks easier to find things. if im looking for education i go there...
+"It looks very clean, I know exactly where i need to go, I like it. I'm trying to thinkg of how the other site used to look, looks easier to find things. If im looking for education i go there..."
 
 - What  kind of message do you think this new site sends to Veterans?
-when i come on here i can cklearly see that information i need is availalbe, HC, disabilit,y education, this is your one stop you need for veteran related stuff.
+"When I come on here I can clearly see that information I need is availalbe, HC, disability, education, this is your one-stop-shop you need for Veteran related stuff."
 
 - What do you think you can do on this page?
-"from this page i can get to, once i log in, i can see my disability claims, file a claim, what im current getting,  i can do my prescriptions and everyhting here too, i dont recall being able to do that on the other site... MORE I MISSED 
-"at least gets me to a page to get there.
+"From this page I can get to, once I log in, I can see my disability claims, file a claim, what I'm current getting. I can do my prescriptions and everything here too, I don't recall being able to do that on the other site."
+"At least gets me to a page to get there."
 
 ## First Task: Disability Eligibility - 5 minutes
 
@@ -30,7 +30,7 @@ You hurt your back on the job when you were in the service. Now that you're out,
 
 ### Response
 
-- first thing i would look at disability, but then i went bakc to health care bc i need help, back to disability bc its payment, i would prob go to something in disability
+- "First thing i would look at is disability, but then i went bakc to health care bc i need help, back to disability bc its payment, i would prob go to something in disability
 "kind of throws me off bc i dont want to check, file for incrase, 
 
 click on disability - file a claim, i dont think i would have clicked on that "I dont liek when it says learn"
