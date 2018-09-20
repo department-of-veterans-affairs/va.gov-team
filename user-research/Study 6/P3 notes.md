@@ -7,24 +7,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Have you visited any VA webistes in the past? What was your reason for visiting?
 
-"Been a long time 15-20 years, trying to get benefits. Trying to get disability for hearing.
+"Been a long time 15-20 years, trying to get benefits. Trying to get disability for hearing."
 
 ## Zero Task: Homepage - 7 Minutes
 - This is the new homepage for va.gov, what are your first impressions?
 
-"I like it, like the colors, not plain jane. like the groupings on the homepage
+"I like it, like the colors, not plain-jane. I like the groupings on the homepage"
 
 - What  kind of message do you think this new site sends to Veterans?
 
-"Trying to group areas to make it easier for veterans to get to where they need to get to. without going through 4-5 screens.
+"Trying to group areas to make it easier for Veterans to get to where they need to get to. Without going through 4-5 screens.
 
 - What do you think you can do on this page?
 
-"4 categories, can update my ID card, check on a claim or my status from 20 years ago, education if you have benefits.
+"4 categories, can update my ID card, check on a claim or my status from 20 years ago"
 
-"like what im seeing and like how its structured.
-
-"like all the media links. 
+"I like what I'm seeing and like how its structured. I like all the media links."
 
 ## First Task: Disability Eligibility - 5 minutes
 
@@ -35,9 +33,11 @@ You hurt your back on the job when you were in the service. Now that you're out,
 ### Response
 
 - apply now for VA health care, reading, sign in to your account, sign in, start the application
-- "seems like i need to establish an account first?
+- "seems like i need to establish an account first?"
 - clikced contact us and said he would submit a help request
 - clicked on sign in, would click on create an ID me account.
+
+**FAIL**
 
 ## Second Task: Disability Upload Docs - 5 minutes
 
@@ -46,9 +46,11 @@ You recently applied to get payments for an injury that happened during your ser
 - Target is Disability Hub --> Upload. https://preview.va.gov/disability/upload-supporting-evidence/
 
 ### Response
-returned user to homepage
+*returned user to homepage*
 
-- disdability, upload evidence. saw button to upload evidence. 
+- disdability, upload evidence. saw button to upload evidence.
+
+**SUCCESS**
 
 ## Third Task: Education Apply - 5 minutes
 
@@ -57,14 +59,16 @@ You just got into college and want to get VA benefits to help pay for school. Wh
 - Target is Education --> GI Bill. https://preview.va.gov/education/about-gi-bill-benefits/
 
 ### Response
-STARTED user from disability page, not home
+*started user from disability page, not home*
 
 - trying left navigation on disability 
 - went back to home
-- clicked on check GI BIll benefits
-- "I can check my beenfits, i can compare benefits
-- looked at GI B coparison tool, clicking around, 
+- clicked on check GI Bill benefits
+- "I can check my benefits, I can compare benefits"
+- looked at GI Bill comparison tool, clicking around
 - Filling out GIBC
+
+**SUCCESS**
 
 ## Fourth Task: Education Transfer - 5 minutes
 
@@ -73,12 +77,14 @@ You want to find out if you can give your remaining GI Bill benefits to your chi
 - Target is Education --> Transfer https://preview.va.gov/education/transfer-post-9-11-gi-bill-benefits/
 
 ### Response
-Started on GIBC
+*Started on GIBC*
 - returned to home, reading options in block
 - clicked on family and caregiver hub
 - clicked on education benefits quicknav
 - reading about child and spouse
-- "there is not a link to go back to the top of the page
+- "there is not a link to go back to the top of the page"
+
+**FAIL**
 
 ## Fifth Task: Burials Pre-need  - 5 minutes
 
@@ -88,9 +94,12 @@ You heard VA now lets Veterans apply in advance to be buried in a VA cemetery. W
 
 ### Response
 
-- returned to homepage, clicked on facility locator box on homepage. 
+*returned to homepage*
+- clicked on facility locator box on homepage. 
 - entering data on the facility locator, searching for cememtery
-- "this hits me too close to home
+- "this hits me too close to home"
+
+**Fail**
 
 ## Sixth Task: Burials Phone Number - 5 minutes
 
@@ -99,10 +108,11 @@ You need a phone number for the local VA cemetery.
 - Target is Burials --> Find Location https://www.cem.va.gov/cems/listcem.asp or Facility Locator
 
 ### Response
-
+*started at facility locator*
 - staying with facility locator search, found the phone number on the left hand side
 - found the number
 
+**SUCCESS**
 
 ## Impromptu - follow up on Disability claim
 
@@ -111,23 +121,21 @@ clicked on how to apply for a disabilty claim,
 
 "i would work through this is what i would do" 
 
-"from my initial impressions i like what you've done here. it seems intuitite, site is responsive, 
+"from my initial impressions i like what you've done here. It seems intuitive, site is responsive, I don't have to wait half a day to get to the link."
 
-"i dont have to wait half a dsay to get to the link. 
-
-"if you go to the bottom half of the page ou have more information to help you zero into what you are looking for
+"If you go to the bottom half of the homepage you have more information to help you zero into what you are looking for"
 
 
 ## Post-Task Interview - 5 minutes
 
 - How did that compare to your past experiences with VA websites?
-"We are talking 20 years, lots of change for speed and layout. Not much of a comparison. think this is a vast improvement.
+"We are talking 20 years, lots of change for speed and layout. Not much of a comparison. Think this is a vast improvement."
 
 - If this website went live tomorrow, what would you want other Veterans to know?
 
-"This is a new website, we are trying to work out the bugs, if you have feedback let us know. This is a great start, i like the layout.
+"This is a new website, we are trying to work out the bugs, if you have feedback let us know. This is a great start, i like the layout."
 
-"This is the headlines, this expands on it, i think its layed out very well.
+"This is the headlines, this expands on it, i think its layed out very well."
 
 - Do you have any questions for me?
 
