@@ -38,10 +38,10 @@ You hurt your back on the job when you were in the service. Now that you're out,
 
 ### Response
 
-- i guess i could look under disability under learn how to file a claim
+- "i guess i could look under disability under learn how to file a claim"
 - reading through the page
 - find out if you are eligiible
-- i could click on that or disability
+- "i could click on that or disability"
 - reading the eligibility page
 - apply online now, found the button
 
