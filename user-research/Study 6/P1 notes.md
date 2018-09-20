@@ -6,22 +6,29 @@
 Before we look at the website, let’s start with a few warm-up questions.
 
 - Have you visited any VA webistes in the past? What was your reason for visiting?
-"I guesss a year or two ago i went down to an office and particiapted in a session something like this and I got on a VA website.
 
-viewing in tablet size due to zoom
+"I guesss a year or two ago I went down to an office and participated in a session something like this and I got on a VA website."
+
+*viewing in tablet size due to zoom*
 
 ## Zero Task: Homepage - 7 Minutes
 - This is the new homepage for va.gov, what are your first impressions?
-"it looks clean, search, contact us, fina location, it looks easy to use
+
+"It looks clean, search, contact us, find a location, it looks easy to use."
 
 - What  kind of message do you think this new site sends to Veterans?
-"since youve update it it seems to send a message that VA cares enough to tery to make it more accessible.
-"everything, theresr not a lot of picture, not a lot of distractions. centers around allowing you to quickly acces what you need to do.
+
+"Since you've updated it, it seems to send a message that VA cares enough to try to make it more accessible."
+
+"everything, theres not a lot of pictures, not a lot of distractions... Centers around allowing you to quickly access what you need to do."
 
 - What do you think you can do on this page?
+
 reading off the list form HC, disability, Education, Records
+
 find facilities, burials and memorials (scrolling down page), careers and employment
-it sesm to be just about everything that a Veteran would need to look for
+
+"it seems to be just about everything that a Veteran would need to look for"
 
 ## First Task: Disability Eligibility - 5 minutes
 
@@ -32,11 +39,13 @@ You hurt your back on the job when you were in the service. Now that you're out,
 ### Response
 
 - i guess i could look under disability under learn how to file a claim
-reading throuhg the page
-find out if you are eligiible
-i could click on that or disability
-reading the eligibility page
-apply online now, found the button
+- reading through the page
+- find out if you are eligiible
+- i could click on that or disability
+- reading the eligibility page
+- apply online now, found the button
+
+**SUCCESS**
 
 ## Second Task: Disability Upload Docs - 5 minutes
 
@@ -46,11 +55,11 @@ You recently applied to get payments for an injury that happened during your ser
 
 ### Response
 
-returned to HP
-- under disability it says upload evidence, guesss i would clikc on that
-lets see, if you filed a claim... reading page
-you will need to sign in to eBN to upload evidnce, i would go to eBN to upload the evidence
-
+*returned to HP*
+- "under disability it says upload evidence, guesss i would click on that"
+- "lets see, if you filed a claim..." reading page
+- "you will need to sign in to eBN to upload evidnce, i would go to eBN to upload the evidence"
+**SUCCESS**
 
 ## Third Task: Education Apply - 5 minutes
 
@@ -60,8 +69,9 @@ You just got into college and want to get VA benefits to help pay for school. Wh
 
 ### Response
 
-- Education, Id need to check on the GI Bill benefits, Id click on that
+- Education, "Id need to check on the GI Bill benefits, Id click on that"
 - scrolled down to "view your GI bill benefits" took him to vets.gov
+**SUCCESS**
 
 *USER Got disconnected from GTM skipped to follow-up*
 
@@ -99,13 +109,13 @@ You need a phone number for the local VA cemetery.
 ## Post-Task Interview - 5 minutes
 
 - How did that compare to your past experiences with VA websites?
-"much easier, it was easy, very user friendly, intuitive about what to do, i just looked into each block, each one had a focus area, once i found that, it was easy to follow the subheadings
+"Much easier, it was easy, very user friendly, intuitive about what to do. I just looked into each block, each one had a focus area. Once i found that, it was easy to follow the subheadings."
 
 - If this website went live tomorrow, what would you want other Veterans to know?
-"first off, that it existed that it was easy to use, im in the american leegion and our serice officers need to know about this bc some vets are not comuter literate and they could bring this up and work with them
+"First off, that it existed and that it was easy to use. I'm in the American Legion and our service officers need to know about this because some Vets are not computer literate and they could bring this up and work with them."
 
 - Do you have any questions for me?
-"no, i really like it though
+"no, i really like it though"
 
 
 
