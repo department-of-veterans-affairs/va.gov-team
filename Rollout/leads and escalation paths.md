@@ -18,7 +18,7 @@
 - **MHV: ?**
 - **ID.me: ?**
 - **NSOC: ?**
-- **TeamSite: ?**
+- **TeamSite: Josh Tuscher?**
 - Overall Implementation: Mina -> Rachael -> Chris
 - Engineering: Nick (hydra), Eugene (draongs), Kam (griffin) -> James
 - DevOps: Wyatt -> James
@@ -36,8 +36,9 @@ All members on these paths agree to be responsive during a broader range of hour
 **Please use good judgement in determining whether something is truly "urgent" and needs escalation outside of normal working hours.**
 
 ### Nov 5 - 9
+The following members are invited to be at the in-person Team Space "war room" during working hours, at 811 Vermont.
 
-All members on these paths are in person in the Team Space at 811 Vermont.
+[ ] 
 
 All members on these paths agree to be responsive at all hours via the email -> slack -> phone escalation path as needed to support urgent pre-launch, launch, and post-launch work.
 
