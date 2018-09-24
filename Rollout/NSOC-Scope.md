@@ -69,6 +69,11 @@ Percentage of production `va.gov` traffic is routed to EWIS proxy for testing an
 
 We will increase the percentage of traffic incrementally toward 100%. At the end of this process, all production traffic to `www|va.gov` will be directed through the production VAEC to EWIS (with no content changes).
 
+- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12884 (ESCCB)
+- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12884 (SSL Certificate Implementation)
+- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13000 (Pool member in F5)
+- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13001 (Partial Traffic)
+
 #### Load Testing
 
 Our team will notify VA Gateway Ops of test parameters, and perform a load test on `dev.va.gov` and potentially `staging.va.gov` after NSOC Web Flow Updates are confirmed in place. Information will be used to update monitoring and alerting configurations for production traffic.
@@ -93,3 +98,5 @@ Our team will notify VA Gateway Ops of test parameters, and perform a load test 
 *November 7, 2018*
 
 DNS updates route `www|va.gov` traffic to production VAEC environment. All `www|va.gov` traffic is expected to be handled by the new system. Active monitoring and response.
+
+- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13002 (Full traffic to production VAEC)
