@@ -19,6 +19,8 @@
 - **ID.me: ?**
 - **NSOC: ?**
 - **TeamSite: Josh Tuscher?**
+- **Foresee: ?**
+- **Medallia: ?**
 - Overall Implementation: Mina -> Rachael -> Chris
 - Engineering: Nick (hydra), Eugene (draongs), Kam (griffin) -> James
 - DevOps: Wyatt -> James
