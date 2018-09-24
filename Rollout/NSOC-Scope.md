@@ -98,3 +98,5 @@ Our team will notify VA Gateway Ops of test parameters, and perform a load test 
 *November 7, 2018*
 
 DNS updates route `www|va.gov` traffic to production VAEC environment. All `www|va.gov` traffic is expected to be handled by the new system. Active monitoring and response.
+
+- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13002 (Full traffic to production VAEC)
