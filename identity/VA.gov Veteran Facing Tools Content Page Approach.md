@@ -11,7 +11,7 @@ The following table describes the approach for each tool:
 | Tool | Content Page URL | Tool URL | Required Account Type | Not Logged In | Logged in (LOA1) | Logged in (LOA3) |
 |------|------------------|----------|-----------------------|---------------|------------------|------------------|
 | Check Your GI Bill Benefits | N/A | /education/gi-bill/post-9-11/ch-33-benefit | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
-| 526 (Disability Benefits) | N/A | /disability/file-for-increase-form-21-526ez/ | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
+| 526 (Disability Benefits) | N/A | disability-benefits/apply/form-526-disability-claim/introduction | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
 | Claims & Appeals | /claim-or-appeal-status | /track-claims | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | VA Letters | N/A | /records/download-va-letters/ | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
 | Veteran ID Card (VIC) | N/A | | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
