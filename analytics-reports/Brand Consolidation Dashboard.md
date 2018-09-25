@@ -30,6 +30,8 @@ Proposed reporting will highlight:
           * LOA3 Abandons / Failures
           * Others TBD
 * GA Users, Sessions, Traffic
+     * Referall VA.gov to MHV
+     * Referall VA.gov to eBenefits
 * Top Search Terms
      * Changes in Top Search Terms
           * New and Decreasing terms
@@ -75,12 +77,15 @@ Proposed reporting will highlight:
 | Vets.gov | Google Analytics | 8-1 - 8/31 | GA Users | 1,003,039 |
 | Vets.gov | Google Analytics | 8-1 - 8/31 | GA Sessions | 1,650,867 |
 | Vets.gov | Google Analytics | 8-1 - 8/31 | GA Pageviews | 11,326,520 |
+| Vets.gov | Google Analytics | 8-1 - 8/31 | Referrals from VA.gov | 56,504 |
 | myhealth.va.gov | Google Analytics | 8-1 - 8/31 | GA Users | 3,953,381 |
 | myhealth.va.gov | Google Analytics | 8-1 - 8/31 | GA Sessions | 7,311,530 |
 | myhealth.va.gov | Google Analytics | 8-1 - 8/31 | GA Pageviews | 40,832,176 |
+| myhealth.va.gov | Google Analytics | 8-1 - 8/31 | Referrals from VA.gov | -- |
 | ebenefits.va.gov | Google Analytics | 8-1 - 8/31 | GA Users | 1,438,603 |
 | ebenefits.va.gov | Google Analytics | 8-1 - 8/31 | GA Sessions | 6,280,971 |
 | ebenefits.va.gov | Google Analytics | 8-1 - 8/31 | GA Pageviews | 36,577,772 |
+| ebenefits.va.gov | Google Analytics | 8-1 - 8/31 | Referrals from VA.gov | -- |
 
 ### Search ###
 | Source | Date | Metric | # | 
