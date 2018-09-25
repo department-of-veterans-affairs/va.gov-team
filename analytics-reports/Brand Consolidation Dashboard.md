@@ -110,7 +110,7 @@ Proposed reporting will highlight:
 | VA.gov | ForeSee | 8/1 - 8/31 | Avg. Satisfaction (1-10 scale) | 6.0 |
 | preview.va.gov | ForeSee | -- | Avg. Satisfaction (1-10 scale) | -- |
 | VA.gov | ForeSee | 8/1 - 8/31 | CSAT Score | 54.0 |
-| preview.va.gov | ForeSee | 8/1 - 8/31 | CSAT Score | 54.0 |
+| preview.va.gov | ForeSee | 8/1 - 8/31 | CSAT Score | -- |
 | VA.gov | ForeSee | 8/1 - 8/31 | Success Question *(Did you find what you were looking for today?)* | 52% |
 | preview.va.gov | ForeSee | -- | Success Question *(--)* | -- |
 
