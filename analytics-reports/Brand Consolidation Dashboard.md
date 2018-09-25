@@ -53,7 +53,7 @@ Proposed reporting will highlight:
 | Medalia | Feedback tool (Ratings & Comments) | Y | On-Demand |
 | WBC Call Center | Call volume, escalations | Y | Weekly |
 | Other Call Centers | Call volume, escalations, offline transactions | N | Unknown |
-| Search | Top search terms, change in search terms, ... | N | Unknown |
+| Search | Top search terms, change in search terms, ... | Y | Unknown |
 | Error Logging | Failed transactions, system errors, other errors | N | Unknown |
 | ID.me | Total accounts, LOA levels, federation of other account types, daily active users, LOA3 abandons and failures | Y | Limited/Weekly |
 | Total/Offline Transactions | Total applications by product area, by equivalent tool, by mode | N | Unknown |
