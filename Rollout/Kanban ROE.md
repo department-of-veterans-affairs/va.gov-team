@@ -32,13 +32,13 @@
 - In discussion with Team Lead and PM define:
   - Problem statement/user story/solution
   - Definition of done
-  - Type of issue: [`technical` `organizational` or `social`]
+  - Type of issue: `technical` `organizational` or `social` - [type descriptions]()
 - Add the new issue to the bottom of the Ready column with no-one assigned
 - Add labels:
   - `brand-consolidation`
-  - Type: [`technical` `organizational` or `social`]
+  - Type: `technical` `organizational` or `social` - [type descriptions]()
   - **Specifically for usability adjustments or [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)**
     - C1. `bug`
-    - C2. Your suggested priority: [(sev 1, sev 2, or sev 3)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)
+    - C2. Your suggested priority/severity: (sev 1, sev 2, or sev 3) - [severity descriptions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)
 
 - Post your new issue(s) in Slack with Chris and Rachael @ mentioned so Chris can validate the labels, determine priority, and move the ticket to the appropriate place in the list before it gets picked up.
