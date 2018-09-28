@@ -10,7 +10,7 @@
 - Every new issue starts at the bottom of the Ready list, until prioritized by Chris
 - Every new issues starts unassigned, until someone picks it up
 - "Complete" means the work described in the issue is live on preview.va.gov and has been validated as complete by Chris or Chris's appointee
-- If a ticket required multiple practice areas:
+- If an issue requires multiple practice areas:
   - If colleagues can work on it together and complete in a day, then keep as one issue
   - If it would take multiple days to complete in full, create separate issues for the Design / DevOps / FE / Etc
 
