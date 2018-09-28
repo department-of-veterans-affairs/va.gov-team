@@ -17,7 +17,7 @@
 
 ## What does this mean for teams?
 
-- Dragons, Griffin, Hydra, and DevOps roll up to the main team: WBC
+- Dragons, Griffin, Hydra, and DevOps roll up to the main team: WBC (Web Brand Consolidation)
 - All WBC team members will attend just the Monday, Wednesday, Friday WBC standups
 - WBC PMs and Team Leads will attend the Tuesday and Thursday progress check-ins
 
