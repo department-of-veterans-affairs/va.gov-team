@@ -33,11 +33,11 @@
 - In discussion with Team Lead and PM define:
   - Problem statement/user story/solution
   - Definition of done
-  - Type of issue: `technical` `organizational` or `social` - [type descriptions](#how-to-determine-"type")
+  - Type of issue: `technical` `organizational` or `social` - [type descriptions](#how-to-determine-type)
 - Add the new issue to the bottom of the Ready column with no-one assigned
 - Add labels:
   - `brand-consolidation`
-  - Type: `technical` `organizational` or `social` - [type descriptions](#how-to-determine-"type")
+  - Type: `technical` `organizational` or `social` - [type descriptions](#how-to-determine-type)
   - **Specifically for usability adjustments or [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)**
     - C1. `bug`
     - C2. Your suggested priority/severity: (sev 1, sev 2, or sev 3) - [severity descriptions](#how-to-measure-severity)
@@ -45,7 +45,7 @@
 
 ---
 
-### How to determine "type"
+### How to determine type
 
 **Technical (most important)**: if this task isn’t complete the website will work for fewer than 50% of users who attempt www.va.gov
 
