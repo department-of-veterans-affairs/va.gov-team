@@ -175,7 +175,10 @@ Thresholds for rollback:
 - Rachael updates Chris w/template
 
 ** No crisis, success!**
-- 
+
+## Nov 8: 
+
+Automated vets-website and vets-api production builds are released on normal schedule to www.va.gov and api.va.gov.
 
 ## Deployment Change Times
 
