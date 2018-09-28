@@ -30,8 +30,8 @@ Proposed reporting will highlight:
           * LOA3 Abandons / Failures
           * Others TBD
 * GA Users, Sessions, Traffic
-     * Referall VA.gov to MHV
-     * Referall VA.gov to eBenefits
+     * Referral VA.gov to MHV
+     * Referral VA.gov to eBenefits
 * Top Search Terms
      * Changes in Top Search Terms
           * New and Decreasing terms
