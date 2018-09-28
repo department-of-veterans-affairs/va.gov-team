@@ -13,6 +13,7 @@
 - If an issue requires multiple practice areas:
   - If colleagues can work on it together and complete in a day, then keep as one issue
   - If it would take multiple days to complete in full, create separate issues for the Design / DevOps / FE / Etc
+- The WIP (Work In Progress) limit (aka max number of issues that can be "in progress" at once) is: 15
 
 ## What does this mean for teams?
 
@@ -40,5 +41,4 @@
   - **Specifically for usability adjustments or [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)**
     - C1. `bug`
     - C2. Your suggested priority/severity: (sev 1, sev 2, or sev 3) - [severity descriptions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)
-
 - Post your new issue(s) in Slack with Chris and Rachael @ mentioned so Chris can validate the labels, determine priority, and move the ticket to the appropriate place in the list before it gets picked up.
