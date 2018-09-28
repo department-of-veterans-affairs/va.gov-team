@@ -45,7 +45,7 @@
 
 ---
 
-#### How to determine "type"
+### How to determine "type"
 
 **Technical (most important)**: if this task isn’t complete the website will work for fewer than 50% of users who attempt www.va.gov
 
@@ -59,7 +59,7 @@
 
 - What failure looks like: internal organization failure, agnst associated with change reduces future velocity, lack of trust in va.gov
 
-#### How to measure severity
+### How to measure severity
 
 *Source: [Software Testing Fundamentals](http://softwaretestingfundamentals.com/defect-severity/)*
 
