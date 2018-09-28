@@ -42,3 +42,35 @@
     - C1. `bug`
     - C2. Your suggested priority/severity: (sev 1, sev 2, or sev 3) - [severity descriptions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)
 - Post your new issue(s) in Slack with Chris and Rachael @ mentioned so Chris can validate the labels, determine priority, and move the ticket to the appropriate place in the list before it gets picked up.
+
+---
+
+#### How to determine "type"
+
+**Technical (most important)**: if this task isn’t complete the website will work for fewer than 50% of users who attempt www.va.gov
+
+- What failure looks like: public failure, users unable to navigate to VA digital property
+
+**Bureaucratic**: if this task isn’t complete we will not have authorization to complete the technical tasks.
+
+- What failure looks like: employment, audit, relationship failures, inability to complete future initiatives.
+
+**Social**: if this task isn’t complete the user experience may be suboptimal or a solution non-adopted. 
+
+- What failure looks like: internal organization failure, agnst associated with change reduces future velocity, lack of trust in va.gov
+
+#### How to measure severity
+
+*Source: [Software Testing Fundamentals](http://softwaretestingfundamentals.com/defect-severity/)*
+
+**Sev 1**: the defect affects critical functionality or critical data. It does not have a workaround.
+
+- Example: Unsuccessful installation, complete failure of a feature.
+
+**Sev 2**: the defect affects major functionality or major data. It has a workaround but is not obvious and is difficult. 
+
+- Example: A feature is not functional from one module but the task is doable if 10 complicated indirect steps are followed in another module/s.
+
+**Sev 3**: the defect affects minor functionality or non-critical data. It has an easy workaround.
+
+- Example: A minor feature that is not functional in one module but the same task is easily doable from another module.
