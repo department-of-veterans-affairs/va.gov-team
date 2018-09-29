@@ -82,7 +82,7 @@ Our team will notify VA Gateway Ops of test parameters, and perform a load test 
 
 #### Vets.gov Directs Limited Production Traffic to Preview
 
-*October 9, 2018 - No Infrastructure Changes Required*
+*October 17, 2018 - No Infrastructure Changes Required*
 
 `vets.gov` visitors will be invited by banner to try the `preview.va.gov` site. Expect an increase in traffic to `preview.va.gov` and `api.va.gov`. Our teams will be monitoring closely and actively addressing issues.
 
