@@ -24,6 +24,8 @@
 - Marketing and Communications
   - Clare Martorana
   - Mandi Lindner
+- Analytics
+  - Tony Whittaker
 - **NSOC: ?**
 - **EVSS: ?**
 - **EWIS: ?**
@@ -194,23 +196,7 @@ If not resolved...
 9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
 
 
-
----
-
-Move to "launch checklist"
-
-
-#### Nov 7:
-
-
-
-** No crisis, success!**
-
-## Nov 8: 
-
-Automated vets-website and vets-api production builds are released on normal schedule to www.va.gov and api.va.gov.
-
-## Deployment Change Times
+# Deployment Change Times post-launch
 
 | Type | Time to Deploy | Overview |
 | --- | --- | --- |
