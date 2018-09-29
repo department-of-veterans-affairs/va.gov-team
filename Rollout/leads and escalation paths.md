@@ -1,6 +1,6 @@
 👑 = ultimate decision maker
 
-## Go / No Go Group
+# Go / No Go Group
 
 - 👑 Product Lead
   - Chris Johnston
@@ -37,7 +37,7 @@
 - **Medallia: ?**
 - **AWS technical manager: ?**
 
-## "On Call" escalation contacts
+# "On Call" escalation contacts
 
 ### Who to contact if you see a problem:
 
@@ -77,7 +77,7 @@ Content: Danielle Thierry > ?
 
 Design: ?
 
-## Rules of Engagement for Escalation during Oct 9 - Nov 9
+# Rules of Engagement for Escalation during Oct 9 - Nov 9
 
 **Please use good judgement in determining whether something is truly an emergency and needs escalation outside of normal working hours.**
 
@@ -116,6 +116,84 @@ The following members will be in-person ***Location with good internet TBD***" f
 ### Nov 10 - onward (if launch is stable)
 
 Back to standard on call coverage via pager duty
+
+---
+
+# The plays
+
+### Crisis plan: rollback
+
+1. Certain criteria/thresholds are met (***to be defined by Nov 5)***, for example: 
+  - Spike in errors above baseline (define baseline based on historical log)
+  - Latency > X seconds sustained for > X seconds for > X of traffic
+
+2. On call party informs Rachael and James
+
+3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
+
+3. Chris makes decision to rollback based on data in the Launch Report
+
+4. Chris disseminates decision via Slack and email (***recipients TBD, but must at least include OIT since traffic will be reverted to them***), and calls James
+
+5. James coordinates with on call party
+
+6. On call party deploys configuration update to revert back, and monitors grafana dashboards
+
+7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+
+8. All parties stay on the joinme line until it's resolved.
+
+9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+
+If not resolved...
+
+### Crisis plan: rollback fails, put up a maintenance page
+
+1. Certain criteria/thresholds are met (***to be defined by Nov 5)*** 
+
+2. On call party informs Rachael and James
+
+3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
+
+3. Chris makes decision to put up a maintenance page
+
+4. Chris disseminates decision via Slack and email (***recipients TBD***), and calls James
+
+5. James coordinates with on call party
+
+6. On call party deploys maintenance page (***issue in progress for developing this page and process***)
+
+7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+
+8. All parties stay on the joinme line until it's resolved.
+
+9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+
+If not resolved...
+
+### Crisis plan: maintenance page fails, revert to old EWIS configuration 
+
+1. Certain criteria/thresholds are met (***to be defined by Nov 5)***
+
+2. On call party informs Rachael and James
+
+3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
+
+3. Chris makes decision to revert to old EWIS configuration
+
+4. Chris disseminates decision via Slack and email (***recipients TBD***), and calls James
+
+5. James coordinates with DevOps On Call party and NSOC Gateway Ops to roll back traffic from production VAEC
+
+6. DevOps On Call party and NSOC Gateway Ops roll back traffic from production VAEC
+
+7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+
+8. All parties stay on the joinme line until it's resolved
+
+9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+
+
 
 ---
 
@@ -208,19 +286,6 @@ Thresholds for rollback:
 - Latency > X seconds sustained for > X seconds for > X of traffic
 - Rachael updates Chris w/[define comms template]
 
-**Crisis plan: rollback**
-- Get email confirmation from Chris, give OIT a heads up (Josh Tuscher), deploy configuration update to revert back
-- Rachael updates Chris w/template
-- Update OIT (teamsite) team on status
-
-**Crisis plan: rollback fails, put up a maintenance page**
-- 503 default
-- Need improved failure page
-- Rachael updates Chris w/template
-
-**Monitor**
-- Everyone's back on the phone until it's resolved
-- Rachael updates Chris w/template
 
 ** No crisis, success!**
 
