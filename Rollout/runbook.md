@@ -123,6 +123,10 @@ Back to standard on call coverage via pager duty
 
 # The plays
 
+*thresholds and plays still tbd for these scenarios: major tweet, hack, errors in teamsite injections, horrible user feedback,
+call center totally overwhelmed*
+
+
 ### Crisis plan: rollback
 
 1. Certain criteria/thresholds are met (***to be defined by Nov 5)***, for example: 
