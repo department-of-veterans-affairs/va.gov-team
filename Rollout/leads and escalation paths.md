@@ -1,77 +1,119 @@
 👑 = ultimate decision maker
 
-## Pause / Pivot / Continue Discussion Group
+## Go / No Go Group
 
-- 👑 Chris Johnston: Product Owner
-- Engineering: James Kassemi, Alex Loer
-- Design + Research: Lauren Alexanderson, Andy Lewendowski, Jeff Barnes
-- Content: Melissa Schaff
-- Product: Andrew Hughey, Marcy Jacobs
-- Implementation: Rachael Roueché, Mina Farzad
-- Marketing and Communications: Clare Martorana, Mandi Lindner
-
-## "On Call" escalation paths
-
-"On call" means available to respond via email -> slack -> phone if there's an urgent issue that needs addressing for usability testing or demo'ing reasons.
-
-- **NSOC**
-- **ID.me rep**
-- **OIT rep: ?**
-- **Help Desk: ?**
+- 👑 Product Lead
+  - Chris Johnston
+- Product
+  - Andrew Hughey
+  - Marcy Jacobs
+- Engineering
+  - James Kassemi
+  - Alex Loehr
+- DevOps
+  - Wyatt Walter
+- Design + Research
+  - Lauren Alexanderson
+  - Andy Lewendowski
+  - Jeff Barnes
+- Content
+  - Melissa Schaff
+- Implementation
+  - Rachael Roueché (703 489 0705, rachael.roueche@adhocteam.us)
+  - Mina Farzad
+- Marketing and Communications
+  - Clare Martorana
+  - Mandi Lindner
+- **NSOC: ?**
+- **EVSS: ?**
+- **EWIS: ?**
+- **ID.me: ?**
 - **OIT: ?**
+- **Call Center: ?**
 - **MHV: ?**
 - **ID.me: ?**
-- **NSOC: ?**
 - **TeamSite: Josh Tuscher?**
 - **Foresee: ?**
 - **Medallia: ?**
 - **AWS technical manager: ?**
-- Overall Implementation: Mina -> Rachael -> Chris
-- Engineering: Nick (hydra), Eugene (dragons), Kam (griffin) -> James
-- DevOps: Wyatt -> James
-- Content: Beth -> Jennifer Lee?
-- Design: Amy -> Andy?
 
-### Oct 9 - Oct 15
+## "On Call" escalation contacts
 
-All members on these paths agree to be responsive during reasonable business hours (M - F , 9 AM ET - 6 PM ET) via the email -> slack -> phone escalation path as needed to support usability testing and demos.
+### Who to contact if you see a problem:
+
+"On call" means available to respond via cell phone if there's an urgent issue that needs addressing for usability testing or demo'ing reasons.
+
+- Product/implementation/general issues: Rachael Roueche (report out or hand off to Chris Johnston)
+- Engineering and DevOps issues: James Kassemi (report out to Alex Loehr, Chris Johnston)
+- Design and IA issues: Rachael Roueche (report out to Chris Johnston, Andy Lewendowski, Jeff Barnes)
+- Content issues: Rachael Roueche (report out to Melissa Schaff, Chris Johnston)
+- Marketing and communications issues: Rachael Roueche (hand off to Clare Martorana, Mandi Lindner, Chris Johnston)
+- **NSOC: ?**
+- **EWIS: ?**
+- **ID.me: ?**
+- **OIT: ?**
+- **Call Center: ?**
+- **MHV: ?**
+- **ID.me: ?**
+- **TeamSite: Josh Tuscher?**
+- **Foresee: ?**
+- **Medallia: ?**
+- **AWS technical manager: ?**
+- **EVSS: ?**
+
+### Who the escalation contacts can work with for implementation in an emergency:
+
+General: Mina Farzad
+Ops: Wyatt Walter > Craig Butler > Ryan Watson
+Sitewide Engineering: Nick Sullivan > Rob Wilkinson
+Header/footer injections: Ben Shyong > Nick Sullivan
+API: Patrick Vinograd > Ed Paget
+Content: Danielle Thierry > ?
+Design: ?
+
+## Rules of Engagement for Escalation during Oct 9 - Nov 9
+
+**Please use good judgement in determining whether something is truly an emergency and needs escalation outside of normal working hours.**
+
+### Oct 9 - Oct 12: "Critical Feature Complete"
+
+On call escalation contacts will be responsive during reasonable business hours (M - F , 9 AM ET - 6 PM ET) via cell phone to support emergencies.
 
 Alex, Paul, Curtis, James travel to NSOC in WV to meet team and establish working relationships.
 
-### Oct 16 - Nov 4
+### Oct 15 - 17
 
-All members on these paths agree to be responsive during a broader range of hours (7 days a week, 9 AM ET - 9 PM ET) via the email -> slack -> phone escalation path as needed to support urgent fixes during this unmoderated site usage time.
+On call escalation contacts may not be fully available due to Ad Hoc retreat and the full day DSVA workshops. Call Rachael Roueche if there is a true emergency.
 
-- [ ] NLT Nov 1, Chris Gansen (lead ops engineer for healthcare.gov) reviews:
-   - [ ] Testing posture
-   - [ ] Monitoring posture
-   - [ ] Runbook
-   - [ ] Incident Management Plan
-   - [ ] Launch tik-tok
-- [ ] Ops Readiness Report (Chris G.)
+### Oct 18 - Nov 4
 
-**Please use good judgement in determining whether something is truly "urgent" and needs escalation outside of normal working hours.**
+On call escalation contacts will be responsive during a broader range of hours (7 days a week, 9 AM ET - 9 PM ET) via the cell phone to support emergencies.
 
 ### Nov 5 - 9
+
+On call escalation contacts will be responsive at all hours via cell phone as needed to support emergency pre-launch, launch, and post-launch needs.
 
 The following members will be on site at NSOC in West Virginia:
 - [ ] Curtis?
 
-The following members will be in the in-person Team Space "war room ***Need Room Assignment***" from 6am to 10pm, at 811 Vermont.
+The following members will be in-person ***Location with good internet TBD***" from 9am to 10pm.
 
-- [ ] Chris
-- [ ] James
-- [ ] Paul (escort needed)
-- [ ] Elizabeth
-- [ ] Rachael
-- [ ] Larry (escort needed)
-- [ ] Curtis (escort needed)
+- Chris Johnston
+- Alex Loehr ?
+- James Kassemi
+- Paul Smith  (if not at NSOC)
+- Curtis Mejeur (if not at NSOC)
+- Elizabeth Lewis
+- Rachael Roueche
+- ***Others TBD***
 
-All members on these paths agree to be responsive at all hours via the email -> slack -> phone escalation path as needed to support urgent pre-launch, launch, and post-launch work.
+### Nov 10 - onward (if launch is stable)
 
-- Pentest completed by Demian Ginther
+Back to standard on call coverage via pager duty
 
-**Please use good judgement in determining whether something is truly "urgent" and needs escalation outside of normal working hours.**
+---
+
+Move to "launch checklist"
 
 ** Go No Go **
 
@@ -121,7 +163,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 
 - 👑 Chris Johnston: Product Owner
-- Engineering: James Kassemi, Alex Loer
+- Engineering: James Kassemi, Alex Loehr
 - Design + Research: Lauren Alexanderson, Andy Lewendowski, Jeff Barnes
 - Content: Melissa Schaff
 - Product: Andrew Hughey, Marcy Jacobs
