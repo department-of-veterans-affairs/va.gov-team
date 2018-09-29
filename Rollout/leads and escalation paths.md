@@ -64,11 +64,17 @@
 ### Who the escalation contacts can work with for implementation in an emergency:
 
 General: Mina Farzad
+
 Ops: Wyatt Walter > Craig Butler > Ryan Watson
+
 Sitewide Engineering: Nick Sullivan > Rob Wilkinson
+
 Header/footer injections: Ben Shyong > Nick Sullivan
+
 API: Patrick Vinograd > Ed Paget
+
 Content: Danielle Thierry > ?
+
 Design: ?
 
 ## Rules of Engagement for Escalation during Oct 9 - Nov 9
