@@ -1,3 +1,7 @@
+# Veteran Quotes
+
+https://dsva.slack.com/files/U6V89E0RG/FCZ62BZ16/Quotes_from_recent_research_on_preview_va_gov
+
 # Video files
 
 ## P1
