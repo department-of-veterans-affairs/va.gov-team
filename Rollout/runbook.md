@@ -159,7 +159,6 @@ Approach: have caching configured and tuned on the reverse proxies, and then wor
 
 
 
-
 ## Load Testing
 We’re going to spend some time hardening our configuration for partner service integrations and API requests with preemptive scaling. We will not be running additional per product load tests, and will rely on existing testing that’s been done by those teams.
 
@@ -167,7 +166,6 @@ Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on
 
 ### Happy Path
 
-***Details of the play in progress - to be defined by Oct 4***
 
 1. establish baselines with traffic logs from www.va.gov
 1. establish expected traffic requirements based on google analytics from previous major announcements / high traffic periods
@@ -175,7 +173,16 @@ Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on
 1. load test proxied traffic (small assets, large assets)
 1. load test against representative traffic from baselines
 
-### Crisis plan: 
+***Details of the plays for crisis management to be defined by Oct 4***
+
+
+## Dissemination of preview.va.gov
+
+***Details of the plays for crisis management to be defined by Oct 12th***
+
+Threshold to consider: login failures.
+
+
 
 ## Launch Crises
 
