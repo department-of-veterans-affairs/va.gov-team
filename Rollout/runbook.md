@@ -4,9 +4,13 @@
 
 - 👑 Product Lead
   - Chris Johnston
-- Product
+- Execs
+  - Charles Worthington
   - Andrew Hughey
   - Marcy Jacobs
+- Product
+  - David Bao
+  - Steve Kovaks
 - Engineering
   - James Kassemi
   - Alex Loehr
@@ -65,7 +69,7 @@
 
 ### Who the escalation contacts can work with for implementation in an emergency:
 
-General: Mina Farzad
+General: Mina Farzad > Rachael Roueche > Elizabeth Lewis
 
 Ops: Wyatt Walter > Craig Butler > Ryan Watson
 
@@ -75,7 +79,7 @@ Header/footer injections: Ben Shyong > Nick Sullivan
 
 API: Patrick Vinograd > Ed Paget
 
-Content: Danielle Thierry > ?
+Content: Danielle Thierry > Beth Potts
 
 Design: ?
 
@@ -89,22 +93,22 @@ On call escalation contacts will be responsive during reasonable business hours 
 
 Alex, Paul, Curtis, James travel to NSOC in WV to meet team and establish working relationships.
 
-### Oct 15 - 17
+### Oct 15 - 17: Ad Hoc Retreat
 
 On call escalation contacts may not be fully available due to Ad Hoc retreat and the full day DSVA workshops. Call Rachael Roueche if there is a true emergency.
 
-### Oct 18 - Nov 4
+### Oct 18 - Nov 4: Final Stretch
 
 On call escalation contacts will be responsive during a broader range of hours (7 days a week, 9 AM ET - 9 PM ET) via the cell phone to support emergencies.
 
-### Nov 5 - 9
+### Nov 5 - 9: Launch Window
 
 On call escalation contacts will be responsive at all hours via cell phone as needed to support emergency pre-launch, launch, and post-launch needs.
 
 The following members will be on site at NSOC in West Virginia:
 - [ ] Curtis?
 
-The following members will be in-person ***Location with good internet TBD***" from 9am to 10pm.
+The following members will be in-person ***Location with good internet TBD***" from 9am to 7pm.
 
 - Chris Johnston
 - Alex Loehr ?
