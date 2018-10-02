@@ -19,7 +19,7 @@
 - Content
   - Melissa Schaff
 - Implementation
-  - Rachael Roueché (703 489 0705, rachael.roueche@adhocteam.us)
+  - Rachael Roueché
   - Mina Farzad
 - Marketing and Communications
   - Clare Martorana
@@ -121,46 +121,74 @@ Back to standard on call coverage via pager duty
 
 ---
 
-# The plays
+# The Plays
 
 *thresholds and plays still tbd for these scenarios: major tweet, hack, errors in teamsite injections, horrible user feedback,
 call center totally overwhelmed*
 
+## Traffic migration
 
-### Crisis plan: rollback
+### Happy Path
+
+1. Start call with NSOC
+1. Wyatt routes 5% of production www.va.gov traffic through production VAEC
+1. After 15 min, if error rate < 99.9% and 90th percentile latency < 2.5 seconds, move to next step
+1. Wyatt routes 15% of production www.va.gov traffic through production VAEC
+1. After 10 minutes end the call with NSOC
+1. Brian disseminates Load Testing Status Report
+1. After 24 hours, if error rate < 99.9% and 90th percentile latency < 2.5 seconds, move to next step
+1. Wyatt routes 50% of production www.va.gov traffic through production VAEC
+1. Brian disseminates Load Testing Status Report
+1. After the weekend, if error rate < 99.9% and 90th percentile latency < 2.5 seconds 
+1. Wyatt routes 100% of production www.va.gov traffic through production VAEC
+1. Brian disseminates Load Testing Status Report
+1. Continue if error rate < 99.9% and 90th percentile latency < 2.5 seconds continuously
+
+### Error rate > 99.9%
+
+***Work in progress - to be defined by Oct 4***
+
+### 90th percentile latency > 2.5 seconds
+
+***Work in progress - to be defined by Oct 4***
+
+## Load Testing
+Load testing will focus on local HTML assets and larger local assets (images, css, javascript), as well as proxied HTML assets, and lager proxied assets (images, css, javascript).
+
+***Details of the play in progress - to be defined by Oct 4***
+
+### Happy Path
+
+### Crisis plan: 
+oad test 5 times steady state production traffic against staging.va.gov
+Late Oct - Nov 5: load test 5 times steady state production traffic (if NSOC and OIT says OK) against preview.va.gov
+
+
+## Launch Crises
+
+### Rollback
 
 1. Certain criteria/thresholds are met (***to be defined by Nov 5)***, for example: 
   - Spike in errors above baseline (define baseline based on historical log)
   - Latency > X seconds sustained for > X seconds for > X of traffic
 
 2. On call party informs Rachael and James
-
 3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
-
 3. Chris makes decision to rollback based on data in the Launch Report
-
 4. Chris disseminates decision via Slack and email (***recipients TBD, but must at least include OIT since traffic will be reverted to them***), and calls James
-
 5. James coordinates with on call party
-
 6. On call party deploys configuration update to revert back, and monitors grafana dashboards
-
 7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-
 8. All parties stay on the joinme line until it's resolved.
-
 9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
 
 If not resolved...
 
-### Crisis plan: rollback fails, put up a maintenance page
+### Rollback fails, put up a maintenance page
 
 1. Certain criteria/thresholds are met (***to be defined by Nov 5)*** 
-
 2. On call party informs Rachael and James
-
 3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
-
 3. Chris makes decision to put up a maintenance page
 
 4. Chris disseminates decision via Slack and email (***recipients TBD***), and calls James
@@ -177,7 +205,7 @@ If not resolved...
 
 If not resolved...
 
-### Crisis plan: maintenance page fails, revert to old EWIS configuration 
+## Maintenance page fails, revert to old EWIS configuration 
 
 1. Certain criteria/thresholds are met (***to be defined by Nov 5)***
 
