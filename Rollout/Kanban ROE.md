@@ -4,6 +4,8 @@
 
 **We are working toward the singular mission of successfully launching VA.gov.** To enable us to get us there most quickly and efficiently, we're moving to Kanban style implementation.
 
+Here's the Kanban board: https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/boards?labels=brand-consolidation&activeFilters=labels&repos=31788863
+
 ## Global Norms
 
 - The Product Lead, Chris Johnston, is the ultimate decider on the priority of every issue
@@ -14,6 +16,7 @@
   - If colleagues can work on it together and complete in a day, then keep as one issue
   - If it would take multiple days to complete in full, create separate issues for the Design / DevOps / FE / Etc
 - The WIP (Work In Progress) limit (aka max number of issues that can be "in progress" at once) is: 15
+- Every issue needs an estimate before a prioritization decision can be made
 
 ## What does this mean for teams?
 
@@ -24,7 +27,7 @@
 ## What is the workflow now?
 
 1. When you're ready to pick up a new task, check the Ready column on the [board]()
-2. Pick the issue closest to the top of the list that you have the expertise to work on
+2. Pick the issue closest to the top of the list **that you have the expertise to work on**
 3. Assign yourself, move the issue to "in progress" and work on it until you complete it
 4. Once complete, move to "done" and pick a new issue as close to the top of the Ready column as possible
 
@@ -35,20 +38,22 @@
   - Definition of done
   - Type of issue: `technical` `organizational` or `social` - [type descriptions](#how-to-determine-type)
 - Add the new issue to the bottom of the Ready column with no-one assigned
+- Add an estimate
+  - If you're unable to estimate it bc it's not in your practice area, leave the estimate blank, and in regular reviews Chris will pick out issues that seem potentially critical enough to need an estimate.
 - Add labels:
   - `brand-consolidation`
   - Type: `technical` `organizational` or `social` - [type descriptions](#how-to-determine-type)
   - **Specifically for usability adjustments or [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)**
     - C1. `bug`
     - C2. Your suggested priority/severity: `sev 1`, `sev 2`, or `sev 3`) - [severity descriptions](#how-to-measure-severity)
-- Post your new issue(s) in Slack with Chris and Rachael @ mentioned so Chris can validate the labels, determine priority, and move the ticket to the appropriate place in the list before it gets picked up.
+- If you believe you need to specifically advocate for the criticality of a given issue, please slack Rachael and Chris for awareness.
+- Rachael will coordinate to review new tickets regularly with Chris so he can validate the labels, determine priority, and move the ticket to the appropriate place in the list before it gets picked up.
 
 ---
 
 ### How to determine type
 
 **Technical (most critical)**: if this task isn’t complete the website won’t work for the www.va.gov audience
-
 
 - What failure looks like: public failure, users unable to navigate to VA digital property
 
