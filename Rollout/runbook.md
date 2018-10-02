@@ -89,7 +89,6 @@ Design: ?
 
 On call escalation contacts will be responsive during reasonable business hours (M - F , 9 AM ET - 6 PM ET) via cell phone to support emergencies.
 
-Alex, Paul, Curtis, James travel to NSOC in WV to meet team and establish working relationships.
 
 ### Oct 15 - 17: Ad Hoc Retreat
 
@@ -98,6 +97,8 @@ On call escalation contacts may not be fully available due to Ad Hoc retreat and
 ### Oct 18 - Nov 4: Final Stretch
 
 On call escalation contacts will be responsive during a broader range of hours (7 days a week, 9 AM ET - 9 PM ET) via the cell phone to support emergencies.
+
+Alex, Paul, Curtis, James travel to NSOC in WV to meet team and establish working relationships.
 
 ### Nov 5 - 9: Launch Window
 
