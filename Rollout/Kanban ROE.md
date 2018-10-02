@@ -47,7 +47,8 @@
 
 ### How to determine type
 
-**Technical (most important)**: if this task isn’t complete the website will work for fewer than 50% of users who attempt www.va.gov
+**Technical (most critical)**: if this task isn’t complete the website won’t work for the www.va.gov audience
+
 
 - What failure looks like: public failure, users unable to navigate to VA digital property
 
