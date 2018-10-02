@@ -131,6 +131,7 @@ Back to standard on call coverage via pager duty
 call center totally overwhelmed*
 
 ## Traffic migration
+Approach: have caching configured and tuned on the reverse proxies, and then work with NSOC's awareness to start pointing all www.va.gov traffic to production VAEC servers. 
 
 ### Happy Path
 
@@ -156,18 +157,25 @@ call center totally overwhelmed*
 
 ***Work in progress - to be defined by Oct 4***
 
-## Load Testing
-Load testing will focus on local HTML assets and larger local assets (images, css, javascript), as well as proxied HTML assets, and lager proxied assets (images, css, javascript).
 
-***Details of the play in progress - to be defined by Oct 4***
+
+
+## Load Testing
+We’re going to spend some time hardening our configuration for partner service integrations and API requests with preemptive scaling. We will not be running additional per product load tests, and will rely on existing testing that’s been done by those teams.
+
+Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on local HTML assets and larger local assets (images, css, javascript), as well as proxied HTML assets, and lager proxied assets (images, css, javascript).
 
 ### Happy Path
 
+***Details of the play in progress - to be defined by Oct 4***
+
+1. establish baselines with traffic logs from www.va.gov
+1. establish expected traffic requirements based on google analytics from previous major announcements / high traffic periods
+1. load test local static traffic (small assets, large assets)
+1. load test proxied traffic (small assets, large assets)
+1. load test against representative traffic from baselines
+
 ### Crisis plan: 
-
-- Load test 5 times steady state production traffic against staging.va.gov
-- Load test 5 times steady state production traffic (if NSOC and OIT says OK) against preview.va.gov
-
 
 ## Launch Crises
 
