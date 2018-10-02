@@ -40,7 +40,6 @@
 - **ID.me: ?**
 - **TeamSite: Josh Tuscher?**
 - **Foresee: ?**
-- **Medallia: ?**
 - **AWS technical manager: ?**
 
 # "On Call" escalation contacts
@@ -63,7 +62,6 @@
 - **ID.me: ?**
 - **TeamSite: Josh Tuscher?**
 - **Foresee: ?**
-- **Medallia: ?**
 - **AWS technical manager: ?**
 - **EVSS: ?**
 
