@@ -164,8 +164,9 @@ Load testing will focus on local HTML assets and larger local assets (images, cs
 ### Happy Path
 
 ### Crisis plan: 
-oad test 5 times steady state production traffic against staging.va.gov
-Late Oct - Nov 5: load test 5 times steady state production traffic (if NSOC and OIT says OK) against preview.va.gov
+
+- Load test 5 times steady state production traffic against staging.va.gov
+- Load test 5 times steady state production traffic (if NSOC and OIT says OK) against preview.va.gov
 
 
 ## Launch Crises
@@ -210,6 +211,7 @@ If not resolved...
 If not resolved...
 
 ## Maintenance page fails, revert to old EWIS configuration 
+This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire on Oct 4 off of our servers and back to the configuration < Oct 4.
 
 1. Certain criteria/thresholds are met (***to be defined by Nov 5)***
 
