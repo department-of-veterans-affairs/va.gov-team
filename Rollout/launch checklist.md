@@ -148,6 +148,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 ## POST-LAUNCH NOV 7 - 5 PM ET NOV 9
 
 - [ ] Merge PR for turning off T&C for specific health tools that - on Vets.gov - only presented themselves if you'd tried to access the Health tools for the first time.
+- [ ] Wyatt and TeamSite reps work together to resolve CSP errors
 
 24/7 monitoring and special on call coverage continues. During this time, for security issues, our reporting chain is to our security officer, which is a slight divergence from: 1-Guy Chris.
 
