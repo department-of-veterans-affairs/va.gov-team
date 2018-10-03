@@ -57,6 +57,8 @@ We need point estimates on issues to help us predict how much work we can/should
 - Points **do not =** hours or days of work
 - Points are abstract, and **are not** used to compare individual or team productivity.
 - Estimates will not be 100% accurate, and that is fine. They're just a way for us to  be able to better plan as a team.
+- Use the fibonnaci scale: 1, 2, 3, 5, 8, 13
+- If an issue is estimated at 13, it needs to be broken down into smaller issues
 - In traditional Kanban workflow, we would not use estimates, however this is a unique scenario in which we are marching toward a very specific Launch date, and we need to have an idea of what work may or may not fall above the "launch" threshold.
 - In traditional Agile workflow, we would not adjust estimates for issues progress upon finding it more difficult or easier than expected. BUT, with this full team Kanban style workflow, please do adjust when that happens. Because that will indicate whether we need to plan for cutting/reprioritizing/adding.
 
