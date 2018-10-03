@@ -17,7 +17,7 @@ The following table describes the approach for each tool:
 | 526 (Disability Benefits) | N/A | disability-benefits/apply/form-526-disability-claim/introduction | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
 | Claims & Appeals | /claim-or-appeal-status | /track-claims | LOA3 | Content page w/ login button | Content page w/ verify your identity button | Redirect to tool |
 | VA Letters | N/A | /records/download-va-letters/ | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
-| Veteran ID Card (VIC) | N/A | | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
+| Veteran ID Card (VIC) | N/A |/types-of-veteran-id-cards/vic/ | LOA3 | Tool page w/ login button | Tool page w/ verify your identity button | Tool page w/ continue to tool button |
 
 ## Other Tools
 
