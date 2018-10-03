@@ -4,7 +4,7 @@
 
 **We are working toward the singular mission of successfully launching VA.gov.** To enable us to get us there most quickly and efficiently, we're moving to Kanban style implementation.
 
-Here's the Kanban board: https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/boards?labels=brand-consolidation&activeFilters=labels&repos=31788863
+Here's the [Kanban board](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/boards?labels=brand-consolidation&activeFilters=labels&repos=31788863).
 
 ## Global Norms
 
@@ -48,6 +48,17 @@ Here's the Kanban board: https://app.zenhub.com/workspace/o/department-of-vetera
     - C2. Your suggested priority/severity: `sev 1`, `sev 2`, or `sev 3`) - [severity descriptions](#how-to-measure-severity)
 - If you believe you need to specifically advocate for the criticality of a given issue, please slack Rachael and Chris for awareness.
 - Rachael will coordinate to review new tickets regularly with Chris so he can validate the labels, determine priority, and move the ticket to the appropriate place in the list before it gets picked up.
+
+## How does estimation work?
+We need point estimates on issues to help us predict how much work we can/should include at a given time above the "launch" threshold. Here are the basics of how to think about points and how to estimate:
+
+- Story Points = the complexity, uncertainty, and risk in completing an issue. In short, the effort it would take to complete.
+- Estimates = the effort for anyone in the practice area to complete, not just the effort for you or for an expert.
+- Points **do not =** hours or days of work
+- Points are abstract, and **are not** used to compare individual or team productivity.
+- Estimates will not be 100% accurate, and that is fine. They're just a way for us to  be able to better plan as a team.
+- In traditional Kanban workflow, we would not use estimates, however this is a unique scenario in which we are marching toward a very specific Launch date, and we need to have an idea of what work may or may not fall above the "launch" threshold.
+- In traditional Agile workflow, we would not adjust estimates for issues progress upon finding it more difficult or easier than expected. BUT, with this full team Kanban style workflow, please do adjust when that happens. Because that will indicate whether we need to plan for cutting/reprioritizing/adding.
 
 ---
 
