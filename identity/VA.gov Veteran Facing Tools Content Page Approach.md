@@ -3,6 +3,9 @@ As part of the VA Web Brand Consolidation effort, all Veteran Facing Tools (VFT)
 
 Details for health tools: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/identity/%5B%2312255%5D%20VA.gov%20MHV%20SSO%20Content%20Page%20Approach.md
 
+# Design
+CTA designs are here: https://adhoc.invisionapp.com/share/MUOC4SMW8SG#/322898547_TOC
+
 # Approach
 The following table describes the approach for each tool:
 
