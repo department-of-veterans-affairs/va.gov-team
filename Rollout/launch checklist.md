@@ -4,7 +4,6 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 
 ## PRE-LAUNCH 
 - [x]  Oct 2: Rachael adds Launch Status Report template to Rollout folder
-- [ ] Oct 4: Rachael adds “plays” for traffic routing failure and load testing failure in runbook
 - [ ] Oct 4 - 11: Demian Ginther completes Pentest
 - [ ] < Oct 4: Wyatt configures caching
 - [ ] Oct 4 - 8: Wyatt and NSOC perform traffic migration (see details in the runbook)
