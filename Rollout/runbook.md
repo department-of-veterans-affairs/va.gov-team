@@ -12,11 +12,11 @@
 - Implementation: Rachael Roueché, Mina Farzad, Elizabeth Lewis
 - Marketing and Communications: Clare Martorana, Mandi Lindner
 - Analytics: Tony Whittaker, Ryan Luu
-- **NSOC: ?**
+- **NSOC: Kevin Williams?**
 - **EWIS: ?**
 - **ID.me: ?**
 - **OIT: ?**
-- **Call Center: Aubrey and Lacey have been contacted to try and find this/these contact/s**
+- **Call Center: Pete Smith (VA311?)**
 - **MHV: ?**
 - **TeamSite: Josh Tuscher?**
 - **AWS technical manager: ?**
