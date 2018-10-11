@@ -5,13 +5,13 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 ## PRE-LAUNCH 
 - [x]  Oct 2: Rachael adds Launch Status Report template to Rollout folder
 - [x] < Oct 4: Wyatt configures caching
-- [x] Oct 4 - 8: Wyatt and NSOC perform traffic migration (see details in the runbook)
+- [x] Oct 4 - 8: Wyatt and NSOC start traffic migration (see details in the runbook)
 - [ ] Oct: Demian Ginther and Craig Butler complete Pentest
 - [ ] Oct 12: Rachael adds “plays” for public dissemination of preview.va.gov 
 - [ ] Oct 12: Rachael has 3 join.me rooms available for on call use
 - [ ] Oct 12: Elizabeth has booked location for Launch Control Room
 - [x] < Oct 17: Wyatt coordinates load testing with NSOC, EWIS, and AWS
-- [x] < Oct 17: Wyatt performs load testing (see details in the runbook)
+- [x] < Oct 17: Wyatt starts load testing (see details in the runbook)
 - [ ] Oct 17: Hydra posts banner on Vets.gov inviting users to try out preview.va.gov 
 - [ ] Oct 17: Clare disseminates VA comms inviting VA employees to try out preview.va.gov
 - [ ] Oct 22 - 23: Curtis and/or Paul take a trip to NSOC
