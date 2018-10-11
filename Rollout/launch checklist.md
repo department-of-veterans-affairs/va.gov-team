@@ -17,6 +17,10 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [ ] Oct 22 - 23: Curtis and/or Paul take a trip to NSOC
 - [ ] Oct 23: Josh Tuscher posts banner on VA.gov inviting Veterans to try out preview.va.gov
 - [ ] Oct 23: Clare and OIT publish blog post inviting Veterans to try out preview.va.gov
+- [ ] Oct 31 or Nov 1: Launch Dry Run and Game Day exercise!
+  - [ ] Mime all Launch Day activities with “test” posts in the real communication channels
+  - [ ] Run incident scenarios
+  - [ ] Outbrief
 - [ ] < Nov 1: Chris Gansen (lead ops engineer for healthcare.gov) reviews:
   - [ ] Testing posture
   - [ ] Monitoring posture
@@ -25,10 +29,6 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Launch checklist
   - [ ] Ops Readiness Report
 - [ ] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 special launch check-ins
-- [ ] Nov 4: GameDay exercise!
-  - [ ] Prep for gameday
-  - [ ] Run scenario
-  - [ ] Outbrief
 - [ ] Nov 4: #wbc-launch-ops channel up in slack
   - [ ] Chris Johnston added
   - [ ] James Kassemi added
@@ -47,9 +47,6 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Pin decision communication templates to channel
   - [ ] Pin runbook (w/crisis thresholds) to channel
   - [ ] Pin monitoring dashboard URL to channel
-- [ ] Nov 5: Dry Run
-  - [ ] Mime all Launch Day activities with “test” posts in the real communication channels
-  - [ ] Practice play: is this an incident, do we need to advocate for rollback, triage?
 - [ ] Nov 5: test on call and pagerduty rotations
 - [ ] Nov 5: OIT / NSOC meeting: do not push layout changes after this, do not adjust for lower traffic, in case we need to deploy config update and pipe back to you, do not change anything without talking to the new va.gov team.
 - [ ] Nov 5: post smoke test routes for top 6 actions in Rollout folder
