@@ -154,3 +154,5 @@ Daily check-ins occur with all Go / No Go attendees invited, to continue to be a
 ## NOV 10 ONWARD
 
 Back to standard on call coverage via pager duty.
+- [ ] Merge PR for 301 redirects
+- [ ] 
