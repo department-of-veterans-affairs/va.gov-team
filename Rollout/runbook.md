@@ -15,9 +15,9 @@
 - **NSOC: Kevin Williams?**
 - **EWIS: ?**
 - **ID.me: ?**
-- **OIT: ?**
-- **Call Center: Pete Smith (VA311?)**
-- **MHV: ?**
+- **OIT: Steve Walker?**
+- **Call Center: Pete Smith (VA311)?**
+- **MHV: Carnetta Scruggs? Barry Egbert (Bylight)?**
 - **TeamSite: Josh Tuscher?**
 - **AWS technical manager: ?**
 - **EVSS: ?**
