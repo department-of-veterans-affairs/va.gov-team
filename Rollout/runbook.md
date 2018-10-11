@@ -2,34 +2,16 @@
 
 # Go / No Go Attendees
 
-- 👑 Product Lead
-  - Chris Johnston
-- Execs
-  - Charles Worthington
-  - Andrew Hughey
-  - Marcy Jacobs
-- Product
-  - David Bao
-  - Steve Kovaks
-- Engineering
-  - James Kassemi
-  - Alex Loehr
-- DevOps
-  - Wyatt Walter
-- Design + Research
-  - Lauren Alexanderson
-  - Andy Lewendowski
-  - Jeff Barnes
-- Content
-  - Melissa Schaff
-- Implementation
-  - Rachael Roueché
-  - Mina Farzad
-- Marketing and Communications
-  - Clare Martorana
-  - Mandi Lindner
-- Analytics
-  - Tony Whittaker
+- 👑 Product Lead: Chris Johnston
+- Execs: Charles Worthington, Andrew Hughey, Marcy Jacobs
+- Product: David Bao, Steve Kovaks
+- Engineering: James Kassemi, Alex Loehr
+- DevOps: Wyatt Walter
+- Design + Research: Lauren Alexanderson, Andy Lewendowski, Jeff Barnes
+- Content: Melissa Schaff
+- Implementation: Rachael Roueché, Mina Farzad, Elizabeth Lewis
+- Marketing and Communications: Clare Martorana, Mandi Lindner
+- Analytics: Tony Whittaker, Ryan Luu
 - **NSOC: ?**
 - **EWIS: ?**
 - **ID.me: ?**
@@ -37,7 +19,6 @@
 - **Call Center: Aubrey and Lacey have been contacted to try and find this/these contact/s**
 - **MHV: ?**
 - **TeamSite: Josh Tuscher?**
-- **Foresee: ?**
 - **AWS technical manager: ?**
 - **EVSS: ?**
 - **Appeals: ?**
@@ -61,7 +42,6 @@
 - **Call Center: ?**
 - **MHV: ?**
 - **TeamSite: Josh Tuscher?**
-- **Foresee: ?**
 - **AWS technical manager: ?**
 - **EVSS: ?**
 - **Appeals: ?**
