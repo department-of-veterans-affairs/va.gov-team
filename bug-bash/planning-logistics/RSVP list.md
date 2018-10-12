@@ -52,10 +52,10 @@
 
 | Name            | Administration | Agency |
 | --------------- | -------------- | ------ |
-| Steve Walker    | VHA            | VA     |
+| Steve Walker    | OIT            | VA     |
 | Josh Tusher     | OPIA           | VA     |
-| Frank Bryceland | VHA            | VA     |
-| Donna Rodriguez |                | VA     |
+| Frank Bryceland | VBA            | VA     |
+| Donna Rodriguez | VHA            | VA     |
 |                 |                |        |
 |                 |                |        |
 |                 |                |        |
@@ -74,7 +74,7 @@
 | Chris Given         | StratOps | VA       |
 | Crystal Yan         | Design   | HQ/DHS   |
 | Charles Worthington |          | VA       |
-| Cyrus Sethna        | Comms    | HQ/      |
+| Cyrus Sethna        | Comms    | HQ       |
 | Eddie Hartwig       |          | HQ       |
 | Annie Nguyen        | Design   | HQ/VA    |
 | Laura McLean        | Design   | HQ       |
