@@ -5,10 +5,10 @@
 ### Watering Hole (Drinks)
 
 - coffee
-- lemonade
+- [lemonade](https://www.costco.com/Kirkland-Signature-Organic-Lemonade-96-fl.-oz,-2-count.product.100384650.html)
 - coke
 - Diet coke
-
+- Ginger ale
 - vodka
 - whiskey
 - beer 
@@ -19,9 +19,9 @@
 
 - pizza
 - apples
-- Beef jerky
+- [Beef jerky](https://www.costco.com/Jack-Link's-Beef-Jerky%2c-Variety-Pack%2c-1.25-oz%2c-9-count.product.100401636.html)
 - Veggie platter
-- Trail mix
+- [Trail mix](https://www.costco.com/Kirkland-Signature-Trail-Mix%2c-4-lbs.product.100333032.html)
 
 
 
