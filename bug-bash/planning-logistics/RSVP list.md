@@ -4,23 +4,23 @@
 
 | Name                | COP         | Agency |
 | ------------------- | ----------- | ------ |
-| Chris Eldredge      | Engineer    | HQ/DHS |
+| Chris Eldredge      | Engineering | HQ/DHS |
 | Andrew Hughey       | Product     | HQ/VA  |
 | Bryan Lam           | Comms       | HQ     |
 | Lilly Madigan       | Design      | DDS    |
 | Chris Johnston      | Product     | HQ/VA  |
-| Gina Maini          | Engineer    | HQ     |
+| Gina Maini          | Engineering | HQ     |
 | Kelsey Hastings     | Comms       | HQ     |
 | Lacey Higley        | Talent      | HQ/VA  |
 | Melissa Schaff      | Design      | HQ/VA  |
 | Florence Kasule     | Procurement | HQ/VA  |
 | Samara Strauss      | Design      | VA     |
 | Jeff Barnes         | Design      | VA     |
-| Andrew Nacin        | Engineer    | HQ     |
+| Andrew Nacin        | Engineering | HQ     |
 | Lauren Alexanderson | Design      | VA     |
 | Ketan Patel         | StratOps    | HQ/VA  |
-| Robert Alexanderson | Engineer    | HQ/VA  |
-| Aaron Wieczorek     | Engineer    | HQ     |
+| Robert Alexanderson | Engineering | HQ/VA  |
+| Aaron Wieczorek     | Engineering | HQ     |
 |                     |             |        |
 |                     |             |        |
 |                     |             |        |
@@ -68,22 +68,22 @@
 
 ### USDS
 
-| Name                | COP      | Agency   |
-| ------------------- | -------- | -------- |
-| Natalie Kates       | Product  | HQ/HHS   |
-| Chris Given         | StratOps | VA       |
-| Crystal Yan         | Design   | HQ/DHS   |
-| Charles Worthington |          | VA       |
-| Cyrus Sethna        | Comms    | HQ       |
-| Eddie Hartwig       |          | HQ       |
-| Annie Nguyen        | Design   | HQ/VA    |
-| Laura McLean        | Design   | HQ       |
-| Robbie Holmes       | Engineer | HQ/DHS   |
-| Johnathan Sullivan  | Product  |          |
-| Sheri Trivedi       | Design   | HQ/Forms |
-| Bill Blais          | StratOps | HQ       |
-|                     |          |          |
-|                     |          |          |
+| Name                | COP         | Agency   |
+| ------------------- | ----------- | -------- |
+| Natalie Kates       | Product     | HQ/HHS   |
+| Chris Given         | StratOps    | VA       |
+| Crystal Yan         | Design      | HQ/DHS   |
+| Charles Worthington |             | VA       |
+| Cyrus Sethna        | Comms       | HQ       |
+| Eddie Hartwig       |             | HQ       |
+| Annie Nguyen        | Design      | HQ/VA    |
+| Laura McLean        | Design      | HQ       |
+| Robbie Holmes       | Engineering | HQ/DHS   |
+| Johnathan Sullivan  | Product     |          |
+| Sheri Trivedi       | Design      | HQ/Forms |
+| Bill Blais          | StratOps    | HQ       |
+| Dave Methvin        | Engineering | HQ/Forms |
+|                     |             |          |
 
 ### VA/Stakeholders
 
