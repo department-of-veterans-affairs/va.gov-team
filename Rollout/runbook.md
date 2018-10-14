@@ -119,29 +119,27 @@ Approach: have caching configured and tuned on the reverse proxies, and then wor
 
 1. Start call with NSOC
 1. Wyatt routes 5% of production www.va.gov traffic through production VAEC
-1. After 15 min, if error rate < 99.9% and 90th percentile latency < 2.5 seconds, move to next step
+1. After 15 min, if static content mean 15m error rate < 99.9% and static content 90th percentile 15m latency < 3 seconds, move to next step
 1. Wyatt routes 15% of production www.va.gov traffic through production VAEC
 1. After 10 minutes end the call with NSOC
 1. Brian disseminates Load Testing Status Report
-1. After 24 hours, if error rate < 99.9% and 90th percentile latency < 2.5 seconds, move to next step
+1. After 24 hours, if static content mean 24h error rate < 99.9% and static content 90th percentile 24h latency < 3 seconds, move to next step
 1. Wyatt routes 50% of production www.va.gov traffic through production VAEC
 1. Brian disseminates Load Testing Status Report
-1. After the weekend, if error rate < 99.9% and 90th percentile latency < 2.5 seconds 
+1. After the weekend, if the latest static content mean 24h error rate < 99.9% and static content 90th percentile 15m latency < 3 seconds (not including partner service downtime or scheduled maintenance)
 1. Wyatt routes 100% of production www.va.gov traffic through production VAEC
+1. After 24 hours, if static content mean 15m error rate < 99.9% and static content 90th percentile 15m latency < 3 seconds, move to next step
 1. Brian disseminates Load Testing Status Report
-1. Continue if error rate < 99.9% and 90th percentile latency < 2.5 seconds continuously
+1. Continue forward, and respond to incidents based on existing SLOs and alert rules.
 
-### Error rate > 99.9%
+### Static Content Error rate >= 99.9% or Static Content 90th percentile latency >= 3 seconds
 
-***Work in progress - to be defined by Oct 4***
+For the steps above, if the error rate and 90th percentile latency measurements trigger a stop at any stage, 100% of traffic should be rolled back to the initial pool configuration, and engineering will assess and replan the traffic migration.
 
-### 90th percentile latency > 2.5 seconds
-
-***Work in progress - to be defined by Oct 4***
-
-
+Once 100% of traffic is routed at acceptable error rates and latency measurements for 24h, engineers will address issues based on existing SLOs and alert rules.
 
 ## Load Testing
+
 We’re going to spend some time hardening our configuration for partner service integrations and API requests with preemptive scaling. We will not be running additional per product load tests, and will rely on existing testing that’s been done by those teams.
 
 Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on local HTML assets and larger local assets (images, css, javascript), as well as proxied HTML assets, and lager proxied assets (images, css, javascript).
@@ -157,25 +155,47 @@ Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on
 
 ***Details of the plays for crisis management to be defined by Oct 4***
 
-
 ## Dissemination of preview.va.gov
 
 ***Details of the plays for crisis management to be defined by Oct 12th***
 
 Threshold to consider: login failures.
 
-
-
 ## Launch Crises
 
-### Rollback
+### Maintenance Page
 
-1. Certain criteria/thresholds are met (***to be defined by Nov 5)***, for example: 
-  - Spike in errors above baseline (define baseline based on historical log)
-  - Latency > X seconds sustained for > X seconds for > X of traffic
+#### Conditions
 
-2. On call party informs Rachael and James
-3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+* Static content error rate >= 90% for 15m
+* Static content 90th percentile latency >= 3s for 15m
+* API availability 0% for 15m
+
+#### Plan
+
+1. On call party informs Rachael and James
+2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
+3. Chris makes decision to put up a maintenance page
+4. Chris disseminates decision via Slack and email (***recipients TBD***), and calls James
+5. James coordinates with on call party
+6. On call party deploys maintenance page (***issue in progress for developing this page and process***)
+7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+8. All parties stay on the joinme line until it's resolved.
+9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+
+### VA.gov System Rollback
+
+This constitutes a rollback to the www.va.gov system for content, while still handling 100% of requests through our servers.
+
+#### Conditions
+
+* Maintenance page online for 2hrs. 
+* Rollback to 100% EWIS VA proxy will alleviate the issue.
+
+#### Plan
+
+1. On call party informs Rachael and James
+2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
 3. Chris makes decision to rollback based on data in the Launch Report
 4. Chris disseminates decision via Slack and email (***recipients TBD, but must at least include OIT since traffic will be reverted to them***), and calls James
 5. James coordinates with on call party
@@ -186,50 +206,37 @@ Threshold to consider: login failures.
 
 If not resolved...
 
-### Rollback fails, put up a maintenance page
+### VA.gov EWIS Rollback
 
-1. Certain criteria/thresholds are met (***to be defined by Nov 5)*** 
-2. On call party informs Rachael and James
-3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
-3. Chris makes decision to put up a maintenance page
-
-4. Chris disseminates decision via Slack and email (***recipients TBD***), and calls James
-
-5. James coordinates with on call party
-
-6. On call party deploys maintenance page (***issue in progress for developing this page and process***)
-
-7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-
-8. All parties stay on the joinme line until it's resolved.
-
-9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-
-If not resolved...
-
-## Maintenance page fails, revert to old EWIS configuration 
 This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire on Oct 4 off of our servers and back to the configuration < Oct 4.
 
-1. Certain criteria/thresholds are met (***to be defined by Nov 5)***
+#### Conditions
 
-2. On call party informs Rachael and James
+* Maintenance page online for 2hrs.
+* Rollback to 100% EWIS VA proxy will *not* alleviate the issues. 
 
-3. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
+#### Plan
 
-3. Chris makes decision to revert to old EWIS configuration
-
-4. Chris disseminates decision via Slack and email (***recipients TBD***), and calls James
-
-5. James coordinates with DevOps On Call party and NSOC Gateway Ops to roll back traffic from production VAEC
-
-6. DevOps On Call party and NSOC Gateway Ops roll back traffic from production VAEC
-
+1. On call party informs Rachael and James
+2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+3. Chris makes decision to rollback based on data in the Launch Report
+4. Chris disseminates decision via Slack and email (***recipients TBD, but must at least include OIT since traffic will be reverted to them***), and calls James
+5. James coordinates with on call party
+6. On call party deploys configuration update to revert back, and monitors grafana dashboards
 7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-
-8. All parties stay on the joinme line until it's resolved
-
+8. All parties stay on the joinme line until it's resolved.
 9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
 
+### Other Issues
+
+Follow existing SLOs, alert configurations, and standard operating procedures, with additional notification requirements after incident response initiated.
+
+#### Plan
+
+1. On call party informs Rachael and James
+2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+3. James coordinates with on call party
+4. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
 
 # Deployment Change Times post-launch
 
