@@ -159,8 +159,6 @@ Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on
 
 ***Details of the plays for crisis management to be defined by Oct 12th***
 
-Threshold to consider: login failures.
-
 ## Launch Crises
 
 ### Maintenance Page
@@ -190,7 +188,7 @@ This constitutes a rollback to the www.va.gov system for content, while still ha
 #### Conditions
 
 * Maintenance page online for 2hrs. 
-* Rollback to 100% EWIS VA proxy will alleviate the issue.
+* Engineering assessment that rollback to 100% EWIS VA proxy will alleviate the issue.
 
 #### Plan
 
@@ -213,7 +211,7 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 #### Conditions
 
 * Maintenance page online for 2hrs.
-* Rollback to 100% EWIS VA proxy will *not* alleviate the issues. 
+* Engineering assessment that rollback to 100% EWIS VA proxy will *not* alleviate the issues. 
 
 #### Plan
 
@@ -230,6 +228,12 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 ### Other Issues
 
 Follow existing SLOs, alert configurations, and standard operating procedures, with additional notification requirements after incident response initiated.
+
+#### Examples
+
+* Login error rate increase
+* Partner service downtime / maintenance
+* Increased error rate
 
 #### Plan
 
