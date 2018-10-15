@@ -2,7 +2,7 @@
 
 ## Moderator Logistics
 
-Conducting this study in-person onsite at VA medical centers. Logistics will vary based on site. 
+Conducting this study in-person onsite at VA medical centers. Logistics will vary based on site.
 
 - For the Durham site visit we are planning two teams, one looking at mobile and one at desktop. Both teams will use the same guide.
 - This guide is meant to be flexible for the moderator, due to time constraints with each participant please follow their interests.
@@ -37,7 +37,7 @@ Before we look at the new website, could you please tell us:
 
 Please take a moment to look at this new version of VA’s main website.
 
-- What are your impressions of this site? 
+- What are your impressions of this site?
 - What do you think of the layout of this page?
 - - *If they don’t mention it, ask about the Veteran images*
   - *If they don’t scroll down, prompt them to scroll down and give feedback*
@@ -103,4 +103,4 @@ Thanks for taking a look at the new site. We have two follow up questions.
 
 We appreciate you taking the time to share your thoughts with us. Your feedback is helpful as we continue to work on the site and make sure it works for Veterans!
 
-*Take them to participant questionnaire to collect information: https://adhoc.optimalworkshop.com/questions/2900-0770-wbc-durham* 
+*Take them to participant questionnaire to collect information: https://adhoc.optimalworkshop.com/questions/2900-0770-wbc-durham*
