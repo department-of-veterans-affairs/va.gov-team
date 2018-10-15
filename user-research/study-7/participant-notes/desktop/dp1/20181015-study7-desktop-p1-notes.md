@@ -1,4 +1,5 @@
 # Preview.VA.gov - Desktop, 10-15-2018, P1
+- Male, White, 70s. Missing fingers on right hand (mouse hand)
 
 ## Moderator Logistics
 
