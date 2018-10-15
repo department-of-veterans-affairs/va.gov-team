@@ -56,6 +56,7 @@ Please take a moment to look at this new version of VA’s main website.
 
 - You mentioned in the beginning that you would go online to refill your prescriptions. How would you do this on the website?
   - I'd go right back to refill and track your prescriptions and then you'd have to sign in and create your account well all I need to do is sign in. Sign in with MHV is what I would do. 
+  - **MHV sign in button didn't work**
 
 *We are interested in watching the user’s approach.*
 
@@ -76,6 +77,7 @@ Ask:
 *Navigate user to the Health Care Hub* *https://preview.va.gov/health-care/*
 
 - What do you think about the information on this page?
+  - 
 - Do you think this would be useful to you?
 - Did you notice the contact numbers [DESKTOP: on the right side of the page] or [MOBILE: under the connect with us menu at the bottom of the page]? What do you think about this information?
 
