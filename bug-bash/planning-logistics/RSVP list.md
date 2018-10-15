@@ -84,6 +84,7 @@
 | Bill Blais          | StratOps    | HQ       |
 | Dave Methvin        | Engineering | HQ/Forms |
 | David Avevedo       | StratOps    | HQ/SBA   |
+| Ju-Lie McReynolds   | Design      | HQ/HHS   |
 
 ### VA/Stakeholders
 
