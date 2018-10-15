@@ -1,4 +1,4 @@
-# Preview.VA.gov - Desktop, 10-15-2018, P1
+# Preview.VA.gov - Mobile, 10-15-2018, P1
 
 ## Moderator Logistics
 
