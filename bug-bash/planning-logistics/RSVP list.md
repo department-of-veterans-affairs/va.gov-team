@@ -83,7 +83,7 @@
 | Sheri Trivedi       | Design      | HQ/Forms |
 | Bill Blais          | StratOps    | HQ       |
 | Dave Methvin        | Engineering | HQ/Forms |
-|                     |             |          |
+| David Avevedo       | StratOps    | HQ/SBA   |
 
 ### VA/Stakeholders
 
