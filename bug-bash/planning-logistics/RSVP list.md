@@ -115,7 +115,7 @@
 | Anthony Schmidt       | Design       | HHS          |
 | Mary O'Toole          | Procurement  | VA           |
 | Julie Meloni          | Product      | HQ           |
-|                       |              |              |
+| Chris Pimlott         | Engineering  | DHS          |
 |                       |              |              |
 | Michael Jimenez       | StratOps     | DHS          |
 |                       |              |              |
