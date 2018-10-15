@@ -1,5 +1,4 @@
-# Preview.VA.gov - Desktop, 10-15-2018, P3
-- Male, AA, 50s, Med Tech (employee?)
+# Preview.VA.gov - Desktop, 10-15-2018, P6
 
 ## Moderator Logistics
 
@@ -39,16 +38,9 @@ Before we look at the new website, could you please tell us:
 Please take a moment to look at this new version of VA’s main website.
 
 - What are your impressions of this site?
-  -He noticed the "top 4" top task boxes. "That's pretty cool.""
 - What do you think of the layout of this page?
-- *If they don’t mention it, ask about the Veteran images*
-  - "It's got all the branches -- that's pretty cool."
+- - *If they don’t mention it, ask about the Veteran images*
   - *If they don’t scroll down, prompt them to scroll down and give feedback*
-  - He clicked on Housing Assistance, and read through the eligibility content on the hub page.
-  - "It's really simple -- simplified." Referring to the side navigation in the Housing Assistance hub.
-  - He clicked the green eBenefits button. (It did not open eBen in a new tab-BUG!)
-  - He thinks he clicked on the wrong thing because eBen opened.
-  - When he didn't know where to go on the Apply for a COE page, he selected the 'Veteran' accordion, and then clicked the green eBenefits button.
 
 ## Task 2 Health Care Activity - 5 min
 
@@ -75,19 +67,14 @@ Ask:
 *Navigate user to the Health Care Hub* *https://preview.va.gov/health-care/*
 
 - What do you think about the information on this page?
-  - "It's got a lot of information."
 - Do you think this would be useful to you?
-  - He read through all the tasks under the Manage spoke, but didn't take any action
 - Did you notice the contact numbers [DESKTOP: on the right side of the page] or [MOBILE: under the connect with us menu at the bottom of the page]? What do you think about this information?
-  - "I guess it would be easier here, you don't have to talk with a human being, you can get it off the internet."
-  - He would use the health benefits hotline if he needed help
 
 ## Task 4 Content Page or Tool Landing Page - 5 min
 
 *Return user to one of the content pages or tool pages they visited in Task 2 or 3*
 
-- Please take a look at the navigation options on [DESKTOP: the left side of the screen] or [MOBILE: under the more in this section menu].
-  -
+- Please take a look at the navigation options on [DESKTOP: the left side of the screen] or [MOBILE: under the more in this section menu].  
 - What do you think about the options in this menu?
 - Would you use this menu to navigate the website?
 
