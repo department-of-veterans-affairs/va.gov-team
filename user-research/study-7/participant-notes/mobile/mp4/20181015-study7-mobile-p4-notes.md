@@ -29,7 +29,10 @@ Before we start, a few things to mention:
 Before we look at the new website, could you please tell us:
 
 - What are some reasons you would visit a VA website today?
+  - MHV - renew prescriptions. 
+  - Theres not much else you can do. They say there is but you can't. You can find your appointments if you know what category to look for. MHV in my opinion is user friendly but 80% of the veterans are WW2, Korea, and Vietnam. I know enough to get in trouble. I've had a hell of a time with login. To find out after you've had a Drs appt or lab work done thats never posted and it should be, so there my experience with that
 - Would you typically use your phone or a computer?
+  - Both, mostly laptop
 
 ## Task 1 Homepage - 5 min
 
@@ -38,15 +41,21 @@ Before we look at the new website, could you please tell us:
 Please take a moment to look at this new version of VA’s main website.
 
 - What are your impressions of this site?
+  - It looks like a VA website.
+  - *anything interesting to you?*
+    - 
 - What do you think of the layout of this page?
-- - *If they don’t mention it, ask about the Veteran images*
+  - *If they don’t mention it, ask about the Veteran images*
   - *If they don’t scroll down, prompt them to scroll down and give feedback*
+- The first step in getting you to track and refill your prescriptions. That didn't say that in the beginning. I would think that most people who look at a VA website would say how would it help me. The health care stuff is what I'm looking for. **I'm 80%, I'm just paid to 100%, that's the government.**
+- Records now that would be nice if you could actually go to your medical records and go to them. 
 
 ## Task 2 Health Care Activity - 5 min
 
 *Start from preview.va.gov homepage*
 
-- You mentioned in the beginning that you would go online to [refill your prescriptions]. How would you do this on the website?
+- You mentioned in the beginning that you would go online to refill your prescriptions. How would you do this on the website?
+  - I'd go right back to refill and track your prescriptions and then you'd have to sign in and create your account well all I need to do is sign in. Sign in with MHV is what I would do. 
 
 *We are interested in watching the user’s approach.*
 
