@@ -21,7 +21,7 @@
 | Ketan Patel         | StratOps    | HQ/VA  |
 | Robert Alexanderson | Engineering | HQ/VA  |
 | Aaron Wieczorek     | Engineering | HQ     |
-|                     |             |        |
+| Kelly O'Connor      | StratOps    | VA     |
 |                     |             |        |
 |                     |             |        |
 |                     |             |        |
@@ -111,7 +111,7 @@
 | Andrew Keeney         | Front Office | HHS          |
 | Ryan Thurlwell        | Design       | HQ/Login.gov |
 | Seema Daryanani       | Talent       | HQ           |
-|                       |              |              |
+| Anthony Schmidt       | Design       | HHS          |
 | Mary O'Toole          | Procurement  | VA           |
 | Julie Meloni          | Product      | HQ           |
 |                       |              |              |
