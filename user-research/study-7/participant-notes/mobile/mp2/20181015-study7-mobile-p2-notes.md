@@ -1,28 +1,6 @@
 # Preview.VA.gov - Mobile, 10-15-2018, P2
 
-## Moderator Logistics
 
-Conducting this study in-person onsite at VA medical centers. Logistics will vary based on site.
-
-- For the Durham site visit we are planning two teams, one looking at mobile and one at desktop. Both teams will use the same guide.
-- This guide is meant to be flexible for the moderator, due to time constraints with each participant please follow their interests.
-- If the user attempts to access incomplete pages, guide them back to preview.va.gov.
-
-## Intro - 2 minutes
-
-Hi! My name is [NAME] and this is [NAME], we work at VAs central office and would like to get your feedback on a new design for VA's website. Could you take a few minutes to  talk with us?
-
-Great, thank you!
-
-Before we start, a few things to mention:
-
-- We will be looking at the new va.gov website
-- This should only take about 15 to 20 minutes
-- We appreciate your open feedback so please tell us your honest opinion
-- We are taking notes and recording this session, but we will not use your name in association with these records
-- Please take a moment to read this informed consent document, if you agree please sign, print your name, and date the form.
-
-**\**Sign informed consent****
 
 ## Warm-up - 3 min
 
