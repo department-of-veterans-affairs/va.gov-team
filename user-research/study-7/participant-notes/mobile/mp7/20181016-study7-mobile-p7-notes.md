@@ -52,8 +52,12 @@ Please take a moment to look at this new version of VA’s main website.
 - What are your impressions of this site?
   - This is everything you can go from the homepage? Looks good to me.
   - *anything stand out to you?* Maybe view your lab test results. It looks easy to get to. *Is that something you've done on a VA website?* Yeah, it does look like its designed nice and friendly.
+  - Its got basically everything you're looking for. 
+  - Usually I go online to look up benefits for spouses and stuff like that. It does look like it will be more friendly
 - What do you think of the layout of this page?
-- - *If they don’t mention it, ask about the Veteran images*
+  - *If they don’t mention it, ask about the Veteran images*
+    - Some people look like they are officially in service and some look like they are spouses. 
+    - Being a veteran I like seeing them
   - *If they don’t scroll down, prompt them to scroll down and give feedback*
 
 
@@ -61,6 +65,7 @@ Please take a moment to look at this new version of VA’s main website.
 ## Task 6 Veterans Crisis Line Modal
 
 - What do would you do if you were in crisis and looking for help on this website?
+  - 
   - *If they don't see if, point to the banner*
 - *Prompt to read through the banner*
   - What do you think this means?
