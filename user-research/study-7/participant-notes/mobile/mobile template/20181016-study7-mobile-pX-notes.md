@@ -64,19 +64,6 @@ Please take a moment to look at this new version of VA’s main website.
 
 
 
-## Task 5 Sign-in and Dashboard - 5 min
-
-*Return user to the homepage -  preview.va.gov*
-
-- Where would you go on this page to login to your account?
-  - *Prompt them to sign in if they can, if not use a production account to log them in*
-- What do you think you can do here?
-- What were you expecting to see?
-- Do you find this information useful?
-- How would you get to your account homepage?
-
-
-
 ## Task 2 Health Care Activity - 5 min
 
 *Start from preview.va.gov homepage*
