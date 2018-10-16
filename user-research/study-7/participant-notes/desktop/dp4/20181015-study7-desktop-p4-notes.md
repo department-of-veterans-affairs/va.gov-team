@@ -73,10 +73,10 @@ Please take a moment to look at this new version of VA’s main website.
 
 - *What are the difficulties when trying to login? How far do they get?*
 
-- *How would you look at payments*
- - Disability top tasks, Clicked view payment history, landed on tools pages
- - Says she Would normally sign in to eBenefits.
- - [Internet froze]
+  - *How would you look at payments*
+   - Disability top tasks, Clicked view payment history, landed on tools pages
+   - Says she Would normally sign in to eBenefits.
+   - [Internet froze]
 
 
 
