@@ -1,6 +1,8 @@
 # Preview.VA.gov - Desktop, 10-15-2018, P4
  - Female, Caucasian, 40s-50s
 
+
+
 ## Moderator Logistics
 
 Conducting this study in-person onsite at VA medical centers. Logistics will vary based on site.
@@ -8,6 +10,8 @@ Conducting this study in-person onsite at VA medical centers. Logistics will var
 - For the Durham site visit we are planning two teams, one looking at mobile and one at desktop. Both teams will use the same guide.
 - This guide is meant to be flexible for the moderator, due to time constraints with each participant please follow their interests.
 - If the user attempts to access incomplete pages, guide them back to preview.va.gov.
+
+
 
 ## Intro - 2 minutes
 
@@ -25,6 +29,8 @@ Before we start, a few things to mention:
 
 **\**Sign informed consent****
 
+
+
 ## Warm-up - 3 min
 
 Before we look at the new website, could you please tell us:
@@ -34,6 +40,8 @@ Before we look at the new website, could you please tell us:
 - Would you typically use your phone or a computer?
  - Haven't tried it on the phone, only desktop
 
+
+
 ## Task 1 Homepage - 5 min
 
 *Navigate user to* *https://preview.va.gov*
@@ -41,13 +49,15 @@ Before we look at the new website, could you please tell us:
 Please take a moment to look at this new version of VA’s main website.
 
 - What are your impressions of this site?
- - Overwhelming.
- - Doesn't seem that easy to use, but we will see.
- - I'm very computer illeterate and if it's too technical... I need it easy.
-- What do you think of the layout of this page?
- - I like the layout. Everything for Education is under Education. Records... it's all there. Disability.
-- - *If they don’t mention it, ask about the Veteran images*
-  - *If they don’t scroll down, prompt them to scroll down and give feedback*
+   - Overwhelming.
+   - Doesn't seem that easy to use, but we will see.
+   - I'm very computer illiterate and if it's too technical... I need it easy.
+  - What do you think of the layout of this page?
+   - I like the layout. Everything for Education is under Education. Records... it's all there. Disability.
+ - *If they don’t mention it, ask about the Veteran images*
+- *If they don’t scroll down, prompt them to scroll down and give feedback*
+
+
 
 ## Task 2 Health Care Activity - 5 min
 
@@ -68,28 +78,33 @@ Please take a moment to look at this new version of VA’s main website.
  - Says she Would normally sign in to eBenefits.
  - [Internet froze]
 
+
+
 Ask:
 
 - Was that experience what you were expecting?
+
+
 
 ## Task 3 Health Care Hub - 5 min
 
 *Navigate user to the Health Care Hub* *https://preview.va.gov/health-care/*
 
 - What do you think about the information on this page?
- - I like the large print so I can see better.
- - It would help me a lot to have that a visible option (make print larger)
- - Scrolling down. I like this (yellow homelessness alert) because I was at risk of homelessness last month. I still am at risk but we'll see how it works out.
- - I like how you explain about the VA bnefits (first spoke on page)
+   - I like the large print so I can see better.
+   - It would help me a lot to have that a visible option (make print larger)
+   - Scrolling down. I like this (yellow homelessness alert) because I was at risk of homelessness last month. I still am at risk but we'll see how it works out.
+   - I like how you explain about the VA benefits (first spoke on page)
 - Do you think this would be useful to you?
- - Yep. Especially, I have memory issue. If I forget the process this really helps.
+   - Yep. Especially, I have memory issue. If I forget the process this really helps.
 - Did you notice the contact numbers [DESKTOP: on the right side of the page] or [MOBILE: under the connect with us menu at the bottom of the page]? What do you think about this information?
- - What I like is where you can talk online to VA, you can chat with them if you're struggling or whatever (talking about live, online chat?)
- - Would be nice if there was a way to chat online.
+   - What I like is where you can talk online to VA, you can chat with them if you're struggling or whatever (talking about live, online chat?)
+   - Would be nice if there was a way to chat online.
 - *which number would you use*
- - I didn't know about the help benefits online.
- - I would call the help desk if I was having issues.
- - I did't know about the National Call center for Homeless veterans but I would give the a call.
+   - I didn't know about the help benefits online.
+   - I would call the help desk if I was having issues.
+   - I did't know about the National Call center for Homeless veterans but I would give the a call.
+
 
 
 ## Task 4 Content Page or Tool Landing Page - 5 min
@@ -100,10 +115,10 @@ Ask:
  - "Wish I had that back in 93. It wouldn't have been so hard.""
 
 - Please take a look at the navigation options on [DESKTOP: the left side of the screen]  
-- What do you think about the options in this menu?
-- Would you use this menu to navigate the website?
- - Yes. Very straightforward and easy to find.
- - Like that it explains the different eligibility things you can get benefits for.
+  - What do you think about the options in this menu?
+  - Would you use this menu to navigate the website?
+   - Yes. Very straightforward and easy to find.
+   - Like that it explains the different eligibility things you can get benefits for.
 
 
 
@@ -112,29 +127,32 @@ Ask:
 *Return user to the homepage -  preview.va.gov*
 
 - Where would you go on this page to login to your account?
- - Went right to the sign in button (button didn't work, needed to click text)
- - Modal opens. She says she would sign in with DSLOGON (clicked that option)
- - Opened in a new tab to the DS LOGON page (on vets.gov)
- - Doesn't know her password, but says she would enter those and log in.
+   - Went right to the sign in button (button didn't work, needed to click text)
+   - Modal opens. She says she would sign in with DSLOGON (clicked that option)
+   - Opened in a new tab to the DS LOGON page (on vets.gov)
+   - Doesn't know her password, but says she would enter those and log in.
 
 - *Prompt them to sign in if they can, if not use a production account to log them in*
-- *N/A*
+  - *N/A*
 - What do you think you can do here?
 - What were you expecting to see?
 - Do you find this information useful?
+
+
 
 ## Post-study - 2 min
 
 Thanks for taking a look at the new site. We have two follow up questions.
 
 - How did that compare to your past experiences with VA websites?
- - Much less frustrating than other websites.
- - Straightforward. I think it's a good setup. Everything is where it needs to be. Health is under health, Disability under disability.
-- *You said it was overwhelming, how do you feel now*
- - Not overwhelming at all. And no, I'm not jut saying that.
+   - Much less frustrating than other websites.
+   - Straightforward. I think it's a good setup. Everything is where it needs to be. Health is under health, Disability under disability.
+  - *You said it was overwhelming, how do you feel now*
+   - Not overwhelming at all. And no, I'm not jut saying that.
 
 - If this website went live tomorrow, what would you want other Veterans to know?
- - "It's a very useful source. Instead of calling a   1-800 number and waiting and waiting and waiting, you can get your payment info, your health care history. It's a very useful tool."
+   - **"It's a very useful source. Instead of calling a 1-800 number and waiting and waiting and waiting, you can get your payment info, your health care history. It's a very useful tool."**
+
 
 
 ## Thank you
