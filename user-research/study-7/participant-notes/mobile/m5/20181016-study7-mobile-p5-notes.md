@@ -1,4 +1,4 @@
-# Preview.VA.gov - Mobile, 10-16-2018, PX
+# Preview.VA.gov - Mobile, 10-16-2018, P5
 
 
 
@@ -34,8 +34,14 @@ Before we start, a few things to mention:
 
 Before we look at the new website, could you please tell us:
 
-- What are some reasons you would visit a VA website today?
+- Demographics
+  - Bob
+  - Army
+- What are some reasons you would visit a VA website today? 
+  - Asked about blue button and why MHV isn't as integrated with it
+  - I don't use VA benefits. I'm on medicare. 
 - Would you typically use your phone or a computer?
+  - Either one. Some sites get screwed up, especially on an android phone
 
 
 
@@ -46,8 +52,12 @@ Before we look at the new website, could you please tell us:
 Please take a moment to look at this new version of VA’s main website.
 
 - What are your impressions of this site?
+  - A lot of information. It's pretty straight forward.
+  - *what do you like?* Its not muddled. Its laid out pretty straight forward so you can find what you're looking for
+  - *anything you don't like?* No.
 - What do you think of the layout of this page?
 - - *If they don’t mention it, ask about the Veteran images*
+    - Well, it would be better if they were in color instead of black and white. If you're going to do it, spend a few bucks. Its not going to cost that much in the long run. You've got them in color there [points to news section]
   - *If they don’t scroll down, prompt them to scroll down and give feedback*
 
 
@@ -55,12 +65,18 @@ Please take a moment to look at this new version of VA’s main website.
 ## Task 6 Veterans Crisis Line Modal
 
 - What do would you do if you were in crisis and looking for help on this website?
+  - First line
   - *If they don't see if, point to the banner*
 - *Prompt to read through the banner*
   - What do you think this means?
+    - Ok this is going to sound like a very loaded question: are these people in the us? *yes.* Do they speak English? *they do. Why don't you read it and let me know if you have the same questions.*
   - What do you think you can do here?
   - What were you expecting to see?
+    - I don't know. Can you go back to the other thing? 
   - Do you find this information useful?
+    - It's slightly confusing because it says talk to the veteran crisis line responder now. When you go to this screen you're not doing what it says. It would be more concise if it said to contact...
+    - The red section is slightly misleading in my personal option
+- I worked for IBM 22 years and we had people who were truly intelligent and we had people who spoke different languages
 
 
 
@@ -68,7 +84,8 @@ Please take a moment to look at this new version of VA’s main website.
 
 *Start from preview.va.gov homepage*
 
-- You mentioned in the beginning that you would go online to [refill your prescriptions]. How would you do this on the website?
+- If you were interested in scheduling a VA healthcare appointment. How would you do this on the website?
+  - Probably under health care
 
 *We are interested in watching the user’s approach.*
 
@@ -81,6 +98,8 @@ Please take a moment to look at this new version of VA’s main website.
 Ask:
 
 - Was that experience what you were expecting?
+  - yeah. 
+  - *what would you do next?* Sign in. 
 
 
 
@@ -91,6 +110,7 @@ Ask:
 - What do you think about the information on this page?
 - Do you think this would be useful to you?
 - Did you notice the contact numbers [DESKTOP: on the right side of the page] or [MOBILE: under the connect with us menu at the bottom of the page]? What do you think about this information?
+  - Its all about how to apply and it tells you how to manage your health care. I don't see how to answer your question. 
 
 
 
@@ -99,7 +119,9 @@ Ask:
 Thanks for taking a look at the new site. We have two follow up questions.
 
 - How did that compare to your past experiences with VA websites?
+  - I think its much more concise. I think it would be better on a desktop experience because there is so much information on here it gets lost. 
 - If this website went live tomorrow, what would you want other Veterans to know?
+  - It would be one site that hopefully you could accomplish anything that you are looking for. I'm just glad that the government finally spent the money to update the website into one. 
 
 
 
