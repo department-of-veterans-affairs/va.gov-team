@@ -47,20 +47,20 @@ Please take a moment to look at this new version of VA’s main website.
 
 - What are your impressions of this site?
 - What do you think of the layout of this page?
-- - *If they don’t mention it, ask about the Veteran images*
-  - *If they don’t scroll down, prompt them to scroll down and give feedback*
+- *If they don’t mention it, ask about the Veteran images*
+- *If they don’t scroll down, prompt them to scroll down and give feedback*
 
 
 
 ## Task 6 Veterans Crisis Line Modal
 
 - What do would you do if you were in crisis and looking for help on this website?
-  - *If they don't see if, point to the banner*
+- *If they don't see if, point to the banner*
 - *Prompt to read through the banner*
-  - What do you think this means?
-  - What do you think you can do here?
-  - What were you expecting to see?
-  - Do you find this information useful?
+- What do you think this means?
+- What do you think you can do here?
+- What were you expecting to see?
+- Do you find this information useful?
 
 
 
