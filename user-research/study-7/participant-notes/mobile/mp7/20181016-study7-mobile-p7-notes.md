@@ -65,12 +65,14 @@ Please take a moment to look at this new version of VA’s main website.
 ## Task 6 Veterans Crisis Line Modal
 
 - What do would you do if you were in crisis and looking for help on this website?
-  - 
+  - Immediately saw red banner
   - *If they don't see if, point to the banner*
 - *Prompt to read through the banner*
   - What do you think this means?
   - What do you think you can do here?
+    - It would take me to where I can possible talk to someone. 
   - What were you expecting to see?
+    - 
   - Do you find this information useful?
 
 
