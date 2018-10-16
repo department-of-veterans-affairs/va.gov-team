@@ -72,8 +72,10 @@ Please take a moment to look at this new version of VA’s main website.
   - What do you think you can do here?
     - It would take me to where I can possible talk to someone. 
   - What were you expecting to see?
-    - 
+    - Its nice that it states right away that its complimentary. Cites laws that might impact it. Being that I'm an Iraq war vet there are some days that these guys might need somebody to talk with.
+    - This is actually pretty easy. Its all touch you can text, start a confidential chat or even call
   - Do you find this information useful?
+    - Yeah
 
 
 
@@ -81,7 +83,8 @@ Please take a moment to look at this new version of VA’s main website.
 
 *Start from preview.va.gov homepage*
 
-- You mentioned in the beginning that you would go online to [refill your prescriptions]. How would you do this on the website?
+- You mentioned in the beginning that you would go online to refill your prescriptions. How would you do this on the website?
+
 
 *We are interested in watching the user’s approach.*
 
@@ -94,6 +97,8 @@ Please take a moment to look at this new version of VA’s main website.
 Ask:
 
 - Was that experience what you were expecting?
+  - Yeah, cites DS login so you can get on there and see where your prescriptions are. 
+  - 
 
 
 
@@ -102,8 +107,14 @@ Ask:
 *Navigate user to the Health Care Hub* *https://preview.va.gov/health-care/*
 
 - What do you think about the information on this page?
+  - *Browsing menu. Imagine you aren't enrolled in healthcare, where would you find it?* Eventually finds eligibility from menu. 
+  - I like how secure messaging is out in the open. I usually use the kiosk of this. I like that you can go on and do it. 
+  - Veterans choice
+  - Its kind of got everything thats self explanatory about the benefits. 
 - Do you think this would be useful to you?
+  - yeah. 
 - Did you notice the contact numbers [DESKTOP: on the right side of the page] or [MOBILE: under the connect with us menu at the bottom of the page]? What do you think about this information?
+  - To get care? *If you wanted to call the VA about your coverage, where would you to to find out how to call the VA?* Maybe go to contact us. *now where would you go next?* Health benefits hotline
 
 
 
@@ -112,7 +123,9 @@ Ask:
 Thanks for taking a look at the new site. We have two follow up questions.
 
 - How did that compare to your past experiences with VA websites?
+  - It looks pretty good to me. It seems like it was pretty self explanatory. It was getting a pretty good idea of where things are. I didn't have to dig and look for stuff. 
 - If this website went live tomorrow, what would you want other Veterans to know?
+  - Maybe that there were changes right away, that should be self explanatory. Tell them to get out and have them look at it and see how everything operates. I don't know is there a video like a youtube video? Yeah that might come In handy.
 
 
 
