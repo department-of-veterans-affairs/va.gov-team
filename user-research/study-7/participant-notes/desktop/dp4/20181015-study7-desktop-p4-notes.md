@@ -36,9 +36,9 @@ Before we start, a few things to mention:
 Before we look at the new website, could you please tell us:
 
 - What are some reasons you would visit a VA website today?
- - Visited eBenefits for medical records payment information
+   - Visited eBenefits for medical records payment information
 - Would you typically use your phone or a computer?
- - Haven't tried it on the phone, only desktop
+   - Haven't tried it on the phone, only desktop
 
 
 
