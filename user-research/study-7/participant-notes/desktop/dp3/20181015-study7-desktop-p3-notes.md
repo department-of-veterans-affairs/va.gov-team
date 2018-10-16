@@ -1,6 +1,8 @@
 # Preview.VA.gov - Desktop, 10-15-2018, P3
 - Male, AA, 50s, Med Tech (employee?)
 
+
+
 ## Moderator Logistics
 
 Conducting this study in-person onsite at VA medical centers. Logistics will vary based on site.
@@ -8,6 +10,8 @@ Conducting this study in-person onsite at VA medical centers. Logistics will var
 - For the Durham site visit we are planning two teams, one looking at mobile and one at desktop. Both teams will use the same guide.
 - This guide is meant to be flexible for the moderator, due to time constraints with each participant please follow their interests.
 - If the user attempts to access incomplete pages, guide them back to preview.va.gov.
+
+
 
 ## Intro - 2 minutes
 
@@ -25,12 +29,16 @@ Before we start, a few things to mention:
 
 **\**Sign informed consent****
 
+
+
 ## Warm-up - 3 min
 
 Before we look at the new website, could you please tell us:
 
 - What are some reasons you would visit a VA website today?
 - Would you typically use your phone or a computer?
+
+
 
 ## Task 1 Homepage - 5 min
 
@@ -39,7 +47,7 @@ Before we look at the new website, could you please tell us:
 Please take a moment to look at this new version of VA’s main website.
 
 - What are your impressions of this site?
-  -He noticed the "top 4" top task boxes. "That's pretty cool.""
+  - He noticed the "top 4" top task boxes. "That's pretty cool.""
 - What do you think of the layout of this page?
 - *If they don’t mention it, ask about the Veteran images*
   - "It's got all the branches -- that's pretty cool."
@@ -49,6 +57,8 @@ Please take a moment to look at this new version of VA’s main website.
   - He clicked the green eBenefits button. (It did not open eBen in a new tab-BUG!)
   - He thinks he clicked on the wrong thing because eBen opened.
   - When he didn't know where to go on the Apply for a COE page, he selected the 'Veteran' accordion, and then clicked the green eBenefits button.
+
+
 
 ## Task 2 Health Care Activity - 5 min
 
@@ -70,6 +80,8 @@ Ask:
 
 - Was that experience what you were expecting?
 
+
+
 ## Task 3 Health Care Hub - 5 min
 
 *Navigate user to the Health Care Hub* *https://preview.va.gov/health-care/*
@@ -82,28 +94,29 @@ Ask:
   - "I guess it would be easier here, you don't have to talk with a human being, you can get it off the internet."
   - He would use the health benefits hotline if he needed help
 
+
+
 ## Task 4 Content Page or Tool Landing Page - 5 min
 
 *Return user to one of the content pages or tool pages they visited in Task 2 or 3*
 
-- Please take a look at the navigation options on [DESKTOP: the left side of the screen] or [MOBILE: under the more in this section menu].
-  -
+- Please take a look at the navigation options on [DESKTOP: the left side of the screen] or [MOBILE: under the more in this section menu]. 
 - What do you think about the options in this menu?
 - Would you use this menu to navigate the website?
+
+
 
 ## Task 5 Sign-in and Dashboard - 5 min
 
 *Return user to the homepage -  preview.va.gov*
 
 - Where would you go on this page to login to your account?
-
-- - *Prompt them to sign in if they can, if not use a production account to log them in*
-
+  - *Prompt them to sign in if they can, if not use a production account to log them in*
 - What do you think you can do here?
-
 - What were you expecting to see?
-
 - Do you find this information useful?
+
+
 
 ## Post-study - 2 min
 
@@ -111,6 +124,8 @@ Thanks for taking a look at the new site. We have two follow up questions.
 
 - How did that compare to your past experiences with VA websites?
 - If this website went live tomorrow, what would you want other Veterans to know?
+
+
 
 ## Thank you
 
