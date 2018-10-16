@@ -1,10 +1,10 @@
-# Preview.VA.gov - Mobile, 10-16-2018, P2
+# Preview.VA.gov - Desktop, 10-16-2018, PX
 
 
 
 ## Moderator Logistics
 
-Conducting this study in-person onsite at VA medical centers. Logistics will vary based on site. 
+Conducting this study in-person onsite at VA medical centers. Logistics will vary based on site.
 
 - For the Durham site visit we are planning two teams, one looking at mobile and one at desktop. Both teams will use the same guide.
 - This guide is meant to be flexible for the moderator, due to time constraints with each participant please follow their interests.
@@ -56,7 +56,7 @@ Please take a moment to look at this new version of VA’s main website.
 
 - What do would you do if you were in crisis and looking for help on this website?
   - *If they don't see if, point to the banner*
-- *Prompt to read through the banner* 
+- *Prompt to read through the banner*
   - What do you think this means?
   - What do you think you can do here?
   - What were you expecting to see?
@@ -120,4 +120,4 @@ Thanks for taking a look at the new site. We have two follow up questions.
 
 We appreciate you taking the time to share your thoughts with us. Your feedback is helpful as we continue to work on the site and make sure it works for Veterans!
 
-*Take them to participant questionnaire to collect information: https://adhoc.optimalworkshop.com/questions/2900-0770-wbc-durham* 
+*Take them to participant questionnaire to collect information: https://adhoc.optimalworkshop.com/questions/2900-0770-wbc-durham*
