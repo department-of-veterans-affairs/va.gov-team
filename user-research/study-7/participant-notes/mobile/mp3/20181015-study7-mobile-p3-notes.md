@@ -1,4 +1,4 @@
-# Preview.VA.gov - Desktop, 10-15-2018, P4
+# Preview.VA.gov - Mobile, 10-15-2018, P3
  - Non-caucasian, Male, 30s ,(VAMC employee, starbucks)
 
 
@@ -109,7 +109,7 @@ Thanks for taking a look at the new site. We have two follow up questions.
 
 - How did that compare to your past experiences with VA websites?
  - I'm computer-savvy, so if I can't find something, you can find anything on the web.
- - Comes to VAMC and asks people there. 
+ - Comes to VAMC and asks people there.
 
 - If this website went live tomorrow, what would you want other Veterans to know?
  - "It's easier."
