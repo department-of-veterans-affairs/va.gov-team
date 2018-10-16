@@ -22,7 +22,7 @@
 | Robert Alexanderson | Engineering | HQ/VA  |
 | Aaron Wieczorek     | Engineering | HQ     |
 | Kelly O'Connor      | StratOps    | VA     |
-|                     |             |        |
+| Rick Lee            | Design      | HQ/SBA |
 |                     |             |        |
 |                     |             |        |
 |                     |             |        |
@@ -68,23 +68,25 @@
 
 ### USDS
 
-| Name                | COP         | Agency   |
-| ------------------- | ----------- | -------- |
-| Natalie Kates       | Product     | HQ/HHS   |
-| Chris Given         | StratOps    | VA       |
-| Crystal Yan         | Design      | HQ/DHS   |
-| Charles Worthington |             | VA       |
-| Cyrus Sethna        | Comms       | HQ       |
-| Eddie Hartwig       |             | HQ       |
-| Annie Nguyen        | Design      | HQ/VA    |
-| Laura McLean        | Design      | HQ       |
-| Robbie Holmes       | Engineering | HQ/DHS   |
-| Johnathan Sullivan  | Product     |          |
-| Sheri Trivedi       | Design      | HQ/Forms |
-| Bill Blais          | StratOps    | HQ       |
-| Dave Methvin        | Engineering | HQ/Forms |
-| David Avevedo       | StratOps    | HQ/SBA   |
-| Ju-Lie McReynolds   | Design      | HQ/HHS   |
+| Name                | COP         | Agency       |
+| ------------------- | ----------- | ------------ |
+| Natalie Kates       | Product     | HQ/HHS       |
+| Chris Given         | StratOps    | VA           |
+| Crystal Yan         | Design      | HQ/DHS       |
+| Charles Worthington |             | VA           |
+| Cyrus Sethna        | Comms       | HQ           |
+| Eddie Hartwig       |             | HQ           |
+| Annie Nguyen        | Design      | HQ/VA        |
+| Laura McLean        | Design      | HQ           |
+| Robbie Holmes       | Engineering | HQ/DHS       |
+| Johnathan Sullivan  | Product     |              |
+| Sheri Trivedi       | Design      | HQ/Forms     |
+| Bill Blais          | StratOps    | HQ           |
+| Dave Methvin        | Engineering | HQ/Forms     |
+| David Avevedo       | StratOps    | HQ/SBA       |
+| Ju-Lie McReynolds   | Design      | HQ/HHS       |
+| David Jones         | StratOps    | HQ/Login.Gov |
+| Rauland Sharp       | Talent      | HQ           |
 
 ### VA/Stakeholders
 
