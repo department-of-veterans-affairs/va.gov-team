@@ -52,7 +52,7 @@ Please take a moment to look at this new version of VA’s main website.
    - Overwhelming.
    - Doesn't seem that easy to use, but we will see.
    - I'm very computer illiterate and if it's too technical... I need it easy.
-  - What do you think of the layout of this page?
+- What do you think of the layout of this page?
    - I like the layout. Everything for Education is under Education. Records... it's all there. Disability.
  - *If they don’t mention it, ask about the Veteran images*
 - *If they don’t scroll down, prompt them to scroll down and give feedback*
