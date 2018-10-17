@@ -23,7 +23,7 @@
 | Aaron Wieczorek     | Engineering | HQ     |
 | Kelly O'Connor      | StratOps    | VA     |
 | Rick Lee            | Design      | HQ/SBA |
-|                     |             |        |
+| David Bao           | Product     | VA     |
 |                     |             |        |
 |                     |             |        |
 |                     |             |        |
@@ -118,9 +118,9 @@
 | Mary O'Toole          | Procurement  | VA           |
 | Julie Meloni          | Product      | HQ           |
 | Chris Pimlott         | Engineering  | DHS          |
-|                       |              |              |
+| Kristin Holt          | Product      | DHS          |
 | Michael Jimenez       | StratOps     | DHS          |
-|                       |              |              |
+| Johnathan Sullivan    | Product      | HHS          |
 |                       |              |              |
 |                       |              |              |
 |                       |              |              |
@@ -132,7 +132,7 @@
 | Name           | Administration | Agency |
 | -------------- | -------------- | ------ |
 | Richard Harman |                | VA     |
-|                |                |        |
+| Emmet Bronwyn  |                | VA     |
 |                |                |        |
 |                |                |        |
 |                |                |        |
