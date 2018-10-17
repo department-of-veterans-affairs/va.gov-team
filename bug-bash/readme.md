@@ -42,8 +42,7 @@ Follow this template when submitting bugs in Zenhub:
 Additionally include one the following labels based on priority:
 
 - `launch-blocker`: breaks core functionality, product is not usable
-- `high-priority`: core functionality works, but bug causes some usability issues
-- `low-priority`: visual or content defect, doesn't cause usability issues
+- `priority`: core functionality works, but bug causes some usability issues  
 
 ---
 
