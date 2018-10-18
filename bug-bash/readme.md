@@ -16,6 +16,7 @@
 ## Goals
 - Find issues not normally or already found by getting fresh set of eyes on the product
 - Test 7 scenarios of user types for various product areas on preview.va.gov prior to launch in order to sort out problems
+  - MHV basic
   - MHV premium
   - DS logon basic
   - DS logon premium
