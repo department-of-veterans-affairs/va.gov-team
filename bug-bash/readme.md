@@ -13,15 +13,17 @@
 | 4:00 PM    | 5:00 PM  | Happy Hour!                 | - Celebrate hard work                                        |
 | 5:00 PM    | 6:00 PM  | Clean up                    | - DSVA stays and cleans up room                              |
 
-
-
 ## Goals
-
-- Find issues not normally found
+- Find issues not normally or already found by getting fresh set of eyes on the product
 - Test 7 scenarios of user types for various product areas on preview.va.gov prior to launch in order to sort out problems
+  - MHV premium
+  - DS logon basic
+  - DS logon premium
+  - ID.me basic
+  - ID.me premium
+  - Create account
+  - Unauthenticated 
 - Bring USDS, DSVA, Ad Hoc, and VA community together as one in a single cohesive effort to work through the above
-
-
 
 ## Submitting Issues
 
