@@ -1,3 +1,9 @@
+# WBC Bug Bash 2018
+
+[GH Member List](https://github.com/orgs/department-of-veterans-affairs/teams/wbc-bug-bash-2018/members)
+
+
+
 ## Yes:
 
 ### USDS
@@ -19,12 +25,12 @@
 | Andrew Nacin        | Engineering | HQ     |              |
 | Lauren Alexanderson | Design      | VA     |              |
 | Ketan Patel         | StratOps    | HQ/VA  |              |
-| Robert Alexanderson | Engineering | HQ/VA  |              |
+| Robert Alexander    | Engineering | HQ/VA  |              |
 | Aaron Wieczorek     | Engineering | HQ     |              |
 | Kelly O'Connor      | StratOps    | VA     |              |
 | Rick Lee            | Design      | HQ/SBA |              |
 | David Bao           | Product     | VA     |              |
-|                     |             |        |              |
+| Leah Bannon         | Product     | VA     |              |
 |                     |             |        |              |
 |                     |             |        |              |
 |                     |             |        |              |
@@ -79,12 +85,11 @@
 | Annie Nguyen        | Design      | HQ/VA        |              |
 | Laura McLean        | Design      | HQ           |              |
 | Robbie Holmes       | Engineering | HQ/DHS       |              |
-| Johnathan Sullivan  | Product     |              |              |
+| Johnathan Sullivan  | Product     | HHS          |              |
 | Sheri Trivedi       | Design      | HQ/Forms     |              |
 | Bill Blais          | StratOps    | HQ           |              |
 | Dave Methvin        | Engineering | HQ/Forms     |              |
 | David Avevedo       | StratOps    | HQ/SBA       |              |
-|                     |             |              |              |
 | David Jones         | StratOps    | HQ/Login.Gov |              |
 | Rauland Sharp       | Talent      | HQ           |              |
 
