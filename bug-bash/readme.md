@@ -32,7 +32,15 @@ When you find a bug, submit an issue! Submitting an issue is easy. Once you have
 
 You should see something that looks like this:
 
-![WBC Bug Bash 2018 New Issue Template]()
+![WBC Bug Bash 2018 New Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/bug-bash/instructions/1-WBC-bug-bash-new-issue.jpg)
+
+Click "Get Started" to begin wrangling your bug. Give your issue a **Title**, describing what went wrong. 
+
+Next, add some labels! All bugs need the `wbc bug bash` label. You should also add a label for the `[practice area]` (i.e. front end, design, devops, content). *If you have any questions or concerns about which practice area label to use, ask a DSVAer for help or leave it blank--we'll take care of this later.*
+
+In the **Description **fill in the sections, providing as much detail as possible. It's important for us to know the **Specs** for reproduction, to know **What happened** so we can try to reproduce it, and know the **Desired behavior** so we can resolve the issue. Make sure to include screenshots and/or recordings so that we know exactly what is wrong and can fix the problem. *Below are some tips and tricks for recording issues.*
+
+
 
 ## Bug Bash Issue Template
 
@@ -41,6 +49,7 @@ You should see something that looks like this:
 
 **Labels:** `wbc bug bash` and `[practice area]` (i.e. front end, design, devops, content)
 Additionally include one the following labels based on priority:
+
 - `launch-blocker`: breaks core functionality, product is not usable
 - `priority`: core functionality works, but bug causes some usability issues  
 
