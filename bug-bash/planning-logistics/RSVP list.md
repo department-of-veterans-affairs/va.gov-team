@@ -2,37 +2,37 @@
 
 ### USDS
 
-| Name                | COP         | Agency |
-| ------------------- | ----------- | ------ |
-| Chris Eldredge      | Engineering | HQ/DHS |
-| Andrew Hughey       | Product     | HQ/VA  |
-| Bryan Lam           | Comms       | HQ     |
-| Lilly Madigan       | Design      | DDS    |
-| Chris Johnston      | Product     | HQ/VA  |
-| Gina Maini          | Engineering | HQ     |
-| Kelsey Hastings     | Comms       | HQ     |
-| Lacey Higley        | Talent      | HQ/VA  |
-| Melissa Schaff      | Design      | HQ/VA  |
-| Florence Kasule     | Procurement | HQ/VA  |
-| Samara Strauss      | Design      | VA     |
-| Jeff Barnes         | Design      | VA     |
-| Andrew Nacin        | Engineering | HQ     |
-| Lauren Alexanderson | Design      | VA     |
-| Ketan Patel         | StratOps    | HQ/VA  |
-| Robert Alexanderson | Engineering | HQ/VA  |
-| Aaron Wieczorek     | Engineering | HQ     |
-| Kelly O'Connor      | StratOps    | VA     |
-| Rick Lee            | Design      | HQ/SBA |
-| David Bao           | Product     | VA     |
-|                     |             |        |
-|                     |             |        |
-|                     |             |        |
-|                     |             |        |
-|                     |             |        |
-|                     |             |        |
-|                     |             |        |
-|                     |             |        |
-|                     |             |        |
+| Name                | COP         | Agency | Added to GH? |
+| ------------------- | ----------- | ------ | ------------ |
+| Chris Eldredge      | Engineering | HQ/DHS |              |
+| Andrew Hughey       | Product     | HQ/VA  |              |
+| Bryan Lam           | Comms       | HQ     |              |
+| Lilly Madigan       | Design      | DDS    |              |
+| Chris Johnston      | Product     | HQ/VA  |              |
+| Gina Maini          | Engineering | HQ     |              |
+| Kelsey Hastings     | Comms       | HQ     |              |
+| Lacey Higley        | Talent      | HQ/VA  |              |
+| Melissa Schaff      | Design      | HQ/VA  |              |
+| Florence Kasule     | Procurement | HQ/VA  |              |
+| Samara Strauss      | Design      | VA     |              |
+| Jeff Barnes         | Design      | VA     |              |
+| Andrew Nacin        | Engineering | HQ     |              |
+| Lauren Alexanderson | Design      | VA     |              |
+| Ketan Patel         | StratOps    | HQ/VA  |              |
+| Robert Alexanderson | Engineering | HQ/VA  |              |
+| Aaron Wieczorek     | Engineering | HQ     |              |
+| Kelly O'Connor      | StratOps    | VA     |              |
+| Rick Lee            | Design      | HQ/SBA |              |
+| David Bao           | Product     | VA     |              |
+|                     |             |        |              |
+|                     |             |        |              |
+|                     |             |        |              |
+|                     |             |        |              |
+|                     |             |        |              |
+|                     |             |        |              |
+|                     |             |        |              |
+|                     |             |        |              |
+|                     |             |        |              |
 
 ### Ad Hoc
 
@@ -68,25 +68,25 @@
 
 ### USDS
 
-| Name                | COP         | Agency       |
-| ------------------- | ----------- | ------------ |
-| Natalie Kates       | Product     | HQ/HHS       |
-| Chris Given         | StratOps    | VA           |
-| Crystal Yan         | Design      | HQ/DHS       |
-| Charles Worthington |             | VA           |
-| Cyrus Sethna        | Comms       | HQ           |
-| Eddie Hartwig       |             | HQ           |
-| Annie Nguyen        | Design      | HQ/VA        |
-| Laura McLean        | Design      | HQ           |
-| Robbie Holmes       | Engineering | HQ/DHS       |
-| Johnathan Sullivan  | Product     |              |
-| Sheri Trivedi       | Design      | HQ/Forms     |
-| Bill Blais          | StratOps    | HQ           |
-| Dave Methvin        | Engineering | HQ/Forms     |
-| David Avevedo       | StratOps    | HQ/SBA       |
-| Ju-Lie McReynolds   | Design      | HQ/HHS       |
-| David Jones         | StratOps    | HQ/Login.Gov |
-| Rauland Sharp       | Talent      | HQ           |
+| Name                | COP         | Agency       | Added to GH? |
+| ------------------- | ----------- | ------------ | ------------ |
+| Natalie Kates       | Product     | HQ/HHS       |              |
+| Chris Given         | StratOps    | VA           |              |
+| Crystal Yan         | Design      | HQ/DHS       |              |
+| Charles Worthington |             | VA           |              |
+| Cyrus Sethna        | Comms       | HQ           |              |
+| Eddie Hartwig       |             | HQ           |              |
+| Annie Nguyen        | Design      | HQ/VA        |              |
+| Laura McLean        | Design      | HQ           |              |
+| Robbie Holmes       | Engineering | HQ/DHS       |              |
+| Johnathan Sullivan  | Product     |              |              |
+| Sheri Trivedi       | Design      | HQ/Forms     |              |
+| Bill Blais          | StratOps    | HQ           |              |
+| Dave Methvin        | Engineering | HQ/Forms     |              |
+| David Avevedo       | StratOps    | HQ/SBA       |              |
+| Ju-Lie McReynolds   | Design      | HQ/HHS       |              |
+| David Jones         | StratOps    | HQ/Login.Gov |              |
+| Rauland Sharp       | Talent      | HQ           |              |
 
 ### VA/Stakeholders
 
