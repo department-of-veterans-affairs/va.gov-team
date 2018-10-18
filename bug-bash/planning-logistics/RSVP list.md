@@ -84,7 +84,7 @@
 | Bill Blais          | StratOps    | HQ           |              |
 | Dave Methvin        | Engineering | HQ/Forms     |              |
 | David Avevedo       | StratOps    | HQ/SBA       |              |
-| Ju-Lie McReynolds   | Design      | HQ/HHS       |              |
+|                     |             |              |              |
 | David Jones         | StratOps    | HQ/Login.Gov |              |
 | Rauland Sharp       | Talent      | HQ           |              |
 
@@ -122,7 +122,7 @@
 | Michael Jimenez       | StratOps     | DHS          |
 | Johnathan Sullivan    | Product      | HHS          |
 | Clare Martorana       | Product      | HQ/VA        |
-|                       |              |              |
+| Ju-Lie McReynolds     | Design       | HQ/HHS       |
 |                       |              |              |
 
 
