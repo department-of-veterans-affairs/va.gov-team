@@ -4,6 +4,8 @@
 
 **Location:** 811 Vermont Avenue NW (Lafayette Building); 3rd Floor Room 3172/3174 
 
+**Wifi:** Network: *VAHQ-WiFi* | Password: *Fbzo2RXcg*
+
 | Start Time | End Time | Action                      | Description                                                  |
 | ---------- | -------- | --------------------------- | ------------------------------------------------------------ |
 | 9:00 AM    | 11:00 AM | Set up                      | - Arrange room for user types<br />- Distribute materials on tables<br />- Set up food and drinks<br />- Decorate room |
