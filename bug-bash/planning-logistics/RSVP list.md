@@ -121,7 +121,7 @@
 | Kristin Holt          | Product      | DHS          |
 | Michael Jimenez       | StratOps     | DHS          |
 | Johnathan Sullivan    | Product      | HHS          |
-|                       |              |              |
+| Clare Martorana       | Product      | HQ/VA        |
 |                       |              |              |
 |                       |              |              |
 
