@@ -8,37 +8,37 @@
 
 ### USDS
 
-| Name                | COP         | Agency | Added to GH? |
-| ------------------- | ----------- | ------ | ------------ |
-| Chris Eldredge      | Engineering | HQ/DHS |              |
-| Andrew Hughey       | Product     | HQ/VA  |              |
-| Bryan Lam           | Comms       | HQ     |              |
-| Lilly Madigan       | Design      | DDS    |              |
-| Chris Johnston      | Product     | HQ/VA  |              |
-| Gina Maini          | Engineering | HQ     |              |
-| Kelsey Hastings     | Comms       | HQ     |              |
-| Lacey Higley        | Talent      | HQ/VA  |              |
-| Melissa Schaff      | Design      | HQ/VA  |              |
-| Florence Kasule     | Procurement | HQ/VA  |              |
-| Samara Strauss      | Design      | VA     |              |
-| Jeff Barnes         | Design      | VA     |              |
-| Andrew Nacin        | Engineering | HQ     |              |
-| Lauren Alexanderson | Design      | VA     |              |
-| Ketan Patel         | StratOps    | HQ/VA  |              |
-| Robert Alexander    | Engineering | HQ/VA  |              |
-| Aaron Wieczorek     | Engineering | HQ     |              |
-| Kelly O'Connor      | StratOps    | VA     |              |
-| Rick Lee            | Design      | HQ/SBA |              |
-| David Bao           | Product     | VA     |              |
-| Leah Bannon         | Product     | VA     |              |
-|                     |             |        |              |
-|                     |             |        |              |
-|                     |             |        |              |
-|                     |             |        |              |
-|                     |             |        |              |
-|                     |             |        |              |
-|                     |             |        |              |
-|                     |             |        |              |
+| Name                | COP         | Agency       | Added to GH? |
+| ------------------- | ----------- | ------------ | ------------ |
+| Chris Eldredge      | Engineering | HQ/DHS       |              |
+| Andrew Hughey       | Product     | HQ/VA        |              |
+| Bryan Lam           | Comms       | HQ           |              |
+| Lilly Madigan       | Design      | DDS          |              |
+| Chris Johnston      | Product     | HQ/VA        |              |
+| Gina Maini          | Engineering | HQ           |              |
+| Kelsey Hastings     | Comms       | HQ           |              |
+| Lacey Higley        | Talent      | HQ/VA        |              |
+| Melissa Schaff      | Design      | HQ/VA        |              |
+| Florence Kasule     | Procurement | HQ/VA        |              |
+| Samara Strauss      | Design      | VA           |              |
+| Jeff Barnes         | Design      | VA           |              |
+| Andrew Nacin        | Engineering | HQ           |              |
+| Lauren Alexanderson | Design      | VA           |              |
+| Ketan Patel         | StratOps    | HQ/VA        |              |
+| Robert Alexander    | Engineering | HQ/VA        |              |
+| Aaron Wieczorek     | Engineering | HQ           |              |
+| Kelly O'Connor      | StratOps    | VA           |              |
+| Rick Lee            | Design      | HQ/SBA       |              |
+| David Bao           | Product     | VA           |              |
+| Leah Bannon         | Product     | VA           |              |
+| Ryan Thurlwell      | Design      | HQ/Login.gov |              |
+|                     |             |              |              |
+|                     |             |              |              |
+|                     |             |              |              |
+|                     |             |              |              |
+|                     |             |              |              |
+|                     |             |              |              |
+|                     |             |              |              |
 
 ### Ad Hoc
 
