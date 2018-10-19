@@ -67,7 +67,7 @@ Additionally include one the following labels based on priority:
 *Describe in detail what went wrong; screenshots, videos, or gifs are strongly encouraged*
 
 **Desired behavior:**
-*Describe in detail what was supposed to happen; reference existing Zenhub issue that contains the solution if possible*
+*Describe in detail what was supposed to happen.* 
 
 ## Tips for submitting issues
 - If you're on a Mac, screen recording using QuickTime is very easy!
