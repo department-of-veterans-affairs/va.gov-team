@@ -1,6 +1,14 @@
-# Mobile Participants
+# Study 7 Participants
 
-## 2018-10-15 (Monday)
+Total participants = 17
+
+
+
+## Mobile Participants
+
+Mobile participants = 7
+
+### 2018-10-15 (Monday)
 
 Andy (moderator) and Melissa (notetaker) ran 3 sessions in the lobby at the Durham VAMC.
 
@@ -8,15 +16,13 @@ Andy (moderator) and Melissa (notetaker) ran 3 sessions in the lobby at the Durh
 - [MP2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/mobile/mp2)
 - [MP3](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/mobile/mp3)
 
-
-
 Jeff (moderator) and Chris (notetaker) ran 1 session in the lobby at the Durham VAMC.
 
 - [MP4](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/mobile/mp4)
 
 
 
-## 2018-10-26 (Tuesday)
+### 2018-10-16 (Tuesday)
 
 Andy (moderator) and Melissa (notetaker) ran 3 sessions in the lobby at the Durham VAMC.
 
@@ -24,11 +30,11 @@ Andy (moderator) and Melissa (notetaker) ran 3 sessions in the lobby at the Durh
 - [MP6](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/mobile/mp6)
 - [MP7](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/mobile/mp7)
 
+## Desktop Participants
 
+Desktop participants = 11
 
-# Desktop Participants
-
-## 2018-10-15 (Monday)
+### 2018-10-15 (Monday)
 
 Jeff (moderator) and Chris (notetaker) ran 4 sessions in the lobby at the Durham VAMC.
 
@@ -37,15 +43,13 @@ Jeff (moderator) and Chris (notetaker) ran 4 sessions in the lobby at the Durham
 - [DP3](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/desktop/dp3)
 - [DP4](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/desktop/dp4)
 
-
-
 Melissa (moderator) and Chris (notetaker) ran 1 session in the lobby at the Durham VAMC.
 
 - [DP5](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-7/participant-notes/desktop/dp5)
 
 
 
-## 2018-10-26 (Tuesday)
+### 2018-10-16 (Tuesday)
 
 Jeff (moderator) and Chris (notetaker) ran 6 sessions in the lobby at the Durham VAMC.
 
