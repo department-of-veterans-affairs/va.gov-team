@@ -4,7 +4,7 @@
 
 Jeff (moderator) and Jennifer (notetaker) ran 2 remote usability sessions using GoToMeeting.
 
-- [P1]()
+- [P1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-8/participant-notes/p1)
 - [P2]()
 
 
