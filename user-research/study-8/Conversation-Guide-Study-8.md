@@ -83,7 +83,10 @@ You are thinking about going back to college and want to know if you have any mo
 You want to get an ID that proves you are a Veteran, where would you go to get it?
 
 ## Follow-up as needed.
-
+- What other VA services would you like to explore?
+- Where would you go on the site if you were in crisis?
+- What do you think of the faces on the homepage?
+- Did you notice the links on the left side of the page (Left nav in hubs)? Woudl that be useful to you?
 
 ## Post-Task Interview - 5 minutes
 
