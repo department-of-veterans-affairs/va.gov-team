@@ -1,4 +1,23 @@
-# Conversation Guide Study 8 - Remote Usability Testing Preview.va.gov
+# Study 8 - Remote Usability Testing Preview.va.gov - Desktop, 10-22-2018, P1
+
+Amanda
+
+- MHV
+
+- 32
+
+- Female
+
+- Caucasian/White
+
+- Army
+
+- 20% Disability rating 
+
+- Some college
+
+- UT
+
 
 ## Moderator logistics
 
