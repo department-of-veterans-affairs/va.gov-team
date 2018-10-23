@@ -1,15 +1,16 @@
 # Study 8 - Remote Usability Testing Preview.va.gov - Desktop, 10-23-2018, P4
 
-Edward
+Willard (Willy)
 
-- 70
+- 56
 - Male
-- Multi-ethnic
-- Army
-- Disability rating = 10%
-- College Graduate
+- Caucasian/White
+- Marine Corps
+- Disability rating = 100%
+- Postgraduate work
 - CA
-- MHV
+- No account (ID.me?)
+- IE, PC
 
 
 
@@ -66,7 +67,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 
-## ---> MyHealtheVet
+## MyHealtheVet
 
 ### First Task: Check your appointment - 5 minutes
 
@@ -86,7 +87,7 @@ A few days after your appointment, you want to go back and see what your blood p
 
 
 
-## ---> DS Logon
+## DS Logon
 
 ### First Task: Check your status - 5 minutes
 
