@@ -10,6 +10,9 @@ Bilaal
 - Postgraduate work
 - MA
 - MHV
+- Chrome, PC
+
+
 
 ## Moderator logistics
 
