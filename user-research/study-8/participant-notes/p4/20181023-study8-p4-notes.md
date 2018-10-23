@@ -1,15 +1,15 @@
 # Study 8 - Remote Usability Testing Preview.va.gov - Desktop, 10-23-2018, P4
 
-Willard
+Edward
 
-- 56
+- 70
 - Male
-- Caucasian/White
-- Marines
-- Disability rating = 100%
-- Postgraduate work
+- Multi-ethnic
+- Army
+- Disability rating = 10%
+- College Graduate
 - CA
-- DS Logon
+- MHV
 
 
 
