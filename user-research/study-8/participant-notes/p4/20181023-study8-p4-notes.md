@@ -1,15 +1,15 @@
-# Study 8 - Remote Usability Testing Preview.va.gov - Desktop, 10-23-2018, P3
+# Study 8 - Remote Usability Testing Preview.va.gov - Desktop, 10-23-2018, P4
 
-Bilaal
+Willard
 
-- 63
+- 56
 - Male
-- African American/Black
-- Air Force
-- Disability rating = 0%
+- Caucasian/White
+- Marines
+- Disability rating = 100%
 - Postgraduate work
-- MA
-- MHV
+- CA
+- DS Logon
 
 
 
@@ -86,7 +86,7 @@ A few days after your appointment, you want to go back and see what your blood p
 
 
 
-## DS Logon
+## ---> DS Logon
 
 ### First Task: Check your status - 5 minutes
 
