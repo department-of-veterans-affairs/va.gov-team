@@ -11,11 +11,11 @@ Jeff (moderator) and Jennifer (notetaker) ran 2 remote usability sessions using 
 
 ## 2018-10-23 (Tuesday)
 
-Melissa (moderator) and Jennifer (notetaker) ran 1 remote usability sessions using GoToMeeting.
+Melissa (moderator) and Jennifer (notetaker) ran 1 remote usability session using GoToMeeting.
 
 - [P3](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-8/participant-notes/p3)
 
-Melissa (moderator) and Samara (notetaker) ran 1 remote usability sessions using GoToMeeting.
+Melissa (moderator) and Samara (notetaker) ran 1 remote usability session using GoToMeeting.
 
 - [P4](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-8/participant-notes/p4)
 
