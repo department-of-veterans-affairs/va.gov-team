@@ -8,7 +8,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x] Oct: Demian Ginther and Craig Butler complete Pentest
 - [ ] Oct 12: Rachael adds “plays” for public dissemination of preview.va.gov 
 - [ ] Oct 12: Rachael has 3 ~~join.me rooms~~ Lync / Skype for Business dial-ins available for on call use
-- [x] Oct 12: Elizabeth has booked location for Launch Control Room
+- [x] Oct 12: Elizabeth has booked location for Launch Control Room: 
 - [x] < Oct 17: Wyatt coordinates load testing with ITOPS, EWIS, and AWS
 - [x] < Oct 17: Wyatt starts load testing (see details in the runbook)
 - [ ] Oct 17: Hydra posts banner on Vets.gov inviting users to try out preview.va.gov 
@@ -28,6 +28,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Incident Management Plan
   - [ ] Launch checklist
   - [ ] Ops Readiness Report
+- [ ] < / = Nov 1: Working Group + Digital Modernization council Go / No Gos
 - [ ] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 special launch check-ins
 - [ ] Nov 4: #wbc-launch-ops channel up in slack
   - [ ] Chris Johnston added
@@ -58,9 +59,10 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 In order to create the smoothest launch environment, it is beneficial to establish clear launch criteria early, that’s why we have it due in the checklist above by Nov 5. This allows the team to make the simplest decisions possible.
 
 ### 9 AM ET: Assemble
-- [ ] All in-person team members gather in the Launch Control Room
-- [ ] All remote team members available in virtual Lync channels
+- [ ] All in-person technical team members gather in the technical Launch Control Room
+- [ ] All remote technical team members available in virtual Lync channels
 - [ ] Curtis is on-site at ITOPS in Martinsburg, WV
+- [ ] All stakeholders gather in the DSVA Launch Room
 
 ### 10 AM ET: Go / No Go meeting
 - [ ] All Go / No Go attendees present (per runbook)
@@ -90,7 +92,7 @@ Ad Hoc will have drafted text ready for Chris, as well as the channels and recip
 - [ ] Alert #wbc-launch-ops channel
 - [ ] Final check that monitoring dashboard is working
 
-### 11:30 PM ET: launch initiated
+### 11:30 AM ET: launch initiated
 
 This time is based on an optimzation of low risk Network times, low risk usage times, optimal Engineer alertness times, and optimal partner point of contact/escalation path availability times for incident response.
 
