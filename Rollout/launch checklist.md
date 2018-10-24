@@ -59,6 +59,8 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 ### 9 AM ET: Assemble
 - [ ] All in-person team members gather in the Launch Control Room
+- [ ] All remote team members available in virtual Lync channels
+- [ ] Curtis is on-site at NSOC in Martinsburg, WV
 
 ### 10 AM ET: Go / No Go meeting
 - [ ] All Go / No Go attendees present (per runbook)
@@ -88,9 +90,9 @@ Ad Hoc will have drafted text ready for Chris, as well as the channels and recip
 - [ ] Alert #wbc-launch-ops channel
 - [ ] Final check that monitoring dashboard is working
 
-### X PM ET: we launch
+### 11:30 PM ET: launch initiated
 
-Ad Hoc will have recommended timing of launch based on a few factors that we’re researching now: low risk Network times, low risk usage times, optimal Engineer alertness times, and optimal partner point of contact/escalation path availability times.
+This time is based on an optimzation of low risk Network times, low risk usage times, optimal Engineer alertness times, and optimal partner point of contact/escalation path availability times for incident response.
 
 - [ ] James Kassemi approves 2 PRs [PRs to be linked here]
 - [ ] Note: If James unavailable, then Alex Loehr
