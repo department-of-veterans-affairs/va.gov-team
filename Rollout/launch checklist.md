@@ -5,16 +5,16 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 ## PRE-LAUNCH 
 - [x]  Oct 2: Rachael adds Launch Status Report template to Rollout folder
 - [x] < Oct 4: Wyatt configures caching
-- [x] Oct 4 - 8: Wyatt and NSOC start traffic migration (see details in the runbook)
+- [x] Oct 4 - 8: Wyatt and ITOPS start traffic migration (see details in the runbook)
 - [x] Oct: Demian Ginther and Craig Butler complete Pentest
 - [ ] Oct 12: Rachael adds “plays” for public dissemination of preview.va.gov 
 - [ ] Oct 12: Rachael has 3 join.me rooms available for on call use
 - [x] Oct 12: Elizabeth has booked location for Launch Control Room
-- [x] < Oct 17: Wyatt coordinates load testing with NSOC, EWIS, and AWS
+- [x] < Oct 17: Wyatt coordinates load testing with ITOPS, EWIS, and AWS
 - [x] < Oct 17: Wyatt starts load testing (see details in the runbook)
 - [ ] Oct 17: Hydra posts banner on Vets.gov inviting users to try out preview.va.gov 
 - [ ] Oct 17: Clare disseminates VA comms inviting VA employees to try out preview.va.gov
-- [x] Oct 22 - 23: Curtis and/or Paul take a trip to NSOC
+- [x] Oct 22 - 23: Curtis and/or Paul take a trip to ITOPS
 - [ ] Oct 23: Josh Tuscher posts banner on VA.gov inviting Veterans to try out preview.va.gov
 - [ ] Oct 23: Clare and OIT publish blog post inviting Veterans to try out preview.va.gov
 - [ ] Oct 31 or Nov 1: Launch Dry Run and Game Day exercise!
@@ -48,7 +48,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Pin runbook (w/crisis thresholds) to channel
   - [ ] Pin monitoring dashboard URL to channel
 - [ ] Nov 5: test on call and pagerduty rotations
-- [ ] Nov 5: OIT / NSOC meeting: do not push layout changes after this, do not adjust for lower traffic, in case we need to deploy config update and pipe back to you, do not change anything without talking to the new va.gov team.
+- [ ] Nov 5: OIT / ITOPS meeting: do not push layout changes after this, do not adjust for lower traffic, in case we need to deploy config update and pipe back to you, do not change anything without talking to the new va.gov team.
 - [ ] Nov 5: post smoke test routes for top 6 actions in Rollout folder
 - [ ] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
 - [ ] Nov 6: disseminate expected resolution turnaround times in runbook
@@ -60,7 +60,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 ### 9 AM ET: Assemble
 - [ ] All in-person team members gather in the Launch Control Room
 - [ ] All remote team members available in virtual Lync channels
-- [ ] Curtis is on-site at NSOC in Martinsburg, WV
+- [ ] Curtis is on-site at ITOPS in Martinsburg, WV
 
 ### 10 AM ET: Go / No Go meeting
 - [ ] All Go / No Go attendees present (per runbook)
@@ -123,7 +123,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Engineering readout
 - [ ] DevOps readout
 - [ ] Analytics readout
-- [ ] NSOC readout
+- [ ] ITOPS readout
 - [ ] EVSS readout
 - [ ] ID.me readout
 - [ ] OIT / TeamSite readout
