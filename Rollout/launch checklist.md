@@ -98,13 +98,16 @@ This time is based on an optimzation of low risk Network times, low risk usage t
 - [ ] Note: If James unavailable, then Alex Loehr
 - [ ] Mina Farzad (with Wyatt virtual supervision) merges Launch PR [PR to be linked here]
   - [ ] Note: if Mina unavailable, then Wyatt.
+
+### 12:00 PM ET: launch!
+
 - [ ] Wyatt Walter confirms in join.me that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in join.me, loads www.va.gov
 - [ ] Wyatt Walter merges Header/Footer Injections PR [PR to be linked here]
 - [ ] Wyatt Walter confirms in join.me that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in join.me, clicks  from www.va.gov to load a teamsite-hosted page
 
-### X PM ET: Test and Monitor
+### 12:30 PM ET: Test and Monitor
 
 If any of the crisis criteria or thresholds are met, immediately start following the plays in the runbook.
 
@@ -113,7 +116,7 @@ If any of the crisis criteria or thresholds are met, immediately start following
 - [ ] Rachael sends Launch Status Report
 - [ ] Chris posts that we are live in #vetsdotgov Slack channel
 
-### X PM ET: one-hour post launch check-in
+### 1:30 PM ET: one-hour post launch check-in
 
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
@@ -131,10 +134,10 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris decides whether to continue or roll back
 - [ ] Chris disseminates decision
 
-### X PM ET: Monitor
+### 2:00 PM ET: Monitor
 - [ ] Full team watches monitoring dashboard, google analytics, social media buzz
 
-### X PM ET: end of day check-in
+### 5:00 PM ET: end of day check-in
 - [ ] All Go / No Go attendees present
 - [ ] Any emerging issues?
 - [ ] Do we need any changes to on call points of contact and 24/7 monitoring?
