@@ -1,16 +1,16 @@
-# Study 8 - Remote Usability Testing Preview.va.gov - Desktop, 10-24-2018, P5
+# Study 8 - Remote Usability Testing Preview.va.gov - Desktop, 10-24-2018, P8
 
-Steve
+Edward
 
-- 63
+- 70
 - Male
-- Caucasian/White
-- Marine Corps
-- Disability Rating = 60%
-- Postgraduate work
-- NC
+- Multi-ethnic
+- Army
+- Disability Rating = 10%
+- College graduate
+- CA
 - MHV
-- IE, PC
+- BROWSER, DEVICE
 
 
 
@@ -88,7 +88,7 @@ A few days after your appointment, you want to go back and see what your blood p
 
 
 
-## DS Logon
+## ---> DS Logon
 
 ### First Task: Check your status - 5 minutes
 
@@ -108,7 +108,7 @@ Your bank's website is not showing the amount of your last payment from VA. Wher
 
 
 
-## ID.me
+## ---> ID.me
 
 ### First Task: Check your status - 5 minutes
 
