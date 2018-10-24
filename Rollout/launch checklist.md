@@ -5,10 +5,9 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 ## PRE-LAUNCH 
 - [x]  Oct 2: Rachael adds Launch Status Report template to Rollout folder
 - [x] < Oct 4: Wyatt configures caching
-- [x] Oct 4 - 8: Wyatt and ITOPS start traffic migration (see details in the runbook)
 - [x] Oct: Demian Ginther and Craig Butler complete Pentest
 - [ ] Oct 12: Rachael adds “plays” for public dissemination of preview.va.gov 
-- [ ] Oct 12: Rachael has 3 join.me rooms available for on call use
+- [ ] Oct 12: Rachael has 3 ~~join.me rooms~~ Lync / Skype for Business dial-ins available for on call use
 - [x] Oct 12: Elizabeth has booked location for Launch Control Room
 - [x] < Oct 17: Wyatt coordinates load testing with ITOPS, EWIS, and AWS
 - [x] < Oct 17: Wyatt starts load testing (see details in the runbook)
@@ -17,6 +16,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x] Oct 22 - 23: Curtis and/or Paul take a trip to ITOPS
 - [ ] Oct 23: Josh Tuscher posts banner on VA.gov inviting Veterans to try out preview.va.gov
 - [ ] Oct 23: Clare and OIT publish blog post inviting Veterans to try out preview.va.gov
+- [x] Oct 23 - 24: Wyatt and ITOPS start traffic migration (see details in the runbook)
 - [ ] Oct 31 or Nov 1: Launch Dry Run and Game Day exercise!
   - [ ] Mime all Launch Day activities with “test” posts in the real communication channels
   - [ ] Run incident scenarios
