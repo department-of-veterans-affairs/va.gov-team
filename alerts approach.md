@@ -9,5 +9,6 @@
 # Global alert banners
 - Updateable through normal global or downtime alert processes (however they happened on Vets.gov)
 - Will be used for things like downtime notifications
+- Currently being leveraged for the "You're viewing a preview of the new VA.gov" alert
 - In the rare case that a global alert on the homepage AND a homepage alert exist at the same time, this global alert should stack directly below the homepage alert like this:
 ![alt tag](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/images-for-documentation/IMG_8045.jpg)
