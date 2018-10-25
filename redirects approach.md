@@ -11,6 +11,6 @@ I go directly to a URL that I've saved for a Vets.gov page, and there is a corre
 I'm redirected seamlessly to the specific VA.gov page, and when it loads I see a message alerting me to the fact that Vets.gov has been merged into VA.gov. 
 
 ## Scenario 3
-I have a Vets.gov page bookmarked, and there is NO corresponding page for it on VA.gov.
+I go directly to a URL that I've saved for a Vets.gov page, and there is NO corresponding page for it on VA.gov.
 
 I'm redirected seamlessly to the VA.gov home page, and when it loads I see a message alerting me to the fact that Vets.gov has been merged into VA.gov.
