@@ -171,15 +171,22 @@ Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on
 
 #### Plan
 
-1. On call party informs Rachael and James
-2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to dfined by Nov 5)***
-3. Chris makes decision to put up a maintenance page
-4. Chris disseminates decision via Slack and email (***recipients TBD***), and calls James
-5. James coordinates with on call party
-6. On call party deploys maintenance page (***issue in progress for developing this page and process***)
-7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-8. All parties stay on the joinme line until it's resolved.
-9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+1. On call party escalates issue to incident commander via Pager Duty
+1. Incident Commander updates #wbc-launch-ops channel
+1. Incident Commander will call Rachael if she doesn't respond in the channel
+1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+1. Chris makes decision to put up a maintenance page
+1. Chris disseminates decision via Slack (with @channel)and email (***recipients TBD***)
+1. DevOps on call part deploys maintenance page (***issue in progress for developing this page and process***)
+1. Incident Commander notifies Rachael that the maintenance page has been deployed
+1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report. This marks the time that the maintenance page is considered online.
+1. Open up a lync if necessary
+1. Once Incident Commander confirms that the issue is resolved, notify Rachael
+1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report indicating the issue is resolved.
+1. Chris disseminates decision to take down maintenance page via Slack (with @channel)and email (***recipients TBD***)
+1. DevOps on call party takes down the maintenance page
+
+***This may occur several times during the launch. Restart the process everytime.***
 
 ### VA.gov System Rollback
 
@@ -191,16 +198,17 @@ This constitutes a rollback to the www.va.gov system for content, while still ha
 * Engineering assessment that rollback to 100% EWIS VA proxy will alleviate the issue.
 
 #### Plan
-
-1. On call party informs Rachael and James
-2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
-3. Chris makes decision to rollback based on data in the Launch Report
-4. Chris disseminates decision via Slack and email (***recipients TBD, but must at least include OIT since traffic will be reverted to them***), and calls James
-5. James coordinates with on call party
-6. On call party deploys configuration update to revert back, and monitors grafana dashboards
-7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-8. All parties stay on the joinme line until it's resolved.
-9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+1. On call party escalates issue to incident commander via Pager Duty
+1. Incident Commander updates #wbc-launch-ops channel
+1. Incident Commander will call Rachael if she doesn't respond in the channel
+1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+1. Chris makes decision to roll back based on the data in the launch report
+1. Chris disseminates decision via Slack (with @channel)and email (***recipients TBD***)
+1. DevOps on call party performs rollback (If redirects have already been enacted from vets.gov, they should be reverted as well) ***visiting VA.gov will display old VA, visitng Vets.gov will display original page*** 
+1. DevOps on call will continue to monitor and restore Vets.gov services as necessary
+1. Incident Commander notifies Rachael that the rollback has been performed
+1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report.
+1. Chris will make the decision on next steps 
 
 If not resolved...
 
@@ -215,15 +223,17 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 
 #### Plan
 
-1. On call party informs Rachael and James
-2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
-3. Chris makes decision to rollback based on data in the Launch Report
-4. Chris disseminates decision via Slack and email (***recipients TBD, but must at least include OIT since traffic will be reverted to them***), and calls James
-5. James coordinates with on call party
-6. On call party deploys configuration update to revert back, and monitors grafana dashboards
-7. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-8. All parties stay on the joinme line until it's resolved.
-9. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
+1. On call party escalates issue to incident commander via Pager Duty
+1. Incident Commander updates #wbc-launch-ops channel
+1. Incident Commander will call Rachael if she doesn't respond in the channel
+1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+1. Chris makes decision to roll back based on the data in the launch report
+1. Chris disseminates decision via Slack (with @channel)and email (***recipients TBD***)
+1. DevOps on call party coordinates with ITOPS to remove VAEC members from the pool (If redirects have already been enacted from vets.gov, they should be reverted as well) ***visiting VA.gov will display old VA, visitng Vets.gov will display original page*** 
+1. DevOps on call will continue to monitor and restore Vets.gov services as necessary
+1. Incident Commander notifies Rachael that the rollback has been performed
+1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report.
+1. Chris will make the decision on next steps
 
 ### Other Issues
 
