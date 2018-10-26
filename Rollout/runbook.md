@@ -219,7 +219,7 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 #### Conditions
 
 * Maintenance page online for 2hrs.
-* Engineering assessment that rollback to 100% EWIS VA proxy will *not* alleviate the issues. 
+* Engineering assessment that VA system rollback will *not* alleviate the issues. 
 
 #### Plan
 
