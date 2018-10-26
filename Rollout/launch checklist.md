@@ -105,7 +105,7 @@ This time is based on an optimzation of low risk Network times, low risk usage t
 
 - [ ] Wyatt Walter confirms in join.me that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in join.me, loads www.va.gov
-- [ ] Wyatt Walter merges Header/Footer Injections PR [PR to be linked here]
+- [ ] Wyatt Walter merges Header/Footer Injections PR [PR to be linked here] (this includes redirecting old VA.gov pages to their new VA.gov counterparts)
 - [ ] Wyatt Walter confirms in join.me that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in join.me, clicks  from www.va.gov to load a teamsite-hosted page
 
@@ -137,6 +137,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris disseminates decision
 
 ### 2:00 PM ET: Monitor
+- [ ] Enact Vets.gov redirects
 - [ ] Full team watches monitoring dashboard, google analytics, social media buzz
 
 ### 5:00 PM ET: end of day check-in
