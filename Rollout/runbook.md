@@ -237,22 +237,10 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 
 ### Other Issues
 
-Follow existing SLOs, alert configurations, and standard operating procedures, with additional notification requirements after incident response initiated.
+For any scenario that doesn't exactly match those outlined here please use the incident response playbook: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/OnCall/Incident%20Response%20Playbook.md
 
-#### Examples
 
-* Login error rate increase
-* Partner service downtime / maintenance
-* Increased error rate
-
-#### Plan
-
-1. On call party informs Rachael and James
-2. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
-3. James coordinates with on call party
-4. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report
-
-# Deployment Change Times post-launch
+# Deployment Change Times post-launch (WIP)
 
 | Type | Time to Deploy | Overview |
 | --- | --- | --- |
