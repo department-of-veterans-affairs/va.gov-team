@@ -181,6 +181,15 @@ You want to get an ID that proves you are a Veteran, where would you go to get i
     - oh i used to go to eBenefits or MHV. 
       - *where would you go on this site?*
         - so I would go home. [goes to homepage from breadcrumbs] i'd go back here and I would search from this page. 
+      - *where would you go to find your dashboard of information about you?*
+        - oh i used to go to eBenefits or MHV. 
+      - *where would you go on this site?*
+        - so I would go home. [goes to homepage from breadcrumbs] i'd go back here and I would search from this page. what exactrly am i looking for?
+      - *you're looking for a dashboard of your information--information that VA has about you.*
+        - oh so typically My VA, my profile. [clicks My VA] I didnt understand your question. 
+      - *no thats no problem.* 
+      - *but go ahead and lets update this information. i dont want you to have the wrong information.* 
+        - that's great thank you. 
 - Where would you go on the site if you were in crisis? 
 - What do you think of the faces on the homepage? 
 - Did you notice the links on the left side of the page (Left nav in hubs)? Would that be useful to you?
