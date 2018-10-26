@@ -10,7 +10,7 @@ Jerome
 - Postgraduate work
 - VA
 - DS Logon
-- BROWSER, DEVICE
+- IE, PC
 
 
 
@@ -57,7 +57,11 @@ Before we start, a few things I want to mention:
 Before we look at the website, let’s start with a few warm-up questions.
 
 - Have you visited any VA webistes in the past? What was your reason for visiting? 
+  - yes. eBenefits and I forget the name of the other one offhand. 
+  - yes. look up information for benefits. look up my disability letter and sometimes research on appointments and results from those appointments and medications. 
+  - *so the other site that you used was a health site for your information.* say that again. *i said it looks like you used a health site for your appointments and information.* oh, MHV, MHV. 
 - Do you have your account information for MyHealtheVet, DS Logon, or ID.me? 
+  - I think so. do i need to log in? *yeah we may try to do that during this session.* ok. 
 
 
 
@@ -65,6 +69,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Zero Task: Homepage - 7 Minutes
 
 - This is the new homepage for va.gov, what are your first impressions?  
+  - so this is what you'll see. you're viewing the page. it's pretty simple and straight forward. 
+- what do you think about the way that its laid out?
+  - i think its fine. so using myself as an example, i don't typically, well, prescriptions, i see that thats easy, disability, check your claim/appeal, thats very important. ok, thats very important and then records. download your benefit letters. thats one i'm often looking for. ok, it looks good. 
+- ok, ok. is there anything that you don't like about it?
+  - no. 
 
 
 
