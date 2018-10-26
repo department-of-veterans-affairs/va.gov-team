@@ -1,6 +1,6 @@
 # Study 7 Participants
 
-Total participants = 17
+Total participants = 18
 
 
 
