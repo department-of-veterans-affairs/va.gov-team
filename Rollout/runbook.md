@@ -166,7 +166,7 @@ Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on
 #### Conditions
 
 * Static content error rate >= 90% for 15m
-* Static content 90th percentile latency >= 3s for 15m
+* Static content 90th percentile latency >= 5s for 15m
 * API availability 0% for 15m
 
 #### Plan
