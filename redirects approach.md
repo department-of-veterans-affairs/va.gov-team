@@ -5,6 +5,7 @@ After launch, I go directly to a URL that I've saved for a pre Nov-2018 VA.gov p
 
 **Implementation**: 
 - [Prepare stakeholders for all VA.Gov redirects (all - www., cem., and benefits.)](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13948)
+- As a subset of ^ [Get approval for TeamSite subdomains to redirect to new non-EWIS pages](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13915)
 - [Redirect specific Teamsite-hosted pages to the new corresponding VA.gov page](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13635)
 
 ## Scenario 2
