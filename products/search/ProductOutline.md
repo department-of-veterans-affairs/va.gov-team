@@ -43,7 +43,7 @@ Two phase implementation
 - Reduces confusion for users navigating throughout the site
 - Improves brand consistency for the VA
 - Expands search results to include new and old pages
-- Allows for full stylistic control over the entire page and product
+- Allows for full stylistic & functional control over the entire page and product
 
 ## KPIs
 - This product does not yet have KPIs.
