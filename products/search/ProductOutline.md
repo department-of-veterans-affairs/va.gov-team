@@ -14,7 +14,7 @@ Once va.gov relaunches, users need a way to search content across both old and n
 
 ### Business Goals
 - Create a cohesive brand across the VA through direct control of the search page layout and look
-- Maintain good relations with other VA offices by including their content in the search, and linking off to other relevant searches
+- Maintain good relations with other VA offices by including their content in the search and linking off to other relevant search tools
 
 
 ## Assumptions
