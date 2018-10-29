@@ -81,7 +81,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
   - [ ] TBD…
 - [ ] Chris makes the decision to launch
 
-### 11 AM ET: launch communicated and prep begins
+### 5 PM ET: launch communicated and prep begins
 
 Ad Hoc will have drafted text ready for Chris, as well as the channels and recipient list by Nov 5. 
 
@@ -92,7 +92,7 @@ Ad Hoc will have drafted text ready for Chris, as well as the channels and recip
 - [ ] Alert #wbc-launch-ops channel
 - [ ] Final check that monitoring dashboard is working
 
-### 11:30 AM ET: launch initiated
+### 5:30 PM ET: launch initiated
 
 This time is based on an optimzation of low risk Network times, low risk usage times, optimal Engineer alertness times, and optimal partner point of contact/escalation path availability times for incident response.
 
@@ -101,7 +101,7 @@ This time is based on an optimzation of low risk Network times, low risk usage t
 - [ ] Mina Farzad (with Wyatt virtual supervision) merges Launch PR [PR to be linked here]
   - [ ] Note: if Mina unavailable, then Wyatt.
 
-### 12:00 PM ET: launch!
+### 6:00 PM ET: launch!
 
 - [ ] Wyatt Walter confirms in join.me that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in join.me, loads www.va.gov
@@ -109,7 +109,7 @@ This time is based on an optimzation of low risk Network times, low risk usage t
 - [ ] Wyatt Walter confirms in join.me that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in join.me, clicks  from www.va.gov to load a teamsite-hosted page
 
-### 12:30 PM ET: Test and Monitor
+### 6:30 PM ET: Test and Monitor
 
 If any of the crisis criteria or thresholds are met, immediately start following the plays in the runbook.
 
@@ -118,7 +118,7 @@ If any of the crisis criteria or thresholds are met, immediately start following
 - [ ] Rachael sends Launch Status Report
 - [ ] Chris posts that we are live in #vetsdotgov Slack channel
 
-### 1:30 PM ET: one-hour post launch check-in
+### 7:30 PM ET: one-hour post launch check-in
 
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
@@ -136,11 +136,11 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris decides whether to continue or roll back
 - [ ] Chris disseminates decision
 
-### 2:00 PM ET: Monitor
+### 8:00 PM ET: Monitor
 - [ ] Enact Vets.gov redirects
 - [ ] Full team watches monitoring dashboard, google analytics, social media buzz
 
-### 5:00 PM ET: end of day check-in
+### 12:00 AM ET (Nov 8): end of day check-in
 - [ ] All Go / No Go attendees present
 - [ ] Any emerging issues?
 - [ ] Do we need any changes to on call points of contact and 24/7 monitoring?
