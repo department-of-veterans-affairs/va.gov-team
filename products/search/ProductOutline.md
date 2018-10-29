@@ -58,7 +58,7 @@ the search.gov account# for this product is 7378
 - Search V1 is implemented and accessible on preview.va.gov through the dropdown search and 404 pages
 - Search V2 is accesible in staging at https://staging.va.gov/search/?q=health (temporarily down while load testing in progress)
 - Search.gov has begun indexing preview.va.gov sitemap (soon to beocome the new www.va.gov sitemap) and is starting on the old va.gov compiled sitemap shortly
-- Phase 1 or 2 completed for load testing. Run at 15 requests per second with 0 failures
+- Phase 1 of 2 completed for load testing. Run at 15 requests per second with 0 failures
 - Phase 2 of load testing scheduled for 10.30.18 and will perform at 45-50 requests/second
 
 ## Technical Decisions
