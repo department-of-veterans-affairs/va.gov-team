@@ -24,3 +24,8 @@ I go directly to a URL that I've saved for a Vets.gov page, and there is NO corr
 
 **Implementation:**
 - ?
+
+## Scenario 4
+After launch, I go to a preview.va.gov page that I've saved.
+
+**Experience:** I land on the corresponding www.VA.gov page.
