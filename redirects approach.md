@@ -8,6 +8,7 @@ I go directly to a URL that I've saved for a pre Nov-2018 VA.gov page, but it ha
 I go directly to a URL that I've saved for a Vets.gov page, and there is a corresponding page for it on VA.gov.
 
 **Experience:** I'm redirected seamlessly to the specific VA.gov page, and when it loads I see a message alerting me to the fact that Vets.gov has been merged into VA.gov. 
+
 **Implementation:**
 - [Build Vets.gov to VA.gov page redirects with onboarding modal](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12060)
 - [Set Vets.gov to VA.gov redirect onboarding modal to happen every time, until we disable](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14556)
