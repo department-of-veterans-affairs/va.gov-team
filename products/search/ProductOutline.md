@@ -19,14 +19,14 @@ Once va.gov relaunches, users need a way to search content across both old and n
 
 ## Assumptions
 - the search.gov endpoint will function as well or better than the current search.gov implementation on vets.gov
-- users prefer that the content for other the following content on separate search tools:
+- users prefer to find content for the following search tools on separate pages (and not within the search itself):
    1. Look up Board of Veterans' Appeals (BVA) decisions — https://www.index.va.gov/search/va/bva.jsp
    2. Search VA reference materials (WARMS) —https://www.index.va.gov/search/va/va_adv_search.jsp?SQ=www.benefits.va.gov/warms
    3. Find VA forms and publications — https://www.index.va.gov/search/va/va_adv_search.jsp?SQ=www.va.gov/vaforms,www.va.gov/vapubs,www.va.gov/vhapublications,www.vba.va.gov/pubs/forms
    4. Explore and apply for open VA jobs — https://www.vacareers.va.gov/job-search/index.asp
 
 
-## Requirements
+## Scope
 - the header / footer must match the header / footer on the new VA.gov to allow user navigation and UX consistency
 - the layout of the page must be accessible to changes
 - the sidebar must have links to the four tools listed under assumptions above
@@ -65,6 +65,9 @@ the search.gov account# for this product is 7378
 - a new search.gov account was created to separate out the vets.gov search from the new va.gov search
    - va.gov account # is 7378
 - search needs to use the i14y endpoint from search.gov. [API instructions here](https://search.usa.gov/sites/7378/api_instructions)
+
+## Product Decisions
+- Best bets was determined out of scope pre-launch so that we could launch the V2 product on time for Nov 7
 
 ## Team
 
