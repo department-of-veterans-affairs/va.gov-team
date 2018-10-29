@@ -7,14 +7,14 @@
 - Search.gov POC: Dawn McCleskey
 
 ## User Problem Statement
-Once va.gov relaunches, users need a way to search content across both old and new va.gov properties.
+Once va.gov relaunches, users need a way to search content across both old and new va.gov properties
 
 ### User Goals
-- Find relevant content on the relevant property when performing a search.
+- Find relevant content on the relevant property when performing a search
 
 ### Business Goals
-- Create a cohesive brand across the VA through direct control of the search page layout and look.
-- Maintain good relations with other VA offices by including their content in the search, and linking off to other relevant searches.
+- Create a cohesive brand across the VA through direct control of the search page layout and look
+- Maintain good relations with other VA offices by including their content in the search, and linking off to other relevant searches
 
 
 ## Assumptions
