@@ -34,7 +34,7 @@ It’s hard to navigate all of the VA’s different web properties, being served
 - Inject scripts and stylesheets on the teamsite pages to hide the default header / footer and display the preview.va.gov header / footer.
 
 ## Value Propositions
-- Reduces confusion for users navigation throughout the site
+- Reduces confusion for user navigation throughout the site
 - Improves brand consistency for the VA
 - Comradery cause we’re all on the same team
 
