@@ -84,9 +84,9 @@ the search.gov account# for this product is 7378
 ### Previous www.va.gov
 ![screen shot 2018-10-29 at 9 31 20 am](https://user-images.githubusercontent.com/21130918/47652844-6ce21f00-db5d-11e8-90dd-080a9c397f0b.png)
 
-#### Preview.va.gov V1 (soon to be deprecated)
+### Preview.va.gov V1 (soon to be deprecated)
 
 ![screen shot 2018-10-29 at 9 41 24 am](https://user-images.githubusercontent.com/21130918/47653534-2d1c3700-db5f-11e8-89d4-5182d7743add.png)
 
-#### Preview.va.gov V2 (upcoming www.va.gov relaunch on Nov 7)
+### Preview.va.gov V2 (upcoming www.va.gov relaunch on Nov 7)
 - WIP, screenshot coming shortly
