@@ -33,3 +33,12 @@ After launch, I go to a preview.va.gov page that I've saved.
 
 **Implementation:**
 - ?
+
+## Scenario 5 (solution to be implemented in the weeks + months post-launch)
+After launch, when I sign in on a team-site hosted page, once the login flow is over, I need to stay on the page I was on when I clicked Sign In / Sign Up (instead of getting redirected to VA.gov home).
+
+#### Reason we can't have a solution for ^ in place at launch:
+
+With the way the authentication/verification API is set up right now, as a VA.gov user, if I log in and navigate to a compromised Teamsite page, through that compromised page a hacker could get all my PII and take actions on my behalf. (This is especially risky on sub-domains since we don't control the Content Security Policy there).
+
+We need to adjust the API to provide less data, so we minimize the amount of actions that could be taken, and the amount of data that's available to a hacker. This gets more complicated when we introduce more data-intensive features in the shared header/footer like User Notifications.
