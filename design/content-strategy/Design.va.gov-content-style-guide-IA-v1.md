@@ -1,6 +1,6 @@
-##Consolidated VA.gov content style guide 
+## Consolidated VA.gov content style guide 
 
-#design.va.gov
+# design.va.gov
 
 Working notes shown {like this}. 
 
@@ -8,7 +8,7 @@ Alpha for nav structure, except for the first 2 items (Content principles, which
 
 
 
-##VA.gov content style guide
+## VA.gov content style guide
 
 Content principles  {landing page for Content vertical of design.va.gov - SUPER short - plain language, conversational, human, va.gov}
 
