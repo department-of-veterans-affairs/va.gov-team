@@ -2,7 +2,10 @@
 I go directly to a URL that I've saved for a pre Nov-2018 VA.gov page, but it has been replaced with a new VA.gov page hosted on the VFT.
 
 **Experience:** I'm redirected seamlessly to the correct new VA.gov page.
+
 **Implementation**: 
+- []()
+- []()
 
 ## Scenario 2
 I go directly to a URL that I've saved for a Vets.gov page, and there is a corresponding page for it on VA.gov.
@@ -12,6 +15,7 @@ I go directly to a URL that I've saved for a Vets.gov page, and there is a corre
 **Implementation:**
 - [Build Vets.gov to VA.gov page redirects with onboarding modal](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12060)
 - [Set Vets.gov to VA.gov redirect onboarding modal to happen every time, until we disable](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14556)
+- [Redirect Specific Vets.Gov Pages to corresponding new VA.gov pages](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13928)
 
 ## Scenario 3
 I go directly to a URL that I've saved for a Vets.gov page, and there is NO corresponding page for it on VA.gov.
