@@ -1,5 +1,5 @@
 ## Scenario 1
-I go directly to a URL that I've saved for a pre Nov-2018 VA.gov page, but it has been replaced with a new VA.gov page hosted on the VFT.
+I go directly to a URL that I've saved for a pre Nov-2018 VA.gov page, but it has been replaced with a new VA.gov page hosted on the new Platform.
 
 **Experience:** I'm redirected seamlessly to the correct new VA.gov page.
 
