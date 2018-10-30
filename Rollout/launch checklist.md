@@ -6,21 +6,19 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x]  Oct 2: Rachael adds Launch Status Report template to Rollout folder
 - [x] < Oct 4: Wyatt configures caching
 - [x] Oct: Demian Ginther and Craig Butler complete Pentest
-- [ ] Oct 12: Rachael adds “plays” for public dissemination of preview.va.gov 
-- [ ] Oct 12: Rachael has 3 ~~join.me rooms~~ Lync / Skype for Business dial-ins available for on call use
+- [x] Oct 12: Rachael adds “plays” for public dissemination of preview.va.gov 
 - [x] Oct 12: Elizabeth has booked location for Launch Control Room: 
 - [x] < Oct 17: Wyatt coordinates load testing with ITOPS, EWIS, and AWS
 - [x] < Oct 17: Wyatt starts load testing (see details in the runbook)
-- [ ] Oct 17: Hydra posts banner on Vets.gov inviting users to try out preview.va.gov 
-- [ ] Oct 17: Clare disseminates VA comms inviting VA employees to try out preview.va.gov
+- [x] Oct 17: Hydra posts banner on Vets.gov inviting users to try out preview.va.gov 
+- [x] < Oct 17: Clare coordinates comms about preview.va.gov
 - [x] Oct 22 - 23: Curtis and/or Paul take a trip to ITOPS
-- [ ] Oct 23: Josh Tuscher posts banner on VA.gov inviting Veterans to try out preview.va.gov
-- [ ] Oct 23: Clare and OIT publish blog post inviting Veterans to try out preview.va.gov
 - [x] Oct 23 - 24: Wyatt and ITOPS start traffic migration (see details in the runbook)
 - [ ] Oct 31 or Nov 1: Launch Dry Run and Game Day exercise!
   - [ ] Mime all Launch Day activities with “test” posts in the real communication channels
   - [ ] Run incident scenarios
   - [ ] Outbrief
+- [ ] < Nov 1: post banner on VA.gov inviting Veterans to try out preview.va.gov
 - [ ] < Nov 1: Chris Gansen (lead ops engineer for healthcare.gov) reviews:
   - [ ] Testing posture
   - [ ] Monitoring posture
@@ -28,9 +26,10 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Incident Management Plan
   - [ ] Launch checklist
   - [ ] Ops Readiness Report
-- [ ] < / = Nov 1: Working Group + Digital Modernization council Go / No Gos
-- [ ] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 special launch check-ins
-- [ ] Nov 4: #wbc-launch-ops channel up in slack
+- [ ] Nov 2: Winnie has 3 ~~join.me rooms~~ Lync / Skype for Business dial-ins available for on call use
+- [ ] Nov 2: Rachael sends calendar invitations for Nov 7 launch Go / No Go meeting
+- [ ] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 post-launch check-ins
+- [ ] Nov 4: open #wbc-launch-ops channel up in slack
   - [ ] Chris Johnston added
   - [ ] James Kassemi added
   - [ ] Wyatt Walter added
@@ -40,29 +39,26 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Chris Gansen added
   - [ ] Patrick Vinograd added
   - [ ] Kam Karshenas
-  - [ ] [TBD Engineer] added
   - [ ] Paul Smith added
   - [ ] Post ROEs for this channel and pin to channel
-  - [ ] Pin incident response to channel
-  - [ ] Pin Status Report templates to channel
-  - [ ] Pin decision communication templates to channel
   - [ ] Pin runbook (w/crisis thresholds) to channel
+  - [ ] Pin incident response docs to channel
+  - [ ] Pin comms templates to channel
   - [ ] Pin monitoring dashboard URL to channel
 - [ ] Nov 5: test on call and pagerduty rotations
-- [ ] Nov 5: OIT / ITOPS meeting: do not push layout changes after this, do not adjust for lower traffic, in case we need to deploy config update and pipe back to you, do not change anything without talking to the new va.gov team.
-- [ ] Nov 5: post smoke test routes for top 6 actions in Rollout folder
+- [ ] Nov 5: OIT / ITOPS meeting/communications: preparing for pausing layout changes, and for being at the ready to have traffic piped back in the event we run into an incident in the next few days.
+- [ ] Nov 5: post smoke test routes for top 6 actions
 - [ ] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
 - [ ] Nov 6: disseminate expected resolution turnaround times in runbook
 
 ## LAUNCH DAY: NOVEMBER 7, 2018
 
-In order to create the smoothest launch environment, it is beneficial to establish clear launch criteria early, that’s why we have it due in the checklist above by Nov 5. This allows the team to make the simplest decisions possible.
+In order to create the smoothest launch environment, it is beneficial to establish clear launch criteria early, so the team can make the simplest, clearest decisions possible in the event an incident arises.
 
 ### 9 AM ET: Assemble
 - [ ] All in-person technical team members gather in the technical Launch Control Room
 - [ ] All remote technical team members available in virtual Lync channels
 - [ ] Curtis is on-site at ITOPS in Martinsburg, WV
-- [ ] All stakeholders gather in the DSVA Launch Room
 
 ### 10 AM ET: Go / No Go meeting
 - [ ] All Go / No Go attendees present (per runbook)
@@ -78,47 +74,46 @@ In order to create the smoothest launch environment, it is beneficial to establi
   - [ ] X is true of social media buzz
   - [ ] 100% of www.va.gov traffic is flowing to production VAEC
   - [ ] AWS is ready for expected traffic
-  - [ ] TBD…
+  - [ ] etc... to be defined
 - [ ] Chris makes the decision to launch
+- [ ] Chris disseminates the decision via Slack and email
 
-### 11 AM ET: launch communicated and prep begins
+### 11:00 AM ET: launch preparation begins
 
-Ad Hoc will have drafted text ready for Chris, as well as the channels and recipient list by Nov 5. 
-
-- [ ] All on-site parties are on site
-- [ ] Join.me is opened for remote parties
-- [ ] Chris disseminates decision via slack and email
+- [ ] Winnie opens the Lync meetings opened for remote parties
+- [ ] Technical launch groups confirm presence and connectivity 
 - [ ] Wyatt disables automated production deployments
-- [ ] Alert #wbc-launch-ops channel
-- [ ] Final check that monitoring dashboard is working
+- [ ] Rachael alerts #wbc-launch-ops channel
+- [ ] Rachael, Chris, and Wyatt check that monitoring dashboard is working
 
-### 11:30 AM ET: launch initiated
-
-This time is based on an optimzation of low risk Network times, low risk usage times, optimal Engineer alertness times, and optimal partner point of contact/escalation path availability times for incident response.
+### 5:30 PM ET: launch initiated
 
 - [ ] James Kassemi approves 2 PRs [PRs to be linked here]
 - [ ] Note: If James unavailable, then Alex Loehr
-- [ ] Mina Farzad (with Wyatt virtual supervision) merges Launch PR [PR to be linked here]
-  - [ ] Note: if Mina unavailable, then Wyatt.
+- [ ] Merge Launch PR [PR to be linked here]
 
-### 12:00 PM ET: launch!
+### 6:00 PM ET: launch complete!
 
-- [ ] Wyatt Walter confirms in join.me that deployment is complete
-- [ ] Chris Johnston (or anyone), while screensharing in join.me, loads www.va.gov
+- [ ] Wyatt Walter confirms in Lync that the deployment is complete
+- [ ] Chris Johnston (or anyone), while screensharing, loads www.va.gov
 - [ ] Wyatt Walter merges Header/Footer Injections PR [PR to be linked here] (this includes redirecting old VA.gov pages to their new VA.gov counterparts)
 - [ ] Wyatt Walter confirms in join.me that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in join.me, clicks  from www.va.gov to load a teamsite-hosted page
+- [ ] Rachael disseminates Launch Status Report details in Slack and email
 
-### 12:30 PM ET: Test and Monitor
 
-If any of the crisis criteria or thresholds are met, immediately start following the plays in the runbook.
+### 6:30 PM ET: Test, do immediate post-launch items, monitor
 
-- [ ] Full team watches monitoring dashboard, google analytics, social media buzz
+If any of the crisis criteria are met, immediately start following the plays in the runbook.
+
 - [ ] Veteran Facing Tools implementation teams run smoke tests for products in their portfolios
-- [ ] Rachael sends Launch Status Report
-- [ ] Chris posts that we are live in #vetsdotgov Slack channel
+- [ ] Merge PR for turning off T&C for specific health tools that - on Vets.gov - only presented themselves if you'd tried to access the Health tools for the first time.
+- [ ] Merge PR to remove the Google “disallow” function for Search and change the search indexing files from preview to www
+- [ ] Full team watches monitoring dashboard, google analytics, social media buzz
+- [ ] Rachael disseminates Launch Status Report details in Slack and email
 
-### 1:30 PM ET: one-hour post launch check-in
+
+### 7:30 PM ET: one-hour post launch check-in
 
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
@@ -133,12 +128,13 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] ID.me readout
 - [ ] OIT / TeamSite readout
 - [ ] MHV readout
-- [ ] Chris decides whether to continue or roll back
-- [ ] Chris disseminates decision
+- [ ] Chris decides whether any runbook plays are needed
+- [ ] Rachael disseminates Launch Status Report details in Slack and email
 
-### 2:00 PM ET: Monitor
+### 8:00 PM ET: Enact remaining redirects and continue monitoring
 - [ ] Enact Vets.gov redirects
-- [ ] Full team watches monitoring dashboard, google analytics, social media buzz
+- [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
+
 
 ### 5:00 PM ET: end of day check-in
 - [ ] All Go / No Go attendees present
@@ -149,13 +145,42 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris disseminates decision
 - [ ] Wyatt re-enables automated deployments
 
-## POST-LAUNCH NOV 7 - 5 PM ET NOV 9
+## POST-LAUNCH: NOVEMBER 8, 2018
 
-- [ ] Merge PR for turning off T&C for specific health tools that - on Vets.gov - only presented themselves if you'd tried to access the Health tools for the first time.
-- [ ] Merge PR to remove the Google “disallow” function for Search and change the search indexing files from preview to www
-- [ ] Wyatt and TeamSite reps work together to resolve CSP errors
+### 9:30 AM ET: morning check-in
+Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
-24/7 monitoring and special on call coverage continues. During this time, for security issues, our reporting chain is to our security officer, which is a slight divergence from: 1-Guy Chris.
+- [ ] All Go / No Go attendees present
+- [ ] Product Lead readout
+- [ ] Call Center readout
+- [ ] Engineering readout
+- [ ] DevOps readout
+- [ ] Analytics readout
+- [ ] ITOPS readout
+- [ ] EVSS readout
+- [ ] ID.me readout
+- [ ] OIT / TeamSite readout
+- [ ] MHV readout
+- [ ] Chris decides whether any runbook plays are needed
+- [ ] Rachael disseminates Launch Status Report details in Slack and email
+
+## POST-LAUNCH NOV 9, 2018
+### 9:30 AM ET: morning check-in
+Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
+
+- [ ] All Go / No Go attendees present
+- [ ] Product Lead readout
+- [ ] Call Center readout
+- [ ] Engineering readout
+- [ ] DevOps readout
+- [ ] Analytics readout
+- [ ] ITOPS readout
+- [ ] EVSS readout
+- [ ] ID.me readout
+- [ ] OIT / TeamSite readout
+- [ ] MHV readout
+- [ ] Chris decides whether any runbook plays are needed
+- [ ] Rachael disseminates Launch Status Report details in Slack and email
 
 Daily check-ins occur with all Go / No Go attendees invited, to continue to be available for feedback on emerging issues.
 
@@ -163,4 +188,6 @@ Daily check-ins occur with all Go / No Go attendees invited, to continue to be a
 
 Back to standard on call coverage via pager duty.
 - [ ] Merge PR for 301 redirects
-- [ ] 
+- [ ] Wyatt and TeamSite work together to resolve CSP errors
+
+*Note: This document is confidential and deliberative*
