@@ -12,17 +12,15 @@
 - Implementation: Rachael Roueché, Mina Farzad, Elizabeth Lewis
 - Marketing and Communications: Clare Martorana, Mandi Lindner
 - Analytics: Tony Whittaker, Ryan Luu
-- **NSOC: Kevin Williams?**
-- **EWIS: ?**
-- **ID.me: ?**
-- **OIT: Steve Walker?**
-- **Call Center: Pete Smith (VA311)?**
-- **MHV: Carnetta Scruggs? Barry Egbert (Bylight)?**
-- **TeamSite: Josh Tuscher?**
-- **AWS technical manager: ?**
-- **EVSS: ?**
-- **Appeals: ?**
-- **MVI: ?**
+- **NSOC:**
+- **EWIS:**
+- **ID.me:**
+- **OIT:**
+- **Call Center:**
+- **VA311**: 
+- **MHV:**
+- **TeamSite:**
+- **AWS technical manager:**
 
 # "On Call" escalation contacts
 
@@ -35,18 +33,15 @@
 - Design and IA issues: Rachael Roueche (report out to Chris Johnston, Andy Lewendowski, Jeff Barnes)
 - Content issues: Rachael Roueche (report out to Melissa Schaff, Chris Johnston)
 - Marketing and communications issues: Rachael Roueche (hand off to Clare Martorana, Mandi Lindner, Chris Johnston)
-- **NSOC: ?**
-- **EWIS: ?**
-- **ID.me: ?**
-- **OIT: ?**
-- **Call Center: ?**
-- **MHV: ?**
-- **TeamSite: Josh Tuscher?**
-- **AWS technical manager: ?**
-- **EVSS: ?**
-- **Appeals: ?**
-- **MVI: ?**
-
+- **NSOC:**
+- **EWIS:**
+- **ID.me:**
+- **OIT:**
+- **Call Center:**
+- **VA311**: 
+- **MHV:**
+- **TeamSite:**
+- **AWS technical manager:**
 
 ### Who the escalation contacts can work with for implementation in an emergency:
 
@@ -88,18 +83,17 @@ Alex, Paul, Curtis, James travel to NSOC in WV to meet team and establish workin
 On call escalation contacts will be responsive at all hours via cell phone as needed to support emergency pre-launch, launch, and post-launch needs.
 
 The following members will be on site at NSOC in West Virginia:
-- [ ] Curtis?
+- [ ] Curtis
 
-The following members will be in-person ***Location with good internet TBD***" from 9am to 7pm.
+The following members will be in-person from 9 AM to 8 PM ET.
 
 - Chris Johnston
-- Alex Loehr ?
 - James Kassemi
-- Paul Smith  (if not at NSOC)
-- Curtis Mejeur (if not at NSOC)
+- Paul Smith
 - Elizabeth Lewis
 - Rachael Roueche
-- ***Others TBD***
+- Wyatt Walter
+- Others TBD...
 
 ### Nov 10 - onward (if launch is stable)
 
@@ -112,64 +106,15 @@ Back to standard on call coverage via pager duty
 *thresholds and plays still tbd for these scenarios: major tweet, hack, errors in teamsite injections, horrible user feedback,
 call center totally overwhelmed*
 
-## Traffic migration
-Approach: have caching configured and tuned on the reverse proxies, and then work with NSOC's awareness to start pointing all www.va.gov traffic to production VAEC servers. 
+## Maintenance Page
 
-### Happy Path
-
-1. Start call with NSOC
-1. Wyatt routes 5% of production www.va.gov traffic through production VAEC
-1. After 15 min, if static content mean 15m error rate < 99.9% and static content 90th percentile 15m latency < 3 seconds, move to next step
-1. Wyatt routes 15% of production www.va.gov traffic through production VAEC
-1. After 10 minutes end the call with NSOC
-1. Brian disseminates Load Testing Status Report
-1. After 24 hours, if static content mean 24h error rate < 99.9% and static content 90th percentile 24h latency < 3 seconds, move to next step
-1. Wyatt routes 50% of production www.va.gov traffic through production VAEC
-1. Brian disseminates Load Testing Status Report
-1. After the weekend, if the latest static content mean 24h error rate < 99.9% and static content 90th percentile 15m latency < 3 seconds (not including partner service downtime or scheduled maintenance)
-1. Wyatt routes 100% of production www.va.gov traffic through production VAEC
-1. After 24 hours, if static content mean 15m error rate < 99.9% and static content 90th percentile 15m latency < 3 seconds, move to next step
-1. Brian disseminates Load Testing Status Report
-1. Continue forward, and respond to incidents based on existing SLOs and alert rules.
-
-### Static Content Error rate >= 99.9% or Static Content 90th percentile latency >= 3 seconds
-
-For the steps above, if the error rate and 90th percentile latency measurements trigger a stop at any stage, 100% of traffic should be rolled back to the initial pool configuration, and engineering will assess and replan the traffic migration.
-
-Once 100% of traffic is routed at acceptable error rates and latency measurements for 24h, engineers will address issues based on existing SLOs and alert rules.
-
-## Load Testing
-
-We’re going to spend some time hardening our configuration for partner service integrations and API requests with preemptive scaling. We will not be running additional per product load tests, and will rely on existing testing that’s been done by those teams.
-
-Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on local HTML assets and larger local assets (images, css, javascript), as well as proxied HTML assets, and lager proxied assets (images, css, javascript).
-
-### Happy Path
-
-
-1. establish baselines with traffic logs from www.va.gov
-1. establish expected traffic requirements based on google analytics from previous major announcements / high traffic periods
-1. load test local static traffic (small assets, large assets)
-1. load test proxied traffic (small assets, large assets)
-1. load test against representative traffic from baselines
-
-***Details of the plays for crisis management to be defined by Oct 4***
-
-## Dissemination of preview.va.gov
-
-***Details of the plays for crisis management to be defined by Oct 12th***
-
-## Launch Crises
-
-### Maintenance Page
-
-#### Conditions
+### Conditions
 
 * Static content error rate >= 90% for 15m
 * Static content 90th percentile latency >= 5s for 15m
 * API availability 0% for 15m
 
-#### Plan
+### Plan
 
 1. On call party escalates issue to incident commander via Pager Duty
 1. Incident Commander updates #wbc-launch-ops channel
@@ -188,16 +133,16 @@ Then we'll coordinate with NSOC, EWIS, and AWS and perform load tests focused on
 
 ***This may occur several times during the launch. Restart the process everytime.***
 
-### VA.gov System Rollback
+## VA.gov System Rollback
 
 This constitutes a rollback to the www.va.gov system for content, while still handling 100% of requests through our servers.
 
-#### Conditions
+### Conditions
 
 * Maintenance page online for 2hrs. 
 * Engineering assessment that rollback to 100% EWIS VA proxy will alleviate the issue.
 
-#### Plan
+### Plan
 1. On call party escalates issue to incident commander via Pager Duty
 1. Incident Commander updates #wbc-launch-ops channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
@@ -212,16 +157,16 @@ This constitutes a rollback to the www.va.gov system for content, while still ha
 
 If not resolved...
 
-### VA.gov EWIS Rollback
+## VA.gov EWIS Rollback
 
 This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire on Oct 4 off of our servers and back to the configuration < Oct 4.
 
-#### Conditions
+### Conditions
 
 * Maintenance page online for 2hrs.
 * Engineering assessment that VA system rollback will *not* alleviate the issues. 
 
-#### Plan
+### Plan
 
 1. On call party escalates issue to incident commander via Pager Duty
 1. Incident Commander updates #wbc-launch-ops channel
@@ -235,12 +180,12 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report.
 1. Chris will make the decision on next steps
 
-### Other Issues
+## Other Issues
 
-For any scenario that doesn't exactly match those outlined here please use the incident response playbook: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/OnCall/Incident%20Response%20Playbook.md
+For any scenario that doesn't match those outlined here please use the incident response playbook: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/OnCall/Incident%20Response%20Playbook.md
 
 
-# Deployment Change Times post-launch (WIP)
+# Deployment Change Times post-launch (Work In Progress, numbers need to be increased to include work beyond purely technical deployment pipeline timing)
 
 | Type | Time to Deploy | Overview |
 | --- | --- | --- |
@@ -254,3 +199,5 @@ For any scenario that doesn't exactly match those outlined here please use the i
 | Reverse Proxy Rebuild / Deploy | 16m | |
 | Forward Proxy Rebuild / Deploy | 5m | |
 
+
+*Note: This document is confidential and deliberative*
