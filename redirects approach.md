@@ -39,6 +39,28 @@ After launch, when I sign in on a team-site hosted page, once the login flow is 
 
 #### Reason we can't have a solution for ^ in place at launch:
 
-With the way the authentication/verification API is set up right now, as a VA.gov user, if I log in and navigate to a compromised Teamsite page, through that compromised page a hacker could get all my PII and take actions on my behalf. (This is especially risky on sub-domains since we don't control the Content Security Policy there).
+With the way the authentication/verification API is set up right now, as a VA.gov user, if I log in and navigate to a compromised sub-domain Teamsite page, through that compromised page a hacker could get all my PII and take actions on my behalf. (This is especially risky on sub-domains since we don't control the Content Security Policy there. Anything on www.va.gov, even if Teamsite hosted, we control the Content Security Policy, so if a hacker gains control there, the CSP will prevent the person from doing anything w/that info. Kind of like a firewall, they can get in, but they can't get any data out).
 
 We need to adjust the API to provide less data, so we minimize the amount of actions that could be taken, and the amount of data that's available to a hacker. This gets more complicated when we introduce more data-intensive features in the shared header/footer like User Notifications.
+
+### Choices:
+
+A. Taken back to www.va.gov domain for sign in, and then teamsite page makes a binary request: are you logged in or not?
+
+Problem: once the user is back on the subdomain that site still has to make a request back to the API to determine whether the user is logged in. Need granularity, but don't have a system for doing that right now.
+
+LOE: discuss w/Patrick, but may make sense to migrate APIs to services and utilize the system in place there. Provide consumer keys for cem. and benefits. and allow those to be requests that go through Kong. Alternatively, do it within Rails.
+
+B. Set up a proxy for cem. and benefits.
+
+Problem: solves it for those 2 instances ^ but isn't a system/holistic/scalable solution.
+
+LOE: 
+
+C. Some solution that enables us to know if someone is logged in or not, w/o making an API call? So we could display something different for Sign In if they're signed in at least (w/o having to display name etc).
+
+D. Some UX solution getting at the concept of: "go back to VA.gov if you want to log in and do stuff"
+
+LOE: desgining the experience, FE work, and removing Sign In / Sign Up from teamsite
+
+Problem: different experience across page....
