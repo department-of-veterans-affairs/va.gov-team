@@ -57,7 +57,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 ### 9 AM ET: Assemble
 - [ ] All in-person technical team members gather in the technical Launch Control Room
-- [ ] All remote technical team members available in virtual Lync channels
+- [ ] All remote technical team members available in Go / No Go Lync channel
 - [ ] Curtis is on-site at ITOPS in Martinsburg, WV
 
 ### 10 AM ET: Go / No Go meeting
@@ -80,7 +80,6 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 ### 11:00 AM ET: launch preparation begins
 
-- [ ] Winnie opens the Lync meetings opened for remote parties
 - [ ] Technical launch groups confirm presence and connectivity 
 - [ ] Wyatt disables automated production deployments
 - [ ] Rachael alerts #wbc-launch-ops channel
@@ -94,11 +93,11 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 ### 6:00 PM ET: launch complete!
 
-- [ ] Wyatt Walter confirms in Lync that the deployment is complete
+- [ ] Wyatt Walter confirms in Skype that the deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing, loads www.va.gov
 - [ ] Wyatt Walter merges Header/Footer Injections PR [PR to be linked here] (this includes redirecting old VA.gov pages to their new VA.gov counterparts)
-- [ ] Wyatt Walter confirms in join.me that deployment is complete
-- [ ] Chris Johnston (or anyone), while screensharing in join.me, clicks  from www.va.gov to load a teamsite-hosted page
+- [ ] Wyatt Walter confirms in Skype that deployment is complete
+- [ ] Chris Johnston (or anyone), while screensharing in Skype, clicks  from www.va.gov to load a teamsite-hosted page
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
 
