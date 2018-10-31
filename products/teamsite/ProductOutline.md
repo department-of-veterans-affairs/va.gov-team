@@ -23,9 +23,9 @@ It’s hard to navigate all of the VA’s different web properties, being served
 - It is technically possible to replicate the functionality of the preview.va.gov header/footer across teamsite properties.
 - We can create a consistent experience for users will feel like it is a consistent experience by replacing the header / footer on teamsite properties.
 
-## Scope
+## Scope for Nov 7 Launch
 - The header / footer from preview.va.gov should function on the following pages:
-   1. Any www.va.gov page that uses teamsite 
+   1. Any www.va.gov page that uses teamsite
    2. benefits.va.gov pages 
    3. cem.va.gov pages 
    4. www.choose.va.gov pages
@@ -36,7 +36,7 @@ It’s hard to navigate all of the VA’s different web properties, being served
 ## Value Propositions
 - Reduces confusion for user navigation throughout the site
 - Improves brand consistency for the VA
-- Comradery cause we’re all on the same team
+- Comradery 'cause we’re all on the same team
 
 ## KPIs
 - This product does not yet have KPIs.
