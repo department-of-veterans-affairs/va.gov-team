@@ -26,7 +26,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Incident Management Plan
   - [ ] Launch checklist
   - [ ] Ops Readiness Report
-- [ ] Nov 2: Winnie has 3 ~~join.me rooms~~ Lync / Skype for Business dial-ins available for on call use
+- [ ] Nov 2: Winnie has 3 ~~join.me rooms~~ Skype for Business dial-ins available for on call use
 - [ ] Nov 2: Rachael sends calendar invitations for Nov 7 launch Go / No Go meeting
 - [ ] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 post-launch check-ins
 - [ ] Nov 4: open #wbc-launch-ops channel up in slack
@@ -87,7 +87,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 ### 5:30 PM ET: launch initiated
 
-- [ ] James Kassemi approves 2 PRs [PRs to be linked here] (Note: If James unavailable, then Alex Loehr)
+- [ ] James Kassemi approves 3 PRs [PRs to be linked here for launch, header/footer injections, and Vets.gov redirects] (Note: If James unavailable, then Alex Loehr)
 - [ ] Merge Launch PR [PR to be linked here]
 
 ### 6:00 PM ET: launch complete!
@@ -110,7 +110,6 @@ If any of the crisis criteria are met, immediately start following the plays in 
 - [ ] Full team watches monitoring dashboard, google analytics, social media buzz
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
-
 ### 7:30 PM ET: one-hour post launch check-in
 
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
@@ -131,7 +130,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
 ### 8:00 PM ET: Enact remaining redirects and continue monitoring
-- [ ] Enact Vets.gov redirects
+- [ ] Merge Vets.gov redirects PR [PR to be linked here]
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
 - [ ] Wyatt re-enables automated deployments
 
