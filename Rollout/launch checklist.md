@@ -83,12 +83,11 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Technical launch groups confirm presence and connectivity 
 - [ ] Wyatt disables automated production deployments
 - [ ] Rachael alerts #wbc-launch-ops channel
-- [ ] Rachael, Chris, and Wyatt check that monitoring dashboard is working
+- [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard is working
 
 ### 5:30 PM ET: launch initiated
 
-- [ ] James Kassemi approves 2 PRs [PRs to be linked here]
-- [ ] Note: If James unavailable, then Alex Loehr
+- [ ] James Kassemi approves 2 PRs [PRs to be linked here] (Note: If James unavailable, then Alex Loehr)
 - [ ] Merge Launch PR [PR to be linked here]
 
 ### 6:00 PM ET: launch complete!
@@ -128,20 +127,12 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] OIT / TeamSite readout
 - [ ] MHV readout
 - [ ] Chris decides whether any runbook plays are needed
+- [ ] Do we need any changes to on call points of contact and 24/7 monitoring?
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
 ### 8:00 PM ET: Enact remaining redirects and continue monitoring
 - [ ] Enact Vets.gov redirects
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
-
-
-### 5:00 PM ET: end of day check-in
-- [ ] All Go / No Go attendees present
-- [ ] Any emerging issues?
-- [ ] Do we need any changes to on call points of contact and 24/7 monitoring?
-- [ ] Document who’s allowed to get Chris out of bed
-- [ ] Chris decides whether to continue or roll back
-- [ ] Chris disseminates decision
 - [ ] Wyatt re-enables automated deployments
 
 ## POST-LAUNCH: NOVEMBER 8, 2018
@@ -163,7 +154,10 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris decides whether any runbook plays are needed
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
+Wyatt and TeamSite will work together to resolve CSP errors if they / as they come up.
+
 ## POST-LAUNCH NOV 9, 2018
+
 ### 9:30 AM ET: morning check-in
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
@@ -181,12 +175,10 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris decides whether any runbook plays are needed
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
-Daily check-ins occur with all Go / No Go attendees invited, to continue to be available for feedback on emerging issues.
-
 ## NOV 10 ONWARD
 
 Back to standard on call coverage via pager duty.
+
 - [ ] Merge PR for 301 redirects
-- [ ] Wyatt and TeamSite work together to resolve CSP errors
 
 *Note: This document is confidential and deliberative*
