@@ -86,9 +86,11 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 ### 5:30 PM ET: launch initiated
 
+- [ ] Technical teams dial back into the wbc-launch-ops Skype meeting
+- [ ] Chris confirms verbally that we are good to launch
 - [ ] Rachael alerts #wbc-launch-ops channel that we are initiating launch
 - [ ] James Kassemi approves 3 PRs [PRs to be linked here for launch, header/footer injections, and Vets.gov redirects] (Note: If James unavailable, then Alex Loehr)
-- [ ] Merge Launch PR [PR to be linked here]
+- [ ] Wyatt merges the Launch PR [PR to be linked here]
 
 ### 6:00 PM ET: launch complete!
 
