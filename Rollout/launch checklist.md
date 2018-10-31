@@ -82,11 +82,11 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 - [ ] Technical launch groups confirm presence and connectivity 
 - [ ] Wyatt disables automated production deployments
-- [ ] Rachael alerts #wbc-launch-ops channel
 - [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard is working
 
 ### 5:30 PM ET: launch initiated
 
+- [ ] Rachael alerts #wbc-launch-ops channel that we are initiating launch
 - [ ] James Kassemi approves 3 PRs [PRs to be linked here for launch, header/footer injections, and Vets.gov redirects] (Note: If James unavailable, then Alex Loehr)
 - [ ] Merge Launch PR [PR to be linked here]
 
