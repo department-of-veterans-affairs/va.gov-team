@@ -141,7 +141,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 ### 9:30 AM ET: morning check-in
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
-- [ ] All Go / No Go attendees present
+- [ ] All Go / No Go attendees dial into the Skype meeting
 - [ ] Product Lead readout
 - [ ] Call Center readout
 - [ ] Engineering readout
