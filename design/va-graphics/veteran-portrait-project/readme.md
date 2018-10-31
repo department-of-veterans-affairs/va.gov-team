@@ -4,9 +4,9 @@ The Veteran Portrait Project is an initiative by Veteran Stacey Pearsall to capt
 DSVA and VA.gov have access to 10 images for 1 year beginning 11/4/2018.
 
 ## What you'll find here:
-- Veterans: [***Featured Veteran Portraits***](#veterans)
-- Files: [***Access the files***](#files)
-- License Rights: [***How we can use these images***](#license-rights)
+- [Veterans](#veterans)
+- [Files](#files)
+- [License Rights](#license-rights)
 - [Full contract](https://github.com/department-of-veterans-affairs/digitalservice/blob/master/projects/Merger/Contracts/VPP/VPP_VA_Usage-092018.pdf)
 - [Consent forms](https://github.com/department-of-veterans-affairs/digitalservice/tree/master/projects/Merger/Contracts/VPP/VPP-consent-forms)
 - [Photographer bio](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/Pearsall_BIO_2018.docx)
