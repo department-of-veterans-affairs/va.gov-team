@@ -91,7 +91,7 @@ _These sites use another template - these are sites we need to know if you (Josh
       - https://m.va.gov/
 
 ## Technical Decisions
-- [PLACEHOLDER FOR SIGN IN DECISION]
+- [SIGN IN IS BEING DISCUSSED HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/teamsite/sign%20in%20approach.md)
 
 ## Team
 
