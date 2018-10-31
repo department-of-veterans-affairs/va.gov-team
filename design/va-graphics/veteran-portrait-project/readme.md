@@ -12,20 +12,18 @@ DSVA and VA.gov have access to 10 images for 1 year beginning 11/4/2018.
 - [Photographer bio](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/Pearsall_BIO_2018.docx)
 
 ## Veterans
-
 | Photo                                  | Name                              | Branch | Era  |
 | -------------------------------------- | --------------------------------- | ------ | ---- |
-| ![Cyrus H. Avey Jr.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/avey-white-600px.jpg)                 | Cyrus H. Avey Jr.                 |        |      |
-| ![Sankaran S. Babu, M.D.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/babu-white-600px.jpg)            | Sankaran S. Babu, M.D.            |        |      |
-| ![Theodore R. Britton, Jr.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/britton-white-600px.jpg)          | Theodore R. Britton, Jr.          |        |      |
-| ![Johnny T. "Tommy" Clack](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/clack-white-600px.jpg)           | Johnny T. "Tommy" Clack           |        |      |
-| ![Marilyn "Micky Newhouse" Cogswell](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/cogswell-white-600px.jpg) | Marilyn "Micky Newhouse" Cogswell |        |      |
-| ![John Dinh](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/dinh-white-600px.jpg)                         | John Dinh                         |        |      |
-| ![Bobby Henline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/henline-white-600px.jpg)                     | Bobby Henline                     |        |      |
-| ![Janet Martin](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/martin-white-600px.jpg)                      | Janet Martin                      |        |      |
-| ![Rick Picard and Nicole Locke](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/picard_locke-white-600px.jpg)                       | Rick Picard and Nicole Locke                      |        |      |
-| ![Sharon Singleton](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/singleton-white-600px.jpg)                  | Sharon Singleton                  |        |      |
-
+| ![Cyrus H. Avey Jr.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/avey-white-600px.jpg) | Cyrus H. Avey Jr. | Army Air Corps | WWII |
+| ![Sankaran S. Babu, M.D.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/babu-white-600px.jpg) | Sankaran S. Babu, M.D. | Army | Vietnam |
+| ![Theodore R. Britton, Jr.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/britton-white-600px.jpg) | Theodore R. Britton, Jr. | Marine Corps | WWII |
+| ![Johnny T. "Tommy" Clack](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/clack-white-600px.jpg) | Johnny T. "Tommy" Clack | --- | Vietnam |
+| ![Marilyn "Micky Newhouse" Cogswell](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/cogswell-white-600px.jpg) | Marilyn "Micky Newhouse" Cogswell | Marine Corps | Korean War |
+| ![John Dinh](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/dinh-white-600px.jpg) | John Dinh | Navy | OEF, OSW |
+| ![Bobby Henline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/henline-white-600px.jpg) | Bobby Henline | Army | Desert Shield, OIF |
+| ![Janet Martin](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/martin-white-600px.jpg) | Janet Martin | Army | Vietnam |
+| ![Rick Picard and Nicole Locke](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/picard_locke-white-600px.jpg) | Rick Picard and Nicole Locke | Air Force | Vietnam / OEF, OIF |
+| ![Sharon Singleton](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/va-graphics/veteran-portrait-project/VPP-images/600px/singleton-white-600px.jpg) | Sharon Singleton | Army | Desert Shield/Storm |
 
 ## Files
 File names: `lastname-bgcolor-cropped-size.jpg`
