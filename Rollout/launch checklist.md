@@ -171,7 +171,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] ITOPS readout
 - [ ] EVSS readout
 - [ ] ID.me readout
-- [ ] OIT / TeamSite readout
+- [ ] OPIA / TeamSite readout
 - [ ] MHV readout
 - [ ] Chris decides whether any runbook plays are needed
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
