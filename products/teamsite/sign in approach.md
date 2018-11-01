@@ -1,3 +1,13 @@
+# Sign In Approach for Nov 7 Launch
+
+For the immediate term (i.e. for Nov 7 Launch), we will remove Sign In / Sign Up from the injected header/footer for sub-domain pages only and instead display some CTA to return to the home VA.gov site to sign in. This CTA will be static, so will not change based on whether the user is already logged in or not.
+
+We will pursue a more holistic and scalable solution post-launch, that ideally will involve API work described below.
+
+-----
+
+# Background
+
 ## Problem / User Story
 
 We want users to be able to Sign In from Teamsite-based VA.gov pages because that feature is part of the global header/footer being injected across those pages for a consistent user experience. Perhaps more importantly, we want it there bc the ability to Sign In on VA.gov is novel and a huge/important part of the new VA.gov relaunch, so it would be a shame to not include it on these pages.
