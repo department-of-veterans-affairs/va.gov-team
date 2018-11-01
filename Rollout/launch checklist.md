@@ -14,9 +14,9 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x] < Oct 17: Clare coordinates comms about preview.va.gov
 - [x] Oct 22 - 23: Curtis and/or Paul take a trip to ITOPS
 - [x] Oct 23 - 24: Wyatt and ITOPS start traffic migration (see details in the runbook)
-- [ ] Oct 31 or Nov 1: Launch Dry Run and Game Day exercise!
-  - [ ] Mime all Launch Day activities with “test” posts in the real communication channels
-  - [ ] Run incident scenarios
+- [x] Oct 31 or Nov 1: Launch Dry Run and Game Day exercise!
+  - [x] Mime all Launch Day activities with “test” posts in the real communication channels
+  - [x] Run incident scenarios
   - [ ] Outbrief
 - [ ] < Nov 1: post banner on VA.gov inviting Veterans to try out preview.va.gov
 - [ ] < Nov 1: Chris Gansen (lead ops engineer for healthcare.gov) reviews:
