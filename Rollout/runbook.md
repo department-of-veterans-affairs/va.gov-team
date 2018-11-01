@@ -1,28 +1,43 @@
-👑 = ultimate decision maker
+*Note: This document is iterative and subject to change*
 
-# Go / No Go Attendees
+# Runbook
 
-- 👑 Product Lead: Chris Johnston
-- Execs: Charles Worthington, Andrew Hughey, Marcy Jacobs
-- Product: David Bao, Steve Kovaks
-- Engineering: James Kassemi, Alex Loehr
-- DevOps: Wyatt Walter
-- Design + Research: Lauren Alexanderson, Andy Lewendowski, Jeff Barnes
-- Content: Melissa Schaff
-- Implementation: Rachael Roueché, Mina Farzad, Elizabeth Lewis
-- Marketing and Communications: Clare Martorana, Mandi Lindner
-- Analytics: Tony Whittaker, Ryan Luu
-- **NSOC:**
-- **EWIS:**
-- **ID.me:**
-- **OIT:**
-- **Call Center:**
-- **VA311**: 
-- **MHV:**
-- **TeamSite:**
-- **AWS technical manager:**
+## Go / No Go Attendees
 
-# "On Call" escalation contacts
+- Chris Johnston: Christopher.Johnston2@va.gov
+- David Bao
+- Ryan Luu
+- Andy Lewandowski
+- Jeff Barnes
+- Steve Kovacs
+- Lauren Alexanderson
+- Rachael Roueche
+- Mina Farzad
+- James Kassemi
+- Alex Loehr
+- Nick Sullivan
+- Tony Whittaker
+- Ryan Luu
+- Clare Martorana
+- Noreen Hecmanczuk
+- Wyatt Walter
+- Kevin Williams
+- Tom Phillips
+- Mere Work
+- Denise Kitts?
+- Pete Smith
+- Josh Tuscher
+- Carnetta Scruggs?
+- Lanny Derby?
+- David Bao
+- Shawn Arnwine
+- Charles Worthington
+- Marcy Jacobs
+- Steve Walker
+- Andrew Hughey
+- Elizabeth Lewis
+
+## "On Call" escalation contacts [WIP]
 
 ### Who to contact if you see a problem:
 
@@ -43,7 +58,7 @@
 - **TeamSite:**
 - **AWS: [create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine**
 
-### Who the escalation contacts can work with for implementation in an emergency:
+### How to escalate if you're contacted
 
 General: Mina Farzad > Rachael Roueche > Elizabeth Lewis
 
@@ -56,8 +71,6 @@ Header/footer injections: Ben Shyong > Nick Sullivan
 API: Patrick Vinograd > Ed Paget
 
 Content: Danielle Thierry > Beth Potts
-
-Design: ?
 
 # Rules of Engagement for Escalation during Oct 9 - Nov 9
 
@@ -103,9 +116,6 @@ Back to standard on call coverage via pager duty
 
 # The Plays
 
-*thresholds and plays still tbd for these scenarios: major tweet, hack, errors in teamsite injections, horrible user feedback,
-call center totally overwhelmed*
-
 ## Maintenance Page
 
 ### Conditions
@@ -131,7 +141,7 @@ call center totally overwhelmed*
 1. Chris disseminates decision to take down maintenance page via Slack (with @channel)and email (***recipients TBD***)
 1. DevOps on call party takes down the maintenance page
 
-***This may occur several times during the launch. Restart the process everytime.***
+***This may be enacted multiple times during the launch. Restart the process each time.***
 
 ## VA.gov System Rollback
 
@@ -183,21 +193,5 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 ## Other Issues
 
 For any scenario that doesn't match those outlined here please use the incident response playbook: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/OnCall/Incident%20Response%20Playbook.md
-
-
-# Deployment Change Times post-launch (Work In Progress, numbers need to be increased to include work beyond purely technical deployment pipeline timing)
-
-| Type | Time to Deploy | Overview |
-| --- | --- | --- |
-| Content Fix | <5m | Change to vagov-content and merge to master |
-| Downtime Notification | ~5m | PagerDuty maintenance window update, with 5m cache period |
-| Frontend Application Rebuild / Deploy | ~45m | vets-website PR test, master test, build, release, deploy - injection script logic updates |
-| Frontend Application Revert | ~4m | vets-website deploy |
-| Backend Application Rebuild / Deploy | ~39m | vets-api PR test, master test, build, release, deploy |
-| Backend Application Revert | ~5m | vets-api deploy |
-| Reverse Proxy Update | 3m | |
-| Reverse Proxy Rebuild / Deploy | 16m | |
-| Forward Proxy Rebuild / Deploy | 5m | |
-
 
 *Note: This document is confidential and deliberative*
