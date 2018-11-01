@@ -41,7 +41,7 @@
 - **VA311**: 
 - **MHV:**
 - **TeamSite:**
-- **AWS technical manager:**
+- **AWS: [create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine**
 
 ### Who the escalation contacts can work with for implementation in an emergency:
 
