@@ -143,7 +143,7 @@ Back to standard on call coverage via pager duty
 
 ***This may be enacted multiple times during the launch. Restart the process each time.***
 
-## VA.gov System Rollback
+## Rollback 1: VA.gov System Rollback
 
 This constitutes a rollback to the www.va.gov system for content, while still handling 100% of requests through our servers.
 
@@ -167,7 +167,7 @@ This constitutes a rollback to the www.va.gov system for content, while still ha
 
 If not resolved...
 
-## VA.gov EWIS Rollback
+## Rollback 2: (worst case scenario) VA.gov EWIS Rollback
 
 This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire on Oct 4 off of our servers and back to the configuration < Oct 4.
 
