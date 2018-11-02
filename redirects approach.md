@@ -2,7 +2,7 @@
 This document captures the various types of redirects we need to account for, in order for users to always land on the appropriate new VA.gov page if they try and access any "old" URLs.
 
 ## Scenario 1
-After launch, I go directly to a URL that I've saved for a pre Nov-2018 VA.gov page, but it has been replaced with a new VA.gov page hosted on the new Platform.
+After launch, I go directly to a URL that I've saved for a pre Nov-2018 VA.gov page, but a new VA.gov page exists for the same/similar content.
 
 **Experience:** I'm redirected seamlessly to the correct new VA.gov page. `*`
 
