@@ -58,7 +58,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 In order to create the smoothest launch environment, it is beneficial to establish clear launch criteria early, so the team can make the simplest, clearest decisions possible in the event an incident arises.
 
 ### 9 AM ET: Assemble
-- [ ] All in-person technical team members gather in the technical Launch Control Room
+- [ ] All in-person Go / No Go attendees gather in the main Team Space DSVA room at 811 Vermont
 - [ ] All remote technical team members available in Go / No Go Lync channel
 - [ ] Curtis is on-site at ITOPS in Martinsburg, WV
 
@@ -69,16 +69,20 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Chris disseminates the decision via Slack and email
 
 ### 11:00 AM ET: launch preparation begins
+- [ ] In-person technical team members gather in the technical Launch Control Room at WeWork and dial into Skype meeting
+- [ ] Remove technical team members dial into Skype meeting
 - [ ] Technical launch groups confirm presence and connectivity
 - [ ] Wyatt disables automated production deployments
 - [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard is working
+- [ ] Keep Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
 ### 5:30 PM ET: launch initiated
-- [ ] Technical teams dial back into the wbc-launch-ops Skype meeting
+- [ ] All technical team members dial into Skype meeting
 - [ ] Chris confirms verbally that we are good to launch
 - [ ] Rachael announces that we are initiating launch via Slack and email
 - [ ] James Kassemi approves 3 PRs [PRs to be linked here for launch, header/footer injections, and Vets.gov redirects] (Note: If James unavailable, then Alex Loehr)
 - [ ] Wyatt merges the Launch PR [PR to be linked here]
+- [ ] Stay in the Skype meeting
 
 ### 6:00 PM ET: launch complete!
 - [ ] Wyatt Walter confirms in Skype that the deployment is complete
