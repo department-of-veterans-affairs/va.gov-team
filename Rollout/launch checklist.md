@@ -28,7 +28,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Incident Management Plan
   - [ ] Launch checklist
   - [ ] Ops Readiness Report
-- [ ] Nov 2: Winnie has 4 ~~join.me rooms~~ Skype for Business meetings available for on call use
+- [x] Nov 2: Winnie has 4 ~~join.me rooms~~ Skype for Business meetings available for on call use
 - [x] Nov 2: Rachael sends calendar invitations for Nov 7 launch Go / No Go meeting
 - [x] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 post-launch check-ins
 - [ ] Nov 4: open #wbc-launch-ops channel up in slack
@@ -65,6 +65,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 ### 10 AM ET: Go / No Go meeting
 - [ ] All Go / No Go attendees present on Skype meeting
 - [ ] Standup-style poll
+- [ ] Does everyone have the On Call contact list, and are any changes needed?
 - [ ] Chris makes the decision to launch
 - [ ] Chris disseminates the decision via Slack and email
 
@@ -73,7 +74,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Remove technical team members dial into Skype meeting
 - [ ] Technical launch groups confirm presence and connectivity
 - [ ] Wyatt disables automated production deployments
-- [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard is working
+- [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard and How To docs are accessible and working
 - [ ] Keep Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
 ### 5:30 PM ET: launch initiated
@@ -96,7 +97,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 If any of the crisis criteria are met, immediately start following the plays in the runbook.
 
-- [ ] Veteran Facing Tools implementation teams run smoke tests for products in their portfolios
+- [ ] Veteran Facing Tools implementation teams and Josh Vargas run tests for products in their portfolios
 - [ ] Merge PR for turning off T&C for specific health tools that - on Vets.gov - only presented themselves if you'd tried to access the Health tools for the first time.
 - [ ] Merge PR to remove the Google “disallow” function for Search and change the search indexing files from preview to www
 - [ ] Full team watches monitoring dashboard, google analytics, social media buzz
@@ -141,7 +142,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 
 ## NOV 10 ONWARD
 
-Back to standard on call coverage via pager duty.
+Back to standard on call coverage via pager duty, [see rotation schedule in the Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md).
 
 - [ ] Merge PR for 301 redirects
 
