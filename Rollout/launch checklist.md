@@ -46,6 +46,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Pin runbook (w/crisis thresholds) to channel
   - [ ] Pin incident response docs to channel
   - [ ] Pin comms templates to channel
+  - [ ] Pin Data Studio link to channel, for analytics monitoring
   - [ ] Pin monitoring dashboard URL to channel
 - [ ] Nov 5: test on call and pagerduty rotations
 - [ ] Nov 5: OIT / ITOPS meeting/communications: preparing for pausing layout changes, and for being at the ready to have traffic piped back in the event we run into an incident in the next few days.
