@@ -94,10 +94,10 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
 
 ### 6:00 PM ET: launch complete!
-- [ ] Wyatt Walter confirms verbally that the deployment is complete
+- [ ] Wyatt confirms verbally that the deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing, loads www.va.gov
-- [ ] Wyatt Walter merges Header/Footer Injections PR [PR to be linked here] (this includes redirecting old VA.gov pages to their new VA.gov counterparts)
-- [ ] Wyatt Walter confirms verbally that deployment is complete
+- [ ] Wyatt merges Header/Footer Injections PR [PR to be linked here] (this includes redirecting old VA.gov pages to their new VA.gov counterparts)
+- [ ] Wyatt confirms verbally that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in Skype, clicks  from www.va.gov to load a teamsite-hosted page
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 - [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
@@ -106,7 +106,6 @@ If any of the crisis criteria are met, immediately start following the plays in 
 
 ### 6:30 PM ET: Test, do immediate post-launch items, monitor
 - [ ] Josh Vargas and Veteran Facing Tools PMs run smoke tests for top site interactions
-- [ ] *Person TBD* merges PR for turning off T&C for specific health tools that - on Vets.gov - only presented themselves if you'd tried to access the Health tools for the first time.
 - [ ] *Person TBD* merges PR to remove Google “disallow” function for Search and change indexing files from preview to www
 - [ ] Full team watches monitoring dashboard, google analytics, social media buzz
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
