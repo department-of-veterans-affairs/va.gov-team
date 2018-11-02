@@ -201,3 +201,6 @@ For any scenario that doesn't match those outlined here please use the incident 
 [What to look for in Grafana and Sentry WIP](#)
 
 People and times to be added by Nov 5, 2018.
+
+*Note: This document is confidential and deliberative*
+
