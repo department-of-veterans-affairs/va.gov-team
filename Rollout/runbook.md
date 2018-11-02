@@ -4,7 +4,7 @@
 
 ## Go / No Go Attendees
 
-- Chris Johnston: Christopher.Johnston2@va.gov
+- Chris Johnston
 - David Bao
 - Ryan Luu
 - Andy Lewandowski
@@ -24,7 +24,7 @@
 - Kevin Williams
 - Tom Phillips
 - Mere Work
-- Denise Kitts?
+- Denise Kitts
 - Pete Smith
 - Josh Tuscher
 - Carnetta Scruggs?
@@ -55,7 +55,7 @@
 - **Call Center:**
 - **VA311**: 
 - **MHV:**
-- **TeamSite:**
+- **OIT (TeamSite):**
 - **AWS: [create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine**
 
 ### How to escalate if you're contacted
