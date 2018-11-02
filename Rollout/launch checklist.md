@@ -74,7 +74,8 @@ In order to create the smoothest launch environment, it is beneficial to establi
 
 ### 11:00 AM ET: launch preparation begins
 - [ ] In-person technical team members gather in Technical Launch Control Room at WeWork
-- [ ] In-person implementation team members gather in Launch Control Room at WeWork
+- [ ] In-person implementation team members gather in Implementation Launch Control Room at WeWork
+- [ ] Key execs gather in Executive Launch Control Room at VA
 - [ ] Winnie opens WBC Launch Room Skype meeting
 - [ ] Technical and Implementation teams enter WBC Launch Room Skype meeting
 - [ ] Wyatt posts @channel mention in vetsdotgov Slack about how enacting Vets.gov redirects tonight will create alerts noise
