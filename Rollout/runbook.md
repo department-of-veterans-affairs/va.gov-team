@@ -37,9 +37,7 @@
 - Andrew Hughey
 - Elizabeth Lewis
 
-## "On Call" contacts
-
-### Who to contact if you see a problem:
+## Who to contact if you see a problem:
 
 #### Product, implementation, general issues
 
