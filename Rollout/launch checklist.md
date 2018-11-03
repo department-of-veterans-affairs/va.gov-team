@@ -42,6 +42,16 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Patrick Vinograd added
   - [ ] Kam Karshenas
   - [ ] Paul Smith added
+  - [ ] Amy Cesal added
+  - [ ] Emily Waggoner added
+  - [ ] Jeff Balboni added
+  - [ ] Lauren Alexanderson
+  - [ ] Rian Fowler
+  - [ ] Ben Barone
+  - [ ] Ben Shyong
+  - [ ] Ryan Luu
+  - [ ] Elizabeth Lewis
+  - [ ] Curtis Mejeur
   - [ ] Post ROEs for this channel and pin to channel
   - [ ] Pin runbook (w/crisis thresholds) to channel
   - [ ] Pin incident response docs to channel
