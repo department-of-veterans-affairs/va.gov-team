@@ -37,40 +37,66 @@
 - Andrew Hughey
 - Elizabeth Lewis
 
-## "On Call" escalation contacts [WIP]
+## "On Call" contacts
 
 ### Who to contact if you see a problem:
 
-"On call" means available to respond via cell phone if there's an urgent issue that needs addressing for usability testing or demo'ing reasons.
+"On call" means available to respond if there's an urgent issue that needs immediate collaboration to resolve.
 
-- Product/implementation/general issues: Rachael Roueche (report out or hand off to Chris Johnston)
-- Engineering and DevOps issues: James Kassemi (report out to Alex Loehr, Chris Johnston)
-- Design and IA issues: Rachael Roueche (report out to Chris Johnston, Andy Lewendowski, Jeff Barnes)
-- Content issues: Rachael Roueche (report out to Melissa Schaff, Chris Johnston)
-- Marketing and communications issues: Rachael Roueche (hand off to Clare Martorana, Mandi Lindner, Chris Johnston)
-- **NSOC:**
-- **EWIS:**
-- **ID.me:**
-- **OIT:**
-- **Call Center:**
-- **VA311**: 
-- **MHV:**
-- **OIT (TeamSite):**
-- **AWS: [create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine**
+**Product/implementation/general issues**
+POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us) 
+Escalate to / keep informed: POC, Chris Johnston (Christopher.Johnston2@va.gov)
 
-### How to escalate if you're contacted
+**Engineering issues**
+POC: James Kassemi (james.kassemi@adhocteam.us)
+Back-up: Nick Sullivan (nick.sullivan@adhocteam.us), Jeff Balboni (jeff@adhocteam.us)
+Escalate to / keep informed: POC, Alex Loehr (Alex.Yale-Loehr@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
 
-General: Mina Farzad > Rachael Roueche > Elizabeth Lewis
+**DevOps issues**
+POC: James Kassemi (james.kassemi@adhocteam.us)
+Back-up: Wyatt Walter (wyatt@adhocteam.us), Craig Butler (craig@adhocteam.us)
+Escalate to / keep informed: POC, Alex Loehr and Chris Johnston (Christopher.Johnston2@va.gov)
 
-Ops: Wyatt Walter > Craig Butler > Ryan Watson
+**Design / IA issues**
+POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
+Escalate to / keep informed: POC, Andy Lewendowski (Andrew.Lewandowski2@va.gov), Jeff Barnes (jeffrey.barnes4@va.gov), Lauren Alexanderson (Lauren.Alexanderson@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
 
-Sitewide Engineering: Nick Sullivan > Rob Wilkinson
+**Content issues**
+POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+Back-up: Danielle Thierry (danielle@thesocompany.com), Beth Potts (beth@thesocompany.com)
+Escalate to / keep informed: POC, Melissa Schaff (melissa.schaff@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
 
-Header/footer injections: Ben Shyong > Nick Sullivan
+**Marketing and communications issues**
+POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
+Escalate to / keep informed: POC, Clare Martorana, Noreen Hecmanczuk, and Chris Johnston (Christopher.Johnston2@va.gov)
 
-API: Patrick Vinograd > Ed Paget
+**NSOC issues**
+POC: Kevin Williams (Kevin.Williams@va.gov)
+Back-up: Wyatt Walter (wyatt@adhocteam.us), James Kassemi (james.kassemi@adhocteam.us), Chris Johnston (Christopher.Johnston2@va.gov), Alex Loehr (Christopher.Johnston2@va.gov)
+Escalation path: POC -> 
 
-Content: Danielle Thierry > Beth Potts
+- **EWIS issues**
+
+- **ID.me issues**
+
+- **OIT or TeamSite issues**
+
+- **Call Center issues**
+
+- **VA311 issues**
+
+- **MHV issues**
+
+- **OIT (TeamSite) issues**
+
+- **AWS issues**
+
+[create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine**
+
+
 
 # Rules of Engagement for Escalation during Oct 9 - Nov 9
 
