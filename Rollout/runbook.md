@@ -72,7 +72,7 @@
 - Email the TAM team, aws-tam-va@amazon.com
   - This email includes AWS VA POCs Syed and Eric
 
-Note: personal contact information for resolving urgent incidents is not stored here in GitHub, but has been shared with the necessary people via e-mail and slack.
+*Note: personal contact information for resolving urgent incidents is not stored here in GitHub, but has been shared with the necessary people via e-mail and slack.*
 
 # Rules of Engagement for Escalation during Oct 9 - Nov 9
 
