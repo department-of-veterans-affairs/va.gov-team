@@ -44,13 +44,19 @@
 "On call" means available to respond if there's an urgent issue that needs immediate collaboration to resolve.
 
 **Product/implementation/general issues**
+
 POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+
 Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us) 
+
 Escalate to / keep informed: POC, Chris Johnston (Christopher.Johnston2@va.gov)
 
 **Engineering issues**
+
 POC: James Kassemi (james.kassemi@adhocteam.us)
+
 Back-up: Nick Sullivan (nick.sullivan@adhocteam.us), Jeff Balboni (jeff@adhocteam.us)
+
 Escalate to / keep informed: POC, Alex Loehr (Alex.Yale-Loehr@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
 
 **DevOps issues**
