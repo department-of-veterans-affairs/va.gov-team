@@ -50,10 +50,18 @@
 
 - POC: James Kassemi (james.kassemi@adhocteam.us)
 - Wyatt Walter (wyatt@adhocteam.us)
+- Brian Gryth (brian.gryth@adhocteam.us)
 - Nick Sullivan (nick.sullivan@adhocteam.us)
 - Jeff Balboni (jeff@adhocteam.us)
 - Chris Johnston (Christopher.Johnston2@va.gov)
 - Alex Loehr (Christopher.Johnston2@va.gov)
+
+#### SSO / Login issues
+- POC: David Bao (david.bao@va.gov)
+- Winnie Smith (winnie@adhocteam.us)
+- Kam Karshenas (kam@adhocteam.us)
+- Rachael Roueche (rachael.roueche@adhocteam.us)
+- Chris Johnston (Christopher.Johnston2@va.gov)
 
 #### Design, IA, content issues
 - POC: Rachael Roueche (rachael.roueche@adhocteam.us)
