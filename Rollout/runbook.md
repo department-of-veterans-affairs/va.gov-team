@@ -43,7 +43,7 @@
 
 "On call" means available to respond if there's an urgent issue that needs immediate collaboration to resolve.
 
-**Product/implementation/general issues**
+#### Product/implementation/general issues
 
 POC: Rachael Roueche (rachael.roueche@adhocteam.us)
 
@@ -51,7 +51,7 @@ Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adh
 
 Escalate to / keep informed: POC, Chris Johnston (Christopher.Johnston2@va.gov)
 
-**Engineering issues**
+#### Engineering issues
 
 POC: James Kassemi (james.kassemi@adhocteam.us)
 
@@ -59,32 +59,32 @@ Back-up: Nick Sullivan (nick.sullivan@adhocteam.us), Jeff Balboni (jeff@adhoctea
 
 Escalate to / keep informed: POC, Alex Loehr (Alex.Yale-Loehr@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
 
-**DevOps issues**
+#### DevOps issues
 POC: James Kassemi (james.kassemi@adhocteam.us)
 Back-up: Wyatt Walter (wyatt@adhocteam.us), Craig Butler (craig@adhocteam.us)
 Escalate to / keep informed: POC, Alex Loehr and Chris Johnston (Christopher.Johnston2@va.gov)
 
-**Design / IA issues**
+#### Design / IA issues
 POC: Rachael Roueche (rachael.roueche@adhocteam.us)
 Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
 Escalate to / keep informed: POC, Andy Lewendowski (Andrew.Lewandowski2@va.gov), Jeff Barnes (jeffrey.barnes4@va.gov), Lauren Alexanderson (Lauren.Alexanderson@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
 
-**Content issues**
+#### Content issues
 POC: Rachael Roueche (rachael.roueche@adhocteam.us)
 Back-up: Danielle Thierry (danielle@thesocompany.com), Beth Potts (beth@thesocompany.com)
 Escalate to / keep informed: POC, Melissa Schaff (melissa.schaff@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
 
-**Marketing and communications issues**
+#### Marketing and communications issues
 POC: Rachael Roueche (rachael.roueche@adhocteam.us)
 Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
 Escalate to / keep informed: POC, Clare Martorana, Noreen Hecmanczuk, and Chris Johnston (Christopher.Johnston2@va.gov)
 
-**NSOC issues**
+#### NSOC issues
 POC: Kevin Williams (Kevin.Williams@va.gov)
 Back-up: Wyatt Walter (wyatt@adhocteam.us), James Kassemi (james.kassemi@adhocteam.us), Chris Johnston (Christopher.Johnston2@va.gov), Alex Loehr (Christopher.Johnston2@va.gov)
 Escalation path: POC -> 
 
-- **EWIS issues**
+#### EWIS issues
 
 - **ID.me issues**
 
