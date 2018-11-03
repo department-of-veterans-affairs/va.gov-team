@@ -41,68 +41,40 @@
 
 ### Who to contact if you see a problem:
 
-"On call" means available to respond if there's an urgent issue that needs immediate collaboration to resolve.
+#### Product, implementation, general issues
 
-#### Product/implementation/general issues
+- POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+- Chris Johnston (Christopher.Johnston2@va.gov)
+- Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
+- Ryan Luu (ryan.luu@adhocteam.us)
 
-POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+#### Technical issues
 
-Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us) 
+- POC: James Kassemi (james.kassemi@adhocteam.us)
+- Wyatt Walter (wyatt@adhocteam.us)
+- Nick Sullivan (nick.sullivan@adhocteam.us)
+- Jeff Balboni (jeff@adhocteam.us)
+- Chris Johnston (Christopher.Johnston2@va.gov)
+- Alex Loehr (Christopher.Johnston2@va.gov)
 
-Escalate to / keep informed: POC, Chris Johnston (Christopher.Johnston2@va.gov)
+#### Design, IA, content issues
+- POC: Rachael Roueche (rachael.roueche@adhocteam.us)
+- Ryan Luu (ryan.luu@adhocteam.us)
+- Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
+- Andy Lewendowski (Andrew.Lewandowski2@va.gov)
+- Jeff Barnes (jeffrey.barnes4@va.gov)
+- Melissa Schaff (melissa.schaff@va.gov)
+- Lauren Alexanderson (Lauren.Alexanderson@va.gov)
+- Chris Johnston (Christopher.Johnston2@va.gov)
 
-#### Engineering issues
+#### AWS issues
+- [Create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine (sarnwine@amazon.com)
+  - Choose the appropriate level of severity
+  - TAM team is CC’d on all VA related cases automatically
+- Email the TAM team, aws-tam-va@amazon.com
+  - This email includes AWS VA POCs Syed and Eric
 
-POC: James Kassemi (james.kassemi@adhocteam.us)
-
-Back-up: Nick Sullivan (nick.sullivan@adhocteam.us), Jeff Balboni (jeff@adhocteam.us)
-
-Escalate to / keep informed: POC, Alex Loehr (Alex.Yale-Loehr@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
-
-#### DevOps issues
-POC: James Kassemi (james.kassemi@adhocteam.us)
-Back-up: Wyatt Walter (wyatt@adhocteam.us), Craig Butler (craig@adhocteam.us)
-Escalate to / keep informed: POC, Alex Loehr and Chris Johnston (Christopher.Johnston2@va.gov)
-
-#### Design / IA issues
-POC: Rachael Roueche (rachael.roueche@adhocteam.us)
-Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
-Escalate to / keep informed: POC, Andy Lewendowski (Andrew.Lewandowski2@va.gov), Jeff Barnes (jeffrey.barnes4@va.gov), Lauren Alexanderson (Lauren.Alexanderson@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
-
-#### Content issues
-POC: Rachael Roueche (rachael.roueche@adhocteam.us)
-Back-up: Danielle Thierry (danielle@thesocompany.com), Beth Potts (beth@thesocompany.com)
-Escalate to / keep informed: POC, Melissa Schaff (melissa.schaff@va.gov), Chris Johnston (Christopher.Johnston2@va.gov)
-
-#### Marketing and communications issues
-POC: Rachael Roueche (rachael.roueche@adhocteam.us)
-Back-up: Ryan Luu (ryan.luu@adhocteam.us>), Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
-Escalate to / keep informed: POC, Clare Martorana, Noreen Hecmanczuk, and Chris Johnston (Christopher.Johnston2@va.gov)
-
-#### NSOC issues
-POC: Kevin Williams (Kevin.Williams@va.gov)
-Back-up: Wyatt Walter (wyatt@adhocteam.us), James Kassemi (james.kassemi@adhocteam.us), Chris Johnston (Christopher.Johnston2@va.gov), Alex Loehr (Christopher.Johnston2@va.gov)
-Escalation path: POC -> 
-
-#### EWIS issues
-
-- **ID.me issues**
-
-- **OIT or TeamSite issues**
-
-- **Call Center issues**
-
-- **VA311 issues**
-
-- **MHV issues**
-
-- **OIT (TeamSite) issues**
-
-- **AWS issues**
-
-[create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine**
-
-
+Note: personal contact information for resolving urgent incidents is not stored here in GitHub, but has been shared with the necessary people via e-mail and slack.
 
 # Rules of Engagement for Escalation during Oct 9 - Nov 9
 
@@ -111,7 +83,6 @@ Escalation path: POC ->
 ### Oct 9 - Oct 12: "Critical Feature Complete"
 
 On call escalation contacts will be responsive during reasonable business hours (M - F , 9 AM ET - 6 PM ET) via cell phone to support emergencies.
-
 
 ### Oct 15 - 17: Ad Hoc Retreat
 
