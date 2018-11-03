@@ -88,6 +88,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Key execs gather in Executive Launch Control Room at VA
 - [ ] Winnie opens WBC Launch Room Skype meeting
 - [ ] All members review [Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md) and other pinned Slack channel information
+- [ ] All members confirm they have the incident response contact info handy
 - [ ] Technical and Implementation teams enter WBC Launch Room Skype meeting
 - [ ] Wyatt posts @channel mention in vetsdotgov Slack about how enacting Vets.gov redirects tonight will create alerts noise
 - [ ] Members confirm presence and connectivity
