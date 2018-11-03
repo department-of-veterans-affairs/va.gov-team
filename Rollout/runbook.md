@@ -195,7 +195,6 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 
 For any scenario that doesn't match those outlined here please use the incident response playbook: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/OnCall/Incident%20Response%20Playbook.md
 
-*Note: This document is confidential and deliberative*
 
 ## 24/7 Active Monitoring Rotation Schedule
 
