@@ -19,7 +19,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x] Oct 31 or Nov 1: Launch Dry Run and Game Day exercise!
   - [x] Mime all Launch Day activities with “test” posts in the real communication channels
   - [x] Run incident scenarios
-  - [ ] Outbrief
+  - [x] Outbrief
 - [ ] < Nov 2: post banner on VA.gov inviting Veterans to try out preview.va.gov
 - [ ] < Nov 2: Chris Gansen (lead ops engineer for healthcare.gov) reviews:
   - [ ] Testing posture
