@@ -6,7 +6,6 @@
 
 - Chris Johnston
 - David Bao
-- Ryan Luu
 - Andy Lewandowski
 - Jeff Barnes
 - Steve Kovacs
@@ -17,7 +16,6 @@
 - Alex Loehr
 - Nick Sullivan
 - Tony Whittaker
-- Ryan Luu
 - Clare Martorana
 - Noreen Hecmanczuk
 - Wyatt Walter
