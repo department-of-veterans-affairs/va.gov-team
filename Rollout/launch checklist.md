@@ -172,9 +172,9 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Skype meeting adjourns
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
-## NOV 10 ONWARD
-
 Back to standard on call coverage via pager duty, [see rotation schedule in the Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md).
+
+## NOV 10 ONWARD
 
 - [ ] Merge PR for 301 redirects
 
