@@ -30,7 +30,7 @@ Once va.gov relaunches, users need a way to search content across both old and n
    4. Explore and apply for open VA jobs — https://www.vacareers.va.gov/job-search/index.asp
 
 
-## Scope
+## Scope for Nov 7 launch
 - the header / footer must match the header / footer on the new VA.gov to allow user navigation and UX consistency
 - the layout of the page must be accessible to changes
 - the sidebar must have links to the four tools listed under assumptions above
@@ -58,12 +58,19 @@ Two phase implementation
 the search.gov account# for this product is 7378
 
 ## Status
-#### 10.29 
+#### 11.5.18
+- Search V2 is now live on preview.va.gov :tada:
+- Recommended results pushed as a post-launch enhancement
+- Load testing complete and successful
+
+#### 10.29.18
 - Search V1 is implemented and accessible on preview.va.gov through the dropdown search and 404 pages
 - Search V2 is accesible in staging at https://staging.va.gov/search/?q=health (temporarily down while load testing in progress)
 - Search.gov has begun indexing preview.va.gov sitemap (soon to beocome the new www.va.gov sitemap) and is starting on the old va.gov compiled sitemap shortly
 - Phase 1 of 2 completed for load testing. Run at 15 requests per second with 0 failures
 - Phase 2 of load testing scheduled for 10.30.18 and will perform at 45-50 requests/second
+
+
 
 ## Technical Decisions
 - a new search.gov account was created to separate out the vets.gov search from the new va.gov search
