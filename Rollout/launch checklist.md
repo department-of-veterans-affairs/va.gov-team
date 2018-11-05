@@ -107,7 +107,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 ### 6:00 PM ET: launch complete!
 - [ ] Wyatt confirms verbally that the deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing, loads www.va.gov
-- [ ] Wyatt merges Header/Footer Injections PR [PR to be linked here] (this includes redirecting old VA.gov pages to their new VA.gov counterparts)
+- [ ] Wyatt merges PR for turning cookie gating off on TeamSite pages [PR to be linked here] (this includes redirecting old VA.gov pages to their new VA.gov counterparts)
 - [ ] Wyatt confirms verbally that deployment is complete
 - [ ] Chris Johnston (or anyone), while screensharing in Skype, clicks  from www.va.gov to load a teamsite-hosted page
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
