@@ -9,7 +9,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x] < Oct 4: Wyatt configures caching
 - [x] Oct: Demian Ginther and Craig Butler complete Pentest
 - [x] Oct 12: Rachael adds “plays” for public dissemination of preview.va.gov 
-- [x] Oct 12: Elizabeth has booked location for Launch Control Room: 
+- [x] Oct 12: Elizabeth has booked locations for Monitoring and Rapid Response Groups for Launch Day 
 - [x] < Oct 17: Wyatt coordinates load testing with ITOPS, EWIS, and AWS
 - [x] < Oct 17: Wyatt starts load testing (see details in the runbook)
 - [x] Oct 17: Hydra posts banner on Vets.gov inviting users to try out preview.va.gov 
@@ -79,16 +79,16 @@ In order to create the smoothest launch environment, it is beneficial to establi
 ### 10 AM ET: Go / No Go meeting
 - [ ] Roll call: all Go / No Go attendees present
 - [ ] Standup-style poll
-- [ ] Does everyone have the On Call contact list, and are any changes needed?
 - [ ] Chris makes the decision to launch
 - [ ] Chris disseminates the decision via Slack and email
 - [ ] In person and Skype meetings adjourn
 
 ### 11:00 AM ET: launch preparation begins
-- [ ] In-person technical team members gather in Technical Launch Control Room at WeWork
-- [ ] In-person implementation team members gather in Implementation Launch Control Room at WeWork
+- [ ] In-person Rapid Response team members gather in Rapid Response room at WeWork
+- [ ] In-person Monitoring team members gather in Monitoring room at WeWork
 - [ ] Key execs gather in Executive Launch Control Room at VA
 - [ ] Winnie opens WBC Launch Room Skype meeting
+- [ ] Does everyone have the On Call contact list, and are any changes needed?
 - [ ] All members review [Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md) and other pinned Slack channel information
 - [ ] All members confirm they have the incident response contact info handy
 - [ ] Technical and Implementation teams enter WBC Launch Room Skype meeting
