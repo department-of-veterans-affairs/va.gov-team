@@ -107,6 +107,5 @@ the search.gov account# for this product is 7378
 
 ![screen shot 2018-10-29 at 9 41 24 am](https://user-images.githubusercontent.com/21130918/47653534-2d1c3700-db5f-11e8-89d4-5182d7743add.png)
 
-### Search.gov V2 (live on preview.va.gov)
-<img width="1680" alt="screen shot 2018-11-05 at 11 09 44 am" src="https://user-images.githubusercontent.com/21130918/48010326-5a329180-e0eb-11e8-929b-32373ca4ce09.png">
-
+### Search.gov V2 (live)
+![Screen Shot 2018-11-05 at 11.19.32 AM.png](https://images.zenhubusercontent.com/59ee09c5a468affe6df7cd9e/d6f9b4d8-e284-44ff-99ee-4620140e7619)
