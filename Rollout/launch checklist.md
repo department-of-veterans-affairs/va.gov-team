@@ -147,10 +147,10 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 
 ### 8:00 PM ET: Enact remaining redirects and continue monitoring
 - [ ] Winnie opens WBC Launch Room Skype meeting
-- [ ] Technical and Implementation teams enter WBC Launch Room Skype meeting
+- [ ] Monitoring and Rapid Response groups enter WBC Launch Room Skype meeting
 - [ ] Wyatt posts @channel mention in vetsdotgov Slack that we are enacting Vets.gov redirects, and there will be alerts noise
-- [ ] Wyatt Walter confirms verbally that deployment is complete
-- [ ] Chris Johnston tests and confirms verbally that the redirects are functioning as intended
+- [ ] Wyatt confirms verbally that deployment is complete
+- [ ] Chris tests and confirms verbally that the redirects are functioning as intended
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
 - [ ] Skype meeting adjourns
 - [ ] Wyatt re-enables automated deployments and confirms deployment is complete in wbc-launch-ops Slack
