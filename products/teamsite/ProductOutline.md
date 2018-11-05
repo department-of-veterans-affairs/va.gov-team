@@ -21,7 +21,7 @@ It’s hard to navigate all of the VA’s different web properties, being served
 
 ## Assumptions
 - It is technically possible to replicate the functionality of the preview.va.gov header/footer across teamsite properties.
-- We can create a consistent experience for users will feel like it is a consistent experience by replacing the header / footer on teamsite properties.
+- We can create a consistent experience for users by replacing the header / footer on teamsite properties.
 
 ## Scope for Nov 7 Launch
 - The header / footer from preview.va.gov should function on the following pages:
