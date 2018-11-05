@@ -20,7 +20,6 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [x] Mime all Launch Day activities with “test” posts in the real communication channels
   - [x] Run incident scenarios
   - [x] Outbrief
-- [ ] < Nov 2: post banner on VA.gov inviting Veterans to try out preview.va.gov
 - [ ] < Nov 2: Chris Gansen (lead ops engineer for healthcare.gov) reviews:
   - [ ] Testing posture
   - [ ] Monitoring posture
@@ -65,6 +64,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [ ] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
 - [ ] Nov 6: disseminate expected resolution turnaround times in runbook
 - [ ] < Nov 6: Pete Smith activates VA311
+- [ ] < Nov 7: post banner on VA.gov inviting Veterans to try out preview.va.gov
 
 ## LAUNCH DAY: NOVEMBER 7, 2018
 
