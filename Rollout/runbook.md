@@ -124,6 +124,10 @@ Back to standard on call coverage via pager duty
 
 # The Plays
 
+## "NO" decision at Go / No Go
+
+Follow traditional pattern: disseminate Launch Status Report w/NO as the decision, and repeate Go / No Go meeting daily at the same time, until we reach a Go decision.
+
 ## Maintenance Page
 
 ### Conditions
