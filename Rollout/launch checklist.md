@@ -98,18 +98,21 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Keep WBC Launch Room Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
 ### 3:30 PM ET: merge launch PRs for testing + 5:30 PM ET deployment
-- [ ] Rian merges [PR to remove Google “disallow” function for Search and change indexing files from preview to www](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14114). Once Wyatt kicks of the production launch deployment at 5:30 PM ET, this will make the Search robots updates active.
-- [ ] Rian merges [TeamSite Header/Footer Injections](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13723): update robots.txt page and remove TeamSite Cookie feature flag, so whenever a user visits a subset of TeamSite-hosted pages, they'll see the appropriate branding. Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will make the benefits.va.gov TeamSite redirects active as well - unless OPIA is able to do server-side redirects.
+- [ ] Rian merges [PR to remove Google “disallow” function for Search and change indexing files from preview to www](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14114).
+  - Once Wyatt kicks of the production launch deployment at 5:30 PM ET, this will make the Search robots updates active.
+- [ ] Rian merges [TeamSite Header/Footer Injections](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13723): update robots.txt page and remove TeamSite Cookie feature flag, so whenever a user visits a subset of TeamSite-hosted pages, they'll see the appropriate branding.
+  - Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will make the benefits.va.gov TeamSite redirects active as well - unless OPIA is able to do server-side redirects.
+- [ ] James Kassemi gives final approval for Vets.gov Redirects PR: add production config for Vets.gov to VA.gov redirects w/onboarding modal. (Note: If James unavailable, then Alex Loehr)
+- [ ] James Kassemi gives final approval for VA.gov Cookie PR: set cookie to `true` by default, so whenever a user visits a www.VA.gov page, they'll see the new experience. (Note: If James unavailable, then Alex Loehr). This will make the www.va.gov/health TeamSite redirects active as well.
 
-
-### 5:30 PM ET: launch initiated
+### 5:00 PM ET: launch initiated
 - [ ] Rachael announces that we are initiating launch via Slack and email
 - [ ] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
 - [ ] Chris confirms verbally that we are good to launch
-- [ ] James Kassemi approves these 3 PRs (Note: If James unavailable, then Alex Loehr):
-  - [ ] Vets.gov Redirects: add production config for Vets.gov to VA.gov redirects (w/onboarding modal)
-  - [ ] VA.gov Cookie: set cookie to `true` by default, so whenever a user visits a www.VA.gov page, they'll see the new experience. This will make the www.va.gov/health TeamSite redirects active as well.
-- [ ] Wyatt merges and deploys ^ to effectively launch the new experience.
+- [ ] Wyatt merges the Vets.gov Redirects PR and the VA.gov Cookie PR
+
+### 5:30 PM ET: deploy
+- [ ] Wyatt kicks off production deployment to effectively launch the new experience.
 - [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
 
 ### 6:00 PM ET: launch complete!
