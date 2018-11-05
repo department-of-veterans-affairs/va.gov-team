@@ -4,7 +4,7 @@
 - GitHub Label: search
 - Slack channel: #dragons-team, #search-internal
 - Product POCs: 
-   - Steve Kovacs, DSVA (
+   - Steve Kovacs, DSVA (steven.kovacs@va.gov)
    - Ben Barone, Ad Hoc (ben.barone@adhocteam.us)
 - Search.gov POC: 
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
@@ -81,7 +81,7 @@ the search.gov account# for this product is 7378
 
 ## Team
 
-- VA Digital Strategist(s): Steve Kovacs steven.kovacs@va.gov
+- VA Digital Strategist(s): Steve Kovacs
 - Product Manager: Ben Barone 
 - Design Lead: Samara Strauss 
 - Eng Lead: Ben Shyong 
