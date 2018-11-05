@@ -97,7 +97,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard and How To docs are accessible and working
 - [ ] Keep WBC Launch Room Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
-### 3:30 PM ET: merge launch PRs for staging testing
+### 3:30 PM ET: merge launch PRs for testing + 5:30 PM ET deployment
 - [ ] Rian merges [PR to remove Google “disallow” function for Search and change indexing files from preview to www](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14114). Once Wyatt kicks of the production launch deployment at 5:30 PM ET, this will make the Search robots updates active.
 - [ ] Rian merges [TeamSite Header/Footer Injections](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13723): update robots.txt page and remove TeamSite Cookie feature flag, so whenever a user visits a subset of TeamSite-hosted pages, they'll see the appropriate branding. Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will make the benefits.va.gov TeamSite redirects active as well - unless OPIA is able to do server-side redirects.
 
