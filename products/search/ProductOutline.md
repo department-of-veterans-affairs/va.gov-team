@@ -60,7 +60,7 @@ the search.gov account# for this product is 7378
 ## Status
 #### 11.5.18
 - Search V2 is now live on preview.va.gov :tada:
-- Recommended results pushed as a post-launch enhancement
+- Recommended results live as a post-launch enhancement
 - Load testing complete and successful
 
 #### 10.29.18
