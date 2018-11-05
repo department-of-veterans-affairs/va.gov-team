@@ -11,7 +11,6 @@
 - Steve Kovacs
 - Lauren Alexanderson
 - Rachael Roueche
-- Mina Farzad
 - James Kassemi
 - Alex Loehr
 - Nick Sullivan
