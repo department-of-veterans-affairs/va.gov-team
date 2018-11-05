@@ -206,7 +206,17 @@ For any scenario that doesn't match those outlined here please use the incident 
 
 [What to look for in Grafana and Sentry WIP](#)
 
-People and times to be added by Nov 5, 2018.
+**Wednesday Nov 7**
+9 PM - 12 am: Elizabeth Lewis
+12 am - 3 am: Rachael
+3 am - 6 am: James
+6 am - 9 am: Chris
+
+**Thursday the 8th**
+9 PM - 12 am: Elizabeth Lewis
+12 am - 3 am: Rachael
+3 am - 6 am: James
+6 am - 9 am: Chris
 
 *Note: This document is confidential and deliberative*
 
