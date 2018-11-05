@@ -63,6 +63,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [ ] Nov 5: post smoke test routes for top 6 actions
 - [ ] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
 - [ ] Nov 6: disseminate expected resolution turnaround times in runbook
+- [ ] < Nov 6: Pete Smith activates VA311
 
 
 ## LAUNCH DAY: NOVEMBER 7, 2018
