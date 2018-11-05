@@ -171,6 +171,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 ## POST-LAUNCH NOV 9, 2018
 
 ### 9:30 AM ET: morning check-in
+
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
 - [ ] Winnie opens Go / No Go + Check Ins Skype meeting
@@ -179,7 +180,6 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris decides whether any runbook plays are needed
 - [ ] Skype meeting adjourns
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
-
 - [ ] Nick Sullivan merges remaining Vets.gov redirects PR for careers links [PR to be linked here]
 - [ ] Wyatt merges PR to make TeamSite pages use new header/footer by default, without having to check for a cookie [PR to be linked here].
 
