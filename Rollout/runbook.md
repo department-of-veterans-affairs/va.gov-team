@@ -100,7 +100,7 @@ Alex, Paul, Curtis, James travel to NSOC in WV to meet team and establish workin
 
 ### Nov 5 - 9: Launch Window
 
-On call escalation contacts will be responsive at all hours via cell phone as needed to support emergency pre-launch, launch, and post-launch needs.
+Be available to answer calls to your phone number listed in Slack to resolve potential incidents at any time of day or night. Chris, Rachael, Elizabeth, and James will take turns actively monitoring performance overnight Wednesday and Thursday nights, and depending upon the situation, may need to call in expertise for resolution. This means, don't engage in activities that could result in impaired judgement during this time :)
 
 The following members will be on site at NSOC in West Virginia:
 - [ ] Curtis
