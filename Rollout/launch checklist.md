@@ -168,8 +168,6 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Skype meeting adjourns
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
-Wyatt and TeamSite will work together to resolve CSP errors if they / as they come up.
-
 ## POST-LAUNCH NOV 9, 2018
 
 ### 9:30 AM ET: morning check-in
@@ -183,6 +181,9 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
 - [ ] Nick Sullivan merges remaining Vets.gov redirects PR for careers links [PR to be linked here]
+- [ ] Wyatt merges PR to make TeamSite pages use new header/footer by default, without having to check for a cookie [PR to be linked here].
+
+Wyatt and TeamSite will work together to resolve CSP errors if they / as they come up.
 
 Back to standard on call coverage via pager duty, [see rotation schedule in the Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md).
 
