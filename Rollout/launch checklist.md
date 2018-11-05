@@ -64,6 +64,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [ ] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
 - [ ] Nov 6: disseminate expected resolution turnaround times in runbook
 
+
 ## LAUNCH DAY: NOVEMBER 7, 2018
 
 In order to create the smoothest launch environment, it is beneficial to establish clear launch criteria early, so the team can make the simplest, clearest decisions possible in the event an incident arises.
@@ -96,12 +97,19 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard and How To docs are accessible and working
 - [ ] Keep WBC Launch Room Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
+### 3:30 PM ET: merge launch PRs for staging testing
+- [ ] Rian merges [PR to remove Google “disallow” function for Search and change indexing files from preview to www](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14114). Once Wyatt kicks of the production launch deployment at 5:30 PM ET, this will make the Search robots updates active.
+- [ ] Rian merges [TeamSite Header/Footer Injections](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13723): update robots.txt page and remove TeamSite Cookie feature flag, so whenever a user visits a subset of TeamSite-hosted pages, they'll see the appropriate branding. Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will make the benefits.va.gov TeamSite redirects active as well - unless OPIA is able to do server-side redirects.
+
+
 ### 5:30 PM ET: launch initiated
 - [ ] Rachael announces that we are initiating launch via Slack and email
 - [ ] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
 - [ ] Chris confirms verbally that we are good to launch
-- [ ] James Kassemi approves 3 PRs [PRs to be linked here for launch, header/footer injections, and Vets.gov redirects] (Note: If James unavailable, then Alex Loehr)
-- [ ] Wyatt merges the Launch PR [PR to be linked here]
+- [ ] James Kassemi approves these 3 PRs (Note: If James unavailable, then Alex Loehr):
+  - [ ] Vets.gov Redirects: add production config for Vets.gov to VA.gov redirects (w/onboarding modal)
+  - [ ] VA.gov Cookie: set cookie to `true` by default, so whenever a user visits a www.VA.gov page, they'll see the new experience. This will make the www.va.gov/health TeamSite redirects active as well.
+- [ ] Wyatt merges and deploys ^ to effectively launch the new experience.
 - [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
 
 ### 6:00 PM ET: launch complete!
@@ -117,7 +125,7 @@ If any of the crisis criteria are met, immediately start following the plays in 
 
 ### 6:30 PM ET: Test, do immediate post-launch items, monitor
 - [ ] Josh Vargas and Veteran Facing Tools PMs run smoke tests for top site interactions
-- [ ] *Person TBD* merges PR to remove Google “disallow” function for Search and change indexing files from preview to www
+- [ ] Ben Barone QA's Search in production
 - [ ] Full team watches monitoring dashboard, google analytics, social media buzz
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 - [ ] Skype meeting adjourns, use incident Skype meetings if issue resolution is needed
@@ -138,7 +146,6 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Winnie opens WBC Launch Room Skype meeting
 - [ ] Technical and Implementation teams enter WBC Launch Room Skype meeting
 - [ ] Wyatt posts @channel mention in vetsdotgov Slack that we are enacting Vets.gov redirects, and there will be alerts noise
-- [ ] Wyatt Walter merges Vets.gov redirects PR [PR to be linked here]
 - [ ] Wyatt Walter confirms verbally that deployment is complete
 - [ ] Chris Johnston tests and confirms verbally that the redirects are functioning as intended
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
@@ -171,6 +178,8 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Chris decides whether any runbook plays are needed
 - [ ] Skype meeting adjourns
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
+
+- [ ] Nick Sullivan merges remaining Vets.gov redirects PR for careers links [PR to be linked here]
 
 Back to standard on call coverage via pager duty, [see rotation schedule in the Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md).
 
