@@ -2,9 +2,13 @@
 
 ## Communications
 - GitHub Label: search
-- Slack channel: #dragons-team
-- Product POCs: Steve Kovacs & Ben Barone
-- Search.gov POC: Dawn McCleskey
+- Slack channel: #dragons-team, #search-internal
+- Product POCs: 
+   - Steve Kovacs, DSVA (
+   - Ben Barone, Ad Hoc (ben.barone@adhocteam.us)
+- Search.gov POC: 
+   - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
+   - Luke Samuels (Luke.samuels@gsa.gov)
 
 ## User Problem Statement
 Once va.gov relaunches, users need a way to search content across both old and new va.gov properties
@@ -77,16 +81,15 @@ the search.gov account# for this product is 7378
 
 ## Team
 
-- VA Digital Strategist(s) *: Steve Kovacs steven.kovacs@va.gov
-- Product Manager *: Ben Barone ben.barone@adhocteam.us 
-- Design Lead: Samara Strauss samara.strauss@va.gov
-- Eng Lead: Ben Shyong ben.shyong@adhocteam.us 
+- VA Digital Strategist(s): Steve Kovacs steven.kovacs@va.gov
+- Product Manager: Ben Barone 
+- Design Lead: Samara Strauss 
+- Eng Lead: Ben Shyong 
 - Engineers:
-   - Ben Shyong
    - Harry Levine
    - Keifer Furzland
    - Rian Fowler
-- Search.gov POC: Dawn McCleskey *: search@support.digitalgov.gov
+   - Narin Ratana
    
 ## Screenshots
 
