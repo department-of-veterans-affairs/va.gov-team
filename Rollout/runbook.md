@@ -35,7 +35,7 @@
 - Andrew Hughey
 - Elizabeth Lewis
 
-## Who to contact if you see a problem:
+## On Call Group (i.e. who to contact if you see a problem)
 
 #### Product, implementation, general issues
 
@@ -103,17 +103,18 @@ Alex, Paul, Curtis, James travel to NSOC in WV to meet team and establish workin
 Be available to answer calls to your phone number listed in Slack to resolve potential incidents at any time of day or night. Chris, Rachael, Elizabeth, and James will take turns actively monitoring performance overnight Wednesday and Thursday nights, and depending upon the situation, may need to call in expertise for resolution. This means, don't engage in activities that could result in impaired judgement during this time :)
 
 The following members will be on site at NSOC in West Virginia:
-- [ ] Curtis
+- Curtis
 
 The following members will be in-person from 9 AM to 8 PM ET.
 
-- Chris Johnston
-- James Kassemi
+- James
+- Wyatt
+- Nick
+- Ben S
+- Chris
+- Alex Loehr
+- Rachael
 - Paul Smith
-- Elizabeth Lewis
-- Rachael Roueche
-- Wyatt Walter
-- Others TBD...
 
 ### Nov 10 - onward (if launch is stable)
 
