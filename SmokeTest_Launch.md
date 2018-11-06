@@ -14,7 +14,7 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - this is **sanity testing** and should be completed in the days/weeks following launch
 
 ## When?
-6:30-7:30pm ET Wednesday, 10.7.18
+6:30-7:30pm ET Wednesday, 11.7.18
 
 ## Who?
 - Entire PM group + Josh Vargas
