@@ -7,6 +7,7 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - things to test:
   1. Anything with an external integration
   2. All applications
+  3. End-to-end site functionality
 
 **Our goal IS NOT** to hunt bugs or test fine grained levels of functionality.
 
