@@ -41,8 +41,8 @@ A non-exhaustive set of tests that ensure that most important functionality work
 
 ### Dashboard
 - Do widgets show?
-- Do links function correctly (no 404s, no issues outlinking to MHV tools)
-- A form / application can be started and resumed from the dashboard
+- Do widget view all links function correctly (no 404s, no issues outlinking to MHV tools)?
+- Can a form / application be started elsewhere and resumed from the dashboard?
 
 ### Account 
 - Does identity verification work?
