@@ -36,7 +36,10 @@ A non-exhaustive set of tests that ensure that most important functionality work
 
 ## Personalization Products
 ### Profile
-- Does information show?
+- Does information show for:
+   1. Contact info
+   2. Personal Info
+   3. Military History
 - Do contact information updates work?
 
 ### Dashboard
