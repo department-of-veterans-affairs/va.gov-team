@@ -62,7 +62,27 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - Does 2FA work first time, and hold on second time?
 - Do terms and conditions work?
    
+## Additional Tools to check
+- preview.va.gov/facilities/
+- preview.va.gov/claim-or-appeal-status/
+- preview.va.gov/track-claims/your-claims/
+- preview.va.gov/my-va/
+- preview.va.gov/records/get-veteran-id-cards/
+- preview.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+- preview.va.gov/records/get-veteran-id-cards/vic/
+- preview.va.gov/va-payment-history/
+- preview.va.gov/track-claims/
+- preview.va.gov/records/download-va-letters/
  
+ 
+## Testers
+- Aubrey Arcangel (DS Logon, MHV, ID.me)
+- Rian Fowler (DS Logon, ID.me)
+- Ben Barone, Dawn Munoz, Ryan Luu, Rachael Roueche
+
+
 # Next Steps
 1. Ben secure logins (MHV prod, friends (aubrey, rian, josh)
+- completed
 2. Use analytics (Ben connect with Tony, Nedie) to determine top 15 used pages / tools / things on VA.gov
+- compeleted
