@@ -30,16 +30,15 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 - [x] Nov 2: Winnie has 4 ~~join.me rooms~~ Skype for Business meetings available for on call use
 - [x] Nov 2: Rachael sends calendar invitations for Nov 7 launch Go / No Go meeting
 - [x] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 post-launch check-ins
-- [ ] Nov 4: open #wbc-launch-ops channel up in slack
-  - [ ] Chris Johnston added
-  - [ ] James Kassemi added
-  - [ ] Wyatt Walter added
-  - [ ] Craig Butler added
-  - [ ] Ryan Watson added
-  - [ ] Rachael Roueche added
+- [x] Nov 4: open #wbc-launch-ops channel up in slack
+  - [x] Chris Johnston added
+  - [x] James Kassemi added
+  - [x] Wyatt Walter added
+  - [x] Craig Butler added
+  - [x] Rachael Roueche added
   - [ ] Chris Gansen added
   - [ ] Patrick Vinograd added
-  - [ ] Kam Karshenas
+  - [x] Kam Karshenas
   - [ ] Paul Smith added
   - [ ] Amy Cesal added
   - [ ] Emily Waggoner added
@@ -47,24 +46,23 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Lauren Alexanderson
   - [ ] Rian Fowler
   - [ ] Ben Barone
-  - [ ] Ben Shyong
+  - [x] Ben Shyong
   - [ ] Ryan Luu
-  - [ ] Elizabeth Lewis
+  - [x] Elizabeth Lewis
   - [ ] Curtis Mejeur
-  - [ ] Post ROEs for this channel and pin to channel
-  - [ ] Pin runbook (w/crisis thresholds) to channel
+  - [x] Post ROEs for this channel and pin to channel
+  - [x] Pin runbook (w/crisis thresholds) to channel
   - [ ] Pin incident response docs to channel
   - [ ] Pin comms templates to channel
   - [ ] Pin Data Studio link to channel, for analytics monitoring
   - [ ] Pin monitoring dashboard URL to channel
 - [ ] < Nov 5: confirm that On Call team members have their personal phone number available in DSVA slack profile
 - [ ] Nov 5: test on call and pagerduty rotations
-- [ ] Nov 5: OIT / ITOPS meeting/communications: preparing for pausing layout changes, and for being at the ready to have traffic piped back in the event we run into an incident in the next few days.
 - [ ] Nov 5: post smoke test routes for top 6 actions
-- [ ] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
+- [x] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
 - [ ] Nov 6: disseminate expected resolution turnaround times in runbook
 - [ ] < Nov 6: Pete Smith activates VA311
-- [ ] < Nov 7: post banner on VA.gov inviting Veterans to try out preview.va.gov
+- [x] < Nov 7: post banner on VA.gov inviting Veterans to try out preview.va.gov
 
 ## LAUNCH DAY: NOVEMBER 7, 2018
 
