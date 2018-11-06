@@ -10,6 +10,7 @@ A non-exhaustive set of tests that ensure that most important functionality work
   3. End-to-end site functionality
 
 **Our goal IS NOT** to hunt bugs or test fine grained levels of functionality.
+- this is **sanity testing** and should be completed in the days/weeks following launch
 
 # Critical Functionality to Test
 ## Login
