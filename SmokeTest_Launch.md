@@ -1,8 +1,9 @@
 # Smoke Testing for VA.gov Launch Nov 7
-### What is a smoke test?
+## What is a smoke test?
 A non-exhaustive set of tests that ensure that most important functionality works
 - the term originally comes from hardware testing, in which the product passes if it does not catch fire the first time it is turned on
 
+## Why?
 **Our goal is** to run quick, high-level functional tests post-launch to determine that users are receiving a highly functional experience.
 - things to test:
   1. Anything with an external integration
@@ -11,6 +12,13 @@ A non-exhaustive set of tests that ensure that most important functionality work
 
 **Our goal IS NOT** to hunt bugs or test fine grained levels of functionality.
 - this is **sanity testing** and should be completed in the days/weeks following launch
+
+## When?
+6:30pm ET Wednesday, 10.7.18
+
+## Who?
+- Entire PM group + Josh Vargas
+- Additional folks who are veterans and can test some of the login stuff
 
 # Critical Functionality to Test
 ## Login
@@ -55,3 +63,6 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - Do terms and conditions work?
    
  
+# Next Steps
+1. Ben secure logins (MHV prod, friends (aubrey, rian, josh)
+2. Use analytics (Ben connect with Tony, Nedie) to determine top 15 used pages / tools / things on VA.gov
