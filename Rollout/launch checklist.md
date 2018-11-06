@@ -103,7 +103,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
   - Once Wyatt kicks of the production launch deployment at 5:30 PM ET, this will make the Search robots updates active.
 - [ ] Rian merges [TeamSite Header/Footer Injections](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13723): update robots.txt page and remove TeamSite Cookie feature flag, so whenever a user visits a subset of TeamSite-hosted pages, they'll see the appropriate branding.
   - Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will make the benefits.va.gov TeamSite redirects active as well - unless OPIA is able to do server-side redirects.
-- [ ] James Kassemi gives final approval for [Vets.gov Redirects PR](#): add production config for Vets.gov to VA.gov redirects w/onboarding modal. (Note: If James unavailable, then Alex Loehr)
+- [ ] James Kassemi gives final approval for [Vets.gov Redirects PR](https://github.com/department-of-veterans-affairs/vets-website/pull/9043): add production config for Vets.gov to VA.gov redirects w/onboarding modal. (Note: If James unavailable, then Alex Loehr)
 - [ ] James Kassemi gives final approval for [VA.gov Cookie PR](https://github.com/department-of-veterans-affairs/devops/pull/3569): set cookie to `true` by default, so whenever a user visits a www.VA.gov page, they'll see the new experience. (Note: If James unavailable, then Alex Loehr). This will make the www.va.gov/health TeamSite redirects active as well.
 
 ### 5:00 PM ET: launch initiated
