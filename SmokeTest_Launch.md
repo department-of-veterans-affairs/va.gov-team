@@ -3,11 +3,16 @@
 A non-exhaustive set of tests that ensure that most important functionality works
 - the term originally comes from hardware testing, in which the product passes if it does not catch fire the first time it is turned on
 
-Our goal is to run quick functional tests post-launch to determine that users are receiving a highly functional experience.
+**Our goal is** to run quick, high-level functional tests post-launch to determine that users are receiving a highly functional experience.
+- things to test:
+  1. Anything with an external integration
+  2. All applications
+
+**Our goal IS NOT** to hunt bugs or test fine grained levels of functionality.
 
 # Critical Functionality to Test
 ## Login
-- Do all credential logins work through all flow paths?
+- Do all credential logins work?
    1. DS logon
    2. MHV 
    3. ID.me
@@ -37,6 +42,7 @@ Our goal is to run quick functional tests post-launch to determine that users ar
 ### Dashboard
 - Do widgets show?
 - Do links function correctly (no 404s, no issues outlinking to MHV tools)
+- A form / application can be started and resumed from the dashboard
 
 ### Account 
 - Does identity verification work?
