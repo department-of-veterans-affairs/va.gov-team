@@ -63,17 +63,16 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - Do terms and conditions work?
    
 ## Additional Tools to check
-- preview.va.gov/facilities/
-- preview.va.gov/claim-or-appeal-status/
-- preview.va.gov/track-claims/your-claims/
-- preview.va.gov/my-va/
-- preview.va.gov/records/get-veteran-id-cards/
-- preview.va.gov/education/gi-bill/post-9-11/ch-33-benefit/
-- preview.va.gov/records/get-veteran-id-cards/vic/
-- preview.va.gov/va-payment-history/
-- preview.va.gov/track-claims/
-- preview.va.gov/records/download-va-letters/
- 
+- va.gov/facilities/
+- va.gov/claim-or-appeal-status/
+- va.gov/track-claims/your-claims/
+- va.gov/my-va/
+- va.gov/records/get-veteran-id-cards/
+- va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+- va.gov/records/get-veteran-id-cards/vic/
+- va.gov/va-payment-history/
+- va.gov/track-claims/
+- va.gov/records/download-va-letters/
  
 ## Testers
 - Aubrey Arcangel (DS Logon, MHV, ID.me)
