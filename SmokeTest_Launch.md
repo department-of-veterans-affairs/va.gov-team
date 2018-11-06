@@ -3,7 +3,7 @@
 A non-exhaustive set of tests that ensure that most important functionality works
 - the term originally comes from hardware testing, in which the product passes if it does not catch fire the first time it is turned on
 
-Our goal is to run quick test post-launch to determine that users are receiving a highly functional experience.
+Our goal is to run quick functional tests post-launch to determine that users are receiving a highly functional experience.
 
 # Critical Functionality to Test
 ## Login
