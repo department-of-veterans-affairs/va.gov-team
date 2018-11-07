@@ -1,7 +1,9 @@
-#Subject
+# Subject
 [ Event type ] status report
 
-#Body
+# Body
+
+Hello everyone, here is the launch latest status report:
 
 ### Event
 
