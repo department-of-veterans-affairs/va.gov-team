@@ -209,8 +209,6 @@ For any scenario that doesn't match those outlined here please use the incident 
 
 ## 24/7 Active Monitoring Rotation Schedule
 
-[What to look for in Grafana and Sentry WIP](#)
-
 **Wednesday Nov 7**
 - 9 pm - 12 am: James
 - 12 am - 3 am: Rachael
