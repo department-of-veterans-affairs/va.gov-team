@@ -6,8 +6,14 @@
 Hello Everyone,
 
 ### Status
+[ Details ]
+
 ### Performance
+[ Details ]
+
 ### Usage
+[ Details ]
+
 ### Expected next steps
 - Complete deployment
 - Verify soft launch complete
@@ -28,5 +34,7 @@ Thank you!
 --
 
 Rachael Roueche
+
 Veteran Facing Tools, Department of Veterans Affairs
+
 Ad Hoc LLC
