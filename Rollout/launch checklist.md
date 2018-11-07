@@ -81,19 +81,16 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [x] In person and Skype meetings adjourn
 
 ### 1:30 PM ET: launch preparation begins
-- [ ] In-person Rapid Response team members gather in Rapid Response room at WeWork
-- [ ] In-person Monitoring team members gather in Monitoring room at WeWork
-- [ ] Key execs gather in Executive Launch Control Room at VA
-- [ ] Winnie opens WBC Launch Room Skype meeting
-- [ ] Does everyone have the On Call contact list, and are any changes needed?
-- [ ] All members review [Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md) and other pinned Slack channel information
-- [ ] All members confirm they have the incident response contact info handy
-- [ ] Technical and Implementation teams enter WBC Launch Room Skype meeting
-- [ ] Wyatt posts @channel mention in vetsdotgov Slack about how enacting Vets.gov redirects tonight will create alerts noise
-- [ ] Members confirm presence and connectivity
-- [ ] Wyatt disables automated production deployments
-- [ ] Rachael, Chris, and Wyatt verify that monitoring dashboard and How To docs are accessible and working
-- [ ] Keep WBC Launch Room Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
+- [x] In-person Rapid Response team members gather in Rapid Response room at WeWork
+- [x] In-person Monitoring team members gather in Monitoring room at WeWork
+- [x] Winnie opens WBC Launch Room Skype meeting
+- [x] All members review [Runbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Rollout/runbook.md) and other pinned Slack channel information
+- [x] All members confirm they have the incident response contact info handy
+- [x] Wyatt posts @channel mention in #vetsdotgov #oncall channels Slack about how enacting Vets.gov redirects tonight will create alerts noise
+- [x] Members confirm presence and connectivity
+- [x] Wyatt disables automated production deployments, and updates #wbc-launch-ops and #vetsdotgov
+- [x] Rachael, Chris, and Wyatt verify that monitoring dashboard is accessible and working
+- [x] Keep WBC Launch Room Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
 ### 3:30 PM ET: merge launch PRs for testing
 - [ ] Rian merges [PR to remove Google “disallow” function for Search and change indexing files from preview to www](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14114).  PR [here](https://github.com/department-of-veterans-affairs/vets-website/pull/8924) 
