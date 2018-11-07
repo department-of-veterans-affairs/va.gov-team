@@ -138,7 +138,7 @@ Follow traditional pattern: disseminate Launch Status Report w/NO as the decisio
 
 ### Plan
 
-1. On call party escalates issue to incident commander via Pager Duty
+1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
 1. Incident Commander updates #wbc-launch-ops channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
 1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
@@ -165,7 +165,7 @@ This constitutes a rollback to the www.va.gov system for content, while still ha
 * Engineering assessment that rollback to 100% EWIS VA proxy will alleviate the issue.
 
 ### Plan
-1. On call party escalates issue to incident commander via Pager Duty
+1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
 1. Incident Commander updates #wbc-launch-ops channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
 1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
@@ -190,7 +190,7 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 
 ### Plan
 
-1. On call party escalates issue to incident commander via Pager Duty
+1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
 1. Incident Commander updates #wbc-launch-ops channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
 1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
