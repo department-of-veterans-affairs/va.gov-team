@@ -102,24 +102,23 @@ In order to create the smoothest launch environment, it is beneficial to establi
   - Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will also make the www.va.gov/health TeamSite redirects active, and will make login work in production.
   
 ### 5:00 PM ET: launch initiated
-- [ ] Confirm ID.me Vets.gov scrub complete
-- [ ] Confirm submission works for Login help form
+- [x] Confirm ID.me Vets.gov scrub complete
+- [x] Confirm submission works for Login help form
 - [x] Confirm homepage stories are updated
-- [ ] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as in-progress
-- [ ] Rachael announces that we are initiating launch via Slack and email
-- [ ] Wyatt posts @channel mention in #vetsdotgov Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
-- [ ] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
-- [ ] Chris confirms verbally that we are good to launch
+- [x] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as in-progress
+- [x] Rachael announces that we are initiating launch via Slack and email
+- [x] Wyatt posts @channel mention in #vetsdotgov Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
+- [x] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
+- [x] Chris confirms verbally that we are good to launch
 
 ### 5:30 PM ET: deploy
-- [ ] Wyatt kicks off production deployment to revproxy to effectively launch the new experience.
-- [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
+- [x] Wyatt kicks off production deployment to revproxy to effectively launch the new experience.
+- [x] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
 
 ### 6:00 PM ET: launch complete!
-- [ ] Wyatt confirms verbally that the deployment is complete
-- [ ] Chris Johnston (or anyone), while screensharing, loads www.va.gov
-- [ ] Wyatt confirms verbally that deployment is complete
-- [ ] Chris Johnston (or anyone), while screensharing in Skype, clicks  from www.va.gov to load a teamsite-hosted page
+- [x] Wyatt confirms verbally that the deployment is complete
+- [x] Chris Johnston (or anyone), while screensharing, loads www.va.gov
+- [x] Chris Johnston (or anyone), while screensharing in Skype, clicks  from www.va.gov to load a teamsite-hosted page
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 - [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
 
