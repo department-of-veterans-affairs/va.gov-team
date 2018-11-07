@@ -82,6 +82,8 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - **link**: va.gov/track-claims/your-claims/
 - **link**: va.gov/track-claims/
 
+[Claim and Appeals Status - Smoke Test Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Claim%20Status/track-claim-status/Claims%20and%20Appeals%20Status%20-%20Internal%20Smoke%20Test.pdf)
+
 ### VIC Application
 1. Need a user with an active claim / appeal
 2. Need description of core functionality
@@ -96,6 +98,7 @@ A non-exhaustive set of tests that ensure that most important functionality work
 1. Need a user with an active claim / appeal
 2. Need description of core functionality
 - **link**: va.gov/records/download-va-letters/
+
 [VA Letters - Smoke Test Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/VA%20Documents%20and%20Letters/screenshots/VA%20Letters%20and%20Documents%20-%20Internal%20Smoke%20Test.pdf)
  
 ### Testers
