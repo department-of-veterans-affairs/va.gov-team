@@ -105,7 +105,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Confirm ID.me Vets.gov scrub complete
 - [ ] Confirm submission works for Login help form
 - [x] Confirm homepage stories are updated
-- [ ] Confirm that Polaris record is marked as in-progress
+- [ ] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as in-progress
 - [ ] Rachael announces that we are initiating launch via Slack and email
 - [ ] Wyatt posts @channel mention in #vetsdotgov Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
 - [ ] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
@@ -143,7 +143,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Do we need any changes to on call points of contact and 24/7 monitoring?
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 - [ ] Skype meeting adjourns
-- [ ] Confirm that Polaris record is marked as complete
+- [ ] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as complete
 
 ### 8:00 PM ET: Monitor + Wrap up
 - [ ] Winnie opens WBC Launch Room Skype meeting
