@@ -20,13 +20,12 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [x] Mime all Launch Day activities with “test” posts in the real communication channels
   - [x] Run incident scenarios
   - [x] Outbrief
-- [ ] < Nov 2: Chris Gansen (lead ops engineer for healthcare.gov) reviews:
-  - [ ] Testing posture
-  - [ ] Monitoring posture
-  - [ ] Runbook
-  - [ ] Incident Management Plan
-  - [ ] Launch checklist
-  - [ ] Ops Readiness Report
+- [x] < Nov 2: Chris Gansen (lead ops engineer for healthcare.gov) reviews:
+  - [x] Testing posture
+  - [x] Monitoring posture
+  - [x] Runbook
+  - [x] Incident Management Plan
+  - [x] Launch checklist
 - [x] Nov 2: Winnie has 4 ~~join.me rooms~~ Skype for Business meetings available for on call use
 - [x] Nov 2: Rachael sends calendar invitations for Nov 7 launch Go / No Go meeting
 - [x] Nov 2: Rachael sends calendar invitations for Nov 8 and 9 post-launch check-ins
@@ -52,7 +51,7 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Curtis Mejeur
   - [x] Post ROEs for this channel and pin to channel
   - [x] Pin runbook (w/crisis thresholds) to channel
-  - [ ] Pin incident response docs to channel
+  - [x] Pin incident response docs to channel
   - [ ] Pin comms templates to channel
   - [ ] Pin Data Studio link to channel, for analytics monitoring
   - [ ] Pin monitoring dashboard URL to channel
