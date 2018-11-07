@@ -63,11 +63,11 @@ A non-exhaustive set of tests that ensure that most important functionality work
    
 ## Facility Locator
 - Can a search be performed successfully?
-va.gov/facilities/
+- va.gov/facilities/
 
 ## Veteran ID Card Page
 - this is a high-traffic page, so just a spot check to make sure nothing looks really off
-va.gov/records/get-veteran-id-cards/
+- va.gov/records/get-veteran-id-cards/
 
 ## Ebenefits Payment History
 - Just test the link out works
@@ -76,21 +76,21 @@ va.gov/records/get-veteran-id-cards/
 ## Production items that need testing plan (prod user who can access, description of functionality)
 ### Claim or Appeal Status
 - need a user with an active claim / appeal
-va.gov/claim-or-appeal-status/
-va.gov/track-claims/your-claims/
-va.gov/track-claims/
+- va.gov/claim-or-appeal-status/
+- va.gov/track-claims/your-claims/
+- va.gov/track-claims/
 
 ### VIC Application
 - does application process work?
-va.gov/records/get-veteran-id-cards/vic/
+- va.gov/records/get-veteran-id-cards/vic/
 
 ### Post-9/11 GI Bill Statement of Benefits
 - check GI Bill tool up and functioning
-va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+- va.gov/education/gi-bill/post-9-11/ch-33-benefit/
 
 ### Download VA Letters
 - Need login, need description of functionality
-va.gov/records/download-va-letters/
+- va.gov/records/download-va-letters/
  
 ### Testers
 - Aubrey Arcangel (DS Logon, MHV, ID.me)
