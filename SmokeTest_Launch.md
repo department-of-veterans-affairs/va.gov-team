@@ -63,34 +63,38 @@ A non-exhaustive set of tests that ensure that most important functionality work
    
 ## Facility Locator
 - Can a search be performed successfully?
-- va.gov/facilities/
+- **link**: va.gov/facilities/
 
 ## Veteran ID Card Page
 - this is a high-traffic page, so just a spot check to make sure nothing looks really off
-- va.gov/records/get-veteran-id-cards/
+- **link**: va.gov/records/get-veteran-id-cards/
 
-## Ebenefits Payment History
-- Just test the link out works
+## eBenefits Payment History
+- Test the link out to eBenefits takes the user to eBenefits
 - va.gov/va-payment-history/
 
 ## Production items that need testing plan (prod user who can access, description of functionality)
 ### Claim or Appeal Status
-- need a user with an active claim / appeal
-- va.gov/claim-or-appeal-status/
-- va.gov/track-claims/your-claims/
-- va.gov/track-claims/
+1. Need a user with an active claim / appeal
+2. Need description of core functionality
+
+- **link**: va.gov/claim-or-appeal-status/
+- **link**: va.gov/track-claims/your-claims/
+- **link**: va.gov/track-claims/
 
 ### VIC Application
-- does application process work?
-- va.gov/records/get-veteran-id-cards/vic/
+1. Need a user with an active claim / appeal
+2. Need description of core functionality
+- **link**: va.gov/records/get-veteran-id-cards/vic/
 
 ### Post-9/11 GI Bill Statement of Benefits
-- check GI Bill tool up and functioning
-- va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+1. Need a user with an active claim / appeal
+2. Need description of core functionality
+- **link**: va.gov/education/gi-bill/post-9-11/ch-33-benefit/
 
 ### Download VA Letters
 - Need login, need description of functionality
-- va.gov/records/download-va-letters/
+- **link**: va.gov/records/download-va-letters/
  
 ### Testers
 - Aubrey Arcangel (DS Logon, MHV, ID.me)
