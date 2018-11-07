@@ -26,3 +26,13 @@
 ### Usage details
 
 [Details]
+
+### Upcoming status updates
+
+- Launch initiation
+- Deployment complete
+- Testing and Monitoring results
+- Post-launch partners check-in
+- Final evening update
+- Thursday morning partners check-in
+- Friday morning partners check-in
