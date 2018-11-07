@@ -68,17 +68,17 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
 In order to create the smoothest launch environment, it is beneficial to establish clear launch criteria early, so the team can make the simplest, clearest decisions possible in the event an incident arises.
 
 ### 9 AM ET: Assemble
-- [ ] All in-person Go / No Go attendees head to Team Space, 5th floor, 811 Vermont Ave NW, Washington DC (Rooms 5074 / 5076)
-- [ ] Winnie opens Go / No Go Skype Meeting
-- [ ] All remote Go / No Go attendees enter Go / No Go + Check Ins Skype Meeting
-- [ ] Curtis is on-site at ITOPS in Martinsburg, WV
+- [x] All in-person Go / No Go attendees head to Team Space, 5th floor, 811 Vermont Ave NW, Washington DC (Rooms 5074 / 5076)
+- [x] Winnie opens Go / No Go Skype Meeting
+- [x] All remote Go / No Go attendees enter Go / No Go + Check Ins Skype Meeting
+- [x] Curtis is on-site at ITOPS in Martinsburg, WV
 
 ### 10 AM ET: Go / No Go meeting
-- [ ] Roll call: all Go / No Go attendees present
-- [ ] Standup-style poll
-- [ ] Chris makes the decision to launch
-- [ ] Chris disseminates the decision via Slack and email
-- [ ] In person and Skype meetings adjourn
+- [x] Roll call: all Go / No Go attendees present
+- [x] Standup-style poll
+- [x] Chris makes the decision to launch
+- [x] Rachael disseminates the decision via Slack and email
+- [x] In person and Skype meetings adjourn
 
 ### 1:30 PM ET: launch preparation begins
 - [ ] In-person Rapid Response team members gather in Rapid Response room at WeWork
