@@ -6,9 +6,7 @@
 Hello Everyone,
 
 ### Timestamp
-DD/MM/YY
-
-`##:##` PM/AM ET
+DD/MM/YY, `##:##` PM/AM ET
 
 ### Status
 [ Details ]
