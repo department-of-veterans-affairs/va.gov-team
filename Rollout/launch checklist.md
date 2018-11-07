@@ -96,9 +96,9 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Keep WBC Launch Room Skype meeting open, people can enter/leave, and mute/unmute to collaborate as needed
 
 ### 3:30 PM ET: merge launch PRs for testing
-- [ ] Rian merges [PR to remove Google “disallow” function for Search and change indexing files from preview to www](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14114).
+- [ ] Rian merges [PR to remove Google “disallow” function for Search and change indexing files from preview to www](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14114).  PR [here](https://github.com/department-of-veterans-affairs/vets-website/pull/8924) 
   - Once Wyatt kicks of the production launch deployment at 5:30 PM ET, this will make the Search robots updates active.
-- [ ] Rian merges [TeamSite Header/Footer Injections](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13723): update robots.txt page and remove TeamSite Cookie feature flag, so whenever a user visits a subset of TeamSite-hosted pages, they'll see the appropriate branding.
+- [ ] Rian merges [TeamSite Header/Footer Injections](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13723): update robots.txt page and remove TeamSite Cookie feature flag, so whenever a user visits a subset of TeamSite-hosted pages, they'll see the appropriate branding. PR [here](https://github.com/department-of-veterans-affairs/vets-website/pull/9045)
   - Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will make the benefits.va.gov TeamSite redirects active as well - unless OPIA is able to do server-side redirects.
 - [ ] James Kassemi gives final approval for, and Wyatt merges [Vets.gov Redirects PR](https://github.com/department-of-veterans-affairs/vets-website/pull/9043): add production config for Vets.gov to VA.gov redirects w/onboarding modal. (Note: If James unavailable, then Alex Loehr)
 - [ ] James Kassemi gives final approval for, and Wyatt merges [VA.gov New Experience PR](https://github.com/department-of-veterans-affairs/devops/pull/3581): remove need for cookie to see the new page. (Note: If James unavailable, then Alex Loehr).
