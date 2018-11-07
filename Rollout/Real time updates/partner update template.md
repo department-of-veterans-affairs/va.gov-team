@@ -3,7 +3,7 @@
 
 # Body
 
-Hello everyone, here is the launch latest status report:
+Hello everyone, here is the latest launch status report:
 
 ### Event
 
