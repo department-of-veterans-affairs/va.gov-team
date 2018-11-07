@@ -104,7 +104,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
 ### 5:00 PM ET: launch initiated
 - [ ] Confirm ID.me Vets.gov scrub complete
 - [ ] Confirm submission works for Login help form
-- [ ] Confirm homepage stories are updated
+- [x] Confirm homepage stories are updated
 - [ ] Confirm that Polaris record is marked as in-progress
 - [ ] Rachael announces that we are initiating launch via Slack and email
 - [ ] Wyatt posts @channel mention in #vetsdotgov Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
