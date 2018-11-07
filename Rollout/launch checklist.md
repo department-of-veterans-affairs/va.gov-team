@@ -119,8 +119,8 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [x] Wyatt confirms verbally that the deployment is complete
 - [x] Chris Johnston (or anyone), while screensharing, loads www.va.gov
 - [x] Chris Johnston (or anyone), while screensharing in Skype, clicks  from www.va.gov to load a teamsite-hosted page
-- [ ] Rachael disseminates Launch Status Report details in Slack and email
-- [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
+- [x] Rachael disseminates Launch Status Report details in Slack and email
+- [x] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
 
 If any of the crisis criteria are met, immediately start following the plays in the runbook.
 
