@@ -105,6 +105,9 @@ In order to create the smoothest launch environment, it is beneficial to establi
   - Once Wyatt kicks off the production launch deployment at 5:30 PM ET, this will also make the www.va.gov/health TeamSite redirects active, and will make login work in production.
   
 ### 5:00 PM ET: launch initiated
+- [ ] Confirm ID.me Vets.gov scrub complete
+- [ ] Confirm submission works for Login help form
+- [ ] Confirm homepage stories are updated
 - [ ] Rachael announces that we are initiating launch via Slack and email
 - [ ] Wyatt posts @channel mention in #vetsdotgov Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
 - [ ] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
