@@ -57,10 +57,10 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [ ] Pin monitoring dashboard URL to channel
 - [ ] < Nov 5: confirm that On Call team members have their personal phone number available in DSVA slack profile
 - [ ] Nov 5: test on call and pagerduty rotations
-- [ ] Nov 5: post smoke test routes for top 6 actions
+- [x] Nov 5: post [smoke test routes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/c8d6c0f1602c1a1e5ef2c70d45b456c44d89ea6b/SmokeTest_Launch.md) for top actions
 - [x] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
 - [ ] Nov 6: disseminate expected resolution turnaround times in runbook
-- [ ] < Nov 6: Pete Smith activates VA311
+- [x] < Nov 6: Pete Smith activates VA311
 - [x] < Nov 7: post banner on VA.gov inviting Veterans to try out preview.va.gov
 
 ## LAUNCH DAY: NOVEMBER 7, 2018
