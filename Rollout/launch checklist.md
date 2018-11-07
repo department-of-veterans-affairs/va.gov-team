@@ -52,14 +52,14 @@ See fallback paths in [runbook](https://github.com/department-of-veterans-affair
   - [x] Post ROEs for this channel and pin to channel
   - [x] Pin runbook (w/crisis thresholds) to channel
   - [x] Pin incident response docs to channel
-  - [ ] Pin comms templates to channel
-  - [ ] Pin Data Studio link to channel, for analytics monitoring
-  - [ ] Pin monitoring dashboard URL to channel
+  - [x] Pin comms templates to channel
+  - [x] Pin Data Studio link to channel, for analytics monitoring
+  - [x] Pin monitoring dashboard URL to channel
 - [x] < Nov 5: confirm that On Call team members have their personal phone number available in DSVA slack profile
 - [ ] Nov 5: test on call and pagerduty rotations
 - [x] Nov 5: post [smoke test routes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/c8d6c0f1602c1a1e5ef2c70d45b456c44d89ea6b/SmokeTest_Launch.md) for top actions
 - [x] Nov 5: post members of 24/7 dashboard monitoring team for Nov 7 - 9
-- [ ] Nov 6: disseminate expected resolution turnaround times in runbook
+- [x] Nov 6: disseminate expected resolution turnaround times in runbook
 - [x] < Nov 6: Pete Smith activates VA311
 - [x] < Nov 7: post banner on VA.gov inviting Veterans to try out preview.va.gov
 
@@ -106,6 +106,7 @@ In order to create the smoothest launch environment, it is beneficial to establi
   
 ### 5:00 PM ET: launch initiated
 - [ ] Rachael announces that we are initiating launch via Slack and email
+- [ ] Wyatt posts @channel mention in #vetsdotgov Slack and in #oncall that we are enacting Vets.gov redirects, and there will be alerts noise
 - [ ] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
 - [ ] Chris confirms verbally that we are good to launch
 - [ ] Wyatt merges the [Vets.gov Redirects PR](https://github.com/department-of-veterans-affairs/vets-website/pull/9043) and the [VA.gov new experience PR](https://github.com/department-of-veterans-affairs/devops/pull/3581)
@@ -143,12 +144,10 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 - [ ] Skype meeting adjourns
 
-### 8:00 PM ET: Enact remaining redirects and continue monitoring
+### 8:00 PM ET: Monitor + Wrap up
 - [ ] Winnie opens WBC Launch Room Skype meeting
 - [ ] Monitoring and Rapid Response groups enter WBC Launch Room Skype meeting
-- [ ] Wyatt posts @channel mention in vetsdotgov Slack that we are enacting Vets.gov redirects, and there will be alerts noise
-- [ ] Wyatt confirms verbally that deployment is complete
-- [ ] Chris tests and confirms verbally that the redirects are functioning as intended
+- [ ] Rachael provides update from smoke testing
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
 - [ ] Skype meeting adjourns
 - [ ] Wyatt re-enables automated deployments and confirms deployment is complete in wbc-launch-ops Slack
