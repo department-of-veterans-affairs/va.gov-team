@@ -32,7 +32,7 @@ Hello everyone, here is the latest launch status report:
 ### Upcoming status updates
 
 - Final code merge and testing (around 4:00 PM ET)
-- Launch initiation (around 5:30)
+- Launch initiation (around 5:30 PM ET)
 - Deployment complete
 - Testing and Monitoring results
 - Post-launch partners check-in
