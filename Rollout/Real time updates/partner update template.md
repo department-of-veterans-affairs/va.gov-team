@@ -1,5 +1,5 @@
 # Subject
-[ Event type ] status report
+VA.gov Launch Partner Status Report: [ Event type ]
 
 # Body
 
@@ -31,7 +31,8 @@ Hello everyone, here is the latest launch status report:
 
 ### Upcoming status updates
 
-- Launch initiation
+- Final code merge and testing (around 3:30)
+- Launch initiation (around 5:30)
 - Deployment complete
 - Testing and Monitoring results
 - Post-launch partners check-in
