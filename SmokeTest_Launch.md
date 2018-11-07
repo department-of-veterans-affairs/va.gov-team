@@ -93,7 +93,8 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - **link**: va.gov/education/gi-bill/post-9-11/ch-33-benefit/
 
 ### Download VA Letters
-- Need login, need description of functionality
+1. Need a user with an active claim / appeal
+2. Need description of core functionality
 - **link**: va.gov/records/download-va-letters/
  
 ### Testers
