@@ -108,10 +108,10 @@ In order to create the smoothest launch environment, it is beneficial to establi
 - [ ] Rachael announces that we are initiating launch via Slack and email
 - [ ] Technical and implementation teams re-enter WBC Launch Room Skype meeting (if they had left)
 - [ ] Chris confirms verbally that we are good to launch
-- [ ] Wyatt merges the [Vets.gov Redirects PR](#), vets-api URL mapping update PR (https://github.com/department-of-veterans-affairs/vets-api/pull/2432), and the [VA.gov Cookie PR](https://github.com/department-of-veterans-affairs/devops/pull/3569)
+- [ ] Wyatt merges the [Vets.gov Redirects PR](https://github.com/department-of-veterans-affairs/vets-website/pull/9043) and the [VA.gov new experience PR](https://github.com/department-of-veterans-affairs/devops/pull/3581)
 
 ### 5:30 PM ET: deploy
-- [ ] Wyatt kicks off production deployment to revproxy and vets-api to effectively launch the new experience.
+- [ ] Wyatt kicks off production deployment to revproxy to effectively launch the new experience.
 - [ ] Keep WBC Launch Room Skype meeting open, people can mute/unmute to collaborate as needed
 
 ### 6:00 PM ET: launch complete!
