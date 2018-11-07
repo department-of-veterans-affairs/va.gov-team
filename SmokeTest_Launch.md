@@ -44,45 +44,56 @@ A non-exhaustive set of tests that ensure that most important functionality work
    2. Search page
    3. 404 page
 
-## Personalization Products
-### Profile
+## Profile
 - Does information show for:
    1. Contact info
    2. Personal Info
    3. Military History
 - Do contact information updates work?
 
-### Dashboard
+## Dashboard
 - Do widgets show?
 - Do widget view all links function correctly (no 404s, no issues outlinking to MHV tools)?
 - Can a form / application be started elsewhere and resumed from the dashboard?
 
-### Account 
+## Account 
 - Does identity verification work?
 - Does 2FA work first time, and hold on second time?
 - Do terms and conditions work?
    
-## Additional Tools to check
-- va.gov/facilities/
-- va.gov/claim-or-appeal-status/
-- va.gov/track-claims/your-claims/
-- va.gov/my-va/
-- va.gov/records/get-veteran-id-cards/
-- va.gov/education/gi-bill/post-9-11/ch-33-benefit/
-- va.gov/records/get-veteran-id-cards/vic/
+## Facility Locator
+- Can a search be performed successfully?
+va.gov/facilities/
+
+## Veteran ID Card Page
+- this is a high-traffic page, so just a spot check to make sure nothing looks really off
+va.gov/records/get-veteran-id-cards/
+
+## Ebenefits Payment History
+- Just test the link out works
 - va.gov/va-payment-history/
-- va.gov/track-claims/
-- va.gov/records/download-va-letters/
+
+## Production items that need testing plan (prod user who can access, description of functionality)
+### Claim or Appeal Status
+- need a user with an active claim / appeal
+va.gov/claim-or-appeal-status/
+va.gov/track-claims/your-claims/
+va.gov/track-claims/
+
+### VIC Application
+- does application process work?
+va.gov/records/get-veteran-id-cards/vic/
+
+### Post-9/11 GI Bill Statement of Benefits
+- check GI Bill tool up and functioning
+va.gov/education/gi-bill/post-9-11/ch-33-benefit/
+
+### Download VA Letters
+- Need login, need description of functionality
+va.gov/records/download-va-letters/
  
-## Testers
+### Testers
 - Aubrey Arcangel (DS Logon, MHV, ID.me)
 - Rian Fowler (DS Logon, ID.me)
 - Ben Barone, Dawn Munoz, Ryan Luu, Rachael Roueche
    - MHV Prod Account (DON'T MAKE ANY CHANGES TO THESE ACCOUNTS): https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/reference_documents/MHV/mhv-prod-test-accounts.md
-
-
-# Next Steps
-1. Ben secure logins (MHV prod, friends (aubrey, rian, josh)
-- completed
-2. Use analytics (Ben connect with Tony, Nedie) to determine top 15 used pages / tools / things on VA.gov
-- compeleted
