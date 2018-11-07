@@ -141,17 +141,19 @@ Follow traditional pattern: disseminate Launch Status Report w/NO as the decisio
 1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
 1. Incident Commander updates #wbc-launch-ops channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
-1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+1. Rachael sends out Launch Status Report to Chris
 1. Chris makes decision to put up a maintenance page
-1. Chris disseminates decision via Slack (with @channel)and email (***recipients TBD***)
-1. DevOps on call part deploys maintenance page (***issue in progress for developing this page and process***)
+1. Chris disseminates decision via Slack (with @channel) mention
+1. Rachael disseminates Launch Status Report and Live Update to appropriate email groups
+1. DevOps on call part deploys maintenance page
 1. Incident Commander notifies Rachael that the maintenance page has been deployed
-1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report. This marks the time that the maintenance page is considered online.
-1. Open up a lync if necessary
+1. Rachael updates Chris and disseimanates Live Update - this marks the time that the maintenance page is considered online.
+1. Dial into a Skype Incident room if necessary
 1. Once Incident Commander confirms that the issue is resolved, notify Rachael
-1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report indicating the issue is resolved.
-1. Chris disseminates decision to take down maintenance page via Slack (with @channel)and email (***recipients TBD***)
+1. Rachael updates Chris w/Launch Status Report indicating the issue is resolved
+1. Chris disseminates decision to take down maintenance page via Slack (with @channel)
 1. DevOps on call party takes down the maintenance page
+1. Rachael disseminates Launch Status Report and Live Update to appropriate email groups
 
 ***This may be enacted multiple times during the launch. Restart the process each time.***
 
@@ -168,14 +170,16 @@ This constitutes a rollback to the www.va.gov system for content, while still ha
 1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
 1. Incident Commander updates #wbc-launch-ops channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
-1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+1. Rachael updates Chris w/Launch Status Report
 1. Chris makes decision to roll back based on the data in the launch report
-1. Chris disseminates decision via Slack (with @channel)and email (***recipients TBD***)
+1. Chris disseminates decision via Slack (with @channel)
+1. Rachael disseminates Launch Status Report and Live Update to appropriate email groups
 1. DevOps on call party performs rollback (If redirects have already been enacted from vets.gov, they should be reverted as well) ***visiting VA.gov will display old VA, visitng Vets.gov will display original page*** 
 1. DevOps on call will continue to monitor and restore Vets.gov services as necessary
 1. Incident Commander notifies Rachael that the rollback has been performed
-1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report.
-1. Chris will make the decision on next steps 
+1. Rachael updates Chris
+1. Chris will make the decision on next steps and communicates decision in Slack
+1. Rachael disseminates Launch Status Report and Live Update to appropriate email groups
 
 If not resolved...
 
@@ -193,14 +197,16 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 1. On call party escalates issue to incident commander (i.e. James Kassemi) via Pager Duty (or via mobile number listed in Slack).
 1. Incident Commander updates #wbc-launch-ops channel
 1. Incident Commander will call Rachael if she doesn't respond in the channel
-1. Rachael updates Chris w/Launch Status Report including instructions for communicating decision (***template to defined by Nov 5)***
+1. Rachael updates Chris
 1. Chris makes decision to roll back based on the data in the launch report
-1. Chris disseminates decision via Slack (with @channel)and email (***recipients TBD***)
+1. Chris disseminates decision via Slack (with @channel)
+1. Rachael disseminates Launch Status Report and Live Update to appropriate email groups
 1. DevOps on call party coordinates with ITOPS to remove VAEC members from the pool (If redirects have already been enacted from vets.gov, they should be reverted as well) ***visiting VA.gov will display old VA, visitng Vets.gov will display original page*** 
 1. DevOps on call will continue to monitor and restore Vets.gov services as necessary
 1. Incident Commander notifies Rachael that the rollback has been performed
-1. Rachael updates Chris (***and OIT and other stakeholders?***) w/Launch Status Report.
-1. Chris will make the decision on next steps
+1. Rachael updates Chris
+1. Chris will make the decision on next steps and posts decision in Slack
+1. Rachael disseminates Launch Status Report and Live Update to appropriate email groups
 
 ## Other Issues
 
