@@ -139,14 +139,14 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 - [x] All Go / No Go attendees enter Go / No Go + Check Ins Skype meeting
 - [x] Standup-style poll
 - [x] Do we need any changes to on call points of contact and 24/7 monitoring?
-- [ ] Rachael disseminates Launch Status Report details in Slack and email
+- [x] Rachael disseminates Launch Status Report details in Slack and email
 - [x] Skype meeting adjourns
 - [x] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as complete
 
 ### 8:00 PM ET: Monitor + Wrap up
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
 - [ ] Wyatt re-enables automated deployments and confirms deployment is complete in wbc-launch-ops Slack
-- [ ] Rachael disseminates Launch Status Report details in Slack and email
+- [x] Rachael disseminates Launch Status Report details in Slack and email
 
 ## POST-LAUNCH: NOVEMBER 8, 2018
 
