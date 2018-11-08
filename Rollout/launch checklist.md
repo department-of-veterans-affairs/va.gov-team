@@ -145,7 +145,7 @@ Hear from all stakeholders how things are going so far, what concerns may be bub
 
 ### 8:00 PM ET: Monitor + Wrap up
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
-- [ ] Wyatt re-enables automated deployments and confirms deployment is complete in wbc-launch-ops Slack
+- [x] Wyatt re-enables automated deployments and confirms deployment is complete in wbc-launch-ops Slack
 - [x] Rachael disseminates Launch Status Report details in Slack and email
 
 ## POST-LAUNCH: NOVEMBER 8, 2018
