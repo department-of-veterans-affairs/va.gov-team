@@ -1,7 +1,5 @@
-# VA.gov Launch Go / No Go 
+# VA.gov Post-Launch Check-in #1
 ## Nov 7, 2018
-
-## Decision: Go
 
 ---
 
