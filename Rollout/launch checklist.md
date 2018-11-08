@@ -125,31 +125,26 @@ In order to create the smoothest launch environment, it is beneficial to establi
 If any of the crisis criteria are met, immediately start following the plays in the runbook.
 
 ### 6:30 PM ET: Test, do immediate post-launch items, monitor
-- [ ] Josh Vargas and Veteran Facing Tools PMs run smoke tests for top site interactions
-- [ ] Ben Barone QA's Search in production
-- [ ] Full team watches monitoring dashboard, google analytics, social media buzz
-- [ ] Rachael disseminates Launch Status Report details in Slack and email
-- [ ] Skype meeting adjourns, use incident Skype meetings if issue resolution is needed
+- [x] Josh Vargas and Veteran Facing Tools PMs run smoke tests for top site interactions
+- [x] Ben Barone QA's Search in production
+- [x] Full team watches monitoring dashboard, google analytics, social media buzz
+- [x] Rachael disseminates Launch Status Report details in Slack and email
+- [x] Skype meeting adjourns, use incident Skype meetings if issue resolution is needed
 
 ### 7:30 PM ET: one-hour post launch check-in
 
 Hear from all stakeholders how things are going so far, what concerns may be bubbling up, what trends they’re seeing.
 
-- [ ] Winnie opens Go / No Go + Check Ins Skype meeting
-- [ ] All Go / No Go attendees enter Go / No Go + Check Ins Skype meeting
-- [ ] Standup-style poll
-- [ ] Chris decides whether any runbook plays are needed
-- [ ] Do we need any changes to on call points of contact and 24/7 monitoring?
+- [x] Winnie opens Go / No Go + Check Ins Skype meeting
+- [x] All Go / No Go attendees enter Go / No Go + Check Ins Skype meeting
+- [x] Standup-style poll
+- [x] Do we need any changes to on call points of contact and 24/7 monitoring?
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
-- [ ] Skype meeting adjourns
-- [ ] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as complete
+- [x] Skype meeting adjourns
+- [x] Confirm that [Polaris record](https://polaris.va.gov/sites/URC/Lists/UnifiedReleaseCalendar/DispForm.aspx?ID=18420) is marked as complete
 
 ### 8:00 PM ET: Monitor + Wrap up
-- [ ] Winnie opens WBC Launch Room Skype meeting
-- [ ] Monitoring and Rapid Response groups enter WBC Launch Room Skype meeting
-- [ ] Rachael provides update from smoke testing
 - [ ] Start 24/7 active monitoring rotation (note: during this time, for security issues our reporting chain is to our security officer.)
-- [ ] Skype meeting adjourns
 - [ ] Wyatt re-enables automated deployments and confirms deployment is complete in wbc-launch-ops Slack
 - [ ] Rachael disseminates Launch Status Report details in Slack and email
 
