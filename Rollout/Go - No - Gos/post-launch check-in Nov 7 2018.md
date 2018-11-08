@@ -18,7 +18,7 @@ _`*` = person responsible for poll response, though others are welcome to provid
 
 Any concerns?
 
-*Handful of things reported, nothing terribly concerning, will fix them throughout the course of the next day.*
+**Handful of things reported, nothing terribly concerning, will fix them throughout the course of the next day.**
 
 ## Engineering
 - James Kassemi`*`
@@ -68,7 +68,7 @@ Any concerns?
 
 Any concerns?
 
-****
+**Same as NSOC update above **
 
 ## ID.me
 
@@ -100,7 +100,7 @@ Any concerns?
 
 Any concerns?
 
-**Nothing aside from latency, which is already being worked on**
+**Nothing aside from latency, which is already being worked on.**
 
 ## MHV / WBC Implementation Team
 
@@ -112,7 +112,7 @@ Any concerns?
 
 Any concerns?
 
-**On MHV in IE on GFE she gets a "page moved" message in the tab at the top and the page is completely white. Not logged in. For Vets.gov and for Vets.gov Facility Locator. In Chrome it works fine. There's also an issue with users who don't have an MHV account getting logged .**
+**On MHV in IE on GFE she gets a "page moved" message in the tab at the top and the page is completely white. Not logged in. For Vets.gov and for Vets.gov Facility Locator. In Chrome it works fine. There's also an issue with users who don't have an MHV account getting logged out when they click on a health tool from the website. We are actively working on this together.**
 
 ## AWS
 
