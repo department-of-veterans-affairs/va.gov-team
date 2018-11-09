@@ -17,6 +17,7 @@ _`*` = person responsible for poll response, though others are welcome to provid
 
 Any concerns?
 
+**Nothing new concerning.**
 
 ## Engineering
 - James Kassemi`*`
@@ -25,6 +26,7 @@ Any concerns?
 
 Any concerns?
 
+**No new issues.**
 
 ## Analytics
 - Tony Whittaker`*`
@@ -32,6 +34,7 @@ Any concerns?
 
 Any concerns?
 
+**Looks good. 103K users yesterday. Not much on social, from VSOs or anything else we're seeing. Foresee survey data coming in, but 100ish people, so 10 pt margin of error. 59% think new design better, 9% dislike new design. 63% agree easier to accomplish task.**
 
 ## Marketing and Communications
 
@@ -40,6 +43,23 @@ Any concerns?
 
 Any concerns?
 
+**Secretary will be on Fox and Friends tmrw (Saturday) morning 6 AM - 10 AM ET, and wants to know if he can mention the site. Potential for presidential tweet.** 
+
+**PR just went out to Congressional Staffers**
+
+**PR going out today to about 20 outlets**
+
+**Same PR going out Tuesday to about 120,000 outlets**
+
+**Will run "game day" style incident and share out updated Runbook information in preparation for these events**
+
+**Specific questions:
+- MHV
+- On Call
+- Apps going offline if having issues
+- MVI
+
+**
     
 ## DevOps
 
@@ -47,6 +67,7 @@ Any concerns?
 
 Any concerns?
 
+**No concerns. This morning we may be turning off MVI orchestration, need to dig into it.**
 
 ## NSOC / ITOPS
 
@@ -54,7 +75,8 @@ Any concerns?
 
 Any concerns?
 
-****
+**Latency issue solved yesterday, hardware issue and was fixed. Will be standing by all weekend.**
+**Don't anticipate having any problems**
 
 ## EWIS
 
@@ -62,13 +84,16 @@ Any concerns?
 
 Any concerns?
 
+**no**
 
 ## ID.me
 
-- Mere Work`*`
+- Pradheep and Tanel`*`
 
 Any concerns?
 
+**No issues**
+**No concerns. Yesterday (first full day): 1,328 and prepared from platform and support standpoint. Increased volume, and have not seen increased latency or support issues.**
 
 ## Call Center
 
@@ -76,6 +101,7 @@ Any concerns?
 
 Any concerns?
 
+**Have not heard from any call centers yet.**
 
 ## VA311
 
@@ -83,6 +109,7 @@ Any concerns?
 
 Any concerns?
 
+**Increase into VA311 traffic, average 600 a day to 2,800 yesterday: 400% increase. Evenly distributed across options. In the event of a big spike, system can handle it, but a little concerned call centers, chatting about that now. Had one hour when they made the Live option available, and 9 people chose it and are gathering the data on that now.**
       
 ## OPIA (and TeamSite)
 
@@ -90,6 +117,7 @@ Any concerns?
 
 Any concerns?
 
+**No problems to report.**
 
 ## MHV / WBC Implementation Team
 
@@ -101,6 +129,7 @@ Any concerns?
 
 Any concerns?
 
+**No new concerns.**
 
 ## AWS
 
@@ -108,6 +137,7 @@ Any concerns?
 
 Any concerns?
 
+**No concerns**
  
 ## Stakeholders
 
@@ -119,3 +149,4 @@ Any concerns?
 
 Any concerns?
 
+**Nothing to add.**
