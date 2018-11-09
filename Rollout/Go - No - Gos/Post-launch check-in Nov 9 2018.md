@@ -45,7 +45,7 @@ Any concerns?
 
 **Secretary will be on Fox and Friends tmrw (Saturday) morning 6 AM - 10 AM ET, and wants to know if he can mention the site. Potential for presidential tweet.**
 
-PR just went out to Congressional Staffers**
+**PR just went out to Congressional Staffers**
 
 **PR going out today to about 20 outlets**
 
@@ -53,7 +53,7 @@ PR just went out to Congressional Staffers**
 
 **Will run "game day" style incident and share out updated Runbook information in preparation for these events**
 
-**Specific considerations: MHV/login, on call extension, downtime notifications, MVI orchestration (now moot).
+**Specific considerations: MHV/login, on call extension, downtime notifications, MVI orchestration (now moot).**
     
 ## DevOps
 
