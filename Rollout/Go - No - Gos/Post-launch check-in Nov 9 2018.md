@@ -81,7 +81,8 @@ Any concerns?
 
 ## ID.me
 
-- Pradheep and Tanel`*`
+- Mere Work`*`
+- Pradheep and Tanel representing today
 
 Any concerns?
 
@@ -90,6 +91,7 @@ Any concerns?
 ## Call Center
 
 - Denise Kitts`*`
+- Lacey representing today
 
 Any concerns?
 
@@ -106,6 +108,7 @@ Any concerns?
 ## OPIA (and TeamSite)
 
 - Josh Tuscher`*`
+- Ryan Luu representing today
 
 Any concerns?
 
@@ -114,10 +117,9 @@ Any concerns?
 ## MHV / WBC Implementation Team
 
 - Carnetta Scruggs
-
 - Lanny Derby
-
 - David Bao
+- Chris Johnston representing today
 
 Any concerns?
 
