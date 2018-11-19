@@ -17,6 +17,7 @@
 
 ## Assumptions
 
+## Questions
 
 ## Requirements
 #### In Scope 
@@ -34,8 +35,6 @@
 # Implementation Info
 
 ## Status
-
-
 
 ## Technical Decisions
 
