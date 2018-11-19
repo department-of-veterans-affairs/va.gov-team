@@ -4,7 +4,7 @@
 - GitHub Label: 
 - Slack channel:
 - Product POCs: 
-- Search.gov POC: 
+- Stakeholders: 
 
 ## User Problem Statement
 
