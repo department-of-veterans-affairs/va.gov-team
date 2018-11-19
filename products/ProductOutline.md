@@ -6,7 +6,7 @@
 - Product POCs: 
 - Stakeholders: 
 
-## User Problem Statement
+## The Problem
 
 
 ### User Goals
