@@ -1,13 +1,3 @@
-## Open Issues
-
-**Content Work Punchlist**
-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/content-work-list.md
-
-**IA Open Issues**
-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/design/content/open_issues.md
-
-
-
 ## Link Lists and IA
 
 **URL Mapping**
