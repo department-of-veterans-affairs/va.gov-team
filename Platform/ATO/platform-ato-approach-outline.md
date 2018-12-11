@@ -50,6 +50,25 @@ Is it possible to create an ATO process that enables external teams to assume re
 
 ## Status
 
+### Notes from our initial ATO Discussion 12/3/18
+```
+Problem Statement:
+- Complexity around sharing ATO. Today we're deployed in the same infrastructure - `vets-api` serves all of the Vets.gov. Now we're adding additional users of `vets-api` that will be consuming vets-api outside of vets.gov . 
+   - using vets-api data in additional instances would require us to update out ATO to serve 3rd parties as well as the original user (veterans)
+  - It's hard to get ATO approved because the 3rd party use case wasn't outlined initially. There may be risks in broadening the ATO (disrupting our current ATO).
+  - Could potentially change our risk status (currently moderate risk status). It would potentially change how we handle data and manage sign on.
+
+- Ad Hoc under the Vets contract is responsible for maintaining the ATO for the system. If there are changes to the ATO (i.e. 4142 by Booz - Ad Hoc is responsible for update the PIA)
+
+- If API's change for any program using `vets-api` - Vets.gov contract is responsible for updating ATO
+  - If this is an non Ad Hoc contractor, we're assuming liability for another contractor's work. (i.e. if a SSN leak happens from another contractor's work [separate, not sub], it creates an ambiguity of who's responsible).
+  - Another reason that this is a problem - prioritization of work is dependent on an external program
+
+- If an external contractor asks for data that is not currently apart of the ATO, it could change our ATO risk status.
+
+- If Ad Hoc is in charge of managing everyone's ATO, we may become a bottleneck for other contract teams.
+```
+
 ## Technical Decisions
 
 ## Product Decisions
