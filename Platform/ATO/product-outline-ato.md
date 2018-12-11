@@ -6,7 +6,7 @@
 - Product POCs: Michael Spurgeon (michael.spurgeon@adhocteam.us)
 
 ## The Problem
-ATO is a requirement for launching any new products on the VA.gov platform, but as we've expanded to allow other contracting teams to launch products on VA.gov ATO responsibility and liability has become unclear.
+ATO is a requirement for launching any new product on the VA.gov platform, but as we've expanded to allow other contracting teams to launch products on VA.gov ATO responsibility and liability has become unclear.
 
 The centerpiece of the ATO questions revolve around the `vets-api` backend repo. *Currently*, Ad Hoc under the Vet.gov contract is responsible for all ATO for the VA.gov platform. 
 
