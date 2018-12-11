@@ -8,7 +8,7 @@
 ## The Problem
 ATO is a requirement for launching any new product on the VA.gov platform, but as we've expanded to allow other contracting teams to launch products on VA.gov ATO responsibility and liability has become unclear.
 
-The centerpiece of the ATO questions revolve around the `vets-api` backend repo. *Currently*, Ad Hoc under the Vet.gov contract is responsible for all ATO for the VA.gov platform. 
+The centerpiece of the ATO questions revolve around the `vets-api` backend repo. *Currently*, Ad Hoc under the Vet.gov contract is responsible for all ATO for the Veteran-facing Services Platform, and for all digital services built on that platform. 
 
 **Risks of Current ATO Landscape**
 - If services built by external contract teams have ATO violations, Ad Hoc is liable for the result
@@ -16,13 +16,14 @@ The centerpiece of the ATO questions revolve around the `vets-api` backend repo.
 - Services built by external contract teams could make it more difficuilt for our internal team to obtain new ATO approval
 - If Ad Hoc is responsible for filing all of the ATO for the platform, we could become a bottleneck for other teams who are trying to launch services on the Va.gov platform
 
-
-### User Goals *(external contract teams)*
+## Goals
+### 1. Platform User Goals
 - Get ATO approval as quickly as possible
 - Avoid impacting the current ATO risk status of the VA.gov platform
-
-### Business Goals *(DSVA/Ad Hoc)*
+### 2. VA Business Goals
 - Maintain the safety of Veterans information
+
+### 3. Platform Team Goals
 - Don't assume liability/responsibility for external teams ATO violations
 - Don't take on the burden of filing external teams ATO requests
 
