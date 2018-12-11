@@ -1,4 +1,4 @@
-# ATO Product Outline
+# Platform ATO Approach Outline
 
 ## Communications
 - GitHub Label: ATO
