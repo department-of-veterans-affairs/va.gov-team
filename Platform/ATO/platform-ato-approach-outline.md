@@ -69,6 +69,24 @@ Problem Statement:
 - If Ad Hoc is in charge of managing everyone's ATO, we may become a bottleneck for other contract teams.
 ```
 
+### Notes from 2nd ATO Discussion 12/11/18 - Two ATO Paths
+
+**Internal** - External teams build within Va.gov's core development infrastructure -> Ad Hoc will have to control the ATO process and security checks for the external teams.
+Challenges:
+1. Ad Hoc has to manage the ATO process for external teams that build on the Va.gov Platform
+2. Our engineers need to conduct more robust PR reviews to ensure security of external team's development
+3. Ad Hoc is responsible/liable for any ATO violations that happen from external team development on the Va.gov Platform
+- Security Risk = High
+- Technology Operations Risk = Low
+
+**External** - External teams build outside of Va.gov's core development infrastructure -> Ad Hoc does not have to control the external teams ATO process or security checks.
+Challenges:
+1. Ad Hoc will have to alter VA.gov's technical infrastructure to support integrations with external development
+2. In the short term (potentially long term as well), it will be much more difficult for new teams to develop and launch applications on VA.gov
+3. Separation of services gives Ad Hoc less control of the development process which may result in fragmentation of the veteran's user experience
+- Security Risk = Low
+- Technology Operations Risk = High
+
 ## Technical Decisions
 
 ## Product Decisions
