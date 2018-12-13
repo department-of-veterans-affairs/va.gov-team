@@ -70,6 +70,7 @@ This proposed structure allows us to easily store multiple sources of data, and 
  
 ## Screenshots
 Current State
+<img width="1680" alt="screen shot 2018-12-13 at 10 40 46 am" src="https://user-images.githubusercontent.com/7230519/49949421-9237ac00-fec3-11e8-9ccd-4fdad44972f6.png">
 
 After
 
