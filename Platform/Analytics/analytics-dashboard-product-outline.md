@@ -14,6 +14,52 @@ The VA’s data is scattered across multiple systems and offices, analytics on v
 
 Difficulty in accessing information needed to make business decisions and evaluate usage limits opportunities to improve systems, slows development, increases the likelihood of incorrectly reporting key metrics to stakeholders, and creates confusion about what the status and overall performance of products are.
 
+## Audiences
+**Product Decision Makers**
+1. Product Teams (Internal Development Teams)
+2. Product Leads
+3. Business Stakeholders - Product Owner
+4. Platform User (AbleVets, BAH)
+
+**Product Storytellers**
+1. Digital service HQ leadership (Matt, Claire, Leadership)
+2. VA Executives
+3. White House - office of innovation
+4. Congress
+5. Internal DSVA Storytellers (Mandi, Clare, Mandi, Andrew, Lauren, etc)
+6. Recruiting
+7. VSOs
+
+**Interested Influencers**
+1. Other parties in the VA that don't necessarily do anything with data, but are interested in the information for shaping the direction of the VA (may look more favorably on the program, keep a good sense that we're doing good work)
+
+## Needs of respective audiences
+**Core Needs**
+- Accuracy of data
+- How the KPI's being tracked tie into larger priorities (KPIs per product & per initiative)
+   - i.e. Platform Goal - 70% of applications submitted online -> product goals lead up to this
+- Self Service **very important**
+
+**1. Product Decision Makers**
+- Trends in data that indicate that something is wrong or successful
+- Timeliness of information - as close to real time as possible
+- Comparative data against baselines (linear & side by side) - *dependent on baseline data*
+- Comparative data from multiple channels (success metrics for HCA - web, phone, offline)
+- Comparative industry data (Phase2, post MVP)
+- Access to information that indicates the speed of processing (impacts user) **impactful**
+- Call Volume to Call Center (categorized & general trends)
+- Unmoderated Usability Feedback (Foresee, usertesting.com, heat mapping software, eye-tracking software etc.)
+- Detailed view of Analytics (conversion funnels, in a given time period; what changed?)
+
+**2. Product Storytellers**
+- Access to information that indicates the *cost of processing* (impacts VA)
+- High level statistics with context
+  - Context of what the product is
+  - Context for the impact to the user
+  - Visual of before & after to clearly convey the changes
+  - High level conversion funnels (
+- User sentiment (quotes, social sentiment from Radian, Foresee)
+
 ## User Goals
 - Increase visibility into VA.gov analytics by creating a self-service reporting system to allow users easily find key metrics and information across the suite of veteran facing tools.
 - Allow users to access accurate reports quickly and easily. 
@@ -21,21 +67,36 @@ Difficulty in accessing information needed to make business decisions and evalua
 
 ## Business Goals
 - Unify multiple sources of data into a centralized reporting system, containing information on online tools, offline programs and applications, and other sources of data as required.
-- Have greater clarity in the definition of KPIs, and confidence in the accuracy of the metrics tracked and reported to stakeholders and internal teams.
-- Expand relationships with other VA offices, allowing us to ingest data from sources administered by other programs and offices.
+- Have greater clarity in the definition of KPIs
+- Have greater confidence in the accuracy of the metrics tracked and reported to stakeholders and internal teams
+- Expand relationships with other VA offices, allowing us to ingest data from sources administered by other programs and offices
+- Being able to use analytics data as a non-manual gate for platform users (2nd tier goal)
+
+## Constraints
+- Comparative numbers are difficult to collect
+- Unknown or unclear sources for none digital data (where do we go?, how is it collected?)
+- We know the source of data, but have to ask for it manually & it isn't real time
+- Data sources will update with varying frequency
+- Don't have acknowledged KPIs for each product
+- Don't have acknowledged objectives for Veteran Facing Services
 
 ## Assumptions
-The important datasets that we are interested in collecting are available and reasonably accessible to the team.
-We will be able to get reliable and consistent outputs from other offices to aggregate together as a part of our reporting.
-Data sources will update with varying frequency as our access to new sources grows, with the ultimate goal of getting as close to real-time information as possible.
-Not all data sources of interest will update frequently.
-Significant time will be required to investigate and understand how data external to the VA.gov team is created and how to interpret this information.
+- The important datasets that we are interested in collecting are available and reasonably accessible to the team.
+- We will be able to get reliable and consistent outputs from other offices to aggregate together as a part of our reporting.
+- Product person would be willing to pull together data and provide context around them
+- We'll be able to access who has ownership of the sources and reporting around them (who is the POC for these various sources)
+- Validating that the numbers shared are accurate (webpage/person)
 
-## Scope of Requirements
-- We’re still working with Andrew Hughey to define the scope here. Some initial focal points are setting up more granular analytic views around specific user goals. (i.e. what different paths are users taking to get to MHV for refilling their prescription?)
 
 ## Solution Approach
-Currently the reporting systems we have in place are limited to Google Data Studio. The proposed solution seeks to accomplish the objectives with new infrastructure to power dashboarding and reporting:
+Currently the reporting systems we have in place are limited to Google Data Studio. 
+
+There is a multi-step approach needed to address the needs of the various audiences. 
+1. Setting effective KPIs across products/teams
+2. Identify data gaps and work to aggregate data from various sources to fill those gaps
+3. Build an analytics platform centralizes the metrics and makes self-service reporting simple
+
+The proposed solution for #3 seeks to accomplish the objectives with new infrastructure to power dashboarding and reporting:
 
 - Database layer allowing us to store, aggregate, and transform data from multiple sources into interpretable information.
 - Dashboard/reporting layer allowing us to connect to the database and visualize information to users, allowing users to more easily find the information they’re seeking.
