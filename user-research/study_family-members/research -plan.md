@@ -1,4 +1,4 @@
-# Research Plan for [Team, Product, Date]
+# Research Plan for Website team, Servicemember Hub, Jan 28-Feb 1
 
 ## Goals
 1. Understand how and when current Servicemembers seek benefits information from VA
@@ -8,41 +8,32 @@
 ## Method
 1.	Remote, moderated, user interview plus moderated card sort   
 2.	We have some key discovery goals but also a set of existing content that needs to be organized and prioritized.
-
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
-
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
+3.	Online - GTM or join.me
+4.	No mockups. Card sort on Optimal Workshop
 
 ## Participants and Recruitment
-1.	Participant criteria: What are you looking for in a participant?
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
-
-2.	What is your recruitment strategy? 
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+1. Current active duty, reserve, or national guard service members
+2. Recently separated or retired Veterans (within the last 3 months) 
+3. Nice to have: representation of service members nearing their retirement or separation date
 
 ## When? 
-1.	Timeline: What dates do you plan to do research? 
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 
-
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
-
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
-
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
-
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+1.	Sessions January 28th - February 1st
+2. Conversation guide and card sort will be ready by January 25th
+3. 1 hour sessions
+4. Availble 9am-5pm EST. Not available 1/30.
+5. Pilot 1/25 with Mikki Northuis
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.** 
-- Moderator:
-- Research guide writing and task development (usually but not always same as moderator):
-- Participant recruiting & screening:
-- Project point of contact:
-- Participant(s) for pilot test:
-- Note-takers:
-- Observers:
+- Moderator: Jeff Barnes (202.740.7021 or 202.881.8064)
+- Research guide writing and task development (usually but not always same as moderator): Jeff Barnes
+- Participant recruiting & screening: Brian Moon
+- Project point of contact: Jeff Barnes
+- Participant(s) for pilot test: Mikki Northius
+- Note-takers: Mikki Northuis, Danielle Thierry, Amy Cesal
+- Observers: Mikki Northuis, Danielle Thierry, Amy Cesal, Andy Lewandowski
+- Emails: Barnes, Jeffrey (DSVA) <jeffrey.barnes4@va.gov>; Lewandowski, Andrew (Andy) <Andrew.Lewandowski2@va.gov>; mikki@adhocteam.us <mikki@adhocteam.us>; Danielle Thierry <danielle@thesocompany.com>; amy@adhocteam.us <amy@adhocteam.us>
 
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
 ## Resources
 - Project Brief: 
