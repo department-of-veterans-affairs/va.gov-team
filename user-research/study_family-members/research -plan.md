@@ -1,18 +1,13 @@
 # Research Plan for [Team, Product, Date]
-(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 
 
 ## Goals
-1. What product & team are you doing this research for?
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-4. Hypothesis: What is your hypothesis for this research? 
+1. Understand how and when current Servicemembers seek benefits information from VA
+2. Understand the Servicemembers mental model of the benefits and services available to them
+3. Establish the priority of known available benefits for Servicemembers
 
 ## Method
-1.	What method of research are you planning? 
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated
-  
-2.	Why this method? How does this methodology help you answer your research questions? 
+1.	Remote, moderated, user interview plus moderated card sort   
+2.	We have some key discovery goals but also a set of existing content that needs to be organized and prioritized.
 
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
 
