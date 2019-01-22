@@ -2,26 +2,28 @@
 
 - GitHub Label: analytics
 - Slack channel: #vetsgov-analytics
-- Dashboard link: https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/hZKZ 
+- Current dashboard link: https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/hZKZ 
 - Point of Contact
   - Tony Whittaker, tony.whittaker@adhocteam.us
   - Ryan Luu, Ryan.luu@adhocteam.us
 
 ---
 
-## User Problem Statement
-The VA’s data is scattered across multiple systems and offices, analytics on veteran facing tools are difficult to access, and internal team members have a low level of confidence in the accuracy of the metrics. Uncertainty about how online metrics relate to other modes of interaction with the VA (e.g. in person, phone, and other offline interactions) compound these problems when seeking to measure the net effect of the products developed.
+## Overarching Problem
+**The VA’s service use data is scattered across multiple systems and offices**. Holistic data on veteran facing service use is difficult to access and internal team members have a low level of confidence in the accuracy of the metrics. Uncertainty about how online metrics relate to other modes of interaction with the VA (e.g. in person, phone, and other offline interactions) compound these problems and creates confusion about the overall performance of products.  This problem will only be compounded as we bring more teams onboard to use the platform.
 
-Difficulty in accessing information needed to make business decisions and evaluate usage limits opportunities to improve systems, slows development, increases the likelihood of incorrectly reporting key metrics to stakeholders, and creates confusion about what the status and overall performance of products are.
-
-## Audiences
-**Product Decision Makers**
+## User Groups
+### Product Decision Makers
 1. Product Teams (Internal Development Teams)
 2. Product Leads
 3. Business Stakeholders - Product Owner
-4. Platform User (AbleVets, BAH)
+4. Platform Users (AbleVets, BAH)
 
-**Product Storytellers**
+**User Problem Statement**
+
+As a VA Product Decision Maker, it is difficult to evaluate the success/failure of the applications I work on - which prohibits my team from making data informed decisions about how to prioritize work.
+
+### Product Storytellers
 1. Digital service HQ leadership (Matt, Claire, Leadership)
 2. VA Executives
 3. White House - office of innovation
@@ -30,8 +32,10 @@ Difficulty in accessing information needed to make business decisions and evalua
 6. Recruiting
 7. VSOs
 
-**Interested Influencers**
-1. Other parties in the VA that don't necessarily do anything with data, but are interested in the information for shaping the direction of the VA (may look more favorably on the program, keep a good sense that we're doing good work)
+**User Problem Statement**
+
+As a VA Product Storyteller, it is difficult to access key metrics from VA.gov - which limits my ability to tell a favorable story about the impact of the VA's work.
+
 
 ## Needs of respective audiences
 **Core Needs**
