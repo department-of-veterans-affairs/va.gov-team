@@ -69,7 +69,9 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 We're already collecting a lot of data in GA. We need to surface the data in a way that is accessible and understandable so that we can start to  
 
 **2. Set effective KPI's across**
+
 **3. Identify data gaps and work to aggregate data from various sources to fill those gaps**
+
 **4. Build an analytics platform centralizes the metrics and makes self-service reporting simple**
 
 
