@@ -66,38 +66,19 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 
 ## Solution Approach
 **1. Surface what we’re already tracking in Google Analytics**
-We're already collecting a lot of data in GA. We need to surface the data in a way that is accessible and understandable so that we can start to  
+We're already collecting a lot of data in GA. We need to surface the data in a way that is accessible/understandable so that we can establish a full understanding of the data we currently have access to and begin to identify gaps.
 
-**2. Set effective KPI's across**
+**2. Set effective KPI's across Product Teams**
+In order to demonstrate how effectively our products are achieving key business objectives, we'll work with each of our development teams to create **S**pecific, **M**easurable, **A**ttainable, **R**elevant, **T**ime-bound KPIs. Well defined  KPIs will ensure that the data we're collecting is valuable for making data driven decisions and also provide storytellers with context surrounding the numbers they are reporting.
 
-**3. Identify data gaps and work to aggregate data from various sources to fill those gaps**
+**3. Solidfy our reporting model** 
+Bringing consistency to the way the VA.gov and other VA orgs report data is a critical piece in building confidence in the VA's data accuracy. The suggested approach is to create a monthly reporting cadence where all VA orgs submit all of their organizations metrics on the 5th day of new month and to have all of that information backlinked to it's original source.
 
-**4. Build an analytics platform centralizes the metrics and makes self-service reporting simple**
+**4. Generate buy in from other VA organizations**
+A large part of the WBC effort is getting other VA organizations to buy in to the vision for a unified VA.gov. Analytics is another critical piece in achieving this vision and getting their cooperation in synthesizing/reporting their groups' metrics will ensure that we can create a holistic view of how Veterans are interacting with the VA.
 
-
-
-
-## Notes for Solution approac
-- Unify multiple sources of data into a centralized reporting system, containing information on online tools, offline programs and applications, and other sources of data as required.
-- Have greater clarity in the definition of KPIs
-- Have greater confidence in the accuracy of the metrics tracked and reported to stakeholders and internal teams
-- Expand relationships with other VA offices, allowing us to ingest data from sources administered by other programs and offices
-- Being able to use analytics data as a non-manual gate for platform users (2nd tier goal)
-- Users will have an easier time finding the information they need on the products they are developing and administer
-- Executives and stakeholders will be able to find top-level reporting on the net results of veteran facing tools built by the VA.gov team
-- Analytics team will be able to better identify areas of concern, issues with products, and areas of opportunity.
-- Iterating on the analytics will require aggregating metrics from various Va organizations enabling more accurate data for analyzing and reporting the value the new Va.gov platform is providing for Veterans.
-
-Currently the reporting systems we have in place are limited to Google Data Studio. 
-
-The proposed solution for #3 seeks to accomplish the objectives with new infrastructure to power dashboarding and reporting:
-
-- Database layer allowing us to store, aggregate, and transform data from multiple sources into interpretable information.
-- Dashboard/reporting layer allowing us to connect to the database and visualize information to users, allowing users to more easily find the information they’re seeking.
-- Data loading/ ETL pipelines to retrieve and populate the database from original sources to the database.
-
-This proposed structure allows us to easily store multiple sources of data, and visualize them in one place as well as provide infrastructure to be able to continue to iterate on and enhance reporting over time.
-
+**5. Build an analytics platform that centralizes metrics and makes self-service simple**
+To support the user and business goals, we will create an Analytics Dashboard that aggregates metrics across VA entities and makes them accessible for both internal teams and external stakeholders to promote transparency and drive towards a metrics focused culture at the VA.
 
 ## Success Metrics
 
@@ -108,20 +89,18 @@ This proposed structure allows us to easily store multiple sources of data, and 
 1. Decrease the number of requests to clarify data outputs *(indicating an increase in data confidence)* 
 1. Decrease the number of requests for analytics *(indicating an increase in self-service access)*
 
+### Key Storypoints
+*the following are key stories that VA storytellers need metrics to support*
+- Compiled Product KPI's that lead to larger narratives - i.e. *"70% of Va's applications are submitted online"*
+- Access to information that indivates the speed of receiving benefits - i.e. *"We've reduced the time it takes between a veteran applying and receiving education benefits from 1 month to 1 week"*
+- User sentiment data to support narratives - i.e. *"85% of users that submitted Foresee survey in 2019 indicate that the new VA.gov helps them achieve their intended task"*
+
 # Implementation Info
 ## Status
-- As of 11/14/18, there is a live beta version of the analytics dashboard that exists for the brand consolidated VA.gov. 
-
-
-## Needs of respective audiences
-**Core Needs**
-- Accuracy of data
-- How the KPI's being tracked tie into larger priorities (KPIs per product & per initiative)
-   - i.e. Platform Goal - 70% of applications submitted online -> product goals lead up to this
-- Self Service **very important**
-- Access to information that indicates the speed of processing (impacts user) **impactful**
-- User sentiment (quotes, social sentiment from Radian, Foresee)
-
+- **11/14/18** - beta version of the analytics dashboard that exists for the brand consolidated VA.gov built using Google Data Studio [link](https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/OHKZ)
+- **12/24/18** - spreadsheet of aggregated Vets/VA metrics was created to track month over month metrics of the modernized tools [link](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=551050318)
+- **1/16/19** - evaluation of potential dashboard options [link](https://docs.google.com/document/d/1ZVata8XExaxf9ULj5dZ5YzwpVS2vMga8nMlofid35Jo/edit#)
+- **1/24/19** - Google Analytics documentation [link](https://docs.google.com/document/d/1MlKWlW2MMVdnRGcvqDgp9AgXlVY9O9ulW6uxysXO1Ds/edit)
 
 
 ## Team
