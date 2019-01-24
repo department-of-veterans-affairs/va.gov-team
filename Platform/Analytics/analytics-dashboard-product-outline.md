@@ -111,9 +111,11 @@ To support the user and business goals, we will create an Analytics Dashboard th
  
 ## Screenshots
 Current State
+<br>
+**Google Data Studio Dashboard** [link](https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/OHKZ)
 <img width="1680" alt="screen shot 2018-12-13 at 10 40 46 am" src="https://user-images.githubusercontent.com/7230519/49949421-9237ac00-fec3-11e8-9ccd-4fdad44972f6.png">
-*Google Data Studio Dashboard* [link](https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/OHKZ)
 
+<br>
+**Spreadsheet of Aggregated Vets/Va Metrics** [link](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=551050318)
 <img width="1625" alt="screen shot 2019-01-24 at 1 44 47 pm" src="https://user-images.githubusercontent.com/7230519/51700931-4279f380-1fde-11e9-9d87-8953239a38d9.png">
-*Spreadsheet of Aggregated Vets/Va Metrics** [link](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=551050318)
 
