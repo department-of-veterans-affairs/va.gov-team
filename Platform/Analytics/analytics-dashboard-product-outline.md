@@ -6,7 +6,7 @@
   - Ryan Luu, ryan.luu@adhocteam.us
   - Tony Whittaker, tony.whittaker@adhocteam.us
   - Leah Bannon, leah.bannon2@va.gov 
-  - Nedie Recel nedie.recel@empiricalpath.com
+  - Nedie Recel, nedie.recel@empiricalpath.com
 
 ---
 
