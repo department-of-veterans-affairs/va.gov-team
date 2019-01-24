@@ -2,10 +2,11 @@
 
 - GitHub Label: analytics
 - Slack channel: #vetsgov-analytics
-- Current dashboard link: https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/hZKZ 
-- Point of Contact
+- Points of Contact:
+  - Ryan Luu, ryan.luu@adhocteam.us
   - Tony Whittaker, tony.whittaker@adhocteam.us
-  - Ryan Luu, Ryan.luu@adhocteam.us
+  - Leah Bannon, leah.bannon2@va.gov 
+  - Nedie Recel nedie.recel@empiricalpath.com
 
 ---
 
@@ -104,10 +105,12 @@ To support the user and business goals, we will create an Analytics Dashboard th
 
 
 ## Team
-- VA Digital Strategist: Andrew Hughey andrew.hughey2@va.gov 
+- VA Platform Lead: Leah Bannon, leah.bannon2@va.gov
+- VA Product Lead: Andrew Hughey andrew.hughey2@va.gov 
 - Product Manager: Ryan Luu ryan.luu@adhocteam.us 
-- Design Lead: Emily Waggoner emily@adhocteam.us 
-- Eng Lead: Tony Whittaker tony.whittaker@adhocteam.us 
+- Design: Emily Waggoner emily@adhocteam.us 
+- Eng: Tony Whittaker tony.whittaker@adhocteam.us 
+- GA: Nedie Recel nedie.recel@empiricalpath.com
  
 ## Screenshots
 **Google Data Studio Dashboard** [link](https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/OHKZ)
