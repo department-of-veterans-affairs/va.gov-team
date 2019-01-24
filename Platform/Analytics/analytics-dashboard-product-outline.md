@@ -91,9 +91,9 @@ To support the user and business goals, we will create an Analytics Dashboard th
 
 ### Key Storypoints
 *the following are key stories that VA storytellers need metrics to support*
-- Compiled Product KPI's that lead to larger narratives - i.e. *"70% of Va's applications are submitted online"*
-- Access to information that indivates the speed of receiving benefits - i.e. *"We've reduced the time it takes between a veteran applying and receiving education benefits from 1 month to 1 week"*
-- User sentiment data to support narratives - i.e. *"85% of users that submitted Foresee survey in 2019 indicate that the new VA.gov helps them achieve their intended task"*
+- Compiled **Product KPI's that lead to larger narratives** - i.e. *"70% of Va's applications are submitted online"*
+- Access to information that indicates the **speed of receiving benefits** - i.e. *"We've reduced the time it takes between a veteran applying and receiving education benefits from 1 month to 1 week"*
+- **User sentiment data** to support narratives - i.e. *"85% of users that submitted Foresee survey in 2019 indicate that the new VA.gov helps them achieve their intended task"*
 
 # Implementation Info
 ## Status
@@ -112,8 +112,8 @@ To support the user and business goals, we will create an Analytics Dashboard th
 ## Screenshots
 Current State
 <img width="1680" alt="screen shot 2018-12-13 at 10 40 46 am" src="https://user-images.githubusercontent.com/7230519/49949421-9237ac00-fec3-11e8-9ccd-4fdad44972f6.png">
+*Google Data Studio Dashboard* [link](https://datastudio.google.com/u/0/reporting/144ch_tttTh_z6_mKoI5Wja0_xIKLY8lK/page/OHKZ)
 
-After
-
-
+<img width="1625" alt="screen shot 2019-01-24 at 1 44 47 pm" src="https://user-images.githubusercontent.com/7230519/51700931-4279f380-1fde-11e9-9d87-8953239a38d9.png">
+*Spreadsheet of Aggregated Vets/Va Metrics** [link](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=551050318)
 
