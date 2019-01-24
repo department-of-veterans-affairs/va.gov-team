@@ -67,18 +67,23 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 
 ## Solution Approach
 **1. Surface what we’re already tracking in Google Analytics**
+
 We're already collecting a lot of data in GA. We need to surface the data in a way that is accessible/understandable so that we can establish a full understanding of the data we currently have access to and begin to identify gaps.
 
 **2. Set effective KPI's across Product Teams**
+
 In order to demonstrate how effectively our products are achieving key business objectives, we'll work with each of our development teams to create **S**pecific, **M**easurable, **A**ttainable, **R**elevant, **T**ime-bound KPIs. Well defined  KPIs will ensure that the data we're collecting is valuable for making data driven decisions and also provide storytellers with context surrounding the numbers they are reporting.
 
 **3. Solidfy our reporting model** 
+
 Bringing consistency to the way the VA.gov and other VA orgs report data is a critical piece in building confidence in the VA's data accuracy. The suggested approach is to create a monthly reporting cadence where all VA orgs submit all of their organizations metrics on the 5th day of new month and to have all of that information backlinked to it's original source.
 
 **4. Generate buy in from other VA organizations**
+
 A large part of the WBC effort is getting other VA organizations to buy in to the vision for a unified VA.gov. Analytics is another critical piece in achieving this vision and getting their cooperation in synthesizing/reporting their groups' metrics will ensure that we can create a holistic view of how Veterans are interacting with the VA.
 
 **5. Build an analytics platform that centralizes metrics and makes self-service simple**
+
 To support the user and business goals, we will create an Analytics Dashboard that aggregates metrics across VA entities and makes them accessible for both internal teams and external stakeholders to promote transparency and drive towards a metrics focused culture at the VA.
 
 ## Success Metrics
