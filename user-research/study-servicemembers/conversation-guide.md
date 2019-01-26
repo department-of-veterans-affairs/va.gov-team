@@ -22,44 +22,50 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- Set-up screen sharing (verify participant is using desktop version) but do not ask them to share until card sort.
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Service member benefits offered by VA and the VA's website. 
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 45 minutes** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** You will not be penalized in any way if we need to stop.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
 
 *Start recording.*
 
-## Warm-up Questions (Optional) - X minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+## First Task: Benefits Questions - 10 minutes
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- Have you ever used any VA benefits or services?
+  - Tell me about the last time you interacted with VA.
+  - What was the most difficult part of that experience?
 
-## First Task: [TASK NAME] - X minutes
+- Are there any times in your life where you are planning to interact with VA in the future?
+  - Are you planning to retire or separate from service in the next year?
 
-- Step 1
-- Step 2
+- How would you get information about VA benefits and services?
+
+- Have you ever visited a VA website?
+  - What were you trying to do?
+  - Tell me about that experience.
+  - Did you create an account?
+
+- What would expect to find on va.gov?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- How does the participant get information today?
+- What types of benefits and services are they aware of / unaware of?
+- Where would they expect to find this infromation?
+- How should we organize the information so they can understand it?
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: Card Sort - 20 minutes
 
-- Step 1
-- Step 2
+- For the next activity, I am going to ask you to share your screen. 
 
 ### Things to watch for:
 
