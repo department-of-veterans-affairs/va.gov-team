@@ -2,6 +2,12 @@
 
 ## Moderator logistics
 
+*Here is the link: https://global.gotomeeting.com/
+
+*GO TO MEETING 1: Username: brian@perigeantechnologies.com Password: p3r1gean!*
+
+*GO TO MEETING 2: Username: shannon@perigeantechnologies.com Password: p3r1gean!*
+
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
 *Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20Process%20and%20Templates/observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
