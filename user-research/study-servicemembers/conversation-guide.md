@@ -2,7 +2,7 @@
 
 ## Moderator logistics
 
-*Here is the link: https://global.gotomeeting.com/
+*Here is the link: https://global.gotomeeting.com/*
 
 *GO TO MEETING 1: Username: brian@perigeantechnologies.com Password: p3r1gean!*
 
@@ -67,7 +67,7 @@ Before we start, a few things I want to mention:
 
 For the next activity, I am going to ask you to share your screen. Can you see the chat window or icon? I am sending you a link, please click on it.
 
-*Send link: https://adhoc.optimalworkshop.com/optimalsort/61kwyt8k *
+*Send link: https://adhoc.optimalworkshop.com/optimalsort/61kwyt8k*
 
 Please click continue, on the next screen type in the number [participant number] into the box and select continue again. Thank you.
 
@@ -89,7 +89,7 @@ Ok, during this activity you are going to click on the cards on the left side of
 - How confident are they in the group labels?
 - Are some cards more important that others?
 
-*Submit the card sort*
+*****Submit the card sort*****
 
 ## Post-Task Interview - 5 minutes
 
