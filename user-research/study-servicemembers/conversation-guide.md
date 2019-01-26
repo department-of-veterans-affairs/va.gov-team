@@ -65,30 +65,35 @@ Before we start, a few things I want to mention:
 
 ## Second Task: Card Sort - 20 minutes
 
-- For the next activity, I am going to ask you to share your screen. 
+For the next activity, I am going to ask you to share your screen. Can you see the chat window or icon? I am sending you a link, please click on it.
+
+*Send link: https://adhoc.optimalworkshop.com/optimalsort/61kwyt8k *
+
+Please click continue, on the next screen type in the number [participant number] into the box and select continue again. Thank you.
+
+Ok, during this activity you are going to click on the cards on the left side of the screen and drag them over to right. On the right side, you can put them into groups that make sense to you. Afterward, you will get to label those groups however you want. During this activity, it really helps if you can think-out-loud, so I can follow along. Please feel free to describe what you are doing or tell me which card you are reading. Does that sound good?
+
+*Allow participant to work on card sort, prompting them to follow think-aloud protocol.*
+*Prompt them to create a "not applicable" pile if dont understand or care about a card*
+*Do not let them hit submit until after questions*
+
+### Folllow-up Questions:
+- Which of these cards are the most important to you?
+- Any that you were not aware of before today?
+- Which of these would you see yourself using in the future?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- What is the logic behind the groupings?
+- Are they decisive or indecisive?
+- How confident are they in the group labels?
+- Are some cards more important that others?
 
-## Third Task: [TASK NAME] - X minutes
+*Submit the card sort*
 
-- Step 1
-- Step 2
+## Post-Task Interview - 5 minutes
 
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Post-Task Interview - X minutes
-
-- Question 1
-- Question 2
-- Any questions for me? 
+- Do you have any additional questions for me?
 
 ## Thank-You and Closing - X minutes
 
