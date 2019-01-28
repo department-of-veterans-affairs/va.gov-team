@@ -11,7 +11,7 @@
 ---
 
 ## Overarching Problem
-**Holistic data on veteran facing service use is difficult to access because the VA’s data is scattered across multiple systems and offices.**
+Holistic data on veteran facing service use is difficult to access because the VA’s data is scattered across multiple analytics systems or isn't captured at all (i.e. offline).
 
 ## User Groups
 ### 1) Product Decision Makers
