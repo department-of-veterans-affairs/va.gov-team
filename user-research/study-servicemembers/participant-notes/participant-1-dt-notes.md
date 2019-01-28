@@ -25,7 +25,7 @@ In the future, I would like to use my benefits for buying a house, the VA loan. 
   I did. I actually really like the VA website a lot. 
   - **When  were you visiting the site to gather that information?** <br>
   I probably used the website to do the housing stuff probably 6 months ago…But I use that website probably on a weekly basis for just other things in general, for school stuff, house stuff, VA disability stuff. You name it, I’ve used the website for it. 
-  - **Is there any other information that you would expect to find on VA.gov?**
+  - **Is there any other information that you would expect to find on VA.gov?** <br>
   Umm, I don’t think there’s anything that I would expect to find that I couldn’t already…I think for me, it’s a one-stop-shop. If I need something, it’s going to be there.
 - **Anything else to add about your experiences seeking VA benefits?** <br>
 I think that the process for seeking VA disability is a little convoluted. It’s not very straightforward. You kind of have to—it’s very muddled, you kind of have to fit all the puzzle pieces together before you even know what you’re doing, before you can go forward. I think it would be best if there were some clarified steps moving forward so other service members knew what to do so they could better serve themselves.
@@ -73,7 +73,7 @@ I think that the process for seeking VA disability is a little convoluted. It’
   
 ### Follow-up Questions:
 - **Which of these cards are the most important to you?** <br>
-Healthcare after separation or retirement. <br>
+Health care after separation or retirement. <br>
 - **Any others?** <br>
 Life insurance. And *[pause]* careers and employment assistance. And I think those would be my 3.
 - **Any that you were not aware of before today?** <br>
