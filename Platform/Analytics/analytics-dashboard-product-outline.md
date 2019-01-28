@@ -66,7 +66,7 @@ _Storytellers_
 5. VA development teams are willing to use data to drive decision making
 
 ## Value Propositions
-The VA.gov Analytics Dashboard will unify the various sources of data into a centralized reporting system, containing information on online tools, offline programs (e.g. call center) and and other user feedback pathways (e.g. twitter). 
+The VA.gov Analytics Dashboard will unify the various sources of data into a centralized reporting system, containing information on online tools, offline programs (e.g. call center) and other user feedback pathways (e.g. twitter). 
 
 ## Solution Approach
 **1. Surface what we’re already tracking in Google Analytics**
