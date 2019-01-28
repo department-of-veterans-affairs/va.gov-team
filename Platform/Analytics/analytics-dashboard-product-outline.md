@@ -11,7 +11,9 @@
 ---
 
 ## Overarching Problem
-Holistic data on veteran facing service use is difficult to access because the VA’s data is scattered across multiple analytics systems or isn't captured at all (i.e. offline).
+Holistic data on veteran facing service use is difficult to access because the VA’s data is scattered across multiple analytics systems and the metrics aren't shared across offices (or captured at all).
+
+This lack of holistic insights limits Product Teams' ability to deliver exceptional digital services and VA Storytellers' ability to share the impact of the work being done on VA.gov.
 
 ## User Groups
 ### 1) Product Decision Makers
@@ -38,7 +40,7 @@ As a VA Product Decision Maker, it is difficult to measure the success/failure o
 As a VA Product Storyteller, it is difficult to access key metrics from VA.gov, which limits my ability to tell share the impact of our work on VA.gov.
 
 ## Goals
-### User Goals / *Outcomes*
+### User Goals - *Outcomes*
 _Decision Makers_
 1. I want to be able to **easily access** key metrics related to my products so that I can evaluate user behavior, identify painpoints and effectively prioritize my team's work.
 1. I want to have confidence that the metrics we're collecting are **accurate** so that I can be confident when reporting data and empowered to make data driven decisions.
@@ -49,10 +51,11 @@ _Storytellers_
 1. I want to have confidence that the metrics we're collecting are **accurate** so that I can be confident when reporting data and generate support from other VA organizations in our initiatives.
 1. I want to have **contextual information** about the metrics I'm reporting that will help me tell a compelling story about the work we're doing *(Context of what the product is, impact to the user, visuals of before & after to clearly convey the changes etc.)*
 
-### Business Goals / *Objectives*
-1. Increase the number of datasets the VA.gov team has access to
-1. Create a consistent cadence for reporting metrics 
-1. Improve accuracy of data collected & reported
+### Business Goals - *Objectives*
+1. Identify high quality data sets that the VA.gov team does not currently have access to
+1. Prioritize what missing data is valuable and increase the number of datasets we can access
+1. Create a consistent cadence for reporting metrics
+1. Improve the quality/accuracy of data that is being collected & reported
 1. Increase self service access to metrics and insights
 
 ## Assumptions
