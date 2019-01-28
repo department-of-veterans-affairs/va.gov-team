@@ -11,10 +11,10 @@
 ---
 
 ## Overarching Problem
-**The VA’s service use data is scattered across multiple systems and offices**. Holistic data on veteran facing service use is difficult to access and internal team members have a low level of confidence in the accuracy of the metrics. Uncertainty about how online metrics relate to other modes of interaction with the VA (e.g. in person, phone, and other offline interactions) compound these problems and creates confusion about the overall performance of products.  This problem will only be compounded as we bring more teams onboard to use the platform.
+**Holistic data on veteran facing service use is difficult to access because the VA’s data is scattered across multiple systems and offices.**
 
 ## User Groups
-### Product Decision Makers
+### 1) Product Decision Makers
 1. Product Teams (Internal Development Teams)
 2. Product Leads
 3. Business Stakeholders - Product Owner
@@ -24,7 +24,7 @@
 
 As a VA Product Decision Maker, it is difficult to measure the success/failure of the services that we're working building, limiting our teams' ability to make data informed decisions about how to prioritize work.
 
-### Product Storytellers
+### 2) Product Storytellers
 1. Digital service HQ leadership (Matt, Claire, Leadership)
 2. VA Executives
 3. White House - office of innovation
