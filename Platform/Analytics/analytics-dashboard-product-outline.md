@@ -72,22 +72,25 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 **1. Surface what we’re already tracking in Google Analytics**
 - We're already collecting a lot of data in GA. We need to surface the data in a way that is accessible/understandable so that we can establish a full understanding of the data we currently have access to and begin to identify gaps.
 
-**2. Set effective KPI's across Product Teams**
+**2. Solidfy our reporting model** 
+- Bringing consistency to the way the VA.gov and other VA orgs report data is a critical piece in building confidence in the VA's data accuracy. The suggested approach is to create a monthly reporting cadence where all VA orgs submit their organization's metrics on the 5th day of every month. It is imperative that all reported data is backlinked to its original source to ensure accuracy and enable deeper exploration of data trends.
+
+**3. Set effective KPI's across Product Teams**
 - In order to demonstrate how effectively our products are achieving key business objectives, we'll work with each of our development teams to create **S**pecific, **M**easurable, **A**ttainable, **R**elevant, **T**ime-bound KPIs. Well defined  KPIs will ensure that the data we're collecting is valuable for making data driven decisions and also provide storytellers with context surrounding the numbers they are reporting.
 
-**3. Solidfy our reporting model** 
-- Bringing consistency to the way the VA.gov and other VA orgs report data is a critical piece in building confidence in the VA's data accuracy. The suggested approach is to create a monthly reporting cadence where all VA orgs submit their organization's metrics on the 5th day of every month. It is imperative that all reported data points are backlinked to their original source to ensure accuracy and enable further exploration of data trends.
+**4. Centralizes metrics and makes self-service simple**
+- To validate that the solution approach is solving user problems, our team will design, prototype, and usability test an Analytics Dashboard on both Decision Makers and Storytellers to further refine our understanding of their needs. We'll continue to iterate based on user research and are open to the solution looking/functioning differently for each audience.
 
-**4. Generate buy in from other VA organizations**
-- A large part of the WBC effort is getting other VA organizations to buy in to the vision for a unified VA.gov. Analytics is another critical piece in achieving this vision and getting their cooperation in reporting their groups' metrics will allows us to create a holistic view of how Veterans are interacting with the VA.
+**5. Generate buy in from other VA organizations**
+- A large part of the WBC effort is getting other VA organizations to buy in to the vision for a unified VA.gov. Analytics is another critical piece in achieving this vision and getting cooperation from other VA orgs to report their metrics will allow us to create a holistic view of how Veterans are interacting with the VA. We will leverage the MVP from the previous step to encourage buy in and begin to drive change toward a data focused culture across VA.
 
-**5. Build an analytics platform that centralizes metrics and makes self-service simple**
-- Create an Analytics Dashboard that aggregates metrics from across VA entities and makes accurate data easily accessible for both Product Decision Makers and Product Storytellers. This will help the two user groups achieve their goals and ulitmately drive toward a metrics focused culture at the VA.
+**6. Automate system for self-sustainment**
+- Automation is the key for the long term success of this initiative. The more we can automate, the less we rely on individuals manually exporting and inputing data. This will increase the consistency of data capture and ultimately enable reliable reporting. Additionally, we'll need to create simple methods for new data sets to be added for both platform teams and other VA orgs. The easier it is for others to add and access data, the more valuable the entire system becomes.
+
 
 ## Success Metrics
 
 ### Target Outcomes
-1. Increase the consistency of metrics reporting
 1. Increase the number of available data sets *(offline metrics, related services)*
 1. Increase in automated data aggregation vs. manual upload
 1. Decrease the number of requests to clarify data outputs *(indicating an increase in data confidence)* 
@@ -112,7 +115,7 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 - VA Product Lead: Andrew Hughey andrew.hughey2@va.gov 
 - Product Manager: Ryan Luu ryan.luu@adhocteam.us 
 - Design: Emily Waggoner emily@adhocteam.us 
-- Eng: Tony Whittaker tony.whittaker@adhocteam.us 
+- Engineering: Tony Whittaker tony.whittaker@adhocteam.us 
 - GA: Nedie Recel nedie.recel@empiricalpath.com
  
 ## Screenshots
