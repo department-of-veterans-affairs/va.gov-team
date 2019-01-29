@@ -11,9 +11,9 @@
 ---
 
 ## Overarching Problem
-Holistic data on veteran facing service use is difficult to access because the VA’s data is scattered across multiple analytics systems and the metrics aren't shared across offices (or captured at all).
+Holistic data on veteran facing service use is difficult to access because the VA’s data is scattered across multiple analytics systems or aren't captured at all (time between app submission to receipt of benefits).
 
-This lack of holistic insights limits Product Teams' ability to deliver exceptional digital services and VA Storytellers' ability to share the impact of the work being done on VA.gov.
+This lack of holistic insights limits Product Teams' ability to deliver exceptional digital services and hinders VA Storytellers' ability to share the impact of the work being done at the VA.
 
 ## User Groups
 ### 1) Product Decision Makers
@@ -24,20 +24,20 @@ This lack of holistic insights limits Product Teams' ability to deliver exceptio
 
 **User Problem Statement**
 
-As a VA Product Decision Maker, it is difficult to measure the success/failure of the services that we're working building, limiting our teams' ability to make data informed decisions about how to prioritize work.
+As a VA Product Decision Maker, it is difficult to measure the success/failure of the services that we're building, limiting our teams' ability to make data informed decisions about how to prioritize work.
 
 ### 2) Product Storytellers
-1. Digital service HQ leadership (Matt, Claire, Leadership)
+1. Digital service HQ leadership (Matt, Claire, Charles)
 2. VA Executives
-3. White House - office of innovation
+3. White House - Office of Innovation
 4. Congress
-5. Internal DSVA Storytellers (Mandi, Clare, Mandi, Andrew, Lauren, etc)
+5. Internal DSVA Storytellers (Clare, Andrew, Lauren, Noreen, Cyrus, etc)
 6. Recruiting
 7. VSOs
 
 **User Problem Statement**
 
-As a VA Product Storyteller, it is difficult to access key metrics from VA.gov, which limits my ability to tell share the impact of our work on VA.gov.
+As a VA Product Storyteller, it is difficult to access key metrics from VA.gov, which limits my ability to share the impact of our work on VA.gov.
 
 ## Goals
 ### User Goals - *Outcomes*
@@ -57,6 +57,7 @@ _Storytellers_
 1. Create a consistent cadence for reporting metrics
 1. Improve the quality/accuracy of data that is being collected & reported
 1. Increase self service access to metrics and insights
+1. Automate data aggregation and reporting as much as possible
 
 ## Assumptions
 1. We will be able to validate the data we collect on the VFS platform for accuracy
@@ -69,17 +70,17 @@ _Storytellers_
 The VA.gov Analytics Dashboard will unify the various sources of data into a centralized reporting system, containing information on online tools, offline programs (e.g. call center) and other user feedback pathways (e.g. twitter). 
 
 ## Solution Approach
-**1. Surface what we’re already tracking in Google Analytics**
-- We're already collecting a lot of data in GA. We need to surface the data in a way that is accessible/understandable so that we can establish a full understanding of the data we currently have access to and begin to identify gaps.
+**1. Surface what we’re already tracking**
+- We're already collecting a lot of data in GA and through our internal monitoring tools (Sentry, Grafana, Jenkins, etc). We need to surface the data in a way that is accessible/understandable so that we can establish a complete view of the data we currently have access to and begin to identify gaps.
 
 **2. Solidfy our reporting model** 
-- Bringing consistency to the way the VA.gov and other VA orgs report data is a critical piece in building confidence in the VA's data accuracy. The suggested approach is to create a monthly reporting cadence where all VA orgs submit their organization's metrics on the 5th day of every month. It is imperative that all reported data is backlinked to its original source to ensure accuracy and enable deeper exploration of data trends.
+- Bringing consistency to the way that VA.gov and other VA orgs report data is a critical piece in building confidence in the VA's data accuracy. The suggested approach is to create a monthly reporting cadence where all VA orgs submit their organization's metrics on the 5th day of every month. It is imperative that all reported data is backlinked to its original source to ensure accuracy and enable deeper exploration of data trends.
 
 **3. Set effective KPI's across Product Teams**
-- In order to demonstrate how effectively our products are achieving key business objectives, we'll work with each of our development teams to create **S**pecific, **M**easurable, **A**ttainable, **R**elevant, **T**ime-bound KPIs. Well defined  KPIs will ensure that the data we're collecting is valuable for making data driven decisions and also provide storytellers with context surrounding the numbers they are reporting.
+- In order to demonstrate how effectively our products are achieving key business objectives, we'll work with each of our development teams to create **S**pecific, **M**easurable, **A**ttainable, **R**elevant, **T**ime-bound KPIs. Well defined  KPIs will ensure that the data we're collecting is valuable for making data driven decisions and will provide storytellers with context surrounding the numbers they are reporting.
 
 **4. Centralize metrics and makes self-service simple**
-- To validate that the solution approach is solving user problems, our team will design, prototype, and usability test an Analytics Dashboard on both Decision Makers and Storytellers to further refine our understanding of their needs. We'll continue to iterate based on user research and are open to the solution looking/functioning differently for each audience.
+- To validate that the solution approach is solving users' problems, our team will design, prototype, and usability test an Analytics Dashboard on both Decision Makers and Storytellers to further refine our understanding of their needs. We'll continue to iterate based on user research and are open to the solution looking/functioning differently for each audience.
 
 **5. Generate buy in from other VA organizations**
 - A large part of the WBC effort is getting other VA organizations to buy in to the vision for a unified VA.gov. Analytics is another critical piece in achieving this vision and getting cooperation from other VA orgs to report their metrics will allow us to create a holistic view of how Veterans are interacting with the VA. We will leverage the MVP from the previous step to encourage buy in and begin to drive change toward a data focused culture across VA.
@@ -89,18 +90,17 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 
 
 ## Success Metrics
+### Key Storypoints
+*the following are key stories that VA storytellers need metrics to support*
+- Compiled **Product KPI's that lead to larger narratives** - i.e. *"70% of Va's applications are submitted online"*
+- Access to information that indicates the **speed of receiving benefits** - i.e. *"We've reduced the time it takes between a veteran applying and receiving education benefits from 1 month to 1 week"*
+- **User sentiment data** to support narratives - i.e. *"85% of users that submitted Foresee survey in 2019 indicate that the new VA.gov helps them achieve their intended task"*
 
 ### Target Outcomes
 1. Increase the number of available data sets *(offline metrics, related services)*
 1. Increase in automated data aggregation vs. manual upload
 1. Decrease the number of requests to clarify data outputs *(indicating an increase in data confidence)* 
 1. Decrease the number of requests for analytics *(indicating an increase in self-service access)*
-
-### Key Storypoints
-*the following are key stories that VA storytellers need metrics to support*
-- Compiled **Product KPI's that lead to larger narratives** - i.e. *"70% of Va's applications are submitted online"*
-- Access to information that indicates the **speed of receiving benefits** - i.e. *"We've reduced the time it takes between a veteran applying and receiving education benefits from 1 month to 1 week"*
-- **User sentiment data** to support narratives - i.e. *"85% of users that submitted Foresee survey in 2019 indicate that the new VA.gov helps them achieve their intended task"*
 
 # Implementation Info
 ## Status
