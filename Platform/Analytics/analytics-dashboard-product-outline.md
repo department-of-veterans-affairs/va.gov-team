@@ -71,7 +71,7 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 
 ## Solution Approach
 **1. Surface what we’re already tracking**
-- We're already collecting a lot of data in GA and through our internal monitoring tools (Sentry, Grafana, Jenkins, etc). We need to surface the data in a way that is accessible/understandable so that we can establish a complete view of the data we currently have access to and begin to identify gaps.
+- We're already collecting a lot of data in GA and through our internal monitoring tools (Sentry, Grafana, Jenkins, etc). We need to surface the data in a way that is accessible/understandable so that we can establish a complete view of the data we currently have and begin to identify gaps.
 
 **2. Solidfy our reporting model** 
 - Bringing consistency to the way that VA.gov and other VA orgs report data is a critical piece in building confidence in the VA's data accuracy. The suggested approach is to create a monthly reporting cadence where all VA orgs submit their organization's metrics on the 5th day of every month. It is imperative that all reported data is backlinked to its original source to ensure accuracy and enable deeper exploration of data trends.
