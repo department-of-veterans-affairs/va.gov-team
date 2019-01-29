@@ -1,5 +1,4 @@
-# Participant Number, Date, Time
-GTM2 Participant 1 , 01-28-2019, 4pmEST Notetaker: Amy
+# Participant 1 , 01-28-2019, 4pm EST Notetaker: Amy
 
 ## First Task: Benefits Questions - 10 minutes
 
@@ -7,13 +6,13 @@ GTM2 Participant 1 , 01-28-2019, 4pmEST Notetaker: Amy
 Using education benefits now. Motgomery GI Bill (active duty) Chapter 30 bill. Called in, talked 5 minutes on the phone to get setup, school did the rest. Pretty simple. 
 
   - Tell me about the last time you interacted with VA.
-Recently due to get out within 70 days. Changing over to post 9/11. Easy, changed benefits over. 
-Scheduling disabilty physical, harder to get in for, medical side of things. The VA or active duty side takes forever to be seen. Called in December, won’t be seen until end of march. Separation is April, short 2 week window. 
+  Recently due to get out within 70 days. Changing over to post 9/11. Easy, changed benefits over. 
+
 
   - What was the most difficult part of that experience?
+Scheduling disabilty physical, harder to get in for, medical side of things. The VA or active duty side takes forever to be seen. Called in December, won’t be seen until end of march. Separation is April, short 2 week window. 
 
 - Are there any times in your life where you are planning to interact with VA in the future?
-
 Future, planning to use VA loan to buy a house. Heard it’s great. Doesn’t know much about it. VA website, great resource, calculator to guesstimate things for you. Can get on military bank website. Use their calculators and call a bank representative. Can also call VA. 
 
 
