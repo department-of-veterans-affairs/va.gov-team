@@ -78,7 +78,7 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 **3. Set effective KPI's across Product Teams**
 - In order to demonstrate how effectively our products are achieving key business objectives, we'll work with each of our development teams to create **S**pecific, **M**easurable, **A**ttainable, **R**elevant, **T**ime-bound KPIs. Well defined  KPIs will ensure that the data we're collecting is valuable for making data driven decisions and also provide storytellers with context surrounding the numbers they are reporting.
 
-**4. Centralizes metrics and makes self-service simple**
+**4. Centralize metrics and makes self-service simple**
 - To validate that the solution approach is solving user problems, our team will design, prototype, and usability test an Analytics Dashboard on both Decision Makers and Storytellers to further refine our understanding of their needs. We'll continue to iterate based on user research and are open to the solution looking/functioning differently for each audience.
 
 **5. Generate buy in from other VA organizations**
