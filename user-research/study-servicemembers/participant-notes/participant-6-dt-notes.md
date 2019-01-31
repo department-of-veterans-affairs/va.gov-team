@@ -46,24 +46,40 @@ Well, I know that there are probably other benefits that I’m not aware of. If 
 ## Second Task: Card Sort - 20 minutes
 
 This is awfully interesting. I’m going to go ahead and just look at what I’ve got here, just read them all, all the different sections ***[reads through titles]***. Wow, okay, this is a doozy here. <br>
+
 ***[moves Voc Rehab over to create a category]*** Vocational rehabilitation and employment, okay, I see. <br>
+
 ***[places Career and Employment Assistance with Voc Rehab]*** Career and employment assistance *[pause]* if I need to change them once they’re in a group, will it allow me to do that?<br>
+
 *[moderator answers, “Yes.”]*<br>
+
 ***[moves Health care into its own category]*** Wow, these are awfully close. So I’m kind of just trying to group them with their similarities, but I almost want to put them all in one group.<br>
+
 ***[moves Health Care over with Voc Rehab and Careers]*** So those kind of look like benefits.<br>
+
 The Transition Assistance Program, is that basically like to find a job?<br>
 *[moderator answers, “I’m going to refrain from answering that during the activity, but I’ll tell you afterwards.]*<br>
 That’s fine. Maybe that’s more over here. ***[moves TAP over with Careers]***<br>
+
 ***[moves Records into its own category]*** Records is kind of going off on its own.<br>
+
 ***[moves Disability into its own category]*** Pre-discharge disability claim *[pause]* I don’t even know. This is something else.<br>
+
 ***[refers to the category of GI Bill, Home Loans, Pension]*** I feel like this one is pretty obviously labeled “Benefits.” <br>
+
 ***[refers to the category of TAP, Careers, Voc Rehab, and Health Care]*** This one maybe…they all kind of seem like they’re just transition. That’s how my mind kind of works here. They all kind of seem like they’d go under the same group title of “Transition,” with the exception of Burials and Records.<br>
+
 ***[moves GI Bill, Home Loan, and Pension in with TAP, Careers, Voc Rehab, and Health Care and labels this category “Transition Benefits/ Assistance”]*** They’re all kind of the same thing…like career and employment assistant, obviously you’re getting out of the military, you need employment. You might need vocational rehabilitation. You’re gonna need some health care post transition. 
 The VA home loan could be kind of like pre-transition. GI Bill and other education, okay, so now that I’m thinking through it, I kind of like that idea.<br>
+
 ***[moves Home Loans and GI Bill into a new category and labels it “Pre-Transition”]*** This one is kind of like pre-transition.<br>
+
 ***[refers to the 3rd group of Records, Pre-discharge Disability Claim, Life Insurance, Burials]***  I don’t know even know what to…what’s a good word for paperwork stuff? Let’s go with “FAQs.” ***[labels this group “FAQs”]***<br>
+
 <br>
+
 ***[finalizes groups and labels them as below]***<br>
+
 <br>
 -	**Transition Benefits/Assistance**
   - TAP
@@ -106,7 +122,7 @@ At this point in my life would be transition assistance, careers, health care, a
 What do I feel is missing? Umm….*[pause]* that is hard to answer. Just because I wasn’t even aware of some of these. Umm…*[pause]* let’s see, so missing as in what do I think the VA could do for Veterans that they don’t have listed here?
   -	**What info would you expect to find?**<br>
   Yeah, I’m thinking, that’s a really hard…I mean, it seems like a pretty thorough list here. You kind of hit all the different benefits of all the primary concerns people would have in their life. They’re all here. You’ve got the health care after separation. <br>
-I imagine that it’s somewhere, but on this list here is nothing that’s like what to expect with your health care process. But I imagine that’s probably under health care separation somewhere. <b>
+I imagine that it’s somewhere, but on this list here is nothing that’s like what to expect with your health care process. But I imagine that’s probably under health care separation somewhere. <br>
 So…*[pause]* I would say, if I had to say something that’s missing, it’s not really in the listing of items. It’s more in the way that they’re listed. They all seem, they’re not very—they’re very black and white and they’re just not— I don’t know. I would expect there to be something that’s more like a use friendly welcoming type of aspect here. That’s not here, but I don’t know. I’m kind of….
 
 
