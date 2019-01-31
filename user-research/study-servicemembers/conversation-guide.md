@@ -101,7 +101,8 @@ Ok, during this activity you are going to click on the cards on the left side of
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 As a thank you for your participation, we'd like to offer you a $50 thank-you gift. 
-Great, is it ok for Perigean to send that gift to the same address we used to communicate with you about scheduling this test? 
+Great, is it ok for Perigean to send that gift to the same address we used to communicate with you about scheduling this session? 
+
 [If no] Ok, we'll follow up with an email after this session to get the right email from you in writing.
 
 Thanks! Lastly, would you like to share this feedback opportunity with other Veterans or Veteran groups you're a part of? If so, I can send you an email with a little blurb so you can easily connect folks to our team.
