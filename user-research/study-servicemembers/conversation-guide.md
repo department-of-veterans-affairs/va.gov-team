@@ -81,6 +81,7 @@ Ok, during this activity you are going to click on the cards on the left side of
 - Which of these cards are the most important to you?
 - Any that you were not aware of before today?
 - Which of these would you see yourself using in the future?
+- What is missing from this list?
 
 ### Things to watch for:
 
