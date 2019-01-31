@@ -1,4 +1,4 @@
-# Conversation Guide Template
+# Conversation Guide Servicemember Hub Discovery Research
 
 ## Moderator logistics
 
