@@ -113,7 +113,7 @@ Yes, “mil” being military and “civ” being civilian transition. My assump
   - Career and Employment Assistance
 - **Health & Disability**
   - Pre-Discharge Disability Claim
-  - Health Care After Separation or Reitrement
+  - Health Care After Separation or Retirement
   - Records
 - **Post-Career/59+**
   - Veterans Pension Benefits
