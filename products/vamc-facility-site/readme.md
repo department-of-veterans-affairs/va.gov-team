@@ -1,6 +1,6 @@
 # VA Medical Center Facility Site
 
-This is a space for multiple teams to share and manage produce files.
+This is a space for multiple teams to share and manage product files.
 
 ### Please only use this space for documentation related to the product's:
 1. Visual and UI design (e.g, Sketch files, mockups, wireframes, etc.)
