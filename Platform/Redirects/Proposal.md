@@ -10,12 +10,15 @@
 ### Network infrastructure level redirects
 
 These are straight forward, there is a configuration file that is written out with all the redirects required at the reverse proxy level of our network infrastructure.  Overall the redirect is done before it reaches application servers, and it is rerouted within the va.gov routed space, and has the correct status codes associated with them (301 - Moved Permanently or 302 - Temporarily Moved) so no negative impact on SEO.
+- Example: pittsburg.va.gov will redirect to va.gov/pittsburg
 
 ### In Page (HTML) VA.gov Redirects
 There are redirects that are handled in the page, often known as meta refresh redirects, that can be added to a specific path going to a new path.  This is not the most effective type of redirect because there is no HTTP status code associated with this type of redirect (301 - Moved Permanently, 302 - Found, 307 - Temporary Redirect) to indicate to search engines and improve SEO. These are handled in the va.gov routed space so can be handled in the same way as the previously described network infrastructure level redirects.
+- Example: printed document has a URL that needs to change, and it doesn't get done through Devops
 
 ### In header Redirects (benefits.va.gov)
 This is similiar to the in page va.gov redirects but they are on domains that aren't routed through the reverse proxy and can be converted to in network infrastructure level redirects.  So currently the vets-website build process creates files that are included on these pages that do the same kind of in page redirect described above as the in page va.gov redirects.  We will need to continue to support this type of redirect until these domains are routed through the network infrastructure that the platform team supports.
+- Example: page on benefits.va.gov that has a modern version on va.gov
 
 ## Proposed Solution
 
