@@ -24,7 +24,7 @@ This lack of holistic insights limits Product Teams' ability to deliver exceptio
 
 **User Problem Statement**
 
-As a VA Product Decision Maker, it is difficult to measure the success/failure of the services that we're building, limiting our teams' ability to make data informed decisions about how to prioritize work.
+As a VA Product Decision Maker, it is difficult to measure VA.gov digital services, limiting our teams’ ability to make data informed decisions about how to prioritize work, design the appropriate experiences, and measure their success.
 
 ### 2) Product Storytellers
 1. Digital service HQ leadership (Matt, Claire, Charles)
@@ -37,7 +37,7 @@ As a VA Product Decision Maker, it is difficult to measure the success/failure o
 
 **User Problem Statement**
 
-As a VA Product Storyteller, it is difficult to access key metrics from VA.gov, which limits my ability to share the impact of our work on VA.gov.
+As a VA Product Storyteller, it is difficult to access and contextualize key metrics from VA.gov, which limits my ability to share the impact of our work on VA.gov.
 
 ## Goals
 ### User Goals - *Outcomes*
@@ -58,6 +58,7 @@ _Storytellers_
 1. Improve the quality/accuracy of data that is being collected & reported
 1. Increase self service access to metrics and insights
 1. Automate data aggregation and reporting as much as possible
+1. Integrate data analysis into the design process
 
 ## Assumptions
 1. We will be able to validate the data we collect on the VFS platform for accuracy
