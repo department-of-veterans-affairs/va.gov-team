@@ -34,6 +34,7 @@ The VSP team will be responsible for:
 
 - Exposing VA data resources via APIs
 - Maintaining a development or orchestration environment
+- Maintaining a shared set of design, content, and engineering assets
 - Infrastructure, networking, and routing
 - Call center support
 - Performance monitoring
