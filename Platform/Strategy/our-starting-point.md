@@ -20,7 +20,7 @@ Over the next ten months, several teams piloted the VSP to build tools and servi
 
 The teams, with exception of VET TECH, have provided useful feedback about their VSP experience. More on that in _What we learned_, below.
 
-Concurrently with the active pilots, DSVA produced a significant amount of guides and documentation geared towards “external teams” — those teams who were not directly managed by DSVA staff. Items produced included the VA Digital Services Handbook, an external team focused Github repository, and instructional material for DSVA to manage the VSP.
+Concurrently with the pilots, DSVA produced a significant amount of guides and documentation geared towards “external teams” — those teams who were not directly managed by DSVA staff. Items produced included the [VA Digital Services Handbook](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/), an external team focused [Github repository](https://github.com/department-of-veterans-affairs/vets-external-teams), and [instructional material](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Platform-Support) for DSVA to manage the VSP.
 
 ## What we learned
 
