@@ -1,12 +1,12 @@
 
 # Documentation Guide
 
-## Problem Statment
+## Problem Statement
 The documentation for VA.gov is spread out and difficult to navigate. As a Veteran Facing Services *(VFS)* creator, I need to be able to access the appropriate infomation for building and updating the VA.gov Platform without support from the current VA.gov contract team.
 
 ## VFS Documentation User Groups
 1. Developers - Frontend, Backend, Devops
-1. Designers
+1. Designers and Researchers
 1. Product People
 1. Content Writers
 1. Analytics Specialists
@@ -21,7 +21,7 @@ As an new VFS creator, I can onboard to work on the VFS platform, navigate to th
 
 ### Business Goals - *Objectives*
 1. Documentation is in place to help new VFS creators onboard into the tools and systems that apply to the work in their unique practice areas
-1. Documentation are available and easily accessible for new VFS creators to monitior and maintain the existing tools on the VFS Platform
+1. Documentation is available and easily accessible for new VFS creators to monitor and maintain the existing tools on the VFS Platform
 1. Processes and documentation are in place to guide new VFS creators to build and launch new systems on the VFS platform
 
 ## Assumptions
@@ -29,7 +29,7 @@ As an new VFS creator, I can onboard to work on the VFS platform, navigate to th
 - There will come a time when VFS creators will need to onboard without any ability to communitcate with the current team
 
 ## Value Propositions
-Giving new VFS creators an easy way to navigate the resources needed to onboard and contribute to the VFS platform byt creating a documentation guide / table of contents that links to the appropriate resources by practice area and by product.
+Giving new VFS creators an easy way to navigate the resources needed to onboard and contribute to the VFS platform by creating a documentation guide / table of contents that links to the appropriate resources by practice area and by product.
 
 ## Solution Approach
 **Step 1:** 
@@ -39,7 +39,7 @@ Giving new VFS creators an easy way to navigate the resources needed to onboard 
 - Figuring out the user groups for the documentation
 
 **Step 3**
-- Aggregate the all the various sources of documentation (Github Repos, design.va.gov, etc.)
+- Aggregate all the various sources of documentation (Github Repos, design.va.gov, etc.)
 
 **Step 4**
 - Update & Delete information that is outdated or no longer useful (dead links, updating names/owners, etc.)
@@ -60,7 +60,7 @@ Giving new VFS creators an easy way to navigate the resources needed to onboard 
 
 # Implementation Info
 ## Status
-2/21/19 - Question we're trying to answer - *"Could a non ad hoc person run this?"*
+2/21/19 - Question we're trying to answer - *"Could a non Ad Hoc person run this?"*
  
 
 ## Notes from initial discussion with Patrick, Leah & Rachael 2/21/19 
@@ -71,6 +71,6 @@ Giving new VFS creators an easy way to navigate the resources needed to onboard 
    - How can we put together an approach for documentation that keeps docs close to code, is open and serves the needs of the various groups.(Mikki for recommendations on activities to do)
 
 
- Could a non ad hoc person run this?
+ Could a non Ad Hoc person run this?
 
 Getting perspective from the teams on what they consider the things that people use to build tools. To add to list in  https://docs.google.com/spreadsheets/d/1QLx2hZBFjxxtQHcCJPpZpo8j5NgHSqt_joGxXjdV2Y8/edit#gid=0 column D.
