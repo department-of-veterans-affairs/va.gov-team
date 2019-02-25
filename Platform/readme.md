@@ -34,16 +34,22 @@ Giving new VFS creators an easy way to navigate the resources needed to onboard 
 ## Solution Approach
 **Step 1:** 
 - Talk with each of the team to ensure we have a full list of systems/features they use to build stuff
+
 **Step 2**
 - Figuring out the user groups for the documentation
+
 **Step 3**
 - Aggregate the all the various sources of documentation (Github Repos, design.va.gov, etc.)
+
 **Step 4**
 - Update & Delete information that is outdated or no longer useful (dead links, updating names/owners, etc.)
+
 **Step 5**
 - Create a table of contents for navigating the documentation for the various user groups
+
 **Step 6**
 - Research/test the documentation guide on new VFS creators to identify gaps and points of confusion
+
 **Step 7**
 - Refine the documentation guide based on user research
 
