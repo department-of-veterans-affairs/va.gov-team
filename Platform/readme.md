@@ -16,14 +16,18 @@ The documentation for VA.gov is spread out and difficult to navigate. As a Veter
 
 
 ## Goals
-### User Goals - *Outcomes*
+### User Goals
+As an new VFS creator, I can onboard to work on the VFS platform, navigate to the appropriate resources and successfully build/maintain products on the VFS platform.
 
+**Can I run the VFS platform with *no guidance* from the current VA.gov contract team?**
 
 ### Business Goals - *Objectives*
-
+1. Documentation is in place to help new VFS creators onboard into the tools and systems that apply to the work in their unique practice areas
+1. Documentation are available and easily accessible for new VFS creators to monitior and maintain the existing tools on the VFS Platform
+1. Processes and documentation are in place to guide new VFS creators to build and launch new systems on the VFS platform
 
 ## Assumptions
-
+VFS Creators have the appropriate knowledge to work with the tools/services
 
 ## Value Propositions
 
