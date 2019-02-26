@@ -42,20 +42,24 @@ Second, even if lots of quality user research and discovery is conducted to info
 
 As discussed in *How we got here*, above, the original VSP vision was to address both of these challenges. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
 
-- We're not doing that anymore
-- VSP will be focused only on the second part — abstracting away PITA stuff so teams can easily build quality VFS without having to relearn everything that we've learned.
+Instead of trying to tackle both of these huge responsibilities, the next iteration of the VSP will focus squarely on the the second one: overcome difficult but common challenges with VA technology to enable the efficient delivery of high-quality veteran facing services. We will abstract away the painful technology, security, compliance, and bureaucratic barriers so product teams can better focus on the user.
 
-The VSP team will be responsible for:
+Specifically, the VSP team will be responsible for:
 
 - Exposing VA data resources via APIs
+- Platform-level security, compliance, and ATO
+- Infrastructure, networking, and routing
 - Maintaining a development or orchestration environment
 - Maintaining a shared set of design, content, and engineering assets
-- Infrastructure, networking, and routing
 - Call center support
 - Performance monitoring
-- Platform-level security and compliance
 
-Governance and quality control for any veteran-facing tool or service that is accessible via va.gov will be executed by the va.gov global experience team. There should be minimal gaps products developed with close DSVA involvement and the expectations of the va.gov global experience team.
+### ...but what about quality?
+
+If the VSP is focused on enablement, who will make sure the teams that are enabled are actually building quality, user-centered veteran-facing services? Two ways:
+
+- **At the product or feature level**, a DSVA team member will be closely advising, supporting, managing, leading, influencing, nudging, etc... product delivery teams responsible for delivering veteran-facing services.
+- **At the the va.gov level**, the forthcoming "va.gov global experience team" will be responsible for setting and enforcing standards for *any* veteran-facing service that is accessible via .va.gov.
 
 ## Success is... 
 
