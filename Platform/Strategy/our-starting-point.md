@@ -30,6 +30,21 @@ Concurrently with the pilots, DSVA produced a significant amount of guides and d
 
 **TL;DR**: Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control. Stable products will be moved out of DSVA.
 
+### ...but first, why the platform exists
+
+Because it's hard to deliver quality veteran-facing services at VA. There are two reasons for this.
+
+First, VA has traditionally approached veteran-facing services in a top-down prescriptive way. Stiff technology and experience requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual veterans. In the end, the products delivered don't align well with the needs of their veteran users.
+
+Second, even if lots of quality user research and discovery is conducted to inform the product, VA's collection of technology systems, infrastructure, and processes will prevent effective delivery. Designing for the needs of veteran users is an excellent start, but if it impossible to meet those needs because of bad technology, the product will also fail to meet veteran needs.
+
+### OK, back to where we're headed
+
+As discussed in *How we got here*, above, the original VSP vision was to address both of these challenges. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
+
+- We're not doing that anymore
+- VSP will be focused only on the second part — abstracting away PITA stuff so teams can easily build quality VFS without having to relearn everything that we've learned.
+
 The VSP team will be responsible for:
 
 - Exposing VA data resources via APIs
