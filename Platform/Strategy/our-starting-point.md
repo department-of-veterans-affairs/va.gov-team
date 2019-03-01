@@ -49,7 +49,7 @@ Concurrently with the pilots, DSVA produced a significant amount of guides and d
 
 **TL;DR**: Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control.
 
-As discussed in *How we got here*, above, the original VSP vision was to address both the product and technology challenges of delivering quality veteran-facing services. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
+As discussed above, the original VSP vision was to address both the product and technology challenges of delivering quality veteran-facing services. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
 
 We learned that shouldering the VSP with both of these responsibilities is not effective. Thus, the next iteration of the VSP will focus squarely on only one: overcome difficult but common challenges with VA technology to enable the efficient delivery of high-quality veteran facing services. We will abstract away the painful technology, security, compliance, and bureaucratic barriers so product teams can better focus on the user.
 
@@ -68,7 +68,7 @@ Specifically, the VSP team will be responsible for:
 If the VSP is focused on enablement, who will make sure the teams that are enabled are actually building quality, user-centered veteran-facing services? Two ways:
 
 - **At the product or feature level**, a DSVA team member will be closely advising, supporting, managing, leading, influencing, nudging, etc... product delivery teams responsible for delivering veteran-facing services.
-- **At the the va.gov level**, the forthcoming "va.gov global experience team" will be responsible for setting and enforcing standards for *any* veteran-facing service that is accessible via .va.gov.
+- **At the the va.gov level**, the forthcoming "va.gov global experience team" will be responsible for setting and enforcing standards for *any* veteran-facing service that is accessible via .va.gov. This [nifty map](team-layout.png) shows how this global team, the VSP, and teams building veteran-facing services all work fit together.
 
 ## Success is... 
 
