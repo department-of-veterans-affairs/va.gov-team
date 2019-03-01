@@ -40,6 +40,11 @@ Concurrently with the pilots, DSVA produced a significant amount of guides and d
 
 **TL;DR**: It’s really hard to enforce the level of product quality DSVA demands if DSVA is not closely involved with day-to-day product management.
 
+ - Asking non-DSVA managed teams to adhere to DSVA standards but without being there to empower those teams to do so is not fair to the teams and does not result in success. For example, if adherence to DSVA's standards mean that a non-DSVA team will not be able to make externally imposed deadlines and DSVA isn't there to stand shoulder-to-shoulder with the team to push back, we're putting that non-DSVA in an impossible situation.
+ 
+ - In a perfect scenario, a non-DSVA team following our Handbook to the letter shouldn't ever need to choose between stakeholder needs and user needs because they will have worked closely with the business owner to develop a clear set of user needs, thoroughly understand the problem based on real research, conducted technical discovery, etc... We know, however, that it is rare that non-DSVA teams have the time and budget to accomplish this before getting started on delivery. And even if time and budget exist, non-DSVA often lack a champion who will push for these critical tasks to be completed.
+
+  
 ## Where we’re headed
 
 **TL;DR**: Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control.
