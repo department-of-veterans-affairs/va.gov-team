@@ -109,8 +109,18 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
 - **12/24/18** - spreadsheet of aggregated Vets/VA metrics was created to track month over month metrics of the modernized tools [link](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=551050318)
 - **1/16/19** - evaluation of potential dashboard options [link](https://docs.google.com/document/d/1ZVata8XExaxf9ULj5dZ5YzwpVS2vMga8nMlofid35Jo/edit#)
 - **1/24/19** - Google Analytics documentation [link](https://docs.google.com/document/d/1MlKWlW2MMVdnRGcvqDgp9AgXlVY9O9ulW6uxysXO1Ds/edit)
-
-
+- **3/4/19**
+  - Looking to pursue an understanding of the user journey beyond a veteran's experience on VA.gov. 
+  - **Action item**: reach out to other VA orgs to gain access to datasets. @joyoftech to connect with the call center to initiate this effort. Questions to ask: 
+     - What happens to a veteran's application once it is submitted through VA.gov?
+     - Are there differences in processing times between online vs. offline applications?
+     - Can we get reliable outputs (monthly) of data from these offices regarding processing times, accept/reject rates, etc.?
+  - **Action item**: Auditing and organizing information that it cateloged in error reporting systems right now (prometheus, grafana, sentry).
+     - Our tools on VA.gov are reliant on services we don't manage, limiting our view of the errors that are happening in other VA agencies/departments 
+  - **Action item**: identify a good tool (biggest impact item) to start with in pursuing data beyond submission (@andrewhughey)
+  - **Action items**: audit and update data services inventory [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Data/Data-Services/services-inventory.md) @davemethvin
+     - Also adding a column for where data is sent - some documentation [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/README.md)
+  
 ## Team
 - VA Platform Lead: Leah Bannon, leah.bannon2@va.gov
 - VA Product Lead: Andrew Hughey andrew.hughey2@va.gov 
