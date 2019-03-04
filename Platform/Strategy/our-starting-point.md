@@ -3,19 +3,22 @@ This document is a starting point of where, exactly, the platform pivot will tak
 
 ## How we got here
 
-**TL;DR**: We learned a lot building vets/va.gov. We want anyone who wants to build quality veteran-facing services to be able to leverage what we learned.
+
+| **TL;DR**|
+|:---|
+|We learned a lot building vets/va.gov. We want anyone who wants to build quality veteran-facing services to be able to leverage what we learned.|
 
 ### The challenges and what we did about them
 
 It's hard to deliver quality veteran-facing services at VA.
 
-First, VA has generally approached the delivery of veteran-facing services in a top-down prescriptive way. Stiff technology and experience requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual veterans. In the end, the products delivered don't align well with the needs of their veteran users.
+First, VA has generally approached the delivery of veteran-facing services in a top-down prescriptive way. Stiff requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual veterans. In the end, the products delivered don't align well with the needs of their veteran users.
 
  - **What we did about it**: Hired product-minded people and empowered them to focus on user needs to exclusion of all else. Partnered with program offices and OIT to build support for user-centered methodologies. Went to the mat to make sure user needs were prioritized over business needs. 
 
 Second, even if lots of quality user research and discovery is conducted to inform the product, VA's collection of technology systems, infrastructure, and processes will prevent effective delivery. Designing for the needs of veteran users is an excellent start, but if it impossible to meet those needs because of bad technology, the product will also fail to meet veteran needs.
 
- - **What we did about it**: Built a robust, stable API layer that stands between veterans and existing VA resources to significantly reduce the chances of a veteran being denied services because of a VA system failure. Built processes and toolchains that allow for rapid, flexible development while remaining compliant with VA enterprise rules.
+ - **What we did about it**: Built a robust, stable API layer that stands between veterans and existing VA resources to significantly reduce the chance of a veteran being denied services because of a VA system failure. And we built processes and toolchains that allow for rapid, flexible development while remaining compliant with VA enterprise rules.
 
 ### Can we scale it?
 
@@ -36,18 +39,33 @@ The teams, with exception of VET TECH, have provided useful feedback about their
 
 Concurrently with the pilots, DSVA produced a significant amount of guides and documentation geared towards “external teams” — those teams who were not directly managed by DSVA staff. Items produced included the [VA Digital Services Handbook](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/), an external team focused [Github repository](https://github.com/department-of-veterans-affairs/vets-external-teams), and [instructional material](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Platform-Support) for DSVA to manage the VSP.
 
-### What we learned
+## What we learned
 
-**TL;DR**: It’s really hard to enforce the level of product quality DSVA demands if DSVA is not closely involved with day-to-day product management.
+| **TL;DR**|
+|:---|
+|It’s really hard to enforce the level of product quality DSVA demands if DSVA is not closely involved with day-to-day product management.|
 
- - Asking non-DSVA managed teams to adhere to DSVA standards but without being there to empower those teams to do so is not fair to the teams and does not result in success. For example, if adherence to DSVA's standards mean that a non-DSVA team will not be able to make externally imposed deadlines and DSVA isn't there to stand shoulder-to-shoulder with the team to push back, we're putting that non-DSVA in an impossible situation.
+### We're special
+Yes, that sounds awful. But what we're really saying is that we, as a USDS team, are empowered to do things differently, ask tough questions, and be bold. We have a good deal of top cover and know that when we fight for something, there will likely be people in high places to back us up. Tactically, this means we can push back on deadline or stakeholder driven projects without fear of reprisal or loss of future work.
+
+This is not the case for the vast majority of teams who might build and deliver veteran facing services. While they may _want_ to put the needs of their users before the interests of their stakeholders, they are not empowered and incentivized to do so. We cannot simply give a non-DSVA team a list of our values — values that often run contrary to much of the federal IT operation — and expect that non-DSVA team to bravely defend them. They simply need more support than that.
+
  
- - In a perfect scenario, a non-DSVA team following our Handbook to the letter shouldn't ever need to choose between stakeholder needs and user needs because they will have worked closely with the business owner to develop a clear set of user needs, thoroughly understand the problem based on real research, conducted technical discovery, etc... We know, however, that it is rare that non-DSVA teams have the time and budget to accomplish this before getting started on delivery. And even if time and budget exist, non-DSVA often lack a champion who will push for these critical tasks to be completed.
+### We're too late
+By the time a project reaches the VSP and is asked to adhere to DSVA's standards, a good bit of inertia has been built up around requirements, direction, budget, and timing. Asking a team to adhere to our values and guidelines at this point is too late: the water has already started running over the fall. And, again, even if there are well meaning participants in the project who believe in DSVA's values, unless they are empowered to do something about it they will be run over by inertia and tradition.
+
+### We're going to own it anyway
+
+- If we ask people to build on the VSP, we're going to end up owning (or at least closely supporting) the product after it's delivered.
+- WBC and DEPO make this even more true.
 
   
 ## Where we’re headed
 
-**TL;DR**: Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control.
+
+| **TL;DR**|
+|:---|
+|Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control.|
 
 As discussed above, the original VSP vision was to address both the product and technology challenges of delivering quality veteran-facing services. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
 
@@ -72,5 +90,4 @@ If the VSP is focused on enablement, who will make sure the teams that are enabl
 
 ## Success is... 
 
-**TL;DR**: DSVA continuously delivering high quality veteran-facing tools and services in close collaboration with VA business owners, OIT, and contractors. Development teams are able to easily use existing VA.gov assets and resources. Stable projects graduate from DSVA to the relevant OIT product portfolio and line.
-
+DSVA continuously delivering high quality veteran-facing tools and services in close collaboration with VA business owners, OIT, and contractors. Development teams are able to easily use existing VA.gov assets and resources.
