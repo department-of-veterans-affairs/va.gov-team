@@ -88,4 +88,4 @@ If the VSP is focused on enablement, who will make sure the teams that are enabl
 
 ## Success is... 
 
-DSVA continuously delivering high quality Veteran-facing tools and services in close collaboration with VA business owners, OIT, and contractors. Development teams are able to easily use existing VA.gov assets and resources.
+DSVA continuously delivering high quality Veteran-facing tools and services in close collaboration with VA business owners, OIT, and contractors. Development teams are able to easily use existing VA.gov assets and resources. Prioritizing user needs and experience at the VA no longer requires such Herculean efforts that teams are rapidly burned out.
