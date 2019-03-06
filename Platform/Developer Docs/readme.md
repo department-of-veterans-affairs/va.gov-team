@@ -1,5 +1,6 @@
 
 # Gatsby Documentation
+- Live URL: https://github.com/department-of-veterans-affairs/veteran-facing-services-tools
 
 ## Problem Statment
 The Frontend documentation for VA.gov is difficult to navigate, because they're spread out across various source and because GH's search isn't great for docs. 
@@ -48,6 +49,7 @@ The plan for this site is to live on github at https://github.com/department-of-
 # Implementation Info
 ## Status
 - We are in step one --> Early documentation aggregation happening [here](https://docs.google.com/document/d/167wfEPR7M77EY6s-K4zJ_REOJL3KfNOy4-3fZJEUERw/edit)
+- Determined a path forward with the Gatsby Documentation [here](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16677#issuecomment-466550974)
 
 
 ## Team
