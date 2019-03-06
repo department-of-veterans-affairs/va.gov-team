@@ -3,10 +3,8 @@ This document is a starting point of where, exactly, the platform pivot will tak
 
 ## How we got here
 
-
-| **TL;DR**|
-|:---|
-|We learned a lot building vets/va.gov. We want anyone who wants to build quality Veteran-facing services to be able to leverage what we learned.|
+|*TL;DR*|We learned a lot building vets/va.gov. We want anyone who wants to build quality veteran-facing services to be able to leverage what we learned. |
+|---|:---|
 
 ### The challenges and what we did about them
 
@@ -41,9 +39,8 @@ Concurrently with the pilots, DSVA produced a significant amount of guides and d
 
 ## What we learned
 
-| **TL;DR**|
-|:---|
-|It’s really hard to enforce the level of product quality DSVA demands if DSVA is not closely involved with day-to-day product leadership.|
+|*TL;DR*|It’s really hard to enforce the level of product quality DSVA demands if DSVA is not closely involved with day-to-day product management.|
+|---|:---|
 
 ### We're special
 Yes, that sounds awful. But what we're really saying is that we, as a USDS team, are empowered to do things differently, ask tough questions, and be brave. We have a good deal of top cover and know that when we fight for something, our colleagues, community, and even some people in high places will back us up. Tactically, this means we can push back on deadline- or stakeholder-driven challenges without fear of reprisal or loss of future work.
@@ -54,16 +51,13 @@ This is not the case for the vast majority of teams who might build and deliver 
 By the time a project reaches the VSP and is asked to adhere to DSVA's standards, a good bit of inertia has been built up around requirements, direction, architecture, budget, and timing. Asking a team to adhere to our values and guidelines at this point is too late: the water has already started running over the fall (and, crucially, bad launch dates have likely been shared with leadership). And, again, even if there are well meaning participants in the project who believe in DSVA's values, unless they are empowered to do something about it, they will be run over by launch momentum and tradition.
 
 ### We're going to own it anyway
-- If we ask people to build on the VSP, we're going to end up owning (or at least closely supporting) the product after it's delivered.
-- WBC and DEPO make this even more true.
 
+Products built on the VSP will be maintained by DSVA teams, even if that product was built by a non-DSVA team. There are two reasons for this. First, the va.gov architecture encourages new products to be tightly coupled (if not completely integrated) with the platform itself. That means changes to the platform require changes to the products — and those product-level changes are going to fall on DSVA either immediately or eventually. Second, because we have assumed responsibility for the global Veteran digital experience, it incumbent upon us to force continuous improvement of _all_ Veteran-facing products within our orbit. That, of course, includes products that were developed by a non-DSVA team (who has since left the building) and live on the platform.
   
 ## Where we’re headed
 
-
-| **TL;DR**|
-|:---|
-|Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control.|
+|*TL;DR*|Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control.|
+|---|:---|
 
 As discussed above, the original VSP vision was to address both the product and technology challenges of delivering quality Veteran-facing services. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
 
