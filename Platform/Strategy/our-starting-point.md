@@ -6,13 +6,13 @@ This document is a starting point of where, exactly, the platform pivot will tak
 
 | **TL;DR**|
 |:---|
-|We learned a lot building vets/va.gov. We want anyone who wants to build quality veteran-facing services to be able to leverage what we learned.|
+|We learned a lot building vets/va.gov. We want anyone who wants to build quality Veteran-facing services to be able to leverage what we learned.|
 
 ### The challenges and what we did about them
 
-It's hard to deliver quality veteran-facing services at VA.
+It's hard to deliver quality Veteran-facing services at VA.
 
-First, VA has generally approached the delivery of veteran-facing services in a top-down prescriptive way. Stiff requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual veterans. In the end, the products delivered don't align well with the needs of their veteran users. Moreover, when problems are discovered during development of a new service, launch dates are consistently prioritized above Veteran experience and data integrity.
+First, VA has generally approached the delivery of Veteran-facing services in a top-down prescriptive way. Stiff requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual Veterans. In the end, the products delivered don't align well with the needs of their Veteran users. Moreover, when problems are discovered during development of a new service, launch dates are consistently prioritized above Veteran experience and data integrity.
 
  - **What we did about it**: Hired product-minded people and empowered them to focus on user needs to exclusion of all else. Partnered with program offices and OIT to build support for user-centered methodologies. Went to the mat to make sure user needs were prioritized over business needs. 
 
@@ -48,7 +48,7 @@ Concurrently with the pilots, DSVA produced a significant amount of guides and d
 ### We're special
 Yes, that sounds awful. But what we're really saying is that we, as a USDS team, are empowered to do things differently, ask tough questions, and be bold. We have a good deal of top cover and know that when we fight for something, there will likely be people in high places to back us up. Tactically, this means we can push back on deadline or stakeholder driven projects without fear of reprisal or loss of future work.
 
-This is not the case for the vast majority of teams who might build and deliver veteran facing services. While they may _want_ to put the needs of their users before the interests of their stakeholders, they are not empowered and incentivized to do so. We cannot simply give a non-DSVA team a list of our values — values that often run contrary to much of the federal IT operation — and expect that non-DSVA team to bravely defend them. They simply need more support than that.
+This is not the case for the vast majority of teams who might build and deliver Veteran facing services. While they may _want_ to put the needs of their users before the interests of their stakeholders, they are not empowered and incentivized to do so. We cannot simply give a non-DSVA team a list of our values — values that often run contrary to much of the federal IT operation — and expect that non-DSVA team to bravely defend them. They simply need more support than that.
 
  
 ### We're too late
@@ -67,9 +67,9 @@ By the time a project reaches the VSP and is asked to adhere to DSVA's standards
 |:---|
 |Only teams with direct DSVA involvement will use the platform. The platform will be focused on enablement, not governance and quality control.|
 
-As discussed above, the original VSP vision was to address both the product and technology challenges of delivering quality veteran-facing services. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
+As discussed above, the original VSP vision was to address both the product and technology challenges of delivering quality Veteran-facing services. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
 
-We learned that shouldering the VSP with both of these responsibilities is not effective. Thus, the next iteration of the VSP will focus squarely on only one: overcome difficult but common challenges with VA technology to enable the efficient delivery of high-quality veteran facing services. We will abstract away the painful technology, security, compliance, and bureaucratic barriers so product teams can better focus on the user.
+We learned that shouldering the VSP with both of these responsibilities is not effective. Thus, the next iteration of the VSP will focus squarely on only one: overcome difficult but common challenges with VA technology to enable the efficient delivery of high-quality Veteran facing services. We will abstract away the painful technology, security, compliance, and bureaucratic barriers so product teams can better focus on the user.
 
 Specifically, the VSP team will be responsible for:
 
@@ -83,11 +83,11 @@ Specifically, the VSP team will be responsible for:
 
 ### ...but what about quality?
 
-If the VSP is focused on enablement, who will make sure the teams that are enabled are actually building quality, user-centered veteran-facing services? Two ways:
+If the VSP is focused on enablement, who will make sure the teams that are enabled are actually building quality, user-centered Veteran-facing services? Two ways:
 
-- **At the product or feature level**, a DSVA team member will be closely advising, supporting, managing, leading, influencing, nudging, etc... product delivery teams responsible for delivering veteran-facing services.
-- **At the the va.gov level**, the forthcoming "va.gov global experience team" will be responsible for setting and enforcing standards for *any* veteran-facing service that is accessible via .va.gov. This [nifty map](team-layout.png) shows how this global team, the VSP, and teams building veteran-facing services all work fit together.
+- **At the product or feature level**, a DSVA team member will be closely advising, supporting, managing, leading, influencing, nudging, etc... product delivery teams responsible for delivering Veteran-facing services.
+- **At the the va.gov level**, the forthcoming "va.gov global experience team" will be responsible for setting and enforcing standards for *any* Veteran-facing service that is accessible via .va.gov. This [nifty map](team-layout.png) shows how this global team, the VSP, and teams building Veteran-facing services all work fit together.
 
 ## Success is... 
 
-DSVA continuously delivering high quality veteran-facing tools and services in close collaboration with VA business owners, OIT, and contractors. Development teams are able to easily use existing VA.gov assets and resources.
+DSVA continuously delivering high quality Veteran-facing tools and services in close collaboration with VA business owners, OIT, and contractors. Development teams are able to easily use existing VA.gov assets and resources.
