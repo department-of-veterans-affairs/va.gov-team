@@ -67,17 +67,17 @@ By the time a project reaches the VSP and is asked to adhere to DSVA's standards
 
 As discussed above, the original VSP vision was to address both the product and technology challenges of delivering quality Veteran-facing services. The Handbook and checkpoint reviews would enforce good, user-centered product development, while the VSP's APIs, security and compliance work, and deep knowledge about VA systems would abstract away technology challenges.
 
-We learned that shouldering the VSP with both of these responsibilities is not effective. Thus, the next iteration of the VSP will focus squarely on only one: overcome difficult but common challenges with VA technology to enable the efficient delivery of high-quality Veteran facing services. We will abstract away the painful technology, security, compliance, and bureaucratic barriers so product teams can better focus on the user.
+We learned that shouldering the VSP with both of these responsibilities is not effective. Thus, the next iteration of the VSP will focus squarely on only one: overcome difficult but common challenges with VA technology to enable the efficient delivery of high-quality Veteran facing services. We will simplify the technology, security, compliance, and bureaucratic barriers so product teams can better focus on the user.
 
 Specifically, the VSP team will be responsible for:
 
-- Exposing VA data resources via APIs
-- Platform-level security, compliance, and ATO
+- Exposing VA data resources via reliable, well documented APIs
 - Infrastructure, networking, and routing
+- Performance monitoring and reporting (SLAs)
+- Platform-level security, compliance (incl 508), and ATO
 - Maintaining a development/orchestration environment
 - Maintaining a shared set of engineering assets (e.g. pattern library or SDK)
-- Call center support
-- Performance monitoring
+- Call center updates/integration and analytics reporting
 
 ### ...but what about quality?
 
