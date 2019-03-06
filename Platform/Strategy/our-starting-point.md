@@ -84,8 +84,17 @@ Specifically, the VSP team will be responsible for:
 If the VSP is focused on enablement, who will make sure the teams that are enabled are actually building quality, user-centered Veteran-facing services? Two ways:
 
 - **At the product or feature level**, a DSVA team member will be closely advising, supporting, managing, leading, influencing, nudging, etc... product delivery teams responsible for delivering Veteran-facing services.
-- **At the the va.gov level**, the forthcoming "va.gov global experience team" will be responsible for setting and enforcing standards for *any* Veteran-facing service that is accessible via .va.gov. This [nifty map](team-layout.png) shows how this global team, the VSP, and teams building Veteran-facing services all work fit together.
+- **At the the va.gov level**, the forthcoming "va.gov global experience team" will be responsible for setting and enforcing standards for *any* Veteran-facing service that is accessible via va.gov. This [nifty map](team-layout.png) shows how this global team, the VSP, and teams building Veteran-facing services all work fit together.
 
 ## Success is... 
 
 DSVA continuously delivering high quality Veteran-facing tools and services in close collaboration with VA business owners, OIT, and contractors. Development teams are able to easily use existing VA.gov assets and resources. Prioritizing user needs and experience at the VA no longer requires such Herculean efforts that teams are rapidly burned out.
+
+## What would awesome look like?
+
+Product line teams (one for each Hub??) that include:
+- DSVA product, design, eng, and strategy leads
+- someone from VA OIT and someone from The Biz who know the Hub subject matter, VA politics/bureaucracy map, and best contacts/experts within them
+- team of competent contractors
+  
+These teams build new required functionality and manage it FOREVERRRRR. They don't "maintain," they consistently improve and simplify tools. They report to leadership who measure success based on experience metrics (in concert with the global experience team). They follow the USDS Playbook and Operations Manual. They constantly seek out, support, and reward competent bureaucrats in their Hub subject area who want to prioritize the users and maintain those connections by hosting community events and communication channels (email list, slack, etc.).
