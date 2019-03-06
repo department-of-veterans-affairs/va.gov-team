@@ -14,9 +14,9 @@ It's hard to deliver quality Veteran-facing services at VA.
 
 First, VA has generally approached the delivery of Veteran-facing services in a top-down prescriptive way. Stiff requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual Veterans. In the end, the products delivered don't align well with the needs of their Veteran users. Moreover, when problems are discovered during development of a new service, launch dates are consistently prioritized above Veteran experience and data integrity.
 
- - **What we did about it**: Hired product-minded people and empowered them to focus on user needs to exclusion of all else. Partnered with program offices and OIT to build support for user-centered methodologies. Went to the mat to make sure user needs were prioritized over business needs. 
+ - **What we did about it**: Hired product-minded people and empowered them to prioritize user needs and experience first. Partnered with program offices and OIT to build support for user-centered methodologies. Went to the mat to make sure user needs were prioritized over business needs. 
 
-Second, even if lots of quality user research and discovery is conducted to inform the product, VA's collection of technology systems, infrastructure, and processes will prevent effective delivery. Designing for the needs of veteran users is an excellent start, but if it impossible to meet those needs because of bad technology, the product will also fail to meet veteran needs.
+Second, even if significant, high-quality user research and discovery is conducted to inform the product, VA's collection of technology systems, infrastructure, and processes will prevent effective delivery. Designing for the needs of veteran users is an excellent start, but if meeting those needs because of bad technology is impossible, the product will also fail to meet veteran needs.
 
  - **What we did about it**: Built a robust, stable API layer that stands between veterans and existing VA resources to significantly reduce the chance of a veteran being denied services because of a VA system failure. And we built processes and toolchains that allow for rapid, flexible development while remaining compliant with VA enterprise rules.
 
