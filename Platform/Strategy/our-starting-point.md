@@ -12,7 +12,7 @@ This document is a starting point of where, exactly, the platform pivot will tak
 
 It's hard to deliver quality veteran-facing services at VA.
 
-First, VA has generally approached the delivery of veteran-facing services in a top-down prescriptive way. Stiff requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual veterans. In the end, the products delivered don't align well with the needs of their veteran users.
+First, VA has generally approached the delivery of veteran-facing services in a top-down prescriptive way. Stiff requirements are derived from legislative mandates, business needs, political considerations, and — only sometimes — the needs of actual veterans. In the end, the products delivered don't align well with the needs of their veteran users. Moreover, when problems are discovered before a new service is launched -- even those that seriously negatively impact Veterans -- launch dates are consistently prioritized above Veteran experience and data integrity.
 
  - **What we did about it**: Hired product-minded people and empowered them to focus on user needs to exclusion of all else. Partnered with program offices and OIT to build support for user-centered methodologies. Went to the mat to make sure user needs were prioritized over business needs. 
 
