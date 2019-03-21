@@ -61,7 +61,15 @@ Giving new VFS creators an easy way to navigate the resources needed to onboard 
 # Implementation Info
 ## Status
 2/21/19 - Question we're trying to answer - *"Could a non Ad Hoc person run this?"*
- 
+
+#### Technical Documentation Approach
+1. Write a very simple outline of what kind of docs would be useful for a developer. We generally see that as three categories:
+   - Getting started/environment set up info
+   - Higher level architecture information
+   - In depth documentation on specific parts of the system
+2. Once we have those categories, then start writing out a detailed outline to roughly identify how many topics are in each section and then break things apart if one of those categories seems too big. For the FE stuff, we ended up making a top level Forms category, instead of shoving all that in the in depth docs category.
+3. Then created a list of all the current relevant documentation and take that list and put each item into the outline at the relevant spot, to give us even more info about where the documentation content would live.
+4. Spend a little more time refining and thinking about what order developers might encounter the code and reorder appropriately.
 
 ## Notes from initial discussion with Patrick, Leah & Rachael 2/21/19 
 1. Talk with each of the team to ensure we have a full list of systems/features they use to build stuff
