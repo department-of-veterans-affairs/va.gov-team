@@ -119,7 +119,8 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
      - Our tools on VA.gov are reliant on services we don't manage, limiting our view of the errors that are happening in other VA agencies/departments 
   - **Action item**: identify a good tool (biggest impact item) to start with in pursuing data beyond submission (@andrewhughey)
   - **Action items**: audit and update data services inventory [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Data/Data-Services/services-inventory.md) @davemethvin
-     - Also adding a column for where data is sent - some documentation [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/README.md)
+     - Also adding a column for where data is sent - some documentation [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/README.md
+- **4/9/19** - created tentative [analytics roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Analytics/roadmap.md)
   
 ## Team
 - VA Platform Lead: Leah Bannon, leah.bannon2@va.gov
