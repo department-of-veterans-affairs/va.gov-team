@@ -36,3 +36,41 @@ Moderator | none
 Research guide writing and task development| Kate Saul <kate.saul@civicactions.com>
 Participant recruiting & screening | Jeff Barnes
 Project point of contact | Jeff Brauer <jeff.brauer@agile6.com>
+
+
+Potential tree test questions:
+
+1. You’d like to talk to someone about your religious beliefs. Where would you go to find this?
+Home > Our health services > Mental health > Chaplain
+Home > Our health services > Social programs and services > Chaplain
+2.   You’re interested in making an appointment with a women’s health provider. Where would you do that?
+Home > Our health services > Primary care > Women’s health
+3. 	You’ve been instructed to eat less salt, and you’d like to consult with a nutritionist about how to revamp your diet. Where would you do that?
+Home > Our health services > Primary care > Nutrition, food, dietary
+Home > Our health services > Other services > Health and wellness > Nutrition, food, dietary
+4.  You need to have some routine blood work done and want to know if you can do that at this facility. Where would you find this information?
+Home > Our health services > Primary care > Laboratory and pathology
+Home > Our health services > Specialty care > Laboratory and pathology 
+5.  You’re worried that your spouse, a Veteran, may have a substance-use disorder and want to see if this facility has services for them. Where would you look?
+Home > Our health services > Mental health > Addiction and substance abuse treatment
+6.  Where would you look to find services that help you adapt to your vision limitations?
+Home > Our health services > Specialty care > Low vision and blind rehabilitation 
+7.  Your wisdom teeth are impacted and you need to have them removed. Where would you go to see if you could have this issue addressed at this clinic? 
+Home > Our health services > Specialty care > Dental/oral surgery
+8.  Where would you go to see if this clinic offers services related to kidney conditions?
+Home > Our health services > Specialty care > Nephrology, renal, kidney 
+9. 	You are experiencing reduced mobility and want to find out whether a wheelchair or walker would be more helpful to you. Where would you do this? 
+Home > Our health services > Specialty care > Wheelchair and mobility clinics 
+10. Your caregiver wants to find out if this facility has resources for them. Where would you tell them to look?
+        a.	Home > Our health services > Other services  > Care coordinator services
+11. You have some questions about your MyHealtheVet account and need to talk to someone. Where would you go?
+Home > Our health services > Other services > Care coordinator services
+12.  You are interested in learning more about VA’s employment-rehabilitation programs. Where would you look to find this information?
+Home > Our health services > Other services > Social programs and services > Compensated work therapy/vocational rehabilitation and employment programs
+13. You would like to find information related to VA’s Lesbian, Gay, Bisexual, Transgender (LGBT) services. Where would you look?
+Home > Our health services > Other services > Social programs and services > Lesbian, gay, bisexual, transgender (LGBT)
+14.  You travel 60 miles round trip to your nearest VA Medical Center, and you’re wondering if you can be reimbursed for this. Where would you find this information?
+Home > Our health services > Other services > Social programs and services > Parking, transportation, and travel reimbursement
+15.  You are a returning service member who wants to learn more about the programs and services VA offers to help you transition back into civilian life. Where would you go?
+Home > Our health services > Other services > Social programs and services > Returning service members (transition and 16.  You are scheduled to undergo surgery at a VA Medical Center, and you’d like to find out if lodging is available for your family. Where would you look?
+Home > Our health services > Other services > Social programs and services > Veteran and visitor lodging
