@@ -38,7 +38,7 @@ Participant recruiting & screening | Jeff Barnes
 Project point of contact | Jeff Brauer <jeff.brauer@agile6.com>
 
 
-Potential tree test questions:
+### Potential tree test questions:
 
 1. You’d like to talk to someone about your religious beliefs. Where would you go to find this?
   - `Home > Our health services > Mental health > Chaplain`
@@ -72,5 +72,6 @@ Potential tree test questions:
 14.  You travel 60 miles round trip to your nearest VA Medical Center, and you’re wondering if you can be reimbursed for this. Where would you find this information?
   - `Home > Our health services > Other services > Social programs and services > Parking, transportation, and travel reimbursement`
 15.  You are a returning service member who wants to learn more about the programs and services VA offers to help you transition back into civilian life. Where would you go?
-  - `Home > Our health services > Other services > Social programs and services > Returning service members (transition and 16.  You are scheduled to undergo surgery at a VA Medical Center, and you’d like to find out if lodging is available for your family. Where would you look?`
+  - `Home > Our health services > Other services > Social programs and services > Returning service members (transition and care management)`
+16.  You are scheduled to undergo surgery at a VA Medical Center, and you’d like to find out if lodging is available for your family. Where would you look?
   - `Home > Our health services > Other services > Social programs and services > Veteran and visitor lodging`
