@@ -71,13 +71,13 @@ the search.gov account# for this product is 7378
 - Phase 2 of load testing scheduled for 10.30.18 and will perform at 45-50 requests/second
 
 
-
-## Technical Decisions
+## Solution Narrative
+### Technical Decisions
 - a new search.gov account was created to separate out the vets.gov search from the new va.gov search
    - va.gov account # is 7378
 - search needs to use the i14y endpoint from search.gov. [API instructions here](https://search.usa.gov/sites/7378/api_instructions)
 
-## Product Decisions
+### Product Decisions
 #### 9.18.18:
 - Search MVP is in scope for Nov 7 launch (MVP = functioning search feature, replicating Vets.gov functionality, but w/new VA branding on search.gov hosted results page). 
 - Search V2 deprioritized as out of scope for Nov 7 to make room for TeamSite header/footer injection work.
