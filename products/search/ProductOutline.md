@@ -10,6 +10,17 @@
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
    - Luke Samuels (Luke.samuels@gsa.gov)
 
+## Table of Contents
+- [User Problem Statement](#user-problem-statement)
+- [Assumptions](#assumptions)
+- [Limitations](#limitations)
+- [Value Propositions](#value-propositions)
+- [Current Status](#current-status)
+- [Solution Narrative](#solution-narrative)
+- [Service Level Objective](#service-level-objective)
+- [Testing](#testing)
+- [Keywords](#keywods)
+
 ## User Problem Statement
 Once va.gov relaunches, users need a way to search content across both old and new va.gov properties
 
@@ -86,6 +97,10 @@ the search.gov account# for this product is 7378
 - Search v2 reprioritized as in-scope for Nov 7 WBC launch
 - Best bets was determined out of scope pre-launch so that we could launch the V2 product on time for Nov 7
 
+## Service Level Objectives (SLOs)
+These are currently defined as alerts that trigger pagerduty for a product.
+- [Search related alerts here](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/prometheus/rules/application.rules)
+
 ## Team
 
 - VA Digital Strategist(s): Steve Kovacs
@@ -109,3 +124,11 @@ the search.gov account# for this product is 7378
 
 ### Search.gov V2 (live)
 ![Screen Shot 2018-11-05 at 11.19.32 AM.png](https://images.zenhubusercontent.com/59ee09c5a468affe6df7cd9e/d6f9b4d8-e284-44ff-99ee-4620140e7619)
+
+## Keywords
+- search
+- search.gov
+- robots.txt
+- sitemap
+- best bets
+- recommended results
