@@ -14,12 +14,13 @@
 - [User Problem Statement](#user-problem-statement)
 - [Assumptions](#assumptions)
 - [Limitations](#limitations)
+- [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [Current Status](#current-status)
+- [Status](#status)
 - [Solution Narrative](#solution-narrative)
 - [Service Level Objective](#service-level-objective)
 - [Testing](#testing)
-- [Keywords](#keywods)
+- [Keywords](#keywords)
 
 ## User Problem Statement
 Once va.gov relaunches, users need a way to search content across both old and new va.gov properties
@@ -112,7 +113,20 @@ These are currently defined as alerts that trigger pagerduty for a product.
    - Keifer Furzland
    - Rian Fowler
    - Narin Ratana
-   
+
+## Testing
+The search product can be found in the header of dev, staging, and production environments. Simply type in a word to get results and test the product:
+<img width="1680" alt="Screen Shot 2019-04-30 at 3 20 18 PM" src="https://user-images.githubusercontent.com/21130918/56987486-90614300-6b5b-11e9-87d2-8d75f9346b85.png">
+
+
+## Keywords
+- search
+- search.gov
+- robots.txt
+- sitemap
+- best bets
+- recommended results
+
 ## Screenshots
 
 ### index.va.gov (original VA product)
@@ -125,10 +139,4 @@ These are currently defined as alerts that trigger pagerduty for a product.
 ### Search.gov V2 (live)
 ![Screen Shot 2018-11-05 at 11.19.32 AM.png](https://images.zenhubusercontent.com/59ee09c5a468affe6df7cd9e/d6f9b4d8-e284-44ff-99ee-4620140e7619)
 
-## Keywords
-- search
-- search.gov
-- robots.txt
-- sitemap
-- best bets
-- recommended results
+
