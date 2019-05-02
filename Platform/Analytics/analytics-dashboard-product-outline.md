@@ -1,6 +1,6 @@
 # Analytics Dashboard Product Outline
 - GitHub Label: analytics
-- Slack channel: #vetsgov-analytics
+- Slack channel: #insights-team
 - Keywords: Analytics Dashboard, Scorecard
 
 ## Points of Contact:
