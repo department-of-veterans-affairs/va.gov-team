@@ -116,7 +116,8 @@ Week of 5/20 - 5/25
 
 **Pilot**
 
-Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? [@Carola/@Lauren - not sure what this means - piloting the research before the research? Does this mean, do a rehearsal with??]
+Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+Carola and Jen will pilot script and logistics before first user. 
 
 **Team roles**
 
