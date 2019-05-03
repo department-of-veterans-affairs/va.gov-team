@@ -31,43 +31,52 @@ The first round of research can be done remotely using tools like Zoom, Appear.i
 We will focus on the top 3-5 topic pages which currently get the most organic search traffic for translated content: 
 
 benefits.va.gov/benefits/espanol/pension_veteran.asp
+
 benefits.va.gov/benefits/espanol/homeloans_purchaseco_certificate.asp
+
 benefits.va.gov/benefits/espanol/compensation_types.asp
+
 benefits.va.gov/benefits/espanol/homeloans_purchaseco_eligbility.asp
+
 benefits.va.gov/benefits/espanol/compensation_types-disability.asp
 
 We will test navigation on and to/from mockups of Spanish translated pages for these English source pages: 
 
 **Home loans**
-How to Apply for a VA Home Loan Certificate of Eligibility (COE)
+
+How to Apply for a VA Home Loan Certificate of Eligibility (COE)<br/>
 https://www.va.gov/housing-assistance/home-loans/how-to-apply/
 
-Eligibility requirements for VA home loan programs
+Eligibility requirements for VA home loan programs<br/>
 https://www.va.gov/housing-assistance/home-loans/eligibility/
 
-VA home loan programs for surviving spouses
+VA home loan programs for surviving spouses<br/>
 https://www.va.gov/housing-assistance/home-loans/surviving-spouse/
 
 **Pensions**
-Veterans pension eligibility
+
+Veterans pension eligibility<br/>
 https://www.va.gov/pension/eligibility/
 
-VA survivors pension
+VA survivors pension<br/>
 https://www.va.gov/pension/survivors-pension/
 
-How to apply for a VA Veterans pension
+How to apply for a VA Veterans pension<br/>
 https://www.va.gov/pension/how-to-apply/
 
 
 
 **What will you be testing?**
+
 We will test navigation to and from Spanish pages for 2 benefit sections, home loans and pensions, 3 pagess in each section. 
 
 
 **Participants and recruitment**
+
 Veterans and veteran family members and caregivers who are monolingual and speak Spanish, or are bilingual and prefer to read content in Spanish.
 
 **What is your recruitment strategy?**
+
 Perigean (and backup - Spanish language social media forums for Veteran/family audience) such as: 
 
 * Minority Veterans of America
@@ -93,6 +102,8 @@ We can start talking to users the week of May 13 but dates are flexible.
 Week of 5/12 - 5/17
 Week of 5/20 - 5/25
 
+
+
 **Number of users**
 
 Around 30 users, preferable 10 each of the following groups 
@@ -100,7 +111,10 @@ Around 30 users, preferable 10 each of the following groups
 - Family members who need to request benefits
 - Caregivers
 
+
+
 **Length of sessions** 
+
  1-hour user sessions, with 30-minute gap betewen each session for wrap up/note grooming. 
  
 Approximately:
@@ -119,6 +133,8 @@ Week of 5/20 - 5/25
 Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 Carola and Jen will pilot script and logistics before first user. 
 
+
+
 **Team roles**
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.
@@ -127,18 +143,23 @@ Please list the people who will be serving in each role. Include the primary pho
 - Researcher and Content Strategist, note taker/observer - Jennifer Lee  jennifer.lee27@va.gov
 - Additional observer - Sandy Tadeo, VBA stakeholder
 
+
+
 **Stakeholders**
 
 Tadeo, Sandy A., VBAVACO <Sandy.Tadeo@va.gov>
 
 **Resources**
+
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
 
 **Project brief:**
+
 https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/benefits-spanish-localization
 
 
 **Discussion guide:**
+
 https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/benefits-spanish-localization  [placeholder here]
 
 Notes & Recordings Session notes and recordings should live in the appropriate vets dotgov-team product folder, simply place links to them here: 
@@ -148,9 +169,11 @@ TBD
 TBD
 
 **Lessons Learned**
+
 Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
 
 **Read-Out/Results**
+
 Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.
 ** Don't forget to add a link to your research folder to the research tracker! https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20History.md
 
