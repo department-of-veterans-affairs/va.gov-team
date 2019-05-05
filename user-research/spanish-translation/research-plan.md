@@ -19,7 +19,7 @@ To determine the best way for users to navigate to Spanish language benefits con
 
     1. Where should we link people to localized content in a way that's visible but not disruptive? 
     2. How should we link people to localized content in a way that's visible but not disruptive? 
-    3. Will people be able to navigate around/between source English and localized content without getting lost? 
+    3. Will people be able to navigate around/between English and Spanish content without getting lost or without inconvenience of always going to English content first (and then clicking to Spanish IF a page has a localized version)?
     4. What types of information do they typically look for in Spanish? What types of benefit information would be most helpful to have in Spanish? What format is most helpful (as web content, as downloadable PDFs, as an in-person meeting at a regional office)? 
 
 **Method**
