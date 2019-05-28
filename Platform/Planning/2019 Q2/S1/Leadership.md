@@ -4,6 +4,7 @@
 - Start critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
 
 ## Drill-Down Leadership Objectives
+- High level VSP Now/Next/Future roadmap + OKRs for teams
 - Gap analysis so DSVA can see where there may be risks in accomplishing the most critical VSP needs
 - Prepare for full VSP team kickoff (incl logistics + briefing team on strategy, approach, team missions)
 - Launch MVP “critical launch criteria” for onboarding expectation-setting
