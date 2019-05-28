@@ -4,6 +4,7 @@
 - Start critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
 
 ## Drill-Down Product Support Objectives
+- High level VSP Now/Next/Future roadmap + OKRs for teams
 - Continue support of existing VFS team work (code review support)
 - Test intake process that leverages criteria from existing process and learnings from past VFS teams
 - Launch MVP “critical launch criteria” for onboarding expectation-setting
