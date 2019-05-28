@@ -16,12 +16,12 @@ Empower great teams across VA to contribute products/experiences/tools that enab
 - Incentivize innovation, experimentation, and Agile iteration that improve services for Veterans
 
 ## KRs Brainstorm (need to pick 5)
-*I like this framework: make sure the following concepts are represented across the KRs
-- Do something good
-- Prevent something bad
-- Something delivery-related
-- Something outcome-related
-- Something sentimental*
+*I like this framework: make sure the following concepts are represented across the KRs*
+- *Do something good*
+- *Prevent something bad*
+- *Something delivery-related*
+- *Something outcome-related*
+- *Something sentimental*
 
 #### In first 8 months…
 
