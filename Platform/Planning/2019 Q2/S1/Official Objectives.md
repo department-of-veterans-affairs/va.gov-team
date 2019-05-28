@@ -1,4 +1,4 @@
-## Sprint Dates
+## Sprint 1 Dates
 5/30/2019 - 6/11/2019
 
 ## Sprint 1 High level objectives
