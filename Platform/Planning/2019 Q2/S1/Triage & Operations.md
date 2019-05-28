@@ -4,6 +4,7 @@
 - Start critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
 
 ## Drill-Down Triage & Operations Objectives
+- High level VSP Now/Next/Future roadmap + OKRs for teams
 - MVP triage process (incl roadmap for incorporation of Tier 2/3 support and automated monitoring and alerting)
 - Fully groomed Infrastructure backlog / roadmap
 
