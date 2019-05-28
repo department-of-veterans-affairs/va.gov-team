@@ -4,6 +4,7 @@
 - Start critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
 
 ## Drill-Down Tools & Improvements Objectives
+- High level VSP Now/Next/Future roadmap + OKRs for teams
 - Roadmap + initial work for code isolation framework
 - Roadmap + initial work for e2e testing
 
