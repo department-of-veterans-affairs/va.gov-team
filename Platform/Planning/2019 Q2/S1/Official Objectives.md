@@ -1,3 +1,6 @@
+## Sprint Dates
+5/30/2019 - 6/11/2019
+
 ## Sprint 1 High level objectives
 - Enable current VFS teams to continue their work (CMS, Education teams, STEM, API Program, VA.gov teams)
 - Set VSP program up for success
