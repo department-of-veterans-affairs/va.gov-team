@@ -1,1 +1,1 @@
-This is the Q2 planning folder
+This folder houses sprint objectives for any VSP sprints that start in Q2 2019.
