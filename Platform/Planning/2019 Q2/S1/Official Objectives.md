@@ -3,7 +3,7 @@
 - Set VSP program up for success
 - Start critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
 
-## Detailed Sprint 1 themes that map to these objectives
+## Sprint 1 Drill-down objectives
 - All Team: High level VSP Now/Next/Future roadmap + OKRs for teams
 - Leadership Team: gap analysis so DSVA can see where there may be risks in accomplishing the most critical VSP needs
 - Leadership Team: Prepare for full VSP team kickoff (incl logistics + briefing team on strategy, approach, team missions)
