@@ -9,3 +9,8 @@
 - Fully groomed Infrastructure backlog / roadmap
 
 ## More detailed planning...
+- [Epic: Standardize onboarding for VSA team members](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107)
+- Fully groomed Infrastructure backlog / roadmap
+  - Copying issues from vets.gov-team. Focus on issue hygiene / cleanup of things that are no longer relevant.
+  - Goal: other infra members able to onboard easily for sprint 2
+- Investigating Dynatrace as APM solution for core platform
