@@ -1,6 +1,11 @@
-# Agenda
+# June 2019 Triage & Tier 2+3 Support MVP Flow Workshop Agenda
 
-*First 50 min*
+## Epic reminder
+As VA.gov/VSP, I need to ensure any problems users are experiencing are discovered and fixed expeditiously, so Veterans are not impeded from finding/applying for/managing their benefits online.
+
+## Meeting Agenda
+
+**First 50 min**
 
 - Individually: reflect on a time in the past few months when an issue has been reported to us.
 - Individually: map ^ process (even if you have big knowledge gaps, no worries!!) on this template:
@@ -9,7 +14,7 @@
 
 BREAK
 
-*Second 50 min*
+**Second 50 min**
 
 - List all possible inputs
 - List all possibe outputs
@@ -21,7 +26,7 @@ BREAK
 
 BREAK
 
-*Third Hour*
+**Third Hour**
 
 - Craft hypothesese
 - Dry run executing the process shown in the Service Blueprint noting gaps
