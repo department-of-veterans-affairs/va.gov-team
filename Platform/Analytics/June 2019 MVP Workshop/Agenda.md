@@ -1,10 +1,10 @@
 # June 2019 Insights & Analytics MVP Workshop Agenda
 
-# Epic reminder
+## Epic reminder
 
 As a VA Product Owner, I need to easily understand how the tools I own are performing so I can make informed product decisions based on data.
 
-# Meeting agenda
+## Meeting agenda
 
 - List possible features / user stories (doc for this coming soon)
 - Vote on how each feature / user story measures up against two pieces of criteria:
