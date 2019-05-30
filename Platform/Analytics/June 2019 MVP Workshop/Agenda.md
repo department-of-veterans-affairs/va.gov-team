@@ -1,7 +1,15 @@
-1) List possible features / user stories (doc for this coming soon)
-1) Vote on how each feature / user story measures up against two pieces of criteria:
-  - value - does it solve a known + critical pain point?
-  - risk - can the product still be used without it?
-1) Per ^, agree to critical features / user stories
-1) Draft hypotheses
-1) Update ZenHub epic + stories w/resulting tasks for this sprint (and beyond)
+# June 2019 Insights & Analytics MVP Workshop Agenda
+
+# Epic reminder
+
+As a VA Product Owner, I need to easily understand how the tools I own are performing so I can make informed product decisions based on data.
+
+# Meeting agenda
+
+- List possible features / user stories (doc for this coming soon)
+- Vote on how each feature / user story measures up against two pieces of criteria:
+  - Value: does it solve a known + critical pain point?
+  - Risk: can the user still achieve their main goal(s) without it?
+- Per ^, agree to critical features / user stories
+- Draft hypotheses
+- Update ZenHub epic + stories w/resulting tasks for this sprint (and beyond)
