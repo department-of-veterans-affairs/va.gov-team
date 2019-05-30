@@ -1,4 +1,4 @@
-# Search Product Outline
+# Product Outline Template
 
 ## Communications
 - GitHub Label: 
