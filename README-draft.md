@@ -1,7 +1,5 @@
 # VA.gov Team Repository
-*Last updated: 6/1/2019 at 11:06 AM EST*
-
-[View document history](#document-history)
+*Last updated: [6/1/2019 at 11:06 AM EST](#document-history)*
 
 This repository is used to store [non-code] documents created and used by the VA.gov Team (previously Vets.gov). Additionally, the GitHub Issues for this repository are used to track product management tasks for VA.gov as a whole and things that touch multiple VA.gov products.
 
@@ -130,5 +128,5 @@ Are you new to the VA.gov project? Welcome aboard! We have a general onboarding 
 
 ## Document history
 | Updated | Description  | User  |  
-|---|---|---|---|---|
+|---|---|---|
 | 6/1/2019 at 11:06 AM  | Removed POC, added link for Platform users, added Document history  | @smoonpeyes |  
