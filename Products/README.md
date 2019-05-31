@@ -1,5 +1,5 @@
 # Products
-The Products directory contains information about the discovery, design, development, and deployment of products within the VA.gov ecosystem. 
+The Products directory contains information about the discovery, design, development, and deployment of all the **user-facing** products within the VA.gov ecosystem. If you're looking for **non-veteran-facing** tools for creating on VA.gov, checkout the [/Platform/Tools](../Platform/Tools) folder.
 
 ## Table of Contents
 The folders are organized to mimic the information architecture of the VA.gov website
@@ -18,6 +18,5 @@ The folders are organized to mimic the information architecture of the VA.gov we
     - [Service member](./Service%20member/README.md) *[still in discovery]*
 - **Sitewide**
     - [Global](./Global/README.md): user-facing components (search, prefill, homepage, etc.)
-    - [Identity](./Identity/README.md): user identity (login, personalization, profile, etc.) 
-    - [Platform](./Platform/README.md): non-user-facing tools (design system, forms library, feature flags, etc.) 
+    - [Identity](./Identity/README.md): user identity (login, personalization, profile, etc.)
 
