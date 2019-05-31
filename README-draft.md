@@ -129,4 +129,4 @@ Are you new to the VA.gov project? Welcome aboard! We have a general onboarding 
 ## Document history
 | Updated | Description  | User  |  
 |---|---|---|
-| 6/1/2019 at 11:06 AM  | Removed POC, added link for Platform users, added Document history  | @smoonpeyes |  
+| 6/1/2019 at 11:06 AM  | Removed POC, added link for Platform users, added Document history  | Layla Soileau |  
