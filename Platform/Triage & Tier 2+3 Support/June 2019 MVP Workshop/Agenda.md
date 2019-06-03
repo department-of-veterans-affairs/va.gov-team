@@ -11,23 +11,22 @@ As VA.gov/VSP, I need to ensure any problems users are experiencing are discover
 - Individually: map ^ process (even if you have big knowledge gaps, no worries!!) on this template:
 - Group: discuss the maps, and the happy points and pain points
 - Group: create draft Service Blueprint based on ^
-
-BREAK
-
-**Second 50 min**
-
 - List all possible inputs
 - List all possibe outputs
 - Vote on criticality of inputs and outputs based on:
   - one
   - two
 - Indicate the inputs and outputs that are currently not possible
-- Add issues for future sprints to go after the ^ w/highest votes 
+
+BREAK
+
+**Second 50 min**
+
+- Circle gaps in overall service blueprint
+- Decide what to try initially for those circles
 
 BREAK
 
 **Third Hour**
 
-- Craft hypothesese
-- Dry run executing the process shown in the Service Blueprint noting gaps
-- Update Service Blueprint and/or documentation for full process
+- Document this in diagram + product docs
