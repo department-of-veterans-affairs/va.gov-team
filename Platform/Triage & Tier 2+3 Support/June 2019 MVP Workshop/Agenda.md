@@ -22,8 +22,14 @@ BREAK
 
 **Second 50 min**
 
-- Circle gaps in overall service blueprint
+- Circle gaps / unknowns in overall service blueprint
+  - Ex: when should something be escalated to Tier 2?
+  - Ex: what are expected communication/response/fix time-frames?
+  - Ex: what are on-call expectations, how do we prevent burn-out?
+  - Ex: how do we get information from Tier 1
+  - Ex: after we hand off to someone else to resolve, are we responsible for tracking?
 - Decide what to try initially for those circles
+
 
 BREAK
 
