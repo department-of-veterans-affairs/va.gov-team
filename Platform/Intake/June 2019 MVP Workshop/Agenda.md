@@ -1,10 +1,10 @@
 #
 
 ## Reminder about the Epics
-As a VFS team, I need to have accurate expectations around what it takes to "launch" and around what support I'll have available, so that I can move forward effectively and incorporate the necessary methods from the beginning (thus avoiding)
+As a VFS team, I need to have accurate expectations around what it takes to "launch" and around what support I'll have available, so that I can move forward effectively and incorporate the necessary methods from the beginning (thus avoiding complicated and fustrating code reviews / other reviews.)
 
 ## Related Hypothesis
-The right balance of friction and ease in intake and onboarding will result in attracting VSA teams empowered to be agile and outcome-driven, and maintain and iterate on their products over time.
+The right balance of friction and ease in intake and onboarding will result in attracting VSA teams empowered to be agile and outcome-driven in their delivery, and maintain and iterate on their products over time.
 
 ## Agenda
 
