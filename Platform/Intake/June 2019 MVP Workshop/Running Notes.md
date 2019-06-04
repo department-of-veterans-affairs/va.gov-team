@@ -6,7 +6,6 @@
 - Recommend follow-up research w/Marcy to sort out how these things come in
 - Political black box probably
 - New laws, new policies often throw wrenches in existing plans
-
 - Have started DSVA issue template enables DSVA to gather more info about projects to determine if they'r a good fit for VSP
   - Sometimes send this back to folks when their requests come out of "nowhere" to get more info
   - Someone at VA wants USDS to build a thing
@@ -16,7 +15,6 @@
   - If need + money + team exist, hard for VSP to say "no".
   - DSVA has priority, and goes out to find money + teams available to do it, then bring them to VSP
 - Some teams want to get on VA.gov, and end up finding VSP by referral
-
 - Scenario of teams having something in different tech stack and wanting to get on VA.gov has not happened yet, but it is a thought for the future
 
 **Onboarding**
