@@ -9,18 +9,22 @@ The right balance of friction and ease in intake and onboarding will result in a
 ## Agenda
 
 **First 50 min**
-- Review Service Blueprint
-- Identify biggest pain points (both for Teams and VA)
-- Rapid write ideas for things that could mitigate those pains at the beginning
-- Vote on the things per 2 criteria
-  - How well does it drive toward meeting Launch Checklist?
+- Review existing intake / onboarding process (10 min)
+- Review pain points in Service Blueprint + identify biggest pain points (10 min)
+- Rapid write ideas for things we could do in intake/onboarding that might prevent those things from becoming pains later (15 min)
+- Vote on the things per 2 criteria (10 min)
+  - How well does it drive toward easily meeting Launch Checklist requirements?
   - How well does it drive toward human-centered / outcome-centered pracices?
-- The top 3 things are what we build into MVP
+- Select top 3 to incorporate into MVP (5 min)
 
 BREAK
 
 **Next 50 min**
-- For each of those 3, set up outline
+- Create intake / onboarding process doc
+- Outline process incl the 3 "features" from previous activity
+
+BREAK
 
 **Last hour**
-- Dry run so we know what else to fill in to be ready for Sprint 2
+- Dry run w/what we have so far
+- Assign gaps as ZH issues to wrap up by end of Sprint 1
