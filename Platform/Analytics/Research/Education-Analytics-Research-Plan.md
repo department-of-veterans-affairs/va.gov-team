@@ -1,11 +1,26 @@
-# Research Plan for Education Analytics MVP
-(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 
+# Research Plan for Education Analytics MVP -- draft
+We want to test the Education Analytics MVP to determine if it helps Education Benefit product owners and stakeholders to quickly assess the health of their tools and identify gaps to further investigate. 
 
-## Goals
-1. What product & team are you doing this research for?
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-4. Hypothesis: What is your hypothesis for this research? 
+## Background
+Based on a previous Insights and Analytics kickoff meeting, a Product Health prototype was created. We want to test the prototype with product owners and stakeholders to identify gaps and areas that need improvement.  
+
+## Research Questions
+1. Can product owners/stakeholders easily identify when products are up or down?
+2. When a product owner identifies that a product is down or performing poorly, what is the next step?
+3. Can product owners/stakeholders determine which product needs the most attention?
+4. Do product owners/stakeholders understand metrics like Average Latency, Success/Error Rate, Total/Unique/Repeat Event, and Goal Conversion?
+   - Are these the right metrics?
+   - Which metrics are missing?
+   - Which metrics are not helpful?
+5. What do product owners/stakeholders expect to find when they drill in to a data point?
+6. Do product owners/stakeholders understand the meanings of the various shades of red and green?
+7. What devices do product owners/stakeholders prefer to use to when viewing analytics?
+8. What are the expectations/requirements around sharing Insights and Analytics with other team members?
+9. What are the expectations/requirements for report date and time range options?
+
+## Hypothesis
+TBD
+
 
 ## Method
 1.	What method of research are you planning? 
