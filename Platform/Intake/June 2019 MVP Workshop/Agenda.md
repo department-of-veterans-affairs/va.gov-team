@@ -6,6 +6,9 @@ As a VFS team, I need to have accurate expectations around what it takes to "lau
 ## Related Hypothesis
 The right balance of friction and ease in intake and onboarding will result in attracting VSA teams empowered to be agile and outcome-driven in their delivery, and maintain and iterate on their products over time.
 
+## Goal
+Come away w/the start of testable improvements to the MVP intake/onboarding process, and ZH issues to complete remaining MVP work prior by the end of the sprint.
+
 ## Agenda
 
 **First 50 min**
