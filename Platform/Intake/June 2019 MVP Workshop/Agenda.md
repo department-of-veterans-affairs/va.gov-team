@@ -14,7 +14,7 @@ The right balance of friction and ease in intake and onboarding will result in a
 - Rapid write ideas for things we could do in intake/onboarding that might prevent those things from becoming pains later (15 min)
 - Vote on the things per 2 criteria (10 min)
   - How well does it drive toward easily meeting Launch Checklist requirements?
-  - How well does it drive toward human-centered / outcome-centered pracices?
+  - How well does it drive toward human-centered / outcome-centered practices?
 - Select top 3 to incorporate into MVP (5 min)
 
 BREAK
