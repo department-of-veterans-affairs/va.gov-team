@@ -1,6 +1,6 @@
 # Intake / Onboarding / Launch Criteria MVP Workshop
 
-## Reminder about the Epics
+## Related Epic
 As a VFS team, I need to have accurate expectations around what it takes to "launch" and around what support I'll have available, so that I can move forward effectively and incorporate the necessary methods from the beginning (thus avoiding complicated and fustrating code reviews / other reviews.)
 
 ## Related Hypothesis
