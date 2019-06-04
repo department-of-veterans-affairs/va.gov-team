@@ -6,7 +6,7 @@ The delivery of high-quality, user-centered digital services for Veterans is cur
 **How might we** build VSP so that technical, design, and product components are useful and sufficiently extensible for non-DSVA teams to build digital services for Veterans?
 
 ## North Star Objective
-Empower great teams across VA to contribute products/experiences/tools that enable Veterans to more easily and efficiently access their VA benefits and services.
+Empower teams across VA to contribute experiences and tools that enable Veterans to more easily and efficiently access their VA benefits and services.
 
 ## Desired Outcomes
 - “Make the best options the easiest ones”
@@ -15,31 +15,9 @@ Empower great teams across VA to contribute products/experiences/tools that enab
 - Hand VSP and VSA ownership to VA 
 - Incentivize innovation, experimentation, and Agile iteration that improve services for Veterans
 
-## KRs Brainstorm (need to pick 5)
-*I like this framework: make sure the following concepts are represented across the KRs*
-- *Do something good*
-- *Prevent something bad*
-- *Something delivery-related*
-- *Something outcome-related*
-- *Something sentimental*
+## OKRs Brainstorm
 
-#### In first 8 months…
-
-- `>` 10 different companies deploy live functionality
-- 100% of VSA Teams have DEPO / DSVA lead and VA product owner
-- 0 security incidents across all VSP-hosted VSAs
-- `>` 60% of VSAs have launched using beta feature flag model
-- `>` 80% VSAs meeting SLOs
-- Per capita volume of Slack activity in Support channel over time
-- `>` 80% of VSA Teams respond with avg positive sentiment
-- `>` 80% of VSAs have had code updated in last 6 months
-
-## VSP Performance Metrics
-- Uptime
-- Latency
-- Speed of CI / CD pipeline
-- % test coverage?
-- etc
+`[to be defined in upcoming workshop]`
 
 ## Biggest pain points
 - Current Handbook + checkpoint structure encouraged Waterfall.
