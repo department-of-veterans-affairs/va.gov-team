@@ -33,7 +33,13 @@
 
 
 ## Parity Work
-| Page Title (URL) | Admin | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
-| --- | --- | --- | --- | --- | --- | --- | --- |   
+| Benefit Hub | Admin | Parity Deck | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |   
 | Health Care Section Section | VHA | Parity edits | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 11.01.18 | Jennifer Heiland-Luedtke, Jeff Grandon | Approved in meeting/via email | [#14734](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/14734), [#16651](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16651)|    
 | Disability Section | VBA | Parity edits | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 10.31.18 | Misty Sweet and team | --- | [#10567](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/10567)|    
+
+## Legacy Rewriting Work
+| Benefit Hub | Admin | Rewriting Deck | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |      
+| Burials (Dependency and Indemnity Compensation only) | VBA |  |Rewriting pages for retire/redirect |  <ul><li>[X] In Review</li><li>[ ] Approved As Is</li><li>[ ] Approved With Changes</li></ul> | | | | [#18325](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/18325)
+
