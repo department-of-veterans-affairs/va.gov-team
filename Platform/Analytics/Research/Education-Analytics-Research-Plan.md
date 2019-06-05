@@ -5,7 +5,7 @@ Based on a previous Insights and Analytics kickoff meeting, a Product Health pro
 
 ## Research Questions
 1. Can product owners/stakeholders easily identify when products are up or down?
-1. When a product owner identifies that a product is down or performing poorly, what is the next step?
+1. When a product owner identifies that a product is down or performing poorly, is the next step clear?
 1. Can product owners/stakeholders determine which product needs the most attention?
 1. What questions, objectives, and/or key results is the product owner/stakeholder looking for information on when they access analytics?
     - Using the spreadsheet, are they able to confidently find the answers?
