@@ -1,5 +1,4 @@
 # Research Plan for Education Analytics MVP -- draft
-We want to test the Education Analytics MVP to determine if it helps Education Benefit product owners and stakeholders to quickly assess the health of their tools and identify gaps to further investigate. 
 
 ## Background
 Based on a previous Insights and Analytics kickoff meeting, a Product Health prototype was created. We want to test the prototype with product owners and stakeholders to identify gaps and areas that need improvement.  
