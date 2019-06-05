@@ -20,6 +20,8 @@ Based on a previous Insights and Analytics kickoff meeting, a Product Health pro
 1. What devices do product owners/stakeholders prefer to use to when viewing analytics?
 1. What are the expectations/requirements around sharing Insights and Analytics with other team members?
 1. What are the expectations/requirements for report date and time range options?
+1. How often is data needed? (daily, weekly, monthly)
+1. What are the driving forces behind reporting deadlines?
 
 ## Hypothesis
 TBD
