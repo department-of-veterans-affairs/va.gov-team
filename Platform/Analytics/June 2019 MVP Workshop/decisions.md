@@ -4,13 +4,15 @@ Start the MVP focused on the bolded items
 
 1. Data: performance
 2. Data: usability data
-3. **Easy access**
+3. **Easy Access**
 4. **Insights**
 5. Data: outcomes data
 6. **Adoption**
 7. Advocacy
 
 ### MVP Approach:
+
+Focus on Easy Access, driving Insights, and driving Adoption in the MVP, w/the goal of enabling Product Owners to use the data in their workflow to make product decisions.
 
 - Test initial MVP in Google Sheets
 - (Access) Do design pass so it adheres to design best practices
