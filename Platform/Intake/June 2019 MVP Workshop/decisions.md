@@ -1,6 +1,6 @@
 ## Onboarding MVP must include...
 - Meetings w/full VFS team, VA stakholders, and VSP support team
-- Process for getting VFS team members into bi-weekly practice are meetings and slack channels
+- Process for getting VFS team members into bi-weekly practice area meetings and Slack channels
 - Separate break-out for Engineering-specific best practices / expectations
 
 ## Consider including in MVP...
