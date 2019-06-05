@@ -6,17 +6,21 @@ Based on a previous Insights and Analytics kickoff meeting, a Product Health pro
 
 ## Research Questions
 1. Can product owners/stakeholders easily identify when products are up or down?
-2. When a product owner identifies that a product is down or performing poorly, what is the next step?
-3. Can product owners/stakeholders determine which product needs the most attention?
-4. Do product owners/stakeholders understand metrics like Average Latency, Success/Error Rate, Total/Unique/Repeat Event, and Goal Conversion?
+1. When a product owner identifies that a product is down or performing poorly, what is the next step?
+1. Can product owners/stakeholders determine which product needs the most attention?
+1. What questions, objectives, and/or key results is the product owner/stakeholder looking for information on when they access analytics?
+    - Using the spreadsheet, are they able to confidently find the answers?
+    - What will they do with the information next?
+1. Do product owners/stakeholders understand metrics like Average Latency, Success/Error Rate, Total/Unique/Repeat Event, and Goal Conversion?
    - Are these the right metrics?
    - Which metrics are missing?
    - Which metrics are not helpful?
-5. What do product owners/stakeholders expect to find when they drill in to a data point?
-6. Do product owners/stakeholders understand the meanings of the various shades of red and green?
-7. What devices do product owners/stakeholders prefer to use to when viewing analytics?
-8. What are the expectations/requirements around sharing Insights and Analytics with other team members?
-9. What are the expectations/requirements for report date and time range options?
+   - Are these labels and terms understandable?
+1. What do product owners/stakeholders expect to find when they drill in to a data point?
+1. Do product owners/stakeholders understand the meanings of the various shades of red and green?
+1. What devices do product owners/stakeholders prefer to use to when viewing analytics?
+1. What are the expectations/requirements around sharing Insights and Analytics with other team members?
+1. What are the expectations/requirements for report date and time range options?
 
 ## Hypothesis
 TBD
