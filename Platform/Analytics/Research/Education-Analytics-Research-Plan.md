@@ -69,17 +69,12 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Analytics/analytics-dashboard-product-outline.md)
 
-- Discussion Guide
-* *in progress*
+- Discussion Guide: *in progress*
 
-- Notes & Recordings
-* *TBD*
+- Notes & Recordings: *TBD*
 
-- Synthesis
-* *TBD*
+- Synthesis: *TBD*
 
-- Lessons Learned
-* *TBD* 
+- Lessons Learned: *TBD* 
 
-- Read-Out/Results
-* *TBD*
+- Read-Out/Results: *TBD*
