@@ -14,6 +14,8 @@ Start the MVP focused on the bolded items
 
 Focus on Easy Access, driving Insights, and driving Adoption in the MVP, w/the goal of enabling Product Owners to use the data in their workflow to make product decisions.
 
+Things to update from the existing prototype:
+
 - Test initial MVP in Google Sheets
 - (Access) Do design pass so it adheres to design best practices
 - (Access) Iterate to ensure 508 Accessibility
@@ -24,10 +26,10 @@ Focus on Easy Access, driving Insights, and driving Adoption in the MVP, w/the g
 - Stretch: realtime
 - Stretch: populate weekly performance automatically
 - Stretch: populate monthly performance automatically
-
-#### Test for these things:
-- (Insights) Legend to understand how to turn color indicators into actions
-- (Access) link things up to their source
+- (Adoption) Do usability research to test for:
+  - (Insights) Legend to understand how to turn color indicators into actions
+  - (Access) link things up to their source
+  - Among a lot of other things captured in Layla's research plan
 
 ### Post MVP:
 - (Adoption) Set up alerts
