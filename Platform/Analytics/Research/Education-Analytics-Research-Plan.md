@@ -25,8 +25,7 @@ Based on a previous Insights and Analytics kickoff meeting, a Product Health pro
    * What are the driving forces behind reporting deadlines?
 
 ## Hypothesis
-TBD
-
+Product owners and stakeholders are able to understand the health status of their products. They are able to drill down to find deeper insights so that they can address issues.
 
 ## Method
 * We will conduct 45-minute, remote, moderated usability testing using the Product Health spreadsheet/prototype. 
@@ -35,14 +34,18 @@ TBD
 ## Participants and Recruitment
 * Participants must be a VA.gov product owner or stakeholder
 * 3-6 participants 
+   * Matt Self
+   * Kevin Hoffman 
+   * Leah Bannon
+   * Product owners / stakeholders outside of Education Benefits (maybe start with Health)
 * We will work with the Platform stakeholders to identify participants and schedule sessions
 
 ## When? 
 1.	Timeline: What dates do you plan to do research? 
-TBD
+June 12th - 26th (tenative) 
 
 2.	Prepare: When will the thing you are testing be ready? 
-TBD
+June 12th - 26th (tenative) 
 
 3. Length of Sessions: How long do you estimate each session will be? 
 30 - 45 minutes
@@ -51,7 +54,7 @@ TBD
 TBD
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
-TBD
+Emily Waggoner
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.** 
