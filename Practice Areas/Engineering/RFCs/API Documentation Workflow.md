@@ -1,4 +1,4 @@
-# API Documentation Workflow
+# RFC: API Documentation Workflow
 
 ## Background
 
@@ -59,7 +59,31 @@ in OpenAPI Spec (or slate/custom markdown). The JSON Schema models from our spec
 method. Alternatively we could create a comment annotation lib independant of yard using the std lib script parser [Ripper](https://ruby-doc.org/stdlib-2.5.1/libdoc/ripper/rdoc/Ripper.html). Documentation for an endpoint in either 
 case could look like:
 
-TODO: code example
+_(the `@@` symbol denotes the start of API docs or AT-AT the lib would be full of Star Wars $refs)_
+
+```ruby
+module V0
+  class AddressesController < ApplicationController
+    before_action { authorize :evss, :access? }
+
+    # @@
+    # get '/v0/address/countries'
+    #   Returns a users corp address
+    # parameters
+    #   Authorization
+    #     in: header
+    #     description: The authorization method and token value
+    #     required: true
+    #     schema: spec/support/schemas/address_response.json
+    # @@
+
+    def show
+      response = service.get_address
+
+      render json: response,
+             serializer: AddressSerializer
+    end
+```
 
 #### Risks
 
