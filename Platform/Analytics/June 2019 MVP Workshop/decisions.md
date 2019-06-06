@@ -4,15 +4,15 @@ Start the MVP focused on the bolded items
 
 1. Data: performance
 2. Data: usability data
-3. **Easy Access**
-4. **Insights**
+3. `*` Easy Access
+4. `*` Insights
 5. Data: outcomes data
-6. **Adoption**
+6. `*` Adoption
 7. Advocacy
 
-### MVP Approach:
+## MVP Approach:
 
-Focus on Easy Access, driving Insights, and driving Adoption in the MVP, w/the goal of enabling Product Owners to use the data in their workflow to make product decisions.
+Focus on Easy Access, drawing out Insights, and driving Adoption in the MVP -- w/the goal of enabling Product Owners to use the data in their workflow to make product decisions.
 
 Things to update from the existing prototype:
 
