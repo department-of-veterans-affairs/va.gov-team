@@ -12,7 +12,7 @@ When the 'API Wars' ended Swagger won and became the basis for the OpenAPI Speci
 and swagger-blocks support for it [stalled in 2018](https://github.com/fotinakis/swagger-blocks/issues/110). The main issues with our current setup are:
 
 *   Duplication with the JSON Schema files we use to verify contracts in specs. 
-*   Although in Ruby there's still a mental shift required when working with it. OpenAPI -> DSL -> Ruby. 
+*   Although in the DSL is Ruby code there's still a mental shift required when working with it. OpenAPI -> DSL -> Ruby. 
 New developers are learning the vets-api way of doing things (and sometimes Ruby/Rails). The DSL adds another thing to learn.
 *   Being a Ruby DSL you can't take advantage of OpenAPI tools to design your api upfront. 
 Nor can you use Editor/IDE plugins to assist writing docs.
@@ -20,11 +20,9 @@ Nor can you use Editor/IDE plugins to assist writing docs.
 
 ### Better looking docs
 
-Compared to the API docs that are held up as best in breed examples (e.g. Stripe's) the design and layout of our docs 
+Compared to the API docs that are held up as best in breed examples (e.g. [Stripe's](https://stripe.com/docs/api)) the design and layout of our docs 
 fall a bit short. Currently the endpoints are presented in a single, albeit grouped, long list. There's no navigation 
-or table of contents. And models for response payloads are hidden and their fields have no descriptions. This is tangential 
-to making writing docs better. Whatever solution we choose the final step should be rendering the documentation so that 
-they don't look like government docs pushed through a default renderer.
+or table of contents and models for response payloads are hidden and their fields have no descriptions. Obviously this is tangential to making writing docs better. Whatever solution we choose the final step should be rendering the documentation so that they don't look like government docs pushed through a default renderer.
 
 ## Design
 
