@@ -6,7 +6,7 @@ We also monitor reports of issues from folks (i.e. VFS Teams and VA Stakeholders
 We would like to be monitoring user-reported issues as well, but our access to that data at this time is extremely limited, so that's something we'll be working on getting better access to.
 
 <details>
-<summary>Current sources</summary>
+  <summary><b>Current sources</b></summary>
 <br>
 <ul>
 <li>Prometheus pager-duty alerts</li>
@@ -22,7 +22,7 @@ We would like to be monitoring user-reported issues as well, but our access to t
 
 <details>
 
-<summary>High priority desired sources</summary>
+<summary><b>High priority desired sources</b></summary>
 <br>
 <ul>
 <li>Reported issues from Contact Centers</li>
@@ -32,7 +32,7 @@ We would like to be monitoring user-reported issues as well, but our access to t
 
 <details>
 
-<summary>Lowe priority or potential desired sources</summary>
+<summary><b>Low priority or potential desired sources</b></summary>
 <br>
 <li>Foresee (or other user feedback mechanism)</li>
 <li>Social media</li>
