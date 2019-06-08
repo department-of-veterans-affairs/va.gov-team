@@ -1,4 +1,9 @@
-# 1. Discovering an issue
+# Step One: Discover an issue
+We have automated ways of discovering problems throughout the VA.gov ecoysystem via Pager Duty notifications in our `#on-call` DSVA Slack channel and directly to the on-call person. (Read more about [on-call approach and rotation](#).)
+
+We also monitor reports of issues from folks (i.e. VFS Teams and VA Stakeholders) who notice them and report them in the `#triage` DSVA Slack channel.
+
+We would like to be monitoring user-reported issues as well, but our access to that data at this time is extremely limited, so that's something we'll be working on getting better access to.
 
 <details>
 <summary>Current sources</summary>
@@ -33,3 +38,6 @@
 <li>Social media</li>
 
 </details>
+
+# Step Two: Determine Priority
+- 
