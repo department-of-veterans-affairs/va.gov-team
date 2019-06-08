@@ -44,7 +44,7 @@ We would like to be monitoring user-reported issues as well, but our access to t
 
 </details>
 
-## Step Two: Determine Priority
+## Step Two: Determine Priority + Team
 We will perform some initial discovey and Q&A around a reported problem to try and understand how urgent it is - how many people are likely affected, and how severely their ability to access/manage benefits is hampered.
 
 Once we have this basic info, we'll write up a ZenHub issue and rank the issue's priority, and determine whether we need to work on an immediate fix, put it into our backlog, or re-assign the ZenHub issue to a VFS Product Owner / Business Owner for resolution.
