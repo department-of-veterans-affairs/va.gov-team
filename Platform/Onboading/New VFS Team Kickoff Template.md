@@ -8,6 +8,7 @@
 - VSP is a product too, and as such we're always iterating! (i.e. give us your feedback on things that are challenging or not working well, and also expect to get user feedback surveys every once in a while)
 - What to expect (launch criteria, documentation best practices)
 - Collaborate! (practice area slack channels and meetings)
+- Questions
 
 ## Engineering Breakout Kickoff Agenda
 
