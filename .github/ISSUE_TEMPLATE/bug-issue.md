@@ -1,3 +1,7 @@
+---
+labels: bug
+---
+
 ## What happened?
 _Describe in detail what went wrong; screenshots, videos, or gifs are strongly encouraged_
 
