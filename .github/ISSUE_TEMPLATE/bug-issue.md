@@ -18,7 +18,7 @@ _Describe in detail what went wrong; screenshots, videos, or gifs are strongly e
 _Describe in detail what was supposed to happen; reference existing Github issue that contains a solution if possible_
 
 ## Acceptance Criteria
-- [ ] _What change needs to be made?_
+- [ ] _Describe the desired working behavior_
 
 ## Definition of Done
 - [ ] **Attached to a Milestone** (when will this be completed?)
