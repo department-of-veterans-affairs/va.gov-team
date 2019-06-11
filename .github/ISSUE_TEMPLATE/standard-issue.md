@@ -1,3 +1,8 @@
+---
+name: Standard Issue Template
+about: For filing standard issues on VSP.
+---
+
 ## User Story
 As a _____, I need _____ so I can _____.
 
