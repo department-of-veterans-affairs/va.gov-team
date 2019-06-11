@@ -1,3 +1,8 @@
+---
+name: Epic Template
+about: For filing Epics on VSP
+---
+
 ## High Level User Story
 As a _____, I need _____ so I can _____.
 
