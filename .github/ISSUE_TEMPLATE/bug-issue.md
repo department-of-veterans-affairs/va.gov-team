@@ -1,4 +1,6 @@
 ---
+name: Bug Template
+about: For filing bugs found on VSP
 labels: bug
 ---
 
