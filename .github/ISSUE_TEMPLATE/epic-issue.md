@@ -7,8 +7,8 @@ As a _____, I need _____ so I can _____.
 ## Goals
 _What outcome(s) do we want to see?_ 
 
-## KRs
-_Which VSP KRs does this body of work push forward?_ (`Intake & Onboarding`, `Automation + Instrumentation`, `Support`, `Capacity-building`)
+## Objectives
+_Which VSP Objectives does this body of work push forward?_ (`Intake & Onboarding`, `Automation + Instrumentation`, `Support`, `Capacity-building`)
 
 ## Definition of Done
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)
