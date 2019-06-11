@@ -15,7 +15,8 @@
   *   Test onboarding MVP with Insignia
 
 **Content & IA**
-            *   N/A bc now joining 6/30
+*   N/A bc now joining 6/30
+
 ## Operations & Improvements Group
 
 **Triage**
@@ -30,3 +31,12 @@
 **Operations**
  *   Continue wrapping up VAEC migration work
  *   Improve onboarding process for new (VFS or VSP) developers
+
+-----------
+
+## Notes from S2 collab session:
+
+Potential S2 objective, NOW/NEXT/FUTURE for all VFS teams we support and who's coming soon (i.e. next and future) and keep it public, and way to track them so we can anticipate their needs and plan ahead. Also helps Leah w/top cover when ppl ask for new things, so we know current volume we're supporting.
+
+Potential S2 objective, have baselines for current status wrt KRs
+
