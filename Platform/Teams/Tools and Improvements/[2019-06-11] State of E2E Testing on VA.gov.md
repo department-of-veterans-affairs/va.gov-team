@@ -28,7 +28,7 @@ How often should we run the tests? Once the tests integrate the API, it might ad
 Both Selenium and Puppeteer can support visual regression testing, but we already use Puppeteer for that purpose. Cypress supports it as well, but also offers video playback and the ability to step backwards through the test for debugging purposes.
 
 ### Transition / Conversion
-How tedious or time-consuming will it be to convert our Nightwatch tests to Puppeteer or another non-Selenium solution? Or if we don't even continue to use Puppeteer, what is the level of effort involved in converting our current Puppeteer-based utilities to another framework?
+How tedious or time-consuming will it be to convert our Nightwatch tests to Puppeteer or another non-Selenium solution? Or if we don't even continue to use Puppeteer, what is the level of effort involved in converting our current Puppeteer-based utilities to another framework? Furthermore, will that solution allow us to adapt our **accessibility testing patterns**?
 
 ### Code Coverage
 It might be nice to set a bar for code coverage, but we may want to focus first on consolidating and standardizing our E2E testing solution. Note that Cypress provides documentation on implementing instrumentation with Istanbul, which we already use for unit test coverage. https://docs.cypress.io/guides/tooling/code-coverage.html
