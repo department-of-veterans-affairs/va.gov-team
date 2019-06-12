@@ -14,7 +14,7 @@ There are various non-Selenium solutions on the rise with the advantages of runn
 ### Integration with VA API
 The current E2E solution involves creating mock responses within the tests rather than invoking the API. It makes sense to mock responses from third party integrations to limit failures to components that we can control. However, a true E2E test should verify the interaction with the back-end and ensure that the logic there is sound. Note that the API makes use of Betamocks for mock responses, though limited to idempotent actions.
 
-There are currently two E2E tests that run against an actual API in the current environment. One possible drawback of testing against the actual instance, such as Staging, is that people could be manually testing in the asme environment and make it difficult for the tests to consistently start from the same state.
+There are currently two E2E tests that run against an actual API in the current environment. One possible drawback of testing against the actual instance, such as Staging, is that people could be manually testing in the same environment and make it difficult for the tests to consistently start from the same state.
 
 ### Cross-browser Testing
 After a recent IE11 bug that broke the menu, we have some impetus to carefully consider cross-browser testing as an important feature of our solution.
@@ -22,7 +22,7 @@ After a recent IE11 bug that broke the menu, we have some impetus to carefully c
 Some popular non-Selenium alternatives do not yet support full cross-browser functionality, namely for IE. In the case of Puppeteer, Firefox support is already in an experimental state, but there are no plans for IE. There is a third-party package that appears to add IE support, but it might not be dependable for long-term support. Cypress only currently supports Chrome but [has cross-browser support on its roadmap](https://github.com/cypress-io/cypress/issues/310).
 
 ### Test Schedule
-How often should we run the tests? Once the tests integrate the API, it might add too much overhead to run the tests on each commit in a PR. Maybe consider running once a day, perhaps before deploying.
+How often should we run the tests? Once the tests integrate the API, it might add too much overhead to run the tests on each commit in a PR. Maybe consider running once a day, perhaps before deploying. Maybe deploy to a dedicated test instance.
 
 ### Visual Regression
 Both Selenium and Puppeteer can support visual regression testing, but we already use Puppeteer for that purpose. Cypress supports it as well, but also offers video playback and the ability to step backwards through the test for debugging purposes.
