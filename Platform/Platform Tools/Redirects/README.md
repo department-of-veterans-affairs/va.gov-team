@@ -5,7 +5,7 @@
 
 ## Current State
 
-- The state of redirects currently is a bit confusing, there are three distinct types of redirects that are in play in the vag.gov ecosytem that we will explain what they are and why they exist.  This current set of solutions is in place because the tech teams were tasked with solving redirects and they were successful, but there was never a holistic view and solutioning applied to this problem.
+- The state of redirects currently is a bit confusing, there are three distinct types of redirects that are in play in the va.gov ecosytem that we will explain what they are and why they exist.  This current set of solutions is in place because the tech teams were tasked with solving redirects and they were successful, but there was never a holistic view and solutioning applied to this problem.
 
 ### Network infrastructure level redirects
 
