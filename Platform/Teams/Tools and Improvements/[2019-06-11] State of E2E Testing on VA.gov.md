@@ -20,6 +20,8 @@ The current E2E solution involves creating mock responses within the tests rathe
 There are currently two E2E tests that run against an actual API in the current environment. One possible drawback of testing against the actual instance, such as Staging, is that people could be manually testing in the asme environment and make it difficult for the tests to consistently start from the same state.
 
 ### Cross-browser Testing
+After a recent IE11 bug that broke the menu, we have some impetus to carefully consider cross-browser testing as an important feature of our solution.
+
 Some popular non-Selenium alternatives do not yet support full cross-browser functionality, namely for IE. In the case of Puppeteer, Firefox support is already in an experimental state, but there are no plans for IE. There is a third-party package that appears to add IE support, but it might not be dependable for long-term support. Cypress only currently supports Chrome but [has cross-browser support on its roadmap](https://github.com/cypress-io/cypress/issues/310).
 
 ### Test Schedule
