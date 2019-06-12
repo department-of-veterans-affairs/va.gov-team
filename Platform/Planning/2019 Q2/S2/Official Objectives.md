@@ -4,7 +4,7 @@
 # Sprint 2 High-level Objectives
 - Enable current VFS teams to continue their work (CMS, Education teams, STEM, API Program, VA.gov teams)
 - Set VSP program up for success
-- Start critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
+- Test/continue critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
 
 # Sprint 2 Team-level Objectives
 
