@@ -1,7 +1,4 @@
-# E2E Testing on VA.gov
-
-## Current State
-
+# State of E2E Testing on VA.gov
 We currently have multiple E2E testing solutions, mostly on the front-end (JavaScript-based). Not every app or feature on VA.gov has full E2E test coverage, as we do not enforce a required amount of coverage to push changes. However, almost all of the existing tests are written in Nightwatch, a testing framework that runs on Selenium, and run as part of CI. These tests do not actually invoke the VA API; when writing these tests, responses need to be mocked for any anticipated API requests.
 
 The Nightwatch tests can run on different browsers through an integration with Sauce Labs, which is a cross-browser testing platform, but we do not run tests on this platform as part of CI. This solution allows us to test on various combinations of OSes and browsers, including IE. However, from cursory attempts at running the full suite of E2E tests across a specific version of each browser under our current (free?) plan, this solution did not appear to provide reliable or timely results. The tests seemed to experience high latency from serving the local assets to the test instance through a proxy, or perhaps loading assets in general. For pages that require a lot of resources such as Facility Locator, the tests frequently timed out. Running a single test on one browser seemed to work fairly consistently but still took a very long time to complete.
@@ -10,8 +7,8 @@ There has been some preliminary work done with the Puppeteer testing library. In
 
 Finally, there is a WIP integrated testing solution using Capybara for HCA. It runs on Selenium, similar to the Nightwatch tests. The difference is that this will run off of the Rails back-end, with the benefit of being able directly interact with Rails to populate the database with mock data.
 
-## Considerations / Priorities
 
+## Considerations / Priorities
 There are various non-Selenium solutions on the rise with the advantages of running tests faster and being easier to implement. As mentioned, we have some experience already with Puppeteer. Cypress is a framework that we could consider trying out as well.
 
 ### Integration with VA API
@@ -36,8 +33,10 @@ How tedious or time-consuming will it be to convert our Nightwatch tests to Pupp
 ### Code Coverage
 It might be nice to set a bar for code coverage, but we may want to focus first on consolidating and standardizing our E2E testing solution. Note that Cypress provides documentation on implementing instrumentation with Istanbul, which we already use for unit test coverage. https://docs.cypress.io/guides/tooling/code-coverage.html
 
+
 ## Current Recommendation for Apps Teams
 With a majority of our E2E tests already written to work with Nightwatch, for the time being, it will probably be best to conform to that pattern for non-form apps. For form apps, using the Puppeteer-based form filler utility will be the quickest way to implement E2E tests.
+
 
 ## Resources
 
