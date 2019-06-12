@@ -34,13 +34,13 @@ How tedious or time-consuming will it be to convert our Nightwatch tests to Pupp
 It might be nice to set a bar for code coverage, but we may want to focus first on consolidating and standardizing our E2E testing solution. Note that Cypress provides documentation on implementing instrumentation with Istanbul, which we already use for unit test coverage. https://docs.cypress.io/guides/tooling/code-coverage.html
 
 
-## Current Recommendation for Apps Teams
+## Current Recommendation for Writing E2E Tests
 With a majority of our E2E tests already written to work with Nightwatch, for the time being, it will probably be best to conform to that pattern for non-form apps. For form apps, using the Puppeteer-based form filler utility will be the quickest way to implement E2E tests.
 
 
 ## Resources
 
-### How to Write E2E tests
+### How to Write E2E Tests
 https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/
 
 ### How to Use Sauce for Cross-Platform Testing
