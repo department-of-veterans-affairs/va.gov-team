@@ -40,8 +40,11 @@ With a majority of our E2E tests already written to work with Nightwatch, for th
 
 ## Resources
 
-### How to write end-to-end tests
+### How to Write E2E tests
 https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/
 
-### How to run visual regression tests
+### How to Use Sauce for Cross-Platform Testing
+https://github.com/department-of-veterans-affairs/vets.gov-team/blob/9fd4d5da296a4570fd10e7a6643c8418020c97c0/Practice%20Areas/QA/Cross-Platform%20Testing/cross-platform-testing-plan.md
+
+### How to Run Visual Regression Tests
 https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/visual-regression-testing/
