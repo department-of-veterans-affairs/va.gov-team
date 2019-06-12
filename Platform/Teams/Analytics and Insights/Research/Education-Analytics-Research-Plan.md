@@ -43,13 +43,13 @@ Product owners and stakeholders are able to understand the health status of thei
 
 ## When? 
 1.	Timeline: What dates do you plan to do research? 
-June 12th - 26th (tenative) 
+June 17th - 21st, 2019
 
 2.	Prepare: When will the thing you are testing be ready? 
-June 12th - 26th (tenative) 
+June 14, 2019
 
 3. Length of Sessions: How long do you estimate each session will be? 
-30 - 45 minutes
+45 minutes
 
 4.	Availability: 
 TBD
