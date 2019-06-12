@@ -3,7 +3,7 @@
 ## Mission
 
 ## Responsibilities
-
+- [Support Tiers](SupportTiers.md)
 ## On call
 - [On call Responsibilities](OnCall.md)
 ## Triage process
