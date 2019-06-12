@@ -17,7 +17,7 @@ Tier 1 will:
 * categorize supports requests using our [Incident categories](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/OnCall/Incident%20Categorization.md) 
 
 * **minor** or **normal** incidents will be logged in the current VA's Contact Center software system.  If further action is necessary by the VFP or VSA teams the Tier 1 support person will assign the issue to the VSP team.  The VSP team will review assigned issues at a regular interval (daily/weekly) and attempt to find trends. 
-* **Major**, **MSevere** or **Critical** incidents will escalate immediately to the Tier 2 support specialist through the agreed upon channels **TBD**
+* **Major**, **Severe** or **Critical** incidents will escalate immediately to the Tier 2 support specialist through the agreed upon channels **TBD**
 
 ## Tier 2 
 
