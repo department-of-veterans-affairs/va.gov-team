@@ -1,4 +1,12 @@
-# Sprint 2 Objectives
+# Sprint 2 Dates
+6/13/ - 6/25/2019
+
+# Sprint 2 high-level objectives
+Enable current VFS teams to continue their work (CMS, Education teams, STEM, API Program, VA.gov teams)
+Set VSP program up for success
+Start critical MVPs to validate core assumptions about the way intake, onboarding, and data access may impact VFS team decision-making
+
+# Sprintt 2 team-level objectives
 
 ## Leadership Group
 
