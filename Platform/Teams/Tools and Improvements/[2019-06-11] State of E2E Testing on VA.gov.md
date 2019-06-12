@@ -27,8 +27,11 @@ How often should we run the tests? Once the tests integrate the API, it might ad
 ### Visual Regression
 Both Selenium and Puppeteer can support visual regression testing, but we already use Puppeteer for that purpose. Cypress supports it as well, but also offers video playback and the ability to step backwards (Time Travel) through the test for debugging purposes, which can be incredibly helpful for development. TestCafe can capture screenshots and video as well.
 
+### Accessibility
+We currently do axe accessibility checks in our Nightwatch tests. It has not yet been integrated into the form filler utility, but there is a package (`axe-puppeteer`) that allows us to use axe with Puppeteer. There are similar packages for Cypress and TestCafe. We also have utilities for such features as keyboard testing that we might need to refactor to work within the framework we end up using.
+
 ### Transition / Conversion
-How tedious or time-consuming will it be to convert our Nightwatch tests to Puppeteer or another non-Selenium solution? Or if we don't even continue to use Puppeteer, what is the level of effort involved in converting our current Puppeteer-based utilities to another framework? Furthermore, will that solution allow us to adapt our **accessibility testing patterns**? Documentation might be a good indicator for the ease of transition. Cypress in particular seems to have fairly comprehensive documentation with many examples, which could make it a much smoother process when handling edge cases or making design choices.
+How tedious or time-consuming will it be to convert our Nightwatch tests to Puppeteer or another non-Selenium solution? Or if we don't even continue to use Puppeteer, what is the level of effort involved in converting our current Puppeteer-based utilities to another framework? Furthermore, will that solution allow us to adapt our accessibility testing patterns? Documentation might be a good indicator for the ease of transition. Cypress in particular seems to have fairly comprehensive documentation with many examples, which could make it a much smoother process when handling edge cases or making design choices.
 
 ### Code Coverage
 It might be nice to set a bar for code coverage, but we may want to focus first on consolidating and standardizing our E2E testing solution. Note that Cypress provides documentation on implementing instrumentation with Istanbul, which we already use for unit test coverage. https://docs.cypress.io/guides/tooling/code-coverage.html
