@@ -1,6 +1,6 @@
 The triage team is responsible for the contents of Sentry. 
 
-[sentry configuration and deployment](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/sentry/README.md) is documented in the devops repo and the credentials for the administrative user are in credstash.  
+[Sentry configuration and deployment](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/sentry/README.md) is documented in the devops repo. The credentials for the administrative user are in credstash.  
  
 Sentry users are called "[Members](http://sentry.vetsgov-internal/settings/vets-gov/members/)" and can be a member of many "[teams](http://sentry.vetsgov-internal/settings/vets-gov/teams/)" and a team can be a part of one or more projects. Triage team members should be given the "Manager"
 role. An issue in Sentry can be assigned to an individual member or a team. As part of a [project's configuration](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/ownership/)it is possible to assign issues to individuals or teams based upon the code path or url.
