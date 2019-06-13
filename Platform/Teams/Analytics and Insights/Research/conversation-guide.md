@@ -43,7 +43,6 @@ Okay, I am going to ask you to open the Education Product Health Analytics dashb
 * Take a moment to scan this page, and tell me what you're looking at here.
     * What is the purpose of this page?
     * What do you think you can do here?
-
 * Based on what you see here, which product needs your immediate attention?
 * How would you expect to learn about an urgent issue? 
 * What steps would you take next?
