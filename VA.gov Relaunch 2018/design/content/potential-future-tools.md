@@ -2,6 +2,8 @@
 
 This is a list of content areas the content team has identified in the course of legacy rewriting work that may benefit from a tool/wizard.
 
+### Disability hub
+
 | Page (link to latest version) | Potential tool/wizard | Description | Example(s) for reference |
 | --- | --- | --- | --- | 
 | [About VA disability ratings](https://vagov-content-pr-268.herokuapp.com/disability/about-disability-ratings/) | Combined ratings calculator | [Calculator in development](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/18214). Noting here just to keep everything together. |
