@@ -51,21 +51,15 @@ June 14, 2019
 3. Length of Sessions: How long do you estimate each session will be? 
 45 minutes
 
-4.	Availability: 
-TBD
-
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
-Emily Waggoner
-
 ## Team Roles
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.** 
+Please list the people who will be serving in each role. 
 - Moderator: Layla Soileau
 - Research guide writing and task development: Layla Soileau
-- Participant recruiting & screening: 
-- Project point of contact:
-- Participant(s) for pilot test:
-- Note-takers: Emily Waggoner
-- Observers:
+- Participant recruiting & screening: Layla Soileau
+- Project point of contact: Layla Soileau, layla@adhocteam.us
+- Participant(s) for pilot test: Emily Waggoner
+- Note-takers: Emily Waggoner, Amy Cesal
+- Observers: Joanne Esteban
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
