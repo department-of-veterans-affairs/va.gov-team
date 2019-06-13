@@ -30,30 +30,45 @@ Before we start, a few things I want to mention:
 * Can you tell me a little bit about yourself? (Role at DSVA, what product do they focus on)
 
 #### General product health questions
-* TBD
+* If you could access all of your product analytics in one place, where would you expect to access it?
+* For your specific product/role, which metrics are the most important to you?
+   * How often you need access to those metrics?
+   * Do you ever need to share those metrics? With whom? In what format?
+* Are there specific deadlines for reporting metrics? Can you explain what drives those deadlines?
 
 ## First task: React to Education Product Health Analytics dashboard
 
-Okay, I am going to ask you to open the Education Product Health Analytics dashboard.
+Okay, I am going to ask you to open the Education Product Health Analytics dashboard by clicking the other tab.
 
 * Take a moment to scan this page, and tell me what you're looking at here.
     * What is the purpose of this page?
     * What do you think you can do here?
 
-* Do you think you could find the answer to any of the questions that you asked previously?
-    * Why or why not?
-    * Go ahead and try.
-    * Was that what you expected to find? Why or why not?
-    
- * Does the content that you see here prompt any questions that you didn't have previously?
-     * How would you find the answers to those questions?
+* Based on what you see here, which product needs your immediate attention?
+* How would you expect to learn about an urgent issue? 
+* What steps would you take next?
 
-## Second task: Need to add
 
-* TBD
-  
-### Things to watch for:
-* TBD
+## Second task: React to product statuses
+* What do the different product statuses mean to you?
+* Is there a product status that is missing?
+
+
+## Third task: Interpret product health
+* Which products are performing the best? How do you know?
+* Which products are preforming the worst? How do you know?
+* Are there any metrics that are unclear?
+* Are there any metrics that you don't need? 
+* Are there any metrics that are missing?
+* What would you do to learn more about a specific metric?
+
+
+## Fourth task: Drill into a metric
+* Which metrics can you drill in to see more detail? What kind of detail do you expect to see?
+* Go ahead and drill in to a metric. 
+   * Tell me about what you see here.
+   * Is this what you were expecting?
+* If you had questions or needed support for this dashboard, who would you ask?
 
 ## Thank-You and Closing - 5 minutes
 
