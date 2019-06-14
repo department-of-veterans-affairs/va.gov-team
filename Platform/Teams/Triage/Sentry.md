@@ -1,14 +1,24 @@
-The triage team is responsible for the contents of Sentry. 
+# Sentry overview
 
-[Sentry configuration and deployment](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/sentry/README.md) is documented in the devops repo. The credentials for the administrative user are in credstash.  
- 
-Sentry users are called "[Members](http://sentry.vetsgov-internal/settings/vets-gov/members/)" and can be a member of many "[teams](http://sentry.vetsgov-internal/settings/vets-gov/teams/)" and a team can be a part of one or more projects. Triage team members should be given the "Manager"
-role. An issue in Sentry can be assigned to an individual member or a team. As part of a [project's configuration](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/ownership/)it is possible to assign issues to individuals or teams based upon the code path or url.
+Sentry [Members](http://sentry.vetsgov-internal/settings/vets-gov/members/) (users) can be members of many [teams](http://sentry.vetsgov-internal/settings/vets-gov/teams/) and a team can be a part of one or more projects.   An issue in Sentry can be assigned to an individual member or a team. 
 
-As part of the MVP triage process, the triage team will create new teams in Sentry and move users to the proper reflect the current team structure.  Then the triage team will set up ownership rules to assign issues to the team responsible for a code path or url.  
+[Sentry configuration and deployment](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/sentry/README.md) is documented in the devops repo. The credentials for the administrative user are in credstash and can be shared on an as-needed basis by a member of the devops team.
 
-The triage team should strongly consider configuring email for sentry, as sentry sends alerts/reports on issues assigned to you or your team.  There is a slack integration that posts to #vetsgov-sentry-alerts, but there's no apparent way to customize alerts per team. 
+## Triage team structure/responsibilities
+The triage team will configure/maintain for each sentry project:
+*  [Issue ownership rules](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/ownership/) assign issues to individuals or teams based upon the code path or url. Updates will be necessary as new features and apps are added.
 
-Additionally, the triage team should review the most frequently occurring errors each business day, especially in the hour after a deploy and either create a github issue to address the issue and link the issue to sentry (currently this can be done as a sentry comment, ideally the sentry github app can be configured to make this connection).  There are cases where there is no bug but we expect issues to keep receiving events such as [this](http://sentry.vetsgov-internal/vets-gov/website-production/issues/12579/activity/).  In that case, a member of the triage team should make a comment, explaining the rationale and mark the issue as "ignore".
+* [Teams](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/teams/) 
+* [Alerting rules](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/alerts/rules/) Currently, alerts go only to [#vetsgov-sentry-alerts](https://dsva.slack.com/messages/CJTDG22NM), but email should be configured for sentry to allow for personalized alerts when an issue is assigned a team/individual (not yet possible on slack).
 
-The triage team is responsible for setting the alert rules for the sentry-slack webhook [configured under each project's settings](http://sentry.vetsgov-internal/settings/vets-gov/projects/website-production/alerts/rules/)
+Each business day the triage team should:
+* review the most frequently occurring errors, especially following a release and 
+    * **create a GitHub issue** to address the error seen in sentry and link the issue to sentry as an comment in sentry, assigning to the proper team and labeling for severity
+    
+    -or-
+    *  Mark a sentry issue to **ignore**.  [For example](http://sentry.vetsgov-internal/vets-gov/website-production/issues/12579/activity/), properly blocked CORS violations.  When ignoring, make a comment explaining why the issue is ignorable.
+
+
+## Sentry Enhancements
+* Configure email to allow for personalized notification, especially upon issue assignment. 
+* sentry GitHub app - Some work has been done to configure and is [documented](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/sentry/README.md#github-integration) in the devops repo
