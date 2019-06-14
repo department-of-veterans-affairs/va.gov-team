@@ -19,10 +19,6 @@ Before we start, a few things I want to mention:
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record your screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
 
-## Get comfortable on the machine
-* Okay. I'm going to give you control of my laptop and ask you to complete a few tasks.
-* Now, I'm going to start recording our session.
-
 *Start screen recording using Zoom.*
 
 ## Warm Up Questions - 5-10 minutes
@@ -33,8 +29,12 @@ Before we start, a few things I want to mention:
 * If you could access all of your product analytics in one place, where would you expect to access it?
 * For your specific product/role, which metrics are the most important to you?
    * How often you need access to those metrics?
+   * Is there case where you would want to be notified about certain changes? If so, how would you like to be notified?
    * Do you ever need to share those metrics? With whom? In what format?
-* Are there specific deadlines for reporting metrics? Can you explain what drives those deadlines?
+* Do you have specific deadlines for reporting metrics? Can you explain what drives those deadlines?
+
+## Get comfortable on the machine
+* Okay. I'm going to give you control of my laptop and ask you to complete a few tasks.
 
 ## First task: React to Education Product Health Analytics dashboard
 
