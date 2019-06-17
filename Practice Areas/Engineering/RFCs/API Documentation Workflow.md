@@ -2,9 +2,7 @@
 
 ### Background
 
-The workflow for creating endpoint documentation for vets-api could be better. Currently we use a 
-Ruby DSL [swagger-blocks](https://github.com/fotinakis/swagger-blocks)
-to generate docs that follow the swagger v2 spec. 
+The workflow for creating endpoint documentation for vets-api is time intensive and has a lot of duplicate code. Currently we use a Ruby DSL [swagger-blocks](https://github.com/fotinakis/swagger-blocks) to generate docs that follow the swagger v2 spec. 
 
 ### Motivation
 
