@@ -2,7 +2,7 @@
 
 ### Background
 
-The workflow for creating endpoint documentation for vets-api is time intensive and has a lot of duplicate code. Currently we use a Ruby DSL [swagger-blocks](https://github.com/fotinakis/swagger-blocks) to generate docs that follow the swagger v2 spec. 
+The workflow for creating endpoint documentation for vets-api is time intensive. It also results in a lot of duplicate code. Currently we use a Ruby DSL [swagger-blocks](https://github.com/fotinakis/swagger-blocks) to generate docs that follow the swagger v2 spec. 
 
 ### Motivation
 
@@ -35,7 +35,7 @@ translating into the Ruby DSL.
 *   As a native OpenAPI format all the tools in the ecosystem will work with it. You can create contracts upfront and 
 mock data before you write any service code.
 
-As our current docs compile into JSON, moving to JSON only is just a matter of extracting the existing JSON into separate files so they're easier to manage. Docs for an extracted route looks like the following:
+Our current docs compile into JSON. Moving to JSON as source is a matter of extracting it into separate files so they're easier to manage. Docs for an extracted route looks like the following:
 
 ```js
 "/v0/address/countries": {
@@ -68,7 +68,7 @@ As our current docs compile into JSON, moving to JSON only is just a matter of e
 },
 ```
 
-In the example above model schemas are OpenAPI definitions but as OpenAPI is based on JSON schema you can also reference those files directly. As schema definitions are larger than path defs the bulk of the API documentation is files we already use to validate our API contracts:
+In the example above model schemas are OpenAPI definitions. As OpenAPI uses JSON schema as its base you can also reference those files directly. Schema definitions are larger than path definitions. So the bulk of the API documentation ends up being files we already use to validate our API contracts:
 
 ```js
 "200": {
