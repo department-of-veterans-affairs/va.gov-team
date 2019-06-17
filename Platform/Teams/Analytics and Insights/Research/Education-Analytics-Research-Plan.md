@@ -66,7 +66,7 @@ Please list the people who will be serving in each role.
 ## Resources
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Analytics/analytics-dashboard-product-outline.md)
 
-- Discussion Guide: *in progress*
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Analytics%20and%20Insights/Research/conversation-guide.md)
 
 - Notes & Recordings: *TBD*
 
