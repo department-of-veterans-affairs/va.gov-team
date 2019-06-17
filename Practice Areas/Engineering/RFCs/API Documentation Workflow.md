@@ -68,6 +68,17 @@ As our current docs compile into JSON, moving to JSON only is just a matter of e
 },
 ```
 
+In the example above model schemas are OpenAPI definitions but as OpenAPI is based on JSON schema you can also reference those files directly. As schema definitions are larger than path defs the bulk of the API documentation is files we already use to validate our API contracts:
+
+```js
+"200": {
+  "description": "Response is OK",
+  "schema": {
+    "$ref": "$ref": "https://raw.githubusercontent.com/department-of-veterans-affairs/vets-api/master/spec/support/schemas/countries.json"
+  }
+}
+```
+
 ### Risks
 
 The first risk is the time to convert the existing docs. It's mitigated by already having the existing JSON used for the docs. 
