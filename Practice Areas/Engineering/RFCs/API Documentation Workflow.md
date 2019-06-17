@@ -1,12 +1,12 @@
 # RFC: API Documentation Workflow
 
-## Background
+### Background
 
 The workflow for creating endpoint documentation for vets-api could be better. Currently we use a 
 Ruby DSL [swagger-blocks](https://github.com/fotinakis/swagger-blocks)
 to generate docs that follow the swagger v2 spec. 
 
-## Motivation
+### Motivation
 
 When the 'API Wars' ended Swagger won and became the basis for the OpenAPI Specification. It's currently at version 3.0.2 
 and swagger-blocks support for it [stalled in 2018](https://github.com/fotinakis/swagger-blocks/issues/110). The main issues with our current setup are:
@@ -18,7 +18,7 @@ New developers are learning the vets-api way of doing things (and sometimes Ruby
 Nor can you use Editor/IDE plugins to assist writing docs.
 *   The Swagger-UI renderer we use could be more intuitive and visually appealing... 
 
-### Better looking docs
+#### Better looking docs
 
 Compared to the API docs that are held up as best in breed examples (e.g. [Stripe's](https://stripe.com/docs/api)) the design and layout of our docs 
 fall a bit short. Currently the endpoints are presented in a single, albeit grouped, long list. There's no navigation 
@@ -36,7 +36,7 @@ translating into the Ruby DSL.
 *   As a native OpenAPI format all the tools in the ecosystem will work with it. You can create contracts upfront and 
 mock data before you write any service code.
 
-## Risks
+### Risks
 
 The first risk is the time to convert the existing docs. It's mitigated by already having the existing JSON used for the docs. 
 It's a giant JSON blob but we can pull it out into $refs pointing to separate files.
@@ -48,8 +48,8 @@ Additionally specs can only check that docs exist not that they are easy for hum
 whether you should hold up development because documentation is missing. A potential solution is create a custom rspec 
 matcher that checks for endpoints are documented once they are fully baked.
 
-# Alternatives
-## 1. Yard Extension or Custom Annotation (via Ripper)
+## Alternatives
+### 1. Yard Extension or Custom Annotation (via Ripper)
 
 In a very unscientific slack poll using annotations above controller methods was the clear winner. The main benefit is 
 that documentation lives next to the code. Ruby does not have built in annotations but you can approximate annotations 
@@ -84,7 +84,7 @@ module V0
     end
 ```
 
-### Risks
+#### Risks
 
 The main is risk for this solution is the amount of time it would take to implement. API documentation has a lot of variables and corner cases. Making our own lib could take potentially take a couple of sprints. Unless you implement your own rendering system you're also now in charge of insuring your lib is caught up with any changes to the renderer.
 
@@ -92,7 +92,7 @@ Although annotation are nice in theory in practice our more complex endpoints ca
 
 It also shares the same risks as option # 1 and compounds the rewrite risk as you can't copy and past existing JSON into $ref docs. As this is a custom solution we lose access to the OpenAPI ecosystem. 
 
-## 2. Commercial Software
+### 2. Commercial Software
 
 We buy an off the shelf solution such as:
 
@@ -105,14 +105,14 @@ We buy an off the shelf solution such as:
 Of these Postman seems to have the best combination of price, features, and ease of use. Benefits are that minimal development 
 time, aside from setup, is required.
 
-### Risks
+#### Risks
 The main risk is the cost which is tied to the number of users with access. As we add developers to the project the monthly price to use the software climbs higher. There's also a management cost of adding and removing users as they roll on or off the project. A secondary risk is that we're locked into a platform. Moving back to open source tools most likely would require a lot of effort in refactoring the documentation.
 
-## 3. Markdown
+### 3. Markdown
 
 Write docs in Markdown format and render them via [Slate](https://github.com/lord/slate). Slate is an open source project inspired by Stripe's API docs. Endpoints can be split across files much like $refs. The main benefit is that Markdown is easy to write and maintain with predictable output.
 
 Regardless of whether we use Slate directly we can still use it as a renderer for OpenAPI Spec or a custom format. Tools such as [Windershins](https://github.com/Mermade/widdershins) can convert from OpenAPI Spec to Slate and could be inserted into a rendering pipeline when deploying the docs.
 
-### Risks
+#### Risks
 Downside to this solution is that the docs are completely removed from the code and the option to require specs. You lose access to the OpenAPI ecosystem. JSON schema files can not be reused so you have the model duplication problem again. And all our existing docs must be transfered over.
