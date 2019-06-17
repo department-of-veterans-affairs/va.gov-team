@@ -21,13 +21,17 @@ As demonstrated with the Lighthouse team, Rails Engines are the easiest way to s
 ## Known issues
 
 The goal is to maintain separation of concerns accross teams, however, in its current state these Engines are not completely separated from the larger code base.
-Tests are dependent on code in the base app, and thus cannot be run from within the module.  Dependencies include:
+Tests are dependent on code in the base app, and thus cannot be run from within the module.  
+Dependencies include:
   * test scaffolding
   * classes from lib - e.g. common exception classes, external service clases
   * behavior in the common application controller
+
 The result is that when building an Engine, a developer can’t just confine themselves to their module dir and write code/run tests there.
 
 ## Expectations for proposed workflow
+
+We need to establish clear expectations for contractors and provide them with clean interfaces for the undlerlying VSP codebase features.
 
 * New code contributions from contractors is organized by product/feature as Rails Engines.  Contractors come and go, our services for veterans are forever (theoretically).
   * All code unique to the product is contained here: routes, models, controllers, migrations, etc
@@ -37,7 +41,7 @@ The result is that when building an Engine, a developer can’t just confine the
   * External service endpoints unique to a product will specified in some way within the Engine.
 * Contractors can expect to have identity/login concerns handled for them, and access to `current_user` in their controllers
 * A clear convention is established for how to handle exceptions using our exising custom exception classes.
-* Contractors should be able to "live" inside their module while devloping it, including running specs if possible. (research Rails 5 Engine dummy app)
+* Contractors should be able to "live" inside their module while devloping it, including running specs if possible. (Not sure if this is possible given dependencies outlined. Need to do more research on Rails 5 Engine dummy apps)
 
 ## Questions to discuss
 
