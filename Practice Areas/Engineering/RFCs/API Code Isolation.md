@@ -38,7 +38,7 @@ We need to establish clear expectations for contractors and provide them with cl
 * Base external service classes and configuration reside in the VSP codebase.
   * We provide an interface for contractors to use the service within their Rails Engine.  
   * If a new external service needs to be set up, we can assist the contractor in creating it within the VSP code.
-  * External service endpoints unique to a product will specified in some way within the Engine.
+  * External service endpoints unique to a product will be specified in some way within the Engine.
 * Contractors can expect to have identity/login concerns handled for them, and access to `current_user` in their controllers
 * A clear convention is established for how to handle exceptions using our exising custom exception classes.
 * Contractors should be able to "live" inside their module while developing it, including running specs if possible. (Not sure if this is possible given dependencies outlined. Need to do more research on Rails 5 Engine dummy apps)
