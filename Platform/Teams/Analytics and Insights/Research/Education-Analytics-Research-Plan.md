@@ -1,4 +1,4 @@
-# Research Plan for Education Analytics MVP -- draft
+# Research Plan for Education Analytics MVP
 Based on a previous Insights and Analytics kickoff meeting, a Product Health prototype was created. We want to test the prototype with product owners and stakeholders to identify gaps and areas that need improvement.  
 
 ## Research Questions
