@@ -13,7 +13,7 @@
 - Align VSP team on standardized core VSP product/process documentation (things like Epics, Issues, User Stories, Product Decisions, Product Outlines/README.mds)
 - Align on / agree on / groom high level NEXT and FUTURE roadmap items
 - Set up KR baselines
-*- Stretch: create high level ecosystem in ZenHub for seeing OKRs > epics > issues, and VFS teams (current and future) and their status/support levels*
+- *Stretch: create high level ecosystem in ZenHub for seeing OKRs > epics > issues, and VFS teams (current and future) and their status/support levels*
 
 ## Experience Group
 
@@ -21,7 +21,7 @@
 - Support current VFS teams in analytics needs
 - Test analytics MVP with Education product owners
 - Create Roadmap
-*- Stretch: automate data population where possible*
+- *Stretch: automate data population where possible*
 
 **Product Support**
 - Support current VFS teams in engineering, product, and design needs (incl monitoring + responding in #vfs-platform-support channel during business hours)
