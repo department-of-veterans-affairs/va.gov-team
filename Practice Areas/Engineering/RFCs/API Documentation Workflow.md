@@ -35,6 +35,39 @@ translating into the Ruby DSL.
 *   As a native OpenAPI format all the tools in the ecosystem will work with it. You can create contracts upfront and 
 mock data before you write any service code.
 
+As our current docs compile into JSON, moving to JSON only is just a matter of extracting the existing JSON into separate files so they're easier to manage. Docs for an extracted route looks like the following:
+
+```json
+"/v0/address/countries": {
+  "get": {
+    "responses": {
+      "200": {
+        "description": "Response is OK",
+        "schema": {
+          "$ref": "#/definitions/Countries"
+        }
+      },
+      "401": {
+        "description": "Not authorized",
+        "schema": {
+          "$ref": "#/definitions/Errors"
+        }
+      }
+    },
+    "description": "Get a list of the PCIU supported countries",
+    "operationId": "getCountries",
+    "tags": [
+      "benefits_info"
+    ],
+    "parameters": [
+      {
+        "$ref": "#/parameters/authorization"
+      }
+    ]
+  }
+},
+```
+
 ### Risks
 
 The first risk is the time to convert the existing docs. It's mitigated by already having the existing JSON used for the docs. 
