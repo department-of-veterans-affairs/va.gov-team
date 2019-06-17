@@ -61,8 +61,6 @@ Please list the people who will be serving in each role.
 - Note-takers: Emily Waggoner, Amy Cesal
 - Observers: Joanne Esteban
 
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
-
 ## Resources
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Analytics/analytics-dashboard-product-outline.md)
 
