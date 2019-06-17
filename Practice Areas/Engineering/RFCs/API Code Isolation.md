@@ -27,9 +27,9 @@ Dependencies include:
   * classes from lib - e.g. common exception classes, external service clases
   * behavior in the common application controller
 
-The result is that when building an Engine, a developer can’t just confine themselves to their module dir and write code/run tests there.
+The result is that when building an Engine, a developer can’t just confine themselves to their module dir and write code/run tests there. They have to familiarize themselves and troubleshoot from areas of the codebase that are outside of their specific task.
 
-## Expectations for proposed workflow
+## Proposal of expectations
 
 We need to establish clear expectations for contractors and provide them with clean interfaces for the undlerlying VSP codebase features.
 
