@@ -128,8 +128,6 @@ module V0
 
 The main is risk for this solution is the amount of time it would take to implement. API documentation has a lot of variables and corner cases. Making our own lib could take potentially take a couple of sprints. Unless you implement your own rendering system you're also now in charge of insuring your lib is caught up with any changes to the renderer.
 
-Although annotation are nice in theory in practice our more complex endpoints can take a hundred of lines or more of documentation. This makes navigating the code more difficult as our controllers are generally 'skinny', with most logic in the model, so a controller would become roughly 90% commets and 10% code.
-
 It also shares the same risks as option # 1 and compounds the rewrite risk as you can't copy and past existing JSON into $ref docs. As this is a custom solution we lose access to the OpenAPI ecosystem. 
 
 ### 2. Commercial Software
