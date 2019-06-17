@@ -41,10 +41,10 @@ We need to establish clear expectations for contractors and provide them with cl
   * External service endpoints unique to a product will specified in some way within the Engine.
 * Contractors can expect to have identity/login concerns handled for them, and access to `current_user` in their controllers
 * A clear convention is established for how to handle exceptions using our exising custom exception classes.
-* Contractors should be able to "live" inside their module while devloping it, including running specs if possible. (Not sure if this is possible given dependencies outlined. Need to do more research on Rails 5 Engine dummy apps)
+* Contractors should be able to "live" inside their module while developing it, including running specs if possible. (Not sure if this is possible given dependencies outlined. Need to do more research on Rails 5 Engine dummy apps)
 
 ## Questions to discuss
 
-What other changes do we need to consider to enable us to allow contractors to implement end points in self-contained Engines?
-How do we ensure that contractors are working within our established norms (semantics, error handling)?
-Do we need to create a directory structure that separates VFS contractors work from Lighthouse API team work since by default all Rails Engines exist at the same level in the `modules/` directory?
+What other changes do we need to consider to enable us to allow contractors to implement end points in self-contained Engines?  
+How do we ensure that contractors are working within our established norms (semantics, error handling)?  
+Do we need to create a directory structure that separates VFS contractors work from Lighthouse API team work since by default all Rails Engines exist at the same level in the `modules/` directory?  
