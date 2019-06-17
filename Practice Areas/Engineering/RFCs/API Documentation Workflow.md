@@ -37,7 +37,7 @@ mock data before you write any service code.
 
 As our current docs compile into JSON, moving to JSON only is just a matter of extracting the existing JSON into separate files so they're easier to manage. Docs for an extracted route looks like the following:
 
-```json
+```js
 "/v0/address/countries": {
   "get": {
     "responses": {
