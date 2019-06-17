@@ -8,8 +8,9 @@ to generate docs that follow the swagger v2 spec. 
 
 ### Motivation
 
-When the 'API Wars' ended Swagger won and became the basis for the OpenAPI Specification. It's currently at version 3.0.2 
-and swagger-blocks support for it [stalled in 2018](https://github.com/fotinakis/swagger-blocks/issues/110). The main issues with our current setup are:
+When the 'API Wars' ended Swagger won and became the basis for the OpenAPI Specification. It's currently at version 3.0.2. However swagger-blocks support for v3 [stalled in 2018](https://github.com/fotinakis/swagger-blocks/issues/110). 
+
+The main issues with our current setup are:
 
 *   Duplication with the JSON Schema files we use to verify contracts in specs. 
 *   Although the DSL uses Ruby there's still a mental shift required when working with it.
