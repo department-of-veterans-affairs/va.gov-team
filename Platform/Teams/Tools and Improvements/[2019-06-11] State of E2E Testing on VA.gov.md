@@ -34,7 +34,7 @@ We currently do axe accessibility checks in our Nightwatch tests. It has not yet
 How tedious or time-consuming will it be to convert our Nightwatch tests to Puppeteer or another non-Selenium solution? Or if we don't even continue to use Puppeteer, what is the level of effort involved in converting our current Puppeteer-based utilities to another framework? Furthermore, will that solution allow us to adapt our accessibility testing patterns? Documentation might be a good indicator for the ease of transition. Cypress in particular seems to have fairly comprehensive documentation with many examples, which could make it a much smoother process when handling edge cases or making design choices.
 
 ### Code Coverage
-It might be nice to set a bar for code coverage, but we may want to focus first on consolidating and standardizing our E2E testing solution. Note that Cypress provides documentation on implementing instrumentation with Istanbul, which we already use for unit test coverage. https://docs.cypress.io/guides/tooling/code-coverage.html
+It might be nice to set a bar for code coverage, but we may want to focus first on consolidating and standardizing our E2E testing solution. Note that Cypress provides [documentation](https://docs.cypress.io/guides/tooling/code-coverage.html) on implementing instrumentation with Istanbul, which we already use for unit test coverage.
 
 
 ## Current Recommendation for Writing E2E Tests
@@ -47,7 +47,7 @@ With a majority of our E2E tests already written to work with Nightwatch, for th
 https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/
 
 ### How to Use Sauce for Cross-Platform Testing
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/9fd4d5da296a4570fd10e7a6643c8418020c97c0/Practice%20Areas/QA/Cross-Platform%20Testing/cross-platform-testing-plan.md
+https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/Cross-Platform%20Testing/cross-platform-testing-plan.md
 
 ### How to Run Visual Regression Tests
 https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/visual-regression-testing/
