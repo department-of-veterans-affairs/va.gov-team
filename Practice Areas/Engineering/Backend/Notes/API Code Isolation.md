@@ -1,6 +1,6 @@
-# RFC: Contractor code isolation and organization
+# RFC: VFS development team code isolation and organization
 
-### Background
+## Background
 
 `vets-api` was initially developed by one team (Ad Hoc/Oddball).
 Our mission was to move fast and deliver services for Veterans.
