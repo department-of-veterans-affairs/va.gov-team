@@ -41,9 +41,7 @@ cons:
 
 ## Option 2
 
-Setup internal-only hostnames for tools we use {toolname}.vfs.va.gov.
-
-Tools that are exposed publicly (like review instances) would still need to go through dev.va.gov similar to Proposal 1.
+Setup internal-only hostnames for tools we use {toolname}.vfs.va.gov, and tools exposed publicly (possibly just review instances for the start) would use dev.va.gov similar to Option 1.
 
 pros:
 
