@@ -1,4 +1,4 @@
-# Research Plan for Education Analytics MVP -- draft
+# Research Plan for Education Analytics MVP
 Based on a previous Insights and Analytics kickoff meeting, a Product Health prototype was created. We want to test the prototype with product owners and stakeholders to identify gaps and areas that need improvement.  
 
 ## Research Questions
@@ -43,36 +43,28 @@ Product owners and stakeholders are able to understand the health status of thei
 
 ## When? 
 1.	Timeline: What dates do you plan to do research? 
-June 12th - 26th (tenative) 
+June 17th - 21st, 2019
 
 2.	Prepare: When will the thing you are testing be ready? 
-June 12th - 26th (tenative) 
+June 14, 2019
 
 3. Length of Sessions: How long do you estimate each session will be? 
-30 - 45 minutes
-
-4.	Availability: 
-TBD
-
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
-Emily Waggoner
+45 minutes
 
 ## Team Roles
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.** 
+Please list the people who will be serving in each role. 
 - Moderator: Layla Soileau
 - Research guide writing and task development: Layla Soileau
-- Participant recruiting & screening: 
-- Project point of contact:
-- Participant(s) for pilot test:
-- Note-takers: Emily Waggoner
-- Observers:
-
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
+- Participant recruiting & screening: Layla Soileau
+- Project point of contact: Layla Soileau, layla@adhocteam.us
+- Participant(s) for pilot test: Emily Waggoner
+- Note-takers: Emily Waggoner, Amy Cesal
+- Observers: Joanne Esteban
 
 ## Resources
 - [Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Analytics/analytics-dashboard-product-outline.md)
 
-- Discussion Guide: *in progress*
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Analytics%20and%20Insights/Research/conversation-guide.md)
 
 - Notes & Recordings: *TBD*
 

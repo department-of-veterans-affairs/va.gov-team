@@ -1,3 +1,5 @@
+Overall, focusing on Onboarding is more important in immediate term than Intake
+
 ## Onboarding MVP must include...
 - Meetings w/full VFS team, VA stakholders, and VSP support team
 - Process for getting VFS team members into bi-weekly practice area meetings and Slack channels
