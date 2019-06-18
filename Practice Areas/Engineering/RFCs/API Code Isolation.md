@@ -24,7 +24,7 @@ The goal is to maintain separation of concerns across teams. However, in its cur
 Tests are dependent on code in the base app, and thus cannot be run from within the module.  
 Dependencies include:
   * test scaffolding
-  * classes from lib - e.g. common exception classes, external service clases
+  * classes from `lib` - e.g. common exception classes, external service clases
   * behavior in the common application controller
 
 The result is that when building an Engine, a developer can’t just confine themselves to their module dir and write code/run tests there. They have to familiarize themselves and troubleshoot from areas of the codebase that are outside of their specific task.
