@@ -20,7 +20,7 @@ As demonstrated with the Lighthouse team, Rails Engines are the easiest way to s
 
 ## Known issues
 
-The goal is to maintain separation of concerns accross teams, however, in its current state these Engines are not completely separated from the larger code base.
+The goal is to maintain separation of concerns across teams. However, in its current state these Engines are not completely separated from the larger code base.
 Tests are dependent on code in the base app, and thus cannot be run from within the module.  
 Dependencies include:
   * test scaffolding
