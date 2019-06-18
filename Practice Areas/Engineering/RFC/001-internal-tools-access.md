@@ -17,7 +17,11 @@ Below is a chart with tools we maintain today along with perceived risk profile 
 
 **Jenkins could be split into multiple parts to separate the risk profile, but it's being used as a deployment mechanism right now which raises the risk profile.
 
-## Proposal 1
+## Proposal
+
+While Option 2 outlined below has a higher number of cons, the items in that list are much smaller impact than those in the pro list, and we believe Option 2 should be the path forward.
+
+## Option 1
 
 Expose developer tools on https://dev.va.gov/_vfs/{toolname} ({toolname} here would be like "grafana", "sentry", etc).
 
@@ -33,8 +37,9 @@ cons:
 
 - not as clean a separation between lower and production environments (example: there's one grafana instance that can switch between dev, staging, and prod by design -- this could be undone but not without a major project)
 - risk of mistakes exposing something publicly that wasn't intended to be
+- potentially confusing behavior where a specific hostname may or may not act the same way between internal and external clients
 
-## Proposal 2
+## Option 2
 
 Setup internal-only hostnames for tools we use {toolname}.vfs.va.gov.
 
