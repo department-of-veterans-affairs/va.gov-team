@@ -29,9 +29,9 @@ Dependencies include:
 
 The result is that when building an Engine, a developer can’t just confine themselves to their module dir and write code/run tests there. They have to familiarize themselves and troubleshoot from areas of the codebase that are outside of their specific task.
 
-## Proposal of expectations
+## Proposal of expectations of the VSP platform
 
-We need to establish clear expectations for VFS teams and provide them with clean interfaces for the undlerlying VSP codebase features.
+We need to establish clear expectations of the VSP platform in order to deliver a high quality developer experience for VFS teams.
 
 * New code contributions from VFS teams is organized by product/feature as Rails Engines.  Development teams will come and go; our services for veterans are forever (theoretically).
   * All code unique to the product is contained here: routes, models, controllers, migrations, etc
@@ -40,8 +40,22 @@ We need to establish clear expectations for VFS teams and provide them with clea
   * If a new external service needs to be set up, we can assist the development team in creating it within the VSP code.
   * External service endpoints unique to a product will be specified in some way within the Engine.
 * VFS developers can expect to have identity/login concerns handled for them, and access to `current_user` in their controllers
-* A clear convention is established for how to handle exceptions using our exising custom exception classes.
-* VFS developers should be able to "live" inside their module while developing it, including running specs if possible. (Not sure if this is possible given dependencies outlined. Need to do more research on Rails 5 Engine dummy apps)
+* A clear convention is established for how to handle exceptions using our exitsing custom exception classes.
+* Clear conventions are established around effective logging, including appropriate tagging for `Sentry` and `StatsD` integrations.
+* Documentation of other usual libraries that can be used in Rails Engines (e.g. `SetGuid`)
+
+
+## Mechanisms for delivery of expectations
+* We will use Rails generators, templates, and/or start apps to help with the boilerplate code.
+* We will deliver easy-to-follow documentation.
+* We will enforce standards via code reviews.
+
+
+## Future goals
+* VSP provides an SDK for VFS developers to interact with platform functionality, and provide guard rails for our development standards.
+* VFS developers should be able to "live" inside their module while developing it, including running specs.
+  * This will require that the SDK provide all the developer needs so that they don't need to reach out to the parent app codebase.
+
 
 ## Questions to discuss
 
