@@ -10,10 +10,8 @@
 
 ## Leadership Group
 
+- Create MVP cross-VSP backlog/priorities visualization to enable DSVA to understand bandwidth and now to priorities new work in real time.
 - Align VSP team on standardized core VSP product/process documentation (things like Epics, Issues, User Stories, Product Decisions, Product Outlines/README.mds)
-- Align on / agree on / groom high level NEXT and FUTURE roadmap items
-- Set up KR baselines
-- *Stretch: create high level ecosystem in ZenHub for seeing OKRs > epics > issues, and VFS teams (current and future) and their status/support levels*
 
 ## Experience Group
 
