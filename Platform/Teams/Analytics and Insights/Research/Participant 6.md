@@ -91,7 +91,7 @@ Okay, I am going to ask you to open the Education Product Health Analytics dashb
 - Do you know what you would expect to see?
     - No… I think I would want it but I'm not sure how it would work.
 
--I am going to switch over to a color coded version.
+- I am going to switch over to a color coded version.
     - [Switches tabs]
     - [P6 scrolls]
     - I don't think the colors are necessary in the status area. The symbols are fine. I don't really need symbol and word and color.
