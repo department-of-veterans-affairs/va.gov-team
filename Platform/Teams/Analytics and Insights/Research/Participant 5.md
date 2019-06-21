@@ -41,7 +41,7 @@ Product manager. Disability benefits form
 - Error rates
 - Average latency 
 - If success rate was better defined. As a total number, just not as a percentage. 
-- # of forms per week that were submitted. 
+- number of forms per week that were submitted. 
 - If we could get some of the paper metrics on a weekly basis
 - I’d be interested in CSAT scores
 - Funnel conversion, I look at it for my form. There are so many forks you can take. Hard to say it’s accurate. It’s a good indicator, but I wouldn’t say that number is true. I only say the last step, which is the most important to me. They made it all the way through, and actually submit the form. That’s the number I report out on. 
