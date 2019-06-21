@@ -8,7 +8,7 @@ Product manager. Disability benefits form
 - Better way to glance inside product
 - Asks for number of submission
 - Average time to complete
-- # of users who don’t complete
+- number of users who don’t complete
 
 ### Notifications: 
 - Anomalies in data, spike or drop in submissions
