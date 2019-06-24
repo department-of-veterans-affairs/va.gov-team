@@ -20,7 +20,7 @@
 - Roadmap
 
 ## Tools & Improvements
-- ?
+- Finish MVP starter app (with generator) for VFS teams
 - ?
 
 ## Triage
