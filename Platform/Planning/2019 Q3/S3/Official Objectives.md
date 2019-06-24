@@ -1,3 +1,6 @@
+# Sprint 3 Dates
+6/27/2019 - 7/9/2019
+
 ## Leadership
 - Propose system diagram for connecting objectives, to themes, to epics, to issues
 - Collect baseline KRs
