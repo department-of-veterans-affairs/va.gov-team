@@ -49,7 +49,7 @@
 * Provide Product Support contact information
 
 ### Additional considerations
-Consider including
+Consider including:
 * A way to facilitate getting quick access to necessary systems. How is this done today?
 * Identifying where connections to people at external services would be helpful. What are all of the external services?
 
@@ -78,7 +78,7 @@ Consider including
    * We may have to adjust our level of support. 
 * If there is a role that’s missing, are we expected to allocate a team member full time?
 
-### Scaling Onboarding
+### Scaling the onboarding process
 * If 5 teams start next week, do we have to schedule 5 individual kickoff meetings the same week?
 * How many kickoff meetings should we have per day?
 * Should we have breakout sessions on the same day as the kickoff?
