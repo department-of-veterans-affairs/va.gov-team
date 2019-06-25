@@ -31,7 +31,7 @@
 * Schedule kickoff presentation dry run
 * Refine presentation
 
-## Schedule meetings w/full VFA team, VA stakeholders, and VSP support team
+### Schedule meetings w/full VFA team, VA stakeholders, and VSP support team
 * Schedule kickoff meeting(s)
 * Schedule product team standups
    * One VSP member per standup (can we scale this back eventually?)
