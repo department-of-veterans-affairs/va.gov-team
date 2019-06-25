@@ -20,14 +20,19 @@
 - Roadmap
 
 ## Tools & Improvements
-- Finish MVP starter app (with generator) for VFS teams
-- ?
+- (Code isolation / best practices) Finish MVP starter app (with generator) for VFS teams
+- (Code isolation / best practices) Evaluating feature flag frameworks
+- MVP of Status page
+- Start implementation on automated banner for DS Logon outage
 
 ## Triage
-- ?
-- ?
+- Improved application-error metrics
+    - Getting FE & BE application errors more integrated with our existing on-call infrastructure & procedures
+    - Specifically: integrating Sentry with GitHub, defining triage procedure for Sentry, cleaning up Sentry items
 
 ## Operations
-- CMS something
-- VAEC something
-- ?
+- (Continuation) Determine LOE and timing of CMS infra/ops transition
+- CMS infrastructure move support (i.e. access models)
+- VAEC continuation. Moving Jenkins, tearing down old infrastructure.
+- Defining permission model for AWS and Terraform
+    - Currently it's mostly "admin or nothing". Want to look into IAM groups.
