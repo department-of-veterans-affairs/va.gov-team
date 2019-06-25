@@ -30,7 +30,7 @@
 - SLOs MVP: move into GitHub as formal advice
 - (Discovery) Vet360 identity API changes and any potential needs on our end
 - *(Stretch)* MVP of Status page for VA.gov stakeholders ([epic](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16757), [issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/341))
-- _Note: This is too much work for one sprint. We need DSVA to choose some things to deprioritize.
+- _Note: This is too much work for one sprint. We need DSVA to choose some things to deprioritize._
 
 ## Triage
 - Improve application error metrics
@@ -45,4 +45,4 @@
 - Access models for CMS infrastructure move
 - Coninue VAEC migration (moving Jenkins, tearing down old infrastructure)
 - Define permission model for AWS and Terraform (currently it's mostly "admin or nothing". Want to look into IAM groups.)
-- _Note: This is too much work for one sprint. We need DSVA to choose some things to deprioritize.
+- _Note: This is too much work for one sprint. We need DSVA to choose some things to deprioritize._
