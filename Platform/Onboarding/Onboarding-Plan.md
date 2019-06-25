@@ -1,7 +1,7 @@
 # VSA Onboarding Plan -- DRAFT
 
 ## Onboarding process
-1. Kickoff email to get team information, introduce the Product Support team, attach initial documentation
+1. Kickoff email to introduce the Product Support team, attach initial documentation
 1. Get information about their team and the project
 1. Add team to Slack and Github
 1. Schedule kickoff meetings (TBD)
