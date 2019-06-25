@@ -5,12 +5,14 @@
 - Fully update VSP Product Model
 - Propose system diagram for connecting objectives, to themes, to epics, to issues
 - Collect baseline KRs
-- (Problem statement) Difficulty knowing about longer-term tasks and how to plan them out
+- Suggest approach for solving: difficulty knowing how to prioritize and track one-off requests that aren't part of a larger epic, and esure they don't get lost but also don't distract a team from their current focus (unless necessary).
+
+- _Note: this ^ is too much work given that most of it is undere the Product umbrella and Rachael will be OOO a few days this sprint_
 
 ## Product Development Support
-- Moving `vets.gov-team` repo content (Product/Design?) to `va.gov-team`
-- Building out decks/agendas for practice-area-specific kickoffs
-- ?
+- Support VFS team product development needs
+- Move Product and Design content from `vets.gov-team` repo to `va.gov-team` w/o breaking links and w/o causing massive confusion for VFS teams (RR: should this wait for Ryan L to get back since it's part of the vision he was working on w/Emily?)
+- Build out decks/agendas for practice-area-specific kickoffs
 
 ## Insights & Analytics Support
 - Support VFS team analytics needs
@@ -29,17 +31,19 @@
 - SLOs MVP: move into GitHub as formal advice
 - (Discovery) Vet360 identity API changes and any potential needs on our end
 - *(Stretch)* MVP of Status page for VA.gov stakeholders ([epic](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16757), [issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/341))
+- _Note: This is too much work for one sprint. We need DSVA to choose some thing(s) to deprioritize.
+
 
 ## Triage
-- Improved application-error metrics
-    - Getting FE & BE application errors more integrated with our existing on-call infrastructure & procedures
-    - Specifically: integrating Sentry with GitHub, defining triage procedure for Sentry, cleaning up Sentry items
-- (Discovery) What are our communication channels with dependencies? How do we find out about issues, dependency upgrades, planned downtime?
+- Improve application error metrics
+    - Get FE & BE application errors more integrated with existing on-call infrastructure & procedures
+- Answer these questions: What are the communication channels we have access to for updates about the systems/APIs/services VA.gov and VSP depend on? How do we find out about issues, dependency upgrades, planned downtime?
 
 ## Operations
-- (Continuation) Determine LOE and timing of CMS infra/ops transition
+- Support VFS team operations needs
+- Finish determining LOE and timing of CMS infra/ops transition
 - Port remaining epics to `va.gov-team`
-- CMS infrastructure move support (i.e. access models)
-- VAEC continuation. Moving Jenkins, tearing down old infrastructure.
-- Defining permission model for AWS and Terraform
-    - Currently it's mostly "admin or nothing". Want to look into IAM groups.
+- Access models for CMS infrastructure move
+- Coninue VAEC migration (moving Jenkins, tearing down old infrastructure)
+- Define permission model for AWS and Terraform (currently it's mostly "admin or nothing". Want to look into IAM groups.)
+- _Note: This is too much work for one sprint. We need DSVA to choose some thing(s) to deprioritize.
