@@ -38,6 +38,7 @@
 
 ## Operations
 - (Continuation) Determine LOE and timing of CMS infra/ops transition
+- Port remaining epics to `va.gov-team`
 - CMS infrastructure move support (i.e. access models)
 - VAEC continuation. Moving Jenkins, tearing down old infrastructure.
 - Defining permission model for AWS and Terraform
