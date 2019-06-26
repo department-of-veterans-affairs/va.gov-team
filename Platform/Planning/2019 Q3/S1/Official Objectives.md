@@ -15,6 +15,7 @@
 - Move Product and Design content from `vets.gov-team` repo to `va.gov-team` w/o breaking links and w/o causing massive confusion for VFS teams (RR: should this wait for Ryan L to get back since it's part of the vision he was working on w/Emily?)
   - *** I think some discovery is necessary here, particularly to develop guidelines and address some questions raised by the team around security and design research/PII, how/if to handle engagement from the public, and other general uneasiness. I believe these will be straightforward to resolve, possibly by leaning on policies developed by teams like 18F and cloud.gov, but require some discovery and conversations with the team. I could help Emily with this - update: I see this is also in the content/IA team. (Leah)
 - Build out decks/agendas for practice-area-specific kickoffs
+- *** Not sure if we should add something for this team, since we're pausing on the repo move. This looks good, and the extra bandwidth could go into extra work on the onboarding decks/agendas. Once sprint starts, I'd like to sync with Emily to understand our current state and this work in a little more detail -- as well as some Lauren/Design transition questions.
 
 ## Insights & Analytics Support
 - Support VFS team analytics needs
