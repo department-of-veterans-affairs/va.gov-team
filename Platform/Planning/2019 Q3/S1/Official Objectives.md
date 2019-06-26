@@ -13,13 +13,14 @@
 ## Product Development Support
 - Support VFS team product development needs
 - Move Product and Design content from `vets.gov-team` repo to `va.gov-team` w/o breaking links and w/o causing massive confusion for VFS teams (RR: should this wait for Ryan L to get back since it's part of the vision he was working on w/Emily?)
-  - *** I think some discovery is necessary here, particularly to develop guidelines and address some questions raised by the team around security and design research/PII, how/if to handle engagement from the public, and other general uneasiness. I believe these will be straightforward to resolve, possibly by leaning on policies developed by teams like 18F and cloud.gov, but require some discovery and conversations with the team. I could work with Emily on this. (Leah)
+  - *** I think some discovery is necessary here, particularly to develop guidelines and address some questions raised by the team around security and design research/PII, how/if to handle engagement from the public, and other general uneasiness. I believe these will be straightforward to resolve, possibly by leaning on policies developed by teams like 18F and cloud.gov, but require some discovery and conversations with the team. I could help Emily with this - update: I see this is also in the content/IA team. (Leah)
 - Build out decks/agendas for practice-area-specific kickoffs
 
 ## Insights & Analytics Support
 - Support VFS team analytics needs
 - Deploy iteration of MVP Product Scorecard per user research findings
 - Start regular/proceduralized collection of available contact center data
+- *** Can we add 'start discovery to add Foresee to the MVP Product Scorecard'? This should be small, as the team just got access to the data, but I don't want to detract from contact center work. (Leah)
 
 ## Content & IA Support
 - Support VFS team content & IA needs
