@@ -17,6 +17,7 @@ When VSA is awarded, we will potentially have 4-5 teams start at the same time, 
 - Recommendation: Gameday scenario where we have roleplayers and mini onboarding sessions with the Product Support team
 
 **Risk:** We don’t have enough people on the Product Support team to support 4-5 new VFS teams. This creates risk of teams feeling isolated if they do not have support team members available, their work slowing and putting possible deadlines at risk. Also risking the quality of what will be delivered to Veterans. Risk of cutting corners with audits and testing if the team is spread thin.
+
 **What should we do about it?**
 - Recommendation: Stagger or stretch out the onboarding of the individual VSA teams. Don’t start them all at once, but bring them on 1 at a time (one per week?)
 - Recommendation: Exercise options to bring on more Product Support team members.  
