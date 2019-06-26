@@ -10,7 +10,7 @@ When VSA is awarded, we will potentially have 4-5 teams start at the same time, 
 - Recommendation: Identify and prioritize the most critical MVP items to develop to a more mature state prior to VSA teams starting, deprioritize other MVP items
 - Recommendation: Have Leadership team remove blockers from Product Support team so that they can shift focus to prioritizing critical MVP items
 
-**Risk:** We haven’t yet tested our onboarding MVP yet. We have And therefore haven’t iterated on it. It would be more ideal to test it with a smaller group (Insignia) and have the chance to rapidly iterate the tools and processes we’ve created so far before another batch of teams join.
+**Risk:** We haven’t yet tested our onboarding MVP yet. And therefore haven’t iterated on it. It would be more ideal to test it with a smaller group (Insignia) and have the chance to rapidly iterate the tools and processes we’ve created so far before another batch of teams join.
 
 **What should we do about it?**
 - Recommendation: Use previous VFS team work to test against MVP, mock walkthroughs of MVP items roleplaying as past teams (AbleVets, BAH, Agile6)
