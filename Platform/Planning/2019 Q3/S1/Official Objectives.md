@@ -28,7 +28,7 @@
 - (Code isolation / best practices) Evaluating feature flag frameworks
 - Start implementation on automated banner for DS Logon outage
 - SLOs MVP: move into GitHub as formal advice
-- (Discovery) Vet360 identity API changes and any potential needs on our end
+- (Discovery) Vet360 identity API changes and any potential needs on our end (https://github.com/department-of-veterans-affairs/va.gov-team/issues/325)
 - *(Stretch)* MVP of Status page for VA.gov stakeholders ([epic](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16757), [issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/341))
 - _Note: This is too much work for one sprint. We need DSVA to choose some things to deprioritize._
 
