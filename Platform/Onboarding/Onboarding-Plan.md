@@ -1,5 +1,30 @@
 # VSA Onboarding Plan -- DRAFT
 
+## Risks
+When VSA is awarded, we will potentially have 4-5 teams start at the same time, which is double the amount of teams we currently support. What kinds of risks does that introduce? How do we want to handle the risks?
+
+**Risk:** Our MVP isn’t fully formed yet. There are pieces that aren’t yet started, and we haven’t practiced or done dry runs yet. Onboarding 4-5 teams at once will put the MVPs at risk if the team doesn’t have the bandwidth to continue iterating on these items.
+
+**What should we do about it?**
+- Recommendation: Hold off on onboarding for another sprint to have more time to flesh out the MVP
+- Recommendation: Identify and prioritize the most critical MVP items to develop to a more mature state prior to VSA teams starting, deprioritize other MVP items
+- Recommendation: Have Leadership team remove blockers from Product Support team so that they can shift focus to prioritizing critical MVP items
+
+**Risk:** We haven’t yet tested our onboarding MVP yet. We have And therefore haven’t iterated on it. It would be more ideal to test it with a smaller group (Insignia) and have the chance to rapidly iterate the tools and processes we’ve created so far before another batch of teams join.
+
+**What should we do about it?**
+- Recommendation: Use previous VFS team work to test against MVP, mock walkthroughs of MVP items roleplaying as past teams (AbleVets, BAH, Agile6)
+- Recommendation: Gameday scenario where we have roleplayers and mini onboarding sessions with the Product Support team
+
+**Risk:** We don’t have enough people on the Product Support team to support 4-5 new VFS teams. This creates risk of teams feeling isolated if they do not have support team members available, their work slowing and putting possible deadlines at risk. Also risking the quality of what will be delivered to Veterans. Risk of cutting corners with audits and testing if the team is spread thin.
+**What should we do about it?**
+- Recommendation: Stagger or stretch out the onboarding of the individual VSA teams. Don’t start them all at once, but bring them on 1 at a time (one per week?)
+- Recommendation: Exercise options to bring on more Product Support team members.  
+- Recommendation: Batch sessions of training for VSA teams - for example, “lunch and learn” for 508 and accessibility.
+- Recommendation: Capture training and onboarding sessions on video that would allow us to scale more quickly. Harry has already recorded an Engineering Best Practices video, we could record similar sessions for other practice areas and work practices.
+- Recommendation: Set up practice area-specific office hours. When they need us, they come to us during specific, dedicated times per week.
+- Recommendation: Assign one Product Support team member to each VSA team (rather than the full team supporting each VSA team).
+
 ## Onboarding process
 1. Kickoff email to introduce the Product Support team, attach initial documentation
 1. Get information about their team and the project
