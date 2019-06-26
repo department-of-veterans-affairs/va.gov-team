@@ -1,4 +1,4 @@
-# RFC 003 - Internal Tools Access
+# RFC-003 - Internal Tools Access
 
 - Date: 2019-06-18
 - Related issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/108
