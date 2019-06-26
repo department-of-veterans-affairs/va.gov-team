@@ -48,6 +48,7 @@
 - Answer these questions: what are the risks w/an open source repo, and how do we handle? What kinds of info should we not store in the public repo, and where should we store it instead?
 - Finish determining LOE and timing of CMS infra/ops transition
 - Port remaining epics to `va.gov-team`
+  - *** Dependent on discovery work on public/private repo guidance
 - Access models for CMS infrastructure move
 - Coninue VAEC migration (moving Jenkins, tearing down old infrastructure)
 - Define permission model for AWS and Terraform (currently it's mostly "admin or nothing". Want to look into IAM groups.)
