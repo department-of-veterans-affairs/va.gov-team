@@ -6,6 +6,7 @@
 - Propose system diagram for connecting objectives, to themes, to epics, to issues
 - Collect baseline KRs
 - Suggest approach for solving: difficulty knowing how to prioritize and track one-off requests that aren't part of a larger epic, and esure they don't get lost but also don't distract a team from their current focus (unless necessary).
+  - *** can we stick with the approach discussed in our tues mtg (use #platform-leads) for now and see how that works?
 - _Note: this ^ is too much work given that most of it is undere the Product umbrella and Rachael will be OOO a few days this sprint. What one item should we deprioritize?_
 
 ## Product Development Support
@@ -28,7 +29,9 @@
 - (Code isolation / best practices) Evaluating feature flag frameworks
 - Start implementation on automated banner for DS Logon outage
 - SLOs MVP: move into GitHub as formal advice
+  - *** these are in good shape, just need to be cleaned up and published. we can take it off this sprint and DSVA (PB is happy to be responsible for it) will handle.
 - (Discovery) Vet360 identity API changes and any potential needs on our end (https://github.com/department-of-veterans-affairs/va.gov-team/issues/325)
+  - *** the issue suggests that no changes will be needed on our end. maybe we remove this one from S3 and have DSVA (PB can take the lead) dig a little more? if we do need to update our integration, we’ll have at least 1.5 sprints to get it done.
 - *(Stretch)* MVP of Status page for VA.gov stakeholders ([epic](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16757), [issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/341))
 - _Note: This is too much work for one sprint. We need DSVA to choose some things to deprioritize._
 
