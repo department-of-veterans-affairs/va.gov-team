@@ -4,6 +4,7 @@
 ## Leadership
 - Fully update VSP Product Model
 - Propose system diagram for connecting objectives, to themes, to epics, to issues
+  - *** I think we can deprioritize this -- fully updating the product model - especially the Status & Backlog tab - should get most of what we need, and we can re-examine this need for next sprint.
 - Collect baseline KRs
 - Suggest approach for solving: difficulty knowing how to prioritize and track one-off requests that aren't part of a larger epic, and esure they don't get lost but also don't distract a team from their current focus (unless necessary).
   - *** can we stick with the approach discussed in our tues mtg (use #platform-leads) for now and see how that works?
@@ -12,6 +13,7 @@
 ## Product Development Support
 - Support VFS team product development needs
 - Move Product and Design content from `vets.gov-team` repo to `va.gov-team` w/o breaking links and w/o causing massive confusion for VFS teams (RR: should this wait for Ryan L to get back since it's part of the vision he was working on w/Emily?)
+  - *** I think some discovery is necessary here, particularly to develop guidelines and address some questions raised by the team around security and design research/PII, how/if to handle engagement from the public, and other general uneasiness. I believe these will be straightforward to resolve, possibly by leaning on policies developed by teams like 18F and cloud.gov, but require some discovery and conversations with the team. I could work with Emily on this. (Leah)
 - Build out decks/agendas for practice-area-specific kickoffs
 
 ## Insights & Analytics Support
