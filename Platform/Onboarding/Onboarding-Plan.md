@@ -99,7 +99,7 @@ Consider including:
    * Andrew drafted launch criteria: https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Launch%20Process/overview.md
    * Harry is working on the engineering best practices presentation (which addresses things that should be in place prior to launch): https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/engineering-best-practices.md
    
-### Team structure
+### VSA team structure
 * If a team’s structure doesn’t match the handbook, what do we do?
    * We may have to adjust our level of support. 
 * If there is a role that’s missing, are we expected to allocate a team member full time?
