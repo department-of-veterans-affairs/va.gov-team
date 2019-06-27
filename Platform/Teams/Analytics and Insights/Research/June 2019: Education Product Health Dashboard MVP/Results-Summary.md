@@ -61,15 +61,14 @@ Using [session notes](https://github.com/department-of-veterans-affairs/va.gov-t
 
 ### Product Health Dashboard Expectations
 Product owners expect the Product Health Dashboard to:
-* Allow them to get a sense of how things are doing through multiple channels (Call centers, Grifana/uptime, Google analytics)
-* Understand the overall availability and success of a product
-* Automatically update/refresh data
-* Allows them to track the time and ease it takes for people to use the tool
-* Allows them to drill in to get more detail
-* Allows them to understand when the user experience needs improvement or has improved
+* allow them to get a sense of how things are doing through multiple channels (Call centers, Grifana/uptime, Google analytics)
+* understand the overall availability and success of a product
+* automatically update/refresh data
+* allow them to drill in to get more detail
+* allow them to understand when the user experience needs improvement or has improved
 
 #### Access
-1. All product owners thought that Product Health Dashboard should be public-facing, or shared publicly as a scorecard that tells a story. 
+1. All product owners thought that Product Health Dashboard should be public-facing or shared publicly as a scorecard (as a separate product.) 
 1. Most product owners expected the Product Health Dashboard to exist as an app that they can log in to. (Not Google Sheets)
 
 #### Notifications
@@ -148,7 +147,7 @@ We showed three dashboard variations to participants. Each dashboard communicate
 * 1 participant preferred the icons + color version.
 * 1 participant preferred the emoji version for the Product Health sections and the icons + color version for the Product Status section.
 
-**Recommendation**: Use a combo of the icons + color and color-gradient version since so that the dashboards are accessible. 
+**Recommendation**: Consider combining the icons + color and color-gradient versions so that the dashboards are accessible. 
 
 
 
