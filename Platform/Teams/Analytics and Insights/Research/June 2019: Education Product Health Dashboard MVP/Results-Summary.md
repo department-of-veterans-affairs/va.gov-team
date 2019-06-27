@@ -101,8 +101,8 @@ In the Weekly and Monthly Product Health sections, the following items were not 
 ### Tooltips
 Most participants found the tooltips generally helpful when they were not sure about a label.
 
-### Most Helpful Analtyics
-Participants called out the following as the most helpful metrics on the Weekly/Month Product Health views:
+### Most Valuable Analtyics
+Participants called out the following as the most valuable/helpful metrics on the Weekly/Month Product Health views:
 * Offline vs. Online Submissions
 * Offline vs. Online to Benefits Receipt 
 * Funnel conversions
@@ -138,7 +138,17 @@ Some participants didn't notice the Support Contact information.
 
 **Recommendation:** Consider allowing users to export the dashboard and individual charts as PNGs, JPGs, and PDFs.
 
+### Dashboard Versions
+We showed three dashboard variations to participants. Each dashboard communicated items that were doing well vs. needing attention in different ways:
+1. Icons + Color 
+2. Color gradients
+3. Emojis
 
+* 4/6 participants perferred the color gradient version.
+* 1 participant preferred the icons + color version.
+* 1 participant preferred the emoji version for the Product Health sections and the icons + color version for the Product Status section.
+
+**Recommendation**: Use a combo of the icons + color and color-gradient version since so that the dashboards are accessible. 
 
 
 
