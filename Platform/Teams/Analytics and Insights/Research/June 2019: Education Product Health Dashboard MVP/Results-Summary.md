@@ -97,5 +97,15 @@ Participants called out the following as the most helpful metrics on the Weekly/
 ### Missing Metrics
 
 
+### Finding Support Contact Info
+Some participants didn't notice the Support Contact information.
+
+**Recommendation**: Place Support Contact information in a visible and consistent place. 
+
+### Sharing
+* Participants regularly share insights and analytics with leadership via PowerPoint, Excel, and Slack.
+* Ultimately, insights and analytics should tell the story of how our work impacts Veterans.
+
+
 
 
