@@ -51,21 +51,36 @@ Sessions were conducted online using Zoom.
 
 [The conversation guide can be found here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Analytics%20and%20Insights/Research/June%202019:%20Education%20Product%20Health%20Dashboard%20MVP/conversation-guide.md)
 
+## Synthesis
+Using [session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Platform/Teams/Analytics%20and%20Insights/Research/June%202019:%20Education%20Product%20Health%20Dashboard%20MVP/Notes), we created an affinity map to surface themes, pain points, and opportunties/recommendations.
+![Affinity Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Analytics%20and%20Insights/Research/June%202019:%20Education%20Product%20Health%20Dashboard%20MVP/VSP%20-%20Education%20Dashboard%20Research%20Synthesis.jpg)
+
+[The Miro board can be found here.](https://miro.com/welcomeonboard/XPrfWVpMw135NjvYzRO0ISMZgihqWhWZa5pg9IGIHuhN0Dh6wRsNDefXa0iAEUA8) 
+
 ## Insights & Recommendations
 
-### Access
+### Product Health Dashboard Expectations
+Product owners expect the Product Health Dashboard to:
+* Allow them to get a sense of how things are doing through multiple channels (Call centers, Grifana/uptime, Google analytics)
+* Understand the overall availability and success of a product
+* Automatically update/refresh data
+* Allows them to track the time and ease it takes for people to use the tool
+* Allows them to drill in to get more detail
+* Allows them to understand when the user experience needs improvement or has improved
+
+#### Access
 1. All product owners thought that Product Health Dashboard should be public-facing, or shared publicly as a scorecard that tells a story. 
 1. Most product owners expected the Product Health Dashboard to exist as an app that they can log in to. (Not Google Sheets)
 
-### Notifications
+#### Notifications
 1. Most product owners want to be notified about important Product Health updates via Slack. 
    * Some P.O.s were concerned that notifications would get lost if they were too frequent or not posted to a relevant  Slack channel. 
    * One person wanted to received notifications about important Product Health updates via email. 
-2. Product owners were interested in receiving notifications when there are:
+1. Product owners were interested in receiving notifications when there are:
    * anomalies in data
    * spikes or drops in submissions
    * increased error rates
-3. Product owners were also interested in receiving notifications when 3rd party systems go down or have issues.
+1. Product owners were also interested in receiving notifications when 3rd party systems go down or have issues.
 
 ### Terminology
 Some of the metric labels and tooltips were not clear. 
@@ -86,7 +101,7 @@ In the Weekly and Monthly Product Health sections, the following items were not 
 ### Tooltips
 Most participants found the tooltips generally helpful when they were not sure about a label.
 
-### Most Helful Metrics
+### Most Helpful Analtyics
 Participants called out the following as the most helpful metrics on the Weekly/Month Product Health views:
 * Offline vs. Online Submissions
 * Offline vs. Online to Benefits Receipt 
@@ -94,7 +109,22 @@ Participants called out the following as the most helpful metrics on the Weekly/
 * Error rate
 * CSAT
 
-### Missing Metrics
+### Missing Items
+Participants called out the following as missing items that would helpful to them in their role as a product owner:
+
+#### Analytics
+* Traffic spikes
+* Bounce rates
+* 3rd party service statuses
+* Last updated
+
+#### Features
+* Custom date ranges
+* Comparisons: Over time, usage (seasonal conversion rate, call center vs. usage) 
+* Ability to add a note that an issue has been addressed
+
+#### Products
+* GI Bill Comparison tool 
 
 
 ### Finding Support Contact Info
@@ -105,6 +135,10 @@ Some participants didn't notice the Support Contact information.
 ### Sharing
 * Participants regularly share insights and analytics with leadership via PowerPoint, Excel, and Slack.
 * Ultimately, insights and analytics should tell the story of how our work impacts Veterans.
+
+**Recommendation:** Consider allowing users to export the dashboard and individual charts as PNGs, JPGs, and PDFs.
+
+
 
 
 
