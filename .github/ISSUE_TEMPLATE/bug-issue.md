@@ -1,7 +1,10 @@
 ---
 name: Bug Template
 about: For filing bugs found on VSP
+title: ''
 labels: bug
+assignees: ''
+
 ---
 
 ## What happened?

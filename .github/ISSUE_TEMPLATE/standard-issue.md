@@ -1,6 +1,10 @@
 ---
 name: Standard Issue Template
 about: For filing standard issues on VSP.
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## User Story
