@@ -1,6 +1,10 @@
 ---
 name: Epic Template
 about: For filing Epics on VSP
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## High Level User Story
