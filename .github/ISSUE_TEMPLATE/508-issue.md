@@ -2,7 +2,7 @@
 name: 508 Accessibility
 about: To describe issues related to Section 508 Accessibility Standards
 title: ''
-labels: '508/Accessibility'
+labels: 508/Accessibility
 assignees: ''
 
 ---
