@@ -1,5 +1,7 @@
 # VA.gov Brand Consolidation MVP Content Approvals
 
+This file documents content approvals from the start of brand consolidation efforts through parity and rewriting efforts. 
+
 ## Hub Pages and Related Content
 
 | Page Title (URL) | Admin | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
