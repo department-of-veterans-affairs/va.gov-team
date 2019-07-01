@@ -68,18 +68,18 @@ Product owners expect the Product Health Dashboard to:
 * allow them to understand when the user experience needs improvement or has improved
 
 #### Access
-1. All product owners thought that Product Health Dashboard should be public-facing or shared publicly as a scorecard (as a separate product.) 
-1. Most product owners expected the Product Health Dashboard to exist as an app that they can log in to. (Not Google Sheets)
+* All product owners thought that Product Health Dashboard should be public-facing or shared publicly as a scorecard (as a separate product.) 
+* Most product owners expected the Product Health Dashboard to exist as an app that they can log in to. (Not Google Sheets)
 
 #### Notifications
-1. Most product owners want to be notified about important Product Health updates via Slack. 
+* Most product owners want to be notified about important Product Health updates via Slack. 
    * Some P.O.s were concerned that notifications would get lost if they were too frequent or not posted to a relevant  Slack channel. 
    * One person wanted to received notifications about important Product Health updates via email. 
-1. Product owners were interested in receiving notifications when there are:
+* Product owners were interested in receiving notifications when there are:
    * anomalies in data
    * spikes or drops in submissions
    * increased error rates
-1. Product owners were also interested in receiving notifications when 3rd party systems go down or have issues.
+* Product owners were also interested in receiving notifications when 3rd party systems go down or have issues.
 
 ### Terminology
 Some of the metric labels and tooltips were not clear. 
