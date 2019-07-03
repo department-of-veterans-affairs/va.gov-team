@@ -31,3 +31,22 @@ _Helpful_
       - Data supports that the personalized form process helps cut down on claims cycle time
   - Data supports assumption that supports the assumption that va.gov saves VA money and improves the Veteran experience (shoretened cycle time)
   - Data supports product decision to continue building to support more use cases on the Claims app
+
+
+## Meeting with Claims PM - 7/3/19
+_How PM was able to get Claims data_
+ - Consistent communication with data owners
+ - Create tag/ attribute for data needed. Get data tagged properly to receive consistent data each time it is pulled
+ - Have an internal key stakeholder with a great understanding of the data
+ - Data request process perspective
+    - Will most likely need some some sort of data sharing agreement
+    - Keep in mind that the process to request date + access to databases may take a while
+    - Work with someone within the specific department to request data - someone with actual (i.e. VBA) tagline in their email
+    - Sometimes data extracts that are supposed to be recurring only end up getting sent once (be sure to follow up)
+    
+_Claims Data_
+ - <a href="https://paicustomerportal.vba.va.gov"</a> (note: links are on the VA network, and cannot be accessed in Chrome)
+ - Coprorate Database Utilities: <a href="http://vbacoda.vba.va.gov/plsql/desc_util.startup"></a> 
+ - Now everyone who works in these DBs are using tech jargon (I.e. Chapter 103, vs. 190)
+ - Reports: <a href="https://vbaw.vba.va.gov/PAI/ReportsList.asp"></a> (shouldn’t need access to Tableau to tap into this)
+
