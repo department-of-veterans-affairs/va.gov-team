@@ -6,7 +6,7 @@
 - Google Analytics
 
 _Information Funnel for PA&I Data:_ Speak to Claims Product Owner
-  - It's been a difficult process and will take some time - data aggregation is very manual and high effort for the contacted group
+  - Data aggregation is very manual and high effort for the contacted group
   - Continuous biweekly emails from the Claims product team. Individually maintained by the Product Owner.
   
 **Received Data**
