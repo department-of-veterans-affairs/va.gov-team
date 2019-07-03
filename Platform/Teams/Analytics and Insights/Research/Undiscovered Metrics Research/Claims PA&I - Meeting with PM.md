@@ -45,7 +45,7 @@ _How PM was able to get Claims data_
     - Sometimes data extracts that are supposed to be recurring only end up getting sent once (be sure to follow up)
     
 _Claims Data_
- - [https://paicustomerportal.vba.va.gov](note: links are on the VA network, and cannot be accessed in Chrome)
+ - [https://paicustomerportal.vba.va.gov] (note: links are on the VA network, and cannot be accessed in Chrome)
  - Coprorate Database Utilities: [http://vbacoda.vba.va.gov/plsql/desc_util.startup]
  - Now everyone who works in these DBs are using tech jargon (I.e. Chapter 103, vs. 190)
  - Reports: [https://vbaw.vba.va.gov/PAI/ReportsList.asp] (shouldn’t need access to Tableau to tap into this)
