@@ -45,8 +45,8 @@
 - Answer these questions: What are the communication channels we have access to for updates about the systems/APIs/services VA.gov and VSP depend on? How do we find out about issues, dependency upgrades, planned downtime?
 
 ## Operations
-- Support VFS team operations needs
-- Answer these questions: what are the risks w/an open source repo, and how do we handle? What kinds of info should we not store in the public repo, and where should we store it instead?
+- Support VFS team operations needs (including CMS)
+- Reframe risks with issues in public repos with proposal for DSVA to analyze
 - Finish determining LOE and timing of CMS infra/ops transition
 - Port remaining epics to `va.gov-team`
   - *** Dependent on discovery work on public/private repo guidance
@@ -54,3 +54,5 @@
 - Coninue VAEC migration (moving Jenkins, tearing down old infrastructure)
 - Define permission model for AWS and Terraform (currently it's mostly "admin or nothing". Want to look into IAM groups.)
 - _Note: This is too much work for one sprint. We need DSVA to choose some things to deprioritize._
+- Continue VAEC migration (moving Jenkins, tearing down old infrastructure)
+- Define permission model for AWS and Terraform (currently it's mostly "admin or nothing". Want to look into IAM groups. Prerequisite for CMS Infrastructure move.)
