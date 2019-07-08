@@ -20,6 +20,7 @@ https://zoom.us/j/722853312
         * Forum for VFS team questions
         * Big-picture presentations: "what's the context, how did we get here" with demo
         * VFS: presenting initial project, looking for feedback
+        * VSP devs giving tours of areas of the code that they are experts in, or quite familiar with (i.e. how the user object works, our identity process, SSO/SAML, our redis cache aside pattern, our common client inheritance classes, etc., etc.)
     * Possible schedule over time
 * [Andrew] Introduce eng team structure + leads
 * [Andrew] Support responsibilities (CMS, code review, etc.)
