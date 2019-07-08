@@ -15,7 +15,7 @@ When we get an alert in the Slack channel, the on-point engineer will triage the
 - Mark as "ignored" or "resolved" in Sentry
 - Create a GitHub issue for the Sentry issue
 
-Regardless of the action taken, the engineer will state what they did in a thread.
+Stating the action taken by way of Slack thread and/or Sentry Issue comment is encouraged. This helps indicate to others that this Sentry Alert has been looked at.
 
 ### Getting help
 If the on-point engineer doesn't know how to effectively triage the issue (for example, if they don't know how to assess the user impact), they're encouraged to reach out to the other Triage engineers for guidance.
