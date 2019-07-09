@@ -1,14 +1,11 @@
 ---
 name: 508 Accessibility
 about: To describe issues related to Section 508 Accessibility Standards
-title: ''
 labels: 508/Accessibility
-assignees: ''
 
 ---
 
-# Issue Title
-<!-- 
+<!--Issue Title 
 [ERROR TYPE]: 
 Brief description of error. I like to use the following for the error
 type. They are a help for searching and sorting issues.
@@ -18,9 +15,18 @@ type. They are a help for searching and sorting issues.
 [AXE-CORE]:
 [COGNITION]:
 [COLOR]:
+-->
+
+<!-- Labeling
+If this issue is being opened by an external team, please add the `triage-incident` label.
+-->
 
 ## Issue
 <!-- This is a detailed description of the issue. It should include a restatement of the issue title, and provide more background information. -->
+
+## Point of Contact
+<!-- If this issue is being opened by an external team, please add a point of contact. Usually this is the same person who enters the issue ticket.
+-->
 
 ## Acceptance Criteria
 <!-- As a keyboard user, I want to open the Level of Coverage widget by pressing Spacebar or pressing Enter. These keypress actions should not interfere with the mouse click event also opening the widget. -->
