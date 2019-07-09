@@ -8,7 +8,7 @@ Triaging all the issues that come in is a team effort, but a little leadership g
 We'll give this process a test run by triaging Sentry alerts in the `#vetsgov-sentry-alerts` Slack channel.
 
 ## Responsibilities
-When we get an alert in the Slack channel, the on-point engineer will triage the issue by doing any of the following:
+When we get an alert in the `#vetsgov-sentry-alerts` Slack channel, the on-point engineer will triage the issue by doing any of the following:
 
 - Tweak the alert rule
 - Make the code fix
