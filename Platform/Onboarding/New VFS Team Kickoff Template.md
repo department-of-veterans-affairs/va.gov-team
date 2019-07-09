@@ -13,14 +13,23 @@
 - What now? (send us team names + emails so we can grant access to things. join Slack channels and accept cal invites. review launch criteria in more detail, )
 
 ## Engineering Breakout Kickoff Agenda
-`[coming soon]`
-- coding best practices
-- small PRs
-- avg weekly deploys
-- 
+- Tours of communication tools (Slack, Zenhub, Github)
+- Setting up a development environment
+- Infrastructure walkthrough (Front-end, Back-end)
+- Login process
+- Coding best practices
+- Questions and discussion
 
 ## Design Breakout Kickoff Agenda
-`[coming later]`
+- Who we are (more in-depth intros)
+- How we'll work together
+- Tours of communication tools (Slack, Zenhub, Github)
+- How we UX (process walkthrough)
+  - Research & Discovery
+  - Design
+  - Content
+  - 508 & Accessibility
+- Questions and discussion
 
 ## Product Breakout Kickoff Agenda
 `[coming later]`
