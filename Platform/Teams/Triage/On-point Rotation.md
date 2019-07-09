@@ -22,7 +22,7 @@ If the on-point engineer doesn't know how to effectively triage the issue (for e
 
 
 ## Schedule
-The on-point responsibilities are rotated among the engineers of the Triage team on a weekly basis.
+The on-point responsibilities are rotated among the engineers of the Triage team on a weekly basis. Weeks are defined as beginning on Monday and encompass only business hours.
 
 **Rotation:**
 - Chris Valarida
