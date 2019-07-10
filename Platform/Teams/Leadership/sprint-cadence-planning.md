@@ -13,10 +13,11 @@
 - **4-5pm ET:** Tag-up with DSVA and leadership to review current sprint
 
 #### Tuesday
-- Team Oddball creates sprint objectives incorporating the feedback from teams
-- **Time TBD**: 1 hr tag-up with DSVA and leadership to get feedback on sprint objectives
+- Team Oddball creates next sprint's objectives incorporating the feedback from teams
+- **Time TBD**: 1 hr tag-up with DSVA and leadership to get feedback and sign-off on next sprint's objectives
+- Team Oddball shares approved sprint objectives with teams asynchronously
 
 #### Wednesday
-- Team Oddball submits sprint report (from current sprint)
+- **AM:** Team Oddball submits sprint report (from current sprint)
 - Product teams conduct sprint planning throughout the day
 - **3-4pm ET:** Product teams demo work 
