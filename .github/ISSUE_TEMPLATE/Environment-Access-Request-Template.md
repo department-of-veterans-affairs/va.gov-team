@@ -2,7 +2,7 @@
 name: Environment Access Request Template
 about: To request access to dev tools
 title: Access for [individual]
-labels: external-request
+labels: external-request, operations
 
 ---
 
