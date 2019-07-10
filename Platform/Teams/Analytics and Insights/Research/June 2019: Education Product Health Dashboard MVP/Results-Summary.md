@@ -71,6 +71,12 @@ Product owners expect the Product Health Dashboard to:
 * All product owners thought that Product Health Dashboard should be public-facing or shared publicly as a scorecard (as a separate product.) 
 * Most product owners expected the Product Health Dashboard to exist as an app that they can log in to. (Not Google Sheets)
 
+### Sharing
+* Participants regularly share insights and analytics with leadership via PowerPoint, Excel, and Slack.
+* Ultimately, insights and analytics should tell the story of how our work impacts Veterans.
+
+**Recommendation:** Consider allowing users to export the dashboard and individual charts as PNGs, JPGs, and PDFs.
+
 #### Notifications
 * Most product owners want to be notified about important Product Health updates via Slack. 
    * Some P.O.s were concerned that notifications would get lost if they were too frequent or not posted to a relevant  Slack channel. 
@@ -100,7 +106,7 @@ In the Weekly and Monthly Product Health sections, the following items were not 
 ### Tooltips
 Most participants found the tooltips generally helpful when they were not sure about a label.
 
-### Most Valuable Analtyics
+### Most Valuable Analytics
 Participants called out the following as the most valuable/helpful metrics on the Weekly/Month Product Health views:
 * Offline vs. Online Submissions
 * Offline vs. Online to Benefits Receipt 
@@ -130,12 +136,6 @@ Participants called out the following as missing items that would helpful to the
 Some participants didn't notice the Support Contact information.
 
 **Recommendation**: Place Support Contact information in a visible and consistent place. 
-
-### Sharing
-* Participants regularly share insights and analytics with leadership via PowerPoint, Excel, and Slack.
-* Ultimately, insights and analytics should tell the story of how our work impacts Veterans.
-
-**Recommendation:** Consider allowing users to export the dashboard and individual charts as PNGs, JPGs, and PDFs.
 
 ### Dashboard Versions
 We showed three dashboard variations to participants. Each dashboard communicated items that were doing well vs. needing attention in different ways:
