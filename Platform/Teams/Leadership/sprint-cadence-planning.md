@@ -14,7 +14,7 @@
 
 #### Tuesday
 - Team Oddball creates next sprint's objectives incorporating the feedback from teams
-- **Time TBD**: 1 hr tag-up with DSVA and leadership to get feedback and sign-off on next sprint's objectives
+- **1-2pm ET**: Tag-up with DSVA and leadership to get feedback and sign-off on next sprint's objectives
 - Team Oddball shares approved sprint objectives with teams asynchronously
 
 #### Wednesday
