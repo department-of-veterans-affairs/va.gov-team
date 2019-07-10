@@ -9,7 +9,7 @@
 ## Week 2: Sprint planning 
 
 #### Monday
-- **AM:** Team Oddball solicits ideas from teams for sprint objective ideas asynchronously
+- **AM:** Team Oddball asynchronously solicits ideas for next sprint's objectives from teams (eng leads and PMs)
 - **4-5pm ET:** Tag-up with DSVA and leadership to review current sprint
 
 #### Tuesday
