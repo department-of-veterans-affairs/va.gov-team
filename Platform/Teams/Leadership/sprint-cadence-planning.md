@@ -1,12 +1,12 @@
 # Sprint Cadence Planning
 
-## Week 1: Non-sprint planning
+## Non-sprint planning week
 
 #### Wednesday
 - Rachael checks in with PMs on current sprint progress
 - **3:30-4:30pm ET:** Tag-up with DSVA and leadership to review sprint progress
 
-## Week 2: Sprint planning 
+## Sprint planning week
 
 #### Monday
 - **AM:** Team Oddball asynchronously solicits ideas for next sprint's objectives from teams (eng leads and PMs)
