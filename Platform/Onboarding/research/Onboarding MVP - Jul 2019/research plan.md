@@ -24,9 +24,9 @@ After the onboarding process is complete, we want new teams to:
 - Emily and Layla both to be present if possible at all onboarding meetings - we can facilitate the discussion questions in each one
 
 ### Draft surveys
-* [All team onboarding kickoff survey]()
-* [Development onboarding kickoff survery]()
-* [UX onboarding kickoff survey]()
+* [All team onboarding kickoff survey](https://adhoc.optimalworkshop.com/questions/full-team-onboarding)
+* [Development onboarding kickoff survery](https://adhoc.optimalworkshop.com/questions/dev-onboarding)
+* [UX onboarding kickoff survey](https://adhoc.optimalworkshop.com/questions/ux-onboarding)
 
 ## Participants
 Participants will be members of the first onboarding team.
