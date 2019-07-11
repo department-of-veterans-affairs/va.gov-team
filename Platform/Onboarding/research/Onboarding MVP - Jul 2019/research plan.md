@@ -1,7 +1,7 @@
 # Research plan (draft)
 We are planning to run our first onboarding sessions with a new external team. We want to understand what's working in the MVP onboarding process and what can be improved.
 
-## Onboarding goals
+### Onboarding goals
 After the onboarding process is complete, we want new teams to:
 
 - follow VA guidelines (PR reviews, design system)
