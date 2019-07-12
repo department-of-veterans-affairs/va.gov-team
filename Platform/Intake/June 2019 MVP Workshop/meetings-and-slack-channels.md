@@ -1,17 +1,15 @@
-# Meetings and Slack channels for practice areas [DRAFT]
-
-This document is a draft list of the meetings and slack channels that should be given to VFS teams during onboarding. Here is the [Zenhub ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/203) that outlines the user story for this document.
+# Meetings and Slack channels for practice areas
 
 ## Meetings
 
 #### How to get added to the meeting invites
-TBD! Need to define this process.
+Prior to onboarding, VFS teams will be asked to send over a list of team member contact information. Once the Platform team gets the team's contact information, the Product Support team will send meeting invitations.
 
 #### VA.gov Weekly Design + Content + Research sync
 
 - **Practice areas**: Accessibility, content, design, IA, research
 - **When**: Mondays from 1-2pm ET
-- **Owner**: Lauren Alexanderson
+- **Owner**: Emily Waggoner
 
 #### VA.gov Content Weekly Sync
 
