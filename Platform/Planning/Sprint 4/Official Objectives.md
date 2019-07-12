@@ -1,16 +1,59 @@
 # Sprint 4
-Dates: 
+Dates: 2019-07-10 through 2019-07-23
 
 ## Leadership
+- Sync with VSA program to understand timeline and volume of support necessary
+- Sort out the Content & IA team responsibilities on VSA and VSP contracts
+    - Support for static content pages leading to tools
+    - Support / reviews for VA Content Owner work
+- Document + socialize the KRs we’re going to use going forward
+- Define work for Analytics team around Product Scorecard
 
-## Product Development Support
+## Product Support + Development
 
-## Insights & Analytics Support
+- User-test new onboarding with By Light
+- VFS product development support
 
-## Content & IA Support
+## Insights & Analytics
 
-## Tools & Improvements (1-2 too many objectives currently)
+- Product Health MVP
+    - Foresee incorporation (manual for now)
+    - KPIs for VSP Dashboard success
+    - Work throuhg design blockers on Product Health MVP
+- VFS Analytics Support
+- Processes & documentation discovery for Analytics Requests
+- _\[Stretch\]_ Add Claims product to Product Health Scorecard (iterating on MVP)
+
+## Content & IA
+
+- VFS content & IA support
+- Creating IA for new CMS templates
+- Propose approach for migrationg documentation to `va.gov-team` repo + review with DSVA
+- _\[Stretch\]_ Initial recommendations for "Portal" (single homepage/index for VFS team documentation)
+
+## Tools & Improvements
+
+- VFS Team Product Development Support
+- Launch automated DSLogon outage banner
+- Act upon evaluation of feature flag frameworks
+- Login flow inclusion on e2e tests for 1990
+- Improve test runtime for faster development / builds
+- Tooling for backend performance benchmarking
+- _\[Stretch\]_ Test full “demo/starter app” (incl FE) to build “hello world” app
+- _\[Stretch\]_ Status page (up/down indicators) for analytics dashboard
 
 ## Triage
 
+- Reconfigure PagerDuty teams for new VSP oncall rotations
+- Assign out triage backlog
+- Write RACI model for triage
+- Continue to document internal issue logging protocl
+    - Particularly: communication channels for updates about dependent systems. Planned downtime, API changes, etc.
+
 ## Operations
+
+- VFS Team Operations Support
+- Onboarding + offboarding documentation / consolidation
+- OAuth for VSP Access Management efficiency
+- CMS infrastructure migration support
+- Update platform dashboard for analytics reporting
