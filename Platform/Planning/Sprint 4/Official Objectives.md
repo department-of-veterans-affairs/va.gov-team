@@ -20,9 +20,9 @@ Dates: 2019-07-10 through 2019-07-23
     - Foresee incorporation (manual for now)
     - KPIs for VSP Dashboard success
     - Work throuhg design blockers on Product Health MVP
-- Add Claims product to Product Health Scorecard (iterating on MVP)
 - VFS Analytics Support
 - Processes & documentation discovery for Analytics Requests
+- _\[Stretch\]_ Add Claims product to Product Health Scorecard (iterating on MVP)
 
 ## Content & IA
 
