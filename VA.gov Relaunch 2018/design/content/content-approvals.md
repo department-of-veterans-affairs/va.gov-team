@@ -1,8 +1,8 @@
-# VA.gov Brand Consolidation MVP Content Approvals
+# VA.gov Brand Consolidation MVP content approvals
 
 This file documents content approvals from the start of brand consolidation efforts through parity and rewriting efforts. 
 
-## Hub Pages and Related Content
+## Hub pages and related content
 
 | Page Title (URL) | Admin | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
 | --- | --- | --- | --- | --- | --- | --- | --- |    
@@ -15,7 +15,7 @@ This file documents content approvals from the start of brand consolidation effo
 | [VA Housing Assistance hub](https://www.va.gov/housing-assistance/)| VBA | New Page | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> |  | Misty Sweet, Jennifer Rudisill | Changes received via meeting/email and addressed | [#10571](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/10571)|
 
 
-## New Authenticated Tools Pages & Other Pages Reworked to Align with Brand Consolidation IA
+## New authenticated tools pages and other pages reworked to align with Brand Consolidation IA
 | Page Title (URL) | Admin | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
 | --- | --- | --- | --- | --- | --- | --- | --- |    
 | [Refill and Track Prescriptions](https://preview.va.gov/va-payment-history/)| VHA | New Page | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 10.02.18 | Jennifer Heiland-Luedtke, Jeff Grandon, Chip Harman | Approved in meeting/via email  |[#16649](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16649) |
@@ -32,16 +32,13 @@ This file documents content approvals from the start of brand consolidation effo
 | [Check Your VA Claim or Appeal Status](https://va.gov/claim-or-appeal-status/)| VBA | New Page | <ul><li>[ ] In Review</li><li>[X] Approved As Is</li><li>[ ] Approved With Changes</li></ul> | 10.17.18 | Misty Sweet, Jennifer Rudisill, and team | Approved in meeting  |[#16649](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16649) |
 | [View Your VA Payment History](https://preview.va.gov/va-payment-history/)| VBA | New Page | <ul><li>[ ] In Review</li><li>[X] Approved As Is</li><li>[ ] Approved With Changes</li></ul> | 10.17.18 | Misty Sweet, Jennifer Rudisill, and team | Approved in meeting  |[#16649](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16649) |
 
-
-
-## Parity Work
-| Benefit Hub | Admin | Parity Deck | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |   
+## Parity work (work to ensure that Vets.gov pages migrated to VA.gov reflect all critical information from their legacy VA.gov page counterparts prior to the legacy pages being retired/redirected)
+| Benefit hub | Admin | Parity deck | Nature of changes | Approval status | Approval date | Approved by (SME) | Approval notes | Zenhub issue || --- | --- | --- | --- | --- | --- | --- | --- | --- |   
 | Health Care Section Section | VHA | Parity edits | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 11.01.18 | Jennifer Heiland-Luedtke, Jeff Grandon | Approved in meeting/via email | [#14734](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/14734), [#16651](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16651)|    
 | Disability Section | VBA | Parity edits | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 10.31.18 | Misty Sweet and team | --- | [#10567](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/10567)|    
 
-## Legacy Rewriting Work
-| Benefit Hub | Admin | Rewriting Deck | Nature of Changes | Approval Status | Approval Date | Approved By (SME) | Approval Notes | Zenhub Issue |
+## Legacy rewriting work (work to ensure that new VA.gov pages reflect all critical information from their legacy VA.gov page counterparts prior to the legacy pages being retired directed)
+| Benefit hub | Admin | Rewriting deck | Nature of changes | Approval status | Approval date | Approved by (SME) | Approval notes | Zenhub issue |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |      
 | Burials (Dependency and Indemnity Compensation only) | VBA |  |Rewriting pages for retire/redirect |  <ul><li>[X] In Review</li><li>[ ] Approved As Is</li><li>[ ] Approved With Changes</li></ul> | | | | [#18325](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/18325)
 
