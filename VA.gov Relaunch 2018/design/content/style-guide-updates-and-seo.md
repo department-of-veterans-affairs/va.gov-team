@@ -41,4 +41,3 @@ https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department
 The following ticket updated text in green and blue buttons across the site:
 https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/18996
 
-https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/19058 https://github.com/department-of-veterans-affairs/vagov-content/pull/137 
