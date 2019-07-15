@@ -17,7 +17,7 @@ This document tracks the status of each page that the content team has updated w
 
 ## Tracker
 
-| Hub | style guide updates | SEO | Related tickets |
+| Hub | style guide updates | SEO | Related tickets and/or notes |
 | --- | --- | --- | --- |
 | Health care | Complete | Complete | n/a |
 | Disability | Complete | ?? | tk |
