@@ -33,7 +33,8 @@ This file documents content approvals from the start of brand consolidation effo
 | [View Your VA Payment History](https://preview.va.gov/va-payment-history/)| VBA | New Page | <ul><li>[ ] In Review</li><li>[X] Approved As Is</li><li>[ ] Approved With Changes</li></ul> | 10.17.18 | Misty Sweet, Jennifer Rudisill, and team | Approved in meeting  |[#16649](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16649) |
 
 ## Parity work (work to ensure that Vets.gov pages migrated to VA.gov reflect all critical information from their legacy VA.gov page counterparts prior to the legacy pages being retired/redirected)
-| Benefit hub | Admin | Parity deck | Nature of changes | Approval status | Approval date | Approved by (SME) | Approval notes | Zenhub issue || --- | --- | --- | --- | --- | --- | --- | --- | --- |   
+| Benefit hub | Admin | Parity deck | Nature of changes | Approval status | Approval date | Approved by (SME) | Approval notes | Zenhub issue |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |   
 | Health Care Section Section | VHA | Parity edits | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 11.01.18 | Jennifer Heiland-Luedtke, Jeff Grandon | Approved in meeting/via email | [#14734](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/14734), [#16651](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16651)|    
 | Disability Section | VBA | Parity edits | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 10.31.18 | Misty Sweet and team |  | [#10567](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/10567)|    
 
