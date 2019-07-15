@@ -20,21 +20,14 @@ This document tracks the status of each page that the content team has updated w
 | Hub | style guide updates | SEO | Related tickets |
 | --- | --- | --- | --- |
 | Health care | Complete | Complete | n/a |
-| tk |
 | Disability | Complete | ?? | tk |
-| tk |
 | Education | Complete | ?? | tk |
-| tk |
 | Pension | Complete | ?? | tk |
-| tk |
 | Housing | Complete but not live yet | ?? | tk |
-| tk |
 | Life insurance | Complete | ?? | tk |
-| tk |
 | Careers and employment | Complete | ?? | tk |
-| tk |
 | Burials and memorials | Complete but not live yet | ?? | tk |
 
 **Note:** The following tickets were opened to implement style guide updates to forms and tools:
-https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/17827
+https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/17827 <br>
 https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/17884
