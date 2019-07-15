@@ -23,7 +23,7 @@ This document tracks the status of each page that the content team has updated w
 | Disability | Complete | ?? | tk | notes |
 | Education | Complete | ?? | tk | notes |
 | Pension | Complete | ?? | tk | notes |
-| Housing | Complete but not live yet | ?? | tk | notes |
+| Housing | Complete but not live yet | ?? | <ul> <li> https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/16294 </li><li> https://github.com/department-of-veterans-affairs/vagov-content/pull/325 </li></ul> | Style guide updates were implemented within the parity PR posted here (second link here). We're waiting for stakeholder parity approval. Style guide updates won't go live until the content gets published in the CMS. |
 | Life insurance | Complete | ?? | tk | notes |
 | Careers and employment | Complete | ?? | tk | notes |
 | Burials and memorials | Complete but not live yet | ?? | <ul> <li> https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/19058 </li><li> https://github.com/department-of-veterans-affairs/vagov-content/pull/137 </li></ul> | Style guide updates were implemented within the parity PR posted here (second link here). We're waiting for stakeholder parity approval. Style guide updates won't go live until the content gets published in the CMS. |
