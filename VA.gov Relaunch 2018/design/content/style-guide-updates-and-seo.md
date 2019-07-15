@@ -11,7 +11,7 @@ This document tracks the status of each page that the content team has updated w
 | No periods with text links | Periods ended all text links |
 | ET, CT, and PT | (ET), (CT), and (PT) |
 | (PDF) following text links pointing to PDFs | Previously we had no label | 
-| Sentence capping <ul> <li> H1s, H2s, H3s </li><li> left nav </li><li> breadcrumbs </li><li> related and major links at bottom of page </li><li> Right column callout headings and links </li></ul> |
+| Sentence capping <ul> <li> H1s, H2s, H3s </li><li> left nav </li><li> breadcrumbs </li><li> related and major links at bottom of page </li><li> Right column callout headings and links </li></ul> | Headline capping across the board | 
 | No 1- before area codes | All phone numbers were preceeded by 1 |
 | Hierarchy of subheads: H2-H3-H4 | Some pages didn't follow best practices |
 
