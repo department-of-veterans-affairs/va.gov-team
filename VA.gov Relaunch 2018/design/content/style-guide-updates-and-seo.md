@@ -17,16 +17,16 @@ This document tracks the status of each page that the content team has updated w
 
 ## Tracker
 
-| Hub | style guide updates | SEO | Related tickets and/or notes |
+| Hub | style guide updates | SEO | Related tickets | Notes |
 | --- | --- | --- | --- |
-| Health care | Complete | Complete | n/a |
-| Disability | Complete | ?? | tk |
-| Education | Complete | ?? | tk |
-| Pension | Complete | ?? | tk |
-| Housing | Complete but not live yet | ?? | tk |
-| Life insurance | Complete | ?? | tk |
-| Careers and employment | Complete | ?? | tk |
-| Burials and memorials | Complete but not live yet | ?? | tk |
+| Health care | Complete | Complete | n/a | notes |
+| Disability | Complete | ?? | tk | notes |
+| Education | Complete | ?? | tk | notes |
+| Pension | Complete | ?? | tk | notes |
+| Housing | Complete but not live yet | ?? | tk | notes |
+| Life insurance | Complete | ?? | tk | notes |
+| Careers and employment | Complete | ?? | tk | notes |
+| Burials and memorials | Complete but not live yet | ?? | https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/19058 <br> | Style guide updates were implemented within the parity PR posted here (second link here). We're waiting for stakeholder parity approval. Style guide updates won't go live until the content gets published in the CMS. |
 
 **Note:** The following tickets were opened to implement style guide updates to forms and tools:
 https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/17827 <br>
