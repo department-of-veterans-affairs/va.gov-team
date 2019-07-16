@@ -39,7 +39,5 @@ This file documents content approvals from the start of brand consolidation effo
 | Disability Section | VBA | Parity edits | <ul><li>[ ] In Review</li><li>[ ] Approved As Is</li><li>[X] Approved With Changes</li></ul> | 10.31.18 | Misty Sweet and team |  | [#10567](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/10567)|    
 
 ## Legacy rewriting work (work to ensure that new VA.gov pages reflect all critical information from their legacy VA.gov page counterparts prior to the legacy pages being retired directed)
-| Benefit hub | Admin | Rewriting deck | Nature of changes | Approval status | Approval date | Approved by (SME) | Approval notes | Zenhub issue |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |      
-| Burials (Dependency and Indemnity Compensation only) | VBA |  |Rewriting pages for retire/redirect |  <ul><li>[X] In Review</li><li>[ ] Approved As Is</li><li>[ ] Approved With Changes</li></ul> | | | | [#18325](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/vets.gov-team/18325)
 
+Please see related [legacy rewriting page tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/design/content/rewriting-page-tracker.md) for information.
