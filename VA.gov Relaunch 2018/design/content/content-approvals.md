@@ -40,6 +40,8 @@ This file documents content approvals from the start of brand consolidation effo
 | Burials Section | NCA | Parity edits | In review with stakeholders; clarification/call needed so they understand what they need to review. They reviewed ALL the content rather than just parity. Found inaccuracies. | Outstanding. | n/a | Jerry Sowders, Division Chief, Eligibility Verification and POC Scott Brunner | n/a | zenhub issue and PR
 | Housing Section | VBA | Parity edits | In review with stakeholders; clarification/call needed so they understand what they need to review. They reviewed ALL the content rather than just parity. Found inaccuracies. | Outstanding. | n/a | Paul Sniegon (POC) and Elysium Drumm | n/a | zenhub issue and PR
 
+**Note:** Parity for pension, life insurance, disability, and careers is complete. 
+
 ## Legacy rewriting work (work to ensure that new VA.gov pages reflect all critical information from their legacy VA.gov page counterparts prior to the legacy pages being retired directed)
 
 Please see related [legacy rewriting page tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/design/content/rewriting-page-tracker.md) for information.
