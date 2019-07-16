@@ -8,8 +8,8 @@ labels: external-request, operations
 
 # Instructions
 1. Fill out **Description**
-1. Add the label used by your team (eg: `BAH-526`)
-1. Assign the issue to your DSVA contact 
+2. Add the label used by your team (eg: `BAH-526`)
+3. Assign the issue to your DSVA contact 
 
 
 # Description
@@ -27,4 +27,3 @@ labels: external-request, operations
   > Our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different
   > teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, 
   > log file review and to apply changes to the running instances and services.
-  
