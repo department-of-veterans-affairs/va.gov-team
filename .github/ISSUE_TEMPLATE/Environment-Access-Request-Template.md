@@ -9,10 +9,12 @@ labels: external-request, operations
 # Instructions
 1. Fill out **Description**
 2. Add the label used by your team (eg: `BAH-526`)
-3. Assign the issue to your DSVA contact 
+3. When the issue is closed you will be notified and can continue with on-boarding setup
 
 
 # Description
+- Please provide Contracting Officer's Representative (COR) name.
+   > Janet Doe
 - Please provide your name.
    > Jane Doe
 - Please provide the name of your team, your role on that team, and the name of the company you work for.
@@ -23,10 +25,9 @@ labels: external-request, operations
   > ssh-rsa 
   >  AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+AAAByyyz/1234+ username@mail.com
 
-- [Grant AWS Console access? YES / NO] 
-  If YES please provide the name of your Contracting Officer's Representative (COR)
+- [Grant AWS Console access?]
+  > YES / NO
   > Our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different
   > teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, 
   > log file review and to apply changes to the running instances and services.
-  >
-  > **Do not initiate** a AWS Console request until PIV background check is underway.
+
