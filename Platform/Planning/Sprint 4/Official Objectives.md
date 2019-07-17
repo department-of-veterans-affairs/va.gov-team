@@ -6,6 +6,7 @@ Dates: 2019-07-10 through 2019-07-23
 - Sort out the Content & IA team responsibilities on VSA and VSP contracts
     - Support for static content pages leading to tools
     - Support / reviews for VA Content Owner work
+    - Stretch: does this need to be a separate standalone team? (or part of Prod Dev Support or something?)
 - Document + socialize the KRs we’re going to use going forward
 - Define work for Analytics team around Product Scorecard
 
