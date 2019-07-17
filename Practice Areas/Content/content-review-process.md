@@ -1,18 +1,28 @@
 
 ## Content writing and plain language best practices
 
-When creating content for VA.gov, write in plain language and follow writing guidelines according to the VA.gov content and design system styleguides. This ensures we speak in one voice and create a consistent, clear, and positive experience for Veterans and their family members. 
-Links to content resources: 
+When creating content for VA.gov, all teams building on the Veteran Services Platform are required to adhere to VA.gov content and design system styleguides. This ensures we speak in one voice and create a consistent, clear, and positive experience for Veterans and their family members. 
+
+Links to VA.gov content resources: 
 
 [VA.gov styleguide](https://design.va.gov/content-style-guide/) <br>
 [VA.gov design system]( https://design.va.gov/documentation/)  <br>
-[Plain language.gov](https://plainlanguage.gov/) <br>
 
-In addition to the style guidelines above, please take into account the following when writing content: 
+
+<hr>
+
+* [General standards](#general)
+* [What to expect in a content review](#what-to-expect-content-review)
+* [How to request a content review](#how-to-request-content-review)
+
+<hr>
+
+## General standards
+In addition adhering to the content and design styleguides above, please follow the below standards:   
 
 1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand. 
-Plain language uses: 
 
+Plain language uses: 
 -	Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance” and "happen" rather than "occur")
 -	Contractions (“don’t” rather than “do not”)
 -	Active rather than passive voice
@@ -21,14 +31,14 @@ Plain language uses:
 -	A conversational style, with questions in the first person (i.e., "How can I get these benefits?") and answers in the second person (i.e., "You'll need to apply for benefits").
 
 2. Use words consistently to inspire trust and provide a consistent user experience across VA.gov. 
-For example, form introduction pages and VA.gov How to Apply pages use repeatable language and design elements on the page.  This ensures that users will have a consistent and familiar experience across form when applying for a benefit online.
+
+For example, form introduction pages and VA.gov How to Apply pages use repeatable language and design elements on the page.  This ensures that users will have a consistent and familiar experience across all forms when applying for a benefit online.
 show examples: 
 How to apply pages use the eligibility blue box and header 
 
 
-
 3. Make the writing conversational 
-Use everyday words and pronouns to speak to the user. Make the content relevant to them by writing in active voice and present tense.  Use “you” to address the user and help them understand what they need to do. Please avoid using “he” and “she.” 
+Use everyday words and pronouns to speak to the user.  Use “you” to address the user and help them understand what they need to do. Please avoid using “he” and “she.” 
 For example: 
 
 <div class="do-dont">
@@ -56,15 +66,13 @@ For example:
 
 4. Organize content in clear and scannable “chunks.”
 
-Break down complex information so it's easy for the user to understand and digest the information. It also helps guide them through the information step by step without overwhelming them.  Keep sentences and paragraphs short.
+Break down complex information so it's easy for the user to understand and digest the information. This helps guide users through the information step by step without overwhelming them.  Keep sentences and paragraphs short:	Aim for sentences that have only 1 main message. 
 
--	Aim for sentences that are 15 words or fewer, but know that longer sentences are sometimes necessary.
--	Aim for sentences that have only 1 main message. Use simple sentence construction and consider what information really needs to be included.
 
 5. Be empathetic
 
 Talk person-to-person to our users. Use language that puts the person first (not the disability, benefit, age, or race)
-Don't put the label before the person	Use person-first language
+Don't put the label before the person.
 
 <div class="do-dont">
 <div class="do-dont__do">
@@ -108,41 +116,58 @@ During a content review, the following will be assessed:
 
 -	[ ] Plain language best practices: Is the content written in active voice and present tense? Ensure that the content isn’t too “wordy” or uses excessive modifying words (e.g, “really, completely, totally,” etc.)
 
--	[ ] Grammar check: The review will also include a grammar check to make sure the content doesn’t contain typos, misspellings, and punctuation errors. 
+-	[ ] Grammar and style guide check: The review will also include a grammar check to make sure the content doesn’t contain typos, misspellings, and spacing errors. Review will also ensure that the content adheres to the VA style guide.
 
 -------- 
 
 ## How to request a content review
 
-Open a Zenhub issue. Choose standard issue template, and be sure to include the following: 
+1. Open a Zenhub issue in ```va.gov-team repo```.
+2. Choose standard issue template. 
+3. Title for the issue: ```Request Content review: [title of tool/app/page]```
+
+4. Be sure to include the following in the issue: 
 
 **User story**
 
 As a _____, I need _____ so I can _____.
 
-*As a member of a team building with or on VSP, I need to my content reviewed before [usability sessions or product launch] to ensure it's accurate, aligns with VA style and error-free.*
+*As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure it's accurate, aligns with VA style and error-free.*
 
 **Goal** 
 
  Please include: 
--	The content that needs to be reviewed (If short, drop the text into the issue, or attach a Word document or high-fidelity prototype to the issue with the content)
--	Context on where the content will appear. Is it part of a tool or static page? Is it a new application or a static page that will support an application? It's helpful to include screensshots of where the content will appear. 
--	Any specific design elements to consider? (for example, will this content appear as a tooltip, alert box, error message, new application or tool?)
--	 What are we trying to convey to our users with this content? Is there any specific information from user research to consider when reviewing the content? 
+-	The content for review. If short, drop the text directly into the issue. For longer content, you could include:
+
+        * Word document
+        * link to a high-fidelity prototype
+        * link to the URL where the content appears on staging
+        
+-	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear. 
+-	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?. 
+-	User research. Is there any specific information from user research to take into consideration when doing the content review? 
 
 **Acceptance criteria**
 
-Please list a specific timeframe for when this content should be reviewed. (For example, is the content for an upcoming user testing session? Is it part of an upcoming product release? When should the content be deployed?)
-Depending on the complexity or amount of content, the typical content review turnaround time is 2 days. 
+Please list a specific timeframe for when this content should be reviewed. (For example, is the content for an upcoming user testing session? Is it part of an upcoming product launch?)
 
+**Depending on the complexity and amount of content, content review will be completed within 4 days.** 
 
-**Please also tag the issue with:**
+Please also tag the issue with:
 
--	Milestone (when do you want this be completed?)
+-	Milestone (when do you want this completed?)
 -	Epic (what body of work is this a part of?)
--	Team/Practice Area label  (content or content-ia-team)
+-	Team/Practice Area label  ( ```content``` or ```content-ia-team```)
 -	Assign issue to @peggygannon
 
+5. Once the content review is complete:
+The reviewer will update the Zenhub issue with a Word document (with changes tracked) to show where content needs to be changed.
+If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
+
+6. When all changes are completed, close the issue.
+
+
+
 ## If you need help
-I’m available via Slack (@Peggygannon) if you have any questions about content reviews or the process. Feel free to reach out!  
+If you have any questions, please send me message via Slack (@Peggygannon). Feel free to reach out!  
 
