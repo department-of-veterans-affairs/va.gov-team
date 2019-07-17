@@ -3,7 +3,7 @@
 
 When creating content for VA.gov, all teams building on the Veteran Services Platform are required to adhere to VA.gov content and design system styleguides. This ensures we speak in one voice and create a consistent, clear, and positive experience for Veterans and their family members. 
 
-Links to VA.gov content resources: 
+VA.gov content resources: 
 
 [VA.gov styleguide](https://design.va.gov/content-style-guide/) <br>
 [VA.gov design system]( https://design.va.gov/documentation/)  <br>
@@ -11,14 +11,14 @@ Links to VA.gov content resources:
 
 <hr>
 
-* [General standards](#general)
+* [Content best practices standards](#best-practices)
 * [What to expect in a content review](#what-to-expect-content-review)
 * [How to request a content review](#how-to-request-content-review)
 
 <hr>
 
-## General standards
-In addition adhering to the content and design styleguides above, please follow the below standards:   
+## Content best practices
+In addition adhering to the VA.gov styleguides above, please adhere to the following writing and content strategy best practices:   
 
 1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand. 
 
@@ -33,8 +33,9 @@ Plain language uses:
 2. Use words consistently to inspire trust and provide a consistent user experience across VA.gov. 
 
 For example, form introduction pages and VA.gov How to Apply pages use repeatable language and design elements on the page.  This ensures that users will have a consistent and familiar experience across all forms when applying for a benefit online.
-show examples: 
-How to apply pages use the eligibility blue box and header 
+
+**For example: TKTK**
+
 
 
 3. Make the writing conversational 
@@ -49,7 +50,6 @@ For example:
 **Active voice:** Local organizations run most homeless services.
 
 **Active voice:** You can appeal any decision VA makes about your benefits.
-
 
 </div>
 </div>
@@ -66,7 +66,7 @@ For example:
 
 4. Organize content in clear and scannable “chunks.”
 
-Break down complex information so it's easy for the user to understand and digest the information. This helps guide users through the information step by step without overwhelming them.  Keep sentences and paragraphs short:	Aim for sentences that have only 1 main message. 
+Break down complex information so it's easy for the user to understand and digest the information. This helps guide them through the information step by step without overwhelming them.  Keep sentences and paragraphs short:	Aim for sentences that have only 1 main message. 
 
 
 5. Be empathetic
@@ -90,7 +90,6 @@ women Veterans who are homeless
 disabled and terminally ill policyholders	
 
 homeless women Veterans	
-
 </div>
 </div>
 
@@ -98,18 +97,21 @@ homeless women Veterans
 6. When incorporating feedback from user research sessions and call center data be sure it aligns with VA.gov voice, style, and tone. 
 
 
-**Note:** Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents.
-If a definition is short, put it in parentheses next to the word it defines, for example: "If you don’t agree with the VBA’s decision, you can appeal to the Board for a de novo (new look) review."
+7. Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents.
 
-If a definition is long, define the word in a separate sentence, for example: "If you can’t work because of a service-connected disability, you may be able to get the same benefits as a 100% disabled Veteran, regardless of your rating. This is called being individually unemployable."
+**If a definition is short,** put it in parentheses next to the word it defines. 
+For example: "If you don’t agree with the VBA’s decision, you can appeal to the Board for a de novo (new look) review."
+
+**If a definition is long,** define the word in a separate sentence. 
+For example: "If you can’t work because of a service-connected disability, you may be able to get the same benefits as a 100% disabled Veteran, regardless of your rating. This is called being individually unemployable."
 
 
 --------
 
 ## What to expect in a content review
 
-During a review, the content will be reviewed to ensure it aligns with our plain language best practices and VA.gov design system and content guidelines. The goal is that we present a consistent message, tone, and voice across the platform and the overall VA.gov ecosystem. 
-During a content review, the following will be assessed: 
+The content will be reviewed to ensure it aligns with our plain language best practices and VA.gov design system and content guidelines. The goal is that we present a consistent message, tone, and voice across the platform and the overall VA.gov ecosystem. 
+We'll review the following: 
 -	[ ] Voice: Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
 
 -	[ ] Tone: Does the content come across as harsh or intimidating? Even when discussing a serious topic, the tone should be gentle and compassionate. The tone may vary based on the material’s content, the context, and the reader’s likely emotional state.
@@ -137,7 +139,7 @@ As a _____, I need _____ so I can _____.
 **Goal** 
 
  Please include: 
--	The content for review. If short, drop the text directly into the issue. For longer content, you could include:
+-	The content. If short, drop the text directly into the issue. For longer content, you could include:
 
         * Word document
         * link to a high-fidelity prototype
