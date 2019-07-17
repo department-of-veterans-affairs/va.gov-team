@@ -1,4 +1,4 @@
-# Research plan (draft)
+# Research plan
 We are planning to run our first onboarding sessions with a new external team. We want to understand what's working in the MVP onboarding process and what can be improved.
 
 ### Onboarding goals
@@ -32,7 +32,7 @@ After the onboarding process is complete, we want new teams to:
 Participants will be members of the first onboarding team.
 
 ## When
-July 15 - 19, 2019 during TBD onboarding meetings (tentative)
+July 18 - 19, 2019 during Full Team and Engineering onboarding meetings
 
 ## Team Roles
 - Moderator(s): Emily Waggoner, Layla Soileau
