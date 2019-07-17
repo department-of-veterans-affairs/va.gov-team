@@ -14,13 +14,13 @@ Dates: 2019-07-10 through 2019-07-23
 
 ## Insights & Analytics
 
-- Product Health MVP
-    - Foresee incorporation (manual for now)
-    - KPIs for VSP Dashboard success
-    - Iterate design on Product Health MVP
-    - Discovery: Add Claims product to Product Health Scorecard (iterating on MVP)
 - VFS Analytics Support
+- Manually incorporate Foresee data into Product Health MVP 
+- Set KPIs for VSP Dashboard success
+- Iterate on design of Product Health MVP per research findings
+- Perform discovery on adding Claims product data to Product Health MVP
 - Processes & documentation discovery for Analytics Requests
+
 
 ## Content & IA
 
@@ -45,7 +45,7 @@ Dates: 2019-07-10 through 2019-07-23
 
 - Reconfigure PagerDuty teams for new VSP oncall rotations
 - Assign out triage backlog
-- Write RACI model for triage
+- Write RACI-inspired model for triage
 - Continue to document internal issue logging protocl
     - Particularly: communication channels for updates about dependent systems. Planned downtime, API changes, etc.
 
