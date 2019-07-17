@@ -32,15 +32,21 @@ Plain language uses:
 
 2. Use words consistently to inspire trust and provide a consistent user experience across VA.gov. 
 
-For example, form introduction pages and VA.gov How to Apply pages use repeatable language and design elements on the page.  This ensures that users will have a consistent and familiar experience across all forms when applying for a benefit online.
+For example, VA.gov "How to apply" and form introduction pages use repeatable language and design elements on the page. This ensures that users will have a consistent and familiar experience across all forms when applying for benefits online.
 
-**For example: TKTK**
+[Health care how to apply page](https://www.va.gov/health-care/how-to-apply/) <br>
+[VA pension how to apply page](https://www.va.gov/pension/how-to-apply/) <br>
 
+[Health care form introduction page](https://www.va.gov/health-care/apply/application/introduction) <br>
+[Education 1990 form introduction page](https://www.va.gov/education/apply-for-education-benefits/application/1990/introduction) <br>
+[VA pension form intdroduction page](https://www.va.gov/pension/application/527EZ/introduction) <br>
+[Disability compensation form introduction page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) <br>
 
 
 3. Make the writing conversational.
 
 Use everyday words and pronouns to speak to the user.  Use “you” to address the user and help them understand what they need to do. Please avoid using “he” and “she.” 
+
 For example: 
 <div class="do-dont">
 <div class="do-dont__do">
@@ -80,7 +86,7 @@ Don't put the label before the person.
 <div class="do-dont__content" markdown="1">
 policyholders who are disabled and terminally ill
 
-women Veterans who are homeless
+Veterans who are homeless
 
 </div>
 </div>
@@ -89,11 +95,13 @@ women Veterans who are homeless
 <div class="do-dont__content" markdown="1">
 disabled and terminally ill policyholders	
 
-homeless women Veterans	
+homeless Veterans	
 </div>
 </div>
 
-6. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents. Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. 
+6. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents. 
+
+Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. 
 
 **If a definition is short,** put it in parentheses next to the word it defines. 
 For example: "If you don’t agree with the VBA’s decision, you can appeal to the Board for a de novo (new look) review."
@@ -101,13 +109,13 @@ For example: "If you don’t agree with the VBA’s decision, you can appeal to 
 **If a definition is long,** define the word in a separate sentence. 
 For example: "If you can’t work because of a service-connected disability, you may be able to get the same benefits as a 100% disabled Veteran, regardless of your rating. This is called being individually unemployable."
 
-7. When incorporating feedback from user research sessions and call center data be sure it aligns with VA.gov voice, style, and tone. 
+7. When incorporating user research or call center feedback be sure it aligns with VA.gov voice, style, and tone. 
 
 --------
 
 ## What to expect in a content review
 
-The content will be reviewed to ensure it aligns with our plain language best practices and VA.gov design system and content guidelines.  We'll review the following: 
+We'll review the following during a content review: 
 
 -	[ ] Voice: Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
 
@@ -115,7 +123,7 @@ The content will be reviewed to ensure it aligns with our plain language best pr
 
 -	[ ] Plain language best practices: Is the content written in active voice and present tense? Ensure that the content isn’t too “wordy” or uses excessive modifying words (e.g, “really, completely, totally,” etc.)
 
--	[ ] Grammar and style guide check: The review will also include a grammar check to make sure the content doesn’t contain typos, misspellings, and spacing errors. Review will also ensure that the content adheres to the VA style guide.
+-	[ ] Grammar and style guide check: The review will also include a grammar check (look for typos, misspellings, and punctuation/spacing errors) and style guide check (ensure content adheres to the VA.gov style guide).
 
 -------- 
 
@@ -136,15 +144,14 @@ As a _____, I need _____ so I can _____.
 **Goal** 
 
  Please include: 
--	The content. If short, drop the text directly into the issue. For longer content, you could include:
-
-        * Word document
-        * link to a high-fidelity prototype
-        * link to the URL where the content appears on staging
+*	The content. If short, drop the text directly into the issue. For longer content, you could include: 
+       * Word document
+       * link to a high-fidelity prototype
+       * link to the URL where the content appears on staging
         
--	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear. 
--	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?. 
--	User research. Is there any specific information from user research to take into consideration when doing the content review? 
+*	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear. 
+*	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?. 
+*	User research. Is there any specific information from user research to take into consideration when doing the content review? 
 
 **Acceptance criteria**
 
