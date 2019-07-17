@@ -1,7 +1,7 @@
 
 ## Content writing and plain language best practices
 
-When creating content for VA.gov, all teams building on the Veteran Services Platform are required to adhere to VA.gov content and design system styleguides. This ensures we speak in one voice and create a consistent, clear, and positive experience for Veterans and their family members. 
+When creating content for VA.gov, all teams building on the Veteran Services Platform are required to adhere to VA.gov content and design system styleguides. This ensures we speak in one voice and create a consistent, clear, and positive message and experience for Veterans and their family members on the platform and the overall VA.gov ecosystem.
 
 VA.gov content resources: 
 
@@ -11,14 +11,14 @@ VA.gov content resources:
 
 <hr>
 
-* [Content best practices standards](#best-practices)
+* [Content best practices](#best-practices)
 * [What to expect in a content review](#what-to-expect-content-review)
 * [How to request a content review](#how-to-request-content-review)
 
 <hr>
 
 ## Content best practices
-In addition adhering to the VA.gov styleguides above, please adhere to the following writing and content strategy best practices:   
+In addition following the VA.gov styleguides, please adhere to the following writing and content strategy best practices:   
 
 1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand. 
 
@@ -38,10 +38,10 @@ For example, form introduction pages and VA.gov How to Apply pages use repeatabl
 
 
 
-3. Make the writing conversational 
+3. Make the writing conversational.
+
 Use everyday words and pronouns to speak to the user.  Use “you” to address the user and help them understand what they need to do. Please avoid using “he” and “she.” 
 For example: 
-
 <div class="do-dont">
 <div class="do-dont__do">
 <h3 class="do-dont__heading">Like this</h3>
@@ -69,7 +69,7 @@ For example:
 Break down complex information so it's easy for the user to understand and digest the information. This helps guide them through the information step by step without overwhelming them.  Keep sentences and paragraphs short:	Aim for sentences that have only 1 main message. 
 
 
-5. Be empathetic
+5. Be empathetic.
 
 Talk person-to-person to our users. Use language that puts the person first (not the disability, benefit, age, or race)
 Don't put the label before the person.
@@ -93,11 +93,7 @@ homeless women Veterans
 </div>
 </div>
 
-
-6. When incorporating feedback from user research sessions and call center data be sure it aligns with VA.gov voice, style, and tone. 
-
-
-7. Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents.
+6. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents. Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. 
 
 **If a definition is short,** put it in parentheses next to the word it defines. 
 For example: "If you don’t agree with the VBA’s decision, you can appeal to the Board for a de novo (new look) review."
@@ -105,13 +101,14 @@ For example: "If you don’t agree with the VBA’s decision, you can appeal to 
 **If a definition is long,** define the word in a separate sentence. 
 For example: "If you can’t work because of a service-connected disability, you may be able to get the same benefits as a 100% disabled Veteran, regardless of your rating. This is called being individually unemployable."
 
+7. When incorporating feedback from user research sessions and call center data be sure it aligns with VA.gov voice, style, and tone. 
 
 --------
 
 ## What to expect in a content review
 
-The content will be reviewed to ensure it aligns with our plain language best practices and VA.gov design system and content guidelines. The goal is that we present a consistent message, tone, and voice across the platform and the overall VA.gov ecosystem. 
-We'll review the following: 
+The content will be reviewed to ensure it aligns with our plain language best practices and VA.gov design system and content guidelines.  We'll review the following: 
+
 -	[ ] Voice: Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
 
 -	[ ] Tone: Does the content come across as harsh or intimidating? Even when discussing a serious topic, the tone should be gentle and compassionate. The tone may vary based on the material’s content, the context, and the reader’s likely emotional state.
