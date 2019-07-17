@@ -29,6 +29,7 @@ Dates: 2019-07-10 through 2019-07-23
 - VFS content & IA support
 - Creating IA for new CMS templates
 - Propose approach for migrationg documentation to `va.gov-team` repo + review with DSVA
+- Roadmap
 - _\[Stretch\]_ Initial recommendations for "Portal" (single homepage/index for VFS team documentation)
 
 ## Tools & Improvements
