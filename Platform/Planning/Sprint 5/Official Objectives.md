@@ -7,3 +7,4 @@ Ideas:
 - Identify and empower product owner for VA Design System.
   - Some [context](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Design%20System/design-system-summary.md)
 - Tools: Discovery around single/limited page deploys or other strategies to address lots of concurrent updates (e.g. lots of status updates on lots of different facilities pages). See https://dsva.slack.com/archives/CJ34D8TPB/p1563293514010500.
+- Onboard a bunch of VSA teams
