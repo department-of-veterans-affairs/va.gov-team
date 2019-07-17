@@ -20,7 +20,7 @@ VA.gov content resources:
 ## Content best practices
 In addition following the VA.gov styleguides, please adhere to the following writing and content strategy best practices:   
 
-1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand. 
+**1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand.** 
 
 Plain language uses: 
 -	Common, recognizable words that often have fewer syllables than their more complex synonyms (“help” rather than “assistance” and "happen" rather than "occur")
@@ -30,7 +30,7 @@ Plain language uses:
 -	Bulleted lists and bolded subheads to organize or “chunk” content in a scannable way
 -	A conversational style, with questions in the first person (i.e., "How can I get these benefits?") and answers in the second person (i.e., "You'll need to apply for benefits").
 
-2. Use words consistently to inspire trust and provide a consistent user experience across VA.gov. 
+**2. Use words consistently to inspire trust and provide a consistent user experience across VA.gov.** 
 
 For example, VA.gov "How to apply" and form introduction pages use repeatable language and design elements on the page. This ensures that users will have a consistent and familiar experience across all forms when applying for benefits online.
 
@@ -39,11 +39,11 @@ For example, VA.gov "How to apply" and form introduction pages use repeatable la
 
 [Health care form introduction page](https://www.va.gov/health-care/apply/application/introduction) <br>
 [Education 1990 form introduction page](https://www.va.gov/education/apply-for-education-benefits/application/1990/introduction) <br>
-[VA pension form intdroduction page](https://www.va.gov/pension/application/527EZ/introduction) <br>
+[VA pension form introduction page](https://www.va.gov/pension/application/527EZ/introduction) <br>
 [Disability compensation form introduction page](https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction) <br>
 
 
-3. Make the writing conversational.
+**3. Make the writing conversational.**
 
 Use everyday words and pronouns to speak to the user.  Use “you” to address the user and help them understand what they need to do. Please avoid using “he” and “she.” 
 
@@ -70,12 +70,12 @@ For example:
 </div>
 
 
-4. Organize content in clear and scannable “chunks.”
+**4. Organize content in clear and scannable “chunks.”**
 
 Break down complex information so it's easy for the user to understand and digest the information. This helps guide them through the information step by step without overwhelming them.  Keep sentences and paragraphs short:	Aim for sentences that have only 1 main message. 
 
 
-5. Be empathetic.
+**5. Be empathetic.**
 
 Talk person-to-person to our users. Use language that puts the person first (not the disability, benefit, age, or race)
 Don't put the label before the person.
@@ -99,7 +99,7 @@ homeless Veterans
 </div>
 </div>
 
-6. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents. 
+**6. Consider defining military or VA terms that may be familiar to Veterans, but not to their dependents.** 
 
 Veterans aren’t the only ones visiting VA.gov — their spouses, children, and other family members may also be looking for information about VA benefits and services. 
 
@@ -109,7 +109,7 @@ For example: "If you don’t agree with the VBA’s decision, you can appeal to 
 **If a definition is long,** define the word in a separate sentence. 
 For example: "If you can’t work because of a service-connected disability, you may be able to get the same benefits as a 100% disabled Veteran, regardless of your rating. This is called being individually unemployable."
 
-7. When incorporating user research or call center feedback be sure it aligns with VA.gov voice, style, and tone. 
+**7. When incorporating user research or call center feedback be sure it aligns with VA.gov voice, style, and tone.** 
 
 --------
 
