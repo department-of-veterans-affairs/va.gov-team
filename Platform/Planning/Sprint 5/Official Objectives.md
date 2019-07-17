@@ -2,6 +2,7 @@
 - tie sprint objectives to epic(s) and/or increase verbosity to make sure we have shared consciousness about what we're planning
 
 ### Ideas
+- Deploy supporting documentation for MVP starter app (with generator) for VFS teams
 - Drop in the PR numbers somewhere (where?) for code reviews we provided support on, so we can sense the volume over time
 - ~Post mortem of the July 3 last minute deploy request~
     - \[gunsch\] note: this was written during S4, maybe take some AIs from it for S5?
