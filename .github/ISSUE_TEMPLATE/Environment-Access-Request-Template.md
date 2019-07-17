@@ -9,11 +9,12 @@ labels: external-request, operations
 # Instructions
 1. Fill out **Description**
 2. Add the label used by your team (eg: `BAH-526`)
-3. When the issue is closed you will be notified and can continue with on-boarding setup
+3. Add a comment @department-of-veterans-affairs/vsp-operations to ping the operations team
+4. When the issue is closed you will be notified and can continue with on-boarding setup
 
 
 # Description
-- Please provide Contracting Officer's Representative (COR) name.
+- Please provide your Contracting Officer's Representative (COR) name.
    > Janet Doe
 - Please provide your name.
    > Jane Doe
