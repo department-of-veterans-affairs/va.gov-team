@@ -20,9 +20,9 @@ All participants answered "Yes."
 ### Rate the helpfulness of this kickoff meeting.
 * Waste of time - 0 participants
 * Not very helpful - 0 participants
-* Somewhat helpful - 1 participants
-* Moderately helpful - 3 participants
-* Extremely helpful - 1 participants
+* Somewhat helpful - 1 participants 
+* Moderately helpful - 3 participants 
+* Extremely helpful - 1 participants 
 
 ### The content of the kickoff meeting felt _____.
 
@@ -36,8 +36,8 @@ All participants answered "Yes."
 All participants answered "Yes."
 
 ### What’s your level of confidence for finding answers to questions on your own?
-* 1 participant is not confident
-* 4 participants are somewhat confident
+* 1 participant is not confident (20%)
+* 4 participants are somewhat confident (80%)
 * 0 particiants are extremely confident
 
 
