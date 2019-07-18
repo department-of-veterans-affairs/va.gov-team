@@ -18,7 +18,7 @@ VA.gov content resources:
 <hr>
 
 ## Content best practices
-In addition following the VA.gov styleguides, please adhere to the following writing and content strategy best practices:   
+In addition to following the VA.gov styleguides, please adhere to the following writing and content strategy best practices:   
 
 **1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand.** 
 
@@ -51,7 +51,7 @@ Use everyday words and pronouns to speak to the user.  Use “you” to address 
 For example: 
 <div class="do-dont">
 <div class="do-dont__do">
-<h4 class="do-dont__heading">Like this</h4>
+<h4 class="do-dont__heading">Like this:</h4>
 <div class="do-dont__content" markdown="1">
 
 **Active voice:** Local organizations run most homeless services.
@@ -61,7 +61,7 @@ For example:
 </div>
 </div>
 <div class="do-dont__dont">
-<h4 class="do-dont__heading">Not this</h4>
+<h4 class="do-dont__heading">Not this:</h4>
 <div class="do-dont__content" markdown="1">
 
 **Passive voice:** Most homeless services are run locally.	
@@ -83,7 +83,7 @@ Don't put the label before the person.
 
 <div class="do-dont">
 <div class="do-dont__do">
-<h4 class="do-dont__heading">Like this</h4>
+<h4 class="do-dont__heading">Like this:</h4>
 <div class="do-dont__content" markdown="1">
  
 policyholders who are disabled and terminally ill
@@ -93,7 +93,7 @@ Veterans who are homeless
 </div>
 </div>
 <div class="do-dont__dont">
-<h4 class="do-dont__heading">Not this</h4>
+<h4 class="do-dont__heading">Not this:</h4>
 <div class="do-dont__content" markdown="1">
  
 disabled and terminally ill policyholders	
@@ -142,7 +142,7 @@ We'll review the following during a content review:
 
 As a _____, I need _____ so I can _____.
 
-*As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure it's accurate, aligns with VA style and error-free.*
+User story example: *As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure it's accurate, aligns with VA style, and is error-free.*
 
 **Goal** 
 
@@ -158,7 +158,7 @@ As a _____, I need _____ so I can _____.
 
 **Acceptance criteria**
 
-If this content is part of an upcoming research session or product launch, list a specific timeframe for when this content should be reviewed.
+If the content is part of an upcoming research session or product launch, list a specific timeframe for when this content should be reviewed.
 
 **Depending on the complexity and amount of content, content review will be completed within 4 days.** 
 
