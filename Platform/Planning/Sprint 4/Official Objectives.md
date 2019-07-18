@@ -3,9 +3,7 @@ Dates: 2019-07-10 through 2019-07-23
 
 ## Leadership
 - Sync with VSA program to understand timeline and volume of support necessary
-- Sort out the Content & IA team responsibilities on VSA and VSP contracts
-    - Support for static content pages leading to tools
-    - Support / reviews for VA Content Owner work
+- Sort out the Content & IA team responsibilities on VSA and VSP contracts (support for static content pages leading to tools, support / reviews for VA Content Owner work, and as a stretch goal, whether this needs to be a separate standalone team or not)
 - Document + socialize the KRs we’re going to use going forward
 - Define work for Analytics team around Product Scorecard
 
@@ -16,19 +14,20 @@ Dates: 2019-07-10 through 2019-07-23
 
 ## Insights & Analytics
 
-- Product Health MVP
-    - Foresee incorporation (manual for now)
-    - KPIs for VSP Dashboard success
-    - Iterate design on Product Health MVP
-    - Discovery: Add Claims product to Product Health Scorecard (iterating on MVP)
 - VFS Analytics Support
+- Manually incorporate Foresee data into Product Health MVP 
+- Set KPIs for VSP Dashboard success
+- Iterate on design of Product Health MVP per research findings
+- Perform discovery on adding Claims product data to Product Health MVP
 - Processes & documentation discovery for Analytics Requests
+
 
 ## Content & IA
 
 - VFS content & IA support
 - Creating IA for new CMS templates
 - Propose approach for migrationg documentation to `va.gov-team` repo + review with DSVA
+- Roadmap
 - _\[Stretch\]_ Initial recommendations for "Portal" (single homepage/index for VFS team documentation)
 
 ## Tools & Improvements
@@ -46,7 +45,7 @@ Dates: 2019-07-10 through 2019-07-23
 
 - Reconfigure PagerDuty teams for new VSP oncall rotations
 - Assign out triage backlog
-- Write RACI model for triage
+- Write RACI-inspired model for triage
 - Continue to document internal issue logging protocl
     - Particularly: communication channels for updates about dependent systems. Planned downtime, API changes, etc.
 

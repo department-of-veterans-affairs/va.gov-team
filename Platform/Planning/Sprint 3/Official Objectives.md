@@ -1,4 +1,4 @@
-# Q3 2019 Sprint 1
+# Sprint 3
 Dates: 6/27/2019 - 7/9/2019
 
 ## Leadership
