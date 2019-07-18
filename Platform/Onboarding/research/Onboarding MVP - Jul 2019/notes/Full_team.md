@@ -1,7 +1,9 @@
 ## Full team onboarding meeting 
 
 Date: 07/18/2019, 11:00 a.m. ET
+
 Moderator: Emily Waggoner
+
 Notetaker: Layla Soileau
 
 ### Introductions
