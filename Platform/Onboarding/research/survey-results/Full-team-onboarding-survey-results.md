@@ -36,8 +36,8 @@ All participants answered "Yes."
 All participants answered "Yes."
 
 ### What’s your level of confidence for finding answers to questions on your own?
-* 1 participant is not confident (20%)
-* 4 participants are somewhat confident (80%)
+* 1 participant is not confident
+* 4 participants are somewhat confident
 * 0 particiants are extremely confident
 
 
