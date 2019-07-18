@@ -10,7 +10,7 @@ Date: 07/18/2019, 11:00 a.m. ET
 All participants answered "Yes."
 
 ### What information do you need to move forward?
-(Error in survey. "Yes" answers were meant to skip this question, but some participants answered anyway.
+(Error in survey. "Yes" answers were meant to skip this question, but some participants answered anyway.)
 
 * A background to the project we're doing. A way to do this on Windows 10.
 * Information on how to set up a virtual machine to run Linux. Instruction on environment setup. I think these docs will be sent over shortly.
