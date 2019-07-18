@@ -77,7 +77,7 @@ Sent Barry's email. We will add him to the engineering invite.
 
 ---
 
-Bill coordinated with Michael to meet before Engineering Onboarding meeting tomorrow.
+Bill coordinates with Michael to meet before Engineering Onboarding meeting tomorrow.
 
 ---
 
