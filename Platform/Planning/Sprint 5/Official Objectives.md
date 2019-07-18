@@ -1,5 +1,6 @@
 ### Meta
 - tie sprint objectives to epic(s) and/or increase verbosity to make sure we have shared consciousness about what we're planning
+- after s5 planning, if there are ideas that are still valid in this doc, copy them forward to the nascent s6 objectives
 
 ### Ideas
 - Deploy supporting documentation for MVP starter app (with generator) for VFS teams
