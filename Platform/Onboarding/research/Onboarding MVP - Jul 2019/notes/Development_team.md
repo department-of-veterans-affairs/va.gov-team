@@ -19,6 +19,8 @@ Notetaker: Layla Soileau
       
 ### General presentation notes
 * Double-check for typos
+* Difficult to gauge if attendees are engaged when cameras are off. Encourage cameras to be on, find out what blockers there are (technical limitations, discomfort?)
+* Set expectations on how to ask questions - come off mute, it's okay to interrupt, or whether they should wait until the end.
 
 #### Questions
 Brittany: What are you using for FE testing?
@@ -27,6 +29,8 @@ Bill: Mocha Chai with Enzyme for React components. Nightwatch for end-to-end tes
 
 ### Wrap up
 Bill sends survey link.
+
+Bill S: Just chiming in to remind everyone that it's tempting to be nice in giving this feedback but I imagine it will be more useful to the DS team if we are honest... I think they have a thick skin, so give your honest feedback.
 
 ### Questions
 
