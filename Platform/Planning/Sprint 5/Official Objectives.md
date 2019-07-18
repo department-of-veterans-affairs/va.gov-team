@@ -16,3 +16,4 @@
 - Onboard a bunch of VSA teams
 - ROE for code reviews per feedback from eng leads
 - CMS FE build improvements (specifics TBD, teams are meeting on 7/23)
+- Rationalize / clean up load testing process
