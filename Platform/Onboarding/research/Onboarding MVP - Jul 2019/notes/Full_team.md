@@ -1,7 +1,9 @@
 ## Full team onboarding meeting 
 
 Date: 07/18/2019, 11:00 a.m. ET
+
 Moderator: Emily Waggoner
+
 Notetaker: Layla Soileau
 
 ### Introductions
@@ -31,8 +33,7 @@ Notetaker: Layla Soileau
    * SSO for VA.gov and MHV
    * I don't really get nervous
    
-* Michael B.?
-   * Not present
+* Michael B. (Not present)
 
 * Bill S, VP of Solutions
    * Been working with DSVA for awhile
@@ -42,6 +43,8 @@ Notetaker: Layla Soileau
 * Clarice, PIF under CTO
    * Work with DSVA and By Light
    * One of my first projects with VA.gov
+   
+* Barry (missing from invite)
       
 ### General presentation notes
 * Remove reference to #by-light-engineering. We're only using #by-light-general.
@@ -74,7 +77,7 @@ Sent Barry's email. We will add him to the engineering invite.
 
 ---
 
-Bill coordinated with Michael to meet before Engineering Onboarding meeting tomorrow.
+Bill coordinates with Michael to meet before Engineering Onboarding meeting tomorrow.
 
 ---
 
@@ -91,9 +94,3 @@ Michael: Windows 10
 --- 
 
 Emily shares survey link.
-
-
-
-
-
-

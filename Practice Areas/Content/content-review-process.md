@@ -1,7 +1,7 @@
 
 ## Content writing and plain language best practices
 
-When creating content for VA.gov, all teams building on the Veteran Services Platform are required to adhere to VA.gov content and design system styleguides. This ensures we speak in one voice and create a consistent, clear, and positive message and experience for Veterans and their family members on the platform and the overall VA.gov ecosystem.
+When creating content for VA.gov, all teams building on the Veteran Services Platform should follow VA.gov content and design system styleguides. This ensures we speak in one voice and create a consistent, clear, and positive message and experience for Veterans and their family members on the platform and the overall VA.gov ecosystem.
 
 VA.gov content resources: 
 
@@ -32,7 +32,8 @@ Plain language uses:
 
 **2. Use words consistently to inspire trust and provide a consistent user experience across VA.gov.** 
 
-For example, VA.gov "How to apply" and form introduction pages use repeatable language and design elements on the page. This ensures that users will have a consistent and familiar experience across all forms when applying for benefits online.
+For example, VA.gov "How to apply" and form introduction pages use repeatable language and design elements on the page. This ensures that users will have a consistent and familiar experience across all forms when applying for benefits online. 
+Page examples: 
 
 [Health care how to apply page](https://www.va.gov/health-care/how-to-apply/) <br>
 [VA pension how to apply page](https://www.va.gov/pension/how-to-apply/) <br>
@@ -50,7 +51,7 @@ Use everyday words and pronouns to speak to the user.  Use “you” to address 
 For example: 
 <div class="do-dont">
 <div class="do-dont__do">
-<h3 class="do-dont__heading">Like this</h3>
+<h4 class="do-dont__heading">Like this</h4>
 <div class="do-dont__content" markdown="1">
 
 **Active voice:** Local organizations run most homeless services.
@@ -60,7 +61,7 @@ For example:
 </div>
 </div>
 <div class="do-dont__dont">
-<h3 class="do-dont__heading">Not this</h3>
+<h4 class="do-dont__heading">Not this</h4>
 <div class="do-dont__content" markdown="1">
 
 **Passive voice:** Most homeless services are run locally.	
@@ -72,7 +73,7 @@ For example:
 
 **4. Organize content in clear and scannable “chunks.”**
 
-Break down complex information so it's easy for the user to understand and digest the information. This helps guide them through the information step by step without overwhelming them.  Keep sentences and paragraphs short:	Aim for sentences that have only 1 main message. 
+Break down complex information so it's easy for the user to understand and digest the information. This helps guide them through the information step by step without overwhelming them.  Keep sentences and paragraphs short.	Aim for sentences that have only 1 main message. 
 
 
 **5. Be empathetic.**
@@ -82,8 +83,9 @@ Don't put the label before the person.
 
 <div class="do-dont">
 <div class="do-dont__do">
-<h3 class="do-dont__heading">Like this</h3>
+<h4 class="do-dont__heading">Like this</h4>
 <div class="do-dont__content" markdown="1">
+ 
 policyholders who are disabled and terminally ill
 
 Veterans who are homeless
@@ -91,8 +93,9 @@ Veterans who are homeless
 </div>
 </div>
 <div class="do-dont__dont">
-<h3 class="do-dont__heading">Not this</h3>
+<h4 class="do-dont__heading">Not this</h4>
 <div class="do-dont__content" markdown="1">
+ 
 disabled and terminally ill policyholders	
 
 homeless Veterans	
@@ -145,17 +148,17 @@ As a _____, I need _____ so I can _____.
 
  Please include: 
 *	The content. If short, drop the text directly into the issue. For longer content, you could include: 
-       * Word document
-       * link to a high-fidelity prototype
+       * Word document, or 
+       * link to a high-fidelity prototype, or 
        * link to the URL where the content appears on staging
         
 *	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear. 
-*	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?. 
+*	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool? 
 *	User research. Is there any specific information from user research to take into consideration when doing the content review? 
 
 **Acceptance criteria**
 
-Please list a specific timeframe for when this content should be reviewed. (For example, is the content for an upcoming user testing session? Is it part of an upcoming product launch?)
+If this content is part of an upcoming research session or product launch, list a specific timeframe for when this content should be reviewed.
 
 **Depending on the complexity and amount of content, content review will be completed within 4 days.** 
 
