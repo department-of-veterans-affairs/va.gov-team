@@ -9,7 +9,6 @@ We will document new discussions etc all in this one running doc of notes. This 
 
 - Intros and general overview of how VSP and VSA work together
 - Known deadlines / objectives coming up for VSA work
-
 - Desired approach for gray areas in VSP and VSA responsibility: Content & IA, CMS, Analytics, DevOps
 - Support for static content pages leading to tools: VSA is writing, and VSP will review as part of product dev criteria
   - At some point in future, VA will have a person/editor whose job it is to ensure plain lang + content style guide are being upheld across VA.gov, but for now reviews could come from VSP. Ideally within VA itself, not through a contract.
@@ -20,9 +19,7 @@ We will document new discussions etc all in this one running doc of notes. This 
   - There will be a process to request changes, and VSA will have a content team.
   - Don't know yet, to be defined!
   - Imagine trajectory will be, once VSA content team is together, that they'll handle a lot of this
-
 - VSA VFS Teams should be treated the same as other VFS teams, in terms of process, reviews, etc
-  - 
 - Does VSA need DevOps, or that 100% VSP?
   - Tabling this so DSVA can chat internally first.
   - But GCIO already has offers out for DevOps roles, so can we get some baseline understanding first?
@@ -36,12 +33,10 @@ We will document new discussions etc all in this one running doc of notes. This 
 - VFS Team (i.e. VSA sprint teams) need to be able to research, design, create, build, launch tools. They don't need to build a deploy pipeline, intereface w/VAEC, none of that. Just the experience of the discrete application itself.
 - Let's take argument that VSP should be able to handle infinity VFS teams. Would it be helpful or not helpful for there to be devops expertise on those apps teams. But we'll discuss internally at DSVA before digging into this more :)
 - Concept: all of these things are products and they make the call at the Product Onwer level, whether they go to VSP or VSA is TBD, and for now it's fine to have multiple options. Why throw away an option if we don't need to? Don't know what's "broke" yet :)
-
 - Best timing for VSA's VSP Onboarding
   - Don't have people to onboard yet
   - Preference it to onboard teams once they are formed, but in this case, doing a lean version w/the current ppl trying to organize and set up VSA, and then do full onboarding with all of VSA later.
   - We'll table this as well, to revisit on Mon/Tues once better idea on VSA side of what we're lookin at
-
 - Do we need to sync regularly at this (or other) level, outside of existing meetings (like Team of Teams)?
   - Do need regular syncs at some level. Probably not this same group, but tbd! Not sure how often and what it looks like. Leadership level coordination on how things are going btwn VSA and VSP.
   - A lot of these convos need to be had w/ppl who aren't here yet.
