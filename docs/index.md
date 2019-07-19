@@ -12,7 +12,6 @@ The Veteran-facing Services Platform (VSP) is the common infrastructure, technic
 * DSVA Slack
     * [#platform-team](https://dsva.slack.com/messages/CJRQ85PQB), for general discussion
     * [#vfs-platform-support](https://dsva.slack.com/messages/CBU0KDSB1), for platform support
-    * [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8), for Triage Issues
 * [Org chart](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/org-chart.md) (internal, out of date)
 
 ## Production emergencies
