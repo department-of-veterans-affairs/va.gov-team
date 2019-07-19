@@ -1,3 +1,7 @@
+### *Note: iteration/drafting/brainstorming on Sprint 5 Objectives is currently happening in a different more collaborative document. This md file is stale, but will be updated once the iteration dies down and we're ready to store the agreed upon objectives here* 
+
+---
+
 ## Leadership
 
 ## Product Support + Development
@@ -15,8 +19,6 @@
 -----
 
 ## General Notes
-
-*Note: iteration/drafting/brainstorming is currently happening in a different more collaborative document. This md file is stale, but will be updated once the iteration dies down and we're ready to store the agreed upon objectives here* 
 
 ### Meta
 - tie sprint objectives to epic(s) and/or increase verbosity to make sure we have shared consciousness about what we're planning
