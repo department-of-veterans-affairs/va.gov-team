@@ -12,6 +12,7 @@ The Veteran-facing Services Platform (VSP) is the common infrastructure, technic
 * DSVA Slack
     * [#platform-team](https://dsva.slack.com/messages/CJRQ85PQB), for general discussion
     * [#vfs-platform-support](https://dsva.slack.com/messages/CBU0KDSB1), for platform support
+    * [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8), for Triage Issues
 * [Org chart](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/org-chart.md) (internal, out of date)
 
 ## Production emergencies
@@ -22,6 +23,7 @@ Is something broken?
 * [Who's OnCall? (PagerDuty schedules)](https://dsva.pagerduty.com/schedules)
 * [See OnCall documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/OnCall) (internal)
 * [Breakers dashboard (Grafana)](http://grafana.vetsgov-internal/dashboard/db/breakers?orgId=1)
+* Submit an Issue to Triage [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=)
 
 ## Products
 
