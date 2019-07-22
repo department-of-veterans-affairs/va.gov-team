@@ -43,4 +43,4 @@
 - CMS FE build improvements (specifics TBD, teams are meeting on 7/23)
 - Rationalize / clean up load testing process
 - ROE for Slack access - who gets added to DSVA Slack, based on what criteria / verification, and as what account type? Guidence on best practices? Related: are there Slack-specific security concerns (in light of 2015 Slack hack) that we need to look into?
-
+- Update Slack channel IA to reflect current state. E.g what do we do with old vetsgov- channels?
