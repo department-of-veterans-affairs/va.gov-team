@@ -24,7 +24,10 @@
 - tie sprint objectives to epic(s) and/or increase verbosity to make sure we have shared consciousness about what we're planning
 - after s5 planning, if there are ideas that are still valid in this doc, copy them forward to the nascent s6 objectives
 
-### Ideas
+### Unfinished from prior sprint
+- ...
+
+### Ideas for new work
 - Deploy supporting documentation for MVP starter app (with generator) for VFS teams
 - Drop in the PR numbers somewhere (where?) for code reviews we provided support on, so we can sense the volume over time
 - ~Post mortem of the July 3 last minute deploy request~
@@ -40,3 +43,4 @@
 - CMS FE build improvements (specifics TBD, teams are meeting on 7/23)
 - Rationalize / clean up load testing process
 - ROE for Slack access - who gets added to DSVA Slack, based on what criteria / verification, and as what account type? Guidence on best practices? Related: are there Slack-specific security concerns (in light of 2015 Slack hack) that we need to look into?
+
