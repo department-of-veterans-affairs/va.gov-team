@@ -79,7 +79,7 @@ After the Full Team and Engineering onboarding meeting, all team members felt li
 ### 6. All team members felt like their questions were addressed
 During both onboarding meetings, all team members felt like all of their questions were answered.
 
-### 7. Most team members felt confident about answering questions on their own
+### 7. Most team members felt somewhat confident about answering questions on their own
 * Full team onboarding
    * 1 participant is not confident
    * 4 participants are somewhat confident
