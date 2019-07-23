@@ -27,20 +27,20 @@ We want like to de-couple `initializers/statsd.rb` and the use of `with_monitori
 - method names may change causing the metrics in `initializers/statsd.rb` to become out of sync
 
 ## Design
-**Redis**
+### Redis
 Use Redis to maintain a running list of StatsD metric names that we are incrementing. Upon initialization of a `vets-ap` server, read from said Redis table to initialize all of the metrics to `0`. This requires that every time a call to `StatsD.increment()` is made, we make a call to redis to save the metric name. The `TTL` for each row in Redis will be `1 week` which should allow for infrequently used metrics to not expire too soon, and for those used frequently, they will constantly be refreshed.
 
-**`initializers/statsd.rb`**
+### `initializers/statsd.rb`
 This file will continue to exist and we can continue hard-coding a select few metrics names to initialize to `0`. If performance becomes an issue, we can put all of the listed metric names into a map or array and put a guard clause on the save to Redis for refreshing.
 
 
 ## Risks
-**Performance**
+### Performance
 A call to save to redis is not that bad performance-wise, but when you consider how frequently StatsD counters are incrememented, all those `redis.save()` calls could really add up. 
 
 ## Alternatives
-**Unit Test**
+### Unit Test
 Using a test (maybe rspec) to dynamically determine which classes are either:
 - making use of `with_monitoring`
 - making direct calls to `StatsD.increment()`
-and _fail_ if said metric name is not being initialized to `0` in `initializers/statsd.rb`
+and _fail_ if said metric name is not being initialized to `0` in `initializers/statsd.rb`. This will force developers to initialize their metrics to `0` when incrementing StatsD.
