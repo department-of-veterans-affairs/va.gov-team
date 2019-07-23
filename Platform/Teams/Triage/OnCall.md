@@ -15,3 +15,9 @@ External Service Integrations are documented in both the [devops repo](https://g
 
 [PagerDuty](https://dsva.pagerduty.com/schedules) is the authoritative source for the on call schedule, but is duplicated here for the visibilty of those without PagerDuty accounts.
 
+**July 2019**
+![July 2019 PD Schedule](./images/2019-07-on-call.png)
+
+**August 2019**
+![August 2019 PD Schedule](./images/2019-08-on-call.png)
+
