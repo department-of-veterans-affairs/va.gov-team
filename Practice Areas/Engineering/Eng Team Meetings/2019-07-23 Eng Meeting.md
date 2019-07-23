@@ -11,3 +11,4 @@
 * [Andrew] First formal VFS team onboards
   * By Light
   * VSA
+* [Bill] RFC - Automatic StatsD Init
