@@ -12,3 +12,4 @@
   * By Light
   * VSA
 * [Bill] RFC - Automatic StatsD Init
+* [Johnny] Discuss July 3 deployment postmortem
