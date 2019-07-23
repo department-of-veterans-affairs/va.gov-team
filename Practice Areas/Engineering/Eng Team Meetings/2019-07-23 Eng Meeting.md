@@ -12,4 +12,4 @@
   * By Light
   * VSA
 * [Bill] RFC - Automatic StatsD Init
-* [Johnny] Discuss July 3 deployment postmortem
+* [Johnny] Discuss July 3 [deployment postmortem](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/4)
