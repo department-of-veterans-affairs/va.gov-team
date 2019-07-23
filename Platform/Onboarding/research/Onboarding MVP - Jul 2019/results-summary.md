@@ -20,6 +20,8 @@ July 18 - 19, 2019 during Full Team and Engineering onboarding meetings
 ### Participants
 Participants will be members of the first onboarding team (By Light).
 
+[View Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/research/Onboarding%20MVP%20-%20Jul%202019/research%20plan.md)
+
 ## Insights & Recommendations
 
 ### 1. Missing project requirements/context
