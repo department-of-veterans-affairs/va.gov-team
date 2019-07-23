@@ -5,8 +5,8 @@ When creating content for VA.gov, all teams building on the Veteran Services Pla
 
 VA.gov content resources: 
 
-[VA.gov styleguide](https://design.va.gov/content-style-guide/) <br>
-[VA.gov design system]( https://design.va.gov/documentation/)  <br>
+[VA.gov content styleguide](https://design.va.gov/content-style-guide/) <br>
+[VA.gov design system styleguide]( https://design.va.gov/documentation/)  <br>
 
 
 <hr>
@@ -18,7 +18,7 @@ VA.gov content resources:
 <hr>
 
 ## Content best practices
-In addition to following the VA.gov styleguides, please adhere to the following writing and content strategy best practices:   
+In addition to following the VA.gov content styleguides, please adhere to the following writing and content strategy best practices:   
 
 **1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand.** 
 
@@ -120,13 +120,13 @@ For example: "If you can’t work because of a service-connected disability, you
 
 We'll review the following during a content review: 
 
--	[ ] Voice: Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
+-	[ ] [Voice](https://design.va.gov/content-style-guide/content-principles.html): Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
 
--	[ ] Tone: Does the content come across as harsh or intimidating? Even when discussing a serious topic, the tone should be gentle and compassionate. The tone may vary based on the material’s content, the context, and the reader’s likely emotional state.
+-	[ ] [Tone](https://design.va.gov/content-style-guide/content-principles.html): Does the content come across as harsh or intimidating? Even when discussing a serious topic, the tone should be gentle and compassionate. The tone may vary based on the material’s content, the context, and the reader’s likely emotional state.
 
--	[ ] Plain language best practices: Is the content written in active voice and present tense? Ensure that the content isn’t too “wordy” or uses excessive modifying words (e.g, “really, completely, totally,” etc.)
+-	[ ] [Plain language best practices](https://design.va.gov/content-style-guide/content-principles.html): Is the content written in active voice and present tense? Ensure that the content isn’t too “wordy” or uses excessive modifying words (e.g, “really, completely, totally,” etc.)
 
--	[ ] Grammar and style guide check: The review will also include a grammar check (look for typos, misspellings, and punctuation/spacing errors) and style guide check (ensure content adheres to the VA.gov style guide).
+-	[ ] [Grammar and style guide check](https://design.va.gov/content-style-guide/): The review will also include a grammar check (look for typos, misspellings, and punctuation/spacing errors) and style guide check (ensure content adheres to the VA.gov style guide).
 
 -------- 
 
