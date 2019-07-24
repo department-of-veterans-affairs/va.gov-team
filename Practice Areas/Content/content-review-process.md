@@ -179,5 +179,5 @@ If your team has questions (or disagrees with a requested change), use the Zenhu
 
 
 ## If you need help
-If you have any questions, please send me message via Slack (@Peggygannon). Feel free to reach out!  
+If you have any questions, please send me message via Slack (@Peggygannon). Feel free to reach out with any questions or feedback!  
 
