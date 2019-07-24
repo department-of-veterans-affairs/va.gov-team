@@ -6,7 +6,7 @@
 
 ## Overview of the White House Hotline
 
-The White House Hotline (WHH) is a call center managed out of the Veterans Experience Office that operates 24 hours a day, seven days a week. It opened in September 2017 with the mission of providing veterans a resource they could contact at any time to assist with any VA-related issue, particularly complaints. The WHH is made up of over 60 agents, that are comprised of both contract and VA employees. The WHH has its own number (1-855-948-2311) but also receives calls coming through the My VA311 IVR. The WHH categorizes calls as complaint or non-complaint and follows a specific process for handling complaints. Non-complaint calls are typically handled by identifying the correct call center to answer a particular question or issue and transfering the user to that queue. 
+"The White House / VA Hotline (1-855-948-2311) provides our nation’s Veterans with a direct, dedicated contact line that allows them to interact with highly trained, live agents to answer their needs and concerns 24-hours a day, 365-days a year. The White House / VA Hotline is VA’s first non-clinical, non-emergency around-the-clock hotline. It is also the only VA contact center that provides enterprise-wide complaint, compliment and recommendation intake. It is staffed by mostly Veterans or Veteran family-member agents. The hotline is part of VA’s contact center modernization efforts of re-aligning VA internal processes to ensure a consistent, positive Veteran experience."
 
 ## The Problem
 
