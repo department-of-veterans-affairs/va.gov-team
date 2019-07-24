@@ -37,11 +37,11 @@ To meet the gaps in the current situation, VEO identified the White House Hotlin
     * We have identified a work around given these constraints, that utilizes pre-existing fields and manually entered phrases. This is less than ideal from a data and agent experience perspective. While we can try and make this work in the very short-term, the goal will be to push the WHH to decide either way (transition to MS Dynamics or resume work on Salesforce) as quickly as possible.
     * Given the difficulty of tracking VA.gov issues, we want to try and improve feedback to the VA.gov teams by setting up a consistent listening session. This will allow VA.gov team members to listen to live or pre-recorded calls related to VA.gov and gain insights into the user and agent experience. 
     
-4.	**We have found a process for WHH agents to escalate issues to the triage team**
+4.	**We have found a process for WHH agents to escalate issues to the triage team** Need input from Alex and Mina on this. 
     
 5.	**Clarity on VA.gov issues will require doing outreach and training at the other major call centers.** The lack of clarity of where to send users with VA.gov issues has led all call centers to assume that any mention of VA.gov by a user means the user should be transferred somewhere else. We will need to have an outreach strategy to call centers that communicates the WHH is the correct place to transfer users with VA.gov issues but also explain any mention of VA.gov does not automatically mean the user must be transferred. 
 
-## Feedback and Questions from WHH Agents
+## Feedback and Questions from WHH Team
 We received a great deal of anecdotal and qualitative information and feedback from the WHH agents as we held trainings. Below we've written out the top feedback we received directly from agents and their supervisors. 
 
 * **Facility Locator:** In nearly every training session, multiple agents would complain about the facility locator on VA.gov. Many agents complained that this tool was not helpful to them and in fact, most agents said they used the “interactive” VISN map to help a veteran find the nearest VA Medical Center (https://www.va.gov/directory/guide/map.asp?dnum=1). They did say that the facility locator was useful for community care but even still, they complained a great deal that the information was not complete. From a UI perspective, agents seemed to dislike how the information is displayed. The inability to see a full list was bothersome to them. 
@@ -52,4 +52,6 @@ We received a great deal of anecdotal and qualitative information and feedback f
 * **VA.gov Search Bar:** Agents complained about the search bar and that its search results were not helpful. This is especially problematic because the agents have been instructed to not use google when searching for answers. Agents demonstrated a number of scenarios where they’ve tried to use the search bar to find something very specific and the search bar results were way off. 
 
 ## Lessons Learned from Training and Visit 
+
+## Follow up Questions
 
