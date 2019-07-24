@@ -2,7 +2,7 @@
 
 Improve the Veteran experience on Va.gov by...
 
-1) Empowering Contact Centers to better support Veterans
+1) Empowering the White House Hotline to better support Veterans
 1) Ensuring resolution of VA.gov issues reported to us by Contact Centers
 1) Using Contact Center data to help VFS Teams to improve their products
 
@@ -10,10 +10,11 @@ Improve the Veteran experience on Va.gov by...
 
 # Contact Center Lead Responsibilities:
 
-## Empowering Contact Centers to better support Veterans
-- Collab w/ DSVA and Contact Centers to provide training and other materials, so reps know how to handle top questions
+## Empowering the White House Hotline to better support Veterans
+- Collab w/ DSVA and the White House Hotline to provide training and other materials, so reps know how to handle top questions
 - Collab w/ Content & IA Team and Contact Centers so scripts are in "plain language"
 - Collab w/ Product Dev Support and Contact Centers to devise and implement a lean process for VFS Teams to connect w/ Contact Centers to validate utility of new product error messaging, and to prepare reps to handle incoming questions about new products post-launch
+- Identify opportunities to improve the White House Hotline operations and coordination with VA.gov and DSVA teams.  
 
 ## Ensuring resolution of VA.gov issues reported to us by Contact Centers
 - Record Tier 2 and 3 issues from Contact Centers in ZenHub, ensure investigation and resolution (whether resolving on own, or assigning to VFS Team or VSP Team to handle), communicate resolution back to those who need to know.
