@@ -3,6 +3,8 @@
 ## Background
 We ran our first onboarding sessions with a new external team. We wanted to understand what's working in the MVP onboarding process and what can be improved.
 
+[View Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/research/Onboarding%20MVP%20-%20Jul%202019/research%20plan.md)
+
 ## Research questions
 * After onboarding meetings, do team members know what to do next?
 * Do team members feel that onboarding meetings helpful?
@@ -18,9 +20,12 @@ We ran our first onboarding sessions with a new external team. We wanted to unde
 July 18 - 19, 2019 during Full Team and Engineering onboarding meetings
 
 ### Participants
-Participants will be members of the first onboarding team (By Light).
+Participants were members of the first onboarding team (By Light).
 
-[View Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/research/Onboarding%20MVP%20-%20Jul%202019/research%20plan.md)
+* 4 developers
+* 1 team support 
+
+
 
 ## Insights & Recommendations
 
@@ -83,18 +88,10 @@ During both onboarding meetings, all team members felt like all of their questio
 
 ### 7. Most team members felt confident about answering questions on their own
 * Full team onboarding
-   * 1 participant is not confident
-   * 4 participants are somewhat confident
-   * 0 particiants are extremely confident
+   * Not confident - 1 participant
+   * Somewhat confident - 4 participants
+   * Extremely confident - 0
 * Engineering team onboarding
-   * 0 participant is not confident
-   * 3 participants are somewhat confident
-   * 2 particiants are extremely confident
-
-
-
-
-
-
-
-
+   * Not confident - 0
+   * Somewhat confident - 3 participants
+   * Extremely confident - 2 particiants
