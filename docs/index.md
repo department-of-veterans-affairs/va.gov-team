@@ -22,6 +22,7 @@ Is something broken?
 * [Who's OnCall? (PagerDuty schedules)](https://dsva.pagerduty.com/schedules)
 * [See OnCall documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/OnCall) (internal)
 * [Breakers dashboard (Grafana)](http://grafana.vetsgov-internal/dashboard/db/breakers?orgId=1)
+* [Submit a non-critical issue to be triaged](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=)
 
 ## Products
 
