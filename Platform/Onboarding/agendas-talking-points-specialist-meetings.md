@@ -75,3 +75,4 @@ The purpose of these meetings is to:
     - Who should set up those check-ins
     - How the review process works
 - Go over best practices/resources they can use
+    - Discuss implementation best practices
