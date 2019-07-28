@@ -1,7 +1,0 @@
-{
-  "appName": "Secure Messaging",
-  "entryFile": "./messaging-entry.jsx",
-  "entryName": "messaging",
-  "rootUrl": "/health-care/messaging",
-  "production": true
-}

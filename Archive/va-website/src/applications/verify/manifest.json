@@ -1,8 +1,0 @@
-{
-  "appName": "Verify identity",
-  "entryFile": "./verify-entry.jsx",
-  "entryName": "verify",
-  "rootUrl": "/verify",
-  "noRouting": true,
-  "production": true
-}

@@ -1,7 +1,0 @@
-{
-  "appName": "Prescription Refill",
-  "entryFile": "./rx-entry.jsx",
-  "entryName": "rx",
-  "rootUrl": "/health-care/prescriptions",
-  "production": true
-}

@@ -1,8 +1,0 @@
-{
-  "appName": "Authentication callback",
-  "entryFile": "./auth-entry.jsx",
-  "entryName": "auth",
-  "rootUrl": "/auth/login/callback",
-  "noRouting": true,
-  "production": true
-}
