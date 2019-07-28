@@ -13,7 +13,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
 
 * **Review lifecycle**
     * Before sending code to VSP team, have it reviewed by your team (see **First review** below).
-    * An engineer from the VSP willaim to review within 24 hours (business days) and each additional round of changes will be reviewed within 24 hours.  If you need it faster, escalate to Leah and Patrick.
+    * An engineer from the VSP will aim to review within 24 hours (business days) and each additional round of changes will be reviewed within 24 hours.  If you need it faster, escalate to Leah and Patrick.
     * After sending your code for review, don't add additional changes! Code needs to be stable for a safe review.
     * If non-trivial changes to your code are made *after approval by VSP team*, your change is subject to being reverted.
 
