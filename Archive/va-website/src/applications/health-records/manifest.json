@@ -1,7 +1,0 @@
-{
-  "appName": "Health Records",
-  "entryFile": "./health-records-entry.jsx",
-  "entryName": "health-records",
-  "rootUrl": "/health-care/health-records",
-  "production": true
-}

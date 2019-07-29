@@ -1,7 +1,0 @@
-{
-  "appName": "Veteran ID Card beta registration",
-  "entryFile": "./id-card-beta-entry.jsx",
-  "entryName": "id-card-beta",
-  "rootUrl": "/id-card-beta",
-  "production": true
-}

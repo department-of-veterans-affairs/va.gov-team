@@ -1,7 +1,0 @@
-{
-  "appName": "Post 9/11 GI Bill Status",
-  "entryFile": "./post-911-gib-status-entry.jsx",
-  "entryName": "post-911-gib-status",
-  "rootUrl": "/education/gi-bill/post-9-11/ch-33-benefit",
-  "production": true
-}
