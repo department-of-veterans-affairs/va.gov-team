@@ -42,7 +42,8 @@ However, the WHH was created to handle escalated cases and complaints. Because o
    * Identify members of the triage team to add to WHH instance of Salesforce and set up with correct permissions. 
    * Review team structure and hierarchy to determine how supervisors might be able to provide quality control over escalated issues identified by agents. 
     
-5.	**Other call centers do not seem to know about the WHH even though many of them transfer VA.gov issues to MyVA311.** In general, we were very surprised by how little agents in other call centers knew about the WHH. During our "double jacking" sessions, agents in other call centers would express confusion when they were told a call was being transferred to them by the WHH. Very few knew what the WHH was even though we know many agents in other call centers direct people to MyVA311 when calling in about a VA.gov issue. We believe there is an opportunity to do outreach to call centers and provide more clarity on the WHH and its role. This will also allow us to communicate around the WHH roleis the correct place to transfer users with VA.gov issues but also explain any mention of VA.gov does not automatically mean the user must be transferred. 
+5.	**Other call centers do not seem to know about the WHH even though many of them transfer VA.gov issues to MyVA311.** In general, we were very surprised by how little agents in other call centers knew about the WHH. During our "double jacking" sessions, agents in other call centers would express confusion when they were told a call was being transferred to them by the WHH. Very few knew what the WHH was even though we know many agents in other call centers direct people to MyVA311 when calling in about a VA.gov issue. We believe there is an opportunity to do outreach to call centers and provide more clarity on the WHH and its role. This will also allow us to communicate around VA.gov and bring clarity to what a VA.gov issue is and when it is appropriate to transfer to the WHH. 
+   * We are already coordinating with program managers of other call centers on a weekly basis. We are going to bring up this observation with them and begin discussions on what outreach or training we can do with other call centers to ensure they know the purpose of the WHH and which VA.gov issues they handle. 
 
 ## Feedback and Questions from WHH Team
 We received a great deal of anecdotal and qualitative information and feedback from the WHH agents as we held trainings. Below we've written out the top feedback we received directly from agents and their supervisors. 
@@ -56,5 +57,4 @@ We received a great deal of anecdotal and qualitative information and feedback f
 
 ## Lessons Learned from Training and Visit 
 
-## Follow up Questions
 
