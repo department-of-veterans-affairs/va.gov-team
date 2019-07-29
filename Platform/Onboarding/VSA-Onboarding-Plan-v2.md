@@ -23,6 +23,12 @@ All three of our onboarding meeting presentations used the same introduction for
 **Recommendation:**
 Vary the introduction/ice breaker content for each meeting. 
 
+### 4. New team members are getting lost and not knowing when they have completed onboarding and setting up their systems.
+Documentation is located in a few different repos.
+
+**Recommendation:**
+Consolidate repos and make a single onboarding document to make it easier to follow the onboarding process.
+
 
 ## Risks
 When VSA is awarded, we will potentially have 4-5 teams start at the same time, which is double the amount of teams we currently support. What kinds of risks does that introduce? How do we want to handle the risks?
