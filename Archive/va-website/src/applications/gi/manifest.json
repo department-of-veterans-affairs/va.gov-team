@@ -1,7 +1,0 @@
-{
-  "appName": "GI Bill Comparison Tool",
-  "entryFile": "./gi-entry.jsx",
-  "entryName": "gi",
-  "rootUrl": "/gi-bill-comparison-tool",
-  "production": true
-}

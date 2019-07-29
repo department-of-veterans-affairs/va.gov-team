@@ -1,7 +1,0 @@
-{
-  "appName": "21-527EZ pension benefits form",
-  "entryFile": "./pensions-entry.jsx",
-  "entryName": "pensions",
-  "rootUrl": "/pension/application/527EZ",
-  "production": true
-}
