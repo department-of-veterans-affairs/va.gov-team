@@ -1,7 +1,0 @@
-{
-  "appName": "Claims Status",
-  "entryFile": "./discharge-wizard-entry.jsx",
-  "entryName": "discharge-upgrade-instructions",
-  "rootUrl": "/discharge-upgrade-instructions",
-  "production": true
-}
