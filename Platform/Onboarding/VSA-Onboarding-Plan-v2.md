@@ -107,6 +107,19 @@ VSA Onboarding Epic: [https://github.com/department-of-veterans-affairs/va.gov-t
 1. Schedule practice area breakout sessions
 1. Attend the team standups and be available for support
 
+## Product Support Team To-dos
+
+* Set up office hours
+* Product Support member assigned to each team
+* Create a checklist for onboarding and canonical guidance around review and launch processes 
+   * Layla will create ticket to track this 
+   * Leah can validate or start adding items for the checklist)
+* Tell TJ that we're ready to give team members access to Slack and Github accounts 
+* Get a list of the product manager for each team so that we can get team member email addresses/names, etc.
+* Revise intake form questions to be geared toward program manager
+* Add [sensitive vs. public](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/README.md) info to onboarding documentation/checklists
+* Add Leah to Onboarding folder in Google Drive
+
 
 ## Open questions
 
