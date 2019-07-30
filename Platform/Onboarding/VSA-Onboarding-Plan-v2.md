@@ -27,7 +27,9 @@ Vary the introduction/ice breaker content for each meeting.
 Documentation is located in a few different repos.
 
 **Recommendation:**
-Consolidate repos and make a single onboarding document to make it easier to follow the onboarding process.
+
+* Consolidate repos and make a single onboarding document to make it easier to follow the onboarding process.
+* Create checklist with each step of the onboarding process that links out to appropriate documentation. This could be an onboarding epic in Zenhub.
 
 
 ## Risks
