@@ -8,4 +8,10 @@
 
 # Agenda / notes
 
+* Welcome Travis!
+* [Rian] Sprint objective tracking changes
+  * Standup centered around reviewing sprint objectives, checking in on status
+  * Tracked on ZenHub board as well
+  * Triage team: Alex is aligning VSP Product Model / Sprint Objectives / ZenHub board
 * [Anna] Code review guidelines
+  * [PR for these](https://github.com/department-of-veterans-affairs/va.gov-team/pull/717)
