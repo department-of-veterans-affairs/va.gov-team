@@ -5,6 +5,7 @@ Onboarding date: JUL 18, 2019
 Add description, links
 
 ## Team members
+* Clarice C., Presidential Innovation Fellow
 * Kenneth E. (aka Elwood), Developer
 * Michael T., Developer
 * Brittany C., Web Developer
