@@ -13,12 +13,13 @@ VA.gov content resources:
 
 * [Content best practices](#best-practices)
 * [What to expect in a content review](#what-to-expect-content-review)
+* [When to request a content review](#when-to-request-content-review)
 * [How to request a content review](#how-to-request-content-review)
 
 <hr>
 
 ## Content best practices
-In addition to following the VA.gov content styleguides, please adhere to the following writing and content strategy best practices:   
+In addition to following the above VA.gov content styleguides, please adhere to these writing and content strategy best practices:   
 
 **1. Use plain language and write for your audience. Use language that the user feels comfortable with and will understand.** 
 
@@ -118,7 +119,7 @@ For example: "If you can’t work because of a service-connected disability, you
 
 ## What to expect in a content review
 
-We'll review the following during a content review: 
+The following is reviewed during a content review: 
 
 -	[ ] [Voice](https://design.va.gov/content-style-guide/content-principles.html): Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
 
@@ -129,6 +130,20 @@ We'll review the following during a content review:
 -	[ ] [Grammar and style guide check](https://design.va.gov/content-style-guide/): The review will also include a grammar check (look for typos, misspellings, and punctuation/spacing errors) and style guide check (ensure content adheres to the VA.gov style guide).
 
 -------- 
+
+## When to request a content review
+
+Content should be brought in as early as possible when you begin work on a product or tool. It's important to have a content person at a product kickoff meeting, so they are aware of the tool/form/page's use cases and audience. This will better inform the content review later on in the process. 
+
+In addition to having content part of a product kickoff meeting, a content review should be requested at these times:  
+
+* **Before a user research session.** This is to ensure participants don't get distracted by misspellings and grammar errors, and that the content works with the tool functionality.  
+* **Before a page or prototype is share with a stakeholder or SME.** This is to ensure SMEs aren't distracted by misspelling and grammar errors, and that the content works with the tool functionality. 
+* **Before a product launches.** Content review should be part of every product launch checklist. In some situations, several content reviews might need to happen before a product launch (for example, if there are multiple PRs that need reviewing).     
+
+In addition, a content review can be requested any time a team thinks they could benefit from having an edit or review, outside of the three situations listed above. 
+
+--------
 
 ## How to request a content review
 
