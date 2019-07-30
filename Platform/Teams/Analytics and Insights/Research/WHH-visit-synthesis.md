@@ -11,14 +11,14 @@
 ## The Problem
 
 Since the launch of the new VA.gov, there has not been an identified call center that is responsible for handling VA.gov user issues due to HRC’s decision to not transition support from Vets.gov to VA.gov.  Because of this, there are several VA.gov specific issues (i.e. signing in, navigation, VA.gov technical issues, etc.) that are not handled or tracked by any call center. This has caused significant problems for the VA.gov team and its users.
-1.	Users are unable to get help for simple issues when they call into a call center. Users are being transferred from one call center to another and are unable to find the answers to issues or report a technical problem.
+1.	Users are unable to get help for simple issues when they contact a call center. Users are being transferred from one call center to another and are unable to find the answers to issues or report a technical problem.
 2.	 The VA.gov team(s) are not able to get consistent tracking or feedback on user issues. This has made it nearly impossible to resolve technical issues and inform product development and prioritization. 
 To meet the gaps in the current situation, VEO identified the White House Hotline (WHH) as the call center to be trained on VA.gov issues and collaborate with the DSVA and VA.gov teams to create a system for reporting and tracking.  
 
 ## Goals of the Trip
 1.	Provide training on VA.gov to all agents at the WHH.  We trained 60 agents and supervisors in 12 training sessions.  
-2.	Learn more about the operations of the call center. Mina and Alex participated in agent ride alongs and were briefed on the CRM and its functionality.  
-3.	Observe and record feedback to improve future training and collaboration with the White House Hotline. We used our training sessions as an opportunity to ask questions about VA.gov, the Veteran and agent experience to uncover any interesting themes or issues.   
+2.	Learn more about the operations of the call center. Mina and Alex participated in "doubl jacking" sessions (listening in on live calls) and were briefed on the CRM and its functionality.  
+3.	Observe and record feedback to improve future training and collaboration with the White House Hotline. We used our training sessions as an opportunity to ask questions about VA.gov and the Veteran and agent experience, to uncover any interesting themes or issues.   
 
 ## Major Findings and Next Steps
 1.	**WHH agents and supervisors are generally not familiar with VA.gov and its offerings.** While we did not poll ahead of the training, we found that many WHH agents, if not the majority, are not very familiar with VA.gov and therefore rarely help users with a VA.gov issue. Unsurprisingly, WHH agents who were also veterans, had the most understanding of VA.gov. Otherwise, an agent’s knowledge on VA.gov was completely dependent on their own desire to learn more about it. This is difficult for non-veteran agents because they can’t easily see what an identity verified, veteran account looks like. We learned that some agents had to find a veteran agent, and have them sign into their VA.gov account to replicate the screen a user was on and provide assistance. 
