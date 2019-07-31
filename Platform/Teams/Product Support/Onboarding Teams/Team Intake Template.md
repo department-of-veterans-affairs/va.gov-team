@@ -5,9 +5,9 @@ Onboarding date: mm/dd/yyyy
 Add description, links
 
 ## Team members
-* Team member first name and last initial, role
-* Team member first name and last initial, role
-* Team member first name and last initial, role
+* Team member first name and last initial, role, GitHub username, Slack username 
+* Team member first name and last initial, role, GitHub username, Slack username
+* Team member first name and last initial, role, GitHub username, Slack username
 
 ### Availability
 Add details from intake form
