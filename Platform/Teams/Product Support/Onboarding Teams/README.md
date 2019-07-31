@@ -8,6 +8,6 @@ To add a new team:
 * Add a link to the new team document below
 
 ## Onboarding teams
-* [JUL 18, 2019 - By Light - SMS notifications preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/JUL%2018%2C%202019%20-%20By%20Light%20-%20SMS%20notifications%20preferences.md)
+* [JUL 18, 2019 - By Light - SMS notifications preferences](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/By-Light-JUL-18-2019/JUL%2018%2C%202019%20-%20By%20Light%20-%20SMS%20notifications%20preferences.md)
 
 
