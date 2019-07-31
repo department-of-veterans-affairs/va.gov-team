@@ -23,6 +23,14 @@ All three of our onboarding meeting presentations used the same introduction for
 **Recommendation:**
 Vary the introduction/ice breaker content for each meeting. 
 
+### 4. New team members are getting lost and not knowing when they have completed onboarding and setting up their systems.
+Documentation is located in a few different repos.
+
+**Recommendation:**
+
+* Consolidate repos and make a single onboarding document to make it easier to follow the onboarding process.
+* Create checklist with each step of the onboarding process that links out to appropriate documentation. This could be an onboarding epic in Zenhub.
+
 
 ## Risks
 When VSA is awarded, we will potentially have 4-5 teams start at the same time, which is double the amount of teams we currently support. What kinds of risks does that introduce? How do we want to handle the risks?
@@ -98,6 +106,19 @@ VSA Onboarding Epic: [https://github.com/department-of-veterans-affairs/va.gov-t
 1. Schedule kickoff meetings (TBD)
 1. Schedule practice area breakout sessions
 1. Attend the team standups and be available for support
+
+## Product Support Team To-dos
+
+* Set up office hours
+* Product Support member assigned to each team
+* Create a checklist for onboarding and canonical guidance around review and launch processes 
+   * Layla will create ticket to track this 
+   * Leah can validate or start adding items for the checklist)
+* Tell TJ that we're ready to give team members access to Slack and Github accounts 
+* Get a list of the product manager for each team so that we can get team member email addresses/names, etc.
+* Revise intake form questions to be geared toward program manager
+* Add [sensitive vs. public](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/README.md) info to onboarding documentation/checklists
+* Add Leah to Onboarding folder in Google Drive
 
 
 ## Open questions

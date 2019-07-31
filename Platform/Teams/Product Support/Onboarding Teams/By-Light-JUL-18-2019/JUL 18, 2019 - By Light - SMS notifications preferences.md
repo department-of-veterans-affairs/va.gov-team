@@ -1,13 +1,15 @@
 # By Light - SMS notifications preferences
-Onboarding date: JUL 18, 2019 (tentative)
+Onboarding date: JUL 18, 2019 
 
 ## Project
 Add description, links
 
 ## Team members
+* Clarice C., Presidential Innovation Fellow
 * Kenneth E. (aka Elwood), Developer
 * Michael T., Developer
 * Brittany C., Web Developer
+* Dan H., Developer
 * Dorothy B., Team Support
 
 ### Availability
