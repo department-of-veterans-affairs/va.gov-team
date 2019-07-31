@@ -6,11 +6,19 @@ Add description, links
 
 ## Team members
 * Clarice C., Presidential Innovation Fellow
+   * GitHub: unknown
 * Kenneth E. (aka Elwood), Developer
+   * GitHub: @elwoodva
 * Michael T., Developer
+  * GitHub: @talbotmj
 * Brittany C., Web Developer
+  * GitHub: @brittanyclausen 
 * Dan H., Developer
+  * GitHub: @danheverly
+* Barry E. Developer
+  * GitHub: unknown
 * Dorothy B., Team Support
+  * GitHub: @dorothyjb 
 
 ### Availability
 * Team is available from 9 a.m. to 5 p.m. EST, or outside of those hours with prior notice.
