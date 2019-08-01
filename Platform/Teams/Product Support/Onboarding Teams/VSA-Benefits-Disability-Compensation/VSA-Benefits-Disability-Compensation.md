@@ -1,15 +1,14 @@
 # VSA Benefits Disability Compensation
-
-# [Team name] - [project]
 Onboarding date: 8/5/2019
 
 ## Project
 Add description, links
 
 ## Team members
-* Team member first name and last initial, role, GitHub username, Slack username 
-* Team member first name and last initial, role, GitHub username, Slack username
-* Team member first name and last initial, role, GitHub username, Slack username
+* Andrea Schneider, DSVA Product Lead, GitHub: AZSchneider
+* Yana R., Product Manager, GitHub: YanaRoy
+* Nate Chen, Designer/Researcher, GitHub: Great2BNate
+
 
 ### Availability
 Add details from intake form
