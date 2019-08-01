@@ -14,9 +14,9 @@ You are! VFS stands for Veteran Facing Services. Any sprint team building online
 
 The Veteran-facing Services Platform (VSP) is the common infrastructure, technical and non-technical components, and processes that support static and interactive content consumed by Veterans via VA.gov. Major pieces of the VSP include a set of APIs that manage communication between a Veteran user and internal VA resources, an identity and authentication system, a design system based on the U.S. Web Design System, reusable frontend components, a Drupal-based content management system, and an extensive set of documentation and guides.
 
-## How should VFS Teams expect to interact with VSP?
+## How should VFS Teams expect to move forward, and what should they expect of VSP?
 
-Read through the following docs to learn how to work with VSP as you design, build, deploy, measure, and iterate on your application.
+Read through the following docs to learn how to create online experiences the VA.gov way, and how to work with VSP as you design, build, deploy, measure, and iterate on your application.
 
 ### Content
 - [Here are the best practices on writing great, plain language content on VA.gov](https://design.va.gov/content-style-guide/)
@@ -40,15 +40,17 @@ Read through the following docs to learn how to work with VSP as you design, bui
 - We are undergoing some repository construction, so this may change in the future, but for now please store your VA.gov Product documentation in the [vets.gov-team repo product folders](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products).
 - [Here's how to use ZenHub to manage your projects](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/zenhub_product_management.pdf)
 
-### 508
+### 508 Accessibility
 - [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md)
 - You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](/)
 
-### Analytics
+### Analytics and Insights
 - [Here's how to set KPIs to track the success of your VA.gov solutions](/)
 - [Here's how to incorporate analytics into your VA.gov solutions](/)
 - VSP is here to help you as you set up analytics in your code. [Here's how to request Analytics support](/)
 - You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](/)
+
+### Call Center
 
 ### QA
 
