@@ -16,9 +16,9 @@ The Veteran-facing Services Platform (VSP) is the common infrastructure, technic
 
 ## How should VFS Teams expect to move forward, and what should they expect of VSP?
 
-Read through this sample onboarding timeline and the list of docs to help you learn how to create online experiences the VA.gov way, and how to work with VSP as you design, build, deploy, measure, and iterate on your application.
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/VFS_Team_Onboarding_Timeline.001.png)
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/VFS_Team_Onboarding_Timeline.001.jpeg)
+Read through this sample onboarding timeline and the list of docs to help you learn how to create online experiences the VA.gov way, and how to work with VSP as you design, build, deploy, measure, and iterate on your application.
 
 ### Content
 - [Here are the best practices on writing great, plain language content on VA.gov](https://design.va.gov/content-style-guide/)
