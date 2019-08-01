@@ -18,15 +18,15 @@ The Veteran-facing Services Platform (VSP) is the common infrastructure, technic
 
 Here's a sample timeline of what you should expect to do as you prepare to start designing / building / iterating in collaboration with VSP.
 
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/VSP_Onboarding_Timeline.001.png)
+
 ## A quick note about how to be careful w/data in a public repository
 
 You will have access to our open source (i.e. public) GitHub repository for tracking work and documentation. [Here are some ground rules to make sure you know what *not* to do when working in a public repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive).
 
 ## What should VFS Teams expect to do as they design, build, launch, iterate?
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/VSP_Onboarding_Timeline.001.png)
-
-And here are materials you should start familiarizing yourself with to help you learn how to create online experiences the VA.gov way, and how to work with VSP as you go.
+Here are materials you should start familiarizing yourself with to help you learn how to create online experiences the VA.gov way, and how to work with VSP as you go.
 
 ### Product
 Document what you're building, what problem it's solving, what outcomes you hope it achieves, and how you'll measure success. And track the work necessary to actually deliver the solution.
