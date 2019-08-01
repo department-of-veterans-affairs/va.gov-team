@@ -3,9 +3,10 @@ This is where details about teams going through the Onboarding process are track
 
 To add a new team:
  
+* Create a new folder for the team. Name the new team folder in the following format: [Onboarding date - Team Name - Short project name]
 * Create a new document using the [Team Intake Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/Team%20Intake%20Template.md) and add details from them intake form 
 * Name the new team document in the following format: [Onboarding date - Team Name - Short project name]
-* Add a link to the new team document below
+* Add a link to the team folder under Currently Onboarding section below
 
 ## Currently Onboarding
 
@@ -19,6 +20,3 @@ To add a new team:
 
 ## Completed Onboarding
 When teams have completed the onboarding process, move them to this list.
-
-
-
