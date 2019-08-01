@@ -17,6 +17,7 @@ The folders are organized to mimic the information architecture of the VA.gov we
     - [Records](./Records/README.md)
     - [Service member](./Service%20member/README.md) *[still in discovery]*
 - **Sitewide**
+    - [Appeals and Decision Reviews] (./Appeals/README.md)
     - [Global](./Global/README.md): user-facing components (search, prefill, homepage, etc.)
     - [Identity](./Identity/README.md): user identity (login, personalization, profile, etc.)
 
