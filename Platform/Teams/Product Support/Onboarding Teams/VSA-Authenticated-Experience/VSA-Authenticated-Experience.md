@@ -1,7 +1,7 @@
 # VSA Authenticated Experience 
 
 Onboarding date: 8/5/2019
-
+*Needs intake info*
 
 ## Project
 Add description, links
@@ -14,8 +14,6 @@ Add description, links
 * Erik P. Hansen, Front End Engineer, @erikphansen
 * Amen Ra, Front End Engineer, @mojaray2k
 * Arthur Green, GCIO Designer/Researcher, @artistgreen
-
-*Needs intake info**
 
 ### Availability
 Add details from intake form
