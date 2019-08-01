@@ -182,7 +182,7 @@ Please also tag the issue with:
 -	Milestone (when do you want this completed?)
 -	Epic (what body of work is this a part of?)
 -	Team/Practice Area label  ( ```content``` or ```content-ia-team```)
-- Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool```)
+- Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 -	Assign issue to @peggygannon
 
 5. Once the content review is complete:
