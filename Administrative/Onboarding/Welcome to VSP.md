@@ -1,6 +1,6 @@
 # Welcome to the Veteran Services Platform (VSP)!
 
-You are here to build online experiences on VA.gov that will improve Veteran's lives. VSP is here to give you to the tools, systems, and guidance you need help you do that. As you develop your application, we’ll be your support team helping you through the VA.gov ecosystem, best practices, and processes - including the iterative cycle of ideation and strategy, user testing, launching code, and measuring results.
+You are here to build online experiences on VA.gov that will improve Veteran's lives. VSP is here to give you to the tools, systems, and guidance you need to do that. As you develop your application, we’ll be your support team helping you through the VA.gov ecosystem, best practices, and processes - including the iterative cycle of ideation and strategy, user testing, launching code, and measuring results.
 
 ## What is VA.gov?
 
