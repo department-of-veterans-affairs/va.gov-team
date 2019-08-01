@@ -1,7 +1,9 @@
 # Onboarding welcome email template
-Subject: Welcome to the Veteran Services Platform (VSP)! Let’s get started.
+Subject: Welcome to VA.gov! Let’s get started.
 
-Welcome to VSP! Our main goal is to provide you with tools and guidance to build the best possible web experience for our country’s Veterans. We’re happy to have you contributing to the project and are looking forward to working with you.
+Welcome to VA.gov! My name is ______, and I'm a ______ on VA.gov's Product Support team. I'll be your main point of contact during your onboarding experience. 
+
+My team, Product Support, is part of VA.gov's platform team, also known as VSP or Veteran Services Platform. Our main goal is to provide you with tools and guidance to build the best possible web experience for our country’s Veterans. We’re happy to have you contributing to the project and are looking forward to working with you.
 
 As you develop your application, we’ll be your support team helping you through the VA.gov ecosystem, best practices, and processes - including the iterative cycle of ideation and strategy, user testing, launching code, and measuring results. In the next few days, we’ll meet with you to go over all the resources you’ll need as you develop on VA.gov.
 
@@ -11,19 +13,17 @@ Here’s how to get started:
 
 **1. Attend VSP Onboarding!**
 
-* General onboarding: Wednesday, July 17 at 10:00am ET, [Zoom meeting]()
-* Engineering onboarding: Wednesday, July 17 at 12pm ET, [Zoom meeting]() 
-* Design onboarding: Wednesday, July 17 at 2pm ET, [Zoom meeting]() 
-
-(We’ll send you calendar invitations for these too once we have email addresses for your full team.)
+* General onboarding: Monday, August 5th at 11:00am ET, [Zoom meeting]()
+* Engineering onboarding: Monday, August 5th at 2:30pm ET, [Zoom meeting]() 
+* Design onboarding: Monday, August 5th at 4pm ET, [Zoom meeting]() 
 
 **2. Have one person on your team complete the following questionnaire** so we can better understand your project, your team, and the best way we might help you: [https://adhoc.optimalworkshop.com/questions/intake-team]() 
 
 **3. Start setting up access to the various VSP systems:**
 
-* Install Slack
-* Install Zoom
-* Install ZenHub extension
+* [Install Slack](https://get.slack.help/hc/en-us/sections/360000110123-Download-the-Slack-app)
+* [Install Zoom](https://zoom.us/download)
+* [Install ZenHub extension](https://help.zenhub.com/support/solutions/articles/43000507578-installing-the-zenhub-extension)
 
 **4. Engineers, set up your local dev environment:**
 
@@ -31,4 +31,4 @@ Instructions on how to get started and set up VA.gov locally: [https://github.co
 
 Aside from that, be on the lookout for more emails with invitations to our systems (like Slack and GitHub) and collaboration meetings. And get excited - you’re about to embark upon a journey creating solutions that will improve Veterans’ lives. 
 
-We are looking forward to getting started. Welcome to the VA.gov and VSP team.
+We are looking forward to getting started. Welcome to the VA.gov!
