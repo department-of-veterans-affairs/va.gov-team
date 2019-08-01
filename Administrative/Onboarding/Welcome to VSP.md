@@ -14,9 +14,15 @@ You are! VFS stands for Veteran Facing Services. Any sprint team building online
 
 The Veteran-facing Services Platform (VSP) is the common infrastructure, technical and non-technical components, and processes that support static and interactive content consumed by Veterans via VA.gov. Major pieces of the VSP include a set of APIs that manage communication between a Veteran user and internal VA resources, an identity and authentication system, a design system based on the U.S. Web Design System, reusable frontend components, a Drupal-based content management system, and an extensive set of documentation and guides.
 
-## How should VFS Teams expect to move forward from here? How should they interact with VSP?
+## How should VFS Teams expect to get up and running?
 
 Here's a sample timeline of what you should expect to do as you prepare to start designing / building / iterating in collaboration with VSP.
+
+## A quick note about how to be careful w/data in a public repository
+
+You will have access to our open source (i.e. public) GitHub repository for tracking work and documentation. [Here are some ground rules to make sure you know what *not* to do when working in a public repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive).
+
+## What should VFS Teams expect to do as they design, build, launch, iterate?
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/VSP_Onboarding_Timeline.001.png)
 
