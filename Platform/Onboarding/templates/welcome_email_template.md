@@ -13,11 +13,13 @@ Here’s how to get started:
 
 **1. Attend VSP Onboarding!**
 
-* General onboarding: Monday, August 5th at 11:00am ET, [Zoom meeting]()
-* Engineering onboarding: Monday, August 5th at 2:30pm ET, [Zoom meeting]() 
-* Design onboarding: Monday, August 5th at 4pm ET, [Zoom meeting]() 
+* General onboarding: Monday, August 5th at 11:00am ET, [Zoom meeting](https://zoom.us/j/178649656 )
+* Engineering onboarding: Monday, August 5th at 2:30pm ET, [Zoom meeting](https://zoom.us/j/666886545) 
+* Design onboarding: Monday, August 5th at 4pm ET, [Zoom meeting](https://zoom.us/j/307060333) 
 
-**2. Have one person on your team complete the following questionnaire** so we can better understand your project, your team, and the best way we might help you: [https://adhoc.optimalworkshop.com/questions/intake-team]() 
+(If you have not received an invite to a onboarding meeting that you would like to attend, please let me know.)
+
+**2. Have one person on your team complete the following questionnaire** so we can better understand your project, your team, and the best way we might help you: [https://adhoc.optimalworkshop.com/questions/vsa-team-intake](https://adhoc.optimalworkshop.com/questions/vsa-team-intake) 
 
 **3. Start setting up access to the various VSP systems:**
 
