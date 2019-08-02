@@ -1,9 +1,9 @@
 ---
 name: New Team Onboarding Epic Template
 about: For filing an onboarding epic on VSP.
-title: 'New Team Onboarding'
-labels: 'product-support', 'onboarding'
-assignees: ''
+title: New Team Onboarding
+labels: Onboarding
+
 ---
 
 ## User Story
