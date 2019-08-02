@@ -65,8 +65,8 @@ In tiny iterative chunks and with robust testing, bring the solution to life thr
 ### Accessibility
 Test incrementally to make sure your solutions works for everyone.
 
-- [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/508-accessibility-best-practices.md).
-- You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](/). ****This needs a URL****.
+- [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/508-accessibility/508-accessibility-best-practices.md).
+- You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-508-review.md).
 
 ### Analytics and insights
 Incorporate analytics into your code so that you can track the health of your solution over time and understand whether it's achieving the outcomes you hoped it would.
