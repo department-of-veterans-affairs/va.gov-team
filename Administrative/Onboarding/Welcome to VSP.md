@@ -72,7 +72,7 @@ In tiny iterative chunks and with robust testing, bring the solution to life thr
 Test incrementally to make sure your solutions works for everyone.
 
 - [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-accessibility-best-practices.md).
-- You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-accessibility-prelaunch-review.md).
+- You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-request-prelaunch-review.md).
 
 ### Analytics and insights
 
