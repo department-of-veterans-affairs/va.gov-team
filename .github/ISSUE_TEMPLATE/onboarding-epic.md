@@ -12,7 +12,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 ## Acceptance Criteria
 - [ ] Each team member has completed each item in the onboarding checklist below.
 
-## Definition of Done
+## Onboarding Checklist
 
 - [ ] Attend general onboarding meeting
 - [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/request-access-to-tools.md)
