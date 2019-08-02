@@ -7,7 +7,7 @@ labels: 508/Accessibility
 ## Instructions
 
 1. Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team.
-2. If this issue is being opened by an external team, please add the `triage-incident` and `product support` labels.
+2. If this issue is being opened by a VFS team, please add the `triage-incident` and `product support` labels.
 3. Text inside `<-- comment -->` blocks will not appear in your issue ticket. These comments offer guidance on what information you should provide for each section.
 
 <!--Issue Title
