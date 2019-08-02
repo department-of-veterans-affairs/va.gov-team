@@ -6,3 +6,5 @@ Here are materials you should start familiarizing yourself with to help you lear
 - [Welcome to the Veteran-facing Services Platform (VSP)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/Welcome%20to%20VSP.md)
 - [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/Product%20Development%20Checklist.md)
 
+If you have any questions, the VSP Team is available to help in the #vfs-platform-support channel in Slack.
+
