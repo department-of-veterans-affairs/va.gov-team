@@ -71,10 +71,11 @@ Test incrementally to make sure your solutions works for everyone.
 ### Analytics and insights
 Incorporate analytics into your code so that you can track the health of your solution over time and understand whether it's achieving the outcomes you hoped it would.
 
-- [Here's how to set KPIs to track the success of your VA.gov solutions](/).****This needs a URL****
-- [Here's how to incorporate analytics into your VA.gov solutions](/).****This needs a URL****
-- VSP is here to help you as you set up analytics in your code. [Here's how to request Analytics support](/).****This needs a URL****
-- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](/).****This needs a URL****
+<!--- [Here's how to set KPIs to track the success of your VA.gov solutions](/).****This needs a URL****-->
+<!--- [Here's how to incorporate analytics into your VA.gov solutions](/).****This needs a URL****-->
+VSP is here to help you as you set up KPIs and integrate analytics in your code. Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can help, and to schedule an Analytics review.
+
+<!--[Here's how to request Analytics support](/).****This needs a URL**** You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](/).****This needs a URL****-->
 
 <!--### Call Center-->
 
@@ -84,7 +85,7 @@ Both manually and through automated tests, ensure your solution is doing what yo
 - [Here's how to QA your solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/How%20To%20Coordinate%20QA%20Testing.md)
 - VSP is here to help you as you test to ensure your solutions are top quality! Reach out to #vfs-platform-support in Slack to ask questions, or schedule a meeting with us so we can help when you need it.
 
-<!--### Release Planning-->
+<!--### Release Planning: Document release phases and the criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms. You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can review and/or help your write your release plan.-->
 
 ### ATO
 You'll need to ensure the solution you're building has the authority to operate (ATO). [Here's what to expect, and how to request an ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md).
