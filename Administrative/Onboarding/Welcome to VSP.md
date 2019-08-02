@@ -57,7 +57,7 @@ Determine the most intuitive place for Veterans to access your application, the 
 In tiny iterative chunks and with robust testing, bring the solution to life through code.
 
 - [Here's how to write great front end code for VA.gov solutions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
-- [Here's how to write great back end code for VA.gov solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Backend). ****This doc needs updating.****
+- [Here's how to write great back end code for VA.gov solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Backend). <!--****This doc needs updating.****-->
 - You'll need frequent (usually around weekly) code reviews from VSP to hep you make sure you're on track! [Here's what to expect, and how to request a code review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Engineering/code_review_guidelines.md)
 
 <!--### Research-->
