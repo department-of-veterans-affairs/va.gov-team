@@ -4,7 +4,6 @@ about: For filing an onboarding epic on VSP.
 title: 'New Team Onboarding'
 labels: 'product-support', 'onboarding'
 assignees: ''
-
 ---
 
 ## User Story
