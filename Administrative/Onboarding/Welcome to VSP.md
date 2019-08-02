@@ -84,6 +84,8 @@ Both manually and through automated tests, ensure your solution is doing what yo
 - [Here's how to QA your solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/How%20To%20Coordinate%20QA%20Testing.md)
 - VSP is here to help you as you test to ensure your solutions are top quality! Reach out to #vfs-platform-support in Slack to ask questions, or schedule a meeting with us so we can help when you need it.
 
+<!--### Release Planning-->
+
 ### ATO
 You'll need to ensure the solution you're building has the authority to operate (ATO). [Here's what to expect, and how to request an ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md).
 
