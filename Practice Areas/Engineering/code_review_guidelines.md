@@ -25,7 +25,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
   * Add your team specific label(s)
     * Additionally if your change requires:
       * A database migration please use the `database-migration` label
-      * A dependency/package upgrade please use the `package-upgrade` label
+      * A dependency/package upgrade please use the `package-change` label
   * Your code should first be reviewed and approved by a member of your team. That first review should cover:
     * **Correctness** of the code (does it correctly implement the described feature?)
     * **Code quality**: is it readable? Is it language-idiomatic?
