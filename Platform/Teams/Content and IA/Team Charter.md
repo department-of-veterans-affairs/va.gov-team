@@ -1,13 +1,18 @@
 # VSP Content & IA Team Charter
 
-## Mission:
-Uphold usability and plain language standards across Content and Navigation on VA.gov, and empower VFS Teams with the guidance, documentation, and reviews necessary for them to create content and IA in line with those standards.
+## VSP North Star:
+Enable VA to build digital tools at scale that improve Veterans’ lives.
+
+## Team Mission:
+Uphold Content and Information Architecture (IA) usability and plain language standards across VA.gov, and empower VFS Teams with the guidance, documentation, and reviews necessary for them to create content and IA in line with those standards.
 
 ## Responsibilities:
-- Meet regularly w/VFS teams to discuss in-progress content and IA and provide guidance
-- Be available in #vfs-platform-support to answer Content and IA related questions
-- Provide plain language content reviews for VFS Teams
-- Provide IA reviews for VFS Teams
+- Define and maintain rules of engagement (ROE) for how VSP and VFS teams should collaborate.
+- Keep content and IA best practice documentation up to date
+- Meet regularly w/VFS teams to discuss in-progress content and IA and provide guidance.
+- Be available in #vfs-platform-support to answer Content and IA related questions.
+- Provide plain language content reviews for VFS Teams.
+- Provide IA reviews for VFS Teams.
 
 ## Still TBD:
 - What about VA.gov Content Owners? Who takes care of requests they submit? And do those updates need to be reviewed/approved by VSP?
