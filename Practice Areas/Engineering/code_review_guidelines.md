@@ -21,7 +21,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
   * **Correctness** of the code (does it correctly implement the described feature?)
   * **Code quality**: is it readable? Is it language-idiomatic?
   * **Does it have screenshots of the change?** (FE changes)
-  * **Use Draft Pull Review**: This prevents [code owners](https://help.github.com/en/articles/about-code-owners) from being notified before pull request is ready for review.
+  * **Use [Draft Pull Requests](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests)**: This prevents [code owners](https://help.github.com/en/articles/about-code-owners) from being notified before pull request is ready for review.
 
 * **Description**: make it clear what the change is describing.
   * **PR title** should be a concise summary of the change.
