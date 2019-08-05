@@ -33,3 +33,14 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - VSP content launch criteria
 - VSP IA launch criteria
 - VFS Team Resources content and IA (i.e. the "portal" concept)
+
+## Roamdap
+- TBD
+
+## Team Members
+Mikki: IA Expert
+Peggy: Content Expert
+Matt: Technical Writer / IA
+
+
+
