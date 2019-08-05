@@ -25,7 +25,7 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - There shouldn't be any VFS Teams onboarded onto VSP if they don't have a content person on their team. DSVA should take care of this through Intake.
 
 ## Product Portfolio
-- Content section of Design.va.gov
+- [Content section of design.va.gov](https://design.va.gov/content-style-guide/)
 - VA.gov IA best practices documentation
 - VA.gov menus and navigation
 - VA.gov SEO best practices documentation
