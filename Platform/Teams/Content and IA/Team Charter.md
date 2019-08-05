@@ -19,6 +19,7 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - Be available in #vfs-platform-support to answer Content and IA related questions.
 - Provide plain language content reviews for VFS Teams.
 - Provide IA reviews for VFS Teams.
+- Perform research and recommendations necessary to iterate on VA.gov IA as the site grows and evolves to meet user needs.
 
 ## Still TBD:
 - What about VA.gov Content Owners? Who takes care of requests they submit? And do those updates need to be reviewed/approved by VSP?
