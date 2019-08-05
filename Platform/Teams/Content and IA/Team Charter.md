@@ -24,12 +24,18 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - What about VA.gov Content Owners? Who takes care of requests they submit? And do those updates need to be reviewed/approved by VSP?
 - What about this ongoing review work we're doing for CMS right now? Is that supposed to be on our team, or on a VFS team?
 
-## How VSP Content & IA team collaborates with VFS Content & IA Team Members:
+## How VSP Content Support collaborates with VFS team members:
 - VFS Teams will write their own content, following the guidance and standards provided by VSP
-- VFS Teams will meet regularly with the VSP Content & IA Team to provide updates on their content and IA thoughts/approaches in order to stay on track and schedule reviews appropriately.
-- VSP will provide content and IA reviews of VFS Teams' work following the VSP content and IA criteria and will provide feedback accordingly
+- VFS Teams will meet regularly with VSP to provide updates on their content thoughts/approaches in order to stay on track and schedule reviews appropriately.
+- VSP will provide content reviews of VFS Teams' work following the VSP content criteria and will provide feedback accordingly
 - VFS Teams will update their content per the recommendations from VSP reviews
 - There shouldn't be any VFS Teams onboarded onto VSP if they don't have a content person on their team. DSVA should take care of this through Intake.
+
+## How VSP IA Support collaborates with VFS team members:
+- VFS Teams will reach out to VSP to collaborate on determining URL structure and entry points for their product, per the standards and guidance provided by VSP
+- VFS Teams will meet regularly with VSP to provide updates on their IA thoughts/approaches in order to stay on track and schedule reviews appropriately.
+- VSP will provide IA reviews of VFS Teams' work following the VSP IA criteria and will provide feedback accordingly
+- VFS Teams will update their IA per the recommendations from VSP reviews
 
 ## Product Portfolio
 - [Content section of design.va.gov](https://design.va.gov/content-style-guide/)
