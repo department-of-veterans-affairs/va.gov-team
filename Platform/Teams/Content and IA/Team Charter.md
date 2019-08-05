@@ -21,6 +21,7 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 ## How VSP Content & IA team collaborates with VFS Content & IA Team Members:
 - VFS Teams will write their own content, following the guidance and standards provided by VSP
 - VFS Teams will meet regularly with the VSP Content & IA Team to provide updates on their content and IA thoughts/approaches in order to stay on track and schedule reviews appropriately.
+- VSP will provide content and IA reviews of VFS Teams' work following the VSP content and IA criteria and will provide feedback accordingly
 - VFS Teams will update their content per the recommendations from VSP reviews
 - There shouldn't be any VFS Teams onboarded onto VSP if they don't have a content person on their team. DSVA should take care of this through Intake.
 
