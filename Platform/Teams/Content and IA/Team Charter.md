@@ -1,4 +1,4 @@
-# VSP Content & IA Team Charter
+# VSP Content and IA Team Charter
 
 ## VSP North Star:
 Enable VA to build digital tools at scale that improve Veterans’ lives.
