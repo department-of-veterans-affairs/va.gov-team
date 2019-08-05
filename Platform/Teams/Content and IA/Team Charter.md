@@ -6,6 +6,12 @@ Enable VA to build digital tools at scale that improve Veterans’ lives.
 ## Team Mission:
 Uphold Content and Information Architecture (IA) usability and plain language standards across VA.gov, and empower VFS Teams with the guidance, documentation, and reviews necessary for them to create content and IA in line with those standards.
 
+## Bets this team currently contributes to:
+- Onboarding: onboarding must focus on capacity building and expectation-setting for VFS Teams to be successful
+- Support: support must be highly available and collaborative for VFS Teams to be successful in the short term.
+- VSP Rules of Engagement (ROE): we do everything organically today, but we can't learn and improve on VSP protocols if we don’t have our approaches defined and documented.
+- “Portal” (though this is a bad name): self-service can’t work if we don’t have an easily navigable place w/strong UX for VFS Teams to find all the information they need.
+
 ## Responsibilities:
 - Define and maintain rules of engagement (ROE) for how VSP and VFS teams should collaborate.
 - Keep content and IA best practice documentation up to date
