@@ -32,3 +32,4 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - VSP content review process
 - VSP content launch criteria
 - VSP IA launch criteria
+- VSP repository / product team resources content and IA
