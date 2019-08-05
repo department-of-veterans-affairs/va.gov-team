@@ -23,3 +23,12 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - VFS Teams will meet regularly with the VSP Content & IA Team to provide updates on their content and IA thoughts/approaches in order to stay on track and schedule reviews appropriately.
 - VFS Teams will update their content per the recommendations from VSP reviews
 - There shouldn't be any VFS Teams onboarded onto VSP if they don't have a content person on their team. DSVA should take care of this through Intake.
+
+## Product Portfolio
+- Content section of Design.va.gov
+- VA.gov IA best practices documentation
+- VA.gov menus and navigation
+- VA.gov SEO best practices documentation
+- VSP content review process
+- VSP content launch criteria
+- VSP IA launch criteria
