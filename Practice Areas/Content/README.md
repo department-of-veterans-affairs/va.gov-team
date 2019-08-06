@@ -35,6 +35,7 @@ The following list is a set of resources compiled by the people in your practice
     - [Proofreading/QA checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/proofreading-QA-checklist.md)
     - [UAT process for content migration](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/UAT-process-for-content-migration.md)
 - SEO resources
+    - [Writing for SEO](https://design.va.gov/content-style-guide/seo)
     - [Meta and title tag guidelines](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/SEO-work/metas-and-title-tags-guidelines.md)
 - GitHub resources
     - [Content process in Github](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/GitHub_content_process.pdf)
