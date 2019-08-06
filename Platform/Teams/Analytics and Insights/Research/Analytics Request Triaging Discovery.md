@@ -62,10 +62,11 @@ _Storytellers_
 1. Cut down on time from data request to data delivery
 1. Record requests to create accessible data for recurring requests
 1. Decrease data bottleneck and empower user’s ability to gather and interpret data
+1. Create a strong onboarding process for VSA teams
 1. Create a consistent cadence for requesting analytics implementations
 1. Increase efficiency for analytics implementation prioritization
 1. Create a consistent cadence for requesting Google Analytics access
-1. Reduce redundancies in Google Analytics 
+1. Reduce redundancies in Google Analytics and Google Tag Manager 
 
 ## Assumptions
 1. We will be able to validate data (for accuracy, reliability, and aligned insights) that we collect from requests
