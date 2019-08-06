@@ -35,7 +35,6 @@ Before sending your code to a VSP team for review, your code should meet all of 
     * **PR title** should be a concise summary of the change.
     * In your **PR description**, discuss how code changes are related to the pull request objectives.
     * Reference the **GitHub issues** your PR relates to, in order to provide reviewers more context.
-    * If the pull request is a dependency/package upgrade or database migration for another pull request please reference that pull request.
 
 * **Size/complexity**: keep your changes scoped to one feature at a time. This means:
     * **Size**: changes should be smaller than **300** changed lines (not including tests or whitespace). *If your change can't be smaller than this, talk to the team in #vfs-platform-support before asking for a review.*
