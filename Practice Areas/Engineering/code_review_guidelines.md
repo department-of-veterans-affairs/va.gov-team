@@ -15,7 +15,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
     * Before sending code to VSP team have it reviewed by your team (see **First review** below) using a [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests).  
       * This prevents [code owners](https://help.github.com/en/articles/about-code-owners) from being notified before pull request is ready for review.
     * After having your pull request reviewed by your team you can mark your pull request as ready for review.
-      * An engineer from the VSP will aim to review within 24 hours (business days) and each additional round of changes will be reviewed within 24 hours.  If you need it faster, escalate to your lead or scrum master.
+      * An engineer from the VSP will aim to review within 24 hours (business days) and each additional round of changes will be reviewed within 24 hours.  If you need it faster, escalate via your DSVA product owner.
       * Please **do not post in Slack** channels requesting code reviews unless it has been more then 24 hours (business days).
     * After sending your code for review, don't add additional changes! Code needs to be stable for a safe review.
     * If non-trivial changes to your code are made *after approval by VSP team*, please notify approvers so they can re-review your pull request.
@@ -26,9 +26,6 @@ Before sending your code to a VSP team for review, your code should meet all of 
     * For *all code*, add your team-specific label(s)
     * For *database migrations*, add the `database-migration` label
     * For *dependency/package upgrades*, add the `package-change` label
-    * Additionally if your change requires:
-      * A database migration please use the `database-migration` label
-      * A dependency/package upgrade please use the `package-change` label
   * Your code should first be reviewed and approved by a member of your team. That first review should cover:
     * **Correctness** of the code (does it correctly implement the described feature?)
     * **Code quality**: is it readable? Is it language-idiomatic?
@@ -41,7 +38,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
     * If the pull request is a dependency/package upgrade or database migration for another pull request please reference that pull request.
 
 * **Size/complexity**: keep your changes scoped to one feature at a time. This means:
-    * **Size**: changes should be smaller than **500** changed lines (not including tests or whitespace). *If your change can't be smaller than this, talk to the team in #vfs-platform-support before asking for a review.*
+    * **Size**: changes should be smaller than **300** changed lines (not including tests or whitespace). *If your change can't be smaller than this, talk to the team in #vfs-platform-support before asking for a review.*
     * **One thing at a time**: feature code, cleanup/refactoring changes, dependency/package upgrades, and database migrations should all be in **separate PRs**. As much as possible, each PR should address a single feature or bug at a time.
 
 * **Linting**: format your code in accordance with style guidelines.
