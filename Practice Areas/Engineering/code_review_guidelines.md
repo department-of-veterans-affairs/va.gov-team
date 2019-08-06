@@ -22,7 +22,10 @@ Before sending your code to a VSP team for review, your code should meet all of 
 
 * **First review**: 
   * Use a [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests)
-  * Add your team specific label(s)
+  * Tag your PR with the following labels:
+    * For *all code*, add your team-specific label(s)
+    * For *database migrations*, add the `database-migration` label
+    * For *dependency/package upgrades*, add the `package-change` label
     * Additionally if your change requires:
       * A database migration please use the `database-migration` label
       * A dependency/package upgrade please use the `package-change` label
