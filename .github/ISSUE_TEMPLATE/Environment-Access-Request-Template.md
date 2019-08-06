@@ -3,6 +3,7 @@ name: Environment Access Request Template
 about: To request access to dev tools
 title: Access for [individual]
 labels: external-request, operations
+assignees: ''
 
 ---
 
@@ -31,4 +32,3 @@ labels: external-request, operations
   > Our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different
   > teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, 
   > log file review and to apply changes to the running instances and services.
-
