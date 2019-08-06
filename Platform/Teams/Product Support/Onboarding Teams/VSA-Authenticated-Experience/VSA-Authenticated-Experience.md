@@ -4,8 +4,8 @@ Onboarding date: 8/5/2019
 
 *Needs intake info*
 
-## Project
-Add description, links
+## Product
+Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve by delivering a comprehensive set of self-service tools that deliver the best online experience possible.
 
 ## Team members
 * Lisa Koenigsberg, USDS Product Lead, @lkoenigsberg
@@ -17,68 +17,67 @@ Add description, links
 * Arthur Green, GCIO Designer/Researcher, @artistgreen
 
 ### Availability
-Add details from intake form
+Weekdays, standard work hours
 
 ### Previous work on VA.gov
-Add details from intake form
+Yes. Some team members have worked on Direct Deposit, HCA, and other elements of va.gov. Other members are new and have not previously worked on any va.gov projects.
 
 ### Tech Setup
 
 #### Operating System(s)
-Add details from intake form
+Mac
 
 #### Communication software
-Add details from intake form
+Slack, Zoom, Outlook
+
+#### Design tools
+Sketch, Optimal Workshop, Go To Meeting, Zoom, MS Office Suite, Invision, MURAL
 
 #### Source control technology
-Add details from intake form
+Git
 
 #### Programming languages
-Add details from intake form
+Ruby, JS, SaSS/CSS
 
 #### Development technologies
-Add details from intake form
+Ruby, JS, SaSS/CSS, react, docker, redux, GitHub, rails, postgresql
 
 #### Continious integration systems
-Add details from intake form
+Jenkins
 
 #### Testing technologies
-Add details from intake form
+mocha, puppeteer, nightwatch, selenium, chai, enzyme, rspec
 
 #### Code review practices
-Add details from intake form
+Every PR requires at least one code review.
 
 #### Experience 
 | System     | Experience/Level |
 | ----------- | ----------- |
-| VA.gov APIs      | Yes/No       |
-| Mobile-first methodologies   | Beginner/Intermediate/Advanced/Expert |
-| Mobile testing   | Beginner/Intermediate/Advanced/Expert |
-| Mobile accessibility testing      | Beginner/Intermediate/Advanced/Expert |
-| Mobile-first methodologies   | Beginner/Intermediate/Advanced/Expert |
-| GitHub   | Beginner/Intermediate/Advanced/Expert |
-| Git Flow development process      | Beginner/Intermediate/Advanced/Expert |
-| React   | Beginner/Intermediate/Advanced/Expert |
-| Node.js   | Beginner/Intermediate/Advanced/Expert |
-| Redux      | Beginner/Intermediate/Advanced/Expert |
-| Ruby on Rails   | Beginner/Intermediate/Advanced/Expert |
-| Web static generators   | Beginner/Intermediate/Advanced/Expert |
-| Liquid templating  | Beginner/Intermediate/Advanced/Expert |
-| WCAG web accessibility standards  | Beginner/Intermediate/Advanced/Expert |
-| FlexBox      | Beginner/Intermediate/Advanced/Expert |
-| SASS/SCSS   | Beginner/Intermediate/Advanced/Expert |
-| ECMAScript 2015 and beyond   | Beginner/Intermediate/Advanced/Expert |
-| GraphQL | Beginner/Intermediate/Advanced/Expert |
-| Agile development      | Beginner/Intermediate/Advanced/Expert |
-| ZenHub   | Beginner/Intermediate/Advanced/Expert |
-| User-centered design   | Beginner/Intermediate/Advanced/Expert |
-| User research & usability testing | Beginner/Intermediate/Advanced/Expert |
-| Using design systems    | Beginner/Intermediate/Advanced/Expert |
-| Google Analytics  | Beginner/Intermediate/Advanced/Expert |
+| VA.gov APIs      | Yes |
+| Mobile-first methodologies   | Advanced  |
+| Mobile testing   | Beginner |
+| Mobile accessibility testing      | Beginner |
+| GitHub   | Advanced |
+| Git Flow development process      | Beginner |
+| React   | Advanced  |
+| Node.js   | Intermediate  |
+| Redux      | Advanced |
+| Ruby on Rails   | Advanced |
+| Web static generators   | Beginner |
+| Liquid templating  | Beginner |
+| WCAG web accessibility standards  | Intermediate  |
+| FlexBox      | Advanced  |
+| SASS/SCSS   | Advanced  |
+| ECMAScript 2015 and beyond   | Advanced  |
+| GraphQL | Intermediate  |
+| Agile development      | Advanced  |
+| ZenHub   | Beginner  |
+| User-centered design   | Advanced  |
+| User research & usability testing | Advanced  |
+| Using design systems    | Intermediate |
+| Google Analytics  | Intermediate |
 
 #### Accessibility testing with assistive technologies
-Add details from intake form
-
-#### Additional details
-Add details from intake form
+JAWS, Voice Over, and Dragon Text
 
