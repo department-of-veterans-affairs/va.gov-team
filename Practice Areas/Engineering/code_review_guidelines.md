@@ -22,10 +22,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
 
 * **First review**: 
   * Use a [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests)
-  * Tag your PR with the following labels:
-    * For *all code*, add your team-specific label(s)
-    * For *database migrations*, add the `database-migration` label
-    * For *dependency/package upgrades*, add the `package-change` label
+  * For *all code* tag your PR with your team-specific label(s)
   * Your code should first be reviewed and approved by a member of your team. That first review should cover:
     * **Correctness** of the code (does it correctly implement the described feature?)
     * **Code quality**: is it readable? Is it language-idiomatic?
