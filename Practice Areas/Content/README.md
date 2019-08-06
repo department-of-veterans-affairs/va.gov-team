@@ -19,7 +19,7 @@ The following list is a set of resources compiled by the people in your practice
     - [VA content owner requests](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md)
     - [URL creation and process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Creation%20Process%20and%20Guidelines.md)
     - [Web content templates](https://github.com/department-of-veterans-affairs/vets.gov-content/tree/master/templates-and-guides/web-content-templates)
-    - [Form process](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/content-topics/Form-process-design-and-content.docx)
+    - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-VA-form-process.md)
 - VA.gov content styleguide and strategy guides 
     - [VA.gov content styleguide](https://design.va.gov/content-style-guide/)
     - [WIP VA.gov consolidated styleguide](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/master/src/_content-style-guide)
