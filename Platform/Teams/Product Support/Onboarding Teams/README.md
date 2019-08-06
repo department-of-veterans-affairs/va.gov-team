@@ -11,8 +11,8 @@ To add a new team:
 ## Currently Onboarding
 
 ### VSA teams
-* [AUG, 5 2019 - VSA Global UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/VSA-Global-UX/VSA-Global-UX-Onboarding.md) (*Needs intake info*)
-* [AUG, 5 2019 - VSA Authenticated Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/VSA-Authenticated-Experience/VSA-Authenticated-Experience.md)
+* [AUG, 5 2019 - VSA Global UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/VSA-Global-UX/VSA-Global-UX-Onboarding.md) 
+* [AUG, 5 2019 - VSA Authenticated Experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/VSA-Authenticated-Experience/VSA-Authenticated-Experience.md) (*Needs intake info*)
 * [AUG, 5 2019 - VSA Benefits Disability Compensation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Onboarding%20Teams/VSA-Benefits-Disability-Compensation/VSA-Benefits-Disability-Compensation.md) (*Needs intake info*)
 
 ### By Light
