@@ -1,7 +1,7 @@
 # VSA Benefits Disability Compensation
 Onboarding date: 8/5/2019
 
-*Needs intake info*
+*Small team. No intake info shared yet.*
 
 ## Project
 Add description, links
