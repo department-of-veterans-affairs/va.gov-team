@@ -2,8 +2,6 @@
 
 Onboarding date: 8/5/2019
 
-*Needs intake info*
-
 ## Product
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve by delivering a comprehensive set of self-service tools that deliver the best online experience possible.
 
