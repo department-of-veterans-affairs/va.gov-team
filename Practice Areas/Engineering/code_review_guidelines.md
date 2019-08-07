@@ -14,7 +14,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
 * **Review lifecycle**
     * Before sending code to VSP team have it reviewed by your team (see **First review** below) using a [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests).  
       * This prevents [code owners](https://help.github.com/en/articles/about-code-owners) from being notified before pull request is ready for review.
-    * After having your pull request reviewed by your team you can mark your pull request as ready for review.
+    * After having your pull request reviewed by your team you can click the *Ready for review* button in the merge section of your pull request.
       * An engineer from the VSP will aim to review within 24 hours (business days) and each additional round of changes will be reviewed within 24 hours.  If you need it faster, escalate via your DSVA product owner.
       * Please **do not post in Slack** channels requesting code reviews unless it has been more then 24 hours (business days).
     * After sending your code for review, don't add additional changes! Code needs to be stable for a safe review.
