@@ -1,5 +1,5 @@
 # Information Architecture
-In this folder, you'll find information specific to how Information Architecture works on VA.gov. 
+In this folder, you'll find information specific to how Information Architecture works on VA.gov.
 
 ### Communication channels
 - Slack channels: #vsp-content-ia
@@ -7,7 +7,7 @@ In this folder, you'll find information specific to how Information Architecture
 
 ### Points of contact
 The Information Architecture points of contact are:  
-- [Mikki Northius], @Mikki on Slack 
+- [Mikki Northius], @Mikki on Slack
 - [Matt Johnson], @Matt Johnson on Slack
 
 ### Table of contents
@@ -17,10 +17,8 @@ The following list is a set of resources for practicing IA on VA.gov and to help
     - [URL Process and Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Process%20and%20Guidelines.md)
     - [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Information%20Architecture/XML%20Sitemap%20Guidelines.md)
     - [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Information%20Architecture/Template%20Guidelines%20-%20Hub%20Page.md)
-    
+
 - Working Documents and Current Site Documentation
     - [Master URL Mapping]() (Official source of truth on IA and URLs)
     - [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Information%20Architecture/Site%20Map)
     - [XML Sitemap](https://www.va.gov/sitemap.xml)
-    
-
