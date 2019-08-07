@@ -25,7 +25,8 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - What about VA.gov Content Owners? Who takes care of requests they submit? And do those updates need to be reviewed/approved by VSP?
 - What about this ongoing review work we're doing for CMS right now? Is that supposed to be on our team, or on a VFS team?
 - Long term, where does usability and evolution of VA.gov IA live? VFS or VSA? Ideally the Global UX product line under Chris J would be responsible for that, but right now the most expertise for this resides on VSP. For this reason, we include "VA.gov menus and navigation" within this team's Product Portfolio for now, but that may change long term.
-- How will Platform content support and work with the vsa-global-ux team, which is fully staffed with its own content editors and writers? In the case that an apps team is launching a new product and the global-ux team is launching new content to support that launch, where does Platform content team fit in? 
+- How will Platform content support and work with the vsa-global-ux team, which is fully staffed with its own content editors and writers? 
+- For product launches, when an apps team is launching a new product and the global-ux team is launching new content to support that launch, where does Platform content team fit in? 
 
 ## How VSP Content Support collaborates with VFS team members:
 - VFS Teams will write their own content, following the guidance and standards provided by VSP
