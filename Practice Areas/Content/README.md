@@ -1,6 +1,6 @@
 
 # Content 
-Hello! In this folder, you'll find information specific to how Content works on VA.gov. 
+Hello! In this folder, you'll find information about plain language standards and documentation and guidance on creating content across VA.gov. 
 
 ### Communication channels
 - Slack channels: #vsp-content-ia
