@@ -52,7 +52,7 @@ Generally it is advisable to provide warrants if adding a new tag not seen here 
 
 `feature`
   - Represents a specific, pre-defined feature. E.g., `pension_burial` or  `vic`
-  - The current approach is to follow the `SentryTag` template as seen in `lib/vic/tag_sentry.rb`
+  - The current approach is to follow the `SentryTag` template as seen in [`lib/vic/tag_sentry.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/vic/tag_sentry.rb)
 
 `external_service` 
   - Name of an backend/external service, i.e. `evss` or `search`
@@ -60,4 +60,5 @@ Generally it is advisable to provide warrants if adding a new tag not seen here 
       - This one would be great to extract to common class it's better implemented in the `evss` module as external services, with sub-classes
  
 `validation` 
-  - represents a validation failure in a given controller/transaction. 
+  - This tag represents a validation failure in a given controller/transaction.
+  - The current approach is to include this as a tag if a validation error occurs. See [example](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/gi_bill_feedbacks_controller.rb)
