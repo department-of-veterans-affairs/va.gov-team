@@ -5,9 +5,10 @@
 
 Sentry allows for adding [additional context](https://docs.sentry.io/enriching-error-data/context/?platform=ruby) to captured error events. 
 
-In the context of the VSP, we aim to standardize our use of these features for consistentency and reliability in searching/filtering Sentry events.
+In the context of the VSP, we aim to standardize our use of these features for consistency and reliability in searching/filtering Sentry events.
 
 **Definitions**
+
 *Tags* are key/value pairs which generate breakdowns charts and [search filters](http://sentry.vfs.va.gov/vets-gov/platform-api-production/?query=is%3Aunresolved+backend_service%3Aevss). You can see all tags for the given Sentry project [here](http://sentry.vfs.va.gov/settings/vets-gov/projects/platform-api-production/tags/). Tags will also be used in the Sentry alert sent to Slack.
 
 *Extra* context is unstructured and difficult to use as a search/filter metric. Use sparingly.
