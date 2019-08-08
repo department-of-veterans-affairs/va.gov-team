@@ -26,7 +26,6 @@ Before sending your code to a VSP team for review, your code should meet all of 
   * Please **do not post in platform wide Slack channels requesting first review**.
   * For *all code* tag your PR with your team-specific label(s)
   * Your code should first be reviewed and approved by a member of your team. 
-  * Assign reviewers from your team.
   * First review should cover:
     * **Correctness** of the code (does it correctly implement the described feature?)
     * **Code quality**: is it readable? Is it language-idiomatic?
