@@ -12,12 +12,19 @@ Before sending your code to a VSP team for review, your code should meet all of 
 ## Guidelines
 
 * **Review lifecycle**
-    * Before sending code to VSP team, have it reviewed by your team (see **First review** below).
-    * An engineer from the VSP will aim to review within 24 hours (business days) and each additional round of changes will be reviewed within 24 hours.  If you need it faster, escalate to Leah and Patrick.
+    * Before sending code to VSP team have it reviewed by your team (see **First review** below) using a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/).  
+      * This prevents [code owners](https://help.github.com/en/articles/about-code-owners) from being notified before pull request is ready for review.
+    * After having your pull request reviewed by your team you can click the *Ready for review* button in the merge section of your pull request.
+      * An engineer from the VSP team will aim to review within 24 hours (business days) and each additional round of changes will be reviewed within 24 hours.  If you need a review faster, escalate via your DSVA product owner.
+      * **Do not post in Slack channels requesting VSP code reviews** unless it has been more than 24 hours since requesting review on GitHub.
     * After sending your code for review, don't add additional changes! Code needs to be stable for a safe review.
-    * If non-trivial changes to your code are made *after approval by VSP team*, your change is subject to being reverted.
+    * If non-trivial changes to your code are made *after approval by VSP team* and submitted without a re-review, your change is subject to being reverted.
 
-* **First review**: your code should first be reviewed and approved by a member of your team. That first review should cover:
+* **First review**: 
+  * Use a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
+  * Tag your PR with your team-specific label(s)
+  * For this first review, your code should be reviewed and approved by a member of your team. 
+  * First review should cover:
     * **Correctness** of the code (does it correctly implement the described feature?)
     * **Code quality**: is it readable? Is it language-idiomatic?
     * **Does it have screenshots of the change?** (FE changes)
