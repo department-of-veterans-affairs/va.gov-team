@@ -20,8 +20,10 @@ _what does this look like?_
 
 - Idea: what if extend this reviewe model past just Engineering? For design reviews, analytics reviews, etc? That way the Prod Dev Support team wouldn't really have to grow as VFS Teams increase, they can stay focused on building the Platform UX and answering questions in Slack...
 
-## Define Prod Dev Support team's mission as more than just onboarding and answering questions in Slack
+## Engage with rich Prod Dev Support Team mission
 _what does this look like?_
+
+- Something beyond just onboarding and answering quesetions in Slack. Something more like creating a delightful e2e user journey for VFS Teams building things w/Platform.
 
 ## Scale through full VSP team augmentation 
 _what does this look like?_
