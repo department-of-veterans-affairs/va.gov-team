@@ -8,8 +8,8 @@
 - Allow for easy scaling to support more teams
 
 ## Components
-- [Rotate code reviews across all VSP engineers](#Rotate code reviews across all VSP engineers)
-- [Define Prod Dev Support team's mission as more than just onboarding and answering questions in Slack](#Define Prod Dev Support team's mission as more than just onboarding and answering questions in Slack)
+- [Rotate code reviews across all VSP engineers](#Rotate-code-reviews-across-all-VSP-engineers)
+- [Define Prod Dev Support team's mission as more than just onboarding and answering questions in Slack](#Define-Prod-Dev Support-team's-mission-as-more-than-just-onboarding-and-answering-questions-in-Slack)
 
 ---
 
