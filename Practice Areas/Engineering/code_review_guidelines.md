@@ -23,7 +23,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
 
 * **First review**: 
   * Use a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-  * For *all code* tag your PR with your team-specific label(s)
+  * Tag your PR with your team-specific label(s)
   * Your code should first be reviewed and approved by a member of your team. 
   * First review should cover:
     * **Correctness** of the code (does it correctly implement the described feature?)
