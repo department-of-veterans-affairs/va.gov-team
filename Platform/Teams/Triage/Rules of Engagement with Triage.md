@@ -34,7 +34,7 @@ When in doubt, submmit it through our [Triage Incident Template](https://github.
 
 **Bug:** A defect found by a tester or reported by a user that is not stopping a user from sucessfully achieving their goal but needs to be addressed in a timely manner.
 
-
+---
 
 # NOTES on improvements to this doc:
 
