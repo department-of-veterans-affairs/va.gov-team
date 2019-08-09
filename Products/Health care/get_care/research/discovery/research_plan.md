@@ -15,14 +15,14 @@ For Veterans, this can lead to frustration due to the different combinations of 
 
 
 ## Participants and Recruitment
-1.	Participant criteria: 
+Participant criteria: 
   1.	Experience with VA medical care (needs healthcare support occasional vs deals with healthcare needs on regular basis)
   2.	Women and men
   3.	Some assistive device users
   4. 	Variety of comfort with technology (daily use, uses when necessary, prefers in person or phone interactions)
   5.	Urban and rural circumstances
 
-2.	What is your recruitment strategy? 
+What is your recruitment strategy? 
   1.	Perigean will recruit
 
 ## When? 
