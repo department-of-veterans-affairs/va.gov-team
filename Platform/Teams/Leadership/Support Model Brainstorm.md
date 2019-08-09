@@ -25,6 +25,8 @@ _what does this look like?_
 
 - Idea: what if extend this reviewe model past just Engineering? For design reviews, analytics reviews, etc? That way the Prod Dev Support team wouldn't really have to grow as VFS Teams increase, they can stay focused on building the Platform UX and answering questions in Slack...
 
+- Like idea of involving more ppl in reviews outside of just engineering. We have a set of Design criteria, so that can help normalize how design reviews are done. We could iterate on those criteria to make sure they're solid, and protect against the risk of getting wide variance in review quality, if we go with this approach.
+
 ## Engage with rich Prod Dev Support Team mission
 _what does this look like?_
 
@@ -54,6 +56,7 @@ _what does this look like?_
   - Prioritize iterative checks automated tests so teams can catch their own stuff as they go
   - Would love to incorporate content plain language and other practice area checks into automated testing, right now it's mostly focused on code cleanliness.
 - Invest in expectation setting
-  - Like ROEs and Onboarding
+  - Want to see impact of new code review guidelines
+  - Should continue evaluating quality of other ROEs and Onboarding
 - Invest in Support Experience Leadership team to design end-to-end user journey
   - Improvements to the user journey to be identified through resaerch
