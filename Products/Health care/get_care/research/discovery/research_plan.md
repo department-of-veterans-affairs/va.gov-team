@@ -16,14 +16,15 @@ For Veterans, this can lead to frustration due to the different combinations of 
 
 ## Participants and Recruitment
 Participant criteria: 
-  1.	Experience with VA medical care (needs healthcare support occasional vs deals with healthcare needs on regular basis)
-  2.	Women and men
+  1.	All participants should have experience with VA medical care/VHA (Veterans would need healthcare support occasionally and Veterans who deal with healthcare needs on regular basis)
+  2.	Both Women and men
   3.	Some assistive device users
-  4. 	Variety of comfort with technology (daily use, uses when necessary, prefers in person or phone interactions)
+  4. 	People who own smart phones and people who do not own smart phones
   5.	Urban and rural circumstances
 
 What is your recruitment strategy? 
   1.	Perigean will recruit
+  2.  9 participants maximum
 
 ## When? 
 1.	Timeline: Week of August 19 (As early as 8/15 would be fine.)
