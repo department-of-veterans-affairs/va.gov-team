@@ -38,7 +38,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development: Caitlin Weber and Alexis James
 - Participant recruiting & screening: Perigean
 - Project point of contact: Caitlin Weber
-- Observers (potential): Leanna Miller, Cat Greim, Caitlin Weber, Alexis James, Matt Unger, additional stakeholders
+- Observers (potential): Leanna Miller, Cat Greim, Caitlin Weber, Alexis James, Matt Unger, Paul Smith, additional stakeholders
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
