@@ -46,4 +46,9 @@ _what does this look like?_
 ## Reduce per capita support needs
 _what does this look like?_
 - Invest in automation
+  - Prioritize iterative checks automated tests so teams can catch their own stuff as they go
+  - Would love to incorporate content plain language and other practice area checks into automated testing, right now it's mostly focused on code cleanliness.
+- Invest in expectation setting
+  - Like ROEs and Onboarding
 - Invest in Support Experience Leadership team to design end-to-end user journey
+  - Improvements to the user journey to be identified through resaerch
