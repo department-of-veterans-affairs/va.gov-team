@@ -1,4 +1,4 @@
-# Research Plan for [Discovery Sprint, Get Care, Aug 8, 2019]
+# Research Plan for Discovery Sprint, Get Care, Aug 8, 2019
 
 ## Goals
 1. What product & team: Get Care Discovery Sprint, a 6 week engagement.
