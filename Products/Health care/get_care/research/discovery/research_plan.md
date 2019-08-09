@@ -29,7 +29,7 @@ What is your recruitment strategy?
 1.	Timeline: Week of August 19 (As early as 8/15 would be fine.)
 2.	Prepare: Interview guide is under development
 3.	Length of Sessions: ~1 hour
-4.	Availability: 7am - 6pm EST, August 15-23
+4.	Availability: 10am - 6pm EST, August 15-23
 5.	Pilot: Interview will not be piloted
 
 ## Team Roles
