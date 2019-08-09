@@ -1,5 +1,10 @@
 # Support model brainstorm
 
+## Problem statement
+In our original vision of VSP, the Prod Dev Support team was responsible for all VFS team support and reviews. In reality, the volume of code reviews is exceeding this team's ability to handle and ends up taking about 20-30% of **all** VSP engineers' time (not just Prod Dev Support engineer's time). Additionally, we're benefiting from the expertise of senior team members in these reviews, but spending time on reviews decreases their capacity to move forward on Platform development. 
+
+**How might we structure a Support model on VSP that enables us to support VFS teams in the most effective and scalable way?**
+
 ## Goals
 - Keep work moving ahead for VFS teams (i.e. don't be a bottleneck they have to wait on)
 - Notice red flags and recommend adjustments (i.e. leverage expertise of senior members)
