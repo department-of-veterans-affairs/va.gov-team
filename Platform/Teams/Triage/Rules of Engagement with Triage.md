@@ -27,7 +27,7 @@ NOTE: Assigning an issue to Triage using the [Triage Incident Template](https://
 ## Still not sure?
 If you still have a doubt about where to report your incident for whatever reason, please reach out to the #vsp-triage slack channel and we would be happy to assist you.
 
-When in doubt, submit any issue through our [Triage Incident Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) and we will ensure it gets through the process correctly!
+When in doubt, submit any issue through our [Triage Incident Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) and the Triage team will ensure it gets through the process correctly!
 
 ## Difference between a Bug and an Incident (for reference)
 **Incident:** An unplanned interruption. When the operational status of any activity turns from working to failed and causes the system to behave in an unplanned manner it is an incident. A problem can cause multiple incidents which are to be resolved—preferably as soon as possible.
