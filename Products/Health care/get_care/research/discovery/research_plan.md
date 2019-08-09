@@ -1,9 +1,4 @@
-# Research Plan for [Team, Product, Date]
-
-(This should be filled out and maintained by the lead researcher on the team.) 
-
-# Research Plan for CCN Discovery
-
+# Research Plan for [Discovery Sprint, Get Care, Aug 8, 2019]
 
 ## Goals
 1. What product & team: Get Care Discovery Sprint, a 6 week engagement.
