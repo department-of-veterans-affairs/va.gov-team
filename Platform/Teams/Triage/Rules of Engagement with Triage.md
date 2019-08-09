@@ -14,7 +14,7 @@ This document will help all team members working on VA.gov understand when it is
  
 If you already know which team the issue should be routed to, you can reach out to their pont of contact to confirm and directly asssign the issue to them.  If you aren't sure which team owns the issue and would like to send it directly to them without the assistance of Triage, the [Product Owner Mapping Document](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) can help guide you in the right direction.
 
-*the Product Owner Mapping Document listed above is a living document.  If you would like to suggest edits to add or change owner to products please reach out to the PM of Triage (Alex Pappas).  It is also protected as this is a public repo*
+*The Product Owner Mapping Document listed above is a living document.  If you would like to suggest edits to add or change owner to products please reach out to the PM of Triage (Alex Pappas).  It is also protected as this is a public repo*
  
 NOTE: Assigning an issue to Triage using the [Triage Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) does not guarentee the work will be completed by the triage team.  Triage will do their own investigation, priotization and scoping to determine the best team to be resonsible for resolution.
 
