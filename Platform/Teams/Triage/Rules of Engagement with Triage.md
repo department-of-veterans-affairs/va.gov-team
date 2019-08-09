@@ -9,8 +9,8 @@ This document will help all team members working on VA.gov understand when it is
   * Part of (or all of) va.gov is severely disrupted
   
 * When an issue is discovered that is not in your products scope of work
- * Any issue that is discovered that is outside your teams scope of work can be reported to Triage
- * In this case severity does not matter
+  * Any issue that is discovered that is outside your teams scope of work can be reported to Triage
+  * In this case severity does not matter
  
 If you already know which team the issue should be routed to, you can reach out to their pont of contact to confirm and directly asssign the issue to them.  If you aren't sure which team owns the issue and would like to send it directly to them without the assistance of Triage, the [Product Owner Mapping Document](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) can help guide you in the right direction.
 
