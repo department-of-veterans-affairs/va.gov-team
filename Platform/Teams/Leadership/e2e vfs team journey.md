@@ -1,9 +1,10 @@
 Capturing pain points and ideas for us to consider as we figure out where we want to put small nudges or other features in place to improve the e2e VFS Team user journey.
 
+---
 
 From Chris V:
 
-```As I give support, I already sometimes have no idea what team a person is on, what they're working on, and what their ultimate goals are. This makes supporting them kind of fuzzy as I figure those things out. When we get more teams on board, it's only going to get more complicated.
+As I give support, I already sometimes have no idea what team a person is on, what they're working on, and what their ultimate goals are. This makes supporting them kind of fuzzy as I figure those things out. When we get more teams on board, it's only going to get more complicated.
 I propose we have a few things (some of this might already exist in some capacity, but I have no idea where to find it):
 
 1) Have VSA team members put their team in their Slack profile (only way I can tell what team somebody is on is by their email, but what if we have two BAH teams?)
@@ -15,4 +16,5 @@ I figured it's probably kosher or he wouldn't be asking, but it wasn't until I a
 
 From: [Jonathan B]
 @Rian Fowler @chris.valarida We'll be migrating the home page to Drupal in the next week or so. I'm building the GraphQL queries, but there looks like there will need to be some additions to /src/site/stages/build/drupal/metalsmith-drupal.js as well. I'm comfortable with making these changes, but am ok handing it off to you all if you would prefer. Any thoughts?
-```
+
+---
