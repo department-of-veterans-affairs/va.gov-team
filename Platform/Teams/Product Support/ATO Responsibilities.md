@@ -5,7 +5,7 @@ Ensure that VSP and the VSP-hosted applications across VA.gov have the Authority
 # Areas of focus
 
 1) Clean up VSP ATO
-2) Move VSP ATO to the split model
+2) Move VSP ATO to the split model (so VSP has a base ATO that covers some cross-VA.gov things, and VFS Teams are responsible for the ATO of their specific products)  
 3) Define process by which VFS Teams contribute to ATO
 4) Support VFS Teams by answering questions and providing guidance as they take care of their own ATO
 
