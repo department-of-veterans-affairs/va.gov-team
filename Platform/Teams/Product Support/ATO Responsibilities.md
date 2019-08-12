@@ -9,7 +9,7 @@ Ensure that VSP and the VSP-hosted applications across VA.gov have the Authority
 3) Define process by which VFS Teams contribute to ATO
 4) Support VFS Teams by answering questions and providing guidance as they take care of their own ATO
 
-# Logistics
+# Roadmap
 NOW
 - Hang out on the Tools team, to meet with those engineers, understand how vets-api works, what kind of data we consume, how that data is used across VA.gov. 
 - Meet with Brian Gryth for knowledge transfer of the current state of our ATO and how to navigate Risk Vision
