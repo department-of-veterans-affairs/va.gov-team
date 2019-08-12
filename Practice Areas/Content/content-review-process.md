@@ -145,13 +145,16 @@ In addition, a content review can be requested any time a team thinks they could
 
 --------
 
-## How to request a content review
+## How to request a content review 
 
-1. Open a Zenhub issue in ```va.gov-team repo```.
-2. Choose standard issue template.
-3. Title for the issue: ```Request Content review: [title of tool/app/page]```
+You can request a content review several ways. 
 
-4. Be sure to include the following in the issue:
+A.  **If the content is short,** please @ mention peggygannon in the Zenhub issue in which the content appears. 
+
+B. **For more complex content reviews, e.g, online applications, full pages, new tool launches,** please open a Zenhub issue in ```va.gov-team repo```. And, 
+1. Choose standard issue template.
+2. Title for the issue: ```Request Content review: [title of tool/app/page]```
+3. Be sure to include the following in the issue:
 
 **User story**
 
@@ -175,7 +178,7 @@ User story example: *As a member of a team building with or on VSP, I need to my
 
 If the content is part of an upcoming research session or product launch, list a specific timeframe for when this content should be reviewed.
 
-**Depending on the complexity and amount of content, content review will be completed within 4 days.**
+**Depending on the complexity and amount of content, content review will be completed within 3 days.**
 
 Please also tag the issue with:
 
@@ -185,11 +188,11 @@ Please also tag the issue with:
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 -	Assign issue to @peggygannon
 
-5. Once the content review is complete:
+4. Once the content review is complete:
 The reviewer will update the Zenhub issue with a Word document (with changes tracked) to show where content needs to be changed.
 If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
 
-6. When all changes are completed, close the issue.
+5. When all changes are completed, close the issue.
 
 
 
