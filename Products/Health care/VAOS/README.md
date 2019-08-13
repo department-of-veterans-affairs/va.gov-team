@@ -79,7 +79,7 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 - Backends may be swapped in the future (VistA -> Cerner), so APIs for self-scheduling may change in form & function in the future.
 
 ## Discovery Takeaways
-
+[Initial prototype based on DSVA research](https://projects.invisionapp.com/share/KSTFY798BU3#/screens)
 
 ## Solution Approach
 
