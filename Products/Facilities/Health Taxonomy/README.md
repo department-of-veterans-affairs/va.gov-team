@@ -5,9 +5,10 @@
 The VA Health Services Taxonomy represents the result of an an exploration of the A-Z Services Listings of 145 VA facilities websites in addition to review and mappings of additional existing VHA services classification including:
 
 ### External classifications
-- Services listed in the facilties API
-- VA Provider Search Specialty Listings
-- Medical Benefits Package Page services listings 
+- Health Services included in the facilties API
+- VA Provider search specialties 
+- Medical benefits package page services listings 
+- Specialty services
 
 ### Internal classifications
 - VHA Stop codes
