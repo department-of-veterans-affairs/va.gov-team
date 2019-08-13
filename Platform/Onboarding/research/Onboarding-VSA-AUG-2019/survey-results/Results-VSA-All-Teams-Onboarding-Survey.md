@@ -45,7 +45,10 @@
 
 ### What did we miss?
 
-* This meeting inspired some new questions, Nothing you missed. More things I must seek out. • Definition of Design as a whole • Definition of Research and at what process my participation is expected or needed. • How I will submit feedback for your platform team to improve its platform. Other companies have used Impact Canvas and Google Forms, but wasn't clear where you guys wanted me to provide feedback. (Although Rachel did invite it.)
+* This meeting inspired some new questions, Nothing you missed. More things I must seek out. 
+* Definition of Design as a whole 
+* Definition of Research and at what process my participation is expected or needed. 
+* How I will submit feedback for your platform team to improve its platform. Other companies have used Impact Canvas and Google Forms, but wasn't clear where you guys wanted me to provide feedback. (Although Rachel did invite it.)
 * I may have missed this, but which Slack channels I should join
 
 ### What’s your level of confidence for finding answers to questions on your own?
