@@ -149,7 +149,7 @@ In addition, a content review can be requested any time a team thinks they could
 
 You can request a content review several ways. 
 
-A.  **If the content is short,** please @ mention peggygannon in the Zenhub issue in which the content appears. 
+A.  **If the content is short,** please @ mention peggygannon in the Zenhub issue or pull request in which the content appears. Please also peggygannon as a reviewer or assignee.  
 
 B. **For more complex content reviews, e.g, online applications, full pages, new tool launches,** please open a Zenhub issue in ```va.gov-team repo```. And, 
 1. Choose standard issue template.
