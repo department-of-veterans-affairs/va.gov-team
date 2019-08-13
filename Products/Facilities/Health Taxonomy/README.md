@@ -14,7 +14,7 @@ The VA Health Services Taxonomy represents the result of an an exploration of th
 
 ### Internal classifications
 - VHA Stop Codes | <https://airtable.com/tbl0Cdq8ngajAIUbx/viw5MICBjNRSMNK63?blocks=bipenKkDclMfVPw9z>
-- Diability Benefits Questionnnaires (DBQs)| <https://airtable.com/tblu6wEmqyg1460D4/viwcXkbhWdZunEOMK?blocks=bipenKkDclMfVPw9z>
+- Disability Benefits Questionnnaires (DBQs)| <https://airtable.com/tblu6wEmqyg1460D4/viwcXkbhWdZunEOMK?blocks=bipenKkDclMfVPw9z>
 - Treating Specialty Codes | <https://airtable.com/tblvGY8jsr2HLxcmQ/viwa7AeSIebq98V0m?blocks=bipenKkDclMfVPw9z>
 
 ## Files and documents
