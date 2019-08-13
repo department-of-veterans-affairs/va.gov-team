@@ -5,8 +5,7 @@ This document details lessons learned and recommendations on the Content ROE, ba
 ### 1:1 onboarding meetings
 1. By Light. Met with Brittany Clausen, Elwood Gary and Michael Talbot on 8/13. 
 2. VFS authenticated experience team: PM Justin Picket. 8/13 meeting
-
-3. VFS global-ux team (to be scheduled) 
+3. VFS global-ux team: PM: Kara Kemahli. meeting scheduled for 8/16.  
 4. VFS disability benefits (to be scheduled)
 
 ### Questions and feedback on the Content review document
