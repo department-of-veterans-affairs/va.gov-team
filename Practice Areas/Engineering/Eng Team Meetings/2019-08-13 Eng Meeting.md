@@ -9,5 +9,12 @@
 # Agenda / notes
 
 * [Andrew] Welcome VFS teams!
-  * Eng meeting overview (10m)
+  * Eng meeting overview + introductions (15m)
+  * By Light, VSA, VAOS
 * [Keifer] Open discussion: Sentry tagging (10-15m)
+  * [Sentry tagging standards](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Engineering/Backend/Sentry%20Tagging%20Standards.md)
+  * [PR for refactoring automatic error reporting](https://github.com/department-of-veterans-affairs/vets-api/pull/3206/files)
+  * Issue ownership: divide up by file location or URL
+    * What's "URL"? website --> browser URL, backend --> API endpoint
+    * How does this get outside of Sentry? --> not yet, currently just tagged in Sentry, no integration to GitHub/Slack yet.
+      * Need newer Sentry version to make this happen --> currently stalled
