@@ -6,9 +6,9 @@ The VA Health Services Taxonomy represents the result of an an exploration of th
 
 ### External classifications
 - Health Services included in the facilties API
-- VA Provider search specialties 
+- VA Provider search service line listings | <https://www.accesstocare.va.gov/OurProviders/SearchResults#!#f=8&s=30&>
 - Medical benefits package page services listings 
-- Specialty services
+- Specialty care services | <https://www.va.gov/healthbenefits/access/specialty_care_services.asp>
 
 ### Internal classifications
 - VHA Stop codes
