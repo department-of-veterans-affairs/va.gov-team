@@ -96,8 +96,11 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 - Decrease percent of scheduled appointments that result in no-shows
 - Improve perception of scheduling experience among veterans
 - Decrease processing time for schedulers
+- Decrease phone volume for appointment scheduling
+- Reduce volume of appointments scheduled via Secure Messaging
 
 ### KPIs
+[TODO: Add some KPIs once we get a handle on available and possible metrics]
 
 ---
 
