@@ -2,7 +2,7 @@
 2019 work
 
 ## Summary
-The National VA (Health) Services list represents the existing VHA services classifications including:
+The National VA (Health) Services list represents an audit and consolidation of existing VHA services classifications including:
 
 ### External classifications
 - All A-Z services listed across all 145 websites | <https://airtable.com/tblEvsCzOVX1ybpZg/viwUDT2SG29bLzEO1?blocks=bipenKkDclMfVPw9z>
