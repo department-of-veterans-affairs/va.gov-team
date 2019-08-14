@@ -4,6 +4,7 @@
 - VA.gov link: n/a [TODO: add once VAOS has a home]
 - Demo video link: n/a
 - Product POCs:
+  - VA.gov Health Product Owner: Lauren Alexanderson (lauren.alexanderson@va.gov) 
   - Architect: Kam Karshenas (kam@adhocteam.us)
   - Product Manager: Mark Greenburg (mark.greenburg@adhocteam.us)
   - Designers
