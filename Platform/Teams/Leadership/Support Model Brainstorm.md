@@ -58,5 +58,5 @@ _what does this look like?_
 - Invest in expectation setting
   - Want to see impact of new code review guidelines
   - Should continue evaluating quality of other ROEs and Onboarding
-- Invest in Support Experience Leadership team to design end-to-end user journey
+- Invest in e2e VFS Team Experience team to design end-to-end user journey
   - Improvements to the user journey to be identified through resaerch
