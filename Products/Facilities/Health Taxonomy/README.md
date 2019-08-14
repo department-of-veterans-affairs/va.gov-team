@@ -1,12 +1,12 @@
-# Proposed Global VA Health Service Website Taxonomy
+# Proposed Global VA.gov Health Services
 2019 work
 
 ## Summary
-The VA (Health) Services Taxonomy represents the result of an audit of the A-Z Services Listings of 145 VA facilities websites in addition to review and analysis of additional existing VHA services classifications including:
+The National VA (Health) Services list represents the existing VHA services classifications including:
 
 ### External classifications
 - All A-Z services listed across all 145 websites | <https://airtable.com/tblEvsCzOVX1ybpZg/viwUDT2SG29bLzEO1?blocks=bipenKkDclMfVPw9z>
-- 12 Health Services included in the facilties API |
+- 12 Health Services included in the facilties API 
 - VA Provider search service line listings | <https://www.accesstocare.va.gov/OurProviders/SearchResults#!#f=8&s=30&>
 - Medical benefits package page services listings | <https://www.va.gov/healthbenefits/resources/publications/hbco/hbco_medical_benefits_package.asp>
 - Specialty care services | <https://www.va.gov/healthbenefits/access/specialty_care_services.asp>
@@ -17,9 +17,9 @@ The VA (Health) Services Taxonomy represents the result of an audit of the A-Z S
 - Disability Benefits Questionnnaires (DBQs)| <https://airtable.com/tblu6wEmqyg1460D4/viwcXkbhWdZunEOMK?blocks=bipenKkDclMfVPw9z>
 - VHA Treating Specialty Codes | <https://airtable.com/tblvGY8jsr2HLxcmQ/viwa7AeSIebq98V0m?blocks=bipenKkDclMfVPw9z>
 
-The audit of Services revealed that each facility website has it’s own unique A-Z Services List 
+The audit of A-Z Services pages on each of the 145 websites revealed that each facility website has it’s own unique A-Z Services List and there is significant variation in how each facility names and describes its services. 
 - 2018 unique service names result when service names are aggregated
-- An audit surfaces ~ 1208 unique “Clinical” Service names (i.e., services that are directly related to clinical services -- have a stop code and/or represent the programs and services of clinical professionals and teams). 
+- ~ 1208 unique “Clinical” Service names (i.e., services that are directly related to clinical services -- have a stop code and/or represent the programs and services of clinical professionals and teams). 
 - Excluded services like transportation, VSOs, facility services, canteen, service advocacy programs, residency programs, etc.)
 - Little convention or consistency in naming and terminology of services across facilities websites
 - The lack of consistency in how services are named creates confusion for users across the system
