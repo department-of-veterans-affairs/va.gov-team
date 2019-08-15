@@ -32,3 +32,5 @@ Notes	|
 Attachments	| 
 Jeff, Chris, and Matt Notes	| We should show these ratings in profile
 Roadmap	| NEAR TERM
+
+![Profile: rated Disabilities](profile-rated-disabilities.png)
