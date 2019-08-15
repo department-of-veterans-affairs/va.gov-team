@@ -1,6 +1,7 @@
-Initial brainstorm: https://funretro.io/publicboard/FGvqN50clhOIIFWwTy6kxveNWy63/3dad7596-1238-4a87-8365-1e68121876f7
+# Initial brainstorm:
+[In fun retro](https://funretro.io/publicboard/FGvqN50clhOIIFWwTy6kxveNWy63/3dad7596-1238-4a87-8365-1e68121876f7)
 
-Deeper dive:
+# Deeper dive:
 
 What is the benefit of smaller teams?
 - Makes all ceremonies more efficient. "2 pizza rule" carries throughout all ceremonies. When you become so big it's harder to collaborate and come together and hard to get through the ceremonies, a lot more time in meetings.
