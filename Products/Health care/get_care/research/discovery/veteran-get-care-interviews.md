@@ -1,6 +1,6 @@
 # Get Care Veteran Intereviews Conversation Guide
 
-## Zoom logistics
+## Moderator logistics
 
 *In the Attendees section, make sure everyone except the participant is on mute*
 
@@ -10,23 +10,29 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is **Caitlin** and I also have some colleagues on the line observing and taking notes. We are here today to get a better understanding of how you get care from VA. This will just be a conversation, you will not need to help us test any tools today. 
+Thanks for joining us today! My name is **Caitlin** and I also have some colleagues on the line observing and taking notes. Today we're going to talk about some of your interactions with VA tools and how you access healthcare from the VA.
 
-Before we start, there are a few things I'd like to mention:
+Before we start, a few things I want to mention:
 
-- We aren’t trying to sell or promote any product or service to you.    
-- We aren’t testing your ability. We’re just trying to figure out what works well, and what doesn’t work well. So there are no right or wrong answers. We just want to hear your opinions and what you think so that we can make the our services better. I won’t be offended by any opinions you express.
-- This entire session should take about **45 minutes**. I want to be sure not to keep you much longer, so I may occasionally interrupt you to move on to the next question or task.
-- I’ll be recording audio during this call, so that we capture your experience accurately.--video will not be in use. 
-- If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
+- **This entire session should take about 45min.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 Does that all make sense, and sound okay to you?
 
 Great! Any questions before we get started?
 
-Ok, I'm going to hit the record button now. *Start audio and screen recording.*
+Ok, I'm going to hit the record button now. 
+
+*Start audio and screen recording.*
+
+**I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
 
 ## Warm-up Questions - 5 minutes
+
+Before we get into into it, let’s start with a few warm-up questions.
 
 What branch of the military did you serve in?
 When did you retire or separate?
@@ -112,12 +118,8 @@ When did you retire or separate?
 
 ## Thank-You and Closing - 5 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on digital tools and services and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-As a thank you for your participation, we'd like to offer you a gift of $50 mailed by check.
-
-Is it ok for us to send that gift to the address you provided when you registered? *If no* Ok, we'll follow up with an email after this session to get the right address from you in writing. 
-
-Thanks! Lastly, would you like to share about this feedback opportunity with other Veterans or Veteran groups you're a part of? If so I can send you an email with a little blurb so you can easily connect folks to us.
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along.
 
 Great, well thank you so much again, and enjoy the rest of your day!
