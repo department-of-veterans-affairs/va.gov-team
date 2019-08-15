@@ -32,7 +32,7 @@ Ok, I'm going to hit the record button now.
 
 ## Warm-up Questions - 5 minutes
 
-Before we get into into it, let’s start with a few warm-up questions.
+Alright. Thanks again for ginving us some of your time. Before we get into into it, let’s start with a few warm-up questions.
 
 What branch of the military did you serve in?
 When did you retire or separate?
@@ -60,8 +60,8 @@ When did you retire or separate?
     * If they mention Health properties: 
       * Have you ever run into issues with [Name of property mentioned] online?
       * If yes: Please describe that issue.
-    * If they mention MHV:
-      * Do you ever spend time in your health history on MHV?
+    * If they mention MyHealtheVet:
+      * Do you ever spend time in your health history on MyHealtheVet?
        * Can you tell me about what you’re looking for there?
   * Can you tell me about an interaction you had with VA digital tools that worked as you expected and satisfied your need?
   * Are you accessing these tools from a computer, a smartphone or a tablet?
@@ -76,7 +76,7 @@ When did you retire or separate?
 
 
 ### Things to watch for
-* How does the Veteran define VA online? (va.gov, mhv, something else)
+* How does the Veteran define VA online? (va.gov, MyHealtheVet, something else)
 * What types of activities do Veterans give as examples?
 * How engaged/comfortable is the Veteran with technology?
 * What moments do Veterans mention decision making?
