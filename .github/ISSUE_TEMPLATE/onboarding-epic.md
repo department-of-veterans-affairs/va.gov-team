@@ -27,7 +27,8 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Engineers: [Set Up Local Dev Environment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Engineering/getting-started.md)
   - [ ] [Set Up Front-end](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)
   - [ ] [Set Up Back-end](https://github.com/department-of-veterans-affairs/vets-api#vets-api-)
-  - [ ] [Confirm that You Can Log In as a Test User](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/internal-tools)
+  - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/2d03fbabafe9c4840596e6687795a1906e4596ec/Administrative/Accessing-Staging.md)
+  - [ ] [Set up internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/request-access-to-tools.md)
 - [ ] Designers: Attend breakout session
 - [ ] Engineers: Attend breakout session
 - [ ] Full team: Attend the Discovery and Logistics Workshop
