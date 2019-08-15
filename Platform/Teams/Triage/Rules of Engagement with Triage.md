@@ -1,7 +1,7 @@
 # Preface
 This document will help all team members working on VA.gov understand when it is appropriate to engage the Triage team for support and provide relevant information to assist in routing reported issues to other appropriate teams.  Because of the limited number of resources on Triage, they cannot be a "catch-all" for every issue reported on the platform and every application.  Please read the following document carefully in order to determine the appropriate path for your incident.
 
-## Is this is a Severity 1 Issue? - Notify On Call Immediatley
+## Is this is a Severity 1 Issue? - Notify On Call Immediately
 
 When the incident is believed to be **Severity 1** which can be defined as (but not limited to)
  * Issue resolution is required in a 24 hour period
@@ -63,5 +63,5 @@ When in doubt, submit any issue through our [Triage Incident Template](https://g
 
 # NOTES on improvements to this doc:
 
-Create a process flow diagram to compliment what is being said in a visaul manner
+Create a process flow diagram to compliment what is being said in a visual manner
 
