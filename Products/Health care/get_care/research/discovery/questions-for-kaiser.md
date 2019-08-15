@@ -1,3 +1,7 @@
+# Questions for Kaiser about their E-visits tool
+
+Dr. Frisbee and others have found inspiration for the Get Care work from [this E-visits tool](https://thrive.kaiserpermanente.org/care-near-oregon-washington/overview/community/telehealth-video-phone-visit/e-visits) offered by Kaiser. We are interested to learn more about why it was created, how it was created and whether it is accomplishing it's goals. Our hope is that some of the questions they've asked and roadblocks they may have hit will better inform our approach to problems within the Get Care space.
+
 ## Why
 
 * What patient pain points was this tool developed to resolve?
