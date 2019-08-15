@@ -10,6 +10,7 @@ When the incident is believed to be **Severity 1** which can be defined as (but 
 Examples:
 - va.gov is unresponsive
 - Platform errors causing extreme delays for users
+- Login to va.gov is unavailable
   
 If you believe the issue falls into the Severity 1 category, there is no need to follow the Triage process.  Immediate notification to On Call is the best path to resolution.
 
@@ -21,14 +22,19 @@ Slack - [#oncall](https://github.com/department-of-veterans-affairs/vets.gov-tea
   
 **General Rule:** Any issue that is discovered that is outside your teams scope of work can be reported to Triage
 
+Examples:
+- An internal load testing tool is broken
+- Mock data is not working or is out of date
+- Metrics are being reported incorrectly or not reported at all
+
 **How to Report the Issue:**
 Reach out on our [Slack Channel](https://dsva.slack.com/messages/CK1FA11H8)
 
 Submit a GitHub issue using our [Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=)
 
 Is there already a GitHub Issue? Add the following tags and notify the Slack Channel for visibility:
-* Triage
-* Triage-incident
+* triage
+* triage-incident
  
 If you know which team the issue should be routed to, reach out to their pont of contact to confirm and directly asssign the issue to that team.  If you aren't sure which team owns the issue and would like to send it directly to them without the assistance of Triage, the [Product Owner Mapping Document](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) can help guide you in the right direction.
 
@@ -46,20 +52,6 @@ If you still have a doubt about where to report your incident for whatever reaso
 
 When in doubt, submit any issue through our [Triage Incident Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) and the Triage team will ensure it gets through the process correctly!
 
-
-
-
-
-
-
-# I Don't think we need to define this anymore?
-
-## Difference between a Bug and an Incident (for reference)
-**Incident:** An unplanned interruption. When the operational status of any activity turns from working to failed and causes the system to behave in an unplanned manner it is an incident. A problem can cause multiple incidents which are to be resolved—preferably as soon as possible.
-
-**Bug:** A defect found by a tester or reported by a user that is not stopping a user from sucessfully achieving their goal but needs to be addressed in a timely manner.
-
----
 
 # NOTES on improvements to this doc:
 
