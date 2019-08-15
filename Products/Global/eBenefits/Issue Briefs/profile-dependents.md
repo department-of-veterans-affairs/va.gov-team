@@ -1,4 +1,4 @@
-| Field | Description |
+|  | Description |
 |---|---|
 Feature Name  | Profile - Dependents
 Feature Description	| Users are able to view the dependents the VA has on record and see if they are on their Compensation award or not. 
