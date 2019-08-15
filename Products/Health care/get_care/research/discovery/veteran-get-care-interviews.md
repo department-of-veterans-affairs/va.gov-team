@@ -64,8 +64,15 @@ When did you retire or separate?
       * Do you ever spend time in your health history on MHV?
        * Can you tell me about what you’re looking for there?
   * Can you tell me about an interaction you had with VA digital tools that worked as you expected and satisfied your need?
-  * Are you accessing these tools from your own computer, mobile, with someone’s help?
-    * Do you use anything to track your activity or health progress like a pedometer, fitbit, food journal?
+  * Are you accessing these tools from a computer, a smartphone or a tablet?
+    * How does that work for you?
+    * Why don't you use those other devices?
+    * Is the computer you use your own or a shared computer? Are you able to use it from home?
+    * If yes: ask specifically about a doctor having access and seeing a history of results through VA.
+  
+  * Do you use anything to track your activity or health progress like a **pedometer, fitbit, food journal**?
+    * Would you ever consider letting your doctor review that data?
+  
 
 
 ### Things to watch for
@@ -85,9 +92,8 @@ When did you retire or separate?
 * Tell us about your last visit?
   * Follow up: Did doctor tell you to come in or did you set up yourself?
 * Did you feel like that was the best way to get care at the time? 
-* Have you used or been prescribed any alternate methods of care like..
-  * How would you feel about video chat?
-  * Secure messaging, phone apps…
+* Have you used any alternate methods of care with your provider like..
+  * video chat, secure messaing or phone apps?
 * If yes: Tell me about how it was using that method.
 
 ### Things to watch for
