@@ -70,7 +70,7 @@ When did you retire or separate?
 * Willingness to track their own health digitally.
 
 
-## Third Section: Visiting VAMC - X minutes - 15 minutes
+## Third Section: Visiting VAMC - 15 minutes
 *Purpose*: We want to learn more specifically about Veterans care interactions, including their comfort and interest in digital interactions vs in-person interactions.
 
 ### Questions
