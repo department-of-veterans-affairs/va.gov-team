@@ -1,5 +1,5 @@
 # Product list for 508 testing
-(and if it's been given a an official thumbs-up)
+This list is the current record of 508 issues in the `va.gov-team` repo. It will be updated weekly for accuracy. Please refer to the deprecated list for [previously closed issues](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Accessibility/508officeReviewList.md).
 
 
 
@@ -12,3 +12,4 @@
 | Edu 1990n | Complete 6/2017 | No issues! |
 | Disability Calculator (Beta) | Issues logged by Trevor Pierce during audit June 2019 | **Open issues:**<br/> [#423](https://github.com/department-of-veterans-affairs/va.gov-team/issues/423), [#1039](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1039), [#1043](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1043), [#1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045) <br/><br/> **Closed issues:**<br/> [#428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/428), [#429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/429), [#430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/430), [#431](https://github.com/department-of-veterans-affairs/va.gov-team/issues/431) |
 | VA Developer Portal | Issues logged by Trevor Pierce in Q1 2019 audit | [All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/vets-contrib/issues?q=is%3Aopen+label%3A508%2FAccessibility+label%3ASparkleMotion) |
+| 526V2 All Claims | Sent to VA 508 office for quick test on 3/8/2019 <br/><br/> https://staging.va.gov/disability-benefits/apply/form-526-all-claims/ | **Open issues identified by VA 508 office:**<br/> [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318), [#182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182) <br/><br/> **Open issues identified by Trevor Pierce:**<br/> [#1046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1046), [#1047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1047) |
