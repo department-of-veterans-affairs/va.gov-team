@@ -54,7 +54,7 @@ Outline team and member focus, goals for sprint
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
 2nd Wednesday of every sprint, 30 min
 
-**Grooming** 
+**Grooming**  
 Assess and update workload for remainder of sprint  
 2nd Thursday of every sprint, 1-hour  
 
@@ -73,11 +73,11 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 ## **Estimation**
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
 
-1 - Easy task, work is known, can be executed quickly   
-2 -    
-3 -    
-5 - Becoming complex    
-8 -    
+ 1 - Easy task, work is known, can be executed quickly   
+ 2 -    
+ 3 -    
+ 5 - Becoming complex    
+ 8 -    
 13 - Very complex, may take a full sprint or longer   
 21 - Needs to be broken down into smaller user stories   
 
