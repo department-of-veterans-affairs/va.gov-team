@@ -35,4 +35,4 @@ Roadmap	| NEAR TERM
 
 ## Screenshot
 
-![Profile: Rated Disabilities](profile-rated-disabilities.png)
+![Profile: Rated Disabilities](profile-rated-disabilities.png) 
