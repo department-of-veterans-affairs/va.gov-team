@@ -47,7 +47,7 @@ Format:
 5. Recap
 
 **Sprint Planning**  
-Outline team and member focus, goals for sprint  
+Outline team and member focus, goals for sprint:  
 1st Wednesday of every sprint  
 1-2 hour(s)  
 
@@ -57,7 +57,7 @@ Review accomplishments from prior sprint, what went well, areas for improvement,
 30 min
 
 **Grooming**  
-Assess and update workload for remainder of sprint  
+Assess and update workload for remainder of sprint:  
 2nd Thursday of every sprint   
 1-hour  
 
