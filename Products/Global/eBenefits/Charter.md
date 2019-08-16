@@ -53,11 +53,13 @@ Outline team and member focus, goals for sprint
 
 **Retro**   
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:   
-2nd Tuesday of every sprint, 30 min
+2nd Tuesday of every sprint   
+30 min
 
 **Grooming**  
 Assess and update workload for remainder of sprint  
-2nd Thursday of every sprint, 1-hour  
+2nd Thursday of every sprint   
+1-hour  
 
 ### **Issue Etiquette**
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
