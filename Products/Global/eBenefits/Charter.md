@@ -70,7 +70,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
    All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-## **Estimation**
+### **Estimation**
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
 
  1 - Easy task, work is known, can be executed quickly   
@@ -81,7 +81,7 @@ Estimation is not based on how long something will take to complete, but is rath
 13 - Very complex, may take a full sprint or longer   
 21 - Needs to be broken down into smaller user stories   
 
-## **Team Norms**
+### **Team Norms**
 
   * Be respectful, both online and off
   * Show your face (Webcam) at meetings / calls
