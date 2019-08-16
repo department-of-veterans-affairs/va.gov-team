@@ -1,29 +1,28 @@
 *WIP - Subject to change*
 # **VSA eBenefits Charter**
-======
 
-## VSA North Star: 
+### **VSA North Star**
 Increase engagement and efficiency of VA.gov for its veteran users.
 
-## Product Line: 
+### **Product Line**
 VSA
 
-## Mission Statement:
+### **Mission Statement**
 Help users do the things they currently do on eBenefits, even more easily from the VA.gov central location with migration and optimization
 
-## Product Portfolio:
+### **Product Portfolio**
 eBenefits
 
-## Responsibilities:
+### **Responsibilities**
 Define the landscape of features to be worked on, and
 optimize and migrate as necessary, and
 collaborate with other teams on overlap.
 
-## Roadmap:
+### **Roadmap**
 [Link to agile roadmap](# "To Be Determined") - TBD
 
 
-## Team Members
+### Team Members
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
@@ -34,7 +33,7 @@ collaborate with other teams on overlap.
 |UX Design              |Arricka Lewis *(8/26)*              |
 |Design Researcher      |*To Be Determined*                  |
 
-## Workflow + Cadence
+### **Workflow + Cadence**
 
 **Stand-up: people & product check-ins**
 Daily @ 11:30 ET
@@ -46,20 +45,20 @@ Format:
 4. Any impediments?
 5. Recap
 
-**Sprint Planning:**
+**Sprint Planning**
 Outline team and member focus, goals for sprint
 1st Wednesday of every sprint
 1-2 hour(s)
 
-**Retro:** 
+**Retro** 
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
 2nd Wednesday of every sprint, 30 min
 
-**Grooming:** 
+**Grooming** 
 Assess and update workload for remainder of sprint
 2nd Thursday of every sprint, 1-hour
 
-## **Issue Etiquette**
+### **Issue Etiquette**
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
   * Estimate
   * Title that explains task
