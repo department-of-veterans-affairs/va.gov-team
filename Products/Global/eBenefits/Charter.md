@@ -46,17 +46,17 @@ Format:
 5. Recap
 
 **Sprint Planning**
-Outline team and member focus, goals for sprint
-1st Wednesday of every sprint
-1-2 hour(s)
+Outline team and member focus, goals for sprint  
+1st Wednesday of every sprint  
+1-2 hour(s)  
 
 **Retro** 
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
 2nd Wednesday of every sprint, 30 min
 
 **Grooming** 
-Assess and update workload for remainder of sprint
-2nd Thursday of every sprint, 1-hour
+Assess and update workload for remainder of sprint  
+2nd Thursday of every sprint, 1-hour  
 
 ### **Issue Etiquette**
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
