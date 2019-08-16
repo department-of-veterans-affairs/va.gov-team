@@ -52,8 +52,8 @@ Outline team and member focus, goals for sprint
 1-2 hour(s)  
 
 **Retro**   
-Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
-2nd Wednesday of every sprint, 30 min
+Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:   
+2nd Tuesday of every sprint, 30 min
 
 **Grooming**  
 Assess and update workload for remainder of sprint  
