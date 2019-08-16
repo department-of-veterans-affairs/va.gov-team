@@ -14,7 +14,7 @@ Thanks for joining us today! My name is **Caitlin** and I also have some colleag
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45min.** 
+- **This entire session should take about 45min to 1 hour.** 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -28,22 +28,32 @@ Ok, I'm going to hit the record button now.
 
 *Start audio and screen recording.*
 
-**I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
+**I have started recording. I'd like to confirm: Are you comfortable if I record the audio as we talk today?"
 
 ## Warm-up Questions - 5 minutes
 
-Alright. Thanks again for ginving us some of your time. Before we get into into it, let’s start with a few warm-up questions.
+Alright. Thanks again for giving us some of your time today. Before we really get into it, let’s start with a few warm-up questions about your service.
 
-What branch of the military did you serve in?
-When did you retire or separate?
+* What branch of the military did you serve in?
+* When did you retire or separate?
 
 ## First Section: VA Care - 10 minutes
 *Purpose*: We want to learn about what the Veteran considers care and how they approach access before we get more specific. 
 
 ### Questions
 * What types of care do you access through the VA?
+    * What does care mean to you?
+    * Does it include X thing? More? Why?
+
 * When you need support from the VA for healthcare, how do you get care?
   * Follow up: Is there a particular way of getting care that you prefer?
+  * If **the secure messaging**: 
+    * Tell me about the last time you sent a secure message to your VA (or any other provider outside the VA). 
+    * Why did you choose to communicate with your doctor in that way? 
+    * Are there other health issues that you might consider using a secure message to try to address? 
+    * Would you ever consider sending a secure message to ask for an appointment? 
+    * Would you ever consider sending a secure message to refill a prescription?
+
   
 ### Things to watch for
 * How does the Veteran define care?
@@ -53,7 +63,7 @@ When did you retire or separate?
 *Purpose*: We want to learn how Veterans characterize their interactions with VA online, what tools and sources they use successfully and gauge their comfort with managing their care digitally. 
 
 ### Questions
-* When is the last time you visited the VA online?
+* When is the last time you visited a VA website?
   * Can you tell me about that? What site did you go to?
     * Follow up: Do you interact with the VA Online to help manage your health?
   * What do you do the most when you are visiting the VA online?
@@ -64,7 +74,7 @@ When did you retire or separate?
       * Do you ever spend time in your health history on MyHealtheVet?
        * Can you tell me about what you’re looking for there?
   * Can you tell me about an interaction you had with VA digital tools that worked as you expected and satisfied your need?
-  * Are you accessing these tools from a computer, a smartphone or a tablet?
+  * Are you accessing these tools from a **computer, a smartphone or a tablet**?
     * How does that work for you?
     * Why don't you use those other devices?
     * Is the computer you use your own or a shared computer? Are you able to use it from home?
@@ -95,12 +105,23 @@ When did you retire or separate?
 * Have you used any alternate methods of care with your provider like..
   * video chat, secure messaing or phone apps?
 * If yes: Tell me about how it was using that method.
+* Do you get any of your healthcare at locations other than the VA? 
+  * If so, how have you engaged with those providers? 
+  * Do any of them have online patient portals or mobile applications that you are aware of? 
+  * Have you used these tools? 
+  * Do they have features you like? 
+  * Why do you like that feature? 
+  * Are there things that your provider does better than VA? 
+  * Are there things that VA does better than your private care doc?"
+
 
 ### Things to watch for
 * Frequency of interaction with VA in person.
 * How a Veteran sets up their care.
 * Satisfaction with current methods of getting care.
 * Openness to new technology.
+* Experiences they define differently between private and VA care
+* Opportunities they highlight as successful in private care
 
 
 ## Fourth Section: Finding New Care Options/Trust - 10 minutes
@@ -112,6 +133,18 @@ When did you retire or separate?
   * Can you tell me about any tools or services the VA offers that you haven’t used? 
     * If Yes: Why haven’t you used these?
   * How do you feel about using digital tools as an alternative to in-person care?
+* Have you ever used a **'chat' tool** to interact with a customer service provider? 
+  * How was that experience? 
+  * Did they resolve your problem? 
+  * Did you need to take any action following the chat to resolve your problem? 
+  * How confident did you feel that your needs were met after that experience? 
+  * How comfortable would you feel if VA used a chat functionality to help you with [a problem they’ve mentioned]?"
+
+* Have you ever used video chat, such as **Facetime or Skype**?
+  * How was that experience?
+  * Have you ever used it to help solve a problem or get to get advice from someone about something?
+  * How comfortable would you feel if VA used a chat functionality to help you with [a problem they’ve mentioned]?"
+
 
 ### Things to watch for 
 * Willingness to try new tools.
@@ -120,7 +153,7 @@ When did you retire or separate?
 
 ## Post-Task Interview - 5 minutes
 
-* Is there anything else about your experience with VA Health care you’d like to share?
+* Is there anything else about your experience with VA health care you’d like to share?
 
 ## Thank-You and Closing - 5 minutes
 
