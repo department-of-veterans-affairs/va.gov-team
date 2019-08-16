@@ -1,4 +1,7 @@
-*WIP - Subject to change*
+```diff
+- WIP - Subject to change*
+```
+
 # **VSA eBenefits Charter**
 
 ### **VSA North Star**
