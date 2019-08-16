@@ -54,10 +54,8 @@ Alright. Thanks again for giving us some of your time today. Before we really ge
     * Would you ever consider sending a secure message to ask for an appointment? 
     * Would you ever consider sending a secure message to refill a prescription?
 
-  
 ### Things to watch for
 * How does the Veteran define care?
-
 
 ## Second Section: VA Online - 15 minutes
 *Purpose*: We want to learn how Veterans characterize their interactions with VA online, what tools and sources they use successfully and gauge their comfort with managing their care digitally. 
@@ -77,13 +75,9 @@ Alright. Thanks again for giving us some of your time today. Before we really ge
   * Are you accessing these tools from a **computer, a smartphone or a tablet**?
     * How does that work for you?
     * Why don't you use those other devices?
-    * Is the computer you use your own or a shared computer? Are you able to use it from home?
-    * If yes: ask specifically about a doctor having access and seeing a history of results through VA.
-  
+    * Is the computer you use your own or a shared computer? Are you able to use it from home?  
   * Do you use anything to track your activity or health progress like a **pedometer, fitbit, food journal**?
     * Would you ever consider letting your doctor review that data?
-  
-
 
 ### Things to watch for
 * How does the Veteran define VA online? (va.gov, MyHealtheVet, something else)
@@ -145,11 +139,9 @@ Alright. Thanks again for giving us some of your time today. Before we really ge
   * Have you ever used it to help solve a problem or get to get advice from someone about something?
   * How comfortable would you feel if VA used a chat functionality to help you with [a problem they’ve mentioned]?"
 
-
 ### Things to watch for 
 * Willingness to try new tools.
 * Trust of digital tools as alternatives to in-person care.
-
 
 ## Post-Task Interview - 5 minutes
 
