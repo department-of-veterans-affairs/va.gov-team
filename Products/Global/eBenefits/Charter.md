@@ -8,7 +8,7 @@
 Increase engagement and efficiency of VA.gov for its veteran users.
 
 ### **Product Line**
-VSA
+VSA - va.gov
 
 ### **Mission Statement**
 Help veterans, their dependents and caregivers better utilize eBenefits by transforming, migrating and optimizing those features and functions to the VA.gov central location.
