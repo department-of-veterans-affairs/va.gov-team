@@ -1,4 +1,4 @@
-# Get Care Veteran Intereviews Conversation Guide
+# Get Care Veteran Interviews Conversation Guide
 
 ## Moderator logistics
 
