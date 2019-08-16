@@ -1,5 +1,5 @@
 ```diff
-- WIP - Subject to change*
+- WIP - Subject to change
 ```
 
 # **VSA eBenefits Charter**
