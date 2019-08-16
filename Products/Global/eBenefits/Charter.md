@@ -74,7 +74,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 ### **Estimation**
-Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
+Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
 
  1 - Easy task, work is known, can be executed quickly   
  2 -    
