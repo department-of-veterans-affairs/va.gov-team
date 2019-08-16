@@ -35,22 +35,22 @@ collaborate with other teams on overlap.
 
 ### **Workflow + Cadence**
 
-**Stand-up: people & product check-ins**
-Daily @ 11:30 ET
-20-25 min
-Format: 
+**Stand-up: people & product check-ins**  
+Daily @ 11:30 ET  
+20-25 min  
+Format:  
 1. General Discussion
 2. What I did yesterday? 
 3. What will I do today? 
 4. Any impediments?
 5. Recap
 
-**Sprint Planning**
+**Sprint Planning**  
 Outline team and member focus, goals for sprint  
 1st Wednesday of every sprint  
 1-2 hour(s)  
 
-**Retro** 
+**Retro**   
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
 2nd Wednesday of every sprint, 30 min
 
