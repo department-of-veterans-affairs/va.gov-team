@@ -2,32 +2,32 @@
 - WIP - Subject to change
 ```
 
-# **VSA eBenefits Charter**
+# **VSA eBenefits Team Charter**
 
 ### **VSA North Star**
-Increase engagement and efficiency of VA.gov for its veteran users.
+Work with Veterans to design and deliver the best digital experience in the federal government. Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.
 
 ### **Product Line**
 VSA - va.gov
 
-### **Mission Statement**
-Help veterans, their dependents and caregivers better utilize eBenefits by transforming, migrating and optimizing those features and functions to the VA.gov central location.
-
 ### **Product Portfolio**
 eBenefits
+
+### **Mission Statement**
+Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from ebenefits to the VA.gov central location.
 
 ### **Responsibilities**
 Define the landscape of features to be worked on, optimize and migrate as necessary, and collaborate with other teams where there is overlap.  
 
 ### **Roadmap**
-[Link to agile roadmap](# "To Be Determined") - TBD
+[priorities.md](priorities.md) - TBD
 
 
 ### Team Members
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Manager   |Steven Kovacs & Andrea Z. Schneider |
+|DSVA Product Manager   |Steve Kovacs                        |
 |Team Product Manager   |Jason Wolf                          |
 |Back End Engineer      |Kathleen Crawford                   |
 |Front End Engineer     |Micah Chiang *(8/26)*               |
@@ -66,11 +66,12 @@ For an issue to go into the Current Sprint column, it must have the following (c
   * Estimate
   * Title that explains task
   * Description with Background and Acceptance Criteria
-  * Labels - Analytics-Insights, Call Center, Analytics Request
+  * Labels - vsa-ebenefits (and cross functional team labels)
   * User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
   * Epic assigned
 
-   All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
+All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
+
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 ### **Estimation**
