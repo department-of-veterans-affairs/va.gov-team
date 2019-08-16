@@ -20,7 +20,7 @@ eBenefits
 Define the landscape of features to be worked on, optimize and migrate as necessary, and collaborate with other teams where there is overlap.  
 
 ### **Roadmap**
-[Link to agile roadmap](# "To Be Determined") - TBD
+[Link to agile roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Products/Global/eBenefits/priorities.md "To Be Determined")
 
 
 ### Team Members
@@ -78,11 +78,9 @@ Estimation is not based on how long something will take to complete, but is rath
 
  1 - Easy task, work is known, can be executed quickly   
  2 -    
- 3 -    
- 5 - Becoming complex    
- 8 -    
-13 - Very complex, may take a full sprint or longer   
-21 - Needs to be broken down into smaller user stories   
+ 3 - Becoming complex   
+ 5 - Very complex, may take a full sprint or longer    
+ 8 - Needs to be broken down into smaller user stories      
 
 ### **Team Norms**
 
