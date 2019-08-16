@@ -33,9 +33,9 @@
 
 The Veterans Appeals Improvement and Modernization Act (abbreviated _AMA_, pdf [here](https://www.congress.gov/115/plaws/publ55/PLAW-115publ55.pdf)) establishes new methods for Veterans and related claimants to appeal decisions made about their VA benefits. However, there is no way to make these appeals online, resulting in tens of thousands of paper forms being filled out, mailed, and processed by hand into VA intake systems. This incurs substantial costs relating to mail cycles, intake staffing needs, and maintaining business processes centered around correcting data errors. The VA should improve this process by building a self-service, personalized, guided digital experience on VA.gov – an experience which uses existing systems to pre-fill, validate, and recirculate critical veteran data across the enterprise.
 
-Fact Sheet: https://benefits.va.gov/BENEFITS/factsheets/appeals/Appeals-FactSheet.pdf
-va.gov landing page: https://www.va.gov/decision-reviews/
-Benefits landing page: https://benefits.va.gov/benefits/appeals.asp
+- Fact Sheet: https://benefits.va.gov/BENEFITS/factsheets/appeals/Appeals-FactSheet.pdf
+- va.gov landing page: https://www.va.gov/decision-reviews/
+- Benefits landing page: https://benefits.va.gov/benefits/appeals.asp
 
 ## Terminology
 
@@ -142,9 +142,9 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 
 ## Status
 
-**May 1 2019**
-- API: Currently in discovery
-- va.gov UX: Currently in planning
+**Aug 1 2019**
+- API: Baseline iteration complete
+- va.gov UX: Research complete, first design round complete, dev work beginning assignment
 - Caseflow Intake UX: Currently in planning
 
 ## Solution Narrative
