@@ -10,7 +10,7 @@
 - Login - User Roles and Relationships: Users can log in and view their relationship to other users, and perform actions authorized by those relationships.
 - Profile - Roles and Relationships: Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc)
 - Order Hearing Aid Batteries and Prosthetic Socks (hearing aids): Users can order hearing aids. 
-- Order Hearing Aid Batteries and Prosthetic Socks (prosthetic socks):Users can order prosthetic socks. 
+- Order Hearing Aid Batteries and Prosthetic Socks (prosthetic socks): Users can order prosthetic socks. 
 - VA Home Loan Certificate of Eligibility: Users can calculate their VA Home Loan benefit and entitlement to get a Certificate of Eligibility.
 - Apply for or Modify Dependency Benefits: Users with a >30% service-connected ability rating are able to add and remove dependents from their award, or to submit additional information if their child is school-aged. 
 - Find or View Your Representative for VA Claims: Users are able to search for a VSO, attorney, or agent to represent them during interactions with the VA.
