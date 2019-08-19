@@ -28,7 +28,7 @@
 | Form | Specially Adapted Housing Grant Application and Claim Status | Users are able to apply for Specially Adapted Housing benefits and check the status of their request. |
 | Claims and Appeals | Claim Status | Users are able to check the status of their pending C&P claims, view details, upload evidence, and view the documents. They can also submit a 5103. **(WIP)** |
 | Profile | Open Applications |Users can see any VDC applications that they have started and not yet submitted. **(WIP)** |
-| Profile | Claim Status - Upload Supporting Evidence: While checking the status of their pending Compensation claims, users can upload documents in support of their claim or to answer specific requests for additional evidence. **(WIP)** |
+| Claims and Appeals | Claim Status | Upload Supporting Evidence: While checking the status of their pending Compensation claims, users can upload documents in support of their claim or to answer specific requests for additional evidence. **(WIP)** |
 | Profile | Ancillary Benefits | Users are able to view the status of various ancillary and other benefits
 | eFolder | My Documents: Users are able to see and download documents they have uploaded to the VA
 | Form | Request a Representative | Users are able to complete and submit an electronic request (21-22) for VSO support granting the VSO power of attorney. If they select an attorney or agent representative they are instructed to print, sign, and mail in the 21-22a. |
