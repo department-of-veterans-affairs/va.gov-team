@@ -2,17 +2,20 @@
 # Veteran-facing Services Platform (VSP)
 The `va.gov-team` repository is used for documentation created and used by the teams that build and use the VSP. The information in this repo is relevant to teams building Veteran-facing services, teams running the platform itself, DSVA (Digital Service at VA), DEPO (Digital Experience Product Office) team members, and VA stakeholders.
 
-This repo is open and available to the public.
+This repo is open and viewable by the public.
 
 ### What is the VSP?
 The Veteran-facing Services Platform (VSP) is the common infrastructure, technical and non-technical components, and processes that support static and interactive content consumed by Veterans via VA.gov. Major pieces of the VSP include a set of APIs that manage communication between a Veteran user and internal VA resources, an identity and authentication system, a design system based on the U.S. Web Design System, reusable frontend components, a Drupal-based content management system, and an extensive set of documentation and guides.
 
 ## Get in touch
 
-* DSVA Slack
-    * [#platform-team](https://dsva.slack.com/messages/CJRQ85PQB), for general discussion
-    * [#vfs-platform-support](https://dsva.slack.com/messages/CBU0KDSB1), for platform support
-* [Org chart](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/org-chart.md) (internal, out of date)
+To request support from the VSP team, drop us a line in Slack at [`#vfs-platform-support`](https://dsva.slack.com/messages/CBU0KDSB1).
+
+
+<!--
+ TODO: update org chart
+ * [Org chart](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/org-chart.md) (internal, out of date)
+ -->
 
 ## Production emergencies
 
@@ -135,3 +138,4 @@ Relevant resources for VA.gov that live outside this GitHub repo.
 * [VA Digital Service Handbook](https://department-of-veterans-affairs.github.io/va-digital-service-handbook/)
 * [USDS Playbook](https://playbook.cio.gov/)
 * [United States Web Design System (USWDS)](https://designsystem.digital.gov/)
+* [`va.gov-team-sensitive`](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/), for non-public documentation
