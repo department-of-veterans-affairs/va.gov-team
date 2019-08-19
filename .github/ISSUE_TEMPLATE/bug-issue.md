@@ -25,7 +25,7 @@ _Describe in detail what was supposed to happen; reference existing Github issue
 ## Acceptance Criteria
 - [ ] _Describe the desired working behavior_
 
-## Definition of Done
+## How to configure this issue
 - [ ] **Attached to a Milestone** (when will this be completed?)
 - [ ] **Attached to Epic** (what body of work is this a part of? possibly `Ongoing Maintenance`)
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)

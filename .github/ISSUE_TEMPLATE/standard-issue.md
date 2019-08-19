@@ -16,7 +16,7 @@ _What outcome(s) do we want to see?_
 ## Acceptance Criteria
 - [ ] _What needs to happen or be created?_
 
-## Definition of Done
+## How to configure this issue
 - [ ] **Attached to a Milestone** (when will this be completed?)
 - [ ] **Attached to an Epic** (what body of work is this a part of?)
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)
