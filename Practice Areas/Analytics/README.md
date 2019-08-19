@@ -8,10 +8,10 @@ Hello! In this folder, you'll find information specific to how Insights works on
 
 ### Points of contact
 The Analytics-Insights points of contact are:  
-- [Leah Bannon](mailto:leah.bannon2@va.gov), USDS Platform Co-Lae, @leah on Slack
+- [Leah Bannon](mailto:leah.bannon2@va.gov), USDS Platform Co-Lead, @leah on Slack
 - [Joanne Esteban](mailto:joanne@adhocteam.us), Product Manager, @Joanne Esteban on Slack
 - [Nedie Recel](mailto:nedie.recel@empiricalpath.com), Insights Lead, @nedierecel on Slack
-- [Amy Cesal](mailto:amy@adhocteam.us), Analytics Designer: Amy Cesal
+- [Amy Cesal](mailto:amy@adhocteam.us), Analytics Designer, @Amy Cesal on Slack
 - [Jon Wehausen](mailto:jon.wehausen@empiricalpath.com), Analytics Implementation, @Jon Wehausen on Slack
 - [Chanté Lantos-Swett](mailto:chante.lantosswett@va.gov), Contact Center Lead, @Chante Lantos-Swett on Slack
 - [Joy Whitt](mailto:joy.whitt@pif.gov), Data Science Presidential Innovation Fellow, @Joy Whitt on Slack
