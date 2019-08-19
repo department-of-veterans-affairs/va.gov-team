@@ -7,6 +7,8 @@
 - Profile - Rated Disabilities: Users are able to view their current disability ratings for each contention and the combined disability rating.
 - Profile - Dependents: Users are able to view the dependents the VA has on record and see if they are on their Compensation award or not. 
 - Profile - Payment History: Users are able to check the status of their Compensation Service payments.
+- Login - User Roles and Relationships: Users can log in and view their relationship to other users, and perform actions authorized by those relationships.
+- Profile - Roles and Relationships: Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc)
 - Order Hearing Aid Batteries and Prosthetic Socks (hearing aids): Users can order hearing aids. 
 - Order Hearing Aid Batteries and Prosthetic Socks (prosthetic socks):Users can order prosthetic socks. 
 - VA Home Loan Certificate of Eligibility: Users can calculate their VA Home Loan benefit and entitlement to get a Certificate of Eligibility.
