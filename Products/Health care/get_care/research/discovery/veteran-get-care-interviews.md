@@ -31,33 +31,20 @@ Ok, I'm going to hit the record button now.
 **I have started recording. I'd like to confirm: Are you comfortable if I record the audio as we talk today?"
 
 ## Warm-up Questions - 5 minutes
+*Purpose*: Mostly a warm upe, but also a chance to learn about what the Veteran considers care and how they approach access before we get more specific. 
 
 Alright. Thanks again for giving us some of your time today. Before we really get into it, let’s start with a few warm-up questions about your service.
 
 * What branch of the military did you serve in?
 * When did you retire or separate?
-
-## First Section: VA Care - 10 minutes
-*Purpose*: We want to learn about what the Veteran considers care and how they approach access before we get more specific. 
-
-### Questions
 * What types of care do you access through the VA?
     * What does care mean to you?
     * Does it include X thing? More? Why?
 
-* When you need support from the VA for healthcare, how do you get care?
-  * Follow up: Is there a particular way of getting care that you prefer?
-  * If **the secure messaging**: 
-    * Tell me about the last time you sent a secure message to your VA (or any other provider outside the VA). 
-    * Why did you choose to communicate with your doctor in that way? 
-    * Are there other health issues that you might consider using a secure message to try to address? 
-    * Would you ever consider sending a secure message to ask for an appointment? 
-    * Would you ever consider sending a secure message to refill a prescription?
-
 ### Things to watch for
 * How does the Veteran define care?
 
-## Second Section: VA Online - 15 minutes
+## First Section: VA Online - 15 minutes
 *Purpose*: We want to learn how Veterans characterize their interactions with VA online, what tools and sources they use successfully and gauge their comfort with managing their care digitally. 
 
 ### Questions
@@ -75,8 +62,10 @@ Alright. Thanks again for giving us some of your time today. Before we really ge
   * Are you accessing these tools from a **computer, a smartphone or a tablet**?
     * How does that work for you?
     * Why don't you use those other devices?
-    * Is the computer you use your own or a shared computer? Are you able to use it from home?  
+    * Is the computer you use your own or a shared computer? Are you able to use it from home?
+    * If **mobile**: Do you use your mobile device to access **web tools** or do you use it for **apps**? 
   * Do you use anything to track your activity or health progress like a **pedometer, fitbit, food journal**?
+    * Tell me more about X. What do you use that for?
     * Would you ever consider letting your doctor review that data?
 
 ### Things to watch for
@@ -87,10 +76,18 @@ Alright. Thanks again for giving us some of your time today. Before we really ge
 * Willingness to track their own health digitally.
 
 
-## Third Section: Visiting VAMC - 15 minutes
+## Second Section: Visiting VAMC - 15 minutes
 *Purpose*: We want to learn more specifically about Veterans care interactions, including their comfort and interest in digital interactions vs in-person interactions.
 
 ### Questions
+* When you need support from the VA for healthcare, how do you get care?
+  * Follow up: Is there a particular way of getting care that you prefer?
+  * If **the secure messaging**: 
+    * Tell me about the last time you sent a secure message to your VA (or any other provider outside the VA). 
+    * Why did you choose to communicate with your doctor in that way? 
+    * Are there other health issues that you might consider using a secure message to try to address? 
+    
+    
 * About how often do you visit your VAMC in a year, how many appointments?
 * How convenient is it for you to get there?
 * Tell us about your last visit?
@@ -118,7 +115,7 @@ Alright. Thanks again for giving us some of your time today. Before we really ge
 * Opportunities they highlight as successful in private care
 
 
-## Fourth Section: Finding New Care Options/Trust - 10 minutes
+## Third Section: Finding New Care Options/Trust - 10 minutes
 *Purpose*: We want to know if users find the Vets.gov Scheduling page clear. 
 
 ### Questions
