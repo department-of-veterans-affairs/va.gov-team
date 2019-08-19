@@ -27,6 +27,6 @@ Meeting to make sure the team is setup and ready for development
 Schedule times to meet with team
 ```
 
-## Definition of Done
+## How to configure this issue
 - [ ] **Labeled with `Product Support` Team**
 - [ ] **Onboarding is complete and new VFS team is operating in their development workflow**
