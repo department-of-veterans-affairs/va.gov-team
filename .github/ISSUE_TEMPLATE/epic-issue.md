@@ -2,7 +2,7 @@
 name: Epic Template
 about: For filing Epics on VSP
 title: ''
-labels: epic
+labels: ''
 assignees: ''
 
 ---
