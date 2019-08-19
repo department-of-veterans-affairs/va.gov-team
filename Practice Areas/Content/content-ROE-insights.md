@@ -4,10 +4,10 @@ This document details lessons learned and recommendations on the Content ROE, ba
 
 ### 1:1 onboarding meetings
 1. By Light. Met with Brittany Clausen, Elwood Gary and Michael Talbot on 8/13
-2. VFS authenticated experience team: PM Justin Picket. 8/13 meeting
-3. VFS global-ux team: PM: Kara Kemahli. 8/19 meeting  
-4. VFS disability benefits PM: Yana Roy. (to be scheduled)
-5. Ebenefits (not yet onboarded)
+2. VSA authenticated experience team: PM Justin Picket. 8/13 meeting
+3. VSA global-ux team: PM: Kara Kemahli. 8/19 meeting  
+4. VSA disability benefits PM: Yana Roy. (to be scheduled)
+5. VSA Ebenefits (not yet onboarded)
 
 ### Questions and feedback on the Content Review document
 
