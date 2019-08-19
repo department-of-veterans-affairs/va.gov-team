@@ -1,4 +1,5 @@
-# VSP Product Support: KPI Pre-Workshop Planning
+# VSP Product Support: KPI Setting 
+## Pre-Workshop Planning
 
 ### Product Line
 _For example, Platform, Global UX, etc._
