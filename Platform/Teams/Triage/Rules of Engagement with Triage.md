@@ -54,8 +54,3 @@ If you still have a doubt about where to report your incident for whatever reaso
 
 When in doubt, submit any issue through our [Triage Incident Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) and the Triage team will ensure it gets through the process correctly!
 
-
-# NOTES on improvements to this doc:
-
-Create a process flow diagram to complement what is being said in a visual manner
-
