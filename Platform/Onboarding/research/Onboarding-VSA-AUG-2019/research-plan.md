@@ -36,7 +36,7 @@ Participants will be members of the first three new VSA teams:
 * Authenicated Experience
 
 ## When
-August 5 - 12, 2019 during Full Team and Engineering onboarding meetings
+August 5 - 12, 2019 during the All Team, UX and Engineering, Discovery & Logistics onboarding meetings
 
 ## Team Roles
 - Moderator(s): Emily Waggoner, Layla Soileau
