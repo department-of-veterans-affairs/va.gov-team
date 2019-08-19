@@ -1,9 +1,5 @@
 # eBenefits Features Impacting Auth'd Experience
 
-## Login
-
-User Roles and Relationships: Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
-
 ## Veteran Profile
 
 | Profile Element | User Can View | User Can Take Action | Notes |
@@ -17,3 +13,7 @@ User Roles and Relationships: Users can log in and maintain a role based on thei
 | SAHG (Specially Adapted Housing Grant) | View status of request | Apply for SAHG | |
 | Ancillary Benefits | View status of various other benefits (Special Monthly Compensation, VR&E, Education/ Career Counseling, etc) | None | |
 | Appointments | View upcoming VHA medical appointments. | Schedule VHA appointments. | Available today through HDR Patways service. |
+
+## Login
+
+User Roles and Relationships: Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.)
