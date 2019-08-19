@@ -113,6 +113,8 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 - Provide the Domain where Google Analytics needs to be implemented
     _i.e. www.staging.va.gov_
     
+    _Identify if PII is passed in URL or title tag_
+    
     - [Provide Domain here]
 - Please provide any upcoming deadlines or important milestones
     _ex: launch_
