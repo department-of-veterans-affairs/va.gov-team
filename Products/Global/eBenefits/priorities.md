@@ -11,7 +11,7 @@
 | Profile | Payment History | Users are able to check the status of their Compensation Service payments. |
 | Profile | View Representative | Users are able to view their current representative for VA claims. |
 | Profile | Representative | Users are able to view their active representative who has Power of Attorney to act on their behalf. (Note: Is this different from above?) |
-| Login | User Roles and Relationships | Users can log in and view their relationship to other users, and perform actions authorized by those relationships. |
+| Login | User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
 | Profile | Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
 | Form | Order Hearing Aid Batteries and Prosthetic Socks (hearing aids) | Users can order hearing aids.  |
 | Form | Order Hearing Aid Batteries and Prosthetic Socks (prosthetic socks) | Users can order prosthetic socks.  |
