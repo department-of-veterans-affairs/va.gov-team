@@ -33,5 +33,5 @@
 | Form | Request a Representative | Users are able to complete and submit an electronic request (21-22) for VSO support granting the VSO power of attorney. If they select an attorney or agent representative they are instructed to print, sign, and mail in the 21-22a. |
 | Form | Vocational Rehabilitation Benefits & Counseling | Users can apply for VR&E benefits including general benefits if they have a service-connected disability rating > 10% or regular counseling whether or not they have a disability rating. |
 | Letters | Download VA Letters - NonVet Dependent Summary | NonVet Dependent Summary Letter |
-| Health/ Profile | Exam Appointments Calendar |Users are able to view upcoming VHA medical appointments. (Note: VBA benefit exams are not yet included. They cannot schedule any type of appointment.) |
+| Health/ Profile | Exam Appointments Calendar | Users are able to view upcoming VHA medical appointments. (Note: VBA benefit exams are not yet included. They cannot schedule any type of appointment.) |
 | Calculator | Servicemembers' Group Life Insurance (SGLI) | Users can find out how much personal and family coverage their SGLI policy provides. |
