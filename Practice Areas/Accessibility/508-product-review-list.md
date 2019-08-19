@@ -17,7 +17,7 @@ This list is the current record of 508 issues in the `va.gov-team` repo. It will
 | Local side nav | Complete 6/2017 | No issues! |
 | Colmery Act Opt Out | Request sent to VA 508 office September 2018. All issues but one resolved on 2/7/2019.<br/><br/>[Colmery Act Opt Out app](https://staging.va.gov/education/opt-out-information-sharing/opt-out-form-0993/claimant-information) | 1 issue pending |
 | Claim and Appeal Status | Audited by VA 508 Office February 2019. | 1 issue pending |
-| Apply for Pre-need Burial | Audited by VA 508 Office September 2018. | **Open issues:**<br/> [Sitewide #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316), [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314), [Sitewide #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/><br/>1 issue pending |
+| Apply for Pre-need Burial | Audited by VA 508 Office September 2018. | **Open issues:**<br/> [Sitewide #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316), [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314), [Sitewide #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318), [#1074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1074) |
 | GI Bill Comparison Tool® | Audited by VA 508 Office November 2018 | **Open issues:**<br/> [#1062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1062) |
 | Local side nav | Completed June 2017 | No issues! || Local side nav | Complete 6/2017 | No issues! |
 | Edu 1990 | Completed June 2017 | No issues! |
