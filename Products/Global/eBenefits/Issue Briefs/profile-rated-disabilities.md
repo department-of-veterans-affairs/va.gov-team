@@ -25,7 +25,7 @@ EVSS REST Endpoints | Supporting Feature
 2016 Usage Metrics	| 667,625 avg monthly visits
 Frank to EVSS | landscape	User Profile Update
 Status	| Profile
-Status Notes	| Migrate this feature to VA.gov user profile. This feature has not been migrated and is dependent on another feature (non-Veteran user type). In order for this to be completed, VA profile access needs to be expanded to additional user types. 
+Status Notes	| Migrate this feature to VA.gov user profile. This feature has not been migrated and is dependent on another feature (non-Veteran user type). In order for this to be *fully* completed, VA profile access needs to be expanded to additional user types. However, letting Veterans view their rated disabilities is not precluded by that requirement.
 Action	| New product, Claim/appeal status, Profile
 PRA	| 
 Notes	| 
@@ -35,4 +35,4 @@ Roadmap	| NEAR TERM
 
 ## Screenshot
 
-![Profile: Rated Disabilities](profile-rated-disabilities.png)
+![Profile: Rated Disabilities](profile-rated-disabilities.png) 

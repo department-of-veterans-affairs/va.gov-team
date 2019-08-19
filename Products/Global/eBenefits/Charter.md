@@ -23,6 +23,7 @@ Define the landscape of features to be worked on, optimize and migrate as necess
 [priorities.md](priorities.md) - TBD
 
 
+
 ### Team Members
 
 |**Roles**              |**Assigned**                        |
@@ -78,12 +79,10 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
 
  1 - Easy task, work is known, can be executed quickly   
- 2 -    
- 3 -    
- 5 - Becoming complex    
- 8 -    
-13 - Very complex, may take a full sprint or longer   
-21 - Needs to be broken down into smaller user stories   
+ 2 - Mostly known, doable
+ 3 - Becoming complex   
+ 5 - Very complex, may take a full sprint or longer    
+ 8 - Needs to be broken down into smaller user stories      
 
 ### **Team Norms**
 
