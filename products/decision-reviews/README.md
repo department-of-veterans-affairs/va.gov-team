@@ -1,6 +1,6 @@
 # Decision Review Requests and Appeals Digital Experience Outline
 - GitHub Label: [vsa-decision-reviews](https://github.com/department-of-veterans-affairs/va.gov-team/labels/vsa-decision-reviews)
-- Slack channel: #vsa-ama-forms
+- Slack channel: #vsa-decision-reviews
 - va.gov link: tbd
 
 ## WIP
@@ -156,34 +156,7 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 
 ## Team
 
-- VA Executive Sponsor `*`:
-- VA Policy Expert(s):
-- VA Digital Strategist(s) `*`:
-- Product Manager `*`: Steve Kovacs (steven.kovacs@va.gov)
-- Design Lead: Carola Ponce (Rubenia.Ponce@va.gov)
-- Eng Lead:
-- VA Web Comms Partner:
-- VA Call Center Partner(s):
-- Production Testing Partner(s):
-- Designer(s):
-- Content Writer(s):
-
-### API Team
-- Product and Project: Andrew Fichter, Kelly Lein
-- Front-end Engineer(s):
-- Back-end Engineer(s):
-
-### Veteran Facing UX Team
-- Product and Project:
-- Front-end Engineer(s):
-- Back-end Engineer(s):
-
-### Caseflow Facing Team
-- Product and Project:
-- Front-end Engineer(s):
-- Back-end Engineer(s):
-
-`*` = approval required for launch
+[Team personal info available on request]
 
 ## Resources and Documentation
 
