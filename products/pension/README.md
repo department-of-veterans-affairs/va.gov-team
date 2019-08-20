@@ -1,3 +1,8 @@
-This folder is part of the updated hierarchy for the va.gov-team repo. 
+# Pension
+Welcome to the Pension hub. In this directory, you'll find lots of information about the Veteran-facing services and applications that fall under the Pension category.
 
-**Please do not add files to any folder in this hierarchy without first consulting a member of the VSP Content/IA team.**
+[Check out Pension on VA.gov.](https://www.va.gov/pension/)
+
+Browse through the product folders to find all the details, background, contacts, and status of all the Pension tools. 
+
+Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the #vfs-product channel in Slack.
