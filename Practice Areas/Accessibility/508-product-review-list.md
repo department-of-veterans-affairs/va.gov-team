@@ -24,3 +24,4 @@ This list is the current record of 508 issues in the `va.gov-team` repo. It will
 | Edu 1990e | Completed June 2017 | No issues! |
 | Edu 1990n | Completed June 2017 | No issues! |
 |526 PTSD | https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes | **Open issues:**<br/> [#1086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1086), [#1087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1087) |
+| VA Benefits Recommendations | Request sent to VA 508 office March 11, 2019<br/><br/>https://staging.va.gov/my-va/find-benefits/ | 5 issues pending |
