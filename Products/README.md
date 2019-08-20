@@ -9,6 +9,7 @@ The folders are organized to mimic the information architecture of the VA.gov we
 - **Benefit Hubs**
     - [Burials and memorials](./Burials%20and%20memorials/README.md)
     - [Careers and employment](./Careers%20and%20employment/README.md)
+    - [Caregivers](.caregivers/README.md) *[still in discovery]*
     - [Disability](./Disability/README.md)
     - [Education](./Education/README.md)
     - [Family member](./Family%20member/README.md) *[still in discovery]*
