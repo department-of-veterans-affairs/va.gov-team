@@ -1,5 +1,3 @@
-This folder is part of the updated hierarchy for the va.gov-team repo. 
+# Teams
 
-**Please do not add files to any folder in this hierarchy without first consulting a member of the VSP Content/IA team.**
-
-_All teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, and project planning._
+_This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents,  project planning, and other general administrative content._
