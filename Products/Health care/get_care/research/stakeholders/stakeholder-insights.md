@@ -1,4 +1,19 @@
-Summary of Research and Participant Characteristics
+# 13 Stakeholder Interviews
+
+## Area perspectives
+- VAOS
+- MHV
+- Telehealth
+- VA.gov
+- Connected Care
+
+## Implementation perspectives
+- Directors of entire segments of the VA 
+- Doctors practicing medicine within the VA
+- Technologist
+- Product owners
+- Communications experts
+- Systems experts
 
 # Problem Statements and Opportunities
 
