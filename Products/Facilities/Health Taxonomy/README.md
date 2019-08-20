@@ -1,3 +1,6 @@
+## 8/20/2019 - This folder is being deprecated, and this will be deleted shortly - please use the new file in its new home at <https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/health-taxonomy>
+
+
 # Proposed Global VA.gov Health Services
 2019 work
 
