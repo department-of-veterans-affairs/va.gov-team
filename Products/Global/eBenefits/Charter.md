@@ -33,7 +33,7 @@ Define the landscape of features to be worked on, optimize and migrate as necess
 |Back End Engineer      |Kathleen Crawford                   |
 |Front End Engineer     |Micah Chiang *(8/26)*               |
 |UX Design              |Arricka Lewis *(8/26)*              |
-|Design Researcher      |*To Be Determined*                  |
+|Design Researcher      |James Adams *(9/3)*                 |
 
 ### **Workflow + Cadence**
 
