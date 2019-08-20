@@ -21,10 +21,14 @@ _What are the objectives within your product line that your product plays into?_
 
 _Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
 
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- Onboarding (OBJECTIVES: Human-centered-ness, Agility, Ownership)
+- Lights on (OBJECTIVES: Reliability, Agility)
+- Support (OBJECTIVES:Human-centered-ness, Agility)
+- VSP Rules of Engagement (ROE)(OBJECTIVES:Reliability, Human-centered-ness, Agility)
+- “Portal” (OBJECTIVES: Agility, Self-service)
+- Data (OBJECTIVES: Human-centered-ness, Agility, Ownership, Self-service)
+- Code Isolation (OBJECTIVES:Reliability, Agility, Self-service)
+- Automated tests: (OBJECTIVES:Reliability, Agility, Self-service)
 
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
