@@ -100,13 +100,10 @@ Please list the people who will be serving in each role. Include the primary pho
 * Note-takers: Shawn Hein, Layla Soileau, Riley Orr 
 * Observers: Shawn Hein, Layla Soileau, Riley Orr 
 
-## Resources (TBC)
-* Project Brief: Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here
-* Discussion Guide Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here
-* Notes & Recordings Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.
-* Synthesis Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)
-* Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.
-* Read-Out/Results
-  * Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.
-  * Don't forget to add a link to your research folder to the research tracker! https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md
-
+## Resources 
+* Project Brief: To be added
+* Discussion Guide: To be added
+* Notes & Recordings: To be added
+* Synthesis: To be added
+* Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? To be added
+* Read-Out/Results: To be added
