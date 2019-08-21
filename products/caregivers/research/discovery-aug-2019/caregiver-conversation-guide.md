@@ -1,4 +1,6 @@
-#  Moderator logistics
+# Conversation guide
+
+## Moderator logistics
 (5 Minutes prior to session)
 
 NOTE: If user does not join the call within the first 15 minutes of the call, we consider it a No Show.
@@ -31,18 +33,41 @@ Before we start, I want to mention a few things:
 
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately.
 
-Start recording.
+*Start recording.*
 
-# Warm Up Questions
-( 10 Minutes)
+## Warm-up Questions
+( 5 Minutes)
 
 *As we talk to users and learn about their experience, these questions can be edited to get more insightful information.*
 
-- Are you a Veteran, family member of a Veteran, or a caregiver of a Veteran?
+- Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.)
 
-- Have you applied for Caregiver Benefits? 
+- Are you the caregiver of a Veteran? 
+   - If yes, go to the [caregiver section]().
+   - If no, go to [potential caregiver section]().
+   
+## Caregiver Questions
 
-- Please tell me about your experience applying for Caregiver Benefits.
+- Can you tell me about your experience as the caregiver of a Veteran? 
+
+- What do you do if you need help as a caregiver?
+
+- Can you think of a time when you had to interact with the VA?
+   - Can you tell me about that experience?
+   - How did you feel about the interaction?
+
+- Have you applied for caregiver benefits? 
+
+- If yes:
+   - How did you find out about Caregiver Benefits?
+   - How did you know if you were eligible?
+   - Can you tell me about your experience applying for the Caregiver Benefit?
+   - What happened after you applied?
+      - How did you find out about your application status?
+      - How long did it take to receive the Caregiver Benefits after the application process?
+
+
+- If no:
 
 
 #  Wrap up
