@@ -17,6 +17,12 @@ NOTE: If user does not join the call within the first 15 minutes of the call, we
 
 - In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked.
 
+- Check your screen sharing setup: Be sure to close extraneous windows as needed.
+
+- Set-up screen sharing (verify participant is using desktop version): Please click Share in your Zoom, to make sure you're able to do that with us today.
+
+- If user is not able to screen share, verify that they are using the desktop application, not the browser. User may need to exit and re-join.
+
 
 **When the participant is ready, begin the session with the following intro:**
 
