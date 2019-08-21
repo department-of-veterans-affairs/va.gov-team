@@ -56,8 +56,8 @@ Before we start, I want to mention a few things:
       - If yes, are there certain types of interactions that are particularly challenging? What do you do when you encounter these interactions?
 
 - Are you the caregiver of a Veteran? 
-   - If yes, go to the [caregiver questions](#questions-caregivers-receiving-va-benefits).
-   - If no, go to [potential caregiver questions](#questions-Caregivers-NOT-receiving-VA-benefits).
+   - If yes, go to the [caregivers receiving benefits](#questions-caregivers-receiving-va-benefits).
+   - If no, go to [caregivers NOT receiving benefits](#questions-Caregivers-NOT-receiving-VA-benefits).
    
 ## Questions: Caregivers receiving VA benefits
 
