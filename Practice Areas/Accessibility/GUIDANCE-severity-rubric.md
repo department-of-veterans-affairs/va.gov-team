@@ -5,7 +5,7 @@ This document will provide a common language for determining accessibility defec
 2. Potential users impacted by the defect
 3. Timeframe in which the defect should be fixed
 
-## Severity: Show Stopper (Level 0)
+## 508-defect-0 (Show stopper)
 
 ### Type of issue:
 * Keyboard traps
@@ -14,15 +14,17 @@ This document will provide a common language for determining accessibility defec
 * Motion or movement that covers a high percentage of the screen (possible [vestibular issues](https://a11yproject.com/posts/understanding-vestibular-disorders/))
 
 ### Potential Users Impacted
-* Keyboard
-* Screen reader, assistive devices
+* Keyboard navigation
+* Screen reader or other assistive device
+* Users who have partial vision or are blind
+* Users who are hard of hearing or deaf
 * Those who have [vestibular issues](https://a11yproject.com/posts/understanding-vestibular-disorders/) like motion sickness
 * Those who are have photosensitivity
 
 ### Time to Fix
 * Issue must be fixed before launch
 
-## Severity: Critical (Level 1)
+## 508-defect-1 (Critical)
 
 ### Type of issue:
 * Critical errors in automated testers like [aXe plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT)
@@ -34,15 +36,15 @@ This document will provide a common language for determining accessibility defec
 * Content without a good, clear focus halo
 
 ### Potential Users Impacted
-* Keyboard
-* Screen reader, assistive devices
-* Low vision users
-* Users who are deaf, hard of hearing
+* Keyboard navigation
+* Screen reader or other assistive device
+* Users who have partial vision or are blind
+* Users who are hard of hearing or deaf
 
 ### Time to Fix
 * Issue should be prioritized for next sprint fix if possible
 
-## Severity: Serious (Level 2)
+## 508-defect-2 (Serious)
 
 ### Type of issue:
 * Serious errors in automated testers like [aXe plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT)
@@ -58,16 +60,16 @@ This document will provide a common language for determining accessibility defec
 * [Not managing focus for single-page applications](https://adhocteam.us/2018/02/20/developer-driven-focus-management-for-single-page-applications/)
 
 ### Potential Users Impacted
-* Screen reader, assistive devices
-* Low vision users
-* Users who have an identified issue seeing or more colors
-* Keyboard users
-* Users with identified short-term memory, other cognitive issues
+* Keyboard navigation
+* Screen reader or other assistive device
+* Users who have partial vision or are blind
+* Users who are hard of hearing or deaf
+* Users with identified short-term memory or other cognitive issues
 
 ### Time to Fix
 * Issue should be prioritized for next 1-3 sprint fix
 
-## Severity: Minor (Level 3)
+## 508-defect-3 (Minor)
 
 ### Type of issue:
 * Minor errors in automated testers like [aXe plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT)
@@ -82,7 +84,7 @@ This document will provide a common language for determining accessibility defec
 * Issue should be prioritized for next iteration (often 3 sprints in length)
 * These issues are often good items when engineers have a few extra hours at the end of a sprint
 
-## Severity: Trivial (Level 4)
+## 508-defect-4 (Trivial)
 
 ### Type of issue:
 * Trivial, best practices errors in automated testers like [aXe plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT)
@@ -90,10 +92,10 @@ This document will provide a common language for determining accessibility defec
 * Less semantic HTML (using `<ul>` instead of `<ol>` for sequential instructions, for instance
 
 ### Potential Users Impacted
-* Screen reader, assistive devices
-* Low vision users
-* Keyboard users
-* Users with identified short-term memory, other cognitive issues
+* Keyboard navigation
+* Screen reader or other assistive device
+* Users who have partial vision or are blind
+* Users with identified short-term memory or other cognitive issues
 
 ### Time to Fix
 * Issue should be prioritized for next iteration (often 3 sprints in length)
