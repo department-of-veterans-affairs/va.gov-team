@@ -1,5 +1,7 @@
 # Conversation guide
 
+View the [research plan](./research-plan.md).
+
 ## Moderator logistics
 (5 Minutes prior to session)
 
