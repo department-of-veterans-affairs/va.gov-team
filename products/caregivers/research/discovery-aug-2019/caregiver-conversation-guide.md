@@ -18,7 +18,7 @@ NOTE: If user does not join the call within the first 15 minutes of the call, we
 
 **When the participant is ready, begin the session with the following intro:**
 
-#  Introduction
+##  Introduction
 (About 5 minutes)
 
 Thank you for joining us today! My name is ______. I am a designer and researcher for VA.gov and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience applying to receive caregiver benefits.
@@ -56,18 +56,31 @@ Before we start, I want to mention a few things:
    - Can you tell me about that experience?
    - How did you feel about the interaction?
 
-- Have you applied for caregiver benefits? 
+- How did you find out about Caregiver Benefits?
+- How did you know that you were eligible?
+- Can you tell me about your experience applying for the Caregiver Benefit?
+- What happened after you applied?
+   - How did you find out about your application status?
+   - How long did it take to receive the Caregiver Benefits after you submitted the application?
+- Overall, how did you feel about the current application process.
+   
+## Potential Caregiver Questions
 
-- If yes:
-   - How did you find out about Caregiver Benefits?
-   - How did you know if you were eligible?
-   - Can you tell me about your experience applying for the Caregiver Benefit?
-   - What happened after you applied?
-      - How did you find out about your application status?
-      - How long did it take to receive the Caregiver Benefits after the application process?
+- What do you know about VA's Caregiver Benefits? How did you find out?
+- How do you think you would apply for Caregiver Benefits?
+- How would you find out if you're eligble?
+- The current paper application requires the information from the Veteran and the Caregiver. The application must be signed by each person. How would you handle completing the form and getting the signatures?
+- If you completed the application, how would you expect to find out about its status?
+- When would you expect to find out if your application is approved or denied?
+- If you learned that your application was approved, what would you expect to happen next?
+- If you learned that your application was denied, what would you do?
 
 
-- If no:
+## Additional Questions 
+- If the caregiver benefit application could be completed online, where would you go to find it?
+- Would you prefer to complete the application online or by filling out and mailing the paper form? Why?
+- Veterans can access certain benefits like refilling prescriptions and managing VA health care appointments online at VA.gov. As a caregiver, would you be interested in managing these benefits online for the Veteran that you care for?
+- Is there anything else that you would like to share with us about your experience as a caregiver?
 
 
 #  Wrap up
