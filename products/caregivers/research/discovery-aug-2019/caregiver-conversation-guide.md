@@ -75,6 +75,16 @@ Before we start, I want to mention a few things:
 
 - Can you tell me about your experience applying to receive caregiver benefits?
 
+Now, I’m going to share my screen and show you a PDF version of the paper application form.
+
+*Share screen and show paper form.*
+
+- Do you remember filling out this form?
+
+- What were the hardest parts about it?  
+
+- What worked well?
+
 - What happened after you applied?
 
 - How did you find out about your application status?
