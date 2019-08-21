@@ -43,8 +43,8 @@ Before we start, I want to mention a few things:
 - Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.)
 
 - Are you the caregiver of a Veteran? 
-   - If yes, go to the [caregiver section](#caregiver-questions).
-   - If no, go to [potential caregiver section](#potential-caregiver-questions).
+   - If yes, go to the [caregiver questions](#caregiver-questions).
+   - If no, go to [potential caregiver questions](#potential-caregiver-questions).
    
 ## Caregiver Questions
 
