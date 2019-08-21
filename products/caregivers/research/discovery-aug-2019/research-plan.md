@@ -104,8 +104,9 @@ Please list the people who will be serving in each role. Include the primary pho
 
 ## Resources 
 * Project Brief: To be added
-* Discussion Guide: To be added
+* [Caregiver Conversation Guide](./caregiver-conversation-guide.md)
+* Veteran Conversation Guide: To be added
 * Notes & Recordings: To be added
 * Synthesis: To be added
-* Lessons Learned Did you have any takeaways from the process of this research round that you want the team to remember for the future? To be added
+* Lessons Learned: To be added
 * Read-Out/Results: To be added
