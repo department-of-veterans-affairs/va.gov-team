@@ -53,7 +53,8 @@ Before we start, I want to mention a few things:
 - Tell me about your experience with technology?
    - Do you regularly use a computer? Mobile device?
    - Do you have any challenges using computers or mobile devices? If so, what are they?
-      - If yes, are there certain types of interactions that are particularly challenging? What do you do when you encounter these interactions?
+      - If yes, are there certain types of interactions that are particularly challenging? 
+      - What do you do when you encounter these interactions?
    
 ## Questions
 
