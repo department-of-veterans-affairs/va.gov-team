@@ -22,7 +22,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Policies%20and%20work%20norms/code-of-conduct.md)
 - [ ] Review the [Platform Principles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Policies%20and%20work%20norms/platform-principles.md)
 - [ ] Review the [Norms for Communication](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Policies%20and%20work%20norms/norms-communication.md)
-- [ ] Review the [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to learn the syntax for formatting documents in GitHub
+- [ ] Review the [GitHub Markdown Cheatsheet](https://help.github.com/en/categories/writing-on-github) to learn the syntax for formatting documents in GitHub
 - [ ] Designers: Review [Design & Research Onboarding Documentation](https://design.va.gov/documentation/designers)
 - [ ] Engineers: [Set Up Local Dev Environment](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Engineering/getting-started.md)
   - [ ] [Set Up Front-end](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)
