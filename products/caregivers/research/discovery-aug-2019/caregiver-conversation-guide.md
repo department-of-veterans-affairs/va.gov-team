@@ -44,37 +44,62 @@ Before we start, I want to mention a few things:
 
 - Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.)
 
+- Tell me about your experience with technology?
+   - Do you regularly use a computer? Mobile device?
+   - Do you have any challenges using computers or mobile devices? If so, what are they?
+      - If yes, are there certain types of interactions that are particularly challenging? What do you do when you encounter these interactions?
+
 - Are you the caregiver of a Veteran? 
    - If yes, go to the [caregiver questions](#caregiver-questions).
    - If no, go to [potential caregiver questions](#potential-caregiver-questions).
    
-## Caregiver Questions
+## Questions: Caregivers receiving VA benefits
 
-- Can you tell me about your experience as the caregiver of a Veteran? 
+- Can you tell me a little bit about how you became a caregiver and the Veteran you currently help?
 
-- What do you do if you need help as a caregiver?
+- What are some of the biggest challenges that you and your Veteran face?
 
-- Can you think of a time when you had to interact with the VA?
+- Can you think of a time when you recently interacted with the VA?
    - Can you tell me about that experience?
    - How did you feel about the interaction?
-
-- How did you find out about Caregiver Benefits?
-- How did you know that you were eligible?
-- Can you tell me about your experience applying for the Caregiver Benefit?
-- What happened after you applied?
-   - How did you find out about your application status?
-   - How long did it take to receive the Caregiver Benefits after you submitted the application?
-- Overall, how did you feel about the current application process.
    
-## Potential Caregiver Questions
+- How did you find out about VA benefits for caregivers?
 
-- What do you know about VA's Caregiver Benefits? How did you find out?
+- How did you know that you were eligible?
 
-- How do you think you would apply for Caregiver Benefits?
+- Can you tell me about your experience applying to receive caregiver benefits?
 
-- How would you find out if you're eligble?
+- What happened after you applied?
 
-- The current paper application requires the information from the Veteran and the Caregiver. The application must be signed by each person. How would you handle completing the form and getting the signatures?
+- How did you find out about your application status?
+
+- How did you find out about all the steps you needed to go through after you submitted the paper form (e.g. in-home visits, training, etc.)?
+
+- How long did it take to receive caregiver benefits after you submitted the application?
+
+- What has been the biggest challenges when applying for and receiving benefits?
+
+- What parts worked well?
+
+- Overall, how did you feel about the current application process?
+
+   
+## Questions: Caregivers NOT receiving VA benefits
+
+- What do you know about receiving caregiver benefits from the VA? How did you find out?
+
+- How do you think you would apply for caregiver benefits?
+
+- What are the steps you think might be involved in the process of applying for and potentially receiving these benefits?
+How would you find out if you're eligible?
+
+Now, I’m going to share my screen and show you a PDF version of the paper application form.
+
+*Share screen and show paper form.*
+
+The current paper application requires information from the Veteran and the Caregiver. The application must be signed by each person. 
+
+- How would you handle completing the form and getting the signatures?
 
 - If you completed the application, how would you expect to find out about its status?
 
@@ -86,11 +111,15 @@ Before we start, I want to mention a few things:
 
 
 ## Additional Questions 
-- If the caregiver benefit application could be completed online, where would you go to find it?
+- Where would you go to apply to receive caregiver benefits online?
+
+- If you had to search for a way to apply for caregiver benefits online, what search terms would you use?
 
 - Would you prefer to complete the application online or by filling out and mailing the paper form? Why?
 
-- Veterans can access certain benefits like refilling prescriptions and managing VA health care appointments online at VA.gov. As a caregiver, would you be interested in managing these benefits online for the Veteran that you care for?
+- How do you feel about sharing your personal information with VA.gov as part of the caregiver benefit application process?
+
+- Veterans can access certain benefits like refilling prescriptions and managing VA health care appointments online at VA.gov. As a caregiver, how do you feel about managing these benefits online for the Veteran that you care for?
 
 - Is there anything else that you would like to share with us about your experience as a caregiver?
 
