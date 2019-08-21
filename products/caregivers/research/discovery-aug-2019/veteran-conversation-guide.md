@@ -48,7 +48,7 @@ Before we start, I want to mention a few things:
 
 *As we talk to users and learn about their experience, these questions can be edited to get more insightful information.*
 
-- Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.)
+- Can you tell me a little about yourself? (If stuck, ask about service, location, occupation, etc.)
 
 - Tell me about your experience with technology?
    - Do you regularly use a computer? Mobile device?
@@ -57,9 +57,16 @@ Before we start, I want to mention a few things:
    
 ## Questions
 
-- Can you tell me a little bit about your caregiver?
+- Can you tell me a little bit about your caregiver? Do they live with you?
 
-**Add more**
+- What are some of the biggest challenges that you and your caregiver face?
+
+- Do you know if your caregiver receives benefits from the VA?
+   - How did they apply for those benefits?
+   - How were you involved in applying for those benefits?
+   
+- **Add more**
+
 
 ##  Wrap up
 ( About 2 minutes)
