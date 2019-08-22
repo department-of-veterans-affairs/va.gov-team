@@ -18,7 +18,7 @@ These products primarily live within the Benefits and Health Care section of VA.
 - Life insurance
 - Burials and memorials
 
-### Benefits for specific audiences
+Benefits for specific audiences
 - Caregiver benefits
 - Family benefits
 - Service member benefts
