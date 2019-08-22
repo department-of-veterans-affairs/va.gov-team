@@ -8,7 +8,7 @@ If you're looking for **non-veteran-facing** tools and services for creating on 
 
 ## Table of Contents
 
-# Benefit Hubs
+### Benefit Hubs
 These products primarily live within the Benefits and Health Care section of VA.gov.
 - Health care 
 - Disability and DIC
@@ -18,12 +18,12 @@ These products primarily live within the Benefits and Health Care section of VA.
 - Life insurance
 - Burials and memorials
 
-Benefits for specific audiences
+### Benefits for specific audiences
 - Caregiver benefits
 - Family benefits
 - Service member benefts
 
-# Benefit Tools and Records
+### Benefit Tools and Records
 - Claim and appeal status
 - Benefit letters
 - Decision Reviews
@@ -33,11 +33,11 @@ Benefits for specific audiences
 - Veteran ID cards
 - Veteran military records
 
-# Facilities
+### Facilities
 - Facility locator
 - Medical facility sites
 
-# Global Elements
+### Global Elements
 - Banners
 - Contact us
 - Crisis line
@@ -46,7 +46,7 @@ Benefits for specific audiences
 - Menus and navigation
 - Search
 
-# User Identity and Personalization
+### User Identity and Personalization
 - Account and profile
 - Change address
 - Dashboard
@@ -54,7 +54,7 @@ Benefits for specific audiences
 - Login and authentication
 - User notifications
 
-# VA Content and Features
+### VA Content and Features
 - Media library
 - office and administration sites
 
