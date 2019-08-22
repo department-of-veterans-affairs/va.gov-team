@@ -11,6 +11,9 @@ Broken out by page (Design: https://adhoc.invisionapp.com/share/WATIINRHZ3F)
       - `/users/v1/session/mhpuser`
    - CC eligibility
       - `/adr/v2/patients/{patient-icn}/eligibility/communityCare`
+   - Sites supporting VAR
+      - Used to determine routing for initial new appointment page
+      - `/VeteranAppointmentRequestService/v4/rest/facility-service/supported-facilities`
 - https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427 (type of care)
    - List of registered medical systems (with City/State)
       - `/users/v1/session/identifiers.json`
