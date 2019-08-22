@@ -93,7 +93,9 @@ Now, I’m going to share my screen and show you a PDF version of the paper appl
 
 - How long did it take to receive caregiver benefits after you submitted the application?
 
-- What has been the biggest challenges when applying for and receiving benefits?
+- What have been the biggest challenges when applying for and receiving benefits?
+
+- Are you aware of the things that you need to do to continue receiving benefits from the VA? How do you feel about this?
 
 - What parts worked well?
 
@@ -136,6 +138,8 @@ The current paper application requires information from the Veteran and the Care
 - How do you feel about sharing your personal information with VA.gov as part of the caregiver benefit application process?
 
 - Veterans can access certain benefits like refilling prescriptions and managing VA health care appointments online at VA.gov. As a caregiver, how do you feel about managing these benefits online for the Veteran that you care for?
+
+- If we created an online space for caregivers to sign in and access help and tools, what would you hope to find there?
 
 - Is there anything else that you would like to share with us about your experience as a caregiver?
 
