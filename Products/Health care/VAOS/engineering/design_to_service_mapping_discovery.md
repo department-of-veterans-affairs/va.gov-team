@@ -1,0 +1,57 @@
+This is a WIP mapping from design prototype page to existing service endpoints.
+
+Broken out by page (Design: https://adhoc.invisionapp.com/share/WATIINRHZ3F)
+
+- Data need to load the app overall
+   - ICN or some kind of indication that person is a VA patient
+      - `/users/v1/session/mhpuser`
+   - Registered at at least one facility
+      - `/users/v1/session/identifiers.json`
+   - Right of access accepted flag
+      - `/users/v1/session/mhpuser`
+   - CC eligibility
+      - `/adr/v2/patients/{patient-icn}/eligibility/communityCare`
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427 (type of care)
+   - List of registered medical systems (with City/State)
+      - `/users/v1/session/identifiers.json`
+   - Types of care available at each health system
+      - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions`
+          - GAP: Currently the api is used to get the list of clinics in a system that have a type of care
+      - `/VeteranAppointmentRequestService/v4/rest/clinical-services/types-of-care`
+      - `/VeteranAppointmentRequestService/v4/rest/community-care-services/type-of-cares` 
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622428 (pact)
+   - PACT team
+      - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/pact-team`
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622433 (Request details)
+   - Clinic address, purpose, type, preferred dates, office number, contact number, call back time
+      - `/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments`
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622447 (provider choice)
+   - List of providers across facilities
+      - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/pact-team`
+   - GAP: Current `/pact` endpoint is facility specific
+   - GAP: How do we schedule against them directly? Is this the same as scheduling a clinic? The data we have isn't clearly associated with a clinic
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470 (calendar page)
+   - Appointment slots
+      - `VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/available-appointment-slots`
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622475 (Appt details)
+   - Doctor name, specialization
+   - Address, date and time, purpose, type, contact info
+      - `/appointments/v1/patients/{patient-id}/appointments`
+   - GAP: Don't see appt type, reason, doctor, specialization, or contact info in service
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622432 (pending appt list)
+   - List of pending appointments
+      - `/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments`
+   - Community care requests are included in appointment request service
+- https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622474 (confirmed appointments list)
+   - List of confirmed appointments
+      - `/appointments/v1/patients/{patient-id}/appointments`
+      - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/booked-appointments` (unused because telehealth is enabled?)
+   - Community care appointments are a separate endpoint, combined on front end
+     - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/booked-cc-appointments`
+- Other data-related GAPs
+   - Appointments are scheduled into clinics, but clinics are not shown in any flow. How do we deal with this?
+   - Clinics have request limits, where are those enforced?
+      - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/request-limit`
+      - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/{eligibility}/visited-in-past-months`
+   - Does custom text exist in the new designs?
+   - Do we need the facility timezones? How exactly is that used (hard to tell from code)?
