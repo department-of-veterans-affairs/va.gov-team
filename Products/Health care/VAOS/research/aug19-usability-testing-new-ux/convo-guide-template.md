@@ -21,61 +21,78 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Carolyn and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the VA Online Scheduling tool. 
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** You will not be penalized in any way if we need to stop.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
 
 *Start recording.*
 
-## Warm-up Questions (Optional) - X minutes
+## First Task: Type of Care, Request - 10 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Ok, I want you to imagine you want to schedule a primary care appointment with your health team in Salt Lake City 
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
-
-## First Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Where would you go first?
+- What do you like about this page?
+- What don't you like about this page?
+- How well did this experience meet your needs?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Initial reaction to the page/flow
+- Time taken searching the page and continue with flow
+- Pros/cons
+- Expected terminology, and any confusing terminology
+- Comments on visual design
 
-## Second Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
+## Second Task: Provider, Request - 10 minutes
+
+Ok, now I want you to imagine you want to request a follow-up with your provider, Susan Brode
+
+- Where would you go first?
+- What do you like about this page?
+- What don't you like about this page?
+- How well did this experience meet your needs?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Initial reaction to the page/flow
+- Time taken searching the page and continue with flow
+- Pros/cons
+- Expected terminology, and any confusing terminology
+- Comments on visual design
+
 
 ## Third Task: [TASK NAME] - X minutes
 
-- Step 1
-- Step 2
+Lastly, I want you to imagine you would like to schedule an appointment with your provider, Michal Krauze
+
+- Where would you go first?
+- What do you like about this page?
+- What don't you like about this page?
+- How well did this experience meet your needs?
+
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Initial reaction to the page/flow
+- Time taken searching the page and continue with flow
+- Pros/cons
+- Expected terminology, and any confusing terminology
+- Comments on visual design
+
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
+- How did those pages compare to your past experience with VA?
+- What else can we do to make your online experience better?
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
