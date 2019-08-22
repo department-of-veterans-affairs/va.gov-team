@@ -3,12 +3,13 @@
 ## Goals
 
 1. What product & team are you doing this research for? 
-VAOS
+- VAOS
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-The VAOS team has been tasked to redesign the existing VAR online scheduling tool which allows for Veterans to online schedule or request health appointments.
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-Does the existing flow match the mental model of how Veterans would schedule a health care appointment?
-4. Hypothesis: What is your hypothesis for this research? 
+- The VAOS team has been tasked to redesign the existing VAR online scheduling tool which allows for Veterans to online schedule or request health appointments.
+3. Research questions:  
+- Does the existing flow match the mental model of how Veterans would schedule a health care appointment?
+4. Hypothesis: 
+- The reworked design is easy to use and understand
 
 ## Method
 
