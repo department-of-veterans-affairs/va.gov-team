@@ -61,8 +61,8 @@ Before we start, I want to mention a few things:
 - What are some of the biggest challenges that you and your caregiver face?
 
 - Do you know if your caregiver receives benefits from the VA?
-   - If yes, go to [Veterans with caregivers who receive benefits]().
-   - If no, go to [Veterans with caregivers who DO NOT receive benefits]().
+   - If yes, go to [Veterans with caregivers who receive benefits](#questions-veterans-with-caregivers-who-receive-benefits).
+   - If no, go to [Veterans with caregivers who DO NOT receive benefits](#questions-veterans-with-caregivers-who-DO-NOT-receive-benefits).
 
 ## Questions: Veterans with caregivers who receive benefits
 
