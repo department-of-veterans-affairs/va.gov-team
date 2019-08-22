@@ -105,7 +105,7 @@ Please list the people who will be serving in each role. Include the primary pho
 ## Resources 
 * Project Brief: To be added
 * [Caregiver Conversation Guide](./caregiver-conversation-guide.md)
-* Veteran Conversation Guide: To be added
+* [Veteran Conversation Guide](./veteran-conversation-guide.md)
 * Notes & Recordings: To be added
 * Synthesis: To be added
 * Lessons Learned: To be added
