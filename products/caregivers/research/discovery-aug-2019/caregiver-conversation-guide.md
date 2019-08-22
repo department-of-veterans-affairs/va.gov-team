@@ -77,7 +77,7 @@ Before we start, I want to mention a few things:
 
 Now, I’m going to share my screen and show you a PDF version of the paper application form.
 
-*Share screen and show paper form.*
+*Share screen and show [paper form](https://www.va.gov/health-care/forms/vha-10-10CG.pdf).*
 
 - Do you remember filling out this form?
 
@@ -111,7 +111,7 @@ How would you find out if you're eligible?
 
 Now, I’m going to share my screen and show you a PDF version of the paper application form.
 
-*Share screen and show paper form.*
+*Share screen and show [paper form](https://www.va.gov/health-care/forms/vha-10-10CG.pdf).*
 
 The current paper application requires information from the Veteran and the Caregiver. The application must be signed by each person. 
 
