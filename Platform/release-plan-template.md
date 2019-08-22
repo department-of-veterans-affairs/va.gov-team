@@ -43,7 +43,7 @@ That's what this Release Plan Template is for! And note - there are feature flag
 
 More phases? Sure! If it makes sense for your product! Plan them out with the same structure as above.
 
-### Go Live!
+## Go Live!
 
 ### Planning:
 - Desired date: mm/dd/yy
