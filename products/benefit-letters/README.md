@@ -1,4 +1,4 @@
-# Product Outline Template
+# VA Benefit Letters
 
 ## Communications
 - GitHub Label: 
