@@ -55,18 +55,93 @@ Before we start, I want to mention a few things:
    - Do you have any challenges using computers or mobile devices? If so, what are they?
       - If yes, are there certain types of interactions that are particularly challenging? 
       - What do you do when you encounter these interactions?
-   
-## Questions
 
 - Can you tell me a little bit about your caregiver? Do they live with you?
 
 - What are some of the biggest challenges that you and your caregiver face?
 
 - Do you know if your caregiver receives benefits from the VA?
-   - How did they apply for those benefits?
-   - How were you involved in applying for those benefits?
-   
-- **Add more**
+   - If yes, go to [Veterans with caregivers who receive benefits]().
+   - If no, go to [Veterans with caregivers who DO NOT receive benefits]().
+
+## Questions: Veterans with caregivers who receive benefits
+
+- What kind of benefits does your caregiver receive?
+
+- Who initiated applying for benefits for your caregiver?
+
+- How were you and your caregiver involved in applying for those benefits?
+
+- How do you feel about your caregiver(s) receiving benefits?
+
+- Do you know which tier of benefits that your caregiver receives? (Tier 1, 2, 3) What do you think about the tiers?
+
+I’m going to share my screen and show you a PDF version of the paper application form.
+
+*Share screen and show paper form.*
+
+The current paper application requires information from the Veteran and the Caregiver. The application must be signed by each person. 
+
+- Do you remember filling out this form?
+
+- What happened after you applied?
+
+- How did you find out about your application status?
+
+- How did you find out about all the steps you needed to go through after you submitted the paper form (e.g. in-home visits, training, etc.)?
+
+- How long did it take to receive caregiver benefits after you submitted the application?
+
+- What have been the biggest challenges when applying for and receiving benefits?
+
+- What parts worked well?
+
+- Overall, how did you feel about the current application process?
+
+- What changed for you when your caregiver began receiving benefits?
+
+- Are you aware of the things that your caregiver needs to do to continue receiving benefits from the VA? How do you feel about this?
+
+## Questions: Veterans with caregivers who DO NOT receive benefits
+
+- What do you know about VA's Caregiver Benefits? How did you find out?
+
+- How do you think you would apply for your caregiver to receive benefits from the VA?
+
+- What are the steps you think might be involved in the process of applying for and potentially receiving these benefits?
+
+- How would you find out if your caregiver is eligible?
+
+I’m going to share my screen and show you a PDF version of the paper application form.
+
+*Share screen and show paper form.*
+
+The current paper application requires information from the Veteran and the Caregiver. The application must be signed by each person. How would you handle completing the form and getting the signatures?
+
+- If you completed the application, how would you expect to find out about its status?
+
+- When would you expect to find out if your application is approved or denied?
+
+- If you learned that your application was approved, what would you expect to happen next?
+
+- If you learned that your application was denied, what would you do?
+
+
+## Additional Questions
+- Where would you go to apply for caregiver benefits online?
+
+- If you had to search for a way to apply for caregiver benefits online, what search terms would you use?
+
+- Would you prefer to complete the application online or by filling out and mailing the paper form? Why? Is there another way you might prefer to apply?
+
+- How do you feel about sharing your personal information with VA.gov as part of the caregiver benefit application process?
+
+- Veterans can access certain benefits like refilling prescriptions and managing VA health care appointments online at VA.gov. 
+As a Veteran, how do you feel about your caregiver managing these benefits online for you?
+
+- If we created an online space for caregivers to sign in and access help and tools, what would you hope to find there?
+
+- Is there anything else that you would like to share with us?
 
 
 ##  Wrap up
