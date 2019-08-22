@@ -15,16 +15,21 @@ This document details lessons learned and recommendations on the Content ROE, ba
 Feeback and questions from meeting with VSA PMs: 
 
 1. Can we add request a content review from within a pull request? Or does it always have to be in an issue? 
---Yes, teams can add me as reviewer to pull request. I've updated the ROE to reflect that. 
+
+--Yes, teams can request a content review in a pull request. I've updated the ROE to reflect that. 
 
 2. Is there a plan in place when you're OOO? Would someone else be doing the final Content Q/A support? 
---this is in the works. tbd
 
-3. Should we be using the ```content``` or ```content-ia-team``` label when creating a Content Review issue? 
---open issue that I'll be working with our PM
+--TBD. need to discuss with platform team. 
+
+3. Should we be using the ```content``` or ```content-ia-team``` label when creating a Content Review issue?
+
+--For final content Q/A review, please use content-ia-team label. 
 
 4. Are there any resources you could share with the global-ux content team about how to create a Github branch and pull request? 
+
 --Yes, I'll be providing a training to the global-ux content folks week of 8/26
 
 5. We'll be reaching out to the global-ux team for our content writing needs, should we include you on those issues or just when we need a final review? 
---As the global-ux team is still working on access issue and github training, i let the PM know that she can cc me on issues while that team is getting access and onboarded, so i can provide support as they need. 
+
+--As the global-ux team is still working Github and druapl access and traning. I let the PM know that she can cc me on issues while that team is getting access and onboarded, so I can provide support as they need. 
