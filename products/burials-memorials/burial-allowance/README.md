@@ -1,4 +1,4 @@
-# Product Outline Template
+# Burial Allowances
 
 ## Communications
 - GitHub Label: 
