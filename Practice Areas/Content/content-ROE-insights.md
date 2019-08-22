@@ -33,3 +33,10 @@ Feeback and questions from meeting with VSA PMs:
 5. We'll be reaching out to the global-ux team for our content writing needs, should we include you on those issues or just when we need a final review? 
 
 --As the global-ux team is still working Github and druapl access and traning. I let the PM know that she can cc me on issues while that team is getting access and onboarded, so I can provide support as they need. 
+
+
+Peggy notes/observations from meetings: 
+
+All the teams will be getting content support from the global-ux team, as the product teams don't have an embedded content writer/editor. The PMs asked how my role fits in with those content folks.  Might need address this in the content doc to avoid confusion on product teams. 
+
+I let them know that I will be providing final content Q/A during specific times in process (as outlined in ROE), but am available to provide support anytime they need. The global-ux team would be their first line for content writing needs. 
