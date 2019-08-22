@@ -1,4 +1,4 @@
-This is a WIP mapping from design prototype page to existing service endpoints.
+This is a WIP mapping from design prototype page to existing service endpoints. It does not currently include data requirements for the Community Care flows or direct scheduling by type of care.
 
 Broken out by page (Design: https://adhoc.invisionapp.com/share/WATIINRHZ3F)
 
