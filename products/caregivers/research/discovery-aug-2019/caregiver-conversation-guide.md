@@ -99,6 +99,8 @@ Now, I’m going to share my screen and show you a PDF version of the paper appl
 
 - What parts worked well?
 
+- Do you know which tier of benefits that you receive? (Tier 1, 2, 3) What do you think about the tiers?
+
 - Overall, how did you feel about the current application process?
 
    
