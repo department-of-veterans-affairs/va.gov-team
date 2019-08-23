@@ -5,7 +5,7 @@
 # **VSA Benefits and Memorials Team Charter**
 
 ### **VSA North Star**
-
+Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 ### **Product Line** 
 Benefits and Memorial Services 
