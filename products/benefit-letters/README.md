@@ -1,3 +1,55 @@
-This folder is part of the updated hierarchy for the va.gov-team repo. 
+# VA Benefit Letters
 
-**Please do not add files to any folder in this hierarchy without first consulting a member of the VSP Content/IA team.**
+## Communications
+- GitHub Label: 
+- Slack channel:
+- Product POCs: 
+- Stakeholders: 
+
+## The Problem
+
+
+### User Goals
+
+
+### Business Goals
+
+
+## Assumptions
+
+## Questions
+
+## Requirements
+#### In Scope 
+
+#### Out of Scope
+
+## Solution Approach
+
+## Value Propositions
+
+## KPIs
+
+---
+
+# Implementation Info
+
+## Status
+
+## Technical Decisions
+
+## Product Decisions
+
+## Team
+
+- VA Digital Strategist(s): 
+- Product Manager:  
+- Design Lead: 
+- Eng Lead: 
+- Engineers:
+   
+## Screenshots
+
+### Before
+
+### After
