@@ -10,7 +10,7 @@ All content related to development on VA.gov belongs in the public [`va.gov-team
 
 ### PII
 
-Veteran PII should generally not be checked into GitHub, but in some cases (i.e. investigating bugs related to specific users) can be checked in here if needed.
+Veteran PII should not be checked into GitHub. 
 
 [OMB memorandum M-07-16](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2007/m07-16.pdf) includes extensive details about securing PII, including this brief definition:
 
