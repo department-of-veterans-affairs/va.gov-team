@@ -24,13 +24,13 @@
 
 ## Requesting Metrics Reporting
 
-Fill out the `Metrics Reporting Request Template` on the va.gov-team repo to request performance, usability, or outcomes va.gov metrics that is difficult to access or that needs analytics interpretation. This will tag the VSP Analytics and Insights team and inform them of your request. 
+Fill out the [Metrics Reporting Request Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=metrics-reporting-request-template.md&title=Analytics+Reporting+Request+for+%5Bperson+or+team%5D) on the va.gov-team repo to request performance, usability, or outcomes va.gov metrics that is difficult to access or that needs analytics interpretation. This will tag the VSP Analytics and Insights team and inform them of your request. 
 
 Insights will usually provide data reports within the current sprint.
 
 ## Requesting Google Analytics Implementation or QA
 
-Fill out the `Analytics Implementation or QA Request Template` on the va.gov-team repo to request Google Tag Manager and Google Analytics implementation or QA for your product.
+Fill out the [Analytics Implementation or QA Request Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) on the va.gov-team repo to request Google Tag Manager and Google Analytics implementation or QA for your product.
 
 The following is a general guideline for implementation timeline:
 New Teams: Implementation will usually be completed in 4 sprints:
