@@ -5,7 +5,7 @@ This document will provide a common language for determining accessibility defec
 2. Potential users impacted by the defect
 3. Timeframe in which the defect should be fixed
 
-## 508-defect-0 (Show stopper)
+## 508-defect-0 (Showstopper)
 
 ### Type of issue:
 * Keyboard traps
@@ -19,7 +19,7 @@ This document will provide a common language for determining accessibility defec
 * Users who have partial vision or are blind
 * Users who are hard of hearing or deaf
 * Those who have [vestibular issues](https://a11yproject.com/posts/understanding-vestibular-disorders/) like motion sickness
-* Those who are have photosensitivity
+* Those who have photosensitivity
 
 ### Time to Fix
 * Issue must be fixed before launch
@@ -30,7 +30,7 @@ This document will provide a common language for determining accessibility defec
 * Critical errors in automated testers like [aXe plugin](https://www.deque.com/axe), [SortSite](https://www.powermapper.com/products/sortsite/), [AATT](https://github.com/paypal/AATT)
 * Inaccessible rich content like video without captioning
 * Color contrast issues
-* Missing form labels, explanations
+* Missing form labels and explanations
 * Dynamic content being added or removed from the page without announcing a change to assistive devices
 * UI or form controls unreachable by `TAB` or `SHIFT + TAB`
 * Content without a good, clear focus halo
@@ -42,7 +42,7 @@ This document will provide a common language for determining accessibility defec
 * Users who are hard of hearing or deaf
 
 ### Time to Fix
-* Issue should be prioritized for next sprint fix if possible
+* Issue should be prioritized to fix in the next sprint if possible
 
 ## 508-defect-2 (Serious)
 
@@ -67,7 +67,7 @@ This document will provide a common language for determining accessibility defec
 * Users with identified short-term memory or other cognitive issues
 
 ### Time to Fix
-* Issue should be prioritized for next 1-3 sprint fix
+* Issue should be prioritized to fix in the next 1 to 3 sprints
 
 ## 508-defect-3 (Minor)
 
@@ -82,7 +82,7 @@ This document will provide a common language for determining accessibility defec
 
 ### Time to Fix
 * Issue should be prioritized for next iteration (often 3 sprints in length)
-* These issues are often good items when engineers have a few extra hours at the end of a sprint
+* These issues are often good items for engineers to pick up when they have a few extra hours at the end of a sprint
 
 ## 508-defect-4 (Trivial)
 
@@ -99,4 +99,4 @@ This document will provide a common language for determining accessibility defec
 
 ### Time to Fix
 * Issue should be prioritized for next iteration (often 3 sprints in length)
-* These issues are often good items when engineers have a few extra hours at the end of a sprint
+* These issues are often good items for engineers to pick up when they have a few extra hours at the end of a sprint
