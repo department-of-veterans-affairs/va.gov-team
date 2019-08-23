@@ -71,7 +71,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
   * Estimate
   * Title that explains task
   * Description with Background and Acceptance Criteria
-  * Labels - vsa-ebenefits (and cross functional team labels)
+  * Labels - vsa-benefits (and cross functional team labels)
   * User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
   * Epic assigned
   
