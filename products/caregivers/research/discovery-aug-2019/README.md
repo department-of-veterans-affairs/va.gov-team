@@ -5,6 +5,7 @@ This research is for the new Comprehensive Assistance for Family Caregivers Mode
 - [Research plan](./research-plan.md)
 - [Caregiver conversation guide](./caregiver-conversation-guide.md) 
 - [Veteran conversation guide](./veteran-conversation-guide.md)
+- [Stakeholder conversation guide](./stakeholder-conversation-guide.md)
 - [Interview notes]() *to be added*
 - [Synthesis]() *to be added*
 - [Research summary]() *to be added*
