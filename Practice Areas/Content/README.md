@@ -18,14 +18,12 @@ The following list is a set of resources compiled by the people in your practice
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
     - [VA content owner requests](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md)
     - [URL creation and process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Creation%20Process%20and%20Guidelines.md)
-    - [Web content templates](https://github.com/department-of-veterans-affairs/vets.gov-content/tree/master/templates-and-guides/web-content-templates)
-    - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-VA-form-process.md)
-- VA.gov content styleguide and strategy guides 
-    - [VA.gov content styleguide](https://design.va.gov/content-style-guide/)
-    - [WIP VA.gov consolidated styleguide](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/master/src/_content-style-guide)
+     - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-VA-form-process.md)
+- VA.gov content style guide and strategy guides 
+    - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
+    - [WIP VA.gov consolidated style guide](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/master/src/_content-style-guide)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
-    - [Content strategy guide](https://github.com/department-of-veterans-affairs/vets.gov-content-style-guide/blob/master/Content-Strategy-Document/Table%20of%20Contents.md)
-    - [Error messaging dictionary styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
+     - [Error messaging dictionary styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
     - [Error message standardization styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Content%20Style%20Guide.md)
     - [Form label masterlist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/site-wide-issues/Form%20label%20masterlist.xlsx) 
 - Content team checklists    
@@ -35,7 +33,7 @@ The following list is a set of resources compiled by the people in your practice
     - [Proofreading/QA checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/proofreading-QA-checklist.md)
     - [UAT process for content migration](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/UAT-process-for-content-migration.md)
 - SEO resources
-    - [Writing for SEO](https://design.va.gov/content-style-guide/seo)
+    - [Writing for SEO](https://design.va.gov/content-style-guide/seo#meta-properties)
     - [Meta and title tag guidelines](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/SEO-work/metas-and-title-tags-guidelines.md)
 - GitHub resources
     - [Content process in Github](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/GitHub_content_process.pdf)
