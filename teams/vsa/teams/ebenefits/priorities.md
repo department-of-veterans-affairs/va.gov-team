@@ -7,8 +7,8 @@
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
 | Profile | View Rated Disabilities | Users are able to view their current disability ratings for each contention and the combined disability rating. |
+| Profile | View Compensation Payment History | Users are able to check the status of their Compensation Service payments. |
 | Profile | View Dependents | Users are able to view the dependents the VA has on record and see if they are on their Compensation award.  |
-| Profile | View Comp Payment History | Users are able to check the status of their Compensation Service payments. |
 | Profile | View Representative/ POA | Users are able to view their current representative for VA claims. |
 | Login | User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
 | Profile | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
