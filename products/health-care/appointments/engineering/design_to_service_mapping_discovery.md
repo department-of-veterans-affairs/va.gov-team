@@ -31,7 +31,6 @@ Broken out by page (Design: https://adhoc.invisionapp.com/share/WATIINRHZ3F)
 - https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622447 (provider choice)
    - List of providers across facilities
       - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/pact-team`
-   - GAP: Current `/pact` endpoint is facility specific
    - GAP: How do we schedule against them directly? Is this the same as scheduling a clinic? The data we have isn't clearly associated with a clinic
 - https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470 (calendar page)
    - Clinics supporting direct scheduling
@@ -60,4 +59,5 @@ Broken out by page (Design: https://adhoc.invisionapp.com/share/WATIINRHZ3F)
       - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/request-limit`
       - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/{eligibility}/visited-in-past-months`
    - Does custom text exist in the new designs?
+      - No
    - Do we need the facility timezones? How exactly is that used (hard to tell from code)?
