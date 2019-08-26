@@ -32,7 +32,6 @@ Product Portfolio:
 
 **Roadmap:**
 ![filename](filename.png)
-
 ________________________________________
 
 **Team Members**
