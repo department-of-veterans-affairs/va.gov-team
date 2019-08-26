@@ -3,10 +3,10 @@ _WIP_
 
 ## VSA North Star:
 
-*Product Line:*
+**Product Line:**
 Global unauthenticated experience team for VA.gov.
 
-*Mission Statement:*
+**Mission Statement:**
 Provides Veterans, family members, caregivers, service members and other
 audiences access to vital information about VA benefits and services
 
@@ -14,27 +14,28 @@ Product Portfolio:
 -	Home Page 
 -	Header / Footer 
 -	IA, Menus, Navigation 
-●	Content Hubs
-●	Legacy content rewriting
-●	Content Migration (Github to Drupal)
-●	VAMC Sites / Pages 
-●	Facility Locator
-●	On-site Search 
-●	Tier 2 content templates
-●	Tier 3 content templates
-●	Style Guide
-●	VA Forms
-●	Contact Us/ Help Utility
-●	Global Alerts
+-	Content Hubs 
+-	Legacy content rewriting 
+-	Content Migration (Github to Drupal) 
+-	VAMC Sites / Pages  
+-	Facility Locator 
+-	On-site Search  
+-	Tier 2 content templates 
+-	Tier 3 content templates 
+-	Style Guide 
+-	VA Forms 
+-	Contact Us/ Help Utility
+-	Global Alerts
 
-*Responsibilities:*
+**Responsibilities:**
 [High level problem space and user goals for this team]
 
-*Roadmap:*
+**Roadmap:**
 ![roadmap](test.png)
+
 ________________________________________
 
-*Team Members*
+**Team Members**
 DSVA Product Manager: Chris Johnston
 Team Product Manager: Kara Kemahli
 DSVA Content Lead: Jennifer Lee
@@ -42,8 +43,6 @@ Content Writer:  Laura Walsh
 Content Writer: Randi Hecht 
 Copy Editor:  Anne Hurley
 Frontend Engineer:  Nick Sullivan
-
-
 
 Workflow + Cadence
 
