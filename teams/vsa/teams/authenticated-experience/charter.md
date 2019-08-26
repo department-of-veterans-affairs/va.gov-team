@@ -2,26 +2,27 @@ _[Note: this should be stored ultimately as .md in GitHub. Google Docs is just f
 
 # Authenticated Experience Team Charter
 
-##  North Star
+###  North Star
 Deliver self-service tools on par with top private sector companies, and have the best online experience in the federal government
  
 ## Product Line 
 Authenticated Experience
 
-## Mission Statement:
+### Mission Statement:
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
-## Product Portfolio:
-•	Dashboard
-•	Profile
-•	Account
-•	Notifications
-•	Login Flows
-•	In Content Personalization
-•	Others
+### Product Portfolio:
+
+*	Dashboard
+*	Profile
+*	Account
+* Notifications
+*	Login Flows
+* In Content Personalization
+*	Others
 
 
-## Responsibilities:
+### Responsibilities:
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
 
 ### Roadmap
@@ -30,7 +31,7 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 (Last Updated August 2019)
  
 
-## Team Members
+### Team Members
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
