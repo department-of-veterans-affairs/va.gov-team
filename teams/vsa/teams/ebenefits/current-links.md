@@ -1,4 +1,4 @@
-# Current Links:eBenefits
+# Current Links: eBenefits
 Found on eBenfits homepage [here](https://www.ebenefits.va.gov/ebenefits/homepage)
 ## Applications
 -	Disability Compensation - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=disability-compensation
