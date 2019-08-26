@@ -31,7 +31,7 @@ Product Portfolio:
 [High level problem space and user goals for this team]
 
 **Roadmap:**
-![roadmap](filename.png)
+![filename](filename.png)
 
 ________________________________________
 
