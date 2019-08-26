@@ -12,3 +12,6 @@ is critical in figuring out the level of effort/ time needed to reuse or create 
 - I have seen that there are Drupal related files in the vets.gov website repo, will we be building this in that area?
 
 3. Will this need to interface with any internal/ external APIs other than the CARMA system?
+
+4. With the current environemnt we use, how are users created/ roles managed?
+- If we end up proposing an experience where the caregivers can log in, how will that fit into the current user management model?
