@@ -15,13 +15,13 @@ The following list is a set of resources compiled by the people in your practice
 - Onboarding/training
     - [Onboarding](https://github.com/department-of-veterans-affairs/vets.gov-team/wiki/VA.gov-Onboarding)
 - Content processes
-    - [Strategy for new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/VA.gov%20Relaunch%202018/new-vagov-strategy)
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
     - [VA content owner requests](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md)
     - [URL creation and process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Creation%20Process%20and%20Guidelines.md)
      - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
 - VA.gov content style guide and strategy guides 
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
+    -[Strategy for new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/VA.gov%20Relaunch%202018/new-vagov-strategy)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
      - [Error messaging dictionary styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
     - [Error message standardization styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Content%20Style%20Guide.md)
