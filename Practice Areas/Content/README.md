@@ -22,7 +22,6 @@ The following list is a set of resources compiled by the people in your practice
      - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
 - VA.gov content style guide and strategy guides 
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
-    - [WIP VA.gov consolidated style guide](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/master/src/_content-style-guide)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
      - [Error messaging dictionary styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
     - [Error message standardization styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Content%20Style%20Guide.md)
@@ -41,5 +40,8 @@ The following list is a set of resources compiled by the people in your practice
     - [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
     - [Github Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - Drupal (CMS) resources
+
+- Other resources 
+- [Edit files VA.gov content style guide](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/tree/master/src/_content-style-guide)
 
  
