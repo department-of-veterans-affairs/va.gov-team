@@ -34,6 +34,9 @@ Broken out by page (Design: https://adhoc.invisionapp.com/share/WATIINRHZ3F)
    - GAP: Current `/pact` endpoint is facility specific
    - GAP: How do we schedule against them directly? Is this the same as scheduling a clinic? The data we have isn't clearly associated with a clinic
 - https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470 (calendar page)
+   - Clinics supporting direct scheduling
+      - `/VeteranAppointmentRequestService/v4/rest/clinical-services/patient/{assigning-authority}/{patient-id}/clinics`
+      - This is probably a missing page, to pick one if necessary
    - Appointment slots
       - `VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/available-appointment-slots`
 - https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622475 (Appt details)
