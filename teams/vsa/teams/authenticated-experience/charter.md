@@ -24,8 +24,9 @@ Help users accomplish tasks more easily by leveraging what we know about them as
 ## Responsibilities:
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
 
-### **Roadmap**
+### Roadmap
 
+![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/Auth-ExpRoadMap.png "Logo Title Text 1")
 (Last Updated August 2019)
  
 
