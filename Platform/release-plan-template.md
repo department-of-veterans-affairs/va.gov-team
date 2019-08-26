@@ -11,7 +11,7 @@ That's what this Release Plan Template is for! And note - there are feature flag
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 ### Planning:
-- Desired date range: mm/dd/yy - mm/dd/yy
+- Desired date range or test duration: [date - date] or [duration]
 - Desired number of users: x
 - How you'll recruit the right production test users: lorem ipsum
 - How you'll conduct the testing: lorem ipsum
