@@ -1,0 +1,104 @@
+# eBenefits Team Notes
+
+## Applications
+-	Disability Compensation - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=disability-compensation
+-	Add or Remove Dependent - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dependent-compensation
+-	VA Health Care - https://www.va.gov/health-care/how-to-apply/
+  -	Purchased Care Health Benefits - https://www.ebenefits.va.gov/ebenefits/CHAMPVADashboard
+  -	TRICARE® Health Plans - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=tricare-insurance
+-	Education Benefits - https://www.ebenefits.va.gov/ebenefits/apply#education
+-	Vocational Rehabilitation and Employment - https://www.ebenefits.va.gov/ebenefits/apply#employment 
+-	Pension Benefits - https://www.va.gov/pension/how-to-apply/
+-	Compensation and Pension -  https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status
+-	Request a Representative for VA Claims - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=request-vso-representative
+  -	Manage Your VA Representative - https://www.ebenefits.va.gov/ebenefits/manage/representative
+  -	Representative Search - https://www.ebenefits.va.gov/ebenefits/vso-search
+-	Release Medical Records - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=release-medical-records
+-	Housing
+  -	Specially Adapted Housing (SAH) Grant - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant
+  -	Certificate of Eligibility for Home Loan - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan
+-	Veterans' Group Life Insurance (VGLI) - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management
+-	Burial Benefits - https://www.va.gov/burials-memorials/veterans-burial-allowance/
+
+## Manage Benefits
+-	Compensation Claim Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status
+-	Personal Contact and Direct Deposit - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information
+-	Military Personnel File - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=military-personnel-file
+-	VA Letters - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=va-letters
+-	Certificate of Eligibility for Home Loan - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan
+-	Supporting Document Upload for Claims - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status
+-	Status Tracking - https://www.ebenefits.va.gov/ebenefits/manage/status
+  -	Compensation Claim Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status
+  -	Compensation Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+  -	Post-9/11 GI Bill® Enrollment Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=post-911-gi-bill-enrollment-status
+  -	Montgomery GI Bill® (WAVE) Enrollment Verification - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=montgomery-gi-bill-enrollment-verification-wave
+  -	Post-9/11 GI Bill® Transfer Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=post-911-education-benefits-transfer
+  -	Education Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+-	Documents and Records - https://www.ebenefits.va.gov/ebenefits/manage/documents
+  -	Service Member Personnel Information - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=servicemember-personnel-information
+  -	Service Member Civilian Employment Information - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=servicemember-personnel-information
+  -	Military Personnel File - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=military-personnel-file
+  -	VA Letters - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=va-letters
+  -	VA Medical Records - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=va-blue-button-record-access 
+  -	VA Health Record Sharing - https://www.ebenefits.va.gov/ebenefits/vapii
+  -	myPay - https://mypay.dfas.mil/#/
+-	Contact and Direct Deposit Information - https://www.ebenefits.va.gov/ebenefits/manage/contact
+  -	Direct Deposit and Contact Information Update - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information
+  -	Defense Enrollment Eligibility Reporting System (DEERS) Update - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=servicemember-personnel-information
+  -	VA/DoD eBenefits Email Address Update - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=email-address 
+-	VA Representative - https://www.ebenefits.va.gov/ebenefits/manage/representative
+  -	Representative Request - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=request-vso-representative
+  -	Representative Search - https://www.ebenefits.va.gov/ebenefits/vso-search
+-	Compensation - https://www.ebenefits.va.gov/ebenefits/manage/compensation
+  -	Compensation Claim Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status
+  -	Compensation Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+  -	Update your direct deposit and contact information (Compensation, Pension, or Education) - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information
+  -	myPay - https://mypay.dfas.mil/#/ 
+  -	VA Payment History - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=payment-history
+  -	Compensation Exam Appointment Calendar - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-exam-appointments-calendar
+-	Education - https://www.ebenefits.va.gov/ebenefits/manage/education
+  -	Post-9/11 GI Bill® Enrollment Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=post-911-gi-bill-enrollment-status
+  -	Montgomery GI Bill® (WAVE) Enrollment Verification - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=montgomery-gi-bill-enrollment-verification-wave
+  -	Post-9/11 GI Bill® Benefits Transfer - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=post-911-education-benefits-transfer
+  -	Education Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+  -	Direct Deposit Information - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information
+  -	VA Payment History - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=payment-history
+-	Health Care - https://www.ebenefits.va.gov/ebenefits/manage/health
+-	Housing - https://www.ebenefits.va.gov/ebenefits/manage/housing
+  -	Specially Adapted Housing (SAH) Grant Application Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=sah-grant
+  -	Certificate of Eligibility for Home Loan - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=cert-of-eligibility-home-loan
+  -	Housing Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+-	Insurance - https://www.ebenefits.va.gov/ebenefits/manage/insurance
+  -	Veterans’ Group Life Insurance (VGLI) - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=vgli-policy-management
+  -	Servicemembers’ Group Life Insurance (SGLI) - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=servicemember-group-life-insurance
+  -	Insurance Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+-	Pension - https://www.ebenefits.va.gov/ebenefits/manage/pension
+  -	Pension Claim Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-claim-status
+  -	Pension Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+  -	VA Payment History - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=payment-history
+  -	Direct Deposit and Contact Information Update - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=direct-deposit-and-contact-information
+  -	Pension Exam Appointment Calendar - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-exam-appointments-calendar
+
+## Manage Health
+-	Share Your VA Medical Records - https://www.ebenefits.va.gov/ebenefits/vapii
+-	VA Prescription Refills - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=my-healthevet-prescription-management
+-	VA Appointments - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=my-healthevet-appointment-scheduling
+-	Hearing Aid Batteries and Prosthetic Socks - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=hearing-aid-batteries-and-prosthetic-socks
+-	SECURE MESSAGING on MyHealtheVet - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=my-healthevet-secure-messaging
+-	DoD TRICARE® Health Insurance - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=tricare-insurance
+-	My VA Appointments - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-pension-exam-appointments-calendar
+-	VA Prescription Refills - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=my-healthevet-prescription-management
+-	VA Medical Provider Messaging - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=my-healthevet-secure-messaging
+-	Hearing Aid Batteries and Prosthetic Socks - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=hearing-aid-batteries-and-prosthetic-socks
+-	My HealtheVet Resources - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=my-healthevet-resources
+-	DoD TRICARE® Health Insurance - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=tricare-insurance
+-	DoD Other Health Insurance Information - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=dod-other-health-insurance
+-	Service Member Out-of-Pocket Medical Expenses (CCD) - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=service-member-out-of-pocket-medical-expenses
+-	Weight Management Questionnaire - http://www.move.va.gov/move11.asp
+-	Health Records
+  -	VA Medical Records - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=va-blue-button-record-access
+  -	VA Health Record Sharing - https://www.ebenefits.va.gov/ebenefits/vapii
+-	Health Care Appeal Status
+  -	Health Care Appeal Status - https://www.ebenefits.va.gov/ebenefits/about/feature?feature=compensation-claim-appeal-status
+-	Health Studies
+- Airborne Hazards and Open Burn Pit Registry - https://veteran.mobilehealth.va.gov/AHBurnPitRegistry/
