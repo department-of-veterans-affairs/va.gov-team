@@ -55,10 +55,10 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - TBD
 
 ## Team Members
-- Mina: Product Manager
-- Mikki: IA Expert
+- Megan: Product Manager
+- Mikki: Information Architecture Expert
 - Peggy: Content Expert
-- Matt: Technical Writer / IA
+- Matt: Information Architect
 
 
 
