@@ -51,7 +51,6 @@ We have 3 different ideas we want to talk to you about in the next 30 min, so it
 * Why? Why not?
 
 ## Second Section: Prescribing Mobile Application Use - 10 minutes
-*Purpose*: We want to learn more specifically about Veterans care interactions, including their comfort and interest in digital interactions vs in-person interactions.
 
 ### Questions
 * How would you react if a Provider recommended that you track your sleep?
@@ -60,7 +59,6 @@ We have 3 different ideas we want to talk to you about in the next 30 min, so it
 * What would be the most effective way for you to be reminded to use this app?
 
 ## Third Section: Managing Multiple Tools - 10 minutes
-*Purpose*: We want to know if users find the Vets.gov Scheduling page clear. 
 
 ### Questions
 * So let’s say your doctor has asked you to share your data with them through a few apps. 
