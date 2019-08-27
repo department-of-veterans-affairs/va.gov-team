@@ -12,3 +12,4 @@
 * \[Eugene Doan\] Consumer-driven contract testing
 * \[Erik Hansen\] Use of `babel-plugin-module-resolver` in FE codebase to aid with module imports
 * \[Keifer Furzland\] [RFC for dockerizing the load testing toolchain](https://github.com/department-of-veterans-affairs/va.gov-team/pull/1319) (initial discussion)
+* \[Bill Tran\] Vagrant Windows Box
