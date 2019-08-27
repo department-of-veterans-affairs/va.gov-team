@@ -17,9 +17,9 @@ The following list is a set of resources to help you do your work and answer con
 - Content processes
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
     - [VA content owner requests](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md)
-    - [URL creation and process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Creation%20Process%20and%20Guidelines.md)
+    - [URL creation and process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Practice%20Areas/Information%20Architecture)
      - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
-- VA.gov content style guide guides 
+- VA.gov content style guides 
      - [Crafting content that supports a Veteran-first digital experience](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/content-style-guide-training-with-VHA-071119.pdf)
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
