@@ -58,12 +58,29 @@ informative
 * Only 2 of many participants completed the survey. 
 * Participants described the content of the UX onboarding meeting as:
   > Very informational. I like that you're providing these as PDF deliverables here after. I think you guys could do more of overview in presenting instead of compelling oneself to articulate bullet for bullet.
+  
   > A little rushed because there was a lot of information in a short amount of time. Also, not everything pertained to me but it was interesting to learn about other areas.
+
+* Participants felt that the following content was missing:
+ > The Link to the Sketch Design System. Does it use Abstract for Version Control for designers? Do we use Invision for Developer Deliverables to use Inspect for code snippets?
+ 
+ > In-Person Moderated Sessions in San Diego. We have a large Veteran Population here, and it seems silly to isolate to DC only. How can I go about this process?
 
 **Recommendations:** 
 
 * Consider requiring participants to complete all of the meeting surveys in order to complete onboarding. This would allow us to track meeting attendance. *This may mean that the surveys are no longer anonymous.
 * Practice presenting the UX onboarding content before the meetings.
 * Extend the meeting time to allow for questions and feedback.
+* Consider discussing different design and research tools (Invision, Sketch, Optimal Sort, Reframer, etc.) during the meeting. Allow time for questions about tools and give a tour of the VA.gov Sketch Component Library.
+* Explain why in-person research is limited to Washington D.C.
+
+### 3. Engineering Onboarding Meeting 
+No participants completed the Engineering Onboarding Meeting survey because the survey was not published in Optimal Sort.
+
+**Recommendation:** 
+Test the survey links before each onboarding meeting.
+
+### 4. Discovery and Logistics Meeting 
+
 
 
