@@ -1,7 +1,7 @@
 ---
 name: eBenefits Migration Epic Template
 about: Describe this issue template's purpose here.
-title: Migrate [FETAURE] from eBenefits to va.gov
+title: Migrate [FEATURE] from eBenefits to va.gov
 labels: vsa-ebenefits
 assignees: ''
 
@@ -10,6 +10,8 @@ assignees: ''
 # View Rated Disabilities
 
 Issue brief: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/ _[LINK TO DOCUMENTATION]_
+
+eBenefits URL: https://www.ebenefits.va.gov/ebenefits/ _[LINK TO EBENEFITS FEATURE]_
 
 ## Story
 
