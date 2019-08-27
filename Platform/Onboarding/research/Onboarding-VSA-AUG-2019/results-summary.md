@@ -30,7 +30,9 @@ Participants were members of the first onboarding VSA team:
 
 ### 1. General (Full Team) Onboarding Meeting
 * After the general onboarding meeting, all participants reported knowing what they needed to do next during the onboarding process.  
+
 * Most participants felt that the meeting was extremely helpful. 
+
 * Participants described the content of the general onboarding meeting as:
   * High level and thorough
   * Perfect to drive next steps
@@ -41,11 +43,13 @@ informative
   * Comprehensive and clear
   * Exciting!
   * Welcoming and structured
+  
 * Most participants (9 of 11) reported that they felt like all of their questions were addressed during the meeting. A few participants reported the following missing content:
   * Definition of Design as a whole
   * Definition of Research and at what process my participation is expected or needed.
   * How I will submit feedback for your platform team to improve its platform. Other companies have used Impact Canvas and Google Forms, but wasn't clear where you guys wanted me to provide feedback. 
   * I may have missed this, but which Slack channels I should join
+  
 * All participants were either somewhat confident (8) or extremely confident (3) that they could find answers to questions on their own.
   
 **Recommendations:** 
@@ -69,9 +73,13 @@ informative
 **Recommendations:** 
 
 * Consider requiring participants to complete all of the meeting surveys in order to complete onboarding. This would allow us to track meeting attendance. *This may mean that the surveys are no longer anonymous.
+
 * Practice presenting the UX onboarding content before the meetings.
+
 * Extend the meeting time to allow for questions and feedback.
+
 * Consider discussing different design and research tools (Invision, Sketch, Optimal Sort, Reframer, etc.) during the meeting. Allow time for questions about tools and give a tour of the VA.gov Sketch Component Library.
+
 * Explain why in-person research is limited to Washington D.C.
 
 ### 3. Engineering Onboarding Meeting 
@@ -82,5 +90,41 @@ Test the survey links before each onboarding meeting.
 
 ### 4. Discovery and Logistics Meeting 
 
+* Participants rated their overall onboarding experience as:
+ * 4 - Somewhat helpful
+ * 3 - Moderately helpful
+ * 10 - Extremely helpful
 
+* When asked what was missed during onboarding, participants said:
 
+ > A breakdown of things that have changed between the old contract and these new contracts. ie, changes in Slack channels or GitHub repos to use for things (va.gov-team vs vets.gov-team)
+ 
+ > This is hard to answer, since I've been on the team for a while and now how everything works. I do see value in getting the whole team together and making sure we're on the same page about things, but I didn't learn much myself.
+ 
+ > Missed: Coordination with Product Managers Not Yet Having On - boarded Front-End Developers
+
+ > Improve: Team Fillable Spreadsheets in Google Drive For Asyncronys Strategy Facilitation
+
+ > Expectation setting - I didn't think this was going to be as much of an interview of what we were doing as as it was. I thought it would be more about how to work with the Platform team and how the work you do supports what we do.
+ 
+ > I think this was great. Maybe have more interactivity with some new people to git Hub and Pull requests.
+ 
+ > I have background knowledge of Zenhub but if I didn't I am not sure I would have understood everything in the tutorial. It was moving a little quickly without a lot of explanation.
+ 
+ > The Zenhub tour made a lot of sense to me because I've used Zenhub a lot, but I'm curious how it resonated with folks not familiar with Zenhub, GitHub, or general Kanban. It might have been a little fast-paced.
+ 
+ > As we get deeper in the weeds into specific functional areas, would love to see a "day in the life" experience that details what we need to monitor (ex. ZenHub, GitHub and Slack?), steps to take (ex. searching existing Product folders to see what's been done on a related product, style guides, best practices to refer to...) process for doing your part/getting necessary approvals so the next person in the chain can do theirs.
+ 
+* Most participants understood how to contact the Product Support team.
+
+**Recommendations:** 
+
+* Consider different ways to engage participants who have previous experience working on VFS.
+
+* Consider using meetings for more overview topics, and videos and documentation for tutorials (like ZenHub or pull requests). 
+
+* Consider creating a "day in the life" journey map or document for each practice area.
+
+* Consider having a meeting like the Discovery and Logistics as the first onboarding meeting with product managers and product owners to learn more about what the team needs during onboarding.
+
+* Set clear expectations about the goals of each onboarding meeting. 
