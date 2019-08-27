@@ -71,3 +71,40 @@ Identify team members who will be engineering points of contacts
 ## Blue Sky
 Teams have complete access to GTM. Insights provides general QA and support.
 
+---
+
+# Roadmap
+
+NOW
+
+1. [Basic Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/46642f648418fa7d4ce9a63a49caae69664bc206/Platform/Teams/Analytics%20and%20Insights/Welcome%20to%20Analytics/rules-of-engagement-analytics-implementation-qa.md) - Nedie & Jon review
+
+NEXT
+
+2. [Implementation/QA Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Analytics%20and%20Insights/Research/Analytics%20Request%20Templates.md)
+    1. Nedie & Jon create PR/iterate to make clear who the owner of each task is
+    1. Make template scalable (accountable for multiple scenarios)
+    1. Push new template
+3. Data Dictionary
+    1. Nedie & Jon are currently working on
+    
+FUTURE
+
+3. Data Dictionary
+    1. Will need to be reviewed/organized
+    1. Will need to be published on Github
+    1. Will need to be communicated
+4. GTM Access Documentation:
+    1. Risks
+    1. Dev/Staging vs. Publishing Access
+    1. Who on each team? Every engineer? The PMs/Owners? Why?
+    1. Summary of how they’ll be using GTM/why it’s important
+5. Training
+    1. Select individuals we’ll be training
+    1. Create training materials (by using data dictionary)
+    1. Schedule training
+    1. Workshop/train each team
+    1. Maybe do a video? 
+6. IMPLEMENT! 
+
+
