@@ -45,5 +45,7 @@ _What do you hope changes as a result of launching this product or feature?_
 ### Hypotheses
 _What do you plan to do/build/create to achieve your user and business goals?_
 
+_ex: By creating more onboarding and training content, we expect teams to be more self-sufficient after they are onboarded._
+
 - [Fill out here]
 
