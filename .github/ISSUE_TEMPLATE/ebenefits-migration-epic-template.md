@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# View Rated Disabilities
+# _[FEATURE TITLE]_
 
 Issue brief: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/ _[LINK TO DOCUMENTATION]_
 
