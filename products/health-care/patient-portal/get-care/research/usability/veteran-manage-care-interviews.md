@@ -35,9 +35,11 @@ Alright. Thanks again for giving us some of your time today.
 We have 3 different ideas we want to talk to you about in the next 30 min, so it might feel like I'm jumping around a little.
 
 ## First Section: Urgent Care/Express Care Access - 10 minutes
-*Purpose*: We want to learn how Veterans characterize their interactions with VA online, what tools and sources they use successfully and gauge their comfort with managing their care digitally. 
+
 
 ### Questions
+* How often do you get care in a VAMC or VA clinic during a given year?
+
 * When you have an urgent care need, what do you do?
 * If you had an urgent need, are there circumstances where you'd start by seeking out care or advice online?
 * What kind of support or answers would you be looking for?
