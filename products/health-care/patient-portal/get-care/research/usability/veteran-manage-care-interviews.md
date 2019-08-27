@@ -14,7 +14,7 @@ Thanks for joining us today! My name is **Caitlin** and I also have some colleag
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 45min to 1 hour.** 
+- **This entire session should take about 30min.** 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
