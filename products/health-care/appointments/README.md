@@ -51,21 +51,21 @@
 # Executive Summary
 
 ## User Problem Statement
-*Note: this problem statement is not final*  
-A very small percentage of veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and heavier burden for schedulers. The result is delayed appointments and frustration for veterans.
+A very small percentage of veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for veterans.
 
 ## Solution Goals
 
 ### Veterans
-- Easily navigate to scheduling app and set up an appointment as a self-service
-- Leverage the convenience of mobile accessibility for scheduling appointments
-- Make it easier to interact with the VA
+- Make scheduling healthcare appointments easier & improve the success rate of online scheduling attempts
+- Enable veterans to schedule appointments on the platform they already use to handle other VA interactions
+- Make it easier to get help or find next steps for appointments that can't be scheduled online
+- Allow veterans to schedule appointments online through any common device to which a veteran may have access
 
 ### Business
-- Have a reliable success rate and uptime for online scheduling service so that support services can be used more effectively
-- Reduce the number and frequency of manual scheduling errors
-- Improve efficiency, spending less time on the phone booking and managing appointments
-- Grow communication and trust between veterans and the VA
+- Ensure that veterans are able to easily schedule the healthcare they've earned
+- Improve veteran satisfaction with and trust in the VA
+- Reduce support costs (money + time) for offline scheduling flows like phone scheduling
+- Comply with all existing and upcoming legislation (e.g., Mission Act)
 
 ## Assumptions
 - This scheduling tool will increase user adoption of online scheduling services
@@ -83,6 +83,10 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 [Initial prototype based on DSVA research](https://projects.invisionapp.com/share/KSTFY798BU3#/screens)
 
 ## Solution Approach
+- Provide an intuitive home for the scheduling tool so that veterans can interact with the VA via a single platform
+- Easily navigate to scheduling app and set up an appointment as a self-service
+- Make it easier for veterans to find information and steps needed to schedule offline when online scheduling not possible
+
 
 ## Value Propositions
 
