@@ -62,24 +62,24 @@ Grooming: assess and update workload for remainder of sprint
 
 Issue Etiquette
 - For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-○	Estimate
-○	Title that explains task
-○	Description with Background and Acceptance Criteria
-○	Labels - Analytics-Insights, Call Center, Analytics Request
-○	User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
-○	Epic assigned
+  * Estimate
+  * Title that explains task
+  * Description with Background and Acceptance Criteria
+  * Labels - Analytics-Insights, Call Center, Analytics Request
+  * User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
+  * Epic assigned
 - All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 - If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 Estimation
 
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
 
-1 - Easy task, work is known, can be executed quickly
-2
-3 - Medium task, work is known and can be completed in one sprint
-5 - Work is discussed and planned for, and can be worked 
-8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks
-13 - Very complex, may take a full sprint or longer
+1 - Easy task, work is known, can be executed quickly  
+2  
+3 - Medium task, work is known and can be completed in one sprint  
+5 - Work is discussed and planned for, and can be worked   
+8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
+13 - Very complex, may take a full sprint or longer 
 
 Team Norms
 
