@@ -11,7 +11,7 @@ VSP Content POC:
 - [Peggy Gannon](mailto:peggy@thesocompany.com), @peggygannon on Slack 
 
 ### Table of contents
-The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channel or your VSP content POC.
+The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #vsp-content-ia Slack channel or your VSP content POC directly.
 - Onboarding/training
     - [Onboarding](https://github.com/department-of-veterans-affairs/vets.gov-team/wiki/VA.gov-Onboarding)
 - Content processes
