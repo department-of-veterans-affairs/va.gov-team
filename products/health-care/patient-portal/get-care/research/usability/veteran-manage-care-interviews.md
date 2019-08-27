@@ -74,9 +74,10 @@ We have 3 different ideas we want to talk to you about in the next 30 min, so it
 
 ## Post-Task Wrap Up - 5 minutes
 
-* Having a single portal to show all of the data?
+On a scale of 1 -5 (1 as not useful at all, 5 as extremely useful)
+* How useful would it be for you to have a single portal to show all of the data?
   * Why or why not?
-* Having access to all of these things in one place?
+* How useful would it be for you to have access to all of these things in one place?
   * Why or why not?
 * How likely is it you would use something like that?
   * Why or why not?
