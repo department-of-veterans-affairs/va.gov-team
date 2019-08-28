@@ -7,8 +7,9 @@ This document details lessons learned and recommendations on the Content ROE, ba
 2. VSA authenticated experience team: PM Justin Picket. 8/13 meeting
 3. VSA global-ux team: PM: Kara Kemahli. 8/19 meeting  
 4. VSA disability benefits PM: Yana Roy. 8/22 meeting
-5. VOAS (not yet onboarded)
+5. VAOS PM: Mark Greenburg
 6. VSA Ebenefits (not yet onboarded)
+7. Get Care team (not yet onboarded)
 
 ### Questions and feedback on the Content Review document
 
