@@ -52,5 +52,5 @@ If you're looking for **non-veteran-facing** tools and services for creating on 
 
 ### VA Content and Features
 - [Media library](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/media-library)
-- [office and administration sites]()
+- [Office and administration sites]()
 
