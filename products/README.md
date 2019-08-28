@@ -3,7 +3,8 @@ The `products` directory contains information about the discovery, design, devel
 
 If you're looking for **non-veteran-facing** tools and services for creating on VA.gov, checkout the [`platform`](../platform) folder.
 
-##VA.gov Mission
+## What is a VA.gov Product
+A VA.gov product is a tool or component of va.gov that is directly interacted with by va.gov visitors.  Products solve a user need, have an overal vision/mission and are measurable.  If you feel your product is not represented in the list below, please request assistance in #vfs-platform-support. 
 
 
 ## Table of Contents
