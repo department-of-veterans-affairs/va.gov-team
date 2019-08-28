@@ -48,7 +48,7 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 
 ### Veterans
 - Find where & how to schedule a healthcare appointment online
-- Schedule a healthcare appointment online (where permitted)
+- Schedule a healthcare appointment online (where permitted) quickly & easily
 - Find & take action on next steps to schedule healthcare appointments that can't be scheduled online
 - Schedule (or find next steps to schedule) a healthcare appointment using common desktop, mobile, or tablet browsers
 
@@ -64,6 +64,7 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 - Improving internal tools for schedulers (VATS configuration utility, Schedule Manager, etc.)
   - These will be phased out by Cerner tools
   - However, critical bugfixes and patches affecting production tools do need to be addressed
+- Improving the backend data sources is mostly out of scope, though vets-api can work to optimize around the edges of the existing services
 
 ## Assumptions
 - Veterans prefer self-service to face-to-face interaction
@@ -109,7 +110,7 @@ Generally, veterans are able to self-schedule for Primary Care with their PACT (
 An additional limitation is that a veteran must be registered with a VA region, which is an offline process that happens their VA facility or over the phone before they're able to use the online scheduling tool. Worse, the registration isn't national since VistA instances are deployed at the regional level - so while you may be able to seek care at your local VAMC via online scheduling, you will not have the option to online schedule after moving to a new state. There is no way to register online.
 
 
-### Discovery Next Steps
+### Areas for Further Exploration
 
 #### Prototype usability, technical discovery, and metrics gathering
 - Based on existing research and interviews with product owners, DSVA created [prototypes](https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622434) for several scheduling flows. We are putting these flows in front of veterans in early Sept 2019 and running targeted usability sessions against the prototypes to test the design hypotheses. The outcome of these research sessions will inform our product development priorities.
@@ -119,10 +120,11 @@ An additional limitation is that a veteran must be registered with a VA region, 
 #### Calendar UI
 Direct scheduling UX centers around a calendar view in the prototypes. We need to do some discovery here to determine whether this new pattern is appropriate or if it could be solved more simply.
 
-
 #### Community Care research
 After initial usability testing is complete and development is underway, we'll perform additional discovery and user research centered around community care integration - where veterans expect this option, how we should present their options, handling health care registration and eligibility, technical discovery regarding actual direct-scheduling capabilities, integrating with the VA.gov Facility Locator, etc.
 
+#### Provider-based scheduling
+Currently, veterans start the online scheduling flow by selecting a type of care they'd like to schedule. In the future, it may be possible to enable provider-based scheduling (which is common in private sector solutions), but more technical and UX discovery is needed to confirm the value of this scheduling approach.
 
 ## Solution Approach
 
@@ -140,6 +142,8 @@ Rewritting the veteran-facing scheduling application on VA.gov will give us acce
 #### Hosting the tool on VA.gov will improve discoverability and overall veteran experience.
 Veterans are already familiar with VA.gov and understand how to interact with the VA thorugh it. Moving the scheduling experience to VA.gov will improve the visibility and discoverability of the tool, while using existing VA.gov design patterns will improve cohesion and veteran comfort with using the tool to complete scheduling tasks.
 
+#### Improving SRE & DevOps capabilities will ultimately improve completion rates and veteran satisfaction with the scheduling tool [WIP]
+The current tool has little in the way of performance monitoring, latency is high due to old backend systems and service architecture that doesn't serve the needs of the existing front end (e.g., many calls for one resource), and developer speed is low due to challenges understanding the existing codebase & lack of dedicated SRE & devops expertise to help set the team up for success. Solving these key challenges will help us deliver a faster, more resilient, more efficient tool to veterans while reducing the long-term maintenance cost of the tool.
 
 ### MVP Implementation [WIP]
 [Initial prototype based on DSVA research](https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622434)
@@ -156,18 +160,17 @@ MVP Definition
  
  Open question: is the provider-centric view possible pre-Cerner?
 
-## Value Propositions [WIP]
+## Value Propositions
 
 #### User Value
 Provides a better user experience that makes it easier for veterans to directly schedule or request a healthcare appointment. The experience is integrated and cohesive with VA.gov, which is already a property with which many veterans are familiar.
 
 #### Business Value
-Better trust and satisfaction with the VA. More appointments scheduled and requested online, reducing support costs for phone-based bookings.
+Better trust and satisfaction with the VA. More appointments scheduled and requested online, reducing support costs for phone-based bookings. More maintainable solution by in-house teams over the long-term.
 
 ## KPIs
 
-
-### Goals
+### Goals [TODO: establish goal states once baselines measured]
 - Increase percent of appointments scheduled online
 - Decrease percent of scheduled appointments that result in no-shows
 - Improve perception of scheduling experience among veterans
@@ -175,14 +178,29 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 - Decrease phone volume for appointment scheduling
 - Reduce volume of appointments scheduled via Secure Messaging
 
-### KPIs
-[TODO: Add some KPIs once we get a handle on available and possible metrics]
+### KPIs [TODO: table or presentation improvements]
+
+- Percent of veterans who are able to complete the scheduling flow
+  - Measure with GA events: number of terminal events fired (request / direct schedule) compared to number of 'add new appointment' events fired.
+- Percent of overall appointments scheduled or requested online
+  - Tap into VA healthcare appointments metrics, compare with total completion events fired (requests + direct schedules)
+- Percent of veterans who feel that they've accomplished what they set out to do
+  - No way to currently track this and no baseline exists, but we could add a single survey question to the existing flow
+- Number of healthcare appointments scheduled over the phone
+  - Would need to tap into phone metrics, which may not be possible
+- Veteran satisfaction
+  - Not sure where these metrics would come from
+- Latency, uptime, production bug volume, deploy speed
+  - Should look through App Dynamics and also review any other sources for these metrics that we could track over time
 
 ---
 
 # Implementation Info
 
 ## Status
+- In active discovery
+- Team onboarding onto VSP
+- Dev work starting on scaffolding & basic UIs
 
 ## Solution Narrative
 - **Date**: summary of any big changes and why
