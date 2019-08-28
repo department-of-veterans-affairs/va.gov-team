@@ -4,8 +4,6 @@
 
 **Slack Channel(s):**  #vsp-platform-support,  #vsp-content-ia (internal vsp channel)
 
-**Epic:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/538
-
 ### Background ###
 Currently documentation and working artifacts are stored in a number of different repos within GitHub.  Many of these repos are also private repos, which doesn't follow DSVA's desire to be open and transparent regarding the va.gov work.  
 This work effort includes identifying what GH repo(s) to use, defining a structure to the documentation to be included/created, and moving content into its home with in the revised structure.  
@@ -39,7 +37,17 @@ This work effort includes identifying what GH repo(s) to use, defining a structu
   - Content and a link will be placed at the top of pages on vets.gov-team directing any users to the newest version of the page.
   
   
-  
+### Working Documents ###
+
+**Zenhub Epic:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/538
+
+**Repo Planning**  Google doc that includes a list of repos, audit of key repos, and full VA product lists
+https://docs.google.com/spreadsheets/d/1waFEAra9aeXK4UFp-ODMbCcKC4MHDZCFel8Oahb2X1E/edit?usp=sharing
+
+**Repo Structure Collab**  Google doc used for collaboration and defining the structure.  Shows iterations of structures including final with final labels
+https://docs.google.com/spreadsheets/d/18OP-vOKGYDrOKSXDkumrm-TP4YDFk-lAH6asVSkoFvg/edit?usp=sharing
+
+
 
 
   
