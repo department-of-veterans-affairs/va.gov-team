@@ -7,7 +7,7 @@ If you're looking for **non-veteran-facing** tools and services for creating on 
 A VA.gov product is a tool or component of va.gov that is directly interacted with by va.gov visitors.  Products solve a user need, have an overal vision/mission and are measurable.  If you feel your product is not represented in the list below, please request assistance in #vfs-platform-support. 
 
 
-## Table of Contents
+## Our Products
 
 ### Benefit Applications and Tools
 - [Benefit letters](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/benefit-letters)
