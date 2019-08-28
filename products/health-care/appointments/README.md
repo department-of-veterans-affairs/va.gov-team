@@ -124,7 +124,13 @@ Direct scheduling UX centers around a calendar view in the prototypes. We need t
 After initial usability testing is complete and development is underway, we'll perform additional discovery and user research centered around community care integration - where veterans expect this option, how we should present their options, handling health care registration and eligibility, technical discovery regarding actual direct-scheduling capabilities, integrating with the VA.gov Facility Locator, etc.
 
 #### Provider-based scheduling
-Currently, veterans start the online scheduling flow by selecting a type of care they'd like to schedule. In the future, it may be possible to enable provider-based scheduling (which is common in private sector solutions), but more technical and UX discovery is needed to confirm the value of this scheduling approach.
+Currently, veterans start the online scheduling flow by selecting a type of care they'd like to schedule. In the Cerner future, it should be possible to enable provider-based scheduling (which is common in private sector solutions). However, it should currently be possible to schedule with providers that a veteran has seen before. More technical & design discovery needs to happen to understand this use case.
+
+#### Improving DevOps and SRE capabilities
+We don't currently have a lot of insight into the performance of the veteran-facing tool and associated bottlenecks, which makes issues hard to trace and debug. This point also hinders our ability to get a baseline reading of performance, which would be helpful in order to prioritize problem areas in a data-informed way.
+
+#### Duplication in messaging options & platforms
+The existing VAOS solution supports messages / notifications from providers / schedulers. Additionally, veterans can write extra details in their appointment or appointment request, which will get relayed to providers along with the other appointment details. Responding to an appointment from their side will throw a message into the veteran's VAOS messaging queue that they can check from within the tool. However, this functionality duplicates Secure Messaging, which should be the hub for all messages between veterans and VA healthcare. We should do discovery research on what problems this is causing for veterans and what they'd like to see from VAOS messaging, and how to reduce duplication with other messaging tools.
 
 ## Solution Approach
 
