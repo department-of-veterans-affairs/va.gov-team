@@ -37,3 +37,6 @@ Roadmap	| NEAR TERM
 
 ## Screenshots
 
+![view-compensation-payments-1.png](View payments)
+
+![view-compensation-payments-2.png](View payments)
