@@ -124,29 +124,48 @@ Direct scheduling UX centers around a calendar view in the prototypes. We need t
 After initial usability testing is complete and development is underway, we'll perform additional discovery and user research centered around community care integration - where veterans expect this option, how we should present their options, handling health care registration and eligibility, technical discovery regarding actual direct-scheduling capabilities, integrating with the VA.gov Facility Locator, etc.
 
 
-## Solution Approach [WIP]
+## Solution Approach
 
 ### Strategic Bets
-[TODO: adds our bets to address veteran & va goals]
 
-### MVP Implementation
+#### Improving the UX of the scheduling tool using human-centered design principles will improve completion rates for scheduling / requesting an appointment and overall veteran satisfaction rates.
+Current Analytics data suggests that roughly 30% of veterans who enter the online scheduling flow are able to complete the flow (by either requesting or directly scheduling an appointment). There are some systematic issues that tie into this number (e.g., veterans may not be able to complete the flow for their combination of facility and care type), but we believe we can significantly improve the completion rates through better UX design. Better completion rates should translate into more satisfied veterans as well.
+
+#### Revising the content of the scheduling tool with an eye toward plain language will improve veteran satisfaction and completion rates.
+Scheduling options are confusing. Not all appointments can be directly scheduled, not all facilities are available to a veteran, not all care types are avaialable within a given facility, Community Care has specific eligibility requirements that aren't necessarily clear, it's not always clear how to book over the phone if online isn't an option, etc. We believe we can improve veteran satisfaction and completion rates by better explaining options to veterans, and providing more actionable next steps for completing appointment scheduling in cases where booking or requesting online isn't possible.
+
+#### Rewriting the tool on the VA.gov platform (instead of via VA Mobile App Store) using established design patterns will improve long-term maintainability, sustainability, and iteration speed.
+Rewritting the veteran-facing scheduling application on VA.gov will give us access to shared resources across product, devops, design, research, issue triage, and insights/analytics. Additionally, VA.gov already has established design and front end patterns that we can reuse, while also giving us the ability to deploy to production at will.
+
+#### Hosting the tool on VA.gov will improve discoverability and overall veteran experience.
+Veterans are already familiar with VA.gov and understand how to interact with the VA thorugh it. Moving the scheduling experience to VA.gov will improve the visibility and discoverability of the tool, while using existing VA.gov design patterns will improve cohesion and veteran comfort with using the tool to complete scheduling tasks.
+
+
+### MVP Implementation [WIP]
 [Initial prototype based on DSVA research](https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622434)
 
 MVP Definition
-- Initial data in Analytics suggests that direct-scheduling Primary Care with a veteran's PACT team could account for ~50% of existing tool usage (need to cross-reference this with other data)
+- Initial data in Analytics suggests that direct-scheduling Primary Care accounts for ~45% of existing tool usage (need to cross-reference this with other data)
   - This approach would require discovery for the calendar date picker UX
   - May wish to start with something simpler, which would be a lower-cost test both in terms of traffic and dev time
-  
+ - Appointments seems fairly straight-forward and important
+  - How to reduce confusion between MHV and this list?
+
  Beta conversation
  - Another option would be to leverage our ability to offer a beta app on VA.gov (not mutually exclusive with a limited-scope MVP)
+ 
+ Open question: is the provider-centric view possible pre-Cerner?
 
-## Value Propositions
+## Value Propositions [WIP]
 
 #### User Value
+Provides a better user experience that makes it easier for veterans to directly schedule or request a healthcare appointment. The experience is integrated and cohesive with VA.gov, which is already a property with which many veterans are familiar.
 
 #### Business Value
+Better trust and satisfaction with the VA. More appointments scheduled and requested online, reducing support costs for phone-based bookings.
 
 ## KPIs
+
 
 ### Goals
 - Increase percent of appointments scheduled online
