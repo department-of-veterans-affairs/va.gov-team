@@ -34,56 +34,65 @@ Alright. Thanks again for giving us some of your time today.
 
 We have 3 different ideas we want to talk to you about in the next 30 min, so it might feel like I'm jumping around a little.
 
-## First Section: Urgent Care/Express Care Access - 10 minutes
+## First Section: VA and Mobile Interactions - 5 minutes
 
 
 ### Questions
-* How often do you get care in a VAMC or VA clinic during a given year?
+* How many times do you visit your local VAMC or VA clinics in a year?
+* How do you access healthcare online with the VA?
+* How do you access this online care? (home computer, tablet phone?)
+* Do you have a smartphone?
+* Do you use a lot of apps?
+  *   Why not?
+* Do you use any health tracking apps?
+* Would you be interested in sharing that kind of information with your VA doctor?
+* Have you ever been prescribed or recommended an application by your doctor?
+* Have you ever heard of VA apps?
 
-* When you have an urgent care need, what do you do?
-* If you had an urgent need, are there circumstances where you'd start by seeking out care or advice online?
-* What kind of support or answers would you be looking for?
+Ok thanks, I’m now going to share my screen with you, to show you some mobile phone interactions for a new VA app we are considering building.
+This is the very early stages so what you’ll see is very barebones and you can not actually click on anything, so I’ll be navigating through the screens. Also, I did not create these drawings so you will not offend me in any way with your comments. So please speak openly.
+Ready?
 
-[**Show/share urgent**]
+[Show Login Screen]
 
-* Can you talk me through the process you're seeing here?
-* Would you use something like this during an urgent care situation?
-* Why? Why not?
 
-## Second Section: Prescribing Mobile Application Use - 10 minutes
+
+## Second Section: Mobile App flow - 15 minutes
 
 ### Questions
-* How would you react if a Provider recommended that you track your sleep?
-* What would you do next?
-  * If they don't assume it's mobile: What if it was mobile.
-* What would be the most effective way for you to be reminded to use this app?
+* So what do you think of this?
+* What would be your preferred login method?
 
-## Third Section: Managing Multiple Tools - 10 minutes
+Ok great, let’s imagine you have successfully logged in and this is your home screen.
 
-### Questions
-* So let’s say your doctor has asked you to share your data with them through a few apps. 
-* Let’s say your tracking and sharing all of these:
-  * Blood pressure
-  * Steps
-  * Sleep
-  * MyFitnessPal Food Tracking
-* Do you want to see all of the data that you’re sharing with your provider?
-  * If so, what would that access help you with?
-  * If so, how would you expect to access it?
-* What would be your approach to managing the use of all of these tracking activities?
+* Walk me through, what you see. Speak all your thoughts out loud and let me know if you have questions about functionality on this screen.
+
+Ok thanks, now let’s imagine you are using some health apps to share your progress with your doctor. 
+Where would you go to see that information?
+
+[Transition to next screen.]
+
+* Ok walk me through what you are seeing here.  Speak all your thoughts out loud and let me know if you have questions about functionality on this screen.
+
+* What would you be interested in looking at first?
+
+Oh, looks like you got a notification.
+
+* What do you think about this notification?
+* What would you expect to happen once you clicked on it?
+
+Wrap-up.
+
+
 
 ## Post-Task Wrap Up - 5 minutes
 
 On a scale of 1 -5 (1 as not useful at all, 5 as extremely useful)
-* How useful would it be for you to have a single portal to show all of the data?
-  * Why or why not?
-* How useful would it be for you to have access to all of these tracking tools one place?
-  * Why or why not?
 * How likely is it you would use something like that?
   * Why or why not?
 
 
-## Thank-You and Closing - 5 minutes
+## Thank-You and Closing - 1 minute
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
