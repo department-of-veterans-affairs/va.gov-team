@@ -31,7 +31,7 @@ Broken out by page (Design: https://adhoc.invisionapp.com/share/WATIINRHZ3F)
 - https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622447 (provider choice)
    - List of providers across facilities
       - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/pact-team`
-   - GAP: How do we schedule against them directly? Is this the same as scheduling a clinic? The data we have isn't clearly associated with a clinic
+   - GAP: What about other, non-PACT, providers? How do we schedule against them directly? Is this the same as scheduling a clinic? The data we have isn't clearly associated with a clinic
 - https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470 (calendar page)
    - Clinics supporting direct scheduling
       - `/VeteranAppointmentRequestService/v4/rest/clinical-services/patient/{assigning-authority}/{patient-id}/clinics`
