@@ -30,7 +30,7 @@ Extra releases to “just get something out sooner” will not be approved.
 
 # Rails Database Migrations
 
-Whether your code was part of an automatic or manual deploy, if a Rails database migration is needed for your code to work successfully, that is handled through a separate process: 
+If a Rails database migration is needed for your code to work successfully, that is handled through a separate process:
 
 
 
