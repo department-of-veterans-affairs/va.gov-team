@@ -8,6 +8,6 @@ This form, as all web forms on VA.gov, will be a React application that ties int
 
 ## Submitting the form
 
-It seems that an initial requirement of this form is that it not only submit to the VA.gov API, so that it can be associated with a caregiver's account, but also to the CARMA system. This could present complications as defining a custom submission that goes to two URLs will be an extension of the standard form functionality.
+It seems that an initial requirement of this form is that it not only submit to the VA.gov API, so that it can be associated with a caregiver's account, but also to the CARMA system. *This could present complications as defining a custom submission that goes to two URLs will be an extension of the standard form functionality.*
 
 Most of the needed info is located [here](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-website/architecture.md)
