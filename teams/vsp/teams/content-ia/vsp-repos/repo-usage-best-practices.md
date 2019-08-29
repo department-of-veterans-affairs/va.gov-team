@@ -10,5 +10,5 @@ Determine where your file should go and how to name them...
 ## Platform, Products and Teams oh my! (Where Does My File Belong?)
 
 
-## Creating Sub-Folders
+## When to Create Child Folders
 
