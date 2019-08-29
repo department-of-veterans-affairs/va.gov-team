@@ -19,6 +19,6 @@ The following list is a set of resources for practicing IA on VA.gov and to help
     - [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/Template%20Guidelines%20-%20Hub%20Page.md)
 
 - Working Documents and Current Site Documentation
-    - [Master URL Mapping]() (Official source of truth on IA and URLs)
+    - [Master URL Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/Master%20URL%20Mapping.md) (Official source of truth on IA and URLs)
     - [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/Site%20Map)
     - [XML Sitemap](https://www.va.gov/sitemap.xml)
