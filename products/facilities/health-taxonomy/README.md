@@ -5,10 +5,20 @@
 - Coordinated information and service offerings leverage the reuse (and not duplication) of relevant content
 - A taxonomy and related metadata can support programmatic cross-referencing capabilities via content types along with meaningful measurement
 
-## Discovery (Current State)
+## Discovery 
+
+### Current state
+Since each VA Health System is solely responsible for their websites, multiple issues arise
+
+- There is no way to support standards due to the decentralized reporting structure
+- Some facilities have more resources than others so some sites are more robust than others
+- There is very little cross-facility/system/VISN communication regarding cross-linking needs
+- There is no way to ensure consistency across how facilities describe their service offerings
+
+### An audit of all A-Z Health Services across VA Facilities
 The National VA (Health) Services list represents an audit and consolidation of existing VHA services classifications including:
 
-### External classifications
+#### External classifications
 - All A-Z services listed across all 145 websites | <https://airtable.com/tblEvsCzOVX1ybpZg/viwUDT2SG29bLzEO1?blocks=bipenKkDclMfVPw9z>
 - 12 Health Services included in the facilties API 
 - VA Provider search service line listings | <https://www.accesstocare.va.gov/OurProviders/SearchResults#!#f=8&s=30&>
@@ -16,7 +26,7 @@ The National VA (Health) Services list represents an audit and consolidation of 
 - Specialty care services | <https://www.va.gov/healthbenefits/access/specialty_care_services.asp>
 - Veterans Health Library topics | <https://airtable.com/tbln9CCnBhvF1dWpe/viw5vV0yyyOInxnWC?blocks=bipenKkDclMfVPw9z>
 
-### Internal classifications
+#### Internal classifications
 - VHA Stop Codes | <https://airtable.com/tbl0Cdq8ngajAIUbx/viw5MICBjNRSMNK63?blocks=bipenKkDclMfVPw9z>
 - Disability Benefits Questionnnaires (DBQs)| <https://airtable.com/tblu6wEmqyg1460D4/viwcXkbhWdZunEOMK?blocks=bipenKkDclMfVPw9z>
 - VHA Treating Specialty Codes | <https://airtable.com/tblvGY8jsr2HLxcmQ/viwa7AeSIebq98V0m?blocks=bipenKkDclMfVPw9z>
