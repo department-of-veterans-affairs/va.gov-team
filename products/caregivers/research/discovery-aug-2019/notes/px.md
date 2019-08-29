@@ -41,7 +41,7 @@ View the [research plan](./research-plan.md).
 
 #### Moderator: Sure, where do you live, what's your occupation, hobbies...
 
-**Veteran**: I live in Arkansas, I have some college education, I pretty much went straight into the work force and once the war happened, I wanted to go to the army. I tried doing some school after, but it didn't work for me because of my medical situation. Basically I'm um... I don't know where to go here because my life is very complicated, I'm not really a normal person. Yeah, I don't know hwere to go.
+**Veteran**: I live in Arkansas, I have some college education, I pretty much went straight into the work force and once the war happened, I wanted to go to the army. I tried doing some school after, but it didn't work for me because of my medical situation. Basically I'm um... I don't know where to go here because my life is very complicated, I'm not really a normal person. Yeah, I don't know where to go.
 
 #### Moderator: Are you pre- or post-9/11?
 
