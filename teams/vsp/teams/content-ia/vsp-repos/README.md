@@ -10,7 +10,7 @@ This work effort includes identifying what GH repo(s) to use, defining a structu
 
 ### Goals ###
 - Implement a user-centered IA for VFS Team resources within GitHub
-- User Store: - As a member of any team building on or with VSP, I need to be able to easily navigate platform documentation so I can quickly find what I need to do my job.
+- User Story - As a member of any team building on or with VSP, I need to be able to easily navigate platform documentation so I can quickly find what I need to do my job.
 
 ### Benefits ###
 - Single place for teams to find information at any point during the project
@@ -19,7 +19,7 @@ This work effort includes identifying what GH repo(s) to use, defining a structu
 
 ### Approach/Decisions ###
 
-- Two repos will be used to for VSP and VFS documentation
+- Two repos will be used for VSP and VFS documentation
   - va.gov-team repo - A public repo that will be primary repo for all documentation and artifacts for all teams building on and with the platform. 
   - va.gov-team-sensitive - A private repo that will be used to store information and documents that should not be publicly visible for privacy and security reasons.
   
@@ -48,6 +48,9 @@ https://docs.google.com/spreadsheets/d/1waFEAra9aeXK4UFp-ODMbCcKC4MHDZCFel8Oahb2
 https://docs.google.com/spreadsheets/d/18OP-vOKGYDrOKSXDkumrm-TP4YDFk-lAH6asVSkoFvg/edit?usp=sharing
 
 
+### Future Work ###
 
+- Creation of a "portal site" that VFS teams can use as a front door to easily find documentation
+- Organization of all developer repos
 
   
