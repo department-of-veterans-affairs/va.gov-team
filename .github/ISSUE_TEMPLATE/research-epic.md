@@ -17,6 +17,7 @@ _What outcome(s) do we want to see?_
 
 ```
 - Create research plan
+- Recruit participants
 - Prepare [x] thing to be tested (for example: low-fi prototype, staging site, heroku page, paper prototype, card sort, tree test, chalkmark test, etc.)
 - Create Conversation Guide
 - Conduct Research Sessions (at a minimum, the team lead, PM, content person should join these sessions. FE/BE should also join!)
