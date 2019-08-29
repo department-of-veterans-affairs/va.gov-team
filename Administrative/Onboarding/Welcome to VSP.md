@@ -52,9 +52,9 @@ Create content as a part of every online experience - whether it's button labels
 
 ### Information architecture
 
-Determine the most intuitive place for Veterans to access your application, the appropriate taxonomy for the URL, and the cross-linking strategy.
+Determine the most intuitive place for Veterans to access your application, the appropriate URL, placement in navigation, and the cross-linking strategy.
 
-- [Here are the best practices on writing URLs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/URL%20Creation%20Process%20and%20Guidelines.md).
+- [Here are the best practices on writing URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md).
 - You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can decide on your cadence for IA check ins.
 
 ### Engineering
