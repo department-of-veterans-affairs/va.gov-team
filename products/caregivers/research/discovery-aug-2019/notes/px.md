@@ -171,7 +171,7 @@ View the [research plan](./research-plan.md).
 
 #### Moderator: Ok, so mostly through Facebook groups and resources outside the VA? Did you find any resources through the VA website?
 
-**Caregiver**: THe VA website is very complicated I feel. Usually the search bar brings up not just your specific VA but the whole VA system. It took a lot of time. No help was given from within the VA, diecting me hey go here or here is the form number. It was all strictly my research alone.
+**Caregiver**: THe VA website is very complicated I feel. Usually the search bar brings up not just your specific VA but the whole VA system. It took a lot of time. No help was given from within the VA, directing me, "Hey go here," or "Here is the form number." It was all strictly my research alone.
 
 #### Moderator: If you were to apply for the caregivers program again, would it be helpful for you to follow a similar procedure of filling out the form again? Or online?
 
@@ -183,7 +183,7 @@ View the [research plan](./research-plan.md).
 
 **Veteran**: I think the VA likes to count on the person that is supposed to help - what are they called? The patient advocate. Their intention is to rely on them a lot to give the info to the soldiers that ask for it and need it. In my experience, the patient advocate is not on my side. I asked for help from them when my doctor wasn't helping, and they turned around and told my doctor. I can't go to them and ask for help with this because I can't even trust them to not rat me out to my doctor. All of it needs to be online and available for people like us who want to search and get it on our own. If it's up to the VA, there are bad apples in the system and if they are the only source of information then we as the soldier are screwed.
 
-**Caregiver**: Having a central location and login, having different tabs and a search bar so I can look for what I'm needing that day and it can point me in that direction so I'm not using the google search bc that is very labor intensoive.
+**Caregiver**: Having a central location and login, having different tabs and a search bar so I can look for what I'm needing that day and it can point me in that direction so I'm not using the google search because that is very labor intensive.
 
 #### Moderator: Can you tell me about your experience using technology?
 
@@ -193,7 +193,7 @@ View the [research plan](./research-plan.md).
 
 **Caregiver**: No, we do not.
 
-[Convo between CG and PX about enlarging text on phone]
+[Side convo between Caregiver and Veteran about enlarging text on phone]
 
 #### Moderator: How do you feel about sharing your personal info with VA.gov as part of the process?
 
@@ -205,7 +205,7 @@ View the [research plan](./research-plan.md).
 
 **Caregiver**: [_laughs_] I'm more of the reminder.
 
-**Veteran**: When I was on a lot of meds, it made it a lot easier to refill prx online. I like that online interactive. To be honest, I feel like as much as I can do on my own, I would like that. I would like to do as much as possible on my own but when I need help then I can go and talk to someone. All the online pharmacy stuff and appointment stuff is pretty good and functional.
+**Veteran**: When I was on a lot of meds, it made it a lot easier to refill prescriptions online. I like that online interactive. To be honest, I feel like as much as I can do on my own, I would like that. I would like to do as much as possible on my own but when I need help then I can go and talk to someone. All the online pharmacy stuff and appointment stuff is pretty good and functional.
 
 **Caregiver**: Yeah they are.
 
