@@ -1,3 +1,6 @@
+**```This section of va.gov-team repo will be deprecated, please do not add any new folders to this section. Post questions in #vfs-platform-support channel```**
+
+
 # Practice Areas on VA.gov
 This folder is for navigating to the documentation & resources that pertain to your specific area of focus.
 
