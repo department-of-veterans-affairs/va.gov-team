@@ -1,8 +1,8 @@
 ---
-name: Discovery Epic
-about: For discovery work
-title: Discovery Epic
-labels: discovery
+name: Discovery Research Epic
+about: For discovery research
+title: Discovery Research Epic
+labels: discovery, research
 assignees: ''
 
 ---
@@ -26,4 +26,4 @@ _What outcome(s) do we want to see?_
 ```
 
 ## How to configure this issue
-- [ ] **Labeled with `Discovery` and `team-name`**
+- [ ] **Labeled with `discovery` and `research` and `team-name`**
