@@ -10,7 +10,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is **Caitlin** and I also have some colleagues on the line observing and taking notes. Today we're going to talk about some of your interactions with VA tools and how you access healthcare from the VA.
+Thanks for joining us today! My name is **Alexis** and I also have some colleagues on the line observing and taking notes. Today we're going to talk about some of your interactions with VA tools and how you access healthcare from the VA.
 
 Before we start, a few things I want to mention:
 
@@ -63,6 +63,8 @@ Ready?
 * So what do you think of this?
 * What would be your preferred login method?
 
+[Transition to Home Screen]
+
 Ok great, let’s imagine you have successfully logged in and this is your home screen.
 
 * Walk me through, what you see. Speak all your thoughts out loud and let me know if you have questions about functionality on this screen.
@@ -87,7 +89,7 @@ Wrap-up.
 
 ## Post-Task Wrap Up - 5 minutes
 
-On a scale of 1 -5 (1 as not useful at all, 5 as extremely useful)
+On a scale of 1 - 5 (1 as not useful at all, 5 as extremely useful)
 * How likely is it you would use something like that?
   * Why or why not?
 
