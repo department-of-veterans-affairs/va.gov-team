@@ -11,15 +11,13 @@ View the [research plan](./research-plan.md).
 ##  Introduction
 (About 5 minutes)
 
-Thank you for joining us today! My name is Riley. I am a designer and researcher for VA.gov and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience applying to receive caregiver assistance.
+#### Moderator: Thank you for joining us today! My name is Riley. I am a designer and researcher for VA.gov and I also have some colleagues on the line observing and taking notes. Today we're going to talk about your experience applying to receive caregiver assistance. Are you familiar with that program?
 
-#### Moderator: Are you familiar with that program?
-
-Somewhat. My wife is more so familiar.
+**Veteran**: Somewhat. My wife is more so familiar.
 
 #### Moderator: Have you applied to that program?
 
-Yes, with my wife being the caregiver.
+**Veteran**: Yes, with my wife being the caregiver.
 
 #### Moderator: Okay, great. Before we start, I want to mention a few things:
 
@@ -31,7 +29,7 @@ Yes, with my wife being the caregiver.
 
 - Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately.
 
-Participant: Yes, that's fine.
+**Veteran**: Yes, that's fine.
 
 *Start recording.*
 
@@ -39,55 +37,55 @@ Participant: Yes, that's fine.
 
 #### Moderator: Can you tell me a little about yourself? (If stuck, ask about service, location, occupation, etc.)
 
-In what way? Personality, or...?
+**Veteran**: In what way? Personality, or...?
 
 #### Moderator: Sure, where do you live, what's your occupation, hobbies...
 
-I live in Arkansas, I have some college education, I pretty much went straight into the work force and once the war happened, I wanted to go to the army. I tried doing some school after, but it didn't work for me because of my medical situation. Basically I'm um... I don't know where to go here because my life is very complicated, I'm not really a normal person. Yeah, I don't know hwere to go.
+**Veteran**: I live in Arkansas, I have some college education, I pretty much went straight into the work force and once the war happened, I wanted to go to the army. I tried doing some school after, but it didn't work for me because of my medical situation. Basically I'm um... I don't know where to go here because my life is very complicated, I'm not really a normal person. Yeah, I don't know hwere to go.
 
 #### Moderator: Are you pre- or post-9/11?
 
-Post 9/11.
+**Veteran**: Post 9/11.
 
 #### Moderator: Do you receive care from the VA?
 
-In my opinion, no, in VA's opinion yes.
+**Veteran**: In my opinion, no, in VA's opinion yes.
 
 #### Moderator: Do you regularly use a computer? Mobile device?
 
-Up until the military I was very into technology in most ways from coding to hardware. I did all kinds of things. After the military I didn't do much because I was in infantry. Tech wasn't really our focus. There was a big gap in tech that I missed out on. I got an iPhone after, PC kind of dwindled... I still kind of have knowledge but don't use it as often. I use iPhone and iPad today, but I'm knowledgeable in both.
+**Veteran**: Up until the military I was very into technology in most ways from coding to hardware. I did all kinds of things. After the military I didn't do much because I was in infantry. Tech wasn't really our focus. There was a big gap in tech that I missed out on. I got an iPhone after, PC kind of dwindled... I still kind of have knowledge but don't use it as often. I use iPhone and iPad today, but I'm knowledgeable in both.
 
 #### Moderator: Do you use any accessibility features on your devices, like enlarging text or voiceover?
 
-It depends on the website. Occasionally, I do zoom on things and have to enlarge text on things from time to time. 
+**Veteran**: It depends on the website. Occasionally, I do zoom on things and have to enlarge text on things from time to time. 
 
 #### Moderator: Are there certain types of interactions that are particularly challenging? 
 
-Um... with technology? 
+**Veteran**: Um... with technology? 
 
 #### Moderator: Yes.
 
-Oh okay. No... Can't think of anything.
+**Veteran**: Oh okay. No... Can't think of anything.
 
 #### Moderator: Can you tell me a little bit about your caregiver? Do they live with you?
 
-Yes. My wife. We've been married almost 16 years. I knew her well before the army and well after which prepared us greatly for our situation. To be honest, because of my medical situation, I'm childlike. I don't mean that mentally, I mean that in behavior. I have to be told a lot of things to do, reminded a lot of things. Her being my caregiver in my situation makes it simple, because she knows me. She helps me... it's really quite embarrassing, but I've lost a lot of memory and have trouble remembering things day to day. She has to remind me to take a shower, brush your teeth. She doesn't do them for me, but has to remind me. And sometimes she has to help me because I can't physically bend down and tie shoes and put socks on.
+**Veteran**: Yes. My wife. We've been married almost 16 years. I knew her well before the army and well after which prepared us greatly for our situation. To be honest, because of my medical situation, I'm childlike. I don't mean that mentally, I mean that in behavior. I have to be told a lot of things to do, reminded a lot of things. Her being my caregiver in my situation makes it simple, because she knows me. She helps me... it's really quite embarrassing, but I've lost a lot of memory and have trouble remembering things day to day. She has to remind me to take a shower, brush your teeth. She doesn't do them for me, but has to remind me. And sometimes she has to help me because I can't physically bend down and tie shoes and put socks on.
   
-#### Moderator:   She is your primary caregiver?
+#### Moderator: She is your primary caregiver?
   
-Yes.
+**Veteran**: Yes.
 
 #### Moderator: Do you know if your caregiver receives benefits from the VA?
 
-Oh no we were denied benefits. I was told based on my medical situation I don't qualify. But my situation is very complicated, my medical records got messed up very early on and it has snowballed.
+**Veteran**: Oh no, we were denied benefits. I was told based on my medical situation I don't qualify. But my situation is very complicated, my medical records got messed up very early on and it has snowballed.
    
 ## Questions: Veterans with caregivers who DO NOT receive benefits
 
 #### Moderator: How did you find the benefits?
    
-My wife found it - she started looking into how we could get help outside of primary care at VA. My doctor wasn't doing anything, so she explored other avenues and found Caregiver. We went through the application process and she did the online application.
+**Veteran**: My wife found it - she started looking into how we could get help outside of primary care at VA. My doctor wasn't doing anything, so she explored other avenues and found Caregiver. We went through the application process and she did the online application.
 
-I can't tell you exactly how to go through the process, this is where my memory stuff comes in. I can't remember what we did - we sat down, she asked me questions and fill in the answers. It was easy to apply, and easy to communicate with whoever she was talking to at the VA. I think the...VSO... whoever they are, the experience was easy. There were no complications or difficulties. She found it literally by googling what things she could do to help us. It was easy to find, easy to do.
+**Veteran**: I can't tell you exactly how to go through the process, this is where my memory stuff comes in. I can't remember what we did - we sat down, she asked me questions and fill in the answers. It was easy to apply, and easy to communicate with whoever she was talking to at the VA. I think the...VSO... whoever they are, the experience was easy. There were no complications or difficulties. She found it literally by googling what things she could do to help us. It was easy to find, easy to do.
 
 #### Moderator: I’m going to share my screen and show you a PDF version of the paper application form.
 
@@ -95,23 +93,25 @@ I can't tell you exactly how to go through the process, this is where my memory 
 
 #### Moderator: Does any of it look familiar?
 
-Not really, I recognize the format as the standard VA form... I don't remember seeing this specifically, though.
+**Veteran**: Not really, I recognize the format as the standard VA form... I don't remember seeing this specifically, though.
 
 [Moderator scrolls]
 
 #### Moderator: This is the section where the Veteran information would be. Here is where the Caregiver information would be. So your wife may have taken care of this part.
 
-I'm asking her to come back in the room so she can look at it. She'll recognize it right off. I don't know that I've seen it, but she does all the paperwork to be honest because my handwriting is so terrible. We would never do anything if it weren't for that.
+**Veteran**: I'm asking her to come back in the room so she can look at it. She'll recognize it right off. I don't know that I've seen it, but she does all the paperwork to be honest because my handwriting is so terrible. We would never do anything if it weren't for that.
 
 #### Moderator: Do you remember the signing process?
 
-No, I don't. But to be fair, I don't remember what I ate yesterday or if I ate yesterday so I'm not going to remember signing it. But I did. If my wife filled it out, I signed it.
+**Veteran**: No, I don't. But to be fair, I don't remember what I ate yesterday or if I ate yesterday so I'm not going to remember signing it. But I did. If my wife filled it out, I signed it.
 
 #### Moderator: If you were to apply again, would you think it's easier to do it online?
 
-I like to fill in the PDF style. Fill out the info, type it in, print it out, mail it in, sign it. My wife is back and she can hear you so if you have any questions...
+**Veteran**: I like to fill in the PDF style. Fill out the info, type it in, print it out, mail it in, sign it. My wife is back and she can hear you so if you have any questions...
 
 [Talks to his wife, describes the form]
+
+[Veteran's wife says hello]
 
 [Moderator describes the form, gives Veteran's wife context of the feedback session]
 
