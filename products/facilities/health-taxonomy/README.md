@@ -1,8 +1,7 @@
 # Why build an enterprise services taxonomy for VA.gov (and facilities websites)?
-
+- Coordinated information and service offerings leverage the reuse (and not duplication) of relevant content
 - Standardization leads to a predictable and familiar experience
 - Consistent service names and cross linking to relevant content (types) across organizations help users know how to navigate them
-- Coordinated information and service offerings leverage the reuse (and not duplication) of relevant content
 - A taxonomy and related metadata can support programmatic cross-referencing capabilities via content types along with meaningful measurement
 
 ## Discovery 
