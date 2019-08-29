@@ -39,10 +39,7 @@ The audit of A-Z Services pages on each of the 145 websites revealed that each f
 - Makes it difficult to reuse descriptive content about services across the ecosystem and crosslink it appropriately
 
 ## Files and documents
-Links to files hosted on GitHub inside this folder, and links to external files and resources (if applicable)
+An Exploration of Healthcare (and other) Servicesacross VA Facilities Websites: (Taxonomy Presentation) : https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/health-taxonomy/Exploration%20of%20Health%20Care%20Services%20on%20VA.gov.pptx
 
-## Recommendations
-What are the next steps? What should someone know to continue this work?
 
-## Etc.
-Add as many section as you need to memorialize this work for future teams.
+
