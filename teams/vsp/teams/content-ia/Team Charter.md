@@ -41,7 +41,7 @@ Uphold Content and Information Architecture (IA) usability and plain language st
 - VSP will provide IA reviews of VFS Teams' work following the VSP IA criteria and will provide feedback accordingly
 - VFS Teams will update their IA per the recommendations from VSP reviews
 
-## Product Portfolio
+## Product Portfolio (i.e. the features and services we provide)
 - [Content section of design.va.gov](https://design.va.gov/content-style-guide/)
 - [VSP Content review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
 - VA.gov IA best practices documentation
