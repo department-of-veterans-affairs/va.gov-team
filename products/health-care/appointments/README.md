@@ -132,6 +132,9 @@ We don't currently have a lot of insight into the performance of the veteran-fac
 #### Duplication in messaging options & platforms
 The existing VAOS solution supports messages / notifications from providers / schedulers. Additionally, veterans can write extra details in their appointment or appointment request, which will get relayed to providers along with the other appointment details. Responding to an appointment from their side will throw a message into the veteran's VAOS messaging queue that they can check from within the tool. However, this functionality duplicates Secure Messaging, which should be the hub for all messages between veterans and VA healthcare. We should do discovery research on what problems this is causing for veterans and what they'd like to see from VAOS messaging, and how to reduce duplication with other messaging tools.
 
+#### Ability to reschedule appointments
+Veterans can already cancel appointments - we may wish to hide some complexity for them by allowing them to 'reschedule' an appointment in the UI. This would require that we cancel the appointment and create a new one in its place behind the scenes. However, unclear whether this is something that veterans are currently asking for, and also unclear if there are any business rules for scheduling that might get in the way (e.g., if you're required to see a doctor within x days, but your rescheduled appointment would be outside that window, how would we know? Not sure if this - or anything else - is a real issue though).
+
 ## Solution Approach
 
 ### Strategic Bets
@@ -152,19 +155,40 @@ Veterans are already familiar with VA.gov and understand how to interact with th
 The current tool has little in the way of performance monitoring, latency is high due to old backend systems and service architecture that doesn't serve the needs of the existing front end (e.g., many calls for one resource), and developer speed is low due to challenges understanding the existing codebase & lack of dedicated SRE & devops expertise to help set the team up for success. Solving these key challenges will help us deliver a faster, more resilient, more efficient tool to veterans while reducing the long-term maintenance cost of the tool.
 
 ### MVP Implementation [WIP]
+The goal of the MVP is to improve discoverability and usability of VAOS by rewritting the tool on VA.gov using existing design patterns already implemented there. We will not be introducing any new features compared to the existing tool, but will instead focus solely on veteran-centered usability.
+
+  - KPIs
+    - overall veteran usage of the tool
+    - Task completion rates (requests, self-schedules)
+    - Veteran satisfaction rates & call center help requests
+  - Goals
+    - Increase the number of veterans entering the 'new appointment' flow compared to the existing tool
+    - Increase the percent of veterans who are able to successfully request or schedule an appointment after starting the 'new appointment' flow compared to the existing tool
+    - Decrease the number of call center support tickets created about VAOS
+
+To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mostly mirrors the functionality of the existing VAOS tool
+- Veterans can see their scheduled appointments (we may add functionality to view pending and past appointments as well)
+- Veterans can cancel an existing appointment
+- Veterans can see details about an appointment (which details are tbd)
+- Veterans can directly schedule a new appointment for a type of care, where possible
+- Veterans can request to schedule a new appointment for a type of care, where possible
+
+Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to handle:
+- Authentication with necessary VAMF services
+- Sending the front end data as efficiently as possible, in a schema that meets FE UX requirements
+
+Open MVP Items for discussion
+- Messaging: 1. move VAOS messaging to Secure Messaging (remove from VAOS), 2. add opt-out ability in emails, 3. email appt notifications to veterans
+  - Unclear what the lift to move to SM is (or whether they already show there)
+  - Need to think through UX of offering opt-out in-email
+- Provider-based scheduling: offer veterans an alternative to 'care type' flow by adding 'provider selection' option that allows veterans to book appointments with care workers / doctors who they've seen before
+  - Not sure if this is possible with current data, unclear what kind of lift this is or if possible at all pre-Cerner
+- Reschedule: Give veterans a 'reschedule' option that hides complexity of cancel / rebook process
+  - Needs scoping & discovery
+ 
+This prototypes mostly reflects what we're striving for with the MVP:
 [Initial prototype based on DSVA research](https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622434)
 
-MVP Definition
-- Initial data in Analytics suggests that direct-scheduling Primary Care accounts for ~45% of existing tool usage (need to cross-reference this with other data)
-  - This approach would require discovery for the calendar date picker UX
-  - May wish to start with something simpler, which would be a lower-cost test both in terms of traffic and dev time
- - Appointments seems fairly straight-forward and important
-  - How to reduce confusion between MHV and this list?
-
- Beta conversation
- - Another option would be to leverage our ability to offer a beta app on VA.gov (not mutually exclusive with a limited-scope MVP)
- 
- Open question: is the provider-centric view possible pre-Cerner?
 
 ## Value Propositions
 
