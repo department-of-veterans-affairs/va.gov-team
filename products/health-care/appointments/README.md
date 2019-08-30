@@ -172,10 +172,13 @@ To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mos
 - Veterans can see details about an appointment (which details are tbd)
 - Veterans can directly schedule a new appointment for a type of care, where possible
 - Veterans can request to schedule a new appointment for a type of care, where possible
+- Veterans can easily identify the 'next action' when the care they're seeking isn't available to them
 
 Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to handle:
 - Authentication with necessary VAMF services
 - Sending the front end data as efficiently as possible, in a schema that meets FE UX requirements
+
+We will also need to create content that will introduce the scheduling tool and give veterans actionable next steps in cases where they hit a wall (e.g., they're not registered anywhere, the care they want isn't avaialble at their registered sites, their site isn't configured for online scheduling, etc.).
 
 Open MVP Items for discussion
 - Messaging: 1. move VAOS messaging to Secure Messaging (remove from VAOS), 2. add opt-out ability in emails, 3. email appt notifications to veterans
@@ -189,6 +192,7 @@ Open MVP Items for discussion
 This prototypes mostly reflects what we're striving for with the MVP:
 [Initial prototype based on DSVA research](https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622434)
 
+Our aim is to perform usability testing on this MVP prototype quickly, and iterate on the actual flows for how veterans will be able to accomplish the stated goals before launching broadly. Our iteration may involve a beta release using the existing beta app infrastructure on VA.gov.
 
 ## Value Propositions
 
