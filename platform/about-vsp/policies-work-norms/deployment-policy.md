@@ -1,4 +1,5 @@
 Last updated 8-30-19
+
 # Automated Deploys
 
 There are automated deploys of `vets-api` and `vets-website` Monday through Friday. The release is created from `master` at 2 pm Eastern and deployed at 3 pm Eastern. Code merged to `master` after 2 pm Eastern will not be deployed until the next business day’s release. 
@@ -7,9 +8,16 @@ There are automated deploys of `vets-api` and `vets-website` Monday through Frid
 
 If there are days or periods of time when many people will be out of the office (i.e. holidays) the automated deploys will be suspended. If people aren’t in the office to support the code going out, it’s not responsible to release. 
 
-## Holiday release schedule
+### Holiday release freeze schedule
 
-TODO(gunsch): add 2019 holiday release schedule
+Automated releases will not occur on the following days, due to holidays:
+
+#### 2019
+
+* 9/2 - **Labor Day**
+* 11/11 - **Veterans Day**
+* 11/27 - 11/29 - **Thanksgiving**
+* 12/23 - 1/3/2020 - **Winter holiday freeze** (Note: *two weeks*)
 
 # Requesting Out-of-Band Deploys
 
