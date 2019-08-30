@@ -1,5 +1,5 @@
 # VA Online Scheduling Product Outline
-- GitHub Label: vaos [TODO: add filtered GH link]
+- GitHub Label: [vaos](https://github.com/department-of-veterans-affairs/va.gov-team/issues#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vaos&repos=133843125&showPipelineDescriptions=false)
 - Chat
   - [VA PPG Team Slack](vappgteam.slack.com)
   - [DSVA Team Slack - VAOS channel](https://app.slack.com/client/T03FECE8V/CMNQT72LX)
