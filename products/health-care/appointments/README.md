@@ -109,6 +109,8 @@ Generally, veterans are able to self-schedule for Primary Care with their PACT (
 ##### Registration happens offline & must be done per-region
 An additional limitation is that a veteran must be registered with a VA region, which is an offline process that happens their VA facility or over the phone before they're able to use the online scheduling tool. Worse, the registration isn't national since VistA instances are deployed at the regional level - so while you may be able to seek care at your local VAMC via online scheduling, you will not have the option to online schedule after moving to a new state. There is no way to register online.
 
+##### Drive Time must be integrate
+
 
 ### Areas for Further Exploration
 
@@ -172,7 +174,9 @@ To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mos
 - Veterans can see details about an appointment (which details are tbd)
 - Veterans can directly schedule a new appointment for a type of care, where possible
 - Veterans can request to schedule a new appointment for a type of care, where possible
+- Veterans can request to schedule a new appointment for Community Care for a given type of care (this implies checking CC eligibility using CCE API, which includes Drive Time checks)
 - Veterans can easily identify the 'next action' when the care they're seeking isn't available to them
+- Veterans will receive confirmation and update notifications via email (and have means of opt-out either in the email or via their VA.gov account).
 
 Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to handle:
 - Authentication with necessary VAMF services
@@ -181,9 +185,7 @@ Additionally, the front end will need to talk to a new vets-api wrapper for the 
 We will also need to create content that will introduce the scheduling tool and give veterans actionable next steps in cases where they hit a wall (e.g., they're not registered anywhere, the care they want isn't avaialble at their registered sites, their site isn't configured for online scheduling, etc.).
 
 Open MVP Items for discussion
-- Messaging: 1. move VAOS messaging to Secure Messaging (remove from VAOS), 2. add opt-out ability in emails, 3. email appt notifications to veterans
-  - Unclear what the lift to move to SM is (or whether they already show there)
-  - Need to think through UX of offering opt-out in-email
+- Move messages sent from VAOS / Schedule Manager to Secure Messaging.
 - Provider-based scheduling: offer veterans an alternative to 'care type' flow by adding 'provider selection' option that allows veterans to book appointments with care workers / doctors who they've seen before
   - Not sure if this is possible with current data, unclear what kind of lift this is or if possible at all pre-Cerner
 - Reschedule: Give veterans a 'reschedule' option that hides complexity of cancel / rebook process
