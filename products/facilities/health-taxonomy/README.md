@@ -4,7 +4,7 @@
 - Consistent service names and cross linking to relevant content (types) across organizations help users know how to navigate them
 - A taxonomy and related metadata can support programmatic cross-referencing capabilities via content types along with meaningful measurement
 
-# How might we use a unified Services taxonomy (use cases)?
+# How might we use a unified services taxonomy (use cases)?
 ## Internal organization use cases:
 
 - A central office employee wants to map the Veteran-facing services taxonomy and related components in the CMS to the classifications in the Access to Care, and VA Online Scheduling (VAOS) systems (Dave Mazik's use case) 
