@@ -1,33 +1,63 @@
 openapi: 3.0.0
 info:
-  description: "This is an initial draft of the VAOS wrapper for vets-api"
-  version: "0.0.1"
-  title: "VAOS API Wrapper Draft"
+  description: 'This is an initial draft of the VAOS wrapper for vets-api'
+  version: '0.0.1'
+  title: 'VAOS API Wrapper Draft'
 servers:
   - url: http://api.va.gov/v0/vaos
     description: New path on existing vets-api
 tags:
-- name: "Appointments"
-  description: "Endpoints related to confirmed (booked) appointments"
-- name: "Requests"
-  description: "Endpoints related appointment requests"
-- name: "Systems"
-  description: "Endpoints related to VHA health systems"
-- name: "Facilities"
-  description: "Endpoints related to VHA health facilities"
-- name: "Community Care"
-  description: "Endpoints related to Community Care"
-  externalDocs:
-    description: "Find out more about our store"
-    url: "http://swagger.io"
+  - name: 'Appointments'
+    description: 'Endpoints related to confirmed (booked) appointments'
+  - name: 'Requests'
+    description: 'Endpoints related appointment requests'
+  - name: 'Systems'
+    description: 'Endpoints related to VHA health systems'
+  - name: 'Facilities'
+    description: 'Endpoints related to VHA health facilities'
+  - name: 'Community Care'
+    description: 'Endpoints related to Community Care'
+    externalDocs:
+      description: 'Find out more about our store'
+      url: 'http://swagger.io'
 paths:
   /appointments/summary:
     get:
       tags:
-      - "Appointments"
-      summary: "Counts of confirmed/pending appointments"
-      description: ""
-      operationId: ""
+        - 'Appointments'
+      summary: 'Status check if user is eligible to schedule appointments, and counts of confirmed/pending appointments'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622435">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>ICN or some kind of indication that person is a VA patient
+            <ul>
+              <li><code>/users/v1/session/mhpuser</code></li>
+            </ul>
+          </li>
+          <li>Registered at at least one facility
+            <ul>
+              <li><code>/users/v1/session/identifiers.json</code></li>
+            </ul>
+          </li>
+          <li>Right of access accepted flag
+            <ul>
+              <li><code>/users/v1/session/mhpuser</code></li>
+            </ul>
+          </li>
+          <li>CC eligibility
+            <ul>
+              <li><code>/adr/v2/patients/{patient-icn}/eligibility/communityCare</code></li>
+            </ul>
+          </li>
+          <li>Sites supporting VAR
+            <ul>
+              <li>Used to determine routing for initial new appointment page</li>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/facility-service/supported-facilities</code></li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
       responses:
         '200':
           description: OK
@@ -50,10 +80,29 @@ paths:
   /appointments:
     get:
       tags:
-      - "Appointments"
-      summary: "Returns array of all confirmed appointments"
-      description: ""
-      operationId: ""
+        - 'Appointments'
+      summary: 'Returns array of all confirmed appointments'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622474">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of confirmed appointments
+            <ul>
+              <li><code>/appointments/v1/patients/{patient-id}/appointments</code></li>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/booked-appointments</code>
+                (unused because telehealth is enabled?)</li>
+            </ul>
+          </li>
+          <li>Community care appointments are a separate endpoint, combined on front end
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/booked-cc-appointments</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
       responses:
         '200':
           description: OK
@@ -67,10 +116,10 @@ paths:
           description: Unexpected error
     post:
       tags:
-      - "Appointments"
-      summary: "Create a new confirmed appointment"
-      description: ""
-      operationId: ""
+        - 'Appointments'
+      summary: 'Create a new confirmed appointment'
+      description: ''
+      operationId: ''
       requestBody:
         $ref: '#/components/requestBodies/DirectScheduleBody'
       responses:
@@ -85,16 +134,27 @@ paths:
   /appointments/{appointmentId}:
     get:
       tags:
-      - "Appointments"
-      summary: "Returns a confirmed appointment and its details"
-      description: ""
-      operationId: ""
+        - 'Appointments'
+      summary: 'Returns a confirmed appointment and its details'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622475">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Doctor name, specialization</li>
+          <li>Address, date and time, purpose, type, contact info
+            <ul>
+              <li><code>/appointments/v1/patients/{patient-id}/appointments</code></li>
+            </ul>
+          </li>
+          <li>GAP: Don't see appt type, reason, doctor, specialization, or contact info in service</li>
+        </ul>
+      operationId: ''
       parameters:
         - name: appointmentId
           in: path
           required: true
           schema:
-            type : string
+            type: string
       responses:
         '200':
           description: OK
@@ -106,16 +166,16 @@ paths:
           description: Unexpected error
     delete:
       tags:
-      - "Appointments"
-      summary: "Cancel a confirmed appointment"
-      description: ""
-      operationId: ""
+        - 'Appointments'
+      summary: 'Cancel a confirmed appointment'
+      description: ''
+      operationId: ''
       parameters:
         - name: appointmentId
           in: path
           required: true
           schema:
-            type : integer
+            type: integer
             format: int64
             minimum: 1
       responses:
@@ -130,10 +190,22 @@ paths:
   /requests:
     get:
       tags:
-      - "Requests"
-      summary: "Returns array of all appointment requests"
-      description: ""
-      operationId: ""
+        - 'Requests'
+      summary: 'Returns array of all appointment requests'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622432">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of pending appointments
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
+              </li>
+            </ul>
+          </li>
+          <li>Community care requests are included in appointment request service</li>
+        </ul>
+      operationId: ''
       responses:
         '200':
           description: OK
@@ -147,10 +219,10 @@ paths:
           description: Unexpected error
     post:
       tags:
-      - "Requests"
-      summary: "Create a new appointment request"
-      description: ""
-      operationId: ""
+        - 'Requests'
+      summary: 'Create a new appointment request'
+      description: ''
+      operationId: ''
       requestBody:
         $ref: '#/components/requestBodies/RequestBody'
       responses:
@@ -165,16 +237,27 @@ paths:
   /requests/{requestId}:
     get:
       tags:
-      - "Requests"
-      summary: "Returns an appointment request and its details"
-      description: ""
-      operationId: ""
+        - 'Requests'
+      summary: 'Returns an appointment request and its details'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622433">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Clinic address, purpose, type, preferred dates, office number, contact number, call back time
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
       parameters:
         - name: requestId
           in: path
           required: true
           schema:
-            type : string
+            type: string
       responses:
         '200':
           description: OK
@@ -186,16 +269,16 @@ paths:
           description: Unexpected error
     delete:
       tags:
-      - "Requests"
-      summary: "Cancel an appointment request"
-      description: ""
-      operationId: ""
+        - 'Requests'
+      summary: 'Cancel an appointment request'
+      description: ''
+      operationId: ''
       parameters:
         - name: requestId
           in: path
           required: true
           schema:
-            type : string
+            type: string
       responses:
         '200':
           description: OK
@@ -208,8 +291,29 @@ paths:
   /systems/registered:
     get:
       tags:
-      - "Systems"
-      summary: "Returns list of systems a user is registered to and the type of care available"
+        - 'Systems'
+      summary: 'Returns list of systems a user is registered to and the type of care available'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of registered medical systems (with City/State)
+            <ul>
+              <li><code>/users/v1/session/identifiers.json</code></li>
+            </ul>
+          </li>
+          <li>Types of care available at each health system
+            <ul>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions</code>
+                <ul>
+                  <li>GAP: Currently the api is used to get the list of clinics in a system that have a type of care</li>
+                </ul>
+              </li>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/clinical-services/types-of-care</code></li>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/community-care-services/type-of-cares</code></li>
+            </ul>
+          </li>
+        </ul>
       responses:
         '200':
           description: OK
@@ -224,16 +328,16 @@ paths:
   /facilities/{facilityId}:
     get:
       tags:
-      - "Facilities"
-      summary: "Returns the details of a specific facility such as address and contact info"
-      description: ""
-      operationId: ""
+        - 'Facilities'
+      summary: 'Returns the details of a specific facility such as address and contact info'
+      description: ''
+      operationId: ''
       parameters:
         - name: facilityId
           in: path
           required: true
           schema:
-            type : string
+            type: string
       responses:
         200:
           description: OK
@@ -242,20 +346,41 @@ paths:
               schema:
                 $ref: '#/components/schemas/Facility'
         default:
-          description: Unexpected error        
+          description: Unexpected error
   /facilities/{facilityId}/available-appointments:
     get:
       tags:
-      - "Facilities"
-      summary: "Returns a list of available date/time slots for a specific clinic"
-      description: ""
-      operationId: ""
+        - 'Facilities'
+      summary: 'Returns a list of available date/time slots for a specific facility'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Clinics supporting direct scheduling
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/clinical-services/patient/{assigning-authority}/{patient-id}/clinics</code>
+              </li>
+              <li>This is probably a missing page, to pick one if necessary. We could possibility do an initial check on this
+                page to see if their selected clinic is on the list of clinics that support direct scheduling. If not, display
+                request flow instead of calendar</li>
+            </ul>
+          </li>
+          <li>Appointment slots
+            <ul>
+              <li>
+                <code>VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/available-appointment-slots</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
       parameters:
         - name: facilityId
           in: path
           required: true
           schema:
-            type : string
+            type: string
       responses:
         '200':
           description: OK
@@ -266,16 +391,16 @@ paths:
                 items:
                   type: string
                   format: datetime
-                  example: "2019-08-29T12:00:00Z"
+                  example: '2019-08-29T12:00:00Z'
         default:
           description: Unexpected error
   /community-care/eligibility:
     get:
       tags:
-      - "Community Care"
-      summary: "Returns whether use is eligible for community care"
-      description: ""
-      operationId: ""
+        - 'Community Care'
+      summary: 'Returns whether use is eligible for community care'
+      description: ''
+      operationId: ''
       responses:
         '200':
           description: OK
@@ -289,10 +414,10 @@ paths:
                     example: true
                   reason:
                     type: string
-                    example: "User is within x miles of facility"
-                  effectiveDate: 
+                    example: 'User is within x miles of facility'
+                  effectiveDate:
                     type: string
-                    example: "2017-10-08T23:35:12-05:00"
+                    example: '2017-10-08T23:35:12-05:00'
         default:
           description: Unexpected error
 components:
@@ -307,19 +432,19 @@ components:
             properties:
               facilityId:
                 type: string
-                example: "888"
+                example: '888'
               requestDateTime:
                 type: string
                 format: date
-                example: "2019-08-29T12:00:00Z"
+                example: '2019-08-29T12:00:00Z'
               requestDateTimeAlternate1:
                 type: string
                 format: date
-                example: "2019-08-29T13:00:00Z"
+                example: '2019-08-29T13:00:00Z'
               requestDateTimeAlternate2:
                 type: string
                 format: date
-                example: "2019-08-29T14:00:00Z"
+                example: '2019-08-29T14:00:00Z'
               reason:
                 type: string
                 example: 'Routine/Follow-up'
@@ -343,11 +468,11 @@ components:
             properties:
               facilityId:
                 type: string
-                example: "888"
+                example: '888'
               appointmentDateTime:
                 type: string
                 format: date
-                example: "2019-08-29T12:00:00Z"
+                example: '2019-08-29T12:00:00Z'
               reason:
                 type: string
                 example: 'Routine/Follow-up'
@@ -364,12 +489,12 @@ components:
   schemas:
     System:
       properties:
-        id: 
+        id:
           type: string
-          example: "dfn-671"
+          example: 'dfn-671'
         name:
           type: string
-          example: "Spokane VAMC"
+          example: 'Spokane VAMC'
         facilities:
           type: array
           items:
@@ -385,7 +510,7 @@ components:
           example: 'toc-101'
         label:
           type: string
-          example: "Primary Care"
+          example: 'Primary Care'
     Facility:
       properties:
         id:
@@ -393,19 +518,19 @@ components:
           example: '888'
         name:
           type: string
-          example: "Washington VA Medical Center"
+          example: 'Washington VA Medical Center'
         type:
           type: string
-          example: "VAMC"
-        address: 
+          example: 'VAMC'
+        address:
           type: string
-          example: "50 Irving St NW"
-        city: 
+          example: '50 Irving St NW'
+        city:
           type: string
-          example: "Washington"
-        state: 
+          example: 'Washington'
+        state:
           type: string
-          example: "DC"
+          example: 'DC'
         directScheduleEnabled:
           type: boolean
           example: true
@@ -419,13 +544,13 @@ components:
           example: '123'
         facilityId:
           type: string
-          example: "888"
+          example: '888'
         facility:
           $ref: '#/components/schemas/Facility'
         dateTime:
           type: string
           format: date
-          example: "2019-08-29T12:00:00Z"
+          example: '2019-08-29T12:00:00Z'
         reason:
           type: string
           example: 'Routine/Follow-up'
@@ -452,21 +577,21 @@ components:
           example: '123'
         facilityId:
           type: string
-          example: "888"
+          example: '888'
         facility:
           $ref: '#/components/schemas/Facility'
         requestDateTime:
           type: string
           format: date
-          example: "2019-08-29T12:00:00Z"
+          example: '2019-08-29T12:00:00Z'
         requestDateTimeAlternate1:
           type: string
           format: date
-          example: "2019-08-29T13:00:00Z"
+          example: '2019-08-29T13:00:00Z'
         requestDateTimeAlternate2:
           type: string
           format: date
-          example: "2019-08-29T14:00:00Z"
+          example: '2019-08-29T14:00:00Z'
         reason:
           type: string
           example: 'Routine/Follow-up'
@@ -488,10 +613,10 @@ components:
       properties:
         teamSid:
           type: string
-          example: "1400018881"
+          example: '1400018881'
         teamName:
           type: string
-          example: "Green-four"
+          example: 'Green-four'
         staff:
           type: array
           items:
@@ -499,11 +624,7 @@ components:
             properties:
               name:
                 type: string
-                example: "McBride, Samantha M"
+                example: 'McBride, Samantha M'
               title:
                 type: string
-                example: "Registered Nurse (RN)"
-              
-
-  
-      
+                example: 'Registered Nurse (RN)'
