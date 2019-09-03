@@ -28,15 +28,11 @@ The following list is a set of resources to help you do your work and answer con
     - [Form label masterlist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/site-wide-issues/Form%20label%20masterlist.xlsx) 
     - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
     - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)
+    - [Crafting content that supports a Veteran-first digital experience](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/content-style-guide-training-with-VHA-071119.pdf)
 - VA.gov content strategy guides
     - [Strategy for the new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/VA.gov%20Relaunch%202018/new-vagov-strategy)
     - [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/DigitalModernizationStrategy.pdf)
-    - [Web brand consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
-- Content team checklists    
-    - [Content launch checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/new-content-launch.md)
-    - [Writing/editing short UX text](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/rewrite-or-edit-short-UX-text.md)
-    - [Copy edit checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/copyedit-checklist.md)
-    - [Proofreading/QA checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/proofreading-QA-checklist.md)    
+    - [Web brand consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)  
 - SEO resources
     - [Writing for SEO](https://design.va.gov/content-style-guide/seo)
     - [Meta and title tag guidelines](https://design.va.gov/content-style-guide/seo#meta-properties)
@@ -47,7 +43,12 @@ The following list is a set of resources to help you do your work and answer con
 - Drupal (CMS) resources
     - [Tier 1 benefit content CMS workflow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/Tier-1-benefit-content-CMS-workflow-071119-combined.pdf)
     - [UAT process for content migration](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/UAT-process-for-content-migration.md)
-
+- Historical process: Content team checklists    
+Please note: Some of the documented lists and processes listed below are evolving or no longer 100% valid as we move from Github to Drupal.
+    - [Content launch checklist--Historical process](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/new-content-launch.md)
+    - [Writing/editing short UX text](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/rewrite-or-edit-short-UX-text.md)
+    - [Copy edit checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/copyedit-checklist.md)
+    - [Proofreading/QA checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/proofreading-QA-checklist.md)  
 
 
  
