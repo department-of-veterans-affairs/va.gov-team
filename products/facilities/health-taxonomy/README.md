@@ -15,7 +15,7 @@
 
 ## External/Customer use cases:
 
-- A Veteran with hearing loss searching for a hearing test who can describe his symptoms but is not familiar with the clinical/formal names of the services that treat his symptoms or condition. 
+- A Veteran with hearing loss searching for a hearing test who can describe his symptoms but is not familiar with the clinical/formal names of the services that treats his symptoms or condition. 
 - A medical student searching for residency programs in psychiatry finds applicable training programs that are linked to relevant Services at VA facilities that offer residency rotations or residency programs in psychiatry. 
 - A caregiver who is searching to find services and programs applicable to their situation. purchase carry-on luggage and wants to filter results by price, color, and positive reviews.
 
