@@ -3,7 +3,7 @@
 * [View this page on Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/4948050/Content+Strategy)
 
 ### Key Resources
-* last updated: September 3, 2019
+*last updated: September 3, 2019
 
 * Content review  (audit) as of August 27, 2019
   * View in github
@@ -16,7 +16,7 @@
   * [View on Confluence](https://va-gov.atlassian.net/wiki/download/attachments/4948050/VA.gov_%20content%20workflow%20%5B7_25_19%5D.docx?version=1&modificationDate=1564154077643&cacheVersion=1&api=v2)
 
 ### Facilites Playbook
-* last updated: August 27, 2019
+*last updated: August 27, 2019
 
 The Playbook has gone through a few iterations, with the most recent version likely close to final. It was last updated on June 26th 2019 and is pending final approval. Work on it was de-prioritized in favor of finishing the actual content work for the Pittsburgh VAMC. 
 
@@ -28,7 +28,7 @@ The Playbook has gone through a few iterations, with the most recent version lik
    * [View on Confluence](https://va-gov.atlassian.net/wiki/download/attachments/4948050/Playbook-outline-May8-to-Andy.pdf?version=1&modificationDate=1566853999374&cacheVersion=1&api=v2)
  
 ### VA.gov Facility Website Relaunch VA.gov: A Content Strategy (WIP)
-* last updated: August 27, 2019
+*last updated: August 27, 2019
 
 Jane Newman started documenting the strategy behind the CMS' content model and all of the content types that have come of it. It's a great document full of lots of great information and presents lots of questions to continue to explore. I'd consider this document a work in progress but lots of it can be used to help train people on the CMS and to help push forward the mission behind the new VA.gov. FYI, some comments have been left unresolved in the version I'm sharing here, and I'm doing that on purpose. I want to get this doc up here before the team loses access, and I don't want to rush to resolving comments because some things present worthy conversations that are yet to be had. 
 
