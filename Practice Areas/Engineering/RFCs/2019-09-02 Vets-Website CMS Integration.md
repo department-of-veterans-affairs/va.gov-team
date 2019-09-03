@@ -15,9 +15,14 @@ One of the final steps of this process before outputting the HTML is to analyze 
       - Check that the file path points to a valid resource in Metalsmith memory
          - If yes, move on to the next link
          - If not, capture the failure into a failures data structure.
-             - **If the failures data structures contains any failures, throw the error to fail the whole build.**
+             - **After all HTML pages have been processed, if the failures data structures contains any failures, throw the error to fail the whole build.**
 
-as part of its Jenkins CI for each environment, vets-website executes a broken link checker. This tools inspects every image reference and link (href value) of every public HTML page in the website. If the link is relative, it confirms that there it's pointing to a valid resource. If not, the build fails.
+### Why are we doing this?
+The modernized VA.gov has its roots in the now-gone Vets.gov, both residing in the vets-website GitHub repository. On Vets.gov, content pages lived in vets-website in a directory aptly-named `content` in the form of plain-text Markdown files. When a pull request was issued to vets-website, the Jenkins CI would execute a build, and if there were broken links discovered, the build would fail just as it does today. 
+
+This made sense during Vets.gov, because the broken-link-checker was ultimately validating the content produced entirely by our Markdown files. Therefore, when the broken-link-checker detected an issue, the issue originated vets-website, and is fixable there. 
+
+### Why we still find value in this
 
 ## Motivation
 _Why do we want to change the current implementation? What problem(s) does the change solve?_
