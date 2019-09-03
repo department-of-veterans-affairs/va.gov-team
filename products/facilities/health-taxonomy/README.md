@@ -10,7 +10,7 @@
 - A central office employee wants to map the Veteran-facing services taxonomy and related components in the CMS to the classifications in the Access to Care, and VA Online Scheduling (VAOS) systems (Dave Mazik's use case)
 - A central office employee wants to enable a translation from the clinical services within the taxonomy to primary stop codes seen in the workload and used by DST for MISSION into a unified Veteran-facing service taxonomy (Dave Mazik's use case) 
 -| Draft Mappings of Taxonomy to Primary Stop Codes, VAOS, and Acccess to Care Classifications here: <https://airtable.com/shr1qe5J2DmyKkPum>
-- A central office employee wants to find a services offered across the VHA enterprise and extend the capabilities of the facilities API to include wait times for an expanded list of services.
+- A central office employee wants to find services offered across the VHA enterprise and extend the capabilities of the facilities API to include wait times for an expanded list of services in the facility API.
 - A facility employee wants to know what facilities offer a specific clinical service within a geographic area.
 - A subject-matter-expert author tags authored descriptions with relevant conditions or procedures performed in the service so that cross-linking to health topics (licensed  or VA authored) can be surfaced programmatically and associated with that service.
 
