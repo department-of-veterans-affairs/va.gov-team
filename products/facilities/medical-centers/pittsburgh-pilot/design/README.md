@@ -28,7 +28,7 @@ For access, email or message Jeff Brauer (jeff.brauer@agile6.com)
 * _Last updated: June 5, 2019_
 
 
-# CMS product
+# CMS product (work that is related to Facilities, and beyond)
 
 ### Latest Sketch files
 * Download Sketch file
@@ -41,21 +41,3 @@ For access, email or message Jeff Brauer (jeff.brauer@agile6.com)
   * [Facility Dashboard MVP.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2a8b74922c4ef2e7fa98ff2f8ee3e47ffe00967b/products/facilities/medical-centers/pittsburgh-pilot/design/design%20files/Facility%20Dashboard%20MVP.pdf)
   * [VA Facility CMS Operating Status.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2a8b74922c4ef2e7fa98ff2f8ee3e47ffe00967b/products/facilities/medical-centers/pittsburgh-pilot/design/design%20files/Annotated%20Design%20Recommendations.pdf)
 * _Last updated: June 12, 2019_
-
-# Outreach
-### Latest Sketch files
-* none yet
-* _Last updated:_
-
-### Latest PDFs
-* none yet
-* _Last updated:_
-
-# Administration
-### Latest Sketch files
-* none yet
-* _Last updated:_
-
-### Latest PDFs
-* none yet
-* _Last updated:_
