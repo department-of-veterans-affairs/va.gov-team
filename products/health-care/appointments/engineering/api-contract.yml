@@ -25,8 +25,38 @@ paths:
     get:
       tags:
       - "Appointments"
-      summary: "Counts of confirmed/pending appointments"
-      description: ""
+      summary: "Status check if user is eligible to schedule appointments, and counts of confirmed/pending appointments"
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622435">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>ICN or some kind of indication that person is a VA patient
+            <ul>
+              <li><code>/users/v1/session/mhpuser</code></li>
+            </ul>
+          </li>
+          <li>Registered at at least one facility
+            <ul>
+              <li><code>/users/v1/session/identifiers.json</code></li>
+            </ul>
+          </li>
+          <li>Right of access accepted flag
+            <ul>
+              <li><code>/users/v1/session/mhpuser</code></li>
+            </ul>
+          </li>
+          <li>CC eligibility
+            <ul>
+              <li><code>/adr/v2/patients/{patient-icn}/eligibility/communityCare</code></li>
+            </ul>
+          </li>
+          <li>Sites supporting VAR
+            <ul>
+              <li>Used to determine routing for initial new appointment page</li>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/facility-service/supported-facilities</code></li>
+            </ul>
+          </li>
+        </ul>
       operationId: ""
       responses:
         '200':
@@ -52,7 +82,26 @@ paths:
       tags:
       - "Appointments"
       summary: "Returns array of all confirmed appointments"
-      description: ""
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622474">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of confirmed appointments
+            <ul>
+              <li><code>/appointments/v1/patients/{patient-id}/appointments</code></li>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/booked-appointments</code>
+                (unused because telehealth is enabled?)</li>
+            </ul>
+          </li>
+          <li>Community care appointments are a separate endpoint, combined on front end
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/booked-cc-appointments</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
       operationId: ""
       responses:
         '200':
@@ -87,7 +136,18 @@ paths:
       tags:
       - "Appointments"
       summary: "Returns a confirmed appointment and its details"
-      description: ""
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622475">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Doctor name, specialization</li>
+          <li>Address, date and time, purpose, type, contact info
+            <ul>
+              <li><code>/appointments/v1/patients/{patient-id}/appointments</code></li>
+            </ul>
+          </li>
+          <li>GAP: Don't see appt type, reason, doctor, specialization, or contact info in service</li>
+        </ul>
       operationId: ""
       parameters:
         - name: appointmentId
@@ -132,7 +192,19 @@ paths:
       tags:
       - "Requests"
       summary: "Returns array of all appointment requests"
-      description: ""
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622432">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of pending appointments
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
+              </li>
+            </ul>
+          </li>
+          <li>Community care requests are included in appointment request service</li>
+        </ul>
       operationId: ""
       responses:
         '200':
@@ -167,7 +239,18 @@ paths:
       tags:
       - "Requests"
       summary: "Returns an appointment request and its details"
-      description: ""
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622433">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Clinic address, purpose, type, preferred dates, office number, contact number, call back time
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
       operationId: ""
       parameters:
         - name: requestId
@@ -210,6 +293,27 @@ paths:
       tags:
       - "Systems"
       summary: "Returns list of systems a user is registered to and the type of care available"
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of registered medical systems (with City/State)
+            <ul>
+              <li><code>/users/v1/session/identifiers.json</code></li>
+            </ul>
+          </li>
+          <li>Types of care available at each health system
+            <ul>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions</code>
+                <ul>
+                  <li>GAP: Currently the api is used to get the list of clinics in a system that have a type of care</li>
+                </ul>
+              </li>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/clinical-services/types-of-care</code></li>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/community-care-services/type-of-cares</code></li>
+            </ul>
+          </li>
+        </ul>
       responses:
         '200':
           description: OK
@@ -247,8 +351,29 @@ paths:
     get:
       tags:
       - "Facilities"
-      summary: "Returns a list of available date/time slots for a specific clinic"
-      description: ""
+      summary: "Returns a list of available date/time slots for a specific facility"
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Clinics supporting direct scheduling
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/clinical-services/patient/{assigning-authority}/{patient-id}/clinics</code>
+              </li>
+              <li>This is probably a missing page, to pick one if necessary. We could possibility do an initial check on this
+                page to see if their selected clinic is on the list of clinics that support direct scheduling. If not, display
+                request flow instead of calendar</li>
+            </ul>
+          </li>
+          <li>Appointment slots
+            <ul>
+              <li>
+                <code>VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/available-appointment-slots</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
       operationId: ""
       parameters:
         - name: facilityId
