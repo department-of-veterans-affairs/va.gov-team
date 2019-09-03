@@ -1,0 +1,509 @@
+openapi: 3.0.0
+info:
+  description: "This is an initial draft of the VAOS wrapper for vets-api"
+  version: "0.0.1"
+  title: "VAOS API Wrapper Draft"
+servers:
+  - url: http://api.va.gov/v0/vaos
+    description: New path on existing vets-api
+tags:
+- name: "Appointments"
+  description: "Endpoints related to confirmed (booked) appointments"
+- name: "Requests"
+  description: "Endpoints related appointment requests"
+- name: "Systems"
+  description: "Endpoints related to VHA health systems"
+- name: "Facilities"
+  description: "Endpoints related to VHA health facilities"
+- name: "Community Care"
+  description: "Endpoints related to Community Care"
+  externalDocs:
+    description: "Find out more about our store"
+    url: "http://swagger.io"
+paths:
+  /appointments/summary:
+    get:
+      tags:
+      - "Appointments"
+      summary: "Counts of confirmed/pending appointments"
+      description: ""
+      operationId: ""
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  confirmedCount:
+                    type: integer
+                    example: 1
+                  pendingCount:
+                    type: integer
+                    example: 2
+                  pastCount:
+                    type: integer
+                    example: 0
+        default:
+          description: Unexpected error
+  /appointments:
+    get:
+      tags:
+      - "Appointments"
+      summary: "Returns array of all confirmed appointments"
+      description: ""
+      operationId: ""
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Appointment'
+        default:
+          description: Unexpected error
+    post:
+      tags:
+      - "Appointments"
+      summary: "Create a new confirmed appointment"
+      description: ""
+      operationId: ""
+      requestBody:
+        $ref: '#/components/requestBodies/DirectScheduleBody'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Appointment'
+        default:
+          description: Unexpected error
+  /appointments/{appointmentId}:
+    get:
+      tags:
+      - "Appointments"
+      summary: "Returns a confirmed appointment and its details"
+      description: ""
+      operationId: ""
+      parameters:
+        - name: appointmentId
+          in: path
+          required: true
+          schema:
+            type : string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Appointment'
+        default:
+          description: Unexpected error
+    delete:
+      tags:
+      - "Appointments"
+      summary: "Cancel a confirmed appointment"
+      description: ""
+      operationId: ""
+      parameters:
+        - name: appointmentId
+          in: path
+          required: true
+          schema:
+            type : integer
+            format: int64
+            minimum: 1
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+  /requests:
+    get:
+      tags:
+      - "Requests"
+      summary: "Returns array of all appointment requests"
+      description: ""
+      operationId: ""
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Request'
+        default:
+          description: Unexpected error
+    post:
+      tags:
+      - "Requests"
+      summary: "Create a new appointment request"
+      description: ""
+      operationId: ""
+      requestBody:
+        $ref: '#/components/requestBodies/RequestBody'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Request'
+        default:
+          description: Unexpected error
+  /requests/{requestId}:
+    get:
+      tags:
+      - "Requests"
+      summary: "Returns an appointment request and its details"
+      description: ""
+      operationId: ""
+      parameters:
+        - name: requestId
+          in: path
+          required: true
+          schema:
+            type : string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Request'
+        default:
+          description: Unexpected error
+    delete:
+      tags:
+      - "Requests"
+      summary: "Cancel an appointment request"
+      description: ""
+      operationId: ""
+      parameters:
+        - name: requestId
+          in: path
+          required: true
+          schema:
+            type : string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+  /systems/registered:
+    get:
+      tags:
+      - "Systems"
+      summary: "Returns list of systems a user is registered to and the type of care available"
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/System'
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}:
+    get:
+      tags:
+      - "Facilities"
+      summary: "Returns the details of a specific facility such as address and contact info"
+      description: ""
+      operationId: ""
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type : string
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Facility'
+        default:
+          description: Unexpected error        
+  /facilities/{facilityId}/available-appointments:
+    get:
+      tags:
+      - "Facilities"
+      summary: "Returns a list of available date/time slots for a specific clinic"
+      description: ""
+      operationId: ""
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type : string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+                  format: datetime
+                  example: "2019-08-29T12:00:00Z"
+        default:
+          description: Unexpected error
+  /community-care/eligibility:
+    get:
+      tags:
+      - "Community Care"
+      summary: "Returns whether use is eligible for community care"
+      description: ""
+      operationId: ""
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  isEligible:
+                    type: boolean
+                    example: true
+                  reason:
+                    type: string
+                    example: "User is within x miles of facility"
+                  effectiveDate: 
+                    type: string
+                    example: "2017-10-08T23:35:12-05:00"
+        default:
+          description: Unexpected error
+components:
+  requestBodies:
+    RequestBody:
+      description: A JSON object containing request information
+      required: true
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              facilityId:
+                type: string
+                example: "888"
+              requestDateTime:
+                type: string
+                format: date
+                example: "2019-08-29T12:00:00Z"
+              requestDateTimeAlternate1:
+                type: string
+                format: date
+                example: "2019-08-29T13:00:00Z"
+              requestDateTimeAlternate2:
+                type: string
+                format: date
+                example: "2019-08-29T14:00:00Z"
+              reason:
+                type: string
+                example: 'Routine/Follow-up'
+              type:
+                type: string
+                example: 'Office Visit'
+              contactNumber:
+                type: string
+                example: '+1-908-477-1720'
+              preferredContactTime:
+                type: string
+                enum: [morning, afternoon, evening]
+                example: evening
+    DirectScheduleBody:
+      description: A JSON object containing request information
+      required: true
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              facilityId:
+                type: string
+                example: "888"
+              appointmentDateTime:
+                type: string
+                format: date
+                example: "2019-08-29T12:00:00Z"
+              reason:
+                type: string
+                example: 'Routine/Follow-up'
+              type:
+                type: string
+                example: 'Office Visit'
+              contactNumber:
+                type: string
+                example: '+1-908-477-1720'
+              preferredContactTime:
+                type: string
+                enum: [morning, afternoon, evening]
+                example: evening
+  schemas:
+    System:
+      properties:
+        id: 
+          type: string
+          example: "dfn-671"
+        name:
+          type: string
+          example: "Spokane VAMC"
+        facilities:
+          type: array
+          items:
+            $ref: '#/components/schemas/Facility'
+        typesOfCare:
+          type: array
+          items:
+            $ref: '#/components/schemas/TypeOfCare'
+    TypeOfCare:
+      properties:
+        id:
+          type: string
+          example: 'toc-101'
+        label:
+          type: string
+          example: "Primary Care"
+    Facility:
+      properties:
+        id:
+          type: string
+          example: '888'
+        name:
+          type: string
+          example: "Washington VA Medical Center"
+        type:
+          type: string
+          example: "VAMC"
+        address: 
+          type: string
+          example: "50 Irving St NW"
+        city: 
+          type: string
+          example: "Washington"
+        state: 
+          type: string
+          example: "DC"
+        directScheduleEnabled:
+          type: boolean
+          example: true
+        parentSiteCode:
+          type: integer
+          example: 688
+    Appointment:
+      properties:
+        id:
+          type: string
+          example: '123'
+        facilityId:
+          type: string
+          example: "888"
+        facility:
+          $ref: '#/components/schemas/Facility'
+        dateTime:
+          type: string
+          format: date
+          example: "2019-08-29T12:00:00Z"
+        reason:
+          type: string
+          example: 'Routine/Follow-up'
+        type:
+          type: string
+          example: 'Office Visit'
+        contactNumber:
+          type: string
+          example: '+1-908-477-1720'
+        preferredContactTime:
+          type: string
+          enum: [morning, afternoon, evening]
+          example: evening
+        status:
+          type: string
+          enum: [pending, booked]
+          example: pending
+        pactTeam:
+          $ref: '#/components/schemas/PactTeam'
+    Request:
+      properties:
+        id:
+          type: string
+          example: '123'
+        facilityId:
+          type: string
+          example: "888"
+        facility:
+          $ref: '#/components/schemas/Facility'
+        requestDateTime:
+          type: string
+          format: date
+          example: "2019-08-29T12:00:00Z"
+        requestDateTimeAlternate1:
+          type: string
+          format: date
+          example: "2019-08-29T13:00:00Z"
+        requestDateTimeAlternate2:
+          type: string
+          format: date
+          example: "2019-08-29T14:00:00Z"
+        reason:
+          type: string
+          example: 'Routine/Follow-up'
+        type:
+          type: string
+          example: 'Office Visit'
+        contactNumber:
+          type: string
+          example: '+1-908-477-1720'
+        preferredContactTime:
+          type: string
+          enum: [morning, afternoon, evening]
+          example: evening
+        status:
+          type: string
+          enum: [pending, booked]
+          example: pending
+    PactTeam:
+      properties:
+        teamSid:
+          type: string
+          example: "1400018881"
+        teamName:
+          type: string
+          example: "Green-four"
+        staff:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+                example: "McBride, Samantha M"
+              title:
+                type: string
+                example: "Registered Nurse (RN)"
+              
+
+  
+      
