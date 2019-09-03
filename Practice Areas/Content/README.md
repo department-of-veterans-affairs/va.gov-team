@@ -16,11 +16,10 @@ The following list is a set of resources to help you do your work and answer con
     - [Onboarding](https://github.com/department-of-veterans-affairs/vets.gov-team/wiki/VA.gov-Onboarding)
 - Content processes
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
-    - [VA content owner requests](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md)
+    - [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) *(Please note: this process is currently under review)*
     - [URL creation and process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Practice%20Areas/Information%20Architecture)
      - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
 - VA.gov content style guides 
-     - [Crafting content that supports a Veteran-first digital experience](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/content-style-guide-training-with-VHA-071119.pdf)
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
      - [Error messaging dictionary styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
@@ -44,7 +43,7 @@ The following list is a set of resources to help you do your work and answer con
     - [Tier 1 benefit content CMS workflow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/Tier-1-benefit-content-CMS-workflow-071119-combined.pdf)
     - [UAT process for content migration](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/UAT-process-for-content-migration.md)
 - Historical process: Content team checklists    
-Please note: Some of the documented lists and processes listed below are evolving or no longer 100% valid as we move from Github to Drupal.
+*Please note: Some of the documented lists and processes listed below are evolving or no longer 100% valid as we move from Github to Drupal.*
     - [Content launch checklist--Historical process](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/new-content-launch.md)
     - [Writing/editing short UX text](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/rewrite-or-edit-short-UX-text.md)
     - [Copy edit checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/copyedit-checklist.md)
