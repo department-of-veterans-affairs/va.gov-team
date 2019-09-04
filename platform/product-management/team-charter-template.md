@@ -5,31 +5,31 @@
 ## Why we're here
 
 ### North Star:
-[Lorem ipsum]
+_Lorem ipsum_
 
 ### DEPO Product Line (if applicable): 
-[i.e. Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!]
+_i.e. Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
 
 ### Team Mission Statement:
-[Lorem ipsum]
+_Lorem ipsum_
 
 ### Product Portfolio:
-[List of products within your team's perview]
+_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Responsibilities:
-[High level problem space and user goals for this team]
+_High level problem space and user goals for this team_
 
 ### Roadmap:
-[Link to agile roadmap]
+_Link to agile roadmap_
 
 ---
 
 ## Who we are
 
 ### Team Members:
-DSVA Product Lead: [person's name]
-Team Product Manager: [person’s name]
-[Additional Team Role]: [person’s name]
+- DSVA Product Lead: _person’s name_
+- Team Product Manager: _person’s name_
+- _Additional Team Role_: _person’s name_
 
 ---
 
@@ -40,21 +40,21 @@ Team Product Manager: [person’s name]
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ [time] 
+- Daily @ _time_
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ [time]
+- 1st Wednesday of every sprint @ _time_
 - 1 hour
 - _any other notes you have_
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ [time]
+- 1st Wednesday of every sprint @ _time_
 - 30 min
 - _any other notes you have_
 
@@ -65,52 +65,47 @@ Assess and update workload for remainder of sprint
 - 1 hour
 - _any other notes you have_
 
-Issue Etiquette
+#### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-Estimate
-Title that explains task
-Description with Background and Acceptance Criteria
-Labels - Analytics-Insights, Call Center, Analytics Request
-User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
-Epic assigned
+
+- Estimate
+- Title that explains task
+- Description with Background and Acceptance Criteria
+- Labels: _your team's labels_
+- User Story (if applicable), Goal, and Acceptance Criteria
+- Nested in an Epic
+
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
+
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-Estimation
+#### Estimation
 
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
 
-1 - Easy task, work is known, can be executed quickly
-2
-3
-5 - Becoming complex
-8
-13 - Very complex, may take a full sprint or longer
-20 - 
+- 1: Easy task, work is known, can be executed quickly
+- 5: Becoming complex
+- 13: Very complex, may take a full sprint or longer
 
+Anything higher than 13 should be an Epic that can be broken down into smaller Issues.
 
-Team Norms
+#### Team Norms
 
-Be respectful, both online and off
-Show your face (Webcam) at meetings / calls
-Speak up! - everyone’s voice matters
-We are flexible, but intentional in the way we work
-Let’s have fun and do great work!
+_Update as you see fit! These are some starter norms for you to consider_
 
-And some logistics:
+- Be respectful, both online and off
+- Show your face (Webcam) at meetings / calls
+- Speak up! - everyone’s voice matters
+- We are flexible, but intentional in the way we work
+- Let’s have fun and do great work!
 
-Keep as much Slack conversation in public channels as possible, to minimize duplicative and extraneous communication.
+#### Slack:
+
+This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
+
+#### GitHub
 GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
-Update tickets regularly. If conversations happen in Slack that are pertinent to an issue or useful to document, copy them into GitHub.
-Our tickets/issues have an estimated level of effort, clear acceptance criteria, and an individual or team assignee before being put in a sprint.
-Extra time? Explore the "Ready" column in ZenHub.
 
-Role-Related Knowledge / Best Practices
-
-Engineering: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering
-
-Design: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Design
-
-Product: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Product%20Management
-
-
+#### General things
+- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
+- Extra time? Explore the "Ready" column in ZenHub.
