@@ -1,1 +1,1 @@
-
+Implementation of VSP work currently happens in 2 week sprints, informed by high level objectives set on a quarterly basis. There are planning sessions that occur on the Wednesday planning day before each new sprint, so that teams can collectively plan out their drill-down objectives and the work needed to achieve them. These are documented as Official Objectives here, and more granularly through epics and issues in ZenHub.

@@ -1,3 +1,5 @@
-This folder is part of the updated hierarchy for the va.gov-team repo. 
+# Accessibility
+In this folder, you'll find information specific to how 508 Accessibility works on VA.gov.
 
-**Please do not add files to any folder in this hierarchy without first consulting a member of the VSP Content/IA team.**
+* Learn about [accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-accessibility-best-practices.md) in design and engineering
+* Learn how to request a [508 pre-launch review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-request-prelaunch-review.md) for your product or feature improvement
