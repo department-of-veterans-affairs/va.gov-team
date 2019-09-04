@@ -1,27 +1,29 @@
 _`To create a copy of this template, click "Edit" then copy all of the content within the file.  Within your team folder, create a new file called "README.md" and paste this content.  Update and complete as applicable to your team(s).`_
 
-# Team Name 
+# [Team Name]
 
 ### Description of Current Work
-_What is a brief description and overall mission or goal of your team/project?_
-
+_What is a brief description or list of current work efforts?_
 
 ### Slack Channels
 _Where can your team(s) be found in Slack?_
 - #channel-name
-- #channel-name
-- #channel-name
+
 
 ### Github Labels
 _What labels are your GitHub issues tagged with?_
 - `[github label]`
-- `[github label]`
-- `[github label]`
+
 
 ### Points of Contact 
-_Who are the primary contacts for your team(s)?  Do not publish personal contact info, only names and slack contact name._
+_Who are the primary contacts for your team(s)?  
+Do not publish personal contact info, only names and slack contact name._
 - Program Management: 
 - Product Management:  
 - Design: 
 - Engineering: 
 - Operations:  
+
+### Key Documents
+
+- [Team Charter]()
