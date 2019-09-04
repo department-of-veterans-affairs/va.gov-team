@@ -3,7 +3,7 @@
 ### Using this space
 This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, project planning, and other general administrative content. 
 
-Before creating folders and files within your space, please review our documented guidelines and best practices for using the repo. 
+Before creating folders and files within your space, please review our [guidelines and best practices for using the va.gov-team repo](). 
 
 Core documentation required for each team (as well as each sub-team when applicable):
 - [Team README.md file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/team-readme-template.md)
