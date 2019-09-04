@@ -25,7 +25,3 @@ These are the teams that are currently building apps and content on VA.gov and w
 [VSP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp) 
 
 
-
-- 
-
-
