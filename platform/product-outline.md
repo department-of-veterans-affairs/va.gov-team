@@ -1,5 +1,10 @@
 # VSP Product Outline - DRAFT!
 
+## Key documents
+Key documents:
+- ["What is the Veteran-facing Services Platform" Deck](https://docs.google.com/presentation/d/1q2QZIJXH6nSAzdVlANUd1Mt1KVFFiL1uRZgWSsXucJg/edit#slide=id.p1)
+- [Platform Product Strategy, OKRs, and Roadmap Deck](https://docs.google.com/presentation/d/1-8LlD8jljlv-C9IIQO1fHDC4ok0NzpJF3nLfwnx5610/edit)
+
 ## Problem Statement
 The delivery of high-quality, user-centered digital services for Veterans is currently constrained by the number of DSVA teams available to design, build, and deploy them. It’s difficult for non-DSVA teams to use VSP because the technical components and infrastructure aren’t primarily designed and built to facilitate safe/isolated contributions from multiple external teams in a single ecosystem.
 
