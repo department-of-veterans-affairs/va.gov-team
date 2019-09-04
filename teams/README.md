@@ -6,7 +6,7 @@ This space is for all teams currently working on and with the platform. Teams ca
 Before creating folders and files within your space, please review our documented guidelines and best practices for using the repo. 
 
 Core documentation required for each team (as well as each sub-team when applicable):
-- [README.md file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/team-readme-template.md)
+- [Team README.md file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/team-readme-template.md)
 - [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md)
 
 
