@@ -79,16 +79,6 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-#### Estimation
-
-Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
-
-- 1: Easy task, work is known, can be executed quickly
-- 5: Becoming complex
-- 13: Very complex, may take a full sprint or longer
-
-Anything higher than 13 should be an Epic that can be broken down into smaller Issues.
-
 #### Team Norms
 
 _Update as you see fit! These are some starter norms for you to consider_
