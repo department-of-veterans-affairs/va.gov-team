@@ -6,7 +6,7 @@ have that data saved on the CARMA end, is that API endpoint currently set up and
 as required parameters or payload? If this API endpoint does not exist how long would it take to set it up?
 
 
-2. We will also need an API endpoint so that we can retrieve the status of a current caregiver application from the CARMA
+2. We will need an API endpoint so that we can retrieve the status of a current caregiver application from the CARMA
 system, is that endpoint currently set up and what is the required authentication as well as required parameters or payload?
 If this API endpoint does not exist how long would it take to set it up?
 
