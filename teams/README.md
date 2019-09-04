@@ -1,8 +1,8 @@
 # Teams
 
-### Using this space
 This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, project planning, and other general administrative content. 
 
+### Using this space
 Before creating folders and files within your space, please review our [guidelines and best practices for using the va.gov-team repo](). 
 
 Core documentation required for each team (as well as each sub-team when applicable):
