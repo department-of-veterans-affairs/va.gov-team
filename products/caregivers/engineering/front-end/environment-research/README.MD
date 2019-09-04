@@ -4,10 +4,23 @@ is critical in figuring out the level of effort/ time needed to reuse or create 
 
 ## What will the environment for this form look like?
 
-This form, as all web forms on VA.gov, will be a React application that ties into the existing VA.gov API. These React applicaitons are largely created by a scaffolding generator so that the basic setup is taken care of for the developer and most of what is needed is configuration. This form will also need to send its form data to the CARMA system, a Salesforce module that houses all of the current and past caregiver applications.
+This form, as all web forms on VA.gov, will be a React application that ties into the existing VA.gov API. These React applicaitons are largely created by a scaffolding generator so that the basic setup is taken care of for the developer and most of what is needed is configuration. The configuration includes defining what fields you will use, UI characteristics of those fields past what comes out of the box, and defining where and how the form submits data.
 
-## Submitting the form
+### defining fields
 
-It seems that an initial requirement of this form is that it not only submit to the VA.gov API, so that it can be associated with a caregiver's account, but also to the CARMA system. *This could present complications as defining a custom submission that goes to two URLs will be an extension of the standard form functionality.* The submission to the CARMA system may be able to be handled by the back end, TBD.
+Our forms use a React library that defines form fields using a JSON schema. This JSON schema must be created using the vets-json-schema repo and is then used as a 'contract' between the front end and the back end systems for data structure. These JSON schemas should in theory be easy to create however in practice they are a bit finicky and require some time and patience.
 
-Most of the needed info is located [here](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-website/architecture.md)
+### UI Characteristics
+
+Once the fields are defined we can also add some UI characteristics specific to our form, such as custom validation, showing and hiding fields based on answers, and field naming. These three customizations are build into the forms currently, anything past this would require extending the current forms and would add scope and time to the project.
+
+### Mutating and submitting data
+
+Our forms come out of the box with a configuration parameter that allows us to define where the form submits to in
+as a URL. The form data is simply passed to that URL as a JSON payload. If the JSON payload needs to be mutated in any way
+to accomidate the back end or an external API we can define our own custom form submittion function which will be used instead.
+
+We will most likely be defining our own custom submit function since we will not only need to submit data to our back end but
+also to the CARMA system.
+
+More info on our architecture is located [here](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-website/architecture.md)
