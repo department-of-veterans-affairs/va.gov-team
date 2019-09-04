@@ -2,8 +2,8 @@
 
 This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, project planning, and other general administrative content. 
 
-If you are looking for documentation on VA.gov user-facing poducts, please see [/products](../products/README.md).
-If you are looking for documentation on the tools and services provided by VSP, please see [/platform](../platform/README.md). 
+- If you are looking for documentation on VA.gov user-facing poducts, please see [/products](../products/README.md).
+- If you are looking for documentation on the tools and services provided by VSP, please see [/platform](../platform/README.md). 
 
 ### Using this space
 Before creating folders and files within your space, please review our [guidelines and best practices for using the va.gov-team repo](). 
