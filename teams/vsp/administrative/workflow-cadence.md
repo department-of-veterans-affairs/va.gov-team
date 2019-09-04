@@ -24,7 +24,7 @@ For deeper reading: [Atlassion: User Stories](https://www.atlassian.com/agile/pr
 
 **Sprint Report**: a report that indicates whether we met our Sprint Objectives by the end of the sprint, and if not what the reason was, and thus how we're going to proceed. We submit these reports to DSVA at the end of the Sprint, and we get paid each Sprint based upon DSVA's acceptance of these reports.
 
-**Team Charters**: a document created by each team, driving team alignment around mission and work style. Each team should have a Charter stored within their team folder in GitHub. See [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
+**Team Charter**: a document created by each team, driving team alignment around mission and work style. Each team should have a Charter stored within their team folder in GitHub. See [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
 
 ---
 
