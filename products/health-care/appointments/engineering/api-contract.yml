@@ -394,6 +394,80 @@ paths:
                   $ref: '#/components/schemas/Clinic'
         default:
           description: Unexpected error
+  /facilities/{facilityId}/visits:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns info about previous visits'
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Visited in past months
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/{eligibility}/visited-in-past-months</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  hasVisitedInPastMonths:
+                    type: boolean
+                  durationInMonths:
+                    type: number
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/limits:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns visit limites for specified facility'
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Request limits
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/request-limit</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  numberOfRequests:
+                    type: number
+                  requestLimit:
+                    type: number
+        default:
+          description: Unexpected error
   /facilities/{facilityId}/available-appointments:
     get:
       tags:
