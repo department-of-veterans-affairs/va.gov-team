@@ -12,7 +12,7 @@ _Where can your team(s) be found in Slack?_
 
 ### Github Labels
 _What labels are your GitHub issues tagged with?_
-- `[github label]`
+- `github label`
 
 
 ### Points of Contact 
