@@ -11,10 +11,8 @@ tags:
     description: 'Endpoints related to confirmed (booked) appointments'
   - name: 'Requests'
     description: 'Endpoints related appointment requests'
-  - name: 'Systems'
-    description: 'Endpoints related to VHA health systems'
-  - name: 'Facilities'
-    description: 'Endpoints related to VHA health facilities'
+  - name: 'Scheduling eligibility'
+    description: 'Endpoints related to determine when and where a Veteran can schedule appointments'
   - name: 'Community Care'
     description: 'Endpoints related to Community Care'
     externalDocs:
@@ -288,10 +286,10 @@ paths:
                 type: object
         default:
           description: Unexpected error
-  /systems/registered:
+  /systems:
     get:
       tags:
-        - 'Systems'
+        - 'Scheduling eligibility'
       summary: 'Returns list of systems a user is registered to and the type of care available'
       description: >+
         <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
@@ -300,17 +298,6 @@ paths:
           <li>List of registered medical systems (with City/State)
             <ul>
               <li><code>/users/v1/session/identifiers.json</code></li>
-            </ul>
-          </li>
-          <li>Types of care available at each health system
-            <ul>
-              <li><code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions</code>
-                <ul>
-                  <li>GAP: Currently the api is used to get the list of clinics in a system that have a type of care</li>
-                </ul>
-              </li>
-              <li><code>/VeteranAppointmentRequestService/v4/rest/clinical-services/types-of-care</code></li>
-              <li><code>/VeteranAppointmentRequestService/v4/rest/community-care-services/type-of-cares</code></li>
             </ul>
           </li>
         </ul>
@@ -325,33 +312,64 @@ paths:
                   $ref: '#/components/schemas/System'
         default:
           description: Unexpected error
-  /facilities/{facilityId}:
+  /systems/{parentFacilityId}/facilities:
     get:
       tags:
-        - 'Facilities'
-      summary: 'Returns the details of a specific facility such as address and contact info'
-      description: ''
-      operationId: ''
+        - 'Scheduling eligibility'
+      summary: 'Returns list of child facilities along with their eligiblity for direct scheduling or requests'
+      parameters:
+        - name: parentFacilityId
+          in: path
+          required: true
+          schema:
+            type: number
+        - name: typeOfCareId
+          in: query
+          required: true
+          schema:
+            type: number
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Institutions by type of care:
+            <ul>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions</code></li>
+            </ul>
+          </li>
+        </ul>
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Facility'
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/clinics:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns a list of clinics at the specified facility that support the specified type of care'
       parameters:
         - name: facilityId
           in: path
           required: true
           schema:
             type: string
-      responses:
-        200:
-          description: OK
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/Facility'
-        default:
-          description: Unexpected error
-  /facilities/{facilityId}/available-appointments:
-    get:
-      tags:
-        - 'Facilities'
-      summary: 'Returns a list of available date/time slots for a specific facility'
+        - name: typeOfCareId
+          in: query
+          required: true
+          schema:
+            type: string
+        - name: parentFacilityId
+          in: query
+          required: true
+          schema:
+            type: number
       description: >+
         <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470">Corresponding mockup page</a><br /><br />
         Existing endpoints:<br />
@@ -361,11 +379,41 @@ paths:
               <li>
                 <code>/VeteranAppointmentRequestService/v4/rest/clinical-services/patient/{assigning-authority}/{patient-id}/clinics</code>
               </li>
-              <li>This is probably a missing page, to pick one if necessary. We could possibility do an initial check on this
-                page to see if their selected clinic is on the list of clinics that support direct scheduling. If not, display
-                request flow instead of calendar</li>
             </ul>
           </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Clinic'
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/available-appointments:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns a list of available date/time slots for a specific facility'
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: clinicIds
+          in: query
+          required: true
+          schema:
+            type: string
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
           <li>Appointment slots
             <ul>
               <li>
@@ -375,12 +423,6 @@ paths:
           </li>
         </ul>
       operationId: ''
-      parameters:
-        - name: facilityId
-          in: path
-          required: true
-          schema:
-            type: string
       responses:
         '200':
           description: OK
@@ -537,6 +579,20 @@ components:
         parentSiteCode:
           type: integer
           example: 688
+    Clinic:
+      properties:
+        siteCode:
+          type: number
+          example: 688
+        clinicId:
+          type: number
+          example: 2276
+        clinicName:
+          type: string
+          example: "DC/PACT GREEN FOUR"
+        clinicFriendlyLocationName:
+          type: string
+          example: "GREEN VASSALL"
     Appointment:
       properties:
         id:
