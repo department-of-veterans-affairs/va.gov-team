@@ -52,7 +52,7 @@ Estimation is not based on how long something will take to complete, but is rath
 - 1: Easy task, work is known, can be executed quickly
 - 5: Becoming complex
 - 13: Very complex, may take a full sprint or longer
-- > 13: Should be an Epic that can be broken down into smaller Issues.
+- `>` 13: Should be an Epic that can be broken down into smaller Issues.
 
 Here are the basics of how to think about points and how to estimate:
 
