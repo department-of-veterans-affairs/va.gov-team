@@ -25,10 +25,6 @@ We looked at several forms that currently exist on va.gov as well as met with fo
 
 
 
-### What is the scope involved with creating a form on va.gov?
-
-
-
 ### How does the 'save in progress' feature for forms on va.gov work from a technical standpoint?
 
 
