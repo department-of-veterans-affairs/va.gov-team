@@ -14,10 +14,10 @@ Handle incoming problems from a variety of inputs, prioritize and triage those p
 * Applying targeted fixes when appropriate, triaging to responsible teams when not
 
 ## On call
-- [On call Responsibilities](OnCall.md)
+- [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/OnCall.md)
 ## Triage process
 - [Process description](Process.md)
-- [Support Tiers](SupportTiers.md)
+- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/SupportTiers.md)
 - [Service blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
 - [Sentry](Sentry.md)
 - [Product to Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=418383161)
