@@ -1,49 +1,84 @@
-# Research Plan for VAOS, August 26–30 
+# Research Plan for VAOS, Sept 9-11
 
 ## Goals
 
 1. What product & team are you doing this research for? 
-- VAOS
+This is for the VA Online scheduling tool. We are proposing a number of user experience and user interface improvements. We are also proposing solutions to incorporate drive time eligibility. 
+
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-- The VAOS team has been tasked to redesign the existing VAR online scheduling tool which allows for Veterans to online schedule or request health appointments.
+
+Two years ago, 5 members of the USDS team worked on improving discoverability, accessibility, and usability of VAOS. This tool, which currently lives in the mobile portfolio, is an essential access point to requesting appointments online - both at the VA and for Community Care, as of the 6/6 release of the Mission Act. This will also be an important tool as VA migrates its EHR to Cerner, as it has the potential to be the access point for all scheduling for Veterans. 
+
+In this usability testing, we want to see how Veterans respond to the new Community Care flows, the type of care flow, and some of the user experience/user interface changes. In future sessions we will test out the new provider flow as well. 
+
 3. Research questions:  
-- Does the existing flow match the mental model of how Veterans would schedule a health care appointment?
-4. Hypothesis: 
-- The reworked design is easy to use and understand
+
+- How well does our strategy of "only showing Veterans options that they have" within VAOS work w/r/t user flow? 
+- Do users know what they can do in VAOS? 
+- What is the user's "goal" or "mental process" for scheduling an appointment? 
+  - i.e. Do they think about Type of care first? Provider? Location? Health concern?
+- Do the new approaches to the flows inspire more/less confidence for Veterans regarding booking appointments online for VA or CC appointments? 
+- Do the new user interface and user experience components introduce any pain points or confusion? 
+  - i.e. How well does our handling of "confirm address" / "choose VA location" flow? 
+  - i.e. Does the time selection tool make sense? 
+  - i.e. Are Veterans confused by the community care options? 
+- Do Veterans understand the difference between pending and scheduled appointments? 
+  - Is "pending" a word that resonates? 
+- What  content / additional content is needed to facilitate decision support at key moments in the appointment scheduling process? 
+
+4. Hypotheses: 
+-  Presenting Veterans with options that they do not have and dead ends is a terrible user experience. Rerouting the flows to avoid dead ends and trying to avoid presenting Veterans with options they do not have will improve the user experience, confidence in the application, and satisfaction with this tool. 
+- Veterans may still have limited exposure to VAOS and may not know all of the things they can do in it. Some of the suggested improvements to the user flows may help Veterans understand their options better.
+- "Provider" and "location" are the primary drivers for an appointment and may be the primary drivers for scheduling online. "Type of care" is a VA construct and may require additional support. 
+- The confirm address and choose VA location flow as it stands right now will introduce pain points. 
+- Ryan's new proposal for the date and time selection tool will be more intuitive than the pick three dates and times option now. 
+- By introducing community care where we have (after type of care selection) we are reducing complexity.
+- The phrase "pending" makes more sense than "requested" appointment, and Veterans understand that further action is needed before this is secure. 
+- Content is needed to improve comprehension and context t/o the application. 
+
+
 
 ## Method
 
 1. What method of research are you planning? 
-Usability testing with high-fidelity prototypes
-Remote moderated
+Usability testing with high-fidelity prototypes; Remote moderated
+
 2. Why this method? How does this methodology help you answer your research questions? 
-To get a baseline of the tool's usability prior to development
+We want to expose users to a bunch of new UI options and get feedback using mock data and mock flows. 
+
 3. Where are you planning to do your research? 
-Online using Zoom
+Online using GoToMeeting
+
 4. What will you be testing?
 InVision prototype
 
 ## Participants and Recruitment
 
 1. Participant criteria: What are you looking for in a participant?
-5–8 people
-Good representation across age and gender
-A mix of Veterans with experience using the existing online scheduling tool, and those without.
+- 10 people 
+- Veterans MUST have VA healthcare.
+- Participants who have some exposure to community care
+- Ideally, Veterans have used the online scheduling tool before. 
+
 2. What is your recruitment strategy? 
 Perigean recruiting contact
 
 ## When? 
 
 1. Timeline: What dates do you plan to do research? 
-End of August, beginning of September 
+September 9-11, 2019
+
 2. Prepare: When will the thing you are testing be ready? 
-Prototype has been prepared
+It is ready 
+
 3. Length of Sessions: How long do you estimate each session will be? 
-Less than 1 hour
+1 Hour
+
 4. Availability: If applicable, when would you like sessions scheduled?
-August 28, 12–6p
-August 29, 12–7p
-August 30, 12–6p
+8AM-8PM
+
+
+
 5. Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 August 26–27
 
@@ -52,13 +87,30 @@ August 26–27
 
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.** 
 
-- Moderator: Carolyn Williams — 240-423-8529 carolyn@adhocteam.us
-- Research guide writing and task development (usually but not always same as moderator):
-- Participant recruiting & screening:
-- Project point of contact:
+- Moderator: Lauren Alexanderson, lauren.alexanderson@va.gov, 7813663643
+- Research guide writing and task development (usually but not always same as moderator): lauren Alexanderson
+- Participant recruiting & screening: Brian Moon & Shannon Bildstein
+- Project point of contact: 
 - Participant(s) for pilot test:
 - Note-takers:
+Perigean
 - Observers:
+Ryan Thurlwell
+Carolyn Williams
+Mark Greenburg
+Peggy Gannon
+Dave Mazik
+Alastair Dawson
+Jeff Balboni
+Judy Mercado
+Stephen Barrs
+Steve Eaton
+Mike Ramirez
+Kam Karshenas
+Narin Ratana 
+Tony Williams
+Nathan Dister 
+Jennie McGibney 
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
@@ -67,9 +119,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project Brief: 
   *Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
 - Discussion Guide
-  *Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
-- Notes & Recordings
-  *Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/aug19-usability-testing-new-ux/convo-guide-VAOS.md
+
 - Synthesis
   *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 
 - Lessons Learned
