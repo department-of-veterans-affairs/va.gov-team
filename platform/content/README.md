@@ -32,6 +32,7 @@ The following list is a set of resources to help you do your work and answer con
     - [Strategy for the new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/VA.gov%20Relaunch%202018/new-vagov-strategy)
     - [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/DigitalModernizationStrategy.pdf)
     - [Web brand consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)  
+   -  [VA content hierarchy](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/d6a92604f5bfd62c0078f3bcb0544460d491f7c0/content-tiers-VA.gov.pdf)
 - SEO resources
     - [Writing for SEO](https://design.va.gov/content-style-guide/seo)
     - [Meta and title tag guidelines](https://design.va.gov/content-style-guide/seo#meta-properties)
