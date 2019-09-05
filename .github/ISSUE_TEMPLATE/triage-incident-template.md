@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### Please read the [Triage Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Triage/Rules%20of%20Engagement%20with%20Triage.md) for instructions on what types of issue should be submitted using this template.
+### Please read the [Triage Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Rules%20of%20Engagement%20with%20Triage.md) for instructions on what types of issue should be submitted using this template.
 
 ### Status
 
