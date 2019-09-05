@@ -18,11 +18,11 @@ The VSP is the common infrastructure, technical and non-technical components, an
 
 Here's a sample timeline of what you should expect to do as you prepare to start designing / building / iterating in collaboration with VSP.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Administrative/Onboarding/VSP_Onboarding_Timeline.001.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/VSP_Onboarding_Timeline.001.png)
 
 ## Working in the open
 
-We work in the open and strive to keep as much of our code and other work product in publicly accessible open source repositories. You will have access to our open source (i.e. public) GitHub repository for tracking work and documentation. [Here are some ground rules to make sure you know what _not_ to do when working in a public repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/README.md).
+We work in the open and strive to keep as much of our code and other work product in publicly accessible open source repositories. You will have access to our open source (i.e. public) GitHub repository for tracking work and documentation. [Here are some ground rules to make sure you know what _not_ to do when working in a public repo](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md).
 
 ## What should VFS Teams expect to do as they design, build, launch, iterate?
 
@@ -48,7 +48,7 @@ Create and test visual artifacts that define the features of the solution and th
 Create content as a part of every online experience - whether it's button labels or full pages of static introductory copy.
 
 - [Here are the best practices on writing great, plain language content on VA.gov](https://design.va.gov/content-style-guide/)
-- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request a content review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
+- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request a content review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
 
 ### Information architecture
 
@@ -63,7 +63,7 @@ In tiny iterative chunks and with robust testing, bring the solution to life thr
 
 - [Here's how to write great front end code for VA.gov solutions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
 - [Here's how to write great back end code for VA.gov solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Backend). <!--****This doc needs updating.****-->
-- You'll need frequent (usually around weekly) code reviews from VSP to hep you make sure you're on track! [Here's what to expect, and how to request a code review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Engineering/code_review_guidelines.md)
+- You'll need frequent (usually around weekly) code reviews from VSP to hep you make sure you're on track! [Here's what to expect, and how to request a code review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md)
 
 <!--### Research-->
 
@@ -71,19 +71,19 @@ In tiny iterative chunks and with robust testing, bring the solution to life thr
 
 Test incrementally to make sure your solutions works for everyone.
 
-- [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-accessibility-best-practices.md).
-- You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-request-prelaunch-review.md).
+- [Here's how to write and test FE code for 508 Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md).
+- You'll need reviews from VSP to help ensure accessibility of your solutions! [Here's what to expect, and how to request a 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md).
 
 ### Analytics and insights
 
 Incorporate analytics into your code so that you can track the health of your solution over time and understand whether it's achieving the outcomes you hoped it would.
 
-<!--- [Here's how to set KPIs to track the success of your VA.gov solutions](/).****This needs a URL****-->
+[Here's how to set KPIs to track the success of your VA.gov solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/KPI%20Setting%20Protocol.md).
 <!--- [Here's how to incorporate analytics into your VA.gov solutions](/).****This needs a URL****-->
 
 VSP is here to help you as you set up KPIs and integrate analytics in your code. Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can help, and to schedule an Analytics review.
 
-<!--[Here's how to request Analytics support](/).****This needs a URL**** You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](/).****This needs a URL****-->
+You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Guide%20to%20Communicating%20with%20Analytics.md).
 
 <!--### Call Center-->
 
