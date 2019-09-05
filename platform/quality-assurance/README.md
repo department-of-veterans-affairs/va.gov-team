@@ -1,4 +1,4 @@
-# Quality Aassurance
+# Quality Assurance
 Description of what's included in this folder. 
 
 ### Communication channels
