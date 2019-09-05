@@ -1,4 +1,4 @@
-# [Product Management]
+# Product Management
 Description of what's included in this folder. 
 
 ### Communication channels
