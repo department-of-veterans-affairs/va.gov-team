@@ -22,7 +22,7 @@
 
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
-| Profile | View Post 9/11 GI Bill Enrollment Status | Users can view their Post-9/11 GI Bill education enrollment status and entitlement. |
+| Profile | View Post 9/11 GI Bill Enrollment Status | Users can view their Post-9/11 GI Bill education enrollment status and entitlement. **(WIP)** |
 | Profile | View Education Payments History | Users are able to check the status of their Education payments. |
 | Form | Update Direct Deposit and Contact Information for Post 9/11 GI Bill Education | Users are able to update their contact information and DD/EFT. Note: C&P DD/EFT update is being implemented by authd-exp; the BDN (CH33) integration is still needed. |
 | Form | Specially Adapted Housing Grant Application and Claim Status | Users are able to apply for Specially Adapted Housing benefits and check the status of their request. |
