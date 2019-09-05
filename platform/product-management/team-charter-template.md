@@ -7,8 +7,8 @@
 ### North Star:
 _Lorem ipsum_
 
-### DEPO Product Line (if applicable): 
-_i.e. Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
+### Product Suite (if applicable): 
+_i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
 
 ### Team Mission Statement:
 _Lorem ipsum_
