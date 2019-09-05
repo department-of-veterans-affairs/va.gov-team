@@ -46,7 +46,7 @@ Most of this was covered in Jul 30's "Why not Teamsite" mtg (snapshot).
 3/ Can TeamSite handle Vets.gov templates?
 - need more info  
 - Vets.gov's modern framework (ReactJS) may pose issues
-- [previous research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/CMS%20%26%20Teamsite%20research.md)
+- [previous research]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/cms/planning/CMS%20%26%20Teamsite%20research.md)
 
 > Vets.gov React apps (including our application forms) cannot be moved to the current version of Teamsite
 
