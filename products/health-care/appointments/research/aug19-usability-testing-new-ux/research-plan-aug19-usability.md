@@ -1,4 +1,4 @@
-# Research Plan for VAOS, Sept 9-11
+# Research Plan for VAOS, Sept 9-13
 
 ## Goals
 
@@ -66,7 +66,7 @@ Perigean recruiting contact
 ## When? 
 
 1. Timeline: What dates do you plan to do research? 
-September 9-11, 2019
+September 9-13, 2019
 
 2. Prepare: When will the thing you are testing be ready? 
 It is ready 
