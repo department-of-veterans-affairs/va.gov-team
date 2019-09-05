@@ -1,5 +1,5 @@
 # VA.gov Team Repository
-*Last updated: [6/28/2019](#document-history)*
+*Last updated: [9/4/2019](#document-history)*
 
 ## About this repository
 This repository is used to store *non-code* documents and files created and used by teams building on and with the Veteran-facing Services Platform (VSP). 
