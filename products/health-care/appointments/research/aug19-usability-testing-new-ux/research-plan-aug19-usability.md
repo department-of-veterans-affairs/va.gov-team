@@ -111,6 +111,7 @@ Narin Ratana
 Tony Williams
 Nathan Dister 
 Jennie McGibney 
+Julia Elman 
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
