@@ -17,6 +17,8 @@ We looked at several forms that currently exist on va.gov as well as met with fo
 * The current forms on va.gov use a simple checkbox to serve as a "signature" by proxy, this is not a physical signature per se but serves the same purpose of a signature style confirmation from the user
 * The form 10-10CG that we are modernizing comes with a 90 review process where the caregiver(s) must be interviewed, background checked, and verified. This means that the collection of a physical signature is not nearly as important if this review process was not in place.
 
+With these two insights in mind we will need to check in with our legal team to make sure that a checkbox is sufficient but barring any unforseen legal pitfall a checkbox or series of checkboxes should suffice for our form.
+
 ### What is involved in interfacing with the CARMA system?
 
 The CARMA system is very new at this point and thus interacting with it is still very much ill-defined. Part of the scope of our project is that we will be determining how we would like to interact with the CARMA system and then leaning on the CARMA team to impliment that. Currently we have discussed the high level of what we want to achieve and the CARMA team is working on an estimate for how long that will take to impliment on their side.
