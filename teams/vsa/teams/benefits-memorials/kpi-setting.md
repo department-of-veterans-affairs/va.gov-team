@@ -2,19 +2,27 @@
 ## Pre-Workshop Planning
 
 ### Product Line
-_For example, Platform, Global UX, etc._
+_VSA Benefits and Memorials_
 
-- [Fill out here]
 
 ### North Star
 
-- [Fill out here]
+- Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 
 ### Product
 _For example, Health Care Application (10-10EZ), Disablitiy Compensation Application (21-526EZ), etc._
 
-- [Fill out here]
+  * 526 - Disability Compensation Application
+  * Appeals / Decision Review / AMA
+  * VIC
+  * 530 - Burials App
+  * Burial Pre-need App
+  * 1990 - Education Apps
+  * 527 - Pension App
+  * GIBCT
+  * GIBFT
+  * VR&E Benefits Apps
 
 ### High Level OKRs/Bets
 _What are the objectives within your product line that your product plays into?_
