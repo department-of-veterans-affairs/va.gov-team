@@ -14,7 +14,7 @@
 
 ## Step 1: Review the 508/Accessibility Best Practices Document
 
-1. Review the latest Veteran-facing Services Platform [best practices for 508 and web accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Accessibility/508-accessibility-best-practices.md)
+1. Review the latest Veteran-facing Services Platform [best practices for 508 and web accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 2. File [issues for any 508/accessibility items](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?labels=508%2FAccessibility&template=508-issue.md) you would like VSP to consult on
 
 ## Step 2: Request an Accessibility/508 review
