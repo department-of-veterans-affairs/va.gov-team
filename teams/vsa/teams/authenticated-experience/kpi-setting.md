@@ -2,9 +2,8 @@
 ## Pre-Workshop Planning
 
 ### Product Line
-_For example, Platform, Global UX, etc._
 
-- [Fill out here]
+- Authenticated Experience
 
 ### North Star
 
