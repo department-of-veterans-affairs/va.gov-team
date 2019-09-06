@@ -7,7 +7,8 @@
 
 ### North Star
 
-- [Fill out here]
+- Help users accomplish tasks more easily by leveraging what we know about them as a logged
+in user.
 
 
 ### Product
