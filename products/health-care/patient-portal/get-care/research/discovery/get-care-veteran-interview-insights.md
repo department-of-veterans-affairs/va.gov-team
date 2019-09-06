@@ -71,8 +71,6 @@ Older, health requires daily management, highly engaged with tools.
 
 ## How our research questions were answered
 
-[Mostly get this from slide deck.]
-
 ### What care options (analog and digital) are Veterans aware of/currently using and why?  For options they are not using (analog and digital), why are they not?
 
 #### In use:
