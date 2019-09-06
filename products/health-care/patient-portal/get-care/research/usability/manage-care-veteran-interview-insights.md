@@ -40,7 +40,7 @@ Participants were generally very receptive to this idea. (3, 5, 5, 5)
 
 - ***"If I do something in the one app then can do everything" - P4***
 
-How likely is it you would use something like that?
+### How likely is it you would use something like that?
 
 - Participants were generally very receptive to this idea. (3, 5, ?, 5)
 - ***"I struggle with taking care of my health. I wait to be fixed or I wait for that one time with my provider. If there's a better way to to do it and have more control, rather than just waiting for someone to call and schedule it for me.If you can look at your appointments, ask questions, schedule ahead of." - P4***
