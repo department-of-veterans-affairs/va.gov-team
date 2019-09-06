@@ -31,16 +31,16 @@
 
 ## Automated Accessibility/508 Testing
 
-1. Axe Scans
+1. axe Scans
 
    1. Front-end engineering should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and run it periodically during their daily work.
-   2. This manual process should be repeated in automated processes that scan rendered pages for regressions every time a build is initiated. These e2e 508 scans should be looking for `['Section 508', 'WCAG 2 Level A', 'WCAG 2 Level AA']` errors.
-   3. **Each rendered page must pass an aXe check.**
+   2. This manual process should be repeated in automated processes that scan rendered pages for regressions every time a build is initiated. These end-to-end (e2e) 508 scans should be looking for `['Section 508', 'WCAG 2 Level A', 'WCAG 2 Level AA']` errors.
+   3. **Each rendered page must pass an axe check.**
       * Static pages will be tested as part of Step 2.
-      * Client-side applications **must include an aXe check** as part of their end-to-end (e2e) suite. The engineerring team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) for this purpose.
+      * Client-side applications **must include an axe check** as part of their e2e suite. The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) for this purpose.
 
 2. When you push your code to a feature branch or merge to master, the automated build process will test for Accessibility/508 compliance.
-   1. Static content created by Markdown files or the content management system (CMS) will be tested as part of the build step.
+   1. Static content created by Markdown files or the Content Management System (CMS) will be tested as part of the build step.
    2. Client-side applications will be tested for accessibility as part of their larger e2e test suite.
 
 3. If a build error occurs, fix the issue and submit your code again.
