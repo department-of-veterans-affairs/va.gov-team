@@ -17,7 +17,7 @@
 ### Availability
 Desired date and time for research sessions
 Date | Time (EST)
------|------
+---- | ----
 9/11/2019 | 9am – 10am
 9/11/2019 | 5pm – 6pm
 ### Tasks
