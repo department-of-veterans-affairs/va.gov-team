@@ -5,10 +5,9 @@ September 2019
 *Hypothesis & Assumptions*
 *Questions*
 ## Method
-Remote Moderated
-  Types
-Location
-Tools
+* Remote Moderated
+* Location
+* Tools
 # Research Plan
 - [ ] Task
 - [ ] Task
