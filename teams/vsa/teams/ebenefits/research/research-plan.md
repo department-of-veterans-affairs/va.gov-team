@@ -1,5 +1,6 @@
 # Research Plan for VSA eBenefits September 2019
 ## Goals
+Overview
 ### Team
 ### Hypothesis & Assumptions
 ### Questions
