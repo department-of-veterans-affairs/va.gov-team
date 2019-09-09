@@ -37,9 +37,8 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 - [ ] Front-end Engineers: Attend deep-dive session
 - [ ] Back-end Engineers: Attend deep-dive session
 - [ ] PM, Designers and Content Writer(s): Request content and IA intro
-- [ ] PM and Content Writer(s): Request IA intro
 - [ ] PM and Front-End Engineers: Request analytics intro
-- [ ] PM: Request 508 intro
+- [ ] PM Request 508 intro
 - [ ] PM and Engineers: Request load testing, privacy, and security intro
 - [ ] PM and Engineers: Request ATO intro
 
