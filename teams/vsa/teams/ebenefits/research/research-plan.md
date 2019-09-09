@@ -14,11 +14,11 @@
 ### Timeline
 * Dates/Sprints?
 * Length of Sessions
-### Availability
-Desired date and time for research sessions
+### Desired Availability
 Date | Time (EST)
 ---- | ----
 9/11/2019 | 9am – 10am
+---- | ----
 9/11/2019 | 5pm – 6pm
 ### Tasks
 - [ ] Task
