@@ -19,62 +19,6 @@ tags:
       description: 'Find out more about our store'
       url: 'http://swagger.io'
 paths:
-  /appointments/summary:
-    get:
-      tags:
-        - 'Appointments'
-      summary: 'Status check if user is eligible to schedule appointments, and counts of confirmed/pending appointments'
-      description: >+
-        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622435">Corresponding mockup page</a><br /><br />
-        Existing endpoints:<br />
-        <ul>
-          <li>ICN or some kind of indication that person is a VA patient
-            <ul>
-              <li><code>/users/v1/session/mhpuser</code></li>
-            </ul>
-          </li>
-          <li>Registered at at least one facility
-            <ul>
-              <li><code>/users/v1/session/identifiers.json</code></li>
-            </ul>
-          </li>
-          <li>Right of access accepted flag
-            <ul>
-              <li><code>/users/v1/session/mhpuser</code></li>
-            </ul>
-          </li>
-          <li>CC eligibility
-            <ul>
-              <li><code>/adr/v2/patients/{patient-icn}/eligibility/communityCare</code></li>
-            </ul>
-          </li>
-          <li>Sites supporting VAR
-            <ul>
-              <li>Used to determine routing for initial new appointment page</li>
-              <li><code>/VeteranAppointmentRequestService/v4/rest/facility-service/supported-facilities</code></li>
-            </ul>
-          </li>
-        </ul>
-      operationId: ''
-      responses:
-        '200':
-          description: OK
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  confirmedCount:
-                    type: integer
-                    example: 1
-                  pendingCount:
-                    type: integer
-                    example: 2
-                  pastCount:
-                    type: integer
-                    example: 0
-        default:
-          description: Unexpected error
   /appointments:
     get:
       tags:
@@ -130,38 +74,6 @@ paths:
         default:
           description: Unexpected error
   /appointments/{appointmentId}:
-    get:
-      tags:
-        - 'Appointments'
-      summary: 'Returns a confirmed appointment and its details'
-      description: >+
-        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622475">Corresponding mockup page</a><br /><br />
-        Existing endpoints:<br />
-        <ul>
-          <li>Doctor name, specialization</li>
-          <li>Address, date and time, purpose, type, contact info
-            <ul>
-              <li><code>/appointments/v1/patients/{patient-id}/appointments</code></li>
-            </ul>
-          </li>
-          <li>GAP: Don't see appt type, reason, doctor, specialization, or contact info in service</li>
-        </ul>
-      operationId: ''
-      parameters:
-        - name: appointmentId
-          in: path
-          required: true
-          schema:
-            type: string
-      responses:
-        '200':
-          description: OK
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/Appointment'
-        default:
-          description: Unexpected error
     delete:
       tags:
         - 'Appointments'
@@ -185,7 +97,7 @@ paths:
                 type: object
         default:
           description: Unexpected error
-  /requests:
+  /requests/:
     get:
       tags:
         - 'Requests'
@@ -233,42 +145,10 @@ paths:
         default:
           description: Unexpected error
   /requests/{requestId}:
-    get:
-      tags:
-        - 'Requests'
-      summary: 'Returns an appointment request and its details'
-      description: >+
-        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622433">Corresponding mockup page</a><br /><br />
-        Existing endpoints:<br />
-        <ul>
-          <li>Clinic address, purpose, type, preferred dates, office number, contact number, call back time
-            <ul>
-              <li>
-                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      operationId: ''
-      parameters:
-        - name: requestId
-          in: path
-          required: true
-          schema:
-            type: string
-      responses:
-        '200':
-          description: OK
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/Request'
-        default:
-          description: Unexpected error
     delete:
       tags:
         - 'Requests'
-      summary: 'Cancel an appointment request'
+      summary: 'Cancel a requested appointment'
       description: ''
       operationId: ''
       parameters:
@@ -405,6 +285,11 @@ paths:
           required: true
           schema:
             type: string
+        - name: typeOfCareId
+          in: query
+          required: true
+          schema:
+            type: string
       description: >+
         Existing endpoints:<br />
         <ul>
@@ -439,6 +324,11 @@ paths:
       parameters:
         - name: facilityId
           in: path
+          required: true
+          schema:
+            type: string
+        - name: typeOfCareId
+          in: query
           required: true
           schema:
             type: string
