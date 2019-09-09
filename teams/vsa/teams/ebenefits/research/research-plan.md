@@ -35,3 +35,5 @@ Include names, email, phone numbers for all attendees
 * Notes & Recordings
 * Synthesis
 * Research Checklist: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/lead-researcher-checklist-research-projects.md
+* Recruitment Resource: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/perigean-recruiting-guidance.md
+
