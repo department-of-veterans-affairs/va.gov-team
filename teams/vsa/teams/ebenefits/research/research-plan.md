@@ -12,11 +12,14 @@
 2. Recruitment Strategy
 ## Research Plan
 ### Timeline
-### Team Availability
-Date | Times | Team Members Available
------|------|-----------------------
-9/11/2019 | TBD (timezones are hard) | @arickalewis1
-
+* Dates/Sprints?
+* Length of Sessions
+### Availability
+Desired date and time for research sessions
+Date | Time (EST)
+-----|------
+9/11/2019 | 9am – 10am
+9/11/2019 | 5pm – 6pm
 ### Tasks
 - [ ] Task
 - [ ] Task
