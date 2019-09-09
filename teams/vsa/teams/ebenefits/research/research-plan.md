@@ -22,3 +22,14 @@ Date | Time (EST)
 ### Tasks
 - [ ] Task
 - [ ] Task
+### Roles
+Include names, email, phone numbers for all attendees
+* Moderator:
+* Research writing & task development:
+* Note takers: 
+* Observers:
+* Participant recuriting & screening:
+## Resources
+* Project Brief
+* Notes & Recordings
+* Synthesis
