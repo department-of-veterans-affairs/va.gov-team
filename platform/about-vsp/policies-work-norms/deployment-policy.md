@@ -6,7 +6,9 @@ There are automated deploys of `vets-api` and `vets-website` Monday through Frid
 
 ## Exceptions to automated deploys
 
-If there are days or periods of time when many people will be out of the office (i.e. holidays) the automated deploys will be suspended. If people aren’t in the office to support the code going out, it’s not responsible to release. 
+If there are days or periods of time when many people will be out of the office (i.e. holidays) the automated deploys will be suspended. If people aren’t in the office to support the code going out, it’s not responsible to release.
+
+**Note**: This only applies to _automated_ deploys. User-initiated deploys (e.g. a website deploy to add an emergency banner to the homepage) will be allowed to proceed as usual.
 
 ### Holiday release freeze schedule
 
