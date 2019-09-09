@@ -1,5 +1,4 @@
-# Research Plan for VSA eBenefits 
-September 2019
+# Research Plan for VSA eBenefits September 2019
 ## Goals
 ### Team
 ### Hypothesis & Assumptions
@@ -14,8 +13,9 @@ September 2019
 ## Research Plan
 ### Timeline
 ### Team Availability
-Date | Time | Team Members Available
+Date | Times | Team Members Available
 -----|------|-----------------------
+9/11/2019 | TBD (timezones are hard) | Aricka
 
 ### Tasks
 - [ ] Task
