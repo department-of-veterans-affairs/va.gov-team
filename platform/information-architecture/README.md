@@ -2,7 +2,7 @@
 In this folder, you'll find information specific to how Information Architecture works on VA.gov.
 
 ### Communication channels
-- Slack channels: #vsp-content-ia
+- Slack channels: #vfs-product-support, #vsp-content-ia
 - Github labels: content-ia-team, ia
 
 ### Points of contact
