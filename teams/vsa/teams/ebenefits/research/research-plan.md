@@ -15,7 +15,7 @@
 ### Team Availability
 Date | Times | Team Members Available
 -----|------|-----------------------
-9/11/2019 | TBD (timezones are hard) | Aricka
+9/11/2019 | TBD (timezones are hard) | @arickalewis1
 
 ### Tasks
 - [ ] Task
