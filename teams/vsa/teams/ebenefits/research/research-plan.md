@@ -34,3 +34,4 @@ Include names, email, phone numbers for all attendees
 * Project Brief
 * Notes & Recordings
 * Synthesis
+* Research Checklist: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/lead-researcher-checklist-research-projects.md
