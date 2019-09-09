@@ -8,6 +8,10 @@ September 2019
 * Remote Moderated
 * Location
 * Tools
-# Research Plan
+## Participants & Recruitment
+1. Participant Criteria
+2. Recruitment Strategy
+## Research Plan
+*Timeline*
 - [ ] Task
 - [ ] Task
