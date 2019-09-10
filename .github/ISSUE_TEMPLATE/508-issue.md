@@ -35,6 +35,15 @@ assignees: ''
 
 **VFS Point of Contact:** _First name only. Delete if not applicable._
 
+## When Should the Issue be Reviewed by a 508 Specialist?
+
+Issue tickets that should be tested in pull request will include the label
+`508-test-pr`. This means the 508 specalist has asked to review your feature
+branch as part of the code review, before it is merged into `master` and
+deployed to Staging.
+
+`Staging server` or `Pull request`
+
 ## Acceptance Criteria
 
 <!-- As a keyboard user, I want to open the Level of Coverage widget by pressing Spacebar or pressing Enter. These keypress actions should not interfere with the mouse click event also opening the widget. -->
@@ -67,7 +76,7 @@ If the issue is one that can be fixed easily by changing HTML, CSS, or JavaScrip
 ```html
 <button
   aria-label="Open Level of Coverage Tool"
-  class="adc-c-button adc-c-button--large"
+  class="adc-c-button adc-c-button-large"
   type="button"
 >
   Level of Coverage

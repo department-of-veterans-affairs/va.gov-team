@@ -25,9 +25,10 @@
 3. _If problems are found,_ DSVA will create a new Github issue for each Accesibility/508 problem found.
    - The new Github issues will be assigned to the person who requested the review in Step #3.
    1. Each issue will describe the specific changes required to make the code Accessible/508 compliant - what the problem is, where the problem occurs, how to fix it, and the issue severity.
-   2. **Your team is expected to make all the changes prior to launch.** When your team has completed the changes, update each Github issue with the following comment
-      - `Changes completed in this code [link to the working code on staging]`
-   3. Close all the issues.
+   2. **Your team is expected to make all changes prior to launch.** When your team has completed the changes, update each Github issue with the following comment:
+      - For issues that can be reviewed in Staging: `@<who opened the issue>` Changes completed in this code `[link to staging]`.
+      - For issues that should be reviewed in a pull request: `@<who opened the issue>` Changes completed in this code `[link to your pull request]`
+   3. The person who opened the issue will review your pull request or code. They will let you know if any changes are required. 
    4. After you've closed all the issues, this pre-launch activity is considered complete.
    5. DSVA will then do [Step #3](#step-3-va-508-office-review).
 4. _If no problems are found,_
