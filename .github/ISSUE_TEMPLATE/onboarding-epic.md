@@ -15,6 +15,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 
 ## Onboarding Checklist
 
+- [ ] PM: Attend intro meeting with product support PM
 - [ ] Attend general onboarding meeting
 - [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
@@ -33,14 +34,14 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
   - [ ] [Set up internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
 - [ ] Designers: Attend breakout session
 - [ ] Engineers: Attend breakout session
-- [ ] Full team: Attend the Discovery and Logistics Workshop
 - [ ] Front-end Engineers: Attend deep-dive session
 - [ ] Back-end Engineers: Attend deep-dive session
-- [ ] PM, Designers and Content Writer(s): Request content and IA intro
+- [ ] PM, Designers and Content Writer(s): Request content and IA intro 
 - [ ] PM and Front-End Engineers: Request analytics intro
+- [ ] Full team: Request KPI workshop with analytics team
 - [ ] PM Request 508 intro
 - [ ] PM and Engineers: Request load testing, privacy, and security intro
-- [ ] PM and Engineers: Request ATO intro
+
 
 ## Notes:
 To track the work needed to complete the items in this checklist, you may want to create GitHub issues. 
