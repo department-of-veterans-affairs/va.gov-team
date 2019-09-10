@@ -36,7 +36,7 @@ paths:
                 (unused because telehealth is enabled?)</li>
             </ul>
           </li>
-          <li>Community care appointments are a separate endpoint, combined on front end
+          <li>Community care appointments are a separate endpoint
             <ul>
               <li>
                 <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/booked-cc-appointments</code>
@@ -131,7 +131,20 @@ paths:
       tags:
         - 'Requests'
       summary: 'Create a new appointment request'
-      description: ''
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/community-care-appointment</code>
+              </li>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
       operationId: ''
       requestBody:
         $ref: '#/components/requestBodies/RequestBody'
