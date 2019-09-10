@@ -157,6 +157,7 @@ The goal of the MVP is to improve usability of VAOS by rewritting the tool on VA
     - Increase the percent of veterans who are able to successfully request or schedule an appointment after starting the 'new appointment' flow compared to the existing tool
     - Decrease the number of call center support tickets created about VAOS
 
+#### Acceptance Criteria
 To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mostly mirrors the functionality of the existing VAOS tool
 - Veterans can see details for their confirmed, pending, and past appointments
 - Veterans can cancel an existing appointment
