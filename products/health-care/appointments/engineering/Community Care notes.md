@@ -25,3 +25,7 @@ Currently (pre-drive time, 9/2019), you must have one of the following codes to 
 
 Source: [isVceEligible](https://coderepo.mobilehealth.va.gov/projects/VAR/repos/var-web/browse/veteran-appointment-requests/app/models/community-care-eligibility-collection.js#27), [list of codes](https://coderepo.mobilehealth.va.gov/projects/VAR/repos/var-web/browse/veteran-appointment-requests/app/models/community-care-vce-codes.json).
 
+## Drive time
+
+- Current understanding is that this will be an additional code in the the `/eligibility/communityCare` service.
+- The address being used is from the E&E system, which Vet360 writes addresses to, so we may be able to provide a way for Veterans to update their address.
