@@ -27,7 +27,6 @@
 
 # Implementation Information
 - [Status](#status)
-- [Solution Narrative](#solution-narrative)
 - [How to Access and Test](#how-to-access-and-test)
 - [Error Handling](#error-handling)
 - [Service Level Objective](#service-level-objective)
@@ -48,8 +47,9 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
 
 ### Veterans
 - Find where & how to schedule a healthcare appointment online
-- Schedule a healthcare appointment online (where permitted) quickly & easily
-- Find & take action on next steps to schedule healthcare appointments that can't be scheduled online
+- Schedule a healthcare appointment online quickly & easily
+- Choose between VA and Community Care healthcare when schduling (if eligible)
+- Find actionable next steps to schedule healthcare appointments that can't be scheduled online
 - Schedule (or find next steps to schedule) a healthcare appointment using common desktop, mobile, or tablet browsers
 
 ### Business
@@ -101,35 +101,26 @@ The [VA Mission Act](https://missionact.va.gov/) mandates expanded options for v
 #### Current capabilities & limitations
 The online scheduling tool allows veterans to direclty self-schedule or request an appointment at a VA facility (or request an appointment with a community care private facility) for a number of types of care (primary care, mental health, social work, specialties like optometry, etc.).
 
-##### Self-scheduling directly is usually not an option
-Technically, veterans are able to directly self-schedule for many types of health appointments at the VA. However, intricate & often-times impossible work is required to make a single given schedule complete & accurate with regard to availability, so site admins choose to make a majority of healthcare appointment types not self-schedulable. The reasons for this are various, but basically boil down to limitations within how resources are grouped under a schedule - as a bad example, a multi-disciplinary doctor could be a part of two clinics or two locations, so might be on two schedules simultaneously, which would make it impossible to know whether he or she was truly available at a given time based on looking at just one clinic's schedule. This problem also affects doctors and schedulers, who may have to look at several calendars simulatneously in order to know what's free and where to go next.
+##### Self-scheduling directly is not currently configured for all care types
+Technically, veterans are able to directly self-schedule for many types of health appointments at the VA. However, a lot of work is required to make a single given schedule complete & accurate with regard to availability, so site admins often default to not allowing direct self-scheduling. The reasons for this are various, but basically boil down to limitations within how resources are grouped under a schedule - as a bad example, a multi-disciplinary doctor could be a part of two clinics or two locations, so might be on two schedules simultaneously, which would make it impossible to know whether he or she was truly available at a given time based on looking at just one clinic's schedule. This problem also affects doctors and schedulers, who may have to look at several calendars simulatneously in order to know what's free and where to go next.
 
 Generally, veterans are able to self-schedule for Primary Care with their PACT (Patient-Aligned Care Team), and may be able to schedule for other things that their PACT controls (disciplines within a PACT vary based on individual veteran needs), but most care types at most facilities are only requestable.
 
+About 45% of legacy VAOS appointments are directly scheduled, compared to 55% that are requested.
+
 ##### Registration happens offline & must be done per-region
-An additional limitation is that a veteran must be registered with a VA region, which is an offline process that happens their VA facility or over the phone before they're able to use the online scheduling tool. Worse, the registration isn't national since VistA instances are deployed at the regional level - so while you may be able to seek care at your local VAMC via online scheduling, you will not have the option to online schedule after moving to a new state. There is no way to register online.
+An additional limitation is that a veteran must be registered with a VA region, which is an offline process that happens their VA facility or over the phone before they're able to use the online scheduling tool. The registration isn't national since VistA instances are deployed at the regional level - so while you may be able to seek care at your local VAMC via online scheduling, you will not have the option to online schedule after moving to a new state. There is no way to register online.
 
-##### Drive Time must be integrate
+##### Community Care & Drive Time
+'Drive Time' is one of the eligibility criteria for Community Care, and is based on residential address used to enroll in healthcare. Specialty appointments have a max drive time of 60 minutes, and primary care 30. If no facilities exist within this range, a veteran will be eligible. There are also three static codes that determine eligibility ('grandfathered', 'hardship', and 'no VA facility').
 
-
-### Areas for Further Exploration
-
-#### Prototype usability, technical discovery, and metrics gathering
-- Based on existing research and interviews with product owners, DSVA created [prototypes](https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622434) for several scheduling flows. We are putting these flows in front of veterans in early Sept 2019 and running targeted usability sessions against the prototypes to test the design hypotheses. The outcome of these research sessions will inform our product development priorities.
-- Technical discovery work is currently underway to understand what the technical implications are of the prototype as it stands today.
-- Data gathering of baseline / current tool performance underway
-
-#### Calendar UI
-Direct scheduling UX centers around a calendar view in the prototypes. We need to do some discovery here to determine whether this new pattern is appropriate or if it could be solved more simply.
-
-#### Community Care research
-After initial usability testing is complete and development is underway, we'll perform additional discovery and user research centered around community care integration - where veterans expect this option, how we should present their options, handling health care registration and eligibility, technical discovery regarding actual direct-scheduling capabilities, integrating with the VA.gov Facility Locator, etc.
+The three static codes are used to determine eligibility for CC in existing VAOS, but the VA.gov tool will pull data for these _plus_ drive time from the new CCE API.
 
 #### Provider-based scheduling
-Currently, veterans start the online scheduling flow by selecting a type of care they'd like to schedule. In the Cerner future, it should be possible to enable provider-based scheduling (which is common in private sector solutions). However, it should currently be possible to schedule with providers that a veteran has seen before. More technical & design discovery needs to happen to understand this use case.
+Currently, veterans start the online scheduling flow by selecting a type of care they'd like to schedule. In the Cerner future, it should be possible to enable provider-based scheduling (which is common in private sector solutions). However, it may currently be possible to schedule with providers that a veteran has seen before. More technical & design discovery needs to happen to understand this use case.
 
 #### Improving DevOps and SRE capabilities
-We don't currently have a lot of insight into the performance of the veteran-facing tool and associated bottlenecks, which makes issues hard to trace and debug. This point also hinders our ability to get a baseline reading of performance, which would be helpful in order to prioritize problem areas in a data-informed way.
+We don't currently have a lot of insight into the performance of the veteran-facing tool and associated bottlenecks, which makes issues hard to trace and debug. This point also hinders our ability to get a baseline reading of performance, which would be helpful for prioritizing problem areas in a data-informed way.
 
 #### Duplication in messaging options & platforms
 The existing VAOS solution supports messages / notifications from providers / schedulers. Additionally, veterans can write extra details in their appointment or appointment request, which will get relayed to providers along with the other appointment details. Responding to an appointment from their side will throw a message into the veteran's VAOS messaging queue that they can check from within the tool. However, this functionality duplicates Secure Messaging, which should be the hub for all messages between veterans and VA healthcare. We should do discovery research on what problems this is causing for veterans and what they'd like to see from VAOS messaging, and how to reduce duplication with other messaging tools.
@@ -141,23 +132,21 @@ Veterans can already cancel appointments - we may wish to hide some complexity f
 
 ### Strategic Bets
 
-#### Improving the UX of the scheduling tool using human-centered design principles will improve completion rates for scheduling / requesting an appointment and overall veteran satisfaction rates.
-Current Analytics data suggests that roughly 30% of veterans who enter the online scheduling flow are able to complete the flow (by either requesting or directly scheduling an appointment). There are some systematic issues that tie into this number (e.g., veterans may not be able to complete the flow for their combination of facility and care type), but we believe we can significantly improve the completion rates through better UX design. Better completion rates should translate into more satisfied veterans as well.
+#### Applying human-centered design principles to VAOS development will improve completion rates for scheduling / requesting an appointment and overall veteran satisfaction rates.
+Current Analytics data suggests that roughly 30% of veterans who enter the online scheduling flow are able to complete the flow (by either requesting or directly scheduling an appointment). We believe we can significantly improve the completion rates through better UX design. Better completion rates should translate into more satisfied veterans as well.
 
 #### Revising the content of the scheduling tool with an eye toward plain language will improve veteran satisfaction and completion rates.
 Scheduling options are confusing. Not all appointments can be directly scheduled, not all facilities are available to a veteran, not all care types are avaialable within a given facility, Community Care has specific eligibility requirements that aren't necessarily clear, it's not always clear how to book over the phone if online isn't an option, etc. We believe we can improve veteran satisfaction and completion rates by better explaining options to veterans, and providing more actionable next steps for completing appointment scheduling in cases where booking or requesting online isn't possible.
 
-#### Rewriting the tool on the VA.gov platform (instead of via VA Mobile App Store) using established design patterns will improve long-term maintainability, sustainability, and iteration speed.
+#### Building VAOS on the VA.gov platform will improve long-term maintainability, sustainability, and iteration speed.
 Rewritting the veteran-facing scheduling application on VA.gov will give us access to shared resources across product, devops, design, research, issue triage, and insights/analytics. Additionally, VA.gov already has established design and front end patterns that we can reuse, while also giving us the ability to deploy to production at will.
 
-#### Hosting the tool on VA.gov will improve discoverability and overall veteran experience.
-Veterans are already familiar with VA.gov and understand how to interact with the VA thorugh it. Moving the scheduling experience to VA.gov will improve the visibility and discoverability of the tool, while using existing VA.gov design patterns will improve cohesion and veteran comfort with using the tool to complete scheduling tasks.
 
-#### Improving SRE & DevOps capabilities will ultimately improve completion rates and veteran satisfaction with the scheduling tool [WIP]
-The current tool has little in the way of performance monitoring, latency is high due to old backend systems and service architecture that doesn't serve the needs of the existing front end (e.g., many calls for one resource), and developer speed is low due to challenges understanding the existing codebase & lack of dedicated SRE & devops expertise to help set the team up for success. Solving these key challenges will help us deliver a faster, more resilient, more efficient tool to veterans while reducing the long-term maintenance cost of the tool.
+#### Improving SRE & DevOps capabilities will ultimately improve completion rates and veteran satisfaction with the scheduling tool
+The legacy tool has no performance monitoring, and developer speed is low due to challenges understanding the existing codebase & lack of dedicated SRE & devops expertise to help set the team up for success. Solving these key challenges will help us deliver a faster, more resilient, more efficient tool to veterans while reducing its long-term maintenance costs.
 
-### MVP Implementation [WIP]
-The goal of the MVP is to improve discoverability and usability of VAOS by rewritting the tool on VA.gov using existing design patterns already implemented there. We will not be introducing any new features compared to the existing tool, but will instead focus solely on veteran-centered usability.
+### MVP Implementation
+The goal of the MVP is to improve usability of VAOS by rewritting the tool on VA.gov using existing design patterns already implemented there. We will not be introducing any new features compared to the existing tool, but will instead focus solely on veteran-centered usability.
 
   - KPIs
     - overall veteran usage of the tool
@@ -169,14 +158,13 @@ The goal of the MVP is to improve discoverability and usability of VAOS by rewri
     - Decrease the number of call center support tickets created about VAOS
 
 To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mostly mirrors the functionality of the existing VAOS tool
-- Veterans can see their scheduled appointments (we may add functionality to view pending and past appointments as well)
+- Veterans can see details for their confirmed, pending, and past appointments
 - Veterans can cancel an existing appointment
-- Veterans can see details about an appointment (which details are tbd)
 - Veterans can directly schedule a new appointment for a type of care, where possible
 - Veterans can request to schedule a new appointment for a type of care, where possible
 - Veterans can request to schedule a new appointment for Community Care for a given type of care (this implies checking CC eligibility using CCE API, which includes Drive Time checks)
 - Veterans can easily identify the 'next action' when the care they're seeking isn't available to them
-- Veterans will receive confirmation and update notifications via email (and have means of opt-out either in the email or via their VA.gov account).
+- Veterans will receive confirmation and status update notifications via email (and have means of opt-out either in the email or via their VA.gov account).
 
 Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to handle:
 - Authentication with necessary VAMF services
@@ -184,22 +172,10 @@ Additionally, the front end will need to talk to a new vets-api wrapper for the 
 
 We will also need to create content that will introduce the scheduling tool and give veterans actionable next steps in cases where they hit a wall (e.g., they're not registered anywhere, the care they want isn't avaialble at their registered sites, their site isn't configured for online scheduling, etc.).
 
-Open MVP Items for discussion
-- Move messages sent from VAOS / Schedule Manager to Secure Messaging.
-- Provider-based scheduling: offer veterans an alternative to 'care type' flow by adding 'provider selection' option that allows veterans to book appointments with care workers / doctors who they've seen before
-  - Not sure if this is possible with current data, unclear what kind of lift this is or if possible at all pre-Cerner
-- Reschedule: Give veterans a 'reschedule' option that hides complexity of cancel / rebook process
-  - Needs scoping & discovery
- 
-This prototypes mostly reflects what we're striving for with the MVP:
-[Initial prototype based on DSVA research](https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622434)
-
-Our aim is to perform usability testing on this MVP prototype quickly, and iterate on the actual flows for how veterans will be able to accomplish the stated goals before launching broadly. Our iteration may involve a beta release using the existing beta app infrastructure on VA.gov.
-
 ## Value Propositions
 
 #### User Value
-Provides a better user experience that makes it easier for veterans to directly schedule or request a healthcare appointment. The experience is integrated and cohesive with VA.gov, which is already a property with which many veterans are familiar.
+Makes it easier for veterans to directly schedule or request a healthcare appointment, either with the VA or a Community Care provider. The experience is integrated and cohesive with VA.gov, which is already a property with which many veterans are familiar.
 
 #### Business Value
 Better trust and satisfaction with the VA. More appointments scheduled and requested online, reducing support costs for phone-based bookings. More maintainable solution by in-house teams over the long-term.
@@ -234,24 +210,22 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 # Implementation Info
 
 ## Status
-- In active discovery
+- In active discovery and development
 - Team onboarding onto VSP
-- Dev work starting on scaffolding & basic UIs
-
-## Solution Narrative
-- **Date**: summary of any big changes and why
-- **Date**: summary of any big changes and why
 
 ## How to Access and Test
-- Link:
+- Link: 
 - Password protection info:
 - User authentication info:
 
 ## Error Handling
 
+
 ## Service Level Objective
 
+
 ## API Calls and Dependent Systems
+
 
 ## Resources and Documentation
 
@@ -267,7 +241,7 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 
 ## Team
 
-- VA Executive Sponsor `*`: 
+- VA Executive Sponsor ``: 
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`:
 - Product Manager `*`:
