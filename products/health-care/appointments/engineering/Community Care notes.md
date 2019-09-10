@@ -13,6 +13,8 @@ Four primary API calls:
 - `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/booked-cc-appointments` 
    - Returns successfully booked CC appointments
    
+Pending community care requests are in the normal requests service (`/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments`). They are distinguished by having a `ccAppointmentRequest` object in the data.
+   
 ## Eligibility
 
 Currently (pre-drive time, 9/2019), you must have one of the following codes to be eligible:
