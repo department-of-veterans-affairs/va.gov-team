@@ -10,7 +10,7 @@ assignees: ""
 
 1. Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team.
 2. If this issue is being opened by a VFS team, please add the `triage-incident` and `product support` labels.
-3. **Issue tickets should be tested when you have created a pull request.** This gives the 508 or quality assurance person time to review your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.
+3. **Issue tickets should be tested when you have created a pull request.** This gives the 508, or quality assurance, person time to review your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.
 4. Text inside `<-- comment -->` blocks will not appear in your issue ticket. These comments offer guidance on what information you should provide for each section.
 
 <!--
@@ -43,7 +43,7 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 
 <!--
 * Operating System, including `<VERSION>` or "latest"
-* Browser,including `<VERSION>` or "latest"
+* Browser, including `<VERSION>` or "latest"
 * Screenreading device, if applicable
 * Server destination (localhost, Docker container, staging, production)
 -->
