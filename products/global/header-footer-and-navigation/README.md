@@ -1,4 +1,4 @@
-# Navigation Components
+# Menus, Header, Footer and Navigation
 
 ### Page navigation (for VA.gov)
 * Left-hand menu
@@ -18,5 +18,4 @@
  * Header and footer
 
 
-# Header and Footer 
 
