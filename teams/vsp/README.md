@@ -1,13 +1,16 @@
 # Inventory of edits to this branch
 Per discovery session with Rachael Roueche and Andrea Hewitt on 9/10/2019 the following updates have been implemented in the va-gov-team/teams/vsp hierarchy.
 
-- "administrative" folder and its contents removed
-- "planning" folder relabeled as "sprint-objectives"
-- key documents moved or added to "vsp" folder:
--- VSP-team-charter (this template should supplant readme structure proposed by content/IA team)
--- VSP-team-member-onboarding (currently a blank Markdown file; content to be supplied by Nancy Smith per Rachael)
--- workflow-cadence
--- 
+* "administrative" folder and its contents removed
+* "planning" folder relabeled as "sprint-objectives"
+* key documents moved or added to "vsp" folder:
+  * VSP Mission, Objectives, Roadmap, and OKRs (currently an uploaded PDF; discussion of linking to Google Doc as this document is updated frequently)
+  * VSP-team-charter (this template should supplant readme structure proposed by content/IA team)
+  * VSP-team-member-onboarding (currently a blank Markdown file; content to be supplied by Nancy Smith per Rachael)
+  * workflow-cadence
+* key documents added to individual teams folders:
+  * [team-name]-team-charter (this template should supplant readme structure proposed by content/IA team)
+  
 
 
 
