@@ -1,7 +1,7 @@
 # Authenticated Experience Sprint Objectives
 A high-level summary of the goal the DSVA Product Lead would like to accomplish during a sprint which helps 
 
-- Scrum Team deliver value every Sprint
+- Team deliver value every Sprint
 - Development Team stay focused
 - Product Owner determine priority
 
