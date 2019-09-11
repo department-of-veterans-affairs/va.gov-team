@@ -69,6 +69,6 @@ If you encounter issues or have any questions, raise them in the *#vfs-platform-
 
 <hr>
 
-Next: [Environments](environments.md)
+Next: [Environments](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/environments.md)
 
 Back: [Developer Docs Introduction](README.md)
