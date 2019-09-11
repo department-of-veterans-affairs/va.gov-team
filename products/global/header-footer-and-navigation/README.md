@@ -5,7 +5,7 @@
 * Breadcrumbs
 * Page jump-links
 
-### Primary global navigation (for VA.gov)
+### Primary global header and footer (for VA.gov)
 * Header and footer
 * Mega menus
 * Global utilities
@@ -14,7 +14,7 @@
   * Contact us
   * Veterans Crisis Line
   
- ### Secondary global navigation (for VA.gov subdomains and other select VA web properties)
+ ### Secondary global header and footer (for VA.gov subdomains and other select VA web properties)
  * Header and footer
 
 
