@@ -1,5 +1,6 @@
-# Inventory of edits to this branch
-Per discovery session with Rachael Roueche and Andrea Hewitt on 9/10/2019 the following updates have been implemented in the va-gov-team/teams/vsp hierarchy.
+# Inventory of edits to this branch (see Zenhub issue #1514)
+
+Per discovery session with Rachael Roueche and Andrea Hewitt on 9/10/2019 the following updates have been implemented in the va-gov-team/teams/vsp hierarchy:
 
 * "administrative" folder and its contents removed
 * "planning" folder relabeled as "sprint-objectives"
@@ -11,7 +12,12 @@ Per discovery session with Rachael Roueche and Andrea Hewitt on 9/10/2019 the fo
 * key documents added to individual teams folders:
   * [team-name]-team-charter (this template should supplant readme structure proposed by content/IA team)
   
+Potentially desirable updates discussed but not implemented:
 
+* roster document for each team folder
+* editing path to "va.gov.team/teams/vsp/programs" to reduce confusion prompted by multiple folders with the same name at different levels of hierarchy
+  
+**All content below this line is legacy and should be folded into VSP-team-charter.md**
 
 
 
