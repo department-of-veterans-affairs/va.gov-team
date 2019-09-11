@@ -57,7 +57,7 @@ The Veteran-facing Services Platform is broken into three parts:
 
 #### Internal Tools
 
-To get access to metrics, build logs, deployment information and exception details, see [Internal Tools Access](internal-tools-access.md) documentation.
+To get access to metrics, build logs, deployment information and exception details, see [Internal Tools Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md) documentation.
 
 <hr>
 
