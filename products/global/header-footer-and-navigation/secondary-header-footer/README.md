@@ -37,4 +37,4 @@ We need to create a new section on design.va.gov that includes the following:
 * Self-serve instructions on how to apply the secondary header and footer to a VA website
 * Source files for the header and footer (or links to them on GitHub)
 * Guidelines on different options for implementation (e.g., which VA logo to use)
-* Design guidelines on all elements in secondary header and footer
+* Design guidelines on all elements in secondary header and footer (e.g., footer links, search, etc.)
