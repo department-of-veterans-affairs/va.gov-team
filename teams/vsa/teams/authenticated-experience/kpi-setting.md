@@ -21,7 +21,7 @@ _For example, Health Care Application (10-10EZ), Disablitiy Compensation Applica
 - Log In Flows
 - Notifications
 
-### High Level OKRs/Bets
+### High Level Objectives
 _What are the objectives within your product line that your product plays into?_
 
 _Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
@@ -34,7 +34,7 @@ _Stating this will help ensure your strategy for what to build and pain points t
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
 
-- To be determined...
+- To be determined... (information about flow and event tracking data would be helpful in understanding this area of focus)
 - [Fill out here]
 - [Fill out here]
 - [Fill out here]
@@ -42,7 +42,7 @@ _What are the major user and business pain points along the entirety of the serv
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-- To be determined...
+- The desired outcome of our product launch is to make a better more seamless experience through the website. More account creation conversions. 
 - [Fill out here]
 - [Fill out here]
 - [Fill out here]
