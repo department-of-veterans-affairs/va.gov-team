@@ -14,7 +14,7 @@
   * Contact us
   * Veterans Crisis Line
   
- ### Secondary global navigation (for VA.gov subdomains or other select VA web properties)
+ ### Secondary global navigation (for VA.gov subdomains and other select VA web properties)
  * Header and footer
 
 
