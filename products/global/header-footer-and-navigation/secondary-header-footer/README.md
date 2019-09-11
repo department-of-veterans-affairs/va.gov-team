@@ -18,8 +18,8 @@ These components help unify VA's web ecosystem by applying consistent branding, 
 Here is something to start with. The below content should get moved into an epic and expanded on (and then deleted from this page).
 
 ### Design problems for users on a VA website that is not VA.gov
-* VA logo branding and usage is inconsistant. Clicking on some logos takes a user to that website's homepage, while clicking on other logos takes a user to the VA.gov homepage.
-* The Veterans Crisis lins is inconsistent. Some are links to the VCL website while others are an adaptation of the VA.gov VCL modal.
+* VA logo branding and functionality is inconsistant. Clicking on some logos takes a user to that website's homepage, while clicking on other logos takes a user to the VA.gov homepage.
+* The Veterans Crisis Line branding and functionality is inconsistent. Some are links to the VCL website while others are an adaptation of the VA.gov VCL modal.
 * Site search is inconsistent. Some search utilities search content on that website, while others search the VA.gov website and take the user to the VA.gov search results page.
 
 #### Some examples of other VA websites
