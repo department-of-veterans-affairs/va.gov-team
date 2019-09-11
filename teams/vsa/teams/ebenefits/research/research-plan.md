@@ -11,29 +11,21 @@
 4. Hypothesis: 
 ## Method
 Research method: Moderated remote usability study, 
-
-
-### Hypothesis & Assumptions
-### Questions
-## Method
-* Remote Moderated
-* Location
-* Tools
+Why this method:
+Item to be tested:
+Tool: 
 ## Participants & Recruitment
-1. Participant Criteria
-2. Recruitment Strategy
-## Research Plan
-### Timeline
-* Dates/Sprints?
-* Length of Sessions
+Participant criteria: What are you looking for in a participant? (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
+Recruitment strategy: (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+## When
+1. Timeline
+2. Preparedness: when will "thing" be ready to test
+3. Length of Sessions
+4. Availability 
 ### Desired Availability
 Date | Time (EST)
 ---- | ----
-9/11/2019 | 9am – 10am
-9/11/2019 | 5pm – 6pm
-### Tasks
-- [ ] Task
-- [ ] Task
+5. Pilot
 ### Roles
 Include names, email, phone numbers for all attendees
 * Moderator:
@@ -41,10 +33,3 @@ Include names, email, phone numbers for all attendees
 * Note takers: 
 * Observers:
 * Participant recuriting & screening:
-## Resources
-* Project Brief
-* Notes & Recordings
-* Synthesis
-* Research Checklist: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/lead-researcher-checklist-research-projects.md
-* Recruitment Resource: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/perigean-recruiting-guidance.md
-
