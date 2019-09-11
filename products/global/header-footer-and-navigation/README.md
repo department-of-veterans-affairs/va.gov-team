@@ -1,4 +1,4 @@
-# Global navigation, menus, header, and footer
+# Navigation Components
 
 ### Page navigation (for VA.gov)
 * Left-hand menu
@@ -16,3 +16,7 @@
   
  ### Secondary global navigation (for VA.gov subdomains or other select VA web properties)
  * Header and footer
+
+
+# Header and Footer 
+
