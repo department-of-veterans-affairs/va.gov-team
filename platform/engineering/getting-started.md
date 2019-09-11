@@ -23,7 +23,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
     * Have credentials for the shared testing environments &mdash;  [dev.va.gov](https://dev.va.gov) and [staging.va.gov](https://staging.va.gov).
 
-    * Have access to [Internal Tools](internal-tools-access.md)
+    * Have access to [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
 
     * **Tip**: If you have a problem or can't get access, post in the *#vfs-platform-support* Slack channel or reach out to your DSVA contact.
 
