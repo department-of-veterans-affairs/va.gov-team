@@ -1,6 +1,4 @@
-# Global menus, navigation, header, and footer
-
-## What's included
+# Global navigation, menus, header, and footer
 
 ### Page navigation (for VA.gov)
 * Left-hand menu
