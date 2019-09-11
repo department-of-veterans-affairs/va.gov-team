@@ -8,13 +8,30 @@ Product Managers are responsible for keeping these directories up-to-date and we
 ## Global Components
 
 **Home Page**
+This includes documentation on the main area of the home page, excluding the header and footer.
+- Top tasks
+- Benefit hub links
+- Primary actions
+- Stories
 
 **Header, Footer and Navigation**
+- Header
+- Footer
+- Top Nav
+- Left Nav
+- Breadcrumbs
+- Jump Links Documentation on the header
 
 **Search**
 
+
 **Banners**
+- Global alerts
+- Promo banners
+
 
 **Global Form Features**
+- Form pre-fill
+- Save in Progress
 
 
