@@ -71,4 +71,5 @@ If you encounter issues or have any questions, raise them in the *#vfs-platform-
 
 Next: [Environments](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/environments.md)
 
-Back: [Developer Docs Introduction](README.md)
+<!-- This goes back to va.gov-vfs-teams repo.  Will keep initial page in va.gov-team repo, but will redirect users to vfs-teams repo for next pages until all pages are moved over. 
+Back: [Developer Docs Introduction](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/README.md)-->
