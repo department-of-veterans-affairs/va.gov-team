@@ -1,6 +1,8 @@
 # Research Plan for VSA eBenefits September 2019
 ## Goals
-Overview and objective statement
+1. Product & Team 
+VSA eBenefits team, eBenefits migration
+2.
 ### Team
 ### Hypothesis & Assumptions
 ### Questions
