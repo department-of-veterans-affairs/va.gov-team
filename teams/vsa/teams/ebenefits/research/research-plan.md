@@ -9,7 +9,10 @@
 * What are the top priorities for eBenefits users?
 * What are the different "types" of users for eBenefits?
 4. Hypothesis: 
-### Team
+## Method
+Research method: Moderated remote usability study, 
+
+
 ### Hypothesis & Assumptions
 ### Questions
 ## Method
