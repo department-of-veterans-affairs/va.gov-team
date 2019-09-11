@@ -1,20 +1,20 @@
 ---
 name: 508 Accessibility Issue
 about: Describe an issue related to Section 508 Accessibility Standards
-title: ''
+title: ""
 labels: 508/Accessibility
-assignees: ''
-
+assignees: ""
 ---
 
 ## Instructions
 
 1. Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team.
 2. If this issue is being opened by a VFS team, please add the `triage-incident` and `product support` labels.
-3. Text inside `<-- comment -->` blocks will not appear in your issue ticket. These comments offer guidance on what information you should provide for each section.
+3. **Issue tickets should be tested when you have created a pull request.** This gives the 508, or quality assurance, person time to review your code before it is merged into the `master` branch. Once code is merged into `master` it will be deployed to Staging. Reviewing and correcting issues becomes more difficult at this point.
+4. Text inside `<-- comment -->` blocks will not appear in your issue ticket. These comments offer guidance on what information you should provide for each section.
 
-<!--Issue Title
-[ERROR TYPE]: Brief description of the problem
+<!--
+Enter an issue title using the format [ERROR TYPE]: Brief description of the problem
 ---
 [SCREENREADER]: Edit buttons need aria-label for context
 [KEYBOARD]: Add another user link will not receive keyboard focus
@@ -43,7 +43,7 @@ assignees: ''
 
 <!--
 * Operating System, including `<VERSION>` or "latest"
-* Browser,including `<VERSION>` or "latest"
+* Browser, including `<VERSION>` or "latest"
 * Screenreading device, if applicable
 * Server destination (localhost, Docker container, staging, production)
 -->
@@ -67,7 +67,7 @@ If the issue is one that can be fixed easily by changing HTML, CSS, or JavaScrip
 ```html
 <button
   aria-label="Open Level of Coverage Tool"
-  class="adc-c-button adc-c-button--large"
+  class="adc-c-button adc-c-button-large"
   type="button"
 >
   Level of Coverage
