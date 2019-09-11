@@ -1,9 +1,14 @@
 # Research Plan for VSA eBenefits September 2019
 ## Goals
-1. Product & Team 
-* VSA eBenefits team, eBenefits migration
-2. Background
-* eBenefits 
+1. Product & Team: eBenefits migration, VSA eBenefits Team
+2. Background: 
+3. Research questions:
+* How do users interact with the current eBenefits site?
+* Is the Rated Benefits page comprehensable?
+* Are errors readable and understandable?
+* What are the top priorities for eBenefits users?
+* What are the different "types" of users for eBenefits?
+4. Hypothesis: 
 ### Team
 ### Hypothesis & Assumptions
 ### Questions
