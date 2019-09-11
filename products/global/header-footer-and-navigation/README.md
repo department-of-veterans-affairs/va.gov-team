@@ -1,4 +1,4 @@
-# Menus, Header, Footer and Navigation
+# Header, Footer, and Navigation
 
 ### Page navigation (for VA.gov)
 * Left-hand menu
