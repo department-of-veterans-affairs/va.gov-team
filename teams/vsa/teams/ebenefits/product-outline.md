@@ -3,7 +3,7 @@
 - Slack channel: vsa-ebenefits
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Steve Kovacs & Jason Wolf
+- Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
 
 ---
 
