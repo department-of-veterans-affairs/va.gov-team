@@ -17,10 +17,10 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```
 ### 1. Move "View My Rated Disabilities" into staging
 
-1. Understand how errors are handled before launching **Rated Disabilities**
+- Understand how errors are handled before launching **Rated Disabilities**
   - Identify and define what process, systems and error handling codes are present and applicable for both Rated Disabilities and `vets-api` itself
-2. Experiment and test pulling data via `vets-api`, insert into frontend
-3. Make sure a logged in test user with rated Disability data can navigate to the page and see a result
+- Experiment and test pulling data via `vets-api`, insert into frontend
+- Make sure a logged in test user with rated Disability data can navigate to the page and see a result
 
 ### 2. Establish some UX parameters as a foundation for other similar tasks
 
