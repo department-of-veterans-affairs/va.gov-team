@@ -31,7 +31,7 @@ Product Portfolio:
 [High level problem space and user goals for this team]
 
 **Roadmap:**
-![filename](filename.png)
+![PDF link](global-ux-roadmap-sept2019.pdf)
 ________________________________________
 
 **Team Members**
