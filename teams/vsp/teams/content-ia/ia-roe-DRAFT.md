@@ -66,7 +66,7 @@ It is beneficial to engage IA resources as early as possible when you begin work
 
 Outside of these time periods, IA resources can be requested any time a team thinks they could benefit from collaboration or review.
 
-## How to request a IA assistance 
+## How to request IA support 
 
 Please be sure to make requests ideally a sprint ahead of time. For example, if you know you will be finishing up your writing in the next sprint, be sure to create the request for IA support for that same sprint so we can account for it in our planning. 
 
