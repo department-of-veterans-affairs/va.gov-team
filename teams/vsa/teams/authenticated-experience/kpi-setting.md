@@ -9,6 +9,7 @@
 
 - Help users accomplish tasks more easily by leveraging what we know about them as a logged
 in user.
+- (WIP North Star Metric) Time to task completion for the authenticated user. 
 
 
 ### Product
