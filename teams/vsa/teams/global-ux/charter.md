@@ -32,7 +32,7 @@ Product Portfolio:
 
 **Roadmap:**  
 [PDF link](global-ux-roadmap-sept2019.pdf)  
-![roadmap](global-ux-roadmap-sept2019.jpg)
+![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/global-ux/global-ux-roadmap-sept2019.JPG)
 ________________________________________
 
 **Team Members**
