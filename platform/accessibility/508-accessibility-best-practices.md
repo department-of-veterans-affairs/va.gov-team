@@ -51,8 +51,7 @@
 
 - Set browser width to 1280px
 - Zoom in by pressing `Ctrl and +` on Windows or `Cmd and +` on Mac, until browser shows 400% zoom.
-- Most layouts should not scroll sideways or have content to the edges. Horizontal scrolling is permitted for content like images, maps, diagrams,
-  presentations, and data tables.
+- Most layouts should not scroll sideways or have content to the edges. Horizontal scrolling is permitted for content like images, maps, diagrams, presentations, and data tables.
 - [Understanding Success Criterion 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
 - [WCAG: Understanding Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
 
@@ -60,13 +59,8 @@
 
 - Ensure focusable elements (links, form inputs, buttons, radios, checkboxes) are all reachable by keyboard. Ensure any elements with a `tabIndex="0"` can be focused in the normal document flow.
 - Whenever possible, use proper semantic elements. For instance, it is better to use a `<button>` than re-create events and focus behaviors using custom tags.
-- Avoid keyboard traps. These are situations where users can tab into an
-  interface, but cannot tab out of it by pressing `TAB` or `SHIFT+TAB`.
-- Ensure your application has a predictable tabbing order. In left-right
-  languages like English, this is assumed to be left to right, top to bottom.
-  In multi-column layouts, use your best judgment. Interfaces that include a left
-  navigation bar would likely allow users to focus each link or button in the left
-  nav, then move focus to the main content area.
+- Avoid keyboard traps. These are situations where users can tab into an interface, but can't tab out of it by pressing `TAB` or `SHIFT+TAB`.
+- Ensure your application has a predictable tabbing order. In left-right languages like English, this is assumed to be left to right, top to bottom. In multi-column layouts, use your best judgment. Interfaces that include a left navigation bar would likely allow users to focus each link or button in the left nav, then move focus to the main content area.
 - Offer ways to skip large groups of links like a [skip to content link](https://webaim.org/techniques/skipnav/)
 - Review the [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/) for keyboard navigation patterns.
 
