@@ -3,77 +3,96 @@
 This document will help all teams working on VA.gov understand when you should engage IA resources for collaboration and support.
 All teams building on the Veteran Services Platform should follow VA.gov IA best practices and guidelines and work with an IA resource to ensure all content is easily findable and we maintain a consistent navigation experience across the site. 
 
-## What does IA do?
+### What does IA do?
 >*”Information Architecture focuses on organizing, structuring, and labeling content…The goal is to help users find information and complete tasks.“* - Usability.gov
 
+**There are 2 primary focus areas of IA on VSP**
+1. **Site IA** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. 
+2. **Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
 
-**There are 2 primary focus areas of IA on VSP:**
--	**Site IA** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. 
--	**Navigation Design** = The flow, labeling and UI of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
 
-**Tools and methodologies used**
+## Best Practices for IA on VA.gov
+
+**Keep organizational structure as flat as possible**
+A flat content structure, or hierarchy, makes content easier to discover by exposing it earlier in the experience - in other words, it  reduces the number of clicks to drill down to detail content.  
+
+**Create user friendly URLs**
+URLs should be short and easy to read, as well as provide context around where the user is in the site.  URLs also provide SEO value when structure appropriately. 
+[Follow these URL guidelines and best practices] *add link*
+
+**Design navigation paths and entry points based on your user's mental model**
+Choose entry points and crosslinking placements that enhances a user’s natural path
+
+**Follow guidelines and standards for key templates**
+We have developed templates for key pages on the site based on extensive user research.  These templates ensure we keep our content and user experience consistent and focused on what users need and when. We currently have guidelines on the hub page template established and will continue to build out additional templates and guidelines. 
+-	[IA & Usage Guidelines for Hub Pages] *add link*
+
+**Allow user insights inform the IA**
+There are many tools and methods for gaining user insights and feedback, both before and after content and tools are launched. 
 -	Content inventories
--	Competitive/comparitiveanalysis
+-	Competitive/comparitive analysis
 -	User interviews
 -	Card sorting
 -	Tree testing
+- Site analytics
+- SEO
+- User flows
 
-**Best Practices**
--	Keep organizational structure as flat as possible
--	[Follow URL guidelines and best practices] *add link*
--	Choose entry points and crosslinking placements that enhances a user’s natural path
--	[XML Sitemap guidelines] *add link*
--	[IA & Usage Guidelines for specific page templates] *add link*
-
-**What informs IA?**  *Not sure if we need this...not complete, random thoughts*
--	User research and feedback 
--	Analytics and insights
--	SEO
--	Content relationships
--	Value and priority of content
--	User flow
+<!-- Not ready to communicate XML sitemap standards
+**Use the XML Sitemap to improve SEO**
+The XML sitemap is a simple way to contribute to SEO. Review the guidelines to determine what pages are appropriate for the XML sitemap.
+[XML Sitemap guidelines] *add link* -->
 
 ## When to request IA resources
-It is beneficial to engage IA resources as early as possible when you begin work on a page, product or tool.  Including IA in your team’s product kick-off meeting, or similar meeting, will help provide background, scope and timing, so we can best determine how to work together through your project. 
-Understanding goals and scope of the content/tool you are working on will help us in evaluating IA and navigation solutions.  We will look at similar content/tools within the VA.gov ecosystem, discuss if user research is needed, etc. 
-Involving an IA resource earlier in your project will help avoid structural changes down the line. 
+It is beneficial to engage IA resources as early as possible when you begin work on a page, product or tool and collaborate throughout your project, as many things can impact and evolve IA and navigation.  Involving an IA resource earlier in your project will help avoid structural changes down the line. 
 
-**Where IA resources can help in your project:**
-* **User Research Design and Results** Review discussion guides and prototypes for navigation design and labeling, and look at how findability of your content/tool can be included as part of your research. Use results from your research to inform IA and navigation approach. 
-* **Design and Protype Development** Provide feedback on navigational elements of designs and prototypes.
-* **Content Development/Writing** Provide feedback and insights on structuring content.  Content elements are used to determine pages names/URLs. 
-* **Developer/CMS Documentation** Provide final URLs, navigation labels and placement, redirect needs, XML sitemap direction, …
+**At project kick-off** 
+- It is beneficial to engage IA resources as early as possible in your work so we can gather background information, understand scope and timing, and determine how to work together through your project. 
 
-Outside of these phases, IA resources can be requested any time a team thinks they could benefit from collaboration or review.
+**When planning user research** 
+- We will review discussion guides and prototypes for navigation design and labeling, and look at how findability of your content/tool can be included as part of your research. 
+- If the research is highly focused on findability, flow and navigation, we ask that you please include us in the sessions as well.  
+- Include us in research readouts so we can evolve your appropriately based on your findings.
+
+**To review designs and/or prototypes** 
+- We will provide feedback on navigational elements of designs and prototypes, especially if they will be used in user research. 
+
+**To review draft content** 
+- IA and writing need to work together, and as content evolves, it can impact the IA.  Content elements are also used to determine pages names/URLs. 
+- If your project includes multiple content pages or complex content, we ask that you work with us during the writing process.  We will provide feedback on how structuring content impacts IA. 
+
+**Before development** 
+- We will provide final URLs, navigation labels (in collaboration with content), link placement, redirect needs, XML sitemap direction, and any other documentation for your development team.  
+
+Outside of these time periods, IA resources can be requested any time a team thinks they could benefit from collaboration or review.
 
 ## How to request a IA assistance 
+
+Please be sure to make requests ideally a sprint ahead of time. For example, if you know you will be finishing up your writing in the next sprint, be sure to create the request for IA support for that same sprint so we can account for it in our planning. 
 
 Please open a Zenhub issue in ```va.gov-team repo```. 
 1. Choose standard issue template.
 2. Title for the issue: ```VFS IA Support: [title of tool/app/page]```
-3. Be sure to include the following in the issue:
-
-***NOT A FAN OF THIS FORMAT FOR REQUESTING SUPPORT, IS USER STORY NECESSARY?***
+4. Be sure to include the following in the issue:
 
 **User story**
 As a __________, I need __________ so I can _________.
 
 User story example: *As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure it's accurate, aligns with VA style, and is error-free.*
 
-Please include any/all of the following if available:
+Please include any/all of the following if available and as applicable:
 - Link to product outline
-- User flow or prototype
+- Planned launch date
+- User flow or link to prototype
 - Link to page(s) on staging or attach file of content/designs
 - Research synthesis if applicable
-- Planned launch date
-- *what else?*
 
-Please also tag the issue with:
+Please tag the issue with:
 - Milestone (when do you want this completed?)
 - Epic (what body of work is this a part of?)
 - Team/Practice Area label  - `content-ia-team`
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
-- Assign issue to @mnorthuis, @thatmattjohnson
+- Assign issue to @mnorthuis, @meganhkelley
 
 ## Questions?
 If you have any questions, please reach out via slack in #vfs-product-support, tag @mnorthuis and @thatmattjohnson. 
