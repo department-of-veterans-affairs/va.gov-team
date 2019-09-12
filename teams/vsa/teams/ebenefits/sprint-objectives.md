@@ -32,9 +32,10 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```diff 
 - 24 points across 14 issues
 ```
-1.	Deep discovery of EVSS and some of the innerworkings of vets-api
+1.	Deep discovery of EVSS and some of the innerworkings of `vets-api`
 2.	Established the ability to build locally, rough prototype
-3.  Lots of onboarding tasks  
+3.   Lots of onboarding tasks  
+4.   Held an eBenefits Orientation Workshop
 
 **Retro**
 - Maintain agreement on points
