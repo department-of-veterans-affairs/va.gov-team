@@ -18,8 +18,8 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 1.	Understand how errors are handled before launching **Rated Disabilities**
      - Need to identify and define what process, systems and error handling codes are present and applicable for both Rated Disabilities and `vets-api` itself
      - Experiment and test pulling data via `vets-api`, insert into frontend
-2.	Establish some UX parameters as a foundation for other similar tasks
-     - Research and analyze errors, alternate login states
+2.	Establish some UX parameters as a foundation for future, similar tasks
+     - Research and analyze errors, define alternate login states
      - Establish a baseline for current layout of features, 508
      - Initialize a research plan to apply new transformations to migrated features
 3.	Finalize Onboarding
