@@ -12,4 +12,4 @@ Working doc:  [Master URL Mapping (Google Doc)](https://docs.google.com/spreadsh
 
 [Master URL Mapping 9/12/2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/files/master-url-mapping-09122019.xlsx)
 
-[Master URL Mapping 6/28/2019](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/files/VA.Gov%20Master%20URL%20Mapping%2006282019.xlsx)
+[Master URL Mapping 6/28/2019](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/files/VA.Gov%20Master%20URL%20Mapping%2006282019.xlsx) (on vets.gov-team repo)
