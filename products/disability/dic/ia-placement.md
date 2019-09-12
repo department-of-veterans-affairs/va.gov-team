@@ -3,14 +3,15 @@
 **Aug 21 Recap - Meeting with Angie Smith**
 
 Background: DIC was initially launched within the Burials and Memorials hub on vets.gov, and was migrated to va.gov with the same placement.  A stakeholder within VBA has requested a review of our current placement for the DIC page since it is not an NCA/burial benefit.  The team would like to evaluate where this content best fits - Disability, Pension or Family hub.
+
 Discovery issue - [GH Issue 556#](https://github.com/department-of-veterans-affairs/va.gov-team/issues/556)
 
 ## Current state
-Current page location: https://www.va.gov/burials-memorials/dependency-indemnity-compensation/
-Prominent links/crosslinks:
-- **Disability:** Top nav, hub page, left nav
-- **Pension:** none
-- **Burials:** Top nav, hub page, left nav
+- Current page location: https://www.va.gov/burials-memorials/dependency-indemnity-compensation/
+- Prominent links/crosslinks:
+  - **Disability:** Top nav, hub page, left nav
+  - **Pension:** none
+  - **Burials:** Top nav, hub page, left nav
 
 ## Information from stakeholders
 - Survivor's Pension and DIC utilize the same application - applicants don’t need to separately apply for survivors pension and DIC; VA makes the determination which one they get based on which one would give the family member the most $.
