@@ -8,7 +8,7 @@ This file also includes information on whether the page should be indexable by s
 
 This is a working docoument that is continually updated.  Please check with the IA to ensure the most recent file has been uploaded. 
 
-Working doc:  [Master URL Mapping (Google Doc)](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing)
+Working doc:  [Master URL Mapping working file](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing) (Google Doc)
 
 [Master URL Mapping 9/12/2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/files/master-url-mapping-09122019.xlsx)
 
