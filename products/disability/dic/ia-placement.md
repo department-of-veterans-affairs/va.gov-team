@@ -1,6 +1,6 @@
 # DIC Placement Within IA
 
-**Aug 21 Recap - Meeting with Angie Smith
+**Aug 21 Recap - Meeting with Angie Smith**
 
 Background: DIC was initially launched within the Burials and Memorials hub on vets.gov, and was migrated to va.gov with the same placement.  A stakeholder within VBA has requested a review of our current placement for the DIC page since it is not an NCA/burial benefit.  The team would like to evaluate where this content best fits - Disability, Pension or Family hub.
 Discovery issue - [GH Issue 556#](https://github.com/department-of-veterans-affairs/va.gov-team/issues/556)
