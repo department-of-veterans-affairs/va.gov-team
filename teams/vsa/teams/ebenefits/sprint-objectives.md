@@ -36,7 +36,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 - Groom `priorities.md`
 - Work with design practice to choose next feature migration
-     
+
 **Retro**
 
 - TBD     
