@@ -6,8 +6,8 @@ Per discovery session with Rachael Roueche and Andrea Hewitt on 9/10/2019 the fo
 * "planning" folder relabeled as "sprint-objectives"
 * key documents moved or added to "vsp" folder:
   * VSP Mission, Objectives, Roadmap, and OKRs (currently an uploaded PDF; discussion of linking to Google Doc as this document is updated frequently)
-  * VSP-team-charter (this template should supplant readme structure proposed by content/IA team)
-  * VSP-team-member-onboarding (currently a blank Markdown file; content to be supplied by Nancy Smith per Rachael)
+  * vsp-team-charter (this template should supplant readme structure proposed by content/IA team)
+  * vsp-team-member-onboarding (incorporates content supplied by Nancy Smith)
   * workflow-cadence
 * key documents added to individual teams folders:
   * [team-name]-team-charter (this template should supplant readme structure proposed by content/IA team)
