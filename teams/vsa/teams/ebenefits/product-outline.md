@@ -1,4 +1,4 @@
-# eBenefits Outline
+# Product Outline: eBenefits  
 - GitHub Label: vsa-ebenefits
 - Slack channel: vsa-ebenefits
 - VA.gov link: n/a
@@ -88,10 +88,13 @@ In progress
 - User authentication info:
 
 ## Error Handling
+...
 
 ## Service Level Objective
+...
 
 ## API Calls and Dependent Systems
+...
 
 ## Resources and Documentation
 
@@ -103,25 +106,16 @@ In progress
 - ATO documentation
 
 ## Keywords
-
+eBenefits, ...
 
 ## Team
-
-- VA Executive Sponsor `*`: 
-- VA Policy Expert(s):
-- VA Digital Strategist(s) `*`:
-- Product Manager `*`:
-- Design Lead:
-- Eng Lead:
-- VA Web Comms Partner: 
-- VA Call Center Partner(s): 
-- Production Testing Partner(s):
-- Designer(s):
-- Content Writer(s):
-- Front-end Engineer(s):
-- Back-end Engineer(s):
-
-`*` = approval required for launch
+- DSVA Product Manager: Steve Kovacs
+- Team Product Manager: Jason Wolf
+- VA Call Center Partner(s): TBD
+- UX Designer: Aricka Lewis
+- Designer/Reseearcher: James Adams
+- Front-end Engineer: Micah Chiang
+- Back-end Engineer: Kathleen Crawford
 
 ### Screenshots
 #### Before
