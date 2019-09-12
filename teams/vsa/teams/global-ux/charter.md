@@ -32,7 +32,7 @@ Product Portfolio:
 
 **Roadmap:**  
 [PDF link](global-ux-roadmap-sept2019.pdf)  
-![PDF link](global-ux-roadmap-sept2019.jpg)
+![roadmap](global-ux-roadmap-sept2019.jpg)
 ________________________________________
 
 **Team Members**
