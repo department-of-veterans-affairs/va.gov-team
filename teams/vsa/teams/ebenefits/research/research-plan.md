@@ -5,10 +5,9 @@
 3. Research questions:
 * How do users interact with the current eBenefits site?
 * Is the Rated Benefits page comprehensable?
-* Are errors readable and understandable?
 * What are the top priorities for eBenefits users?
 * What are the different "types" of users for eBenefits?
-4. Hypothesis: 
+4. Hypothesis:  
 ## Method
 Research method: Moderated remote usability study, 
 Why this method:
