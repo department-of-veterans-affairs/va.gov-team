@@ -1,4 +1,4 @@
-# Goals 
+# Discovery
 State the goals of this research.
 
 ## Veteran Research
