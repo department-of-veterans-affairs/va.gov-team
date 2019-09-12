@@ -1,9 +1,15 @@
 
-## Working with IA
+# Working with IA
 This document will help all teams working on VA.gov understand when you should engage IA resources for collaboration and support.
 All teams building on the Veteran Services Platform should follow VA.gov IA best practices and guidelines and work with an IA resource to ensure all content is easily findable and we maintain a consistent navigation experience across the site. 
 
-### What does IA do?
+- [What does an IA do for VSP?](#whatdoesIAdo)
+- [Best practices for IA on VA.gov](#bestpractices)
+- [When to request IA support](#whentorequest)
+- [How to request IA support](#howtorequest)
+- [Questions/How to contact us](#questions)
+
+## <a id="whatdoesIAdo"></a>What does IA do?
 >*”Information Architecture focuses on organizing, structuring, and labeling content…The goal is to help users find information and complete tasks.“* - Usability.gov
 
 **There are 2 primary focus areas of IA on VSP**
@@ -11,7 +17,7 @@ All teams building on the Veteran Services Platform should follow VA.gov IA best
 2. **Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
 
 
-## Best Practices for IA on VA.gov
+## <a id="bestpractices"></a>Best Practices for IA on VA.gov
 
 **Keep organizational structure as flat as possible**
 A flat content structure, or hierarchy, makes content easier to discover by exposing it earlier in the experience - in other words, it  reduces the number of clicks to drill down to detail content.  
@@ -43,7 +49,7 @@ There are many tools and methods for gaining user insights and feedback, both be
 The XML sitemap is a simple way to contribute to SEO. Review the guidelines to determine what pages are appropriate for the XML sitemap.
 [XML Sitemap guidelines] *add link* -->
 
-## When to request IA resources
+## <a id="whentorequest"></a>When to request IA resources
 It is beneficial to engage IA resources as early as possible when you begin work on a page, product or tool and collaborate throughout your project, as many things can impact and evolve IA and navigation.  Involving an IA resource earlier in your project will help avoid structural changes down the line. 
 
 **At project kick-off** 
@@ -66,7 +72,7 @@ It is beneficial to engage IA resources as early as possible when you begin work
 
 Outside of these time periods, IA resources can be requested any time a team thinks they could benefit from collaboration or review.
 
-## How to request IA support 
+## <a id="howtorequest"></a>How to request IA support 
 
 Please be sure to make requests ideally a sprint ahead of time. For example, if you know you will be finishing up your writing in the next sprint, be sure to create the request for IA support for that same sprint so we can account for it in our planning. 
 
@@ -94,6 +100,6 @@ Please tag the issue with:
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 - Assign issue to @mnorthuis, @meganhkelley
 
-## Questions?
+## <a id="questions"></a>Questions?
 If you have any questions, please reach out via slack in #vfs-product-support, tag @mnorthuis and @thatmattjohnson. 
 
