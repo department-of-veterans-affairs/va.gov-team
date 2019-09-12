@@ -12,6 +12,7 @@ High-level objectives, organized by team, for each two-week sprint
 
 ## ZenHub board
 Lower-level task management and tracking, tied to sprint objectives
+
 See also: How we use ZenHub to manage our product development workflows
 
 ## VSP Product Model
