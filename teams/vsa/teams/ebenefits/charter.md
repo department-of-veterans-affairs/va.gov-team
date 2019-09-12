@@ -14,7 +14,7 @@ VSA - va.gov
 eBenefits
 
 ### **Mission Statement**
-Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from ebenefits to the VA.gov central location.
+Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.
 
 ### **Responsibilities**
 Define the landscape of features to be worked on, optimize and migrate as necessary, and collaborate with other teams where there is overlap.  
