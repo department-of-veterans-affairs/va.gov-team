@@ -16,6 +16,7 @@ Item to be tested:
 Tool: 
 ## Participants & Recruitment
 Participant criteria: What are you looking for in a participant? (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
+
 Recruitment strategy: (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
 ## When
 1. Timeline
