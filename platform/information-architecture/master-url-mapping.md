@@ -8,6 +8,9 @@ This file also includes information on whether the page should be indexable by s
 
 This is a working docoument that is continually updated.  Please check with the IA to ensure the most recent file has been uploaded. 
 
-Working doc:  [Master URL Mapping (Google Doc)](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing)
+Working doc:  [Master URL Mapping working file](https://docs.google.com/spreadsheets/d/1YucOtYihweNPI1gYtCgdsinKQmH4DMuSgPaSgJMfyYk/edit?usp=sharing) (Google Doc)
 
-[Master URL Mapping 6/28/2019 8:30am EST](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/files/VA.Gov%20Master%20URL%20Mapping%2006282019.xlsx)
+Date | Changes | File
+--- | --- | ---
+9/12/2019 | Updated for changes to DIC IA, documented in [issue #1729](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1729) - M. Northuis | [Master URL Mapping 9/12/2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/files/master-url-mapping-09122019.xlsx)
+6/28/2019 | Initial file upload - M. Northuis | [Master URL Mapping 6/28/2019](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Information%20Architecture/files/VA.Gov%20Master%20URL%20Mapping%2006282019.xlsx) (on vets.gov-team repo)
