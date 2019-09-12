@@ -1,6 +1,6 @@
 # Getting to Know VA and VSP
 
-## [Central VSP documentation] (https://department-of-veterans-affairs.github.io/va.gov-team/)
+[Central VSP documentation] (https://department-of-veterans-affairs.github.io/va.gov-team/)
 Links to other documentation, points of contact, important channels.
 
 ## Getting started documentation
