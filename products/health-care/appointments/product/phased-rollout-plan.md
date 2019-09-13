@@ -42,7 +42,7 @@ The goal of this phase is to gather a statistically relevant usage sample to bot
 ## Phase 2: Increased Tool Reach [Week 2]
 The goal of this phase is to ramp up usage of the new tool by starting to expose the tool to users of legacy VAOS
 - VAOS tool banner shown to an increasingly larger percent of traffic to  `/health-care/schedule-view-va-appointments/` daily, ultimately showing to 100% of traffic
-- New banner in legacy MHV appointments content page (myhealth.va.gov/mhv-portal-web/schedule-or-cancel-a-va-appointment-online) to direct veterans to the new tool on VA.gov
+- New banner in legacy MHV appointments content page (myhealth.va.gov/mhv-portal-web/schedule-or-cancel-a-va-appointment-online) to notify veterans to the new tool on VA.gov
 - Veterans can continue to use legacy VAOS to schedule appointments
 - Go / No Go decision for continuing to Phase 3:
   - [ ] The tool continues to perform acceptably compared to legacy VAOS
