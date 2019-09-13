@@ -30,6 +30,7 @@ _Stating this will help ensure your strategy for what to build and pain points t
 - VA.gov should serve as the single source of truth for all information related to the Veteran. 
 - Incorporating personal information to reduce redudant requests. 
 - Creating a better user experience for Veteran's to have a better understandable outcomes. 
+-  As a veteran, I want to see an easy-to-understand list of all the things I have to do to obtain benefits and services, so that I can quickly get approved for and enrolled in the services I care about.
 - [Fill out here]
 
 ### Pain Points
@@ -38,9 +39,13 @@ _What are the major user and business pain points along the entirety of the serv
 - Currently we don't have all of the access to the information pertaining to the Veteran.(Business)
 - As a veteran, I can't see all of my information in one place. (User)
 - Veteran's lack of source of truth amongst various systems. (User)
-- Dashboard content isn’t consumable/task-oriented.
-- Difficult to determine next actions/steps related to applying, tracking, or managing a benefit.
+- Dashboard content isn’t consumable/task-oriented.(User)
+- Difficult to determine next actions/steps related to applying, tracking, or managing a benefit.(User)
 - Difficult to determine failure points in the process of maintaining profile/account.(Business)
+- So many integrations points each with varyinig requirements making creating standard requirements.(Business)
+- Identity verfication w/ log-ins.
+- Generally VA is hard to navigate making it hard to guide user on the VA.gov platform. 
+- SSO (Single Sign On) issues amongst users. 
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
