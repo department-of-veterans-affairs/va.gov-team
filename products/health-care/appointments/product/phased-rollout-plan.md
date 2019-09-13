@@ -1,7 +1,7 @@
 # VAOS Phased Rollout
 
 ## Goals
-1. Transition veterans to new VAOS tool on VA.gov in order to improve online scheduling uptake and veteran satisfaction with online scheduling.
+1. Transition veterans to new VAOS tool on VA.gov in order to improve online scheduling uptake and veteran satisfaction with online scheduling
 2. Minimize risk that new tool won't be accepted by veterans; conversely, maximize chances of veteran acceptance & good press, which should result in higher usage numbers
 3. Generate positive perception & goodwill in the veteran community
 
