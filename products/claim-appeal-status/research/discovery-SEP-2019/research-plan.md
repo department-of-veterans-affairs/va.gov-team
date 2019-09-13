@@ -11,31 +11,28 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 - Where would Veterans expect to be able to submit Decision Review forms?
 - Why and how are Veterans using the Claim Status tool to submit Decision Review forms?
 - What do Veterans expect to happen after the submit the Decision Review form through the tool?
-- 
+- How are Veterans are using the Claim Staus tool? 
+  - How do they feel about it? 
+  - Does it have the information that Veterans need?
+  - Is the information clear and easy to understand?
 
 ### Hypotheses
-- tbd
-  - tbd
-- tbd
-
-
-1. What product & team are you doing this research for?
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-4. Hypothesis: What is your hypothesis for this research? 
+- Veterans are using the Claim Status tool to submit Design Review forms because there isn't a better way to submit them on VA.gov.
+- There are opportunities to improve the Claim Status tool and appeals content on VA.gov to help Veterans easily understand the process. 
 
 ## Method
-1.	What method of research are you planning? 
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated
+- We are identifying how many Veterans are submitting Decision Review forms on the Claim Status tool by identifying the number of documents in the eFolder that have:
+  - form numbers (20-0095, 20-0096)
+  - no EP codes
+
+- We are identifying the volume of calls to the Call Center about submitting Decision Reviews on VA.gov.
+
+- We are using remote, moderated usability studies because we need to talk to Veterans who may try or have tried to submit Decision Review forms through the Claim Status tool. 
+
+- We will use Zoom to conduct these sessions.
   
-2.	Why this method? How does this methodology help you answer your research questions? 
+- We will ask Veterans to log in to VA.gov and share their screens with us via Zoom. 
 
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
-
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
-
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
 
 ## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?
