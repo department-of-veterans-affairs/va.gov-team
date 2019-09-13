@@ -34,53 +34,40 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 - We will ask Veterans to log in to VA.gov and share their screens with us via Zoom. 
 
 
-## Participants and Recruitment
-1.	Participant criteria: What are you looking for in a participant?
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
+## Participants
+- 6-8 Veterans
+- Must have one of the following accounts: DSLogon, My HealtheVet, or ID.me
+- Must have submitted or tried to submit a Decision Review form (20-0995 or 20-0996) on VA.gov
 
-2.	What is your recruitment strategy? 
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+## Recruitment
+We will work with Perigean for recruiting. 
 
 ## When? 
-1.	Timeline: What dates do you plan to do research? 
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 
+1.	Timeline: September 23-27, 2019
 
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
+2.	Prepare: We're using the live VA.gov site. 
 
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
+3. Length of Sessions: 45 minutes
 
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
+4.	Availability: 10 am - 4 pm ET
 
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+5.	Pilot: September 20, 2019, time TBD
 
-## Team Roles
-Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
-- Moderator:
-- Research guide writing and task development (usually but not always same as moderator):
-- Participant recruiting & screening:
-- Project point of contact:
-- Participant(s) for pilot test:
-- Note-takers:
-- Observers:
-
-**List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
+## Team Roles 
+- Moderator: Kevin S. 
+- Research guide writing and task development (usually but not always same as moderator): Kevin S. and Layla S. 
+- Participant recruiting & screening: Perigean
+- Project point of contact: Kevin S. 
+- Participant(s) for pilot test: Emily W.
+- Note-takers: Layla S. 
+- Observers: Yana R., Nick S., Robin G., Silvio L., Andrea S., Shawna H.
 
 ## Resources
-- Project Brief: 
-*Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
 
-- Discussion Guide
-*Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
+- [Discussion Guide](./conversation-guide.md) *TBD*
 
-- Notes & Recordings
-*Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
+- [Notes]() *TBD*
 
-- Synthesis
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 
+- [Synthesis]() *TBD*
 
-- Lessons Learned
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 
-
-- Read-Out/Results
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)
+- [Read-Out/Results]() *TBD*
