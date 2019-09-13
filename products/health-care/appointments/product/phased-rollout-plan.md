@@ -1,3 +1,23 @@
+# VAOS Phased Rollout
+
+## Goals
+1. Transition veterans to new VAOS tool on VA.gov in order to improve online scheduling uptake and veteran satisfaction with online scheduling.
+2. Minimize risk that new tool won't be accepted by veterans; conversely, maximize chances of veteran acceptance & good press, which should result in higher usage numbers
+3. Generate positive perception & goodwill in the veteran community
+
+## How do we get there?
+- Leverage a phased rollout strategy to test veteran acceptance of the tool in production
+- Introduce the new tool in the context of 'opt-in' to ensure that only veterans who are wiling to accept the risks associated with using a brand-new tool are using it initially
+- Monitor core experience metrics very closely at each phase to ensure that we're only introducing the tool to more veterans once we are sure that performance is acceptable compared to the old experience & veteran expectations
+- Have a 'No Go' plan in case the tool doesn't perform as expected in production; identifying No-Go issues on a smaller scale will allow us to minimize confusing changes for veterans
+- Delay veteran comms until we've successfully launched VAOS on VA.gov fully, so that comms can contain the great feedback from earlier rounds
+
+- Lets us push marketing until we've gotten some good feedback to include
+- Minimizes risk that a large number of veterans hit show-stopping problems at once, which could induce them to not trust the tool
+  - So basically allows us time to build trust
+
+-----
+
 ## Phase 0: Pre-launch & launch prep [Due Pre-Launch]
 The goal of this stage is to ensure the tool is holistically ready for production launch
 - [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md) complete
