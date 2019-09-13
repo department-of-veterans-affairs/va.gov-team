@@ -96,4 +96,4 @@ If conversion performance is significantly lower than existing tool's, delay adv
 Depending on severity of the problem, either delay advancement or scale back veteran participation until issues resolved.
 - Work through logged metrics to triage & solve the problem
 - Delay advancement to next phase until error metrics resolved
-- If issue severe (>50% error rate), roll back veteran participation by removing opt-in banner on VA.gov and notification banner on MHV until issue(s) identified and resolved.
+- If issue severe (>50% error rate), roll back veteran participation by removing opt-in banner on VA.gov and notification banner on MHV until issue(s) identified and resolved. Direct links to the tool on VA.gov should be redirected to the healthcare appointments static content page instead.
