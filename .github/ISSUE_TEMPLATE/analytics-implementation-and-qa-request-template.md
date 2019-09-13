@@ -32,7 +32,7 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 - Who is this request for?
 
     - [Insert Name(s)]
-    _Provide any relevant contact information and link this issue to the insights team on the DSVA Slack Channel: `#VSP-Analytics`._
+    _Provide any relevant contact information and link this issue to the insights team on the DSVA Slack Channel: `#VFS-Platform-Support`._
     
 - What team/project is this work for?
     _this adds context for the data_
