@@ -1,50 +1,37 @@
 # KPI Pre-Workshop Planning
 
 ### Product Line
-_For example, Platform, Global UX, etc._
-
-- [Fill out here]
+- eBenefits
 
 ### North Star
-
-- [Fill out here]
+- Work with Veterans to design and deliver the best digital experience in the federal government. Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.
 
 
 ### Product
-_For example, Health Care Application (10-10EZ), Disablitiy Compensation Application (21-526EZ), etc._
+- eBenefits have several products in its portfolio most of which are tasked with migration out of `https://www.ebenefits.va.gov/ebenefits/homepage` and into the mainstream `https://www.va.gov/`.  A list of [priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/priorities.md) has been established and is being treated as a source for further roadmapping.
 
-- [Fill out here]
+- Our first feature is moving Rated Disabilities from its current location onto a screen that has a gateway link from a profile/dashboard page after the user logs in.
 
 ### High Level Objectives
-_What are the objectives within your product line that your product plays into?_
+One of the largest high-level objectives for the eBenefits Team is to get the resources out of the current more fragmented environment and move them into the main site of VA.gov.  This puts the resources put forth by the VA much more front and center to the Veteran, their dependents and caregivers.  If any of those products or features can be enhanced or optimized while being transformed, that will be taken into account as well.
 
-_Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
-
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- Discover, define landscape of development and design environments
+- Establish framework of migration process
+- Assess and validate improvements
+- Communicate and collaborate with other teams as necessary
 
 ### Pain Points
-_What are the major user and business pain points along the entirety of the service your product is a part of?_
-
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- Ensuring the intent to the Veteran is clear
+- Antiquated code
+- Unknown stakeholders
+- Getting timing right when impacting other teams
 
 ### Desired Outcomes
-_What do you hope changes as a result of launching this product or feature?_
-
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- Engagement with the specific product increases
+- More visibility
+- More benefits are put into affect for the Veteran
 
 ### Hypotheses
-_What do you plan to do/build/create to achieve your user and business goals?_
-
-_ex: By creating more onboarding and training content, we expect teams to be more self-sufficient after they are onboarded._
-
-- [Fill out here]
+- By creating a framework for migration, we can more easily lift other items out of the eBenefits portfolio and move them into the VA.gov main site quicker and more effectively.
+- We plan to incorporate as much 508 compliance into our migration process in order to alleviate and expedite the 508 review process.
 
