@@ -52,6 +52,7 @@ Appointment Request
 -   Do you use the AM vs PM preferences when calling veterans back?
 -   What is the best way to get in touch with veterans?
 -   Is 'purpose of visit' helpful in this flow (Routine, new issue, etc.)?
+-   Do you use the 'other purpose' field for anything when a veteran selects 'other' for the 'request purpose' fileld?
 
 Telehealth / VA Video
 -   Is there a way for us to determine which clinics support video appointments?
