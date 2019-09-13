@@ -9,8 +9,9 @@ _For more on these principles, see the [**eBenefits Charter**](https://github.co
 
 
 ### Product
-- eBenefits have several products in its portfolio most of which are tasked with migration out of `https://www.ebenefits.va.gov/ebenefits/homepage` and into the mainstream `https://www.va.gov/`.  A list of [**priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/priorities.md) has been established and is being treated as a source for further roadmapping.
-- Our first feature is moving Rated Disabilities from its current location onto a screen that has a gateway link from a profile/dashboard page after the user logs in.
+- eBenefits have several products in its portfolio most of which are tasked with migration out of `https://www.ebenefits.va.gov/ebenefits/homepage` and into the mainstream `https://www.va.gov/`.  
+- Our first feature is moving Rated Disabilities from its current location onto a screen that has a gateway link from a profile/dashboard page after the user logs in.  
+_A list of [**priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/priorities.md) has been established and is being treated as a source for further roadmapping._
 
 ### High Level Objectives
 One of the largest high-level objectives for the eBenefits Team is to get the resources out of the current more fragmented environment and move them into the main site of VA.gov.  This puts the resources put forth by the VA much more front and center to the Veteran, their dependents and caregivers.  If any of those products or features can be enhanced or optimized while being transformed, that will be taken into account as well.
