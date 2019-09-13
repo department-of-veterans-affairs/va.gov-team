@@ -1,7 +1,24 @@
-# Research Plan for [Team, Product, Date]
-(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 
+# Research Plan for Unicorns, Claim Status Tool, September 2019
 
 ## Goals
+- The primary goal of this research is to understand how and why Veterans are using the Claim Status tool to submit their Decision Review forms. 
+- The secondary goal is to understand how Veterans are using the Claim Staus tool and discover opportunities to improve their experiences.
+
+### Background
+Veterans are using the Claim Status tool to submit their Decision Review forms. This creates a problem because the forms get stored in the eFolder, without an EP code for tracking and does not notify anyone of their existence. Therefore, Decision Review form could go unnoticed indefinitely. This issue was identified during a conversation with RVSR (rater inside VA).
+
+### Research questions
+- Where would Veterans expect to be able to submit Decision Review forms?
+- Why and how are Veterans using the Claim Status tool to submit Decision Review forms?
+- What do Veterans expect to happen after the submit the Decision Review form through the tool?
+- 
+
+### Hypotheses
+- tbd
+  - tbd
+- tbd
+
+
 1. What product & team are you doing this research for?
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
