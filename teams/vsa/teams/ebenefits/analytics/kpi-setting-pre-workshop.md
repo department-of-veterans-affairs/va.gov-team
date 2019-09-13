@@ -4,7 +4,8 @@
 - eBenefits
 
 ### North Star
-- Work with Veterans to design and deliver the best digital experience in the federal government. Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.  This will be done by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.  
+- **Work with Veterans to design and deliver the best digital experience in the federal government.**  
+Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.  This will be done by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.  
 _For more on these principles, see the [**eBenefits Charter**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md)._
 
 
