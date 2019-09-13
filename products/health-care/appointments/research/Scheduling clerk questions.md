@@ -53,6 +53,10 @@ Appointment Request
 -   What is the best way to get in touch with veterans?
 -   Is 'purpose of visit' helpful in this flow (Routine, new issue, etc.)?
 
+Telehealth / VA Video
+-   Is there a way for us to determine which clinics support video appointments?
+-   What do you do when someone requests a video visit?
+
 Canceling
 
 -   What happens when you get a request to cancel an appointment?
