@@ -17,7 +17,7 @@ One of the largest high-level objectives for the eBenefits Team is to get the re
 - Discover, define landscape of development and design environments
 - Establish framework of migration process
 - Assess and validate improvements
-- Communicate and collaborate with other teams as necessary
+- Communicate and collaborate with other teams as necessary  
 For more detail, see the current [**Sprint Objectives**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/sprint-objectives.md).
 
 ### Pain Points
