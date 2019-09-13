@@ -4,12 +4,11 @@
 - eBenefits
 
 ### North Star
-- Work with Veterans to design and deliver the best digital experience in the federal government. Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.
+- Work with Veterans to design and deliver the best digital experience in the federal government. Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.  This will be done by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.  For more on these principles, see the [**eBenefits Charter**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md).
 
 
 ### Product
-- eBenefits have several products in its portfolio most of which are tasked with migration out of `https://www.ebenefits.va.gov/ebenefits/homepage` and into the mainstream `https://www.va.gov/`.  A list of [priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/priorities.md) has been established and is being treated as a source for further roadmapping.
-
+- eBenefits have several products in its portfolio most of which are tasked with migration out of `https://www.ebenefits.va.gov/ebenefits/homepage` and into the mainstream `https://www.va.gov/`.  A list of [**priorities**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/priorities.md) has been established and is being treated as a source for further roadmapping.
 - Our first feature is moving Rated Disabilities from its current location onto a screen that has a gateway link from a profile/dashboard page after the user logs in.
 
 ### High Level Objectives
@@ -19,6 +18,7 @@ One of the largest high-level objectives for the eBenefits Team is to get the re
 - Establish framework of migration process
 - Assess and validate improvements
 - Communicate and collaborate with other teams as necessary
+For more detail, see the current [**Sprint Objectives**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/sprint-objectives.md).
 
 ### Pain Points
 - Ensuring the intent to the Veteran is clear
