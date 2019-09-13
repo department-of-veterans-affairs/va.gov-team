@@ -35,6 +35,9 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 - [ ] Ensure consistent, logical tab flow across screen; avoid trapped tabbing (ex. modals and other imperative content)
 - [ ] Consider ‘target size’ of mouse-clickable elements
 
+### 508 Review/Testing Procedures
+Coming Soon!
+
 ### Resources
 * https://accessibility.18f.gov/	Good Overview/Reference
 
