@@ -79,4 +79,21 @@ The goal of this phase is to complete the scheduling transition from legacy VAOS
   - Could even add a step that allows veterans to request to use legacy VAOS, e.g. 'Online scheduling is now on VA.gov. [Continue] [Use the old scheduler]'
   - Legacy & new tools can coexist for a time
 
+-----
 
+## Rollback
+If a no-go decision is reached in any phase, further rollout should be postponed until issues resolved. It may be necessary to take the tool out of production for a period of time if the issue is severe. Below is some general guidance.
+
+### Problem: Volume does not meet minimum thresholds set forth in the phase criteria
+If tool in limited beta, allow more veterans to join the beta. Delay advancement to next phase until minimum thresholds met.
+
+### Problem: Tool conversion performance does not meet minimum criteria
+If conversion performance is significantly lower than existing tool's, delay advancement to next phase until issue resolved.
+- Request added tracking or add feedback question that would allow us to capture veterans' contact information for follow-up
+- Identify the flows that are causing issues and work to design through them
+
+### Problem: Tool error rates high (>5% total error rate for any given component or service)
+Depending on severity of the problem, either delay advancement or scale back veteran participation until issues resolved.
+- Work through logged metrics to triage & solve the problem
+- Delay advancement to next phase until error metrics resolved
+- If issue severe (>50% error rate), roll back veteran participation by removing opt-in banner on VA.gov and notification banner on MHV until issue(s) identified and resolved.
