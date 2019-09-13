@@ -36,19 +36,23 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 - [ ] Consider ‘target size’ of mouse-clickable elements
 
 ### 508 Review/Testing Procedures
-Coming Soon!
+* Initial 508 Audit when code is stable
+* Final audit approx. four weeks out from release
+* Post-release VA 508 Office review
 
 ### Resources
 * https://accessibility.18f.gov/	Good Overview/Reference
 
 ### Tools
-* Axe Chrome/Firefox Plugin
+* Axe Chrome/Firefox Plugin (Mandatory)
 * Colorblinding Chrome Plugin
 * ChromeLens Chrome Plugin
 * Color Contrast Analyzer for Sketch
-* JAWS Screen Reader
+* JAWS Screen Reader (Mandatory for IE 11)
 * NVDA Screen Reader
 * Apple VoiceOver Screen Reader
+* ES Lint VS Code Plugin
+* Axe VS Code Plugin
 
 18F lists quite a few more…
 
