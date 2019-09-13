@@ -16,12 +16,18 @@ Examples:
   
 ## When to engage the Triage Team
   
-**General Rule:** Any issue that is discovered that is outside your team's scope of work can be reported to Triage.
+**General Rule:** As stated below, VFS teams are responsible for finding and fixing bugs in the products within their jurisdiction.  However, if you notice an issue 
+- That seems more systemic
+- Seems related to a product or service provided by the VSP team
+- Seems related to a product managed by another VFS team
+- Or has an unknown source and is causing problems for va.gov users
+report it to Triage.
 
 Examples:
 - An internal load testing tool is broken
 - Mock data is not working or is out of date
 - Metrics are being reported incorrectly or not reported at all
+- You are the Global UX team and you learn in research sessions that a lot of Veterans are having trouble accessing their education benefits
 
 **How to Report the Issue:**
 
@@ -45,7 +51,7 @@ _NOTE_: Assigning an issue to Triage using the [Triage Incident Template](https:
 
 ## When to NOT engage the Triage Team
 
-* Bugs that belong within your own team
+* Bugs with products under your teams jurisdiction including endpoints and integrations with API's
 * Feature Improvements that belong within your own team
 
 ## Still not sure?
@@ -53,4 +59,14 @@ _NOTE_: Assigning an issue to Triage using the [Triage Incident Template](https:
 If you still have a doubt about where to report your incident for whatever reason, please reach out to the [`#vsp-triage`](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
 
 When in doubt, submit any issue through our [Triage Incident Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) and the Triage team will ensure it gets through the process correctly!
+
+
+## What Triage will do with reported issues
+### Triage will resolve:
+Issues with products/systems that fall under VSP ownership. [See List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) for clarity on which products and systems fall under VSP ownership.
+
+### Triage will route to VFS teams to resolve:
+All issues with Veteran-facing Services (including endpoints and integrations with APIs) by assigning a ZenHub issue to the  POC of the VFS team whose product is experiencing issues - per the ownership indicated in the [List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874).  
+
+In the event there is no VFS team owner indicated in the [List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) Triage will assign the issue to Chris Johnston.
 
