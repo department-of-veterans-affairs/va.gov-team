@@ -25,3 +25,7 @@ There are a few other channels that would be useful to join:
 Like the rest of VSP, we also use Keybase as a fallback in case Slack is inaccessible. See [AlternateCommunicationChannels](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/OnCall/Alternative%20Communication%20Channels.md) for information on how to join.
 
 Additionally, we have a mailing list that can be used to reach the entire group. If you are a new member of this team, be sure to join the mailing list with instructions [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/VA-Systems/MailingListInfo.md).
+
+## Tracking work
+
+VSP uses ZenHub to manage work, use [this board](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=operations&repos=133843125) to open tickets in this repo and add the `operations` label. 
