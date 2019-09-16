@@ -31,7 +31,7 @@ _For more detail, see the current [**Sprint Objectives**](https://github.com/dep
 - Team: Getting timing right when impacting other teams
 
 ### Desired Outcomes
-- Users: As a Veteran with service connected disabilities, I want to quickly and easily apply as many benefits as possible.  
+- Users: As a Veteran with service connected disabilities, I want to quickly and easily apply and obtain as many benefits as possible.  
 - Team: Engagement with the specific product increases
 - Team: More visibility, more conversion
 - Team: More benefits are put into affect for the Veteran
