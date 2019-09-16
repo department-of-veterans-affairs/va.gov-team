@@ -1,4 +1,4 @@
-# e2e "Team"
+# Service Design Team
 
 Not customer (i.e. VFS-team)-facing
 
@@ -18,7 +18,7 @@ Not customer (i.e. VFS-team)-facing
 - Iterate on Product Development checklist
 - Create standard ROE template
 
-# Product Support "Team"
+# Product Support Team
 
 Customer (i.e. VFS-team)-facing
 
