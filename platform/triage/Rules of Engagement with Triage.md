@@ -51,7 +51,7 @@ _NOTE_: Assigning an issue to Triage using the [Triage Incident Template](https:
 
 ## When to NOT engage the Triage Team
 
-* Bugs with products under your teams jurisdiction including endpoints and integrations with API's
+* Bugs with products under your team's jurisdiction including endpoints and integrations with APIs
 * Feature Improvements that belong within your own team
 
 ## Still not sure?
