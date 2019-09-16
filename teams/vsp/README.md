@@ -1,10 +1,16 @@
 # VSP 
 
-### Mission
+### Description of Work
 Provide teams across VA with the support, documentation, tools, and automation they need to iteratively build successful products that fit seamlessly into the VA.gov experience.
 
 
 ### Slack Channels
+
+**Public Channels**
+- #vfs-all-teams
+- #vfs-product-support
+
+**Internal Channels**
 - #vsp-analytics
 - #vsp-backend
 - #vsp-content-ia 
@@ -23,3 +29,9 @@ Provide teams across VA with the support, documentation, tools, and automation t
 - Design: Emily Waggoner
 - Engineering: Andrew Gunsch
 - Operations:  Amber Malcom
+
+### Key Documents
+
+- [Team Charter]()
+- [Roadmap]()
+- [Document Name]()
