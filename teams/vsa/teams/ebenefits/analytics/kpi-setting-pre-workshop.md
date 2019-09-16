@@ -24,14 +24,14 @@ One of the largest high-level objectives for the eBenefits Team is to get the re
 _For more detail, see the current [**Sprint Objectives**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/sprint-objectives.md)._
 
 ### Pain Points
-- Users: Navigating across a fragmented site with multiple portals/locations
+- Users: Navigating across a fragmented site with multiple portals/locations can be confusing and ineffective
 - Team: We want to ensure that intent of the feature is clear to the Veteran  
 - Team: We may deal with antiquated code
 - Team: Unknown stakeholders, who can we ask?
 - Team: Getting timing right when impacting other teams
 
 ### Desired Outcomes
-- Users: Apply as many deserved benefits as possible
+- Users: As a Veteran with service connected disabilities, I want to quickly and easily apply as many benefits as possible.  
 - Team: Engagement with the specific product increases
 - Team: More visibility, more conversion
 - Team: More benefits are put into affect for the Veteran
