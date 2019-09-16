@@ -1,8 +1,10 @@
 # VA.gov Team Repository
-*Last updated: [9/4/2019](#document-history)*
+*Last updated: [9/16/2019](#document-history)*
 
 ## About this repository
 This repository is used to store *non-code* documents and files created and used by teams building on and with the Veteran-facing Services Platform (VSP). 
+
+For information on how to use this repo, see the [Repo Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md). 
 
 ### [/platform](./platform)
 All platform-level products and services that support Va.gov user-facing product development.
@@ -16,6 +18,7 @@ All teams currently working with VSP.
 ## Document history
 | Updated | Description  | User  |  
 |---|---|---|
+| 9/16/2019 at 3:00 PM | Added link to repo guidelines file | Mikki Northuis |
 | 9/4/2019 at 3:30 PM | Updated to reflect new repo structure | Mikki Northuis |
 | 6/28/2019 at 1 PM | Stripped most content, reroute users to `va.gov-team` or `va.gov-vfs-teams` as appropriate. | Andrew Gunsch |
 | 6/1/2019 at 1:45 PM  | Added "TBD" for sections still being fleshed out  | Ryan Luu |
