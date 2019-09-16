@@ -84,7 +84,7 @@ Please open a Zenhub issue in ```va.gov-team repo```.
 **User story**
 As a __________, I need __________ so I can _________.
 
-User story example: *As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure it's accurate, aligns with VA style, and is error-free.*
+User story example: *As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure users can easily find and utilize the new content and/or functionality.*
 
 Please include any/all of the following if available and as applicable:
 - Link to product outline
