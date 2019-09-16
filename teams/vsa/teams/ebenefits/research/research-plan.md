@@ -27,6 +27,7 @@ Participant criteria:
 * Various rated disabilities
 * Has dependents for eBenefits
 * All ranges of technological knowledge
+* Various LOA
 
 Recruitment strategy: 
 * We will use the Perigean contract to recruit participants
