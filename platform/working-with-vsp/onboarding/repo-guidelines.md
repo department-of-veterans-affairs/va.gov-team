@@ -49,7 +49,9 @@ This area includes information on all teams working on the platform.
 ## <a id="naming-guidelines"></a>Guidelines for Creating and Naming Folders and Files
 
 ### Folder and File Naming Conventions
-When  naming a new folder or markdown file in this repo, please adhere to the guidelines below.  This helps to keep our repo file URLs short and readable as well as ensure the repo can be cloned easily without errors. While these are specific to GitHub folders and markdown files, we recommend following these for all files that are uploaded. 
+When  naming a new folder or markdown file in this repo, please adhere to the guidelines below.  This helps to keep our repo file URLs short and readable as well as ensure the repo can be cloned easily without errors. <br>
+
+*While these are specific to GitHub folders and markdown files, these guidelines are good rules to follow with any file uploaded to the repo as well.*
 
 - lower case words separated by dashes
   - The only exception to this rule is the README.md file that should exist in every folder.  This file should be all capital letters for visibility.
