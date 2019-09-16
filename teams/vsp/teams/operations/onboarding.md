@@ -36,7 +36,7 @@ You should ensure you have:
 
 ### Build/Release/Deploy
 
-Ansible is broken down into three distinct phases for deployments. Read and understand the README on our [configuration management setup](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible#buildreleasedeploy).
+Ansible is broken down into three distinct phases for deployments. An overview of how this work can be found in that  [repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible#buildreleasedeploy).
 
 TODO: demo app documentation
 
