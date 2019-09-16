@@ -35,7 +35,7 @@ _For more detail, see the current [**Sprint Objectives**](https://github.com/dep
 - Team: Engagement with the specific product increases
 - Team: More visibility, more conversion
 - Team: More benefits are put into affect for the Veteran
-- Team: Ensuring that we are able to establish what metrics for each product we transfrom
+- Team: Ensuring that we are able to establish the right metrics for each product we transfrom, and ask the question: what else can we improve while we migrate.
 
 ### Hypotheses
 - By creating a framework for migration, we can more easily lift other items out of the eBenefits portfolio and move them into the VA.gov main site quicker and more effectively.
