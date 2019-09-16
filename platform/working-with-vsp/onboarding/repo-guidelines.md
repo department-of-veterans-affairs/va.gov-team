@@ -9,6 +9,10 @@ Determine where your file should go and how to name them...
   - Creating new folders
   - README.md files
   - Uploading large files
+- [Maintaining this repo](#maintainance)
+  - Governance of usage
+  - Archiving files
+- [Questions](#questions)
 
 
 ## <a id="where"></a>Where to put your files
@@ -95,4 +99,8 @@ When you are managing and organizing your files, you may be tempted to create su
 - If you will be uploading a lot of external files, it can be helpful to create a `files` folder in your area to keep your key folders clean and keep key documentation findable.  The files can then be linked to from a markdown file so they are easily findable. 
 
 
+## <a id="maintainance"></a>Maintaining this repo
+To ensure this repo provides clean and helpful documentation, a process for ongoing maintenance and review  will be needed.  This may include implementing a standard archiving process, general governance to maintain the repo's integrity, reviews/audits for look for sensitive info, etc.  
 
+## <a id="questions"></a>Questions
+If you have any questions about using this repo, please don't hesitate to reach out to the VSP team through #vfs-product support or #vsp-content-ia. 
