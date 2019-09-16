@@ -1,35 +1,58 @@
 # Research Plan for VSA eBenefits September 2019
 ## Goals
 1. Product & Team: eBenefits migration, VSA eBenefits Team
-2. Background: 
+2. Background: The eBenefits team is working to migrate all functionality to VA.gov in a way that is helpful for Veterans to receive faster access to benefits and care.
 3. Research questions:
 * How do users interact with the current eBenefits site?
-* Is the Rated Benefits page comprehensable?
+* What are user priorities on eBenefits?
+* How do users interact with the following features?
+  * Rated Disabilities
+  * View Compensation Payment History
+  * View Dependents
+  * View Representative/POA
+  * View Roles and Relationships
+  * Login
 * What are the top priorities for eBenefits users?
-* What are the different "types" of users for eBenefits?
-4. Hypothesis:  
+* What are the different user roles for eBenefits?
+4. Hypothesis: *TBD*
 ## Method
-Research method: Moderated remote usability study, 
-Why this method:
-Item to be tested:
-Tool: 
+Research method: Moderated remote user interviews 
+Why this method: We are in the early, discovery stage of this project. We want to learn how and why users use eBenefits so that we can prioritize key features.
+Item to be tested: https://www.ebenefits.va.gov
+Tool: Zoom
 ## Participants & Recruitment
-Participant criteria: What are you looking for in a participant? (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
+Participant criteria: 
+* Minimum 5 participants
+* Various ages
+* Various rated disabilities
+* Has dependents for eBenefits
+* All ranges of technological knowledge
 
-Recruitment strategy: (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+Recruitment strategy: 
+* We will use the Perigean contract to recruit participants
+
 ## When
-1. Timeline
-2. Preparedness: when will "thing" be ready to test
-3. Length of Sessions
+1. Timeline: September 23, 2019 – October 4, 2019
+2. Preparedness: Since we are in the discovery phase, we will be asking about an existing site.
+3. Length of Sessions: 45 to 60 minutes
 4. Availability 
+
 ### Desired Availability
 Date | Time (EST)
 ---- | ----
-5. Pilot
+9/23/2019 | Time
+9/24/2019 | Time
+9/25/2019 | Time
+9/26/2019 | Time
+9/30/2019 | Time
+10/02/2019 | Time
+10/03/2019 | Time
+10/04/2019 | Time
+
 ### Roles
 Include names, email, phone numbers for all attendees
-* Moderator:
-* Research writing & task development:
+* Moderator: Aricka Lewis, aricka@adhocteam.us, 479-713-0035
+* Research writing & task development: Aricka Lewis, aricka@adhocteam.us, 479-713-0035
 * Note takers: 
 * Observers:
 * Participant recuriting & screening:
