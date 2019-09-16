@@ -22,6 +22,12 @@ Do not publish personal contact info, only names and slack contact name._
 - Engineering: 
 - Operations:  
 
+### Teams
+- [Authenticated Experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
+- [Benefits and Memorials](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
+- [eBenefits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)
+- [Global UX](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux)
+
 ### Key Documents
 
 - [Team Charter]()
