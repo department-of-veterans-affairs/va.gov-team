@@ -24,8 +24,10 @@ Customer (i.e. VFS-team)-facing
 
 ### Responsibilities
 - Own implementation of and iteration on the manual interaction points with VFS Teams from Service Blueprint
-- Support VFS Team members
-- Given cross-VFS team view, identify opportunities for standardization
+- Understand Design, Research, Product, 508, QA, ATO, FE, BE best practices, ROEs, and processes for building on VA.gov
+- Support and guide VFS Team members through all of ^ and in doing so promote the VSP culture
+- Own and maintain Design System, Gatsby, and any GitHub documentation for the Product Support team member practice areas 
+- Given cross-VFS team view, identify opportunities for VFS Team process standardization
 
 ### Sample types of work:
 - Iterate on Onboarding
