@@ -2,6 +2,11 @@
 
 This checklist is a work-in-progress. Currently, this is a rather high-level overview of general practices and considerations. Line items were pulled from various team sources and a few personal additions.
 
+### Resources
+* https://accessibility.18f.gov/	Good Overview/Reference
+* [VSP 508 Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
+* [Request a 508 Complaince Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+
 ### Section 508 Compliance
 * Use headings appropriately & consistently
 * Apply autofocus to initial functional element on screen
@@ -39,9 +44,6 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 * Initial 508 Audit when code is stable
 * Final audit approx. four weeks out from release
 * Post-release VA 508 Office review
-
-### Resources
-* https://accessibility.18f.gov/	Good Overview/Reference
 
 ### Tools
 * Axe Chrome/Firefox Plugin (Mandatory)
