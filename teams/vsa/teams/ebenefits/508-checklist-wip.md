@@ -9,7 +9,7 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 
 ### Section 508 Compliance
 * Use headings appropriately & consistently
-* Apply autofocus to initial functional element on screen
+* Apply autofocus to initial functional element on screen (This may change to focusing on this initial H1)
 * Keep layout as simple and concise as possible to reduce tab-travel
 * Keep functional groups together; avoid tabbing in and out of group (e.g. forms, navigation)
 * Dynamic elements that reveal content (tooltips/alerts) must be keyboard accessible; allow screen readers to read dynamic content
@@ -41,7 +41,7 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 - [ ] Consider ‘target size’ of mouse-clickable elements
 
 ### 508 Review/Testing Procedures
-* Initial 508 Audit when code is stable
+* [Initial 508 Audit when code is stable](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 * Final audit approx. four weeks out from release
 * Post-release VA 508 Office review
 
@@ -50,7 +50,7 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 * Colorblinding Chrome Plugin
 * ChromeLens Chrome Plugin
 * Color Contrast Analyzer for Sketch
-* JAWS Screen Reader (Mandatory for IE 11)
+* JAWS Screen Reader (Mandatory for IE 11; Requires License)
 * NVDA Screen Reader
 * Apple VoiceOver Screen Reader
 * ES Lint VS Code Plugin
