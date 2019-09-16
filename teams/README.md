@@ -8,8 +8,8 @@ This space is for all teams currently working on and with the platform. Teams ca
 For information on how to use this space, please review the [guidelines and best practices for using the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md). 
 
 Core documentation required for each team (as well as each sub-team when applicable):
-- [Team README.md file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/team-readme-template.md)
-- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md)
+- Team README.md file - Please be sure to fill out the information on your team's README.md file. 
+- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md) 
 
 
 ### Current teams
