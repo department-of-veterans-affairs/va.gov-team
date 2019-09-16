@@ -1,5 +1,4 @@
 # Call Center Docs
-----
 ## Error Handling Notes
 1. vets-api error mapping: https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/locales/exceptions.en.yml
 _This is a comprehensive list of **all** expected exceptions within vets-api, not specific to rated disabilities._
