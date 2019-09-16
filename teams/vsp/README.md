@@ -30,6 +30,15 @@ Provide teams across VA with the support, documentation, tools, and automation t
 - Engineering: Andrew Gunsch
 - Operations:  Amber Malcom
 
+### Teams
+- [Content and IA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/content-ia)
+- [Insights and Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/insights-analytics)
+- [Operations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/operations)
+- [Product Development Support](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/product-dev-support)
+- [Tools and Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/tools)
+- [Triage](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/triage)
+
+
 ### Key Documents
 
 - [Team Charter]()
