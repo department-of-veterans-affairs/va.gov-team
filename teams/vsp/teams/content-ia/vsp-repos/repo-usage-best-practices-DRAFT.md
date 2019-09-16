@@ -1,17 +1,17 @@
 # Using the va.gov-team Repo
 Determine where your file should go and how to name them...
 
-- Where to put your files
+- [Where to put your files](#where)
   - About each area of the this repo
   - Public versus private repo
-- Guidelines for creating and naming files and folders
+- [Guidelines for creating and naming files and folders](#naming-guidelines)
   - Naming conventions
   - Creating new folders
   - README.md files
   - Uploading large files
 
 
-## Where to put your files
+## <a id="where"></a>Where to put your files
 
 ### About the /platform, /products and /teams folders
 There are 3 areas of the va.gov-teams repo that you will be working with - `platform`, `products` and `teams`.  
@@ -46,7 +46,7 @@ This area includes information on all teams working on the platform.
 - [See guidelines on using public versus private repos](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 
 
-## Guidelines for Creating and Naming Folders and Files
+## <a id="naming-guidelines"></a>Guidelines for Creating and Naming Folders and Files
 
 ### Folder and File Naming Conventions
 When  naming a new folder or markdown file in this repo, please adhere to the guidelines below.  This helps to keep our repo file URLs short and readable as well as ensure the repo can be cloned easily without errors. While these are specific to GitHub folders and markdown files, we recommend following these for all files that are uploaded. 
@@ -78,7 +78,7 @@ When you are managing and organizing your files, you may be tempted to create su
 
 ***If you feel you need a new folder directly below /platform, /products/ or /teams, please reach out for guidance in the #vfs-product-support or #vsp-content-ia channels.***
 
-Guidelines
+**Guidelines**
 -  Keep your structure as flat/shallow as possible by avoiding creating multiple levels of folders when you can. Deep structures, with many levels to click through, makes content harder to find - shallow structures expose content quicker, with fewer clicks, and keep URLs shorter. 
 - When deciding whether to create a new sub-folder, here's a few things to consider:
   - How many files will go in this new folder?  Try not to create folders for just a few files. 
