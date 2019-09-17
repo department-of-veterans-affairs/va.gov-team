@@ -24,14 +24,14 @@ A flat content structure, or hierarchy, makes content easier to discover by expo
 
 **Create user friendly URLs**
 URLs should be short and easy to read, as well as provide context around where the user is in the site.  URLs also provide SEO value when structure appropriately. 
-[Follow these URL guidelines and best practices] *add link*
+[Follow these URL guidelines and best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md)
 
 **Design navigation paths and entry points based on your user's mental model**
 Choose entry points and crosslinking placements that enhances a user’s natural path
 
 **Follow guidelines and standards for key templates**
 We have developed templates for key pages on the site based on extensive user research.  These templates ensure we keep our content and user experience consistent and focused on what users need and when. We currently have guidelines on the hub page template established and will continue to build out additional templates and guidelines. 
--	[IA & Usage Guidelines for Hub Pages] *add link*
+-	[IA & Usage Guidelines for Hub Pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
 
 **Allow user insights inform the IA**
 There are many tools and methods for gaining user insights and feedback, both before and after content and tools are launched. 
