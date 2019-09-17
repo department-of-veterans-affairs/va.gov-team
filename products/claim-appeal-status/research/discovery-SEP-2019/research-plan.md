@@ -10,13 +10,14 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 We're unable to find data that helps us understand how frequently this issue is happening. Therefore, we're doing this research learn more about where Veterans expect to be able to file appeals on VA.gov and how we might improve the current Claim Status tool so that appeal forms are not uploaded there.
 
 ### Research questions
-- Where would Veterans expect to be able to submit Decision Review forms?
-- Why and how are Veterans using the Claim Status tool to submit Decision Review forms?
-- What do Veterans expect to happen after the submit the Decision Review form through the tool?
+- Where would Veterans expect to be able to file an appeal on VA.gov?
 - How are Veterans are using the Claim Staus tool? 
   - How do they feel about it? 
   - Does it have the information that Veterans need?
   - Is the information clear and easy to understand?
+  - What types of files do they expect to be able to upload there? 
+  - What do they expect to happen after they upload evidence?
+  - Would they consider uploading a document that is not evidence in the Claim Status tool? If so, why?
 
 ### Hypotheses
 - Veterans are using the Claim Status tool to submit Design Review forms because there isn't a better way to submit them on VA.gov.
