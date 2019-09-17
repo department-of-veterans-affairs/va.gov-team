@@ -52,58 +52,59 @@ Before we look at the website, let’s start with a few warm-up questions.
     - How did you go about filing it?
     - How did you feel about the process?
 
-## First Task: [TASK NAME] - X minutes
+## First Task: Share your screen with Zoom - 5 minutes
 
-- Step 1
-- Step 2
+- *Add instructions here.*
 
-### Things to watch for:
+## Second Task: Show me where you would expect to file an appeal (on a disability claim decision)? - 10 minutes
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- Step 1
-- Step 2
+- Start on the home page of VA.gov.
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- What path does the participant take to file an appeal?
+- Does the participant realize that they cannot file an appeal on VA.gov?
+- What keywords and phrases does the partipant look for?
+- What painpoints do they encounter?
+- What works well?
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: Now I'm going to share a link to the prototype in the chat. Can you click on it? - 10 minutes
 
-- Step 1
-- Step 2
+- 1st screen: Claim Status Tool
+    - Can you take a few moments to look at this screen and tell me about what you think you can do on this page?
+    - How would you view the details of your open claim?
+    - *Clicks View Status button.*
+    
+- 2nd screen: Open Claim Details
+    - Take a few moments to look at this screen.
+    - Is there anything that you think you need to do regarding your claim?
+    - What do you think you'll see on the Files tab?
+    - Go ahead and click on it.
 
-### Things to watch for:
+- 3rd screen: Open Claim Details > File tab
+    - What would you do here?
+    - What kinds of files do you think you can upload here? 
+    - Can you return to the Claim Status screen?
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- 4th screen: Closed Claim Status Tool
+    - Can you show me how you would find out more information about your closed claim?
+    - What does "Closed" mean to you?
+
+- 5th screen: Closed Claim Details
+    - Is this what you'd expect to see?
+    - Is there anything missing?
 
 ## Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- Do you have any other feedback to share with us today?
 
 ## Thank-You and Closing - X minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+You'll receive a check from Perigean, the company that recruited for this study, within two weeks. If you don't receive it, please contact _____.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides 
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/research/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery/discovery_conversation_guide.md)
-- [Personalization MVP Usability](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Conversation%20Guide%20%E2%80%93%20Profile%2C%20Dashboard%2C%20Settings%20MVP.md)
-- [Discharge Wizard: Sensitive Topic, Usability](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Discharge%20Update/Research/ConversationGuide.md)
-
