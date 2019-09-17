@@ -1,7 +1,7 @@
 # Research Plan for Unicorns, Claim Status Tool, September 2019
 
 ## Goals
-- The primary goal of this research is to understand how and why Veterans are using the Claim Status tool to submit their Decision Review forms. 
+- The primary goal of this research is to understand where Veterans expect to be able to file an appeal on VA.gov. 
 - The secondary goal is to understand how Veterans are using the Claim Staus tool and discover opportunities to improve their experiences.
 
 ### Background
