@@ -19,17 +19,16 @@ All teams building on the Veteran Services Platform should follow VA.gov IA best
 
 ## <a id="bestpractices"></a>Best Practices for IA on VA.gov
 
-**Keep organizational structure as flat as possible**
+**Keep organizational structure as flat as possible** <br>
 A flat content structure, or hierarchy, makes content easier to discover by exposing it earlier in the experience - in other words, it  reduces the number of clicks to drill down to detail content.  
 
-**Create user friendly URLs**
-URLs should be short and easy to read, as well as provide context around where the user is in the site.  URLs also provide SEO value when structure appropriately. 
-[Follow these URL guidelines and best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md)
+**Create user friendly URLs**<br>
+URLs should be short and easy to read, as well as provide context around where the user is in the site.  URLs also provide SEO value when structure appropriately. Here are general [URL guidelines and best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md) that we use when crafting URLs. 
 
-**Design navigation paths and entry points based on your user's mental model**
-Choose entry points and crosslinking placements that enhances a user’s natural path
+**Consider all navigation paths and entry points based on your user's mental model**<br>
+Primary entry points are generally based on the primary user path, however, navigation is more than just a top nav link. Beyond those primary entry points, there are many other page links and crosslinking opportunities that can be used to make content more findable. 
 
-**Follow guidelines and standards for key templates**
+**Follow guidelines and standards for content placement and hierarchy on key templates**
 We have developed templates for key pages on the site based on extensive user research.  These templates ensure we keep our content and user experience consistent and focused on what users need and when. We currently have guidelines on the hub page template established and will continue to build out additional templates and guidelines. 
 -	[IA & Usage Guidelines for Hub Pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
 
