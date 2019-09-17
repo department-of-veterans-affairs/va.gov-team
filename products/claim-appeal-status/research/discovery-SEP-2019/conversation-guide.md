@@ -38,11 +38,19 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?**
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions (Optional) - 5-10 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+- Tell me a little about yourself. (Where do you live? Which branch of service? What do you do for work?)
+
+- Have you ever filed a disability claim with the Department of Veteran Affairs?
+    - How did you file it (online, mail, fax, VSO)?
+    - How did you feel about the process?
+    
+- Have you ever filed an appeal with the Department of Veteran Affairs
+    - How did you go about filing it?
+    - How did you feel about the process?
 
 ## First Task: [TASK NAME] - X minutes
 
