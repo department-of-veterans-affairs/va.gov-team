@@ -1,6 +1,6 @@
 # eBenefits Migration: Impact on Information Architecture
 
-## Q4 2019 - Q3 2020 feature migration tagets
+## Q4 2019 - Q3 2020 feature migration targets
 
 Note: "Profile" below refers to the centralized Authenticated Experience place, which will likely depend on the outcome of Personalization 2.0 efforts.
 
