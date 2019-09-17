@@ -85,5 +85,5 @@ Recommended
 * [Color Contrast Analyzer for Sketch](http://sketchapp.rocks/plugins/color-contrast-analyser/)
 * [Web Accessibility VS Code Plugin](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility)
 
-[more on 18F Site](https://accessibility.18f.gov/tools/)
+[More on 18F Site...](https://accessibility.18f.gov/tools/)
 
