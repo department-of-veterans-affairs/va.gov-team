@@ -5,6 +5,7 @@
 ### View My Rated Disabilities
 - EBN location: /ebenefits/disabilities
 - Working IA theory: Unique page under Disability Hub
+  - We're stubbing this out at `/disabilities/my-rated-disabilities`
 
 ### View and Update My Dependents
 - EBN location: /ebenefits/dependents
