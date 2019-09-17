@@ -37,7 +37,7 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 ## Participants
 - 6-8 Veterans
 - Must have one of the following accounts: DSLogon, My HealtheVet, or ID.me
-- Must have submitted or tried to submit a Decision Review form (20-0995 or 20-0996) on VA.gov
+- Must have filed a disability claim or an appeal
 
 ## Recruitment
 We will work with Perigean for recruiting. 
