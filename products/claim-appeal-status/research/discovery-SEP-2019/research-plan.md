@@ -64,7 +64,7 @@ We will work with Perigean for recruiting.
 
 ## Resources
 
-- [Discussion Guide](./conversation-guide.md) *TBD*
+- [Discussion Guide](./conversation-guide.md)
 
 - [Notes]() *TBD*
 
