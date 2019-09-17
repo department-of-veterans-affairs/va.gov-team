@@ -3,7 +3,7 @@ In this folder, you'll find information specific to how Information Architecture
 
 ### Communication channels
 - Slack channels: #vfs-product-support, #vsp-content-ia
-- Github labels: content-ia-team, ia
+- Github labels: 'content-ia-team'
 
 ### Points of contact
 The Information Architecture points of contact are:  
