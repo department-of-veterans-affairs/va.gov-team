@@ -1,11 +1,13 @@
 # Vets-API Endpoint Punch List Presentation
 
 ## Presentation
+* [Video presentation](https://www.youtube.com/watch?v=V_i8JLXk5rg)
+* [view slides](https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/) (view)
+* [edit slides](https://hackmd.io/FdnzysLHRD2BuKostPBUxw?both)
 
-<!-- https://hackmd.io/p/r1Mn_TqYG#/ -->
-https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/ (view)
-https://hackmd.io/FdnzysLHRD2BuKostPBUxw?both (edit)
-## Source File
+=======================
+## Source File 
+(this is a versioned backup of the slides in hackmd)
 
 ---
 slideOptions:
