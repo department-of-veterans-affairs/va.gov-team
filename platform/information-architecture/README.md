@@ -9,6 +9,7 @@ In this folder, you'll find information specific to how Information Architecture
 The Information Architecture points of contact are:  
 - [Mikki Northius], @Mikki on Slack
 - [Matt Johnson], @Matt Johnson on Slack
+- [Megan Kelley], @megan.kelley on Slack (Project Manager for Content and IA)
 
 ### Table of contents
 The following list is a set of resources for practicing IA on VA.gov and to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
