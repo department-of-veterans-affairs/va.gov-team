@@ -43,7 +43,7 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 We will work with Perigean for recruiting. 
 
 ## When? 
-1.	Timeline: September 23-27, 2019
+1.	Timeline: September 25- October 1, 2019
 
 2.	Prepare: We're using the live VA.gov site. 
 
@@ -51,7 +51,7 @@ We will work with Perigean for recruiting.
 
 4.	Availability: 10 am - 4 pm ET
 
-5.	Pilot: September 20, 2019, time TBD
+5.	Pilot: September 23, 2019, time TBD
 
 ## Team Roles 
 - Moderator: Kevin S. 
