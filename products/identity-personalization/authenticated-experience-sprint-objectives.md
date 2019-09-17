@@ -47,16 +47,14 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 2. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 9 (11/20 - 12/3)
-1. Continue Bad Adress Indicator work
+1. Complete launch of Bad Address Indicatore and move to monitor mode
 2. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 10 (12/4 - 12/17)
-1. Continue Bad Adress Indicator work
-2. Monitoring, bug fixes, hardening, 508, etc.
+1. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
-1. Hopefully Bad Address Indicator is launched by here
-2. Monitoring, bug fixes, hardening, 508, etc.
+1. Monitoring, bug fixes, hardening, 508, etc.
 
 
 
