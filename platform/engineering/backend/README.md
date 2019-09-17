@@ -34,7 +34,7 @@ The following list is a set of resources compiled by the people in your practice
         - [Accessing Staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
         - [Accessing Internal Resources](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md) (Jenkins, Sentry, Grafana, Prometheus)
     -  API Reference
-      - [vets-api Swagger/OpenAPI Docs])(https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/) 
+        - [vets-api Swagger/OpenAPI Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/) 
     - Database Migrations
         - [Database Migration Practices](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Database%20Migrations.md)
     - Mocking data
