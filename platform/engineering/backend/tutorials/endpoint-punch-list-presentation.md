@@ -2,8 +2,8 @@
 
 ## Presentation
 
-https://hackmd.io/p/r1Mn_TqYG#/
-
+<!-- https://hackmd.io/p/r1Mn_TqYG#/ -->
+https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/
 ## Source File
 
 ---
@@ -13,17 +13,17 @@ slideOptions:
 
 ---
 
-<!-- .slide: data-background="http://completetri.com/wp-content/uploads/checklist.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/checklist.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.7); color: #fff; padding: 20px; margin: 0 -1em;">
 
-# Endpoint Punch List
+# Endpoint Punch List Backup
 
 </div>
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/u90MMBi.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/emails-controller.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px;">
 
@@ -33,7 +33,7 @@ slideOptions:
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/g2PF0NG.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/profile_swagger.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px;">
 
@@ -43,7 +43,7 @@ slideOptions:
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/yjtyBTS.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/pciu-mockdata.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px;">
 
@@ -53,7 +53,7 @@ slideOptions:
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/gieKISZ.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/tests.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px;">
 
@@ -88,7 +88,7 @@ slideOptions:
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/I6F7OId.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/pciu-swagger.jpg"-->
 
 ---
 
@@ -116,19 +116,19 @@ slideOptions:
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/I6F7OId.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/pciu_swagger.jpg"-->
 
 ---
 
 <!-- .slide: data-background="#efefef" -->
 
-## [Service Object Implementation](https://gist.github.com/hpjaj/67eeb7cc5f69ac672d0176fcb1f06dc7)
+## [Service Object Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code/service-object-implementation.md)
 
 ---
 
 <!-- .slide: data-background="#efefef" -->
 
-## [Controller/Route/Serializer](https://gist.github.com/hpjaj/0780168e80d5a4ae09a17d35b8bb6328)
+## [Controller/Route/Serializer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code/controller-route-serializer.md)
 
 ---
 
@@ -137,8 +137,7 @@ slideOptions:
 # Swagger Docs
 
 ---
-
-<!-- .slide: data-background="https://i.imgur.com/g2PF0NG.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/profile-swagger.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px; margin-bottom: 8em;">
 
@@ -148,7 +147,7 @@ slideOptions:
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/TQPWnBQ.jpg"-->
+<!-- .slide: data-background="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/swagger-response.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.5); color: #fff; padding: 20px; margin-bottom: 8em;">
 
@@ -177,7 +176,7 @@ app/controllers/v0/apidocs_controller.rb
 ```
 <!-- .element: class="fragment" data-fragment-index="3" -->
 
-[Swagger implementation](https://gist.github.com/hpjaj/2d0d332d39e77aed6bdb993268d01078)<!-- .element: class="fragment" data-fragment-index="4" -->
+[Swagger implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code/swagger-impementation.md)<!-- .element: class="fragment" data-fragment-index="4" -->
 
 ---
 
@@ -199,13 +198,13 @@ app/controllers/v0/apidocs_controller.rb
 
 <!-- .slide: data-background="#efefef" -->
 
-## [Betamocks Config](https://gist.github.com/hpjaj/3ff754ace8bfd7e56ce5abb48a8314e8)
+## [Betamocks Config](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code/betamocks-config.md)
 
 ---
 
 <!-- .slide: data-background="#efefef" -->
 
-## [Betamocks Recording & Mock Data Table](https://gist.github.com/hpjaj/def97d12c67902e6d2af7e628a0870e5)
+## [Betamocks Recording & Mock Data Table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code/betamocks-recording-mock-data-table.md)
 
 ---
 
@@ -223,7 +222,7 @@ app/controllers/v0/apidocs_controller.rb
 - Request specs
 - VCR cassettes
 - Response schema
-- [Spec files examples](https://gist.github.com/hpjaj/a9ffc192a75fc3d5726404a3ddc07942)
+- [Spec files examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code/spec-files-examples.md)
 
 ---
 
@@ -242,7 +241,7 @@ expect(response).to match_response_schema(
 
 <!-- .slide: data-background="#efefef" -->
 
-### [`match_response_schema` Implementation](https://gist.github.com/hpjaj/2f1be22e1bca1d694a574812e97f32b4)
+### [`match_response_schema` Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/supporting_code/match_response_schema-implementation.md)
 
 ---
 
@@ -252,11 +251,11 @@ expect(response).to match_response_schema(
 
 ---
 
-<!-- .slide: data-background="https://i.imgur.com/oX8GSbI.jpg"-->
+<!-- .slide: data-background=""https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/tutorials/endpoint-punch-list-presentation/images/endpoint-punch-list.jpg"-->
 
 <div style="background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 20px;">
 
-## [Endpoint Punch List](https://hackmd.io/s/HkZNMeCtG)
+## [Endpoint Punch List](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-api/vets-api-endpoint-punch-list.md)
 
 </div>
 
@@ -273,7 +272,7 @@ expect(response).to match_response_schema(
 - [Setup Swagger locally](https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/swagger)
 - [Setup Betamocks](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md)
 - [vets-api-mockdata readme](https://github.com/department-of-veterans-affairs/vets-api-mockdata/blob/master/README.md)
-- [Endpoint Punch List](https://hackmd.io/s/HkZNMeCtG)
+- [Endpoint Punch List](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-api/vets-api-endpoint-punch-list.md)
 
 ---
 

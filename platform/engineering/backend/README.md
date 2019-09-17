@@ -18,15 +18,23 @@ The following list is a set of resources compiled by the people in your practice
     - [Native setup instructions](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/native.md)
     - [Docker setup instructions](https://github.com/department-of-veterans-affairs/vets-api#base-setup)
     - [Optional application configuration](https://github.com/department-of-veterans-affairs/vets-api#optional-application-configuration)
+    - [Front End getting Started Guide](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)
 - Common tasks
     - Clone & Build
         - [Base Setup](https://github.com/department-of-veterans-affairs/vets-api#base-setup)
     - Run the app
         - [Running the app](https://github.com/department-of-veterans-affairs/vets-api#running-the-app)
+   - Logging in 
+        -   [DS Logon usernames and passwords](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/ds%20logon/ds-logon-lower-env-test-accounts.md)
+        - [MyHealtheVet usernames and passwords](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/MHV/mhv-lower-env-test-accounts.md)
+        - [id.me usernames and passwords](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
     - Run tests
         - [Running test suite](https://github.com/department-of-veterans-affairs/vets-api#running-tests)
         - [Load testing process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Backend/Load%20Testing.md)
         - [Accessing Staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
+        - [Accessing Internal Resources](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md) (Jenkins, Sentry, Grafana, Prometheus)
+    -  API Reference
+      - [vets-api Swagger/OpenAPI Docs])(https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/) 
     - Database Migrations
         - [Database Migration Practices](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Database%20Migrations.md)
     - Mocking data
