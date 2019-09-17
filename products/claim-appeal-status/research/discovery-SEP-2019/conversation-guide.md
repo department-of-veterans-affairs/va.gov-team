@@ -1,5 +1,7 @@
 # Conversation Guide for Claim Status Tool Research
 
+[View the research plan](./research-plan.md).
+
 ## Moderator logistics
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
@@ -11,11 +13,6 @@
 *Check your [screensharing setup](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/remote-work/sharing-your-screen.md)*
 
 *When the participant is ready, begin the session with the following intro*
-
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
 
 ## Intro - 5 minutes
 
