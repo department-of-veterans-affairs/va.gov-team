@@ -27,7 +27,7 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 
 - We are identifying the volume of calls to the Call Center about submitting Decision Reviews on VA.gov.
 
-- We are using remote, moderated usability studies because we need to talk to Veterans who may try or have tried to submit Decision Review forms through the Claim Status tool. 
+- We are using remote, moderated usability studies because we need to talk to Veterans to understand where they expect to be able to file appeals on VA.gov. 
 
 - We will use Zoom to conduct these sessions.
   
