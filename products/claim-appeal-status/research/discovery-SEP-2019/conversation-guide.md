@@ -56,7 +56,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - *Add instructions here.*
 
-## Second Task: Show me where you would expect to file an appeal (on a disability claim decision)? - 10 minutes
+## Second Task: Show me where you would expect to file an appeal (on a disability claim decision)? 
 
 - Start on the home page of VA.gov.
 
@@ -68,7 +68,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What painpoints do they encounter?
 - What works well?
 
-## Third Task: Now I'm going to share a link to the prototype in the chat. Can you click on it? - 10 minutes
+## Third Task: Now I'm going to share a link to the prototype in the chat. Can you click on it? 
 
 - 1st screen: Claim Status Tool
     - Can you take a few moments to look at this screen and tell me about what you think you can do on this page?
@@ -94,11 +94,11 @@ Before we look at the website, let’s start with a few warm-up questions.
     - Is this what you'd expect to see?
     - Is there anything missing?
 
-## Post-Task Interview - X minutes
+## Post-Task Interview 
 
 - Do you have any other feedback to share with us today?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
