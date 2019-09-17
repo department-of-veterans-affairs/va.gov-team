@@ -3,7 +3,8 @@
 ## Presentation
 
 <!-- https://hackmd.io/p/r1Mn_TqYG#/ -->
-https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/
+https://hackmd.io/@z9SepQsSSlu0NKymVGnXTA/r1ZdSNJmr#/ (view)
+https://hackmd.io/FdnzysLHRD2BuKostPBUxw?both (edit)
 ## Source File
 
 ---
