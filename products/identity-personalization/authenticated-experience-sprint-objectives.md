@@ -29,7 +29,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 ### Sprint 5 (9/25 - 10/8)
 1. Launch and monitor Direct Deposit completely (no later then 10/2)
 2. Continue working towards October launch of Address Validation & Override
-3. Start Bad Address Indicator discovery, target December launch.
+3. Start Bad Address Indicator discovery, target November launch.
 4. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 6 (10/9 - 10/22)
