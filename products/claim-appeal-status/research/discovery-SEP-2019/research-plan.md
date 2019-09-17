@@ -37,7 +37,7 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 ## Participants
 - 6-8 Veterans
 - Must have one of the following accounts: DSLogon, My HealtheVet, or ID.me
-- Must have filed a disability claim or an appeal
+- Must have filed a disability claim or appealed a disability decision
 
 ## Recruitment
 We will work with Perigean for recruiting. 
