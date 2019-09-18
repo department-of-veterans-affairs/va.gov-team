@@ -6,8 +6,8 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 * The secondary goal is to understand how Veterans are using the Claim Status tool and discover opportunities to improve their experiences.
 
 ## Veteran Research
-- [Research plan]() *to be added*
-- [Veteran conversation guide]() *to be added*
+- [Research plan](./research-plan.md) 
+- [Conversation guide](./conversation-guide.md) 
 - [Interview notes]() *to be added*
 - [Synthesis]() *to be added*
 - [Research summary]() *to be added*
