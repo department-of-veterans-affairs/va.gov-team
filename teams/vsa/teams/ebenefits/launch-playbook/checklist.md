@@ -22,8 +22,7 @@ The steps here are meant to provide a framework to build upon for each feature t
   - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 ### Research Plan
 - [ ] Establish process for user interviews
-  - [ ] Create a Conversation Guide
-    - [ ] Sample Conversation Guide
+  - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md)
 ### Content/IA  
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
