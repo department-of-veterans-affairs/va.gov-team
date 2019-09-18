@@ -9,9 +9,9 @@ The Information Architecture points of contact are:
 - Megan Kelley, PM - Slack name @megan.kelley
 
 Slack channels: 
-- #vfs-product-support, #vsp-content-ia
+- #vfs-platform-support, #vsp-content-ia
 
-Github labels: 
+Github/Zenhub labels: 
 - `content-ia-team`
 
 
