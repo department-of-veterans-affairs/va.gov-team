@@ -95,7 +95,7 @@ When you are managing and organizing your files, you may be tempted to create su
 
 
 ### File Storage and Large Files
-- If you are uploading files such as jpegs, xls, pdf, etc, which are large in size, please utilize git-lfs, do not upload through the windows GH interface. 
+- If you are uploading files such as jpegs, xls, pdf, etc, which are large in size, please utilize [git-lfs](https://git-lfs.github.com/), do not upload through the windows GH interface. 
 - If you will be uploading a lot of external files, it can be helpful to create a `files` folder in your area to keep your key folders clean and keep key documentation findable.  The files can then be linked to from a markdown file so they are easily findable. 
 
 
