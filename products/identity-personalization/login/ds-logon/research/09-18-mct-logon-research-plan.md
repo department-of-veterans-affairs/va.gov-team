@@ -34,11 +34,11 @@
 
 ## Participants and Recruitment
 1. Participant criteria: What are you looking for in a participant?
-- 5-6 veterans
+- 5-6 veterans (REQUEST 8)
     * Accesses VA services online
     * Has a DS Logon account
     * Has signed into a VA site using DS Logon in the past year for any reason (no specific benefit requirements)
-- 5-6 veteran caregivers or beneficiaries
+- 5-6 veteran caregivers or beneficiaries (REQUEST 8) 
     * Accesses VA services online
     * Has or uses a veteran’s DS Logon account
     * Has signed into a VA site using DS Logon in the past year for any reason (no specific benefit requirements)
@@ -50,7 +50,7 @@ We are working with Lauren Alexanderson and DSVA to collaborate on participant r
 
 ## When? 
 1. Timeline: What dates do you plan to do research? 
-- October 1-7, 2019
+- October 1-7, 2019; 11am - 10pm EDT. 
 
 2. Prepare: When will the thing you are testing be ready?
 - We are testing existing systems
