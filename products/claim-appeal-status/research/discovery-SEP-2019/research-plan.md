@@ -1,4 +1,6 @@
-# Research Plan for Unicorns, Claim Status Tool, September 2019
+# Research Plan
+
+Unicorns, Claim Status Tool, September 2019
 
 ## Goals
 - The primary goal of this research is to understand where Veterans expect to be able to file an appeal on VA.gov. 
