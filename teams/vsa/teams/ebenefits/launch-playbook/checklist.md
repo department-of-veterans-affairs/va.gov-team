@@ -4,7 +4,7 @@ The steps here are meant to provide a framework to build upon for each feature t
 **Remember: the more we are able to cover as we transform, the easier it will be for other teams**
 
 ## Design
-- [ ] Review the [Review the Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
+- [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
 
 ### UX
  - [ ] Discovery
@@ -14,7 +14,7 @@ The steps here are meant to provide a framework to build upon for each feature t
  - [ ] Develop mockups
    - [ ] Seek applicable feedback
 ### Usability
-- [ ] Testing
+- [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
   - [ ] Is the entry point established?
   - [ ] Is there a better entry point?
 - [ ] 508 Compliance
@@ -68,4 +68,4 @@ The steps here are meant to provide a framework to build upon for each feature t
 - [ ] Define other last minute items
 
 ## Post-Mortem
-- [ ] List any issues that impeded the process
+- [ ] List and defien any issues that impeded the process
