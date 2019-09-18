@@ -18,11 +18,13 @@ The steps here are meant to provide a framework to build upon for each feature t
   - [ ] Is the entry point established?
   - [ ] Is there a better entry point?
 - [ ] 508 Compliance
-  - [ ] 
-  - [ ] Request 508 Audit
+  - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
+  - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 ### Research Plan
 - [ ] Establish process for user interviews
-### IA  
+  - [ ] Create a Conversation Guide
+    - [ ] Sample Conversation Guide
+### Content/IA  
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
   - [ ] Outline links, urls, navigation heirarchy, crosslinks/redirects, SEO   
@@ -54,14 +56,17 @@ The steps here are meant to provide a framework to build upon for each feature t
 - [ ] Engage with the Analytics Team about what is to be launched 
 
 ## Support
-- Does the Call Center have documentation?
-- Have they asked for anything else?
-- What else should we say about 
+- [ ] Does the Call Center have documentation?
+- [ ] Have they asked for anything else?
+- [ ] What else should we say about 
 
 ## Release Plan
-- [ ] Notes are on my other machine
+- [ ] _Notes are on my other machine_
 
 ## Launch
+- [ ] Go/No-go from each team member
+- [ ] Define what is being tracked
+- [ ] Define other last minute items
 
 ## Post-Mortem
 - [ ] List any issues that impeded the process
