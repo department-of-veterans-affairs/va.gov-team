@@ -8,7 +8,6 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 ## Veteran Research
 - [Research plan]() *to be added*
 - [Veteran conversation guide]() *to be added*
-- [Stakeholder conversation guide]() *to be added*
 - [Interview notes]() *to be added*
 - [Synthesis]() *to be added*
 - [Research summary]() *to be added*
