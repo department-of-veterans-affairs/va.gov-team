@@ -109,5 +109,5 @@ Please tag the issue with:
 - Assign issue to @mnorthuis, @meganhkelley
 
 ## <a id="questions"></a>Questions?
-If you have any questions, please reach out via slack in #vfs-product-support, tag @mnorthuis and @thatmattjohnson. 
+If you have any questions, please reach out via slack in `#vfs-platform-support`, tag @megan.kelley, @mnorthuis and @thatmattjohnson. 
 
