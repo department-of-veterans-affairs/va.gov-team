@@ -1,4 +1,4 @@
-# Product Management
+# Triage
 Description of what's included in this folder. 
 
 ### Communication channels
