@@ -103,4 +103,4 @@ When you are managing and organizing your files, you may be tempted to create su
 To ensure this repo provides clean and helpful documentation, a process for ongoing maintenance and review  will be needed.  This may include implementing a standard archiving process, general governance to maintain the repo's integrity, reviews/audits for look for sensitive info, etc.  
 
 ## <a id="questions"></a>Questions
-If you have any questions about using this repo, please don't hesitate to reach out to the VSP team through `#vfs-platform-support` or #vsp-content-ia. 
+If you have any questions about using this repo, please don't hesitate to reach out to the VSP team through `#vfs-platform-support` or `#vsp-content-ia`. 
