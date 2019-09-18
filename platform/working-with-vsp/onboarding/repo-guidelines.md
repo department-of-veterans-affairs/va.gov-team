@@ -40,7 +40,7 @@ This area includes information on all teams working on the platform.
 
 ### Public versus Private
 - All content related to development on VA.gov belongs in the public `va.gov-team repository`. 
-- However, content that is sensitive to individuals or VA, for privacy and/or security reasons, should be stored in `va.gov-team-sensitive` repo.
+- However, **content that is sensitive to individuals or VA, for privacy and/or security reasons, should be stored in the `va.gov-team-sensitive`** repo.
 - Sensitive content generally includes:
   - PII and personal contact info
   - System credentials/test users
@@ -57,10 +57,10 @@ When  naming a new folder or markdown file in this repo, please adhere to the gu
 
 *While these are specific to GitHub folders and markdown files, these guidelines are good rules to follow with any file uploaded to the repo as well.*
 
-- lower case words separated by dashes
+- lower case words separated by dashes (i.e. "repo-guidelines.md"  not "Repo Guidelines")
   - The only exception to this rule is the README.md file that should exist in every folder.  This file should be all capital letters for visibility.
-- do not use spaces or special characters (i.e. &, :, %, etc.) if file or folder names
-- omit unnecessary words (i.e. the, a, and, etc.) when it makes sense
+- do not use spaces or special characters (i.e. &, :, %, etc.) in file or folder names
+- omit unnecessary words (i.e. the, a, and, etc.) when it makes sense  (i.e. content-ia versus content-and-ia)
 - If multiple versions of a file exist, name consistently and include versioning info (i.e. date, v1, etc) at the end of the file name
 
 *Bad folder and file structure:*  
@@ -72,11 +72,11 @@ When  naming a new folder or markdown file in this repo, please adhere to the gu
 - Creates a good URL: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/mtg-notes-phase-1-09042019.md 
 
 **Tips for naming files**
-- Name your files so that they are easily findable in a list and make sense to anyone who may be looking for them.  Include key descriptive words and a date (if applicable).  
-- Be consistent when naming files that are similar types - like meeting notes, retro notes, etc. 
+- Name your files so that they are easily findable in a list and make sense to anyone who may be looking for them.  Include key descriptive words. 
+- Be consistent when naming files that are similar types and use dates or version info to make unique - i.e. all research notes are named "research-notes-participant-1.md"
 - Consider how the files may sort within a long list - do you want to see similar types of files together, or do you want to see them by date?
   - Start broad and end with specifics to group similar things together - i.e. mtg-notes-retro-09012019.md
-  - Start with a date to order things chronologically - i.e. 09012019-mtg-notes-retro
+  - Start with a date to order things chronologically - i.e. 09012019-retro-notes.md
   
 
 ### When to Create Child Folders
