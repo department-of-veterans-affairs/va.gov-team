@@ -28,7 +28,7 @@ Here is something to start with. The below content should get moved into an epic
   3. Child
   4. Grandchild
 * Optimize for mobile navigation and scrolling
-* Consider making headings, sugheadings, and sections sticky for bettwe wayfinding
+* Consider making headings, subheadings, and sections sticky for better wayfinding
 
 ### Implementation notes
 * We will initially desing and build the new navigation for va.gov/pitssburgh-health-care
