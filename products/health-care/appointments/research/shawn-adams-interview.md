@@ -3,19 +3,24 @@
   - Sizable minority, if not majority
 - How does the attending physician interact with residents and appointments?
   - PCMM tracks relationship, attendings are paths of escalation
-  - VA largest trainer of residents, they move around a lot (e.g., 6 week rotation at a private clinic), so also need to track who gets their messages when they're not there
+  - VA is largest trainer of residents, they move around a lot (e.g., 6 week rotation at a private clinic), so attending also covers when assigned resident isn’t there
 - How do Veterans decide which residents they want to see?
   - Continuity is important, only really gets trumped by appointment wait time (at the veteran's discretion)
 - How many residents are in a PACT?
-  - PACT team defined in PCMM; 
+  - PACT team defined in PCMM; potentially a few; attending can be a part of several different clinics with residents as well
 - How often to residents come & go within a PACT?
   - A lot, because of rotations and the nature of being a resident
   - All over the place, sometimes there for 6 weeks and gone for 6 weeks, sometimes there for years
-- What kind of lift is it for site admins to appopriately set residents up in VATS?
+- What kind of lift is it for site admins to appropriately set residents up in VATS?
+  - Unclear, but sounds like this might be burdensome given schedulers already under large workload that this would add to
 - Should attendings be schedulable?
   - Most should be
+  - If there’s a resident in a clinic, generally they should be scheduled first
+  - First appointments don’t matter - can be with resident (so attending doesn’t necessarily have to do intake appointments)
 - Could we schedule people with the last clinic they were seen in?
   - If new patient clinic, wouldn't want to schedule them back into that after initial consult
+  - They may have seen a Primary Care physician, but now need to see someone else per PCP’s recommendation
+  - Generally though, showing last clinic may be helpful outside of edge-cases
 
 
 ## Clinics
@@ -27,7 +32,7 @@
   - Clerks can look at RTC for info about what specific care needs veteran has & will schedule them into clinic that provider requested
   - Different follow up regiments, e.g. MRTC (multiple RTC) where you need several follow-ups
 - What’s the importance of secondary stop codes? Do they provide veterans with meaningful differentiation in services?
-- Are we able to show, by type of care or stop code, the last clinic that a Veteran successfully had an appointment in withing that health system?
+- Are we able to show, by type of care or stop code, the last clinic that a Veteran successfully had an appointment in within that health system?
   - Yes, there's nuance to this and not always the right clinic for next appointment
 - What is the timeline for patient-friendly names of clinics? Is it at all feasible to guide or nudge that process?
   - They exist, not for every clinic
@@ -40,7 +45,7 @@
 - If PCMM doesn't know which clinic active, how can we tell in the front end?
   - VAOS handles this well if they're both in the same healthcare system
   - If there's active & pending, then schedule with pending
-  - Find active provider within pending
+  - Find active provider within pending PACT
     - Look for any clinic for primary care where that provider is the default provider
     - If they only have a pending & no active, the patient hasn't been seen by that facility in last 24 months usually
     - Should still present pending provider's clinic for that veteran
@@ -98,3 +103,5 @@
   - OVAC doesn't like appointment requests because self-scheduling would be better
     - If VS GUI could handle these it would be easier workload-wise for the scheduling clerks
   - Because it's another app to check, hard to check in & handle within act guidelines
+
+
