@@ -1,4 +1,4 @@
-# Product Outline: eBenefits  
+# Product Outline: eBenefits ("View My Rated Disabilities")  
 - GitHub Label: vsa-ebenefits
 - Slack channel: vsa-ebenefits
 - VA.gov link: n/a
