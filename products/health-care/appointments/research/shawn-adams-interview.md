@@ -15,5 +15,9 @@
 - How do we know whether someone needs a long or short appointment?
 - Can we ask veterans a question about being new, or can we deduce this from existing data?
 
-
-## Types of care
+## Direct Scheduling
+- How many appointments need to be rescheduled or can't be fulfilled because of some scheduling error (e.g., self-scheduling into wrong clinic)
+- What are the common self-scheduling appointment errors?
+- Can we increase the number of types of care that are self-schedulable? How?
+- What is the direct scheduling process after a veteran hits 'confirm / sdchedule' in VAOS? Do clerks ever filter these requests?
+- What is the single biggest thing we can do (within our scope) to improve the veteran scheduling experience? What potential outcomes excite you the most?
