@@ -11,6 +11,13 @@ TEMPLATE FOR COPY/PASTE<br>
 **Matt standup:**<br> 
 **Megan standup:**<br>
 
+## **Date:** 9/19/19<br>
+**Updates & team questions from Megan:**<br>
+**Megan standup:** Sprint planning yesterday, sprint starting today. Finishing eQIP. 1:1s today.<br>
+**Peggy standup:** Meetings yesterday and sprint planning! Some CMS work. Trying to get on top of direct deposit content review, need date for launch. Meeting with Lauren A today re VAOS content stuff. More CMS and legacy editing.<br>
+**Mikki standup:** Yesterday meetings and one onboarding session. Today, more meetings. Today am going to work on VHA legacy nav and legacy rewriting and redirect stuff.<br> 
+**Matt standup:** Did a review of Lauren's proposed structure. Have a few suggestions, need to meet with Mikki to review. Then will meet with Lauren again. Look at sprint objectives to determine next steps.<br> 
+
 ## **Date:** 9/16/19<br>
 **Updates & team questions from Megan:** none<br>
 **Mikki standup:** Completed edits to branch for /teams/vsp, next step will be to initiate a PR. Feedback on “how to use this repo” document.<br> 
