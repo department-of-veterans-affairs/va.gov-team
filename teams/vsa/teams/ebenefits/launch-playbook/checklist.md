@@ -24,6 +24,7 @@ The steps here are meant to provide a framework to build upon for each feature t
 - [ ] Establish process for user interviews
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md)
 ### Content/IA  
+Share as soon as you have content - this is usually after mockups are created
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
   - [ ] Outline links, urls, navigation heirarchy, crosslinks/redirects, SEO   
