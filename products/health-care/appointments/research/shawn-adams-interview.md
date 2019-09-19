@@ -38,6 +38,15 @@
   - San Diego & Loma Linda might be good facilities to look at as good examples of names
   - Services are responsible for their own clinics, so e.g. audiology scheduler for a facility or system (which level of responsibility a clerk has re. facility vs. system appt management is dependent per system & facility)
 - If PCMM doesn't know which clinic active, how can we tell in the front end?
+  - VAOS handles this well if they're both in the same healthcare system
+  - If there's active & pending, then schedule with pending
+  - Find active provider within pending
+    - Look for any clinic for primary care where that provider is the default provider
+    - If they only have a pending & no active, the patient hasn't been seen by that facility in last 24 months usually
+    - Should still present pending provider's clinic for that veteran
+  - If only pending / no PACT, then new patient, so book for 1 hour slot
+  - If returning, then book into 30 min slots
+  - Residents can see new patients, doesn't need to be an attending
 - Why not name of provider for clinic name?
   - Ran into problems with provider changes
   - SOmetimes harder to remember doc names vs. clinic names
@@ -57,14 +66,35 @@
 
 ## Appointment duration
 - How do we know how long an appointment should be?
+   - Basically new (60 mins) vs. returning patient (30 mins)
+   - Can know 
 - How do we know whether someone needs a long or short appointment?
 - Can we ask veterans a question about being new, or can we deduce this from existing data?
 
 ## Direct Scheduling
 - How many appointments need to be rescheduled or can't be fulfilled because of some scheduling error (e.g., self-scheduling into wrong clinic)
+  - .02% of total appointments are self-scheduled
+  - Has been talk of turning this off because it produces low quality appointments
 - What is the time implication to schedulers of correcting these errors? 
 - What are the common self-scheduling appointment errors?
 - Can we increase the number of types of care that are self-schedulable? How?
 - What is the direct scheduling process after a veteran hits 'confirm / sdchedule' in VAOS? Do clerks ever filter these requests?
 - What is the single biggest thing we can do (within our scope) to improve the veteran scheduling experience? What potential outcomes excite you the most?
 - Do clinics/facilities have any control over how or when appointments can be cancelled online?
+  - Clinics do appointment grooming on a daily basis, sometimes
+  - Not ideal, becasue what if you book urgent appt for 6 months out?
+  - When veterans cancel, they don't know that a bunch of other appts are made for labs, resources, etc. behind the scenes
+- Top problems
+  - For primary care, what's the appropriate clinic for the veteran to see? Sometimes attending is associated with 10 or 20 clinics so that's what the veteran sees
+  - For mental health, use of stop codes. Need to figure out what service you actually need
+    - Could map primary + secondary stop codes to a specific care type, or broad care type + modality
+  - For everything else, new vs. follow-up. Sometimes you can schedule yourself into clinic without consult
+    - Lots of variables here, but Shawn thinks there could be rules to make distinction of which clinic is which & where to schedule a veteran
+
+## Requests
+- Why aren't more facilities opted into this
+  - Directive to enable this more widely
+  - Staffing problems, teams are already swamped
+  - OVAC doesn't like appointment requests because self-scheduling would be better
+    - If VS GUI could handle these it would be easier workload-wise for the scheduling clerks
+  - Because it's another app to check, hard to check in & handle within act guidelines
