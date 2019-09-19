@@ -44,16 +44,17 @@ _These links/reviews may end up being consolidated, stay tuned._
 - [ ] Investigation of applicable services
   - [ ] Does the feature use the `vets-api` service?
   - [ ] Review `vets-api` endpoints or does an `api` exist, need to be built?
+  - [ ] Does EVSS need to be engaged? And how?
   - [ ] Collaborate with Frontend on Error Handling
-   - [ ] Investigate  the common area for error types
-   - [ ] Define or reference a known resource
+  - [ ] Investigate  the common area for error types
+  - [ ] Define or reference a known resource
 ### Frontend Tasks
 - [ ] Investigation
   - [ ] What will be involved in using the `vets-api`service to pull and display data?
   - [ ] List and define what the main components will be for the feature to function properly
   - [ ] Collaborate with Backend on Error Handling
-   - [ ] Investigate  the common area for error types
-   - [ ] Define or reference a known resource
+  - [ ] Investigate  the common area for error types
+  - [ ] Define or reference a known resource
 ### Security
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?
