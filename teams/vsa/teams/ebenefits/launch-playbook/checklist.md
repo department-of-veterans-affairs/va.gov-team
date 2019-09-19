@@ -10,7 +10,7 @@ The steps here are meant to provide a framework to build upon for each feature t
 - [ ] Establish process for user interviews
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md)
 ### UX
-The hypothesis of what we have researched
+_The hypothesis of what we have researched_
 - [ ] Discovery
 - [ ] Investigation
 - [ ] Develop wireframes
@@ -18,14 +18,14 @@ The hypothesis of what we have researched
 - [ ] Develop mockups
   - [ ] Seek applicable feedback
 ### Content/IA  
-Share as soon as you have content - this is usually after mockups are created
+_Share as soon as you have content - this is usually after mockups are created_
 - [ ] Discovery and reference the content style guide
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
-  - [ ] Outline links, urls, navigation heirarchy, crosslinks/redirects, SEO   
+  - [ ] Outline links (hub and spoke), urls, navigation heirarchy, crosslinks/redirects, SEO   
   - [ ] Discuss what parts of the site are templated
-  - [ ] Do they have an opinion on what we are envisioning?
-  - [ ] present some metrics that speak to wayfinding in VA.gov and gather their reflections
+  - [ ] Solicit feedback from Content/IA Team
+  - [ ] Confirm that wayfinding is approriate
 - [ ] [Request Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md)  
 ### Usability
 - [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
@@ -44,15 +44,18 @@ Share as soon as you have content - this is usually after mockups are created
 - [ ] Investigate  the common area for error types
 - [ ] Define or reference a known resource
 ### Backend Tasks
- - [ ] Discovery
-   - [ ] Review `vets-api` endpoints
- - [ ] Investigation of applicable services
-   - [ ] Does the feature use the `vets-api` service?
+- [ ] Discovery
+  - [ ] Review `vets-api` endpoints
+- [ ] Investigation of applicable services
+  - [ ] Does the feature use the `vets-api` service?
 ### Frontend Tasks
- - [ ] Discovery
- - [ ] Investigation
-   - [ ] What will be involved in using the `vets-api`service to pull and display data?
-   - [ ] List and define what the main components will be for the feature to function properly
+- [ ] Discovery
+- [ ] Investigation
+  - [ ] What will be involved in using the `vets-api`service to pull and display data?
+  - [ ] List and define what the main components will be for the feature to function properly
+### Testing
+- [ ] Create a test plan from an overall engineering perspective
+
 ## Analytics
 - [ ] Confirm that the new feature/product is stable and visible in staging.va.gov
 - [ ] Engage with the Analytics Team about what is to be launched 
@@ -64,6 +67,8 @@ Share as soon as you have content - this is usually after mockups are created
 
 ## Release Plan
 - [ ] _Notes are on my other machine_
+
+## Consider Deliverables and Artifacts
 
 ## Launch
 - [ ] Go/No-go from each team member
