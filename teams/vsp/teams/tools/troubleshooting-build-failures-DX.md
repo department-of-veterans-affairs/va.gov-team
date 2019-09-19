@@ -27,7 +27,8 @@
     - Peer developers are able to review the change, engage in commentary, and approve the request for merging into the master branch in the pull request UI
     - Systems can be notified about a pull request and provide change approval to the GitHub pull request process 
     - Pull requests must be both approved by peer developers and by the automated CI checks (system) before they can be merged.
-  - Vets-website initiates several automated checks when a pull request is created (i.e. when GitHub notifies the continuous integration system). 
+  - Vets-website initiates several automated checks when a pull request is created (i.e. when GitHub notifies the continuous integration system)
+    - ![Platform CI overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/blue-ocean-overview.png)
     - Platform tools - (tools that the platform team maintains. These generally run inside of Jenkins)
       - Unit tests 
       - Linting
@@ -39,6 +40,7 @@
       - Code Climate - analyzes various factors and provide suggests for improving code quality 
     - All of the testing provided by the platform must be successful before a developer can merge a their feature branch. The code climate feedback is optional and is mainly to facilitate code review 
   - The Required reviews UI
+    - ![Required review UI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/required-reviews.png)
     - The required reviews UI is the provides developers with an overview of the change approval 
     - It's summarizes manual and automated approvals 
     - Once all approvals are met, the developer can click the Squash and Merge button on the reviews UI to close out their pull request and merge their change into master 
@@ -46,9 +48,10 @@
       
 ## Typical exception flow
 - Developer is notified through the Required Reviews UI that the continuous integration failed 
-	- Developer turns on SOCKS proxy and clicks details link 
-		- The SOCKS proxy requires browser configuration during initial set up and is ran as a command line app in the terminal. The command is cryptic (not user friendly):  ssh socks -D 2001 -N
-		- The socks proxy must be re-activated anytime the user turns off their terminal or wakes up their machine. 
+    - Developer turns on SOCKS proxy and clicks details link 
+    - The SOCKS proxy requires browser configuration during initial set up and is ran as a command line app in the terminal. The command is cryptic (not user friendly):  ssh socks -D 2001 -N
+      - The socks proxy must be re-activated anytime the user turns off their terminal or wakes up their machine. 
+- ![Platform CI exception](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/tools/blue-ocean-exception.png)
 - Jenkins provides a view of each of the stages of the CI validation. The stage that failed is marked with a red x. Developers can click on that to see a log of the process that triggered the failure along with an error message
 	- A few troubleshooting steps can happen at this point
 		- Lint, security, and Unit tests are usually simple failures. The errors are straight forward and easy to understand and running the tests locally will always give the same result as the CI. To find the command to run, they can refer to the vets-website readme or to the log (e.g. the example above ran npm --no-color run lint). Often the developer will not want to run the command ran by the CI- the commands documented in the readme will provide better output for developers
