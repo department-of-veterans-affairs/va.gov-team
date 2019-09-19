@@ -6,25 +6,20 @@ The steps here are meant to provide a framework to build upon for each feature t
 ## Design
 - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
 
-### UX
- - [ ] Discovery
- - [ ] Investigation
- - [ ] Develop wireframes
-   - [ ] Seek applicable feedback
- - [ ] Develop mockups
-   - [ ] Seek applicable feedback
-### Usability
-- [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
-  - [ ] Is the entry point established?
-  - [ ] Is there a better entry point?
-- [ ] 508 Compliance
-  - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
-  - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 ### Research Plan
 - [ ] Establish process for user interviews
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md)
+### UX
+The hypothesis of what we have researched
+- [ ] Discovery
+- [ ] Investigation
+- [ ] Develop wireframes
+  - [ ] Seek applicable feedback
+- [ ] Develop mockups
+  - [ ] Seek applicable feedback
 ### Content/IA  
 Share as soon as you have content - this is usually after mockups are created
+- [ ] Discovery and reference the content style guide
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
   - [ ] Outline links, urls, navigation heirarchy, crosslinks/redirects, SEO   
@@ -32,6 +27,13 @@ Share as soon as you have content - this is usually after mockups are created
   - [ ] Do they have an opinion on what we are envisioning?
   - [ ] present some metrics that speak to wayfinding in VA.gov and gather their reflections
 - [ ] [Request Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md)  
+### Usability
+- [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
+  - [ ] Is the entry point established?
+  - [ ] Is there a better entry point?
+- [ ] 508 Compliance
+  - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
+  - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 
 ## Development
 ### Security
