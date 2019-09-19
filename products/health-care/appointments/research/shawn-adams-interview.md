@@ -1,10 +1,22 @@
 ## Resident clinics
 - how many veterans are seen by attending vs. resident physicians?
+  - Sizable minority, if not majority
 - How does the attending physician interact with residents and appointments?
+  - PCMM tracks relationship, attendings are paths of escalation
+  - VA largest trainer of residents, they move around a lot (e.g., 6 week rotation at a private clinic), so also need to track who gets their messages when they're not there
 - How do Veterans decide which residents they want to see?
+  - Continuity is important, only really gets trumped by appointment wait time (at the veteran's discretion)
 - How many residents are in a PACT?
+  - PACT team defined in PCMM; 
 - How often to residents come & go within a PACT?
+  - A lot, because of rotations and the nature of being a resident
+  - All over the place, sometimes there for 6 weeks and gone for 6 weeks, sometimes there for years
 - What kind of lift is it for site admins to appopriately set residents up in VATS?
+- Should attendings be schedulable?
+  - Most should be
+- Could we schedule people with the last clinic they were seen in?
+  - If new patient clinic, wouldn't want to schedule them back into that after initial consult
+
 
 ## Clinics
 - How do we get availability information about a clinic? How expensive are the queries? How long do they take?
@@ -12,7 +24,8 @@
 - What are the factors that go into determining which clinic to book a veteran into?
 - What’s the importance of secondary stop codes? Do they provide veterans with meaningful differentiation in services?
 - Are we able to show, by type of care or stop code, the last clinic that a Veteran successfully had an appointment in withing that health system?
-- What is the timeline for patient-friendly names of clinics? Is it at all feasible to guide or nudge that process? 
+- What is the timeline for patient-friendly names of clinics? Is it at all feasible to guide or nudge that process?
+- If PCMM doesn't know which clinic active, how can we tell in the front end?
 
 ## Appointment duration
 - How do we know how long an appointment should be?
