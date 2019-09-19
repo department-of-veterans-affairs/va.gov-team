@@ -40,25 +40,27 @@ _These links/reviews may end up being consolidated, stay tuned._
   - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)
 
 ## Development
-### Security
-- [ ] Establish who among VSP we should talk to about Security Reviews
-### Reliability
-- [ ] Develop testing infrastructure, refer to established documentation
-### Error Handling
-- [ ] Investigate  the common area for error types
-- [ ] Define or reference a known resource
 ### Backend Tasks
-- [ ] Discovery
-  - [ ] Review `vets-api` endpoints
 - [ ] Investigation of applicable services
   - [ ] Does the feature use the `vets-api` service?
+  - [ ] Review `vets-api` endpoints or does an `api` exist, need to be built?
+  - [ ] Collaborate with Frontend on Error Handling
+   - [ ] Investigate  the common area for error types
+   - [ ] Define or reference a known resource
 ### Frontend Tasks
-- [ ] Discovery
 - [ ] Investigation
   - [ ] What will be involved in using the `vets-api`service to pull and display data?
   - [ ] List and define what the main components will be for the feature to function properly
+  - [ ] Collaborate with Backend on Error Handling
+   - [ ] Investigate  the common area for error types
+   - [ ] Define or reference a known resource
+### Security
+- [ ] Establish who among VSP we should talk to about Security Reviews
+  - [ ] What is the review process?
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective
+  - [ ] Build, test, audits (508, content, security, etc) in a feedback loop
+- [ ] Develop testing infrastructure, refer to established documentation
 
 ## Analytics
 - [ ] Confirm that the new feature/product is stable and visible in staging.va.gov
@@ -80,4 +82,5 @@ _These links/reviews may end up being consolidated, stay tuned._
 - [ ] Define other last minute items
 
 ## Post-Mortem
-- [ ] List and defien any issues that impeded the process
+- [ ] List and define any issues that impeded the process
+- [ ] Security, usability, 
