@@ -30,3 +30,15 @@ All VFSs (aka Va.gov features and products)
 
 ### [/teams](./teams)
 All teams currently building VSP or building VFSs.
+
+---------------
+
+## Document history
+| Updated | Description  | User  |  
+|---|---|---|
+| 9/16/2019 at 3:00 PM | Added link to repo guidelines file | Mikki Northuis |
+| 9/4/2019 at 3:30 PM | Updated to reflect new repo structure | Mikki Northuis |
+| 6/28/2019 at 1 PM | Stripped most content, reroute users to `va.gov-team` or `va.gov-vfs-teams` as appropriate. | Andrew Gunsch |
+| 6/1/2019 at 1:45 PM  | Added "TBD" for sections still being fleshed out  | Ryan Luu |
+| 6/1/2019 at 11:06 AM  | Removed POC, added link for Platform users, added Document history  | Layla Soileau |  
+
