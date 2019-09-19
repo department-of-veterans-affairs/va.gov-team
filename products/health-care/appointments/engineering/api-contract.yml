@@ -73,21 +73,23 @@ paths:
                 $ref: '#/components/schemas/Appointment'
         default:
           description: Unexpected error
-  /appointments/{appointmentId}:
-    delete:
+    put:
       tags:
         - 'Appointments'
-      summary: 'Cancel a confirmed appointment'
-      description: ''
+      summary: 'Update a confirmed appointment (only used to cancel appointments)'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Cancel endpoint
+            <ul>
+              <li>
+                <code>PUT /VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/cancel-appointment</code>
+              </li>
+            </ul>
+          </li>
+          <li>Community care requests are included in appointment request service</li>
+        </ul>
       operationId: ''
-      parameters:
-        - name: appointmentId
-          in: path
-          required: true
-          schema:
-            type: integer
-            format: int64
-            minimum: 1
       responses:
         '200':
           description: OK
@@ -158,11 +160,84 @@ paths:
         default:
           description: Unexpected error
   /requests/{requestId}:
-    delete:
+    put:
       tags:
         - 'Requests'
-      summary: 'Cancel a requested appointment'
-      description: ''
+      summary: 'Update a requested appointment (only used to cancel requests)'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      parameters:
+        - name: requestId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+  /requests/{requestId}/messages:
+    get:
+      tags:
+        - 'Requests'
+      summary: 'Gets a list of messages associated with the request'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}/messages</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      parameters:
+        - name: requestId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+    post:
+      tags:
+        - 'Requests'
+      summary: 'Send a new message for the given request'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}/messages</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
       operationId: ''
       parameters:
         - name: requestId
@@ -327,6 +402,39 @@ paths:
                     type: boolean
                   durationInMonths:
                     type: number
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/cancel-reasons:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Get the allowed cancel reasons for a facility'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Cancel reasons
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/cancel-reasons-list</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+            minimum: 3
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
         default:
           description: Unexpected error
   /facilities/{facilityId}/limits:
