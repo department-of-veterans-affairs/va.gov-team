@@ -26,3 +26,4 @@
 - Can we increase the number of types of care that are self-schedulable? How?
 - What is the direct scheduling process after a veteran hits 'confirm / sdchedule' in VAOS? Do clerks ever filter these requests?
 - What is the single biggest thing we can do (within our scope) to improve the veteran scheduling experience? What potential outcomes excite you the most?
+- Do clinics/facilities have any control over how or when appointments can be cancelled online?
