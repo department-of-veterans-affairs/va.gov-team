@@ -43,3 +43,6 @@ _For more detail, see the current [**Sprint Objectives**](https://github.com/dep
 - By creating a framework for migration, we can more easily lift other items out of the eBenefits portfolio and move them into the VA.gov main site quicker and more effectively.
 - We plan to incorporate as much 508 compliance into our migration process in order to alleviate and expedite the 508 review process.
 
+## Measuring Success
+- Ratio of current eBenefits users compared to users in the new location
+  - Once the ratio is near 1:1, or some agreed upon threshold,  plans for sunsetting can be triggered
