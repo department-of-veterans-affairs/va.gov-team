@@ -22,10 +22,38 @@
 - How do we get availability information about a clinic? How expensive are the queries? How long do they take?
 - How could we go about aggregating the options for a given stop code?
 - What are the factors that go into determining which clinic to book a veteran into?
+  - Lots of stuff
+  - RTC (return to center), recall reminders, etc. appear in VSE GUI
+  - Clerks can look at RTC for info about what specific care needs veteran has & will schedule them into clinic that provider requested
+  - Different follow up regiments, e.g. MRTC (multiple RTC) where you need several follow-ups
 - What’s the importance of secondary stop codes? Do they provide veterans with meaningful differentiation in services?
 - Are we able to show, by type of care or stop code, the last clinic that a Veteran successfully had an appointment in withing that health system?
+  - Yes, there's nuance to this and not always the right clinic for next appointment
 - What is the timeline for patient-friendly names of clinics? Is it at all feasible to guide or nudge that process?
+  - They exist, not for every clinic
+  - painful, there is a central file in cdw but that's read-only. There's a 'clinic profile managers' group and that's the group of people that can set the names
+  - sometimes lack of name indicates that the clinic was incorrectly enabled for vaos visibility
+  - this is under OVAC sphere though, so can get movement on clinic names
+  - Recently, OVAC was able to change the clinic naming scheme for another project
+  - San Diego & Loma Linda might be good facilities to look at as good examples of names
+  - Services are responsible for their own clinics, so e.g. audiology scheduler for a facility or system (which level of responsibility a clerk has re. facility vs. system appt management is dependent per system & facility)
 - If PCMM doesn't know which clinic active, how can we tell in the front end?
+- Why not name of provider for clinic name?
+  - Ran into problems with provider changes
+  - SOmetimes harder to remember doc names vs. clinic names
+- Primary Care: there is a setting in (vats? SM?) that says whether a provider is a default provider (can only be 1) in a clinic
+  - Does clinic have associate provider
+  - If yes, look for default provider
+  - VistA file 44 is where this is managed
+    - gets written to CDW, so pcmm uses day-old data (stored procedure pulls this out ~24 hours)
+    - This is the clinic profile data
+    - Name of clinic, who's provider, default duration, etc.
+    - Default assignment of primary care provider to patient
+    - Active vs. pending assignment of PCP to patient
+- Primary stop code associated to clinic at time of clinic creation
+- Secondary stop code (called credit stop code): how / where that service is provided
+- Stop codes not going to exist in Cerner world
+
 
 ## Appointment duration
 - How do we know how long an appointment should be?
