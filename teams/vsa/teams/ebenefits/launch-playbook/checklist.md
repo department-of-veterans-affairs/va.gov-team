@@ -19,14 +19,17 @@ _The hypothesis of what we have researched_
   - [ ] Seek applicable feedback
 ### Content/IA  
 _Share as soon as you have content - this is usually after mockups are created_
-- [ ] Discovery and reference the content style guide
+- [ ] Discovery and reference the VA.gov content style guide
+- [ ] Reference the [Content/IA best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
+- [ ] Reference the [Content/IA Messaging Dictionary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
   - [ ] Outline links (hub and spoke), urls, navigation heirarchy, crosslinks/redirects, SEO   
   - [ ] Discuss what parts of the site are templated
   - [ ] Solicit feedback from Content/IA Team
   - [ ] Confirm that wayfinding is approriate
-- [ ] [Request Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md)  
+- [ ] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
+_These links/reviews may end up being consolidated, stay tuned._
 ### Usability
 - [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
   - [ ] Is the entry point established?
@@ -34,6 +37,7 @@ _Share as soon as you have content - this is usually after mockups are created_
 - [ ] 508 Compliance
   - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
   - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+  - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)
 
 ## Development
 ### Security
