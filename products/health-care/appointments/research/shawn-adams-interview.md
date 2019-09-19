@@ -3,6 +3,8 @@
 - How does the attending physician interact with residents and appointments?
 - How do Veterans decide which residents they want to see?
 - How many residents are in a PACT?
+- How often to residents come & go within a PACT?
+- What kind of lift is it for site admins to appopriately set residents up in VATS?
 
 ## Clinics
 - How do we get availability information about a clinic? How expensive are the queries? How long do they take?
