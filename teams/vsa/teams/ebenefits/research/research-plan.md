@@ -24,6 +24,8 @@
 Research method: Moderated remote user interviews 
 Why this method: We are in the early, discovery stage of this project. We want to learn how and why users use eBenefits so that we can prioritize key features.
 
+Link to conversation guide:
+
 Item to be tested: https://www.ebenefits.va.gov and www.va.gov
 
 Tool: Zoom
