@@ -60,5 +60,5 @@ Date | Time (EST)
 * Moderator: Aricka Lewis
 * Research writing & task development: Aricka Lewis
 * Note takers: Jason Wolf
-* Observers: Jim Adams, Micah Chiang, Kathleen Cullen
+* Observers: Jim Adams, Micah Chiang, Kathleen Crawford
 * Participant recuriting & screening: 
