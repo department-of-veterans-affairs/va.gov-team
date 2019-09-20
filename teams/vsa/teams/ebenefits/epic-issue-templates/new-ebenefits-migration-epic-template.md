@@ -19,6 +19,7 @@ As a Veteran I want to _____ so that I can _____.
 
 - [ ] The USER must be able to _____
 - [ ] The USER must also be able to _____
+- [ ] User Acceptance Testing was succesfully completed
 - [ ] The feature has been launched
 
 ## Pilot Tasks
