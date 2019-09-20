@@ -1,8 +1,10 @@
 # View and Update my POA/ Representative
 
-## Product 1 Pager WIP
+[WIP]
 
-### NOTES
+## NOTES
+
+POA = Power of Attorney
 
 Good info in the Caseflow POA project: https://github.com/department-of-veterans-affairs/appeals-design-research/tree/master/Project%20Folders/Caseflow%20Projects/Power%20of%20Attorney%20(POA)
 
