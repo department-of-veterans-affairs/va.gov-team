@@ -15,7 +15,6 @@ The steps here are meant to provide a framework to build upon for each feature t
 ### UX
 _The hypothesis of what we have researched_
 - [ ] Discovery
-- [ ] Investigation
 - [ ] Develop wireframes
   - [ ] Seek applicable feedback
 - [ ] Develop mockups
