@@ -33,7 +33,7 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
 ## Warm-up Questions - 5 minutes
 
