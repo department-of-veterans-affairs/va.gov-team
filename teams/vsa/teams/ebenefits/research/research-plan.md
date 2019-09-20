@@ -49,18 +49,17 @@ Recruitment strategy:
 ### Desired Availability
 Date | Time (EST)
 ---- | ----
-9/23/2019 | Time
-9/24/2019 | Time
-9/25/2019 | Time
-9/26/2019 | Time
-9/30/2019 | Time
-10/02/2019 | Time
-10/03/2019 | Time
-10/04/2019 | Time
+9/26/2019 | 1PM – 7PM
+9/30/2019 | 10AM – 7PM
+10/02/2019 | 2PM – 6PM
+10/03/2019 | 1PM – 7PM
+10/04/2019 | 9AM – 7PM
+10/06/2019 | All Day
+10/07/2019 | All Day
 
 ### Roles
 * Moderator: Aricka Lewis
 * Research writing & task development: Aricka Lewis
-* Note takers: 
-* Observers:
-* Participant recuriting & screening:
+* Note takers: Jason Wolf
+* Observers: Jim Adams, Micah Chiang, Kathleen Cullen
+* Participant recuriting & screening: 
