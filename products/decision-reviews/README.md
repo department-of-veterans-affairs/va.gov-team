@@ -164,6 +164,9 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 - Early June: Conceptual version of app workflow sketched
 
 ## How to Access and Test
+- Link:
+- Password protection info:
+- User authentication info:
 
 ## Error Handling
 
@@ -178,6 +181,7 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 - Product Specs
 - [Research and Design](Research%20and%20Design/README.md)
 - Roadmap
+- ATO documentation
 
 ## Team
 
