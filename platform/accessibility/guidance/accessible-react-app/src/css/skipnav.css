@@ -1,0 +1,14 @@
+.ac-link--skip-nav {
+  background-color: #fff;
+  left: 0;
+  padding: 1rem 2rem;
+  position: absolute;
+  top: -9999px;
+  z-index: 1;
+}
+
+.ac-link--skip-nav:focus {
+  outline-offset: 0 !important;
+  left: 2px;
+  top: 2px;
+}

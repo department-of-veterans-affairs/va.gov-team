@@ -1,0 +1,21 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+span,
+ul,
+li {
+  font-size: 1.6rem;
+  line-height: 1.5;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #0000ee;
+}

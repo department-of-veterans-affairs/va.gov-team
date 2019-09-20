@@ -1,0 +1,19 @@
+.ac-primary-nav {
+  margin: 0;
+  padding: 0;
+}
+
+.ac-primary-nav__list-item {
+  display: inline-block;
+  list-style-type: none;
+  margin-right: 1em;
+}
+
+.ac-primary-nav__list-item:last-of-type {
+  margin-right: 2em;
+}
+
+.ac-primary-nav__list-item > a {
+  color: #bebbbb;
+  text-decoration: none;
+}

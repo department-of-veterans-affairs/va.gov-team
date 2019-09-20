@@ -1,0 +1,56 @@
+header,
+main,
+aside,
+footer,
+article,
+section,
+div {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  align-items: center;
+  background-color: rebeccapurple;
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  margin: 2em 0;
+  max-width: 100%;
+}
+
+#grid-container {
+  align-items: stretch;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  max-width: 85em;
+  padding: 1vh 2vw;
+}
+
+#grid-container aside {
+  order: 2;
+}
+
+@media (min-width: 30em) {
+  #grid-container {
+    justify-content: space-between;
+    flex-direction: row;
+  }
+
+  .ac-layout--two-column__main {
+    width: calc(100% - 25em);
+  }
+
+  .ac-layout--two-column__aside {
+    border-left: 1px solid #ccc;
+    padding-left: 2em;
+    width: 22em;
+  }
+}
+
+@media (min-width: 48px) {
+}
