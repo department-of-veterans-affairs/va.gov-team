@@ -41,7 +41,7 @@ Recruitment strategy:
 * We will use the Perigean contract to recruit participants
 
 ## When
-1. Timeline: September 23, 2019 – October 4, 2019
+1. Timeline: September 26, 2019 – October 7, 2019
 2. Preparedness: Since we are in the discovery phase, we will be asking about an existing site.
 3. Length of Sessions: 45 to 60 minutes
 
