@@ -128,7 +128,7 @@ As a Veteran I want to _____ so that I can _____.
 - [ ] Go/No-go from each team member
 - [ ] Define what is being tracked
 - [ ] Define other last minute items
-- [ ] Review the [Release Plan[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [ ] Review the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ### Post-Mortem
 - [ ] List and define any issues that impeded the process
