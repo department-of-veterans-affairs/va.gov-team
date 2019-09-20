@@ -2,10 +2,12 @@
 The steps here are meant to provide a framework to build upon for each feature that gets migrated out of eBenefits and into VA.gov.  They will not all be applicable everytime but they will at least be accounted for as we move forward.  For example, we can assume that onboarding tasks do not need to be repeated for each launch.
 
 **Remember: the more we are able to cover as we transform, the easier it will be for other teams**
+## Discovery
+- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoverySprintHowTo.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
 
 ## Design
 - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
-
+- [ ] As soon as feasile, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
 ### Research Plan
 - [ ] Establish process for user interviews
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md))
@@ -41,6 +43,9 @@ _These links/reviews may end up being consolidated, stay tuned._
 
 ## Development
 _Do we need to merge the FE and BE tasks since they feel so similiar?_
+### General Engineering Tasks
+- [ ] Documentation for quickly addressing when things go wrong
+- [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely?
 ### Backend Tasks
 - [ ] Investigation of applicable services
   - [ ] Does the feature use the `vets-api` service?
@@ -52,6 +57,8 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] For PRs: first review internally with BE or another engineer before the BE Team
   - [ ] Once internally reviewed, share with the BE Review Team at the VSP (team name?)
   - [ ] Ensure that feature flags are set approriately to be toggled
+- [ ] Documentation and points of contact for any new backend dependencies
+- [ ] Links to important dashboards for investigating relevant issues
 ### Frontend Tasks
 - [ ] Investigation
   - [ ] What will be involved in using the `vets-api`service to pull and display data?
@@ -62,13 +69,23 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] For PRs: first review internally with FE or another engineer before the FE Team
   - [ ] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
   - [ ] Ensure that feature flags are set approriately to be toggled
-### Security
+  - [ ] Entrance pages (i.e. supporting static content) in place
+### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?
+- [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
+- [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-preliminary-ato-review)
+- [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-pre-launch-ato-review)
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
-  - [ ] Build, test, audits (508, content, security, etc) in a feedback loop  
+  - [ ] Build, test, audits (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
+  - [ ] Code coverage requirements
 - [ ] Develop testing infrastructure, refer to established documentation  
+- [ ] Define threshold or definition of high-severity bugs
+- [ ] Document any high-severity bugs for future reference  
+- [ ] Establish contacts for errors to be reported to
+  - [ ] Errors get sent directly to the team
+- [ ] Tested in prod with back-of-house people and systems
 
 ## Analytics
 - [ ] Confirm that the new feature/product is stable and visible in staging.va.gov  
@@ -79,16 +96,30 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] Have they asked for anything else?
 - [ ] What else should we say about 
 
+## Pre-release
+- [ ] Call Cneter is prepared for launch with updated scripts/docuemtnation as needed
+- [ ] VA web comms team is aware of this launch and has accurate messaging
+- [ ] Product Outline is updated
+- [ ] Downtime UX and error messaging documentation complete
+- [ ] "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
+
 ## Release Plan
-- [ ] _Notes are on my other machine_
+- [ ] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Consider Deliverables and Artifacts
+- [ ] Ensure that these are noted and stored for easy access
+  - [ ] Include contact information in case further discussion is required
 
 ## Launch
 - [ ] Go/No-go from each team member
 - [ ] Define what is being tracked
 - [ ] Define other last minute items
+- [ ] Review the [Release Plan[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Post-Mortem
 - [ ] List and define any issues that impeded the process
-- [ ] Security, usability, 
+- [ ] Create post-launch coordination plan including calls with stakeholders and call center 
+- [ ] Coordinate with Call Center to monitor calls 
+- [ ] Ensure monitoring and resolve issues in 24 hours
+- [ ] Collect and report metrics from Google Analytics
+- [ ] Schedule regression testing 
