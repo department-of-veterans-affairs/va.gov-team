@@ -61,8 +61,8 @@ Date | Time (EST)
 
 ### Roles
 Include names, email, phone numbers for all attendees
-* Moderator: Aricka Lewis, aricka@adhocteam.us, 479-713-0035
-* Research writing & task development: Aricka Lewis, aricka@adhocteam.us, 479-713-0035
+* Moderator: Aricka Lewis
+* Research writing & task development: Aricka Lewis
 * Note takers: 
 * Observers:
 * Participant recuriting & screening:
