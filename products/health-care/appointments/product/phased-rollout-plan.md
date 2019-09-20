@@ -1,4 +1,4 @@
-# VAOS Phased Rollout
+# [WIP] VAOS Phased Rollout
 
 ## Goals
 1. Transition veterans to new VAOS tool on VA.gov in order to improve online scheduling uptake and veteran satisfaction with online scheduling
@@ -27,7 +27,7 @@ The goal of this stage is to ensure the tool is holistically ready for productio
   - [ ] No show-stopping bugs found in testing
   - [ ] Acceptance Criteria for MVP met (see [MVP Acceptance Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/README.md#acceptance-criteria) in PO)
 
-## Phase 1: MVP live on production VA.gov site [Week 1 - 11/11/19]
+## Phase 1: MVP live on production VA.gov site [Week 1 - 11/12/19]
 The goal of this phase is to gather a statistically relevant usage sample to both compare performance against the legacy tool and also get enough veterans using the tool to surface any bugs, edge-cases, service issues, etc. before a broader roll-out
 - VAOS available on VA.gov via standard 'new' banner on `/health-care/schedule-view-va-appointments/` page to small percentage of traffic (~10%)
 - Targeting 375 appointment attempts (~2.5% of legacy tool) to get statistically valid data set for comparison

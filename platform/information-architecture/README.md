@@ -1,19 +1,25 @@
 # Information Architecture
 In this folder, you'll find information specific to how Information Architecture works on VA.gov.
 
-### Communication channels
-- Slack channels: #vfs-product-support, #vsp-content-ia
-- Github labels: content-ia-team, ia
+### How to Reach Us
 
-### Points of contact
 The Information Architecture points of contact are:  
-- [Mikki Northius], @Mikki on Slack
-- [Matt Johnson], @Matt Johnson on Slack
+- Mikki Northius, IA - Slack name @Mikki
+- Matt Johnson, IA - Slack name @Matt Johnson
+- Megan Kelley, PM - Slack name @megan.kelley
+
+Slack channels: 
+- #vfs-platform-support, #vsp-content-ia
+
+Github/Zenhub labels: 
+- `content-ia-team`
+
 
 ### Table of contents
 The following list is a set of resources for practicing IA on VA.gov and to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
 
-**[Working with IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)**
+**How to Work with IA Team**
+- [Working with IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
 
 **Best Practices and Guidelines**
 - [URL Process and Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md)

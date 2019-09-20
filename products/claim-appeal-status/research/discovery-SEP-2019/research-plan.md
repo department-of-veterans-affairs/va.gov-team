@@ -1,20 +1,25 @@
-# Research Plan for Unicorns, Claim Status Tool, September 2019
+# Research Plan
+
+Unicorns, Claim Status Tool, September 2019
 
 ## Goals
-- The primary goal of this research is to understand how and why Veterans are using the Claim Status tool to submit their Decision Review forms. 
+- The primary goal of this research is to understand where Veterans expect to be able to file an appeal on VA.gov. 
 - The secondary goal is to understand how Veterans are using the Claim Staus tool and discover opportunities to improve their experiences.
 
 ### Background
 Veterans are using the Claim Status tool to submit their Decision Review forms. This creates a problem because the forms get stored in the eFolder, without an EP code for tracking and does not notify anyone of their existence. Therefore, Decision Review form could go unnoticed indefinitely. This issue was identified during a conversation with RVSR (rater inside VA).
 
+We're unable to find data that helps us understand how frequently this issue is happening. Therefore, we're doing this research learn more about where Veterans expect to be able to file appeals on VA.gov and how we might improve the current Claim Status tool so that appeal forms are not uploaded there.
+
 ### Research questions
-- Where would Veterans expect to be able to submit Decision Review forms?
-- Why and how are Veterans using the Claim Status tool to submit Decision Review forms?
-- What do Veterans expect to happen after the submit the Decision Review form through the tool?
+- Where would Veterans expect to be able to file an appeal on VA.gov?
 - How are Veterans are using the Claim Staus tool? 
   - How do they feel about it? 
   - Does it have the information that Veterans need?
   - Is the information clear and easy to understand?
+  - What types of files do they expect to be able to upload there? 
+  - What do they expect to happen after they upload evidence?
+  - Would they consider uploading a document that is not evidence in the Claim Status tool? If so, why?
 
 ### Hypotheses
 - Veterans are using the Claim Status tool to submit Design Review forms because there isn't a better way to submit them on VA.gov.
@@ -27,7 +32,7 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 
 - We are identifying the volume of calls to the Call Center about submitting Decision Reviews on VA.gov.
 
-- We are using remote, moderated usability studies because we need to talk to Veterans who may try or have tried to submit Decision Review forms through the Claim Status tool. 
+- We are using remote, moderated usability studies because we need to talk to Veterans to understand where they expect to be able to file appeals on VA.gov. 
 
 - We will use Zoom to conduct these sessions.
   
@@ -37,13 +42,13 @@ Veterans are using the Claim Status tool to submit their Decision Review forms. 
 ## Participants
 - 6-8 Veterans
 - Must have one of the following accounts: DSLogon, My HealtheVet, or ID.me
-- Must have submitted or tried to submit a Decision Review form (20-0995 or 20-0996) on VA.gov
+- Must have filed a disability claim or appealed a disability decision
 
 ## Recruitment
 We will work with Perigean for recruiting. 
 
 ## When? 
-1.	Timeline: September 23-27, 2019
+1.	Timeline: September 25- October 1, 2019
 
 2.	Prepare: We're using the live VA.gov site. 
 
@@ -51,7 +56,7 @@ We will work with Perigean for recruiting.
 
 4.	Availability: 10 am - 4 pm ET
 
-5.	Pilot: September 20, 2019, time TBD
+5.	Pilot: September 23, 2019, time TBD
 
 ## Team Roles 
 - Moderator: Kevin S. 
@@ -64,7 +69,7 @@ We will work with Perigean for recruiting.
 
 ## Resources
 
-- [Discussion Guide](./conversation-guide.md) *TBD*
+- [Discussion Guide](./conversation-guide.md)
 
 - [Notes]() *TBD*
 

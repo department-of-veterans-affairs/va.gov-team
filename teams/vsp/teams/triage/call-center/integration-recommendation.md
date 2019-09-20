@@ -26,13 +26,12 @@ In order for the Call Center Lead to integrate the issues surfaced through the c
   
 - Investigate best Approach for immediate daily Reporting to Call Center Lead
   - CURRENT REPORT: There is already a report built that filters cases based off of the following Criteria
-    - WH VA Hotline Non-Complaint = "Other"
     - Case Category = "Other"
     - Subject CONTAINS "va.gov"
   - REQUESTED REPORT: Create new report to ensure the capture of all va.gov issues
-    - WH VA Hotline Non-Complaint = "Other"
+    - Case Category = "Other"
     - Subject CONTAINTS "va.gov" OR Case Note Contains "va.gov"
-  -Compare both reports to determine how call center reps are reporting issues through SalesForce and begin viewing reports daily to surface any issues that are noted.
+  - Compare both reports to determine how call center reps are reporting issues through SalesForce and begin viewing reports daily to surface any issues that are noted.
   
 This Immediate plan would allow us a minimal viable product that would give the triage team insight into call center issues.
   
