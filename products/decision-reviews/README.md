@@ -21,8 +21,12 @@
 # Implementation Information
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
-- [Team](#team)
+- [How to Access and Test](#how-to-access-and-test)
+- [Error Handling](#error-handling)
+- [Service Level Objective](#service-level-objective)
+- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
 - [Resources and Documentation](#resources-and-documentation)
+- [Team](#team)
 - [Screenshots](#screenshots)
 
 ---
@@ -147,8 +151,6 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 - va.gov UX: Research complete, first design round complete, dev work beginning assignment
 - Caseflow Intake UX: Currently in planning
 
-## Status
-
 **Sept 20 2019**
 - API: API team is working on resolving their issues that are preventing @SMLuthi from completing this task. Working on issues endpoint; UAT.
 - Design: Handoff from Carola to Benefits and Memorials designers occurred on 9/18. Additional research and design work in progress.
@@ -161,17 +163,13 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 - Early June: Questions about PRA raised; looking into what compliance measures are necessary
 - Early June: Conceptual version of app workflow sketched
 
-## Team
+## How to Access and Test
 
-- DSVA Product Manager `*`: Andrea Schneider
-- Product Manager `*`: Yana Roy
-- Design: 
-- Eng:
-- VA Web Comms Partner:
-- VA Call Center Partner(s):
-- Production Testing Partner(s):
-- Designer(s):
-- Content Writer(s):
+## Error Handling
+
+## Service Level Objective
+
+## API Calls and Dependent Systems
 
 ## Resources and Documentation
 
@@ -181,4 +179,20 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 - [Research and Design](Research%20and%20Design/README.md)
 - Roadmap
 
+## Team
 
+|Name|Role|Email|
+|----|----|-----|
+|Andrea Schneider|DSVA Lead| andrea.schneider@va.gov |
+|Carola Ponce |DSVA Lead Designer| rubenia.ponce@va.gov |
+|Yana Roy |Product Manager| yroy@governmentcio.com |
+|Kevin Stachura |Designer| kstachura@governmentcio.com |
+|Carolyn Williams |Designer| carolyn@adhocteam.us |
+|Nick Sprinkle | FE Engineer| nick.sprinkle@oddball.io |
+|Robin Garrison | FE Engineer| robin.garrison@adhocteam.us |
+|Silvio Luthi | BE Engineer | silvio@adhocteam.us |
+|Cameron Testerman | BE Engineer | cameron@oddball.io |
+|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
+
+
+## Screenshots
