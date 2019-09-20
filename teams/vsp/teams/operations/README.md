@@ -3,7 +3,7 @@
 Repository for team information, planning docs, meeting notes, etc.
 
 ## Mission
-Ensure the platform is stable, secure, and accessible for all teams.
+Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
 ## Responsibilities
 - CI/CD: maintaining build, test, and deployment infrastructure
