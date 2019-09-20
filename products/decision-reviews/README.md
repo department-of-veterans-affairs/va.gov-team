@@ -147,6 +147,13 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 - va.gov UX: Research complete, first design round complete, dev work beginning assignment
 - Caseflow Intake UX: Currently in planning
 
+## Status
+
+**Sept 20 2019**
+- API: API team is working on resolving their issues that are preventing @SMLuthi from completing this task. Working on issues endpoint; UAT.
+- Design: Handoff from Carola to Benefits and Memorials designers occurred on 9/18. Additional research and design work in progress.
+- Development: FE identified work items to build out skeleton and individual form steps to work on during the next sprint or two.
+
 ## Solution Narrative
 - Late April: Product appears on CTO list of high value targets
 - Early May: Kicked off API discovery, scaffolded project
@@ -156,7 +163,15 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 
 ## Team
 
-[Team personal info available on request]
+- DSVA Product Manager `*`: Andrea Schneider
+- Product Manager `*`: Yana Roy
+- Design: 
+- Eng:
+- VA Web Comms Partner:
+- VA Call Center Partner(s):
+- Production Testing Partner(s):
+- Designer(s):
+- Content Writer(s):
 
 ## Resources and Documentation
 
