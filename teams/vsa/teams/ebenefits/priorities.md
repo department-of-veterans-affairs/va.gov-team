@@ -10,7 +10,7 @@
 | Status | View Payment History | View my VA payments (for all integrated systems). |
 | Status | View Dependents | View the dependents the VA has on record for me, and see if those dependents are on my Compensation award. |
 | Status | View Representative/ POA | View my current representative/ POA. |
-| Form | Update Dependents | (Form 686c and others) Add, remove, and updte dependent informtion. |
+| Form | Update Dependents | (Form 686c and others) Add, remove, and update dependent information. |
 | Form | Add or Update Representative/ POA | (Form 21-22) I can search for a VSO, attorney, or agent, and add that person to my profile. |
 | Form | Order Medical Devices | I can order hearing aids, prosthetic socks, and other devices through the DALC. |
 | Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate their VA Home Loan benefit and apply for a Certificate of Eligibility. |
