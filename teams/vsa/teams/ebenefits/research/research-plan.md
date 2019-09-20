@@ -4,11 +4,10 @@
 2. Background: The eBenefits team is working to migrate all functionality to VA.gov in a way that is helpful for Veterans to receive faster access to benefits and care.
 3. Research questions:
 * How do users navigate to the eBenefits site?
- * Are they using a search engine, from VA.gov, etc.?
+  * Are they using a search engine, from VA.gov, etc.?
 * How do users interact with the current eBenefits site?
-* What do users expect to do on eBenefits? 
- * on VA.gov?
- * What differences do users find between the two sites?
+* What do users expect to do on eBenefits? on VA.gov?
+  * What differences do users find between the two sites?
 * What other sites do Veterans use to access benefits? 
 * What are user priorities on eBenefits?
 * How do users interact with the following features?
