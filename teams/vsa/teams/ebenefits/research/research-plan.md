@@ -32,7 +32,7 @@ Tool: Zoom
 ## Participants & Recruitment
 Participant criteria: 
 * Minimum 5 participants
-* Various ages
+* Various ages 
 * Various rated disabilities
 * Has dependents for eBenefits
 * All ranges of technological knowledge
