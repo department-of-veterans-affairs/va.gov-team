@@ -140,6 +140,14 @@ WIP: Needs research into existing costs (in time, money, and quality-of-life) of
 
 Note that BVA has expressed that they are getting "hammered" with mail.
 
+**Metrics**
+- Higher digital conversion rates and lower paper form submissions
+- Veterans are more satisfied with their claims process
+- Lower processing costs
+- Less time to complete forms
+- Less time to get adjudication/completion from VA for appeals
+- Fewer PDF downloads vs. completion rates
+
 ---
 
 # Implementation Info
