@@ -8,7 +8,7 @@ The steps here are meant to provide a framework to build upon for each feature t
 
 ## Design
 - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
-- [ ] As soon as feasile, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+- [ ] As soon as feasible, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
 ### Research Plan
 - [ ] Establish process for user interviews
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md))
@@ -26,10 +26,10 @@ _Share as soon as you have content - this is usually after mockups are created_
 - [ ] Reference the [Content/IA Messaging Dictionary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
-  - [ ] Outline links (hub and spoke), urls, navigation heirarchy, crosslinks/redirects, SEO   
+  - [ ] Outline links (hub and spoke), urls, navigation hierarchy, crosslinks/redirects, SEO   
   - [ ] Discuss what parts of the site are templated
   - [ ] Solicit feedback from Content/IA Team
-  - [ ] Confirm that wayfinding is approriate
+  - [ ] Confirm that wayfinding is appropriate
 - [ ] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 _These links/reviews may end up being consolidated, stay tuned._
 ### Usability
@@ -56,7 +56,7 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
   - [ ] Define or reference a known resource
 - [ ] For PRs: first review internally with BE or another engineer before the BE Team
   - [ ] Once internally reviewed, share with the BE Review Team at the VSP (team name?)
-  - [ ] Ensure that feature flags are set approriately to be toggled
+  - [ ] Ensure that feature flags are set appropriately to be toggled
 - [ ] Documentation and points of contact for any new backend dependencies
 - [ ] Links to important dashboards for investigating relevant issues
 ### Frontend Tasks
@@ -68,7 +68,7 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
   - [ ] Define or reference a known resource
 - [ ] For PRs: first review internally with FE or another engineer before the FE Team
   - [ ] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
-  - [ ] Ensure that feature flags are set approriately to be toggled
+  - [ ] Ensure that feature flags are set appropriately to be toggled
   - [ ] Entrance pages (i.e. supporting static content) in place
 ### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews
@@ -85,6 +85,7 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] Document any high-severity bugs for future reference  
 - [ ] Establish contacts for errors to be reported to
   - [ ] Errors get sent directly to the team
+- [ ] Establish steps to take to move feature into staging
 - [ ] Tested in prod with back-of-house people and systems
 
 ## Analytics
@@ -97,7 +98,7 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] What else should we say about 
 
 ## Pre-release
-- [ ] Call Cneter is prepared for launch with updated scripts/docuemtnation as needed
+- [ ] Call Center is prepared for launch with updated scripts/documentation as needed
 - [ ] VA web comms team is aware of this launch and has accurate messaging
 - [ ] Product Outline is updated
 - [ ] Downtime UX and error messaging documentation complete
