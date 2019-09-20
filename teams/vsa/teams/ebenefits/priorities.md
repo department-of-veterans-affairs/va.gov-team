@@ -21,17 +21,19 @@
 
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
-| Profile | View Post 9/11 GI Bill Enrollment Status | Users can view their Post-9/11 GI Bill education enrollment status and entitlement. **(WIP)** |
-| Profile | View Education Payments History | Users are able to check the status of their Education payments. |
+| Form | Specially Adapted Housing Grant Application and Claim Status | (Form 26-4555) I can apply for Specially Adapted Housing benefits. |
+| Profile | View Ancillary Benefits | I can view the status of various ancillary and other benefits. |
+| eFolder | View My Documents | I can view and download documents I have uploaded to my VA eFolder. |
+| Profile Form | Vocational Rehabilitation Benefits & Counseling | I can apply for VR&E benefits. |
+| Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. |
+| Calculator | Servicemembers' Group Life Insurance (SGLI) | I can find out how much personal and family coverage my SGLI policy provides. |
+
+### Theoretically Completed Work (Check Deltas)
+
+| Type | Feature | Description |
+| ---- | ------- | ----------- |
+| Profile | View Post 9/11 GI Bill Enrollment Status | Users can view their Post-9/11 GI Bill education enrollment status and entitlement. |
 | Form | Update Direct Deposit and Contact Information for Post 9/11 GI Bill Education | Users are able to update their contact information and DD/EFT. Note: C&P DD/EFT update is being implemented by authd-exp; the BDN (CH33) integration is still needed. |
-| Form | Specially Adapted Housing Grant Application and Claim Status | Users are able to apply for Specially Adapted Housing benefits and check the status of their request. |
-| Claims and Appeals | Claim Status | Users are able to check the status of their pending C&P claims, view details, upload evidence, and view the documents. They can also submit a 5103. **(WIP)** |
-| Profile | View Open Applications |Users can see any VDC applications that they have started and not yet submitted. **(WIP)** |
-| Claims and Appeals | Claim Status | Upload Supporting Evidence: While checking the status of their pending Compensation claims, users can upload documents in support of their claim or to answer specific requests for additional evidence. **(WIP)** |
-| Profile | View Ancillary Benefits | Users are able to view the status of various ancillary and other benefits
-| eFolder | View My Documents | Users are able to see and download documents they have uploaded to the VA
-| Profile Form | Request a Representative | Users are able to complete and submit an electronic request (21-22) for VSO support granting the VSO power of attorney. If they select an attorney or agent representative they are instructed to print, sign, and mail in the 21-22a. |
-| Profile Form | Vocational Rehabilitation Benefits & Counseling | Users can apply for VR&E benefits including general benefits if they have a service-connected disability rating > 10% or regular counseling whether or not they have a disability rating. |
-| Letters | Download VA Letters - NonVet Dependent Summary | NonVet Dependent Summary Letter |
+| Claims and Appeals | Claim Status | Users are able to check the status of their pending C&P claims, view details, upload evidence, and view the documents. They can also submit a 5103. |
+| Profile | View Open Applications |Users can see any VDC applications that they have started and not yet submitted. **(WIP)**  |
 | Profile Health | Exam Appointments Calendar | Users are able to view upcoming VHA medical appointments. (Note: VBA benefit exams are not yet included. They cannot schedule any type of appointment.) |
-| Calculator | Servicemembers' Group Life Insurance (SGLI) | Users can find out how much personal and family coverage their SGLI policy provides. |
