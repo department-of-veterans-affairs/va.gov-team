@@ -22,7 +22,7 @@
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
 | eFolder | View My Documents | I can view and download documents I have uploaded to my VA eFolder. |
-| Form | Specially Adapted Housing Grant Application and Claim Status | (Form 26-4555) I can apply for Specially Adapted Housing benefits. |
+| Form | Apply for Specially Adapted Housing Grant | (Form 26-4555) I can apply for Specially Adapted Housing benefits. |
 | Status | View Ancillary Benefits | I can view the status of various ancillary and other benefits. |
 | Form | Vocational Rehabilitation Benefits & Counseling | I can apply for VR&E benefits. |
 | Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. |
