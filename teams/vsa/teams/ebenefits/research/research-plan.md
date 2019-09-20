@@ -60,7 +60,6 @@ Date | Time (EST)
 10/04/2019 | Time
 
 ### Roles
-Include names, email, phone numbers for all attendees
 * Moderator: Aricka Lewis
 * Research writing & task development: Aricka Lewis
 * Note takers: 
