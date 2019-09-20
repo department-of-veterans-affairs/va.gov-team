@@ -6,17 +6,16 @@
 
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
-| Profile | View Rated Disabilities | Users are able to view their current disability ratings for each contention and the combined disability rating. |
-| Profile | View Compensation Payment History | Users are able to check the status of their Compensation Service payments. |
-| Profile | View Dependents | Users are able to view the dependents the VA has on record and see if they are on their Compensation award.  |
-| Profile | View Representative/ POA | Users are able to view their current representative for VA claims. |
+| Profile | View Rated Disabilities | View my current disability rating for each contention, and my combined disability rating. |
+| Profile | View Payment History | View my VA payments (for all integrated systems). |
+| Profile | View Dependents | View the dependents the VA has on record for me, and see if those dependents are on my Compensation award. |
+| Profile | View Representative/ POA | View my current representative/ POA. |
+| Form | Update Dependents | (Form 686c and others) Add, remove, and updte dependent informtion. |
+| Form | Add or Update Representative/ POA | (Form 21-22) I can search for a VSO, attorney, or agent, and add that person to my profile. |
+| Form | Order Medical Devices | I can order hearing aids, prosthetic socks, and other devices through the DALC. |
+| Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate their VA Home Loan benefit and apply for a Certificate of Eligibility. |
 | Login | User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
 | Profile | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
-| Profile Form | Apply for or Modify Dependency Benefits | Users with a >30% service-connected ability rating are able to add and remove dependents from their award, or to submit additional information if their child is school-aged.  |
-| Profile Form | Find a Representative for VA Claims | Users are able to search for a VSO, attorney, or agent to represent them during interactions with the VA. |
-| Form | Order Hearing Aid Batteries | Users can order hearing aids (and view order status?).  |
-| Form | Order Prosthetic Socks  | Users can order prosthetic socks (and view order status?).  |
-| Form | Apply for VA Home Loan Certificate of Eligibility | Users can calculate their VA Home Loan benefit and apply for a Certificate of Eligibility. |
 
 ### Long Term
 
