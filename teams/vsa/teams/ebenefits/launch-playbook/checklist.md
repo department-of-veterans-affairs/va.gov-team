@@ -40,6 +40,7 @@ _These links/reviews may end up being consolidated, stay tuned._
   - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)
 
 ## Development
+_Do we need to merge the FE and BE tasks since they feel so similiar?_
 ### Backend Tasks
 - [ ] Investigation of applicable services
   - [ ] Does the feature use the `vets-api` service?
@@ -48,6 +49,9 @@ _These links/reviews may end up being consolidated, stay tuned._
   - [ ] Collaborate with Frontend on Error Handling
   - [ ] Investigate  the common area for error types
   - [ ] Define or reference a known resource
+- [ ] For PRs: first review internally with BE or another engineer before the BE Team
+  - [ ] Once internally reviewed, share with the BE Review Team at the VSP (team name?)
+  - [ ] Ensure that feature flags are set approriately to be toggled
 ### Frontend Tasks
 - [ ] Investigation
   - [ ] What will be involved in using the `vets-api`service to pull and display data?
@@ -55,17 +59,20 @@ _These links/reviews may end up being consolidated, stay tuned._
   - [ ] Collaborate with Backend on Error Handling
   - [ ] Investigate  the common area for error types
   - [ ] Define or reference a known resource
+- [ ] For PRs: first review internally with FE or another engineer before the FE Team
+  - [ ] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
+  - [ ] Ensure that feature flags are set approriately to be toggled
 ### Security
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?
 ### Testing
-- [ ] Create a test plan from an overall engineering perspective
-  - [ ] Build, test, audits (508, content, security, etc) in a feedback loop
-- [ ] Develop testing infrastructure, refer to established documentation
+- [ ] Create a test plan from an overall engineering perspective  
+  - [ ] Build, test, audits (508, content, security, etc) in a feedback loop  
+- [ ] Develop testing infrastructure, refer to established documentation  
 
 ## Analytics
-- [ ] Confirm that the new feature/product is stable and visible in staging.va.gov
-- [ ] Engage with the Analytics Team about what is to be launched 
+- [ ] Confirm that the new feature/product is stable and visible in staging.va.gov  
+- [ ] Engage with the Analytics Team about what is to be launched  
 
 ## Support
 - [ ] Does the Call Center have documentation?
