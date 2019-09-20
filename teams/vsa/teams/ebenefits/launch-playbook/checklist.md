@@ -1,7 +1,8 @@
 # Checklist: WIP
 The steps here are meant to provide a framework to build upon for each feature that gets migrated out of eBenefits and into VA.gov.  They will not all be applicable everytime but they will at least be accounted for as we move forward.  For example, we can assume that onboarding tasks do not need to be repeated for each launch.
 
-**Remember: the more we are able to cover as we transform, the easier it will be for other teams**
+**The more we are able to do before hand, the easier it will be for other teams**
+
 ## Discovery
 - [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoverySprintHowTo.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
 
