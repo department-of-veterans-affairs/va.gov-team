@@ -6,6 +6,7 @@ Feedback from Content & IA and from VFS teams regarding our onboarding of VFS te
 
 - Intros went faster after separating personal and project intros into 2 slides
 - Summary/wrap up/more Qs at end?
+- Would be great to have a way to capture feedback from the VFS teams we are onboarding, but likely not worth it for the only IA ones as we won't be doing these moving forward
 
 ## 9/18/19
 
