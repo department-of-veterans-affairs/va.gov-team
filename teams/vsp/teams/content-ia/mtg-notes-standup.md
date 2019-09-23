@@ -11,6 +11,14 @@ TEMPLATE FOR COPY/PASTE<br>
 **Matt standup:**<br> 
 **Megan standup:**<br>
 
+## **Date:** 9/23/19<br>
+**Updates & team questions from Megan:**
+- eBenefits content & IA review incoming <br>
+**Matt standup:**<br> 
+**Megan standup:**<br>
+**Mikki standup:**<br> 
+**Peggy standup:**<br>
+
 ## **Date:** 9/19/19<br>
 **Updates & team questions from Megan:**<br>
 **Megan standup:** Sprint planning yesterday, sprint starting today. Finishing eQIP. 1:1s today.<br>
