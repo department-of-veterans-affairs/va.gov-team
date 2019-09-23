@@ -1,5 +1,12 @@
 Feedback from Content & IA and from VFS teams regarding our onboarding of VFS teams onto Platform
 
+## 9/23/19
+
+**IA onboarding for VAOS** — Internal notes from Megan
+
+- Ending is still awkward, we should have Mikki have that slide up on her computer for Qs
+- Need slide in between "tell us about your project" and wrap up. Need to change Andrea's name. (CHANGES MADE 9/23)
+
 ## 9/20/19
 
 **IA onboarding for By Light** — Internal notes from Megan
