@@ -75,8 +75,9 @@ When  naming a new folder or markdown file in this repo, please adhere to the gu
 - Name your files so that they are easily findable in a list and make sense to anyone who may be looking for them.  Include key descriptive words. 
 - Be consistent when naming files that are similar types and use dates or version info to make unique - i.e. all research notes are named "research-notes-participant-1.md"
 - Consider how the files may sort within a long list - do you want to see similar types of files together, or do you want to see them by date?
-  - Start broad and end with specifics to group similar things together - i.e. mtg-notes-retro-09012019.md
-  - Start with a date to order things chronologically - i.e. 09012019-retro-notes.md
+  - Start broad and end with specifics to group similar things together - i.e. mtg-notes-retro-20190901.md
+  - Start with a date to order things chronologically - i.e. 20190901-retro-notes.md
+- When using dates in your file name, best practice is to use YYYYMMDD format for chronological sorting. 
   
 
 ### When to Create Child Folders
