@@ -16,6 +16,7 @@
 | Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate their VA Home Loan benefit and apply for a Certificate of Eligibility. |
 | Login | User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
 | Status | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
+| Discovery | Document SEP Features | Develop exhaustive documentation for SEP features and roles, and develop roadmap for transforming those servoces to va.gov. |
 
 ### Long Term
 
