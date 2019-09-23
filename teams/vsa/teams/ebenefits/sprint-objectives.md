@@ -28,6 +28,12 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Eng: Technical discovery on previous Dependents work
 - Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates
 - Product: Create epics and first round of issues
+- Epic for View: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393
+- Epic for Update: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976
+
+### 3. Stretch/ Optional: Start documentation for the Stakeholder Enterprise Portal
+- Epic: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1980
+- Document all the features of SEP. Can be a joint product-design exercise or whatever makes the most sense in terms of capacity.
 
 ## **Sprint 4 (9/11 – 9/24)**  
 ```diff 
