@@ -28,33 +28,37 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 ### Sprint 5 (9/25 - 10/8)
 1. Launch and monitor Direct Deposit completely (no later then 10/2)
-2. Continue working towards October launch of Address Validation & Override
-3. Start Bad Address Indicator discovery, target November launch.
+2. Continue working towards launch of Address Validation & Override
+3. Start Bad Address Indicator discovery, target December launch.
 4. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 6 (10/9 - 10/22)
-1. Continue working towards October launch of Address Validaion & Override (if not already launched)
+1. Continue Address Validaion & Override work
 2. Continue Bad Address Indicator work
 3. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 7 (10/23 - 11/5)
-1. Complete launch of Address Validation & Override and move to monitor mode
+1. Continue Address Validation & Override work
 2. Continue Bad Address Indicator work 
 3. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 8 (11/6 - 11/19)
-1. Continue Bad Adress Indicator work
-2. Monitoring, bug fixes, hardening, 508, etc.
+1. Continue Address Validation & Override work
+2. Continue Bad Address Indicator work 
+3. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 9 (11/20 - 12/3)
-1. Complete launch of Bad Address Indicatore and move to monitor mode
-2. Monitoring, bug fixes, hardening, 508, etc.
+1. Complete launch of Address Validation & Override and move to monitor mode
+2. Continue Bad Address Indicator work 
+3. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 10 (12/4 - 12/17)
-1. Monitoring, bug fixes, hardening, 508, etc.
+1. Continue Bad Address Indicator work 
+2. Monitoring, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
-1. Monitoring, bug fixes, hardening, 508, etc.
+1. Complete launch of Address Validation & Override and move to monitor mode 
+2. Monitoring, bug fixes, hardening, 508, etc.
 
 
 
