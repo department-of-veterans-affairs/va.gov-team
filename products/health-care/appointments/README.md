@@ -160,12 +160,13 @@ The goal of the MVP is to improve usability of VAOS by rewritting the tool on VA
 #### Acceptance Criteria
 To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mostly mirrors the functionality of the existing VAOS tool
 - Veterans can see details for their confirmed, pending, and past appointments
-- Veterans can cancel an existing appointment
-- Veterans can directly schedule a new appointment for a type of care, where possible
-- Veterans can request to schedule a new appointment for a type of care, where possible
-- Veterans can request to schedule a new appointment for Community Care for a given type of care (this implies checking CC eligibility using CCE API, which includes Drive Time checks)
-- Veterans can easily identify the 'next action' when the care they're seeking isn't available to them
+- Veterans can cancel an existing confirmed or requested appointment
+- Veterans can directly schedule a new appointment at the last clinic where they were seen
+- Veterans can request to schedule a new appointment for a type of care at a participating VA facility
+- Veterans can request to schedule a new appointment for Community Care for a given type of care when eligible
 - Veterans will receive confirmation and status update notifications via email (and have means of opt-out either in the email or via their VA.gov account).
+- Veterans can message a scheduling clerk at time of requesting an appointment
+- Veterans can easily identify the 'next action' when the care they're seeking isn't available to them
 
 Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to handle:
 - Authentication with necessary VAMF services
@@ -213,6 +214,7 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 ## Status
 - In active discovery and development
 - Team onboarding onto VSP
+- Phased rollout to begin November
 
 ## How to Access and Test
 - Link: 
@@ -238,7 +240,7 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 - ATO documentation
 
 ## Keywords
-
+VA Online Scheduling, VAOS, Veteran Appointment Request
 
 ## Team
 
