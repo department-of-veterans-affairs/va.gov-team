@@ -1,5 +1,12 @@
 Feedback from Content & IA and from VFS teams regarding our onboarding of VFS teams onto Platform
 
+## 9/20/19
+
+**IA onboarding for By Light** — Internal notes from Megan
+
+- Intros went faster after separating personal and project intros into 2 slides
+- Summary/wrap up/more Qs at end?
+
 ## 9/18/19
 
 **IA onboarding for Global UX** — Internal notes from Megan
