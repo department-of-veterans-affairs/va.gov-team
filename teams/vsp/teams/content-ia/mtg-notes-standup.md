@@ -15,10 +15,10 @@ TEMPLATE FOR COPY/PASTE<br>
 **Updates & team questions from Megan:**
 - eBenefits content & IA review incoming <br>
 
-**Matt standup:**<br> 
-**Megan standup:**<br>
-**Mikki standup:**<br> 
-**Peggy standup:**<br>
+**Matt standup:** Met with Lauren first thing this morning. Convo went well, question about folder naming (reaching out to Peggy). Began inventory of vets.gov-team work. Majority of activity seems to be related to migration prep. Booz Allen team is still using vets.gov-team. <br> 
+**Megan standup:** Working on readings <br>
+**Mikki standup:** Was working on VHA legacy nav work, taking way longer than anticipated. Working with someone on Global UX on URL mapping work, but she is having trouble tracking everything down. (Peggy says she can help with legacy content redirects and mapping). VAOS onboarding today. <br> 
+**Peggy standup:** Met with Kevin on error messaging guide. He's doing the legwork of getting the guide into the design system. He'll be finished EOD today/tomorrow, I'll take over. Going to present next Monday at weekly design sync. Almost finished my piece of UAT, need to hand that work off. Next will be Direct Deposit content review. Layla (Benefits & Memorials) has upcoming content review.<br>
 
 ## **Date:** 9/19/19<br>
 **Updates & team questions from Megan:**<br>
