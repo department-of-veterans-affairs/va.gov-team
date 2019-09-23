@@ -14,6 +14,7 @@ TEMPLATE FOR COPY/PASTE<br>
 ## **Date:** 9/23/19<br>
 **Updates & team questions from Megan:**
 - eBenefits content & IA review incoming <br>
+
 **Matt standup:**<br> 
 **Megan standup:**<br>
 **Mikki standup:**<br> 
