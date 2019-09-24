@@ -1,4 +1,4 @@
-# Research Plan for VAOS, Sept 9-13
+# Research Plan for VAOS Request Flows: Community Care and VA, Sept 9-13
 
 ## Goals
 
