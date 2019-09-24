@@ -33,6 +33,10 @@ Here is something to start with. The below content should get moved into an epic
 * https://maketheconnection.net/
 
 ### Implementation notes
+We need to provide guidance on how to implement subdomain search functionality:
+* If a subdomain wants to provide a search box and functionality for their site, then they need to use the VA.gov's search.gov instance (the search engine that powers VA.gov search)
+* Subdomains should not be using their own search technology for site search
+
 We need to create a new section on design.va.gov that includes the following:
 * Self-serve instructions on how to apply the secondary header and footer to a VA website
 * Source files for the header and footer (or links to them on GitHub)
