@@ -7,18 +7,11 @@ Study 1 covered the new community care and VA request flow to account for ux cha
 [Prototype link](https://adhoc.invisionapp.com/share/KYTTUL9GU92#/screens/382961718) 
 
 Research questions included:
-- How well does our strategy of "only showing Veterans options that they have" within VAOS work w/r/t user flow? 
-- Do users know what they can do in VAOS? 
-- What is the user's "goal" or "mental process" for scheduling an appointment? 
-  - i.e. Do they think about Type of care first? Provider? Location? Health concern?
-- Do the new approaches to the flows inspire more/less confidence for Veterans regarding booking appointments online for VA or CC appointments? 
-- Do the new user interface and user experience components introduce any pain points or confusion? 
-  - i.e. How well does our handling of "confirm address" / "choose VA location" flow? 
-  - i.e. Does the time selection tool make sense? 
-  - i.e. Are Veterans confused by the community care options? 
-- Do Veterans understand the difference between pending and scheduled appointments? 
-  - Is "pending" a word that resonates? 
-- What  content / additional content is needed to facilitate decision support at key moments in the appointment scheduling process? 
+- RQ1: How does our strategy of "only showing Veterans options that they have" work within VAOS work w/r/t user flow?
+- RQ2. Are users aware of VAOS?
+- RQ3: What is the user's "goal" or "mental process" for scheduling an appointment?
+- RQ4: Do the new user interface components introduce any pain points or confusion?
+- RQ5: What content is needed to facilitate decision support at key moments in the appointment scheduling process?
 
 # Study 2 (Sept 25-30) 
 Study 2 covered rigid and semi-rigid self-schedule flows, messages, and appointment canceling.
