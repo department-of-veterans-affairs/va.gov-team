@@ -22,9 +22,9 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 45 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. In reality, we're testing ourselves. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 
-- **During part of our session today, you'll be interacting with a prototypes and a demo tool.** The prototype may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **During part of our session today, you'll be interacting with prototypes and a demo tool.** The prototype may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
@@ -35,9 +35,9 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?**
 
-## Warm-up Questions (Optional) - 5-10 minutes
+## Warm-up Questions (Optional) - (5-10 minutes)
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the VA website, let’s start with a few warm-up questions.
 
 - Tell me a little about yourself. (Where do you live? Which branch of service? What do you do for work?)
 
@@ -49,12 +49,13 @@ Before we look at the website, let’s start with a few warm-up questions.
     - How did you go about filing it?
     - How did you feel about the process?
 
-## First Task: Share your screen with Zoom - 5 minutes
+## Setup Task: Share your screen with Zoom - (5 minutes)
 
 - Please minimize or close any windows that you don't want to share with us.
+- Navigate to va.gov in your computer's browser. 
 - Click the "Share" on Zoom.
 
-## Second Task: Show me where you would expect to file an appeal (on a disability claim decision)? 
+## First Task: Show me where you would expect to file an appeal (on a disability claim decision)? 
 
 - Start on the home page of VA.gov.
 
@@ -66,7 +67,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What painpoints do they encounter?
 - What works well?
 
-## Third Task: Now I'm going to share a link to the prototype in the chat. Can you click on it? 
+## Second Task: Now I'm going to share a link to the prototype in the chat. Can you click on it? 
 
 (https://vsateams.invisionapp.com/share/S2U2NQZZ76A#/385489667_Intro-Page-2)
 
