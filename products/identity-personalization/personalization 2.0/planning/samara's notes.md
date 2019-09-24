@@ -9,7 +9,7 @@
 
 ## Combine Profile/Account planning
 
-We can dive right into this, so this is where we should start.
+This likely won't involve much pushback or conversations with other teammates, so we can probably dive into this first. 
 
 ### Planning
 - Review plan with DSVA team (9/26/19)
