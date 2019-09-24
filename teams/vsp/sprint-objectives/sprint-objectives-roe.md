@@ -32,21 +32,27 @@ _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that the
 ### Samples
 
 **Bet: Scalability**
+
 Support current VSA teams' use cases related to feature toggles while continuing discussions with other teams to help identify and prioritize work in support of additional use cases.
 
 **Bet: Scalability**
+
 Monitor Sentry alerts to find and reconfigure "bad" alerts to reduce noise and free up team brain space and time.
 
 **Bet: Support**
+
 Onboard _team ABC, DEF, and GHI_ so they are empowered to work in an agile, human-centered way.
 
 **Bet: Support**
+
 Support VFS teams with their analytics questions so they can move forward without delay.
 
 **Bet: Support**
+
 Find and capture VA.gov and Platform issues and triage them to the appropriate team for resolution.
 
 **Bet: Onboarding**
+
 Test "pre-onboading" with product manager and DSVA lead for VAOS to see if it makes general onboarding more tailored and effective.
 
 ## Cadence
