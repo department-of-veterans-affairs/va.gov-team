@@ -67,6 +67,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Third Task: Now I'm going to share a link to the prototype in the chat. Can you click on it? 
 
+(https://vsateams.invisionapp.com/share/S2U2NQZZ76A#/385489667_Intro-Page-2)
+
 - 1st screen: Claim Status Tool
     - Can you take a few moments to look at this screen and tell me about what you think you can do on this page?
     - How would you view the details of your most recent, open dependency claim?
