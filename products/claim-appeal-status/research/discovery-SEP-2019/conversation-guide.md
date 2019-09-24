@@ -69,7 +69,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - 1st screen: Claim Status Tool
     - Can you take a few moments to look at this screen and tell me about what you think you can do on this page?
-    - How would you view the details of your open claim?
+    - How would you view the details of your most recent, open dependency claim?
     - *Clicks View Status button.*
     
 - 2nd screen: Open Claim Details
@@ -80,16 +80,22 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - 3rd screen: Open Claim Details > File tab
     - What would you do here?
-    - What kinds of files do you think you can upload here? 
-    - Can you return to the Claim Status screen?
-
-- 4th screen: Closed Claim Status Tool
-    - Can you show me how you would find out more information about your closed claim?
-    - What does "Closed" mean to you?
-
-- 5th screen: Closed Claim Details
+    - Is there anything that is unclear on this screen?
+    - Let's say you had more files to submit for this claim. What would you do next?
+    - Go ahead and click on the 'view details' button.
+    
+- 4th screen: Open Claim Details > File Tab > Add File
     - Is this what you'd expect to see?
-    - Is there anything missing?
+    - Is it clear what actions you are able to take on this page?
+    - Click on the 'add file' button. For the purposes of this session, let's assume you've uploaded the document you see here and have chosen the correct file details (in this case, Military Personnel Record). What might you do next?
+    - Is it clear what you are confirming by clicking the checkbox?
+    - Click 'submit files for review'.
+    
+- 5th screen: Open Claim Details > File Tab - Status Detail (submission state)
+    - Is this what you'd expect to see opon submission?
+    - Is there any particularly helpful pieces of information here?
+
+
 
 ## Post-Task Interview 
 
