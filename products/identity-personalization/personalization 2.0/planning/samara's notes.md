@@ -3,8 +3,9 @@
 ## Potential project breakdown
 
 1. Combine Profile and Account
-2. MVP of internal notifications
-3. Homepage or dashboard 2.0 update (note: this may be in tandem with number 2 depending on how we decide to execute this project)
+2. Updated My VA/Homepage approach
+- MVP of internal notifications
+- Homepage or dashboard 2.0 update (note: this may be in tandem with number 2 depending on how we decide to execute this project)
 
 ## Combine Profile/Account planning
 
@@ -44,3 +45,11 @@ We can dive right into this, so this is where we should start.
 - UAT
 - Launch activities
 - Launch
+
+## Updated My VA/Homepage approach
+
+- Work with Lauren, Steve, Andy, and other team members to figure out exactly what content we need to account for on a homepage/dashboard.
+- Determine general approach 
+  — Are we keeping My VA? Are we scrapping it? 
+  - What updates, if any, need to happen to the logged in homepage? 
+  - Do any stakeholders need to be involved in logged in homepage updates? 
