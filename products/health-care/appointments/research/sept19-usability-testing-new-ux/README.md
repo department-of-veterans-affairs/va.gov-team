@@ -20,7 +20,7 @@ Research questions included:
   - Is "pending" a word that resonates? 
 - What  content / additional content is needed to facilitate decision support at key moments in the appointment scheduling process? 
 
-## Study 2 (Sept 25-30) 
+# Study 2 (Sept 25-30) 
 Study 2 will cover the direct scheduling flows, plus any changes to the request flows. 
 
 Research questions included:
