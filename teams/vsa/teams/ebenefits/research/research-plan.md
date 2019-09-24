@@ -30,7 +30,7 @@ Item to be tested: https://www.ebenefits.va.gov and www.va.gov
 Tool: Zoom
 ## Participants & Recruitment
 Participant criteria: 
-* Minimum 5 participants
+- 10 participants (to get a target of minimum 5 participants)
 * Various ages 
 * Various rated disabilities
 * Has dependents for eBenefits
@@ -41,21 +41,21 @@ Recruitment strategy:
 * We will use the Perigean contract to recruit participants
 
 ## When
-1. Timeline: September 26, 2019 – October 7, 2019
+1. Timeline: September 30, 2019 – October 7/8, 2019
 2. Preparedness: Since we are in the discovery phase, we will be asking about an existing site.
 3. Length of Sessions: 45 to 60 minutes
 
 ### Desired Availability
 Date | Time (EST)
 ---- | ----
-9/26/2019 | 1PM – 7PM
-9/30/2019 | 10AM – 7PM
-10/03/2019 | 1PM – 7PM
+~9/30/2019 | 10AM – 7PM~
+~10/03/2019 | 1PM – 7PM~
 10/04/2019 | 9AM – 7PM
+(DID YOU MEAN 10/7 and 10/8?)
 10/06/2019 | All Day
 10/07/2019 | All Day
 
-### Roles
+### Roles (NEED EMAILS) 
 * Moderator: Aricka Lewis
 * Research writing & task development: Aricka Lewis
 * Note takers: Jason Wolf, Emily Waggoner
