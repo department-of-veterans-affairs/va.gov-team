@@ -258,7 +258,7 @@ paths:
     get:
       tags:
         - 'Scheduling eligibility'
-      summary: 'Returns list of systems a user is registered to and the type of care available'
+      summary: 'Returns list of systems a user is registered to'
       description: >+
         <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
         Existing endpoints:<br />
@@ -315,6 +315,38 @@ paths:
                 type: array
                 items:
                   $ref: '#/components/schemas/Facility'
+        default:
+          description: Unexpected error
+  /facilities:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns detail info about the facilities requested'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of facilities by id
+            <ul>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/parent-sites</code></li>
+            </ul>
+          </li>
+        </ul>
+      parameters:
+        - name: facilityIds
+          in: query
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/System'
         default:
           description: Unexpected error
   /facilities/{facilityId}/clinics:
