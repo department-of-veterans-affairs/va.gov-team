@@ -20,15 +20,25 @@
    - Is the date and time selection tool intuitive? 
    - How much detail (which data fields) are useful to a Veteran w/r/t their appointments? 
    - Do Veterans want to see cancelled appointments in a VAOS list? Do they want those lists inline with other confirmed/pending appointments, or in a separate cancellation list? 
-   -  What content is needed to facilitate decision support at key moments in the appointment scheduling process?  
+   -  What content is needed to facilitate decision support at key moments in the appointment scheduling process? 
+   
+   - Are Veterans receptive to a choice-architecture approach of limiting self-schedule only to a clinic where a user last booked (within a set time frame for a type of care)?
+- How do Veterans make a choice about self-scheduling when faced with a complex list of clinics?
+- Is the date and time selection tool intuitive?
+- How much detail (which data fields) are useful to a Veteran w/r/t their appointments?
+- Do users find the messaging field helpful? 
+- Is the cancelling process intuitive? 
+- Do Veterans want to see cancelled appointments inline with other confirmed/pending appointments, or separate?
+- What content is needed to facilitate decision support at key moments in the appointment scheduling process?
 
 4. Hypothesis: What is your hypothesis for this research? 
    - Veterans will welcome the option of having the clinic where they previously had an appointment surfaced to them for easy self-scheduling. 
    - Veterans will not be able to parse a complex list of clinics and will either quit the application or select a clinic at random that corresponds to their schedule. 
    - The new calendar-UI and time selection tool facilitates self-scheduling. 
+   - Veterans need guidance on what to write in the message / reason for appointment field. 
    - Veterans will want to see cancelled appointments in a separate list for up to 90 days post appointment. 
    - For confirmed appointments, Veterans will want to see date and time of appointment, type of care, team, and location. 
-   - For pending appointments, Veterans will want to see type of care, location for care (CC, VA, etc.) status of request, next steps, and submitted preferences. 
+
 
 ## Method
 
