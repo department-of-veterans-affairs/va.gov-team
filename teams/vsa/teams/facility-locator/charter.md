@@ -1,5 +1,5 @@
 _WIP_
-# VSA: Global UX Charter
+# VSA: Facility Locator
 
 ## VSA North Star:
 
@@ -10,12 +10,12 @@ Global unauthenticated experience team for VA.gov.
 Provides Veterans, family members, caregivers, service members and other
 audiences access to vital information about VA facilities
 
-Product Portfolio:
+**Product Portfolio:**
 
--	Facility Locator 
+- Facility Locator 
 
 **Responsibilities:**
-[High level problem space and user goals for this team]
+Provide a single, consolidated place across VA where a veteran can easily find high-level information about facilities
 
 **Roadmap:**  
 (TBD) 
@@ -23,30 +23,30 @@ Product Portfolio:
 ________________________________________
 
 **Team Members**
-VA Digital Strategist(s): Andy Lewandowski
-Product Manager: Michelle Middaugh
-Design Lead:
-UX/Design: Aricka Lewis
-Eng Lead:
-Back End Engineer: Justin Ellis
-Front End Engineer: Gilbran Rodriguez
+- VA Digital Strategist: Andy Lewandowski
+- Product Manager: Michelle Middaugh
+- Design Lead:
+- UX/Design: Aricka Lewis
+- Eng Lead:
+- Back End Engineer: Justin Ellis
+- Front End Engineer: Gilbran Rodriguez
 
-Workflow + Cadence
+**Workflow + Cadence**
 
 Stand-up: people / product check-ins
-- Daily @ 11:30 AM-  11:45 AM EST 
+- Daily @ TBD
 - 15 min 
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 Sprint Planning: outline team and member focus, goals for sprint
-- 1st Wednesday of every sprint 
+- TBD
 - 1 hour 
 
 Retro: review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
-- 1st Wednesday of every sprint, 30 min
+- TBD, 30 min
 
 Grooming: assess and update workload for remainder of sprint
-- 2nd Thursday of every sprint, 1-hour
+- TBD, 1-hour
 
 Issue Etiquette
 - For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
