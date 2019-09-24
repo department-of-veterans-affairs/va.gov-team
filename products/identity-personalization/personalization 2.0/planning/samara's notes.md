@@ -54,12 +54,34 @@ We can dive right into this, so this is where we should start.
   - What updates, if any, need to happen to the logged in homepage? 
   - Do any stakeholders need to be involved in logged in homepage updates? 
 
-## Notifications
+### Notifications
 
-- Take inventory of what functionality we have that we could update users on.
-- **Do we need more research?**
+#### Research
+
+- **Do we need more research? What are our questions?**
+
+#### Design
+
+- Take inventory of what functionality we have that we could convert into notifications.
 - Determine IA and interaction design approach.
-- Technical discovery on suggested approach.
+- Determine navigation changes.
 - Work with copy.
 - Work with visual design as needed.
 
+#### User testing 
+
+- Plan and recruit for user testing.
+- Make updates based user testing results.
+
+#### Development
+
+- Technical discovery
+- Initial build
+- Updates based on user testing
+
+#### Pre-launch
+
+- QA
+- UAT
+- Launch activities
+- Launch
