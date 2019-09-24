@@ -29,7 +29,20 @@ Their are a handful of key goals for VSP Sprint Objectives:
 
 _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that they're probably not quite right_
 
-### Samples
+## Cadence
+- Have regular standing meetings to evaluate your backlog and groom epics
+- Start brainstorming potential sprint objectives the Monday of a Sprint End Week
+- Finish your draft objectives for DSVA review the Tuesday of a Sprint End Week
+- Review DSVA's feedback Tuesday afternoon and Wednesday morning
+- Sprint Plan on Wednesday per the objectives
+- Submit finalized objectives for DSVA awareness by Wednesday end of day
+
+## How to update Sprint Objectives for the Report
+- Add a status symbol in front of each objective for your team
+- Link each objective to an artifact (ideal, even if it's WIP) or to a GH issue (if "artifact" doesn't make sense)
+- For any objectives that you think might not be complete this sprint, in italics below it, describe why and what you've done about it (deprioritize and put in your backlog? continue next sprint? pivot to different approach? pass to another team?)
+
+## Samples
 
 **Bet: Scalability**
 
@@ -54,16 +67,3 @@ Find and capture VA.gov and Platform issues and triage them to the appropriate t
 **Bet: Onboarding**
 
 Test "pre-onboading" with product manager and DSVA lead for VAOS to see if it makes general onboarding more tailored and effective.
-
-## Cadence
-- Have regular standing meetings to evaluate your backlog and groom epics
-- Start brainstorming potential sprint objectives the Monday of a Sprint End Week
-- Finish your draft objectives for DSVA review the Tuesday of a Sprint End Week
-- Review DSVA's feedback Tuesday afternoon and Wednesday morning
-- Sprint Plan on Wednesday per the objectives
-- Submit finalized objectives for DSVA awareness by Wednesday end of day
-
-## How to update Sprint Objectives for the Report
-- Add a status symbol in front of each objective for your team
-- Link each objective to an artifact (ideal, even if it's WIP) or to a GH issue (if "artifact" doesn't make sense)
-- For any objectives that you think might not be complete this sprint, in italics below it, describe why and what you've done about it (deprioritize and put in your backlog? continue next sprint? pivot to different approach? pass to another team?)
