@@ -11,7 +11,31 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ----
 
-## **Sprint 4 (9/11 – 9/25)**  
+## **Sprint 5 (9/25 – 10/8)**  
+```diff 
+- 33 points across 13 issues
+```
+### 1. Prepare "View My Rated Disabilities" for launch
+
+- Review the launch checklist and make sure the feature meets all requirements
+  - Note that we will not be turning off any functionality in EBN or doing any comms aroud this feature.
+
+### 2. Start discovery on "View and Update Dependents"
+
+- Explore and understand every aspect of Dependents workflows on EBN
+- Design: create a research plan for learning about Dependents workflows
+- Design: create workflow diagrams/ journey maps for existing process
+- Eng: Technical discovery on previous Dependents work
+- Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates
+- Product: Create epics and first round of issues
+- Epic for View: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393
+- Epic for Update: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976
+
+### 3. Stretch/ Optional: Start documentation for the Stakeholder Enterprise Portal
+- Epic: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1980
+- Document all the features of SEP. Can be a joint product-design exercise or whatever makes the most sense in terms of capacity.
+
+## **Sprint 4 (9/11 – 9/24)**  
 ```diff 
 - 33 points across 13 issues
 ```
