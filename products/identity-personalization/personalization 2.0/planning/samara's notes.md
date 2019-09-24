@@ -56,6 +56,10 @@ We can dive right into this, so this is where we should start.
 
 ### Notifications
 
+#### Discussions
+
+- Talk to Clarice about how this overlaps with her work.
+
 #### Research
 
 - **Do we need more research? What are our questions?**
