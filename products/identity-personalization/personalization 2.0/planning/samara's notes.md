@@ -59,6 +59,11 @@ We can dive right into this, so this is where we should start.
 #### Research
 
 - **Do we need more research? What are our questions?**
+  - What makes someone sign in to check a claim, prescription, message, etc?
+  - Will people find in-app notifications useful, or do they just want email/text?
+  - What other in-app notifications might be helpful?
+  - What info do people want to see?
+    - Thoughts from Kevin: I wonder how we might develop personas to guide our platform level thinking. E.g. "the only-health info," the "tell me everything," the "I want just the basics" vs. "I'll read the detail."
 
 #### Design
 
