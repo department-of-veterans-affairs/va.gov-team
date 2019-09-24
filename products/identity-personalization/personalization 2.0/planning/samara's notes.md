@@ -8,6 +8,8 @@
 
 ## Combine Profile/Account planning
 
+We can dive right into this, so this is where we should start.
+
 ### Planning
 - Review plan with DSVA team (9/26/19)
 
@@ -19,6 +21,7 @@
 - Create closed card sort.
 - Circulate, evaluate card sort and make updates.
 - Review wayfinding in logged out states and on content pages — what content pages do we need? What additional wayfinding elements do we need to add?
+- Update main navigation.
 
 ### Design
 - Make design updates.
