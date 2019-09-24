@@ -20,8 +20,16 @@ Research questions included:
   - Is "pending" a word that resonates? 
 - What  content / additional content is needed to facilitate decision support at key moments in the appointment scheduling process? 
 
-## Study 2 (Sept 23-27) 
+## Study 2 (Sept 25-30) 
 Study 2 will cover the direct scheduling flows, plus any changes to the request flows. 
+
+Research questions included:
+-Are Veterans receptive to a choice-architecture approach of limiting self-schedule only to a clinic where a user last booked (within a set time frame for a type of care)?
+- How do Veterans make a choice about self-scheduling when faced with a complex list of clinics?
+- Is the date and time selection tool intuitive?
+- How much detail (which data fields) are useful to a Veteran w/r/t their appointments?
+= Do Veterans want to see cancelled appointments in a VAOS list? Do they want those lists inline with other confirmed/pending appointments, or in a separate cancellation list?
+- What content is needed to facilitate decision support at key moments in the appointment scheduling process?
 
 ## Future studies needed
 Future studies will need to cover the provider flow, express care, messaging, and accessibility + usability issues with the direct schedule flow. 
