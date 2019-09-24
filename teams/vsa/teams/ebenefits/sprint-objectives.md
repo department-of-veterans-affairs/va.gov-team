@@ -13,7 +13,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ## **Sprint 5 (9/25 – 10/8)**  
 ```diff 
-- 33 points across 13 issues
+- TBD: N points across M issues
 ```
 ### 1. Prepare "View My Rated Disabilities" for launch
 
