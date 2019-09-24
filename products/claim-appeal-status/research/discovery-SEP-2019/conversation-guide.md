@@ -51,7 +51,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## First Task: Share your screen with Zoom - 5 minutes
 
-- *Add instructions here.*
+- Please minimize or close any windows that you don't want to share with us and click the "Share" on Zoom.
 
 ## Second Task: Show me where you would expect to file an appeal (on a disability claim decision)? 
 
