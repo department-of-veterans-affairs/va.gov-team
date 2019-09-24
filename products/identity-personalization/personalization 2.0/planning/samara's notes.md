@@ -53,3 +53,13 @@ We can dive right into this, so this is where we should start.
   — Are we keeping My VA? Are we scrapping it? 
   - What updates, if any, need to happen to the logged in homepage? 
   - Do any stakeholders need to be involved in logged in homepage updates? 
+
+## Notifications
+
+- Take inventory of what functionality we have that we could update users on.
+- **Do we need more research?**
+- Determine IA and interaction design approach.
+- Technical discovery on suggested approach.
+- Work with copy.
+- Work with visual design as needed.
+
