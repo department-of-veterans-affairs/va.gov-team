@@ -25,17 +25,25 @@ Here is something to start with. The below content should get moved into an epic
 #### Some examples of other VA websites
 * https://www.ebenefits.va.gov/ebenefits/homepage
 * https://www.myhealth.va.gov/mhv-portal-web/home
-* https://mobile.va.gov/
 * https://www.research.va.gov/
-* https://www.oit.va.gov/
 * https://www.va.gov/web/
 * https://www.design.va.gov/
 * https://maketheconnection.net/
+* https://mobile.va.gov/app/act-coach (an example of a mobile application, there are 40+ similar apps)
+
+#### Some examples of sites that have attempted to add the va.gov branding without us
+
+* https://mobile.va.gov/
+* https://www.innovation.va.gov/
+* https://connectedcare.va.gov/innovation
+* https://www.oit.va.gov/
 
 ### Implementation notes
 We need to provide guidance on how to implement subdomain search functionality:
 * If a subdomain wants to provide a search box and functionality for their site, then they need to use the VA.gov's search.gov instance (the search engine that powers VA.gov search)
 * Subdomains should not be using their own search technology for site search
+* Subdomain search results pages should have header/footer consistent with the source of the search
+* Subdomain search results should show results for the subdomain first
 
 We need to create a new section on design.va.gov that includes the following:
 * Self-serve instructions on how to apply the secondary header and footer to a VA website
