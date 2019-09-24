@@ -20,18 +20,43 @@ Their are a few key goals of VSP Sprint Objectives:
 1. Check anticipated support needs, and when high volume is expected, cut back on other work accordingly
 
 ### How to write Sprint Objectives
-- Objectives should state an intended outcome and value proposition, not individual tasks.
-- They should clearly tie back to the various VSP "bets".
-- They should be small enough that they won't stay the same every sprint for the next 3 sprints.
-- Don't be _too_ ambitious, leave about 20% space for unexpected work or challenges.
-
-**Samples**
-
-### How to update Sprint Objectives for the Report
-- 
-
+- Orient your Objectives under a Bet sub-header
+- State an intended outcome and value proposition, not an individual task.
+- Format: _We will..._ `[Verb] _______ so that [intended  audience] can ________.`
+- They should usually be small enough that they won't stay the same every sprint for the next 3 sprints.
+- Don't be _too_ ambitious in the volume and scope for the sprint, leave about 20% space for unexpected work or challenges.
+- Move any good ideas that you want to keep track of but won't be focusing on this sprint to your ZenHub backlog to evaluate in the future 
 
 _Note: if youre objectives map 1:1 to GitHub issues, that's an indicator that they're probably not quite right_
+
+#### Samples
+
+**Bet: Scalability**
+Support current VSA teams' use cases related to feature toggles while continuing discussions with other teams to help identify and prioritize work in support of additional use cases.
+
+**Bet: Scalability**
+Monitor Sentry alerts to find and reconfigure "bad" alerts to reduce noise and free up team brain space and time.
+
+**Bet: Support**
+Onboard _team ABC, DEF, and GHI_ so they are empowered to work in an agile, human-centered way.
+
+**Bet: Support**
+Support VFS teams with their analytics questions, so they can move to build great things unblocked.
+
+**Bet: Support**
+Find VA.gov and Platform issues that arise, and triage to appropriate team for resolution
+
+**Bet: Onboarding**
+Iterate on onboarding decks per recent user research, and present to 
+
+**Bet: Lights On**
+Provide On Call support to resolve reported incidents
+
+
+### How to update Sprint Objectives for the Report
+- Add a status symbol in front of each objective for your team
+- Link each objective to an artifact (ideal, even if it's WIP) or to a GH issue (if "artifact" doesn't make sense)
+- For any objectives that you think might not be complete this sprint, in italics below it, describe why and what you're going to do about it (deprioritizing and put in your backlog? continue next sprint? pivot to different approach? pass to another team?)
 
 ### Other FAQs
 
