@@ -57,7 +57,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## Second Task: Show me where you would expect to file an appeal (on a disability claim decision)? 
 
 - Start on the home page of VA.gov.
-- Please log in.
 
 ### Things to watch for:
 
