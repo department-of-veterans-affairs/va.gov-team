@@ -79,6 +79,6 @@ A React component makes an asynchronous call with page-specific parameters to ap
 |----|----|
 |Supports decoupled approach|Big departure from current architecture and process|
 |Removes website/CMS interdependency if extended to all CMS data|Requires at least one more client request after page download
-|Allows generic content to be easily consumed by other applications||
+|Allows generic content to be easily consumed by other applications|Creates new threat vector for the CMS|
 |Doesn't require tracking of additional asset|
 |Leverages benefits of GraphQL||
