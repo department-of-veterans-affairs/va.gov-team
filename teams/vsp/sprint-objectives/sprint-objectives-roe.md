@@ -2,7 +2,7 @@
 
 Their are a handful of key goals for VSP Sprint Objectives:
 
-`1.` Via the act of setting them, serve as a gut check that the work you're prioritizing and the evolution of your features and services are in line with the strategic objectives of VSP overall.
+`1.` Via the act of setting them, serve as a gut check that the work your prioritization and the evolution of your features and services are in line with the strategic objectives of VSP overall.
 
 `2.` Give DSVA an idea of what you'll be taking on and why (i.e. the impact you hope to achieve with that work) so they can provide feedback based on their priorities and based on other VA-wide info they may be aware of.
 
