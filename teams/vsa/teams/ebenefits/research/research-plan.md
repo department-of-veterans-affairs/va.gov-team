@@ -48,8 +48,8 @@ Recruitment strategy:
 ### Desired Availability
 Date | Time (EST)
 ---- | ----
-~9/30/2019 | 10AM – 7PM~
-~10/03/2019 | 1PM – 7PM~
+~~9/30/2019 | 10AM – 7PM~~
+~~10/03/2019 | 1PM – 7PM~~
 10/04/2019 | 9AM – 7PM
 10/07/2019 | All Day
 10/08/2019 | After 1PM
