@@ -30,11 +30,11 @@ There are a handful of key goals for VSP Sprint Objectives:
 _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that they're probably not quite right_
 
 ## Cadence
-- Have regular standing meetings to evaluate your backlog and groom epics
+- Have regular standing meetings (weekly?) to evaluate your backlog and groom epics, so you're not doing a huge amount of grooming during Sprint Planning later.
 - Start brainstorming potential sprint objectives the Monday of a Sprint End Week
 - Finish your draft objectives for DSVA review the Tuesday of a Sprint End Week
 - Review DSVA's feedback Tuesday afternoon and Wednesday morning
-- Sprint Plan on Wednesday per the objectives
+- Sprint Plan on Wednesday using the objectives as your guide for what GitHub issues make sense to get into Current Sprint.
 - Submit finalized objectives for DSVA awareness by Wednesday end of day
 
 ## How to update Sprint Objectives for the Report
