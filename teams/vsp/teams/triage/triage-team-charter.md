@@ -11,10 +11,10 @@ _Lorem ipsum_
 _i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
 
 ### Team Mission Statement:
-_Lorem ipsum_
+Identify, resolve, and delegate issues across the platform and applications for Veterans and teams building products to serve Veterans while continuously improving telemetry, tools, and documentation.
 
 ### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+[List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Responsibilities:
 _High level problem space and user goals for this team_
@@ -28,8 +28,12 @@ _Link to agile roadmap_
 
 ### Team Members:
 - DSVA Product Lead: _person’s name_
-- Team Product Manager: _person’s name_
-- _Additional Team Role_: _person’s name_
+- Team Product Manager: Alex Pappas
+- Ops (Lead Eng): Bill Ryan
+- Backend Engineer: Keifer Furzland
+- Frontend Engineer: Christopher Valarida
+- Backend Engineer: Lindsey Hattamer
+- Call Center Lead: Kimberley Daniels
 
 ---
 
@@ -40,23 +44,22 @@ _Link to agile roadmap_
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ _time_
+- Monday/Thursday @12PM EST
+- Tuesday @11:45AM EST
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint @12:30PM EST
 - 1 hour
-- _any other notes you have_
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ _time_
-- 30 min
-- _any other notes you have_
+- 1st Wednesday of every sprint @1:30PM EST
+- 60 min
 
 #### Grooming
 Assess and update workload for remainder of sprint
