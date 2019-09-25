@@ -1,6 +1,6 @@
-# Sprint Objectives ROE
+# Sprint Objectives Rules of Engagement
 
-Their are a handful of key goals for VSP Sprint Objectives:
+There are a handful of key goals for VSP Sprint Objectives:
 
 `1.` Via the act of setting them, serve as a gut check that the work your prioritization and the evolution of your features and services are in line with the strategic objectives of VSP overall.
 
