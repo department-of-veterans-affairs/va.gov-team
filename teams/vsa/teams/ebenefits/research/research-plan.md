@@ -51,7 +51,8 @@ Date | Time (EST)
 ~9/30/2019 | 10AM – 7PM~
 ~10/03/2019 | 1PM – 7PM~
 10/04/2019 | 9AM – 7PM
-(DID YOU MEAN 10/7 and 10/8?)
+10/07/2019 | All Day
+10/08/2019 | After 1PM
 10/06/2019 | All Day
 10/07/2019 | All Day
 
