@@ -15,10 +15,10 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```diff 
 - TBD: N points across M issues
 ```
-### 1. Prepare "View My Rated Disabilities" for launch
-
+### 1. Continue to prepare "View My Rated Disabilities" for launch
+- Gather and frame out remaining data components
 - Review the launch checklist and make sure the feature meets all requirements
-  - Note that we will not be turning off any functionality in EBN or doing any comms aroud this feature.
+  - Note that we will not be turning off any functionality in EBN or doing any comms around this feature.
 
 ### 2. Start discovery on "View and Update Dependents"
 
@@ -28,8 +28,8 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Eng: Technical discovery on previous Dependents work
 - Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates
 - Product: Create epics and first round of issues
-- Epic for View: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393
-- Epic for Update: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976
+  - Epic for View: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393
+  - Epic for Update: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976
 
 ### 3. Stretch/ Optional: Start documentation for the Stakeholder Enterprise Portal
 - Epic: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1980
