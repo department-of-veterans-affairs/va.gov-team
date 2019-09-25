@@ -31,7 +31,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
 1. Review the frontend documentation for [Vets-Website](vets-website/README.md).
 
-1. Review the backend documentation for [Vets-API](vets-api/README.md).
+1. Review the backend documentation for [Vets-API](backend/README.md).
 
 <hr>
 
