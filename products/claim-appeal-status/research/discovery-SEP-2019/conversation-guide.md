@@ -74,6 +74,7 @@ Before we look at the VA website, let’s start with a few warm-up questions.
 - 1st screen: Claim Status Tool
     - Can you take a few moments to look at this screen and tell me about what you think you can do on this page?
     - How would you view the details of your most recent, open dependency claim?
+    - What would you expect to see after clicking this button?
     - *Clicks View Status button.*
     
 - 2nd screen: Open Claim Details
@@ -86,13 +87,14 @@ Before we look at the VA website, let’s start with a few warm-up questions.
     - What would you do here?
     - Is there anything that is unclear on this screen?
     - Let's say you had more files to submit for this claim. What would you do next?
+    - What would you expect to see after clicking this button?
     - Go ahead and click on the 'view details' button.
     
 - 4th screen: Open Claim Details > File Tab > Add File
-    - Is this what you'd expect to see?
+    - What works and doesn't work on this page?
     - Is it clear what actions you are able to take on this page?
     - Click on the 'add file' button. For the purposes of this session, let's assume you've uploaded the document you see here and have chosen the correct file details (in this case, Military Personnel Record). What might you do next?
-    - Is it clear what you are confirming by clicking the checkbox?
+    - What do you think checking the checkbox means?
     - Click 'submit files for review'.
     
 - 5th screen: Open Claim Details > File Tab - Status Detail (submission state)
