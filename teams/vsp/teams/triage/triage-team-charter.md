@@ -1,4 +1,4 @@
-# [Team Name] Charter
+# Triage Charter
 
 ---
 
