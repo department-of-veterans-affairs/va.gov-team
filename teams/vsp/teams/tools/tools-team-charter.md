@@ -1,4 +1,4 @@
-# [Team Name] Charter
+# Tools & Improvement Team Charter
 
 ---
 
@@ -8,13 +8,13 @@
 _Lorem ipsum_
 
 ### Product Suite (if applicable): 
-_i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
+VSP Platform Team
 
 ### Team Mission Statement:
 _Lorem ipsum_
 
 ### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+
 
 ### Responsibilities:
 _High level problem space and user goals for this team_
@@ -27,8 +27,7 @@ _Link to agile roadmap_
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_
-- Team Product Manager: _person’s name_
+- Team Product Manager: Brandon Rapp
 - _Additional Team Role_: _person’s name_
 
 ---
