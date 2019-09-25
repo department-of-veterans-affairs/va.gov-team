@@ -23,7 +23,7 @@ _The hypothesis of what we have researched_
   - [ ] Seek applicable feedback
 ### Content/IA  
 _Share as soon as you have content - this is usually after mockups are created_
-- [ ] Discovery and reference the VA.gov content style guide
+- [ ] Discovery and reference the [VA.gov content style guide](https://design.va.gov/content-style-guide/)
 - [ ] Reference the [Content/IA best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
 - [ ] Reference the [Content/IA Messaging Dictionary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
 - [ ] Engage with the Content/IA team as soon as feasible  
