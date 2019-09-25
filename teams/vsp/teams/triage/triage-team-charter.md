@@ -27,7 +27,7 @@ _Link to agile roadmap_
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_
+- DSVA Product Lead:Leah Bannon & Patrick Bateman
 - Team Product Manager: Alex Pappas
 - Ops (Lead Eng): Bill Ryan
 - Backend Engineer: Keifer Furzland
