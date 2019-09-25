@@ -31,11 +31,12 @@ _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that the
 
 ## Cadence
 - Have regular standing meetings (weekly?) to evaluate your backlog and groom epics, so you're not doing a huge amount of grooming during Sprint Planning later.
-- Start brainstorming potential sprint objectives the Monday of a Sprint End Week
-- Finish your draft objectives for DSVA review the Tuesday of a Sprint End Week
-- Review DSVA's feedback Tuesday afternoon and Wednesday morning
-- Sprint Plan on Wednesday using the objectives as your guide for what GitHub issues make sense to get into Current Sprint.
-- Submit finalized objectives for DSVA awareness by Wednesday end of day
+- Sprint End Week:
+  - Monday: start brainstorming potential sprint objectives
+  - Tuesday morning: Finish your draft objectives for DSVA review
+  - Tuesday afternoon / Wednesday morning: review DSVA's feedback
+  - Wednesday: do Sprint Planning, using the objectives as your guide for which GitHub issues should be in the Current Sprint.
+  - Wednesday EOD: Submit finalized objectives for DSVA awareness
 
 ## How to update Sprint Objectives for the Report
 - Add a status symbol in front of each objective for your team
