@@ -50,7 +50,7 @@ Support current VSA teams' use cases related to feature toggles while continuing
 
 **Bet: Scalability**
 
-Monitor Sentry alerts to find and reconfigure "bad" alerts to reduce noise and free up team brain space and time.
+Capture and reconfigure "bad" alerts Sentry alerts to reduce noise and free up team brain space and time.
 
 **Bet: Support**
 
@@ -62,8 +62,8 @@ Support VFS teams with their analytics questions so they can move forward withou
 
 **Bet: Support**
 
-Find and capture VA.gov and Platform issues and triage them to the appropriate team for resolution.
+Capture VA.gov and Platform issues and triage them to the appropriate team for resolution.
 
 **Bet: Onboarding**
 
-Test "pre-onboading" with product manager and DSVA lead for VAOS to see if it makes general onboarding more tailored and effective.
+Test "pre-onboading" with VAOS PM and DSVA lead to see if it makes general onboarding more tailored and effective.
