@@ -18,7 +18,7 @@ Identify, resolve, and delegate issues across the platform and applications for 
 
 
 ### Github Labels
-`[triage]`, `[triage-incident]`, `[backend]`, `[Content-ia-team]`...
+`[triage]`, `[triage-incident]`
 
 ### Points of Contact
 - Product Management:  Alex Pappas
