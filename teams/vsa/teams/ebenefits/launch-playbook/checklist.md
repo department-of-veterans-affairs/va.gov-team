@@ -5,6 +5,8 @@ The steps here are meant to provide a framework to build upon for each feature t
 
 ## Discovery
 - [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoverySprintHowTo.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
+- [ ] Schedule and attend an orientation of the new feature  
+  - [ ] List endpoints or questions about endpoints
 
 ## Design
 - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
@@ -14,7 +16,7 @@ The steps here are meant to provide a framework to build upon for each feature t
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md))
 ### UX
 _The hypothesis of what we have researched_
-- [ ] Discovery
+- [ ] Develop thumbnail map of feature
 - [ ] Develop wireframes
   - [ ] Seek applicable feedback
 - [ ] Develop mockups
@@ -48,7 +50,7 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely?
 ### Backend Tasks
 - [ ] Investigation of applicable services
-  - [ ] Does the feature use the `vets-api` service?
+  - [ ] Does the feature use the `vets-api` or `EVSS` service?
   - [ ] Review `vets-api` endpoints or does an `api` exist, need to be built?
   - [ ] Does EVSS need to be engaged? And how?
   - [ ] Collaborate with Frontend on Error Handling
