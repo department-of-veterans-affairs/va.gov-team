@@ -60,7 +60,7 @@ If there are other evaluations that we wish to perform at this step, we could gr
 
 ### Accessibility tests
 
-__The accessibility sub-step of our Integration step in our CI should be removed__. Currently, the accessibility step works by stepping throughout the generated website sitemap and executing an accessibility check via `axe-core` on each page. If one page fails, the whole build fails. Because HTML containing an accessibility issue can be entered into a CMS WYSIWYG, it has the same issues as the broken-link checker.
+__The accessibility sub-step of our Integration step in our CI should be removed and replaced by a warning banner from our CMS Preview Server__. Currently, the accessibility step works by stepping throughout the generated website sitemap and executing an accessibility check via `axe-core` on each page. If one page fails, the whole build fails. Because HTML containing an accessibility issue can be entered into a CMS WYSIWYG, it has the same issues as the broken-link checker.
 
 Currently, we already have accessibility tests executing in our application's E2E (end-to-end) tests via the `axe-core` module. This means that the React portion of the website should already largely meet accessibility standards, or at least in what can be automated. This means that only content pages need to be evaluated.
 
