@@ -66,7 +66,7 @@ Currently, we already have accessibility tests executing in our application's E2
 
 Instead of failing a build when an accessibility issue has been saved into the CMS, we should introduce "warnings" into the CMS Preview Server - the CMS Preview Server injects and executes `axe-core`, then when an issue(s) is found, an alert banner is rendered to the author with the results. We could also enable [best practices](https://www.deque.com/axe/axe-for-web/documentation/api-documentation/) to help encourage higher quality accessibility practices than we do currently. 
 
-This proposal has already been captured into this [issue 1794](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1794).
+This proposal has already been captured into [issue 1794](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1794).
 
 
 ## Risks
