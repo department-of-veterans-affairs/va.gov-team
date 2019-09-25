@@ -44,11 +44,6 @@ If a Call Center team member has not received an ETA for research or resolution 
 If there has been no status update by the end of the 48 business hours, the Call Center team member should escalate the issue to the PM of the team that has been assigned the issue.
 
 
-Examples:
-- va.gov is unresponsive
-- Platform errors causing extreme delays for users
-- Login to va.gov is unavailable
-  
 ## When to engage the Call Center Team
   
 **General Rule:** The Call Center team will make every effort to include ALL pertinent infromation on the issue.  However, if more details are needed
@@ -59,49 +54,22 @@ Examples:
   - Be as detailed as possible to prevent or lessen multiple interactions with the customer which will only cause frustration
 - A Call Center team member will reach out to the customer within 24 hours of the request
 
-Examples:
-- An internal load testing tool is broken
-- Mock data is not working or is out of date
-- Metrics are being reported incorrectly or not reported at all
-- You are the Global UX team and you learn in research sessions that a lot of Veterans are having trouble accessing their education benefits
+External Call Centers are the front line, therefore it is imperative that design, product, etc. teams inform us of any new releases or bug fixes that may cause an influx of inquiries.
+In order to prepare external Call Centers with the information that they require, please do the following:
+- Advise the Call Center team as soon as possible.  The more advance notice the better.
+   - This will allow us to give advance notice to external Call Centers
+   - Additional information or clarification may be requested from external Call Centers
+- Create a ZH ticket with ALL information and details that would be beneficial for a Call Center agent to have to effectively assist the customer.
+   - Issue Title: Brief description of bug fix or release, etc.
+   - Label: Call Center
+   - Assignees: All Call Center team members and individuals associated with the bug fix, new release, etc.
+   - Comments: Enter description in this area.
+- The Call Center team will review the ticket within 72 business hours
+   - Any questions will be entered into the comments section 
+   - @ all assignees listed in the ticket
+- If clarification cannot take place within the ZH ticket, a conference call will be scheduled with all assigees for resolution.   
 
-**How to Report the Issue:**
-
-Choose one of the following:
-
-* If you know which team the issue should be routed to, reach out to their point of contact to confirm and directly assign the issue to that team.
-
-* If you aren't sure which team owns the issue and would like to send it directly to them without the assistance of Triage, the [Product Owner Mapping Document](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) can help guide you in the right direction.
-
-* If you aren't sure which team owns the issue and want to send it to Triage team, choose one of the following:
-
-  * Reach out on [`#vsp-triage`](https://dsva.slack.com/messages/CK1FA11H8)
-
-  * Submit a GitHub issue using our [Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=)
-
-    * _NOTE_: Is there already a GitHub Issue? Add the following labels and post in `#vsp-triage` for visibility:
-      * `triage`
-      * `triage-incident`
- 
-_NOTE_: Assigning an issue to Triage using the [Triage Incident Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) does not guarantee that the work will be completed by the Triage team.  Triage will do their own investigation, prioritization and scoping to determine the best team responsible for resolution.
-
-## When to NOT engage the Triage Team
-
-* Bugs with products under your team's jurisdiction including endpoints and integrations with APIs
-* Feature Improvements that belong within your own team
 
 ## Still not sure?
 
-If you still have a doubt about where to report your incident for whatever reason, please reach out to the [`#vsp-triage`](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
-
-When in doubt, submit any issue through our [Triage Incident Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=) and the Triage team will ensure it gets through the process correctly!
-
-
-## What Triage will do with reported issues
-### Triage will resolve:
-Issues with products/systems that fall under VSP ownership. [See List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) for clarity on which products and systems fall under VSP ownership.
-
-### Triage will route to VFS teams to resolve:
-All issues with Veteran-facing Services (including endpoints and integrations with APIs) by assigning a ZenHub issue to the  POC of the VFS team whose product is experiencing issues - per the ownership indicated in the [List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874).  
-
-In the event there is no VFS team owner indicated in the [List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) Triage will assign the issue to Chris Johnston.
+If you still have a doubt about how or when to engage with the Call Center team for whatever reason, please reach out to the [`#vsp-vsp-contact-center-support`](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
