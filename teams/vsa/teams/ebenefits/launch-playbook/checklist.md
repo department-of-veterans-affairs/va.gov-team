@@ -34,6 +34,7 @@ _Share as soon as you have content - this is usually after mockups are created_
   - [ ] Confirm that wayfinding is appropriate
 - [ ] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 _These links/reviews may end up being consolidated, stay tuned._
+- [ ] Before launch, circle back with Content/IA about further impact and feedback
 ### Usability
 - [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
   - [ ] Is the entry point established?
