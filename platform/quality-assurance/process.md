@@ -40,7 +40,7 @@
     4. Iterate on the story
     5. Goto 1
 5. Report results at the end of development
-    - For a detailed explanation of expected deliverables see the [deliverables](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Practice%20Areas/QA/deliverables.md) documentation.  An overview is listed below --
+    - For a detailed explanation of expected deliverables see the [deliverables](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/deliverables.md) documentation.  An overview is listed below --
         1. Test plan
         2. Test cases
         3. Test case execution logs
