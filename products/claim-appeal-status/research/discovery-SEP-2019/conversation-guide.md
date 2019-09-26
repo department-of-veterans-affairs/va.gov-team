@@ -112,8 +112,6 @@ Before we look at the VA website, let’s start with a few warm-up questions.
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-For your participation, you'll receive a check from Perigean, the company that recruited for this study, within two weeks. If you don't receive it, please contact _____.
-
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
