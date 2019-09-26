@@ -23,30 +23,38 @@ Provide a single, consolidated place across VA where a veteran can easily find h
 ________________________________________
 
 **Team Members**
-- VA Digital Strategist: Andy Lewandowski
+- VA Digital Strategist(s): Andy Lewandowski, David Conlon
+- VA Data API: David M
 - Product Manager: Michelle Middaugh
-- Design Lead:
+- VA UI Design Lead: Ryan
 - UX/Design: Aricka Lewis
 - Eng Lead:
 - Back End Engineer: Justin Ellis
 - Front End Engineer: Gilbran Rodriguez
+- VA Researcher(s): 
 
 **Workflow + Cadence**
 
 Stand-up: people / product check-ins
-- Daily @ TBD
+- Daily @ 12 PM (EST)
 - 15 min 
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
+Grooming: assess and update workload for remainder of sprint
+- Every two weeks on Thursday @ 1 PM (EST), beginning 10/3/2019
+- 1-hour
+
 Sprint Planning: outline team and member focus, goals for sprint
-- TBD
+- Every two weeks on Tuesday @ 1 PM (EST), beginning 10/8/2019
 - 1 hour 
+
+Sprint Review/Demo
+- Every two weeks on Tuesday @ 3 PM (EST), beginning 10/8/2019
 
 Retro: review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
 - TBD, 30 min
 
-Grooming: assess and update workload for remainder of sprint
-- TBD, 1-hour
+
 
 Issue Etiquette
 - For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
