@@ -49,4 +49,4 @@
             - If applicable provide unresolved issues
 
 
-[qaprocess]: https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/peter-qa-practicearea/Practice%20Areas/QA/QAProcessFlow.png "QA Process Flow Diagram"
+[qaprocess]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/QA-Process-Flow.png "QA Process Flow Diagram"
