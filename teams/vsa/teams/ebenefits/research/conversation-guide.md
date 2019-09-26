@@ -45,8 +45,8 @@ Before we talk about the website, tell me about yourself and your experience usi
 
 ### Things to watch for:
 
-- Methods of navigating to eBenefits site
-- Interaction between VA.gov and eBenefits
+    - Methods of navigating to eBenefits site
+    - Interaction between VA.gov and eBenefits
 
 ## Priorities: - 10 minutes
 
@@ -57,9 +57,9 @@ Before we talk about the website, tell me about yourself and your experience usi
 
 ### Things to watch for:
 
-- Using other sites to get major tasks done
-- Functionality that exists on other sites that should exist within eBenefits
-- Most important tasks for user
+    - Using other sites to get major tasks done
+    - Functionality that exists on other sites that should exist within eBenefits
+    - Most important tasks for user
 
 ## Features: - 10 minutes
 
