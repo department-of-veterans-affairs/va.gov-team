@@ -31,10 +31,14 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 
 The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and
 available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from
-your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure
-access which we will be walking through in the steps below. Please remember **do not initiate** the issue until your
-PIV background check is underway. Opening the issue prematurely will slow down our ability to respond to you in a
-timely manner.
+your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure access.
+
+In addition to internal tools our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, log file review and to apply changes to the running instances and services. 
+
+We will be walking how to request access through the steps below. In order to be granted SOCKS access a SAC adjudication will need to be completed and returned as "favorable". Please remember to submitted all VA onboarding paperwork to your company/COR before a SAC adjudication can be conducted. **Opening the issue prematurely will slow down our ability to respond to you in a
+timely manner**. In order to be granted AWS access your PIV background (eQUIP adjudication) check needs to be underway. **If you do not need access to AWS please do not mark "Yes" in the Grant AWS Console Access section**.
+
+ 
 
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#create-ssh-public-key).
 
