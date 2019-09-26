@@ -74,10 +74,10 @@ Before we talk about the website, tell me about yourself and your experience usi
 
 ### Things to watch for:
 
-- Pain points within main features
-- Shortcuts/workarounds
-- Easy/simple features
-- Difficult or frustrating mandatory features
+    - Pain points within main features
+    - Shortcuts/workarounds
+    - Easy/simple features
+    - Difficult or frustrating mandatory features
 
 ## Post-Interview - 5 minutes
 
