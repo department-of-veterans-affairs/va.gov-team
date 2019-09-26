@@ -1,8 +1,8 @@
-Last updated 8-30-19
+*Last updated 2019-09-26*
 
 # Automated Deploys
 
-There are automated deploys of `vets-api` and `vets-website` Monday through Friday. The release is created from `master` at 2 pm Eastern and deployed at 3 pm Eastern. Code merged to `master` after 2 pm Eastern will not be deployed until the next business day’s release.
+There are automated deploys of `vets-api` and `vets-website` Monday through Friday. The release is created from `master` at 2 pm Eastern and deployed at 3 pm Eastern. Code merged to `master` after 2 pm Eastern will not be added to a release and deployed until the next business day.
 
 ## Exceptions to automated deploys
 
@@ -21,7 +21,7 @@ Automated deploys will not occur on the following days, due to holidays:
 * 11/27 - 11/29 - **Thanksgiving**
 * 12/23 - 1/3/2020 - **Winter holiday freeze** (Note: *two weeks*)
 
-# Requesting Out-of-Band Deploys
+# Requesting out-of-band deploys
 
 If there is a critical issue that needs to be resolved outside the automated deployment schedule (i.e. a bug affecting a large group of users that must be fixed right away), permission must be granted for a manual deploy.
 
@@ -33,7 +33,7 @@ Extra releases to “just get something out sooner” will not be approved.
 1. The release tag is captured and then used as input for the matching deploy job.
 1. There are "special" jobs for `vets-website` and `vets-api` which will run both the release and deploy of `master` in one operation.
 
-# Rails Database Migrations
+# Rails database migrations
 
 If a Rails database migration is needed for your code to work successfully, that is handled through a separate process:
 
