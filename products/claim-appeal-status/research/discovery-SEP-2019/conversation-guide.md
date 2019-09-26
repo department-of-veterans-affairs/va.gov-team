@@ -55,7 +55,7 @@ Before we look at the VA website, let’s start with a few warm-up questions.
 - Navigate to va.gov in your computer's browser. 
 - Click the "Share" on Zoom.
 
-## First Task: Show me where you would expect to file an appeal (on a disability claim decision)? 
+## First Task: Show me where you would expect to file an appeal for a denied claim. 
 
 - Start on the home page of VA.gov.
 
