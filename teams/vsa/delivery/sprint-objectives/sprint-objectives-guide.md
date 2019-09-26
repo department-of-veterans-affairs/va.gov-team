@@ -32,10 +32,10 @@ _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that the
 
 - In days leading up to the end of the Sprint:
   - Friday: start brainstorming potential sprint objectives
-  - Monday afternoon: Finish your draft objectives for internal and DSVA review
+  - Monday: Draft your objectives for internal and DSVA review
   - Tuesday: review DSVA's feedback and share with your product team (if not already shared)
   - Wednesday: do Sprint Planning, using the objectives as your guide for which GitHub issues should be in the Current Sprint.
-  - Wednesday (post-Sprint Planning): Submit finalized objectives for DSVA awareness
+  - Wednesday (post-Sprint Planning): Submit finalized objectives for DSVA and team awareness
 
 ## How to update Sprint Objectives for the Report
 - Add a status symbol in front of each objective for your team
