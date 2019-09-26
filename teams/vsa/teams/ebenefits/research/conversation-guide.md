@@ -14,11 +14,6 @@
 
 *When the participant is ready, begin the session with the following intro*
 
-### Project-specific setup
-
-- [ ] Step 1
-- [ ] Step 2
-
 ## Intro - 5 minutes
 
 Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about VA.gov and eBenefits. 
@@ -40,44 +35,55 @@ Before we start, a few things I want to mention:
 Before we talk about the website, tell me about yourself and your experience using VA.gov and/or eBenefits.
 
 
-## Topic: - 10 minutes
+## Navigation: - 10 minutes
 
-- Question
-- Question
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Topic: - 10 minutes
-
-- Question
-- Question
+- Are you familiar with the eBenefits website?
+- If yes, tell me abut your experience using eBenefits.
+- If no, tell me about your experience with managing your benefits on VA.gov
+- Can you recall a time you were directed to eBenefits when using the VA.gov website?
+- How do you normally get to the eBenefits website? (google, type it in, bookmark, etc)
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Methods of navigating to eBenefits site
+- Interaction between VA.gov and eBenefits
 
-## Topic: - 10 minutes
+## Priorities: - 10 minutes
 
-- Question
-- Question
+- What are some of the main things you do on the eBenefits website?
+- What are the main differences that you've noticed between eBenefits and VA.gov?
+- Do you think that you are able to achieve what you need to do on eBenefits?
+- Do you use any other websites or tools to help you manage your benefits?
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Using other sites to get major tasks done
+- Functionality that exists on other sites that should exist within eBenefits
+- Most important tasks for user
+
+## Features: - 10 minutes
+
+- Are you familiar with Rated Disabilities?
+- If yes, have you used it? What for?
+- Do you have dependents under your benefits?
+- If yes, how do you manage their information online?
+- Do you have dependents or caregivers that log into eBenefits on your behalf?
+- Do they log in for their own benefits?
+- Have you ever ordered medical equipment on eBenefits?
+- Explain that experience and how you felt. How long did it take?
+
+### Things to watch for:
+
+- Pain points within main features
+- Shortcuts/workarounds
+- Easy/simple features
+- Difficult or frustrating mandatory features
 
 ## Post-Interview - 5 minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- What is your least favorite part about using eBenefits?
+- What is your favorite part about using eBenefits?
+- Is there anything I should know but didn't ask about? 
 
 ## Thank-You and Closing - 5 minutes
 
