@@ -79,6 +79,7 @@ Before we look at the VA website, let’s start with a few warm-up questions.
     
 - 2nd screen: Open Claim Details
     - Take a few moments to look at this screen.
+    - How does this compare to what you expected to see?
     - Is there anything that you think you need to do regarding your claim?
     - What do you think you'll see on the Files tab?
     - Go ahead and click on it.
@@ -98,7 +99,7 @@ Before we look at the VA website, let’s start with a few warm-up questions.
     - Click 'submit files for review'.
     
 - 5th screen: Open Claim Details > File Tab - Status Detail (submission state)
-    - Is this what you'd expect to see opon submission?
+    - Is this what you'd expect to see upon submission?
     - Is there any particularly helpful pieces of information here?
 
 
