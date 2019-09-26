@@ -9,16 +9,15 @@ VA.gov technical issues are routed to the Call Center IRIS inbox from the Contac
     * If it should be reassigned to the Call Center that routed it to us
     * If it can be responded to from the response template that has been created
 * The Call Center team will only report "trending" issues to the appropriate teams 
-    * The Call Center defines a trend as five or more of the same issue.
+    * The Call Center defines a trend as five or more of the same issue. *(I want to discuss this. If possible, I think we should be tracking all issues. I won't list out the reasons here but basically, what is the timeframe for five issues? A day? A week? I think we want to track all issues we can for the time being so we can get a sense of how many issues are occurring in the small slice of data we have access to)* 
     
     
 ## SalesForce Reporting
 
 VA.gov issues are captured by WHH (White House Hotline) agents in SalesForce.  The goal is to either assign, reassign, or respond within 24 business hours.
-* Call Center team will review each issue to determine:
+* Call Center team will review each issue tagged as VA.gov to determine:
   * If it needs to be escalated to the appropriate team
   * If it should be reassigned back to the WHH
-  * If it can be responded to from the response temlate that has been created
 * The Call Center team will only report "trending" issues to the appropriate teams
     * The Call Center defines a trend as five or more of the same issue.
 
@@ -50,7 +49,7 @@ If there has been no status update by the end of the 48 business hours, the Call
 - Find the appropriate ZH ticket relating to the issue
 - @ all Call Center team members to be notified 
 - Enter in all details or questions concerning the issue
-  - Not all customers are fluid in technical terms, please attempt to use layman terminology for best responses
+  - Not all customers are fluid in technical terms, please attempt to use layman terminology for best res
   - Be as detailed as possible to prevent or lessen multiple interactions with the customer which will only cause frustration
 - A Call Center team member will reach out to the customer within 24 hours of the request
 
