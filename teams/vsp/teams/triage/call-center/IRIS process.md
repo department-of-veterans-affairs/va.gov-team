@@ -54,7 +54,7 @@ Once an issue has been found and opened, click on the “messages” tab to find
 
 
 
-##Tracking IRIS Issues
+## Tracking IRIS Issues
 
 - The Call Center team will provide the Triage team with a spreadsheet of new issues each day by placing it into ZH that will be reviewed, answered, and if necessary, triaged.  As each issue is responded to, the triage team member will update the spreadsheet in the following ways:
   - Status: The status column will be prepopulated with IRIS terms. If an issue receives a written response from the triage team member, that issue is considered closed and the status will be changed to “solved.” If the issue requires additional triage work, the status of the issue will be set to “escalated,” and the triage team member will send out the escalation template response to the user.  
