@@ -53,8 +53,6 @@ Date | Time (EST)
 10/04/2019 | 9AM – 7PM
 10/07/2019 | All Day
 10/08/2019 | After 1PM
-10/06/2019 | All Day
-10/07/2019 | All Day
 
 ### Roles (NEED EMAILS) 
 * Moderator: Aricka Lewis
