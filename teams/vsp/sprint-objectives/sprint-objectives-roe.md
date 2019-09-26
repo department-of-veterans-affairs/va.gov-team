@@ -45,6 +45,8 @@ _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that the
 
 ## Samples
 
+[Full bet descriptions](https://docs.google.com/presentation/d/1-8LlD8jljlv-C9IIQO1fHDC4ok0NzpJF3nLfwnx5610/edit#slide=id.g5bcedc037d_2_89)
+
 **Bet: Scalability**
 
 Support current VSA teams' use cases related to feature toggles while continuing discussions with other teams to help identify and prioritize work in support of additional use cases.
