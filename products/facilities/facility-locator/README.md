@@ -38,6 +38,7 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
   - Here is a health facility detail page design: <https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/>
 - Surface basic Veteran-benefit eligibility information for each facility type (e.g., health care facility, community care provider, etc.)
 - Use the VHA health service taxonomy for health facilities
+- Incorporate Mission Act-required facility drive time functionality
 - Make it faster
 - Fix bugs
 
@@ -59,6 +60,7 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
 - How to integrate services and facilities into the UX (i.e., search by condition or service needed vs. facility type)
 - How/if we should integrate content editing/publishing of some facility detail page content using the Drupal CMS
 - Creating facility detail page URLs and content that are SEO (i.e., /wilmington-vet-center vs. /vba456)
+- How to include drive-time functionality into UX
 
 ## Engineering/techinical implementation notes
 - Make the product work faster for users
