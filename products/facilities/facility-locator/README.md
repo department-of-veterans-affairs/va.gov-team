@@ -65,6 +65,7 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
   - Here is a health facility detail page design: <https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/>
 - Surface basic Veteran-benefit eligibility information for each facility type (e.g., health care facility, community care provider, etc.)
 - Use the VHA health service taxonomy for health facilities
+- Create/update new VBA service taxonomy and NCA service taxonomy, with new structured content designed, and powered by Drupal
 - Make it faster
 - Fix bugs
 
