@@ -30,6 +30,9 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 All about the 2019-2020 roadmap to make the next version of the product even better for users.
 
 ## Product goals
+- Reach parity with all legacy VA facility locator tools, so they can be depracated
+  - Main legacy facility locator: https://www.va.gov/directory/guide/home.asp
+  - Will need to  meet users' needs, but also convince the business to turn off old tools
 - Integrate urgent care facility and urgency care pharmacy facilities into the product
   - Here is VA's current product: <https://vaurgentcarelocator.triwest.com/>
 - Update the product's information architecture to organize facilities based on users' mental models (e.g., mental health care vs. Vet Center)
