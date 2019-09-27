@@ -44,7 +44,7 @@ All of these folks help drive the vision and implementation of VA Community Care
 All about the 2019-2020 roadmap to make the next version of the product even better for users.
 
 ## Product goals
-- DSwitch primary data source from Vets API to Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
+- Switch primary data source from Vets API to Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
 - Reach parity with all legacy VA facility locator tools, so they can be depracated
   - Main legacy facility locator: https://www.va.gov/directory/guide/home.asp
   - Will need to  meet users' needs, but also convince the business to turn off old tools
