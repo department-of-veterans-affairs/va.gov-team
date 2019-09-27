@@ -10,7 +10,8 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 - It is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 - It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
-- It is powered by the VA Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
+- It is powered by a non-public facing vets-api
+  - It need to move to the VA Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
 - It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/>
 - It serves many purposes, from finding basic facility address and phone information to preparing for a visit to determining eligiblity for community care
 
@@ -20,9 +21,27 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 ## Other useful POCs
 
+**Product and system stakeholders**
+
 - VA.gov Lead: Chris Johnston - <Christopher.Johnston2@va.gov>
 - Facility API Product Owner: Dave Mazik - <David.Mazik@va.gov>
 - VSSC Analyst/Engineer: Chad Holmes - <Chad.Holmes@va.gov>
+- Michael Villeneuve
+  - He runs GEOBISL, and wrote custom queries that pass data from CDW to vets-api
+
+**VHA business stakeholders**
+
+All drive vision and implementation of VA Community Care benefits.
+
+- Dr. Kamron Matthews
+  - Works directly with community health care networks and regions for Veterans to recieve community care benefits
+- Dr. Jen McDonald
+  - Was involved with Mission Act implementation
+- Dr. Leo Greenstone
+  - Business sponsor to have AbeVets team build their community care provider lookup on Facility Locator
+- Dr. Mark Upton
+  - Has an interest in community care-urgent care facilities
+
 
 -----
 # Facility Locator 2.0
@@ -33,15 +52,15 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
 - Reach parity with all legacy VA facility locator tools, so they can be depracated
   - Main legacy facility locator: https://www.va.gov/directory/guide/home.asp
   - Will need to  meet users' needs, but also convince the business to turn off old tools
-- Integrate urgent care facility and urgency care pharmacy facilities into the product
+- Integrate urgent care facility and urgent care pharmacy facilities into the product
   - Here is VA's current product: <https://vaurgentcarelocator.triwest.com/>
+- Incorporate Mission Act-required facility drive time functionality
 - Update the product's information architecture to organize facilities based on users' mental models (e.g., mental health care vs. Vet Center)
 - Update the product's UI and interaction design so users can get to facility results in just a few clicks/taps
 - Update facility detail page to match new VAMC facility page design
   - Here is a health facility detail page design: <https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/>
 - Surface basic Veteran-benefit eligibility information for each facility type (e.g., health care facility, community care provider, etc.)
 - Use the VHA health service taxonomy for health facilities
-- Incorporate Mission Act-required facility drive time functionality
 - Make it faster
 - Fix bugs
 
