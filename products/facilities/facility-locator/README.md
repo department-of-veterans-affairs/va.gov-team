@@ -78,7 +78,9 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
   - Specifically, how users think about in-network emergency care, urgency care, and urgent care pharmacy facilities
 - How to integrate services and facilities into the UX (i.e., search by condition or service needed vs. facility type)
 - How/if we should integrate content editing/publishing of some facility detail page content using the Drupal CMS
+  - Images! Should we use Drupal to manage facility images for each facility detail page?
 - Creating facility detail page URLs and content that are SEO (i.e., /wilmington-vet-center vs. /vba456)
 - How to include drive-time functionality into UX
 - How to make the product work faster for users
 - How to better architect how we call data from the community care database
+- All the data sources! How can be better streamline our data sources, and structured product content on the UI, so users get a consistent product experience
