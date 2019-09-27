@@ -8,7 +8,7 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 ## What to know abut the product
 
-- It is VA's single source of truth for customers to find location and details about all VA facilities, across VHA, VBA, and NCA
+- It is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 - It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
 - It is powered by the VA Facility API
 - It serves many purposes, from finding basic facility address and phone information to preparing for a visit to determining eligiblity for community care
