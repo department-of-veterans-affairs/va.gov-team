@@ -1,7 +1,7 @@
 # Process
 
 ![alt text][qaprocess]
-* The LucidChart link for this process is [here](https://www.lucidchart.com/invitations/accept/64972f0e-ec18-4567-bb62-a9b02390e0c4).  Anyone can edit, export as an image, and upload a new version here.
+Note: The LucidChart link for this process is [here](https://www.lucidchart.com/invitations/accept/64972f0e-ec18-4567-bb62-a9b02390e0c4).  Anyone can edit, export as an image, and upload a new version here.
 
 1. Discover how to test the changes being tackled in your sprint.
     - What kind of testing is relevant given the changes?
