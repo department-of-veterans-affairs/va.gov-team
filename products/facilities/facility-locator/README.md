@@ -43,7 +43,7 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
 - Fix bugs
 
 ## Design problems
-- Users don't have a way to get to urgency care facilities
+- Users don't have a way to get to urgent care facilities
   - See the following research study documentation:
     1. Main research repo: <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md>
     2. Research readout: <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/DSVA-UrgentCareUsabilityStudy-KevinMHoffman-V001.pdf>
