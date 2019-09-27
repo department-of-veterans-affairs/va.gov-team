@@ -10,13 +10,13 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 - It is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 - It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
-- It is powered by the VA Facility API
+- It is powered by the VA Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
+- It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/>
 - It serves many purposes, from finding basic facility address and phone information to preparing for a visit to determining eligiblity for community care
 
-## Documentation about the product
+## Other notes
 
 - Facility Locator 1.0 work can be found in this old repo: <https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Facilities_Locator>
-- Facility API information: <https://developer.va.gov/explore/facilities/docs/facilities>
 
 ## Other useful POCs
 
@@ -38,6 +38,7 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
   - Here is a health facility detail page design: <https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/>
 - Surface basic Veteran-benefit eligibility information for each facility type (e.g., health care facility, community care provider, etc.)
 - Use the VHA health service taxonomy for health facilities
+- Make it faster
 - Fix bugs
 
 ## Design problems
@@ -46,12 +47,19 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
     1. Main research repo: <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md>
     2. Research readout: <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/DSVA-UrgentCareUsabilityStudy-KevinMHoffman-V001.pdf>
     3. User flows Mural board: <https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1560946920965/4bb321f266f232e3e1d91559b168a0f3c11fe84f>
+- Search UI is inconsistent (i.e., free text search box, dropdowns, typeahead)
+- Community care "facilities" are actually providers, so users are searching for persons, not places
+- Facility API data often do not load or show up on facility detail pages
+- Web browser's location/geo-location functionality doesn't always work (or work well) on facility search page
 
 ## What to research
 - Pain points and bright spots with the current product (i.e., evaluative usability testing)
-- How users 
-- How/if we should integrate content editing of facility details pages using the Drupal CMS (more here: 
+- Users' mental models for VA facilities and services, including community care
+  - Specifically, how users think about in-network emergency care, urgency care, and urgent care pharmacy facilities
+- How to integrate services and facilities into the UX (i.e., search by condition or service needed vs. facility type)
+- How/if we should integrate content editing/publishing of some facility detail page content using the Drupal CMS
+- Creating facility detail page URLs and content that are SEO (i.e., /wilmington-vet-center vs. /vba456)
 
-## Engineering goals
+## Engineering/techinical implementation notes
 - Make the product work faster for users
 - Rearchitect how we call data from the community care database
