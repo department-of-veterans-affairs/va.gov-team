@@ -95,6 +95,7 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 ## Analytics
 - [ ] Confirm that the new feature/product is stable and visible in staging.va.gov  
 - [ ] Engage with the Analytics Team about what is to be launched  
+- [ ] Review [KPI/metrics spreadsheet](https://docs.google.com/spreadsheets/d/1Zy_m5s6zrhmgKaUacYo2MLRmDjtJNhVKSeyeSeAtVec/edit#gid=1554481611)
 
 ## Support
 - [ ] Does the Call Center have documentation?
