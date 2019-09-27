@@ -10,41 +10,33 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 - It is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 - It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
-- It is powered by a non-public facing vets-api
-  - It need to move to the VA Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
+- It is powered by the non-public-facing Vets API
 - It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/>
-- It serves many purposes, from finding basic facility address and phone information to preparing for a visit to determining eligiblity for community care
+- It serves many purposes, from finding basic facility address and phone information to preparing for a visit to understanding eligiblity for community care
 
 ## Other notes
 
 - Facility Locator 1.0 work can be found in this old repo: <https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Facilities_Locator>
 
-## Other useful POCs
+## Useful POCs
 
 **Product and system stakeholders**
 
 - VA.gov Lead: Chris Johnston - <Christopher.Johnston2@va.gov>
 - Facility API Product Owner: Dave Mazik - <David.Mazik@va.gov>
 - VSSC Analyst/Engineer: Chad Holmes - <Chad.Holmes@va.gov>
-- Michael Villeneuve
-  - He runs GEOBISL, and wrote custom queries that pass data from CDW to vets-api
+- Michael Villeneuve: He runs GEOBISL, and wrote custom queries that pass data from CDW to vets-api.
 
 **VHA business stakeholders**
 
-All drive vision and implementation of VA Community Care benefits.
+All of these folks help drive the vision and implementation of VA Community Care benefits.
 
-- Dr. Kamron Matthews
-  - Works directly with community health care networks and regions for Veterans to recieve community care benefits
-  - Zach Fain
-   - Does a lot of implemntation work for networks
-  - Aszur Rollins
-   - Product Owner for community care provider locator
-- Dr. Jen McDonald
-  - Was involved with Mission Act implementation
-- Dr. Leo Greenstone
-  - Business sponsor to have AbeVets team build their community care provider lookup on Facility Locator
-- Dr. Mark Upton
-  - Has an interest in community care-urgent care facilities
+- Dr. Kamron Matthews: Works directly with community health care networks and regions for Veterans to recieve community care benefits.
+  - Zach Fain: Does a lot of implemntation work for networks
+  - Aszur Rollins: Product Owner for community care provider locator data (which is in the Facility Locator)
+- Dr. Jen McDonald: Was involved with Mission Act implementation
+- Dr. Leo Greenstone: Business sponsor to have AbleVets team build their community care provider lookup on Facility Locator
+- Dr. Mark Upton: Has an interest in community care-urgent care facilities
 
 -----
 # Facility Locator 2.0
@@ -52,7 +44,7 @@ All drive vision and implementation of VA Community Care benefits.
 All about the 2019-2020 roadmap to make the next version of the product even better for users.
 
 ## Product goals
-- Need to switch from vets-api to Facility API
+- Data source needs to switch from vets-api to Facility API: <https://developer.va.gov/explore/facilities/docs/facilities>
 - Reach parity with all legacy VA facility locator tools, so they can be depracated
   - Main legacy facility locator: https://www.va.gov/directory/guide/home.asp
   - Will need to  meet users' needs, but also convince the business to turn off old tools
@@ -88,7 +80,5 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
 - How/if we should integrate content editing/publishing of some facility detail page content using the Drupal CMS
 - Creating facility detail page URLs and content that are SEO (i.e., /wilmington-vet-center vs. /vba456)
 - How to include drive-time functionality into UX
-
-## Engineering/techinical implementation notes
-- Make the product work faster for users
-- Rearchitect how we call data from the community care database
+- How to make the product work faster for users
+- How to better architect how we call data from the community care database
