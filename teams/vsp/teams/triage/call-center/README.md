@@ -9,6 +9,7 @@ July 2019 White House Training Reference Material
 - WHH Escalation Process
 - Triage Escalation Process
 - Analytics and Insights Escalation Process
+- Resolution Flow Diagram
 
 Call Center POC list
 Recommendation
