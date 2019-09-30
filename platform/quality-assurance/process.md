@@ -14,7 +14,10 @@ Note: The LucidChart link for this process is [here](https://www.lucidchart.com/
 2. Create a test plan that ensures coverage of the targeted changes as well as any possible regressions caused by your team's changes.
     - [Sample Test Plan](https://docs.google.com/document/d/10dYOWyHSTGB_gKiPZSdcdq6fwjrlRhBsK3yUIyS3Gc0/edit?usp=sharing) for reference
 3. Create test cases as you build.
-    - You may use any test case tracking tool / method that works for your team.  Please keep in mind that you will be expected to export test cases and test case execution logs.
+    - [Sample Test Case Template](https://drive.google.com/file/d/1yQpyUnt9yoNt_dRCRWW2DIMfRYglCRwT/view?usp=sharing)
+    - You may use the sample test case template linked above to create manual test cases.
+    - We recommend that you create and execute manual test cases for core user journeys in your product.
+    - Optionally, you may use any test case tracking tool / method that works for your team.  Please keep in mind that you will be expected to export test cases and test case execution logs.
     - A single user story may require several test cases in order to provide full coverage.
         - Example 1:
             - Story: As a VA.gov user, I need to be able to check for existing appointments at a VA facility.
