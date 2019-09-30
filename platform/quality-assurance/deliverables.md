@@ -14,7 +14,7 @@ A list of deliverables and explanation of their contents is listed below.
     - Example: [Google Sheet](http://example)
 4. Requirements Traceability Matrix (RTM)
     - This artifact usually takes the form of a Word / Google Doc. The RTM artifact is a mapping from requirement / user story to test case that demonstrates how the functional changes in your product were tested for this release.
-    - Example: [Google Doc](https://drive.google.com/file/d/1fAWBuscDAGLLC18C5lbekjvjGElAaAm4/view?usp=sharing)
+    - Example: [RTM Template](https://drive.google.com/file/d/1fAWBuscDAGLLC18C5lbekjvjGElAaAm4/view?usp=sharing)
 5. Issues
     - Please provide a list of all resolved and unresolved issues encountered in the sprint.
     - Example: [Issue Collection](http://example)
