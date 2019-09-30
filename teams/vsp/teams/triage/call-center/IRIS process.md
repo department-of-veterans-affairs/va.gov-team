@@ -1,6 +1,8 @@
 IRIS Process Documentation
 Currently, the only way to get reliable access to data on VA.gov issues is through the VA.gov IRIS group and the MS Dynamics sign in form. This is a very manual and slow process and has been put in place as a stop gap measure so the VSP team can gather data on the types of issues our users are seeing on VA.gov and provide a path for users to get answers to their technical issues. This is not a process that should be included in any long-term strategy for VA.gov call center work but will continue until we are able to have a call center trained to answer VA.gov technical questions. 
 
+The Call Center that uses MS Dynamics is HRC, which we currently do not track issue with.  Unfortunately we are not privileged to that information at this time.  WHH is the main Call Center in which we are to partner with, however, their CRM is SalesForce and have had no updates since February 2019.  The CRM that WHH will use moving forward is still up for debate and we should be notified once that decision is made.
+
 ## Reviewing IRIS Issues
 
 First, make sure you are in the “My Groups” Inbox
