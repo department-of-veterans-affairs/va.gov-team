@@ -11,6 +11,9 @@ Triage team members have the [manager role](https://docs.sentry.io/accounts/memb
 *  **Issue ownership rules** - assign issues to individuals or Sentry teams based upon the code path or url. Updates will be necessary as new features and apps are added. [example](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/ownership/)
 
 * **Sentry Teams** [example](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/teams/) 
+
+* **Response Process** - It was decided to move away from the on call rotation schedule in relation to Sentry alert response processes in the #vfs-sentry-alerts Slack channel. The new approach involves all sentry team member monitoring of incoming alerts. If an alert requires investigation, a solution will be coordinated on a case by case basis between triage members.
+
 * **Alerting rules** - Currently, alerts go only to [#vetsgov-sentry-alerts](https://dsva.slack.com/messages/CJTDG22NM), but email should be configured for Sentry to allow for personalized alerts when an issue is assigned to a Sentry team/individual (not yet possible on slack). [example](http://sentry.vetsgov-internal/settings/vets-gov/projects/platform-api-production/alerts/rules/)
 
 ### Each business day the triage team should:
