@@ -13,7 +13,7 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 
 ### Responsibilities:
 - Own + maintain VSP Service Blueprint overall
-- Prioritize areas of the blueprint tthat require iteration based on value and pain point analysis
+- Prioritize areas of the blueprint that require iteration based on value and pain point analysis
 - Iterate on those pioritized areas, or collaborate to work into another team's sprint
 - Perform overarching VSP user research and work findings into implementation recommendations
 - Use other "listeners" (Slack, ZenHub, etc) to derive overall VSP insights and work findings into implementation recommendations
@@ -44,7 +44,7 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 #### Stand-up
 Check in on people and product progress
 
-- Monday, Wednesday, Thursday, Friday at 12 pm Easter. Tuesdays at 1:30 Eastern. 
+- Monday, Wednesday, Thursday, Friday at 12 pm Eastern. Tuesdays at 1:30 Eastern. 
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
