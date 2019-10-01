@@ -67,11 +67,10 @@
 - The flow must be possible to complete on [vets.gov supported browsers](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/DocumentedDecisions/Browser%20Support.md) with the most commonly used screenreader(s) (see for example [2017 WebAIM screenreader survey](https://webaim.org/projects/screenreadersurvey7/)):
 
   - [ ] User flow must be possible using a keyboard only (no pointing device). See the [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/) for keyboard strokes.
-  - [ ] IE11: JAWS (tested by the Section 508 office)
-  - [ ] Chrome: JAWS (tested by the Section 508 office, second option upon request)
-  - [ ] Firefox: NVDA (tested by the Section 508 office, third option upon request)
-  - [ ] Firefox: Chrome
-  - [ ] Safari: Voice Over
+  - [ ] Windows 7/10: IE11 with JAWS (tested by the Section 508 office)
+  - [ ] Windows 7/10: Chrome with JAWS (tested by the Section 508 office, second option upon request)
+  - [ ] Windows 7/10: Firefox with NVDA (tested by the Section 508 office, third option upon request)
+  - [ ] MacOS: Safari with Voice Over. Make sure you have [updated the Accessibility System Preference](https://www.scottohara.me/blog/2014/10/03/link-tabbing-firefox-osx.html) before testing.
 
 ### Color Tests
 
