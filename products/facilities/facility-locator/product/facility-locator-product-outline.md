@@ -1,4 +1,4 @@
-# VSA: Facility Locator Outline: WIP
+# VSA: Facility Locator Product Outline: WIP
 
 GitHub Label: department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator
 
