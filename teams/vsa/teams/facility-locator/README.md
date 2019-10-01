@@ -1,11 +1,11 @@
 # VSA-Facility Locator
 
-[Read me](product/README.md)
+README at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md
 
-[Charter](product/charter.md)
+Charter at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/charter.md
 
-[Product outline](product/product_outline.md)
+Product outline at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/product_outline.md
 
-[KPI](product/KPI.md)
+KPI at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/KPI.md
 
-[Roadmap](product/roadmap.md)
+Roadmap at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md
