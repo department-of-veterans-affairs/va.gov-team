@@ -40,7 +40,7 @@ Note: The LucidChart link for this process is [here](https://www.lucidchart.com/
 4. Execute tests
     1. Execute tests as you build a story locally
     2. Record test results
-    3. Track issues
+    3. [Track issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/create-an-issue.md)
     4. Iterate on the story
     5. Goto 1
 5. Report results at the end of development
