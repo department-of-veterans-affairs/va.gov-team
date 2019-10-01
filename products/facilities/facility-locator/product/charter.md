@@ -15,7 +15,7 @@ audiences access to vital information about VA facilities
 - Facility Locator 
 
 **Responsibilities:**
-Provide a single, consolidated place across VA where a veteran can easily find high-level information about facilities
+Provide a single, consolidated place across VA where a veteran can easily find high-level information about facilities and basic benefit eligibility 
 
 **Roadmap:**  
 (TBD) 
