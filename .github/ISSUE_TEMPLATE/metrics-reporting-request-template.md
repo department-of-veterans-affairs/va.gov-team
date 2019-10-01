@@ -28,7 +28,7 @@ Please fill out the following sections:
 Who is this request for?
 
 - [Insert Name(s)]
-    _Send Slack message to DSVA Slack Channel that includes: email address(es) for user(s) requesting data and link to this Github issue._
+    _Send Slack message to DSVA Slack Channel, `#VFS-Platform-Support`, that includes: email address(es) for user(s) requesting data and link to this Github issue._
 - What team/project is this work for?
     _this adds context for the data_
     - [Insert team and project)

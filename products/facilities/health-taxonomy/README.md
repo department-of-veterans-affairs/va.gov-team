@@ -4,6 +4,22 @@
 - Consistent service names and cross linking to relevant content (types) across organizations help users know how to navigate them
 - A taxonomy and related metadata can support programmatic cross-referencing capabilities via content types along with meaningful measurement
 
+# How might we use a unified services taxonomy (use cases)?
+## Internal organization use cases:
+
+- A central office employee wants to map the Veteran-facing services taxonomy and related components in the CMS to the classifications in the Access to Care, and VA Online Scheduling (VAOS) systems (Dave Mazik's use case)
+- A central office employee wants to enable a translation from the clinical services within the taxonomy to primary stop codes seen in the workload and used by DST for MISSION into a unified Veteran-facing service taxonomy (Dave Mazik's use case) 
+-| Draft Mappings of Taxonomy to Primary Stop Codes, VAOS, and Acccess to Care Classifications here: <https://airtable.com/shr1qe5J2DmyKkPum>
+- A central office employee wants to find services offered across the VHA enterprise and extend the capabilities of the facilities API to include wait times for an expanded list of services in the facility API.
+- A facility employee wants to know what facilities offer a specific clinical service within a geographic area.
+- A subject-matter-expert author tags authored descriptions with relevant conditions or procedures performed in the service so that cross-linking to health topics (licensed  or VA authored) can be surfaced programmatically and associated with that service.
+
+## External/Customer use cases:
+
+- A Veteran with hearing loss searching for a hearing test who can describe his symptoms but is not familiar with the clinical/formal names of the services that treats his symptoms or condition. 
+- A medical student searching for residency programs in psychiatry finds applicable training programs that are linked to relevant Services at VA facilities that offer residency rotations or residency programs in psychiatry. 
+- A caregiver who is searching to find services and programs applicable to their situation. purchase carry-on luggage and wants to filter results by price, color, and positive reviews.
+
 ## Discovery 
 
 ### Current state
@@ -39,7 +55,7 @@ The audit of A-Z Services pages on each of the 145 websites revealed that each f
 - Makes it difficult to reuse descriptive content about services across the ecosystem and crosslink it appropriately
 
 ## Files and documents
-An Exploration of Healthcare (and other) Servicesacross VA Facilities Websites: (Taxonomy Presentation) : https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/health-taxonomy/Exploration%20of%20Health%20Care%20Services%20on%20VA.gov.pptx
+An Exploration of Healthcare (and other) Services across VA Facilities Websites: (Taxonomy Presentation) : https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/health-taxonomy/Exploration%20of%20Health%20Care%20Services%20on%20VA.gov.pptx
 
 
 

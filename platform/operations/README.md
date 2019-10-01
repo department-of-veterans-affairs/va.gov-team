@@ -1,3 +1,12 @@
-This folder is part of the updated hierarchy for the va.gov-team repo. 
+# [Practice Area]
+Description of what's included in this folder. 
 
-**Please do not add files to any folder in this hierarchy without first consulting a member of the VSP Content/IA team.**
+### Communication channels
+- Slack channels: #
+- Github labels: `[label]`
+
+### VSP POCs
+- name, slack name
+
+### Table of contents
+The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #[slack-channel] Slack channel or your VSP POC directly.

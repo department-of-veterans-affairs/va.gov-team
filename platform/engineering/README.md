@@ -1,3 +1,8 @@
-This folder is part of the updated hierarchy for the va.gov-team repo. 
+# Engineering
+In this folder, you'll find information specific to how Engineering works on VA.gov.
 
-**Please do not add files to any folder in this hierarchy without first consulting a member of the VSP Content/IA team.**
+<!-- No longer valid, these files were removed
+### Table of Contents
+- [Backend](./Backend/README.md)
+- [Frontend](./Frontend/README.md)
+- [Infrastructure](./Infrastructure/README.md) -->

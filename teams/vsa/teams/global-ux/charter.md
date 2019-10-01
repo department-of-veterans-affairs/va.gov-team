@@ -30,8 +30,9 @@ Product Portfolio:
 **Responsibilities:**
 [High level problem space and user goals for this team]
 
-**Roadmap:**
-![filename](filename.png)
+**Roadmap:**  
+![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/global-ux/global-ux-roadmap-sept2019.JPG)
+[PDF version](global-ux-roadmap-sept2019.pdf)  
 ________________________________________
 
 **Team Members**

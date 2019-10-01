@@ -7,11 +7,18 @@ assignees: ''
 
 ---
 
-## User Story
+## User Story or Problem Statement
 As a _____, I need _____ so I can _____.
+
+or
+
+Problem description. How might we _____________ ?
 
 ## Goal
 _What outcome(s) do we want to see?_
+
+## Objectives or Key Results this is meant to further
+- _lorem ipsum_
 
 ## Acceptance Criteria
 - [ ] _What needs to happen or be created?_

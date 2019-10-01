@@ -1,0 +1,803 @@
+openapi: 3.0.0
+info:
+  description: 'This is an initial draft of the VAOS wrapper for vets-api'
+  version: '0.0.2'
+  title: 'VAOS API Wrapper Draft'
+servers:
+  - url: http://api.va.gov/v0/vaos
+    description: New path on existing vets-api
+tags:
+  - name: 'Appointments'
+    description: 'Endpoints related to confirmed (booked) appointments'
+  - name: 'Requests'
+    description: 'Endpoints related appointment requests'
+  - name: 'Scheduling eligibility'
+    description: 'Endpoints related to determine when and where a Veteran can schedule appointments'
+  - name: 'Community Care'
+    description: 'Endpoints related to Community Care'
+    externalDocs:
+      description: 'Find out more about our store'
+      url: 'http://swagger.io'
+paths:
+  /appointments:
+    get:
+      tags:
+        - 'Appointments'
+      summary: 'Returns array of all confirmed appointments'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622474">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of confirmed appointments
+            <ul>
+              <li><code>/appointments/v1/patients/{patient-id}/appointments</code></li>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/booked-appointments</code>
+                (unused because telehealth is enabled?)</li>
+            </ul>
+          </li>
+          <li>Community care appointments are a separate endpoint
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/booked-cc-appointments</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Appointment'
+        default:
+          description: Unexpected error
+    post:
+      tags:
+        - 'Appointments'
+      summary: 'Create a new confirmed appointment'
+      description: ''
+      operationId: ''
+      requestBody:
+        $ref: '#/components/requestBodies/DirectScheduleBody'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Appointment'
+        default:
+          description: Unexpected error
+    put:
+      tags:
+        - 'Appointments'
+      summary: 'Update a confirmed appointment (only used to cancel appointments)'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Cancel endpoint
+            <ul>
+              <li>
+                <code>PUT /VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/cancel-appointment</code>
+              </li>
+            </ul>
+          </li>
+          <li>Community care requests are included in appointment request service</li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+  /requests/:
+    get:
+      tags:
+        - 'Requests'
+      summary: 'Returns array of all appointment requests'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622432">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of pending appointments
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
+              </li>
+            </ul>
+          </li>
+          <li>Community care requests are included in appointment request service</li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Request'
+        default:
+          description: Unexpected error
+    post:
+      tags:
+        - 'Requests'
+      summary: 'Create a new appointment request'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/community-care-appointment</code>
+              </li>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      requestBody:
+        $ref: '#/components/requestBodies/RequestBody'
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Request'
+        default:
+          description: Unexpected error
+  /requests/{requestId}:
+    put:
+      tags:
+        - 'Requests'
+      summary: 'Update a requested appointment (only used to cancel requests)'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      parameters:
+        - name: requestId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+  /requests/{requestId}/messages:
+    get:
+      tags:
+        - 'Requests'
+      summary: 'Gets a list of messages associated with the request'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}/messages</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      parameters:
+        - name: requestId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+    post:
+      tags:
+        - 'Requests'
+      summary: 'Send a new message for the given request'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}/messages</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      parameters:
+        - name: requestId
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+  /systems:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns list of systems a user is registered to'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of registered medical systems (with City/State)
+            <ul>
+              <li><code>/users/v1/session/identifiers.json</code></li>
+            </ul>
+          </li>
+        </ul>
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/System'
+        default:
+          description: Unexpected error
+  /systems/{parentFacilityId}/facilities:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns list of child facilities along with their eligiblity for direct scheduling or requests'
+      parameters:
+        - name: parentFacilityId
+          in: path
+          required: true
+          schema:
+            type: number
+        - name: typeOfCareId
+          in: query
+          required: true
+          schema:
+            type: number
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Institutions by type of care:
+            <ul>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions</code></li>
+            </ul>
+          </li>
+        </ul>
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Facility'
+        default:
+          description: Unexpected error
+  /facilities:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns detail info about the facilities requested'
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622427">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>List of facilities by id
+            <ul>
+              <li><code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/parent-sites</code></li>
+            </ul>
+          </li>
+        </ul>
+      parameters:
+        - name: facilityIds
+          in: query
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/System'
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/clinics:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns a list of clinics at the specified facility that support the specified type of care'
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: typeOfCareId
+          in: query
+          required: true
+          schema:
+            type: string
+        - name: parentFacilityId
+          in: query
+          required: true
+          schema:
+            type: number
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Clinics supporting direct scheduling
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/clinical-services/patient/{assigning-authority}/{patient-id}/clinics</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Clinic'
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/visits:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns info about previous visits'
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: typeOfCareId
+          in: query
+          required: true
+          schema:
+            type: string
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Visited in past months
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/{eligibility}/visited-in-past-months</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  hasVisitedInPastMonths:
+                    type: boolean
+                  durationInMonths:
+                    type: number
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/cancel-reasons:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Get the allowed cancel reasons for a facility'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Cancel reasons
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/cancel-reasons-list</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+            minimum: 3
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/limits:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns visit limites for specified facility'
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: typeOfCareId
+          in: query
+          required: true
+          schema:
+            type: string
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Request limits
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/request-limit</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  numberOfRequests:
+                    type: number
+                  requestLimit:
+                    type: number
+        default:
+          description: Unexpected error
+  /facilities/{facilityId}/available-appointments:
+    get:
+      tags:
+        - 'Scheduling eligibility'
+      summary: 'Returns a list of available date/time slots for a specific facility'
+      parameters:
+        - name: facilityId
+          in: path
+          required: true
+          schema:
+            type: string
+        - name: clinicIds
+          in: query
+          required: true
+          schema:
+            type: string
+      description: >+
+        <a href="https://adhoc.invisionapp.com/share/WATIINRHZ3F#/screens/379622470">Corresponding mockup page</a><br /><br />
+        Existing endpoints:<br />
+        <ul>
+          <li>Appointment slots
+            <ul>
+              <li>
+                <code>VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/available-appointment-slots</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+                  format: datetime
+                  example: '2019-08-29T12:00:00Z'
+        default:
+          description: Unexpected error
+  /community-care/eligibility:
+    get:
+      tags:
+        - 'Community Care'
+      summary: 'Returns whether use is eligible for community care'
+      description: ''
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  isEligible:
+                    type: boolean
+                    example: true
+                  reason:
+                    type: string
+                    example: 'User is within x miles of facility'
+                  effectiveDate:
+                    type: string
+                    example: '2017-10-08T23:35:12-05:00'
+        default:
+          description: Unexpected error
+components:
+  requestBodies:
+    RequestBody:
+      description: A JSON object containing request information
+      required: true
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              facilityId:
+                type: string
+                example: '888'
+              requestDateTime:
+                type: string
+                format: date
+                example: '2019-08-29T12:00:00Z'
+              requestDateTimeAlternate1:
+                type: string
+                format: date
+                example: '2019-08-29T13:00:00Z'
+              requestDateTimeAlternate2:
+                type: string
+                format: date
+                example: '2019-08-29T14:00:00Z'
+              reason:
+                type: string
+                example: 'Routine/Follow-up'
+              type:
+                type: string
+                example: 'Office Visit'
+              contactNumber:
+                type: string
+                example: '+1-908-477-1720'
+              preferredContactTime:
+                type: string
+                enum: [morning, afternoon, evening]
+                example: evening
+    DirectScheduleBody:
+      description: A JSON object containing request information
+      required: true
+      content:
+        application/json:
+          schema:
+            type: object
+            properties:
+              facilityId:
+                type: string
+                example: '888'
+              appointmentDateTime:
+                type: string
+                format: date
+                example: '2019-08-29T12:00:00Z'
+              reason:
+                type: string
+                example: 'Routine/Follow-up'
+              type:
+                type: string
+                example: 'Office Visit'
+              contactNumber:
+                type: string
+                example: '+1-908-477-1720'
+              preferredContactTime:
+                type: string
+                enum: [morning, afternoon, evening]
+                example: evening
+  schemas:
+    System:
+      properties:
+        id:
+          type: string
+          example: 'dfn-671'
+        name:
+          type: string
+          example: 'Spokane VAMC'
+        facilities:
+          type: array
+          items:
+            $ref: '#/components/schemas/Facility'
+        typesOfCare:
+          type: array
+          items:
+            $ref: '#/components/schemas/TypeOfCare'
+    TypeOfCare:
+      properties:
+        id:
+          type: string
+          example: 'toc-101'
+        label:
+          type: string
+          example: 'Primary Care'
+    Facility:
+      properties:
+        id:
+          type: string
+          example: '888'
+        name:
+          type: string
+          example: 'Washington VA Medical Center'
+        type:
+          type: string
+          example: 'VAMC'
+        address:
+          type: string
+          example: '50 Irving St NW'
+        city:
+          type: string
+          example: 'Washington'
+        state:
+          type: string
+          example: 'DC'
+        directScheduleEnabled:
+          type: boolean
+          example: true
+        parentSiteCode:
+          type: integer
+          example: 688
+    Clinic:
+      properties:
+        siteCode:
+          type: number
+          example: 688
+        clinicId:
+          type: number
+          example: 2276
+        clinicName:
+          type: string
+          example: "DC/PACT GREEN FOUR"
+        clinicFriendlyLocationName:
+          type: string
+          example: "GREEN VASSALL"
+    Appointment:
+      properties:
+        id:
+          type: string
+          example: '123'
+        facilityId:
+          type: string
+          example: '888'
+        facility:
+          $ref: '#/components/schemas/Facility'
+        dateTime:
+          type: string
+          format: date
+          example: '2019-08-29T12:00:00Z'
+        reason:
+          type: string
+          example: 'Routine/Follow-up'
+        type:
+          type: string
+          example: 'Office Visit'
+        contactNumber:
+          type: string
+          example: '+1-908-477-1720'
+        preferredContactTime:
+          type: string
+          enum: [morning, afternoon, evening]
+          example: evening
+        status:
+          type: string
+          enum: [pending, booked]
+          example: pending
+        pactTeam:
+          $ref: '#/components/schemas/PactTeam'
+    Request:
+      properties:
+        id:
+          type: string
+          example: '123'
+        facilityId:
+          type: string
+          example: '888'
+        facility:
+          $ref: '#/components/schemas/Facility'
+        requestDateTime:
+          type: string
+          format: date
+          example: '2019-08-29T12:00:00Z'
+        requestDateTimeAlternate1:
+          type: string
+          format: date
+          example: '2019-08-29T13:00:00Z'
+        requestDateTimeAlternate2:
+          type: string
+          format: date
+          example: '2019-08-29T14:00:00Z'
+        reason:
+          type: string
+          example: 'Routine/Follow-up'
+        type:
+          type: string
+          example: 'Office Visit'
+        contactNumber:
+          type: string
+          example: '+1-908-477-1720'
+        preferredContactTime:
+          type: string
+          enum: [morning, afternoon, evening]
+          example: evening
+        status:
+          type: string
+          enum: [pending, booked]
+          example: pending
+    PactTeam:
+      properties:
+        teamSid:
+          type: string
+          example: '1400018881'
+        teamName:
+          type: string
+          example: 'Green-four'
+        staff:
+          type: array
+          items:
+            type: object
+            properties:
+              name:
+                type: string
+                example: 'McBride, Samantha M'
+              title:
+                type: string
+                example: 'Registered Nurse (RN)'

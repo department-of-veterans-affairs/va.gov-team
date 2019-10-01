@@ -1,15 +1,30 @@
-# Booz Allen
+# [Team Name]
 
-### Mission
-
+### Description of Current Work
+_What is a brief description or list of current work efforts?_
 
 ### Slack Channels
+_Where can your team(s) be found in Slack?_
+- #channel-name
 
 
 ### Github Labels
+_What labels are your GitHub issues tagged with?_
+- `github label`
 
-### Points of Contact
 
-### Table of contents
-The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the relevant Slack channel or point of contact.
+### Points of Contact 
+_Who are the primary contacts for your team(s)?  
+Do not publish personal contact info, only names and slack contact name._
+- Program Management: 
+- Product Management:  
+- Design: 
+- Engineering: 
+- Operations:  
+
+### Key Documents
+
+- [Team Charter]()
+- [Roadmap]()
+- [Document Name]()
 

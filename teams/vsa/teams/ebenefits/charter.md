@@ -14,15 +14,14 @@ VSA - va.gov
 eBenefits
 
 ### **Mission Statement**
-Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from ebenefits to the VA.gov central location.
+Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.
 
 ### **Responsibilities**
 Define the landscape of features to be worked on, optimize and migrate as necessary, and collaborate with other teams where there is overlap.  
 
 ### **Roadmap**
-[priorities.md](priorities.md) - TBD
-
-
+![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/ebenefits-roadmap-sept2019.JPG)
+[Overall Priorities](priorities.md)
 
 ### Team Members
 
@@ -31,9 +30,9 @@ Define the landscape of features to be worked on, optimize and migrate as necess
 |DSVA Product Manager   |Steve Kovacs                        |
 |Team Product Manager   |Jason Wolf                          |
 |Back End Engineer      |Kathleen Crawford                   |
-|Front End Engineer     |Micah Chiang *(8/26)*               |
-|UX Design              |Arricka Lewis *(8/26)*              |
-|Design Researcher      |James Adams *(9/3)*                 |
+|Front End Engineer     |Micah Chiang                        |
+|UX Design              |Arricka Lewis                       |
+|Design Researcher      |James Adams                         |
 
 ### **Workflow + Cadence**
 
@@ -79,7 +78,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
 
  1 - Easy task, work is known, can be executed quickly   
- 2 - Mostly known, doable
+ 2 - Mostly known, doable    
  3 - Becoming complex   
  5 - Very complex, may take a full sprint or longer    
  8 - Needs to be broken down into smaller user stories      
