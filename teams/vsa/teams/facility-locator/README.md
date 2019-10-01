@@ -1,4 +1,4 @@
-# VSA-Facility Locator
+# VSA-Facility Locator Product Docs
 
 Product README at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/README.md
 
