@@ -18,4 +18,4 @@ A list of deliverables and explanation of their contents is listed below.
     - Example: [RTM Template](https://drive.google.com/file/d/1fAWBuscDAGLLC18C5lbekjvjGElAaAm4/view?usp=sharing)
 5. Issues
     - Please provide a list of all resolved and unresolved issues encountered in the sprint.
-    - Example: [Issue Collection](http://example)
+    - Example: [Issue Collection](https://github.com/department-of-veterans-affairs/vets-website/labels/bug)
