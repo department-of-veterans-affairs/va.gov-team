@@ -1,4 +1,4 @@
-# Facility Locator /product/README
+# README
 
 This area includes documentation on all va.gov user-facing products. This includes any tool, content page or piece of functionality that a va.gov visitor interacts with directly.
 
