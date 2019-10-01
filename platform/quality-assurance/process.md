@@ -46,10 +46,11 @@ Note: The LucidChart link for this process is [here](https://www.lucidchart.com/
 5. Report results at the end of development
     - Submit results to the VSP Product Support Team by sharing them in #vsp-product-support Slack channel. You may either attach the documents to the channel, or provide shareable links to documents stored in the cloud.
     - For a detailed explanation of expected deliverables see the [deliverables](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/deliverables.md) documentation.  An overview is listed below --
-        1. Test plan
-        2. Test cases
-        3. Test case execution logs
-        4. List of issues
+        1. [Test plan](https://docs.google.com/document/d/10dYOWyHSTGB_gKiPZSdcdq6fwjrlRhBsK3yUIyS3Gc0/edit?usp=sharing)
+        2. [Test cases](https://drive.google.com/file/d/1yQpyUnt9yoNt_dRCRWW2DIMfRYglCRwT/view?usp=sharing)
+        3. [Test case execution logs](https://drive.google.com/file/d/1_DeDS8lE2yxjcYPd_TEiSANl65Fsn95s/view?usp=sharing)
+        4. [Requirements traceability matrix](https://drive.google.com/file/d/1fAWBuscDAGLLC18C5lbekjvjGElAaAm4/view?usp=sharing)
+        5. [List of issues](https://github.com/department-of-veterans-affairs/vets-website/labels/bug)
             - If applicable provide resolved issues
             - If applicable provide unresolved issues
 
