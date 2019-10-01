@@ -77,11 +77,11 @@ Teams have complete access to GTM. Insights provides general QA and support.
 
 NOW
 
-1. [Basic Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/46642f648418fa7d4ce9a63a49caae69664bc206/Platform/Teams/Analytics%20and%20Insights/Welcome%20to%20Analytics/rules-of-engagement-analytics-implementation-qa.md) - Nedie & Jon review
+1. [Basic Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-analytics-implementation-qa.md) - Nedie & Jon review
 
 NEXT
 
-2. [Implementation/QA Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Analytics%20and%20Insights/Research/Analytics%20Request%20Templates.md)
+2. [Implementation/QA Template](hhttps://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D)
     1. Nedie & Jon create PR/iterate to make clear who the owner of each task is
     1. Make template scalable (accountable for multiple scenarios)
     1. Push new template
