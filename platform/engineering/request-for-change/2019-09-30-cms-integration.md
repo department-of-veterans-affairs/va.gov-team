@@ -67,7 +67,7 @@ specs._
 I propose rearchitecting the `vets-website` build to separate the
 content building into a process distinct from the website.
 
-[!img](images/separated-content-build-proposal.png)
+![separate build diagram](images/separated-content-build-proposal.png)
 
 **Note:** Pulling the already-built content _can still_ have two
 different results, much like the current state, but since the content
