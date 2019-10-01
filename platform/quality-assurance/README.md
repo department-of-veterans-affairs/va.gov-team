@@ -14,4 +14,5 @@ The following outline is a set of resources for applying accepted QA techniques 
 - [Process for designing and executing a QA test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/process.md)
 - [Technologies used for creating and executing all aspects of a QA test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/technologies.md)
 - [Deliverables at the completion of test activities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/deliverables.md)
+- [How to create an issue for your project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/create-an-issue)
 - [Help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/help.md)
