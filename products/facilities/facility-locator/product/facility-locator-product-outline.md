@@ -34,7 +34,7 @@ Product POCs:
 As a Veteran, I'm unable to easily and quickly find information about facility locations and services.
 # Solution Goals
 ## User Goals
-- Veterans want to easily find information about facility locations and available services.
+- Veterans want to easily find information about facility locations and available services, using their own natural language.
 - Veterans need the facility information to be complete, accurate and easy to understand. 
 - Veterans want to schedule appointments at certain facilities.
 - Veterans want to see patient satisfaction ratings for health facilities.
