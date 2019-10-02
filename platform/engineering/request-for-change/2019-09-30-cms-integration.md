@@ -6,6 +6,22 @@
 ## Background
 _Explain the current state of the feature._
 
+### Glossary
+This RFC will use the following terms. These terms may or may not be
+used outside of this RFC.
+- Normal Jenkins build
+  - All branches are build using this pipeline (including master)
+  - This attempts to pull all CMS content, but will fall back to the
+    cache if necessary
+  - This builds JavaScript and CSS assets
+  - Runs the full suite of unit, e2e, and accessibility tests
+- Content-only build
+  - Used in a content-only deploy
+  - Attempts to pull the latest CMS content
+    - Will not fall back to the cache
+  - Uses the JavaScript and CSS assets from the latest normal build
+  - Runs a limited suite of tests
+
 ### Metalsmith
 Currently, `vets-website`'s build is managed by Metalsmith, a
 plugin-based static site generator. Metalsmith uses a number of custom
