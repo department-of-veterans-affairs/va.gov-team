@@ -2,7 +2,7 @@
 
 ## Communications
 
-- **GitHub Label**: vsa-authenticated-exp; profile
+- **GitHub Label**: vsa-authenticated-exp; personalization-2.0
 - **Slack channel**: vsa-authd-exp
 
 ### Roles
