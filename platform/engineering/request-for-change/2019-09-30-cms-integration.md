@@ -47,17 +47,24 @@ built. These days, however, all of the content comes from outside
 `vets-website`.
 
 ### Content validation
-The Metalsmith script does some basic content validation, such as
-broken link checking. In a separate step in the Jenkins pipeline for
-the full `vets-website` build, we do an accessibility test, which runs
-the aXe checker on all pages listed in the sitemap.
+Some basic validations are performed on the content from the CMS and
+vagov-content repo.
 
-Whenever the accessibility check fails, the Jenkins build fails.
+| Validation | Full build | Content-only build | Preview server |
+| ---------- | ---------- | ------------------ | -------------- |
+| Broken link checking | True | True | False |
+| Accessibility | True | True | False |
+
+The Metalsmith script performs the check for broken internal links.
+
+Accessibility tests run the aXe checker on all pages found in the
+sitemap. Whenever the accessibility check fails, the Jenkins build
+fails.
 
 When broken links are discovered during a full Jenkins build, we send
 a Slack notification with a link to the build. If Jenkins was building
-the production branch, the build will also fail, to prevent broken
-links in production.
+the production (`master`) branch, the build will also fail, to prevent
+broken links in production.
 
 ## Motivation
 _Why do we want to change the current implementation? What problem(s)
