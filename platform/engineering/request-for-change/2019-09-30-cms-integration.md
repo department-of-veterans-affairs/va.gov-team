@@ -35,9 +35,9 @@ This build script is run in a number of ways:
 - The Jenkins pipeline for a content-only build
 - Locally, with `yarn build` or `yarn watch`
 
-Separate, but related, we have a modified version of the Metalsmith
-build for the preview server (`yarn preview`). This is used for
-content editors to see how their changes show up on the site.
+Separate, but related, the preview server has a modified version of
+the Metalsmith build (`yarn preview`). This is used for content
+editors to see how their changes show up on the site.
 
 Having a Metalsmith build pipeline came from a time when
 `vets-website` had a `content/` directory from which the static pages
