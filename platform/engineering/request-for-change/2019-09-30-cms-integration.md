@@ -109,7 +109,7 @@ themselves. Bonus points if this is easily mappable to user stories or
 specs._
 
 I propose rearchitecting the `vets-website` build to separate the
-content building into a process distinct from the website.
+static content building into a process distinct from the website.
 
 ![separate build diagram](images/separated-content-build-proposal.png)
 
