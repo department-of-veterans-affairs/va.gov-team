@@ -9,7 +9,7 @@
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |Auth exp lead designer; Profile and account project lead| samara.strauss@va.gov |
+|Samara Strauss |Auth exp lead designer; Personalization 2.0 project lead| samara.strauss@va.gov |
 |Lisa Koenigsberg|Auth exp team lead| lisa.koenigsberg@va.gov |
 |Justin Pickett |Auth exp PM| jpickett@governmentcio.com |
 |Arthur Green |Auth exp designer| jpickett@governmentcio.com |
