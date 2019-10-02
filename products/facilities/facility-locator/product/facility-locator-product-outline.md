@@ -128,5 +128,6 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - VA UI Design Lead: Ryan
 - UX/Design: Aricka Lewis
 - Back End Engineer: Justin Ellis
-= Front End Engineer: Gilbran Rodriguez
+- Front End Engineer: Gilbran Rodriguez
 - VA Researcher(s)
+- DevOps Engineer: Cameron Testerman
