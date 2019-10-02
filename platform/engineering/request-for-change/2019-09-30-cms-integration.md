@@ -21,7 +21,7 @@ used outside of this RFC.
   - Used in a content-only deploy
   - Attempts to pull the latest CMS content
     - Will not fall back to the cache
-  - Uses the JavaScript and CSS assets from the latest normal build
+  - Uses the JavaScript and CSS assets from the latest full build
   - Runs a limited suite of tests
 
 ### Metalsmith
@@ -47,18 +47,17 @@ built. These days, however, all of the content comes from outside
 `vets-website`.
 
 ### Content validation
-As a part of the Metalsmith script, we do some basic content
-validation, such as broken link checking. In a separate step in the
-Jenkins pipeline for the normal `vets-website` build, we do an
-accessibility test, which runs the aXe checker on all pages listed in
-the sitemap.
+The Metalsmith script does some basic content validation, such as
+broken link checking. In a separate step in the Jenkins pipeline for
+the full `vets-website` build, we do an accessibility test, which runs
+the aXe checker on all pages listed in the sitemap.
 
 Whenever the accessibility check fails, the Jenkins build fails.
 
-When broken links are discovered during a normal Jenkins build, we
-send a Slack notification with a link to the build. If Jenkins was
-building the production branch, the build will also fail, to prevent
-broken links in production.
+When broken links are discovered during a full Jenkins build, we send
+a Slack notification with a link to the build. If Jenkins was building
+the production branch, the build will also fail, to prevent broken
+links in production.
 
 ## Motivation
 _Why do we want to change the current implementation? What problem(s)
