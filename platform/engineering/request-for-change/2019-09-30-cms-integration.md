@@ -59,14 +59,14 @@ The Metalsmith script performs the check for broken internal
 links. This happens before the accessibility tests in the Jenkins
 build pipelines.
 
-Accessibility tests run the aXe checker on all pages found in the
-sitemap. Whenever the accessibility check fails, the Jenkins build
-fails. This happens after the content build and link checker.
-
 When broken links are discovered during a full Jenkins build, we send
 a Slack notification with a link to the build. If Jenkins was building
 the production (`master`) branch, the build will also fail, to prevent
 broken links in production.
+
+Accessibility tests run the aXe checker on all pages found in the
+sitemap. Whenever the accessibility check fails, the Jenkins build
+fails. This happens after the content build and link checker.
 
 ## Motivation
 _Why do we want to change the current implementation? What problem(s)
