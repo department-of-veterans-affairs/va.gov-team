@@ -39,13 +39,13 @@ Separate, but related, the preview server has a modified version of
 the Metalsmith build (`yarn preview`). This is used for content
 editors to see how their changes show up on the site.
 
-Having a Metalsmith build pipeline came from a time when
-`vets-website` had a `content/` directory from which the static pages
-were built. These days, however, all of the content comes from outside
+Having a Metalsmith build script came from a time when `vets-website`
+had a `content/` directory from which the static pages were
+built. These days, however, all of the content comes from outside
 `vets-website`.
 
 ### Content validation
-As a part of the Metalsmith pipeline, we do some basic content
+As a part of the Metalsmith script, we do some basic content
 validation, such as broken link checking. In a separate step in the
 Jenkins pipeline for the normal `vets-website` build, we do an
 accessibility test, which runs the aXe checker on all pages listed in
