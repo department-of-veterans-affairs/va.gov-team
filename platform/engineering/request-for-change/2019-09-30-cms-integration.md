@@ -9,7 +9,7 @@ _Explain the current state of the feature._
 ### Glossary
 This RFC will use the following terms. These terms may or may not be
 used outside of this RFC.
-- Normal Jenkins build
+- Full Jenkins build
   - All branches are build using this pipeline (including master)
   - This attempts to pull all CMS content, but will fall back to the
     cache if necessary
@@ -31,7 +31,7 @@ such plugin fetches the content from Drupal if we pass the
 found, another checks for broken links, etc.
 
 This build script is run in a number of ways:
-- The Jenkins pipeline for a normal build
+- The Jenkins pipeline for a full build
 - The Jenkins pipeline for a content-only build
 - Locally, with `yarn build` or `yarn watch`
 
