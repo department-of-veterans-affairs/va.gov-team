@@ -8,11 +8,11 @@ _Explain the current state of the feature._
 
 ### Metalsmith
 Currently, `vets-website`'s build is managed by Metalsmith, a
-plugin-based static site generator. We have a number of custom plugins
-used to manipulate the static content in various ways. One such plugin
-fetches the content from Drupal if we pass the `--pull-drupal` flag to
-the build script or if the local cache isn't found. Another checks for
-broken links.
+plugin-based static site generator. Metalsmith uses a number of custom
+plugins used to manipulate the static content in various ways. One
+such plugin fetches the content from Drupal if we pass the
+`--pull-drupal` flag to the build script or if the local cache isn't
+found, another checks for broken links, etc.
 
 This build script is run in a number of ways:
 - The Jenkins pipeline for a normal build
