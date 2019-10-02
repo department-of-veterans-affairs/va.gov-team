@@ -97,10 +97,10 @@ deployed.**
 The goal of this RFC is to determine an approach for separating the
 content build from the `vets-website` Webpack build, so when
 `vets-website` pulls the content to serve up, it's already been built
-and validated. **All the sources of build failures due to content
-issues will be isolated to the content build and will not affect
-`vets-website` builds or deploys.** This will improve the overall
-stability of the `vets-website` CI.
+and validated. **Build failures due to content issues will be isolated
+to the content build and will not affect `vets-website` builds or
+deploys.** This will improve the overall stability of the
+`vets-website` CI.
 
 ## Design
 _Explain the proposed changes in enough detail so that a team member
