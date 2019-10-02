@@ -33,11 +33,13 @@ For further elaboration on the problems that lead to this project, please see th
 
 ### User Goals
 
-**As a user, I want to be able to quickly complete tasks like updating contact information, direct deposit information, and settings and preferences. I also want to be able to quickly view non-editable personal information**. This means I can:
+As a user, I want to **quickly complete tasks like updating contact information, direct deposit information, and settings and preferences. I also want to be able to quickly view non-editable personal information**. 
 
-- Easily find where I can go to update and view my personal information and settings without having to search for these features.
-- Be able to easily scan pages with my personal information and settings so I know what is in a section without having to do much reading.
-- See terminology on VA.gov that reflects back how I define things (eg. "profile" vs. "personal information" vs. "account").
+In order for this to be possible:
+
+- The site needs to guide me to information in a way that I expect it to guide me.
+- Information needs to be in the places I expect to find it.
+- Pages and sections need to be called what I expect them to be called.
 
 ### Business Goals
 
