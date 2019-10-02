@@ -13,7 +13,8 @@ We expect that most developers have worked with GitHub and review processes befo
 
 1. For initial review by your project team, create a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
 2. Once you are ready for the VSP team to review your PR, use the GitHub *Ready for review* button in the merge section of your pull request. An engineer should review the code within one business day. 
-3. When all review comments have been resolved, the PR can be merged into the master branch for deployment.
+3. Each additional round of changes will be reviewed within one business day.
+4. When all review comments have been resolved, the PR can be merged into the master branch for deployment.
 
 *Hint*: Smaller, focused pull requests will make this easier for everyone!
 
@@ -46,8 +47,6 @@ When your code is reviewed, here are some of the things we're looking for:
     * If you programmatically ignore a linting recommendation (e.g. via `rubocop:disable`), please comment in the PR explaining why.
     * If your linter does raise any issues unrelated to the PR's subject matter, please fix these in a separate PR.
 
-
-
 ## FAQ
 
 Q. I created a pull request and I meant to create a draft pull request instead. How do I change it to a draft pull request in GitHub?
@@ -56,4 +55,4 @@ A.  Unfortunately, you can't change it. But as an alternative, please add "WIP" 
 
 Q. I need a review *right now*! How do I get one?
 
-A. We try to do pull request reviews quickly, but if you need a review faster, escalate via your DSVA product owner. Please don't post in Slack asking for a review unless it has been more than 2 days.
+A. We try to do pull request reviews quickly, but if you need a review faster, escalate via your DSVA product owner. Please don't post in Slack asking for a review unless it has been more than a full business day.
