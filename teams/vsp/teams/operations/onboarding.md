@@ -6,7 +6,7 @@ This document is meant as a way to assist a member of the VSP Operations team to
 
 A great introduction to start is the [TechnicalArchitectureOverview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/TechnicalArchitectureOverview.md) page.
 
-There's also some high level documentation about how the [VA Enterprise Cloud is constructed](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/aws-dx-transit-spoke-architecture/architecture.md) and how the platform fits within that ecosystem. This is from the initial implementation phase, but from a high level a lot of the main constructs are still there.
+This is an There's also some high level documentation about how the [VA Enterprise Cloud transit VPC is constructed](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/aws-dx-transit-spoke-architecture/architecture.md) and how the platform fits within that ecosystem. This document is from the initial implementation phase, but from a high level a lot of the main constructs are still there.
 
 Speaking of VAEC and how things fit together, some introductions to the organization [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/VA-IT-Organization-and-Contacts.md).
 
