@@ -39,6 +39,7 @@ In order for this to be possible:
 
 - The site needs to guide me to information in a way that I expect it to guide me.
 - Information needs to be in the places I expect to find it.
+- Pages and sections need to be easy to scan.
 - Pages and sections need to be called what I expect them to be called.
 
 ### Business Goals
