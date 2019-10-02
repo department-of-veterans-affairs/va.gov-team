@@ -33,9 +33,20 @@ For further elaboration on the problems that lead to this project, please see th
 
 ### User Goals
 
+**As a user, I want to be able to quickly complete tasks like updating contact information, direct deposit information, and settings and preferences. I also want to be able to quickly view non-editable personal information**. This means I can:
+
+- Easily find where I can go to update and view my personal information and settings without having to search for these features.
+- Be able to easily scan pages with my personal information and settings so I know what is in a section without having to do much reading.
+- See terminology on VA.gov that reflects back how I define things (eg. "profile" vs. "personal information" vs. "account").
 
 ### Business Goals
 
+As the authenticated experience team, we want to be able to do the following:
+
+- Remove the uneccessary confusion between "Profile" and "Account."
+- Guide users to the Profile/Account section from the logged out and logged in states.
+- More effectively employ the VA.gov design system so pages are easier to scan and less lenghty.
+- Improve the overall information architecture so it is easier to figure out where to add new features in the future.
 
 ## Assumptions
 
