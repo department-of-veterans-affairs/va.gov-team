@@ -1,6 +1,6 @@
-## Personalization 2.0
+# Personalization 2.0
 
-### Discovery
+## Discovery
 
 [Discovery work was tracked in the vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0). As of 9/24/19, we are tracking the all future work for this project in the va.gov-team repo.
 
@@ -13,3 +13,9 @@
 - [Service member interviews](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Service%20Member%20Interviews)
 - [Comparative analysis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis)
 - [My VA/Profile/Account content analysis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Content%20analysis)
+
+## Projects
+
+### Combining Profile and Account
+
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/README.md)
