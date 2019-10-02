@@ -16,8 +16,11 @@
 - Information presented can be easily misunderstood.
 ## Desired Outcomes (WIP)
 - Reduced time spent on finding facility information.
-- Enhanced Veteran comprehension about available services, where to access the services and how they will be covered (_how can we measure this?_)
+  - _I notice VSP has this:"90% of user requests are served in <100 ms (latency)" or do we want to measure in "clicks"_
+- Enhanced Veteran comprehension about available services, where to access the services and how they will be covered 
+  - (_how can we measure this?_)
 - Reduced number of calls regarding facilities and scheduling and satisfaction
+  - (_how can we measure this?_)
 ## Hypotheses
 - By ____, we expect search performance to be on par with private sector industry standard. 
 - By redesigning the UI around Community Care and Urgent Care services, we expect Veterans to find and understand information for these services more quickly. 
