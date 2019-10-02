@@ -11,6 +11,7 @@
 ### Engineering onboarding
 
 - [7/18/19 By Light survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-mvp/Dev-onboarding-survey-results.md)
+- No VSA team members completed the survey
 
 ### Discovery and logistics workshop
 
