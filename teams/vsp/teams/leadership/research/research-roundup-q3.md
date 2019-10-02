@@ -15,6 +15,7 @@
 ### Discovery and logistics workshop
 
 - [VSA survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vsa/Results-Discovery-and-Logistics-Workshop-Survey.md)
+- No By Light team members completed the survey
 
 ### UX onboarding
 
