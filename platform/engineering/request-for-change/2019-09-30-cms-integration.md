@@ -55,11 +55,13 @@ vagov-content repo.
 | Broken link checking | True | True | False |
 | Accessibility | True | True | False |
 
-The Metalsmith script performs the check for broken internal links.
+The Metalsmith script performs the check for broken internal
+links. This happens before the accessibility tests in the Jenkins
+build pipelines.
 
 Accessibility tests run the aXe checker on all pages found in the
 sitemap. Whenever the accessibility check fails, the Jenkins build
-fails.
+fails. This happens after the content build and link checker.
 
 When broken links are discovered during a full Jenkins build, we send
 a Slack notification with a link to the build. If Jenkins was building
