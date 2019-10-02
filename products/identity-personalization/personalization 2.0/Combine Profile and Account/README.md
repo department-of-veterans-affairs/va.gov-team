@@ -33,7 +33,7 @@ For further elaboration on the problems that lead to this project, please see th
 
 ### User Goals
 
-As a user, I want to **quickly complete tasks like updating contact information, direct deposit information, and settings and preferences. I also want to be able to quickly view non-editable personal information**. 
+**As a user, I want to quickly complete tasks like updating contact information, direct deposit information, and settings and preferences. I also want to be able to quickly view non-editable personal information**. 
 
 In order for this to be possible:
 
