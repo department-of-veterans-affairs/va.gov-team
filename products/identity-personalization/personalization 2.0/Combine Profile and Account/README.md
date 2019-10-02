@@ -1,18 +1,22 @@
 # Product Outline Template
 
 ## Communications
-- GitHub Label: vsa-authenticated-exp; profile
+
+- **GitHub Label**: vsa-authenticated-exp; profile
+- **Slack channel**: vsa-authd-exp
+
+### Roles
 
 |Name|Role|Email|
 |----|----|-----|
-|Lisa Koenigsberg|DSVA Lead| lisa.koenigsberg@va.gov |
-|Samara Strauss |DSVA Lead Designer| samara.strauss@va.gov |
-|Justin Pickett |Product Manager| jpickett@governmentcio.com |
-|Arthur Green |Designer| jpickett@governmentcio.com |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Amen Ra | FE Engineer| ara@governmentcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
+|Samara Strauss |Auth exp lead designer; Profile and account project lead| samara.strauss@va.gov |
+|Lisa Koenigsberg|Auth exp team lead| lisa.koenigsberg@va.gov |
+|Justin Pickett |Auth exp PM| jpickett@governmentcio.com |
+|Arthur Green |Auth exp designer| jpickett@governmentcio.com |
+|Erik Hansen | Auth exp FE engineer| erik@adhocteam.us |
+|Amen Ra | Auth exp FE engineer| ara@governmentcio.com |
+|Lihan Li | Auth exp BE engineer | lihan@adhocteam.us |
+|Tze-chiu Lei | VSA QA Analyst | tze@adhocteam.us |
 
 ## The Problem
 
