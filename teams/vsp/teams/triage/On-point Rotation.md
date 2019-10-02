@@ -28,6 +28,7 @@ The on-point responsibilities are rotated among the engineers of the Triage team
 - Chris Valarida
 - Bill Ryan
 - Keifer Furzland
+- Lindsey Hattamer
 
 ### Rotation on vacation
 Going on vacation when you're on point? Don't forget to ask your teammates to trade some days with you.
