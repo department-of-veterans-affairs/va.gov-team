@@ -119,7 +119,7 @@ it's pulling will have already been validated, the likelihood of a
 failure is drastically reduced.
 
 ### Changes
-- `vets-website` will no longer build the content
+- The `vets-website` build script will no longer build the content
   - **Possible exception:** We may need to update some things in the
     pre-built content such as references to the new cache-busted
     filenames for JS and CSS assets
