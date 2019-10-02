@@ -32,6 +32,7 @@ ________________________________________
 - Back End Engineer: Justin Ellis
 - Front End Engineer: Gilbran Rodriguez
 - VA Researcher(s): 
+- DevOps Engineer: Cameron Testerman
 
 **Workflow + Cadence**
 
