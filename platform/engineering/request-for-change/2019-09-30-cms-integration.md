@@ -10,10 +10,12 @@ _Explain the current state of the feature._
 This RFC will use the following terms. These terms may or may not be
 used outside of this RFC.
 - Full Jenkins build
-  - All branches are build using this pipeline (including master)
+  - All branches are build using this pipeline (including `master`)
   - This attempts to pull all CMS content, but will fall back to the
     cache if necessary
   - This builds JavaScript and CSS assets
+    - For the build of the `master` branch, these assets are saved in
+      S3
   - Runs the full suite of unit, e2e, and accessibility tests
 - Content-only build
   - Used in a content-only deploy
