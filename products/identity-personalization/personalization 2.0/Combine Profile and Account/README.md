@@ -1,4 +1,4 @@
-# Product Outline Template
+# Product Outline: Combine Profile and Account
 
 ## Communications
 
