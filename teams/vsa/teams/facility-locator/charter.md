@@ -98,6 +98,13 @@ Role-Related Knowledge / Best Practices
 
 Engineering: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering
 
+DevOps: https://drive.google.com/drive/u/1/folders/1Jyolzp_e1J1GmNGtfdN0YkMyTY8Vhsay
+
 Design: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Design
 
 Product: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Product%20Management
+
+Labels: 
+- vsa-devops
+- vsa-qa
+
