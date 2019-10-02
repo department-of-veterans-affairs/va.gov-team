@@ -101,7 +101,7 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Initial MVP tool launched 2016
 - V2 launched: November 11th, 2016
 - V3(June 2017): addition of wait time data and vet centers
-- Community Care work
+- Community Care work: MVP milestone 10/23/2018
 ## Solution Narrative
 - Technical Decisions
 - Product Decisions
