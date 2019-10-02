@@ -72,18 +72,35 @@ fails. This happens after the content build and link checker.
 _Why do we want to change the current implementation? What problem(s)
 does the change solve?_
 
-During the Jenkins builds for branches, the build script fetches the
-latest content from `vagov-content` and the CMS. This means that **two
-subsequent builds on a branch with no changes to the code can have two
-different results.** In fact, this happens _very_ frequently, because
-the changed content in Drupal often introduces broken links.
+When any new commits are pushed to a `vets-website` branch, a full
+Jenkins build is triggered. This build attempts to fetch the latest
+content and do some content validation (see [Content
+Validation](#content-validation) for details). This means that **two
+subsequent builds can fail for reasons not introduced in the code.**
 
-The goal of this RFC is to separate the content build from the
-`vets-website` Webpack build, so when `vets-website` pulls the content
-to serve up, it's already been built and validated. If this RFC is
-successful, **all the sources of build failures due to content issues
-will be isolated to the content build and will not affect
-`vets-website` builds or deploys.**
+The biggest example of this is when the `master` branch build fails
+due to broken links, which will halt the deploy. **Broken links
+prevent unrelated features in React applications from being
+deployed.**
+
+**Example**
+1. Somebody merges a branch into `master`
+1. A full Jenkins build is triggered, which then passes
+1. A broken link is introduced in the CMS
+1. Somebody else merges a branch into `master`
+1. A new full Jenkins build is triggered
+1. The Metalsmith script queries for the latest content with the
+   broken link
+1. Because of this latest content, the `vets-website` `master` build
+   fails, but not because of any changes in `vets-website` code
+
+The goal of this RFC is to determine an approach for separating the
+content build from the `vets-website` Webpack build, so when
+`vets-website` pulls the content to serve up, it's already been built
+and validated. **All the sources of build failures due to content
+issues will be isolated to the content build and will not affect
+`vets-website` builds or deploys.** This will improve the overall
+stability of the `vets-website` CI.
 
 ## Design
 _Explain the proposed changes in enough detail so that a team member
