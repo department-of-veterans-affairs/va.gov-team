@@ -34,15 +34,14 @@ Before we start, a few things I want to mention:
 
 Before we talk about the website, tell me about yourself.  
 - Tell me about your background and a little about your service history.
-- 
 - What has your experience been like with VA benefits?
 
 We are going to be talking about VA benefits today. Just so you know, you don't have to talk about specifics dealing with your personal health if you don't feel comfortable. 
 
 ## Navigation: - 10 minutes
 
+- Are you familiar with VA.gov?
 - Are you familiar with the eBenefits website?
-- I'm going to ask you a series of questions about eBenefits. If you can log in and share your screen
 - If yes, tell me abut your experience using eBenefits.
 - If no, tell me about your experience with managing your benefits on VA.gov
 - Can you recall a time you were directed to eBenefits when using the VA.gov website?
@@ -56,12 +55,13 @@ We are going to be talking about VA benefits today. Just so you know, you don't 
 ## Priorities: - 10 minutes
 
 - What are some of the main things you do on the eBenefits website?
-- **share screen - eBenefits** I'm going to share my screen. Walk me through what you use on the eBenefits site. 
-- What are the main differences that you've noticed between eBenefits and VA.gov?
+- I'm going to share my screen. **share screen - eBenefits** Walk me through what you use on the eBenefits site. 
+- What are the main differences that you've noticed between eBenefits and VA.gov? (overall experience, ease of use, etc)
 - Do you think that you are able to achieve what you need to do on eBenefits?
 - Do you use any other websites or tools to help you manage your benefits?
 - Do you use the VA website to manage your benefits?
-- **share screen VA.gov** I'm going to share my screen. Walk me through how you manage your benefits on VA.gov.
+- If no, how are you managing your benefits right now?
+- I'm going to share my screen. **share screen VA.gov** Walk me through how you manage your benefits on VA.gov.
 
 ### Things to watch for:
 
@@ -71,9 +71,12 @@ We are going to be talking about VA benefits today. Just so you know, you don't 
 
 ## Features: - 10 minutes
 
-- Do you have a disability that's rated by the VSA?
+- How do you know figure out if you are eligible for certain benefits?
+- Have you had a disability rating done?
+- Do you have a disability that's rated by the VSA? (or another org?)
 - Have you ever looked up your disability rating, or pending ratings, on eBenefits? If so, why?
 - Do you have dependents under your benefits?
+- If no, why aren't they under your benefits?
 - If yes, how do you manage their information online?
 - Do you have dependents or caregivers that log into eBenefits on your behalf?
 - Do they log in for their own benefits?
