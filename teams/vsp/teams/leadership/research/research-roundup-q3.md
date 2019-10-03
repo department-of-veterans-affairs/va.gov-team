@@ -40,7 +40,7 @@
 
 ## Key Takeaways
 
-### People feel supported and confident during and immediately after onboarding sessions, but it begins to feel overwhelming when they are on their own.
+### 1. People feel supported and confident during and immediately after onboarding sessions, but it begins to feel overwhelming when they are on their own.
 
 77% of the responses to the following question positive in nature:
 
@@ -72,7 +72,9 @@ A few notable responses to the question, "Now that you’ve started working on V
 
 > Need to streamline the info a little better for clear communication and expectations across teams.
 
-### The learning curve is steep for developers.
+> It would be helpful to explain in onboarding that the process can take a while and it's understood there is not going to be a quick flow of work when first starting. It's sometimes hard to know if there is work one should be doing or if it's just a matter of waiting till everyone is fully onboarded.
+
+### 2. The learning curve is steep for developers.
 
 For devs who haven't worked on the VA.gov platform before, it takes a long time before they feel they can work at their normal pace. They needed to start contributing to their projects faster than they were able to completely finish setting up their machines and learning necessary processes. 
 
@@ -87,6 +89,8 @@ Here are some of the responses to the question asked post-onboarding, _"Are ther
 > Pull request creation
 
 > Google Analytics, 508 accessibility, the correct order of issues/PRs/documentation when creating a new branch of a page.
+
+> **You should not have to do your first project alone and be expected to ask questions on Slack and know what to ask and who to ask.** You should be paired with an experienced engineer (peer) who will work the entire project with you from start-to-finish and show you each step of the processes and help you do the first one. After that you should be fine.
 
 ### We made a lot of adjustments to onboarding based on By Light's experience.
 
