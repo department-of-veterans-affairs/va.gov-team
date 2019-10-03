@@ -92,6 +92,8 @@ Here are some of the responses to the question asked post-onboarding, _"Are ther
 
 > **You should not have to do your first project alone and be expected to ask questions on Slack and know what to ask and who to ask.** You should be paired with an experienced engineer (peer) who will work the entire project with you from start-to-finish and show you each step of the processes and help you do the first one. After that you should be fine.
 
+> There are a lot of tickets in validate on our zenhub board because no one knows who or how to review code.
+
 ### We made a lot of adjustments to onboarding based on By Light's experience.
 
 - Introduced pre-onboarding steps
