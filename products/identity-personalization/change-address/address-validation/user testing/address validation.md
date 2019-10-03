@@ -15,7 +15,7 @@ This Address Override Feature needs UX in various places to allow the Veteran to
   2.  Veteran enters inaccurate address.  The UI will display the entered address and up to 3 address suggestions and allow the Veteran to edit the entered address or the Veteran is required to select 1 address to continue to complete the update.
   3.  Veteran eneters inaccurate address that the database cannot identify.  The UI will display the entered address with no address suggestions and allow the user to edit the address or continue with the address override.
   
-  We have clickable prototypes that map out each of the mentioned UX scenarios and needs user testing to answer several questions regarding the workflwo and UI.
+  We have clickable prototypes that map out each of the mentioned UX scenarios and needs user testing to answer several questions regarding the workflow and UI.
 
 3.  **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
