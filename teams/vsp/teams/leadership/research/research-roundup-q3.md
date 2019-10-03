@@ -78,7 +78,7 @@ A few notable responses to the question, "Now that you’ve started working on V
 
 For devs who haven't worked on the VA.gov platform before, it takes a long time before they feel they can work at their normal pace. They needed to start contributing to their projects faster than they were able to completely finish setting up their machines and learning necessary processes. 
 
-Here are some of the responses to the question asked post-onboarding, _"Are there processes you don’t fully understand. If so, which ones?_"
+Here are some of the responses to the question asked post-onboarding, _"Are there processes you don’t fully understand? If so, which ones?_"
 
 > Setting up my dev environment — but I hope to do that after this next sprint, or in a lull during it, and have a fellow dev to assist if needed.
 
