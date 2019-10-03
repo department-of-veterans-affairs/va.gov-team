@@ -53,7 +53,18 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## Assumptions
 
+1. People don't care about the difference between Profile and Account as much as our internal team does. They think that features we have separated between each section could exist in one section. (This was supported [in discovery](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md#observations-profileaccount)).
+2. Combining Profile and Account will make personal information and settings easier for people to find.
+3. Users will find the new combined Profile/Account to be more digestible if we divide sections in a side navigation.
+4. We need to add additional wayfinding throughout VA.gov to guide people to the new combined Profile/Account.
+
 ## Questions
+
+1. Is a side nav the best approach to organizing information?
+2. Should "My VA" be this new combined Profile/Account?
+3. Will users expect to find benefit information in their "personal information" section?
+4. What are the best ways to guide people to the new combined Profile/Account, and when do people need to be guided there?
+5. Is it a good idea to add multiple links to this new section in the personalized menu, or do we only need one?
 
 ## Requirements
 
