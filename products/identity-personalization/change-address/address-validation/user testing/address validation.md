@@ -1,11 +1,31 @@
-# Research Plan for [Team, Product, Date]
-(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 
+# Research Plan for Authenticated Experience/Personalization: Address Override
 
 ## Goals
-1. What product & team are you doing this research for?
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-4. Hypothesis: What is your hypothesis for this research? 
+1.  **What product & team are you doing this research for?**
+
+Address Override.  Authenticated Experience/Personalization.
+
+2.  **Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
+
+Vet360 is providing Address Validation.  There are several situations where the Veteran will need make choices in order to properly select a more accurate address option or to override provided options and use their entered address. 
+This is sometimes due to the situations where Pitney Bowes Spectrum address database has not yet caught up to the cartographical realities of the US housing market,  and the Veteran should be able to confirm that "yes, this is actually a real address."
+
+This Address Override Feature needs UX in various places to allow the Veteran to complete their address edit workflow easily and accurately.
+  1. Veteran enters accurate address.  If the entered address matches the database address with the highest Confidence Score, the updated address displays on the UI.
+  2.  Veteran enters inaccurate address.  The UI will display the entered address and up to 3 address suggestions and allow the Veteran to edit the entered address or the Veteran is required to select 1 address to continue to complete the update.
+  3.  Veteran eneters inaccurate address that the database cannot identify.  The UI will display the entered address with no address suggestions and allow the user to edit the address or continue with the address override.
+  
+  We have clickable prototypes that map out each of the mentioned UX scenarios and needs user testing to answer several questions regarding the workflwo and UI.
+
+3.  **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
+
+- Is the messaging clear about their entered address - 'Unrecognized' - to the Veteran?
+- Is it
+- Does it cause the Veteran any confusion if the 'Continue/Update/Cancel' buttons on the mobile form
+
+4.  **Hypothesis: What is your hypothesis for this research?**
+
+
 
 ## Method
 1.	What method of research are you planning? 
