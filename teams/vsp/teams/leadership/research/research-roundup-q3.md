@@ -42,7 +42,7 @@
 
 ### 1. People feel supported and confident during and immediately after onboarding sessions, but it begins to feel overwhelming when they are on their own.
 
-77% of the responses to the following question positive in nature:
+77% of the responses to the following question were positive in nature:
 
 _The content of the kickoff meeting felt..._
 
