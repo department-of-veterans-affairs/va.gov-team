@@ -16,7 +16,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about VA.gov and eBenefits. 
+Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about VA benefits. 
 
 Before we start, a few things I want to mention:
 
@@ -28,16 +28,20 @@ Before we start, a few things I want to mention:
 
 *Start recording.*
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?" 
 
 ## Warm-up Questions - 5 minutes
 
-Before we talk about the website, tell me about yourself and your experience with VA benefits.
+Before we talk about the website, tell me about yourself.  
+- Tell me about your background.
+- What has your experience been like with VA benefits?
 
+We are going to be talking about VA benefits today. Just so you know, you don't have to talk about specifics dealing with your personal health if you don't feel comfortable. 
 
 ## Navigation: - 10 minutes
 
 - Are you familiar with the eBenefits website?
+- I'm going to ask you a series of questions about eBenefits. If you can log in and share your screen
 - If yes, tell me abut your experience using eBenefits.
 - If no, tell me about your experience with managing your benefits on VA.gov
 - Can you recall a time you were directed to eBenefits when using the VA.gov website?
@@ -51,9 +55,12 @@ Before we talk about the website, tell me about yourself and your experience wit
 ## Priorities: - 10 minutes
 
 - What are some of the main things you do on the eBenefits website?
+- **share screen - eBenefits** I'm going to share my screen. Walk me through what you use on the eBenefits site. 
 - What are the main differences that you've noticed between eBenefits and VA.gov?
 - Do you think that you are able to achieve what you need to do on eBenefits?
 - Do you use any other websites or tools to help you manage your benefits?
+- Do you use the VA website to manage your benefits?
+- **share screen VA.gov** I'm going to share my screen. Walk me through how you manage your benefits on VA.gov.
 
 ### Things to watch for:
 
@@ -63,8 +70,8 @@ Before we talk about the website, tell me about yourself and your experience wit
 
 ## Features: - 10 minutes
 
-- Are you familiar with Rated Disabilities?
-- If yes, have you used it? What for?
+- Do you have a disability that's rated by the VSA?
+- Have you ever looked up your disability rating, or pending ratings, on eBenefits? If so, why?
 - Do you have dependents under your benefits?
 - If yes, how do you manage their information online?
 - Do you have dependents or caregivers that log into eBenefits on your behalf?
