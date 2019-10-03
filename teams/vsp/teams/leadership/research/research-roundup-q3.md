@@ -5,8 +5,10 @@
 ### Full team onboarding 
 
 - [7/18/19 By Light survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-mvp/Full-team-onboarding-survey-results.md)
-- [9/9/19 VSA eBenefits survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vsa/results-vsa-ebenefits-onboarding.md)
+- [8/12/19 VSA multiple team onboarding (Global UX, Benefits and Appeals, Authenticated Experience)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vsa/Results-VSA-All-Teams-Onboarding-Survey.md)
 - [8/22/19 VAOS survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vaos/vaos-full-team-onboarding-survey-results.md)
+- [9/9/19 VSA eBenefits survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vsa/results-vsa-ebenefits-onboarding.md)
+
 
 ### Engineering onboarding
 
