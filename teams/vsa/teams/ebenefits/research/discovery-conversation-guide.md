@@ -32,7 +32,7 @@ Before we start, a few things I want to mention:
 
 ## Warm-up Questions - 5 minutes
 
-Before we talk about the website, tell me about yourself and your experience using VA.gov and/or eBenefits.
+Before we talk about the website, tell me about yourself and your experience with VA benefits.
 
 
 ## Navigation: - 10 minutes
