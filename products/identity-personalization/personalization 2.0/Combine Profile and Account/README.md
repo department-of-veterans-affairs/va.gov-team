@@ -99,6 +99,8 @@ As the authenticated experience team, we want to be able to do the following:
 
 #### Profile 
 
+[Additional profile screenshots and design files](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Profile/Design)
+
 ![Profile 1.0](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Design/Profile%20with%20direct%20deposit.png)
 
 #### Account
