@@ -27,3 +27,8 @@
 ### Privacy, Security, and Load Testing onboarding
 
 - [10/1/19 VSA - Global UX team survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vsa/results-load-testing-privacy-security-onboarding.md)
+
+### Load Testing onboarding
+
+- [9/20/19 VSA - eBenefits, Benefits and Memorials survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vsa/results-load-testing-ebenefits-benefits-memorials.md)
+- [9/26/19 VSA - Authenticated Experience survey results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-vsa/results-load-testing-authenticated-experience.md)
