@@ -8,7 +8,6 @@
 * 1 - Product Manager
 * 3 - Front-end Engineer
 * 1 - Back-end Engineer
-* 0 - Not very helpful
 * 0 - QA tester
 * 0 - Other
   
