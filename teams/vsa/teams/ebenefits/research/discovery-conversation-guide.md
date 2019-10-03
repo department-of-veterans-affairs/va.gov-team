@@ -74,12 +74,13 @@ We are going to be talking about VA benefits today. Just so you know, you don't 
 - Have you had a disability rating done?
 - Do you have a disability that's rated by the VSA? (or another org?)
 - Have you ever looked up your disability rating, or pending ratings, on eBenefits? If so, why?
+- **share screen Rated Disabilities** Do you use the Rated Disabilities page on eBenefits? Walk me through your thoughts of this page.
 - Do you have dependents under your benefits?
 - If no, why aren't they under your benefits?
-- If yes, how do you manage their information online?
+- If yes, how do you manage their information online? **share screen, Dependents Workflow** 
 - Do you have dependents or caregivers that log into eBenefits on your behalf?
 - Do they log in for their own benefits?
-- Have you ever ordered medical equipment on eBenefits?
+- Have you ever ordered medical equipment on eBenefits? **share screen, Order Workflow** 
 - Explain that experience and how you felt. How long did it take?
 
 ### Things to watch for:
