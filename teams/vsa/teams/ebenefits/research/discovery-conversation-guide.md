@@ -33,7 +33,8 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 Before we talk about the website, tell me about yourself.  
-- Tell me about your background.
+- Tell me about your background and a little about your service history.
+- 
 - What has your experience been like with VA benefits?
 
 We are going to be talking about VA benefits today. Just so you know, you don't have to talk about specifics dealing with your personal health if you don't feel comfortable. 
