@@ -37,6 +37,34 @@ For further elaboration on the problems we aim to solve, please see our [Persona
 - [Comparative analysis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis)
 - [My VA/Profile/Account content analysis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Content%20analysis)
 
+### User Goals
+
+As a user, I want to:
+
+- Be able to quickly complete tasks on VA.gov.
+- Clearly see all the information VA knows about me.
+- Be notified of relevant updates and any actions needed from me.
+
+### Business Goals
+
+As the authenticated experience team, we want to be able to do the following:
+
+- Elevate personally relevant information to users where and how they expect that information to be elevated.
+- Provide clear wayfinding to tasks people need to complete related to their personal experience (eg. refill a prescription, change their address, etc).
+- Update people when the status of their information changes.
+- Have personalized pages that are scalable and allow for feature growth.
+- Reduce redudancy between the existing My VA and VA.gov homepage.
+
+## Assumptions
+
+1. People want us to combine Profile and Account. (We found evidence for this [in discovery](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md#observations-profileaccount)).
+2. We should get rid of My VA in favor of a logged in homepage, OR make the new combined Profile/Account the new My VA.
+
+## Questions
+
+1. Should we get rid of My VA in favor of a logged in homepage?
+2. Should the new My VA actually be the new combined Profile/Account?
+
 ## Projects
 
 ### Combining Profile and Account
