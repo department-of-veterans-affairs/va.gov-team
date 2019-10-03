@@ -117,4 +117,4 @@ From content writers who attended the Privacy, Security, and Load Testing traini
 - Encourage interdisciplinary training among VFS teams, to test the hypothesis that it will foster user-centered design culture and adoption of our processes?
 - Lower/shorten the learning curve for developers new to VA.gov?
 - Continue to iterate the ways we support fully onboarded teams?
-- Incorporate surveys into all of the breakout sessions so that we can get more feedback to iterate our materials? (508, analytics)
+- Incorporate surveys into all of the breakout sessions so that we can get more feedback to iterate our materials? (508, analytics, content & IA)
