@@ -94,13 +94,16 @@ Here are some of the responses to the question asked post-onboarding, _"Are ther
 
 > There are a lot of tickets in validate on our zenhub board because no one knows who or how to review code.
 
-### We made a lot of adjustments to onboarding based on By Light's experience.
+### 3. We made a lot of adjustments to onboarding based on By Light's experience.
 
 - Introduced pre-onboarding steps
 - Eventually retired the Discovery and Logistics workshop because most of that content was covered by the pre-onboarding meetings
 - Introduced the Vagrant box made for GFEs to run a Linux environment
+- Introduced more topical breakout sessions
 
-### VFS teams embrace interdisciplinary training
+What adjustments have we made based on VAOS and VSA's experiences?
+
+### 4. VFS teams embrace interdisciplinary training
 
 Some VSA engineers were mistakenly invited to the weekly content, research, and design meeting. One continues to attend and has learned valuable information, especially from Trevor about 508 resources. 
 
