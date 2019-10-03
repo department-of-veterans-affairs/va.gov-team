@@ -54,7 +54,7 @@ _The content of the kickoff meeting felt..._
 
 > buttery smooth
 
-A few weeks after onboarding, when asked what the biggest challenges were during onboarding, the responses expressed feeling overwhelmed, confused, and lost with the documentation: 
+A few weeks after teams completed onboarding, when asked what the biggest challenges were during onboarding, the responses expressed feeling overwhelmed, confused, and lost with the documentation: 
 
 > DELUGE of information, provided in so many different places.
 
@@ -69,3 +69,32 @@ A few notable responses to the question, "Now that you’ve started working on V
 > Deeper dives to include more GitHub and pull requests training.
 
 > A simple list of the tasks we were asked to do showing why and where it fit in to the big picture. Documentation was thorough and very helpful if you could find it. It was very difficult to find the documentation you were looking for in Git.
+
+> Need to streamline the info a little better for clear communication and expectations across teams.
+
+### The learning curve is steep for developers.
+
+For devs who haven't worked on the VA.gov platform before, it takes a long time before they feel they can work at their normal pace.
+
+Here are some of the responses to the question asked post-onboarding, _"Are there processes you don’t fully understand. If so, which ones?_"
+
+> Setting up my dev environment — but I hope to do that after this next sprint, or in a lull during it, and have a fellow dev to assist if needed.
+
+> most people still do not know how to do pull requests and how they are done and what needs to be reviewed, etc.
+
+> End-to-end testing, approvals. **Since I'm just now getting the code close to being ready I'm nervous about going through whatever the rest of the process is.** **It wasn't clear to me from onboarding. Again, I think you have to go through it at least once before it will make sense. I think an experienced person should pair-program with a new person for 100% of their first project, start-to-finish.**
+
+> Pull request creation
+
+> Google Analytics, 508 accessibility, the correct order of issues/PRs/documentation when creating a new branch of a page.
+
+### We made a lot of adjustments to onboarding based on By Light's experience.
+
+- Introduced pre-onboarding steps
+- Eventually retired the Discovery and Logistics workshop because most of that content was covered by the pre-onboarding meetings
+- Introduced the Vagrant box made for GFEs to run a Linux environment
+
+**How might we continue to iterate the ways we support fully onboarded teams?**
+
+#### How might we...
+- Empower teams
