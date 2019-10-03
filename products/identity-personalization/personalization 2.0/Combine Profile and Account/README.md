@@ -56,9 +56,26 @@ As the authenticated experience team, we want to be able to do the following:
 ## Questions
 
 ## Requirements
-#### In Scope 
 
-#### Out of Scope
+### Goals
+
+1. **Scale gracefully** — Our design approach should allow for future updates and expansion. 
+2. **Prioritize wayfinding** — We should make it easy for users to navigate to their personal information/settings, and we should make it easy find specific pieces of information within this section. 
+3. **Effectively use visual space** — We need to prioritize scanability by using secondary navigation and more effectively employing [the design system](https://design.va.gov/).
+
+### In Scope 
+
+1. Figure out new IA for this combined section.
+2. Navigation
+  - Rename this section.
+  - Figure out what links we want to elevate in the personalized menu.
+3. A new visual approach.
+4. Wayfinding — Figure out how and when to guide people to the Profile.
+
+### Out of Scope
+
+1. Adding any new features to the combined Profile/Account that aren't already in development.  
+  - Notification MVP and disability rating MVP are OK since they are already in development.
 
 ## Solution Approach
 
