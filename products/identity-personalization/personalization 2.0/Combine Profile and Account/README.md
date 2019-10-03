@@ -93,17 +93,16 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## Product Decisions
 
-## Team
-
-- VA Digital Strategist(s): 
-- Product Manager:  
-- Design Lead: 
-- Eng Lead: 
-- Engineers:
-   
 ## Screenshots
 
 ### Before
 
-### After
+#### Profile 
 
+![Profile 1.0](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Design/Profile%20with%20direct%20deposit.png)
+
+#### Account
+
+![Account 1.0](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Account/Design/Account-full-V2.png)
+
+### After
