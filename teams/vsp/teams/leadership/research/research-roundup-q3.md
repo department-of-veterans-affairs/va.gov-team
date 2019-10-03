@@ -100,7 +100,7 @@ Here are some of the responses to the question asked post-onboarding, _"Are ther
 - Eventually retired the Discovery and Logistics workshop because most of that content was covered by the pre-onboarding meetings
 - Introduced the Vagrant box made for GFEs to run a Linux environment
 
-### VFS teams Embrace interdisciplinary training
+### VFS teams embrace interdisciplinary training
 
 Some VSA engineers were mistakenly invited to the weekly content, research, and design meeting. One continues to attend and has learned valuable information, especially from Trevor about 508 resources. 
 
@@ -109,8 +109,6 @@ From content writers who attended the Privacy, Security, and Load Testing traini
 > Not my area, but it's good to have insight into dev goals for load tests.
 
 > I'm not an API engineer so I don't know if I'll write a load test, but I'm glad I won't be clueless if asked about it!
-
-**How might we continue to iterate the ways we support fully onboarded teams?**
 
 #### How might we...
 - Encourage interdisciplinary training among VFS teams, to test the hypothesis that it will foster user-centered design culture and adoption of our processes?
