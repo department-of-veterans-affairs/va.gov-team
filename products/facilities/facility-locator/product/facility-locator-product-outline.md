@@ -117,6 +117,7 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Product Specs
 - Design
 - Roadmap
+- [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md)
 # Team
 - VA.gov Lead: Chris Johnston
 - Product Owner: David Conlon
