@@ -71,7 +71,6 @@ We are going to be talking about VA benefits today. Just so you know, you don't 
 
 ## Features: - 10 minutes
 
-- How do you know figure out if you are eligible for certain benefits?
 - Have you had a disability rating done?
 - Do you have a disability that's rated by the VSA? (or another org?)
 - Have you ever looked up your disability rating, or pending ratings, on eBenefits? If so, why?
