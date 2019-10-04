@@ -149,8 +149,9 @@ React apps live, but not responsible for building the header, footer,
 and other surrounding markup. To make this possible, **I propose we
 have the content build produce an empty React app page template which
 the `vets-website` build script can use to make landing pages for each
-React application.** The new page would then be updated with
-references to the correct JavaScript bundle and CSS files.
+React application.** The `vets-website` build script would then update
+the landing page with references to the correct JavaScript bundle and
+CSS files to bootstrap the application.
 
 The empty React app page would then be deleted or otherwise prevented
 from being served to production.
