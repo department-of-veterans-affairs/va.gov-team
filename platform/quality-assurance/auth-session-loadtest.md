@@ -16,10 +16,10 @@
 5. Click "Build"
     ![alt text][jenkins-build]
 6. Click the new build in the list of builds to the left  
-    ![alt text][jenkins-click-the-build]
-7. Select "Console Output"
+    ![alt text][jenkins-click-the-build]  
+7. Select "Console Output"  
     ![alt text][jenkins-console-output]
-8. Scroll through the output until you see an array of hashes with keys "uuid" and "cookie_header"
+8. Scroll through the output until you see an array of hashes with keys "uuid" and "cookie_header"  
     ![alt text][jenkins-session-cookie-output]
 9. Trim unecessary characters such as escaping until you end up with something like the below
 10. Save the trimmed array to a file named `sessions.json`
