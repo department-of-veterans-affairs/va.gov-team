@@ -17,7 +17,7 @@
     ![Jenkins build example][jenkins-build]
 6. Click the new build in the list of builds to the left  
     ![Jenkins click the build example][jenkins-click-the-build]  
-7. Select "Console Output"  
+7. Select "Console Output" from the menu  
     ![Jenkins console output example][jenkins-console-output]
 8. Scroll through the output until you see an array of hashes with keys "uuid" and "cookie_header"  
     ![Jenkins session cookie output example][jenkins-session-cookie-output]
