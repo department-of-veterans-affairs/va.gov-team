@@ -111,7 +111,7 @@ Claims process always seems to be a little skewed a little bit because I had the
 
 **Veteran:** Yes.
 
-[_Moderator navigatess back to the profile page_]
+[_Moderator navigates back to the profile page_]
 
 **Moderator:** How do you normally get to eBenefits?
 
@@ -133,13 +133,13 @@ Claims process always seems to be a little skewed a little bit because I had the
 
 The first time I made a claim it was through my VSO, through the Legion. I updated it and added additional claims to my rating. Instead of going through my VSO I was able to do it through eBenefits. My last upgrade is through the information I put in eBeneftis. I was trying to add my dependents in for my disabilities and that doesn't work.
 
-**Moderator:** When you went through eBenefits did you do it thorugh this page? [_Disabilities page_]
+**Moderator:** When you went through eBenefits did you do it through this page? [_Disabilities page_]
 
 **Veteran:** Yes. I can't remember what was a little hard - it may have changed because this was a few years ago. My son.. his disbiliity, I had to make a phone call and had whoever email me the VA form that needed to get filled out. It wasn't something I was able to find on the website. The DBQs and all those forms, is it under my documents? Do you have a section under here that says forms that may be needed you can just click on and populate the data in a fillable PDF?
 
-**Moderator:** Is that omething that would be helpful?
+**Moderator:** Is that something that would be helpful?
 
-**Veteran:** I think it would be, especially if it can extrapolate the data fromt he computer system and fill out it out that would be awesome.
+**Veteran:** I think it would be, especially if it can extrapolate the data from the computer system and fill out it out that would be awesome.
 
 **Moderator:** You mentioned having trouble getting your son added. You got all the way through the process and said there was a file missing?
 
@@ -177,7 +177,7 @@ On Facebook, they all complain about the same thing: How do I get a copy of my D
 
 **Veteran:** Yeah here is an example. At the VA we have these old ID cards. The ID cards should've been changed 12-13 years ago, because I remember getting my letter that long ago if not longer. Around 2004-2005, I came up and got my new ID. I just saw a guy yesterday and said, "You know you've got the old ID. If you lose that ID, someone can scan it and with the old technology get your personal information: Social Security number, date of birth, for identify theft." 
 
-If people don't know what they need to know, they listen to people who don't know what they are talking about but they don't know and that's frustrating. I don't know how hard would it be... people would think it would be a scam. You send me an email and I post it on the Marine Corps Facebook page. "Send me one email about something that you want to improve," they would all have the same questions: How can I get my DD214? What am I elgiible for? Can I get the PX? If you took 3 minutes to look... you might find out but you just ask instead.
+If people don't know what they need to know, they listen to people who don't know what they are talking about but they don't know and that's frustrating. I don't know how hard would it be... people would think it would be a scam. You send me an email and I post it on the Marine Corps Facebook page. "Send me one email about something that you want to improve," they would all have the same questions: How can I get my DD-214? What am I elgiible for? Can I get the PX? If you took 3 minutes to look... you might find out but you just ask instead.
 
 **Moderator:** What things do you wish you had known, or have you stumbled upon and found? You mentioned some forms earlier, you mentioned ordering equipment... are there other things that aren't here on the website that would be helpful to have on the eBenefits website?
 
@@ -191,7 +191,7 @@ If people don't know what they need to know, they listen to people who don't kno
 
 **Moderator:** Why is that?
 
-**Veteran:** Because it's stuff that you can get to quicker and you can generate it. There is supposed to be somewhere on eBenefits that I can ask for my DD214. Documents - is that documents that the person has submitted or ones that you can get? I don't remember. They are associated with a claim, you know if they want to get the DD-214 can you get it printed out? Or do you have to wait for it to be mailed? Sometimes it like, "Oh god I didn't realize I had to get my DD-214 to get my disabliity sticker and it takes a few weeks."
+**Veteran:** Because it's stuff that you can get to quicker and you can generate it. There is supposed to be somewhere on eBenefits that I can ask for my DD-214. Documents - is that documents that the person has submitted or ones that you can get? I don't remember. They are associated with a claim, you know if they want to get the DD-214 can you get it printed out? Or do you have to wait for it to be mailed? Sometimes it like, "Oh god I didn't realize I had to get my DD-214 to get my disabliity sticker and it takes a few weeks."
 
 **Moderator:** That makes sense. Is there anything I should know but didn't ask about? 
 
