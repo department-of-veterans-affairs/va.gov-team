@@ -62,9 +62,9 @@ Participant 1 is a retired 20-year Army veteran. They have a spouse living with 
 - Does not often view Dependents screen.
 - Doesn’t look at Dependents unless payment history changes/looks to find changes with award.
 - Has used Dependents view for investigation of changes in benefits.
-- Spouse never logs in, chol;d has logged-in before, but not now, only P1 uses eBenefits.
-- P1 does not order prosthetic supplies, goes to another site, found they were not eligible, uses foreign medical program for prosthetic supplies; myHealtheVet site for support appointments; doesn’t use it now.
-- Uses MyhealtheVet occasionally for records downloads.
+- Spouse never logs in, child has logged-in before, but not now, only P1 uses eBenefits.
+- P1 does not order prosthetic supplies, goes to another site, found they were not eligible, uses foreign medical program for prosthetic supplies; myHealtheVets site for support appointments; doesn’t use it now.
+- Uses myHealtheVets occasionally for records downloads.
 - VA.gov, eBenefits, myHealtheVets are goto sites for P1.
 - P1 is frequent user, feels comfortable with eBenefits, no pain points.
 - Has time to investigate things/was told to look at site and finds helpful things.
