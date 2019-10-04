@@ -4,6 +4,9 @@
 - Related Issue:
 
 ## Background
+The current `vets-website` build script looks like this.
+
+![current build](images/vets-website-build-before-separation.png)
 
 ### Glossary
 This RFC will use the following terms. These terms may or may not be
