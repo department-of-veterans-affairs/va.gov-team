@@ -27,7 +27,7 @@ VSP Insights will perform quarterly KPI check-ins with each team.
 (_Assumption: Insights will develop and deploy the Product Health Tool, which will help minimize the load to Wrangle and Explore the data_)
 
 1. PM Training: Teams should have already set their KPIs. Insights will workshop PMs to develop the following key data-driven product management:
-    - Reviewing KPI Goals (Red-Yellow-Green)
+    - Reviewing KPI Goals & Prioritization (Red-Yellow-Green)
         - Green: Goal
         - Yellow: Warning Zone (with time to make adjustments)
         - Red: Unacceptable Result
