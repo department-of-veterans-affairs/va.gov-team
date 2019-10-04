@@ -47,7 +47,7 @@ Participant 1 is a retired 20-year Army veteran. They have a spouse living with 
 - P1 has eBenefits bookmarked.
 - DS logon changes frequently (password requirement?).
 - Logs-in often to keep account active. 
-###Participant Screen Sharing
+### Participant Screen Sharing
 - P1 logged-in to eBenefits using DS Logon.
 - Went directly to Dashboard. 
 - Navigated to Disabilities to make sure rating hasn’t moved (total rating).
