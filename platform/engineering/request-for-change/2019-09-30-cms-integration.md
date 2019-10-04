@@ -123,12 +123,13 @@ failure is drastically reduced.
 
 ### Changes
 - The `vets-website` build script will no longer build the content
-  - **Possible exception:** We may need to update some things in the
-    pre-built content such as references to the new cache-busted
-    filenames for JS and CSS assets
-  - **Possible exception:** It should still be responsible for building
-    the React pages, which would need to have the surrounding markup
-    come from the templates
+  - **Possible exceptions:**
+	- We may need to update some things in the
+	  pre-built content such as references to the new cache-busted
+	  filenames for JS and CSS assets
+	- It should still be responsible for building the React pages,
+	  which would need to have the surrounding markup come from the
+	  templates
 - There will be a new repo for the content build process
   - This will include scripts and templates
 - There will be a new Jenkins pipeline for building the content
