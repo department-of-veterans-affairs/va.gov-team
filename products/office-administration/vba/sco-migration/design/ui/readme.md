@@ -1,7 +1,7 @@
 
 ## SCO Migration Page InVision Prototypes:
 
-### SCO Migration Page initial prototype:
+### SCO Migration Page initial prototype for v0.0 October 3, 2019:
 Design is based on DSVA's pattern for a hub page and contains accordions to categorize content within the Training & Guides section.
 
 [SCO Migragion Page v0.0](https://bahdigital.invisionapp.com/share/8TIABPGWDNC)
