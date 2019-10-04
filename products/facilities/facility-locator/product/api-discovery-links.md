@@ -1,0 +1,1 @@
+[Facility Data Samples] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/Facility%20Data%20Samples.md)
