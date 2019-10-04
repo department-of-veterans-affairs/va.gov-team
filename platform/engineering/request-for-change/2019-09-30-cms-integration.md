@@ -57,8 +57,8 @@ vagov-content repo.
 
 | Validation | Full build | Content-only build | Preview server |
 | ---------- | ---------- | ------------------ | -------------- |
-| Broken link checking | True | True | False |
-| Accessibility | True | True | False |
+| Broken link checking | True; will fail the build on the `master` branch only | True; will fail the build | False |
+| Accessibility | True; will fail the build | True; will fail the build | False |
 
 The Metalsmith script performs the check for broken internal
 links. This happens before the accessibility tests in the Jenkins
