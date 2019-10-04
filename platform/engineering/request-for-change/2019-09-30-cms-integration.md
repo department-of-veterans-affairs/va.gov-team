@@ -56,6 +56,10 @@ used outside of this RFC.
     - Will not fall back to the cache
   - Uses the JavaScript and CSS assets from the latest full build
   - Runs a limited suite of tests
+- React app page
+  - An HTML file used as the landing page for a React application
+  - Has the normal header and footer
+  - Points to the appropriate assets for the application
 
 ### Metalsmith
 Currently, `vets-website`'s build is managed by Metalsmith, a
@@ -121,9 +125,9 @@ failure is drastically reduced.
 	- We may need to update some things in the
 	  pre-built content such as references to the new cache-busted
 	  filenames for JS and CSS assets
-	- It should still be responsible for building the React pages,
-	  which would need to have the surrounding markup come from the
-	  templates
+	- It should still be responsible for building the pages for React
+	  apps, which would need to have the surrounding markup come from
+	  the templates
 - There will be a new repo for the content build process
   - This will include scripts and templates
 - There will be a new Jenkins pipeline for building the content
@@ -143,13 +147,13 @@ failure is drastically reduced.
 `vets-website` should be responsible for making the pages where the
 React apps live, but not responsible for building the header, footer,
 and other surrounding markup. To make this possible, **I propose we
-have the content build produce an empty React page which the
+have the content build produce an empty React app page which the
 `vets-website` can copy into each place a React app lives.** The new
 page would then be updated with references to the correct JavaScript
 bundle and CSS files.
 
-The empty React page would then be deleted or otherwise prevented from
-being served to production.
+The empty React app page would then be deleted or otherwise prevented
+from being served to production.
 
 ### Beneficial side effects
 - The `vets-website` build will be faster both locally and in Jenkins
