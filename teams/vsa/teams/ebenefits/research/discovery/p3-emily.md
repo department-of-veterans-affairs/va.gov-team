@@ -4,7 +4,7 @@ Friday, October 4, 2019 at 2pm ET
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about VA benefits. 
+**Moderator:** Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about VA benefits. 
 
 Before we start, a few things I want to mention:
 
@@ -15,11 +15,13 @@ Before we start, a few things I want to mention:
 
 **Veteran:** Yes, that's fine.
 
-**Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
+**Moderator: Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
-*Start recording.*
+*[Starts recording.]*
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?" 
+- **Moderator: I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?" 
+
+**Veteran:** Yes.
 
 ## Warm-up Questions - 5 minutes
 
@@ -118,17 +120,6 @@ Claims process always seems to be a little skewed a little bit because I had the
 **Moderator:** You mentioned shortcuts - do you save the eBenefits url? Or a specific page?
 
 **Veteran:** Little bit of both. Trying to remember how your system does it.
-
-- Do you use any other websites or tools to help you manage your benefits?
-- Do you use the VA website to manage your benefits?
-- If no, how are you managing your benefits right now?
-- I'm going to share my screen. **share screen VA.gov** Walk me through how you manage your benefits on VA.gov.
-
-### Things to watch for:
-
-    - Using other sites to get major tasks done
-    - Functionality that exists on other sites that should exist within eBenefits
-    - Most important tasks for user
 
 ## Features: - 10 minutes
 
