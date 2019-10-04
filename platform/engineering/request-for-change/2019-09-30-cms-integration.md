@@ -3,6 +3,37 @@
 - Date: _2019-09-30_
 - Related Issue:
 
+## Motivation
+When any new commits are pushed to a `vets-website` branch, a full
+Jenkins build is triggered. This build attempts to fetch the latest
+content and do some content validation (see [Content
+Validation](#content-validation) for details). This means that **two
+subsequent builds can fail for reasons not introduced in the code.**
+
+The biggest example of this is when the `master` branch build fails
+due to broken links, which will halt the deploy. **Broken links
+prevent unrelated features in React applications from being
+deployed.**
+
+**Example**
+1. Somebody merges a branch into `master`
+1. A full Jenkins build is triggered, which then passes
+1. A broken link is introduced in the CMS
+1. Somebody else merges a branch into `master`
+1. A new full Jenkins build is triggered
+1. The Metalsmith script queries for the latest content with the
+   broken link
+1. Because of this latest content, the `vets-website` `master` build
+   fails, but not because of any changes in `vets-website` code
+
+The goal of this RFC is to determine an approach for separating the
+content build from the `vets-website` Webpack build, so when
+`vets-website` pulls the content to serve up, it's already been built
+and validated. **Build failures due to content issues will be isolated
+to the content build and will not affect `vets-website` builds or
+deploys.** This will improve the overall stability of the
+`vets-website` CI.
+
 ## Background
 The current `vets-website` build script looks like this.
 
@@ -72,37 +103,6 @@ broken links in production.
 Accessibility tests run the aXe checker on all pages found in the
 sitemap. Whenever the accessibility check fails, the Jenkins build
 fails. This happens after the content build and link checker.
-
-## Motivation
-When any new commits are pushed to a `vets-website` branch, a full
-Jenkins build is triggered. This build attempts to fetch the latest
-content and do some content validation (see [Content
-Validation](#content-validation) for details). This means that **two
-subsequent builds can fail for reasons not introduced in the code.**
-
-The biggest example of this is when the `master` branch build fails
-due to broken links, which will halt the deploy. **Broken links
-prevent unrelated features in React applications from being
-deployed.**
-
-**Example**
-1. Somebody merges a branch into `master`
-1. A full Jenkins build is triggered, which then passes
-1. A broken link is introduced in the CMS
-1. Somebody else merges a branch into `master`
-1. A new full Jenkins build is triggered
-1. The Metalsmith script queries for the latest content with the
-   broken link
-1. Because of this latest content, the `vets-website` `master` build
-   fails, but not because of any changes in `vets-website` code
-
-The goal of this RFC is to determine an approach for separating the
-content build from the `vets-website` Webpack build, so when
-`vets-website` pulls the content to serve up, it's already been built
-and validated. **Build failures due to content issues will be isolated
-to the content build and will not affect `vets-website` builds or
-deploys.** This will improve the overall stability of the
-`vets-website` CI.
 
 ## Design
 I propose rearchitecting the `vets-website` build to separate the
