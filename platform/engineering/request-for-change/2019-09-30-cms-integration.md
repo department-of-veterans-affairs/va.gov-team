@@ -158,17 +158,21 @@ from being served to production.
 
 ### Beneficial side effects
 - The `vets-website` build will be faster both locally and in Jenkins
-  - Currently, performing transformations to the content accounts for
-    about half of the time in `yarn build` / `yarn watch` when the
-    cache is used
-  - Pulling the content from Drupal currently takes upwards of a full
-    minute
-	- This is because Drupal has to parse the _massive_ GraphQL query,
-      put together the result, and send back the ~3.7MB response
-  - The sitemap accessibility tests will be performed in the content
-    build
-	- This may not actually speed up the Jenkins build since it's done
-      in parallel with the normal e2e tests
+  - Because the build script wouldn't perform any transformations on
+    the content, this would save about half the build time for
+    developers on their local machines (~20s)
+	- Assuming the cache and the `localhost` buildtype are used
+  - When querying for the latest content, the separated build approach
+    would save upwards of a full minute on `vets-website` builds since
+    it wouldn't have to wait for Drupal to parse the _massive_ GraphQL
+    query, put to gether the result, and send back the multi-megabyte
+    response
+  - The full Jenkins build on `vets-website` would no longer perform
+    the sitemap accessibility tests, which may speed it up
+	- Since these tests are performed in parallel with the normal e2e
+      tests, it's unclear
+	- These tests will still be run—just in the content build because
+      it's a content concern
 - `vets-website` will be isolated from any changes to the way content
   is built
   - Example 1: Rather than querying for all the content at once, the
