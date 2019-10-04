@@ -56,7 +56,7 @@ used outside of this RFC.
     - Will not fall back to the cache
   - Uses the JavaScript and CSS assets from the latest full build
   - Runs a limited suite of tests
-- React app page
+- React app landing page
   - An HTML file used as the landing page for a React application
   - Has the normal header and footer
   - Points to the appropriate assets for the application
@@ -147,14 +147,14 @@ failure is drastically reduced.
 `vets-website` should be responsible for making the pages where the
 React apps live, but not responsible for building the header, footer,
 and other surrounding markup. To make this possible, **I propose we
-have the content build produce an empty React app page template which
-the `vets-website` build script can use to make landing pages for each
-React application.** The `vets-website` build script would then update
-the landing page with references to the correct JavaScript bundle and
-CSS files to bootstrap the application.
+have the content build produce an empty React app landing page
+template which the `vets-website` build script can use to make landing
+pages for each React application.** The `vets-website` build script
+would then update the landing page with references to the correct
+JavaScript bundle and CSS files to bootstrap the application.
 
-The empty React app page would then be deleted or otherwise prevented
-from being served to production.
+The empty React app landing page would then be deleted or otherwise
+prevented from being served to production.
 
 ### Beneficial side effects
 - The `vets-website` build will be faster both locally and in Jenkins
