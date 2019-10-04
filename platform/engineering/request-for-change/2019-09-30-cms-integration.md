@@ -4,7 +4,6 @@
 - Related Issue:
 
 ## Background
-_Explain the current state of the feature._
 
 ### Glossary
 This RFC will use the following terms. These terms may or may not be
@@ -72,9 +71,6 @@ sitemap. Whenever the accessibility check fails, the Jenkins build
 fails. This happens after the content build and link checker.
 
 ## Motivation
-_Why do we want to change the current implementation? What problem(s)
-does the change solve?_
-
 When any new commits are pushed to a `vets-website` branch, a full
 Jenkins build is triggered. This build attempts to fetch the latest
 content and do some content validation (see [Content
@@ -106,11 +102,6 @@ deploys.** This will improve the overall stability of the
 `vets-website` CI.
 
 ## Design
-_Explain the proposed changes in enough detail so that a team member
-with working knowledge of the project could implement the change
-themselves. Bonus points if this is easily mappable to user stories or
-specs._
-
 I propose rearchitecting the `vets-website` build to separate the
 static content building into a process distinct from the website.
 
@@ -188,8 +179,6 @@ Drupal. If this is done before the latest content build is finished,
 the deploy may not have all the latest changes.
 
 ## Risks
-_What are the risks of the proposed changes?_
-
 - The current integration is _so_ complex; it would be easy to
   overlook something while implementing the changes
 
@@ -204,9 +193,6 @@ _What are the risks of the proposed changes?_
   - Could be triggered manually from inside Jenkins or even Drupal
 
 ## Alternatives
-_What other alternatives solutions were considered, why weren't they
-chosen?_
-
 ### Keep on keeping on
 We could change nothing.
 
