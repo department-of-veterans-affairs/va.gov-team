@@ -10,6 +10,7 @@
 1. Start up the SOCKS proxy
 2. Navigate to [this](http://jenkins.vfs.va.gov/job/rake_tasks/job/vets-api-load-test-sessions/) Jenkins task in a browser
 3. Log in to Jenkins
+![alt text][jenkins-login]
 4. Click "Build with Parameters" from the left side of the site
 5. Click "Build"
     - app: vets-api-server
@@ -22,3 +23,5 @@
 10. Save the trimmed array to a file named `sessions.json`
 11. Use the array of sessions in `sessions.json` with Python's [json library](https://docs.python.org/3/library/json.html)
 12. Run your load test
+
+[jenkins-login]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-login.png "Jenkins log in exmaple"
