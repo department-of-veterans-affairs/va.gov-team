@@ -12,3 +12,4 @@
 * \[Lindsey Hattamer\] Build error output
 * \[Johnny Holton\] MVI Upgrade
 * \[Brooks Johnson\] Updating our `fetch` patterns ([RFC](https://github.com/department-of-veterans-affairs/vets-website/pull/10845))
+* \[Chris Valarida\] Redoing CMS/FE build integration ([RFC](https://github.com/department-of-veterans-affairs/va.gov-team/pull/2150))
