@@ -198,6 +198,8 @@ the deploy may not have all the latest changes.
 - Who owns the content build repo?
   - The CMS team?
   - VSP?
+  - Global UX
+    - Given their relationship with the content, this may make the most sense
 - Who owns managing the content build Jenkins pipeline?
   - The same team that owns the repo?
 - What triggers a content build?
