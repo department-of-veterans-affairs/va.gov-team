@@ -43,7 +43,7 @@
     2. Record test results
     3. [Track issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/create-an-issue.md)
     4. Iterate on the story
-    5. Goto 1
+    5. Goto i.
 5. Report results at the end of development
     - Submit results to the VSP Product Support Team by sharing them in #vsp-product-support Slack channel. You may either attach the documents to the channel, or provide shareable links to documents stored in the cloud.
     - For a detailed explanation of expected deliverables see the [deliverables](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/deliverables.md) documentation.  An overview is listed below --
