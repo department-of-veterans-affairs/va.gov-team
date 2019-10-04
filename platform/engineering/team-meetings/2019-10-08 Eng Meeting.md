@@ -8,4 +8,7 @@
 
 # Agenda / notes
 
-* ???
+* \[Rian Fowler\] Flipper and A/B testing / percentage rollouts
+* \[Lindsey Hattamer\] Build error output
+* \[Johnny Holton\] MVI Upgrade
+* \[Brooks Johnson\] Updating our `fetch` patterns ([RFC](https://github.com/department-of-veterans-affairs/vets-website/pull/10845))
