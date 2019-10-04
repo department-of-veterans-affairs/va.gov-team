@@ -101,7 +101,7 @@ Yes, and I go to the dependents page. If I have time I go through all of it to m
 
 **Moderator:** What would be a benefit to you?
 
-**Veteran:** Um... [pauses] There is... I'm trying to remember... What is everyone always asking? They are trying to get a copy of their DD-214. I thought there was some way to do it but I can't think of how to do that here.
+**Veteran:** Um... [_pauses_] There is... I'm trying to remember... What is everyone always asking? They are trying to get a copy of their DD-214. I thought there was some way to do it but I can't think of how to do that here.
 
 Claims process always seems to be a little skewed a little bit because I had the one claim, I gotta go back and look because I don't think it changed everything to have my son back as my dependent. You go back and it says work in progress... Ok it's a finished thing... If you click on something, it comes up and says, "Do you want to finish this claim?" I didn't put in for a claim, I was just looking for information.
 
@@ -109,11 +109,11 @@ Claims process always seems to be a little skewed a little bit because I had the
 
 **Veteran:** Yes.
 
-[Moderator navs back to the profile page]
+[_Moderator navigatess back to the profile page_]
 
 **Moderator:** How do you normally get to eBenefits?
 
-**Veteran:** It depends. I try to take my website that I use and create a document and put all the shortcuts on it and group them so I can be more.. the productivity level is a little higher. So if I go to another computer, I go to my email. You don't always have a floating profile. Some of these systems, you can log into Google and if you log into another place your shortcuts will come but that doesn't always happen. There are different things - I have a document already saved with that information, or it's bookmarked.
+**Veteran:** It depends. I try to take my website that I use and create a document and put all the shortcuts on it and group them so I can be more... the productivity level is a little higher. So if I go to another computer, I go to my email. You don't always have a floating profile. Some of these systems, you can log into Google and if you log into another place your shortcuts will come but that doesn't always happen. There are different things - I have a document already saved with that information, or it's bookmarked.
 
 **Moderator:** You mentioned shortcuts - do you save the eBenefits url? Or a specific page?
 
@@ -172,63 +172,44 @@ The first time I made a claim it was through my VSO, through the Legion. I updat
 
 **Moderator:** How do you use these other sections? [_Scrolls over other navigation items_]
 
-NRD I've looked through a few times, a few sites that were interesting. Employment Center... I usually go to usajobs. What is that? Click on it?
+**Veteran:** NRD I've looked through a few times, a few sites that were interesting. Employment Center... I usually go to usajobs. What is that? Click on it?
 
 [Moderator clicks the Employment Center link and the VA careers and employment page loads]
 
-The VA for Vets... I never really saw that being feasible. Most of this stuff is useful. I'm just going all over the place. Beacuse I'm over 30% disabled, I'm going through Voc Rehab to go to school. That data in that is kind of... you need to learn a little more about things than you do. Because when I first went through, I was told I can't accept another job until I finish my degree because I would lose all my benefits but then I found out that if I don't take a job that's not in my educational plan I can take any job I want. That would've been nice to know earlier.
+**Veteran:** The VA for Vets... I never really saw that being feasible. Most of this stuff is useful. I'm just going all over the place. Beacuse I'm over 30% disabled, I'm going through Voc Rehab to go to school. That data in that is kind of... you need to learn a little more about things than you do. Because when I first went through, I was told I can't accept another job until I finish my degree because I would lose all my benefits but then I found out that if I don't take a job that's not in my educational plan I can take any job I want. That would've been nice to know earlier.
 
-I tell peole my biggest phrase at the va that we learn more by accident than on purpose. It is such a large system that has grown expontentially and there is so much data an d you don't know what you need. Sometimes I come across something online and decide to bookmark it and it ends up being something useful that might be a legacy thing from a different program. I might be more computer literate than other people though and it might be easier for me.
+I tell people my biggest phrase at the VA is that we learn more by accident than on purpose. It is such a large system that has grown expontentially and there is so much data and you don't know what you need. Sometimes I come across something online and decide to bookmark it and it ends up being something useful that might be a legacy thing from a different program. I might be more computer literate than other people though and it might be easier for me.
 
-On FB, they all complain for the same thing - how do I get a copy of my DD214? Can I get this? Can I get that? You would think there is a FAQ that veterans can jus tclick on but are they just being lazy? I'm sure you have fB and other social media sites. And people type in, where is a good place for chicken? and I'm thiknking you could type that into your browser and about 50 different shops would come up. It seems kind of stupid at times.
+On Facebook, they all complain about the same thing: How do I get a copy of my DD214? Can I get this? Can I get that? You would think there is a FAQ that Veterans can just click on but are they just being lazy? I'm sure you have Facebook and other social media sites. And people type in, "where is a good place for chicken?" and I'm thinking you could type that into your browser and about 50 different shops would come up. It seems kind of stupid at times.
 
-**Moderator:** It seems like there is a need for some info to be sufranced based on yoru rating and what access you can get?
+**Moderator:** It seems like there is a need for some information to be surfaced based on your rating and what access you can get?
 
-Yeah here is an example. At the VA we have these old ID cards. The ID cards should've been changed 12-13 years ago, because I remember getting my letter that long ago if not longer. Around 2004 05, I came up and got my new ID. I just saw a guy yesterday and sai,d "you know you've got the old ID. If you lose that ID, someone can scan it with the old tehnology and get your personal informration -ssn, dob for identify theft." If people don't know hat they need to know, they listen to people who don't know what they are talking about but they don'tn know and that's frustrating. I don't know how hard would it be... people would thinki ti would be a scam. You send me an email and I post i on the MC FB page. SEnd me one email that you want to improve, they would all have the same questions: How can I get my DD214? What am I elgiible for? Can I get the PX? If you took 3 minutes to look... you might find out but you just ask instead.
+**Veteran:** Yeah here is an example. At the VA we have these old ID cards. The ID cards should've been changed 12-13 years ago, because I remember getting my letter that long ago if not longer. Around 2004-2005, I came up and got my new ID. I just saw a guy yesterday and said, "You know you've got the old ID. If you lose that ID, someone can scan it and with the old technology get your personal information: Social Security number, date of birth, for identify theft." 
 
-**Moderator:** What things do you wish you had known, or have you stumbled upon and found? You mentioned some forms earlier, you mentioned ordering equipment... are there otehr things that aren't here on the website that would be helpful to have on the ebenefits website?
+If people don't know what they need to know, they listen to people who don't know what they are talking about but they don't know and that's frustrating. I don't know how hard would it be... people would think it would be a scam. You send me an email and I post it on the Marine Corps Facebook page. "Send me one email about something that you want to improve," they would all have the same questions: How can I get my DD214? What am I elgiible for? Can I get the PX? If you took 3 minutes to look... you might find out but you just ask instead.
 
-I odn't know how feasible... If there is a way to put in a link that says, I have a 20% disability. And you can click on that and it lists.. at 20% you are eligible for all of this and possibliy more. At 30%, you get all this and by the way you don't have to pay copays and you get travel pay. If there was a away to make it easier for everytone to understand.
+**Moderator:** What things do you wish you had known, or have you stumbled upon and found? You mentioned some forms earlier, you mentioned ordering equipment... are there other things that aren't here on the website that would be helpful to have on the eBenefits website?
 
-- **share screen Rated Disabilities** Do you use the Rated Disabilities page on eBenefits? Walk me through your thoughts of this page.
-- Do you have dependents under your benefits?
-- If no, why aren't they under your benefits?
-- If yes, how do you manage their information online? **share screen, Dependents Workflow** 
-- Do you have dependents or caregivers that log into eBenefits on your behalf?
-- Do they log in for their own benefits?
-- Have you ever ordered medical equipment on eBenefits? **share screen, Order Workflow** 
-- Explain that experience and how you felt. How long did it take?
-
-### Things to watch for:
-
-    - Pain points within main features
-    - Shortcuts/workarounds
-    - Easy/simple features
-    - Difficult or frustrating mandatory features
+**Veteran:** I don't know how feasible... If there is a way to put in a link that says, I have a 20% disability. And you can click on that and it lists.. at 20% you are eligible for all of this and possibly more. At 30%, you get all this and by the way you don't have to pay copays and you get travel pay. If there was a away to make it easier for everyone to understand.
 
 ## Post-Interview - 5 minutes
 
 **Moderator:**  What is your favorite part about using eBenefits?
 
-The good thing about is that if I'm applying for a governemnet job, I can just go to documents and if I want to generate a new letter for.. what's it called? preference! Employment preference. Being a disabled Vet you get preference over other people. If you want a job at VA you gotta go get this form. Well what form? The documents seem to be more useful than other things.
+**Veteran:** The good thing about is that if I'm applying for a governemnet job, I can just go to documents and if I want to generate a new letter for... what's it called? Preference! Employment preference. Being a disabled Vet you get preference over other people. If you want a job at VA you gotta go get this form. Well what form? The documents seem to be more useful than other things.
 
 **Moderator:** Why is that?
 
-Because it's stuff tat you can get to quickr and you can generate it. There is supposed to be somehwere on ebn that I can ask for my DD214. Documents - ois that docs that the person has submitted or that you can get? I don't remmeber. They are associated with a cliam, you konw if they want to get the dd214 can you get it printed out? Or dio you ahve to wai tfor it to bemailed? Sometimes it liks oh god I didn't realize i had to get my dd214 to get my disabliity sticker and it takes a few weeks.
+**Veteran:** Because it's stuff that you can get to quicker and you can generate it. There is supposed to be somewhere on eBenefits that I can ask for my DD214. Documents - is that documents that the person has submitted or ones that you can get? I don't remember. They are associated with a claim, you know if they want to get the DD-214 can you get it printed out? Or do you have to wait for it to be mailed? Sometimes it like, "Oh god I didn't realize I had to get my DD-214 to get my disabliity sticker and it takes a few weeks."
 
-**Moderator:** Is there anything I should know but didn't ask about? 
+**Moderator:** That makes sense. Is there anything I should know but didn't ask about? 
 
-Not that I can think of.
+**Veteran:** Not that I can think of.
 
 ## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-I appreciate you giving me the opporutnity to talk! Laughs. And all these anonymous observers. Laughs.
+**Veteran:** I appreciate you giving me the opportunity to talk! [_Laughs_] And all these anonymous observers. [_Laughs_]
 
-So now - out of curiosity, me and you are talking. You see this number thing talking - is that someone asking you to ask me questions?
-
-Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? 
-    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
-
-Great, well thank you so much again, and enjoy the rest of your day!
+[_Wrap up_]
