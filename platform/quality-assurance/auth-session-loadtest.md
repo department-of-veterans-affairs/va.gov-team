@@ -21,7 +21,8 @@
     ![alt text][jenkins-console-output]
 8. Scroll through the output until you see an array of hashes with keys "uuid" and "cookie_header"  
     ![alt text][jenkins-session-cookie-output]
-9. Trim unecessary characters such as escaping until you end up with something like the below
+9. Trim unecessary characters such as escaping until you end up with something like the below  
+    ![alt text][jenkins-trimmed-session-cookies]
 10. Save the trimmed array to a file named `sessions.json`
 11. Use the array of sessions in `sessions.json` with Python's [json library](https://docs.python.org/3/library/json.html)
 12. Run your load test
@@ -32,3 +33,4 @@
 [jenkins-click-the-build]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-click-the-build.png "Jenkins click the build example"
 [jenkins-console-output]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-console-output.png "Jenkins console output example"
 [jenkins-session-cookie-output]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-session-cookie-output.png "Jenkins session cookie output example"
+[jenkins-trimmed-session-cookies]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-trimmed-session-cookies.PNG
