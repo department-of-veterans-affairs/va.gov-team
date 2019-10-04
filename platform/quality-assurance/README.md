@@ -18,3 +18,7 @@ The following outline is a set of resources for applying accepted QA techniques 
 ## How/where to get help
 - [How to create an issue for your project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/create-an-issue.md)
 - [Help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/help.md)
+
+## How to include load testing as part of your QA practice
+[Load testing documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
+[How to use authenticated sessions for your load test](https://github.com)
