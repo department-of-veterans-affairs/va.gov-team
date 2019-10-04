@@ -1,8 +1,15 @@
-XML service in http://www.[location].va.gov/services - example http://www.miami.va.gov/services
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/03dd522fd1036a097d6370fc407d0b95a4a33e24/products/health-care/appointments/engineering/design_to_service_mapping_discovery.md
 
-https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/facility-locator/product/api-discovery-links.md
+## [PPMS 4.0 Data Web Service](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/facility-locator-update-outline-18058/Products/Global/Facilities_Locator/community_care/Data%20Web%20Service%20ICD%202019-4-26.docx)
+- Document contains:
+  - Resources, endpoints, requests and responses exposed in the PPMS data web service
+  - Models & Functions currently available to access through the PPMS data web service. Additionally, this document contains 
+  - Sample JSON responses (sample data). 
+  - Available metadata for PPMS via the Data Web Service can be referenced here: [DWS Metadata](https://np.dws.ppms.va.gov/v1.0/$metadata)
+
+## [LocatorAPI.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/api/LocatorApi.js)
+
+## [Config.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/config.js)
 
 ## People
 - Information Architecture: Mikki Northius, @Mikki on Slack
@@ -86,5 +93,5 @@ va.gov products/apps impact: Facility locator queries data acquired from arcgis.
 - Error Handling: Errors are logged to Sentry under the platform-api-<environment> projects.
 - https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ArcGIS.com.md
 
-
+XML service in http://www.[location].va.gov/services - example http://www.miami.va.gov/services
 
