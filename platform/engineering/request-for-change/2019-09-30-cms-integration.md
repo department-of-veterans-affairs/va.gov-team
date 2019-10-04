@@ -162,6 +162,13 @@ prevented from being served to production.
     the content, this would save about half the build time for
     developers on their local machines (~20s)
 	- Assuming the cache and the `localhost` buildtype are used
+  - All the assets from Drupal (PDFs, JPEGs, etc.) will be bundled up
+    in the single content tarball, so instead of making 475 individual
+    requests (as of the time of this writing), there will be only a
+    single request
+	- Saving upwards of 40 - 50 seconds
+	- Saving all the unchanged assets again and again into S3 is not
+      ideal
   - When querying for the latest content, the separated build approach
     would save upwards of a full minute on `vets-website` builds since
     it wouldn't have to wait for Drupal to parse the _massive_ GraphQL
