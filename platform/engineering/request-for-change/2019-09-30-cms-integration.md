@@ -147,10 +147,10 @@ failure is drastically reduced.
 `vets-website` should be responsible for making the pages where the
 React apps live, but not responsible for building the header, footer,
 and other surrounding markup. To make this possible, **I propose we
-have the content build produce an empty React app page which the
-`vets-website` can copy into each place a React app lives.** The new
-page would then be updated with references to the correct JavaScript
-bundle and CSS files.
+have the content build produce an empty React app page template which
+the `vets-website` build script can copy into each place a React app
+lives.** The new page would then be updated with references to the
+correct JavaScript bundle and CSS files.
 
 The empty React app page would then be deleted or otherwise prevented
 from being served to production.
