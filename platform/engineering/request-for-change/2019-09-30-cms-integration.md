@@ -148,9 +148,9 @@ failure is drastically reduced.
 React apps live, but not responsible for building the header, footer,
 and other surrounding markup. To make this possible, **I propose we
 have the content build produce an empty React app page template which
-the `vets-website` build script can copy into each place a React app
-lives.** The new page would then be updated with references to the
-correct JavaScript bundle and CSS files.
+the `vets-website` build script can use to make landing pages for each
+React application.** The new page would then be updated with
+references to the correct JavaScript bundle and CSS files.
 
 The empty React app page would then be deleted or otherwise prevented
 from being served to production.
