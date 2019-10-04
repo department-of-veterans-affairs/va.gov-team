@@ -26,6 +26,7 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 - Facility API Product Owner: Dave Mazik - <David.Mazik@va.gov>
 - VSSC Analyst/Engineer: Chad Holmes - <Chad.Holmes@va.gov>
 - Michael Villeneuve: He runs GEOBISL, and wrote custom queries that pass data from CDW to vets-api.
+- Information Architecture: Mikki Northius, @Mikki on Slack
 
 **VHA business stakeholders**
 
