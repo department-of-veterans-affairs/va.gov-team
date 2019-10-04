@@ -1,6 +1,6 @@
 # Process
 
-![alt text][qaprocess]
+![QA Process Flow Diagram][qaprocess]
 ---
 >Note: The LucidChart link for this process is [here](https://www.lucidchart.com/invitations/accept/64972f0e-ec18-4567-bb62-a9b02390e0c4).  Anyone can edit, export as an image, and upload a new version here.
 
@@ -56,4 +56,4 @@
             - If applicable provide unresolved issues
 
 
-[qaprocess]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/QA-Process-Flow.png "QA Process Flow Diagram"
+[qaprocess]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/images/qa-process-flow.png
