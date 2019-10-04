@@ -6,5 +6,5 @@ Design is based on DSVA's pattern for a hub page to serve as a launching-off poi
 
 [SCO Migragion Page v0.0](https://bahdigital.invisionapp.com/share/8TIABPGWDNC)
 
-![SCO Migration Page v0.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/ui/SCO%20Resources%20-%20All%20Closed%20Accordions%20%40.5x%20100419.png)
+![SCO Migration Page v0.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/ui/SCO%20Migration%20Page%20%40.5x%20100419.png)
 
