@@ -94,6 +94,15 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## KPIs
 
+We need to figure out how to measure the following:
+
+1. Reduced time finding a task (eg. reduced time finding the direct deposit tool or updating contact information).
+2. Reduced abandoment of the profile/account (which we can maybe assumt meant people didn't find what they were looking for).
+
+Other metrics are qualitative:
+
+1. How do these new designs compare and perform in user testing? Can people find information quickly and do they report pages are easy to scan and information is easy to update.
+
 ---
 
 # Implementation Info
