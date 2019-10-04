@@ -21,4 +21,4 @@ The following outline is a set of resources for applying accepted QA techniques 
 
 ## How to include load testing as part of your QA practice
 - [Load testing documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
-- [How to use authenticated sessions for your load test](https://github.com)
+- [How to use authenticated sessions for your load test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/auth-session-loadtest.md)
