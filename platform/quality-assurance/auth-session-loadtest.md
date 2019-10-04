@@ -9,19 +9,26 @@
 ## Steps to create authenticated sessions
 1. Start up the SOCKS proxy
 2. Navigate to [this](http://jenkins.vfs.va.gov/job/rake_tasks/job/vets-api-load-test-sessions/) Jenkins task in a browser
-3. Log in to Jenkins
-![alt text][jenkins-login]
-4. Click "Build with Parameters" from the left side of the site
+3. Log in to Jenkins  
+    ![alt text][jenkins-login]
+4. Click "Build with Parameters" from the left side of the site  
+    ![alt text][jenkins-build-with-parameters]
 5. Click "Build"
-    - app: vets-api-server
-    - environment: vagov-staging
-    - rake_params: <blank>
-6. Click the build
+    ![alt text][jenkins-build]
+6. Click the new build in the list of builds to the left  
+    ![alt text][jenkins-click-the-build]
 7. Select "Console Output"
+    ![alt text][jenkins-console-output]
 8. Scroll through the output until you see an array of hashes with keys "uuid" and "cookie_header"
+    ![alt text][jenkins-session-cookie-output]
 9. Trim unecessary characters such as escaping until you end up with something like the below
 10. Save the trimmed array to a file named `sessions.json`
 11. Use the array of sessions in `sessions.json` with Python's [json library](https://docs.python.org/3/library/json.html)
 12. Run your load test
 
 [jenkins-login]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-login.png "Jenkins log in exmaple"
+[jenkins-build-with-parameters]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-build-with-parameters.png "Jenkins build with parameters example"
+[jenkins-build]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-build.png "Jenkins build example"
+[jenkins-click-the-build]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-click-the-build.png "Jenkins click the build example"
+[jenkins-console-output]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-console-output.png "Jenkins console output example"
+[jenkins-session-cookie-output]: https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/jenkins-session-cookie-output.png "Jenkins session cookie output example"
