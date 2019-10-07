@@ -57,7 +57,7 @@ Jenkins makes a GraphQL query the CMS content API based on given parameters, pul
 |Pros|Cons|
 |----|----|
 |Familiar architecture and process|Somewhat weighty process for minor updates|
-|Can apply existing tests (e.g. link checker, 508)|Inherently slower b/c of tests and checks|
+|Can apply existing tests (e.g. link checker, 508)|Publication is inherently slower b/c of tests and checks|
 |No additional client requests needed after page download|
 |Leverages benefits of GraphQL|
 
