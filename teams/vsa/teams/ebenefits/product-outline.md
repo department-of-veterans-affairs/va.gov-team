@@ -19,7 +19,7 @@
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 - [Features](#features)
-  - Rate Disabilities
+  - [Rate Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)
   - View and Modify Dependents
 
 # Implementation Information
