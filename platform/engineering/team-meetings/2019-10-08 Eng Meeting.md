@@ -8,6 +8,7 @@
 
 # Agenda / notes
 
+* Announcements (Keifer, ...)
 * \[JP Ashenfelter\] CodeClimate Velocity
 * \[Erik Hansen\] Direct Deposit launch
 * \[Rian Fowler\] Flipper and A/B testing / percentage rollouts
