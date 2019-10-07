@@ -109,14 +109,14 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 #### Ticket Estimation
 Teams will use the following complexity estimation to point tickets before Sprint Planning. Teams will adjust points during sprint if required time to complete the ticket changes.
 Points: Complexity Estimate
-1 = ~1 hour
-2 = ~2-4 hour
-3 = ~ 1 day (8-10 hours)
-5 = ~2-4 days
-8 = ~1 week
-13 = ~1 sprint (2 weeks) (this needs to broken down into smaller tickets)
-21 = 1 -2 months
-40 = super epics (2 + months)
+- 1 = ~1 hour
+- 2 = ~2-4 hour
+- 3 = ~ 1 day (8-10 hours)
+- 5 = ~2-4 days
+- 8 = ~1 week
+- 13 = ~1 sprint (2 weeks) (this needs to broken down into smaller tickets)
+- 21 = 1 -2 months
+- 40 = super epics (2 + months)
 
 #### Team Norms
 
