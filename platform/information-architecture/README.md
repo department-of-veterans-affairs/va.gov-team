@@ -4,9 +4,9 @@ In this folder, you'll find information specific to how Information Architecture
 ### How to Reach Us
 
 The Information Architecture points of contact are:  
-- Mikki Northius, IA - Slack name @Mikki
-- Matt Johnson, IA - Slack name @Matt Johnson
-- Megan Kelley, PM - Slack name @megan.kelley
+- Mikki Northius, IA - Slack @Mikki
+- Matt Johnson, IA - Slack @Matt Johnson
+- Megan Kelley, PM - Slack @Megan Kelley
 
 Slack channels: 
 - #vfs-platform-support, #vsp-content-ia
