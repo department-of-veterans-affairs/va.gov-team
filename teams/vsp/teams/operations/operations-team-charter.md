@@ -137,7 +137,8 @@ Points: Complexity Estimate
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf
  - Access to Tools and AWS
    - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md
-
+- VSP Operations Calendar 
+   - We maintain our meetings and OOO here.
 #### Slack:
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
