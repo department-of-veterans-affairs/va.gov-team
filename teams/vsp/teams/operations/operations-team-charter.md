@@ -133,7 +133,7 @@ Points: Complexity Estimate
   - BRD Overview (ping TJ for recording)
   - VA Network overview (ping TJ for recording)
   - CMS build overview (ping TJ for recording)
-- Zenhub
+- Zenhub (if you would want to go over ZH more ping TJ)
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf
  - Access to Tools and AWS
    - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md
