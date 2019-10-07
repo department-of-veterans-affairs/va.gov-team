@@ -9,6 +9,7 @@ Provide reliable infrastructure, secure access controls, and CI/CD tooling to al
 - CI/CD: maintaining build, test, and deployment infrastructure
 - Access management
 - Managing Cloud resources
+- Infrastructure
 
 ## Communications
 
