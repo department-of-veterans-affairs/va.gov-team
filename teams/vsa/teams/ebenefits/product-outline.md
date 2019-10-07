@@ -18,6 +18,9 @@
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
+- [Features](#features)
+  - Rate Disabilities
+  - View and Modify Dependents
 
 # Implementation Information
 - [Status](#status)
