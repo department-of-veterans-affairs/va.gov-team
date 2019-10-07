@@ -37,8 +37,8 @@ Define the landscape of features to be worked on, optimize and migrate as necess
 ### **Workflow + Cadence**
 
 **Stand-up: people & product check-ins**  
-Daily @ 11:30 ET  
-20-25 min  
+Daily @ 2:00pm ET  
+15 min  
 Format:  
 1. General Discussion
 2. What I did yesterday? 
