@@ -89,7 +89,7 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] Document any high-severity bugs for future reference  
 - [ ] Establish contacts for errors to be reported to
   - [ ] Errors get sent directly to the team
-- [ ] Establish steps to take to move feature into staging
+- [ ] Establish steps to take to move feature into [staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md) or within 
 - [ ] Tested in prod with back-of-house people and systems
 
 ## Analytics
