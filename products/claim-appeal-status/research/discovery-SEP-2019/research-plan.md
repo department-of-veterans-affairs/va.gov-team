@@ -22,7 +22,7 @@ We're unable to find data that helps us understand how frequently this issue is 
   - Would they consider uploading a document that is not evidence in the Claim Status tool? If so, why?
 
 ### Hypotheses
-- Veterans are using the Claim Status tool to submit Design Review forms because there isn't a better way to submit them on VA.gov.
+- Veterans are using the Claim Status tool to submit Decision Review forms because there isn't a better way to submit them on VA.gov.
 - There are opportunities to improve the Claim Status tool and appeals content on VA.gov to help Veterans easily understand the process. 
 
 ## Method
