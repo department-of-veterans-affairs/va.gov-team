@@ -1,0 +1,26 @@
+# Data sources
+
+https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/facility-locator/facilities-datasources.md
+
+| **Source** | **Contains** | **Owner** | **Notes** |
+| --- | --- |--- | --- |
+| GIS | VHA facility basic info (address, hours, lat/long, name, type) | | Pulled daily through a Sidekiq job into the vets-api Postgres database |
+| ArcGIS | VBA facility basic info (address, hours, lat/long, name, type) | Backed by a "Facility locator" table in CDW with information provided by the VSSC team. | Pulled daily through a Sidekiq job into the vets-api Postgres database. |  
+| ArcGIS | NCA facility basic info (address, hours, lat/long, name, type) | Backed by a "Facility locator" table in CDW with information provided by the VSSC team. | Pulled daily through a Sidekiq job into the vets-api Postgres database. |
+| ArcGIS | Vet Center facility basic info (address, hours, lat/long, type) | Backed by a "Facility locator" table in CDW with information provided by the VSSC team. | Eventually the plan is for Vet Centers to also come from GIS instead of ArcGIS. |
+| SQL52 | Mental health phone number |  | Pulled daily through a Sidekiq job after the GIS pull and stitched into the services for VHA facilities in base_facilities. |
+| Access to Care | Wait times, satisfaction scores, services provided (except dental) |  | Pulled daily through a Sidekiq job, temporarily placed in Redis, and then stitched into base_facilities table in Postgres. |
+| Dental Services CSV | Dental services | | Built from information in the old ArcGIS endpoint about which facilities offered Dental. In the future, this will be integrated into the CMS |
+| Website URL CSV| Website URLs | Lighthouse maintains spreasheet | Pulled daily from Lighthouse spreadsheet into vets-api. Merged daily by Sidekiq with base_facilities data in Postgres after the GIS/ArcGIS jobs run | |
+| State Cemetery XL | Info on state cemeteries not managed by VA | External team maintains XML, updating it every 3 mos | Pulled daily from an XML file that is checked into vets-api. Sidekiq transforms and inserts the data into base_facilities in Postgres. |
+
+| **Source** | **URL** | **Access** |
+| --- | --- | --- |
+| VHA |  https://gis.va.gov/server/rest/services/VA/FacilitySitePoint_VHA/FeatureServer/0 | VA Network Access |
+| NCA |  https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/NCA_Facilities/FeatureServer/0 | Public |
+| VBA |  https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/VBA_Facilities/FeatureServer/0 | Public |
+| Vet Centers |  https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/VHA_VetCenters/FeatureServer/0 | Public |
+| Dental | | VA Network Access |
+| Satisfaction | https://www.accesstopwt.va.gov/ | Public |
+| Wait times | https://www.accesstocare.va.gov/ | Public |
+| State cemeteries | https://www.cem.va.gov/cems/cems.xml | Public |
