@@ -54,7 +54,7 @@ const replaceUrlLink = async () => {
               addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, true, none`);
               console.log('Replacement results:', file, 'for ', item.newUrl);
             } else {
-              addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, url doesn't exist, none`);
+              addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, url doesn't exist in file, none`);
             }
 
           }

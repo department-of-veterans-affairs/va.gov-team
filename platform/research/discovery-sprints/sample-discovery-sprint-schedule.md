@@ -10,7 +10,7 @@ Identify if you will be doing a two week sprint or a one week sprint and fill ou
 
 **Monday**
 
-- [Kickoff meeting](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoveryTeamKickOff.md) (1 hour)
+- [Kickoff meeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/discovery-team-kickoff.md) (1 hour)
 - Who: Stakeholders, project team
 - Purpose: Review scope, set project up for success
 - Breakout sessions with SMEs

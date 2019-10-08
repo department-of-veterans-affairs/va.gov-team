@@ -19,7 +19,7 @@
   
 2. The **designer** should create a research plan: Create a new .md research plan file. Answer questions on new research plan [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md). This will become the doc you use to track everything, but also the documentation that project teams, research and UX lead, leadership, et al, can use to find your research in the future. Add anything you need to add to make this document work for you. If your team creates research issues and/or epics, you can cross-reference your xxxresearchplan.md file in that as well. 
 
-3. [**Review the researcher checklist!**](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/lead-researcher-checklist-research-projects.md): Below are some common things that you should always plan to do. For a full checklist including reminders for before, during, and after sessions, review the checklist.
+3. [**Review the researcher checklist!**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/lead-researcher-checklist-research-projects.md): Below are some common things that you should always plan to do. For a full checklist including reminders for before, during, and after sessions, review the checklist.
 
 4. **Tell Your Colleagues!** 
 - Share results in #vfs-all-teams, #design, in your product channels, at sprint demos, in design meetings. 
@@ -57,7 +57,7 @@ We have also developed a relationship with a team at VBA who have offered to par
 - [ ] Assume a 2-week turnaround for gathering the right participants, but know that it can be harder & take longer if you are trying to find a very niche population. 
 
 ## Scheduling Sessions
-- [ ] Refer to the [full checklist](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/lead-researcher-checklist-research-projects.md) and resources in the [Scheduling & Running Sessions Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions) for specific guidance. 
+- [ ] Refer to the [full checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/lead-researcher-checklist-research-projects.md) and resources in the [Scheduling & Running Sessions Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions) for specific guidance. 
 - [ ] Involve your team & designers on other teams (as appropriate) in the research itself!
   - Always invite: Lauren Alexanderson (Lacey Higley during July 2019), your Team Lead, PM, content representatives, FE/BE engineers from your team,
   - Consider inviting: other designers and researchers, VA stakeholders. 
