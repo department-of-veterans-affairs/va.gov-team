@@ -27,10 +27,10 @@
 1. Use the array of sessions in `sessions.json` with Python's [json library](https://docs.python.org/3/library/json.html)
 1. Run your load test
 
-[jenkins-login]: /images/jenkins-login.png
-[jenkins-build-with-parameters]: /images/jenkins-build-with-parameters.png
-[jenkins-build]: /images/jenkins-build.png
-[jenkins-click-the-build]: /images/jenkins-click-the-build.png
-[jenkins-console-output]: /images/jenkins-console-output.png
-[jenkins-session-cookie-output]: /images/jenkins-session-cookie-output.png
-[jenkins-trimmed-session-cookies]: /images/jenkins-trimmed-session-cookies.png
+[jenkins-login]: images/jenkins-login.png
+[jenkins-build-with-parameters]: images/jenkins-build-with-parameters.png
+[jenkins-build]: images/jenkins-build.png
+[jenkins-click-the-build]: images/jenkins-click-the-build.png
+[jenkins-console-output]: images/jenkins-console-output.png
+[jenkins-session-cookie-output]: images/jenkins-session-cookie-output.png
+[jenkins-trimmed-session-cookies]: images/jenkins-trimmed-session-cookies.png
