@@ -3,7 +3,6 @@ const fs = require('fs');
 const querystring = require('querystring');
 const path = require('path');
 const recursive = require("recursive-readdir");
-const replace = require('replace-in-file');
 
 const getRepoName = (url) => {
   const splitUrl = url.split('/');
@@ -31,25 +30,33 @@ const replaceUrlLink = async () => {
   removeLogFile();
   const json = await csvtojson().fromFile('repo-url-replace.csv');
 
-  addToLog('file, oldUrl, newUrl, replaced, error');
+  addToLog('file, oldUrl, newUrl, result, error');
 
   recursive("../platform", function (err, files) {
     files.forEach((file) => {
       const fileContent = fs.readFileSync(file).toString();
 
-      if (fileContent.includes('https://github.com/department-of-veterans-affairs/vets.gov-team/')) {
+      if (
+        fileContent.includes(
+          'https://github.com/department-of-veterans-affairs/vets.gov-team/'
+        ) ||
+        fileContent.includes(
+          'https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/'
+        )
+      ) {
         json.forEach(async item => {
           try {
-            console.log(`replacing ${file} with ${item.newUrl}`);
+            if (fileContent.includes(item.oldUrl)) {
+              const replacedContent = fileContent.replace(new RegExp(item.oldUrl, 'g'), item.newUrl);
 
-            const results = await replace({
-              files: file,
-              from: item.oldUrl,
-              to: item.newUrl,
-            });
-debugger
-            addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, ${results.hasChanged}, error`);
-            console.log('Replacement results:', results);
+              fs.writeFileSync(file, replacedContent);
+
+              addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, true, none`);
+              console.log('Replacement results:', file, 'for ', item.newUrl);
+            } else {
+              addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, url doesn't exist, none`);
+            }
+
           }
           catch (error) {
             debugger

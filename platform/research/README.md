@@ -33,7 +33,7 @@ The following list is a set of resources compiled by the people in your practice
     - [How to use GoToMeeting](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/GoTo%20Meeting%20Instructions.md)
     - [Session logistics email templates](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/session-logistics-email-templates.md)
 - [Synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis)
-    - [Session report template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/Session%20Report%20Template.md)
+    - [Session report template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/session-report-template.md)
     - [How to do research synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/how-to-do-research_synthesis.md)
     - [How to use Reframer](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/how-to-use-reframer.md)
     - [What to do with recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/what-to-do-with-recordings.md)
