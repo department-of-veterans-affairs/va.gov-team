@@ -46,7 +46,7 @@
     5. Goto i.
 5. Report results at the end of development
     - Submit results to the VSP Product Support Team by sharing them in #vsp-product-support Slack channel. You may either attach the documents to the channel, or provide shareable links to documents stored in the cloud.
-    - For a detailed explanation of expected deliverables see the [deliverables](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/deliverables.md) documentation.  An overview is listed below --
+    - For a detailed explanation of expected deliverables see the [deliverables](deliverables.md) documentation.  An overview is listed below --
         1. [Test plan](https://drive.google.com/open?id=1wIopTHMqKmRhhl92H5CogKQP4iYmjZjR)
         2. [Test cases](https://drive.google.com/open?id=1Tkim8srrMdDMztG0Du_yZ60DYgVOJPLk)
         3. [Test case execution logs](https://drive.google.com/open?id=1HXW2b__NByMugChsDlOYkedFIUUoJSFh)
