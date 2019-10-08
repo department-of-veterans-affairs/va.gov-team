@@ -4,8 +4,8 @@
 - Document contains:
   - Resources, endpoints, requests and responses exposed in the PPMS data web service
   - Models & Functions currently available to access through the PPMS data web service. Additionally, this document contains 
-  - Sample JSON responses (sample data). 
-  - Available metadata for PPMS via the Data Web Service can be referenced here: [DWS Metadata](https://np.dws.ppms.va.gov/v1.0/$metadata)
+- Sample JSON responses (sample data). 
+- Available metadata for PPMS via the Data Web Service can be referenced here: [DWS Metadata](https://np.dws.ppms.va.gov/v1.0/$metadata)
   
 ## Example Facility Locator request: 
 - Miami, FL as the starting address with a radius of 50 miles, a max drive time of 25 Minutes, max 25 results returned. The Request is also filtering on providers who are specialized in Urology, Internal Medicine, or Ophthamology, are with any network and any gender.
