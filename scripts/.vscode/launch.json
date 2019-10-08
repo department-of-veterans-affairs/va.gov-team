@@ -11,7 +11,7 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
-        "repo-deprecation"
+        "repo-deprecation:inspect"
       ],
       "port": 9229
     },
@@ -22,7 +22,7 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
-        "repo-url-replace"
+        "repo-url-replace:inspect"
       ],
       "port": 9229
     },

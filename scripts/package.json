@@ -5,8 +5,10 @@
   "main": "repo-move.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "repo-deprecation": "node --inspect-brk repo-add-deprecation-message.js",
-    "repo-url-replace": "node --inspect-brk repo-replace-url.js"
+    "repo-deprecation": "node run repo-add-deprecation-message.js",
+    "repo-url-replace": "node run repo-replace-url.js",
+    "repo-deprecation:inspect": "node inspect repo-add-deprecation-message.js",
+    "repo-url-replace:inspect": "node inspect repo-replace-url.js"
   },
   "keywords": [],
   "author": "",
