@@ -31,24 +31,33 @@ const replaceUrlLink = async () => {
   removeLogFile();
   const json = await csvtojson().fromFile('repo-url-replace.csv');
 
-  recursive("../", function (err, files) {
-    files.forEach((file) => {
-      json.forEach(async item => {
-        try {
-          const results = await replace({
-            files: file,
-            from: item.oldUrl,
-            to: item.newUrl,
-          });
+  addToLog('file, oldUrl, newUrl, replaced, error');
 
-          debugger
-          console.log('Replacement results:', results);
-        }
-        catch (error) {
-          debugger
-          console.error('Error occurred:', error);
-        }
-      })
+  recursive("../platform", function (err, files) {
+    files.forEach((file) => {
+      const fileContent = fs.readFileSync(file).toString();
+
+      if (fileContent.includes('https://github.com/department-of-veterans-affairs/vets.gov-team/')) {
+        json.forEach(async item => {
+          try {
+            console.log(`replacing ${file} with ${item.newUrl}`);
+
+            const results = await replace({
+              files: file,
+              from: item.oldUrl,
+              to: item.newUrl,
+            });
+debugger
+            addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, ${results.hasChanged}, error`);
+            console.log('Replacement results:', results);
+          }
+          catch (error) {
+            debugger
+            addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, false, ${error}`);
+            console.error('Error occurred:', error);
+          }
+        })
+      }
     });
   });
 }
