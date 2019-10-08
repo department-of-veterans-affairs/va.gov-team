@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+describe("CSVError", function () {
+    it("should toString()", function () {
+    });
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiL1VzZXJzL2t4aWFuZy93b3JrL3Byb2plY3RzL2NzdjJqc29uL3NyYy9DU1ZFcnJvci50ZXN0LnRzIiwic291cmNlcyI6WyIvVXNlcnMva3hpYW5nL3dvcmsvcHJvamVjdHMvY3N2Mmpzb24vc3JjL0NTVkVycm9yLnRlc3QudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7QUFFQSxRQUFRLENBQUMsVUFBVSxFQUFDO0lBQ2xCLEVBQUUsQ0FBRSxtQkFBbUIsRUFBQztJQUN4QixDQUFDLENBQUMsQ0FBQTtBQUNKLENBQUMsQ0FBQyxDQUFBIiwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IENTVkVycm9yIGZyb20gXCIuL0NTVkVycm9yXCI7XG5pbXBvcnQgYXNzZXJ0IGZyb20gXCJhc3NlcnRcIjtcbmRlc2NyaWJlKFwiQ1NWRXJyb3JcIiwoKT0+e1xuICBpdCAoXCJzaG91bGQgdG9TdHJpbmcoKVwiLCgpPT57XG4gIH0pXG59KSJdfQ==
