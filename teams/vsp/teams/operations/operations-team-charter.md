@@ -36,7 +36,6 @@ _Link to agile roadmap_
 
 Other Member that contribute to our Team's mission
 - DevOps Engineer - William Ryan
-- DevOps Engineer - Cameron Testerman
 - DevOps Engineer - Glen Stevenson
 
 ---
