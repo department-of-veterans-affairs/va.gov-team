@@ -25,6 +25,8 @@ const removeLogFile = () => {
 
 const deprecateRepo = async () => {
   removeLogFile();
+  addToLog('index, file, result');
+
   const json = await csvtojson().fromFile('repo-deprecation.csv');
 
   json.forEach((fileInfo, i) => {
@@ -32,10 +34,6 @@ const deprecateRepo = async () => {
     const filePath = fileInfo.url.split('master/')[1];
     const convertQueryStringToPath = Object.keys(querystring.parse(filePath))[0];
     const fullFilePath = `../../${repoName}/${convertQueryStringToPath}`;
-
-    if (i === 0) {
-      addToLog('index, file, result');
-    }
 
     if (fs.statSync(fullFilePath).isFile() && path.extname(fullFilePath) === '.md') {
       fs.writeFile(fullFilePath, `# ${fileInfo.messagingToBeAdded}`, (err) => {

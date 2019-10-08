@@ -28,9 +28,9 @@ const removeLogFile = () => {
 
 const replaceUrlLink = async () => {
   removeLogFile();
-  const json = await csvtojson().fromFile('repo-url-replace.csv');
-
   addToLog('file, oldUrl, newUrl, result, error');
+
+  const json = await csvtojson().fromFile('repo-url-replace.csv');
 
   recursive("../platform", function (err, files) {
     files.forEach((file) => {
@@ -59,7 +59,6 @@ const replaceUrlLink = async () => {
 
           }
           catch (error) {
-            debugger
             addToLog(`${file}, ${item.oldUrl}, ${item.newUrl}, false, ${error}`);
             console.error('Error occurred:', error);
           }
