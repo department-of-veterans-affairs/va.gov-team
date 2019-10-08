@@ -13,7 +13,7 @@
       - Error messages
       - Stack trace
     - Expected behavior
-4. Assign applicable labels.  Consider labels for:
+4. Assign applicable labels.  Include labels for:
     - Issue type
     - Team name
     - Product name
