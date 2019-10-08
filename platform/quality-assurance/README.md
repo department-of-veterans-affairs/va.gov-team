@@ -11,17 +11,17 @@ The Quality Assurance practice area points of contact are:
 
 ## QA expectations for VFS teams
 The following outline is a set of resources for applying accepted QA techniques on VA.gov.  If you need help with anything, please post your questions or comments to the Slack channel listed above or directly contact the listed POCs via Slack.
-- [Process for designing and executing a QA test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/process.md)
-- [Technologies used for creating and executing all aspects of a QA test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/technologies.md)
-- [Deliverables at the completion of test activities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/deliverables.md)
+- [Process for designing and executing a QA test plan](process.md)
+- [Technologies used for creating and executing all aspects of a QA test plan](technologies.md)
+- [Deliverables at the completion of test activities](deliverables.md)
 
 ## How/where to get help
-- [How to create an issue for your project](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/create-an-issue.md)
-- [Requesting help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/help.md)
+- [How to create an issue for your project](create-an-issue.md)
+- [Requesting help](help.md)
 
 ## How to include end to end (E2E) testing as part of your QA practice
 - [End-to-end test documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test)
 
 ## How to include load testing as part of your QA practice
 - [Load testing documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
-- [How to use authenticated sessions for your load test](https://github.com/department-of-veterans-affairs/va.gov-team/blob/peter-qa/platform/quality-assurance/auth-session-loadtest.md)
+- [How to use authenticated sessions for your load test](auth-session-loadtest.md)
