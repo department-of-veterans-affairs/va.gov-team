@@ -1,7 +1,7 @@
 # How to Create an Issue
 
 1. Navigate to relevant repo in GitHub.  Example: [vets-website](https://github.com/department-of-veterans-affairs/vets-website/issues)
-2. Click New Issue
+2. Click "New Issue"
 3. Include relevant details required to reproduce the issue
     - Describe the device on which the issue was encountered
       - Device
