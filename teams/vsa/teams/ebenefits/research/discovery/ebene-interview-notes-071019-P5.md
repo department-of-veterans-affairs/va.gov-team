@@ -4,8 +4,8 @@
 #### Participants: 1
 #### Session Recorded: Yes
 #### Note-taker: J. Adams
-## Participant 1
-Participant 1 is a retired 20-year Army veteran. They have a spouse living with them abroad, and they have an adult child not living with them. The particpant has service-related injuries, and uses a prosthetic device. The participant verbally agreed to have their auidio and screen recorded for research purposes.
+## Participant 5
+Participant 5 served in the Army during the 1990's. The participant verbally agreed to have their auidio and screen recorded for research purposes.
 ### About the Participant
 - Is familiar with benefits.
 - Verbal agreement with being recorded
