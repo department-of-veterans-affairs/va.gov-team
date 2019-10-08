@@ -13,6 +13,7 @@ https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/produ
 | Dental Services CSV | Dental services | | Built from information in the old ArcGIS endpoint about which facilities offered Dental. In the future, this will be integrated into the CMS |
 | Website URL CSV| Website URLs | Lighthouse maintains spreasheet | Pulled daily from Lighthouse spreadsheet into vets-api. Merged daily by Sidekiq with base_facilities data in Postgres after the GIS/ArcGIS jobs run | |
 | State Cemetery XL | Info on state cemeteries not managed by VA | External team maintains XML, updating it every 3 mos | Pulled daily from an XML file that is checked into vets-api. Sidekiq transforms and inserts the data into base_facilities in Postgres. |
+| PPMS | Provider info | |Web service | 
 
 | **Source** | **URL** | **Access** |
 | --- | --- | --- |
@@ -24,3 +25,4 @@ https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/produ
 | Satisfaction | https://www.accesstopwt.va.gov/ | Public |
 | Wait times | https://www.accesstocare.va.gov/ | Public |
 | State cemeteries | https://www.cem.va.gov/cems/cems.xml | Public |
+| PPMS| https://np.dws.ppms.va.gov/v1.0/$metadata | VA Network Access | 
