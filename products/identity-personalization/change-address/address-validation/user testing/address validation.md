@@ -20,58 +20,88 @@ This Address Override feature requires UX in various places to allow the Veteran
 
 3.  **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
-- Is the messaging clear to the Veteran about their entered address if the database does not recognize it?
+- Is the messaging clear to the Veteran about their entered address if the system does not recognize it?
 - Is it clear to the Veteran on how to proceed by selecting their entered address or an address suggestion?
+- Is it clear to the Veteran what to do when the system has no address suggestions to display?
 - Is it clear to the Veteran on how to edit their entered address?
 - Is it clear to the Veteran that they can go back to the address suggestion screen before they confirm the address update?
 - Does it cause the Veteran any confusion if the 'Continue/Update/Cancel' buttons on the mobile form?
+- Is it clear to the Veteran that the address has been updated or cannot be updated?
 
 4.  **Hypothesis: What is your hypothesis for this research?**
 
-
+- Veterans will understand how to edit their mailing address from their profile
+- Veterans will understand why we display the alert if the system does not recognize their entered address
+- Veterans will find it easier to make a choice if we select the best address suggestion option by default
+- Veterans will be able to complete the process and feel confident their address has been updated
 
 
 ## Method
-1.	What method of research are you planning? 
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated
+1.	**What method of research are you planning?** 
   
-2.	Why this method? How does this methodology help you answer your research questions? 
+Usability testing with high fidelity prototypes.  Will have the user share their screen and walk through how to update a 
+mailing address.This testing will be done remotely.
+  
+2.	**Why this method? How does this methodology help you answer your research questions?**
 
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
+This usability testing will help us understand if there are any pain points or confusing elements to the 'update mailing address' workflow and how we can better optimize the UX.
 
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
+3.	**Where are you planning to do your research?**
 
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+This research will be done remotely, using GoTo Meeting.
+
+4.	**What will you be testing?** *(Design mocks, card sort, prototype, page, content, etc.)* 
+
+Updating the mailing address from a profile screen using clickable, high fidelity prototypes.
+
+5.  **If remote: What tool do you plan to use**
+
+GoTo Meeting
 
 ## Participants and Recruitment
-1.	Participant criteria: What are you looking for in a participant?
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
+1.	**Participant criteria: What are you looking for in a participant?**
 
-2.	What is your recruitment strategy? 
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+- People who use Va.gov
+- People who have updated their mailing address on the Va.gov profile
+- People who may need to update their address in the near future (or have recently updated it) on another system (Post Office, etc)
+
+We would also like at least one participant that is:
+- A female
+- A person of color
+- Under 40
+
+2.	**What is your recruitment strategy?** 
+
+We will work with Perigean to recruit for this research study.
 
 ## When? 
-1.	Timeline: What dates do you plan to do research? 
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 
+1.	**Timeline: What dates do you plan to do research?** 
+TBD based on remaining technical discovery of the feature
 
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
+2.	**Prepare: When will the thing you are testing be ready?** 
+TBD - Design are completed but may change slightly due to technical discovery this week.
 
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
+3. **Length of Sessions: How long do you estimate each session will be?** 
 
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
+10-15 minutes per session.
 
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+4.	**Availability: If applicable, when would you like sessions scheduled?** **Please list exact dates and times in EASTERN Standard Time**. 
+
+TBD
+
+5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
+
+2 days before research sessions begin.
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
-- Moderator:
-- Research guide writing and task development (usually but not always same as moderator):
-- Participant recruiting & screening:
-- Project point of contact:
-- Participant(s) for pilot test:
-- Note-takers:
-- Observers:
+- Moderator: Arthur Green
+- Research guide writing and task development (usually but not always same as moderator): Arthur Green
+- Participant recruiting & screening: Perigean
+- Project point of contact: Arthur Green
+- Participant(s) for pilot test: N/A
+- Note-takers: TBD
+- Observers: Justin Pickett, Erik Hansen, Samara Strauss, Lisa Koenigsberg, Lihan Li, Amen Ra
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
