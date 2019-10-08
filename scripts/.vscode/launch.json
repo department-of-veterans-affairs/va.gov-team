@@ -18,8 +18,13 @@
     {
       "type": "node",
       "request": "launch",
-      "name": "Launch Program",
-      "program": "${workspaceFolder}/repo-add-deprecation-message.js"
-    }
+      "name": "Repo Replace Url",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "run",
+        "repo-url-replace"
+      ],
+      "port": 9229
+    },
   ]
 }
