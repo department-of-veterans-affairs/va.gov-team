@@ -6,7 +6,7 @@ This document is meant as a way to assist a member of the VSP Operations team to
 
 A great introduction to start is the [TechnicalArchitectureOverview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/TechnicalArchitectureOverview.md) page.
 
-This is an There's also some high level documentation about how the [VA Enterprise Cloud transit VPC is constructed](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/aws-dx-transit-spoke-architecture/architecture.md) and how the platform fits within that ecosystem. This document is from the initial implementation phase, but from a high level a lot of the main constructs are still there.
+There's also some high level documentation about how the [VA Enterprise Cloud transit VPC is constructed](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/aws-dx-transit-spoke-architecture/architecture.md) and how the platform fits within that ecosystem. This document is from the initial implementation phase, but from a high level a lot of the main constructs are still there. We also have a video of an overview of the [VA network overall](https://dsva.slack.com/archives/C0S6H6BQU/p1569526014067200) that is super helpful.
 
 Speaking of VAEC and how things fit together, some introductions to the organization [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/VA-IT-Organization-and-Contacts.md).
 
@@ -36,9 +36,11 @@ You should ensure you have:
 
 ### Build/Release/Deploy
 
-Ansible is broken down into three distinct phases for deployments. An overview of how this work can be found in that  [repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible#buildreleasedeploy).
+Ansible is broken down into three distinct phases for deployments. 
 
-TODO: demo app documentation
+We have an [introduction slide deck](https://docs.google.com/presentation/d/1LrnoFoa8-Y_ZiVXHCk65lVk0aq1QT6v4KiFvexnF7KI/edit#slide=id.p) for high level concepts and a jumping off point to start working, and a [video of the presentation](https://dsva.slack.com/archives/CJYRZK2HH/p1570562096120000). And a more technical introduction video is [here](https://drive.google.com/file/d/1XthRYrCBIVI6LMQzP4TfL0J2cOuOv2pL/view?ts=5d8feece)
+
+Also see the README in the [ansible directory](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible#buildreleasedeploy).
 
 ### Jenkins
 
