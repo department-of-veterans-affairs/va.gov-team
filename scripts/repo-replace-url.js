@@ -26,7 +26,7 @@ const removeLogFile = () => {
   }
 };
 
-const findAndReplaceUrl = (files) => {
+const findAndReplaceUrl = (json, files) => {
   files.forEach((file) => {
     const fileContent = fs.readFileSync(file).toString();
 
@@ -68,19 +68,19 @@ const replaceUrlLink = async () => {
   const json = await csvtojson().fromFile('repo-url-replace.csv');
 
   recursive("../platform", function (err, files) {
-    findAndReplaceUrl(files)
+    findAndReplaceUrl(json, files)
   });
 
   recursive("../products", function (err, files) {
-    findAndReplaceUrl(files)
+    findAndReplaceUrl(json, files)
   });
 
   recursive("../docs", function (err, files) {
-    findAndReplaceUrl(files)
+    findAndReplaceUrl(json, files)
   });
 
   recursive("../teams", function (err, files) {
-    findAndReplaceUrl(files)
+    findAndReplaceUrl(json, files)
   });
 }
 
