@@ -3,7 +3,7 @@
 ## Things you need
 1. [SOCKS proxy access](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/internal-tools/)
 2. [Access to internal tools](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/internal-tools/) (specifically Jenkins, but if you have access to one then you tend to have access to all)
-3. Access to [Devops](https://github.com/department-of-veterans-affairs/devops) repository
+3. Access to [`devops`](https://github.com/department-of-veterans-affairs/devops) repository
 4. A terminal (For example: Bash, [GitBash](https://gitforwindows.org/), [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10), MacOS terminal)
 
 ## Steps to create authenticated sessions
