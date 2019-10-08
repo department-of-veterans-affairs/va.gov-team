@@ -1,5 +1,5 @@
 # Sprint 1
-8/14/19 - 8/27/19
+7/31/19 - 8/13/19
 
 ## Leadership Team
 - Share Spotify Squad videos w/full team
