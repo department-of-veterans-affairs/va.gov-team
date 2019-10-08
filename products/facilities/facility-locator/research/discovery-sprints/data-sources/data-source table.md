@@ -5,9 +5,9 @@ https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/produ
 | **Source** | **Contains** | **Owner** | **Notes** |
 | --- | --- |--- | --- |
 | GIS | VHA facility basic info (address, hours, lat/long, name, type) | | Pulled daily through a Sidekiq job into the vets-api Postgres database |
-| ArcGIS | VBA facility basic info (address, hours, lat/long, name, type) | Backed by a "Facility locator" table in CDW with information provided by the VSSC team. | Pulled daily through a Sidekiq job into the vets-api Postgres database. |  
-| ArcGIS | NCA facility basic info (address, hours, lat/long, name, type) | Backed by a "Facility locator" table in CDW with information provided by the VSSC team. | Pulled daily through a Sidekiq job into the vets-api Postgres database. |
-| ArcGIS | Vet Center facility basic info (address, hours, lat/long, type) | Backed by a "Facility locator" table in CDW with information provided by the VSSC team. | Eventually the plan is for Vet Centers to also come from GIS instead of ArcGIS. |
+| ArcGIS | VBA facility basic info (address, hours, lat/long, name, type) | ESRI Support, GeoBISL POC is Michael Villeneuve (michael.villeneuve@va.gov) | Pulled daily through a Sidekiq job into the vets-api Postgres database. Backed by a "Facility locator" table in CDW with information provided by the VSSC team. |  
+| ArcGIS | NCA facility basic info (address, hours, lat/long, name, type) | ESRI Support, GeoBISL POC is Michael Villeneuve (michael.villeneuve@va.gov)  | Pulled daily through a Sidekiq job into the vets-api Postgres database. Backed by a "Facility locator" table in CDW with information provided by the VSSC team. |  
+| ArcGIS | Vet Center facility basic info (address, hours, lat/long, type) | ESRI Support, GeoBISL POC is Michael Villeneuve (michael.villeneuve@va.gov) | Pulled daily through a Sidekiq job into the vets-api Postgres database. Backed by a "Facility locator" table in CDW with information provided by the VSSC team. |  
 | SQL52 | Mental health phone number |  | Pulled daily through a Sidekiq job after the GIS pull and stitched into the services for VHA facilities in base_facilities. |
 | Access to Care | Wait times, satisfaction scores, services provided (except dental) |  | Pulled daily through a Sidekiq job, temporarily placed in Redis, and then stitched into base_facilities table in Postgres. |
 | Dental Services CSV | Dental services | | Built from information in the old ArcGIS endpoint about which facilities offered Dental. In the future, this will be integrated into the CMS |
