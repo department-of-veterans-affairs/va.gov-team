@@ -6,7 +6,7 @@ https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Extern
 - Sidekiq worker: https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/workers/facilities/access_data_download.rb
 - Client implementation: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/bulk_json_client.rb
 
-## Example
+## [Example](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/VHA%20Access%20to%20Care.md)
 
 frozen_string_literal: true
 
@@ -151,6 +151,32 @@ module Facilities
 
       pwt_client = Facilities::AccessWaitTimeClient.new
       update_wait_time_data(pwt_client)
+    end
+  end
+end
+
+## [Json](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/bulk_json_client.rb)
+
+frozen_string_literal: true
+
+require 'common/client/base'
+require 'facilities/bulk_configuration'
+
+module Facilities
+  class AccessWaitTimeClient < Common::Client::Base
+    configuration Facilities::AccessWaitTimeConfiguration
+
+    def download
+      perform(:get, 'atcapis/v1.1/patientwaittimes', {}, nil).body
+    end
+  end
+
+  class AccessSatisfactionClient < Common::Client::Base
+    configuration Facilities::AccessSatisfactionConfiguration
+
+    def download
+      query = { 'location' => '*' }
+      perform(:get, 'Shep/getRawData', query, nil).body
     end
   end
 end
