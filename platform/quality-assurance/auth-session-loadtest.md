@@ -8,7 +8,7 @@
 
 ## Steps to create authenticated sessions
 1. Start up the SOCKS proxy
-2. Navigate to [this](http://jenkins.vfs.va.gov/job/rake_tasks/job/vets-api-load-test-sessions/) Jenkins task in a browser
+2. Navigate to the [vets-api-load-test-sessions](http://jenkins.vfs.va.gov/job/rake_tasks/job/vets-api-load-test-sessions/) Jenkins task in a browser
 3. Log in to Jenkins  
     ![Jenkins log in example][jenkins-login]
 4. Click "Build with Parameters" from the left side of the site  
