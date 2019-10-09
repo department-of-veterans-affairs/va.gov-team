@@ -29,6 +29,4 @@ assignees: ''
 
 - [Grant AWS Console access?]
   > YES / NO
-  > Our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different
-  > teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, 
-  > log file review and to apply changes to the running instances and services.
+  >  Please give a brief description for why you are requesting AWS access.
