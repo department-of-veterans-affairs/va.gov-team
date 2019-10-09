@@ -21,9 +21,45 @@ Creation of the initial logged in experience:
 
 ### Personalization 2.0
 
-Goals of personalization 2.0:
+#### Goals of personalization 2.0
 
-Clean up the personalized pages so they are easier to use, find, and navigate (as outlined in the personalization 2.0 discovery 
+- Clean up the personalized pages so they are easier to use, find, and navigate (as outlined in the [personalization 2.0 discovery](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20&%20Research/Personalization%202.0%20Discovery%20Summary%20&%20Strategy.md).
+- Integrate features from eBenefits (note: this work will be done by the eBenefits team and not the authenticated experience team, though we'll work with the eBenefits team to make sure our efforts are coordinated).
+- Create something that will scale as features are integrated.
+
+#### Setting us up for personalization 3.0
+
+We're not going to create a separate logged in site for personalization 2.0 because we don't have enough of the VA universe integrated into VA.gov. Once we have all the eBenefits features and can retire the site, and if we ever integrated MHV into VA.gov, we'll be ready for a separate logged in site experience.
+
+In the mean time, we need to set ourselves up for that future. To be in a place where we can accomodate that future, we need to do the following:
+
+- Redesign the profile, including combining features from the 1.0 account page and retiring the account page.
+- Migrate eBenefits features over to VA.gov.
+  - MVP: set up tool pages for them, and make sure they are linked to from personal pages.
+  - Next step: Potentially integrate these into personalized sections.
+- Add notifications.
+  - MVP: In-app.
+  - Next step: Add text/email notifications as we're able for different tools, and add settings page to manage preferences.
+- Update the homepage/My VA
+
+Ideally, though this may not be in the VA's roadmap, it would be great if we were consolidating MHV into VA.gov as well.
+
+#### Phase 1: Combine profile and account
+
+- Integrate the features currently on the Account page into the profile.
+- Visual update/restructuring of the profile.
+- Integration of benefit info into profile.
+- Removal of "Account" from the navigation and My VA. "Profile" will remain in the navigation and in My VA.
+- Revisit wayfinding throughout the rest of VA.gov. 
+
+#### Phase 2+++
+
+This is what we need to map out to figure out how we set outselves up for 3.0. Broadly speaking, we need to:
+
+- Add notifications
+- Figure out what health and benefit information we are elevating outside of the content hubs, and where and how it should be elevated.
+- Figure out what record information we are elevating outside of the content hubs, and where and how it should be elevated.
+- Figure out if we should scrap My VA, or if that now acts as the landing page that centralizes health, benefit, record, and profile info.
 
 ### Personalization 3.0
 
@@ -34,7 +70,7 @@ In my very preliminary thinking, this site include:
 - Sections:
   - A homepage/dashboard
   - Notifications
-  - Your health care (think basically rolling MHV tools into this site)
+  - Your health care (think basically rolling MHV tools into this site, or linking out to MHV if we have to)
   - Your benefits (disability, education, etc... basically any valuable enrollment information and history)
   - Your records
   - Your profile and settings
