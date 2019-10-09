@@ -17,10 +17,12 @@ const addToLog = (message) => {
 }
 
 const removeLogFile = () => {
-  fs.unlink('repo-deprecation.log.csv', (err) => {
-    if (err) throw err;
-    console.log('repo-deprecation.log.csv was deleted');
-  });
+  if (fs.existsSync('repo-deprecation.log.csv')) {
+    fs.unlink('repo-deprecation.log.csv', (err) => {
+      if (err) throw err;
+      console.log('repo-deprecation.log.csv was deleted');
+    });
+  }
 };
 
 const deprecateRepo = async () => {
