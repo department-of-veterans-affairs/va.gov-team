@@ -2,6 +2,16 @@
 
 https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/facility-locator/facilities-datasources.md
 
+| **Facility type** | **Source** | **Example** |
+| --- | --- | --- |
+| VA Health |  | | 
+| Benefits |  | |
+| Vet Center | | |
+| National Cemetery |  ||
+| Government Lots|  | VACO|
+| Office  |  | Congressional |
+
+
 | **Source** | **Contains** | **Owner** | **Notes** |
 | --- | --- |--- | --- |
 | GIS | VHA facility basic info (address, hours, lat/long, name, type) | | Pulled daily through a Sidekiq job into the vets-api Postgres database |
