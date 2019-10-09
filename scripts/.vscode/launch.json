@@ -22,7 +22,7 @@
       "runtimeExecutable": "npm",
       "runtimeArgs": [
         "run",
-        "repo-url-replace:inspect"
+        "repo-replace-url:inspect"
       ],
       "port": 9229
     },

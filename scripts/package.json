@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "repo-deprecation": "node repo-add-deprecation-message.js",
-    "repo-url-replace": "node repo-replace-url.js",
+    "repo-replace-url": "node repo-replace-url.js",
     "repo-deprecation:inspect": "node inspect repo-add-deprecation-message.js",
-    "repo-url-replace:inspect": "node inspect repo-replace-url.js"
+    "repo-replace-url:inspect": "node inspect repo-replace-url.js"
   },
   "keywords": [],
   "author": "",
