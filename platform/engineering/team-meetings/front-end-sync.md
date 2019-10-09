@@ -8,4 +8,4 @@
 - Review CMS RFC 
 
 ## Notes
-- 
+- set up meeting to go through a pull request with new people 
