@@ -87,11 +87,13 @@ NOW
 
 3. Data Dictionary
     1. Nedie & Jon are currently working on
+    
         [Google Doc Data Dictionary](https://docs.google.com/document/d/1MlKWlW2MMVdnRGcvqDgp9AgXlVY9O9ulW6uxysXO1Ds/edit)
         
         and
         
         [Google Sheet Data Dictionary](https://docs.google.com/spreadsheets/d/13cSftwf1yAvd52qqzsS_G8tQTCDaTcSL42AwVQMX9NY/edit#gid=1211983668)
+        
     1. Will need to be reviewed/organized
     1. Will need to be published on Github
     1. Will need to be communicated
