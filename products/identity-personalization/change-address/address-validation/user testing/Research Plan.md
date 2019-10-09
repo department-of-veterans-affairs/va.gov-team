@@ -1,4 +1,4 @@
-# Research Plan for Authenticated Experience/Personalization: Candodate Address - Override
+# Research Plan for Authenticated Experience/Personalization: Candidate Address - Override
 
 ## Goals
 1.  **What product & team are you doing this research for?**
