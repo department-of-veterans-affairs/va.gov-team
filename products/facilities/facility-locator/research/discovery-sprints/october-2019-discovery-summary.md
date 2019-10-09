@@ -2,7 +2,12 @@
 _Sprint purpose: To build familiarity with the current product so the team has the best information possible to plan the next version of the product._
 
 ## Current state
-
+- Facility Locator is intended to be VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA. 
+- It is the newer version of VA's old facility locator: https://www.va.gov/directory/guide/home.asp
+- Many individual facility locators exist within Va.gov and consolidation of these separate systems has been initiated. 
+- Data is pulled via various APIs. 
+- Existing functionality has design and performance issues which contribute to Veteran frustration.
+- Parallel modernization efforts for Unified taxonomy and VAMC facility page design can be leveraged. 
 
 ## Engineering Discovery
 **Goal:** To investigate and document the current Facility Locator tool's
