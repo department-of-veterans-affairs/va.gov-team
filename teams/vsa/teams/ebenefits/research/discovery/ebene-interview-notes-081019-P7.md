@@ -1,4 +1,4 @@
-## eBenefits Discovery Interview Session 1
+## eBenefits Discovery Interview Session 7
 #### Conducted: October 8, 2019 via Zoom
 #### Moderator: Aricka Lewis
 #### Participants: 1
