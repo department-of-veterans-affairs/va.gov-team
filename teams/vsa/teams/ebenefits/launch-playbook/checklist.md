@@ -10,17 +10,26 @@ The steps here are meant to provide a framework to build upon for each feature t
 
 ## Design
 - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
+- [ ] Review the [VA.gov Design System](https://design.va.gov/)
+- [ ] Internal
+  - [ ] Team and DSVA: share mockups, discuss alternates/options
+- [ ] External
+  - [ ] Review [Design Workflow](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
+  - [ ] Shawna (`@shawna` in Slack): Design presentation of mockups (might be in a weekly meeting)
+  - [ ] Other Teams: Authenticated Experience
 - [ ] As soon as feasible, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+
 ### Research Plan
 - [ ] Establish process for user interviews ([great resource](https://docs.google.com/document/d/1d2PJ6saIhzbWneevUs4rc153LTcbGxN-IJ9cXT51g1A/edit#heading=h.mfojcojhlwfx))
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Conversation%20Guide.md))
+  
 ### UX
-_The hypothesis of what we have researched_
 - [ ] Develop thumbnail map of feature
 - [ ] Develop wireframes
-  - [ ] Seek applicable feedback
+  - [ ] Seek applicable feedback, obtain understanding from team
 - [ ] Develop mockups
-  - [ ] Seek applicable feedback
+  - [ ] Seek applicable feedback, obtain understanding from team
+  
 ### Content/IA  
 _Share as soon as you have content - this is usually after mockups are created_
 - [ ] Discovery and reference the [VA.gov content style guide](https://design.va.gov/content-style-guide/)
