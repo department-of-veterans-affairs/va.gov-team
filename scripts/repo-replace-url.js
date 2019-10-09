@@ -66,21 +66,12 @@ const replaceUrlLink = async () => {
   addToLog('file, oldUrl, newUrl, result, error');
 
   const json = await csvtojson().fromFile('repo-url-replace.csv');
+  const folders = ['../platform', '../products', '../docs', '../teams']
 
-  recursive("../platform", function (err, files) {
-    findAndReplaceUrl(json, files)
-  });
-
-  recursive("../products", function (err, files) {
-    findAndReplaceUrl(json, files)
-  });
-
-  recursive("../docs", function (err, files) {
-    findAndReplaceUrl(json, files)
-  });
-
-  recursive("../teams", function (err, files) {
-    findAndReplaceUrl(json, files)
+  folders.forEach(folderName => {
+    recursive(folderName, function (err, files) {
+      findAndReplaceUrl(json, files)
+    });
   });
 }
 
