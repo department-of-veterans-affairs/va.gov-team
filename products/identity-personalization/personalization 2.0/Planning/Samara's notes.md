@@ -1,4 +1,37 @@
-# Initial planning
+# Planning — 10/9/2019
+
+## Project progression
+
+To help scope each phase of personalization 2.0, I thought it would be helpful to document a high level path between personalization 1.0 all the way through to what I think personalization 3.0 might be. I think having that final vision in sight will help us figure out some of more specific updates we'll be making as we revisit My VA, Profile, and Account.
+
+### Personalization 1.0
+
+#### MVP: Spring 2018
+
+Creation of the initial logged in experience:
+
+- Dashboard: Manage applications, and see updates to claims, prescriptions, and messages.
+- Profile: See your personal, contact, and military information.
+- Account: Landing page for sign in settings and security.
+
+#### Additional features
+
+- Find VA Benefits: Added winter 2018. Outlines the steps to get started with each benefit and let's people select the benefits they're most interested in.
+- Health care status: Added spring 2019. Includes health care application statuses and enrollment information.
+
+### Personalization 3.0
+
+As of 10/2019, I see Personalization 3.0 as a separate, logged in portal for VA.gov. This is similar to a health care portal or logging into your bank account. While you can get back to the main "content" site, you're effectively in a separate site portal where the navigation is focused on managing the user's experience instead of marketing to them.
+
+In my very preliminary thinking, this site would:
+
+- Include:
+  - eewrw
+- Link bank to the "main" VA.gov in the main navigation.
+- Link out to content pages on the "main" site as neccesary.
+- URL would still be something like VA.gov/my-VA, not a subdomain. 
+
+# Initial planning — 9/2019
 
 ## Potential project breakdown
 
