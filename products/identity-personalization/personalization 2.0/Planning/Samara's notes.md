@@ -19,14 +19,25 @@ Creation of the initial logged in experience:
 - Find VA Benefits: Added winter 2018. Outlines the steps to get started with each benefit and let's people select the benefits they're most interested in.
 - Health care status: Added spring 2019. Includes health care application statuses and enrollment information.
 
+### Personalization 2.0
+
+Goals of personalization 2.0:
+
+Clean up the personalized pages so they are easier to use, find, and navigate (as outlined in the personalization 2.0 discovery 
+
 ### Personalization 3.0
 
 As of 10/2019, I see Personalization 3.0 as a separate, logged in portal for VA.gov. This is similar to a health care portal or logging into your bank account. While you can get back to the main "content" site, you're effectively in a separate site portal where the navigation is focused on managing the user's experience instead of marketing to them.
 
-In my very preliminary thinking, this site would:
+In my very preliminary thinking, this site include:
 
-- Include:
-  - eewrw
+- Sections:
+  - A homepage/dashboard
+  - Notifications
+  - Your health care (think basically rolling MHV tools into this site)
+  - Your benefits (disability, education, etc... basically any valuable enrollment information and history)
+  - Your records
+  - Your profile and settings
 - Link bank to the "main" VA.gov in the main navigation.
 - Link out to content pages on the "main" site as neccesary.
 - URL would still be something like VA.gov/my-VA, not a subdomain. 
