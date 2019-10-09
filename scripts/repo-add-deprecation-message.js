@@ -37,6 +37,8 @@ const deprecateRepo = async () => {
     const convertQueryStringToPath = Object.keys(querystring.parse(filePath))[0];
     const fullFilePath = `../../${repoName}/${convertQueryStringToPath}`;
 
+    console.log(`adding deprecation to ${path.basename(fileInfo.url)}`)
+
     if (fs.statSync(fullFilePath).isFile() && path.extname(fullFilePath) === '.md') {
       fs.writeFile(fullFilePath, `# ${fileInfo.messagingToBeAdded}`, (err) => {
         if(err) {
