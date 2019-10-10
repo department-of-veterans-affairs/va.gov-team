@@ -1,7 +1,5 @@
 # Product Discovery Questions
 
-**What defines Facility Locator 2.0?**
-
 **What baseline metrics exist?**
   - Call center?
   - clicks to Task completion?
