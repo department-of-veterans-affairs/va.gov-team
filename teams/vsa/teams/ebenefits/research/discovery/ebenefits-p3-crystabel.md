@@ -1,4 +1,4 @@
-Monday, October 7. 9am EST 
+## **Monday, October 7. 9am EST** 
 
 **Warm up questions**
 
