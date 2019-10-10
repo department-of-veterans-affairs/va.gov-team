@@ -2,7 +2,7 @@ As of 10/10/2019:
 WHVAH will not be able to handle VA.gov issues until March 2020
 
 As of 10/2/2019:
-# VA.gov Technical Support: The Problem
+## VA.gov Technical Support: The Problem
 There is still no call center that has taken on the responsibility of handling VA.gov technical issues. The White House VA Hotline (WHVAH) was identified to fulfill this role but has since been given additional responsibilities (Mission Act and Tier 1 Calls) and has deprioritized VA.gov work. Furthermore, WHVAH has not acted as collaborative partners, even prior to the addition of new business lines. Since the launch of VA.gov, this is where we stand as it relates to call center:
 
 ## WHVAH
