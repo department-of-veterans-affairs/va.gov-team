@@ -34,6 +34,10 @@ The work was de-prioritized in favor of focusing on the VA.gov relaunch in Nov 2
 - [BGS Sample Requests](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/bgs-sample-requests)
 - [API Calls](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/api%20calls.md)
 - [Current (Legacy) eBenefits Implementation of Form 686 (Screen Caps)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/bgs-sample-requests)
+#### Existing Research
+- [April 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20April%202018)
+- [June 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018)
+- [Various Technical, Process and Business Documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery)
 ### VA Form 21-686c
 - [PDF (Paper) Form](https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf)
 - [Form 21-686c Organizational Breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/dependents/686c_Breakdown_W1.pdf)
