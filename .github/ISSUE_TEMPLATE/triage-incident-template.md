@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-### Please read the [Reporting an incident to the Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform) for instructions on what types of issue should be submitted using this template.
+### Please read the [Reporting an incident to the Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md) for instructions on what types of issue should be submitted using this template.
 
 ### Status
 
