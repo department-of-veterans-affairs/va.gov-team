@@ -8,6 +8,15 @@ Discovery began in early 2018. The form was built iteratively on Vets.gov, and t
 
 As of April 18, 2019, the (686c) form is live in staging. The frontend was built, the backend submission process through EVSS was also built, but the two were not connected. The backend is connected to BGS via an EVSS endpoint.
 The work was de-prioritized in favor of focusing on the VA.gov relaunch in Nov 2018.
+
+- Form flow UI is complete (for adding dependents)
+- Form is login-gated
+- Usability tested (Results?)
+- Need to migrate to VA.gov (??)
+- Need to integrate FE & BE
+- Need to confirm and test connection to EVSS endpoint
+- Need UAT & launch prep
+
 #### Team Members
 - DSVA POC: Andrea Schneider Andrea.Schneider@va.gov
 - Product Manager: Ryan Luu ryan.luu@adhocteam.us
