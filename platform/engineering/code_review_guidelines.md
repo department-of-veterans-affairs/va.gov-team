@@ -9,7 +9,7 @@ Before sending your code to a VSP team for review, your code should meet all of 
 
 *Hint*: smaller, more frequent pull requests will make this easier for everyone!
 
-## Guidelines
+## General guidelines
 
 * **Review lifecycle**
     * Before sending code to VSP team have it reviewed by your team (see **First review** below) using a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/).  
@@ -42,3 +42,33 @@ Before sending your code to a VSP team for review, your code should meet all of 
     * Run your linter and address any linting related issues before opening your PR.
     * If you programmatically ignore a linting recommendation (e.g. via `rubocop:disable`), please comment in the PR explaining why.
     * If your linter does raise any issues unrelated to the PR's subject matter, please fix these in a separate PR.
+    
+## Frontend guidelines (vets-website)
+
+### Responsibilities 
+
+- overall stability of `vets-website`
+- site performance 
+- enforcing test coverage 
+- enforcing linting rules
+
+### Examples of responsibilities 
+
+- ensuring that external teams are using the design.va.gov system when possible (i.e. not creating unnecessary CSS)
+- ensuring changes to common helpers in the `platform/` and `site/` won't impact other apps teams 
+
+### Examples of things that should not block approval
+
+These are things you can optionally look at but aren't required to enforce outside of `platform/` and `site/`. Generally we offer recommendations but don't block merging for these these kinds of issues. 
+
+- code style / general js usage 
+  - uses a for loop instead of a `.map` 
+  - uses conditionals in a loop instead of `.filter` 
+- consistency 
+  - ensuring the general approach to GIBCT is maintained- even if it's not ideal, it is internally consistent 
+- the change works as intended 
+  - generally we rely on the app teams' peer review / QA to validate this 
+
+### Notes
+
+- Use your best judgement. We aren't responsible for the long term maintainability of app code but we should endeavor to make it easy to write good, clear code
