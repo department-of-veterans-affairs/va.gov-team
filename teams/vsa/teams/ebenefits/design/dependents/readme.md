@@ -17,7 +17,7 @@ The work was de-prioritized in favor of focusing on the VA.gov relaunch in Nov 2
 - Need to confirm and test connection to EVSS endpoint
 - Need UAT & launch prep
 
-#### Team Members
+#### Rainbows Team Members
 - DSVA POC: Andrea Schneider Andrea.Schneider@va.gov
 - Product Manager: Ryan Luu ryan.luu@adhocteam.us
 - Design Lead: Emily Waggoner emily@adhocteam.us
