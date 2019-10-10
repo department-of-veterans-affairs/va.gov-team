@@ -4,6 +4,8 @@ More content to be added.
 ### Review of Current 21-686c Implementation (Rainbows Team)
 Organizing discovery, reseach and review of current state of Form 686 implementation on VA.gov staging.
 #### Current Status
+Discovery began in early 2018. The form was built iteratively on Vets.gov, and transitioned to VA.gov. The current version is an MVP with only one flow (adding everyone as though from scratch), but consideration was given to using modular elements in future iterations so that users could add, remove or modify just one person at a time.
+
 As of April 18, 2019, the (686c) form is live in staging. The frontend was built, the backend submission process through EVSS was also built, but the two were not connected. The backend is connected to BGS via an EVSS endpoint.
 The work was de-prioritized in favor of focusing on the VA.gov relaunch in Nov 2018.
 #### Team Members
