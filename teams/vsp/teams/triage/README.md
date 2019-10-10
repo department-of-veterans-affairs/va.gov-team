@@ -29,11 +29,11 @@ Identify, resolve, and delegate issues across the platform and applications for 
 - Call Center Lead: Kimberley Daniels
 
 ## On call
-- [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/OnCall.md)
+- [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/on-call.md)
 
 ### Process Documents
 - [Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Process.md)
-- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/SupportTiers.md)
+- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md)
 - [Service blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
 - [Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Sentry.md)
 
