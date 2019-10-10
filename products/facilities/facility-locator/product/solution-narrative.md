@@ -21,5 +21,4 @@
     - _I am searching on behalf of a Veteran_
     
     **I notice counseling services (children, family, relationship) on the caregiver journey map. Are these services included under Mental Health?**
-    **What about "peer support" for caregivers? (Is this CSP?) How are these services located?**
-    **Michelle:** Note that I understand these may not be our first priority items but asking in case the ideas impact how information is organized/presented. 
+    **What about "peer support" for caregivers? (Is this CSP?) How are these services located?** Michelle: Note that I understand these may not be our first priority items but am asking in case the ideas impact how information is organized/presented. 
