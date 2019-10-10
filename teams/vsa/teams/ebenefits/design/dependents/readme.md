@@ -28,3 +28,4 @@ The work was de-prioritized in favor of focusing on the VA.gov relaunch in Nov 2
 ### VA Form 21-686c
 - [PDF (Paper) Form](https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf)
 - [Form 21-686c Organizational Breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/dependents/686c_Breakdown_W1.pdf)
+- [Current (Legacy) eBenefits (Login Required to Access Dashboard/Profile)](https://www.ebenefits.va.gov/ebenefits/homepage)
