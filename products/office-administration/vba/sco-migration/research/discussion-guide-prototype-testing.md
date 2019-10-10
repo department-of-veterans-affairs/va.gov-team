@@ -1,5 +1,5 @@
 # SCO Migration: School Resources Discussion Script
-*October NN, 2019*
+*October 10, 2019*
 
 ### Welcome and Opening Remarks (5 minutes)
 *[When the participant is ready, the moderator will begin the session with the following introduction.]*
