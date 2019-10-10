@@ -394,7 +394,7 @@ paths:
                   $ref: '#/components/schemas/Clinic'
         default:
           description: Unexpected error
-  /facilities/{facilityId}/visits:
+  /facilities/{facilityId}/visits/{scheduleType}:
     get:
       tags:
         - 'Scheduling eligibility'
@@ -410,13 +410,24 @@ paths:
           required: true
           schema:
             type: string
+        - name: scheduleType
+          in: path
+          required: true
+          schema:
+            type: string
+            enum: ["direct", "request"]
       description: >+
         Existing endpoints:<br />
         <ul>
           <li>Visited in past months
             <ul>
               <li>
-                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/{eligibility}/visited-in-past-months</code>
+                Schedule type of direct:
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/direct-eligibility/visited-in-past-months</code>
+              </li>
+              <li>
+                Schedule type of request:
+                <code>/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/request-eligibility/visited-in-past-months</code>
               </li>
             </ul>
           </li>
@@ -558,7 +569,17 @@ paths:
       tags:
         - 'Community Care'
       summary: 'Returns whether use is eligible for community care'
-      description: ''
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>CC eligibility
+            <ul>
+              <li>
+                <code>/adr/v2/patients/{patient-icn}/eligibility/communityCare</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
       operationId: ''
       responses:
         '200':
@@ -567,16 +588,41 @@ paths:
             application/json:
               schema:
                 type: object
-                properties:
-                  isEligible:
-                    type: boolean
-                    example: true
-                  reason:
-                    type: string
-                    example: 'User is within x miles of facility'
-                  effectiveDate:
-                    type: string
-                    example: '2017-10-08T23:35:12-05:00'
+        default:
+          description: Unexpected error
+  /community-care/supported-sites:
+    get:
+      tags:
+        - 'Community Care'
+      summary: 'Returns the list of VA parent facilities that are CC enabled'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>Sites supporting VAR
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/facility-service/supported-facilities</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    _id:
+                      type: string
+                    name:
+                      type: string
+                    timezone:
+                      type: string
         default:
           description: Unexpected error
 components:
