@@ -1,18 +1,14 @@
-# Beta program MVP requirements
+# Beta program 2.0 requirements
 
-For the personalization MVP products launching in Program Increment 6, Q2 2018.
+For the personalization 2.0 products, first of which scheduled to launch on/around January 2020.
 
 ## What is it?
 
-Enrolling in the personalization MVP beta program gives users access to three new account management tools:
-
-- **[Dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Dashboard/Epics/DISCOVER.md)** (vets.gov/dashboard-beta)
-- **[Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Epics/DISCOVER.md)** (vets.gov/profile-beta)
-- **[Account](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Account/Epics/DISCOVER.md)** (vets.gov/account-beta)
+Enrolling in this beta program gives enrolled users access to the new combined account & profile.
 
 ## Why are we doing this?
 
-Provide a limited set of users early access to new tools in order to understand:
+Provide a limited set of users early access to new tool in order to understand:
 - Are there bugs? (As a user with XYZ data, this feature should work and it doesn't.)
 - Ease of use (As a user, I found it pretty intuitive or not to interact with this tool.)
 - Usefulness/Relevance (As a user, these new tools help me.)
@@ -25,17 +21,12 @@ Beta can run for 2-4 weeks, depending on how long it takes to confirm that enoug
 
 A user must meet the following criteria in order to enroll in the beta program:
 - Is a Veteran
-- Has previously signed into Vets.gov with an LOA3 account, either via ID.me's IDP process, or a DS Logon or MyHealtheVet premium account
+- Has previously signed into VA.gov with an LOA3 account, either via ID.me's IDP process, or a DS Logon or MyHealtheVet premium account
 - Has a record in MVI
-
-In addition to this requirement, we will target participants who have used at least one of the following tools on Vets.gov in the last 30 days, using the services list to determine which features users have used:
-- Claim and appeal status
-- Secure messaging
-- Prescription refills
 
 ## How will users find out about the beta program?
 
-We will notify users about the beta program in two main ways:
+We will notify users about the beta program via on-site notificaton.  Once the beta program islive,users who sign into VA.gov and mee thte criteria above will see propmts to particip
 - **Email invitation:** we will specifically target 100-200 users (found via Cohorts and user feedback) with an email inviting them to participate in the beta program based on the criteria identified above
 - **On-site notifications:** once the beta program is live, users who sign into Vets.gov and meet the criteria above will see prompts to participate in two different locations:
   - Banner notification: a persistent fixed element announcing and linking to enroll; appears upon sign in
