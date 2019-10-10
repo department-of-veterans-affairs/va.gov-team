@@ -1,12 +1,14 @@
-## **Monday, October 7. 9am EST** 
+# eBenefits Moderated Research - P3
 
-**Warm up questions**
+ Monday, October 7. 9am EST 
+
+## **Warm up questions**
 
 **Moderator**: Before we talk about the website, tell me about yourself? 
 
 **Veteran**:I joined the service 1974 at the end of Vietnam, stayed here for 20 years and retired in 1994. Then retired from VA 2013. 18 years and 20 years new army. I work with kids in elementary school and of course i got a bunch of grandkids and granddaughters that we’re raising. I work with 1st graders and pre-K kids. The one school has special needs kids and the other has 1-2 in there. They’re a handful sometimes. 
 
-**Navigation**:
+## **Navigation**:
 
 **Moderator**: Are you familiar with VA.gov?
 
@@ -34,7 +36,7 @@
 
 **Moderator**: Did you type in a search bar or did you go through a link?
 
-V**eteran**: I think it was an email, but I got it as a favorite on my computer so I go that way.
+**Veteran**: I think it was an email, but I got it as a favorite on my computer so I go that way.
 
 *[Moderator shares screen]*
 
@@ -58,7 +60,7 @@ V**eteran**: I think it was an email, but I got it as a favorite on my computer 
 
 **Veteran**: I talk to my primary care and I order my medications
 
-**Features**:
+## **Features**:
 
 **Moderator**: Have you had a disability rating done?
 
@@ -92,7 +94,7 @@ V**eteran**: I think it was an email, but I got it as a favorite on my computer 
 
 **Veteran**: I think the only other thing would be education or a home loan guarantee. Home loan I think I did it a good while ago, and if I’m sure if I decided to move to another home or condominium, I’d use it. That’s about it.
 
-**Post-Interview** 
+## **Post-Interview** 
 
 **Moderator**: What is your least favorite part about using eBenefits?
 
