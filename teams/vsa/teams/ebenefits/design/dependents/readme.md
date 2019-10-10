@@ -19,3 +19,6 @@ Organizing discovery, reseach and review of current state of Form 686 implementa
 - Content Writer: Peggy Gannon peggy@thesocompany.com
 - Front-end Engineer: Erik Hansen erik@adhocteam.us
 - Back-end Engineers: Lihan Li lihan@adhocteam.us & Johnny Holton johnny@oddball.io
+### VA Form 21-686c
+- [PDF (Paper) Form](https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf)
+- [Form 21-686c Organizational Breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/dependents/686c_Breakdown_W1.pdf)
