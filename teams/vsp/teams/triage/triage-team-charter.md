@@ -44,8 +44,7 @@ _Link to agile roadmap_
 #### Stand-up
 Check in on people and product progress
 
-- Monday/Thursday @12PM EST
-- Tuesday @11:45AM EST
+- Monday/Tuesday(Slack Up)/Thursday @12PM EST
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
@@ -66,7 +65,6 @@ Assess and update workload for remainder of sprint
 
 - 2nd Thursday of every sprint
 - 1 hour
-- _any other notes you have_
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
