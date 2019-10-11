@@ -1,8 +1,8 @@
 # Product Discovery Questions
 
-**What baseline metrics exist?**
+**What metrics are possible?**
   - Call center?
-  - clicks to Task completion?
+  - zooming map/search
   - number of times search is refined?
   
 **Where does mental health number come from if the SQL52 work was never completed?**
