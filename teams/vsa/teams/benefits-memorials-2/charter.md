@@ -27,20 +27,20 @@ updated on 10/7/2019
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Manager   |Andrea Schneider                    |
-|Team Product Manager   |Yana Roy                            |
-|Back End Engineer      |Silvio Luthi                        |
-|Front End Engineer     |Nicholas Sprinkle                   |
-|Front End Engineer     |Robin Garrison                      |
-|Design Researcher      |Layla Soileau                       |
-|Design Researcher      |Kevin Stachura                      |
+|DSVA Product Manager   |Matt Self                           |
+|Team Product Manager   |Nicolaus Wygonik                    |
+|Back End Engineer      |TBD                                 |
+|Front End Engineer     |Brad Conley                         |
+|Front End Engineer     |n/a                                 |
+|Design Researcher      |Riley Orr                           |
+|Design Researcher      |Becca Walsh                         |
 
 
 ### **Workflow + Cadence**
 
 **Stand-up**
 People / Product check-ins
-Daily @ 11:45am EST
+Daily @ TBD EST
 15 min
 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
