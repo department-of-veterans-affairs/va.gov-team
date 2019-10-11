@@ -8,6 +8,8 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
 
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/discovery-conversation-guide.md)
 
+[Research Synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1570714734227/135cc9229f15be89de914d583c8f5d51fa38552d)
+
 #### Research Questions 
 - How do users navigate to the eBenefits site?
 - How do users interact with the current eBenefits site?
@@ -52,5 +54,3 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
 #### Rec 2
 - point
 - point
-
-[Link to Synthesis](https://app.mural.co/t/vsa8243/m/vsa8243/1570714734227/135cc9229f15be89de914d583c8f5d51fa38552d)
