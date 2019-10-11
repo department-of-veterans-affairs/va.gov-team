@@ -29,17 +29,17 @@ Identify, resolve, and delegate issues across the platform and applications for 
 - Call Center Lead: Kimberley Daniels
 
 ## On call
-- [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/OnCall.md)
+- [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/on-call.md)
 
 ### Process Documents
 - [Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Process.md)
-- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/SupportTiers.md)
+- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md)
 - [Service blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
 - [Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Sentry.md)
 
 ### Key Documents
 
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/triage-team-charter.md)
-- [Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Rules%20of%20Engagement%20with%20Triage.md)
+- [How To Report an Incident to the platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md)
 - [Product to Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
 - [Call Center](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/triage/call-center)

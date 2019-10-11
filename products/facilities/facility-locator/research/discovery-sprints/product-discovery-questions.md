@@ -1,11 +1,16 @@
 # Product Discovery Questions
 
-**1. What defines Facility Locator 2.0?**
-
-
-**2. Veterans are our primary user priority.**
-  - What priority/consideration should be given to other user types, such as caregivers or administrative users? Do they have different needs or mental models?
+**What baseline metrics exist?**
+  - Call center?
+  - clicks to Task completion?
+  - number of times search is refined?
   
-**3. Where does mental health number come from if the SQL52 work was never completed?**
+**Where does mental health number come from if the SQL52 work was never completed?**
 
-**4. What is the Lighthouse api vs vets-api?**
+**What is the Lighthouse api vs vets-api?**
+
+**What are the facility types: "office" and "congressional"?**
+
+**What is "Get Care"?**
+
+

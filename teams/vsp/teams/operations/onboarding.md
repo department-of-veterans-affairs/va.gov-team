@@ -12,6 +12,8 @@ Speaking of VAEC and how things fit together, some introductions to the organiza
 
 There are currently 3 environments for the applications we deploy: dev, staging, and prod. A fourth is coming called sandbox. We also deploy into a utility environment for tools that don't fit cleanly that we only have one of (Jenkins, Grafana, etc).
 
+On the application side there's a (somewhat older, but still relevant) video of [how endpoints get added to the API](https://www.youtube.com/watch?v=V_i8JLXk5rg&feature=youtu.be) and some details about how the app works at that level.
+
 ## Getting Connected and Started
 
 The Operations team [README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/operations/README.md) in this repo has good information about the team's responsibilities, mission, etc. It also has some information on communications channels and how to track work.
