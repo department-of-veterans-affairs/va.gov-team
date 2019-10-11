@@ -67,6 +67,9 @@ Assess and update workload for remainder of sprint
 - 1 hour
 
 #### Issue Etiquette
+
+VSP uses ZenHub to manage work. Use [this board](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=triage&repos=133843125&showPipelineDescriptions=false) to open tickets in this repo and add the `triage` label.
+
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 
 - Estimate
