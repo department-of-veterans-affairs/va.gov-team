@@ -1,4 +1,4 @@
-# Authority to Operate (ATO) Lead Mission
+# VSP Authority to Operate (ATO) Lead Mission
 
 Ensure that VSP and the VSP-hosted applications across VA.gov have the Authority to Operate. And, equally as important, ensure that VSP's ATO process doesn't impede the culture of agile, iterative product development.
 

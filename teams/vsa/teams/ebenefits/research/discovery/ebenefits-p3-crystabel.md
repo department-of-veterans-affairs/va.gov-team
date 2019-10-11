@@ -1,106 +1,110 @@
-Monday, October 7. 9am EST 
+# eBenefits Moderated Research - P3
 
-Warm up questions
+ Monday, October 7. 9am EST 
 
-Moderator: Before we talk about the website, tell me about yourself? 
+## **Warm up questions**
 
-Veteran:I joined the service 1974 at the end of Vietnam, stayed here for 20 years and retired in 1994. Then retired from VA 2013. 18 years and 20 years new army. I work with kids in elementary school and of course i got a bunch of grandkids and granddaughters that we’re raising. I work with 1st graders and pre-K kids. The one school has special needs kids and the other has 1-2 in there. They’re a handful sometimes. 
+**Moderator**: Before we talk about the website, tell me about yourself? 
 
-Navigation:
+**Veteran**:I joined the service 1974 at the end of Vietnam, stayed here for 20 years and retired in 1994. Then retired from VA 2013. 18 years and 20 years new army. I work with kids in elementary school and of course i got a bunch of grandkids and granddaughters that we’re raising. I work with 1st graders and pre-K kids. The one school has special needs kids and the other has 1-2 in there. They’re a handful sometimes. 
 
-Moderator: Are you familiar with VA.gov?
+## **Navigation**:
 
-Veteran: Yes
+**Moderator**: Are you familiar with VA.gov?
 
-Moderator: Are you familiar with eBenefits website
+**Veteran**: Yes
 
-Veteran: Been a little while since I’ve been on there
+**Moderator**: Are you familiar with eBenefits website
 
-Moderator: Can you tell em a little bit on how you used it?
+**Veteran**: Been a little while since I’ve been on there
 
-Veteran: Looking for stuff for my granddaughter and see if there was any benefits for her. When I adopted my granddaughter I had to add her as a dependent on VA
+**Moderator**: Can you tell em a little bit on how you used it?
 
-Moderator: What was the experience like?
+**Veteran**: Looking for stuff for my granddaughter and see if there was any benefits for her. When I adopted my granddaughter I had to add her as a dependent on VA
 
-Veteran: Pretty manageable. I had to download some documents. Not really any problems at all
+**Moderator**: What was the experience like?
 
-Moderator: How often do you use the eBenefits site?
+**Veteran**: Pretty manageable. I had to download some documents. Not really any problems at all
 
-Veteran: I had to go through ebenefits to get batteries for my hearing aids. I haven’t done it in a while so my memory is fuzzy.
+**Moderator**: How often do you use the eBenefits site?
 
-Moderator: Did someone tell you how to add your granddaughter as a dependent?
+**Veteran**: I had to go through ebenefits to get batteries for my hearing aids. I haven’t done it in a while so my memory is fuzzy.
 
-Veteran: I think I found out on my own and once I went online, it wasn’t a problem
+**Moderator**: Did someone tell you how to add your granddaughter as a dependent?
 
-Moderator: Did you type in a search bar or did you go through a link?
+**Veteran**: I think I found out on my own and once I went online, it wasn’t a problem
 
-Veteran: I think it was an email, but I got it as a favorite on my computer so I go that way.
+**Moderator**: Did you type in a search bar or did you go through a link?
 
-[Moderator shares screen]
-Moderator: When you came here what did you to do add a dependent?
+**Veteran**: I think it was an email, but I got it as a favorite on my computer so I go that way.
 
-Veteran: I think I went to that section to that profile, that’s how I would have done it
+*[Moderator shares screen]*
 
-Moderator: When you were on this page, did you click “Add now”? 
+**Moderator**: When you came here what did you to do add a dependent?
 
-Veteran: If any issue at all, it was the download of the adoption documents
+**Veteran**: I think I went to that section to that profile, that’s how I would have done it
 
-Moderator: Did you download them from this page?
+**Moderator**: When you were on this page, did you click “Add now”? 
 
-Veteran: Yes, where it says “upload documents”
+**Veteran**: If any issue at all, it was the download of the adoption documents
 
-Moderator: Do you use any other tools or websites to manage benefits?
+**Moderator**: Did you download them from this page?
 
-Veteran: I use MyHealthyVet but it’s a little different than VA
+**Veteran**: Yes, where it says “upload documents”
 
-Moderator: What do you do on MyHealthyVet
+**Moderator**: Do you use any other tools or websites to manage benefits?
 
-Veteran: I talk to my primary care and I order my medications
+**Veteran**: I use MyHealthyVet but it’s a little different than VA
 
-Features:
+**Moderator**: What do you do on MyHealthyVet
 
-Moderator: Have you had a disability rating done?
+**Veteran**: I talk to my primary care and I order my medications
 
-Veteran: Yes
+## **Features**:
 
-Moderator: Do you normally look up your disability rating?
+**Moderator**: Have you had a disability rating done?
 
-Veteran: Nope, I have but it’s been so long. I’ve been broke down so long. *laughs*
+**Veteran**: Yes
 
-Moderator: Have you ever visited this page (disabilities page)
+**Moderator**: Do you normally look up your disability rating?
 
-Veteran: Yes I have
+**Veteran**: Nope, I have but it’s been so long. I’ve been broke down so long. *laughs*
 
-Moderator: Can you recall what you were doing on this page?
+**Moderator**: Have you ever visited this page (disabilities page)
 
-Veteran: Unless I needed a statement for some other purpose, I may have looked at it out of curiosity.
+**Veteran**: Yes I have
 
-Moderator: Do you have any caretakers logging in for you or just you?
+**Moderator**: Can you recall what you were doing on this page?
 
-Veteran: Just me
+**Veteran**: Unless I needed a statement for some other purpose, I may have looked at it out of curiosity.
 
-Moderator: You mentioned you had to order batteries for your hearing aid. Do you know where on this page you would click to start process?
-Veteran: I could have done another search
+**Moderator**: Do you have any caretakers logging in for you or just you?
 
-Moderator: How was the process? Difficult or easy?
+**Veteran**: Just me
 
-Veteran: It was simple, once i logged in it was clear what batteries I needed. There’s the DS login you use that as well
+**Moderator**: You mentioned you had to order batteries for your hearing aid. Do you know where on this page you would click to start process?
 
-Moderator: Can you think of any other reason you might use eBenefits?You mentioned adding dependents, ordering batteries…
+**Veteran**: I could have done another search
 
-Veteran: I think the only other thing would be education or a home loan guarantee. Home loan I think I did it a good while ago, and if I’m sure if I decided to move to another home or condominium, I’d use it. That’s about it.
+**Moderator**: How was the process? Difficult or easy?
 
-Post-Interview 
+**Veteran**: It was simple, once i logged in it was clear what batteries I needed. There’s the DS login you use that as well
 
-Moderator: What is your least favorite part about using eBenefits?
+**Moderator**: Can you think of any other reason you might use eBenefits?You mentioned adding dependents, ordering batteries…
 
-Veteran: Sometimes it seems redundant since you gotta keep putting stuff in. That’s just me being lazy. I can’t say I got any problems in it really. 
+**Veteran**: I think the only other thing would be education or a home loan guarantee. Home loan I think I did it a good while ago, and if I’m sure if I decided to move to another home or condominium, I’d use it. That’s about it.
 
-Moderator: What is your favorite part about using eBenefits?
+## **Post-Interview** 
 
-Veteran: Because it’s easy to access and it’s very informative. I don’t think I have yet to find what I wanted. It’s never let me down.  
+**Moderator**: What is your least favorite part about using eBenefits?
 
-Moderator: Anything I should know that maybe I didn’t ask about?
+**Veteran**: Sometimes it seems redundant since you gotta keep putting stuff in. That’s just me being lazy. I can’t say I got any problems in it really. 
 
-Veteran: I can’t think of anything right off. No, I really can’t.   
+**Moderator**: What is your favorite part about using eBenefits?
+
+**Veteran**: Because it’s easy to access and it’s very informative. I don’t think I have yet to find what I wanted. It’s never let me down.  
+
+**Moderator**: Anything I should know that maybe I didn’t ask about?
+
+**Veteran**: I can’t think of anything right off. No, I really can’t.   
 

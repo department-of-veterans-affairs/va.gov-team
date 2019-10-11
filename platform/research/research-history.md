@@ -10,6 +10,13 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
 
+### October 2019
+
+#### October 16 - 17: SCO Content Migration - Moderated Usability Testing  
+*Booz Allen: Amy Knox, Theresa McMurdo*
+- 5-6 participants
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/research/research-plan.md)
+
 ### September 2019
 
 #### September 11 - 17; 16-19: VA Health Records for Apple UAT - Part I, II, and III **
@@ -22,10 +29,10 @@ This does not include research for Appeals projects, which is stored in differen
 - 15 participants 
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/aug19-usability-testing-new-ux/research-plan-aug19-usability.md)
 
-#### September 9 - 11: SCO Content Migration **  
+#### September 9 - 11: SCO Content Migration  
 *Booz Allen: Amy Knox, Theresa McMurdo*
 - 8-9 participants
-- [Research folder](to come)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration/vba/sco-migration/research)
 
 #### September 4 - 9: Direct Deposit UAT **
 *GovCIO: Arthur Green*
