@@ -11,7 +11,7 @@ Bounce rate: 16.74%
 
 ## Source
 Observations from Dashboard July 13, 2019-October 10, 2019
-- Almost 44% arrive organizally from Google
+- Almost 44% arrive organically from Google
 - 25% arrive directly 
 - 11% arrive organically from Bing
 ## Engagement
