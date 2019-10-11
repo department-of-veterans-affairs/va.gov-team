@@ -33,7 +33,7 @@ The work was de-prioritized in favor of focusing on the VA.gov relaunch in Nov 2
 - [BGS Services](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/bgs-sample-requests)
 - [BGS Sample Requests](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/bgs-sample-requests)
 - [API Calls](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/api%20calls.md)
-- [Current (Legacy) eBenefits Implementation of Form 686 (Screen Caps)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/bgs-sample-requests)
+- [Current (Legacy) eBenefits Implementation of Form 686 (Screen Caps)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/eben-screens)
 #### Existing Research
 - [April 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20April%202018)
 - [June 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018)
