@@ -14,16 +14,7 @@ Benefits and Memorial Services
 Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
 
 ### **Product Portfolio**
-  * 526 - Disability Claims and Appeals
-  * Appeals / Decision Review / AMA
-  * VIC
-  * 530 - Burials App
-  * Burial Pre-need App
-  * 1990 - Education Apps
-  * 527 Pension App
-  * GIBCT
-  * GIBFT
-  * VR&E Benefits Apps
+  *TBD
 
 ### **Responsibilities**
 Help users manage their entire Disability Compensation claims, reviews and appeals process seamlessly online. 
