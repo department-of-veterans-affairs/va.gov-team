@@ -105,7 +105,7 @@ See also: [Sample Discovery Sprint Schedule](https://github.com/department-of-ve
 
 #### Checklist:
 
-- [ ] Hold a stakeholder kickoff meeting. See also: [Working With Stakeholders](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/workingwithstakeholders.md) and [supplemental toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/supplemental-toolkit.md) for method ideas.
+- [ ] Hold a stakeholder kickoff meeting. See also: [Working With Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/working-with-stakeholders.md) and [supplemental toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/supplemental-toolkit.md) for method ideas.
 - [ ] Conduct discovery activities.
 - [ ] Synthesize results. Checkout our [supplemental toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/supplemental-toolkit.md) for method ideas and consult the [Research Team](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/README.md) for help.
 
