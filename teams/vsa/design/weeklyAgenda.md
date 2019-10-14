@@ -1,5 +1,22 @@
 # UX Weekly Meeting Agenda
 
+## Wednesday October 14th
+
+* Staffing: Welcome Becca!
+* Book club reminder 
+* Shawna chat about “design reviews,” when something needs to be “approved,” and involvement of VSP
+* Round-robin what is everyone working on (that will impact others potentially)
+    * Shawna 
+    * Arthur 
+    * Aricka
+    * Carolyn
+    * Kevin
+    * Jennifer
+    * Jim
+    * Liz
+    * Riley
+    * Other DEPO / DSVA folks?
+
 ## Wednesday October 2nd
 
 * Update on DSVA attendance
