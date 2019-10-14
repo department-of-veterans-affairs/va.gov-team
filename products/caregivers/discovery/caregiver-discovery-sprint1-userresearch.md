@@ -82,9 +82,9 @@ While we used qualitative interviews in this discovery stage, user research is w
 
 ### Who we spoke with
 - 5 Caregivers 
--- 1 currently receiving benefits
--- 1 that used to receive benefits
--- 3 not receiving benefits
+    - 1 currently receiving benefits
+    - 1 that used to receive benefits
+    - 3 not receiving benefits
 - 4 Veterans — two with their Caregivers on the line, one in the program, one not
 - 2 VSO conversations
 
