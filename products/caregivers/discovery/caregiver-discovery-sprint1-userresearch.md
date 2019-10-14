@@ -187,6 +187,7 @@ Participants that applied for the program recalled receiving an application deci
 ### 9. Caregivers and Veterans feel frustrated about not receiving information when denied.
 Many of our participants ultimately were denied caregiver benefits. Often, they weren’t completely sure why they were denied, or didn’t agree with the reasoning. They also often would “give up” and not be sure where else to turn in terms of other options available to them.
 > “We decided not to fight it, I guess.”
+
 > “It was lack of information and we didn't know how to proceed with the appeal or anything.” 
 #### IMPLICATIONS
 1. Consider providing thorough explanations for why folks were denied.
@@ -196,6 +197,7 @@ Many of our participants ultimately were denied caregiver benefits. Often, they 
 ### 10. Applying for Caregiver benefits may be an additional source of stress, but the benefits truly help.
 Participants shared how hard things can be, and how much they need help. Some may not apply or not be truthful out of fear of being judged.
 > “It was just really awkward to have to admit to someone how much you struggle. And that fear of them judging me and saying, oh, we're going to take your kids away or something, your husband's not fit to be with your kids.”
+
 > One Caregiver credits the program for getting the Veteran to go for a physical every year and see their mental health provider every 3 months.
 #### IMPLICATIONS
 1. Providing transparency about guidelines, rules, roles, and responsibilities may reassure and encourage more to apply for help they actually need.
