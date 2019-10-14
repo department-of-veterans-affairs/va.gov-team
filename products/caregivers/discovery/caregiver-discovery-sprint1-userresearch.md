@@ -153,8 +153,8 @@ Many people we spoke with struggle to find information about the program on VA w
 Many participants weren’t aware of all the application steps. Some spoke of a home interview as part of the application process, others said it was after approval. While obviously a misperception, for stressed Veterans and Caregivers it becomes a reality, perpetuated through word of mouth and online forums. Many wanted an opportunity to speak with someone during the application process due to clarify issues with their medical paperwork.
 > “Oh no, we were denied benefits. I was told based on my medical situation I don't qualify. But my situation is very complicated, my medical records got messed up very early on and it has snowballed.”
 #### IMPLICATIONS
-!. Consider adding contextual help and information at each input and stage of the process. 
-@. Once an application is submitted, redirect the applicant to a page with information and/or resources about what they can expect to happen next in the application process.
+1. Consider adding contextual help and information at each input and stage of the process. 
+2. Once an application is submitted, redirect the applicant to a page with information and/or resources about what they can expect to happen next in the application process.
 
 ### 5. Participants struggle to find information about their application and status in the Caregiver program.
 Caregivers and Veterans may worry about their application’s status. Currently, they may try to get status updates through a variety of touchpoints with little success. Applicants indicated that being able to access online status updates would help ease their stress.
