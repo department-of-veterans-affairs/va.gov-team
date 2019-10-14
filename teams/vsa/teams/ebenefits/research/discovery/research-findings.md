@@ -33,8 +33,14 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
   - A majority of participants have dependents under their benefits
 
 ## High Level Findings
-- Point 1
-- Point 2
+1. eBenefits is a learning resource
+2. Veterans often learn a lot about the site and educate other Veterans through:
+  - Social media (Facebook)
+  - Word of mouth
+  - At work (if they are a VA employee)
+3. There is a need for benefit eligibility information to be more easily accessible
+4. Context switching causes confusion through different application processes
+5. Veterans like that most of their actionable work on eBenefits is centralized on a dashboard
 
 ## Detailed Findings
 #### Point 1
