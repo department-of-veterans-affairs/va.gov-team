@@ -2,9 +2,9 @@
 
 All about VA.gov's über product: <https://www.va.gov/find-locations>
 
-**Product owner:** David Conlon - <David.Conlon@va.gov>
+**Product owner:** David Conlon 
 
-**Supporting product owner:** Andy Lewandowski - <Andrew.Lewandowski2@va.gov>
+**Supporting product owner:** Andy Lewandowski 
 
 ## What to know abut the product
 
@@ -22,9 +22,9 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 **Product and system stakeholders**
 
-- VA.gov Lead: Chris Johnston - <Christopher.Johnston2@va.gov>
-- Facility API Product Owner: Dave Mazik - <David.Mazik@va.gov>
-- VSSC Analyst/Engineer: Chad Holmes - <Chad.Holmes@va.gov>
+- VA.gov Lead: Chris Johnston 
+- Facility API Product Owner: Dave Mazik 
+- VSSC Analyst/Engineer: Chad Holmes 
 - Michael Villeneuve: He runs GEOBISL, and wrote custom queries that pass data from CDW to vets-api.
 - Information Architecture: Mikki Northius, @Mikki on Slack
 
