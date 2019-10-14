@@ -39,13 +39,13 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
 4. Context switching causes confusion through different application processes
 
 ## Detailed Findings
-#### eBenefits is a learning resource for Veterans
+### eBenefits is a learning resource for Veterans
 - Veterans who visit eBenefits often use the "learn" tab in the header to discover helpful information:
   - Education & home loan benefits were the top mentioned benefits that Veterans learned about through eBenefits
 - Veterans are usually referred to specific tools or documents within eBenefits 
 - Useful information on eBenefits is "stumbled upon" as a result of browsing the site
 
-#### There are two main user types for eBenefits
+### There are two main user types for eBenefits
 - The Power User spends time in eBenefits browsing and learning about new opportunities 
   - They educate other veterans through: social media (Facebook), word of mouth, at work (if they are a VA employee) to their clients
   - Power Users are refer to eBenefits often for documentation and self service tools like the claim status tracker (the tool is named Work in Process, but users referred to it as the Claim Status Progress or Tracker)
@@ -56,9 +56,9 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
   - They have specific URLs within eBenefits saved in a document or bookmarked in their browser
   - They primarily use the dashboard to complete actions like adding dependents, changing personal information or checking claim status
  
-#### There is a need for benefit eligibility information to be more accessible
+### There is a need for benefit eligibility information to be more accessible
 
-#### Context switching causes confusion through different application processes
+### Context switching causes confusion through different application processes
 
 ## Recommendations
 
