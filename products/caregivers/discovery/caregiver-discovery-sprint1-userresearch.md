@@ -1,4 +1,5 @@
 # Caregiver Discovery
+[Caregiver Discovery Sprint 1 Presentation - 274kb PDF](products/caregivers/discovery/Caregiver Discovery Sprint 1 User Research Findings.pdf)
 ## Sprint 1
 David Bao - Deputy Executive Director, Digital Service - david.bao@va.gov
 September 13, 2019
