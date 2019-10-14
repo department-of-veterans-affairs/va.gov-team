@@ -60,3 +60,5 @@ Date | Time (EST)
 * Note takers: Jason Wolf, Emily Waggoner
 * Observers: Jim Adams, Micah Chiang, Kathleen Crawford
 * Participant recuriting & screening: 
+
+*This plan was reviewed and approved by Lauren Alexanderson on 09/24/2019*
