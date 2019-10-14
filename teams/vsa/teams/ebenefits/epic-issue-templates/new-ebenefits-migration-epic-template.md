@@ -24,7 +24,7 @@ As a Veteran I want to _____ so that I can _____.
 
 ## Pilot Tasks
 ### Discovery
-- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoverySprintHowTo.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
+- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
 ### Design
 - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
 - [ ] As soon as feasible, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)

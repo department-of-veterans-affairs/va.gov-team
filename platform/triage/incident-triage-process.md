@@ -1,6 +1,5 @@
 # Triage Process - including Tier 2 and 3 Support
 
-
 *Note: this is an MVP process and we will continue to capture pain points as we test this out and learn what works well and what doesn't. It is intended to change as we learn!*
 
 ## Step One: Discover an issue

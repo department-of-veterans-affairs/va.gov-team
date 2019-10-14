@@ -1,32 +1,35 @@
 # Triage
 
+Repository for team information, planning docs, meeting notes, etc.
+
 ### Mission
-Identify, resolve, and delegate issues across the platform and applications for Veterans and teams building products to serve Veterans while continuously improving telemetry, tools, and documentation.
+Identify, resolve, and delegate issues across the platform and applications for Veterans and teams building products to serve Veterans while 
 
 ### Responsibilities
-- Sentry error management + triage
-- Improving automated analytics + error collection
-- Handling details from call centers
+- Continuously improving telemetry, tools, and documentation.
+- Sentry error management & triage
+- Improving automated analytics & error collection
+- Handling inquiry details from call centers
 - Managing postmortem process
 - Managing communication flow for handling production issues
-- Applying targeted fixes when appropriate, triaging to responsible teams when not
+- Applying targeted fixes when appropriate, delegating fixes to responsible teams when not appropriate
 
-### Slack Channels
+### Communications
 
-**Public Channels**
-- #[vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
+**Public Slack Channels**
+- DSVA Slack: [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
 
-
-### Github Labels
+### GitHub Labels
 `[triage]`, `[triage-incident]`
 
 ### Points of Contact
-- Product Management:  Alex Pappas
-- Ops (Lead Eng): Bill Ryan
-- Backend Engineer: Keifer Furzland
-- Frontend Engineer: Christopher Valarida
-- Backend Engineer: Lindsey Hattamer
-- Call Center Lead: Kimberley Daniels
+- **DSVA Product Leads:** [Leah Bannon](https://github.com/leahbannon) (leah.bannon2@va.gov) & [Patrick Bateman](https://github.com/batemapf) (patrick.bateman@va.gov)
+- **Product Manager:** [Alex Pappas](https://github.com/alexpappasoddball) (alex.pappas@oddball.io)
+- **Lead Engineer/Operations:** [Bill Ryan](https://github.com/omgitsbillryan) (bill.ryan@adhocteam.us)
+- **Frontend Engineer:** [Christopher Valarida](https://github.com/cvalarida) (chris.valarida@adhocteam.us)
+- **Backend Engineer:** [Keifer Furzland](https://github.com/kfrz) (keifer@oddball.io)
+- **Backend Engineer:** [Lindsey Hattamer](https://github.com/lindseysaari) (lindsey.hattamer@oddball.io)
+- **Call Center Lead:** [Kimberley Daniels]() (kimberley.daniels@adhocteam.us)
 
 ## On call
 - [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/OnCall.md) - Quicklinks to information for on-call process and documentation
@@ -39,7 +42,6 @@ Identify, resolve, and delegate issues across the platform and applications for 
 
 ### Key Documents
 
-- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/triage-team-charter.md) - Triage workflow, cadence, responsibilities, and other general information 
-- [How To Report an Incident to the platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md) - Defines general rule guidelines for reporting issues to the triage team
-- [Product to Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)- A complete list of va.gov features, statuses and product ownership
-- [Call Center](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/triage/call-center) - A lead folder containing call center responsibilities and White House Training reference material
+- [VFS Product-to-Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
+- [MVP Service Blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
+

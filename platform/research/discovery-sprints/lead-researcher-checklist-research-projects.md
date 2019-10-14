@@ -19,7 +19,7 @@
 - [ ] At least 2 weeks out: work with your PM to create [planning issues](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/archive/Longform%20Planning%20Issue%20Template.md) in [Vets.gov team repo](https://github.com/department-of-veterans-affairs/vets.gov-team) for recruitment, research, and synthesis. These should be  tagged with "research" and the relevant team's tag, as well as the researcher, and other relevant parties (e.g. UX lead) *Include the link to your [research plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md).* 
 - [ ] As sessions are scheduled: 
     - Book GoToMeeting or Join.me channel (if using) on the [Google Calendar](https://calendar.google.com/calendar/embed?src=p7hvahcpk5f1p5e4mdeoodfs04%40group.calendar.google.com&ctz=America%2FNew_York) 
-    - Set up [GoToMeeting](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/GoTo%20Meeting%20Instructions.md) Room
+    - Set up [GoToMeeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/go-to-meeting-instructions.md) Room
     - *(If you are using Perigiean October-November 2018, they will book GTM & Google for you. YOU are responsible for making sure it is done, though!)* 
     - Send out calendar invite to your team. 
      - [ ] **Always invite: Team Lead, PM, Your content person, FE/BE engineers, UX Lead (Lauren)**

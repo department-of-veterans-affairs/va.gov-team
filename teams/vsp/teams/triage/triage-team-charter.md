@@ -4,8 +4,8 @@
 
 ## Why we're here
 
-### North Star:
-_Lorem ipsum_
+### VSP North Star:
+Enable VA to build digital tools at scale that improve Veterans’ lives.
 
 ### Product Suite (if applicable): 
 _i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
@@ -27,14 +27,14 @@ _Link to agile roadmap_
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead:Leah Bannon & Patrick Bateman
-- Team Product Manager: Alex Pappas
-- Ops (Lead Eng): Bill Ryan
-- Backend Engineer: Keifer Furzland
-- Frontend Engineer: Christopher Valarida
-- Backend Engineer: Lindsey Hattamer
-- Call Center Lead: Kimberley Daniels
 
+- **DSVA Product Leads:** [Leah Bannon](https://github.com/leahbannon) (leah.bannon2@va.gov) & [Patrick Bateman](https://github.com/batemapf) (patrick.bateman@va.gov)
+- **Product Manager:** [Alex Pappas](https://github.com/alexpappasoddball) (alex.pappas@oddball.io)
+- **Lead Engineer/Operations:** [Bill Ryan](https://github.com/omgitsbillryan) (bill.ryan@adhocteam.us)
+- **Frontend Engineer:** [Christopher Valarida](https://github.com/cvalarida) (chris.valarida@adhocteam.us)
+- **Backend Engineer:** [Keifer Furzland](https://github.com/kfrz) (keifer@oddball.io)
+- **Backend Engineer:** [Lindsey Hattamer](https://github.com/lindseysaari) (lindsey.hattamer@oddball.io)
+- **Call Center Lead:** [Kimberley Daniels](https://github.com/kimberley2019) (kimberley.daniels@adhocteam.us)
 ---
 
 ## How we work
@@ -67,6 +67,9 @@ Assess and update workload for remainder of sprint
 - 1 hour
 
 #### Issue Etiquette
+
+VSP uses ZenHub to manage work. Use [this board](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=triage&repos=133843125&showPipelineDescriptions=false) to open tickets in this repo and add the `triage` label.
+
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 
 - Estimate
@@ -81,8 +84,6 @@ All work should be validated either in staging or production, as defined by the 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 #### Team Norms
-
-_Update as you see fit! These are some starter norms for you to consider_
 
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls

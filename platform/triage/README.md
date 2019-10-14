@@ -1,18 +1,22 @@
 # Triage
-Description of what's included in this folder. 
-
 ### Communication channels
-- Slack channels: [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
-- Github labels: `triage`
+- DSVA Slack channels: [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
+- GitHub labels: `triage`
 
 ### VSP POCs
-- (Product Manager) Alex Pappas, '@Alex Pappas' on Slack
-- (Lead Engeineer) Bill Ryan, @billryan on Slack
+- (Product Manager) [Alex Pappas](https://github.com/alexpappasoddball), `@Alex Pappas` in DSVA Slack
+- (Lead Engineer) [Bill Ryan](https://github.com/omgitsbillryan), `@billryan` in DSVA Slack
 
-## Table of Contents
-The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #[vsp-triage] Slack channel or your VSP POC directly.
+See [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/triage-team-charter.md) for further details.
 
+### Table of contents
+The following is a set of resources to help you work with the VSP Triage team. Some links may take you to resources outside this repo. If you need help with anything, feel free to reach out in the [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8) DSVA Slack channel or your VSP POC directly.
 
-- [How to report an issue to the platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md) - Guidance for reporting issues to the platform
-- [Product to Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)- A complete list of va.gov features, statuses and product ownership
-- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/SupportTiers.md) - Support tier definitions and escalation definitions
+##### I want to....
+- [Report an issue to the platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md)
+- [Learn about the incident triage process](incident-triage-process.md) 
+- [Respond to an on-call incident](incident-response-playbook.md)
+- [Learn how Sentry is used within the VSP](sentry-usage-overview.md)
+- [Learn how to use Sentry tags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-tagging-standards.md)
+- [Learn about the various upstream services](upstream-services.md)
+
