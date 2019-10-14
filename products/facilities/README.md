@@ -10,11 +10,11 @@ Provides Veterans, family members, caregivers, service members and other audienc
 What labels are your GitHub issues tagged with?
 
 ## Points of Contact
-- VA.gov Lead: Chris Johnston (Christopher.Johnston2@va.gov)
-- Product Owner: David Conlon (David.Conlon@va.gov)
-- Supporting Product Owner: Andy Lewandowski (Andrew.Lewandowski2@va.gov)
-- Facility API Product Owner: David Mazik (David.Mazik@va.gov)
-- Product Manager: Michelle Middaugh (Michelle.middaugh@adhocteam.us)
+- VA.gov Lead: Chris Johnston 
+- Product Owner: David Conlon 
+- Supporting Product Owner: Andy Lewandowski 
+- Facility API Product Owner: David Mazik 
+- Product Manager: Michelle Middaugh 
 - Program Management: Luke Majewski
 - Product Management: Mickin Sahni
 - Design: Shawna Hein
