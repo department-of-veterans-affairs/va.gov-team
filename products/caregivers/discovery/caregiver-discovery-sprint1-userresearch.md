@@ -11,8 +11,11 @@ To prepare for this expansion, DSVA conducted a deep dive into the Caregiver Fam
 While the initial focus was toward the 10-10CG form, the user research (aka “Discovery”) illuminated a number of issues beyond simple form improvement that would significantly improve the experience but also help VA to meet the impending expansion in demand (slides 6-7).
 Also important to note, while user research and engagement are instructive for identifying initial steps for significantly improving the Veteran/Caregiver program and application experience, they must not end with the identification of initial requirements. Continuous iteration and validation with the intended audience is essential to deliver effective outcomes.
 
-| Discovery | Opportunity Assessment | Product Discovery | Product Development |
-| Focus on the problem space to deliver opportunities | Strategize to define backlog | Iteration of design and user validation to define product backlog | Plan, design, develop, and user validation  to deliver solution |
+| Discovery                                           | Opportunity Assessment       | Product Discovery                                                 | Product Development                                             |   |
+|-----------------------------------------------------|------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------|---|
+| Focus on the problem space to deliver opportunities | Strategize to define backlog | Iteration of design and user validation to define product backlog | Plan, design, develop, and user validation  to deliver solution |   |
+|                                                     |                              |                                                                   |                                                                 |   |
+|                                                     |                              |                                                                   |                                                                 |   |
 
 #### Understand the person, someone with a purpose
 
@@ -22,7 +25,7 @@ Also important to note, while user research and engagement are instructive for i
 
 **Strategizing** - Evaluate patterns, establish Objectives and Key Results (OKRs) to inform hypotheses, ideation, prototypes, validation with user research, and iteration to define backlog
 
-**Solution Space
+**Solution Space**
 - Iteration of ideation, hypotheses, prototypes, and validation with user research to define product backlog, with validated user stories and prototypes
 - Planning, design, and development sprints with user research validation to deliver user-validated solution with metrics to monitor and measure
 
