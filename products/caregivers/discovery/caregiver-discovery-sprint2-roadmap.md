@@ -129,7 +129,7 @@ Form creation on VA.gov is a straightforward process; existing VA.gov forms use 
 At present, Caregiver.VA.gov, [https://www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/](https://www.va.gov/health-care/family-caregiver-benefits/comprehensive-assistance/), and [https://www.va.gov/caregiver-quick-start-guide.pdf](https://www.va.gov/caregiver-quick-start-guide.pdf) co-exist, and dyads expressed confusion when seeking information about the program. There is a need for a “single source of truth.”
 
 |  User Story | Feature | Assumptions, Unknowns |
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | *As someone interested in the PCAFC, I shall have definitive data on the PCAFC, eligibility criteria, and guidelines on program roles and responsibilities on VA.gov so that info is easily accessible.* | User-centered PCAFC info, online VA form 10-10CG, eligibility criteria, guidelines | We assume we may consolidate the existing caregiver.va.gov and PCAFC page on VA.gov. |
 | *As someone seeking information about the PCAFC on VA.gov, I shall be able to comprehend information readily so I may understand the PCAFC.* | Adherence to the [Plain Writing Act](https://plainlanguage.gov/), so info is easier to read, understand, | N/A |
 | *As someone interested in the PCAFC, I shall be able to access VA form 10-10CG requirements so that I may prepare for applying.* | Centralized form requirements | N/A |
@@ -139,14 +139,14 @@ At present, Caregiver.VA.gov, [https://www.va.gov/health-care/family-caregiver-b
 Much of this new service uses existing components and infrastructure, but consumes / displays information in new ways better suited to Caregiver’s needs. 
 
 |  User Story | Feature | Assumptions, Unknowns |
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | *As a Veteran or Caregiver, I should be able to search for and easily find Caregiver-related resources so that I can get the support I need to support the Veteran and/or Caregiver.* | Searchable Caregiver-specific resources on VA.gov PCAFC area | Participants asked for this, however the effort to deliver this is significant. |
 
 ### Creation of a Caregiver login, account, profile, and personalized portal
 This enhanced Caregiver functionality significantly builds on and extends the current VA.gov infrastructure.
 
 |  User Story | Feature | Assumptions, Unknowns |
-| ----------- | ----------- | ----------- | ----------- |
+| ----------- | ----------- | ----------- |
 | *As a Caregiver, I should be able to create an account on VA.gov associated with the Veteran(s) I care for so that I can login using my own credentials.* | Authenticated Caregiver profile account creation, associated with the Veteran(s) they care for | That we can add different user types; inability to add this has halted projects in the past |
 | *As a Caregiver, I should be able to sign into my account on VA.gov so that I may view the status of my application(s).* | Caregiver portal with one’s application(s) status | That we can save the form progress in the CARMA system by adding a field |
 | *As a Caregiver, I should be able to log into my account on VA.gov so that I may view resources for my Veteran(s) and myself.* | Caregiver portal with resources for one’s circumstances and Zip Code | That we can pull data for this from various needed APIs without slowing UX significantly |
