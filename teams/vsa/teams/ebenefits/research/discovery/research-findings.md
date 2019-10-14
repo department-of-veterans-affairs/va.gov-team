@@ -51,7 +51,7 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
   - Power Users are refer to eBenefits often for documentation and self service tools like the claim status tracker (the tool is named Work in Process, but users referred to it as the Claim Status Progress or Tracker)
   - They usually have the eBenefits site bookmarked or saved for easy access.
   - They want the valuable information they find "accidentally" to be surfaced instead of navigating around the site to find it
- - The Conveience User has a specific goal or task in mind when using the site
+- The Conveience User has a specific goal or task in mind when using the site
   - Convenience users are referred to tools or documents within eBenefits from someone else or through email
   - They have specific URLs within eBenefits saved in a document or bookmarked in their browser
   - They primarily use the dashboard to complete actions like adding dependents, changing personal information or checking claim status
