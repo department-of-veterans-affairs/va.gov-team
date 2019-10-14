@@ -59,9 +59,11 @@ This brief builds on Sprint 1’s user and technical research to recommend initi
 4. A “Save in Progress” pre-built component is available to address applicants’ desire to complete the form at their own pace.
 5. On VA.gov currently there is only one user type. No mechanism exists to distinguish Veterans, Caregivers, or other user roles. 
 
+
 **How do we currently collect signatures on forms for VA.gov and what will that mean for our form?**
 ### 1. Other high volume VA forms use a checkbox in place of a signature (such as eBenefits on VA.gov).
 Participation in the Program of Comprehensive Assistance for Family Caregivers requires both administrative and clinical assessments for eligibility. 
+
 **IMPLICATIONS**
 - An applicant is interviewed and verified in stages during a review process, so a wet signature may not be necessary. Final OGC approval for this is still necessary. There is precedence for this from VBA, but this is a dependency to be worked out. 
 - This Finding also means we may reduce our scope and level of effort by reusing existing form elements to collect certification.
@@ -69,6 +71,7 @@ Participation in the Program of Comprehensive Assistance for Family Caregivers r
 **What is involved in interfacing with the Caregiver Record Management Application (CARMA) system?**
 ### 2. The Caregiver Record Management Application (CARMA) is a new system and there are no existing APIs that can be leveraged for VA.gov.
 Much of the functionality necessary to integrate with CARMA is not yet available in the system, as the CARMA API is not usable, yet. The process for intake of information from an online form and transmittal to the CARMA system is not yet defined. The CARMA team will provide an estimate of their efforts given our high-level needs.
+
 **IMPLICATIONS**
 APIs and endpoints will need to be developed to transmit and retrieve data to/from CARMA. Integration with CARMA needs to be built.
 
@@ -81,7 +84,8 @@ We can use pre-built components that are compliant with the VA.gov Design System
 
 **How does the 'save in progress' feature for forms on VA.gov work from a technical standpoint?**
 ### 4. A “Save in Progress” pre-built component is available to address applicants’ desire to complete the form at their own pace.
-The “Save in Progress” feature requires the user to create an account to associate form progress with the individual. Accounts are currently created VA.gov using ID.me. 
+The “Save in Progress” feature requires the user to create an account to associate form progress with the individual. Accounts are currently created VA.gov using ID.me.
+
 **IMPLICATIONS**
 - The level of effort necessary to implement “Save in Progress” may be lower than anticipated given we may use existing infrastructure.
 - This functionality exists today, however, the ability to save to and retrieve from a distinct user account must be created. 
@@ -89,6 +93,7 @@ The “Save in Progress” feature requires the user to create an account to ass
 
 ### 5. On VA.gov currently there is only one user type. No mechanism exists to distinguish Veterans, Caregivers, or other user roles. 
 While this is not required for MVP, currently all users logging into VA.gov are shown the same information. There is no distinction between Veterans, Caregivers, or anyone else. To provide an experience that is unique for a Caregiver with distinct information shown to the Caregiver, and another distinct experience for the Veteran, additional system architecture must be created.
+
 **IMPLICATIONS**
 - The creation of these distinct user roles and corresponding associations has benefits for other projects that were unable to implement functionality due to the lack of these roles.
 - Once the appropriate account architecture is created, it must be applied throughout other API structures to categorize data accordingly.
