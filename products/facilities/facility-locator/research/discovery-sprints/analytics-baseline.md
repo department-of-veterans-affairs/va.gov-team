@@ -22,8 +22,8 @@ Observations from Dashboard July 10, 2019-October 10, 2019
 - 80% of sessions reach a page depth of 10 or fewer
 - nearly 5% reach 20+ page depth
 
-## Search term
-Observations from Dashboard July 10, 2019-October 10, 2019 (n=6,181,520 page views/79% of total)
+## Facility type Search
+Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=6,181,520 page views/79% of total)
 
 | Page | Search term | % of page views |
 | ---| ---| ---|
@@ -34,6 +34,30 @@ Observations from Dashboard July 10, 2019-October 10, 2019 (n=6,181,520 page vie
 | /facilities/index.html/xxx | cc_provider | 4% |
 | /facilities/index.html/xxx | cemetery | 3% |
 | /find-locations/index.html | health |2% |
+
+## Facility type search refinements
+Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=1,137,355 unique searches)
+| Facility type | % of search refinements (3.29% average for view) |
+| ---| ---| 
+| all| 3.47 %| 
+| health | 2.24% |
+| benefits | 4.49% |
+| Vet_center | 7.44% |
+| CC_Provider | 4.36% |
+| Cemetery | 2.125 |
+
+## Search terms used with Facility Type: Community Care
+Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=1,137,355 unique searches)
+
+| Search term | % of unique searches | Page views (5.55 average) | Search refinements (3.29% average) |
+| ---| ---| ---| --- |
+| not set | 89.21% | 5.44 | 3.31% |
+| Primary Care | 2.18% | 7.55 | 1.80% |
+| Emergency Care | 1.81% | 5.58 | 1.05% |
+| 261QP2300X | .52% | 4.59 | 8.32%|
+| Urgent Care | .44% | 5.55 | 5.85% |
+| Applyingforbenefits | .42% | 6.93 | 5.05%|
+
 
 ## Events
 Observations from Dashboard July 10, 2019-October 10, 2019
