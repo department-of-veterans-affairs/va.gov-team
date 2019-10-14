@@ -4,7 +4,7 @@ Provides Veterans, family members, caregivers, service members and other audienc
 
 ## Slack Channels
 - #vsa
-- #vsa-facilitie
+- #vsa-facilities
 
 ## Github Labels
 What labels are your GitHub issues tagged with?
