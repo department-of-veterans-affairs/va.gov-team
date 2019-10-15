@@ -1,4 +1,4 @@
-# Feature Outline: View My Rate Disabilities
+# Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
 - Slack channel: #vsa-ebenefits
 - VA.gov link: n/a
