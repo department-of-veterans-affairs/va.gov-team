@@ -24,7 +24,7 @@
 1. Copy the entire array, including the lines with square-brackets  
     ![Jenkins session cookie output selection example][jenkins-session-cookie-output-selected]
 1. Paste the copied array into a new file and save as `sessions.json`
-1. Use the array of sessions in `sessions.json` with Python's [json library](https://docs.python.org/3/library/json.html)
+1. Use the array of session IDs and cookie hashes in `sessions.json` with Python's [JSON library](https://docs.python.org/3/library/json.html)
     * For running a load-test locally ([see Devops Load-Testing README](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest/README.md)), save the file into the same folder as your load-test file.
 1. Run your load test
 
