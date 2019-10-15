@@ -1,52 +1,71 @@
-# Engineering
+# Ticket Batcher
 
-**Investigate and Define API Endpoints for {feature}**
-## Story
+## Investigate and Define API Endpoints for {feature}
+### Story
 As an eBenefits Team member, I want to be able to define what endpoints are being used to send to the frontend
 
-## Tasks
+### Tasks
 - Identify the service or stack that may house the endpoints
 - Define those endpoints and discuss with other team members
 
-## Definition of Done
+### Acceptance Criteria
 - [ ] Document the endpoints and share with { }
 
-**Implement API Endpoints for {feature}**
-## Story
+## Implement API Endpoints for {feature}
+### Story
 As a member of the eBenefits Team, I want to be utilize the endpoints so that data is dynamic and relelvenat to the end user
 
-## Tasks
+### Tasks
 - Test, validate endpoints
 
-## Definition of Done
+### Acceptance Criteria
 - [ ] Endpoints are being successfully sent and displayed
 
-**Testing: E2E & Unit for {feature}**
-## Story
+## Testing: E2E & Unit for {feature}
+### Story
 As a member of the eBenefits Team, I want to test both the components and the full page of the feature we are working on.
 
-## Task
+### Task
 - Define the major testing domains for this feature (e.g., load testing, usability, website responsiveness, integration, etc) and reference any existing documentation and create a test infrastructure.
 - Create unit tests for any new component logic.
 - Create e2e tests for any new UI functionality. 
 
-## Definition of Done
+### Acceptance Criteria
 - [ ] A testing plan has been defined.
 - [ ] Test coverage is above 80% threshold.
 
-**Testing: 508 for {feature}**
-## Story
+## Testing: 508 for {feature}
+### Story
 As an frontend engineer, I want a 508 test, so I know my application is as accessible as possible, and accounts for various different user scenarios. 
 
-## Task
+### Task
 - Define the 508 testing domains for this feature and reference any existing documentation and create a test infrastructure.
 - Create unit tests for any new component logic.
 - Create e2e tests for any new UI functionality. 
 - Keyboard functionality/accessibility
 - Onscreen, color contrast, color blind review
 
-## Definition of Done
+### Acceptance Criteria
 - [ ] New feature passes aXe tests in chrome.
 - [ ] Schedule a review with 508 Team (Trevor Pierce or Jennifer Strickland) 
 
+```
++ diff
+```
+## Create Research Plan for {feature}
+### Goal
+As a design researcher, I want to create a consistent plan that encompasses the guidance of approved methods and all the components for the item I am researching.
 
+validate my hyoptheses and ensure that I am applying user centered designs to my before engineer starts to build. 
+
+### Task
+- Document a research plan to include:
+  - Research method (moderated user interviews)
+  - Participants & Recruitment
+  - Timeframe
+  - Team Availability
+  - Roles (include emails)
+  - Seek review before implementation
+  
+### Acceptance Criteria
+- [ ] Research Plan has been reviewed by [Lauren Alexanderson in Recruiting](https://dsva.slack.com/team/U772MC9BQ) ([email](mailto:lauren.alexanderson@va.gov)
