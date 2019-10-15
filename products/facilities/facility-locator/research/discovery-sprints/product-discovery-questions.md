@@ -9,11 +9,18 @@
 
 **What is the Lighthouse api vs vets-api?**
 
-**What are the facility types:**
-- office
-- congressional 
+**What are the facility types (and are they relevant to our audience)**
+- Office (VACO)
+- Government Lots (Congressional)
 - Integrated clinical facility (Yakima Valley Vet Center)
+- VISN
+- Rural (Snake River)
 
 **What is "Get Care"?**
+
+**Discovered links back to Facility Locator**
+- from PTSD.va.gov
+
+
 
 
