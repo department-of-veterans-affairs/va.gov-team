@@ -47,3 +47,6 @@ original list from 7/2017
 | 41	| Parkinson's Disease Research, Education & Clinical Center(PADRECC) (Map / directory) |	http://www.parkinsons.va.gov/New_Front_Page.asp |||
 | 42	| PADRECC and Consortium Centers (Map / Directory) |	http://www.parkinsons.va.gov/Care.asp |||
 | 43	| Multiple Sclerosis Centers of Excellence | http://www.va.gov/MS/veterans/find_a_clinic/index.asp |||
+
+Additional Locators
+| 44 | SAMHSA Substance Abuse and Mental Health Services Administration | https://findtreatment.samhsa.gov/locator?sType=sa || Found link on SUD Facility Locator page. This also allows for search for services listed as: Mental Health, SUD and MH, Health Care Centers, Buprenorphine physicians and Veterans Affairs |
