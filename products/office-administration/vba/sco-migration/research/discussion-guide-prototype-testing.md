@@ -101,7 +101,7 @@ Observe…
 
 FINDING REQUIRED TRAINING
 
-Have you taken the 2019 required training yet?  [respond to their input: how’d that go? Or is that something you’re planning to do? ]
+Have you been able to determine whether you have to complete additional training this year related as part of the Colmery act?  [respond to their input: how’d that go? Or is that something you’re planning to do? ]
 
 Let’s say you needed to complete your training for the year.  Could you walk us through how you’d go about finding the training that’s required for SCOs this year?   
 
@@ -129,10 +129,26 @@ Observe…
 ### Follow up questions 
 
 -	How did you think that went? 
+-	How would you typically learn about a new VA programs? 
+
+
+### Scenario #4 (5 minutes)
+
+FINDING INFO ON the STEM Program
+
+Have any of the students at your school asked about the new STEM scholarship?  [respond to their input]
+
+Let’s say one of your students is nearing the end of his GI Bill entitlement and is interested in applying for the STEM Scholarship.  How would you go about finding information on who is eligible to participate in the STEM program?   
+
+Observe… 
+-	How do they get back to the School Resources page when they’re done with the task?  
+
+### Follow up questions 
+
+-	How did you think that went? 
 -	How would you typically learn about a new VA program like the Nourse STEM Scholarship? 
 
-
-### Scenario #4 (10 minutes)
+### Scenario #5 (10 minutes)
 
 FINDING RESOURCES FOR MILITARY-CONNECTED STUDENTS
 
@@ -158,6 +174,7 @@ Observe…
 
 Thank you! That’s it for the tasks. How’d you think that went? 
 -	What are your thoughts on whether you’d be able to find information you need on a site like this?
+-       What are your thoughts on the order of the sections (Key Resources, Announcements, Training, Upcoming Events, Policies and Procedures, Resources for students)?  Which sections would you access most frequently?  
 -	How could this page be more beneficial to SCOs or school administrators? 
 -	How likely or unlikely would you be to refer other school officials to content like this? 
 -	IF they have experience with or recall working with the current School Resources pages, ask how they think the version they just tried out compares to the current one. 
