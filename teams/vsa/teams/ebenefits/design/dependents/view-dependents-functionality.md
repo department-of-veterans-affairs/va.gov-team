@@ -16,4 +16,5 @@ This outlines the current 'happy path' workflow a typical user follows.
   - Link to paper application in event dependent is parent
   - Link to Inquiry Routing & Information System (IRIS)
   - VA Phone number
-
+### View Dependents Diagram
+![View Dependents Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/dependents/View_Dependents_Flow_W1.png)
