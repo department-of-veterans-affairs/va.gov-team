@@ -13,7 +13,7 @@
     ![Jenkins log in example][jenkins-login]
 1. Click "Build with Parameters" from the left side of the site  
     ![Jenkins build with parameters example][jenkins-build-with-parameters]
-1. Click "Build"
+1. Click "Build"  
     ![Jenkins build example][jenkins-build]
 1. Click the new build in the list of builds to the left  
     ![Jenkins click the build example][jenkins-click-the-build]  
