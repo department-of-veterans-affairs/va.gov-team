@@ -4,7 +4,7 @@ The entire IRIS reporting process is cumbersome and should be automated as much 
 
 ## Pros:
 - Email notifications are sent to Outlook.
-- Customers have a way to report their issues without having to contact an external call cneter
+- Customers have a way to report their issues without having to contact an external call center
 
 ## Cons:
 - Not all issues are technical issues
