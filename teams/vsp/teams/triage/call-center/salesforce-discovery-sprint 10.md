@@ -1,6 +1,5 @@
-During Sprint 10 it was discovered that SalesForce is a better means of reporting issues than IRIS. 
-It was discovered that gathering informaiton from this system is more complex than once thought.
-The 
+During Sprint 10 it was discovered that gathering informaiton from this system is also more complex than once thought.
+The process of reporting issues should be automated as much as possible. 
 
 ## Pros:
 - Customer can get assistance from a live agent
