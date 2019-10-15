@@ -1,4 +1,4 @@
-# eBenefits Discovery - User Interviews
+# eBenefits Discovery Findings
 Aricka Lewis, October 2019
 
 ## Research Purpose & Goals
@@ -27,9 +27,9 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
 - What are the different user roles for eBenefits?
 
 ## Methodology
-- User Interviews, 30 - 45 minutes
-- 10 Participants from varying backgrounds
-  - All participants use eBenefits to varying degrees
+- User Interviews, 30 - 50 minutes
+- 10 veterans from varying backgrounds
+  - All participants use eBenefits
   - A majority of participants have dependents under their benefits
 
 ## High Level Findings
