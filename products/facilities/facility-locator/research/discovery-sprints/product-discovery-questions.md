@@ -9,7 +9,10 @@
 
 **What is the Lighthouse api vs vets-api?**
 
-**What are the facility types: "office" and "congressional"?**
+**What are the facility types:**
+- office
+- congressional 
+- Integrated clinical facility (Yakima Valley Vet Center)
 
 **What is "Get Care"?**
 
