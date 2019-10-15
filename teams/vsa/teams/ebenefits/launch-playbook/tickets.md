@@ -50,7 +50,7 @@ As an frontend engineer, I want a 508 test, so I know my application is as acces
 - [ ] Schedule a review with 508 Team (Trevor Pierce or Jennifer Strickland) 
 
 ```diff
-+ add
+- ---
 ```
 ## Create Research Plan for {feature}
 ### Goal
