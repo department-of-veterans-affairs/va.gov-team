@@ -49,8 +49,8 @@ As an frontend engineer, I want a 508 test, so I know my application is as acces
 - [ ] New feature passes aXe tests in chrome.
 - [ ] Schedule a review with 508 Team (Trevor Pierce or Jennifer Strickland) 
 
-```
-+ diff
+```diff
++ add
 ```
 ## Create Research Plan for {feature}
 ### Goal
