@@ -6,7 +6,7 @@ This document covers rules for engaging the VSP team in [pull request reviews](h
 * Enable VSP team to quickly review changes for VFS teams
 * Clarify the process for moving code from development through review to production
 
-We expect that most developers have worked with GitHub and review processes before, but want to be clear about our norms to reduce confusion and help code flow through the process as quickly and reliably as possible.
+We expect developers to be familiar with GitHub and the pull request review process, but want to be clear about our norms to reduce confusion and help code flow through the process as quickly and reliably as possible.
 
 
 ## The pull request review lifecycle in brief
