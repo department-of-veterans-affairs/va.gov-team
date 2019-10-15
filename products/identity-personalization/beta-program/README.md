@@ -28,11 +28,6 @@ A user must meet the following criteria in order to enroll in the beta program:
 
 We will notify users about the beta program via on-site notificaton.  Once the beta program is live, users who sign into VA.gov and meet the criteria above will see prompts to participate.
 
-
-**TO DO**: Determine if we can throttle who sees the on-site Beta opt-in beyond just LOA3/MVI designation**
-    - Can we identify which tools users _have used_ vs which they just technically have access to? See if services list identifies this
-    - Can we track recency of usage to more accurately identify people who will most likely have data to see in their dashboard?
-
 ## How will users enroll in the beta program?
 
 The notifications above link to a unique enrollment page URL that will allow users to opt-in to the beta program. Navigating directly to any of the beta tool URLs will also redirect users to this page.
