@@ -13,6 +13,8 @@ Responsiblities for the Call Center Lead can be found [HERE](https://github.com/
   * Indicates the IRIS reporting process from initial contact to resolution
 - SalesForce Reporting Process
   * Indicates the SalesForce reporting process from inital contact to resolution
+- Tech Issues Responses
+ * Provides the template of general responses that the Call Center team can provide for frequently asked questions from IRIS
 
 ## Key Documents
 - ROE
