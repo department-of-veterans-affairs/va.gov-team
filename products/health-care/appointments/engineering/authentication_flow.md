@@ -30,7 +30,7 @@ These access levels are detailed in the below matrix
 | ID.me        | N                 | N                              | N                | N                         |
 | ID.me        | Y                 | Maybe from MVI                 | Maybe from MVI   | Maybe if MVI              |
 | DS Logon 1   | N                 | N                              | Y                | ?                         |
-| DS Logon 1   | Y                 | Maybe from MVI                 | Y                | ?                         |
+| DS Logon 1   | Y                 | Maybe from MVI                 | Y                | Y                         |
 | DS Logon 2   | N/A               | Maybe from MVI                 | Y                | Y                         |
 | DS Logon 3   | N/A               | Maybe from MVI                 | Y                | Y                         |
 
