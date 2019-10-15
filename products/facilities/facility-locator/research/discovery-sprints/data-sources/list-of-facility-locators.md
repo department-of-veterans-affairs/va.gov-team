@@ -49,4 +49,6 @@ original list from 7/2017
 | 43	| Multiple Sclerosis Centers of Excellence | http://www.va.gov/MS/veterans/find_a_clinic/index.asp |||
 
 Additional Locators
+| Ref | Facility Locators/Directory | URL | Category | Notes |
+| --- | --- | --- | --- | --- |
 | 44 | SAMHSA Substance Abuse and Mental Health Services Administration | https://findtreatment.samhsa.gov/locator?sType=sa || Found link on SUD Facility Locator page. This also allows for search for services listed as: Mental Health, SUD and MH, Health Care Centers, Buprenorphine physicians and Veterans Affairs |
