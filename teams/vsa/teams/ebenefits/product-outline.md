@@ -20,7 +20,7 @@
 - [KPIs](#kpis)
 - [Features](#features)
   - [Rate Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)
-  - View and Modify Dependents
+  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
 
 # Implementation Information
 - [Status](#status)
@@ -82,8 +82,8 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 In progress
 
 ## Solution Narrative
-- **Date**: summary of any big changes and why
-- **Date**: summary of any big changes and why
+- **September 2019**: Began discovery of eBenefits in general, chose "View my rated disabilities" as the first feature to migrate
+- **October 2019**: Finalizing Rated Disabilities and started discovery of "View and update my dependents"
 
 ## How to Access and Test
 - Link:
@@ -122,5 +122,6 @@ eBenefits, ...
 
 ### Screenshots
 #### Before
-![Rated Disabilities](Rated_Disabilities_eBenefits_OLD.png)
+...
 #### After
+...
