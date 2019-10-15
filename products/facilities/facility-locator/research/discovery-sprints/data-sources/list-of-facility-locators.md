@@ -1,3 +1,7 @@
+## List of Facility Locators
+original list from 7/2017
+
+
 | Ref | Facility Locators/Directory | URL | Category | Notes |
 | --- | --- | --- | --- | --- |
 | 1 |	Locations Home Page | www.va.gov/directory/guide/home.asp |||
