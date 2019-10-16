@@ -20,9 +20,13 @@
   - The H1 should convey the page's purpose
   - H2s should be used to semantically define the high-level content groups
   - H3 through H6 should be used to define sub-points
+- Design system utility classes should be used to style headings
+  - [Font family](https://design.va.gov/utilities/font-family) should be used to adjust typefaces
+  - [Font size](https://design.va.gov/utilities/font-size) should be used to adjust size in pixels
 - Page `<title>` tags should update on every URL change.
   - H1 text should be included in the page title
   - Page title may be longer or more descriptive than the H1
+  - For example the `<h1>` might read "Learn about benefits" and the `<title>` might read "Learn more about benefits | VA.gov"
 
 ## Formation Design System
 
@@ -33,11 +37,12 @@
 
 1. axe Scans
 
-   1. Front-end engineering should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and run it periodically during their daily work.
-   2. This manual process should be repeated in automated processes that scan rendered pages for regressions every time a build is initiated. These end-to-end (e2e) 508 scans should be looking for `['Section 508', 'WCAG 2 Level A', 'WCAG 2 Level AA']` errors.
+   1. Front-end engineers should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and run it periodically during their daily work.
+   2. The build server will run an axe scan on all rendered pages in Step 2. The axe check scans for Section 508, WCAG2 A and WCAG2 AA [ruleset](https://dequeuniversity.com/rules/axe/) violations.
    3. **Each rendered page must pass an axe check.**
-      * Static pages will be tested as part of Step 2.
-      * Client-side applications **must include an axe check** as part of their e2e suite. The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) for this purpose.
+      * Static Markdown pages should be checked for violations using the axe plugin.
+      * Pages created with the content management system (CMS) should also be checked using the axe plugin.
+      * Client-side applications **must include an axe check** in their end-to-end tests. The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) for this purpose.
 
 2. When you push your code to a feature branch or merge to master, the automated build process will test for Accessibility/508 compliance.
    1. Static content created by Markdown files or the Content Management System (CMS) will be tested as part of the build step.
