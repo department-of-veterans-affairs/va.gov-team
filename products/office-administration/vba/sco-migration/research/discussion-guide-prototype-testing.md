@@ -101,9 +101,9 @@ Observe…
 
 FINDING REQUIRED TRAINING
 
-Have you been able to determine whether you have to complete additional training this year related as part of the Colmery act?  [respond to their input: how’d that go? Or is that something you’re planning to do? ]
+As part of the Colmery Act, we understand that some SCO will need to take some additional training.  Have you determined whether you have to complete additional training this year?  [respond to their input: how’d that go? Or is that something you’re planning to do? ]
 
-Let’s say you needed to complete your training for the year.  Could you walk us through how you’d go about finding the training that’s required for SCOs this year?   
+Let’s say you'd like to complete your training for the year.  Could you walk us through how you’d go about finding the training that’s required for SCOs this year?   
 
 Please talk aloud and let us know what you are thinking.
 
