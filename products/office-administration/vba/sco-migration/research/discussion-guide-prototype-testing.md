@@ -62,20 +62,6 @@ Today we’ll be working with a prototype, not a real website.  We create mock-u
 
 [ Start participants on VA.gov homepage.]
 
-SCENARIOS
-1.	GETTING TO THE SCHOOL RESOURCES PAGE & FINDING SCO HANDBOOK
-* How do they find the school Resources page?
-* How do they get to SCO Page?
-* Can they quickly find SCO Handbook?
-2.	FINDING REQUIRED TRAINING
-* Should we have them find the page again? 
-* Can they quickly find required training?
-3.	FINDING INFO ON AN UPCOMING WEBINARS
-* What’s their reaction to SCO sub-content?
-* How do they return to SCO Page?
-4.	FINDING RESOURCES TO HELP MILITARY-CONNECTED STUDENTS 
-* What’s their reaction to link directing out of SCO Resources?
-* How do they get back to SCO Page?
 
 
 ### Scenario #1 (5 minutes)
@@ -87,7 +73,9 @@ Let’s start off with one of the most important tasks. Could you use this proto
 As you go about finding it, please talk aloud and let us know what you are thinking.
 
 Observe… 
--	How do they (want to) get to the page? 
+* How do they attempt to find the school Resources page?
+* How do they get to SCO Page?
+* Can they quickly find SCO Handbook?
 
 *After the participant has found the required training or given up on the task.*
 
@@ -108,7 +96,7 @@ Let’s say you'd like to complete your training for the year.  Could you walk u
 Please talk aloud and let us know what you are thinking.
 
 Observe… 
--	How do they get to required training once they’re on the page? (Jump links vs. Scroll) 
+* How do they get to required training once they’re on the page? (Jump links vs. Scroll) 
 
 ### Follow up questions 
 
@@ -124,7 +112,9 @@ Have you attended VA Webinars in the past?  [respond to their input]
 Let’s say your colleague mentioned they were going to attend an upcoming webinar on the Nourse STEM Scholarship later this month.  You have a lot of questions about that scholarship.  How would you go about finding information on that webinar?   
 
 Observe… 
--	How do they get back to the School Resources page when they’re done with the task?  
+* How do they get back to the School Resources page when they’re done with the task?  
+* What’s their reaction to SCO sub-content?
+* How do they return to SCO Page?
 
 ### Follow up questions 
 
@@ -162,8 +152,10 @@ When they’ve gotten there OR you’ve confirmed they are where they think they
 That was great info.  Now, could you show me how you would locate Employment Assistance information?
 
 Observe… 
--	What’s their reaction to being directed to content on a different page / in a different template?  
--	How do they try to get back to the School Resources page? 
+* What’s their reaction to being directed to content on a different page / in a different template?  
+* How do they try to get back to the School Resources page? 
+
+
 
 ### Follow up questions 
 
