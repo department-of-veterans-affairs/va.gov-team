@@ -127,9 +127,20 @@ Observe…
 ### Follow up questions 
 
 -	How did you think that went? 
--	How would you typically learn about a new VA program like the Nourse STEM Scholarship? 
+-	How would you typically learn about a new VA program like the Nourse STEM Scholarship?  
 
-### Scenario #5 (10 minutes) FINDING RESOURCES FOR MILITARY-CONNECTED STUDENTS
+### Scenario #5 (5 minutes) HOUSING CALCULATION CHANGES
+
+Usind the site, Where would you look to learn more about recent changes to the housing calculation?
+
+Observe… 
+-	Are there multiple sections that might contain this information?
+
+### Follow up questions 
+
+-	How did you think that went? 
+
+### Scenario #6 (10 minutes) FINDING RESOURCES FOR MILITARY-CONNECTED STUDENTS
 
 We’ve frequently heard that SCOs help military-connected students in many ways beyond certifying their enrollment.  Does that ring true for you? [respond to their input… ]
 
