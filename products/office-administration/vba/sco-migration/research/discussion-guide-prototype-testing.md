@@ -86,7 +86,7 @@ Observe…
 
 ### Scenario #2 (10 minutes) FINDING REQUIRED TRAINING
 
-As part of the Colmery Act, we understand that SCOs at schools with 20 or more students will need to complete additional training this year.
+As part of the Colmery Act, we understand that SCOs at schools with 20 or more GI Bill students will need to complete additional training this year.
 
 Let’s say you'd like to complete your training for the year.  Could you walk us through how you’d go about finding the training that’s required for SCOs this year?   
 
