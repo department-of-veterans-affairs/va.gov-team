@@ -6,7 +6,7 @@
 Remoted Moderated Usability Testing
 
 ## Participants & Recruitment
-Gaol: 10 particpants
+Goal: 10 particpants
 
 Participant Requierements
 - Veteran or Caregiver
