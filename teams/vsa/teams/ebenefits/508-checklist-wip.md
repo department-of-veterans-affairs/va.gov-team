@@ -5,7 +5,7 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
 ### Resources
 * [18F Technology Transformation Services Site](https://accessibility.18f.gov/)
 * [VSP 508 Best Practices (GH)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
-* [Request a 508 Complaince Review (GH)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+* [Request a 508 Compliance Review (GH)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 * [Department of Veterans Affairs 508 Site](https://www.section508.va.gov/)
 * [VSP 508 Audit Request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 * [VSP 508 Team: Status List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)
