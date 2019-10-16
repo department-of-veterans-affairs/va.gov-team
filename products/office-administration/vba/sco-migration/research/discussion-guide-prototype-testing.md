@@ -62,9 +62,7 @@ Today we’ll be working with a prototype, not a real website.  We create mock-u
 
 
 
-### Scenario #1 (5 minutes)
-
-FINDING SCO HANDBOOK
+### Scenario #1 (5 minutes) FINDING SCO HANDBOOK
 
 Let’s start off with one of the most important tasks. Could you use this prototype to show me how you’d go about getting to the SCO Handbook on the VA website?     
 
@@ -86,9 +84,7 @@ Observe…
 
 
 
-### Scenario #2 (10 minutes)
-
-FINDING REQUIRED TRAINING
+### Scenario #2 (10 minutes) FINDING REQUIRED TRAINING
 
 As part of the Colmery Act, we understand that SCOs at schools with 20 or more students will need to complete additional training this year.
 
@@ -104,18 +100,14 @@ Observe…
 -	How did you think that process went? 
 -	How easy or difficult was it to find the training you needed? 
 	
-### Scenario #3 (5 minutes)
+### Scenario #3 (5 minutes) FINDING INFO ON AN UPCOMING WEBINARS
 
-FINDING INFO ON AN UPCOMING WEBINARS
-
-Have you attended VA Webinars in the past?  [respond to their input]
-
-Let’s say your colleague mentioned they were going to attend an upcoming webinar on the Nourse STEM Scholarship later this month.  You have a lot of questions about that scholarship.  How would you go about finding information on that webinar?   
+Let’s say your colleague has signed up for an online session offered by the VA that will walk SCOs through how to comply with recent legislative changes that were part of the Colmery Act.  You are are interested in learning about the changes, as well.  Using the site, how would you go about signing up to attend the same session?
 
 Observe… 
-* How do they get back to the School Resources page when they’re done with the task?  
+* How do they return to the School Resources page when they’re done with the task?  
 * What’s their reaction to SCO sub-content?
-* How do they return to SCO Page?
+* How would you return to the page we were on previously
 
 ### Follow up questions 
 
@@ -123,9 +115,7 @@ Observe…
 -	How would you typically learn about a new VA programs? 
 
 
-### Scenario #4 (5 minutes)
-
-FINDING INFO ON the STEM Program
+### Scenario #4 (5 minutes) FINDING INFO ON THE STEM PROGRAM
 
 Have any of the students at your school asked about the new STEM scholarship?  [respond to their input]
 
@@ -139,9 +129,7 @@ Observe…
 -	How did you think that went? 
 -	How would you typically learn about a new VA program like the Nourse STEM Scholarship? 
 
-### Scenario #5 (10 minutes)
-
-FINDING RESOURCES FOR MILITARY-CONNECTED STUDENTS
+### Scenario #5 (10 minutes) FINDING RESOURCES FOR MILITARY-CONNECTED STUDENTS
 
 We’ve frequently heard that SCOs help military-connected students in many ways beyond certifying their enrollment.  Does that ring true for you? [respond to their input… ]
 
@@ -155,7 +143,6 @@ That was great info.  Now, could you show me how you would locate Employment Ass
 Observe… 
 * What’s their reaction to being directed to content on a different page / in a different template?  
 * How do they try to get back to the School Resources page? 
-
 
 
 ### Follow up questions 
