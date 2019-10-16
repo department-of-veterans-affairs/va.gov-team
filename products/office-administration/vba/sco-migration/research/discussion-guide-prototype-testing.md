@@ -101,7 +101,7 @@ Observe…
 
 FINDING REQUIRED TRAINING
 
-As part of the Colmery Act, we understand that some SCO will need to take some additional training.  Have you determined whether you have to complete additional training this year?  [respond to their input: how’d that go? Or is that something you’re planning to do? ]
+As part of the Colmery Act, we understand that SCOs at schools with 20 or more students will need to complete additional training this year.
 
 Let’s say you'd like to complete your training for the year.  Could you walk us through how you’d go about finding the training that’s required for SCOs this year?   
 
