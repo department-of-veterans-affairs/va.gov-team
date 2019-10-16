@@ -1,6 +1,7 @@
 ## List of Facility Locators
 original list from 7/2017
 
+See analytics for last 30 days [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/all-domains-30-days.csv). The data was accessed 10/16/2019 from https://www.oit.va.gov/analytics/
 
 | Ref | Facility Locators/Directory | URL | Category | Notes |
 | --- | --- | --- | --- | --- |
