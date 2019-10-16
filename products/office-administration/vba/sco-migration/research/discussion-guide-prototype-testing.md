@@ -10,6 +10,8 @@ We’re looking for your impressions on what aspects of the website work well an
 
 Before we start, I’d like to mention a few logistical details:
 
+* The most important thing for you to know for today is that we’re not testing you, we’re trying to get a handle on how well the pages we’ll look at meet the needs of school administrators.  
+There aren’t any wrong answers.  The more you say about what you see and whether it works for you, the better info we have to work with after we wrap up.  
 *  We are interested in hearing your honest opinions.  Our goal is to be sure this content meets the needs of school officials and administrators. You are welcome to express any opinions you wish.  We look forward to hearing your thoughts and ideas and welcome your feedback.
 *  If for any reason you want to pause or stop the session at any time, just let me know. I'll be happy to do so.
 *  By testing the site thoroughly, we hope to ensure that it’s written in a thoughtful way and gives school officials quick access to information they need to help their military-connected students.
@@ -25,11 +27,6 @@ Great! I'm going to turn on screen and audio recording now.  Once it's on, I'll 
 Have you participated in usability testing before? 
 [Respond…   Y: How’d that go? N: No problem. ]
 
-The most important thing for you to know for today is that we’re not testing you, we’re trying to get a handle on how well the pages we’ll look at meet the needs of school administrators.  
-
-There aren’t any wrong answers.  The more you say about what you see and whether it works for you, the better info we have to work with after we wrap up.  
-
-Are you comfortable if we record the audio and screen movements today? 
 
 ### Warm-up Questions (5 minutes)
 
@@ -39,13 +36,13 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Be sure we have this info…
 -	How long have they been SCO? 
--	Where is their school located? 
 -	How many GI Bill students are at their school?
 -	Possibly: How many people supporting military-connected students at their school?
 
 *GENERAL WARM UPS*
 
-1.	How often do you visit the School Certifying Officials content on benefits.va.gov now? 
+1.	Have you visited the School Administrators pages in the Education & Training section of benefits.va.gov before? 
+2.      How often do you visit these pages? 
 3.	What type of info are you looking for when you go there? 
 
 Okay, let's go ahead and walk through a few scenarios.
