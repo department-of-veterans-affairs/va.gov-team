@@ -102,7 +102,7 @@ Observe…
 	
 ### Scenario #3 (5 minutes) FINDING INFO ON AN UPCOMING WEBINARS
 
-Let’s say your colleague has signed up for an online session offered by the VA that will walk SCOs through how to comply with recent legislative changes that were part of the Colmery Act.  You are are interested in learning about the changes, as well.  Using the site, how would you go about signing up to attend the same session?
+Let’s say your colleague has signed up for an online session offered by the VA that will walk SCOs through how to comply with recent legislative changes that were part of the Colmery Act.  You are are interested in learning about the changes, as well.  Using the site, how would you go about signing up to attend the same session in December?
 
 Observe… 
 * How do they return to the School Resources page when they’re done with the task?  
