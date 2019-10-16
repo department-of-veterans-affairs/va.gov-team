@@ -75,3 +75,31 @@ validate my hyoptheses and ensure that I am applying user centered designs to my
   
 ### Acceptance Criteria
 - [ ] Research Plan has been reviewed by [Lauren Alexanderson in Recruiting](https://dsva.slack.com/team/U772MC9BQ) ([email](mailto:lauren.alexanderson@va.gov))
+
+```diff
+- - - -
+```
+## Create Conversation Guide for {feature}
+As a design researcher, I want to create a consistent conversation guide that encompasses the guidance of approved methods and all the components for the users I will be communicating with.
+
+### Task
+- Document a conversation guide to include:
+  - Intro
+  - Warm up Questions
+  - Navigation
+  - Priorities
+  - Features
+  - Post Interview
+  - Thank you and Closing
+  
+### Acceptance Criteria
+- [ ] Research Plan has been reviewed by [someone](#) ([email](mailto:#))
+```diff
+- - - -
+```
+## Create Research Plan for {feature}
+
+```diff
+- - - -
+```
+## Create Research Plan for {feature}
