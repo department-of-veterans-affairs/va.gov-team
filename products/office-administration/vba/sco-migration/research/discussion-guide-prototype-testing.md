@@ -45,10 +45,8 @@ Be sure we have this info…
 
 *GENERAL WARM UPS*
 
-1.	How often do you visit the School Certifying Officials content on va.gov now? 
-2.	How do you typically get to that site? 
+1.	How often do you visit the School Certifying Officials content on benefits.va.gov now? 
 3.	What type of info are you looking for when you go there? 
-4.	What’s it like for you to get the info you need from that website?   
 
 Okay, let's go ahead and walk through a few scenarios.
 
@@ -83,6 +81,9 @@ Observe…
 
 -	How easy or difficult would you say that was? 
 -	What are your impressions of that process? 
+2.	How do you typically get to that site? 
+4.	What’s it like for you to get the info you need from that website?   
+
 
 
 ### Scenario #2 (10 minutes)
