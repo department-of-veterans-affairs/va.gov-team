@@ -12,11 +12,11 @@ Access levels for analytics are defined at https://support.google.com/analytics/
 
 - Manage Users: VSP Analytics-Insights and GA 360 Vendor Lead
 
-- Edit: VA.gov when applicable
+- Edit: When applicable
 
-- Collaborate: Non-va.gov team members on a case-by-case basis
+- Collaborate: When applicable
 
-- Read & Analyze: Default access provided
+- Read & Analyze: Default access provided to all VFS teams
 
 ## Tag Manager
 
