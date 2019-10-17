@@ -4,7 +4,7 @@
 
 For this research session, we will be asking users to share their screen and walk through a high fidelity clickable prototype of the Va.gov profile screen to edit/update the mailing address.
 
-- Prototype link:  TBD
+- Prototype link:  https://invis.io/2AUBKUIW63S
 - Sign in: no sign in required
 
 ## Intro (2 minutes)
