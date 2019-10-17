@@ -7,6 +7,7 @@ Work with Veterans to build, maintain, and improve the public-facing experience 
 
 ### **Product Line** 
 Benefits and Memorial Services 
+[Products Master page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Mission Statement**
 Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
@@ -14,6 +15,8 @@ Enable Veterans, their dependents, and caregivers to easily discover, apply for,
 
 ### **Product Portfolio**
   *TBD
+  -- add link to each product with in the master Product page-- 
+  [Products Master page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Responsibilities**
 TBD
