@@ -119,3 +119,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Synthesis
 - Lessons Learned
 - Read-Out/Results
+
+## Approval
+
+"Research Plan approved by Lauren Alexanderson on 10/17/19" . [#2326] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/2326)
