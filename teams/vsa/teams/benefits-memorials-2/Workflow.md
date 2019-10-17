@@ -1,6 +1,6 @@
-#Workflow
+# Workflow
 
-##Backlog Grooming Refinement
+## Backlog Grooming Refinement
 
 Our backlog is a list of all upcoming features and things to be done by the team. This meeting it intended to keep your backlogs up-to-date and ready to be pulled from for upcoming sprints.
 
@@ -20,12 +20,12 @@ Our backlog is a list of all upcoming features and things to be done by the team
     2.	Define a metric that describes how you can measure the fact that you are solving the problem.
     3.	Define the features that can help you solve the problem.
 
-##Sprint Planning Meeting
+## Sprint Planning Meeting
 *TBD
 
 
-##Stand Up
-###Scrum meeting agenda
+## Stand Up
+### Scrum meeting agenda
     •	Frequency: Daily
     •	Meeting length: 10 minutes (max)
     •	Agenda template:
@@ -34,7 +34,7 @@ Our backlog is a list of all upcoming features and things to be done by the team
         o	What are your goals for today? (3 minutes)
         o	How close are we to hitting our sprint goals? Comfort level? (2 minutes)
 
-###Blockers
+### Blockers
     1.	Is there anything preventing contributors from getting work done? 
             a.	Technical limitations
             b.	Departmental 
@@ -52,7 +52,7 @@ Other daily scrum meeting tips:
 
 
 
-##Retrospective
+## Retrospective
 
     •	What went well in this sprint?
     •	What was bad in this sprint?
@@ -60,7 +60,7 @@ Other daily scrum meeting tips:
     •	What happened in this sprint that could be improved?
     •	Goal: find improvements, identify team’s strengths and weaknesses, collect ideas
 
-###Preparation
+### Preparation
     •	Participants:
         o	Scrum master
         o	Team members
@@ -69,7 +69,7 @@ Other daily scrum meeting tips:
     •	Draw a 2×2 square on the whiteboard (Thinking Google Draw)
     •	Duration: 2 hours
 
-###Moderation
+### Moderation
     •	1 statement on 1 sticky note
         o	Max 2 sticky notes, 
         o	Then put it on the wall, 
@@ -90,7 +90,7 @@ Other daily scrum meeting tips:
     •	What can the team change, what must be changed by someone else?
     •	Goal: List of actions that helps the team to grow, list of impediments
  
-##Additional Questions:
+## Additional Questions:
 1.	What factors contribute to team success?
 2.	What tools and techniques did you use in this sprint? Which ones were most effective?
 3.	What was the most satisfying part of the sprint?
