@@ -14,7 +14,7 @@ This is sometimes due to the situations where Pitney Bowes Spectrum address data
 This Address Override feature requires UX in various places to allow the Veteran to complete their address edit workflow easily and accurately.
   1. Veteran enters accurate address.  If the entered address matches the database address with the highest Confidence Score, the updated address displays on the UI.
   2.  Veteran enters inaccurate address.  The UI will display the entered address and up to 3 address suggestions and allow the Veteran to edit the entered address or the Veteran is required to select 1 address to continue to complete the update.
-  3.  Veteran eneters inaccurate address that the database cannot identify.  The UI will display the entered address with no address suggestions and allow the user to edit the address or continue with the address override.
+  3.  Veteran enters inaccurate address that the database cannot identify.  The UI will display the entered address with no address suggestions and allow the user to edit the address or continue with the address override.
   
   We have clickable prototypes that map out each of the mentioned UX scenarios and we need user testing to answer several questions regarding the usability of the workflow and UI.
 
