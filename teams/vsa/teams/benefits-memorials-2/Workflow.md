@@ -38,10 +38,10 @@ Our backlog is a list of all upcoming features and things to be done by the team
 
 ### Blockers
 1. Is there anything preventing contributors from getting work done? 
-* Technical limitations
-* Departmental 
-* Team dependencies
-* Personal limitations (like vacations booked, people out sick, etc.).
+      - Technical limitations
+      - Departmental 
+      - Team dependencies
+      - Personal limitations (like vacations booked, people out sick, etc.).
 2. What did you do yesterday?
 3. What are your goals for today?
 4. How close are we to hitting our sprint goals? What’s your comfort level?
@@ -64,9 +64,9 @@ Our backlog is a list of all upcoming features and things to be done by the team
 
 ### Preparation
 1. Participants:
-* Scrum master
-* Team members
-* Optional: product owner
+      - Scrum master
+      - Team members
+      - Optional: product owner
 2. Google Draw
 3. Draw a 2×2 square on the whiteboard (Thinking Google Draw)
 4. Duration: 2 hours
@@ -77,20 +77,20 @@ Our backlog is a list of all upcoming features and things to be done by the team
        * Then put it on the wall, 
        * Silence
 2. Describe the squares on the whiteboard
-        o	Smiley face: things you liked or what went good?
-        o	Frown face: things you disliked or what went bad?
-        o	Flowers: things you appreciate or whom to thank?
-        o	Light bulb: ideas that you have or what can be improved/changed?
+      - Smiley face: things you liked or what went good?
+      - Frown face: things you disliked or what went bad?
+      - Flowers: things you appreciate or whom to thank?
+      - Light bulb: ideas that you have or what can be improved/changed?
 3. 5-10 minutes:  then put sticky notes on the whiteboard
 4. Every team members says a few sentences about their sticky notes
 5. Questions:
-        o	Smiley face: how can we repeat it?
-        o	Frown face: how can we change it for the future?
-        o	Ideas: can we implement it?
-        o	In parallel – create the actions
-6. add a square on the whiteboard where you write down actions (things that should be changed, improved, repeated and also ideas etc.)
-    * What can the team change, what must be changed by someone else?
-    * Goal: List of actions that helps the team to grow, list of impediments
+      - Smiley face: how can we repeat it?
+      - Frown face: how can we change it for the future?
+      - Ideas: can we implement it?
+      - In parallel – create the actions
+6. Add a square on the whiteboard where you write down actions (things that should be changed, improved, repeated and also ideas etc.)
+      * What can the team change, what must be changed by someone else?
+      * Goal: List of actions that helps the team to grow, list of impediments
  
 ## Additional Questions:
 1. What factors contribute to team success?
