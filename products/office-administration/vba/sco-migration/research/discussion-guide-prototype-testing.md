@@ -42,7 +42,7 @@ Be sure we have this info…
 *GENERAL WARM UPS*
 
 1.	Have you visited the School Administrators pages in the Education & Training section of benefits.va.gov before? 
-2.      How often do you visit these pages? 
+2.	How often do you visit these pages? 
 3.	What type of info are you looking for when you go there? 
 4.	Is there any content you wish were available on the site?
 
