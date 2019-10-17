@@ -6,4 +6,4 @@
   - What has already been leveraged with logic?
 - Did rainbows consider doing "View" first or why did "Add" get picked up first?
   - Was "View" viewed more of a resulting or destination page?
-
+- Is it possible to only submit part of the form, for things like updates?
