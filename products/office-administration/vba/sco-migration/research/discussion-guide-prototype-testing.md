@@ -77,8 +77,8 @@ Observe…
 
 -	How easy or difficult would you say that was? 
 -	What are your impressions of that process? 
-2.	How do you typically get to that site? 
-4.	What’s it like for you to get the info you need from that website?   
+- 	How do you typically get to that site? 
+-	What’s it like for you to get the info you need from that website?   
 
 
 
@@ -86,7 +86,7 @@ Observe…
 
 As part of the Colmery Act, we understand that SCOs at schools with 20 or more GI Bill students will need to complete additional training this year.
 
-Let’s say you'd like to complete your training for the year.  Could you walk us through how you’d go about finding the training that’s required for SCOs this year?   
+Let’s say you'd like to complete your training for the year.  Using the site, please walk us through how you’d go about finding the training that’s required for SCOs this year.
 
 Please talk aloud and let us know what you are thinking.
 
@@ -117,7 +117,7 @@ Observe…
 
 Have any of the students at your school asked about the new STEM scholarship?  [respond to their input]
 
-Let’s say one of your students is nearing the end of his GI Bill entitlement and is interested in applying for the STEM Scholarship.  How would you go about finding information on who is eligible to participate in the STEM program?   
+Let’s say one of your students is nearing the end of his GI Bill entitlement and is interested in applying for the STEM Scholarship.  Using the site, How would you find information on who is eligible to participate in the STEM program?   
 
 Observe… 
 -	How do they get back to the School Resources page when they’re done with the task?  
