@@ -32,9 +32,9 @@ Our backlog is a list of all upcoming features and things to be done by the team
 2. Meeting length: 10 minutes (max)
 3. Agenda template:
 4. Blockers (2 minutes)
-- * What did you do yesterday? (3 minutes)
-- * What are your goals for today? (3 minutes)
-- * How close are we to hitting our sprint goals? Comfort level? (2 minutes)
+      - What did you do yesterday? (3 minutes)
+      - What are your goals for today? (3 minutes)
+      - How close are we to hitting our sprint goals? Comfort level? (2 minutes)
 
 ### Blockers
 1. Is there anything preventing contributors from getting work done? 
