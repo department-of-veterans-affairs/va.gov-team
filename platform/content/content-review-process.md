@@ -147,6 +147,8 @@ In addition, a content review can be requested any time a team thinks they could
 
 ## How to request a content review 
 
+Depending on the complexity and amount of content, content review will be completed within 3 days.
+
 You can request a content review several ways. 
 
 A.  **If the content is short,** please @ mention peggygannon in the Zenhub issue or pull request in which the content appears. Please also add @peggygannon as a reviewer or assignee.  
@@ -193,7 +195,6 @@ The reviewer will update the Zenhub issue with a Word document (with changes tra
 If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
 
 5. When all changes are completed, close the issue.
-
 
 
 ## If you need help
