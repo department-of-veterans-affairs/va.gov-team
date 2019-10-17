@@ -9,10 +9,10 @@ Our backlog is a list of all upcoming features and things to be done by the team
 **Meeting length:** 30 minutes
 
 **Agenda template:**
-•	What wasn’t completed last sprint that needs to be completed? (5 minutes)
-•	What came up that needs to be fixed? (10 minutes)
-•	What needs to get done to move our product forward? What’s the highest priority? (10 minutes)
-•	What’s something that could come down the pipeline that would disrupt everything? (5 minutes)
+* What wasn’t completed last sprint that needs to be completed? (5 minutes)
+* What came up that needs to be fixed? (10 minutes)
+* What needs to get done to move our product forward? What’s the highest priority? (10 minutes)
+* What’s something that could come down the pipeline that would disrupt everything? (5 minutes)
 
 **Github**
 ⚡️ I would like to have Github open during the meeting to have new bugs, issues and technical debt to help facilitate the meeting.
