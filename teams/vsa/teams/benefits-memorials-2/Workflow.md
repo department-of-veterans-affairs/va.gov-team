@@ -5,7 +5,9 @@
 Our backlog is a list of all upcoming features and things to be done by the team. This meeting it intended to keep your backlogs up-to-date and ready to be pulled from for upcoming sprints.
 
 **Frequency**: Sprintly (bi-weekly)
+
 **Meeting length:** 30 minutes
+
 **Agenda template:**
     •	What wasn’t completed last sprint that needs to be completed? (5 minutes)
     •	What came up that needs to be fixed? (10 minutes)
