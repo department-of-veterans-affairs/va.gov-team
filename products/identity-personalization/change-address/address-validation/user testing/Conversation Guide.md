@@ -53,7 +53,7 @@ Form screen displays:
 
 Alert / Address Selection screen:
 
-3. This screen has an alert - is is clear why we show the alert?  Is the alert messaging clear as to what is happening?
+3. This screen has an alert - is it clear why we show the alert?  Is the alert messaging clear as to what is happening?
 4. Please select an address option to continue
 
 Update screen:
