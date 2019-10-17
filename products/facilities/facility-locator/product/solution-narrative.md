@@ -11,14 +11,10 @@
   - Where does the integration of benefits tie in?   
   **Andy:** (Oct. 1, 2019) We will be designed new structed content for the Facility Locator that (1.) surfaces basic benefits eligibility information and (2.) drives users to the benefit hubs.
   
-  
-  **What defines Facility Locator 2.0?**
-  
-  
-  **Does it make sense to indicate what type of user is looking for a Facility?**
-    - _I am a Veteran_
-    - _I am a family member/caregiver (same? different?)_
-    - _I am searching on behalf of a Veteran_
+**User Personas** 
+  - Does it make sense to indicate what type of user is looking for a Facility?
+  **Andy:** (in Slack Oct. 16, 2019) Previously VA.gov used persona links (Veteran, Caregiver, etc) take you to persona pages, which linked out to content. The decision was made to NOT build the new VA.gov’s info. architecture based on personas. Veterans are our default users. We know family members and caregivers put themselves in the shoes of Veterans when navigating VA.
+
+**What defines Facility Locator 2.0?**
+   
     
-    **I notice counseling services (children, family, relationship) on the caregiver journey map. Are these services included under Mental Health?**
-    **What about "peer support" for caregivers? (Is this CSP?) How are these services located?** Michelle: Note that I understand these may not be our first priority items but am asking in case the ideas impact how information is organized/presented. 
