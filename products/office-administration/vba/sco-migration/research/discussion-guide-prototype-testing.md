@@ -4,15 +4,15 @@
 ### Welcome and Opening Remarks (5 minutes)
 *[When the participant is ready, the moderator will begin the session with the following introduction.]*
 
-Thanks for joining us today! My name is [Theresa], and I also have two colleagues on the line, Amy and Cindy.  They are observing and taking notes. We are working on refining content within the school resources section of the VA website and are interested in getting your thoughts on some work in progress. 
+Thanks for joining us today! My name is [Theresa], and I also have two colleagues on the line, Amy and Cindy. We work with the Education & Training group at the Veterans Administration and we're in the midst of redesigning the School Resources section of the VA website.  As we update pages on the site, we to share the designs with people in sessions like this to be sure the contain all of the necessary information and are easy to use.   
 
 We’re looking for your impressions on what aspects of the website work well and where we might make improvements to make things even easier for school certifying officials & administrators.
 
 Before we start, I’d like to mention a few logistical details:
 
-* The most important thing for you to know for today is that we’re not testing you, we’re trying to get a handle on how well the pages we’ll look at meet the needs of school administrators.  
-There aren’t any wrong answers.  The more you say about what you see and whether it works for you, the better info we have to work with after we wrap up.  
-*  We are interested in hearing your honest opinions.  Our goal is to be sure this content meets the needs of school officials and administrators. You are welcome to express any opinions you wish.  We look forward to hearing your thoughts and ideas and welcome your feedback.
+* The most important thing for you to know for today is that we’re not testing your knowlege or ability, we’re interested in understanding how well the pages meet the needs of school administrators.  
+As our focus is on the design of the webpage, there are no wrong answers.  The more you say about what you see and whether it works for you, the better info we have to work with as we wrap up the design process.  
+*  Our goal is to be sure this content meets the needs of school officials and administrators, so we are interested in hearing your honest opinions.   You are welcome to express any opinions you wish.  We look forward to hearing your thoughts and ideas and welcome your feedback.
 *  If for any reason you want to pause or stop the session at any time, just let me know. I'll be happy to do so.
 *  By testing the site thoroughly, we hope to ensure that it’s written in a thoughtful way and gives school officials quick access to information they need to help their military-connected students.
 *  Do you have any questions so far? 
