@@ -1,8 +1,8 @@
 # Agile Ceremonies Overview
 
-Agile Ceremonies are timeboxed meetings that happen throughout the Sprint. The ceremonies include Daily Standup, Sprint Planning, Backlog Grooming, Sprint Review, and Sprint Retrospective.
+VSA teams work in a 2 week cycle known as a Sprint. During a Sprint, the team assigns and commits to tasks that can be completed within this time frame. In order to deliver the best business value, there are multiple Agile Ceremonies in the Sprint.  Agile Ceremonies are timeboxed meetings that happen throughout the Sprint. The ceremonies include **Daily Standup, Sprint Planning, Backlog Grooming, Sprint Review,** and **Sprint Retrospective.** Below are the descriptions of each. 
 
-Daily Standup:
+## Daily Standup:
 
 * A time boxed ceremony
 * Short and focused (15 min maximum)
@@ -19,42 +19,42 @@ Purpose:
 
 
 
-Sprint Planning: 
+## Sprint Planning: 
 
 Time boxed Scrum ceremony that allows the Team to discuss and commit to the Sprint Backlog:
 Attended by the Product Team, Scrum Master, DSVA Lead, and the VA Product Owner 
 
 Prior to Sprint Planning
-User Stories should be estimated using Story Points 
-Capacity Planning (explained below) should be done
-DSVA lead or Product Owner describes the highest priority User Stories and their business value
-Team gets final clarification on User Stories and pulls them from the Backlog column into the Current Sprint Column as well as assigning them to the Sprint Milestone
-Tasks are created and estimated
-Scrum Master ensures Team is not over or under committed
-Team commits to completing the now defined Sprint Backlog
+* User Stories should be estimated using Story Points 
+* Capacity Planning (explained below) should be done
+* DSVA lead or Product Owner describes the highest priority User Stories and their business value
+* Team gets final clarification on User Stories and pulls them from the Backlog column into the Current Sprint Column as well as assigning them to the Sprint Milestone
+* Tasks are created and estimated
+* Scrum Master (PM) ensures Team is not over or under committed
+* Team commits to completing the now defined Sprint Backlog
 
 *The output of a Sprint Planning meeting is a Team accepted Sprint Backlog*
 
 Capacity Planning: 
-An activity held in preparation for Sprint Planning to:
-Determine max amount of hours each Team member has available to complete work within a Sprint 
-Ensure the Team does not take on more work than is reasonable
-Determine a realistic work schedule for the Team
-Account for external commitments, such as out-of-office time and outside projects
-Input provided by the Team
+* An activity held in preparation for Sprint Planning to:
+* Determine max amount of hours each Team member has available to complete work within a Sprint 
+* Ensure the Team does not take on more work than is reasonable
+* Determine a realistic work schedule for the Team
+* Account for external commitments, such as out-of-office time and outside projects
+* Input provided by the Team
 
 
 
 
-Backlog Grooming:
+## Backlog Grooming:
 
-Meetings where the Product Owner and Scrum Master groom the backlog, along with available members of the Product Team
-Grooming may include the following:
-Adding items
-Removing Items
-Changing Priority
-Changing Acceptance Criteria
-These meetings occur throughout the project within a sprint
+* Meetings where the Product Owner and Scrum Master groom the backlog, along with available members of the Product Team
+* Grooming may include the following:
+  * Adding items
+  * Removing Items
+  * Changing Priority
+  * Changing Acceptance Criteria
+* These meetings occur throughout the project within a sprint
 
 *The output of a Backlog Grooming meeting is a Prioritized Backlog for work in future Sprints.*
 
@@ -62,39 +62,35 @@ These meetings occur throughout the project within a sprint
 What is a Backlog? 
 A continuously prioritized list of functional and non-functional project requirements, features, defects, and work items
 Purpose: 
-Provides insight into project vision and focus
-Displays priority and effort for each requirement
-Used to communicate customer needs between Team, Customers, and Stakeholders
+* Provides insight into project vision and focus
+* Displays priority and effort for each requirement
+* Used to communicate customer needs between Team, Customers, and Stakeholders
+
 Benefits:
-Allows for long term planning and the ability to identify risks early
-Single repository for requirements
-Provides Team direction by prioritization 
-Constantly inspected and adapted to reflect current customer needs
+* Allows for long term planning and the ability to identify risks early
+* Single repository for requirements
+* Provides Team direction by prioritization 
+* Constantly inspected and adapted to reflect current customer needs
 
 
 
 
-Sprint Review: 
+## Sprint Review: 
 
-A ceremony facilitated by the Scrum Master where the Team provides a demonstration of completed functionality to the Product Owner and DSVA Lead for acceptance of the finished work.
-Held at the end of each Sprint to inspect completed work 
-Present the completed backlog items to be Accepted and/or Rejected based on predetermined Acceptance Criteria 
+* A ceremony facilitated by the Scrum Master where the Team provides a demonstration of completed functionality to the Product Owner and * DSVA Lead for acceptance of the finished work.
+* Held at the end of each Sprint to inspect completed work 
 
 *The output of a Sprint Review meeting is an acceptance by the Product Owner and DSVA of work finished in the Sprint.*
 
 
 
+## Sprint Retrospective:
 
-
-
-
-Sprint Retrospective:
-
-A meeting held at the conclusion of each Sprint in which the Team and Scrum Master meet to celebrate Team successes, reflect on what can be improved, and develop a plan to apply lessons learned going forward. 
-Retrospective discussion points:
-What went well?
-What did not go well?
-What action items are we tracking to help with improvements?
+* A meeting held at the conclusion of each Sprint in which the Team and Scrum Master meet to celebrate Team successes, reflect on what can be improved, and develop a plan to apply lessons learned going forward. 
+* Retrospective discussion points:
+  * What went well?
+  * What did not go well?
+  * What action items are we tracking to help with improvements?
 
 *The output of a Sprint Retrospective meeting is a Team determining and committing to 1-3 actionable items to improve during the next Sprint.* 
 
