@@ -113,7 +113,7 @@ Please list the people who will be serving in each role. **Include the primary p
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
 ## Resources
-- Project Brief: 
+- Project Brief
 - Discussion Guide
 - Notes & Recordings
 - Synthesis
