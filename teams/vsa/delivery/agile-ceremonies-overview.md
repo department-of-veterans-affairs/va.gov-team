@@ -9,11 +9,11 @@ Time boxed ceremony where each team member answers the following questions:
 * What will I do today?
 * What impediments or blockers do I have that prevent me from completing my work?
 
-Daily Standups are:
+Daily Standups:
 
 * Short and focused (15 min maximum)
 * Replaces the need for other status meetings
-* Facilitated by the Scrum Master
+* Facilitated by the PM (Scrum Master)
 * Occurs daily at the same time
 * Performed by the Team, for the Team
 
