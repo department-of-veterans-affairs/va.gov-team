@@ -38,7 +38,7 @@ Prior to Sprint Planning
 * Scrum Master (PM) ensures Team is not over or under committed
 * Team commits to completing the now defined Sprint Backlog
 
-__*The output of a Sprint Planning meeting is a Team accepted Sprint Backlog*__
+__*The outcome of a Sprint Planning meeting is a Team accepted Sprint Backlog*__
 
 Capacity Planning: 
 An activity held in preparation for Sprint Planning to:
@@ -63,7 +63,7 @@ Meetings where the Product Owner and PM groom the Backlog (description below), a
   * Changing Acceptance Criteria
 * These meetings occur throughout the project within a sprint
 
-__*The output of a Backlog Grooming meeting is a Prioritized Backlog for work in future Sprints.*__
+__*The outcome of a Backlog Grooming meeting is a Prioritized Backlog for work in future Sprints.*__
 
 
 What is a Backlog? 
@@ -87,7 +87,7 @@ Benefits:
 A ceremony facilitated by the PM where the Team provides a demonstration of completed functionality to the Product Owner and DSVA Lead for acceptance of the finished work.
 * Held at the end of each Sprint to inspect completed work 
 
-__*The output of a Sprint Review meeting is an acceptance by the Product Owner and DSVA of work finished in the Sprint.*__
+__*The outcome of a Sprint Review meeting is an acceptance by the Product Owner and DSVA of work finished in the Sprint.*__
 
 
 
@@ -99,7 +99,7 @@ A meeting held at the conclusion of each Sprint in which the Team and Scrum Mast
   * What did not go well?
   * What action items are we tracking to help with improvements?
 
-__*The output of a Sprint Retrospective meeting is a Team determining and committing to 1-3 actionable items to improve during the next Sprint.*__
+__*The outcome of a Sprint Retrospective meeting is a Team determining and committing to 1-3 actionable items to improve during the next Sprint.*__
 
 
 
