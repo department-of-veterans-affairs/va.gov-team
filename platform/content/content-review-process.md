@@ -135,7 +135,7 @@ The following is reviewed during a content review:
 
 Content should be brought in as early as possible when you begin work on a product or tool. It's important to have a content person at a product kickoff meeting, so they are aware of the tool/form/page's use cases and audience. This will better inform the content review later on in the process.
 
-In addition to having content part of a product kickoff meeting, a content review should be requested at these times:  
+A content review should be requested at these times:  
 
 * **Before a user research session.** This is to ensure participants don't get distracted by misspellings and grammar errors, and that the content works with the tool functionality.  
 * **Before a page or prototype is share with a stakeholder or SME.** This is to ensure SMEs aren't distracted by misspelling and grammar errors, and that the content works with the tool functionality.
@@ -147,20 +147,18 @@ In addition, a content review can be requested any time a team thinks they could
 
 ## How to request a content review 
 
-Depending on the complexity and amount of content, content review will be completed within 3 days.
+Depending on the complexity and amount of content, content review will be completed **within 3 days**. More involved content reviews might take longer and due dates will be discussed at the time of request. 
 
 You can request a content review several ways. 
 
 A.  **If the content is short,** please @ mention peggygannon in the Zenhub issue or pull request in which the content appears. Please also add @peggygannon as a reviewer or assignee.  
 
-B. **For more complex content reviews, e.g, online applications, full pages, new tool launches,** please open a Zenhub issue in ```va.gov-team repo```. And, 
+B. **For more complex content reviews, e.g, E2E review of online applications, newly created pages, new tool launches,** please open a Zenhub issue in ```va.gov-team repo```. And, 
 1. Choose standard issue template.
 2. Title for the issue: ```Request Content review: [title of tool/app/page]```
 3. Be sure to include the following in the issue:
 
 **User story**
-
-As a _____, I need _____ so I can _____.
 
 User story example: *As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure it's accurate, aligns with VA style, and is error-free.*
 
@@ -180,8 +178,6 @@ User story example: *As a member of a team building with or on VSP, I need to my
 
 If the content is part of an upcoming research session or product launch, list a specific timeframe for when this content should be reviewed.
 
-**Depending on the complexity and amount of content, content review will be completed within 3 days.**
-
 Please also tag the issue with:
 
 -	Milestone (when do you want this completed?)
@@ -193,8 +189,6 @@ Please also tag the issue with:
 4. Once the content review is complete:
 The reviewer will update the Zenhub issue with a Word document (with changes tracked) to show where content needs to be changed.
 If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
-
-5. When all changes are completed, close the issue.
 
 
 ## If you need help
