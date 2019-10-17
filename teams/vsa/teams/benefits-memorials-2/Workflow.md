@@ -9,18 +9,18 @@ Our backlog is a list of all upcoming features and things to be done by the team
 **Meeting length:** 30 minutes
 
 **Agenda template:**
-    •	What wasn’t completed last sprint that needs to be completed? (5 minutes)
-    •	What came up that needs to be fixed? (10 minutes)
-    •	What needs to get done to move our product forward? What’s the highest priority? (10 minutes)
-    •	What’s something that could come down the pipeline that would disrupt everything? (5 minutes)
+•	What wasn’t completed last sprint that needs to be completed? (5 minutes)
+•	What came up that needs to be fixed? (10 minutes)
+•	What needs to get done to move our product forward? What’s the highest priority? (10 minutes)
+•	What’s something that could come down the pipeline that would disrupt everything? (5 minutes)
 
 **Github**
 ⚡️ I would like to have Github open during the meeting to have new bugs, issues and technical debt to help facilitate the meeting.
 
 **Problem Board**
-    1.	Define a business problem you are trying to solve or a goal that you are trying to reach.
-    2.	Define a metric that describes how you can measure the fact that you are solving the problem.
-    3.	Define the features that can help you solve the problem.
+1.	Define a business problem you are trying to solve or a goal that you are trying to reach.
+2.	Define a metric that describes how you can measure the fact that you are solving the problem.
+3.	Define the features that can help you solve the problem.
 
 ## Sprint Planning Meeting
 *TBD
@@ -28,23 +28,23 @@ Our backlog is a list of all upcoming features and things to be done by the team
 
 ## Stand Up
 ### Scrum meeting agenda
-    •	Frequency: Daily
-    •	Meeting length: 10 minutes (max)
-    •	Agenda template:
-        o	Blockers (2 minutes)
-        o	What did you do yesterday? (3 minutes)
-        o	What are your goals for today? (3 minutes)
-        o	How close are we to hitting our sprint goals? Comfort level? (2 minutes)
+•	Frequency: Daily
+•	Meeting length: 10 minutes (max)
+•	Agenda template:
+o	Blockers (2 minutes)
+o	What did you do yesterday? (3 minutes)
+o	What are your goals for today? (3 minutes)
+o	How close are we to hitting our sprint goals? Comfort level? (2 minutes)
 
 ### Blockers
-    1.	Is there anything preventing contributors from getting work done? 
-            a.	Technical limitations
-            b.	Departmental 
-            c.	Team dependencies
-            d.	Personal limitations (like vacations booked, people out sick, etc.).
-    2.	What did you do yesterday?
-    3.	What are your goals for today?
-    4.	How close are we to hitting our sprint goals? What’s your comfort level?
+1.	Is there anything preventing contributors from getting work done? 
+a.	Technical limitations
+b.	Departmental 
+c.	Team dependencies
+d.	Personal limitations (like vacations booked, people out sick, etc.).
+2.	What did you do yesterday?
+3.	What are your goals for today?
+4.	How close are we to hitting our sprint goals? What’s your comfort level?
 
 **What to avoid in your daily scrum:**
 Lateness
