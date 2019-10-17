@@ -47,7 +47,7 @@ An activity held in preparation for Sprint Planning to:
 * Ensure the Team does not take on more work than is reasonable
 * Determine a realistic work schedule for the Team
 * Account for external commitments, such as out-of-office time and outside projects
-* Input provided by the Team
+* Receive input provided by the Team
 
 
 
