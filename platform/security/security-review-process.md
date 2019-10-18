@@ -10,13 +10,12 @@ This isn't intended to be a thorough audit, but a high-level overview of your ap
 
 ## Process
 
-1. File a [GitHub issue in `va.gov-team`](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new):
+1. File a [GitHub issue in `va.gov-team-sensitive`](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/new):
     * Provide the title "Security Review for [feature name]"
     * Tag with the label `security-review`
     * Provide the following in the ticket:
-        * an architecture diagram, showing involved systems + data flows
+        * A link to an architecture diagram in your product's documentation in GitHub, showing involved systems + data flows, including any dependent services (i.e. `vets-api` --> ???)
         * description of any new publicly-exposed endpoints (`vets-api` or otherwise)
-        * description of any new interactions with dependent services (i.e. `vets-api` --> ???)
         * description of any other security hotspots you're concerned about / want extra attention on
 1. Schedule an hour "Security Review" meeting with Andrew Gunsch (`@gunsch`), including:
     * Invite both a lead engineer responsible for developing the feature and a product manager / product owner responsible for the feature
