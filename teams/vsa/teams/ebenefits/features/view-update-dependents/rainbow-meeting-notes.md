@@ -72,8 +72,25 @@
 - So if you have dependents established and they are not associated, you would need to use the 686 to associate them to an award.
 - Identifying how to get the Veteran more money through the 686 is the goal and another might be setting up my family and working backwards from the 686 submission, might be a good way to tackle that.
 - Aside from things that require a 686 form, what are some other things that a Veteran might want to do?
-  - Education benefits are transferable and that is probably the biggest one (and most interactive) aside from increasing your disablity claim which is a little more silent in that associations increase that dollar amount.  Education requires more information about schools and dates - there are 3 or 4 different programs that are involved.
-  - Another is death and indemmnity benfits: there are opportunities to streamline applying for a burial
+  - Education benefits are transferable and that is probably the biggest one (and most interactive) aside from increasing your disablity claim which is a little more silent in that associations simply increase that dollar amount.  Education requires more information about schools and dates - there are 3 or 4 different programs that are involved.
+  - Another is death and indemmnity benefits: there are opportunities to streamline applying for a burial
+- When work for the 686 dropped off, do you remember any gaps?  Frontend looks mostly done, but not connected...whats a high level status of where things were left?
+  - Frontend is mostly done
+  - We wanted to do a time and motion study where we took our form next to the existing process and did some usability testing and calculate the RBPS against a large set of use cases and see if that would show validation.
+  - For backend, there is connection to some backend service (Tuxedo?) but there is some BGS service that the eBN 686 services are making use of them as well and it is active.
+- Paperwork reduction act: were you responsible for handling that?
+  - No not really.
+- It seems like there can be some smaller functions that are within the 686 form that can be addressed by the Veteran and they can continue on and in the background, we build and submit the complete 686 for them.  Alternatively, as it is now, we are looking at an end to end process and walking through the entire form and then submitting.
+  - But what if someone wants to fill out the entire 686?  Maybe there is a whole 686 option?
+- The 686 can help prevent some fraud vectors in that when things change like mutliple marriage histories but there is no room to break up the form as the VA is not going to allow for that.
+  - For usability testing, maybe we can break into some smaller tasks and see if we can make it into get that into flow.
+
+**Usecases**
+- As a Veteran with dependents, I want to simply add my family into my account so that I can simply see that they are there.
+  - We might want to create some logic so that we simply capture that information and store it.  Submitting a 686 for family members that aren't going to have any effect on a benefit might confuse those VA employees on the back end and yield no results.  It could go into a 686 that gets stored and not submitted but it depends on the data sources. You should not have to 686 jsut an addition.
+- I want to add dependents to increase my compensation etc (or education, for example)
+ - Then a 686 needs to be submitted.
+- An inert place where you store dependents and associations ahead of assigning them to specific benefits would be a great way to navigate the use of the 686.  Submit once there is a need to.  Dependents not on award might be a great place to start with an inert list for storage in your profile/account.
 
 
 
