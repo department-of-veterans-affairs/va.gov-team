@@ -7,7 +7,7 @@
 - How much user validation has been done?
 - Did your team consider doing "View" first or why did "Add" get picked up first to go into staging? **No, see below**
 - Who can help with DS Login?  Or a point of contact to get started
-  - Accounts might be blown away...anticipate a DM with Nuranjhan(sp?)
+  - Accounts might be blown away...anticipate a DM with Niranjan Sathindran (@niranjans)
 - Is there a check to see if the TCDR is over 30%?  **No**
 
 ## Discussion with Andrea Schneider
