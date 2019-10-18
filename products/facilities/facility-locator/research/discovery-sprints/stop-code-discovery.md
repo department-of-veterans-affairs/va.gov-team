@@ -1,6 +1,8 @@
 ## Stop Code discovery
 
-Stop codes are an accurate way to determine which services are offered at a particular location/facility because they are used in the documentation of a patient visit. 
+There are (at least) 583 documented stop codes. A particular service/type of care can have more than one affiliated stop code. 
+
+Stop codes are an accurate way to determine which services are offered at a particular location/facility because they are used by the clinican in documenting a patient visit. 
 
 
 From DSVA Health Care Content and Taxonomy Data, this appears to be the structure for stop codes:
