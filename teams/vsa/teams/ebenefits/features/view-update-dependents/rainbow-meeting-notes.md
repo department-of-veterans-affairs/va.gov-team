@@ -73,7 +73,7 @@
 - Identifying how to get the Veteran more money through the 686 is the goal and another might be setting up my family and working backwards from the 686 submission, might be a good way to tackle that.
 - Aside from things that require a 686 form, what are some other things that a Veteran might want to do?
   - Education benefits are transferable and that is probably the biggest one (and most interactive) aside from increasing your disablity claim which is a little more silent in that associations increase that dollar amount.  Education requires more information about schools and dates - there are 3 or 4 different programs that are involved.
-  - Another is death and indemmnity benfits: are there opportunities to streamline applying for a burial
+  - Another is death and indemmnity benfits: there are opportunities to streamline applying for a burial
 
 
 
