@@ -8,16 +8,21 @@
 ## Background
 _Explain the current state of the feature._
 
-Currently, our terraform plans are gathered through a manual step that requires someone with access to `terraform plan`, copy the output, and paste it into a PR. There are two issues with that flow:
-
-1. Requires someone with access. 
-
-2. Involves manual steps.
+Currently, we are running terraform (plan and apply) from workstations manually. When a PR is opened, the expectation is that they add a `plan` output, it's approved, the change is `apply`'ed, then merged into master.
 
 ## Motivation
 _Why do we want to change the current implementation? What problem(s) does the change solve?_
 
-Wrapping this workflow in some for of automation will improve our process in multiple ways. It will help increase new hire velocity enabling them to `terraform plan` even before they get access to AWS. It could increase overall velocity by automating a currently manual, repetitive step. Finally, it will also provide us with a means to add a step for `terraform fmt` which will keep our terraform files clean and standardized. 
+The workflow described above worked for a while when there were only a 2-3 engineers working really closely together. While not ideal, there wasn't a strong enough need to add additional systems for a while. With more engineers onboarded and making changes, we see a number of problems:
+
+1. Requires a workstation have write access to prod which:
+   - imits the pool of folks able to contribute
+   - weakens security posture
+1. Involves manual steps of uploading a plan, then doing the apply/merge in the correct order
+
+Wrapping this workflow in some for of automation will improve our process in multiple ways. It will help increase new hire velocity enabling them to `terraform plan` even before they get direct access to AWS. It could increase overall velocity by automating a currently manual, repetitive step. Finally, it will also provide us with a means to add a step for `terraform fmt` which will keep our terraform files clean and standardized. 
+
+Additionally, there are times where edits to infrastructure may happen outside of Terraform (for example: someone is testing a setting change in an ELB by tweaking it in dev then forgets to commit back), and when it's time to run a `plan` there's unclean state that has to be addressed first.
 
 ## Design
 _Explain the proposed changes in enough detail so that a team member with working knowledge 
