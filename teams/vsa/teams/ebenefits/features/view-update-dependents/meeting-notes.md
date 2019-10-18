@@ -6,9 +6,10 @@
 - What can we leverage with logic?
 - Did rainbows consider doing "View" first or why did "Add" get picked up first?
   - Was "View" viewed more of a result or destination page to start the process?
-  
+- Who can help with DS Login?  Or a point of contact to get started
+
 ## Discussion with Andrea Schneider
-- Work was done mostly in 2018 over the courseof 6 months
+- Work was done mostly in 2018 over the course of 6 months
 - There were some stakeholder blockers: confusion with the form
 - unicorns wrapped up in May 2019 after they picked it up
   - Felt like they were 80% there but the next 20% had some unknowns
@@ -16,7 +17,7 @@
   _Associate to a claim is not the same as service connected_
 - "Save in progress" helps quite a bit
 - After submission, very little is automated actually, a person needs to take a look at it
-- Questions about the form itself need to go to the **business owner**
+- Questions about the form itself need to go to the **business owner (?)**
 - Order of questions can be loose as long as data gets in 
 - In general, logic can be used but it seems that walking through the form is the best course to take
 - As far as validatoin goes, A/B test as much as possible and get to staging when you feel close
