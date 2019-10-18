@@ -10,11 +10,11 @@ We’re looking for your impressions on what aspects of the website work well an
 
 Before we start, I’d like to mention a few logistical details:
 
-* The most important thing for you to know for today is that we’re not testing your knowlege or ability, we’re interested in understanding how well the pages meet the needs of school administrators.  
-As our focus is on the design of the webpage, there are no wrong answers.  The more you say about what you see and whether it works for you, the better info we have to work with as we wrap up the design process.  
-*  Our goal is to be sure this content meets the needs of school officials and administrators, so we are interested in hearing your honest opinions.   You are welcome to express any opinions you wish.  We look forward to hearing your thoughts and ideas and welcome your feedback.
-*  If for any reason you want to pause or stop the session at any time, just let me know. I'll be happy to do so.
+* The most important thing for you to know for today is that we’re not testing your knowlege or ability, we’re interested in understanding how well the pages meet the needs of school administrators.  As our focus is on the design of the webpage, there are no wrong answers.  
 *  By testing the site thoroughly, we hope to ensure that it’s written in a thoughtful way and gives school officials quick access to information they need to help their military-connected students.
+*  We are interested in hearing your honest opinions.   You are welcome to express any opinions you wish.  We look forward to hearing your thoughts and ideas and welcome your feedback.
+*  If for any reason you want to pause or stop the session at any time, just let me know. I'll be happy to do so.
+
 *  Do you have any questions so far? 
 *  Lastly, we generally record sessions, in case we need to confirm that we have captured your opinions accurately. 
 
