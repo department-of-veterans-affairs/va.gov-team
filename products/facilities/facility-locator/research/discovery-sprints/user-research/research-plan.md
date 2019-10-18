@@ -48,7 +48,7 @@ October 30, 2019 | 10AM – 5PM
 October 31, 2019 | 1PM – 5PM
 November 1, 2019 | 10AM – 2PM
 
-Pilot Date: Friday, October 25, 2019
+#### Pilot Date: Friday, October 25, 2019
 Design team member(s): 
 
 ## Team Roles
