@@ -89,8 +89,9 @@
 - As a Veteran with dependents, I want to simply add my family into my account so that I can simply see that they are there.
   - We might want to create some logic so that we simply capture that information and store it.  Submitting a 686 for family members that aren't going to have any effect on a benefit might confuse those VA employees on the back end and yield no results.  It could go into a 686 that gets stored and not submitted but it depends on the data sources. You should not have to 686 jsut an addition.
 - I want to add dependents to increase my compensation etc (or education, for example)
- - Then a 686 needs to be submitted.
+  - Then a 686 needs to be submitted.
 - An inert place where you store dependents and associations ahead of assigning them to specific benefits would be a great way to navigate the use of the 686.  Submit once there is a need to.  Dependents not on award might be a great place to start with an inert list for storage in your profile/account.
+- If you don't have a 526, you can't get to a 686 (you need a disability to associate your dependents to)
 
 
 
