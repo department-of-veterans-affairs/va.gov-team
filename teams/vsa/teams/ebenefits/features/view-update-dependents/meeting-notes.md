@@ -3,8 +3,8 @@
 - What discussions have there been to allow the user modify only the parts they are interested in and possibly submit the form in its entirety in the background?
   - Is it possible to only submit part of the form, for things like updates?
 - What does the final validation of the form look like to the user before submission?
-- What can we leverage with logic?
-- Did rainbows consider doing "View" first or why did "Add" get picked up first?
+- How much user validatoin has been done?
+- Did your team consider doing "View" first or why did "Add" get picked up first to go into staging?
   - Was "View" viewed more of a result or destination page to start the process?
 - Who can help with DS Login?  Or a point of contact to get started
 
