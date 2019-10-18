@@ -34,6 +34,8 @@ Participant Criteria
 - All ages
 - All levels of familiarity with technology
 
+Recruitment to be done through Perigean
+
 ## Timeline
 
 #### Desired Timeline: October 28, 2019 – November 1, 2019
@@ -42,12 +44,26 @@ Team Availability | Time (EST)
 ------------------|--------------
 October 28, 2019 | 10AM – 5PM
 October 29, 2019 | 1PM – 3PM
+October 30, 2019 | 10AM – 5PM
+October 31, 2019 | 1PM – 5PM
+November 1, 2019 | 10AM – 2PM
+
+Pilot Date: Friday, October 25, 2019
+Design team member(s): 
 
 ## Team Roles
 
+- Moderator: Aricka Lewis
+- Research guide writing and task development:
+- Participant recruiting & screening:
+- Project point of contact:
+- Participant(s) for pilot test:
+- Note-takers:
+- Observers:
+
 ## Resources
 
-[Product Brief]
+[Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md)
 [Discussion Guide]
 [Notes & Recordings]
 [Synthesis]
