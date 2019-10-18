@@ -12,14 +12,14 @@ Our objective for this research is to learn the current user behavior on the too
 - Overlap with other tools on VA.gov
 - Error treatment and language
 
-Research questions:
+#### Research questions:
 - How easy/difficult is it for a user to find a facility?
 - What ways do users navigate to the facility locator?
 - What criteria are Veterans looking for when searching for facilities?
 - Do Veterans understand what the different facility classifications mean?
 - What other tools/sites do vets use to find facilities or services?
 
-Hypothesis:
+#### Hypothesis:
 
 ## Method
 Remoted Moderated Usability Testing will help us gain a first-hand view of how veterans and caretakers use the facility locator tool. We will watch for trends in behavior, workflow, and interactions with content. 
