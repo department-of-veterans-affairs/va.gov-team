@@ -89,7 +89,7 @@ Benefits:
 A ceremony facilitated by the PM where the Team provides a demonstration of completed functionality to the Product Owner and DSVA Lead for acceptance of the finished work.
 * Held at the end of each Sprint to inspect completed work 
 
-__*The outcome of a Sprint Review meeting is an acceptance by the Product Owner and DSVA of work finished in the Sprint.*__
+__*The outcome of a Sprint Review meeting is to provide wider visibility to the Product Owner and DSVA of work finished in the Sprint.*__
 
 
 
