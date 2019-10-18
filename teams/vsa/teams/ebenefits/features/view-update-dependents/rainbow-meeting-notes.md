@@ -1,11 +1,11 @@
 # Questions for previous 686 Dependents Team
 **General Questions**
+- What does the 21-686c form do?  
 - What discussions have there been to allow the user modify only the parts they are interested in and possibly submit the form in its entirety in the background?
   - Is it possible to only submit part of the form, for things like updates?
 - What does the final validation of the form look like to the user before submission?
 - How much user validation has been done?
-- Did your team consider doing "View" first or why did "Add" get picked up first to go into staging?
-  - Was "View" viewed more of a result or destination page to start the process?
+- Did your team consider doing "View" first or why did "Add" get picked up first to go into staging? **No, see below**
 - Who can help with DS Login?  Or a point of contact to get started
   - Accounts might be blown away...anticipate a DM with Nuranjhan(sp?)
 - Is there a check to see if the TCDR is over 30%?  **No**
