@@ -77,4 +77,6 @@ Participants wanted some sort of confirmation that they had sent the correct inf
 
 Participants commented that the checkbox was clear and provided extra instruction as to what should and should not be submitted.
 
-**Recommendation**: Currently on va.gov, this checkbox does not exist - based upon the feedback, there may be value in testing this to see if it reduces the amount of decision review forms being uploaded erroneously.
+**Recommendation**: Currently on va.gov, this checkbox does not exist - based upon the feedback, there may be value in adding and testing this further to see if it reduces the amount of decision review forms being uploaded erroneously.
+
+![Claim Status Tool checkbox addition](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/discovery-SEP-2019/screenshots/Upload%20Additional%20Evidence%20-%20File%20Selected%20-%20screenshot.png?raw=true)
