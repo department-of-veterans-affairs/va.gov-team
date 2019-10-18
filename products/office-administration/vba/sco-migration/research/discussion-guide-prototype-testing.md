@@ -1,5 +1,5 @@
 # SCO Migration: School Resources Discussion Script
-*October 10, 2019*
+*October 17-18, 2019*
 
 ### Welcome and Opening Remarks (5 minutes)
 *[When the participant is ready, the moderator will begin the session with the following introduction.]*
@@ -12,7 +12,7 @@ Before we start, I’d like to mention a few logistical details:
 
 * The most important thing for you to know for today is that we’re not testing your knowlege or ability, we’re interested in understanding how well the pages meet the needs of school administrators.  As our focus is on the design of the webpage, there are no wrong answers.  
 *  By testing the site thoroughly, we hope to ensure that it’s written in a thoughtful way and gives school officials quick access to information they need to help their military-connected students.
-*  We are interested in hearing your honest opinions.   You are welcome to express any opinions you wish.  We look forward to hearing your thoughts and ideas and welcome your feedback.
+*  We are interested in hearing your honest opinions.  And we look forward to hearing your thoughts and ideas and welcome your feedback.
 *  If for any reason you want to pause or stop the session at any time, just let me know. I'll be happy to do so.
 
 *  Do you have any questions so far? 
@@ -32,19 +32,13 @@ Have you participated in usability testing before?
 
 Before we look at the website, let’s start with a few warm-up questions.  
 
-*DEMOGRAPHICS*
-
-Be sure we have this info…
--	How many GI Bill students are at their school?
--	How many people at your school supporting military-connected students?
--	How long have you been a School Certifying Offcial? 
-
-*GENERAL WARM UPS*
-
-1.	Have you visited the School Administrators pages in the Education & Training section of benefits.va.gov before? 
-2.	Approximately how often do you visit these pages? 
-3.	What type of info are you typically looking for when you go there? 
-4.	Is there any content you wish were available on the site?
+1.	How many GI Bill students are at their school?
+2.	How many people at your school supporting military-connected students?
+3.	How long have you been a School Certifying Offcial? 
+4.	Have you visited the School Administrators pages in the Education & Training section of benefits.va.gov before? 
+5.	Approximately how often do you visit these pages? 
+6.	What type of info are you typically looking for when you go there? 
+7.	Is there any content you wish were available on the site?
 
 Okay, let's go ahead and walk through a few scenarios.
 
