@@ -57,7 +57,7 @@
   - You need to be able add and remove dependents and modify status (usually kids: they themselves have a disability, age out, or something changes with their education).  
   - If you were going to design proceses to do that, from the ground up, you wouldn't do it through a form, you could just hit the endpoints/systems.  Making associations with my record as a veteran, breaking those associations and changing those details as associations, none of those seem form centric and you might not need to deal with 686 other than given that its mostly done.
 - It sounds like we miscontrued what the purpose of the 686 form is meant to do.
-  - You are not the first to do that, other DSVA-ers have done that as well.
+  - You are not the first to do that, others have done that as well.
 - Maybe we should simply port it over to VA.gov and make it so you can at least do it at VA.gov. 
 - If there was another claim out there you wanted a dependent to take advantage of, you would need to fill this out and go back and implement that new claim status for example?
   - Yes.
