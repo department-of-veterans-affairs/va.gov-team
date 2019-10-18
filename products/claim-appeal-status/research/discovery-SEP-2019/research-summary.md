@@ -37,7 +37,7 @@ This is functionality that we do not yet have on the website; however, we wanted
 
 **For consideration**: All participants looked for 'file an appeal' (or similar verbiage) as a link under the disability section on the homepage. It may make sense to add that link in that section of the homepage.
 
-(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/discovery-SEP-2019/screenshots/disability-highlight.png?raw=true)
+![va.gov disability section on home page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/research/discovery-SEP-2019/screenshots/disability-highlight.png?raw=true)
 
 
 
