@@ -17,6 +17,7 @@ Our objective for this research is to learn the current user behavior on the too
 - What ways do users navigate to the facility locator?
 - What criteria are Veterans looking for when searching for facilities?
 - Do Veterans understand what the different facility classifications mean?
+- How do Veterans distinguish emergency, urgent, and community care facilities?
 - What other tools/sites do vets use to find facilities or services?
 
 #### Hypothesis:
@@ -29,7 +30,7 @@ We will be testing the current [VA.gov Facility Locator](https://www.va.gov/find
 ## Participants & Recruitment
 
 Participant Criteria
-- 10 Participants
+- 5 Participants
 - Veterans or Caregivers
 - All ages
 - All levels of familiarity with technology
