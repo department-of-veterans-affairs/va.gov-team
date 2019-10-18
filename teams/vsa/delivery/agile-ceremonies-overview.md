@@ -27,7 +27,7 @@ __*The outcome of Daily Standup is to allow all Team members to have clarity int
 
 ## Sprint Planning: 
 
-Time boxed ceremony that allows the Team to discuss and commit to the Sprint Backlog. This meeting is attended by the Product Team, PM, DSVA Lead, and the VA Product Owner 
+Scrum ceremony that allows the Team to discuss and commit to the Sprint Backlog. This meeting is attended by the Product Team, PM, DSVA Lead, and the VA Product Owner 
 
 Prior to Sprint Planning
 * User Stories should be estimated using Story Points 
@@ -35,6 +35,7 @@ Prior to Sprint Planning
 * DSVA lead or Product Owner describes the highest priority User Stories and their business value
 * Team gets final clarification on User Stories and pulls them from the Backlog column into the Current Sprint Column as well as assigning them to the Sprint Milestone
 * Tasks are created and estimated
+ * Tasks are the indivual steps that need to be performed within a Story
 * Scrum Master (PM) ensures Team is not over or under committed
 * Team commits to completing the now defined Sprint Backlog
 
@@ -60,6 +61,7 @@ Meetings where the Product Owner and PM groom the Backlog (description below), a
   * Adding items
   * Removing Items
   * Changing Priority
+  * Breaking down Epics and User Stories
   * Changing Acceptance Criteria
 * These meetings occur throughout the project within a sprint
 
