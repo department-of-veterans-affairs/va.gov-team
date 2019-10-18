@@ -37,6 +37,8 @@ This is functionality that we do not yet have on the website; however, we wanted
 
 **For consideration**: All participants looked for 'file an appeal' (or similar verbiage) as a link under the disability section on the homepage. It may make sense to add that link in that section of the homepage.
 
+(products/claim-appeal-status/research/discovery-SEP-2019/screenshots/disability-highlight.png)
+
 
 ### It was unclear to participants where they would go to find information on filing an appeal. 
 
