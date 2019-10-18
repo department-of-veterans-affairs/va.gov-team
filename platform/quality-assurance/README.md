@@ -36,3 +36,4 @@ The following outline is a set of resources for applying accepted QA techniques 
 - [Measuring QA success](qa-success.md)
 - [Thinking about QA for your project](qa-questions.md)
 - [The goals for QA](qa-goals.md)
+- [Future of QA](beyond-basic-qa.md)
