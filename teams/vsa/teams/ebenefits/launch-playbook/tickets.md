@@ -1,4 +1,4 @@
-# Ticket Batcher
+# Ticket Templates
 
 ## Investigate and Define API Endpoints for {feature}
 ### Story
