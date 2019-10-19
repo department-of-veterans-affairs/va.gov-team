@@ -1,4 +1,4 @@
-# Ticket Templates
+# Common Tickets
 
 ## Investigate and Define API Endpoints for {feature}
 ### Story
