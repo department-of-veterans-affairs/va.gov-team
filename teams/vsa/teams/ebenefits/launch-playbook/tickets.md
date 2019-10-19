@@ -9,9 +9,10 @@ As an eBenefits Team member, I want to be able to define what endpoints are bein
 - Define those endpoints and discuss with other team members
 
 ### Acceptance Criteria
-- [ ] Document the endpoints and share with { }
+- [ ] Document the endpoints and share with { } 
+
 ```diff
-- - - -
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 ## Implement API Endpoints for {feature}
 ### Story
@@ -22,8 +23,9 @@ As a member of the eBenefits Team, I want to be utilize the endpoints so that da
 
 ### Acceptance Criteria
 - [ ] Endpoints are being successfully sent and displayed
+
 ```diff
-- - - -
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 ## Testing: E2E & Unit for {feature}
 ### Story
@@ -37,8 +39,9 @@ As a member of the eBenefits Team, I want to test both the components and the fu
 ### Acceptance Criteria
 - [ ] A testing plan has been defined.
 - [ ] Test coverage is above 80% threshold.
+
 ```diff
-- - - -
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 ## Testing: 508 for {feature}
 ### Story
@@ -56,7 +59,7 @@ As an frontend engineer, I want a 508 test, so I know my application is as acces
 - [ ] Schedule a review with 508 Team (Trevor Pierce or Jennifer Strickland) 
 
 ```diff
-- - - -
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 ## Create Research Plan for {feature}
 ### Goal
@@ -77,7 +80,7 @@ validate my hyoptheses and ensure that I am applying user centered designs to my
 - [ ] Research Plan has been reviewed by [Lauren Alexanderson in Recruiting](https://dsva.slack.com/team/U772MC9BQ) ([email](mailto:lauren.alexanderson@va.gov))
 
 ```diff
-- - - -
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 ## Create Conversation Guide for {feature}
 As a design researcher, I want to create a consistent conversation guide that encompasses the guidance of approved methods and all the components for the users I will be communicating with.
@@ -95,6 +98,6 @@ As a design researcher, I want to create a consistent conversation guide that en
 ### Acceptance Criteria
 - [ ] Research Plan has been reviewed by [someone](#) ([email](mailto:#))
 ```diff
-+ + + + + + + + + + + +
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 
