@@ -1,4 +1,6 @@
 # Discussion with previous 686 Dependents Team
+These discussions were with both Andrea Schneider and Matt Self individually on October 18, 2019.  The folder for previous work can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686) for reference.
+
 **General Questions**
 - What does the 21-686c form do?  
 - What discussions have there been to allow the user modify only the parts they are interested in and possibly submit the form in its entirety in the background?
