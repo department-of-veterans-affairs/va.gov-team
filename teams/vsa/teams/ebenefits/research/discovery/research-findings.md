@@ -1,5 +1,5 @@
 # eBenefits Discovery Findings
-Aricka Lewis, October 2019
+`Aricka Lewis & James Adams, October 2019`
 
 ## Research Purpose & Goals
 The purpose of the discovery interview sessions for eBenefits was to understand how and why Veterans use the website. We asked questions regarding overall priorities and goals for using the site, specific features used, and general satisfaction.
