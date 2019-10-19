@@ -68,6 +68,10 @@ As a design researcher, I want to create a consistent plan that encompasses the 
 ### Goal
 To validate my hypothesis and ensure that I am applying user centered designs before engineers start to build. 
 
+### Considerations 
+Previous Reasearch Plans used:
+- [General VSA eBenefits Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/discovery-research-plan.md)
+
 ### Task
 - Document a research plan to include:
   - Research method (moderated user interviews)
@@ -97,7 +101,7 @@ As a design researcher, I want to create a consistent conversation guide that en
   - Thank you and Closing
   
 ### Acceptance Criteria
-- [ ] Research Plan has been reviewed by [someone](#) ([email](mailto:#))
+- [ ] Conversation Guide has been reviewed by [someone](#) ([email](mailto:#))
 ```diff
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
