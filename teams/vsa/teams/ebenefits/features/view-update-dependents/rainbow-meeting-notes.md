@@ -13,6 +13,7 @@ These discussions were with both Andrea Schneider and Matt Self individually on 
 - Is there a check to see if the TCDR is over 30%?  **No**
 
 ## Discussion with Andrea Schneider
+`9:05am ET`
 - Work was done mostly in 2018 over the course of 6 months
 - There were some stakeholder blockers: confusion with the form
 - unicorns wrapped up in May 2019 after they picked it up
@@ -27,6 +28,7 @@ These discussions were with both Andrea Schneider and Matt Self individually on 
 - As far as validatoin goes, A/B test as much as possible and get to staging when you feel close
 
 ## Discussion with Matt Self
+`1:30am ET`
 **Background**
 - Its been a year, some of this might be stale
 - There are a few different modes to trigger the dependents form
