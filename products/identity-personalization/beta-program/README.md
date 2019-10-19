@@ -68,7 +68,7 @@ When enrolling from this page:
 * [ ] Designs and content for enrollment
 * [ ] Designs and content for off-boarding
 * [ ] Determine best feedback mechanism (Foresee, other?)
-* [ ] Determine high level KPI's and Analytics needs
+* [ ] Determine high level KPI's and Analytics needs. See [Combine Account & Profile KPI's](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account#kpis) as input.
 * [ ] Technical Asessment (VSP & VSA)
 
 
