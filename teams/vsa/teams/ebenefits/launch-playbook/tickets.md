@@ -62,10 +62,11 @@ As an frontend engineer, I want a 508 test, so I know my application is as acces
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 ## Create Research Plan for {feature}
-### Goal
+### Story
 As a design researcher, I want to create a consistent plan that encompasses the guidance of approved methods and all the components for the item I am researching.
 
-validate my hyoptheses and ensure that I am applying user centered designs to my before engineer starts to build. 
+### Goal
+To validate my hypothesis and ensure that I am applying user centered designs before engineers start to build. 
 
 ### Task
 - Document a research plan to include:
