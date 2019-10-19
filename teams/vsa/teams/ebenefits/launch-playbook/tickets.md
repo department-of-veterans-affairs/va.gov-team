@@ -95,11 +95,6 @@ As a design researcher, I want to create a consistent conversation guide that en
 ### Acceptance Criteria
 - [ ] Research Plan has been reviewed by [someone](#) ([email](mailto:#))
 ```diff
-- - - -
++ + + + + + + + + + + +
 ```
-## Create Research Plan for {feature}
 
-```diff
-- - - -
-```
-## Create Research Plan for {feature}
