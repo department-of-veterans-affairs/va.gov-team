@@ -24,10 +24,10 @@ _ What information do Veterans expect to see in the search results?
 - What other tools/sites do vets use to find facilities or services?
 
 #### Hypothesis: 
-Our hypothesis is that veterans and caretakers will primarily search for specific services that are provided by VA facilities instead of directly searching for facilities. They will most likely filter locations near them by a specific service they are requesting. They may not know the exact differences between emergemcy, urgent, and community care facilities. 
+Our hypothesis is that veterans and caretakers will primarily search for specific services that are provided by VA facilities instead of directly searching for facilities. They will most likely filter locations near them by a specific service they are requesting. They may not know the exact differences between emergency, urgent, and community care facilities. 
 
 ## Method
-Remoted Moderated Usability Testing will help us gain a first-hand view of how veterans and caretakers use the facility locator tool. We will watch for trends in behavior, workflow, and interactions with content. 
+Remote Moderated Usability Testing will help us gain a first-hand view of how veterans and caretakers use the facility locator tool. We will watch for trends in behavior, workflow, and interactions with content. 
 
 We will be testing the current [VA.gov Facility Locator](https://www.va.gov/find-locations) through Zoom.
 
