@@ -44,6 +44,7 @@ Recruitment to be done through Perigean
 ## Timeline
 
 #### Desired Timeline: October 28, 2019 – November 1, 2019
+45 minute sessions
 
 Team Availability | Time (EST)
 ------------------|--------------
