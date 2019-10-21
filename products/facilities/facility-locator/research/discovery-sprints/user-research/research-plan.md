@@ -63,7 +63,7 @@ Design team member(s):
 - Participant recruiting & screening: Perigean
 - Project point of contact: Aricka Lewis
 - Participant(s) for pilot test:
-- Note-takers:
+- Note-takers: Michelle Middaugh
 - Observers:
 
 ## Resources
