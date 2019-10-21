@@ -40,7 +40,7 @@ Zoom will be the tool that we prefer to use.
 ## Research participants and pecruitment
 
 * 16 participants (minimum of 8 required) 
-* Western PA residents with some familiarity with Pittsburgh area VA facilities
+* Western PA residents that are Veterans, with some familiarity with Pittsburgh area VA facilities
 
 We'll use Perigean recruiting, or we will recruit via the previous relationships with Pittsburgh VA facility visit if necessary. 
 
