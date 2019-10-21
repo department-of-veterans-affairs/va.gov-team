@@ -5,7 +5,7 @@ The `products` directory contains information about the discovery, design, devel
 - If you are looking for information on the teams currently building on VSP, please see [/teams](../teams/README.md). 
 
 ### What is a VA.gov Product?
-A VA.gov product is a tool or component of va.gov that is directly interacted with by va.gov visitors.  Products solve a user need, have an overal vision/mission and are measurable.  If you feel your product is not represented in the list below, please request assistance in #vfs-platform-support. 
+A VA.gov product is a tool or component of VA.gov that is directly interacted with by VA.gov visitors.  Products solve a user need, have an overall vision/mission and OKRs that are measurable.  If you feel your product is not represented in the list below, please request assistance in #vfs-platform-support. 
 
 
 ## Our Products
