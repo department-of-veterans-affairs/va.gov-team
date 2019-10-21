@@ -54,7 +54,7 @@ October 31, 2019 | 1PM – 5PM
 November 1, 2019 | 10AM – 2PM
 
 #### Pilot Date: Friday, October 25, 2019
-Design team member(s): 
+Design team member(s): Shawna Hein
 
 ## Team Roles
 
@@ -62,8 +62,8 @@ Design team member(s):
 - Research guide writing and task development: Aricka Lewis
 - Participant recruiting & screening: Perigean
 - Project point of contact: Aricka Lewis
-- Participant(s) for pilot test:
-- Note-takers: Michelle Middaugh
+- Participant(s) for pilot test: Shawna Hein
+- Note-takers: Michelle Middaugh, Dave Conlon
 - Observers: Justin Ellis, Dave Conlon, Gibran Rodriguez, Liz Lantz
 
 ## Resources
