@@ -56,10 +56,10 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 1.	**Participant criteria: What are you looking for in a participant?**
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
 
-- 5 people
+I am looking for **5 people** who meeting he following criteria:
  - At least 1 woman.
- - At least 1 people of color.
- - At least 1 participant 35 or under and 1 over 55.
+ - At least 1 person of color.
+ - At least 1 participant 35 or under and 1 participant over 55.
 - Be able to screenshare via GTM. Please confirm with them that they have GTM downloaded prior to the session and they know how to screenshare. If they can not get GTM working, there is no interview portion of this research and they will not be able to participate.
 
 2.	**What is your recruitment strategy?**
