@@ -1,7 +1,7 @@
-##Background
+## Background
 The call center uses systems such as IRIS and Salesforce to monitor and track user reported issues. When these issues are in need of further triaging, additional steps are required to report the data. The additional steps include exporting the reported tickets (usually a csv formatted spreadsheet), data manipulation (copy/paste), ticket grouping and creating a ZH issue. The goal is to further automate the reporting process.
 
-##Motivation
+## Motivation
 The current IRIS & Salesforce exportation process involves manual copy/paste procedures which can be time consuming.  A tool or script could speed up the lengthly ticket reporting process from start to finish (CSV export ====> ZH issue)
 
 ## Design
@@ -15,7 +15,7 @@ This script would then create ZH issues based off of groupings
 
 A possible tool could run multiple times per day to check for new tickets in IRIS, Salesforce, etc. 
 
-##Risks/Pain Points
+## Risks/Pain Points
 IRIS currently only exports a truncated version of the ticket summary. Further investigation may be required, but you currently cannot customize which fields in a given ticket will be included in the export. 
 
 The currently IRIS export steps are:
