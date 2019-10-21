@@ -83,7 +83,7 @@ In progress
 
 ## Solution Narrative
 - **September 2019**: Began discovery of eBenefits in general, chose "View my rated disabilities" as the first feature to migrate
-- **October 2019**: Finalizing Rated Disabilities and started discovery of "View and update my dependents"
+- **October 2019**: Finalizing "View my rated disabilities" and started discovery of "View and update my dependents"
 
 ## How to Access and Test
 - Link: Access PINT2: https://pint.ebenefits.va.gov/ebenefits-portal/pint2 OR https://pint.ebenefits.va.gov/ (if you need to try both, you'll need to have a new session open with a cleared cache to enter the other site.
