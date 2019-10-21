@@ -1,10 +1,33 @@
 # Research Plan for VSA Authenticated Experience: Combine Profile and Account
 
 ## Goals
-1. What product & team are you doing this research for?
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-4. Hypothesis: What is your hypothesis for this research? 
+1. **What product & team are you doing this research for?**
+
+- This is for the VSA authenticated experience team as part of the personalization 2.0 effort. 
+
+2. **Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?** 
+
+The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/README.md) effort aims to reimagine and expand the existing personalized functionality on VA.gov in order to better meet user needs and expectations. The first leg of this effort is combining the existing profile and account pages into one section. [Our research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md#observations-profileaccount) showed us that these two sections — which are currently separate — have enough similarities in users' minds that we'd be better meeting user needs by combining these two pages. In addition to combining these two pages, this redesign aims to update the visual design and information architecture of the new section to be easier to scan and overall more usable.
+
+3. **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
+
+1. Does the information architecture within the profile make sense to users?
+2. Do the terms we use on the profile make sense/mean anything to users?
+3. Has the side nav increased scanability of the new profile? Do people find what the need easily?
+4. Do saving/errors interactions feel intuitive?
+5. Do people understand why some info isn't editable, and how to update it?
+6. Can people find the profile easily?
+7. How do people think the new profile compares to profile/account 1.0?
+8. Do people understand what connected accounts are? Do they want to see this section of the profile if they don't have connected accounts?
+9. What do people think "Account security" means? 
+10. Where would people go to change the email address they use to sign in?
+
+4. **Hypothesis: What is your hypothesis for this research?** 
+
+- We'll find some terminology that needs updating.
+- They'll be some confusion around what "account security" and "connected accounts" mean/are.
+- People will prefer 2.0 to 1.0.
+- The side nav will go over really well and increase scanability.
 
 ## Method
 1.	What method of research are you planning? 
