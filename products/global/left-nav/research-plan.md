@@ -37,7 +37,7 @@ Prototype of new design: https://staging.va.gov/pittsburgh-health-care
 
 Zoom will be the tool that we prefer to use. 
 
-## Research participants and pecruitment
+## Research participants and recruitment
 
 * 16 participants (minimum of 8 required) 
 * Western PA residents that are Veterans, with some familiarity with Pittsburgh area VA facilities
