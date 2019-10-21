@@ -1,12 +1,11 @@
 # Triage
-
 Repository for team information, planning docs, meeting notes, etc.
 
 ### Mission
-Identify, resolve, and delegate issues across the platform and applications for Veterans and teams building products to serve Veterans while 
+Identify, resolve, and delegate issues across the platform and applications for Veterans and teams building products to
+serve Veterans while continuously improving telemetry, tools, and documentation.
 
 ### Responsibilities
-- Continuously improving telemetry, tools, and documentation.
 - Sentry error management & triage
 - Improving automated analytics & error collection
 - Handling inquiry details from call centers
@@ -15,7 +14,6 @@ Identify, resolve, and delegate issues across the platform and applications for 
 - Applying targeted fixes when appropriate, delegating fixes to responsible teams when not appropriate
 
 ### Communications
-
 **Public Slack Channels**
 - DSVA Slack: [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
 
@@ -32,6 +30,5 @@ Identify, resolve, and delegate issues across the platform and applications for 
 - **Call Center Lead:** [Kimberley Daniels]() (kimberley.daniels@adhocteam.us)
 
 ### Key Documents
-
 - [VFS Product-to-Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
 - [MVP Service Blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
