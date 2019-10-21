@@ -123,8 +123,9 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Product Owner: David Conlon
 - Supporting Product Owner: Andy Lewandowski
 - Facility API Product Owner: David Mazik
+- Facility API Product Manager: Jeff Dunn
 - VSSC Analyst/Engineer: Chad Holmes 
-- Michael Villeneuve: GEOBISL
+- GEOBISL: Michael Villeneuve
 - Product Manager: Michelle Middaugh
 - VA UI Design Lead: Ryan
 - UX/Design: Aricka Lewis
@@ -132,3 +133,8 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Front End Engineer: Gilbran Rodriguez
 - VA Researcher(s)
 - DevOps Engineer: Cameron Testerman
+- Drupal CMS UX designer/engineer/content modeler: Kevin Walsh (VAMC Pittsburgh pilot)
+- Drupal CMS Team Engineer: Ethan Teague
+- API Team Engineers: Derek Hall, Nick Fasulo
+- 
+

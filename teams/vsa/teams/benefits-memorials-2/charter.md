@@ -5,35 +5,40 @@
 # **VSA Benefits and Memorials Team 2 Charter**
 
 ### **VSA North Star**
-Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.(placeholder)
+Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 ### **Product Line** 
 Benefits and Memorial Services 
 
 ### **Mission Statement**
 Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
-(placeholder)
+(look into this statement, this is very broad)
 ### **Product Portfolio**
   *TBD
 
 ### **Responsibilities**
-Help users manage their entire Disability Compensation claims, reviews and appeals process seamlessly online. (placeholder)
+TBD
 
 ### **Roadmap**
 TBD
-updated on 10/11/2019
+   1. Education - GI bill
+   2. Medical purchasing device- Socks
+   3. Determine what B&M2 and B&M1 will cover on current site.
+updated on 10/16/2019
 
 ### **Team Members**
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Matt Self                           |
+|DSVA Design Researcher |Kevin Hoffman                       |
 |Team Product Manager   |Nicolaus Wygonik                    |
 |Back End Engineer      |TBD                                 |
 |Front End Engineer     |Brad Conley                         |
-|Front End Engineer     |n/a                                 |
+|Front End Engineer     |Amen Ra                             |
 |Design Researcher      |Riley Orr                           |
 |Design Researcher      |Becca Walsh                         |
+
 
 
 ### **Workflow + Cadence**

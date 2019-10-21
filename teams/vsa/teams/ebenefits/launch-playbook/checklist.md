@@ -28,8 +28,10 @@ The steps here are meant to provide a framework to build upon for each feature t
 - [ ] **External**
   - [ ] Review [Design Workflow](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
   - [ ] Shawna (`@shawna` in Slack): Design presentation of mockups (might be in a weekly meeting)
-  - [ ] Other Teams: Authenticated Experience
-- [ ] **As soon as feasible,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+  - Iterate on Shawna's feedback
+  - [ ] Other Teams: Authenticated Experience, VSP-platform-support
+  - Iterate on other team's feedback
+- [ ] **As soon as feasible and iteration is finished,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
 
 ### Content/IA  
 _Share as soon as you have content - this is usually after mockups are created.  Get IA review after thumbnails (in case IA informs of a change, get Content review after mockups (provide as much final content to FE for implementation)_  

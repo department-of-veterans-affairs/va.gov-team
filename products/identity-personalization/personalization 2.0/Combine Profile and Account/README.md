@@ -97,7 +97,9 @@ As the authenticated experience team, we want to be able to do the following:
 We need to figure out how to measure the following:
 
 1. Reduced time finding a task (eg. reduced time finding the direct deposit tool or updating contact information).
-2. Reduced abandoment of the profile/account (which we can maybe assumt meant people didn't find what they were looking for).
+2. Reduced abandoment of the profile/account (which we can maybe assume meant people didn't find what they were looking for).
+3. Insuring all tasks have path reports that include start to finish flows
+4. Insuring all tasks have detailed error reports (what errors are users receiving and what do they do next)
 
 Other metrics are qualitative:
 

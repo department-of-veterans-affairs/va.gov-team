@@ -14,7 +14,7 @@ This is sometimes due to the situations where Pitney Bowes Spectrum address data
 This Address Override feature requires UX in various places to allow the Veteran to complete their address edit workflow easily and accurately.
   1. Veteran enters accurate address.  If the entered address matches the database address with the highest Confidence Score, the updated address displays on the UI.
   2.  Veteran enters inaccurate address.  The UI will display the entered address and up to 3 address suggestions and allow the Veteran to edit the entered address or the Veteran is required to select 1 address to continue to complete the update.
-  3.  Veteran eneters inaccurate address that the database cannot identify.  The UI will display the entered address with no address suggestions and allow the user to edit the address or continue with the address override.
+  3.  Veteran enters inaccurate address that the database cannot identify.  The UI will display the entered address with no address suggestions and allow the user to edit the address or continue with the address override.
   
   We have clickable prototypes that map out each of the mentioned UX scenarios and we need user testing to answer several questions regarding the usability of the workflow and UI.
 
@@ -76,10 +76,12 @@ We will work with Perigean to recruit for this research study.
 
 ## When? 
 1.	**Timeline: What dates do you plan to do research?** 
-TBD based on remaining technical discovery of the feature
 
-2.	**Prepare: When will the thing you are testing be ready?** 
-TBD - Design are completed but may change slightly due to technical discovery this week.
+We would like to conduct research between Friday, October 25 - Friday, November 1
+
+2.	**Prepare: When will the thing you are testing be ready?**
+
+Ready now.  Designs and conversation guide are complete.
 
 3. **Length of Sessions: How long do you estimate each session will be?** 
 
@@ -87,7 +89,12 @@ TBD - Design are completed but may change slightly due to technical discovery th
 
 4.	**Availability: If applicable, when would you like sessions scheduled?** **Please list exact dates and times in EASTERN Standard Time**. 
 
-TBD
+- Friday, October 25: 8:30am - 12:00pm ; 1pm - 3pm
+- Monday, October 28: 8:30am - 3pm
+- Tuesday, October 29:  8:30am - 4pm
+- Wednesday, October 30:  8:30am - 3pm
+- Thursday, October 31:  8:30am - 2pm
+- Friday, November 1:  8:30am - 12:00pm ; 1pm - 3pm
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
@@ -100,27 +107,19 @@ Please list the people who will be serving in each role. **Include the primary p
 - Participant recruiting & screening: Perigean
 - Project point of contact: Arthur Green
 - Participant(s) for pilot test: N/A
-- Note-takers: TBD
-- Observers: Justin Pickett, Erik Hansen, Samara Strauss, Lisa Koenigsberg, Lihan Li, Amen Ra
+- Note-takers: Emily Wagoneer or Crystabel Reiter
+- Observers: Justin Pickett (jpickett@governmentcio.com ), Erik Hansen (erik@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Lisa Koenigsberg (Lisa.Koenigsberg@va.gov), Lihan Li (lihan@adhocteam.us), Amen Ra (ara@governmentcio.com )
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
 ## Resources
-- Project Brief: 
-*Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
-
+- Project Brief
 - Discussion Guide
-*Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
-
 - Notes & Recordings
-*Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
-
 - Synthesis
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 
-
 - Lessons Learned
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 
-
 - Read-Out/Results
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+
+## Approval
+
+Research Plan approved by Lauren Alexanderson on 10/17/19. [Link to approval - #2326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2326)

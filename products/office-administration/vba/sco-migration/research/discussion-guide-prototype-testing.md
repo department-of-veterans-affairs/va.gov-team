@@ -1,18 +1,20 @@
 # SCO Migration: School Resources Discussion Script
-*October 10, 2019*
+*October 17-18, 2019*
 
 ### Welcome and Opening Remarks (5 minutes)
 *[When the participant is ready, the moderator will begin the session with the following introduction.]*
 
-Thanks for joining us today! My name is [Theresa], and I also have two colleagues on the line, Amy and Cindy.  They are observing and taking notes. We are working on refining content within the school resources section of the VA website and are interested in getting your thoughts on some work in progress. 
+Thanks for joining us today! My name is [Theresa], and I also have two colleagues on the line, Amy and Cindy. We work with the Education & Training group at the Veterans Administration and we're in the midst of redesigning the School Resources section of the VA website.  As we update pages on the site, we to share the designs with people in sessions like this to be sure the contain all of the necessary information and are easy to use.   
 
 We’re looking for your impressions on what aspects of the website work well and where we might make improvements to make things even easier for school certifying officials & administrators.
 
 Before we start, I’d like to mention a few logistical details:
 
-*  We are interested in hearing your honest opinions.  Our goal is to be sure this content meets the needs of school officials and administrators. You are welcome to express any opinions you wish.  We look forward to hearing your thoughts and ideas and welcome your feedback.
-*  If for any reason you want to pause or stop the session at any time, just let me know. I'll be happy to do so.
+* The most important thing for you to know for today is that we’re not testing your knowlege or ability, we’re interested in understanding how well the pages meet the needs of school administrators.  As our focus is on the design of the webpage, there are no wrong answers.  
 *  By testing the site thoroughly, we hope to ensure that it’s written in a thoughtful way and gives school officials quick access to information they need to help their military-connected students.
+*  We are interested in hearing your honest opinions.  And we look forward to hearing your thoughts and ideas and welcome your feedback.
+*  If for any reason you want to pause or stop the session at any time, just let me know. I'll be happy to do so.
+
 *  Do you have any questions so far? 
 *  Lastly, we generally record sessions, in case we need to confirm that we have captured your opinions accurately. 
 
@@ -25,30 +27,18 @@ Great! I'm going to turn on screen and audio recording now.  Once it's on, I'll 
 Have you participated in usability testing before? 
 [Respond…   Y: How’d that go? N: No problem. ]
 
-The most important thing for you to know for today is that we’re not testing you, we’re trying to get a handle on how well the pages we’ll look at meet the needs of school administrators.  
-
-There aren’t any wrong answers.  The more you say about what you see and whether it works for you, the better info we have to work with after we wrap up.  
-
-Are you comfortable if we record the audio and screen movements today? 
 
 ### Warm-up Questions (5 minutes)
 
 Before we look at the website, let’s start with a few warm-up questions.  
 
-*DEMOGRAPHICS*
-
-Be sure we have this info…
--	How long have they been SCO? 
--	Where is their school located? 
--	How many GI Bill students are at their school?
--	Possibly: How many people supporting military-connected students at their school?
-
-*GENERAL WARM UPS*
-
-1.	How often do you visit the School Certifying Officials content on va.gov now? 
-2.	How do you typically get to that site? 
-3.	What type of info are you looking for when you go there? 
-4.	What’s it like for you to get the info you need from that website?   
+1.	How many GI Bill students are at their school?
+2.	How many people at your school supporting military-connected students?
+3.	How long have you been a School Certifying Offcial? 
+4.	Have you visited the School Administrators pages in the Education & Training section of benefits.va.gov before? 
+5.	Approximately how often do you visit these pages? 
+6.	What type of info are you typically looking for when you go there? 
+7.	Is there any content you wish were available on the site?
 
 Okay, let's go ahead and walk through a few scenarios.
 
@@ -62,32 +52,18 @@ Today we’ll be working with a prototype, not a real website.  We create mock-u
 
 [ Start participants on VA.gov homepage.]
 
-SCENARIOS
-1.	GETTING TO THE SCHOOL RESOURCES PAGE & FINDING SCO HANDBOOK
-* How do they find the school Resources page?
-* How do they get to SCO Page?
-* Can they quickly find SCO Handbook?
-2.	FINDING REQUIRED TRAINING
-* Should we have them find the page again? 
-* Can they quickly find required training?
-3.	FINDING INFO ON AN UPCOMING WEBINARS
-* What’s their reaction to SCO sub-content?
-* How do they return to SCO Page?
-4.	FINDING RESOURCES TO HELP MILITARY-CONNECTED STUDENTS 
-* What’s their reaction to link directing out of SCO Resources?
-* How do they get back to SCO Page?
 
 
-### Scenario #1 (5 minutes)
-
-FINDING SCO HANDBOOK
+### Scenario #1 (5 minutes) FINDING SCO HANDBOOK
 
 Let’s start off with one of the most important tasks. Could you use this prototype to show me how you’d go about getting to the SCO Handbook on the VA website?     
 
 As you go about finding it, please talk aloud and let us know what you are thinking.
 
 Observe… 
--	How do they (want to) get to the page? 
+* How do they attempt to find the school Resources page?
+* How do they get to SCO Page?
+* Can they quickly find SCO Handbook?
 
 *After the participant has found the required training or given up on the task.*
 
@@ -95,33 +71,47 @@ Observe…
 
 -	How easy or difficult would you say that was? 
 -	What are your impressions of that process? 
+- 	How do you typically get to that site? 
+-	What’s it like for you to get the info you need from that website?   
 
 
-### Scenario #2 (10 minutes)
 
-FINDING REQUIRED TRAINING
+### Scenario #2 (10 minutes) FINDING REQUIRED TRAINING
 
-Have you taken the 2019 required training yet?  [respond to their input: how’d that go? Or is that something you’re planning to do? ]
+As part of the Colmery Act, we understand that SCOs at schools with 20 or more GI Bill students will need to complete additional training this year.
 
-Let’s say you needed to complete your training for the year.  Could you walk us through how you’d go about finding the training that’s required for SCOs this year?   
+Let’s say you'd like to complete your training for the year.  Using the site, please walk us through how you’d go about finding the training that’s required for SCOs this year.
 
 Please talk aloud and let us know what you are thinking.
 
 Observe… 
--	How do they get to required training once they’re on the page? (Jump links vs. Scroll) 
+* How do they get to required training once they’re on the page? (Jump links vs. Scroll) 
 
 ### Follow up questions 
 
 -	How did you think that process went? 
 -	How easy or difficult was it to find the training you needed? 
 	
-### Scenario #3 (5 minutes)
+### Scenario #3 (5 minutes) FINDING INFO ON AN UPCOMING WEBINARS
 
-FINDING INFO ON AN UPCOMING WEBINARS
+Let’s say your colleague has signed up for an online session offered by the VA's Education Services group. You are are interested in staying up to date regarding recent changes, as well.  Using the site, how would you go about signing up to attend the same session in December?
 
-Have you attended VA Webinars in the past?  [respond to their input]
+Observe… 
+* How do they return to the School Resources page when they’re done with the task?  
+* What’s their reaction to SCO sub-content?
+* How would you return to the page we were on previously
 
-Let’s say your colleague mentioned they were going to attend an upcoming webinar on the Nourse STEM Scholarship later this month.  You have a lot of questions about that scholarship.  How would you go about finding information on that webinar?   
+### Follow up questions 
+
+-	How did you think that went? 
+-	How would you typically learn about a new VA programs? 
+
+
+### Scenario #4 (5 minutes) FINDING INFO ON THE STEM PROGRAM
+
+Have any of the students at your school asked about the new STEM scholarship?  [respond to their input]
+
+Let’s say one of your students is nearing the end of his GI Bill entitlement and is interested in applying for the STEM Scholarship.  Using the site, How would you find information on who is eligible to participate in the STEM program?   
 
 Observe… 
 -	How do they get back to the School Resources page when they’re done with the task?  
@@ -129,12 +119,20 @@ Observe…
 ### Follow up questions 
 
 -	How did you think that went? 
--	How would you typically learn about a new VA program like the Nourse STEM Scholarship? 
+-	How would you typically learn about a new VA program like the Nourse STEM Scholarship?  
 
+### Scenario #5 (5 minutes) HOUSING CALCULATION CHANGES
 
-### Scenario #4 (10 minutes)
+Usind the site, Where would you look to learn more about recent changes to the housing calculation?
 
-FINDING RESOURCES FOR MILITARY-CONNECTED STUDENTS
+Observe… 
+-	Are there multiple sections that might contain this information?
+
+### Follow up questions 
+
+-	How did you think that went? 
+
+### Scenario #6 (10 minutes) FINDING RESOURCES FOR MILITARY-CONNECTED STUDENTS
 
 We’ve frequently heard that SCOs help military-connected students in many ways beyond certifying their enrollment.  Does that ring true for you? [respond to their input… ]
 
@@ -146,8 +144,9 @@ When they’ve gotten there OR you’ve confirmed they are where they think they
 That was great info.  Now, could you show me how you would locate Employment Assistance information?
 
 Observe… 
--	What’s their reaction to being directed to content on a different page / in a different template?  
--	How do they try to get back to the School Resources page? 
+* What’s their reaction to being directed to content on a different page / in a different template?  
+* How do they try to get back to the School Resources page? 
+
 
 ### Follow up questions 
 
@@ -158,6 +157,7 @@ Observe…
 
 Thank you! That’s it for the tasks. How’d you think that went? 
 -	What are your thoughts on whether you’d be able to find information you need on a site like this?
+-       What are your thoughts on the order of the sections (Key Resources, Announcements, Training, Upcoming Events, Policies and Procedures, Resources for students)?  Which sections would you access most frequently?  
 -	How could this page be more beneficial to SCOs or school administrators? 
 -	How likely or unlikely would you be to refer other school officials to content like this? 
 -	IF they have experience with or recall working with the current School Resources pages, ask how they think the version they just tried out compares to the current one. 

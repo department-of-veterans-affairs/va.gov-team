@@ -32,3 +32,12 @@ serve Veterans while continuously improving telemetry, tools, and documentation.
 ### Key Documents
 - [VFS Product-to-Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
 - [MVP Service Blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
+
+## On call
+- [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/OnCall.md) - Quicklinks to information for on-call process and documentation
+
+### Process Documents
+- [Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Process.md) - Triage process for complete issue discovery and resolution 
+- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/SupportTiers.md) - Support tier definitions and escalation definitions
+- [Service blueprint](https://miro.com/app/board/o9J_kxLjIq0=/) - Complete blueprint/user story mapping for triage process in a visualized diagram 
+- [Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Sentry.md) - Sentry overview of triage team responsibilities, structure and process

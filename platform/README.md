@@ -1,5 +1,5 @@
 # Veteran-facing Services Platform (VSP)
-The `platform` directory contains information on the tools and services that are provided as part of VSP. It also contains administrative content such as onboarding documents, policies, work norms, processes and how to work with the VSP team. 
+This `platform` directory contains everything you need to know about Platform as a VFS Team building something on VA.gov. It includes details on the tools and services Platform offers, and . administrative content such as onboarding documents, policies, work norms, processes and how to work with the VSP teams.
 
 - If you are looking for documentation on VA.gov user-facing applications and content, please see [/products](../products/README.md).
 - If you are looking for information on the teams currently building on VSP, please see [/teams](../teams/README.md). 

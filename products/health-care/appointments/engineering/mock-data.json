@@ -1,0 +1,2127 @@
+{
+  "configurations?": {
+    "numberOfMonthsForFutureAppointments" : 4,
+    "vssCall" : true,
+    "schedulingSvcEndpointUrl" : "http://vista-scheduling-service-v2.prod:8080/VistaSchedulingService/v2",
+    "whiteListedUrlPattern" : "^(((http://var-messaging-microservice).*)||((http://facility-resources).*)||((http://adr-service).*)||((http://)([0-9]{1,3})[.]{1}([0-9]{1,3})[.]{1}([0-9]{1,3})[.]{1}([0-9]{1,3}).*))$"
+  },
+  "disabled-features?": [ " " ],
+  "api-keys?": {
+    "apiKeys" : {
+      "googleApiKey" : "asdf"
+    }
+  },
+  "session": {"attributes":{"eulaAccepted":"true"},"name":"ICN:1015977112V032151 (MHVZZVISNFIVE, TEST)","source":"MHV","id":"1015977112V032151","firstName":"TEST","middleName":"PATIENTE","lastName":"MHVZZVISNFIVE","patient":{"firstName":"TEST","lastName":"MHVZZVISNFIVE","middleName":"PATIENTE","dateOfBirth":"1956-05-01","gender":"M","ssn":"666-66-0500","icn":"1015977112V032151","dob":"1956-05-01"},"authenticated":true,"staffUserDisclaimerAccepted":true,"idType":"ICN","authorizedRoles":["veteran"],"authenticationAuthority":"gov.va.mhv.idp.v1","email":"fake@va.gov","levelOfAssurance":2,"rightOfAccessAccepted":true,"additionalAttributes":{"eulaAccepted":"true"},"authorizedResources":["^.*(/)?patient[s]?/(ICN/)?1015977112V032151(/.*)?$","^.*(/)?site[s]?/(dfn-)?688/patient[s]?/3021584/appointments(/.*)?$"],"vistaPairedAccounts":[{"siteId":"688","patientId":"3021584"}],"roles":["veteran"],"vamfJwtClaims":{"authenticated":true,"sub":"1015977112V032151","lastName":"MHVZZVISNFIVE","authenticationAuthority":"gov.va.mhv.idp.v1","gender":"M","mhvSessionId":"9996A5D544CF300C9E3FE60F5B326579","iss":"gov.va.vamf.userservice.v1","vamf.auth.resources":["^.*(/)?patient[s]?/(ICN/)?1015977112V032151(/.*)?$","^.*(/)?site[s]?/(dfn-)?688/patient[s]?/3021584/appointments(/.*)?$"],"source":"MHV","ssn":"666-66-0500","icn":"1015977112V032151","patient":{"firstName":"TEST","lastName":"MHVZZVISNFIVE","middleName":"PATIENTE","dateOfBirth":"1956-05-01","gender":"M","ssn":"666-66-0500","icn":"1015977112V032151","dob":"1956-05-01"},"rightOfAccessAccepted":true,"vamf.auth.roles":["veteran"],"email":"fake@va.gov","jti":"335c1235-b05c-4385-9f72-85f0ef7b0b15","idType":"ICN","dateOfBirth":"1956-05-01","version":2,"vistaIds":[{"siteId":"688","patientId":"3021584"}],"firstName":"TEST","staffDisclaimerAccepted":true,"middleName":"PATIENTE","attributes":{"eulaAccepted":"true"},"loa":2},"userRoles":["veteran"]},
+  "mhpuser": {"mhpUser":{"attributes":{"eulaAccepted":"true"},"name":"ICN:1015977112V032151 (MHVZZVISNFIVE, TEST)","source":"MHV","id":"1015977112V032151","authenticated":true,"staffUserDisclaimerAccepted":true,"idType":"ICN","lastName":"MHVZZVISNFIVE","firstName":"TEST","authorizedRoles":["veteran"],"authenticationAuthority":"gov.va.mhv.idp.v1","email":"fake@va.gov","levelOfAssurance":2,"rightOfAccessAccepted":true,"additionalAttributes":{"eulaAccepted":"true"},"authorizedResources":["^.*(/)?patient[s]?/(ICN/)?1015977112V032151(/.*)?$","^.*(/)?site[s]?/(dfn-)?688/patient[s]?/3021584/appointments(/.*)?$"],"patient":{"firstName":"TEST","lastName":"MHVZZVISNFIVE","middleName":"PATIENTE","dateOfBirth":"1956-05-01","gender":"M","ssn":"666-66-0500","icn":"1015977112V032151","dob":"1956-05-01"},"vistaPairedAccounts":[{"siteId":"688","patientId":"3021584"}],"roles":["veteran"],"middleName":"PATIENTE","vamfJwtClaims":{"authenticated":true,"sub":"1015977112V032151","lastName":"MHVZZVISNFIVE","authenticationAuthority":"gov.va.mhv.idp.v1","gender":"M","mhvSessionId":"9996A5D544CF300C9E3FE60F5B326579","iss":"gov.va.vamf.userservice.v1","vamf.auth.resources":["^.*(/)?patient[s]?/(ICN/)?1015977112V032151(/.*)?$","^.*(/)?site[s]?/(dfn-)?688/patient[s]?/3021584/appointments(/.*)?$"],"source":"MHV","ssn":"666-66-0500","icn":"1015977112V032151","patient":{"firstName":"TEST","lastName":"MHVZZVISNFIVE","middleName":"PATIENTE","dateOfBirth":"1956-05-01","gender":"M","ssn":"666-66-0500","icn":"1015977112V032151","dob":"1956-05-01"},"rightOfAccessAccepted":true,"vamf.auth.roles":["veteran"],"email":"fake@va.gov","jti":"335c1235-b05c-4385-9f72-85f0ef7b0b15","idType":"ICN","dateOfBirth":"1956-05-01","version":2,"vistaIds":[{"siteId":"688","patientId":"3021584"}],"firstName":"TEST","staffDisclaimerAccepted":true,"middleName":"PATIENTE","attributes":{"eulaAccepted":"true"},"loa":2},"userRoles":["veteran"]}},
+  "identifiers": [{"uniqueId":"3021584","assigningAuthority":"dfn-688","assigningCode":"688","idStatus":"ACTIVE"},{"uniqueId":"1015977112","assigningAuthority":"SECID","assigningCode":"200PROV","idStatus":"ACTIVE"},{"uniqueId":"1015977112V032151","assigningAuthority":"ICN","assigningCode":"200M","idStatus":"PERMANENT"},{"uniqueId":"175504385","assigningAuthority":"UNKNOWN","assigningCode":"200MH","idStatus":"ACTIVE"},{"uniqueId":"0000001015977112V032151000000","assigningAuthority":"UNKNOWN","assigningCode":"200ESR","idStatus":"ACTIVE"},{"uniqueId":"343873","assigningAuthority":"VET360","assigningCode":"200VETS","idStatus":"ACTIVE"}],
+  "communityCare": {
+    "eligibilities" : {
+      "eligibility" : [ {
+        "vceCode" : "X",
+        "vceDescription" : "Not Eligible",
+        "vceEffectiveDate" : "2017-10-08T23:35:12-05:00"
+      } ]
+    }
+  },
+  "public/facility/timezone?": [ {
+    "id" : "dfn-358",
+    "name" : "MANILA VAMC",
+    "timezone" : "Asia/Manila",
+    "currentTZ" : "PHT"
+  }, {
+    "id" : "dfn-519",
+    "name" : "WEST TEXAS HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-523",
+    "name" : "BOSTON HCS VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-548",
+    "name" : "WEST PALM BEACH VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-552",
+    "name" : "DAYTON",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-585",
+    "name" : "IRON MOUNTAIN VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-657",
+    "name" : "ST. LOUIS MO VAMC-JC DIVISION",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-668",
+    "name" : "SPOKANE VAMC",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-671",
+    "name" : "SOUTH TEXAS HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-675",
+    "name" : "ORLANDO VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-506",
+    "name" : "ANN ARBOR VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-526",
+    "name" : "BRONX VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-608",
+    "name" : "MANCHESTER VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-632",
+    "name" : "NORTHPORT VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-437",
+    "name" : "FARGO VA HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-518",
+    "name" : "BEDFORD VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-562",
+    "name" : "ERIE VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-612",
+    "name" : "NORTHERN CALIFORNIA HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-613",
+    "name" : "MARTINSBURG VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-618",
+    "name" : "MINNEAPOLIS VA HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-629",
+    "name" : "SE LOUISIANA VETERANS HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-637",
+    "name" : "ASHEVILLE VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-674",
+    "name" : "CENTRAL TEXAS HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-687",
+    "name" : "WALLA WALLA VAMC",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-540",
+    "name" : "CLARKSBURG VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-550",
+    "name" : "ILLIANA HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-553",
+    "name" : "DETROIT, MI VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-583",
+    "name" : "INDIANAPOLIS VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-642",
+    "name" : "PHILADELPHIA, PA VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-660",
+    "name" : "SALT LAKE CITY HCS",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-688",
+    "name" : "WASHINGTON",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-512",
+    "name" : "BALTIMORE MD VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-459",
+    "name" : "VA PACIFIC ISLANDS HCS",
+    "timezone" : "Pacific/Honolulu",
+    "currentTZ" : "HST"
+  }, {
+    "id" : "dfn-573",
+    "name" : "N. FLORIDA/S. GEORGIA VHS",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-640",
+    "name" : "PALO ALTO HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-648",
+    "name" : "PORTLAND (OR) VAMC",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-650",
+    "name" : "PROVIDENCE VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-655",
+    "name" : "SAGINAW",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-537",
+    "name" : "JESSE BROWN VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-541",
+    "name" : "CLEVELAND VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-556",
+    "name" : "CAPTN JAMES LOVELL FED HLT CTR",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-561",
+    "name" : "EAST ORANGE-VA NEW JERSEY HCS",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-564",
+    "name" : "FAYETTEVILLE AR",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-596",
+    "name" : "LEXINGTON-LD VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-621",
+    "name" : "MOUNTAIN HOME VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-656",
+    "name" : "ST. CLOUD VA HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-659",
+    "name" : "SALISBURY VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-693",
+    "name" : "WILKES-BARRE VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-436",
+    "name" : "FORT HARRISON VAMC",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-528",
+    "name" : "UPSTATE NEW YORK HCS",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-534",
+    "name" : "CHARLESTON VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-538",
+    "name" : "CHILLICOTHE, OH VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-554",
+    "name" : "EASTERN COLORADO HCS",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-603",
+    "name" : "LOUISVILLE, KY VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-666",
+    "name" : "SHERIDAN HCS",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-689",
+    "name" : "CONNECTICUT HCS",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-442",
+    "name" : "CHEYENNE VAMC",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-503",
+    "name" : "ALTOONA",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-575",
+    "name" : "GRAND JUNCTION (VAMC)",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-590",
+    "name" : "HAMPTON (VAMC)",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-598",
+    "name" : "CENTRAL ARKANSAS HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-620",
+    "name" : "HUDSON VALLEY HCS VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-623",
+    "name" : "JACK C. MONTGOMERY VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-636",
+    "name" : "VA NWIHS, OMAHA DIVISION",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-595",
+    "name" : "LEBANON VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-593",
+    "name" : "SOUTHERN NEVADA HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-756",
+    "name" : "EL PASO VA HCS",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-757",
+    "name" : "COLUMBUS VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-405",
+    "name" : "WHITE RIVER JUNCT VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-531",
+    "name" : "BOISE VAMC",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-542",
+    "name" : "COATESVILLE VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-549",
+    "name" : "NORTH TEXAS HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-558",
+    "name" : "DURHAM VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-565",
+    "name" : "FAYETTEVILLE NC VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-570",
+    "name" : "CENTRAL CALIFORNIA HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-581",
+    "name" : "HUNTINGTON VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-631",
+    "name" : "VA CNTRL WSTRN MASSCHUSETS HCS",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-673",
+    "name" : "TAMPA VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-672",
+    "name" : "SAN JUAN VAMC",
+    "timezone" : "America/Argentina/San_Juan",
+    "currentTZ" : "ART"
+  }, {
+    "id" : "dfn-740",
+    "name" : "TEXAS VALLEY COASTAL BEND HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-463",
+    "name" : "ANCHORAGE VA HCS",
+    "timezone" : "America/Anchorage",
+    "currentTZ" : "AKDT"
+  }, {
+    "id" : "dfn-501",
+    "name" : "NEW MEXICO HCS",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-515",
+    "name" : "BATTLE CREEK VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-568",
+    "name" : "BLACK HILLS HCS",
+    "timezone" : "America/Denver",
+    "currentTZ" : "MDT"
+  }, {
+    "id" : "dfn-580",
+    "name" : "HOUSTON VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-619",
+    "name" : "CENTRAL ALABAMA HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-654",
+    "name" : "SIERRA NEVADA HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-663",
+    "name" : "PUGET SOUND HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-676",
+    "name" : "TOMAH VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-679",
+    "name" : "TUSCALOOSA",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-402",
+    "name" : "VA MAINE HCS",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-520",
+    "name" : "BILOXI VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-649",
+    "name" : "NORTHERN ARIZONA HCS",
+    "timezone" : "America/Phoenix",
+    "currentTZ" : "MST"
+  }, {
+    "id" : "dfn-658",
+    "name" : "SALEM VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-662",
+    "name" : "SAN FRANCISCO VAMC",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-678",
+    "name" : "SOUTHERN ARIZONA VA HCS",
+    "timezone" : "America/Phoenix",
+    "currentTZ" : "MST"
+  }, {
+    "id" : "dfn-438",
+    "name" : "SIOUX FALLS VA HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-502",
+    "name" : "ALEXANDRIA VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-504",
+    "name" : "AMARILLO HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-509",
+    "name" : "AUGUSTA VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-517",
+    "name" : "BECKLEY VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-539",
+    "name" : "CINCINNATI",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-578",
+    "name" : "HINES, IL VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-586",
+    "name" : "JACKSON VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-600",
+    "name" : "LONG BEACH VAMC",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-626",
+    "name" : "TENNESSEE VALLEY HCS",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-644",
+    "name" : "PHOENIX VAMC",
+    "timezone" : "America/Phoenix",
+    "currentTZ" : "MST"
+  }, {
+    "id" : "dfn-646",
+    "name" : "PITTSBURGH (UD), PA VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-652",
+    "name" : "RICHMOND VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-664",
+    "name" : "SAN DIEGO HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-667",
+    "name" : "SHREVEPORT VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-691",
+    "name" : "WEST LA VAMC",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-460",
+    "name" : "WILMINGTON VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-521",
+    "name" : "BIRMINGHAM VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-529",
+    "name" : "BUTLER",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-546",
+    "name" : "MIAMI VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-605",
+    "name" : "LOMA LINDA HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-607",
+    "name" : "WILLIAM S. MIDDLETON VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-610",
+    "name" : "MARION, IN",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-630",
+    "name" : "NEW YORK HHS",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-653",
+    "name" : "ROSEBURG HCS",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-695",
+    "name" : "MILWAUKEE VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-508",
+    "name" : "ATLANTA VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-544",
+    "name" : "COLUMBIA, SC VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-557",
+    "name" : "DUBLIN VAMC",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  }, {
+    "id" : "dfn-589",
+    "name" : "VA HEARTLAND - WEST, VISN 15",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-614",
+    "name" : "MEMPHIS VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-635",
+    "name" : "OKLAHOMA CITY VAMC",
+    "timezone" : "America/Chicago",
+    "currentTZ" : "CDT"
+  }, {
+    "id" : "dfn-692",
+    "name" : "WHITE CITY VAMC",
+    "timezone" : "America/Los_Angeles",
+    "currentTZ" : "PDT"
+  }, {
+    "id" : "dfn-516",
+    "name" : "Bay Pines VA Healthcare System",
+    "timezone" : "America/New_York",
+    "currentTZ" : "EDT"
+  } ],
+  "community-care-services/type-of-cares?": [ {
+    "id" : "CCAUDRTNE",
+    "name" : "Audiology (routine hearing exam)",
+    "details" : "This includes an office visit for a hearing exam and evaluation using non-invasive tests to check your hearing and inner ear health. The exam may lead to prevention and treatment recommendations, a request for further consultation, and/or a recommendation for hearing aids. A routine exam is not for any new or sudden changes with your hearing or ears.",
+    "confirmation" : "This request is for routine hearing exam only. If you have other needs, please contact your Primary Care Provider to discuss the issue. If you do not have a Primary Care Provider, you can use this app to request help in getting one assigned.",
+    "objectType" : "CCTypeOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "CCOPT",
+    "name" : "Optometry (routine eye exam)",
+    "details" : "This includes an office visit for an eye exam and vision evaluation, which may include dilating your eyes. The exam may lead to prevention and treatment recommendations, a request for further consultation, and/or a prescription for eye glasses or contact lenses. A routine exam is not for any new or sudden changes with your vision or eyes.",
+    "confirmation" : "This app currently only supports routine eye exams. If you have other needs, please contact your Primary Care Provider to discuss the issue. If you do not have a Primary Care Provider, you can use this app to request help in getting one assigned.",
+    "objectType" : "CCTypeOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "CCPOD",
+    "name" : "Podiatry (routine exam)",
+    "details" : "This includes an office visit for an exam of the foot, ankle and related structures of the leg. The exam may lead to diagnosis and treatment to include common conditions like callous, bunions, and other conditions requiring in office treatment, orthotics, and possibly the need for surgery. If you are experiencing any acute conditions or sudden onset of pain, break in the skin with possible infection, please contact your local VAMC.",
+    "confirmation" : "This request currently only supports routine podiatry exams. If you have other needs, please contact your Primary Care Provider to discuss this issue. If you do not have a Primary Care Provider, you can use this app to request help in getting one assigned.",
+    "objectType" : "CCTypeOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "CCNUTRN",
+    "name" : "Nutrition (routine exam)",
+    "details" : "This includes office visit(s) which will provide education on a healthy lifestyle including food and drink choices, reading food labels, and limits on nutritional intake.",
+    "confirmation" : "This includes office visit(s) which will provide education on a healthy lifestyle including food and drink choices, reading food labels, and limits on nutritional intake. If you have other needs, please contact your local VA Medical Center to discuss this issue. If you do not have a Primary Care Provider, you can use this app to request help in getting one assigned.",
+    "objectType" : "CCTypeOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "CCAUDHEAR",
+    "name" : "Audiology (hearing aid support)",
+    "details" : "This is an office visit for Veterans who already have a hearing aid and who need assistance with the device. This visit is for trouble shooting or adjusting your hearing aid for best performance. This may include technical adjustments, cleaning, and/or reprogramming for new listening situations and environments. This is not a visit to initially be evaluated for or to obtain a hearing aid.",
+    "confirmation" : "This request is for hearing aid support only. If you have other needs, please contact your Primary Care Provider to discuss the issue. If you do not have a Primary Care Provider, you can use this app to request help in getting one assigned.",
+    "objectType" : "CCTypeOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "CCPRMYRTNE",
+    "name" : "Primary Care (routine appointment)",
+    "details" : "This includes office visit(s) with a Primary Care Provider, focused on routine/acute patient complaints, wellness and disease prevention resulting in improved veteran health.",
+    "confirmation" : "This includes office visit(s) with a Primary Care Provider, focused on routine/acute patient complaints, wellness and disease prevention resulting in improved veteran health. If you have other needs, please contact your local VA Medical Center to discuss this issue. If you do not have a Primary Care Provider, you can use this app to request a VA Appointment with a Primary Care Provider.",
+    "objectType" : "CCTypeOfCare",
+    "link" : [ ]
+  } ],
+  "facility-service/facilities?parentSiteCodes=688&": {
+    "facility" : [ {
+      "name" : "WASHINGTON VA MEDICAL CENTER",
+      "type" : "VAMC",
+      "facilityCode" : "688",
+      "state" : "DC",
+      "city" : "WASHINGTON",
+      "address" : "50 IRVING ST NW",
+      "parentSiteCode" : "688",
+      "children" : [ {
+        "name" : "SOUTHEAST WASHINGTON VA CLINIC",
+        "type" : "CBOC",
+        "facilityCode" : "688GB",
+        "state" : "DC",
+        "city" : "WASHINGTON",
+        "address" : "820 CHESAPEAKE ST. SE",
+        "parentSiteCode" : "688"
+      }, {
+        "name" : "CHARLOTTE HALL VA CLINIC",
+        "type" : "CBOC",
+        "facilityCode" : "688GD",
+        "state" : "MD",
+        "city" : "CHARLOTTE HALL",
+        "address" : "29431 CHARLOTTE HALL RD",
+        "parentSiteCode" : "688"
+      }, {
+        "name" : "FORT BELVOIR VA CLINIC",
+        "type" : "CBOC",
+        "facilityCode" : "688GA",
+        "state" : "VA",
+        "city" : "FORT BELVOIR",
+        "address" : "9300 DEWITT LOOP, SUNRISE PAVILION",
+        "parentSiteCode" : "688"
+      }, {
+        "name" : "S PRINCE GEORGES CITY VA CLINC",
+        "type" : "CBOC",
+        "facilityCode" : "688GE",
+        "state" : "MD",
+        "city" : "CAMP SPRINGS",
+        "address" : "5801 ALLENTOWN RD, #103,104, & 106",
+        "parentSiteCode" : "688"
+      }, {
+        "name" : "FRANKLIN STREET VA CLINIC",
+        "type" : "CBOC",
+        "facilityCode" : "688QA",
+        "state" : "DC",
+        "city" : "WASHINGTON",
+        "address" : "1500 FRANKLIN ST NORTHEAST",
+        "parentSiteCode" : "688"
+      }, {
+        "name" : "MONTGOMERY COUNTY VA CLINIC",
+        "type" : "CBOC",
+        "facilityCode" : "688GF",
+        "state" : "MD",
+        "city" : "GAITHERSBURG",
+        "address" : "15810 GAITHER DRIVE SUITE 130",
+        "parentSiteCode" : "688"
+      } ]
+    } ],
+    "empty" : false,
+    "objectType" : "CDWFacilities",
+    "link" : [ ]
+  },
+  "appointment-service/patient/ICN/1015977112V032151/appointments?endDate=09%2F10%2F2019&startDate=05%2F13%2F2019&": {
+    "lastAccessDate" : "08/07/2019 15:45:27",
+    "selfUri" : "https://var-resources-v4.prod.svc.cluster.local/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1015977112V032151/appointments?endDate=08%2F07%2F2019&startDate=04%2F09%2F2019&_=1565192742822",
+    "selfLink" : {
+      "rel" : "self",
+      "href" : "https://var-resources-v4.prod.svc.cluster.local/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1015977112V032151/appointments?endDate=08%2F07%2F2019&startDate=04%2F09%2F2019&_=1565192742822",
+      "objectType" : "AtomLink"
+    },
+    "empty" : true,
+    "appointmentRequests" : [ ],
+    "objectType" : "VARAppointmentRequests",
+    "size" : 0,
+    "link" : [ {
+      "rel" : "self",
+      "href" : "https://var-resources-v4.prod.svc.cluster.local/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1015977112V032151/appointments?endDate=08%2F07%2F2019&startDate=04%2F09%2F2019&_=1565192742822",
+      "objectType" : "AtomLink"
+    } ]
+  },
+  "notification-service/patient/ICN/1015977112V032151/notifications?": [],
+  "patient/ICN/1015977112V032151/preference?": {
+    "dataIdentifier" : { },
+    "patientIdentifier" : {
+      "uniqueId" : "1015977112V032151",
+      "assigningAuthority" : "ICN"
+    },
+    "surrogateIdentifier" : { },
+    "notificationFrequency" : "Never",
+    "emailAllowed" : false,
+    "emailAddress" : "fake@va.gov",
+    "textMsgAllowed" : false,
+    "assigningAuthority" : "ICN",
+    "patientId" : "1015977112V032151",
+    "objectType" : "VARPatientPreference",
+    "selfUri" : "/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1015977112V032151/preference",
+    "selfLink" : {
+      "rel" : "self",
+      "href" : "/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1015977112V032151/preference",
+      "objectType" : "AtomLink"
+    },
+    "link" : [ {
+      "rel" : "self",
+      "href" : "/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1015977112V032151/preference",
+      "objectType" : "AtomLink"
+    } ]
+  },
+  "facility-service/supported-facilities?siteCodes=688&": { "sitesSupportingVAR" : [ ] },
+  "facility-service/facility-clinic-custom-text?siteCodes=688&": {
+    "688+1509" : "Washington VA Medical Center",
+    "688+3808" : "Washington VA Medical Center",
+    "688+3092" : "Washington VA Medical Center",
+    "688+4185" : "Washington VA Medical Center",
+    "688+1071" : "Washington VA Medical Center",
+    "688+1197" : "Washington VA Medical Center",
+    "688+3891" : "Washington VA Medical Center",
+    "688+5034" : "Washington VA Medical Center",
+    "688+3498" : "Washington VA Medical Center",
+    "688+5039" : "Washington VA Medical Center",
+    "688+3376" : "Washington VA Medical Center",
+    "688+3896" : "Washington VA Medical Center",
+    "688+4344" : "Washington VA Medical Center",
+    "688+5158" : "Washington VA Medical Center",
+    "688+2322" : "Washington VA Medical Center",
+    "688+4988" : "Washington VA Medical Center",
+    "688+4744" : "Washington VA Medical Center",
+    "688+4745" : "Washington VA Medical Center",
+    "688+4904" : "Washington VA Medical Center",
+    "688+3813" : "Washington VA Medical Center",
+    "688+5020" : "Washington VA Medical Center",
+    "688+5262" : "Washington VA Medical Center",
+    "688+1181" : "Washington VA Medical Center",
+    "688+173" : "Washington VA Medical Center",
+    "688+5421" : "Washington VA Medical Center",
+    "688+3122" : "Washington VA Medical Center",
+    "688+4335" : "Washington VA Medical Center",
+    "688+5424" : "Washington VA Medical Center",
+    "688+2276" : "Washington VA Medical Center",
+    "688+334" : "Washington VA Medical Center",
+    "688+2312" : "Washington VA Medical Center",
+    "688+3885" : "Washington VA Medical Center",
+    "688+1983" : "Washington VA Medical Center",
+    "688+2677" : "Washington VA Medical Center",
+    "688+4339" : "Washington VA Medical Center",
+    "688+3889" : "Washington VA Medical Center",
+    "688+4338" : "Washington VA Medical Center",
+    "688+4162" : "Washington VA Medical Center",
+    "688+4163" : "Washington VA Medical Center",
+    "688+3074" : "Washington VA Medical Center",
+    "688+5370" : "Washington VA Medical Center",
+    "688+5014" : "Washington VA Medical Center",
+    "688+2541" : "Washington VA Medical Center",
+    "688+5257" : "Washington VA Medical Center",
+    "688+4686" : "Washington VA Medical Center",
+    "688+4725" : "Washington VA Medical Center",
+    "688+1734" : "Washington VA Medical Center",
+    "688+2548" : "Washington VA Medical Center",
+    "688+2944" : "Washington VA Medical Center",
+    "688+260" : "Washington VA Medical Center",
+    "688+2807" : "Washington VA Medical Center",
+    "688+5085" : "Washington VA Medical Center",
+    "688+5486" : "Washington VA Medical Center",
+    "688+5487" : "Washington VA Medical Center",
+    "688+2374" : "Washington VA Medical Center",
+    "688+4159" : "Washington VA Medical Center",
+    "688+4710" : "Washington VA Medical Center",
+    "688+1442" : "Washington VA Medical Center",
+    "688+2532" : "Washington VA Medical Center",
+    "688+2774" : "Washington VA Medical Center",
+    "688+4157" : "Washington VA Medical Center",
+    "688+1564" : "Washington VA Medical Center",
+    "688+2773" : "Washington VA Medical Center",
+    "688+5368" : "Washington VA Medical Center",
+    "688+5489" : "Washington VA Medical Center",
+    "688+3469" : "Washington VA Medical Center",
+    "688+2775" : "Washington VA Medical Center",
+    "688+3501" : "Washington VA Medical Center",
+    "688+3864" : "Washington VA Medical Center",
+    "688+2535" : "Washington VA Medical Center",
+    "688+4833" : "Washington VA Medical Center",
+    "688+3506" : "Washington VA Medical Center",
+    "688+3869" : "Washington VA Medical Center",
+    "688+1725" : "Washington VA Medical Center",
+    "688+3508" : "Washington VA Medical Center",
+    "688+1826" : "Washington VA Medical Center",
+    "688+237" : "Washington VA Medical Center",
+    "688+3290" : "Washington VA Medical Center",
+    "688+637" : "Washington VA Medical Center",
+    "688+5350" : "Washington VA Medical Center",
+    "688+5351" : "Washington VA Medical Center",
+    "688+1270" : "Washington VA Medical Center",
+    "688+5354" : "Washington VA Medical Center",
+    "688+1030" : "Washington VA Medical Center",
+    "688+3570" : "Washington VA Medical Center",
+    "688+5355" : "Washington VA Medical Center",
+    "688+4142" : "Washington VA Medical Center",
+    "688+3693" : "Washington VA Medical Center",
+    "688+5078" : "Washington VA Medical Center",
+    "688+3696" : "Washington VA Medical Center",
+    "688+3970" : "Washington VA Medical Center",
+    "688+3698" : "Washington VA Medical Center",
+    "688+5598" : "Washington VA Medical Center",
+    "688+1312" : "Washington VA Medical Center",
+    "688+4703" : "Washington VA Medical Center",
+    "688+2920" : "Washington VA Medical Center",
+    "688+3618" : "Washington VA Medical Center",
+    "688+2904" : "Washington VA Medical Center",
+    "688+1939" : "Washington VA Medical Center",
+    "688+4492" : "Washington VA Medical Center",
+    "688+3283" : "Washington VA Medical Center",
+    "688+5101" : "Washington VA Medical Center",
+    "688+5344" : "Washington VA Medical Center",
+    "688+3287" : "Washington VA Medical Center",
+    "688+5106" : "Washington VA Medical Center",
+    "688+5348" : "Washington VA Medical Center",
+    "688+3445" : "Washington VA Medical Center",
+    "688+3962" : "Washington VA Medical Center",
+    "688+5983" : "Charlotte Hall VA Clinic",
+    "688+1421" : "Washington VA Medical Center",
+    "688+4257" : "Washington VA Medical Center",
+    "688+2754" : "Washington VA Medical Center",
+    "688+3326" : "Washington VA Medical Center",
+    "688+3964" : "Washington VA Medical Center",
+    "688+3567" : "Washington VA Medical Center",
+    "688+5349" : "Washington VA Medical Center",
+    "688+4815" : "Washington VA Medical Center",
+    "688+1408" : "Washington VA Medical Center",
+    "688+3708" : "Washington VA Medical Center",
+    "688+5171" : "Washington VA Medical Center",
+    "688+3030" : "Washington VA Medical Center",
+    "688+5052" : "Washington VA Medical Center",
+    "688+4364" : "Washington VA Medical Center",
+    "688+2580" : "Washington VA Medical Center",
+    "688+5454" : "Washington VA Medical Center",
+    "688+5055" : "Washington VA Medical Center",
+    "688+3671" : "Washington VA Medical Center",
+    "688+4401" : "Washington VA Medical Center",
+    "688+5336" : "Washington VA Medical Center",
+    "688+4124" : "Washington VA Medical Center",
+    "688+2622" : "Washington VA Medical Center",
+    "688+4403" : "Washington VA Medical Center",
+    "688+2227" : "Washington VA Medical Center",
+    "688+3558" : "Washington VA Medical Center",
+    "688+2628" : "Washington VA Medical Center",
+    "688+5043" : "Washington VA Medical Center",
+    "688+4072" : "Washington VA Medical Center",
+    "688+5040" : "Washington VA Medical Center",
+    "688+5041" : "Washington VA Medical Center",
+    "688+1084" : "Washington VA Medical Center",
+    "688+3263" : "Washington VA Medical Center",
+    "688+3661" : "Washington VA Medical Center",
+    "688+4197" : "Washington VA Medical Center",
+    "688+4230" : "Washington VA Medical Center",
+    "688+4198" : "Washington VA Medical Center",
+    "688+4473" : "Washington VA Medical Center",
+    "688+5045" : "Washington VA Medical Center",
+    "688+5166" : "Washington VA Medical Center",
+    "688+2332" : "Washington VA Medical Center",
+    "688+3662" : "Washington VA Medical Center",
+    "688+5568" : "Washington VA Medical Center",
+    "688+2333" : "Washington VA Medical Center",
+    "688+2336" : "Washington VA Medical Center"
+  },
+  "patients/1015977112V032151/appointments?startDate=2019-09-10T04%3A00%3A00Z&endDate=2020-01-10T05%3A00%3A00Z&useCache=false&pageSize=0&": { "data" : { "result" : { "partial" : false    },    "numAppointments" : 0  }},
+  "direct-scheduling/patient/ICN/1015977112V032151/booked-cc-appointments?startDate=09%2F10%2F2019&endDate=01%2F10%2F2020&useCache=false&pageSize=0&": {"bookedAppointmentCollections" : [ { "collectionName" : "bookedCCAppointments",    "bookedCCAppointments" : [ ]  } ]},
+  "clinical-services/types-of-care?": [ {
+    "id" : "203",
+    "name" : "Audiology",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "372",
+    "name" : "MOVE! program",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "408",
+    "name" : "Optometry",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "323",
+    "name" : "Primary Care",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "349",
+    "name" : "CPAP Clinic",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "CR1",
+    "name" : "Express Care",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "123",
+    "name" : "Food and Nutrition",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "160",
+    "name" : "Clinical Pharmacy-Primary Care",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "502",
+    "name" : "Outpatient Mental Health",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "143",
+    "name" : "Sleep Medicine – Home Sleep Testing",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "407",
+    "name" : "Ophthalmology",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "125",
+    "name" : "Social Work",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  }, {
+    "id" : "211",
+    "name" : "Amputation Services",
+    "objectType" : "TypesOfCare",
+    "link" : [ ]
+  } ],
+  "direct-scheduling/parent-sites?facility-code=688&": [ {
+    "institutionCode" : "688",
+    "city" : "Washington",
+    "stateAbbrev" : "DC",
+    "authoritativeName" : "Washington VA Medical Center",
+    "rootStationCode" : "688",
+    "adminParent" : true,
+    "parentStationCode" : "688"
+  } ],
+  "direct-scheduling/institutions?facility-code=688&parent-code=688&clinical-service=323&": [ {
+    "institution" : {
+      "institutionCode" : "688",
+      "name" : "Washington VA Medical Center",
+      "city" : "Washington",
+      "stateAbbrev" : "DC",
+      "authoritativeName" : "Washington VA Medical Center",
+      "rootStationCode" : "688",
+      "adminParent" : true,
+      "parentStationCode" : "688"
+    },
+    "requestSupported" : true,
+    "directSchedulingSupported" : true,
+    "expressTimes" : null,
+    "institutionTimezone" : "America/New_York"
+  }, {
+    "institution" : {
+      "institutionCode" : "688GA",
+      "name" : "Fort Belvoir VA Clinic",
+      "city" : "Fort Belvoir",
+      "stateAbbrev" : "VA",
+      "authoritativeName" : "Fort Belvoir VA Clinic",
+      "rootStationCode" : "688",
+      "adminParent" : false,
+      "parentStationCode" : "688"
+    },
+    "requestSupported" : true,
+    "directSchedulingSupported" : true,
+    "expressTimes" : null,
+    "institutionTimezone" : "America/New_York"
+  }, {
+    "institution" : {
+      "institutionCode" : "688GB",
+      "name" : "Southeast Washington VA Clinic",
+      "city" : "Washington",
+      "stateAbbrev" : "DC",
+      "authoritativeName" : "Southeast Washington VA Clinic",
+      "rootStationCode" : "688",
+      "adminParent" : false,
+      "parentStationCode" : "688"
+    },
+    "requestSupported" : true,
+    "directSchedulingSupported" : false,
+    "expressTimes" : null,
+    "institutionTimezone" : "America/New_York"
+  }, {
+    "institution" : {
+      "institutionCode" : "688GD",
+      "name" : "Charlotte Hall VA Clinic",
+      "city" : "Charlotte Hall",
+      "stateAbbrev" : "MD",
+      "authoritativeName" : "Charlotte Hall VA Clinic",
+      "rootStationCode" : "688",
+      "adminParent" : false,
+      "parentStationCode" : "688"
+    },
+    "requestSupported" : true,
+    "directSchedulingSupported" : true,
+    "expressTimes" : null,
+    "institutionTimezone" : "America/New_York"
+  }, {
+    "institution" : {
+      "institutionCode" : "688GE",
+      "name" : "Southern Prince George's County VA Clinic",
+      "city" : "Camp Springs",
+      "stateAbbrev" : "MD",
+      "authoritativeName" : "Southern Prince George's County VA Clinic",
+      "rootStationCode" : "688",
+      "adminParent" : false,
+      "parentStationCode" : "688"
+    },
+    "requestSupported" : true,
+    "directSchedulingSupported" : true,
+    "expressTimes" : null,
+    "institutionTimezone" : "America/New_York"
+  }, {
+    "institution" : {
+      "institutionCode" : "688GF",
+      "name" : "Montgomery County VA Clinic",
+      "city" : "Gaithersburg",
+      "stateAbbrev" : "MD",
+      "authoritativeName" : "Montgomery County VA Clinic",
+      "rootStationCode" : "688",
+      "adminParent" : false,
+      "parentStationCode" : "688"
+    },
+    "requestSupported" : true,
+    "directSchedulingSupported" : true,
+    "expressTimes" : null,
+    "institutionTimezone" : "America/New_York"
+  } ],
+  "clinical-services/patient/ICN/1015977112V032151/clinics?three-digit-code=688&clinical-service=323&institution-code=688&": [ {
+    "siteCode" : "688",
+    "clinicId" : "2276",
+    "clinicName" : "DC/PACT GREEN FOUR",
+    "clinicFriendlyLocationName" : "GREEN VASSALL",
+    "primaryStopCode" : "323",
+    "secondaryStopCode" : "",
+    "directSchedulingFlag" : "Y",
+    "displayToPatientFlag" : "Y",
+    "institutionName" : "Washington VA Medical Center",
+    "institutionCode" : "688",
+    "objectType" : "CdwClinic",
+    "link" : [ ]
+  } ],
+  "clinical-services/patient/ICN/1015977112V032151/clinics?three-digit-code=688&clinical-service=323&institution-code=688GD&": [],
+  "clinical-services/patient/ICN/1015977112V032151/clinics?three-digit-code=688&clinical-service=323&institution-code=688GB&": [],
+  "clinical-services/patient/ICN/1015977112V032151/clinics?three-digit-code=688&clinical-service=323&institution-code=688GA&": [],
+  "clinical-services/patient/ICN/1015977112V032151/clinics?three-digit-code=688&clinical-service=323&institution-code=688GF&": [],
+  "clinical-services/patient/ICN/1015977112V032151/clinics?three-digit-code=688&clinical-service=323&institution-code=688GE&": [],
+  "clinical-services/patient/ICN/1015977112V032151/clinics?three-digit-code=688&clinical-service=323&institution-code=688GC&": [],
+  "direct-scheduling/site/688/patient/ICN/1015977112V032151/request-eligibility/visited-in-past-months?clinical-service=323&institution-code=688&": { "hasVisitedInPastMonths" : false,  "durationInMonths" : 0},
+  "direct-scheduling/patient/ICN/1015977112V032151/request-limit?clinical-service=323&institution-code=688&": {"numberOfRequests" : 0,  "requestLimit" : 1},
+  "direct-scheduling/site/688/patient/ICN/1015977112V032151/request-eligibility/visited-in-past-months?clinical-service=323&institution-code=688GD&": { "hasVisitedInPastMonths" : false,  "durationInMonths" : 0},
+  "direct-scheduling/patient/ICN/1015977112V032151/request-limit?clinical-service=323&institution-code=688GD&": {"numberOfRequests" : 0,  "requestLimit" : 1},
+  "direct-scheduling/site/688/patient/ICN/1015977112V032151/pact-team?": [ {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "3780868",
+    "staffName" : "VASSALL,NATALIE M",
+    "providerPosition" : "GREEN-FOUR PHYSICIAN",
+    "possiblePrimary" : "Y",
+    "title" : "PHYSICIAN-ATTENDING"
+  }, {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "3996313",
+    "staffName" : "NESMITH,LAURA M",
+    "providerPosition" : "",
+    "possiblePrimary" : "N",
+    "title" : "REGISTERED NURSE (RN)"
+  }, {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "10735042",
+    "staffName" : "DEGEFU,SEHIN",
+    "providerPosition" : "",
+    "possiblePrimary" : "N",
+    "title" : "CLINICAL PHARMACY SPECIALIST"
+  }, {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "3778370",
+    "staffName" : "JENKINS,VARONDA S",
+    "providerPosition" : "",
+    "possiblePrimary" : "N",
+    "title" : "REGISTERED NURSE (RN)"
+  }, {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "1400571990",
+    "staffName" : "MCBRIDE,SAMANTHA M",
+    "providerPosition" : "Green-Four Health Technician",
+    "possiblePrimary" : "N",
+    "title" : "HEALTH TECHNICIAN (HT)"
+  }, {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "1404654757",
+    "staffName" : "STANLEY,TALORIA M",
+    "providerPosition" : "",
+    "possiblePrimary" : "N",
+    "title" : "SOCIAL WORKER"
+  }, {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "3794433",
+    "staffName" : "BEKELE,TSEDEKEWORK",
+    "providerPosition" : "",
+    "possiblePrimary" : "N",
+    "title" : "DIETITIAN"
+  }, {
+    "facilityId" : "688",
+    "teamSid" : "1400018881",
+    "teamName" : "GREEN-FOUR",
+    "teamPurpose" : "PRIMARY CARE",
+    "providerSid" : "1406616167",
+    "staffName" : "ALEXANDER,TIESE M",
+    "providerPosition" : "",
+    "possiblePrimary" : "N",
+    "title" : "CLERK"
+  } ],
+  "custom-messages?institution-code=688&type=noClinicRadioButtons&": [ {
+    "id" : "5995cee14eda351a2d8f3cf8",
+    "lastModifiedDate" : "05/01/2019 16:49:48",
+    "siteCode" : "688",
+    "messageId" : "noClinicRadioButtons",
+    "messageText" : "If you don't see the clinic that matches your needs, contact your facility for assistance.",
+    "objectType" : "CustomMessage",
+    "link" : [ ]
+  } ],
+  "custom-messages?institution-code=688&type=appointmentNoPreferredDatePopup&": [ {
+    "id" : "5995cee14eda351a2d8f3cf6",
+    "lastModifiedDate" : "05/01/2019 16:49:48",
+    "siteCode" : "688",
+    "messageId" : "appointmentNoPreferredDatePopup",
+    "messageText" : "Scheduling Clerks may be able to find additional dates and times for you. To request assistance, change the scheduling method you selected to \"Request help scheduling\" and submit the request details. A clerk will contact you to provide assistance.",
+    "objectType" : "CustomMessage",
+    "link" : [ ]
+  } ],
+  "direct-scheduling/site/688/patient/ICN/1015977112V032151/available-appointment-slots?startDate=09%2F11%2F2019&endDate=12%2F09%2F2019&clinicIds=2276&": [ {
+    "clinicId" : "2276",
+    "clinicName" : "DC/PACT GREEN FOUR",
+    "appointmentLength" : "30",
+    "clinicDisplayStartTime" : "7",
+    "displayIncrements" : "2",
+    "stopCode" : "282",
+    "askForCheckIn" : false,
+    "maxOverbooksPerDay" : "2",
+    "hasUserAccessToClinic" : true,
+    "primaryStopCode" : "323",
+    "secondaryStopCode" : "",
+    "listSize" : 139,
+    "objectType" : "AppointmentTimeSlots",
+    "link" : [ ],
+    "empty" : false,
+    "appointmentTimeSlot" : [ {
+      "startDateTime" : "09/17/2019 08:30:00",
+      "endDateTime" : "09/17/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/17/2019 09:30:00",
+      "endDateTime" : "09/17/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/17/2019 11:00:00",
+      "endDateTime" : "09/17/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/17/2019 11:30:00",
+      "endDateTime" : "09/17/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/19/2019 09:00:00",
+      "endDateTime" : "09/19/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/19/2019 09:30:00",
+      "endDateTime" : "09/19/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/19/2019 10:00:00",
+      "endDateTime" : "09/19/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/19/2019 10:30:00",
+      "endDateTime" : "09/19/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/19/2019 11:00:00",
+      "endDateTime" : "09/19/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/19/2019 11:30:00",
+      "endDateTime" : "09/19/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/20/2019 08:30:00",
+      "endDateTime" : "09/20/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/20/2019 09:00:00",
+      "endDateTime" : "09/20/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/20/2019 09:30:00",
+      "endDateTime" : "09/20/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/30/2019 08:30:00",
+      "endDateTime" : "09/30/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/30/2019 09:00:00",
+      "endDateTime" : "09/30/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/30/2019 09:30:00",
+      "endDateTime" : "09/30/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "09/30/2019 10:00:00",
+      "endDateTime" : "09/30/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/01/2019 08:30:00",
+      "endDateTime" : "10/01/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/01/2019 09:00:00",
+      "endDateTime" : "10/01/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/01/2019 09:30:00",
+      "endDateTime" : "10/01/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/01/2019 10:00:00",
+      "endDateTime" : "10/01/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/01/2019 10:30:00",
+      "endDateTime" : "10/01/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/01/2019 11:30:00",
+      "endDateTime" : "10/01/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/03/2019 09:00:00",
+      "endDateTime" : "10/03/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/03/2019 09:30:00",
+      "endDateTime" : "10/03/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/03/2019 10:00:00",
+      "endDateTime" : "10/03/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/03/2019 10:30:00",
+      "endDateTime" : "10/03/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/03/2019 11:00:00",
+      "endDateTime" : "10/03/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/03/2019 11:30:00",
+      "endDateTime" : "10/03/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/04/2019 08:30:00",
+      "endDateTime" : "10/04/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/04/2019 09:00:00",
+      "endDateTime" : "10/04/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/04/2019 09:30:00",
+      "endDateTime" : "10/04/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/04/2019 10:00:00",
+      "endDateTime" : "10/04/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/04/2019 10:30:00",
+      "endDateTime" : "10/04/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/07/2019 08:30:00",
+      "endDateTime" : "10/07/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/07/2019 10:00:00",
+      "endDateTime" : "10/07/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/07/2019 13:30:00",
+      "endDateTime" : "10/07/2019 14:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/07/2019 14:00:00",
+      "endDateTime" : "10/07/2019 14:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/07/2019 14:30:00",
+      "endDateTime" : "10/07/2019 15:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/07/2019 15:00:00",
+      "endDateTime" : "10/07/2019 15:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/07/2019 15:30:00",
+      "endDateTime" : "10/07/2019 16:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/08/2019 08:30:00",
+      "endDateTime" : "10/08/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/08/2019 09:00:00",
+      "endDateTime" : "10/08/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/08/2019 09:30:00",
+      "endDateTime" : "10/08/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/08/2019 10:00:00",
+      "endDateTime" : "10/08/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/08/2019 10:30:00",
+      "endDateTime" : "10/08/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/08/2019 11:00:00",
+      "endDateTime" : "10/08/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/08/2019 11:30:00",
+      "endDateTime" : "10/08/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/10/2019 09:00:00",
+      "endDateTime" : "10/10/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/10/2019 09:30:00",
+      "endDateTime" : "10/10/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/10/2019 10:00:00",
+      "endDateTime" : "10/10/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/10/2019 10:30:00",
+      "endDateTime" : "10/10/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/11/2019 08:30:00",
+      "endDateTime" : "10/11/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/11/2019 09:00:00",
+      "endDateTime" : "10/11/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/11/2019 09:30:00",
+      "endDateTime" : "10/11/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/11/2019 10:00:00",
+      "endDateTime" : "10/11/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/11/2019 10:30:00",
+      "endDateTime" : "10/11/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/15/2019 08:30:00",
+      "endDateTime" : "10/15/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/15/2019 09:00:00",
+      "endDateTime" : "10/15/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/15/2019 09:30:00",
+      "endDateTime" : "10/15/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/15/2019 10:00:00",
+      "endDateTime" : "10/15/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/15/2019 10:30:00",
+      "endDateTime" : "10/15/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/15/2019 11:00:00",
+      "endDateTime" : "10/15/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/15/2019 11:30:00",
+      "endDateTime" : "10/15/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/17/2019 09:00:00",
+      "endDateTime" : "10/17/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/17/2019 09:30:00",
+      "endDateTime" : "10/17/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/17/2019 10:00:00",
+      "endDateTime" : "10/17/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/17/2019 10:30:00",
+      "endDateTime" : "10/17/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/17/2019 11:00:00",
+      "endDateTime" : "10/17/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/17/2019 11:30:00",
+      "endDateTime" : "10/17/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/18/2019 08:30:00",
+      "endDateTime" : "10/18/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/18/2019 09:00:00",
+      "endDateTime" : "10/18/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/18/2019 09:30:00",
+      "endDateTime" : "10/18/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/18/2019 10:00:00",
+      "endDateTime" : "10/18/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/18/2019 10:30:00",
+      "endDateTime" : "10/18/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 08:30:00",
+      "endDateTime" : "10/21/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 09:00:00",
+      "endDateTime" : "10/21/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 10:00:00",
+      "endDateTime" : "10/21/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 13:30:00",
+      "endDateTime" : "10/21/2019 14:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 14:00:00",
+      "endDateTime" : "10/21/2019 14:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 14:30:00",
+      "endDateTime" : "10/21/2019 15:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 15:00:00",
+      "endDateTime" : "10/21/2019 15:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/21/2019 15:30:00",
+      "endDateTime" : "10/21/2019 16:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/22/2019 08:30:00",
+      "endDateTime" : "10/22/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/22/2019 09:00:00",
+      "endDateTime" : "10/22/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/22/2019 09:30:00",
+      "endDateTime" : "10/22/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/22/2019 10:00:00",
+      "endDateTime" : "10/22/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/22/2019 10:30:00",
+      "endDateTime" : "10/22/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/22/2019 11:00:00",
+      "endDateTime" : "10/22/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/22/2019 11:30:00",
+      "endDateTime" : "10/22/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/24/2019 09:00:00",
+      "endDateTime" : "10/24/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/24/2019 09:30:00",
+      "endDateTime" : "10/24/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/24/2019 10:00:00",
+      "endDateTime" : "10/24/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/24/2019 10:30:00",
+      "endDateTime" : "10/24/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/25/2019 08:30:00",
+      "endDateTime" : "10/25/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/25/2019 09:00:00",
+      "endDateTime" : "10/25/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/25/2019 09:30:00",
+      "endDateTime" : "10/25/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/25/2019 10:00:00",
+      "endDateTime" : "10/25/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/25/2019 10:30:00",
+      "endDateTime" : "10/25/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/28/2019 08:30:00",
+      "endDateTime" : "10/28/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/28/2019 09:00:00",
+      "endDateTime" : "10/28/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/28/2019 09:30:00",
+      "endDateTime" : "10/28/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/28/2019 10:00:00",
+      "endDateTime" : "10/28/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/28/2019 13:00:00",
+      "endDateTime" : "10/28/2019 13:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/28/2019 13:30:00",
+      "endDateTime" : "10/28/2019 14:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/28/2019 14:00:00",
+      "endDateTime" : "10/28/2019 14:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/29/2019 09:00:00",
+      "endDateTime" : "10/29/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/29/2019 09:30:00",
+      "endDateTime" : "10/29/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/29/2019 10:00:00",
+      "endDateTime" : "10/29/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/29/2019 10:30:00",
+      "endDateTime" : "10/29/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/29/2019 11:00:00",
+      "endDateTime" : "10/29/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/29/2019 11:30:00",
+      "endDateTime" : "10/29/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/31/2019 09:00:00",
+      "endDateTime" : "10/31/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/31/2019 09:30:00",
+      "endDateTime" : "10/31/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/31/2019 10:00:00",
+      "endDateTime" : "10/31/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/31/2019 10:30:00",
+      "endDateTime" : "10/31/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/31/2019 11:00:00",
+      "endDateTime" : "10/31/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "10/31/2019 11:30:00",
+      "endDateTime" : "10/31/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/01/2019 08:30:00",
+      "endDateTime" : "11/01/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/01/2019 09:00:00",
+      "endDateTime" : "11/01/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/01/2019 09:30:00",
+      "endDateTime" : "11/01/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/01/2019 10:00:00",
+      "endDateTime" : "11/01/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/01/2019 10:30:00",
+      "endDateTime" : "11/01/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 08:30:00",
+      "endDateTime" : "11/04/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 09:00:00",
+      "endDateTime" : "11/04/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 09:30:00",
+      "endDateTime" : "11/04/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 10:00:00",
+      "endDateTime" : "11/04/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 13:30:00",
+      "endDateTime" : "11/04/2019 14:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 14:00:00",
+      "endDateTime" : "11/04/2019 14:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 14:30:00",
+      "endDateTime" : "11/04/2019 15:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 15:00:00",
+      "endDateTime" : "11/04/2019 15:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/04/2019 15:30:00",
+      "endDateTime" : "11/04/2019 16:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/05/2019 08:30:00",
+      "endDateTime" : "11/05/2019 09:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/05/2019 09:00:00",
+      "endDateTime" : "11/05/2019 09:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/05/2019 09:30:00",
+      "endDateTime" : "11/05/2019 10:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/05/2019 10:00:00",
+      "endDateTime" : "11/05/2019 10:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/05/2019 10:30:00",
+      "endDateTime" : "11/05/2019 11:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/05/2019 11:00:00",
+      "endDateTime" : "11/05/2019 11:30:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    }, {
+      "startDateTime" : "11/05/2019 11:30:00",
+      "endDateTime" : "11/05/2019 12:00:00",
+      "bookingStatus" : "1",
+      "remainingAllowedOverBookings" : "2",
+      "availability" : true
+    } ]
+  } ]
+}

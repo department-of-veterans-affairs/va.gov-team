@@ -13,8 +13,14 @@ Research questions included:
 - RQ4: Do the new user interface components introduce any pain points or confusion?
 - RQ5: What content is needed to facilitate decision support at key moments in the appointment scheduling process?
 
+[Screen-by-screen synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/sept19-usability-testing-new-ux/request_usability/requesting%20research%20documentation%20.pdf)
+
+[Link to Optimal Workshop](https://www.optimalworkshop.com/a/adhoc/reframer/projects/29160a53-8928-4bce-b92e-371c3d3cbc76/)
+
 # Study 2 (Sept 25-30) 
 Study 2 covered rigid and semi-rigid self-schedule flows, messages, and appointment canceling.
+
+[Prototype link](https://vsateams.invisionapp.com/share/USU2W52K37A#/screens)
 
 Research questions included:
 - Are Veterans receptive to a choice-architecture approach of limiting self-schedule only to a clinic where a user last booked (within a set time frame for a type of care)?
@@ -26,5 +32,7 @@ Research questions included:
 - Do Veterans want to see cancelled appointments inline with other confirmed/pending appointments, or separate?
 - What content is needed to facilitate decision support at key moments in the appointment scheduling process?
 
+[Screen-by-screen synthesis](https://www.figma.com/file/2VX8fV3vdJyxHbwt2fzUG5/Self-Schedule-Synthesis?node-id=0%3A2463) 
+
 ## Future studies needed
-Future studies will need to cover the provider flow, express care, messaging, and accessibility + usability issues with the direct schedule flow. 
+Future studies will need to cover accessibility + usability issues with the direct schedule flow. 

@@ -5,22 +5,23 @@
 ## Why we're here
 
 ### North Star:
-_Lorem ipsum_
+Provide innovators a comprehensive and organized toolbox to achieve success.
 
 ### Product Suite (if applicable): 
 VSP Platform Team
 
 ### Team Mission Statement:
-_Lorem ipsum_
+Create and maintain solutions for VFS teams to deliver high-quality and cohesive applications easier and faster by automating tasks and streamlining processes.
+
 
 ### Product Portfolio:
 
 
 ### Responsibilities:
-_High level problem space and user goals for this team_
+
 
 ### Roadmap:
-_Link to agile roadmap_
+
 
 ---
 
@@ -28,7 +29,16 @@ _Link to agile roadmap_
 
 ### Team Members:
 - Team Product Manager: Brandon Rapp
-- _Additional Team Role_: _person’s name_
+
+- FE Dev Lead: Rian Fowler
+- FE Dev Engineer: Eugene Doan
+- FE Dev Enginner: Brooks Johnson
+- FE Dev Engineer: Jhonny Gonzalez
+
+- BE Dev Lead: Anna Carey
+- BE Dev Lead: Johnny Holton
+- BE Dev Lead: Travis Hilton
+
 
 ---
 
@@ -39,26 +49,25 @@ _Link to agile roadmap_
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ _time_
+- Daily 11:30AM ET
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint @Noon (Follows Retro)
 - 1 hour
-- _any other notes you have_
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint @ Noon
 - 30 min
 - _any other notes you have_
 
 #### Grooming
-Assess and update workload for remainder of sprint
+Assess and update workload for remainder of sprint and discuss objectives for next sprint
 
 - 2nd Thursday of every sprint
 - 1 hour
@@ -80,7 +89,6 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-_Update as you see fit! These are some starter norms for you to consider_
 
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls

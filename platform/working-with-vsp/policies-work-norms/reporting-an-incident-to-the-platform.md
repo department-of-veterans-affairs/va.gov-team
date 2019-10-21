@@ -35,7 +35,7 @@ Choose one of the following:
 
 * If you know which team the issue should be routed to, reach out to their point of contact to confirm and directly assign the issue to that team.
 
-* If you aren't sure which team owns the issue and would like to send it directly to them without the assistance of Triage, the [Product Owner Mapping Document](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) can help guide you in the right direction.
+* If you aren't sure which team owns the issue and would like to send it directly to them without the assistance of Triage, the [Product Directory](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) can help guide you in the right direction.
 
 * If you aren't sure which team owns the issue and want to send it to Triage team, choose one of the following:
 
@@ -63,10 +63,10 @@ When in doubt, submit any issue through our [Triage Incident Template](https://g
 
 ## What Triage will do with reported issues
 ### Triage will resolve:
-Issues with products/systems that fall under VSP ownership. [See List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) for clarity on which products and systems fall under VSP ownership.
+Issues with products/systems that fall under VSP ownership. [Product Directory](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) for clarity on which products and systems fall under VSP ownership.
 
 ### Triage will route to VFS teams to resolve:
-All issues with Veteran-facing Services (including endpoints and integrations with APIs) by assigning a ZenHub issue to the  POC of the VFS team whose product is experiencing issues - per the ownership indicated in the [List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874).  
+All issues with Veteran-facing Services (including endpoints and integrations with APIs) by assigning a ZenHub issue to the  POC of the VFS team whose product is experiencing issues - per the ownership indicated in the [Product Directory](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874).  
 
-In the event there is no VFS team owner indicated in the [List of Va.gov Products](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) Triage will assign the issue to Chris Johnston.
+In the event there is no VFS team owner indicated in the [Product Directory](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874) Triage will assign the issue to Chris Johnston.
 
