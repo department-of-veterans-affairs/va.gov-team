@@ -79,15 +79,17 @@ The migration will be a critical strategy in getting this feature into a modern 
 - **Date**: summary of any big changes and why
 
 ## How to Access and Test
-- Link:
+- Link: This feature will eventually be found at staging.va.gov/disability/rated-disabilites
 - Password protection info:
-- User authentication info:
+- User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
 
 ## Error Handling
+There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
 
 ## Service Level Objective
-
+...
 ## API Calls and Dependent Systems
+Rated Disbailities uses the `vets-api` via EVSS.
 
 ## Resources and Documentation
 
@@ -99,26 +101,29 @@ The migration will be a critical strategy in getting this feature into a modern 
 - ATO documentation
 
 ## Keywords
-
+eBenefits, rated disabilities
 
 ## Team
 
 - VA Executive Sponsor `*`: 
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`:
-- Product Manager `*`:
-- Design Lead:
-- Eng Lead:
+- DSVA Lead `*`: Steve Kovacs
+- Product Manager `*`: Jason Wolf
+- Design Lead: Shawna
+- Eng Lead: Joe Costa
 - VA Web Comms Partner: 
 - VA Call Center Partner(s): 
 - Production Testing Partner(s):
-- Designer(s):
+- Designer(s): James Andrews
 - Content Writer(s):
-- Front-end Engineer(s):
-- Back-end Engineer(s):
+- Front-end Engineer(s): Micah Chiang, Jesse Cohn
+- Back-end Engineer(s): Kathleen Crawford
 
 `*` = approval required for launch
 
 ### Screenshots
 #### Before
+![Original Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/Rated_Disabilities_eBenefits_OLD.png)
 #### After
+[Live mockups](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/?x_product=cc-slack%2F1.4.0)
