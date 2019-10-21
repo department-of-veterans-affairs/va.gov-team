@@ -4,7 +4,8 @@ _**WIP** - content is being moved from the [VSA eBenefits Team folder](https://g
 # Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
 - Slack channel: #vsa-ebenefits
-- VA.gov link: n/a
+- VA.gov link (WIP): [https://www.va.gov/disability/check-disability-rating/](https://www.va.gov/disability/check-disability-rating/)
+- Tool Page (WIP): [https://www.va.gov/disability/check-disability-rating/rating](https://www.va.gov/disability/check-disability-rating/rating)
 - Demo video link: n/a
 - Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
 
