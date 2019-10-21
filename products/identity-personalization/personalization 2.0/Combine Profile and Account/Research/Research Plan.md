@@ -28,52 +28,85 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 - They'll be some confusion around what "account security" and "connected accounts" mean/are.
 - People will prefer 2.0 to 1.0.
 - The side nav will go over really well and increase scanability.
+- Saving and error interactions will be intuitive and meet expectations.
 
 ## Method
-1.	What method of research are you planning? 
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated
-  
-2.	Why this method? How does this methodology help you answer your research questions? 
+1.	**What method of research are you planning?** 
 
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
+- We'll be conducting moderated user testing.
 
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
+2.	**Why this method? How does this methodology help you answer your research questions?** 
 
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+- We need to get our initial designs in front of users and see if they meet the expectations and needs we understood users to have after coming out of our discovery phase.
+
+3.	**Where are you planning to do your research?** 
+
+- Remotely via GoToMeeting.
+
+4.	**What will you be testing?** *(Design mocks, card sort, prototype, page, content, etc.)* 
+
+- InVision prototype.
+
+5.  **If remote: What tool do you plan to use?** 
+
+- GoToMeeting.
 
 ## Participants and Recruitment
-1.	Participant criteria: What are you looking for in a participant?
+
+1.	**Participant criteria: What are you looking for in a participant?**
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
 
-2.	What is your recruitment strategy? 
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+- 5 people
+ - At least 1 woman.
+ - At least 1 people of color.
+ - At least 1 participant 35 or under and 1 over 55.
+- Be able to screenshare via GTM. Please confirm with them that they have GTM downloaded prior to the session and they know how to screenshare. If they can not get GTM working, there is no interview portion of this research and they will not be able to participate.
+
+2.	**What is your recruitment strategy?**
+
+- Work with Perigean.
 
 ## When? 
-1.	Timeline: What dates do you plan to do research? 
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 
+1.	**Timeline: What dates do you plan to do research?**
 
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
+TBD
 
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
+2.	**Prepare: When will the thing you are testing be ready?**
 
-4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
+TBD
 
-5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
+3. **Length of Sessions: How long do you estimate each session will be?**
+
+TBD
+
+4.	**Availability: If applicable, when would you like sessions scheduled?**
+
+TBD
+
+5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
+
+TBD
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
-- Moderator:
-- Research guide writing and task development (usually but not always same as moderator):
-- Participant recruiting & screening:
-- Project point of contact:
-- Participant(s) for pilot test:
-- Note-takers:
-- Observers:
+- **Moderator**: Samara Strauss
+- **Research guide writing and task development**: Samara Strauss
+- **Participant recruiting & screening**:
+- **Project point of contact**:
+- **Participant(s) for pilot test**:
+- **Note-takers**:
+- **Observers**: Listed below
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
+- Arthur Green (agreen@governmentcio.com)
+- Lisa Koenigsberg (lisa.koenigsberg@va.gov)
+- Justin Pickett (jpickett@governmentcio.com)
+- Erik Hansen (erik@adhocteam.us)
+- Lihan Li (lihan@adhocteam.us)
+- Amen Ra (ara@governmentcio.com)
+
 ## Resources
-- [Project Brief]()
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/README.md)
 - [Discussion Guide]()
 - [Synthesis]()
