@@ -1,5 +1,4 @@
-# Analytics Baseline
-Based on Facility Locator Modernized, Production
+# Analytics Baseline: Facility Locator Modernized, Production
 
 
 ## Audience
@@ -14,6 +13,7 @@ Observations from Dashboard July 13, 2019-October 10, 2019
 - Almost 44% arrive organically from Google
 - 25% arrive directly 
 - 11% arrive organically from Bing
+
 ## Engagement
 Observations from Dashboard July 10, 2019-October 10, 2019 
 
@@ -58,7 +58,6 @@ Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=1,137,3
 | Urgent Care | .44% | 5.55 | 5.85% |
 | Applyingforbenefits | .42% | 6.93 | 5.05%|
 
-
 ## Events
 Observations from Dashboard July 10, 2019-October 10, 2019
 - Almost 60% of events attributed to Script errors (cross-origin/FE)
@@ -72,3 +71,18 @@ Observations from Dashboard July 1-September 30, 2019
 ## Goal completion
 Observations from Dashboard July 13, 2019-October 10, 2019
 -Goal 1: Facility Details Viewed: goal completion = 21.6% average
+
+# Analytics Baseline: cem.va.gov Production
+
+## Pageview
+1,100,191 unique pageviews between Jul 20, 2019-Oct 20, 2019
+| Page | # of views (%) |
+|---| ---|
+| Home page | 61,046(5.55%) |
+| /burial_benefits/ | 38,408(3.49%) |
+| /cem/dailyburialschedule/index.asp | 38,545(3.50%) |
+| /dailyburialschedule/ | 30,863(2.81%) |
+| /hmm/ (Headstones/memorial markers | 25,135(2.28%) | 
+| /cem/faq.asp | 24,758(2.25%) |
+
+
