@@ -18,7 +18,7 @@ Our objective for this research is to learn the current user behavior on Facilit
 - How easy/difficult is it for a user to find a facility?
 - What ways do users navigate to the facility locator?
 - What search criteria should be present so that Veterans can find facilities?
-_ What information do Veterans expect to see in the search results?
+- What information do Veterans expect to see in the search results?
 - Do Veterans understand what the different facility classifications mean?
 - How do Veterans distinguish emergency, urgent, and community care facilities?
 - What other tools/sites do vets use to find facilities or services?
