@@ -1,4 +1,4 @@
-# (WIP) Research Plan for Facility Locator, October 2019
+# Research Plan for Facility Locator Discovery, October 2019
 
 ## Goals
 This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Locator team.
