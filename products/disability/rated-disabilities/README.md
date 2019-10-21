@@ -1,5 +1,5 @@
 
-_WIP - content is being moved from the [VSA eBenefits Team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)_
+_**WIP** - content is being moved from the [VSA eBenefits Team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)_
 
 # Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
@@ -52,22 +52,26 @@ Presenting the Veterans Rated Disabilities information quickly and clearly witho
 The VA will see an added benefit in that a significant percentage of its traffic looking for this information will be better informed and receive the benefits they deserve.    
 
 ## Assumptions
-The migration will be a critical strategy in getting this feature into a modern development environment and its new location will provide smoother access at the user level.   
+The migration will be a critical strategy in getting this feature into a modern development environment and its new location will provide smoother access at the user level.    
 
 ## Requirements and Constraints
+Since this feature uses the `vets-api` via EVSS, most of the endpoints are relatively easy to call and display, however, the Total Combined Disability Rating is proving to be a challenge to get a hold of.  
 
 ## Discovery Takeaways
+For the most part, users use Rated Disabilities as intended, to ensure they have the correct rating.  If not, they can simply go to the Claim Status Tool and see the status.
 
 ## Solution Approach
+Primarily, the solution has consisted of migrating this tool from the `ebenefits` subdomain over to VA.gov, linking from a place that makes sense (dashboard or MyVA) and implementing the VA.gov's new design system.
 
 ## Value Propositions
-
-#### User Value
+#### User Value  
+Having Rated Disabilities closer to the VA.go experience should allow the user to feel more connected to their rating and their statuses.  
 
 #### Business Value
+Keeping the Veteran engaged should also in create an environment where benefits are transferred faster and smoother.
 
 ## KPIs
-
+Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.  
 ---
 
 # Implementation Info
@@ -75,11 +79,11 @@ The migration will be a critical strategy in getting this feature into a modern 
 ## Status
 
 ## Solution Narrative
-- **Date**: summary of any big changes and why
-- **Date**: summary of any big changes and why
+- **October 8, 2019**: new design elements were introduced and were re-worked into the existing mockups and frontend
+- **October 2019**: Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
 
 ## How to Access and Test
-- Link: This feature will eventually be found at staging.va.gov/disability/rated-disabilites
+- Link: This feature is anticipated to reside at staging.va.gov/disability/rated-disabilites
 - Password protection info:
 - User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
 
