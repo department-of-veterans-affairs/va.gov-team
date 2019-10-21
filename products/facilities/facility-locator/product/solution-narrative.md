@@ -16,5 +16,11 @@
   **Andy:** (in Slack Oct. 16, 2019) Previously VA.gov used persona links (Veteran, Caregiver, etc) take you to persona pages, which linked out to content. The decision was made to NOT build the new VA.gov’s info. architecture based on personas. Veterans are our default users. We know family members and caregivers put themselves in the shoes of Veterans when navigating VA.
 
 **What defines Facility Locator 2.0?**
+
+**Parity**
+- The stated goal of "reaching parity" = data source parity, not content parity. (October 15, 2019)
+
+**VA Health**
+- Facility Detail pages for VA Health live on their own websites, not within Facility Locator. 
    
     
