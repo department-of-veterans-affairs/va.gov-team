@@ -19,8 +19,8 @@
 
 **What is "Get Care"?**
 
-**Discovered links back to Facility Locator**
-- from PTSD.va.gov
+**What is obligation for mobile versions of the VBA/VHA/NCA/etc Facility locators?**
+
 
 
 
