@@ -1,7 +1,11 @@
+
+_**WIP** - content is being moved from here to the [VA.gov Product folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/README.md)_
+
 # Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
 - Slack channel: #vsa-ebenefits
-- VA.gov link: n/a
+- VA.gov link (WIP): [https://www.va.gov/disability/check-disability-rating/](https://www.va.gov/disability/check-disability-rating/)
+- Tool Page (WIP): [https://www.va.gov/disability/check-disability-rating/rating](https://www.va.gov/disability/check-disability-rating/rating)
 - Demo video link: n/a
 - Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
 
@@ -49,45 +53,49 @@ Presenting the Veterans Rated Disabilities information quickly and clearly witho
 The VA will see an added benefit in that a significant percentage of its traffic looking for this information will be better informed and receive the benefits they deserve.    
 
 ## Assumptions
-The migration will be a critical strategy in getting this feature into a modern development environment and its new location will provide smoother access at the user level.   
+The migration will be a critical strategy in getting this feature into a modern development environment and its new location will provide smoother access at the user level.    
 
 ## Requirements and Constraints
+Since this feature uses the `vets-api` via EVSS, most of the endpoints are relatively easy to call and display, however, the Total Combined Disability Rating is proving to be a challenge to get a hold of.  
 
 ## Discovery Takeaways
+For the most part, users use Rated Disabilities as intended, to ensure they have the correct rating.  If not, they can simply go to the Claim Status Tool and see the status.
 
 ## Solution Approach
+Primarily, the solution has consisted of migrating this tool from the `ebenefits` subdomain over to VA.gov, linking from a place that makes sense (dashboard or MyVA) and implementing the VA.gov's new design system.
 
 ## Value Propositions
-
-#### User Value
+#### User Value  
+Having Rated Disabilities closer to the VA.go experience should allow the user to feel more connected to their rating and their statuses.  
 
 #### Business Value
+Keeping the Veteran engaged should also in create an environment where benefits are transferred faster and smoother.
 
 ## KPIs
-
+Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.  
 ---
 
 # Implementation Info
-
 ## Status
-
+Currently in development, designs approved, moving towards staging.
 ## Solution Narrative
-- **Date**: summary of any big changes and why
-- **Date**: summary of any big changes and why
+- **October 8, 2019**: new design elements were introduced and were re-worked into the existing mockups and frontend
+- **October 2019**: Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
 
 ## How to Access and Test
-- Link:
+- Link: This feature is anticipated to reside at staging.va.gov/disability/rated-disabilites
 - Password protection info:
-- User authentication info:
+- User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
 
 ## Error Handling
+There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
 
 ## Service Level Objective
-
+...
 ## API Calls and Dependent Systems
+Rated Disbailities uses the `vets-api` via EVSS.
 
 ## Resources and Documentation
-
 - Discovery and Research
 - Technical Documentation
 - Product specs
@@ -96,26 +104,29 @@ The migration will be a critical strategy in getting this feature into a modern 
 - ATO documentation
 
 ## Keywords
-
+eBenefits, rated disabilities
 
 ## Team
-
 - VA Executive Sponsor `*`: 
 - VA Policy Expert(s):
 - VA Digital Strategist(s) `*`:
-- Product Manager `*`:
-- Design Lead:
-- Eng Lead:
+- DSVA Lead `*`: Steve Kovacs
+- Product Manager `*`: Jason Wolf
+- Design Lead: Shawna
+- Eng Lead: Joe Costa
 - VA Web Comms Partner: 
 - VA Call Center Partner(s): 
 - Production Testing Partner(s):
-- Designer(s):
+- Designer(s): James Andrews
 - Content Writer(s):
-- Front-end Engineer(s):
-- Back-end Engineer(s):
+- Front-end Engineer(s): Micah Chiang, Jesse Cohn
+- Back-end Engineer(s): Kathleen Crawford
 
 `*` = approval required for launch
 
-### Screenshots
-#### Before
-#### After
+### Screenshots  
+#### Before  
+![Original Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/Rated_Disabilities_eBenefits_OLD.png)
+#### After  
+[Live mockups](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/?x_product=cc-slack%2F1.4.0)
+![New Rated Dsiabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/Rated-Disabilities-eBenefits-new.png)
