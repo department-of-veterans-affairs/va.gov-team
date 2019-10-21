@@ -14,6 +14,14 @@ Before we start, a few things I want to mention:
 
 ## Background - 5 min
 
+Think back to a recent time when you visited a VA facility. If you're comfortable, will you describe that situation briefly? 
+- Can you tell me where you went?
+- What type of facility was it (urgent care, emercency, etc)?
+- Why did you choose to go to that facility?
+- Do you remember how you learned about that facility and what made you choose that one?
+
+Are you familiar with the Find VA Locations tool on VA.gov? **(share link)**
+
 ## Usability Test - 15 min
 
 ### Task 1 
