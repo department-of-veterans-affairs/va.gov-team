@@ -11,16 +11,16 @@ The [personalization 2.0](https://github.com/department-of-veterans-affairs/va.g
 
 3. **Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
-1. Does the information architecture within the profile make sense to users?
-2. Do the terms we use on the profile make sense/mean anything to users?
-3. Has the side nav increased scanability of the new profile? Do people find what the need easily?
-4. Do saving/errors interactions feel intuitive?
-5. Do people understand why some info isn't editable, and how to update it?
-6. Can people find the profile easily?
-7. How do people think the new profile compares to profile/account 1.0?
-8. Do people understand what connected accounts are? Do they want to see this section of the profile if they don't have connected accounts?
-9. What do people think "Account security" means? 
-10. Where would people go to change the email address they use to sign in?
+- Does the information architecture within the profile make sense to users?
+- Do the terms we use on the profile make sense/mean anything to users?
+- Has the side nav increased scanability of the new profile? Do people find what the need easily?
+- Do saving/errors interactions feel intuitive?
+- Do people understand why some info isn't editable, and how to update it?
+- Can people find the profile easily?
+- How do people think the new profile compares to profile/account 1.0?
+- Do people understand what connected accounts are? Do they want to see this section of the profile if they don't have connected accounts?
+- What do people think "Account security" means? 
+- Where would people go to change the email address they use to sign in?
 
 4. **Hypothesis: What is your hypothesis for this research?** 
 
