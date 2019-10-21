@@ -76,13 +76,14 @@ Observations from Dashboard July 13, 2019-October 10, 2019
 
 ## Pageview
 1,100,191 unique pageviews between Jul 20, 2019-Oct 20, 2019
+
 | Page | # of views (%) |
 |---| ---|
-| Home page | 61,046(5.55%) |
-| /burial_benefits/ | 38,408(3.49%) |
-| /cem/dailyburialschedule/index.asp | 38,545(3.50%) |
-| /dailyburialschedule/ | 30,863(2.81%) |
-| /hmm/ (Headstones/memorial markers | 25,135(2.28%) | 
-| /cem/faq.asp | 24,758(2.25%) |
+| Home page | 61,046 (5.55%) |
+| /burial_benefits/ | 38,408 (3.49%) |
+| /cem/dailyburialschedule/index.asp | 38,545 (3.50%) |
+| /dailyburialschedule/ | 30,863 (2.81%) |
+| /hmm/ (Headstones/memorial markers | 25,135 (2.28%) | 
+| /cem/faq.asp | 24,758 (2.25%) |
 
 
