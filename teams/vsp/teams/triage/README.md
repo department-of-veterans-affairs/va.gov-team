@@ -1,12 +1,11 @@
 # Triage
-
 Repository for team information, planning docs, meeting notes, etc.
 
 ### Mission
-Identify, resolve, and delegate issues across the platform and applications for Veterans and teams building products to serve Veterans while 
+Identify, resolve, and delegate issues across the platform and applications for Veterans and teams building products to
+serve Veterans while continuously improving telemetry, tools, and documentation.
 
 ### Responsibilities
-- Continuously improving telemetry, tools, and documentation.
 - Sentry error management & triage
 - Improving automated analytics & error collection
 - Handling inquiry details from call centers
@@ -15,7 +14,6 @@ Identify, resolve, and delegate issues across the platform and applications for 
 - Applying targeted fixes when appropriate, delegating fixes to responsible teams when not appropriate
 
 ### Communications
-
 **Public Slack Channels**
 - DSVA Slack: [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
 
@@ -31,6 +29,10 @@ Identify, resolve, and delegate issues across the platform and applications for 
 - **Backend Engineer:** [Lindsey Hattamer](https://github.com/lindseysaari) (lindsey.hattamer@oddball.io)
 - **Call Center Lead:** [Kimberley Daniels]() (kimberley.daniels@adhocteam.us)
 
+### Key Documents
+- [VFS Product-to-Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
+- [MVP Service Blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
+
 ## On call
 - [On call Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/OnCall.md) - Quicklinks to information for on-call process and documentation
 
@@ -39,9 +41,3 @@ Identify, resolve, and delegate issues across the platform and applications for 
 - [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/SupportTiers.md) - Support tier definitions and escalation definitions
 - [Service blueprint](https://miro.com/app/board/o9J_kxLjIq0=/) - Complete blueprint/user story mapping for triage process in a visualized diagram 
 - [Sentry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/Sentry.md) - Sentry overview of triage team responsibilities, structure and process
-
-### Key Documents
-
-- [VFS Product-to-Owner Mapping](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit?ts=5d28958a#gid=1535759874)
-- [MVP Service Blueprint](https://miro.com/app/board/o9J_kxLjIq0=/)
-
