@@ -43,7 +43,7 @@ These discussions were with both Andrea Schneider and Matt Self individually on 
   - if a form makes it into the RBPS and a positive decision is made: funds can start funnelling in pretty quick (2 days)
     - we did some discovery and asked "why do so many get kicked out?"  25% made it in, rest were kicked out
     - mostly bc of stupid reasons (form validation, trailing white space, symbols where they shouldn't be, etc)
-    - Don't recall the metric we shot for but reducing off ramps and time to money
+    - Don't recall the metric we shot for but reducing off ramps and time to money  
 **Questions**
 - View Dependents is not going to come from 686?
   - Connections are key so if another department (like education) gets a claim, they can refer to the 686 and see they exist but there is no process right now to automate that.
