@@ -69,7 +69,7 @@ Design team member(s):
 ## Resources
 
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md)
-- [Discussion Guide] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/conversation-guide.md)
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/conversation-guide.md)
 - [Notes & Recordings]
 - [Synthesis]
 - [Read-out/Findings]
