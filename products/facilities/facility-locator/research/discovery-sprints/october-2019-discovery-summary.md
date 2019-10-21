@@ -35,4 +35,9 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 
 ### What was learned
 ### New questions
+- Google analytics on https://www.va.gov/directory/guide/home.asp
+- Where will data live? Drupal or...
+- What is data quality? Completeness/accuracy?
+- Where does the data come from for the subcategories of Benefits, Cemeteries
+
 ### Files and documents
