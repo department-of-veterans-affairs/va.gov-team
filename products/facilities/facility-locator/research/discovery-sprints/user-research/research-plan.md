@@ -64,7 +64,7 @@ Design team member(s):
 - Project point of contact: Aricka Lewis
 - Participant(s) for pilot test:
 - Note-takers: Michelle Middaugh
-- Observers: Justin Ellis, Dave Conlon, Gibran Rodriguez
+- Observers: Justin Ellis, Dave Conlon, Gibran Rodriguez, Liz Lantz
 
 ## Resources
 
