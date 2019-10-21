@@ -109,7 +109,7 @@ In progress
 - ATO documentation
 
 ## Keywords
-eBenefits, ...
+eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
 
 ## Team
 - DSVA Product Manager: Steve Kovacs
