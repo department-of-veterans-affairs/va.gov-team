@@ -5,17 +5,20 @@ This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Loc
 
 The Facility Locator is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA.
 
-Our objective for this research is to learn the current user behavior on the tool and to identify areas of improvement, including the following areas:
+Our objective for this research is to learn the current user behavior on Facility Locator and to identify areas of improvement, including the following areas:
 - Facility/Service/Provider information & hierarchy
+- Understanding of different VA facilities and services
 - Language and classification of facilities 
 - Overall usability of the tool
 - Overlap with other tools on VA.gov
 - Error treatment and language
+- Communication of physical characteristics of facility (drive-time, accessible entrances, etc.)
 
 #### Research questions:
 - How easy/difficult is it for a user to find a facility?
 - What ways do users navigate to the facility locator?
-- What criteria are Veterans looking for when searching for facilities?
+- What search criteria should be present so that Veterans can find facilities?
+_ What information do Veterans expect to see in the search results?
 - Do Veterans understand what the different facility classifications mean?
 - How do Veterans distinguish emergency, urgent, and community care facilities?
 - What other tools/sites do vets use to find facilities or services?
@@ -31,7 +34,7 @@ We will be testing the current [VA.gov Facility Locator](https://www.va.gov/find
 ## Participants & Recruitment
 
 Participant Criteria
-- 5 Participants
+- Goal: 10 Participants (5 minimum)
 - Veterans or Caregivers
 - All ages
 - All levels of familiarity with technology
@@ -56,9 +59,9 @@ Design team member(s):
 ## Team Roles
 
 - Moderator: Aricka Lewis
-- Research guide writing and task development:
-- Participant recruiting & screening:
-- Project point of contact:
+- Research guide writing and task development: Aricka Lewis
+- Participant recruiting & screening: Perigean
+- Project point of contact: Aricka Lewis
 - Participant(s) for pilot test:
 - Note-takers:
 - Observers:
