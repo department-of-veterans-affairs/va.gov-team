@@ -5,13 +5,12 @@ Thanks for joining us today! My name is Aricka and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- This entire session should take about 30 minutes. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
-- Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- In this session, **we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **If for any reason and at any time you want to stop the session**, please let me know. You will not be penalized in any way if we need to stop.
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
 
-[Once you are recording],
-I want to verify that you are okay with me recording screen and audio today.
+**Once you are recording:** I want to verify that you are okay with me recording screen and audio today.
 
 ## Background - 5 min
 
