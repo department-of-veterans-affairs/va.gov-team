@@ -16,18 +16,29 @@ Before we start, a few things I want to mention:
 
 Think back to a recent time when you visited a VA facility. If you're comfortable, will you describe that situation briefly? 
 - Can you tell me where you went?
-- What type of facility was it (urgent care, emercency, etc)?
-- Why did you choose to go to that facility?
+- What type of facility was it (urgent care, emergency, community care, etc)?
 - Do you remember how you learned about that facility and what made you choose that one?
 
-Are you familiar with the Find VA Locations tool on VA.gov? **(share link)**
+Are you familiar with finding facilities on VA.gov? **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
 ## Usability Test - 15 min
+I'm going to ask you to complete a series of tasks. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing.
 
-### Task 1 
-### Task 2
-### Task 3
+### Task 1 - Search & Navigation
+### Task 2 - Choosing & Learning
+### Task 3 - Prepping to Visit
 
 ## Post-test Questions - 10 min
+I have just a few more questions to ask you before we finish up today.
+- From a scale of 1 to 5 (1 being extremely dificult, 5 being extremely easy), how would rate the ease of finding the VA facility you needed?
+- What would you say the difference is between urgent care, community care, and emergency facilities?
+- What information do you need to see online in order to visit a facility? i.e. phone number, address, services, etc.
 
 ## Closing - 5 min
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+As a thank you for your participation, we'd like to offer you a $50 thank-you gift. Is it ok for us to send that gift to the same address Shannon and Brian used to communicate with you about scheduling this test? [If no] Ok, we'll follow up with an email after this session to get the right email from you in writing.
+
+Thanks! Lastly, would you like to share this feedback opportunity with other Veterans or Veteran groups you're a part of? If so, we can send you an email with a little blurb so you can easily connect to our team.
+
+Great, well thank you so much again, and enjoy the rest of your day!
