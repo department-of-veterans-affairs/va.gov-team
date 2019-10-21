@@ -1,9 +1,7 @@
 # Research Plan for Global UX, Local Navigation, Oct/November 2019
 ## Goals of the research
 
-This is a research project for the Global UX team. 
-
-This is a new design for the left navigation element, and it provides new functionality for local or “left rail” navigation allowing users of VA.gov to more easily browse and understand the contents within a section, and then navigate to desired content within VA.gov. 
+This is a research project for the Global UX team. It is focused on the local or "left-nav" navigation component design. This is a new design for the left navigation element, and it provides new functionality for local or “left rail” navigation allowing users of VA.gov to more easily browse and understand the contents within a section, and then navigate to desired content within VA.gov. 
 
 This research will explore two spaces: 
 1. Is the new local navigation design better than the current navigation design, and 
