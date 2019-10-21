@@ -46,7 +46,7 @@ Zoom will be the tool that we prefer to use.
 
 We'll use Perigean recruiting, or we will recruit via the previous relationships with Pittsburgh VA facility visit if necessary. 
 
-## When will the reserach take place? 
+## When will the research take place? 
 
 ### Timeline
 This schedule is subject to completion of work on the prototype. 
