@@ -1,4 +1,4 @@
-# On-Point Triage Rotation
+# Sentry Alerting (On-Point) Triage Rotation
 
 ## Purpose
 Not every bug can be fixed, but every bug _can_ be triaged.
