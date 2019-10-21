@@ -71,8 +71,9 @@ Having Rated Disabilities closer to the VA.go experience should allow the user t
 #### Business Value
 Keeping the Veteran engaged should also in create an environment where benefits are transferred faster and smoother.
 
-## KPIs
-Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.  
+## KPIs  
+Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.    
+
 ---
 
 # Implementation Info
