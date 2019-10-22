@@ -91,6 +91,7 @@ The Facilitator is familiar with eBenefits as a user, but is in a position to re
 - Some Veterans cited a steep learning curve for using eBenefits.
 - eBenefits serves as an ‘action point’ for Veterans to submit, document, manage and track benefits claims.
 - Users often found eBenefits features accidentally
+- A few users were satified that they could view and print documents--particularly their DD 214.
 #### User Actions
 - Education benefits were often cited as a reason to access eBenefits.
 - Outside help (VSOs, in-person, phone) was often required to manage benefits.
@@ -101,14 +102,19 @@ The Facilitator is familiar with eBenefits as a user, but is in a position to re
 - Most Veterans had to apply for or manage claims in-person or via phone rather than using eBenefits.
 - Appealing VA decisions is commonplace among Veterans.
 - Veteran believe that VA has their personal info, and they find it annoying when it's wrong, or whn they have to 're-enter' basic personal info.
+- Many Veteran's said My HealtheVet is a site they use and find helpful. Many used it on their phones.
 ## For Consideration
 #### Investigate ways to streamline authorization/login
+- Far and away, login is the most prevalent and frustrating pain point discussed in the interviews; it was nearly unanimous.
 - Minimize linking back and forth between eBenefits and VA.gov.
+- Migrate features in a way to reduce or eliminate lining across sites.
 #### Create a more cohesive transition plan in migrating eBenefits features to VA.gov
 - May include 'inbound' visitor messaging on VA.gov.
 - Consideration given to alerting users when a link will cross domains.
 #### Better tier information to support users' tendencies
 - Surface genreal view-only information earlier in user paths.
 - Consider the value of (truncated) high-level info as tiles in a dashboard arrangement.
+- Preserve profile/dashboard screen layout to consolidate benefits info into single hub/view.
 - Allow drill-down points to detailed info for power users.
+- Create natural 'off-ramp' links to action items from informational views.
 - Understand the value of eBenefits' educational component and preserve links to up-to-date, accurate information.
