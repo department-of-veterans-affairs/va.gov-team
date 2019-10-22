@@ -15,7 +15,13 @@ The purpose of these discovery sprints is to get the team familiar with the curr
 
 
 ## Engineering [2318](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/2318)
-**Goal:** To investigate and document the current Facility Locator tool's 1. front-end architecture and 2. back-end architecture, including data sources and any transformations or mappings of those data.
+**Goal:** To investigate and document the current Facility Locator tool's 
+1. **front-end architecture**
+- Explore/evaluate existing 508 tickets to identify which ones will require design input
+- Make recommendations/create tickets for usability improvements which are low effort and high user impact (review Andy's mock-up)
+
+2. **back-end architecture**, including data sources and any transformations or mappings of those data.
+- Documenting differences between supplemental data sources and Facility API
 
 **Outcome:** A discovery readout that documents findings and recommendations.
 
@@ -27,7 +33,7 @@ The purpose of these discovery sprints is to get the team familiar with the curr
 5. 
 
 ## Product [2319](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/2319)
-**Goal:** To investigate and document the current Facility Locator tool's 1. data sources and data owners (i.e., people/offices/groups), 2. exports or flat files of those data sources (or examples of the data), and 3. Google Analytics reports on the tool's current usage.
+**Goal:** To investigate and document the current Facility Locator tool's 1. data sources and data owners (i.e., people/offices/groups), 2. exports or flat files of those data sources (or examples of the data), and 3. Google Analytics reports on the tool's current usage and legacy systems.
 
 **Outcome:** A discovery readout that documents findings and recommendations.
 

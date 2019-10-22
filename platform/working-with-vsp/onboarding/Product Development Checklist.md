@@ -19,7 +19,7 @@ These processes are here to help ensure we're launching features that are:
 *   Review release phases and criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms.
 - [ ] [IA review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
 *   Should include review of URLs, navigation hierarchy, crosslinks/redirects, SEO
-- [ ] Security review
+- [ ] [Security review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 *   Review looking for potential technical security issues / vulnerabilities, focusing particularly on frontend-backend interactions, anything involving certificates or cookies, and any new interactions with dependent backends.
 - [ ] Privacy review
 *   Review looking for potential user data issues, including affirming best practices around handling PII.
