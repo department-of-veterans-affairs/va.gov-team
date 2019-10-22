@@ -6,7 +6,7 @@ Please note that this is for reference purposes only and the canonical listing o
 
 ## Health Services Taxonomy
 
-*	Primary care
+Primary care
   *	Advice nurse
   *	Complementary and alternative medicine
   *	Emergency care
@@ -16,7 +16,8 @@ Please note that this is for reference purposes only and the canonical listing o
   *	Pharmacy
   *	Primary care
   *	Urgent care
-*	Mental health care
+  
+Mental health care
   *	Addiction and substance abuse treatment
   *	Mental health care
   *	Military sexual trauma
@@ -24,7 +25,8 @@ Please note that this is for reference purposes only and the canonical listing o
   *	Psychiatry
   *	PTSD treatment
   *	Suicide prevention
-*	Specialty care
+  
+Specialty care
   *	Allergy, asthma, and immunology
   *	Amputation care
   *	Anesthesia
@@ -83,7 +85,8 @@ Please note that this is for reference purposes only and the canonical listing o
   *	Wheelchair and mobility
   *	Whole health
   *	Wound care and ostomy
-*	Social programs and services
+  
+Social programs and services
   *	Adaptive sports
   *	Caregiver support
   *	Homeless Veteran care
@@ -96,7 +99,8 @@ Please note that this is for reference purposes only and the canonical listing o
   *	Returning service member care
   *	Social work
   *	Women Veteran care
-*	Other services
+  
+Other services
   *	My HealtheVet coordinator
   *	Telehealth
   *	Travel reimbursement
