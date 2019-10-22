@@ -1,4 +1,4 @@
-# [How to record bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/bug-reporting-template.md)
+# [How to record incidents](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/bug-reporting-template.md)
 
 Completed bug fixes are reviewed in retrospectives and a root cause is determined. Classification is at the product manager's discretion, but most root causes can be classified as a missed requirement or missed validation. 
 

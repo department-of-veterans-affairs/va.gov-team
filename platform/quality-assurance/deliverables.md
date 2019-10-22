@@ -4,7 +4,7 @@ A list of deliverables and explanation of their contents is listed below.
 ## Quality Assurance Deliverables
 1. Test Plan
     - This artifact usually takes the form of a Word / Google Doc. The test plan artifact is an explanation of the functional changes being developed and a plan for how to test each change.
-    - Example: [Test Plan Template](https://drive.google.com/a/oddball.io/file/d/1wIopTHMqKmRhhl92H5CogKQP4iYmjZjR/view?usp=sharing)
+    - Example: [Test Plan Template](test-plan.md)
 2. Test Cases
     - An export from your test case management software of choice that contains each test case used in your test plan.
     - In the near future, VSP hopes to offer a test case management software that all VFS teams will have access to.

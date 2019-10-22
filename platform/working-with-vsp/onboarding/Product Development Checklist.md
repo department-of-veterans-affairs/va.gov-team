@@ -29,10 +29,10 @@ These processes are here to help ensure we're launching features that are:
 - [ ]   Contacts for oncall support: who do we contact if the application is failing? What kinds of failure modes are likely?
     - [ ]   Documentation and points of contact for any new backend dependencies
     - [ ]   Links to important dashboards for investigating relevant issues
-- [ ] Quality Assurance
+- [ ] [Quality Assurance](../../quality-assurance/README.md)
     - [ ]   [Test plan](../../quality-assurance/test-plan.md)
-    - [ ]   E2E tests, running in CI/CD, passing on all browsers
-    - [ ]   Load testing
+    - [ ]   [E2E tests](../quality-assurance/end-to-end-testing.md), running in CI/CD, passing on all browsers
+    - [ ]   [Load testing](../../../../devops/loadtest/README.md)
     - [ ]   Manual test cases created where necessary
     - [ ]   Code coverage requirements
     - [ ]   No high-severity bugs present
