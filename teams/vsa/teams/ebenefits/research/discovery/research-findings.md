@@ -78,6 +78,8 @@ The Facilitator is familiar with eBenefits as a user, but is in a position to re
 - Users accessed eBenefits primarily via desktop computers.
 - eBenefits did not work well for users accessing via phone.
 - Some veterans find ‘context switching’ between the eBenefits site and VA.gov cumbersome and confusing.
+- Several users cite frustration using the Dependents form, saying it broke during the workflow and they had to resort to phone calls and paper forms.
+- Document uploading was noted as problematic; there seemed to be no clear indication of success or failure in uploading.
 #### Features
 - Many users accessed eBenefits to track their claim’s status. This feature is widely-used and highly valued.
 - Several users noted that the profile screen was a good hub for personal information.
@@ -109,3 +111,4 @@ The Facilitator is familiar with eBenefits as a user, but is in a position to re
 - Surface genreal view-only information earlier in user paths.
 - Consider the value of (truncated) high-level info as tiles in a dashboard arrangement.
 - Allow drill-down points to detailed info for power users.
+- Understand the value of eBenefits' educational component and preserve links to up-to-date, accurate information.
