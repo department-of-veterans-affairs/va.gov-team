@@ -5,8 +5,11 @@
 The purpose of the discovery interview sessions for eBenefits was to understand generally how and why Veterans use the site. We asked questions regarding overall priorities and goals for using the site, specific features used, and general satisfaction.
 
 [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/discovery-research-plan.md)
+
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/discovery-conversation-guide.md)
+
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/discovery)
+
 [Research Synthesis Board](https://app.mural.co/t/vsa8243/m/vsa8243/1570714734227/135cc9229f15be89de914d583c8f5d51fa38552d)
 
 ## Methodology
