@@ -1,6 +1,6 @@
 # Use Cases for Cerner / VistA transition 
 
-These use cases will help determine user flows, logins, and changes needed to prepare for IOC. 
+These use cases will help determine user flows, logins, and changes needed to prepare for IOC. See also, [Martha's map of user flows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/cerner/map.pdf) 
 
 ## General 
 1. I am a Veteran who receives health care in a single VA health system, and my data is still in VistA.
