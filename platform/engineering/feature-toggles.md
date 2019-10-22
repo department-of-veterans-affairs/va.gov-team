@@ -27,4 +27,4 @@ The front end queries the http://localhost:3000/v0/feature_toggles endpoint [doc
 ## Back End Implementation
 To check if a feature is enabled within the context of a specific user, call  `Flipper.enabled?('facility_locator_show_community_cares', @current_user))`.  The user parameter is optional.
 
-To initialize the feature flag (defaulted to disabled) in each environment add the feature name to FEATURE_TOGGLES in [config/features.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/features.yml)
+To initialize the feature flag (defaulted to disabled in stanging and production and enabled in development and test) in each environment add the feature name to FEATURE_TOGGLES in [config/features.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/features.yml)
