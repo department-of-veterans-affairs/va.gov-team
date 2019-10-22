@@ -39,13 +39,6 @@ The purpose of the discovery interview sessions for eBenefits was to understand 
 2. eBenefits is a trusted educational/informational resource for Veterans
 3. There is a need for benefit eligibility information to be more immediately available
 
-### eBenefits is a trusted educational/informational resource for Veterans
-- Veterans who visit eBenefits often use the "learn" tab in the header to discover helpful information:
-  - Education & home loan benefits were the top mentioned benefits that Veterans learned about through eBenefits
-- Veterans are usually referred to specific tools or documents within eBenefits 
-- Useful information on eBenefits is "stumbled upon" as a result of browsing the site
-- Facilitor user-types will recommend eBenefits to Veterans
-
 ### There are at least three eBenefits user-types
 #### Power User
 The Power User spends time in eBenefits browsing and learning about new opportunities 
@@ -69,11 +62,13 @@ The Facilitator is familiar with eBenefits as a user, but is in a position to re
 - In a professional environment, Facilitators may walk-through or show screens, usually in person.
 - Participants who were Facilitators seemed to have a general knowledge of VA benefits and the eBenefits site.
 - Sometimes Facilitator participants were not completely current with the state of the eBenefits site.
- 
-### There is a need for benefit eligibility information to be more accessible
-
+### eBenefits is a trusted educational/informational resource for Veterans
+- Veterans who visit eBenefits often use the "learn" tab in the header to discover helpful information:
+  - Education & home loan benefits were the top mentioned benefits that Veterans learned about through eBenefits
+- Veterans are usually referred to specific tools or documents within eBenefits 
+- Useful information on eBenefits is "stumbled upon" as a result of browsing the site
+- Facilitor user-types will recommend eBenefits to Veterans
 ### There is a need for benefit eligibility information to be more immediately available
-
 ## Other Notable Findings
 #### Technology
 - Many participants considered themselves computer-savvy; a few considered themselves technmology experts
