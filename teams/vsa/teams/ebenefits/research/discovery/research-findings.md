@@ -119,3 +119,8 @@ The Facilitator is familiar with eBenefits as a user, but is in a position to re
 - Allow drill-down points to detailed info for power users.
 - Create natural 'off-ramp' links to action items from informational views.
 - Understand the value of eBenefits' educational component and preserve links to up-to-date, accurate information.
+#### Consider data sources during migration
+- Consolidate viewable and editable data around a single 'source of truth' that's consistent across VA.gov
+- Pre-fill forms and data by default.
+- Offer opportunities to correct/add to/edit info where it is presented.
+- Document multiple varying data sources; consider consolidation or syncing data across sources.
