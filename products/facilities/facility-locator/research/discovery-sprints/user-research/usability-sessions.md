@@ -1,4 +1,6 @@
-# Usability Study Session Schedule
+# Usability Study Session Information
+
+## Schedule
 Participant | Date | Time (EST) | Note-taker
 ------------|------|------|------------
 Participant 1 | 10/28/2019 | 11am – 12pm | 
