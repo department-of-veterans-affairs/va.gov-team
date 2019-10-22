@@ -2,6 +2,7 @@
 
 ## Agenda
 - Introduce Dan
+- Discuss reorg + HCA app 
 
 ## Notes
 
