@@ -39,38 +39,6 @@ Identify team members who will be engineering points of contacts
 - Nedie and Jon - reach out and schedule implementation onboarding
 - Identify who, if any, POCs will need edit access on GTM and GA.
 
-## Prototype V2
-1. Onboarding 
-    1. Insights trains team on GTM
-2. Discovery - Teams identify traits/dimensions/events that need to be tracked
-    1. Teams fill out Implementation & QA Github Request Template
-    1. Teams submit dimensions (that exist outside the ‘data dictionary’) for approval from Insights.
-    1. Insights provides feedback and approval.
-3. FE & Tagging Implementation
-    1. Team identifies funnels 
-    1. Team creates goals
-    1. Team publishes in GTM Dev environment.
-4. QA
-    1. Teams submits approval from Insights.
-    1. Insights provides feedback and approval.
-    1. Insights pushes.
-
-## Grey Sky
-1. Discovery - Teams identify traits/dimensions/events that need to be tracked
-1. FE & Tagging Implementation - Teams implement the data layer 
-    1. Team identifies funnels 
-    1. Team creates goals
-    1. Team implements GTM events
-1. Custom Implementation - Team analytics POC configures GTM
-1. QA - Process:
-    1. Team submits for approval from Insights team.
-    1. Insights approves any custom implementation
-    1. Team POC implements custom implementation
-    1. Insights approves all GA/GTM implementation
-
-## Blue Sky
-Teams have complete access to GTM. Insights provides general QA and support.
-
 ---
 
 # Roadmap
@@ -85,12 +53,14 @@ Teams have complete access to GTM. Insights provides general QA and support.
 
 NOW
 
-3. Data Dictionary
+3. ROE
     1. Create a review checklist
     1. Refine issue template to cut down on discovery and QA time. Add components [link](https://design.va.gov/components/) to issue template
     1. Run through ROE for pain points & determine where else can be automated
             - Teams should be able to identify funnels, additional dimensions (outside of the common ones), provide information for helping name goals/naming conventions
-    1. Nedie & Jon are currently working on
+            
+4. Data Dictionary
+   1. Nedie & Jon are currently working on
     
         [Google Doc Data Dictionary](https://docs.google.com/document/d/1MlKWlW2MMVdnRGcvqDgp9AgXlVY9O9ulW6uxysXO1Ds/edit)
         
