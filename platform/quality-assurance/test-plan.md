@@ -1,6 +1,6 @@
 # (Name of the Product) Test Plan
 
-## Prepared by: (Names of those who Prepared)
+## Prepared by: (Names of those who prepared)
 ## Date: (Date)
 ### Summary
  A brief summary of the product being tested. A list of user stories may be easiest.

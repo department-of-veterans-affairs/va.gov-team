@@ -1,7 +1,5 @@
 # End-to-end tests
 
-<hr>
-
 End-to-end (e2e) tests are tests that run in a browser and test that a user can fill out information and progress through the form. We typically have one e2e test per form, which fills in all the information for that form and submits it to a mock service.
 
 We use [Nightwatch](http://nightwatchjs.org/), which runs on top of Selenium, to write our tests.
