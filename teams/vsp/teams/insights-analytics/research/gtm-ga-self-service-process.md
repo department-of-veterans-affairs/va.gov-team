@@ -86,6 +86,10 @@ Teams have complete access to GTM. Insights provides general QA and support.
 NOW
 
 3. Data Dictionary
+    1. Create a review checklist
+    1. Refine issue template to cut down on discovery and QA time. Add components [link](https://design.va.gov/components/) to issue template
+    1. Run through ROE for pain points & determine where else can be automated
+            - Teams should be able to identify funnels, additional dimensions (outside of the common ones), provide information for helping name goals/naming conventions
     1. Nedie & Jon are currently working on
     
         [Google Doc Data Dictionary](https://docs.google.com/document/d/1MlKWlW2MMVdnRGcvqDgp9AgXlVY9O9ulW6uxysXO1Ds/edit)
@@ -97,21 +101,12 @@ NOW
     1. Will need to be reviewed/organized
     1. Will need to be published on Github
     1. Will need to be communicated
+
     
 NEXT
 
-4. GTM Access Documentation:
-    1. Risks
-    1. Dev/Staging vs. Publishing Access
-    1. Who on each team? Every engineer? The PMs/Owners? Why?
-    1. Summary of how they’ll be using GTM/why it’s important
 5. Training
-    1. Create syllabus and exam certification
-    1. Select individuals we’ll be training
-    1. Create training materials (by using data dictionary)
-    1. Schedule training
-    1. Workshop/train each team
-    1. Maybe do a video?
+    1. Train teams on stuff they need to know for QA.
     
 FUTURE
 
