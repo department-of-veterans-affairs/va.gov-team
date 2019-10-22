@@ -18,6 +18,7 @@
 ## January 2020
 ### Holidays
     - New Year's Day (GCIO, VA, Ad Hoc)
+    - Martin Luther King, Jr: January 20 (GCIO, VA)
 ### Additional out of office
     
 
