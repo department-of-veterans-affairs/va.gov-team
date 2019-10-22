@@ -1,3 +1,10 @@
+# 20191022 - Wed 
+
+## Agenda
+- Introduce Dan
+
+## Notes
+
 # 20191009 - Wed
 
 ## Agenda 
