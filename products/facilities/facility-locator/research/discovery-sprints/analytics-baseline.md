@@ -72,19 +72,26 @@ Observations from Dashboard July 1-September 30, 2019
 Observations from Dashboard July 13, 2019-October 10, 2019
 -Goal 1: Facility Details Viewed: goal completion = 21.6% average
 
-# Analytics Baseline: cem.va.gov Production
+# Analytics Baseline: www.cem.va.gov Production
 
 ## Pageview
 1,100,191 unique pageviews between Jul 20, 2019-Oct 20, 2019
 
-| Page | # of views (%) |
-|---| ---|
-| Home page | 61,046 (5.55%) |
-| /burial_benefits/ | 38,408 (3.49%) |
-| /cem/dailyburialschedule/index.asp | 38,545 (3.50%) |
-| /dailyburialschedule/ | 30,863 (2.81%) |
-| /hmm/ (Headstones/memorial markers | 25,135 (2.28%) | 
-| /cem/faq.asp | 24,758 (2.25%) |
+| Page | # of views (%) | Content Description |
+|---| --- | ---|
+| Home page | 61,046 (5.55%) ||
+| /burial_benefits/ | 38,408 (3.49%) | Description of burial benefits |
+| /cem/dailyburialschedule/index.asp | 38,545 (3.50%) | Search daily burial schedule by cemetery and last/first name |
+| /dailyburialschedule/ | 30,863 (2.81%) | same as above |
+| /hmm/ | 25,135 (2.28%) | Info on Headstones, Markers and Medallions |
+| /cem/faq.asp | 24,758 (2.25%) | FAQs inlcuding benefit and eligibility questions |
+| /cems/listcem.asp | 31,719 (2.19%) | Search by state |
+| /cem/burial_benefits/need.asp | 27.616 (1.91%) | Steps for scheduling burial | 
+| /cem/hmm/index.asp | 27,017 (1.86%) | Info on Headstones, Markers and Medallions |
+| /cem/burial_benefits/index.asp | 26, 947 91.86%) | Description of burial benefits |
+
+
+
 
 # Analytics Baseline: www.va.gov/directory/guide/ Production (Legacy Facility Finder)
 1,355,990 unique pageviews between Jul 21, 2019-Oct 21, 2019
