@@ -3,7 +3,7 @@
 ## Schedule
 Participant | Date | Time (EST) | Note-taker
 ------------|------|------|------------
-Participant 1 | 10/28/2019 | 11am – 12pm | Dave
+Participant 1 | 10/28/2019 | 11am – 12pm | 
 Participant 2 | 10/28/2019 | 12pm – 1pm | 
 Participant 3 | 10/28/2019 | 2pm – 3pm | Dave
 Participant 4 | 10/29/2019 | 1pm – 2pm | Michelle
