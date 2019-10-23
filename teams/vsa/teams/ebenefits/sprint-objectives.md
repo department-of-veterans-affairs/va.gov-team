@@ -26,7 +26,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ### 2. Continue discovery on "Update Dependents" using rainbows' previous work
 - Explore and understand every aspect of Dependents workflows on EBN
 - Design: create a research plan for learning about View Dependents workflows
-- Design: establish what usability has been completed for Update Dependents
+- Design: establish what usability work has been completed for Update Dependents
 - Eng: Technical discovery on previous Update Dependents work
 - Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates
 - Product: Determine need for third Epic: Add Dependents (without 686 submission)
