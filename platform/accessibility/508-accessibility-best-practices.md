@@ -6,7 +6,7 @@
   - [Semantic Markup](#semantic-markup)
   - [Formation Design System](#formation-design-system)
   - [Automated Accessibility/508 Testing](#automated-accessibility508-testing)
-  - [Manual Accessibility/508 Testing](#manual-accessibility508-testing)
+  - [Manual Accessibility/508 Testing](#manual-accessibility-testing)
     - [Zoom to 400%](#zoom-to-400)
     - [Keyboard Navigation](#keyboard-navigation)
     - [Screen Readers](#screen-readers)
