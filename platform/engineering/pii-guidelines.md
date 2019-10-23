@@ -29,6 +29,7 @@ Much of the code for VSP, including `vets-api` and `vets-website` is open source
 
 Common PII that you should avoid:
 
+* Any data that uniquely identifies an individual such as SSN, ICN, EDIPI numbers
 * [Internal VA phone numbers and addresses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md#internal-phone-numbers--email-addresses)
 * [Test user information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md#test-user-information--credentials-for-lower-environments)
 * Any private settings configuration, in `settings.yml` for example
