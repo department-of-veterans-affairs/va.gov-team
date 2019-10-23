@@ -23,7 +23,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Review the launch checklist and make sure the feature meets all requirements
   - _Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
 
-### 2. Continue discovery on "Update Dependents" using rainbows' previous work
+### 2. Continue discovery on "Update Dependents"
 - Explore and understand every aspect of Dependents workflows on EBN
 - Design: create a research plan for learning about View Dependents workflows
 - Design: establish what usability work has been completed for Update Dependents
