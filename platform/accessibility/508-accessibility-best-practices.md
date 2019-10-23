@@ -12,6 +12,10 @@
     - [Screen Readers](#screen-readers)
     - [Color Tests](#color-tests)
 
+## Checklists
+- [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
+- WCAG Checklist to come
+
 ## Accessibility Tips for Designers, Researchers, and Developers
 
 Accessibility is an outcome, generally linked to compliance, ensuring solutions are usable by everyone. Inclusive design is a human-centered process considering user diversity, by including and learning from a range of perspectives. Accessibility and inclusive design should be a part of all product design and development conversations to ensure no one is excluded from using the solutions.
