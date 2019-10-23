@@ -2,6 +2,7 @@
 
 **Table of Contents**
 
+  - [Checklists](#checklists)
   - [Accessibility Tips for Designers, Researchers, and Developers](#accessibility-tips-for-designers-researchers-and-developers)
   - [Semantic Markup](#semantic-markup)
   - [Formation Design System](#formation-design-system)
