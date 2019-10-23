@@ -46,7 +46,6 @@ Automated scan errors are the first recommendation for logging and fixing. These
 
 - **axe Scans** Front-end engineers should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and [run automated scans](https://www.youtube.com/watch?v=FW1giWW5M9I) periodically during their daily work against all application pages or states. The axe-core plugin is available for [Chrome](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/). This adds a tab to developer tools and provides on-demand accessibility scanning for single pages during development.
 - Going forward, we should also be testing pages with [axe-coconut](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/), which identifies experimental WCAG2 warnings and best practices.
-- Run the [axe-end to end script with CSV and console output](https://github.com/adhocteam/a11y-snippets/tree/master/test-scripts/axe-e2e) for automated scans of high page count static sites. Errors can be outputted to CSV for easy spreadsheet import.
 - Developers should run the axe-core plugin while developing new components. Many automated errors can be avoided or fixed during the development cycle.
 - Validate rendered HTML to avoid automated a11y errors
 
