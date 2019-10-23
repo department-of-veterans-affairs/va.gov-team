@@ -1,8 +1,8 @@
-# 508 Accessibility Best Practices
+# 508, Accessibility, and Inclusive Design Best Practices
 
 **Table of Contents**
 
-- [508 Accessibility Best Practices](#508-accessibility-best-practices)
+  - [Accessibility Tips for Designers, Researchers, and Developers](#accessibility-tips-for-designers-researchers-and-developers)
   - [Semantic Markup](#semantic-markup)
   - [Formation Design System](#formation-design-system)
   - [Automated Accessibility/508 Testing](#automated-accessibility508-testing)
@@ -12,6 +12,12 @@
     - [Screen Readers](#screen-readers)
     - [Color Tests](#color-tests)
 
+## Accessibility Tips for Designers, Researchers, and Developers
+
+Accessibility is an outcome, generally linked to compliance, ensuring solutions are usable by everyone. Inclusive design is a human-centered process considering user diversity, by including and learning from a range of perspectives. Accessibility and inclusive design should be a part of all product design and development conversations to ensure no one is excluded from using the solutions.
+
+The following recommendations have been put together to help teams identify and mitigate accessibility errors during the design, research, and development cycles. There will always be errors that are identified during test and promotion cycles; the goal is to minimize errors called out by clients and end users.
+
 ## Semantic Markup
 
 - Review rendered HTML periodically, especially during development. Ensure HTML validates against the `HTML5` doctype.
@@ -20,6 +26,7 @@
   - The H1 should convey the page's purpose
   - H2s should be used to semantically define the high-level content groups
   - H3 through H6 should be used to define sub-points
+  - In the footer, the first level heading should be an H2 and a utility class will adjust the visual styling.
 - Design system utility classes should be used to style headings
   - [Font family](https://design.va.gov/utilities/font-family) should be used to adjust typefaces
   - [Font size](https://design.va.gov/utilities/font-size) should be used to adjust size in pixels
@@ -35,22 +42,26 @@
 
 ## Automated Accessibility/508 Testing
 
-1. axe Scans
+Automated scan errors are the first recommendation for logging and fixing. These errors can cause issues for screen reader, keyboard, mobile, and low-vision users. Issues include improperly formed markup, misused ARIA attributes, color contrast, and missing landmark structures.
 
-   1. Front-end engineers should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and run it periodically during their daily work.
-   2. The build server will run an axe scan on all rendered pages in Step 2. The axe check scans for Section 508, WCAG2 A and WCAG2 AA [ruleset](https://dequeuniversity.com/rules/axe/) violations.
-   3. **Each rendered page must pass an axe check.**
+- **axe Scans** Front-end engineers should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and [run automated scans](https://www.youtube.com/watch?v=FW1giWW5M9I) periodically during their daily work against all application pages or states. The axe-core plugin is available for [Chrome](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/). This adds a tab to developer tools and provides on-demand accessibility scanning for single pages during development.
+- Going forward, we should also be testing pages with [axe-coconut](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/), which identifies experimental WCAG2 warnings and best practices.
+- Run the [axe-end to end script with CSV and console output](https://github.com/adhocteam/a11y-snippets/tree/master/test-scripts/axe-e2e) for automated scans of high page count static sites. Errors can be outputted to CSV for easy spreadsheet import.
+- Developers should run the axe-core plugin while developing new components. Many automated errors can be avoided or fixed during the development cycle.
+- Validate rendered HTML to avoid automated a11y errors
+
+- **Automated build process** When you push your code to a feature branch or merge to master, the automated build process will test for accessibility/508 compliance on all rendered pages. The axe check scans for Section 508, WCAG2 A and WCAG2 AA [ruleset](https://dequeuniversity.com/rules/axe/) violations.
+    - **Each rendered page must pass an axe check.**
       * Static Markdown pages should be checked for violations using the axe plugin.
+      * Static content created by Markdown files or the Content Management System (CMS) will be tested as part of the build step.
       * Pages created with the content management system (CMS) should also be checked using the axe plugin.
-      * Client-side applications **must include an axe check** in their end-to-end tests. The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) for this purpose.
+      * Client-side applications will be tested for accessibility as part of their larger e2e test suite.
+      * Client-side applications **must include an axe check** in their end-to-end tests. The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) for this purpose
+      * ESLint exists as a Node module with a command-line interface. It runs a lint scan on all components as a pre-commit hook, and will break on errors.
+      * Generally speaking, ESLint and the needed dependencies should be installed when users *yarn install* from the *vets-website* root.
+      * If a build error occurs, fix the issue and submit your code again.
 
-2. When you push your code to a feature branch or merge to master, the automated build process will test for Accessibility/508 compliance.
-   1. Static content created by Markdown files or the Content Management System (CMS) will be tested as part of the build step.
-   2. Client-side applications will be tested for accessibility as part of their larger e2e test suite.
-
-3. If a build error occurs, fix the issue and submit your code again.
-
-## Manual Accessibility/508 Testing
+## Manual Accessibility Testing
 
 ### Zoom to 400%
 
@@ -62,6 +73,12 @@
 
 ### Keyboard Navigation
 
+Keyboard testing is a manual process. All pages should be verified by a human tester, and ideally an end-to-end keyboard script.
+
+- [Ensure all pages can be navigated with keyboard.](https://webaim.org/techniques/keyboard/)
+- Ensure no links, buttons, or form elements are unreachable using Tab, Shift + Tab
+- Ensure custom rich components can be navigated using keyboard, arrow keys
+- Skip navigation link should be on all pages with navigation, large numbers of links
 - Ensure focusable elements (links, form inputs, buttons, radios, checkboxes) are all reachable by keyboard. Ensure any elements with a `tabIndex="0"` can be focused in the normal document flow.
 - Whenever possible, use proper semantic elements. For instance, it is better to use a `<button>` than re-create events and focus behaviors using custom tags.
 - Avoid keyboard traps. These are situations where users can tab into an interface, but can't tab out of it by pressing `TAB` or `SHIFT+TAB`.
@@ -71,7 +88,13 @@
 
 ### Screen Readers
 
-- The flow must be possible to complete on [vets.gov supported browsers](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/DocumentedDecisions/Browser%20Support.md) with the most commonly used screenreader(s) (see for example [2017 WebAIM screenreader survey](https://webaim.org/projects/screenreadersurvey7/)):
+Screen reader testing is mostly a manual process. Consider spot testing with at least two, and ideally all three screen readers listed here. At a minimum, NVDA should be tested as it is cross-browser and open-source. Mac users should also be testing VoiceOver on Safari. **Do not use Chrome** for VoiceOver testing, as it can cause false positives and has some ARIA bugs.
+
+- [Test using JAWS + IE11 on Win7/10](https://webaim.org/articles/jaws/)
+- [Test using NVDA + Firefox on Win7/10 - VIDEO](https://www.youtube.com/watch?v=Vx1vSd5uYS8)
+- [Test using VoiceOver + Safari on OSX](https://webaim.org/articles/voiceover/)
+
+The flow must be possible to complete on [vets.gov supported browsers](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/DocumentedDecisions/Browser%20Support.md) with the most commonly used screenreader(s) (see for example [2017 WebAIM screenreader survey](https://webaim.org/projects/screenreadersurvey7/)):
 
   - [ ] User flow must be possible using a keyboard only (no pointing device). See the [WebAIM keyboard accessibility guide](https://webaim.org/techniques/keyboard/) for keyboard strokes.
   - [ ] Windows 7/10: IE11 with JAWS (tested by the Section 508 office)
@@ -81,6 +104,12 @@
 
 ### Color Tests
 
-- Color blindness accessibility with tools like the [Chrome Colorblinding plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en)
-- Sketch plugin, [Color Contrast Analyser](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) to catch contrast issues early
-- [Formation design system color palette](https://design.va.gov/design/color-palette)
+- [Formation design system color palette](https://design.va.gov/design/color-palette) has been tested to ensure compliance and usability.
+- Designers should check color pairings during visual design sprints, especially:
+    - White text on yellow, orange, red
+    - Black text on darker blues, purples
+    - Gray text on white or textured backgrounds.
+- Sketch plugins for designers to test deliverables in progress:
+    - [Sketch Color Contrast Analyzer](https://github.com/getflourish/Sketch-Color-Contrast-Analyser)
+    - [Stark - Color Contrast and Color Blindness Plugin](http://www.getstark.co/)
+- Check for colorblindness issues in live sites using the [Chrome Colorblinding plugin](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa?hl=en)
