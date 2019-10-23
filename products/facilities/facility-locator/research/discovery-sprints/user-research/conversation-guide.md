@@ -20,7 +20,8 @@ Think back to a recent time when you visited a VA facility. If you're comfortabl
 - Do you remember how you learned about that facility and what made you choose that one?
 
 Have you ever looked up a facility on VA.gov? 
-[If yes] what were you looking for? Did you find what you needed?
+[If yes] What were you looking for? Did you find what you needed?
+[If no] How could a facility locator be helpful to you on VA.gov?
 
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
