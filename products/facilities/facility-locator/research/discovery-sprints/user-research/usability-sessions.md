@@ -3,16 +3,16 @@
 ## Schedule
 Participant | Date | Time (EST) | Note-taker
 ------------|------|------|------------
-Participant 1 | 10/28/2019 | 11am – 12pm | 
-Participant 2 | 10/28/2019 | 12pm – 1pm | 
+Participant 1 | 10/28/2019 | 11am – 12pm | Michelle
+Participant 2 | 10/28/2019 | 12pm – 1pm | Michelle
 Participant 3 | 10/28/2019 | 2pm – 3pm | Dave
-Participant 4 | 10/29/2019 | 1pm – 2pm | Michelle
-Participant 5 | 10/29/2019 | 2pm – 3pm | Michelle
-Participant 6 | 10/30/2019 | 10am – 11am | Michelle
+Participant 4 | 10/29/2019 | 1pm – 2pm | 
+Participant 5 | 10/29/2019 | 2pm – 3pm | 
+Participant 6 | 10/30/2019 | 10am – 11am | 
 Participant 7 | 10/30/2019 | 11am – 12pm | Dave
 Participant 8 | 10/30/2019 | 12pm – 1pm | Dave
-Participant 9 | 10/30/2019 | 2pm – 3pm | Michelle
-Participant 10 | 10/31/2019 | 2pm – 3pm | Michelle
+Participant 9 | 10/30/2019 | 2pm – 3pm | 
+Participant 10 | 10/31/2019 | 2pm – 3pm | 
 
 ## Synthesis
 After each day of sessions, add your observations (not the verbatim notes, but areas of opportunity, trends, etc). to the [Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1571674307087/5ff1f8637b8293b23a14aa6a29ddf53b5a867685).
