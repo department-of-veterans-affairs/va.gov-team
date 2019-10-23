@@ -1,6 +1,6 @@
 # VA Montana Facility System Site Upgrade
 
-We are upgrading this one VAMC (part of VISN-19) to address an unique needs for rural Veterans.
+We are upgrading this one VAMC (part of VISN-19) to address any unique needs for rural Veterans.
 
 | Short name             | Old site                          | New site                              | 
 | -----------------------|-----------------------------------| --------------------------------------|
