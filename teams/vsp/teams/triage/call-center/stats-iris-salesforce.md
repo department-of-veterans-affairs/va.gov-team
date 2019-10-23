@@ -2,6 +2,7 @@ This document is to show the amount of issues from IRIS and Salesforce each week
 were or will be escalated to the appropriate team, the issues that have been resolved, and the issues that are non VA.gov related issues.
 
 ## IRIS
+
  Date Due |	Daily totals | Escalate | Resolved | Not VA.gov
  ---------------------------------------------------------
 10/21/2019|	   4	       |   1	    |   2	    |    1
