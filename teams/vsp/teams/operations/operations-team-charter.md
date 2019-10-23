@@ -1,4 +1,4 @@
-# Operations Team Charter
+# Draft Operations Team Charter
 
 
 ---
@@ -10,7 +10,11 @@
 Enable VA to build digital tools at scale that improve Veterans’ lives.
 
 ### Product Suite: 
-CI/CD, AWS, Access Management, Infrastructure.
+- CI/CD 
+- AWS 
+- Access Management 
+- Infrastructure 
+- Environment Connectivity
 
 ### Team Mission Statement:
 Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
