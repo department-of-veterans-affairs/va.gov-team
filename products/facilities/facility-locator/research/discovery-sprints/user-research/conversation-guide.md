@@ -34,11 +34,13 @@ Let's imagine that you have a medical situation that requires you to visit a loc
 
 ### Task 2 - Choosing & Learning
 [If they landed on the VA Locations search results]
+
 Now, let's take a look at the list of facilities. Which location would you select to visit and why?  
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 
 ### Task 3 - Prepping to Visit
 [If still on search results]
+
 Go ahead and select the location you would visit. Scroll through this screen and talk me through what information would be helpful for your upcoming visit.
 
 ## Post-test Questions - 10 min
