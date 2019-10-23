@@ -77,18 +77,22 @@ Agenda
 - Review the top backlog tasks
 Output
 - Sprint backlog made up of pointed tasks required to meet the stories' acceptance criteria
-- Documentation of sprint goal on the #dragons-team Slack channel purpose
 - Team understanding of the top backlog tasks
 
 
-#### Ops All hands/ Grooming
-Assess and update workload for remainder of sprint
+#### Ops All hands
+Talk and demo work we are working on to ensure we are aware of current work in a bit more techincal detail. 
 
 - 2nd Thursday of every sprint
+- 1/2 hour
+- talk through what different pieces of work we are doing right now and ask any questions that come from it in order to brake down any silos on the team. 
+
+#### Leads Grooming 
+Stragetgic meeting to plan for the team and work we need/want to accomplish. 
+
+- 2nd Friday of every sprint
 - 1 hour
 - talk through what different pieces of work we are doing right now and ask any questions that come from it in order to brake down any silos or clinfd spots on the team. 
-- 2nd part: assess and update workload for remainder of sprint. Think about work that needs to happen in the next sprint. 
-
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
@@ -132,12 +136,14 @@ Points: Complexity Estimate
   - BRD Overview (ping TJ for recording)
   - VA Network overview (ping TJ for recording)
   - CMS build overview (ping TJ for recording)
+  - VA overview (ping TJ for recording)
 - Zenhub (if you would want to go over ZH more ping TJ)
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf
  - Access to Tools and AWS
    - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md
 - VSP Operations Calendar 
    - We maintain our meetings and OOO here.
+
 #### Slack:
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
