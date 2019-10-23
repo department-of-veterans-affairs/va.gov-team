@@ -19,7 +19,10 @@ Think back to a recent time when you visited a VA facility. If you're comfortabl
 - What type of facility was it (urgent care, emergency, community care, etc)?
 - Do you remember how you learned about that facility and what made you choose that one?
 
-Are you familiar with finding facilities on VA.gov? **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
+Have you ever looked up a facility on VA.gov? 
+[If yes] what were you looking for? Did you find what you needed?
+
+**(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
 ## Usability Test - 15 min
 I'm going to ask you to complete a series of tasks. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing.
