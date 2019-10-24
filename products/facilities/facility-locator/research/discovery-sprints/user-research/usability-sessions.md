@@ -20,3 +20,4 @@ After each day of sessions, add your observations (not the verbatim notes, but a
 ## Resources
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/research-plan.md)
 - [Conversation Guide]
+- [Observer Guidelines]
