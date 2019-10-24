@@ -1,7 +1,7 @@
 # Preface
 This document will help all team members working on the VA.gov platform understand how the Call Center team handles user issues and when and how the Call Center team will engage VSA/VSP teams to address relevant Tier 3 technical issues. Because of the limited number of resources on the Call Center team, they cannot be a "catch-all" for every issue reported on the platform and every application. Please read the following document carefully in order to determine the appropriate path for your incident.
 
-#Issue Tier Definitions
+## Issue Tier Definitions
 Tier 0 are non VA.gov technical issues that are handled by another call center. 
 
 Tier 1 issues are problems users experience on VA.gov caused by user error or confusion. These issues will have a specific answer that corrects the user behavior and allows them to complete their task. Examples: Signing in questions, password resets, navigation confusion, etc. 
