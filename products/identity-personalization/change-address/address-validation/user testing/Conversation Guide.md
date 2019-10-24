@@ -13,7 +13,7 @@ For this research session, we will be asking users to share their screen and wal
 
 ## Intro (2 minutes)
 
-Thanks for joining us today! My name is Arthur and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how you edit your mailing address from the profile screen.
+Thanks for joining us today! My name is Arthur and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how you edit your mailing address from the VA.gov
 
 Before we start, a few things I want to mention:
 
