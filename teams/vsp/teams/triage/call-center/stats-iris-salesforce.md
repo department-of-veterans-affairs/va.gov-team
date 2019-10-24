@@ -1,6 +1,11 @@
 This document is to show the amount of issues from IRIS and Salesforce each week.  The breakdown shows the amount of issues that 
 were or will be escalated to the appropriate team, the issues that have been resolved, and the issues that are non VA.gov related issues.
 
+There was a backlog of issues that were assigned to the Call Center team earlier this month form an Oracle admin with the earliest being from 6/25/2019.  Breakdown is below.
+- 107 total issues (all responded to)
+- 83 have been resolved (resolved meaning that it was not a VA.gov technical issue or the Call Center response template has been used)
+- 24 are still in progress (in progress meaning that this is an issue that needs to be or has been escalated)
+
 
 ## IRIS
 | Date Due |	Daily totals | Escalate | Resolved | Not VA.gov |
