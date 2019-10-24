@@ -65,7 +65,7 @@ _These links/reviews may end up being consolidated, stay tuned._
   - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  
 
 ## Development
-_Do we need to merge the FE and BE tasks since they feel so similiar?_  
+_Do we need to merge the FE and BE tasks?_  
 ### General Engineering Tasks  
 - [ ] Documentation for quickly addressing when things go wrong  
 - [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely?  
@@ -99,6 +99,9 @@ _Do we need to merge the FE and BE tasks since they feel so similiar?_
 - [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
 - [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-preliminary-ato-review)
 - [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-pre-launch-ato-review)
+### QA
+- [ ] [Documentaion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform 
+
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
   - [ ] Build, test, audits (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
