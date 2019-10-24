@@ -62,17 +62,17 @@ Profile page
 1.  How would you edit your mailing address here?
 
 Edit Address Modal
-1. Please click through the form, as this is a prototype, we won't have you input any information
+1. As I mentioned in the beginning of the call, this is a prototype design so you will not be able to fill out any fields.  When you are ready, please click 'Update'.
 
 Alert / Address Selection screen:
-
-3. This screen has an alert - is it clear why we show the alert?  Is the alert messaging clear as to what is happening?
-4. Please select an address option to continue
+1. Why do you think the alert is showing up?
+2. What is this alert telling you?
+3. What do you think happened for the alert to appear?
 
 Update screen:
 
-5.  Please go back to the alert/address suggestion screen (have the user return to the Update screen)
-6.  Update your mailing address
+1.  Can you show me how you would
+2.  Update your mailing address
 
 Assess the following:
 
