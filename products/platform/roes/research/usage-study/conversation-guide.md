@@ -47,12 +47,16 @@ Before we start, a few things I want to mention:
 ## Interview questions for VFS team members
 
 - How long have you worked on veteran-facing tools?
-- What does a Rules of Engagement document mean to you?
+- What is your practice area?
+- Have you heard of the term Rules of Engagement? What does it mean to you?
+- Have you heard of a document called Rules of Engagement? 
 - What would you expect from this type of document?
-- Have you worked with a Rules of Engagement document before?
+- Have you worked with this type of document before?
   - If yes, was it helpful?
+  - If no, where do you go when you want to find general process and work norms?
 - Do you know if a Rules of Engagement document exists for your practice area? 
-  - If yes, have you read it before? 
+  - If yes, have you read it before?
+  - If no, where do you think you'd find it?
 - Have you gone back to refer to it at any point in the process?
 - What prompted you to go back to it?
   - Were you able to find it again?
