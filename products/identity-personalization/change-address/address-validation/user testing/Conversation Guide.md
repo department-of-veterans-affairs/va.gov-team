@@ -47,9 +47,11 @@ OK, now I am going to turn on the recording.
 
 **Since these will be high fidelity prototypes of the dashboard and edit mailing address screens, we do not require a sign-in or LOA3.**
 
+*Scenario 1*
+
 Let's assume that you have signed into VA.gov - 
 
-Scenario 1: VA Homepage
+VA Homepage
 
 1. Can you show me how you would edit your mailing address?
 
