@@ -11,9 +11,31 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ----
 
+## **Sprint 7 (10/23 – 11/5)**  
+```diff 
+- 47 points over 17 issues
+```
+### 1. Prepare "View My Rated Disabilities" to be code complete
+- Gather and frame out remaining EVSS data components
+- Move frontend work to staging
+- Prepare for usability study on Rated Disabilities' new components (Conversation Guide, Research Plan, Perigean, etc)
+- Schedule reviews required to launch (Content/IA {mockups}, 508 {staging}, Security {staging})
+- Review the launch checklist and make sure the feature meets all requirements
+  - _Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
+
+### 2. Continue discovery on "Update Dependents"
+- Explore and understand every aspect of Dependents workflows on EBN
+- Design: create a research plan for learning about View Dependents workflows
+- Design: establish what usability work has been completed for Update Dependents
+- Eng: Technical discovery on previous Update Dependents work
+- Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates
+- Product: Determine need for third Epic: Add Dependents (without 686 submission)
+  - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393
+  - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976
+
 ## **Sprint 6 (10/9 – 10/22)**  
 ```diff 
-- TBD
+- 41 points across 17 issues
 ```
 ### 1. Continue to prepare "View My Rated Disabilities" for launch
 - Gather and frame out remaining data components before staging

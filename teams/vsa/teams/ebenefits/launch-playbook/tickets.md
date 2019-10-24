@@ -88,6 +88,7 @@ Previous Reasearch Plans used:
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 ## Create Conversation Guide for {feature}
+### Story  
 As a design researcher, I want to create a consistent conversation guide that encompasses the guidance of approved methods and all the components for the users I will be communicating with.
 
 ### Task

@@ -29,11 +29,13 @@ These processes are here to help ensure we're launching features that are:
 - [ ]   Contacts for oncall support: who do we contact if the application is failing? What kinds of failure modes are likely?
     - [ ]   Documentation and points of contact for any new backend dependencies
     - [ ]   Links to important dashboards for investigating relevant issues
-- [ ] No high-severity bugs present
-- [ ] Testing requirements
-    - [ ]   E2e tests, running in CI/CD, passing on all browsers
+- [ ] [Quality Assurance](../../quality-assurance/README.md)
+    - [ ]   [Test plan](../../quality-assurance/test-plan.md)
+    - [ ]   [E2E tests](../quality-assurance/end-to-end-testing.md), running in CI/CD, passing on all browsers
+    - [ ]   [Load testing](../../../../devops/loadtest/README.md)
+    - [ ]   Manual test cases created where necessary
     - [ ]   Code coverage requirements
-    - [ ]   Load testing
+    - [ ]   No high-severity bugs present
 - [ ] Monitoring requirements
     - [ ]   Contact (mailing list? Slack channel?) for errors to be reported to
     - [ ]   Errors getting sent directly to team

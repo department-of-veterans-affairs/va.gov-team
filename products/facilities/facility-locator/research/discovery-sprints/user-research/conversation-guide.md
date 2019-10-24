@@ -19,14 +19,30 @@ Think back to a recent time when you visited a VA facility. If you're comfortabl
 - What type of facility was it (urgent care, emergency, community care, etc)?
 - Do you remember how you learned about that facility and what made you choose that one?
 
-Are you familiar with finding facilities on VA.gov? **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
+Have you ever looked up a facility on VA.gov? 
+[If yes] What were you looking for? Did you find what you needed?
+[If no] How could a facility locator be helpful to you on VA.gov?
+
+**(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
 ## Usability Test - 15 min
 I'm going to ask you to complete a series of tasks. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing.
 
 ### Task 1 - Search & Navigation
+Let's imagine that you have a medical situation that requires you to visit a local VA facility. If you used the website, what would you do?
+
+(Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
+
 ### Task 2 - Choosing & Learning
+[If they landed on the VA Locations search results]
+
+Now, let's take a look at the list of facilities. Which location would you select to visit and why?  
+(Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
+
 ### Task 3 - Prepping to Visit
+[If still on search results]
+
+Go ahead and select the location you would visit. Scroll through this screen and talk me through what information would be helpful for your upcoming visit.
 
 ## Post-test Questions - 10 min
 I have just a few more questions to ask you before we finish up today.

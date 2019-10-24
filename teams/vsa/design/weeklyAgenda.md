@@ -1,5 +1,10 @@
 # UX Weekly Meeting Agenda
 
+## Wednesday October 23rd
+
+* Shawna update on round-robin approach and feedback
+* Brainstorm on Riley's Higher level review informal meeting design 
+
 ## Wednesday October 14th
 
 * Staffing: Welcome Becca!
