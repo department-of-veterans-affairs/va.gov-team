@@ -26,6 +26,9 @@ Responsiblities for the Call Center Lead can be found [HERE](https://github.com/
   * Shows the Call Center intake process from initial contact to resolution in a diagram format
 - Updates/Reccomendations
   * Indicates the most up to date information concerning the Call Center
+  - Stats IRIS & SalesForce
+   * Indicates most up to date stats concerning issues that come in from IRIS and SalesForce
+   * Updated weekly.
 
 ## Call Center POC list
 

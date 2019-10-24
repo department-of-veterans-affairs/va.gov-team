@@ -2,15 +2,13 @@
 
 https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/facility-locator/facilities-datasources.md
 
-| **Facility type** | **Source** | **Example** |
-| --- | --- | --- |
-| VA Health |  | | 
-| Benefits |  | |
-| Vet Center | | |
-| National Cemetery |  ||
-| Government Lots|  | VACO|
-| Office  |  | Congressional |
-
+| **Division** | **Facility types available in legacy directory** |
+| --- | --- | 
+| VA Health | VISN, VA Health Care System, VA Medical Centers, Domiciliary, Integrated Clinical Facility, Outpatient Clinic, Community Service Programs, Community Based Outpatient Clinic, Vet Center |
+| Benefits | Regional Benefit Offices, Records Management, Regional Loan Center, Intake Sites (Pre-discharge Claims Assistance) |
+| Vet Center | |
+| National Cemetery | District Office, National Cemeteries | National Cemeteries, Government Lots, Soldier Lots, Office
+| Central Office | |
 
 | **Source** | **Contains** | **Owner** | **Notes** |
 | --- | --- |--- | --- |
