@@ -29,3 +29,9 @@ making it difficult to sort through issues.  Another testing report will be crea
 Communication will be had with the WHVAH leadership in order to indicate that the training that was provided months ago may need to be 
 revisited in order for agents to fully understand the importance of labeling tickets accordingly.  Since they may not be able to fully take 
 on our issues until March 2020, this issue make take longer to resolve than expected.
+
+| Login | Viewing/Submitting Claims | MISC | VIC | Address | Upload | Appeal | Download | Name Update |
+|----------|:--------------:|:----------:|:----------:|:------------:|:------------:|:----------:|:----------:|:----------:|:----------:|:-------|
+|     12	   |     11	 |   10	    |      3     |	2	|	1	|	1	|	1	|1	|	
+
+
