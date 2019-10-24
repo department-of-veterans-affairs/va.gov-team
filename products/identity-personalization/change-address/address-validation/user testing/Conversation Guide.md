@@ -21,6 +21,7 @@ Before we start, a few things I want to mention:
 - **In this session, we want to hear your honest opinions.** If you've had a frustrating experience or find something we show you to be confusing, we want to hear about it. Your honest insights help us to figure out how we can improve the veteran experience, and we will not be offended by any opinions you express.
 - **If for any reason and at any time you want to stop the session, please let me know.** You will not be penalized in any way if we need to stop.
 - **Are you comfortable if I record my screen and audio as we talk today?** For this session, I will have you share your screen and ask you to show us how you edit your mailing address. Just so you know, these recordings are not shared outside of the people on this call. We use them only to confirm that we have captured what you have said accurately, and then we delete them a few weeks after the session. Do you have any questions about this? Are you ok if we record today?
+-  **Last point before we begin - this is a design prototype, much like a demo where we will be showing information for a fictional user - this is why you will not see your own information** Do you have any questions about what a protoype is?
 
 ## Transfer presenter controls to participant (2 minutes)
 
@@ -52,12 +53,16 @@ OK, now I am going to turn on the recording.
 Let's assume that you have signed into VA.gov - 
 
 VA Homepage
+1. Can you show me where you would go to edit your mailing address?
 
-1. Can you show me how you would edit your mailing address?
+User Menu
+1.  Please tell me your thoughts about this menu
 
-Form screen displays:
+Profile page
+1.  How would you edit your mailing address here?
 
-2. Please click through the form, as this is a prototype, we won't have you input any information
+Edit Address Modal
+1. Please click through the form, as this is a prototype, we won't have you input any information
 
 Alert / Address Selection screen:
 
