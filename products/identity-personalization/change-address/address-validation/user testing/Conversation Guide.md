@@ -4,7 +4,11 @@
 
 For this research session, we will be asking users to share their screen and walk through a high fidelity clickable prototype of the Va.gov profile screen to edit/update the mailing address.
 
-- Prototype link:  https://invis.io/2AUBKUIW63S
+- Prototype link:  There are 3 scenarios we want to test:
+ Scenario 1:  https://invis.io/HDUJJ7LJPKX
+ Scenario 2:  https://invis.io/R6UJJ8NKU9N
+ Scenario 3:  https://invis.io/XRUJJ93H86Q
+ 
 - Sign in: no sign in required
 
 ## Intro (2 minutes)
@@ -43,7 +47,9 @@ OK, now I am going to turn on the recording.
 
 **Since these will be high fidelity prototypes of the dashboard and edit mailing address screens, we do not require a sign-in or LOA3.**
 
-Begin on dashboard screen:
+Let's assume that you have signed into VA.gov - 
+
+Scenario 1: VA Homepage
 
 1. Can you show me how you would edit your mailing address?
 
