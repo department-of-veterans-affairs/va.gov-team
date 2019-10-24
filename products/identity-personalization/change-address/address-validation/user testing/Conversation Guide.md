@@ -43,10 +43,16 @@ OK, now I am going to turn on the recording.
 3. Do you sign-in into your account to make changes regularly?
 4. Have you updated your mailing address at any time on VA.gov?
 5. If you have updated your address recently can you tell me a little bit about your experience?
+6.  Has the VA ever sent your mail to an incorrect address?
+7.  How did the VA communicate to you that they had an incorrect address on file?  How did you correct it?
+8.  How would you expect to be notified if the VA has the wrong address on file for you?
+9.  How would you expect to correct it?
 
 ## Edit Mailing Address ( 5 - 10 minutes)
 
 **Since these will be high fidelity prototypes of the dashboard and edit mailing address screens, we do not require a sign-in or LOA3.**
+
+I am going to send you a link trough the chat window, please click it to proceed with the test.
 
 *Scenario 1*
 
@@ -68,11 +74,70 @@ Alert / Address Selection screen:
 1. Why do you think the alert is showing up?
 2. What is this alert telling you?
 3. What do you think happened for the alert to appear?
+When you ready please click 'Continue'.
 
 Update screen:
+1.  Can you show me how you would view the address options
+(Alert/Address Selection screen appears) - Great! Now please 'Continue'
+2.  Please show me how you would update your mailing address
 
-1.  Can you show me how you would
-2.  Update your mailing address
+System Updating Message screen
+1.  Can you tell me what is happening on this screen?
+
+---------------
+
+I am going to send you a another link trough the chat window, please click it to proceed with the test.
+
+*Scenario 2*
+
+
+VA Homepage
+1. Can you show me where you would go to edit your mailing address?
+
+User Menu
+1.  Please tell me your thoughts about this menu
+
+Profile page
+1.  How would you edit your mailing address here?
+
+Edit Address Modal
+1. As I mentioned in the beginning of the call, this is a prototype design so you will not be able to fill out any fields.  When you are ready, please click 'Update'.
+
+Alert / Address Selection screen:
+1. Why do you think the alert is showing up?
+2. What is this alert telling you?
+3. What do you think happened for the alert to appear?
+When you ready please click 'Continue'.
+
+Update screen:
+1.  Can you show me how you would edit the entered address
+(Alert/Address Selection screen appears) - Great! Now please 'Continue'
+2.  Please show me how you would update your mailing address
+
+System Updating Message screen
+1.  Can you tell me what is happening on this screen?
+
+----------------------
+
+I am going to send you a final link trough the chat window, please click it to proceed with the test.
+
+*Scenario 3*
+
+VA Homepage
+1. Can you show me where you would go to edit your mailing address?
+
+User Menu
+1.  Please tell me your thoughts about this menu
+
+Profile page
+1.  How would you edit your mailing address here?
+
+Edit Address Modal
+1. As I mentioned in the beginning of the call, this is a prototype design so you will not be able to fill out any fields.  When you are ready, please click 'Update'.
+
+System Updating Message screen
+1.  Can you tell me what is happening on this screen?
+
 
 Assess the following:
 
