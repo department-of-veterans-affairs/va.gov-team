@@ -36,8 +36,8 @@ OK, now I am going to turn on the recording.
 
 2. Do you have a VA.gov account? If so, about how often do you use the website?
 3. Do you sign-in into your account to make changes regularly?
-4. Have you updated your mailing address at any time?
-5. Were you able to update your mailing address easily and quickly?
+4. Have you updated your mailing address at any time on VA.gov?
+5. If you have updated your address recently can you tell me a little bit about your experience?
 
 ## Edit Mailing Address ( 5 - 10 minutes)
 
