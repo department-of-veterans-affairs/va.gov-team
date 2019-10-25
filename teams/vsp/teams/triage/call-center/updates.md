@@ -1,3 +1,8 @@
+As of 10/25/2019:
+Original escalation process of reporting from IRIS and SalesForce to the VSp teams has proven to be more chanllenging than once thought.  A different approach is now being taken by the Call Center team.
+
+
+
 As of 10/10/2019:
 WHVAH will not be able to handle VA.gov issues until March 2020
 
