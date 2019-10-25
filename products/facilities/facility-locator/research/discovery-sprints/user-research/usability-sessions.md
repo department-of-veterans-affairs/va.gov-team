@@ -11,7 +11,7 @@ Participant 5 | 10/29/2019 | 2pm – 3pm | Dave
 Participant 6 | 10/30/2019 | 10am – 11am | Michelle
 Participant 7 | 10/30/2019 | 11am – 12pm | Dave
 Participant 8 | 10/30/2019 | 12pm – 1pm | Dave
-Participant 9 | 10/30/2019 | 1pm – 2pm | 
+Participant 9 | 10/30/2019 | 1pm – 2pm | Michelle
 Participant 10 | 10/30/2019 | 2pm – 3pm | Michelle
 Participant 11 | 10/31/2019 | 2pm – 3pm | Dave
 
