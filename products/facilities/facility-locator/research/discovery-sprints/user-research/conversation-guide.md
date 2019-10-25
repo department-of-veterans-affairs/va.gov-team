@@ -36,6 +36,8 @@ Let's imagine that you have a medical situation that requires you to visit a loc
 ### Task 2 - Choosing & Learning
 [If they landed on the VA Locations search results]
 
+Using the map, how would you choose the facility you want to visit?
+
 Now, let's take a look at the list of facilities. Which location would you select to visit and why?  
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 
