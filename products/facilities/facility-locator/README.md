@@ -6,13 +6,13 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 **Supporting product owner:** Andy Lewandowski 
 
-## What to know abut the product
+## What to know about the product
 
 - It is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 - It is the newer version of VA's old facility locator: <https://www.va.gov/directory/guide/home.asp>
 - It is powered by the non-public-facing Vets API
 - It uses Mapbox for maps functionality: <https://docs.mapbox.com/mapbox-gl-js/api/>
-- It serves many purposes, from finding basic facility address and phone information to preparing for a visit to understanding eligiblity for community care
+- It serves many purposes, from finding basic facility address and phone information to preparing for a visit, to understanding eligiblity for community care
 
 ## Other notes
 
@@ -32,12 +32,12 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 All of these folks help drive the vision and implementation of VA Community Care benefits.
 
-- Dr. Kamron Matthews: Works directly with community health care networks and regions for Veterans to recieve community care benefits.
+- Dr. Kamron Matthews: Works directly with community health care networks and regions for Veterans to receive community care benefits.
   - Zach Fain: Does a lot of implemntation work for networks
   - Aszur Rollins: Product Owner for community care provider locator data (which is in the Facility Locator)
 - Dr. Jen McDonald: Was involved with Mission Act implementation
 - Dr. Leo Greenstone: Business sponsor to have AbleVets team build their community care provider lookup on Facility Locator
-- Dr. Mark Upton: Has an interest in community care-urgent care facilities
+- Dr. Mark Upton: Has an interest in community care urgent care facilities
 
 -----
 # Facility Locator 2.0
@@ -70,7 +70,7 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
     3. User flows Mural board: <https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1560946920965/4bb321f266f232e3e1d91559b168a0f3c11fe84f>
 - Search UI is inconsistent (i.e., free text search box, dropdowns, typeahead)
 - Community care "facilities" are actually providers, so users are searching for persons, not places
-- Facility API data often do not load or show up on facility detail pages
+- Facility API data often does not load or show up on facility detail pages
 - Web browser's location/geo-location functionality doesn't always work (or work well) on facility search page
 
 ## What to research
@@ -84,4 +84,4 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
 - How to include drive-time functionality into UX
 - How to make the product work faster for users
 - How to better architect how we call data from the community care database
-- All the data sources! How can be better streamline our data sources, and structured product content on the UI, so users get a consistent product experience
+- All the data sources! How can we better streamline our data sources, and structured product content on the UI, so users get a consistent product experience
