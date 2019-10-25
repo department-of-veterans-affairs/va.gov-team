@@ -26,7 +26,7 @@ Have you ever looked up a facility on VA.gov?
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
 ## Usability Test - 15 min
-I'm going to ask you to complete a series of tasks. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing.
+I'm going to ask you a few questions about the site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing.
 
 ### Task 1 - Search & Navigation
 Let's imagine that you have a medical situation that requires you to visit a local VA facility. If you used the website, what would you do?
