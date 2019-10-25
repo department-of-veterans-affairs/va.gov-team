@@ -74,3 +74,5 @@ Design team member(s): Shawna Hein
 - [Notes & Recordings]
 - [Synthesis]
 - [Read-out/Findings]
+
+_This plan has been approved by Lauren Alexanderson on 10/21/2019._
