@@ -1,3 +1,9 @@
+Due to the complexity of IRIS and SalesForce reporting and escalation, the Call Center team has decided on the following process:
+The Call Center team will meet with other VSP teams individually to introduce the team, review the issues that have been presented, and
+inquire about any work arounds that may be possible to give back to the call centers or individuals directly.
+
+The firest meeting will be held with the eBenefits team (Yana Roy) on 10/28/2019.
+
 Below is the agenda for the Call Center team to meet with VSP teams regarding the current issues in SalesForce and IRIS.
 
 # Agenda for Teams that have identified issues
