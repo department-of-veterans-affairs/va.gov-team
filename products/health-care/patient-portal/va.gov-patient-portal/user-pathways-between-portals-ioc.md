@@ -18,7 +18,7 @@ Additionally, Cerner's rollout is broken out into capability sets. At Capability
 3. Update unauthenticated content throughout the health hub to facilitate way-finding / de-specify MHV. (Team VSA Web)
 4. Update the alert boxes, so that an authenticated user can see on the health tools pages which portal or portals they need to go to. (DEPO Auth Exp) 
 5. Update the va.gov/my-health experience to help Veterans get to MHV, My VA Health, or both, as appropriate. 
-6. Ensure contact centers are aware of a way to 
+6. Ensure contact centers are aware of these pathways and how to help users get where they need to go. 
 
 ## Who is the primary user?
 - Veterans who receive VA healthcare from VistA and Cerner-powered facilities, specifically: 
