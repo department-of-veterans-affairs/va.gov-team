@@ -1,4 +1,4 @@
-# [WIP] VAOS Phased Rollout
+# VAOS Phased Rollout
 
 ## Goals
 1. Transition veterans to new VAOS tool on VA.gov in order to improve online scheduling uptake and veteran satisfaction with online scheduling
@@ -27,24 +27,34 @@ The goal of this stage is to ensure the tool is holistically ready for productio
   - [ ] No show-stopping bugs found in testing
   - [ ] Acceptance Criteria for MVP met (see [MVP Acceptance Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/README.md#acceptance-criteria) in PO)
 
-## Phase 1: MVP live on production VA.gov site [Week 1 - 11/12/19]
-The goal of this phase is to gather a statistically relevant usage sample to both compare performance against the legacy tool and also get enough veterans using the tool to surface any bugs, edge-cases, service issues, etc. before a broader roll-out
-- VAOS available on VA.gov via standard 'new' banner on `/health-care/schedule-view-va-appointments/` page to small percentage of traffic (~10%)
+## Phase 1: MVP live on production VA.gov site [Weeks 1 & 2: 11/12/19]
+The goal of this phase is to understand how the tool works in the production environment and to perform targeted acceptance testing on the tool.
+- VAOS available on VA.gov via direct link and possibly behind basic http authentication
+- Targeting ~10-25 select veterans to try the various flows (schedule, request, view, cancel) in the new tool
+- Any manual SQA production testing can also happen at this phase
+- Go / No Go decision for continuing to phase 2:
+  - [ ] Minimum number of veterans reached & all flows tested in production with oversight from product & dev teams
+  - [ ] SQA checks performed and passed
+  - [ ] No critical severity bugs or errors (as prioritized by dev & product) identified
+
+## Phase 2: Increased Tool Reach [Week 3]
+The goald of this phase is to gather a statistically relevant usage sample to both compare performance against the legacy tool and also get enough veterans using the tool to surface edge-case bugs, service issues, etc. before a broader roll-out
 - Targeting 375 appointment attempts (~2.5% of legacy tool) to get statistically valid data set for comparison
-- Go / No Go decision for continuing to Phase 2:
+- VAOS available on VA.gov via standard 'new' banner on `/health-care/schedule-view-va-appointments/` page to small percentage of traffic (~10%)
+- Go / No Go decision for continuing to Phase 3:
   - [ ] Target sample of ~375 scheduling attempts reached
   - [ ] The tool is performing acceptably compared to legacy VAOS
     - [ ] Conversion rates (requested + direct-scheduled appointments / new appointment starts) are at least in-line with legacy tool (20%+)
     - [ ] No major issues reported by Call Center / IRIS & other feedback mechanisms (e.g., 'feedback' feature on VA.gov)
   - [ ] No major issues reported by Sentry or Grafana for both vets-api and vets-website
   - [ ] Error reports debugged & resolved; any Sentry errors triaged and resolved
-
-## Phase 2: Increased Tool Reach [Week 2]
+  
+## Phase 3: Increased Tool Reach [Week 4]
 The goal of this phase is to ramp up usage of the new tool by starting to expose the tool to users of legacy VAOS
 - VAOS tool banner shown to an increasingly larger percent of traffic to  `/health-care/schedule-view-va-appointments/` daily, ultimately showing to 100% of traffic
 - New banner in legacy MHV appointments content page (myhealth.va.gov/mhv-portal-web/schedule-or-cancel-a-va-appointment-online) to notify veterans to the new tool on VA.gov
 - Veterans can continue to use legacy VAOS to schedule appointments
-- Go / No Go decision for continuing to Phase 3:
+- Go / No Go decision for continuing to Phase 4:
   - [ ] The tool continues to perform acceptably compared to legacy VAOS
     - [ ] Conversion rates (requested + direct-scheduled appointments / new appointment starts) are at least in-line with legacy tool (20%+)
     - [ ] No major issues reported by Call Center / IRIS & other feedback mechanisms (e.g., 'feedback' feature on VA.gov)
@@ -53,7 +63,7 @@ The goal of this phase is to ramp up usage of the new tool by starting to expose
   - [ ] At least 1,500 total scheduling attempts have been made
   - [ ] At least 500 scheduling attempts made by veterans coming into the app via the MHV banner
 
-## Phase 3: Silent launch on VA.gov [Week 3]
+## Phase 4: Silent launch on VA.gov [Week 5]
 The goal of this phase is to fully launch the tool on VA.gov while paving the way for sunsetting legacy VAOS
 - VAOS banner removed from VA.gov; users no longer need to sign up for the tool
 - Links to the legacy tool are removed from VA.gov and replaced with links to the new tool & corresponding content is updated
@@ -68,7 +78,7 @@ The goal of this phase is to fully launch the tool on VA.gov while paving the wa
   - [ ] Error reports debugged & resolved; any Sentry errors triaged and resolved
   - [ ] At least 10,000 scheduling attempts have been made
 
-## Phase 4: Comms & Sunset Legacy VAOS [Week 4]
+## Phase 5: Comms & Sunset Legacy VAOS [Week 6+]
 The goal of this phase is to complete the scheduling transition from legacy VAOS to VA.gov and let the veteran community know about the new tool
 - Comms sent to VSOs, partner organizations, veterans, and any other interested parties
   - Waiting on comms allows us to 1. gradually ramp up volume to the tool and 2. incorporate  good feedback we've gotten into the actual comms
