@@ -4,7 +4,7 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 
 ### HTML Structure / Visual Presentation
 | Criteria | Design | Development |
-| ---------- | ---------- | ---------- |
+| :---------- | :----------: | :----------: |
 | Displays all visual elements outlined in Story/Feature Acceptance Criteria | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Closely matches approved screen mockups | N/A | <ul><li>- [ ] Yes</li></ul> |
 | Uses HTML elements properly | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
@@ -17,7 +17,7 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 
 ### CSS Class Usage
 | Criteria | Design | Development |
-| ---------- | ---------- | ---------- |
+| :---------- | :----------: | :----------: |
 | Makes best use of primary classes | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Minimal use of utility classes where necessary | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Appropriate use of grouped-element combo-classes | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
@@ -26,7 +26,7 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 
 ### Formatting / Naming
 | Criteria | Design | Development |
-| ---------- | ---------- | ---------- |
+| :---------- | :----------: | :----------: |
 | Component filenames named per conventions |  N/A  | <ul><li>[ ] Yes</li></ul> |
 | Element ID’s formatted per standards |  N/A  | <ul><li>[ ] Yes</li></ul> |
 | Variables, classes, methods, etc. named appropriately / consistently |  N/A  | <ul><li>[ ] Yes</li></ul> |
@@ -35,7 +35,7 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 
 ### Content / Information Architecture
 | Criteria | Design | Development |
-| ---------- | ---------- | ---------- |
+| :---------- | :----------: | :----------: |
 | Navigation appropriate for content and page template | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Inbound / Outbound links tested and working; authenticated / unauthenticated | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Ensure link labelling conventions are followed | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
@@ -44,7 +44,7 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 
 ### Section 508 Compliance
 | Criteria | Design | Development |
-| ---------- | ---------- | ---------- |
+| :---------- | :----------: | :----------: |
 | Complete / appropriate use of ARIA tags |  N/A  | <ul><li>[ ] Yes</li></ul> |
 | Ensure all functional elements are keyboard accessible; minimum: tab/enter |  N/A  | <ul><li>[ ] Yes</li></ul> |
 | Proper H-tag sequencing | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
@@ -56,7 +56,7 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 
 ### Analytics(?)
 | Criteria | Design | Development |
-| ---------- | ---------- | ---------- |
+| :---------- | :----------: | :----------: |
 
 
 
