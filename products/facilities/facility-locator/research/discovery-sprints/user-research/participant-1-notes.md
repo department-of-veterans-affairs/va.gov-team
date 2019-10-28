@@ -17,21 +17,21 @@
 
 **Think back to a recent time when you visited a VA facility. If you're comfortable, will you describe that situation briefly?** *Response: Um, the last time I was there, and you asked me to be honest. The last time I was there was to request a different doctor. Since I have been going to the outpatient clinic, I have had four doctors in three years. The last guy when I was there put inaccurate information in my record and didn't even seem to care that I lost 12 pounds. So I was there to find a different doctor.*
 
-**You mentioned it was an outpatient clinic Excuse my naviete but (something like can you explain...)...** *Response: The primary care doctors are there. There are specialists there as they have room. Like they have a podiatrist there and I think they can do xrays there now.*
+**You mentioned it was an outpatient clinic Excuse my naviete but (something like can you explain...)...** *Response: The primary care doctors are there. There are specialists there as they have room. Like they have a podiatrist there and I think they can do x-rays there now.*
   
 **How did you find out about...** *Response: It was the closest one to where I was living at the time.*
 
-**Have you ever used VA.gov to find a location?** *Response:Oh yeah*
+**Have you ever used VA.gov to find a location?** *Response: Oh yeah.*
 
-**What were you looking for? Did you find what you needed?** *Response: Eventually, yeah*
+**What were you looking for? Did you find what you needed?** *Response: Eventually, yeah.*
   
 **Can you expand on your experience? Can you tell me where you went? What type of facility was it (urgent care, emergency, community care, etc)?** *Response: If I remember right, it was the time that they issued my electric scooter. I didn't know there was a location in the area so I think I went in to search. I think I typed it into the search. It took a little bit of looking, little bit of clicking around. I am used to how the military works. (...) There's usually a hyperlink that you need to click on.*
 
-**I'm going to share a link with you. Once it loads, will you share your screen with me?** *Response: I'm sorry where is the website? I clicked on the wrong thing. Now I need to share* 
+**I'm going to share a link with you. Once it loads, will you share your screen with me?** *Response: I'm sorry where is the website? I clicked on the wrong thing. Now I need to share.* 
 
 **Just the website is fine** *Do I need to click the sound?*
 
-**You can just hit continue to the new VA** *Response: Ok*
+**You can just hit continue to the new VA** *Response: Ok.*
 
 ## Usability Test - 15 min
 **I'm going to ask you a few questions about the site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing. Be as vocal as you can.**
@@ -39,7 +39,7 @@
 ### Task 1 - Search & Navigation
 **Let's imagine that you have a medical situation that requires you to visit a local VA facility. If you used the website, what would you do?** *Response: So, I had a flu or needed to go to the doctor quickly. Is that the scenario?*
 
-**yes** *Response: So from here, I would choose "schedule and view"* 
+**yes** *Response: So from here, I would choose "schedule and view".* 
 
 **Ok What would you expect if you click that?** *Response: I'd want to know I am in the right place with the title and brief description. And this tells me. It's appropriately placed and the yellow gets my attention. And that's what I would click right there if I really needed the doctor.*
 
@@ -47,7 +47,7 @@
 
 **Now, let's take a look at the list of facilities. Which location would you select to visit and why?**  *Response: Ok*
 
-**Scroll to map** *Response:Ok*
+**Scroll to map** *Response: Ok.*
 
 **You have two options here. You can either "Allow" or enter your search using the search bar.** *Response: Generally I will punch in my zip code. I find I get better results that way.*
 
@@ -57,14 +57,14 @@
 
 **Go ahead and select the location you would visit. Scroll through this screen and talk me through what information would be helpful for your upcoming visit. What would make you choose it from the list?** *Response: When I first started...just glancing at the list, I saw Newport Ritchie and I know this one. Ooops (...)*
 
-**You can just click the back button** *Response: This is what happens when you ask infantry man to play with computers. This is what I could see. I know Newport Rithcie isn't very far away. Maybe location then.*
+**You can just click the back button** *Response: This is what happens when you ask infantry man to play with computers. This is what I could see. I know Newport Ritchie isn't very far away. Maybe location then.*
 
-**Is there anything else that would help you make the decision to visit?** *Response: Um, if there was a place to put in your address. I don't know that many poeple would use that, if you could see your location compared to where the places are. The distance thing is huge. I have mobility issues, two small children and my wife and we only have one vehicle. So if I could see visually on the map, like, that's where that clinic is or that treatment facility, I could  plan out my day, plan out my vehicle. It would be a visual reference instead of the distance numbers.*
+**Is there anything else that would help you make the decision to visit?** *Response: Um, if there was a place to put in your address. I don't know that many poeple would use that, if you could see your location compared to where the places are. The distance thing is huge. I have mobility issues, two small children and my wife and we only have one vehicle. So if I could see visually on the map, like, that's where that clinic is or that treatment facility, I could plan out my day, plan out my vehicle. It would be a visual reference instead of the distance numbers.*
 
 **So if you choose from the list, (...) awesome What infomation would you need to prep for your visit?** *Response:*uh...That's actually more info that I would have expected but it's good to know new patient wait times because unless you live with your head in the sand, if you play attention to the news, the wait times to see a doctor are long, like outstandingly long. I know they've gotten better but to see it on the page right there. If I've never been to this clinic, it's going to take me nine days.*
 - *Um, This is what I was describing (...) It isn't only (...)*
 - *Mental health is another facility down the street, they don't advertise (...)*
-- *Didn't know about cardio; Derm, yes; Gastro, speciality care, that's kinda vague*
+- *Didn't know about cardio; Derm, yes; Gastro, speciality care, that's kinda vague.*
 - *Obviously the first thing I would go for is the main number.*
 
 **You mentioned mobility issues. What other info (...)** *oops (...)*
