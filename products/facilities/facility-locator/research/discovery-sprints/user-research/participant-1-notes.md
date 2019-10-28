@@ -1,5 +1,5 @@
 # Facility Locator Usability Session Notes (DRAFT)
-# Participant 3	
+# Participant 1
 ## 10/28/2019	11am – 12pm	
 
 
