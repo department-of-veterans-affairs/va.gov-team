@@ -68,4 +68,4 @@ If there has been no status update by the end of the 48 business hours, the Call
 
 ## Still not sure?
 
-If you still have a doubt about how or when to engage with the Call Center team for whatever reason, please reach out to the [`#vsp-vsp-contact-center-support`](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
+If you still have a doubt about how or when to engage with the Call Center team for whatever reason, please reach out to the [`#vsp-contact-center-support`](https://dsva.slack.com/messages/CK1FA11H8) Slack channel and we would be happy to assist you.
