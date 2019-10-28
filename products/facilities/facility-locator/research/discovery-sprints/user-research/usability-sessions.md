@@ -7,8 +7,8 @@ Participant 1 | 10/28/2019 | 11am – 12pm | Michelle
 Participant 2 | 10/28/2019 | 12pm – 1pm | Michelle
 Participant 3 | 10/28/2019 | 2pm – 3pm | Dave
 Participant 4 | 10/29/2019 | 1pm – 2pm | Michelle
-Participant 5 | 10/30/2019 | 10am – 11am | Michelle
-Participant 6 | 10/30/2019 | 11am – 12pm | Dave
+Participant 5 | 10/30/2019 | 10am – 11am | Dave
+Participant 6 | 10/30/2019 | 11am – 12pm | Michelle
 Participant 7 | 10/30/2019 | 12pm – 1pm | Dave
 Participant 8 | 10/30/2019 | 1pm – 2pm | Michelle
 Participant 9 | 10/30/2019 | 2pm – 3pm | Michelle
