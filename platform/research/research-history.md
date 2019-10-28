@@ -17,6 +17,11 @@ This does not include research for Appeals projects, which is stored in differen
 - 5-6 participants
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/research/research-plan.md)
 
+#### October 1 - 7: DS Logon
+*Ad Hoc: Lauryl Zenobi, Evangeline Garreau*
+- 9 participants
+-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/09-18-mct-logon-research-plan.md)
+
 ### September 2019
 
 #### September 11 - 17; 16-19: VA Health Records for Apple UAT - Part I, II, and III **
