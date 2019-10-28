@@ -18,6 +18,7 @@ Think back to a recent time when you visited a VA facility. If you're comfortabl
 - Can you tell me where you went?
 - What type of facility was it (urgent care, emergency, community care, etc)?
 - Do you remember how you learned about that facility and what made you choose to go to it?
+- Is there anything you wish you would have known about the location before your visit?
 
 Have you ever looked up a facility on VA.gov? 
 [If yes] What were you looking for? Did you find what you needed?
