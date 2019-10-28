@@ -83,21 +83,13 @@ Please list the people who will be serving in each role. **Include the primary p
 
 
 ## Resources
-- Project Brief: 
-*Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md)
 
-- Discussion Guide
-*Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/conversation-guide.md)
 
-- Notes & Recordings
-*Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
+- [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/ds-logon/research/user_session_notes)
 
-- Synthesis
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 
-
-- Lessons Learned
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 
+- [Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/ds-logon/research/user_session_transcripts)
 
 - Read-Out/Results
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+  - *TK* 
