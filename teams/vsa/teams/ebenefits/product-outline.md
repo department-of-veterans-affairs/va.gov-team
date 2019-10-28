@@ -1,3 +1,5 @@
+[Migrating](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+
 # Product Outline: eBenefits
 - GitHub Label: vsa-ebenefits
 - Slack channel: vsa-ebenefits
