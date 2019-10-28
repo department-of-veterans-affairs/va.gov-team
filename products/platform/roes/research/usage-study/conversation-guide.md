@@ -58,6 +58,7 @@ Before we start, a few things I want to mention:
   - If yes, have you read it before?
   - If no, where do you think you'd find it?
 - Have you gone back to refer to it at any point in the process?
+- Could you send me a link to this document?
 - What prompted you to go back to it?
   - Were you able to find it again?
 - Was it helpful? Did you find what you were looking for? 
