@@ -5,6 +5,7 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 ### HTML Structure / Visual Presentation
 | Criteria | Design | Development |
 | :---------- | :----------: | :----------: |
+| Screen layouts/design available for all use cases / scenarios / states | <ul><li>[ ] Yes</li></ul> | N/A |
 | Displays all visual elements outlined in Story/Feature Acceptance Criteria | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Closely matches approved screen mockups | N/A | <ul><li>- [ ] Yes</li></ul> |
 | Uses HTML elements properly | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
@@ -12,6 +13,8 @@ The purpose of this checklist is to provide guidance as VA.gov screens/features 
 | Dynamic element behaviors match VA.gov standards/precedents/approved exceptions | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> | 
 | Forms / form elements conform to VA.gov standards / precedents and/or approved exceptions | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Code properly commented |  N/A  | <ul><li>[ ] Yes</li></ul> |
+| Staging QA accounts identified and tested agai=st all use cases / scenarios / states |  N/A  | <ul><li>[ ] Yes</li></ul> |
+| Edge cases accounted-for and tested | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 | Screens smoke-tested in wide range of browsers/platforms |  N/A  | <ul><li>[ ] Yes</li></ul> |
 | Proper reflow at responsive break-points | <ul><li>[ ] Yes</li></ul> | <ul><li>[ ] Yes</li></ul> |
 
