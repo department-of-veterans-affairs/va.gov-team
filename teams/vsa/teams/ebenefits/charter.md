@@ -31,7 +31,6 @@ Define the landscape of features to be worked on, optimize and migrate as necess
 |Team Product Manager   |Jason Wolf                          |
 |Back End Engineer      |Kathleen Crawford                   |
 |Front End Engineer     |Micah Chiang                        |
-|UX Design              |Arricka Lewis                       |
 |Design Researcher      |James Adams                         |
 
 ### **Workflow + Cadence**
