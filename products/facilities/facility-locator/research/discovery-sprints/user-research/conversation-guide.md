@@ -47,6 +47,8 @@ Now, let's take a look at the list of facilities. Which location would you selec
 
 Go ahead and select the location you would visit. Scroll through this screen and talk me through what information would be helpful for your upcoming visit.
 
+[Follow up if they didn't choose "Find VA Locations" in header] Will you return to the homepage? Let's say you don't have a medical situation, but need to visit a VA facility for another reason, how would you do that from this page?
+
 ## Post-test Questions - 10 min
 I have just a few more questions to ask you before we finish up today.
 - From a scale of 1 to 5 (1 being extremely dificult, 5 being extremely easy), how would rate the ease of finding the VA facility you needed?
