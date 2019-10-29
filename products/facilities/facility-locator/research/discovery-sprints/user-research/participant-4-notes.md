@@ -87,7 +87,7 @@ How would you choose the VA location that you would would want to visit?**
 *Response: That little map, right here? That's absolutely wasted space.*
 
 **Is there anything we could use that space for or add info that would be helpful?**
-*Response: If I were new, had no idea, it doesn't even show the main road to get there. It should show Sam's Club. It's east of Sam's Club, you can see it from the interstate. I could see it from there. It would give you a point that most people know about, landmark or recognized. It's getting really developed. Drew Brees sports bar cost 1.3 million dollars for 7 acres. It's up and coming everything there. The one acre for Denny's was $700K. That's bizarre, someone has a racket. It will be an all new (PII) down there in the next 10 years. 
+*Response: If I were new, had no idea, it doesn't even show the main road to get there. It should show Sam's Club. It's east of Sam's Club, you can see it from the interstate. I could see it from there. It would give you a point that most people know about, landmark or recognized. It's getting really developed. Drew Brees sports bar cost 1.3 million dollars for 7 acres. It's up and coming everything there. The one acre for Denny's was $700K. That's bizarre, someone has a racket. It will be an all new (PII) down there in the next 10 years.*
 
 **That's good to know...a landmark would be helpful to signal.** 
 *Response: Right. It doesn't even show the double roundabout near Sam's Club. The first time you go through those roundabouts, it freaks you out.*
