@@ -159,18 +159,17 @@ The goal of the MVP is to improve usability of VAOS by rewritting the tool on VA
 
 #### Acceptance Criteria
 To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mostly mirrors the functionality of the existing VAOS tool
-- Veterans can see details for their confirmed, pending, and past appointments
+- Veterans can see details for their pending & confirmed appointments
 - Veterans can cancel an existing confirmed or requested appointment
-- Veterans can directly schedule a new appointment at the last clinic where they were seen
+- Veterans can directly schedule a new Primary Care or Mental Health appointment at clinic where they were seen previously
 - Veterans can request to schedule a new appointment for a type of care at a participating VA facility
-- Veterans can request to schedule a new appointment for Community Care for a given type of care when eligible
-- Veterans will receive confirmation and status update notifications via email (and have means of opt-out either in the email or via their VA.gov account).
-- Veterans can message a scheduling clerk at time of requesting an appointment
-- Veterans can easily identify the 'next action' when the care they're seeking isn't available to them
+- Veterans can request to schedule a new appointment for Community Care for a given type of care when eligible based on static code or drive time
+- Veterans can message a scheduling clerk during the process of requesting an appointment
+- Preferred appointment times are captured for both requests and self-scheduled appointments so that the VA can continue to track wait times
 
 Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to handle:
-- Authentication with necessary VAMF services
-- Sending the front end data as efficiently as possible, in a schema that meets FE UX requirements
+- Authentication with necessary VAMF services (via integration with User Service)
+- Sending the front end data in a format that matches existing VAMF services as closely as possible
 
 We will also need to create content that will introduce the scheduling tool and give veterans actionable next steps in cases where they hit a wall (e.g., they're not registered anywhere, the care they want isn't avaialble at their registered sites, their site isn't configured for online scheduling, etc.).
 
