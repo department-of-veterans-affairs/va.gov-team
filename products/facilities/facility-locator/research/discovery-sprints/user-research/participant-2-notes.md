@@ -66,13 +66,11 @@ A lot of the specialty stuff they con't do at the facility. An hour away or some
 
 **Using the list on the left, (...)** *Response (...) 76 results....I would go down here and see which one is the closest. The closest is 60 miles. I would just go there and look for the closest one.*
 
-**Click on it from this screen, scroll through the presented info to learn (...)** *Response: I see the hours.....urgent care, primary care, ok, appointment wait time. That's pretty good, it tells you for gastro, why would I go there, it would take me 3 months to be seen. That's why they send me to the VA hospital. There aren't too many of these guys. Derm (..). Mental health, they don't like to have us wait for that. Existing patient wait times. So people already in the system still have 49 days to go. That's why they came out with this community care. More than (...)days, more than (...) miles (...) more local place, typically a Va Hospital. They give me the paperwork to take to them. It usually works out pretty good. (...)veterans satisfaction (...)this would be interesting. (...) Everyone is pretty happy with that. Specialty care, 93% they have to wait (...) seems to give me more information than (...) So this, this is good. This here. This VA.gov gives me a whole lot of things ohter than health care, I see benefits (...)*
+**Click on it from this screen, scroll through the presented info to learn (...)** *Response: I see the hours.....urgent care, primary care, ok, appointment wait time. That's pretty good, it tells you for gastro, why would I go there, it would take me 3 months to be seen. That's why they send me to the VA hospital. There aren't too many of these guys. Derm (..). Mental health, they don't like to have us wait for that. Existing patient wait times. So people already in the system still have 49 days to go. That's why they came out with this community care. More than (...)days, more than (...) miles (...) more local place, typically a Va Hospital. They give me the paperwork to take to them. It usually works out pretty good. (...)veterans satisfaction (...)this would be interesting. (...) Everyone is pretty happy with that. Specialty care, 93% they have to wait (...) seems to give me more information than (...) So this, this is good. This here. This VA.gov gives me a whole lot of things other than health care, I see benefits (...)*
 
-**In regard to this location, what would you want to know about the physical location, ramps, accessibilit criteria, the way it looks, 
-when you actually go?** *Response: Directions would (...)and I say(...) ramp available, wheelchairs, stuff, oh that's interesting because )...)just had cataracts done. VA paid for me to go to the regular doctor. (...) But he was a Vietnam veteran too so he said he would see what he can do (...). I don't know, I don't see here, *...)I need a wheelechair, ramp, I don't see it (...) health care services. So if I (...)for me rightnow, that doens't really (...) Never know what it's in the future. That community care (...)
-Mission care act (...) I don't really see. How do I know if there is a ramp, if my wife is taking me, how will she get me into this place?*
-
-*If I find the Buffalo (...)*
+**In regard to this location, what would you want to know about the physical location, ramps, accessibility criteria, the way it looks, 
+when you actually go?** *Response: Directions would (...)and I say(...) ramp available, wheelchairs, stuff, oh that's interesting because )...)just had cataracts done. VA paid for me to go to the regular doctor. (...) But he was a Vietnam veteran too so he said he would see what he can do (...). I don't know, I don't see here, (...) I need a wheelechair, ramp, I don't see it (...) health care services. So if I (...)for me rightnow, that doens't really (...) Never know what it's in the future. That community care (...)
+Mission care act (...) I don't really see. How do I know if there is a ramp, if my wife is taking me, how will she get me into this place? If I find the Buffalo (...)*
 
 **You'll have to go back to the previous tool.** 
 (...)
@@ -91,7 +89,7 @@ I'd to call my local (..)*
 I'd love to know generally, how would you rate your experience from 1 to 5 (1 being extremely dificult, 5 being extremely easy), how would rate the ease of finding the VA facility you needed?** *Response: So the whole tool?*
 
 **Specifically finding a location**
-*Response: Ok, well, I would prbably say like (...)talking or I'm unhappy with the map (...)ok...4.* 
+*Response: Ok, well, I would probably say like (...)talking or I'm unhappy with the map (...)ok...4.* 
 
 **A 4? You're locking it in?**
 
