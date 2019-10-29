@@ -5,10 +5,10 @@
 ### Summary
  The "about-disability-ratings" page contains information on how veterans can determine their compensation based on their disability rating.  The page consists of several paragraphs of information, and an expandable disability calculator.  The logic for the calculator is simple -- it averages the disability rating from n number of disabilities added by the user.  The minimum number of disabilities to be averaged is two.
 ### Proposed Scenarios
-1. Verify the "About disability ratings" page is accessible from the "VA disability compensation" page
-1. Verify the "About disability ratings" page text matches requirements
-1. Verify links from the page including, "review our combined rating table" and "Compensation 101: How did I get this rating?"
-1. Verify the "VA combined disability rating calculator" performs the following functions:
+1. [Verify](adr-tc1-text-content.md) the "About disability ratings" page is accessible from the "VA disability compensation" page
+1. [Verify](adr-tc2-verify-link-from-parent.md) the "About disability ratings" page text matches requirements
+1. [Verify](adr-tc3-verify-links-from-page.md) links from the page including, "review our combined rating table" and "Compensation 101: How did I get this rating?"
+1. [Verify](adr-tc4-verify-rating-calculator.md) the "VA combined disability rating calculator" performs the following functions:
     * Enter numerical input into the "Disability rating" input box
     * Enter text input into the "Optional description" input box
     * Add rating -- creates a new row of fields for disabilty rating entry including "Disability rating", "Optional description", and "Delete" button
