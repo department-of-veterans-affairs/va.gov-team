@@ -14,18 +14,18 @@
     * Add rating -- creates a new row of fields for disabilty rating entry including "Disability rating", "Optional description", and "Delete" button
     * Calculate button -- calculates the average disability rating based on user inputs
     * Delete button -- removes the row from the calculator (unable to remove either of the default 2 rows)
+    * Clear all button removes all input from the numerical and text input boxes as well as removing all added rows
     * After the "Calculate" button has been used -- 
         * A new link labeled "Find your monthly payment amount" is displayed
         * A new block of text explaining the calculated number
     * The "Find your monthly payment amount" link sends the user to "Disability compensation rates" page
-1. Verify "Clear all" button removes all input from the numerical and text input boxes as well as removing all added rows
     
 ### Risk Analysis
 | Story Reference | Limitation | Risk | Impact |
 | -------------- | ------------- | --------------- | ------------- |
 | N/A | Given that no formal requirements are available for this page, test case scenarios have been based off the current functionality displayed by exploratory use of the page. | Current functionality does not match the required functionality. | Test design is incorrect, and the page does not function as intended by stakeholders |
 ### Test Coverage
-Manual test cases wil be used to verify all scenarios described under the Proposed Scenarios section.  Updated and current versions of the following browsers will be used --
+Manual test cases will be used to verify all scenarios described under the Proposed Scenarios section.  Updated and current versions of the following browsers will be used --
 1. Chrome
 1. Firefox
 1. Edge

@@ -15,3 +15,4 @@
 | 9. | Enter a string into the first row's "Optional description" box | The text box is populated with a description | - | - |
 | 10. | Enter a string into the second row's "Optional description" box | The text box is populated with a description | - | - |
 | 11. | Click the calculate button | A message with the text, "Your VA disability rating" is displayed with the calculated number below it. | - | - |
+| 12. | Click the clear all button | Row 1's "Disability rating" and "Optional description" boxes are empty.  Row 2's "Disability rating" and "Optional description" boxes are empty. | - | - |
