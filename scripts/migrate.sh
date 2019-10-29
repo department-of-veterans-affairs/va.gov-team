@@ -13,7 +13,7 @@ class SourceContent
     REPO_PATH = "../vets.gov-team"
     def initialize(url:)
         @url = url
-        @full_path = url.delete_prefix(CONTENT_URL)
+        @full_path = URI.decode(url.delete_prefix(CONTENT_URL))
         @path = File.dirname(@full_path)
         @name = File.basename(full_path)
         @ext = File.extname(full_path)
@@ -27,7 +27,7 @@ class TargetContent
     REPO_PATH = "."
     def initialize(url:)
         @url = url
-        @full_path = url.delete_prefix(CONTENT_URL)
+        @full_path = URI.decode(url.delete_prefix(CONTENT_URL))
         @path = File.dirname(@full_path)
         @name = File.basename(full_path)
         @ext = File.extname(full_path)
@@ -42,7 +42,8 @@ CSV.foreach(ARGV[0], headers: true) do |row|
     target = TargetContent.new(url: row[3])
 
     puts "Copying #{source.copy_path} to #{target.copy_path}"
-    # FileUtils.copy_file(source.copy_path, target.copy_path)
+    FileUtils.mkdir_p(File.dirname(target.copy_path))
+    FileUtils.copy_file(source.copy_path, target.copy_path)
 
     puts "...scanning for files to update to new URL"
     md_files.each do |file|
