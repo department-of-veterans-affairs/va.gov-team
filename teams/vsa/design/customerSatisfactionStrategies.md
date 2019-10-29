@@ -7,8 +7,8 @@ Note that the strategies outlined below are not stand-alone strategies. Several 
 * How do we know we’re focusing on the correct features when it comes to user needs?
 * How do we know we’re “succeeding” in improving experiences for users?
 * How can we get a more timely / clearer picture of user flows, where they start and end, and hiccups along the way?
-* We have 6 teams that are being treated as “unique space”/seperate products” even though they are not working on completely unique products / flows
-** How do we “unify the team” so everyone feels like they are working towards common goals and talk to each other more about potentially overlapping initiatives?
+* We have 6 teams that are being treated as “unique space”/seperate products” even though they are not working on completely unique products / flows 
+    * How do we “unify the team” so everyone feels like they are working towards common goals and talk to each other more about potentially overlapping initiatives?
 
 ## Strategies to Measure Customer Satisfaction
 ### Top Task Identification
