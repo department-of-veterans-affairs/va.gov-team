@@ -86,4 +86,9 @@ Creating session continuity across sites will lower the barriers to entry to acc
 *   reduced bounce rate for MHV Create Account page and eBenefits login page
 *   reduced calls to help desk about login-related issues
 
+**Roadmap**
 
+* SSOe prototype: We identified some implementation work for IAM, which is currently in development 
+*   We deployed an Okta-MVI hook endpoint and completed a sample end to end authentication flow
+*   We are working with Okta to address an identified issue: The AuthnContext value (returned via ID.me in the SAML response) is being dropped in the response from Okta to VA.gov but is necessary context to determine the appropriate login flow	
+*   Discuss VA.gov/sign-in page to understand requirements
