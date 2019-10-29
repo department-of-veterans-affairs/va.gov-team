@@ -20,6 +20,38 @@ Enable VA to build digital tools at scale that improve Veterans’ lives.
 Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
 ### Product Portfolio:
+- Infrastructure
+  - Networking 
+  - Servers
+- CI/CD pipeline
+  - Jenkins
+  - Ansible
+  - Configuration 
+  - BRD (Build, Deploy, Release)
+- Monitoring and Alerting
+  - Prometheus
+  - Grafana
+  - Cloudwatch 
+  - Infrastructure Postmortems 
+  - Infrastructure oncall/ Incident Response 
+  - PagerDuty Account Management
+- Configuration Management/Automation
+  - Prod, Staging, Dev 
+  - Terraform
+- Access Management (VA.gov)
+  - Github Teams 
+  - SOCKS Proxy 
+  - Jumpboxes 
+- Environment connectivity
+  - AWS / VAEC 
+  - Forward Proxy 
+  - Reverse Proxy
+- Technical Compliance Issues
+  - Nessus and WASA scans 
+  - Ensuring compliance with documentation 
+  - SSL configuration
+
+
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Roadmap:
