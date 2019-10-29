@@ -10,5 +10,4 @@ Placeholder for Analysis of Rainbow Team's 21-686c discovery and user reseach an
 
 ### Current eBenefits 21-686c Implementation
 [Screen Caps of Current System -- Partial Screens](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/eben-screens)
-[Current System Product Assessment](https://github.com/department-of-veterans-affairs/vets.gov-
-team/blob/master/Products/Disability/Declare%20Dependent%20686/Discovery/basic-product-evaluation.md)
+[Current System Product Assessment](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Discovery/basic-product-evaluation.md)
