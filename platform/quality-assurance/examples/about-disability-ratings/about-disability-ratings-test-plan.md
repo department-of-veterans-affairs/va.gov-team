@@ -7,7 +7,7 @@
 ### Proposed Scenarios
 1. Verify the "About disability ratings" page is accessible from the "VA disability compensation" page
 1. Verify the "About disability ratings" page text matches requirements
-1. Verify "Compensation 101: How did I get this rating?" link below the calculator links to a YouTube hosted video under the "Veterans Benefits Administration" account
+1. Verify links from the page including, "review our combined rating table" and "Compensation 101: How did I get this rating?"
 1. Verify the "VA combined disability rating calculator" performs the following functions:
     * Enter numerical input into the "Disability rating" input box
     * Enter text input into the "Optional description" input box
