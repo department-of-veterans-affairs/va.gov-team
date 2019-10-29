@@ -2,6 +2,7 @@ Placeholder for Analysis of Rainbow Team's 21-686c discovery and user reseach an
 
 ### General Research
 [User Flow Through Vets.gov, May 2019](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Discovery/Meetings/Research/Current%20user%20flow%20through%20Vets.gov.md)
+
 [Introduction & Technical Overview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Discovery/Meetings/686%20Kickoff%203-16-18.md)
 
 ### Usability Research / Testing
