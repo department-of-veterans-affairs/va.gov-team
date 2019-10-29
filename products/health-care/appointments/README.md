@@ -214,7 +214,7 @@ Better trust and satisfaction with the VA. More appointments scheduled and reque
 ## Status
 - In active discovery and development
 - Team onboarding onto VSP
-- Phased rollout to begin November
+- [Phased rollout](product/phased-rollout-plan.md) to begin November
 
 ## How to Access and Test
 - Link: 
