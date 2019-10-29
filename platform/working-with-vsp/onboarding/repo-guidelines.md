@@ -38,7 +38,7 @@ This area includes information on all teams working on the platform.
 - Examples of content/files for this area include team charters, org charts, project planning information, workflow documents, etc. 
 - All teams and team members will contribute to this area. 
 
-### <a id="public-vs-private"></a>Public versus Private
+## <a id="public-vs-private"></a>Public versus Private
 - All content related to development on VA.gov belongs in the public `va.gov-team repository`. 
 - However, **content that is sensitive to individuals or VA, for privacy and/or security reasons, should be stored in the `va.gov-team-sensitive`** repo.
 - Sensitive content generally includes:
@@ -52,7 +52,7 @@ This area includes information on all teams working on the platform.
 
 ## <a id="naming-guidelines"></a>Guidelines for Creating and Naming Folders and Files
 
-### F## <a id="naming-conventions"></a>older and File Naming Conventions
+## <a id="naming-conventions"></a>Folder and File Naming Conventions
 When  naming a new folder or markdown file in this repo, please adhere to the guidelines below.  This helps to keep our repo file URLs short and readable as well as ensure the repo can be cloned easily without errors. <br>
 
 *While these are specific to GitHub folders and markdown files, these guidelines are good rules to follow with any file uploaded to the repo as well.*
@@ -80,7 +80,7 @@ When  naming a new folder or markdown file in this repo, please adhere to the gu
 - When using dates in your file name, best practice is to use YYYYMMDD format for chronological sorting. 
   
 
-### ## <a id="create-folders"></a>When to Create Child Folders
+## <a id="create-folders"></a>When to Create Child Folders
 When you are managing and organizing your files, you may be tempted to create sub-folders for every different type of file you have in order to sort and organize them.  Sometimes this can be a good solution, but it can also create a situation where content is more difficult to find.  
 
 ***If you feel you need a new folder directly below /platform, /products/ or /teams, please reach out for guidance in the #vfs-product-support or #vsp-content-ia channels.***
@@ -95,7 +95,7 @@ When you are managing and organizing your files, you may be tempted to create su
 - If you do create a new folder, follow the file and folder naming conventions provided.  Do not repeat descriptive words in child folders.  For example, if you want a folder for all design files under your `health-care/application` product, it does not need to be named `health-care-application-design`, just `design` is sufficient. 
 
 
-### ## <a id="large-files"></a>File Storage and Large Files
+## <a id="large-files"></a>File Storage and Large Files
 - If you are uploading files such as jpegs, xls, pdf, etc, which are large in size, please utilize [git-lfs](https://git-lfs.github.com/), do not upload through the windows GH interface. 
 - If you will be uploading a lot of external files, it can be helpful to create a `files` folder in your area to keep your key folders clean and keep key documentation findable.  The files can then be linked to from a markdown file so they are easily findable. 
 
