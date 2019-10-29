@@ -38,6 +38,7 @@ This area includes information on all teams working on the platform.
 - Examples of content/files for this area include team charters, org charts, project planning information, workflow documents, etc. 
 - All teams and team members will contribute to this area. 
 
+
 ## <a id="public-vs-private"></a>Public versus Private
 - All content related to development on VA.gov belongs in the public `va.gov-team repository`. 
 - However, **content that is sensitive to individuals or VA, for privacy and/or security reasons, should be stored in the `va.gov-team-sensitive`** repo.
@@ -96,12 +97,27 @@ When you are managing and organizing your files, you may be tempted to create su
 
 
 ## <a id="large-files"></a>File Storage and Large Files
-- If you are uploading files such as jpegs, xls, pdf, etc, which are large in size, please utilize [git-lfs](https://git-lfs.github.com/), do not upload through the windows GH interface. 
-- If you will be uploading a lot of external files, it can be helpful to create a `files` folder in your area to keep your key folders clean and keep key documentation findable.  The files can then be linked to from a markdown file so they are easily findable. 
+To improve site performance and conserve storage space, VSP requires that **large files (3MB or greater)** be uploaded to the va.gov-team repository only via the [Git Large File Storage (LFS) extension](https://git-lfs.github.com/). Git LFS replaces large files with text pointers inside team and product folders, while storing the file contents on a remote server.  
+
+Large files may include the following:
+
+- formatted documents, such as Microsoft Word, Excel, PowerPoint or PDFs
+- design documents, such as Photoshop, InDesign or Sketch files
+- audio files, such as mp3 files
+- video files, such as .mov, .m4a or .mp4 files
+
+Your development resource should be able to upload large files to LFS using the GitHub command line or desktop app on the team’s behalf. 
+
+### Please do not upload large files via the web interface. 
+
+If you have questions about how to upload files via Git LFS, we recommend consulting this [tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial). The content/IA team can connect your team with additional support if needed.
+
+If your team will be uploading a lot of external files, it can be helpful to create a ‘files’ folder in your team or product area to keep your key folders free of clutter. The files can then be linked to from a Markdown file so they are easily findable.
 
 
 ## <a id="maintainance"></a>Maintaining this repo
 To ensure this repo provides clean and helpful documentation, a process for ongoing maintenance and review  will be needed.  This may include implementing a standard archiving process, general governance to maintain the repo's integrity, reviews/audits for look for sensitive info, etc.  
+
 
 ## <a id="questions"></a>Questions
 If you have any questions about using this repo, please don't hesitate to reach out to the VSP team through `#vfs-platform-support` or `#vsp-content-ia`. 
