@@ -55,9 +55,9 @@
 
 **Ok, if you look at the map on the right, how would you select the location?** *Response: First I would look at the list on the left. I don't think the map is zoomed in enough based on my entering the zip code... instead of the big zoomed out...I mean, it's nice to know there are so many locations. But since I.... But since there's nothing to the north... As a veteran knowing you're looking for help, when they're looking for help, since they usually don't ask for help, when they do, it's because they don't think they can handle it and we can handle a lot. So since they are reaching out, they need help relatively quickly....This many results showing up on the map, it's reassuring that there are so many places we can go.*
 
-**Go ahead and select the location you would visit. Scroll through this screen and talk me through what information would be helpful for your upcoming visit. What would make you choose it from the list?** *Response: When I first started...just glancing at the list, I saw Newport Ritchie and I know this one. Ooops (...)*
+**Go ahead and select the location you would visit. Scroll through this screen and talk me through what information would be helpful for your upcoming visit. What would make you choose it from the list?** *Response: When I first started...just glancing at the list, I saw (PII) and I know this one. Ooops (...)*
 
-**You can just click the back button** *Response: This is what happens when you ask infantry man to play with computers. This is what I could see. I know Newport Ritchie isn't very far away. Maybe location then.*
+**You can just click the back button** *Response: This is what happens when you ask infantry man to play with computers. This is what I could see. I know (PII) isn't very far away. Maybe location then.*
 
 **Is there anything else that would help you make the decision to visit?** *Response: Um, if there was a place to put in your address. I don't know that many poeple would use that, if you could see your location compared to where the places are. The distance thing is huge. I have mobility issues, two small children and my wife and we only have one vehicle. So if I could see visually on the map, like, that's where that clinic is or that treatment facility, I could plan out my day, plan out my vehicle. It would be a visual reference instead of the distance numbers.*
 
