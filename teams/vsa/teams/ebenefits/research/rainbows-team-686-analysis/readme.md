@@ -11,6 +11,8 @@ Usibility testing was conducted using static prototypes of the Vets.gov implemen
 
 [Research Conducted June 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018)
 
+In June 2018, follow-up usability testing was conducted using the 21-686c form deployed to Vets.gov staging. Conversation guides were created for Veteran and non-Veteran participants. There are notes for sessions with four participants. A Research Readout document presents several key findings regarding the usability of the 686 form in staging, as well a general sentiment about the dependents workflow.
+
 ### Current eBenefits 21-686c Implementation
 [Screen Caps of Current System -- Partial Screens](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/eben-screens)
 
