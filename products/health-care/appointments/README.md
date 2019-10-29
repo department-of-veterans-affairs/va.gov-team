@@ -22,6 +22,7 @@
 - [Requirements and Constraints](#requirements-and-constraints)
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
+    - [MVP](#mvp-implementation)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 
