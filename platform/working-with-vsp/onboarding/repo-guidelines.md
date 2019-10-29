@@ -3,12 +3,12 @@ Determine where your file should go and how to name them...
 
 - [Where to put your files](#where)
   - About each area of the this repo
-  - [Public versus private repo](##public-vs-private)
+  - [Public versus private repo](#public-vs-private)
 - [Guidelines for creating and naming files and folders](#naming-guidelines)
-  - [Naming conventions](##naming-conventions)
-  - [Creating new folders](##create-folders)
+  - [Naming conventions](#naming-conventions)
+  - [Creating new folders](#create-folders)
   - README.md files
-  - [Uploading large files](##large-files)
+  - [Uploading large files](#large-files)
 - [Maintaining this repo](#maintainance)
   - Governance of usage
   - Archiving files
