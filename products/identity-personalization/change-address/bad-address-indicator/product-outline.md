@@ -102,6 +102,12 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## Requirements
 
+### Goals
+
+1.  **Effective communication method** - The communication method needs to happen as quickly as possible after we realize a Veteran has been flagged for a bad address.  The communication needs to be clear about what is happening and next steps for the Veteran.
+2.  **Messaging** - We need to make sure the messaging is displayed in all appropriate areas and it is easy for the Veteran to understand.
+3.  **Wayfinding** - We should make it easy for the Veteran to navigate to their Profile page to update their mailing address.
+
 ## Constraints
 - We may not be able to use email to notify the Veteran of their bad mailing address status
 
