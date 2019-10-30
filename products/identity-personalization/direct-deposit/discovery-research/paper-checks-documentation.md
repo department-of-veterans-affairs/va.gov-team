@@ -1,9 +1,11 @@
-### Paper checks discovery correspondence, 4/22 – 4/24
+# Paper checks discovery 
+
+## Correspondence, 4/22 – 4/24
 
 All info via correspondence with Frank Bryceland/Sarah Haddock/Adam Kinder/Melissa Rebstock
 
 - Paper checks are issued for VA compensation. According to Sarah Haddock, there are 100,000+ paper checks still issued by the VA every month.
-- People can switch between paper checks and direct deposit, but the exact mechanism for switching back and forth is currently unclear since this is not managed by eBenefits.
+- People can switch between paper checks and direct deposit, but the exact mechanism for switching back and forth is currently unclear since this is not managed by eBenefits (**Note: See additoinal discussions below**).
 - According to Camille Tello, it is OK for people to switch from paper check to direct deposit, but we should discourage and not make clear a mechanism to go back to paper checks if someone already has direct deposit.
 - According to Adam Kinder:
   - People get signed up for direct deposit via the disability application process. If they want to opt-in to paper checks, they have to go through the Department of Treasury to do so. According to Adam:
@@ -12,8 +14,26 @@ or by telephone at 1-800-333-1795. If you elect not to enroll, you must contact 
   - To change an address for a paper check or to cancel direct deposit, someone has to [fill out this form](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-20-572-ARE.pdf) and mail it to their regional/intake office.
   - If people get paper checks and then want to opt in to direct deposit, they have to fill out this form](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-24-0296-ARE.pdf) and mail it to their regional/intake office. **They can not just go on to eBenefits and add direct deposit information. This will not cancel their paper check.**
   - People who receive paper checks from the VA should call 1-800-827-1000 OR go to a VA regional office to manage that account.
+  
+## Additional discussions 10.29.19 – 10.30.19
 
-### What we should communicate on VA.gov
+We recently revisted the paper check <> direct deposit issue because we felt that we had not thoroughly confirmed that when paper checks are turned on, direct deposit is turned off (and vice versa). Via David Hooper at VBA, we have confirmed this. 
+
+Via an email on 10.30.19: 
+
+>_Please see the attached information. Basically, anyone from the National Call Center or the Regional Office that has access to the Share application can make these updates._
+>
+> _In Share, user will select CADD command (or CFID if fiduciary is involved) and get to the 601 screen._
+> 
+> _In the DD/EFT box, if they are adding or changing dd/eft information, they would check the Change box and complete the fields with the proper information._
+>
+> _After making the changes and hitting Update, if there is a check mark in the Use for Payment Address box, they will receive a prompt that dd/eft and payment address are mutually exclusive and they’ll have to manually remove the check mark and hit Update again._
+>
+> _If DD/EFT information already exists and they now want paper checks, user will select CADD (or CFID) and on this screen will put a check mark in the Cancel box and hit Update. That will clear out the bank information and re-set the Use for Payment Address check mark._
+
+![Screenshot]()
+
+## What we should communicate on VA.gov
 
 We should add the following content to [this page](https://www.va.gov/change-direct-deposit-and-contact-information/):
 
