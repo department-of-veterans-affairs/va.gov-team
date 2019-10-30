@@ -3,54 +3,23 @@
 ## 10/30/2019	1pm – 2pm
 ## Introduction - 5 min
 
-Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how the VA.gov website can help you find VA facilities.
-
-Before we start, a few things I want to mention:
-
-- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- In this session, **we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **If for any reason and at any time you want to stop the session**, please let me know. You will not be penalized in any way if we need to stop.
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
-
-I am on a company asset, and am not authorized to let an external entity view my computer (there is no guarantee that my files are protected)
-is this a problem for the study?
-
-
-**Once you are recording:** I want to verify that you are okay with me recording screen and audio today.
+*From the Zoom chat: I am on a company asset, and am not authorized to let an external entity view my computer (there is no guarantee that my files are protected) is this a problem for the study?*
+ - As a result, the decision was made to not screen share but to conoduct the interview verbally only. The Participant gave consent to record the audio. 
 
 ## Background - 5 min
 
-**Think back to a recent time when you visited a VA facility. If you're comfortable, will you describe that situation briefly?**
-- Can you tell me where you went?
-- What type of facility was it (urgent care, emergency, community care, etc)?
-- Do you remember how you learned about that facility and what made you choose to go to it?
-- Is there anything you wish you would have known about the location before your visit?
+**Have you ever looked up a facility on VA.gov?**
+*Response: Only infrequently for information as I do not use the VA for healthcare. Probably looking for info on finding facilities before. 
 
-Have you ever looked up a facility on VA.gov? 
-[If yes] What were you looking for? Did you find what you needed?
-[If no] How could a facility locator be helpful to you on VA.gov?
+**Can you remember the last time you did that? Actually, let me back up. I apologize for jumping right in...(...)
+Since we're not doing the full session, this won't be the usual 30 minutes. We want to hear your honest opinions. If for any reason and at any time you want to stop the session, please let me know. Are you comfortable if I record the audio as we talk today? It will be deleted after the notes are completed.**
+*Response: yes*
+**And just to verify on record, are you ok with me recording the audio?**
+*Response: I am ok recording.*
 
-**(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
-
-
-only infrequently for information as I do not use the VA for healthcare
-looking for info on finding facilities before
-
-can you remember the last time you did that?
-not doing the full session, won't be the usual 30 minutes
-if you need to stop
-can I record the audio? yes
-verifying on record
-I am ok recording
-
-When did you use it
-I'm on the webpage right now. I'm using the location finder
-On the mapI'ms seeing different icons which I ghuess correspons ot differenst services at the facilities
-There are many in my area
-At first glnce it's clear that some are medical centers
-cemeteries are clear too
-I have to guess at what the other icons are
-I don't see a key or anything 
+**When did you use VA.gov?**
+*Response: I'm on the web page right now. I'm using the location finder.On the map I'm seeing different icons which I guess correspond to different services at the facilities.There are many facilities in my area. At first glance it's clear that some are medical centers.
+Cemeteries are clear too. I have to guess at what the other icons are, I don't see a key or anything.* 
 
 How did you get to the location finder
 well, at the header of the website, there are two drop down menus and find a va location
