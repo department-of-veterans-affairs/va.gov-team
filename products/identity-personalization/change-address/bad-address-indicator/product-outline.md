@@ -125,6 +125,9 @@ As the authenticated experience team, we want to be able to do the following:
 - Reduction in the amount of returned USPS mail
 - Reduced errors in updating mailing address
 
+Other metrics are qualitative:
+
+1. Can Veterans quickly find how to update their mailing address?
 
 ### Objective
 - 
