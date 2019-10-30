@@ -31,7 +31,7 @@ Via an email on 10.30.19:
 >
 > _If DD/EFT information already exists and they now want paper checks, user will select CADD (or CFID) and on this screen will put a check mark in the Cancel box and hit Update. That will clear out the bank information and re-set the Use for Payment Address check mark._
 
-![Screenshot]()
+David provided a screenshot that showed how the paper check/direct deposit info is coupled in the Share system, but I'm omitting that since Idk if that screenshot is sensitive information. However, I feel that is sufficient evidence regional office employees are able/supposed to update paper check/direct deposit info at the same time when someone is switching back and forth. That being said, I can't speak to whether this system ever fails or if there is ever user error on the part of the regional office where someone updates info for paper checks without canceling direct deposit (or vice versa), but I think we can confidently say that these things are/should be happening at the same time, and if they are not, this is user error on the VA's part and there is probably nothing we can do from a VA.gov perspective to prevent this/reflect this in the UI.
 
 ## What we should communicate on VA.gov
 
