@@ -87,6 +87,7 @@ As the authenticated experience team, we want to be able to do the following:
 - Veterans do not know they have had mail returned back to the VA.  They may think it's late or there was some other type of error.
 - Notifying Veterans quickly after we receive returned mail will make it obvious to them that the VA takes this situation very seriously and will quickly act to rectify.
 - Displaying messaging (as a modal alert or an inline alert) in specific areas on VA.gov will be an effective method to convey information about the Veteran's bad mailing address status and what action they can take.
+- Displaying the bad address we have on file in the modal could be helpful to the Veteran.
 - If our process of communication is clear and the messaging is effective, we can provide a better Veteran experience as well as save the VA and taxpayers money by limiting the returned mail at the VA.
 
 
@@ -97,7 +98,8 @@ As the authenticated experience team, we want to be able to do the following:
 3. Will Veterans know they need to sign in to update their mailing address?
 4. Will Veterans know where to go to update their mailing address?
 5. Is it better to display the messaging in a modal intercept, after sign in on the VA.gov homepage - or do we utitlize a more passive method and display inline alerts on the Profile page (and various other areas)?
-6.  Should we consider a threshold value for returned mail items, in order to escalate the intensity of the messaging method? (Example:  if the threshold for returned mail items is 5, we may show a 'warning' alert the first 5 times mail is returned - after the threshold is reached we may escalete the messaging to an error status)
+6.  Can we personalize the modal message with the Veteran's bad address on file?  Can we personalize the messaging with what type of mail has been returned? (Example: pension check, prescription refills, meeting/appointment mailinings)
+7.  Should we consider a threshold value for returned mail items, in order to escalate the intensity of the messaging method? (Example:  if the threshold for returned mail items is 5, we may show a 'warning' alert the first 5 times mail is returned - after the threshold is reached we may escalete the messaging to an error status)
 
 
 ## Requirements
@@ -127,9 +129,11 @@ As the authenticated experience team, we want to be able to do the following:
 
 - The Bad Address Indicator is just an on/off flag and not associated with any threshold.
 
-- We have displayed modals on VA.gov
+- We have displayed modals on VA.gov.
 
-- There is a design system modal version that allows us to place a CTA button in order to guide the Veteran to the Profile page to update their mailing address
+- There is a design system modal version that allows us to place a CTA button in order to guide the Veteran to the Profile page to update their mailing address.
+
+- If the user is signed in we can display personalize messaging, for example we can show them the bad address we have on file.
 
 ## Decisions
 
