@@ -21,40 +21,23 @@ Since we're not doing the full session, this won't be the usual 30 minutes. We w
 *Response: I'm on the web page right now. I'm using the location finder.On the map I'm seeing different icons which I guess correspond to different services at the facilities.There are many facilities in my area. At first glance it's clear that some are medical centers.
 Cemeteries are clear too. I have to guess at what the other icons are, I don't see a key or anything.* 
 
-How did you get to the location finder
-well, at the header of the website, there are two drop down menus and find a va location
-I clicked on the header
+**How did you get to the location finder?**
+*Response: well, at the header of the website, there are two drop down menus and 'find a va location'. I clicked on the header.*
 
-when you clicked on that, did you allow your locatio from the browse
-no, typed it
-lookin at the map first and the icons there
-immed I typed in the zip code for reference and search all sfacilities, default and then search
+**hen you clicked on that, did you allow your location from the browser?**
+*Response: no, I typed it in. Looking at the map first and the icons there, immediately I typed in the zip code for reference and searched all facilities, as the default and then search. (....) Now I see that if I had gone to the drop down, there is a key for the symbols in the map. That's the only place that I am seeing that information. So, if I do just what I did, it's the fastest, and then zoom to narrow down the choices (...)*
 
-Now I see that if I had gon to the drop down, there is a key for th esymbols in the map. thats the only place thati am seeing that
-If I sdo wjust what I did, it's the fastest, and then zoom to narrow down the choices
+**I want to step back and ask about that last time you visited a physical location and what that experience was like.**
+*Response: I cannot recall.*
+**That's fine. So using this website, are you more incluined to use the map or list and why?**
+*Response:I think ordinarily I would use the map since I am in an urban environment so transportation is my first concern, like convenience and proximity. Second if I was looking for a specific service I would search by (...) I thought is would be by service I would pull that out (...)*
 
-I eant ot stp back and ask about that last time you civisted a physical location and what that experience waslike
-
-I cannot recall
-
-\That's fine
-
-So using this website are you more incluined to use th emap or list and why
-I think ordinarei us et he map since I am an urban env so transportation is first convern...convenience and prox
-Second if I was loking for a specific service I would search by (...)
-I thought is owuld be by service I would pull that out
-
-for the sake of this conversation, medical need...
-
-How ouwl dyou chooise one?
-sure if I needed a medical facility, I would just either look at proximity and then on the map I wpuould click on 
-I trie to click
-you find the bugg
-Backed me already out
-Map is gone
-refresh the page
-
-Gotcha. that's ordinateily, drag and drop since that didn't work
+**For the sake of this conversation, imagine that you have a medical situation that requires you to visit a local VA facility. If you used the website, how would you choose one?**
+*Response: Sure if I needed a medical facility, I would just either look at proximity and then on the map I would click on... I tried to click...*
+**You found the bug.**
+*Response: It backed me all the way out. The map is gone.*
+**Refresh the page.**
+*Response: Gotcha. That's ordinarily what I'd try to do, drag and drop. Since that didn't work
 Use the drop down, VA health, search, I hget the other options, it provides the phone numbers I assume calling the hotline would allow me to learn which opnes whill serve my needs
 Which page are you one
 VA find location page
