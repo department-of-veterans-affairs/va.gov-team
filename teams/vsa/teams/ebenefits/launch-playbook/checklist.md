@@ -4,7 +4,7 @@ The steps here are meant to provide a framework to build upon for each feature t
 **The more we are able to do before hand, the easier it will be for other teams.**
 
 ## Discovery
-- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
+- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/discovery-sprints/README.md)  
 - [ ] Schedule and attend an orientation of the new feature  
   - [ ] List endpoints or questions about endpoints
 

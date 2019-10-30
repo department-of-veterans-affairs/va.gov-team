@@ -1,11 +1,11 @@
 # Research/Designer End-to-End Checklist: Research Projects
 
 ## Pre-Research Checklist
-- [ ] Complete [research plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md)
+- [ ] Complete [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/research-plan-template.md)
 - [ ] Get a content review of anything you are putting in front of users
 - [ ] Have ready the item that you are testing (high or low-fidelity prototypes, web pages, card sort, tree test, etc.) 
 - [ ] Identify a fellow designer or researcher to moderate if you are not running your own research. Discuss your research plan with them.  
-- [ ] Create a conversation/discussion guide ([template here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/Conversation-guide-template.md)) to drive the research session. Review with your team. Add a link to your research plan and planning issues.
+- [ ] Create a conversation/discussion guide ([template here](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/planning/conversation-guide-template.md)) to drive the research session. Review with your team. Add a link to your research plan and planning issues.
 - [ ] At least 2 weeks out: Review your recruiting plan with UX Lead + Research Advisor and your PM. Goals of meeting include:
     - Recruiting Criteria
     - Recruiting Strategy (Guerilla? Perigean? Ripple? Internal VA team? VSO?) 
@@ -16,7 +16,7 @@
 - [ ] Determine how / if you are recording the session. (If in person, will you videotape? Audio record? GoToMeeting record?) 
 
 ## Before Sessions
-- [ ] At least 2 weeks out: work with your PM to create [planning issues](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/archive/Longform%20Planning%20Issue%20Template.md) in [Vets.gov team repo](https://github.com/department-of-veterans-affairs/vets.gov-team) for recruitment, research, and synthesis. These should be  tagged with "research" and the relevant team's tag, as well as the researcher, and other relevant parties (e.g. UX lead) *Include the link to your [research plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md).* 
+- [ ] At least 2 weeks out: work with your PM to create [planning issues](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/archive/Longform%20Planning%20Issue%20Template.md) in [Vets.gov team repo](https://github.com/department-of-veterans-affairs/vets.gov-team) for recruitment, research, and synthesis. These should be  tagged with "research" and the relevant team's tag, as well as the researcher, and other relevant parties (e.g. UX lead) *Include the link to your [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/research-plan-template.md).* 
 - [ ] As sessions are scheduled: 
     - Book GoToMeeting or Join.me channel (if using) on the [Google Calendar](https://calendar.google.com/calendar/embed?src=p7hvahcpk5f1p5e4mdeoodfs04%40group.calendar.google.com&ctz=America%2FNew_York) 
     - Set up [GoToMeeting](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/go-to-meeting-instructions.md) Room
@@ -53,7 +53,7 @@
 - [ ] Conduct [synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis)
 - [ ] Work with your team lead and PM to submit issues in Github
 - [ ] Submit any necessary helpdesk tickets
-- [ ] Update the [research history](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)!
+- [ ] Update the [research history](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/research-history.md)!
 
 ## Readouts
 - [ ] Iteratively build your readout deck so it’s not a mad dash at the end 

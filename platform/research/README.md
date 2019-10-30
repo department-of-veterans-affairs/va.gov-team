@@ -13,30 +13,30 @@ The Research points of contact are:
 ### Table of contents
 The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
 [Request or Do Research](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research)
-- [5 things designers and researchers wish you knew about research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/5things_designers_researchers_wish_you_knew.md)
-- [Veteran population demographics](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/veteran-population-demographics.md)
-- [Planning and Process Management](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/readme.md)
+- [5 things designers and researchers wish you knew about research](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/discovery-sprints/what-you-should-know-about-research.md)
+- [Veteran population demographics](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/discovery-sprints/veteran-population-demographics)
+- [Planning and Process Management](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/planning/README.md)
     - [Research process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2018_updated_research_process.md)
-    - [End-to-end Checklist](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/lead-researcher-checklist-research-projects.md)
+    - [End-to-end Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/planning/lead-researcher-checklist.md)
     - [Research plan template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md)
-    - [Conversation guide template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/Conversation-guide-template.md)
+    - [Conversation guide template](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/planning/conversation-guide-template.md)
     - [How to use Zenhub to track research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/How%20to%20Zenhub%20for%20Research%20Tasks.md)
     - [What is UAT?](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/d2c4b93cc8dc0c3c9fe12f35aa1239a1c5cfb80a/Practice%20Areas/Product%20Management/UserAcceptanceTesting.md#what-is-uat)
 - [Paperwork Reduction Act (PRA) and Recruiting](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting)
     - [PRA](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/PRA)
-    - [More info and guidance](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/PRA/paperwork-reduction-act.md)
+    - [More info and guidance](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/planning/what-is-paperwork-reduction-act.md)
 - [History of research projects on Veteran Facing Tools](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)
 - [Scheduling and running research sessions](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions)
-    - [How to take good session notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/How-to-take-session-notes.md)
-    - [How to be a good observer](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/howto-observer-instructions.md)
+    - [How to take good session notes](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/during-research/how-to-take-session-notes.md)
+    - [How to be a good observer](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/during-research/howto-observer-instructions.md)
     - [How to scrub PII and PHI from recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/how%20to%20scrub-PII-from-recordings.md)
-    - [How to use GoToMeeting](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/GoTo%20Meeting%20Instructions.md)
+    - [How to use GoToMeeting](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/during-researchgo-to-meeting-instructions.md)
     - [Session logistics email templates](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/session-logistics-email-templates.md)
 - [Synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis)
-    - [Session report template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/session-report-template.md)
-    - [How to do research synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/how-to-do-research_synthesis.md)
-    - [How to use Reframer](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/how-to-use-reframer.md)
-    - [What to do with recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/what-to-do-with-recordings.md)
+    - [Session report template](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/synthesis/session-report-template.md)
+    - [How to do research synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/synthesis/how-to-do-research_synthesis.md)
+    - [How to use Reframer](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/synthesis/how-to-use-reframer.md)
+    - [What to do with recordings](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/synthesis/what-to-do-with-recordings.md)
 
 ---
 
@@ -57,16 +57,16 @@ You've already gone through the overall onboarding, but here you'll find informa
 
 ### Onboarding: If you're new or need a refresher
 - [How we UX](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Vets.gov_HowWeUX_Jan2018.pdf)
-- [5 Things We Want You to Know about Research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/5things_designers_researchers_wish_you_knew.md)
+- [5 Things We Want You to Know about Research](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/discovery-sprints/what-you-should-know-about-research.md)
 
 ## Important Links
 ### Resources for All
 - [Research Process - Updated June 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2018_updated_research_process.md): This is the process and checklists for doing research. Should be led and managed by the designer on the team. 
 - [Complete Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md): Designers complete and maintain research plan. 
-- [Research Checklist](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/lead-researcher-checklist-research-projects.md): All the things that go into a research session. 
+- [Research Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/planning/lead-researcher-checklist.md): All the things that go into a research session. 
 - [History of Research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md): A working directory of completed research
 - [Catch up on readouts](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Research%20Team%20Treehouse/PI%20Readouts) from past program increments.
-- [5 Things Designers & Researchers Wish YOU Knew about Research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/5things_designers_researchers_wish_you_knew.md)
+- [5 Things Designers & Researchers Wish YOU Knew about Research](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/discovery-sprints/what-you-should-know-about-research.md)
 
 ## Research Folder Guide
 ### Request or Do Research
@@ -127,8 +127,8 @@ In this folder you will find:
 ### User Research
 ## User Research and Usability Testing
 - **Ripple**: Ripple is our Veteran database for research. We also have other options to recruit Veterans. Check in with UX/Research lead for support. 
-- **GoToMeeting**: This is the tool we use to conduct remote research sessions. Requires you to have the desktop version to use. Review the [GoToMeeting Instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/GoTo%20Meeting%20Instructions.md) before you use it. Check in with UX/Research Lead if you need support.
-- **Zoom**: This is the tool we use to conduct remote research sessions with users who rely on assistive devices like screenreaders. Review [Zoom Instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/Zoom%20Instructions.md) before you use it. Also check out the [Zoom Assistive Tech Checklist and Troubleshooting doc](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/zoom-screenreader-session-checklist.md) for tips about using Zoom with participants who rely on screen readers.
+- **GoToMeeting**: This is the tool we use to conduct remote research sessions. Requires you to have the desktop version to use. Review the [GoToMeeting Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/during-researchgo-to-meeting-instructions.md) before you use it. Check in with UX/Research Lead if you need support.
+- **Zoom**: This is the tool we use to conduct remote research sessions with users who rely on assistive devices like screenreaders. Review [Zoom Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/platform/research/during-research/zoom-instructions.md) before you use it. Also check out the [Zoom Assistive Tech Checklist and Troubleshooting doc](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/zoom-screenreader-session-checklist.md) for tips about using Zoom with participants who rely on screen readers.
 - **Optimal Workshop**: This is a research tool you can use to conduct card sorts, tree tests, or unmoderated prototype tests. You can also use the Reframer tool within Optimal Workshop to synthesize research. 
   - Alex Taylor is account owner
 - **Handrail**: This tool facilitates notetaking during research sessions and synthesis.
