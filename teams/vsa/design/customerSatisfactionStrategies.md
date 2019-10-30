@@ -35,7 +35,7 @@ In order to get a handle on how well we’re currently doing on top tasks, a bas
 1. *Number of assists and failures* - this is the number of times a moderator had to “help” or “prompt” the user in order for the user to complete the task.
 2. *Time on task* - although this can be hard to measure, we could get a basic idea of how long it would take a user to complete each task
 3. *The participants’ “usability score”* as determined by a strategy like [Magnitude Estimation Testing](https://journals.sagepub.com/doi/abs/10.1177/154193120304700406?journalCode=proe). This involves every participant doing their own baseline task, creating their own metric scale, then measuring each task using their scale.
-4. *The customer “subjective mental effort score”* asking the users a question after a task to gauge how much “mental effort” it took them, instead of, say, “delight.”  [research here] https://measuringu.com/papers/Sauro_Dumas_CHI2009.pdf
+4. *The customer “subjective mental effort score”* asking the users a question after a task to gauge how much “mental effort” it took them, instead of, say, “delight.”  [research here](https://measuringu.com/papers/Sauro_Dumas_CHI2009.pdf)
 
 If possible, an unmoderated study could also be considered if we’re looking for a large volume of users and think the tasks could be completed without moderation.
 
