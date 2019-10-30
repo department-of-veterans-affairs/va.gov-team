@@ -11,6 +11,7 @@
 |----|----|-----|
 |Lisa Koenigsberg|DSVA Lead| lisa.koenigsberg@va.gov |
 |Justin Pickett |Product Manager| jpickett@governmentcio.com |
+|Samara Strauss |DSVA| samara.strauss@va.gov |
 |Arthur Green |Designer| agreen@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Amen Ra | FE Engineer| ara@governmentcio.com |
