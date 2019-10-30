@@ -5,16 +5,15 @@ It's possible to enable/disable a feature entirely, for a percentage of all user
 Our feature toggles are powered by an open-source gem called [Flipper gem](https://github.com/jnunemaker/flipper)
 
 ## Managing Feature Toggles
-Features can be enabled/disabled in the Flipper user interface.  For inital rollout it is protected with HTTP basic Auth.  The values of each toggle are cached in memory for 1 minute, so it may that long to see the effect of enabling/disabling the toggle. 
+Features can be enabled/disabled in the Flipper user interface. To access the Flipper UI, first log in using an identity-verified id.me user listed in  [settings.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml#L397)
 
-|Environment|URL|Username|Password|
-|---|---|---|---|
-|Dev|http://localhost:3000/flipper/features|SUPER_SECRET_USERNAME| SUPER_SECRET_PASSWORD|
-|Staging|https://staging-api.va.gov/flipper/features|flipper_admin| set in Settings.flipper.password|
-|Production|https://api.va.gov/flipper/features|flipper_admin| set in Settings.flipper.password|
+|Environment|URL|
+|---|---|
+|Dev|http://localhost:3000/flipper/features|
+|Staging|https://staging-api.va.gov/flipper/features| 
+|Production|https://api.va.gov/flipper/features|
 
-
-The most basic action is to toggle the green/red "enable/disable" button to toggle the feature for all users. For a gradual rollout or an a/b test we can use "Percentage of Logged in Users". "Percentage of Logged in Users" will enable the feature for the same users each time they return to the site (presuming the percentage is not changed).
+The most basic action is to toggle the green/red "enable/disable" button to toggle the feature for all users. For a gradual rollout or an a/b test we can use "Percentage of Logged in Users". "Percentage of Logged in Users" will enable the feature for the same users each time they return to the site (presuming the percentage is not changed). The values of each toggle are cached in memory for 1 minute, so it may that long to see the effect of enabling/disabling the toggle. 
 
 We can also roll out a feature for a select few users by adding the their email adddress to the actors section. For performace reasons, the list of actors is intended to be small, do not use for hundreds of users.
 
