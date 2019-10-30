@@ -9,7 +9,7 @@ Placeholder for Analysis of Rainbow Team's 21-686c discovery and user reseach an
 #### Session 1 April 2018
 [Source Docs for Research Conducted April 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20April%202018)
 
-Usibility testing was conducted using static prototypes of the Vets.gov implementation of the 21-686c form. There is evidence of three participants. A Conversation Guide and verbatim notes exist but no formal Readout or Analysis document. There is an "Outstanding Questions" doc that does include findings regarding participant sentiment and usability.
+Usibility testing was conducted using static prototypes of the Vets.gov implementation of the 21-686c form. There is evidence of five participants. A Conversation Guide and verbatim notes exist but no formal Readout or Analysis document. There is an "Outstanding Questions" doc that does include findings regarding participant sentiment and usability.
 #### Session 2 June 2018
 [Source Docs for Research Conducted June 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018)
 
