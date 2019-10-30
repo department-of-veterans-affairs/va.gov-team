@@ -123,6 +123,7 @@ As the authenticated experience team, we want to be able to do the following:
 ## KPIs
 
 - Reduction in the amount of returned USPS mail
+- Reduced errors in updating mailing address
 
 
 ### Objective
