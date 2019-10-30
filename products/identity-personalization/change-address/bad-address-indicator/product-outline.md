@@ -23,7 +23,7 @@
 ### Table of Contents
 
 # Executive Summary 
-- [User Problem Statement](#user-problem-statement)
+- [The Problem](#user-problem-statement)
 - [Solution Goals](#solution-goals)
 - [Hypothesis](#hypothesis)
 - [Requirements](#requirements)
