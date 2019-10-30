@@ -104,7 +104,7 @@ As the authenticated experience team, we want to be able to do the following:
 
 
 ## Discovery Takeaways
-- There are a few emails that VA.gov sends our, for 2FA, connecting accounts and now also Direct Deposit. 
+- There are a few emails that VA.gov sends out: for 2FA, connecting accounts and now also Direct Deposit. 
 
 - If a user is logged in, the forms do pre-populate with the address on file. The user has the ability to change that pre-filled content with a new address but that information is not then used to update the master record/profile today. 
 
