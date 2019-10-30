@@ -4,9 +4,9 @@
 * This one
 
 # Team
-Shawna Hein
-Jim Adams
-Carolyn Williams
+* Shawna Hein
+* Jim Adams
+* Carolyn Williams
 
 # Content Header Stack
 ## Current
