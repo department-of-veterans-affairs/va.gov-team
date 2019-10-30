@@ -108,6 +108,14 @@ As the authenticated experience team, we want to be able to do the following:
 2.  **Messaging** - We need to make sure the messaging is displayed in all appropriate areas and it is easy for the Veteran to understand.
 3.  **Wayfinding** - We should make it easy for the Veteran to navigate to their Profile page to update their mailing address.
 
+### In Scope
+
+1.  Figure out method of communication to the Veteran
+2.  Messaging/Alerts
+  - Modal/Alert placement and content
+ 3.  Wayfinding
+  - Figure out best way to guide the Veteran to their Profile
+
 ## Constraints
 - We may not be able to use email to notify the Veteran of their bad mailing address status
 
