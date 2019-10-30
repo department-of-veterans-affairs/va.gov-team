@@ -100,6 +100,8 @@ As the authenticated experience team, we want to be able to do the following:
 6.  Should we consider a threshold value for returned mail items, in order to escalate the intensity of the messaging method? (Example:  if the threshold for returned mail items is 5, we may show a 'warning' alert the first 5 times mail is returned - after the threshold is reached we may escalete the messaging to an error status)
 
 
+## Requirements
+
 ## Constraints
 - We may not be able to use email to notify the Veteran of their bad mailing address status
 
