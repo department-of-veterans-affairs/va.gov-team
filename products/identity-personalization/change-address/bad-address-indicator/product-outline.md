@@ -49,29 +49,71 @@
 # Executive Summary
 Each address stored in Vet360 comes with an optional Bad Address Indicator (BAI). When BAI is true that means that the VA has had mail returned to it from that address, which means not only have the taxpayers paid for a bad government interaction, but also that the Veteran in question did not receive their benefit.
 
-## User Problem Statement
+## The Problem
+We receive returned mail back from Veteran addresses not recognized by Vet360, which is a major concern for several reasons:
+
+1.  **Veterans are not receiving their mail because we have a bad mailing address on file for them** - This may mean they are not receiving their pension or disability payments, prescriptions or other important mail.
+2.  **We currently do not have a good method of notifying Veterans we have a bad mailing address on file for them** - There is no current method of notifying Veterans that we have a bad mailing address and that they need to update their mailing address.
+3.  **The VA loses money on return mail transactions**
 
 
 ## Solution Goals
-
+1.  Implement an effective method of notifying Veterans that they have a bad mailing address.
+2.  Clearly communicating they have a bad mailing address, that they need to update their mailing address and that they can do it on VA.gov or by calling into the VA.
+3.  Displaying information regarding their bad mailing address status clearly on VA.gov
+4.  Allowing them to update their address on VA.gov [Updating address UX is being optimized here] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/change-address/address-validation)
 
 ### User Goals
-- 
+**As a user, I want to be notified as soon as possible that I have had returned mail from the VA**.
 
-## Hypothesis
-- 
+- The VA needs to efficiently communicate this to me through effective channels:  email, phone and/or VA.gov.
+- The messaging needs to be clear that the returned mail is because of a bad mailing address.
+
+**As a user, I want to be able to update my mailing address**
+
+- It should be clear what action needs to be completed in order for the mail to be delivered to a good mailing address.
+
+### Business Goals
+As the authenticated experience team, we want to be able to do the following:
+
+- Effectively communicate to the Veteran that they have a bad mailing address on file that is causing their mail to be returned.
+- Cleary communicate what action(s) the Veteran needs to perform.
+- Guide the Veteran to the Profile screen where they can update their mailing address.
+- Provide confirmation that the Veteran has updated their mailing address successfully.
 
 
-## Requirements 
-- 
+## Assumptions
+
+- Veterans do not know they have had mail returned back to the VA.  They may think it's late or there was some other type of error.
+- Notifying Veterans quickly after we receive returned mail will make it obvious to them that the VA takes this situation very seriously and will quickly act to rectify.
+- Displaying messaging (as a modal alert or an inline alert) in specific areas on VA.gov will be an effective method to convey information about the Veteran's bad mailing address status and what action they can take.
+- If our process of communication is clear and the messaging is effective, we can provide a better Veteran experience as well as save the VA and taxpayers money by limiting the returned mail at the VA.
+
+
+## Questions
+
+1. How do we currently communicate with the Veteran?  Can we send an email notifying them of a bad mailing address?
+2. If we can send email notifications, where would we direct the Veteran in the messaging?  To VA.gov in general?  To the 'Change Address' page?
+3. Will Veterans know they need to sign in to update their mailing address?
+4. Will Veterans know where to go to update their mailing address?
+5. Is it better to display the messaging in a modal intercept, after sign in on the VA.gov homepage - or do we utitlize a more passive method and display inline alerts on the Profile page (and various other areas)?
+6.  Should we consider a threshold value for returned mail items, in order to escalate the intensity of the messaging method? (Example:  if the threshold for returned mail items is 5, we may show a 'warning' alert the first 5 times mail is returned - after the threshold is reached we may escalete the messaging to an error status)
 
 
 ## Constraints
-- 
+- We may not be able to use email to notify the Veteran of their bad mailing address status
 
 
 ## Discovery Takeaways
-- Initial Discovery notes can be found [here]()
+- There are a few emails that VA.gov sends our, for 2FA, connecting accounts and now also Direct Deposit. 
+
+- If a user is logged in, the forms do pre-populate with the address on file. The user has the ability to change that pre-filled content with a new address but that information is not then used to update the master record/profile today. 
+
+- The Bad Address Indicator is just an on/off flag and not associated with any threshold.
+
+- We have displayed modals on VA.gov
+
+- There is a design system modal version that allows us to place a CTA button in order to guide the Veteran to the Profile page to update their mailing address
 
 ## Decisions
 
@@ -80,6 +122,10 @@ Each address stored in Vet360 comes with an optional Bad Address Indicator (BAI)
 
 
 ## KPIs
+
+- Reduction in the amount of returned USPS mail
+
+
 ### Objective
 - 
 ### Tracking
