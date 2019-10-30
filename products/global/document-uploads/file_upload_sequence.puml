@@ -1,0 +1,26 @@
+@startuml
+participant "Vets www"
+box "Vets API" #LightBlue
+    participant DocumentsController
+	participant "EVSSClaimsService"
+	control "EVSS::DocumentUpload"
+end box
+database S3
+entity EVSS
+
+group File Upload
+  "Vets www" -> DocumentsController: POST
+  DocumentsController -> EVSSClaimsService
+  EVSSClaimsService -> S3
+  EVSSClaimsService -> EVSSClaimsService
+  note right
+  	enqueue
+  	DocumentUpload job
+  end note
+  EVSSClaimsService -> "Vets www": 200:ok
+end
+group File Transfer
+  S3 -> "EVSS::DocumentUpload"
+  "EVSS::DocumentUpload" -> EVSS: POST
+end
+@enduml

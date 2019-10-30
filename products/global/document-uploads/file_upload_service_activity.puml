@@ -1,0 +1,36 @@
+@startuml
+
+start
+partition "Syncronous steps" {
+
+	:File received<
+
+	if (virus free?) then (yes)
+	  if (valid?) then (yes)
+      	  :Enqueue Async Workflow>
+      	  detach
+      	else (no)
+      	  #Red:return error;
+      	  detach
+      	endif
+	else (no)
+	  #Red:return error;
+	  detach
+	endif
+}
+
+partition "Asyncronous workflow example" {
+
+	:PDF conversion;
+	:PDF stamping;
+	while (S3 upload succeeds ?) is (no)
+		:Retry;
+    endwhile (yes)
+
+	:POST to EVSS>
+
+}
+
+stop
+
+@enduml
