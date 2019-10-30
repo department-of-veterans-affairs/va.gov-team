@@ -5,9 +5,8 @@
 
 ## Why we're here
 
-### North Star:
-
-Enable VA to build digital tools at scale that improve Veterans’ lives.
+### Team Mission Statement:
+Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
 ### Product Suite: 
 - CI/CD 
@@ -15,9 +14,6 @@ Enable VA to build digital tools at scale that improve Veterans’ lives.
 - Access Management 
 - Infrastructure 
 - Environment Connectivity
-
-### Team Mission Statement:
-Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
 ### Product Portfolio:
 - Infrastructure
