@@ -28,6 +28,19 @@ During Discovery and Design, the current functionality of both Rated Disabilitie
 It is likely the Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their TDR); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
 
 #### Guiding Questions
+- How often would users access Disabilities and Dependents screens? How would they be prompted to look?
+- Can users quickly determine the purpose of the page? Can they find the TRD immediately? Are dependent details immediately apparent?
+- Can users immediately find the relevant information on-screen?
+- Is information displayed in a clear and understandable manner (text and components)?
+- Are the "cards" and acceptable presentation of information?
+- Is it clear in the View Dependents screens what the card buttons will do? 
+- Given a particular user path, do users have a sense of where they are in the site?
+- Is there a clear recourse for users if they see inaccurate or missing information on-screen?
+- Do user expect their benefits information to be clumped together?
+- What other screens or information would users look for in view-disabilities or view-dependents scenarios?
+- Is the navigation into and out of the screens adequate? Did they expect something different?
+- What platform do participants use to access VA.gov or other VA sites? Would they consider moible platforms?
+- What other features do users expect whe accessing disabilities and dependents information?
 
 #### Success
 The this research effort will be successful if it points to a clear verdict regarding the usability of the Rated Disabilities and View Dependents screen--and the underlying tools page template. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. If significant re-work is required of these screens, further usability testing will follow.
@@ -44,20 +57,21 @@ Participants will be recruited via Perigean. The study will require 10 Veterans 
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
 - Have or had dependents; received or applied for dependents benefits
+- Because XD prototypes will be presented, there is no support for users needing adaptive equipment or software
 - Sessions will run approximately 30 minutes
 
-### When?
+### Timeline
 The target for research session is the week of November 18, 2019. Preparation includes participant recruitment, refining prototypes, writing the conversation guide, and a dry run test session. This plan and the companion Conversation Guide will be finalized by November 12. Target date for the test session is November 13.
 
 #### Test Session
 - Wednesday, November 13, 2019
 
 #### Availability the Week of November 18 (All times are EST)
-- Monday 11/18
-- Tuesday 11/19
-- Wednesday 11/20
-- Thursday 11/21
-- Friday 11/22
+- Monday 11/18 Times TBD
+- Tuesday 11/19 Times TBD
+- Wednesday 11/20 Times TBD
+- Thursday 11/21 Times TBD
+- Friday 11/22 Times TBD
 
 ### Team Member Roles
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
