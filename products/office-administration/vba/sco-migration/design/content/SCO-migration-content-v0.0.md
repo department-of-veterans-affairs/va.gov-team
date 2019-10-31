@@ -5,14 +5,14 @@ Breadcrumb: [Home]() > [Education]() >  Resources for schools
 
 ## Page Title: Resources for schools {H1}
 
-If you are a School Certifying Official (SCO) or school administrator assisting military-connected students pursuing education and training with VA benefits, this page provides information for program approval, training for SCOs, and for access to VA systems. 
+If you are a School Certifying Official (SCO) or school administrator assisting military-connected students pursuing education and training with VA benefits, this page provides information for program approval, training for SCOs, and for access to VA systems.   
 
-##### On this page
+**On this page**   
 * Training and guides {jump link}
 * Upcoming events {jump link}
 * Policies and procedures {jump link}
 
-##### Key Resources for SCOs 
+**Key Resources for SCOs**    
 **[SCO Handbook]()**  |  **[VA-ONCE]()**  |  **[VA-ONCE Quick Reference Guide]()**  |  **[WEAMS]()**  |  **[Find your ELR]()** 
 
 
