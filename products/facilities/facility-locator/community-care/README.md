@@ -19,3 +19,7 @@ To use the Veterans Choice Program, Veterans must receive prior authorization fr
 receive care from a provider that is part of VA’s VCP network of community providers. The
 authorization is based on specific eligibility requirements and discussions with the Veteran’s VA
 provider. VA must authorize care that is needed beyond the scope of the first authorization.
+
+**Original Community Care team suggested changing**
+- The H1 to "Find Facilities and Services" to better encapsulate the non-VA services
+- The global nav link to "Find Facilities and Services" to better encapsulate the non-VA services
