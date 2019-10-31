@@ -70,7 +70,7 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 **VA-ONCE demo recordings:**   
 * [Overview of VA ONCE: Certifying an enrollment at an extension campus](https://youtu.be/QuE8tecwGo4)
 * [Certifying at a main and multiple extension campuses](https://youtu.be/1QWwQ_s0jwE)
-* [Certifying distance hours and hours at an extension campus](https://youtu.be/1QWwQ_s0jwE) 
+* [Certifying distance hours and hours at an extension campus](https://www.youtube.com/watch?v=rZrd2vt_LD0&feature=youtu.be) 
 * [Reduction of hours for student taking courses at main and extension campus](https://youtu.be/XlYQa_-6_qs)  
 
 **Non-traditional schools:**   
