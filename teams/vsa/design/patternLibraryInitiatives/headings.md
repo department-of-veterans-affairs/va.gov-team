@@ -13,6 +13,7 @@
 
 ## Content Header Stack
 ### Current
+#### Issues with current
 ### Proposed
 
 ## Authenticated / Tool Stack
@@ -21,12 +22,15 @@
 
 ## Blue Boxes
 ### Current
+#### Issues with current
 ### Proposed
 
 ## Notifications
 ### Current
+#### Issues with current
 ### Proposed
 
 ## Anchor Link Section
 ### Current
+#### Issues with current
 ### Proposed
