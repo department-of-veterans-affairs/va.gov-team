@@ -165,47 +165,45 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 {Right column}
 
 {begin promo}  
-{image}
-**[School Certifying Official (SCO) Handbook]()** 
-Access revision 5.6.4, current as of September 27, 2019.
+{image}  
+**[School Certifying Official (SCO) Handbook]()**   
+Access revision 5.6.4, current as of September 27, 2019.  
 {end promo}
 
 
 ### Ask questions {mini accordion}
 
-**[FAQs for GI Bill]()**
-Search the FAQs to find answers to popular questions.  
+**[FAQs for GI Bill]()**  
+Search the FAQs to find answers to popular questions.    
 
-**[Submit a Question]()**
-Ask a question about GI Bill benefits. 
+**[Submit a Question]()**  
+Ask a question about GI Bill benefits.   
 
 
 ### Average processing times {mini accordion}
 
-First time applications:
-**24 days**
+First time applications:  
+**24 days**  
 
-Supplemental claims:
-**10 days**
+Supplemental claims:  
+**10 days**  
 
-A supplemental claim is a re-enrollment or other change that impacts VA benefits.  
+A supplemental claim is a re-enrollment or other change that impacts VA benefits.    
 
-See [FAQ]() for more information.
+See [FAQ]() for more information.  
 
 
 ### Connect with us  {mini accordion}
 
-[Find your Education Liaison Representative (ELR)]()  
-
-[Veterans benefits email updates]()  
+[Find your Education Liaison Representative (ELR)]()      
  
-**Email us**  
-[Email VBA Support Team]()  
+**Email us**    
+[Email VBA Support Team]()    
 
-**Get updates**  
-[Veterans benefits email updates]()  
+**Get updates**    
+[Veterans benefits email updates]()    
 
-**Call us**
+**Call us**  
 [VA Education Call Center:  
 1-888-GIBILL-1 (1-888-442-4551)]()
 
