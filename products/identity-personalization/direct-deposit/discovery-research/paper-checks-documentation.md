@@ -39,12 +39,12 @@ We should add the following content to [this page](https://www.va.gov/change-dir
 
 **To change an address for a paper check or to cancel direct deposit and opt-in to paper checks**
 
-- Someone has to [fill out this form](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-20-572-ARE.pdf) and mail it to their regional/intake office.  
+- Someone has to [fill out VA form 20-572](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-20-572-ARE.pdf) and mail it to their regional/intake office.  
 - Or someone can call the national call center and they can process this request (1-800-827-1000).
 - Or someone can go in person to their regional office to get this switched. 
 
 **To cancel paper checks and opt in to direct deposit**
 
-- Someone has to [fill out this form](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-24-0296-ARE.pdf) and mail it to their regional/intake office. 
+- Someone has to [fill out VA form 24-096](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-24-0296-ARE.pdf) and mail it to their regional/intake office. 
 - Or someone can call the national call center and they can process this request (1-800-827-1000).
 - Or someone can go in person to their regional office to get this switched. 
