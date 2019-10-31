@@ -134,9 +134,9 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 **[About GI Bill benefits >](https://www.va.gov/education/about-gi-bill-benefits/)**   
 
 **Forever GI Bill:**   
-* [Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act]()     
-* [Edith Nourse Rogers STEM Scholarship]()     
-* [Veteran Employment Through Technology Education Courses (VET TEC)]()
+* [Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act](https://www.benefits.va.gov/gibill/forevergibill.asp)     
+* [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp)     
+* [Veteran Employment Through Technology Education Courses (VET TEC)](https://www.benefits.va.gov/gibill/fgib/vettec.asp)
 
 **Benefits by chapter:**   
 * [Post-9/11 GI Bill (Chapter 33)](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)     
