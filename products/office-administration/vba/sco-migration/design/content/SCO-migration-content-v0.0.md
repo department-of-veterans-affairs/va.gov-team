@@ -146,8 +146,8 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 [7/17/2018 — Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended >]()**
 
 
-#### Other resources to support your students (H3)
 ---
+#### Other resources to support your students (H3)
 
 **[How to apply for education benefits >]()  
 [Scholarships and financial aid >]()  
