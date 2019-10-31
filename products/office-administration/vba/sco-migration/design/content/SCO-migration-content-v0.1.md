@@ -51,64 +51,64 @@ Required if your school has 20 or more GI Bill students.
 
 Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
 
-**[VA-ONCE quick reference guide >]()   
-[Memorandum of Understanding (MOU) >]()**     
-To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your [Education Liaison Representative (ELR)]().   
-**[VA-ONCE P042 - Training on enhancements in newest version >]()     
-[User tips for VA-ONCE >]()   
-[Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks >]()     
-[Top ten list of what not to report in VA-ONCE >]()
-[Colmery extension campus update webinar (July 2019) >]()**   
+**[VA-ONCE quick reference guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)   
+[Memorandum of Understanding (MOU) >](https://www.benefits.va.gov/GIBILL/resources/education_resources/mou.html)**     
+To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your [Education Liaison Representative (ELR)](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp).   
+**[VA-ONCE P042 - Training on enhancements in newest version >](https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt)     
+[User tips for VA-ONCE >](https://www.benefits.va.gov/gibill/docs/vaonce/va-once_tips.pdf)   
+[Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks >](https://www.benefits.va.gov/GIBILL/docs/letters/Automation_of_Post911_GI_Bill_and_VAONCE_Remarks.pdf)     
+[Top ten list of what not to report in VA-ONCE >](https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf)
+[Colmery extension campus update webinar (July 2019) >](https://www.benefits.va.gov/GIBILL/docs/SCO/Ext_Campus_SCO_Virtual_Webinar.pdf)**   
 
 **Extension campus certification scenarios:**   
-* [Certification at a main and extension campus]()   
-* [Certification for distance hours at an extension campus]()   
-* [Reduction of hours at an extension campus]()   
-* [All credit hours dropped at an extension campus]()    
-* [Certification at a main and two extension campuses with non-standard terms]()  
+* [Certification at a main and extension campus](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_1.pdf)   
+* [Certification for distance hours at an extension campus](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_2.pdf)   
+* [Reduction of hours at an extension campus](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_3.pdf)   
+* [All credit hours dropped at an extension campus](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_4.pdf)    
+* [Certification at a main and two extension campuses with non-standard terms](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_5.pdf)  
 
 **VA-ONCE demo recordings:**   
-* [Overview of VA ONCE: Certifying an enrollment at an extension campus]()
-* [Certifying at a main and multiple extension campuses]()
-* [Certifying distance hours and hours at an extension campus]() 
-* [Reduction of hours for student taking courses at main and extension campus]()  
+* [Overview of VA ONCE: Certifying an enrollment at an extension campus](https://youtu.be/QuE8tecwGo4)
+* [Certifying at a main and multiple extension campuses](https://youtu.be/1QWwQ_s0jwE)
+* [Certifying distance hours and hours at an extension campus](https://youtu.be/1QWwQ_s0jwE) 
+* [Reduction of hours for student taking courses at main and extension campus](https://youtu.be/XlYQa_-6_qs)  
 
 **Non-traditional schools:**   
-* [How-to guide for On-the-Job Training (OJT) and Apprenticeship schools]()
-* [VA-ONCE how-to guide for flight schools]() 
+* [How-to guide for On-the-Job Training (OJT) and Apprenticeship schools](https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf)
+* [VA-ONCE how-to guide for flight schools](https://www.benefits.va.gov/gibill/docs/vaonce/va-once_flight_training.pdf) 
 
 
 ### Payment and debt {accordion}
-**[Payment and debt information resources >]()       
-[Direct deposit information for schools >]()      
-[Common causes of school overpayments and how to avoid them >]()      
-[The Treasury Offset Program: How to receive your state and federal funding >]()  
-[Payment fees updated with correct tuition and fees caps (9/17/2018) >]()**
+**[Payment and debt information resources >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/payment_info.asp)       
+[Direct deposit information for schools >](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1428/~/how-can-my-school-enroll-in-ach-direct-deposit%2C-or-change-its-ach-direct)      
+[Common causes of school overpayments and how to avoid them >](https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf)      
+[The Treasury Offset Program: How to receive your state and federal funding >](https://www.benefits.va.gov/gibill/docs/job_aids/Treasury_TOP_Q_A.pdf)  
+[Payment fees updated with correct tuition and fees caps (9/17/2018) >](https://www.benefits.va.gov/GIBILL/docs/fgib/107_TandF_SCO_letter.pdf)**
 
 
 ## Upcoming events {H2} 
 
-**[Arizona Veterans Program Association-2019 Fall Mini-Conference >]()   
+**[Arizona Veterans Program Association-2019 Fall Mini-Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)   
 November 1, 2019 — Mesa, AZ**
 
-**[VBA Education Service 1st Quarterly Webinar >]()  
+**[Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  
 November 4–6, 2019 — Stillwater, OK**
 
-**[Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference >]()  
+**[VBA Education Service 1st Quarterly Webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
 December 19 & 20, 2019 — Online** 
 
-See full list of [Conferences and Events]()  |  [Training Webinars]() 
+See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp) 
 
 
 ## Policies and procedures {H2} 
 
-**[VA education forms, brochures and factsheets >]()** 
+**[VA education forms, brochures and factsheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)** 
 
 
 ### Begin the GI Bill program approval process {accordion}
 
 **Where does a facility begin the process of GI Bill program approval?**     
-The approval authority for GI Bill programs generally begins with the individual states via the [State Approving Agency (SAA)]() of jurisdiction.  Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
+The approval authority for GI Bill programs generally begins with the individual states via the [State Approving Agency (SAA)](http://www.nasaa-vetseducation.com/Contacts.aspx) of jurisdiction.  Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
 
 **[Education program approval guidelines >]()**   
 
@@ -206,7 +206,7 @@ Last updated: October 30, 2019.
 
 ### Connect with us  {mini accordion}
 
-[Find your Education Liaison Representative (ELR)]()      
+[Find your Education Liaison Representative (ELR)](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)      
  
 **Email us**    
 [Email VBA Support Team]()    
