@@ -13,7 +13,7 @@ These processes are here to help ensure we're launching features that are:
 - [ ] [ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
 - [ ] [Content review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 - [ ] [Design QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md) / review(?)
-- [ ] Analytics / Product Health Report review
+- [ ] [Analytics / Product Health Report review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-analytics-implementation-qa.md)
 *   Reviewing analytics that will be used to just the product health / success, and making recommendations as appropriate.
 - [ ] Release plan review
 *   Review release phases and criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms.
