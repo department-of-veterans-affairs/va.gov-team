@@ -24,7 +24,7 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 [See past updates…]()
 
 
-### Training and guides {H2} 
+## Training and guides {H2} 
 ---
 
 Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
@@ -33,7 +33,7 @@ Get training and boost your skills using these resources for School Certifying O
 Required if your school has 20 or more GI Bill students.
 
 
-#### Essentials for School Certifying Officials {accordion}
+### Essentials for School Certifying Officials {accordion}
 
 **[School Official’s Handbook >]()     
 [VA-ONCE quick reference user guide >]()  
@@ -44,7 +44,7 @@ Required if your school has 20 or more GI Bill students.
 [General school responsibility factsheet >]()**     
 
 
-#### VA-ONCE information {accordion}
+### VA-ONCE information {accordion}
 
 Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
 
@@ -64,14 +64,14 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 * [Reduction of hours for student taking courses at main and extension campus]() 
 
 
-#### Non-traditional schools {accordion}
+### Non-traditional schools {accordion}
 
 **[Approval of on-the-job training programs factsheet >]()     
 [Program approval for foreign schools >]()     
 [How-to guide for On-the-Job Training (OJT) and Apprenticeship schools >]()**      
 
 
-#### Advanced topics {accordion}
+### Advanced topics {accordion}
 **[Check your status as a Covered Institution >]()       
 [Common causes of school overpayments and how to avoid them >]()       
 [Updated procedures for reporting students on academic probation >]()      
@@ -90,7 +90,7 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 * [Certification at a main and two extension campuses with non-standard terms]()   
 
 
-### Upcoming events {H2} 
+## Upcoming events {H2} 
 ---
 
 **[Arizona Veterans Program Association-2019 Fall Mini-Conference >]()   
@@ -105,7 +105,7 @@ December 19 & 20, 2019 — Online**
 See full list of [Conferences and Events]()  |  [Training Webinars]() 
 
 
-### Policies and procedures {H2} 
+## Policies and procedures {H2} 
 ---
 
 **[Yellow Ribbon Program information >]()    
@@ -113,7 +113,7 @@ See full list of [Conferences and Events]()  |  [Training Webinars]()
 [VA education forms, brochures and factsheets >]()** 
 
 
-#### Begin the GI Bill program approval process {accordion}
+### Begin the GI Bill program approval process {accordion}
 
 **Where does a facility begin the process of GI Bill program approval?**     
 The approval authority for GI Bill programs generally begins with the individual states via the [State Approving Agency (SAA)]() of jurisdiction.  Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
@@ -135,7 +135,7 @@ VA is responsible for approvals in some circumstances and for some states that d
 See our [Approval of On-the-Job Training Programs factsheet]() addressing the following requirements: programs, wages, and facilities.
 
 
-#### Learn about the GI Bill and related policies {accordion}
+### Learn about the GI Bill and related policies {accordion}
 
 **[About GI Bill benefits >]()  
 [Post-9/11 GI Bill >]()  
