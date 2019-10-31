@@ -57,7 +57,7 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 [Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks >]()     
 [Top ten list of what not to report in VA-ONCE >]()**    
 
-##### VA-ONCE demo recordings:
+**VA-ONCE demo recordings:**   
 * [Overview of VA ONCE: Certifying an enrollment at an extension campus]()
 * [Certifying at a main and multiple extension campuses]()
 * [Certifying distance hours and hours at an extension campus]() 
@@ -78,11 +78,11 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 [Payment and debt information resources >]()      
 [The Treasury Offset Program: How to receive your state and federal funding >]()**
 
-##### Colmery extension campus update:
+**Colmery extension campus update:**   
 * [SCO Open House Presentation - July 2019]()   
 * [SCO Virtual Webinar Presentation - July 2019]()   
 
-##### Extension campus certification scenarios:
+**Extension campus certification scenarios:**   
 * [Certification at a main and extension campus]()   
 * [Certification for distance hours at an extension campus]()   
 * [Reduction of hours at an extension campus]()   
@@ -115,23 +115,23 @@ See full list of [Conferences and Events]()  |  [Training Webinars]()
 
 #### Begin the GI Bill program approval process {accordion}
 
-##### Where does a facility begin the process of GI Bill program approval?  
+**Where does a facility begin the process of GI Bill program approval?**     
 The approval authority for GI Bill programs generally begins with the individual states via the [State Approving Agency (SAA)]() of jurisdiction.  Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
 
 **[Education program approval guidelines >]()**   
 
-##### When is VA responsible for approval of education and training programs?
+**When is VA responsible for approval of education and training programs?**   
 VA is responsible for approvals in some circumstances and for some states that do not have an SAA assigned. If you fall into one of these groups, your application will be reviewed by VA.
 * [Foreign schools]()
 * [California]() 
 
-##### Applications for jurisdictions where VA is acting as State-Approving-Agency (SAA):
+**Applications for jurisdictions where VA is acting as State-Approving-Agency (SAA):**   
 * [New application for approval — accredited institutions]() 
 * [New application for approval — non-accredited institutions]() 
 * [Renewal or program amendment application — accredited institutions]() 
 * [Renewal or program amendment application — non-accredited institutions]() 
 
-##### How do you receive approval for on-the-job training programs?  
+**How do you receive approval for on-the-job training programs?**     
 See our [Approval of On-the-Job Training Programs factsheet]() addressing the following requirements: programs, wages, and facilities.
 
 
@@ -142,7 +142,7 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 [Edith Nourse Rogers STEM Scholarship >]()    
 [Veteran Employment Through Technology Education Courses (VET TEC) >]()**
 
-##### Forever GI Bill information:
+**Forever GI Bill information:**   
 **[Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act >]()   
 [9/17/2018 — Payment fees are now updated with the correct tuition and fees caps >]()  
 [9/7/2018 — MHA will be updated based on ZIP code >]()  
