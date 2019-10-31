@@ -25,7 +25,6 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 
 
 ## Training and guides {H2} 
----
 
 Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
 
@@ -91,7 +90,6 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 
 
 ## Upcoming events {H2} 
----
 
 **[Arizona Veterans Program Association-2019 Fall Mini-Conference >]()   
 November 1, 2019 — Mesa, AZ**
@@ -106,7 +104,6 @@ See full list of [Conferences and Events]()  |  [Training Webinars]()
 
 
 ## Policies and procedures {H2} 
----
 
 **[Yellow Ribbon Program information >]()    
 [Principles of Excellence >]()   
