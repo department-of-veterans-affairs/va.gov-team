@@ -131,7 +131,7 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 
 ### Learn about the GI Bill and related policies {accordion}
 
-**[About GI Bill benefits >]()**   
+**[About GI Bill benefits >](https://www.va.gov/education/about-gi-bill-benefits/)**   
 
 **Forever GI Bill:**   
 * [Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act]()     
