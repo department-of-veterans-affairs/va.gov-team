@@ -13,7 +13,7 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 * Policies and procedures {jump link}
 
 #### Key Resources for SCOs 
-[SCO Handbook]()  |  [VA-ONCE]()  |  [VA-ONCE Quick Reference Guide] ()  |  [WEAMS]()  |  [Find your ELR]() 
+[SCO Handbook]()  |  [VA-ONCE]()  |  [VA-ONCE Quick Reference Guide]()  |  [WEAMS]()  |  [Find your ELR]() 
 
 
 Latest announcements from VA
