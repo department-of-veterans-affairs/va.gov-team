@@ -98,3 +98,4 @@ The target for research session is the week of November 18, 2019. Preparation in
 
 - [Research Readout]()
 
+#### This plan is pending review and approval.
