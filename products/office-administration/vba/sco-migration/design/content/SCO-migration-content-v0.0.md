@@ -160,16 +160,18 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 [CareerScope aptitude assessment >]()   
 [GI Bill Comparison Tool >]()**
 
+---
 
 {Right column}
 
-{begin promo}
+{begin promo}  
 {image}
 ##### [School Certifying Official (SCO) Handbook]()  
 Access revision 5.6.4, current as of September 27, 2019.
+{end promo}
 
 
-#### Ask questions
+#### Ask questions {mini accordion}
 
 ##### [FAQs for GI Bill]()  
 Search the FAQs to find answers to popular questions.  
@@ -178,7 +180,7 @@ Search the FAQs to find answers to popular questions.
 Ask a question about GI Bill benefits. 
 
 
-#### Average processing times
+#### Average processing times {mini accordion}
 
 First time applications:
 ##### 24 days
@@ -191,7 +193,7 @@ A supplemental claim is a re-enrollment or other change that impacts VA benefits
 See [FAQ]() for more information.
 
 
-#### Connect with us 
+#### Connect with us  {mini accordion}
 
 [Find your Education Liaison Representative (ELR)]()  
 
