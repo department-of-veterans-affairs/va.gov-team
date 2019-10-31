@@ -7,6 +7,7 @@
 * Shawna Hein
 * Jim Adams
 * Carolyn Williams
+* Liz Lantz
 
 # Content Header Stack
 ## Current
