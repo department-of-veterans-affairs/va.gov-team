@@ -23,3 +23,10 @@ provider. VA must authorize care that is needed beyond the scope of the first au
 **Original Community Care team suggested changing**
 - The H1 to "Find Facilities and Services" to better encapsulate the non-VA services
 - The global nav link to "Find Facilities and Services" to better encapsulate the non-VA services
+
+**Performance**
+There are a few fields that do not get returned in the first call to PPMS. Some fields that are missing are:
+- Phone numbers
+- Addresses
+- Services
+In order to get that information, a second call is made for every result they get up to 20, to get the additional information and add it to the record before returning it to the front end.
