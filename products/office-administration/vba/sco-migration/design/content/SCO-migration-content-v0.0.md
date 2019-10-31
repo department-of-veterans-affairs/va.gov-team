@@ -137,16 +137,16 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 
 #### Learn about the GI Bill and related policies {accordion}
 
-**[About GI Bill benefits >]() 
-[Post-9/11 GI Bill >]() 
-[Edith Nourse Rogers STEM Scholarship >]()    
+**[About GI Bill benefits >]()  
+[Post-9/11 GI Bill >]()  
+[Edith Nourse Rogers STEM Scholarship >]()     
 [Veteran Employment Through Technology Education Courses (VET TEC) >]()**
 
 **Forever GI Bill information:**   
 **[Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act >]()   
 [9/17/2018 — Payment fees are now updated with the correct tuition and fees caps >]()  
 [9/7/2018 — MHA will be updated based on ZIP code >]()  
-[7/17/2018 — Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended >]() **
+[7/17/2018 — Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended >]()**
 
 
 #### Other resources to support your students (H3)
@@ -159,10 +159,6 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 [Payment and debt information resources >]()  
 [CareerScope aptitude assessment >]()   
 [GI Bill Comparison Tool >]()**
-
-
----
-Last updated: Month Day, Year
 
 
 {Right column}
@@ -216,3 +212,6 @@ Call MyVA311 for help: 1-844-698-2311]()
 
 If you have hearing loss, call TTY: 711.
 
+
+---
+Last updated: Month Day, Year
