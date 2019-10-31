@@ -153,7 +153,7 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 * [Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)](https://www.benefits.va.gov/GIBILL/docs/fgib/107_SCO_Letter.pdf)
 
 **Other programs and benefits:**   
-* [Yellow Ribbon Program information](https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp)     
+* [Yellow Ribbon Program](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)     
 * [Principles of Excellence](https://www.va.gov/education/choosing-a-school/principles-of-excellence/)     
 * [Tuition Assistance (TA) Top Up](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/) 
 * [National Call to Service Program](https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/) 
