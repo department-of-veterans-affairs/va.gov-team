@@ -1,6 +1,6 @@
 # Resources for Schools
 
-Breadcrumb: [Home]() > [Education]() >  Resources for schools
+Breadcrumb: [Home](https://www.va.gov/) > [Education](https://www.va.gov/education/) >  Resources for schools
 
 ## Page Title: Resources for schools {H1}
 
@@ -13,7 +13,7 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 * Resources to support students {jump link}
 
 **Key Resources for SCOs**    
-**[SCO Handbook]()**  |  **[VA-ONCE]()**  |  **[VA-ONCE Quick Reference Guide]()**  |  **[WEAMS]()**  |  **[Find your ELR]()** 
+**[SCO Handbook](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)**  |  **[VA-ONCE]()**  |  **[VA-ONCE Quick Reference Guide]()**  |  **[WEAMS]()**  |  **[Find your ELR]()** 
 
 
 #### Latest announcements from VA
