@@ -23,8 +23,8 @@ end
 
 class TargetContent
     attr_reader :path, :ext, :full_path, :name, :url, :copy_path
-    CONTENT_URL = "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master"
-    REPO_PATH = "."
+    CONTENT_URL = "https://github.com/department-of-veterans-affairs/va.gov-team/"
+    REPO_PATH = "./"
     def initialize(url:)
         @url = url
         @full_path = URI.decode(url.delete_prefix(CONTENT_URL))
@@ -38,8 +38,8 @@ end
 md_files = Dir.glob('**/*.md')
 
 CSV.foreach(ARGV[0], headers: true) do |row|    
-    source = SourceContent.new(url: row[1])
-    target = TargetContent.new(url: row[3])
+    source = SourceContent.new(url: row[0])
+    target = TargetContent.new(url: row[1])
 
     puts "Copying #{source.copy_path} to #{target.copy_path}"
     FileUtils.mkdir_p(File.dirname(target.copy_path))
