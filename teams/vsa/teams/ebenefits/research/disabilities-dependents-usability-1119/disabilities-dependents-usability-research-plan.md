@@ -49,12 +49,12 @@ The target for research session is the week of November 18, 2019. Preparation in
 #### Test Session
 - Wednesday, November 13, 2019
 
-#### Availability
-- Monday
-- Tuesday
-- Wednesday
-- Thursday
-- Friday
+#### Availability the Week of November 18 (All times are EST)
+- Monday 11/18
+- Tuesday 11/19
+- Wednesday 11/20
+- Thursday 11/21
+- Friday 11/22
 
 ### Team Member Roles
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
