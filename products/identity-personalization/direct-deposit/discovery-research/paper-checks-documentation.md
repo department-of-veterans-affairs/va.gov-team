@@ -37,7 +37,7 @@ David provided a screenshot that showed how the paper check/direct deposit info 
 
 We should add the following content to [this page](https://www.va.gov/change-direct-deposit-and-contact-information/):
 
-**To change an address for a paper check or to cancel direct depositand opt-in to paper checks**
+**To change an address for a paper check or to cancel direct deposit and opt-in to paper checks**
 
 - Someone has to [fill out this form](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-20-572-ARE.pdf) and mail it to their regional/intake office.  
 - Or someone can call the national call center and they can process this request (1-800-827-1000).
