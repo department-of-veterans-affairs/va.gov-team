@@ -156,9 +156,9 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 * [Yellow Ribbon Program information](https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp)     
 * [Principles of Excellence](https://www.va.gov/education/choosing-a-school/principles-of-excellence/)     
 * [Tuition Assistance (TA) Top Up](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/) 
-* [National Call to Service Program)](https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/) 
+* [National Call to Service Program](https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/) 
 * [Work study](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/)     
-* [Co-op training)](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/) 
+* [Co-op training](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/) 
 
 
 ---
