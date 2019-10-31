@@ -81,7 +81,7 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 ### Payment and debt {accordion}
 **[Payment and debt information resources >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/payment_info.asp)       
 [Direct deposit information for schools >](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1428/~/how-can-my-school-enroll-in-ach-direct-deposit%2C-or-change-its-ach-direct)      
-[Common causes of school overpayments and how to avoid them >](https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf)      
+[School overpayments and how to utilize the Dual Certification Process to avoid them >](https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf)      
 [The Treasury Offset Program: How to receive your state and federal funding >](https://www.benefits.va.gov/gibill/docs/job_aids/Treasury_TOP_Q_A.pdf)  
 [Payment fees updated with correct tuition and fees caps (9/17/2018) >](https://www.benefits.va.gov/GIBILL/docs/fgib/107_TandF_SCO_letter.pdf)**
 
