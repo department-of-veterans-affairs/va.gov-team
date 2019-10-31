@@ -26,6 +26,9 @@ During Discovery and Design, the current functionality of both Rated Disabilitie
 
 #### Guiding Questions
 
+#### Success
+The this research effort will be successful if it points to a clear verdict regarding the usability of the Rated Disabilities and View Dependents screen--and the underlying tools page template. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. If significant re-work is required of these screens, further usability testing will follow.
+
 #### Hypothesis
 It is likely the Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their TDR); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
 
