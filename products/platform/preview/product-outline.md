@@ -23,7 +23,8 @@ As a VFS sprint team, I need to QA my app in dev/staging.
 ## KPIs
 
 ## Narrative
-10/20/19: this sprint (12) JP and Leah will compile technical and user discovery information about the problem space. We're thinking of doing a design/discovery sprint the following sprint (13) w/the objective of defining a solution approach, epics and user stories, and KPIs by the end of the 5 day "sprint". This could also serve as a good opportunity to test out what it's like have Service Design team lead a time-boxed discovery/research/strategy/definition engagement for a solution that ultimately gets owned/implemented by another team.
+10/20/19: this sprint (12) JP and Leah will compile technical and user discovery information about the problem space. We're thinking of doing a design/discovery sprint the following sprint (13) w/the objective of defining a solution approach, epics and user stories, and KPIs by the end of the 5 day "sprint". Output would include a doc w/tradeoffs and recommendations, the ppl we’ll need to lean on, the changes that will be dependencies to make this work, that we can take to Chris and Charles.
 
+This could also serve as a good opportunity to test out what it's like have Service Design team lead a time-boxed discovery/research/strategy/definition engagement for a solution that ultimately gets owned/implemented by another team.
 ## Epic(s):
 [Set up appropriate solution to test VA.gov in staging](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1326)
