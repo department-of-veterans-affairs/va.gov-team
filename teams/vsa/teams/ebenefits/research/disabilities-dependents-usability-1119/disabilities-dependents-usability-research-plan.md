@@ -54,11 +54,12 @@ Availability: If applicable, when would you like sessions scheduled? Please list
 Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
 
 ### Team Member Roles
-- James Adams--Moderator, research writer, UI designer
+- [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
+- [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product lead, project point-of-contact
+- [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
 - Perigean--Participant recruiting & screening
-- Jason Wolf--Project point of contact
-- Note-takers--Various as available
-- Observers--various as available
+- Note-takers -- Various as available
+- Observers -- various as available
 
 ### Resources
 - [Project Brief]()
@@ -75,7 +76,3 @@ Pilot: Please indicate a date before your sessions begin for piloting your resea
 
 - [Research Readout]()
 
-Read-Out/Results
-
-- Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.
-- Don't forget to add a link to your research folder to the research tracker! https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md
