@@ -13,38 +13,38 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 * Resources to support students {jump link}
 
 **Key Resources for SCOs**    
-**[SCO Handbook](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)**  |  **[VA-ONCE]()**  |  **[VA-ONCE Quick Reference Guide]()**  |  **[WEAMS]()**  |  **[Find your ELR]()** 
+**[SCO Handbook](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)**  |  **[VA-ONCE](https://vaonce.vba.va.gov/vaonce_student/default.asp)**  |  **[VA-ONCE Quick Reference Guide](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)**  |  **[WEAMS](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)**  |  **[Find your ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)** 
 
 
 #### Latest announcements from VA
-**[10/1/2019 – VA now serving as State-Approving Agency for California]()**   
-**[10/19/2019 – Release of revised School Certifying Official Handbook]()**  
-**[7/10/2019 – Yellow Ribbon Program information available for 2019-2020 academic year]()**  
+**[10/1/2019 – VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**   
+**[10/19/2019 – Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**  
+**[7/10/2019 – Yellow Ribbon Program information available for 2019-2020 academic year](https://www.benefits.va.gov/gibill/news.asp)**  
 
-[See past updates…]()
+[See past updates…](https://www.benefits.va.gov/gibill/news.asp)
 
 
 ## Training and guides {H2} 
 
 Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
 
-**[Required 2019 training for School Certifying Officials (SCOs) >]()**   
+**[Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)**   
 Required if your school has 20 or more GI Bill students.
 
 
 ### Essentials for School Certifying Officials {accordion}
 
-**[School Official’s Handbook >]()     
-[VA-ONCE quick reference user guide >]()  
-[Find your Education Liaison Representative (ELR) >]()   
-[Training webinars >]()     
-[WEAMS Public >]()     
-[Benefits A to Z >]()   
-[Check your status as a Covered Institution >]()**   
+**[School Official’s Handbook >](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)     
+[VA-ONCE quick reference user guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)  
+[Find your Education Liaison Representative (ELR) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)   
+[Training webinars >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)     
+[WEAMS Public >](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)     
+[Benefits A to Z >](https://benefits.va.gov/atoz/)   
+[Check your status as a Covered Institution >](https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp)**   
 
 **Reporting:**   
-* [General school responsibility factsheet]()
-* [Updated procedures for reporting students on academic probation]()
+* [General school responsibility factsheet](https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf)
+* [Updated procedures for reporting students on academic probation](https://gibill.custhelp.com/app/answers/detail/a_id/1436/)
 
 
 ### VA-ONCE information {accordion}
@@ -175,7 +175,7 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 
 {begin promo}  
 {image}  
-**[School Certifying Official (SCO) Handbook]()**   
+**[School Certifying Official (SCO) Handbook](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)**   
 Access revision 5.6.4, current as of September 27, 2019.  
 {end promo}
 
