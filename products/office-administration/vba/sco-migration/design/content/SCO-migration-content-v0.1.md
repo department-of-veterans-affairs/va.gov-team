@@ -57,7 +57,7 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 **[VA-ONCE P042 - Training on enhancements in newest version >](https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt)     
 [User tips for VA-ONCE >](https://www.benefits.va.gov/gibill/docs/vaonce/va-once_tips.pdf)   
 [Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks >](https://www.benefits.va.gov/GIBILL/docs/letters/Automation_of_Post911_GI_Bill_and_VAONCE_Remarks.pdf)     
-[Top ten list of what not to report in VA-ONCE >](https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf)
+[Top ten list of what not to report in VA-ONCE >](https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf)  
 [Colmery extension campus update webinar (July 2019) >](https://www.benefits.va.gov/GIBILL/docs/SCO/Ext_Campus_SCO_Virtual_Webinar.pdf)**   
 
 **Extension campus certification scenarios:**   
