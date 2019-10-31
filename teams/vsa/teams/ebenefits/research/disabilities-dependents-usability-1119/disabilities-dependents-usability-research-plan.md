@@ -1,25 +1,46 @@
-# Research Plan for [Team, Product, Date]
-(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.)
+## Research Plan for eBenefits Rated Disabilities / View Dependents Usability Testing, November 2019
+
+**Background:** Rated Disabilities and View Dependents are slated to migrate from the eBenefits subdomain to VA.gov. These features (tools, screens) will undergo technical and UI redesign to conform to site IA and the VA.gov Design System (VADS). While the VADS is relatively complete regarding content presentation, the system is not set to easily accommodate tools or application functionality.
+
+During Discovery and Design, the current functionality of both Rated Disabilities and View Dependents--basically viewing tabular or listed info from EVSS--was translated to VADS structural elements and components. These screen layouts use two new pieces were developed to align with a new "tools page" arrangement: a right-hand "help" sidebar, and light grey boxes or "cards" to list formerly tabular information. Missing from this configuration is the left-hand navigational sidebar.
 
 ### Goals
-- What product & team are you doing this research for?
-- Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
+#### Rated Disabilities
+- Determine expected baseline usage frequency and utility for the Rated Disabilities screen.
+- Determine if Veterans can quickly and easily determine their Total Disabiliy Rating (TDR).
+- Assess the utility and readability of "cards" for individual disability ratings.
+- Determine if the text presented is clear and helpful to the understanding of the Rated Disabilities information.
+- Uncover pain points, user expectations, and potential future features.
+
+#### View Dependents
+- Determine expected baseline usage frequency and utility for the Rated Disabilities screen.
+- Determine is Veterans can quickly identify their Awarded and Unawarded dependents.
+- Assess the utility and readability of "cards" for individual dependents.
+- Determine if the text presented is clear and helpful to the understanding of the Dependents information.
+- Uncover pain points, user expectations, and potential future features.
+
+#### Tools Page Layout
+- Note any usability issues transitioning from legacy ebenefits screens to new VA.gov configurations.
+- Uncover the users' expectations for navigating to and away from the screens.
+- Determine if Veterans expect a relationship--navigational, informational, etc.--between the Disabilities and Dependents screens.
+
 - Research questions: What question(s) do you hope to be able to answer after completing this research?
-- Hypothesis: What is your hypothesis for this research?
+
+#### Hypothesis
+It is likely the Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their TDR); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
 
 ### Method
-What method of research are you planning?
-- Sample Methodologies: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing.
-- Also mention: in-person moderated, remote moderated, remote unmoderated
-Why this method? How does this methodology help you answer your research questions?
-
-Where are you planning to do your research? If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)
-
-What will you be testing? (Design mocks, card sort, prototype, page, content, etc.)
-
-If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+Usability testing will be conducted remotely using Zoom or GoTo Meeting. Veterans will be presented with high-fidelity prototype created using Adobe XD. A remote moderator will prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototypes. Remote observers and note takers will be in attendance.
 
 ### Participants and Recruitment
+Participants will be recruited via Perigean. The study will require 10 Veterans from a range of service backgrounds. Participant criteria include:
+- 10 Veterans
+- Various service backgrounds
+- All genders
+- Basic computer literacy
+- Total Rated Disability of 30% or greater
+- Have or had dependents
+
 Participant criteria: What are you looking for in a participant? (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
 
 What is your recruitment strategy? (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
