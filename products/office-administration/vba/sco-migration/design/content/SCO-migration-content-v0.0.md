@@ -51,7 +51,7 @@ Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
 [Memorandum of Understanding (MOU) >]()**     
 To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your Education Liaison Representative (ELR).   
 **[VA-ONCE P042 - Training on enhancements in newest version >]()    
-[VA-ONCE how-to guide for flight school >s]()   
+[VA-ONCE how-to guide for flight school >]()   
 [User tips for VA-ONCE >]()   
 [Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks >]()     
 [Top ten list of what not to report in VA-ONCE >]()**    
