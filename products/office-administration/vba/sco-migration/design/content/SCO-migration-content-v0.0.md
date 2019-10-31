@@ -16,11 +16,11 @@ If you are a School Certifying Official (SCO) or school administrator assisting 
 [SCO Handbook]()  |  [VA-ONCE]()  |  [VA-ONCE Quick Reference Guide]()  |  [WEAMS]()  |  [Find your ELR]() 
 
 
-Latest announcements from VA
-10/1/2019 – VA now serving as State-Approving Agency for California
-10/19/2019 – Release of revised School Certifying Official Handbook
-7/10/2019 – Yellow Ribbon Program information available for 2019-2020 academic year
-See past updates…
+### Latest announcements from VA
+[10/1/2019 – VA now serving as State-Approving Agency for California]()
+[10/19/2019 – Release of revised School Certifying Official Handbook]()
+[7/10/2019 – Yellow Ribbon Program information available for 2019-2020 academic year]()
+[See past updates…]()
 
 
 Training and guides {h2 section title} 
