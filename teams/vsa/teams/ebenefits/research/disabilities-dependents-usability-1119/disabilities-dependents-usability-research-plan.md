@@ -41,23 +41,26 @@ Participants will be recruited via Perigean. The study will require 10 Veterans 
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
 - Have or had dependents; received or applied for dependents benefits
+- Sessions will run approximately 30 minutes
 
 ### When?
-Timeline: What dates do you plan to do research? (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.)
+The target for research session is the week of November 18, 2019. Preparation includes participant recruitment, refining prototypes, writing the conversation guide, and a dry run test session. This plan and the companion Conversation Guide will be finalized by November 12. Target date for the test session is November 13.
 
-Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.)
+#### Test Session
+- Wednesday, November 13, 2019
 
-Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)
-
-Availability: If applicable, when would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
-
-Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?
+#### Availability
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
 
 ### Team Member Roles
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
 - [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product lead, project point-of-contact
 - [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
-- Perigean--Participant recruiting & screening
+- Perigean -- Participant recruiting & screening
 - Note-takers -- Various as available
 - Observers -- various as available
 
