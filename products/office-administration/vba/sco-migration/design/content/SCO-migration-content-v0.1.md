@@ -142,7 +142,7 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 * [Post-9/11 GI Bill (Chapter 33)](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)     
 * [Montgomery GI Bill — Active Duty (MGIB-AD, Chapter 30)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)     
 * [Montgomery GI Bill — Selected Reserve (MGIB-SR, Chapter 1606)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) 
-* [Vocational Rehabilitation (VocRehab, Chapter 31)](https://www.va.gov/careers-employment/vocational-rehabilitation/)     
+* [Vocational Rehabilitation and Employment (VR&E, Chapter 31)](https://www.va.gov/careers-employment/vocational-rehabilitation/)     
 * [Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)](https://www.va.gov/education/survivor-dependent-benefits/)     
 * [Post-Vietnam Era Veterans’ Educational Assistance Program (VEAP, Chapter 32)](https://www.va.gov/education/other-va-education-benefits/veap/) 
 * [Educational and Career Counseling (Chapter 36)](https://www.va.gov/careers-employment/education-and-career-counseling/)  
