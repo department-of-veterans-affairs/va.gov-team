@@ -39,8 +39,12 @@ Required if your school has 20 or more GI Bill students.
 [Find your Education Liaison Representative (ELR) >]()   
 [Training webinars >]()     
 [WEAMS Public >]()     
-[Benefits A to Z >]()     
-[General school responsibility factsheet >]()**     
+[Benefits A to Z >]()   
+[Check your status as a Covered Institution >]()**   
+
+**Reporting:**   
+* [General school responsibility factsheet]()
+* [Updated procedures for reporting students on academic probation]()
 
 
 ### VA-ONCE information {accordion}
@@ -49,44 +53,37 @@ Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
 
 **[VA-ONCE quick reference guide >]()   
 [Memorandum of Understanding (MOU) >]()**     
-To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your Education Liaison Representative (ELR).   
-**[VA-ONCE P042 - Training on enhancements in newest version >]()    
-[VA-ONCE how-to guide for flight school >]()   
+To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your [Education Liaison Representative (ELR)]().   
+**[VA-ONCE P042 - Training on enhancements in newest version >]()     
 [User tips for VA-ONCE >]()   
 [Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks >]()     
-[Top ten list of what not to report in VA-ONCE >]()**    
-
-**VA-ONCE demo recordings:**   
-* [Overview of VA ONCE: Certifying an enrollment at an extension campus]()
-* [Certifying at a main and multiple extension campuses]()
-* [Certifying distance hours and hours at an extension campus]() 
-* [Reduction of hours for student taking courses at main and extension campus]() 
-
-
-### Non-traditional schools {accordion}
-
-**[Approval of on-the-job training programs factsheet >]()     
-[Program approval for foreign schools >]()     
-[How-to guide for On-the-Job Training (OJT) and Apprenticeship schools >]()**      
-
-
-### Advanced topics {accordion}
-**[Check your status as a Covered Institution >]()       
-[Common causes of school overpayments and how to avoid them >]()       
-[Updated procedures for reporting students on academic probation >]()      
-[Payment and debt information resources >]()      
-[The Treasury Offset Program: How to receive your state and federal funding >]()**
-
-**Colmery extension campus update:**   
-* [SCO Open House Presentation - July 2019]()   
-* [SCO Virtual Webinar Presentation - July 2019]()   
+[Top ten list of what not to report in VA-ONCE >]()
+[Colmery extension campus update webinar (July 2019) >]()**   
 
 **Extension campus certification scenarios:**   
 * [Certification at a main and extension campus]()   
 * [Certification for distance hours at an extension campus]()   
 * [Reduction of hours at an extension campus]()   
 * [All credit hours dropped at an extension campus]()    
-* [Certification at a main and two extension campuses with non-standard terms]()   
+* [Certification at a main and two extension campuses with non-standard terms]()  
+
+**VA-ONCE demo recordings:**   
+* [Overview of VA ONCE: Certifying an enrollment at an extension campus]()
+* [Certifying at a main and multiple extension campuses]()
+* [Certifying distance hours and hours at an extension campus]() 
+* [Reduction of hours for student taking courses at main and extension campus]()  
+
+**Non-traditional schools:**   
+* [How-to guide for On-the-Job Training (OJT) and Apprenticeship schools]()
+* [VA-ONCE how-to guide for flight schools]() 
+
+
+### Payment and debt {accordion}
+**[Payment and debt information resources >]()       
+[Direct deposit information for schools >]()      
+[Common causes of school overpayments and how to avoid them >]()      
+[The Treasury Offset Program: How to receive your state and federal funding >]()  
+[Payment fees updated with correct tuition and fees caps (9/17/2018) >]()**
 
 
 ## Upcoming events {H2} 
@@ -105,9 +102,7 @@ See full list of [Conferences and Events]()  |  [Training Webinars]()
 
 ## Policies and procedures {H2} 
 
-**[Yellow Ribbon Program information >]()    
-[Principles of Excellence >]()   
-[VA education forms, brochures and factsheets >]()** 
+**[VA education forms, brochures and factsheets >]()** 
 
 
 ### Begin the GI Bill program approval process {accordion}
@@ -119,8 +114,10 @@ The approval authority for GI Bill programs generally begins with the individual
 
 **When is VA responsible for approval of education and training programs?**   
 VA is responsible for approvals in some circumstances and for some states that do not have an SAA assigned. If you fall into one of these groups, your application will be reviewed by VA.
-* [Foreign schools]()
-* [California]() 
+* [Foreign school program approval]()
+* [California]()  
+
+**[Information for students wishing to attend foreign schools >]()**   
 
 **Applications for jurisdictions where VA is acting as State-Approving-Agency (SAA):**   
 * [New application for approval — accredited institutions]() 
@@ -134,17 +131,33 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 
 ### Learn about the GI Bill and related policies {accordion}
 
-**[About GI Bill benefits >]()  
-[Post-9/11 GI Bill >]()  
-[Edith Nourse Rogers STEM Scholarship >]()     
-[Veteran Employment Through Technology Education Courses (VET TEC) >]()**
+**[About GI Bill benefits >]()**   
 
-**Forever GI Bill information:**   
-**[Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act >]()   
-[9/17/2018 — Payment fees are now updated with the correct tuition and fees caps >]()  
-[9/7/2018 — MHA will be updated based on ZIP code >]()  
-[7/17/2018 — Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended >]()**
+**Forever GI Bill:**   
+* [Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act]()     
+* [Edith Nourse Rogers STEM Scholarship]()     
+* [Veteran Employment Through Technology Education Courses (VET TEC)]()
 
+**Benefits by chapter:**   
+* [Post-9/11 GI Bill (Chapter 33)]()     
+* [Montgomery GI Bill — Active Duty (Chapter 30)]()     
+* [Montgomery GI Bill — Selected Reserve (Chapter 1606)]() 
+* [Vocational Rehabilitation (VocRehab, Chapter 31)]()     
+* [Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)]()     
+* [Reserve Education Assistance Program (Chapter 1607)]()  
+* [Educational and Career Counseling (Chapter 36)]()  
+
+**Tuition and housing:**   
+* [Tuition and housing rate tables]()     
+* [MHA will be updated based on ZIP code (9/7/2018)]()     
+* [Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)]()
+
+**Other programs and benefits:**   
+* [Yellow Ribbon Program information]()     
+* [Principles of Excellence]()     
+* [Tuition Assistance (TA) Top Up]() 
+* [Work study]()     
+* [Co-op training)]() 
 
 ---
 #### Other resources to support your students (H3)
@@ -152,8 +165,7 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 **[How to apply for education benefits >]()  
 [Scholarships and financial aid >]()  
 [Adult College Completion Toolkit >]()  
-[Employment assistance >]()  
-[Payment and debt information resources >]()  
+[Employment assistance >]()   
 [CareerScope aptitude assessment >]()   
 [GI Bill Comparison Tool >]()**
 
@@ -188,6 +200,8 @@ Supplemental claims:
 A supplemental claim is a re-enrollment or other change that impacts VA benefits.    
 
 See [FAQ]() for more information.  
+
+Last updated: October 30, 2019.
 
 
 ### Connect with us  {mini accordion}
