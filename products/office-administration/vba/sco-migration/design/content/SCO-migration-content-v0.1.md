@@ -164,12 +164,12 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 ---
 #### Other resources to support your students (H3)
 
-**[How to apply for education benefits >]()  
-[Scholarships and financial aid >]()  
-[Adult College Completion Toolkit >]()  
-[Employment assistance >]()   
-[CareerScope aptitude assessment >]()   
-[GI Bill Comparison Tool >]()**
+**[How to apply for education benefits >](https://www.va.gov/education/how-to-apply/)  
+[Scholarships and financial aid >](https://www.benefits.va.gov/gibill/non_va_resources.asp#financial_aid)  
+[Adult College Completion Toolkit >](https://www.benefits.va.gov/GIBILL/docs/adult_college_completion_toolkit.pdf)  
+[Employment assistance >](https://www.benefits.va.gov/vow/)   
+[CareerScope aptitude assessment >](https://www.benefits.va.gov/GIBILL/careerscope.asp)   
+[GI Bill Comparison Tool >](https://www.va.gov/gi-bill-comparison-tool)**
 
 ---
 
@@ -184,10 +184,10 @@ Access revision 5.6.4, current as of September 27, 2019.
 
 ### Ask questions {mini accordion}
 
-**[FAQs for GI Bill]()**  
+**[FAQs for GI Bill](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8%3D)**  
 Search the FAQs to find answers to popular questions.    
 
-**[Submit a Question]()**  
+**[Submit a Question](https://gibill.custhelp.va.gov/)**  
 Ask a question about GI Bill benefits.   
 
 
@@ -201,7 +201,7 @@ Supplemental claims:
 
 A supplemental claim is a re-enrollment or other change that impacts VA benefits.    
 
-See [FAQ]() for more information.  
+See [FAQ](https://www.benefits.va.gov/gibill/navigatinggib.asp) for more information.  
 
 Last updated: October 30, 2019.
 
@@ -211,17 +211,20 @@ Last updated: October 30, 2019.
 [Find your Education Liaison Representative (ELR)](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)      
  
 **Email us**    
-[Email VBA Support Team]()    
+[Email VBA Support Team](support@vbatraining.org)    
 
 **Get updates**    
-[Veterans benefits email updates]()    
+[Veterans benefits email updates](https://public.govdelivery.com/accounts/USVAVBA/subscriber/new)    
 
 **Call us**  
 [VA Education Call Center:  
-1-888-GIBILL-1 (1-888-442-4551)]()
+1-888-GIBILL-1 (1-888-442-4551)](1-888-442-4551)
 
-[Outside the U.S.: +1-918-781-5678  
-Call MyVA311 for help: 1-844-698-2311]()
+[Outside the U.S.:  
++1-918-781-5678](1-918-781-5678)  
+
+[Call MyVA311 for help:   
+1-844-698-2311](1-844-698-2311)
 
 If you have hearing loss, call TTY: 711.
 
