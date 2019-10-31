@@ -110,23 +110,23 @@ See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/res
 **Where does a facility begin the process of GI Bill program approval?**     
 The approval authority for GI Bill programs generally begins with the individual states via the [State Approving Agency (SAA)](http://www.nasaa-vetseducation.com/Contacts.aspx) of jurisdiction.  Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
 
-**[Education program approval guidelines >]()**   
+**[Education program approval guidelines >](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1481/kw/1481)**   
 
 **When is VA responsible for approval of education and training programs?**   
 VA is responsible for approvals in some circumstances and for some states that do not have an SAA assigned. If you fall into one of these groups, your application will be reviewed by VA.
-* [Foreign school program approval]()
-* [California]()  
+* [Foreign school program approval](https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp)
+* [California](ca-approvals@va.gov)  
 
-**[Information for students wishing to attend foreign schools >]()**   
+**[Information for students wishing to attend foreign schools >](https://benefits.va.gov/gibill/foreign_schools.asp)**   
 
 **Applications for jurisdictions where VA is acting as State-Approving-Agency (SAA):**   
-* [New application for approval — accredited institutions]() 
-* [New application for approval — non-accredited institutions]() 
-* [Renewal or program amendment application — accredited institutions]() 
-* [Renewal or program amendment application — non-accredited institutions]() 
+* [New application for approval — accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf) 
+* [New application for approval — non-accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Non-Accredited_Program.pdf) 
+* [Renewal or program amendment application — accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Accredited_Application.pdf) 
+* [Renewal or program amendment application — non-accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf) 
 
 **How do you receive approval for on-the-job training programs?**     
-See our [Approval of On-the-Job Training Programs factsheet]() addressing the following requirements: programs, wages, and facilities.
+See our [Approval of On-the-Job Training Programs factsheet](https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf) addressing the following requirements: programs, wages, and facilities.
 
 
 ### Learn about the GI Bill and related policies {accordion}
@@ -139,25 +139,27 @@ See our [Approval of On-the-Job Training Programs factsheet]() addressing the fo
 * [Veteran Employment Through Technology Education Courses (VET TEC)]()
 
 **Benefits by chapter:**   
-* [Post-9/11 GI Bill (Chapter 33)]()     
-* [Montgomery GI Bill — Active Duty (Chapter 30)]()     
-* [Montgomery GI Bill — Selected Reserve (Chapter 1606)]() 
-* [Vocational Rehabilitation (VocRehab, Chapter 31)]()     
-* [Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)]()     
-* [Reserve Education Assistance Program (Chapter 1607)]()  
-* [Educational and Career Counseling (Chapter 36)]()  
+* [Post-9/11 GI Bill (Chapter 33)](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)     
+* [Montgomery GI Bill — Active Duty (Chapter 30)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)     
+* [Montgomery GI Bill — Selected Reserve (Chapter 1606)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) 
+* [Vocational Rehabilitation (VocRehab, Chapter 31)](https://www.va.gov/careers-employment/vocational-rehabilitation/)     
+* [Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)](https://www.va.gov/education/survivor-dependent-benefits/)     
+* [Post-Vietnam Era Veterans’ Educational Assistance Program (VEAP, Chapter 32)](https://www.va.gov/education/other-va-education-benefits/veap/) 
+* [Educational and Career Counseling (Chapter 36)](https://www.va.gov/careers-employment/education-and-career-counseling/)  
 
 **Tuition and housing:**   
-* [Tuition and housing rate tables]()     
-* [MHA will be updated based on ZIP code (9/7/2018)]()     
-* [Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)]()
+* [Tuition and housing rate tables](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp)     
+* [MHA will be updated based on ZIP code (9/7/2018)](https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf)     
+* [Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)](https://www.benefits.va.gov/GIBILL/docs/fgib/107_SCO_Letter.pdf)
 
 **Other programs and benefits:**   
-* [Yellow Ribbon Program information]()     
-* [Principles of Excellence]()     
-* [Tuition Assistance (TA) Top Up]() 
-* [Work study]()     
-* [Co-op training)]() 
+* [Yellow Ribbon Program information](https://www.benefits.va.gov/gibill/yellow_ribbon/yellow_ribbon_info_schools.asp)     
+* [Principles of Excellence](https://www.va.gov/education/choosing-a-school/principles-of-excellence/)     
+* [Tuition Assistance (TA) Top Up](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/) 
+* [National Call to Service Program)](https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/) 
+* [Work study](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/)     
+* [Co-op training)](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/) 
+
 
 ---
 #### Other resources to support your students (H3)
