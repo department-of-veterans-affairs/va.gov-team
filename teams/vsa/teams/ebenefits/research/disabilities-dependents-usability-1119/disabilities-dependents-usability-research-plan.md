@@ -62,13 +62,15 @@ Pilot: Please indicate a date before your sessions begin for piloting your resea
 - Observers -- various as available
 
 ### Resources
-- [Project Brief]()
+- [Project Brief for Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/profile-dependents.md)
+
+- [Project Brief for Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/profile-rated-disabilities.md)
 
 - [Conversation Guide]()
 
-- [Rated Disabilities Prototype]()
+- [Rated Disabilities Prototype](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/)
 
-- [View Dependents Prototype]()
+- [View Dependents Prototype](https://xd.adobe.com/view/852342af-36f7-41b6-7e04-29c9ca8b210e-f312/)
 
 - [Session Notes]()
 
