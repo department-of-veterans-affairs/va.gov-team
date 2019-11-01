@@ -8,9 +8,10 @@
 - Complete consolidation of functionality
   - Integrate urgent care facility and urgent care pharmacy facilities
   - Integrate legacy health care benefit pages (Community Care) into existing architecture/design and clarify each for user
+- Prepare Veterans for their visit
   - Incorporate Mission Act-required facility drive time functionality
   - Incorporate basic benefit eligibility information
-- Improve data trasnparency and organization
+- Improve data transparency and organization
   - Data-driven design to organize information
   - Integrate Facility API
   - Integrate services and facilities into UX
