@@ -52,7 +52,7 @@ The term **decision review** encompasses all three AMA lanes, including **appeal
 ## User Problem Statement
 Currently, a gating mechanism exists on va.gov asking a user if they have previously filed for a disability claim. When the user udentifies it is their first time filing for a disability claim, they are directed to start the process on eBenefits.  
 
-- I am a Veteran or dependent who has received an unfavorable decision on my original claim. I would like to file a decision review request myself, but there is no way to do that online. The paper forms I have to fill out don't make a lot of sense, ask me for information that the VA already knows, and don't fully explain my various options. If I make a mistake on these forms it could set my case back years!
+- I am a Veteran who is in need of filing a Disability Claim, but since I have never filed on before I am not able to do so on va.gov and am forced to have to complete it on the eBenefits website instead, which is an upfavorable user experience. 
 
 ## Solution Goals
 
