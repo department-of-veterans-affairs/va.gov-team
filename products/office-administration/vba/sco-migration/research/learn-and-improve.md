@@ -2,4 +2,4 @@
 
 Content components
 * Would users benefit from a description under the Forms & Factsheets link?
-* Which additional education programs and benefits could we include?
+* Which additional education programs and benefits could we include within the GI BIll Benefits and Programs accordion?
