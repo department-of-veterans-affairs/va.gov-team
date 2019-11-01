@@ -23,7 +23,7 @@ During Discovery and Design, the current functionality of both Rated Disabilitie
 ### Goals
 #### Rated Disabilities
 - Determine expected baseline usage frequency and utility for the Rated Disability screen.
-- Determine if Veterans can quickly and easily determine their Total Combined Disabiliy Rating (TCDR).
+- Determine if Veterans can quickly and easily recognize their Total Combined Disabiliy Rating (TCDR).
 - Assess the utility and readability of "cards" for individual disability ratings.
 - Determine if the text presented is clear and helpful to the understanding of the Rated Disabilities information.
 - Uncover pain points, user expectations, and potential future features.
@@ -38,6 +38,7 @@ During Discovery and Design, the current functionality of both Rated Disabilitie
 #### Tools Page Layout
 - Note any usability issues transitioning from legacy eBenefits screens to new VA.gov configurations.
 - Uncover the users' expectations for navigating to and away from the screens.
+- Assess the effectiveness of the right-hand sidebar and determinine if the information is readily apparent
 - Determine if Veterans expect a relationship--navigational, informational, etc.--between the Disabilities and Dependents screens.
 
 #### Hypothesis
@@ -72,6 +73,7 @@ Participants will be recruited via Perigean. The study will require 10 Veterans 
 - All genders
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
+- Several Veterans (3 to 4) with Total Rated Disability of 80% or greater and cognitive disabilities
 - Have or had dependents; received or applied for dependents benefits
 - Because XD prototypes will be presented, there is no support for users needing adaptive equipment or software
 - Sessions will run approximately 30 minutes
