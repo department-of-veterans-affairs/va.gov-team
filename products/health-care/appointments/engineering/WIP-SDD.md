@@ -46,12 +46,14 @@ The new redesign is a web only interface, there is no native application compone
 | Browser | Minimum version  | Note |
 |---------|------------------| ---- | 
 | Internet Explorer | 11 |
-| Microsoft Edge    | 13 |
-| Safari / iOS Safari |  9 |
-| Chrome / Android Web view | 44 | _Latest version with >0.5% of traffic_ |
-| Firefox           | 52 | _Latest version with >0.5% of traffic_ |
+| Microsoft Edge    | 14 |
+| iOS               | 9 |
+| Safari            | 10 |
+| Chrome            | 60 |
+| Chrome (Android)  | 64 |
+| Firefox           | 56 |
 
-Source: [Browser Support](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/DocumentedDecisions/Browser%20Support.md)
+Source: [Browser Support Policy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/DocumentedDecisions/Browser%20Support.md)
 
 #### Accessibility (Screen Readers and 508 Compliance)
 
