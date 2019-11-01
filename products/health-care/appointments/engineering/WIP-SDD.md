@@ -1,25 +1,20 @@
-# Mobile Application System Design Document (SDD) Addendum
+# Mobile Application System Design Document (SDD)
 
-The System Design Document (SDD) is a dual-use document that provides the conceptual design as well as the as-built design. This document will be updated as the product is built, to reflect the as-built product. Per the Project Management Accountability System (PMAS) Guide, the SDD with conceptual design is required prior to the Milestone 1 Review.
+The System Design Document (SDD) is a dual-use document that provides the conceptual design as well as the as-built design. This document will be updated as the product is built, to reflect the as-built product. 
 
 ## 1. Mobile Application Information
 
 ### Overview
 
-Software Name: VA Online Scheduling (VAOS) Web Application
-
-Project Increment / Release Designation: ?
-
-Product Version (current): 0
-
-Source Repository:
-
-FE: https://github.com/department-of-veterans-affairs/vets-website
-BE: https://github.com/department-of-veterans-affairs/vets-api
-
-Software Type: App
-
-Intended Audience for Mobile Application: Veteran
+|   |   |
+|---|---|
+| Software Name                            | VA Online Scheduling (VAOS) Web Application  |
+| Project Increment / Release Designation  | Beta? |
+| Product Version (current)  | 0  |
+| Source Repository Frontend | https://github.com/department-of-veterans-affairs/vets-website |
+| Source Repository API Wrapper  | https://github.com/department-of-veterans-affairs/vets-api |
+| Software Type | App |
+| Intended Audience | Veteran |
 
 ### Data Storage
 
@@ -46,7 +41,22 @@ The new redesign is a web only interface, there is no native application compone
 
 ### Supported Browsers:
 
-The new redesign is accessible across all modern browsers.
+#### Browsers
+
+| Browser | Minimum version  | Note |
+|---------|------------------| ---- | 
+| Internet Explorer | 11 |
+| Microsoft Edge    | 13 |
+| Safari / iOS Safari |  9 |
+| Chrome / Android Web view | 44 | _Latest version with >0.5% of traffic_ |
+| Firefox           | 52 | _Latest version with >0.5% of traffic_ |
+
+Source: [Browser Support](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/DocumentedDecisions/Browser%20Support.md)
+
+#### Accessibility (Screen Readers and 508 Compliance)
+
+See: [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5f0547fc2a8fbaa4d9004ceedb7da4d5989c5209/platform/accessibility/508-accessibility-best-practices.md)
+
 
 ### Capabilities:
 
@@ -54,20 +64,24 @@ The new redesign is accessible across all modern browsers.
 1. Cancel VistA booked appointments.
 1. View list of appointment requests made in VAR.
 1. Cancel appointment requests.
-1. Directly book a VistA appointment at a clinic.
+1. ~Directly book a VistA appointment at a clinic.~
 1. Request an appointment at a facility.
 1. Submit message to clerk along with request.
-1. Submit an Express Care request.
+1. ~Submit an Express Care request.~
 1. Request a Community Care appointment (This capability is available depending on the Veteran's community care eligibility based on EE codes from ADR)
 
-## 2 Application Design
+## 2. Application Design
 
-< Talk about VA Platform >
-< Talk about accessibility >
+### Design Principles and Patterns
+
+VA.gov is a single page application written in React.
+VA.gov mostly interfaces with vets-api, a Ruby on Rails application that serves JSON.
+VA.gov adheres to the strictest of REST standards. 
+... ???
 
 ### Conceptual Perspective
 
-Component diagram depicting how the new redesign web application connects across software in the VAOS Scheduling SUITE is illustrated below.
+Component diagram depicting how the new redesign web application connects across software in the VAOS Scheduling SUITE is illustrated below. < Need a Picture >
 
 ### Common Concepts
 
@@ -77,31 +91,55 @@ Component diagram depicting how the new redesign web application connects across
 
 Functional Workflows Diagram
 
-### Typical Request Workflow Diagram
+### Request Service Workflow Diagram
 
-### User Service Work Workflow Diagrams
+VA.gov -> VAMF
 
-### Mobile Appointments Service Workflow Diagram
+### User Service Workflow Diagram
+
+VA.gov -> VAMF
+
+### Appointments Service Workflow Diagram
+
+VA.gov -> VAMF
 
 ### Community Care Eligibility Workflow Diagram
 
-### Facility Resource Workflow Diagram
+VA.gov -> VAMF
 
-### Direct Scheduling Workflow Diagram
+### Facility Service Workflow Diagram
 
-### Appointments Workflow Diagram
-
-### Facility Workflow Diagram
+VA.gov -> VAMF
 
 ### Messaging Service Diagram
+
+VA.gov -> VAMF
 
 ## Technology Stack and Service Dependencies
 
 ### Technology Stack Overview
 
+The following is a running list of all major technologies chosen to build out the new VAOS veteran facing application.
+
+| Technology, Libraries, and Tools | Version | On the TERM (If not, provide a link to the waiver) |
+|----------------------------------|---------|----------------------------------------------------|
+| HTML 5 | 5 | Yes|
+| CSS | 3 | Yes |
+| Google Analytics | ? | Yes |
+| Ruby | 2.4.5 | Yes |
+
+MORE to come...
+
+
 ### VA.gov Intefaces
 
+|Interface Name | Version | Domain | Description of Role | SDD |
+|---------------|---------|--------|---------------------|-----|
+| VA.gov API    | 0       | VA.gov | Wrapper for services in VAMF | N/A |
+
 ### VAMF Intefaces
+
+[Existing Var Resources SDD](https://wiki.mobilehealth.va.gov/pages/viewpage.action?spaceKey=ARA&title=VA+Online+Scheduling+%28VAOS%29+VAR-Web+Application+4.18.x+SDD#VAOnlineScheduling(VAOS)VAR-WebApplication4.18.xSDD-4.TechnologyStackandServiceDependencies)
 
 ## Developer and Program Manager Contact Information
 
