@@ -4,7 +4,7 @@ Breadcrumb: [Home](https://www.va.gov/) > [Education](https://www.va.gov/educati
 
 ## Page Title: Resources for schools {H1}
 
-Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits.  Find upcoming events and trainings, resources and guides, and key information on GI Bill programs to help better support military-connected students.   
+Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.  
 
 **On this page**   
 * Training and guides {jump link}
