@@ -26,6 +26,15 @@ I have a few things I need to mention before we start:
 - What other sites do you regularly use to learn about or manage VA benefits?
 - What computers or phones do you use to access VA (or other) sites? (If no mobile experience) Would you consider using a phone to access VA.gov?
 - How has the VA communicated with you in the past? Which of these had links or referenced websites?
+- Last... before we look at the test pages, if you wanted to see your VA disability rating, what would you do? This can be online or otherwise: website, phone call, in-person... 
+- And how would you find or review your dependents benefits?
+- (If no online path indicated) In what circumstances would you try to find this information online?
+
+### Orientation to Screens
+OK, now well take a look at the link I sent you. Can you share your screen? (ALT) OK, now well look at the pages we're testing; I'll share my screen. Please let me know hwen you can see it.
+
+What you see is a prototype--it's not a functioning website, but it will have some working links that we'll click on as we go.
+
 
 ## Rated Disabilities
 
