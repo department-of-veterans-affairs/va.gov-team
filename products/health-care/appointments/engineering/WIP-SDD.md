@@ -123,12 +123,29 @@ VA.gov -> VAMF
 
 The following is a running list of all major technologies chosen to build out the new VAOS veteran facing application.
 
-| Technology, Libraries, and Tools | Version | On the TERM (If not, provide a link to the waiver) |
+#### Back-end
+
+| Technology, Libraries, and Tools | Version | On the TRM (If not, provide a link to the waiver) |
+|----------------------------------|---------|----------------------------------------------------|
+| Ruby | 2.4.5 | Yes |
+
+#### Front-end
+
+| Technology, Libraries, and Tools | Version | On the TRM (If not, provide a link to the waiver) |
 |----------------------------------|---------|----------------------------------------------------|
 | HTML 5 | 5 | Yes|
 | CSS | 3 | Yes |
-| Google Analytics | ? | Yes |
-| Ruby | 2.4.5 | Yes |
+| SASS | 4 | Yes |
+| Google Analytics | | Yes |
+| React | 16.8.6 | Yes |
+| Redux | 4.0.4 | No |
+| React Router | 3.2.1 | No |
+| MomentJS | 2.24.0 | No |
+| Webpack | 4.32.2 | No |
+
+[Full front end dependency list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/package.json)
+
+Note: tools and technologies used are all approved for use on the Veteran Facing Services Platform and are currently in use for other production applications on VA.gov.
 
 MORE to come...
 
