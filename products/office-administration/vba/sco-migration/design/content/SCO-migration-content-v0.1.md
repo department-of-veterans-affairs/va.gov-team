@@ -35,7 +35,7 @@ Required if your school has 20 or more GI Bill students.
 ### Essentials for School Certifying Officials {accordion}
 
 **[School Official’s Handbook >](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)     
-[VA-ONCE quick reference user guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)  
+[VA-ONCE quick reference guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)  
 [Find your Education Liaison Representative (ELR) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)   
 [Training webinars >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)     
 [WEAMS Public >](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)     
