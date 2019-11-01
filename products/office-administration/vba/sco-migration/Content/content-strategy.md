@@ -24,50 +24,44 @@ Only used when there is a critical call-out needed for the hub.  Primarily used 
 
 **Spokes:**
 - A sub-grouping of pages/links/accordions.   
-- There should be no more than 3 spokes.    <-- Seems very limiting
-- There should be a max of 7 accordions in each spoke.  
+- There should be no more than 4 spokes.
+- There should be a max of 6 accordions in each spoke.  
 
-*Housing Hub*
-- Spokes are based on the 2 sub-benefits in this area - Home Loans and Housing Grants
-- Within each spoke, options are ordered based on the Get, Manage and More approach
+*SCO Hub*
+- The spokes on the School Resources page are: Training & Guides; Upcoming events; and Policies and procedures
+- "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 
-*Burials Hub*
-- There are no benefits to manage in this area, so that spoke has been replaced with a spoke that revolves around how/when to use the benefits called "Plan a Burial".
+*Announcements*
+- Displays the 3 most recent announcements.  These announcements are also displayed on the Breaking News page. 
+- Announcements may include links to resources that reside in their permanent location.
 
-*Records Hub*
-- Only 1 spoke that is task based. 
+*Within each spoke* 
+- Content and links are placed within accordions
+- What is the rhyme or reason for when links are categorized beneath a sub-heading and when they are not?
+- Hyperlinks are either underlined and unbold or bold, not underlined with a chevron. 
 
-*Family Hub*
-- Spokes are based on 2 sub-audiences - general family members and survivors and family caregivers.
-- This hub has the addition of eligibility tags under each link to identify who, at a high level, is eligible for each benefit.
+*Training and guides spoke*
+- The Essentials for School Certifying Officials accordion is designed to contain links that SCOs acccess frequently and resources that new SCO need as they begin the onboarding process.
+- The VA-ONCE accordion is designed to contain all resources related to VA-ONCE.
+- The Payments and debt accordion is designed to contain a resources related to payments and debt.
 
-*Service Member Hub*
-- Spokes are based on pre-transition, during transition and after transition. 
-- This hub has the addition of elibility tags under each link to identify who, at a high level, is eligible for each benefit.
-- Items in during transition spoke are ordered based on the timeliness in which they need to be applied for. 
+*Upcoming events spoke*
+- Displays the 3 most recent events, as well as, links to access Conferences and events and Training webinars.  These events are also displayed on the Breaking News page. 
+
+*Policies and procedures spoke*
+- The GI Bill Program Approval Process accordion contains information on how to obtain GI Bill approval for programs.
+- The GI Bill Benefits and programs accordion contains information on the various GI Bills.
 
 
 **Crosslinking:**
-- Links to other benefits and services not within the current hub that are for Veterans and service members or their families.    Options should be for other audiences (i.e. schools, realtors, cemetery management, etc.)   
-- Options should only be major VA benefits and services and should link to high level pages. 
-- Exceptions/variations defined below.
-
-*Records Hub
-- No crosslinking section is included on this hub
-
-*Family Hub
-- The crosslinking section is used to highlight benefits that the user may be looking to apply for/manage on behalf of their Veteran. 
-
-*Service Member Hub
-- No crosslinking section is included on this hub since all the core VA benefits are included in the main spokes of the page. 
+- Any guidelines here?
 
 
-**Promo Spot:**
-- Not required for all benefit hubs.   
+**Promo Spot:**  
 - Call-out to key content or service directly related to the benefit hub.  
 - Same promo that is also displayed in the top nav.
 - Should not lead user off VA.gov
-- Must be Veteran content
+- Must be SCO or School Administrator content
 
 **Ask Questions:**
 - Includes link to Iris as well as other key contact numbers for Veterans for that benefit area that are for getting assistance with applying for and managing the benefits in the hub.
