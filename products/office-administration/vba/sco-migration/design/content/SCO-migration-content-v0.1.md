@@ -44,7 +44,7 @@ Required if your school has 20 or more GI Bill students.
 
 **Reporting:**   
 * [General school responsibility factsheet](https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf)
-* [Updated procedures for reporting students on academic probation](https://gibill.custhelp.com/app/answers/detail/a_id/1436/)
+* [Process for reporting students on academic probation](https://gibill.custhelp.com/app/answers/detail/a_id/1436/)
 
 
 ### VA-ONCE information {accordion}
