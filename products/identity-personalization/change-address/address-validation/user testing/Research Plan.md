@@ -60,7 +60,7 @@ GoTo Meeting
 ## Participants and Recruitment
 1.	**Participant criteria: What are you looking for in a participant?**
 
-We need **5 participants** that meet the following criteria:
+We need **3 participants** that meet the following criteria:
 
 - People who have previously used VA.gov
 - People who receive at least one benefit from the VA
