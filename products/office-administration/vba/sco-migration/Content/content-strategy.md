@@ -1,4 +1,4 @@
-# SCO Page Content Strategy
+# School Resources Page Content Strategy
 
 
 ## Page Type:  Hub
@@ -6,33 +6,26 @@
 Mockup/Example: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
 
 **Page Purpose/Intent:**
-- Serves as a key landing page for a benefit area and provides content and links to help users understand what information is available in that section.  
-- The hub page can also act as a target landing page for outreach materials. 
-- Hub pages should only be used for the top level page in a benefit or content area, and were specifically designed for benefit content areas.  
+- Serves as a key landing page. Provides content and links to help users understand what information is available in that section.  
 
 ### Components
 
 **Page Title:**
-Name of the benefit area. Each benefit area includes a unique icon that represents the benefit.  
+Name of the area. Each area includes a unique icon that represents the benefit.  
 
 **Intro Text:**
-Brief description of content within the hub.
+Brief description of content on the page.
 
 **On This Page:**
 Jump links to each of the spokes. 
 
 **Crisis Callout:**
-Only used when there is a critical call-out needed for the hub.  Primarily used for homeless or mental health services. Not used on all hubs. 
+Only used when there is a critical call-out needed for the hub.  Primarily used for homeless or mental health services. Not used on all hubs. <- OMIT entirely or will they be able to use callouts?
 
 **Spokes:**
-- A sub-grouping of pages/links that exist in the hub.  
-- Spokes should not include links to non-Veteran content. 
-- There should be no more than 3 spokes.    There should be a max of 10 links in each spoke.  
-- The standard spokes for core benefits are:  Get Benefits, Manage Benefits, More Resources
-- Some hubs may have slightly different spokes based on the needs or content structure of that area - exceptions/variations to this approach are defined below
- - Get Benefits spoke - includes links to pages that are specifically about learning and applying for the benefit, also includes additional related benefits in the same hub (i.e. family specific or secondary benefits)
-  - Manage Benefits spoke - includes links to pages/tools that allow users to manage the benefit (after they have applied)
-  - More Resources spoke - includes links to helpful pages/tools that users may want to reference before and/or after applying. 
+- A sub-grouping of pages/links/accordions.   
+- There should be no more than 3 spokes.    <-- Seems very limiting
+- There should be a max of 7 accordions in each spoke.  
 
 *Housing Hub*
 - Spokes are based on the 2 sub-benefits in this area - Home Loans and Housing Grants
