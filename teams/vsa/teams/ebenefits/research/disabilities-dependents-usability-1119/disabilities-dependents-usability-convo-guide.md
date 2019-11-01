@@ -14,7 +14,7 @@ I have a few things I need to mention before we start:
 - We're not testing you in any way--there are no right or wrong answers. We want to hear your candid thoughts about what we show you so that we can make improvements to VA.gov.
 - Don't worry, I will not be offended by any opinons you express. Please be open about what you think.
 - Do you have any questions for me before we start?
-- With your permission, I will be recording this session. This will geive a record to use for note-taking. The recording will be store on a private drive--there is no public access. It will be deleted when we conclude our testing , and no personal identifying information will be transcribed.
+- With your permission, I will be recording this session. This will give a record to use for note-taking. The recording will be stored on a private drive and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - Do I have your permission to record this session?
 
 ## Warm-up
@@ -35,8 +35,16 @@ OK, now we'll take a look at the link I sent you. Can you share your screen? (If
 
 What you see is a prototype--it's not a functioning website, it's just a page design right now. But it will have a few working links that we'll click on as we go.
 
-
 ## Rated Disabilities
+#### Landing Screen
+You mentioned you'd try to find your VA disability rating by: (cite how participant responded). For the purpose of our session, we're going to skip straight to what you would see if you might have searched Google or the VA.gov site itself.
+- Imagine you've searched for "Disability Rating" and come to this page; what do you think you should do next?
+- If you' didn't want to log in, but you had questions, what could you do to get answers? Are these acceptable options?
+- From what you see on this page, who's allowed to go on the next step? If someone who's not eligible logged in, what would you expect them to see?
+- If you didn't want to log in just yet, what would you look at next? Is there a section or link for that?
+#### Disability Rating Screen
+
+
 
 ## View Dependents
 
