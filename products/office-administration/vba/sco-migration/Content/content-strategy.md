@@ -52,6 +52,9 @@ Only used when there is a critical call-out needed for the hub.  Primarily used 
 - The GI Bill Program Approval Process accordion contains information on how to obtain GI Bill approval for programs.
 - The GI Bill Benefits and programs accordion contains information on the various GI Bills.
 
+*Resources to support students spoke*
+- The Resources to support students box contains an uncategorized list of links for students.
+
 
 **Crosslinking:**
 - Any guidelines here?
@@ -64,15 +67,13 @@ Only used when there is a critical call-out needed for the hub.  Primarily used 
 - Must be SCO or School Administrator content
 
 **Ask Questions:**
-- Includes link to Iris as well as other key contact numbers for Veterans for that benefit area that are for getting assistance with applying for and managing the benefits in the hub.
+- Includes links to FAQ for GI Bill and Submit a Question tools.
 
-**Not a Veteran:**
-- Not required for all benefit hubs.
-- Includes links to content areas for other audiences/personas served by that benefit/administration. 
-- Links should be audience/persona based, not links to single/specific forms or documents.  Ideally we would link to a landing page that can provide information on what is available to that audience/persona or describe the form/document and then link to it.  
+**Average processing times:**
+- This callout contains time estimates that are updated on a frequent basis.  
 
 **Connect with Us:**
-- Not required for all benefit hubs.  
-- Primary link is the the Administration that owns the benefit area.
-- Includes links to get news/information about that benefit area or administration.
-- Includes social media links.
+- Contains Email link for Find your Education Liason Representative (ELR)
+- Contains Email link for VBA Support Team
+- Contains Link to VA Email updates
+- Contains Contact informatin for the VA Education Call Center
