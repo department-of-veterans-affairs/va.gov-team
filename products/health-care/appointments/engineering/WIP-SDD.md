@@ -83,7 +83,9 @@ VA.gov adheres to the strictest of REST standards.
 
 ### Conceptual Perspective
 
-Component diagram depicting how the new redesign web application connects across software in the VAOS Scheduling SUITE is illustrated below. < Need a Picture >
+The combination of the new veteran facing application on VA.gov and the API wrapper that it interfaces are the only two changes to the existing SDD. The API wrapper interfaces with VAMF services in precisely the same way that VAR Web does today. The wrapper ensures that ICN, EDIPI, patient IDs, and other PII are not exposed to VA.gov FE.  The API wrapper receives a JWT token from UserService, thereby enabling it invoke other service calls within the API Gateway. The API wrapper maintains a short lived cache of the JWT token for future requests it needs to make during the duration of the users session and interactions withing the veteran facing tool. 
+
+The veteran facing does not interface with any VAMF services directly, all interactions are facilitated through the API Wrapper (or client). This is the only significant change from an architectural standpoint from how service calls would be made on VAR Web today. 
 
 ### Common Concepts
 
@@ -91,7 +93,9 @@ Component diagram depicting how the new redesign web application connects across
 
 ### Logical Perspective
 
-Functional Workflows Diagram
+A simplified workflow diagram would look like:
+
+(Veteran Facing Application -> VA.gov API) AKA VA.gov -> VAMF API Gateway (including UserService, Appointments, etc.)
 
 ### Request Service Workflow Diagram
 
