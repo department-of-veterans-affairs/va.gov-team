@@ -72,7 +72,7 @@ Flow. From profile:
 - Confirm
 - Back on profile
 
-## Thank-You and Closing - 1 minutes
+## Thank-You and Closing (1 minute)
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
