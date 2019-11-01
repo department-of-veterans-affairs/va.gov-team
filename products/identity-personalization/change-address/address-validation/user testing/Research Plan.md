@@ -109,7 +109,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Samara Strauss
 - Participant(s) for pilot test: N/A
 - Note-takers: Perigean
-- Observers: Justin Pickett (jpickett@governmentcio.com ), Erik Hansen (erik@adhocteam.us), Arthur Green (agreen@governmentcio.com), Lisa Koenigsberg (Lisa.Koenigsberg@va.gov), Lihan Li (lihan@adhocteam.us), Amen Ra (ara@governmentcio.com )
+- Observers: Justin Pickett (jpickett@governmentcio.com ), Erik Hansen (erik@adhocteam.us), Arthur Green (agreen@governmentcio.com), Lisa Koenigsberg (Lisa.Koenigsberg@va.gov), Brad Conley (bconley@governmentcio.com), Dan Hinze (dan.hinze@adhocteam.us)
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
