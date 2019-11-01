@@ -105,7 +105,7 @@ See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/res
 **[VA education forms, brochures and factsheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)** 
 
 
-### Begin the GI Bill program approval process {accordion}
+### GI Bill program approval process {accordion}
 
 **Where does a facility begin the process of GI Bill program approval?**     
 The approval authority for GI Bill programs generally begins with the individual states via the [State Approving Agency (SAA)](http://www.nasaa-vetseducation.com/Contacts.aspx) of jurisdiction.  Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
@@ -129,7 +129,7 @@ VA is responsible for approvals in some circumstances and for some states that d
 See our [Approval of On-the-Job Training Programs factsheet](https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf) addressing the following requirements: programs, wages, and facilities.
 
 
-### Learn about the GI Bill and related policies {accordion}
+### GI Bill benefits and programs {accordion}
 
 **[About GI Bill benefits >](https://www.va.gov/education/about-gi-bill-benefits/)**   
 
