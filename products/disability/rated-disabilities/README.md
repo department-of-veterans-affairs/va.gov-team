@@ -84,9 +84,13 @@ Currently in development, designs approved, moving towards staging.
 - **October 2019**: Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
 
 ## How to Access and Test
-- Link: This feature is anticipated to reside at staging.va.gov/disability/rated-disabilites
+- Link: Unauthenticated: https://staging.va.gov/disability/check-disability-rating/
+- Link: Authenticated: https://staging.va.gov/disability/check-disability-rating/rating/
 - Password protection info:
-- User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
+- User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
+  - User 228 has 5 ratings, 3 are SC
+  - User 10 has no ratings
+  - User 123 has 1 rating, SC
 
 ## Error Handling
 There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
