@@ -20,7 +20,7 @@ Before we start, a few things I want to mention:
 - **If for any reason and at any time you want to stop the session, please let me know.** You will not be penalized in any way if we need to stop.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
 
-## Warm-up Questions (2 minutes)
+## Warm-up Questions (7 minutes)
 
 1. Before we start, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
 
@@ -28,15 +28,49 @@ Before we start, a few things I want to mention:
 
 OK, now I am going to turn on the recording.
 
-2. 
+2. Do you receive benefits from the VA? 
+- (If yes) May I ask which benefits?
+3. Since receiving benefits from the VA, have you ever had to update your mailing address? 
+- (If yes) Can you tell me about this experience?
+4. Since receiving benefits from the VA, was there ever a time when you were not receiving mail you expected to receive from the VA? Did you ever find out why you weren't receiving this mail?
+- If yes, figure out if this was because they had the wrong address on file.
+- If applicable, ask how they figured out they needed to update their address with the VA. 
+5. On a scale from 0 – 5, where 0 is not at all important and 5 is extremely important, how important do you think it is to keep your home and mailing address up to date with the VA?
+- Did you know that the VA having the correct address on file for you could affect whether you receive VA correspondence, and it could potentially affect your benefits?
+- Depending on the answer here, ask them about how we could better help them to keep their address up to date.
+6. Have you ever signed in to VA.gov before? (If yes) About how often do you use the website?
 
-## First Task
+## First Task: Address validation with override and suggestions
 
-## Second Task
+Flow:
 
-## Third Task
+- Homepage
+- Get to profile
+- Edit address
+- Update address
+- Address validation screen
+- Confirm
+- Back on the profile
 
-## Fourth Task
+## Second Task: Address validation with override but without suggestions
+
+Flow. From profile:
+
+- Edit address again
+- Update address
+- Validation screen without suggestions
+- Confirm
+- Back on profile
+
+## Third Task: Address validation without override but with suggestions
+
+Flow. From profile:
+
+- Edit address again
+- Update address
+- Validation screen without override but with suggestions
+- Confirm
+- Back on profile
 
 ## Thank-You and Closing - 1 minutes
 
