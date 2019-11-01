@@ -39,8 +39,7 @@ This Address Override feature requires UX in various places to allow the Veteran
 ## Method
 1.	**What method of research are you planning?** 
   
-Usability testing with high fidelity prototypes.  Will have the user share their screen and walk through how to update a 
-mailing address.This testing will be done remotely.
+Usability testing with high fidelity prototypes. 
   
 2.	**Why this method? How does this methodology help you answer your research questions?**
 
