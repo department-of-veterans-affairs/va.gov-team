@@ -38,9 +38,7 @@ There are two checkpoints
 
 2. **Design Review Checkpoint** 
 
-Integrated with VSP
-
-    a. To schedule a review, use the Github issue template (compassionate one to be created!)
+    a. *Integrated with VSP* To schedule a review, use the Github issue template (compassionate one to be created!)
 
     b. Include what project it’s for
 
