@@ -21,6 +21,9 @@ Brief description of content within the hub.
 **On This Page:**
 Jump links to each of the spokes. 
 
+**Key Resources:**
+Links to the 5 most frequently used resources.
+
 **Crisis Callout:**
 Only used when there is a critical call-out needed for the hub.  Primarily used for homeless or mental health services. Not used on all hubs. 
 
