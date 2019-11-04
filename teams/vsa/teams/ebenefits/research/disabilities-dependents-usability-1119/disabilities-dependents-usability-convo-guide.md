@@ -12,7 +12,7 @@ I have a few things I need to mention before we start:
 - The session should take 30 to 40 minutes (confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may break-in to move us to the next item.
 - We are not promoting or selling any product or service.
 - We're not testing you in any way--there are no right or wrong answers. We want to hear your candid thoughts about what we show you so that we can make improvements to VA.gov.
-- Don't worry, I will not be offended by any opinons you express. Please be open about what you think.
+- Don't worry, I will not be offended by any opinions you express. Please be open about what you think.
 - Do you have any questions for me before we start?
 - With your permission, I will be recording this session. This will give a record to use for note-taking. The recording will be stored on a private drive and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - Do I have your permission to record this session?
@@ -45,7 +45,7 @@ You mentioned you'd try to find your VA disability rating by: (cite how particip
 #### Disability Rating Screen
 - Now you've logged in; can you tell what the purpose of this page is? Can you tell whose information is displayed?
 - What is the total combined rating displayed? Is this number more or less important that the individual ratings?
-- Do you feel about the individual disability ratings are shown? Is the information OK? Would you add or remove anything?
+- How do you feel about how the individual disability ratings are shown? Is the information OK? Would you add or remove anything?
 - From what you see, which individual disabilities are serivce-connected?
 - Can you see anything about how the VA determines this rating? What more would you like to know, if anything?
 - If you felt this information was wrong, do you see any way to follow-up and address the problem?
@@ -67,6 +67,22 @@ The final screen is a bit different. Back to the sign-in to click the green butt
 - If you see this when you sign-in, what is this page showing? If you felt something was wronge here, what would you do?
 
 ## View Dependents
+We're going to move on to the next set of screens--these are the last group. We'll cover a few of things we did in the last set; i's OK if you have different ideas about what you see with these.
+
+#### Landing Screen
+We talked a little about dependents and dependents benefits. We're going to say that you searched for dependent benefits and came to this screen. We're getting toward the end, so we won't talk much about this one.
+- You've searched for "Dependents Benefits" and come to this page; what do should do next?
+#### View Dependents Screen
+- Once you've logged in; can you tell what the purpose of this page is? And whose information is displayed?
+- How can you tell which dependents are on-award, and which are not?
+- From what you see on this page, how would you remove a dependent? What would you expect to happen next?
+- What if you wanted to change something about a dependent, how would you do that?
+- Let's say you had a new dependent to claim, where on this screen can you do that? And what would you expect to see next?
+- How do you feel about the way dependents are shown? Is the information OK? Would you add or remove anything?
+- How do you feel about having dependents' information--especially those not on award--on VA.gov?
+- What, if anything, would make this page more useful? What other ways would you expect to use dependents info?
+- If you felt this information was wrong, do you see any way to follow-up and address the problem?
+- And last, how would you return to the page you logged-in from?
 
 ## Wrap-up
 Looks like we covered everything on my list. (ALT) Looks like we're at (time), so we'll need to leave it here.
