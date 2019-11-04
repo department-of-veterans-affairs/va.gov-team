@@ -13,7 +13,7 @@ The new School Resources Page (https://tbd) is based on the VA.gov Hub page temp
 
 **VA.gov content style guide:**
 - The VA.gov content style guide (https://design.va.gov/content-style-guide/) helps to ensure that all content on VA.gov is written in the same voice.  
-- [Describe the content approval process for EDU] _
+-_ [Describe the content approval process for EDU] _
 
 ### Components
 
