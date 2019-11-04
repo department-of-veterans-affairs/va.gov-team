@@ -5,6 +5,9 @@
 - Attendee/Observer instructions, including instructions for #feedback-backchannel, will be sent out ahead of the sessions
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
 
+### Priorities
+While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback. The next priority is covering all, or most, of the Rated Disabilities screen. This page is in development, and has fully-designed screen layouts and alternate states. Much of the general feedback about the details of screen design and information display will be germane to all "tools page" layouts, and therefore View Disabilites as well.
+
 ## Introduction
 Good morning/afternoon and thank you for joining us today. My name is Jim (the username on Zoom/GoTo may be different), and with me are a few collegues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus is the Disability Benefits sections.
 
