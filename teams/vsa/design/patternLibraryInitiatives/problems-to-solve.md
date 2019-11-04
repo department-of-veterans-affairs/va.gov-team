@@ -5,11 +5,11 @@
   
 - [Header Stacks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/patternLibraryInitiatives/headings.md)
 
-- Relationship of aside/sidenav and main element
+- Relationship of aside/sidenav and main element to be compliant. Currently, the design system uses divs so the code passes, but the classes indicate the aside/sidenav nature of the div that is inside the main element, thereby breaking the semantic relationship of the elements and interfering with the screen reader identification of areas of content.
 
 - Icons, accessible treatment: 
   - Icons need aria-hidden, if they're decorative
-  - If they're not decorative and there's semantic meaning — do we have any of these, then we use sr-only — hide the icon, provide the semantic language [https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility#web-fonts-semantic](https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility#web-fonts-semantic)
+  - If they're not decorative and there's semantic meaning (do we have any of these? then we use sr-only), hide the icon, provide the semantic language [https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility#web-fonts-semantic](https://fontawesome.com/how-to-use/on-the-web/other-topics/accessibility#web-fonts-semantic)
   - File naming convention of the download content, so that users can identify what they've downloaded. For example, VA-017-Brochure-One-Pager-3.2.pdf vs VA-GeneralBenefitsInfo-3.2.pdf.
   - This may be a painstaking effort of scouring the site to uncover where this pattern is coming from that it is implemented like [https://www.va.gov/outreach-and-events/outreach-materials/](https://www.va.gov/outreach-and-events/outreach-materials/).
   
