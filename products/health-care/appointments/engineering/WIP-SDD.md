@@ -97,29 +97,100 @@ A simplified workflow diagram would look like:
 
 (Veteran Facing Application -> VA.gov API) AKA VA.gov -> VAMF API Gateway (including UserService, Appointments, etc.)
 
-### Request Service Workflow Diagram
+### User Service
 
-VA.gov -> VAMF
+No Routes are exposed to user service. This is handled entirely by the va.gov backend and does not expose user service JWT to the veteran facing application. 
 
-### User Service Workflow Diagram
+### Appointments Service
 
-VA.gov -> VAMF
+#### Collection Actions
+All appointment collections including VA, CC, and Booked are facilitated by a single controller. More notably they are facilitated by a single controller action.
 
-### Appointments Service Workflow Diagram
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| GET | `va.gov/services/vaos/v0/appointments?type=va` | `/appointments/v1/patients/{patient-id}/appointments` | Lists confirmed VA appointments | Coming Soon |
+| GET | `va.gov/services/vaos/v0/appointments?type=cc` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/booked-cc-appointments` | Lists community care appointments | Coming Soon |
+| GET | `va.gov/services/vaos/v0/appointments?type=booked` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/booked-appointments` | Lists booked appointments | Coming Soon |
 
-VA.gov -> VAMF
+Supported Params: `type`, `start_date`, `end_date`
+Required Params: `type`, `start_date`, `end_date`
+Unsupported Params: `page`, `per_page`, `caching`
 
-### Community Care Eligibility Workflow Diagram
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| POST | cannot create confirmed appointment | ? | ? | ? |
 
-VA.gov -> VAMF
+Should this exist?
 
-### Facility Service Workflow Diagram
+#### Member Actions
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| PUT | `va.gov/services/vaos/v0/appointments/{id}` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/cancel-appointment` | Cancels confirmed appointment | Coming Soon |
 
-VA.gov -> VAMF
+### Request Service
 
-### Messaging Service Diagram
+#### Collection Actions
+All appointment request collections are facilitated by a single controller.
 
-VA.gov -> VAMF
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| GET  | `va.gov/services/vaos/v0/appointment_requests` |
+
+Supported Params: `type`, `start_date`, `end_date`
+Required Params: `type`, `start_date`, `end_date`
+Unsupported Params: `page`, `per_page`, `caching`
+
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+|POST | `va.gov/services/vaos/v0/appointment_requests?type=va` | `/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments` | Create a va appointment request | Coming Soon |
+|POST | `va.gov/services/vaos/v0/appointment_requests?type=cc` | `/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/community-care-appointment` | Create a Community Care request | Coming Soon |
+
+#### Member Actions
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| PUT | `va.gov/services/vaos/v0/appointment_requests/{id}` | `/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}` | Cancel a requested appointment | Coming Soon |
+
+### Messaging Service
+Messaging is facilitated through a distinct controller nested as a resource under its parent request.
+
+#### Collection Actions
+
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| GET | `va.gov/services/vaos/v0/appointment_requests/{id}/messages` | `/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}/messages` | List messages associated with a request | Coming Soon |
+| POST | `va.gov/services/vaos/v0/appointment_requests/{id}/messages` | `/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}/messages` | Send a message for the request | Coming Soon |
+
+#### Member Actions
+Messaging does not have any member actions.
+
+### VA Scheduling Eligibility
+Various controllers and nested controller that return collections of "constants" to determine when and where a veteran can schedule appointments
+
+#### Collection Actions
+
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| GET | `va.gov/services/vaos/v0/systems` | `/users/v1/session/identifiers.json` | Lists systems to which a user is registered | Coming Soon |
+| GET | `va.gov/services/vaos/v0/systems/{system_id}` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/institutions` | Lists of child facilities along with their eligibility for direct scheduling or requests | Coming Soon |
+| GET | `va.gov/services/vaos/v0/systems/{system_id}/pact` | ` /VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/pact-team` | Lists pact teams for a VA health system | Coming Soon |
+| GET | `va.gov/services/vaos/v0/facilities` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/parent-sites ` | Lists detail info about the facilities requested | Coming Soon |
+| GET | `va.gov/services/vaos/v0/facilities/{facility_id}/clinics` | `/VeteranAppointmentRequestService/v4/rest/clinical-services/patient/{assigning-authority}/{patient-id}/clinics` | Lists clinics at the specified facility that support the specified type of care | Coming Soon |
+| GET | `va.gov/services/vaos/v0/facilities/{facility_id}/visits/?schedule_type=direct` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/direct-eligibility/visited-in-past-months` | Lists info about previous direct visits | Coming Soon |
+| GET | `va.gov/services/vaos/v0/facilities/{facility_id}/visits/?schedule_type=request` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/request-eligibility/visited-in-past-months` | Lists info about previous request visits | Coming Soon |
+| GET | `va.gov/services/vaos/v0/facilities/{facility_id}/cancel_reasons` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/cancel-reasons-list ` |  Lists the allowed cancel reasons for a facility | Coming Soon |
+| GET | `va.gov/services/vaos/v0/facilities/{facility_id}/limits` | `/VeteranAppointmentRequestService/v4/rest/direct-scheduling/patient/{assigning-authority}/{patient-id}/request-limit` | Lists visit limits for specified facility | Coming Soon |
+| GET | `va.gov/services/vaos/v0/facilities/{facility_id}/available_appointments` | ` VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/available-appointment-slots` | Lists available date/time slots for a specific facility | Coming Soon |
+
+#### Member Actions
+There are no member actions
+
+### Community Care Scheduling Eligibility
+| Method | Route | VAOS Route | Description | Swagger |
+|--------|-------|------------|-------------|---------|
+| GET | `va.gov/services/vaos/v0/community_care/eligibility` | ` /adr/v2/patients/{patient-icn}/eligibility/communityCare` | Returns whether user is CC eligible | Coming Soon |
+| GET | `va.gov/services/vaos/v0/community_care/supported_sites` | ` /VeteranAppointmentRequestService/v4/rest/facility-service/supported-facilities` | Lists VA parent facilities that are CC enabled | Coming Soon |
+
+Since the first action above is not really returning a collection, perhaps it should be part of systems or an attribute of the user?
 
 ## Technology Stack and Service Dependencies
 
