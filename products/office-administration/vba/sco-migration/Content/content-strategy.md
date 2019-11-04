@@ -71,7 +71,7 @@ Future functionality: Once the School Resources page is migrated into Drupal, th
 - "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 
 **Promo Spot:**  
-- Call-out to key content or service directly related to the benefit hub.  
+- Call-out to key content or service directly related to the hub.  
 - Same promo that is also displayed in the top nav.
 - Should not lead user off VA.gov
 - Must be SCO or School Administrator content
@@ -83,10 +83,10 @@ Future functionality: Once the School Resources page is migrated into Drupal, th
 - This callout contains time estimates that are updated on a frequent basis.  
 
 **Connect with Us:**
-- Contains Email link for Find your Education Liason Representative (ELR)
-- Contains Email link for VBA Support Team
-- Contains Link to VA Email updates
-- Contains Contact informatin for the VA Education Call Center
+- Contains an email link for Find your Education Liason Representative (ELR)
+- Contains an email link for VBA Support Team
+- Contains a link to VA Email updates
+- Contains contact information for the VA Education Call Center
 
 ### Recommendations for the Future
 
