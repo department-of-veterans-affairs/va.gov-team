@@ -89,7 +89,15 @@ The veteran facing application on VA.gov does not interface with any VAMF servic
 
 ### Common Concepts
 
-1. Feature Flags
+1. Feature Flags - Features can be disabled / enabled based on user email, environment, and other conditions.
+1. Circuit Breakers - Timeouts and Failed Requests are closely monitored, and can trigger a circuit break, which will limit outbound requests until the service becomes available again.
+1. StatsD Metrics - Realtime metrics for any type of data can be added.
+1. Rails Logs - Can add logs at any point in execution
+1. Grafana - Can create custom graphs to monitor statsd and other metrics
+1. Prometheus - Can view statsd and other metrics in realtime
+1. Cloudwatch - Can view and query logs in aggregate
+1. Sentry - Detailed realtime error reporting
+1. Google Analytics - FE analytics
 
 ### Logical Perspective
 
@@ -100,6 +108,8 @@ A simplified workflow diagram would look like:
 ### User Service
 
 No Routes are exposed to user service. This is handled entirely by the va.gov backend and does not expose user service JWT to the veteran facing application. 
+
+[Authentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/engineering/authentication_flow.md)
 
 ### Appointments Service
 
@@ -203,6 +213,19 @@ The following is a running list of all major technologies chosen to build out th
 | Technology, Libraries, and Tools | Version | On the TRM (If not, provide a link to the waiver) |
 |----------------------------------|---------|----------------------------------------------------|
 | Ruby | 2.4.5 | Yes |
+| Rails | 5.2.3 | ? |
+| breakers |  | ? |
+| faraday | | ? |
+| fast_jsonapi | | ? |
+| flipper | | ? |
+| json-schema | | ? |
+| jwt | | ? |
+| redis | | ? |
+| ruby-saml | | ? |
+| statsd-instrument | | ? |
+| swagger-blocks | | ? |
+
+[Full backend end dependency list](https://github.com/department-of-veterans-affairs/vets-api/blob/master/Gemfile.lock)
 
 #### Front-end
 
@@ -221,8 +244,6 @@ The following is a running list of all major technologies chosen to build out th
 [Full front end dependency list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/package.json)
 
 Note: tools and technologies used are all approved for use on the Veteran Facing Services Platform and are currently in use for other production applications on VA.gov.
-
-MORE to come...
 
 
 ### VA.gov Intefaces
