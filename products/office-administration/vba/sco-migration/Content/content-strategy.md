@@ -88,7 +88,7 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
 
 **Potential Content**
 
-Based on our Discovery Research, additional content that would help SCOs better assist military-connected students include the following:
+Based on our Discovery Research, additional content that may help SCOs better assist military-connected students include the following:
 - List of approved non-profits who assist beneficiaries
 - Information on the following topics:
   - TA Top up
