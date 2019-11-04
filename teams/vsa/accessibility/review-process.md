@@ -36,35 +36,33 @@ There are two checkpoints
 
     e. For guidance during design, [Future State] review WCAG 2.1 Checklist (similar: https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf)
 
-2. **Design Review Checkpoint** 
+2. **Design Review Checkpoint** — *Integrated with VSP* — [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
-    a. *Integrated with VSP* — [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
+Accessibility design review considerations:
 
-    b. Accessibility design review entails 
-
-        i. Mobile design
+    a. Mobile design
     
-        ii. Laptop/desktop design
+    b. Laptop/desktop design
         
-        iii. Semantic heading order
+    c. Semantic heading order
+
+    d. Spacing of interactive items
         
-        iv. Spacing of interactive items
+    e. Cognitive impact
         
-        v. Cognitive impact
+    f. Plain language
         
-        vi. Plain language
+    g. Consistency & best practices
         
-        vii. Consistency & best practices
+    h. Mobile-only interactions
         
-        viii. Mobile-only interactions
+    i. Touch interactions
         
-        ix. Touch interactions
-        
-        x. Performance budget consideration
+    j. Performance budget consideration
   
-        xi. Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
+ Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
   
-        xii. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
+Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
 
 ## Development Review
 
