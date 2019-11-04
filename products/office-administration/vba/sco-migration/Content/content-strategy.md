@@ -62,8 +62,8 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
 
 
 **Crosslinking:**
-- Any guidelines here?
-
+- Currently, the Crosslinking area of the page is being leveraged to display "Resources to support students".
+- "Resources to support students" may need to become a spoke if more than 8 links need to be displayed.
 
 **Promo Spot:**  
 - Call-out to key content or service directly related to the benefit hub.  
