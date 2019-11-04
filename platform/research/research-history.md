@@ -10,6 +10,9 @@ This does not include research for Appeals projects, which is stored in differen
 - Number of participants
 - Link to the **research folder** for this study (everything should live in here - research plan, convo guide, notes, synthesis, report. If these do NOT live here, please add the appropriate other links.) 
 
+__Please note that many links on this page reference research folders in the vets.gov-team GitHub repo. These links will be updated as work on migrating documentation to va.gov-team repo progresses.__
+
+
 ### October 2019
 
 #### October 16 - 17: SCO Content Migration - Moderated Usability Testing  
@@ -42,7 +45,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### September 4 - 9: Direct Deposit UAT **
 *GovCIO: Arthur Green*
 - 10 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/UAT/Research%20Plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/UAT/research-plan.md)
 
 ### August 2019
 
@@ -71,6 +74,7 @@ This does not include research for Appeals projects, which is stored in differen
 - 8-10 participants
 - [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20107/GIBCT%20107%20Research%20Plan%20Round%203.md)
 
+
 #### Auguts 5 - 16: Personalization 2.0 Separating Service Member Interviews **
 - 5 participants 
 - [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19319)
@@ -89,6 +93,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### July 10-11: Automation Impact on 526 Usability **
 - 8 participants
 - [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/2019-07-automation/research_plan-unicorns_526_automation.md)
+
 
 #### July 9 - 10: GIBCT 107 Remote Moderated Usability Testing **
 *Booz Allen: Amy Knox, Theresa McMurdo*
@@ -119,7 +124,7 @@ This does not include research for Appeals projects, which is stored in differen
 #### June 24-28: Direct deposit usability testing 
 *Dragons/Personalization: Samara Strauss*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research/usability-research)
 
 #### June 24-27: VA.gov CMS onsite Pittsburgh research (Facilities Round 3)
 *VA.gov CMS team, Research Lead: Eric Chiu*
