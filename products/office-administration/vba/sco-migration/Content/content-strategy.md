@@ -8,7 +8,7 @@ The new School Resources Page (https://tbd) is based on the VA.gov Hub page temp
 **Page Template:**
 - Hub Page Template: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
 
-**Page Purpose/Intent:**
+**Page Purpose:**
 - Serves as a key landing page. Provides content and links to help users understand what information is available in the section.  
 
 ### Components
