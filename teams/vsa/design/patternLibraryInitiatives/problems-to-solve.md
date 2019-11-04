@@ -14,5 +14,5 @@
   
 - 'button' styling without actual _button_ appearance, should follow 'link' styling and include the underline
   - [https://design.va.gov/content-style-guide/button-labels](https://design.va.gov/content-style-guide/button-labels)
-  - [https://design.va.gov/components/buttons]https://design.va.gov/components/buttons(https://design.va.gov/components/buttons)
+  - [https://design.va.gov/components/buttons](https://design.va.gov/components/buttons)
   - [https://design.va.gov/content-style-guide/links](https://design.va.gov/content-style-guide/links)
