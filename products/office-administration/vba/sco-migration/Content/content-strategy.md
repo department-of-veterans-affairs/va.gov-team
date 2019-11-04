@@ -3,7 +3,8 @@
 
 ## Page Type:  Hub
 
-Mockup/Example: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
+School Resources Page: https://tbd
+Hub Page Mockup/Example: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
 
 **Page Purpose/Intent:**
 - Serves as a key landing page. Provides content and links to help users understand what information is available in that section.  
@@ -29,7 +30,7 @@ Only used when there is a critical call-out needed for the hub.  Primarily used 
 
 *SCO Hub*
 - The spokes on the School Resources page are: Training & Guides; Upcoming events; and Policies and procedures
-- "Resources to support students" can become a spoke if more than 8 links need to be displayed.
+- The "Resources to support students" area currently uses the Hub page template's Crosslinking element.  "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 
 *Announcements*
 - Displays the 3 most recent announcements.  These announcements are also displayed on the Breaking News page. 
