@@ -88,7 +88,7 @@ Future functionality: Once the School Resources page is migrated into Drupal, th
 
 **Potential Content**
 
-Based on our Discovery Research, additional content that may help SCOs better assist military-connected students include the following:
+Based on conversations with SCOs, additional content that may helpful includes the following:
 - List of approved non-profits who assist beneficiaries
 - Information on the following topics:
   - TA Top up
@@ -110,6 +110,16 @@ Based on our Discovery Research, additional content that may help SCOs better as
 - Table of dates when new legislation goes into effect. For Colmery, what goes into effect in 2018, 2019, 2020. Include Hybrid change
 - List of association training or national conferences that are approved to meet the new certification requirements (unless listing associations would show preference)
 - Advanced notice of webinars
+
+Topics for the "Resources for Students" spoke include the following:
+- GI Bills and Educational Programs
+- Factsheets
+- Forms 
+- Finance
+- Career and employment
+- Benefits
+- Non-VA Resources
+
 
 **Suggestions for other pages**
 - Add STEM Scholarship information to the existing Scholarship page on benefits.va.gov https://www.benefits.va.gov/gibill/non_va_resources.asp - financial_aid.
