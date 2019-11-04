@@ -13,17 +13,17 @@
   - Notes and recordings
   - Synthesis
   - Readout 
-  - Examples:
+  - Examples (__note: links to vets.gov-team repo__):
     - [Scheduling](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Scheduling/research)
     - [VIC](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Veteran%20Identification%20Card%20v2/research) 
   
-2. The **designer** should create a research plan: Create a new .md research plan file. Answer questions on new research plan [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md). This will become the doc you use to track everything, but also the documentation that project teams, research and UX lead, leadership, et al, can use to find your research in the future. Add anything you need to add to make this document work for you. If your team creates research issues and/or epics, you can cross-reference your xxxresearchplan.md file in that as well. 
+2. The **designer** should create a research plan: Create a new .md research plan file. Answer questions on new research plan [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md). This will become the doc you use to track everything, but also the documentation that project teams, research and UX lead, leadership, et al, can use to find your research in the future. Add anything you need to add to make this document work for you. If your team creates research issues and/or epics, you can cross-reference your xxxresearchplan.md file in that as well. 
 
 3. [**Review the researcher checklist!**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/lead-researcher-checklist-research-projects.md): Below are some common things that you should always plan to do. For a full checklist including reminders for before, during, and after sessions, review the checklist.
 
 4. **Tell Your Colleagues!** 
 - Share results in #vfs-all-teams, #design, in your product channels, at sprint demos, in design meetings. 
-- [Update the research tracker](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md) so other researchers may apply your learnings going forward. 
+- [Update the research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) so other researchers may apply your learnings going forward. 
 - Does your research have design system pattern implications? Reach out to DSVA & Platform designers (i.e. Jared Cunha, Ryan Thurlwell, Emily Waggoner) to discuss. 
 
 ## Recruiting
@@ -57,7 +57,7 @@ We have also developed a relationship with a team at VBA who have offered to par
 - [ ] Assume a 2-week turnaround for gathering the right participants, but know that it can be harder & take longer if you are trying to find a very niche population. 
 
 ## Scheduling Sessions
-- [ ] Refer to the [full checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/lead-researcher-checklist-research-projects.md) and resources in the [Scheduling & Running Sessions Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions) for specific guidance. 
+- [ ] Refer to the [full checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/lead-researcher-checklist.md) and resources in the [Planning Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/planning) for specific guidance. 
 - [ ] Involve your team & designers on other teams (as appropriate) in the research itself!
   - Always invite: Lauren Alexanderson (Lacey Higley during July 2019), your Team Lead, PM, content representatives, FE/BE engineers from your team,
   - Consider inviting: other designers and researchers, VA stakeholders. 
@@ -65,9 +65,7 @@ We have also developed a relationship with a team at VBA who have offered to par
 ## Synthesis
  - If you have a preferred way of doing synthesis: consider how you might involve remote members of your team in that process, so they have buy-in to the outcomes. 
 -	If you do NOT have a preferred way of doing synthesis or want help: ask fellow designers to work with you to come up with a plan. Include your sprint team! 
--	Plan to present your results: minimally, to your team & to fellow designers. You may also be asked to present at biweekly sprint demos, at PI research summaries, or with stakeholders. If you'd like to use existing templates:
-  - In-depth readout template:
-  - PI readout template: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20Team%20Treehouse/PI%20Readouts/PI%20Readout%20Template.pptx
+-	Plan to present your results: minimally, to your team & to fellow designers. You may also be asked to present at biweekly sprint demos, at PI research summaries, or with stakeholders. 
 
  ## UAT Guidelines
 - This process should be led by designers and PMs. Remember, the purpose of user acceptance testing is to make sure things work. You may not need as many users as you do for usability (or you may need more if your use cases are varied).
