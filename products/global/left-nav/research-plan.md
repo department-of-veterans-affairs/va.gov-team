@@ -1,4 +1,4 @@
-# Research Plan for Global UX, Local Navigation, Oct/November 2019
+# Research Plan for Global UX, Local Navigation, November/December 2019
 ## Goals of the research
 
 This is a research project for the Global UX team. It is focused on the local or "left-nav" navigation component design. This is a new design for the left navigation element, and it provides new functionality for local or “left rail” navigation allowing users of VA.gov to more easily browse and understand the contents within a section, and then navigate to desired content within VA.gov. 
@@ -46,6 +46,8 @@ We'll use Perigean recruiting, or we will recruit via the previous relationships
 
 ## When will the research take place? 
 
+### Study was delayed, timeline needs to be updated
+
 ### Timeline
 This schedule is subject to completion of work on the prototype. 
 * October 30
@@ -60,7 +62,7 @@ The prototype will need to be completed by October 28 in order to begin testing 
 ### Session length
 Ethnographic interviews and usability observation should total 45 minutes per person/session. 
 
-### Availability
+### Availability (Dates need to be updated as study was delayed) 
 27 slots offered (will update as needed) 
 * Wednesday, October 30
 10am, 11am, 1pm, 2pm, 5pm, 6pm (6)
