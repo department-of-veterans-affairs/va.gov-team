@@ -43,6 +43,7 @@ Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=6,181,5
 
 ### Facility type search refinements
 Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=1,137,355 unique searches)
+
 | Facility type | % of search refinements (3.29% average for view) |
 | ---| ---| 
 | all| 3.47 %| 
