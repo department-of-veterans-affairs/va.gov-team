@@ -38,13 +38,20 @@ What you see is a prototype--it's not a functioning website, it's just a page de
 ## Rated Disabilities
 #### Landing Screen
 You mentioned you'd try to find your VA disability rating by: (cite how participant responded). For the purpose of our session, we're going to skip straight to what you would see if you might have searched Google or the VA.gov site itself.
-- Imagine you've searched for "Disability Rating" and come to this page; what do you think you should do next?
+- Imagine you've searched for "Disability Rating" and come to this page; what do should do next?
 - If you' didn't want to log in, but you had questions, what could you do to get answers? Are these acceptable options?
-- From what you see on this page, who's allowed to go on the next step? If someone who's not eligible logged in, what would you expect them to see?
+- From what you see on this page, can you tell if you can go on the next step? If someone who's not eligible went ahead and logged in, what would you expect them to see?
 - If you didn't want to log in just yet, what would you look at next? Is there a section or link for that?
 #### Disability Rating Screen
-
-
+- Now you've logged in; can you tell what the purpose of this page is? Can you tell whose information is displayed?
+- What is the total combined rating displayed? Is this number more or less important that the individual ratings?
+- Do you feel about the individual disability ratings are shown? Is the information OK? Would you add or remove anything?
+- From what you see, which individual disabilities are serivce-connected?
+- Can you see anything about how the VA determines this rating? What more would you like to know, if anything?
+- If you felt this information was wrong, do you see any way to follow-up and address the problem?
+- If you had a recent claim or appeal, what, if anything, does this page let you do?
+- Now that you've logged-in and seen the disability rating, what would you expect to do next? Do you see anything on-screen that would let you do that?
+- How would you return to the page you logged-in from?
 
 ## View Dependents
 
