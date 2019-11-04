@@ -31,7 +31,7 @@ Create a list of things to go over in the meeting to help everybody can stick to
 4. Prioritize: Take the top insights and discuss how they ought to be prioritized and create next steps (10 mins)
 5. Last call: Discuss how the retro went and how it can be improved in the future (10 mins)
 
-Adopted from [appeals retrospective](https://github.com/department-of-veterans-affairs/appeals-pm/blob/master/administration/operations/how-we-work/meetings/Retrospective.md), [Vets.gov design retrospective](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/meetings/Retrospective-2017-01-26.md)
+Adapted from appeals retrospective] and Vets.gov design retrospective
 
 <a id="gatherdata"></a>
 ## Gathering data activities
