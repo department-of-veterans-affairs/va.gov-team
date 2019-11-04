@@ -53,14 +53,17 @@ You mentioned you'd try to find your VA disability rating by: (cite how particip
 - Now that you've logged-in and seen the disability rating, what would you expect to do next? Do you see anything on-screen that would let you do that?
 - How would you return to the page you logged-in from?
 #### Error States
-Let's go back to the screen you logged-in from (click breadcrumb link to advance)
-If you would, click the green sign-in again. (user clicks to advance to Error 1)
+Let's go back to the screen you logged-in from. (Click breadcrumb link to advance)
+If you would, click the green sign-in again. (User clicks to advance to Error 1)
 - Seeing this screen, what do you think happened? What would you do next?
-We have a few more of these; let's go back to the sign-in again, then click the green button once more. (click breadcrumb link to advance, the user clicks to advance to Error 2)
+
+We have a few more of these; let's go back to the sign-in again, then click the green button once more. (Click breadcrumb link to advance, the user clicks to advance to Error 2)
 - Now you see this page, what do you think happened, and what would you do next?
-We have one more like this one. Back to the sign-in to click the green button.
-- If you see this page, what do you think happened, and what would you do next? (click breadcrumb link to advance, the user clicks to advance to Error 3)
-The final screen is a bit different. Back to the sign-in to click the green button. (click breadcrumb link to advance, the user clicks to advance to Error 4)
+
+We have one more like this one. Back to the sign-in to click the green button. (Click breadcrumb link to advance, the user clicks to advance to Error 3)
+- If you see this page, what do you think happened, and what would you do next? 
+
+The final screen is a bit different. Back to the sign-in to click the green button. (Click breadcrumb link to advance, the user clicks to advance to Error 4)
 - If you see this when you sign-in, what is this page showing? If you felt something was wronge here, what would you do?
 
 ## View Dependents
