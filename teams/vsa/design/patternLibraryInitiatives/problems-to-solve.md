@@ -19,3 +19,5 @@
   - [https://design.va.gov/content-style-guide/links](https://design.va.gov/content-style-guide/links)
 
 - 'card' styling — when is it a card, a table, an alert, a dialog, and what semantic structure makes the most sense, is flexible for the different implementations? For example, if it's an injected message does a heading level make sense, or would a neutral definition list allow more flexibility?
+
+- guidance for spacing of interactive items, such as lists of links
