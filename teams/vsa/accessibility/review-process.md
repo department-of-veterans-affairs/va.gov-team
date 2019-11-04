@@ -70,7 +70,7 @@ There are two checkpoints
 
 There are two checkpoints:
 
-1. **Design-Development Intent Checkpoint**
+1. **Design-Development Intent Checkpoint** [Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
 
     a. Review design with the VSP/VSA to discuss approach to take with development
 
@@ -93,10 +93,26 @@ There are two checkpoints:
 2. **Pre-launch 508 Review Checkpoint**
 
     a. Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
+    
+    b. If you'd like, you may request an accessibility review ahead of the Pre-launch 508 Review. [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
 
     b. [Request a Pre-launch 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 
-    c. Accessibility specialist review [Dev Review Checklist](https://docs.google.com/spreadsheets/d/19ZH_1imuTKHQfyMbOU5IKHwPDb_LGUqnnwoeMbKXH9I/edit#gid=0), *Google Sheet, for use by reviewer*
+    c. Accessibility specialist review will check the following:
+  
+        i. axe browser scan
+        
+        ii. Lighthouse scan
+        
+        iii. JAWS, NVDA, and VoiceOver read-through
+        
+        iv. Keyboard navigation
+        
+        v. Color contrast & blindness
+        
+        vi. In-app Browser Check
+        
+        vii. Zoom to 400% at 1280px
 
     d. During review, issues will be noted by the accessibility specialist:
   
