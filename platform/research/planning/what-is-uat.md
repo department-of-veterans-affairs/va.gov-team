@@ -96,12 +96,12 @@ Here are some examples to help you understand when you must test with Veterans v
 
 ### Example Conversation Guides for UAT
 
-* [May 2018 - MVP Personalization (Profile, Account, Dashboard)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/mvp_uat_convo_guide.md)
-* [June 2018 - MVP Vet360 Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/eb0458f3755d3c120cd688b4e45ab8e4e4c74e15/Products/Identity/Personalization/Profile/Vet360%20UAT/Conversation%20Guide.md)
+* [May 2018 - MVP Personalization (Profile, Account, Dashboard)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/mvp_uat_convo_guide.md) (__note: link points to vets.gov-team GitHub repo)__)
+* [June 2018 - MVP Vet360 Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/eb0458f3755d3c120cd688b4e45ab8e4e4c74e15/Products/Identity/Personalization/Profile/Vet360%20UAT/Conversation%20Guide.md) (__note: link points to vets.gov-team GitHub repo)__)
 
 ### Example UAT test scripts
 
-* [May 2018 - MVP Personalization (Profile, Account, Dashboard)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/QA%20%26%20UAT%20template%20for%20Personalization%20Phase%201%20(1).xlsx)
+* [May 2018 - MVP Personalization (Profile, Account, Dashboard)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/QA%20%26%20UAT%20template%20for%20Personalization%20Phase%201%20(1).xlsx) (__note: link points to vets.gov-team GitHub repo)__)
 
 <hr>
 
@@ -112,7 +112,7 @@ Here are some examples to help you understand when you must test with Veterans v
 
 2. Recruit participants. These methods for UAT recruiting have been useful in the past.
 
-    - See [the "UAT recruiting" bullet point here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2018_updated_research_process.md#recruiting). Fill out the form if you'd like to use this option for UAT recruiting.
+    - See [the "UAT recruiting" bullet point here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md). Fill out the form if you'd like to use this option for UAT recruiting.
 
     - **IS ADVISORY BOARD STILL OPERATING?** Advisory Board: DSVA has an advisory board which was started by Marina Martin, the previous CTO and Team Lead.  It is comprised of key stakeholders and VA champions who have helped us over the years, many of whom are Veterans.  To email this group, please work with StatOps Lead or Vets.gov Lead. 
 
@@ -135,7 +135,7 @@ Here are some examples to help you understand when you must test with Veterans v
 ## Process for External Contractors
 
 1. Create a UAT test script. The test script is to make sure you've captured all acceptance criteria before you write the Conversation Guide in the next step.
-    * This can be any format you like (here's [one example](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/QA%20%26%20UAT%20template%20for%20Personalization%20Phase%201%20(1).xlsx))
+    * This can be any format you like (here's [one example](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/QA%20%26%20UAT%20template%20for%20Personalization%20Phase%201%20(1).xlsx)) (__note: link points to vets.gov-team GitHub repo)__)
 
 1. Create a Conversation Guide. [See examples](#example-conversation-guides-for-uat)   
 
