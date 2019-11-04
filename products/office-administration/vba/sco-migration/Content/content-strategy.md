@@ -22,8 +22,8 @@ Brief description of content on the page.
 **On This Page:**
 Jump links to each of the spokes. 
 
-**Crisis Callout:**
-Only used when there is a critical call-out needed for the hub.  Primarily used for homeless or mental health services. Not used on all hubs. <- OMIT entirely or will they be able to use callouts?
+**Critical Callout:**
+Future functionality: Once the Pages is migrated into Drupal, it may be possible to leverge the Critical Callout element.  The Critical Callout only appears when a critical call-out needed for the hub.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. 
 
 **Spokes:**
 - A sub-grouping of pages/links/accordions.   
