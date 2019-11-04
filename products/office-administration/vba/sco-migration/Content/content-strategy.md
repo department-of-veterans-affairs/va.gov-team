@@ -34,15 +34,15 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
   - Upcoming events
   - Policies and procedures
 - The "Resources to support students" area currently uses the Hub page template's Crosslinking element.  "Resources to support students" can become a spoke if more than 8 links need to be displayed.
-- Within each spoke* 
-  - Content and links are placed within accordions
+- Within each spoke 
+  - Content and links are placed within accordions.
   - What is the rhyme or reason for when links are categorized beneath a sub-heading and when they are not?
-  - Hyperlinks are either underlined and unbold or bold, not underlined with a chevron. 
+  - Hyperlinks are either a) underlined and unbold or b) bold, not underlined with a chevron. 
 
 *Announcements*
-- Displays the 3 most recent announcements.  These announcements are also displayed on the Breaking News page. 
+- Displays the 3 most recent announcements.  
+- These announcements are also displayed on the Breaking News page. 
 - Announcements may include links to resources that reside in their permanent location.
-
 
 *Training and guides spoke*
 - The Essentials for School Certifying Officials accordion is designed to contain links that SCOs acccess frequently and resources that new SCO need as they begin the onboarding process.
@@ -50,7 +50,8 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
 - The Payments and debt accordion is designed to contain a resources related to payments and debt.
 
 *Upcoming events spoke*
-- Displays the 3 most recent events, as well as, links to access Conferences and events and Training webinars.  These events are also displayed on the Breaking News page. 
+- Displays the 3 most recent events, as well as, links to access Conferences and events and Training webinars.  
+- These events are also displayed on the Breaking News page. 
 
 *Policies and procedures spoke*
 - The GI Bill Program Approval Process accordion contains information on how to obtain GI Bill approval for programs.
