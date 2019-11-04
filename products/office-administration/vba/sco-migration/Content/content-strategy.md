@@ -1,11 +1,12 @@
 # School Resources Page Content Strategy
 
 
-## Page Type:  Hub
+### Overview
 
-School Resources Page: https://tbd
+The new School Resources Page (https://tbd) is based on the Va.gov Hub page template.
 
-Hub Page Mockup/Example: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
+**Page Template:**
+- Hub Page Mockup/Example: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
 
 **Page Purpose/Intent:**
 - Serves as a key landing page. Provides content and links to help users understand what information is available in that section.  
