@@ -72,6 +72,15 @@ Flow. From profile:
 - Confirm
 - Back on profile
 
+## Fourth Task: Address validation without override but with NO suggestions
+
+Flow. From profile:
+
+- Edit address again
+- Update address
+- Validation screen without override/suggestions
+- Back on profile
+
 ## Thank-You and Closing (1 minute)
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
