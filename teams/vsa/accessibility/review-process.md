@@ -24,7 +24,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 ## Design Review
 
 There are two checkpoints
-1. **Design Intent Checkpoint** — Integrated with VSP design check-ins: To schedule an intent review, use the Github issue template (to be created!)
+1. **Design Intent Checkpoint** — Integrated with VSP design check-ins: [Schedule a design intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
     a. For VSA projects, involve the VSA accessibility specialist in early discussions about needs, priorities, concepts, research planning, and direction to ensure potential accessibility concerns are nipped in the bud. This could look like an initial kickoff with all team members, plus shared resources, in attendance, or if it is for a smaller component scheduling a call to review the work together. 
 
@@ -38,7 +38,7 @@ There are two checkpoints
 
 2. **Design Review Checkpoint** 
 
-    a. *Integrated with VSP* To schedule a review, use the Github issue template (compassionate one to be created!)
+    a. *Integrated with VSP* [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
     b. Include what project it’s for
 
