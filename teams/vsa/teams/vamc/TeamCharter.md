@@ -8,7 +8,7 @@ _VA Medical Center Website Modernization starting with:_
 _VISN 4_
 
 ### Mission STatement
-_Enable Veterans,their family, and caregivers, through use of the VA's VISN Medical Center Websites, to quickly provide access to the tools and information needed in their VA health care journey.  Remove obsticals and promote a streamlined, easy to navigate, and easy to understand digital experience.  Escalate this normalized and standardized methodology accross all VISNs using economies of scale and advanced Agile practices. 
+Enable Veterans,their family, and caregivers, through use of the VA's VISN Medical Center Websites, to quickly provide access to the tools and information needed in their VA health care journey.  Remove obsticals and promote a streamlined, easy to navigate, and easy to understand digital experience.  Escalate this normalized and standardized methodology accross all VISNs using economies of scale and advanced Agile practices. 
 
 ### Slack Channels
 - #vamc-upgrade
@@ -20,10 +20,10 @@ _Enable Veterans,their family, and caregivers, through use of the VA's VISN Medi
 - Product Management: Stan Gardner / sgardnerPMP
 
 ### Workflow + Cadence
-<b>Backlog Grooming</b> Assess and update workload for each sprint and remainder of sprint, Wednesday of every sprint, 1-hour
-<b>Stand-up</b> People / Product check-ins Daily @ [TBD] 15 min 3 Question Format: What I did yesterday? What will I do today? Any impediments?<br>
-<b>Spring Planning</b> Outline team and member focus, goals for sprint 1st Wednesday of every sprint 2 hours<br>
-<b> Retro</b> Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing 1st Tuesday of every sprint, 30 min <br>
+<b>Backlog Grooming:</b> Assess and update workload for each sprint and remainder of sprint, Wednesday of every sprint, 1-hour
+<b>Stand-up:</b> People / Product check-ins Daily @ [TBD] 15 min 3 Question Format: What I did yesterday? What will I do today? Any impediments?<br>
+<b>Sprint Planning:</b> Outline team and member focus, goals for sprint 1st Wednesday of every sprint 2 hours<br>
+<b> Retro:</b> Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing 1st Tuesday of every sprint, 30 min <br>
 
 ### Issue Etiquette
 
@@ -31,7 +31,7 @@ _For an issue to go into the Current Sprint column, it must have the following (
   - Estimate<br>
   - Title that explains task<br>
   - Description with Background and Acceptance Criteria<br>
-  - Labels - vsa-benefits (and cross functional team labels)<br>
+  - Labels - vamc-upgrade (and cross functional team labels)<br>
   - User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.<br>
   -	Epic assigned<br><br>
 _All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
