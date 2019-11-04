@@ -62,8 +62,8 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
 - See "Crosslinking" below.
 
 **Crosslinking:**
-- Currently, the Crosslinking area of the page is being leveraged to display the "Resources to support students" spoke.
-- The "Resources to support students" area contains an uncategorized list of links for students.
+- The Crosslinking area is designed to display links to high level pages in other hubs.
+- Currently, the Crosslinking area of the page is being leveraged to display an uncategorized list of links entitled "Resources to support students".
 - "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 
 **Promo Spot:**  
@@ -83,3 +83,34 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
 - Contains Email link for VBA Support Team
 - Contains Link to VA Email updates
 - Contains Contact informatin for the VA Education Call Center
+
+### Recommendations for the Future
+
+**Potential Content**
+
+Based on our Discovery Research, additional content that would help SCOs better assist military-connected students include the following:
+- List of approved non-profits who assist beneficiaries
+- Information on the following topics:
+  - TA Top up
+  - VA Work Study
+  - Tutoring Assistance 
+  - Ch 31 certification procedures
+  - Vocational Rehab & Employment certification 
+  - The process for using gifted GI Bill benefits (i.e., when GI Bill benefits can be gifted, how to obtain COE).
+  - How to help Voc Rehab students “Find your VA Counselor”.
+  - Ch35 and Ch31. 
+- GI bill annual maximum amount table
+- VA Semester credit equivalency table to calculate rate of pursuit for anyone who is not Ch33 (SCO Handbook Pgs 63 & 64)
+- List of email lists SCOs can subscribe to 
+- Infographic of the education benefits application process
+- A GI Bill comparison chart that describes differences in benefits,  how they pay out, etc.. 
+- Chart of SCO/school and student responsibilities
+- Links to external portals and resources for pre-certification and grade submission (GoArmy.ed, Navy portal, DOD)
+- List of approved nonprofits or other nongovernment organizations that are trusted by the VA to support veterans
+- Table of dates when new legislation goes into effect. For Colmery, what goes into effect in 2018, 2019, 2020. Include Hybrid change
+- List of association training or national conferences that are approved to meet the new certification requirements (unless listing associations would show preference)
+- Advanced notice of webinars
+
+**Suggestions for other pages**
+- Add STEM Scholarship information to the existing Scholarship page on benefits.va.gov https://www.benefits.va.gov/gibill/non_va_resources.asp - financial_aid.
+
