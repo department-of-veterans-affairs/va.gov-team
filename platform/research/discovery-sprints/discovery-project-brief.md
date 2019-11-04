@@ -2,7 +2,7 @@ Copy and paste this document into your project's folder and fill it out!
 
 # Discovery Project Brief & Planning Template
 
-This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](DiscoverySprintHowTo.md) for details on the whole process.
+This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
 
 ## PROJECT BRIEF
 _To be filled out with a Vets.gov lead prior to starting discovery work._
@@ -17,7 +17,7 @@ What problem are we trying to solve? Why are we doing this? (focus on problems, 
 * Kudos / Rainbows / Core / Other
 
 ### Discovery Sprint Roles
-See also: Discovery Sprint How-to about [makeup of a discovery sprint team](DiscoverySprintHowTo.md#makeup-of-a-discovery-sprint-team).
+See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
 * Product Lead:
 * Discovery Sprint Lead:
