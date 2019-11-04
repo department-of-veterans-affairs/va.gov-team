@@ -23,7 +23,7 @@ Brief description of content on the page.
 Jump links to each of the spokes. 
 
 **Critical Callout:**
-Future functionality: Once the Pages is migrated into Drupal, it may be possible to leverge the Critical Callout element.  The Critical Callout only appears when a critical call-out needed for the hub.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. Futher discussions with DSVA will be needed before this element is leveraged.
+Future functionality: Once the School Resources page is migrated into Drupal, the Critical Callout element could be leveraged as needed.  The Critical Callout only appears when a critical message needs to be communicated to the hub's audience.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. Futher discussions with DSVA will be needed before this element is leveraged.
 
 **Announcements**
 - Displays the 3 most recent announcements.  
