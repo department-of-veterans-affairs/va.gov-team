@@ -22,3 +22,4 @@
   - [Mural Collection of card patterns](https://app.mural.co/t/vsa8243/m/vsa8243/1572902707497/848781c021d10b7bb4674bea3f357b19dec73b59)
 
 - guidance for spacing of interactive items, such as lists of links
+  - Interaction best practices recommend spacing interactive items sufficiently to help people, including those with mobility considerations, from accidentally selecting the wrong item (recovering from mistakes can be quite a hurdle for many)
