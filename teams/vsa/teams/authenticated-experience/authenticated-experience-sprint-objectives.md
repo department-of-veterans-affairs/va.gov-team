@@ -49,8 +49,8 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 ### Sprint 8 (11/6 - 11/19)
 * Direct Deposit
-     * Remove "Add" functionality
-     * Designs for ID.me &  DS Logon effort (#2884)
+     * Remove "Add" functionality (#2883) if not already done
+     * There is some dependency to creating the designs for ID.me &  DS Logon (#2884) whatever that dependency is let's do it this sprint.
      * Finalize call center guide updates (#2901)
 * Continue Address Validation & Override work
      * Complete user testing (#2551 needs to be updated) & document outcomes.  Requires completion of conversation guide (#2327)
