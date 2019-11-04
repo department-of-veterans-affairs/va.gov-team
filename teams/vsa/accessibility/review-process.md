@@ -40,31 +40,31 @@ There are two checkpoints
 
     a. *Integrated with VSP* [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
-    b. Include what project it’s for
+    b. Accessibility design review entails 
 
-    c. Where in the process is this? Initial concept, initial mockup, final mockup
-
-    d. Point of contact
-
-    e. Preferred times, if applicable
-
-    f. _Automagically_ creates a Zenhub ticket (assign to Emily, Crystabel, and VSA Accessibility Specialist)
-
-    g. VSP / Accessibility Specialist will schedule design review
-
-    h. Accessibility design review entails [Accessibility Design Review Checklist](https://docs.google.com/spreadsheets/d/19ZH_1imuTKHQfyMbOU5IKHwPDb_LGUqnnwoeMbKXH9I/edit#gid=2089055656) *Google sheets temporarily, for use by reviewers*
-
-        i. Mobile design first, then ‘laptop’/’desktop’
+        i. Mobile design
     
-        ii. Semantic heading order, spacing of interactive items, cognitive impact, use of plain language, consistency, best practices, mobile-only interactions, touch interactions, performance budget
+        ii. Laptop/desktop design
+        
+        iii. Semantic heading order
+        
+        iv. Spacing of interactive items
+        
+        v. Cognitive impact
+        
+        vi. Plain language
+        
+        vii. Consistency & best practices
+        
+        viii. Mobile-only interactions
+        
+        ix. Touch interactions
+        
+        x. Performance budget consideration
   
-        iii. During design review, issues will be noted. 
+        xi. Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
   
-        iv. Accessibility specialist will create an epic in Zenhub to capture issues. 
-  
-        v. Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
-  
-        vi. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
+        xii. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
 
 ## Development Review
 
