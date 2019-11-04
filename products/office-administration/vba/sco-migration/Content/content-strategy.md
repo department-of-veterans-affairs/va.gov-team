@@ -4,6 +4,7 @@
 ## Page Type:  Hub
 
 School Resources Page: https://tbd
+
 Hub Page Mockup/Example: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
 
 **Page Purpose/Intent:**
