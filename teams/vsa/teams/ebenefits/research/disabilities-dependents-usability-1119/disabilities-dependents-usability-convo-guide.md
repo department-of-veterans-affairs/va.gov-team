@@ -9,7 +9,7 @@
 Good morning/afternoon and thank you for joining us today. My name is Jim (the username on Zoom/GoTo may be different), and with me are a few collegues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus is the Disability Benefits sections.
 
 I have a few things I need to mention before we start:
-- The session should take 30 to 40 minutes (Confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may break-in to move us to the next item.
+- The session should take 30 to 40 minutes (confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may break-in to move us to the next item.
 - We are not promoting or selling any product or service.
 - We're not testing you in any way--there are no right or wrong answers. We want to hear your candid thoughts about what we show you so that we can make improvements to VA.gov.
 - Don't worry, I will not be offended by any opinons you express. Please be open about what you think.
@@ -33,7 +33,7 @@ I have a few things I need to mention before we start:
 ### Orientation to Screens
 OK, now we'll take a look at the link I sent you. Can you share your screen? (If trouble with link) OK, now well look at the pages we're testing; I'll share my screen. Please let me know when you can see it.
 
-What you see is a prototype--it's not a functioning website, it's just a page design right now. But it will have a few working links that we'll click on as we go.
+What you see is a prototype--it's not a functioning website, it's mostly a non-working page design right now. But it will have a few working links that we'll click on as we go.
 
 ## Rated Disabilities
 #### Landing Screen
@@ -52,6 +52,16 @@ You mentioned you'd try to find your VA disability rating by: (cite how particip
 - If you had a recent claim or appeal, what, if anything, does this page let you do?
 - Now that you've logged-in and seen the disability rating, what would you expect to do next? Do you see anything on-screen that would let you do that?
 - How would you return to the page you logged-in from?
+#### Error States
+Let's go back to the screen you logged-in from (click breadcrumb link to advance)
+If you would, click the green sign-in again. (user clicks to advance to Error 1)
+- Seeing this screen, what do you think happened? What would you do next?
+We have a few more of these; let's go back to the sign-in again, then click the green button once more. (click breadcrumb link to advance, the user clicks to advance to Error 2)
+- Now you see this page, what do you think happened, and what would you do next?
+We have one more like this one. Back to the sign-in to click the green button.
+- If you see this page, what do you think happened, and what would you do next? (click breadcrumb link to advance, the user clicks to advance to Error 3)
+The final screen is a bit different. Back to the sign-in to click the green button. (click breadcrumb link to advance, the user clicks to advance to Error 4)
+- If you see this when you sign-in, what is this page showing? If you felt something was wronge here, what would you do?
 
 ## View Dependents
 
