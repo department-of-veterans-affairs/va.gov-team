@@ -6,9 +6,17 @@
 - VA.gov link: N/A [TODO: add once VAOS in production]
 - Demo video link: n/a [TODO: add once VAOS in production]
 - Product POCs:
+  - VAOS Suite Business Owners:
+    - Dr. Kathleen Frisbee (Kathleen.Frisbee@va.gov)
+    - Dr. Neil Evans (Neil.Evans@va.gov)
+    - Dr. Clinton Greenstone (Clinton.Greenstone@va.gov)
+    - Dr. Michael Davies (Michael.Davies@va.gov)
+  - VAOS Suite Product Owner: Steve Eaton (steve.eaton@va.gov)
+  - VAOS Suite Program Manager: Eric Hopkins (eric.hopkins@va.gov)
+  - VAOS Suite Project Manager: Judy Mercado (judy.mercado@va.gov)
   - VA.gov Health Product Owner: Lauren Alexanderson (lauren.alexanderson@va.gov)
+  - Eng Lead: Stephen Barrs (stephen.barrs@va.gov)
   - Architect: Kam Karshenas (kam@adhocteam.us / kamyar.karshenas@va.gov)
-  - Eng Lead: Stephen Barrs (stephen.barrs@va.gov
   - Product Manager: Mark Greenburg (mark.greenburg@adhocteam.us / mark.greenburg@va.gov)
 
 ---
@@ -164,15 +172,13 @@ To achieve these MVP goals we'll focus on implementing a tool on VA.gov that mos
 - Veterans can cancel an existing confirmed or requested appointment
 - Veterans can directly schedule a new Primary Care or Mental Health appointment at clinic where they were seen previously
 - Veterans can request to schedule a new appointment for a type of care at a participating VA facility
-- Veterans can request to schedule a new appointment for Community Care for a given type of care when eligible based on static code or drive time
+- Veterans can request to schedule a new appointment for Community Care for a given type of care when eligible based on static code or drive time eligibility
 - Veterans can message a scheduling clerk during the process of requesting an appointment
 - Preferred appointment times are captured for both requests and self-scheduled appointments so that the VA can continue to track wait times
 
-Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to handle:
-- Authentication with necessary VAMF services (via integration with User Service)
-- Sending the front end data in a format that matches existing VAMF services as closely as possible
-
-We will also need to create content that will introduce the scheduling tool and give veterans actionable next steps in cases where they hit a wall (e.g., they're not registered anywhere, the care they want isn't avaialble at their registered sites, their site isn't configured for online scheduling, etc.).
+Additionally, the front end will need to talk to a new vets-api wrapper for the existing VAMF services. This wrapper will need to:
+- Authenticate with necessary VAMF services (via integration with User Service)
+- Send the front end data in a format that matches existing VAMF services as closely as possible
 
 ## Value Propositions
 
