@@ -115,7 +115,7 @@ As an engineer, I want to request a review for Security and Load Testing with th
 - Provide advance notice `(minimum 1 sprint, preferably 2)`
 - Create a QA ticket on GitHub:
 - Assign to `tlei123`
-- Add the vsa-qa, vsa-ebenefits, vsa label
+- Add the `vsa-qa`, `vsa-ebenefits`, `vsa` label
 - Select the Milestone sprint, or otherwise provide due-date for testing results.
 - Provide the following info to support testing (via links if documented elsewhere):
   - Staging URL of product/feature
