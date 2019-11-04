@@ -110,7 +110,7 @@ In this folder you will find:
 ### Projects
 *Some product research docs are cross-posted here. The new model is for these to live in product folders We are working on making sure that the research elements live in appropriate product folders.*
 
-## [Tools We Use]()
+## Tools We Use
 ### Communication
 - **Slack**: All conversations about products should take place in the appropriate DSVA product channel, not a private DM, an AdHoc only, or DSVA only channel. 
   - Bring any design questions for your fellow designers to the **#design** channel. 
@@ -131,5 +131,5 @@ In this folder you will find:
 - **Trello**: Trello is a free tool that can also be used to [conduct remote synthesis with your team](https://builttoadapt.io/using-trello-for-user-research-synthesis-fb1abdfc7c4b). 
 
 ## Practice Area Schedule
-There is not a separate research meeting, outside of research readouts for specific products & PI research readouts. The schedule for the former are determined by the product team and their stakeholders; the schedule for the latter is set by Research Lead. Designers discuss their research plans, issues, lessons learned, and readouts in the design meetings. [Design meeting schedule]()
+There is not a separate research meeting, outside of research readouts for specific products & PI research readouts. The schedule for the former are determined by the product team and their stakeholders; the schedule for the latter is set by Research Lead. Designers discuss their research plans, issues, lessons learned, and readouts in the design meetings. Design meeting schedule
 
