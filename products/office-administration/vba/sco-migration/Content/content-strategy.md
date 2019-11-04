@@ -59,12 +59,12 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
 - The GI Bill Benefits and programs accordion contains information on the various GI Bills.
 
 *Resources to support students spoke*
-- The "Resources to support students" spopke currently uses the Hub page template's Crosslinking element.  "Resources to support students" can become a spoke if more than 8 links need to be displayed.
-- The Resources to support students box contains an uncategorized list of links for students.
+- See "Crosslinking" below.
 
 **Crosslinking:**
-- Currently, the Crosslinking area of the page is being leveraged to display "Resources to support students".
-- "Resources to support students" may need to become a spoke if more than 8 links need to be displayed.
+- Currently, the Crosslinking area of the page is being leveraged to display the "Resources to support students" spoke.
+- The "Resources to support students" area contains an uncategorized list of links for students.
+- "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 
 **Promo Spot:**  
 - Call-out to key content or service directly related to the benefit hub.  
