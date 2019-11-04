@@ -23,15 +23,18 @@ Brief description of content on the page.
 Jump links to each of the spokes. 
 
 **Critical Callout:**
-Future functionality: Once the Pages is migrated into Drupal, it may be possible to leverge the Critical Callout element.  The Critical Callout only appears when a critical call-out needed for the hub.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. 
+Future functionality: Once the Pages is migrated into Drupal, it may be possible to leverge the Critical Callout element.  The Critical Callout only appears when a critical call-out needed for the hub.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. Futher discussions with DSVA will be needed before this element is leveraged.
 
 **Spokes:**
-- A sub-grouping of pages/links/accordions.   
+- Spokes are a sub-grouping of pages/links/accordions.   
 - There should be no more than 4 spokes.
 - There should be a max of 6 accordions in each spoke.  
 
 *SCO Hub*
-- The spokes on the School Resources page are: Training & Guides; Upcoming events; and Policies and procedures
+- The spokes on the School Resources page are: 
+  - Training & Guides
+  - Upcoming events
+  - Policies and procedures
 - The "Resources to support students" area currently uses the Hub page template's Crosslinking element.  "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 
 *Announcements*
