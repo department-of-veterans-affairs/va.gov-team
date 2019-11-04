@@ -25,6 +25,11 @@ Jump links to each of the spokes.
 **Critical Callout:**
 Future functionality: Once the Pages is migrated into Drupal, it may be possible to leverge the Critical Callout element.  The Critical Callout only appears when a critical call-out needed for the hub.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. Futher discussions with DSVA will be needed before this element is leveraged.
 
+**Announcements**
+- Displays the 3 most recent announcements.  
+- These announcements are also displayed on the Breaking News page. 
+- Announcements may include links to resources that reside in their permanent location.
+
 **Spokes:**
 - Spokes are a sub-grouping of pages/links/accordions.   
 - There should be no more than 4 spokes.
@@ -33,16 +38,12 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
   - Training & Guides
   - Upcoming events
   - Policies and procedures
-- The "Resources to support students" area currently uses the Hub page template's Crosslinking element.  "Resources to support students" can become a spoke if more than 8 links need to be displayed.
+  - Resources to support students
+
 - Within each spoke 
   - Content and links are placed within accordions.
-  - What is the rhyme or reason for when links are categorized beneath a sub-heading and when they are not?
-  - Hyperlinks are either a) underlined and unbold or b) bold, not underlined with a chevron. 
-
-*Announcements*
-- Displays the 3 most recent announcements.  
-- These announcements are also displayed on the Breaking News page. 
-- Announcements may include links to resources that reside in their permanent location.
+  - _ _Explain the rhyme or reason for when links are categorized beneath a sub-heading and when they are not_ _
+  - Hyperlinks are either a) blue, underlined and unbold or b) blue, bold, not underlined with a chevron. 
 
 *Training and guides spoke*
 - The Essentials for School Certifying Officials accordion is designed to contain links that SCOs acccess frequently and resources that new SCO need as they begin the onboarding process.
@@ -58,8 +59,8 @@ Future functionality: Once the Pages is migrated into Drupal, it may be possible
 - The GI Bill Benefits and programs accordion contains information on the various GI Bills.
 
 *Resources to support students spoke*
+- The "Resources to support students" spopke currently uses the Hub page template's Crosslinking element.  "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 - The Resources to support students box contains an uncategorized list of links for students.
-
 
 **Crosslinking:**
 - Currently, the Crosslinking area of the page is being leveraged to display "Resources to support students".
