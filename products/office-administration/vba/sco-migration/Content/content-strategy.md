@@ -126,5 +126,5 @@ Topics for the "Resources for Students" spoke include the following:
 
 
 **Suggestions for other pages**
-- Add STEM Scholarship information to the existing Scholarship page on benefits.va.gov https://www.benefits.va.gov/gibill/non_va_resources.asp - financial_aid.
+- Add STEM Scholarship information to the existing Scholarship page on benefits.va.gov https://www.benefits.va.gov/gibill/non_va_resources.asp - financial_aid.
 
