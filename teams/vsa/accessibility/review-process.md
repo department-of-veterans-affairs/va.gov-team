@@ -38,7 +38,7 @@ There are two checkpoints
 
 2. **Design Review Checkpoint** — *Integrated with VSP* — [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
-Accessibility design review considerations:
+    Accessibility design review considerations:
 
     a. Mobile design
     
