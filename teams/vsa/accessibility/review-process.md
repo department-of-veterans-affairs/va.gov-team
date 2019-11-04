@@ -60,9 +60,9 @@ There are two checkpoints
         
     j. Performance budget consideration
   
- Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
+    Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
   
-Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
+    Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
 
 ## Development Review
 
