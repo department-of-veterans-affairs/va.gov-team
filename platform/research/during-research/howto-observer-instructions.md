@@ -24,14 +24,14 @@ For every session, there should always be a designated notetaker. If you are the
 
 - Taking verbatim notes is literally transcribing what the participant and moderator said and did.
 - It doesn’t have to be a live, full transcript, but it should be as close to exact as possible. After taking notes, go back and fill in areas that were not captured exactly during the session.
-- The note taker should be taking notes ***only***. Avoid interpretation and save that for mini-debriefs / [session reports](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Session%20Report%20Template.md).
+- The note taker should be taking notes ***only***. Avoid interpretation and save that for mini-debriefs / session reports.
 - In order to help the moderator identify where personally identifiable information is spoken or displayed on screen and later remove it from the recording, please make a stamp of "***PII***" in each spot where it occurs in the transcript.
 - “Type really fast and be kind to yourself.” - Sophia. Don't correct yourself while typing, don’t worry about typos. You can go back and fix this later, but try to be as accurate as possible. Time stamp areas you get lost and go back to the recording to fill in those details.
 
 ### Notes template
 
 - If you have a template that works for you, share it!
-- Consideration: reframer integration. [Reframer has a template for this!]( https://github.com/department-of-veterans-affairs/vets.gov-research/files/1488413/reframer-import-tags-bf590bb3a5a9167358f68dc9298aec6bfacb1a4215ae6c5a318bb716ebdbe459.1.xlsx)
+- Consideration: [Reframer integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-use-reframer.md).
 - Regardless of how you take notes, be sure to capture: P#, date, time, test name
 
 ## Role: Observer (internal team members)
