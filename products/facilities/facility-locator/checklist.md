@@ -72,9 +72,7 @@ _Do we need to merge the FE and BE tasks?_
 - [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely?  
 ### Backend Tasks  
 - [ ] Investigation of applicable services  
-  - [ ] Does the feature use the `vets-api` or `EVSS` service?
-  - [ ] Review `vets-api` endpoints or does an `api` exist, need to be built?
-  - [ ] Does EVSS need to be engaged? And how?
+  - [ ] Which API service does this feature use?
   - [ ] Collaborate with Frontend on Error Handling
   - [ ] Investigate  the common area for error types
   - [ ] Define or reference a known resource
@@ -85,7 +83,7 @@ _Do we need to merge the FE and BE tasks?_
 - [ ] Links to important dashboards for investigating relevant issues
 ### Frontend Tasks
 - [ ] Investigation
-  - [ ] What will be involved in using the `vets-api`service to pull and display data?
+  - [ ] What will be involved in using the API service to pull and display data?
   - [ ] List and define what the main components will be for the feature to function properly
   - [ ] Collaborate with Backend on Error Handling
   - [ ] Investigate  the common area for error types
