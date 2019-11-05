@@ -50,8 +50,7 @@ Required if your school has 20 or more GI Bill students.
 ### VA-ONCE information {accordion}
 
 **[Launch VA-ONCE >](https://vaonce.vba.va.gov/vaonce_student/default.asp)**     
-Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
-
+Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.  
 **[VA-ONCE quick reference guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)   
 [Memorandum of Understanding (MOU) >](https://www.benefits.va.gov/GIBILL/resources/education_resources/mou.html)**     
 To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your [Education Liaison Representative (ELR)](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp).   
