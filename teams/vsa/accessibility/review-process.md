@@ -92,9 +92,9 @@ There are two checkpoints:
 
     a. Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
     
-    b. If you'd like, you may request an accessibility review ahead of the Pre-launch 508 Review: [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
+    b. If you'd like, you may request an spot check accessibility review ahead of the Pre-launch 508 Review: [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
 
-    b. [Request a Pre-launch 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+    b. If your project is code stable in Staging, [request a Pre-launch 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 
     c. Accessibility specialist review will check the following:
   
