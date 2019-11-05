@@ -2,7 +2,7 @@
 name: Request a VSA Design Review
 about: Request a design review for VSA products
 title: Request design review for ENTER_PRODUCT_NAME
-labels: 508/Accessibility, design review, product support
+labels: 508/Accessibility, design, design review, product support
 assignees: emilywaggoner, CrystabelReiter,jenstrickland
 
 ---
