@@ -7,3 +7,15 @@ We conducted moderated user testing sessions with 7 participants, all Veterans, 
 Transcripts and notes can all be found in the [Facility Locator Discovery Research folder.](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/facilities/facility-locator/research/discovery-sprints/user-research)
 
 ## Summary
+We found XX high-level trends regarding Veteran objective when using the tool and overall usability of the tool.
+1. #### Finding
+2. #### Finding
+3. #### Finding
+4. #### Finding
+5. #### Finding
+
+## Recommendations
+
+## Conclusion
+
+## Themes & Quotes
