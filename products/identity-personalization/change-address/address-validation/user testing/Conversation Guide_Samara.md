@@ -20,7 +20,7 @@ Before we start, a few things I want to mention:
 - **If for any reason and at any time you want to stop the session, please let me know.** You will not be penalized in any way if we need to stop.
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately.
 
-## Warm-up Questions (7 minutes)
+## Warm-up Questions (5 minutes)
 
 1. Before we start, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
 
