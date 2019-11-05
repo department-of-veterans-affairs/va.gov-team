@@ -17,7 +17,7 @@
 |Amen Ra | FE Engineer| ara@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-
+|Amy Rosenthal|            |Amy.Rosenthal@va.gov  |
 
 ---
 
@@ -53,13 +53,15 @@ Currently the VA receives an excessive of returned USPS mail as undeliverable an
 As a Veteran, I want securely access and manage my mailing address information and have the ability to override the system when my submitted address is not recognized by the system.  
 
 ## Solution Goals
-Provide a simple and easy way to manage mailing address submissions to reduce the amount of returned snail mail. 
+Provide a simple and easy way to manage mailing address submissions to reduce the amount of returned snail mail. Also provide the correct error messaging guiding the users to correct the issue in the event a mailing address cannot be updated.
 
 ### User Goals
-- Va.gov candidate address validation will be a secure way to access and manage mailing address information. 
+- Va.gov candidate address validation will be a secure way to access and manage mailing address information in the system. Provide a easy understandble way for the user to take actionalbe steps to get their mailing information updated and corrected when an error has occured. 
 
 ## Hypothesis
 - Reduction in the amount of returned USPS mail.
+- A decrease in overall calls the National Call Center regarding errors from users not able to update their mailing address. 
+- The system will have more accurate mailing address data for users by implementing the correct solutions to capture the right mailing address information when inputed by the user. 
 
 
 ## Requirements 
@@ -68,14 +70,14 @@ Provide a simple and easy way to manage mailing address submissions to reduce th
 
 
 ## Constraints
-- 
+- Severity levels codes will need to be authorized to allow mailing addresses to be overriden when not initially recognized from the users input. 
 
 
 ## Discovery Takeaways
 - Initial Discovery notes can be found [here]()
 
 ## Decisions
-
+- 
 
 ## The Plan
 - Work with the Vets360 team to better understand needs of the API interaction.
@@ -85,9 +87,12 @@ Provide a simple and easy way to manage mailing address submissions to reduce th
 ## KPIs
 ### Objective
 - Improve the ability to manage address information and decrease the number of returned snail mail cases.
+- Decrease overall call volume to National Call Center regarding mailing address update errors. 
+- Google analytics insight will show a increase in successful mailing address submissions. 
 
 ### Tracking
-- Work with the _____ team to see if there is an decrease in cases.
+- Work with the call center team team to see if there is an decrease in call in cases.
+- Work with Google Analytics team to see if the percentages are increasing in success rates for users updating their mailing addresses successful by following the error messaging provided to the user when they are not able to initially save their mailing address.
 ---
 
 # Implementation Info
