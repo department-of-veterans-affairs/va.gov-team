@@ -46,7 +46,7 @@ Users are manually added to GitHub and Slack already. For GitHub, a user must be
 - Start the process of rolling out to VFS teams, by the Ops team creating a GH team on the VA repo, setting their permissions and then giving that GH team to each to for them to manage and own. 
 
 ### Phase 2 Interation with VA slackbot
-- Integrating VA Slackbot to automaticly audit current users by inactivity in DSVA slack, in order to remove inactive users to ensure only active users have access. 
+- Integrating VA Slackbot to automatically audit current users by inactivity in DSVA slack, in order to remove inactive users to ensure only active users have access. 
 - Idea: allow slackbot to add new users to channels where their team is. 
 
 ### Phase 3 Integrating AWS to GH team
@@ -59,7 +59,7 @@ Users are manually added to GitHub and Slack already. For GitHub, a user must be
 - Set GitHub at the center of user management by using GitHub teams for role/access management, where team changes trigger an external service to provide both AWS IAM users and SSH keys for SOCKS.
 
 ## Narrative
-- Proposal was drafted and approved by DSVA.
+- Proposal was drafted and approved by DSVA in September 2019.
 - MVP was demoed locally on 10/16. 
 - PR was merged to make VSP Operations team the first group to use, so testing can be done.
 
