@@ -60,7 +60,7 @@ Last Updated August 20, 2019
 # Executive Summary
 Due to large number of fraud cases and security concerns on eBenefits the Direct Deposit feature is being ported from eBenefits to VA.gov. The migration of Direct Deposit started as a desire for MFA, which Va.gov has. While eBenefits houses both Compensation & Pension functionality and GI Bill payment information, the MVP will only include Comp & Pension at this time.
 
-The full background on Direct Deposit is found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research)
+The full background on Direct Deposit is found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
 ## User Problem Statement
 As a Veteran, I want to securely access and change my compensation and pension direct deposit information.
@@ -89,10 +89,10 @@ The Personal Information page of eBenefits, which contains the Direct Deposit fu
 - Need to speak with more people around the rules eBenfits had in place. (ie "Financially-incompetent Veteran") The conversation and rules can be found [here.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19029x) **(need to update)**
 
 ## Discovery Takeaways
-- Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research)
+- Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
 ## Decisions
-At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill have not been exposed in a consumable service, although this is still being researched. According to this [document](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/635f35ad555d0cdac50667ac48c92fef2b719c64/Products/Platform/EVSS%20Integration/meeting-notes/2017-06-21-EVSS-Vets.gov-meeting-notes.md#pciu), this data is stored in _LTS Ch33_.
+At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill have not been exposed in a consumable service, although this is still being researched. According to this [document](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/635f35ad555d0cdac50667ac48c92fef2b719c64/Products/Platform/EVSS%20Integration/meeting-notes/2017-06-21-EVSS-Vets.gov-meeting-notes.md#pciu), this data is stored in _LTS Ch33_. (__note: link points to vets.gov-team repo__)
 
 ## The Plan
 - Work with the eBenfits to better understand needs of Veterans. 
@@ -121,7 +121,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 
 - Currently in Staging, not in Production.
 
-- Conversations with the eBenfits team unearthed a few different rule that are in place on for direct deposit. Conversations will continue to find out what needs to be in place for direct deposit on VA.gov, but for an MVP is the goal. further notes from that conversation can be found [here.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Meeting%20Notes/Direct%20deposit%20call%206.5.19.docx)
+- Conversations with the eBenfits team unearthed a few different rule that are in place on for direct deposit. Conversations will continue to find out what needs to be in place for direct deposit on VA.gov, but for an MVP is the goal. further notes from that conversation can be found [here.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Meeting%20Notes/Direct%20deposit%20call%206.5.19.docx) (__note: link points to vets.gov-team repo__)
 
 - Working with the ID.me team to improve security for MFA to protect Veterans from Fraudsters. Still to be decided if this will be included in the MVP. Work can be found in this [ticket](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/18797)
 
@@ -143,7 +143,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 **Staging**
 
 - https://staging.va.gov/my-va/
-- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv) and navigate to the profile.
+- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv) and navigate to the profile (__note: link points to vets.gov-team repo__).
 - LOA3 without 2FA: Will be promted to setup 2FA before accessing.
 - LOA1: Create an account on staging and navigate to the profile. You will see a prompt to verify your identity since the profile is only available to users who have verified their identities.
 - [QA Manual Testing Matrix](https://app.zenhub.com/files/31788863/7d925a6a-4824-4437-a80e-2dbaf2224dfa/download) spreadsheet
@@ -194,7 +194,7 @@ We also use the govDelivery API to send emails.
 
 ## Design 
 
-[Designs are in this folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Design).
+[Designs are in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/design).
 
 ### Screenshots
 
@@ -203,5 +203,5 @@ We also use the govDelivery API to send emails.
 
 ![screen shot 2018-10-29 at 10 19 58 am](https://user-images.githubusercontent.com/21130918/47655822-3a87f000-db64-11e8-98a4-ebebb2a8183c.png)
 
-#### The eBenefits Direct Deposit Secreen shots can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research)
+#### The eBenefits Direct Deposit Secreen shots can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
