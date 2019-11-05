@@ -56,6 +56,7 @@ User story example: *As a member of a team building with or on VSP, I need to my
        * link to the URL where the content appears on staging
 
 *	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear.
+*	Launch date. Date you're targeting to launch this tool/page/alert/screen.
 *	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?
 *	User research. Is there any specific information from user research to take into consideration when doing the content review?
 
