@@ -19,9 +19,10 @@ Github/Zenhub labels:
 The following list is a set of resources for practicing IA on VA.gov and to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
 
 **How to Work with IA Team**
-- [Working with IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
+- [Working with IA (Rules of Engagement)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
 
 **Best Practices and Guidelines**
+- [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
 - [URL Process and Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md)
 - [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
 - [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
