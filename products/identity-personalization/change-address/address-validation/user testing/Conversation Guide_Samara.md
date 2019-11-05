@@ -24,7 +24,7 @@ Before we start, a few things I want to mention:
 
 1. Before we start, can you tell me a little bit about yourself? (If stuck, prompt to ask about service experience, where they live, their work).
 
-*Start recording.*
+*Share screen and start recording.*
 
 OK, now I am going to turn on the recording.
 
