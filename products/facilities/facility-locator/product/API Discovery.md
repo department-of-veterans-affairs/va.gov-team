@@ -1,30 +1,28 @@
 
 
-## [Draft Mappings of Taxonomy to Primary Stop Codes, VAOS, and Acccess to Care Classifications](https://airtable.com/shr1qe5J2DmyKkPum https://airtable.com/shr1qe5J2DmyKkPum/tbl15hQgw2HkM1yF1?blocks=hide)
+[Draft Mappings of Taxonomy to Primary Stop Codes, VAOS, and Acccess to Care Classifications](https://airtable.com/shr1qe5J2DmyKkPum https://airtable.com/shr1qe5J2DmyKkPum/tbl15hQgw2HkM1yF1?blocks=hide)
 
-Access to care "Service Line" = ??
+[LocatorAPI.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/api/LocatorApi.js)
 
-## [LocatorAPI.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/api/LocatorApi.js)
+[Config.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/config.js)
 
-## [Config.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/facility-locator/config.js)
-
-## People
+**People**
 - Information Architecture: Mikki Northius, @Mikki on Slack
 - Vets-api Brian Gryth (brian.gryth@adhocteam.us)
 
-## Cemetery
+**Cemetery**
 - Example: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/cemetery_data/cems.xml
 
-## Dental
+**Dental**
 - https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/facilities/dental_service_data
 
-## Mental Health
+**Mental Health**
 - https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/facilities/mental_health_data
 
-## Facility Websites
+**Facility Websites**
 - https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/website_data/websites.csv
 
-## [Facility API](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/API%20Design.md)
+[Facility API](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/API%20Design.md)
 - Facility Locator API provides data to the Facility Locator application
 - The Facility Locater API itself is stateless, and provides a clean, RESTful interface to one or more GIS systems that are the source of truth for VA facility data. VA stakeholders use these GIS systems as the data management tool to keep facility data up-to-date.
 - There are two classes of facility relevant to this tool: VA facilities, and Non-VA "Choice Act" facilities. Information for the two classes of facility are provided by different data sources (both ArcGIS-based) with differing feature schemas.
@@ -38,30 +36,30 @@ Access to care "Service Line" = ??
   - Facility detail: GET /facilities/<facility_id>
     - Looks up a complete record of an individual facility by its unique ID.
  - The bare GET /facilities endpoint will be forbidden, as opposed to returning a list of all facilities.  
-- *The API should define a maximum number of results to return for any given query. Otherwise a client could zoom out to the full extent of the US and generate a request all available VA facilities. The backend GIS API supports a limit parameter, but it is unknown how results are ordered.*
+- The API should define a maximum number of results to return for any given query. Otherwise a client could zoom out to the full extent of the US and generate a request all available VA facilities. The backend GIS API supports a limit parameter, but it is unknown how results are ordered.
 - The backend GIS API returns a single feature type, essentially a large flat JSON object for each facility. We expect we will want to massage this format into something more structured for consumption by the front end application. Exact format is to be determined.
 - When a map view is populated by a facility search, it only needs a subset of facility information to populate the map markers. The facility search endpoint can return a smaller record for each facility to cut down on traffic. However, there might be a benefit to returning the full record - the frontend could optimistically use that info for display in a detailed facility view without incurring another round trip. We will assess the relative sizes of the full and reduced records to decide what to do here.
--*VA and Choice Act provider datasets have different lists of provider specialty services. If we want to provide a unified filtering mechansim we need an internal mapping between the service types.*
+-VA and Choice Act provider datasets have different lists of provider specialty services. If we want to provide a unified filtering mechansim we need an internal mapping between the service types.
   
-# [Facility Locator Schema](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/FL%20Schema.md)
+[Facility Locator Schema](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/FL%20Schema.md)
 
-# [Sample Objects returned from the VA Health Facility endpoint and the Choice Act Provider endpoint](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/Facility%20Data%20Samples.md)
--*VA endpoint returns facilities with all the services available at that facility. The Choice Act endpoint returns providers, i.e. individual doctors/physician's assistants/etc; specifically each record identifies a single specialty of an individual provider at a single location. These individual records will need to be merged to create a useful record for map display.*
+[Sample Objects returned from the VA Health Facility endpoint and the Choice Act Provider endpoint](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/Facility%20Data%20Samples.md)
+-VA endpoint returns facilities with all the services available at that facility. The Choice Act endpoint returns providers, i.e. individual doctors/physician's assistants/etc; specifically each record identifies a single specialty of an individual provider at a single location. These individual records will need to be merged to create a useful record for map display.
  
-## VA Health Facility (VHA) Object
+**VA Health Facility (VHA) Object**
 - Endpoint: https://maps.va.gov/server/rest/services/PROJECTS/Facility_Locator/MapServer/0
 - Total record count (where 1=1): 1176
 - Default Spatial Reference: 4326
 - StationID is a unique identifier across all health facilities.
 
-## VA Cemetery (NCA) Object
+**VA Cemetery (NCA) Object**
 - Endpoint: https://services3.arcgis.com/aqgBd3l68G8hEFFE/ArcGIS/rest/services/NCA_Facilities/FeatureServer/0
 - Total Record Count: 140
 - Default Spatial Reference: 102100
 - CEMETERY_I (Cemetery ID) is a stable facility identifier. There are a couple of records with duplicate IDs due to cemeteries that have multiple disjoint parcels represented with distinct records.
 - Note separate facility address and mailing address.
 
-## Choice Act Provider Object
+**Choice Act Provider Object**
 - Endpoint: https://services3.arcgis.com/aqgBd3l68G8hEFFE/arcgis/rest/services/ChoiceActProviders/FeatureServer/0
 - Total record count (where 1=1): 792859
 - Default Spatial Reference: 102100
