@@ -8,4 +8,4 @@
 
 # Agenda / notes
 
-* Note: Oddball summit today
+* Cancelled (Oddball summit)
