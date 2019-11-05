@@ -9,7 +9,7 @@ A content review should be requested at these times:
 
 * **Before a user research session.** This is to ensure participants don't get distracted by misspellings and grammar errors, and that the content works with the tool functionality.  
 * **Before a page or prototype is share with a stakeholder or SME.** This is to ensure SMEs aren't distracted by misspelling and grammar errors, and that the content works with the tool functionality.
-* **Before a product launches.** Content review should be part of every product launch checklist. In some situations, several content reviews might need to happen before a product launch (for example, if there are multiple PRs that need reviewing).     
+* **Before a product launches.** Content review should be part of every product launch checklist. In some situations, several content reviews might need to happen before a product launch (for example, if there are multiple PRs that need reviewing or multiple changes that need to be checked).     
 
 In addition, a content review can be requested any time a team thinks they could benefit from having an edit or review, outside of the three situations listed above.
 
