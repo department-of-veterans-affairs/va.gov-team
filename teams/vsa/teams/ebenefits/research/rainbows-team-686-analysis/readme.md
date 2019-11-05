@@ -1,3 +1,5 @@
+__Please note: some links in this file point to the vets.gov-team repo.__
+
 Outline & Links for Rainbow Team's 21-686c discovery and user reseach and testing.
 
 ### General Research
