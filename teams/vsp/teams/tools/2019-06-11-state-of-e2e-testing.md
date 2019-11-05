@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # State of E2E Testing on VA.gov
 We currently have multiple E2E testing solutions, mostly on the front-end (JavaScript-based). Not every app or feature on VA.gov has full E2E test coverage, as we do not enforce a required amount of coverage to push changes. However, almost all of the existing tests are written in Nightwatch, a testing framework that runs on Selenium, and run as part of CI. These tests do not actually invoke the VA API; when writing these tests, responses need to be mocked for any anticipated API requests.
 
