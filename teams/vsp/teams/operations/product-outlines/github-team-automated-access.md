@@ -45,7 +45,11 @@ Users are manually added to GitHub and Slack already. For GitHub, a user must be
 - Roll out to all of VSP, request feedback, and integrate.
 - Start the process of rolling out to VFS teams, by the Ops team creating a GH team on the VA repo, setting their permissions and then giving that GH team to each to for them to manage and own. 
 
-### Phase 2 Integrating AWS to GH team
+### Phase 2 Interation with VA slackbot
+- Integrating VA Slackbot to automaticly audit current users by inactivity in DSVA slack, in order to remove inactive users to ensure only active users have access. 
+- Idea: allow slackbot to add new users to channels where their team is. 
+
+### Phase 3 Integrating AWS to GH team
 - Connect GH teams with AWS. 
 
 ### Rollback Plan
