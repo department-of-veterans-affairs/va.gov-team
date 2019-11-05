@@ -19,3 +19,15 @@ We found XX high-level trends regarding Veteran objective when using the tool an
 ## Conclusion
 
 ## Themes & Quotes
+
+## Impact of Research
+
+### Teams/Products
+- Homepage (four white boxes) 
+- Schedule Appointment Tool
+- Logged-in experience
+
+## Addiitonal Research
+There were topics we could not cover during this intial discovery session. The following are topics that still need to be  investigated.
+
+
