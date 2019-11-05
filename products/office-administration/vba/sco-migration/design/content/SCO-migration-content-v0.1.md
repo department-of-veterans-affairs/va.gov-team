@@ -165,12 +165,12 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 ---
 #### Other resources to support your students (H3)
 
-**[How to apply for education benefits >](https://www.va.gov/education/how-to-apply/)  
-[Scholarships and financial aid >](https://www.benefits.va.gov/gibill/non_va_resources.asp#financial_aid)  
-[Adult College Completion Toolkit >](https://www.benefits.va.gov/GIBILL/docs/adult_college_completion_toolkit.pdf)  
-[Employment assistance >](https://www.benefits.va.gov/vow/)   
-[CareerScope aptitude assessment >](https://www.benefits.va.gov/GIBILL/careerscope.asp)   
-[GI Bill Comparison Tool >](https://www.va.gov/gi-bill-comparison-tool)**
+**[How to apply for education benefits](https://www.va.gov/education/how-to-apply/)  
+[Scholarships and financial aid](https://www.benefits.va.gov/gibill/non_va_resources.asp#financial_aid)  
+[Adult College Completion Toolkit](https://www.benefits.va.gov/GIBILL/docs/adult_college_completion_toolkit.pdf)  
+[Employment assistance](https://www.benefits.va.gov/vow/)   
+[CareerScope aptitude assessment](https://www.benefits.va.gov/GIBILL/careerscope.asp)   
+[GI Bill Comparison Tool](https://www.va.gov/gi-bill-comparison-tool)**
 
 ---
 
