@@ -1,4 +1,4 @@
-__Please note: many links in this document point to documents in the vets.gov-team repo.__
+__Please note: some links in this document point to documents in the vets.gov-team repo.__
 
 # Planning — 10/9/2019
 
