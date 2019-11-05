@@ -1,3 +1,4 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
 
 # Content 
 Hello! In this folder, you'll find information about plain language standards and documentation and guidance on creating content across VA.gov. 
