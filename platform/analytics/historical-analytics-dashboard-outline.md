@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Analytics Dashboard Product Outline
 - GitHub Label: analytics
 - Slack channel: #insights-team
