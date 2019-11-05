@@ -1,3 +1,5 @@
+__Please note: some links in this document point to documents in the vets.gov-team repo.__
+
 # Personalization 2.0
 
 ## Communications
