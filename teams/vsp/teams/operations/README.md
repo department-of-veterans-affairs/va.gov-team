@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Operations
 
 Repository for team information, planning docs, meeting notes, etc.
