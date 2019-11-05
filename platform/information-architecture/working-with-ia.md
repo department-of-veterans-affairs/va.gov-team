@@ -50,19 +50,12 @@ Outside of these time periods, IA resources can be requested any time a team thi
 
 ## <a id="howtorequest"></a>How to request IA support 
 
-Please be sure to make requests ideally a sprint ahead of time. For example, if you know you will be finishing up your writing in the next sprint, be sure to create the request for IA support for that same sprint so we can account for it in our planning. 
+Please be sure to make requests ahead of time - ideally a sprint ahead of time. 
 
 Please open a Zenhub issue in ```va.gov-team repo```. 
 1. Choose standard issue template.
-2. Title for the issue: ```VFS IA Support: [title of tool/app/page]```
-4. Be sure to include the following in the issue:
-
-**User story**
-As a __________, I need __________ so I can _________.
-
-User story example: *As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure users can easily find and utilize the new content and/or functionality.*
-
-Please include any/all of the following if available and as applicable:
+2. Title for the issue: ```IA Support: [title of tool/app/page]```
+4. Please include any/all of the following if available and as applicable:
 - Link to product outline
 - Planned launch date
 - User flow or link to prototype
@@ -70,9 +63,7 @@ Please include any/all of the following if available and as applicable:
 - Research synthesis if applicable
 
 Please tag the issue with:
-- Milestone (when do you want this completed?)
-- Epic (what body of work is this a part of?)
-- Team/Practice Area label  - `content-ia-team`
+- Team/Practice Area label  - `content-ia-team` and `ia`
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 - Assign issue to @mnorthuis, @meganhkelley
 
