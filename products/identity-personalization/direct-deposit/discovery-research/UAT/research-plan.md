@@ -103,6 +103,6 @@ FYI — **Arthur Green (agreen@governmentcio.com) will be conducting these sessi
 - Emily Waggoner (emily@adhocteam.us)
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/README.md)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/UAT/Conversation%20Guide.md)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/UAT/conversation-guide.md)
 - Notes
