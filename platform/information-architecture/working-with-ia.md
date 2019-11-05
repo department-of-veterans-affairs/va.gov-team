@@ -25,27 +25,23 @@ All teams building on the Veteran Services Platform should follow VA.gov IA best
 - Changing the UX of navigational elements (i.e. top nav, left nav, breadcrumbs)
 
 ## <a id="whentorequest"></a>When to request IA resources
-It is beneficial to engage IA resources as early as possible when you begin work on a page, product or tool and collaborate throughout your project, as many things can impact and evolve IA and navigation.  Involving an IA resource earlier in your project will help avoid structural changes down the line. 
+Here are key times for IA support, but please do not hesitate to reach out at any time with questions, ideas or for general collaboration.   
 
 **At project kick-off** 
-- It is beneficial to engage IA resources as early as possible in your work so we can gather background information, understand scope and timing, and determine how to work together through your project. 
+- It is beneficial to engage IA resources as early as possible in your work so we can gather background information, understand scope and timing, and determine how to work together through your project. Involving an IA resource earlier in your project will help avoid structural changes down the line. 
 
-**When planning user research** 
-- We will review discussion guides and prototypes for navigation design and labeling, and look at how findability of your content/tool can be included as part of your research. 
-- If the research is highly focused on findability, flow and navigation, we ask that you please include us in the sessions as well.  
+**During Discovery** 
+- We can provide input and feedback on user research approach, review discussion guides and prototypes for navigation design and labeling, and look at how findability of your content/tool can be included as part of your research. 
+- If research is highly focused on findability, flow and navigation, we ask that you please include us in the sessions as well.  
 - Include us in research readouts so we can evolve your appropriately based on your findings.
 
-**To review designs and/or prototypes** 
-- We will provide feedback on navigational elements of designs and prototypes, especially if they will be used in user research. 
-
-**To review draft content** 
+**During Design** 
+- We will provide feedback on page flow and navigational elements of designs and prototypes
 - IA and writing need to work together, and as content evolves, it can impact the IA.  Content elements are also used to determine pages names/URLs. 
 - If your project includes multiple content pages or complex content, we ask that you work with us during the writing process.  We will provide feedback on how structuring content impacts IA. 
 
-**Before development** 
-- We will provide final URLs, navigation labels (in collaboration with content), link placement, redirect needs, XML sitemap direction, and any other documentation for your development team.  
-
-Outside of these time periods, IA resources can be requested any time a team thinks they could benefit from collaboration or review.
+**During Development** 
+- We will approve final URLs and navigation labels and placement (in collaboration with content), as well as coordinate redirect implmentation, and help with any other documentation for your development team.  
 
 
 ## <a id="howtorequest"></a>How to request IA support 
