@@ -5,6 +5,8 @@
   
 - [Header Stacks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/patternLibraryInitiatives/headings.md)
 
+- Form controls with errors - document the error message styling for form controls in the design system
+
 - Relationship of aside/sidenav and main element to be compliant. Currently, the design system uses divs so the code passes, but the classes indicate the aside/sidenav nature of the div that is inside the main element, thereby breaking the semantic relationship of the elements and interfering with the screen reader identification of areas of content.
 
 - Icons, accessible treatment: 
