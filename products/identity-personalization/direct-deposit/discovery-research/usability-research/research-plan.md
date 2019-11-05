@@ -116,7 +116,7 @@ Please invite the following people to these sessions:
 - Chris Johnston (christopher.johnston2@va.gov)
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/README.md)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/README.md)
 - Discussion Guide
 - Notes & Recordings
 - Synthesis
