@@ -2,9 +2,9 @@
 The steps here are meant to track and inform all the necessary steps for a feature to be launched in the VA.goc online experience.
 
 ## Discovery
-- [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
-- [ ] Schedule and attend an orientation of the new feature  
-  - [ ] List endpoints or questions about endpoints
+- [x] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
+- [x] Schedule and attend an orientation of the new feature  
+  - [x] List endpoints or [questions about endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/evss-tcdr)
 
 ## Design
 ### Research Plan
