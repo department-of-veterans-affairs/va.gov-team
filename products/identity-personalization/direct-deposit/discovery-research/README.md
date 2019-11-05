@@ -1,3 +1,5 @@
+(__Please note: many links in this document point to the vets.gov-team repo.  They will be repointed as additional documentation is migrated to va.gov-team.__)
+
 # Direct Deposit
 What is required in order to port the direct deposit functionality from eBenefits to VA.gov? 
 
