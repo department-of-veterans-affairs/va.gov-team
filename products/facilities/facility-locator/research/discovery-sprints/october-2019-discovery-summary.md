@@ -50,9 +50,10 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 - We've defined the full list of facility locators to be evaluated for consolidation into the current Facility Locator tool. 
 - We've gained an understanding of the Health Services Taxonomy, organized under 5 major categories of care: Primary Care, Mental Health, Specialty Care, Social Programs and Other. 
 - We've leatrned the mapping for the VA Specialty/Service/Programs to 1) patient friendly language, which will be useful in determining how to display the services and 2) stop codes which will be useful in determining which locations provide the services.
+
 **Priorities**
-- Through the transition of the responsibility for urgent and emergency care, top priorities were known. 
- 
+- Now that we've assumed responsibility for urgent and emergency care issues and enhanvcements, the work has become a top priority. 
+
 ### New questions
 - What is the acceptable data quality threshold for production?
 - Priorities after urgent and emergency care
