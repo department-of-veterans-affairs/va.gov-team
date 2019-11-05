@@ -24,9 +24,9 @@ assignees: 1Copenut, jenstrickland
 
 [ ] **Design-Development Intent Checkpoint** (Review design to discuss approach to take with development, identify what components and semantic HTML would be appropriate, identify any accessibility issues and how to address)
 
-[ ] **Before Pre-launch 508 Review Checkpoint** (Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md))
+[ ] **Spot Check Review Checkpoint** (Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md))
 
-If you're ready, you may [Request a Pre-Launch 508 Reivew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md).
+If your project is code stable in Staging, [request a Pre-Launch 508 Reivew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md).
 
 ## Point of contact
 
