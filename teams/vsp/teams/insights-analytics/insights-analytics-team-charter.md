@@ -95,7 +95,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-- Be respectful, both online and off
+- Be respectful, both online and off; push back, don't attack
 - Show your face (Webcam) at meetings / calls
 - Speak up! - everyone’s voice matters
 - Take care of yourself: we are flexible, but intentional in the way we work
