@@ -45,6 +45,7 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 - 89.21% of Community care searches do not include service type, 
 - Vet Centers have the greatest number of search refinements (2x average) but refinements to Benefit and Community care searches are also high. 
 - Average page load time in current Facility Locator = 4.01 sec
+
 **[Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/data-sources) and [Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/taxonomy)**
 - We've defined the full list of facility locators to be evaluated for consolidation into the current Facility Locator tool. 
 - We've gained an understanding of the Health Services Taxonomy, organized under 5 major categories of care: Primary Care, Mental Health, Specialty Care, Social Programs and Other. 
