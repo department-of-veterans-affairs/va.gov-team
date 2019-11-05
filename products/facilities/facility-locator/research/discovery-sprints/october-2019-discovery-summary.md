@@ -58,5 +58,8 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 - What is the acceptable data quality threshold for production?
 - Priorities after urgent and emergency care
 - Status of Mental health number? Discrepancy in status supplied by Jeff Dunn and Dave Mazik
+- Do we log "null searches" and if so, what is the rate of occrrence?
+- What should be considered a successful event?
+
 
 
