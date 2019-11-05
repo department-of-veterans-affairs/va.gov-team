@@ -16,10 +16,13 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 
 ### What was learned
 - We are still using vets-api
-Performance bottlenecks
+
+**Performance bottlenecks**
   - Kong
   - Community Care query process (uses vets-api for middleman with PPMS)
-- Data hierachy: class for each facility type with a field for type (type -> facility type -> classification)
+
+**Data hierachy**
+-Class for each facility type with a field for type (type -> facility type -> classification)
   - Example 1 VA_facility -> VA Health facility -> VAMC
   - Example 2 VA_facility -> VA Health facility -> Multi-specialty CBOC
 - Data is essentially the same structure between vets API and Facility API
@@ -29,7 +32,7 @@ Performance bottlenecks
 - Where is Kong hosted and who controls that process?
 - What is data hierarchy for community care (Justin) and what level should we pull to accurately represent the community care locations (Dave/Michelle)? 
 
-### Files and documents
+### [Files and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
 
 ## Design Discovery
 **Goal:** To conduct a round of evaluative usability testing of the current Facility Locator tool in order to 
@@ -38,7 +41,8 @@ Performance bottlenecks
 
 ### What was learned
 ### New questions
-### Files and documents
+
+### [Files and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/user-research)
 
 ## Product Discovery
 **Goal:** To investigate and document the current Facility Locator tool's  
