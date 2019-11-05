@@ -14,7 +14,7 @@
 
 ### Screenshots
 
-[See issue #17099](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17099#issuecomment-468023565).
+[See issue #17099](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17099#issuecomment-468023565) (__note: link points to vets.gov-team GitHub repo__).
 
 ## Questions
 
