@@ -15,7 +15,20 @@ _Sprint purpose: To build familiarity with the current product so the team has t
    - Back-end architecture, including data sources and any transformations or mappings of those data.
 
 ### What was learned
+- We are still using vets-api
+Performance bottlenecks
+  - Kong
+  - Community Care query process (uses vets-api for middleman with PPMS)
+- Data hierachy: class for each facility type with a field for type (type -> facility type -> classification)
+  - Example 1 VA_facility -> VA Health facility -> VAMC
+  - Example 2 VA_facility -> VA Health facility -> Multi-specialty CBOC
+- Data is essentially the same structure between vets API and Facility API
+- Community Care responses do not distinguish between POS 17 and POS 20 facilities (i.e urgent care and pharmacy), which is leading to different data between Facility Locator and the TriWest locator.
+  
 ### New questions
+- Where is Kong hosted and who controls that process?
+- What is data hierarchy for community care (Justin) and what level should we pull to accurately represent the community care locations (Dave/Michelle)? 
+
 ### Files and documents
 
 ## Design Discovery
@@ -50,16 +63,16 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 - We've defined the full list of facility locators to be evaluated for consolidation into the current Facility Locator tool. 
 - We've gained an understanding of the Health Services Taxonomy, organized under 5 major categories of care: Primary Care, Mental Health, Specialty Care, Social Programs and Other. 
 - We've leatrned the mapping for the VA Specialty/Service/Programs to 1) patient friendly language, which will be useful in determining how to display the services and 2) stop codes which will be useful in determining which locations provide the services.
+- There are data discrepancies between facilities returned by searches in the legacy directory and current Facility Locator. 
 
 **Priorities**
 - Now that we've assumed responsibility for urgent and emergency care issues and enhanvcements, the work has become a top priority. 
 
 ### New questions
 - What is the acceptable data quality threshold for production?
-- Priorities after urgent and emergency care
-- Status of Mental health number? Discrepancy in status supplied by Jeff Dunn and Dave Mazik
 - Do we log "null searches" and if so, what is the rate of occrrence?
 - What should be considered a successful event?
+- What is the root cause for data discrepancies between facility directory (legacy) and Facility Locator (current)? 
 
 
 
