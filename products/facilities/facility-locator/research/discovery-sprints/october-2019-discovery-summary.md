@@ -34,10 +34,26 @@ _Sprint purpose: To build familiarity with the current product so the team has t
    - Google Analytics reports on the tool's current usage.
 
 ### What was learned
+**[Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/analytics-baseline.md)**
+- Between July 10, 2019 - October 10, 2019, the current Facility Locator had 766,468 unique users, 48.6% were new visitors. 
+- Work to surface information to search engines will be important
+  - 25% of users arrive directly
+- Reaching the Facility Detail page may not be the true measure of success
+  - Viewed by 21.6% of users in current Facility Locator 
+  - Viewed by 31% in legacy Facility Directory 
+- 46% of users search for "All", 32% of users search "Health" 
+- 89.21% of Community care searches do not include service type, 
+- Vet Centers have the greatest number of search refinements (2x average) but refinements to Benefit and Community care searches are also high. 
+- Average page load time in current Facility Locator = 4.01 sec
+**[Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/data-sources) and [Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/taxonomy)**
+- We've defined the full list of facility locators to be evaluated for consolidation into the current Facility Locator tool. 
+- We've gained an understanding of the Health Services Taxonomy, organized under 5 major categories of care: Primary Care, Mental Health, Specialty Care, Social Programs and Other. 
+- We've leatrned the mapping for the VA Specialty/Service/Programs to 1) patient friendly language, which will be useful in determining how to display the services and 2) stop codes which will be useful in determining which locations provide the services.
+**Priorities**
+- Through the transition of the responsibility for urgent and emergency care, top priorities were known. 
+ 
 ### New questions
-- Google analytics on https://www.va.gov/directory/guide/home.asp
-- Where will data live? Drupal or...
-- What is data quality? Completeness/accuracy?
-- Where does the data come from for the subcategories of Benefits, Cemeteries
+- What is the acceptable data quality threshold for production?
+- Priorities after urgent and emergency care
 
-### Files and documents
+
