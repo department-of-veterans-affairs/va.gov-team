@@ -57,5 +57,6 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 ### New questions
 - What is the acceptable data quality threshold for production?
 - Priorities after urgent and emergency care
+- Status of Mental health number? Discrepancy in status supplied by Jeff Dunn and Dave Mazik
 
 
