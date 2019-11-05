@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # On-call Process
 
 ## Quicklinks
