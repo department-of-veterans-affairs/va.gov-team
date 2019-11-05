@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Triage
 ### Communication channels
 - DSVA Slack channels: [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
