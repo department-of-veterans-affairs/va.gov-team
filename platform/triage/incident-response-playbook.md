@@ -116,5 +116,5 @@ A postmortem should be written to accompany any page or service level
 interruption. See [Postmortems](/Postmortems) for more details and a template.
 
 [#oncall]: https://dsva.slack.com/messages/oncall/
-[issues]: https://github.com/department-of-veterans-affairs/vets.gov-team/issues/new
+[issues]: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new
 [external-integrations]: https://github.com/department-of-veterans-affairs/devops/tree/master/docs/External%20Service%20Integrations
