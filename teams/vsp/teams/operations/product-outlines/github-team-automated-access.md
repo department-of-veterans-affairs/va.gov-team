@@ -55,6 +55,9 @@ Users are manually added to GitHub and Slack already. For GitHub, a user must be
 ### Rollback Plan
 - During the rollout we will be maintaining the previous version of access management via Ansible groups, so that we can switch back in case there are any issues.
 
+### Possible KPIs
+- TBD
+
 # The Solution
 - Set GitHub at the center of user management by using GitHub teams for role/access management, where team changes trigger an external service to provide both AWS IAM users and SSH keys for SOCKS.
 
