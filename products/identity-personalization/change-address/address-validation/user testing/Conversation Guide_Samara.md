@@ -59,7 +59,7 @@ Now we are on the VA.gov profile.
 
 (Address validation section)
 
-1. Now we are looking at a screen that says "Your address update isn't valid." What do you think this screen is trying to communicate to you?
+1. Now we are looking at a screen that says "Your address update isn't valid." What do you think this means?
 2. Why do you think you are being told your address isn't valid?
 3. What do you think will happen if you click Edit Address?
 4. What do you think "Suggested Addresses" are? Where did they come from?
@@ -77,37 +77,63 @@ OK, please save your new address.
 
 Alright, I have a few follow-up questions for you:
 
-1. 
+1. What could be improved about the process of updating your address?
+- Do you have any questions about the address updating process we just looked at?
+2. What did you find to be clear and easy to understand?
 
+## Second Task: Address validation with override but without suggestions (5 minutes)
 
-## Second Task: Address validation with override but without suggestions
+Alright, now we are going to go through a similar process like we just went through, but it will be a little bit different this time.
 
-Flow. From profile:
+First, please go to update your mailing address again. (In modal after they click Edit) Like before, please click into any field to update your address, and then save it.
 
-- Edit address again
-- Update address
-- Validation screen without suggestions
-- Confirm
-- Back on profile
+(On confirm screen)
 
-## Third Task: Address validation without override but with suggestions
+1. It looks like this address came up as invalid again, but this screen looks a little different than the last one. What do you. Can you tell me more about what you see and what's different than last time?
+2. Why do you think there are no suggested addresses?
+3. Tell me what you think your options are at this point.
+4. What would you do next?
 
-Flow. From profile:
+OK, please save your address. (On confirm screen) OK, please save your address.
 
-- Edit address again
-- Update address
-- Validation screen without override but with suggestions
-- Confirm
-- Back on profile
+## Third Task: Address validation without override but with suggestions (5 minutes)
 
-## Fourth Task: Address validation without override but with NO suggestions
+Again, now we are going to go through a similar process like we just went through. We've got two more scenarios we are going to look at.
 
-Flow. From profile:
+Like before, please go to update your mailing address again. (In modal after they click Edit) and click into any field to update your address, and then save it.
 
-- Edit address again
-- Update address
-- Validation screen without override/suggestions
-- Back on profile
+(On confirm screen)
+
+1. Like before, the address you entered has came up as invalid, but this screen looks a little different than the last two we looked at. Can you tell me more about what you see and what's different than last time?
+2. Why do you think you can't choose the address you originally entered?
+3. What would you do if the address you entered was indeed correct but you were not able to save it?
+4. Tell me what you think your options are at this point.
+5. What would you do next?
+
+OK, please save your address. (On confirm screen) OK, please save your address.
+
+## Fourth Task: Address validation without override but with NO suggestions (5 minutes)
+
+We are going to go through one more scenario. Like before, please go to update your mailing address again. (In modal after they click Edit) and click into any field to update your address, and then save it.
+
+(On confirm screen)
+
+1. Like before, the address you entered has came up as invalid, but this screen looks a little different than the rest. Can you tell me more about what you see and what's different than last time?
+2. Why do you think you can't choose the address you originally entered?
+3. What would you do if the address you entered was indeed correct but you were not able to save it?
+4. Tell me what you think your options are at this point.
+5. What would you do next?
+
+OK, please go to edit your address. (on Edit form) Click into any field to update the address, and show me how you would save it.
+
+## Post-testing questions
+
+OK, those are all the screens we are going to look at today.
+
+1. Overall, how could we improve what we looked at today?
+- (If they need clarification — "the process of telling people their addresses aren't valid and the process of suggesting alternatives")
+2. What did you think was clear/what worked well?
+3. What questions do you have for me?
 
 ## Thank-You and Closing (1 minute)
 
