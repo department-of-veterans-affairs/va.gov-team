@@ -1,3 +1,5 @@
+__Please note: many links in this document point to documents in the vets.gov-team repo.__
+
 # Planning — 10/9/2019
 
 ## Project progression
