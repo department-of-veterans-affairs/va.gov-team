@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Product list for 508 testing
 This list is the current record of 508 issues in the `va.gov-team` repo. It will be updated weekly for accuracy. Please refer to the deprecated list for [previously closed issues](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Accessibility/508officeReviewList.md).
 
