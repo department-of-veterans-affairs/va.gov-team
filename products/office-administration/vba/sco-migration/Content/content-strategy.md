@@ -45,9 +45,7 @@ Future functionality: Once the School Resources page is migrated into Drupal, th
   - Resources to support students
 
 - Within each spoke 
-  - Content and links are placed within accordions.
-  - _ _Explain the rhyme or reason for when links are categorized beneath a sub-heading and when they are not_ _
-  - Hyperlinks are either a) blue, underlined and unbold or b) blue, bold, not underlined with a chevron. 
+  - Content and links appear within each accordion.
 
 *Training and guides spoke*
 - The Essentials for School Certifying Officials accordion is designed to contain links that SCOs acccess frequently and resources that new SCO need as they begin the onboarding process.
