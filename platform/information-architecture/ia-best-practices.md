@@ -1,4 +1,4 @@
-###Best Practices for IA on VA.gov
+# Best Practices for IA on VA.gov
 
 **Keep organizational structure as flat as possible** <br>
 A flat content structure, or hierarchy, makes content easier to discover by exposing it earlier in the experience - in other words, it  reduces the number of clicks to drill down to detail content.  
@@ -23,6 +23,7 @@ There are many tools and methods for gaining user insights and feedback both bef
 - Site analytics
 - SEO
 - User flows
+
 
 <!-- Not ready to communicate XML sitemap standards
 **Use the XML Sitemap to improve SEO**
