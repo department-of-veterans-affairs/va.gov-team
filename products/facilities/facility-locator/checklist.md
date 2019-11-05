@@ -90,7 +90,7 @@ _Do we need to merge the FE and BE tasks?_
   - [ ] Define or reference a known resource
 - [ ] For PRs: first review internally with FE or another engineer before the FE Team
   - [ ] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
-  - [ ] Ensure that feature flags are set appropriately to be toggled
+  - [ ] Ensure that [feature flags](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) are set appropriately to be [toggled](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/feature-toggles.md) 
   - [ ] Entrance pages (i.e. supporting static content) in place
 ### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews
@@ -99,7 +99,7 @@ _Do we need to merge the FE and BE tasks?_
 - [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-preliminary-ato-review)
 - [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-pre-launch-ato-review)
 ### QA
-- [ ] [Documentaion](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform 
+- [ ] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform 
 
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
