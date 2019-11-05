@@ -126,7 +126,7 @@ We are going to go through one more scenario. Like before, please go to update y
 
 OK, please go to edit your address. (on Edit form) Click into any field to update the address, and show me how you would save it.
 
-## Post-testing questions
+## Post-testing questions (2 minutes)
 
 OK, those are all the screens we are going to look at today.
 
