@@ -1,35 +1,50 @@
-# [Team Name] Charter
+# VSP Analytics & Insights Charter
 
 ---
 
 ## Why we're here
 
 ### North Star:
-_Lorem ipsum_
+Number of Va.gov teams using KPIs every quarter to re-articulate strategies and re-develop hypotheses.
 
 ### Product Suite (if applicable): 
-_i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
+
+Analytics
 
 ### Team Mission Statement:
-_Lorem ipsum_
+Champion a data-driven culture across the VA by providing VFS teams with resources that incentivize user-centered decisions and product improvements to optimize Veterans’ online access to benefits.
 
 ### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+
+- "Product Health" Tool
+- Google Tag Manager
+- VFS KPI Processes
+
+Metrics relating to VA.gov:
+- Google Analytics
+- Foresee
+- Call Centers
+- Social Studios
 
 ### Responsibilities:
-_High level problem space and user goals for this team_
+Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.
 
 ### Roadmap:
-_Link to agile roadmap_
+[Link to Github Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=analytics-insights,super-epic&repos=133843125)
 
 ---
 
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_
-- Team Product Manager: _person’s name_
-- _Additional Team Role_: _person’s name_
+- DSVA Product Lead: _Leah Bannon & Patrick Bateman_
+- Team Product Manager: _Joanne Esteban_
+- Insights Lead: _Nedie Recel_
+- Implementation Specialist: _Jon Wehausen_
+- Designer/UX Researcher: _Amy Cesal_
+- Front End Engineer: _Nicola Beuscher_
+- DSVA Contact Center Product Lead: _Chante Lantos-Swett_
+- Contact Center Lead: _Kimberley Daniels_
 
 ---
 
@@ -40,30 +55,29 @@ _Link to agile roadmap_
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ _time_
-- 15 min
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- Zoom M, T, W, F @ 10:00am ET
+    - 15 min
+- Slack Up Th @ 10:00am ET
+- 3 Question Format: What did I accomplish yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint @ 10:30am ET
 - 1 hour
-- _any other notes you have_
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint @ 10:00am ET
 - 30 min
-- _any other notes you have_
 
 #### Grooming
 Assess and update workload for remainder of sprint
 
-- 2nd Thursday of every sprint
+- 2nd Wednesday of every sprint @ 10:00am ET
 - 1 hour
-- _any other notes you have_
+- assess ideas for upcoming sprint
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
@@ -71,22 +85,21 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: _your team's labels_
+- Labels: _Analytics-Insights_
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
-All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
+All work should be validated as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
 #### Team Norms
 
-_Update as you see fit! These are some starter norms for you to consider_
-
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls
 - Speak up! - everyone’s voice matters
-- We are flexible, but intentional in the way we work
+- Take care of yourself: we are flexible, but intentional in the way we work
+- Stay present: pay attention to yourself and others
 - Let’s have fun and do great work!
 
 #### Slack:
