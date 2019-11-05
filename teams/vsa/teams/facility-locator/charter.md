@@ -96,13 +96,13 @@ And some logistics:
 
 Role-Related Knowledge / Best Practices
 
-Engineering: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering
+[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 
 DevOps: https://drive.google.com/drive/u/1/folders/1Jyolzp_e1J1GmNGtfdN0YkMyTY8Vhsay
 
-Design: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Design
+[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 
-Product: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Product%20Management
+[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
 
 Labels: 
 - vsa-devops
