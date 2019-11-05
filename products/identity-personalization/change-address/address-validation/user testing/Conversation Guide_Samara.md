@@ -35,10 +35,8 @@ OK, now I am going to turn on the recording.
 4. Since receiving benefits from the VA, was there ever a time when you were not receiving mail you expected to receive from the VA? Did you ever find out why you weren't receiving this mail?
 - If yes, figure out if this was because they had the wrong address on file.
 - If applicable, ask how they figured out they needed to update their address with the VA. 
-5. On a scale from 0 – 5, where 0 is not at all important and 5 is extremely important, how important do you think it is to keep your home and mailing address up to date with the VA?
-- Did you know that the VA having the correct address on file for you could affect whether you receive VA correspondence, and it could potentially affect your benefits?
 - Depending on the answer here, ask them about how we could better help them to keep their address up to date.
-6. Have you ever signed in to VA.gov before? (If yes) About how often do you use the website?
+5. Have you ever signed in to VA.gov before? (If yes) About how often do you use the website?
 
 ## First Task: Address validation with override and suggestions (10 minutes)
 
