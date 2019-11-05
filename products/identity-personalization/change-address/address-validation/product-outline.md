@@ -17,7 +17,8 @@
 |Amen Ra | FE Engineer| ara@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-|Amy Rosenthal|            |Amy.Rosenthal@va.gov  |
+|Amy Rosenthal| Technical Analyst|Amy.Rosenthal@va.gov  |
+|Christine Donovan| OIT PM |  Christine.Donovan@va.gov |
 
 ---
 
