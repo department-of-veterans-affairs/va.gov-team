@@ -4,7 +4,6 @@ This document will help all teams working on VA.gov understand when you should e
 All teams building on the Veteran Services Platform should follow VA.gov IA best practices and guidelines and work with an IA resource to ensure all content is easily findable and we maintain a consistent navigation experience across the site. 
 
 - [What does an IA do for VSP?](#whatdoesIAdo)
-- [Best practices for IA on VA.gov](#bestpractices)
 - [When to request IA support](#whentorequest)
 - [How to request IA support](#howtorequest)
 - [Questions/How to contact us](#questions)
@@ -14,17 +13,16 @@ All teams building on the Veteran Services Platform should follow VA.gov IA best
 
 **There are 2 primary focus areas of IA on VSP**
 1. **Site IA** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. We also ensure proper redirects and/or vanity URLs are in place as the structure evolves. 
+
 2. **Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
 
 **When can IA help?**
 - Launching a new content page (or several) on VA.gov
 - Launching a new tool on VA.gov
-- Rewriting content and need to merge or remove an existing content
+- Rewriting content and need to split or merge existing content pages
 - Looking to improve findability of an existing page or tool
 - Taking down a content page and/or tool
 - Changing the UX of navigational elements (i.e. top nav, left nav, breadcrumbs)
-- Redesigning or launching new core templates (i.e. hub pages, facility pages, office pages, etc)
-
 
 ## <a id="whentorequest"></a>When to request IA resources
 It is beneficial to engage IA resources as early as possible when you begin work on a page, product or tool and collaborate throughout your project, as many things can impact and evolve IA and navigation.  Involving an IA resource earlier in your project will help avoid structural changes down the line. 
