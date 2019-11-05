@@ -121,4 +121,4 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
   *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 
 - Read-Out/Results
   - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20History.md
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
