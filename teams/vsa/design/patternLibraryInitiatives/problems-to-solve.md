@@ -23,3 +23,5 @@
 
 - guidance for spacing of interactive items, such as lists of links
   - Interaction best practices recommend spacing interactive items sufficiently to help people, including those with mobility considerations, from accidentally selecting the wrong item (recovering from mistakes can be quite a hurdle for many)
+
+- guidance for required vs optional form controls
