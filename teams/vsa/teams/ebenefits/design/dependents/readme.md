@@ -1,3 +1,5 @@
+__Please note: some links in this file point to the vets.gov-team repo.__
+
 # eBenefits Dependents
 More content to be added.
 
