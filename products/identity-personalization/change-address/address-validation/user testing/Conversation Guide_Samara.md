@@ -1,6 +1,6 @@
 # Conversation Guide: Address validation
 
-### [Prototype]()
+### [Prototype](https://vsateams.invisionapp.com/share/34UP5BMUAJF#/391945409_1-_Intro_Screen)
 
 ### Project-specific setup
 
@@ -40,17 +40,45 @@ OK, now I am going to turn on the recording.
 - Depending on the answer here, ask them about how we could better help them to keep their address up to date.
 6. Have you ever signed in to VA.gov before? (If yes) About how often do you use the website?
 
-## First Task: Address validation with override and suggestions
+## First Task: Address validation with override and suggestions (10 minutes)
 
-Flow:
+Alright, now I am going to share keyboard and mouse controls and we are going to walk through the prototype.
 
-- Homepage
-- Get to profile
-- Edit address
-- Update address
-- Address validation screen
-- Confirm
-- Back on the profile
+(Intro screen) First, I just want to reiterate that this is a prototype... OK, when you're ready, please click "Go to the Prototype."
+
+We are starting from the VA.gov homepage.
+
+1. What would you do if you needed to change the address the VA had on file for you?
+
+(Once they make it to the profile) 
+
+Now we are on the VA.gov profile.
+
+1. How would you change your mailing address?
+2. (On the Edit form) Since this is a prototype, we are going to simulate typing in a new address by having you click into any of the fields in this form. That will update the whole address. (On the updated form) OK, now you have entered a new address. How would you save it?
+
+(Address validation section)
+
+1. Now we are looking at a screen that says "Your address update isn't valid." What do you think this screen is trying to communicate to you?
+2. Why do you think you are being told your address isn't valid?
+3. What do you think will happen if you click Edit Address?
+4. What do you think "Suggested Addresses" are? Where did they come from?
+5. Under "Suggested Addresses," why are some parts of the address highlighted blue?
+6. How would you select the address you want to move forward with?
+- What if you wanted to select the original address you entered?
+7. Now that you have selected your address, please show me how you would save it.
+
+(On Confirm screen)
+
+1. Why do you think you are being shown this screen?
+2. What do you think will happen if you click "View Suggested Addreses." Why do you think we give you the option to view suggested addresses?
+
+OK, please save your new address.
+
+Alright, I have a few follow-up questions for you:
+
+1. 
+
 
 ## Second Task: Address validation with override but without suggestions
 
