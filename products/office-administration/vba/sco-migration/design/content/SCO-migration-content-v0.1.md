@@ -1,6 +1,6 @@
 # Resources for Schools
 
-Breadcrumb: [Home](https://www.va.gov/) > [Education](https://www.va.gov/education/) >  Resources for schools
+Breadcrumb: [Home](https://www.va.gov/) > School administrators
 
 ## Page Title: Resources for schools {H1}
 
@@ -49,6 +49,7 @@ Required if your school has 20 or more GI Bill students.
 
 ### VA-ONCE information {accordion}
 
+**[Launch VA-ONCE >](https://vaonce.vba.va.gov/vaonce_student/default.asp)**     
 Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.
 
 **[VA-ONCE quick reference guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)   
