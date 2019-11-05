@@ -54,3 +54,9 @@ There were topics we could not cover during this intial discovery session. The f
 - topic
 - topic
 
+## Resources
+
+- Research Plan
+- Conversation Guide
+- Session Schedule & Information
+- Session Transcripts
