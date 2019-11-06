@@ -32,6 +32,9 @@ This is a high-level summary of the current goals and tasks in the current Sprin
   - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393
   - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976
 
+### 3. Stretch Goal: View Dependents (that are on my Compensation Award) Functionality
+- Frame the View Dependents function per existing mockups in staging
+
 ## **Sprint 7 (10/23 – 11/5)**  
 ```diff 
 - 52 points over 19 issues
