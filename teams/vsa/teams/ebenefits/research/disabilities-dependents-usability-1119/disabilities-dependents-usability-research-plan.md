@@ -84,7 +84,7 @@ The target for research session is the week of November 18, 2019. Preparation in
 #### Test Session
 - Wednesday, November 13, 2019
 
-#### Availability
+#### eBenefits Team Availability
 (Session times subject to Participants' availability)
 - Monday 11/18 
 - Tuesday 11/19 
