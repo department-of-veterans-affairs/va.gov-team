@@ -79,17 +79,22 @@ Participants will be recruited via Perigean. The study will require 10 Veterans 
 - Sessions will run approximately 30 minutes
 
 ### Timeline
-The target for research session is the week of November 18, 2019. Preparation includes participant recruitment, refining prototypes, writing the conversation guide, and a dry run test session. This plan and the companion Conversation Guide will be finalized by November 12. Target date for the test session is November 13.
+The target for research session is the week of November 18, 2019. Preparation includes participant recruitment, refining prototypes, writing the conversation guide, and a dry run test session. Target date for the test session is November 13.
 
 #### Test Session
 - Wednesday, November 13, 2019
 
-#### Availability the Week of November 18 (All times are EST)
-- Monday 11/18 Times TBD
-- Tuesday 11/19 Times TBD
-- Wednesday 11/20 Times TBD
-- Thursday 11/21 Times TBD
-- Friday 11/22 Times TBD
+#### Availability
+(Session times subject to Participants' availability)
+- Monday 11/18 
+- Tuesday 11/19 
+- Wednesday 11/20 
+- Thursday 11/21 
+- Friday 11/22 
+- Monday 11/25
+- Tuesday 11/26
+
+
 
 ### Team Member Roles
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
@@ -104,17 +109,17 @@ The target for research session is the week of November 18, 2019. Preparation in
 
 - [Project Brief for Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/profile-rated-disabilities.md)
 
-- [Conversation Guide]()
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-convo-guide.md)
 
 - [Rated Disabilities Prototype](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/)
 
 - [View Dependents Prototype](https://xd.adobe.com/view/852342af-36f7-41b6-7e04-29c9ca8b210e-f312/)
 
-- [Session Notes]()
+- [Session Notes]() Not yet available.
 
-- [Research Synthesis]()
+- [Research Synthesis]() Not yet available.
 
-- [Research Readout]()
+- [Research Readout]() Not yet available.
 
 #### This plan is pending review and approval.
 [_Back to top_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#research-plan-for-ebenefits-rated-disabilities--view-dependents-usability-testing-november-2019)
