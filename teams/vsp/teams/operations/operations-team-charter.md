@@ -2,9 +2,6 @@
 
 
 ---
-
-## Why we're here
-
 ## Why we're here
 
 ### VSP North Star:
