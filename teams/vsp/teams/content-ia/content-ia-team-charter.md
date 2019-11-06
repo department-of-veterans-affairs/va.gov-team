@@ -90,7 +90,7 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-- TBD
+TBD
 
 #### Slack:
 
