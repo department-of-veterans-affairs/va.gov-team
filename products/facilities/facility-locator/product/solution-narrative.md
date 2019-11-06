@@ -1,7 +1,8 @@
 # Facility Locator: Solution Narrative
 
 ## Technical Decisions
-- Date: summary of any big changes and why
+**Mapbox**
+- November 6, 2019: Per Nancy Smith (Oddball), We have been switched to the annual license version of Mapbox and have paid for an entire year, effective October 1, approved by DSVA. 
 
 ## Product Decisions
 **Facility Locator is considered part of the unauthenicated experience.**
