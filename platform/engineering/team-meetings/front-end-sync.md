@@ -1,6 +1,7 @@
 # 20191106 - Wed 
 
 ## Agenda
+- Product insights tool approach (Nicola) 
 
 ## Notes
 
