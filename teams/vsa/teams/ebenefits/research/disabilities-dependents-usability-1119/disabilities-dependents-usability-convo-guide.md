@@ -4,6 +4,7 @@
 - Slack #feedback-backchannel will be used for real-time feedback from observers
 - Attendee/Observer instructions, including instructions for #feedback-backchannel, will be sent out ahead of the sessions
 - Sessions will be conducted remotely, setup will be tested 15 minutes prior to call-time
+- [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md)
 
 ### Priorities
 While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback. The next priority is covering all, or most, of the Rated Disabilities screen. This page is in development, and has fully-designed screen layouts and alternate states. Much of the general feedback about the details of screen design and information display will be germane to all "tools page" layouts, and therefore View Disabilites as well.
@@ -43,19 +44,19 @@ What you see is a prototype--it's not a functioning website, it's mostly a non-w
 You mentioned you'd try to find your VA disability rating by: (cite how participant responded). For the purpose of our session, we're going to skip straight to what you would see if you might have searched Google or the VA.gov site itself.
 - Imagine you've searched for "Disability Rating" and come to this page; what do should do next?
 - If you' didn't want to log in, but you had questions, what could you do to get answers? Are these acceptable options?
-- From what you see on this page, can you tell if you can go on the next step? If someone who's not eligible went ahead and logged in, what would you expect them to see?
+- If you wanted to see your individual Disability Rating(s), what could you do on this page?
 - If you didn't want to log in just yet, what would you look at next? Is there a section or link for that?
 #### Disability Rating Screen
-- Now you've logged in; can you tell what the purpose of this page is? Can you tell whose information is displayed?
+- Now you've logged in; what the main purpose of this page is? Describe what's going on here. Whose information is displayed?
 - What is the total combined rating displayed? Is this number more or less important that the individual ratings?
 - How do you feel about how the individual disability ratings are shown? Is the information OK? Would you add or remove anything?
-- From what you see, which individual disabilities are serivce-connected?
+- What does service-connected mean? And how is that different from non-service-connected? From what you see, which individual disabilities are serivce-connected? 
 - Can you see anything about how the VA determines this rating? What more would you like to know, if anything?
 - If you felt this information was wrong, do you see any way to follow-up and address the problem?
 - If you had a recent claim or appeal, what, if anything, does this page let you do?
 - Now that you've logged-in and seen the disability rating, what would you expect to do next? Do you see anything on-screen that would let you do that?
 - How would you return to the page you logged-in from?
-#### Error States
+#### Error States (If time permits.)
 Let's go back to the screen you logged-in from. (Click breadcrumb link to advance)
 If you would, click the green sign-in again. (User clicks to advance to Error 1)
 - Seeing this screen, what do you think happened? What would you do next?
@@ -67,7 +68,7 @@ We have one more like this one. Back to the sign-in to click the green button. (
 - If you see this page, what do you think happened, and what would you do next? 
 
 The final screen is a bit different. Back to the sign-in to click the green button. (Click breadcrumb link to advance, the user clicks to advance to Error 4)
-- If you see this when you sign-in, what is this page showing? If you felt something was wronge here, what would you do?
+- If you see this when you sign-in, what is this page showing? If you felt something was wrong here, what would you do?
 
 ## View Dependents
 We're going to move on to the next set of screens--these are the last group. We'll cover a few of things we did in the last set; i's OK if you have different ideas about what you see with these.
