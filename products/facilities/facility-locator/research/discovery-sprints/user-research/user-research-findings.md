@@ -50,9 +50,9 @@ There was a usability study conducted in June 2019 that included finding urgent 
 ## Additional Research
 There were topics we could not cover during this intial discovery session. The following are topics that still need to be  investigated.
 
-- topic
-- topic
-- topic
+- Mission Act knowledge
+- Urgent Care eligibility 
+- Map usage
 
 ## Resources
 
