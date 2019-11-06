@@ -1,10 +1,14 @@
+# 20191106 - Wed 
+
+## Agenda
+
+## Notes
+
 # 20191022 - Wed 
 
 ## Agenda
 - Introduce Dan
 - Discuss reorg + HCA app 
-
-## Notes
 
 # 20191009 - Wed
 
