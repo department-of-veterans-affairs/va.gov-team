@@ -16,15 +16,13 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 
 ### Product Portfolio:
 
-- "Product Health" Tool
-- Google Tag Manager
-- VFS KPI Processes
-
-Metrics relating to VA.gov:
-- Google Analytics
-- Foresee
-- Call Centers
-- Social Studios
+| **Products**               | **Metrics Suite**                                                                                          |
+|------------------------|--------------------------------------------------------------------------------------------------------|
+| "Product Health" Tool  | Google Analytics                                                                                       |
+| Google Tag Manager     | Foresee                                                                                                |
+| Google Analytics       | Call Centers - IRIS - National Call Center - Health Resource Center - WHVAH - Education Hotline - IRIS |
+| Foresee                | Social Studios                                                                                         |
+|                        | PA&I                                                                                                   |
 
 ### Responsibilities:
 Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.
