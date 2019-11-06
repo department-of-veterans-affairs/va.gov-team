@@ -8,11 +8,13 @@ Transcripts and notes can all be found in the [Facility Locator Discovery Resear
 
 ## Summary
 We found XX high-level trends regarding Veteran objective when using the tool and overall usability of the tool.
-1. #### Finding
-2. #### Finding
-3. #### Finding
-4. #### Finding
-5. #### Finding
+
+1. **Veterans search by a specific service and by distance when choosing a location to visit.** Description WIP
+2.**Veterans need consistent information between online and physical locations** and are skeptical of information presented on VA.gov
+3. **The map is useful when it is interactive** and when it shows landmarks relative to VA locations
+4. **There is a need for multiple entry points to the Facility Locator tool.** Description TBD
+5. **There is a need to see some location information at a higher level.** The location specific page is helpful when preparing a visit but 
+6. **Separate workflows and acccess to location information creates confusion when trying to find a VA location.** Veterans have a general understanding of the difference between Urgent and Emergency care, but
 
 ## Recommendations
 
