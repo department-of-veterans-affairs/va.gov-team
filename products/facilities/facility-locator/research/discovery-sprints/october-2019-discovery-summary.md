@@ -16,6 +16,7 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 
 ### What was learned
 - We are still using vets-api
+- Known usability issues are divided between those which can be addressed beginning the next sprint and those which are related to map feature. Mapbox is due for an upgrade which is blocked by a pending price structure change. 
 
 **Performance bottlenecks**
   - Kong
@@ -34,7 +35,7 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 
 ### [Files and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
 
-## Design Discovery
+## Design Discovery (WIP)
 **Goal:** To conduct a round of evaluative usability testing of the current Facility Locator tool in order to 
    - Understand bright spots and pain points 
    - Gain insights into how users expect the tool to work (e.g., search by facility name, search by services, search by task, etc.)
