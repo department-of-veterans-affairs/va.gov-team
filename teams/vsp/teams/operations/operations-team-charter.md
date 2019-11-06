@@ -1,4 +1,4 @@
-# Draft Operations Team Charter
+# Operations Team Charter
 
 
 ---
