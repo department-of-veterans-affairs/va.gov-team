@@ -75,11 +75,7 @@ See: [Accessibility Best Practices](https://github.com/department-of-veterans-af
 ## 2. Application Design
 
 ### Design Principles and Patterns
-
-VA.gov is a single page application written in React.
-VA.gov mostly interfaces with vets-api, a Ruby on Rails application that serves JSON.
-VA.gov adheres to the strictest of REST standards. 
-... ???
+Coming Soon
 
 ### Conceptual Perspective
 
@@ -101,9 +97,7 @@ The veteran facing application on VA.gov does not interface with any VAMF servic
 
 ### Logical Perspective
 
-A simplified workflow diagram would look like:
-
-(Veteran Facing Application -> VA.gov API) AKA VA.gov -> VAMF API Gateway (including UserService, Appointments, etc.)
+<img>
 
 ### User Service
 
@@ -172,6 +166,9 @@ Messaging is facilitated through a distinct controller nested as a resource unde
 
 #### Member Actions
 Messaging does not have any member actions.
+
+### Scheduling Preferences
+
 
 ### VA Scheduling Eligibility
 Various controllers and nested controller that return collections of "constants" to determine when and where a veteran can schedule appointments
