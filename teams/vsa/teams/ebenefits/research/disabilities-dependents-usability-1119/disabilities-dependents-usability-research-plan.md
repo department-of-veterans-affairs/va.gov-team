@@ -113,13 +113,13 @@ The target for research session is the week of November 18, 2019. Preparation in
 
 - [Rated Disabilities Prototype](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/)
 
-- [View Dependents Prototype](https://xd.adobe.com/view/852342af-36f7-41b6-7e04-29c9ca8b210e-f312/)
+- [View Dependents Prototype](https://xd.adobe.com/view/852342af-36f7-41b6-7e04-29c9ca8b210e-f312/) (Undergoing revision.)
 
-- [Session Notes]() Not yet available.
+- [Session Notes]() (Not yet available.)
 
-- [Research Synthesis]() Not yet available.
+- [Research Synthesis]() (Not yet available.)
 
-- [Research Readout]() Not yet available.
+- [Research Readout]() (Not yet available.)
 
 #### This plan is pending review and approval.
 [_Back to top_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#research-plan-for-ebenefits-rated-disabilities--view-dependents-usability-testing-november-2019)
