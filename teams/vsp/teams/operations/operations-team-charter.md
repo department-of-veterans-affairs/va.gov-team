@@ -5,6 +5,11 @@
 
 ## Why we're here
 
+## Why we're here
+
+### VSP North Star:
+Enable VA to build digital tools at scale that improve Veterans’ lives.
+
 ### Team Mission Statement:
 Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
@@ -30,7 +35,7 @@ Provide reliable infrastructure, secure access controls, and CI/CD tooling to al
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Roadmap:
-_Link to agile roadmap_
+[Zenhub Super Epics](https://github.com/department-of-veterans-affairs/va.gov-team/pull/3082#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=operations,super-epic&repos=133843125,48004036,194202180,31788863)
 
 ---
 
