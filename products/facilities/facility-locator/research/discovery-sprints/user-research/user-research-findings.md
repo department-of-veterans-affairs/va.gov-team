@@ -22,9 +22,9 @@ We found XX high-level trends regarding Veteran objective when using the tool an
 
 ## Themes & Quotes
 
-## Impact of Research
+### Teams/Products Impacted
+This is a living document of teams we should collaborate with by feature: TBD.
 
-### Teams/Products
 - Homepage (four white boxes) 
 - Schedule Appointment Tool
 - Logged-in experience
