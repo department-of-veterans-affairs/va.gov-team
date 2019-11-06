@@ -74,6 +74,8 @@ See: [Accessibility Best Practices](https://github.com/department-of-veterans-af
 
 ## 2. Application Design
 
+![Architectural Diagram](vaos_architecture.png)
+
 ### Design Principles and Patterns
 Coming Soon
 
@@ -96,8 +98,6 @@ The veteran facing application on VA.gov does not interface with any VAMF servic
 1. Google Analytics - FE analytics
 
 ### Logical Perspective
-
-![Architectural Diagram](vaos-r_VAOS-R_Direct_Detailed_MVP.png)
 
 ### User Service
 
