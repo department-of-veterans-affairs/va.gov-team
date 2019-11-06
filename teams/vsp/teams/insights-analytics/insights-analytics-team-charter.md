@@ -9,7 +9,7 @@ Number of Va.gov teams using KPIs every quarter to re-articulate strategies and 
 
 ### Product Suite (if applicable): 
 
-Analytics
+Platform
 
 ### Team Mission Statement:
 Champion a data-driven culture across the VA by providing VFS teams with resources that incentivize user-centered decisions and product improvements to optimize Veterans’ online access to benefits.
