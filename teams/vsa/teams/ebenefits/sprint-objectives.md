@@ -23,7 +23,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Review the launch checklist and make sure the feature meets all requirements
   - Note that we will not be turning off any functionality in EBN or doing any comms around this feature.
 
-### 2. Continue discovery on "Update Dependents"
+### 2. Continue discovery on "Dependents"
 - Document in Github every aspect of Dependents workflows on EBN
 - Schedule usability study on Dependents (Conversation Guide, Research Plan, Perigean, etc)
 - Design: establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
