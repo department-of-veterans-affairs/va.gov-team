@@ -11,11 +11,7 @@ Enable VA to build digital tools at scale that improve Veterans’ lives.
 Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
 ### Product Suite: 
-- CI/CD 
-- AWS 
-- Access Management 
-- Infrastructure 
-- Environment Connectivity
+- Platform 
 
 ### Product Portfolio:
 |Product|Tool/Sub-Features|
