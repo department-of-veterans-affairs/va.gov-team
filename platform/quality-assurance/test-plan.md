@@ -11,7 +11,8 @@
 Describe what is being tested, such as all the functions of a specific product, its existing interfaces, integration of all functions.
 
 ### Risk Analysis
-A table of stories that are not testable for various reasons (environment, time, resources, or device availability).  
+A table of stories that are not testable for various reasons (environment, time, resources, or device availability).
+
 | Story Reference | Limitation | Risk | Impact |  
 | --- | --- | --- | --- |  
 | GH #1111 | Unable to process payment with credit card due to lack of test facilities for payment processing | Final payment processing may not function as expected | Legitimate payments could fail to process in production and create a need for an emergency fix / downtime |
