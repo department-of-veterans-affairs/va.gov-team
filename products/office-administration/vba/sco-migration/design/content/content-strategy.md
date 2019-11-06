@@ -34,7 +34,8 @@ The new School Resources Page (https://tbd) is based on the VA.gov Hub page temp
 - These announcements are also displayed on the Breaking News page. 
 - Announcements may include links to resources that reside in their permanent location.
 - To ensure proper display, announcements should be capped at ## characters.
-
+- As the date if the announcement is captured separately, there is no need to include it in the announcement title.
+- Announcements related to events or webinars will now appear in the Conferences and events area.
 
 **Spokes:**
 - Spokes are a sub-grouping of pages/links/accordions.   
