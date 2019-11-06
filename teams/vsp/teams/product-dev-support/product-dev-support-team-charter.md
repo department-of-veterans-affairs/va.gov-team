@@ -29,7 +29,7 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 
 ### Team Members:
 - Team Product Manager: Andrea Hewitt, Andrea.hewitt@oddball.io, Slack: @AndreaHewitt
-- Front-end engineer: Bill Tran, bill@oddball.io, Slack: Bill John Tran
+- Front-end engineer: Dan Shank, Dan.Shank@oddball.io, Slack: Dan Shank
 - Web Accessibility: Trevor Pierce, trevor@adhocteam.us, Slack: Trevor Pierce
 - QA Specialist: Peter Hill, trevor@adhocteam.us, Slack: Peter Hill
 - Back-end Engineer: John Paul Ashenfelter, johnpaul.ashenfelter@oddball.io, Slack: John Paul Ashenfelter
