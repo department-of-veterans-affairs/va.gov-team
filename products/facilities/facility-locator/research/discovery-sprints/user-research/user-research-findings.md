@@ -54,6 +54,8 @@ There were topics we could not cover during this intial discovery session. The f
 - Urgent Care eligibility 
 - Map usage
 
+## Community Care Research
+
 ## Resources
 
 - Research Plan
