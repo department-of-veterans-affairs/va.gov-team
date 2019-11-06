@@ -22,14 +22,10 @@ We found XX high-level trends regarding Veteran objective when using the tool an
 
 ## Themes & Quotes
 
-### Teams/Products Impacted
-This is a living document of teams we should collaborate with by feature: TBD.
 
-- Homepage (four white boxes) 
-- Schedule Appointment Tool
-- Logged-in experience
+## Additional Research
 
-## Urgent Care Research
+### Urgent Care Research
 There was a usability study conducted in June 2019 that included finding urgent care locations. It can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md)
 
 #### Findings from the Urgent Care research matched findings from this study including:
@@ -49,14 +45,22 @@ There was a usability study conducted in June 2019 that included finding urgent 
 - Moving “Find a VA Location” closer to “Search” and/or “Contact Us”
 - Removing the location finder link from the navigation, and integrating it into the existing “Search” drop down similarly to how it has been integrated into the “Contact Us” drop down.
 
+### Community Care Research
+
+### Teams/Products Impacted
+This is a living document of teams we should collaborate with by feature: TBD.
+
+- Homepage (four white boxes) 
+- Schedule Appointment Tool
+- Logged-in experience
+
+
 ## Additional Research
 There were topics we could not cover during this intial discovery session. The following are topics that still need to be  investigated.
 
 - Mission Act knowledge
 - Urgent Care eligibility 
 - Map usage
-
-## Community Care Research
 
 ## Resources
 
