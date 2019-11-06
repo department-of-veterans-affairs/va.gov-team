@@ -254,6 +254,12 @@ Note: tools and technologies used are all approved for use on the Veteran Facing
 [Existing Var Resources SDD](https://wiki.mobilehealth.va.gov/pages/viewpage.action?spaceKey=ARA&title=VA+Online+Scheduling+%28VAOS%29+VAR-Web+Application+4.18.x+SDD#VAOnlineScheduling(VAOS)VAR-WebApplication4.18.xSDD-4.TechnologyStackandServiceDependencies)
 
 ## Developer and Program Manager Contact Information
+|**Title** | **Name**  | **Point of Contact (VA Email)** | **Phone Number** | 
+|---|:---:|:---:|---|
+|**Tech Lead**|Stephen Barrs|stephen.barrs@va.gov|727.295.6998|
+|**PM**|Eric Hopkins|eric.hopkins@va.gov|801.232.7059|
+|**Business Owner**|Dr. Kathy Frisbee|kathleen.frisbee@va.gov|
+|**CC Business Owner**|Dr. Leo Greenstone|clinton.greenstone@va.gov|
 
 
 
