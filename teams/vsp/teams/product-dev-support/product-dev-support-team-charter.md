@@ -5,7 +5,7 @@
 ## Why we're here
 
 ### Product Suite (if applicable): 
-Onboarding, long-term support of VFS teams
+Platform
 
 ### Team Mission Statement:
 Provide expert design, engineering, and product guidance to VFS teams to ensure their applications are consistent, reliable, and maintainable as well as embody the culture of human-centeredness. 
