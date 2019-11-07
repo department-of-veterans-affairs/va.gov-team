@@ -14,8 +14,7 @@ Enable Veterans, their dependents, and caregivers to easily discover, apply for,
 (look into this statement, this is very broad)
 
 ### **Product Portfolio**
-  *TBD
-  -- add link to each product with in the master Product page-- 
+  [Medical Device Tool] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
   [Products Master page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Responsibilities**
