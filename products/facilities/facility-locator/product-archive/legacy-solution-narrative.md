@@ -13,8 +13,8 @@ Creating this file to house legacy decisions found in closed issues and archived
 - 2- Search timed out
 > The timed out message was revised to add a reminder that the user can still search for community urgent care facilities and to go to the ER if it's an emergency, aligning with a desire to give the user a possible path forward.
 
-## Regarding Facility types
-- In this issue, a Homesless Center was identified in Facility Locator as a VA Clinic. As documented in [16749](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16749), "VA Clinic" is what these types of facilities are named by VA policy, even though it's very confusing to users and the 'solution' will likely be an update to FL where we provide more information about the type of facility it is (beyond just "VA Health", which is insufficient).
+## Regarding Homeless Center as VA Clinic
+- In this issue, a Homeless Center was identified in Facility Locator as a VA Clinic. As documented in [16749](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16749), "VA Clinic" is what these types of facilities are named by VA policy, even though it's very confusing to users and the 'solution' will likely be an update to FL where we provide more information about the type of facility it is (beyond just "VA Health", which is insufficient).
 
 ## Link to Legacy Directory for "other tools"
 - Epic [13647](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13647) "Allow users to access the old VA.gov Locations tools from the new VA.gov Facility Locator"
@@ -22,7 +22,7 @@ Creating this file to house legacy decisions found in closed issues and archived
 ## Data caching
 [11661](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11661): Don't allow data to be purged if the results from arcGIS are empty. 
 
-## [State Cemeteries: 10687](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/10687)
+## State Cemeteries [10687](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/10687)
 
 > From data poc: We are currently adding state cemeteries to NCA’s GIS. Just last week we began reconciling the list of state and tribal cemeteries being maintained by VACO (OEI) with our GIS. The intent was to use internally but see the need for this outside NCA. It appears from the discussion below state cemeteries maintain their data separately and may update it as needed. We noticed some address differences in the VACO list and what is published on the web. In many cases it looks like the cities/counties/states just built more roads so the addresses changed slightly. We are still trying to work these out before committing the records in GIS.
 
