@@ -20,7 +20,7 @@ Help Veterans, their dependents and caregivers get the benefits they've earned b
 Define the landscape of features to be worked on, optimize and migrate as necessary, and collaborate with other teams where there is overlap.  
 
 ### **Roadmap**
-![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/ebenefits-roadmap-sept2019.JPG)
+![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/ebenefits-roadmap-Nov-2019.jpg)
 [Overall Priorities](priorities.md)
 
 ### Team Members
