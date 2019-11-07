@@ -37,7 +37,7 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 - Displays un-expired announcements  
 - These announcements are also displayed on the Breaking News page. 
 - Announcements may include links to resources that reside in their permanent location.
-- To ensure proper display, announcements should be capped at 120 characters.
+- To ensure proper display, announcement titles should be capped at 120 characters.
 - As the date of the announcement is captured separately, there is no need to include it in the announcement title.
 - Announcements related to events or webinars will now appear in the Conferences and events area.
 -	The link to “See past updates…” displays the Breaking News page where users can the full text of current and past announcements. 
