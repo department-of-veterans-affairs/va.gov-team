@@ -22,9 +22,9 @@ assignees: 1Copenut, jenstrickland
 
 ## Checkpoint Stage
 
-[ ] **Design-Development Intent Checkpoint** (Review design to discuss approach to take with development, identify what components and semantic HTML would be appropriate, identify any accessibility issues and how to address)
+[ ] **Design-Development Intent Checkpoint** (Review design to discuss approach to take with development, identify what components and semantic HTML would be appropriate, identify any accessibility issues and how to address) - This would happen as designs are passed to development, before development begins.
 
-[ ] **Spot Check Review Checkpoint** (Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md))
+[ ] **Spot Check Review Checkpoint** (Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)) - This happens well before launch, so that the 508 office can review and any issues addressed *before* launch.
 
 If your project is code stable in Staging, [request a Pre-Launch 508 Reivew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md).
 
