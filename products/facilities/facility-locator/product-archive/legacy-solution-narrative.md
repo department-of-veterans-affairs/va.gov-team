@@ -20,8 +20,13 @@ Creating this file to house legacy decisions found in closed issues and archived
 - Epic [13647](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13647) "Allow users to access the old VA.gov Locations tools from the new VA.gov Facility Locator"
 
 ## Data caching
-[11661](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11661)
-- Don't allow data to be purged if the results from arcGIS are empty. 
+[11661](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11661): Don't allow data to be purged if the results from arcGIS are empty. 
+
+## [State Cemeteries: 10687](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/10687)
+
+> From data poc: We are currently adding state cemeteries to NCA’s GIS. Just last week we began reconciling the list of state and tribal cemeteries being maintained by VACO (OEI) with our GIS. The intent was to use internally but see the need for this outside NCA. It appears from the discussion below state cemeteries maintain their data separately and may update it as needed. We noticed some address differences in the VACO list and what is published on the web. In many cases it looks like the cities/counties/states just built more roads so the addresses changed slightly. We are still trying to work these out before committing the records in GIS.
+
+> While we can use the state cemetery points for Vets.gov (will be added to our Enterprise GIS and can be pulled the same as our NCA maintained sites) do we want to show data we don’t maintain? The point locations will never change, but addresses, hours, phone #’s might and don’t think there are any policies in place to update VA. Additionally, we won’t have all of the site information requested in the past (business hours, visitation hours, etc.). If all this can be obtained in a table format we can join and update GIS, but we don’t have the resources to compile/verify it.
 
 
 
