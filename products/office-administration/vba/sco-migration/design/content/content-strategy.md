@@ -3,7 +3,7 @@
 
 ### Overview
 
-The new School Resources Page (https://tbd) is based on the VA.gov Hub page template and follows the VA.gov content style guide.
+The new School Resources Page (http://www.va.gov/school-administrators) is based on the VA.gov Hub page template and follows the VA.gov content style guide.
 
 **Page Template:**
 - Hub Page Template: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
@@ -18,13 +18,13 @@ The new School Resources Page (https://tbd) is based on the VA.gov Hub page temp
 ### Components
 
 **Page Title:**
-- Name of the area. Each area includes a unique icon that represents the benefit.  
+- Name of the area.   
 
 **Intro Text:**  
 - A brief description of content on the page.
 
 **On This Page:**  
-- Contains jump links to each of the spokes. 
+- Contains jump links to each section of content. 
 
 **Critical Callout:**  
 - Future functionality: Once the School Resources page is migrated into Drupal, the Critical Callout element could be leveraged as needed.  The Critical Callout only appears when a critical message needs to be communicated to the hub's audience.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. Futher discussions with DSVA will be needed before this element is leveraged.
