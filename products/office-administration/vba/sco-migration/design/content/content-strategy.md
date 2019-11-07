@@ -62,7 +62,7 @@ This spoke is comprised of resources related to training that SCOs, both new and
 - The VA-ONCE accordion is designed to contain all resources related to VA-ONCE.
 - The Payments and debt accordion is designed to contain a resources related to payments and debt.
 
-*Upcoming events spoke*
+*Upcoming events spoke*  
 The Upcoming Events spoke is comprised of upcoming conferences, events, and training webinars. 
 - Displays all upcoming events, including webinars.
 - To ensure proper display, event names should be capped at 156 characters.
@@ -72,12 +72,12 @@ The Upcoming Events spoke is comprised of upcoming conferences, events, and trai
 - Includes a link to the Conferences and events page.
 - Includes a link to the Training webinars page.
 
-*Policies and procedures spoke*
+*Policies and procedures spoke*  
 This section contains inforamtion related to policies, legislation, GI Bill benefits and programs.
 - The GI Bill Program Approval Process accordion contains procedural information on how to obtain GI Bill approval for programs.
 - The GI Bill Benefits and programs accordion contains information on the various GI Bills benefits and programs.
 
-*Resources to support students spoke*
+*Resources to support students spoke*  
 This area contains links to additional resources that School Administrators can use to support their military-connected students. The resources may be VA resources or resources offered by va-endorsed organizations or nonprofits.
 - See "Crosslinking" below.
 
