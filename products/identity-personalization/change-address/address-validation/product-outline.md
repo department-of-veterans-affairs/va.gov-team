@@ -100,10 +100,14 @@ Provide a simple and easy way to manage mailing address submissions to reduce th
 
 ## Status
 
+- The errors we're seeing are about 80% "account flagged" errors, which we won't be able to reduce.  Users have to call the help desk to unflag the account and are currently getting a message telling them take that action. t
+- There are also some "bad routing number" errors that are also likely just that, an incorrectly entered routing number. 
+- At the moment, the only one that might be erroneous would be the "bad home phone" errors. The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
+
 
 ## Solution Narrative
 
-- 
+- The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
 
 
 ## How to Access and Test
