@@ -29,19 +29,19 @@ This document will help all teams working in the VA.gov GitHub ecosystem underst
 
 ## <a id="#best-practices-for-documentation"></a>Best Practices for Documentation on va.gov-team
 
-###[Follow file naming conventions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#naming-conventions)
+[Follow file naming conventions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#naming-conventions)
 
 Adhering to the naming conventions outlined in the repo best practices document promotes a consistent experience, URL readability, and improved alphabetization within folders. It also ensures that documentation can be cloned easily or copied to other repos without errors.
 
-###[Keep organizational structures as flat as possible](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#create-folders)
+[Keep organizational structures as flat as possible](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#create-folders)
 
 A flat directory structure, or hierarchy, makes documentation easier to discover by reducing the number of clicks needed to access documentation. See guidance on when it’s appropriate to create child folders here. 
 
-###[Don’t upload large files via the web](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#large-files)
+[Don’t upload large files via the web](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#large-files)
 
 GitHub is optimized for creation and management of Markdown files; uploading other types of files via the web interface quickly consumes valuable storage space and degrades repo performance. VSP requires that large files be uploaded to the va.gov-team repository only via the Git Large File Storage extension. See more detail on how we define “large files” and how to use Git LFS here.
 
-###[Be mindful of sensitive information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#public-vs-private)
+[Be mindful of sensitive information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#public-vs-private)
 
 The va.gov-team repository is exposed to the public web. In accordance with information security best practices, VSP requires that content be scrubbed of personally identifiable information (PII) before being shared on this repo.  In some cases, content containing PII may be stored in the private va.gov-team-sensitive repo. Learn more about what constitutes PII and when to use the sensitive repo here.
 
