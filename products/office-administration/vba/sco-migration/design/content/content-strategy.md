@@ -45,7 +45,7 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 
 **Spokes:**
 - Spokes are a sub-grouping of pages/links/accordions.   
-- There should be no more than 4 spokes.
+- There should be no more than 3-4 spokes.
 - There should be a max of 6 accordions in each spoke.  
 - The spokes on the School Resources page are: 
   - Training & Guides
