@@ -1,22 +1,35 @@
-## Content Review process
+
+# Working with Content - Rules of Engagement (ROE)
+This document will help all teams working on VA.gov understand when you should engage Content resources for review and support.
 
 
-## When to request a content review
+- [When to request a content review](#whentorequest)
+- [What to expect in a content review](#whattoexpect)
+- [How to request a content review](#howtorequest)
 
-Content should be brought in as early as possible when you begin work on a product or tool. It's important to have a content person at a product kickoff meeting, so they are aware of the tool/form/page's use cases and audience. This will better inform the content review later on in the process.
+--------
 
-A content review should be requested at these times:  
+## <a id="whentorequest"></a>When to request a content review
 
-* **Before a user research session.** This is to ensure participants don't get distracted by misspellings and grammar errors, and that the content works with the tool functionality.  
-* **Before a page or prototype is share with a stakeholder or SME.** This is to ensure SMEs aren't distracted by misspelling and grammar errors, and that the content works with the tool functionality.
-* **Before a product launches.** Content review should be part of every product launch checklist. In some situations, several content reviews might need to happen before a product launch (for example, if there are multiple PRs that need reviewing or multiple changes that need to be checked).     
+Content should be brought in as early as possible when you begin work on a product or tool. 
 
-In addition, a content review can be requested any time a team thinks they could benefit from having an edit or review, outside of the three situations listed above.
+**At project kick-off** 
+- It is beneficial to engage content as early as possible in your work so we can gather background information, understand scope, audience, and timing. Having us involved early will better inform the content review later on in the process.
+
+**During discovery** 
+- Content can review discussion guides and prototypes. We can also attend research sessions to help us better understand how what areas your product might need extra content review or support.  
+
+**During design** 
+- If your project includes multiple content pages or complex content, please engage us as you begin to build out mockups and designs. 
+- Content will work closely with your design team to provide feedback on page flow and designs and prototypes.
+
+**During development** 
+- Content should also review a product once it's on staging. This allows us to do a full E2E content review and a final proofread to ensure content recommendations we provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.  
 
 
 -----
 
-## What to expect in a content review
+## <a id="whattoexpect"></a>What to expect in a content review
 
 The following is reviewed during a content review:
 
@@ -30,13 +43,13 @@ The following is reviewed during a content review:
 
 --------
 
-## How to request a content review 
+## <a id="howtorequest"></a>How to request a content review 
 
 Depending on the complexity and amount of content, content review will be completed **within 3 days**. More involved content reviews might take longer and due dates will be discussed at the time of request. 
 
 You can request a content review several ways. 
 
-A.  **If the content is short,** please @ mention peggygannon in the Zenhub issue or pull request in which the content appears. Please also add @peggygannon as a reviewer or assignee.  
+A.  **If the content is short,** please add @peggygannon as a reviewer or assignee in the Zenhub issue or pull request in which the content appears.
 
 B. **For more complex content reviews, e.g, E2E review of online applications, newly created pages, new tool launches,** please open a Zenhub issue in ```va.gov-team repo```. And, 
 1. Choose standard issue template.
@@ -56,7 +69,7 @@ User story example: *As a member of a team building with or on VSP, I need to my
        * link to the URL where the content appears on staging
 
 *	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear.
-*	Launch date. Date you're targeting to launch this tool/page/alert/screen.
+*	Launch date. Date you're targeting to launch your product.
 *	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?
 *	User research. Is there any specific information from user research to take into consideration when doing the content review?
 
@@ -69,7 +82,7 @@ Please also tag the issue with:
 -	Milestone (when do you want this completed?)
 -	Epic (what body of work is this a part of?)
 -	Team/Practice Area label  ( ```content``` or ```content-ia-team```)
-- Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
+- Label used by your team (for example, ```VAOS``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 -	Assign issue to @peggygannon
 
 4. Once the content review is complete:
