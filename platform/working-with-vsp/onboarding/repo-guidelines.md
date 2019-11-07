@@ -121,3 +121,5 @@ To ensure this repo provides clean and helpful documentation, a process for ongo
 
 ## <a id="questions"></a>Questions
 If you have any questions about using this repo, please don't hesitate to reach out to the VSP team through `#vfs-platform-support` or `#vsp-content-ia`. 
+
+To learn more about requesting Documentation support, please see our [Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-documentation.md#when-and-how-to-request-support).
