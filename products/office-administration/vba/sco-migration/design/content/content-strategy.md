@@ -29,6 +29,10 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 **Critical Callout:**  
 - Future functionality: Once the School Resources page is migrated into Drupal, the Critical Callout element could be leveraged as needed.  The Critical Callout only appears when a critical message needs to be communicated to the hub's audience.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. Futher discussions with DSVA will be needed before this element is leveraged.
 
+**Key Resources for SCOs**
+-	This section is comprised of the 5 most valuable resources for School Certifying Officials. 
+-	These are quick links that the officials can access right away as they come into the page due to their hierarchy.
+
 **Announcements**  
 - Displays un-expired announcements  
 - These announcements are also displayed on the Breaking News page. 
