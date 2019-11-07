@@ -1,7 +1,7 @@
 
 ## Resources for Schools Page
 
-### Potential Research Questions
+### Potential Learn & Improve Research Questions
 * Which additional education programs and benefits could we include within the GI BIll Benefits and Programs accordion? Which could be removed?
 * Would users benefit from continuing to optimize longer labels to improve how scannable they are?
 * How frequently are forms used? Freqently enough that "Forms" would be a useful addition to "Key Resources", rather than having it appear below the fold?
