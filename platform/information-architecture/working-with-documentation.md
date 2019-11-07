@@ -3,8 +3,8 @@
 This document will help all teams working in the VA.gov GitHub ecosystem understand when you should engage Documentation resources for support. All teams building on the Veteran Services Platform should follow the [va.gov-team repository Documentation best practices and guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md) and work with a Documentation resource as needed to help ensure the most complete, current, and relevant documentation is readily available to all teams (both present and future) who rely on it.
 
 - [What does Documentation do?](#what-does-documentation-do)
-- [Best practices for Documentation on va.gov-team](#best-practices-for-documentation)
-- [When and how to request Documentation support](#when-and-how-to-request-support)
+- [Best practices for Documentation](#best-practices-for-documentation)
+- [When and how to request support](#when-and-how-to-request-support)
 
 ## <a id="#what-does-documentation-do"></a>What does Documentation do?
 
@@ -27,7 +27,7 @@ This document will help all teams working in the VA.gov GitHub ecosystem underst
 - Manage documentation outside of VA.gov GitHub ecosystem
 - Author original documentation on behalf of VFS teams
 
-## <a id="#best-practices-for-documentation"></a>Best Practices for Documentation on va.gov-team
+## <a id="#best-practices-for-documentation"></a>Best Practices for Documentation
 
 ### [Follow file naming conventions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#naming-conventions)
 
@@ -45,7 +45,7 @@ GitHub is optimized for creation and management of Markdown files; uploading oth
 
 The va.gov-team repository is exposed to the public web. In accordance with information security best practices, VSP requires that content be scrubbed of personally identifiable information (PII) before being shared on this repo.  In some cases, content containing PII may be stored in the private va.gov-team-sensitive repo. Learn more about what constitutes PII and when to use the sensitive repo here.
 
-## <a id="#when-and-how-to-request-support"></a>When and how to request Documentation support
+## <a id="#when-and-how-to-request-support"></a>When and how to request support
 
 There are four required touchpoints between VFS teams and Documentation:
 
