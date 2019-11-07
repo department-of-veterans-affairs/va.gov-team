@@ -1,10 +1,10 @@
 _WIP_
-# VSA: Global UX Charter
+# VSA: Public Websites Charter
 
 ## VSA North Star:
 
 **Product Line:**
-Global unauthenticated experience team for VA.gov.
+Public Websites team for VA.gov.
 
 **Mission Statement:**
 Provides Veterans, family members, caregivers, service members and other

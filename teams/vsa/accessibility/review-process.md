@@ -68,7 +68,7 @@ There are two checkpoints
 
 There are two checkpoints:
 
-1. **Design-Development Intent Checkpoint** — [Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
+1. **Design-Development Intent Checkpoint** — [Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md) - This would happen as the design is passed to development, before beginning development.
 
     a. Review design with the VSP/VSA to discuss approach to take with development
 
@@ -88,7 +88,7 @@ There are two checkpoints:
   
         v. [VSA Audit Ticket Template (draft)](https://docs.google.com/document/d/1O6r5WSjpI2jDvgPkNNCCFmUYS8PJpUqf6nP55tEKISo/edit?ts=5db8af69#)
     
-2. **Pre-launch 508 Review Checkpoint**
+2. **Pre-launch 508 Review Checkpoint** - This would happen well before launch, to allow the 508 office time to review, and then address any issues uncovered.
 
     a. Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
     

@@ -12,7 +12,7 @@
 | Status | View Payment History | View my VA payments (for all integrated systems). |
 | Status | View Representative/ POA | View my current representative/ POA. |
 | Form | Add or Update Representative/ POA | (Form 21-22) I can search for a VSO, attorney, or agent, and add that person to my profile. |
-| Form | Order Medical Devices | I can order hearing aids, prosthetic socks, and other devices through the DALC. |
+| Form | Order Medical Devices | I can order hearing aids, prosthetic socks, and other devices through the DALC. **Currently in progress in BaM-2** |
 | Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate their VA Home Loan benefit and apply for a Certificate of Eligibility. |
 | Login | User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
 | Status | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
