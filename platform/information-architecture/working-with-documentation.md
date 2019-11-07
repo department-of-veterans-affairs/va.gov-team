@@ -2,9 +2,9 @@
 
 This document will help all teams working in the VA.gov GitHub ecosystem understand when you should engage Documentation resources for support. All teams building on the Veteran Services Platform should follow the [va.gov-team repository Documentation best practices and guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md) and work with a Documentation resource as needed to help ensure the most complete, current, and relevant documentation is readily available to all teams (both present and future) who rely on it.
 
-[What does Documentation do?](#what-does-documentation-do)
-[Best practices for Documentation on va.gov-team](#best-practices-for-documentation)
-[When and how to request Documentation support](#when-and-how-to-request-support)
+- [What does Documentation do?](#what-does-documentation-do)
+- [Best practices for Documentation on va.gov-team](#best-practices-for-documentation)
+- [When and how to request Documentation support](#when-and-how-to-request-support)
 
 ## <a id="#what-does-documentation-do"></a>What does Documentation do?
 
