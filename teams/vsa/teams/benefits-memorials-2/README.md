@@ -28,7 +28,7 @@ TBD
 |DSVA Product Manager   |Matt Self                           |
 |DSVA Design Researcher |Kevin Hoffman                       |
 |Team Product Manager   |Nicolaus Wygonik                    |
-|Back End Engineer      |TBD                                 |
+|Back End Engineer      |Joseph Brothers                     |
 |Front End Engineer     |Brad Conley                         |
 |Front End Engineer     |Amen Ra                             |
 |Design Researcher      |Riley Orr                           |
