@@ -27,7 +27,7 @@ This document will help all teams working in the VA.gov GitHub ecosystem underst
 - Manage documentation outside of VA.gov GitHub ecosystem
 - Author original documentation on behalf of VFS teams
 
-##<a id="#best-practices-for-documentation"></a>Best Practices for Documentation on va.gov-team
+## <a id="#best-practices-for-documentation"></a>Best Practices for Documentation on va.gov-team
 
 ###[Follow file naming conventions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#naming-conventions)
 
@@ -45,7 +45,7 @@ GitHub is optimized for creation and management of Markdown files; uploading oth
 
 The va.gov-team repository is exposed to the public web. In accordance with information security best practices, VSP requires that content be scrubbed of personally identifiable information (PII) before being shared on this repo.  In some cases, content containing PII may be stored in the private va.gov-team-sensitive repo. Learn more about what constitutes PII and when to use the sensitive repo here.
 
-## <a id="#when-and-how-to-request-support"></a> When and how to request Documentation support
+## <a id="#when-and-how-to-request-support"></a>When and how to request Documentation support
 
 There are four required touchpoints between VFS teams and Documentation:
 
