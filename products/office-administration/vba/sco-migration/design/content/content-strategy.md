@@ -40,7 +40,7 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 - To ensure proper display, announcement titles should be capped at 120 characters.
 - As the date of the announcement is captured separately, there is no need to include it in the announcement title.
 - Announcements related to events or webinars will now appear in the Conferences and events area.
--	The link to “See past updates…” displays the Breaking News page where users can the full text of current and past announcements. 
+-	The link to “See past announcements…” displays the Breaking News page where users can the full text of current and past announcements. 
 -	Examples of announcements include: new versions of the School Certifying Official Handbook, recently revised forms, news related to legislation.
 
 **Spokes:**
@@ -56,7 +56,7 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 - Within each spoke 
   - Content and links appear within each accordion.
 
-*Training and guides spoke*
+*Training and guides spoke*  
 This spoke is comprised of resources related to training that SCOs, both new and experienced, can utilize. It includes 3 primary categories:
 - The Essentials for School Certifying Officials accordion is designed to contain links that SCOs acccess frequently and resources that new SCO need as they begin the onboarding process.
 - The VA-ONCE accordion is designed to contain all resources related to VA-ONCE.
