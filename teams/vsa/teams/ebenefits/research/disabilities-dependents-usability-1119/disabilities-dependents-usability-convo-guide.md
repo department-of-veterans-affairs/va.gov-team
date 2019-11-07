@@ -75,7 +75,7 @@ We're going to move on to the next set of screens--these are the last group. We'
 
 #### Landing Screen
 We talked a little about dependents and dependents benefits. We're going to say that you searched for dependent benefits and came to this screen. We're getting toward the end, so we won't talk much about this one.
-- You've searched for "Dependents Benefits" and come to this page; what do should do next?
+- You've searched for "Dependents Benefits" and come to this page; if you want to see the dependents the VA has for you, what would you do next?
 #### View Dependents Screen
 - Once you've logged in; can you tell what the purpose of this page is? And whose information is displayed?
 - How can you tell which dependents are on-award, and which are not?
