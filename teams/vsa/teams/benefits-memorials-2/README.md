@@ -6,16 +6,18 @@ This folder will house all of the necessary files for the Benefits & Memorials 2
 Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 ### **Product Line** 
-Benefits and Memorial Services 
-[Products Master page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+Benefits and Memorial Services
+
+[Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Mission Statement**
 Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
 (look into this statement, this is very broad)
 
 ### **Product Portfolio**
-  [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
-  [Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+[Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
+
+[Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Responsibilities**
 TBD
