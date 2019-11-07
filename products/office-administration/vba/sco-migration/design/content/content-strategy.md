@@ -38,8 +38,10 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 - These announcements are also displayed on the Breaking News page. 
 - Announcements may include links to resources that reside in their permanent location.
 - To ensure proper display, announcements should be capped at ## characters.
-- As the date if the announcement is captured separately, there is no need to include it in the announcement title.
+- As the date of the announcement is captured separately, there is no need to include it in the announcement title.
 - Announcements related to events or webinars will now appear in the Conferences and events area.
+-	The link to “See past updates…” displays the Breaking News page where users can the full text of current and past announcements. 
+-	Examples of announcements include: new versions of the School Certifying Official Handbook, recently revised forms, news related to legislation.
 
 **Spokes:**
 - Spokes are a sub-grouping of pages/links/accordions.   
@@ -55,22 +57,28 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
   - Content and links appear within each accordion.
 
 *Training and guides spoke*
+This spoke is comprised of resources related to training that SCOs, both new and experienced, can utilize. It includes 3 primary categories:
 - The Essentials for School Certifying Officials accordion is designed to contain links that SCOs acccess frequently and resources that new SCO need as they begin the onboarding process.
 - The VA-ONCE accordion is designed to contain all resources related to VA-ONCE.
 - The Payments and debt accordion is designed to contain a resources related to payments and debt.
 
 *Upcoming events spoke*
+The Upcoming Events spoke is comprised of upcoming conferences, events, and training webinars. 
 - Displays all upcoming events, including webinars.
 - To ensure proper display, event names should be capped at ## characters.
+- The date and location is listed beneath each event title. 
+-	Locations are regional (City, State) or can note if the event is online.
 - These events are also displayed on the Breaking News page. 
 - Includes a link to the Conferences and events page.
 - Includes a link to the Training webinars page.
 
 *Policies and procedures spoke*
-- The GI Bill Program Approval Process accordion contains information on how to obtain GI Bill approval for programs.
-- The GI Bill Benefits and programs accordion contains information on the various GI Bills.
+This section contains inforamtion related to policies, legislation, GI Bill benefits and programs.
+- The GI Bill Program Approval Process accordion contains procedural information on how to obtain GI Bill approval for programs.
+- The GI Bill Benefits and programs accordion contains information on the various GI Bills benefits and programs.
 
 *Resources to support students spoke*
+This area contains links to additional resources that School Administrators can use to support their military-connected students. The resources may be VA resources or resources offered by va-endorsed organizations or nonprofits.
 - See "Crosslinking" below.
 
 **Crosslinking:**
@@ -79,16 +87,15 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 - "Resources to support students" can become a spoke if more than 8 links need to be displayed.
 
 **Promo Spot:**  
-- Call-out to key content or service directly related to the hub.  
-- Same promo that is also displayed in the top nav.
-- Should not lead user off VA.gov
-- Must be SCO or School Administrator content
+- The Promo spot call-out is designed to promote key content or services directly related to the hub and it's users.  
+- Given the importance of the SCO Handbook, the promo spot will provide a link to the SCO Handbook.
 
 **Ask Questions:**
 - Includes links to FAQ for GI Bill and Submit a Question tools.
 
 **Average processing times:**
 - This callout contains time estimates that are updated on a frequent basis.  
+-	Includes a “Last Updated” date for processing times.
 
 **Connect with Us:**
 - Contains an email link for Find your Education Liason Representative (ELR)
