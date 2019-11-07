@@ -1,5 +1,7 @@
 # Facility Locator: Solution Narrative
 
+Please see also [Facility Locator Product Archive](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product-archive) for historical decisions that might be relevant. 
+
 ## Technical Decisions
 **Mapbox**
 - November 6, 2019: Per Nancy Smith (Oddball), We have been switched to the annual license version of Mapbox and have paid for an entire year, effective October 1, approved by DSVA. 
