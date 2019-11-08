@@ -5,12 +5,7 @@
 - GitHub Label: 
 - Slack channel: 
 - Product POCs:
-  - 
-  - 
-- Stakeholders:
-  - 
-  - 
-  - 
+- Stakeholders: 
 
 ## The Problem
  
