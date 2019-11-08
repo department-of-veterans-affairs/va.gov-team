@@ -14,15 +14,16 @@
 
 ## Important Links
 - [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
+- [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
 
 
 ## Team
 
 - DEPO Digital Strategist(s): Matthew Self
 - Product Manager: Nick Wygoink
-- Design Lead: 
-- Eng Lead: 
-- Engineers:
+- Design Lead: Shawna Hein
+- Eng Lead: Joe Costa
+- Engineers: Amen Ra, Joseph Brothers
 - Designers: Rebecca Walsh, Riley Orr
    
 ## Screenshots
