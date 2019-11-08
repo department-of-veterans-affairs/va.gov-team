@@ -35,12 +35,12 @@ _List of products within your team's perview - make sure the list of products he
 ## Who we are
 
 ### Team Members:
-- Lead Ops Engineer - Wyatt Walter
+- Primary Lead Ops Engineer - Wyatt Walter
 - Product Manager - TJ Rice
 - Ops Engineer - Taylor Skinner
-- Senior Ops Engineer- Nick Walke
-- Senior Ops Engineer - Nathan Hruby
-- Ops Engineer - Bennie Mosher
+- Lead Ops Engineer- Nick Walke
+- Lead Ops Engineer - Nathan Hruby
+- Senior Ops Engineer - Bennie Mosher
 - Ops Engineer - Jeremy Britt
 
 Other Member that contribute to our Team's mission
