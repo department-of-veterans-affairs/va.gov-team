@@ -10,7 +10,7 @@
 While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback. The next priority is covering all, or most, of the Rated Disabilities screen. This page is in development, and has fully-designed screen layouts and alternate states. Much of the general feedback about the details of screen design and information display will be germane to all "tools page" layouts, and therefore View Disabilites as well.
 
 ## Introduction
-Good morning/afternoon and thank you for joining us today. My name is Jim (the username on Zoom/GoTo may be different), and with me are a few collegues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus is the Disability Benefits sections.
+Good morning/afternoon and thank you for joining us today. My name is Jim, and with me are a few collegues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus is the Disability Benefits sections.
 
 I have a few things I need to mention before we start:
 - The session should take 30 to 45 minutes (confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may break-in to move us to the next item.
@@ -20,6 +20,7 @@ I have a few things I need to mention before we start:
 - Do you have any questions for me before we start?
 - With your permission, I will be recording this session. This will give a record to use for note-taking. The recording will be stored on a private drive and it will be deleted when we conclude our testing and note-taking. No personal identifying information will be transcribed.
 - Do I have your permission to record this session?
+- OK, now that I'm recording, do I have your permission to record this session?
 
 ## Warm-up
 - Would you tell me a little bit about yourself? Your service experience, where you live, general experiences with the VA...
@@ -95,4 +96,6 @@ Looks like we covered everything on my list. (ALT) Looks like we're at (time), s
 
 ## Closing
 Thank you so much for taking the time to talk with us! Your feedback is critical to or team's effort to improve Veterans' online experiences--and VA.gov in particular. Enjoy the rest of your day!
+
+#### This guide approved by Lauren Alexanderson 11/08/2019.
 
