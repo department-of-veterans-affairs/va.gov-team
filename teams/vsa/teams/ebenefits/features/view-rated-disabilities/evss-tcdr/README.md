@@ -1,4 +1,5 @@
-This is where we will describe our findings in gaining access and engaging with the Total Combined Disability Rating (`userPercentOfDisability`) via the `FindRatinfInfoPID` service in EVSS.
+# Accessing to the Total Combined Disability Rating in EVSS
+**This is where we will describe our findings in gaining access and engaging with the Total Combined Disability Rating (`userPercentOfDisability`) via the `FindRatinfInfoPID` service in EVSS.**
 
 The `findRatingInfoPID` service has been identified as the EVSS endpoint that will return the Total Combined Disability Rating and rated disabilities.
 
