@@ -1,4 +1,4 @@
-# Research Plan for eBenefits Rated Disabilities / View Dependents Usability Testing, November 2019  
+b# Research Plan for eBenefits Rated Disabilities / View Dependents Usability Testing, November 2019  
 
 **Background:** Rated Disabilities and View Dependents are slated to migrate from the eBenefits subdomain to VA.gov. These features (tools, screens) will undergo technical and UI redesign to conform to site IA and the VA.gov Design System (VADS). While the VADS is relatively complete regarding content presentation, the system is not set to easily accommodate tools or application functionality.
 
@@ -126,5 +126,5 @@ The target for research session is the week of November 18, 2019. Preparation in
 
 - [Research Readout]() (Not yet available.)
 
-#### This plan is pending review and approval.
+#### This plan approved by Lauren Alexanderson 11/9/2019.
 [_Back to top_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md#research-plan-for-ebenefits-rated-disabilities--view-dependents-usability-testing-november-2019)
