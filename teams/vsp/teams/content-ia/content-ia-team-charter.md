@@ -90,7 +90,13 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-TBD
+- Be respectful, both online and off
+- Show your face (Webcam) at meetings / calls
+- Speak up! - everyone’s voice matters
+- We are flexible, but intentional in the way we work
+- Overcommunication is key
+- Escalate the medium, not the tone
+- Let’s have fun and do great work!
 
 #### Slack:
 
