@@ -21,6 +21,7 @@ A VA.gov product is a tool or component of VA.gov that is directly interacted wi
 - [Health care](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care)
 - [Housing assistance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/housing)
 - [Life insurance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/life-insurance)
+- [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
 - [Pension](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension)
 - [VA payment history]()
 - [Veteran ID cards](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards)
