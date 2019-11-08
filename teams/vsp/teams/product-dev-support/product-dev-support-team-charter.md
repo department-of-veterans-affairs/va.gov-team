@@ -12,14 +12,11 @@ Provide expert design, engineering, and product guidance to VFS teams to ensure 
 
 
 ### Responsibilities:
-- Own + maintain VSP Service Blueprint overall
-- Prioritize areas of the blueprint that require iteration based on value and pain point analysis
-- Iterate on those pioritized areas, or collaborate to work into another team's sprint
-- Perform overarching VSP user research and work findings into implementation recommendations
-- Use other "listeners" (Slack, ZenHub, etc) to derive overall VSP insights and work findings into implementation recommendations
-- Iterate on VSP features/services based on research findings, or collaborate to work into another team's sprint
-- Establish and track overall VSP OKRs and KPIs, and report up to VSP Leadership
-- Given cross-VSP team view, identify opportunities for standardization
+- Own implementation of and iteration on the manual interaction points with VFS Teams from Service Blueprint
+- Understand Design, Research, Product, 508, QA, ATO, FE, BE best practices, ROEs, and processes for building on VA.gov
+- Support and guide VFS Team members through all of ^ and in doing so promote the VSP culture
+- Own and maintain Design System, Gatsby, and any GitHub documentation for the Product Support team member practice areas
+- Given cross-VFS team view, identify opportunities for VFS Team process standardization
 
 
 
