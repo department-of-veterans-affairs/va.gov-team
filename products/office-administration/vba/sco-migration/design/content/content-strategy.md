@@ -8,9 +8,6 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 **Page Template:**
 - Hub Page Template: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
 
-**Page Purpose:**
-- Serves as a key landing page. Provides content and links to help users understand what information is available in the section.  
-
 **VA.gov content style guide:**
 - The VA.gov content style guide (https://design.va.gov/content-style-guide/) helps to ensure that all content on VA.gov is written in the same voice.  
 - _[Describe the content approval process for EDU]_ 
