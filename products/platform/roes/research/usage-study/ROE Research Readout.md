@@ -27,7 +27,7 @@ Observation: People are reaching out to other team members to ask questions and 
 
 **To be an effective document, it will have to be tailored to each practice area and flexible enough to adapt to a variety of products being built.**
 
-##### Product Management
+#### Product Management
 
 Observation: Having a document that shows the intended process and explains the value of each step will help set expectations with the VA.
 
@@ -39,7 +39,7 @@ Observation: Having a document that shows the intended process and explains the 
 
 
 
-##### Engineering/QA
+#### Engineering/QA
 
 Observation: Getting new members environments setup as quickly as possible is critical to meeting deadlines. 
 
