@@ -22,7 +22,7 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 
 **On This Page:**  
 - This section contains jump links to the main sections of the School Resources page: 
-  - Training & Guides
+  - Training and guides
   - Upcoming events
   - Policies and procedures
   - Resources to support students
