@@ -21,7 +21,7 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 - A brief description of content on the page.
 
 **On This Page:**  
-- The On This Page section contains links to the main sections of the School Resources page are: 
+- This section contains jump links to the main sections of the School Resources page: 
   - Training & Guides
   - Upcoming events
   - Policies and procedures
