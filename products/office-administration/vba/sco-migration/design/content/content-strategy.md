@@ -5,7 +5,7 @@
 
 The new School Resources Page (http://www.va.gov/school-administrators) is based on the VA.gov Hub page template and follows the VA.gov content style guide.
 
-**Page Template:**
+**Page template:**
 - Hub Page Template: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
 
 **VA.gov content style guide:**
@@ -14,23 +14,23 @@ The new School Resources Page (http://www.va.gov/school-administrators) is based
 
 ### Components
 
-**Page Title:**
+**Page title:**
 - Name of the area.   
 
-**Intro Text:**  
+**Intro text:**  
 - A brief description of content on the page.
 
-**On This Page:**  
-- This section contains jump links to the main sections of the School Resources page: 
+**On this page:**  
+- This area contains jump links to the main sections of the School Resources page: 
   - Training and guides
   - Upcoming events
   - Policies and procedures
   - Resources to support students
 
-**Critical Callout:**  
+**Critical callout:**  
 - Future functionality: Once the School Resources page is migrated into Drupal, the Critical Callout element could be leveraged as needed.  The Critical Callout only appears when a critical message needs to be communicated to the hub's audience.  On Beneficiary-focused hub pages, the call is primarily used for homeless or mental health services. It is not used on all hubs. Futher discussions with DSVA will be needed before this element is leveraged.
 
-**Key Resources for SCOs**
+**Key resources for SCOs**
 -	This section is comprised of the 5 most valuable resources for School Certifying Officials. 
 -	These are quick links that the officials can access right away as they come into the page due to their hierarchy.
 - The links are: SCO Handbook, VA-ONCE, VA-ONCE Quick Reference Guide, WEAMS, Find Your ELR
@@ -76,22 +76,22 @@ This section contains links to additional resources that School Administrators c
 - The Promo spot call-out is designed to promote key content or services directly related to the hub and it's users.  
 - Given the importance of the SCO Handbook, the promo spot will provide a link to the SCO Handbook.
 
-**Ask Questions:**
+**Ask questions:**
 - Includes links to FAQ for GI Bill and Submit a Question tools.
 
 **Average processing times:**
 - This callout contains time estimates that are updated on a frequent basis.  
 -	Includes a “Last Updated” date for processing times.
 
-**Connect with Us:**
+**Connect with us:**
 - Contains an email link for Find your Education Liason Representative (ELR)
 - Contains an email link for VBA Support Team
 - Contains a link to VA Email updates
 - Contains contact information for the VA Education Call Center
 
-### Recommendations for the Future
+### Recommendations for the future
 
-**Potential Content**
+**Potential content**
 
 Based on conversations with SCOs, additional content that may helpful includes the following:
 - List of approved non-profits who assist beneficiaries
