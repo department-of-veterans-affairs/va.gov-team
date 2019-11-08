@@ -119,6 +119,10 @@ Provide a simple and easy way to manage mailing address submissions to reduce th
 
 ## Error Handling
 
+- [Address Validation sample txt files](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/sample-txt-files)
+
+Vet360 team and VA.gov team have determined to change the severity on address validation errors allowing more candidate address scenarios to pass through. 
+
 
 ## Service Level Objective
 
