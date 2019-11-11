@@ -24,6 +24,7 @@ There are a handful of key goals for VSP Sprint Objectives:
 - State an intended outcome and value proposition, not an individual task.
 - Format: _We will..._ `[Verb] _______ so that [intended  audience] can ________.`
 - They should usually be small enough that they won't stay the same every sprint for the next 3 sprints.
+- Link objectives to the epic or super epic they are a part of
 - Don't be _too_ ambitious in the volume and scope for the sprint, leave about 20% space for unexpected work or challenges.
 - Move any good ideas that you want to keep track of but won't be focusing on this sprint to your ZenHub backlog to evaluate in the future.
 
@@ -40,7 +41,7 @@ _Note: if your objectives map 1:1 to GitHub issues, that's an indicator that the
 
 ## How to update Sprint Objectives for the Report
 - Add a status symbol in front of each objective for your team
-- Link each objective to an artifact (ideal, even if it's WIP) or to a GH issue (if "artifact" doesn't make sense)
+- Add a link to an artifact (ideal, even if it's WIP) or to a GH issue (if "artifact" doesn't make sense) for each objective
 - For any objectives that you think might not be complete this sprint, in italics below it, describe why and what you've done about it (deprioritize and put in your backlog? continue next sprint? pivot to different approach? pass to another team?)
 
 ## Samples
