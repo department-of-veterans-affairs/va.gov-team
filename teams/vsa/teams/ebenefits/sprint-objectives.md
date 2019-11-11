@@ -11,9 +11,33 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ----
 
+## Sprint 8 (11/6 - 1/19)
+```diff 
+- 49 points over 16 issues
+```
+### 1. Prepare "View My Rated Disabilities" to be code complete
+- Obtain, test and implement TCDR endpoint
+- Test TCDR in frontend on staging
+- Schedule usability study on Rated Disabilities' new components (Conversation Guide, Research Plan, Perigean, etc)
+- Schedule final reviews required to launch (Content/IA {mockups}, 508 {staging}, Security {staging})
+- Review the launch checklist and make sure the feature meets all requirements
+  - Note that we will not be turning off any functionality in EBN or doing any comms around this feature.
+
+### 2. Continue discovery on "Dependents"
+- Document in Github every aspect of Dependents workflows on EBN
+- Schedule usability study on Dependents (Conversation Guide, Research Plan, Perigean, etc)
+- Design: establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
+- Eng: Investigate errors that are currently in staging for Dependents
+- Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates
+  - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393
+  - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976
+
+### 3. Stretch Goal: View Dependents (that are on my Compensation Award) Functionality
+- Frame the View Dependents function per existing mockups in staging
+
 ## **Sprint 7 (10/23 – 11/5)**  
 ```diff 
-- 47 points over 17 issues
+- 52 points over 19 issues
 ```
 ### 1. Prepare "View My Rated Disabilities" to be code complete
 - Gather and frame out remaining EVSS data components

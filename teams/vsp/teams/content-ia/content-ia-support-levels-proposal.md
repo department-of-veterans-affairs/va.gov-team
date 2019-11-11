@@ -20,8 +20,9 @@ _“Things VSP Content & IA will do”_
 - [IA] [CONTENT] [DOCUMENTATION] Keep best practices documentation up to date.
   - Provide recommendations on updates to design.va.gov.
 - [IA] [CONTENT] Collaborate with DSVA on evaluations and audits of content and information architecture in the VA.gov ecosystem, and provide recommendations for changes.
-- [IA] [CONTENT] [DOCUMENTATION] Provide opportunities for VFS and VSP team members to ask questions, gain expert knowledge, or access more informal and collaborative reviews (in the form of office hours, meetings, etc). 
+- [IA] [CONTENT] [DOCUMENTATION] Provide opportunities for VFS and VSP team members to ask questions, gain expert knowledge, or access more informal and collaborative reviews (in the form of meetings, content/IA/design syncs, etc). 
 - [IA] [DOCUMENTATION] Propose and build out folder structures and navigation within documentation site, based on user needs.
+- [IA] [CONTENT] Provide introductory SEO best practices documentation
 
 ## PREMIUM LEVELS OF SUPPORT
 
@@ -39,7 +40,7 @@ _“Things VSP Content & IA will not do”_
 
 - [CONTENT] Assume responsibility of process for content changes made by VA stakeholders in Drupal CMS.
 - [IA] Assume responsibility for making navigational changes within Drupal.
-- [IA] Provide comprehensive SEO recommendations or conduct SEO audits.
+- [IA] Provide expert SEO recommendations or conduct comprehensive SEO audits.
 - [CONTENT] Create original content for a design, prototype, product, or static page.
 - [IA] [CONTENT] Manage communication directly with VA stakeholders beyond VFS, VSP teams, and their DSVA counterparts.
 

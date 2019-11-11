@@ -43,6 +43,7 @@ Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=6,181,5
 
 ### Facility type search refinements
 Top metric observations from Dashboard July 10, 2019-October 10, 2019 (n=1,137,355 unique searches)
+
 | Facility type | % of search refinements (3.29% average for view) |
 | ---| ---| 
 | all| 3.47 %| 
@@ -101,11 +102,11 @@ Observations from Dashboard July 13, 2019-October 10, 2019
 
 | Page | # of views (%) | Content Description | 
 |---| ---| ---|
-| home.asp | 245,282 | Find Locations with search directory box |
-| searchresults.cfm | 60,500 | Desitination search results page from directory search box (includes roll-up of all sub-pages)  |
-| rpt_fac_list.cfm | 30,239 | Facility Listing Page (rolled up to include various sorts/filters) |
-| fac_list_by_state.cfm | 42,102 | Facility Listing by State (rolled up to include various sorts/filters) Note: I'm not sure how to get here yet or how it's different than state.asp|
-| state.asp | 382,527 | State-specific Pages (rolled up for each state) |
-| facility.asp | 415,549 | Facility-specific pages (rolled up) |
-| ptsd-related pages | 33,378 | includes ptsd.asp, ptsd program locations, and state_ptsd.cfm searches |
-| Substance Use Disorder (SUD) -related Pages | 19,046 | indludes sud.asp, state_sud.cfm?STATE |
+| home.asp | 245,282 (18%) | Find Locations with search directory box |
+| searchresults.cfm | 60,500 (4.4%) | Desitination search results page from directory search box (includes roll-up of all sub-pages)  |
+| rpt_fac_list.cfm | 30,239 (2.2%) | Facility Listing Page (rolled up to include various sorts/filters) |
+| fac_list_by_state.cfm | 42,102 (3.1%) | Facility Listing by State (rolled up to include various sorts/filters) Note: I'm not sure how to get here yet or how it's different than state.asp|
+| state.asp | 382,527 (28.2%) | State-specific Pages (rolled up for each state) |
+| facility.asp | 415,549 (30.6%) | Facility-specific pages (rolled up) |
+| ptsd-related pages | 33,378 (2.4%)| includes ptsd.asp, ptsd program locations, and state_ptsd.cfm searches |
+| Substance Use Disorder (SUD) -related Pages | 19,046 (1.4%) | indludes sud.asp, state_sud.cfm?STATE |

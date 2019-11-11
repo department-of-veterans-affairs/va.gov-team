@@ -1,6 +1,16 @@
 As of 10/25/2019:
-Original escalation process of reporting from IRIS and SalesForce to the VSp teams has proven to be more chanllenging than once thought.  A different approach is now being taken by the Call Center team.
+Original escalation process of reporting from IRIS and SalesForce to the VSP teams has proven to be more chanllenging than once thought.  A different approach is now being taken by the Call Center team.
 
+Meeting notes from WHVAH:
+- Rebecca stated that she was under the impression that there are more training materials for the agents.  If so, she would like for you to gather that information and send it over to her.
+- She believes that she and her team can manage the training aspect.  She stated that the training for us would take about an entire month with the way the call center is designed.  
+  * For example, having a limited number of agents that can be off of the floor for a limited amount of time.
+  * I emphasized that we are still willing and able to facilitate training.
+- She has stated that by March of 2020, they should be fully functional for the Salt Lake City location.
+- They are developing their FY20 roadmap which includes hiring 160 agents for the Salt Lake City location.
+- She is asking that we go back and review our requirements for development for the CRM.  She states that they have recently gotten some of their requested changes incorporated and should take place in November.
+- Rebecca is aware that she owes you due outs for business rules.  Currently they are outdated, so she needs to update before sending to you.
+- There is a Client Relations development call that she is going to have us added to.
 
 
 As of 10/10/2019:

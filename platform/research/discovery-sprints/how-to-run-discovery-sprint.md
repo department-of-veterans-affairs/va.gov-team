@@ -1,5 +1,5 @@
 # Vets.gov Discovery Sprint How-To (v.2)
-Adapted from the [USDS Discovery Sprint Playbook](https://github.com/usds/usds/tree/master/Research/Discovery-sprints).
+Adapted from the USDS Discovery Sprint Playbook.
 
 ## Contents
 + [Introduction](#introduction)
@@ -59,25 +59,25 @@ Ideally, team members should be dedicated **full time to the sprint for its enti
 
 #### Checklist:
 
-- [ ] Work with a VA.gov lead to make a copy of the [Discovery Project Brief & Planning Template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoveryProjectBrief.md) and fill out the Project Brief section.  
+- [ ] Work with a VA.gov lead to make a copy of the [Discovery Project Brief & Planning Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/discovery-project-brief.md) and fill out the Project Brief section.  
 - [ ] Work with the vets.gov research team to book dates for User Research on their calendar. 
 
 ### Discovery Sprint Planning
 
 In order to maximize efficiency during the sprint, the Discovery Team Lead should prepare for the sprint 1 to 2 weeks in advance. The  team should meet at least once before the sprint starts to meet each other and work out logistics. 
 
-See also: the [USDS sprint playbook](https://github.com/usds/usds/tree/master/Research/Discovery-sprints#sprint-logistics) which has a great list about how to prepare for a sprint.
+See also: the USDS sprint playbook which has a great list about how to prepare for a sprint.
 
 #### Checklist:
-- [ ] Complete the [Discovery Project Brief & Planning Template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoveryProjectBrief.md) that was started during pre-discovery to document goals, assumptions, methods, a more complete list of stakeholders, etc.
-- [ ] Have a Discovery Sprint Team kick-off meeting. See [Sample Discovery Team Kickoff meeting agenda](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/DiscoveryTeamKickOff.md).
+- [ ] Complete the [Discovery Project Brief & Planning Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/discovery-project-brief.md) that was started during pre-discovery to document goals, assumptions, methods, a more complete list of stakeholders, etc.
+- [ ] Have a Discovery Sprint Team kick-off meeting. See [Sample Discovery Team Kickoff meeting agenda](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/discovery-team-kickoff.md).
 - [ ] Send the Discovery Project Brief and Planning Document link to Kelly to approve the final list of stakeholders you will be reaching out to. Once OK’d, update the planning doc.
 - [ ] Send completed Discovery Project Brief and Planning Document link to Stacey for approval to start the sprint.
-- [ ] Paste a link to the completed Discovery Project Brief in your Planning issue tagged with [Research](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=research&repos=31788863&showPipelineDescriptions=false) and add any additional details on User Research dates, times, attendees, and participant criteria.
+- [ ] Paste a link to the completed Discovery Project Brief in your Planning issue tagged with [Research](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=research&repos=133843125) and add any additional details on User Research dates, times, attendees, and participant criteria.
 
 
 **Other Logistic tasks _as needed_:**
-* Checkout our [supplemental toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/supplemental-toolkit.md) for method ideas and consult the [Research Team](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/README.md) for help deciding what discovery activities best fit your project needs.
+* Consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/README.md) for help deciding what discovery activities best fit your project needs.
 * Clear team members schedules for the upcoming discovery sprint.
 * Schedule place for the team to co-work.
 * Schedule team meetings at the beginning of each day and at the end for debriefing and planning for the next day.
@@ -101,13 +101,13 @@ Example:
 - For prescription refills, we would conduct a 1-week discovery sprint
 - To develop content related to navigating the appeals process, we would likely conduct NO discovery sprint because our team has high compentency in that area.
 
-See also: [Sample Discovery Sprint Schedule](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/SampleDiscoverySprintSchedule.md).
+See also: [Sample Discovery Sprint Schedule](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/sample-discovery-sprint-schedule.md).
 
 #### Checklist:
 
-- [ ] Hold a stakeholder kickoff meeting. See also: [Working With Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/working-with-stakeholders.md) and [supplemental toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/supplemental-toolkit.md) for method ideas.
+- [ ] Hold a stakeholder kickoff meeting. See also: [Working With Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/working-with-stakeholders.md) for method ideas.
 - [ ] Conduct discovery activities.
-- [ ] Synthesize results. Checkout our [supplemental toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/supplemental-toolkit.md) for method ideas and consult the [Research Team](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/README.md) for help.
+- [ ] Synthesize results. Consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/README.md) for help.
 
 **Other Discovery tasks _as needed_:**
 - Get access to the system (and test access to verify it works)
@@ -131,10 +131,9 @@ Ideally occurs on the last day of the sprint or beginning of following week.
 
 #### Checklist:
 
-- [ ] Present [End of Discovery deck](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/Archive/End%20of%20Discovery%20Readout%20Template.pptx) to the Leads, and rest of product sprint team about work done, current state, potential concerns, areas for opportunity, findings, and recommendations/next steps.
-- [ ] Draft [Stakeholder deck](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/Archive/Master%20Stakeholder%20Deck%20Template.pptx) and send to the Leads (customize as needed).
-- [ ] Draft [Stakeholder Charter](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/Archive/DraftCharter.docx) for the next phase and send to Stacey, Kelly, and Leads.
-- [ ] Conduct a [discovery sprint retrospective](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/RetroHowTo.md) with the Discovery Sprint Team.
+- [ ] Present [End of Discovery deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/End%20of%20Discovery%20Readout%20Template.pptx) to the Leads, and rest of product sprint team about work done, current state, potential concerns, areas for opportunity, findings, and recommendations/next steps.
+- [ ] Draft [Stakeholder deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/Master%20Stakeholder%20Deck%20Template.pptx) and send to the Leads (customize as needed).
+- [ ] Conduct a [discovery sprint retrospective](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-retro.md) with the Discovery Sprint Team.
 - [ ] Request time on the vets.gov agenda for a 5 minute hightlights presentation where you can cover challenges, suprises, what was interesting,etc. 
 - [ ] Do end of project Github / documentation cleanup. Make sure all docs are in Github, issues are closed, and GitHub pages are well-organized.
 - [ ] With a lead, finalize the stakeholder deck and charter and determine when and who will present to stakeholders.

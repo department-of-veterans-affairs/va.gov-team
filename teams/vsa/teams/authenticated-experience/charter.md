@@ -1,5 +1,3 @@
-_[Note: this should be stored ultimately as .md in GitHub. Google Docs is just for easy collaboration and iteration]_
-
 # Authenticated Experience Team Charter
 
 ###  North Star
@@ -112,10 +110,10 @@ Extra time? Explore the "Ready" column in ZenHub.
 
 **Role-Related Knowledge / Best Practices**
 
-[Engineering](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering)
+[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 
-[Design](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Design)
+[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 
-[Product](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Product%20Management)
+[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
 
 

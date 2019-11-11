@@ -2,7 +2,7 @@ Copy and paste this document into your project's folder and fill it out!
 
 # Discovery Project Brief & Planning Template
 
-This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](DiscoverySprintHowTo.md) for details on the whole process.
+This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
 
 ## PROJECT BRIEF
 _To be filled out with a Vets.gov lead prior to starting discovery work._
@@ -17,7 +17,7 @@ What problem are we trying to solve? Why are we doing this? (focus on problems, 
 * Kudos / Rainbows / Core / Other
 
 ### Discovery Sprint Roles
-See also: Discovery Sprint How-to about [makeup of a discovery sprint team](DiscoverySprintHowTo.md#makeup-of-a-discovery-sprint-team).
+See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
 * Product Lead:
 * Discovery Sprint Lead:
@@ -42,7 +42,7 @@ Note: revise above sections as needed
 * What do we know?
 * What don't we know?
 * Are any of the above assumptions that need to be verified?
-* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](DiscoverySprintHowTo.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research).)
+* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
 * Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
 * What secondary research should we do (google, facebook, internal documents)?

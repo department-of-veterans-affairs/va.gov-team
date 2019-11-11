@@ -6,13 +6,13 @@
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice Areas/Research/Research Process and Templates/observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
+*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
 
 *In the Attendees section, make sure everyone except the participant is on mute*
 
 *In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
 
-*Check your [screensharing setup](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice Areas/remote-work/sharing-your-screen.md)*
+*Check your screensharing setup*
 
 *When the participant is ready, begin the session with the following intro*
 
@@ -74,4 +74,6 @@ Before we start, a few things I want to mention:
 
 Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the process and make sure that it works for the VFS team.
 
-Great, well thank you so much again, and enjoy the rest of your day!            
+Great, well thank you so much again, and enjoy the rest of your day!    
+
+Testing... testing... 1,2,3

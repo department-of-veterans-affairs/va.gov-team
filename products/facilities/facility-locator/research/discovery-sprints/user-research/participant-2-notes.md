@@ -50,13 +50,13 @@ What is that? What did I do now?*
 
 **This is a bug. Use the back button, refresh the screen and that should take us back.** *Response: *Oh! We found a bug. Now it looks different. What happened there?*
 
-**This might be part of the bug. Hit search again. It looks like you found me another bug.** *Response: Now I'm looking at gastroenterology. I've been to Buffalo, Rochester...maybe it zoomed out. If you zoom in (...) plus (...) nope, still. Given that this list has expanded quite a bit. let me change from gastro to audiology. I know that is right in Elmire, Buffalo and ...it's strange, I don't see my place. I see the plus but I don't know that that means. I know there's one in Elmire which should be right about here. Bath is the closest one. Oh yeah, that's right I do go to Bath for Audology. I think what I am seeing until I look where I am and look for the closest one. They might be the closest one. Elmire. Bath is closer. I though I clicked on one that said Bath. um....hmmmm....maybe it didn't say Bath.*
+**This might be part of the bug. Hit search again. It looks like you found me another bug.** *Response: Now I'm looking at gastroenterology. I've been to (PII)...maybe it zoomed out. If you zoom in (...) plus (...) nope, still. Given that this list has expanded quite a bit. let me change from gastro to audiology. I know that is right in (PII) and ...it's strange, I don't see my place. I see the plus but I don't know that that means. I know there's one in (PII) which should be right about here. (PII) is the closest one. Oh yeah, that's right I do go to (PII) for Audology. I think what I am seeing until I look where I am and look for the closest one. They might be the closest one. (PII) is closer. I though I clicked on one that said (PII). um....hmmmm....maybe it didn't say (PII).*
 
-**I saw it as well.** *Response: Well, where did it go? The arrows are so big. Elmire. Bingington. So I don't see the Bath one.*
+**I saw it as well.** *Response: Well, where did it go? The arrows are so big. (PII). So I don't see the (PII) one.*
 
 **Since you can't find it on the map, how else would you find (...)?** *Response: hmmm...you know why, I went back to gastroenterology, 
 Let me go back to audiology, now it should come up. There it is. It was my fault. Somehow it went back to gastroenterology. (...)
-ok so that part (...). Dental should also say Bath. That's audiology. Why is it doing that again? I'm finished with that. Ok. so it should still say (...) Got it. Let me try urology. Oh see...I'm right about here. This is one that I can go to a local guy in town (...) 
+ok so that part (...). Dental should also say (PII). That's audiology. Why is it doing that again? I'm finished with that. Ok. so it should still say (...) Got it. Let me try urology. Oh see...I'm right about here. This is one that I can go to a local guy in town (...) 
 A lot of the specialty stuff they con't do at the facility. An hour away or something with a referral ...) within 20 miles or something
 (...) nothing really close to me here (...)that other one Mental health care, that (...) Wellsboro*
 
@@ -75,7 +75,7 @@ Mission care act (...) I don't really see. How do I know if there is a ramp, if 
 **You'll have to go back to the previous tool.** 
 (...)
 **That might have been on the tab that is to the left.** *Response: oh, so I now could go back again. Now I can go back and VA Health
-Look at Buffalo....hmmm...oh. where did Buffalo go? I lost it. Can you hear me muttering? That's the one I want to see but it's not...sigh...how do I...I'm on gastoenterology, maybe Buffalo doesn't have that. I don't know why Buffalo is not (...)I don't know how I got here. I want to go to find a VA location. Oh, you know what happened? It's only showing me the ones in Pennsylvania. (...)postal code, VA health, maybe I do the plus thing? It says show all facilities but it was on here a couple of minutes ago.*
+Look at (PII)....hmmm...oh. where did (PII) go? I lost it. Can you hear me muttering? That's the one I want to see but it's not...sigh...how do I...I'm on gastoenterology, maybe Buffalo doesn't have that. I don't know why (PII) is not (...)I don't know how I got here. I want to go to find a VA location. Oh, you know what happened? It's only showing me the ones in Pennsylvania. (...)postal code, VA health, maybe I do the plus thing? It says show all facilities but it was on here a couple of minutes ago.*
 
 **You're looking for the Buffalo location on the map. What would you expect? What would you (...)** *Response: Well, I wanted to check about parking, ramps and things like that. Glad I'm not in wheelchair...park, someone (...)Anyway I already know that...
 that's  (..)I'm here. (...)That's not too far. Ok, well, I guess I am a little confused on the map sometimes. Search. I just went to orthopedics, search. It seems like sometimes you have to do it twice. Again, if I go here...hmmm. Now it's showing me (...)Emergency care, that's why they usually let me call 911. I'm 170 miles away. This is probably this (...)but that's becuase VA has really cut down on emergency because they let you go to local hospitals. Urgent care, let's try that.*
@@ -93,7 +93,7 @@ I'd love to know generally, how would you rate your experience from 1 to 5 (1 be
 
 **A 4? You're locking it in?**
 
-**You mentioned Buffalo for example, what other information for planning would be helpful?**
+**You mentioned (PII) for example, what other information for planning would be helpful?**
 *Response(...)yes. because I have been to (...) walk in since it is such a gigantic place. They have an info desk but sometimes no one is there an you just have to wander. Follow this arrow, follow that arrow. So maybe a pmap for go to this floor, that wing, that would be helpful to navigate your way once you get in.*
 
 **that makes a lot of sense. Do you have any questions?**

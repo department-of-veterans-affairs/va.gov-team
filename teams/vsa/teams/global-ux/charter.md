@@ -1,10 +1,10 @@
 _WIP_
-# VSA: Global UX Charter
+# VSA: Public Websites Charter
 
 ## VSA North Star:
 
 **Product Line:**
-Global unauthenticated experience team for VA.gov.
+Public Websites team for VA.gov.
 
 **Mission Statement:**
 Provides Veterans, family members, caregivers, service members and other
@@ -100,10 +100,11 @@ And some logistics:
 
 Role-Related Knowledge / Best Practices
 
-Engineering: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering
+[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 
-Design: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Design
+[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 
-Product: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Product%20Management
+[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
+
 
 

@@ -1,6 +1,6 @@
 # Consistent rules for Reframer
 
-[**See also: How to do research synthesis**](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/how-tos/how-to-do-research_synthesis.md)
+[**See also: How to do research synthesis**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md)
 
 *Why?*
 
@@ -11,7 +11,7 @@
 ![reframer sample](https://ws3.sinaimg.cn/large/006tKfTcgy1fiu88t9eawj31b20giq5t.jpg)
 
 - Tags: how we categorize what we hear. You can add as many as you like to any single observation. Tags can be grouped and color coded with tags for easier discovery. It is recommended that you create tags for your research questions (to evaluate if they were answered); for each significant page or component that you are testing (e.g. photo cropper, intro-page-instructions, 2FA step 1). Other helpful tag categories include user-reaction (i.e., painpoint, success, suggestion; different pages in a flow); success/failure (i.e. success, success with prompt, failure, did not attempt). 
-- Review your session notes before you create tags, but create tags before you start coding. If multiple people are participating in synthesis, make sure to agree on your tags/codes before you start. A codebook is a helpful way to do this. [Here is a sample codebook.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery/VeteranIdentificationCardv2_codebook_2018-01-13_20_23_10_filtered.xlsx) 
+- Review your session notes before you create tags, but create tags before you start coding. If multiple people are participating in synthesis, make sure to agree on your tags/codes before you start. A codebook is a helpful way to do this. [Here is a sample codebook](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery/VeteranIdentificationCardv2_codebook_2018-01-13_20_23_10_filtered.xlsx)(__note: this link points to the vets.gov-team GitHub repo__) 
 - Observations with quotation marks in them are automatically tagged as "quote"—be conscientious about how you use quotation marks in observations so we don't have non-quotes showing up in the quote tag.
 
 

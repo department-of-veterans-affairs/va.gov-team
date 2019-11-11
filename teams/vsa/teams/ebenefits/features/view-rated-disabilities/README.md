@@ -4,8 +4,8 @@ _**WIP** - content is being moved from here to the [VA.gov Product folder](https
 # Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
 - Slack channel: #vsa-ebenefits
-- VA.gov link (WIP): [https://www.va.gov/disability/check-disability-rating/](https://www.va.gov/disability/check-disability-rating/)
-- Tool Page (WIP): [https://www.va.gov/disability/check-disability-rating/rating](https://www.va.gov/disability/check-disability-rating/rating)
+- VA.gov link (WIP): [https://staging.va.gov/disability/check-disability-rating](https://staging.va.gov/disability/check-disability-rating)
+- Tool Page (WIP): [https://staging.va.gov/disability/check-disability-rating/rating](https://staging.va.gov/disability/check-disability-rating/rating)
 - Demo video link: n/a
 - Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
 
@@ -84,9 +84,13 @@ Currently in development, designs approved, moving towards staging.
 - **October 2019**: Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
 
 ## How to Access and Test
-- Link: This feature is anticipated to reside at staging.va.gov/disability/rated-disabilites
+- Link: Unauthenticated: https://staging.va.gov/disability/check-disability-rating/
+- Link: Authenticated: https://staging.va.gov/disability/check-disability-rating/rating/
 - Password protection info:
-- User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
+- User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
+  - User 228 has 5 ratings, 3 are SC
+  - User 10 has no ratings
+  - User 123 has 1 rating, SC
 
 ## Error Handling
 There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.

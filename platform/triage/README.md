@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Triage
 ### Communication channels
 - DSVA Slack channels: [#vsp-triage](https://dsva.slack.com/messages/CK1FA11H8)
@@ -15,7 +17,7 @@ The following is a set of resources to help you work with the VSP Triage team. S
 ##### I want to....
 - [Report an issue to the platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md)
 - [Learn about the incident triage process](incident-triage-process.md) 
-- [Respond to an on-call incident](incident-response-playbook.md)
+- [Respond to an on-call incident](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
 - [Learn how Sentry is used within the VSP](sentry-usage-overview.md)
 - [Learn how to use Sentry tags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-tagging-standards.md)
 - [Learn about the various upstream services](upstream-services.md)

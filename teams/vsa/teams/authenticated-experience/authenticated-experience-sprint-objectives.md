@@ -33,14 +33,14 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Start Combine Profile & Account
 * Monitoring, bug fixes, hardening, 508, etc.
 
-### (CURRENT) Sprint 6 (10/9 - 10/22)
+### Sprint 6 (10/9 - 10/22)
 * Continue working on Direct Deposit
 * Continue working towards launch of Address Validation & Override
 * Continue Bad Address Indicator
 * Continue Combine Profile & Account
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-### Sprint 7 (10/23 - 11/5)
+### (CURRENT) Sprint 7 (10/23 - 11/5)
 * Launch Direct Deposit (10/30) 
 * Continue Address Validation & Override work
 * Continue Bad Address Indicator work 
@@ -48,11 +48,19 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Sprint 8 (11/6 - 11/19)
+* Direct Deposit
+     * Remove "Add" functionality (#2883) if not already done
+     * There is some dependency to creating the designs for ID.me &  DS Logon (#2884) whatever that dependency is let's do it this sprint.
+     * Finalize call center guide updates (#2901)
 * Continue Address Validation & Override work
+     * Complete user testing (#2551 needs to be updated) & document outcomes.  Requires completion of conversation guide (#2327)
+     * Complete FE work, using current designs and recently completed BE work
+     * Define analytics requirements and review with all necessary stakeholders for approval 
 * Continue Bad Address Indicator work 
-* Continue Combine Profile & Account
-* Start Beta Program
+     * Complete design recommendations for APO/AFO (#1135 and/or #3023)
+     * Difine an achievable element from #2198 for the sprint
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
+     * Clear the "Validate" swimlane by the end of the sprint
 
 ### Sprint 9 (11/20 - 12/3)
 * Launch of Address Validation & Override and move to monitor mode

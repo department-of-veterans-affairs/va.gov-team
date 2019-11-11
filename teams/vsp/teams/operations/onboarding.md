@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Onboarding Operations Team Members
 
 This document is meant as a way to assist a member of the VSP Operations team to get started. It starts with higher level organization of both technology and people, provides some information on how the team communicates, and adds some jumping off points into more details of how the VSP works.

@@ -1,3 +1,4 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
 
 # Content 
 Hello! In this folder, you'll find information about plain language standards and documentation and guidance on creating content across VA.gov. 
@@ -13,17 +14,18 @@ VSP Content POC:
 ### Table of contents
 The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #vsp-content-ia Slack channel or your VSP content POC directly.
 - Onboarding/training
-    - [Onboarding](https://github.com/department-of-veterans-affairs/vets.gov-team/wiki/VA.gov-Onboarding)
+    - [Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding)
 - Content processes
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Practice%20Areas/Content/content-review-process.md)
+    - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)
     - [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) *(Please note: this process is currently under review)*
     - [URL creation and process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md)
      - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
 - VA.gov content style guides 
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
-     - [Error messaging dictionary styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
-    - [Error message standardization styleguide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Content%20Style%20Guide.md)
+     - [Error message dictionary styleguide](https://design.va.gov/patterns/messaging-dictionary)
+    - [Error message styleguide](https://design.va.gov/patterns/messaging-error-messages)
     - [Form label masterlist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/site-wide-issues/Form%20label%20masterlist.xlsx) 
     - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
     - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)

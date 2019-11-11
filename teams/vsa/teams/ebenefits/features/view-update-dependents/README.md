@@ -1,7 +1,9 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # View and Update Dependents
 
-- GitHub Label: [vfs-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
-- Slack channel: #vfs-ebenefits
+- GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
+- Slack channel: #vsa-ebenefits
 - va.gov link: tbd
 
 ## WIP

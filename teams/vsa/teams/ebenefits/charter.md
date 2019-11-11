@@ -20,7 +20,7 @@ Help Veterans, their dependents and caregivers get the benefits they've earned b
 Define the landscape of features to be worked on, optimize and migrate as necessary, and collaborate with other teams where there is overlap.  
 
 ### **Roadmap**
-![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/ebenefits-roadmap-sept2019.JPG)
+![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/ebenefits-roadmap-Nov-7-2019.jpg)
 [Overall Priorities](priorities.md)
 
 ### Team Members
@@ -100,10 +100,10 @@ Extra time? Explore the "Ready" column in ZenHub.
 
 **Role-Related Knowledge / Best Practices**
 
-[Engineering](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering)
+[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 
-[Design](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Design)
+[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 
-[Product](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Product%20Management)
+[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
 
 

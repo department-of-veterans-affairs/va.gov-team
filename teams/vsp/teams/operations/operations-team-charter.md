@@ -1,41 +1,46 @@
-# Draft Operations Team Charter
+# Operations Team Charter
 
 
 ---
-
 ## Why we're here
 
-### North Star:
-
+### VSP North Star:
 Enable VA to build digital tools at scale that improve Veterans’ lives.
-
-### Product Suite: 
-- CI/CD 
-- AWS 
-- Access Management 
-- Infrastructure 
-- Environment Connectivity
 
 ### Team Mission Statement:
 Provide reliable infrastructure, secure access controls, and CI/CD tooling to allow safe deployments for the platform.
 
+### Product Suite: 
+- Platform 
+
 ### Product Portfolio:
+|Product|Tool/Sub-Features|
+|----|----|
+|Infrastructure | Networking, Servers| 
+|CI/CD pipeline | Jenkins, Ansible, Configuration, BRD (Build, Deploy, Release) |  
+|Monitoring and Alerting | Prometheus, Grafana, Cloudwatch, Infrastructure Postmortems, Infrastructure oncall/ Incident Response, PagerDuty Account Management| 
+|Configuration Management/Automation| Environments (Prod, Staging, Dev), Terraform|
+|Access Management (VA.gov)|Github Teams, SOCKS Proxy, Jumpboxes|
+|Environment connectivity|AWS / VAEC, Forward Proxy, Reverse Prox| 
+|Technical Compliance Issues|Nessus and WASA scans, Ensuring compliance with documentation, SSL configuration|
+
+
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Roadmap:
-_Link to agile roadmap_
+[Zenhub Super Epics](https://github.com/department-of-veterans-affairs/va.gov-team/pull/3082#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=operations,super-epic&repos=133843125,48004036,194202180,31788863)
 
 ---
 
 ## Who we are
 
 ### Team Members:
-- Lead Ops Engineer - Wyatt Walter
+- Primary Lead Ops Engineer - Wyatt Walter
 - Product Manager - TJ Rice
 - Ops Engineer - Taylor Skinner
-- Senior Ops Engineer- Nick Walke
-- Senior Ops Engineer - Nathan Hruby
-- Ops Engineer - Bennie Mosher
+- Lead Ops Engineer- Nick Walke
+- Lead Ops Engineer - Nathan Hruby
+- Senior Ops Engineer - Bennie Mosher
 - Ops Engineer - Jeremy Britt
 
 Other Member that contribute to our Team's mission
@@ -58,8 +63,8 @@ Check in on people and product progress
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint 12:30pm EST
-- 30 min
+- 1st Tuesday before every sprint 3:00pm EST
+- 45 min
 Agenda
 - Follow up on action items from previous retro
 - Time for writing cards if necessary (please write cards ahead of time!)
@@ -92,7 +97,7 @@ Talk and demo work we are working on to ensure we are aware of current work in a
 - talk through what different pieces of work we are doing right now and ask any questions that come from it in order to brake down any silos on the team. 
 
 #### Leads Grooming 
-Stragetgic meeting to plan for the team and work we need/want to accomplish. 
+Stragetgic meeting to plan work for the team and work we need/want to accomplish. 
 
 - 2nd Friday of every sprint
 - 1 hour
@@ -126,7 +131,6 @@ Points: Complexity Estimate
 - 40 = super epics (2 + months)
 
 #### Team Norms
-
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls
 - Speak up! - everyone’s voice matters
@@ -138,6 +142,8 @@ Points: Complexity Estimate
 - Engineer
   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/operations/onboarding.md
   - BRD Overview (ping TJ for recording)
+  - Ansible Overview (ping TJ for recording)
+  - Grafana Overview (ping TJ for recording)
   - VA Network overview (ping TJ for recording)
   - CMS build overview (ping TJ for recording)
   - VA overview (ping TJ for recording)

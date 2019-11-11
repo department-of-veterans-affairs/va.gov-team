@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Backend 
 Hello! In this folder, you'll find information specific to how Backend Engineering works on VA.gov. 
 
@@ -45,7 +47,7 @@ The following list is a set of resources compiled by the people in your practice
     - We enforce a consistent code style with [Rubocop](https://github.com/department-of-veterans-affairs/vets-api/blob/master/.rubocop.yml) code linting
     - We run commit hooks with [overcommit](https://github.com/department-of-veterans-affairs/vets-api/tree/master/.git-hooks/pre_commit)
     - Standards and conventions
-        - Team [engineering practices directory](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering)
+        - Team [engineering practices directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
         - for reference: [18F API standards](https://github.com/18F/api-standards) (some good advice here)
         - [New API endpoint punchlist](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/vets-api-endpoint-punch-list.md)
         - [Vets-API Endpoint Punch List Presentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Presentations/vets-api-endpoint-punch-list-presentation.md)

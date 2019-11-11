@@ -1,13 +1,14 @@
 # Product Outline Template
 
 ## Communications
+- Implementation Team: 
 - GitHub Label: 
-- Slack channel:
-- Product POCs: 
+- Slack channel: 
+- Product POCs:
 - Stakeholders: 
 
 ## The Problem
-
+ 
 
 ### User Goals
 
@@ -18,6 +19,7 @@
 ## Assumptions
 
 ## Questions
+
 
 ## Requirements
 #### In Scope 
@@ -43,7 +45,7 @@
 ## Team
 
 - VA Digital Strategist(s): 
-- Product Manager:  
+- Product Manager: 
 - Design Lead: 
 - Eng Lead: 
 - Engineers:

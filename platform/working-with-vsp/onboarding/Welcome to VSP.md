@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # Welcome to the Veteran-facing Services Platform!
 
 The Veteran-facing Services Platform (VSP) team is here to give you to the tools, systems, and guidance you need to build online experiences on VA.gov that will improve Veteran's lives. As you develop your product, we’ll be your support team helping you through the VA.gov ecosystem, best practices, and processes, including the iterative cycle of ideation and strategy, user testing, launching code, and measuring results.
@@ -33,7 +35,7 @@ Here are materials you should start familiarizing yourself with to help you lear
 Document what you're building, what problem it's solving, what outcomes you hope it achieves, and how you'll measure success. And track the work necessary to actually deliver the solution.
 
 - [Here's how to write a great Product Outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/ProductOutline.md).
-- We are undergoing some repository renovations, so this may change in the future, but for now please store your VA.gov Product documentation in the [vets.gov-team repo product folders](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products).
+- Please store your VA.gov Product documentation in the [va.gov-team repo product folders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products). As of November 2019 we are in the process of copying select legacy documentation from the vets.gov-team repo to supplement va.gov-team; expect to see additional content and updates to links as this work continues. 
 - Teams regularly use ZenHub to better organize GitHub issues. [Here's how the VSP team uses ZenHub to manage its work](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/zenhub_product_management.pdf).
 
 ### Design
@@ -91,7 +93,7 @@ You'll need reviews from VSP to help you make sure you're on track! [Here's what
 
 Both manually and through automated tests, ensure your solution is doing what you want it to do.
 
-- [Here's how to QA your solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/How%20To%20Coordinate%20QA%20Testing.md)
+- [Here's how to QA your solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/how-to-coordinate-qa.md)
 - VSP is here to help you as you test to ensure your solutions are top quality! Reach out to #vfs-platform-support in Slack to ask questions, or schedule a meeting with us so we can help when you need it.
 
 <!--### Release Planning: Document release phases and the criteria for moving between them. This should include rollout schedule, success/rollback criteria, any pre- and post-launch user testing and monitoring, external documentation and comms. You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can review and/or help your write your release plan.-->

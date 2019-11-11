@@ -52,7 +52,7 @@
    - Administrative Instructions
    - Tickets/Workflow for Vets.gov contract [Ends 6/30/19]
 
-[`VA.gov-team`](https://github.com/department-of-veterans-affairs/vets.gov-team):
+[`VA.gov-team`](https://github.com/department-of-veterans-affairs/va.gov-team/):
 - Repo for the Veteran Facing Services Platform (VSP) contract that stores **non-code** documents created and used by the VA.gov Team [PUBLIC]
    - Practice Areas (Still being migrated)
    - Product Documentation for tools created on VA.gov (Still being migrated)

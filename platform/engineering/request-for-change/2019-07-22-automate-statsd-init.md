@@ -1,3 +1,5 @@
+__Please note: some links in this document point to the vets.gov-team repo.__
+
 # RFC: Automatic StatsD Metric Initialization
 
 - Date: 2019-07-22

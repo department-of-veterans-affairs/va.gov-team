@@ -71,7 +71,18 @@ paths:
       tags:
         - 'Appointments'
       summary: 'Create a new confirmed appointment'
-      description: ''
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>POST endpoint
+            <ul>
+              <li>
+                <code>PUT /VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/booked-appointments</code>
+              </li>
+            </ul>
+          </li>
+          <li>Community care requests are included in appointment request service</li>
+        </ul>
       operationId: ''
       requestBody:
         $ref: '#/components/requestBodies/DirectScheduleBody'
@@ -213,42 +224,55 @@ paths:
                 type: object
         default:
           description: Unexpected error
-  /requests/{requestId}/messages:
+  /requests/preferences:
     get:
       tags:
         - 'Requests'
-      summary: 'Gets a list of messages associated with the request'
+      summary: 'Get communication preferences for requests'
       description: >+
         Existing endpoints:<br />
         <ul>
           <li>
             <ul>
               <li>
-                <code>/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/{assigning-authority}/{patient-id}/appointments/system/var/id/{requestId}/messages</code>
+                <code>/VeteranAppointmentRequestService/v4/rest/patient/{assigning-authority}/{patient-id}/preference</code>
               </li>
             </ul>
           </li>
         </ul>
       operationId: ''
-      parameters:
-        - name: requestId
-          in: path
-          required: true
-          schema:
-            type: string
       responses:
         '200':
           description: OK
-          content:
-            application/json:
-              schema:
-                type: object
         default:
           description: Unexpected error
-    post:
+    put:
       tags:
         - 'Requests'
-      summary: 'Send a new message for the given request'
+      summary: 'Update communication preferences for requests'
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>
+            <ul>
+              <li>
+                <code>/VeteranAppointmentRequestService/v4/rest/patient/{assigning-authority}/{patient-id}/preference</code>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      operationId: ''
+      
+      responses:
+        '200':
+          description: OK
+        default:
+          description: Unexpected error
+  /requests/{requestId}/messages:
+    get:
+      tags:
+        - 'Requests'
+      summary: 'Gets a list of messages associated with the request'
       description: >+
         Existing endpoints:<br />
         <ul>

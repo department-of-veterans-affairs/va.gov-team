@@ -107,3 +107,25 @@ As a design researcher, I want to create a consistent conversation guide that en
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
 
+## Request QA Review for {feature}
+### Story  
+As an engineer, I want to request a review for Security and Load Testing with the QA Team to ensure that my feature meets the requirements for publication so that my pages will safely perform as expected under heavy loads typically found in the VA.gov environment.
+
+### Task
+- Provide advance notice `(minimum 1 sprint, preferably 2)`
+- Create a QA ticket on GitHub:
+- Assign to `tlei123`
+- Add the `vsa-qa`, `vsa-ebenefits`, `vsa` label
+- Select the Milestone sprint, or otherwise provide due-date for testing results.
+- Provide the following info to support testing (via links if documented elsewhere):
+  - Staging URL of product/feature
+  - UX Design wireframes/comps
+  - Copy decks
+  - Test-accounts `(usernames for all UX scenarios/flows)`
+  
+### Acceptance Criteria
+- [ ] Review has been reviewed by [Tze-chiu Lei](https://dsva.slack.com/team/UHB9W74TA) ([tze@adhocteam.us](mailto:tze@adhocteam.us)) or [Peter Hill](https://dsva.slack.com/team/UL0FKGBDY) ([peter.hill@oddball.io](mailto:peter.hill@oddball.io))
+```diff
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
+```
+

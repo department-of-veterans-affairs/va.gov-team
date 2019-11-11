@@ -1,4 +1,5 @@
 {
+  "URL": "https://veteran.apps-staging.va.gov/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/{icn}/appointments",
   "typeOfCare":"407",
   "appointmentType":"Ophthalmology",
   "cityState":{

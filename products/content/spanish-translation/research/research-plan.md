@@ -153,12 +153,12 @@ Tadeo, Sandy A., VBAVACO <Sandy.Tadeo@va.gov>
 
 https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
 
-**Project brief:**
+**Project brief:** (__note: link points to vets.gov-team GitHub repo__)
 
 https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/benefits-spanish-localization
 
 
-**Discussion guide:**
+**Discussion guide:** (__note: link points to vets.gov-team GitHub repo__)
 
 https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/benefits-spanish-localization  [placeholder here]
 
@@ -175,6 +175,6 @@ Did you have any takeaways from the process of this research round that you want
 **Read-Out/Results**
 
 Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.
-** Don't forget to add a link to your research folder to the research tracker! https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20History.md
+** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
 
 

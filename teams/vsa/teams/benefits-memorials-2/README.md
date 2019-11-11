@@ -6,17 +6,18 @@ This folder will house all of the necessary files for the Benefits & Memorials 2
 Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 ### **Product Line** 
-Benefits and Memorial Services 
-[Products Master page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+Benefits and Memorial Services
+
+[Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Mission Statement**
 Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
 (look into this statement, this is very broad)
 
 ### **Product Portfolio**
-  *TBD
-  -- add link to each product with in the master Product page-- 
-  [Products Master page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+[Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
+
+[Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 ### **Responsibilities**
 TBD
@@ -28,7 +29,7 @@ TBD
 |DSVA Product Manager   |Matt Self                           |
 |DSVA Design Researcher |Kevin Hoffman                       |
 |Team Product Manager   |Nicolaus Wygonik                    |
-|Back End Engineer      |TBD                                 |
+|Back End Engineer      |Joseph Brothers                     |
 |Front End Engineer     |Brad Conley                         |
 |Front End Engineer     |Amen Ra                             |
 |Design Researcher      |Riley Orr                           |
@@ -52,8 +53,8 @@ Extra time? Explore the "Ready" column in ZenHub.
 
 **Role-Related Knowledge / Best Practices**
 
-[Engineering](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Engineering)
+[Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
 
-[Design](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Design)
+[Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 
-[Product](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Product%20Management)
+[Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)

@@ -39,8 +39,7 @@ This Address Override feature requires UX in various places to allow the Veteran
 ## Method
 1.	**What method of research are you planning?** 
   
-Usability testing with high fidelity prototypes.  Will have the user share their screen and walk through how to update a 
-mailing address.This testing will be done remotely.
+Usability testing with high fidelity prototypes. 
   
 2.	**Why this method? How does this methodology help you answer your research questions?**
 
@@ -52,7 +51,7 @@ This research will be done remotely, using GoTo Meeting.
 
 4.	**What will you be testing?** *(Design mocks, card sort, prototype, page, content, etc.)* 
 
-Updating the mailing address from a profile screen using clickable, high fidelity prototypes.
+InVision Prototype
 
 5.  **If remote: What tool do you plan to use**
 
@@ -61,65 +60,61 @@ GoTo Meeting
 ## Participants and Recruitment
 1.	**Participant criteria: What are you looking for in a participant?**
 
-- People who use Va.gov
-- People who have updated their mailing address on the Va.gov profile
-- People who may need to update their address in the near future (or have recently updated it) on another system (Post Office, etc)
+We need **3 participants** that meet the following criteria:
+
+- People who have previously used VA.gov
+- People who receive at least one benefit from the VA
+- People who are able to download and use the GoToMeeting app. This user testing will have a screensharing component and we can not work with participants who are not able to use GTM.
 
 We would also like at least one participant that is:
-- A female
+- A woman
 - A person of color
-- Under 40
+- 35 or under
+- 55 or older
 
 2.	**What is your recruitment strategy?** 
 
 We will work with Perigean to recruit for this research study.
 
 ## When? 
+
 1.	**Timeline: What dates do you plan to do research?** 
 
-We would like to conduct research between Friday, October 25 - Friday, November 1
+We would like to conduct research between **Wednesday, November 13 and Friday, November 15.**
 
 2.	**Prepare: When will the thing you are testing be ready?**
 
-Ready now.  Designs and conversation guide are complete.
+Prototype and conversation guide will be ready by **Tuesday, November 5**.
 
 3. **Length of Sessions: How long do you estimate each session will be?** 
 
-10-15 minutes per session.
+Please schedule sessions for **60 minutes** with a 30 minute buffer in between.
 
 4.	**Availability: If applicable, when would you like sessions scheduled?** **Please list exact dates and times in EASTERN Standard Time**. 
 
-- Friday, October 25: 8:30am - 12:00pm ; 1pm - 3pm
-- Monday, October 28: 8:30am - 3pm
-- Tuesday, October 29:  8:30am - 4pm
-- Wednesday, October 30:  8:30am - 3pm
-- Thursday, October 31:  8:30am - 2pm
-- Friday, November 1:  8:30am - 12:00pm ; 1pm - 3pm
+- Wednesday, November 13: 8:30 AM ET – 5:30 PM ET (last session starting no later than 4:30)
+- Thursday, November 14: 9:00 AM ET – 11:45 AM; 2:00 PM – 5:30 PM ET (last session starting no later than 4:30)
+- Friday, November 15: 8:30 ET – 5:00 ET (last session starting no later than 4:00)
 
 5.	**Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with?**
 
-2 days before research sessions begin.
+I can run a pilot Tuesday, 11/12.
 
 ## Team Roles
+
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
-- Moderator: Arthur Green
-- Research guide writing and task development (usually but not always same as moderator): Arthur Green
+- Moderator: Samara Strauss
+- Research guide writing and task development (usually but not always same as moderator): Samara Strauss
 - Participant recruiting & screening: Perigean
-- Project point of contact: Arthur Green
+- Project point of contact: Samara Strauss
 - Participant(s) for pilot test: N/A
-- Note-takers: Emily Wagoneer or Crystabel Reiter
-- Observers: Justin Pickett (jpickett@governmentcio.com ), Erik Hansen (erik@adhocteam.us), Samara Strauss (Samara.Strauss@va.gov), Lisa Koenigsberg (Lisa.Koenigsberg@va.gov), Lihan Li (lihan@adhocteam.us), Amen Ra (ara@governmentcio.com )
+- Note-takers: Perigean
+- Observers: Justin Pickett (jpickett@governmentcio.com ), Erik Hansen (erik@adhocteam.us), Arthur Green (agreen@governmentcio.com), Lisa Koenigsberg (Lisa.Koenigsberg@va.gov), Brad Conley (bconley@governmentcio.com), Dan Hinze (dan.hinze@adhocteam.us)
 
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**
 
 ## Resources
 - Project Brief
 - Discussion Guide
-- Notes & Recordings
+- Notes
 - Synthesis
-- Lessons Learned
-- Read-Out/Results
-
-## Approval
-
-Research Plan approved by Lauren Alexanderson on 10/17/19. [Link to approval - #2326](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2326)

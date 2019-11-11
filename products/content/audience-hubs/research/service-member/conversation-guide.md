@@ -6,13 +6,13 @@
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20Process%20and%20Templates/observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
+*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
 
 *In the Attendees section, make sure everyone except the participant is on mute*
 
 *In the Audio section, click the drop-down arrow and make sure "Play Entry/Exit Chimes" is unchecked*
 
-*Check your [screensharing setup](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/remote-work/sharing-your-screen.md)*
+*Check your screensharing setup*
 
 *When the participant is ready, begin the session with the following intro*
 
@@ -105,7 +105,7 @@ Thanks! Lastly, would you like to share this feedback opportunity with other Vet
 
 Great, well thank you so much again, and enjoy the rest of your day!
 
-## Sample Conversation Guides 
+## Sample Conversation Guides (__note: these links point to documentation on the vets.gov-team GitHub repo__)
 
 - [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Scheduling/research/access-usability/access-usability-conversation-guide.md) 
 - [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Veteran%20Identification%20Card%20v2/research/discovery/discovery_conversation_guide.md)
