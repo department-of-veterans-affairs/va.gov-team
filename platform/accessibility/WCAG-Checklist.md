@@ -46,12 +46,11 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
   </thead>
   <tbody>
     <tr>
-      <th></th>
+      <th rowspan="2">Heading</th>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <th></th>
       <td></td>
       <td></td>
     </tr>
