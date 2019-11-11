@@ -39,9 +39,9 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
   <!-- <caption></caption> -->
   <thead>
     <tr>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>Topic</th>
+      <th>Accessibility Requirements </th>
+      <th>WCAG</th>
     </tr>
   </thead>
   <tbody>
