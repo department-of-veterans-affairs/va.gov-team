@@ -1,4 +1,5 @@
 {
+   "URL": "https://veteran.apps-staging.va.gov/var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/983/patient/ICN/{icn}/booked-appointments",
    "apptType":"P",
    "purpose":"9",
    "ekg":"",
