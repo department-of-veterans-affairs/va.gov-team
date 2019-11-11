@@ -34,6 +34,45 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
 | **Parsing and Validity** | **The page MUST NOT contain syntax errors that affect semantic meaning** (e.g. elements or attributes that don’t close properly, either explicitly or implicitly). | 4.1.1 |
 
 ## Part 2: Sight & Sound
+
+<table>
+  <!-- <caption></caption> -->
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 | Topic      | Accessibility Requirements                                                                                                                                                                                                                                                                                                                                                                       | WCAG  |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | **Word** | Word | Numbers |
