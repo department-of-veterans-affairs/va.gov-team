@@ -1,6 +1,6 @@
 # WCAG Checklist - In Progress
 
-Based on WCAG 2.0 AA Requirements (marked with “must”) and best practices (marked with “should”)
+Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “SHOULD”)
 
 ## Part 1: Semantic Structure
 
