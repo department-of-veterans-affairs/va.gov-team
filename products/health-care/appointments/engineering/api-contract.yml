@@ -71,7 +71,18 @@ paths:
       tags:
         - 'Appointments'
       summary: 'Create a new confirmed appointment'
-      description: ''
+      description: >+
+        Existing endpoints:<br />
+        <ul>
+          <li>POST endpoint
+            <ul>
+              <li>
+                <code>PUT /VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/{site-code}/patient/{assigning-authority}/{patient-id}/booked-appointments</code>
+              </li>
+            </ul>
+          </li>
+          <li>Community care requests are included in appointment request service</li>
+        </ul>
       operationId: ''
       requestBody:
         $ref: '#/components/requestBodies/DirectScheduleBody'
