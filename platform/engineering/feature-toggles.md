@@ -21,7 +21,8 @@ We can also roll out a feature for a select few users by adding the their email 
 
 
 ## Front End Implementation
-The front end queries the http://localhost:3000/v0/feature_toggles endpoint [documented here](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/site/getFeatureToggless), which returns true/false for each feature toggle.
+The front end queries the `/v0/feature_toggles` endpoint ([swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/site/getFeatureToggless)), which returns true/false for each feature toggle.
+Full [vets-website feture toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) (see Release Toggles)
 
 ## Back End Implementation
 To check if a feature is enabled within the context of a specific user, call  `Flipper.enabled?('facility_locator_show_community_cares', @current_user))`.  The user parameter is optional.
