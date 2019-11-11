@@ -24,6 +24,26 @@ Based on WCAG 2.0 AA Requirements (marked with “must”) and best practices (m
 | **iframes** | **Frame title attribute MUST be specified** (`<iframe title="Video about..."`). | 4.1.2 |
 | **iframes** | **The page within the iframe MUST have an accurate, meaningful 1`<title>`1.** | 2.4.2 |
 | **iframes** | **Iframes with no readable content (e.g. only JavaScript) SHOULD be set to aria-hidden="true".** | (4.1.2) |
+| **Form Markup** <br/> (See also Form Validation and Feedback in Part 3) | **Inputs, buttons, and controls MUST have labels which are programmatically-associated** (e.g. via `<label>`, aria-label, or aria-labelledby) **and always visible on the screen** (they don’t disappear when the user starts typing). | 1.3.1, 3.3.2 |
+| **Form Markup** <br/> (See also Form Validation and Feedback in Part 3) | **Required fields SHOULD be marked as such**, e.g. via aria-required="true" (on the input, not on the label), or have the word “required” in the `<label>` text. | 3.3.2 |
+| **Form Markup** <br/> (See also Form Validation and Feedback in Part 3) | **Form field instructions SHOULD be associated with inputs or buttons** using techniques such as: Putting the instructions in the `<label>`. Associating the instructions with the field using aria-describedby (Note: text associated via aria-describedby *SHOULD* be relatively brief). Putting the instructions in a `<fieldset>` with `<legend>` | 3.3.2 |
+| **Form Markup** <br/> (See also Form Validation and Feedback in Part 3) | **Groups of form elements MUST have group labels** (e.g. `<fieldset>` and `<legend>`, or referenced from the inputs via aria-labelledby="id-of-group-label id-of-self-label" ). | 1.3.1 |
+| **Parsing and Validity** | **The page MUST NOT contain duplicate IDs** because accessibility features frequently reference IDs. | 4.1.1 |
+| **Parsing and Validity** | **Attributes (e.g. ARIA) MUST contain only allowable values, in the proper parent-child hierarchy.** | 4.1.1 |
+| **Parsing and Validity** | **Parent-child relationships of elements & attributes (e.g. ARIA roles) MUST follow the specification.** | 4.1.1 |
+| **Parsing and Validity** | **The page MUST NOT contain syntax errors that affect semantic meaning** (e.g. elements or attributes that don’t close properly, either explicitly or implicitly). | 4.1.1 |
+
+## Part 2: Sight & Sound
+| Topic      | Accessibility Requirements                                                                                                                                                                                                                                                                                                                                                                       | WCAG  |
+|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+| **Word** | Word | Numbers |
+| **Word** | Word | Numbers |
+| **Word** | Word | Numbers |
+| **Word** | Word | Numbers |
+| **Word** | Word | Numbers |
+| **Word** | Word | Numbers |
+| **Word** | Word | Numbers |
+| **Word** | Word | Numbers |
 | **Word** | Word | Numbers |
 | **Word** | Word | Numbers |
 | **Word** | Word | Numbers |
