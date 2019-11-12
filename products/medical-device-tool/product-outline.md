@@ -26,15 +26,20 @@ Alex Y., our former deputy-CTO, sent the following:
 
 > Following up on hearing aids. It looks like the data is in VistA and that there is a Mumps package for accessing it.  Some folks at the Loma Linda VA medical center, who built VEText, are willing to build an API to it, if that would be valuable to VA.gov.  If it would be, let me know who the best point of contact would be and happy to either connect folks and get out of it, or stay involved and help facilitate (whichever is most helpful to the team)!
 
-Github Project: https://github.com/department-of-veterans-affairs/va.gov-team/projects/7
-Github Label: https://github.com/department-of-veterans-affairs/va.gov-team/labels/vsa-ebenefits
-Slack Channel: #vsa-ebenefits
+Github Project: 
 
-Discovery Goals
-* TBD
+Github Label: vsa-benefits-2
+
+Slack Channel: vsa-bam-2
+
+
+## The Problem
+Millions of Veterans depend upon the VA for disability-related medical devices and their accessories. Today, Veterans are able to order **prosthetic socks** and **hearing aid batteries**, the two most commonly-ordered medical device accessories, through their respective VA forms (Form 2345 & 2346). There are a number of ways to request these medical devices today, through several different mediums and platforms, providing a disparate experience for Veterans. With the expected sunsetting of eBenefits, BAM2 seeks to match and expand the functionality of the platform on the VA.gov website.
+
+### User Problem Statement
+As a Veteran, I want to be able to easily order the medical devices I need to alleviate my disability.
 
 ## Discovery
- 
 
 ### User Goals
 
@@ -56,7 +61,7 @@ Discovery Goals
 - How can we get access to a non-production instance of the tool on eBenefits?
 
 ## Requirements
-#### In Scope 
+#### In Scope
 
 #### Out of Scope
 
