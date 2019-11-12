@@ -71,7 +71,7 @@ These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on 
 **When to request a Design Review:**
 VFS teams should schedule the Design Review when the designs are ready to be tested with users (prototypes or static screens), and when the designs have been built on staging (coded, interactive flows). You should be having at least 2 Design Reviews with the platform design team for each project, and they should not wait until the product is ready to launch.
 
-## <a id="howtorequest"></a>How to request a design QA review:
+## <a id="howtorequest"></a>How to request a design review:
 
 **1. File an issue in va.gov-team repo.**
 - Title: Request Design Review
