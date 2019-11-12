@@ -17,7 +17,7 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 
 ## Checklists
 - [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
-- WCAG Checklist to come
+- [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
 
 ## Accessibility Tips for Designers, Researchers, and Developers
 
