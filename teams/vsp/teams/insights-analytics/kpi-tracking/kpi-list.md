@@ -34,3 +34,5 @@
 ## VSP
 1. [Product Support](https://docs.google.com/spreadsheets/d/14rTtP8J4UlUkZ_EB0WMXykTUOmQ52MGABhUiEYFiG9w/edit#gid=1554481611)
 
+2. [Analytics & Insights](https://docs.google.com/spreadsheets/d/1Kv91DobU2sl1Y-vzicfIDZg8MtiX254tcYPiwU6VkWA/edit#gid=1554481611)
+
