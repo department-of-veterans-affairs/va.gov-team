@@ -45,7 +45,7 @@ We support designers by providing resources and guidance to enable them to creat
 You can engage with the VSP Design team anytime throughout the design process. We strongly recommend  that you reach out earlier rather than later so we can give our input before development. After development and when the complete and final build is on staging, a design QA review will be scheduled. Instructions on how to request a design QA review is in the next section. 
 
 **When performing user research**   
-We can help facilitate user research, and can review research plans and conversation guides, and help connect you with the recruiting team.
+We can help facilitate user research, review research plans and conversation guides, and help connect you with the recruiting team.
 
 **To review designs and/or prototypes**    
 VFS teams can schedule a design review on work in progress or prototypes that you’re planning on testing. 
