@@ -7,7 +7,7 @@ Enable Veterans and their caregivers to easily discover, apply for, track, and m
 - #vsa
 - #vsa-authd-exp
 - #vsa-benefits-memorial
-- #vamc-upgrade
+- #vsa-vamc-upgrade
 - #vsa-bam-2
 - #vsa-facilities
 - #vsa-public-websites
