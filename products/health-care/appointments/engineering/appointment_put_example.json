@@ -1,0 +1,13 @@
+{
+  "URL": "https://veteran.apps-staging.va.gov/var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/983/patient/ICN/{icn}/cancel-appointment",
+  "appointmentTime":"11/12/2019 11:00:00",
+  "clinicId":"455",
+  "cancelReason":"5",
+  "cancelCode":"PC",
+  "remarks":"",
+  "clinicName":"CHY PC CASSIDY",
+  "patientIdentifier":{
+    "uniqueId":"1013124304V115761",
+    "assigningAuthority":"ICN"
+  }
+}
