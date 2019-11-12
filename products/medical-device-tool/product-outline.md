@@ -26,26 +26,41 @@ Alex Y., our former deputy-CTO, sent the following:
 
 > Following up on hearing aids. It looks like the data is in VistA and that there is a Mumps package for accessing it.  Some folks at the Loma Linda VA medical center, who built VEText, are willing to build an API to it, if that would be valuable to VA.gov.  If it would be, let me know who the best point of contact would be and happy to either connect folks and get out of it, or stay involved and help facilitate (whichever is most helpful to the team)!
 
-Github Project: 
-
-Github Label: vsa-benefits-2
-
-Slack Channel: vsa-bam-2
 
 
 ## The Problem
 Millions of Veterans depend upon the VA for disability-related medical devices and their accessories. Today, Veterans are able to order **prosthetic socks** and **hearing aid batteries**, the two most commonly-ordered medical device accessories, through their respective VA forms (Form 2345 & 2346). There are a number of ways to request these medical devices today, through several different mediums and platforms, providing a disparate experience for Veterans. With the expected sunsetting of eBenefits, BAM2 seeks to match and expand the functionality of the platform on the VA.gov website.
 
 ### User Problem Statement
-As a Veteran, I want to be able to easily order the medical devices I need to alleviate my disability.
+As a Veteran, I want to be able to easily order the medical devices I need for my disability. 
 
 ## Discovery
 
 ### User Goals
+- Veterans:
+  - Order **hearing aid batteries** or **prosthetic socks** from the VA
 
+- Audiologists:
+
+  - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
+
+- DALC Employees:
+  - Enter in orders from Vets via phone, mail, or email
+
+- Manufacturing Company:
+   - TBD  
+
+- VA Managers
+  - TBD
+  
+### User Pain Points
+- Veterans:
+  - They are required to manually order the same item many times
+  - There are many methods to ordering devices
 
 ### Business Goals
-
+- To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted.
+- (??) To reduce the number of order-related errors
 
 ## Assumptions
 
@@ -76,6 +91,7 @@ As a Veteran, I want to be able to easily order the medical devices I need to al
 # Implementation Info
 
 ## Status
+Definition in-progress
 
 ## Technical Decisions
 
@@ -87,7 +103,7 @@ As a Veteran, I want to be able to easily order the medical devices I need to al
 - Product Manager: Nick Wygoink
 - Design Lead: 
 - Eng Lead: 
-- Engineers:
+- Engineers: Amen Ra (FE), Joseph Brothers (BE)
 - Designers: Rebecca Walsh, Riley Orr
    
 ## Screenshots
