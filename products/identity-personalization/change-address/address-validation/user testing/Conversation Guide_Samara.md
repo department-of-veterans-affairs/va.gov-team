@@ -30,7 +30,7 @@ OK, now I am going to turn on the recording.
 
 2. Do you receive benefits from the VA? 
 - (If yes) May I ask which benefits?
-3. Since receiving benefits from the VA, have you ever had to update your mailing address? 
+3. Since receiving benefits from the VA, have you ever had to update your mailing address with the VA? 
 - (If yes) Can you tell me about this experience?
 4. Since receiving benefits from the VA, was there ever a time when you were not receiving mail you expected to receive from the VA? Did you ever find out why you weren't receiving this mail?
 - If yes, figure out if this was because they had the wrong address on file.
