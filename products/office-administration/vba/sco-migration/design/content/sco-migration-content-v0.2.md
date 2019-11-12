@@ -128,7 +128,7 @@ VA will approve schools in some circumstances and for some states that do not ha
 * [Renewal or program amendment application—non-accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf) 
 
 **How do you receive approval for on-the-job training programs?**     
-See our [Approval of On-the-Job Training Programs factsheet](https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf) addressing the following requirements: programs, wages, and facilities.
+See our [Approval of On-the-Job Training Programs fact sheet](https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf) addressing the following requirements: programs, wages, and facilities.
 
 
 ### GI Bill benefits and programs {accordion}
@@ -136,14 +136,14 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 **[About GI Bill benefits >](https://www.va.gov/education/about-gi-bill-benefits/)**   
 
 **Forever GI Bill:**   
-* [Forever GI Bill — Harry W. Colmery Veterans Educational Assistance Act](https://www.benefits.va.gov/gibill/forevergibill.asp)     
+* [Forever GI Bill—Harry W. Colmery Veterans Educational Assistance Act](https://www.benefits.va.gov/gibill/forevergibill.asp)     
 * [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp)     
 * [Veteran Employment Through Technology Education Courses (VET TEC)](https://www.benefits.va.gov/gibill/fgib/vettec.asp)
 
 **Benefits by chapter:**   
 * [Post-9/11 GI Bill (Chapter 33)](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)     
-* [Montgomery GI Bill — Active Duty (MGIB-AD, Chapter 30)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)     
-* [Montgomery GI Bill — Selected Reserve (MGIB-SR, Chapter 1606)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) 
+* [Montgomery GI Bill—Active Duty (MGIB-AD, Chapter 30)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/)     
+* [Montgomery GI Bill—Selected Reserve (MGIB-SR, Chapter 1606)](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) 
 * [Vocational Rehabilitation and Employment (VR&E, Chapter 31)](https://www.va.gov/careers-employment/vocational-rehabilitation/)     
 * [Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)](https://www.va.gov/education/survivor-dependent-benefits/)   
 * [Reserve Educational Assistance Program (REAP, Chapter 1607)](https://www.va.gov/education/other-va-education-benefits/reap/)  
@@ -152,14 +152,14 @@ See our [Approval of On-the-Job Training Programs factsheet](https://www.benefit
 
 **Tuition and housing:**   
 * [Tuition and housing rate tables](https://www.benefits.va.gov/gibill/resources/benefits_resources/rate_tables.asp)     
-* [MHA will be updated based on ZIP code (9/7/2018)](https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf)     
+* [MHA will be updated based on zip code (9/7/2018)](https://www.benefits.va.gov/GIBILL/docs/fgib/107_Students_letter.pdf)     
 * [Post-9/11 GI Bill MHA calculated based on location of campus where majority of classes are attended (7/17/2018)](https://www.benefits.va.gov/GIBILL/docs/fgib/107_SCO_Letter.pdf)
 
 **Other programs and benefits:**   
 * [Yellow Ribbon Program](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)     
 * [Principles of Excellence](https://www.va.gov/education/choosing-a-school/principles-of-excellence/)     
-* [Tuition Assistance (TA) Top Up](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/) 
-* [National Call to Service Program](https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/) 
+* [Tuition Assistance (TA) Top-Up](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/) 
+* [National Call to Service program](https://www.va.gov/education/other-va-education-benefits/national-call-to-service-program/) 
 * [Work study](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/)     
 * [Co-op training](https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/) 
 
@@ -190,21 +190,21 @@ Access revision 5.6.4, current as of September 27, 2019.
 **[FAQs for GI Bill](https://gibill.custhelp.va.gov/app/answers/list/session/L3RpbWUvMTU3MTIxOTM4MS9zaWQvcWxoS0Vzcm8%3D)**  
 Search the FAQs to find answers to popular questions.    
 
-**[Submit a Question](https://gibill.custhelp.va.gov/)**  
+**[Submit a question](https://gibill.custhelp.va.gov/)**  
 Ask a question about GI Bill benefits.   
 
 
 ### Average processing times {mini accordion}
 
-First time applications:  
+First-time applications:  
 **24 days**  
 
 Supplemental claims:  
 **10 days**  
 
-A supplemental claim is a re-enrollment or other change that impacts VA benefits.    
+Average times for education benefits applications. A supplemental claim is a re-enrollment or request for a change that impacts VA benefits.   
 
-See [FAQ](https://www.benefits.va.gov/gibill/navigatinggib.asp) for more information.  
+See our [FAQs](https://www.benefits.va.gov/gibill/navigatinggib.asp) for more information.  
 
 Last updated: October 30, 2019.
 
@@ -221,7 +221,7 @@ Last updated: October 30, 2019.
 
 **Call us**  
 [VA Education Call Center:  
-1-888-GIBILL-1 (1-888-442-4551)](1-888-442-4551)
+[888-442-4551](1-888-442-4551)
 
 [Outside the U.S.:  
 +1-918-781-5678](1-918-781-5678)  
