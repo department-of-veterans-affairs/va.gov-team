@@ -1,5 +1,5 @@
 {
-  "URL": "https://veteran.apps-staging.va.gov/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/{icn}/appointments/system/var/id/8a4886886e375318016e3d8c84760046"
+  "URL": "https://veteran.apps-staging.va.gov/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/{icn}/appointments/system/var/id/8a4886886e375318016e3d8c84760046",
   "patientIdentifier":{
     "uniqueId":"1013124304V115761",
     "assigningAuthority":"ICN"
