@@ -34,14 +34,14 @@ We support designers by providing resources and guidance to enable them to creat
 - Conduct design reviews on prototypes or static screens, and when the designs have been built on staging (coded, interactive flows) **(2 design reviews are required)**
 - Hold reviews and check-ins as needed when the design team iterates based on user feedback, new requirements, etc.
 
-## Resources for designing with best practices on VA.gov
+## <a id="bestpractices"></a>Resources for designing with best practices on VA.gov
 - [VA.gov design system](https://design.va.gov/ "VA.gov design system")
 - [How we work - design culture and norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/NewDesigners/UXOnboarding.md#how-we-work "How we work - design culture and norms")
 - [How we UX](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/NewDesigners/UXOnboarding.md#in-general "How we UX")
 - [Form design process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Design%20Resources/form-design-process.md "Form design process")
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers "508, Accessibility, and Inclusive Design Best Practices")
 
-## When to request VSP design resources
+## <a id="whentorequest"></a>When to request VSP design resources
 You can engage with the VSP Design team anytime throughout the design process. We strongly recommend  that you reach out earlier rather than later so we can give our input before development. After development and when the complete and final build is on staging, a design QA review will be scheduled. Instructions on how to request a design QA review is in the next section. 
 
 **When performing user research**   
@@ -53,7 +53,7 @@ VFS teams can schedule a design review on work in progress or prototypes that yo
 **After development** .   
 VFS teams should schedule a design QA review session when the complete and final build is on staging.
 
-## How to request design reviews
+## <a id="whentorequest"></a>How to request design reviews
 **There are 2 types of design reviews:**
 1. Design intent check-in 
 2. Design Review
@@ -71,7 +71,7 @@ These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on 
 **When to request a Design Review:**
 VFS teams should schedule the Design Review when the designs are ready to be tested with users (prototypes or static screens), and when the designs have been built on staging (coded, interactive flows). You should be having at least 2 Design Reviews with the platform design team for each project, and they should not wait until the product is ready to launch.
 
-## How to request a design QA review:
+## <a id="howtorequest"></a>How to request a design QA review:
 
 **1. File an issue in va.gov-team repo.**
 - Title: Request Design Review
@@ -102,7 +102,7 @@ VFS teams should schedule the Design Review when the designs are ready to be tes
 
 **7. When the issue is closed, this activity is considered complete.**
 
-## Other opportunities for feedback
+## <a id="otheropportunities"></a>Other opportunities for feedback
 
 The platform design team is also available for informal discussions about design challenges and we can help answer questions and point you in the right direction outside of the more formal design reviews and intent check-ins.
 
@@ -115,7 +115,7 @@ Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design 
 **Design in the open    
 We encourage all designers to be open about their process and seek feedback throughout every step. We are all working together to create excellent experiences for Veterans, and we are here to help each other along the way. Designers should share sketches and low-fi mockups of your work in the Slack #design channel. It’s a great way to get quick, asynchronous feedback and it helps to build a culture of transparency and openness.**
 
-## Things to keep in mind when designing for VA.gov
+## <a id="designguidelines"></a>Things to keep in mind when designing for VA.gov
 
 We will be checking this criteria when performing design reviews.
 
@@ -143,5 +143,5 @@ We will be checking this criteria when performing design reviews.
 - Empty states have been accounted for (if applicable)
 - Full/complete states have been accounted for (if applicable)
 
-## Questions?
+## <a id="questions"></a>Questions?
 If you have any questions, please reach out via slack in #vsp-product-support, tag @EmilyWaggoner, and @CrystabelReiter.
