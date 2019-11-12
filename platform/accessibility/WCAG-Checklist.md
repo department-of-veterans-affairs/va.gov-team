@@ -4,6 +4,45 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
 
 ## Part 1: Semantic Structure
 
+<table>
+  <!-- <caption></caption> -->
+  <thead>
+    <tr>
+      <th>Topic</th>
+      <th>Accessibility Requirements </th>
+      <th>WCAG</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Page title</th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th rowspan="2"></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
 | Topic      | Accessibility Requirements                                                                                                                                                                                                                                                                                                                                                                       | WCAG  |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 | **Page title** | **The page MUST have a meaningful title** (e.g. About us), even when included via iframe. <ul><li>Unique information *SHOULD* go first (e.g. “WCAG Checklist”).</li> <li>Result pages *SHOULD* describe the result (e.g. “Error on form” or “Search results loaded”).</li> <li>Single-page applications and AJAX scripts *SHOULD* update the title when the URL changes or, when the page content changes significantly.</li></ul> | [2.4.2](https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html) |
