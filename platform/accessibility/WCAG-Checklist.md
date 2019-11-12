@@ -17,24 +17,24 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
   </thead>
   <tbody>
     <tr>
-      <th>
+      <th valign="top">
         Page title
       </th>
       <td>
         **The page MUST have a meaningful title** (e.g. About us), even when included via iframe. <ul><li>Unique information *SHOULD* go first (e.g. “WCAG Checklist”).</li> <li>Result pages *SHOULD* describe the result (e.g. “Error on form” or “Search results loaded”).</li> <li>Single-page applications and AJAX scripts *SHOULD* update the title when the URL changes or, when the page content changes significantly.</li></ul>
       </td>
-      <td>
+      <td valign="top">
         [2.4.2](https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html)
       </td>
     </tr>
     <tr>
-      <th rowspan="2">
+      <th rowspan="2" valign="top">
         Language
       </th>
       <td>
         **The page MUST specify the language** (&lgt;html lang="en"&gt;).
       </td>
-      <td>
+      <td valign="top">
         [3.1.1](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html)
       </td>
     </tr>
@@ -42,7 +42,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
       <td>
         **Changes in the language within the page MUST be specified** (e.g. &lgt;span lang="es"&rgt;Hola&lgt;/span&rgt;).
       </td>
-      <td>
+      <td valign="top">
         [3.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html)
       </td>
     </tr>
