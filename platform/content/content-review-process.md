@@ -85,9 +85,10 @@ Please also tag the issue with:
 - Label used by your team (for example, ```VAOS``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 -	Assign issue to @peggygannon
 
-4. Once the Content Review is finished:
-- The content editor will upload a list of content recommendations to the Zenhub issue. 
-- If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
+
+4. Once the Content Review is finished the content editor will upload a list of content recommendations to the Zenhub issue. 
+If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
+
 
 5. A Content Review issue can be closed once all the content recommendations have been implemented and the inputs checked.  
 
