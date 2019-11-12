@@ -21,7 +21,7 @@ Resources for schools is a one-stop shop for School Certifying Officials (SCOs) 
 **[9/19/2019—VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**    
 **[9/10/2019—Yellow Ribbon Program information available for 2019-2020 academic year](https://www.benefits.va.gov/gibill/news.asp)**  
 
-[See past updates…](https://www.benefits.va.gov/gibill/news.asp)  
+[See past announcements…](https://www.benefits.va.gov/gibill/news.asp)  
 
 {If no announcements are available, display "No new announcements are available at this time." in addition to "See past updates..." link}
 
