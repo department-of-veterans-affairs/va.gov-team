@@ -42,19 +42,19 @@ For medium to large projects, there are two checkpoints.
 
 2. **Design Review Checkpoint** — *Integrated with VSP* — [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
-    Accessibility design review considerations:
+    The accessibility special will review the following items to align with WCAG:
 
-    a. Mobile design
+    a. Mobile design - including performance implications for assistive technology and impact on the diverse audience (such as those with challenging connectivity or limited data plans)
     
     b. Laptop/desktop design
         
     c. Semantic heading order
 
-    d. Spacing of interactive items
+    d. Spacing of interactive items – for example, is the spacing sufficient to ensure people don't accidentally select something other than what they meant to?
         
-    e. Cognitive impact
+    e. Cognitive impact – in the words of [Steve Krug](http://sensible.com/), *don't make me think!* Design should be clear, not overwhelming.
         
-    f. Plain language
+    f. Plain language - supplementing the content review, accessibility will ensure compliance with WCAG.
         
     g. Consistency & best practices to align with the [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
         
