@@ -1,7 +1,8 @@
-# Requesting Redirects - DRAFT
+# Requesting Redirects
 
 If you have a URL (or multiple URLs) that need to be redirected, please request the redirect via an issue in Zenhub in the ```va.gov-team repo```. 
 
+All redirects will be routed through Content and IA team for validation and then assigned to the appropriate technical team for implementation. 
 
 1. Create an issue using the standard issue template
 
