@@ -1,5 +1,10 @@
 # UX Weekly Meeting Agenda
 
+## Wednesday November 8th
+* Shawna talk about survey results, discuss “document dilemma”
+* Shawna conference take-aways
+* Feedback session - Aricka + Facility Locator
+
 ## Wednesday October 23rd
 
 * Shawna update on round-robin approach and feedback
