@@ -1,15 +1,6 @@
 # VSA Research Process
 Questions? Contact Shawna Hein (shawna@adhocteam.us).
 
-Process
-Setup
-Recruiting
-Taking Notes
-Recorded Interviews
-Running the Sessions
-Synthesis
-Other Resources
-
 ## Process
 There is a basic process we should use when planning and implementing research within the VSA contract.  DSVA’s updated process document can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2019_updated_research_process.md). Please read that process doc first and then read the rest of this one for more tips/details.
 
