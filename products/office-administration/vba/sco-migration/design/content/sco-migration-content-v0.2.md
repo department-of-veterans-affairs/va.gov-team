@@ -4,7 +4,7 @@ Breadcrumb: [Home](https://www.va.gov/) > School administrators
 
 ## Page Title: Resources for schools {H1}
 
-Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students pursuing education and training with VA benefits. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.  
+Resources for schools is a one-stop shop for School Certifying Officials (SCOs) and school administrators assisting students who are using their VA benefits to pursue education and training programs. Find trainings, resources, guides, and information on GI Bill programs to support military-connected students.  
 
 **On this page**   
 * Training and guides {jump link}
@@ -17,33 +17,35 @@ Resources for schools is a one-stop shop for School Certifying Officials (SCOs) 
 
 
 #### Latest announcements from VA
-**[10/1/2019 – VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**   
-**[10/19/2019 – Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**  
-**[7/10/2019 – Yellow Ribbon Program information available for 2019-2020 academic year](https://www.benefits.va.gov/gibill/news.asp)**  
+**[10/1/2019—Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**   
+**[9/19/2019—VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**    
+**[9/10/2019—Yellow Ribbon Program information available for 2019-2020 academic year](https://www.benefits.va.gov/gibill/news.asp)**  
 
-[See past updates…](https://www.benefits.va.gov/gibill/news.asp)
+[See past updates…](https://www.benefits.va.gov/gibill/news.asp)  
+
+{If no announcements are available, display "No new announcements are available at this time." in addition to "See past updates..." link}
 
 
 ## Training and guides {H2} 
 
-Get training and boost your skills using these resources for School Certifying Officials (SCOs) serving military-connected students.
+Use these resources to get training and boost your skills to help support military-connected students.
 
-**[Required 2019 training for School Certifying Officials (SCOs) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)**   
-Required if your school has 20 or more GI Bill students.
+**[Required 2019 training for SCOs >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/online_sco_training.asp)**   
+Required if your school has 20 or more GI Bill students
 
 
-### Essentials for School Certifying Officials {accordion}
+### Essentials for SCOs {accordion}
 
-**[School Official’s Handbook >](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)     
-[VA-ONCE quick reference guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)  
+**[School Certifying Official Handbook >](https://www.benefits.va.gov/GIBILL/docs/job_aids/SCO_Handbook.pdf)     
+[VA-ONCE Quick Reference Guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)  
 [Find your Education Liaison Representative (ELR) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)   
 [Training webinars >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)     
 [WEAMS Public >](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)     
 [Benefits A to Z >](https://benefits.va.gov/atoz/)   
-[Check your status as a Covered Institution >](https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp)**   
+[Check your status as a covered institution >](https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp)**   
 
 **Reporting:**   
-* [General school responsibility factsheet](https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf)
+* [General school responsibility fact sheet](https://www.benefits.va.gov/GIBILL/docs/factsheets/post-911_school_responsibilities.pdf)
 * [Process for reporting students on academic probation](https://gibill.custhelp.com/app/answers/detail/a_id/1436/)
 
 
@@ -51,13 +53,13 @@ Required if your school has 20 or more GI Bill students.
 
 **[Launch VA-ONCE >](https://vaonce.vba.va.gov/vaonce_student/default.asp)**     
 Use VA-ONCE to submit VA Forms 22-1999, 22-1999b, and 22-6553c online.  
-**[VA-ONCE quick reference guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)   
+**[VA-ONCE Quick Reference Guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)   
 [Memorandum of Understanding (MOU) >](https://www.benefits.va.gov/GIBILL/resources/education_resources/mou.html)**     
-To gain access to VA-ONCE, start the MOU online, print it and gather the appropriate signatures, then mail it to your [Education Liaison Representative (ELR)](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp).   
-**[VA-ONCE P042 - Training on enhancements in newest version >](https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt)     
+TTo gain access to VA-ONCE, start the MOU online, print it, and gather the appropriate signatures, then mail it to your [ELR](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)     
+**[VA-ONCE P042—Training on enhancements in newest version >](https://www.benefits.va.gov/gibill/docs/vaonce/VA-ONCE_P042_Training.ppt)     
 [User tips for VA-ONCE >](https://www.benefits.va.gov/gibill/docs/vaonce/va-once_tips.pdf)   
 [Automation of Post-9/11 GI Bill benefits and VA-ONCE remarks >](https://www.benefits.va.gov/GIBILL/docs/letters/Automation_of_Post911_GI_Bill_and_VAONCE_Remarks.pdf)     
-[Top ten list of what not to report in VA-ONCE >](https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf)  
+[Top 10 list of what not to report in VA-ONCE >](https://www.benefits.va.gov/GIBILL/docs/vaonce/Tips_for_VA-ONCE_Remarks.pdf)  
 [Colmery extension campus update webinar (July 2019) >](https://www.benefits.va.gov/GIBILL/docs/SCO/Ext_Campus_SCO_Virtual_Webinar.pdf)**   
 
 **Extension campus certification scenarios:**   
@@ -65,65 +67,65 @@ To gain access to VA-ONCE, start the MOU online, print it and gather the appropr
 * [Certification for distance hours at an extension campus](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_2.pdf)   
 * [Reduction of hours at an extension campus](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_3.pdf)   
 * [All credit hours dropped at an extension campus](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_4.pdf)    
-* [Certification at a main and two extension campuses with non-standard terms](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_5.pdf)  
+* [Certification at a main and 2 extension campuses with non-standard terms](https://www.benefits.va.gov/GIBILL/docs/SCO/Open_House_VAONCE_Scenario_5.pdf)  
 
 **VA-ONCE demo recordings:**   
 * [Overview of VA ONCE: Certifying an enrollment at an extension campus](https://youtu.be/QuE8tecwGo4)
 * [Certifying at a main and multiple extension campuses](https://youtu.be/1QWwQ_s0jwE)
 * [Certifying distance hours and hours at an extension campus](https://www.youtube.com/watch?v=rZrd2vt_LD0&feature=youtu.be) 
-* [Reduction of hours for student taking courses at main and extension campus](https://youtu.be/XlYQa_-6_qs)  
+* [Reduction of hours for student taking courses at a main and extension campus](https://youtu.be/XlYQa_-6_qs)  
 
 **Non-traditional schools:**   
-* [How-to guide for On-the-Job Training (OJT) and Apprenticeship schools](https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf)
+* [How-to guide for on-the-job training (OJT) and apprenticeship schools](https://www.benefits.va.gov/GIBILL/docs/vaonce/HowToOJTAPPSchools.pdf)
 * [VA-ONCE how-to guide for flight schools](https://www.benefits.va.gov/gibill/docs/vaonce/va-once_flight_training.pdf) 
 
 
 ### Payment and debt {accordion}
 **[Payment and debt information resources >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/payment_info.asp)       
 [Direct deposit information for schools >](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1428/~/how-can-my-school-enroll-in-ach-direct-deposit%2C-or-change-its-ach-direct)      
-[School overpayments and using Dual Certification Process to avoid them >](https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf)      
+[School overpayments and using dual certification process to avoid them >](https://www.benefits.va.gov/GIBILL/docs/DualCertificationTips.pdf)      
 [The Treasury Offset Program: How to receive your state and federal funding >](https://www.benefits.va.gov/gibill/docs/job_aids/Treasury_TOP_Q_A.pdf)  
 [Payment fees updated with correct tuition and fees caps (9/17/2018) >](https://www.benefits.va.gov/GIBILL/docs/fgib/107_TandF_SCO_letter.pdf)**
 
 
 ## Upcoming events {H2} 
 
-**[Arizona Veterans Program Association-2019 Fall Mini-Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)   
-November 1, 2019 — Mesa, AZ**
+**[Arizona Veterans Program Association-2019 fall mini-conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)   
+November 1, 2019—Mesa, AZ**
 
 **[Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  
-November 4–6, 2019 — Stillwater, OK**
+November 4–6, 2019—Stillwater, OK**
 
 **[VBA Education Service 1st Quarterly Webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
-December 19 & 20, 2019 — Online** 
+December 19 & 20, 2019—Online** 
 
-See full list of [Conferences and Events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training Webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp) 
+See full list of [Conferences and events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp) 
 
 
 ## Policies and procedures {H2} 
 
-**[VA education forms, brochures and factsheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)** 
+**[VA education forms, brochures, and fact sheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)** 
 
 
 ### GI Bill program approval process {accordion}
 
-**Where does a facility begin the process of GI Bill program approval?**     
-The approval authority for GI Bill programs generally begins with the individual states via the [State Approving Agency (SAA)](http://www.nasaa-vetseducation.com/Contacts.aspx) of jurisdiction.  Contact your SAA for approval of education and training programs in your respective state. They are the pathway into VA for a program's recognition and identification as being eligible for the payment of VA education benefits.
+**How does a facility begin the process of GI Bill program approval?**     
+The approval process for GI Bill programs generally begins with the [State Approving Agency (SAA)](http://www.nasaa-vetseducation.com/Contacts.aspx) of jurisdiction.  Contact your SAA to seek approval for education and training programs in your respective state. They’re the path to a program’s eligibility for payment of VA education benefits.   
 
 **[Education program approval guidelines >](https://gibill.custhelp.va.gov/app/answers/detail/a_id/1481/kw/1481)**   
 
 **When is VA responsible for approval of education and training programs?**   
-VA is responsible for approvals in some circumstances and for some states that do not have an SAA assigned. If you fall into one of these groups, your application will be reviewed by VA.
+VA will approve schools in some circumstances and for some states that do not have an SAA assigned. If you fall into one of these groups, VA will review your application.
 * [Foreign school program approval](https://www.benefits.va.gov/gibill/foreign_program_approval_information_for_schools.asp)
 * [California](ca-approvals@va.gov)  
 
 **[Information for students wishing to attend foreign schools >](https://benefits.va.gov/gibill/foreign_schools.asp)**   
 
-**Applications for jurisdictions where VA is acting as State-Approving-Agency (SAA):**   
-* [New application for approval — accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf) 
-* [New application for approval — non-accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Non-Accredited_Program.pdf) 
-* [Renewal or program amendment application — accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Accredited_Application.pdf) 
-* [Renewal or program amendment application — non-accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf) 
+**Applications for jurisdictions where VA is acting as SAA:**   
+* [New application for approval—accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Accredited_Program.pdf) 
+* [New application for approval—non-accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Initial_School_Approval_Non-Accredited_Program.pdf) 
+* [Renewal or program amendment application—accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Accredited_Application.pdf) 
+* [Renewal or program amendment application—non-accredited institutions](https://www.benefits.va.gov/GIBILL/docs/SAAForms/VA_Continued_Renewal_Non_Accredited_Application.pdf) 
 
 **How do you receive approval for on-the-job training programs?**     
 See our [Approval of On-the-Job Training Programs factsheet](https://www.benefits.va.gov/gibill/docs/factsheets/Approval_of_OJT.pdf) addressing the following requirements: programs, wages, and facilities.
