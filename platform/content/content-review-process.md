@@ -93,5 +93,5 @@ If your team has questions (or disagrees with a requested change), use the Zenhu
 5. A Content Review issue can be closed once all the content recommendations have been implemented and the inputs checked.  
 
 
-## If you need help
+## If you have questions
 If you have any questions, please send me message via Slack (@Peggygannon). Feel free to reach out with any questions or feedback!  
