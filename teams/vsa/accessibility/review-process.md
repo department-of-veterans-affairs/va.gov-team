@@ -4,6 +4,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
 ## Table of Contents
 
+- [Small projects](#small-projects)
 - [Milestones](#milestones)
 - [Design Review](#design-review)
   - Design Intent Checkpoint
@@ -11,7 +12,10 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 - [Development Review](#development-review)
   - Design-Development Intent Checkpoint
   - Pre-launch 508 Review Checkpoint
-  
+ 
+ ## Small Projects
+ For small projects that are only a few days of work, there's no need to go through the whole review process. Instead, message the VSA accessibility specialist (Jennifer Strickland) in Slack to arrange a review.
+ 
 ## Milestones
 *Will be updated to align with the forthcoming VSP Design Rules of Engagement*
 - Assigned to project
@@ -23,7 +27,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
 ## Design Review
 
-There are two checkpoints
+For medium to large projects, there are two checkpoints. 
 1. **Design Intent Checkpoint** — *Integrated with VSP design check-ins:* [Schedule a design intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
     a. For VSA projects, involve the VSA accessibility specialist in early discussions about needs, priorities, concepts, research planning, and direction to ensure potential accessibility concerns are nipped in the bud. This could look like an initial kickoff with all team members, plus shared resources, in attendance, or if it is for a smaller component scheduling a call to review the work together. 
@@ -52,7 +56,7 @@ There are two checkpoints
         
     f. Plain language
         
-    g. Consistency & best practices
+    g. Consistency & best practices to align with the [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
         
     h. Mobile-only interactions
         
@@ -68,9 +72,9 @@ There are two checkpoints
 
 There are two checkpoints:
 
-1. **Design-Development Intent Checkpoint** — [Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md) - This would happen as the design is passed to development, before beginning development.
+1. **Design-Development Intent Checkpoint** — [Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md) - This review happens as the design is passed to development, before beginning development. The accessibility specialist(s) will review the design with the developer(s) to:
 
-    a. Review design with the VSP/VSA to discuss approach to take with development
+    a. Discuss approach to take with development, for WCAG compliance
 
     b. Identify what components and semantic HTML would be appropriate
 
