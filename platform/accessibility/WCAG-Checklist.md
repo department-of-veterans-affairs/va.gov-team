@@ -4,6 +4,8 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
 
 ## Part 1: Semantic Structure
 
+*Rebuilding the table in HTML to use rowspan*
+
 <table>
   <!-- <caption></caption> -->
   <thead>
@@ -15,9 +17,15 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
   </thead>
   <tbody>
     <tr>
-      <th>Page title</th>
-      <td></td>
-      <td></td>
+      <th>
+        Page title
+      </th>
+      <td>
+        **The page MUST have a meaningful title** (e.g. About us), even when included via iframe. <ul><li>Unique information *SHOULD* go first (e.g. “WCAG Checklist”).</li> <li>Result pages *SHOULD* describe the result (e.g. “Error on form” or “Search results loaded”).</li> <li>Single-page applications and AJAX scripts *SHOULD* update the title when the URL changes or, when the page content changes significantly.</li></ul>
+      </td>
+      <td>
+        [2.4.2](https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html)
+      </td>
     </tr>
     <tr>
       <th rowspan="2"></th>
