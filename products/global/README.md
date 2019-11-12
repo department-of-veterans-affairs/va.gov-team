@@ -1,37 +1,41 @@
-# Global
-Welcome to the Global folder. This directory contains information about the sitewide user-facing components on Va.gov. 
+# Teamsite Product Outline
 
-Browse through the product folders to find all the details, background, contacts, and status of all the global components. 
+## Communication Channels 
+- Github Label: [team-site](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22team-site%22+)
+- Slack Channel: #platypus-tools-team
+- Keywords: Teamsite
 
-Product Managers are responsible for keeping these directories up-to-date and well-organized. If you have a question and can't find the answer, don't hesitate to send a message to the #vfs-product channel in Slack.
+## Points of Contact
+- VA Business Stakeholders
+  - Teamsite Manager: Josh Tuscher Joshua.Tuscher@va.gov 
+- DSVA Product Owner: Chris Johnston Christopher.Johnston2@va.gov 
+- Ad Hoc Product Manager: Ryan Luu ryan.luu@adhocteam.us
+- Engineering POCs:
+  - Frontend: Rian Fowler rian.fowler@adhocteam.us
 
-## Global Components
+## Narrative
+To achieve consistent navigation and branding across VA.gov pages, a client side script is used to overwrite the Teamsite header and footer. The [Teamsite Overview](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/architecture/teamsite/#teamsite-overview) covers the high level technical challenges.
 
-**Home Page**
-This includes documentation on the main area of the home page, excluding the header and footer.
-- Top tasks
-- Benefit hub links
-- Primary actions
-- Stories
+## Current Status
 
-**Header, Footer and Navigation**
-- Header
-- Footer
-- Top Nav
-- Left Nav
-- Breadcrumbs
-- Jump Links Documentation on the header
+- No major updates since January. 
+- Development is complete but VA.gov header has not been released to all Teamsite pages.
 
-**Search**
+## How to Access / Test
 
+| Site | Production | Test (staging) |
+| --- | --- | --- |
+| Veterans Health Adminstration | https://www.va.gov/health | https://staging.va.gov/health/?targetEnvironment=vagovstaging |
+| Veterans Benefits Administration | https://benefits.va.gov/benefits/ | https://benefits.va.gov/benefits/?targetEnvironment=vagovstaging |
+| National Cemetary Administration | https://www.cem.va.gov/ | https://www.cem.va.gov/?targetEnvironment=vagovstaging | 
+| Choose VA | https://www.choose.va.gov/ | https://www.choose.va.gov/?targetEnvironment=vagovstaging |
 
-**Banners**
-- Global alerts
-- Promo banners
+_All Teamsite pages on www.va.gov will show the header. There is not a complete list of Teamsite pages on www.va.gov._
 
+_See [Teamsite Behavior and Whitelisting Pages](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/architecture/teamsite/#teamsite-behavior-and-whitelisting-pages) for information on how to add the VA.gov header to additional subdomains_
 
-**Global Form Features**
-- Form pre-fill
-- Save in Progress
+## Error Handling
+- Not defined at this point
 
-
+## Monitoring/SLO information 
+- No thresholds have been set for the injected header up to this point
