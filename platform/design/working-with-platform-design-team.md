@@ -16,11 +16,13 @@ This document will help all teams working on VA.gov understand when you should e
 - Get a tour of how we UX! We’ll show you around the tools, services, support, and documentation available to you. We will schedule a design breakout with you and team members 
 
 **Discover**
-- Use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users  
+- Use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users.  
+- Get feedback on your work with a **Design Intent Check-in**, and drop in on Platform Design Office Hours
 
 **Build**
 - Use the sketch pattern library to build out designs  
-Use our research guides for user testing, and update your content and features based on what you learn. 
+- Use our research guides for user testing, and update your content and features based on what you learn
+- Get at least 2 **Design Reviews** as you build out your flows
 
 ## <a id="whatdoesVSPdesigndo"></a>What does the VSP design team do
 We support designers by providing resources and guidance to enable them to create excellent Veteran-centered experiences. 
@@ -50,13 +52,14 @@ We can help facilitate user research, review research plans and conversation gui
 VFS teams can schedule a design review on work in progress or prototypes that you’re planning on testing. 
 
 **After development** .   
-VFS teams should schedule a design QA review session when the complete and final build is on staging.
+VFS teams should schedule a design review session when the complete and final build is on staging.
 
-## <a id="whentorequest"></a>How to request design reviews
+## <a id="whentorequest"></a>Design Check-ins and Reviews
 **There are 2 types of design reviews:**
 1. Design intent check-in 
 2. Design Review
 
+### Design Intent Check-in
 **When to request a design intent check-in:**  
 Before any high-fidelity designing takes place to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
 Your designs can be in the early stages like whiteboard or pencil sketches/low-fidelity or more built out, for example, mockups or prototypes. 
@@ -67,10 +70,11 @@ Your designs can be in the early stages like whiteboard or pencil sketches/low-f
 These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
 - During the meeting you can provide full context on your design and we can talk through any suggestions or feedback during the meeting and after.
 
+### Design Reviews
 **When to request a Design Review:**
 VFS teams should schedule the Design Review when the designs are ready to be tested with users (prototypes or static screens), and when the designs have been built on staging (coded, interactive flows). You should be having at least 2 Design Reviews with the platform design team for each project, and they should not wait until the product is ready to launch.
 
-## <a id="howtorequest"></a>How to request a design review:
+**<a id="howtorequest"></a>How to request a design review:**
 
 **1. File an issue in va.gov-team repo.**
 - Title: Request Design Review
