@@ -4,6 +4,8 @@ If you have a URL (or multiple URLs) that need to be redirected, please request 
 
 All redirects will be routed through Content and IA team for validation and then assigned to the appropriate technical team for implementation. 
 
+*Redirects should be requested 2 weeks in advance to ensure they are properly vetted and an implementation approach can be identified.*
+
 1. Create an issue using the standard issue template
 
 2. Title the issue "Redirect Request: [name of page/description of pages]"
@@ -19,7 +21,7 @@ Current Page/URL  |  Redirect to
 www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/
 
 6. Please tag the issue with:
-- Team/Practice Area label  - `content-ia-team` and `ia`
+- Content and IA team labels  - `content-ia-team` and `ia` 
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 - Assign issue to @mnorthuis, @meganhkelley 
 
