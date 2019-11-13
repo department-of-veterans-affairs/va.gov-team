@@ -93,9 +93,10 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 - Be respectful, both online and off
 - Show your face (Webcam) at meetings / calls
 - Speak up! - everyone’s voice matters
-- We are flexible, but intentional in the way we work
-- Overcommunication is key
+- Overcommunication is key — set your Slack status or let folks know when you're busy or offline
 - Escalate the medium, not the tone
+
+- We are flexible, but intentional in the way we work
 - Let’s have fun and do great work!
 
 #### Slack:
