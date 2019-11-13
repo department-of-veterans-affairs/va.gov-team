@@ -57,7 +57,7 @@ We plan to draw from the existing recruiting contract
 Testing materials are ready
 
 **3. Length of Sessions:**   
-30 minutes 
+1 hour 
 
 **4.	Availability: If applicable, when would you like sessions scheduled?**  
 Crystabel and Emily’s availability: 
