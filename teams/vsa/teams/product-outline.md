@@ -59,22 +59,22 @@ Prioritizations identified for Benefits and Memorials on va.gov align with other
 Onboarding, access and domain knowledge has some upfront challenges.
 
 ## Discovery Takeaways
-The key to implementing what has been learned is at least two-fold: stay organized and communicate as much as possible.  Notes are useless if they cannot be easily access and talking things through with your team allows for shared understanding, team cohesion and improved culture. 
+The key to implementing what has been learned is at least two-fold: stay organized and communicate as much as possible.  Notes are useless if they cannot be easily accessed and talking things through with your team allows for shared understanding, team cohesion and improved culture. 
 
 ## Solution Approach
-Begin migration process with documentation of simpler **view** tasks to learn the stacks and process and perfect the process with repeatability in mind and continue with **view** tasks as priorities permit.  Next might be more complicated "**submit** tasks and having the **view** task foundation will be tremendously helpful.
+Identify and prioritize roadmap.
 
 ## Value Propositions
 Probably the largest is the placement of resources closer to the user and their anticiapted increased usage.
 
 #### User Value
-Not having to dig and deal with any confusion as to where a benefit can be found.
+Having the same type of experience on a government website as they would on a private company website.
 
 #### Business Value
 Money spent on programs at the VA will be better utilized.
 
-## KPIs
-Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.
+## [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/VA%20KPI%20Setting%20-%20VSA%20Benefits%20and%20Appeals.xlsx)
+
 
 ---
 
@@ -84,13 +84,13 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 In progress
 
 ## Solution Narrative
-- **September 2019**: Began discovery of eBenefits in general, chose "View my rated disabilities" as the first feature to migrate
-- **October 2019**: Finalizing "View my rated disabilities" and started discovery of "View and update my dependents"
+- **September 2019**: Established roadmap prioritizations, began work on Higher Level Review and Origial Claims 
+- **November 2019**: Finalizing "Higher Level Review" and "Original Claims"; started discovery of "Notice of Disagreement" and "BDD"
 
 ## How to Access and Test
-- Link: Access PINT2: https://pint.ebenefits.va.gov/ebenefits-portal/pint2 OR https://pint.ebenefits.va.gov/ (if you need to try both, you'll need to have a new session open with a cleared cache to enter the other site.
+- Link: [526 Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction): 
 - Password protection info:
-- User authentication info: Update passwords both [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/ds%20logon/ds-logon-lower-env-test-accounts.md) and [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
+- User authentication info: 
 
 ## Error Handling
 ...
