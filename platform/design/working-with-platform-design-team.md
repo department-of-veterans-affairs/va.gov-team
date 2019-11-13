@@ -90,7 +90,7 @@ VFS teams should schedule the Design Review when the designs are ready to be tes
 
 **2. Slack Crystabel Reiter or Emily Waggoner and let us know the issue was created. We will schedule an in-person review or will review asynchronously as we see fit.**
 
-**3. Within 4 business days, VSP will conduct a Design Review using the [checklist at the bottom of this document.](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md#design-qa-checklist)**
+**3. Within 4 business days, VSP will conduct a Design Review using the [checklist at the bottom of this document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov)**
 - If you don't hear anything after 4 business days, reach out to your DSVA Contact.
 
 **4. VSP will update the Github issue with screenshots to show where design needs to be changed.**
@@ -107,10 +107,10 @@ VFS teams should schedule the Design Review when the designs are ready to be tes
 The platform design team is also available for informal discussions about design challenges and we can help answer questions and point you in the right direction outside of the more formal design reviews and intent check-ins.
 
 **Platform Design Office Hours**  
-Every Tuesday from 3-4pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. Add the event to your calendar here.
+Every Tuesday from 3-4pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. [Add the event to your calendar here.](https://calendar.google.com/event?action=TEMPLATE&tmeid=Nmx2aW5rczVhZXB0bTJwcTNoc2Z2ZGRnN2JfMjAxOTExMTJUMjAwMDAwWiBlbWlseUBhZGhvY3RlYW0udXM&tmsrc=emily%40adhocteam.us&scp=ALL)
 
 **Design + Content + Research sync**  
-Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design on VA.gov is invited to get together for an hour to show-and-tell, get feedback, share research, and collaborate on tough design problems. We plan the agenda ahead of time for this meeting, so let @emily know in Slack if you’d like to get on the list! Add the event to your calendar here.
+Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design on VA.gov is invited to get together for an hour to show-and-tell, get feedback, share research, and collaborate on tough design problems. We plan the agenda ahead of time for this meeting, so let @Emily Waggoner know in Slack if you’d like to get on the list! [Add the event to your calendar here.](https://calendar.google.com/event?action=TEMPLATE&tmeid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2bDMzMGQxbTZncmo4aDltNzBxazhkOWc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmtwNGNoOWs2NTIzaWMxbTY0c2o4aDlrNjkxMzZjaGw2dDJqZWhoZzc1MGpnZTFpOGNzZ18yMDE5MTExOFQxODAwMDBaIGVtaWx5QGFkaG9jdGVhbS51cw&tmsrc=emily%40adhocteam.us&scp=ALL)
 
 **Design in the open    
 We encourage all designers to be open about their process and seek feedback throughout every step. We are all working together to create excellent experiences for Veterans, and we are here to help each other along the way. Designers should share sketches and low-fi mockups of your work in the Slack #design channel. It’s a great way to get quick, asynchronous feedback and it helps to build a culture of transparency and openness.**
