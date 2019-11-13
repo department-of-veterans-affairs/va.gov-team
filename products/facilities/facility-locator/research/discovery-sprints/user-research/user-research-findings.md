@@ -33,6 +33,7 @@ The following are recommendations to consider during the redesign of the Facilit
   - Phone number
   - Today's hours
   - Directions
+  - Service selected
 - Include a "preparing for your visit" section on the facility detail pages that include:
   - Physical information like parking, on-site directions, wheelchair availability information
   - Services and doctors
