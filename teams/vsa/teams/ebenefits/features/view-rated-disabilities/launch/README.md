@@ -57,17 +57,19 @@ _These links/reviews may end up being consolidated, stay tuned._
 ### Usability
 - [x] Create a [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
   - [ ] Is the entry point established?
-  - [ ] Is there a better entry point?
+    - A gateway link has not yet been determined as a final location
+    - There have been discusssions about linking back and forth with the Rated Disbalities Tool from the Disbailities Rating Calculator
 - [x] 508 Compliance
   - [x] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
   - [x] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
-  - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  
+  - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  _Checking with Trevor on this_
 
 ## Development
 _Do we need to merge the FE and BE tasks?_  
 ### General Engineering Tasks  
 - [ ] Documentation for quickly addressing when things go wrong  
-- [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely?  
+- [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely? 
+ 
 ### Backend Tasks  
 - [ ] Investigation of applicable services  
   - [x] Does the feature use the `vets-api` or `EVSS` service?
@@ -77,12 +79,12 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Investigate  the common area for error types
   - [x] Define or reference a known resource
 - [ ] For PRs: first review internally with BE or another engineer before the BE Team
-  - [ ] Once internally reviewed, share with the BE Review Team at the VSP (team name?)
-  - [ ] Ensure that feature flags are set appropriately to be toggled
+  - [ ] Once internally reviewed, share with the BE Review Team at VSP (team name?)
+  - [x] Ensure that feature flags are set appropriately to be toggled
 - [ ] Documentation and points of contact for any new backend dependencies
-- [ ] Links to important dashboards for investigating relevant issues
+
 ### Frontend Tasks
-- [ ] Investigation
+- [x] Investigation
   - [x] What will be involved in using the `vets-api`service to pull and display data?
   - [x] List and define what the main components will be for the feature to function properly
   - [x] Collaborate with Backend on Error Handling
@@ -92,19 +94,21 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
   - [x] Ensure that feature flags are set appropriately to be toggled
   - [x] Entrance pages (i.e. supporting static content) in place
-### Security/ATO - ON HOLD until Andrea Hewitt reaches out
+
+### Security/ATO - `ON HOLD until Andrea Hewitt reaches out`
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?  Same as QA?
 - [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
 - [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-preliminary-ato-review)
 - [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-pre-launch-ato-review)
+
 ### QA
-`-` [ ] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform 
+- [x] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform [#3099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3099)
 
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
-  - [ ] Build, test, audits (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
-  - [ ] Code coverage requirements
+  - [ ] Build, test, audit (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
+  - [x] Code coverage requirements (unit tests)
 - [x] Develop testing infrastructure, refer to established documentation  
 - [ ] Define threshold or definition of high-severity bugs
 - [ ] Document any high-severity bugs for future reference  
@@ -117,11 +121,11 @@ _Do we need to merge the FE and BE tasks?_
 - [x] Confirm that the new feature/product is stable and visible in staging.va.gov  
 - [x] Engage with the Analytics Team about what is to be launched  
 - [x] Review [KPI/metrics spreadsheet](https://docs.google.com/spreadsheets/d/1Zy_m5s6zrhmgKaUacYo2MLRmDjtJNhVKSeyeSeAtVec/edit#gid=1554481611)
-`-` [x] EStablish baseline metrics for later analysis
+- [x] EStablish baseline metrics for later analysis
 
 ## Support
 - [ ] Does the Call Center have documentation?
-  - [ ] Draft as needed.
+  - [ ] Draft as needed
 - [ ] Have they asked for anything else?
 - [ ] Establish a point of contact for the Call Center 
 
@@ -140,10 +144,10 @@ _Do we need to merge the FE and BE tasks?_
   - [ ] Include contact information in case further discussion is required
 
 ## Launch
-- [ ] Go/No-go from each team member
 - [ ] Define what is being tracked
 - [ ] Define other last minute items
 - [ ] Review the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [ ] Go/No-go from each team member
 
 ## Post-Mortem
 - [ ] List and define any issues that impeded the process
