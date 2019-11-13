@@ -90,7 +90,7 @@ VFS teams should schedule the Design Review when the designs are ready to be tes
 
 **2. Slack Crystabel Reiter or Emily Waggoner and let us know the issue was created. We will schedule an in-person review or will review asynchronously as we see fit.**
 
-**3. Within 4 business days, VSP will conduct a Design Review using this [Checklist](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md#design-qa-checklist "Checklist")**
+**3. Within 4 business days, VSP will conduct a Design Review using the [checklist at the bottom of this document.](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md#design-qa-checklist)**
 - If you don't hear anything after 4 business days, reach out to your DSVA Contact.
 
 **4. VSP will update the Github issue with screenshots to show where design needs to be changed.**
