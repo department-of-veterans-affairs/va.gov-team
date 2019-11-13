@@ -1,7 +1,8 @@
 # Facility Locator Roadmap (WIP)
 
-Providing a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about facilities offering VA benefits and services 
+Providing a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about facilities offering priority VA benefits and services. 
 
+*Timelines and priorities stated below are subject to change.*
 
 ## Product Goals 
 - Eliminate bugs 
