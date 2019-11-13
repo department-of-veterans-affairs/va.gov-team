@@ -102,7 +102,9 @@ December 19 & 20, 2019—Online**
 See full list of [Conferences and events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp) 
 
 
-## Policies and procedures {H2} 
+## Policies and procedures {H2}   
+
+Learn about policies and procedures that apply to GI Bill legislation and VA educational programs and benefits.   
 
 **[VA education forms, brochures, and fact sheets >](https://www.benefits.va.gov/GIBILL/handouts_forms.asp)** 
 
