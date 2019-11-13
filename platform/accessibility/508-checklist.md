@@ -55,7 +55,7 @@ This checklist is a work-in-progress. Currently, this is a rather high-level ove
      2. Semantic tags used correctly & consistently with VA.gov conventions
      3. Keep page layout simple & concise
 2. Employ properly contrasting color combinations
-     1. Contrast must be 4.5:1 or higher | [Quick Check Here](https://www.section508.va.gov/)
+     1. Contrast must be 4.5:1 or higher | [WEBAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
      2. Check for colorblind viewing
 3. Check screen for browser zoom support (to at least 400%)
      1. Confirm there is no reflow
