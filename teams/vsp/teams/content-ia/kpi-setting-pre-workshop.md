@@ -35,14 +35,16 @@ _What are the major user and business pain points along the entirety of the serv
 - Teams building on and for the platform ecosystem do not know where to find, and/or do not have access to, crucial documentation.
 - Manual content and IA reviews are not scalable.
 - VFS teams are not requesting reviews at appropriate times, leading to prototypes and content that are out of sync with design standards.
+- Platform team members are not embedded in VFS teams, which means we're missing crucial conversations that are applicable to providing support. 
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- VFS and VSP team members can find the documentation they need without searching in Slack or otherwise spending excessive time on it.
+- Content and IA reviews become more of a collaborative, back and forth, less like blocking review points.
+- Teams know when to request IA reviews and what information to bring to IA reviews.
+- When new teams begin work on an existing product, they are able to find and access existing documentation about that product.
+- Teams know where to put their documentation when it is created.
 
 ### Hypotheses
 _What do you plan to do/build/create to achieve your user and business goals?_
