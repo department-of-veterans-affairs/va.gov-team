@@ -61,6 +61,7 @@ _These links/reviews may end up being consolidated, stay tuned._
     - There have been discusssions about linking back and forth with the Rated Disbalities Tool from the Disbailities Rating Calculator
 - [x] 508 Compliance
   - [x] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
+  - [x] Internal 508 Review
   - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
   - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  _Done by Trevor_
 
