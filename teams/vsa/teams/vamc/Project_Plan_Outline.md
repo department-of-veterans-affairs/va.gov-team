@@ -114,17 +114,16 @@ In progress
 ## Resources and Documentation
 
 - Discovery and Research
--- Site Breakdown/Mapping
+  + Site Breakdown/Mapping
 - Technical Documentation
--- Pre-production content review
+  + Pre-production content review
 - Product specs
--- Archetypes
+  + Archetypes
 - Design update
 - Roadmap (Now, Next, Future)
 
-
 ## Keywords
-vamc, Medical Centers, VISN 4, vamc-upgrade,
+- vamc, Medical Centers, VISN 4, vamc-upgrade,
 
 ## Team
 - DSVA Product Manager: Jenny Heiland-luedtke
