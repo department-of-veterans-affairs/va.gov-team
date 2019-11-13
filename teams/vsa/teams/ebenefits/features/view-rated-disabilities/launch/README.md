@@ -64,6 +64,8 @@ _These links/reviews may end up being consolidated, stay tuned._
   - [x] Internal 508 Review
   - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
   - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  _Done by Trevor_
+- [ ] Conduct a usability study
+  - [ ] Address any feedback from that study
 
 ## Development
 _Do we need to merge the FE and BE tasks?_  
