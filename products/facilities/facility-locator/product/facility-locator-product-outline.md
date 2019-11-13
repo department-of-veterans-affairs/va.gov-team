@@ -1,7 +1,7 @@
 # VSA: Facility Locator Product Outline: WIP
 
 GitHub Label: department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator
-
+Zenhub label: vsa-facilities
 Slack channel: DSVA/vsa-facilities
 
 Product POCs: 
