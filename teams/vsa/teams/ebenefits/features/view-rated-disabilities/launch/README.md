@@ -71,7 +71,7 @@ _Do we need to merge the FE and BE tasks?_
 - [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely? 
  
 ### Backend Tasks  
-- [ ] Investigation of applicable services  
+- [x] Investigation of applicable services  
   - [x] Does the feature use the `vets-api` or `EVSS` service?
   - [x] Review `vets-api` endpoints or does an `api` exist, need to be built?
   - [x] Does EVSS need to be engaged? And how?
@@ -79,9 +79,9 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Investigate  the common area for error types
   - [x] Define or reference a known resource
 - [ ] For PRs: first review internally with BE or another engineer before the BE Team
-  - [ ] Once internally reviewed, share with the BE Review Team at VSP (team name?)
+  - [ ] `Once internally reviewed, share with the BE Review Team at VSP (team name?)`
   - [x] Ensure that feature flags are set appropriately to be toggled
-- [ ] Documentation and points of contact for any new backend dependencies
+- [x] Documentation and points of contact for any new backend dependencies - see Product Outline for contact info
 
 ### Frontend Tasks
 - [x] Investigation
