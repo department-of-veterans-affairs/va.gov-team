@@ -28,3 +28,15 @@ Call the Denver Acquisition & Logistics Center (DALC) at 303-273-6200
 * **For prosthetic socks or other accessories (like hearing aid wax guards):** select 2 to speak with a customer service representative.
 * **To ask about hearing aid repairs:** select 3.
 * **To speak with an operator:** select 0.
+
+#### Via eBenefits
+On the eBenefits platform, Veterans with Premium accounts appear to be able to _reorder_ medical devices through an embedded iframe by selecting from a list of previously-ordered items.
+
+
+#### Via Remote Order Entry System (ROES)
+The primary user base of ROES appears to be VA Healthcare providers like audiologists and prosthetics specialists, who fill out the singular Online Commodity Order Form. Veterans can access ROES directly as well. 
+
+#### Via MyHealtheVet
+Premium users of MyHealtheVet are able to request batteries and socks from their VA healthcare providers via secure messaging.
+
+#### Via their VA healthcare providers
