@@ -1,16 +1,4 @@
-# Working with VSP Design Rules of Engagement (ROE)
-
-
-## How VFS teams and VSP Design work together 
-**Onboarding**
-- Get a tour of how we UX! We’ll show you around the tools, services, support, and documentation available to you. We will schedule a design breakout with you and team members 
-
-**Discover**
-- Use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users  
-
-**Build**
-- Use the sketch pattern library to build out designs  
-Use our research guides for user testing, and update your content and features based on what you learn. 
+# Working with the Platform Design Team
 
 ## Working with VSP Design
 This document will help all teams working on VA.gov understand when you should engage VSP design resources for collaboration and support. All teams building on the Veteran-facing Services Platform (VSP) should follow VA.gov design best practices and guidelines. Working with the VSP design team can help ensure all designs communicate effectively and maintain a consistent design language and user experience across the site. 
@@ -22,6 +10,17 @@ This document will help all teams working on VA.gov understand when you should e
 - [Other opportunities for feedback](#otheropportunities)
 - [Things to keep in mind when designing for VA.gov](#designguidelines)
 - [Questions/how to contact us](#questions)
+
+## How VFS teams and VSP Design work together 
+**Onboarding**
+- Get a tour of how we UX! We’ll show you around the tools, services, support, and documentation available to you. We will schedule a design breakout with you and team members 
+
+**Discover**
+- Use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users  
+
+**Build**
+- Use the sketch pattern library to build out designs  
+Use our research guides for user testing, and update your content and features based on what you learn. 
 
 ## <a id="whatdoesVSPdesigndo"></a>What does the VSP design team do
 We support designers by providing resources and guidance to enable them to create excellent Veteran-centered experiences. 
