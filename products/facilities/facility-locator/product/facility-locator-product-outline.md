@@ -59,7 +59,7 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
   - Implement VAMC facility page design
   - Implement Unified Services Taxonomy
 # Assumptions
-- Findings from user research is representative of Veterans across the Veteran journey.
+- Findings from user research are representative of Veterans across the Veteran journey.
 # Requirements 
 ## In Scope
 - Search functionality
