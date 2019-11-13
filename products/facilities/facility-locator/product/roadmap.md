@@ -2,7 +2,7 @@
 
 Providing a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about facilities offering priority VA benefits and services. 
 
-*Timelines and priorities stated below are subject to change.*
+*Timelines and priorities listed below are subject to change and are not necessarily in priority order*
 
 ## Product Goals 
 - Eliminate bugs 
@@ -48,7 +48,7 @@ Providing a single, consolidated place across VA.gov where Veterans and benefici
   
   ## Later *(2021+)*
 
-- *Search by Service-first rather than facility-type* 
+- Search by Service-first rather than facility-type
 - Incorporate information on the availability of online scheduling 
 - Integration with Get Care now widget
 - Integration with authenticated experience
