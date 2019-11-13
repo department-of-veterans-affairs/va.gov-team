@@ -36,11 +36,11 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 ## User Goals
 - Veterans want to easily find information about facility locations and available services, using their own natural language.
 - Veterans need the facility information to be complete, accurate and easy to understand. 
-- Veterans want to schedule appointments at certain facilities.
 - Veterans want to see patient satisfaction ratings for health facilities.
 - Veterans want to interact with one tool for all facility/services needs. 
 - Veterans want to get directions to a facility. 
 - Veterans want to find the mental health number for a facility. 
+- Veterans want high-level information about facilities offering urgent and emergency care and other priority VA benefits and services. 
 ## Product Goals
 - Eliminate bugs
 - Improve performance
@@ -58,15 +58,19 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
   - Implement VAMC facility page design
   - Implement Unified Services Taxonomy
 # Assumptions
+- Findings from user research is representative of Veterans across the Veteran journey.
 # Requirements 
 ## In Scope
+- Search functionality
+- Display of facility details consumed by the Facility Locator. 
 ## Out of Scope
+- Completeness and quality of data provided by data owners.
 ## Constraints
 - Naming conventions are localized, rather than uniform
 - Multi-disciplinary services
 - Scattered data held in disparate systems
 - Maintenance plan
-- Reliability with GeoBISL
+- Reliability of data via GeoBISL
 - Dependency on a separate VA business unit which owns the data
 - Visibility of roadmap/timelines needed to coordinate around dependencies
 # Discovery Takeaways
@@ -75,13 +79,32 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Veterans have a lack of understanding about what is available. 
 - This project is an opportunity to reconsider how and when the VA reaches out to veterans. Most receptive time might be a few months after “out-processing”. 
 - Behavioral health support barriers
-## Facility Locator 
-- Wait times were the most important
-- Would use Google as their starting place to find a VA phone number or facility
-- Veteran confusion regarding Community Partners, Urgent Care
-- Was not clear that Satisfaction Data came from Veterans
-- Multiple Facility Locators exist and experience is inconsistent and/or incomplete
-- UI/UX is not intuitive for Veterans
+## [Google Analytics Baseline](**[Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/analytics-baseline.md)**)
+## [Engineering Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/october-2019-discovery-summary.md#files-and-documents) 
+The results of Discovery Sprints in October 2019 revealed the following
+- Although Facility API is available, the Faciliy Locator is still using Vets-api. 
+- There are a number of known usability and accessibility issues, many of which are related to the map feature. 
+- Performance bottlenecks are attributed to Kong and the Community Care query process (which uses vets-api for a middleman with PPMS)
+- A number of factors are negatively impacting data quality: 
+  - Display and handling by Facility Locator
+  - Inaccurate data sent via API
+  - Missing data sent by API
+  - Data organization, taxonomy and/or fields referenced 
+## Product Discovery
+The results of Discovery Sprints in October 2019 revealed the following
+- A full list of facility locators to be evaluated for consolidation into the current Facility Locator tool. 
+- The new Health Services Taxonomy will use 5 major categories of care: Primary Care, Mental Health, Specialty Care, Social Programs and Other and can be leveraged in future UX iterations. 
+- In addition, mapping associates VA Specialty/Service/Programs with 1) patient friendly language, which will be useful in determining how to display the services and 2) stop codes, which will be useful in determining which locations provide the services.
+- There are data discrepancies between facilities returned by searches in the legacy directory and current Facility Locator. 
+## [Facility Locator User Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
+Research regarding Veteran objectives and overall usability of the tool was conducted in November 2019 and found the following high level trends. 
+- Veterans search by a specific service and by distance when choosing a location to visit. 
+- Veterans need consistent information between online and physical locations and are skeptical of information presented on VA.gov. 
+- The map is useful when it is interactive and when it shows landmarks relative to VA locations. 
+- There is a need for multiple entry points to the Facility Locator tool. 
+- There is a need to see some location information at a higher level. 
+- Separate workflows and acccess to location information creates confusion when trying to find a VA location. 
+Findings from a [usability and urgent care functionality study](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md) conducted in June 2019 and a [Community Care study](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/community_care/1_discovery) in May 2019 were also referenced. 
 # Value Propositions
 ## User Value
 - Enable faster access to care and more timely delivery of services
@@ -94,17 +117,14 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Increase the use of VA’s self-service tools
 - Have one tool that allows Veterans to find facilities, search for facilities by services and improve interaction with health facilities through scheduling and data transparency this project will increase the use of VA's self-service tools.
 - Reduce cost of maintaining multiple locators across VA.
-# KPIs
-- TBD
+# [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md)
 # Implementation Information
 ## Status
 - Initial MVP tool launched 2016
 - V2 launched: November 11th, 2016
 - V3(June 2017): addition of wait time data and vet centers
 - Community Care work: MVP milestone 10/23/2018
-## Solution Narrative
-- Technical Decisions
-- Product Decisions
+## [Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative.md)
 ## How to Access
 - Live: https://www.va.gov/find-locations/
 - Staging: https://staging.va.gov/find-locations/
@@ -112,11 +132,11 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Backend: https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/controllers/v0/facilities
 - https://github.com/department-of-veterans-affairs/vets-api/tree/master/lib/facilities
 # Resources and Documentation 
-- Discovery and Resarch
+- [Discovery and Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
 - Technical Documentation
 - Product Specs
-- Design
-- Roadmap
+- [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
+- [Roadmap]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
 - [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md)
 # Team
 - VA.gov Lead: Chris Johnston
@@ -127,14 +147,15 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - VSSC Analyst/Engineer: Chad Holmes 
 - GEOBISL: Michael Villeneuve
 - Product Manager: Michelle Middaugh
-- VA UI Design Lead: Ryan
+- VA UI Design Lead: Ryan Thurlwell
 - UX/Design: Aricka Lewis
 - Back End Engineer: Justin Ellis
 - Front End Engineer: Gilbran Rodriguez
 - VA Researcher(s)
 - DevOps Engineer: Cameron Testerman
+- Drupal CMS Team Product Manager: Stan Gardner
 - Drupal CMS UX designer/engineer/content modeler: Kevin Walsh (VAMC Pittsburgh pilot)
 - Drupal CMS Team Engineer: Ethan Teague
 - API Team Engineers: Derek Hall, Nick Fasulo
-- 
+
 
