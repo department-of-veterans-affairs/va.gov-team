@@ -1,4 +1,4 @@
-# School Resources Page Content Strategy
+# Resources for Schools Page Content Strategy
 
 
 ### Overview
