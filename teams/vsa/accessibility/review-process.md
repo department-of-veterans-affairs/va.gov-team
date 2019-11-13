@@ -100,26 +100,6 @@ There are two checkpoints:
 
     b. If your project is code stable in Staging, [request a Pre-launch 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 
-    c. Accessibility specialist review will check the following:
-  
-        i. axe browser scan
-        
-        ii. Lighthouse scan
-        
-        iii. JAWS, NVDA, and VoiceOver read-through
-        
-        iv. Keyboard navigation
-        
-        v. Color contrast & blindness
-        
-        vi. In-app Browser Check
-        
-        vii. Zoom to 400% at 1280px
+    c. Accessibility specialist will conduct an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md).
 
-    d. During review, issues will be noted by the accessibility specialist:
-  
-        i. Accessibility specialist will conduct an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md).
-  
-        ii. Team will coordinate another review after work is updated by @-comment in Zenhub in the Github issue.
-
-       iii. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment developer who opened issue, and close ticket/issue.
+    d. Issues will be noted by the accessibility specialist in issues within an epic. Team will coordinate another review after work is updated by @-comment in Zenhub in the Github issue. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment developer who opened issue, and close ticket/issue.
