@@ -25,5 +25,8 @@ Please see also [Legacy Solution Narrative](https://github.com/department-of-vet
 
 **VA Health**
 - Facility Detail pages for VA Health live on their own websites, not within Facility Locator. 
+
+**Data Quality**
+- November 13, 2019: The Facility Locator will display the data that is sent via the API, rather than interpreting or translating it. The data owners will be responsible for the data that is sent and the Facility Locator team is responsible for displaying it accurately. This decision was made today related to the display of hours of operation and also applies to phone numbers and other core data elements. 
    
     
