@@ -51,5 +51,5 @@ _Keep as much Slack conversation in public channels as possible, to minimize dup
 
 ### Key Documents
 
-- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/vamc/roadmap.md)
+- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/vamc/vamc-roadmap_Q4_2019.png)
 
