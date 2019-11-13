@@ -61,6 +61,7 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 - Moving forward with using SSH even though we heard that SSH may be on it's way out.
 - Starting first with SSH and then moving into AWS.
 - Starting and testing with VSP Ops, then VSP Engeeriners, and then VSP as a whole before rolling out to all teams on VA.gov.
+- Operations will create and setup permissions of each GH team then hand it off.
 - Be open with DVP and Appeals, so they know changes will be happening that can affect them.
 
 ## The Plan
@@ -69,23 +70,24 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 ### Phase 1 MVP rollout GH Team SSH to VSP and VFS.
 - Setup VSP Operations as the first test group for SSH integration for accessing the internal tools and jumpboxs. 
 - Roll out to VSP Engineers and request for feedback and iterate from this point. 
-  - This group is utilizing SSH and internal tools more closely, so this would directly, so their feedback will be very important before rolling out to VFS Engineers.   
+  - This group is utilizing SSH and internal tools more closely, so this would directly him pack them, so their feedback will be very important before rolling out to VFS Engineers.   
 - Roll out to all of VSP, request feedback, and integrate.
 - Start the process of rolling out to VFS teams, by the Ops team creating a GH team on the VA repo, setting their permissions, and then giving that GH team to each team for them to manage and own. 
 
-### Phase 2 Iterate with VA slackbot
-- Iterating VA Slackbot to automatically audit current users by inactivity in DSVA slack, in order to remove inactive users to ensure only active users have access. 
-- Idea: allow slackbot to add new users to channels where their team is. 
+### Phase 2 Iterate with a VA slackbot for offboarding and slack integration
+- Setup reminders that alert teams each month, that show them their current roster and asks them to update if the GH team roaster is not correct. 
+- Idea: Iterating VA Slackbot to automatically audit current users by inactivity in DSVA slack, in order to remove inactive users to ensure only active users have access. 
+- Idea: allow slackbot to add new users to channels where their team is, so when they are approved and added into their GH team Slack bot will invite them to all the channels their team operates. 
 
 ### Phase 3 Iterating AWS to GH team
 - Connect GH teams with AWS. 
 
 ### Rollback Plan
-- During the rollout, we will be maintaining the previous version of access management via Ansible groups, so that we can switch back in case there are any issues.
+- During the rollout, we will be maintaining the previous version of access management via Ansible groups, so that we can switch back in case there are any issues. This ensures we will not be disrupting any of the teams work.
 
 ## KPIs
 ### Objective
-- All users on the platform should be working on the platform
+- All users on the platform should be working on the platform.
 ### Tracking
 - How long it takes users to be onboard and offboarded.
 
@@ -101,18 +103,19 @@ VSP Operations team is using and testing the GH team model.
 - **September 2019**: Proposal  drafted and approved by DSVA
 - **10/16/2019**: MVP  demoed locally
 - **11/01/2019**: Decisions around next steps after SSH maybe remove from VA
-- **11/04/2019**:VSP Operations are the first team to use GH teams. Testing
+- **11/06/2019**:VSP Operations are the first team to use GH teams. Testing testing testing
 
 
 ## Dependentences
 
-Github
-Slack
-Ansible 
-AWS
+- Github
+- Slack
+- Ansible 
+- AWS
 
 ## Key Words
 - GH teams 
+- Github Teams
 - GH teams Access Management
 - Access Management
 - Automated Access Management 
