@@ -33,7 +33,8 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
     - WHVAH
     - Education Hotline
 - Social Studios
-- PA&I                                                                                          |
+- PA&I
+- * Grafana
 
 ### Responsibilities:
 *Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.*
