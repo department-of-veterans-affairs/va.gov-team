@@ -62,7 +62,7 @@ VFS teams should schedule a design QA review session when the complete and final
 Before any high-fidelity designing takes place to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
 Your designs can be in the early stages like whiteboard or pencil sketches/low-fidelity or more built out, for example, mockups or prototypes. 
 - Don’t feel like you have to have everything perfect. We have an iterative design culture and we’re encouraged to give feedback early and often. 
-- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md#design-qa-checklist "design review guidelines") for general requirements on your designs you should check before our meeting, but don’t stress out on parts of the design that aren’t totally fleshed out yet. 
+- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general requirements on your designs you should check before our meeting, but don’t stress out on parts of the design that aren’t totally fleshed out yet. 
 
 **How to request a design intent check-in:**
 These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
