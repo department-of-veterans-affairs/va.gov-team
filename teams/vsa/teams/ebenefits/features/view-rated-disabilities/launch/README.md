@@ -1,5 +1,16 @@
 # Checklist: Rated Disabilities
-The steps here are meant to track and inform all the necessary steps for a feature to be launched in the VA.goc online experience.
+The steps here are meant to track and inform all the necessary steps for a feature to be launched in the VA.gov online experience.  
+## Table of Contents
+[Discovery]()  
+[Design]()  
+[Development]()  
+[Review]()  
+[Analytics]()  
+[Support]()  
+[Pre-release Plan]()  
+[Release Plan]()  
+[Launch]()  
+[Post-Mortem]()  
 
 ## Discovery
 - [x] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
@@ -98,6 +109,7 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Ensure that feature flags are set appropriately to be toggled
   - [x] Entrance pages (i.e. supporting static content) in place
 
+## Review
 ### Security/ATO - `ON HOLD until Andrea Hewitt reaches out`
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?  Same as QA?
@@ -126,25 +138,24 @@ _Do we need to merge the FE and BE tasks?_
 - [x] Review [KPI/metrics spreadsheet](https://docs.google.com/spreadsheets/d/1Zy_m5s6zrhmgKaUacYo2MLRmDjtJNhVKSeyeSeAtVec/edit#gid=1554481611)
 - [x] EStablish baseline metrics for later analysis
 
-## Support
+## Support (Consider Deliverables and Artifacts)
 - [ ] Does the Call Center have documentation?
   - [ ] Draft as needed
 - [ ] Have they asked for anything else?
 - [ ] Establish a point of contact for the Call Center 
+- [ ] Ensure that these are noted and stored for easy access
+  - [ ] Include contact information in case further discussion is required
 
-## Pre-release
+
+## Pre-release Plan
 - [ ] Call Center is prepared for launch with updated scripts/documentation as needed
-- [ ] ~VA web comms team is aware of this launch and has accurate messaging~
+- [ ] ~VA web comms team is aware of this launch and has accurate messaging~ _Not for RD_
 - [ ] Product Outline is updated
 - [ ] Downtime UX and error messaging documentation complete
 - [ ] "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
 
 ## Release Plan
-- [x] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-## Consider Deliverables and Artifacts
-- [ ] Ensure that these are noted and stored for easy access
-  - [ ] Include contact information in case further discussion is required
+- [ ] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch
 - [ ] Define what is being tracked
