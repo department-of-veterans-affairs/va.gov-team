@@ -24,7 +24,7 @@ The steps here are meant to track and inform all the necessary steps for a featu
   - [x] Review the [VA.gov Design System](https://design.va.gov/)
   - [x] Team and DSVA: share mockups, discuss alternates/options in a team meeting
   - [x] Review the [Design QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md) docuementation
-- [ ] **External**
+- [x] **External**
   - [x] Review [Design Workflow](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
   - [x] Shawna (`@shawna` in Slack): Design presentation of mockups (might be in a weekly meeting)
   - [x] Iterate on Shawna's feedback
@@ -35,7 +35,7 @@ The steps here are meant to track and inform all the necessary steps for a featu
     - [x] Mikki: IA
     - [x] Jennifer: Usability
     - [x] Trevor: 508
-  - Iterate on other team's feedback
+  - [x] Iterate on other team's feedback
 - [x] **As soon as feasible and iteration is finished,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
 
 ### Content/IA  
@@ -72,7 +72,7 @@ _Do we need to merge the FE and BE tasks?_
 - [ ] Investigation of applicable services  
   - [x] Does the feature use the `vets-api` or `EVSS` service?
   - [x] Review `vets-api` endpoints or does an `api` exist, need to be built?
-  - [ ] Does EVSS need to be engaged? And how?
+  - [x] Does EVSS need to be engaged? And how?
   - [x] Collaborate with Frontend on Error Handling
   - [x] Investigate  the common area for error types
   - [x] Define or reference a known resource
@@ -92,7 +92,7 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
   - [x] Ensure that feature flags are set appropriately to be toggled
   - [x] Entrance pages (i.e. supporting static content) in place
-### Security/ATO
+### Security/ATO - ON HOLD until Andrea Hewitt reaches out
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?  Same as QA?
 - [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
