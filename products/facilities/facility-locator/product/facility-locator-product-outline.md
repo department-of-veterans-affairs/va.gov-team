@@ -11,24 +11,25 @@ Product POCs:
 - Facility API Product Owner: David Mazik (David.Mazik@va.gov)
 - Product Manager: Michelle Middaugh (Michelle.middaugh@adhocteam.us)
 # Table of Contents
-- Executive Summary
+- [Executive Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#executive-summary)
 - User Problem Statement
-- Solution Goals
+- [Solution Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#solution-goals)
   - User Goals
   - Product Goals 
-- Assumptions
-- Requirements and Constraints
-- Discovery Takeaways
+- [Assumptions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#assumptions)
+- [Requirements and Constraints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#requirements)
+- [Discovery Takeaways](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#discovery-takeaways)
 - Solution Approach
-- Value Propositions
+- [Value Propositions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#value-propositions)
   - User Value
   - Business Value
-- KPIs
-- Team
-- Implementation Information
+- [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#kpis)
+- [Implementation Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#implementation-information)
   - Status
   - Solution Narrative
   - How to Access and Test
+- [Resources and Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#resources-and-documentation)
+- [Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#team)
 # Executive Summary
 ## User Problem Statement
 As a Veteran, I'm unable to easily and quickly find information about facility locations and services.
@@ -79,7 +80,7 @@ As a Veteran, I'm unable to easily and quickly find information about facility l
 - Veterans have a lack of understanding about what is available. 
 - This project is an opportunity to reconsider how and when the VA reaches out to veterans. Most receptive time might be a few months after “out-processing”. 
 - Behavioral health support barriers
-## [Google Analytics Baseline](**[Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/analytics-baseline.md)**)
+## [Google Analytics Baseline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/analytics-baseline.md)
 ## [Engineering Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/october-2019-discovery-summary.md#files-and-documents) 
 The results of Discovery Sprints in October 2019 revealed the following
 - Although Facility API is available, the Faciliy Locator is still using Vets-api. 
