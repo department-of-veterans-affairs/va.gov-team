@@ -51,5 +51,9 @@ _What do you plan to do/build/create to achieve your user and business goals?_
 
 _ex: By creating more onboarding and training content, we expect teams to be more self-sufficient after they are onboarded._
 
-- By 
+- By consolidating documentation into one public repository, we expect teams to work more self-sufficiently and more efficiently.
+- By making platform's design reviews more coordinated, we expect that VFS teams will need to request fewer reviews overall. 
+- By making platform's design reviews more coordinated, we expect to collaborate with VFS teams earlier in the process/we expect to catch things further upstream.
+- By implementing an automated test for content or IA, we expect that VFS teams will be more self-sufficient.
+- By creating an offboarding checklist and integrating each piece into the product development checklist, we expect that teams will leave more robust documentation before their contract end dates.
 
