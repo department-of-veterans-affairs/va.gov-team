@@ -105,6 +105,7 @@ Research regarding Veteran objectives and overall usability of the tool was cond
 - There is a need for multiple entry points to the Facility Locator tool. 
 - There is a need to see some location information at a higher level. 
 - Separate workflows and acccess to location information creates confusion when trying to find a VA location. 
+
 Findings from a [usability and urgent care functionality study](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md) conducted in June 2019 and a [Community Care study](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/community_care/1_discovery) in May 2019 were also referenced. 
 # Value Propositions
 ## User Value
@@ -137,7 +138,7 @@ Findings from a [usability and urgent care functionality study](https://github.c
 - Technical Documentation
 - Product Specs
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/design)
-- [Roadmap]https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
+- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
 - [Product Development Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md)
 # Team
 - VA.gov Lead: Chris Johnston
