@@ -6,5 +6,5 @@
 - [ ] Navigate the page using JAWS, NVDA, and VoiceOver
 - [ ] Resize the page 400% with a screen width of 1280px to test mobile
 - [ ] As available/possible, access and navigate the page using available mobile devices, in both portrait and landscape
-- [ ] Visual evaluation to identify cognitive considerations
+- [ ] Visual evaluation to identify cognitive considerations to align with WCAG
 - [ ] Create Epic to contain issues found, assign to yourself
