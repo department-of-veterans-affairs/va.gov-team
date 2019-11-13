@@ -14,6 +14,10 @@
 ## Content Header Stack
 ### Current
 #### Issues with current
+* Design system typography page shows `h1` as Bitter, with all other heading sizes as Source Sans Pro.  Sketch file has `h1-h6` available in Bitter, and a Source Sans Pro variation for `h4-h6`.
+* Mobile vs desktop headings
+** Sketch library file has multiple `h1` headings but doesn't differentiate between mobile + desktop, so it seems to have 2 competing options
+** va.gov has different size headings for mobile + desktop but sizes are not specified in design system, nor included Sketch file (e.g. Sketch file has only one size for `h2`)
 ### Proposed
 
 ## Authenticated / Tool Stack
