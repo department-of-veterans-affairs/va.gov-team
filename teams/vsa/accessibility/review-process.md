@@ -38,7 +38,7 @@ For medium to large projects, there are two checkpoints.
 
     d. Please consider the accessibility specialist as a collaborative partner as work continues. 
 
-    e. For guidance during design, [Future State] review WCAG 2.1 Checklist (similar: https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf)
+    e. For guidance during design, [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
 
 2. **Design Review Checkpoint** — *Integrated with VSP* — [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
@@ -82,7 +82,7 @@ There are two checkpoints:
 
     d. During engineering, here are some available resources:
   
-        i. [Future State]  Review WCAG 2.1 Checklist (similar: [https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf](https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf)
+        i. Review [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
   
         ii. Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
   
