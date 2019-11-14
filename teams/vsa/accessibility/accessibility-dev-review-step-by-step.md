@@ -1,6 +1,6 @@
 # Accessibility Dev Review Step-by-Step
 
-- [ ] Deque axe audit to identify accessibility issues
+<input type="checkbox" id="deque-axe" /> <label for="deque-axe">Deque axe audit to identify accessibility issues</label>
 - [ ] Lighthouse audit to identify web performance impact
 - [ ] Navigate and tab through the page using keyboard only
 - [ ] Navigate the page using JAWS with IE11
