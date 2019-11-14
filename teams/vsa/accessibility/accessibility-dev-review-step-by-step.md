@@ -10,3 +10,6 @@
 - [ ] As available/possible, access and navigate the page using available mobile devices, in both portrait and landscape
 - [ ] Visual evaluation to identify cognitive considerations to align with WCAG
 - [ ] Create Epic to contain issues found, assign to yourself
+- [ ] Add issues found to the [508 Product Review List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)
+- [ ] Add issues to the 508 Office Report
+- [ ] Add issues to the [GCIO Sprint Checkoff Sheet](https://docs.google.com/document/d/1031rFMfaUQKMLLA0yybGNz9tMIH7WtTVwVWCOsjep0E/edit?ts=5d77e7f8#heading=h.rsumqrms2hm2)
