@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="02674a39-1505-4571-8b21-75de9465e581" activeEnvironment="Default" name="VRMDraftFormDocumentService" resourceRoot="" soapui-version="5.3.0" abortOnError="false" runType="SEQUENTIAL" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:WsdlInterface" id="e5978ee7-84ab-4a09-b07b-05d3ccb26312" wsaVersion="NONE" name="VRMDraftFormDocumentServiceBinding" type="wsdl" bindingName="{http://ebenefits.va.gov/service/draftform/v2-0/document}VRMDraftFormDocumentServiceBinding" soapVersion="1_1" anonymous="optional" definition="file:/C:/Users/vhaiswshahk/Documents/EVSS/Soap%20UI%20Projects/Soap%20UI%20Projects/VRMDraftFormDocumentService.wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="file:\C:\Users\vhaiswshahk\Documents\EVSS\Soap%20UI%20Projects\Soap%20UI%20Projects\VRMDraftFormDocumentService.wsdl"><con:part><con:url>file:\C:\Users\vhaiswshahk\Documents\EVSS\Soap%20UI%20Projects\Soap%20UI%20Projects\VRMDraftFormDocumentService.wsdl</con:url><con:content><![CDATA[<wsdl:definitions name="VRMDraftFormDocumentService" targetNamespace="http://ebenefits.va.gov/service/draftform/v2-0/document" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:cmn="http://ebenefits.va.gov/schema/draftform/v2-0/common" xmlns:docsvc="http://ebenefits.va.gov/service/draftform/v2-0/document" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <wsdl:types>
+    <xsd:schema>
+      <xsd:import namespace="http://ebenefits.va.gov/schema/draftform/v2-0/document" schemaLocation="VRMDraftFormDocumentSchema.xsd"/>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="MessageFaultException">
+    <wsdl:part name="fault" element="cmn:MessageFaultException"/>
+  </wsdl:message>
+  <wsdl:message name="saveDocument">
+    <wsdl:part name="parameters" element="doc:saveDocument"/>
+  </wsdl:message>
+  <wsdl:message name="saveDocumentResponse">
+    <wsdl:part element="doc:saveDocumentResponse" name="parameters"/>
+  </wsdl:message>
+  <wsdl:message name="readDocument">
+    <wsdl:part name="parameters" element="doc:readDocument"/>
+  </wsdl:message>
+  <wsdl:message name="readDocumentResponse">
+    <wsdl:part element="doc:readDocumentResponse" name="parameters"/>
+  </wsdl:message>
+  <wsdl:message name="searchDocumentsByMetadata">
+    <wsdl:part name="parameters" element="doc:searchDocumentsByMetadata"/>
+  </wsdl:message>
+  <wsdl:message name="searchDocumentsByMetadataResponse">
+    <wsdl:part element="doc:searchDocumentsByMetadataResponse" name="parameters"/>
+  </wsdl:message>
+  <wsdl:message name="searchDocumentsByQuery">
+    <wsdl:part name="parameters" element="doc:searchDocumentsByQuery"/>
+  </wsdl:message>
+  <wsdl:message name="searchDocumentsByQueryResponse">
+    <wsdl:part element="doc:searchDocumentsByQueryResponse" name="parameters"/>
+  </wsdl:message>
+  <wsdl:message name="deleteDocument">
+    <wsdl:documentation></wsdl:documentation>
+    <wsdl:part name="parameters" element="doc:deleteDocument"/>
+  </wsdl:message>
+  <wsdl:message name="deleteDocumentResponse">
+    <wsdl:part element="doc:deleteDocumentResponse" name="parameters"/>
+  </wsdl:message>
+  <wsdl:portType name="VRMDraftFormDocumentService">
+    <wsdl:operation name="saveDocument">
+      <wsdl:input message="docsvc:saveDocument"/>
+      <wsdl:output message="docsvc:saveDocumentResponse"/>
+      <wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException"/>
+    </wsdl:operation>
+    <wsdl:operation name="readDocument">
+      <wsdl:input message="docsvc:readDocument"/>
+      <wsdl:output message="docsvc:readDocumentResponse"/>
+      <wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException"/>
+    </wsdl:operation>
+    <wsdl:operation name="searchDocumentsByMetadata">
+      <wsdl:input message="docsvc:searchDocumentsByMetadata"/>
+      <wsdl:output message="docsvc:searchDocumentsByMetadataResponse"/>
+      <wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException"/>
+    </wsdl:operation>
+    <wsdl:operation name="searchDocumentsByQuery">
+      <wsdl:input message="docsvc:searchDocumentsByQuery"/>
+      <wsdl:output message="docsvc:searchDocumentsByQueryResponse"/>
+      <wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException"/>
+    </wsdl:operation>
+    <wsdl:operation name="deleteDocument">
+      <wsdl:input message="docsvc:deleteDocument"/>
+      <wsdl:output message="docsvc:deleteDocumentResponse"/>
+      <wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException"/>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="VRMDraftFormDocumentServiceBinding" type="docsvc:VRMDraftFormDocumentService">
+    <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="saveDocument">
+      <wsdl:documentation>saveDocument operation performs insert or update of a document.
+				- If no ID is provided in the Document object, the operation will create a new document.
+				- If an ID is provided and a Document is found in the back end, the Document is overwritten and 
+				the version number is updated.
+				- If an ID is provided and a Document with that ID is not found, an error code is returned 
+				(FAILURE_DOCUMENT_NOT_FOUND). 
+				It is important to note that the service does not check for duplicate files with the same name. 
+				It is up to the client application to ensure that the proper document ID is sent if the 
+				intent is to upload a new version of a document. Also, note that in the initial implementation 
+				versioning of documents is not implemented. The version number is merely a tag.</wsdl:documentation>
+      <soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/saveDocument"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="MessageFaultException">
+        <soap:fault name="MessageFaultException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="readDocument">
+      <wsdl:documentation>The readDocument operation take the document ID (UID) as a parameter and 
+				returns the entire Document object in the response. If a document with the 
+				specified ID does not exist in the backend, a DOCUMENT_NOT_FOUND status code 
+				will be returned.</wsdl:documentation>
+      <soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/readDocument"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="MessageFaultException">
+        <soap:fault name="MessageFaultException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="searchDocumentsByMetadata">
+      <wsdl:documentation>searchDocumentsByMetadata operation allows retrieval of documents using metadata 
+				associated with them. A few things to understand are:
+				1. Each metadata name/value pair will be appended to the filter clause implicitly using the 
+				"AND" logical operator.
+				2. The "OR" clause is not supported.
+				3. The value part of the metadata field can contain a trailing wildcard, as long as it is 
+				preceded by atleast a 1 character literal.
+				4. The Document object returned by a search* operation will not contain the binary payload.</wsdl:documentation>
+      <soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByMetadata"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="MessageFaultException">
+        <soap:fault name="MessageFaultException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="searchDocumentsByQuery">
+      <wsdl:documentation>searchDocumentsByQuery operation has been added as a placeholder for future implementation. 
+				It is NOT currently implemented (V1) and invocation will cause a fault. 
+				The intent is to provide a mechanism to perform a complex query to retrieve 
+				documents in a platform-neutral fashion.</wsdl:documentation>
+      <soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByQuery"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="MessageFaultException">
+        <soap:fault name="MessageFaultException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="deleteDocument">
+      <wsdl:documentation>deleteDocument operation takes a document ID as a parameter and attempts to delete the 
+				document. If the document is not found in the back end, it will return status code 
+				FAILURE_DOCUMENT_NOT_FOUND.</wsdl:documentation>
+      <soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/deleteDocument"/>
+      <wsdl:input>
+        <soap:body use="literal"/>
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal"/>
+      </wsdl:output>
+      <wsdl:fault name="MessageFaultException">
+        <soap:fault name="MessageFaultException" use="literal"/>
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="VRMDraftFormDocumentService">
+    <wsdl:port binding="docsvc:VRMDraftFormDocumentServiceBinding" name="VRMDraftFormDocumentService">
+      <soap:address location="http://ebenefits.va.gov/service/draftform/v2-0/document/VRMDraftFormDocumentService"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part><con:part><con:url>file:\C:\Users\vhaiswshahk\Documents\EVSS\Soap%20UI%20Projects\Soap%20UI%20Projects\VRMDraftFormDocumentSchema.xsd</con:url><con:content><![CDATA[<xs:schema version="1.0" targetNamespace="http://ebenefits.va.gov/schema/draftform/v2-0/document" jaxb:version="2.0" jaxb:extensionBindingPrefixes="xjc" xmlns:tns="http://ebenefits.va.gov/schema/draftform/v2-0/document" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:cmn="http://ebenefits.va.gov/schema/draftform/v2-0/common" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc" xmlns:xmime="http://www.w3.org/2005/05/xmlmime">
+  <xs:annotation>
+    <xs:appinfo>
+      <jaxb:globalBindings>
+        <!--<jaxb:globalBindings collectionType="collection" >-->
+        <xjc:generateElementProperty>false</xjc:generateElementProperty>
+        <xjc:simple/>
+      </jaxb:globalBindings>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:import namespace="http://ebenefits.va.gov/schema/draftform/v2-0/common" schemaLocation="VRMDraftFormCommonSchema.xsd"/>
+  <xs:element name="saveDocument" type="tns:SaveDocument"/>
+  <xs:element name="readDocument" type="tns:ReadDocument"/>
+  <xs:element name="searchDocumentsByMetadata" type="tns:SearchDocumentsByMetadata"/>
+  <xs:element name="searchDocumentsByQuery" type="tns:SearchDocumentsByQuery"/>
+  <xs:element name="deleteDocument" type="tns:DeleteDocument"/>
+  <xs:element name="saveDocumentResponse" type="tns:SaveDocumentResponse"/>
+  <xs:element name="readDocumentResponse" type="tns:ReadDocumentResponse"/>
+  <xs:element name="searchDocumentsByMetadataResponse" type="tns:SearchDocumentsByMetadataResponse"/>
+  <xs:element name="searchDocumentsByQueryResponse" type="tns:SearchDocumentsByQueryResponse"/>
+  <xs:element name="deleteDocumentResponse" type="tns:DeleteDocumentResponse"/>
+  <xs:element name="searchDocumentsByIds" type="tns:SearchDocumentsByIds"/>
+  <xs:element name="searchDocumentsByIdsResponse" type="tns:SearchDocumentsByIdsResponse"/>
+  <xs:complexType name="SaveDocument">
+    <xs:annotation>
+      <xs:documentation>Adds (insert) a new attachment or updates one if
+				already existing. The return value is the the DB
+				identifier for the
+				attachment.</xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="document" type="tns:Document"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ReadDocument">
+    <xs:sequence>
+      <xs:element name="id" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DeleteDocument">
+    <xs:sequence>
+      <xs:element name="id" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SearchDocumentsByMetadata">
+    <xs:sequence>
+      <xs:element name="metadata" type="cmn:NameValuePair" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SearchDocumentsByQuery">
+    <xs:sequence>
+      <xs:element name="query" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SaveDocumentResponse">
+    <xs:sequence>
+      <xs:element name="status" type="cmn:Status"/>
+      <xs:element name="documentId" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ReadDocumentResponse">
+    <xs:sequence>
+      <xs:element name="status" type="cmn:Status"/>
+      <xs:element name="document" type="tns:Document" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SearchDocumentsByMetadataResponse">
+    <xs:sequence>
+      <xs:element name="status" type="cmn:Status"/>
+      <xs:element name="documentList" type="tns:ContentlessDocument" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SearchDocumentsByQueryResponse">
+    <xs:sequence>
+      <xs:element name="status" type="cmn:Status"/>
+      <xs:element name="documentList" type="tns:ContentlessDocument" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="DeleteDocumentResponse">
+    <xs:sequence>
+      <xs:element name="status" type="cmn:Status"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ContentlessDocument">
+    <xs:sequence>
+      <xs:element name="id" type="xs:string" minOccurs="0"/>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="mimeType" type="xs:string"/>
+      <xs:element name="versionId" type="xs:string"/>
+      <xs:element name="nameValuePair" type="cmn:NameValuePair" minOccurs="0" maxOccurs="unbounded"/>
+      <xs:element name="auditTrail" type="cmn:AuditTrail" minOccurs="1">
+        <xs:annotation>
+          <xs:documentation>Contains basic auditing fields. The timestamp
+						fields should be populated
+						by the service
+						and are ignored if
+						provided by a service client when saving data. The
+						user IDs are to
+						be provided by the client application.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Document">
+    <xs:complexContent>
+      <xs:extension base="tns:ContentlessDocument">
+        <xs:sequence>
+          <xs:element name="content" type="xs:base64Binary" xmime:expectedContentTypes="*/*"/>
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:complexType name="SearchDocumentsByIds">
+    <xs:sequence>
+      <xs:element name="documentIds" type="xs:long" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="SearchDocumentsByIdsResponse">
+    <xs:sequence>
+      <xs:element name="status" type="cmn:Status"/>
+      <xs:element name="documentList" type="tns:ContentlessDocument" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part><con:part><con:url>file:\C:\Users\vhaiswshahk\Documents\EVSS\Soap%20UI%20Projects\Soap%20UI%20Projects\VRMDraftFormCommonSchema.xsd</con:url><con:content><![CDATA[<xs:schema version="1.0" targetNamespace="http://ebenefits.va.gov/schema/draftform/v2-0/common" xmlns:tns="http://ebenefits.va.gov/schema/draftform/v2-0/common" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="FaultException" nillable="true" type="xs:anyType"/>
+  <xs:element name="MessageFaultException" nillable="true">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="faultExceptions" minOccurs="0" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="errorCode" type="xs:string" minOccurs="0"/>
+              <xs:element name="errorMessage" type="xs:string" minOccurs="0"/>
+              <xs:element name="variables" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:complexType name="Status">
+    <xs:annotation>
+      <xs:documentation>This element can be used to return the status of
+				the current operation.
+				This element should be used to convey failure
+				messages that of normal
+				nature.
+				For example, attempting to read a
+				document that no longer exists in the
+				back
+				end. For abnormal or system
+				failures, operations should use a fault.</xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="code">
+        <xs:annotation>
+          <xs:documentation>Enumerated status code to communicate success or
+						cause of failure.</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:restriction base="xs:normalizedString">
+            <xs:enumeration value="SUCCESS"/>
+            <xs:enumeration value="SUCCESS_ADDITIONAL_RESULTS"/>
+            <xs:enumeration value="FAILURE_APPLICATION_UNSUPPORTED"/>
+            <xs:enumeration value="FAILURE_FORM_TYPE_UNSUPPORTED"/>
+            <xs:enumeration value="FAILURE_METADATA_FIELD_UNSUPPORTED"/>
+            <xs:enumeration value="FAILURE_FORM_NOT_FOUND"/>
+            <xs:enumeration value="FAILURE_FORM_UNKNOWN"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_UNKNOWN"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_NOT_FOUND"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_SIZE_LIMIT_EXCEEDED"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_FAILED_VIRUS_CHECK"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_INVALID_NAME"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_BAD_VERSION_NUMBER"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_TYPE_UNSUPPORTED"/>
+            <xs:enumeration value="FAILURE_DOCUMENT_SEARCH_BAD_CRITERIA"/>
+            <xs:enumeration value="FAILURE_PARSE_EXCEPTION"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element name="description" type="xs:string" minOccurs="0">
+        <xs:annotation>
+          <xs:documentation>The description provides further detail to the
+						issue, possibly with a
+						suggested fix.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+      <xs:element name="additionalRecordCount" type="xs:long" minOccurs="0" maxOccurs="1">
+        <xs:annotation>
+          <xs:documentation>The number of additional records available.</xs:documentation>
+        </xs:annotation>
+      </xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AuditTrail">
+    <xs:annotation>
+      <xs:documentation>Contains basic auditing fields. The timestamp
+				fields should be populated by the service
+				and are ignored if provided
+				by a service client when saving data. The
+				user IDs are to
+				be provided
+				by the client application.</xs:documentation>
+    </xs:annotation>
+    <xs:sequence>
+      <xs:element name="createdDate" type="xs:dateTime" minOccurs="0"/>
+      <xs:element name="createdUser" type="tns:FullyQualifiedUserID" minOccurs="0"/>
+      <xs:element name="modifiedDate" type="xs:dateTime" minOccurs="0"/>
+      <xs:element name="modifiedUser" type="tns:FullyQualifiedUserID" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="MetaDataList">
+    <xs:sequence>
+      <xs:element name="nameValuePair" type="tns:NameValuePair" maxOccurs="unbounded" minOccurs="1"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="NameValuePair">
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="value" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="FullyQualifiedUserID">
+    <xs:sequence>
+      <xs:element name="id" type="xs:string"/>
+      <xs:element name="idType" type="xs:string"/>
+      <!--This should probably be an enumeration-->
+      <xs:element name="assigningAuthority" type="xs:string" minOccurs="0"/>
+      <xs:element name="assigningFacility" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:simpleType name="BaseSystemID">
+    <xs:annotation>
+      <xs:documentation>Every time a new service client is onboarded, it
+				should be added to this list
+				and the service version incremented.
+				This list is intentionally
+				constrained
+				so service usage can be
+				controlled and managed.</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:token">
+      <xs:enumeration value="VDC"/>
+      <xs:enumeration value="CHAMPVA"/>
+      <xs:enumeration value="VOA"/>
+      <xs:enumeration value="VAPii"/>
+      <xs:enumeration value="D2D"/>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="SystemID">
+    <xs:annotation>
+      <xs:documentation>Every time a new service client is onboarded, it
+				should be added to this list
+				and the service version incremented.
+				This list is intentionally
+				constrained
+				so service usage can be
+				controlled and managed.</xs:documentation>
+    </xs:annotation>
+    <xs:union memberTypes="tns:BaseSystemID xs:token"/>
+  </xs:simpleType>
+</xs:schema>]]></con:content><con:type>http://www.w3.org/2001/XMLSchema</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://ebenefits.va.gov/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint></con:endpoints><con:operation id="74144eca-057e-4e2c-83aa-3e3708e743a5" isOneWay="false" action="http://ebenefits.va.gov/service/draftform/v2-0/document/deleteDocument" name="deleteDocument" bindingOperationName="deleteDocument" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="26fc2ab9-a1cd-4b4a-b3bb-d1e6b76451ca" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://ebenefits.va.gov/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <doc:deleteDocument>\r
+         <id>?</id>\r
+      </doc:deleteDocument>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/deleteDocument"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="a1f734d5-011d-4554-a1e2-7d7965cef877" isOneWay="false" action="http://ebenefits.va.gov/service/draftform/v2-0/document/readDocument" name="readDocument" bindingOperationName="readDocument" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="117fbcef-c746-43c2-a709-54bb353e5a3a" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://pint2.vaebnapp72.aac.va.gov:8001/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document">\r
+   <env:Header>
+      <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="UsernameToken-685">
+            <wsse:Username>VASERVICEUSER</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">P@ssw0rd</wsse:Password>
+         </wsse:UsernameToken>
+         <vaws:VaServiceHeaders xmlns:vaws="http://vbawebservices.vba.va.gov/vawss">
+            <vaws:CLIENT_MACHINE>10.224.105.47</vaws:CLIENT_MACHINE>
+            <vaws:STN_ID>281</vaws:STN_ID>
+            <vaws:applicationName>VDC</vaws:applicationName>
+            <vaws:ExternalUid>Esymantec.sepallanv.gmail.com</vaws:ExternalUid>
+            <vaws:ExternalKey>20140715-14:14:24:496</vaws:ExternalKey>
+         </vaws:VaServiceHeaders>
+      </wsse:Security>
+   </env:Header>
+   <soapenv:Body>\r
+      <doc:readDocument>\r
+         <id>6447</id>\r
+      </doc:readDocument>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/readDocument"/><con:wsrmConfig version="1.2"/></con:call><con:call id="da5e9b41-7d8d-4d85-9a67-58d9894b17a2" name="INT"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>https://int.vdc.va.gov:443/domain1/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document">\r
+     <soapenv:Header>
+      <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>VASERVICEUSER</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">P@ssw0rd</wsse:Password>
+         </wsse:UsernameToken>  
+         <vaws:VaServiceHeaders xmlns:vaws="http://vbawebservices.vba.va.gov/vawss">
+            <vaws:applicationName>VDC</vaws:applicationName>
+         </vaws:VaServiceHeaders>
+         </wsse:Security>
+         </soapenv:Header>
+   <soapenv:Body>\r
+      <doc:readDocument>\r
+         <id>6447</id>\r
+      </doc:readDocument>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/readDocument"/><con:wsrmConfig version="1.2"/></con:call><con:call id="a3e3892a-d2bb-49e7-8e70-03ebea48874b" name="PINT1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>https://pint.vdc.va.gov:443/domain1/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document">\r
+   <env:Header>
+      <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+         <wsse:UsernameToken wsu:Id="UsernameToken-685">
+            <wsse:Username>VASERVICEUSER</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">P@ssw0rd</wsse:Password>
+         </wsse:UsernameToken>
+         <vaws:VaServiceHeaders xmlns:vaws="http://vbawebservices.vba.va.gov/vawss">
+            <vaws:CLIENT_MACHINE>10.224.105.47</vaws:CLIENT_MACHINE>
+            <vaws:STN_ID>281</vaws:STN_ID>
+            <vaws:applicationName>VDC</vaws:applicationName>
+            <vaws:ExternalUid>Esymantec.sepallanv.gmail.com</vaws:ExternalUid>
+            <vaws:ExternalKey>20140715-14:14:24:496</vaws:ExternalKey>
+         </vaws:VaServiceHeaders>
+      </wsse:Security>
+   </env:Header>
+   <soapenv:Body>\r
+      <doc:readDocument>\r
+         <id>312778</id>\r
+      </doc:readDocument>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/readDocument"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="02373f24-81ca-4eb8-b63e-d0ba2c482ef3" isOneWay="false" action="http://ebenefits.va.gov/service/draftform/v2-0/document/saveDocument" name="saveDocument" bindingOperationName="saveDocument" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="4c2db3f4-1568-49a1-8e02-7b5d0dbe4628" name="Request 1"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://vaausessapp330.aac.va.gov:8001/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<SOAP-ENV:Header>
+  <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+   <wsse:UsernameToken wsu:Id="UsernameToken-38744">
+    <wsse:Username>VASERVICEUSER</wsse:Username>
+    <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">P@ssw0rd</wsse:Password>
+   </wsse:UsernameToken>
+   <vaws:VaServiceHeaders xmlns:vaws="http://vbawebservices.vba.va.gov/vawss">
+    <vaws:CLIENT_MACHINE>10.224.75.2</vaws:CLIENT_MACHINE>
+    <vaws:STN_ID>281</vaws:STN_ID>
+    <vaws:applicationName>EBEN</vaws:applicationName>
+    <vaws:ExternalUid>dslogon.1127651635</vaws:ExternalUid>
+    <vaws:ExternalKey>dslogon.1127651635</vaws:ExternalKey>
+   </vaws:VaServiceHeaders>
+  </wsse:Security>
+</SOAP-ENV:Header>
+<SOAP-ENV:Body>
+  <ns4:saveDocument xmlns:ns4="http://ebenefits.va.gov/schema/draftform/v2-0/document" xmlns:ns3="http://ebenefits.va.gov/schema/draftform/v2-0/form" xmlns:ns5="http://ebenefits.va.gov/schema/draftform/v2-0/common" xmlns="">
+   <document>
+    <name>Due to DVA Failure to Apply 38 CFR Part.pdf</name>
+    <mimeType>application/pdf</mimeType>
+    <versionId>1.0</versionId>
+    <nameValuePair>
+     <name>veteranFirstName</name>
+     <value>Mark</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>veteranLastName</name>
+     <value>Webb</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>newMail</name>
+     <value>true</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>fileNumber</name>
+     <value>796104437</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>documentType</name>
+     <value>L149</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>source</name>
+     <value>EBN</value>
+    </nameValuePair>
+    <auditTrail>
+     <createdDate>2017-01-04T10:44:39.465-06:00</createdDate>
+     <createdUser>
+      <id>1013590059</id>
+      <idType>EDIPI</idType>
+     </createdUser>
+    </auditTrail>
+    <content>
+     <xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="cid:162736a2-cd89-4471-a8d9-8c5f2832445b%40null"/>
+    </content>
+   </document>
+  </ns4:saveDocument>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/saveDocument"/><con:wsrmConfig version="1.2"/></con:call><con:call id="02cce04a-e8fc-4d67-9377-db9b6de9b745" name="INT"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>https://int.vdc.va.gov:443/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document">\r
+   <soapenv:Header>
+      <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd">
+         <wsse:UsernameToken xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+            <wsse:Username>VASERVICEUSER</wsse:Username>
+            <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">P@ssw0rd</wsse:Password>
+         </wsse:UsernameToken>  
+         <vaws:VaServiceHeaders xmlns:vaws="http://vbawebservices.vba.va.gov/vawss">
+            <vaws:applicationName>VDC</vaws:applicationName>
+         </vaws:VaServiceHeaders>
+         </wsse:Security>
+         </soapenv:Header>
+   <soapenv:Body>\r
+      <doc:saveDocument>\r
+         <document>\r
+            <!--Optional:-->\r
+            <id>?</id>\r
+            <name>?</name>\r
+            <mimeType>?</mimeType>\r
+            <versionId>?</versionId>\r
+            <!--Zero or more repetitions:-->\r
+            <nameValuePair>\r
+               <name>?</name>\r
+               <!--Zero or more repetitions:-->\r
+               <value>?</value>\r
+            </nameValuePair>\r
+            <auditTrail>\r
+               <!--Optional:-->\r
+               <createdDate>?</createdDate>\r
+               <!--Optional:-->\r
+               <createdUser>\r
+                  <id>?</id>\r
+                  <idType>?</idType>\r
+                  <!--Optional:-->\r
+                  <assigningAuthority>?</assigningAuthority>\r
+                  <!--Optional:-->\r
+                  <assigningFacility>?</assigningFacility>\r
+               </createdUser>\r
+               <!--Optional:-->\r
+               <modifiedDate>?</modifiedDate>\r
+               <!--Optional:-->\r
+               <modifiedUser>\r
+                  <id>?</id>\r
+                  <idType>?</idType>\r
+                  <!--Optional:-->\r
+                  <assigningAuthority>?</assigningAuthority>\r
+                  <!--Optional:-->\r
+                  <assigningFacility>?</assigningFacility>\r
+               </modifiedUser>\r
+            </auditTrail>\r
+            <content>cid:869939922410</content>\r
+         </document>\r
+      </doc:saveDocument>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/saveDocument"/><con:wsrmConfig version="1.2"/></con:call><con:call id="6f69d54f-6c3f-4fe7-a3bf-cceb9ac6cb75" name="Pre-Prod"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://vaausessapp330.aac.va.gov:8001/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+<SOAP-ENV:Header>
+  <wsse:Security xmlns:wsse="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-secext-1.0.xsd" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd">
+   <wsse:UsernameToken wsu:Id="UsernameToken-38744">
+    <wsse:Username>VASERVICEUSER</wsse:Username>
+    <wsse:Password Type="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-username-token-profile-1.0#PasswordText">P@ssw0rd</wsse:Password>
+   </wsse:UsernameToken>
+   <vaws:VaServiceHeaders xmlns:vaws="http://vbawebservices.vba.va.gov/vawss">
+    <vaws:CLIENT_MACHINE>10.224.75.2</vaws:CLIENT_MACHINE>
+    <vaws:STN_ID>281</vaws:STN_ID>
+    <vaws:applicationName>EBEN</vaws:applicationName>
+    <vaws:ExternalUid>dslogon.1127651635</vaws:ExternalUid>
+    <vaws:ExternalKey>dslogon.1127651635</vaws:ExternalKey>
+   </vaws:VaServiceHeaders>
+  </wsse:Security>
+</SOAP-ENV:Header>
+<SOAP-ENV:Body>
+  <ns4:saveDocument xmlns:ns4="http://ebenefits.va.gov/schema/draftform/v2-0/document" xmlns:ns3="http://ebenefits.va.gov/schema/draftform/v2-0/form" xmlns:ns5="http://ebenefits.va.gov/schema/draftform/v2-0/common" xmlns="">
+   <document>
+    <name>Due to DVA Failure to Apply 38 CFR Part.pdf</name>
+    <mimeType>application/pdf</mimeType>
+    <versionId>1.0</versionId>
+    <nameValuePair>
+     <name>veteranFirstName</name>
+     <value>Mark</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>veteranLastName</name>
+     <value>Webb</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>newMail</name>
+     <value>true</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>fileNumber</name>
+     <value>796104437</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>documentType</name>
+     <value>L149</value>
+    </nameValuePair>
+    <nameValuePair>
+     <name>source</name>
+     <value>EBN</value>
+    </nameValuePair>
+    <auditTrail>
+     <createdDate>2017-01-04T10:44:39.465-06:00</createdDate>
+     <createdUser>
+      <id>1013590059</id>
+      <idType>EDIPI</idType>
+     </createdUser>
+    </auditTrail>
+    <content>
+     <xop:Include xmlns:xop="http://www.w3.org/2004/08/xop/include" href="cid:162736a2-cd89-4471-a8d9-8c5f2832445b%40null"/>
+    </content>
+   </document>
+  </ns4:saveDocument>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
+]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/saveDocument"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="4d4c3521-d4ff-4221-a298-b23abb07e097" isOneWay="false" action="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByMetadata" name="searchDocumentsByMetadata" bindingOperationName="searchDocumentsByMetadata" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="7a2c095c-1d43-4889-89dc-f230d53f2576" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://ebenefits.va.gov/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <doc:searchDocumentsByMetadata>\r
+         <!--1 or more repetitions:-->\r
+         <metadata>\r
+            <name>?</name>\r
+            <!--Zero or more repetitions:-->\r
+            <value>?</value>\r
+         </metadata>\r
+      </doc:searchDocumentsByMetadata>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByMetadata"/></con:call></con:operation><con:operation id="5b97fec9-9840-4536-a7b6-90a7fb84bd92" isOneWay="false" action="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByQuery" name="searchDocumentsByQuery" bindingOperationName="searchDocumentsByQuery" type="Request-Response" inputName="" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="332ddcbb-8c6d-4bfe-bc5b-42ed6c48f059" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://ebenefits.va.gov/service/draftform/v2-0/document/VRMDraftFormDocumentService</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <doc:searchDocumentsByQuery>\r
+         <query>?</query>\r
+      </doc:searchDocumentsByQuery>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByQuery"/><con:wsrmConfig version="1.2"/></con:call></con:operation></con:interface><con:properties/><con:wssContainer/><con:oAuth2ProfileContainer/><con:oAuth1ProfileContainer/><con:sensitiveInformation/></con:soapui-project>

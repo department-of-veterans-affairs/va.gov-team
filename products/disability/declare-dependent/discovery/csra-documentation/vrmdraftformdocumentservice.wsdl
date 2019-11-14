@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+	xmlns:doc="http://ebenefits.va.gov/schema/draftform/v2-0/document"
+	xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+	xmlns:cmn="http://ebenefits.va.gov/schema/draftform/v2-0/common"
+	xmlns:docsvc="http://ebenefits.va.gov/service/draftform/v2-0/document"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="VRMDraftFormDocumentService"
+	targetNamespace="http://ebenefits.va.gov/service/draftform/v2-0/document">
+	
+	<wsdl:types>
+		<xsd:schema>
+			<xsd:import namespace="http://ebenefits.va.gov/schema/draftform/v2-0/document"
+				schemaLocation="VRMDraftFormDocumentSchema.xsd" />
+		</xsd:schema>
+	</wsdl:types>
+
+	<wsdl:message name="MessageFaultException">
+		<wsdl:part name="fault" element="cmn:MessageFaultException" />
+	</wsdl:message>
+
+	<wsdl:message name="saveDocument">
+		<wsdl:part name="parameters" element="doc:saveDocument" />
+	</wsdl:message>
+	<wsdl:message name="saveDocumentResponse">
+		<wsdl:part element="doc:saveDocumentResponse" name="parameters" />
+	</wsdl:message>
+
+	<wsdl:message name="readDocument">
+		<wsdl:part name="parameters" element="doc:readDocument" />
+	</wsdl:message>
+	<wsdl:message name="readDocumentResponse">
+		<wsdl:part element="doc:readDocumentResponse" name="parameters" />
+	</wsdl:message>
+
+	<wsdl:message name="searchDocumentsByMetadata">
+		<wsdl:part name="parameters" element="doc:searchDocumentsByMetadata" />
+	</wsdl:message>
+	<wsdl:message name="searchDocumentsByMetadataResponse">
+		<wsdl:part element="doc:searchDocumentsByMetadataResponse" name="parameters" />
+	</wsdl:message>
+	
+	<wsdl:message name="searchDocumentsByQuery">
+		<wsdl:part name="parameters" element="doc:searchDocumentsByQuery" />
+	</wsdl:message>
+	<wsdl:message name="searchDocumentsByQueryResponse">
+		<wsdl:part element="doc:searchDocumentsByQueryResponse" name="parameters" />
+	</wsdl:message>
+
+	<wsdl:message name="deleteDocument">
+		<wsdl:documentation>
+			
+		</wsdl:documentation>
+		<wsdl:part name="parameters" element="doc:deleteDocument" />
+	</wsdl:message>
+	<wsdl:message name="deleteDocumentResponse">
+		<wsdl:part element="doc:deleteDocumentResponse" name="parameters" />
+	</wsdl:message>
+
+	<wsdl:message name="searchDocumentsByIds">
+		<wsdl:part name="parameters" element="doc:searchDocumentsByIds" />
+	</wsdl:message>
+	<wsdl:message name="searchDocumentsByIdsResponse">
+		<wsdl:part element="doc:searchDocumentsByIdsResponse" name="parameters" />
+	</wsdl:message>
+
+	<wsdl:portType name="VRMDraftFormDocumentService">
+		<wsdl:operation name="saveDocument">
+			<wsdl:input message="docsvc:saveDocument" />
+			<wsdl:output message="docsvc:saveDocumentResponse" />
+			<wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException" />
+		</wsdl:operation>
+		<wsdl:operation name="readDocument">
+			<wsdl:input message="docsvc:readDocument" />
+			<wsdl:output message="docsvc:readDocumentResponse" />
+			<wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException" />
+		</wsdl:operation>
+		<wsdl:operation name="searchDocumentsByMetadata">
+			<wsdl:input message="docsvc:searchDocumentsByMetadata" />
+			<wsdl:output message="docsvc:searchDocumentsByMetadataResponse" />
+			<wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException" />
+		</wsdl:operation>
+		<wsdl:operation name="searchDocumentsByQuery">
+			<wsdl:input message="docsvc:searchDocumentsByQuery" />
+			<wsdl:output message="docsvc:searchDocumentsByQueryResponse" />
+			<wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException" />
+		</wsdl:operation>
+		<wsdl:operation name="deleteDocument">
+			<wsdl:input message="docsvc:deleteDocument" />
+			<wsdl:output message="docsvc:deleteDocumentResponse" />
+			<wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException" />
+		</wsdl:operation>
+		<wsdl:operation name="searchDocumentsByIds">
+			<wsdl:input message="docsvc:searchDocumentsByIds" />
+			<wsdl:output message="docsvc:searchDocumentsByIdsResponse" />
+			<wsdl:fault name="MessageFaultException" message="docsvc:MessageFaultException" />
+		</wsdl:operation>
+	</wsdl:portType>
+
+	<wsdl:binding name="VRMDraftFormDocumentServiceBinding" type="docsvc:VRMDraftFormDocumentService">
+		<soap:binding style="document"
+			transport="http://schemas.xmlsoap.org/soap/http" />
+		<wsdl:operation name="saveDocument">
+			<wsdl:documentation>
+				saveDocument operation performs insert or update of a document.
+				- If no ID is provided in the Document object, the operation will create a new document.
+				- If an ID is provided and a Document is found in the back end, the Document is overwritten and 
+				the version number is updated.
+				- If an ID is provided and a Document with that ID is not found, an error code is returned 
+				(FAILURE_DOCUMENT_NOT_FOUND). 
+				It is important to note that the service does not check for duplicate files with the same name. 
+				It is up to the client application to ensure that the proper document ID is sent if the 
+				intent is to upload a new version of a document. Also, note that in the initial implementation 
+				versioning of documents is not implemented. The version number is merely a tag.
+			</wsdl:documentation>
+			<soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/saveDocument" />
+			<wsdl:input>
+				<soap:body use="literal" />
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" />
+			</wsdl:output>
+			<wsdl:fault name="MessageFaultException">
+				<soap:fault name="MessageFaultException" use="literal"/>
+			</wsdl:fault>
+		</wsdl:operation>
+		<wsdl:operation name="readDocument">
+			<wsdl:documentation>
+				The readDocument operation take the document ID (UID) as a parameter and 
+				returns the entire Document object in the response. If a document with the 
+				specified ID does not exist in the backend, a DOCUMENT_NOT_FOUND status code 
+				will be returned.
+			</wsdl:documentation>
+			<soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/readDocument" />
+			<wsdl:input>
+				<soap:body use="literal" />
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" />
+			</wsdl:output>
+			<wsdl:fault name="MessageFaultException">
+				<soap:fault name="MessageFaultException" use="literal"/>
+			</wsdl:fault>
+		</wsdl:operation>
+		<wsdl:operation name="searchDocumentsByMetadata">
+			<wsdl:documentation>
+				searchDocumentsByMetadata operation allows retrieval of documents using metadata 
+				associated with them. A few things to understand are:
+				1. Each metadata name/value pair will be appended to the filter clause implicitly using the 
+				"AND" logical operator.
+				2. The "OR" clause is not supported.
+				3. The value part of the metadata field can contain a trailing wildcard, as long as it is 
+				preceded by atleast a 1 character literal.
+				4. The Document object returned by a search* operation will not contain the binary payload.
+			</wsdl:documentation>
+			<soap:operation
+				soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByMetadata" />
+			<wsdl:input>
+				<soap:body use="literal" />
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" />
+			</wsdl:output>
+			<wsdl:fault name="MessageFaultException">
+				<soap:fault name="MessageFaultException" use="literal"/>
+			</wsdl:fault>
+		</wsdl:operation>
+		<wsdl:operation name="searchDocumentsByQuery">
+			<wsdl:documentation>
+				searchDocumentsByQuery operation has been added as a placeholder for future implementation. 
+				It is NOT currently implemented (V1) and invocation will cause a fault. 
+				The intent is to provide a mechanism to perform a complex query to retrieve 
+				documents in a platform-neutral fashion.
+			</wsdl:documentation>
+			<soap:operation
+				soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByQuery" />
+			<wsdl:input>
+				<soap:body use="literal" />
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" />
+			</wsdl:output>
+			<wsdl:fault name="MessageFaultException">
+				<soap:fault name="MessageFaultException" use="literal"/>
+			</wsdl:fault>
+		</wsdl:operation>
+		<wsdl:operation name="deleteDocument">
+			<wsdl:documentation>
+				deleteDocument operation takes a document ID as a parameter and attempts to delete the 
+				document. If the document is not found in the back end, it will return status code 
+				FAILURE_DOCUMENT_NOT_FOUND. 
+			</wsdl:documentation>
+			<soap:operation soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/deleteDocument" />
+			<wsdl:input>
+				<soap:body use="literal" />
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" />
+			</wsdl:output>
+			<wsdl:fault name="MessageFaultException">
+				<soap:fault name="MessageFaultException" use="literal"/>
+			</wsdl:fault>
+		</wsdl:operation>
+		<wsdl:operation name="searchDocumentsByIds">
+			<wsdl:documentation>
+				searchDocumentsByIds operation allows retrieval of documents by IDs
+			</wsdl:documentation>
+			<soap:operation
+				soapAction="http://ebenefits.va.gov/service/draftform/v2-0/document/searchDocumentsByIds" />
+			<wsdl:input>
+				<soap:body use="literal" />
+			</wsdl:input>
+			<wsdl:output>
+				<soap:body use="literal" />
+			</wsdl:output>
+			<wsdl:fault name="MessageFaultException">
+				<soap:fault name="MessageFaultException" use="literal"/>
+			</wsdl:fault>
+		</wsdl:operation>
+	</wsdl:binding>
+	<wsdl:service name="VRMDraftFormDocumentService">
+		<wsdl:port binding="docsvc:VRMDraftFormDocumentServiceBinding" name="VRMDraftFormDocumentService">
+			<soap:address location="http://ebenefits.va.gov/service/draftform/v2-0/document/VRMDraftFormDocumentService" />
+		</wsdl:port>
+	</wsdl:service>
+</wsdl:definitions>
