@@ -7,17 +7,20 @@ assignees: ''
 
 ---
 
-## High Level User Story
+## Product Outline
+[link]()
+
+## High Level User Story/ies
 As a _____, I need _____ so I can _____.
 
-## Hypothesis/(es)
+## Hypothesis/bet
 **If** _we make this change_ **then** _we expect this to happen_.
 
-## Goals
-_What outcome(s) do we want to see?_ 
+## VSP OKR
+_Which VSP Objective / Key Result does this epic push forward?_
 
-## Objectives
-_Which VSP Objectives does this body of work push forward?_ (`Intake & Onboarding`, `Automation + Instrumentation`, `Support`, `Capacity-building`)
+## Definition of done
+_What must be true in order for you to consider this epic complete?_
 
 ## How to configure this issue
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)
