@@ -5,6 +5,7 @@
 - Demo video link: n/a
 - Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
 - [Team Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)
+- [Charter and Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md)
 
 ---
 
