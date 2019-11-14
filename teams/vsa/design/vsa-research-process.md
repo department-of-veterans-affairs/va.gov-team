@@ -62,10 +62,12 @@ You should run a pilot/test session before your study. This session should be do
 * You may hear hard stories from veterans.  It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up.
 * Make sure to ask open-ended questions and avoid Yes/No prompts. 
 * Follow-up with “Why?” and “Tell me more” if the user has given you a short statement / not enough information
+* Avoid saying "Thank you for your service" to Veterans, as some have a negative association with that phrase
 * There is a channel in DSVA Slack called #feedback-backchannel.  Make sure to be in that channel when running your sessions and that your observers know about it.
    * Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/howto-observer-instructions.md)
    * At the end of your session, take a look at the feedback backchannel and see if anyone brought up questions that you can address with your participant
+
 
 ## <a id="synthesis"></a>Synthesis
 Note that we expect synthesis to take about a week or “6 business days.”  If you think you need more time, talk to Shawna.  
