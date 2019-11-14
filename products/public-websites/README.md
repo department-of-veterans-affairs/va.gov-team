@@ -3,7 +3,7 @@
 - Slack channel: vsa-public-websites
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Jennifer.Lee PO (steve-gov) & Jason Wolf (jason-gcio)
+- Product POCs: Jennifer.Lee PO (...) & Jason Wolf (jason-gcio)
 
 ---
 
@@ -19,8 +19,7 @@
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 - **Features**  
-  - [View Rated Disabilities](#)
-  - [View and Modify Dependents](#)
+  - ...
 
 # Implementation Information
 - [Status](#status)
@@ -42,7 +41,7 @@
 As a Veteran, I want to find, and apply for, as many benefits available to me so that I can leverage more of the VA's resources.
 
 ## Solution Goals
-Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.
+Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from ... to the VA.gov central location.
 
 ### User Goals
 With resources better presented to the user, they should be able to find and apply to more benefits with better efficacy.
@@ -82,8 +81,8 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 In progress
 
 ## Solution Narrative
-- **September 2019**: Began discovery of eBenefits in general, chose "View my rated disabilities" as the first feature to migrate
-- **October 2019**: Finalizing "View my rated disabilities" and started discovery of "View and update my dependents"
+- **September 2019**: ...
+- **October 2019**: ...
 
 ## How to Access and Test
 - Link: Access PINT2: https://pint.ebenefits.va.gov/ebenefits-portal/pint2 OR https://pint.ebenefits.va.gov/ (if you need to try both, you'll need to have a new session open with a cleared cache to enter the other site.
@@ -112,16 +111,16 @@ In progress
 eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
 
 ## Team
-- DSVA Product Manager: Steve Kovacs
-- Team Product Manager: Jason Wolf
+- DSVA Product Manager: ...
+- Team Product Manager: ...
 - VA Call Center Partner(s): TBD
 - UX Designer: Aricka Lewis
-- Designer/Reseearcher: James Adams
-- Front-end Engineer: Micah Chiang
-- Back-end Engineer: Kathleen Crawford
+- Designer/Reseearcher: ...
+- Front-end Engineer: ...
+- Back-end Engineer: ...
 
 ### Screenshots
 #### Before
-![EBN](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/home-ebenefits.png)
+![EBN](https://)
 #### After
 ...
