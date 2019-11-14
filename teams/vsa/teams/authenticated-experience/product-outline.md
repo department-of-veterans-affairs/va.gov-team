@@ -4,6 +4,10 @@
 
 - Slack channel: #vsa-authd-exp 
 
+- Product POC's: Lisa Koenigsberg, Samara Strauss and Justin Pickett 
+
+- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/charter.md)
+
 --- 
 
 ### Table of Contents 
