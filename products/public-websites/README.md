@@ -1,4 +1,4 @@
-# Product Outline: eBenefits
+# Product Outline: Public Websites
 - GitHub Label: vsa-ebenefits
 - Slack channel: vsa-ebenefits
 - VA.gov link: n/a
@@ -19,8 +19,8 @@
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 - **Features**  
-  - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)
-  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
+  - [View Rated Disabilities](#)
+  - [View and Modify Dependents](#)
 
 # Implementation Information
 - [Status](#status)
