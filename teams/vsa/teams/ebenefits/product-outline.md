@@ -126,6 +126,6 @@ eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
 
 ### Screenshots
 #### Before
-...
+![EBN](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/home-ebenefits.png)
 #### After
 ...
