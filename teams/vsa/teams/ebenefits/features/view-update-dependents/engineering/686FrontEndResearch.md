@@ -9,6 +9,8 @@ Validation Errors
 
 When completing the form, if you select that you are married and then continue with the form filling out the spouse data, it causes the form to have a validaiton error on submit no matter what you put into the fields for spouse data. We have tried refreshing the page, starting the form over and entering in different data, nothing seems to work. There is no data to acompany the validation error to tell you what is incorrect or missing. It should be noted if you skip the spouse portion of the forms by selecting that you are not married there is no validation error.
 
+We have added console logging of all validation errors inside the `isValidForm` validation method inside validation.js in the form system and stepped through the form and all of the validaiton errors clear as we step through the form and fill out the fields. It appears this is only validating based on `required` but at the end in the form state when trying to submit there is still a validation error with no futher information.
+
 
 Console Errors (this is a known issue with the VA form system)
 
