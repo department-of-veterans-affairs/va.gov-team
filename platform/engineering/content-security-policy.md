@@ -21,12 +21,20 @@ _Reports are throttled by the reverse proxy by setting the `report-url` in the C
 
 ## Configuration and maintenance 
 
+The following applies when editing the CSP: 
 
+- Updates to the CSP **must be approved** by the [front end review group](https://github.com/orgs/department-of-veterans-affairs/teams/frontend-review-group). 
+- Updates to the CSP must be tested on staging before releasing into production 
+  - The only way to test the CSP is to add it to an environment and monitor the logger for violations 
+- Updates to the CSP must be in pull requests without other changes to enable easy rollback of the new rule 
+- The updater is responsible for monitoring the CSP logger after changes are pushed into production
+- The CSP should be backwards compatible to version 1.0 to ensure maximum coverage
+
+CSP configurations:
 
 - [report-url set percentage](https://github.com/department-of-veterans-affairs/devops/blob/626321758f9e6065db9aee2ebd7e10862f2612cd/ansible/roles/revproxy-configure/templates/nginx_revproxy.conf#L125)
-
-
-Must be backwards compatible to CSP 1.0 
+- [Production CSP directives](https://github.com/department-of-veterans-affairs/devops/blob/626321758f9e6065db9aee2ebd7e10862f2612cd/ansible/deployment/config/revproxy-vagov/vars/content_security_policy_vagov-prod.yml)
+- [Staging CSP directives](https://github.com/department-of-veterans-affairs/devops/blob/626321758f9e6065db9aee2ebd7e10862f2612cd/ansible/deployment/config/revproxy-vagov/vars/content_security_policy_vagov-staging.yml)
 
 ## Exempted third party scripts 
 
