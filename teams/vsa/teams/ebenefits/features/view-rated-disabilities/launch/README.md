@@ -1,6 +1,6 @@
 # Checklist: Rated Disabilities
 The steps here are meant to track and inform all the necessary steps for a feature to be launched in the VA.gov online experience.  
-## Table of Contents
+## Table of Contents  
 [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#discovery)  
 [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#design)  
 [Development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#development)  
