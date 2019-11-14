@@ -7,7 +7,7 @@ _Update and Modernize VA.gov-[Medical Center] websites using human-centered desi
 _VA Medical Center Website Modernization starting with:_
 _VISN 4_
 
-### Mission STatement
+### Mission Statement
 Enable Veterans,their family, and caregivers, through use of the VA's VISN Medical Center Websites, to quickly provide access to the tools and information needed in their VA health care journey.  Remove obsticals and promote a streamlined, easy to navigate, and easy to understand digital experience.  Escalate this normalized and standardized methodology accross all VISNs using economies of scale and advanced Agile practices. 
 
 ### Slack Channels
