@@ -43,28 +43,28 @@ URL: www.va.gov/health-care/schedule-view-va-appointments/appointments
 -	Clicking on the link should open a new tab
 ### Should see prompt to enroll when not enrolled in healthcare
 URL: www.va.gov/health-care/schedule-view-va-appointments/appointments
-Expected behavior:
+#### Expected behavior:
 - When not enrolled in healthcare, veteran sees a prompt to sign up for VA healthcare
 - Link should point to enrollment form on va.gov
 - Veteran should not see any appointments or have the ability to schedule a new appointment
 - All subroutes should show the same messaging
 ### Should see prompt to register in a system when enrolled in heahtlcare but not registered to a VA system
 URL: www.va.gov/health-care/schedule-view-va-appointments/appointments
-Expected behavior:
+#### Expected behavior:
 - When not registered in a VA healthcare system that supports online scheduling, veteran sees a prompt to call their local facility
 - Veteran should not see an appointment list or have the abiltiy to create a new appointment / request
 ### When not on whitelist, veteran should not be able to use the application
 URL: www.va.gov/health-care/schedule-view-va-appointments/appointments
-Expected behavior:
+#### Expected behavior:
 - Veteran should see a generic 'sorry, page does not exist' error message whn trying to navigate to VAOS or any subroute
 - Vetrean should not be able to see or create any appointments / requests
 ### When no appointments or requests exist, veteran should see a message indicating so
 URL: www.va.gov/health-care/schedule-view-va-appointments/appointments
-Expected behavior:
+#### Expected behavior:
 - Veteran should see a button to create a new appointment / request
 - Veteran should see a message indicating they have no appointments
 ### When fetching VA / CC appointments or requests fail, veteran should see an error
 URL: www.va.gov/health-care/schedule-view-va-appointments/appointments
-Expected behavior:
+#### Expected behavior:
 - If any of the four service calls fail (VA appts, CC appts, requests, or VA system data), veteran should see a generic 'sorry, something went wrong, please try again later' message in place of their appointments list
 -? Veteran should be able to schedule a new appointment
