@@ -30,7 +30,7 @@ This area includes all platform-level products and services that support va.gov 
 This area includes documentation on all va.gov user-facing products.  This includes any tool, content page or piece of functionality that a va.gov visitor interacts with directly. 
 - All documentation and artifacts created as part of the product development process should be stored here. 
 - Examples of content/files you will find in this area include product outlines, design comps, content decks, discovery docs, user research files, etc. 
-- The primary contributor to this area are the VFS teams. 
+- The primary contributor to this area are the VFS teams. For historical and tracking purposes, your team must store its project documents in your assigned /products folder.
 
 **/teams**<br>
 This area includes information on all teams working on the platform.  
@@ -38,6 +38,7 @@ This area includes information on all teams working on the platform.
 - Examples of content/files for this area include team charters, org charts, project planning information, workflow documents, etc. 
 - All teams and team members will contribute to this area. 
 
+We encourage you to browse content in other /products and /teams folders to see how other teams have organized their content or presented their findings.  This is especially important if your team is working on adding a feature to an existing application. You'll want to learn the history of the application by seeing what's happened so far. Your project may be slightly different, so you don't need to exactly copy what other teams have done. Use your best judgement about what works for your project.
 
 ## <a id="public-vs-private"></a>Public versus Private
 - All content related to development on VA.gov belongs in the public `va.gov-team repository`. 
