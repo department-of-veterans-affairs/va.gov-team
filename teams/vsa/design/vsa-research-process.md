@@ -1,17 +1,27 @@
 # VSA Research Process
 Questions? Contact Shawna Hein (shawna@adhocteam.us).
 
-## Process
+- [Va.gov Base Process](#process)
+- [Setup](#setup)
+- [Recruiting](#recruiting)
+- [Pilot Sessions](#pilot-sessions)
+- [Taking Notes](#taking-notes)
+- [Recording Sessions](#recording)
+- [Running Sessions](#running-sessions)
+- [Synthesis](#synthesis)
+- [Other Resources](#resources)
+
+ ##<a id="process"></a> VA.gov Base Process
 There is a basic process we should use when planning and implementing research within the VSA contract.  DSVA’s updated process document can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2019_updated_research_process.md). Please read that process doc first and then read the rest of this one for more tips/details.
 
-## Setup
+##<a id="setup"></a> Setup
 Make sure to create a folder in github under whatever “feature/flow” you’re working on E.g. “UrgentCare/Research/June-2019-Usability-Test/”  Where you can store you research plan, conversation guide, notes, and final results.  Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
 
 Create a [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/Conversation-guide-template.md).
 
 Note: after creating the final conversation guide, you may want to create a “note-taking template” in gitub as well, which you upload to your project folder, to help your note-takers.   
 
-## Recruiting
+## <a id="recruiting"></a>Recruiting
 **Note: It is not ok to try to recruit veterans “on the side” to do research on your own. You should go through Lauren Alexanderson if you want to talk to veterans in any way and get her approval on your plan.  She has worked hard to get us permission to talk to veterans at all, so we should not side step this process.**
 
 VA has a partner organization (Perigeon) that does all the recruiting and scheduling for us. 
@@ -27,17 +37,17 @@ Once Lauren has approved your plan, please add the line “This plan was reviewe
 Veterans often will not show up to sessions. Try to schedule 1.5X more people than you need, with the expectation that people will not show.
 To talk to stakeholders or VA employees that are working on the other side of the forms, we should go through our stakeholders.  Note that it’s fine to go casually talk to VA employees as long as we aren’t paying them.  
 
-## Pilot Session
-You should run a pilot session before your study. This session should be done with Perigeon so you go through the process of logging in for the first (or fortieth) time, get any kinks worked out, and understand how to hand off mouse controls or have a participant show their screen in the practice run.  Reach out to VSP to help coordinate the pilot.
+## <a id="pilot-sessions"></a> Pilot / Test Session
+You should run a pilot/test session before your study. This session should be done with Perigeon so you go through the process of logging in for the first (or fortieth) time, get any kinks worked out, and understand how to hand off mouse controls or have a participant show their screen in the practice run.  Reach out to VSP to help coordinate the pilot.
 
-## Taking Notes
+## <a id="taking-notes"></a> Taking Notes
 * Since we have to be so careful with recordings, we expect you to have a colleague that is taking verbatim notes during the session. This can be another designer, or another member of your team. Perigean will also take verbatim notes for your project, if requested.
 * [Guidance on notetaking can be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/How-to-take-session-notes.md)
 * We recommend creating a “notes” file within your github folder and storing each session as an .md document.  We recommend copying the conversation guide over to your .md file beforehand  so it’s easier to take notes.
 * Make sure to scrub your notes of all PII before uploading to Github
 * An [example of verbatim notes can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/discovery-aug-2019/notes/px.md).
 
-## Recorded Interviews
+## <a id="recording"></a>Recorded Interviews
 * You must get verbal consent from your participant in the recording itself. What this means is you ask if it’s ok, press record, then say something like “confirming on the recording that you are ok with this session being recorded.”
 * You must press “record” yourself in the meeting software if you want your session recorded
 * In Zoom during a session, check under the Meetings tab and select Recorded
@@ -48,7 +58,7 @@ You should run a pilot session before your study. This session should be done wi
 
 [Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/what-to-do-with-recordings.md) 
 
-## Running the Sessions
+## <a id="running-sessions"></a>Running the Sessions
 * You may hear hard stories from veterans.  It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up.
 * Make sure to ask open-ended questions and avoid Yes/No prompts. 
 * Follow-up with “Why?” and “Tell me more” if the user has given you a short statement / not enough information
@@ -57,7 +67,7 @@ You should run a pilot session before your study. This session should be done wi
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/howto-observer-instructions.md)
    * At the end of your session, take a look at the feedback backchannel and see if anyone brought up questions that you can address with your participant
 
-## Synthesis
+## <a id="synthesis"></a>Synthesis
 Note that we expect synthesis to take about a week or “6 business days.”  If you think you need more time, talk to Shawna.  
 
 I would recommend the following process, although you can modify if you like:
@@ -77,7 +87,7 @@ Note: Make sure to caveat the topline summary by saying that detailed synthesis 
    * E.g. a recommendation for the above insight might be “Move the button up the page” or “Make the button more prominent” or “Remove the button and make it a single page”
 7. Make sure to let Andre Zwilling of GCIO know when the results are posted 
 
-## Other Resources
+## <a id="resources"></a>Other Resources
 Some resources are also pinned to the #va-vsa-ux channel.
 * We have a research calendar where all research sessions w/ Perigean are posted. Message Lauren to get that calendar on yours.
 * We have the use of Optimal Workshop through DSVA if we want to do card sorting or IA tree testing or things of that nature. Message Lauren if you want access.
