@@ -40,39 +40,37 @@ class TargetContent
     end
 end
 
-# system("git switch -c ia-migrate-#{File.basename(ARGV[0],'.csv')}")
-# Dir.chdir(SourceContent::REPO_PATH)
+system("git switch -c ia-migrate-#{File.basename(ARGV[0],'.csv')}")
+Dir.chdir(SourceContent::REPO_PATH)
 
-# system("git switch -c ia-deprecate-#{File.basename(ARGV[0],'.csv')}")
-# Dir.chdir(TargetContent::REPO_PATH)
+system("git switch -c ia-deprecate-#{File.basename(ARGV[0],'.csv')}")
+Dir.chdir(TargetContent::REPO_PATH)
 
-# md_files = Dir.glob('**/*.md')
+md_files = Dir.glob('**/*.md')
 
 CSV.foreach(ARGV[0], headers: true) do |row|    
     source = SourceContent.new(url: row[0])
     target = TargetContent.new(url: row[1])
 
-binding.pry
-
     path = File.join(target.copy_path, source.clean_filename)
     puts "Copying #{source.copy_path} to #{path}"
-    # FileUtils.mkdir_p(File.dirname(target.copy_path))
-    # FileUtils.copy_file(source.copy_path, path)
+    FileUtils.mkdir_p(File.dirname(target.copy_path))
+    FileUtils.copy_file(source.copy_path, path)
 
-    # puts "...scanning for files to update to new URL"
-    # md_files.each do |file|
-    #     text = File.read(file)
-    #     new_contents = text.gsub(source.url, target.url)
-    #     if text != new_contents
-    #         puts "updated #{file}" 
-    #         File.open(file, "w") {|file| file.puts new_contents }
-    #     end
-    # end
+    puts "...scanning for files to update to new URL"
+    md_files.each do |file|
+        text = File.read(file)
+        new_contents = text.gsub(source.url, target.url)
+        if text != new_contents
+            puts "updated #{file}" 
+            File.open(file, "w") {|file| file.puts new_contents }
+        end
+    end
 
-    # puts "....updating original file with deprecation notice"
-    # if source.ext == ".md"
-    #     text = File.read(source.copy_path)
-    #     new_contents = "# This file is deprecated. The most recent information should be at #{TargetContent::CONTENT_URL}#{target.path}\n\n" + text
-    #         File.open(source.copy_path, "w") { |f| f.puts new_contents }
-    # end
+    puts "....updating original file with deprecation notice"
+    if source.ext == ".md"
+        text = File.read(source.copy_path)
+        new_contents = "# This file is deprecated. The most recent information should be at #{TargetContent::CONTENT_URL}#{target.path}\n\n" + text
+            File.open(source.copy_path, "w") { |f| f.puts new_contents }
+    end
 end
