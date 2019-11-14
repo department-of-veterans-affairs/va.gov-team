@@ -14,10 +14,16 @@
 ## Content Header Stack
 ### Current
 #### Issues with current
-* Design system typography page shows `h1` as Bitter, with all other heading sizes as Source Sans Pro.  Sketch file has `h1-h6` available in Bitter, and a Source Sans Pro variation for `h4-h6`.
+* Design system typography page displays `h1` and `h5` in Bitter font, with all other heading sizes using Source Sans Pro.  Sketch file has `h1-h6` available in Bitter, and a Source Sans Pro variation for `h4-h6`.
+* Many examples of pages across va.gov that are skip `h2` headings (I think due to use of blue promo box), or use an `h3` before an h2.
+* Blue callout boxes and notification headers are inserting headings out of order from the rest of the content on the page. 
+* Utility classes are being used on a one-off mannter 
+* Do we want different heading stacks for content vs “tool” pages?  Is our current stack optimized for content pages? Or not quite?
 * Sketch library file has two sizes `h1` headings but doesn't differentiate between mobile + desktop, so it seems to have 2 competing options
 * va.gov has different size headings for mobile + desktop but sizes are not specified in design system, nor included Sketch file (e.g. Sketch file has only one size for `h2`)
 ### Proposed
+* Decide on heading stacks that work across pages, with utility classes used rarely and in a consistent, agreed-upon manner
+* Determine an accessible solution for managing headings in promo + call out boxes
 
 ## Authenticated / Tool Stack
 ### Current
