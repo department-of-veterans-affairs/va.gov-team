@@ -817,7 +817,7 @@ Majority synthesis done post-its
 #### March 7-8 - Facility Locator Usability Research
 *Research Leads: Em Tav & Natalie Moore*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Facilities_Locator/Research/3.6Findings.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research-archive)
 
 #### March 2-10 - Site Baseline
 *Research Leads: Mary Ann Brody, Mikki Northuis, Laura Elena
@@ -836,7 +836,7 @@ Majority synthesis done post-its
 - [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Facilities_Locator/Research) 
 - Prototypes [FL One](https://marvelapp.com/50h95i1/), [FL Two](https://marvelapp.com/51h747a), [BB One](https://marvelapp.com/50h2b50), [BB Two](https://marvelapp.com/30ee4f5)
 - [Research brief](https://github.com/department-of-veterans-affairs/vets.gov-research/issues/55)
-- [Facility Locator Research Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Facilities_Locator/Research/KeyFindings2.13.17.md)
+- [Facility Locator Research Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research-archive)
 - [Full session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/README.md/Projects/Facility%20Locator)
 
 ### January 2017
@@ -917,7 +917,7 @@ Majority synthesis done post-its
 - 4 Veterans
 - Branding/ navigation
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Navigation%2C%20IA%2C%20Facility%20Locator_09.29.2016.md)
-- [Summary Findings 1](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Nav-FacilityFinder-SummaryFindings.md) and [Summary Findings 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Facilities_Locator/Research/9.29ResearchFindings.md) 
+- [Summary Findings 1](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Nav-FacilityFinder-SummaryFindings.md) and [Summary Findings 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research-archive) 
 
 #### September 21-27 - Education 1990 Usability Test
 *Research Lead: Alex Taylor?*
