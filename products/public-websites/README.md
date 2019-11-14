@@ -1,9 +1,9 @@
 # Product Outline: Public Websites
-- GitHub Label: vsa-ebenefits
-- Slack channel: vsa-ebenefits
+- GitHub Label: vsa-public-websites
+- Slack channel: vsa-public-websites
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
+- Product POCs: Jennifer.Lee PO (steve-gov) & Jason Wolf (jason-gcio)
 
 ---
 
