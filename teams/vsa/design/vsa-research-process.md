@@ -4,14 +4,14 @@ Questions? Contact Shawna Hein (shawna@adhocteam.us).
 - [Va.gov Base Process](#process)
 - [Setup](#setup)
 - [Recruiting](#recruiting)
-- [Pilot Sessions](#pilot-sessions)
+- [Pilot/Test Sessions](#pilot-sessions)
 - [Taking Notes](#taking-notes)
 - [Recording Sessions](#recording)
 - [Running Sessions](#running-sessions)
 - [Synthesis](#synthesis)
 - [Other Resources](#resources)
 
- ##<a id="process"></a> VA.gov Base Process
+##<a id="process"></a> VA.gov Base Process
 There is a basic process we should use when planning and implementing research within the VSA contract.  DSVA’s updated process document can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2019_updated_research_process.md). Please read that process doc first and then read the rest of this one for more tips/details.
 
 ##<a id="setup"></a> Setup
