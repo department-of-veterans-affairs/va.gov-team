@@ -22,7 +22,7 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
-- [Features](#features)
+- **Features**  
   - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)
   - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
 
