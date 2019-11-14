@@ -35,12 +35,20 @@ class TargetContent
     end
 end
 
+system("git switch -c ia-migrate-#{File.basename(ARGV[0],'.csv')}")
+Dir.chdir(SourceContent::REPO_PATH)
+
+system("git switch -c ia-deprecate-#{File.basename(ARGV[0],'.csv')}")
+Dir.chdir(TargetContent::REPO_PATH)
+
 md_files = Dir.glob('**/*.md')
 
 CSV.foreach(ARGV[0], headers: true) do |row|    
     source = SourceContent.new(url: row[0])
     target = TargetContent.new(url: row[1])
+
     target_filename = source.name.downcase.gsub(/[\s_]/, '-').gsub(/-+/, '-')
+
     puts "Copying #{source.copy_path} to #{target.copy_path + target_filename}"
     FileUtils.mkdir_p(File.dirname(target.copy_path))
     FileUtils.copy_file(source.copy_path, target.copy_path + target_filename)
