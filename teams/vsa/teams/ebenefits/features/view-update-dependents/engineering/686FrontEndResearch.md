@@ -11,6 +11,8 @@ When completing the form, if you select that you are married and then continue w
 
 We have added console logging of all validation errors inside the `isValidForm` validation method inside validation.js in the form system and stepped through the form and all of the validaiton errors clear as we step through the form and fill out the fields. It appears this is only validating based on `required` but at the end in the form state when trying to submit there is still a validation error with no futher information.
 
+Erik Hansen who worked on the form before us indicated that when he was working on the form there was an issue with the form data not matching the schema and the validation that happens against the schema is what is stopping the form from submitting. We will investigate this by comparing the form data before submit to the form schema.
+
 
 Console Errors (this is a known issue with the VA form system)
 
