@@ -11,7 +11,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ----
 
-## Sprint 8 (11/6 - 1/19)
+## Sprint 8 (11/6 - 11/19)
 ```diff 
 - 49 points over 16 issues
 ```
