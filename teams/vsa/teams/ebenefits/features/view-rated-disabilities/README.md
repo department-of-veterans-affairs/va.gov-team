@@ -78,10 +78,14 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 
 # Implementation Info
 ## Status
-Currently in development, designs approved, moving towards staging.
+- **September - October 2019:** Currently in development, designs approved, moving towards staging.
+- **November 2019:** Finalizing TCDR, preparing for launch
+
 ## Solution Narrative
-- **October 8, 2019**: new design elements were introduced and were re-worked into the existing mockups and frontend
-- **October 2019**: Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
+- **October 8, 2019:** new design elements were introduced and were re-worked into the existing mockups and frontend
+- **October 2019:** Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
+- **November 2019:** TCDR needs .yml files then integration into API.  Preparing for launch.  Moving away from EVSS with next feature.
+
 
 ## How to Access and Test
 - Link: Unauthenticated: https://staging.va.gov/disability/check-disability-rating/
