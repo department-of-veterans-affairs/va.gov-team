@@ -1,5 +1,5 @@
 
-_**WIP** - content is being moved from the [VSA eBenefits Team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)_
+_**WIP** - content is being moved from the [VSA eBenefits Team folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)_
 
 # Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
