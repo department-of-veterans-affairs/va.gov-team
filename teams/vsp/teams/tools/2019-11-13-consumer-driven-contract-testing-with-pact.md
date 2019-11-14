@@ -16,7 +16,9 @@ Having tests that are truly representative of the request-response interaction b
 
 This is where consumer-driven contract testing (CDCT) comes in. It's a process that codifies the interactions between a consumer (like an app) and provider (like an API) into a contract, or a file that is formatted to represent those interactions. The format for each interaction typically consists of a request and the expected response to it, and as the name suggests, it's the consumer that initially proposes this interaction. In return, the provider verifies this interaction by actually running its own code with the request that is sent, and the result of this verification step determines whether the consumer is good to deploy. The process is designed to facilitate a tighter communication loop between the consumer and provider and to explicitly describe how the consumer interacts with the provider.
 
-The particular CDCT framework that we are experimenting with is [Pact](https://docs.pact.io/). In addition to the process outlined above, it also offers a broker as an intermediary service to handle the communication of publishing a pact (the framework's term for a contract) and publishing the results of the verification.
+### Pact: "Fast, easy and reliable testing for your APIs and microservices during development"
+
+The particular CDCT framework that we are experimenting with is [Pact](https://docs.pact.io/). In addition to the process outlined above, it also offers a [broker](https://github.com/pact-foundation/pact_broker) as an intermediary service to handle the communication of publishing a pact (the framework's term for a contract) and publishing the results of the verification.
 
 The following steps are an example to demonstrate the use of Pact. Here, we test the integration of HCA with the `/health_care_application` API endpoint. The next steps would be to try to integrate the process into CI, updating any scripts and configuring settings as necessary.
 
@@ -26,7 +28,7 @@ These PRs can be referenced for any specific notes on running the example:
 
 ### Steps To Run Example
 
-0. Set up the Pact broker and run it locally.
+0. Set up the Pact Broker and run it locally.
 
    ```
    git clone git@github.com:pact-foundation/pact-broker-docker.git
