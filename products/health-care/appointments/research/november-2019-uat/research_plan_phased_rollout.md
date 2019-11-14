@@ -37,13 +37,18 @@ Zoom
 
 
 First phase: 25 participants - 
-Veterans who have UPCOMING HEALTH appointments at VA. 
-Veterans who have a MHV premium account, an authenticated ID.me account, or a DS logon premium account. 
-Participants will be asked to sign into their accounts, which we would prefer they do BEFORE joining the session. 
-Veterans who would be interested in booking a primary care, mental health, audiology, or 
+- MUST be Veterans who have UPCOMING HEALTH appointments at VA (and thus have VA health). 
+- MUST be Veterans who have a MHV premium account, OR an authenticated ID.me account. 
+- Veterans who have logged into VA.gov before the session with their accounts (they may need to do this beforehand). Please tell participants to go to VA.gov and sign in with their MHV Premium or ID.me accounts prior to the session. If they have never logged into VA.gov before, VA.gov will require them to enter an email address to authenticate. We will need THAT email prior to the session. 
 
 
-Second phase: 25 participants - Veterans who are enrolled in VA healthcare, and/or are eligible for community care (also known as Mission Act or CHOICE), and would be willing to request or self-schedule an appointment. 
+Second phase: 25 participants 
+- Veterans who are enrolled in VA healthcare.
+- Ideally, some Veterans who know that they are eligible for community care. 
+- - MUST be Veterans who have a MHV premium account, OR an authenticated ID.me account. 
+- Veterans who have logged into VA.gov before the session with their accounts (they may need to do this beforehand). Please tell participants to go to VA.gov and sign in with their MHV Premium or ID.me accounts prior to the session. If they have never logged into VA.gov before, VA.gov will require them to enter an email address to authenticate. We will need THAT email prior to the session. 
+- Veterans want to submit / request appointments. 
+
 
 
 2.	What is your recruitment strategy? 
@@ -53,7 +58,6 @@ Perigean
 1.	Timeline: What dates do you plan to do research? 
 (IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 
 
-November 
 
 2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
 
