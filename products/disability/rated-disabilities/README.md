@@ -95,7 +95,7 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 - Test accounts (P: Zm9ydHkgdHdv)
   - User: vets.gov.user+228@gmail.com (has 5 ratings, 3 are SC)
   - User: vets.gov.user+10@gmail.com (has no ratings)
-  - User: vets.gov.user+1@gmail.com123 (has 1 rating, SC)
+  - User: vets.gov.user+123@gmail.com (has 1 rating, SC)
 
 ## Error Handling
 There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
