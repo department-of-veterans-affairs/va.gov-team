@@ -17,7 +17,7 @@ We expect our designers to be using an iterative standard HCD "double diamond" t
 To ensure that the designer is not working in isolation, during this design process, the designer is expected to:
 * Meet regularly (at least once a week) with any other designers on their own team for feedback
 * Post an update with links every Wednesday to the #vsa-design Slack channel and respond to any questions/feedback from Shawna or others
-* Reach out in the (Contractor) #va-vsa-us channel for informal quick feedback from peers as needed
+* Reach out in the (Contractor) #va-vsa-ux channel for informal quick feedback from peers as needed
 * Reach out to the DEPO #design Slack channel if they come across broader questions about components
 * Present their work for review in the VSA UX Weekly approximately once a month (or as needed)
 * Present their work in the Monday VA-wide UX and Content meeting when needing feedback from a broader audience
