@@ -5,6 +5,11 @@ This file is to house the research findings from ticket #2929
 [Original Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2929)
 
 
+Validation Errors
+
+When completing the form, if you select that you are married and then continue with the form filling out the spouse data, it causes the form to have a validaiton error on submit no matter what you put into the fields for spouse data. We have tried refreshing the page, starting the form over and entering in different data, nothing seems to work. There is no data to acompany the validation error to tell you what is incorrect or missing. It should be noted if you skip the spouse portion of the forms by selecting that you are not married there is no validation error.
+
+
 Console Errors (this is a known issue)
 
 Number Of Marriges
