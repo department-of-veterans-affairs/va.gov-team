@@ -40,15 +40,24 @@ class TargetContent
     end
 end
 
-migration_file = File.basename(ARGV[0],'.csv')
-system("git switch -c ia-migrate-#{migration_file}")
+# Strip filename from csv file for adding to PRs
+migration_name = File.basename(ARGV[0],'.csv')
+
+# Create a branch for the target dir
+original_working_dir = Dir.pwd
+system("git switch -c ia-migrate-#{migration_name}")
+
+# Create a branch for the source dir dir
 Dir.chdir(SourceContent::REPO_PATH)
+system("git switch -c ia-deprecate-#{migration_name}")
 
-system("git switch -c ia-deprecate-#{migration_file}")
-Dir.chdir(TargetContent::REPO_PATH)
+# Change back to the original directory
+Dir.chdir(original_working_dir)
 
+# Grab all the Markdown files
 md_files = Dir.glob('**/*.md')
 
+# For each row in the csv...
 CSV.foreach(ARGV[0], headers: true) do |row|    
     source = SourceContent.new(url: row[0])
     target = TargetContent.new(url: row[1])
@@ -75,7 +84,8 @@ CSV.foreach(ARGV[0], headers: true) do |row|
             File.open(source.copy_path, "w") { |f| f.puts new_contents }
     end
 
-    puts "git ci -am 'Migrate #{migration_file} documentation from vets.gov-team'"
-    puts "git ci -am 'Deprecate #{migration_file} documentation moved to va.gov-team'"
+    puts "Git messages to use"
+    puts "  git ci -am 'Migrate #{migration_name} documentation from vets.gov-team'"
+    puts "  git ci -am 'Deprecate #{migration_name} documentation moved to va.gov-team'"
 
 end
