@@ -13,7 +13,7 @@ assignees: ''
 ## High Level User Story/ies
 As a _____, I need _____ so I can _____.
 
-## Hypothesis/bet
+## Hypothesis or Bet
 **If** _we make this change_ **then** _we expect this to happen_.
 
 ## VSP OKR
