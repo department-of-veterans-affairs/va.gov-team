@@ -4,7 +4,7 @@ Questions? Contact Design Lead Shawna Hein (shawna@adhocteam.us)
 ## First, a note
 Each designer on VSA should feel ownership over their own design work. They, along with their PMs, should be experts on the problem they are trying to solve.  This review process is not meant to replace the deep knowledge designers should have in their problem space, but rather to augment their process with "many eyes," including folks that have been working on VA.gov for some time and have a good idea of current standards and processes.  Ultimately, the designer is responsible for incorporating all feedback and delivering the best possible design.
 
-We also expect the designers to be working closely with their teams (product and eng) to ensure their designs are technically feasible and the whole team is on the same page, working towards a solution.  This also means that the designer is ultimately responsible for making sure their designs are technically feasible and that what ends up in production matches their designs.
+We also expect the designers to be working closely with their teams (product and eng) to ensure their designs are technically feasible and the whole team is on the same page, working towards a solution.  This also means that the designer is ultimately responsible for making sure that what ends up in production matches their designs.
 
 
 ## Reviews integrated into the design process
