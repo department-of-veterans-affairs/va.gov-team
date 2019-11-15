@@ -1,4 +1,4 @@
-# Discovery Project Brief & Planning Template
+# Discovery Project Brief & Planning
 
 This doc should be filled out during different stages of the discovery sprint process. See the [Discovery Sprint How-to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) for details on the whole process.
 
@@ -6,34 +6,37 @@ This doc should be filled out during different stages of the discovery sprint pr
 _To be filled out with a VA.gov lead prior to starting discovery work._
 
 ### Project Name
-_Short name for the project (e.g., "In-person authentication," "disability benefits application," "benefits navigator")._
+Medical Device Tool
 
-### Problem Statement / How Might We statements
-What problem are we trying to solve? Why are we doing this? (focus on problems, not possible solutions)
+### Problem Statement
+Millions of Veterans depend upon the VA for disability-related medical devices and their accessories. Today, Veterans are able to order prosthetic socks and hearing aid batteries, the two most commonly-ordered medical device accessories, through their respective VA forms (Form 2345 & 2346). There are a number of ways to request these medical devices today, through several different mediums and platforms, providing a disparate experience for Veterans. With the expected sunsetting of eBenefits, BAM2 seeks to match and expand the functionality of the platform on the VA.gov website.
+
+#### How Might We...
+- ...reduce the effort of ordering hearing aid batteries and prosthetic socks?
+- ...
 
 ### What Sprint Teams Are Associated with this Discovery? 
-* Kudos / Rainbows / Core / Other
+Benefits & Memorials 2
 
 ### Discovery Sprint Roles
 See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
-* Product Lead:
-* Discovery Sprint Lead:
+* Product Lead: Matt Self
+* Discovery Sprint Lead: 
 * Engineer:
-* Designer:
-* Researcher:
+* Designer: 
+* Researcher: 
 * Other people from the Sprint Team:
 * SME:
 
 ### Stakeholders
-* VA business owner:
+* VA business owner: 
 * Stakeholders who will be involved or interviewed:
 
 
 ## DISCOVERY PLANNING
 _To be filled out by Discovery Sprint Team._
 
-Note: revise above sections as needed
 
 ### Project Details
 
