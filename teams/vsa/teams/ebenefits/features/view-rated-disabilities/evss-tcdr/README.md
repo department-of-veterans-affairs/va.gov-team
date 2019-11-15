@@ -10,3 +10,9 @@ All appropriate headers must be passed in the request, and the associated ID for
 An example request has been provided and is located here:  
 
 https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/VA-Systems/eBenefits-EVSS/FindRatingInfoService-evss-soapui-project.xml
+
+From the [vets-api README.md](https://github.com/department-of-veterans-affairs/vets-api) there are [instructions](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md) on how to set up betamocks.
+
+A mockdata doc from Charley STran can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/evss-tcdr/mockdata.md) in this folder.
+
+The `yml` recordings should be pushed to the [betamocks repo](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/evss)
