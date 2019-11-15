@@ -1,0 +1,410 @@
+
+<!--
+ Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is Oracle JAX-WS 2.1.3-07/10/2008 08:41 PM(bt). 
+-->
+<xs:schema xmlns:tns="http://services.share.benefits.vba.va.gov/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://services.share.benefits.vba.va.gov/">
+<xs:element name="ShareException" nillable="true" type="tns:shareFaultInfoBean"/>
+<xs:element name="findAllStations" type="tns:findAllStations"/>
+<xs:element name="findAllStationsResponse" type="tns:findAllStationsResponse"/>
+<xs:element name="findBranchOfServiceTypes" type="tns:findBranchOfServiceTypes"/>
+<xs:element name="findBranchOfServiceTypesResponse" type="tns:findBranchOfServiceTypesResponse"/>
+<xs:element name="findCauseOfDeathTypes" type="tns:findCauseOfDeathTypes"/>
+<xs:element name="findCauseOfDeathTypesResponse" type="tns:findCauseOfDeathTypesResponse"/>
+<xs:element name="findCharacterOfServiceTypes" type="tns:findCharacterOfServiceTypes"/>
+<xs:element name="findCharacterOfServiceTypesResponse" type="tns:findCharacterOfServiceTypesResponse"/>
+<xs:element name="findCountries" type="tns:findCountries"/>
+<xs:element name="findCountriesResponse" type="tns:findCountriesResponse"/>
+<xs:element name="findDiagnosticCodes" type="tns:findDiagnosticCodes"/>
+<xs:element name="findDiagnosticCodesResponse" type="tns:findDiagnosticCodesResponse"/>
+<xs:element name="findDiaryReasonCodes" type="tns:findDiaryReasonCodes"/>
+<xs:element name="findDiaryReasonCodesResponse" type="tns:findDiaryReasonCodesResponse"/>
+<xs:element name="findEpcs" type="tns:findEpcs"/>
+<xs:element name="findEpcsResponse" type="tns:findEpcsResponse"/>
+<xs:element name="findFolderTypes" type="tns:findFolderTypes"/>
+<xs:element name="findFolderTypesResponse" type="tns:findFolderTypesResponse"/>
+<xs:element name="findFutureReasons" type="tns:findFutureReasons"/>
+<xs:element name="findFutureReasonsResponse" type="tns:findFutureReasonsResponse"/>
+<xs:element name="findGender" type="tns:findGender"/>
+<xs:element name="findGenderResponse" type="tns:findGenderResponse"/>
+<xs:element name="findGulfWarRegistryPermits" type="tns:findGulfWarRegistryPermits"/>
+<xs:element name="findGulfWarRegistryPermitsResponse" type="tns:findGulfWarRegistryPermitsResponse"/>
+<xs:element name="findInsuranceFolderTypes" type="tns:findInsuranceFolderTypes"/>
+<xs:element name="findInsuranceFolderTypesResponse" type="tns:findInsuranceFolderTypesResponse"/>
+<xs:element name="findInsurancePolicyPrefixs" type="tns:findInsurancePolicyPrefixs"/>
+<xs:element name="findInsurancePolicyPrefixsResponse" type="tns:findInsurancePolicyPrefixsResponse"/>
+<xs:element name="findInsurancePrefixs" type="tns:findInsurancePrefixs"/>
+<xs:element name="findInsurancePrefixsResponse" type="tns:findInsurancePrefixsResponse"/>
+<xs:element name="findIntakeSites" type="tns:findIntakeSites"/>
+<xs:element name="findIntakeSitesResponse" type="tns:findIntakeSitesResponse"/>
+<xs:element name="findMilitaryPostOfficeTypes" type="tns:findMilitaryPostOfficeTypes"/>
+<xs:element name="findMilitaryPostOfficeTypesResponse" type="tns:findMilitaryPostOfficeTypesResponse"/>
+<xs:element name="findMilitaryPostalTypes" type="tns:findMilitaryPostalTypes"/>
+<xs:element name="findMilitaryPostalTypesResponse" type="tns:findMilitaryPostalTypesResponse"/>
+<xs:element name="findNARAs" type="tns:findNARAs"/>
+<xs:element name="findNARAsResponse" type="tns:findNARAsResponse"/>
+<xs:element name="findNoFolderEstablishedReasons" type="tns:findNoFolderEstablishedReasons"/>
+<xs:element name="findNoFolderEstablishedReasonsResponse" type="tns:findNoFolderEstablishedReasonsResponse"/>
+<xs:element name="findPayGrades" type="tns:findPayGrades"/>
+<xs:element name="findPayGradesResponse" type="tns:findPayGradesResponse"/>
+<xs:element name="findPayeeCodes" type="tns:findPayeeCodes"/>
+<xs:element name="findPayeeCodesResponse" type="tns:findPayeeCodesResponse"/>
+<xs:element name="findPcanReasonCodes" type="tns:findPcanReasonCodes"/>
+<xs:element name="findPcanReasonCodesResponse" type="tns:findPcanReasonCodesResponse"/>
+<xs:element name="findPclrReasonCodes" type="tns:findPclrReasonCodes"/>
+<xs:element name="findPclrReasonCodesResponse" type="tns:findPclrReasonCodesResponse"/>
+<xs:element name="findPowerOfAttorneys" type="tns:findPowerOfAttorneys"/>
+<xs:element name="findPowerOfAttorneysResponse" type="tns:findPowerOfAttorneysResponse"/>
+<xs:element name="findProgramTypes" type="tns:findProgramTypes"/>
+<xs:element name="findProgramTypesResponse" type="tns:findProgramTypesResponse"/>
+<xs:element name="findRegionalOffices" type="tns:findRegionalOffices"/>
+<xs:element name="findRegionalOfficesResponse" type="tns:findRegionalOfficesResponse"/>
+<xs:element name="findSalutations" type="tns:findSalutations"/>
+<xs:element name="findSalutationsResponse" type="tns:findSalutationsResponse"/>
+<xs:element name="findSeparationReasonCodes" type="tns:findSeparationReasonCodes"/>
+<xs:element name="findSeparationReasonCodesResponse" type="tns:findSeparationReasonCodesResponse"/>
+<xs:element name="findSsaInquiryReasonCodes" type="tns:findSsaInquiryReasonCodes"/>
+<xs:element name="findSsaInquiryReasonCodesResponse" type="tns:findSsaInquiryReasonCodesResponse"/>
+<xs:element name="findSsnVerificationTypes" type="tns:findSsnVerificationTypes"/>
+<xs:element name="findSsnVerificationTypesResponse" type="tns:findSsnVerificationTypesResponse"/>
+<xs:element name="findStates" type="tns:findStates"/>
+<xs:element name="findStatesResponse" type="tns:findStatesResponse"/>
+<xs:element name="findStationAddress" type="tns:findStationAddress"/>
+<xs:element name="findStationAddressResponse" type="tns:findStationAddressResponse"/>
+<xs:element name="findStations" type="tns:findStations"/>
+<xs:element name="findStationsResponse" type="tns:findStationsResponse"/>
+<xs:element name="findSuffixes" type="tns:findSuffixes"/>
+<xs:element name="findSuffixesResponse" type="tns:findSuffixesResponse"/>
+<xs:complexType name="findInsurancePrefixs">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findInsurancePrefixsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="shrlistsRecord">
+<xs:sequence>
+<xs:element name="numberOfRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="types" type="tns:type" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="type">
+<xs:sequence>
+<xs:element name="code" type="xs:string" minOccurs="0"/>
+<xs:element name="description" type="xs:string" minOccurs="0"/>
+<xs:element name="name" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="shareFaultInfoBean">
+<xs:sequence>
+<xs:element name="message" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findIntakeSites">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findIntakeSitesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findPayeeCodes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findPayeeCodesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findDiagnosticCodes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findDiagnosticCodesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findGulfWarRegistryPermits">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findGulfWarRegistryPermitsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findFutureReasons">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findFutureReasonsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findNARAs">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findNARAsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findCountries">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findCountriesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findGender">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findGenderResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findStates">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findStatesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findMilitaryPostOfficeTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findMilitaryPostOfficeTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findSalutations">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findSalutationsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findMilitaryPostalTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findMilitaryPostalTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findCauseOfDeathTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findCauseOfDeathTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findPcanReasonCodes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findPcanReasonCodesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findSsaInquiryReasonCodes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findSsaInquiryReasonCodesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findSeparationReasonCodes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findSeparationReasonCodesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findSuffixes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findSuffixesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findNoFolderEstablishedReasons">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findNoFolderEstablishedReasonsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findCharacterOfServiceTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findCharacterOfServiceTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findPayGrades">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findPayGradesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findProgramTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findProgramTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findBranchOfServiceTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findBranchOfServiceTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findRegionalOffices">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findRegionalOfficesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findStations">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findStationsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findFolderTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findFolderTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findEpcs">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findEpcsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findPclrReasonCodes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findPclrReasonCodesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findDiaryReasonCodes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findDiaryReasonCodesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findAllStations">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findAllStationsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findInsurancePolicyPrefixs">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findInsurancePolicyPrefixsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findInsuranceFolderTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findInsuranceFolderTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findSsnVerificationTypes">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findSsnVerificationTypesResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrlistsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findStationAddress">
+<xs:sequence>
+<xs:element name="stationNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findStationAddressResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:station" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="station">
+<xs:sequence>
+<xs:element name="addressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="city" type="xs:string" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="state" type="xs:string" minOccurs="0"/>
+<xs:element name="zipCode" type="xs:string" minOccurs="0"/>
+<xs:element name="zipPlus4" type="xs:string" minOccurs="0"/>
+<xs:element name="zipSecondSuffix" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="findPowerOfAttorneys">
+<xs:sequence/>
+</xs:complexType>
+<xs:complexType name="findPowerOfAttorneysResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:secmpoasRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="secmpoasRecord">
+<xs:sequence>
+<xs:element name="numberOfRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="poaTypes" type="tns:poaType" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+<xs:complexType name="poaType">
+<xs:complexContent>
+<xs:extension base="tns:type">
+<xs:sequence>
+<xs:element name="ptcpntId" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+</xs:schema>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is Oracle JAX-WS 2.1.3-07/10/2008 08:41 PM(bt). --><xs:schema xmlns:tns="http://award.services.vetsnet.vba.va.gov/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://award.services.vetsnet.vba.va.gov/">
+
+<xs:element name="FaultException" nillable="true" type="xs:anyType" />
+
+<xs:element name="MessageFaultException" nillable="true">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="faultExceptions" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="errorCode" type="xs:string" minOccurs="0" />
+<xs:element name="errorMessage" type="xs:string" minOccurs="0" />
+<xs:element name="variables" type="xs:string" minOccurs="0" maxOccurs="unbounded" />
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="findStationOfJurisdiction" type="tns:findStationOfJurisdiction" />
+
+<xs:element name="findStationOfJurisdictionResponse" type="tns:findStationOfJurisdictionResponse" />
+
+<xs:element name="findVeteranAwardCmpsitByFileNumber" type="tns:findVeteranAwardCmpsitByFileNumber" />
+
+<xs:element name="findVeteranAwardCmpsitByFileNumberResponse" type="tns:findVeteranAwardCmpsitByFileNumberResponse" />
+
+<xs:element name="findVeteranAwardCmpsitByPtcpntId" type="tns:findVeteranAwardCmpsitByPtcpntId" />
+
+<xs:element name="findVeteranAwardCmpsitByPtcpntIdResponse" type="tns:findVeteranAwardCmpsitByPtcpntIdResponse" />
+
+<xs:element name="findVeteranAwardCmpsitBySSN" type="tns:findVeteranAwardCmpsitBySSN" />
+
+<xs:element name="findVeteranAwardCmpsitBySSNResponse" type="tns:findVeteranAwardCmpsitBySSNResponse" />
+
+<xs:complexType name="findVeteranAwardCmpsitByPtcpntId">
+<xs:sequence>
+<xs:element name="ptcpntId" type="xs:long" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranAwardCmpsitByPtcpntIdResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:awardCmpsitDTO" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="awardCmpsitDTO">
+<xs:sequence>
+<xs:element name="aportnRecipId" type="xs:long" />
+<xs:element name="awardAmt" type="xs:double" minOccurs="0" />
+<xs:element name="awardBasisTxt" type="xs:string" minOccurs="0" />
+<xs:element name="awardCmpsitId" type="xs:long" minOccurs="0" />
+<xs:element name="awardCurntStatusCd" type="xs:string" minOccurs="0" />
+<xs:element name="awardEventId" type="xs:long" minOccurs="0" />
+<xs:element name="awardLineReportId" type="xs:long" minOccurs="0" />
+<xs:element name="awardLineTypeCd" type="xs:string" minOccurs="0" />
+<xs:element name="awardStnNbr" type="xs:string" minOccurs="0" />
+<xs:element name="awardTypeCd" type="xs:string" minOccurs="0" />
+<xs:element name="combndDegreePct" type="xs:int" minOccurs="0" />
+<xs:element name="depHlplsThisNbr" type="xs:int" minOccurs="0" />
+<xs:element name="depHlplsTotalNbr" type="xs:int" minOccurs="0" />
+<xs:element name="depSchoolThisNbr" type="xs:int" minOccurs="0" />
+<xs:element name="depSchoolTotalNbr" type="xs:int" minOccurs="0" />
+<xs:element name="depThisNbr" type="xs:string" minOccurs="0" />
+<xs:element name="depTotalNbr" type="xs:string" minOccurs="0" />
+<xs:element name="efctvDt" type="xs:dateTime" minOccurs="0" />
+<xs:element name="entlmtTypeCd" type="xs:string" minOccurs="0" />
+<xs:element name="fileNbr" type="xs:string" minOccurs="0" />
+<xs:element name="futureEfctvDt" type="xs:dateTime" minOccurs="0" />
+<xs:element name="grossAdjsmtAmt" type="xs:double" minOccurs="0" />
+<xs:element name="grossAmt" type="xs:double" />
+<xs:element name="indvdlUnemplInd" type="xs:string" minOccurs="0" />
+<xs:element name="ivapAmt" type="xs:double" minOccurs="0" />
+<xs:element name="jrnDt" type="xs:dateTime" minOccurs="0" />
+<xs:element name="jrnLctnId" type="xs:string" minOccurs="0" />
+<xs:element name="jrnObjId" type="xs:string" minOccurs="0" />
+<xs:element name="jrnStatusTypeCd" type="xs:string" minOccurs="0" />
+<xs:element name="jrnUserId" type="xs:string" minOccurs="0" />
+<xs:element name="netAmt" type="xs:double" />
+<xs:element name="payeeTypeCd" type="xs:string" minOccurs="0" />
+<xs:element name="priorEfctvDt" type="xs:dateTime" minOccurs="0" />
+<xs:element name="ptcpntBeneId" type="xs:long" minOccurs="0" />
+<xs:element name="ptcpntVetId" type="xs:long" minOccurs="0" />
+<xs:element name="reasonFourTxt" type="xs:string" minOccurs="0" />
+<xs:element name="reasonOneTxt" type="xs:string" minOccurs="0" />
+<xs:element name="reasonThreeTxt" type="xs:string" minOccurs="0" />
+<xs:element name="reasonTwoTxt" type="xs:string" minOccurs="0" />
+<xs:element name="speclMthlyEntlmtTxt" type="xs:string" minOccurs="0" />
+<xs:element name="spouseTxt" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranAwardCmpsitByFileNumber">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranAwardCmpsitByFileNumberResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:awardCmpsitDTO" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findStationOfJurisdiction">
+<xs:sequence>
+<xs:element name="ptcpntVetId" type="xs:long" minOccurs="0" />
+<xs:element name="ptcpntBeneId" type="xs:long" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType  name="findStationOfJurisdictionResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranAwardCmpsitBySSN">
+<xs:sequence>
+<xs:element name="ssn" type="xs:string" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranAwardCmpsitBySSNResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:awardCmpsitDTO" minOccurs="0" />
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
