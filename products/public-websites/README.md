@@ -45,11 +45,9 @@ As a.
 Provide Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
 
 ### User Goals
-With resources better presented to the user, they should be able to find and apply to more benefits with better efficacy.
-
+Help provide customers the easiest way to navigate and find and act upon any VA Service 
 ### Business Goals
-Ensure that as many resources produced by the VA are being leveraged to as many Veterans possible.
-
+Content, navigation, and tools that provide customers the easiest way to find and act upon any VA service.
 ## Assumptions
 There are several different stacks, departments and procedures around migration of features from eBenefits to VA.gov.
 
