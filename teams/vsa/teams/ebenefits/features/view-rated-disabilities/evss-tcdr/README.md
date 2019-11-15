@@ -7,12 +7,11 @@ The endpoint is accessible in the EVSS dev (`INT`) and staging (`PINT`) environm
 
 All appropriate headers must be passed in the request, and the associated ID for the user must be passed in the body.  See the XML file referenced below for the required header and message content.  Also note that the ID passed in the body must match the ID information sent in the header as well, otherwise an error will occur.
 
-An example request has been provided and is located here:  
+## Considerations
+- An example request has been provided and is located [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/VA-Systems/eBenefits-EVSS/FindRatingInfoService-evss-soapui-project.xml)
 
-https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/VA-Systems/eBenefits-EVSS/FindRatingInfoService-evss-soapui-project.xml
+- From the [vets-api README.md](https://github.com/department-of-veterans-affairs/vets-api) there are [instructions](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md) on how to set up betamocks.
 
-From the [vets-api README.md](https://github.com/department-of-veterans-affairs/vets-api) there are [instructions](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md) on how to set up betamocks.
+- An overview on mockdata can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/evss-tcdr/mockdata.md) in this folder.
 
-A mockdata doc from Charley STran can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/evss-tcdr/mockdata.md) in this folder.
-
-The `yml` recordings should be pushed to the [betamocks repo](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/evss)
+- The `yml` recordings should be pushed to the [betamocks repo](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/evss).
