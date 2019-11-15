@@ -39,17 +39,15 @@
 # Executive Summary
 
 ## User Problem Statement
-As a.
-
+As a 
 ## Solution Goals
-Provide Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
-
+Provides Veterans, family members, caregivers, and service members access to vital information about VA benefits and services.
 ### User Goals
-Help provide customers the easiest way to navigate and find and act upon any VA Service 
+Content, navigation, and tools that provide users the easiest way to find and act upon any VA service.
 ### Business Goals
-Content, navigation, and tools that provide customers the easiest way to find and act upon any VA service.
+Builds, maintains, and improves the public facing experience on VA.gov.
 ## Assumptions
-There are several different stacks, departments and procedures around migration of features from eBenefits to VA.gov.
+There 
 
 ## Requirements and Constraints
 Onboarding, access and domain knowledge has some upfront challenges.
@@ -58,7 +56,7 @@ Onboarding, access and domain knowledge has some upfront challenges.
 The key to implementing what has been learned is at least two-fold: stay organized and communicate as much as possible.  Notes are useless if they cannot be easily access and talking things through with your team allows for shared understanding, team cohesion and improved culture. 
 
 ## Solution Approach
-Begin migration process with documentation of simpler **view** tasks to learn the stacks and process and perfect the process with repeatability in mind and continue with **view** tasks as priorities permit.  Next might be more complicated "**submit** tasks and having the **view** task foundation will be tremendously helpful.
+Begin
 
 ## Value Propositions
 Probably the largest is the placement of resources closer to the user and their anticiapted increased usage.
