@@ -13,7 +13,7 @@ The legacy mobile online scheduling application currently lives in VA's mobile s
 - Is the data showing up where it is supposed to show up? 
 
 4. Hypothesis: What is your hypothesis for this research? 
-n/a
+Veterans are able to view their upcoming appointments & appointment requests in a way that is logical and intuitive to them.
 
 ## Method
 1.	What method of research are you planning? 
@@ -37,7 +37,7 @@ Zoom
 
 First phase: 25 participants - 
 - MUST be Veterans who have UPCOMING HEALTH appointments at VA (and thus have VA health). 
-- MUST be Veterans who have a MHV premium account, OR an authenticated ID.me account. They should have their account details handy for the session, as they will be required to sign in. 
+- MUST be Veterans who have a MHV premium account, OR an authenticated / identity-proofed ID.me account. They should have their account details handy for the session, as they will be required to sign in. 
 Prior to the sessions, Veterans must log into VA.gov with their ID.me or MHV Premium accounts. 
 - Veterans who have logged into VA.gov before the session with their accounts. Please tell participants to go to VA.gov and sign in with their MHV Premium or ID.me accounts prior to the session. If they have never logged into VA.gov before, VA.gov will require them to enter an email address to authenticate. We will need THAT email prior to the session. 
 
@@ -45,9 +45,10 @@ Prior to the sessions, Veterans must log into VA.gov with their ID.me or MHV Pre
 Second phase: 25 participants 
 - Veterans who are enrolled in VA healthcare.
 - Ideally, some Veterans who know that they are eligible for community care. 
-- - MUST be Veterans who have a MHV premium account, OR an authenticated ID.me account. 
+- MUST be Veterans who have a MHV premium account, OR an authenticated ID.me account. 
 - Veterans who have logged into VA.gov before the session with their accounts (they may need to do this beforehand). Please tell participants to go to VA.gov and sign in with their MHV Premium or ID.me accounts prior to the session. If they have never logged into VA.gov before, VA.gov will require them to enter an email address to authenticate. We will need THAT email prior to the session. 
 - Veterans want to submit / request appointments. 
+- Ideally, veterans should have used online scheduling before, or have been seen at a VA healthcare facility within the last 2 years.
 
 
 
@@ -77,7 +78,10 @@ Scheduling Phase 2 for the first week of December
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
-- Moderator: Lauren? Ryan? Mark? 
+- Moderator:
+    - Lauren
+    - Ryan
+    - Mark (602-741-3706 / mark.greenburg@adhocteam.us, CC mark.greenburg@va.gov)
 - Research guide writing and task development (usually but not always same as moderator): Lauren 
 - Participant recruiting & screening: Perigean
 - Project point of contact: Lauren 
