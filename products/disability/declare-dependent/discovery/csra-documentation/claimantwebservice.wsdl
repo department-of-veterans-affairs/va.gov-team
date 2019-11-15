@@ -1,0 +1,687 @@
+<definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="http://services.share.benefits.vba.va.gov/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="http://services.share.benefits.vba.va.gov/" name="ClaimantWebService">
+<types>
+<xsd:schema>
+<xsd:import namespace="http://services.share.benefits.vba.va.gov/" schemaLocation="ClaimantWebService.xsd"/>
+</xsd:schema>
+</types>
+<message name="findDependents">
+<part name="parameters" element="tns:findDependents"/>
+</message>
+<message name="findDependentsResponse">
+<part name="parameters" element="tns:findDependentsResponse"/>
+</message>
+<message name="ShareException">
+<part name="fault" element="tns:ShareException"/>
+</message>
+<message name="findFlashes">
+<part name="parameters" element="tns:findFlashes"/>
+</message>
+<message name="findFlashesResponse">
+<part name="parameters" element="tns:findFlashesResponse"/>
+</message>
+<message name="addFlash">
+<part name="parameters" element="tns:addFlash"/>
+</message>
+<message name="addFlashResponse">
+<part name="parameters" element="tns:addFlashResponse"/>
+</message>
+<message name="updateMonthOfDeath">
+<part name="parameters" element="tns:updateMonthOfDeath"/>
+</message>
+<message name="updateMonthOfDeathResponse">
+<part name="parameters" element="tns:updateMonthOfDeathResponse"/>
+</message>
+<message name="findPOA">
+<part name="parameters" element="tns:findPOA"/>
+</message>
+<message name="findPOAResponse">
+<part name="parameters" element="tns:findPOAResponse"/>
+</message>
+<message name="findPOAByPtcpntId">
+<part name="parameters" element="tns:findPOAByPtcpntId"/>
+</message>
+<message name="findPOAByPtcpntIdResponse">
+<part name="parameters" element="tns:findPOAByPtcpntIdResponse"/>
+</message>
+<message name="findFiduciary">
+<part name="parameters" element="tns:findFiduciary"/>
+</message>
+<message name="findFiduciaryResponse">
+<part name="parameters" element="tns:findFiduciaryResponse"/>
+</message>
+<message name="findAllFiduciaryPoa">
+<part name="parameters" element="tns:findAllFiduciaryPoa"/>
+</message>
+<message name="findAllFiduciaryPoaResponse">
+<part name="parameters" element="tns:findAllFiduciaryPoaResponse"/>
+</message>
+<message name="findDependentsByPtcpntId">
+<part name="parameters" element="tns:findDependentsByPtcpntId"/>
+</message>
+<message name="findDependentsByPtcpntIdResponse">
+<part name="parameters" element="tns:findDependentsByPtcpntIdResponse"/>
+</message>
+<message name="findAssignedFlashes">
+<part name="parameters" element="tns:findAssignedFlashes"/>
+</message>
+<message name="findAssignedFlashesResponse">
+<part name="parameters" element="tns:findAssignedFlashesResponse"/>
+</message>
+<message name="findVBMSFlash">
+<part name="parameters" element="tns:findVBMSFlash"/>
+</message>
+<message name="findVBMSFlashResponse">
+<part name="parameters" element="tns:findVBMSFlashResponse"/>
+</message>
+<message name="removeFlash">
+<part name="parameters" element="tns:removeFlash"/>
+</message>
+<message name="removeFlashResponse">
+<part name="parameters" element="tns:removeFlashResponse"/>
+</message>
+<message name="updateFlashes">
+<part name="parameters" element="tns:updateFlashes"/>
+</message>
+<message name="updateFlashesResponse">
+<part name="parameters" element="tns:updateFlashesResponse"/>
+</message>
+<message name="findMonthOfDeath">
+<part name="parameters" element="tns:findMonthOfDeath"/>
+</message>
+<message name="findMonthOfDeathResponse">
+<part name="parameters" element="tns:findMonthOfDeathResponse"/>
+</message>
+<message name="findAwardAddresses">
+<part name="parameters" element="tns:findAwardAddresses"/>
+</message>
+<message name="findAwardAddressesResponse">
+<part name="parameters" element="tns:findAwardAddressesResponse"/>
+</message>
+<message name="findAwardMailingAddress">
+<part name="parameters" element="tns:findAwardMailingAddress"/>
+</message>
+<message name="findAwardMailingAddressResponse">
+<part name="parameters" element="tns:findAwardMailingAddressResponse"/>
+</message>
+<message name="findBenefitClaimAddresses">
+<part name="parameters" element="tns:findBenefitClaimAddresses"/>
+</message>
+<message name="findBenefitClaimAddressesResponse">
+<part name="parameters" element="tns:findBenefitClaimAddressesResponse"/>
+</message>
+<message name="findMailingAddress">
+<part name="parameters" element="tns:findMailingAddress"/>
+</message>
+<message name="findMailingAddressResponse">
+<part name="parameters" element="tns:findMailingAddressResponse"/>
+</message>
+<message name="findPaymentAddress">
+<part name="parameters" element="tns:findPaymentAddress"/>
+</message>
+<message name="findPaymentAddressResponse">
+<part name="parameters" element="tns:findPaymentAddressResponse"/>
+</message>
+<message name="findDepositAccount">
+<part name="parameters" element="tns:findDepositAccount"/>
+</message>
+<message name="findDepositAccountResponse">
+<part name="parameters" element="tns:findDepositAccountResponse"/>
+</message>
+<message name="findGeneralInformationByFileNumber">
+<part name="parameters" element="tns:findGeneralInformationByFileNumber"/>
+</message>
+<message name="findGeneralInformationByFileNumberResponse">
+<part name="parameters" element="tns:findGeneralInformationByFileNumberResponse"/>
+</message>
+<message name="findGeneralInformationByPtcpntId">
+<part name="parameters" element="tns:findGeneralInformationByPtcpntId"/>
+</message>
+<message name="findGeneralInformationByPtcpntIdResponse">
+<part name="parameters" element="tns:findGeneralInformationByPtcpntIdResponse"/>
+</message>
+<message name="findGeneralInformationByPtcpntIds">
+<part name="parameters" element="tns:findGeneralInformationByPtcpntIds"/>
+</message>
+<message name="findGeneralInformationByPtcpntIdsResponse">
+<part name="parameters" element="tns:findGeneralInformationByPtcpntIdsResponse"/>
+</message>
+<message name="findOtherAwardInformation">
+<part name="parameters" element="tns:findOtherAwardInformation"/>
+</message>
+<message name="findOtherAwardInformationResponse">
+<part name="parameters" element="tns:findOtherAwardInformationResponse"/>
+</message>
+<message name="findIncomeExpense">
+<part name="parameters" element="tns:findIncomeExpense"/>
+</message>
+<message name="findIncomeExpenseResponse">
+<part name="parameters" element="tns:findIncomeExpenseResponse"/>
+</message>
+<message name="findDenialsByPtcpntId">
+<part name="parameters" element="tns:findDenialsByPtcpntId"/>
+</message>
+<message name="findDenialsByPtcpntIdResponse">
+<part name="parameters" element="tns:findDenialsByPtcpntIdResponse"/>
+</message>
+<message name="findReasonsByRbaIssueId">
+<part name="parameters" element="tns:findReasonsByRbaIssueId"/>
+</message>
+<message name="findReasonsByRbaIssueIdResponse">
+<part name="parameters" element="tns:findReasonsByRbaIssueIdResponse"/>
+</message>
+<message name="findMilitaryRecordByPtcpntId">
+<part name="parameters" element="tns:findMilitaryRecordByPtcpntId"/>
+</message>
+<message name="findMilitaryRecordByPtcpntIdResponse">
+<part name="parameters" element="tns:findMilitaryRecordByPtcpntIdResponse"/>
+</message>
+<message name="findAllRelationships">
+<part name="parameters" element="tns:findAllRelationships"/>
+</message>
+<message name="findAllRelationshipsResponse">
+<part name="parameters" element="tns:findAllRelationshipsResponse"/>
+</message>
+<portType name="ClaimantService">
+<operation name="findDependents">
+<input message="tns:findDependents"/>
+<output message="tns:findDependentsResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findFlashes">
+<input message="tns:findFlashes"/>
+<output message="tns:findFlashesResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="addFlash">
+<input message="tns:addFlash"/>
+<output message="tns:addFlashResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="updateMonthOfDeath">
+<input message="tns:updateMonthOfDeath"/>
+<output message="tns:updateMonthOfDeathResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findPOA">
+<input message="tns:findPOA"/>
+<output message="tns:findPOAResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findPOAByPtcpntId">
+<input message="tns:findPOAByPtcpntId"/>
+<output message="tns:findPOAByPtcpntIdResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findFiduciary">
+<input message="tns:findFiduciary"/>
+<output message="tns:findFiduciaryResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findAllFiduciaryPoa">
+<input message="tns:findAllFiduciaryPoa"/>
+<output message="tns:findAllFiduciaryPoaResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findDependentsByPtcpntId">
+<input message="tns:findDependentsByPtcpntId"/>
+<output message="tns:findDependentsByPtcpntIdResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findAssignedFlashes">
+<input message="tns:findAssignedFlashes"/>
+<output message="tns:findAssignedFlashesResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findVBMSFlash">
+<input message="tns:findVBMSFlash"/>
+<output message="tns:findVBMSFlashResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="removeFlash">
+<input message="tns:removeFlash"/>
+<output message="tns:removeFlashResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="updateFlashes">
+<input message="tns:updateFlashes"/>
+<output message="tns:updateFlashesResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findMonthOfDeath">
+<input message="tns:findMonthOfDeath"/>
+<output message="tns:findMonthOfDeathResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findAwardAddresses">
+<input message="tns:findAwardAddresses"/>
+<output message="tns:findAwardAddressesResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findAwardMailingAddress">
+<input message="tns:findAwardMailingAddress"/>
+<output message="tns:findAwardMailingAddressResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findBenefitClaimAddresses">
+<input message="tns:findBenefitClaimAddresses"/>
+<output message="tns:findBenefitClaimAddressesResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findMailingAddress">
+<input message="tns:findMailingAddress"/>
+<output message="tns:findMailingAddressResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findPaymentAddress">
+<input message="tns:findPaymentAddress"/>
+<output message="tns:findPaymentAddressResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findDepositAccount">
+<input message="tns:findDepositAccount"/>
+<output message="tns:findDepositAccountResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findGeneralInformationByFileNumber">
+<input message="tns:findGeneralInformationByFileNumber"/>
+<output message="tns:findGeneralInformationByFileNumberResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findGeneralInformationByPtcpntId">
+<input message="tns:findGeneralInformationByPtcpntId"/>
+<output message="tns:findGeneralInformationByPtcpntIdResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findGeneralInformationByPtcpntIds">
+<input message="tns:findGeneralInformationByPtcpntIds"/>
+<output message="tns:findGeneralInformationByPtcpntIdsResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findOtherAwardInformation">
+<input message="tns:findOtherAwardInformation"/>
+<output message="tns:findOtherAwardInformationResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findIncomeExpense">
+<input message="tns:findIncomeExpense"/>
+<output message="tns:findIncomeExpenseResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findDenialsByPtcpntId">
+<input message="tns:findDenialsByPtcpntId"/>
+<output message="tns:findDenialsByPtcpntIdResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findReasonsByRbaIssueId">
+<input message="tns:findReasonsByRbaIssueId"/>
+<output message="tns:findReasonsByRbaIssueIdResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findMilitaryRecordByPtcpntId">
+<input message="tns:findMilitaryRecordByPtcpntId"/>
+<output message="tns:findMilitaryRecordByPtcpntIdResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+<operation name="findAllRelationships">
+<input message="tns:findAllRelationships"/>
+<output message="tns:findAllRelationshipsResponse"/>
+<fault message="tns:ShareException" name="ShareException"/>
+</operation>
+</portType>
+<binding name="ClaimantWebServicePortBinding" type="tns:ClaimantService">
+<soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="document"/>
+<operation name="findDependents">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findFlashes">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="addFlash">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="updateMonthOfDeath">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findPOA">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findPOAByPtcpntId">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findFiduciary">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findAllFiduciaryPoa">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findDependentsByPtcpntId">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findAssignedFlashes">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findVBMSFlash">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="removeFlash">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="updateFlashes">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findMonthOfDeath">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findAwardAddresses">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findAwardMailingAddress">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findBenefitClaimAddresses">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findMailingAddress">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findPaymentAddress">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findDepositAccount">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findGeneralInformationByFileNumber">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findGeneralInformationByPtcpntId">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findGeneralInformationByPtcpntIds">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findOtherAwardInformation">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findIncomeExpense">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findDenialsByPtcpntId">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findReasonsByRbaIssueId">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findMilitaryRecordByPtcpntId">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+<operation name="findAllRelationships">
+<soap:operation soapAction=""/>
+<input>
+<soap:body use="literal"/>
+</input>
+<output>
+<soap:body use="literal"/>
+</output>
+<fault name="ShareException">
+<soap:fault name="ShareException" use="literal"/>
+</fault>
+</operation>
+</binding>
+<service name="ClaimantWebService">
+<port name="ClaimantWebServicePort" binding="tns:ClaimantWebServicePortBinding">
+<soap:address location="http://bepwebtest.vba.va.gov:80/ClaimantServiceBean/ClaimantWebService"/>
+</port>
+</service>
+</definitions>

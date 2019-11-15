@@ -1,0 +1,1185 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is Oracle JAX-WS 2.1.5. --><xs:schema xmlns:tns="http://services.share.benefits.vba.va.gov/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://services.share.benefits.vba.va.gov/">
+
+<xs:element name="AlternateName">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="ALT_LAST_NAME" type="xs:string" nillable="true"/>
+<xs:element name="ALT_FIRST_NAME" type="xs:string" nillable="true"/>
+<xs:element name="ALT_MIDDLE_NAME" type="xs:string" nillable="true"/>
+<xs:element name="ALT_NAME_SUFFIX" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="BirlsInquiryInput" type="tns:birlsInquiry"/>
+
+<xs:element name="BirlsRecord" type="tns:birlsRecord"/>
+
+<xs:element name="BirlsSelection">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="VET_IND" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="LAST_NAME" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="FIRST_NAME" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="MIDDLE_NAME" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SUFFIX" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="FILE_NUMBER" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="PAYEE_CODE" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="CURRENT_LOCATION" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="ENTERED_ON_DUTY_DATE" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="RELEASED_ACTIVE_DUTY_DATE" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="DATE_OF_BIRTH" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="DATE_OF_DEATH" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SSN_VERIFIED" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SSN" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SERVICE_NUMBER" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="BRANCH_OF_SERVICE" type="xs:string" nillable="true" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="Flash">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="FLASH_CODE" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_STATION" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_ROUTING_SYMBOL" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="Folder">
+<xs:complexType>
+<xs:all>
+<xs:element name="FOLDER_TYPE" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_CURRENT_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_DAY" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSFER" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_PRIOR_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_TO_STATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_DAY" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSIT" type="xs:string" nillable="true"/>
+<xs:element name="RELOCATION_INDICATOR" type="xs:string" nillable="true"/>
+<xs:element name="FARC_ACCESSION_NUM" type="xs:string" nillable="true"/>
+<xs:element name="NO_FOLDER_EST_REASON" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_DESTROYED_IND" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_REBUILT_IND" type="xs:string" nillable="true"/>
+<xs:element name="NO_RECORD_IND" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_DAY" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_FLDR_RETIRE" type="xs:string" nillable="true"/>
+<xs:element name="BOX_SEQUENCE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="LOCATION_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="INSURANCE_FOLDER_TYPE" type="xs:string" nillable="true"/>
+</xs:all>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="InsurancePolicy">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="INS_POL_PREFIX" type="xs:string" nillable="true"/>
+<xs:element name="INS_POL_NUMBER" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="RecuringDisclosure">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="RECUR_DISCLOSURE_NUM" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_DISCLOSURE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="Service">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SHORT_SERVICE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_NUMBER_FILL" type="xs:string" nillable="true"/>
+<xs:element name="BRANCH_OF_SERVICE" type="xs:string" nillable="true"/>
+<xs:element name="ENTERED_ON_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="RELEASED_ACTIVE_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="SEPARATION_REASON_CODE" type="xs:string" nillable="true"/>
+<xs:element name="NONPAY_DAYS" type="xs:string" nillable="true"/>
+<xs:element name="PAY_GRADE" type="xs:string" nillable="true"/>
+<xs:element name="CHAR_OF_SVC_CODE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="ServiceDiagnostics">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SERVICE_DIAGNOSTICS" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT1" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT2" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_ANALOGUS_CODE" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_SVC_CON_DISABILITY" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="ShareException" nillable="true" type="tns:shareFaultInfoBean"/>
+
+<xs:element name="findBirlsRecord" type="tns:findBirlsRecord"/>
+
+<xs:element name="findBirlsRecordByFileNumber" type="tns:findBirlsRecordByFileNumber"/>
+
+<xs:element name="findBirlsRecordByFileNumberResponse" type="tns:findBirlsRecordByFileNumberResponse"/>
+
+<xs:element name="findBirlsRecordResponse" type="tns:findBirlsRecordResponse"/>
+
+<xs:element name="findCorporateRecord" type="tns:findCorporateRecord"/>
+
+<xs:element name="findCorporateRecordByFileNumber" type="tns:findCorporateRecordByFileNumber"/>
+
+<xs:element name="findCorporateRecordByFileNumberResponse" type="tns:findCorporateRecordByFileNumberResponse"/>
+
+<xs:element name="findCorporateRecordByPtcpntId" type="tns:findCorporateRecordByPtcpntId"/>
+
+<xs:element name="findCorporateRecordByPtcpntIdResponse" type="tns:findCorporateRecordByPtcpntIdResponse"/>
+
+<xs:element name="findCorporateRecordResponse" type="tns:findCorporateRecordResponse"/>
+
+<xs:element name="findIndex" type="tns:findIndex"/>
+
+<xs:element name="findIndexResponse" type="tns:findIndexResponse"/>
+
+<xs:element name="findVeteran" type="tns:findVeteran"/>
+
+<xs:element name="findVeteranByFileNumber" type="tns:findVeteranByFileNumber"/>
+
+<xs:element name="findVeteranByFileNumberResponse" type="tns:findVeteranByFileNumberResponse"/>
+
+<xs:element name="findVeteranByPtcpntId" type="tns:findVeteranByPtcpntId"/>
+
+<xs:element name="findVeteranByPtcpntIdResponse" type="tns:findVeteranByPtcpntIdResponse"/>
+
+<xs:element name="findVeteranResponse" type="tns:findVeteranResponse"/>
+
+<xs:element name="insertBirlsRecord" type="tns:insertBirlsRecord"/>
+
+<xs:element name="insertBirlsRecordResponse" type="tns:insertBirlsRecordResponse"/>
+
+<xs:element name="syncCorporateBirls" type="tns:syncCorporateBirls"/>
+
+<xs:element name="syncCorporateBirlsResponse" type="tns:syncCorporateBirlsResponse"/>
+
+<xs:element name="updateBirlsRecord" type="tns:updateBirlsRecord"/>
+
+<xs:element name="updateBirlsRecordResponse" type="tns:updateBirlsRecordResponse"/>
+
+<xs:complexType name="findVeteranByPtcpntId">
+<xs:sequence>
+<xs:element name="ptcpntId" type="xs:long" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranByPtcpntIdResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:veteranRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="veteranRecord">
+<xs:sequence>
+<xs:element name="vetBirlsRecord" type="tns:birlsRecord" minOccurs="0"/>
+<xs:element name="vetCorpRecord" type="tns:shrinq2Person" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="birlsRecord">
+<xs:sequence>
+<xs:element name="RETURN_CODE" type="xs:string"/>
+<xs:element name="RETURN_MESSAGE" type="xs:string"/>
+<xs:element name="SPACE" type="xs:string" nillable="true"/>
+<xs:element name="CLAIM_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="SOC_SEC_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="INS_PREFIX" type="xs:string" nillable="true"/>
+<xs:element name="INS_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="INSURANCE_POLICY" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="INS_POL_PREFIX" type="xs:string" nillable="true"/>
+<xs:element name="INS_POL_NUMBER" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="SERVICE" nillable="true" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SHORT_SERVICE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_NUMBER_FILL" type="xs:string" nillable="true"/>
+<xs:element name="BRANCH_OF_SERVICE" type="xs:string" nillable="true"/>
+<xs:element name="ENTERED_ON_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="RELEASED_ACTIVE_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="SEPARATION_REASON_CODE" type="xs:string" nillable="true"/>
+<xs:element name="NONPAY_DAYS" type="xs:string" nillable="true"/>
+<xs:element name="PAY_GRADE" type="xs:string" nillable="true"/>
+<xs:element name="CHAR_OF_SVC_CODE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="LAST_NAME" type="xs:string" nillable="true"/>
+<xs:element name="FIRST_NAME" type="xs:string" nillable="true"/>
+<xs:element name="MIDDLE_NAME" type="xs:string" nillable="true"/>
+<xs:element name="NAME_SUFFIX" type="xs:string" nillable="true"/>
+<xs:element name="ALTERNATE_NAME" nillable="true" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="ALT_LAST_NAME" type="xs:string" nillable="true"/>
+<xs:element name="ALT_FIRST_NAME" type="xs:string" nillable="true"/>
+<xs:element name="ALT_MIDDLE_NAME" type="xs:string" nillable="true"/>
+<xs:element name="ALT_NAME_SUFFIX" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="BIRTH_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="BIRTH_DAY" type="xs:string" nillable="true"/>
+<xs:element name="BIRTH_CENTURY" type="xs:string" nillable="true"/>
+<xs:element name="BIRTH_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_BIRTH" type="xs:string" nillable="true"/>
+<xs:element name="DEATH_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="DEATH_DAY" type="xs:string" nillable="true"/>
+<xs:element name="DEATH_CENTURY" type="xs:string" nillable="true"/>
+<xs:element name="DEATH_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_DEATH" type="xs:string" nillable="true"/>
+<xs:element name="POW_NUMBER_OF_DAYS" type="xs:string" nillable="true"/>
+<xs:element name="TOTAL_ACTIVE_SERVICE_YEARS" type="xs:string" nillable="true"/>
+<xs:element name="TOTAL_ACTIVE_SERVICE_MONTHS" type="xs:string" nillable="true"/>
+<xs:element name="TOTAL_ACTIVE_SERVICE_DAYS" type="xs:string" nillable="true"/>
+<xs:element name="DISABILITY_SEVERANCE_PAY" type="xs:string" nillable="true"/>
+<xs:element name="LUMP_SUM_READJUSTMENT_PAY" type="xs:string" nillable="true"/>
+<xs:element name="SEPARATION_PAY" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER" nillable="true" maxOccurs="unbounded">
+<xs:complexType>
+<xs:all>
+<xs:element name="FOLDER_TYPE" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_CURRENT_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_DAY" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSFER" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_PRIOR_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_TO_STATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_DAY" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSIT" type="xs:string" nillable="true"/>
+<xs:element name="RELOCATION_INDICATOR" type="xs:string" nillable="true"/>
+<xs:element name="FARC_ACCESSION_NUM" type="xs:string" nillable="true"/>
+<xs:element name="NO_FOLDER_EST_REASON" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_DESTROYED_IND" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_REBUILT_IND" type="xs:string" nillable="true"/>
+<xs:element name="NO_RECORD_IND" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_DAY" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_FLDR_RETIRE" type="xs:string" nillable="true"/>
+<xs:element name="BOX_SEQUENCE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="LOCATION_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="INSURANCE_FOLDER_TYPE" type="xs:string" nillable="true"/>
+</xs:all>
+</xs:complexType>
+</xs:element>
+<xs:element name="CLAIM_FOLDER_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="VET_HAS_BENE_IND" type="xs:string" nillable="true"/>
+<xs:element name="VET_IS_BENE_IND" type="xs:string" nillable="true"/>
+<xs:element name="PURPLE_HEART_IND" type="xs:string" nillable="true"/>
+<xs:element name="VERIFIED_SOC_SEC_IND" type="xs:string" nillable="true"/>
+<xs:element name="VA_EMPLOYEE_IND" type="xs:string" nillable="true"/>
+<xs:element name="VIETNAM_SERVICE_IND" type="xs:string" nillable="true"/>
+<xs:element name="DISABILITY_IND" type="xs:string" nillable="true"/>
+<xs:element name="MEDAL_OF_HONOR_IND" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_TO_RESERVES_IND" type="xs:string" nillable="true"/>
+<xs:element name="ACTIVE_DUTY_TRAINING_IND" type="xs:string" nillable="true"/>
+<xs:element name="REENLISTED_IND" type="xs:string" nillable="true"/>
+<xs:element name="BURIAL_FLAG_ISSUE_IND" type="xs:string" nillable="true"/>
+<xs:element name="SEX_CODE" type="xs:string" nillable="true"/>
+<xs:element name="CONTESTED_DATA_IND" type="xs:string" nillable="true"/>
+<xs:element name="GUARDIANSHIP_CASE_IND" type="xs:string" nillable="true"/>
+<xs:element name="INCOMPETENT_IND" type="xs:string" nillable="true"/>
+<xs:element name="CP_VET_CP_BENE_IND" type="xs:string" nillable="true"/>
+<xs:element name="VADS_IND" type="xs:string" nillable="true"/>
+<xs:element name="VERIFIED_SVC_DATA_IND" type="xs:string" nillable="true"/>
+<xs:element name="CH30_IND" type="xs:string" nillable="true"/>
+<xs:element name="CH32_BANK_IND" type="xs:string" nillable="true"/>
+<xs:element name="CH32_BEN_IND" type="xs:string" nillable="true"/>
+<xs:element name="CH34_IND" type="xs:string" nillable="true"/>
+<xs:element name="CH106_IND" type="xs:string" nillable="true"/>
+<xs:element name="CH31_IND" type="xs:string" nillable="true"/>
+<xs:element name="CH32_903_IND" type="xs:string" nillable="true"/>
+<xs:element name="IND_901" type="xs:string" nillable="true"/>
+<xs:element name="JOBS_IND" type="xs:string" nillable="true"/>
+<xs:element name="VARMS_IND" type="xs:string" nillable="true"/>
+<xs:element name="DIAGS_VERIFIED_IND" type="xs:string" nillable="true"/>
+<xs:element name="HOMELESS_VET_IND" type="xs:string" nillable="true"/>
+<xs:element name="RET_SVR_IND" type="xs:string" nillable="true"/>
+<xs:element name="PERSIAN_GULF_SVC_IND" type="xs:string" nillable="true"/>
+<xs:element name="SVC_MED_RECORD_IND" type="xs:string" nillable="true"/>
+<xs:element name="BANKRUPTCY_IND" type="xs:string" nillable="true"/>
+<xs:element name="CAUSE_OF_DEATH" type="xs:string" nillable="true"/>
+<xs:element name="DEATH_IN_SVC" type="xs:string" nillable="true"/>
+<xs:element name="POWER_OF_ATTY_CODE1" type="xs:string" nillable="true"/>
+<xs:element name="POWER_OF_ATTY_CODE2" type="xs:string" nillable="true"/>
+<xs:element name="FLASH" nillable="true" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="FLASH_CODE" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_STATION" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_ROUTING_SYMBOL" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="CLOTHING_ALLOWANCE" type="xs:string" nillable="true"/>
+<xs:element name="SERVICEDIAGNOSTICS" nillable="true" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SERVICE_DIAGNOSTICS" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT1" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT2" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_ANALOGUS_CODE" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_SVC_CON_DISABILITY" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="NUM_OF_SVC_CON_DIS" type="xs:string" nillable="true"/>
+<xs:element name="BURIAL_AWARD_PLOT" type="xs:string" nillable="true"/>
+<xs:element name="BURIAL_AWARD_TRANSPORT" type="xs:string" nillable="true"/>
+<xs:element name="HEADSTONE" type="xs:string" nillable="true"/>
+<xs:element name="PAYMENT" type="xs:string" nillable="true"/>
+<xs:element name="APPLICATION_FOR_PLOT" type="xs:string" nillable="true"/>
+<xs:element name="ADAPTIVE_EQUIPMENT" type="xs:string" nillable="true"/>
+<xs:element name="SPECIAL_ADAPTIVE_HOUSING" type="xs:string" nillable="true"/>
+<xs:element name="REASON_FOR_TERM_DISALLOW" type="xs:string" nillable="true"/>
+<xs:element name="ENTITLEMENT_CODE" type="xs:string" nillable="true"/>
+<xs:element name="SPECIAL_LAW_CODE" type="xs:string" nillable="true"/>
+<xs:element name="CP_EFFCTVE_DATE_OF_TERM" type="xs:string" nillable="true"/>
+<xs:element name="BURIAL_AWD_SVC_CONNECT" type="xs:string" nillable="true"/>
+<xs:element name="BURIAL_AWD_NONSVC_CON" type="xs:string" nillable="true"/>
+<xs:element name="AUTOMOBILE_ALLOWANCE" type="xs:string" nillable="true"/>
+<xs:element name="COMBINED_DEGREE" type="xs:string" nillable="true"/>
+<xs:element name="ADD_DIA_IND" type="xs:string" nillable="true"/>
+<xs:element name="EMPLOYEE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="EMPLOYEE_STATION_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="UPDATE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="UPDATE_DAY" type="xs:string" nillable="true"/>
+<xs:element name="UPDATE_CENTURY" type="xs:string" nillable="true"/>
+<xs:element name="UPDATE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_UPDATE" type="xs:string" nillable="true"/>
+<xs:element name="NUMBER_OF_DISCLOSURES" type="xs:string" nillable="true"/>
+<xs:element name="RECURING_DISCLOSURE" nillable="true" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="RECUR_DISCLOSURE_NUM" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_DISCLOSURE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="INSURANCE_JURIS" type="xs:string" nillable="true"/>
+<xs:element name="INS_LAPSED_PURGE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="INS_LAPSED_PURGE_CENTURY" type="xs:string" nillable="true"/>
+<xs:element name="INS_LAPSED_PURGE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_INS_LAPSED_PURGE" type="xs:string" nillable="true"/>
+<xs:element name="CH30_OVERPAYMENT" type="xs:string" nillable="true"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_AMT_C" type="xs:string" nillable="true"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_MM_C" type="xs:string" nillable="true"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_YEAR_C" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_DMDC_RETIRE_PAY_C" type="xs:string" nillable="true"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_AMT_P" type="xs:string" nillable="true"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_MM_P" type="xs:string" nillable="true"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_YEAR_P" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_DMDC_RETIRE_PAY_P" type="xs:string" nillable="true"/>
+<xs:element name="VADS_IND2" type="xs:string" nillable="true"/>
+<xs:element name="VADS_IND3" type="xs:string" nillable="true"/>
+<xs:element name="VERIFIED_SVC_DATA_IND2" type="xs:string" nillable="true"/>
+<xs:element name="VERIFIED_SVC_DATA_IND3" type="xs:string" nillable="true"/>
+<xs:element name="SVC_NUM_EDIT_FILLER" type="xs:string" nillable="true"/>
+<xs:element name="PVR_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="PVR_DAY" type="xs:string" nillable="true"/>
+<xs:element name="PVR_CENTURY" type="xs:string" nillable="true"/>
+<xs:element name="PVR_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="PVR_FILLER1" type="xs:string" nillable="true"/>
+<xs:element name="APPEALS_IND" type="xs:string" nillable="true"/>
+<xs:element name="IN_THEATER_START_DATE" type="xs:string" nillable="true"/>
+<xs:element name="IN_THEATER_END_DATE" type="xs:string" nillable="true"/>
+<xs:element name="IN_THEATER_DAYS" type="xs:string" nillable="true"/>
+<xs:element name="NUMBER_OF_RECORDS" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="BIRLS_SELECTION" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="VET_IND" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="LAST_NAME" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="FIRST_NAME" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="MIDDLE_NAME" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SUFFIX" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="FILE_NUMBER" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="PAYEE_CODE" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="CURRENT_LOCATION" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="ENTERED_ON_DUTY_DATE" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="RELEASED_ACTIVE_DUTY_DATE" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="DATE_OF_BIRTH" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="DATE_OF_DEATH" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SSN_VERIFIED" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SSN" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="SERVICE_NUMBER" type="xs:string" nillable="true" minOccurs="0"/>
+<xs:element name="BRANCH_OF_SERVICE" type="xs:string" nillable="true" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinq2Person">
+<xs:sequence>
+<xs:element name="addressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="areaNumberOne" type="xs:string" minOccurs="0"/>
+<xs:element name="areaNumberTwo" type="xs:string" minOccurs="0"/>
+<xs:element name="city" type="xs:string" minOccurs="0"/>
+<xs:element name="cnsldtPymtTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="competencyDecisionTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="country" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentCity" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentCountry" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentForeignZip" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentPostOfficeTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentPostalTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentState" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentZipCode" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="debitCardInd" type="xs:string" minOccurs="0"/>
+<xs:element name="eftAccountNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="eftAccountType" type="xs:string" minOccurs="0"/>
+<xs:element name="eftRoutingNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryDecisionCategoryTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryFolderLocation" type="xs:string" minOccurs="0"/>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string" minOccurs="0"/>
+<xs:element name="foreignCode" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string" minOccurs="0"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="militaryPostOfficeTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="militaryPostalTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="orgName" type="xs:string" minOccurs="0"/>
+<xs:element name="orgTitle" type="xs:string" minOccurs="0"/>
+<xs:element name="orgType" type="xs:string" minOccurs="0"/>
+<xs:element name="phoneNumberOne" type="xs:string" minOccurs="0"/>
+<xs:element name="phoneNumberTwo" type="xs:string" minOccurs="0"/>
+<xs:element name="phoneTypeNameOne" type="xs:string" minOccurs="0"/>
+<xs:element name="phoneTypeNameTwo" type="xs:string" minOccurs="0"/>
+<xs:element name="prepPhraseType" type="xs:string" minOccurs="0"/>
+<xs:element name="provinceName" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntId" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntRelationship" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntSearch" type="tns:ptcpntSearchPersonRecord" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="salutationName" type="xs:string" minOccurs="0"/>
+<xs:element name="sensitiveLevelOfRecord" type="xs:string" minOccurs="0"/>
+<xs:element name="ssn" type="xs:string" minOccurs="0"/>
+<xs:element name="state" type="xs:string" minOccurs="0"/>
+<xs:element name="suffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="temporaryCustodianIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="territoryName" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddressLine4" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddressLine5" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddressLine6" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddressLine4" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddressLine5" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddressLine6" type="xs:string" minOccurs="0"/>
+<xs:element name="zipCode" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="ptcpntSearchPersonRecord">
+<xs:sequence>
+<xs:element name="numberOfRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="persons" type="tns:ptcpntSearchPerson" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="ptcpntSearchPerson">
+<xs:sequence>
+<xs:element name="branchOfService1" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfDeath" type="xs:string" minOccurs="0"/>
+<xs:element name="filler" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string" minOccurs="0"/>
+<xs:element name="highSecurityLevel" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string" minOccurs="0"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntId" type="xs:string" minOccurs="0"/>
+<xs:element name="securityIssueCount" type="xs:string" minOccurs="0"/>
+<xs:element name="ssn" type="xs:string" minOccurs="0"/>
+<xs:element name="suffixName" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shareFaultInfoBean">
+<xs:sequence>
+<xs:element name="code" type="xs:string" minOccurs="0"/>
+<xs:element name="faultCode" type="xs:string" minOccurs="0"/>
+<xs:element name="fieldName" type="xs:string" minOccurs="0"/>
+<xs:element name="functionName" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnDate" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnExtnlKeyTxt" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnExtnlUserId" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnLocationId" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnObjectId" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnUserId" type="xs:string" minOccurs="0"/>
+<xs:element name="message" type="xs:string" minOccurs="0"/>
+<xs:element name="reason" type="xs:string" minOccurs="0"/>
+<xs:element name="service" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteran">
+<xs:sequence>
+<xs:element name="veteranRecordInput" type="tns:veteranRecordInput" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="veteranRecordInput">
+<xs:complexContent>
+<xs:extension base="tns:birlsInquiry">
+<xs:sequence/>
+</xs:extension>
+</xs:complexContent>
+</xs:complexType>
+
+<xs:complexType name="birlsInquiry">
+<xs:sequence>
+<xs:element name="commandName" type="xs:string" default="SHAR"/>
+<xs:element name="commandType" type="xs:string" default="I"/>
+<xs:element name="transactionName" type="xs:string" default="BPNQ"/>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="ssn" type="xs:string" minOccurs="0"/>
+<xs:element name="insuranceNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="serviceNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string" minOccurs="0"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="suffix" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeNumber" type="xs:string" default="00" minOccurs="0"/>
+<xs:element name="branchOfService" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfDeath" type="xs:string" minOccurs="0"/>
+<xs:element name="enteredOnDutyDate" type="xs:string" minOccurs="0"/>
+<xs:element name="releasedActiveDutyDate" type="xs:string" minOccurs="0"/>
+<xs:element name="folderLocation" type="xs:string" minOccurs="0"/>
+<xs:element name="userSSN" type="xs:string"/>
+<xs:element name="userFileNumber" type="xs:string"/>
+<xs:element name="userStationNumber" type="xs:string"/>
+<xs:element name="userID" type="xs:string"/>
+<xs:element name="userIPAddress" type="xs:string"/>
+<xs:element name="applicationName" type="xs:string"/>
+<xs:element name="processName" type="xs:string" default="BIRLS Inquiry"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:veteranRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCorporateRecord">
+<xs:sequence>
+<xs:element name="ptcpntSearchPSNInput" type="tns:ptcpntSearchPSNInput" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="ptcpntSearchPSNInput">
+<xs:sequence>
+<xs:element name="city" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string" minOccurs="0"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="state" type="xs:string" minOccurs="0"/>
+<xs:element name="zipCode" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCorporateRecordResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:ptcpntSearchPersonRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="insertBirlsRecord">
+<xs:sequence>
+<xs:element name="birlsAddInput" type="tns:birlsAddInput" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="birlsAddInput">
+<xs:sequence>
+<xs:element name="ACTIVE_DUTY_TRAINING_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="ADAPTIVE_EQUIPMENT" type="xs:string" minOccurs="0"/>
+<xs:element name="ADD_DIA_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="APPEALS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="APPLICATION_FOR_PLOT" type="xs:string" minOccurs="0"/>
+<xs:element name="ASSIGN_FILE_NUMBER_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="AUTOMOBILE_ALLOWANCE" type="xs:string" minOccurs="0"/>
+<xs:element name="BANKRUPTCY_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWARD_PLOT" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWARD_TRANSPORT" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWD_NONSVC_CON" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWD_SVC_CONNECT" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_FLAG_ISSUE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CAUSE_OF_DEATH" type="xs:string" minOccurs="0"/>
+<xs:element name="CAUSE_OF_DEATH_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="CH106_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH30_DMDC_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="CH30_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH30_OVERPAYMENT" type="xs:string" minOccurs="0"/>
+<xs:element name="CH31_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH32_903_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH32_BANK_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH32_BEN_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH34_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CLAIM_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="CLOTHING_ALLOWANCE" type="xs:string" minOccurs="0"/>
+<xs:element name="COMBINED_DEGREE" type="xs:string" minOccurs="0"/>
+<xs:element name="CONTESTED_DATA_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CP_EFFCTVE_DATE_OF_TERM" type="xs:string" minOccurs="0"/>
+<xs:element name="CP_VET_CP_BENE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_IN_SVC" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="DIAGS_VERIFIED_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="DISABILITY_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="DISABILITY_SEVERANCE_PAY" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_AMT_C" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_AMT_P" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_MM_C" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_MM_P" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_YEAR_C" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_YEAR_P" type="xs:string" minOccurs="0"/>
+<xs:element name="EMPLOYEE_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="EMPLOYEE_STATION_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="ENTITLEMENT_CODE" type="xs:string" minOccurs="0"/>
+<xs:element name="FLASH" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="FLASH_CODE" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_STATION" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_ROUTING_SYMBOL" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="FLASH_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="FOLDER" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:all>
+<xs:element name="FOLDER_TYPE" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_CURRENT_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_DAY" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSFER" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_PRIOR_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_TO_STATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_DAY" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSIT" type="xs:string" nillable="true"/>
+<xs:element name="RELOCATION_INDICATOR" type="xs:string" nillable="true"/>
+<xs:element name="FARC_ACCESSION_NUM" type="xs:string" nillable="true"/>
+<xs:element name="NO_FOLDER_EST_REASON" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_DESTROYED_IND" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_REBUILT_IND" type="xs:string" nillable="true"/>
+<xs:element name="NO_RECORD_IND" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_DAY" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_FLDR_RETIRE" type="xs:string" nillable="true"/>
+<xs:element name="BOX_SEQUENCE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="LOCATION_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="INSURANCE_FOLDER_TYPE" type="xs:string" nillable="true"/>
+</xs:all>
+</xs:complexType>
+</xs:element>
+<xs:element name="FOLDER_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_FIRST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_INS_POL_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_INS_POL_PREFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_LAST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_MIDDLE_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_NAME_SUFFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="GUARDIANSHIP_CASE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="HEADSTONE" type="xs:string" minOccurs="0"/>
+<xs:element name="HOMELESS_VET_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="ICP_DATA_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="INCOMPETENT_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="INDICATOR_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="IND_901" type="xs:string" minOccurs="0"/>
+<xs:element name="INSURANCE_JURIS" type="xs:string" minOccurs="0"/>
+<xs:element name="INSURANCE_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_LAPSED_PURGE_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_LAPSED_PURGE_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_LAPSED_PURGE_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_POLICY_CHANGE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_PREFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="IN_THEATER_DAYS" type="xs:string" minOccurs="0"/>
+<xs:element name="IN_THEATER_END_DATE" type="xs:string" minOccurs="0"/>
+<xs:element name="IN_THEATER_START_DATE" type="xs:string" minOccurs="0"/>
+<xs:element name="JOBS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="LUMP_SUM_READJUSTMENT_PAY" type="xs:string" minOccurs="0"/>
+<xs:element name="MEDAL_OF_HONOR_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="MOD_CLAIM_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="NAME_CHANGE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="NAME_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="NUMBER_OF_DISCLOSURES" type="xs:string" minOccurs="0"/>
+<xs:element name="NUM_OF_SVC_CON_DIS" type="xs:string" minOccurs="0"/>
+<xs:element name="PAYEE_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="PAYMENT" type="xs:string" minOccurs="0"/>
+<xs:element name="PERSIAN_GULF_SVC_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="POA_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="POWER_OF_ATTY_CODE1" type="xs:string" minOccurs="0"/>
+<xs:element name="POWER_OF_ATTY_CODE2" type="xs:string" minOccurs="0"/>
+<xs:element name="POW_NUMBER_OF_DAYS" type="xs:string" minOccurs="0"/>
+<xs:element name="PRIVACY_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="PURPLE_HEART_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_FILLER1" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="REASON_FOR_TERM_DISALLOW" type="xs:string" minOccurs="0"/>
+<xs:element name="RECORD_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="RECURING_DISCLOSURE" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="RECUR_DISCLOSURE_NUM" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_DISCLOSURE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="REENLISTED_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="RET_SVR_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="SECURITY_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="SEPARATION_PAY" type="xs:string" minOccurs="0"/>
+<xs:element name="SERVICE" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SHORT_SERVICE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_NUMBER_FILL" type="xs:string" nillable="true"/>
+<xs:element name="BRANCH_OF_SERVICE" type="xs:string" nillable="true"/>
+<xs:element name="ENTERED_ON_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="RELEASED_ACTIVE_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="SEPARATION_REASON_CODE" type="xs:string" nillable="true"/>
+<xs:element name="NONPAY_DAYS" type="xs:string" nillable="true"/>
+<xs:element name="PAY_GRADE" type="xs:string" nillable="true"/>
+<xs:element name="CHAR_OF_SVC_CODE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="SERVICEDIAGNOSTICS" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SERVICE_DIAGNOSTICS" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT1" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT2" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_ANALOGUS_CODE" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_SVC_CON_DISABILITY" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="SERVICE_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="SEX_CODE" type="xs:string" minOccurs="0"/>
+<xs:element name="SOC_SEC_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="SPECIAL_ADAPTIVE_HOUSING" type="xs:string" minOccurs="0"/>
+<xs:element name="SPECIAL_LAW_CODE" type="xs:string" minOccurs="0"/>
+<xs:element name="SVC_MED_RECORD_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="SVC_NUM_EDIT_FILLER" type="xs:string" minOccurs="0"/>
+<xs:element name="TOTAL_ACTIVE_SERVICE" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_FIRST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_INS_POL_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_INS_POL_PREFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_LAST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_MIDDLE_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_NAME_SUFFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_PAYEE_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="TRANSACTION_TYPE" type="xs:string" minOccurs="0"/>
+<xs:element name="TRANSFER_TO_RESERVES_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="VADS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VADS_IND2" type="xs:string" minOccurs="0"/>
+<xs:element name="VADS_IND3" type="xs:string" minOccurs="0"/>
+<xs:element name="VARMS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VA_EMPLOYEE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SOC_SEC_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SVC_DATA_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SVC_DATA_IND2" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SVC_DATA_IND3" type="xs:string" minOccurs="0"/>
+<xs:element name="VET_HAS_BENE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VET_ID_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="VET_IS_BENE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VIETNAM_SERVICE_IND" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="insertBirlsRecordResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:birlsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="syncCorporateBirls">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="syncCorporateBirlsResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCorporateRecordByPtcpntId">
+<xs:sequence>
+<xs:element name="ptcpntId" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCorporateRecordByPtcpntIdResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrinq2Person" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBirlsRecord">
+<xs:sequence>
+<xs:element name="birlsUpdateInput" type="tns:birlsUpdateInput" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="birlsUpdateInput">
+<xs:sequence>
+<xs:element name="ACTIVE_DUTY_TRAINING_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="ADAPTIVE_EQUIPMENT" type="xs:string" minOccurs="0"/>
+<xs:element name="ADD_DIA_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="APPEALS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="APPLICATION_FOR_PLOT" type="xs:string" minOccurs="0"/>
+<xs:element name="ASSIGN_FILE_NUMBER_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="AUTOMOBILE_ALLOWANCE" type="xs:string" minOccurs="0"/>
+<xs:element name="BANKRUPTCY_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="BIRTH_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWARD_PLOT" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWARD_TRANSPORT" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWD_NONSVC_CON" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_AWD_SVC_CONNECT" type="xs:string" minOccurs="0"/>
+<xs:element name="BURIAL_FLAG_ISSUE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CAUSE_OF_DEATH" type="xs:string" minOccurs="0"/>
+<xs:element name="CAUSE_OF_DEATH_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="CH106_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH30_DMDC_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="CH30_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH30_OVERPAYMENT" type="xs:string" minOccurs="0"/>
+<xs:element name="CH31_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH32_903_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH32_BANK_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH32_BEN_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CH34_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CLAIM_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="CLOTHING_ALLOWANCE" type="xs:string" minOccurs="0"/>
+<xs:element name="COMBINED_DEGREE" type="xs:string" minOccurs="0"/>
+<xs:element name="CONTESTED_DATA_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="CP_EFFCTVE_DATE_OF_TERM" type="xs:string" minOccurs="0"/>
+<xs:element name="CP_VET_CP_BENE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_IN_SVC" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="DEATH_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="DIAGS_VERIFIED_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="DISABILITY_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="DISABILITY_SEVERANCE_PAY" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_AMT_C" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_AMT_P" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_MM_C" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_MM_P" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_YEAR_C" type="xs:string" minOccurs="0"/>
+<xs:element name="DMDC_RETIRE_PAY_SBP_YEAR_P" type="xs:string" minOccurs="0"/>
+<xs:element name="EMPLOYEE_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="EMPLOYEE_STATION_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="ENTITLEMENT_CODE" type="xs:string" minOccurs="0"/>
+<xs:element name="FLASH" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="FLASH_CODE" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_STATION" type="xs:string" nillable="true"/>
+<xs:element name="FLASH_ROUTING_SYMBOL" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="FLASH_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="FOLDER" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:all>
+<xs:element name="FOLDER_TYPE" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_CURRENT_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_DAY" type="xs:string" nillable="true"/>
+<xs:element name="TRANSFER_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSFER" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_PRIOR_LOCATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_TO_STATION" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_DAY" type="xs:string" nillable="true"/>
+<xs:element name="IN_TRANSIT_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_TRANSIT" type="xs:string" nillable="true"/>
+<xs:element name="RELOCATION_INDICATOR" type="xs:string" nillable="true"/>
+<xs:element name="FARC_ACCESSION_NUM" type="xs:string" nillable="true"/>
+<xs:element name="NO_FOLDER_EST_REASON" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_DESTROYED_IND" type="xs:string" nillable="true"/>
+<xs:element name="FOLDER_REBUILT_IND" type="xs:string" nillable="true"/>
+<xs:element name="NO_RECORD_IND" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_DAY" type="xs:string" nillable="true"/>
+<xs:element name="FLDR_RETIRE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_FLDR_RETIRE" type="xs:string" nillable="true"/>
+<xs:element name="BOX_SEQUENCE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="LOCATION_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="INSURANCE_FOLDER_TYPE" type="xs:string" nillable="true"/>
+</xs:all>
+</xs:complexType>
+</xs:element>
+<xs:element name="FOLDER_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_FIRST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_INS_POL_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_INS_POL_PREFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_LAST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_MIDDLE_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="FROM_NAME_SUFFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="GUARDIANSHIP_CASE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="HEADSTONE" type="xs:string" minOccurs="0"/>
+<xs:element name="HOMELESS_VET_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="ICP_DATA_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="INCOMPETENT_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="INDICATOR_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="IND_901" type="xs:string" minOccurs="0"/>
+<xs:element name="INSURANCE_JURIS" type="xs:string" minOccurs="0"/>
+<xs:element name="INSURANCE_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_LAPSED_PURGE_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_LAPSED_PURGE_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_LAPSED_PURGE_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_POLICY_CHANGE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="INS_PREFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="IN_THEATER_DAYS" type="xs:string" minOccurs="0"/>
+<xs:element name="IN_THEATER_END_DATE" type="xs:string" minOccurs="0"/>
+<xs:element name="IN_THEATER_START_DATE" type="xs:string" minOccurs="0"/>
+<xs:element name="JOBS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="LUMP_SUM_READJUSTMENT_PAY" type="xs:string" minOccurs="0"/>
+<xs:element name="MEDAL_OF_HONOR_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="MOD_CLAIM_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="NAME_CHANGE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="NAME_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="NUMBER_OF_DISCLOSURES" type="xs:string" minOccurs="0"/>
+<xs:element name="NUM_OF_SVC_CON_DIS" type="xs:string" minOccurs="0"/>
+<xs:element name="PAYEE_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="PAYMENT" type="xs:string" minOccurs="0"/>
+<xs:element name="PERSIAN_GULF_SVC_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="POA_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="POWER_OF_ATTY_CODE1" type="xs:string" minOccurs="0"/>
+<xs:element name="POWER_OF_ATTY_CODE2" type="xs:string" minOccurs="0"/>
+<xs:element name="POW_NUMBER_OF_DAYS" type="xs:string" minOccurs="0"/>
+<xs:element name="PRIVACY_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="PURPLE_HEART_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_FILLER1" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="PVR_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="REASON_FOR_TERM_DISALLOW" type="xs:string" minOccurs="0"/>
+<xs:element name="RECORD_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="RECURING_DISCLOSURE" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="RECUR_DISCLOSURE_NUM" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_MONTH" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_DISCLOSURE_YEAR" type="xs:string" nillable="true"/>
+<xs:element name="DATE_OF_DISCLOSURE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="REENLISTED_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="RET_SVR_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="SECURITY_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="SEPARATION_PAY" type="xs:string" minOccurs="0"/>
+<xs:element name="SERVICE" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SHORT_SERVICE_NUMBER" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_NUMBER_FILL" type="xs:string" nillable="true"/>
+<xs:element name="BRANCH_OF_SERVICE" type="xs:string" nillable="true"/>
+<xs:element name="ENTERED_ON_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="RELEASED_ACTIVE_DUTY_DATE" type="xs:string" nillable="true"/>
+<xs:element name="SEPARATION_REASON_CODE" type="xs:string" nillable="true"/>
+<xs:element name="NONPAY_DAYS" type="xs:string" nillable="true"/>
+<xs:element name="PAY_GRADE" type="xs:string" nillable="true"/>
+<xs:element name="CHAR_OF_SVC_CODE" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="SERVICEDIAGNOSTICS" nillable="true" minOccurs="0" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="SERVICE_DIAGNOSTICS" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT1" type="xs:string" nillable="true"/>
+<xs:element name="SERVICE_PERCENT2" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_ANALOGUS_CODE" type="xs:string" nillable="true"/>
+<xs:element name="RECUR_SVC_CON_DISABILITY" type="xs:string" nillable="true"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+<xs:element name="SERVICE_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="SEX_CODE" type="xs:string" minOccurs="0"/>
+<xs:element name="SOC_SEC_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="SPECIAL_ADAPTIVE_HOUSING" type="xs:string" minOccurs="0"/>
+<xs:element name="SPECIAL_LAW_CODE" type="xs:string" minOccurs="0"/>
+<xs:element name="SVC_MED_RECORD_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="SVC_NUM_EDIT_FILLER" type="xs:string" minOccurs="0"/>
+<xs:element name="TOTAL_ACTIVE_SERVICE" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_FIRST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_INS_POL_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_INS_POL_PREFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_LAST_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_MIDDLE_NAME" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_NAME_SUFFIX" type="xs:string" minOccurs="0"/>
+<xs:element name="TO_PAYEE_NUMBER" type="xs:string" minOccurs="0"/>
+<xs:element name="TRANSACTION_TYPE" type="xs:string" minOccurs="0"/>
+<xs:element name="TRANSFER_TO_RESERVES_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_CENTURY" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_DAY" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_MONTH" type="xs:string" minOccurs="0"/>
+<xs:element name="UPDATE_YEAR" type="xs:string" minOccurs="0"/>
+<xs:element name="VADS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VADS_IND2" type="xs:string" minOccurs="0"/>
+<xs:element name="VADS_IND3" type="xs:string" minOccurs="0"/>
+<xs:element name="VARMS_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VA_EMPLOYEE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SOC_SEC_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SVC_DATA_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SVC_DATA_IND2" type="xs:string" minOccurs="0"/>
+<xs:element name="VERIFIED_SVC_DATA_IND3" type="xs:string" minOccurs="0"/>
+<xs:element name="VET_HAS_BENE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VET_ID_TAG" type="xs:string" minOccurs="0"/>
+<xs:element name="VET_IS_BENE_IND" type="xs:string" minOccurs="0"/>
+<xs:element name="VIETNAM_SERVICE_IND" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBirlsRecordResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:birlsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCorporateRecordByFileNumber">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCorporateRecordByFileNumberResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:shrinq2Person" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBirlsRecord">
+<xs:sequence>
+<xs:element name="veteranRecordInput" type="tns:veteranRecordInput" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBirlsRecordResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:birlsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranByFileNumber">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findVeteranByFileNumberResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:veteranRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findIndex">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeCode" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findIndexResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBirlsRecordByFileNumber">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBirlsRecordByFileNumberResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:birlsRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>

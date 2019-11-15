@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xs:schema xmlns:tns="http://ebenefits.va.gov/schema/draftform/v2-0/document"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0"
+	xmlns:cmn="http://ebenefits.va.gov/schema/draftform/v2-0/common"
+	targetNamespace="http://ebenefits.va.gov/schema/draftform/v2-0/document"
+	xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" jaxb:version="2.0"
+	xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+	xmlns:xmime="http://www.w3.org/2005/05/xmlmime"
+	jaxb:extensionBindingPrefixes="xjc">
+	<xs:annotation>
+		<xs:appinfo>
+
+			<jaxb:globalBindings>
+				<!-- <jaxb:globalBindings collectionType="collection" > -->
+				<xjc:generateElementProperty>false</xjc:generateElementProperty>
+				<xjc:simple />
+			</jaxb:globalBindings>
+		</xs:appinfo>
+	</xs:annotation>
+
+	<xs:import namespace="http://ebenefits.va.gov/schema/draftform/v2-0/common"
+		schemaLocation="VRMDraftFormCommonSchema.xsd" />
+	<xs:element name="saveDocument" type="tns:SaveDocument" />
+	<xs:element name="readDocument" type="tns:ReadDocument" />
+	<xs:element name="searchDocumentsByMetadata" type="tns:SearchDocumentsByMetadata" />
+	<xs:element name="searchDocumentsByQuery" type="tns:SearchDocumentsByQuery" />
+	<xs:element name="deleteDocument" type="tns:DeleteDocument" />
+
+	<xs:element name="saveDocumentResponse" type="tns:SaveDocumentResponse" />
+	<xs:element name="readDocumentResponse" type="tns:ReadDocumentResponse" />
+	<xs:element name="searchDocumentsByMetadataResponse" type="tns:SearchDocumentsByMetadataResponse" />
+	<xs:element name="searchDocumentsByQueryResponse" type="tns:SearchDocumentsByQueryResponse" />
+	<xs:element name="deleteDocumentResponse" type="tns:DeleteDocumentResponse" />
+
+	<xs:element name="searchDocumentsByIds" type="tns:SearchDocumentsByIds" />
+	<xs:element name="searchDocumentsByIdsResponse" type="tns:SearchDocumentsByIdsResponse" />
+
+	<xs:complexType name="SaveDocument">
+		<xs:annotation>
+			<xs:documentation>
+				Adds (insert) a new attachment or updates one if
+				already existing. The return value is the the DB
+				identifier for the
+				attachment.
+			</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="document" type="tns:Document" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="ReadDocument">
+		<xs:sequence>
+			<xs:element name="id" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="DeleteDocument">
+		<xs:sequence>
+			<xs:element name="id" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="SearchDocumentsByMetadata">
+		<xs:sequence>
+			<xs:element name="metadata" type="cmn:NameValuePair"
+				maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="SearchDocumentsByQuery">
+		<xs:sequence>
+			<xs:element name="query" type="xs:string" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="SaveDocumentResponse">
+		<xs:sequence>
+			<xs:element name="status" type="cmn:Status" />
+			<xs:element name="documentId" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="ReadDocumentResponse">
+		<xs:sequence>
+			<xs:element name="status" type="cmn:Status" />
+			<xs:element name="document" type="tns:Document" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="SearchDocumentsByMetadataResponse">
+		<xs:sequence>
+			<xs:element name="status" type="cmn:Status" />
+			<xs:element name="documentList" type="tns:ContentlessDocument"
+				minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="SearchDocumentsByQueryResponse">
+		<xs:sequence>
+			<xs:element name="status" type="cmn:Status" />
+			<xs:element name="documentList" type="tns:ContentlessDocument"
+				minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="DeleteDocumentResponse">
+		<xs:sequence>
+			<xs:element name="status" type="cmn:Status" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="ContentlessDocument">
+		<xs:sequence>
+			<xs:element name="id" type="xs:string" minOccurs="0" />
+			<xs:element name="name" type="xs:string" />
+			<xs:element name="mimeType" type="xs:string" />
+			<xs:element name="versionId" type="xs:string" />
+			<xs:element name="nameValuePair" type="cmn:NameValuePair"
+				minOccurs="0" maxOccurs="unbounded" />
+			<xs:element name="auditTrail" type="cmn:AuditTrail" minOccurs="1">
+				<xs:annotation>
+					<xs:documentation>
+						Contains basic auditing fields. The timestamp
+						fields should be populated
+						by the service
+						and are ignored if
+						provided by a service client when saving data. The
+						user IDs are to
+						be provided by the client application.
+					</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="Document">
+		<xs:complexContent>
+			<xs:extension base="tns:ContentlessDocument">
+				<xs:sequence>
+					<xs:element name="content" type="xs:base64Binary" xmime:expectedContentTypes="*/*"/>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+
+	<xs:complexType name="SearchDocumentsByIds">
+		<xs:sequence>
+			<xs:element name="documentIds" type="xs:long" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="SearchDocumentsByIdsResponse">
+		<xs:sequence>
+			<xs:element name="status" type="cmn:Status" />
+			<xs:element name="documentList" type="tns:ContentlessDocument" minOccurs="0" maxOccurs="unbounded" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

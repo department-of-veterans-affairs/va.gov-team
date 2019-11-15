@@ -83,9 +83,10 @@ CSV.foreach(ARGV[0], headers: true) do |row|
         new_contents = "# This file is deprecated. The most recent information should be at #{TargetContent::CONTENT_URL}#{target.path}\n\n" + text
             File.open(source.copy_path, "w") { |f| f.puts new_contents }
     end
-
-    puts "Git messages to use"
-    puts "  git ci -am 'Migrate #{migration_name} documentation from vets.gov-team'"
-    puts "  git ci -am 'Deprecate #{migration_name} documentation moved to va.gov-team'"
-
 end
+
+
+puts "Git messages to use"
+puts "  git ci -am 'Migrate #{migration_name} documentation from vets.gov-team'"
+puts "  git ci -am 'Deprecate #{migration_name} documentation moved to va.gov-team'"
+

@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Published by JAX-WS RI at http://jax-ws.dev.java.net. RI's version is Oracle JAX-WS 2.1.5. -->
+<xs:schema xmlns:tns="http://services.share.benefits.vba.va.gov/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://services.share.benefits.vba.va.gov/">
+
+<xs:element name="BenefitClaimInput">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="ssn" type="xs:string"/>
+<xs:element name="benefitClaimType" type="xs:string"/>
+<xs:element name="payee" type="xs:string" default="00"/>
+<xs:element name="endProduct" type="xs:string"/>
+<xs:element name="endProductCode" type="xs:string"/>
+<xs:element name="titleName" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string"/>
+<xs:element name="suffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="state" type="xs:string"/>
+<xs:element name="postalCode" type="xs:string"/>
+<xs:element name="postalCodePlus4" type="xs:string" minOccurs="0"/>
+<xs:element name="country" type="xs:string" default="USA"/>
+<xs:element name="dayTimeAreaCode" type="xs:string" minOccurs="0"/>
+<xs:element name="dayTimePhoneNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="nightTimeAreaCode" type="xs:string" minOccurs="0"/>
+<xs:element name="nightTimePhoneNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfClaim" type="xs:string" minOccurs="0"/>
+<xs:element name="disposition" type="xs:string" default="M"/>
+<xs:element name="suspenseDate" type="xs:string" minOccurs="0"/>
+<xs:element name="sectionUnitNo" type="xs:string"/>
+<xs:element name="folderWithClaim" type="xs:string" default="N"/>
+<xs:element name="futureReason" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantSsn" type="xs:string" minOccurs="0"/>
+<xs:element name="beneficiaryDateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="powerOfAttorney" type="xs:string" minOccurs="0"/>
+<xs:element name="gulfWarRegistryPermit" type="xs:string" minOccurs="0"/>
+<xs:element name="suppressAcknowledgementLetter" type="xs:string" minOccurs="0"/>
+<xs:element name="specialIssueCase" type="xs:string" minOccurs="0"/>
+<xs:element name="inTakeSite" type="xs:string" minOccurs="0"/>
+<xs:element name="endProductName" type="xs:string"/>
+<xs:element name="soj" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostalTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostOfficeTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="foreignMailCode" type="xs:string" minOccurs="0"/>
+<xs:element name="addressType" type="xs:string" minOccurs="0"/>
+<xs:element name="preDischargeIndicator" type="xs:string" default="N"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="bnftClaimId" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaAccess" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaCadd" type="xs:string" minOccurs="0"/>
+<xs:element name="submtrRoleTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="submtrApplcnTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="awardSoj" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="BenefitClaimUpdateInput">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="dateOfClaim" type="xs:string"/>
+<xs:element name="disposition" type="xs:string" default="M"/>
+<xs:element name="suspenseDate" type="xs:string" minOccurs="0"/>
+<xs:element name="sectionUnitNo" type="xs:string"/>
+<xs:element name="folderWithClaim" type="xs:string" default="N"/>
+<xs:element name="futureReason" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantSsn" type="xs:string" minOccurs="0"/>
+<xs:element name="beneficiaryDateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="powerOfAttorney" type="xs:string" minOccurs="0"/>
+<xs:element name="gulfWarRegistryPermit" type="xs:string" minOccurs="0"/>
+<xs:element name="specialIssueCase" type="xs:string" minOccurs="0"/>
+<xs:element name="inTakeSite" type="xs:string" minOccurs="0"/>
+<xs:element name="benefitClaimType" type="xs:string"/>
+<xs:element name="oldEndProductCode" type="xs:string" minOccurs="0"/>
+<xs:element name="newEndProductLabel" type="xs:string" minOccurs="0"/>
+<xs:element name="oldDateOfClaim" type="xs:string"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="endProductIncrement" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaAccess" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaCadd" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="CInput">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="transId" type="xs:string" minOccurs="0"/>
+<xs:element name="johnsCnarData" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAddressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAddressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAddressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="corpCity" type="xs:string"/>
+<xs:element name="corpState" type="xs:string"/>
+<xs:element name="corpCountry" type="xs:string"/>
+<xs:element name="corpZipCode" type="xs:string"/>
+<xs:element name="corpForeignMailCode" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeLastName" type="xs:string"/>
+<xs:element name="payeeFirstName" type="xs:string"/>
+<xs:element name="payeeMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeSuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeOrgName" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeOrgType" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeOrgTitle" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1LastName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1FirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1MiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1SuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2LastName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2FirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2MiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2SuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryOrgName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryOrgTitle" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryOrgType" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryPtcpntRelationship" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryPrepPhraseType" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeSalutation" type="xs:string" minOccurs="0"/>
+<xs:element name="cfidNameActionInd" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostalTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostOfficeTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="provinceName" type="xs:string" minOccurs="0"/>
+<xs:element name="territoryName" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneTypeName1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneNumber1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAreaNumber1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpDeletePhoneNumberInd1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneTypeName2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneNumber2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAreaNumber2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpDeletePhoneNumberInd2" type="xs:string" minOccurs="0"/>
+<xs:element name="competencyDecisionNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentCity" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentZipCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentState" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentCountryCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentForeignZipCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentPostalTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentPoTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="eftRoutingNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="eftAccountType" type="xs:string" minOccurs="0"/>
+<xs:element name="eftAccountNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="terminateAddressInd" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress1" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress2" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress3" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress4" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress5" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress6" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress1" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress2" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress3" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress4" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress5" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress6" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdPayee" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdFiduciary1" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdFiduciary2" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdVet" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdBene" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdRecip" type="xs:string" minOccurs="0"/>
+<xs:element name="awardTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="competencyDecisionTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryDecisionCategoryType" type="xs:string" minOccurs="0"/>
+<xs:element name="tempCustodianInd" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryFileCorporateLocation" type="xs:string" minOccurs="0"/>
+<xs:element name="transBypassCorporateInd" type="xs:string" default="3"/>
+<xs:element name="corpZipPlusFour" type="xs:string" minOccurs="0"/>
+<xs:element name="group1ValidatedInd" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentZipPlusFour" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentGroup1ValidatedInd" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="addressType" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="CancelBenefitClaimInput">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="benefitClaimType" type="xs:string" default="1"/>
+<xs:element name="endProductCode" type="xs:string"/>
+<xs:element name="incremental" type="xs:string"/>
+<xs:element name="pcanReasonCode" type="xs:string"/>
+<xs:element name="pcanReasonText" type="xs:string" minOccurs="0"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="ClearBenefitClaimInput">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="benefitClaimType" type="xs:string" default="1"/>
+<xs:element name="endProductCode" type="xs:string"/>
+<xs:element name="incremental" type="xs:string"/>
+<xs:element name="pclrReasonCode" type="xs:string"/>
+<xs:element name="pclrReasonText" type="xs:string" minOccurs="0"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="Dependent">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="participantId" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string"/>
+<xs:element name="participantRelationshipTypeName" type="xs:string"/>
+<xs:element name="birthDate" type="xs:string" minOccurs="0"/>
+<xs:element name="ssn" type="xs:string" minOccurs="0"/>
+<xs:element name="gender" type="xs:string" minOccurs="0"/>
+<xs:element name="proofOfDependencyInd" type="xs:string" minOccurs="0"/>
+<xs:element name="deleteRequest" type="xs:string" default="N"/>
+<xs:element name="cityOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="stateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="deathReason" type="xs:string" minOccurs="0"/>
+<xs:element name="deathDate" type="xs:string" minOccurs="0"/>
+<xs:element name="ssnVerifyStatus" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="taxIdNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="relateInd" type="xs:string" default="N"/>
+<xs:element name="currentRelateStatus" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="DependentUpdateInput">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string"/>
+<xs:element name="ptcpntIdVet" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdPayee" type="xs:string" minOccurs="0"/>
+<xs:element name="numberOfDependents" type="xs:string"/>
+<xs:element name="dependents" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="participantId" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string"/>
+<xs:element name="participantRelationshipTypeName" type="xs:string"/>
+<xs:element name="birthDate" type="xs:string" minOccurs="0"/>
+<xs:element name="ssn" type="xs:string" minOccurs="0"/>
+<xs:element name="gender" type="xs:string" minOccurs="0"/>
+<xs:element name="proofOfDependencyInd" type="xs:string" minOccurs="0"/>
+<xs:element name="deleteRequest" type="xs:string" default="N"/>
+<xs:element name="cityOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="stateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="deathReason" type="xs:string" minOccurs="0"/>
+<xs:element name="deathDate" type="xs:string" minOccurs="0"/>
+<xs:element name="ssnVerifyStatus" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="taxIdNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="relateInd" type="xs:string" default="N"/>
+<xs:element name="currentRelateStatus" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="PmcInput">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="veteranName" type="xs:string" minOccurs="0"/>
+<xs:element name="veteranFirstName" type="xs:string"/>
+<xs:element name="veteranMiddleInitial" type="xs:string" minOccurs="0"/>
+<xs:element name="veteranLastName" type="xs:string"/>
+<xs:element name="veteranSuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="station" type="xs:string"/>
+<xs:element name="salutation" type="xs:string"/>
+<xs:element name="title" type="xs:string"/>
+<xs:element name="addressLine1" type="xs:string"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="state" type="xs:string"/>
+<xs:element name="zipCode" type="xs:string"/>
+<xs:element name="realtionshipToVeteran" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+
+<xs:element name="ShareException" nillable="true" type="tns:shareFaultInfoBean"/>
+
+<xs:element name="cancelBenefitClaim" type="tns:cancelBenefitClaim"/>
+
+<xs:element name="cancelBenefitClaimResponse" type="tns:cancelBenefitClaimResponse"/>
+
+<xs:element name="clearBenefitClaim" type="tns:clearBenefitClaim"/>
+
+<xs:element name="clearBenefitClaimResponse" type="tns:clearBenefitClaimResponse"/>
+
+<xs:element name="findBenefitClaim" type="tns:findBenefitClaim"/>
+
+<xs:element name="findBenefitClaimDetail" type="tns:findBenefitClaimDetail"/>
+
+<xs:element name="findBenefitClaimDetailResponse" type="tns:findBenefitClaimDetailResponse"/>
+
+<xs:element name="findBenefitClaimResponse" type="tns:findBenefitClaimResponse"/>
+
+<xs:element name="findCh33DdEft" type="tns:findCh33DdEft"/>
+
+<xs:element name="findCh33DdEftResponse" type="tns:findCh33DdEftResponse"/>
+
+<xs:element name="findPresidentialMemorialCertificate" type="tns:findPresidentialMemorialCertificate"/>
+
+<xs:element name="findPresidentialMemorialCertificateResponse" type="tns:findPresidentialMemorialCertificateResponse"/>
+
+<xs:element name="insertBenefitClaim" type="tns:insertBenefitClaim"/>
+
+<xs:element name="insertBenefitClaimResponse" type="tns:insertBenefitClaimResponse"/>
+
+<xs:element name="insertPresidentialMemorialCertificate" type="tns:insertPresidentialMemorialCertificate"/>
+
+<xs:element name="insertPresidentialMemorialCertificateResponse" type="tns:insertPresidentialMemorialCertificateResponse"/>
+
+<xs:element name="updateBenefitClaim" type="tns:updateBenefitClaim"/>
+
+<xs:element name="updateBenefitClaimAddress" type="tns:updateBenefitClaimAddress"/>
+
+<xs:element name="updateBenefitClaimAddressResponse" type="tns:updateBenefitClaimAddressResponse"/>
+
+<xs:element name="updateBenefitClaimDependents" type="tns:updateBenefitClaimDependents"/>
+
+<xs:element name="updateBenefitClaimDependentsResponse" type="tns:updateBenefitClaimDependentsResponse"/>
+
+<xs:element name="updateBenefitClaimResponse" type="tns:updateBenefitClaimResponse"/>
+
+<xs:element name="updateCh33DdEft" type="tns:updateCh33DdEft"/>
+
+<xs:element name="updateCh33DdEftResponse" type="tns:updateCh33DdEftResponse"/>
+
+<xs:element name="updateFirstNoticeOfDeath" type="tns:updateFirstNoticeOfDeath"/>
+
+<xs:element name="updateFirstNoticeOfDeathResponse" type="tns:updateFirstNoticeOfDeathResponse"/>
+
+<xs:complexType name="findPresidentialMemorialCertificate">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findPresidentialMemorialCertificateResponse">
+<xs:sequence>
+<xs:element name="return" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="veteranName" type="xs:string" minOccurs="0"/>
+<xs:element name="veteranFirstName" type="xs:string"/>
+<xs:element name="veteranMiddleInitial" type="xs:string" minOccurs="0"/>
+<xs:element name="veteranLastName" type="xs:string"/>
+<xs:element name="veteranSuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="station" type="xs:string"/>
+<xs:element name="salutation" type="xs:string"/>
+<xs:element name="title" type="xs:string"/>
+<xs:element name="addressLine1" type="xs:string"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="state" type="xs:string"/>
+<xs:element name="zipCode" type="xs:string"/>
+<xs:element name="realtionshipToVeteran" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shareFaultInfoBean">
+<xs:sequence>
+<xs:element name="code" type="xs:string" minOccurs="0"/>
+<xs:element name="faultCode" type="xs:string" minOccurs="0"/>
+<xs:element name="fieldName" type="xs:string" minOccurs="0"/>
+<xs:element name="functionName" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnDate" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnExtnlKeyTxt" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnExtnlUserId" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnLocationId" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnObjectId" type="xs:string" minOccurs="0"/>
+<xs:element name="jrnUserId" type="xs:string" minOccurs="0"/>
+<xs:element name="message" type="xs:string" minOccurs="0"/>
+<xs:element name="reason" type="xs:string" minOccurs="0"/>
+<xs:element name="service" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateFirstNoticeOfDeath">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfDeath" type="xs:string" minOccurs="0"/>
+<xs:element name="causeOfDeath" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateFirstNoticeOfDeathResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="benefitClaimRecord">
+<xs:sequence>
+<xs:element name="benefitClaimRecord" type="tns:shrinqbcBenefitClaimRecord" minOccurs="0"/>
+<xs:element name="fiduciaryInd" type="xs:string" minOccurs="0"/>
+<xs:element name="lifeCycleRecord" type="tns:shrinqbcLifeCycleRecord" minOccurs="0"/>
+<xs:element name="participantRecord" type="tns:shrinqbcParticipantRecord" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="suspenceRecord" type="tns:shrinqbcSuspenceRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinqbcBenefitClaimRecord">
+<xs:sequence>
+<xs:element name="bddSiteName" type="xs:string" minOccurs="0"/>
+<xs:element name="benefitClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="benefitClaimReturnLabel" type="xs:string" minOccurs="0"/>
+<xs:element name="claimPriorityIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="claimReceiveDate" type="xs:string" minOccurs="0"/>
+<xs:element name="claimStationOfJurisdiction" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTemporaryStationOfJurisdiction" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTypeName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantFirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantLastName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantPersonOrOrganizationIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantSuffix" type="xs:string" minOccurs="0"/>
+<xs:element name="cpBenefitClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="cpClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="cpClaimReturnLabel" type="xs:string" minOccurs="0"/>
+<xs:element name="cpLocationID" type="xs:string" minOccurs="0"/>
+<xs:element name="directDepositAccountID" type="xs:string" minOccurs="0"/>
+<xs:element name="endProductTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="informalIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="journalDate" type="xs:string" minOccurs="0"/>
+<xs:element name="journalObjectID" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStation" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStatusTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="journalUserId" type="xs:string" minOccurs="0"/>
+<xs:element name="lastPaidDate" type="xs:string" minOccurs="0"/>
+<xs:element name="mailingAddressID" type="xs:string" minOccurs="0"/>
+<xs:element name="numberOfBenefitClaimRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="numberOfCPClaimRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="organizationName" type="xs:string" minOccurs="0"/>
+<xs:element name="organizationTitleTypeName" type="xs:string" minOccurs="0"/>
+<xs:element name="participantClaimantID" type="xs:string" minOccurs="0"/>
+<xs:element name="participantVetID" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="paymentAddressID" type="xs:string" minOccurs="0"/>
+<xs:element name="preDischargeInd" type="xs:string" minOccurs="0"/>
+<xs:element name="programTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="serviceTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="statusTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="submtrApplcnTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="submtrRoleTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="vetFirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="vetLastName" type="xs:string" minOccurs="0"/>
+<xs:element name="vetMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="vetSuffix" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinqbcLifeCycleRecord">
+<xs:sequence>
+<xs:element name="lifeCycleRecords" type="tns:shrinqbcLifeCycle" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="numberOfRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinqbcLifeCycle">
+<xs:sequence>
+<xs:element name="actionFirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="actionLastName" type="xs:string" minOccurs="0"/>
+<xs:element name="actionMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="actionStationNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="actionSuffix" type="xs:string" minOccurs="0"/>
+<xs:element name="benefitClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="caseAssignmentLocationID" type="xs:string" minOccurs="0"/>
+<xs:element name="caseAssignmentStatusNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="caseID" type="xs:string" minOccurs="0"/>
+<xs:element name="changedDate" type="xs:string" minOccurs="0"/>
+<xs:element name="closedDate" type="xs:string" minOccurs="0"/>
+<xs:element name="journalDate" type="xs:string" minOccurs="0"/>
+<xs:element name="journalObjectID" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStation" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStatusTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="journalUserID" type="xs:string" minOccurs="0"/>
+<xs:element name="lifeCycleStatusID" type="xs:string" minOccurs="0"/>
+<xs:element name="lifeCycleStatusTypeName" type="xs:string" minOccurs="0"/>
+<xs:element name="reasonText" type="xs:string" minOccurs="0"/>
+<xs:element name="stationofJurisdiction" type="xs:string" minOccurs="0"/>
+<xs:element name="statusReasonTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="statusReasonTypeName" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinqbcParticipantRecord">
+<xs:sequence>
+<xs:element name="bddSiteName" type="xs:string" minOccurs="0"/>
+<xs:element name="benefitClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="benefitClaimReturnLabel" type="xs:string" minOccurs="0"/>
+<xs:element name="claimPriorityIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="claimReceiveDate" type="xs:string" minOccurs="0"/>
+<xs:element name="claimStationOfJurisdiction" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTemporaryStationOfJurisdiction" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTypeName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantFirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantLastName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantPersonOrOrganizationIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantSuffix" type="xs:string" minOccurs="0"/>
+<xs:element name="cpBenefitClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="cpClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="cpClaimReturnLabel" type="xs:string" minOccurs="0"/>
+<xs:element name="cpLocationID" type="xs:string" minOccurs="0"/>
+<xs:element name="directDepositAccountID" type="xs:string" minOccurs="0"/>
+<xs:element name="endProductTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="informalIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="journalDate" type="xs:string" minOccurs="0"/>
+<xs:element name="journalObjectID" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStation" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStatusTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="journalUserId" type="xs:string" minOccurs="0"/>
+<xs:element name="lastPaidDate" type="xs:string" minOccurs="0"/>
+<xs:element name="mailingAddressID" type="xs:string" minOccurs="0"/>
+<xs:element name="numberOfBenefitClaimRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="numberOfCPClaimRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="numberOfRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="organizationName" type="xs:string" minOccurs="0"/>
+<xs:element name="organizationTitleTypeName" type="xs:string" minOccurs="0"/>
+<xs:element name="participantClaimantID" type="xs:string" minOccurs="0"/>
+<xs:element name="participantVetID" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="paymentAddressID" type="xs:string" minOccurs="0"/>
+<xs:element name="programTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="selection" type="tns:shrinqbcSelection" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+<xs:element name="serviceTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="statusTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="vetFirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="vetLastName" type="xs:string" minOccurs="0"/>
+<xs:element name="vetMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="vetSuffix" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinqbcSelection">
+<xs:sequence>
+<xs:element name="benefitClaimID" type="xs:string" minOccurs="0"/>
+<xs:element name="claimReceiveDate" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="claimTypeName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantFirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantLastName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantSuffix" type="xs:string" minOccurs="0"/>
+<xs:element name="endProductTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="lastActionDate" type="xs:string" minOccurs="0"/>
+<xs:element name="organizationName" type="xs:string" minOccurs="0"/>
+<xs:element name="organizationTitleTypeName" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="personOrOrganizationIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="programTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="statusTypeCode" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinqbcSuspenceRecord">
+<xs:sequence>
+<xs:element name="numberOfRecords" type="xs:string" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="suspenceRecords" type="tns:shrinqbcSuspence" nillable="true" minOccurs="0" maxOccurs="unbounded"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="shrinqbcSuspence">
+<xs:sequence>
+<xs:element name="claimSuspenceDate" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string" minOccurs="0"/>
+<xs:element name="journalDate" type="xs:string" minOccurs="0"/>
+<xs:element name="journalObjectID" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStation" type="xs:string" minOccurs="0"/>
+<xs:element name="journalStatusTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="journalUserID" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string" minOccurs="0"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="suffix" type="xs:string" minOccurs="0"/>
+<xs:element name="suspenceActionDate" type="xs:string" minOccurs="0"/>
+<xs:element name="suspenceCode" type="xs:string" minOccurs="0"/>
+<xs:element name="suspenceReasonText" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBenefitClaimDependents">
+<xs:sequence>
+<xs:element name="dependentUpdateInput" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string"/>
+<xs:element name="ptcpntIdVet" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdPayee" type="xs:string" minOccurs="0"/>
+<xs:element name="numberOfDependents" type="xs:string"/>
+<xs:element name="dependents" maxOccurs="unbounded">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="participantId" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string"/>
+<xs:element name="participantRelationshipTypeName" type="xs:string"/>
+<xs:element name="birthDate" type="xs:string" minOccurs="0"/>
+<xs:element name="ssn" type="xs:string" minOccurs="0"/>
+<xs:element name="gender" type="xs:string" minOccurs="0"/>
+<xs:element name="proofOfDependencyInd" type="xs:string" minOccurs="0"/>
+<xs:element name="deleteRequest" type="xs:string" default="N"/>
+<xs:element name="cityOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="stateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="deathReason" type="xs:string" minOccurs="0"/>
+<xs:element name="deathDate" type="xs:string" minOccurs="0"/>
+<xs:element name="ssnVerifyStatus" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="taxIdNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="relateInd" type="xs:string" default="N"/>
+<xs:element name="currentRelateStatus" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBenefitClaimDependentsResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBenefitClaim">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBenefitClaimResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="clearBenefitClaim">
+<xs:sequence>
+<xs:element name="clearBenefitClaimInput" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="benefitClaimType" type="xs:string" default="1"/>
+<xs:element name="endProductCode" type="xs:string"/>
+<xs:element name="incremental" type="xs:string"/>
+<xs:element name="pclrReasonCode" type="xs:string"/>
+<xs:element name="pclrReasonText" type="xs:string" minOccurs="0"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="clearBenefitClaimResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="insertPresidentialMemorialCertificate">
+<xs:sequence>
+<xs:element name="pmcInput" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="veteranName" type="xs:string" minOccurs="0"/>
+<xs:element name="veteranFirstName" type="xs:string"/>
+<xs:element name="veteranMiddleInitial" type="xs:string" minOccurs="0"/>
+<xs:element name="veteranLastName" type="xs:string"/>
+<xs:element name="veteranSuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="station" type="xs:string"/>
+<xs:element name="salutation" type="xs:string"/>
+<xs:element name="title" type="xs:string"/>
+<xs:element name="addressLine1" type="xs:string"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="state" type="xs:string"/>
+<xs:element name="zipCode" type="xs:string"/>
+<xs:element name="realtionshipToVeteran" type="xs:string"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="insertPresidentialMemorialCertificateResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCh33DdEft">
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findCh33DdEftResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:ch33DdEft" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="ch33DdEft">
+<xs:sequence>
+<xs:element name="addressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine4" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine5" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine6" type="xs:string" minOccurs="0"/>
+<xs:element name="dpositAcntNbr" type="xs:string" minOccurs="0"/>
+<xs:element name="dpositAcntTypeNm" type="xs:string" minOccurs="0"/>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="nameLineNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="returnCode" type="xs:string" minOccurs="0"/>
+<xs:element name="returnMessage" type="xs:string" minOccurs="0"/>
+<xs:element name="routngTrnsitNbr" type="xs:string" minOccurs="0"/>
+<xs:element name="zipCode" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBenefitClaim">
+<xs:sequence>
+<xs:element name="benefitClaimUpdateInput" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="dateOfClaim" type="xs:string"/>
+<xs:element name="disposition" type="xs:string" default="M"/>
+<xs:element name="suspenseDate" type="xs:string" minOccurs="0"/>
+<xs:element name="sectionUnitNo" type="xs:string"/>
+<xs:element name="folderWithClaim" type="xs:string" default="N"/>
+<xs:element name="futureReason" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantSsn" type="xs:string" minOccurs="0"/>
+<xs:element name="beneficiaryDateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="powerOfAttorney" type="xs:string" minOccurs="0"/>
+<xs:element name="gulfWarRegistryPermit" type="xs:string" minOccurs="0"/>
+<xs:element name="specialIssueCase" type="xs:string" minOccurs="0"/>
+<xs:element name="inTakeSite" type="xs:string" minOccurs="0"/>
+<xs:element name="benefitClaimType" type="xs:string"/>
+<xs:element name="oldEndProductCode" type="xs:string" minOccurs="0"/>
+<xs:element name="newEndProductLabel" type="xs:string" minOccurs="0"/>
+<xs:element name="oldDateOfClaim" type="xs:string"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="endProductIncrement" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaAccess" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaCadd" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBenefitClaimResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="cancelBenefitClaim">
+<xs:sequence>
+<xs:element name="cancelBenefitClaimInput" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="benefitClaimType" type="xs:string" default="1"/>
+<xs:element name="endProductCode" type="xs:string"/>
+<xs:element name="incremental" type="xs:string"/>
+<xs:element name="pcanReasonCode" type="xs:string"/>
+<xs:element name="pcanReasonText" type="xs:string" minOccurs="0"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="cancelBenefitClaimResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="insertBenefitClaim">
+<xs:sequence>
+<xs:element name="benefitClaimInput" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="ssn" type="xs:string"/>
+<xs:element name="benefitClaimType" type="xs:string"/>
+<xs:element name="payee" type="xs:string" default="00"/>
+<xs:element name="endProduct" type="xs:string"/>
+<xs:element name="endProductCode" type="xs:string"/>
+<xs:element name="titleName" type="xs:string" minOccurs="0"/>
+<xs:element name="firstName" type="xs:string"/>
+<xs:element name="middleName" type="xs:string" minOccurs="0"/>
+<xs:element name="lastName" type="xs:string"/>
+<xs:element name="suffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="addressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="city" type="xs:string"/>
+<xs:element name="state" type="xs:string"/>
+<xs:element name="postalCode" type="xs:string"/>
+<xs:element name="postalCodePlus4" type="xs:string" minOccurs="0"/>
+<xs:element name="country" type="xs:string" default="USA"/>
+<xs:element name="dayTimeAreaCode" type="xs:string" minOccurs="0"/>
+<xs:element name="dayTimePhoneNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="nightTimeAreaCode" type="xs:string" minOccurs="0"/>
+<xs:element name="nightTimePhoneNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="dateOfClaim" type="xs:string" minOccurs="0"/>
+<xs:element name="disposition" type="xs:string" default="M"/>
+<xs:element name="suspenseDate" type="xs:string" minOccurs="0"/>
+<xs:element name="sectionUnitNo" type="xs:string"/>
+<xs:element name="folderWithClaim" type="xs:string" default="N"/>
+<xs:element name="futureReason" type="xs:string" minOccurs="0"/>
+<xs:element name="claimantSsn" type="xs:string" minOccurs="0"/>
+<xs:element name="beneficiaryDateOfBirth" type="xs:string" minOccurs="0"/>
+<xs:element name="powerOfAttorney" type="xs:string" minOccurs="0"/>
+<xs:element name="gulfWarRegistryPermit" type="xs:string" minOccurs="0"/>
+<xs:element name="suppressAcknowledgementLetter" type="xs:string" minOccurs="0"/>
+<xs:element name="specialIssueCase" type="xs:string" minOccurs="0"/>
+<xs:element name="inTakeSite" type="xs:string" minOccurs="0"/>
+<xs:element name="endProductName" type="xs:string"/>
+<xs:element name="soj" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostalTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostOfficeTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="foreignMailCode" type="xs:string" minOccurs="0"/>
+<xs:element name="addressType" type="xs:string" minOccurs="0"/>
+<xs:element name="preDischargeIndicator" type="xs:string" default="N"/>
+<xs:element name="bypassIndicator" type="xs:string" minOccurs="0"/>
+<xs:element name="bnftClaimId" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaAccess" type="xs:string" minOccurs="0"/>
+<xs:element name="allowPoaCadd" type="xs:string" minOccurs="0"/>
+<xs:element name="submtrRoleTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="submtrApplcnTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="awardSoj" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="insertBenefitClaimResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBenefitClaimDetail">
+<xs:sequence>
+<xs:element name="benefitClaimId" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="findBenefitClaimDetailResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateCh33DdEft">
+<xs:sequence>
+<xs:element name="ch33DdEftInput" type="tns:ch33DdEftInput" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="ch33DdEftInput">
+<xs:sequence>
+<xs:element name="dpositAcntNbr" type="xs:string" minOccurs="0"/>
+<xs:element name="dpositAcntTypeNm" type="xs:string" minOccurs="0"/>
+<xs:element name="fileNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="routngTrnsitNbr" type="xs:string" minOccurs="0"/>
+<xs:element name="tranCode" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateCh33DdEftResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:ch33DdEft" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBenefitClaimAddress">
+<xs:sequence>
+<xs:element name="cInput" minOccurs="0">
+<xs:complexType>
+<xs:sequence>
+<xs:element name="fileNumber" type="xs:string"/>
+<xs:element name="payeeCode" type="xs:string" default="00"/>
+<xs:element name="transId" type="xs:string" minOccurs="0"/>
+<xs:element name="johnsCnarData" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAddressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAddressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAddressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="corpCity" type="xs:string"/>
+<xs:element name="corpState" type="xs:string"/>
+<xs:element name="corpCountry" type="xs:string"/>
+<xs:element name="corpZipCode" type="xs:string"/>
+<xs:element name="corpForeignMailCode" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeLastName" type="xs:string"/>
+<xs:element name="payeeFirstName" type="xs:string"/>
+<xs:element name="payeeMiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeSuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeOrgName" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeOrgType" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeOrgTitle" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1LastName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1FirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1MiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary1SuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2LastName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2FirstName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2MiddleName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciary2SuffixName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryOrgName" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryOrgTitle" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryOrgType" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryPtcpntRelationship" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryPrepPhraseType" type="xs:string" minOccurs="0"/>
+<xs:element name="payeeSalutation" type="xs:string" minOccurs="0"/>
+<xs:element name="cfidNameActionInd" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostalTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="mltyPostOfficeTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="provinceName" type="xs:string" minOccurs="0"/>
+<xs:element name="territoryName" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneTypeName1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneNumber1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAreaNumber1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpDeletePhoneNumberInd1" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneTypeName2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpPhoneNumber2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpAreaNumber2" type="xs:string" minOccurs="0"/>
+<xs:element name="corpDeletePhoneNumberInd2" type="xs:string" minOccurs="0"/>
+<xs:element name="competencyDecisionNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine1" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine2" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentAddressLine3" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentCity" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentZipCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentState" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentCountryCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentForeignZipCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentPostalTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentPoTypeCode" type="xs:string" minOccurs="0"/>
+<xs:element name="eftRoutingNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="eftAccountType" type="xs:string" minOccurs="0"/>
+<xs:element name="eftAccountNumber" type="xs:string" minOccurs="0"/>
+<xs:element name="terminateAddressInd" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress1" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress2" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress3" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress4" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress5" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryMailingAddress6" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress1" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress2" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress3" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress4" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress5" type="xs:string" minOccurs="0"/>
+<xs:element name="treasuryPaymentAddress6" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdPayee" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdFiduciary1" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdFiduciary2" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdVet" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdBene" type="xs:string" minOccurs="0"/>
+<xs:element name="ptcpntIdRecip" type="xs:string" minOccurs="0"/>
+<xs:element name="awardTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="competencyDecisionTypeCd" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryDecisionCategoryType" type="xs:string" minOccurs="0"/>
+<xs:element name="tempCustodianInd" type="xs:string" minOccurs="0"/>
+<xs:element name="fiduciaryFileCorporateLocation" type="xs:string" minOccurs="0"/>
+<xs:element name="transBypassCorporateInd" type="xs:string" default="3"/>
+<xs:element name="corpZipPlusFour" type="xs:string" minOccurs="0"/>
+<xs:element name="group1ValidatedInd" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentZipPlusFour" type="xs:string" minOccurs="0"/>
+<xs:element name="cpPaymentGroup1ValidatedInd" type="xs:string" minOccurs="0"/>
+<xs:element name="emailAddress" type="xs:string" minOccurs="0"/>
+<xs:element name="addressType" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:element>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="updateBenefitClaimAddressResponse">
+<xs:sequence>
+<xs:element name="return" type="tns:benefitClaimRecord" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
