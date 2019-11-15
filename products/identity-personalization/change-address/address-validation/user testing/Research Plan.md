@@ -118,3 +118,6 @@ Please list the people who will be serving in each role. **Include the primary p
 - Discussion Guide
 - Notes
 - Synthesis
+
+## Approved
+- Yes/No - will update to "YES" when this is approved by Lauren Alexanderson

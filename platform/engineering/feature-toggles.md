@@ -5,7 +5,7 @@ It's possible to enable/disable a feature entirely, for a percentage of all user
 Our feature toggles are powered by an open-source gem called [Flipper gem](https://github.com/jnunemaker/flipper)
 
 ## Managing Feature Toggles
-Features can be enabled/disabled in the Flipper user interface. To access the Flipper UI, first log in using an identity-verified id.me user listed in  [settings.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml#L397)
+Features can be enabled/disabled in the Flipper user interface. To access the Flipper UI, first log in using an identity-verified id.me user listed in  [settings.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml#L397). If you're not sure if your account is identity-verified, you can check by going to [this page](https://www.va.gov/health-care/refill-track-prescriptions/). If you need to verify your account you'll see a "Verify your Identity" button.
 
 |Environment|URL|
 |---|---|
@@ -21,7 +21,8 @@ We can also roll out a feature for a select few users by adding the their email 
 
 
 ## Front End Implementation
-The front end queries the http://localhost:3000/v0/feature_toggles endpoint [documented here](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/site/getFeatureToggless), which returns true/false for each feature toggle.
+The front end queries the `/v0/feature_toggles` endpoint ([swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/site/getFeatureToggless)), which returns true/false for each feature toggle.
+Full [vets-website feture toggle documentation](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-flags/) (see Release Toggles)
 
 ## Back End Implementation
 To check if a feature is enabled within the context of a specific user, call  `Flipper.enabled?('facility_locator_show_community_cares', @current_user))`.  The user parameter is optional.

@@ -14,6 +14,8 @@ assignees: emilywaggoner, CrystabelReiter,jenstrickland
 
 ### For reference
 
+[Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
+
 **VSA** - [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#design-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#design-review)
 
 ## Product Name

@@ -1,5 +1,16 @@
 # Checklist: Rated Disabilities
-The steps here are meant to track and inform all the necessary steps for a feature to be launched in the VA.goc online experience.
+The steps here are meant to track and inform all the necessary steps for a feature to be launched in the VA.gov online experience.  
+## Table of Contents  
+[Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#discovery)  
+[Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#design)  
+[Development](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#development)  
+[Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#review)  
+[Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#analytics)  
+[Support](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#support-consider-deliverables-and-artifacts)  
+[Pre-release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#pre-release-plan)  
+[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#release-plan)  
+[Launch](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#launch)  
+[Post-Mortem](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#post-mortem)  
 
 ## Discovery
 - [x] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md)  
@@ -24,7 +35,7 @@ The steps here are meant to track and inform all the necessary steps for a featu
   - [x] Review the [VA.gov Design System](https://design.va.gov/)
   - [x] Team and DSVA: share mockups, discuss alternates/options in a team meeting
   - [x] Review the [Design QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md) docuementation
-- [ ] **External**
+- [x] **External**
   - [x] Review [Design Workflow](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
   - [x] Shawna (`@shawna` in Slack): Design presentation of mockups (might be in a weekly meeting)
   - [x] Iterate on Shawna's feedback
@@ -35,7 +46,7 @@ The steps here are meant to track and inform all the necessary steps for a featu
     - [x] Mikki: IA
     - [x] Jennifer: Usability
     - [x] Trevor: 508
-  - Iterate on other team's feedback
+  - [x] Iterate on other team's feedback
 - [x] **As soon as feasible and iteration is finished,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
 
 ### Content/IA  
@@ -52,37 +63,42 @@ _Share as soon as you have content - this is usually after mockups are created. 
   - [x] Confirm that wayfinding is appropriate
 - [x] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 _These links/reviews may end up being consolidated, stay tuned._
-- [ ] Before launch, circle back with Content/IA about further impact and feedback  
+- [x] Before launch, circle back with Content/IA about further impact and feedback  
 
 ### Usability
 - [x] Create a [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20&%20Research/Research/Usability%20testing/Research%20Plan.md)
   - [ ] Is the entry point established?
-  - [ ] Is there a better entry point?
+    - A gateway link has not yet been determined as a final location
+    - There have been discusssions about linking back and forth with the Rated Disbalities Tool from the Disbailities Rating Calculator
 - [x] 508 Compliance
   - [x] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
-  - [x] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
-  - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  
+  - [x] Internal 508 Review
+  - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+  - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  _Done by Trevor_
+- [ ] Conduct a usability study
+  - [ ] Address any feedback from that study
 
 ## Development
 _Do we need to merge the FE and BE tasks?_  
 ### General Engineering Tasks  
 - [ ] Documentation for quickly addressing when things go wrong  
-- [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely?  
+- [ ] Establish contacts for oncall support: who do we contact if the application is failing?  What kinds of failure modes are likely? 
+ 
 ### Backend Tasks  
-- [ ] Investigation of applicable services  
+- [x] Investigation of applicable services  
   - [x] Does the feature use the `vets-api` or `EVSS` service?
   - [x] Review `vets-api` endpoints or does an `api` exist, need to be built?
-  - [ ] Does EVSS need to be engaged? And how?
+  - [x] Does EVSS need to be engaged? And how?
   - [x] Collaborate with Frontend on Error Handling
   - [x] Investigate  the common area for error types
   - [x] Define or reference a known resource
 - [ ] For PRs: first review internally with BE or another engineer before the BE Team
-  - [ ] Once internally reviewed, share with the BE Review Team at the VSP (team name?)
-  - [ ] Ensure that feature flags are set appropriately to be toggled
-- [ ] Documentation and points of contact for any new backend dependencies
-- [ ] Links to important dashboards for investigating relevant issues
+  - [ ] `Once internally reviewed, share with the BE Review Team at VSP (team name?)`
+  - [x] Ensure that feature flags are set appropriately to be toggled
+- [x] Documentation and points of contact for any new backend dependencies - see Product Outline for contact info
+
 ### Frontend Tasks
-- [ ] Investigation
+- [x] Investigation
   - [x] What will be involved in using the `vets-api`service to pull and display data?
   - [x] List and define what the main components will be for the feature to function properly
   - [x] Collaborate with Backend on Error Handling
@@ -92,19 +108,22 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
   - [x] Ensure that feature flags are set appropriately to be toggled
   - [x] Entrance pages (i.e. supporting static content) in place
-### Security/ATO
+
+## Review
+### Security/ATO - `ON HOLD until Andrea Hewitt reaches out`
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?  Same as QA?
 - [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
 - [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-preliminary-ato-review)
 - [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-pre-launch-ato-review)
+
 ### QA
-`-` [ ] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform 
+- [x] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform [#3099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3099)
 
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
-  - [ ] Build, test, audits (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
-  - [ ] Code coverage requirements
+  - [ ] Build, test, audit (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
+  - [x] Code coverage requirements (unit tests)
 - [x] Develop testing infrastructure, refer to established documentation  
 - [ ] Define threshold or definition of high-severity bugs
 - [ ] Document any high-severity bugs for future reference  
@@ -117,33 +136,32 @@ _Do we need to merge the FE and BE tasks?_
 - [x] Confirm that the new feature/product is stable and visible in staging.va.gov  
 - [x] Engage with the Analytics Team about what is to be launched  
 - [x] Review [KPI/metrics spreadsheet](https://docs.google.com/spreadsheets/d/1Zy_m5s6zrhmgKaUacYo2MLRmDjtJNhVKSeyeSeAtVec/edit#gid=1554481611)
-`-` [x] EStablish baseline metrics for later analysis
+- [x] EStablish baseline metrics for later analysis
 
-## Support
+## Support (Consider Deliverables and Artifacts)
 - [ ] Does the Call Center have documentation?
-  - [ ] Draft as needed.
+  - [ ] Draft as needed
 - [ ] Have they asked for anything else?
 - [ ] Establish a point of contact for the Call Center 
+- [ ] Ensure that these are noted and stored for easy access
+  - [ ] Include contact information in case further discussion is required
 
-## Pre-release
+
+## Pre-release Plan
 - [ ] Call Center is prepared for launch with updated scripts/documentation as needed
-- [ ] ~VA web comms team is aware of this launch and has accurate messaging~
+- [ ] ~VA web comms team is aware of this launch and has accurate messaging~ _Not for RD_
 - [ ] Product Outline is updated
 - [ ] Downtime UX and error messaging documentation complete
 - [ ] "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
 
 ## Release Plan
-- [x] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-
-## Consider Deliverables and Artifacts
-- [ ] Ensure that these are noted and stored for easy access
-  - [ ] Include contact information in case further discussion is required
+- [ ] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch
-- [ ] Go/No-go from each team member
 - [ ] Define what is being tracked
 - [ ] Define other last minute items
 - [ ] Review the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [ ] Go/No-go from each team member
 
 ## Post-Mortem
 - [ ] List and define any issues that impeded the process

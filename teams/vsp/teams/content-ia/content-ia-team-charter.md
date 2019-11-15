@@ -21,7 +21,7 @@ Provide expert content and IA support and resources to VSP and VFS teams to ensu
 ### Responsibilities:
 - Define and maintain rules of engagement (ROE) for how VSP Content & IA and VFS teams should collaborate.
 - Keep content, IA, and documentation site best practice documentation up to date.
-- Meet regularly w/VFS teams to discuss in-progress content and IA and provide guidance in the form of plain language and content reviews.
+- Meet regularly w/VFS teams to discuss in-progress content and IA and provide guidance in the form of plain language, content, and IA reviews.
 - Consult on user research processes; provide content and IA recommendations based on results.
 - Validate requested URL changes, redirects, and vanity URLs.
 - Be available in #vfs-platform-support to answer Content and IA related questions.
@@ -43,6 +43,7 @@ Provide expert content and IA support and resources to VSP and VFS teams to ensu
 - Information Architect: Mikki Northuis (@Mikki)
 - Information Architect: Matt Johnson (@Matt Johnson)
 - Content Editor: Peggy Gannon (@Peggygannon)
+- Frontend Engineer: Bill Fienberg (@Bill Fienberg)
 
 ---
 
@@ -90,7 +91,14 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-TBD
+- Be respectful, both online and off
+- Show your face (Webcam) at meetings / calls
+- Speak up! - everyone’s voice matters
+- Overcommunication is key — set your Slack status or let folks know when you're busy or offline
+- Escalate the medium, not the tone
+
+- We are flexible, but intentional in the way we work
+- Let’s have fun and do great work!
 
 #### Slack:
 

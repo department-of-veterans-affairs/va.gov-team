@@ -1,0 +1,88 @@
+{
+  "URL": "https://veteran.apps-staging.va.gov/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/{icn}/appointments/system/var/id/8a4886886e375318016e3d8c84760046",
+  "patientIdentifier":{
+    "uniqueId":"1013124304V115761",
+    "assigningAuthority":"ICN"
+  },
+  "surrogateIdentifier":{
+
+  },
+  "lastUpdatedDate":"11/05/2019 16:50:49",
+  "optionDate1":"11/12/2019",
+  "optionTime1":"AM",
+  "optionDate2":"11/15/2019",
+  "optionTime2":"AM",
+  "optionDate3":"11/19/2019",
+  "optionTime3":"AM",
+  "status":"Cancelled",
+  "appointmentType":"Food and Nutrition",
+  "visitType":"Office Visit",
+  "facility":{
+    "name":"DAYTSHR -Lima VA Clinic",
+    "facilityCode":"984GB",
+    "state":"OH",
+    "city":"Lima",
+    "parentSiteCode":"984",
+    "objectType":"Facility",
+    "link":[
+
+    ]
+  },
+  "textMessagingAllowed":false,
+  "phoneNumber":"(732) 555-1234",
+  "purposeOfVisit":"Other",
+  "otherPurposeOfVisit":"it hurts",
+  "providerId":"0",
+  "secondRequest":false,
+  "secondRequestSubmitted":false,
+  "patient":{
+    "displayName":"ZZTEST, PATIENT",
+    "firstName":"PATIENT",
+    "lastName":"ZZTEST",
+    "dateOfBirth":"Jan 01, 1962",
+    "patientIdentifier":{
+      "uniqueId":"Patient999"
+    },
+    "ssn":"999999998",
+    "inpatient":false,
+    "textMessagingAllowed":false,
+    "id":"Patient999",
+    "objectType":"Patient",
+    "link":[
+
+    ]
+  },
+  "bestTimetoCall":[
+    "Evening",
+    "Morning"
+  ],
+  "appointmentRequestDetailCode":[
+    {
+      "userId":"1013124304V115761",
+      "detailCode":{
+        "code":"DETCODE8"
+      }
+    }
+  ],
+  "hasVeteranNewMessage":false,
+  "hasProviderNewMessage":true,
+  "providerSeenAppointmentRequest":false,
+  "requestedPhoneCall":false,
+  "typeOfCareId":"123",
+  "appointmentRequestId":"8a4886886e375318016e3d8c84760046",
+  "patientId":"Patient999",
+  "date":"2019-11-05T16:50:49.372+0000",
+  "uniqueId":"8a4886886e375318016e3d8c84760046",
+  "assigningAuthority":"ICN",
+  "systemId":"var",
+  "selfUri":"/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1013124304V115761/appointments/system/var/id/8a4886886e375318016e3d8c84760046",
+  "selfLink":{
+    "rel":"self",
+    "href":"/var/VeteranAppointmentRequestService/v4/rest/appointment-service/patient/ICN/1013124304V115761/appointments/system/var/id/8a4886886e375318016e3d8c84760046",
+    "objectType":"AtomLink"
+  },
+  "objectType":"VARAppointmentRequest",
+  "createdDate":"11/05/2019 16:50:49",
+  "lastAccessDate":"11/12/2019 18:28:29",
+  "id":"8a4886886e375318016e3d8c84760046"
+}

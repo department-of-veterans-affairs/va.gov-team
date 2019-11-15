@@ -8,7 +8,7 @@ Bad Address Indicator
 Each address stored in Vet360 comes with an optional Bad Address Indicator (BAI). When BAI is true that means that the VA has had mail returned to it from that address, which means not only have the taxpayers paid for a bad government interaction, but also that the Veteran in question did not receive her benefit.
 
 ### What Sprint Teams Are Associated with this project? 
-* Authenticited Experience 
+* Authenticated Experience 
 
 ### Sprint Roles
 

@@ -1,10 +1,11 @@
-# Authentication Flow
+# Authentication Flow Between vets-api and VA Mobile Framework Environments
 
-    This document will describe the proposed approach to allow bidirectional flow of data between VA.gov / Ruby components and VAMF resources. 
+## Overview
+This document will describe the proposed approach to allow bidirectional flow of data between VA.gov / vets-api components and VAMF resources. 
 
-    This flow is based on the [VA Mobile JWT Exchange guide](https://coderepo.mobilehealth.va.gov/projects/IUMS/repos/user-service/browse/docs/externalJwtExchange.md) 
+This flow is based on the [VA Mobile JWT Exchange guide](https://coderepo.mobilehealth.va.gov/projects/IUMS/repos/user-service/browse/docs/externalJwtExchange.md) 
 
-    Additionally, this document will describe how auditing and traceability will work between the two systems. 
+Additionally, this document will describe how auditing and traceability will work between the two systems. 
 
 ## Authentication Flow
 

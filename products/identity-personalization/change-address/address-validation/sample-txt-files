@@ -1,0 +1,311 @@
+@feature @address_validation
+Feature: Address Validation Service
+  As an address validation service, this service will provide methods to match, correct, and validate addresses via a spectrum address validation service
+  
+  - address_validation_1: Check for Malformed Request for Address Validation Service
+  - address_validation_2: Fail request when it does not have enough information
+  - address_validation_3: Fail a request when the stateProvince is longer than 255 characters
+  - address_validation_4: Fail a request when the requestCountry is longer than 255 characters
+  - address_validation_5: Address Validation Service returns AddressCouldNotFound message when spectrum can not validate a bad address
+  - address_validation_6: Address Validation service returns the spectrum validation response with no error message when spectrum provides a validated address
+  - address_validation_7: Return the same validation key for same valid address	
+  - address_validation_8: Return different validation key different valid addresses
+  - address_validation_9: Return same validation key for same invalid addresses	
+  - address_validation_10: Return different validation key for different invalid addresses
+  - address_validation_11: Return different validation key and confidence score for valid addresses with different addressLine2 inputs
+  - address_validation_12: Return same validation key and confidence score for an address with only zipCode5 and having both with zipCode5,zipCode4
+  - address_validation_13: Return same validation key and confidence score for international address which have at least city or postalCode
+  - address_validation_14: Return different validation key and confidence score for international addresses with city and postal code values wrong
+  - address_validation_15: Return message code with messageText for nonPostalInput
+  - address_validation_16: Return message code with key for different errors <ScenarioID>
+  - address_validation_17: The service receives and processes a valid request and returns different addressType <ScenarioID>
+  - address_validation_18: Addresses with DPV of Y and S are considered valid correspondance addresses <ScenarioID>
+  
+  @address_validation_1 @regression
+  Scenario: Check for Malformed Request for Address Validation Service
+    Given the service receives a null request address
+    When the address validation service processes the request and sends it to spectrum
+    And address validation service will return the messageKey "InvalidRequestError"
+
+  @address_validation_2 @regression
+  Scenario: Fail request when it does not have enough information
+    Given the address validation service receives a valid address request
+      | addressLine1       | addressLine2 | addressLine3 | city    | zipCode5 | zipCode4 | stateProvince | requestCountry |
+      | 113 Washington Ave |              |              | Beckley |          |          |               | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a response with message
+      | AddressLine1       | City    | StateProvince | Country.ISO | Status | Status.Code      | Status.Description |
+      | 113 Washington Ave | Beckley |               | USA         | F      | UnableToValidate | Address Not Found  |
+    And address validation service will return the messageKey "AddressCouldNotBeFound"
+
+  @address_validation_3 @regression
+  Scenario: Fail a request when the stateProvince is longer than 255 characters
+    Given the address validation service receives a request with a stateProvince value greater than 255 characters
+    When the address validation service processes the request and sends it to spectrum
+    And address validation service will return the messageKey "stateProvince.name.Size"
+
+  @address_validation_4 @regression
+  Scenario: Fail a request when the requestCountry is longer than 255 characters
+    Given the address validation service receives a request with a requestCountry value greater than 255 characters
+    When the address validation service processes the request and sends it to spectrum
+    And address validation service will return the messageKey "requestCountry.countryName.Size"
+
+  @address_validation_5 @regression
+  Scenario: Address Validation Service returns AddressCouldNotFound message when spectrum can not validate a bad address
+    Given the address validation service receives a valid address request
+      | addressLine1        | addressLine2 | addressLine3 | city            | stateProvince | zipCode5 | requestCountry |
+      | 5134 Carters Run rd |              |              | Temperanceville | VA            | fake     | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a response with message
+      | AddressLine1        | City            | StateProvince | Country.ISO | Status | Status.Code      | Status.Description | Confidence |
+      | 5134 Carters Run rd | Temperanceville | VA            | USA         | F      | UnableToValidate | Address Not Found  |          0 |
+    Then address validation service will return an "Unknown" value in the addressType field
+    And address validation service will return the messageKey "AddressCouldNotBeFound"
+
+  @address_validation_6 @regression
+  Scenario: Address Validation service returns the spectrum validation response with no error message when spectrum provides a validated address
+    Given the address validation service receives a valid address request
+      | addressLine1          | city    | stateProvince | zipCode5 | requestCountry |
+      | 113 Washington Avenue | Beckley | WV            |    25801 | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1       | AddressLine2 | PostalCode.Base | City    | StateProvinceCode | Country.ISO | Confidence | DPV |
+      | 113 Washington Ave |              |           25801 | Beckley | WV                | USA         |        100 | Y   |
+    Then the address validation service response will match the expected output
+      | addressLine1       | addressLine2 | city    |
+      | 113 Washington Ave |              | Beckley |
+    And the messages will be empty
+
+  @address_validation_7 @regression
+  Scenario: Return the same validation key for same valid address
+    Given the address validation service receives a valid address request
+      | addressLine1     | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city       | stateProvince | requestCountry |
+      | 1826 Military St |              |              |    48060 |     5937 | Port Huron | MI            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1     | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City       | StateProvinceCode | Country.ISO | Confidence |
+      | 1826 Military St |              |              |           48060 |             5937 | Port Huron | MI                | USA         |        100 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1     | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city       | stateProvince | requestCountry |
+      | 1826 Military St |              |              |    48060 |     5937 | Port Huron | MI            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1     | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City       | StateProvinceCode | Country.ISO | Confidence |
+      | 1826 Military St |              |              |           48060 |             5937 | Port Huron | MI                | USA         |        100 |
+    And the address validation service returns a successful response with a validation key
+    Then the validation key should be same for these requests
+
+  @address_validation_8 @regression
+  Scenario: Return different validation key different valid addresses
+    Given the address validation service receives a valid address request
+      | addressLine1     | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city       | stateProvince | requestCountry |
+      | 1826 Military St |              |              |    48060 |     5937 | Port Huron | MI            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1     | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City       | StateProvinceCode | Country.ISO | Confidence |
+      | 1826 Military St |              |              |           48060 |             5937 | Port Huron | MI                | USA         |        100 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1    | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city                | stateProvince | requestCountry |
+      | 7740 Blaine Ave |              |              |    55076 |     2808 | Inver Grove Heights | MN            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1    | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City                | StateProvinceCode | Country.ISO | Confidence |
+      | 7740 Blaine Ave |              |              |           55076 |             2808 | Inver Grove Heights | MN                | USA         |        100 |
+    Then the validation key should be different for these requests
+
+  @address_validation_9 @regression
+  Scenario: Return same validation key for same invalid addresses
+    Given the address validation service receives a valid address request
+      | addressLine1       | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city       | stateProvince | requestCountry |
+      | 32550 Stoney Craig |              |              |    24011 |          | New Church | VA            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a response with message
+      | AddressLine1       | City | StateProvince | Country.ISO | Status | Status.Code      | Status.Description | Confidence |
+      | 32550 Stoney Craig |      | VA            | USA         | F      | UnableToValidate | Address Not Found  |          0 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1       | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city       | stateProvince | requestCountry |
+      | 32550 Stoney Craig |              |              |    24011 |          | New Church | VA            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a response with message
+      | AddressLine1       | City | StateProvince | Country.ISO | Status | Status.Code      | Status.Description | Confidence |
+      | 32550 Stoney Craig |      | VA            | USA         | F      | UnableToValidate | Address Not Found  |          0 |
+    And the address validation service returns a successful response with a validation key
+    Then the validation key should be same for these requests
+
+  @address_validation_10 @regression
+  Scenario: Return different validation key for different invalid addresses
+    Given the address validation service receives a valid address request
+      | addressLine1       | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city       | stateProvince | requestCountry |
+      | 32550 Stoney Craig |              |              |    24011 |          | New Church | VA            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a response with message
+      | AddressLine1       | City | StateProvince | Country.ISO | Status | Status.Code      | Status.Description | Confidence |
+      | 32550 Stoney Craig |      | VA            | USA         | F      | UnableToValidate | Address Not Found  |          0 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1   | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city    | stateProvince | requestCountry |
+      | 300 Santana RD |              |              |    23415 |          | San Jos | California    | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a response with message
+      | AddressLine1   | City | StateProvince | Country.ISO | Status | Status.Code      | Status.Description | Confidence |
+      | 300 Santana RD |      | VA            | USA         | F      | UnableToValidate | Address Not Found  |          0 |
+    And the address validation service returns a successful response with a validation key
+    Then the validation key should be different for these requests
+
+  @address_validation_11 @regression
+  Scenario: Return different validation key and confidence score for valid addresses with different addressLine2 inputs
+    Given the address validation service receives a valid address request
+      | addressLine1    | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city   | stateProvince | requestCountry |
+      | 4950 Louise Ave |              |              |    91316 |          | Encino | CA            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1    | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City   | StateProvinceCode | Country.ISO | Confidence |
+      | 4950 Louise Ave |              |              |           91316 |                  | Encino | CA                | USA         |        100 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1    | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city   | stateProvince | requestCountry |
+      | 4950 Louise Ave | apt 3106     |              |    91316 |          | Encino | CA            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1    | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City   | StateProvinceCode | Country.ISO | Confidence |
+      | 4950 Louise Ave | apt 3106     |              |           91316 |                  | Encino | CA                | USA         |         80 |
+    Then the validation key and confidence score should be different for these requests
+
+  @address_validation_12 @regression
+  Scenario: Return same validation key and confidence score for an address with only zipCode5 and having both with zipCode5,zipCode4
+    Given the address validation service receives a valid address request
+      | addressLine1   | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city     | stateProvince | requestCountry |
+      | 300 Santana Rd |              |              |    95128 |     2423 | San Jose | CA            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1   | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City     | StateProvinceCode | Country.ISO | Confidence |
+      | 300 Santana Rd |              |              |           95128 |             2423 | San Jose | CA                | USA         |        100 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1   | addressLine2 | addressLine3 | zipCode5 | zipCode4 | city     | stateProvince | requestCountry |
+      | 300 Santana Rd |              |              |    95128 |          | San Jose | CA            | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1   | AddressLine2 | AddressLine3 | PostalCode.Base | PostalCode.AddOn | City     | StateProvinceCode | Country.ISO | Confidence |
+      | 300 Santana Rd |              |              |           95128 |             2423 | San Jose | CA                | USA         |        100 |
+    Then the validation key and confidence score should be same for these requests
+
+  @address_validation_13 @regression
+  Scenario: Return same validation key and confidence score for international address which have at least city or postalCode
+    Given the address validation service receives a valid address request
+      | addressLine1    | city | stateProvince | internationalPostalCode | requestCountry |
+      | Viale Europa 22 | Roma | RM            |                   00144 | Italy          |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1    | AddressLine2 | AddressLine3 | PostalCode.Base | City | StateProvinceCode | Country.ISO | Confidence |
+      | Viale Europa 22 |              |              |           00144 | Rome | RM                | ITA         |        100 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1    | city | stateProvince | internationalPostalCode | requestCountry |
+      | Viale Europa 22 | Roma | RM            |                         | Italy          |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1    | AddressLine2 | AddressLine3 | PostalCode.Base | City | StateProvinceCode | Country.ISO | Confidence |
+      | Viale Europa 22 |              |              |           00144 | Rome | RM                | ITA         |        100 |
+    Then the validation key and confidence score should be same for these requests
+
+  @address_validation_14 @regression
+  Scenario: Return different validation key and confidence score for international addresses with city and postal code values wrong
+    Given the address validation service receives a valid address request
+      | addressLine1    | city | stateProvince | internationalPostalCode | requestCountry |
+      | Viale Europa 22 | Roma | RM            |                   00144 | Italy          |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1    | AddressLine2 | AddressLine3 | PostalCode.Base | City | StateProvinceCode | Country.ISO | Confidence |
+      | Viale Europa 22 |              |              |           00144 | Rome | RM                | ITA         |        100 |
+    And the address validation service returns a successful response with a validation key
+    And the address validation service receives another valid address request
+      | addressLine1    | city | stateProvince | internationalPostalCode | requestCountry |
+      | Viale Europa 22 |      | RM            |                   00146 | Italy          |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1    | AddressLine2 | AddressLine3 | PostalCode.Base | City | StateProvinceCode | Country.ISO | Confidence |
+      | Viale Europa 22 |              |              |           00144 | Rome | RM                | ITA         |         75 |
+    Then the validation key and confidence score should be different for these requests
+
+  @address_validation_15 @regression
+  Scenario: Return message code with messageText for nonPostalInput
+    Given the address validation service receives a valid address request
+      | addressLine1             | addressLine2  | addressLine3 | zipCode5 | zipCode4 | city       | stateProvince | requestCountry |
+      | {555 S Telshor Blvd} 300 | leave at door |              |    88011 |          | Las Cruces | New Mexico    | USA            |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1               | AddressLine2 | AddressLine3 | PostalCode.Base | City       | StateProvinceCode | Country.ISO | Confidence | AdditionalInputData.Base |
+      | 555 S Telshor Blvd Ste 300 |              |              |           88011 | Las Cruces | New Mexico        | USA         |         92 | leave at door            |
+    Then the service will return an "<addressLine1>", "<addressLine2>" and "<nonPostalOutput>"
+      | addressLine1               | addressLine2 | nonPostalOutput |
+      | 555 S Telshor Blvd Ste 300 |              | leave at door   |
+    And address validation service will return the message code "ADDR307"
+    And address validation service will return the message text "Vet360 Validation Failed: Additional Input found please review"
+
+  @address_validation_16 @regression
+  Scenario Outline: Return message code with key for different errors <ScenarioID>
+    Given the address validation service receives a valid address request
+      | addressLine1   | addressLine2   | addressLine3   | city   | zipCode5   | stateProvince   | requestCountry | internationalPostalCode |
+      | <addressLine1> | <addressLine2> | <addressLine3> | <city> | <zipCode5> | <stateProvince> | <country>      | <intPostalCode>         |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a response with message
+      | AddressLine1   | City   | StateProvince   | Country.ISO  | Status   | Status.Code   | Status.Description   | Confidence   |
+      | <addressLine1> | <city> | <stateProvince> | <countryISO> | <status> | <status.Code> | <status.Description> | <confidence> |
+    And address validation service will return the message code "<messageCode>"
+    And address validation service will return the messageKey "<message>"
+
+    Examples: 
+      | addressLine1        | addressLine2 | addressLine3 | zipCode5 | city         | stateProvince | intPostalCode | country       | countryISO | status | status.Code                | status.Description                                                              | confidence | messageCode | message                    | ScenarioID |
+      | Place d'Armes       |              |              |          | Versailles   |               | R43C+W4       | France        | FRA        | F      | AddressCouldNotBeCorrected | The Address could not be corrected                                              |          0 | ADDRVAL109  | AddressCouldNotBeCorrected |          1 |
+      | 1116 Yan'an W Rd    |              |              |          | Changning Qu |               |        200052 | China         | CHN        | F      | AddressGlobalEngineError   | Status code: 1502: Error: No valid unlock code for a database file Country: CHN |          0 | ADDRVAL110  | CountryNotSupported        |          2 |
+      | 5134 Carters Run rd | PO Box 34    |              |    20115 | Marshall     | VA            |               | United States | USA        | F      | Dual Address Error         | Street PostalCode.Base does not match POBox PostalCode.Base                     |         82 | ADDRVAL111  | DualAddressError           |          3 |
+      | 123 River Rd        |              |              |          | Oak Falls    | MD            |               | USA           | USA        | F      | UnableToValidate           | Address Not Found                                                               |          0 | ADDRVAL112  | AddressCouldNotBeFound     |          4 |
+
+  @address_validation_17 @regression
+  Scenario Outline: The service receives and processes a valid request and returns different addressType <ScenarioID>
+    Given the address validation service receives a valid address request
+      | addressLine1   | addressLine2   | addressLine3   | city   | stateProvince   | zipCode5   | requestCountry |
+      | <addressLine1> | <addressLine2> | <addressLine3> | <city> | <stateProvince> | <zipCode5> | <country>      |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1   | AddressLine2   | AddressLine3   | PostalCode.Base | PostalCode.AddOn | City   | StateProvinceCode | Country.ISO | Confidence   | PostalCode   | PostalCode.Type  |
+      | <addressLine1> | <addressLine2> | <addressLine3> | <zipCode5>      | <zipCode4>       | <city> | <stateProvince>   | <country>   | <confidence> | <postalCode> | <postalCodeType> |
+    Then address validation service will return an "<addressType>" value in the addressType field
+
+    Examples: 
+      | addressLine1         | addressLine2 | addressLine3 | zipCode5 | city       | stateProvince | country | addressType       | zipCode4 | confidence | postalCode | postalCodeType | ScenarioID |
+      | 1405 Westmoreland Dr |              |              |    29412 | Charleston | SC            | USA     | Domestic          |          |        100 | 29412-8160 |                |          1 |
+      | PSC 836 Box 302      |              |              |    09636 | FPO        | AE            | USA     | Overseas Military |          |         95 | 34002-9997 | M              |          2 |
+
+  #Introduced with epic: https://vajira.max.gov/browse/V360T3-33
+  @address_validation_18 @regression
+  Scenario Outline: Addresses with DPV of Y and S are considered valid correspondance addresses <ScenarioID>
+    Given the address validation service receives a valid address request
+      | addressLine1   | addressLine2   | addressLine3   | city   | stateProvince   | zipCode5   | requestCountry | addressPOU   |
+      | <addressLine1> | <addressLine2> | <addressLine3> | <city> | <stateProvince> | <zipCode5> | <country>      | <addressPOU> |
+    When the address validation service processes the request and sends it to spectrum
+    Then spectrum returns a valid response
+      | AddressLine1   | AddressLine2   | AddressLine3   | PostalCode.Base | PostalCode.AddOn | City   | StateProvinceCode | Country.ISO | Confidence   | PostalCode   | PostalCode.Type  | DPV   |
+      | <addressLine1> | <addressLine2> | <addressLine3> | <zipCode5>      | <zipCode4>       | <city> | <stateProvince>   | <country>   | <confidence> | <postalCode> | <postalCodeType> | <DPV> |
+    And address validation service will return the message code "<ErrorCode>"
+
+    Examples: 
+      | addressLine1         | addressLine2 | addressLine3 | zipCode5 | city       | stateProvince | country | addressType       | zipCode4 | confidence | postalCode | postalCodeType | DPV | ScenarioID | addressPOU       | ErrorCode |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | Y   |          1 | CORRESPONDENCE   |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | S   |          2 | CORRESPONDENCE   |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | D   |          3 | CORRESPONDENCE   | ADDR305   |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | M   |          4 | CORRESPONDENCE   | ADDR305   |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | N   |          5 | CORRESPONDENCE   | ADDR305   |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | U   |          6 | CORRESPONDENCE   | ADDR305   |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | V   |          7 | CORRESPONDENCE   | ADDR305   |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | Y   |          8 | RESIDENCE/CHOICE |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | S   |          9 | RESIDENCE/CHOICE |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | D   |         10 | RESIDENCE/CHOICE |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | M   |         11 | RESIDENCE/CHOICE |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | N   |         12 | RESIDENCE/CHOICE |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | U   |         13 | RESIDENCE/CHOICE |           |
+      | 123 Main St          |              |              |    12345 | Testville  | TS            | USA     | Domestic          |          |        100 | 29412-8160 |                | V   |         14 | RESIDENCE/CHOICE |           |

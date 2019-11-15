@@ -1,5 +1,5 @@
 
-_**WIP** - content is being moved from the [VSA eBenefits Team folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits)_
+_**WIP** - content is being moved from the [VSA eBenefits Team folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)_
 
 # Feature Outline: View My Rated Disabilities
 - GitHub Label: vsa-ebenefits
@@ -78,19 +78,24 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 
 # Implementation Info
 ## Status
-Currently in development, designs approved, moving towards staging.
+- **September - October 2019:** Currently in development, designs approved, moving towards staging.
+- **November 2019:** Finalizing TCDR, preparing for launch
+
 ## Solution Narrative
-- **October 8, 2019**: new design elements were introduced and were re-worked into the existing mockups and frontend
-- **October 2019**: Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
+- **October 8, 2019:** new design elements were introduced and were re-worked into the existing mockups and frontend
+- **October 2019:** Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
+- **November 2019:** TCDR needs .yml files then integration into API.  Preparing for launch.  Moving away from EVSS with next feature.
+
 
 ## How to Access and Test
 - Link: Unauthenticated: https://staging.va.gov/disability/check-disability-rating/
 - Link: Authenticated: https://staging.va.gov/disability/check-disability-rating/rating/
 - Password protection info:
 - User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
-  - User 228 has 5 ratings, 3 are SC
-  - User 10 has no ratings
-  - User 123 has 1 rating, SC
+- Test accounts (P: Zm9ydHkgdHdv)
+  - User: vets.gov.user+228@gmail.com (has 5 ratings, 3 are SC)
+  - User: vets.gov.user+10@gmail.com (has no ratings)
+  - User: vets.gov.user+123@gmail.com (has 1 rating, SC)
 
 ## Error Handling
 There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
@@ -134,4 +139,4 @@ eBenefits, rated disabilities
 ![Original Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/Rated_Disabilities_eBenefits_OLD.png)
 #### After  
 [Live mockups](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/?x_product=cc-slack%2F1.4.0)
-![New Rated Dsiabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/Rated-Disabilities-eBenefits-new.png)
+![New Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/rated-disabilities-final.JPG)

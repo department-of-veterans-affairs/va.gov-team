@@ -30,7 +30,7 @@ OK, now I am going to turn on the recording.
 
 2. Do you receive benefits from the VA? 
 - (If yes) May I ask which benefits?
-3. Since receiving benefits from the VA, have you ever had to update your mailing address? 
+3. Since receiving benefits from the VA, have you ever had to update your mailing address with the VA? 
 - (If yes) Can you tell me about this experience?
 4. Since receiving benefits from the VA, was there ever a time when you were not receiving mail you expected to receive from the VA? Did you ever find out why you weren't receiving this mail?
 - If yes, figure out if this was because they had the wrong address on file.
@@ -56,10 +56,9 @@ We are starting from the VA.gov homepage.
 2. Why do you think you are being told your address isn't valid? Why do you think you are seeing this screen?
 3. What do you think will happen if you click Edit Address?
 4. What do you think "Suggested Addresses" are? Where did they come from?
-5. Under "Suggested Addresses," why are some parts of the address highlighted blue?
-6. How would you select the address you want to move forward with?
+5. How would you select the address you want to move forward with?
 - What if you wanted to select the original address you entered?
-7. Now that you have selected your address, please show me how you would save it.
+6. Now that you have selected your address, please show me how you would save it.
 
 (*On Confirm screen*)
 
@@ -112,10 +111,8 @@ We are going to go through one more scenario. Like before, please go to update y
 (*On confirm screen*)
 
 1. Like before, the address you entered has came up as invalid, but this screen looks a little different than the rest. Can you tell me more about what you see and what's different than last time?
-2. Why do you think you can't choose the address you originally entered?
-3. What would you do if the address you entered was indeed correct but you were not able to save it?
-4. Tell me what you think your options are at this point.
-5. What would you do next?
+2. Tell me what you think your options are at this point.
+3. What would you do next?
 
 OK, please go to edit your address. (on Edit form) Click into any field to update the address, and show me how you would save it.
 

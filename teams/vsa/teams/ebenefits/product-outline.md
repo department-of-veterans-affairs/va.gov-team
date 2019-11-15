@@ -1,6 +1,6 @@
 __Please note: some links in this document point to the vets.gov-team repo.__
 
-[Migrating](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
+Migrating [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 
 # Product Outline: eBenefits
 - GitHub Label: vsa-ebenefits
@@ -22,7 +22,7 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
-- [Features](#features)
+- **Features**  
   - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)
   - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
 
@@ -126,6 +126,6 @@ eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
 
 ### Screenshots
 #### Before
-...
+![EBN](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/home-ebenefits.png)
 #### After
 ...

@@ -15,19 +15,20 @@ _Sprint purpose: To build familiarity with the current product so the team has t
    - Back-end architecture, including data sources and any transformations or mappings of those data.
 
 ### What was learned
-- We are still using vets-api
-- Known usability issues are divided between those which can be addressed beginning the next sprint and those which are related to map feature. Mapbox is due for an upgrade which is blocked by a pending price structure change. 
-
-**Performance bottlenecks**
-  - Kong
-  - Community Care query process (uses vets-api for middleman with PPMS)
-
-**Data hierachy**
--Class for each facility type with a field for type (type -> facility type -> classification)
-  - Example 1 VA_facility -> VA Health facility -> VAMC
-  - Example 2 VA_facility -> VA Health facility -> Multi-specialty CBOC
-- Data is essentially the same structure between vets API and Facility API
-- Community Care responses do not distinguish between POS 17 and POS 20 facilities (i.e urgent care and pharmacy), which is leading to different data between Facility Locator and the TriWest locator.
+- Although Facility API is available, the Faciliy Locator is still using Vets-api. 
+- There are a number of known usability and accessibility issues, many of which are related to the map feature. 
+- Performance bottlenecks are attributed to Kong and the Community Care query process (which uses vets-api for a middleman with PPMS)
+- A number of factors are negatively impacting data quality: 
+  - Display and handling by Facility Locator
+  - Inaccurate data sent via API
+  - Missing data sent by API
+  - Data organization, taxonomy and/or fields referenced
+- Data hierachy**
+  -Class for each facility type with a field for type (type -> facility type -> classification)
+   - Example 1 VA_facility -> VA Health facility -> VAMC
+   - Example 2 VA_facility -> VA Health facility -> Multi-specialty CBOC
+  - Data is essentially the same structure between vets API and Facility API
+  - Community Care responses do not distinguish between POS 17 and POS 20 facilities (i.e urgent care and pharmacy), which is leading to different data between Facility Locator and the TriWest locator.
   
 ### New questions
 - Where is Kong hosted and who controls that process?
@@ -35,13 +36,12 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 
 ### [Files and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/engineering)
 
-## Design Discovery (WIP)
+## Design Discovery
 **Goal:** To conduct a round of evaluative usability testing of the current Facility Locator tool in order to 
    - Understand bright spots and pain points 
    - Gain insights into how users expect the tool to work (e.g., search by facility name, search by services, search by task, etc.)
 
-### What was learned
-### New questions
+### [Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/user-research-findings.md)
 
 ### [Files and documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/user-research)
 
@@ -65,13 +65,14 @@ _Sprint purpose: To build familiarity with the current product so the team has t
 - Average page load time in current Facility Locator = 4.01 sec
 
 **[Data sources](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/data-sources) and [Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/taxonomy)**
-- We've defined the full list of facility locators to be evaluated for consolidation into the current Facility Locator tool. 
-- We've gained an understanding of the Health Services Taxonomy, organized under 5 major categories of care: Primary Care, Mental Health, Specialty Care, Social Programs and Other. 
-- We've leatrned the mapping for the VA Specialty/Service/Programs to 1) patient friendly language, which will be useful in determining how to display the services and 2) stop codes which will be useful in determining which locations provide the services.
+-The results of Discovery Sprints in October 2019 revealed the following
+- A full list of facility locators to be evaluated for consolidation into the current Facility Locator tool. 
+- The new Health Services Taxonomy will use 5 major categories of care: Primary Care, Mental Health, Specialty Care, Social Programs and Other and can be leveraged in future UX iterations. 
+- In addition, mapping associates VA Specialty/Service/Programs with 1) patient friendly language, which will be useful in determining how to display the services and 2) stop codes, which will be useful in determining which locations provide the services.
 - There are data discrepancies between facilities returned by searches in the legacy directory and current Facility Locator. 
 
 **Priorities**
-- Now that we've assumed responsibility for urgent and emergency care issues and enhanvcements, the work has become a top priority. 
+- Now that we've assumed responsibility for urgent and emergency care issues and enhancements, the work has become a top priority. 
 
 ### New questions
 - What is the acceptable data quality threshold for production?

@@ -16,16 +16,51 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 
 ### Product Portfolio:
 
-| **Products**               | **Metrics Suite**                                                                                          |
-|------------------------|--------------------------------------------------------------------------------------------------------|
-| "Product Health" Tool  | Google Analytics                                                                                       |
-| Google Tag Manager     | Foresee                                                                                                |
-| Google Analytics       | Call Centers - IRIS - National Call Center - Health Resource Center - WHVAH - Education Hotline - IRIS |
-| Foresee                | Social Studios                                                                                         |
-|                        | PA&I                                                                                                   |
+**Products**
+- "Product Health" Tool
+- Google Tag Manager
+- Google Analytics
+- ForeSee
+- VFS KPI Setting and Tracking Processes
+
+**Metrics Suite**
+- Google Analytics
+- ForeSee
+- Call Centers
+    - IRIS
+    - National Call Center
+    - Health Resource Center
+    - WHVAH
+    - Education Hotline
+- Social Studios
+- PA&I
+- Grafana*
 
 ### Responsibilities:
-Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.
+*Employ processes and tools that collect and share analytics on VA.gov - provide VFS teams data for product decision making.*
+
+- Define and maintain rules of engagement (ROE) for how VSP Analytics & Insights and VFS teams should collaborate
+- Keep analytics and call centers best practice documentation up to date
+- Be available in #vfs-platform-support to answer Analytics and Call Center related questions
+- Implement analytics on veteran-facing products
+    - Work with teams' product managers and front end developers to implement Google Tag Manager before launches
+    - QA Google Tag Manager for quality analytics before launches
+    - Work with teams' product managers and front end developers to implement ForeSee surveys before launches
+    - Work with teams to ensure call centers are prepared for launches
+- Support KPI Setting and Tracking across VFS and VSP teams
+    - Host KPI setting workshops with teams
+    - Check in quarterly with teams to support KPI tracking
+    - Document and track team KPIs, including baselines, goals, and results
+    - Determine additional KPI or metrics coaching or workshop opportunities
+- Maintain repository of relevant VFS data
+    - Determine success metrics for VFS products
+    - Document where success metrics live and how to obtain them
+    - Discover which success metrics are uncaptured
+        - Determine a process for how to wrangle uncaptured metrics (or document any blockers)
+- Deploy and maintain the "Product Health" tool
+    - Aggregate relevent data from across different channels
+    - Visualize product problems
+- Respond to one-off and recurring data reporting requests
 
 ### Roadmap:
 [Link to Github Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=analytics-insights,super-epic&repos=133843125)
@@ -35,8 +70,8 @@ Employ processes and tools that collect and share analytics on VA.gov - provide 
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: _Leah Bannon & Patrick Bateman_
-- Team Product Manager: _Joanne Esteban_
+- DSVA Product Leads: _Leah Bannon & Patrick Bateman_
+- Product Manager: _Joanne Esteban_
 - Insights Lead: _Nedie Recel_
 - Implementation Specialist: _Jon Wehausen_
 - Designer/UX Researcher: _Amy Cesal_
@@ -83,7 +118,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: _Analytics-Insights_
+- Labels: `Analytics-Insights`
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
@@ -110,3 +145,10 @@ GitHub is the single source of truth. Every body of work should be documented fo
 #### General things
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
 - Extra time? Explore the "Ready" column in ZenHub.
+
+#### Team Knowledge
+- Google Analytics 
+    - [Overview recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/resources-google-analytics-walkthrough.md)
+    - Access - ping us on Slack, #vfs-platform-support
+- [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf)
+- "Product Health Tool" TBD
