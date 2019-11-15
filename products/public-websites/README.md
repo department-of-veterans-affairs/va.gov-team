@@ -1,4 +1,4 @@
-# Product Outline: Public Websites
+# Product Outline: Public Websites - DRAFT
 - GitHub Label: vsa-public-websites
 - Slack channel: vsa-public-websites
 - VA.gov link: n/a
@@ -37,9 +37,9 @@
 ---
 
 # Executive Summary
-
+Developing with Jen Lee
 ## User Problem Statement
-As a 
+Developing with Jen Lee
 ## Solution Goals
 Provides Veterans, family members, caregivers, and service members access to vital information about VA benefits and services.
 ### User Goals
@@ -47,25 +47,24 @@ Content, navigation, and tools that provide users the easiest way to find and ac
 ### Business Goals
 Builds, maintains, and improves the public facing experience on VA.gov.
 ## Assumptions
-
+Developing with Jen Lee
 
 ## Requirements and Constraints
-Onboarding, access and domain knowledge has some upfront challenges.
+Developing with Jen Lee
 
 ## Discovery Takeaways
-The key to implementing what has been learned is 
-
+TBD
 ## Solution Approach
-Begin
+Developing with Jen Lee
 
 ## Value Propositions
-
+Developing with Jen Lee
 #### User Value
-Not having to dig and deal with any confusion as to where a benefit can be found.
-
+developing with Jen Lee
 #### Business Value
-
+Developing with Jen Lee
 ## KPIs
+
 ---
 
 # Implementation Info
@@ -76,8 +75,7 @@ Not having to dig and deal with any confusion as to where a benefit can be found
 - **October 2019**: ...
 
 ## How to Access and Test
-- Link: Access 
-- Password protection info:
+- Link: 
 ## Error Handling
 ## Service Level Objective
 ## API Calls and Dependent Systems
@@ -93,12 +91,12 @@ Not having to dig and deal with any confusion as to where a benefit can be found
 - ATO documentation
 
 ## Keywords
-eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
+TBD
 
 ## Team
 - DSVA Product Manager: Jennifer Lee
 - Team Product Manager: Kara Kemahli
-- Content 
+- Content Team- to be added 
 - UX Designer: Liz Lantz
 - Designer/Reseearcher: Ryan Thurwell
 - Lead Front-end Engineer: Nick Sullivan
