@@ -127,7 +127,7 @@ Today, we are going to be asking for your feedback about how to get more informa
 * How well were you able to remember what it said when the additional information appeared?
 * How do you feel about that additional information?
 	* How did it affect your understanding of the question?
-   * (Screen readers) On a scale from 1 - 10, where 10 is the easiest and 1 is the hardest, how would you rank getting more information about that question?
+   * (Screen readers) On a scale from 1 - 10, where 10 is the hardest and 1 is the easiest, how would you rank getting more information about that question?
 
       
 ### Learn more pattern in an option for the answer:
@@ -150,7 +150,7 @@ Next, I’m going to ask you to scan the 2nd question and without making any sel
 * How do you feel about that additional information?
 	* How did it affect your understanding of the choices for this question?
 	* How did it affect which answer you selected?
-      * (Screen readers) On a scale from 1 - 10, where 10 is the easiest and 1 is the hardest, how would you rank getting more information about that answer?
+      * (Screen readers) On a scale from 1 - 10, where 10 is the hardest and 1 is the easiest, how would you rank getting more information about that answer?
 
 ### Learn more pattern in a tooltip:
 Next, I’m going to ask you to scroll a little farther down the page until you get to a label that says “Javascript tooltip.” Please read the question underneath and without making any selections, describe what it’s asking. 
@@ -173,7 +173,7 @@ Next, I’m going to ask you to scroll a little farther down the page until you 
 	* How did it affect your understanding of the question?
 	* How did it affect the answer you typed?
 
-   * (Screen readers) On a scale from 1 - 10, where 10 is the easiest and 1 is the hardest, how would you rank getting more information about that question?
+   * (Screen readers) On a scale from 1 - 10, where 10 is the hardest and 1 is the easiest, how would you rank getting more information about that question?
   
 ### Things to watch for:
 * Can Veterans use screen readers to successfully read the learn more sections?
