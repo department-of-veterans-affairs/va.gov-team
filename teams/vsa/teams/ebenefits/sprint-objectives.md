@@ -13,7 +13,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ## Sprint 8 (11/6 - 11/19)
 ```diff 
-- 49 points over 16 issues
+- 51 points over 19 issues
 ```
 ### 1. Prepare "View My Rated Disabilities" to be code complete
 - Obtain, test and implement TCDR endpoint
