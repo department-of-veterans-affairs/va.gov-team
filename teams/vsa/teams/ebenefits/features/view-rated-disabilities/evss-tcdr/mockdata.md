@@ -1,5 +1,3 @@
-_Per Charley Stran_
-
 # Mock Data
 
 For APIs or services that invoke a backend VA data source, where possible we attempt to record and use mock data for local development and our development environment. We do this for several reasons:
