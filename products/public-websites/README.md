@@ -47,29 +47,25 @@ Content, navigation, and tools that provide users the easiest way to find and ac
 ### Business Goals
 Builds, maintains, and improves the public facing experience on VA.gov.
 ## Assumptions
-There 
+
 
 ## Requirements and Constraints
 Onboarding, access and domain knowledge has some upfront challenges.
 
 ## Discovery Takeaways
-The key to implementing what has been learned is at least two-fold: stay organized and communicate as much as possible.  Notes are useless if they cannot be easily access and talking things through with your team allows for shared understanding, team cohesion and improved culture. 
+The key to implementing what has been learned is 
 
 ## Solution Approach
 Begin
 
 ## Value Propositions
-Probably the largest is the placement of resources closer to the user and their anticiapted increased usage.
 
 #### User Value
 Not having to dig and deal with any confusion as to where a benefit can be found.
 
 #### Business Value
-Money spent on programs at the VA will be better utilized.
 
 ## KPIs
-Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.
-
 ---
 
 # Implementation Info
@@ -111,6 +107,6 @@ eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
 
 ### Screenshots
 #### Before
-![EBN](https://)
+[EBN](https://)
 #### After
 ...
