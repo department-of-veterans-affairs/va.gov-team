@@ -1,7 +1,7 @@
 # October 2019 Discovery Sprints
 The purpose of these discovery sprints is to get the team familiar with the current product Medical Device Tool so they have the best information possible to plan the next version of the product.
 
-## Design [3182] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/3182)
+## Design [3182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3182)
 **Goal:** Gain a better understanding of how the ordering process currently works. Identify stakeholders' pain points on both the business and users' ends. Consolidate findings into presentation to instigate direction from stakeholders and inform future discovery sprint(s)
 
 **Outcome:** A research readout with findings and recommendations.
