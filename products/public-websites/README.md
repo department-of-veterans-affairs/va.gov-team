@@ -75,23 +75,15 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 # Implementation Info
 
 ## Status
-In progress
-
 ## Solution Narrative
 - **September 2019**: ...
 - **October 2019**: ...
 
 ## How to Access and Test
-- Link: Access PINT2: https://pint.ebenefits.va.gov/ebenefits-portal/pint2 OR https://pint.ebenefits.va.gov/ (if you need to try both, you'll need to have a new session open with a cleared cache to enter the other site.
+- Link: Access 
 - Password protection info:
-- User authentication info: Update passwords both [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/ds%20logon/ds-logon-lower-env-test-accounts.md) and [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
-
 ## Error Handling
-...
-
 ## Service Level Objective
-...
-
 ## API Calls and Dependent Systems
 ...
 
@@ -108,13 +100,14 @@ In progress
 eBenefits, rated disabilities, dependents, 21-686c, 686c, 686
 
 ## Team
-- DSVA Product Manager: ...
-- Team Product Manager: ...
-- VA Call Center Partner(s): TBD
-- UX Designer: Aricka Lewis
-- Designer/Reseearcher: ...
-- Front-end Engineer: ...
-- Back-end Engineer: ...
+- DSVA Product Manager: Jennifer Lee
+- Team Product Manager: Kara Kemahli
+- Content 
+- UX Designer: Liz Lantz
+- Designer/Reseearcher: Ryan Thurwell
+- Lead Front-end Engineer: Nick Sullivan
+
+
 
 ### Screenshots
 #### Before
