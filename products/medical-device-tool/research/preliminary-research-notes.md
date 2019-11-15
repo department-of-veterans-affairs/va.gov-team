@@ -30,13 +30,46 @@ Call the Denver Acquisition & Logistics Center (DALC) at 303-273-6200
 * **To speak with an operator:** select 0.
 
 #### Via eBenefits
-On the eBenefits platform, Veterans with Premium accounts appear to be able to _reorder_ medical devices through an embedded iframe by selecting from a list of previously-ordered items.
-
+* On the eBenefits platform, Veterans with Premium accounts appear to be able to _reorder_ medical devices through an embedded iframe by selecting from a list of previously-ordered items.
 
 #### Via Remote Order Entry System (ROES)
-The primary user base of ROES appears to be VA Healthcare providers like audiologists and prosthetics specialists, who fill out the singular Online Commodity Order Form. Veterans can access ROES directly as well. 
+* The primary user base of ROES appears to be VA Healthcare providers like audiologists and prosthetics specialists, who fill out the singular Online Commodity Order Form. Veterans can access ROES directly as well. 
 
 #### Via MyHealtheVet
-Premium users of MyHealtheVet are able to request batteries and socks from their VA healthcare providers via secure messaging.
+* Premium users of MyHealtheVet are able to request batteries and socks from their VA healthcare providers via secure messaging. [Source](https://www.myhealth.va.gov/mhv-portal-web/ss20190521-hearing-loss)
 
 #### Via their VA healthcare providers
+* Veterans are always able to work with their VA healthcare providers in order to obtain medical devices and accessories. We hypothesize that VA healthcare providers utilize the ROES system to create orders on behalf of their patients.
+
+
+## Denver Logistics Center (DLC) / Denver Acquisition & Logistics Center (DALC):
+DALC distributes hearing aids, accessories and batteries; prosthetic socks; aids for the visually impaired; and orthopedic items to their homes as well as providing them with hearing aid repair service.
+
+### Customers Include:
+- Veterans
+- VA’s Audiology & Speech Pathology Service
+- Prosthetic & Sensory Aids Service
+- Blind Rehabilitation Service
+- Other VA Services & Government Agencies
+
+### Products Include:
+- Hearing aids and accessories -  hearing aid repairs are also available. 
+  - Accessories page includes note: “Please Note: You CANNOT order batteries through the My HealtheVet Web site”
+- Batteries - Batteries predominantly used in hearing aids provided to veterans, although several battery types are available that may also be used in other battery powered devices such as artificial larynxes, assistive listening devices, and neuromuscular stimulators.
+- Prosthetic Items, Socks (Catalogue)- more than 500 prosthetic socks, and orthotic softgoods. For treatment and management of acute and chronic disabilities of the spine or abdomen, a variety of orthopedic corsets, belts, abdominal binders and supports are available.
+- Aids for the Visually Impaired such as rigid and folding mobility canes and adjustable-length support canes; braille pocket watches, wrist watches, and clocks; talking wrist watches and alarm clocks, wrist watches and clocks with highly contrasting faces; braille writers, and AM/FM/TV audio receivers.
+
+### Point of Contact: 	
+Email: DALC.CSS@va.gov
+Direct: 
+
+### Resources:
+- https://iris.custhelp.va.gov/app/answers/detail/a_id/1309/~/what-is-the-denver-acquisition-%26-logistics-center-%28dalc%29%3F 
+- https://www.prosthetics.va.gov/psas/Hearing_Aids.asp 
+- https://www.prosthetics.va.gov/
+
+## Fulfillment
+
+## Forms
+- [Form 2345](https://www.va.gov/opal/docs/nac/dlc/VAform2345.pdf)
+- Form 2346 (unavailable online)
