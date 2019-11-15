@@ -23,7 +23,7 @@ Resources for schools is a one-stop shop for School Certifying Officials (SCOs) 
 
 [See past announcements…](https://www.benefits.va.gov/gibill/news.asp)  
 
-{If no announcements are available, display "No new announcements are available at this time." in addition to "See past updates..." link}
+{If no announcements are available, display "No new announcements are available at this time." in addition to "See past announcements..." link}
 
 
 ## Training and guides {H2} 
