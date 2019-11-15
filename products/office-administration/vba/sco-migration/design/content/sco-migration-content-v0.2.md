@@ -99,7 +99,9 @@ November 4–6, 2019—Stillwater, OK**
 **[VBA Education Service 1st Quarterly Webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
 December 19 & 20, 2019—Online** 
 
-See full list of [Conferences and events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp) 
+See full list of [Conferences and events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)   
+
+{If no events are available, display "No new events are available at this time." in addition to "Conferences and events" and "Training webinars" links.}  
 
 
 ## Policies and procedures {H2}   
