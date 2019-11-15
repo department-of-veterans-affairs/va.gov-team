@@ -104,7 +104,7 @@ Today, we are going to be asking for your feedback about how to get more informa
 * Is the modal implementation useful for helping the user answer the question?
 
 
-## Second Task: Test the accordion pattern in Codepen pattern in Codepen - 10 minutes
+## Second Task: Test the accordion pattern in Codepen - 10 minutes
 * Back in the email that Shannon sent, please click on the second link: https://codepen.io/tpierce_402/full/PoYVKKa
   * What we’re going to look at next is a prototype of two other ways to get more information while filling out an online form. 
   * For sighted users: This page doesn’t look like the rest of VA.gov yet, and we are trying things out just to make sure they work correctly. We ask that you put any biases about the visuals away and pay close attention to the way the learn more button behaves. 
@@ -184,12 +184,6 @@ Next, I’m going to ask you to scroll a little farther down the page until you 
 * Do people have trouble remembering the content of the tooltip when answering the question?
 
 *You can now stop sharing your screen*
-
-
-
-
-
-
 
 Okay that wraps up the items we wanted to get your feedback on today. Do you have any questions or additional thoughts about the things we evaluated?
 
