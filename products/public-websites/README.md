@@ -3,11 +3,12 @@
 - Slack channel: vsa-public-websites
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Jennifer.Lee PO (...) & Jason Wolf (jason-gcio)
+- Product Owner: Jennifer Lee, (jennifer.lee27@va.gov)
+- Product Manager:  Kara Kemahli, (kara@adhocteam.us)
 
 ---
 
-### Table of Contents
+### Table of Contents  
 
 # Executive Summary 
 - [User Problem Statement](#user-problem-statement)
