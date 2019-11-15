@@ -39,10 +39,10 @@
 # Executive Summary
 
 ## User Problem Statement
-As a Veteran, I want to find, and apply for, as many benefits available to me so that I can leverage more of the VA's resources.
+As a.
 
 ## Solution Goals
-Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from ... to the VA.gov central location.
+Provide Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
 
 ### User Goals
 With resources better presented to the user, they should be able to find and apply to more benefits with better efficacy.
