@@ -28,7 +28,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Schedule usability study on Dependents (Conversation Guide, Research Plan, Perigean, etc)
 - Design: establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
 - Eng: Investigate errors that are currently in staging for Dependents
-- Eng: Technical discovery on state of existing BGS endpoints, begin plan for requesting BGS service updates  
+- Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates  
   - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393  
   - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976  
 
