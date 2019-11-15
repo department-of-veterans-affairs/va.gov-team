@@ -19,7 +19,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 - [ ] Initial functional specs complete and in GH
 - [ ] Product Outline filled out in GH
 - [ ] Discovery readout presentation complete and in GH
-- [ ] Charter circulated and in GH
 
 ## Important Links & Deliverables
 - [Discovery Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-project-brief.md)
@@ -27,5 +26,6 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 - Stakeholder Meeting Notes
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
 - User Research Conversation Guide
+- User Interview Notes
+- Synthesis Artifacts
 - Discovery Readout Presentation
-- Charter
