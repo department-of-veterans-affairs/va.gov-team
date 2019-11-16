@@ -6,7 +6,7 @@ The Admins for the VSP Analytics-Insights Team are Joanne Esteban, Nedie Recel, 
 
 ### Resources for Google Analytics
 
-We want to help you measure the success of the products you are building for veterans and their families. We highly encourage engagement with the VSP Analytics-Insights team throughout the lifecycle of your product. These resources are intended to guide your interactions with the VSP Analytics-Insights team. 
+We want to help you measure the success of the products you are building for veterans and their families. We highly encourage engagement with the VSP Analytics-Insights team throughout the lifecycle of your product. 
 
 #### Getting Started
 
