@@ -1,43 +1,37 @@
-## Organization
+## Welcome to Google Analytics
 
 VA.gov uses the paid tier for Google Analytics, called Google Analytics 360 or GA 360. The premium versions offers a higher tier of data collection and more customizable traits that we can use to measure success. 
 
-At the organization level, the Admins are Joanne Esteban, Nedie Recel, and Jon Wehausen. 
+The Admins for the VSP Analytics-Insights Team are Joanne Esteban, Nedie Recel, and Jon Wehausen. 
 
-## Analytics
+### Resources for Google Analytics
 
-Google Analytics is the reporting platform where we can see activity across VA.gov. Access levels for analytics are defined at https://support.google.com/analytics/answer/2884495
+We want to help you measure the success of the products you are building for veterans and their families. We highly encourage engagement with the VSP Analytics-Insights team throughout the lifecycle of your product. These resources are intended to guide your interactions with the VSP Analytics-Insights team. 
 
-- Manage Users: Can add and remove users; VSP Analytics-Insights and GA 360 Vendor Lead have this level
+#### Getting Started
 
-- Edit: Can change data filters, add or remove goals
+After your onboarding, please check out these resources:
 
-- Collaborate: Can add annotations, share report settings
+1. [Google Analytics Opt-Out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/opting-out-google-analytics.md)
 
-- Read & Analyze: Can review data without changing any settings
+2. [GA360 Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/ga360-platform.md)
 
-## Tag Manager
+3. [Navigating Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-walkthrough.md)
 
-Google Tag Manager is a tool where analytics users can control what is sent to Google Analytics. It is implemented by a JavaScript snippet across all pages of VA.gov. The Analytics-Insights team collaborates with front-end engineers to create a set of requirements for dataLayer events that communicate this data via Google Tag Manager and ultimately to Google Analytics. 
+4. [Google Analytics Walkthrough Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-walkthrough.md)
 
-Access levels are defined at https://support.google.com/tagmanager/answer/6107011?visit_id=0-636354017749065382-3063370558&rd=1
+#### Measuring Content, User Interactions, and  Key Veteran Transactions
 
-### Accounts:
+1. [Rules of Engagement - Analytics Implementation Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-analytics-implementation-qa.md)
 
-Tag Manager has two types of accounts:
+2. [Rules of Engagement - Requesting Analytics Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-request-review.md)
 
-- Admins: VSP Analytics-Insights Team
+3. Implementing Google Analytics Tracking - Coming Soon
 
-- Users: All other va.gov team members on a case-by-case basis
+#### Tracking Success in Google Analytics
 
-Any GTM admin can approve access for va.gov team member with a demonstrated need. See below for approved container-level permissions based on role.
+1. [Understanding Goal Conversions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-success-in-analytics.md)
 
-### Container Permissions:
 
-VA.gov will be using a single container with the following permission structure:
-
-- Publish: VSP Analytics-Insights (Nedie Recel and Jon Wehausen)
-
-- Approve: All other va.gov team members
 
 
