@@ -8,17 +8,17 @@ At the organization level, the Admins are Joanne Esteban, Nedie Recel, and Jon W
 
 Google Analytics is the reporting platform where we can see activity across VA.gov. Access levels for analytics are defined at https://support.google.com/analytics/answer/2884495
 
-- Manage Users: VSP Analytics-Insights and GA 360 Vendor Lead
+- Manage Users: Can add and remove users; VSP Analytics-Insights and GA 360 Vendor Lead have this level
 
-- Edit: When applicable
+- Edit: Can change data filters, add or remove goals
 
-- Collaborate: When applicable
+- Collaborate: Can add annotations, share report settings
 
-- Read & Analyze: Default access provided to all VFS teams
+- Read & Analyze: Can review data without changing any settings
 
 ## Tag Manager
 
-Google Tag Manager is a tag management system that is a single code block by which user interactions are sent to Google Analytics. The Analytics-Insights team collaborates with front-end engineers to create a set of requirements for dataLayer events that communicate this data back to Google Analytics. 
+Google Tag Manager is a tool where analytics users can control what is sent to Google Analytics. It is implemented by a JavaScript snippet across all pages of VA.gov. The Analytics-Insights team collaborates with front-end engineers to create a set of requirements for dataLayer events that communicate this data via Google Tag Manager and ultimately to Google Analytics. 
 
 Access levels are defined at https://support.google.com/tagmanager/answer/6107011?visit_id=0-636354017749065382-3063370558&rd=1
 
@@ -40,5 +40,4 @@ VA.gov will be using a single container with the following permission structure:
 
 - Approve: All other va.gov team members
 
-Any non-va.gov team members provided an exception for access will be given Read-level access to the container.
 
