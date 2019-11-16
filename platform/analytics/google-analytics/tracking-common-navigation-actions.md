@@ -1,7 +1,7 @@
-## Tracking Common User Interactions
+## Tracking Common Navigation Interactions
 As you begin building your product, you may have questions about what types of interactions are already tracked and what might need to be customized for your product. The VSP Analytics-Insights team looks for ways to ensure very common user interactions are tracked globally. 
 
-This resource outlines common site interactions that should not require further customization by your product team. 
+This resource outlines common site interactions that should not require further customization by your product team. More specific product requests should be made using the Analytics-Insights Review process.
 
 _Audience for this Resource_: Product Owners and Engineers
 
@@ -21,7 +21,7 @@ Many basic Interactions are tracked within Google Analytics. Common elements tha
 
 | User's Activity | Google Analytics Event Category | Google Analytics Event Action |
 | --- | --- | --- |
-| Downloading a PDF, Spreadsheet or Image File | Interactions | Event Action begins with "PDF Downloaded - ", "Spreadsheet Downloaded - ", or "Image Downloaded" | 
+| Downloading a PDF, Spreadsheet, or Image File | Interactions | Event Action begins with "PDF Downloaded - ", "Spreadsheet Downloaded - ", or "Image Downloaded" | 
 | Clicks to Non-va.gov links, including email addresses, phone numbers, and other external sites | Interactions | Event Action begins with "Outbound Link Clicked - " |
 | Signing onto the Modernized tools | Sign-on | Login - vagovprod | 
 
