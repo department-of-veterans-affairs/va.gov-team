@@ -8,13 +8,16 @@
 
 #### Defining Goals
 1. What is a goal in Google Analytics?
-A goal is a user transaction on VA.gov--like a form completion or saving a profile section--that is defined as success for your product(s). These can be defined when a user reaches a distinct URL or completes a key event. 
+
+- A goal is a user transaction on VA.gov--like a form completion or saving a profile section--that is defined as success for your product(s). These can be defined when a user reaches a distinct URL or completes a key event. 
 
 1. What is an event in Google Analytics?
-An event is an interaction that can be tracked independently from a pageview (or a screenview in an app). 
+
+- An event is an interaction that can be tracked independently from a pageview (or a screenview in an app). 
 
 1. What is a funnel in Google Analytics?
-A funnel is a series of URLs that lead up to a goal completion, like the steps in an application before the confirmation page.
+
+- A funnel is a series of URLs that lead up to a goal completion, like the steps in an application before the confirmation page.
 
 #### Implementing Goals
 
