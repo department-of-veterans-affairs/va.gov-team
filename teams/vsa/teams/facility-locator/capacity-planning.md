@@ -6,7 +6,7 @@
     - Thanksgiving Day: November 28 (GCIO, VA, Ad Hoc)
 ### Additional out of office
     - Michelle: November 29
-    - Aricka: November 27-29
+    - Aricka: November 22, 27-29
 
 
 ## December 2019
