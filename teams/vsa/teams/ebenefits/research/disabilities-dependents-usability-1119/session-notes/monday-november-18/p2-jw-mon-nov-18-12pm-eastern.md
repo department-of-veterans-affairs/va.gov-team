@@ -30,7 +30,7 @@ Participant 2 is a retired 100% disabled vet that is unemployable.
 - talking through the walkthrough with no visual  
 - EBN RD: manage benefits and view disabilities  
 - sees login clearly  
--  What do see on this page?  
+-  Can you describe this page?  
   - see TCDR as well as individual where they are service-connected and not  
 - feels more descriptive than old page   
 - what does service-connected mean?  
