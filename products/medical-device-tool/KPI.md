@@ -1,19 +1,19 @@
-# KPI Pre-Workshop Planning
+# KPI Medical Device Tool
 
 ### Product Line
-_For example, Platform, Global UX, etc._
 
-- [Fill out here]
+
+- Benefits and Memorial 2, eBenefits
 
 ### North Star
 
-- [Fill out here]
+- Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
 
 ### Product
-_For example, Health Care Application (10-10EZ), Disablitiy Compensation Application (21-526EZ), etc._
 
-- [Fill out here]
+
+- Medical Device Tool, Form 2345, Form 2346
 
 ### High Level Objectives
 _What are the objectives within your product line that your product plays into?_
