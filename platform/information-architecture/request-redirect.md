@@ -4,7 +4,7 @@ If you have a URL (or multiple URLs) that need to be redirected, please request 
 
 All redirects will be routed through Content and IA team for validation and then assigned to the appropriate technical team for implementation. 
 
-**Redirects must be requested *at least* 2 weeks in advance to ensure they are properly vetted and an implementation approach can be identified. However, some redirects may take longer than 2 weeks to implement, so it is highly encouraged that requests are submitted as soon as you are aware that you will need one.**
+**Redirects must be requested *at least* 2 weeks in advance to ensure they are properly vetted and an implementation approach can be identified. However, some redirects may take longer to implement (weeks to months), so it is highly encouraged that requests are submitted as soon as you are aware that you will need one.**
 
 1. Create an issue using the standard issue template
 
