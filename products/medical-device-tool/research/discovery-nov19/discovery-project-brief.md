@@ -105,6 +105,7 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
 
 ### Timeline
 See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/sample-discovery-sprint-schedule.md).
+[Road Map] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map.PNG)
 
 * Are there any hard and fast deadlines for completing the discovery work?
 * When will the following take place?
