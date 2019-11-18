@@ -19,7 +19,7 @@ We found six high-level trends regarding Veteran objective when using the tool a
 
 5. **There is a need to see some location information at a higher level.** Though the location specific pages proved helpful when preparing for a visit, Veterans call a location when they have questions or need help. For that reason, partipants mentioned that showing the service(s) they chose and facility phone numbers on the search results list would prove beneficial. 
 
-6. **Separate workflows and acccess to location information creates confusion when trying to find a VA location.** Veterans have a general understanding of the difference between Urgent and Emergency care, but could not differentiate which facilities provided those services. Participants were able to identify VA health facilities and cemeteries because of the iconography on the map, but could not differenciate any other location types based on the iconography. One participant mentioned that a "key" would be helpful so they could more clearly recognize the icons and what they meant.
+6. **Separate workflows and acccess to location information creates confusion when trying to find a VA location.** Veterans have a general understanding of the difference between Urgent and Emergency care, but could not differentiate which facilities provided those services. Participants were able to identify VA health facilities and cemeteries because of the iconography on the map, but could not differenciate any other location types (benefits, community care) based on iconography. One participant mentioned that a "key" would be helpful so they could more clearly recognize the icons and what they meant.
 
 ## Recommendations
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
@@ -39,6 +39,10 @@ The following are recommendations to consider during the redesign of the Facilit
   - Services and doctors
   - Helpful information for caregivers
 - Move New and Exisisting Patient Wait Times up on the detail page
+- Idea | Could the Facility Locator tool be a three step form that asks:
+  - User location
+  - Location type seeking
+  - Service(s) needed
 
 
 ## Additional Research
@@ -81,7 +85,7 @@ There was a research study conducted around Community Care in May 2019. It can b
   - Additional biographical information
 - 5 of 5 participants expect to find the provider’s phone number listed along with the name and address.
 
-### Teams/Products Impacted
+### VA.gov Impact
 This is a living document of features that overlap with the facility locator: TBD.
 
 - Homepage (four white boxes) 
