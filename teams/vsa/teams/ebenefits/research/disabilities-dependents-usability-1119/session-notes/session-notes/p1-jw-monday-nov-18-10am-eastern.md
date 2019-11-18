@@ -1,5 +1,5 @@
-**Monday November 18, 2019**
-Session 1 - 10 am ET
+### Monday November 18, 2019
+**Session 1 - 10 am ET**
 
 Intro - feel free to cancel the meeting at any time
 P1 is disabled, with multiple deployments, got hurt in Kurdistan (sp?) came back and had more surgery.  About 28 miles from Erie VA.
