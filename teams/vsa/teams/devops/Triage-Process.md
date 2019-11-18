@@ -47,7 +47,7 @@ VSA Tier 3 support would be contacted in the event the VSP Tier 1 team cannot re
 
 | Product Team | SME | Email | Phone |
 | --- | --- | --- | --- |
-| Global UX | Nick Sullivan | nick.sullivan@adhocteam.us| (859) 496-5292  |
+| Public Websites | Nick Sullivan | nick.sullivan@adhocteam.us| (859) 496-5292  |
 | Authenticated Experience | Erik Hansen | erik@adhocteam.us| (415) 845-2279  |
 | Benefits and Memorials 1 | Silvio Luthi | silvio@adhocteam.us | (503) 516-0588  |
 | eBenefits | Kathleen Crawford | kcrawford@governmentcio.com | (267) 738-7227 |
