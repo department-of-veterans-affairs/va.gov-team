@@ -1,4 +1,4 @@
-# Facility Locator Discovery Research Findings WIP
+# Facility Locator Discovery Research Findings
 November 2019
 
 ## Methodology
@@ -108,3 +108,4 @@ There were topics we could not cover during this intial discovery session. The f
 - [Session Schedule & Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/usability-sessions.md)
 - [Session Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/user-research)
 - [Research Synthesis Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1571674307087/5ff1f8637b8293b23a14aa6a29ddf53b5a867685)
+- [Research Synthesis PDF]
