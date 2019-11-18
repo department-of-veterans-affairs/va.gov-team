@@ -17,15 +17,18 @@
 * Sketch file has `h1-h6` available in Bitter, and a Source Sans Pro variation for `h4-h6`; multiple sizes available for `h1` 
 * The hub pages display an "On This Page" block using at `h3` heading immediately after the `h1` and intro text.
 * Many spoke pages display a featured content box immediately after the `h1` and intro text.
+* Sometimes `h3` heading elements are linked (e.g. in a list at the bottom of a content page)
 #### Issues with current
 * Inconsistency between Sketch file, documentation site, and va.gov
 * Using the `on this page` and `featured content` blocks on the hub and spoke pages are creating an invalid heading order.
 * Utility classes are being used on a one-off manner 
 * Sketch library file has two sizes `h1` headings but doesn't differentiate between mobile + desktop, so it seems to have 2 competing options
 * va.gov has different size headings for mobile + desktop but sizes are not specified in design system documentation, nor included Sketch file (e.g. Sketch file has only one size for `h2`)
+* Linked heading elements are only underlined on focus or hover, which leaves some room for ambiguity as to whether or not it is a link.
 ### Proposed
 * Consider heading stacks for different page types (e.g. content, tool, etc); if this is not appropriate, optimize heading stack to work across all page types
 * Explore different element types/ mark up structures for components that are currently interrupting heading hierarchy
+* Give those linked heading elements an underline
 
 ## Authenticated / Tool Stack
 ### Current
