@@ -1,1 +1,1 @@
-[Grey Sky Design PNG](https://drive.google.com/drive/folders/1PCFIkdvz6ptFENxrcw59x23OQ1VdWEH_)
+[Grey Sky Design PNG](https://drive.google.com/a/adhocteam.us/file/d/1lyOo6VD4dJc2s2q7L1uOGxn8qI1C-PGE/view?usp=sharing)
