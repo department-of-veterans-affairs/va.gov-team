@@ -91,14 +91,15 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 
 #### Team Norms
 
-- Be respectful, both online and off
-- Show your face (Webcam) at meetings / calls
-- Speak up! - everyone’s voice matters
-- Overcommunication is key — set your Slack status or let folks know when you're busy or offline
+- Don't be a jerk 
+- Assume best intentions
+- Keep each other in the loop and look out for each other (on our own work and that of other teams)
+- Be on webcam on meetings whenever possible
 - Escalate the medium, not the tone
-
-- We are flexible, but intentional in the way we work
-- Let’s have fun and do great work!
+- Be respectful of each other's time — start and end meetings on time, schedule meetings strategically, and come prepared
+- Recognize incremental and unseen accomplishments as valuable
+- Overcommunication is key — set your Slack status or let folks know when you're busy or offline
+- Speak up! - everyone’s voice matters
 
 #### Slack:
 
