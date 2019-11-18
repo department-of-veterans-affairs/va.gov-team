@@ -15,6 +15,8 @@ Millions of Veterans depend upon the VA for disability-related medical devices a
 - ...reduce the effort of re-ordering hearing aid batteries and prosthetic socks for Veterans?
 - ...increase visibility of orders after they are placed?
 - ...ensure that Veterans do not go without the assistive devices and accessories they need?
+- ...utilize data we already have to improve benefit utilization?
+- ...reduce strain on the DLC call center?
 
 ### What Sprint Teams Are Associated with this Discovery? 
 Benefits & Memorials 2
@@ -64,6 +66,7 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
 #### What don't we know?
   - What are the pain points Veterans are experiencing in this process?
   - Why do Veterans opt for the ordering method that they do?
+  - What are the constraints in data we get from the DLC API? 
 
 #### Are any of the above assumptions that need to be verified?
   - [1] Why are Veterans unable or unwilling to utilize eBenefits?
@@ -94,6 +97,10 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
 
 #### Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
   - Stakeholders initiated on short notice may be difficult to interface with within the sprint.
+
+#### What discovery artifacts will be produced from this sprint?
+  - User journey(s)
+  - A presentation of findings with suggestion(s) for identified areas of improvement
 
 
 ### Timeline
