@@ -7,7 +7,7 @@ This is the future location of the research notes in [this PDF](https://github.c
 * Emailing order request to DALC at dalc.css@va.gov
 * Calling DALC at (303)273-6300
 * Completing the request form(s) in [eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=hearing-aid-batteries-and-prosthetic-socks) (log in required)
-* Completing the 'Commodity Order Form' in ROES [(Remote Order Entry System)](https://www.va.gov/eauth/roes/) (log in required)
+* Completing the 'Commodity Order Form' in ROES [(Remote Order Entry System)](https://www.va.gov/eauth/roes/) (VHA providers only, log in required)
 * Requesting device(s) via secure messaging on [My HealtheVet](https://www.myhealth.va.gov/mhv-portal-web/home) (premium users only)
 * Requesting device(s) through their VA Healthcare Provider
 
