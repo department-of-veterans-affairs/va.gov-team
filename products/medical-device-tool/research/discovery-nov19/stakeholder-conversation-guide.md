@@ -63,7 +63,7 @@ _Share screen and show Prosthetic Socks form._
 
 Now, I’m going to show you the Batteries form. There is one form for electronic orders and another for mailed orders. I will show you both forms side-by-side.
 
-_Show Batteries form (TBD)._
+_Show Batteries form (Design team has file)._
 
 - Do you recognize either form?
 - Which form is submitted more often?
