@@ -22,29 +22,30 @@ Benefits & Memorials 2
 ### Discovery Sprint Roles
 See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
-* Product Lead: Matt Self
-* Discovery Sprint Lead: 
-* Engineer: Amen Ra (FE), 
+* Product Lead: Matt Self, Nick Wygonik
+* Discovery Sprint Lead: Nick Wygonik
+* Engineer: Amen Ra (FE), Mahariel Rosario (FE), Joseph Brothers (BE)
 * Designer: Riley Orr, Rebecca Walsh
 * Researcher: Riley Orr, Rebecca Walsh
 * Other people from the Sprint Team:
-* SME:
+* SME: TBD
 
 ### Stakeholders
-* VA business owner: Matt Self, 
-* Stakeholders who will be involved or interviewed:
-
+* VA business owner: Matt Self
+* Stakeholders who will be involved or interviewed: DLC IT & Customer Service Leadership
 
 ## DISCOVERY PLANNING
-- [x] Set up product folder in GitHub
-- [ ] Create launch checklist
-- [x] Create Product Outline
-- [ ] Define problem, assumed user and business goals, and other assumptions (Product Outline)
-- [ ] Determine POCs, stakeholders, and implementation team (Product Outline)
-- [ ] Determine Discovery methods needed
-- [ ] Determine user research methods needed
-- [ ] Determine what APIs and/or systems to investigate
+- [x] Set up product folder in GitHub ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool))
+- [x] Create launch checklist ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/launch-checklist.md))
+- [x] Create Product Outline ([Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md))
+  - [ ] Define problem, assumed user and business goals, and other assumptions (Product Outline)
+  - [ ] Determine POCs, stakeholders, and implementation team (Product Outline)
+- [x] Create Discovery Sprint Brief
+  - [x] Determine Discovery methods needed
+  - [x] Determine user research methods needed
+  - [x] Determine what APIs and/or systems to investigate
 - [ ] Recruit for stakeholder research
+- [ ] Create user research plan & conversation guide
 - [ ] Recruit for user research
 - [ ] Determine ideal Discovery outputs and artifacts
 
@@ -58,16 +59,29 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
   - Items ordered through mail, phone, or email are cross-referenced with the Veteran's profile for eligibility.
   - Veterans often need assistance with determining which resupply items are needed.
   - The eBenefits platform is currently underutilized in Q4 2019 (~4%) while mail-in form (~49%), live phone agents (~19%), and automated phone agents (~25%) experienced higher utilization. Email (~2%) was the least utilized.
+    - [1] A stakeholder noted that inability to use DS Logon is the reason the eBenefits avenue is underutilized. 
 * What don't we know?
-  - ...
+  - What are the pain points Veterans are experiencing in this process?
+  - Why do Veterans opt for the ordering method that they do?
 * Are any of the above assumptions that need to be verified?
-  - ...
-* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
+  - [1] Why are Veterans unable or unwilling to utilize eBenefits?
+* How are we going to find out answers? 
+  - Stakeholder Interviews:
+    - [x] A introduction call with the DLC IT Leadership
+    - [ ] An kickoff call with the greater DLC stakeholder group
+    - [ ] A stakeholder interview with DLC Customer Service leadership
+    - [ ] A stakeholder interview with DLC IT leadership
+  - User Interviews:
+    - [ ] Request an interview with 6 hearing aid users and 6 prosthetic limb users to source a minimum of 6 total interviews.
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
+  - Users will benefit from us solving this problem by 
 * Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
 * What secondary research should we do (google, facebook, internal documents)?
+  - Some secondary research has been completed prior to this discovery sprint ([Link to documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/preliminary-research-notes.md))
 * Are there any intentional project constraints (things we're intentionally deeming out of scope)?
+  - TBD
 * Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
+  - Stakeholders initiated on short notice may be difficult to interface with within the sprint.
 
 
 ### Timeline
