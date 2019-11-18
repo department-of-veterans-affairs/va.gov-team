@@ -32,11 +32,11 @@ Participant 2 is a retired 100% disabled vet that is unemployable.
 - sees login clearly  
 - Can you describe this page?  
   - see TCDR as well as individual where they are service-connected and not  
-- feels more descriptive than old page   
+  - feels more descriptive than old page   
 - what does service-connected mean?  
   - service connected: happened while on active duty or if its a secondary to the first (while on duty)
-- beside it says. "how did I get this rating" and takes me to a YT video
-- that is what I expected from the link
+  - beside it says. "how did I get this rating" and takes me to a YT video
+  - that is what I expected from the link
 - what could make this better for you?
   - it tells me everything I need to know without bouncing around
 - what on the page tells you about the accuracy of the info?
