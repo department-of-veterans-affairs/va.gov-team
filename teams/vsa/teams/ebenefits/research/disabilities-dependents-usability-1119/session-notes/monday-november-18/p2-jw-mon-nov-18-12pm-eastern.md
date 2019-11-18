@@ -26,13 +26,15 @@ Participant 2 is a retired 100% disabled vet that is unemployable.
 - recently rated at 100% so I don't check much anymore
 
 ### Participant Screen Sharing
-- on an iPad,  screen may have froze
-- talking through the walkthrough with no visual
-- EBN RD: manage benefits and view disabilities
-- sees login clearly
-- see TCDR as well as individual where they are service-connected and not
-- feels more descriptive than old page
-- service connected: happend while on active duty or if its a secondary to the first (while on duty)
+- on an iPad,  screen may have froze  
+- talking through the walkthrough with no visual  
+- EBN RD: manage benefits and view disabilities  
+- sees login clearly  
+-  What do see on this page?  
+  - see TCDR as well as individual where they are service-connected and not  
+- feels more descriptive than old page   
+- what does service-connected mean?  
+  - service connected: happened while on active duty or if its a secondary to the first (while on duty)
 - beside it says. "how did I get this rating" and takes me to a YT video
 - that is what I expected from the link
 - what could make this better for you?
@@ -62,7 +64,6 @@ Participant 2 is a retired 100% disabled vet that is unemployable.
   - read the paragraph about on-award vs not, so now I know
 - open to follow up?
   - yes
-
 - Thanks very much, looks like we are at time.
   - sorry for babbling
 - No worries, we really apprecaite it.  Thank you so much and have a great rest of your day
