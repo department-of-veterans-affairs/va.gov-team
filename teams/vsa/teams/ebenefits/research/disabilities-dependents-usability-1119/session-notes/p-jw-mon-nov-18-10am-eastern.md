@@ -13,7 +13,7 @@ P1 shares screen in Internet Explorer, zooms in slightly on our XD mockup
 Moderator: Asks "how would you get your disability rating now?"  
 Participant: paper records mostly  
 M: Assume you look online, get to this page, "what do you think this page is for?"  
-M: View your disability rating after sign in. Side nav indicates more management options.    
+P: View your disability rating (after sign in). Side nav indicates more management options.    
 M: do you know what premium access means?  
 P: greater access  
 M: where would you login?  
