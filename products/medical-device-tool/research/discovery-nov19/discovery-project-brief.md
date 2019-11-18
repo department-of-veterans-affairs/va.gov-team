@@ -51,7 +51,7 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
 
 ### Project Details
 
-* What do we know?
+#### What do we know?
   - There are 5 major ways a Veteran can order resupply items: via phone, mail, email, eBenefits resupply applet, or VHA provider.
   - All DLC orders go through ROES, either by VHA provider, call-center agent, or veteran input in the eBenefits applet.
   - Customer eligibility is determined by a VHA provider placing an initial product order. 
@@ -60,12 +60,15 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
   - Veterans often need assistance with determining which resupply items are needed.
   - The eBenefits platform is currently underutilized in Q4 2019 (~4%) while mail-in form (~49%), live phone agents (~19%), and automated phone agents (~25%) experienced higher utilization. Email (~2%) was the least utilized.
     - [1] A stakeholder noted that inability to use DS Logon is the reason the eBenefits avenue is underutilized. 
-* What don't we know?
+
+#### What don't we know?
   - What are the pain points Veterans are experiencing in this process?
   - Why do Veterans opt for the ordering method that they do?
-* Are any of the above assumptions that need to be verified?
+
+#### Are any of the above assumptions that need to be verified?
   - [1] Why are Veterans unable or unwilling to utilize eBenefits?
-* How are we going to find out answers? 
+
+#### How are we going to find out answers? 
   - Stakeholder Interviews:
     - [x] A introduction call with the DLC IT Leadership
     - [ ] An kickoff call with the greater DLC stakeholder group
@@ -73,14 +76,23 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
     - [ ] A stakeholder interview with DLC IT leadership
   - User Interviews:
     - [ ] Request an interview with 6 hearing aid users and 6 prosthetic limb users to source a minimum of 6 total interviews.
-* What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
+
+#### What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
   - Users will benefit from us solving this problem by 
-* Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
-* What secondary research should we do (google, facebook, internal documents)?
+
+#### Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
+  - DLC IT Leadership
+  - DLC IT Engineers
+  - DLC Customer Service Leadership
+  - DLC Customer Service Representative
+  
+#### What secondary research should we do (google, facebook, internal documents)?
   - Some secondary research has been completed prior to this discovery sprint ([Link to documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/preliminary-research-notes.md))
-* Are there any intentional project constraints (things we're intentionally deeming out of scope)?
+
+#### Are there any intentional project constraints (things we're intentionally deeming out of scope)?
   - TBD
-* Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
+
+#### Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
   - Stakeholders initiated on short notice may be difficult to interface with within the sprint.
 
 
