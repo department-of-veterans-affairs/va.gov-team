@@ -27,3 +27,11 @@ provider. VA must authorize care that is needed beyond the scope of the first au
 **Performance**
 - There are a few fields that do not get returned in the first call to PPMS, such as phone number, address and services. In order to get that information, a second call is made for every result they get up to 20. The second call gets the additional information and adds it to the record before returning it to the front end.
 
+**Provider data elements for Facility Locator**
+- Providers in Community Care need three data elements: 
+  - provider (who)
+  - their specialty (what)
+  - care site (where) to be available to the Facility Locator
+
+![Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/PPMS%203Ws.pdf)
+
