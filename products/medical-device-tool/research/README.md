@@ -9,7 +9,7 @@ This research was conducted to help clarify the current state of the problem spa
 
 - [Preliminary Findings Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/MDO_Preliminary_Research%20Notes_11-5.pdf)
 - [Disabilities Research: Hearing Aids](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/hearing-aids-research.md)
-- [Disabilities Research: Prosthetic Limbs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/prosthetic-socks-research.md)
+- [Disabilities Research: Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/prosthetic-socks-research.md)
 - [DLC Stakeholder Introduction & Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md)
 - Preliminary Technical Research
 
