@@ -3,7 +3,7 @@
 This is the future location of the research notes in [this PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/MDO_Preliminary_Research%20Notes_11-5.pdf).
 
 ## How to Order Device(s)
-* Mailing [Form 2345](https://www.va.gov/opal/docs/nac/dlc/VAform2345.pdf) (Prosthetic Socks) or [Form 2346]() (Hearing Aid Batteries) to DALC
+* Mailing [Form 2345](https://www.va.gov/opal/docs/nac/dlc/VAform2345.pdf) (Prosthetic Socks) or [Form 2346] (Hearing Aid Batteries) to DALC
 * Emailing order request to DALC at dalc.css@va.gov
 * Calling DALC at (303)273-6300
 * Completing the request form(s) in [eBenefits](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=hearing-aid-batteries-and-prosthetic-socks) (log in required)
