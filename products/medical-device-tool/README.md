@@ -14,6 +14,7 @@
 
 ## Important Links
 - [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
+- [Launch Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/launch-checklist.md)
 - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
 
 
