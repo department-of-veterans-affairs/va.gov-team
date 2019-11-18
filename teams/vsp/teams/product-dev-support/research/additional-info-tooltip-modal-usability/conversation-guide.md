@@ -29,15 +29,17 @@ Also, any opinions and personal information that you share today will not be tie
 - **Are you using a computer or mobile phone during our session today?** Mac or Windows? iOS or Android?
 	- If mobile for not just audio: Are you able to switch to a laptop or desktop computer?
 	- If no: We have to end the session.
+- **What browser are you using today?**
+- **Are you using a screenreader today?**
+    - If yes:
+    - **What screen reader are you using today?**
+    - For how many years have you used this screenreader?
+    - For how many years have you used a screenreader in general?
+    - Do you regularly use your screenreader to navigate the internet?
+    - Can you describe how you navigate a computer/the internet?
 - **Do you have the latest version of Zoom (4.5.5) installed?** Check under Zoom > About.
 - **Are you wearing headphones today?** If so, would it be possible for you to take them off and use your computer or mobile audio? I'm asking so that I can hear your screen reader during the session.
 - **Would you mind setting your screen reader to its default speed?** We want to accurately hear and record what you’re experiencing on VA.gov. 
-- **What browser are you using today?**
-- **What screen reader are you using today?**
-For how many years have you used this screenreader?
-For how many years have you used a screenreader in general?
-Do you regularly use your screenreader to navigate the internet?
-Can you describe how you navigate a computer/the internet?
 - **Are you using a screen magnifier today?**
 - **Do you know your screen reader's verbosity setting?** High, medium, low? 
 
