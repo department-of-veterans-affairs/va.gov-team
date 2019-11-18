@@ -5,6 +5,6 @@ The VSA team is committed to provide the best service available so our Veterans 
 
 VSA will accomplish this by integrating their resources to the current VSP Triage and DevOps process therefore reducing the cost by reusing the current set process and enhancing the collaboration between VSP and VSA.
 
-Triage Process: /TRIAGE%20AND%20ON-CALL%20PROCESS "Google's Homepage"
+Triage Process: ../TRIAGE%20AND%20ON-CALL%20PROCESS "Google's Homepage"
 
 
