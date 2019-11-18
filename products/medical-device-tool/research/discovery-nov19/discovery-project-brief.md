@@ -13,9 +13,10 @@ Millions of Veterans depend upon the VA for disability-related medical devices a
 
 #### How Might We...
 - ...reduce the effort of re-ordering hearing aid batteries and prosthetic socks for Veterans?
-- ...increase visibility of orders after they are placed?
+- ...increase usage of the online ordering method?
 - ...ensure that Veterans do not go without the assistive devices and accessories they need?
 - ...utilize data we already have to improve benefit utilization?
+- ...increase visibility of orders after they are placed?
 - ...reduce strain on the DLC call center?
 
 ### What Sprint Teams Are Associated with this Discovery? 
@@ -24,7 +25,7 @@ Benefits & Memorials 2
 ### Discovery Sprint Roles
 See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
-* Product Lead: Matt Self, Nick Wygonik
+* Product Lead: Matt Self
 * Discovery Sprint Lead: Nick Wygonik
 * Engineer: Amen Ra (FE), Mahariel Rosario (FE), Joseph Brothers (BE)
 * Designer: Riley Orr, Rebecca Walsh
@@ -101,7 +102,6 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
 #### What discovery artifacts will be produced from this sprint?
   - User journey(s)
   - A presentation of findings with suggestion(s) for identified areas of improvement
-
 
 ### Timeline
 See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/sample-discovery-sprint-schedule.md).
