@@ -10,6 +10,7 @@ This research was conducted to help clarify the current state of the problem spa
 - [Preliminary Findings Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/MDO_Preliminary_Research%20Notes_11-5.pdf)
 - Disabilities Research: Hearing Aids
 - Disabilities Research: Prosthetic Limbs
+- [DLC Stakeholder Introduction & Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md)
 
 ## Discovery Sprint, November 2019
 _Timeline: Nov 20 - ?_
