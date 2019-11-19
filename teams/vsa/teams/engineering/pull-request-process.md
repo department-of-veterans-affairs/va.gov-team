@@ -78,6 +78,10 @@ _You will need your browser configured to access the vetsgov-internal domain via
 
 _A Jenkins job will run periodically and remove review instances for which the source branches no longer exist. To ensure that your instance is cleaned up appropriately, just delete the branch from the origin repository._
 
+## Post Pull Request Checklist
+   - [ ] Make sure there is at least an Issue attached to the Pull Request
+   - [ ] Make sure that all the items in the Definition of Done section have been completed 
+
 ## Peer review and merge
 
 *   Get at least one **pull request approval** from a peer
