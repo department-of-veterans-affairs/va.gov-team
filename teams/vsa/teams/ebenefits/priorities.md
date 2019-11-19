@@ -25,7 +25,7 @@
 | Form | Apply for Specially Adapted Housing Grant | (Form 26-4555) I can apply for Specially Adapted Housing benefits. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
 | Form | Vocational Rehabilitation Benefits & Counseling | (Forms 1900 and 8832) I can apply for VR&E benefits. |
 | Status | View Ancillary Benefits | I can view the status of various ancillary and other benefits. |
-| Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. |
+| Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. (Needs discovery to determine feasibility.) |
 
 ### Theoretically Completed Work (Check Deltas)
 
