@@ -14,6 +14,7 @@
 
 ## Important Links
 - [**Product Outline**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
+- [Launch Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/launch-checklist.md)
 - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
 
 
@@ -25,6 +26,8 @@
 - Eng Lead: Joe Costa
 - Engineers: Amen Ra, Joseph Brothers
 - Designers: Rebecca Walsh, Riley Orr
+
+[Team Github Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
    
 ## Screenshots
 

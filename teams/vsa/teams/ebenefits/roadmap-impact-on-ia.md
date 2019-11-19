@@ -27,6 +27,7 @@ Note: "Profile" below refers to the centralized Authenticated Experience place, 
 ### Order Medical Devices
 - EBN location: `/ebenefits/OrderMedicalEquip`
 - Working IA theory: Unique page under the "My Health Hub"
+- Note that this work is under BAM-2 at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2
 
 ### STRETCH: View My Documents (eFolder)
 - EBN location: `/ebenefits/disabilities`
