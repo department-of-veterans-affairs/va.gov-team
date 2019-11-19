@@ -1,7 +1,9 @@
-# Review
+# Pull Request Process
 
 ## Submit pull request
 
+This VSA Process is currently a subset of the base-process defined by VSF and found here [Submit pull request](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/review/)
+   
 *   **Pull master** and **push feature branch** to `vets-website` repository
 
     git pull origin master
@@ -12,9 +14,11 @@ _Always **pull master** into your feature branch before creating a pull request.
 *   **Create a pull request** indicating that your code is ready for review.
 *   **Request peer review** on Github by tagging a fellow team member who you feel is qualified to review the code (this prevents the pull request from just sitting). You may also want to tag developers on other teams if the changes cover more than one application.
 
-_Depending on the type of work done, you may need a product person to review and / or a developer to review. See [Code Review Norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Code%20Review%20Norms.md) for more information on how we do code reviews._
+_Depending on the type of work done, you may need a product person to review and / or a developer to review. See [Code Review Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a33e322c34798b6bbd863eeceb888c0420114c2c/platform/engineering/code_review_guidelines.md) for more information on how we do code reviews._
 
 *   Use Zenhub to **connect** pull request with a **linked issue**
+>This is extremely important and all VSA PR's without exception need to have a corresponding **linked issue**
+
 
 _If you use the Zenhub Chrome [extension](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd), there will be a "Connect this pull request with an existing issue" section at the bottom of Github's create pull request UI. You can click the "Connect with an issue" button to link the PR to the original issue in Zenhub._
 
