@@ -1,8 +1,11 @@
 # Pull Request Process
 
-## Submit pull request
-
 This VSA Process is currently a subset of the base-process defined by VSF and found here [Submit pull request](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/workflow/review/)
+   
+   ## Pre Pull Request Checklist
+   - [ ] Make sure there is an Issue for your Pull Request
+   - [ ] If this is a new product make sure that the [VSA QA process](../qa/vsa-qa-process.md) have been completed 
+   
    
 *   **Pull master** and **push feature branch** to `vets-website` repository
 
