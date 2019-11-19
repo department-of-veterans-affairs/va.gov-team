@@ -40,7 +40,7 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 - Veterans:
   - Order **hearing aid batteries** or **prosthetic socks** from the VA
 
-- Audiologists:
+- VHA Providers:
 
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
 
