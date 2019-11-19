@@ -23,7 +23,7 @@
 - MVP of documentation site is va.gov-team repository: https://github.com/department-of-veterans-affairs/va.gov-team
 
 ### Overview
-The documentation site is the single source of truth for team, product, and platform information required by teams building veteran-facing services on the platform. 
+The documentation site is the single source of truth for team, product, and platform information required by teams building veteran-facing services on VA.gov. 
 
 ### User Problem Statement 
 _“As a team member building on VA.gov or the VA.gov platform, I need to be able to find on my own and access crucial information about the platform and the product I’m building, so that I can efficiently build and support great veteran-facing services.”_
