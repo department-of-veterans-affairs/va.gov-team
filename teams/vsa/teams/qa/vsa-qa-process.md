@@ -2,9 +2,9 @@
 
 \[Based on [template process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/QA_Testing_Matrix_Template.xlsx) by VSP Product Support team Sr. QA Specialist Peter Hill]
 
-This VSA-QA Process is currently a subset of the base-process as defined by VSP Product Support, and will grow over time to include more from this base as staffing expands.
+This VSA-QA Process is currently a subset of the base-process as defined by VSP Product Support.
 
-##Process Flow
+## Process Flow
 
 The required steps of the VSA-QA Process are as follows:
 
