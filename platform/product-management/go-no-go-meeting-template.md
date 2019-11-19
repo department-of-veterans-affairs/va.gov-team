@@ -1,7 +1,7 @@
 # `Product Name` Go / No Go 
 ## `Date`
 
-## Decision: `Launch / Pause / Pivot`
+## Decision: `Continue launch / Pause / Pivot`
 
 ---
 
