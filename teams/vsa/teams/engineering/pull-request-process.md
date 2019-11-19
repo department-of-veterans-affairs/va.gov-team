@@ -31,7 +31,7 @@ _If you use the Zenhub Chrome [extension](https://chrome.google.com/webstore/det
 
 <span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:699px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:17.024320457796854%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/4faf58036ea7db547dd9a3340a594242/8d69c/test-results.png "PR deployment list")](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/4faf58036ea7db547dd9a3340a594242/8d69c/test-results.png)</span>
 
-_See [Run Tests](/veteran-facing-services-tools/getting-started/common-tasks/test) to run these tests locally_
+_See [Run Tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/test) to run these tests locally_
 
 ## Manually test change
 
@@ -58,7 +58,7 @@ _**The person making the change is responsible** for ensuring the change is adeq
 
 After a pull request is created, **Jenkins** will automatically **rebuild** these instances when feature branch **changes are pushed**
 
-_You will need your browser configured to access the vetsgov-internal domain via the SOCKS proxy. Please see the [2\. Access internal tools](/veteran-facing-services-tools/getting-started/internal-tools) for detailed instructions._
+_You will need your browser configured to access the vetsgov-internal domain via the SOCKS proxy. Please see the [2\. Access internal tools](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/internal-tools) for detailed instructions._
 
 ### Review instance manual creation
 
