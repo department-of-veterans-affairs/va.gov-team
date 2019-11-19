@@ -40,14 +40,14 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Continue Combine Profile & Account
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-### (CURRENT) Sprint 7 (10/23 - 11/5)
+### Sprint 7 (10/23 - 11/5)
 * Launch Direct Deposit (10/30) 
 * Continue Address Validation & Override work
 * Continue Bad Address Indicator work 
 * Continue Combine Profile & Account
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-### Sprint 8 (11/6 - 11/19)
+### (CURRENT) Sprint 8 (11/6 - 11/19)
 * Direct Deposit
      * Remove "Add" functionality (#2883) if not already done
      * There is some dependency to creating the designs for ID.me &  DS Logon (#2884) whatever that dependency is let's do it this sprint.
@@ -63,11 +63,22 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
      * Clear the "Validate" swimlane by the end of the sprint
 
 ### Sprint 9 (11/20 - 12/3)
-* Launch of Address Validation & Override and move to monitor mode
-* Continue Bad Address Indicator work 
-* Continue Combine Profile & Account
-* Continue Beta Program
+* Direct Deposit
+   * Add "add direct deposit" functionality and and new associated analytics.  Track/measure error rates as input to next steps and actions. (#3504)
+   * Finalize designs for ID.me & DS Logon and determine what sprint 10 work will need to be (#2884 and #1798)
+   * If needed, re-open call center guide and apply additional updates (#2901)
+   * Improve DD error analytics (#3573)
+* Address Validation & Override
+   * Identify and communication a new target launch date
+   * Complete user testing, summarize outcomes, determine next steps if any (#3280)
+   * Complete Error Code Matrix (#3116)
+   * Review and updates product outline
+   * Identify what work remains for #1129 and get it over the finish line
+* Continue Bad Address Indicator work (focus on APO/AFO/ work only)
+   * Complete design recommendations for APO/AFO and develop tickets for sprint 10 FE/BE work (#1135 and/or #3023 and/or #2198)
+   * Build out FE/BE work for sprint 10, based on the approved designs.  Results in a lot of tickets and a target launch date.
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
+   
 
 ### Sprint 10 (12/4 - 12/17)
 * Continue Bad Address Indicator
