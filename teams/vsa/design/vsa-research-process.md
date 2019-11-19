@@ -8,6 +8,7 @@ Questions? Contact Shawna Hein (shawna@adhocteam.us).
 - [Taking Notes](#taking-notes)
 - [Recording Sessions](#recording)
 - [Running Sessions](#running-sessions)
+- [Mobile Testing](#mobile-testing)
 - [Synthesis](#synthesis)
 - [Other Resources](#resources)
 
@@ -68,6 +69,11 @@ You should run a pilot/test session before your study. This session should be do
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/howto-observer-instructions.md)
    * At the end of your session, take a look at the feedback backchannel and see if anyone brought up questions that you can address with your participant
 
+## <a id="mobile-testing"></a>Mobile Testing
+Many veterans use mobile devices, and we highly encourage testing your designs on mobile as well as desktop.
+* Users can install Zoom on their phones or use the "laptop hugging method"
+* Perigeon can recruit users for you and test on mobile, but you should meet with Perigeon folks prior to sessions to make sure eveyone understands the process and that Perigeon knows how to coach users. 
+* Be prepared to walk through the setup with a veteran if they are on the session and you're moderating and they still haven't figured out mobile testing
 
 ## <a id="synthesis"></a>Synthesis
 Note that we expect synthesis to take about a week or “6 business days.”  If you think you need more time, talk to Shawna.  
