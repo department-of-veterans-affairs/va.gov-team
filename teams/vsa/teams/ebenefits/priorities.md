@@ -12,7 +12,7 @@
 | Status | View Representative/ POA | View my current representative/ POA. |
 | Form | Add or Update Representative/ POA | (Form 21-22) I can search for a VSO, attorney, or agent, and add that person to my profile. |
 | Status | View Payment History | View my VA payments (for all integrated systems). |
-| Login | User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
+| Platform | Support User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
 | Status | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
 | Discovery | Document SEP Features | Develop exhaustive documentation for SEP features and roles, and develop roadmap for transforming those services to va.gov. |
 
