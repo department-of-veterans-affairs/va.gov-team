@@ -26,7 +26,6 @@
 | Form | Vocational Rehabilitation Benefits & Counseling | (Form 1900) I can apply for VR&E benefits. |
 | Status | View Ancillary Benefits | I can view the status of various ancillary and other benefits. |
 | Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. |
-| Status | Servicemembers' Group Life Insurance (SGLI) | I can find out how much personal and family coverage my SGLI policy provides. |
 
 ### Theoretically Completed Work (Check Deltas)
 
@@ -38,3 +37,4 @@
 | Status | View Open Applications |Users can see any VDC applications that they have started and not yet submitted. **(WIP)**  |
 | Status | Exam Appointments Calendar | Users are able to view upcoming VHA medical appointments. (Note: VBA benefit exams are not yet included. They cannot schedule any type of appointment.) |
 | Form | Order Medical Devices | I can order hearing aids, prosthetic socks, and other devices through the DALC. **Currently in progress in [BaM-2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)** |
+| Status | Servicemembers' Group Life Insurance (SGLI) | I can find out how much personal and family coverage my SGLI policy provides. **Not migratable, links to Milconnect.** |
