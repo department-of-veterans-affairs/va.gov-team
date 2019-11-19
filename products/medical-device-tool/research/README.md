@@ -11,7 +11,11 @@ This research was conducted to help clarify the current state of the problem spa
 - [Disabilities Research: Hearing Aids](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/hearing-aids-research.md)
 - [Disabilities Research: Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/prosthetic-socks-research.md)
 - [DLC Stakeholder Introduction & Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md)
+- [Design Team Presentation]()
 - Preliminary Technical Research
+  - [ERD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/ERD.png)
+  - [Web Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
+  - [API Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/api%20diagram.pdf)
 
 ## Discovery Sprint, November 2019
 _Timeline: Nov 20 - ?_
