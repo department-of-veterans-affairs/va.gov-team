@@ -78,4 +78,4 @@ _A Jenkins job will run periodically and remove review instances for which the s
 *   [Squash your commits](https://github.blog/2016-04-01-squash-your-commits/) and **merge** into **master**
 *   **Delete** pull request branch
 
-_See our team's [code review norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Code%20Review%20Norms.md) for details on how code review work and what needs to be checked._
+_See our team's [code review norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a33e322c34798b6bbd863eeceb888c0420114c2c/platform/engineering/code_review_guidelines.md) for details on how code review work and what needs to be checked._
