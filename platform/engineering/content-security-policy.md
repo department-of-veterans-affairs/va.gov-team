@@ -54,6 +54,6 @@ This is an overview of the third party managed scripts allowed to run on Va.gov.
 |[YouTube](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/1c9fbe5f9291dbc9d425bca5fb8dbe5274a486aa/Products/Education/GIBCT/readme.md)|Embedded video used on "Know Before You Go" video on GI Bill Comparison Tool.|
 
 ## Related info 
-- [script csp](https://csp.withgoogle.com/docs/strict-csp.html)
+- [Strict csp](https://csp.withgoogle.com/docs/strict-csp.html)
 - [CSP directives](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy)
 - [Locking down your website scripts with csp hashes, nonces, and report-uri](https://www.troyhunt.com/locking-down-your-website-scripts-with-csp-hashes-nonces-and-report-uri/)
