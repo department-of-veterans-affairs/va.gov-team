@@ -7,8 +7,8 @@
 
 |Name|Role|Slack|
 |----|----|-----|
-|Patrick Bateman | DSVA Lead| @Patrick |
-|Leah Bannon | DSVA lead| @Leah|
+|Patrick Bateman | DEPO Lead| @Patrick |
+|Leah Bannon | DEPO lead| @Leah|
 |Megan Kelley | VSP Content & IA Product Manager| @Megan Kelley|
 |Matt Johnson | VSP Content & IA Information Architect | @Matt Johnson|
 |Mikki Northuis | VSP Content & IA Information Architect |@Mikki|
