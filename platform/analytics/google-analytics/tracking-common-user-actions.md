@@ -32,4 +32,4 @@ If you do not see an element on the list, please reach out to the Analytics-Insi
 
 | Element | dataLayer | Google Analytics Event Category | Google Analytics Event Action |
 | --- | --- | --- |--- |
-| Accordion | dataLayer.push({'event': 'nav-accordion-collapse|expand'});| Interactions | Navigation - Accordion - Expand (or Collapse) | 
+| Accordion | dataLayer.push({'event':'nav-accordion-collapse|expand'});| Interactions | Navigation - Accordion - Expand (or Collapse) | 
