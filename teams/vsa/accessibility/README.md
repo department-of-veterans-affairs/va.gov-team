@@ -14,7 +14,7 @@ In this folder, you'll find information specific to how 508 Accessibility works 
 - Jennifer Strickland, @Jennifer_S in Slack, @jenstrickland in Github
 
 ### Table of contents
-The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #[slack-channel] Slack channel or your VSA POC directly.
+The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #[dsva.slack.com](https://dsva.slack.com) channel or your VSA POC directly.
 
 
 * [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
