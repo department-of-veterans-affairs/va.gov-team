@@ -71,7 +71,7 @@ You should run a pilot/test session before your study. This session should be do
 
 ## <a id="mobile-testing"></a>Mobile Testing
 Many veterans use mobile devices, and we highly encourage testing your designs on mobile as well as desktop.
-* Users can install Zoom on their phones or use the "laptop hugging method"
+* Users can install Zoom on their phones or use the ["laptop hugging method"](https://slack-files.com/T03FECE8V-FQAC0QXJN-2904594b3e)
 * Perigeon can recruit users for you and test on mobile, but you should meet with Perigeon folks prior to sessions to make sure eveyone understands the process and that Perigeon knows how to coach users. 
 * Be prepared to walk through the setup with a veteran if they are on the session and you're moderating and they still haven't figured out mobile testing
 
