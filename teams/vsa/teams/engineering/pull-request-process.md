@@ -6,7 +6,7 @@ This VSA Process is currently a subset of the base-process defined by VSF and fo
    - [ ] Make sure there is an Issue for your Pull Request
    - [ ] If this is a new product make sure that the [VSA QA process](../qa/vsa-qa-process.md) have been completed 
    
-   
+   ## Pull Request Process
 *   **Pull master** and **push feature branch** to `vets-website` repository
 
     git pull origin master
