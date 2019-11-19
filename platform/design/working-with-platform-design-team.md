@@ -22,20 +22,21 @@ VSP Design serves as a centralized design support team for all VFS teams, includ
 - Your team can use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users.
 - Your team can expect early feedback and direction on the work with a [Design Intent Check-in](#designintent),and can drop in throughout the process using [Platform Design Office Hours](#officehours).
 
-**Build**
-- Use the sketch pattern library to build out designs  
-- Use our research guides for user testing, and update your content and features based on what you learn
-- Get at least 2 **Design Reviews** as you build out your flows
+**During the design and build phases**
+- Your team will use the [sketch pattern library](https://design.va.gov/documentation/designers "sketch pattern library") to quickly design screen mockups in Sketch.  
+- Your team can work from our research guides for usabilty testing, and update your content and features based on what you learn.
+- The team will have 2 [Design Reviews](#designreviews) as you build out your flows
 
 ## <a id="whatdoesVSPdesigndo"></a>What VSP design does
 We support designers by providing resources and guidance to enable them to create excellent Veteran-centered experiences. 
 
-### When can VSP Design help?
+### How can VSP Design help?
 
 - Show you how we carry out research and design in support of VA.gov products.
 - Provide resources for planning, recruiting, facilitating, and synthesizing research when you’re ready to conduct user research (discovery or usability).
 - Design intent check-ins for an early mock, prototype, or flow before conducting usability testing **(this is required)**
-- Conduct design reviews on prototypes or static screens, and when the designs have been built on staging (coded, interactive flows) **(2 design reviews are required)**
+- Identify design system components and patterns that are most appropriate for what your team is designing
+- Conduct design reviews on prototypes or static screens, and when the designs have been built on staging (coded, interactive flows) **(this is required)**
 - Hold reviews and check-ins as needed when the design team iterates based on user feedback, new requirements, etc.
 
 ## <a id="bestpractices"></a>VA.gov design resources
@@ -73,7 +74,7 @@ Your designs can be in the early stages like whiteboard or pencil sketches/low-f
 These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
 - During the meeting you can provide full context on your design and we can talk through any suggestions or feedback during the meeting and after.
 
-### Design Reviews
+### <a id="designreviews"></a>Design Reviews
 **When to request a Design Review:**
 VFS teams should schedule the Design Review when the designs are ready to be tested with users (prototypes or static screens), and when the designs have been built on staging (coded, interactive flows). You should be having at least 2 Design Reviews with the platform design team for each project, and they should not wait until the product is ready to launch.
 
