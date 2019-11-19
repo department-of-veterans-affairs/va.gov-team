@@ -86,7 +86,7 @@ There are two checkpoints:
   
         ii. Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
   
-        iii. Developers may request a casual accessibility audit, akin to the design intent review
+        iii. Developers may request a spot check accessibility review, akin to the design intent review. [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
   
         iv. [Sample of early review, issues noted in Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2553)
   
@@ -96,7 +96,7 @@ There are two checkpoints:
 
     a. Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
     
-    b. If you'd like, you may request an spot check accessibility review ahead of the Pre-launch 508 Review: [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
+    b. If you'd like, you may request a spot check accessibility review ahead of the Pre-launch 508 Review: [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
 
     b. If your project is code stable in Staging, [request a Pre-launch 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 
