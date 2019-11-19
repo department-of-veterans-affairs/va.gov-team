@@ -1,9 +1,9 @@
-# First Stakeholder Meeting With DLC
+# First Stakeholder Meeting With DLC 
 Meeting: Friday 11/15/19
---
+
 
 ## Attendees
---
+
 - Nicolaus Wygonik: PM
 - Joseph Brothers: Backend Dev
 - Andrea Schneider: BAM1 DEPO
