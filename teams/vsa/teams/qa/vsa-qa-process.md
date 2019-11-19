@@ -8,7 +8,9 @@ This VSA-QA Process is currently a subset of the base-process as defined by VSP 
 
 The required steps of the VSA-QA Process are as follows:
 
-1. At start of Design phase, **Engineering Team creates VSA-QA Test Plan ticket** \[issue-template coming soon] and assign to VSA-QA resource (currently @tlei123):
+1. At start of Design phase, **Engineering Team creates VSA-QA Test Plan ticket** \[use the VSA QA Test Plan Issue Template]:
+    - Assign ticket to your **Engineering Team Product/Project Manager**
+    - Add **vsa-qa** label
     - Ensure that Test Plan includes documentation of (or links to):
         - UX Design comps
         - User scenarios/stories
