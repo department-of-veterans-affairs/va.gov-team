@@ -14,7 +14,7 @@ These are the broad Event Categories you will find in Google Analytics:
 - Transactions: These represent a successful self-service action that is considered a "conversion." These should be the "end goal" actions of each vets.gov products. Using a separate category allows us to take a site-wide picture of transaction volume and trends in a simple manner
 - Sign-on: The user takes some action related to their profile (logging in, registering, etc.)
 - API Calls: The front-end submits something (an form's content, etc.) on behalf of a user to the Vets.gov API but does not represent a successful conversion
-- Internal: For tracking items of interest of the Vets.gov team but not directly about user activ
+- Internal: For tracking items of interest of the Vets.gov team but not directly about external users
 
 ### Common User Interactions
 Many basic Interactions are tracked within Google Analytics. Common elements that are already configured include: 
@@ -32,4 +32,4 @@ If you do not see an element on the list, please reach out to the Analytics-Insi
 
 | Element | dataLayer | Google Analytics Event Category | Google Analytics Event Action |
 | --- | --- | --- |--- |
-| Accordion | `dataLayer.push({'event': 'nav-accordion-collapse|expand'});` | Interactions | Navigation - Accordion - Expand (or Collapse) | 
+| Accordion | dataLayer.push({'event': 'nav-accordion-collapse|expand'});| Interactions | Navigation - Accordion - Expand (or Collapse) | 
