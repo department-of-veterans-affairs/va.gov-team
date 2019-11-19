@@ -86,6 +86,8 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 ## KPIs
 
+[KPI Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
+
 ---
 
 # Implementation Info
