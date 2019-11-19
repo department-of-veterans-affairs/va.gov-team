@@ -18,7 +18,7 @@ _Depending on the type of work done, you may need a product person to review and
 
 _If you use the Zenhub Chrome [extension](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd), there will be a "Connect this pull request with an existing issue" section at the bottom of Github's create pull request UI. You can click the "Connect with an issue" button to link the PR to the original issue in Zenhub._
 
-<span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:765px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:9.934640522875817%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](/veteran-facing-services-tools/static/d16a8f63d7f7ad20701141bbe9190083/8cae0/connect-issue.png "PR deployment list")](/veteran-facing-services-tools/static/d16a8f63d7f7ad20701141bbe9190083/8cae0/connect-issue.png)</span>
+<span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:765px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:9.934640522875817%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/d16a8f63d7f7ad20701141bbe9190083/8cae0/connect-issue.png "PR deployment list")](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/d16a8f63d7f7ad20701141bbe9190083/8cae0/connect-issue.png)</span>
 
 *   **Change status** of the **linked issue** to **validate**
 
@@ -29,7 +29,7 @@ _If you use the Zenhub Chrome [extension](https://chrome.google.com/webstore/det
     *   after a pull request is created when the feature branch is updated
 *   Test results are displayed on the pull request page
 
-<span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:699px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:17.024320457796854%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](/veteran-facing-services-tools/static/4faf58036ea7db547dd9a3340a594242/8d69c/test-results.png "PR deployment list")](/veteran-facing-services-tools/static/4faf58036ea7db547dd9a3340a594242/8d69c/test-results.png)</span>
+<span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:699px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:17.024320457796854%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/4faf58036ea7db547dd9a3340a594242/8d69c/test-results.png "PR deployment list")](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/4faf58036ea7db547dd9a3340a594242/8d69c/test-results.png)</span>
 
 _See [Run Tests](/veteran-facing-services-tools/getting-started/common-tasks/test) to run these tests locally_
 
@@ -54,7 +54,7 @@ _**The person making the change is responsible** for ensuring the change is adeq
 
     _Example of deployment links:_
 
-    <span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:709px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:26.375176304654442%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](/veteran-facing-services-tools/static/82df6872c5a0578f1ad667636438ad90/08b0d/PR-deployment-list.png "PR deployment list")](/veteran-facing-services-tools/static/82df6872c5a0578f1ad667636438ad90/08b0d/PR-deployment-list.png)</span>
+    <span class="gatsby-resp-image-wrapper" style="position:relative;display:block;margin-left:auto;margin-right:auto;max-width:709px">[<span class="gatsby-resp-image-background-image" style="padding-bottom:26.375176304654442%;position:relative;bottom:0px;left:0px;background-size:cover;display:block"></span>![PR deployment list](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/82df6872c5a0578f1ad667636438ad90/08b0d/PR-deployment-list.png "PR deployment list")](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/static/82df6872c5a0578f1ad667636438ad90/08b0d/PR-deployment-list.png)</span>
 
 After a pull request is created, **Jenkins** will automatically **rebuild** these instances when feature branch **changes are pushed**
 
