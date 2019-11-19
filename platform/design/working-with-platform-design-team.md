@@ -1,30 +1,33 @@
 # Working with the Platform Design Team
 
-## Working with VSP Design
-This document will help all teams working on VA.gov understand when you should engage VSP design resources for collaboration and support. All teams building on the Veteran-facing Services Platform (VSP) should follow VA.gov design best practices and guidelines. Working with the VSP design team can help ensure all designs communicate effectively and maintain a consistent design language and user experience across the site. 
+## Working with the Veteran-facing Services Platform (VSP) Design Team
+This document helps all teams working on VA.gov understand when you should engage VSP design resources for collaboration, design review, and support. All teams building on the VA.gov platform must follow VA.gov design best practices and guidelines in order to provide Veterans with an excellent customer experience. Working with the VSP design team helps ensure that we maintain consistent design language that supports the best Veteran user experience across the site.
 
-- [What does the VSP design team do?](#whatdoesVSPdesigndo)
-- [Resources for designing with best practices on VA.gov](#bestpractices)
-- [When to request a VSP Design resources](#whentorequest)
+- [What VSP design does](#whatdoesVSPdesigndo)
+- [VA.gov design resources](#bestpractices)
+- [When to request a VSP design review](#whentorequest)
 - [How to request design reviews](#howtorequest)
-- [Other opportunities for feedback](#otheropportunities)
-- [Things to keep in mind when designing for VA.gov](#designguidelines)
-- [Questions/how to contact us](#questions)
+- [Other ways to get VSP design feedback](#otheropportunities)
+- [Things to keep in mind when designing on VA.gov](#designguidelines)
+- [Contact VSP design](#questions)
 
-## How VFS teams and VSP Design work together 
-**Onboarding**
-- Get a tour of how we UX! We’ll show you around the tools, services, support, and documentation available to you. We will schedule a design breakout with you and team members 
+## How Veteran-Facing Services (VFS) teams and VSP Design work together
 
-**Discover**
-- Use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users.  
-- Get feedback on your work with a **Design Intent Check-in**, and drop in on Platform Design Office Hours
+VSP Design serves as a centralized design support team for all VFS teams, including teams working on Veteran-facing Services Applications (VSA), public website teams, and more.  
+
+**Onboarding new teams**
+- Your team will get a tour of how we approach UX! We’ll show you around the tools, services, support, and documentation available to you. We will also schedule a design breakout with you and team members.
+
+**During the discovery phase**
+- Your team can use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users.
+- Your team can expect early feedback and direction on the work with a [Design Intent Check-in](#designintent),and can drop in throughout the process using [Platform Design Office Hours](#officehours).
 
 **Build**
 - Use the sketch pattern library to build out designs  
 - Use our research guides for user testing, and update your content and features based on what you learn
 - Get at least 2 **Design Reviews** as you build out your flows
 
-## <a id="whatdoesVSPdesigndo"></a>What does the VSP design team do
+## <a id="whatdoesVSPdesigndo"></a>What VSP design does
 We support designers by providing resources and guidance to enable them to create excellent Veteran-centered experiences. 
 
 ### When can VSP Design help?
@@ -35,14 +38,14 @@ We support designers by providing resources and guidance to enable them to creat
 - Conduct design reviews on prototypes or static screens, and when the designs have been built on staging (coded, interactive flows) **(2 design reviews are required)**
 - Hold reviews and check-ins as needed when the design team iterates based on user feedback, new requirements, etc.
 
-## <a id="bestpractices"></a>Resources for designing with best practices on VA.gov
+## <a id="bestpractices"></a>VA.gov design resources
 - [VA.gov design system](https://design.va.gov/ "VA.gov design system")
 - [How we work - design culture and norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/NewDesigners/UXOnboarding.md#how-we-work "How we work - design culture and norms")
 - [How we UX](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/NewDesigners/UXOnboarding.md#in-general "How we UX")
 - [Form design process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Design%20Resources/form-design-process.md "Form design process")
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers "508, Accessibility, and Inclusive Design Best Practices")
 
-## <a id="whentorequest"></a>When to request VSP design resources
+## <a id="whentorequest"></a>When to request a VSP design review
 You can engage with the VSP Design team anytime throughout the design process. We strongly recommend  that you reach out earlier rather than later so we can give our input before development. After development and when the complete and final build is on staging, a design QA review will be scheduled. Instructions on how to request a design QA review is in the next section. 
 
 **When performing user research**   
@@ -59,7 +62,7 @@ VFS teams should schedule a design review session when the complete and final bu
 1. Design intent check-in 
 2. Design Review
 
-### Design Intent Check-in
+### <a id="designintent"></a>Design Intent Check-in
 **When to request a design intent check-in:**  
 Before any high-fidelity designing takes place to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
 Your designs can be in the early stages like whiteboard or pencil sketches/low-fidelity or more built out, for example, mockups or prototypes. 
@@ -74,7 +77,7 @@ These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on 
 **When to request a Design Review:**
 VFS teams should schedule the Design Review when the designs are ready to be tested with users (prototypes or static screens), and when the designs have been built on staging (coded, interactive flows). You should be having at least 2 Design Reviews with the platform design team for each project, and they should not wait until the product is ready to launch.
 
-**<a id="howtorequest"></a>How to request a design review:**
+**<a id="howtorequest"></a>How to request a VSP design review**
 
 **1. File an issue in va.gov-team repo.**
 - Title: Request Design Review
@@ -105,11 +108,11 @@ VFS teams should schedule the Design Review when the designs are ready to be tes
 
 **7. When the issue is closed, this activity is considered complete.**
 
-## <a id="otheropportunities"></a>Other opportunities for feedback
+## <a id="otheropportunities"></a>Other ways to get VSP design feedback
 
 The platform design team is also available for informal discussions about design challenges and we can help answer questions and point you in the right direction outside of the more formal design reviews and intent check-ins.
 
-**Platform Design Office Hours**  
+<a id="officehours"></a>**Platform Design Office Hours**  
 Every Tuesday from 3-4pm ET, drop into Zoom to get a second set of eyes on your work, get some questions answered, or talk through any design challenges you’re experiencing. [Add the event to your calendar here.](https://calendar.google.com/event?action=TEMPLATE&tmeid=Nmx2aW5rczVhZXB0bTJwcTNoc2Z2ZGRnN2JfMjAxOTExMTJUMjAwMDAwWiBlbWlseUBhZGhvY3RlYW0udXM&tmsrc=emily%40adhocteam.us&scp=ALL)
 
 **Design + Content + Research sync**  
@@ -118,7 +121,7 @@ Every Monday from 1-2pm ET, anyone and everyone doing work related to UX design 
 **Design in the open    
 We encourage all designers to be open about their process and seek feedback throughout every step. We are all working together to create excellent experiences for Veterans, and we are here to help each other along the way. Designers should share sketches and low-fi mockups of your work in the Slack #design channel. It’s a great way to get quick, asynchronous feedback and it helps to build a culture of transparency and openness.**
 
-## <a id="designguidelines"></a>Things to keep in mind when designing for VA.gov
+## <a id="designguidelines"></a>Things to keep in mind when designing on VA.gov
 
 We will be checking this criteria when performing design reviews.
 
@@ -146,5 +149,5 @@ We will be checking this criteria when performing design reviews.
 - Empty states have been accounted for (if applicable)
 - Full/complete states have been accounted for (if applicable)
 
-## <a id="questions"></a>Questions?
+## <a id="questions"></a>Contact VSP design
 If you have any questions, please reach out via slack in #vsp-product-support, tag @EmilyWaggoner, and @CrystabelReiter.
