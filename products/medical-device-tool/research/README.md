@@ -13,7 +13,7 @@ This research was conducted to help clarify the current state of the problem spa
 - [DLC Stakeholder Introduction & Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md)
 - [Design Team Presentation]()
 - Preliminary Technical Research
-  - [ERD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/ERD.png)
+  - [Entity Relationship Diagram (ERD)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/ERD.png)
   - [Web Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
   - [API Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/api%20diagram.pdf)
 
