@@ -81,16 +81,11 @@ There are two checkpoints:
     c. Identify any accessibility issues and how to address
 
     d. During engineering, here are some available resources:
-  
-        i. Review [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
-  
-        ii. Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
-  
-        iii. Developers may request a spot check accessibility review, akin to the design intent review. [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
-  
-        iv. [Sample of early review, issues noted in Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2553)
-  
-        v. [VSA Audit Ticket Template (draft)](https://docs.google.com/document/d/1O6r5WSjpI2jDvgPkNNCCFmUYS8PJpUqf6nP55tEKISo/edit?ts=5db8af69#)
+        * Review [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
+        * Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
+        * Developers may request a spot check accessibility review, akin to the design intent review. [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
+        * [Sample of early review, issues noted in Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2553)
+        * [VSA Audit Ticket Template (draft)](https://docs.google.com/document/d/1O6r5WSjpI2jDvgPkNNCCFmUYS8PJpUqf6nP55tEKISo/edit?ts=5db8af69#)
     
 2. **Pre-launch 508 Review Checkpoint** - This would happen well before launch, to allow the 508 office time to review, and then address any issues uncovered.
 
