@@ -1,5 +1,6 @@
 
 # Documentation Site Product Outline
+## Product Info
 ### Points of Contact
 - GitHub Label: none
 - Slack channel: #vsp-content-ia
@@ -11,6 +12,7 @@
 |Megan Kelley | VSP Content & IA Product Manager| @Megan Kelley|
 |Matt Johnson | VSP Content & IA Information Architect | @Matt Johnson|
 |Mikki Northuis | VSP Content & IA Information Architect |@Mikki|
+|Bill Fienberg | VSP Content & IA Frontend Engineer | @Bill Fienberg|
 
 ### Product Key Words
 - Documentation
@@ -33,8 +35,28 @@ Currently, documentation for building on and with the VA.gov platform is spread 
 - Due to pain points with the current system (such as no convenient shared large file storage), teams are using their own external tools for documentation of their product. This means that crucial documentation must be transferred into GitHub when the team offboards, which is often left incomplete.
 
 ### User Goals
-VFS and VSP team members can easily find and access crucial information they need to do their jobs in one central location. 
+VFS and VSP team members can easily find and access crucial information they need to do their jobs in one central location.
 
+### Hypotheses
+- If we give platform customers a comprehensive documentation site that is easy to use, platform team will receive fewer requests for manual support.
+
+### Assumptions
+- VFS teams will want to find answers on their own (people will use self-service options when available).
+- VFS teams will adopt our solution even if their company typically uses a different documentation solution.
+
+### Questions
+- What VA-specific access issues will we need to overcome?
+- How do we account for engineering documentation being stored in GitHub regardless? 
+- How different are the needs for team spaces and product spaces?
+
+### Possible KPIs 
+- Time spent finding documentation? Clicks to documentation (need to implement)
+- Broken documentation links (need to define scope)
+- User satisfaction survey results (need to implement)
+
+---
+
+## Implementation Info
 ### The Plan
 - Migrate/copy all crucial, non-sensitive documentation to the VA.gov-team GitHub repository
 - Explore options for creating a documentation site with better UI than a GitHub repo: GitHub Pages, Gatsby, or building something custom
@@ -54,8 +76,4 @@ October 2019 — Discussion of large file storage (Matt, Mikki, Megan, Andrew, L
 ### Current Status 
 _Last updated November 1, 2019_
 - Crucial, nonsensitive documentation content from vets.gov-team and va.gov-vfs-teams is being copied over to va.gov-team (lead: Matt)
-
-### Possible KPIs 
-- Time spent finding documentation/clicks to documentation (need to implement)
-- Broken documentation links (need to define scope)
-- User satisfaction survey results (need to implement)
+- Proposing [discovery sprint](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/2227) for mid-December
