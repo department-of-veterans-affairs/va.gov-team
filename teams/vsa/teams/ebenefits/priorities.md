@@ -21,8 +21,8 @@
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
 | eFolder | View My Documents | I can view and download documents I have uploaded to my VA eFolder. |
-| Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate my VA Home Loan benefit and apply for a Certificate of Eligibility. **This is an iFramed LGY-hosted application.** |
-| Form | Apply for Specially Adapted Housing Grant | (Form 26-4555) I can apply for Specially Adapted Housing benefits. **This is an iFramed LGY-hosted application.** |
+| Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate my VA Home Loan benefit and apply for a Certificate of Eligibility. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
+| Form | Apply for Specially Adapted Housing Grant | (Form 26-4555) I can apply for Specially Adapted Housing benefits. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
 | Form | Vocational Rehabilitation Benefits & Counseling | (Forms 1900 and 8832) I can apply for VR&E benefits. |
 | Status | View Ancillary Benefits | I can view the status of various ancillary and other benefits. |
 | Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. |
