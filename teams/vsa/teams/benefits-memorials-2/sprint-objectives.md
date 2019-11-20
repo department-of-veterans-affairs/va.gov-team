@@ -17,23 +17,28 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```
 ### 1. Medical Device Ordering Tool
 **- 2345 (Ordering Prosthetic Socks)**  
-[Discovery] Fully understand and document in GitHub how form 2345 works  
+
+(Discovery) Fully understand and document in GitHub how form 2345 works  
 - Veteran perspective; what is the Veteran attempting to do, what steps are they taking to do that?  
 - DLC perspective, including requirements; what do they need  
 - What information is coming from the medical side  
-  - DLC Data; what is done with the information once they receive it  
-[Design] Create a mockup of the process at a high level that can be iterated on as more information develops  
-[Frontend] Stub out the anticipated components using the existing VA Design System and the Form Configuration Tool  
-[Backend] Fully understand and document in GitHub the currently existing API endpoints and what services are being used  
+  - DLC Data; what is done with the information once they receive it 
+  
+(Design) Create a mockup of the process at a high level that can be iterated on as more information develops  
+
+(Frontend) Stub out the anticipated components using the existing VA Design System and the Form Configuration Tool 
+
+(Backend) Fully understand and document in GitHub the currently existing API endpoints and what services are being used  
+
 **- 2346 (Ordering Hearing Aid Batteries)**  
-[Discovery] Fully understand and document in GitHub how form 2346 works   
+(Discovery) Fully understand and document in GitHub how form 2346 works   
 - Veteran perspective; what is the Veteran attempting to do, what steps are they taking to do that?  
 - DLC perspective, including requirements; what do they need  
 - What information is coming from the medical side  
   - DLC Data; what is done with the information once they receive it  
-[Design] Create a mockup of the process at a high level that can be iterated on as more information develops  
-[Frontend] Stub out the anticipated components using the existing VA Design System and the Form Configuration Tool  
-[Backend] Fully understand and document in GitHub the currently existing API endpoints and what services are being used  
+  
+(Design) Create a mockup of the process at a high level that can be iterated on as more information develops 
 
+(Frontend) Stub out the anticipated components using the existing VA Design System and the Form Configuration Tool  
 
-
+(Backend) Fully understand and document in GitHub the currently existing API endpoints and what services are being used  
