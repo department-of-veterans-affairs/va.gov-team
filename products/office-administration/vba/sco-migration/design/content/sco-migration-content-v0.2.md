@@ -97,7 +97,7 @@ Month DD, YYYY—City, State abbreviation**
 Month DD-DD, YYYY—City, State abbreviation**
 
 **[Title of event >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
-Month DD & DD, YYYY—Online** 
+Month DD-DD, YYYY—Online** 
 
 See full list of [Conferences and events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)   
 
