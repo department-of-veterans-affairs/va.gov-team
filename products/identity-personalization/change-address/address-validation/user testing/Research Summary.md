@@ -10,3 +10,7 @@ Session 2:
 - No concern or question about where address suggestions come from. Thinks it is from Google maps and didn’t mention USPS but that didn’t seem to stress him out.
 - Participant thought that the suggestions were the only possible options for him when he wanted to edit his address. He said he didn’t know how he’d edit the address without suggestions. There is some chance this would not have been as confusing if he was looking at his real address and not prototype/made up data.
 — It is unclear if he understood why we were telling him the address was invalid but we were still letting him choose it.
+
+Session 3:
+
+- Biggest concern was "Invalid" and what this means. She felt it was accusatory. Wants clearer directions on what's wrong and what needs to change with an address.
