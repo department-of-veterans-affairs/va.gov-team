@@ -31,7 +31,7 @@ This would be extremely beneficial for several reasons:
 - Shows Veterans that the VA prioritizes them and important communications by being proactive in reaching out via email
 - Would possibly alleviate some calls to the Help Center
 - Would allow the Veteran to update their address to a deliverable address in the VA's system more quickly
-- Would allow the VA to control the messaging versus waiting on the Veteran to log into VA.gov 
+- Would allow the VA to control the messaging versus waiting on the Veteran to log into VA.gov
 
 ### Would the VA consider calling Veterans to tell them they have undeliverable mail?
 
