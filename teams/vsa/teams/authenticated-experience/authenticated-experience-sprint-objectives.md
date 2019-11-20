@@ -65,9 +65,10 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 ### Sprint 9 (11/20 - 12/3)
 * Direct Deposit
    * Add "add direct deposit" functionality and and new associated analytics.  Track/measure error rates as input to next steps and actions. (#3504)
-   * Finalize designs for ID.me & DS Logon and determine what sprint 10 work will need to be (#2884 and #1798)
-   * If needed, re-open call center guide and apply additional updates (#2901)
+   * Finalize approach for ID.me & DS Logon and determine what design work for sprint 10 work will need to be (#2884 and #1798)
+   * **If needed**, re-open call center guide and apply additional updates (#2901)
    * Improve DD error analytics (#3573)
+   * Monitor "Add" funtionality for errors and determine next steps (either taking it down or ramping DD up to 75%)
 * Address Validation & Override
    * Identify and communication a new target launch date
    * Complete user testing, summarize outcomes, determine next steps if any (#3280)
