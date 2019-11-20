@@ -11,18 +11,18 @@ All teams building on the Veteran Services Platform should follow VA.gov IA best
 ## <a id="whatdoesIAdo"></a>What does IA do?
 >*”Information Architecture focuses on organizing, structuring, and labeling content…The goal is to help users find information and complete tasks.“* - Usability.gov
 
-**There are 2 primary focus areas of IA on VSP**
-1. **Site IA** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. We also ensure proper redirects and/or vanity URLs are in place as the structure evolves. 
+**There are 2 primary focus areas of IA support on VSP**
+1. **Site IA** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. We also help ensure proper redirects and/or vanity URLs are in place if needed. 
 
 2. **Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
 
 **When can IA help?**
-- Launching a new content page (or several) on VA.gov
+- Launching a new content page(s) on VA.gov
 - Launching a new tool on VA.gov
 - Rewriting content and need to split or merge existing content pages
 - Looking to improve findability of an existing page or tool
 - Taking down a content page and/or tool
-- Changing the UX of navigational elements (i.e. top nav, left nav, breadcrumbs)
+- Changing the UX of global navigational elements (i.e. top nav, left nav, breadcrumbs)
 
 ## <a id="whentorequest"></a>When to request IA resources
 Here are key times for IA support, but please do not hesitate to reach out at any time with questions, ideas or for general collaboration.   
@@ -48,17 +48,23 @@ Here are key times for IA support, but please do not hesitate to reach out at an
 
 Please be sure to make requests ahead of time - ideally a sprint ahead of time. 
 
-Please open a Zenhub issue in ```va.gov-team repo```. 
-1. Choose standard issue template.
-2. Title for the issue: ```IA Support: [title of tool/app/page]```
-4. Please include any/all of the following if available and as applicable:
-- Link to product outline
-- Planned launch date
-- User flow or link to prototype
-- Link to page(s) on staging or attach file of content/designs
-- Research synthesis if applicable
+1. Please open a Zenhub issue in ```va.gov-team repo```. 
 
-Please tag the issue with:
+2. Choose standard issue template.
+
+3. Title for the issue: ```IA Review: [title of tool/app/page]```
+
+4. Please include the following as applicable:
+- Required:
+  - Link to a product outline or description and goals of the work
+  - Planned/estimated launch date
+  - Prototype or mock ups of **all** pages
+- Helpful, but not required:
+  - Links to any applicable research
+  - SEO data
+  - applicable analytics
+
+5. Please tag the issue with:
 - Team/Practice Area label  - `content-ia-team` and `ia`
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 - Assign issue to @mnorthuis, @meganhkelley
