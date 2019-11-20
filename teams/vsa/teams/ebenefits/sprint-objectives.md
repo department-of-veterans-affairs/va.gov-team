@@ -18,8 +18,8 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ### 1. Prepare "View My Rated Disabilities" to be code complete
 - Assuming no enterprise blockers, test all required Rated Disabilities functionality in staging
 - Schedule final reviews required to launch (Content/IA {mockups}, 508 {staging}, Security {staging})
-- Review the launch checklist and make sure the feature meets all requirements
-  - Note that we will not be turning off any functionality in EBN or doing any comms around this feature.
+- Review the launch checklist and make sure the feature meets all requirements  
+  - _Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
 
 ### 2. Continue discovery on "Dependents"
 - Design: Based on user feedback develop mockups for review
