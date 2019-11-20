@@ -11,7 +11,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ----
 
-## Sprint 9 (11/20 - 12/3) WIP
+## Sprint 9 (11/20 - 12/3)
 ```diff 
 - TBD
 ```
@@ -22,7 +22,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
   - _Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
 
 ### 2. Continue discovery on "Dependents"
-- Design: Based on user feedback develop mockups for review
+- Design: Based on user feedback further develop mockups for review
 - Design: Establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
 - Frontend: Frame the View Dependents function per existing mockups in staging
 - Eng: Investigate and document in GitHub remaining errors that are currently in staging for Dependents
