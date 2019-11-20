@@ -1,4 +1,4 @@
-# Disability Considerations, by disability type _(ork-in-Progress)_
+# Disability Considerations, by disability type _(Work-in-Progress)_
 
 ## Table of Contents
 
