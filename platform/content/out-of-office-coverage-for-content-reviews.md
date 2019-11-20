@@ -1,4 +1,4 @@
-**Out of office coverage plan for Platform Content Reviews**
+# Out of office coverage plan for Platform content reviews
 
 
 1. VSP Platform content editor (Peggy) to provide all product teams with as much notice as possible for planned PTO time (at least 2 weeks). 
@@ -10,7 +10,7 @@
 4. If a product team submits a content review during Peggy’s PTO time, and this content review needs to be completed before Peggy returns, Megan Kelley (VSP Content & I/A PM) will work with the requesting team to determine the timeline of the review. For reviews that can’t wait until Peggy returns, Megan will work with Kara Kemahli and Jen Lee to see if a member of VSA public-websites content team could do the review. 
 
 
-**Process for requesting a content review during Platform content editor PTO**
+## Process for requesting a content review during Platform content editor PTO
 
 1. Product team assigns content review ticket to Megan Kelley (VSP Content & I/A PM). 
 
