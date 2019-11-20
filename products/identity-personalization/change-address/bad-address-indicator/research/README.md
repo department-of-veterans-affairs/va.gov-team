@@ -12,14 +12,8 @@ Each address stored in Vet360 comes with an optional Bad Address Indicator (BAI)
 4. Explore technical options for duration of how long messaging is displayed.
 5. Determine best user workflow of conveying message to the user and directing user to the best page to start the 'update address' workflow.
 
-### Discovery Activities
 
-[Technical Discovery]()
-
-[Design Discovery]()
-
-
-## Technical Discovery: Communicating to the Veteran that they have undeliverable mail and their address on file requires updating
+## Discovery: Communicating to the Veteran that they have undeliverable mail and their address on file requires updating
 
 ### The VA emails Veterans regarding information about other activities
 
