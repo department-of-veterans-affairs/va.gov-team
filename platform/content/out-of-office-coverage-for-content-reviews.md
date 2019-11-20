@@ -7,7 +7,7 @@
 
 3. If a submitted content review requires an additional review that would fall during PTO time, Peggy will discuss with Kara Kemahli and Jen Lee (VSA public-websites) to see if a member of that content team could do the follow-up review. 
 
-4. If a product team submits a content review during Peggy’s PTO time, and this content review needs to be completed before Peggy returns, Megan Kelley (VSP Content & I/A PM) will work with the requesting team to determine the timeline of the review. For reviews that can’t wait until Peggy returns, Megan will work with Kara Kemahli and Jen Lee to see if a member of VSA public-websites content team could do the review. 
+4. If a product team submits a content review during Peggy’s PTO time, Megan Kelley (VSP Content & I/A PM) will work with the requesting team to determine the timeline of the review. For reviews that can’t wait until Peggy returns, Megan will work with Kara Kemahli and Jen Lee to see if a member of VSA public-websites content team could do the review. 
 
 
 ## Process for requesting a content review during Platform content editor PTO
