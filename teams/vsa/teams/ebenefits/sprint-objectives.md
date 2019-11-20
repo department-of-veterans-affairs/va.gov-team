@@ -11,7 +11,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ----
 
-## Sprint 9 (11/20 - 12/3)
+## Sprint 9 (11/20 - 12/3) WIP
 ```diff 
 - TBD
 ```
