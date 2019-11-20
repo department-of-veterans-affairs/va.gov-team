@@ -93,10 +93,10 @@ TTo gain access to VA-ONCE, start the MOU online, print it, and gather the appro
 **[Arizona Veterans Program Association-2019 fall mini-conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)   
 November 1, 2019—Mesa, AZ**
 
-**[Oklahoma Veterans Education Specialists Association (OVESA) Fall Conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  
+**[Oklahoma Veterans Education Specialists Association (OVESA) fall conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  
 November 4–6, 2019—Stillwater, OK**
 
-**[VBA Education Service 1st Quarterly Webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
+**[VBA Education Service 1st quarterly webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
 December 19 & 20, 2019—Online** 
 
 See full list of [Conferences and events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)   
