@@ -24,10 +24,11 @@ The required steps of the VSA-QA Process are as follows:
         - UAT (by real Users)
         - Beta testing (by real Users)
 
-1. **VSA-QA creates a test plan** that ensures coverage of the targeted changes as well as any possible regressions caused by your team's changes.
+1. **VSA-Engineering & VSA-QA collaborate to create a test plan** that ensures coverage of the targeted changes as well as any possible regressions caused by your team's changes.
+    - Build the plan directly inside the Test Plan ticket created in Step 1, or link ticket to separate plan document.
     - [Sample Test Plan](https://docs.google.com/document/d/10dYOWyHSTGB_gKiPZSdcdq6fwjrlRhBsK3yUIyS3Gc0/edit) for reference
 
-1. **VSA-QA create test cases** as you build.  VSA Designers/Developers (especially UX-Design member) & VSA-QA should start collaboration early, so as to ensure all testable scenarios have matching test cases. 
+1. **VSA-QA create manual UI-test cases** as you build.  VSA Designers/Developers (especially UX-Design member) & VSA-QA should start collaboration early, so as to ensure all testable scenarios have matching test cases. 
     - [Sample Test Case Template](https://drive.google.com/open?id=1Tkim8srrMdDMztG0Du_yZ60DYgVOJPLk)
     - We recommend that you create and execute manual test cases for core user journeys in your product.
     - Optionally, you may use any test case tracking tool / method that works for your team.  Please keep in mind that you will be expected to export test cases and test case execution logs.
