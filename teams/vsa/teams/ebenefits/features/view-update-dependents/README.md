@@ -50,8 +50,7 @@ One of the most used features on EBN is View and Update Dependents. It is the on
 
 ### User Goals
 
-- **Veterans:** Review and update information about my dependents. Practically: Submit a valid 686c from start to finish online at va.gov, as represented by one of three AMA forms.
-- TODO: Determine whether other forms are part of this goal.
+- **Veterans:** Review and update information about my dependents. Practically: View the dependents currently on a compensation award, and submit a valid form 686c and form 674 from start to finish online at va.gov
 
 ### Business Goals
 
@@ -63,8 +62,9 @@ One of the most used features on EBN is View and Update Dependents. It is the on
 ## Assumptions
 
 - Product will use existing prefill integrations to pre-populate known information
-- Product will use existing EVSS endpoints, with an understanding that those endpoints face deprecation within 3 years
+- Product will use new (to us) BGS endpoints as EVSS is being deprecated
 - We will submit a request for endpoints to be developed on BIP
+- Form 509 (dependent parents) is not part of this work but a great value add
 
 ### Product Assumptions: Veteran User Group
 
@@ -90,7 +90,7 @@ One of the most used features on EBN is View and Update Dependents. It is the on
 - Audit Dependents app currently in staging, noting differences between it and EBN functionality
 - Perform any necessary supplementary research how Veterans use the Dependents feature on EBN
 - Mock/ update existing designs of Dependents app
-- Audit existing EVSS endpoints and build connection
+- Audit existing EVSS endpoints and build connection to BGS endpoints
 - Write e2e tests
 - Perform comprehensive usability
 - Ensure that submissions are processed through RBPS as expected
