@@ -15,7 +15,7 @@ The VSP BE Tools team (Tier 1) in coordination with the oncall team will log in 
 1. New GitHub issue is received &quot;User reported bug, Downtime issue, Performance issue&quot;
 2. VSP BE Tools team (Tier 1) addresses issue and attempts to resolve per description in section 3
 3. If BE Tools team is unable to resolve issue, a Triage ticket is created using the Triage issue template.
-4. The Tier 1 team analyzes the issue and assigns it to the proper team by following the  &quot;[VSP - On Call Process](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/OnCall)&quot;
+4. The Tier 1 team analyzes the issue and assigns it to the proper team by following the  &quot;[VSP - On Call Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md)&quot;
 5. If the issues involves a VSA product, Tier 1 team will add the appropriate team&#39;s tag and the &quot;vsa-Triage&quot; tags to the issue.  The &quot;vsa-Triage&quot; tag will allow identification of Tier 2/3 triaged issues for identification and reporting purposes.
 6. If the VSA Tier 2 resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in Table 3 herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in Table 2.
 
