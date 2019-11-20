@@ -35,7 +35,9 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 
 ## Abstract
 
-One of the most used features on EBN is View and Update Dependents. It is the only self-service place in the VA ecosystem that a Veteran can quickly view the dependents on their compensation award, as well as add, remove, or modify those dependents by electronically submitting the 686c. In happy path cases, electronic submissions can be processed through RBPS which, if successful, begins distributing benefits in days, not weeks or months. Migrate this functionality from EBN to the modern system at va.gov, conducting research and user interview along the way to make sure Veterans are able to achieve their goals in the quickest and most equitable way possible.
+One of the most used features on EBN is View and Update Dependents. It is the only self-service place in the VA ecosystem that a Veteran can quickly view the dependents on their compensation award, as well as add, remove, or modify those dependents by electronically submitting the 686c. In happy path cases, electronic submissions can be processed through RBPS which, if successful, begins distributing benefits in days, not weeks or months. 
+
+Migrate this functionality from EBN to the modern front door at VA.gov, conducting research along the way to make sure Veterans are able to achieve their goals in the quickest and most equitable way possible.
 
 - va.gov landing page: https://www.va.gov/family-member-benefits/
 - Benefits landing page: https://benefits.va.gov/compensation/add-dependents.asp
