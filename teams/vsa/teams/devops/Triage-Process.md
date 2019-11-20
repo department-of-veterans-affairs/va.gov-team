@@ -64,7 +64,7 @@ VSA Tier 3 support would be contacted in the event the VSP Tier 1 team cannot re
   2. In the case of major production issues, the PM will determine whether the issue is of enough impact to cause for an immediate fix by the end of the sprint.  If the issue is deemed significant enough to require fixing by the end of the sprint, the PM will work with his team to update the sprint stories and objectives to ensure closure of Triage issue by the end of the sprint.
   3. In the case of minor issues, the story will be prioritized along with other backlog items during the next backlog grooming and/or sprint planning.
 4. The Product Manager will notify the VSA Lead Engineer, the VA Business Owners, and the Program Manager of the issue
-5. Once the issue has been resolved, a root cause analysis will be performed by the PM.  If desired by the DSVA, the PM can provide a root cause analysis summary using the document template stored in the [VSA Google drive](https://docs.google.com/document/d/16HGKtXGhDx1n0tlk55gmtiFxvGbGhy6n/edit) and will submit it to the VSA Lead Engineer, the VA Business Owners, and the Program Manager.
+5. Once the issue has been resolved, a root cause analysis will be performed by the PM.  If desired by the DSVA, the PM can provide a Root Cause Analysis (RCA) summary using the document template stored in the [VSA Google drive](https://docs.google.com/document/d/16HGKtXGhDx1n0tlk55gmtiFxvGbGhy6n/edit) and will submit it to the VSA Lead Engineer, the VA Business Owners, and the Program Manager.
 
 ### Table 3: Triage Severity Assessment
 
