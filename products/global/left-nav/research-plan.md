@@ -40,45 +40,48 @@ Zoom will be the tool that we prefer to use.
 ## Research participants and recruitment
 
 * 16 participants (minimum of 8 required) 
-* Western PA residents that are Veterans, with some familiarity with Pittsburgh area VA facilities
+* Western PA residents that are Veterans, with some familiarity with Pittsburgh area VA facilities (e.g. they've used one at least once)
+* Note: will accept caregivers, but only up to 4
 
 We'll use Perigean recruiting, or we will recruit via the previous relationships with Pittsburgh VA facility visit if necessary. 
 
 ## When will the research take place? 
 
-### Study was delayed, timeline needs to be updated
+### Study was delayed, timeline updated
 
 ### Timeline
 This schedule is subject to completion of work on the prototype. 
-* October 30
+* ~October 30~ December 2
 Research sessions begin. 
-* November 7 
+* ~November 7~ December 10 
 Research sessions concluded and analysis begins.
-* November 12
+* ~November 12~ December 17
 Research analysis completed. 
 
-The prototype will need to be completed by October 28 in order to begin testing on October 30. 
+The prototype will need to be completed by ~October 28~ November 27  in order to begin testing on ~October 30~ December 4. 
 
 ### Session length
 Ethnographic interviews and usability observation should total 45 minutes per person/session. 
 
-### Availability (Dates need to be updated as study was delayed) 
-27 slots offered (will update as needed) 
-* Wednesday, October 30
-10am, 11am, 1pm, 2pm, 5pm, 6pm (6)
-* Thursday, October 31
-9am, 10am, 12pm, 1pm, 2pm (5)
-* Friday, November 1
-10am, 11am, 1pm, 2pm (4)
-* Monday, November 4
-5pm, 6pm (2)
-* Tuesday, November 5
-9am, 10am, 11am (3)
-* Wednesday, November 6
-9am, 10am, 11am, 1pm, 2pm, 5pm, 6pm (7)
+### Availability (Dates updated) 
+21 slots offered (will update as needed) 
+* Monday, December 2
+6pm, 7pm (2)
+* Tuesday, December 3
+6pm, 7pm (2)
+* Wednesday, December 4
+8am, 9am, 10am, 12pm, 1pm, 2pm (5)
+* Thursday, December 5
+8am, 9am (2)
+* Friday, December 6
+12pm, 1pm, 2pm, 3pm (4)
+* Monday, December 9
+3pm, 4pm, 6pm, 7pm (4)
+* Tuesday, December 10
+6pm, 7pm (2)
 
 ### Proposed pilot
-October 29 pilot with Lauren Alexanderson, Ryan Thurwell, Andy Lewandowski, or Matt Self. 
+~October 29~ November 27 pilot with Lauren Alexanderson, Ryan Thurwell, Andy Lewandowski, or Matt Self. 
 
 ### Team Roles
 Please list the people who will be serving in each role.**Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker**
