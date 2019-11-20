@@ -13,7 +13,7 @@ The VSP BE Tools team (Tier 1) in coordination with the oncall team will log in 
 #### Tier 1 Process Details
 
 1. New GitHub issue is received &quot;User reported bug, Downtime issue, Performance issue&quot;
-2. VSP BE Tools team (Tier 1) addresses issue and attempts to resolve per description in section 3
+2. VSP BE Tools team (Tier 1) addresses issue and attempts to resolve per description in Table 3
 3. If BE Tools team is unable to resolve issue, a Triage ticket is created using the Triage issue template.
 4. The Tier 1 team analyzes the issue and assigns it to the proper team by following the  &quot;[VSP - On Call Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md)&quot;
 5. If the issues involves a VSA product, Tier 1 team will add the appropriate team&#39;s tag and the &quot;vsa-Triage&quot; tags to the issue.  The &quot;vsa-Triage&quot; tag will allow identification of Tier 2/3 triaged issues for identification and reporting purposes.
@@ -57,7 +57,7 @@ VSA Tier 3 support would be contacted in the event the VSP Tier 1 team cannot re
 
 ## VSA Triage Process Workflow
 
-1. Once the ticket/issue has been received by the Product Manager, they will coordinate with the team resources to resolve the issue. The issue will be managed according to the VSP process detail on the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
+1. Once the ticket/issue has been received by the Product Manager, they will coordinate with the team resources to resolve the issue. The issue will be managed according to the VSP process detail in the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
 2. Depending on the severity of the issue, the PM will determine whether the current sprint (tickets and goals) need to be adjusted.
 3. Triage Severity Assessment - Issue Escalation Process
   1. In the case of critical production issues (definitions are found in Table 3 below), the sprint will be immediately adjusted and resources will be pulled into the Triage effort.  A new story will be immediately written (if necessary) and put into the sprint.
