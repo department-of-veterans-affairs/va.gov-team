@@ -16,8 +16,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - TBD
 ```
 ### 1. Prepare "View My Rated Disabilities" to be code complete
-- Obtain, test and implement TCDR endpoint
-- Test TCDR in frontend on staging
+- Assuming no enterprise blockers, test all required Rated Disabilities functionality in staging
 - Schedule final reviews required to launch (Content/IA {mockups}, 508 {staging}, Security {staging})
 - Review the launch checklist and make sure the feature meets all requirements
   - Note that we will not be turning off any functionality in EBN or doing any comms around this feature.
@@ -26,7 +25,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Design: Based on user feedback develop mockups for review
 - Design: Establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
 - Frontend: Frame the View Dependents function per existing mockups in staging
-- Eng: Investigate document remaining errors that are currently in staging for Dependents
+- Eng: Investigate and document in GitHub remaining errors that are currently in staging for Dependents
 - Eng: Technical discovery on state of existing endpoints, begin plan for requesting BGS service updates  
   - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393  
   - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976  
