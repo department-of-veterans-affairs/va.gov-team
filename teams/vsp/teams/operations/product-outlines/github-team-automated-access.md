@@ -46,6 +46,7 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 
 ## Hypothesis
 - Teams want fast, easy, and secure access.
+- GH teams will take out the manual steps of on/offboarding 
 - Having GH teams be the center of truth makes the most sense.
 - GH team will be more secure than our current process.
 - Even with the push away from SSH, we will be continuing to move forward because change will need to happen no matter what, and this work is already underway. The work to move from SSH to SSM will be the same amount of work if we do it now vs later. 
@@ -84,7 +85,7 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 ### Phase 1 MVP rollout GH Team SSH to VSP and VFS.
 - Setup VSP Operations as the first test group for SSH integration for accessing the internal tools and jumpboxs. 
 - Roll out to VSP Engineers and request for feedback and iterate from this point. 
-  - This group is utilizing SSH and internal tools more closely, so this would directly him pack them, so their feedback will be essential before rolling out to VFS Engineers.   
+  - This group is utilizing SSH and internal tools more closely, so this would directly inpack them, so their feedback will be essential before rolling out to VFS Engineers.   
 - Roll out to all of VSP, request feedback, and integrate.
 - Start the process of rolling out to VFS teams, by the Ops team creating a GH team on the VA repo, setting their permissions, and then giving that GH team to each team for them to manage and own. 
 
