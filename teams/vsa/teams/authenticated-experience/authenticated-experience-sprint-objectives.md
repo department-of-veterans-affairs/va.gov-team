@@ -47,7 +47,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Continue Combine Profile & Account
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-### (CURRENT) Sprint 8 (11/6 - 11/19)
+### Sprint 8 (11/6 - 11/19)
 * Direct Deposit
      * Remove "Add" functionality (#2883) if not already done
      * There is some dependency to creating the designs for ID.me &  DS Logon (#2884) whatever that dependency is let's do it this sprint.
@@ -62,7 +62,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
      * Clear the "Validate" swimlane by the end of the sprint
 
-### Sprint 9 (11/20 - 12/3)
+### (CURRENT) Sprint 9 (11/20 - 12/3)
 * Direct Deposit
    * Add "add direct deposit" functionality and and new associated analytics.  Track/measure error rates as input to next steps and actions. (#3504)
    * Finalize approach for ID.me & DS Logon and determine what design work for sprint 10 work will need to be (#2884 and #1798)
