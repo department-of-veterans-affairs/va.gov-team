@@ -40,13 +40,14 @@ Zoom will be the tool that we prefer to use.
 ## Research participants and recruitment
 
 * 16 participants (minimum of 8 required) 
-* Western PA residents that are Veterans, with some familiarity with Pittsburgh area VA facilities
+* Western PA residents that are Veterans, with some familiarity with Pittsburgh area VA facilities (e.g. they've used one at least once)
+* Note: will accept caregivers, but only up to 4
 
 We'll use Perigean recruiting, or we will recruit via the previous relationships with Pittsburgh VA facility visit if necessary. 
 
 ## When will the research take place? 
 
-### Study was delayed, timeline needs to be updated
+### Study was delayed, timeline updated
 
 ### Timeline
 This schedule is subject to completion of work on the prototype. 
