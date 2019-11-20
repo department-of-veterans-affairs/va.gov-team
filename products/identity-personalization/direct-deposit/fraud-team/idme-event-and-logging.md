@@ -1,7 +1,5 @@
 # ID.me Event & Audit Logging
 
-*ID.me proprietary and confidential*
-
 This document provides API specifications for the ID.me Event & Audit logging service. This service contains
 an API with end points that enables querying and retrieval of event logs, based on either an IP address or a
 user's UUID. Details around the service's environments, authentication mechanism and list of events available
@@ -663,4 +661,3 @@ Sample response 3
 - verification.options
 - verification.progress
 
-*ID.me proprietary and confidential*
