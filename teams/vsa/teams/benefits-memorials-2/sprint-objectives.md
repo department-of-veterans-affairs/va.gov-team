@@ -16,7 +16,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - # points over # issues
 ```
 ### 1. Medical Device Ordering Tool
-**2345 (Ordering Prosthetic Socks)**  
+**[Epic] Form 2345 (Ordering Prosthetic Socks)**  
 
 (Discovery) Fully understand and document in GitHub how form 2345 works  
 - Veteran perspective; what is the Veteran attempting to do, what steps are they taking to do that?  
@@ -30,7 +30,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 (Backend) Fully understand and document in GitHub the currently existing API endpoints and what services are being used  
 
-**2346 (Ordering Hearing Aid Batteries)**  
+**[Epic] Form 2346 (Ordering Hearing Aid Batteries)**  
 (Discovery) Fully understand and document in GitHub how form 2346 works   
 - Veteran perspective; what is the Veteran attempting to do, what steps are they taking to do that?  
 - DLC perspective, including requirements; what do they need  
