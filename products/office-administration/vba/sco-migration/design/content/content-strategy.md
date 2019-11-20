@@ -10,6 +10,8 @@ The new [Resources for Schools Page](http://www.va.gov/school-administrators) is
 
 **VA.gov content style guide:**
 - The VA.gov content style guide (https://design.va.gov/content-style-guide/) helps to ensure that all content on VA.gov is written in the same voice.  
+
+### Content approval process
 - _[Describe the content approval process for EDU]_ 
 
 ### Components
