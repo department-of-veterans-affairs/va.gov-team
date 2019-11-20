@@ -12,6 +12,7 @@
 # Executive Summary 
 - [User Problem Statement](#user-problem-statement)
 - [Solution Goals](#solution-goals)
+- [Assumptions](#assumptions)
 - [Hypothesis](#hypothesis)
 - [Requirements](#requirements)
 - [Constraints](#constraints)
