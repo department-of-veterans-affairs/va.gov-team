@@ -12,14 +12,8 @@ Each address stored in Vet360 comes with an optional Bad Address Indicator (BAI)
 4. Explore technical options for duration of how long messaging is displayed.
 5. Determine best user workflow of conveying message to the user and directing user to the best page to start the 'update address' workflow.
 
-### Discovery Activities
 
-[Technical Discovery]()
-
-[Design Discovery]()
-
-
-## Technical Discovery: Communicating to the Veteran that they have undeliverable mail and their address on file requires updating
+## Discovery: Communicating to the Veteran that they have undeliverable mail and their address on file requires updating
 
 ### The VA emails Veterans regarding information about other activities
 
@@ -31,7 +25,7 @@ This would be extremely beneficial for several reasons:
 - Shows Veterans that the VA prioritizes them and important communications by being proactive in reaching out via email
 - Would possibly alleviate some calls to the Help Center
 - Would allow the Veteran to update their address to a deliverable address in the VA's system more quickly
-- Would allow the VA to control the messaging versus waiting on the Veteran to log into VA.gov 
+- Would allow the VA to control the messaging versus waiting on the Veteran to log into VA.gov
 
 ### Would the VA consider calling Veterans to tell them they have undeliverable mail?
 

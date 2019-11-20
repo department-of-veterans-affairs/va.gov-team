@@ -3,7 +3,7 @@
 ### Product Line
 
 
-- Benefits and Memorial 2, eBenefits
+- Benefits and Memorial 2, eBenefits, Denver Logistic Center applet
 
 ### North Star
 
@@ -18,32 +18,27 @@
 ### High Level Objectives
 _What are the objectives within your product line that your product plays into?_
 
-_Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
+- Migrate the Medial Device tool on eBenefits to VA.gov.
+- Modernize the Medical Device tool.
+- Reduce the complexity associated with ordering a renew supply of hearing aids/prosthetic socks.
 
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
 
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
 
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- Reducing the complexity of authentication process for the Vets.
+- Automating the resupply ordering process to deduce work load on the DLC Call Center employees.
+- Migrating the amount of resupply ordering to the online channel offered by the DLC.
+
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
-- [Fill out here]
+- The DLC would like to see an increase of ordering through an online process and a reduction from other channels offered by DLC (Mail, Phone, Email).
+- Modernizing and simplify the Reorder process for Vets who are trying to get new hearing aid batteries and prosthetic socks.
+
 
 ### Hypotheses
 _What do you plan to do/build/create to achieve your user and business goals?_
 
-_ex: By creating more onboarding and training content, we expect teams to be more self-sufficient after they are onboarded._
-
-- [Fill out here]
+- By creating an API to link VA.gov to DLC applet, we expect a migration of resupply orders to VA.gov and a reduction of the different channels DLC offers.
