@@ -1,17 +1,16 @@
-# October 2019 Discovery Sprints
-The purpose of these discovery sprints is to get the team familiar with the current product Medical Device Tool so they have the best information possible to plan the next version of the product.
+# Pre-Discovery Sprint, October 2019
 
 ## Design [3182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3182)
 **Goal:** Gain a better understanding of how the ordering process currently works. Identify stakeholders' pain points on both the business and users' ends. Consolidate findings into presentation to instigate direction from stakeholders and inform future discovery sprint(s)
 
-**Outcome:** A research readout with findings and recommendations.
+**Outcome:** A research readout with findings.
 1. Research/Document Medical Device Ordering
 2. Create preliminary user flows for device ordering
-3. Expert evaluation of eBenefits iFrame GUI
-4. Recruit for stakeholder interview sessions/Schedule stakeholder interview sessions
+3. ~Expert evaluation of eBenefits iframe GUI~ (unable to access)
+4. ~Recruit for stakeholder interview sessions/Schedule stakeholder interview sessions~ (moved to Product)
 5. Create conversation guide for stakeholder interviews
 6. Conduct stakeholder interviews (at a minimum the team lead, PM, and designer(s) should join these sessions).
-7. Stakeholder Interview Synthesis - should be conducted as a team, led by designer.
+7. ~Stakeholder Interview Synthesis - should be conducted as a team, led by designer.~ (will happen during discovery sprint)
 8. Discovery Research Presentation (at minimum, it is expected that the designer should do a readout at design meetings & for their team. If stakeholder readouts are needed, the team lead/PM are responsible for scheduling those. Designers should also plan to do research readouts at the end-of-sprint demo.)
 
 **Research questions:**
@@ -49,6 +48,7 @@ The purpose of these discovery sprints is to get the team familiar with the curr
 3. Google Analytics reports on the tool's current usage and legacy systems.
 
 **Outcome:** A discovery readout that documents findings and recommendations.
+- Recruit for stakeholder interview sessions/Schedule stakeholder interview sessions
 - Conduct stakeholder interviews
 - Product Outline
 - Benefits and Memorials Road Map
