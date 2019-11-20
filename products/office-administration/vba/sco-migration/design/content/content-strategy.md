@@ -3,7 +3,7 @@
 
 ### Overview
 
-The new [Resources for Schools Page](http://www.va.gov/school-administrators) is based on the [VA.gov Hub page template](https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7) and follows the [VA.gov content style guide](https://design.va.gov/content-style-guide/).  The VA.gov content style guide is a valuable resource that helps to ensure that all content on VA.gov is written in the same voice.  
+The new [Resources for Schools Page](http://www.va.gov/school-administrators) is based on the [VA.gov Hub page template](https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7) and follows the VA.gov content style guide.  The [VA.gov content style guide](https://design.va.gov/content-style-guide/) is a valuable resource that helps to ensure that all content on VA.gov is written in the same voice.  
 
 ### Content approval process
 - _[Describe the content approval process for EDU]_ 
@@ -27,7 +27,7 @@ The new [Resources for Schools Page](http://www.va.gov/school-administrators) is
 - Once the School Resources page is migrated into Drupal, the Critical Callout element could be leveraged as needed. The Critical Callout only appears when a critical message needs to be communicated to the hub's audience. It is not used on all hubs. Further discussions with DSVA will be needed before this element is leveraged.
 
 **Key resources for SCOs**
--	•	This section consists of the 5 most valuable resources for School Certifying Officials: SCO Handbook, VA-ONCE, VA-ONCE Quick Reference Guide, WEAMS, Find Your ELR.
+-	This section consists of the 5 most valuable resources for School Certifying Officials: SCO Handbook, VA-ONCE, VA-ONCE Quick Reference Guide, WEAMS, Find Your ELR.
 -	These links are positioned to allow SCOs quick access to the resources they use most frequently.  
 
 
