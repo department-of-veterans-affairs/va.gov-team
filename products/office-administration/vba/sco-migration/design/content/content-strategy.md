@@ -52,7 +52,7 @@ This section consists of resources related to training that SCOs, both new and e
 
 **Upcoming events**  
 The Upcoming events section consists of upcoming conferences, events, and training webinars.
--	Displays all upcoming events andwebinars.
+-	Displays all upcoming events and webinars.
 -	The date and location are listed beneath each event title.
 -	Includes a link to the Conferences and events page.
 -	Includes a link to the Training webinars page.
