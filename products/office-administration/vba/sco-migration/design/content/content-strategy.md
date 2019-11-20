@@ -3,13 +3,7 @@
 
 ### Overview
 
-The new [Resources for Schools Page](http://www.va.gov/school-administrators) is based on the [VA.gov Hub page template](https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7) and follows the [VA.gov content style guide](https://design.va.gov/content-style-guide/).
-
-**Page template:**
-- Hub Page Template: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
-
-**VA.gov content style guide:**
-- The VA.gov content style guide (https://design.va.gov/content-style-guide/) helps to ensure that all content on VA.gov is written in the same voice.  
+The new [Resources for Schools Page](http://www.va.gov/school-administrators) is based on the [VA.gov Hub page template](https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7) and follows the [VA.gov content style guide](https://design.va.gov/content-style-guide/).  The VA.gov content style guide is a valuable resource that helps to ensure that all content on VA.gov is written in the same voice.  
 
 ### Content approval process
 - _[Describe the content approval process for EDU]_ 
