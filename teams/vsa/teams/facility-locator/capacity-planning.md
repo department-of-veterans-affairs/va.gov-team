@@ -7,7 +7,8 @@
 ### Additional out of office
     - Michelle: November 29
     - Aricka: November 22, 27-29
-    - Dave: November 29
+    - Dave: November 22 (PM), November 29
+    - Lance: November 29
 
 
 ## December 2019
