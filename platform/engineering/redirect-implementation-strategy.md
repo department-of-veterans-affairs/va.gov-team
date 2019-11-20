@@ -1,8 +1,8 @@
 # Redirect Implementation Strategy [DRAFT]
 
-Created by: Mikki Northuis, Megan Kelley _(Wyatt, Nick, please add your name here when you’ve taken a look, made edits you want to make, and are ready to give this doc a thumbs up!)_
+Created by: Mikki Northuis, Megan Kelley, Wyatt Walter, Nick Sullivan
 
-Last updated: 11/12/19
+Last updated: 11/20/19
 
 ---
 
@@ -30,7 +30,7 @@ As a veteran, I want to make sure that my old www.something.va.gov or www.va.gov
 **The following subdomains are ones where we are able to implement server-side redirects.**
 
 - pittsburgh.va.gov _VSP team is gaining access to this domain December 2019._
-- explore.va.gov _TeamSite owner implemented redirect in TeamSite_
+- explore.va.gov _Was a .NET website. VSA Public Websites implemented a full domain redirect by modifying the .NET web.config (XML file)._
 
 _Upcoming redirects for entire subdomains, planned to be done server-side in 2020._
 - www.altoona.va.gov
@@ -47,7 +47,7 @@ _Upcoming redirects for entire subdomains, planned to be done server-side in 202
 
 ## Notes on implementation by type
 
-### 1) Server-side redirects for www.va.gov 
+### 1) Server-side redirects within www.va.gov 
 
 _When to do this?_
 - This is the default, preferred path for www.va.gov/* -> www.va.gov/*
@@ -62,13 +62,12 @@ _What team is responsible?_
 - Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed.
 
 _Any other notes_
-- Note that server-side redirects are “greedy” (your browser will never load a client-side redirect if it conflicts with the server-side)
 - Level of difficulty: low
 
-### 2) Client-side redirects for www.va.gov
+### 2) Client-side redirects within www.va.gov
 
 _When to do this?_
-- We shouldn’t do this. If this type of redirect comes up, consult VSP Ops and VSA Public Websites for instruction.
+- We shouldn’t do this, because server-side redirects are the preferred method and we have the technical ability to always do these server-side. If this type of redirect comes up, consult VSP Ops and VSA Public Websites for instruction.
 
 _How does this work technically?_
 
@@ -79,14 +78,15 @@ _Any other notes_
 - The previous list of this type of redirects have been re-implemented server-side (October/November 2019). 
 - Level of difficulty: N/A
 
-### 3) Server-side redirects for non-www. subdomains
+### 3) Server-side redirects from non-www. subdomains
 
 _When to do this?_
 - Server-side redirects are preferred when we have the required technical contacts and access. For page-level redirects from subdomains, we will use client-side redirects temporarily. For redirects of entire subdomains, server-side (as outlined here) is strongly preferred/required. 
 
 _How does this work technically?_
 - Option 1: The platform team takes control of the entire subdomain. Example: pittsburgh.va.gov (traffic to pittsburgh.va.gov hits the VA gateway, is routed to other servers, where a server-side permanent redirect is put in place that forwards the traffic along to a www.va.gov route and our servers)
-- Option 2: A TeamSite owner implements the redirect in TeamSite. Example: explore.va.gov
+- Option 2: For a .NET website, modify the .NET web.config (XML file). Example: explore.va.gov
+- Option 3(?): Can a server-side redirect be implemented in TeamSite?
 
 _What team is responsible?_
 - Collaboration between VSP Ops, DEPO, and whatever veteran-facing team is requesting the redirect, if applicable (such as VSA facility pages). 
@@ -102,7 +102,7 @@ _When to do this?_
 - When a page-level redirect is needed on a non-www. subdomain when we don’t have a technical or TeamSite contact to help us implement that server-side, and when the redirect needs to happen before such contact can be made.
 
 _How does this work technically?_
-- [Vets-website domains list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json) (may or may not be comprehensive).
+- [Vets-website domains list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json) (This is a list of domains that load our header/footer, but is not comprehensive of domains that load our JavaScript).
 - [Client-side redirects file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/redirects/disabilityRedirects.json)
 
 1. A request comes in for benefits.va.gov, which lives on a server located on Mars
@@ -118,7 +118,7 @@ _What team is responsible?_
 - Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed.
 
 _Any other notes_
-- This is not ideal, as it depends on the header/footer loading correctly in order for a user to be redirected properly. It also depends on the legacy page staying live (we suspect the legacy page can be archived but not deleted from TeamSite; that needs to be validated). Should be considered temporary solution.
+- This is not ideal, as it depends on our JavaScript running correctly in order for a user to be redirected properly. It also depends on the legacy page staying live (we suspect the legacy page can be archived but not deleted from TeamSite; that needs to be validated). Should be considered temporary solution.
 - Level of difficulty: low
 
 
@@ -134,3 +134,4 @@ _Any other notes_
 - Implement server-side www.va.gov/ redirects in Drupal CMS.
 - Document prefix vs. match implementation and where redirects are stored (to be linked in this document). 
 - Investigate Gateway redirects as another option.
+- Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for non-www
