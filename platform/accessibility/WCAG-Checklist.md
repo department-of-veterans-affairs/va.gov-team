@@ -1,4 +1,4 @@
-# WCAG Checklist - In Progress
+# WCAG Checklist _(Work-in-Progress)_
 
 Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practices (marked with “*SHOULD*”)
 *(Based on https://www.jenstrickland.design/talks/design4performance-a11y/resources/WCAG_Checklist.pdf)*
