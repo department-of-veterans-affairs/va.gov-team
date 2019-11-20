@@ -29,7 +29,7 @@ _If you use the Zenhub Chrome [extension](https://chrome.google.com/webstore/det
 
 *   **Change status** of the **linked issue** to **validate**
 
-## Run tests and compliance scans
+### Run tests and compliance scans
 
 *   **Jenkins** automatically **builds** and **runs all tests** your feature branch:
     *   when the pull request is created
@@ -40,7 +40,7 @@ _If you use the Zenhub Chrome [extension](https://chrome.google.com/webstore/det
 
 _See [Run Tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/test) to run these tests locally_
 
-## Manually test change
+### Manually test change
 
 Manual testing can involve some separate things:
 
@@ -51,7 +51,7 @@ Manual testing can involve some separate things:
 
 _**The person making the change is responsible** for ensuring the change is adequately tested. Testing can include automated tests or manual testing by stakeholders on the review instance or staging build._
 
-### Review instance automatic creation
+#### Review instance automatic creation
 
 **Jenkins** automatically **deploys** two remote **review instances** of a **feature branch** when a pull request is created:
 
@@ -67,7 +67,7 @@ After a pull request is created, **Jenkins** will automatically **rebuild** thes
 
 _You will need your browser configured to access the vetsgov-internal domain via the SOCKS proxy. Please see the [2\. Access internal tools](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/internal-tools) for detailed instructions._
 
-### Review instance manual creation
+#### Review instance manual creation
 
 **Jenkins** can be **manually triggered** to build a **review instance**.
 
@@ -78,15 +78,13 @@ _You will need your browser configured to access the vetsgov-internal domain via
 
 _A Jenkins job will run periodically and remove review instances for which the source branches no longer exist. To ensure that your instance is cleaned up appropriately, just delete the branch from the origin repository._
 
-## Post Pull Request Checklist
-   - [ ] Make sure there is at least an Issue attached to the Pull Request
-   - [ ] Make sure that all the items in the Definition of Done section have been completed 
-
-## Peer review and merge
+### Peer review and merge
 
 *   Get at least one **pull request approval** from a peer
 *   It is recommended not to merge at the end of the day or right before the weekend unless necessary.
 *   [Squash your commits](https://github.blog/2016-04-01-squash-your-commits/) and **merge** into **master**
 *   **Delete** pull request branch
 
-_See the VA's [platform code review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a33e322c34798b6bbd863eeceb888c0420114c2c/platform/engineering/code_review_guidelines.md) for details on how code review work and what needs to be checked._
+## Post Pull Request Checklist
+   - [ ] Make sure there is at least an Issue attached to the Pull Request
+   - [ ] Make sure that all the items in the Definition of Done section have been completed 
