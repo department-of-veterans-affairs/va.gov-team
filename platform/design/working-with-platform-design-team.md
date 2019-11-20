@@ -61,14 +61,14 @@ VFS teams should schedule a design review session when the complete and final bu
 ## <a id="whentorequest"></a>Design Check-ins and Reviews
 **There are 2 types of design reviews:**
 1. Design intent check-in 
-2. Design Review
+2. Design review
 
 ### <a id="designintent"></a>Design Intent Check-in
 **When to request a design intent check-in:**  
-Before any high-fidelity designing takes place to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
-Your designs can be in the early stages like whiteboard or pencil sketches/low-fidelity or more built out, for example, mockups or prototypes. 
-- Don’t feel like you have to have everything perfect. We have an iterative design culture and we’re encouraged to give feedback early and often. 
-- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general requirements on your designs you should check before our meeting, but don’t stress out on parts of the design that aren’t totally fleshed out yet. 
+We recommend to request a design intent check-in before any high-fidelity designing takes place. This is the chance to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
+Your designs should be in the early stages, like low-fidelity whiteboard or pencil sketches and/or wireframes.
+- Everything doesn’t need to be perfect. We have an iterative design culture and encourage feedback early and often.
+- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general areas of discussion we may cover before the meeting. Don’t stress out on parts of the design that aren’t totally fleshed out yet, the goal in this meeting is to confirm the overall direction and make sure you are putting your energy into the most impactful design problems.
 
 **How to request a design intent check-in:**
 These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
