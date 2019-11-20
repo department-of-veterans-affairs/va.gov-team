@@ -17,9 +17,9 @@ Resources for schools is a one-stop shop for School Certifying Officials (SCOs) 
 
 
 #### Latest announcements from VA
-**[10/1/2019—Release of revised School Certifying Official Handbook](https://www.benefits.va.gov/gibill/news.asp)**   
-**[9/19/2019—VA now serving as State-Approving Agency for California](https://www.benefits.va.gov/gibill/news.asp)**    
-**[9/10/2019—Yellow Ribbon Program information available for 2019-2020 academic year](https://www.benefits.va.gov/gibill/news.asp)**  
+**[MM/DD/YYYY—Title of announcement](https://www.benefits.va.gov/gibill/news.asp)**   
+**[MM/DD/YYYY—Title of announcement](https://www.benefits.va.gov/gibill/news.asp)**    
+**[MM/DD/YYYY—Title of announcement](https://www.benefits.va.gov/gibill/news.asp)**  
 
 [See past announcements…](https://www.benefits.va.gov/gibill/news.asp)  
 
@@ -90,14 +90,14 @@ TTo gain access to VA-ONCE, start the MOU online, print it, and gather the appro
 
 ## Upcoming events {H2} 
 
-**[Arizona Veterans Program Association-2019 fall mini-conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)   
-November 1, 2019—Mesa, AZ**
+**[Title of event >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)   
+Month DD, YYYY—City, State abbreviation**
 
-**[Oklahoma Veterans Education Specialists Association (OVESA) fall conference >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  
-November 4–6, 2019—Stillwater, OK**
+**[Title of event >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  
+Month DD-DD, YYYY—City, State abbreviation**
 
-**[VBA Education Service 1st quarterly webinar >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
-December 19 & 20, 2019—Online** 
+**[Title of event >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)  
+Month DD & DD, YYYY—Online** 
 
 See full list of [Conferences and events](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp)  |  [Training webinars](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)   
 
