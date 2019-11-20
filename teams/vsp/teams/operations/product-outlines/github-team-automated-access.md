@@ -33,6 +33,8 @@
 We are setting GitHub at the center of user management by using GitHub teams for role/access management, where team changes trigger an external service to provision both AWS IAM users and SSH keys for SOCKS to completely automate onboarding. 
 
 ## User Problem Statement
+The process for access is very manual and time-intensive for both VSP Operations and the users requesting access. Right now, to get access, a user needs to follow instructions and fill out a ZH issue. The issue needs to have a member of the VSP tag DEPO for review. Then once approved, the user will be added to very confusing Ansible groups that are maintained by three different Infrastructure teams. To be granted access, it takes at a minimum of about one sprint for a user to gain access.
+
 _"As a VFS or VSP team member, I want to see an easy, fast, and secure onboarding experience with little to no manual steps, so that I can quickly get the tools I need to start helping Veterans on VA.gov."_
 
 ## Solution Goals
@@ -44,15 +46,17 @@ _VFS or VSP team members have instant access once they are approved and their GH
 ### Business Goals
 _Access is not a barrier or burden for any team developing on VA.gov_
 
-## Hypothesis
+## Assumptions
 - Teams want fast, easy, and secure access.
-- GH teams will take out the manual steps of on/offboarding 
 - Having GH teams be the center of truth makes the most sense.
-- GH team will be more secure than our current process.
 - Even with the push away from SSH, we will be continuing to move forward because change will need to happen no matter what, and this work is already underway. The work to move from SSH to SSM will be the same amount of work if we do it now vs later. 
-- Onboarding and Offboarding will be easier and more reliable than the current process. 
 - Giving teams control of their own access, will empower them to make the right chose for them and be actively owning their team access.
+- Onboarding and Offboarding will be easier and more reliable than the current process. 
   - They will also maintain their GH team by adding and removing users when new members come and go.
+  
+## Hypothesis
+- GH teams will take out the manual steps of on/offboarding 
+- GH team will be more secure than our current process.
 - Tightening permission per each team will allow new team members to have access on day 1.
 
 ## Requirements  
