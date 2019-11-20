@@ -1,4 +1,4 @@
-# Inclusive Design Techniques
+# Inclusive Design Guidelines
 
 * Make text as readable as possible
   * Don’t overuse caps. Full-caps can be difficult to read and misinterpreted by screen readers.
