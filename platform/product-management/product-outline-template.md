@@ -15,7 +15,13 @@
  
 ## User Goals
 
+- Why would a user use this?
+- What should they be able to do/achieve now that they couldn't before?
+
 ## Business Goals
+
+- Why would your business want this to exist?
+- What should the business be able to do/achieve now that they couldn't before?
 
 ## Assumptions
 
