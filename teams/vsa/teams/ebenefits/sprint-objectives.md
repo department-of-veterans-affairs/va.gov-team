@@ -24,14 +24,13 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ### 2. Continue discovery on "Dependents"
 - Design: Based on user feedback develop mockups for review
-- Design: establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
+- Design: Establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
+- Frontend: Frame the View Dependents function per existing mockups in staging
 - Eng: Investigate document remaining errors that are currently in staging for Dependents
 - Eng: Technical discovery on state of existing endpoints, begin plan for requesting BGS service updates  
   - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393  
   - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976  
 
-### 3. Stretch Goal: View Dependents (that are on my Compensation Award) Functionality
-- Frame the View Dependents function per existing mockups in staging
 
 ## Sprint 8 (11/6 - 11/19)
 ```diff 
