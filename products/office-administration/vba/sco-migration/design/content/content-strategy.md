@@ -3,7 +3,7 @@
 
 ### Overview
 
-The new Resources for Schools Page (http://www.va.gov/school-administrators) is based on the VA.gov Hub page template and follows the VA.gov content style guide.
+The new [Resources for Schools Page](http://www.va.gov/school-administrators) is based on the VA.gov Hub page template and follows the [VA.gov content style guide](https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7).
 
 **Page template:**
 - Hub Page Template: https://app.moqups.com/Rnc4BDEKrA/view/page/a8b9b0da7
