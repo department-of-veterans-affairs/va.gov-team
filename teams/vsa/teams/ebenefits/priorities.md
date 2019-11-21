@@ -8,7 +8,7 @@
 | ---- | ------- | ----------- |
 | Status | View Rated Disabilities | View my current disability rating for each contention, and my combined disability rating. |
 | Status | View Dependents | View the dependents the VA has on record for me, and see if those dependents are on my Compensation award. |
-| Form | Update Dependents | (Form 686c and others) Add, remove, and update dependent information. |
+| Form | Update Dependent Benefits | (Form 686c and 674) Add, remove, and update dependent information. |
 | Status | View Representative/ POA | View my current representative/ POA. |
 | Form | Add or Update Representative/ POA | (Form 21-22) I can search for a VSO, attorney, or agent, and add that person to my profile. |
 | Status | View Payment History | View my VA payments (for all integrated systems). |
