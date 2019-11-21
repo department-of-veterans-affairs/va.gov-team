@@ -36,7 +36,7 @@ We support designers by providing resources and guidance to enable them to creat
 - Provide resources for planning, recruiting, facilitating, and synthesizing research when you’re ready to conduct user research (discovery or usability).
 - Design intent check-ins for an early mock, prototype, or flow before conducting usability testing **(this is required)**
 - Identify design system components and patterns that are most appropriate for what your team is designing
-- Conduct design reviews on prototypes or static screens, and when the designs have been built on staging (coded, interactive flows) **(this is required)**
+- Conduct a pre-usability testing design review on prototypes or static screen, and a design QA review when the designs have been built on staging (coded, interactive flows) **(these are required)**
 - Hold reviews and check-ins as needed when the design team iterates based on user feedback, new requirements, etc.
 
 ## <a id="bestpractices"></a>VA.gov design resources
@@ -47,21 +47,22 @@ We support designers by providing resources and guidance to enable them to creat
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers "508, Accessibility, and Inclusive Design Best Practices")
 
 ## <a id="whentorequest"></a>When to request a VSP design review
-You can engage with the VSP Design team anytime throughout the design process. We strongly recommend  that you reach out earlier rather than later so we can give our input before development. After development and when the complete and final build is on staging, a design QA review will be scheduled. Instructions on how to request a design QA review is in the next section. 
+Before you get started, please plan ahead of time on how you will use VSP design resources at the beginning, middle, and end of your project. We strongly recommend that you reach out earlier rather than later so we can give our input before development (through a design intent check-in and a pre-usability testing design review). After development and when the complete and final build is on staging, a design QA review will be scheduled. We expect at this stage, the designs should be polished and previously reviewed by the team. Instructions on how to request a design QA review is in the next section.
 
 **When performing user research**   
-We can help facilitate user research, review research plans and conversation guides, and help connect you with the recruiting team.
+We can help facilitate user research, review research plans and conversation guides, and help connect you with the recruiting team. (Lauren Alexanderson is your primary contact/resource for getting your research plan and conversation guide approved)
 
 **To review designs and/or prototypes**    
-VFS teams can schedule a design review on work in progress or prototypes that you’re planning on testing. 
+VFS teams can schedule a pre-usability testing design review on work in progress or prototypes.
 
 **After development** .   
-VFS teams should schedule a design review session when the complete and final build is on staging.
+VFS teams should schedule a design QA review session when the complete and final build is on staging.
 
-## <a id="whentorequest"></a>Design Check-ins and Reviews
-**There are 2 types of design reviews:**
-1. Design intent check-in 
-2. Design review
+## <a id="whentorequest"></a>Design reviews
+**There are 3 types of design reviews:**
+1. **Design intent-check in** is conducted in the early stages of a project and provides direction, feedback, research assistance. 
+2. **Pre-usability testing design review** is conducted when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts.
+3. **Design QA review** is conducted when design is on staging and provides a final look through of the built-out design. Ideally design is polished and discussed previously through prior reviews. We don't want to be making any major design changes at this stage. 
 
 ### <a id="designintent"></a>Design Intent Check-in
 **When to request a design intent check-in:**  
@@ -71,12 +72,16 @@ Your designs should be in the early stages, like low-fidelity whiteboard or penc
 - Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general areas of discussion we may cover before the meeting. Don’t stress out on parts of the design that aren’t totally fleshed out yet, the goal in this meeting is to confirm the overall direction and make sure you are putting your energy into the most impactful design problems.
 
 **How to request a design intent check-in:**
-These reviews are informal. You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
-- During the meeting you can provide full context on your design and we can talk through any suggestions or feedback during the meeting and after.
+You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
+- During the meeting you can provide full context on your design  and we can talk through any suggestions or feedback during the meeting and after.
 
 ### <a id="designreviews"></a>Design Reviews
-**When to request a Design Review:**
-VFS teams should schedule the Design Review when the designs are ready to be tested with users (prototypes or static screens), and when the designs have been built on staging (coded, interactive flows). You should be having at least 2 Design Reviews with the platform design team for each project, and they should not wait until the product is ready to launch.
+
+**When to request a pre-usability testing design review:**
+VFS teams should schedule the design review when the designs are ready to be tested with users (prototypes or static screens)
+
+**When to request a design QA review:**
+VFS teams should schedule the design QA review when designs have been built on staging (coded, interactive flows).
 
 **<a id="howtorequest"></a>How to request a VSP design review**
 
