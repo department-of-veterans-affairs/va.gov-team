@@ -60,7 +60,7 @@ VFS teams should schedule a design QA review session when the complete and final
 
 ## <a id="whentorequest"></a>Design reviews
 **There are 3 types of design reviews:**
-1. **Design intent-check in** is conducted in the early stages of a project and provides direction, feedback, research assistance. 
+1. **Design intent-check in** is conducted in the early stages of a project and provides direction, feedback, and research assistance. 
 2. **Pre-usability testing design review** is conducted when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts.
 3. **Design QA review** is conducted when design is on staging and provides a final look through of the built-out design. Ideally design is polished and discussed previously through prior reviews. We don't want to be making any major design changes at this stage. 
 
