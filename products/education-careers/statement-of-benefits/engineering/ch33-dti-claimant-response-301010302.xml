@@ -1,0 +1,34 @@
+
+<v1:getClaimantResponse xmlns:v1="http://www.va.gov/ch33/services/Claimant/data/v1">
+    <return>
+        <Person>
+            <vaFileNumber>301010302</vaFileNumber>
+            <dataSource>ManualEntry</dataSource>
+            <socialSecurityNumber>301010302</socialSecurityNumber>
+            <firstName>Tom</firstName>
+            <lastName>Cruise</lastName>
+            <middleName>N</middleName>
+            <gender>Male</gender>
+            <sensitivityLevel>0</sensitivityLevel>
+            <educationLevel/>
+            <station>Central Office Washington, DC</station>
+            <dateOfBirth>1977-10-01-04:00</dateOfBirth>
+        </Person>
+        <EligibilityResults>
+            <totalServicePeriod>1462</totalServicePeriod>
+            <totalAggregateQualifyingDays>1462</totalAggregateQualifyingDays>
+            <totalAggregateTrainingDays>0</totalAggregateTrainingDays>
+            <totalAggregateExclusionDays>0</totalAggregateExclusionDays>
+            <activeDuty>false</activeDuty>
+            <servedAfter09102001>false</servedAfter09102001>
+            <over90AndHonorable>false</over90AndHonorable>
+            <over30ConsecutiveDisabled>false</over30ConsecutiveDisabled>
+            <veteranIsEligible>false</veteranIsEligible>
+        </EligibilityResults>
+        <EntitlementResult>
+        <usedEntitlement>0</usedEntitlement>
+        <remainingEntitlement>0</remainingEntitlement>
+        </EntitlementResult>
+        
+    </return>
+</v1:getClaimantResponse>
