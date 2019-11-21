@@ -4,7 +4,7 @@ This VSA Process is currently a subset of the base-process defined by VSF and fo
    
    ## Pre Pull Request Checklist
    - [ ] Make sure there is an Issue for your Pull Request
-   - [ ] If this is a new product make sure that the [VSA QA process](../qa/vsa-qa-process.md) have been completed 
+   - [ ] If this is a new product make sure that the [VSA QA process](../qa/vsa-qa-process.md) has been started \[with at least Step 3 completed]. 
    
    ## Pull Request Process
 *   **Pull master** and **push feature branch** to `vets-website` repository
@@ -86,5 +86,4 @@ _A Jenkins job will run periodically and remove review instances for which the s
 *   **Delete** pull request branch
 
 ## Post Pull Request Checklist
-   - [ ] Make sure there is at least an Issue attached to the Pull Request
-   - [ ] Make sure that all the items in the Definition of Done section have been completed 
+   - [ ] Make sure that all the items in the Definition of Done section have been completed
