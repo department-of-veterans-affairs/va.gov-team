@@ -107,10 +107,10 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 
 ## KPIs
 ### Objective
-- All users on the platform should be working on the platform.
-### Tracking
-- How long it takes users to be onboarded and offboarded.
+- All VSP and VFS users that should have access developing on VA.gov do have access.
 
+### Tracking
+- How long it takes users to be granted access and access to be removed.
 ---
 
 # Implementation Information
