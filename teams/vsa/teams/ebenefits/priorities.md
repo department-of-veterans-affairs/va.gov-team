@@ -13,6 +13,7 @@
 | Form | Add or Update Representative/ POA | (Form 21-22) I can search for a VSO, attorney, or agent, and add that person to my profile. |
 | Status | View Payment History | View my VA payments (for all integrated systems). |
 | Platform | Support User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
+| eFolder | View My Documents | I can view and download documents I have uploaded to my VA eFolder. |
 | Status | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
 | Discovery | Document SEP Features | Develop exhaustive documentation for SEP features and roles, and develop roadmap for transforming those services to va.gov. |
 
@@ -20,7 +21,6 @@
 
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
-| eFolder | View My Documents | I can view and download documents I have uploaded to my VA eFolder. |
 | Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate my VA Home Loan benefit and apply for a Certificate of Eligibility. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
 | Form | Apply for Specially Adapted Housing Grant | (Form 26-4555) I can apply for Specially Adapted Housing benefits. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
 | Form | Vocational Rehabilitation Benefits & Counseling | (Forms 1900 and 8832) I can apply for VR&E benefits. |
