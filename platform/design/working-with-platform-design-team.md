@@ -5,8 +5,7 @@ This document helps all teams working on VA.gov understand when you should engag
 
 - [What VSP design does](#whatdoesVSPdesigndo)
 - [VA.gov design resources](#bestpractices)
-- [When to request a VSP design review](#whentorequest)
-- [How to request design reviews](#howtorequest)
+- [Design reviews](#whentorequest)
 - [Other ways to get VSP design feedback](#otheropportunities)
 - [Things to keep in mind when designing on VA.gov](#designguidelines)
 - [Contact VSP design](#questions)
@@ -45,9 +44,6 @@ We support designers by providing resources and guidance to enable them to creat
 - [How we UX](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/NewDesigners/UXOnboarding.md#in-general "How we UX")
 - [Form design process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Design%20Resources/form-design-process.md "Form design process")
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers "508, Accessibility, and Inclusive Design Best Practices")
-
-## <a id="whentorequest"></a>When to request a VSP design review
-Before you get started, please plan ahead of time on how you will use VSP design resources at the beginning, middle, and end of your project. We strongly recommend that you reach out earlier rather than later so we can give our input before development (through a design intent check-in and a pre-usability testing design review). After development and when the complete and final build is on staging, a design QA review will be scheduled. We expect at this stage, the designs should be polished and previously reviewed by the team.
 
 ## <a id="whentorequest"></a>Design reviews
 **There are 3 types of design reviews:**
