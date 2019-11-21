@@ -82,15 +82,12 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
    
 
 ### Sprint 10 (12/4 - 12/17)
+- Address validation — Are we ready for QA
 * Continue Bad Address Indicator
-* Continue Combine Profile & Account
-* Continue Beta Program
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
 * Launch Bad Address Indicator and move to monitor mode 
-* Continue Combine Profile & Account
-* Continue Beta Program
 * Start Sign-In Page
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
