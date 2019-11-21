@@ -2,7 +2,7 @@
 
 ## Implementation Strategy
 
-The VSA will assign the Product Owners as the Tier 2  support with an SME for each team as Tier 3 support.
+The VSA will assign the Product Managers (PMs) as the Tier 2 support with an SME for each team as Tier 3 support.
 
 ## Triage and Support
 
