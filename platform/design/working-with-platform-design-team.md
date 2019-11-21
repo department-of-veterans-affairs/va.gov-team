@@ -24,7 +24,7 @@ VSP Design serves as a centralized design support team for all VFS teams, includ
 **During the design and build phases**
 - Your team will use the [sketch pattern library](https://design.va.gov/documentation/designers "sketch pattern library") to quickly design screen mockups in Sketch.  
 - Your team can work from our research guides for usabilty testing, and update your content and features based on what you learn.
-- The team will have 2 [Design Reviews](#designreviews) as you build out your flows
+- The team will schedule [Design Reviews](#designreviews) as you build out your flows
 
 ## <a id="whatdoesVSPdesigndo"></a>What VSP design does
 We support designers by providing resources and guidance to enable them to create excellent Veteran-centered experiences. 
