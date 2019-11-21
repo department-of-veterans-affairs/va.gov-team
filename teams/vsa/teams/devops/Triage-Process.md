@@ -35,7 +35,7 @@ VSA Tier 2 support involves the primary POCs for each product group.  The Produc
 | Authenticated Experience | Justin Pickett | jpickett@governmentcio.com| (405) 808-6419 | vsa-authenticated-exp, vsa-Triage |
 | Benefits and Memorials 1 | Yana Roy | yroy@governmentcio.com| (732) 822-1200 | vsa-benefits, vsa-Triage |
 | eBenefits | Jason Wolf | jwolf@governmentcio.com| (540) 250-5217 | vsa-ebenefits, vsa-Triage |
-| Facility Locator | Michelle Middaugh | michelle.middaugh@adhocteam.us|  | vsa-facilities, vsa-Triage |
+| Facility Locator | Michelle Middaugh | michelle.middaugh@adhocteam.us| (208) 659-9368 or (509) 838-7491 | vsa-facilities, vsa-Triage |
 | Benefits and Memorials 2 | Nicolaus Wygonik | nwygonik@governmentcio.com|  | vsa-benefits-2, vsa-Triage |
 | Medical Center Sites | Stan Gardner | sgardner@governmentcio.com| (775) 772-1409 | vsa-medical-sites, vsa-Triage |
 
