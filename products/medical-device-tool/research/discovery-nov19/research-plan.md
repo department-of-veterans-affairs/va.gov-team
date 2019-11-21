@@ -6,9 +6,9 @@
 2. Background: **This product is a migration and modernization of the hearing aid battery and prosthetic sock ordering functionality that currently exists as an iframed applet on eBenefits. With eBenefits being sunsetted and the DLC’s interest in increasing adoption of online ordering to reduce call center workload, we’re tasked with designing a new online ordering experience that will be simpler for Vets and less overhead for the DLC.**
 3. Research questions:
     - Why do Veterans choose one ordering method over the other?
-    - Are they consistently using the same methods? Why change?
-    - Why is the online method underutilized by Veterans?
-    - Is there significant interest in ordering through VA.gov?
+      - Are they consistently using the same methods? Why change?
+      - Why is the online method underutilized by Veterans?
+      - Is there significant interest in ordering through VA.gov?
     - What pain points are Veterans experiencing when ordering resupply items today?
     - What resupply needs do Veterans have that are not being filled currently?
     - What is the average timeframe it takes for an order to be received? 
