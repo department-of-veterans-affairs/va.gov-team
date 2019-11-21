@@ -8,7 +8,7 @@ The VSA will assign the Product Owners as the Tier 2  support with an SME for ea
 
 ### Tier 1 Support (VSP)
 
-The VSP BE Tools team (previously named the "Triage" team) (Tier 1) in coordination with the oncall team will log in any defect reported on the production version of our products and provide Tier 1 support.
+The VSP BE Tools team (previously named the "Triage" team) (Tier 1) in coordination with the on-call team will log in any defect reported on the production version of our products and provide Tier 1 support.
 
 #### Tier 1 Process Details
 
