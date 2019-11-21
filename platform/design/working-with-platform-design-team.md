@@ -47,16 +47,7 @@ We support designers by providing resources and guidance to enable them to creat
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers "508, Accessibility, and Inclusive Design Best Practices")
 
 ## <a id="whentorequest"></a>When to request a VSP design review
-Before you get started, please plan ahead of time on how you will use VSP design resources at the beginning, middle, and end of your project. We strongly recommend that you reach out earlier rather than later so we can give our input before development (through a design intent check-in and a pre-usability testing design review). After development and when the complete and final build is on staging, a design QA review will be scheduled. We expect at this stage, the designs should be polished and previously reviewed by the team. Instructions on how to request a design QA review is in the next section.
-
-**When performing user research**   
-We can help facilitate user research, review research plans and conversation guides, and help connect you with the recruiting team. (Lauren Alexanderson is your primary contact/resource for getting your research plan and conversation guide approved)
-
-**To review designs and/or prototypes**    
-VFS teams can schedule a pre-usability testing design review on work in progress or prototypes.
-
-**After development** .   
-VFS teams should schedule a design QA review session when the complete and final build is on staging.
+Before you get started, please plan ahead of time on how you will use VSP design resources at the beginning, middle, and end of your project. We strongly recommend that you reach out earlier rather than later so we can give our input before development (through a design intent check-in and a pre-usability testing design review). After development and when the complete and final build is on staging, a design QA review will be scheduled. We expect at this stage, the designs should be polished and previously reviewed by the team.
 
 ## <a id="whentorequest"></a>Design reviews
 **There are 3 types of design reviews:**
