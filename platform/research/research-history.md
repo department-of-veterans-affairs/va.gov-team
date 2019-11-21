@@ -12,13 +12,50 @@ This does not include research for Appeals projects, which is stored in differen
 
 __Please note that many links on this page reference research folders in the vets.gov-team GitHub repo. These links will be updated as work on migrating documentation to va.gov-team repo progresses.__
 
+### December 2019
+
+#### VAOS UAT Phase II
+*VA: Lauren Alexanderson*
+- 30 participants 
+- Research plan
+
+### November 2019
+
+#### November 18 - 27: VAOS UAT Phase I (View Only) 
+*VA: Lauren Alexanderson*
+- 25 participants
+
+#### November 18 - 26: Benefits Rated Disabilities / View Dependents Usability Testing
+*GovCIO: James Adams*
+- 15 participants 
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md)
+
+#### November 18 - 26: Design System GI Bill Learn More Component Testing 
+*AdHoc: Emily Waggoner*
+- 10 participants 
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/additional-info-tooltip-modal-usability/research-plan.md)
+
+#### November 13 - 15: Authenticated Experience/Personalization: Candidate Address - Override Usability
+*VA: Samara Strauss*
+- 5 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user%20testing/Research%20Plan.md)
 
 ### October 2019
+
+#### October 30 - November 6: Pittsburgh Global UX and Navigation 
+*VA: Kevin Hoffman*
+- 16 participants
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-plan.md)
 
 #### October 16 - 17: SCO Content Migration - Moderated Usability Testing  
 *Booz Allen: Amy Knox, Theresa McMurdo*
 - 5-6 participants
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/research/research-plan.md)
+
+#### October 4 - 8: VSA eBenefits
+*AdHoc: Aricka Lewis*
+- 10 participants
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/research-plan.md)
 
 #### October 1 - 7: DS Logon
 *Ad Hoc: Lauryl Zenobi, Evangeline Garreau*
