@@ -1,0 +1,24 @@
+# DALC Stakeholder Meeting
+## Agenda:
+
+#### Attendees: 
+Matthew Self, Nick Wygonik, Riley Orr, Rebecca Walsh, Amen Ra, Mahariel Rosario, Joseph Brothers, DALC Stakeholders
+
+#### Background:
+Our team, Benefits & Memorials 2, is working on modernizing the digital mechanism Veterans use to order medical devices. 
+Practically, this means working with Veterans to design and launch a new ordering mechanism on the VA.gov platform.
+
+#### Purpose:
+We are meeting today to meet additional members of the DALC team and gain a greater understanding of how Veterans order prosthetic socks and hearing aid batteries online, by mail, through their provider, and through the two phone line options.
+
+#### Outcomes:
+We were introduced to additional DALC stakeholders that can interface with both the design team and the development team to answer questions that will influence the tool's design on VA.gov. Additionally, the stakeholders walked our team through the online ordering tool that currently exists and answered questions on both the user-facing and business-facing sides. Furthermore, the stakeholders provided a comprehensive workflow from the moment the Veteran is interested in reordering through the order being shipped through USPS. 
+
+#### Structure:
+- Introductions (3 minutes): All
+- Project/Team Overview (3 minutes): Matt
+- Medical Device Ordering Procedural Overview (40 minutes): DALC Team
+- Open Q&A (10 minutes): BAM2 Team
+- Next Steps (4 minutes): Matt
+
+## Notes:
