@@ -221,6 +221,6 @@ Yeah, if we just break it down into the credential piece, recent reorder piece, 
 
 **Would it be helpful to talk with a phone rep?**
 
-Pat: I would be happy to share information if it’s appropriate. 
+I would be happy to share information if it’s appropriate. 
 
-Kevin: As far as participants, probably Jim and myself and one other developer. I have some newer developers, so they may not have as much background but it will be good mentoring. 
+As far as participants, probably Jim and myself and one other developer. I have some newer developers, so they may not have as much background but it will be good mentoring. 
