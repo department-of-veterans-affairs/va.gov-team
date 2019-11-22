@@ -38,14 +38,13 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 ### User Goals
 - Veterans:
-  - Order **hearing aid batteries** or **prosthetic socks** from the VA
+  - Recieve **hearing aid batteries** or **prosthetic socks** from the VA
 
 - VHA Providers:
-
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
 
 - DALC Employees:
-  - Enter in orders from Vets via phone, mail, or email
+  - Enter in orders from Vets via phone, mail, or email.
 
 - Manufacturing Company:
    - TBD  
@@ -53,10 +52,10 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 - VA Managers
   - TBD
   
-### User Pain Points
+### User Pain Points (Hypotheses)
 - Veterans:
   - They are required to manually order the same item many times
-  - There are many methods to ordering devices
+  - There are too many methods to ordering devices
 
 ### Business Goals
 - To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted.
@@ -66,11 +65,16 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 ## Questions
 - Who "owns" the Medical device ordering "portfolio"?
-- We've heard that hearing aid batteries and prosthetic socks are available, what else is offered? Data on the volume/timing of orders for each available product?
+  - **DLC has their own IT division that handles all of the systems and data**
+- We've heard that hearing aid batteries and prosthetic socks are available, what else is offered? 
+  - **Many other items are available through DLC, but not by direct order from Veterans due to their complexity. An upcoming product that may benefit from a similar resupply treatment is apnea machines.**
+- Data on the volume/timing of orders for each available product?
 - How are orders processed? How long does processing take? How is the order fulfilled? Order received on paper vs. eBenefits?
+  - **For regular orders (including all eBenefits orders), processing typically takes one business day. Urgent orders are often processed same-day.**
+  - **Orders are shipped via UPS Worldship**
 - What issues do Veterans encounter trying to use the eBenefits ordering form?
 - What is https://hearing.health.mil/For-Providers/DoD-VA-Hearing-Prosthetics-Ordering-System? How does it fit? Who uses it? Audiologists? Veterans? Both?
-- The page above references Audiologists, but includes a link to https://www.va.gov/eauth/roes/, which seems to target Veterans; what's the difference between the pages/systems/processes?
+  - **ROES is an application owned by the DLC, used by clinicians to place orders for their Veteran patients. Veterans have access to a separate application that sits on top of ROES, called VOES, which can be seen via iframe on eBenefits.**
 - Heard there may be an API; what's the story there?
 - Tell us about VEText; how does it fit in?
 - How can we get access to a non-production instance of the tool on eBenefits?
@@ -93,7 +97,7 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 # Implementation Info
 
 ## Status
-Definition in-progress
+Discovery in-progress
 
 ## Technical Decisions
 
@@ -103,9 +107,9 @@ Definition in-progress
 
 - DEPO Digital Strategist(s): Matthew Self
 - Product Manager: Nick Wygoink
-- Design Lead: 
+- Design Lead: Shawna Hein
 - Eng Lead: 
-- Engineers: Amen Ra (FE), Joseph Brothers (BE)
+- Engineers: Amen Ra (FE), Mahariel Rosario (FE), Joseph Brothers (BE)
 - Designers: Rebecca Walsh, Riley Orr
    
 ## Screenshots
