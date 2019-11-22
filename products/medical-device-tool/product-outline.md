@@ -36,30 +36,32 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 ## Discovery
 
-### User Goals
+### User Goals (Assumed)
 - Veterans:
   - Recieve **hearing aid batteries** or **prosthetic socks** from the VA
+  - Automate their orders.
 
 - VHA Providers:
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
 
-- DALC Employees:
-  - Enter in orders from Vets via phone, mail, or email.
+- DLC Employees:
+  - Enter in orders from Vets via phone, mail, or email
 
 - Manufacturing Company:
    - TBD  
 
-- VA Managers
+- VA/DLC Managers
   - TBD
   
-### User Pain Points (Hypotheses)
+### User Pain Points (Assumed)
 - Veterans:
   - They are required to manually order the same item many times
   - There are too many methods to ordering devices
 
-### Business Goals
-- To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted.
-- (??) To reduce the number of order-related errors
+### Business Goals (Assumed)
+- To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted
+- To increase the number of online order submissions, thereby reducing the amount of manual work required by call center agents
+- To reduce the number of order-related errors
 
 ## Assumptions
 
