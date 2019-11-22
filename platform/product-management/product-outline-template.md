@@ -11,7 +11,13 @@
 
 ---
 
-## The Problem
+## Overview
+*One sentence describing the thing you're building (once you know)*
+
+## Problem Statement
+*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this]((https://www.atlassian.com/team-playbook/plays/problem-framing) describing)*
+
+*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
 ## User Goals
 
@@ -35,17 +41,17 @@
 
 ## Current Phase Requirements
 
-#### In Scope 
+#### In Current Scope
 
-#### Out of Scope
+#### Out of Current Scope
 
 ---
 
 ## Solution Narrative
 
-## Current Status
+### Current Status
 
-## Key Decisions
+### Key Decisions
 
 ---
    
