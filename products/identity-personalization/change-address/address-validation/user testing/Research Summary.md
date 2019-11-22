@@ -1,16 +1,37 @@
-Session 1:
+# Address validation and override user testing
 
-- Add phone number to each "Invalid" screen
-- Confusion why we tell someone their address is invalid but let them choose it anyway
-- This may not be an issue with others, but the radio buttons were not clear to her. She didn't realize it as sometimes an option to choose the address she already entered. Though, I think this is an issue with how we were explaining things and not the radio button itself.
-- Probably overall, we could clarify the copy. Make it clearer what "invalid" means. Make it clearer when and why they can override the address, and when and why they can not.
+### [Research Plan]()
 
-Session 2:
+### [Conversation Guide]()
 
-- No concern or question about where address suggestions come from. Thinks it is from Google maps and didn’t mention USPS but that didn’t seem to stress him out.
-- Participant thought that the suggestions were the only possible options for him when he wanted to edit his address. He said he didn’t know how he’d edit the address without suggestions. There is some chance this would not have been as confusing if he was looking at his real address and not prototype/made up data.
-— It is unclear if he understood why we were telling him the address was invalid but we were still letting him choose it.
+## Background 
 
-Session 3:
+## Methods
 
-- Biggest concern was "Invalid" and what this means. She felt it was accusatory. Wants clearer directions on what's wrong and what needs to change with an address.
+### What We Did
+
+### Tools
+
+We conducted user testing via GoToMeeting. 
+
+### Dates
+
+We conducted interviews between (dates).
+
+### Participants
+
+We talked to **4 veterans**:
+
+- All participants received at least one benefit from the VA.
+- 2 women; 2 m3n.
+- 3 participants 55+; 1 participant under 35
+- X Navy; X Marine; X Air Force; X Army
+- X white participants; X Asian participant; X participant did not disclose their race/ethnicity
+
+## Results & Takeaways
+
+### (Takeaway 1)
+
+## Next Steps
+
+### (Step 1)
