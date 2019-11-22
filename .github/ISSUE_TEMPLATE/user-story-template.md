@@ -1,4 +1,4 @@
-**User Story:** As a [X], I need [Y] so that I can [Z].
+##User Story:## As a [X], I need [Y] so that I can [Z].
 
 **Acceptance Criteria:**
 _The requirements that must be met in order to mark this user story as completed_
