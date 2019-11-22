@@ -47,8 +47,8 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
   - [x] Determine Discovery methods needed
   - [x] Determine user research methods needed
   - [x] Determine what APIs and/or systems to investigate
-- [ ] Recruit for stakeholder research
-- [ ] Create user research plan & conversation guide
+- [x] Recruit for stakeholder research
+- [x] Create user [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md) & conversation guides ([prostheses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-prostheses.md) and [hearing aids](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md))
 - [ ] Recruit for user research
 - [ ] Determine ideal Discovery outputs and artifacts
 
@@ -74,15 +74,15 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
 
 #### How are we going to find out answers? 
   - Stakeholder Interviews:
-    - [x] A introduction call with the DLC IT Leadership
-    - [ ] An kickoff call with the greater DLC stakeholder group
+    - [x] A introduction call with the DLC IT Leadership ([11/15 Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md))
+    - [x] An kickoff call with the greater DLC stakeholder group ([11/21 Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191121-DALC-stakeholder-meeting.md))
     - [ ] A stakeholder interview with DLC Customer Service leadership
     - [ ] A stakeholder interview with DLC IT leadership
   - User Interviews:
-    - [ ] Request an interview with 6 hearing aid users and 6 prosthetic limb users to source a minimum of 6 total interviews.
+    - [ ] Request an interview with 8 hearing aid users and 8 prosthetic limb users to source a minimum of 8 total interviews.
 
 #### What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
-  - Users will benefit from us solving this problem by 
+  - Users will benefit from us solving this problem because they will be able to more easily order the assistive device accessories they need.
 
 #### Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
   - DLC IT Leadership
@@ -97,9 +97,10 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
   - TBD
 
 #### Are there any challenges or risks that will make this discovery sprint hard to complete (tricky politics, technology complications, etc.)?
-  - Stakeholders initiated on short notice may be difficult to interface with within the sprint.
+  - ~Stakeholders initiated on short notice may be difficult to interface with within the sprint.~
 
 #### What discovery artifacts will be produced from this sprint?
+  - Personas
   - User journey(s)
   - A presentation of findings with suggestion(s) for identified areas of improvement
 
