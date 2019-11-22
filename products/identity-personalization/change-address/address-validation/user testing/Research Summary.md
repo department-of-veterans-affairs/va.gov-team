@@ -54,16 +54,27 @@ We talked to **4 veterans**:
 
 #### A note about testing
 
-**WIP and not ready to be shared**
+I think we got some insights into the usability pain points in the address validation flow. However, there are some results that I think would have been different had we been testing with participants' real data and not prototype data.
+
+First, participants got hung up on choosing the "right" address in flows where we suggested addresses to them. It felt like they thought there was a right or wrong answer for which address to pick instead of understanding that the session was about evaluating the tool from a high level. I don't think we would have had this issue if we were using real data because the addresses participants' saw would have meant something to them instead of being made up, causing them to get caught up in arbitrary details.
+
+Second, participants didn't get that frustrated by being told the addresses they entered were invalid. I think this would have caused signficantly more frustration had they been using their real-life addresses instead of addresses that meant nothing to them, especially in flows where the participant could not override the "invalid" determination.
+
+We need to be mindful of how using a prototype may have affected the results, so I've noted places throughout the results where I think this may have played a role in results and reactions.
 
 ### Persisting a sign in link on the "Change your address" content page when a user is already signed in is confusing
 
 Though testing navigation to the profile was not the main focus of testing, we did ask participants to show us where they would go to change their address. We started people on the homepage, and a couple participants (P1, P2) navigated to the "Change your address" content page instead of going directly to the personlized menu. 
 
-This gave us a chance to do a small evaluation of the content page.
+This gave us a chance to do a small evaluation of the content page. One thing we noticed was this page uses subway map directions to tell you how to change your address. This means we show "Step one: Sign in to VA.gov" even when people are already signed in. This causes some confusion for users.
 
+**Recommendation**: Replace the subway map with a dynamic modal.
 
+### Participants did not know what "invalid" meant
 
+In the prototype, the screen we use to tell people that there may something wrong with their address starts "Your address update isn't valid."
+
+"Valid." No one knew what this meant. All four
 
 
 General confusion around what “invalid meant”
