@@ -55,7 +55,7 @@ _As we talk to users and learn about their experience, these questions can be ed
   - Did you ever have any doubts about how this benefit worked?
   - How would you describe this benefit to other Veterans?
 - What do you think about the benefit? 
-- In what ways, if any, do you feel this benefit is not meeting your needs for hearing aid accessories or batteries?
+- In what ways could this benefit better meet your needs for prosthetic socks?
 - How do you place orders for hearing aid batteries?
   - [if the Veteran doesn’t do it themselves] Who does it for you?
     - Why is this arrangement better for you?
@@ -68,7 +68,7 @@ _As we talk to users and learn about their experience, these questions can be ed
     - Does your order ever change?
     - How often do you find yourself placing orders?
     - How do you recall the details of the item(s) you order?
-    - How long does this take you, on average?
+    - How long does the ordering process take you, on average?
     - In what ways do you feel the experience falls short?
     - In what ways do you feel the experience is good?
     - Why do you prefer this method of ordering (over automated call, mail, or online)? 
@@ -77,7 +77,7 @@ _As we talk to users and learn about their experience, these questions can be ed
     - Does your order ever change?
     - How often do you find yourself placing orders?
     - How do you recall the details of the item(s) you order?
-    - How long does this take you, on average?
+    - How long does the ordering process take you, on average?
     - In what ways do you feel the experience falls short?
     - In what ways do you feel the experience is good?
     - Why do you prefer this method of ordering (over live agent call, mail, or online)? 
@@ -86,7 +86,7 @@ _As we talk to users and learn about their experience, these questions can be ed
     - What does your typical order look like?
     - How often do you find yourself placing orders?
     - How do you recall the details of the item(s) you order?
-    - How long does this take you, on average?
+    - How long does the ordering process take you, on average?
     - In what ways do you feel the experience falls short?
     - In what ways do you feel the experience is good?
     - Why do you prefer this method of ordering (over phone or online)?
