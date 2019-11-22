@@ -56,11 +56,15 @@ We talked to **4 veterans**:
 
 **WIP and not ready to be shared**
 
-### (Takeaway 1)
+### Persisting a sign in link on the "Change your address" content page when a user is already signed in is confusing
 
-Change address content page is confusing
- 
-— P1, P2
+Though testing navigation to the profile was not the main focus of testing, we did ask participants to show us where they would go to change their address. We started people on the homepage, and a couple participants (P1, P2) navigated to the "Change your address" content page instead of going directly to the personlized menu. 
+
+This gave us a chance to do a small evaluation of the content page.
+
+
+
+
 
 General confusion around what “invalid meant”
 
