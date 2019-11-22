@@ -2,7 +2,7 @@
 
 View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
 
-See also [the conversation guide for prostheses](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-prostheses.md)
+See also [the conversation guide for prostheses](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-prostheses.md)
 
 ## Moderator logistics
 
