@@ -120,4 +120,4 @@ Please list the people who will be serving in each role. **Include the primary p
 - Synthesis
 
 ## Approved
-- Yes/No - will update to "YES" when this is approved by Lauren Alexanderson
+- Yes this is approved by Lauren Alexanderson
