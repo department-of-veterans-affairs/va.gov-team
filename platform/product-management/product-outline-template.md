@@ -21,13 +21,13 @@
  
 ## User Goals
 
-- Why would a user use this?
-- What should they be able to do/achieve now that they couldn't before?
+- *Why would a user want to use this?*
+- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
 ## Business Goals
 
-- Why would your business want this to exist?
-- What should the business be able to do/achieve now that they couldn't before?
+- *Why would your business want this to exist?*
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Assumptions
 
