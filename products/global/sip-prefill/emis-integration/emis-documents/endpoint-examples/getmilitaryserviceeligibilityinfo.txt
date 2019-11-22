@@ -1,0 +1,58 @@
+<NS1:Envelope xmlns:NS1="http://www.w3.org/2003/05/soap-envelope">
+  <NS1:Header>
+    <NS2:essResponseCode xmlns:NS2="http://va.gov/ess/message/v1">Success</NS2:essResponseCode>
+    <NS3:inputHeaderInfo xmlns:NS3="http://viers.va.gov/cdi/CDI/commonService/v1">
+      <NS3:userId>SCH</NS3:userId>
+      <NS3:sourceSystemName>VRS</NS3:sourceSystemName>
+      <NS3:transactionId>123</NS3:transactionId>
+    </NS3:inputHeaderInfo>
+  </NS1:Header>
+  <NS1:Body>
+    <NS4:eMISmilitaryServiceEligibilityResponse xmlns:NS4="http://viers.va.gov/cdi/eMIS/RequestResponse/MilitaryInfo/v1">
+      <NS5:militaryServiceEligibility xmlns:NS5="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS6:edipi xmlns:NS6="http://viers.va.gov/cdi/eMIS/commonService/v1">1607472595</NS6:edipi>
+        <NS7:veteranStatus xmlns:NS7="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS7:title38StatusCode>V4</NS7:title38StatusCode>
+          <NS7:post911DeploymentIndicator>Y</NS7:post911DeploymentIndicator>
+          <NS7:post911CombatIndicator>N</NS7:post911CombatIndicator>
+          <NS7:pre911DeploymentIndicator>Y</NS7:pre911DeploymentIndicator>
+        </NS7:veteranStatus>
+        <NS8:dentalIndicator xmlns:NS8="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS8:dentalIndicatorSeperationDate>2007-03-31</NS8:dentalIndicatorSeperationDate>
+          <NS8:dentalIndicator>N</NS8:dentalIndicator>
+        </NS8:dentalIndicator>
+        <NS9:militaryServiceEpisodes xmlns:NS9="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS9:keyData>
+            <NS9:personnelOrganizationCode>22</NS9:personnelOrganizationCode>
+            <NS9:personnelCategoryTypeCode>V</NS9:personnelCategoryTypeCode>
+            <NS9:personnelSegmentIdentifier>1</NS9:personnelSegmentIdentifier>
+          </NS9:keyData>
+          <NS9:serviceEpisodeStartDate>2007-04-01</NS9:serviceEpisodeStartDate>
+          <NS9:serviceEpisodeEndDate>2016-06-01</NS9:serviceEpisodeEndDate>
+          <NS9:branchOfServiceCode>F</NS9:branchOfServiceCode>
+          <NS9:dischargeCharacterOfServiceCode>K</NS9:dischargeCharacterOfServiceCode>
+          <NS9:honorableDischargeForVaPurposeCode>K</NS9:honorableDischargeForVaPurposeCode>
+          <NS9:narrativeReasonForSeparationCode>033</NS9:narrativeReasonForSeparationCode>
+          <NS9:deployments>
+            <NS9:deploymentSegmentIdentifier>1</NS9:deploymentSegmentIdentifier>
+            <NS9:deploymentStartDate>2008-09-08</NS9:deploymentStartDate>
+            <NS9:deploymentEndDate>2009-04-18</NS9:deploymentEndDate>
+            <NS9:deploymentProjectCode>9GF</NS9:deploymentProjectCode>
+            <NS9:DeploymentLocation>
+              <NS9:deploymentLocationSegmentIdentifier>1</NS9:deploymentLocationSegmentIdentifier>
+              <NS9:deploymentCountryCode>AE</NS9:deploymentCountryCode>
+              <NS9:deploymentISOA3CountryCode>ARE</NS9:deploymentISOA3CountryCode>
+            </NS9:DeploymentLocation>
+          </NS9:deployments>
+          <NS9:combatPay>
+            <NS9:combatPaySegmentIdentifier>1</NS9:combatPaySegmentIdentifier>
+            <NS9:combatPayBeginDate>2008-09-08</NS9:combatPayBeginDate>
+            <NS9:combatPayEndDate>2009-04-18</NS9:combatPayEndDate>
+            <NS9:combatPayTypeCode>01</NS9:combatPayTypeCode>
+            <NS9:combatZoneCountryCode>AE</NS9:combatZoneCountryCode>
+          </NS9:combatPay>
+        </NS9:militaryServiceEpisodes>
+      </NS5:militaryServiceEligibility>
+    </NS4:eMISmilitaryServiceEligibilityResponse>
+  </NS1:Body>
+</NS1:Envelope>
