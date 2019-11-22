@@ -98,11 +98,13 @@ Again, I think this is something that didn't a lot of frustration because we wer
 
 **Recommendation**: Be more clear about why people can or can't override our initial determination that there is a problem with the address they entered.
 
-### Overall, people liked the suggestions and found them helpful
+### Overall, people found the suggested address helpful
 
-— P1, P2, P3
+Most participants (P1, P2, P3) found the suggested addresses really helpful and seemed almost dependent on them to know how to proceed forward. 
 
-Again, I think this would be less of an issue in real life when people are dealing with their real address. Participants got too hung up in testing on picking the “right” answer for testing instead of thinking of the process at a higher level.
+Again, I think this would be less of an issue in real life when people are dealing with their real address. Participants got too hung up in testing on picking the “right” answer for testing instead of thinking of the process at a higher level. If participants had entered their real addresses, they would likely be less dependent on suggestions to determine how to fix the "invalid" determination.
+
+**Recommendation**: No changes.
 
 ### People rationalized why there were no suggested addresses by thinking they typed in an address so incorrectly that there were no suggestions
 
