@@ -1,4 +1,4 @@
-# Veteran conversation guide (prosthetics)
+# Veteran conversation guide (prostheses)
 
 View the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
 See also [the conversation guide for hearing aids]()
