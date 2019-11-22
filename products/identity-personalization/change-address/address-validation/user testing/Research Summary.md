@@ -84,43 +84,27 @@ It's worth nothing that participants were not that frustrated by the fuzziness o
 
 ### People didn’t know where the suggested addresses came from, but this didn’t concern them
 
-— Google maps
-  — P1, P2
+Only one person (P3) correctly guessed that this data had anything to do with USPS (note: address validation doesn't happen through USPS, but it obviosly affects mail delivery). Others thought Google maps (P1, P2) or other local data (P4). However this didn't concern anyone. No one seemed to think this came from the VA or had any other concerns about how these suggestions were generated.
 
-— Census
-  — P1
+**Recommendation**: No changes. 
 
-— USPS
-  — P3
+### There was a lot of confusion around why people could select their original address if they weren't “valid”
 
-— Local city data
-  — P4
+Understandably, participant did not understand why we let them move forward with the original address they entered (override) if the website was telling them this address wasn't valid. A couple of participants didn't understand this at all (P1, P2) while a couple (P3, P4) did mention they think override is allowed because the site assumes the user knows best, but they still stated confusion on why this was actually allowed.
 
-There was a lot of confusion around why you could select your original address if we were telling you it was “invalid”
+However, people showed less confusion around the opposite scenario — when they were not allowed to choose the address they originally entered. They assumed this was because the original address was so incorrect that website would not let them move forward with it. Without getting into technical specifics, this is essentially correct.
 
-— P1 didn’t understand why you could select the invalid address to the point she didn’t even notice it was a possibility (open radio button).
+Again, I think this is something that didn't a lot of frustration because we were using a prototype with fake addresses. If this were real life, I think people would have not been as confused with why they could choose their original address, and I think they would have been a lot more frustrated when we restricted override.
 
-— P2 also didn’t understand why you could select an invalid address.
+**Recommendation**: Be more clear about why people can or can't override our initial determination that there is a problem with the address they entered.
 
-— P2 understood you could select the original address, but assumed that since there were suggestions, the original address must be wrong. But ultimately, he said he would choose his original address if he knew it to be correct.
-
-— P3 said she didn’t think you should be able to choose the original address if it wasn’t correct, but then later said she understood that only the person entering the address would know what was correct and maybe that’s why they were allowed to select the original address.
-
-— P3 DID actually seem to understand this later on in testing, saying you could select the original address if it was “close enough”
-
-— P4 said this was concerning but did get that maybe there was enough confidence that the original address could be correct.
-
-However, people understood why you couldn’t select it when that happened — they rationalized this by saying the address must be so wrong that you’re not allowed to select it (this, essentially, is correct)
-
-I think that this went OK in testing because it was a prototype and they weren’t looking at their real addresses. But again, I think we’d see a lot more frustration in real life if someone wasn’t able to save their real address.
-
-Overall, people liked the suggestions and found them helpful
+### Overall, people liked the suggestions and found them helpful
 
 — P1, P2, P3
 
 Again, I think this would be less of an issue in real life when people are dealing with their real address. Participants got too hung up in testing on picking the “right” answer for testing instead of thinking of the process at a higher level.
 
-People rationalized why there were no suggested addresses by thinking they typed in an address so incorrectly that there were no suggestions
+### People rationalized why there were no suggested addresses by thinking they typed in an address so incorrectly that there were no suggestions
 
 — P1, P2
 
@@ -132,13 +116,13 @@ This may not be an issue because it real life, people wouldn’t be seeing all t
 
 — P4 understood this meant there were no suggestions, but because he thought there were no other addresses associated with the one entered. I’m not sure what this means.
 
-Wants the 800 number on the option where you can’t select your original address
+### Wants the 800 number on the option where you can’t select your original address
 
 — P1, P3
 
 I’m torn – the call center will not be able to override this determination, so I don’t know that we should really be sending people there.
 
-People wanted more specific directions on what mistakes they made with the address, but we currently can’t provide that
+### People wanted more specific directions on what mistakes they made with the address, but we currently can’t provide that
 
 — P1, P3, P4
 
