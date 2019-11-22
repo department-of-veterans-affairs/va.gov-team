@@ -3,9 +3,9 @@ As a [X], I need [Y] so that I can [Z].
 
 ## Acceptance Criteria:
 _The requirements that must be met in order to mark this user story as completed_
-* Testable Outcome X
-* Testable Outcome Y
-* Testable Outcome Z
+- [ ] Testable Outcome X
+- [ ] Testable Outcome Y
+- [ ] Testable Outcome Z
 
 ## Tasks
 _The steps that must be done by the team to complete the acceptance criteria_
