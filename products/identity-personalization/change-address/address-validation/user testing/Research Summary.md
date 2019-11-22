@@ -74,19 +74,15 @@ This gave us a chance to do a small evaluation of the content page. One thing we
 
 In the prototype, the screen we use to tell people that there may something wrong with their address starts "Your address update isn't valid."
 
-"Valid." No one knew what this meant. All four
+"Valid." No one knew what this meant. While all four participants understood this meant there was something wrong with an address, none of them made the most important connection — that this means the USPS may not be able to deliver mail to that address, therefore putting them at risk for not receiving key VA correspondence.
 
+Additionally, one participant (P3) rightfully pointed out this terminology was confusing because all the addresses we looked at were entered in a valid format even if there was something else wrong with them.
 
-General confusion around what “invalid meant”
+It's worth nothing that participants were not that frustrated by the fuzziness of "valid." However, I think this would have caused a lot more confusion and frustration if they were able to enter their real addresses. If we are telling people the address they know to be their home address isn't "valid," what are they supposed to do with that?
 
-— People understood there was something wrong with their address, but they assumed the government/google maps/some service knew they had a different address/had entered an address as a mistake/the address was incomplete. No one really seemed to get that this meant that we likely wouldn’t be able to deliver mail to them.
-  — P1, P2, P3, P4
+**Recommendation**: Remove the word "valid" from the copy used in address validation. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help the user figure out whether override, edit, or choosing a suggested address is the right solution for them.
 
-— P3 also pointed out “invalid” was confusing because the addresses are in a valid format, and we should be more direct/straightforward about wha the problem is.
-
-— People were not that frustrated with this, but I think it’s because we were using a prototype. If they had gotten the response “your address is invalid” with their own address, I think they would have been a lot more frustrated/confused and wanted to know more about what that means.
-
-People didn’t know where the suggested addresses came from, but this didn’t concern them
+### People didn’t know where the suggested addresses came from, but this didn’t concern them
 
 — Google maps
   — P1, P2
