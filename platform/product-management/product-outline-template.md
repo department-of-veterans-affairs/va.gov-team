@@ -35,7 +35,9 @@
 
 ## Solution Approach
 
-*What are you going to build now and why have you decided to start there? Why this approach over other approaches? How do you plan to evolve the solution over time (knowing that things will change based on what you learn from users along the way)?*
+- *What are you going to build now and why have you decided to start there?
+- *Why this approach over other approaches?*
+- *How will the solution evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ## Value Propositions
 
