@@ -126,7 +126,6 @@ _As we talk to users and learn about their experience, these questions can be ed
 ## Additional Questions
 - Where would you go to order prosthetic socks through the VA online?
 - If you had to search for a way to order them online, what search terms would you use?
-- How do you feel about sharing your personal information with VA.gov as part of the caregiver benefit application process?
 - Is there anything else that you would like to share with us?
 
 ## Wrap up
