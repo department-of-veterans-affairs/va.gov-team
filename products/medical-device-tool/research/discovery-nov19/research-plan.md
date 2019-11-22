@@ -36,14 +36,14 @@
 
 ## Participants and Recruitment
 1.	Participant criteria: What are you looking for in a participant?
-    - **6 Veterans who order hearing aid batteries through the VA**
-      - 3 pre-9/11 Veterans
-      - 3 post-9/11 Veterans
+    - **8 Veterans who order hearing aid batteries through the VA**
+      - 4 pre-9/11 Veterans
+      - 4 post-9/11 Veterans
       - Include a mix of Veterans with a disability rating of 80% or higher
       - If possible, 1-2 Veterans who have a cochlear implant
-    - **6 Veterans who order prosthetic socks through the VA**
-      - 3 pre-9/11 Veterans with amputations
-      - 3 post-9/11 Veterans with amputations
+    - **8 Veterans who order prosthetic socks through the VA**
+      - 4 pre-9/11 Veterans with amputations
+      - 4 post-9/11 Veterans with amputations
       - Include a mix of amputation types (feet, legs, arms, hips), if possible
       - Include a mix of Veterans with a disability rating of 80% or higher
 
