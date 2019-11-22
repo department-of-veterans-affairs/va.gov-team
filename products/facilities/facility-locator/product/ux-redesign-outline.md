@@ -3,8 +3,8 @@
 
 ## Table of Contents
 The UX redesign will have two main areas of focus
-- Overall usability and search functionality
-- Urgent/emergency care
+- [Overall usability and search functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#overall-usability-and-search-functionality-mvp)
+- [Urgent/emergency care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#urgent-care)
 
 ## Overall usability and search functionality (MVP)
 
