@@ -42,6 +42,7 @@ _As we talk to users and learn about their experience, these questions can be ed
 - Can you tell me a little about yourself? (If stuck, ask about service, location, occupation, etc.)
 - Tell me about your experience with technology.
   - Do you regularly use a computer? Mobile device?
+  - Do you use any assistive technology? (bluetooth hearing aids, readers, switches, etc.)
   - Do you have any challenges using computers or mobile devices? If so, what are they?
     - [If yes] are there certain types of interactions that are particularly challenging?
     - What do you do when you encounter these interactions?
