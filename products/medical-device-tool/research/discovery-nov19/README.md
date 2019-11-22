@@ -28,6 +28,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
   - [Introduction Meeting 2 (Nov 21, 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191121-DALC-stakeholder-meeting.md)
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
 - User Research Conversation Guide
+  - [Prostheses / Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide_prostheses.md)
+  - [Hearing Aids / Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md)
 - User Interview Notes
 - Synthesis Artifacts
+- Research, IA, and Content Consultation Notes
+- Technical Review Commentary
+- Product Outline (Updated)
 - Discovery Readout Presentation
