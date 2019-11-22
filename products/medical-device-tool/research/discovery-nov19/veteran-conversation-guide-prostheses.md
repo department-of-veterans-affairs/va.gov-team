@@ -137,5 +137,5 @@ _(About 2 minutes)_
 - As a thank you for your participation, we'd like to offer you a $50 thank-you gift.
 - Is it ok for our contractor Perigean to send that gift to the same email we used to communicate with you about scheduling this session?
   - [If no:] Ok, we'll follow up with an email after this session to get the right email from you in writing.
-- Lastly, would you like to share this feedback opportunity with other caregivers and Veterans? If so, I can send you an email with a little blurb so you can easily connect folks to our team.
+- Lastly, would you like to share this feedback opportunity with other Veterans? If so, I can send you an email with a little blurb so you can easily connect folks to our team.
 - Thank you so much again, and enjoy the rest of your day.
