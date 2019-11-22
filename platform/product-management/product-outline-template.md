@@ -12,7 +12,7 @@
 ---
 
 ## Overview
-*One sentence describing the thing you're building (once you know)*
+*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this]((https://www.atlassian.com/team-playbook/plays/problem-framing)*
