@@ -80,8 +80,9 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources
 - [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-project-brief.md)
 
-- Discussion Guide
-*Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
+- Discussion Guides
+  - [Prostheses / Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide_prostheses.md)
+  - [Hearing Aids / Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md)
 
 - Notes & Recordings
 *Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
