@@ -25,9 +25,9 @@ Thank you for joining us today! My name is ______. I am a designer and researche
 Before we start, I want to mention a few things:
 
 This entire session should take about 45 minutes I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-In this session, we want to hear your honest opinions. So please let us know what you think, and any ideas on how we can improve this process for you. We are not testing your abilities or knowledge in any way. We want to improve the prosthetic sock ordering process to better meet Veteran’s needs. I will not be offended by any opinions you express, and I welcome your feedback.
+In this session, we want to hear your honest opinions. So please let us know what you think, and any ideas on how we can improve this process for you. We are not testing your abilities or knowledge in any way. We want to improve the prosthetic sock ordering process to better meet Veteran’s needs. I will not be offended by any opinions you express, and I welcome your candid feedback.
 If for any reason and at any time you want to stop the session, please let me know. You will not be penalized in any way if we need to stop.
-Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately.
+Are you comfortable if I record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. I'll need to confirm again once the recording starts, to have it included in the recording.
 
 _(Start recording.)_
 
@@ -68,7 +68,8 @@ _As we talk to users and learn about their experience, these questions can be ed
     - How do they place the order?
     - How do they know what to order?
     - How often do they place the order for you?
-    - How do they feel about the ordering process?
+    - Are you aware of any issues they've had in the ordering process?
+      - [if no] what were they?
   - [If phone] Can you describe the phone ordering process to me?
     - What does your typical order look like?
     - Does your order ever change?
