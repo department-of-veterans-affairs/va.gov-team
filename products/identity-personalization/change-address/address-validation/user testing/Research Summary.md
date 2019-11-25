@@ -84,23 +84,23 @@ It's worth noting that participants were not that frustrated by the fuzziness of
 
 Furthermore, participant did not understand why we let them move forward with the original address they entered (override) if the website was telling them this address wasn't valid. A couple of participants didn't understand this at all (P1, P2) while a couple (P3, P4) did mention they think override is allowed because the site assumes the user knows best, but they still seemed confused as to why this was allowed.
 
-However, people showed less confusion around the opposite scenario — when they were not allowed to choose the address they originally entered. They assumed this was because the original address was so incorrect that the website would not let them move forward with it. Without getting into technical specifics, this is essentially correct.
+However, people showed less confusion around the opposite scenario — when they were _not_ allowed to choose the address they originally entered. They assumed this was because the original address was so incorrect that the website would not let them move forward with it. Without getting into technical specifics, this is essentially correct.
 
 Again, I think this is something that didn't cause a lot of frustration because we were using a prototype with fake addresses. If this were real life, I think people would have not been as confused with why they could choose their original address, and I think they would have been a lot more frustrated when we restricted override.
 
 **Recommendation**: Be more clear about why people can or can't override our initial determination that there is a problem with the address they entered.
 
-### Overall, people found the suggested address helpful even though they didn't know (or care) where they came from 
+### Overall, people found the suggested addresses helpful even though they didn't know (or care) where they came from 
 
-Most participants (P1, P2, P3) found the suggested addresses really helpful and seemed almost dependent on them to know how to proceed forward. I think this dependency was caused by participants perceiving too much meaning in the made up prototype addresses and thinking there was a "right" or "wrong" answer to move forward. In real life with real data, I would hypothesie that people would be much less dependent on suggested addresses to determine how they wanted to proceed. 
+Most participants (P1, P2, P3) found the suggested addresses really helpful and seemed almost dependent on them to know how to proceed forward. I think this dependency was caused by participants misunderstandng that there was no "right" or "wrong" answer to move forward. In real life with real data, I would hypothesize that people would be much less dependent on suggested addresses to determine how they wanted to proceed. 
 
 Additionally, participants trusted these suggestions even though they didn't know where they came from. Only one person (P3) correctly guessed that this data had anything to do with USPS (note: address validation doesn't happen through USPS, though it affects mail delivery). Others thought Google maps (P1, P2) or other local data (P4). However this didn't concern anyone. No one seemed to think this came from the VA or had any other concerns about how these suggestions were generated.
 
 **Recommendation**: No changes. 
 
-### People mentioned the 800 number would be helpful on screens where you can’t select your original address
+### People mentioned the 800 number would be helpful on screens where you can’t select the original address entered
 
-We show the VA's 800 number on one of two scenarios in which people can not select the original address they entered. Two participants (P1, P3) mentioned they wanted to see the 800 number in both scenarios instead of just the one. 
+We show the VA's 800 number on one of two scenarios in which people can not override the "invalid" determination and select the original address they entered. Two participants (P1, P3) mentioned they wanted to see the 800 number in both scenarios instead of just the one. 
 
 This seems like an obvious update. However, the VA help line will not be able to update an address if the backend determines that address override isn't allowed. So, we'd be sending people to the help line knowing that there is no resolution. It feels like bad UX to knowingly send them to a dead end. Instead, we should provide them as much help as we can in context.
 
@@ -108,10 +108,10 @@ This seems like an obvious update. However, the VA help line will not be able to
 
 ### People wanted more specific directions on what is causing the "invalid" address determination
 
-Almost all participants (P1, P3, P4) wanted more information on what the exact problem was with the addresses that were determined to be "invalid". They said this would help them better determine next steps — whether to edit their existing address or pick a suggested address.
+Almost all participants (P1, P3, P4) wanted more information on what the exact problems were with the addresses that were determined to be "invalid". They said this would help them better determine next steps — whether to edit their existing address or pick a suggested address.
 
 From a technical perspective, we don't have the ability to tell them what might be wrong with their address. Remember, the "invalid" address determination doesn't have anything to do with missing or incorrect fields, like a missing zip code. The address "invalid" error has to do with whether we think the address they entered is real, and therefore whether mail can be delivered there or not. Besides showing suggested addresses, we don't get information from the backend that would give us enough detail to explain things like "you should have entered 'street' instead of 'road'."
 
-However, I think this is another issue that wouldn't have happened if our participants had been working with their actual addresses during testing instead of looking at made up prototype data. If someone is looking at their actual street address, they won't need help from the UI to know what might be wrong. They'll be able to spot mistakes based on what they know about their address and where they live.
+However, I think this is another issue that wouldn't have come up if our participants had been working with their actual addresses during testing instead of looking at made up prototype data. If someone is looking at their actual street address, they won't need help from the UI to know what might be wrong. They'll be able to spot mistakes based on what they know about their address and where they live.
 
 **Recommendation**: No changes.
