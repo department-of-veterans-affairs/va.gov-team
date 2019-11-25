@@ -18,6 +18,7 @@
     - Michelle: December 23-January 3 (tentative)
     - Aricka: December 6, 26-27
     - Dave: December 26-27
+    - Gibran 23 - 27
     
     
 ## January 2020
