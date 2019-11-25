@@ -33,14 +33,15 @@
 
 ## Authenticated / Tool Stack
 ### Current
-* The **What You Can Do** heading follows an error alert on the My Health page, and on the We've Signed You Out/session expired page, but is treated differently on both, as an `h4` on one, and an `h3` on the other.
-* When the [My Health](https://staging.va.gov/health-care/my-health-account-validation/error/needs-va-patient) page can't find patient information, `h3` and `h2` elements are skipped
+
+* When the [My Health](https://staging.va.gov/health-care/my-health-account-validation/error/needs-va-patient) page can't find patient information, `h3` and `h2` elements are skipped, and the **What You Can Do** heading is an `h4` element
 * In the Dashboard alert components, the heading is an `h3` followed by a `div` with the class `.vads-u-font-size--h3` applied to it.
 * [Find Benefits](https://staging.va.gov/my-va/find-benefits) page skips even numbered heading elements
-* We've Signed You Out page skips `h2` heading element
+* We've Signed You Out page skips `h2` heading element, and jumps straight to the **What You Can Do** heading as an `h3`
 
 ### Proposed
 * In the Dashboard alert components, use an h4 after the h3
+* **What You Can Do** heading should be used consistently across pages - `h3` makes the most sense from examples seen so far
 
 ## Featured Content
 ### Current
