@@ -1,6 +1,6 @@
 # Facility Locator Feature Overlap
 
-This document outlines how discoveries and findings made Facility Locator user research overlap with other VSA teams. 
+This document outlines how discoveries and findings made in Facility Locator user research overlap with other VSA functions/teams. 
 
 Team/Feature | Finding | Notes
 -------------|---------|------
