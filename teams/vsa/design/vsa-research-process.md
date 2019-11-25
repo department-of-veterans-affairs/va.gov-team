@@ -100,5 +100,5 @@ Some resources are also pinned to the #va-vsa-ux channel.
 * We have a research calendar where all research sessions w/ Perigean are posted. Message Lauren to get that calendar on yours.
 * We have the use of Optimal Workshop through DSVA if we want to do card sorting or IA tree testing or things of that nature. Message Lauren if you want access.
 * DSVA research folder https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research
-* History of past research https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md
+* History of past research https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md
 * Research plan template https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md
