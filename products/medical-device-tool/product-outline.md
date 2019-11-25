@@ -38,32 +38,39 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 ### User Goals (Assumed)
 - Veterans:
-  - Recieve **hearing aid batteries** or **prosthetic socks** from the VA
-  - Automate their orders.
+  - Receive **hearing aid batteries _and accessories_** or **prosthetic socks** from the VA
+  - Spend less time and energy placing orders for assistive medical devices and accessories
+  - Never run out of resupply items
 
 - VHA Providers:
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
+  - Ensure patients have access to the right resupply items for their medical devices
 
-- DLC Employees:
-  - Enter in orders from Vets via phone, mail, or email
+- DLC Agents:
+  - Enter in orders from Vets via phone, mail, or email quickly and accurately
+  - Field fewer calls and manual entry cards for repeat orders
 
-- Manufacturing Company:
-   - TBD  
-
-- VA/DLC Managers
-  - TBD
+- VA/DLC Managers:
+  - Reduce the amount of manual work required by agents by encouraging online ordering
+  - Expand the availability of medical devices and accessories online
   
 ### User Pain Points (Assumed)
 - Veterans:
   - They are required to manually order the same item many times
-  - There are too many methods to ordering devices
+  - They are required to either call a live agent or write 'additional comments' on their order form to get common resupply items for their device outside of batteries or socks
+  - They are required to log in to a system they don't otherwise use
+
 
 ### Business Goals (Assumed)
 - To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted
 - To increase the number of online order submissions, thereby reducing the amount of manual work required by call center agents
-- To reduce the number of order-related errors
+- To decrease the number of shipments required to individuals
+- To increase the number of items available to order online to include hearing aid accessories and sleep apnea resupply items 
+- To reduce the number of order and shipment errors
 
 ## Assumptions
+- Veterans will use VA.gov to order resupply items if they're able to order all of the things they order via phone
+- Veterans will create or use their VA.gov account to use this feature
 
 ## Questions
 - Who "owns" the Medical device ordering "portfolio"?
