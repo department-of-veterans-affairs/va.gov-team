@@ -60,15 +60,15 @@ Second, participants didn't get that frustrated by being told the addresses they
 
 To be mindful of how using a prototype may have affected the results, I've noted places throughout the results where I think this may have played a role in results and reactions.
 
-### Persisting a sign in link on the "Change your address" content page when a user is already signed in is confusing
+### Showing a sign in link on the "Change your address" content page is confusing when a user is already signed in
 
-Though testing navigation to the profile was not the main focus of testing, we did ask participants to show us where they would go to change their address. We started people on the homepage, and a couple participants (P1, P2) navigated to the "Change your address" content page instead of going directly to the personlized menu. 
+Though testing navigation to the profile was not the main focus of testing, we did ask participants to show us where they would go to change their address. We started people on the homepage, and a couple of participants (P1, P2) navigated to the "Change your address" content page instead of going directly to the personlized menu. 
 
-This gave us a chance to do a small evaluation of the content page. One thing we noticed was this page uses subway map directions to tell you how to change your address. This means we show "Step one: Sign in to VA.gov" even when people are already signed in. This causes some confusion for users.
+This gave us a chance to do a small evaluation of the content page. One thing we noticed was this page uses subway map directions to tell you how to change your address. This means we show "Step one: Sign in to VA.gov" even when people are already signed in. This caused some confusion for participants who thought they had to sign in again.
 
 **Recommendation**: Replace the subway map with a dynamic modal.
 
-### Participants did not know what "invalid" meant
+### Participants did not know what "valid" meant
 
 In the prototype, the screen we use to tell people that there may something wrong with their address starts "Your address update isn't valid."
 
@@ -80,12 +80,6 @@ It's worth nothing that participants were not that frustrated by the fuzziness o
 
 **Recommendation**: Remove the word "valid" from the copy used in address validation. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help the user figure out whether override, edit, or choosing a suggested address is the right solution for them.
 
-### People didn’t know where the suggested addresses came from, but this didn’t concern them
-
-Only one person (P3) correctly guessed that this data had anything to do with USPS (note: address validation doesn't happen through USPS, but it obviosly affects mail delivery). Others thought Google maps (P1, P2) or other local data (P4). However this didn't concern anyone. No one seemed to think this came from the VA or had any other concerns about how these suggestions were generated.
-
-**Recommendation**: No changes. 
-
 ### There was a lot of confusion around why people could select their original address if they weren't “valid”
 
 Understandably, participant did not understand why we let them move forward with the original address they entered (override) if the website was telling them this address wasn't valid. A couple of participants didn't understand this at all (P1, P2) while a couple (P3, P4) did mention they think override is allowed because the site assumes the user knows best, but they still stated confusion on why this was actually allowed.
@@ -95,6 +89,12 @@ However, people showed less confusion around the opposite scenario — when they
 Again, I think this is something that didn't a lot of frustration because we were using a prototype with fake addresses. If this were real life, I think people would have not been as confused with why they could choose their original address, and I think they would have been a lot more frustrated when we restricted override.
 
 **Recommendation**: Be more clear about why people can or can't override our initial determination that there is a problem with the address they entered.
+
+### People didn’t know where the suggested addresses came from, but this didn’t concern them
+
+Only one person (P3) correctly guessed that this data had anything to do with USPS (note: address validation doesn't happen through USPS, but it obviosly affects mail delivery). Others thought Google maps (P1, P2) or other local data (P4). However this didn't concern anyone. No one seemed to think this came from the VA or had any other concerns about how these suggestions were generated.
+
+**Recommendation**: No changes. 
 
 ### Overall, people found the suggested address helpful
 
