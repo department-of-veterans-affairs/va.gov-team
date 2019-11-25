@@ -8,7 +8,7 @@
 
 ## Background
 
-Currently, the VA.gov profile performs frontend validation to make sure someone has entered all the required fields for an address in the correct format (eg. not missing a street address; at least five digits for a zip code). However, we are not currently detecting whether addresses are recognized by USPS or not. VA Profile (formerly Vet360) supports this functionality — address validation — on the backend, and VA.gov is in the process of incorporating it on the frontend. This round of user testing aimed to test the designs and flows that support the address validation feature.
+Currently, the VA.gov profile performs frontend validation to make sure someone has entered all the required fields for an address in the correct format (eg. not missing a street address; at least five digits for a zip code). However, we are not currently detecting whether addresses are recognized by USPS or not. VA Profile (formerly Vet360) supports this functionality — address validation — on the backend, and VA.gov is in the process of incorporating it on the frontend. This round of user testing aimed to test the designs and flows that support address validation.
 
 ## Methods
 
