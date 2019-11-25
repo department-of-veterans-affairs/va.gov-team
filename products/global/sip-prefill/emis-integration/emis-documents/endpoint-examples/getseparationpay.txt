@@ -1,0 +1,34 @@
+<NS1:Envelope xmlns:NS1="http://www.w3.org/2003/05/soap-envelope">
+  <NS1:Header>
+    <NS2:essResponseCode xmlns:NS2="http://va.gov/ess/message/v1">Success</NS2:essResponseCode>
+    <NS3:inputHeaderInfo xmlns:NS3="http://viers.va.gov/cdi/CDI/commonService/v1">
+      <NS3:userId>SCH</NS3:userId>
+      <NS3:sourceSystemName>VRS</NS3:sourceSystemName>
+      <NS3:transactionId>123</NS3:transactionId>
+    </NS3:inputHeaderInfo>
+  </NS1:Header>
+  <NS1:Body>
+    <NS4:eMISseparationPayResponse xmlns:NS4="http://viers.va.gov/cdi/eMIS/RequestResponse/Payment/v1">
+      <NS5:separationPay xmlns:NS5="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS6:edipi xmlns:NS6="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010001</NS6:edipi>
+        <NS7:keyData xmlns:NS7="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS7:personnelOrganizationCode>12</NS7:personnelOrganizationCode>
+          <NS7:personnelCategoryTypeCode>A</NS7:personnelCategoryTypeCode>
+          <NS7:personnelSegmentIdentifier>1</NS7:personnelSegmentIdentifier>
+        </NS7:keyData>
+        <NS8:separationPayData xmlns:NS8="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS8:separationPaySegmentIdentifier>1</NS8:separationPaySegmentIdentifier>
+          <NS8:separationPayType>01</NS8:separationPayType>
+          <NS8:separationPaymentGrossAmount>14660.13</NS8:separationPaymentGrossAmount>
+          <NS8:separationPaymentNetAmount>14654.68</NS8:separationPaymentNetAmount>
+          <NS8:separationPaymentBeginDate>2013-09-11</NS8:separationPaymentBeginDate>
+          <NS8:separationPaymentEndDate>2013-09-13</NS8:separationPaymentEndDate>
+          <NS8:separationPaymentTerminationReason>W</NS8:separationPaymentTerminationReason>
+          <NS8:disabilitySeverancePayCombatCode>W</NS8:disabilitySeverancePayCombatCode>
+          <NS8:federalIncomeTaxAmount>3665.03</NS8:federalIncomeTaxAmount>
+          <NS8:separationPayStatusCode>V</NS8:separationPayStatusCode>
+        </NS8:separationPayData>
+      </NS5:separationPay>
+    </NS4:eMISseparationPayResponse>
+  </NS1:Body>
+</NS1:Envelope>

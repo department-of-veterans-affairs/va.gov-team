@@ -1,0 +1,29 @@
+<NS1:Envelope xmlns:NS1="http://www.w3.org/2003/05/soap-envelope">
+  <NS1:Header>
+    <NS2:essResponseCode xmlns:NS2="http://va.gov/ess/message/v1">Success</NS2:essResponseCode>
+    <NS3:inputHeaderInfo xmlns:NS3="http://viers.va.gov/cdi/CDI/commonService/v1">
+      <NS3:userId>SCH</NS3:userId>
+      <NS3:sourceSystemName>VRS</NS3:sourceSystemName>
+      <NS3:transactionId>123</NS3:transactionId>
+    </NS3:inputHeaderInfo>
+  </NS1:Header>
+  <NS1:Body>
+    <NS4:eMISmilitaryOccupationResponse xmlns:NS4="http://viers.va.gov/cdi/eMIS/RequestResponse/MilitaryInfo/v1">
+      <NS5:militaryOccupation xmlns:NS5="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS6:edipi xmlns:NS6="http://viers.va.gov/cdi/eMIS/commonService/v1">1606109357</NS6:edipi>
+        <NS7:keyData xmlns:NS7="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS7:personnelOrganizationCode>12</NS7:personnelOrganizationCode>
+          <NS7:personnelCategoryTypeCode>A</NS7:personnelCategoryTypeCode>
+          <NS7:personnelSegmentIdentifier>1</NS7:personnelSegmentIdentifier>
+        </NS7:keyData>
+        <NS8:militaryOccupationData xmlns:NS8="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS8:occupationSegmentIdentifier>1</NS8:occupationSegmentIdentifier>
+          <NS8:dodOccupationType>101200</NS8:dodOccupationType>
+          <NS8:occupationType>D</NS8:occupationType>
+          <NS8:serviceSpecificOccupationType>3P031</NS8:serviceSpecificOccupationType>
+          <NS8:serviceOccupationDate>2003-08-31</NS8:serviceOccupationDate>
+        </NS8:militaryOccupationData>
+      </NS5:militaryOccupation>
+    </NS4:eMISmilitaryOccupationResponse>
+  </NS1:Body>
+</NS1:Envelope>

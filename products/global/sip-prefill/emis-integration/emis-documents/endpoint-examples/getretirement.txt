@@ -1,0 +1,28 @@
+<NS1:Envelope xmlns:NS1="http://www.w3.org/2003/05/soap-envelope">
+  <NS1:Header>
+    <NS2:essResponseCode xmlns:NS2="http://va.gov/ess/message/v1">Success</NS2:essResponseCode>
+    <NS3:inputHeaderInfo xmlns:NS3="http://viers.va.gov/cdi/CDI/commonService/v1">
+      <NS3:userId>SCH</NS3:userId>
+      <NS3:sourceSystemName>VRS</NS3:sourceSystemName>
+      <NS3:transactionId>123</NS3:transactionId>
+    </NS3:inputHeaderInfo>
+  </NS1:Header>
+  <NS1:Body>
+    <NS4:eMISretirementResponse xmlns:NS4="http://viers.va.gov/cdi/eMIS/RequestResponse/MilitaryInfo/v1">
+      <NS5:retirement xmlns:NS5="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS6:edipi xmlns:NS6="http://viers.va.gov/cdi/eMIS/commonService/v1">6001011005</NS6:edipi>
+        <NS7:keyData xmlns:NS7="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS7:personnelOrganizationCode>13</NS7:personnelOrganizationCode>
+          <NS7:personnelCategoryTypeCode>R</NS7:personnelCategoryTypeCode>
+          <NS7:personnelSegmentIdentifier>1</NS7:personnelSegmentIdentifier>
+        </NS7:keyData>
+        <NS8:retirementData xmlns:NS8="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS8:retirementServiceCode>A</NS8:retirementServiceCode>
+          <NS8:retirementBeginDate>2005-11-20</NS8:retirementBeginDate>
+          <NS8:retirementTermDate>2008-07-09</NS8:retirementTermDate>
+          <NS8:retirementTerminationReasonCode>S</NS8:retirementTerminationReasonCode>
+        </NS8:retirementData>
+      </NS5:retirement>
+    </NS4:eMISretirementResponse>
+  </NS1:Body>
+</NS1:Envelope>
