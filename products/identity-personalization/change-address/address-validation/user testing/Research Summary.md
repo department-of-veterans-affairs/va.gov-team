@@ -8,19 +8,17 @@
 
 ## Background
 
-We are incorporating address validation into the VA.gov profile so we can detects if someone has entered an address that the USPS may not be able to deliver mail to. Currently we only perform frontend validation to make sure someone has entered all the required fields for an address, and that those fields are filled out in the correct format (eg. at least five digits for a zip code). However, we are not currently detecting whether addresses are recognized by USPS or not. VA Profile (formerly Vet360) supports this functionality on the backend and needs VA.gov to support it on the frontend so users updating their addresses aren't at risk of saving an address that the VA ultimately can't deliver to.
-
-This round of user testing aimed to test the designs that walk users through what to do if we detect that their address may not be recognized by USPS.
+Currently, the VA.gov profile performs frontend validation to make sure someone has entered all the required fields for an address in the correct format (eg. not missing a street address; at least five digits for a zip code). However, we are not currently detecting whether addresses are recognized by USPS or not. VA Profile (formerly Vet360) supports address validation on the backend, and VA.gov is in the process of incorporating this functionality on the frontend. This round of user testing aimed to test the designs and flows that support the address validation feature.
 
 ## Methods
 
 ### What We Did
 
-We conducted usability testing with an [InVision prototype](https://vsateams.invisionapp.com/share/34UP5BMUAJF#/391945409_1-_Intro_Screen) over GoToMeeting.
+We conducted usability testing with an [InVision prototype](https://vsateams.invisionapp.com/share/34UP5BMUAJF#/391945409_1-_Intro_Screen) via GoToMeeting.
 
 ### Dates
 
-We conducted interviews between November 13 – November 21, 2019.
+Testing sessions took place between November 13 – November 21, 2019.
 
 ### Participants
 
@@ -28,9 +26,9 @@ We talked to **4 veterans**:
 
 - All participants received at least one benefit from the VA.
 - 2 women; 2 men.
-- 3 participants 55+; 1 participant under 35
-- 4 Army; 1 Marine
-- 4 white participants; 1 Black or African American participant
+- 3 participants 55+; 1 participant under 35.
+- 4 Army; 1 Marine.
+- 4 white participants; 1 Black or African American participant.
 
 ### Key screens
 
@@ -54,13 +52,13 @@ We talked to **4 veterans**:
 
 #### A note about testing
 
-I think we got some insights into the usability pain points in the address validation flow. However, there are some results that I think would have been different had we been testing with participants' real data and not prototype data.
+This was a wortwhile round of testing, and we were able to identify some fixable pain points. However, there is some feedback we received and challenges we observed that I don't think would have occurred had we been testing with participants' real data and not prototype data.
 
-First, participants got hung up on choosing the "right" address in flows where we suggested addresses to them. It felt like they thought there was a right or wrong answer for which address to pick instead of understanding that the session was about evaluating the tool from a high level. I don't think we would have had this issue if we were using real data because the addresses participants' saw would have meant something to them instead of being made up, causing them to get caught up in arbitrary details.
+First, participants seemed overly focused on choosing the "right" address in flows where we deteremined the original address etnered was problemtatic and suggested alternative addresses to them. Testing was not about choosing the right or wrong address; it was about testing whether participants would understand what to do with the information given if they encountered this scenario in real life. I don't think we would have seen this preoccupation with choosing the right address if participants were seeing real data instead of made up data. This caused them to get caught up in arbitrary details.
 
 Second, participants didn't get that frustrated by being told the addresses they entered were invalid. I think this would have caused signficantly more frustration had they been using their real-life addresses instead of addresses that meant nothing to them, especially in flows where the participant could not override the "invalid" determination.
 
-We need to be mindful of how using a prototype may have affected the results, so I've noted places throughout the results where I think this may have played a role in results and reactions.
+To be mindful of how using a prototype may have affected the results, I've noted places throughout the results where I think this may have played a role in results and reactions.
 
 ### Persisting a sign in link on the "Change your address" content page when a user is already signed in is confusing
 
