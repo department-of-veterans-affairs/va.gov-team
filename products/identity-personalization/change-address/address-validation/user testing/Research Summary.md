@@ -70,54 +70,48 @@ This gave us a chance to do a small evaluation of the content page. One thing we
 
 ### Participants did not know what "valid" meant
 
-In the prototype, the screen we use to tell people that there may something wrong with their address starts "Your address update isn't valid."
+In the prototype, the screen we use to tell people that there may be something wrong with their address starts "Your address update isn't valid."
 
-"Valid." No one knew what this meant. While all four participants understood this meant there was something wrong with an address, none of them made the most important connection — that this means the USPS may not be able to deliver mail to that address, therefore putting them at risk for not receiving key VA correspondence.
+"Valid." No one knew what this meant. While all four participants understood this meant there was something wrong with an address, none of them made the most important connection — that this means USPS may not recognize this address, and therefore mail may not be delivered to to them. This puts them at risk for missing key VA correspondence.
 
-Additionally, one participant (P3) rightfully pointed out this terminology was confusing because all the addresses we looked at were entered in a valid format even if there was something else wrong with them.
+Additionally, one participant (P3) rightfully pointed out this terminology was confusing because all the addresses we looked at were entered in a valid format even if there was something else wrong with them. But we didn't explain this to participants, and it confused them.
 
-It's worth nothing that participants were not that frustrated by the fuzziness of "valid." However, I think this would have caused a lot more confusion and frustration if they were able to enter their real addresses. If we are telling people the address they know to be their home address isn't "valid," what are they supposed to do with that?
+It's worth nothing that participants were not that frustrated by the fuzziness of "valid." However, I think this would have caused a lot more confusion and frustration if they had been working with their real addresses instead of prototype data. If we are telling people the address they know to be their home address isn't "valid," what are they supposed to do with that besides become frustrated with the VA?
 
-**Recommendation**: Remove the word "valid" from the copy used in address validation. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help the user figure out whether override, edit, or choosing a suggested address is the right solution for them.
+**Recommendation**: Remove the word "valid" from the copy. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help the user figure out whether override, edit, or choosing a suggested address is the right solution for them based on the options available.
 
-### There was a lot of confusion around why people could select their original address if they weren't “valid”
+### There was a lot of confusion around why people could select their original address if those addresses weren't “valid”
 
-Understandably, participant did not understand why we let them move forward with the original address they entered (override) if the website was telling them this address wasn't valid. A couple of participants didn't understand this at all (P1, P2) while a couple (P3, P4) did mention they think override is allowed because the site assumes the user knows best, but they still stated confusion on why this was actually allowed.
+Furthermore, participant did not understand why we let them move forward with the original address they entered (override) if the website was telling them this address wasn't valid. A couple of participants didn't understand this at all (P1, P2) while a couple (P3, P4) did mention they think override is allowed because the site assumes the user knows best, but they still seemed confused as to why this was allowed.
 
-However, people showed less confusion around the opposite scenario — when they were not allowed to choose the address they originally entered. They assumed this was because the original address was so incorrect that website would not let them move forward with it. Without getting into technical specifics, this is essentially correct.
+However, people showed less confusion around the opposite scenario — when they were not allowed to choose the address they originally entered. They assumed this was because the original address was so incorrect that the website would not let them move forward with it. Without getting into technical specifics, this is essentially correct.
 
-Again, I think this is something that didn't a lot of frustration because we were using a prototype with fake addresses. If this were real life, I think people would have not been as confused with why they could choose their original address, and I think they would have been a lot more frustrated when we restricted override.
+Again, I think this is something that didn't cause a lot of frustration because we were using a prototype with fake addresses. If this were real life, I think people would have not been as confused with why they could choose their original address, and I think they would have been a lot more frustrated when we restricted override.
 
 **Recommendation**: Be more clear about why people can or can't override our initial determination that there is a problem with the address they entered.
 
-### People didn’t know where the suggested addresses came from, but this didn’t concern them
+### Overall, people found the suggested address helpful even though they didn't know (or care) where they came from 
 
-Only one person (P3) correctly guessed that this data had anything to do with USPS (note: address validation doesn't happen through USPS, but it obviosly affects mail delivery). Others thought Google maps (P1, P2) or other local data (P4). However this didn't concern anyone. No one seemed to think this came from the VA or had any other concerns about how these suggestions were generated.
+Most participants (P1, P2, P3) found the suggested addresses really helpful and seemed almost dependent on them to know how to proceed forward. I think this dependency was caused by participants perceiving too much meaning in the made up prototype addresses and thinking there was a "right" or "wrong" answer to move forward. In real life with real data, I would hypothesie that people would be much less dependent on suggested addresses to determine how they wanted to proceed. 
+
+Additionally, participants trusted these suggestions even though they didn't know where they came from. Only one person (P3) correctly guessed that this data had anything to do with USPS (note: address validation doesn't happen through USPS, though it affects mail delivery). Others thought Google maps (P1, P2) or other local data (P4). However this didn't concern anyone. No one seemed to think this came from the VA or had any other concerns about how these suggestions were generated.
 
 **Recommendation**: No changes. 
 
-### Overall, people found the suggested address helpful
-
-Most participants (P1, P2, P3) found the suggested addresses really helpful and seemed almost dependent on them to know how to proceed forward. 
-
-Again, I think this would be less of an issue in real life when people are dealing with their real address. Participants got too hung up in testing on picking the “right” answer for testing instead of thinking of the process at a higher level. If participants had entered their real addresses, they would likely be less dependent on suggestions to determine how to fix the "invalid" determination.
-
-**Recommendation**: No changes.
-
 ### People mentioned the 800 number would be helpful on screens where you can’t select your original address
 
-We show the 800 number to call the VA in one of two scenarios in which people can not select the original address they entered. Two participants (P1, P3) mentioned they wanted to see the 800 number to call the VA in both of the scenarios where they were not able to select their original address but knew this address to be correct. 
+We show the VA's 800 number on one of two scenarios in which people can not select the original address they entered. Two participants (P1, P3) mentioned they wanted to see the 800 number in both scenarios instead of just the one. 
 
 This seems like an obvious update. However, the VA help line will not be able to update an address if the backend determines that address override isn't allowed. So, we'd be sending people to the help line knowing that there is no resolution. It feels like bad UX to knowingly send them to a dead end. Instead, we should provide them as much help as we can in context.
 
 **Recommendation**: Either don't show the 800 number when address override isn't allowed, or show the 800 number but do a better job explaining why override isn't allowed and let people know the VA help line will not be able to change this determination.
 
-### People wanted more specific directions on what mistakes they made with the address, but we currently can’t provide that
+### People wanted more specific directions on what is causing the "invalid" address determination
 
-Almost all participants (P1, P3, P4) wanted more information on what the exact problem was with the address they entered when they say the message that the address wasn't valid. They said this would help them know what to update or what suggested address to pick in order to be able to save their information.
+Almost all participants (P1, P3, P4) wanted more information on what the exact problem was with the addresses that were determined to be "invalid". They said this would help them better determine next steps — whether to edit their existing address or pick a suggested address.
 
-From a technical perspective, we don't have the ability to let them know more specifically what might be wrong with their address. Remember, the "invalid" address determination doesn't have anything to do with missing or incorrect fields, like a missing zip code. The address "invalid" error has to do with whether we think the address they entered is real, and therefore mail can be delivered there. Besides showing suggested addresses, we don't get information from the backend that would give us enough detail to explain things like "you should have entered 'street' instead of 'road'."
+From a technical perspective, we don't have the ability to tell them what might be wrong with their address. Remember, the "invalid" address determination doesn't have anything to do with missing or incorrect fields, like a missing zip code. The address "invalid" error has to do with whether we think the address they entered is real, and therefore whether mail can be delivered there or not. Besides showing suggested addresses, we don't get information from the backend that would give us enough detail to explain things like "you should have entered 'street' instead of 'road'."
 
-However, I think this is another issue that wouldn't exist if our participants had been entering their actual addresses instead of looking at made up data. If someone is looking at their actual street address, they won't need help from the UI to know what might be wrong. They'll be able to spot mistakes based on what they know about their address and where they live.
+However, I think this is another issue that wouldn't have happened if our participants had been working with their actual addresses during testing instead of looking at made up prototype data. If someone is looking at their actual street address, they won't need help from the UI to know what might be wrong. They'll be able to spot mistakes based on what they know about their address and where they live.
 
 **Recommendation**: No changes.
