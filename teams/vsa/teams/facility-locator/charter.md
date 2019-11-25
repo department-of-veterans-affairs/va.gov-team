@@ -17,8 +17,7 @@ audiences access to vital information about VA facilities
 **Responsibilities:**
 Provide a single, consolidated place across VA where a veteran can easily find high-level information about facilities and basic benefit eligibility 
 
-**Roadmap:**  
-[Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Facility%20Locator%20Roadmap%20(WIP).png) 
+**[Roadmap]**(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Facility%20Locator%20Roadmap%20(WIP).png) 
 
 ________________________________________
 
