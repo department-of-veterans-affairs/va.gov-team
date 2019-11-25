@@ -1,4 +1,4 @@
-# Address validation and override user testing
+# Address Validation & Override: User Testing
 
 ### [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/user%20testing/Research%20Plan.md)
 
