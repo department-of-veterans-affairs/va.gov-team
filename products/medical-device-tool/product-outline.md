@@ -44,7 +44,7 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 - VHA Providers:
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
-  - Ensure patients have access to the right resupply items for their medical devices
+  - Ensure patients have access to the right resupply items for their medical devices without their intervention required
 
 - DLC Agents:
   - Enter in orders from Vets via phone, mail, or email quickly and accurately
