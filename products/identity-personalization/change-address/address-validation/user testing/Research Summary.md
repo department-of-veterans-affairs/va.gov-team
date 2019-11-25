@@ -54,11 +54,11 @@ We talked to **4 veterans**:
 
 This was a wortwhile round of testing, and we were able to identify some fixable pain points. However, there is some feedback we received and challenges we observed that I don't think would have occurred had we been testing with participants' real data and not prototype data.
 
-First, participants seemed overly focused on choosing the "right" address in flows where we determined the original address entered was problematic and they had the option to choose a "suggested address." Testing was not about choosing the right or wrong address; it was about testing whether participants would understand what to do with the information given if they encountered this scenario in real life. I don't think we would have seen this preoccupation with choosing the right address if participants were seeing real data instead of made up data. This caused them to get caught up in arbitrary details.
+First, participants seemed overly focused on choosing the "right" address in flows where we determined the original address entered was problematic and they had the option to choose a "suggested address." Testing was not about choosing the right or wrong suggestion; it was about testing whether participants would understand what to do with the information given if they encountered this scenario in real life. I don't think we would have seen this preoccupation with choosing the right address if participants were working with their real data instead of made up data. This caused them to get caught up in arbitrary details.
 
-Second, participants didn't get that frustrated by being told the addresses they entered were invalid. I think this would have caused signficantly more frustration had they been using their real-life addresses instead of addresses that meant nothing to them, especially in flows where the participant could not override the "invalid" determination.
+Second, participants didn't get frustrated by being told the addresses they entered were invalid. I think this would have caused signficantly more frustration had they been using their real addresses instead of addresses that meant nothing to them, especially in flows where they could not override the "invalid" determination.
 
-To be mindful of how using a prototype may have affected the results, I've noted places throughout the results where I think this may have played a role in results and reactions.
+To be mindful this, I've noted places throughout this report where I think the prototype may have affected results and reactions.
 
 ### Showing a sign in link on the "Change your address" content page is confusing when a user is already signed in
 
