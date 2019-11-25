@@ -1,4 +1,4 @@
-# Conversation Guide: Address validation
+# Conversation Guide: Address Validation
 
 ### [Prototype](https://vsateams.invisionapp.com/share/34UP5BMUAJF#/391945409_1-_Intro_Screen)
 
