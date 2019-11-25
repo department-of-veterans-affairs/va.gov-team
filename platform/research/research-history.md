@@ -47,6 +47,11 @@ __Please note that many links on this page reference research folders in the vet
 - 16 participants
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-plan.md)
 
+#### October 28 – November 1: Facility Locator Discovery
+*Ad Hoc: Aricka Lewis*
+- 7 participants
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/research-plan.md)
+
 #### October 16 - 17: SCO Content Migration - Moderated Usability Testing  
 *Booz Allen: Amy Knox, Theresa McMurdo*
 - 5-6 participants
