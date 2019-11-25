@@ -1,0 +1,198 @@
+---
+swagger: "2.0"
+info:
+  version: "v2"
+  title: "wss-education-services-web"
+basePath: "/wss-education-services-web/rest"
+tags:
+- name: "educationchapter33"
+paths:
+  /education/chapter33/v1:
+    get:
+      tags:
+      - "educationchapter33"
+      summary: "Get Education Info"
+      description: "Returns Education Info"
+      operationId: "getChapter33"
+      produces:
+      - "application/json"
+      parameters: []
+      responses:
+        200:
+          description: "A Response which indicates a successful Request.  The Response\
+            \ may contain \"messages\" that could describe warnings or further information."
+          schema:
+            $ref: "#/definitions/Chapter33EducationResponse"
+        400:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  This request shouldn't be retried until corrected."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        500:
+          description: "There was an error encountered processing the Request.  Response\
+            \ will contain a  \"messages\" element that will provide further information\
+            \ on the error.  Please retry.  If problem persists, please contact support\
+            \ with a copy of the Response."
+          schema:
+            $ref: "#/definitions/ServiceResponse"
+        403:
+          description: "The request is not authorized.  Please verify credentials\
+            \ used in the request."
+definitions:
+  Amendment:
+    type: "object"
+    required:
+    - "type"
+    properties:
+      residenceHours:
+        type: "number"
+        format: "double"
+      distanceHours:
+        type: "number"
+        format: "double"
+      yellowRibbonAmount:
+        type: "number"
+        format: "double"
+      type:
+        type: "string"
+      status:
+        type: "string"
+      changeEffectiveDate:
+        type: "string"
+        format: "date-time"
+  ServiceResponse:
+    type: "object"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+  Chapter33Education:
+    type: "object"
+    required:
+    - "firstName"
+    - "lastName"
+    properties:
+      firstName:
+        type: "string"
+      lastName:
+        type: "string"
+      nameSuffix:
+        type: "string"
+      dateOfBirth:
+        type: "string"
+        format: "date-time"
+      vaFileNumber:
+        type: "string"
+      regionalProcessingOffice:
+        type: "string"
+      eligibilityDate:
+        type: "string"
+        format: "date-time"
+      delimitingDate:
+        type: "string"
+        format: "date-time"
+      percentageBenefit:
+        type: "integer"
+        format: "int32"
+      originalEntitlement:
+        type: "integer"
+        format: "int32"
+      usedEntitlement:
+        type: "integer"
+        format: "int32"
+      remainingEntitlement:
+        type: "integer"
+        format: "int32"
+      enrollments:
+        type: "array"
+        items:
+          $ref: "#/definitions/Enrollment"
+        maxItems: 100
+        minItems: 0
+  Message:
+    type: "object"
+    properties:
+      key:
+        type: "string"
+      text:
+        type: "string"
+      severity:
+        type: "string"
+        enum:
+        - "FATAL"
+        - "ERROR"
+        - "WARN"
+        - "INFO"
+  Enrollment:
+    type: "object"
+    required:
+    - "beginDate"
+    properties:
+      beginDate:
+        type: "string"
+        format: "date-time"
+      endDate:
+        type: "string"
+        format: "date-time"
+      facilityCode:
+        type: "string"
+      facilityName:
+        type: "string"
+      participantId:
+        type: "string"
+      trainingType:
+        type: "string"
+        enum:
+        - "UNDER_GRAD"
+        - "GRAD"
+        - "NON_COLLEGE"
+        - "FLIGHT"
+        - "OJT"
+        - "APPRENTICESHIP"
+        - "CORRESPONDENCE"
+      termID:
+        type: "string"
+      hourType:
+        type: "string"
+      fullTimeHours:
+        type: "integer"
+        format: "int32"
+      fullTimeCreditHourUnderGrad:
+        type: "integer"
+        format: "int32"
+      vacationDayCount:
+        type: "integer"
+        format: "int32"
+      onCampusHours:
+        type: "number"
+        format: "double"
+      onlineHours:
+        type: "number"
+        format: "double"
+      yellowRibbonAmount:
+        type: "number"
+        format: "double"
+      status:
+        type: "string"
+      amendments:
+        type: "array"
+        items:
+          $ref: "#/definitions/Amendment"
+        maxItems: 100
+        minItems: 0
+  Chapter33EducationResponse:
+    type: "object"
+    required:
+    - "chapter33EducationInfo"
+    properties:
+      messages:
+        type: "array"
+        items:
+          $ref: "#/definitions/Message"
+      chapter33EducationInfo:
+        $ref: "#/definitions/Chapter33Education"
+externalDocs:
+  description: "API Error Keys"
+  url: "ext-docs/education-error-keys.html"

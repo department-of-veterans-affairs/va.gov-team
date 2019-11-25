@@ -1,0 +1,40 @@
+
+<v1:getClaimantResponse xmlns:v1="http://www.va.gov/ch33/services/Claimant/data/v1">
+    <return>
+        <Person>
+            <vaFileNumber>796066620</vaFileNumber>
+            <dataSource>ManualEntry</dataSource>
+            <socialSecurityNumber>796066620</socialSecurityNumber>
+            <firstName>Srikanth</firstName>
+            <lastName>Vanapalli</lastName>
+            <middleName>Venkata</middleName>
+            <gender>Male</gender>
+            <sensitivityLevel>1</sensitivityLevel>
+            <educationLevel/>
+            <station>Central Office Washington, DC</station>
+            <dateOfBirth>1955-11-12-06:00</dateOfBirth>
+        </Person>
+        <EligibilityPeriod>
+        <eligibilityDate>2004-10-01-04:00</eligibilityDate>
+        <delimitingDate>2015-10-01-04:00</delimitingDate>
+        </EligibilityPeriod>
+        <EligibilityResults>
+            <totalServicePeriod>1462</totalServicePeriod>
+            <totalAggregateQualifyingDays>1462</totalAggregateQualifyingDays>
+            <totalAggregateTrainingDays>0</totalAggregateTrainingDays>
+            <totalAggregateExclusionDays>0</totalAggregateExclusionDays>
+            <activeDuty>false</activeDuty>
+            <servedAfter09102001>true</servedAfter09102001>
+            <over90AndHonorable>true</over90AndHonorable>
+            <over30ConsecutiveDisabled>false</over30ConsecutiveDisabled>
+            <veteranIsEligible>true</veteranIsEligible>
+        </EligibilityResults>
+        <EntitlementResult>
+        <usedEntitlement>10</usedEntitlement>
+        <remainingEntitlement>12</remainingEntitlement>
+        </EntitlementResult>
+        <BenefitLevel>
+            <percentageBenefit>100</percentageBenefit>
+        </BenefitLevel>
+    </return>
+</v1:getClaimantResponse>

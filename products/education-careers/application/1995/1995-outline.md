@@ -1,0 +1,47 @@
+# 1995 Change Program/Place
+Used by applicants to move a benefit from one school or program to another. Applies to Veterans who used the 1990 or 1990N and spouses or dependents who used the 1990E.
+
+## Form outline
+- Veteran info
+    - Name
+        - Salutation [text]
+        - First name
+        - Middle name
+        - Last name
+        - Suffix
+    - Sponsor Veteran’s SSN
+    - File Number [text]
+- Benefit information
+    - Are you getting, or do you expect to get any money (including, but not limited to, federal tuition assistance) from the Armed Forces or public health services for any part of your coursework or training? **(Note about top-up?)**
+    - Do you expect to receive educational benefits under the Government Employee's Training Act (GETA) for the same course(s) you will receive VA education benefits? (answer only if you are a federal government employee)
+- Military service
+    - Are you on active duty right now?
+    - Service periods
+      - Branch of service
+      - Start of service period
+      - End of service period
+      - What was the character of your discharge?
+    - Do you have any periods of service that began before 1978? [yes/no]
+- School selection
+    - What educational, professional, or vocational goal are you working toward?
+    - **NEW** school, university, or training facility
+        - Name of school, university, or training facility
+        - Address
+    - **OLD** school, university, or training facility
+        - Name of school, university, or training facility
+        - Address
+        - **When** did you stop training? [date]
+        - **Why** did you stop training? [text]
+- Direct deposit
+    - Do you want to use (start of continue) direct deposit? [check]
+    - Do you want to stop using direct deposit? [check]
+    - Account type
+    - Account number
+    - Routing number
+- Personal information
+    - Address
+    - Dependents (conditional based on 1978 question)
+        - Are you currently married?
+        - Do you have any children who are under age 18? Or do you have any children who are over age 18 but under 23, not married, and attending school? Or do you have any children of any age who are permanently disabled for mental or physical reasons?
+        - Do you have a parent who is dependent on your financial support?
+- Review/Submit
