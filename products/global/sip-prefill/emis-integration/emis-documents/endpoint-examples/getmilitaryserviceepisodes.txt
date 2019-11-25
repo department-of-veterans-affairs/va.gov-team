@@ -1,0 +1,47 @@
+<NS1:Envelope xmlns:NS1="http://www.w3.org/2003/05/soap-envelope">
+  <NS1:Header>
+    <NS2:essResponseCode xmlns:NS2="http://va.gov/ess/message/v1">Success</NS2:essResponseCode>
+    <NS3:inputHeaderInfo xmlns:NS3="http://viers.va.gov/cdi/CDI/commonService/v1">
+      <NS3:userId>SCH</NS3:userId>
+      <NS3:sourceSystemName>VRS</NS3:sourceSystemName>
+      <NS3:transactionId>123</NS3:transactionId>
+    </NS3:inputHeaderInfo>
+  </NS1:Header>
+  <NS1:Body>
+    <NS4:eMISserviceEpisodeResponse xmlns:NS4="http://viers.va.gov/cdi/eMIS/RequestResponse/MilitaryInfo/v1">
+      <NS5:militaryServiceEpisode xmlns:NS5="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS6:edipi xmlns:NS6="http://viers.va.gov/cdi/eMIS/commonService/v1">1607472595</NS6:edipi>
+        <NS7:keyData xmlns:NS7="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS7:personnelOrganizationCode>22</NS7:personnelOrganizationCode>
+          <NS7:personnelCategoryTypeCode>V</NS7:personnelCategoryTypeCode>
+          <NS7:personnelSegmentIdentifier>1</NS7:personnelSegmentIdentifier>
+        </NS7:keyData>
+        <NS8:militaryServiceEpisodeData xmlns:NS8="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS8:serviceEpisodeStartDate>2007-04-01</NS8:serviceEpisodeStartDate>
+          <NS8:serviceEpisodeEndDate>2016-06-01</NS8:serviceEpisodeEndDate>
+          <NS8:serviceEpisodeTerminationReason>S</NS8:serviceEpisodeTerminationReason>
+          <NS8:branchOfServiceCode>F</NS8:branchOfServiceCode>
+          <NS8:retirementTypeCode>B</NS8:retirementTypeCode>
+          <NS8:personnelProjectedEndDate>1990-02-22</NS8:personnelProjectedEndDate>
+          <NS8:personnelProjectedEndDateCertaintyCode>U</NS8:personnelProjectedEndDateCertaintyCode>
+          <NS8:dischargeCharacterOfServiceCode>K</NS8:dischargeCharacterOfServiceCode>
+          <NS8:honorableDischargeForVaPurposeCode>K</NS8:honorableDischargeForVaPurposeCode>
+          <NS8:personnelStatusChangeTransactionTypeCode>137</NS8:personnelStatusChangeTransactionTypeCode>
+          <NS8:narrativeReasonForSeparationCode>033</NS8:narrativeReasonForSeparationCode>
+          <NS8:post911GIBillLossCategoryCode>06</NS8:post911GIBillLossCategoryCode>
+          <NS8:mgadLossCategoryCode>08</NS8:mgadLossCategoryCode>
+          <NS8:activeDutyServiceAgreementQuantity>3</NS8:activeDutyServiceAgreementQuantity>
+          <NS8:initialEntryTrainingEndDate>1987-05-30</NS8:initialEntryTrainingEndDate>
+          <NS8:uniformServiceInitialEntryDate>1986-07-01</NS8:uniformServiceInitialEntryDate>
+          <NS8:militaryAccessionSourceCode>00</NS8:militaryAccessionSourceCode>
+          <NS8:personnelBeginDateSource>7</NS8:personnelBeginDateSource>
+          <NS8:personnelTerminationDateSourceCode>8</NS8:personnelTerminationDateSourceCode>
+          <NS8:activeFederalMilitaryServiceBaseDate>1987-02-22</NS8:activeFederalMilitaryServiceBaseDate>
+          <NS8:mgsrServiceAgreementDurationYearQuantityCode>4</NS8:mgsrServiceAgreementDurationYearQuantityCode>
+          <NS8:dodBeneficiaryTypeCode>07</NS8:dodBeneficiaryTypeCode>
+          <NS8:reserveUnderAge60Code>N</NS8:reserveUnderAge60Code>
+        </NS8:militaryServiceEpisodeData>
+      </NS5:militaryServiceEpisode>
+    </NS4:eMISserviceEpisodeResponse>
+  </NS1:Body>
+</NS1:Envelope>
