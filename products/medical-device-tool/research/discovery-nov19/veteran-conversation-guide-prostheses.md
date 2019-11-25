@@ -68,8 +68,9 @@ _As we talk to users and learn about their experience, these questions can be ed
     - How do they place the order?
     - How do they know what to order?
     - How often do they place the order for you?
-    - Are you aware of any issues they've had in the ordering process?
-      - [if no] what were they?
+    -  Do you know of any issues they may have experienced? 
+      - [If yes] What were those issues?
+
   - [If phone] Can you describe the phone ordering process to me?
     - What does your typical order look like?
     - Does your order ever change?
@@ -115,7 +116,8 @@ _As we talk to users and learn about their experience, these questions can be ed
 - Did you know that Veterans with prostheses are eligible to receive prosthetic socks through the VA?
   - [If yes] why don’t you use this benefit?
   - [If no] how would you expect to learn about this benefit?
-- How do you purchase or otherwise receive socks for your prosthesis? 
+- How do you purchase or otherwise receive socks for your prosthesis?
+  - Why do you prefer this ordering method? 
 - How would you expect this VA-provided benefit would work?
   - Does this differ from how you’d like this benefit to work?
 - If you were to do so now, how would you go about using this benefit?
