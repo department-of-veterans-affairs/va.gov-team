@@ -47,7 +47,7 @@ _As we talk to users and learn about their experience, these questions can be ed
     - [If yes] are there certain types of interactions that are particularly challenging?
     - What do you do when you encounter these interactions?
 - Can you tell me a little bit about your hearing aids?
-  - How often do you use them?
+    - How often do you use them?
 - What are some of the biggest challenges that you face with your hearing aids?
 - Have you ever ordered hearing aid batteries through the VA? 
 
@@ -63,7 +63,10 @@ _As we talk to users and learn about their experience, these questions can be ed
     - How do they place the order?
     - How do they know what to order?
     - How often do they place the order for you?
-    - Are you aware of any issues they've had in the ordering process?
+    - How do they feel about the ordering process?
+    - Do you know of any issues they may have experienced? 
+      - [If yes] What were those issues?
+
       - [if no] what were they?
   - [If via live agent] Can you describe the agent-assisted phone ordering process to me?
     - What does your typical order look like?
@@ -120,6 +123,7 @@ _As we talk to users and learn about their experience, these questions can be ed
   - [If yes] why don’t you use this benefit?
   - [If no] how would you expect to learn about this benefit?
 - How do you purchase or otherwise receive batteries for your hearing aids? 
+  - Why do you prefer this ordering method?
 - How would you expect this VA-provided benefit would work?
   - Does this differ from how you’d like this benefit to work?
 - If you were to do so now, how would you go about using this benefit?
