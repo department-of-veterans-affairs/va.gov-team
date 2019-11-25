@@ -13,10 +13,10 @@ This product folder contains all research, design, engineering, and product docu
 
 **What this means:**
 - All 9 VAMC sites are in production on VA.gov (eight VISN-4 VAMCs, and VISN-19's Montana VAMC)
-  - All new site content is drafted and published in Drupal Prod (prod.cams.va.gov)
+  - All new site content is drafted and published in Drupal Prod (prod.cms.va.gov)
   - All legacy content, files, links, etc. have been accounted for on the new sites
   - All new sites have been fully QA'd by the team and ready to hand off to the business for UAT
-- The team has created and documented a repeatable, scalable VAMC site upgrade process in order for VHA to be able to upgrade 134 legacy VAMC system websites over a 12-month period
+- The team has created and documented (e.g., upgrade runbook, content creation cheatsheets, step-by-step guides, etc.) a repeatable, scalable VAMC site upgrade process in order for VHA to be able to upgrade 134 legacy VAMC system websites over a 12-month period
 
 **What this does not mean:**
 - VAMC public affairs teams are trained on Drupal
