@@ -58,27 +58,27 @@ First, participants seemed overly focused on choosing the "right" address in flo
 
 Second, participants didn't get frustrated by being told the addresses they entered were invalid. I think this would have caused signficantly more frustration had they been using their real addresses instead of addresses that meant nothing to them, especially in flows where they could not override the "invalid" determination.
 
-To be mindful this, I've noted places throughout this report where I think the prototype may have affected results and reactions.
+To be mindful of this, I've noted places throughout this report where I think the prototype may have affected results and reactions.
 
 ### Showing a sign in link on the "Change your address" content page is confusing when a user is already signed in
 
-Though testing navigation to the profile was not the main focus of testing, we did ask participants to show us where they would go to change their address. We started people on the homepage, and a couple of participants (P1, P2) navigated to the "Change your address" content page instead of going directly to the personlized menu. 
+Though testing navigation to the profile was not the main focus of this research, we did ask participants to show us where they would go to change their address. We started people on the homepage, and a couple of participants (P1, P2) navigated to the "Change your address" content page instead of going directly to the personlized menu. 
 
 This gave us a chance to do a small evaluation of the content page. One thing we noticed was this page uses subway map directions to tell you how to change your address. This means we show "Step one: Sign in to VA.gov" even when people are already signed in. This caused some confusion for participants who thought they had to sign in again.
 
-**Recommendation**: Replace the subway map with a dynamic modal.
+**Recommendation**: Replace the subway map with a dynamic widget.
 
 ### Participants did not know what "valid" meant
 
 In the prototype, the screen we use to tell people that there may be something wrong with their address starts "Your address update isn't valid."
 
-"Valid." No one knew what this meant. While all four participants understood this meant there was something wrong with an address, none of them made the most important connection — that this means USPS may not recognize this address, and therefore mail may not be delivered to to them. This puts them at risk for missing key VA correspondence.
+"Valid." No one knew what this meant. While all four participants understood there was something wrong with the address entered, none of them made the most important connection — that this meant USPS may not recognize this address, and therefore mail may not be delivered to to them. This puts them at risk for missing key VA correspondence.
 
 Additionally, one participant (P3) rightfully pointed out this terminology was confusing because all the addresses we looked at were entered in a valid format even if there was something else wrong with them. But we didn't explain this to participants, and it confused them.
 
-It's worth nothing that participants were not that frustrated by the fuzziness of "valid." However, I think this would have caused a lot more confusion and frustration if they had been working with their real addresses instead of prototype data. If we are telling people the address they know to be their home address isn't "valid," what are they supposed to do with that besides become frustrated with the VA?
+It's worth noting that participants were not that frustrated by the fuzziness of "valid." However, I think this would have caused a lot more confusion and frustration if they had been working with their real addresses instead of prototype data. If we are telling people the address they know to be their mailing address isn't "valid," what are they supposed to do with that?
 
-**Recommendation**: Remove the word "valid" from the copy. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help the user figure out whether override, edit, or choosing a suggested address is the right solution for them based on the options available.
+**Recommendation**: Remove the word "valid" from the copy. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help users figure out whether override, edit, or choosing a suggested address is the right solution for them based on the options available.
 
 ### There was a lot of confusion around why people could select their original address if those addresses weren't “valid”
 
