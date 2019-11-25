@@ -9,4 +9,4 @@ FL Widget | How might a facility locator widget be helpful on other pages?
 Caregiver Usability | 
 Find VA Locations Map |
 Search Results Cards | | Card Sort, Mod/Unmod Usability Test | 
-Facility & Service Filters | | Card Sort, Tree Test, Usability Test | 
+Facility & Service Filters | | Tree Test, Usability Test | 
