@@ -1,0 +1,52 @@
+{
+  "messages": [
+    {
+      "key": "string",
+      "text": "string",
+      "severity": "FATAL"
+    }
+  ],
+  "chapter33EducationInfo": {
+    "firstName": "string",
+    "lastName": "string",
+    "nameSuffix": "string",
+    "dateOfBirth": "2017-06-06T17:01:03.925Z",
+    "vaFileNumber": "string",
+    "regionalProcessingOffice": "string",
+    "eligibilityDate": "2017-06-06T17:01:03.925Z",
+    "delimitingDate": "2017-06-06T17:01:03.925Z",
+    "percentageBenefit": 0,
+    "originalEntitlement": 0,
+    "usedEntitlement": 0,
+    "remainingEntitlement": 0,
+    "enrollmentList": [
+      {
+        "beginDate": "2017-06-06T17:01:03.925Z",
+        "endDate": "2017-06-06T17:01:03.925Z",
+        "facilityCode": "string",
+        "facilityName": "string",
+        "participantId": "string",
+        "trainingType": "string",
+        "termID": "string",
+        "hourType": "string",
+        "fullTimeHours": 0,
+        "fullTimeCreditHourUnderGrad": 0,
+        "vacationDayCount": 0,
+        "residenceHours": 0,
+        "distanceHours": 0,
+        "yellowRibbonAmount": 0,
+        "status": "string",
+        "amendmentList": [
+          {
+            "residenceHours": 0,
+            "distanceHours": 0,
+            "yellowRibbonAmount": 0,
+            "type": "string",
+            "status": "string",
+            "changeEffectiveDate": "2017-06-06T17:01:03.926Z"
+          }
+        ]
+      }
+    ]
+  }
+}
