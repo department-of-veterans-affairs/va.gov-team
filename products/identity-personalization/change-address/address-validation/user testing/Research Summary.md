@@ -106,30 +106,20 @@ Again, I think this would be less of an issue in real life when people are deali
 
 **Recommendation**: No changes.
 
-### People rationalized why there were no suggested addresses by thinking they typed in an address so incorrectly that there were no suggestions
+### People mentioned the 800 number would be helpful on screens where you can’t select your original address
 
-— P1, P2
+We show the 800 number to call the VA in one of two scenarios in which people can not select the original address they entered. Two participants (P1, P3) mentioned they wanted to see the 800 number to call the VA in both of the scenarios where they were not able to select their original address but knew this address to be correct. 
 
-This may not be an issue because it real life, people wouldn’t be seeing all the different responses one after the other like they do in user testing
+This seems like an obvious update. However, the VA help line will not be able to update an address if the backend determines that address override isn't allowed. So, we'd be sending people to the help line knowing that there is no resolution. It feels like bad UX to knowingly send them to a dead end. Instead, we should provide them as much help as we can in context.
 
-— P2 missed when there was no suggestions, though, because he pointed out there was clearly a problem but he didn’t know how to fix it (idk there is anything we can do here)
-
-— P3 understood this just means there are no suggestions and did not seem to think this had to do with user error.
-
-— P4 understood this meant there were no suggestions, but because he thought there were no other addresses associated with the one entered. I’m not sure what this means.
-
-### Wants the 800 number on the option where you can’t select your original address
-
-— P1, P3
-
-I’m torn – the call center will not be able to override this determination, so I don’t know that we should really be sending people there.
+**Recommendation**: Either don't show the 800 number when address override isn't allowed, or show the 800 number but do a better job explaining why override isn't allowed and let people know the VA help line will not be able to change this determination.
 
 ### People wanted more specific directions on what mistakes they made with the address, but we currently can’t provide that
 
-— P1, P3, P4
+Almost all participants (P1, P3, P4) wanted more information on what the exact problem was with the address they entered when they say the message that the address wasn't valid. They said this would help them know what to update or what suggested address to pick in order to be able to save their information.
 
-Again, I think this will be much less of an issue when people are working with their actual address and won’t need directions on what is wrong.
+From a technical perspective, we don't have the ability to let them know more specifically what might be wrong with their address. Remember, the "invalid" address determination doesn't have anything to do with missing or incorrect fields, like a missing zip code. The address "invalid" error has to do with whether we think the address they entered is real, and therefore mail can be delivered there. Besides showing suggested addresses, we don't get information from the backend that would give us enough detail to explain things like "you should have entered 'street' instead of 'road'."
 
-## Next Steps
+However, I think this is another issue that wouldn't exist if our participants had been entering their actual addresses instead of looking at made up data. If someone is looking at their actual street address, they won't need help from the UI to know what might be wrong. They'll be able to spot mistakes based on what they know about their address and where they live.
 
-### (Step 1)
+**Recommendation**: No changes.
