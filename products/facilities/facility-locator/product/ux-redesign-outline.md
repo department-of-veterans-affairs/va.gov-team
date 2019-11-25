@@ -4,7 +4,9 @@
 ## Table of Contents
 The UX redesign will have two main areas of focus
 - [Overall usability and search functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#overall-usability-and-search-functionality-mvp)
-- [Urgent/emergency care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#urgent-care)
+- [Urgent care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#urgent-care)
+- Emergency care
+- Community care
 
 ## Overall usability and search functionality (MVP)
 
@@ -80,7 +82,11 @@ What could go wrong and what is our plan to mitigate risk?
 
 ### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
-
+- Considered the need to return VAMC locations as part of urgent care research results
+  - For this scope of work, urgent care means community care and search results will only include community care network locations with urgent care services. 
+- Considered the need to return emergency care as part of urgent care research results
+  - Emergency care will be separate facility type and will include only VHA locations
+  
 ### Proposed Solution & Value Proposition
 *A brief description of the proposed solution, including its unique value proposition.*
 
