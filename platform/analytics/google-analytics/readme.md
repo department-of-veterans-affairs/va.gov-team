@@ -30,7 +30,7 @@ After your onboarding, please check out these resources:
 
 4. [Build Process - Tracking Common User Interactions for Outbound Links, Downloads, and Login](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-common-user-actions.md)
 
-5. [Build Process - Tracking Events in Multi-Step Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/data-dictionary-form-events.md)
+5. [Build Process - Data Dictionary for Tracking Events in Multi-Step Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/data-dictionary-form-events.md)
 
 #### Tracking Success in Google Analytics
 
