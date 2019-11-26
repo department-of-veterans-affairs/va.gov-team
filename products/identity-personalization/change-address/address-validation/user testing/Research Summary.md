@@ -78,7 +78,7 @@ Additionally, one participant (P3) rightfully pointed out this terminology was c
 
 It's worth noting that participants were not that frustrated by the fuzziness of "valid." However, I think this would have caused a lot more confusion and frustration if they had been working with their real addresses instead of prototype data. If we are telling people the address they know to be their mailing address isn't "valid," what are they supposed to do with that?
 
-**Recommendation**: Remove the word "valid" from the copy. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help users figure out whether override, edit, or choosing a suggested address is the right solution for them based on the options available.
+**Recommendation**: Remove the word "valid" from the copy. Figure out more human langauge to explain that we may not be able to deliver mail to the address entered, and help users figure out whether override, edit, or choosing a suggested address is the right solution for them based on the options available. ([#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741))
 
 ### There was a lot of confusion around why people could select their original address if those addresses weren't “valid”
 
@@ -88,7 +88,7 @@ However, people showed less confusion around the opposite scenario — when they
 
 Again, I think this is something that didn't cause a lot of frustration because we were using a prototype with fake addresses. If this were real life, I think people would have not been as confused with why they could choose their original address, and I think they would have been a lot more frustrated when we restricted override.
 
-**Recommendation**: Be more clear about why people can or can't override our initial determination that there is a problem with the address they entered.
+**Recommendation**: Be more clear about why people can or can't override our initial determination that there is a problem with the address they entered. ([#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741))
 
 ### Overall, people found the suggested addresses helpful even though they didn't know (or care) where they came from 
 
@@ -104,7 +104,7 @@ We show the VA's 800 number on one of two scenarios in which people can not over
 
 This seems like an obvious update. However, the VA help line will not be able to update an address if the backend determines that address override isn't allowed. So, we'd be sending people to the help line knowing that there is no resolution. It feels like bad UX to knowingly send them to a dead end. Instead, we should provide them as much help as we can in context.
 
-**Recommendation**: Either don't show the 800 number when address override isn't allowed, or show the 800 number but do a better job explaining why override isn't allowed and let people know the VA help line will not be able to change this determination.
+**Recommendation**: Either don't show the 800 number when address override isn't allowed, or show the 800 number but do a better job explaining why override isn't allowed and let people know the VA help line will not be able to change this determination. ([#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741))
 
 ### People wanted more specific directions on what is causing the "invalid" address determination
 
