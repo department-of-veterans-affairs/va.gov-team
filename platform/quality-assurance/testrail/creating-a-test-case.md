@@ -12,6 +12,6 @@
 1. In order to improve searchability and the ease with which you may incorporate test cases into test plans be sure to fill out all of the fields with accurate data.
 
 
-[testrail-add-test-case-add]: ../images/testrail/add-test-case-add.png
-[testrail-add-test-case-text-template]: ../images/testrail/add-test-case-text-template.png
-[testrail-add-test-case-steps-template]: ../images/testrail/add-test-case-steps-template.png
+[testrail-add-test-case-add]: ../images/testrail-tutorials/add-test-case-add.png
+[testrail-add-test-case-text-template]: ../images/testrail-tutorials/add-test-case-text-template.png
+[testrail-add-test-case-steps-template]: ../images/testrail-tutorials/add-test-case-steps-template.png
