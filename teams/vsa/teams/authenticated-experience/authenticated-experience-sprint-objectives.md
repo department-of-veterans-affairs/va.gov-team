@@ -84,11 +84,11 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 ### Sprint 10 (12/4 - 12/17)
 - Direct deposit
   - Ramp up to 75% of users
+  - Make and communicate go/no-go decision for full launch since deadline for decision is 12/14
 - Address validation
   - User testing updates (Copy; implementation by frontend)
   - Let Tze know we will need QA in the upcoming sprint
   - Error Matrix updates
-  - What to do with 
   - Refine/revisit https://github.com/department-of-veterans-affairs/va.gov-team/issues/1129 with an eye on def of done
 * Continue Bad Address Indicator
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
