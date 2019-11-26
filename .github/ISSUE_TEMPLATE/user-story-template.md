@@ -1,3 +1,12 @@
+---
+name: General User Story Template
+about: This is a general user story template
+title: User Story Template for va.gov-teams
+labels: vsa
+assignees: ''
+
+---
+
 ## User Story:
 As a __________, I need __________ so that I can __________.
 
