@@ -98,7 +98,7 @@ When you are managing and organizing your files, you may be tempted to create su
 
 
 ## <a id="large-files"></a>File Storage and Large Files
-To improve site performance and conserve storage space, VSP requires that **large files (3MB or greater)** be uploaded to the va.gov-team repository only via the [Git Large File Storage (LFS) extension](https://git-lfs.github.com/). Git LFS replaces large files with text pointers inside team and product folders, while storing the file contents on a remote server.  
+To improve site performance and conserve storage space, VSP requires that certain file types be uploaded to the va.gov-team repository only via the [Git Large File Storage (LFS) extension](https://git-lfs.github.com/). Git LFS replaces large files with text pointers inside team and product folders, while storing the file contents on a remote server.  
 
 Large files may include the following:
 

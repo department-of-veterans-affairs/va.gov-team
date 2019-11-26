@@ -1,11 +1,15 @@
-## User Story:
-As a [X], I need [Y] so that I can [Z].
+---
+name: User Story Template
+about: This is a generic user story template
+title: User Story Template for va.gov-teams
+labels: ''
+assignees: ''
 
-## Acceptance Criteria:
-_The requirements that must be met in order to mark this user story as completed_
-- [ ] Testable Outcome X
-- [ ] Testable Outcome Y
-- [ ] Testable Outcome Z
+---
+
+## User Story:
+As a __________, I need __________ so that I can __________.
+
 
 ## Tasks
 _The steps that must be done by the team to complete the acceptance criteria_
@@ -13,6 +17,11 @@ _The steps that must be done by the team to complete the acceptance criteria_
 - [ ] Second thing we need to do - y hour(s) - Owner
 - [ ] Third thing we need to do - z hour(s) - Owner
 - [ ] etc
+
+## Acceptance Criteria:
+_The requirements that must be met in order to mark this user story as completed_
+- [ ] Testable Outcome Y
+- [ ] Testable Outcome Z
 
 ## Configuration
 - [ ] **Attached to a Milestone** (when will this be completed?)

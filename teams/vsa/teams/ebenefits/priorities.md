@@ -10,7 +10,7 @@
 | Status | View Dependents | View the dependents the VA has on record for me, and see if those dependents are on my Compensation award. |
 | Form | Update Dependent Benefits | (Form 686c and 674) Add, remove, and update dependent information. |
 | Status | View Representative/ POA | View my current representative/ POA. |
-| Form | Add or Update Representative/ POA | (Form 21-22) I can search for a VSO, attorney, or agent, and add that person to my profile. |
+| Form | Add or Update Representative/ POA | (Form 22 and form 22a) I can search for a VSO, attorney, or agent, and add that person to my profile. |
 | Status | View Payment History | View my VA payments (for all integrated systems). |
 | eFolder | View My Documents | I can view and download documents I have uploaded to my VA eFolder. |
 | Platform | Support User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
