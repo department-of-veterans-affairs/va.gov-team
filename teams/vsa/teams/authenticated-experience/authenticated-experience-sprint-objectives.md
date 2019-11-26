@@ -87,6 +87,9 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 - Address validation
   - User testing updates (Copy; implementation by frontend)
   - Let Tze know we will need QA in the upcoming sprint
+  - Error Matrix updates
+  - What to do with 
+  - Refine/revisit https://github.com/department-of-veterans-affairs/va.gov-team/issues/1129 with an eye on def of done
 * Continue Bad Address Indicator
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
