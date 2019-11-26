@@ -42,7 +42,7 @@ To talk to stakeholders or VA employees that are working on the other side of th
 You should run a pilot/test session before your study. This session should be done with Perigeon so you go through the process of logging in for the first (or fortieth) time, get any kinks worked out, and understand how to hand off mouse controls or have a participant show their screen in the practice run.  Reach out to VSP to help coordinate the pilot.
 
 ## <a id="taking-notes"></a> Taking Notes
-* Since we have to be so careful with recordings, we expect you to have a colleague that is taking verbatim notes during the session. This can be another designer, or another member of your team. Perigean will also take verbatim notes for your project, if requested.
+* Since we have to be so careful with recordings, we expect you to assign a colleague to take verbatim notes during the session. This can be another designer, or another member of your team. Perigean will also take verbatim notes for your project, if requested - but you must request this at the beginning of the study.
 * [Guidance on notetaking can be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/How-to-take-session-notes.md)
 * We recommend creating a “notes” file within your github folder and storing each session as an .md document.  We recommend copying the conversation guide over to your .md file beforehand  so it’s easier to take notes.
 * Make sure to scrub your notes of all PII before uploading to Github
