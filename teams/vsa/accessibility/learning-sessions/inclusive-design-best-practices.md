@@ -13,7 +13,7 @@ Friday, December 22, 2019, at 2pm ET, Accessibility Beyond Compliance (ABC) Lear
 * [Agenda](#agenda)
 * [Resources](#resources)
 * [What It Is And What It Isn't](#what-it-is-and-what-it-isnt)
-* []()
+* [Why Inclusive Design Matters](#why-inclusive-design-matters)
 * []()
 * []()
 * []()
@@ -145,3 +145,54 @@ _**Exclusion happens when we solve problems using our own biases.**_
 
 For example: For example, a designer assumed a person who is blind wouldn’t use a photocopier. Yet, they might use a photocopier to make copies for others or to copy pages from a book in order to scan them into a speech output program.
 
+### Recognize exclusion
+
+Sometimes exclusion is temporary. Sometimes exclusion is situational. 
+
+Even a short-term injury or context affects the way people interact with the world around them, if only for a short time. Think about looking into a bright light, wearing a cast, or ordering dinner in a foreign country.
+
+As people move through different environments, their abilities can also change dramatically. In a loud crowd, they can’t hear well. In a car, they’re visually impaired. New parents spend much of their day doing tasks one-handed. An overwhelming day can cause sensory overload. What’s possible, safe, and appropriate is constantly changing.
+
+### Recognize exclusion: Disability defined, then and now
+
+1980 - Disability as personal attribute - “In the context of health experience, a disability is any restriction or lack of ability (resulting from an impairment) to perform an activity in the manner or within the range considered normal for a human being.”
+
+Today - Disability as context dependent - “Disability is not just a health problem. It is a complex phenomenon, reflecting the interaction between features of a person’s body and features of the society in which [they] live.”
+
+“The concept of "disability" may have limited the understanding of the need for accessible technology … the IT industry must consider the wide range of people who could benefit. ” - [Microsoft (2003)](https://www.microsoft.com/design/inclusive/)
+
+One finding of Microsoft’s report [The Wide Range of Abilities and Its Impact on Computer Technology](https://download.microsoft.com/download/0/1/f/01f506eb-2d1e-42a6-bc7b-1f33d25fd40f/researchreport.doc) is that, before developers of technology products can address the growing demand for accessible products effectively, they must first acknowledge the reality that the concept of disability may have previously limited their understanding of that need.
+
+### Recognize exclusion: Disability difficulties prevalence
+
+A 2003 report by Microsoft revealed people struggle more than generally thought:
+* 25% – Severe Difficulties
+* 37% – Mild Difficulties
+* 16% – Minimal Difficulties
+* 21% – No difficulties
+
+The prevalence data and definitions of difficulty levels are drawn from the [Microsoft (2003) survey.](http://www.inclusivedesigntoolkit.com/whatis/whatis.html#p20)
+
+### Learn from Diversity
+
+When experiences don’t serve people the way they should, people adapt. Sometimes in astonishing ways that the designers never intended. **The insight is in the adaptation.**
+
+Interactions with technology depend heavily on what we can see, hear, say, touch, learn, and remember. Mobile tech can make situational limitations highly relevant to many people today. Mobile puts in focus questions like: Are we forced to adapt to technology, or is technology adapting to us?
+
+_Further information:_ A report by Microsoft (2003): [The Wide Range of Abilities and its Impact on Computer Technology](http://download.microsoft.com/download/0/1/f/01f506eb-2d1e-42a6-bc7b-1f33d25fd40f/researchreport.doc) presents survey results on the range of abilities in the US population and discusses the current and potential market for accessible technology. A paper by Lange and Becerra (2007): [Teaching universal design in Colombia: the academic approach of two universities](https://www.researchgate.net/publication/309800043_Teaching_Universal_Design_in_Colombia_The_Academic_Approach_of_Two_Universities) discusses perceptions of disability and explains how it is ‘normal to be different’.
+
+**Learn how people adapt to the world by spending time understanding their experience from their perspective.**
+
+Empathy is an important part of many different forms of design. When building empathy for exclusion and disability, it’s misleading to rely only on simulating different abilities through blindfolds and earplugs. Learning how people adapt to the world around them means spending time understanding their experience from their perspective.
+
+### Solve for one, extend to many
+
+Designing for people with permanent disabilities can seem like a significant constraint, but the resulting designs can actually benefit a much larger number of people. 
+
+For example, closed captioning was created for the hard of hearing community. But, there are many benefits of captioning such as reading in a crowded airport, or, teaching children how to read.
+
+Everyone experiences exclusion as they interact with our designs. On the other hand, a solution that works well for someone who’s blind might also benefit any person driving a car. Inclusive design works across a spectrum of related abilities, connecting different people in similar circumstances. High-contrast screen settings were initially made to benefit people with vision impairments. But today, many people benefit from high-contrast settings when they use a device in bright sunlight. The same is true for remote controls, automatic door openers, audiobooks, email, and much more. Designing with constraints in mind is simply designing well.
+* One of the central ideas of inclusive design is that designing for people with disabilities will result in better designs that will benefit everyone. 
+* Considering the popular technological innovations that were originally designed to help people with disabilities—email, cell phones and texting have all been developed to facilitate communication with the deaf—this is not really a radical notion. 
+* What is radical is that Microsoft, a major global company, has wholeheartedly embraced the inclusive design philosophy.
+* Assuming all those senses and abilities are fully enabled all the time creates the potential to ignore much of the range of humanity.
