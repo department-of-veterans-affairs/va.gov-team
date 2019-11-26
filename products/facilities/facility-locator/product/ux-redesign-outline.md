@@ -80,12 +80,13 @@ What could go wrong and what is our plan to mitigate risk?
   - find a retail pharmacy so that I can have fill my prescription. 
   - understand my available benefit so I can be prepared for my visit to the urgent care/retail pharmacy.
 
+### Pending questions
+- Do we need to return VAMC locations as part of urgent care research results?
+
 ### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
-- Considered the need to return VAMC locations as part of urgent care research results
-  - For this scope of work, urgent care means community care and search results will only include community care network locations with urgent care services. 
 - Considered the need to return emergency care as part of urgent care research results
-  - Emergency care will be separate facility type and will include only VHA locations
+  - Emergency care will be separate facility type 
   
 ### Proposed Solution & Value Proposition
 *A brief description of the proposed solution, including its unique value proposition.*
@@ -109,6 +110,34 @@ What could go wrong and what is our plan to mitigate risk?
 - [ ] The Veteran can download benefit information to take to the facility.
 - [ ] Veterans using assistive technology can achieve the stated goals above.  
 
+## Emergency care
 
+### User Journey
+
+### Problem
+*What problems are we trying to solve or user pain points we’re seeking to alleviate?*
+
+
+### User Stories / Use Cases
+*What two or three core use cases do we believe should cover ~80% of users?*
+
+*What use cases have been identified as edge?*
+
+
+### Pending questions
+- Will Veterans use Facility Locator to find emergency services?
+- If emergency care benefit can be used at any location (Va, non-VA), how should search results be presented?
+
+### Rejected Solutions
+*What other approaches did we consider and why were they rejected?*
+
+### Success Criteria
+*How do we define success? Failure?*
+
+### Risk factors 
+
+### Definition of Done
+
+## Community Care
 
 
