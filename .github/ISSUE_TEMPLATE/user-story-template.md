@@ -1,5 +1,5 @@
 ## User Story:
-As a [X], I need [Y] so that I can [Z].
+As a __________, I need __________ so that I can __________.
 
 ## Acceptance Criteria:
 _The requirements that must be met in order to mark this user story as completed_
