@@ -1,7 +1,7 @@
 # Research Plan for Facility Locator Urgent Care - November 2019
 
 ## Goals
-1. What product & team are you doing this research for?
+1. This research is for the VSA Facility Locator team.
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 4. Hypothesis: What is your hypothesis for this research? 
