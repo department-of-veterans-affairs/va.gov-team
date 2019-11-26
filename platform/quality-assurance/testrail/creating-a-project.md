@@ -14,7 +14,7 @@
 
 
 
-[testrail-add-project]: ../images/testrail/add-project.png
-[testrail-add-project-details]: ../images/testrail/add-project-details.png
-[testrail-add-project-details-add]: ../images/testrail/add-project-details-add.png
-[testrail-add-project-confirmation]: ../images/testrail/add-project-confirmation.png
+[testrail-add-project]: ../images/testrail-tutorials/add-project.png
+[testrail-add-project-details]: ../images/testrail-tutorials/add-project-details.png
+[testrail-add-project-details-add]: ../images/testrail-tutorials/add-project-details-add.png
+[testrail-add-project-confirmation]: ../images/testrail-tutorials/add-project-confirmation.png
