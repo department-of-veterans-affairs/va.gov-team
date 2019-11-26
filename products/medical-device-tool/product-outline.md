@@ -8,10 +8,13 @@ Product Outline
 - Product POCs:
   - Matthew Self, DEPO Lead
   - Nick Wygoink, BAM2 Product Manager
+
 - Stakeholders:
-  - Shane Elliot, Associate Director, Loma Linda VA Healthcare System
-  - Paras Shah, VEText Project Manager
-  - Robert Durkin, ?
+  - [ ] - Pat Booth – Chief, Veteran Services Division (VSD)
+  - [ ] - Jeff Robillard – Supervisor, Customer Service Section (one of two sections within VSD)
+  - [ ] - Jim Richardson – Senior Developer
+  - [ ] - Shane Elliot, Associate Director, Loma Linda VA Healthcare System
+  - [ ] - Paras Shah, VEText Project Manager
 
 ## Background
 DEPO, working in coordination with VBA, began an ambitious project to modernize the VA's digital benefits delivery process. Practically, this is taking the form of a migration of functionality from the current platform, eBenefits (http://www.ebenefits.va.gov), to the modern web platform of the future, VA.gov (http://www.va.gov).
@@ -33,44 +36,44 @@ Millions of Veterans depend upon the VA for disability-related medical devices a
 
 ### User Problem Statement
 As a Veteran, I want to be able to easily order the medical devices I need for my disability. 
+- [ ] _As a Veteran, I want one place to easily order the medical needs._ 
 
 ## Discovery
 
 ### User Goals (Assumed)
 - Veterans:
-  - Receive **hearing aid batteries _and accessories_** or **prosthetic socks** from the VA
-  - Spend less time and energy placing orders for assistive medical devices and accessories
-  - Never run out of resupply items
+  - Recieve **hearing aid batteries** or **prosthetic socks** from the VA _Denver Logistic Company_
+  - Automate their orders. 
+  - [ ] - _Veteran's would like to reduce the effert needed when ordering medical needs_ 
+  
 
 - VHA Providers:
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
-  - Ensure patients have access to the right resupply items for their medical devices without their intervention required
+  - [ ] - _To migrate orders from Veterans to the online channel and away from the other channels proved (Automated phone service, Call center services, Mail in leaflet, and email)_
+ - [ ] - _To allow veterans to order the DLC's full catalogue through the online ordering channel_
 
-- DLC Agents:
-  - Enter in orders from Vets via phone, mail, or email quickly and accurately
-  - Field fewer calls and manual entry cards for repeat orders
+- DLC Employees:
+  - Enter in orders from Vets via phone, mail, or email
 
-- VA/DLC Managers:
-  - Reduce the amount of manual work required by agents by encouraging online ordering
-  - Expand the availability of medical devices and accessories online
+- Manufacturing Company:
+   - TBD  
+
+- VA/DLC Managers
+  - TBD
   
-### User Pain Points (Assumed)
+### Veteran's Pain Points (Assumed)
 - Veterans:
   - They are required to manually order the same item many times
-  - They are required to either call a live agent or write 'additional comments' on their order form to get common resupply items for their device outside of batteries or socks
-  - They are required to log in to a system they don't otherwise use
-
+  - There are too many methods to ordering devices
+  - [ ] _Have all the reoccurring items that are needed to be ordered in one location, i.e. pharmaceutical needs as well as medical device needs_
+  - [ ] - __
 
 ### Business Goals (Assumed)
 - To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted
 - To increase the number of online order submissions, thereby reducing the amount of manual work required by call center agents
-- To decrease the number of shipments required to individuals
-- To increase the number of items available to order online to include hearing aid accessories and sleep apnea resupply items 
-- To reduce the number of order and shipment errors
+- To reduce the number of order-related errors
 
 ## Assumptions
-- Veterans will use VA.gov to order resupply items if they're able to order all of the things they order via phone
-- Veterans will create or use their VA.gov account to use this feature
 
 ## Questions
 - Who "owns" the Medical device ordering "portfolio"?
@@ -90,9 +93,10 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 ## Requirements
 #### In Scope
+- [ ] Migrating current Medical Device tool from eBenefits to Va.gov
 
 #### Out of Scope
-
+- [ ] TBD- Incorporating the larger DLC catalogue items to VA.gov
 ## Solution Approach
 
 ## Value Propositions
@@ -122,7 +126,7 @@ Discovery in-progress
 - Designers: Rebecca Walsh, Riley Orr
    
 ## Screenshots
-
+Mural board [LINK] (https://app.mural.co/t/vsa8243/m/vsa8243/1574363101745/48437699b80471a20330c14fbaedca02b040e9ff)
 ### Before
 
 ### After
