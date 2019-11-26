@@ -1,5 +1,5 @@
 ## eBenefits Rated Disabilities Usability Session 10
-#### Conducted: October 4, 2019 via GoToMeeting
+#### Conducted: November 20, 2019 via GoToMeeting
 #### Moderator: Jim Adams
 #### Participants: 1
 #### Session Recorded: Yes
