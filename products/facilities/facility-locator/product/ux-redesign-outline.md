@@ -5,8 +5,8 @@
 The UX redesign will have two main areas of focus
 - [Overall usability and search functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#overall-usability-and-search-functionality-mvp)
 - [Urgent care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#urgent-care)
-- Emergency care
-- Community care
+- [Emergency care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#emergency-care)
+- [Community care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/ux-redesign-outline.md#community-care)
 
 ## Overall usability and search functionality (MVP)
 
@@ -117,12 +117,10 @@ What could go wrong and what is our plan to mitigate risk?
 ### Problem
 *What problems are we trying to solve or user pain points we’re seeking to alleviate?*
 
-
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
 
 *What use cases have been identified as edge?*
-
 
 ### Pending questions
 - Will Veterans use Facility Locator to find emergency services?
@@ -139,5 +137,27 @@ What could go wrong and what is our plan to mitigate risk?
 ### Definition of Done
 
 ## Community Care
+
+### User Journey
+
+### Problem
+*What problems are we trying to solve or user pain points we’re seeking to alleviate?*
+
+### User Stories / Use Cases
+*What two or three core use cases do we believe should cover ~80% of users?*
+
+*What use cases have been identified as edge?*
+
+### Pending questions
+
+### Rejected Solutions
+*What other approaches did we consider and why were they rejected?*
+
+### Success Criteria
+*How do we define success? Failure?*
+
+### Risk factors 
+
+### Definition of Done
 
 
