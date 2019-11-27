@@ -1,6 +1,7 @@
 ``` diff
 - Screenshots will be embedded soon
 - This will end up as a pdf for final delivery to Call Center
+- Draft, needs urls and editing
 ```
 
 # Rated Disabilities
