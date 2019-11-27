@@ -2,7 +2,7 @@
 
 The following are the themes that emerged from presenting the Platform one-pager document to DEPO product owners and designers.
 
-## Stakeholders will see what's important to them
+## 1. Stakeholders will see what's important to them
 > If you plan to share this with VA stakeholders they will focus on things they care about.
 
 > Having a list of 18 equally presented things may not align to prioritization that business stakeholders have in mind - tailor to the stakeholder (3-4 things) and focus on those
@@ -12,10 +12,10 @@ The following are the themes that emerged from presenting the Platform one-pager
 > If you can address the reality of their situation, things that are keeping them up at night, that resonates
 
 #### Ideas
-- Make the presentation customizable for the audience
-- Categorize platform offerings in ways that make sense for stakeholders (time savings, cost savings, compliance, lowering effort, etc)
+- a. Make the presentation customizable for the audience
+- b. Categorize platform offerings in ways that make sense for stakeholders (time savings, cost savings, compliance, lowering effort, etc)
 
-## Stakeholders have vague ideas of what the platform is in its broadest sense, which leads to anxiety about building on it
+## 2. Stakeholders have vague ideas of what the platform is in its broadest sense, which leads to anxiety about building on it
 
 **Vague ideas and unanswered questions**
 
@@ -44,12 +44,12 @@ The following are the themes that emerged from presenting the Platform one-pager
 > I could see the potential for platform being a blocker
 
 #### Ideas
-- Clarify what the platform is using straightforward, repeatable language stakeholders are familiar with
-- Consider incorporating stakeholder-focused problem statements
-- Consider using language from the directives of Devops and HCD
-- Have a full list of well-defined platform offerings as an appendix we can point to if questions come up
+- a. Clarify what the platform is using straightforward, repeatable language stakeholders are familiar with
+- b. Consider incorporating stakeholder-focused problem statements
+- c. Consider using language from the directives of Devops and HCD
+- d. Have a full list of well-defined platform offerings as an appendix we can point to if questions come up
 
-## It's unclear how teams and stakeholders will interact with the platform
+## 3. It's unclear how teams and stakeholders will interact with the platform
 
 > When do I come to you? When am I supposed to come to you?
 
@@ -64,13 +64,13 @@ The following are the themes that emerged from presenting the Platform one-pager
 > This tells me I own this [product] forever, there’s no off-ramp? Do I go in this cycle forever?
 
 #### Ideas
-- Consider incorporating a success story (or snippets of ideal examples - screenshots of Slack conversations, Zenhub tickets?) that we can use to demonstrate interactions over time [do we have one?]
-- Consider pushing on the timeline layout with the stakeholder experience incorporated
+- a. Consider incorporating a success story (or snippets of ideal examples - screenshots of Slack conversations, Zenhub tickets?) that we can use to demonstrate interactions over time [do we have one?]
+- b. Consider pushing on the timeline layout with the stakeholder experience incorporated
 
 ### Specific copy and design feedback
-- Change Content Management System to “Content Management Process” to better reflect current reality
-- Won’t be able to read details / see from back of room (of slide 8)
-- From a purely visual perspective, need to bump up contrast” (greys)
-- Reframe verbiage from “you, the VFS team” to stakeholder
-- Maybe use plainer terms than VSP and VFS acronyms - product team vs. platform team.
-- If we want to convey that this is more iterative than waterfall… well, it still looks  like a waterfall that was just made circular
+- c. Change Content Management System to “Content Management Process” to better reflect current reality
+- d. Won’t be able to read details / see from back of room (of slide 8)
+- e. From a purely visual perspective, need to bump up contrast” (greys)
+- f. Reframe verbiage from “you, the VFS team” to stakeholder
+- g. Maybe use plainer terms than VSP and VFS acronyms - product team vs. platform team.
+- h. If we want to convey that this is more iterative than waterfall… well, it still looks  like a waterfall that was just made circular
