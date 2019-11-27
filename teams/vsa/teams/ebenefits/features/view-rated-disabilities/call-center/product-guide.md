@@ -7,11 +7,13 @@
 ### TOC
  - What is it?
  - User Access
-  - Who can access?
-  - How can users access?
+   - Who can access?
+   - How can users access?
  - Navigation
+ - FAQs
  - Functionality
  - Error & Notification Log
+ - Video Demo Link
 
 ## What is it?
  - Rated Disabilities is a common function among the veteran community to see what their Total Calulated Disability Rating is, what has factored into that calculation and what is currently pending from the Claim Status Tool. These data are important as they inform the Veteran what their service connected rating is and what benefits they might be elegible for.
@@ -37,6 +39,24 @@ After proper authentication, the Veteran is brought to the Rated Disabilities pa
 
 There are a few other pages that the Veteran can browse to learn more about how the rating is calculated, how to get assistance in the event that the values represented are unexpected as well as a link to the Claim Status Tool.
 
+## FAQs
+**Where can I learn more information?**
+A link for more genral inforamtion can be found at this url: https://www.va.gov/disability/about-disability-ratings/
+
+**What if I disagree with the information shown?**
+The link to the ratings calculator can be found at this url: 
+The link to the Claim Status Tool can be foudn at this url:
+
+**Who can I call if I need help?**
+
+**I have a disability that is pending, where can I go to get more information?**
+
+**I am logging in on behalf of a Veteran, why can't I see the proper information?**
+
+**What does "service connected" mean?**
+
+**I don't see a number next to my individual rating.  Where is it?  What does that mean?**
+
 ## Functionality
 The Rated Disabilities tool page simply shows the total combined disability rating (critical for establishing levels of compensation) and the individual ratings that are service connected, and therefore a part of that calculation, and non-service connected which are for issues that have occured while the Veteran was not in service.  These are important for inclusion as some might be pending or be needed to take into account.
 
@@ -55,12 +75,4 @@ Other Error Handling Notes
 - vets-api error mapping: https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/locales/exceptions.en.yml This is a comprehensive list of all expected exceptions within vets-api, not specific to rated disabilities.
 - Errors related to the disbaility compensation form (526) can be found here: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/disability_compensation_form/service_exception.rb These get mapped to the exceptions.enyml file referenced above. The exceptions are handled in a linear/sequential fashion, meaning the first exception in the list that is encountered is the one that will be returned.
 - wss-form526-services-web: https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml#/
-
-
-
-
-
-
-
-
 
