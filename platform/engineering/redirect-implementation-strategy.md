@@ -2,7 +2,7 @@
 
 Last update: 11/26/19
 
-_Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli were present._ 
+_Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
 
 ---
 
@@ -131,7 +131,7 @@ _Any other notes_
 - Improve the redirect process from non-www. subdomains such that server-side redirects can be the default.
 - Make contacts and relationships with TeamSite engineers ~to explore how to archive or delete legacy pages so that content editors don’t continue to update them.~
 - ~Find out what happens when a TeamSite page with a client-side redirect to www.va.gov/ is archived or deleted.~
-- Above points have been tested 11/19, we won't be deleting or archiving, see full details above under "4) Client-side redirects for non-www. subdomains - Any other notes"
+- _Above points (crossed out) have been tested 11/19, we won't be deleting or archiving, see full details above under "4) Client-side redirects for non-www. subdomains - Any other notes"_
 - Consider using welcome modals for cases where an entire subdomain is redirected. Explore.va.gov does this via [query parameter](https://www.va.gov/?from=explore.va.gov).
 - Gain a better understanding of analytics and SEO impacts of implementing and changing redirects.
 - Implement server-side www.va.gov/ redirects in Drupal CMS.
