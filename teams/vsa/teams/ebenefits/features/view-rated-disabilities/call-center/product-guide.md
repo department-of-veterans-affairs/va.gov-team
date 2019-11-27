@@ -4,7 +4,7 @@
 
 # Rated Disabilities
 
-### TOC
+### TOC 
  - What is it?
  - User Access
    - Who can access?
@@ -40,43 +40,43 @@ After proper authentication, the Veteran is brought to the Rated Disabilities pa
 There are a few other pages that the Veteran can browse to learn more about how the rating is calculated, how to get assistance in the event that the values represented are unexpected as well as a link to the Claim Status Tool.
 
 ## FAQs
-**Where can I learn more information?**
+**Where can I learn more information?**  
 A link for more genral inforamtion can be found at this url: https://www.va.gov/disability/about-disability-ratings/
 
-**What if I disagree with the information shown?**
+**What if I disagree with the information shown?**  
 The link to the ratings calculator can be found at this url: 
 The link to the Claim Status Tool can be foudn at this url:
 
-**Who can I call if I need help?**
+**Who can I call if I need help?**  
 
-**I have a disability that is pending, where can I go to get more information?**
-The Claim Status Tool is the best way to see what claims are currently pending.  The url for that is:
+**I have a disability that is pending, where can I go to get more information?**  
+The Claim Status Tool is the best way to see what claims are currently pending.  The url for that is:  
 
-**I am logging in on behalf of a Veteran, why can't I see the proper information?**
-VA.gov does not accomodate other non-Veteran users at this time.
+**I am logging in on behalf of a Veteran, why can't I see the proper information?**  
+VA.gov does not accomodate other non-Veteran users at this time.  
 
-**What does "service connected" mean?**
-"Service Connected" is an issue that occurred while the Veteran was in service.
+**What does "service connected" mean?**  
+"Service Connected" is an issue that occurred while the Veteran was in service.  
 
-**I don't see a number next to my individual rating.  Where is it?  What does that mean?**
+**I don't see a number next to my individual rating.  Where is it?  What does that mean?**  
 This usually means there is no rating because they are not service connected and are not applied to the Total Combined Disability Rating.
 
-## Functionality
+## Functionality  
 The Rated Disabilities tool page simply shows the total combined disability rating (critical for establishing levels of compensation) and the individual ratings that are service connected, and therefore a part of that calculation, and non-service connected which are for issues that have occured while the Veteran was not in service.  These are important for inclusion as some might be pending or be needed to take into account.
 
 The Veteran also has the option of browsing into the Claim Status Tool in order to learn more about the status of individual claims (e.g., active, inactive or pending).
 
-## Error Handling and Notifications
-There are wrappers around each component that detect when data is successfully recieved and available. A loading spinner appears to indicate the page is loading relevent information for each component as well.
+## Error Handling and Notifications  
+There are wrappers around each component that detect when data is successfully recieved and available. A loading spinner appears to indicate the page is loading relevent information for each component as well.  
 
-In the event that the page does not see the data, a blue messaging window appears.
+In the event that the page does not see the data, a blue messaging window appears.  
 
-In the event that the page cannot load the page (or part of a page) due to a system issues, a red messaging window appears.
+In the event that the page cannot load the page (or part of a page) due to a system issues, a red messaging window appears.  
 
-Also included is workflow that shows how the Veteran can get in and out of the Rated Disabilities tool.
+Also included is workflow that shows how the Veteran can get in and out of the Rated Disabilities tool.  
 
-Other Error Handling Notes
-- vets-api error mapping: https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/locales/exceptions.en.yml This is a comprehensive list of all expected exceptions within vets-api, not specific to rated disabilities.
-- Errors related to the disbaility compensation form (526) can be found here: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/disability_compensation_form/service_exception.rb These get mapped to the exceptions.enyml file referenced above. The exceptions are handled in a linear/sequential fashion, meaning the first exception in the list that is encountered is the one that will be returned.
-- wss-form526-services-web: https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml#/
+**Other Error Handling Notes**  
+- vets-api error mapping: https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/locales/exceptions.en.yml This is a comprehensive list of all expected exceptions within vets-api, not specific to rated disabilities.  
+- Errors related to the disbaility compensation form (526) can be found here: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/disability_compensation_form/service_exception.rb These get mapped to the exceptions.enyml file referenced above. The exceptions are handled in a linear/sequential fashion, meaning the first exception in the list that is encountered is the one that will be returned.  
+- wss-form526-services-web: https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml#/  
 
