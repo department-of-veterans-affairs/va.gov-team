@@ -1,6 +1,10 @@
-Rated Disabilities
+``` diff
+- Screenshots will be embedded soon
+```
 
-TOC
+# Rated Disabilities
+
+### TOC
  - What is it?
  - User Access
   - Who can access?
@@ -9,36 +13,36 @@ TOC
  - Functionality
  - Error & Notification Log
 
-What is it?
+## What is it?
  - Rated Disabilities is a common function among the veteran community to see what their Total Calulated Disability Rating is, what has factored into that calculation and what is currently pending from the Claim Status Tool. These data are important as they inform the Veteran what their service connected rating is and what benefits they might be elegible for.
 
  There are also links and resources that help guide the user to gain more information and assistance.
  Target launch date is end of November 2019, early December 2020.
 
-- User Access
- - Who can access?
+## User Access
+### Who can access?
  Rated Disabilities is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.
 
- [I don't know if the other non ID.me access methods are valid]
+ _[I don't know if the other non ID.me access methods are valid]_
 
- - How can users access?
+### How can users access?
  This feature is accessible for testing within the staging environment at this url: https://staging.va.gov/disability/view-disability-rating/rating, and can be accessed in any modern browser.
 
  The Rated Disabilities Tool page also conforms to 508 compliance and can be used with major screen readers and other assistant tools.
 
-- Navigation
+## Navigation
 Browsing within VA.gov from the disability page should bring the user to an unauthenticated landing page (https://va.gov/disability/view-disability-rating) which should answer some general questions about the tool as well as present the login button to gain access.
 
 After proper authentication, the Veteran is brought to the Rated Disabilities page.  
 
 There are a few other pages that the Veteran can browse to learn more about how the rating is calculated, how to get assistance in the event that the values represented are unexpected as well as a link to the Claim Status Tool.
 
-- Functionality
+## Functionality
 The Rated Disabilities tool page simply shows the total combined disability rating (critical for establishing levels of compensation) and the individual ratings that are service connected, and therefore a part of that calculation, and non-service connected which are for issues that have occured while the Veteran was not in service.  These are important for inclusion as some might be pending or be needed to take into account.
 
 The Veteran also has the option of browsing into the Claim Status Tool in order to learn more about the status of individual claims (e.g., active, inactive or pending).
 
-- Error Handling and Notifications
+## Error Handling and Notifications
 There are wrappers around each component that detect when data is successfully recieved and available. A loading spinner appears to indicate the page is loading relevent information for each component as well.
 
 In the event that the page does not see the data, a blue messaging window appears.
