@@ -68,9 +68,9 @@ The following are the themes that emerged from presenting the Platform one-pager
 - b. Consider pushing on the timeline layout with the stakeholder experience incorporated
 
 ### Specific copy and design feedback
-- c. Change Content Management System to “Content Management Process” to better reflect current reality
-- d. Won’t be able to read details / see from back of room (of slide 8)
-- e. From a purely visual perspective, need to bump up contrast” (greys)
-- f. Reframe verbiage from “you, the VFS team” to stakeholder
-- g. Maybe use plainer terms than VSP and VFS acronyms - product team vs. platform team.
+- c. Change Content Management System to “Content Management Process” to better reflect current reality [done](https://docs.google.com/presentation/d/1q2QZIJXH6nSAzdVlANUd1Mt1KVFFiL1uRZgWSsXucJg/edit#slide=id.g5f8284ca61_0_325)
+- d. Won’t be able to read details / see from back of room (of slide 8) [to do](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3729)
+- e. From a purely visual perspective, need to bump up contrast” (greys) [to do](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3729)
+- f. Reframe verbiage from “you, the VFS team” to stakeholder [to do](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3729)
+- g. Maybe use plainer terms than VSP and VFS acronyms - product team vs. platform team. [done](https://docs.google.com/presentation/d/1q2QZIJXH6nSAzdVlANUd1Mt1KVFFiL1uRZgWSsXucJg/edit#slide=id.p1)
 - h. If we want to convey that this is more iterative than waterfall… well, it still looks  like a waterfall that was just made circular
