@@ -50,12 +50,16 @@ The link to the Claim Status Tool can be foudn at this url:
 **Who can I call if I need help?**
 
 **I have a disability that is pending, where can I go to get more information?**
+The Claim Status Tool is the best way to see what claims are currently pending.  The url for that is:
 
 **I am logging in on behalf of a Veteran, why can't I see the proper information?**
+VA.gov does not accomodate other non-Veteran users at this time.
 
 **What does "service connected" mean?**
+"Service Connected" is an issue that occurred while the Veteran was in service.
 
 **I don't see a number next to my individual rating.  Where is it?  What does that mean?**
+This usually means there is no rating because they are not service connected and are not applied to the Total Combined Disability Rating.
 
 ## Functionality
 The Rated Disabilities tool page simply shows the total combined disability rating (critical for establishing levels of compensation) and the individual ratings that are service connected, and therefore a part of that calculation, and non-service connected which are for issues that have occured while the Veteran was not in service.  These are important for inclusion as some might be pending or be needed to take into account.
