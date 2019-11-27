@@ -75,13 +75,10 @@ What could go wrong and what is our plan to mitigate risk?
   - understand my available benefit so I can be prepared for my visit to the urgent care/retail pharmacy.
   
 *What use cases have been identified as edge?*
-- As a Veteran in neither a Tricare or Optum metwork area, I want to...
-  - find an urgent care facility so that I can have my immediate health care need met.
-  - find a retail pharmacy so that I can have fill my prescription. 
-  - understand my available benefit so I can be prepared for my visit to the urgent care/retail pharmacy.
 
 ### Pending questions
 - Do we need to return VAMC locations as part of urgent care research results?
+- Will all Veterans be served by either Optum or TriCare?
 
 ### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
