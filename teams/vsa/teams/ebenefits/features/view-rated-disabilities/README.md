@@ -136,7 +136,7 @@ eBenefits, rated disabilities
 
 ### Screenshots  
 #### Before  
-![Original Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/Rated_Disabilities_eBenefits_OLD.png)
+![Original Rated Disabilities](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/Rated_Disabilities_eBenefits_OLD.png)
 #### After  
 [Live mockups](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/?x_product=cc-slack%2F1.4.0)
 ![New Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/rated-disabilities-final.JPG)
