@@ -1,4 +1,4 @@
-# URL Creation – Process & Guidelines
+# URL Guidelines
 
 The URL path is the component of the URL that immediately follows the domain (i.e. www.va.gov) and directs the user to a specific file, or, page on the site. The path is made up of 1 or more directories, depending on how deep the page is within the site.
 
