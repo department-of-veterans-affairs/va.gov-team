@@ -22,7 +22,7 @@ This document will provide a common language for determining accessibility defec
 * Those who have photosensitivity
 
 ### Time to Fix
-* Issue must be fixed before launch
+* Issue **must be fixed before launch**
 
 ## 508-defect-1 (Critical)
 
@@ -42,7 +42,7 @@ This document will provide a common language for determining accessibility defec
 * Users who are hard of hearing or deaf
 
 ### Time to Fix
-* Issue should be prioritized to fix in the next sprint if possible
+* Issue **must be fixed before launch**
 
 ## 508-defect-2 (Serious)
 
@@ -67,7 +67,7 @@ This document will provide a common language for determining accessibility defec
 * Users with identified short-term memory or other cognitive issues
 
 ### Time to Fix
-* Issue should be prioritized to fix in the next 1 to 3 sprints
+* Issue should be prioritized for fix 1-2 sprints post-production launch
 
 ## 508-defect-3 (Minor)
 
@@ -81,7 +81,7 @@ This document will provide a common language for determining accessibility defec
 * Keyboard users
 
 ### Time to Fix
-* Issue should be prioritized for next iteration (often 3 sprints in length)
+* Issue should be prioritized for next iteration (often 3 sprints in length) or sooner if time allows
 * These issues are often good items for engineers to pick up when they have a few extra hours at the end of a sprint
 
 ## 508-defect-4 (Trivial)
@@ -98,5 +98,5 @@ This document will provide a common language for determining accessibility defec
 * Users with identified short-term memory or other cognitive issues
 
 ### Time to Fix
-* Issue should be prioritized for next iteration (often 3 sprints in length)
+* Issue should be prioritized for next iteration (often 3 sprints in length) or sooner if time allows
 * These issues are often good items for engineers to pick up when they have a few extra hours at the end of a sprint
