@@ -14,8 +14,8 @@ Benefits and Memorial Services
 Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
 (look into this statement, this is very broad)
 ### **Product Portfolio**
-  - Medical Device Tool
-  - Certification of Eligibility Process
+  - [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
+  - Certification of Eligibility Process 
   - Certificate of Eligibility Process 1990
   - GI Bill applicant Experience
   - GI Bill statement of Benefits
@@ -25,7 +25,7 @@ Enable Veterans, their dependents, and caregivers to easily discover, apply for,
 TBD
 
 ### **Roadmap**
-[Road Map] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map%202small.PNG)
+![Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map%202small.PNG)
 
 ### **Team Members**
 
