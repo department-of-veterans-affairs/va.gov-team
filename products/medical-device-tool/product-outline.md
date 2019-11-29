@@ -53,7 +53,7 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
  - [ ] - _To allow veterans to order the DLC's full catalogue through the online ordering channel_
 
 - DLC Employees:
-  - Enter in orders from Vets via phone, mail, or email
+  - Enter in orders from Vets via phone: call center & automatided, mail, or email
 
 - Manufacturing Company:
    - TBD  
@@ -69,11 +69,12 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
   - [ ] - __
 
 ### Business Goals (Assumed)
-- To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted
-- To increase the number of online order submissions, thereby reducing the amount of manual work required by call center agents
+- Fiscal 2020 our team is looking at focusing on migrating eBenefits medical tool to VA.gov 
+- Increase volume of online orders by migrating existing user to the online ordering channel.
 - To reduce the number of order-related errors
 
 ## Assumptions
+
 
 ## Questions
 - Who "owns" the Medical device ordering "portfolio"?
@@ -121,7 +122,7 @@ Discovery in-progress
 - DEPO Digital Strategist(s): Matthew Self
 - Product Manager: Nick Wygoink
 - Design Lead: Shawna Hein
-- Eng Lead: 
+- Eng Lead: Joe Costa
 - Engineers: Amen Ra (FE), Mahariel Rosario (FE), Joseph Brothers (BE)
 - Designers: Rebecca Walsh, Riley Orr
    
