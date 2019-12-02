@@ -91,17 +91,23 @@ We are keeping the add functionality (yay!) and keeping DD at 50% for now.
   - Let eBenefits know the plan and see when their next release cycle is after 1/8 so we can get on it to remove the DD functionality from eBenefits. **Answer for go/no-go on 12/14 is NO.**
   - Analytics: Answer follow-up questions
 - Address validation
-  - User testing updates (Copy; implementation by frontend)
+  - User testing updates 
+    - Copy [#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741)
+    - Frontend implementation
+  - Bad Unit number
+    - Finish copy
+    - Frontend implementation
   - QA
-    - Let Tze know we will need QA in the upcoming sprint
+    - Fill out Tze's QA intake form
     - Have Tze complete the test plan
   - Error Matrix
-    - Update
+    - Updates
     - Follow up with VA Profile (Vet360) team
-  - Refine/revisit https://github.com/department-of-veterans-affairs/va.gov-team/issues/1129 with an eye on def of done
-* Continue Bad Address Indicator
-  - Create tickets for APO/FPO/DPO work
-  - Build out APO/FPO/DPO work
+    - Create a GitHub version of the spreadsheet
+* APO/FPO/DPO
+  - Finalize copy for the profile
+  - Create a list of all benefit applications and where they get address data from — note which are VA Profile (Vet360) and which are not.
+  - Propose solution for how to handle military addresses in benefit applications that use VA Profile data.
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
