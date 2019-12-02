@@ -314,7 +314,7 @@ HRWeb is a HR Management web-based application used by Acme Insurance, used for 
  </thead>
  <tbody>
   <tr>
-   <td>
+   <td valign="top">
     <ul>
      <li>Age-related macular degeneration (amd) is the most common cause of blindness and vision impairment in Americans aged 60 and older. More than 1.6 million Americans over age 60 have advanced amd.</li>
      <li>Cataracts are the leading cause of blindness in the world. Cataracts affect nearly 20.5 million Americans age 65 and older. 
@@ -323,7 +323,7 @@ Vision changes in the elderly often result in increased susceptibility to glare 
      <li>Decreased muscle mass, bone density and lubrication of the joints cause stiffness of the joints, osteoporosis, fractures of the hip are common and bone/joint functional impairment. </li>
     </ul>
    </td>
-   <td>
+   <td valign="top">
     <ul>
      <li>Using larger fonts</li>
      <li>Making font size scaleable</li>
@@ -336,4 +336,11 @@ Vision changes in the elderly often result in increased susceptibility to glare 
    </td>
   </tr>
  </tbody>
+ <tfoot>
+  <tr>
+   <td colspan="2">
+    Source: [http://uiaccess.com/accessucd/users_eg.html](http://uiaccess.com/accessucd/users_eg.html)
+   </td>
+  </tr>
+ </tfoot>
  </table>
