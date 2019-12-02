@@ -48,7 +48,8 @@ To meet the organizational needs defined above, additional discussions with the 
 
 ## Timeline:
 
-TBD
+- Discovery starts December 2019
+- VA.gov integration and measurement definition January-February 2020
 
 ## People
 - Hena Grover <Henna.Grover@va.gov>
