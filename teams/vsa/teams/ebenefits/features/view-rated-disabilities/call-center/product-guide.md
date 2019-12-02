@@ -76,7 +76,7 @@ There are wrappers around each component that detect when data is successfully r
 
 In the event that the page does not see the data, a blue messaging window appears.  
 
-In the event that the page cannot load the page (or part of a page) due to a system issues, a red messaging window appears.  
+In the event that the page cannot load, the page (or part of a page) due to a system issues, a red messaging window appears.  
 
 Also included is workflow that shows how the Veteran can get in and out of the Rated Disabilities tool.  
 
