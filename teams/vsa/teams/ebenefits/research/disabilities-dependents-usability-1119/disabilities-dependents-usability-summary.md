@@ -56,7 +56,26 @@ Findings presented here are pending a formal analysis of research session transc
 
 ## Other Notable Findings
 #### Landing Pages
-- Interestingly, when users where asked to find the entry point to view disabilities or dependents from their respective landing pages, they were oten drawn to the long list of links in the left-hand nav rather than the main content column.
+- Interestingly, when users where asked to find the entry point to view disabilities or dependents from their respective landing pages, they were often drawn to the long list of links in the left-hand nav rather than the main content column.
 - Some useres seemed to be initially overwhelmed by the amount of content they had to scan to find entry points. The top-most section of content was ofen read at length.
 
 ## For Consideration
+#### User authorization/login is problematic and a barrier to use
+- Login registed as a prevalent and frustrating pain point.
+- Minimize linking back and forth between eBenefits and VA.gov.
+- Migrate features in a way to reduce or eliminate linking across sites.
+#### The tools page layout seems to be an acceptable balance of layout and content.
+- Removing left-hand navigation seemd to allow users to better consume primary and secondary content.
+- Content in the right-hand sidebar was helpful and easily consumed.
+- Information presented in cards was readliy understandable. However, long lists of "cards" were not tested.
+#### The Rated Disabilities screen tested well
+- Users could determine the page's purpose immediately.
+- Content was very quickly consumed and understood.
+- A few participant mentioned linking dependents info to educational benefits.
+- More detail was an often-requested feature.
+#### The View Dependents screen was an acceptable presentation
+- The purpose of a dedicated View Dependents screen was a little puzzling to most users. Few participants had direct experience with the ebenefits Dependents screen; most did not have dependents on-award.
+- Most participant feedback was similar to the Rated Disabilities screen
+- Most users expected the card buttons to lead to forms or detailed info.
+#### Particapnts universally regarded 800 numbers negatively
+- Chat was a common alternative suggested by users.
