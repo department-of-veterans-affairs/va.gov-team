@@ -15,7 +15,7 @@ Friday, December 22, 2019, at 2pm ET, Accessibility Beyond Compliance (ABC) Lear
   * [Resources](#resources)
 * [What It Is And What It Isn't](#what-it-is-and-what-it-isnt)
 * [Why Inclusive Design Matters](#why-inclusive-design-matters)
-* []()
+* [Where You Make a Difference](#where-you-make-a-difference)
 * []()
 * []()
 
