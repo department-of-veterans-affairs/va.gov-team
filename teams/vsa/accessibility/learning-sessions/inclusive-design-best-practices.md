@@ -47,8 +47,9 @@ There is also a request for learning how to use a screen reader.
 
 ### Calendar of Learning Sessions
 * Nov 22 - Inclusive Design Best Practices
-* Dec 20 - Cognitive Considerations	
-* Jan ## - Web Performance Impact on UX & Accessibility
+* Dec 20 - Getting Started with Screen Readers and Keyboard Usage
+* Jan ## - Cognitive Considerations
+* Feb ## - Web Performance Impact on UX & Accessibility
 
 Then, we’ll evaluate how these learning sessions are going, to ensure this is a useful format.
 
@@ -248,7 +249,91 @@ It may seem daunting to include people with disabilities on your project team. W
 - [ ] Business and usability goals include accessibility requirements
 
 **“Designing for inclusion is not a feel-good sideline.… inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.”**
+— John Maeda, in the forward to Kat Holmes’ Mismatch, How Inclusion Shapes Design
+
+**“Designing for inclusion is not a feel-good sideline.… inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.”**
 
 — John Maeda, _in the forward to Kat Holmes’ Mismatch, How Inclusion Shapes Design_
 
+### Individual differences
 
+Be careful not to assume that feedback from one person with a disability applies to all people with disabilities. 
+
+People with disabilities are as varied as any users; they come from a variety of backgrounds and have varied interests, likes and dislikes, goals and skills. They have different experiences, different expectations, and different preferences. They use different interaction techniques, different adaptive strategies, and different assistive technology configurations.
+
+A person with a disability doesn't necessarily know how other people with the same disability interact with products, nor know enough about other disabilities to provide valid guidance on other accessibility issues. Just as you would not make design decisions based on feedback from just one user, don't make accessibility decisions based only on the recommendations of one person with a disability. What works for one person might not work for everyone with that disability or for people with other disabilities.
+
+### Set usability goals
+
+Most usability goals should be the same for all users, regardless of disability. 
+
+Usability goals or usability objectives are targets for product usability that are defined in the Analysis Phase and usually measured with usability testing. Usability goals include measurable behavior and specific criteria, such as time-on-task, number of errors, and completion or success rate. 
+
+### First time use versus familiar use
+
+Many usability goals and usability tests focus on new product users; time-on-task for first time use. Such usability goals might be different for some users with disabilities, because in some cases a user with a disability might be slower the first time they use a new product, yet after becoming familiar with the product they may complete tasks just as fast or faster than a user without a disability.
+
+For frequently-used products and tasks, you might decide that efficient first time use is not as important, and thus modify your usability goal to focus on time-on-task once a user is familiar with the product. For example, you might change a usability goal from “the first time the user uses the product”, to “after the user has used the product for two days”.
+
+### Usability goals for critical & non-critical tasks
+
+While there may be relaxed usability goals for certain tasks under some circumstances, it is important critical tasks be completed as efficiently and effectively by people with disabilities. When considering acceptable modifications of usability goals consider the importance and frequency of the task. Consider if the task is:
+
+* Core, primary functionality
+* Supplemental, secondary functionality
+* Frequent maintenance, such as changing a battery
+* Initial set up and installation
+* Periodic maintenance and repair
+
+For core, primary functionality it is usually important people with disabilities can meet the same usability goals; whereas, for periodic maintenance and repair it may not be important. Source: [http://uiaccess.com/accessucd/analysis.html](http://uiaccess.com/accessucd/analysis.html)
+
+### User analysis
+
+Product design that considers the needs of people with disabilities is still relatively uncommon. As a result, the range of users who can use products and the situations in which products can be used is less inclusive than if the needs of people with a wider range of abilities and disabilities were considered in design.
+
+* Include accessibility considerations in user group profiles and personas. People with disabilities are potentially members of all user groups, accessibility considerations apply to all user group profiles. 
+* Don’t make assumptions about tools and services people with disabilities might use. For example, a designer assumed a person who is blind wouldn’t use a photocopier. Yet, they might use a photocopier to make copies for others or to copy pages from a book in order to scan them into a speech output program.
+
+Source: [http://uiaccess.com/accessucd/users.html]([http://uiaccess.com/accessucd/users.html)
+
+Another example: A usability testing participant with low vision remarked when he was frustrated by inaccessible websites when he was comparing auto insurance rates for his wife's car and he said, "as though a person who doesn't drive would not be buying auto insurance."
+
+### Example user profile: retirees
+
+*Background:*
+HRWeb is a HR Management web-based application used by Acme Insurance, used for employee records, compensation, and benefits management. User Groups include: hr managers, hr specialists, hr administrative assistants, non-hr managers, non-hr administrative assistants, employees, retired employees. There are 2,580 Retirees active in the HRWeb database. They range in age from 57–96. 60% are male, 40% are female. Most live throughout the U.S.
+
+### Example user profile: retirees
+
+<table>
+ <thead>
+  <tr>
+   <th>Age-related considerations</th>
+   <th>Implications for design</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    <ul>
+     <li>Age-related macular degeneration (amd) is the most common cause of blindness and vision impairment in Americans aged 60 and older. More than 1.6 million Americans over age 60 have advanced amd.</li>
+     <li>Cataracts are the leading cause of blindness in the world. Cataracts affect nearly 20.5 million Americans age 65 and older. 
+Vision changes in the elderly often result in increased susceptibility to glare and decreased contrast acuity.</li>
+     <li>Neurological symptoms in the elderly are common, such as decreased cognitive or intellectual functions including impairment of memory, deterioration of mobility, decreased sensory input, (visual, auditory) and autonomic nerve system imbalance.</li>
+     <li>Decreased muscle mass, bone density and lubrication of the joints cause stiffness of the joints, osteoporosis, fractures of the hip are common and bone/joint functional impairment. </li>
+    </ul>
+   </td>
+   <td>
+    <ul>
+     <li>Using larger fonts</li>
+     <li>Making font size scaleable</li>
+     <li>Using high color contrast</li>
+     <li>Ensuring that customized color settings work well</li>
+     <li>Including instructions on customizing fonts and colors in browser settings</li>
+     <li>Making link targets larger, for example, navigation bars and lists of links</li>
+     <li>Ensuring that all functionality is available via the keyboard (not requiring a mouse)end highlight</li>
+    </ul>
+   </td>
+  </tr>
+ </tbody>
+ </table>
