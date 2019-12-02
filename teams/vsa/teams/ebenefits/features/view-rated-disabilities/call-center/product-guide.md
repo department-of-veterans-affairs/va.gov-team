@@ -15,7 +15,7 @@
  - [FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#faqs)
  - [Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#functionality)
  - [Error Handling & Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#error-handling-and-notifications)
- - [Video Demo Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#video-demo-link)
+ - [Video Demo Link (YouTube)](#)
 
 ## What is it?
  - Rated Disabilities is a common function among the veteran community to see what their Total Calulated Disability Rating is, what has factored into that calculation and what is currently pending from the Claim Status Tool. These data are important as they inform the Veteran what their service connected rating is and what benefits they might be elegible for.
