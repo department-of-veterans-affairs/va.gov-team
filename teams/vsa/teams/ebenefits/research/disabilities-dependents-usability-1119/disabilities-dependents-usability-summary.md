@@ -75,7 +75,8 @@ Findings presented here are pending a formal analysis of research session transc
 - More detail was an often-requested feature.
 #### The View Dependents screen was an acceptable presentation
 - The purpose of a dedicated View Dependents screen was a little puzzling to most users. Few participants had direct experience with the ebenefits Dependents screen; most did not have dependents on-award.
-- Most participant feedback was similar to the Rated Disabilities screen
+- Though the purpose seemed vague, most users quickly found relevant contnet, and understood information as presented.
+- Most participant feedback was similar to the Rated Disabilities screen.
 - Most users expected the card buttons to lead to forms or detailed info.
 #### Particapnts universally regarded 800 numbers negatively
 - Chat was a common alternative suggested by users.
