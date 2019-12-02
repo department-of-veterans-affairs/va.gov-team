@@ -85,12 +85,15 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 - Direct deposit
   - Ramp up to 75% of users
   - Make and communicate go/no-go decision for full launch since deadline for decision is 12/14
+  - (If we are making no more DD changes) Finalize content page and update call center guide
 - Address validation
   - User testing updates (Copy; implementation by frontend)
   - Let Tze know we will need QA in the upcoming sprint
   - Error Matrix updates
   - Refine/revisit https://github.com/department-of-veterans-affairs/va.gov-team/issues/1129 with an eye on def of done
 * Continue Bad Address Indicator
+  - Create tickets for APO/FPO/DPO work
+  - Build out APO/FPO/DPO work
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
