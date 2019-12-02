@@ -28,6 +28,19 @@ During Discovery and Design, the current functionality of both Rated Disabilitie
 - Determine if the text presented is clear and helpful to the understanding of the Rated Disabilities information.
 - Uncover pain points, user expectations, and potential future features.
 
+#### View Dependents
+- Determine expected baseline usage frequency and utility for the Rated Disabilities screen.
+- Determine is Veterans can quickly identify their Awarded and Unawarded dependents.
+- Assess the utility and readability of "cards" for individual dependents.
+- Determine if the text presented is clear and helpful to the understanding of the Dependents information.
+- Uncover pain points, user expectations, and potential future features.
+
+#### Tools Page Layout
+- Note any usability issues transitioning from legacy eBenefits screens to new VA.gov configurations.
+- Uncover the users' expectations for navigating to and away from the screens.
+- Assess the effectiveness of the right-hand sidebar and determinine if the information is readily apparent
+- Determine if Veterans expect a relationship--navigational, informational, etc.--between the Disabilities and Dependents screens.
+
 #### Hypothesis
 It is likely the Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their TDR); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
 
