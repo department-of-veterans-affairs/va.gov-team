@@ -68,12 +68,12 @@
 **45m-1h**
 
 4.	Availability: If applicable, when would you like sessions scheduled? 
-    - December 2, 9:30 am - 3:00 pmEST
-    - December 3, 9:30 am - 12:00 pm EST, 3:00 pm - 4:00 pm EST
-    - December 4, 9:30 am - 12:00 pm EST
-    - December 5, 9:30 am - 11:00 pm EST, 1:00 pm - 4:00 pm EST 
-    - December 6, 9:30 am - 3:00 pm EST
-    - _Note: Please leave a minimum of 45 minutes between sessions._
+    - December 9, 9:30 am - 3:00 pm EST
+    - December 10, 9:30 am - 12:00 pm EST, 3:00 pm - 4:00 pm EST
+    - December 11, 9:30 am - 3:30 pm EST
+    - December 12, 9:30 am - 11:00 pm EST, 1:00 pm - 4:00 pm EST 
+    - December 13, 9:30 am - 3:00 pm EST
+    - _Note: Please leave a minimum of 30 minutes between sessions._
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? **November 26, 10AM EST with Jennifer Strickland (Ad Hoc)**
 
