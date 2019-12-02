@@ -6,7 +6,7 @@
 
 # Rated Disabilities
 
-### TOC 
+### Table of Contents 
  - [What is it?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#what-is-it)
  - [User Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#user-access)
    - [Who can access?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#who-can-access)
@@ -18,9 +18,15 @@
  - [Video Demo Link (YouTube)](#)
 
 ## What is it?
-Rated Disabilities is a common function among the veteran community to see what their Total Calulated Disability Rating is, what has factored into that calculation and what is currently pending from the Claim Status Tool. These data are important as they inform the Veteran what their service connected rating is and what benefits they might be elegible for.
+The **Your VA disability rating** screen is where Veterans (or caregivers) can view their combined VA disability rating, and the individual disabilities in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do when they have a problem or question. Information and tool links include:
+- Compensation 101: How did I get this rating? video on YouTube; this explains how disability claims are determined, and how ratings are calculated.
+- A link to check claims and appeals
+- The VA phone number: 800-827-1000
+- Breadcrumb links will take the Veteran a content page (Disability benefits), and a landing page (View your disability rating) with more information on disabilities and disability claims
 
-There are also links and resources that help guide the user to gain more information and assistance.
+The **Your VA disability rating** screen will show disabilitiy ratings that are in the VA record. If a Veteran does not have a disability rating, an informational alert box.
+
+If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the Individual disabilities, or both to show error alerts.
 
 Target launch date is end of November 2019, early December 2020.
 
