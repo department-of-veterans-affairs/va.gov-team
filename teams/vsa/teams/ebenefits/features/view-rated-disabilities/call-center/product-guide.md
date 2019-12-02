@@ -24,7 +24,7 @@ The **Your VA disability rating** screen is where Veterans (or caregivers) can v
 - The VA phone number: 800-827-1000
 - Breadcrumb links will take the Veteran a content page (Disability benefits), and a landing page (View your disability rating) with more information on disabilities and disability claims
 
-The **Your VA disability rating** screen will show disabilitiy ratings that are in the VA record. If a Veteran does not have a disability rating, an informational alert box.
+The **Your VA disability rating** screen will show disability ratings that are in the VA record. If a Veteran does not have a disability rating, an informational alert box.
 
 If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the Individual disabilities, or both to show error alerts.
 
