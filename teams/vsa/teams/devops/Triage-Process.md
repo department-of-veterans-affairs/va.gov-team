@@ -2,7 +2,7 @@
 
 ## Implementation Strategy
 
-The VSA will assign the Product Managers (PMs) as the Tier 2 support with an SME for each team as Tier 3 support. This process is a complement to the VSP process located here [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md)
+The VSA will assign the Product Managers (PMs) as the Tier 2 support with an SME for each team as Tier 3 support. This process is a complement to the VSP process located here [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md).
 
 ## Triage and Support
 
