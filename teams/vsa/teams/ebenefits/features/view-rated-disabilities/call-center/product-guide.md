@@ -27,7 +27,6 @@ Target launch date is end of November 2019, early December 2020.
 ## User Access
 ### Who can access?
  Rated Disabilities is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.
-
 ``` diff
 - TODO: I don't know if the other non ID.me access methods are valid
 ```
@@ -49,22 +48,26 @@ There are a few other pages that the Veteran can browse to learn more about how 
 A link for more general inforamtion can be found at this url: https://www.va.gov/disability/about-disability-ratings/
 
 **What if I disagree with the information shown?**  
-The link to the ratings calculator can be found at this url: 
+The link to the ratings calculator can be found at this url: https://www.va.gov/disability/about-disability-ratings/
 The link to the Claim Status Tool can be foudn at this url: https://www.va.gov/claim-or-appeal-status/
 
 **Who can I call if I need help?**  
+Ensure you are dialing the correct number: 1-800-827-1000
 
 **I have a disability that is pending, where can I go to get more information?**  
-The Claim Status Tool is the best way to see what claims are currently pending.  The url for that is:  
+The Claim Status Tool is the best way to see what claims are currently pending.  The url for that is: https://www.va.gov/claim-or-appeal-status/
 
 **I am logging in on behalf of a Veteran, why can't I see the proper information?**  
 VA.gov does not accomodate other non-Veteran users at this time.  
+``` diff
+- TODO: Not sure if this is accurate?
+```
 
 **What does "service connected" mean?**  
-"Service Connected" is an issue that occurred while the Veteran was in service.  
+"Service Connected" is an issue or injury that occurred while the Veteran was in service.  Non-Service Connected issues or injuries are important but may not contribute to the overall rating as they did not occur while the Veteran was in service.
 
 **I don't see a number next to my individual rating.  Where is it?  What does that mean?**  
-This usually means there is no rating because they are not service connected and are not applied to the Total Combined Disability Rating.
+This usually means there is no rating due to the issue or injury being designated as non-service connected and therefore not applied to the Total Combined Disability Rating.  Non-Service Connected will show 'null' percentage (i.e., nothing) where a Service Connected issue or injury can have anything ranging from 100% to 0%.
 
 ## Functionality  
 The Rated Disabilities tool page simply shows the total combined disability rating (critical for establishing levels of compensation) and the individual ratings that are service connected, and therefore a part of that calculation, and non-service connected which are for issues that have occured while the Veteran was not in service.  These are important for inclusion as some might be pending or be needed to take into account.
