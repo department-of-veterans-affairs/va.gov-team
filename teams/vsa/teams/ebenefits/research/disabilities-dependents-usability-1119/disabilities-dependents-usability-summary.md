@@ -22,10 +22,11 @@ Usability testing was conducted to validate the utility of the Rated Disabilitie
 #### Test Sessions
 - Usability sessions conducted via GoToMeeting; 30 minutes.
 - 11 Veterans from varying backgrounds; most or all participants have a disability rating. Some have cognitive disabilities.
-- Participants were prompted to find and perform various tasks using targeted questions from the conversation guide. Users were allowed to explore screens and discuss their thoughts about the format and utility of what they saw. User actions were tracked against a "usability matrix." Veteran's were allowed to go "off-script" to recount relevant experiences.
+- Participants were prompted to find and perform various tasks using targeted questions from the conversation guide. Users were allowed to explore screens and discuss their thoughts about the format and utility of what they saw. User actions were tracked against a "usability matrix." Veteran's were allowed to go "off-script" to recount relevant experiences.  
+
 #### Guiding Questions
 - How often would users access Disabilities and Dependents screens?
-- Can users quickly determine the purpose of the page? Can they find the TRD immediately? Are dependent details immediately apparent?
+- Can users quickly determine the purpose of the page? Can they find the TCDR immediately? Are dependent details immediately apparent?
 - Can users immediately find the relevant information on-screen?
 - Is information displayed in a clear and understandable manner (text and components)?
 - Are the "cards" and acceptable presentation of information?
@@ -35,7 +36,8 @@ Usability testing was conducted to validate the utility of the Rated Disabilitie
 - What other features do users expect when accessing disabilities and dependents information?
 
 ## High-Level Findings
-Findings presented here are pending a formal analysis of research session transcripts and data collected. At this stage, a generalized overview is possible due to the strong concordance across user sessions.
+Findings presented here are pending a formal analysis of research session transcripts and data collected. At this stage, a generalized overview is possible due to the strong concordance across user sessions.  
+
 #### Rated Disabilities
 - Veterans are well-aware of the general use of VA disability ratings, including the service-connected and non-service-connected aspects. Most are well-versed in the process of applying for disability claims, and are aware of a "formula" VA uses to determine a total disability rating--but not necessarily the details of how the formula works.
 - Users found the presentation of total and individual disability ratings acceptable. Many participants had favorable impressions of how. and how much, information was displayed.
@@ -48,7 +50,7 @@ Findings presented here are pending a formal analysis of research session transc
 - Few participants in test session had experience with applying to have dependents added to their disability claim.
 - In spite of the lack of direct experience, most Veterans quickly understood the information presented, and could quickly locate particular content when prompted.
 - The presentation of individual dependents in cards was generally acceptable to participants. many felt the content was clear and complete.
-- Some users found the inclusion of dependents's SSN problematic. A few wanted additional information, such as addresses. Many Veterans expected VA to have their info, and information about their dependents "in the system" if they had provided it in the past (even if it was for different processes or applications).
+- Some users found the inclusion of dependents' SSN problematic. A few wanted additional information, such as addresses. Many Veterans expected VA to have their info, and information about their dependents "in the system" if they had provided it in the past (even if it was for different processes or applications).
 - Most users expected the card buttons to link to a form, or to detailed information about individual dependents.
 - Some participants questioned the reason for having dependents info (particularly dependents not on-award) on VA.gov. Chat and drill-down were mention as desirable features.
 
@@ -66,20 +68,24 @@ Findings presented here are pending a formal analysis of research session transc
 #### User authorization/login is problematic and a barrier to use
 - Login registered as a prevalent and frustrating pain point.
 - Minimize linking back and forth between eBenefits and VA.gov.
-- Migrate features in a way to reduce or eliminate linking across sites.
+- Migrate features in a way to reduce or eliminate linking across sites.  
+
 #### The tools page layout seems to be an acceptable balance of layout and content.
 - Removing left-hand navigation seemed to allow users to better consume primary and secondary content.
 - Content in the right-hand sidebar was helpful and easily consumed.
-- Information presented in cards was readily understandable. However, long lists of "cards" were not tested.
+- Information presented in cards was readily understandable. However, long lists of "cards" were not tested.  
+
 #### The Rated Disabilities screen tested well
 - Users could determine the page's purpose immediately.
 - Content was very quickly consumed and understood.
 - A few participant mentioned linking dependents info to educational benefits.
-- More detail was an often-requested feature.
+- More detail was an often-requested feature.  
+
 #### The View Dependents screen was an acceptable presentation
 - The purpose of a dedicated View Dependents screen was a little puzzling to most users. Few participants had direct experience with the eBenefits Dependents screen; most did not have dependents on-award.
 - Though the purpose seemed vague, most users quickly found relevant content, and understood information as presented.
 - Most participant feedback was similar to the Rated Disabilities screen.
-- Most users expected the card buttons to lead to forms or detailed info.
+- Most users expected the card buttons to lead to forms or detailed info.  
+
 #### Participants universally regarded 800 numbers negatively
 - Chat was a common alternative suggested by users.
