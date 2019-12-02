@@ -10,7 +10,7 @@ The VSA will assign the Product Managers (PMs) as the Tier 2 support with an SME
 
 The VSP BE Tools team (previously named the "Triage" team) (Tier 1) in coordination with the on-call team will log in any defect reported on the production version of our products and provide Tier 1 support.
 
-For details on how and when to report Triage incidents access the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md). The aforementioned VSP document is the authoratative cocument, particularly for Tier 1 issues process: 
+For details on how and when to report Triage incidents access the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md). The aforementioned VSP document is the authoratative document, particularly for the Tier 1 issues process: 
 
 #### Tier 1 Process Details (VSA)
 
