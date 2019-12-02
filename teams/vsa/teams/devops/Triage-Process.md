@@ -40,7 +40,7 @@ VSA Tier 2 support involves the primary POCs for each product group.  The Produc
 
 ### Tier 3 Support
 
-VSA Tier 3 support would be contacted in the event the VSP Tier 1 team cannot resolve an issue which  they classify as &quot;critical&quot; and the Product Manager cannot be reached.  Please see Table 3 for the definition of a &quot;critical&quot; issue.  In the event the PM cannot be contacted, the VSP Tier 1 team can directly contact the SME from the appropriate product area to obtain support.  This process is further defined in section 4 below.
+VSA Tier 3 support would be contacted in the event the VSP Tier 1 team cannot resolve an issue which  they classify as &quot;critical&quot; and the Product Manager cannot be reached.  Please see Table 3 for the definition of a &quot;critical&quot; issue.  In the event the PM cannot be contacted, the VSP Tier 1 team can directly contact the SME from the appropriate product area to obtain support.  This process is further defined in the "VSA Triage Process Workflow" section below.
 
 #### Table 2: Tier 3 Support
 
