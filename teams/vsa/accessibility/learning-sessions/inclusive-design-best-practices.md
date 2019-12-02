@@ -344,3 +344,68 @@ Vision changes in the elderly often result in increased susceptibility to glare 
   </tr>
  </tfoot>
  </table>
+
+### Example user profile: retirees
+
+*Environment:* 
+According to the 2000 U.S. census: 24.3 % of households with people over 65 had computers in their homes. 
+
+Some of the Acme retirees use a computer at home. Some use a computer at the local library, senior center, neighbor, or their children's house. Most of the retirees who use a computer at home are comfortable with the way they have the workstation, chair, and desk space set up. Acme retirees reported that distractions at home include phone calls, interruptions by a spouse or grandchildren, and background noise such as television or radio in the next room. 25% of the retirees using the computer at home have a dedicated line for that purpose. Those who have only one phone line mentioned being interrupted so someone else could use the phone.
+
+Note: Many Acme retirees who use a computer other than at home have problems concentrating because of background noise, and a few complain of glare on the monitor because of overhead fluorescent lights.
+
+Source: [http://uiaccess.com/accessucd/users_eg.html](http://uiaccess.com/accessucd/users_eg.html)
+
+### Example user profile: retirees
+
+*Frequency of Use:* 
+Frequency of use of HRWeb varies greatly across the Retirees user group. Only 30% of retirees use the web-based application, the rest interact through mail and phone calls to hr. Of those who do use HRWeb:
+* 30% use it once a year, at tax time
+* 50% use it about once a month, primarily to check the status of their retirement savings account balance
+* 20% use it a couple times per week, to check or change investment options
+
+Note: Users in the retiree group are more likely to have poor memory. Therefore, even some who use the application frequently will benefit from design that does not rely heavily on memory, particularly short-term memory. 
+
+Source: [http://uiaccess.com/accessucd/users_eg.html](http://uiaccess.com/accessucd/users_eg.html)
+
+### Workflow analysis
+
+Workflow analysis defines user task processes. Workflow diagrams document the steps for completing a task, show the user roles that perform particular steps, identify where the product is involved, and are used to evaluate product design. Workflow diagrams, which are often flowcharts, are just one way to model user tasks. Scenarios are another tool for capturing task processes in a text format.
+
+When including accessibility in workflow analysis, observe people with disabilities using the product or similar products to ensure that the workflow diagrams and scenarios include adaptive strategies used to complete the task. Document scenarios including use of assistive technology.
+
+Source: [http://uiaccess.com/accessucd/analysis.html](http://uiaccess.com/accessucd/analysis.html)
+
+**“Every decision we make can raise or lower barriers to participation in society. It’s our collective responsibility to lower these barriers through inclusive products, services, environments, and experiences.”**
+— [Microsoft Inclusive Design Toolkit Manual](https://www.microsoft.com/design/inclusive/)
+
+### Importance of Multiple Approaches in Design
+
+Accessibility is most effectively and efficiently incorporated into product design when it is addressed with different approaches from the beginning of design. 
+* Common pitfalls to avoid in design are focusing only on limited standards and not considering accessibility until the end of the design process.
+* Product designers who are required to follow specific accessibility standards often jump right into the technical standards without understanding accessibility issues. 
+* Trying to follow accessibility standards without an understanding of accessibility is both frustrating and ineffective.
+
+### Following standards without understanding 
+
+*Example*
+* A web developer who doesn't know what it's like to use a screen reader comes to the web accessibility guideline “Provide text alternatives for all non-text content.” 
+* To meet this guideline, the developer provides the alt text: "This image is a line art drawing of a dark green magnifying glass. If you click on it, it will take you to the Search page for this Acme Company website." 
+* He writes similarly verbose alt text for hundreds of different images on his website… wasting a whole lot of time and effort on an ineffective solution. 
+* For the image that takes you to the search page, the alt text “Search” is all that was needed.
+* His overly descriptive text throughout the site will be extremely frustrating for people who need alt text, because they will have to wade through all the extraneous information. If he had some basic understanding of accessibility issues and had watched someone use websites with a screen reader, he would not have made that mistake.
+
+### Understanding the range of functional limitations
+
+Ensuring that the designers understand the wide range of functional limitations at the beginning of the design phase helps avoid costly changes later.
+
+Section 508 of the Rehabilitation Act Subpart C -- § 1194.31 Functional performance criteria:
+a. At least one mode of operation and information retrieval that does not require user vision shall be provided, or support for assistive technology used by people who are blind or visually impaired shall be provided.
+b. At least one mode of operation and information retrieval that does not require visual acuity greater than 20/70 shall be provided in audio and enlarged print output working together or independently, or support for assistive technology used by people who are visually impaired shall be provided.
+c. At least one mode of operation and information retrieval that does not require user hearing shall be provided, or support for assistive technology used by people who are deaf or hard of hearing shall be provided.
+d. Where audio information is important for the use of a product, at least one mode of operation and information retrieval shall be provided in an enhanced auditory fashion, or support for assistive hearing devices shall be provided.
+e. At least one mode of operation and information retrieval that does not require user speech shall be provided, or support for assistive technology used by people with disabilities shall be provided.
+f. At least one mode of operation and information retrieval that does not require fine motor control or simultaneous actions and that is operable with limited reach and strength shall be provided.
+
+Source: [http://uiaccess.com/accessucd/design.html#functional-limitation](http://uiaccess.com/accessucd/design.html#functional-limitation)
+
