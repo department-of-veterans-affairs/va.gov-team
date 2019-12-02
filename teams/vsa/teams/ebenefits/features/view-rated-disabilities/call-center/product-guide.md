@@ -28,7 +28,7 @@ Target launch date is end of November 2019, early December 2020.
 ### Who can access?
  Rated Disabilities is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.
 
-`TODO: I don't know if the other non ID.me access methods are valid`
+`**TODO:** I don't know if the other non ID.me access methods are valid`
 
 ### How can users access?
  This feature is accessible for testing within the staging environment at this url: https://staging.va.gov/disability/view-disability-rating/rating, and can be accessed in any modern browser.
