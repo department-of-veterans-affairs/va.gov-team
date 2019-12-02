@@ -77,9 +77,9 @@ Findings presented here are pending a formal analysis of research session transc
 - A few participant mentioned linking dependents info to educational benefits.
 - More detail was an often-requested feature.
 #### The View Dependents screen was an acceptable presentation
-- The purpose of a dedicated View Dependents screen was a little puzzling to most users. Few participants had direct experience with the ebenefits Dependents screen; most did not have dependents on-award.
+- The purpose of a dedicated View Dependents screen was a little puzzling to most users. Few participants had direct experience with the eBenefits Dependents screen; most did not have dependents on-award.
 - Though the purpose seemed vague, most users quickly found relevant content, and understood information as presented.
 - Most participant feedback was similar to the Rated Disabilities screen.
 - Most users expected the card buttons to lead to forms or detailed info.
-#### Particpants universally regarded 800 numbers negatively
+#### Participants universally regarded 800 numbers negatively
 - Chat was a common alternative suggested by users.
