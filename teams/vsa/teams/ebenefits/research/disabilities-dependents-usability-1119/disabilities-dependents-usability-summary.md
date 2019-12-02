@@ -29,7 +29,7 @@ Usability testing was conducted to validate the utility of the Rated Disabilitie
 - Can users quickly determine the purpose of the page? Can they find the TCDR immediately? Are dependent details immediately apparent?
 - Can users immediately find the relevant information on-screen?
 - Is information displayed in a clear and understandable manner (text and components)?
-- Are the "cards" and acceptable presentation of information?
+- Are the "cards" an acceptable presentation of information?
 - Is it clear in the View Dependents screens what the card buttons will do? 
 - Given a particular user path, do users have a sense of where they are in the site?
 - Is there a clear recourse for users if they see inaccurate or missing information on-screen?
@@ -40,7 +40,7 @@ Findings presented here are pending a formal analysis of research session transc
 
 #### Rated Disabilities
 - Veterans are well-aware of the general use of VA disability ratings, including the service-connected and non-service-connected aspects. Most are well-versed in the process of applying for disability claims, and are aware of a "formula" VA uses to determine a total disability rating--but not necessarily the details of how the formula works.
-- Users found the presentation of total and individual disability ratings acceptable. Many participants had favorable impressions of how. and how much, information was displayed.
+- Users found the presentation of total and individual disability ratings acceptable. Many participants had favorable impressions of how, and how much, information was displayed.
 - Generally, Veterans were able to locate information and links quickly. Most considered the info presented appropriate in term of content and amount.
 - Navigation back to the "landing-page" entry point was unclear to many participants. Many participants would opt for other navigational options or simply sign-out rather that return to the landing screen.
 - The most prominent pain points seemed to center around login/authorization, and call center experiences.
