@@ -18,7 +18,7 @@ For details on how and when to report Triage incidents access the [VSP - Triage 
 2. If the issue needs escalation then it gets assigned to the VSA team as a Tier 2 issue.
 3. If the VSA Tier 2 resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in Table 3 herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in Table 2.
 
-The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md), Find the details for the VSA Tier 2 and Tier 3 below.
+The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md). The details for the VSA Tier 2 and Tier 3 processes are found below.
 
 ### Tier 2 Support (VSA)
 
