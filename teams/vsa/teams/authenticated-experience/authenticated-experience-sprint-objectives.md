@@ -83,9 +83,11 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 ### Sprint 10 (12/4 - 12/17)
 - Direct deposit
-  - Ramp up to 75% of users
-  - Make and communicate go/no-go decision for full launch since deadline for decision is 12/14
-  - (If we are making no more DD changes) Finalize content page and update call center guide
+  - Keep the add functionality (yay!)
+  - Keep DD at 50% for now.
+  - Work on/launch DS logon gate in Sprint 10. Monitor for errors.
+  - Ramp up to 100% in Sprint 11 if all goes well.
+  - Let eBenefits know the plan and see when their next release cycle is after 1/8 so we can get on it to remove the DD functionality from eBenefits
 - Address validation
   - User testing updates (Copy; implementation by frontend)
   - Let Tze know we will need QA in the upcoming sprint
@@ -97,7 +99,11 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
-- QA for address validation
+- Direct Deposit
+  - If all has gone well with the launch of the DS Logon gate, ramp up to 75% – 100%
+  - Finalize content page and update call center guide (to include DS Logon updates, assuming all goes well with the functionality we launched in Sprint 10.
+- Address validation
+  - QA for address validation
 * Launch Bad Address Indicator and move to monitor mode 
 * Start Sign-In Page
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
