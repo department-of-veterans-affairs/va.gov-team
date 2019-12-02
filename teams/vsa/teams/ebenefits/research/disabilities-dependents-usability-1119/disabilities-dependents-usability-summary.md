@@ -8,6 +8,8 @@ Usability testing was conducted to validate the utility of the Rated Disabilitie
 
 **Goals:** The overall goal of this research was to determine the user acceptability for the overall page layouts and the specific presentation on list data in a card format. Specifically, can users quickly identify the purpose of the page, scan and locate key information, and easily understand the visual hierarchy. Other goals included uncovering pain points, workflow breakdowns, user expectations, and potential future features.
 
+**Hypothesis:** The Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their TDR); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
+
 [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md)
 
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-convo-guide.md)
@@ -17,6 +19,7 @@ Usability testing was conducted to validate the utility of the Rated Disabilitie
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes)
 
 ## Methodology
+#### Test Sessions
 - Usability sessions conducted via GoToMeeting; 30 minutes.
 - 11 Veterans from varying backgrounds; most or all participants have a disability rating. Some have cognitive disabilities.
 - Participants were prompted to find and perform various tasks using targeted questions from the conversation guide. Users were allowed to explore screens and discuss their thoughts about the format and utility of what they saw. User actions were tracked against a "usability matrix." Veteran's were allowed to go "off-script" to recount relevant experiences.
