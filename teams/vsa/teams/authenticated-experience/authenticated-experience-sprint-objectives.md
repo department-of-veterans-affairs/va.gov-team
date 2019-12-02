@@ -87,7 +87,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
   - Keep DD at 50% for now.
   - Work on/launch DS logon gate in Sprint 10. Monitor for errors.
   - Ramp up to 100% in Sprint 11 if all goes well.
-  - Let eBenefits know the plan and see when their next release cycle is after 1/8 so we can get on it to remove the DD functionality from eBenefits
+  - Let eBenefits know the plan and see when their next release cycle is after 1/8 so we can get on it to remove the DD functionality from eBenefits. **Answer for go/no-go on 12/14 is NO.**
 - Address validation
   - User testing updates (Copy; implementation by frontend)
   - Let Tze know we will need QA in the upcoming sprint
