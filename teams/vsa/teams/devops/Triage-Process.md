@@ -14,11 +14,11 @@ For details on how and when to report Triage incidents access the [VSP - Triage 
 
 #### Tier 1 Process Details (VSA)
 
-1. New GitHub issue is received and processed by the VSP Triage team as established in the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md)
-2. If the issue needs escalation then it gets assigned to the VSA team as a tier 2 issue
+1. New GitHub issue is received and processed by the VSP Triage team as established in the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md).
+2. If the issue needs escalation then it gets assigned to the VSA team as a Tier 2 issue.
 3. If the VSA Tier 2 resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in Table 3 herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in Table 2.
 
-The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md), Find the details for the VSA Tier 2 and Tier 3 bellow.
+The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md), Find the details for the VSA Tier 2 and Tier 3 below.
 
 ### Tier 2 Support (VSA)
 
