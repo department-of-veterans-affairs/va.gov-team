@@ -18,10 +18,11 @@
  - [Video Demo Link (YouTube)](#)
 
 ## What is it?
- - Rated Disabilities is a common function among the veteran community to see what their Total Calulated Disability Rating is, what has factored into that calculation and what is currently pending from the Claim Status Tool. These data are important as they inform the Veteran what their service connected rating is and what benefits they might be elegible for.
+Rated Disabilities is a common function among the veteran community to see what their Total Calulated Disability Rating is, what has factored into that calculation and what is currently pending from the Claim Status Tool. These data are important as they inform the Veteran what their service connected rating is and what benefits they might be elegible for.
 
- There are also links and resources that help guide the user to gain more information and assistance.
- Target launch date is end of November 2019, early December 2020.
+There are also links and resources that help guide the user to gain more information and assistance.
+
+Target launch date is end of November 2019, early December 2020.
 
 ## User Access
 ### Who can access?
