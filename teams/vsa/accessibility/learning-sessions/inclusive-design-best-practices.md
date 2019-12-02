@@ -339,7 +339,7 @@ Vision changes in the elderly often result in increased susceptibility to glare 
  <tfoot>
   <tr>
    <td colspan="2">
-    Source: [http://uiaccess.com/accessucd/users_eg.html](http://uiaccess.com/accessucd/users_eg.html)
+    Source: <a href="http://uiaccess.com/accessucd/users_eg.html">http://uiaccess.com/accessucd/users_eg.html</a>
    </td>
   </tr>
  </tfoot>
