@@ -83,15 +83,21 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 ### Sprint 10 (12/4 - 12/17)
 - Direct deposit
-  - Keep the add functionality (yay!)
-  - Keep DD at 50% for now.
-  - Work on/launch DS logon gate in Sprint 10. Monitor for errors.
-  - Ramp up to 100% in Sprint 11 if all goes well.
+We are keeping the add functionality (yay!) and keeping DD at 50% for now.
+  - DS logon gate: 
+    - Design and copy for the profile
+    - Design and copy for the content page
+    - Start frontend setup for profile (final design implementation might be sprint 11) 
   - Let eBenefits know the plan and see when their next release cycle is after 1/8 so we can get on it to remove the DD functionality from eBenefits. **Answer for go/no-go on 12/14 is NO.**
+  - Analytics: Answer follow-up questions
 - Address validation
   - User testing updates (Copy; implementation by frontend)
-  - Let Tze know we will need QA in the upcoming sprint
-  - Error Matrix updates
+  - QA
+    - Let Tze know we will need QA in the upcoming sprint
+    - Have Tze complete the test plan
+  - Error Matrix
+    - Update
+    - Follow up with VA Profile (Vet360) team
   - Refine/revisit https://github.com/department-of-veterans-affairs/va.gov-team/issues/1129 with an eye on def of done
 * Continue Bad Address Indicator
   - Create tickets for APO/FPO/DPO work
@@ -100,6 +106,10 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 ### Sprint 11 (12/18 - 12/31)
 - Direct Deposit
+ - DS logon gate: 
+    - Frontend implementation of design in the profile
+    - Implementation of content page (may need FE help with DS Logon gate)
+    
   - If all has gone well with the launch of the DS Logon gate, ramp up to 75% – 100%
   - Finalize content page and update call center guide (to include DS Logon updates, assuming all goes well with the functionality we launched in Sprint 10.
 - Address validation
