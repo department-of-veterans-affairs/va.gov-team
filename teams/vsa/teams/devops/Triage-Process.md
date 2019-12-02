@@ -22,7 +22,7 @@ The VSP (BE Tools) team defines the tiers and the escalation process in the foll
 
 ### Tier 2 Support (VSA)
 
-VSA comes into play when Tier 1 is unable to solve the issue from a platform perspective.  If VSA resources are needed, the Triage effort is escalated to Tier 2 support and a GitHub issue will be updated using the appropriate labels and assigned to the appropriate team as defined on the section below
+VSA comes into play when Tier 1 is unable to solve the issue from a platform perspective.  If VSA resources are needed, the Triage effort is escalated to Tier 2 support and a GitHub issue will be updated using the appropriate labels (including but not necessarily limited to the "vsa-triage" tag) and assigned to the appropriate team as defined in the section below.
 
 VSA Tier 2 support involves the primary POCs for each product group.  The Product Manager is contacted first and is responsible for pulling in the appropriate resources and doing an escalation analysis based on the level of severity.
 
