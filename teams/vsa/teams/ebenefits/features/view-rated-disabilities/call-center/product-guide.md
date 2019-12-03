@@ -44,7 +44,7 @@ Target launch date is end of November 2019, early December 2020.
 
 ## User Access
 ### Who can access this?
-The **Your VA disability rating** screen is currently available to LOA3 (**eBenefits** Premium) users.  On **eBenefits**, other users (cargivers, family members, etc.) can login on a Veteran's behalf, but that is not possible on **VA.gov** until Roles & Relationships work is finalized.
+The **Your VA disability rating** page is currently available to LOA3 (**eBenefits** Premium) users.  On **eBenefits**, other users (cargivers, family members, etc.) can login on a Veteran's behalf, but that is not possible on **VA.gov** until Roles & Relationships work is finalized.
 
 ``` diff
 - TODO: I don't know if the other non ID.me access methods are valid
@@ -66,26 +66,25 @@ LOGGED-IN SCREENCAP GOES HERE
 LOGGED_OUT SCREENCAP GOES HERE
 ```
 
-After proper authentication, the Veteran is brought to the Rated Disabilities page.  
-
-There are a few other pages that the Veteran can browse to learn more about how the rating is calculated, how to get assistance in the event that the values represented are unexpected as well as a link to the Claim Status Tool.
+After authentication, the Veteran is brought to the **Your VA disability rating** page.  
 
 ## FAQs
-**Where can I learn more information?**  
-A link for more general inforamtion can be found at this url: https://www.va.gov/disability/about-disability-ratings/
+**Where can I learn more about disability ratings?**  
+A link for more general information can be found here: https://www.va.gov/disability/about-disability-ratings/
 
 **What if I disagree with the information shown?**  
-The link to the ratings calculator can be found at this url: https://www.va.gov/disability/about-disability-ratings/
-The link to the Claim Status Tool can be foudn at this url: https://www.va.gov/claim-or-appeal-status/
+The link to the ratings calculator can be found here: https://www.va.gov/disability/about-disability-ratings/
+The link to the Claim Status Tool can be found here: https://www.va.gov/claim-or-appeal-status/
 
 **Who can I call if I need help?**  
-Ensure you are dialing the correct number: 1-800-827-1000
+Help is available by calling the VA at 1-800-827-1000 ??We don't need this if the user is calling the Call Center??
 
-**I have a disability that is pending, where can I go to get more information?**  
-The Claim Status Tool is the best way to see what claims are currently pending.  The url for that is: https://www.va.gov/claim-or-appeal-status/
+**I have a disability that is pending; where can I go to get more information?**  
+The Claim Status Tool is the best way to see the status of pending claims.  The link for that is: https://www.va.gov/claim-or-appeal-status/
 
 **I am logging in on behalf of a Veteran, why can't I see the proper information?**  
-VA.gov does not accomodate other non-Veteran users at this time.  
+VA.gov does not support other non-Veteran users at this time.  
+
 ``` diff
 - TODO: Not sure if this is accurate?
 ```
