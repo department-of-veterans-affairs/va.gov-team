@@ -4,13 +4,13 @@
 - Draft, needs urls and editing
 ```
 
-# Rated Disabilities
+# Your VA disability rating page
 
 ### Table of Contents 
  - [What is it?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#what-is-it)
  - [User Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#user-access)
-   - [Who can access?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#who-can-access)
-   - [How can users access?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#how-can-users-access)
+   - [Who can access this?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#who-can-access-this)
+   - [How can users access this?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#how-can-users-access-this)
  - [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#navigation)
  - [FAQs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#faqs)
  - [Functionality](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#functionality)
@@ -18,27 +18,32 @@
  - [Video Demo Link (YouTube)](#)
 
 ## What is it?
-The **Your VA disability rating** screen is where Veterans (or caregivers) can view their combined VA disability rating, and the individual disabilities in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do when they have a problem or question. Information and tool links include:
-- Compensation 101: How did I get this rating? video on YouTube; this explains how disability claims are determined, and how ratings are calculated.
-- A link to check claims and appeals
+The **Your VA disability rating** page is where Veterans (or caregivers) can view their combined VA disability rating and the individual disabilities in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do if they have a problem or question. Information and tool links include:
+- **Compensation 101: How did I get this rating??** video on YouTube; this explains how disability claims are determined, and how ratings are calculated.
+- A link to **Check your claims and appeals**
 - The VA phone number: 800-827-1000
-- Breadcrumb links will take the Veteran a content page (Disability benefits), and a landing page (View your disability rating) with more information on disabilities and disability claims
+- Breadcrumb links will take the Veteran a content page (**Disability benefits**), and a landing page (**View your disability rating**) with more information on disabilities and disability claims
 
-The **Your VA disability rating** screen will show disability ratings that are in the VA record. If a Veteran does not have a disability rating, an informational alert box.
+The **Your VA disability rating** screen will show disability ratings that are in the VA record. If a Veteran does not have a disability rating, an informational alert box will appear:.
 
-If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the Individual disabilities, or both to show error alerts.
+**SCREENCAP GOES HERE**
+
+If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the Individual disabilities, or both could show error alerts.
+
+**SCREENCAP GOES HERE**
 
 Target launch date is end of November 2019, early December 2020.
 
 ## User Access
-### Who can access?
- Rated Disabilities is currently available to LOA3 (eBenefit Premium) users.  While other users can currently login on a Veterans behalf, it is not anticipated that this will be possible on VA.gov until Roles and Relationships are finalized.
+### Who can access this?
+The **Your VA disability rating** screen is currently available to LOA3 (**eBenefits** Premium) users.  On **eBenefits**, other users (cargivers, family members, etc.) can login on a Veteran's behalf, but that is not possible on **VA.gov** until Roles & Relationships work is finalized.
+
 ``` diff
 - TODO: I don't know if the other non ID.me access methods are valid
 ```
 
-### How can users access?
- This feature is accessible for testing within the staging environment at this url: https://staging.va.gov/disability/view-disability-rating/rating, and can be accessed in any modern browser.
+### How can users access this?
+The **Your VA disability rating** screen is accessible for testing within the staging environment at this url: https://staging.va.gov/disability/view-disability-rating/rating, and can be accessed in any modern browser.
 
  The Rated Disabilities Tool page also conforms to 508 compliance and can be used with major screen readers and other assistant tools.
 
