@@ -88,7 +88,6 @@ We are keeping the add functionality (yay!) and keeping DD at 50% for now.
     - Design and copy for the profile [#3763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3763)
     - Design and copy for the content page [#2903](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2903)
     - Start frontend setup for profile (final design implementation set for sprint 11) 
-  - Let eBenefits know the plan and see when their next release cycle is after 1/8 so we can get on it to remove the DD functionality from eBenefits. **Answer for go/no-go on 12/14 is NO.**
   - Analytics: Answer follow-up questions
 - Address validation
   - User testing updates 
