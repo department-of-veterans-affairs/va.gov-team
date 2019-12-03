@@ -68,13 +68,13 @@ Much of this content was adapted from these resources:
 
 All of these resources are available free online, except the book Mismatch. The Mismatch website has a plethora of free resources and scenarios. Illustrations are from *Microsoft’s Inclusive Design Toolkit*.
 
-<blockquote><strong>&ldquo;I don&rsquo;t know&rdquo; is an acceptable answer.</strong>
+<blockquote><strong>&ldquo;I don&rsquo;t know&rdquo; is an acceptable answer.</strong></blockquote>
 Continuous improvement is a tenet of Scrum and Agile: Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
 
 We&rsquo;re here to support one another, so it&rsqu;s okay to not know!
 
 Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA).
-</blockquote>
+
 
 <blockquote><strong>&ldquo;Inclusion is a vast promise &mdash; as immense, in fact, as human diversity &mdash; and that&rsquo;s what makes it a great design challenge. But without a clear agreement on what inclusion is, can we ever hope to achieve it? How can we design for something that means so many different things to different people?&rdquo;</strong> 
 
