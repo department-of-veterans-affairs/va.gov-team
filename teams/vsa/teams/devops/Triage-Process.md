@@ -57,7 +57,7 @@ VSA Tier 3 support would be contacted in the event the VSP Tier 1 team cannot re
 
 ## VSA Triage Process Workflow<a name="VSATriage"></a>
 
-1. Once the ticket/issue has been received by the Product Manager, they will coordinate with the team resources to resolve the issue. The issue will be managed according to the VSP process detail in the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
+1. Once the ticket/issue has been received by the PM, they will coordinate with the team resources to resolve the issue. The issue will be managed according to the VSP process detail in the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
 2. Depending on the severity of the issue, the PM will determine whether the current sprint (tickets and goals) need to be adjusted.
 3. Triage Severity Assessment - Issue Escalation Process
   1. In the case of critical production issues (definitions are found in [Table 3](#Table3) below), the sprint will be immediately adjusted and resources will be pulled into the Triage effort.  A new story will be immediately written (if necessary) and put into the sprint.
