@@ -10,11 +10,11 @@ Product Outline
   - Nick Wygoink, BAM2 Product Manager
 
 - Stakeholders:
-  - [ ] - Pat Booth – Chief, Veteran Services Division (VSD)
-  - [ ] - Jeff Robillard – Supervisor, Customer Service Section (one of two sections within VSD)
-  - [ ] - Jim Richardson – Senior Developer
-  - [ ] - Shane Elliot, Associate Director, Loma Linda VA Healthcare System
-  - [ ] - Paras Shah, VEText Project Manager
+  - Pat Booth – Chief, Veteran Services Division (VSD)
+  - Jeff Robillard – Supervisor, Customer Service Section (one of two sections within VSD)
+  - Jim Richardson – Senior Developer
+  - Shane Elliot, Associate Director, Loma Linda VA Healthcare System
+  - Paras Shah, VEText Project Manager
 
 ## Background
 DEPO, working in coordination with VBA, began an ambitious project to modernize the VA's digital benefits delivery process. Practically, this is taking the form of a migration of functionality from the current platform, eBenefits (http://www.ebenefits.va.gov), to the modern web platform of the future, VA.gov (http://www.va.gov).
@@ -35,22 +35,17 @@ Alex Y., our former deputy-CTO, sent the following:
 Millions of Veterans depend upon the VA for disability-related medical devices and their accessories. Today, Veterans are able to order **prosthetic socks** and **hearing aid batteries**, the two most commonly-ordered medical device accessories, through their respective VA forms (Form 2345 & 2346). There are a number of ways to request these medical devices today, through several different mediums and platforms, providing a disparate experience for Veterans. With the expected sunsetting of eBenefits, BAM2 seeks to match and expand the functionality of the platform on the VA.gov website.
 
 ### User Problem Statement
-As a Veteran, I want to be able to easily order the medical devices I need for my disability. 
-- [ ] _As a Veteran, I want one place to easily order the medical needs._ 
+As a Veteran, I want to be able to easily order the medical devices I need for my disability in one place.
 
 ## Discovery
 
 ### User Goals (Assumed)
 - Veterans:
   - Recieve **hearing aid batteries** or **prosthetic socks** from the VA _Denver Logistic Company_
-  - Automate their orders. 
-  - [ ] - _Veteran's would like to reduce the effert needed when ordering medical needs_ 
-  
+  - Spend less time and energy placing orders for batteries and socks  
 
 - VHA Providers:
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
-  - [ ] - _To migrate orders from Veterans to the online channel and away from the other channels proved (Automated phone service, Call center services, Mail in leaflet, and email)_
- - [ ] - _To allow veterans to order the DLC's full catalogue through the online ordering channel_
 
 - DLC Employees:
   - Enter in orders from Vets via phone: call center & automatided, mail, or email
@@ -59,14 +54,14 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
    - TBD  
 
 - VA/DLC Managers
-  - TBD
+  - To migrate orders from Veterans to the online channel and away from the other channels proved (Automated phone service, Call center services, Mail in leaflet, and email)
+  - To allow veterans to order the DLC's full catalogue through the online ordering channel
   
 ### Veteran's Pain Points (Assumed)
 - Veterans:
   - They are required to manually order the same item many times
   - There are too many methods to ordering devices
-  - [ ] _Have all the reoccurring items that are needed to be ordered in one location, i.e. pharmaceutical needs as well as medical device needs_
-  - [ ] - __
+  - There are too many locations for obtaining the items they need (e.g. pharmeceuticals in MyHealtheVet and socks in eBenefits)
 
 ### Business Goals (Assumed)
 - Fiscal 2020 our team is looking at focusing on migrating eBenefits medical tool to VA.gov 
@@ -94,10 +89,11 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 
 ## Requirements
 #### In Scope
-- [ ] Migrating current Medical Device tool from eBenefits to Va.gov
+- Migrating current Medical Device tool from eBenefits to Va.gov
 
 #### Out of Scope
-- [ ] TBD- Incorporating the larger DLC catalogue items to VA.gov
+- Incorporating the larger DLC catalogue items to VA.gov
+
 ## Solution Approach
 
 ## Value Propositions
