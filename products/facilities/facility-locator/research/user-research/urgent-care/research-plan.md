@@ -54,7 +54,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project point of contact: Aricka Lewis
 - Participant(s) for pilot test:
 - Note-takers: Perigean
-- Observers: Dave Conlon, Lance Sanchez, Gibran Rodriguez, Michelle Middaugh
+- Observers: Dave Conlon, Lance Sanchez, Gibran Rodriguez, Michelle Middaugh, Ryan Thurlwell
 
 ## Resources
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md)
