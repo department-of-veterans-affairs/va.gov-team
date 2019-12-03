@@ -110,6 +110,14 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Entrance pages (i.e. supporting static content) in place
 
 ## Review
+### Error Handling
+- [ ] After we understand how the data behaves, have a meeting to brainstorm about as many use cases as possible
+  - [ ] Has each field been addressed for errors?
+  - [ ] Has each component been addressed for errors?
+- [ ] Address errors handling with [this guide](https://design.va.gov/content-style-guide/messaging-error-messages) in mind
+  - Be mindful of others that are not planned.
+Error handling might be iterative.
+ 
 ### Security/ATO - `ON HOLD until Andrea Hewitt reaches out`
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?  Same as QA?
