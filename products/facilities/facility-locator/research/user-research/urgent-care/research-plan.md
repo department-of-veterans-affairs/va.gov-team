@@ -52,7 +52,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator): Aricka lewis
 - Participant recruiting & screening: Perigean
 - Project point of contact: Aricka Lewis
-- Participant(s) for pilot test:
+- Participant(s) for pilot test: Liz Lantz
 - Note-takers: Perigean
 - Observers: Dave Conlon, Lance Sanchez, Gibran Rodriguez, Michelle Middaugh, Ryan Thurlwell
 
