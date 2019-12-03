@@ -83,7 +83,7 @@ Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA 
 
 ## What It Is And What It Isn’t
 
-**Every choice we make ~~as designers~~ determines who can use an environment or product.**
+<blockquote><strong>Every choice we make <strike>as designers</strike> determines who can use an environment or product.</strong></blockquote>
 
 Every decision we make can raise or lower barriers to participation in society. It’s our collective responsibility to lower these barriers though inclusive products, services, environments, and experiences.
 
@@ -93,23 +93,30 @@ From the stairs at the entrance of a building to the two-handed design of a vide
 
 Source: [Medium post](https://medium.com/aiga-eye-on-design/what-were-leaving-out-of-the-discussion-around-inclusive-design-d058f44f88e1)
 
-“Now we look at a small sheet of glass on a sunny day, we juggle our phones one-handed, we’re distracted or in a rush. We are, quite literally, temporarily vision, motor, hearing, and cognitively impaired on a daily basis.” - Robin Christopherson, head of digital inclusion at UK tech charity AbilityNet.
+“Now we look at a small sheet of glass on a sunny day, we juggle our phones one-handed, we’re distracted or in a rush. We are, quite literally, temporarily vision, motor, hearing, and cognitively impaired on a daily basis.” 
+- Robin Christopherson, head of digital inclusion at UK tech charity AbilityNet.
 
 Robin pointed out that without accessibility at the very heart of everything you do, you will be producing websites and apps that leave not only disabled shoppers, but almost every one of your customers, frustrated and keen to take their money elsewhere.
 
-**Inclusive design** focuses on the diversity of people and considers the impact on design decisions.
+<blockquote><strong>Inclusive design</strong> focuses on the diversity of people and considers the impact on design decisions.
 
-* Recognize exclusion
-* Learn from diversity
-* Solve for one, extend to many
+<ul>
+ <li>Recognize exclusion</li>
+ <li>Learn from diversity</li>
+ <li>Solve for one, extend to many</li>
+</ul>
+</blockquote>
 
 **Inclusive design:** A design methodology that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives. Designing inclusively doesn’t mean you’re making one thing for all people. You’re designing a diversity of ways for everyone to participate in an experience with a sense of belonging. Many people are unable to participate in aspects of society, both physical and digital. Understanding why and how people are excluded gives us actionable steps to take towards inclusive design.
 
 The premise of inclusive design is that apart from permanent disabilities there are temporary, situational, or changing disabilities that affect us all. We use mobile devices in noisy environments, we struggle with screen glare in sunlight, and we attempt to tap links on touch screens that are positioned too close to each other—all of which leaves us temporarily impaired.
 
-**Accessibility**
-1. The qualities that make an experience open to all. 
-2. A professional discipline aimed at achieving No. 1.
+<blockquote><strong>Accessibility</strong>
+<ol>
+ <li>The qualities that make an experience open to all.</li>
+ <li>A professional discipline aimed at achieving No. 1.</li>
+</ol>
+</blockquote>
 
 An important distinction is that accessibility is an _attribute_, while inclusive design is a _method_. And while practicing inclusive design should make your products more accessible, it’s not a process for meeting all accessibility standards. Ideally, accessibility and inclusive design work together to make experiences that are not only compliant with standards, but truly usable and open to all.
 
@@ -143,7 +150,7 @@ Source: [Fast Company]9https://www.fastcompany.com/90243282/the-no-1-thing-youre
 
 ## Why Inclusive Design Matters
 
-_**Exclusion happens when we solve problems using our own biases.**_
+<blockquote><strong>Exclusion happens when we solve problems using our own biases.</strong></blockquote>
 
 **Recognize Exclusion** — Today when we talk about disabilities and related limitations, we include situational impairments, activity limitations, and restrictions on participation. We consider mismatches between individuals and their environments, situations, and society as a whole. [Microsoft Inclusive Design Toolkit](https://www.microsoft.com/design/inclusive/)
 
@@ -159,11 +166,23 @@ As people move through different environments, their abilities can also change d
 
 ### Recognize exclusion: Disability defined, then and now
 
-1980 - Disability as personal attribute - “In the context of health experience, a disability is any restriction or lack of ability (resulting from an impairment) to perform an activity in the manner or within the range considered normal for a human being.”
+<table>
+ <thead>
+   <tr>
+   <th>1980 - Disability as personal attribute</th>
+   <th>Today - Disability as context dependent</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>&ldquo;In the context of health experience, a disability is any restriction or lack of ability (resulting from an impairment) to perform an activity in the manner or within the range considered normal for a human being.&rdquo;</td>
+   <td>&ldquo;Disability is not just a health problem. It is a complex phenomenon, reflecting the interaction between features of a person&rsquo;s body and features of the society in which [they] live.&rdquo;</td>
+  </tr>
+ </tbody>
+</table>
 
-Today - Disability as context dependent - “Disability is not just a health problem. It is a complex phenomenon, reflecting the interaction between features of a person’s body and features of the society in which [they] live.”
-
-“The concept of "disability" may have limited the understanding of the need for accessible technology … the IT industry must consider the wide range of people who could benefit. ” - [Microsoft (2003)](https://www.microsoft.com/design/inclusive/)
+“The concept of "disability" may have limited the understanding of the need for accessible technology … the IT industry must consider the wide range of people who could benefit.” 
+- [Microsoft (2003)](https://www.microsoft.com/design/inclusive/)
 
 One finding of Microsoft’s report [The Wide Range of Abilities and Its Impact on Computer Technology](https://download.microsoft.com/download/0/1/f/01f506eb-2d1e-42a6-bc7b-1f33d25fd40f/researchreport.doc) is that, before developers of technology products can address the growing demand for accessible products effectively, they must first acknowledge the reality that the concept of disability may have previously limited their understanding of that need.
 
@@ -185,7 +204,7 @@ Interactions with technology depend heavily on what we can see, hear, say, touch
 
 _Further information:_ A report by Microsoft (2003): [The Wide Range of Abilities and its Impact on Computer Technology](http://download.microsoft.com/download/0/1/f/01f506eb-2d1e-42a6-bc7b-1f33d25fd40f/researchreport.doc) presents survey results on the range of abilities in the US population and discusses the current and potential market for accessible technology. A paper by Lange and Becerra (2007): [Teaching universal design in Colombia: the academic approach of two universities](https://www.researchgate.net/publication/309800043_Teaching_Universal_Design_in_Colombia_The_Academic_Approach_of_Two_Universities) discusses perceptions of disability and explains how it is ‘normal to be different’.
 
-**Learn how people adapt to the world by spending time understanding their experience from their perspective.**
+<blockquote><strong>Learn how people adapt to the world by spending time understanding their experience from their perspective.</strong></blockquote>
 
 Empathy is an important part of many different forms of design. When building empathy for exclusion and disability, it’s misleading to rely only on simulating different abilities through blindfolds and earplugs. Learning how people adapt to the world around them means spending time understanding their experience from their perspective.
 
@@ -204,7 +223,7 @@ Everyone experiences exclusion as they interact with our designs. On the other h
 ## Where You Make a Difference
 _**How to weave inclusive design throughout your work**_
 
-**Inclusive design should be a part of every stage of product development. A product created without inclusive design considerations will exclude a large audience.**
+<blockquote><strong>Inclusive design should be a part of every stage of product development. A product created without inclusive design considerations will exclude a large audience.</strong></blockquote>
 
 Inclusive design needs to be considered at every stage when building a product, including strategy, design, and development, highlighted Sarah Federman, a design engineer at Adobe. “At the design stage, we need to consider things like documenting expected keyboard interaction and reading order, color contrast, and text and media accessibility,” she recommended. “Project managers need to be tracking this and developers need to know how their app should behave—not just how it looks. It's a shared responsibility across the entire organization.”
 
@@ -228,7 +247,7 @@ Accessibility “bolted on” at the end is usually much less effective for peop
 
 This relates to digital design, as well, impacting systems architecture, personas, user journeys, design systems, page templates, information architecture, and semantic markup. Not only is it expensive to re-architect these systems, it is complicated, time-consuming, and introduces risk.
 
-**The best way to understand the diverse range of people you want to serve is to _work with them_ and learn how they interact with the world around them.**
+<blockquote><strong>The best way to understand the diverse range of people you want to serve is to _work with them_ and learn how they interact with the world around them.</strong></blockquote>
 
 ### Include people with disabilities
 
@@ -237,7 +256,7 @@ It may seem daunting to include people with disabilities on your project team. W
 * **Efficiency** — Including users with disabilities early in a project helps the team more efficiently address accessibility. This maximizes results from the investment as they more quickly develop accessible solutions, spend less time guessing, and avoid having to fix problems afterwards.
 * **Effectiveness** — When a team understands issues, they implement more effective, accessible solutions.
 
-**Evaluate data. It’s only as good as those collecting and assessing it. Diverse teams are crucial in this.**
+<blockquote><strong>Evaluate data. It’s only as good as those collecting and assessing it. Diverse teams are crucial in this.</strong></blockquote>
 
 “Data isn’t a be-all end-all,” warned Ivana McConnell, senior UI/UX designer at Customer.io. “When making decisions based on data, remember that data is only as good as those collecting it and asking questions of it. Diverse teams, built with inclusive hiring practices, are imperative. They bring the viewpoints which help keep data accountable, and ask the right questions of that data. Numbers are only as neutral as the people using them.”
 
@@ -250,12 +269,9 @@ It may seem daunting to include people with disabilities on your project team. W
 - [ ] Instead of evaluating accessibility separately, integrate checks where they fit best within your current reviews, testing, and quality assurance (QA)
 - [ ] Business and usability goals include accessibility requirements
 
-**“Designing for inclusion is not a feel-good sideline.… inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.”**
-— John Maeda, in the forward to Kat Holmes’ Mismatch, How Inclusion Shapes Design
-
-**“Designing for inclusion is not a feel-good sideline.… inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.”**
-
-— John Maeda, _in the forward to Kat Holmes’ Mismatch, How Inclusion Shapes Design_
+<blockquote><strong>&ldquo;Designing for inclusion is not a feel-good sideline.&hellip; inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.&rdquo;</strong>
+ — John Maeda, in the forward to Kat Holmes’ <em>Mismatch, How Inclusion Shapes Design</em>
+ </blockquote>
 
 ### Individual differences
 
@@ -378,8 +394,9 @@ When including accessibility in workflow analysis, observe people with disabilit
 
 Source: [http://uiaccess.com/accessucd/analysis.html](http://uiaccess.com/accessucd/analysis.html)
 
-**“Every decision we make can raise or lower barriers to participation in society. It’s our collective responsibility to lower these barriers through inclusive products, services, environments, and experiences.”**
-— [Microsoft Inclusive Design Toolkit Manual](https://www.microsoft.com/design/inclusive/)
+<blockquote><strong>&ldquo;Every decision we make can raise or lower barriers to participation in society. It&rsquo;s our collective responsibility to lower these barriers through inclusive products, services, environments, and experiences.&rdquo;</strong>
+ — <a href="https://www.microsoft.com/design/inclusive/">Microsoft Inclusive Design Toolkit Manual</a>
+</blockquote>
 
 ### Importance of Multiple Approaches in Design
 
