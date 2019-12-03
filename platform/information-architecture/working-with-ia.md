@@ -4,8 +4,9 @@ This document will help all teams working on VA.gov understand when you should e
 All teams building on the Veteran Services Platform should follow VA.gov IA best practices and guidelines and work with an IA resource to ensure all content is easily findable and we maintain a consistent navigation experience across the site. 
 
 - [What does an IA do for VSP?](#whatdoesIAdo)
-- [When to request IA support](#whentorequest)
-- [How to request IA support](#howtorequest)
+- [When to check-in/collaborate with IA](#whentorequest)
+- [What is an IA Review](#iareview)
+- [How to request an IA Review](#howtorequest)
 - [Questions/How to contact us](#questions)
 
 ## <a id="whatdoesIAdo"></a>What does IA do?
@@ -16,16 +17,16 @@ All teams building on the Veteran Services Platform should follow VA.gov IA best
 
 2. **Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
 
-**When can IA help?**
+**When should you think about IA?**
 - Launching a new content page(s) on VA.gov
 - Launching a new tool on VA.gov
-- Rewriting content and need to split or merge existing content pages
+- Rewriting content and need to split or merge existing pages
 - Looking to improve findability of an existing page or tool
 - Taking down a content page and/or tool
 - Changing the UX of global navigational elements (i.e. top nav, left nav, breadcrumbs)
 
-## <a id="whentorequest"></a>When to request IA resources
-Here are key times for IA support, but please do not hesitate to reach out at any time with questions, ideas or for general collaboration.   
+## <a id="whentorequest"></a>When to check-in/collaborate with IA
+IA support is available anytime you have questions or want to collaborate on your work, so don't hesitate to reach out at any time.   Here are some key times in your work, where collaborating with IA can be helpful. Keeping us up to speed on your work will reduce the time needed for an IA review and reduce the risk of needing to do rework. 
 
 **At project kick-off** 
 - It is beneficial to engage IA resources as early as possible in your work so we can gather background information, understand scope and timing, and determine how to work together through your project. Involving an IA resource earlier in your project will help avoid structural changes down the line. 
@@ -43,6 +44,18 @@ Here are key times for IA support, but please do not hesitate to reach out at an
 **During Development** 
 - We will approve final URLs and navigation labels and placement (in collaboration with content), as well as coordinate redirect implmentation, and help with any other documentation for your development team.  
 
+## <a id="iareview"></a>What is an IA review?
+
+An IA review is part the process when working on the platform to ensure a consistent structure and experience is maintained for our users regardless of the number of people and teams building user experiences on VA.gov. 
+
+**Here are the key things evaluated in an IA review**
+1. IA Structure - Where does the tool/content live within the overall structure of the site
+2. URLs and page breadcrumbs - Does the URL and breadcrumb follow the correct IA and standards used across the site?
+3. Primary entry points and high level user flow - What are the primary ways users will access the content/tool and where are they linked to within and after?
+4. Navigational components - What changes are needed to global nav components (i.e. top nav, header, left nav, etc)
+5. Crosslinking opportunities - Are there opportunities to reference this content/tool in secondary placements across the site?
+6. Redirects/canonical - Is there legacy or duplicative content that needs to be handled?
+
 
 ## <a id="howtorequest"></a>How to request IA support 
 
@@ -56,10 +69,11 @@ Please be sure to make requests ahead of time - ideally a sprint ahead of time.
 
 4. Please include the following as applicable:
 - Required:
-  - Link to a product outline or description and goals of the work
+  - Description and goals of the page/tool or link to a product outline
   - Planned/estimated launch date
-  - Prototype or mock ups of **all** pages
+  - Link to prototype or mock ups of all pages in the user flow
 - Helpful, but not required:
+  - Any IA documentation you/your team has created
   - Links to any applicable research
   - SEO data
   - applicable analytics
