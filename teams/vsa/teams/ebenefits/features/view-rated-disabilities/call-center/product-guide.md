@@ -4,7 +4,7 @@
 - Draft, needs urls and editing
 ```
 
-# Your VA disability rating page
+# Your VA disability Rating Page
 
 ### Table of Contents 
  - [What is it?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#what-is-it)
@@ -89,19 +89,19 @@ VA.gov does not support other non-Veteran users at this time.
 - TODO: Not sure if this is accurate?
 ```
 
-**What does "service connected" mean?**  
-"Service Connected" is an issue or injury that occurred while the Veteran was in service.  Non-Service Connected issues or injuries are important but may not contribute to the overall rating as they did not occur while the Veteran was in service.
+**What does "service-connected" mean?**  
+"Service-connected" is an issue or injury that occurred while the Veteran was in service.  Not service-connected issues or injuries are important but may not contribute to the overall rating as they did not occur while the Veteran was in service.
 
 **I don't see a number next to my individual rating.  Where is it?  What does that mean?**  
-This usually means there is no rating due to the issue or injury being designated as non-service connected and therefore not applied to the Total Combined Disability Rating.  Non-Service Connected will show 'null' percentage (i.e., nothing) where a Service Connected issue or injury can have anything ranging from 100% to 0%.
+This usually means there is no rating because the issue or injury was considered not service-connected, and therefore not applied to the combined VA disability rating.  Not service-connected disabilities will show 0% or nothing, but a service-connected issue or injury can show from 0% to 100%.
 
 ## Functionality  
-The Rated Disabilities tool page simply shows the total combined disability rating (critical for establishing levels of compensation) and the individual ratings that are service connected, and therefore a part of that calculation, and non-service connected which are for issues that have occured while the Veteran was not in service.  These are important for inclusion as some might be pending or be needed to take into account.
+The **Your VA disability rating** page simply shows the total combined VA disability rating (critical for establishing disability benefits) and the individual disabilities that contribute to the total percentage.  Individual disabilities can be service-connected (and therefore a part of that calculation), or not service-connected (and are not used for the toatal calculation) Not service-connected disabilites may be a part of a pending claim or appeal.
 
-The Veteran also has the option of browsing into the Claim Status Tool in order to learn more about the status of individual claims (e.g., active, inactive or pending).
+The Veteran also has the option of browsing to **Check your claims or appeals** to learn more about the status of individual claims (e.g., active, inactive or pending).
 
 ## Error Handling and Notifications  
-The combine VA disability rating and the individual ratings are separate components. A loading spinner will appear when the page is loading the Veteran's disability information.  
+The combined VA disability rating and the individual ratings are separate components. A loading spinner will appear when the page is loading the Veteran's disability information.  
 
 In the event that the page does not see the data, a blue messaging window appears.  
 
