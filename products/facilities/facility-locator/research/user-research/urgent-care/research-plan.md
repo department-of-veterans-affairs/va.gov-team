@@ -44,7 +44,7 @@ December 13, 2019 | 10AM – 5PM
 December 16, 2019 | 10AM – 5PM
 
 #### Pilot Date: December 9, 2019 
-Design team member(s):
+Design team member(s): Liz Lantz, Jennifer Strickland
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
