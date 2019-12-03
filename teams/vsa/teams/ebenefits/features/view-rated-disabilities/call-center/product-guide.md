@@ -44,7 +44,7 @@ Target launch date is end of November 2019, early December 2020.
 
 ## User Access
 ### Who can access this?
-The **Your VA disability rating** page is currently available to LOA3 (**eBenefits** Premium) users.  On **eBenefits**, other users (cargivers, family members, etc.) can login on a Veteran's behalf, but that is not possible on **VA.gov** until Roles & Relationships work is finalized.
+The **Your VA disability rating** page is currently available to LOA3 (**eBenefits** Premium) users.  On **eBenefits**, other users (caregivers, family members, etc.) can login on a Veteran's behalf, but that is not possible on **VA.gov** until Roles & Relationships work is finalized.
 
 ``` diff
 - TODO: I don't know if the other non ID.me access methods are valid
@@ -56,7 +56,7 @@ The **Your VA disability rating** page is accessible for testing within the **VA
 The **Your VA disability rating** page is Section 508 compliant, and supports major screen readers, keyboarding, and other adaptive equipment.
 
 ## Navigation
-If a Veteran searches or browses **VA.gov**, several links will connect to the **View your VA disabilty rating** landing page (https://va.gov/disability/view-disability-rating). If the Veteran is alreaduy logged-in, they can proceed to the **Your VA disability rating** page by clicking the blue **View your VA disability rating >** button. Veterans whao are not logged-in will see the same page, but with the green **Sign in or create an account** button. The **View your VA disabilty rating** landing page has information about some basic access questions. It also has a link to **Learn how VA disability ratings are assigned**, which can help explain the VA disability rating calculation. The usual navigations links are in the left sidebar.
+If a Veteran searches or browses **VA.gov**, several links will connect to the **View your VA disability rating** landing page (https://va.gov/disability/view-disability-rating). If the Veteran is already logged-in, they can proceed to the **Your VA disability rating** page by clicking the blue **View your VA disability rating >** button. Veterans who are not logged-in will see the same page, but with the green **Sign in or create an account** button. The **View your VA disability rating** landing page has information about some basic access questions. It also has a link to **Learn how VA disability ratings are assigned**, which can help explain the VA disability rating calculation. The usual navigations links are in the left sidebar.
 
 ``` diff
 LOGGED-IN SCREENCAP GOES HERE
@@ -96,7 +96,7 @@ VA.gov does not support other non-Veteran users at this time.
 This usually means there is no rating because the issue or injury was considered not service-connected, and therefore not applied to the combined VA disability rating.  Not service-connected disabilities will show 0% or nothing, but a service-connected issue or injury can show from 0% to 100%.
 
 ## Functionality  
-The **Your VA disability rating** page simply shows the total combined VA disability rating (critical for establishing disability benefits) and the individual disabilities that contribute to the total percentage.  Individual disabilities can be service-connected (and therefore a part of that calculation), or not service-connected (and are not used for the toatal calculation) Not service-connected disabilites may be a part of a pending claim or appeal.
+The **Your VA disability rating** page simply shows the total combined VA disability rating (critical for establishing disability benefits) and the individual disabilities that contribute to the total percentage.  Individual disabilities can be service-connected (and therefore a part of that calculation), or not service-connected (and are not used for the total calculation) Not service-connected disabilities may be a part of a pending claim or appeal.
 
 The Veteran also has the option of browsing to **Check your claims or appeals** to learn more about the status of individual claims (e.g., active, inactive or pending).
 
@@ -111,6 +111,6 @@ Also included is workflow that shows how the Veteran can get in and out of the R
 
 **Other Error Handling Notes**  
 - vets-api error mapping: https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/locales/exceptions.en.yml This is a comprehensive list of all expected exceptions within vets-api, not specific to rated disabilities.  
-- Errors related to the disbaility compensation form (526) can be found here: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/disability_compensation_form/service_exception.rb These get mapped to the exceptions.enyml file referenced above. The exceptions are handled in a linear/sequential fashion, meaning the first exception in the list that is encountered is the one that will be returned.  
+- Errors related to the disbility compensation form (526) can be found here: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/disability_compensation_form/service_exception.rb These get mapped to the exceptions.enyml file referenced above. The exceptions are handled in a linear/sequential fashion, meaning the first exception in the list that is encountered is the one that will be returned.  
 - wss-form526-services-web: https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml#/  
 
