@@ -6,7 +6,7 @@
 
 Usability testing was conducted to validate the utility of the Rated Disabilities and View Dependents screen individually, and as "Tool Pages."
 
-**Goals:** The overall goal of this research was to determine the user acceptability for the overall page layouts and the specific presentation on list data in a card format. Specifically, can users quickly identify the purpose of the page, scan and locate key information, and easily understand the visual hierarchy. Other goals included uncovering pain points, workflow breakdowns, user expectations, and potential future features.
+**Goals:** The overall goal of this research was to determine the user acceptability for the overall page layouts and the presentation of list data in a card format. Specifically, can users quickly identify the purpose of the page, scan and locate key information, and easily understand the visual hierarchy. Other goals included uncovering pain points, workflow breakdowns, user expectations, and potential future features.
 
 **Hypothesis:** The Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their Total Combined Disabilities Rating (TCDR)); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
 
