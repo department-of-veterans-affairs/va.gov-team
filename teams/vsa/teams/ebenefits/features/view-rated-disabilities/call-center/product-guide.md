@@ -49,8 +49,6 @@ Like all sensitive pages on VA.gov, this page is available to users in MVI who h
 ### How can users access this?
 The **Your VA disability rating** page is accessible for testing within the **VA.gov** staging environment here: https://staging.va.gov/disability/view-disability-rating/rating. The page can be viewed using any modern browser.
 
-The **Your VA disability rating** page is Section 508 compliant, and supports major screen readers, keyboarding, and other adaptive equipment.
-
 ## Navigation
 If a Veteran searches or browses **VA.gov**, several links will connect to the **View your VA disability rating** landing page (https://va.gov/disability/view-disability-rating). If the Veteran is already logged-in, they can proceed to the **Your VA disability rating** page by clicking the blue **View your VA disability rating >** button. Veterans who are not logged-in will see the same page, but with the green **Sign in or create an account** button. The **View your VA disability rating** landing page has information about some basic access questions. It also has a link to **Learn how VA disability ratings are assigned**, which can help explain the VA disability rating calculation. The usual navigations links are in the left sidebar.
 
