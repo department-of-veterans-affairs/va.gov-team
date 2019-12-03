@@ -24,13 +24,21 @@ The **Your VA disability rating** page is where Veterans (or caregivers) can vie
 - The VA phone number: 800-827-1000
 - Breadcrumb links will take the Veteran a content page (**Disability benefits**), and a landing page (**View your disability rating**) with more information on disabilities and disability claims
 
+``` diff
+SCREENCAP GOES HERE
+```
+
 The **Your VA disability rating** screen will show disability ratings that are in the VA record. If a Veteran does not have a disability rating, an informational alert box will appear:.
 
-**SCREENCAP GOES HERE**
+``` diff
+SCREENCAP GOES HERE
+```
 
 If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the Individual disabilities, or both could show error alerts.
 
-**SCREENCAP GOES HERE**
+``` diff
+SCREENCAP GOES HERE
+```
 
 Target launch date is end of November 2019, early December 2020.
 
@@ -43,9 +51,9 @@ The **Your VA disability rating** screen is currently available to LOA3 (**eBene
 ```
 
 ### How can users access this?
-The **Your VA disability rating** screen is accessible for testing within the staging environment at this url: https://staging.va.gov/disability/view-disability-rating/rating, and can be accessed in any modern browser.
+The **Your VA disability rating** page is accessible for testing within the **VA.gov** staging environment here: https://staging.va.gov/disability/view-disability-rating/rating. The page can be viewed using any modern browser.
 
- The Rated Disabilities Tool page also conforms to 508 compliance and can be used with major screen readers and other assistant tools.
+The **Your VA disability rating** page is Section 508 compliant, and supports major screen readers, keyboarding, and other adaptive equipment.
 
 ## Navigation
 Browsing within VA.gov from the disability page should bring the user to an unauthenticated landing page (https://va.gov/disability/view-disability-rating) which should answer some general questions about the tool as well as present the login button to gain access.
