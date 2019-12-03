@@ -15,7 +15,6 @@ Our objective for this research is to learn the best way to provide location inf
 
 #### Hypothesis: 
 
-
 ## Method
 Remote Moderated Usability Testing will help us gain feedback on the first iteration of the Urgent Care prototype. We will watch for pain points in the user flow and areas to improve the next iteration of the prototype.
 
