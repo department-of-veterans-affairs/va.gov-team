@@ -85,9 +85,9 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 - Direct deposit
 We are keeping the add functionality (yay!) and keeping DD at 50% for now.
   - DS logon gate: 
-    - Design and copy for the profile
-    - Design and copy for the content page
-    - Start frontend setup for profile (final design implementation might be sprint 11) 
+    - Design and copy for the profile [#3763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3763)
+    - Design and copy for the content page [#2903](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2903)
+    - Start frontend setup for profile (final design implementation set for sprint 11) 
   - Let eBenefits know the plan and see when their next release cycle is after 1/8 so we can get on it to remove the DD functionality from eBenefits. **Answer for go/no-go on 12/14 is NO.**
   - Analytics: Answer follow-up questions
 - Address validation
@@ -95,7 +95,7 @@ We are keeping the add functionality (yay!) and keeping DD at 50% for now.
     - Copy [#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741)
     - Frontend implementation
   - Bad Unit number
-    - Finish copy
+    - Finish design/copy [#3660](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3660)
     - Frontend implementation
   - QA
     - Fill out Tze's QA intake form
@@ -105,7 +105,7 @@ We are keeping the add functionality (yay!) and keeping DD at 50% for now.
     - Follow up with VA Profile (Vet360) team
     - Create a GitHub version of the spreadsheet
 * APO/FPO/DPO
-  - Finalize copy for the profile
+  - Finalize copy for the profile [#3023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3023)
   - Create a list of all benefit applications and where they get address data from — note which are VA Profile (Vet360) and which are not.
   - Propose solution for how to handle military addresses in benefit applications that use VA Profile data.
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
