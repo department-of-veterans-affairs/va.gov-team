@@ -92,21 +92,21 @@ We are keeping the add functionality (yay!) and keeping DD at 50% for now.
 - Address validation
   - User testing updates 
     - Copy [#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741)
-    - Frontend implementation
+    - Frontend implementation [#3890](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3890)
   - Bad Unit number
     - Finish design/copy [#3660](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3660)
-    - Frontend implementation
+    - Frontend implementation [#3891](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3891)
   - QA
     - Fill out Tze's QA intake form
     - Have Tze complete the test plan
-  - Error Matrix
+  - Error Matrix [#3892](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3892)
     - Updates
     - Follow up with VA Profile (Vet360) team
     - Create a GitHub version of the spreadsheet
 * APO/FPO/DPO
   - Finalize copy for the profile [#3023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3023)
-  - Create a list of all benefit applications and where they get address data from — note which are VA Profile (Vet360) and which are not.
-  - Propose solution for how to handle military addresses in benefit applications that use VA Profile data.
+  - Create a list of all benefit applications and where they get address data from — note which are VA Profile (Vet360) and which are not.[#3893](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3893)
+  - Propose solution for how to handle military addresses in benefit applications that use VA Profile data.[3895](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3895) 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
