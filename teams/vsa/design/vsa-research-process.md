@@ -35,7 +35,8 @@ If you want to use Perigean (and we usually do), contact Lauren Alexanderson, te
 Note: please cc Andre Zwilling of GCIO to your communication to Lauren so he knows a research session is happening.
 Once Lauren has approved your plan, please add the line “This plan was reviewed and approved by Lauren Alexanderson on xx/xx/2019” at the bottom of the plan itself on Github
 
-Veterans often will not show up to sessions. Try to schedule 1.5X more people than you need, with the expectation that people will not show.
+Veterans often will not show up to sessions. Try to schedule 1.5X more people than you need, with the expectation that people will not show. Interestingly, evening slots usually get about 10 percent fewer no shows if you are running short on time / really need people to show up.
+
 To talk to stakeholders or VA employees that are working on the other side of the forms, we should go through our stakeholders.  Note that it’s fine to go casually talk to VA employees as long as we aren’t paying them.  
 
 ## <a id="pilot-sessions"></a> Pilot / Test Session
