@@ -60,7 +60,7 @@ You should run a pilot/test session before your study. This session should be do
 [Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/what-to-do-with-recordings.md) 
 
 ## <a id="running-sessions"></a>Running the Sessions
-* You may hear hard stories from veterans.  It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up.
+* You may hear hard stories from veterans.  It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up. It is not necessary or very helpful to dig deeply into folks' trauma, however. The best attitude when in doubt is a middle ground where you show compassion but then move on to whatever you need to get covered in a graceful way.  E.g. "that sounds so hard. [back to script] Could you tell me a bit more about your experience applying for that benefit?"
 * Make sure to ask open-ended questions and avoid Yes/No prompts. 
 * Follow-up with “Why?” and “Tell me more” if the user has given you a short statement / not enough information
 * Avoid saying "Thank you for your service" to Veterans, as some have a negative association with that phrase
