@@ -88,7 +88,7 @@ We are keeping the add functionality (yay!) and keeping DD at 50% for now.
     - Design and copy for the profile [#3763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3763)
     - Design and copy for the content page [#2903](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2903)
     - Start frontend setup for profile (final design implementation set for sprint 11) 
-  - Analytics: Answer follow-up questions
+  - Analytics: Answer follow-up questions [#3877](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3877)
 - Address validation
   - User testing updates 
     - Copy [#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741)
