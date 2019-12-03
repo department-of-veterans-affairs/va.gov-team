@@ -4,7 +4,7 @@
 - Draft, needs urls and editing
 ```
 
-# Your VA disability Rating Page
+# Your VA Disability Rating Page
 
 ### Table of Contents 
  - [What is it?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#what-is-it)
@@ -18,7 +18,7 @@
  - [Video Demo Link (YouTube)](#)
 
 ## What is it?
-The **Your VA disability rating** page is where Veterans (or caregivers) can view their combined VA disability rating and the individual disabilities in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do if they have a problem or question. Information and tool links include:
+The **Your VA Disability Rating** page is where Veterans can view their combined disability rating and the individual disabilities in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do if they have a problem or question. Information and tool links include:
 - **Compensation 101: How did I get this rating??** video on YouTube; this explains how disability claims are determined, and how ratings are calculated.
 - A link to **Check your claims and appeals**
 - The VA phone number: 800-827-1000
@@ -28,13 +28,13 @@ The **Your VA disability rating** page is where Veterans (or caregivers) can vie
 SCREENCAP GOES HERE
 ```
 
-The **Your VA disability rating** screen will show disability ratings that are in the VA record. If a Veteran does not have a disability rating, an informational alert box will appear:.
+The **Your VA Disability Rating** screen will show disability ratings that are known to the VA. If a Veteran does not have a disability rating, an informational alert box will appear:
 
 ``` diff
 SCREENCAP GOES HERE
 ```
 
-If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the Individual disabilities, or both could show error alerts.
+If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the individual disabilities, or both, could show error alerts.
 
 ``` diff
 SCREENCAP GOES HERE
@@ -44,11 +44,7 @@ Target launch date is end of November 2019, early December 2020.
 
 ## User Access
 ### Who can access this?
-The **Your VA disability rating** page is currently available to LOA3 (**eBenefits** Premium) users.  On **eBenefits**, other users (caregivers, family members, etc.) can login on a Veteran's behalf, but that is not possible on **VA.gov** until Roles & Relationships work is finalized.
-
-``` diff
-- TODO: I don't know if the other non ID.me access methods are valid
-```
+Like all sensitive pages on VA.gov, this page is available to users in MVI who have an identity proofed account. (**eBenefits** Premium).
 
 ### How can users access this?
 The **Your VA disability rating** page is accessible for testing within the **VA.gov** staging environment here: https://staging.va.gov/disability/view-disability-rating/rating. The page can be viewed using any modern browser.
@@ -82,21 +78,17 @@ Help is available by calling the VA at 1-800-827-1000 ??We don't need this if th
 **I have a disability that is pending; where can I go to get more information?**  
 The Claim Status Tool is the best way to see the status of pending claims.  The link for that is: https://www.va.gov/claim-or-appeal-status/
 
-**I am logging in on behalf of a Veteran, why can't I see the proper information?**  
-VA.gov does not support other non-Veteran users at this time.  
-
-``` diff
-- TODO: Not sure if this is accurate?
-```
+**Can I log in on behalf of a Veteran to see his or her information?**  
+VA.gov does not currently support this functionality, but many Veteran representatives maintain accounts with the Stakeholder Enterprise Portal (SEP, www.sep.va.gov) and can find the information that way.
 
 **What does "service-connected" mean?**  
-"Service-connected" is an issue or injury that occurred while the Veteran was in service.  Not service-connected issues or injuries are important but may not contribute to the overall rating as they did not occur while the Veteran was in service.
+"Service-connected" is a disability that occurred while the Veteran was in service.  Not service-connected issues or injuries are important but may not contribute to the overall rating as they did not occur while the Veteran was in service.
 
 **I don't see a number next to my individual rating.  Where is it?  What does that mean?**  
-This usually means there is no rating because the issue or injury was considered not service-connected, and therefore not applied to the combined VA disability rating.  Not service-connected disabilities will show 0% or nothing, but a service-connected issue or injury can show from 0% to 100%.
+This may mean that there is no rating because the disability was considered not service-connected. Not service-connected disabilities will show 0% or nothing, but a service-connected issue or injury can show from 0% to 100%. In some cases the source database (CorpDB) may contain incorrect information about a disability, or it may be in the process of being updated due to a recent decision. In that case, the Veteran should wait for some time before refreshing the page.
 
 ## Functionality  
-The **Your VA disability rating** page simply shows the total combined VA disability rating (critical for establishing disability benefits) and the individual disabilities that contribute to the total percentage.  Individual disabilities can be service-connected (and therefore a part of that calculation), or not service-connected (and are not used for the total calculation) Not service-connected disabilities may be a part of a pending claim or appeal.
+The **Your VA disability rating** page simply shows the total combined VA disability rating and the individual disabilities that contribute to the total percentage.  Individual disabilities can be service-connected (and therefore a part of that calculation), or not service-connected (and are not used for the total calculation).
 
 The Veteran also has the option of browsing to **Check your claims or appeals** to learn more about the status of individual claims (e.g., active, inactive or pending).
 
