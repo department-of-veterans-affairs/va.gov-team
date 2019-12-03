@@ -13,7 +13,7 @@ Questions? Contact Shawna Hein (shawna@adhocteam.us).
 - [Other Resources](#resources)
 
 ## <a id="process"></a>VA.gov Base Process
-There is a basic process we should use when planning and implementing research within the VSA contract.  DSVA’s updated process document can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2019_updated_research_process.md). Please read that process doc first and then read the rest of this one for more tips/details.
+There is a basic process we should use when planning and implementing research within the VSA contract.  DSVA’s updated process document can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md). Please read that process doc first and then read the rest of this one for more tips/details.
 
 ## <a id="setup"></a>Setup
 Make sure to create a folder in github under whatever “feature/flow” you’re working on E.g. “UrgentCare/Research/June-2019-Usability-Test/”  Where you can store you research plan, conversation guide, notes, and final results.  Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
