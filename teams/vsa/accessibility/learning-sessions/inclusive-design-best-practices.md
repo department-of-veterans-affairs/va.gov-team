@@ -68,16 +68,18 @@ Much of this content was adapted from these resources:
 
 All of these resources are available free online, except the book Mismatch. The Mismatch website has a plethora of free resources and scenarios. Illustrations are from *Microsoft’s Inclusive Design Toolkit*.
 
-_**“I don’t know” is an acceptable answer.**_
+<blockquote><strong>&ldquo;I don&rsquo;t know&rdquo; is an acceptable answer.</strong>
 Continuous improvement is a tenet of Scrum and Agile: Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
 
-We’re here to support one another, so it’s okay to not know!
+We&rsquo;re here to support one another, so it&rsqu;s okay to not know!
 
 Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA).
+</blockquote>
 
-_**“Inclusion is a vast promise — as immense, in fact, as human diversity — and that’s what makes it a great design challenge. But without a clear agreement on what inclusion is, can we ever hope to achieve it? How can we design for something that means so many different things to different people?”**_ 
+<blockquote><strong>&ldquo;Inclusion is a vast promise &mdash; as immense, in fact, as human diversity &mdash; and that&rsquo;s what makes it a great design challenge. But without a clear agreement on what inclusion is, can we ever hope to achieve it? How can we design for something that means so many different things to different people?&rdquo;</strong> 
 
 — Kat Holmes, author of Mismatch, How Inclusion Shapes Design
+</blockquote>
 
 ## What It Is And What It Isn’t
 
@@ -409,3 +411,37 @@ f. At least one mode of operation and information retrieval that does not requir
 
 Source: [http://uiaccess.com/accessucd/design.html#functional-limitation](http://uiaccess.com/accessucd/design.html#functional-limitation)
 
+### P O U R
+
+Web Content Accessibility Guidelines (WCAG)  guidelines and Success Criteria are organized around the following four principles, which lay the foundation necessary for anyone to access and use Web content. Anyone who wants to use the Web must have content that is:
+* **Perceivable** - Information and user interface components must be presentable to users in ways they can perceive. This means that users must be able to perceive the information being presented (it can't be invisible to all of their senses).
+* **Operable** - User interface components and navigation must be operable. This means that users must be able to operate the interface (the interface cannot require interaction that a user cannot perform).
+* **Understandable** - Information and the operation of user interface must be understandable. This means that users must be able to understand the information as well as the operation of the user interface (the content or operation cannot be beyond their understanding).
+* **Robust** - Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies. This means that users must be able to access the content as technologies advance (as technologies and user agents evolve, the content should remain accessible).
+
+Source: [https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)
+
+See [Web Content Accessibility Guidelines (WCAG) Overview](http://www.w3.org/WAI/intro/wcag.php) for an introduction to WCAG, supporting technical documents, and educational material.
+
+Google’s documentation on POUR: [https://developers.google.com/web/fundamentals/accessibility/#web_content_accessibility_guidelines](https://developers.google.com/web/fundamentals/accessibility/#web_content_accessibility_guidelines)
+
+**Questions to Ask**
+*Perceivable:* Can users perceive the content? This helps us keep in mind that just because something is perceivable with one sense, such as sight, that doesn't mean that all users can perceive it.
+
+*Operable:* Can users use UI components and navigate the content? For example, something that requires a hover interaction cannot be operated by someone who can't use a mouse or touch screen.
+
+*Understandable:* Can users understand the content? Can users understand the interface and is it consistent enough to avoid confusion?
+
+*Robust:* Can the content be consumed by a wide variety of user agents (browsers)? Does it work with assistive technology?
+
+### Evaluate early and throughout
+
+If designers focus only on meeting the minimum requirements of a limited standard, the resulting product can have accessibility problems that impede usability for people with disabilities. Understanding how people interact with the product in limiting conditions is a start to avoiding unusable accessibility features; evaluation provides confirmation.
+
+Evaluate early and throughout the design phase. Evaluating early design prototypes helps you validate design aspects that work well, and find potential accessibility barriers while it is still relatively easy and inexpensive to fix them.
+
+<blockquote><strong>&ldquo;I don’t know&rdquo; is an acceptable answer.</strong>
+Continuous improvement is a tenet of Scrum and Agile.
+Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
+We’re here to support one another, so it&rsquo;s okay to not know!
+Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA). </blockquote>
