@@ -19,11 +19,11 @@ For details on how and when to report Triage incidents access the [VSP - Triage 
 3. If the issue needs escalation, then it gets assigned to the VSA team as a [VSA Tier 2](#Tier2) issue.
 4. If the [VSA Tier 2](#Table1) resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in [Table 3](#Table3) herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in [Table 2](#Table2).
 
-The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md). The details for the VSA [Tier 2](#Tier2) and [Tier 3](#Tier3) processes are found below.
+The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support Tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md). The details for the VSA [Tier 2](#Tier2) and [Tier 3](#Tier3) processes are found below.
 
 ### Tier 2 Support (VSA)<a name="Tier2"></a>
 
-VSA comes into play when Tier 1 is unable to resolve the issue from a platform perspective.  If VSA resources are needed, the Triage effort is escalated to Tier 2 support and a GitHub issue will be updated using the appropriate labels and assigned to the appropriate team as defined in the [section below](#Table1).
+VSA comes into play when Tier 1 is unable to resolve the issue from a platform perspective.  If VSA resources are needed, the Triage effort is escalated to Tier 2 support and a GitHub issue will be updated using the appropriate labels and assigned to the appropriate team as defined in [Table 1](#Table1).
 
 VSA Tier 2 support involves the primary POCs for each product group.  The Product Manager is contacted first and is responsible for pulling in the appropriate resources and doing an escalation analysis based on the level of severity as described on the [Triage Severity Assessment](#Table3) table.
 
