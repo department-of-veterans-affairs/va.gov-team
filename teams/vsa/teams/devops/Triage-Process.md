@@ -15,8 +15,9 @@ For details on how and when to report Triage incidents access the [VSP - Triage 
 #### Tier 1 Process Details (VSA)
 
 1. New GitHub issue is received and processed by the VSP Triage team as established in the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md).
-2. If the issue needs escalation then it gets assigned to the VSA team as a Tier 2 issue.
-3. If the VSA Tier 2 resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in Table 3 herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in Table 2.
+2. VSA PM must make sure that the "**vsa-Triage**" label have been added to the issue.
+3. If the issue needs escalation then it gets assigned to the VSA team as a Tier 2 issue.
+4. If the VSA Tier 2 resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in Table 3 herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in Table 2.
 
 The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md). The details for the VSA Tier 2 and Tier 3 processes are found below.
 
@@ -24,7 +25,7 @@ The VSP (BE Tools) team defines the tiers and the escalation process in the foll
 
 VSA comes into play when Tier 1 is unable to solve the issue from a platform perspective.  If VSA resources are needed, the Triage effort is escalated to Tier 2 support and a GitHub issue will be updated using the appropriate labels and assigned to the appropriate team as defined in the section below.
 
-VSA Tier 2 support involves the primary POCs for each product group.  The Product Manager is contacted first and is responsible for pulling in the appropriate resources and doing an escalation analysis based on the level of severity.
+VSA Tier 2 support involves the primary POCs for each product group.  The Product Manager is contacted first and is responsible for pulling in the appropriate resources and doing an escalation analysis based on the level of severity as described on [Triage Severity Assessment](#Table3).
 
 #### Table 1: Tier 2 Support
 
@@ -65,7 +66,7 @@ VSA Tier 3 support would be contacted in the event the VSP Tier 1 team cannot re
 4. The Product Manager will notify the VSA Lead Engineer, the VA Business Owners, and the Program Manager of the issue
 5. Once the issue has been resolved, a root cause analysis will be performed by the PM.  If desired by the DSVA, the PM can provide a Root Cause Analysis (RCA) summary using the document template stored in the [VSA Google drive](https://docs.google.com/document/d/16HGKtXGhDx1n0tlk55gmtiFxvGbGhy6n/edit) and will submit it to the VSA Lead Engineer, the VA Business Owners, and the Program Manager.
 
-### Table 3: Triage Severity Assessment
+### Table 3: <a name="Table3"></a>Triage Severity Assessment
 
 | Severity | Conditions | Response |
 | --- | --- | --- |
