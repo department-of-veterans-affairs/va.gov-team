@@ -19,7 +19,8 @@
     - Aricka: December 6, 26-27
     - Dave: December 26-27
     - Gibran: December 23-27
-    
+### Sharing  
+    - Lance @ 50% (shared with Caregiver team)
     
 ## January 2020
 ### Holidays
