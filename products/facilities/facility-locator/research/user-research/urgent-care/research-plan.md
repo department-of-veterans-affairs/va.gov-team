@@ -1,30 +1,35 @@
-# Research Plan for Facility Locator Urgent Care - November 2019
+# Research Plan for Facility Locator Urgent Care - December 2019
 
 ## Goals
-1. This research is for the VSA Facility Locator team.
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-4. Hypothesis: What is your hypothesis for this research? 
+This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Locator team.
+
+The Facility Locator is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA.
+
+Our objective for this research is to learn the best way to provide location information for Urgent Care facilities on the Find VA Locations page of VA.gov.
+
+#### Research questions:
+- How can we provide access to the Benefit PDF for Veterans? 
+- What details do Veterans expect to see on urgent care facilities? 
+- Do Veterans understand how urgent care and community care work together? 
+- Should we prioritize Urgent Care on the Find VA Locations page?
+
+#### Hypothesis: 
+
 
 ## Method
-1.	What method of research are you planning? 
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated
-  
-2.	Why this method? How does this methodology help you answer your research questions? 
+Remote Moderated Usability Testing will help us gain feedback on the first iteration of the Urgent Care prototype. We will watch for pain points in the user flow and areas to improve the next iteration of the prototype.
 
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
-
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
-
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+We will be testing a prototype [Link Will Go Here] through Zoom.
 
 ## Participants and Recruitment
-1.	Participant criteria: What are you looking for in a participant?
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
+Participant Criteria
+- Goal: 10 Participants
+- Veterans and Caregivers
+- All ages
+- Representative gender demographic (at least 1 woman)
+- All levels of familiarity with technology
 
-2.	What is your recruitment strategy? 
-(If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
+Recruitment to be done through Perigean
 
 ## When? 
 1.	Timeline: What dates do you plan to do research? 
