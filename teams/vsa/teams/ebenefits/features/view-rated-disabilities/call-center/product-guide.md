@@ -56,7 +56,15 @@ The **Your VA disability rating** page is accessible for testing within the **VA
 The **Your VA disability rating** page is Section 508 compliant, and supports major screen readers, keyboarding, and other adaptive equipment.
 
 ## Navigation
-Browsing within VA.gov from the disability page should bring the user to an unauthenticated landing page (https://va.gov/disability/view-disability-rating) which should answer some general questions about the tool as well as present the login button to gain access.
+If a Veteran searches or browses **VA.gov**, several links will connect to the **View your VA disabilty rating** landing page (https://va.gov/disability/view-disability-rating). If the Veteran is alreaduy logged-in, they can proceed to the **Your VA disability rating** page by clicking the blue **View your VA disability rating >** button. Veterans whao are not logged-in will see the same page, but with the green **Sign in or create an account** button. The **View your VA disabilty rating** landing page has information about some basic access questions. It also has a link to **Learn how VA disability ratings are assigned**, which can help explain the VA disability rating calculation. The usual navigations links are in the left sidebar.
+
+``` diff
+LOGGED-IN SCREENCAP GOES HERE
+```
+
+``` diff
+LOGGED_OUT SCREENCAP GOES HERE
+```
 
 After proper authentication, the Veteran is brought to the Rated Disabilities page.  
 
@@ -94,7 +102,7 @@ The Rated Disabilities tool page simply shows the total combined disability rati
 The Veteran also has the option of browsing into the Claim Status Tool in order to learn more about the status of individual claims (e.g., active, inactive or pending).
 
 ## Error Handling and Notifications  
-There are wrappers around each component that detect when data is successfully recieved and available. A loading spinner appears to indicate the page is loading relevent information for each component as well.  
+The combine VA disability rating and the individual ratings are separate components. A loading spinner will appear when the page is loading the Veteran's disability information.  
 
 In the event that the page does not see the data, a blue messaging window appears.  
 
