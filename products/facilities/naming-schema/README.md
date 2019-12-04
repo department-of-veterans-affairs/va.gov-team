@@ -23,32 +23,32 @@ This example schema below is for the VA Pittsburgh Healthcare System. It represe
 |          | CBOC                     | Washington County VA Clinic   | Washington County clinic         | https://www.pittsburgh.va.gov/locations/washington.asp      | https://www.va.gov/pittsburgh-health-care/locations/washington-county-va-clinic/ |
 |          | CBOC                     | Westmoreland County VA Clinic   | Westmoreland County clinic         | https://www.pittsburgh.va.gov/locations/westmoreland.asp      | https://www.va.gov/pittsburgh-health-care/locations/westmoreland-county-va-clinic/ |
 
------
-IN PROGRESS -- IGNORE!!
 
 ## VBA benefits facilities naming schema
 This example schema below is for the VA Pittsburgh Healthcare System. It represents a **VAMC facility network** (i.e., VAMC is parent facility, with health clinics as children facilities; customers get access to the entire network). It should apply to _most_ VAMC systems.
 
+> This schema is a work in progress!! It requires more research.
+
 |          | Facility type            |  Official facility name                         | New facility short name         | Old website URL                                                   | New website URL                                                    | 
 | -------- | ------------------------ | ----------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
 | _Source_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
 |          | Health care system       | VA Pittsburgh Healthcare System                 | VA Pittsburgh health care       | https://www.pittsburgh.va.gov/                                    | https://www.va.gov/pittsburgh-health-care/                         |
 |          | VAMC                     | Pittsburgh VA Medical Center-University Drive   | University Drive campus         | https://www.pittsburgh.va.gov/locations/university-drive.asp      | https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/ |
+
 
 ## VHA Vet Center facilities naming schema
-This example schema below is for the VA Pittsburgh Healthcare System. It represents a **VAMC facility network** (i.e., VAMC is parent facility, with health clinics as children facilities; customers get access to the entire network). It should apply to _most_ VAMC systems.
+This example schema below is for a Vet Center. It represents an **individual VHA facility** (i.e., not a network).
 
 |          | Facility type            |  Official facility name                         | New facility short name         | Old website URL                                                   | New website URL                                                    | 
 | -------- | ------------------------ | ----------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
 | _Source_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
-|          | Health care system       | VA Pittsburgh Healthcare System                 | VA Pittsburgh health care       | https://www.pittsburgh.va.gov/                                    | https://www.va.gov/pittsburgh-health-care/                         |
-|          | VAMC                     | Pittsburgh VA Medical Center-University Drive   | University Drive campus         | https://www.pittsburgh.va.gov/locations/university-drive.asp      | https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/ |
+|          | Vet Center               | Baltimore Vet Center                            | VA Baltimore Vet Center         | N/A                                                               | https://www.va.gov/va-baltimore-vet-center                         |
+
 
 ## NCA cemetery facilities naming schema
-This example schema below is for the VA Pittsburgh Healthcare System. It represents a **VAMC facility network** (i.e., VAMC is parent facility, with health clinics as children facilities; customers get access to the entire network). It should apply to _most_ VAMC systems.
+This example schema below is for a national cemetery. It represents an **individual NCA facility** (i.e., not a network).
 
 |          | Facility type            |  Official facility name                         | New facility short name         | Old website URL                                                   | New website URL                                                    | 
 | -------- | ------------------------ | ----------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
 | _Source_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
-|          | Health care system       | VA Pittsburgh Healthcare System                 | VA Pittsburgh health care       | https://www.pittsburgh.va.gov/                                    | https://www.va.gov/pittsburgh-health-care/                         |
-|          | VAMC                     | Pittsburgh VA Medical Center-University Drive   | University Drive campus         | https://www.pittsburgh.va.gov/locations/university-drive.asp      | https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/ |
+|          | National cemetery        | Riverside National Cemetery                     | VA Riverside National Cemetery  | https://www.cem.va.gov/cems/nchp/riverside.asp                    | https://www.va.gov/va-riverside-national-cemetery                  |
