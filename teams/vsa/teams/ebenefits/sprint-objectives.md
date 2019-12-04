@@ -29,8 +29,8 @@ _Note that we will not be turning off any functionality in EBN or doing any comm
 - Frontend: Implement "View Dependents" MVP function per existing mockups in staging
 - Eng: Define and document in GitHub the existing endpoints, begin plan for requesting BGS service updates  
 - Eng: Implement new Dependents' API endpoints for View Dependents  
-  - [Epic for **View Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393)  
-  - [Epic for **Update Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976)  
+  - [Epic for **View Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393)  
+  - [Epic for **Update Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976)  
 
 ### 3. Begin UX/UI Discovery on "View/Submit My Representative" (Power of Attorney (POA))
 - Design: Define and document in GitHub the current functions and workflows for the feature and business logic
