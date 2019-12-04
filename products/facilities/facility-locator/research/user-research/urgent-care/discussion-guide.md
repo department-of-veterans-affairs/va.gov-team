@@ -16,8 +16,8 @@ Before we start, a few things I want to mention:
 
 Tell us your name and a little about your service history. 
 
-Have you ever visted an in-network urgent care location? 
-[If yes] Would you be comfortable telling me how you found out about that location?
+Have you ever visted an urgent care location? 
+[If yes] Do you know if it was in-network or not? How did you find out about that location?
 
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
