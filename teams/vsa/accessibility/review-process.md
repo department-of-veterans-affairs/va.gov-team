@@ -16,6 +16,14 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
  ## Small Projects
  For small projects that are only a few days of work, there's no need to go through the whole review process. Instead, message the VSA accessibility specialist (Jennifer Strickland) in Slack to arrange a review.
  
+ ### Feature Workflow
+ 
+ #### Design & Research
+ Once design is ready, request an accessibility design check by messaging Jennifer. Together we'll discuss any concerns and next steps.
+ 
+ ### Front-end Development
+ Conduct manual and automated testing as documented in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md). Proceed to [Development Review](#development-review) Step 2. 
+ 
 ## Milestones
 *Will be updated to align with the forthcoming VSP Design Rules of Engagement*
 - Assigned to project
