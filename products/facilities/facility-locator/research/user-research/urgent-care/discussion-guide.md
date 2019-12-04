@@ -23,17 +23,20 @@ Have you ever visted an in-network urgent care location?
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
 ## Usability Test
-I'm going to ask you a few questions about the site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing.
+I'm going to ask you a few questions about this site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing. This is only a prototype, so not all links will be clickable.
 
-### Task 1
+### Scenario
+Let's imagine you are coming to the site because you have a medical sitation that requires you to visit an Urgent Care location. 
+
+### Task 1 - Find Urgent Care
+From this page, tell me what you would do first in order to find 
+(Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
+
+### Task 2 - Review PDF Alert
 
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 
-### Task 2 -
-
-(Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
-
-### Task 3 - 
+### Task 3 - Select Location
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
