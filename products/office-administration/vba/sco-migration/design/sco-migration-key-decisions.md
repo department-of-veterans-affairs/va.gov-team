@@ -123,7 +123,7 @@ We determined using the Related Links pattern that is found at the end of many h
 *	Potentially using an additional spoke on our hub page to house these additional resources.
 
 ### Deciding factor for our decision
-*	Related links pattern provided a concise and simple format for housing additional links
+*	Related Links pattern provided a concise and simple format for housing additional links
 *	The pattern integrates seamlessly with the other hub pages on VA.gov, as it is used on many of them.
 
 ### Deciders
