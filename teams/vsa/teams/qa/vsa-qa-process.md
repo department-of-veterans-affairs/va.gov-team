@@ -1,6 +1,6 @@
 # VSA-QA Process
 
-\[Based on [template process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/QA_Testing_Matrix_Template.xlsx) by VSP Product Support team Sr. QA Specialist Peter Hill]
+\[Based on [template process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/44fb872c0a945ca8ffa85c360d7e09956b979b3f/platform/quality-assurance/process.md) by VSP Product Support team Sr. QA Specialist Peter Hill]
 
 This VSA-QA Process is currently a subset of the base-process as defined by VSP Product Support.
 
