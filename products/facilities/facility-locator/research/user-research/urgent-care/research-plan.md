@@ -12,6 +12,7 @@ Our objective for this research is to learn the best way to provide location inf
 - What details do Veterans expect to see on urgent care facilities? 
 - Do Veterans understand how urgent care and community care work together? 
 - Should we prioritize Urgent Care on the Find VA Locations page?
+- Do Veterans know the difference between "retail" and "urgent" locations?
 
 #### Hypothesis: 
 
