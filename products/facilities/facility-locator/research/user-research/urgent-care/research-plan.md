@@ -5,7 +5,7 @@ This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Loc
 
 The Facility Locator is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA.
 
-Our objective for this research is to learn the best way to provide location information for Urgent Care facilities on the Find VA Locations page of VA.gov.
+Our objective for this research is to learn the best way to provide location information for Urgent Care facilities on the Find VA Locations page of VA.gov. Specifically, we want to learn about how Veterans view "retail" and "urgent" locations.
 
 #### Research questions:
 - How can we provide access to the Benefit PDF for Veterans? 
@@ -15,6 +15,7 @@ Our objective for this research is to learn the best way to provide location inf
 - Do Veterans know the difference between "retail" and "urgent" locations?
 
 #### Hypothesis: 
+Our hypothesis is that Veterans will be able to locate Urgent Care as a location type, but may have difficulty distinguishing between the subtypes: retail, urgent, and pharmacy. 
 
 ## Method
 Remote Moderated Usability Testing will help us gain feedback on the first iteration of the Urgent Care prototype. We will watch for pain points in the user flow and areas to improve the next iteration of the prototype.
