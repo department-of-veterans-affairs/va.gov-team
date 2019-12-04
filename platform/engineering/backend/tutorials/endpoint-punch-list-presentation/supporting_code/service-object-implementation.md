@@ -81,6 +81,15 @@ module EVSS
   end
 end
 ````
+## config/initializers/breakers.rb
+````ruby
+services = [
+...
+  EVSS::Configuration.instance.breakers_service,
+...
+ 
+]
+````
 
 ## vets-api/lib/evss/pciu/email_address_response.rb
 ````ruby
