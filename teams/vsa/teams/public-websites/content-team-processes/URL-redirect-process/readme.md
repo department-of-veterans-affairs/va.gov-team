@@ -47,6 +47,9 @@ _**Public Website contacts:**_ @nick (Front End Engineer) @Kara Kemahli (Product
 
 ### Originates from Web Content Team (from new rewriting parity work)
 
+![Redirects Process - Content team](https://user-images.githubusercontent.com/42546515/70183552-00b4e180-16b4-11ea-9bc6-ec04d78ad32e.jpg)
+
+
 **Step 1.** When a content parity/legacy rewrite page is published, the content writer will assign the original content ticket to **@mikki** and **@megan_kelly** to request a redirect. 
 
 Content person will include the following information in a note for Mikki: **[TBD Mikki’s template]**
