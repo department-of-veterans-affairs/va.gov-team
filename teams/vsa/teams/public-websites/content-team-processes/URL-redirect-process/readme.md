@@ -41,60 +41,47 @@ The below process applies to benefit hub legacy/parity content redirects. These 
 * Originates from Web Content Team (from new rewriting parity work)
 *	Originates from Mikki (from older redirect tickets)
 
-**Platform IA contacts:** @Mikki (Information Architect)@Megan Kelley (Product Manager)
+_**Platform IA contacts:**_ @Mikki (Information Architect)@Megan Kelley (Product Manager)
 
 _**Public Website contacts:**_ @nick (Front End Engineer) @Kara Kemahli (Product Manager) @Selina Cooper (Content & comms)
 
 ### Originates from Web Content Team (from new rewriting parity work)
 
-Step 1.
-When a content parity/legacy rewrite page is published, the content writer will assign the original content ticket to @mikki and @megan_kelly to request a redirect. 
+**Step 1.** When a content parity/legacy rewrite page is published, the content writer will assign the original content ticket to **@mikki** and **@megan_kelly** to request a redirect. 
 
-Content person will include the following information in a note for Mikki: [TBD Mikki’s template]
+Content person will include the following information in a note for Mikki: **[TBD Mikki’s template]**
 
 Legacy URL  |  Redirect to
 ---  |  ---
 insert legacy URL | insert new URL
 
-Desired implementation target date: [Allow at least 2 weeks when requesting Platform team. Also see note below.]
+* Desired implementation target date: **[Allow at least 2 weeks when requesting Platform team. Also see note below.]**
 
-Step 2. 
-Mikki will vet the URLs, and then assign @Kara @Nick and @Lunascoop.
+**Step 2.** Mikki will vet the URLs, and then assign @Kara @Nick and @Lunascoop.
 
-Step 3.
-Kara will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
+**Step 3.** Kara will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
 
-Step 4. 
-Selina will review ticket information and determine the stakeholder communication timeframe. She will let Kara and the FE engineer know when redirect should go live. 
+**Step 4.** Selina will review ticket information and determine the stakeholder communication timeframe. She will let Kara and the FE engineer know when redirect should go live. 
 
-Step 5.
-Assigned FE engineer will create a PR for the redirect and @ Selina FYSA. 
+**Step 5.** Assigned FE engineer will create a PR for the redirect and @Selina FYSA. 
 
-Selina will use the Website team’s template redirect comms email to notify the relevant (VHA, VBA, or NCA) stakeholder team about the upcoming redirects. (CC the original content writer and Jennifer Lee.) [See note below regarding ETA timeframe and communication.] 
+Selina will use the Website team’s template redirect comms email to notify the relevant (VHA, VBA, or NCA) stakeholder team about the upcoming redirects. (CC the original content writer and Jennifer Lee.) **[See note below regarding ETA timeframe and communication.]** 
 
-Step 6.
-FE engineer will let @Mikki and @Lunascoop know when redirect goes live via PR notification.
+**Step 6.** FE engineer will let @Mikki and @Lunascoop know when redirect goes live via PR notification.
 
-Step 7.
-Selina will validate that the redirect is working on the live site and send out a 2nd email to stakeholders that the redirects are complete.  (CC Jennifer Lee)
-
+**Step 7.** Selina will validate that the redirect is working on the live site and send out a 2nd email to stakeholders that the redirects are complete.  (CC Jennifer Lee)
 Selina will close the redirect ticket.
 
+**Step 8.** Mikki will note in a consolidated redirect spreadsheet that the redirect for the URLs are complete. The consolidated spreadsheet will include page names, new URL, legacy URL, date when redirect was implemented, and the benefit hub category.
 
-Step 8.
-Mikki will note in a consolidated redirect spreadsheet that the redirect for the URLs are complete. The consolidated spreadsheet will include page names, new URL, legacy URL, date when redirect was implemented, and the benefit hub category.
-
-
-
-
-B. Originates from Mikki (from older redirect tickets)
+### Originates from Mikki (from older redirect tickets)
 
 These redirect tickets originate with Mikki. After validating the URLs, she will assign the ticket to @kara, @nick, and @lunascoop. 
 
 All the steps are the same as above, minus step 1.
-H3 Note about the implementation target ETA and communication: 
+### Note about the implementation target ETA and communication: 
 Provide at least 7 business days’ advance notice. This is to allow stakeholders enough time to communicate out to their business SMEs, web admins, and managers. This is a courtesy notice, not a request for approval. 
 
-Note: If they request more time, we will review the situation and be flexible.  
+**Note:** If they request more time, we will review the situation and be flexible.  
 
-Example: If it has been several weeks or months since the parity content was migrated, and their legacy page now has new info that has gone out of sync with the benefit hub content, we will stop the redirect for that page and re-assess with the content team. 
+**Example:** If it has been several weeks or months since the parity content was migrated, and their legacy page now has new info that has gone out of sync with the benefit hub content, we will stop the redirect for that page and re-assess with the content team. 
