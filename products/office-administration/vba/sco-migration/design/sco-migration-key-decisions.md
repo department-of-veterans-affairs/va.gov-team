@@ -1,11 +1,11 @@
 # SCO Page Key Decisions
 
 ## In this document:
-* The use of the Hub Page pattern
-* The use of accordions within spokes
-* Inclusion of announcements at the top
-* Key Resources for SCOs
-* Resources to support students
+* [The use of the Hub Page pattern]()
+* [The use of accordions within spokes]()
+* [Inclusion of announcements at the top]()
+* [Key Resources for SCOs]()
+* [Resources to support students]()
 
 ## The use of the Hub Page pattern:
 
