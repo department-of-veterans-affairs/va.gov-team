@@ -1,4 +1,4 @@
-# Github Team Automated Access Management Product Outline
+# Atlantis Product Outline
 
 ## Points of Contact
 - GitHub Label: 
