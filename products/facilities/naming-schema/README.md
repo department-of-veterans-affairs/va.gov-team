@@ -5,7 +5,7 @@ How we are using official facility names, new customer-friendly short names, and
 
 **Why facility short names are important:**
 - They save space in product UIs (e.g., navigation, dropdowns, etc.), especially on mobile devices
-- They clarify what type of facility is (e.g., "VA Pittsburgh" -- is that referring to a VAMC, RO, Vet Center, or cemetery?)
+- They clarify what type of facility it is (e.g., "VA Pittsburgh" -- is that referring to a VAMC, RO, Vet Center, or cemetery?)
 - They are plain-language and often map to how customers refer to the facility (e.g., "I go to the VA University Drive hospital.")
 
 ## VHA health care facilities naming schema
