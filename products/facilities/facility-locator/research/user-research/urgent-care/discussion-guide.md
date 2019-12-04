@@ -28,9 +28,10 @@ I'm going to ask you a few questions about this site. While we look at the websi
 Let's imagine you are coming to the site because you need to visit an Urgent Care location. 
 
 ### Task 1 - Find Urgent Care
-From this page, tell me what you would do first in order to find urgent care for a sore throat. Remember to think aloud -- not everything on the page will be clickable. 
+Let's imagine that you are coming to the site because you need urgent care for a sore throat. From this page, tell me what you would do first in order to find urgent care. Remember to think aloud -- not everything on the page will be clickable. 
 
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
+[Ask to go back to the "first" page]
 
 Now let's imagine you are coming to the site because you have a wound and probably need stiches. From this page, tell me what you would do first in order to find urgent care to stitch your wound.
 
