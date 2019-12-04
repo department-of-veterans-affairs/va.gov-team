@@ -20,7 +20,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Complete final reviews required to launch (Call Center, Content/IA {mockups}, 508 {staging}, Security {staging})
 - Review the launch checklist and document any remaing gaps for launch procedures  
   - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
-  - _Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
+_Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
 
 ### 2. Development Initial Framework and API Connectivity for "View/Update Dependents" in Staging Environment
 - Design: Based on user feedback, adjust mockups
