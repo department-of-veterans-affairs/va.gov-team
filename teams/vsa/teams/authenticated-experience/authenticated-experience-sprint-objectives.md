@@ -96,7 +96,7 @@ We are keeping the add functionality (yay!) and keeping DD at 50% for now.
   - Bad Unit number
     - Finish design/copy [#3660](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3660)
     - Frontend implementation [#3891](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3891)
-  - QA
+  - QA - [#3948](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3948)
     - Fill out Tze's QA intake form
     - Have Tze complete the test plan
   - Error Matrix [#3892](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3892)
