@@ -9,7 +9,7 @@
 
 ## The use of the Hub Page pattern:
 
-#### Background and problem to solve
+### Background and problem to solve
 The VBA GI Bill School Resource Page was composed of three pages that existed on benefits.va.gov.  These pages provided necessary resource links and documents for School Certifying Officials (SCOs) and administrators to complete required training and certification.  The pages provided links to resources that schools can use as they support students. We were tasked with migrating those three pages of content to VA.gov into a single, centralized page of resources. VA.gov consists of Veteran facing-content, yet the content we were working with is intended for non-Veteran audiences. As some of the first content on VA.gov not intended for Veterans, it is considered Tier 2 content, and our work would set the tone for other future non-Veteran content. 
 
 ### Constraints
