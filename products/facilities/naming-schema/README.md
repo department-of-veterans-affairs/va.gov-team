@@ -13,7 +13,7 @@ This example schema below is for the VA Pittsburgh Healthcare System. It represe
 
 |          | Facility type            |  Official facility name                         | New facility short name         | Old website URL                | New website URL                                                    | 
 | -------- | ------------------------ | ----------------------------------------------- | ------------------------------- | ------------------------------ | ------------------------------------------------------------------ |
-| _Source_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
+| _**Source**_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
 |          | Health care system       | VA Pittsburgh Healthcare System                 | VA Pittsburgh health care       | https://www.pittsburgh.va.gov/                                    | https://www.va.gov/pittsburgh-health-care/                         |
 |          | VAMC                     | Pittsburgh VA Medical Center-University Drive   | University Drive campus         | https://www.pittsburgh.va.gov/locations/university-drive.asp      | https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/ |
 |          | VAMC                     | H. John Heinz III Department of Veterans Affairs Medical Center | H.J. Heinz III campus        | https://www.pittsburgh.va.gov/locations/HJ-heinz.asp      | https://www.va.gov/pittsburgh-health-care/locations/h-john-heinz-iii-department-of-veterans-affairs-medical-center/ |
@@ -31,9 +31,9 @@ This example schema below is for the VA Pittsburgh Healthcare System. It represe
 
 |          | Facility type            |  Official facility name                         | New facility short name         | Old website URL                                                   | New website URL                                                    | 
 | -------- | ------------------------ | ----------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
-| _Source_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
-|          | Health care system       | VA Pittsburgh Healthcare System                 | VA Pittsburgh health care       | https://www.pittsburgh.va.gov/                                    | https://www.va.gov/pittsburgh-health-care/                         |
-|          | VAMC                     | Pittsburgh VA Medical Center-University Drive   | University Drive campus         | https://www.pittsburgh.va.gov/locations/university-drive.asp      | https://www.va.gov/pittsburgh-health-care/locations/pittsburgh-va-medical-center-university-drive/ |
+| _**Source**_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
+|          | Benefits system       | Winston-Salem Regional Office                | VA Winston-Salem benefits       | https://www.benefits.va.gov/winstonsalem/                                    | https://www.va.gov/winston-salem-benefits                     |
+|          | RO                     | Winston-Salem Regional Benefit Office   | Winston-Salem Regional Office        | https://www.benefits.va.gov/winstonsalem/      | https://www.va.gov/winston-salem-benefits/locations/winston-salem-regional-office |
 
 
 ## VHA Vet Center facilities naming schema
@@ -41,7 +41,7 @@ This example schema below is for a Vet Center. It represents an **individual VHA
 
 |          | Facility type            |  Official facility name                         | New facility short name         | Old website URL                                                   | New website URL                                                    | 
 | -------- | ------------------------ | ----------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
-| _Source_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
+| _**Source**_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
 |          | Vet Center               | Baltimore Vet Center                            | VA Baltimore Vet Center         | N/A                                                               | https://www.va.gov/va-baltimore-vet-center                         |
 
 
@@ -50,5 +50,5 @@ This example schema below is for a national cemetery. It represents an **individ
 
 |          | Facility type            |  Official facility name                         | New facility short name         | Old website URL                                                   | New website URL                                                    | 
 | -------- | ------------------------ | ----------------------------------------------- | ------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------ |
-| _Source_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
+| _**Source**_ | _VAST_                   | _VAST_                                          | _Drupal_                        | _Facilities API_                                                  | _Facilities API_                                                   |
 |          | National cemetery        | Riverside National Cemetery                     | VA Riverside National Cemetery  | https://www.cem.va.gov/cems/nchp/riverside.asp                    | https://www.va.gov/va-riverside-national-cemetery                  |
