@@ -17,8 +17,7 @@ Before we start, a few things I want to mention:
 Tell us your name and a little about your service history. 
 
 Have you ever visted an in-network urgent care location? 
-[If yes] 
-[If no] 
+[If yes] Would you be comfortable telling me how you found out about that location?
 
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
@@ -29,17 +28,27 @@ I'm going to ask you a few questions about this site. While we look at the websi
 Let's imagine you are coming to the site because you have a medical sitation that requires you to visit an Urgent Care location. 
 
 ### Task 1 - Find Urgent Care
-From this page, tell me what you would do first in order to find 
+From this page, tell me what you would do first in order to find an urgent care location. Remember to think aloud -- not everything on the page will be clickable. 
+
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 
 ### Task 2 - Review PDF Alert
+Please provide feedback on the elements as they appear on the screen. Is there anything confusing?
+[If PDF alert shows] Provide feedback on this alert. Does the messaging make sense? What do you think the purpose of this alert is? What do you think could make this more clear?
 
+Please click the area of the screen that would allow you to select a location.
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 
 ### Task 3 - Select Location
+Let's imagine that you are ready to select a location and want to know the phone number. What would you do on this page to find a location? How would you go about finding information like address and phone number?
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
+- What would you say the difference is between a retail and an urgent location? 
+- Was it intuitive to filter the search in order to find an Urgent Care location?
+- What was your favorite part of the prototype?
+- What was your least favorite part?
+- If you had a magic wand, what would you change about this prototype?
 
 ## Closing - 5 min
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
