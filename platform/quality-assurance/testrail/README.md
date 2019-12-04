@@ -1,7 +1,7 @@
 # How to use TestRail
 ### Please note that you will need access to TestRail in order to use these tutorials.  Read through [Getting Started](getting-started.md) if you need help getting an account.
 
-## Table of Contents
+## Usage Guides
 1. [Getting Started](getting-started.md) - Get started using TestRail!
 1. [Creating a project](creating-a-project.md) - You'll need a project to work with.
 1. [Creating a test plan](creating-a-test-plan.md) - Plan for appropriate test coverage.
