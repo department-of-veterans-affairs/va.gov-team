@@ -13,11 +13,13 @@ Millions of Veterans depend upon the VA for disability-related medical devices a
 
 #### How Might We...
 - ...reduce the effort of re-ordering hearing aid batteries and prosthetic socks for Veterans?
-- ...increase usage of the online ordering method?
+- ...increase usage of the online resupply ordering?
 - ...ensure that Veterans do not go without the assistive devices and accessories they need?
 - ...utilize data we already have to improve benefit utilization?
 - ...increase visibility of orders after they are placed?
 - ...reduce strain on the DLC call center?
+- ...reduce the friction of authentication for these orders?
+- ...enable Veterans to solve order problems without making a phone call?
 
 ### What Sprint Teams Are Associated with this Discovery? 
 Benefits & Memorials 2
