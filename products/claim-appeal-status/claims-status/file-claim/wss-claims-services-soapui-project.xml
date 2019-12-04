@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project activeEnvironment="Default" name="wss-claims-services-test" resourceRoot="${projectDir}" soapui-version="5.2.1" abortOnError="false" runType="SEQUENTIAL" id="dbacadce-2879-4ba7-a908-230f38ff3d19" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.TestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="Environment" value="Default"/>
+  <con:entry key="Global Properties" value=""/>
+  <con:entry key="TestSuite" value="Wss-common-services REST Services"/>
+  <con:entry key="Password" value=""/>
+  <con:entry key="TestRunner Path" value=""/>
+  <con:entry key="Tool Args" value=""/>
+  <con:entry key="Ignore Errors" value="false"/>
+  <con:entry key="Host:Port" value=""/>
+  <con:entry key="user-settings.xml Password" value=""/>
+  <con:entry key="WSS Password Type" value=""/>
+  <con:entry key="Save Project" value="false"/>
+  <con:entry key="Enable UI" value="false"/>
+  <con:entry key="System Properties" value=""/>
+  <con:entry key="Domain" value=""/>
+  <con:entry key="Coverage Report" value="false"/>
+  <con:entry key="Export JUnit Results" value="false"/>
+  <con:entry key="Open Report" value="false"/>
+  <con:entry key="Project Properties" value=""/>
+  <con:entry key="Export All" value="false"/>
+  <con:entry key="Project Password" value=""/>
+  <con:entry key="Report Format(s)" value=""/>
+  <con:entry key="TestCase" value="AppealsService"/>
+  <con:entry key="Print Report" value="false"/>
+  <con:entry key="Username" value=""/>
+  <con:entry key="Root Folder" value=""/>
+  <con:entry key="Save After" value="false"/>
+  <con:entry key="Add Settings" value="false"/>
+  <con:entry key="Endpoint" value=""/>
+  <con:entry key="Select Report Type" value=""/>
+</xml-fragment>]]></con:setting></con:settings><con:interface xsi:type="con:RestService" wadlVersion="http://wadl.dev.java.net/2009/02" name="application" type="rest" basePath="" definitionUrl="wadl/application.wadl" id="5930beec-ed53-4853-a97e-675ae31ce157" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT"/><con:endpoints><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:endpoint>http://localhost:8080/wss-claims-services-web/rest</con:endpoint><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint></con:endpoints><con:resource name="/claimServicesExternalService" path="/claimServicesExternalService" id="d8723904-1a8e-4b31-9e76-a8ef0ba90e17"><con:settings/><con:parameters/><con:resource name="/createCompensationIntentToFile" path="/createCompensationIntentToFile" id="6f7e067c-4488-4b74-b7ed-372c4fcea5ec"><con:settings/><con:parameters/><con:method name="POST - createCompensationIntentToFile" method="POST" id="d9327c5c-b590-452a-95cf-cbb866aa9763"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="REQUEST"><con:mediaType>application/x-www-form-urlencoded</con:mediaType><con:params/></con:representation><con:request name="Request 1" mediaType="application/json" id="94679d1f-f4a0-4e95-ac87-051aef1e790b" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/listAllIntentToFile" path="/listAllIntentToFile" id="373894bd-288f-4726-9f81-8303f4a248c0"><con:settings/><con:parameters/><con:method name="POST - listAllIntentToFiles" method="POST" id="6a5cd977-17bd-44f2-b6ef-7e7d48dae217"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="5f26ae49-6fd7-48ed-8835-8b8ba70b76d7" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/readActiveCompensationIntentToFile" path="/readActiveCompensationIntentToFile" id="0d07a080-cc51-4ce4-ba09-88abaf1bb549"><con:settings/><con:parameters/><con:method name="POST - readActiveCompensationIntentToFile" method="POST" id="b5b7ba0c-dc71-4b36-ab29-593e63f6f7a2"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="b40a29f2-1132-4c3e-8400-edb15b69ea55" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:resource><con:resource name="/dbqService" path="/dbqService" id="5b654ac1-2df4-4a55-804d-f90aa059f9ec"><con:settings/><con:parameters/><con:resource name="/findDbqByBenefitClaimId" path="/findDbqByBenefitClaimId" id="b155b464-98c6-4df2-9616-45caa10eef9a"><con:settings/><con:parameters/><con:method name="POST - findDbqByBenefitClaimId" method="POST" id="21ef1edf-ec3d-4bee-b946-e4b579edc6d4"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="fd592e08-6521-4549-9db3-f2fe92dd0b16" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/findDbqByRatingId" path="/findDbqByRatingId" id="019a1e8a-ec3e-4dfe-a159-20a917a267db"><con:settings/><con:parameters/><con:method name="POST - findDbqByRatingId" method="POST" id="ffd35020-6b7d-4171-ac6a-fd9e4b096ae2"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="6604e613-efe3-46ea-b7a0-1afe567eb68f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:resource><con:resource name="/vbaClaimStatusService" path="/vbaClaimStatusService" id="f71cf03b-d08b-45df-9d34-277f2a53dfad"><con:settings/><con:parameters/><con:resource name="/getClaimsBySsn" path="/getClaimsBySsn" id="e5ca3c0a-982b-4295-9f34-9d5920b02f26"><con:settings/><con:parameters/><con:method name="GET - getClaimsBySsn" method="GET" id="adc29456-7c75-48d8-a0b9-66905324b1dc"><con:settings/><con:parameters/><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:request name="Request 1" mediaType="application/json" id="30839ad7-ef42-4be4-8bac-d710d043132f"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/><con:parameterOrder/></con:request></con:method></con:resource><con:resource name="/getClaimDetailById" path="/getClaimDetailById" id="06cf91c9-8e0c-4664-a452-98e90194f537"><con:settings/><con:parameters/><con:method name="POST - getClaimDetailById" method="POST" id="f95b24b7-2016-48f8-a3d7-9a4819d1d71e"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="029ad6aa-5221-4b8f-a046-7d900915c3f8" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/set5103Waiver" path="/set5103Waiver" id="bd17c79b-480b-4520-b289-7ed0f847c617"><con:settings/><con:parameters/><con:method name="POST - set5103Waiver" method="POST" id="72b7da95-9114-417f-ab9a-0731a982d772"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="498c6e0c-e549-413e-b1c9-5cf93891a9cd" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/getOpenClaimsBySsn" path="/getOpenClaimsBySsn" id="8caea5f9-20fd-48ec-9c95-4c25ae9b6a93"><con:settings/><con:parameters/><con:method name="GET - getOpenClaimsBySsn" method="GET" id="999aa955-e65c-4e22-adba-849c3952337d"><con:settings/><con:parameters/><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="093428c7-0c1e-4c0c-8fe5-7a4cc2699053"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-1.0/rest/vbaClaimStatusService/getOpenClaimsBySsn</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/getHistoricalClaimsBySsn" path="/getHistoricalClaimsBySsn" id="a86da3f0-d504-4ac7-ab90-60a024d56c58"><con:settings/><con:parameters/><con:method name="GET - getHistoricalClaimsBySsn" method="GET" id="0cf6ee71-52ba-4c51-a6ac-3a3f20057780"><con:settings/><con:parameters/><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="a327de6f-381e-46b7-b92c-e1f6e775070a"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/getClaims" path="getClaims" id="0d24c666-912a-4ea4-995c-21575e3784ef"><con:settings/><con:parameters/><con:method name="GET - getClaims" id="cfcbd1c0-eb41-467e-91b4-680084bba50e" method="GET"><con:settings/><con:parameters/><con:request name="Request 1" id="3964d6d4-3fbd-444f-8817-5c402c8fa208" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-1.0/rest/vbaClaimStatusService/getClaims</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:request></con:method></con:resource><con:resource name="/getHistoricalClaims" path="getHistoricalClaims" id="3b3e8357-f43d-4e15-b035-919369c1d83a"><con:settings/><con:parameters/><con:method name="GET - getHistoricalClaims" id="12192841-156c-4f8a-b64c-a8bf3959b113" method="GET"><con:settings/><con:parameters/><con:request name="Request 1" id="57a46f18-5f5f-4f02-a2d3-1d4dde6e2162" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-1.0/rest/vbaClaimStatusService/getHistoricalClaims</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:request></con:method></con:resource><con:resource name="/getOpenClaims" path="getOpenClaims" id="63697c33-820b-419a-a841-31ba07366fb1"><con:settings/><con:parameters/><con:method name="GET - getOpenClaims" id="e8d7dbe2-e935-4f83-9478-f4f2ca06a60b" method="GET"><con:settings/><con:parameters/><con:request name="Request 1" id="4ec05e35-4b3a-45c6-ba6d-fa393784efd1" mediaType="application/json"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-1.0/rest/vbaClaimStatusService/getOpenClaims</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:request></con:method></con:resource></con:resource><con:resource name="/trackedItemService" path="/trackedItemService" id="83542e66-8c7b-4dfa-a802-c60fb15b5da1"><con:settings/><con:parameters/><con:resource name="/getTrackedItemsByIDService" path="/getTrackedItemsByIDService" id="4549f18b-92d6-461a-a522-cab0f29acccc"><con:settings/><con:parameters/><con:method name="POST - getTrackedItemsByIDService" method="POST" id="70d4ae94-5e22-496c-83e2-d75d8e8f3bf7"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="913cb5f7-bc16-4afa-9f21-014b0ee80522" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/getUnsolicitedEvidenceByIDService" path="/getUnsolicitedEvidenceByIDService" id="e17ad640-0790-43ff-8b73-529f7cc6aeb5"><con:settings/><con:parameters/><con:method name="POST - getUnsolicitedEvidenceByIDService" method="POST" id="b9f80cc6-2648-4968-8a24-e3a5d29ab44e"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="REQUEST"><con:mediaType>application/x-www-form-urlencoded</con:mediaType><con:params/></con:representation><con:request name="Request 1" mediaType="application/json" id="0caf6f51-2bfe-4378-bef6-a6e7a290eb5a" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource></con:resource></con:interface><con:testSuite name="Wss-claims-services REST Services" id="eff7ad0b-d5ef-44d7-8aaf-fa6fa2297f00"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="7b2ecbaf-fe64-43ef-8a2b-d80a0cd864c2" failOnError="false" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="ClaimServicesService" searchProperties="true" timeout="0" wsrmEnabled="false" wsrmVersion="1.0" wsrmAckTo="" amfAuthorisation="false" amfEndpoint="" amfLogin="" amfPassword=""><con:settings/><con:testStep type="properties" name="user" id="5926cf5f-8719-4d0e-bf5b-33acd42861b4"><con:settings/><con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:properties><con:property><con:name>va_eauth_pnidtype</con:name><con:value>SSN</con:value></con:property><con:property><con:name>va_eauth_lastName</con:name><con:value>ANDERSON</con:value></con:property><con:property><con:name>va_eauth_authenticationauthority</con:name><con:value>eauth</con:value></con:property><con:property><con:name>va_eauth_issueinstant</con:name><con:value>2015-04-17T14:52:48Z</con:value></con:property><con:property><con:name>va_eauth_dodedipnid</con:name><con:value>1005079124</con:value></con:property><con:property><con:name>va_eauth_middleName</con:name><con:value>A</con:value></con:property><con:property><con:name>va_eauth_authenticationmethod</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>va_eauth_firstName</con:name><con:value>GREG</con:value></con:property><con:property><con:name>va_eauth_csid</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>iv-user</con:name><con:value>dslogoneauthuser</con:value></con:property><con:property><con:name>va_eauth_emailAddress</con:name><con:value>greg.anderson@va.gov</con:value></con:property><con:property><con:name>va_eauth_birthdate</con:name><con:value>1933-04-05T00:00:00-08:00</con:value></con:property><con:property><con:name>va_eauth_authorization</con:name><con:value>{"authorizationResponse":{"id":796121200,"idType":"SSN","edi":1005079124,"firstName":"GREG","middleName":"A","lastName":"ANDERSON","gender":"MALE","birthDate":"1933-04-05T00:00:00-08:00","deceased":false,"status":"SPONSOR","personnel":{"category":"RETIRED_MILITARY","entitlementCondition":"00","organization":21,"rank":"SSG","serviceBranchClassification":"A"},"benefit":21,"headOfFamily":""}}</con:value></con:property><con:property><con:name>va_eauth_csponly</con:name><con:value>true</con:value></con:property><con:property><con:name>va_eauth_assurancelevel</con:name><con:value>2</con:value></con:property><con:property><con:name>va_eauth_pid</con:name><con:value>600036159</con:value></con:property><con:property><con:name>ssn</con:name><con:value>796121200</con:value></con:property></con:properties></con:config></con:testStep><con:testStep type="properties" name="userPid" id="625608f1-f166-4438-978f-d7dfe6700a21"><con:settings/><con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:properties><con:property><con:name>va_eauth_pnidtype</con:name><con:value>pid</con:value></con:property><con:property><con:name>va_eauth_lastName</con:name><con:value>Doe</con:value></con:property><con:property><con:name>va_eauth_authenticationauthority</con:name><con:value>eauth</con:value></con:property><con:property><con:name>va_eauth_issueinstant</con:name><con:value>2015-04-17T14:52:48Z</con:value></con:property><con:property><con:name>va_eauth_dodedipnid</con:name><con:value>1105051936</con:value></con:property><con:property><con:name>va_eauth_middleName</con:name><con:value>A</con:value></con:property><con:property><con:name>va_eauth_authenticationmethod</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>va_eauth_firstName</con:name><con:value>Jane</con:value></con:property><con:property><con:name>va_eauth_csid</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>iv-user</con:name><con:value>dslogoneauthuser</con:value></con:property><con:property><con:name>va_eauth_emailAddress</con:name><con:value>jane.doe@va.gov</con:value></con:property><con:property><con:name>va_eauth_birthdate</con:name><con:value>1999-10-09T08:06:12-04:00</con:value></con:property><con:property><con:name>va_eauth_authorization</con:name><con:value>{"authorizationResponse":{"id":"123456789","idType":"pid","edi":"1105051936","firstName":"JANE","middleName":"A","lastName":"DOE","gender":"FEMALE","birthDate":939465704000,"status":"VETERAN"}}</con:value></con:property><con:property><con:name>va_eauth_assurancelevel</con:name><con:value>2</con:value></con:property><con:property><con:name>va_eauth_pid</con:name><con:value>123456789</con:value></con:property><con:property><con:name>va_eauth_csponly</con:name><con:value>true</con:value></con:property></con:properties></con:config></con:testStep><con:testStep type="restrequest" name="createCompensationIntentToFile - Unauthenticated" id="45b0c394-c2f5-41c0-97e6-0940f822110d"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/createCompensationIntentToFile" methodName="POST - createCompensationIntentToFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="createCompensationIntentToFile - Unauthenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="createCompensationIntentToFile - Happy Path" id="a29b5800-b2bc-4ab7-ac0a-8a5a25cbcf2c"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/createCompensationIntentToFile" methodName="POST - createCompensationIntentToFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="createCompensationIntentToFile - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/claimServicesExternalService/createCompensationIntentToFile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.intentToFile.associatedBenefitClaimId == 0
+assert json.intentToFile.corpParticpantId == 1
+assert json.intentToFile.expirationDate > 1
+assert json.intentToFile.intentToFileID == 1
+assert json.intentToFile.receivedDate > 1
+assert json.intentToFile.source.equals("VDC")
+assert json.intentToFile.status.equals("ACTIVE")
+assert json.intentToFile.type.equals("COMPENSATION")
+assert json.intentToFile.vetParticipantId == 0
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="createCompensationIntentToFile - Bad Media Type" id="c2578608-7faf-4480-90a0-349998a12fee"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/createCompensationIntentToFile" methodName="POST - createCompensationIntentToFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="createCompensationIntentToFile - Bad Media Type" mediaType="application/x-www-form-urlencoded" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="true"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+123456
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/claimServicesExternalService/createCompensationIntentToFile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>415</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="listAllIntentToFile - Unathenticated" id="be6c3fb0-4eee-4f2e-9bab-6c74323fad21"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/listAllIntentToFile" methodName="POST - listAllIntentToFiles" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="listAllIntentToFile - Unathenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="listAllIntentToFile - Happy Path" id="7aad6b20-08db-4abf-ba07-0a87b33b584d"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/listAllIntentToFile" methodName="POST - listAllIntentToFiles" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="listAllIntentToFile - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/claimServicesExternalService/listAllIntentToFile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.allIntentToFiles.size > 0
+for (x in 0..json.allIntentToFiles.size - 1) {
+	assert json.allIntentToFiles[x].associatedBenefitClaimId != null
+	assert json.allIntentToFiles[x].corpParticpantId != null
+	assert json.allIntentToFiles[x].expirationDate > 1
+	assert json.allIntentToFiles[x].intentToFileID != null
+	assert json.allIntentToFiles[x].receivedDate > 1
+	assert json.allIntentToFiles[x].source.equals("VDC")
+	assert json.allIntentToFiles[x].status != null
+	assert json.allIntentToFiles[x].type.equals("COMPENSATION")
+}
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="readActiveCompensationIntentToFile - Unauthenticated" id="c52a8cd8-412a-4496-9da9-acca82b86d16"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/readActiveCompensationIntentToFile" methodName="POST - readActiveCompensationIntentToFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="readActiveCompensationIntentToFile - Unauthenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="readActiveCompensationIntentToFile - Happy Path" id="b7243664-f8e6-4d96-ae80-3221f5cfc0e8"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/readActiveCompensationIntentToFile" methodName="POST - readActiveCompensationIntentToFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="readActiveCompensationIntentToFile - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/claimServicesExternalService/readActiveCompensationIntentToFile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.activeCompensationIntentToFile.associatedBenefitClaimId == 123
+assert json.activeCompensationIntentToFile.corpParticpantId == 1
+assert json.activeCompensationIntentToFile.expirationDate > 1
+assert json.activeCompensationIntentToFile.intentToFileID == 1
+assert json.activeCompensationIntentToFile.receivedDate > 1
+assert json.activeCompensationIntentToFile.source.equals("VDC")
+assert json.activeCompensationIntentToFile.status.equals("ACTIVE")
+assert json.activeCompensationIntentToFile.type.equals("COMPENSATION")
+assert json.activeCompensationIntentToFile.vetParticipantId == 0
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="readActiveCompensationIntentToFile - No Headers" id="fdc7c41f-d53a-42c6-9426-89854274d2c7"><con:settings/><con:config service="application" resourcePath="/claimServicesExternalService/readActiveCompensationIntentToFile" methodName="POST - readActiveCompensationIntentToFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="readActiveCompensationIntentToFile - No Headers" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/claimServicesExternalService/readActiveCompensationIntentToFile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaimDetailById - Unauthenticated" id="be6c7846-2e0e-448d-bbe8-dc8f4313f7ba"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getClaimDetailById" methodName="POST - getClaimDetailById" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaimDetailById - Unauthenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaimDetailById- Happy Path" id="ed9ba392-c802-42a7-ab53-ba0d7a69366f"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getClaimDetailById" methodName="POST - getClaimDetailById" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaimDetailById- Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+	"id" : "189625"
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getClaimDetailById</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="50135a35-1130-46d2-a14f-e9a8bc97f127" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.claim != null
+assert json.claim.appealPossible != null
+assert json.claim.attentionNeeded != null
+assert json.claim.baseEndProductCode != null
+assert json.claim.claimCompleteDate != null
+assert json.claim.claimConsolidatable != null
+
+assert json.claim.claimPhaseDates != null
+assert json.claim.claimPhaseDates.currentPhaseBack != null
+assert json.claim.claimPhaseDates.everPhaseBack != null
+assert json.claim.claimPhaseDates.latestPhaseType != null
+assert json.claim.claimPhaseDates.phase1CompleteDate != null
+assert json.claim.claimPhaseDates.phase2CompleteDate != null
+assert json.claim.claimPhaseDates.phase3CompleteDate != null
+assert json.claim.claimPhaseDates.phase4CompleteDate != null
+assert json.claim.claimPhaseDates.phase5CompleteDate != null
+assert json.claim.claimPhaseDates.phase6CompleteDate != null
+assert json.claim.claimPhaseDates.phase7CompleteDate != null
+assert json.claim.claimPhaseDates.phaseTypeChangeInd != null
+
+assert json.claim.claimTrackedItems != null
+assert json.claim.claimTrackedItems.receivedFromOthersList.size > 0
+
+
+
+for (x in 0..json.claim.claimTrackedItems.receivedFromOthersList.size - 1) {
+	assert json.claim.claimTrackedItems.receivedFromOthersList[x].description != null
+	assert json.claim.claimTrackedItems.receivedFromOthersList[x].displayedName != null
+	assert json.claim.claimTrackedItems.receivedFromOthersList[x].overdue != null
+	assert json.claim.claimTrackedItems.receivedFromOthersList[x].receivedDate != null
+	assert json.claim.claimTrackedItems.receivedFromOthersList[x].trackedItemId != null
+	assert json.claim.claimTrackedItems.receivedFromOthersList[x].trackedItemStatus != null
+	assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploaded != null
+
+
+	if (json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments != null) {
+		assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments.size > 0 
+		assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments.uploadsAllowed != null
+
+		for (y in 0..json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments.size - 1) {
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].claimId != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].documentId != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].documentName != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].documentType != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].intendedDevelopmentItemId != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].message != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].submitterAppTypeCode != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].submitterAppTypeName != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].submitterFirstName != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].submitterLastName != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].submitterParticipantId != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].trackedItemId != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].uploadedDate != null
+			assert json.claim.claimTrackedItems.receivedFromOthersList[x].uploadedDocuments[y].vbmsUuid != null
+		}		
+	}
+}
+
+assert json.claim.claimTrackedItems.stillNeedFromOthersList.size > 0
+
+for (x in 0..json.claim.claimTrackedItems.stillNeedFromOthersList.size - 1) {
+
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].description != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].displayedName != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].openedDate != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].overdue != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].suspenseDate != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].trackedItemId != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].trackedItemStatus != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploaded != null
+	assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadsAllowed != null
+
+	
+	if (json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments != null) {
+
+		for (y in 0..json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments.size - 1) {
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].claimId != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].documentId != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].documentName != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].documentType != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].intendedDevelopmentItemId != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].message != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].submitterAppTypeCode != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].submitterAppTypeName != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].submitterFirstName != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].submitterLastName != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].submitterParticipantId != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].trackedItemId != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].uploadedDate != null
+			assert json.claim.claimTrackedItems.stillNeedFromOthersList[x].uploadedDocuments[y].vbmsUuid != null                            
+		}
+	}                    
+}
+
+assert json.claim.claimTrackedItems.stillNeedFromYouList.size > 0
+
+
+for (x in 0..json.claim.claimTrackedItems.stillNeedFromYouList.size - 1) {
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].description != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].displayedName != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].openedDate != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].overdue != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].suspenseDate != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].trackedItemId != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].trackedItemStatus != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].uploaded != null
+	assert json.claim.claimTrackedItems.stillNeedFromYouList[x].uploadsAllowed != null
+
+}
+
+
+assert json.claim.consolidatedTrackedItemsList.size > 0
+
+for (x in 0..json.claim.consolidatedTrackedItemsList.size - 1) {
+
+	assert json.claim.consolidatedTrackedItemsList[x].description != null
+	assert json.claim.consolidatedTrackedItemsList[x].displayedName != null
+	assert json.claim.consolidatedTrackedItemsList[x].openedDate != null
+	assert json.claim.consolidatedTrackedItemsList[x].overdue != null
+	assert json.claim.consolidatedTrackedItemsList[x].suspenseDate != null
+	assert json.claim.consolidatedTrackedItemsList[x].trackedItemId != null
+	assert json.claim.consolidatedTrackedItemsList[x].trackedItemStatus != null
+	assert json.claim.consolidatedTrackedItemsList[x].uploaded != null
+	assert json.claim.consolidatedTrackedItemsList[x].uploadsAllowed != null
+
+	
+	if (json.claim.consolidatedTrackedItemsList[x].uploadedDocuments != null) {
+
+		for (y in 0..json.claim.consolidatedTrackedItemsList[x].uploadedDocuments.size - 1) {
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].claimId != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].documentId != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].documentName != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].documentType != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].intendedDevelopmentItemId != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].message != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].submitterAppTypeCode != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].submitterAppTypeName != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].submitterFirstName != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].submitterLastName != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].submitterParticipantId != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].trackedItemId != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].uploadedDate != null
+			assert json.claim.consolidatedTrackedItemsList[x].uploadedDocuments[y].vbmsUuid != null                            
+		}
+	}                    
+}
+
+assert json.claim.contentionList.size > 0
+
+assert json.claim.date != null
+assert json.claim.decisionNotificationSent != null
+assert json.claim.developmentLetterSent != null
+assert json.claim.endProductCode != null
+assert json.claim.id == "189625"
+assert json.claim.jurisdiction != null
+
+assert json.claim.mailingAddress != null
+assert json.claim.mailingAddress.addressLine1 != null
+assert json.claim.mailingAddress.addressLine2 != null
+assert json.claim.mailingAddress.addressLine3 != null
+assert json.claim.mailingAddress.city != null
+assert json.claim.mailingAddress.state != null
+assert json.claim.mailingAddress.zip != null
+
+assert json.claim.maxEstClaimDate != null
+assert json.claim.minEstClaimDate != null
+assert json.claim.newEvidenceReceived != null
+assert json.claim.pastEstClaimDate != null
+assert json.claim.pastEvidenceDueDate != null
+assert json.claim.pastPhaseEstDate != null
+assert json.claim.poa != null
+assert json.claim.programType != null
+assert json.claim.status != null
+assert json.claim.statusChanged != null
+assert json.claim.statusType != null
+assert json.claim.submitterApplicationCode != null
+assert json.claim.submitterRoleCode != null
+assert json.claim.tempJurisdiction != null
+
+//assert json.claim.vbaDocumentList != null
+if (json.claim.vbaDocumentList.size > 0) {
+for (x in 0..json.claim.vbaDocumentList.size - 1) {
+	assert json.claim.vbaDocumentList[x].documentId != null
+	assert json.claim.vbaDocumentList[x].documentSize != null
+	}
+}
+
+assert json.claim.waiver5103Submitted != null
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaimDetailById- Bad Accept Header" id="dcbf2842-7357-4b72-973f-d9a32a4193b7"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getClaimDetailById" methodName="POST - getClaimDetailById" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaimDetailById- Bad Accept Header" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="{&quot;authorizationResponse&quot;:{&quot;id&quot;:&quot;1105051936&quot;,&quot;idType&quot;:&quot;SSN&quot;,&quot;edi&quot;:&quot;1105051936&quot;,&quot;firstName&quot;:&quot;JANE&quot;,&quot;middleName&quot;:&quot;A&quot;,&quot;lastName&quot;:&quot;DOE&quot;,&quot;gender&quot;:&quot;FEMALE&quot;,&quot;birthDate&quot;:939465704000,&quot;status&quot;:&quot;VETERAN&quot;}}"/>
+  <con:entry key="Accept" value="application/xml"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+	"id" : "189625"
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getClaimDetailById</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>406</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="set5103Waiver - Unauthenticated" id="b3afc569-7e1f-47a7-86e0-a12946a8f035"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/set5103Waiver" methodName="POST - set5103Waiver" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="set5103Waiver - Unauthenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="set5103Waiver - Happy Path" id="fa48be3f-a7aa-46bf-9602-961ace30df5f"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/set5103Waiver" methodName="POST - set5103Waiver" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="set5103Waiver - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${userPid#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${userPid#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${userPid#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_pid" value="${userPid#va_eauth_pid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${userPid#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${userPid#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${userPid#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${userPid#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${userPid#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${userPid#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${userPid#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${userPid#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${userPid#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="{&quot;authorizationResponse&quot;:{&quot;id&quot;:&quot;123456789&quot;,&quot;idType&quot;:&quot;SSN&quot;,&quot;edi&quot;:&quot;1026070453&quot;,&quot;firstName&quot;:&quot;JANE&quot;,&quot;middleName&quot;:&quot;A&quot;,&quot;lastName&quot;:&quot;DOE&quot;,&quot;gender&quot;:&quot;FEMALE&quot;,&quot;birthDate&quot;:939465704000,&quot;status&quot;:&quot;VETERAN&quot;}}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${userPid#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+	"claimId" : "189625",
+	"systemName" : "EBM"
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/set5103Waiver</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="50135a35-1130-46d2-a14f-e9a8bc97f127" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.success == true</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="set5103Waiver - Bad Input" id="56e84ff8-6e57-4798-ae99-7aed84e804dc"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/set5103Waiver" methodName="POST - set5103Waiver" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="set5103Waiver - Bad Input" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+	"claimId1234" : "189625",
+	"systemName1234" : "EBM"
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/set5103Waiver</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>500</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaims - Unauthenticated" id="a7d9fb53-3bc7-4211-a4cc-fed2ffa2f23e"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getClaims" methodName="GET - getClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaims - Unauthenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaims - Happy Path" id="313e4e57-4ecf-44dd-9db3-60346a98f921"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getClaims" methodName="GET - getClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaims - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${userPid#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${userPid#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${userPid#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_pid" value="${userPid#va_eauth_pid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${userPid#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${userPid#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${userPid#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${userPid#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_firstName" value="${userPid#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_csid" value="${userPid#va_eauth_csid}"/>
+  <con:entry key="va_eauth_emailAddress" value="${userPid#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${userPid#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${userPid#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${userPid#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${userPid#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getClaimsBySsn</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+
+assert json.anyHistoricalClaimsConsolidatable != null
+
+assert json.historicalClaims.size > 0
+for (x in 0..json.historicalClaims.size - 1) {
+	assert json.historicalClaims[x].appealPossible != null
+	assert json.historicalClaims[x].attentionNeeded != null
+	assert json.historicalClaims[x].claimCompleteDate != null
+	assert json.historicalClaims[x].claimConsolidatable != null
+	assert json.historicalClaims[x].claimPhaseDates != null
+	assert json.historicalClaims[x].claimPhaseDates.currentPhaseBack != null
+	assert json.historicalClaims[x].claimPhaseDates.everPhaseBack != null
+	assert json.historicalClaims[x].claimPhaseDates.phaseChangeDate != null
+	assert json.historicalClaims[x].claimStatus != null
+	assert json.historicalClaims[x].closeDate != null
+	assert json.historicalClaims[x].date != null
+	assert json.historicalClaims[x].decisionNotificationSent != null
+	assert json.historicalClaims[x].developmentLetterSent != null
+	assert json.historicalClaims[x].earliestEvidenceDueDate != null
+	assert json.historicalClaims[x].id != null
+	assert json.historicalClaims[x].latestEvidenceRecdDate != null
+	assert json.historicalClaims[x].newEvidenceReceived != null
+	assert json.historicalClaims[x].pastEstClaimDate != null
+	assert json.historicalClaims[x].pastEvidenceDueDate != null
+	assert json.historicalClaims[x].pastPhaseEstDate != null
+	assert json.historicalClaims[x].pastEvidenceDueDate != null
+	assert json.historicalClaims[x].pastPhaseEstDate != null
+	assert json.historicalClaims[x].programType != null
+	assert json.historicalClaims[x].status != null
+	assert json.historicalClaims[x].statusChanged != null
+	assert json.historicalClaims[x].statusType != null
+	assert json.historicalClaims[x].waiver5103Submitted != null
+}
+
+
+assert json.openClaims.size > 0
+for (x in 0..json.openClaims.size - 1) {
+	assert json.openClaims[x].appealPossible != null
+	assert json.openClaims[x].attentionNeeded != null
+	assert json.openClaims[x].claimConsolidatable != null
+	assert json.openClaims[x].claimPhaseDates != null
+	assert json.openClaims[x].claimPhaseDates.currentPhaseBack != null
+	assert json.openClaims[x].claimPhaseDates.everPhaseBack != null
+	assert json.openClaims[x].claimPhaseDates.phaseChangeDate != null
+	assert json.openClaims[x].claimStatus != null
+	assert json.openClaims[x].date != null
+	assert json.openClaims[x].decisionNotificationSent != null
+	assert json.openClaims[x].developmentLetterSent != null
+	assert json.openClaims[x].id != null
+	assert json.openClaims[x].latestEvidenceRecdDate != null
+	assert json.openClaims[x].newEvidenceReceived != null
+	assert json.openClaims[x].pastEstClaimDate != null
+	assert json.openClaims[x].pastEvidenceDueDate != null
+	assert json.openClaims[x].pastPhaseEstDate != null
+	assert json.openClaims[x].pastEvidenceDueDate != null
+	assert json.openClaims[x].pastPhaseEstDate != null
+	assert json.openClaims[x].programType != null
+	assert json.openClaims[x].status != null
+	assert json.openClaims[x].statusChanged != null
+	assert json.openClaims[x].statusType != null
+	assert json.openClaims[x].waiver5103Submitted != null
+}
+
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters><con:parameterOrder/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaims - Using Bad SSN" id="f261bee6-db57-4f85-8c45-9491d76cfeaf"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getClaims" methodName="GET - getClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaims - Using Bad SSN" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${userPid#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${userPid#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${userPid#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_pid" value="4888888"/>
+  <con:entry key="va_eauth_issueinstant" value="${userPid#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="22222"/>
+  <con:entry key="va_eauth_middleName" value="${userPid#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${userPid#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${userPid#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${userPid#va_eauth_firstName}"/>
+  <con:entry key="iv-user" value="${userPid#iv-user}"/>
+  <con:entry key="va_eauth_emailAddress" value="${userPid#va_eauth_emailAddress}"/>
+  <con:entry key="va_eauth_birthdate" value="${userPid#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="{&quot;authorizationResponse&quot;:{&quot;id&quot;:&quot;4888888&quot;,&quot;idType&quot;:&quot;pid&quot;,&quot;edi&quot;:&quot;22222&quot;,&quot;firstName&quot;:&quot;JANE&quot;,&quot;middleName&quot;:&quot;A&quot;,&quot;lastName&quot;:&quot;DOE&quot;,&quot;gender&quot;:&quot;FEMALE&quot;,&quot;birthDate&quot;:939465704000,&quot;status&quot;:&quot;VETERAN&quot;}}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${userPid#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getClaimsBySsn</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>500</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters><con:parameterOrder/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getHistoricalClaims - Unauthenticated" id="a22e57a2-8065-4cf5-ad8f-dd5474b22671"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getHistoricalClaims" methodName="GET - getHistoricalClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getHistoricalClaims - Unauthenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getHistoricalClaims - Happy Path" id="b7192342-7170-4eaa-ba5a-04a43dad1ff2"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getHistoricalClaims" methodName="GET - getHistoricalClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getHistoricalClaims - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${userPid#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${userPid#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${userPid#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_pid" value="123456786"/>
+  <con:entry key="va_eauth_issueinstant" value="${userPid#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${userPid#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${userPid#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${userPid#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${userPid#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${userPid#va_eauth_firstName}"/>
+  <con:entry key="iv-user" value="${userPid#iv-user}"/>
+  <con:entry key="va_eauth_emailAddress" value="${userPid#va_eauth_emailAddress}"/>
+  <con:entry key="va_eauth_birthdate" value="${userPid#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${userPid#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${userPid#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">false</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getHistoricalClaimsBySsn</con:originalUri><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.anyHistoricalClaimsConsolidatable != null
+
+assert json.historicalClaims.size > 0
+for (x in 0..json.historicalClaims.size - 1) {
+	assert json.historicalClaims[x].appealPossible != null
+	assert json.historicalClaims[x].attentionNeeded != null
+	assert json.historicalClaims[x].claimCompleteDate != null
+	assert json.historicalClaims[x].claimConsolidatable != null
+	assert json.historicalClaims[x].claimPhaseDates != null
+	assert json.historicalClaims[x].claimStatus != null
+	assert json.historicalClaims[x].closeDate != null
+	assert json.historicalClaims[x].date != null
+	assert json.historicalClaims[x].decisionNotificationSent != null
+	assert json.historicalClaims[x].developmentLetterSent != null
+	
+	assert json.historicalClaims[x].id != null
+	assert json.historicalClaims[x].latestEvidenceRecdDate != null
+	assert json.historicalClaims[x].newEvidenceReceived != null
+	assert json.historicalClaims[x].pastEstClaimDate != null
+	assert json.historicalClaims[x].pastEvidenceDueDate != null
+	assert json.historicalClaims[x].pastPhaseEstDate != null
+	assert json.historicalClaims[x].pastEvidenceDueDate != null
+	assert json.historicalClaims[x].pastPhaseEstDate != null
+	assert json.historicalClaims[x].programType != null
+	assert json.historicalClaims[x].status != null
+	assert json.historicalClaims[x].statusChanged != null
+	assert json.historicalClaims[x].waiver5103Submitted != null
+}
+</scriptText></con:configuration></con:assertion><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getHistoricalClaims - Missing va_eauth_authorization header" id="26f944c5-fb1d-4222-8c68-00e94820f6be"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getHistoricalClaims" methodName="GET - getHistoricalClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getHistoricalClaims - Missing va_eauth_authorization header" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${userPid#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${userPid#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${userPid#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_pid" value="${userPid#va_eauth_pid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${userPid#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${userPid#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${userPid#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${userPid#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${userPid#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${userPid#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${userPid#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${userPid#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${userPid#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${userPid#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">false</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getHistoricalClaimsBySsn</con:originalUri><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>//import groovy.json.JsonSlurper 
+//def response = messageExchange.response.responseContent
+//def slurper = new JsonSlurper()
+//def json = slurper.parseText response
+//
+//assert json.anyHistoricalClaimsConsolidatable != null
+//
+//assert json.historicalClaims.size > 0
+//for (x in 0..json.historicalClaims.size - 1) {
+//	assert json.historicalClaims[x].appealPossible != null
+//	assert json.historicalClaims[x].attentionNeeded != null
+//	assert json.historicalClaims[x].baseEndProductCode != null
+//	assert json.historicalClaims[x].claimCompleteDate != null
+//	assert json.historicalClaims[x].claimConsolidatable != null
+//	assert json.historicalClaims[x].claimPhaseDates != null
+//	assert json.historicalClaims[x].claimStatus != null
+//	assert json.historicalClaims[x].closeDate != null
+//	assert json.historicalClaims[x].date != null
+//	assert json.historicalClaims[x].decisionNotificationSent != null
+//	assert json.historicalClaims[x].developmentLetterSent != null
+//	assert json.historicalClaims[x].endProductCode != null
+//	
+//	assert json.historicalClaims[x].id != null
+//	assert json.historicalClaims[x].latestEvidenceRecdDate != null
+//	assert json.historicalClaims[x].newEvidenceReceived != null
+//	assert json.historicalClaims[x].pastEstClaimDate != null
+//	assert json.historicalClaims[x].pastEvidenceDueDate != null
+//	assert json.historicalClaims[x].pastPhaseEstDate != null
+//	assert json.historicalClaims[x].pastEvidenceDueDate != null
+//	assert json.historicalClaims[x].pastPhaseEstDate != null
+//	assert json.historicalClaims[x].programType != null
+//	assert json.historicalClaims[x].status != null
+//	assert json.historicalClaims[x].statusChanged != null
+//	assert json.historicalClaims[x].waiver5103Submitted != null
+//}
+</scriptText></con:configuration></con:assertion><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getOpenClaims - Unauthenticated" id="def7c3ed-dd39-4b85-9559-a492f94ef2f4"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getOpenClaims" methodName="GET - getOpenClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getOpenClaims - Unauthenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getOpenClaims - Happy Path" id="ae01fdf0-0da3-4a7e-93f0-0571f287d6f6"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getOpenClaims" methodName="GET - getOpenClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getOpenClaims - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${userPid#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${userPid#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${userPid#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_pid" value="123456789"/>
+  <con:entry key="va_eauth_issueinstant" value="${userPid#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${userPid#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${userPid#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${userPid#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_csid" value="${userPid#va_eauth_csid}"/>
+  <con:entry key="va_eauth_firstName" value="${userPid#va_eauth_firstName}"/>
+  <con:entry key="iv-user" value="${userPid#iv-user}"/>
+  <con:entry key="va_eauth_emailAddress" value="${userPid#va_eauth_emailAddress}"/>
+  <con:entry key="va_eauth_birthdate" value="${userPid#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${userPid#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${userPid#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">false</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getOpenClaimsBySsn</con:originalUri><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+if (json.historicalClaims != null) {
+	assert json.historicalClaims.size > 0
+	for (x in 0..json.historicalClaims.size - 1) {
+		assert json.historicalClaims[x].appealPossible != null
+		assert json.historicalClaims[x].attentionNeeded != null
+		assert json.historicalClaims[x].claimCompleteDate != null
+		assert json.historicalClaims[x].claimConsolidatable != null
+		assert json.historicalClaims[x].claimPhaseDates != null
+		assert json.historicalClaims[x].claimPhaseDates.currentPhaseBack != null
+		assert json.historicalClaims[x].claimPhaseDates.everPhaseBack != null
+		assert json.historicalClaims[x].claimPhaseDates.phaseChangeDate != null
+		assert json.historicalClaims[x].claimStatus != null
+		assert json.historicalClaims[x].closeDate != null
+		assert json.historicalClaims[x].date != null
+		assert json.historicalClaims[x].decisionNotificationSent != null
+		assert json.historicalClaims[x].developmentLetterSent != null
+		assert json.historicalClaims[x].earliestEvidenceDueDate != null
+		assert json.historicalClaims[x].id != null
+		assert json.historicalClaims[x].latestEvidenceRecdDate != null
+		assert json.historicalClaims[x].newEvidenceReceived != null
+		assert json.historicalClaims[x].pastEstClaimDate != null
+		assert json.historicalClaims[x].pastEvidenceDueDate != null
+		assert json.historicalClaims[x].pastPhaseEstDate != null
+		assert json.historicalClaims[x].pastEvidenceDueDate != null
+		assert json.historicalClaims[x].pastPhaseEstDate != null
+		assert json.historicalClaims[x].programType != null
+		assert json.historicalClaims[x].status != null
+		assert json.historicalClaims[x].statusChanged != null
+		assert json.historicalClaims[x].statusType != null
+		assert json.historicalClaims[x].waiver5103Submitted != null
+	}
+
+}
+
+
+assert json.openClaims.size > 0
+for (x in 0..json.openClaims.size - 1) {
+	assert json.openClaims[x].appealPossible != null
+	assert json.openClaims[x].attentionNeeded != null
+	assert json.openClaims[x].claimConsolidatable != null
+	assert json.openClaims[x].claimPhaseDates != null
+	assert json.openClaims[x].claimPhaseDates.currentPhaseBack != null
+	assert json.openClaims[x].claimPhaseDates.everPhaseBack != null
+	assert json.openClaims[x].claimPhaseDates.phaseChangeDate != null
+	assert json.openClaims[x].claimStatus != null
+	assert json.openClaims[x].date != null
+	assert json.openClaims[x].decisionNotificationSent != null
+	assert json.openClaims[x].developmentLetterSent != null
+	assert json.openClaims[x].id != null
+	assert json.openClaims[x].latestEvidenceRecdDate != null
+	assert json.openClaims[x].newEvidenceReceived != null
+	assert json.openClaims[x].pastEstClaimDate != null
+	assert json.openClaims[x].pastEvidenceDueDate != null
+	assert json.openClaims[x].pastPhaseEstDate != null
+	assert json.openClaims[x].pastEvidenceDueDate != null
+	assert json.openClaims[x].pastPhaseEstDate != null
+	assert json.openClaims[x].programType != null
+	assert json.openClaims[x].status != null
+	assert json.openClaims[x].statusChanged != null
+	assert json.openClaims[x].statusType != null
+	assert json.openClaims[x].waiver5103Submitted != null
+}
+
+
+</scriptText></con:configuration></con:assertion><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>NTLM</con:addedBasicAuthenticationTypes><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getOpenClaims - PIV header with DSLogon data (Bad)" id="e7e7d8f6-3e73-4b21-9198-ebc52702305c"><con:settings/><con:config service="application" resourcePath="/vbaClaimStatusService/getOpenClaims" methodName="GET - getOpenClaims" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getOpenClaims - PIV header with DSLogon data (Bad)" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_middleName" value="${user#va_eauth_middleName}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="piv"/>
+  <con:entry key="va_eauth_csid" value="piv"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_emailAddress" value="${user#va_eauth_emailAddress}"/>
+  <con:entry key="iv-user" value="${user#iv-user}"/>
+  <con:entry key="va_eauth_birthdate" value="${user#va_eauth_birthdate}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting><con:setting id="RecordRequestRepresentations">false</con:setting></con:settings><con:endpoint>http://vaebnapp7.aac.va.gov:8001/wss-claims-services-web-${#Project#version}/rest</con:endpoint><con:request> {
+
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-claims-services-web-2.1/rest/vbaClaimStatusService/getOpenClaimsBySsn</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>500</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters>
+  <con:entry key="lastName" value="Test"/>
+  <con:entry key="dob" value="1"/>
+  <con:entry key="userId" value="1"/>
+  <con:entry key="ssn" value="123456789"/>
+  <con:entry key="ipAddress" value="123.4.45.56"/>
+</con:parameters></con:restRequest></con:config></con:testStep><con:properties/><con:reportParameters/><con:breakPoints><con:testStepId>45b0c394-c2f5-41c0-97e6-0940f822110d</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>a29b5800-b2bc-4ab7-ac0a-8a5a25cbcf2c</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>c2578608-7faf-4480-90a0-349998a12fee</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>be6c3fb0-4eee-4f2e-9bab-6c74323fad21</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>7aad6b20-08db-4abf-ba07-0a87b33b584d</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>c52a8cd8-412a-4496-9da9-acca82b86d16</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>b7243664-f8e6-4d96-ae80-3221f5cfc0e8</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>fdc7c41f-d53a-42c6-9426-89854274d2c7</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>be6c7846-2e0e-448d-bbe8-dc8f4313f7ba</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>ed9ba392-c802-42a7-ab53-ba0d7a69366f</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>dcbf2842-7357-4b72-973f-d9a32a4193b7</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>b3afc569-7e1f-47a7-86e0-a12946a8f035</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>fa48be3f-a7aa-46bf-9602-961ace30df5f</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>56e84ff8-6e57-4798-ae99-7aed84e804dc</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>a7d9fb53-3bc7-4211-a4cc-fed2ffa2f23e</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>313e4e57-4ecf-44dd-9db3-60346a98f921</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>f261bee6-db57-4f85-8c45-9491d76cfeaf</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>a22e57a2-8065-4cf5-ad8f-dd5474b22671</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>b7192342-7170-4eaa-ba5a-04a43dad1ff2</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>26f944c5-fb1d-4222-8c68-00e94820f6be</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>def7c3ed-dd39-4b85-9559-a492f94ef2f4</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints></con:testCase><con:properties/><con:reportParameters/></con:testSuite><con:endpointStrategy xsi:type="con:DefaultEndpointStrategy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:endpoint mode="OVERRIDE">http://csraciapp6.evss.srarad.com:7003/wss-claims-services-web-${#Project#version}/rest</con:endpoint></con:endpointStrategy><con:requirements/><con:properties><con:property><con:name>version</con:name><con:value>2.0</con:value></con:property></con:properties><con:wssContainer/><con:databaseConnectionContainer/><con:oAuth2ProfileContainer/><con:reporting><con:xmlTemplates/><con:parameters/></con:reporting><con:sensitiveInformation/><con:authRepository/></con:soapui-project>
