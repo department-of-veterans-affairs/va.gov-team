@@ -93,8 +93,7 @@ From the stairs at the entrance of a building to the two-handed design of a vide
 
 Source: [Medium post](https://medium.com/aiga-eye-on-design/what-were-leaving-out-of-the-discussion-around-inclusive-design-d058f44f88e1)
 
-“Now we look at a small sheet of glass on a sunny day, we juggle our phones one-handed, we’re distracted or in a rush. We are, quite literally, temporarily vision, motor, hearing, and cognitively impaired on a daily basis.” 
-- Robin Christopherson, head of digital inclusion at UK tech charity AbilityNet.
+“Now we look at a small sheet of glass on a sunny day, we juggle our phones one-handed, we’re distracted or in a rush. We are, quite literally, temporarily vision, motor, hearing, and cognitively impaired on a daily basis.” (Robin Christopherson, head of digital inclusion at UK tech charity AbilityNet)
 
 Robin pointed out that without accessibility at the very heart of everything you do, you will be producing websites and apps that leave not only disabled shoppers, but almost every one of your customers, frustrated and keen to take their money elsewhere.
 
@@ -457,8 +456,9 @@ If designers focus only on meeting the minimum requirements of a limited standar
 
 Evaluate early and throughout the design phase. Evaluating early design prototypes helps you validate design aspects that work well, and find potential accessibility barriers while it is still relatively easy and inexpensive to fix them.
 
-<blockquote><strong>&ldquo;I don’t know&rdquo; is an acceptable answer.</strong>
-Continuous improvement is a tenet of Scrum and Agile.
+<blockquote><strong>&ldquo;I don’t know&rdquo; is an acceptable answer.</strong><br/>
+Continuous improvement is a tenet of Scrum and Agile.<br/>
 Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
-We’re here to support one another, so it&rsquo;s okay to not know!
-Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA). </blockquote>
+We’re here to support one another, so it&rsquo;s okay to not know! </blockquote>
+Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA). 
+
