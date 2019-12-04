@@ -33,6 +33,10 @@ Via an email on 10.30.19:
 
 David provided a screenshot that showed how the paper check/direct deposit info is coupled in the Share system, but I'm omitting that since Idk if that screenshot is sensitive information. However, I feel that is sufficient evidence regional office employees are able/supposed to update paper check/direct deposit info at the same time when someone is switching back and forth. That being said, I can't speak to whether this system ever fails or if there is ever user error on the part of the regional office where someone updates info for paper checks without canceling direct deposit (or vice versa), but I think we can confidently say that these things are/should be happening at the same time, and if they are not, this is user error on the VA's part and there is probably nothing we can do from a VA.gov perspective to prevent this/reflect this in the UI.
 
+## Additional info Nov. 2019 
+
+We have confirmed that you CAN switch from paper checks to direct deposit via eBenefits, and we have incorporated this functionality into VA.gov. Like eBenefits, we are using whether someone has a payment address or not as the metric of whether someone is eligile to receive compensation. If someone has a payment address but no payment info, they will see the option to add direct deposit bank info in their profile.
+
 ## What we should communicate on VA.gov
 
 We should add the following content to [this page](https://www.va.gov/change-direct-deposit-and-contact-information/):
@@ -45,6 +49,8 @@ We should add the following content to [this page](https://www.va.gov/change-dir
 
 **To cancel paper checks and opt in to direct deposit**
 
-- Someone has to [fill out VA form 24-0296](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-24-0296-ARE.pdf) and mail it to their regional/intake office. 
-- Or someone can call the national call center and they can process this request (1-800-827-1000).
-- Or someone can go in person to their regional office to get this switched. 
+Someone can do this online via the VA.gov profile. OR they can:
+
+- [Fill out VA form 24-0296](https://vbaw.vba.va.gov/bl/20/cio/20s5/forms/VBA-24-0296-ARE.pdf) and mail it to their regional/intake office. 
+- Call the national call center and they can process this request (1-800-827-1000).
+- Go in person to their regional office to get this switched. 
