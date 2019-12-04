@@ -68,7 +68,6 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](http
     - [1] A stakeholder noted that inability or unwillingness to use DS Logon is the reason the eBenefits avenue is underutilized. 
 
 #### What don't we know?
-  - Who are the 
   - What are the pain points Veterans are experiencing in this process?
   - What are the pain points Customer Service Representatives are experiencing in this process?
   - Why do Veterans opt for the ordering method that they do?
