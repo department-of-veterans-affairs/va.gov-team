@@ -3,7 +3,7 @@
 ## In this document:
 * [The use of the Hub Page pattern](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/sco-migration-key-decisions.md#the-use-of-the-hub-page-pattern)
 * [The use of accordions within spokes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/sco-migration-key-decisions.md#the-use-of-accordions-within-spokes)
-* [Inclusion of announcements at the top]()
+* [Inclusion of announcements at the top](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/sco-migration-key-decisions.md#inclusion-of-announcements-at-the-top)
 * [Key Resources for SCOs]()
 * [Resources to support students]()
 
