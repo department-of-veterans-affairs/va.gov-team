@@ -25,7 +25,7 @@ This example schema below is for the VA Pittsburgh Healthcare System. It represe
 
 
 ## VBA benefits facilities naming schema
-This example schema below is for the VA Pittsburgh Healthcare System. It represents a **VAMC facility network** (i.e., VAMC is parent facility, with health clinics as children facilities; customers get access to the entire network). It should apply to _most_ VAMC systems.
+This example schema below is for the VA Pittsburgh Healthcare System. It represents an **RO facility network** (i.e., RO is parent facility, with intake centers, campus offies, and other VBA facilities as children facilities; customers get access to the entire network). It should apply to _all_ RO systems.
 
 > This schema is a work in progress!! It requires more research.
 
