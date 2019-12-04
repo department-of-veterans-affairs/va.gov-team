@@ -1,5 +1,5 @@
 # VA Facilities Naming Schema
-How we are using official facility names, new customer-friendly names, and new URLs across our digital product ecosystem
+How we are using official facility names, new customer-friendly short names, and new URLs across our digital product ecosystem
 
 > Pay attention to title case vs. sentence case--it's intentional!
 
