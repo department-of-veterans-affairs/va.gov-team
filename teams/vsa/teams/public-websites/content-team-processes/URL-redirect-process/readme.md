@@ -41,16 +41,9 @@ The below process applies to benefit hub legacy/parity content redirects. These 
 * Originates from Web Content Team (from new rewriting parity work)
 *	Originates from Mikki (from older redirect tickets)
 
-Platform IA contacts:
-@Mikki IA
-@Megan Kelley PM
+**Platform IA contacts:** @Mikki (Information Architect)@Megan Kelley (Product Manager)
 
-Public Website contacts:
-@nick FE engineer
-@Kara Kemahli PM
-@Selina Cooper Content & comms
-
-
+_**Public Website contacts:**_ @nick (Front End Engineer) @Kara Kemahli (Product Manager) @Selina Cooper (Content & comms)
 
 ### Originates from Web Content Team (from new rewriting parity work)
 
