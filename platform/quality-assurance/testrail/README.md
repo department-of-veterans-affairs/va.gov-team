@@ -1,6 +1,5 @@
 # How to use TestRail
-
-### This folder contains materials related to the use of TestRails on the VSP.
+### Please note that you will need access to TestRail in order to use these tutorials.  Read through [Getting Started](getting-started.md) if you need help getting an account.
 
 ## Table of Contents
 1. [Getting Started](getting-started.md) - Get started using TestRail!
