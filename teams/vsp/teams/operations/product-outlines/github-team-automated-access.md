@@ -143,7 +143,3 @@ VSP Operations team is using and testing the GH team model.
 - Access Management
 - Automated Access Management 
 
-
-Other Member that contribute to our Team's mission
-- DevOps Engineer - William Ryan
-- DevOps Engineer - Glen Stevenson
