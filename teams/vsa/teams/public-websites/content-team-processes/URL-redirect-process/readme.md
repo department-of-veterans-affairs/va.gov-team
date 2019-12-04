@@ -1,0 +1,107 @@
+# Client-side and service-side redirects are implemented by the Website team
+
+If you’re making a request for a page redirect, first contact Platform team, per this process: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md 
+
+These steps document how redirects will be implemented by the Public Website Team **after a redirect request has been vetted by Platform.** 
+
+_**Platform IA contacts:**_
+@Mikki (Information Architect)
+@Megan Kelley (Product Manager)
+
+
+## Redirects for other VSA teams (client- or server-side)
+
+_**Public Website contacts:**_
+@nick (Front End Engineer)
+@Kara Kemahli (Product Manager)
+
+**Step 1.** Mikki/Platform triages initial request, and assigns @nick @kara on the Website team. Please clearly list in the website team request the following: **[TBD Mikki’s template]**
+
+ Legacy URL  |  Redirect to
+ ---  |  ---
+ insert legacy URL | insert new URL
+
+* Type of redirect: [client/server-side]
+* Desired target date: mm/dd
+* Requestor POC: [Example: Jane Doe at BAH]
+
+**Step 2.** Nick and Kara will size the request, put it on the Website team’s backlog, and assign accordingly. 
+If it’s an urgent redirect request, and we can’t meet the requested target date for implementation, Kara or Nick will let the requestor and Mikki know. 
+
+**Step 3.** Assigned FE engineer will create a PR for the redirect and let the requestor know when it’s ready to merge. 
+
+**Step 4.** Assigned FE engineer will let requestor and Mikki know when redirect goes live via PR notification, and close the ticket once live. [@nick – does this sound legit?]
+*	_**RE SME and stakeholder communication:**_ The original requestor (e.g., BAH team contact) is responsible for communicating with their stakeholder teams. 
+
+
+## Client-side redirects for benefit hub legacy/parity content 
+
+The below process applies to benefit hub legacy/parity content redirects. These redirects are managed client-side by the Public Website team. There are 2 types/scenarios for benefit hub legacy/parity redirects:
+
+* Originates from Web Content Team (from new rewriting parity work)
+*	Originates from Mikki (from older redirect tickets)
+
+Platform IA contacts:
+@Mikki IA
+@Megan Kelley PM
+
+Public Website contacts:
+@nick FE engineer
+@Kara Kemahli PM
+@Selina Cooper Content & comms
+
+
+
+### Originates from Web Content Team (from new rewriting parity work)
+
+Step 1.
+When a content parity/legacy rewrite page is published, the content writer will assign the original content ticket to @mikki and @megan_kelly to request a redirect. 
+
+Content person will include the following information in a note for Mikki: [TBD Mikki’s template]
+
+Legacy URL  |  Redirect to
+---  |  ---
+insert legacy URL | insert new URL
+
+Desired implementation target date: [Allow at least 2 weeks when requesting Platform team. Also see note below.]
+
+Step 2. 
+Mikki will vet the URLs, and then assign @Kara @Nick and @Lunascoop.
+
+Step 3.
+Kara will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
+
+Step 4. 
+Selina will review ticket information and determine the stakeholder communication timeframe. She will let Kara and the FE engineer know when redirect should go live. 
+
+Step 5.
+Assigned FE engineer will create a PR for the redirect and @ Selina FYSA. 
+
+Selina will use the Website team’s template redirect comms email to notify the relevant (VHA, VBA, or NCA) stakeholder team about the upcoming redirects. (CC the original content writer and Jennifer Lee.) [See note below regarding ETA timeframe and communication.] 
+
+Step 6.
+FE engineer will let @Mikki and @Lunascoop know when redirect goes live via PR notification.
+
+Step 7.
+Selina will validate that the redirect is working on the live site and send out a 2nd email to stakeholders that the redirects are complete.  (CC Jennifer Lee)
+
+Selina will close the redirect ticket.
+
+
+Step 8.
+Mikki will note in a consolidated redirect spreadsheet that the redirect for the URLs are complete. The consolidated spreadsheet will include page names, new URL, legacy URL, date when redirect was implemented, and the benefit hub category.
+
+
+
+
+B. Originates from Mikki (from older redirect tickets)
+
+These redirect tickets originate with Mikki. After validating the URLs, she will assign the ticket to @kara, @nick, and @lunascoop. 
+
+All the steps are the same as above, minus step 1.
+H3 Note about the implementation target ETA and communication: 
+Provide at least 7 business days’ advance notice. This is to allow stakeholders enough time to communicate out to their business SMEs, web admins, and managers. This is a courtesy notice, not a request for approval. 
+
+Note: If they request more time, we will review the situation and be flexible.  
+
+Example: If it has been several weeks or months since the parity content was migrated, and their legacy page now has new info that has gone out of sync with the benefit hub content, we will stop the redirect for that page and re-assess with the content team. 
