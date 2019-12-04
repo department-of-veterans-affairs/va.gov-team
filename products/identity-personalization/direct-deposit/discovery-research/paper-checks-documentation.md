@@ -33,7 +33,7 @@ Via an email on 10.30.19:
 
 David provided a screenshot that showed how the paper check/direct deposit info is coupled in the Share system, but I'm omitting that since Idk if that screenshot is sensitive information. However, I feel that is sufficient evidence regional office employees are able/supposed to update paper check/direct deposit info at the same time when someone is switching back and forth. That being said, I can't speak to whether this system ever fails or if there is ever user error on the part of the regional office where someone updates info for paper checks without canceling direct deposit (or vice versa), but I think we can confidently say that these things are/should be happening at the same time, and if they are not, this is user error on the VA's part and there is probably nothing we can do from a VA.gov perspective to prevent this/reflect this in the UI.
 
-## Additional info Nov. 2019 
+## Additional info Nov. 2019: Switching from paper checks to direct deposit
 
 We have confirmed that you CAN switch from paper checks to direct deposit via eBenefits, and we have incorporated this functionality into VA.gov. Like eBenefits, we are using whether someone has a payment address or not as the metric of whether someone is eligile to receive compensation. If someone has a payment address but no payment info, they will see the option to add direct deposit bank info in their profile.
 
