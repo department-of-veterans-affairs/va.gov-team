@@ -1,5 +1,3 @@
-# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/documentation-site
-
 # Research Plan for Platypus Tools Team: Documentation Research Round 2
 
 ## Goals

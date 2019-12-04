@@ -1,5 +1,3 @@
-# This file is deprecated. The most recent information should be at https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/request-for-change
-
 # RFC: _title_
 
 - Date: _YYYY-MM-DD_
