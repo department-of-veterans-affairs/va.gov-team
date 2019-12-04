@@ -8,7 +8,7 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 - [Check the on-call schedule](https://dsva.pagerduty.com/schedules)
 - [Respond to an incident](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
 - [Read about the on-call Standard Operating Procedure (SOP)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/OnCall#on-call-rotation-standard-operating-procedure)
-- [Learn more about a specific alert](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Alerts.md)
+- [Learn more about a specific alert](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/alerts.md)
 
 The [on-call](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/OnCall) directory in vets.gov-team is the primary source of information for on-call documentation, including [Incident Categorization](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/OnCall/Incident%20Categorization.md).
 

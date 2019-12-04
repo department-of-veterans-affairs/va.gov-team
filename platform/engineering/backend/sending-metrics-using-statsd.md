@@ -26,7 +26,7 @@ Tags can be passed along with metrics as well, but a metric must consistently ha
 
 As an example of this, if we send a metric `api.foo` with tags value of `{my_tag: bar}`, a tag of name "my_tag" will be expected for any future metrics sent called `api.foo`. If we were to then send a metric named `api.foo` with tags value of `{other_tag: baz}`, StatsD will refuse the metric.
 
-Care should also be made to not allow user input to enter tag values. Each combination of metric name + tag name/value pairs becomes a unique metric in Prometheus. An excessive and constantly growing number of metrics can have dramatic effects on Prometheus' performance. We have an [alert](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Alerts.md#applicationmetricswarning) which attempts to catch this situation, but can be triggered after it has hit production.
+Care should also be made to not allow user input to enter tag values. Each combination of metric name + tag name/value pairs becomes a unique metric in Prometheus. An excessive and constantly growing number of metrics can have dramatic effects on Prometheus' performance. We have an [alert](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/alerts.md#applicationmetricswarning) which attempts to catch this situation, but can be triggered after it has hit production.
 
 ### Metric Types
 
