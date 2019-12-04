@@ -24,13 +24,15 @@ Have you ever visted an urgent care location?
 ## Usability Test
 I'm going to ask you a few questions about this site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing. This is only a prototype, so not all links will be clickable.
 
-### Scenario
-Let's imagine you are coming to the site because you have a medical sitation that requires you to visit an Urgent Care location. 
+### Scenario 1
+Let's imagine you are coming to the site because you need to visit an Urgent Care location. 
 
 ### Task 1 - Find Urgent Care
-From this page, tell me what you would do first in order to find an urgent care location. Remember to think aloud -- not everything on the page will be clickable. 
+From this page, tell me what you would do first in order to find urgent care for a sore throat. Remember to think aloud -- not everything on the page will be clickable. 
 
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
+
+Now let's imagine you are coming to the site because you have a wound and probably need stiches. From this page, tell me what you would do first in order to find urgent care to stitch your wound.
 
 ### Task 2 - Review PDF Alert
 Please provide feedback on the elements as they appear on the screen. Is there anything confusing?
