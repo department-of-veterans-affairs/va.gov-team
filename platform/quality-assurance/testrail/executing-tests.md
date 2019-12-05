@@ -1,19 +1,19 @@
 # Executing tests in TestRail
 
-*Preconditions: You are currently viewing the "Overview" page for your project.*
+*Preconditions: You are currently viewing the "Overview" page for your project.  And, you have created a test run that contains the test cases you wish to execute.*
 
-1. Navigate to the "Test Runs & Results" tab
-1. Click "Add Test Run"  
-![TestRail create test run example][testrails-execute-tests-create-run]
-1. Enter a relevant name.  The default includes a date which may be advisable to help keep you organized.  
-![TestRail create test run details][testrails-execute-tests-create-run-details]
-1. Assign the test run to the relevant Milestone.
-1. If you will be executing the test run then be sure to assign it to yourself using the "Assign To" dropdown.
-1. Enter a detailed description of the scope and goal of the test run.  For example, "Mid-sprint test run which will verify the functionality of the user stories (123, 124, 125, and 126) which have been marked feature complete by developers."
-1. Choose the correct option to include the relevant test cases.  In all likelihood, you will need to use "Select specific test cases" and use the built in filtering UI to select a subset of the test cases you have created for this project.  
-![TestRail create test run details][testrails-execute-tests-create-run-select-tests]
-1. Now that you have a test run.  It's time to execute your tests!
+1. Navigate to the "Test Runs & Results" tab . 
+1. Select the test run that you previously created . 
+![TestRail execute test from test run][testrails-execute-tests-from-test-run] . 
+1. Although there is more than one way to execute a test, I recommend that you click the greater than button at the right-most point of the row for each test case.  This button will expand the test steps into a pane on the right side of the browser . 
+![TestRail execute test from test run][testrails-execute-tests-expand-steps] . 
+1. Now that the steps are visible in the right pane, you can scroll through the steps as you execute them.  Once you have completed all the steps, you can select either the "Add Result" button to add a detailed result or "Pass & Next" to mark the test case as passed and proceed to the next one . 
+![TestRail execute test add result][testrails-execute-tests-add-result]
+1. If the test case does not pass then you should mark the test case as "Failed" and use the "Defect" box to add a test incident to GitHub with the relevant information.  In the future, there will be a test incident template available to help guide you in presenting relevant information.
+![TestRail execute test failed defect][testrails-execute-tests-failed-defect]
+1. Once you have marked each test case as Passed or Failed, you can review the results for your test run.  If you have any failures then the test run should be consider Failed, and you should work with developers to resolve all issues before you execute a new test run.
 
-[testrails-execute-tests-create-run]: ../images/testrail-tutorials/execute-tests-create-run.png
-[testrails-execute-tests-create-run-details]: ../images/testrail-tutorials/execute-tests-create-run-details.png
-[testrails-execute-tests-create-run-select-tests]: ../images/testrail-tutorials/execute-tests-create-run-select-tests.png
+[testrails-execute-tests-from-test-run]: ../images/execute-tests-from-test-run.png
+[testrails-execute-tests-expand-steps]: ../images/execute-tests-expand-steps.png
+[testrails-execute-tests-add-result]: ../images/execute-tests-add-result.png
+[testrails-execute-tests-failed-defect]: ../images/execute-tests-failed-defect.png
