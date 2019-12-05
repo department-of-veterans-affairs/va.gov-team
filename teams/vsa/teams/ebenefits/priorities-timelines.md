@@ -11,3 +11,5 @@
 | View MyDocs | Q2 2020 | Q3-Q1 2021 |
 | Revise Rated Disabilities (BE, UI) | Q2 2020 | Q3 2020 |
 | View/Submit 686 (+ 509) | Q3 2020 | Q1-Q2 2021 |
+
+![Near Term Roadmap Draft (image)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/near-term-roadmap_DRAFT.jpg)
