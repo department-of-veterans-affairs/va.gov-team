@@ -18,8 +18,10 @@ This research was conducted to help clarify the current state of the problem spa
   - [API Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/api%20diagram.pdf)
 
 ## Discovery Sprint, November 2019
-_Timeline: Nov 20 - ?_
+_Timeline: Nov 20 - December 18_
 
 This research is to bring stakeholder and SME knowledge into the mix as well as gain insights into our users directly. The outcome of this research should be a solid understanding of the business and user problems that exist so that we can build an informed prototype.
 
-- [Link to discovery sprint folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/discovery-nov19)
+[Link to discovery sprint folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/discovery-nov19)
+
+- [Workflows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/workflows.md)

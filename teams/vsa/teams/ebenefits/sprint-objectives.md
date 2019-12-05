@@ -11,15 +11,42 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ----
 
-## Sprint 9 (11/20 - 12/3)
+## Sprint 10 (12/4 - 12/17)
 ```diff 
 - TBD
+```
+### 1. Prepare "View My Rated Disabilities" for Launch
+- Refine any error handling issues and user acceptance testing remaining in staging
+- Complete final reviews required to launch (Call Center, Content/IA {mockups}, 508 {staging}, Security {staging})
+- Address any further DSVA Design feedback
+- Review the launch checklist and document any remaing gaps for launch procedures  
+  - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
+
+_Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
+
+### 2. Development Initial Framework and API Connectivity for "View/Update Dependents" in Staging Environment
+- Design: Based on user feedback, adjust mockups
+- Design: Create mockups that incorporate all functionality that still needs to be added to Update Dependents (like the 674)
+- Frontend: Implement "View Dependents" MVP function per existing mockups in staging
+- Eng: Define and document in GitHub the existing endpoints, begin plan for requesting BGS service updates  
+- Eng: Implement new Dependents' API endpoints for View Dependents  
+  - [Epic for **View Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393)  
+  - [Epic for **Update Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976)  
+
+### 3. Begin UX/UI Discovery on "View/Submit My Representative" (Power of Attorney (POA))
+- Design: Define and document in GitHub the current functions and workflows for the feature and business logic
+- Establish who the stakeholders are, connect with them
+  - [Epic for **View/Submit My Representative**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3672)  
+  
+## Sprint 9 (11/20 - 12/3)
+```diff 
+- 49 points over 16 issues
 ```
 ### 1. Prepare "View My Rated Disabilities" for Launch
 - Assuming no enterprise blockers, test all required Rated Disabilities functionality in staging
 - Schedule final reviews required to launch (Content/IA {mockups}, 508 {staging}, Security {staging})
 - Review the launch checklist and make sure the feature meets all requirements  
-  - [Epic for Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032
+  - [Epic for Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)
   - _Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
 
 ### 2. Continue Development on "View/Update Dependents"
@@ -49,9 +76,9 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Schedule usability study on Dependents (Conversation Guide, Research Plan, Perigean, etc)
 - Design: establish any gaps in the business logic between form requirements and what is currently in staging for Dependents
 - Eng: Investigate errors that are currently in staging for Dependents
-- Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates  
-  - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393  
-  - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976  
+- Eng: Technical discovery on state of existing EVSS endpoints, begin plan for requesting EVSS service updates   
+  - Epic for View Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393   
+  - Epic for Update Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976    
 
 ### 3. Stretch Goal: View Dependents (that are on my Compensation Award) Functionality
 - Frame the View Dependents function per existing mockups in staging

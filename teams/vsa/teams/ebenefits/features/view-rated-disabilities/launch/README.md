@@ -1,4 +1,4 @@
-# Checklist: Rated Disabilities
+# Launch Checklist: Rated Disabilities
 The steps here are meant to track and inform all the necessary steps for a feature to be launched in the VA.gov online experience.  
 ## Table of Contents  
 [Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/launch/README.md#discovery)  
@@ -110,6 +110,14 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Entrance pages (i.e. supporting static content) in place
 
 ## Review
+### Error Handling
+- [ ] After we understand how the data behaves, have a meeting to brainstorm about as many use cases as possible
+  - [ ] Has each field been addressed for errors?
+  - [ ] Has each component been addressed for errors?
+- [ ] Address errors handling with [this guide](https://design.va.gov/content-style-guide/messaging-error-messages) in mind
+  - Be mindful of others that are not planned.
+Error handling might be iterative.
+ 
 ### Security/ATO - `ON HOLD until Andrea Hewitt reaches out`
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?  Same as QA?

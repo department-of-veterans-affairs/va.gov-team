@@ -30,10 +30,10 @@ __Please note: some links in this document point to the vets.gov-team repo.__
     * For running a load-test locally ([see Devops Load-Testing README](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest/README.md)), save the file into the same folder as your load-test file.
 1. Run your load test
 
-[jenkins-login]: images/jenkins-login.png
-[jenkins-build-with-parameters]: images/jenkins-build-with-parameters.png
-[jenkins-build]: images/jenkins-build.png
-[jenkins-click-the-build]: images/jenkins-click-the-build.png
-[jenkins-console-output]: images/jenkins-console-output.png
-[jenkins-session-cookie-output]: images/jenkins-session-cookie-output.png
-[jenkins-session-cookie-output-selected]: images/jenkins-session-cookie-output-selected.png
+[jenkins-login]: images/load-test-tutorials/jenkins-login.png
+[jenkins-build-with-parameters]: images/load-test-tutorials/jenkins-build-with-parameters.png
+[jenkins-build]: images/load-test-tutorials/jenkins-build.png
+[jenkins-click-the-build]: images/load-test-tutorials/jenkins-click-the-build.png
+[jenkins-console-output]: images/load-test-tutorials/jenkins-console-output.png
+[jenkins-session-cookie-output]: images/load-test-tutorials/jenkins-session-cookie-output.png
+[jenkins-session-cookie-output-selected]: images/load-test-tutorials/jenkins-session-cookie-output-selected.png

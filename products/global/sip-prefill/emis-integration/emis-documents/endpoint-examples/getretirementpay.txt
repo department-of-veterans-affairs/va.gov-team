@@ -1,0 +1,42 @@
+<NS1:Envelope xmlns:NS1="http://www.w3.org/2003/05/soap-envelope">
+  <NS1:Header>
+    <NS2:essResponseCode xmlns:NS2="http://va.gov/ess/message/v1">Success</NS2:essResponseCode>
+    <NS3:inputHeaderInfo xmlns:NS3="http://viers.va.gov/cdi/CDI/commonService/v1">
+      <NS3:userId>SCH</NS3:userId>
+      <NS3:sourceSystemName>VRS</NS3:sourceSystemName>
+      <NS3:transactionId>123</NS3:transactionId>
+    </NS3:inputHeaderInfo>
+  </NS1:Header>
+  <NS1:Body>
+    <NS4:eMISretirementPayResponse xmlns:NS4="http://viers.va.gov/cdi/eMIS/RequestResponse/Payment/v1">
+      <NS5:retirementPay xmlns:NS5="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS6:edipi xmlns:NS6="http://viers.va.gov/cdi/eMIS/commonService/v1">1607472595</NS6:edipi>
+        <NS7:keyData xmlns:NS7="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS7:personnelOrganizationCode>22</NS7:personnelOrganizationCode>
+          <NS7:personnelCategoryTypeCode>R</NS7:personnelCategoryTypeCode>
+          <NS7:personnelSegmentIdentifier>1</NS7:personnelSegmentIdentifier>
+        </NS7:keyData>
+        <NS8:retirementPayData xmlns:NS8="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS8:retirementPaySegmentIdentifier>6</NS8:retirementPaySegmentIdentifier>
+          <NS8:retirementPaymentMonthlyGrossAmount>979.00</NS8:retirementPaymentMonthlyGrossAmount>
+          <NS8:retirementPayBeginDate>2016-06-01</NS8:retirementPayBeginDate>
+          <NS8:retirementPayEndDate>2016-07-01</NS8:retirementPayEndDate>
+          <NS8:retirementPayTerminationReason>C</NS8:retirementPayTerminationReason>
+          <NS8:retirementPayStopPaymentReason>E</NS8:retirementPayStopPaymentReason>
+          <NS8:dodDisabilityPercentageCode>30</NS8:dodDisabilityPercentageCode>
+          <NS8:retirementPaymentStatus>4</NS8:retirementPaymentStatus>
+          <NS8:chapter61ServiceGrossPayAmount>504.00</NS8:chapter61ServiceGrossPayAmount>
+          <NS8:chapter61EffectiveDate>2015-07-01</NS8:chapter61EffectiveDate>
+          <NS8:retirementDateDifferencCode>D</NS8:retirementDateDifferencCode>
+          <NS8:survivorBenefitPlanPremiumMonthlyCostAmount>95.00</NS8:survivorBenefitPlanPremiumMonthlyCostAmount>
+          <NS8:directRemitterSurvivorBenefitPlanAmount>95.00</NS8:directRemitterSurvivorBenefitPlanAmount>
+          <NS8:directRemitterSurvivorBenefitPlanEffectiveDate>2016-06-15</NS8:directRemitterSurvivorBenefitPlanEffectiveDate>
+          <NS8:projectedSurvivorBenefitPlanAnnuityAmount>50.00</NS8:projectedSurvivorBenefitPlanAnnuityAmount>
+          <NS8:survivorBenefitPlanBeneficiaryTypeCode>3</NS8:survivorBenefitPlanBeneficiaryTypeCode>
+          <NS8:originalRetirementPayDate>2016-06-15</NS8:originalRetirementPayDate>
+          <NS8:functionalAccountNumberCode>02</NS8:functionalAccountNumberCode>
+        </NS8:retirementPayData>
+      </NS5:retirementPay>
+    </NS4:eMISretirementPayResponse>
+  </NS1:Body>
+</NS1:Envelope>

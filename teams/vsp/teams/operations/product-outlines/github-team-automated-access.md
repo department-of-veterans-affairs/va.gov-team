@@ -26,7 +26,6 @@
 - [Solution Narrative](#solution-narrative)
 - [Dependentences](#dependentences)
 - [Key Words](#key-words)
-- [Team](#team)
 
 
 ---
@@ -144,15 +143,3 @@ VSP Operations team is using and testing the GH team model.
 - Access Management
 - Automated Access Management 
 
-## Team:
-- Lead Ops Engineer - Wyatt Walter
-- Product Manager - TJ Rice
-- Ops Engineer - Taylor Skinner
-- Senior Ops Engineer- Nick Walke
-- Senior Ops Engineer - Nathan Hruby
-- Ops Engineer - Bennie Mosher
-- Ops Engineer - Jeremy Britt
-
-Other Member that contribute to our Team's mission
-- DevOps Engineer - William Ryan
-- DevOps Engineer - Glen Stevenson

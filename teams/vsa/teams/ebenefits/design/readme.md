@@ -19,3 +19,13 @@ This directory will house subdirectories for eBenefits screens and features migr
 - [UX/UI Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
 - [VSA Product Approach (Google Doc)](https://docs.google.com/document/d/1BtIHL5KRl9ln20FONWpBjQzTDveU_wyKqWCL5R-6MB8/edit?ts=5d9507d5#heading=h.bu00ebtvll88)
 - [Review Readiness Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/design-review-checklist.md)
+
+### Feature Migration Approach
+
+1. Analyze existing feature
+2. Conduct research on existing feature
+3. Synthesize analysis and research into lo-fi sketches and flows
+4. Take synthesis to design crit (development should be able to start working with the sketches here)
+5. Improve fidelity of sketches
+6. Conduct usability
+7. Present designs for launch crit

@@ -47,6 +47,11 @@ __Please note that many links on this page reference research folders in the vet
 - 16 participants
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-plan.md)
 
+#### October 28 – November 1: Facility Locator Discovery
+*Ad Hoc: Aricka Lewis*
+- 7 participants
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/discovery-sprints/user-research/research-plan.md)
+
 #### October 16 - 17: SCO Content Migration - Moderated Usability Testing  
 *Booz Allen: Amy Knox, Theresa McMurdo*
 - 5-6 participants
@@ -94,7 +99,8 @@ __Please note that many links on this page reference research folders in the vet
 #### August 27, 29: Get Care Prototype Usability R1 **
 *AdHoc: Caitlin Weber*
 - 12 participants 
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Products/Health%20care/get_care/research/usability/research_plan.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care/research/usability)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/get-care/research/usability/research_plan.md)
 
 #### August 21 - 28: Higher-Level Review Usability Testing **
 *DSVA: Carola Ponce*
@@ -104,7 +110,8 @@ __Please note that many links on this page reference research folders in the vet
 #### August 16-23: Get Care Discovery **
 *AdHoc: Caitlin Weber*
 - 11 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Products/Health%20care/get_care/research/discovery/research_plan.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care/research/discovery)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/get-care/research/discovery/research_plan.md)
 
 #### August 14 - 16: GIBCT Sec 107, Round 3 Moderated Usability Testing 
 *Booz Allen: Amy Knox*
@@ -186,7 +193,7 @@ __Please note that many links on this page reference research folders in the vet
 #### June 17 - 21: Exploration of Veterans Perspectives of their VA Health Data
 *DSVA: Jane Newman*
 - 10 participants 
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Products/Health%20care/health_data_research_veo)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/health-data)
 
 #### June 17-19: HCA Dashboard updates UAT 
 *Dragons/Personalization: Samara Strauss*
@@ -201,7 +208,7 @@ __Please note that many links on this page reference research folders in the vet
 #### June 10-23: Exploration of Veterans Perspectives of their VA Health Data - In-person & Remote
 *VEO Team, Research Lead: Jane Newman*
 - 9 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Products/Health%20care/health_data_research_veo)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/health-data)
 
 #### June 3-4: Usability Research VetTec Course Comparison using the GIBCT
 *BAH Team, Research Lead: Amy Knox, Theresa McMurdo*

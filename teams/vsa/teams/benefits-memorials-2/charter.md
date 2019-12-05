@@ -14,17 +14,18 @@ Benefits and Memorial Services
 Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
 (look into this statement, this is very broad)
 ### **Product Portfolio**
-  *TBD
+  - [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
+  - Certification of Eligibility Process 
+  - Certificate of Eligibility Process 1990
+  - GI Bill applicant Experience
+  - GI Bill statement of Benefits
+  - GI Bill COmparison Tool
 
 ### **Responsibilities**
 TBD
 
 ### **Roadmap**
-TBD
-   1. Education - GI bill
-   2. Medical purchasing device- Socks
-   3. Determine what B&M2 and B&M1 will cover on current site.
-updated on 10/16/2019
+![Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map%202small.PNG)
 
 ### **Team Members**
 
@@ -33,8 +34,8 @@ updated on 10/16/2019
 |DSVA Product Manager   |Matt Self                           |
 |DSVA Design Researcher |Kevin Hoffman                       |
 |Team Product Manager   |Nicolaus Wygonik                    |
-|Back End Engineer      |TBD                                 |
-|Front End Engineer     |Brad Conley                         |
+|Back End Engineer      |Joseph Brothers                     |
+|Front End Engineer     |Mahariel Rosario                    |
 |Front End Engineer     |Amen Ra                             |
 |Design Researcher      |Riley Orr                           |
 |Design Researcher      |Becca Walsh                         |
@@ -45,9 +46,12 @@ updated on 10/16/2019
 
 **Stand-up**
 People / Product check-ins
-Daily @ TBD EST
-15 min
-3 Question Format: What I did yesterday? What will I do today? Any impediments?
+Daily @ 11 EST/ 10 CST/ 9 MT/ 8 PST
+15 min total
+3 Question Format: 
+ - What I did yesterday?
+ - What will I do today? 
+ - Any Blocker and Dependancies?
 
 **Sprint Planning**
 Outline team and member focus, goals for sprint
@@ -55,21 +59,48 @@ Outline team and member focus, goals for sprint
 2 hours
 
 **Retro**
-Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
-1st Tuesday of every sprint, 30 min
+Last Wednesday of every sprint, 60 min
+Review accomplishments from prior sprint:[Funretro] (https://funretro.io/dashboard)
+- What went well
+- Areas for improvement
+- What to start doing
 
 **Grooming** 
 Assess and update workload for remainder of sprint
-2nd Wednesday of every sprint, 1-hour
+Each Wednesday of every sprint, 1-hour
 
 ### **Issue Etiquette**
-For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-  * Estimate
-  * Title that explains task
-  * Description with Background and Acceptance Criteria
-  * Labels - vsa-benefits (and cross functional team labels)
-  * User Story, Goal, Acceptance Criteria - please fill out the Goal and any known acceptance criteria. The PM will revise as necessary.
-  * Epic assigned
+---
+name: User Story Template
+about: This is a generic user story template
+title: User Story Template for va.gov-teams
+labels: ''
+assignees: ''
+
+---
+
+## User Story:
+As a __________, I need __________ so that I can __________.
+
+
+## Tasks
+_The steps that must be done by the team to complete the acceptance criteria_
+- [ ] First thing we need to do - x hour(s) - Owner
+- [ ] Second thing we need to do - y hour(s) - Owner
+- [ ] Third thing we need to do - z hour(s) - Owner
+- [ ] etc
+
+## Acceptance Criteria:
+_The requirements that must be met in order to mark this user story as completed_
+- [ ] Testable Outcome Y
+- [ ] Testable Outcome Z
+
+## Configuration
+- [ ] **Attached to a Milestone** (when will this be completed?)
+- [ ] **Attached to an Epic** (what body of work is this a part of?)
+- [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)
+- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `call center`, `research`, `accessibility`, `content`)
+- [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
   
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 

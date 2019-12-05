@@ -55,11 +55,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project Brief: 
 *Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
 
-- Discussion Guide
+- Convo Guide
 *Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
-
-- Notes & Recordings
-*Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
 
 - Synthesis
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 

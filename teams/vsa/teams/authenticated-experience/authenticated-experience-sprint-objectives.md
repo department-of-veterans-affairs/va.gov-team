@@ -62,7 +62,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
      * Clear the "Validate" swimlane by the end of the sprint
 
-### (CURRENT) Sprint 9 (11/20 - 12/3)
+### Sprint 9 (11/20 - 12/3)
 * Direct Deposit
    * Add "add direct deposit" functionality and and new associated analytics.  Track/measure error rates as input to next steps and actions. (#3504)
    * Finalize approach for ID.me & DS Logon and determine what design work for sprint 10 work will need to be (#2884 and #1798)
@@ -81,16 +81,49 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
    
 
-### Sprint 10 (12/4 - 12/17)
-* Continue Bad Address Indicator
-* Continue Combine Profile & Account
-* Continue Beta Program
+### (CURRENT) Sprint 10 (12/4 - 12/17)
+- Direct deposit
+  - Ramp up direct deposit
+    - Launch direct deposit to 75% and monitor for problems
+    - Design and copy for the content page [#2903](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2903)
+    - Investigate why "flagged for fraud" error rate is so high
+    - Get on eBenefits schedule to remove direct deposit from the site in 1/29 release
+    - Stretch goal: Launch to 100% if we have no concerns in doing so. **Note: It is OK if this does not happen in Sprint 10  due to legitimate concerns that push things into Sprint 11 instead. We will still consider sprint goals met with ramp up to 75% if the reason we are not ramping up to 100% is because of problems that arise from ramp up to 75%.**
+  - ~DS logon gate:~ 
+    - ~Design and copy for the profile [#3763](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3763)~
+    - ~Start frontend setup for profile (final design implementation set for sprint 11) [#3900](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3900)~
+  - Analytics: Answer follow-up questions [#3877](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3877)
+- Address validation
+  - User testing updates 
+    - Copy [#3741](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3741)
+    - Frontend implementation [#3890](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3890)
+  - Bad Unit number
+    - Finish design/copy [#3660](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3660)
+    - Frontend implementation [#3891](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3891)
+  - QA - [#3948](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3948)
+    - Fill out Tze's QA intake form
+    - Have Tze complete the test plan
+  - Error Matrix [#3892](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3892)
+    - Updates
+    - Follow up with VA Profile (Vet360) team
+    - Create a GitHub version of the spreadsheet
+* APO/FPO/DPO
+  - Finalize copy for the profile [#3023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3023)
+  - Create a list of all benefit applications and where they get address data from — note which are VA Profile (Vet360) and which are not.[#3893](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3893)
+  - Propose solution for how to handle military addresses in benefit applications that use VA Profile data.[3895](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3895) 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Sprint 11 (12/18 - 12/31)
+- Direct Deposit
+ - DS logon gate: 
+    - Frontend implementation of design in the profile
+    - Implementation of content page (may need FE help with DS Logon gate)
+    
+  - If all has gone well with the launch of the DS Logon gate, ramp up to 75% – 100%
+  - Finalize content page and update call center guide (to include DS Logon updates, assuming all goes well with the functionality we launched in Sprint 10.
+- Address validation
+  - QA for address validation
 * Launch Bad Address Indicator and move to monitor mode 
-* Continue Combine Profile & Account
-* Continue Beta Program
 * Start Sign-In Page
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 

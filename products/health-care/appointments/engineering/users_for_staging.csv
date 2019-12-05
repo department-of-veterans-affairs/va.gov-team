@@ -1,0 +1,6 @@
+icn, notes,first_name,middle_name,last_name,gender,birth_date,ssn,address
+1013124304V115761, (patient999@id.me),Patient,"",Zztest,F,19620101,999999998,"{""street"":""123 Easy Street"",""city"":""New Orleans"",""state"":""LA"",""postal_code"":""58321"",""country"":""USA""}"
+1013125218V696863, (patient998@id.me),Patient,"",Zztest,M,19720101,999999997,"{""street"":""122 Main Street"",""city"":""Boston"",""state"":""MA"",""postal_code"":""02101"",""country"":""USA""}"
+1013125219V724755, (patient997@id.me),Patient,"",Zztest,M,19820101,999999996,"{""street"":""123 Main Street"",""city"":""Los Angeles"",""state"":""CA"",""postal_code"":""90001"",""country"":""USA""}"
+1012845331V153043, (judy.morrison),Judy,Snow,Morrison,F,19530401,796061976,null
+1012853802V084487, (ruben.moreno),Ruben,Gustav,Moreno,M,19660516,796264187,"{""street"":""9813 ST CHARLES PL"",""city"":""DALLAS"",""state"":""TX"",""postal_code"":""75253"",""country"":""USA""}"

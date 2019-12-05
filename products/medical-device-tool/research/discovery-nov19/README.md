@@ -24,8 +24,17 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 - [Discovery Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-project-brief.md)
 - [Stakeholder Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/stakeholder-conversation-guide.md)
 - Stakeholder Meeting Notes
+  - [Introduction Meeting 1 (Nov 15, 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md)
+  - [Introduction Meeting 2 (Nov 21, 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191121-DALC-stakeholder-meeting.md)
+  - [Introduction Meeting 3 (Nov 25, 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191125-DALC-stakeholder-meeting.md)
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
 - User Research Conversation Guide
+  - [Prostheses / Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-prostheses.md)
+  - [Hearing Aids / Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md)
+- [Workflow Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/workflows.md)
 - User Interview Notes
 - Synthesis Artifacts
+- Research, IA, and Content Consultation Notes
+- Technical Review Commentary
+- Product Outline (Updated)
 - Discovery Readout Presentation

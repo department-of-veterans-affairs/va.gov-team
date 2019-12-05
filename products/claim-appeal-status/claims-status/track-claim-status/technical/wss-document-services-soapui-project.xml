@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project activeEnvironment="Default" name="wss-document-services" resourceRoot="${projectDir}" soapui-version="5.2.1" abortOnError="false" runType="SEQUENTIAL" id="dbacadce-2879-4ba7-a908-230f38ff3d19" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.TestRunnerAction@values-local"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="Environment" value="Default"/>
+  <con:entry key="Global Properties" value=""/>
+  <con:entry key="TestSuite" value="Wss-common-services REST Services"/>
+  <con:entry key="Password" value=""/>
+  <con:entry key="TestRunner Path" value=""/>
+  <con:entry key="Tool Args" value=""/>
+  <con:entry key="Ignore Errors" value="false"/>
+  <con:entry key="Host:Port" value=""/>
+  <con:entry key="user-settings.xml Password" value=""/>
+  <con:entry key="WSS Password Type" value=""/>
+  <con:entry key="Save Project" value="false"/>
+  <con:entry key="Enable UI" value="false"/>
+  <con:entry key="System Properties" value=""/>
+  <con:entry key="Domain" value=""/>
+  <con:entry key="Coverage Report" value="false"/>
+  <con:entry key="Export JUnit Results" value="false"/>
+  <con:entry key="Open Report" value="false"/>
+  <con:entry key="Project Properties" value=""/>
+  <con:entry key="Export All" value="false"/>
+  <con:entry key="Project Password" value=""/>
+  <con:entry key="Report Format(s)" value=""/>
+  <con:entry key="TestCase" value="AppealsService"/>
+  <con:entry key="Print Report" value="false"/>
+  <con:entry key="Username" value=""/>
+  <con:entry key="Root Folder" value=""/>
+  <con:entry key="Save After" value="false"/>
+  <con:entry key="Add Settings" value="false"/>
+  <con:entry key="Endpoint" value=""/>
+  <con:entry key="Select Report Type" value=""/>
+</xml-fragment>]]></con:setting></con:settings><con:interface xsi:type="con:RestService" wadlVersion="http://wadl.dev.java.net/2009/02" name="application" type="rest" basePath="" definitionUrl="wadl/application.wadl" id="5930beec-ed53-4853-a97e-675ae31ce157" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT"/><con:endpoints><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:endpoint>http://localhost:8080/wss-document-services-web/rest</con:endpoint></con:endpoints><con:resource name="/vbaDocumentService" path="/documents" id="4de987c2-ea3d-48c9-bb28-1fafda8971e0"><con:settings/><con:parameters/><con:resource name="/getAllDocuments" path="/getAllDocuments" id="0f739f5d-56b3-4328-a2e3-f70582e5ac1e"><con:settings/><con:parameters/><con:method name="GET - getAllDocuments" method="GET" id="7362648c-e1a8-4d90-a472-17330a484cb3"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="108bff95-7de4-435c-b067-4a4b845f51b2" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-common-services-web-2.2/rest/documents/getAllDocuments</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/getClaimDocuments" path="/getClaimDocuments" id="0f739f5d-56b3-4328-a2e3-f70582e5ac1e"><con:settings/><con:parameters/><con:method name="POST - getClaimDocuments" method="POST" id="7362648c-e1a8-4d90-a472-17330a484cb3"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="108bff95-7de4-435c-b067-4a4b845f51b2" postQueryString="false"><con:settings/><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:request></con:method></con:resource><con:resource name="/documentId/claimId" path="/documentId/{documentId}/claimId/{claimId}" id="0f739f5d-56b3-4328-a2e3-f70582e5ac1e"><con:settings/><con:parameters><con:parameter><con:name>documentId</con:name><con:value>%7B87C9EE04-1FC0-4C6D-ACE0-16D97A8B11D7%7D</con:value><con:style>TEMPLATE</con:style><con:default>%7B87C9EE04-1FC0-4C6D-ACE0-16D97A8B11D7%7D</con:default></con:parameter><con:parameter><con:name>claimId</con:name><con:value>95425</con:value><con:style>TEMPLATE</con:style><con:default>95425</con:default></con:parameter></con:parameters><con:method name="GET - documentId/claimId" method="GET" id="7362648c-e1a8-4d90-a472-17330a484cb3"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="108bff95-7de4-435c-b067-4a4b845f51b2" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/><con:parameterOrder><con:entry>documentId</con:entry><con:entry>claimId</con:entry></con:parameterOrder></con:request></con:method></con:resource><con:resource name="/documentId" path="/documentId/{documentId}" id="0f739f5d-56b3-4328-a2e3-f70582e5ac1e"><con:settings/><con:parameters><con:parameter><con:name>documentId</con:name><con:value>%7B87C9EE04-1FC0-4C6D-ACE0-16D97A8B11D7%7D</con:value><con:style>TEMPLATE</con:style><con:default>%7B87C9EE04-1FC0-4C6D-ACE0-16D97A8B11D7%7D</con:default></con:parameter></con:parameters><con:method name="GET - documentId" method="GET" id="7362648c-e1a8-4d90-a472-17330a484cb3"><con:settings/><con:parameters/><con:representation type="REQUEST" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:representation type="RESPONSE" id=""><con:mediaType>application/json</con:mediaType><con:params/><con:element xsi:nil="true"/><con:description xsi:nil="true"/></con:representation><con:request name="Request 1" mediaType="application/json" id="108bff95-7de4-435c-b067-4a4b845f51b2" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/><con:parameterOrder><con:entry>documentId</con:entry></con:parameterOrder></con:request></con:method></con:resource></con:resource><con:resource name="/queuedDocumentUploadService" path="/queuedDocumentUploadService" id="be51bf7f-133d-4ce1-941d-dd8d49310d9b"><con:settings/><con:parameters/><con:resource name="/uploadDocument" path="uploadDocument" id="0ce3dad8-b90e-48c2-9a1f-7b4e4f2e5a2d"><con:settings/><con:parameters/><con:method name="POST - uploadDocument" id="8edc7d8e-e437-4b23-b346-77b0ddb005f9" method="POST"><con:settings/><con:parameters/><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:request name="Request 1" id="60c8b4fe-14e4-433b-8bc2-ca237563cd5a" mediaType="multipart/form-data" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103"
+"fileName" : "test name.pdf"
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-document-services-web-2.2/rest/queuedDocumentUploadService/uploadDocument</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:attachment><con:name>documentupload.txt</con:name><con:contentType>text/plain</con:contentType><con:size>915</con:size><con:contentId>documentupload.txt</con:contentId><con:data>UEsDBBQACAgIAORm9UgAAAAAAAAAAAAAAAASAAAAZG9jdW1lbnR1cGxvYWQudHh0pZJRS+swFMffC/0OhzxLbTa3q3srroKg7tJ2CldGyG3PtmCb1CStivjdTbYpu6DoxbwkOYecc/7/X57DgHRtrXg1VWXXoLS/tSrRmOKpRQITIKcXyfkly4ukmOdslrGzWXbJRjQekjB4gZs1SuiMkCuwa2Gg5Zo3aFGHAfvGCoMweA4DACCNa8pXaMgEbt19G/WJO3xyMbJSfdTz6MGYaOl7PCh9FxnUvSgxyrd7+lhia4WS5OD9ucEetbCbGmdJkVzs5Sw+Wh9PJODbU1Bl2WmNFbizXSP4HqgjgMJdNN53aCyUXEpl4S/CsquXoq6xiuD2v2ZcRDCXwpWD86nTTI/GJ5TS4fjk+HiwgHzTFa5cFZfseSsEq7BnMV0A2Qh4WWyFENOVnpgTsuS1wV201818Azb/N+2oedd3zn8B/3p6ykaDcfrHw/4h633YFbdoRYPe/PjX4YAeDmI6BhpPhnQSH0E6LXaYvvwX6XWeMzqKY/oJ9DTLZtkH0OefKU9l14DTd6UkvoEuNbqR3/FbBVvj/MlYNx/sW/UjOq9QSwcI37KLOZ0BAACTAwAAUEsBAhQAFAAICAgA5Gb1SN+yizmdAQAAkwMAABIAAAAAAAAAAAAAAAAAAAAAAGRvY3VtZW50dXBsb2FkLnR4dFBLBQYAAAAAAQABAEAAAADdAQAAAAA=</con:data><con:id>af7686df-177e-4205-925e-cb33d50846e2</con:id></con:attachment><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:request></con:method></con:resource><con:resource name="/addToQueue" path="addToQueue" id="25881581-ab1e-4876-bba4-a6cafb589e78"><con:settings/><con:parameters/><con:method name="POST - addToQueue" id="b084b3c3-718b-4e29-b5d8-a65164999c4a" method="POST"><con:settings/><con:parameters/><con:representation type="REQUEST"><con:mediaType>application/json</con:mediaType><con:params/></con:representation><con:request name="Request 1" id="2fa892d0-3a68-460a-9ff3-576f0611b55c" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting><con:setting id="RecordRequestRepresentations">false</con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-document-services-web-2.2/rest/queuedDocumentUploadService/addToQueue</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/><con:parameterOrder/></con:request></con:method></con:resource><con:resource name="/ajaxUploadFile" path="ajaxUploadFile" id="b940ed57-5084-4536-85ad-15e599088918"><con:settings/><con:parameters/><con:method name="POST - ajaxUploadFile" id="808aa5af-50e8-4aef-89a1-6b38db736126" method="POST"><con:settings/><con:parameters/><con:representation type="REQUEST"><con:mediaType/><con:params/></con:representation><con:request name="Request 1" id="58ebbf87-d020-4c92-9c88-4516d09513ce" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-document-services-web-2.2/rest/queuedDocumentUploadService/ajaxUploadFile</con:originalUri><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:request></con:method></con:resource></con:resource></con:interface><con:testSuite name="Wss-document-services REST Services" id="eff7ad0b-d5ef-44d7-8aaf-fa6fa2297f00"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="9545c45b-a799-4b8d-8a7e-19136e6833bc" failOnError="false" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="VbaDocumentService" searchProperties="true" timeout="0" wsrmEnabled="false" wsrmVersion="1.0" wsrmAckTo="" amfAuthorisation="false" amfEndpoint="" amfLogin="" amfPassword=""><con:settings/><con:testStep type="properties" name="user" id="22b87974-9124-4609-ba98-ecb5063eeb16"><con:settings/><con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:properties><con:property><con:name>va_eauth_pnidtype</con:name><con:value>SSN</con:value></con:property><con:property><con:name>va_eauth_lastName</con:name><con:value>Doe</con:value></con:property><con:property><con:name>va_eauth_authenticationauthority</con:name><con:value>eauth</con:value></con:property><con:property><con:name>va_eauth_issueinstant</con:name><con:value>2015-04-17T14:52:48Z</con:value></con:property><con:property><con:name>va_eauth_dodedipnid</con:name><con:value>1026070453</con:value></con:property><con:property><con:name>va_eauth_authenticationmethod</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>va_eauth_firstName</con:name><con:value>Jane</con:value></con:property><con:property><con:name>va_eauth_csid</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>va_eauth_authorization</con:name><con:value>{"authorizationResponse":{"id":"123456789","idType":"SSN","edi":"1026070453","firstName":"JANE","lastName":"DOE","status":"VETERAN"}}</con:value></con:property><con:property><con:name>va_eauth_assurancelevel</con:name><con:value>2</con:value></con:property><con:property><con:name>va_eauth_pnid</con:name><con:value>123456789</con:value></con:property></con:properties></con:config></con:testStep><con:testStep type="restrequest" name="getAllDocuments - Unathenticated" id="5860ab38-728f-4268-9bec-9cb80dcc4835"><con:settings/><con:config service="application" resourcePath="/documents/getAllDocuments" methodName="GET - getAllDocuments" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getAllDocuments - Unathenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getAllDocuments - Happy Path" id="3c993126-1f4a-4c1c-acef-ae6ea8c991c5"><con:settings/><con:config service="application" resourcePath="/documents/getAllDocuments" methodName="GET - getAllDocuments" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getAllDocuments - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+//assert json.documents != null;
+
+def documents = json.documents;
+
+assert documents[28].documentTypeLabel == "Certificate of Release or Discharge From Active Duty (e.g. DD 214, NOAA 56-16, PHS 1867)"
+assert documents[28].fileName == "DD124_b9fc2c7b-60ec-4d63-86c7-abe5f866d923.pdf"
+assert documents[28].veteran.fileNumber == "796104437"
+assert documents[28].veteran.firstName == "MARK" 
+assert documents[28].veteran.lastName == "WEBB"
+assert documents[29].documentTypeLabel == "Certificate of Release or Discharge From Active Duty (e.g. DD 214, NOAA 56-16, PHS 1867)"
+assert documents[29].fileName == "eBenefits_84944472-95c2-4d13-a684-99a1c8e8f225.pdf"
+assert documents[29].veteran.fileNumber == "796104437"
+assert documents[29].veteran.firstName == "MARK" 
+assert documents[29].veteran.lastName == "WEBB"
+assert documents[30].documentTypeLabel == "VA 26-4555 Veterans Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant Under Title 38 U.S.C. 2101(a) or (b)"
+assert documents[30].fileName == "eBenefits_81322585-dea5-47c0-9d8a-7ecc0ec633dd.pdf"
+assert documents[30].veteran.fileNumber == "796104437"
+assert documents[30].veteran.firstName == "MARK" 
+assert documents[30].veteran.lastName == "WEBB"
+assert documents[31].documentTypeLabel == "VA 21-0779 Request for Nursing Home Info In Connection with Claim for Aid and Attendance"
+assert documents[31].fileName == "ebn_106bb33a-65e5-41f5-b42d-689f7c7a9706.pdf"
+assert documents[31].veteran.fileNumber == "796104437"
+assert documents[31].veteran.firstName == "JANE"
+assert documents[31].veteran.lastName == "DOE"
+assert documents[32].documentTypeLabel == "VA 21-2680 Examination for Housebound Status or Permanent Need for Regular Aid and Attendance"
+assert documents[32].fileName == "ebn_2949e346-03b2-424f-a088-d5dae1da8a8b.pdf"
+assert documents[32].veteran.fileNumber == "796104437"
+assert documents[32].veteran.firstName == "JANE"
+assert documents[32].veteran.lastName == "DOE"
+assert documents[33].documentTypeLabel == "VA 21-526EZ, Fully Developed Claim (Compensation)"
+assert documents[33].fileName == "VDC_600032782_0003.pdf"
+assert documents[33].veteran.fileNumber == "796104437"
+assert documents[33].veteran.firstName == "MARK"
+assert documents[33].veteran.lastName == "WEBB"
+assert documents[34].documentTypeLabel == "VA 21-2680 Examination for Housebound Status or Permanent Need for Regular Aid and Attendance"
+assert documents[34].fileName == "SEP_41ba9424-e507-4e2c-80b4-01899826cab3.pdf"
+assert documents[34].veteran.fileNumber == "796104437"
+assert documents[34].veteran.firstName == "MARK"
+assert documents[34].veteran.lastName == "WEBB"
+assert documents[35].documentTypeLabel == "VA 21-526EZ, Fully Developed Claim (Compensation)"
+assert documents[35].fileName == "VDC_600021515_0001.pdf"
+assert documents[35].veteran.fileNumber == "796104437"
+assert documents[35].veteran.firstName == "MARK"
+assert documents[35].veteran.lastName == "WEBB"
+assert documents[37].documentTypeLabel == "VA 21-8940 Veterans Application for Increased Compensation Based on Unemployability"
+assert documents[37].fileName == "7100_null_MARK_WEBB_8940.pdf"
+assert documents[37].veteran.fileNumber == "796104437"
+assert documents[37].veteran.firstName == "MARK"
+assert documents[37].veteran.lastName == "WEBB"
+
+
+
+
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaimDocuments- Unathenticated" id="ae96cda7-2ad3-4a85-ad32-afb492300e3b"><con:settings/><con:config service="application" resourcePath="/documents/getClaimDocuments" methodName="POST - getClaimDocuments" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaimDocuments- Unathenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="getClaimDocuments - Happy Path" id="646d5e6f-ccd2-49e2-ae22-cad6bddd4b68"><con:settings/><con:config service="application" resourcePath="/documents/getClaimDocuments" methodName="POST - getClaimDocuments" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="getClaimDocuments - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+	"claimId" : 12344
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="e5e0e43c-7ae4-4933-8e1d-40bbdb09fc91" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+//assert json.documents != null;
+
+def documents = json.documents;
+
+assert documents[0].originalFileName == "name1"
+assert documents[0].source == "eBenefits"
+assert documents[0].submitter.firstName == "ALEXIS"
+assert documents[0].submitter.lastName == "COLLINS"
+assert documents[0].submitter.personId =="222"
+assert documents[1].originalFileName == "name222"
+assert documents[1].source == "SEP"
+assert documents[1].submitter.firstName == "ALEXIS"
+assert documents[1].submitter.lastName == "COLLINS"
+assert documents[1].submitter.personId =="222"
+assert documents[2].originalFileName == "name2"
+assert documents[2].source == "eBenefits"
+assert documents[2].submitter.firstName == "Tom"
+assert documents[2].submitter.lastName == "Brady"
+assert documents[2].submitter.personId =="222"
+assert documents[3].originalFileName == "name22"
+assert documents[3].source == "eBenefits"
+assert documents[3].submitter.firstName == "Aaron"
+assert documents[3].submitter.lastName == "Rogers"
+assert documents[3].submitter.personId =="222"
+assert documents[4].originalFileName == "name3"
+assert documents[4].source == "eBenefits"
+assert documents[4].submitter.firstName == "Drew"
+assert documents[4].submitter.lastName == "Bree"
+assert documents[4].submitter.personId =="222"
+assert documents[5].originalFileName == "name4"
+assert documents[5].source == "SEP"
+assert documents[5].submitter.firstName == "Andrew"
+assert documents[5].submitter.lastName == "Luck"
+assert documents[5].submitter.personId =="222"
+assert documents[6].originalFileName == "name6"
+assert documents[6].source == "eBenefits"
+assert documents[6].submitter.firstName == "Robert"
+assert documents[6].submitter.lastName == "Griffin III"
+assert documents[6].submitter.personId =="222"
+assert documents[7].documentTypeLabel == "Certificate of Release or Discharge From Active Duty (e.g. DD 214, NOAA 56-16, PHS 1867)"
+assert documents[7].fileName == "DD124_b9fc2c7b-60ec-4d63-86c7-abe5f866d923.pdf"
+assert documents[7].source == "eBenefits"
+assert documents[7].veteran.firstName == "MARK"
+assert documents[7].veteran.lastName == "WEBB"
+assert documents[7].veteran.fileNumber == "796104437"
+assert documents[8].documentTypeLabel == "Certificate of Release or Discharge From Active Duty (e.g. DD 214, NOAA 56-16, PHS 1867)"
+assert documents[8].fileName == "eBenefits_84944472-95c2-4d13-a684-99a1c8e8f225.pdf"
+assert documents[8].source == "eBenefits"
+assert documents[8].veteran.firstName == "MARK"
+assert documents[8].veteran.lastName == "WEBB"
+assert documents[8].veteran.fileNumber == "796104437"
+assert documents[9].documentTypeLabel == "VA 26-4555 Veterans Application in Acquiring Specially Adapted Housing or Special Home Adaptation Grant Under Title 38 U.S.C. 2101(a) or (b)"
+assert documents[9].fileName == "eBenefits_81322585-dea5-47c0-9d8a-7ecc0ec633dd.pdf"
+assert documents[9].source == "eBenefits"
+assert documents[9].veteran.firstName == "MARK"
+assert documents[9].veteran.lastName == "WEBB"
+assert documents[9].veteran.fileNumber == "796104437"
+assert documents[10].documentTypeLabel == "VA 21-0779 Request for Nursing Home Info In Connection with Claim for Aid and Attendance"
+assert documents[10].fileName == "ebn_106bb33a-65e5-41f5-b42d-689f7c7a9706.pdf"
+assert documents[10].source == "ebn"
+assert documents[10].veteran.firstName == "JANE"
+assert documents[10].veteran.lastName == "DOE"
+assert documents[10].veteran.fileNumber == "796104437"
+assert documents[11].documentTypeLabel =="VA 21-2680 Examination for Housebound Status or Permanent Need for Regular Aid and Attendance"
+assert documents[11].fileName == "ebn_2949e346-03b2-424f-a088-d5dae1da8a8b.pdf"
+assert documents[11].source == "ebn"
+assert documents[11].veteran.firstName == "JANE"
+assert documents[11].veteran.lastName == "DOE"
+assert documents[11].veteran.fileNumber == "796104437"
+assert documents[12].documentTypeLabel == "VA 21-526EZ, Fully Developed Claim (Compensation)"
+assert documents[12].fileName == "VDC_600032782_0003.pdf"
+assert documents[12].source == "VDC"
+assert documents[12].veteran.firstName == "MARK"
+assert documents[12].veteran.lastName == "WEBB"
+assert documents[12].veteran.fileNumber == "796104437"
+assert documents[13].documentTypeLabel =="VA 21-526EZ, Fully Developed Claim (Compensation)"
+assert documents[13].fileName == "VDC_600021515_0001.pdf"
+assert documents[13].source == "VDC"
+assert documents[13].veteran.firstName == "MARK"
+assert documents[13].veteran.lastName == "WEBB"
+assert documents[13].veteran.fileNumber == "796104437"
+
+
+
+
+
+
+
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="documentId - Happy Path" id="11ecf59e-7e0d-4ec4-b0fc-35580aec4697"><con:settings/><con:config service="application" resourcePath="/documents/documentId/{documentId}" methodName="GET - documentId" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="documentId - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="c263d627-8cd1-4006-98a9-4c24d6070dd3" name="Script Assertion"><con:configuration><scriptText>import com.eviware.soapui.support.XmlHolder
+def holder = new XmlHolder(messageExchange.responseContentAsXml)
+
+assert holder != null
+assert holder["//data"] != null
+
+assert holder["//data/@contentType"] != null
+assert holder["//data/@contentType"] == "application/pdf"
+
+assert holder["//data/@contentLength"] != null
+assert holder["//data/@contentLength"] == "11019"</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="documentId - Unathenticated" id="3580a23a-fdad-4faf-8a47-e5aec5d6ec83"><con:settings/><con:config service="application" resourcePath="/documents/documentId/{documentId}" methodName="GET - documentId" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="documentId - Unathenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="documentId/claimId - Happy Path" id="db1ca053-2fa1-4ad7-b454-dd872ddd4520"><con:settings/><con:config service="application" resourcePath="/documents/documentId/{documentId}/claimId/{claimId}" methodName="GET - documentId/claimId" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="documentId/claimId - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+	"claimId" : 12344
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="6fef0548-c406-406d-bafd-ad4af8c44863" name="Script Assertion"><con:configuration><scriptText>import com.eviware.soapui.support.XmlHolder
+def holder = new XmlHolder(messageExchange.responseContentAsXml)
+
+assert holder != null
+assert holder["//data"] != null
+
+assert holder["//data/@contentType"] != null
+assert holder["//data/@contentType"] == "application/pdf"
+
+assert holder["//data/@contentLength"] != null
+assert holder["//data/@contentLength"] == "11019"</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="documentId/claimId - Unathenticated" id="827e9856-8df0-4a99-a624-1ed09be52ef4"><con:settings/><con:config service="application" resourcePath="/documents/documentId/{documentId}/claimId/{claimId}" methodName="GET - documentId/claimId" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="documentId/claimId - Unathenticated" mediaType="application/json" id="76b12548-cdfd-4d91-89a2-93b990f8cd96" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://localhost/wss-common-services/rest/userProfileService/8.0/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="7830f912-7f3f-454b-a803-c88b70ac461d"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:properties/><con:reportParameters/><con:breakPoints><con:testStepId>5860ab38-728f-4268-9bec-9cb80dcc4835</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>3c993126-1f4a-4c1c-acef-ae6ea8c991c5</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>ae96cda7-2ad3-4a85-ad32-afb492300e3b</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>646d5e6f-ccd2-49e2-ae22-cad6bddd4b68</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>cca906b1-c2d9-4081-b5b7-2520ad011e06</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>0d4c52ed-1542-4a49-ad4e-c027d97cef67</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>b3dadb2e-348f-4a56-a657-a6a773f19715</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>a7fc3901-e84a-40d2-b13d-23bca8f4162d</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>ee787d5e-a00b-4d77-8011-7e0a015ac225</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>3ce0a757-c5eb-40e1-9bb4-548939d61459</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints></con:testCase><con:testCase id="c1a750db-d688-496d-825a-fdbdb7218281" discardOkResults="true" failOnError="false" failTestCaseOnErrors="true" keepSession="false" name="queuedDocumentUploadService" searchProperties="true" maxResults="0" timeout="0" wsrmEnabled="false" wsrmVersion="1.0" wsrmAckTo="" amfAuthorisation="false" amfEndpoint="" amfLogin="" amfPassword=""><con:settings/><con:testStep type="properties" name="user" id="9ef9c07e-de9c-4291-a613-055dd001f8c5"><con:settings/><con:config xsi:type="con:PropertiesStep" saveFirst="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:properties><con:property><con:name>va_eauth_pnidtype</con:name><con:value>SSN</con:value></con:property><con:property><con:name>va_eauth_lastName</con:name><con:value>Doe</con:value></con:property><con:property><con:name>va_eauth_authenticationauthority</con:name><con:value>eauth</con:value></con:property><con:property><con:name>va_eauth_issueinstant</con:name><con:value>2015-04-17T14:52:48Z</con:value></con:property><con:property><con:name>va_eauth_dodedipnid</con:name><con:value>1026070453</con:value></con:property><con:property><con:name>va_eauth_authenticationmethod</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>va_eauth_firstName</con:name><con:value>Jane</con:value></con:property><con:property><con:name>va_eauth_csid</con:name><con:value>DSLogon</con:value></con:property><con:property><con:name>va_eauth_authorization</con:name><con:value>{"authorizationResponse":{"id":"123456789","idType":"SSN","edi":"1026070453","firstName":"JANE","lastName":"DOE","status":"VETERAN"}}</con:value></con:property><con:property><con:name>va_eauth_assurancelevel</con:name><con:value>2</con:value></con:property><con:property><con:name>va_eauth_pnid</con:name><con:value>123456789</con:value></con:property></con:properties></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - Unauthenticated" id="27662782-b164-49b9-9289-55dd46b2c157"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - Unauthenticated" id="60c8b4fe-14e4-433b-8bc2-ca237563cd5a" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting><con:setting id="RecordRequestRepresentations">true</con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103"
+}</con:request><con:originalUri>http://csraciapp6.evss.srarad.com/wss-document-services-web-2.2/rest/queuedDocumentUploadService/uploadDocument</con:originalUri><con:assertion type="Valid HTTP Status Codes" id="225614a4-e410-46cf-b8f5-39625f116a8f" name="Valid HTTP Status Codes"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:attachment><con:name>documentupload.txt</con:name><con:contentType>text/plain</con:contentType><con:size>915</con:size><con:contentId>documentupload.txt</con:contentId><con:data>UEsDBBQACAgIAORm9UgAAAAAAAAAAAAAAAASAAAAZG9jdW1lbnR1cGxvYWQudHh0pZJRS+swFMffC/0OhzxLbTa3q3srroKg7tJ2CldGyG3PtmCb1CStivjdTbYpu6DoxbwkOYecc/7/X57DgHRtrXg1VWXXoLS/tSrRmOKpRQITIKcXyfkly4ukmOdslrGzWXbJRjQekjB4gZs1SuiMkCuwa2Gg5Zo3aFGHAfvGCoMweA4DACCNa8pXaMgEbt19G/WJO3xyMbJSfdTz6MGYaOl7PCh9FxnUvSgxyrd7+lhia4WS5OD9ucEetbCbGmdJkVzs5Sw+Wh9PJODbU1Bl2WmNFbizXSP4HqgjgMJdNN53aCyUXEpl4S/CsquXoq6xiuD2v2ZcRDCXwpWD86nTTI/GJ5TS4fjk+HiwgHzTFa5cFZfseSsEq7BnMV0A2Qh4WWyFENOVnpgTsuS1wV201818Azb/N+2oedd3zn8B/3p6ykaDcfrHw/4h633YFbdoRYPe/PjX4YAeDmI6BhpPhnQSH0E6LXaYvvwX6XWeMzqKY/oJ9DTLZtkH0OefKU9l14DTd6UkvoEuNbqR3/FbBVvj/MlYNx/sW/UjOq9QSwcI37KLOZ0BAACTAwAAUEsBAhQAFAAICAgA5Gb1SN+yizmdAQAAkwMAABIAAAAAAAAAAAAAAAAAAAAAAGRvY3VtZW50dXBsb2FkLnR4dFBLBQYAAAAAAQABAEAAAADdAQAAAAA=</con:data><con:id>af7686df-177e-4205-925e-cb33d50846e2</con:id></con:attachment><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - File name with Space - Happy Path" id="6a318ab5-ef04-4132-b8bb-59fa08c313a8"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - File name with Space - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test name.txt",
+"file": "/9j/4AAQSkZJRgABAQEAeAB4AAD/4QBaRXhpZgAATU0AKgAAAAgABQMBAAUAAAABAAAASgMDAAEA
+AAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAAAFESAAQAAAABAAAAAAAAAAAAAYagAACxj//b
+AEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwH
+CQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAEwBRgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEU
+MoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2Rl
+ZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK
+0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUG
+BwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS
+8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4
+eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri
+4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP0G/wCCqn/BUzUP2LtZ0nwd4P0ex1LxVq1s
+b2W4vGK21hbA4T5M5kkOOgx0r4zj/wCC+/x0WDy/s/gbb7aVNn/0bVj/AIL+vt/bnsfbwtbA/wDf
+2WviHoa/BeKuK8yo5jUo0qlkj/QLwj8JOFcXwnhMfmGD9rVq+/8A15H24P8Agvv8dgP9X4J/8Fc3
+/wAdo/4f7/Hb/nn4J/8ABXN/8dr4jor53/W7N/8AoIP07/iDnBn/AELqZ9uf8P8Af47f88/BP/gr
+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
+FFFABRRRQAUUUUAFFFFAH//Z",
+"docType":"eBen",
+"docTypeDescription":"test desc",
+"claimId" : "12345678",
+"systemName" : "SEP"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="66e5dbd8-e865-4f19-96e6-00357fbca3da" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.success == true
+assert json.vrmUploadSuccess == true
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - File name with dot - Happy Path" id="3401bbb6-2524-458c-8cb5-1b52e2b19eb2"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - File name with dot - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test...name.txt",
+"file": "/9j/4AAQSkZJRgABAQEAeAB4AAD/4QBaRXhpZgAATU0AKgAAAAgABQMBAAUAAAABAAAASgMDAAEA
+AAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAAAFESAAQAAAABAAAAAAAAAAAAAYagAACxj//b
+AEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwH
+CQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAEwBRgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEU
+MoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2Rl
+ZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK
+0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUG
+BwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS
+8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4
+eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri
+4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP0G/wCCqn/BUzUP2LtZ0nwd4P0ex1LxVq1s
+b2W4vGK21hbA4T5M5kkOOgx0r4zj/wCC+/x0WDy/s/gbb7aVNn/0bVj/AIL+vt/bnsfbwtbA/wDf
+2WviHoa/BeKuK8yo5jUo0qlkj/QLwj8JOFcXwnhMfmGD9rVq+/8A15H24P8Agvv8dgP9X4J/8Fc3
+/wAdo/4f7/Hb/nn4J/8ABXN/8dr4jor53/W7N/8AoIP07/iDnBn/AELqZ9uf8P8Af47f88/BP/gr
+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
+FFFABRRRQAUUUUAFFFFAH//Z",
+"docType":"eBen",
+"docTypeDescription":"test desc",
+"claimId" : "12345678",
+"systemName" : "SEP"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="66e5dbd8-e865-4f19-96e6-00357fbca3da" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.success == true
+assert json.vrmUploadSuccess == true
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - File name with ASCII - Happy Path" id="e46ca965-609e-4c1b-8945-594ff9ae83bf"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - File name with ASCII - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test@#$%^&amp;*~name.txt",
+"file": "/9j/4AAQSkZJRgABAQEAeAB4AAD/4QBaRXhpZgAATU0AKgAAAAgABQMBAAUAAAABAAAASgMDAAEA
+AAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAAAFESAAQAAAABAAAAAAAAAAAAAYagAACxj//b
+AEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwH
+CQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAEwBRgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEU
+MoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2Rl
+ZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK
+0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUG
+BwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS
+8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4
+eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri
+4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP0G/wCCqn/BUzUP2LtZ0nwd4P0ex1LxVq1s
+b2W4vGK21hbA4T5M5kkOOgx0r4zj/wCC+/x0WDy/s/gbb7aVNn/0bVj/AIL+vt/bnsfbwtbA/wDf
+2WviHoa/BeKuK8yo5jUo0qlkj/QLwj8JOFcXwnhMfmGD9rVq+/8A15H24P8Agvv8dgP9X4J/8Fc3
+/wAdo/4f7/Hb/nn4J/8ABXN/8dr4jor53/W7N/8AoIP07/iDnBn/AELqZ9uf8P8Af47f88/BP/gr
+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
+FFFABRRRQAUUUUAFFFFAH//Z",
+"docType":"eBen",
+"docTypeDescription":"test desc",
+"claimId" : "12345678",
+"systemName" : "SEP"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="66e5dbd8-e865-4f19-96e6-00357fbca3da" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.success == true
+assert json.vrmUploadSuccess == true
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - File name with UniCode  - Happy Path" id="b51f47d5-8f6b-483d-9177-13a327c20ab3"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - File name with UniCode  - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test&amp;#052.txt",
+"file": "/9j/4AAQSkZJRgABAQEAeAB4AAD/4QBaRXhpZgAATU0AKgAAAAgABQMBAAUAAAABAAAASgMDAAEA
+AAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAAAFESAAQAAAABAAAAAAAAAAAAAYagAACxj//b
+AEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwH
+CQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAEwBRgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEU
+MoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2Rl
+ZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK
+0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUG
+BwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS
+8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4
+eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri
+4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP0G/wCCqn/BUzUP2LtZ0nwd4P0ex1LxVq1s
+b2W4vGK21hbA4T5M5kkOOgx0r4zj/wCC+/x0WDy/s/gbb7aVNn/0bVj/AIL+vt/bnsfbwtbA/wDf
+2WviHoa/BeKuK8yo5jUo0qlkj/QLwj8JOFcXwnhMfmGD9rVq+/8A15H24P8Agvv8dgP9X4J/8Fc3
+/wAdo/4f7/Hb/nn4J/8ABXN/8dr4jor53/W7N/8AoIP07/iDnBn/AELqZ9uf8P8Af47f88/BP/gr
+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
+FFFABRRRQAUUUUAFFFFAH//Z",
+"docType":"eBen",
+"docTypeDescription":"test desc",
+"claimId" : "12345678",
+"systemName" : "SEP"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="66e5dbd8-e865-4f19-96e6-00357fbca3da" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.success == true
+assert json.vrmUploadSuccess == true
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - File name with ISO  - Happy Path" id="2d0a69b5-a78f-4d72-b4d3-954b43ffaf4d"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - File name with ISO  - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "testẼ, ẽ, Ĩ, ĩ, Ũ, ũ, Ỹ, ỹ, G̃, gname.txt",
+"file": "/9j/4AAQSkZJRgABAQEAeAB4AAD/4QBaRXhpZgAATU0AKgAAAAgABQMBAAUAAAABAAAASgMDAAEA
+AAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAAAFESAAQAAAABAAAAAAAAAAAAAYagAACxj//b
+AEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwH
+CQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAEwBRgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEU
+MoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2Rl
+ZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK
+0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUG
+BwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS
+8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4
+eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri
+4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP0G/wCCqn/BUzUP2LtZ0nwd4P0ex1LxVq1s
+b2W4vGK21hbA4T5M5kkOOgx0r4zj/wCC+/x0WDy/s/gbb7aVNn/0bVj/AIL+vt/bnsfbwtbA/wDf
+2WviHoa/BeKuK8yo5jUo0qlkj/QLwj8JOFcXwnhMfmGD9rVq+/8A15H24P8Agvv8dgP9X4J/8Fc3
+/wAdo/4f7/Hb/nn4J/8ABXN/8dr4jor53/W7N/8AoIP07/iDnBn/AELqZ9uf8P8Af47f88/BP/gr
+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
+FFFABRRRQAUUUUAFFFFAH//Z",
+"docType":"eBen",
+"docTypeDescription":"test desc",
+"claimId" : "12345678",
+"systemName" : "SEP"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="66e5dbd8-e865-4f19-96e6-00357fbca3da" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.success == true
+assert json.vrmUploadSuccess == true
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - File name with Upper Case  - Happy Path" id="9f4848f9-23e4-4529-a641-24002b85406b"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - File name with Upper Case  - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "testAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.name.txt",
+"file": "/9j/4AAQSkZJRgABAQEAeAB4AAD/4QBaRXhpZgAATU0AKgAAAAgABQMBAAUAAAABAAAASgMDAAEA
+AAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAAAFESAAQAAAABAAAAAAAAAAAAAYagAACxj//b
+AEMAAgEBAgEBAgICAgICAgIDBQMDAwMDBgQEAwUHBgcHBwYHBwgJCwkICAoIBwcKDQoKCwwMDAwH
+CQ4PDQwOCwwMDP/bAEMBAgICAwMDBgMDBgwIBwgMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDP/AABEIAEwBRgMBIgACEQEDEQH/xAAfAAABBQEBAQEBAQAA
+AAAAAAAAAQIDBAUGBwgJCgv/xAC1EAACAQMDAgQDBQUEBAAAAX0BAgMABBEFEiExQQYTUWEHInEU
+MoGRoQgjQrHBFVLR8CQzYnKCCQoWFxgZGiUmJygpKjQ1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2Rl
+ZmdoaWpzdHV2d3h5eoOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK
+0tPU1dbX2Nna4eLj5OXm5+jp6vHy8/T19vf4+fr/xAAfAQADAQEBAQEBAQEBAAAAAAAAAQIDBAUG
+BwgJCgv/xAC1EQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS
+8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4
+eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri
+4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP0G/wCCqn/BUzUP2LtZ0nwd4P0ex1LxVq1s
+b2W4vGK21hbA4T5M5kkOOgx0r4zj/wCC+/x0WDy/s/gbb7aVNn/0bVj/AIL+vt/bnsfbwtbA/wDf
+2WviHoa/BeKuK8yo5jUo0qlkj/QLwj8JOFcXwnhMfmGD9rVq+/8A15H24P8Agvv8dgP9X4J/8Fc3
+/wAdo/4f7/Hb/nn4J/8ABXN/8dr4jor53/W7N/8AoIP07/iDnBn/AELqZ9uf8P8Af47f88/BP/gr
+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
+FFFABRRRQAUUUUAFFFFAH//Z",
+"docType":"eBen",
+"docTypeDescription":"test desc",
+"claimId" : "12345678",
+"systemName" : "SEP"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="66e5dbd8-e865-4f19-96e6-00357fbca3da" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.success == true
+assert json.vrmUploadSuccess == true
+
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="uploadDocument - Invalid File name" id="f204b188-5989-4696-9770-dba7c23e38d6" disabled="true"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/uploadDocument" methodName="POST - uploadDocument" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="uploadDocument - Invalid File name" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  
+  
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test@name.pdf"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="66e5dbd8-e865-4f19-96e6-00357fbca3da" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.messages.key[0].equals("EVSS_10025")
+assert json.messages.severity[0].equals("ERROR")
+assert json.messages.text[0].contains("Please define your custom text for this error in claims-webparts/ErrorCodeMessages.properties.")
+assert json.success == false
+assert json.vrmUploadSuccess == false
+</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:attachment><con:name>documentupload.txt</con:name><con:contentType>text/plain</con:contentType><con:size>915</con:size><con:contentId>documentupload.txt</con:contentId><con:data>UEsDBBQACAgIAARu9UgAAAAAAAAAAAAAAAASAAAAZG9jdW1lbnR1cGxvYWQudHh0pZJRS+swFMffC/0OhzxLbTa3q3srroKg7tJ2CldGyG3PtmCb1CStivjdTbYpu6DoxbwkOYecc/7/X57DgHRtrXg1VWXXoLS/tSrRmOKpRQITIKcXyfkly4ukmOdslrGzWXbJRjQekjB4gZs1SuiMkCuwa2Gg5Zo3aFGHAfvGCoMweA4DACCNa8pXaMgEbt19G/WJO3xyMbJSfdTz6MGYaOl7PCh9FxnUvSgxyrd7+lhia4WS5OD9ucEetbCbGmdJkVzs5Sw+Wh9PJODbU1Bl2WmNFbizXSP4HqgjgMJdNN53aCyUXEpl4S/CsquXoq6xiuD2v2ZcRDCXwpWD86nTTI/GJ5TS4fjk+HiwgHzTFa5cFZfseSsEq7BnMV0A2Qh4WWyFENOVnpgTsuS1wV201818Azb/N+2oedd3zn8B/3p6ykaDcfrHw/4h633YFbdoRYPe/PjX4YAeDmI6BhpPhnQSH0E6LXaYvvwX6XWeMzqKY/oJ9DTLZtkH0OefKU9l14DTd6UkvoEuNbqR3/FbBVvj/MlYNx/sW/UjOq9QSwcI37KLOZ0BAACTAwAAUEsBAhQAFAAICAgABG71SN+yizmdAQAAkwMAABIAAAAAAAAAAAAAAAAAAAAAAGRvY3VtZW50dXBsb2FkLnR4dFBLBQYAAAAAAQABAEAAAADdAQAAAAA=</con:data><con:id>5243e4ec-bc13-4ddb-a19e-cf9205ddd5c2</con:id></con:attachment><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="addToQueue - Invalid File name" id="22509fc7-28d6-428c-9998-2b4872be813a" disabled="true"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/addToQueue" methodName="POST - addToQueue" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="addToQueue - Invalid File name" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  
+  
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test   name.pdf"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:assertion type="GroovyScriptAssertion" id="7c52d376-a293-4661-867b-1a0c641e1150" name="Script Assertion"><con:configuration><scriptText>import groovy.json.JsonSlurper 
+def response = messageExchange.response.responseContent
+def slurper = new JsonSlurper()
+def json = slurper.parseText response
+
+assert json.messages.key[0].equals("EVSS_10025")
+assert json.messages.severity[0].equals("ERROR")
+assert json.messages.text[0].contains("Please define your custom text for this error in claims-webparts/ErrorCodeMessages.properties.")
+assert json.success == false</scriptText></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="ajaxUploadFile - Unauthenticated" id="8fe1415d-ca67-4cdc-9369-3b292d842a10" disabled="true"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/ajaxUploadFile" methodName="POST - ajaxUploadFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="ajaxUploadFile - Unauthenticated" id="58ebbf87-d020-4c92-9c88-4516d09513ce" mediaType="application/json" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request/><con:originalUri>http://csraciapp6.evss.srarad.com/wss-document-services-web-2.2/rest/queuedDocumentUploadService/ajaxUploadFile</con:originalUri><con:assertion type="Valid HTTP Status Codes" id="46048dd6-629c-44e9-ae62-6aa4f67cbdc6" name="Valid HTTP Status Codes"><con:settings/><con:configuration><codes>403</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>No Authorization</con:selectedAuthProfile><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="ajaxUploadFile - Invalid File name" id="786deaf0-cb40-4f12-bea3-122b18c496c5" disabled="true"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/ajaxUploadFile" methodName="POST - ajaxUploadFile" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="ajaxUploadFile - Invalid File name" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  
+  
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test@name.pdf"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:attachment><con:name>documentupload.txt</con:name><con:contentType>text/plain</con:contentType><con:size>915</con:size><con:contentId>documentupload.txt</con:contentId><con:data>UEsDBBQACAgIAARu9UgAAAAAAAAAAAAAAAASAAAAZG9jdW1lbnR1cGxvYWQudHh0pZJRS+swFMffC/0OhzxLbTa3q3srroKg7tJ2CldGyG3PtmCb1CStivjdTbYpu6DoxbwkOYecc/7/X57DgHRtrXg1VWXXoLS/tSrRmOKpRQITIKcXyfkly4ukmOdslrGzWXbJRjQekjB4gZs1SuiMkCuwa2Gg5Zo3aFGHAfvGCoMweA4DACCNa8pXaMgEbt19G/WJO3xyMbJSfdTz6MGYaOl7PCh9FxnUvSgxyrd7+lhia4WS5OD9ucEetbCbGmdJkVzs5Sw+Wh9PJODbU1Bl2WmNFbizXSP4HqgjgMJdNN53aCyUXEpl4S/CsquXoq6xiuD2v2ZcRDCXwpWD86nTTI/GJ5TS4fjk+HiwgHzTFa5cFZfseSsEq7BnMV0A2Qh4WWyFENOVnpgTsuS1wV201818Azb/N+2oedd3zn8B/3p6ykaDcfrHw/4h633YFbdoRYPe/PjX4YAeDmI6BhpPhnQSH0E6LXaYvvwX6XWeMzqKY/oJ9DTLZtkH0OefKU9l14DTd6UkvoEuNbqR3/FbBVvj/MlYNx/sW/UjOq9QSwcI37KLOZ0BAACTAwAAUEsBAhQAFAAICAgABG71SN+yizmdAQAAkwMAABIAAAAAAAAAAAAAAAAAAAAAAGRvY3VtZW50dXBsb2FkLnR4dFBLBQYAAAAAAQABAEAAAADdAQAAAAA=</con:data><con:id>5243e4ec-bc13-4ddb-a19e-cf9205ddd5c2</con:id></con:attachment><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:testStep type="restrequest" name="addToQueue - Happy Path" id="ce556372-8042-4c85-98a9-3fc2c16040e7" disabled="true"><con:settings/><con:config service="application" resourcePath="/queuedDocumentUploadService/addToQueue" methodName="POST - addToQueue" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:restRequest name="addToQueue - Happy Path" mediaType="application/json" id="da965718-1219-4119-a963-b4c53cbd1a7f" postQueryString="false"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers"><![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="va_eauth_issueinstant" value="${user#va_eauth_issueinstant}"/>
+  <con:entry key="va_eauth_dodedipnid" value="${user#va_eauth_dodedipnid}"/>
+  <con:entry key="va_eauth_csid" value="${user#va_eauth_csid}"/>
+  <con:entry key="va_eauth_authenticationmethod" value="${user#va_eauth_authenticationmethod}"/>
+  <con:entry key="va_eauth_authenticationauthority" value="${user#va_eauth_authenticationauthority}"/>
+  
+  
+  <con:entry key="va_eauth_authorization" value="${user#va_eauth_authorization}"/>
+  
+  <con:entry key="va_eauth_lastName" value="${user#va_eauth_lastName}"/>
+  
+  <con:entry key="va_eauth_firstName" value="${user#va_eauth_firstName}"/>
+  <con:entry key="va_eauth_assurancelevel" value="${user#va_eauth_assurancelevel}"/>
+  <con:entry key="va_eauth_pnidtype" value="${user#va_eauth_pnidtype}"/>
+  
+  <con:entry key="va_eauth_pnid" value="${user#va_eauth_pnid}"/>
+</xml-fragment>]]></con:setting></con:settings><con:endpoint>http://csraciapp6.evss.srarad.com:7003/wss-document-services-web-${#Project#version}/rest</con:endpoint><con:request>{
+"uploadDocumentProcessType" : "CLAIM_STATUS_OR_FORM_5103",
+"fileName" : "test name.txt",
+"receivedDate" : "2016-08-07",
+"dodedipnid" : "testedi",
+"username": "testUsername",
+"claimId" : "12345678",
+"originalFileName":"originalFileName",
+"stagedDocumentId":"12345678",
+"docType":"eBen"
+}</con:request><con:originalUri>http://localhost/wss-common-services-web/rest/userProfileService/1.1/getBeneficiaryProfile</con:originalUri><con:assertion type="Valid HTTP Status Codes" name="Valid HTTP Status Codes" id="160f77f6-cae3-4f92-adac-4de17b8060bb"><con:settings/><con:configuration><codes>200</codes></con:configuration></con:assertion><con:credentials><con:username xsi:nil="true"/><con:password xsi:nil="true"/><con:domain xsi:nil="true"/><con:selectedAuthProfile>NTLM</con:selectedAuthProfile><con:authType>NTLM</con:authType></con:credentials><con:attachment><con:name>test name.txt</con:name><con:contentType>text/plain</con:contentType><con:size>915</con:size><con:contentId>test name.txt</con:contentId><con:data>UEsDBBQACAgIAEhnEEkAAAAAAAAAAAAAAAANAAAAdGVzdCBuYW1lLnR4dKWSUUvrMBTH3wv9Doc8S202t6t7K66CoO7SdgpXRshtz7Zgm9QkrYr43U22Kbug6MW8JDmHnHP+/1+ew4B0ba14NVVl16C0v7Uq0ZjiqUUCEyCnF8n5JcuLpJjnbJaxs1l2yUY0HpIweIGbNUrojJArsGthoOWaN2hRhwH7xgqDMHgOAwAgjWvKV2jIBG7dfRv1iTt8cjGyUn3U8+jBmGjpezwofRcZ1L0oMcq3e/pYYmuFkuTg/bnBHrWwmxpnSZFc7OUsPlofTyTg21NQZdlpjRW4s10j+B6oI4DCXTTed2gslFxKZeEvwrKrl6KusYrg9r9mXEQwl8KVg/Op00yPxieU0uH45Ph4sIB80xWuXBWX7HkrBKuwZzFdANkIeFlshRDTlZ6YE7LktcFdtNfNfAM2/zftqHnXd85/Af96espGg3H6x8P+Iet92BW3aEWD3vz41+GAHg5iOgYaT4Z0Eh9BOi12mL78F+l1njM6imP6CfQ0y2bZB9DnnylPZdeA03elJL6BLjW6kd/xWwVb4/zJWDcf7Fv1IzqvUEsHCN+yizmdAQAAkwMAAFBLAQIUABQACAgIAEhnEEnfsos5nQEAAJMDAAANAAAAAAAAAAAAAAAAAAAAAAB0ZXN0IG5hbWUudHh0UEsFBgAAAAABAAEAOwAAANgBAAAAAA==</con:data><con:id>fd6d3fb0-0be0-434d-bc65-9edb276bcb54</con:id></con:attachment><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:parameters/></con:restRequest></con:config></con:testStep><con:properties/><con:reportParameters/><con:breakPoints><con:testStepId>9ef9c07e-de9c-4291-a613-055dd001f8c5</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>6a318ab5-ef04-4132-b8bb-59fa08c313a8</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>3401bbb6-2524-458c-8cb5-1b52e2b19eb2</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>e46ca965-609e-4c1b-8945-594ff9ae83bf</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>b51f47d5-8f6b-483d-9177-13a327c20ab3</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>2d0a69b5-a78f-4d72-b4d3-954b43ffaf4d</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints><con:breakPoints><con:testStepId>9f4848f9-23e4-4529-a641-24002b85406b</con:testStepId><con:status>NONE</con:status><con:properties/></con:breakPoints></con:testCase><con:properties/><con:reportParameters/></con:testSuite><con:endpointStrategy xsi:type="con:DefaultEndpointStrategy" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:endpoint mode="OVERRIDE">http://csraciapp6.evss.srarad.com:7003/wss-common-services-web-9.1/rest</con:endpoint></con:endpointStrategy><con:requirements/><con:properties><con:property><con:name>version</con:name><con:value>3.1</con:value></con:property></con:properties><con:wssContainer/><con:databaseConnectionContainer/><con:oAuth2ProfileContainer/><con:reporting><con:xmlTemplates/><con:parameters/></con:reporting><con:sensitiveInformation/><con:authRepository/></con:soapui-project>

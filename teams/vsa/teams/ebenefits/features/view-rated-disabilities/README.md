@@ -96,6 +96,8 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
   - User: vets.gov.user+228@gmail.com (has 5 ratings, 3 are SC)
   - User: vets.gov.user+10@gmail.com (has no ratings)
   - User: vets.gov.user+123@gmail.com (has 1 rating, SC)
+  - User: vets.gov.user+38@gmail.com (has 3 rating, 2 are SC)
+  - User: vets.gov.user+45@gmail.com (has 1 rating, SC)
 
 ## Error Handling
 There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
@@ -136,7 +138,7 @@ eBenefits, rated disabilities
 
 ### Screenshots  
 #### Before  
-![Original Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/Rated_Disabilities_eBenefits_OLD.png)
+![Original Rated Disabilities](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/Rated_Disabilities_eBenefits_OLD.png)
 #### After  
 [Live mockups](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/?x_product=cc-slack%2F1.4.0)
 ![New Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/rated-disabilities-final.JPG)

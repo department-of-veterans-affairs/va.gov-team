@@ -17,9 +17,10 @@ audiences access to vital information about VA facilities
 **Responsibilities:**
 Provide a single, consolidated place across VA where a veteran can easily find high-level information about facilities and basic benefit eligibility 
 
-**Roadmap:**  
-(TBD) 
+**Roadmap**
+*Updated November 2019*
 
+![Roadmap Visual](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Facility%20Locator%20Roadmap%20(WIP).png)
 ________________________________________
 
 **Team Members**
@@ -29,7 +30,7 @@ ________________________________________
 - VA UI Design Lead: Ryan
 - UX/Design: Aricka Lewis
 - Eng Lead:
-- Back End Engineer: Justin Ellis
+- Back End Engineer: Lance Sanchez
 - Front End Engineer: Gilbran Rodriguez
 - VA Researcher(s): 
 - DevOps Engineer: Cameron Testerman
@@ -107,4 +108,5 @@ DevOps: https://drive.google.com/drive/u/1/folders/1Jyolzp_e1J1GmNGtfdN0YkMyTY8V
 Labels: 
 - vsa-devops
 - vsa-qa
+- vsa-facilities
 

@@ -1,8 +1,8 @@
-# Redirect Implementation Strategy [DRAFT]
+# Redirect Implementation Strategy
 
-Created by: Mikki Northuis, Megan Kelley, Wyatt Walter, Nick Sullivan
+Last update: 11/26/19
 
-Last updated: 11/20/19
+_Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
 
 ---
 
@@ -59,7 +59,7 @@ _How does this work technically?_
 - Note that redirects get pushed out with deployment of “revproxy” — different schedule from vets-website.
 
 _What team is responsible?_
-- Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed.
+- Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is VSA Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
 
 _Any other notes_
 - Level of difficulty: low
@@ -70,6 +70,7 @@ _When to do this?_
 - We shouldn’t do this, because server-side redirects are the preferred method and we have the technical ability to always do these server-side. If this type of redirect comes up, consult VSP Ops and VSA Public Websites for instruction.
 
 _How does this work technically?_
+- N/A
 
 _What team is responsible?_
 - VSP Ops and VSA Public Websites to provide expertise if this comes up because it shouldn’t need to exist.
@@ -105,7 +106,7 @@ _How does this work technically?_
 - [Vets-website domains list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json) (This is a list of domains that load our header/footer, but is not comprehensive of domains that load our JavaScript).
 - [Client-side redirects file](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/redirects/disabilityRedirects.json)
 
-1. A request comes in for benefits.va.gov, which lives on a server located on Mars
+1. A request comes in for benefits.va.gov
 2. The page at benefits.va.gov is returned to the user's browser
 3. The page begins loading, including downloading images, and JavaScript files
 4. Our JavaScript code for rendering the WBC header/footer is loaded into the user's browser
@@ -115,10 +116,11 @@ _How does this work technically?_
    - Otherwise, do nothing. Just let the page render as usual.
 
 _What team is responsible?_
-- Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed.
+- Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is VSA Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
 
 _Any other notes_
-- This is not ideal, as it depends on our JavaScript running correctly in order for a user to be redirected properly. It also depends on the legacy page staying live (we suspect the legacy page can be archived but not deleted from TeamSite; that needs to be validated). Should be considered temporary solution.
+- This is not ideal, as it depends on our JavaScript running correctly in order for a user to be redirected properly. It also depends on the legacy page staying live. Should be considered temporary solution.
+- In November 2019, Public Websites team worked with TeamSite stakeholder Sandy Tadeo to test archiving a TeamSite page that had a client side redirect on it. The result was that sometimes the page would load a 404 for the user before redirecting. As a result of this test, the team determined **not** to move forward with archiving redirected TeamSite pages. Instead, Public Websites will implement the client side redirect, with additional ask of VA stakeholder to: A) Replace their page content with a 'redirect' message and B) Update their print materials and nav links with the new URL
 - Level of difficulty: low
 
 
@@ -127,8 +129,9 @@ _Any other notes_
 ## Areas to refine/things to do
 
 - Improve the redirect process from non-www. subdomains such that server-side redirects can be the default.
-- Make contacts and relationships with TeamSite engineers to explore how to archive or delete legacy pages so that content editors don’t continue to update them.
-- Find out what happens when a TeamSite page with a client-side redirect to www.va.gov/ is archived or deleted.
+- Make contacts and relationships with TeamSite engineers ~to explore how to archive or delete legacy pages so that content editors don’t continue to update them.~
+- ~Find out what happens when a TeamSite page with a client-side redirect to www.va.gov/ is archived or deleted.~
+- _Above points (crossed out) have been tested 11/19, we won't be deleting or archiving, see full details above under "4) Client-side redirects for non-www. subdomains - Any other notes"_
 - Consider using welcome modals for cases where an entire subdomain is redirected. Explore.va.gov does this via [query parameter](https://www.va.gov/?from=explore.va.gov).
 - Gain a better understanding of analytics and SEO impacts of implementing and changing redirects.
 - Implement server-side www.va.gov/ redirects in Drupal CMS.

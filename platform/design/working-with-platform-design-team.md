@@ -1,4 +1,5 @@
 # Working with the Platform Design Team
+(this is a work in progress doc: things are likely to change. This should be in tip top shape by Jan 2020)
 
 ## Working with the Veteran-facing Services Platform (VSP) Design Team
 This document helps all teams working on VA.gov understand when you should engage VSP design resources for collaboration, design review, and support. All teams building on the VA.gov platform must follow VA.gov design best practices and guidelines in order to provide Veterans with an excellent customer experience. Working with the VSP design team helps ensure that we maintain consistent design language that supports the best Veteran user experience across the site.

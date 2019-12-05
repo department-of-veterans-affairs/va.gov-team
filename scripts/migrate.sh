@@ -80,7 +80,7 @@ CSV.foreach(ARGV[0], headers: true) do |row|
     puts "....updating original file with deprecation notice"
     if source.ext == ".md"
         text = File.read(source.copy_path)
-        new_contents = "# This file is deprecated. The most recent information should be at #{TargetContent::CONTENT_URL}#{target.path}\n\n" + text
+        new_contents = "# This file is deprecated. The most recent information should be at #{TargetContent::CONTENT_URL}#{target.full_path}\n\n" + text
             File.open(source.copy_path, "w") { |f| f.puts new_contents }
     end
 end

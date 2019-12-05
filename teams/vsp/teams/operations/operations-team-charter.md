@@ -19,7 +19,7 @@ Provide reliable infrastructure, secure access controls, and CI/CD tooling to al
 |Infrastructure | Networking, Servers| 
 |CI/CD pipeline | Jenkins, Ansible, Configuration, BRD (Build, Deploy, Release) |  
 |Monitoring and Alerting | Prometheus, Grafana, Cloudwatch, Infrastructure Postmortems, Infrastructure oncall/ Incident Response, PagerDuty Account Management| 
-|Configuration Management/Automation| Environments (Prod, Staging, Dev), Terraform|
+|Configuration Management/Automation| Environments (Prod, Staging, Dev), Terraform, Atlantis|
 |Access Management (VA.gov)|Github Teams, SOCKS Proxy, Jumpboxes|
 |Environment connectivity|AWS / VAEC, Forward Proxy, Reverse Prox| 
 |Technical Compliance Issues|Nessus and WASA scans, Ensuring compliance with documentation, SSL configuration|

@@ -9,9 +9,11 @@ assignees: ''
 
 ## Product/Feature Summary
 
-[Provide brief summary of product/feature to be tested on Staging by VSA-QA. Also, be sure to link to the Product/Feature Epic.]
+[Provide brief summary of product/feature to be tested on Staging by VSA-QA. Also, be sure to include links to the Product/Feature Outline, Epic, and Pre-Launch Checklist.]
 
 Product/Feature Outline: [provide link]
+Product/Feature Epic: [provide link]
+Product/Feature Pre-Launch Checklist: [provide link, if separate from Epic]
 
 ## Proposed Scenarios
 

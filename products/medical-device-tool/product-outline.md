@@ -8,10 +8,13 @@ Product Outline
 - Product POCs:
   - Matthew Self, DEPO Lead
   - Nick Wygoink, BAM2 Product Manager
+
 - Stakeholders:
+  - Pat Booth – Chief, Veteran Services Division (VSD)
+  - Jeff Robillard – Supervisor, Customer Service Section (one of two sections within VSD)
+  - Jim Richardson – Senior Developer
   - Shane Elliot, Associate Director, Loma Linda VA Healthcare System
   - Paras Shah, VEText Project Manager
-  - Robert Durkin, ?
 
 ## Background
 DEPO, working in coordination with VBA, began an ambitious project to modernize the VA's digital benefits delivery process. Practically, this is taking the form of a migration of functionality from the current platform, eBenefits (http://www.ebenefits.va.gov), to the modern web platform of the future, VA.gov (http://www.va.gov).
@@ -32,53 +35,64 @@ Alex Y., our former deputy-CTO, sent the following:
 Millions of Veterans depend upon the VA for disability-related medical devices and their accessories. Today, Veterans are able to order **prosthetic socks** and **hearing aid batteries**, the two most commonly-ordered medical device accessories, through their respective VA forms (Form 2345 & 2346). There are a number of ways to request these medical devices today, through several different mediums and platforms, providing a disparate experience for Veterans. With the expected sunsetting of eBenefits, BAM2 seeks to match and expand the functionality of the platform on the VA.gov website.
 
 ### User Problem Statement
-As a Veteran, I want to be able to easily order the medical devices I need for my disability. 
+As a Veteran, I want to be able to easily order the medical devices I need for my disability in one place.
 
 ## Discovery
 
-### User Goals
+### User Goals (Assumed)
 - Veterans:
-  - Order **hearing aid batteries** or **prosthetic socks** from the VA
+  - Recieve **hearing aid batteries** or **prosthetic socks** from the VA _Denver Logistic Company_
+  - Spend less time and energy placing orders for batteries and socks  
 
 - VHA Providers:
-
   - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
 
-- DALC Employees:
-  - Enter in orders from Vets via phone, mail, or email
+- DLC Employees:
+  - Enter in orders from Vets via phone: call center & automatided, mail, or email
 
 - Manufacturing Company:
    - TBD  
 
-- VA Managers
-  - TBD
+- VA/DLC Managers
+  - To migrate orders from Veterans to the online channel and away from the other channels proved (Automated phone service, Call center services, Mail in leaflet, and email)
+  - To allow veterans to order the DLC's full catalogue through the online ordering channel
   
-### User Pain Points
+### Veteran's Pain Points (Assumed)
 - Veterans:
   - They are required to manually order the same item many times
-  - There are many methods to ordering devices
+  - There are too many methods to ordering devices
+  - There are too many locations for obtaining the items they need (e.g. pharmeceuticals in MyHealtheVet and socks in eBenefits)
 
-### Business Goals
-- To provide Veterans with the ability to order **hearing aid batteries** or **prosthetic socks** online once eBenefits is sunsetted.
-- (??) To reduce the number of order-related errors
+### Business Goals (Assumed)
+- Fiscal 2020 our team is looking at focusing on migrating eBenefits medical tool to VA.gov 
+- Increase volume of online orders by migrating existing user to the online ordering channel.
+- To reduce the number of order-related errors
 
 ## Assumptions
 
+
 ## Questions
 - Who "owns" the Medical device ordering "portfolio"?
-- We've heard that hearing aid batteries and prosthetic socks are available, what else is offered? Data on the volume/timing of orders for each available product?
+  - **DLC has their own IT division that handles all of the systems and data**
+- We've heard that hearing aid batteries and prosthetic socks are available, what else is offered? 
+  - **Many other items are available through DLC, but not by direct order from Veterans due to their complexity. An upcoming product that may benefit from a similar resupply treatment is apnea machines.**
+- Data on the volume/timing of orders for each available product?
 - How are orders processed? How long does processing take? How is the order fulfilled? Order received on paper vs. eBenefits?
+  - **For regular orders (including all eBenefits orders), processing typically takes one business day. Urgent orders are often processed same-day.**
+  - **Orders are shipped via UPS Worldship**
 - What issues do Veterans encounter trying to use the eBenefits ordering form?
 - What is https://hearing.health.mil/For-Providers/DoD-VA-Hearing-Prosthetics-Ordering-System? How does it fit? Who uses it? Audiologists? Veterans? Both?
-- The page above references Audiologists, but includes a link to https://www.va.gov/eauth/roes/, which seems to target Veterans; what's the difference between the pages/systems/processes?
+  - **ROES is an application owned by the DLC, used by clinicians to place orders for their Veteran patients. Veterans have access to a separate application that sits on top of ROES, called VOES, which can be seen via iframe on eBenefits.**
 - Heard there may be an API; what's the story there?
 - Tell us about VEText; how does it fit in?
 - How can we get access to a non-production instance of the tool on eBenefits?
 
 ## Requirements
 #### In Scope
+- Migrating current Medical Device tool from eBenefits to Va.gov
 
 #### Out of Scope
+- Incorporating the larger DLC catalogue items to VA.gov
 
 ## Solution Approach
 
@@ -93,7 +107,7 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 # Implementation Info
 
 ## Status
-Definition in-progress
+Discovery in-progress
 
 ## Technical Decisions
 
@@ -103,13 +117,13 @@ Definition in-progress
 
 - DEPO Digital Strategist(s): Matthew Self
 - Product Manager: Nick Wygoink
-- Design Lead: 
-- Eng Lead: 
-- Engineers: Amen Ra (FE), Joseph Brothers (BE)
+- Design Lead: Shawna Hein
+- Eng Lead: Joe Costa
+- Engineers: Amen Ra (FE), Mahariel Rosario (FE), Joseph Brothers (BE)
 - Designers: Rebecca Walsh, Riley Orr
    
 ## Screenshots
-
+Mural board [LINK] (https://app.mural.co/t/vsa8243/m/vsa8243/1574363101745/48437699b80471a20330c14fbaedca02b040e9ff)
 ### Before
 
 ### After

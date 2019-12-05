@@ -1,3 +1,39 @@
+# 20191204 - Wed 
+
+## Agenda 
+- roundtable on code quality 
+  - what constitutes high quality code? 
+  - what are the qualities of maintainable code? 
+  
+# Notes
+- chris: 
+  - thinks he reviews too thoroughly 
+  - had to upgrade the appeals app (v1 -> v2) 
+    - appeals app not documented- had to experiment to figure out functionality 
+  - VFS teams are focused on shipping code as fast as possible (wrong incentives)- different goals from platform
+- *documentation is key when no subject matter experts available* 
+  - examples of good documentation: forms library (in the past), cookbook (examples of common use cases), Google material UI (code examples, live code, easy to copy and paste and just get it working) https://material-ui.com/, launch darkly (easy to prototype - built around prototyping functionality to help understand it), VA design system (people are not using the design system- don't know why), 
+  - document the documentation- not socializing available documentation
+  - documentation out of date 
+- what are the qualities of maintainable code? 
+  - testing coverage- maybe enforce it with code climate 
+    - code climate isn't working (or we need training) 
+    - only make changes to changed code? 
+  - how do we know they're meaningful tests? 
+  - require teams to write end to end tests 
+- maintainability is about keeping things simple 
+  - opinions on usage of frameworks (e.g. how to use react idiomatically, how to make async calls) 
+  - build patterns
+  - being able to spin up sites quickly 
+  - 
+- tools:
+  - https://sonarcloud.io/about
+  - https://snyk.io/product/
+- next time:
+  - dig into specific examples 
+  
+  
+
 # 20191106 - Wed 
 
 ## Agenda

@@ -26,7 +26,11 @@ After your onboarding, please check out these resources:
 
 2. [Rules of Engagement - Requesting Analytics Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-request-review.md)
 
-3. Implementing Google Analytics Tracking - Coming Soon
+3. [Build Process - Tracking Pageviews and Events](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/build-process-measuring-pageviews-and-events.md)
+
+4. [Build Process - Tracking Common User Interactions for Outbound Links, Downloads, and Login](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/tracking-common-user-actions.md)
+
+5. [Build Process - Data Dictionary for Tracking Events in Multi-Step Forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/data-dictionary-form-events.md)
 
 #### Tracking Success in Google Analytics
 

@@ -40,7 +40,7 @@ Required if your school has 20 or more GI Bill students
 [VA-ONCE Quick Reference Guide >](https://www.benefits.va.gov/GIBILL/docs/vaonce/VAONCEguide.pdf)  
 [Find your Education Liaison Representative (ELR) >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/elr.asp)   
 [Training webinars >](https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/presentations.asp)     
-[WEAMS Public >](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)     
+[WEAMS >](https://inquiry.vba.va.gov/weamspub/buildSearchInstitutionCriteria.do)     
 [Benefits A to Z >](https://benefits.va.gov/atoz/)   
 [Check your status as a covered institution >](https://www.benefits.va.gov/GIBILL/resources/education_resources/school_certifying_officials/Covered_Institutions.asp)**   
 

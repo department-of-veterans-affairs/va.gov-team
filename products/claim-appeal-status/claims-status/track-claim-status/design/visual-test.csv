@@ -1,0 +1,37 @@
+Screen Name,Prototype,Details,mobile,tablet,desktop
+Claim status is unavailable,https://marvelapp.com/2dh4dia/screen/15301010,,,,
+List-Regular, https://marvelapp.com/2dh4dia/screen/15297519,,,,
+List-if 0 claims,https://marvelapp.com/2dh4dia/screen/15306428,can't emulate but looked at screenshot,n/a,n/a,n/a
+List-consolidated claim modal, https://github.com/department-of-veterans-affairs/sunsets-team/issues/101,,,1st pass done,1st pass done
+Status-new claim (w/'we're adding your details @top),https://marvelapp.com/2dh4dia/screen/15297473,,,,
+Status-step1 active,,,,,
+Status-step2 active,,,,,
+Status-step3 active (w/multiple files needed),https://marvelapp.com/2dh4dia/screen/15297472,,,,
+Status-step4 active,,,,,
+Status-step5 active (w/'your claim decision is ready' alert),https://marvelapp.com/2dh4dia/screen/15297474,,,,
+Status-AskVA active & not submitted,,,,,
+Status-AskVA after submitted,,,,,
+Status-w/more than 4 claimed conditions (to see truncation),,,,,
+Status-consolidated claim message-open,https://marvelapp.com/2dh4dia/screen/15829722,,,,
+Status-consolidated claim message-closed,https://marvelapp.com/2dh4dia/screen/15829721,,,,
+Status-estimated date info,https://marvelapp.com/2dh4dia/screen/15679867 (link to new copy needed),,,,
+Files-list (w/multiple file requests and requests from others and turn in more),https://marvelapp.com/2dh4dia/screen/15297490,,,,
+Files-list (w/overdue file request),,,,,
+Files-list (w/0 documents filed),https://marvelapp.com/2dh4dia/screen/15297492,,,,
+Files-list (w/docs uploaded but not reviewed and reviewed),,,,,
+Files-list (w/0 file requests),https://marvelapp.com/2dh4dia/screen/15297492,,,,
+Files-list (after Ask VA has been submitted),https://marvelapp.com/2dh4dia/screen/15297492,,,,
+Files-upload-regular,https://marvelapp.com/2dh4dia/screen/15297491,,,,
+Files-upload-submit with no files attached,https://marvelapp.com/2dh4dia/screen/15297497,,,1st pass,1st pass
+Files-upload-doctype selection error,https://marvelapp.com/2dh4dia/screen/15297496,,,,
+Files-upload-after multiple files uploaded,https://marvelapp.com/2dh4dia/screen/15297495,,,,
+Files-upload-fax instructions,https://marvelapp.com/2dh4dia/screen/15297502,,,done,done
+Files-upload-upload progress bar,https://marvelapp.com/2dh4dia/screen/15297500,,,done,done
+Files-upload error msg,https://marvelapp.com/2dh4dia/screen/15300483,,,done,done
+Files-list-upload successful msg & moves to filed section,https://marvelapp.com/2dh4dia/screen/15297501,,,,
+Files-upload-from others,https://marvelapp.com/2dh4dia/screen/15336880,,,,
+Files-upload-turn in more evidence,https://marvelapp.com/2dh4dia/screen/15297510,,,,
+Details-regular,https://marvelapp.com/2dh4dia/screen/15297476,,,1st pass done,1st pass done
+
+
+

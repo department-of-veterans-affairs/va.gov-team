@@ -13,7 +13,7 @@ Questions? Contact Shawna Hein (shawna@adhocteam.us).
 - [Other Resources](#resources)
 
 ## <a id="process"></a>VA.gov Base Process
-There is a basic process we should use when planning and implementing research within the VSA contract.  DSVA’s updated process document can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/June2019_updated_research_process.md). Please read that process doc first and then read the rest of this one for more tips/details.
+There is a basic process we should use when planning and implementing research within the VSA contract.  DSVA’s updated process document can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md). Please read that process doc first and then read the rest of this one for more tips/details.
 
 ## <a id="setup"></a>Setup
 Make sure to create a folder in github under whatever “feature/flow” you’re working on E.g. “UrgentCare/Research/June-2019-Usability-Test/”  Where you can store you research plan, conversation guide, notes, and final results.  Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
@@ -35,14 +35,15 @@ If you want to use Perigean (and we usually do), contact Lauren Alexanderson, te
 Note: please cc Andre Zwilling of GCIO to your communication to Lauren so he knows a research session is happening.
 Once Lauren has approved your plan, please add the line “This plan was reviewed and approved by Lauren Alexanderson on xx/xx/2019” at the bottom of the plan itself on Github
 
-Veterans often will not show up to sessions. Try to schedule 1.5X more people than you need, with the expectation that people will not show.
+Veterans often will not show up to sessions. Try to schedule 1.5X more people than you need, with the expectation that people will not show. Interestingly, evening slots usually get about 10 percent fewer no shows if you are running short on time / really need people to show up.
+
 To talk to stakeholders or VA employees that are working on the other side of the forms, we should go through our stakeholders.  Note that it’s fine to go casually talk to VA employees as long as we aren’t paying them.  
 
 ## <a id="pilot-sessions"></a> Pilot / Test Session
 You should run a pilot/test session before your study. This session should be done with Perigeon so you go through the process of logging in for the first (or fortieth) time, get any kinks worked out, and understand how to hand off mouse controls or have a participant show their screen in the practice run.  Reach out to VSP to help coordinate the pilot.
 
 ## <a id="taking-notes"></a> Taking Notes
-* Since we have to be so careful with recordings, we expect you to have a colleague that is taking verbatim notes during the session. This can be another designer, or another member of your team. Perigean will also take verbatim notes for your project, if requested.
+* Since we have to be so careful with recordings, we expect you to assign a colleague to take verbatim notes during the session. This can be another designer, or another member of your team. Perigean will also take verbatim notes for your project, if requested - but you must request this at the beginning of the study.
 * [Guidance on notetaking can be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/How-to-take-session-notes.md)
 * We recommend creating a “notes” file within your github folder and storing each session as an .md document.  We recommend copying the conversation guide over to your .md file beforehand  so it’s easier to take notes.
 * Make sure to scrub your notes of all PII before uploading to Github
@@ -60,7 +61,7 @@ You should run a pilot/test session before your study. This session should be do
 [Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/what-to-do-with-recordings.md) 
 
 ## <a id="running-sessions"></a>Running the Sessions
-* You may hear hard stories from veterans.  It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up.
+* You may hear hard stories from veterans.  It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up. It is not necessary or very helpful to dig deeply into folks' trauma, however. The best attitude when in doubt is a middle ground where you show compassion but then move on to whatever you need to get covered in a graceful way.  E.g. "that sounds so hard. [back to script] Could you tell me a bit more about your experience applying for that benefit?"
 * Make sure to ask open-ended questions and avoid Yes/No prompts. 
 * Follow-up with “Why?” and “Tell me more” if the user has given you a short statement / not enough information
 * Avoid saying "Thank you for your service" to Veterans, as some have a negative association with that phrase
@@ -100,5 +101,5 @@ Some resources are also pinned to the #va-vsa-ux channel.
 * We have a research calendar where all research sessions w/ Perigean are posted. Message Lauren to get that calendar on yours.
 * We have the use of Optimal Workshop through DSVA if we want to do card sorting or IA tree testing or things of that nature. Message Lauren if you want access.
 * DSVA research folder https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research
-* History of past research https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md
+* History of past research https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md
 * Research plan template https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md

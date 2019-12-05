@@ -1,0 +1,742 @@
+<NS1:Envelope xmlns:NS1="http://www.w3.org/2003/05/soap-envelope">
+  <NS1:Header>
+    <NS2:essResponseCode xmlns:NS2="http://va.gov/ess/message/v1">Success</NS2:essResponseCode>
+    <NS3:inputHeaderInfo xmlns:NS3="http://viers.va.gov/cdi/CDI/commonService/v1">
+      <NS3:userId>SCH</NS3:userId>
+      <NS3:sourceSystemName>VRS</NS3:sourceSystemName>
+      <NS3:transactionId>123</NS3:transactionId>
+    </NS3:inputHeaderInfo>
+  </NS1:Header>
+  <NS1:Body>
+    <NS4:eMISreserveDrillDaysResponse xmlns:NS4="http://viers.va.gov/cdi/eMIS/RequestResponse/Payment/v1">
+      <NS5:reserveDrillDays xmlns:NS5="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS6:edipi xmlns:NS6="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS6:edipi>
+        <NS7:keyData xmlns:NS7="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS7:personnelOrganizationCode>51</NS7:personnelOrganizationCode>
+          <NS7:personnelCategoryTypeCode>N</NS7:personnelCategoryTypeCode>
+          <NS7:personnelSegmentIdentifier>1</NS7:personnelSegmentIdentifier>
+        </NS7:keyData>
+        <NS8:reserveDrillDaysData xmlns:NS8="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS8:reserveDrillSegmentIdentifier>52</NS8:reserveDrillSegmentIdentifier>
+          <NS8:reserveActiveDutyMonthlyCurrentPaidDays>0</NS8:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS8:reserveDrillMonthlyCurrentPaidDays>4</NS8:reserveDrillMonthlyCurrentPaidDays>
+          <NS8:reserveDrillCurrentMonthlyPaidDate>2012-01-31</NS8:reserveDrillCurrentMonthlyPaidDate>
+        </NS8:reserveDrillDaysData>
+      </NS5:reserveDrillDays>
+      <NS9:reserveDrillDays xmlns:NS9="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS10:edipi xmlns:NS10="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS10:edipi>
+        <NS11:keyData xmlns:NS11="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS11:personnelOrganizationCode>51</NS11:personnelOrganizationCode>
+          <NS11:personnelCategoryTypeCode>N</NS11:personnelCategoryTypeCode>
+          <NS11:personnelSegmentIdentifier>1</NS11:personnelSegmentIdentifier>
+        </NS11:keyData>
+        <NS12:reserveDrillDaysData xmlns:NS12="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS12:reserveDrillSegmentIdentifier>51</NS12:reserveDrillSegmentIdentifier>
+          <NS12:reserveActiveDutyMonthlyCurrentPaidDays>0</NS12:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS12:reserveDrillMonthlyCurrentPaidDays>4</NS12:reserveDrillMonthlyCurrentPaidDays>
+          <NS12:reserveDrillCurrentMonthlyPaidDate>2011-12-31</NS12:reserveDrillCurrentMonthlyPaidDate>
+        </NS12:reserveDrillDaysData>
+      </NS9:reserveDrillDays>
+      <NS13:reserveDrillDays xmlns:NS13="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS14:edipi xmlns:NS14="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS14:edipi>
+        <NS15:keyData xmlns:NS15="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS15:personnelOrganizationCode>51</NS15:personnelOrganizationCode>
+          <NS15:personnelCategoryTypeCode>N</NS15:personnelCategoryTypeCode>
+          <NS15:personnelSegmentIdentifier>1</NS15:personnelSegmentIdentifier>
+        </NS15:keyData>
+        <NS16:reserveDrillDaysData xmlns:NS16="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS16:reserveDrillSegmentIdentifier>50</NS16:reserveDrillSegmentIdentifier>
+          <NS16:reserveActiveDutyMonthlyCurrentPaidDays>0</NS16:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS16:reserveDrillMonthlyCurrentPaidDays>6</NS16:reserveDrillMonthlyCurrentPaidDays>
+          <NS16:reserveDrillCurrentMonthlyPaidDate>2011-11-30</NS16:reserveDrillCurrentMonthlyPaidDate>
+        </NS16:reserveDrillDaysData>
+      </NS13:reserveDrillDays>
+      <NS17:reserveDrillDays xmlns:NS17="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS18:edipi xmlns:NS18="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS18:edipi>
+        <NS19:keyData xmlns:NS19="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS19:personnelOrganizationCode>51</NS19:personnelOrganizationCode>
+          <NS19:personnelCategoryTypeCode>N</NS19:personnelCategoryTypeCode>
+          <NS19:personnelSegmentIdentifier>1</NS19:personnelSegmentIdentifier>
+        </NS19:keyData>
+        <NS20:reserveDrillDaysData xmlns:NS20="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS20:reserveDrillSegmentIdentifier>49</NS20:reserveDrillSegmentIdentifier>
+          <NS20:reserveActiveDutyMonthlyCurrentPaidDays>0</NS20:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS20:reserveDrillMonthlyCurrentPaidDays>6</NS20:reserveDrillMonthlyCurrentPaidDays>
+          <NS20:reserveDrillCurrentMonthlyPaidDate>2011-10-31</NS20:reserveDrillCurrentMonthlyPaidDate>
+        </NS20:reserveDrillDaysData>
+      </NS17:reserveDrillDays>
+      <NS21:reserveDrillDays xmlns:NS21="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS22:edipi xmlns:NS22="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS22:edipi>
+        <NS23:keyData xmlns:NS23="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS23:personnelOrganizationCode>51</NS23:personnelOrganizationCode>
+          <NS23:personnelCategoryTypeCode>N</NS23:personnelCategoryTypeCode>
+          <NS23:personnelSegmentIdentifier>1</NS23:personnelSegmentIdentifier>
+        </NS23:keyData>
+        <NS24:reserveDrillDaysData xmlns:NS24="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS24:reserveDrillSegmentIdentifier>48</NS24:reserveDrillSegmentIdentifier>
+          <NS24:reserveActiveDutyMonthlyCurrentPaidDays>0</NS24:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS24:reserveDrillMonthlyCurrentPaidDays>4</NS24:reserveDrillMonthlyCurrentPaidDays>
+          <NS24:reserveDrillCurrentMonthlyPaidDate>2011-09-30</NS24:reserveDrillCurrentMonthlyPaidDate>
+        </NS24:reserveDrillDaysData>
+      </NS21:reserveDrillDays>
+      <NS25:reserveDrillDays xmlns:NS25="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS26:edipi xmlns:NS26="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS26:edipi>
+        <NS27:keyData xmlns:NS27="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS27:personnelOrganizationCode>51</NS27:personnelOrganizationCode>
+          <NS27:personnelCategoryTypeCode>N</NS27:personnelCategoryTypeCode>
+          <NS27:personnelSegmentIdentifier>1</NS27:personnelSegmentIdentifier>
+        </NS27:keyData>
+        <NS28:reserveDrillDaysData xmlns:NS28="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS28:reserveDrillSegmentIdentifier>47</NS28:reserveDrillSegmentIdentifier>
+          <NS28:reserveActiveDutyMonthlyCurrentPaidDays>0</NS28:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS28:reserveDrillMonthlyCurrentPaidDays>4</NS28:reserveDrillMonthlyCurrentPaidDays>
+          <NS28:reserveDrillCurrentMonthlyPaidDate>2011-07-31</NS28:reserveDrillCurrentMonthlyPaidDate>
+        </NS28:reserveDrillDaysData>
+      </NS25:reserveDrillDays>
+      <NS29:reserveDrillDays xmlns:NS29="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS30:edipi xmlns:NS30="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS30:edipi>
+        <NS31:keyData xmlns:NS31="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS31:personnelOrganizationCode>51</NS31:personnelOrganizationCode>
+          <NS31:personnelCategoryTypeCode>N</NS31:personnelCategoryTypeCode>
+          <NS31:personnelSegmentIdentifier>1</NS31:personnelSegmentIdentifier>
+        </NS31:keyData>
+        <NS32:reserveDrillDaysData xmlns:NS32="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS32:reserveDrillSegmentIdentifier>46</NS32:reserveDrillSegmentIdentifier>
+          <NS32:reserveActiveDutyMonthlyCurrentPaidDays>15</NS32:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS32:reserveDrillMonthlyCurrentPaidDays>0</NS32:reserveDrillMonthlyCurrentPaidDays>
+          <NS32:reserveDrillCurrentMonthlyPaidDate>2011-06-30</NS32:reserveDrillCurrentMonthlyPaidDate>
+        </NS32:reserveDrillDaysData>
+      </NS29:reserveDrillDays>
+      <NS33:reserveDrillDays xmlns:NS33="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS34:edipi xmlns:NS34="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS34:edipi>
+        <NS35:keyData xmlns:NS35="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS35:personnelOrganizationCode>51</NS35:personnelOrganizationCode>
+          <NS35:personnelCategoryTypeCode>N</NS35:personnelCategoryTypeCode>
+          <NS35:personnelSegmentIdentifier>1</NS35:personnelSegmentIdentifier>
+        </NS35:keyData>
+        <NS36:reserveDrillDaysData xmlns:NS36="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS36:reserveDrillSegmentIdentifier>45</NS36:reserveDrillSegmentIdentifier>
+          <NS36:reserveActiveDutyMonthlyCurrentPaidDays>0</NS36:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS36:reserveDrillMonthlyCurrentPaidDays>4</NS36:reserveDrillMonthlyCurrentPaidDays>
+          <NS36:reserveDrillCurrentMonthlyPaidDate>2011-05-31</NS36:reserveDrillCurrentMonthlyPaidDate>
+        </NS36:reserveDrillDaysData>
+      </NS33:reserveDrillDays>
+      <NS37:reserveDrillDays xmlns:NS37="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS38:edipi xmlns:NS38="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS38:edipi>
+        <NS39:keyData xmlns:NS39="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS39:personnelOrganizationCode>51</NS39:personnelOrganizationCode>
+          <NS39:personnelCategoryTypeCode>N</NS39:personnelCategoryTypeCode>
+          <NS39:personnelSegmentIdentifier>1</NS39:personnelSegmentIdentifier>
+        </NS39:keyData>
+        <NS40:reserveDrillDaysData xmlns:NS40="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS40:reserveDrillSegmentIdentifier>44</NS40:reserveDrillSegmentIdentifier>
+          <NS40:reserveActiveDutyMonthlyCurrentPaidDays>0</NS40:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS40:reserveDrillMonthlyCurrentPaidDays>4</NS40:reserveDrillMonthlyCurrentPaidDays>
+          <NS40:reserveDrillCurrentMonthlyPaidDate>2011-04-30</NS40:reserveDrillCurrentMonthlyPaidDate>
+        </NS40:reserveDrillDaysData>
+      </NS37:reserveDrillDays>
+      <NS41:reserveDrillDays xmlns:NS41="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS42:edipi xmlns:NS42="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS42:edipi>
+        <NS43:keyData xmlns:NS43="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS43:personnelOrganizationCode>51</NS43:personnelOrganizationCode>
+          <NS43:personnelCategoryTypeCode>N</NS43:personnelCategoryTypeCode>
+          <NS43:personnelSegmentIdentifier>1</NS43:personnelSegmentIdentifier>
+        </NS43:keyData>
+        <NS44:reserveDrillDaysData xmlns:NS44="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS44:reserveDrillSegmentIdentifier>43</NS44:reserveDrillSegmentIdentifier>
+          <NS44:reserveActiveDutyMonthlyCurrentPaidDays>0</NS44:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS44:reserveDrillMonthlyCurrentPaidDays>6</NS44:reserveDrillMonthlyCurrentPaidDays>
+          <NS44:reserveDrillCurrentMonthlyPaidDate>2011-03-31</NS44:reserveDrillCurrentMonthlyPaidDate>
+        </NS44:reserveDrillDaysData>
+      </NS41:reserveDrillDays>
+      <NS45:reserveDrillDays xmlns:NS45="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS46:edipi xmlns:NS46="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS46:edipi>
+        <NS47:keyData xmlns:NS47="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS47:personnelOrganizationCode>51</NS47:personnelOrganizationCode>
+          <NS47:personnelCategoryTypeCode>N</NS47:personnelCategoryTypeCode>
+          <NS47:personnelSegmentIdentifier>1</NS47:personnelSegmentIdentifier>
+        </NS47:keyData>
+        <NS48:reserveDrillDaysData xmlns:NS48="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS48:reserveDrillSegmentIdentifier>42</NS48:reserveDrillSegmentIdentifier>
+          <NS48:reserveActiveDutyMonthlyCurrentPaidDays>0</NS48:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS48:reserveDrillMonthlyCurrentPaidDays>4</NS48:reserveDrillMonthlyCurrentPaidDays>
+          <NS48:reserveDrillCurrentMonthlyPaidDate>2011-01-31</NS48:reserveDrillCurrentMonthlyPaidDate>
+        </NS48:reserveDrillDaysData>
+      </NS45:reserveDrillDays>
+      <NS49:reserveDrillDays xmlns:NS49="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS50:edipi xmlns:NS50="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS50:edipi>
+        <NS51:keyData xmlns:NS51="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS51:personnelOrganizationCode>51</NS51:personnelOrganizationCode>
+          <NS51:personnelCategoryTypeCode>N</NS51:personnelCategoryTypeCode>
+          <NS51:personnelSegmentIdentifier>1</NS51:personnelSegmentIdentifier>
+        </NS51:keyData>
+        <NS52:reserveDrillDaysData xmlns:NS52="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS52:reserveDrillSegmentIdentifier>41</NS52:reserveDrillSegmentIdentifier>
+          <NS52:reserveActiveDutyMonthlyCurrentPaidDays>2</NS52:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS52:reserveDrillMonthlyCurrentPaidDays>4</NS52:reserveDrillMonthlyCurrentPaidDays>
+          <NS52:reserveDrillCurrentMonthlyPaidDate>2010-12-31</NS52:reserveDrillCurrentMonthlyPaidDate>
+        </NS52:reserveDrillDaysData>
+      </NS49:reserveDrillDays>
+      <NS53:reserveDrillDays xmlns:NS53="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS54:edipi xmlns:NS54="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS54:edipi>
+        <NS55:keyData xmlns:NS55="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS55:personnelOrganizationCode>51</NS55:personnelOrganizationCode>
+          <NS55:personnelCategoryTypeCode>N</NS55:personnelCategoryTypeCode>
+          <NS55:personnelSegmentIdentifier>1</NS55:personnelSegmentIdentifier>
+        </NS55:keyData>
+        <NS56:reserveDrillDaysData xmlns:NS56="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS56:reserveDrillSegmentIdentifier>40</NS56:reserveDrillSegmentIdentifier>
+          <NS56:reserveActiveDutyMonthlyCurrentPaidDays>30</NS56:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS56:reserveDrillMonthlyCurrentPaidDays>0</NS56:reserveDrillMonthlyCurrentPaidDays>
+          <NS56:reserveDrillCurrentMonthlyPaidDate>2010-11-30</NS56:reserveDrillCurrentMonthlyPaidDate>
+        </NS56:reserveDrillDaysData>
+      </NS53:reserveDrillDays>
+      <NS57:reserveDrillDays xmlns:NS57="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS58:edipi xmlns:NS58="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS58:edipi>
+        <NS59:keyData xmlns:NS59="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS59:personnelOrganizationCode>51</NS59:personnelOrganizationCode>
+          <NS59:personnelCategoryTypeCode>N</NS59:personnelCategoryTypeCode>
+          <NS59:personnelSegmentIdentifier>1</NS59:personnelSegmentIdentifier>
+        </NS59:keyData>
+        <NS60:reserveDrillDaysData xmlns:NS60="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS60:reserveDrillSegmentIdentifier>39</NS60:reserveDrillSegmentIdentifier>
+          <NS60:reserveActiveDutyMonthlyCurrentPaidDays>30</NS60:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS60:reserveDrillMonthlyCurrentPaidDays>0</NS60:reserveDrillMonthlyCurrentPaidDays>
+          <NS60:reserveDrillCurrentMonthlyPaidDate>2010-10-31</NS60:reserveDrillCurrentMonthlyPaidDate>
+        </NS60:reserveDrillDaysData>
+      </NS57:reserveDrillDays>
+      <NS61:reserveDrillDays xmlns:NS61="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS62:edipi xmlns:NS62="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS62:edipi>
+        <NS63:keyData xmlns:NS63="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS63:personnelOrganizationCode>51</NS63:personnelOrganizationCode>
+          <NS63:personnelCategoryTypeCode>N</NS63:personnelCategoryTypeCode>
+          <NS63:personnelSegmentIdentifier>1</NS63:personnelSegmentIdentifier>
+        </NS63:keyData>
+        <NS64:reserveDrillDaysData xmlns:NS64="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS64:reserveDrillSegmentIdentifier>38</NS64:reserveDrillSegmentIdentifier>
+          <NS64:reserveActiveDutyMonthlyCurrentPaidDays>30</NS64:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS64:reserveDrillMonthlyCurrentPaidDays>0</NS64:reserveDrillMonthlyCurrentPaidDays>
+          <NS64:reserveDrillCurrentMonthlyPaidDate>2010-09-30</NS64:reserveDrillCurrentMonthlyPaidDate>
+        </NS64:reserveDrillDaysData>
+      </NS61:reserveDrillDays>
+      <NS65:reserveDrillDays xmlns:NS65="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS66:edipi xmlns:NS66="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS66:edipi>
+        <NS67:keyData xmlns:NS67="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS67:personnelOrganizationCode>51</NS67:personnelOrganizationCode>
+          <NS67:personnelCategoryTypeCode>N</NS67:personnelCategoryTypeCode>
+          <NS67:personnelSegmentIdentifier>1</NS67:personnelSegmentIdentifier>
+        </NS67:keyData>
+        <NS68:reserveDrillDaysData xmlns:NS68="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS68:reserveDrillSegmentIdentifier>37</NS68:reserveDrillSegmentIdentifier>
+          <NS68:reserveActiveDutyMonthlyCurrentPaidDays>30</NS68:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS68:reserveDrillMonthlyCurrentPaidDays>0</NS68:reserveDrillMonthlyCurrentPaidDays>
+          <NS68:reserveDrillCurrentMonthlyPaidDate>2010-08-31</NS68:reserveDrillCurrentMonthlyPaidDate>
+        </NS68:reserveDrillDaysData>
+      </NS65:reserveDrillDays>
+      <NS69:reserveDrillDays xmlns:NS69="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS70:edipi xmlns:NS70="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS70:edipi>
+        <NS71:keyData xmlns:NS71="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS71:personnelOrganizationCode>51</NS71:personnelOrganizationCode>
+          <NS71:personnelCategoryTypeCode>N</NS71:personnelCategoryTypeCode>
+          <NS71:personnelSegmentIdentifier>1</NS71:personnelSegmentIdentifier>
+        </NS71:keyData>
+        <NS72:reserveDrillDaysData xmlns:NS72="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS72:reserveDrillSegmentIdentifier>36</NS72:reserveDrillSegmentIdentifier>
+          <NS72:reserveActiveDutyMonthlyCurrentPaidDays>30</NS72:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS72:reserveDrillMonthlyCurrentPaidDays>0</NS72:reserveDrillMonthlyCurrentPaidDays>
+          <NS72:reserveDrillCurrentMonthlyPaidDate>2010-07-31</NS72:reserveDrillCurrentMonthlyPaidDate>
+        </NS72:reserveDrillDaysData>
+      </NS69:reserveDrillDays>
+      <NS73:reserveDrillDays xmlns:NS73="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS74:edipi xmlns:NS74="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS74:edipi>
+        <NS75:keyData xmlns:NS75="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS75:personnelOrganizationCode>51</NS75:personnelOrganizationCode>
+          <NS75:personnelCategoryTypeCode>N</NS75:personnelCategoryTypeCode>
+          <NS75:personnelSegmentIdentifier>1</NS75:personnelSegmentIdentifier>
+        </NS75:keyData>
+        <NS76:reserveDrillDaysData xmlns:NS76="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS76:reserveDrillSegmentIdentifier>35</NS76:reserveDrillSegmentIdentifier>
+          <NS76:reserveActiveDutyMonthlyCurrentPaidDays>30</NS76:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS76:reserveDrillMonthlyCurrentPaidDays>0</NS76:reserveDrillMonthlyCurrentPaidDays>
+          <NS76:reserveDrillCurrentMonthlyPaidDate>2010-06-30</NS76:reserveDrillCurrentMonthlyPaidDate>
+        </NS76:reserveDrillDaysData>
+      </NS73:reserveDrillDays>
+      <NS77:reserveDrillDays xmlns:NS77="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS78:edipi xmlns:NS78="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS78:edipi>
+        <NS79:keyData xmlns:NS79="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS79:personnelOrganizationCode>51</NS79:personnelOrganizationCode>
+          <NS79:personnelCategoryTypeCode>N</NS79:personnelCategoryTypeCode>
+          <NS79:personnelSegmentIdentifier>1</NS79:personnelSegmentIdentifier>
+        </NS79:keyData>
+        <NS80:reserveDrillDaysData xmlns:NS80="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS80:reserveDrillSegmentIdentifier>34</NS80:reserveDrillSegmentIdentifier>
+          <NS80:reserveActiveDutyMonthlyCurrentPaidDays>30</NS80:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS80:reserveDrillMonthlyCurrentPaidDays>0</NS80:reserveDrillMonthlyCurrentPaidDays>
+          <NS80:reserveDrillCurrentMonthlyPaidDate>2010-05-31</NS80:reserveDrillCurrentMonthlyPaidDate>
+        </NS80:reserveDrillDaysData>
+      </NS77:reserveDrillDays>
+      <NS81:reserveDrillDays xmlns:NS81="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS82:edipi xmlns:NS82="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS82:edipi>
+        <NS83:keyData xmlns:NS83="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS83:personnelOrganizationCode>51</NS83:personnelOrganizationCode>
+          <NS83:personnelCategoryTypeCode>N</NS83:personnelCategoryTypeCode>
+          <NS83:personnelSegmentIdentifier>1</NS83:personnelSegmentIdentifier>
+        </NS83:keyData>
+        <NS84:reserveDrillDaysData xmlns:NS84="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS84:reserveDrillSegmentIdentifier>33</NS84:reserveDrillSegmentIdentifier>
+          <NS84:reserveActiveDutyMonthlyCurrentPaidDays>30</NS84:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS84:reserveDrillMonthlyCurrentPaidDays>0</NS84:reserveDrillMonthlyCurrentPaidDays>
+          <NS84:reserveDrillCurrentMonthlyPaidDate>2010-03-31</NS84:reserveDrillCurrentMonthlyPaidDate>
+        </NS84:reserveDrillDaysData>
+      </NS81:reserveDrillDays>
+      <NS85:reserveDrillDays xmlns:NS85="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS86:edipi xmlns:NS86="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS86:edipi>
+        <NS87:keyData xmlns:NS87="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS87:personnelOrganizationCode>51</NS87:personnelOrganizationCode>
+          <NS87:personnelCategoryTypeCode>N</NS87:personnelCategoryTypeCode>
+          <NS87:personnelSegmentIdentifier>1</NS87:personnelSegmentIdentifier>
+        </NS87:keyData>
+        <NS88:reserveDrillDaysData xmlns:NS88="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS88:reserveDrillSegmentIdentifier>32</NS88:reserveDrillSegmentIdentifier>
+          <NS88:reserveActiveDutyMonthlyCurrentPaidDays>30</NS88:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS88:reserveDrillMonthlyCurrentPaidDays>0</NS88:reserveDrillMonthlyCurrentPaidDays>
+          <NS88:reserveDrillCurrentMonthlyPaidDate>2010-02-28</NS88:reserveDrillCurrentMonthlyPaidDate>
+        </NS88:reserveDrillDaysData>
+      </NS85:reserveDrillDays>
+      <NS89:reserveDrillDays xmlns:NS89="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS90:edipi xmlns:NS90="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS90:edipi>
+        <NS91:keyData xmlns:NS91="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS91:personnelOrganizationCode>51</NS91:personnelOrganizationCode>
+          <NS91:personnelCategoryTypeCode>N</NS91:personnelCategoryTypeCode>
+          <NS91:personnelSegmentIdentifier>1</NS91:personnelSegmentIdentifier>
+        </NS91:keyData>
+        <NS92:reserveDrillDaysData xmlns:NS92="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS92:reserveDrillSegmentIdentifier>31</NS92:reserveDrillSegmentIdentifier>
+          <NS92:reserveActiveDutyMonthlyCurrentPaidDays>30</NS92:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS92:reserveDrillMonthlyCurrentPaidDays>0</NS92:reserveDrillMonthlyCurrentPaidDays>
+          <NS92:reserveDrillCurrentMonthlyPaidDate>2010-01-31</NS92:reserveDrillCurrentMonthlyPaidDate>
+        </NS92:reserveDrillDaysData>
+      </NS89:reserveDrillDays>
+      <NS93:reserveDrillDays xmlns:NS93="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS94:edipi xmlns:NS94="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS94:edipi>
+        <NS95:keyData xmlns:NS95="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS95:personnelOrganizationCode>51</NS95:personnelOrganizationCode>
+          <NS95:personnelCategoryTypeCode>N</NS95:personnelCategoryTypeCode>
+          <NS95:personnelSegmentIdentifier>1</NS95:personnelSegmentIdentifier>
+        </NS95:keyData>
+        <NS96:reserveDrillDaysData xmlns:NS96="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS96:reserveDrillSegmentIdentifier>30</NS96:reserveDrillSegmentIdentifier>
+          <NS96:reserveActiveDutyMonthlyCurrentPaidDays>30</NS96:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS96:reserveDrillMonthlyCurrentPaidDays>0</NS96:reserveDrillMonthlyCurrentPaidDays>
+          <NS96:reserveDrillCurrentMonthlyPaidDate>2009-12-31</NS96:reserveDrillCurrentMonthlyPaidDate>
+        </NS96:reserveDrillDaysData>
+      </NS93:reserveDrillDays>
+      <NS97:reserveDrillDays xmlns:NS97="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS98:edipi xmlns:NS98="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS98:edipi>
+        <NS99:keyData xmlns:NS99="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS99:personnelOrganizationCode>51</NS99:personnelOrganizationCode>
+          <NS99:personnelCategoryTypeCode>N</NS99:personnelCategoryTypeCode>
+          <NS99:personnelSegmentIdentifier>1</NS99:personnelSegmentIdentifier>
+        </NS99:keyData>
+        <NS100:reserveDrillDaysData xmlns:NS100="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS100:reserveDrillSegmentIdentifier>29</NS100:reserveDrillSegmentIdentifier>
+          <NS100:reserveActiveDutyMonthlyCurrentPaidDays>30</NS100:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS100:reserveDrillMonthlyCurrentPaidDays>0</NS100:reserveDrillMonthlyCurrentPaidDays>
+          <NS100:reserveDrillCurrentMonthlyPaidDate>2009-11-30</NS100:reserveDrillCurrentMonthlyPaidDate>
+        </NS100:reserveDrillDaysData>
+      </NS97:reserveDrillDays>
+      <NS101:reserveDrillDays xmlns:NS101="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS102:edipi xmlns:NS102="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS102:edipi>
+        <NS103:keyData xmlns:NS103="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS103:personnelOrganizationCode>51</NS103:personnelOrganizationCode>
+          <NS103:personnelCategoryTypeCode>N</NS103:personnelCategoryTypeCode>
+          <NS103:personnelSegmentIdentifier>1</NS103:personnelSegmentIdentifier>
+        </NS103:keyData>
+        <NS104:reserveDrillDaysData xmlns:NS104="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS104:reserveDrillSegmentIdentifier>28</NS104:reserveDrillSegmentIdentifier>
+          <NS104:reserveActiveDutyMonthlyCurrentPaidDays>30</NS104:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS104:reserveDrillMonthlyCurrentPaidDays>0</NS104:reserveDrillMonthlyCurrentPaidDays>
+          <NS104:reserveDrillCurrentMonthlyPaidDate>2009-10-31</NS104:reserveDrillCurrentMonthlyPaidDate>
+        </NS104:reserveDrillDaysData>
+      </NS101:reserveDrillDays>
+      <NS105:reserveDrillDays xmlns:NS105="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS106:edipi xmlns:NS106="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS106:edipi>
+        <NS107:keyData xmlns:NS107="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS107:personnelOrganizationCode>51</NS107:personnelOrganizationCode>
+          <NS107:personnelCategoryTypeCode>N</NS107:personnelCategoryTypeCode>
+          <NS107:personnelSegmentIdentifier>1</NS107:personnelSegmentIdentifier>
+        </NS107:keyData>
+        <NS108:reserveDrillDaysData xmlns:NS108="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS108:reserveDrillSegmentIdentifier>27</NS108:reserveDrillSegmentIdentifier>
+          <NS108:reserveActiveDutyMonthlyCurrentPaidDays>30</NS108:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS108:reserveDrillMonthlyCurrentPaidDays>0</NS108:reserveDrillMonthlyCurrentPaidDays>
+          <NS108:reserveDrillCurrentMonthlyPaidDate>2009-09-30</NS108:reserveDrillCurrentMonthlyPaidDate>
+        </NS108:reserveDrillDaysData>
+      </NS105:reserveDrillDays>
+      <NS109:reserveDrillDays xmlns:NS109="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS110:edipi xmlns:NS110="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS110:edipi>
+        <NS111:keyData xmlns:NS111="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS111:personnelOrganizationCode>51</NS111:personnelOrganizationCode>
+          <NS111:personnelCategoryTypeCode>N</NS111:personnelCategoryTypeCode>
+          <NS111:personnelSegmentIdentifier>1</NS111:personnelSegmentIdentifier>
+        </NS111:keyData>
+        <NS112:reserveDrillDaysData xmlns:NS112="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS112:reserveDrillSegmentIdentifier>26</NS112:reserveDrillSegmentIdentifier>
+          <NS112:reserveActiveDutyMonthlyCurrentPaidDays>30</NS112:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS112:reserveDrillMonthlyCurrentPaidDays>0</NS112:reserveDrillMonthlyCurrentPaidDays>
+          <NS112:reserveDrillCurrentMonthlyPaidDate>2009-08-31</NS112:reserveDrillCurrentMonthlyPaidDate>
+        </NS112:reserveDrillDaysData>
+      </NS109:reserveDrillDays>
+      <NS113:reserveDrillDays xmlns:NS113="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS114:edipi xmlns:NS114="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS114:edipi>
+        <NS115:keyData xmlns:NS115="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS115:personnelOrganizationCode>51</NS115:personnelOrganizationCode>
+          <NS115:personnelCategoryTypeCode>N</NS115:personnelCategoryTypeCode>
+          <NS115:personnelSegmentIdentifier>1</NS115:personnelSegmentIdentifier>
+        </NS115:keyData>
+        <NS116:reserveDrillDaysData xmlns:NS116="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS116:reserveDrillSegmentIdentifier>25</NS116:reserveDrillSegmentIdentifier>
+          <NS116:reserveActiveDutyMonthlyCurrentPaidDays>30</NS116:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS116:reserveDrillMonthlyCurrentPaidDays>0</NS116:reserveDrillMonthlyCurrentPaidDays>
+          <NS116:reserveDrillCurrentMonthlyPaidDate>2009-07-31</NS116:reserveDrillCurrentMonthlyPaidDate>
+        </NS116:reserveDrillDaysData>
+      </NS113:reserveDrillDays>
+      <NS117:reserveDrillDays xmlns:NS117="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS118:edipi xmlns:NS118="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS118:edipi>
+        <NS119:keyData xmlns:NS119="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS119:personnelOrganizationCode>51</NS119:personnelOrganizationCode>
+          <NS119:personnelCategoryTypeCode>N</NS119:personnelCategoryTypeCode>
+          <NS119:personnelSegmentIdentifier>1</NS119:personnelSegmentIdentifier>
+        </NS119:keyData>
+        <NS120:reserveDrillDaysData xmlns:NS120="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS120:reserveDrillSegmentIdentifier>24</NS120:reserveDrillSegmentIdentifier>
+          <NS120:reserveActiveDutyMonthlyCurrentPaidDays>30</NS120:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS120:reserveDrillMonthlyCurrentPaidDays>0</NS120:reserveDrillMonthlyCurrentPaidDays>
+          <NS120:reserveDrillCurrentMonthlyPaidDate>2009-06-30</NS120:reserveDrillCurrentMonthlyPaidDate>
+        </NS120:reserveDrillDaysData>
+      </NS117:reserveDrillDays>
+      <NS121:reserveDrillDays xmlns:NS121="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS122:edipi xmlns:NS122="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS122:edipi>
+        <NS123:keyData xmlns:NS123="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS123:personnelOrganizationCode>51</NS123:personnelOrganizationCode>
+          <NS123:personnelCategoryTypeCode>N</NS123:personnelCategoryTypeCode>
+          <NS123:personnelSegmentIdentifier>1</NS123:personnelSegmentIdentifier>
+        </NS123:keyData>
+        <NS124:reserveDrillDaysData xmlns:NS124="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS124:reserveDrillSegmentIdentifier>23</NS124:reserveDrillSegmentIdentifier>
+          <NS124:reserveActiveDutyMonthlyCurrentPaidDays>30</NS124:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS124:reserveDrillMonthlyCurrentPaidDays>0</NS124:reserveDrillMonthlyCurrentPaidDays>
+          <NS124:reserveDrillCurrentMonthlyPaidDate>2009-05-31</NS124:reserveDrillCurrentMonthlyPaidDate>
+        </NS124:reserveDrillDaysData>
+      </NS121:reserveDrillDays>
+      <NS125:reserveDrillDays xmlns:NS125="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS126:edipi xmlns:NS126="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS126:edipi>
+        <NS127:keyData xmlns:NS127="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS127:personnelOrganizationCode>51</NS127:personnelOrganizationCode>
+          <NS127:personnelCategoryTypeCode>N</NS127:personnelCategoryTypeCode>
+          <NS127:personnelSegmentIdentifier>1</NS127:personnelSegmentIdentifier>
+        </NS127:keyData>
+        <NS128:reserveDrillDaysData xmlns:NS128="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS128:reserveDrillSegmentIdentifier>22</NS128:reserveDrillSegmentIdentifier>
+          <NS128:reserveActiveDutyMonthlyCurrentPaidDays>30</NS128:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS128:reserveDrillMonthlyCurrentPaidDays>0</NS128:reserveDrillMonthlyCurrentPaidDays>
+          <NS128:reserveDrillCurrentMonthlyPaidDate>2009-04-30</NS128:reserveDrillCurrentMonthlyPaidDate>
+        </NS128:reserveDrillDaysData>
+      </NS125:reserveDrillDays>
+      <NS129:reserveDrillDays xmlns:NS129="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS130:edipi xmlns:NS130="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS130:edipi>
+        <NS131:keyData xmlns:NS131="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS131:personnelOrganizationCode>51</NS131:personnelOrganizationCode>
+          <NS131:personnelCategoryTypeCode>N</NS131:personnelCategoryTypeCode>
+          <NS131:personnelSegmentIdentifier>1</NS131:personnelSegmentIdentifier>
+        </NS131:keyData>
+        <NS132:reserveDrillDaysData xmlns:NS132="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS132:reserveDrillSegmentIdentifier>21</NS132:reserveDrillSegmentIdentifier>
+          <NS132:reserveActiveDutyMonthlyCurrentPaidDays>30</NS132:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS132:reserveDrillMonthlyCurrentPaidDays>0</NS132:reserveDrillMonthlyCurrentPaidDays>
+          <NS132:reserveDrillCurrentMonthlyPaidDate>2009-03-31</NS132:reserveDrillCurrentMonthlyPaidDate>
+        </NS132:reserveDrillDaysData>
+      </NS129:reserveDrillDays>
+      <NS133:reserveDrillDays xmlns:NS133="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS134:edipi xmlns:NS134="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS134:edipi>
+        <NS135:keyData xmlns:NS135="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS135:personnelOrganizationCode>51</NS135:personnelOrganizationCode>
+          <NS135:personnelCategoryTypeCode>N</NS135:personnelCategoryTypeCode>
+          <NS135:personnelSegmentIdentifier>1</NS135:personnelSegmentIdentifier>
+        </NS135:keyData>
+        <NS136:reserveDrillDaysData xmlns:NS136="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS136:reserveDrillSegmentIdentifier>20</NS136:reserveDrillSegmentIdentifier>
+          <NS136:reserveActiveDutyMonthlyCurrentPaidDays>30</NS136:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS136:reserveDrillMonthlyCurrentPaidDays>0</NS136:reserveDrillMonthlyCurrentPaidDays>
+          <NS136:reserveDrillCurrentMonthlyPaidDate>2009-02-28</NS136:reserveDrillCurrentMonthlyPaidDate>
+        </NS136:reserveDrillDaysData>
+      </NS133:reserveDrillDays>
+      <NS137:reserveDrillDays xmlns:NS137="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS138:edipi xmlns:NS138="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS138:edipi>
+        <NS139:keyData xmlns:NS139="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS139:personnelOrganizationCode>51</NS139:personnelOrganizationCode>
+          <NS139:personnelCategoryTypeCode>N</NS139:personnelCategoryTypeCode>
+          <NS139:personnelSegmentIdentifier>1</NS139:personnelSegmentIdentifier>
+        </NS139:keyData>
+        <NS140:reserveDrillDaysData xmlns:NS140="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS140:reserveDrillSegmentIdentifier>19</NS140:reserveDrillSegmentIdentifier>
+          <NS140:reserveActiveDutyMonthlyCurrentPaidDays>30</NS140:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS140:reserveDrillMonthlyCurrentPaidDays>0</NS140:reserveDrillMonthlyCurrentPaidDays>
+          <NS140:reserveDrillCurrentMonthlyPaidDate>2009-01-31</NS140:reserveDrillCurrentMonthlyPaidDate>
+        </NS140:reserveDrillDaysData>
+      </NS137:reserveDrillDays>
+      <NS141:reserveDrillDays xmlns:NS141="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS142:edipi xmlns:NS142="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS142:edipi>
+        <NS143:keyData xmlns:NS143="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS143:personnelOrganizationCode>51</NS143:personnelOrganizationCode>
+          <NS143:personnelCategoryTypeCode>N</NS143:personnelCategoryTypeCode>
+          <NS143:personnelSegmentIdentifier>1</NS143:personnelSegmentIdentifier>
+        </NS143:keyData>
+        <NS144:reserveDrillDaysData xmlns:NS144="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS144:reserveDrillSegmentIdentifier>18</NS144:reserveDrillSegmentIdentifier>
+          <NS144:reserveActiveDutyMonthlyCurrentPaidDays>28</NS144:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS144:reserveDrillMonthlyCurrentPaidDays>0</NS144:reserveDrillMonthlyCurrentPaidDays>
+          <NS144:reserveDrillCurrentMonthlyPaidDate>2008-12-31</NS144:reserveDrillCurrentMonthlyPaidDate>
+        </NS144:reserveDrillDaysData>
+      </NS141:reserveDrillDays>
+      <NS145:reserveDrillDays xmlns:NS145="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS146:edipi xmlns:NS146="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS146:edipi>
+        <NS147:keyData xmlns:NS147="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS147:personnelOrganizationCode>51</NS147:personnelOrganizationCode>
+          <NS147:personnelCategoryTypeCode>N</NS147:personnelCategoryTypeCode>
+          <NS147:personnelSegmentIdentifier>1</NS147:personnelSegmentIdentifier>
+        </NS147:keyData>
+        <NS148:reserveDrillDaysData xmlns:NS148="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS148:reserveDrillSegmentIdentifier>17</NS148:reserveDrillSegmentIdentifier>
+          <NS148:reserveActiveDutyMonthlyCurrentPaidDays>2</NS148:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS148:reserveDrillMonthlyCurrentPaidDays>0</NS148:reserveDrillMonthlyCurrentPaidDays>
+          <NS148:reserveDrillCurrentMonthlyPaidDate>2008-11-30</NS148:reserveDrillCurrentMonthlyPaidDate>
+        </NS148:reserveDrillDaysData>
+      </NS145:reserveDrillDays>
+      <NS149:reserveDrillDays xmlns:NS149="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS150:edipi xmlns:NS150="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS150:edipi>
+        <NS151:keyData xmlns:NS151="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS151:personnelOrganizationCode>51</NS151:personnelOrganizationCode>
+          <NS151:personnelCategoryTypeCode>N</NS151:personnelCategoryTypeCode>
+          <NS151:personnelSegmentIdentifier>1</NS151:personnelSegmentIdentifier>
+        </NS151:keyData>
+        <NS152:reserveDrillDaysData xmlns:NS152="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS152:reserveDrillSegmentIdentifier>16</NS152:reserveDrillSegmentIdentifier>
+          <NS152:reserveActiveDutyMonthlyCurrentPaidDays>30</NS152:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS152:reserveDrillMonthlyCurrentPaidDays>0</NS152:reserveDrillMonthlyCurrentPaidDays>
+          <NS152:reserveDrillCurrentMonthlyPaidDate>2008-10-31</NS152:reserveDrillCurrentMonthlyPaidDate>
+        </NS152:reserveDrillDaysData>
+      </NS149:reserveDrillDays>
+      <NS153:reserveDrillDays xmlns:NS153="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS154:edipi xmlns:NS154="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS154:edipi>
+        <NS155:keyData xmlns:NS155="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS155:personnelOrganizationCode>51</NS155:personnelOrganizationCode>
+          <NS155:personnelCategoryTypeCode>N</NS155:personnelCategoryTypeCode>
+          <NS155:personnelSegmentIdentifier>1</NS155:personnelSegmentIdentifier>
+        </NS155:keyData>
+        <NS156:reserveDrillDaysData xmlns:NS156="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS156:reserveDrillSegmentIdentifier>15</NS156:reserveDrillSegmentIdentifier>
+          <NS156:reserveActiveDutyMonthlyCurrentPaidDays>30</NS156:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS156:reserveDrillMonthlyCurrentPaidDays>0</NS156:reserveDrillMonthlyCurrentPaidDays>
+          <NS156:reserveDrillCurrentMonthlyPaidDate>2008-09-30</NS156:reserveDrillCurrentMonthlyPaidDate>
+        </NS156:reserveDrillDaysData>
+      </NS153:reserveDrillDays>
+      <NS157:reserveDrillDays xmlns:NS157="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS158:edipi xmlns:NS158="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS158:edipi>
+        <NS159:keyData xmlns:NS159="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS159:personnelOrganizationCode>51</NS159:personnelOrganizationCode>
+          <NS159:personnelCategoryTypeCode>N</NS159:personnelCategoryTypeCode>
+          <NS159:personnelSegmentIdentifier>1</NS159:personnelSegmentIdentifier>
+        </NS159:keyData>
+        <NS160:reserveDrillDaysData xmlns:NS160="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS160:reserveDrillSegmentIdentifier>14</NS160:reserveDrillSegmentIdentifier>
+          <NS160:reserveActiveDutyMonthlyCurrentPaidDays>30</NS160:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS160:reserveDrillMonthlyCurrentPaidDays>0</NS160:reserveDrillMonthlyCurrentPaidDays>
+          <NS160:reserveDrillCurrentMonthlyPaidDate>2008-08-31</NS160:reserveDrillCurrentMonthlyPaidDate>
+        </NS160:reserveDrillDaysData>
+      </NS157:reserveDrillDays>
+      <NS161:reserveDrillDays xmlns:NS161="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS162:edipi xmlns:NS162="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS162:edipi>
+        <NS163:keyData xmlns:NS163="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS163:personnelOrganizationCode>51</NS163:personnelOrganizationCode>
+          <NS163:personnelCategoryTypeCode>N</NS163:personnelCategoryTypeCode>
+          <NS163:personnelSegmentIdentifier>1</NS163:personnelSegmentIdentifier>
+        </NS163:keyData>
+        <NS164:reserveDrillDaysData xmlns:NS164="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS164:reserveDrillSegmentIdentifier>13</NS164:reserveDrillSegmentIdentifier>
+          <NS164:reserveActiveDutyMonthlyCurrentPaidDays>30</NS164:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS164:reserveDrillMonthlyCurrentPaidDays>0</NS164:reserveDrillMonthlyCurrentPaidDays>
+          <NS164:reserveDrillCurrentMonthlyPaidDate>2008-07-31</NS164:reserveDrillCurrentMonthlyPaidDate>
+        </NS164:reserveDrillDaysData>
+      </NS161:reserveDrillDays>
+      <NS165:reserveDrillDays xmlns:NS165="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS166:edipi xmlns:NS166="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS166:edipi>
+        <NS167:keyData xmlns:NS167="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS167:personnelOrganizationCode>51</NS167:personnelOrganizationCode>
+          <NS167:personnelCategoryTypeCode>N</NS167:personnelCategoryTypeCode>
+          <NS167:personnelSegmentIdentifier>1</NS167:personnelSegmentIdentifier>
+        </NS167:keyData>
+        <NS168:reserveDrillDaysData xmlns:NS168="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS168:reserveDrillSegmentIdentifier>12</NS168:reserveDrillSegmentIdentifier>
+          <NS168:reserveActiveDutyMonthlyCurrentPaidDays>30</NS168:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS168:reserveDrillMonthlyCurrentPaidDays>0</NS168:reserveDrillMonthlyCurrentPaidDays>
+          <NS168:reserveDrillCurrentMonthlyPaidDate>2008-06-30</NS168:reserveDrillCurrentMonthlyPaidDate>
+        </NS168:reserveDrillDaysData>
+      </NS165:reserveDrillDays>
+      <NS169:reserveDrillDays xmlns:NS169="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS170:edipi xmlns:NS170="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS170:edipi>
+        <NS171:keyData xmlns:NS171="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS171:personnelOrganizationCode>51</NS171:personnelOrganizationCode>
+          <NS171:personnelCategoryTypeCode>N</NS171:personnelCategoryTypeCode>
+          <NS171:personnelSegmentIdentifier>1</NS171:personnelSegmentIdentifier>
+        </NS171:keyData>
+        <NS172:reserveDrillDaysData xmlns:NS172="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS172:reserveDrillSegmentIdentifier>11</NS172:reserveDrillSegmentIdentifier>
+          <NS172:reserveActiveDutyMonthlyCurrentPaidDays>30</NS172:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS172:reserveDrillMonthlyCurrentPaidDays>0</NS172:reserveDrillMonthlyCurrentPaidDays>
+          <NS172:reserveDrillCurrentMonthlyPaidDate>2008-05-31</NS172:reserveDrillCurrentMonthlyPaidDate>
+        </NS172:reserveDrillDaysData>
+      </NS169:reserveDrillDays>
+      <NS173:reserveDrillDays xmlns:NS173="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS174:edipi xmlns:NS174="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS174:edipi>
+        <NS175:keyData xmlns:NS175="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS175:personnelOrganizationCode>51</NS175:personnelOrganizationCode>
+          <NS175:personnelCategoryTypeCode>N</NS175:personnelCategoryTypeCode>
+          <NS175:personnelSegmentIdentifier>1</NS175:personnelSegmentIdentifier>
+        </NS175:keyData>
+        <NS176:reserveDrillDaysData xmlns:NS176="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS176:reserveDrillSegmentIdentifier>10</NS176:reserveDrillSegmentIdentifier>
+          <NS176:reserveActiveDutyMonthlyCurrentPaidDays>30</NS176:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS176:reserveDrillMonthlyCurrentPaidDays>0</NS176:reserveDrillMonthlyCurrentPaidDays>
+          <NS176:reserveDrillCurrentMonthlyPaidDate>2008-04-30</NS176:reserveDrillCurrentMonthlyPaidDate>
+        </NS176:reserveDrillDaysData>
+      </NS173:reserveDrillDays>
+      <NS177:reserveDrillDays xmlns:NS177="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS178:edipi xmlns:NS178="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS178:edipi>
+        <NS179:keyData xmlns:NS179="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS179:personnelOrganizationCode>51</NS179:personnelOrganizationCode>
+          <NS179:personnelCategoryTypeCode>N</NS179:personnelCategoryTypeCode>
+          <NS179:personnelSegmentIdentifier>1</NS179:personnelSegmentIdentifier>
+        </NS179:keyData>
+        <NS180:reserveDrillDaysData xmlns:NS180="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS180:reserveDrillSegmentIdentifier>9</NS180:reserveDrillSegmentIdentifier>
+          <NS180:reserveActiveDutyMonthlyCurrentPaidDays>30</NS180:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS180:reserveDrillMonthlyCurrentPaidDays>0</NS180:reserveDrillMonthlyCurrentPaidDays>
+          <NS180:reserveDrillCurrentMonthlyPaidDate>2008-03-31</NS180:reserveDrillCurrentMonthlyPaidDate>
+        </NS180:reserveDrillDaysData>
+      </NS177:reserveDrillDays>
+      <NS181:reserveDrillDays xmlns:NS181="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS182:edipi xmlns:NS182="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS182:edipi>
+        <NS183:keyData xmlns:NS183="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS183:personnelOrganizationCode>51</NS183:personnelOrganizationCode>
+          <NS183:personnelCategoryTypeCode>N</NS183:personnelCategoryTypeCode>
+          <NS183:personnelSegmentIdentifier>1</NS183:personnelSegmentIdentifier>
+        </NS183:keyData>
+        <NS184:reserveDrillDaysData xmlns:NS184="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS184:reserveDrillSegmentIdentifier>8</NS184:reserveDrillSegmentIdentifier>
+          <NS184:reserveActiveDutyMonthlyCurrentPaidDays>30</NS184:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS184:reserveDrillMonthlyCurrentPaidDays>0</NS184:reserveDrillMonthlyCurrentPaidDays>
+          <NS184:reserveDrillCurrentMonthlyPaidDate>2008-02-29</NS184:reserveDrillCurrentMonthlyPaidDate>
+        </NS184:reserveDrillDaysData>
+      </NS181:reserveDrillDays>
+      <NS185:reserveDrillDays xmlns:NS185="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS186:edipi xmlns:NS186="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS186:edipi>
+        <NS187:keyData xmlns:NS187="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS187:personnelOrganizationCode>51</NS187:personnelOrganizationCode>
+          <NS187:personnelCategoryTypeCode>N</NS187:personnelCategoryTypeCode>
+          <NS187:personnelSegmentIdentifier>1</NS187:personnelSegmentIdentifier>
+        </NS187:keyData>
+        <NS188:reserveDrillDaysData xmlns:NS188="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS188:reserveDrillSegmentIdentifier>7</NS188:reserveDrillSegmentIdentifier>
+          <NS188:reserveActiveDutyMonthlyCurrentPaidDays>30</NS188:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS188:reserveDrillMonthlyCurrentPaidDays>0</NS188:reserveDrillMonthlyCurrentPaidDays>
+          <NS188:reserveDrillCurrentMonthlyPaidDate>2007-12-31</NS188:reserveDrillCurrentMonthlyPaidDate>
+        </NS188:reserveDrillDaysData>
+      </NS185:reserveDrillDays>
+      <NS189:reserveDrillDays xmlns:NS189="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS190:edipi xmlns:NS190="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS190:edipi>
+        <NS191:keyData xmlns:NS191="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS191:personnelOrganizationCode>51</NS191:personnelOrganizationCode>
+          <NS191:personnelCategoryTypeCode>N</NS191:personnelCategoryTypeCode>
+          <NS191:personnelSegmentIdentifier>1</NS191:personnelSegmentIdentifier>
+        </NS191:keyData>
+        <NS192:reserveDrillDaysData xmlns:NS192="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS192:reserveDrillSegmentIdentifier>6</NS192:reserveDrillSegmentIdentifier>
+          <NS192:reserveActiveDutyMonthlyCurrentPaidDays>30</NS192:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS192:reserveDrillMonthlyCurrentPaidDays>0</NS192:reserveDrillMonthlyCurrentPaidDays>
+          <NS192:reserveDrillCurrentMonthlyPaidDate>2007-11-30</NS192:reserveDrillCurrentMonthlyPaidDate>
+        </NS192:reserveDrillDaysData>
+      </NS189:reserveDrillDays>
+      <NS193:reserveDrillDays xmlns:NS193="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS194:edipi xmlns:NS194="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS194:edipi>
+        <NS195:keyData xmlns:NS195="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS195:personnelOrganizationCode>51</NS195:personnelOrganizationCode>
+          <NS195:personnelCategoryTypeCode>N</NS195:personnelCategoryTypeCode>
+          <NS195:personnelSegmentIdentifier>1</NS195:personnelSegmentIdentifier>
+        </NS195:keyData>
+        <NS196:reserveDrillDaysData xmlns:NS196="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS196:reserveDrillSegmentIdentifier>5</NS196:reserveDrillSegmentIdentifier>
+          <NS196:reserveActiveDutyMonthlyCurrentPaidDays>30</NS196:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS196:reserveDrillMonthlyCurrentPaidDays>0</NS196:reserveDrillMonthlyCurrentPaidDays>
+          <NS196:reserveDrillCurrentMonthlyPaidDate>2007-10-31</NS196:reserveDrillCurrentMonthlyPaidDate>
+        </NS196:reserveDrillDaysData>
+      </NS193:reserveDrillDays>
+      <NS197:reserveDrillDays xmlns:NS197="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS198:edipi xmlns:NS198="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS198:edipi>
+        <NS199:keyData xmlns:NS199="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS199:personnelOrganizationCode>51</NS199:personnelOrganizationCode>
+          <NS199:personnelCategoryTypeCode>N</NS199:personnelCategoryTypeCode>
+          <NS199:personnelSegmentIdentifier>1</NS199:personnelSegmentIdentifier>
+        </NS199:keyData>
+        <NS200:reserveDrillDaysData xmlns:NS200="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS200:reserveDrillSegmentIdentifier>4</NS200:reserveDrillSegmentIdentifier>
+          <NS200:reserveActiveDutyMonthlyCurrentPaidDays>30</NS200:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS200:reserveDrillMonthlyCurrentPaidDays>0</NS200:reserveDrillMonthlyCurrentPaidDays>
+          <NS200:reserveDrillCurrentMonthlyPaidDate>2007-09-30</NS200:reserveDrillCurrentMonthlyPaidDate>
+        </NS200:reserveDrillDaysData>
+      </NS197:reserveDrillDays>
+      <NS201:reserveDrillDays xmlns:NS201="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS202:edipi xmlns:NS202="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS202:edipi>
+        <NS203:keyData xmlns:NS203="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS203:personnelOrganizationCode>51</NS203:personnelOrganizationCode>
+          <NS203:personnelCategoryTypeCode>N</NS203:personnelCategoryTypeCode>
+          <NS203:personnelSegmentIdentifier>1</NS203:personnelSegmentIdentifier>
+        </NS203:keyData>
+        <NS204:reserveDrillDaysData xmlns:NS204="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS204:reserveDrillSegmentIdentifier>3</NS204:reserveDrillSegmentIdentifier>
+          <NS204:reserveActiveDutyMonthlyCurrentPaidDays>30</NS204:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS204:reserveDrillMonthlyCurrentPaidDays>0</NS204:reserveDrillMonthlyCurrentPaidDays>
+          <NS204:reserveDrillCurrentMonthlyPaidDate>2007-08-31</NS204:reserveDrillCurrentMonthlyPaidDate>
+        </NS204:reserveDrillDaysData>
+      </NS201:reserveDrillDays>
+      <NS205:reserveDrillDays xmlns:NS205="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS206:edipi xmlns:NS206="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS206:edipi>
+        <NS207:keyData xmlns:NS207="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS207:personnelOrganizationCode>51</NS207:personnelOrganizationCode>
+          <NS207:personnelCategoryTypeCode>N</NS207:personnelCategoryTypeCode>
+          <NS207:personnelSegmentIdentifier>1</NS207:personnelSegmentIdentifier>
+        </NS207:keyData>
+        <NS208:reserveDrillDaysData xmlns:NS208="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS208:reserveDrillSegmentIdentifier>2</NS208:reserveDrillSegmentIdentifier>
+          <NS208:reserveActiveDutyMonthlyCurrentPaidDays>29</NS208:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS208:reserveDrillMonthlyCurrentPaidDays>0</NS208:reserveDrillMonthlyCurrentPaidDays>
+          <NS208:reserveDrillCurrentMonthlyPaidDate>2007-07-31</NS208:reserveDrillCurrentMonthlyPaidDate>
+        </NS208:reserveDrillDaysData>
+      </NS205:reserveDrillDays>
+      <NS209:reserveDrillDays xmlns:NS209="http://viers.va.gov/cdi/eMIS/RequestResponse/v1">
+        <NS210:edipi xmlns:NS210="http://viers.va.gov/cdi/eMIS/commonService/v1">6001010003</NS210:edipi>
+        <NS211:keyData xmlns:NS211="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS211:personnelOrganizationCode>51</NS211:personnelOrganizationCode>
+          <NS211:personnelCategoryTypeCode>N</NS211:personnelCategoryTypeCode>
+          <NS211:personnelSegmentIdentifier>1</NS211:personnelSegmentIdentifier>
+        </NS211:keyData>
+        <NS212:reserveDrillDaysData xmlns:NS212="http://viers.va.gov/cdi/eMIS/commonService/v1">
+          <NS212:reserveDrillSegmentIdentifier>1</NS212:reserveDrillSegmentIdentifier>
+          <NS212:reserveActiveDutyMonthlyCurrentPaidDays>0</NS212:reserveActiveDutyMonthlyCurrentPaidDays>
+          <NS212:reserveDrillMonthlyCurrentPaidDays>4</NS212:reserveDrillMonthlyCurrentPaidDays>
+          <NS212:reserveDrillCurrentMonthlyPaidDate>2007-06-30</NS212:reserveDrillCurrentMonthlyPaidDate>
+        </NS212:reserveDrillDaysData>
+      </NS209:reserveDrillDays>
+    </NS4:eMISreserveDrillDaysResponse>
+  </NS1:Body>
+</NS1:Envelope>

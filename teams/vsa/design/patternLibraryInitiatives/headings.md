@@ -18,6 +18,7 @@
 * The hub pages display an "On This Page" block using at `h3` heading immediately after the `h1` and intro text.
 * Many spoke pages display a featured content box immediately after the `h1` and intro text.
 * Sometimes `h3` heading elements are linked (e.g. in a list at the bottom of a content page)
+* Apply For pages skip the `h2` heading element
 #### Issues with current
 * Inconsistency between Sketch file, documentation site, and va.gov
 * Using the `on this page` and `featured content` blocks on the hub and spoke pages are creating an invalid heading order.
@@ -32,9 +33,15 @@
 
 ## Authenticated / Tool Stack
 ### Current
-* When the [My Health](https://staging.va.gov/health-care/my-health-account-validation/error/needs-va-patient) page can't find patient information, `h3` and `h2` elements are skipped
+
+* When the [My Health](https://staging.va.gov/health-care/my-health-account-validation/error/needs-va-patient) page can't find patient information, `h3` and `h2` elements are skipped, and the **What You Can Do** heading is an `h4` element
+* In the Dashboard alert components, the heading is an `h3` followed by a `div` with the class `.vads-u-font-size--h3` applied to it.
+* [Find Benefits](https://staging.va.gov/my-va/find-benefits) page skips even numbered heading elements
+* We've Signed You Out page skips `h2` heading element, and jumps straight to the **What You Can Do** heading as an `h3`
 
 ### Proposed
+* In the Dashboard alert components, use an h4 after the h3
+* **What You Can Do** heading should be used consistently across pages - `h3` makes the most sense from examples seen so far
 
 ## Featured Content
 ### Current
@@ -51,7 +58,11 @@
 
 ## Notifications
 ### Current
+* Alert component uses `h3` element for heading
+
 #### Issues with current
+* When an alert appears at the top of the page, interrupting the heading hierarchy
+
 ### Proposed
 
 ## Anchor Link Section (On This Page)

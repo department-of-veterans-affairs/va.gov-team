@@ -33,6 +33,8 @@ Provide expert content and IA support and resources to VSP and VFS teams to ensu
 ### Roamdap
 - [ZenHub super epics](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=content-ia-team,super-epic&repos=133843125)
 
+### [OKRs and KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/content-ia/content-ia-team-okr-kpis.md)
+
 ---
 
 ## Who we are

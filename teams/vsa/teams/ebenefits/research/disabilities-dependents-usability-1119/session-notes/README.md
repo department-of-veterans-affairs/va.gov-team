@@ -11,9 +11,11 @@
 | Tuesday, November 19, 2019      | 1:00 pm ET | [Yes - P6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes/tuesday-november-19) |
 | Tuesday, November 19, 2019      | 2:30 am ET | [Yes - P7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes/tuesday-november-19) |
 | Wednesday, November 20, 2019      | 10:30 am ET | [Yes - P8](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes/wednesday-november-20) |
-| Wednesday, November 20, 2019      | 12:00 pm ET | -- |
-| Wednesday, November 20, 2019      | 1:30 pm ET | -- |
-| Thursday, November 21, 2019      | 10:30 am ET | -- |
-| Friday, November 20, 2019      | 9:00 am ET | -- |
-| Monday, November 25, 2019      | 9:00 am ET | -- |
-| Monday, November 25, 2019      | 2:30 am ET | -- |
+| Wednesday, November 20, 2019      | 12:00 pm ET | [Yes - P9](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes/wednesday-november-20/rated-disability-usability-verbatim-112019-P9.md) |
+| Wednesday, November 20, 2019      | 1:30 pm ET | [Yes - P10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes/wednesday-november-20/rated-disability-usability-verbatim-112019-P10.md) |
+| Thursday, November 21, 2019      | 10:30 am ET | No - P11 |
+| Friday, November 20, 2019      | 9:00 am ET | [P12 - Yes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes/friday-november-22) |
+| Friday, November 20, 2019      | 2:30 am ET | No - P13 |
+| Monday, November 25, 2019      | 9:00 am ET | [Yes-P13](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes/monday-november-25) |
+| Monday, November 25, 2019      | 2:30 pm ET | No-P14 |
+
