@@ -72,7 +72,7 @@ Selina will use the Website team’s template redirect comms email to notify the
 
 **Step 6.** FE engineer will let @Mikki and @Lunascoop know when redirect goes live via PR notification.
 
-**Step 7.** Selina will validate that the redirect is working on the live site and send out a 2nd email to stakeholders that the redirects are complete.  (CC Jennifer Lee)
+**Step 7.** Selina will validate that the redirect is working on the live site and send out a 2nd email to stakeholders that the redirects are complete. (CC Jennifer Lee)
 Selina will close the redirect ticket.
 
 **Step 8.** Mikki will note in a consolidated redirect spreadsheet that the redirect for the URLs are complete. The consolidated spreadsheet will include page names, new URL, legacy URL, date when redirect was implemented, and the benefit hub category.
