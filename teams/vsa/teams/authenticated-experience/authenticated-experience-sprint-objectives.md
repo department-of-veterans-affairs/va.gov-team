@@ -62,7 +62,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
      * Clear the "Validate" swimlane by the end of the sprint
 
-### (CURRENT) Sprint 9 (11/20 - 12/3)
+### Sprint 9 (11/20 - 12/3)
 * Direct Deposit
    * Add "add direct deposit" functionality and and new associated analytics.  Track/measure error rates as input to next steps and actions. (#3504)
    * Finalize approach for ID.me & DS Logon and determine what design work for sprint 10 work will need to be (#2884 and #1798)
@@ -81,7 +81,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
    
 
-### Sprint 10 (12/4 - 12/17)
+### (CURRENT) Sprint 10 (12/4 - 12/17)
 - Direct deposit
   - Ramp up direct deposit
     - Launch direct deposit to 75% and monitor for problems
