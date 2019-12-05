@@ -460,5 +460,37 @@ Evaluate early and throughout the design phase. Evaluating early design prototyp
 Continuous improvement is a tenet of Scrum and Agile.<br/>
 Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
 We’re here to support one another, so it&rsquo;s okay to not know! </blockquote>
+
 Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA). 
+
+<blockquote><strong>&ldquo;If design is the source of mismatches and exclusion, can it also be remedy? 
+ Yes, but it takes work.&rdquo;</strong></blockquote>
+— Kat Holmes, author of *Mismatch, How Inclusion Shapes Design*
+
+## How to Measure Inclusive Efforts
+
+<blockquote><strong>&ldquo;Designing for simplicity tomorrow will be impossible unless we make the effort to understand the underlying complexities of how we design today. If we don&rsquo;t, we&rsquo;ll only create more mismatches. We&rsquo;ll create experiences that are simple for people like ourselves, only.&rdquo;</strong><br/>
+ — John Maeda, in the forward to Kat Holmes&rsquo; <em>Mismatch, How Inclusion Shapes Design</em></blockquote>
+
+### Evaluating for accessibility
+
+A key aspect of a successful design process is evaluating early and throughout the process.
+* **Comprehensive Accessibility Evaluation** — ensure that your accessibility solutions are usable by people with disabilities
+* **Accessibility Standards Review** — more rigorous than typical user interface reviews, especially when conformance to a standard is a legal requirement; tools provide some automated review, human evaluation is still necessary
+* **Heuristic Evaluation** — accessibility specialists judge whether elements conform to established accessibility and usability principles
+* **Design Walkthroughs** —  find potential usability problems by envisioning the user's route through an early concept or prototype
+* **Screening Techniques** — simple, inexpensive activities to identify potential accessibility barriers
+* **Usability Testing** — quantitative and qualitative data from real users performing real tasks 
+
+Effective accessibility evaluation includes both evaluation expertise and the experience of people with disabilities. If you have people with disabilities easily available to help with evaluation, such as employees in the same building, you probably want to do lots of informal evaluation with them on early design prototypes. In the more common case where it takes more effort to get people with disabilities for evaluation, you probably want to employ the other evaluation methods first.
+
+If you have limited budget you might need to do the evaluations yourself, or you might be able to afford an accessibility specialist. An accessibility expert with first-hand experience of how people with different disabilities interact with products can:
+* evaluate accessibility issues for a broad range of users, which might not be found by a few individual users in usability testing;
+* help fix any known accessibility barriers before bringing in users; and 
+* focus usability testing or informal evaluation with users on potential areas of concern.
+
+While each evaluation plan will be different based on resources and other factors, ensure that you employ comprehensive evaluation that includes at least a little of the methods described next: standards review, heuristic evaluation, design walkthroughs, screening techniques, and usability testing.
+
+Source: [http://uiaccess.com/accessucd/evaluate.html#standards](http://uiaccess.com/accessucd/evaluate.html#standards)
+
 
