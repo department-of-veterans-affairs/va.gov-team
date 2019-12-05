@@ -18,6 +18,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ### 1. Prepare "View My Rated Disabilities" for Launch
 - Refine any error handling issues and user acceptance testing remaining in staging
 - Complete final reviews required to launch (Call Center, Content/IA {mockups}, 508 {staging}, Security {staging})
+- Address any further DSVA Design feedback
 - Review the launch checklist and document any remaing gaps for launch procedures  
   - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
 
