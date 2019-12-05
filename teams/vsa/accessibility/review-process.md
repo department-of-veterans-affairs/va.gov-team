@@ -106,3 +106,5 @@ There are two checkpoints:
     c. Accessibility specialist will conduct an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md).
 
     d. Issues will be noted by the accessibility specialist in issues within an epic. Team will coordinate another review after work is updated by @-comment in Zenhub in the Github issue. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment developer who opened issue, and close ticket/issue.
+    
+Here's a link to the [QA Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/qa/vsa-qa-process.md), for your convenience.
