@@ -15,7 +15,7 @@ For details on how and when to report Triage incidents access the [VSP - Triage 
 #### Tier 1 Process Details (VSA)<a name="Tier1Details"></a>
 
 1. The new GitHub issue is received and processed by the VSP Triage team as established in the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md).
-2. If an issue has not already been created in GitHub, the VSA PM must create an issue in GitHub. **IMPORTANT: The VSA PM must ensure  that that the "vsa-Triage" label has been added to the Githhub issue.** This label is important, particularly for reporting purposes. 
+2. If VSP has not already created an issue in GitHub, the VSA PM must create an issue in GitHub. **IMPORTANT: The VSA PM must ensure  that that the "vsa-triage" label has been added to the Githhub issue.** This label is important, particularly for reporting purposes. 
 3. If the issue needs escalation, then it gets assigned to the VSA team as a [VSA Tier 2](#Tier2) issue.
 4. If the [VSA Tier 2](#Table1) resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in [Table 3](#Table3) herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in [Table 2](#Table2).
 
