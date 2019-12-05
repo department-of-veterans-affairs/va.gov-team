@@ -13,7 +13,7 @@
 ![TestRail execute test failed defect][testrails-execute-tests-failed-defect]
 1. Once you have marked each test case as Passed or Failed, you can review the results for your test run.  If you have any failures then the test run should be consider Failed, and you should work with developers to resolve all issues before you execute a new test run.
 
-[testrails-execute-tests-from-test-run]: ../images/execute-tests-from-test-run.png
-[testrails-execute-tests-expand-steps]: ../images/execute-tests-expand-steps.png
-[testrails-execute-tests-add-result]: ../images/execute-tests-add-result.png
-[testrails-execute-tests-failed-defect]: ../images/execute-tests-failed-defect.png
+[testrails-execute-tests-from-test-run]: ../images/testrail-tutorials/execute-tests-from-test-run.png
+[testrails-execute-tests-expand-steps]: ../images/testrail-tutorials/execute-tests-expand-steps.png
+[testrails-execute-tests-add-result]: ../images/testrail-tutorials/execute-tests-add-result.png
+[testrails-execute-tests-failed-defect]: ../images/testrail-tutorials/execute-tests-failed-defect.png
