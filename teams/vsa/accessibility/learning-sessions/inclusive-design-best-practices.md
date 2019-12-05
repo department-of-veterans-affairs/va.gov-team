@@ -493,4 +493,60 @@ While each evaluation plan will be different based on resources and other factor
 
 Source: [http://uiaccess.com/accessucd/evaluate.html#standards](http://uiaccess.com/accessucd/evaluate.html#standards)
 
+Accessibility evaluation is often limited to assessing conformance to accessibility standards. Conformance to accessibility standards is important: in some cases it's a legal requirement and in others it's just a good way to help check that you've adequately covered the range of accessibility issues. 
 
+However, when focus is only on the technical aspects of accessibility, the human interaction aspect can be lost. In some cases where the standard was technically met by providing an alternative, the products were awkward to use or were totally unusable by some people with disabilities. These cases illustrate the importance of going beyond just meeting a minimum accessibility standard without sufficient evaluation.
+
+For example, a [100% accessible rated site, that is completely inaccessible](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/).
+
+### Measuring inclusive design efforts
+
+Designing technology using inclusive-design practices offers many beneficial outcomes. Microsoft’s Inclusive Toolkit Manual describes the following benefits of inclusive design:
+* increased accessibility
+* reduced friction
+* greater emotional context
+However, the impacts of inclusive design extend far beyond the products people use. Inclusive design also impacts mindsets, methods, and behaviors. “What we design is a byproduct of how we design. Measuring the benefits includes measuring the shift in our culture and ourselves.”
+
+Source: [https://www.uxmatters.com/mt/archives/2019/08/inclusive-design-an-overview-of-current-thinking.php](https://www.uxmatters.com/mt/archives/2019/08/inclusive-design-an-overview-of-current-thinking.php)
+
+### Diversity ≠ Inclusion, Accessibility ≠ Inclusion
+
+<blockquote>&ldquo;Diversity is about being invited to the party. <br/>
+Inclusion is about being asked to dance.&rdquo;</blockquote>
+
+But inclusion is not just a feeling, nor a static state. In an inclusive experience, everyone feels respected and valued for being who they are. Evaluate the impact of inclusive design through:
+* Focus groups
+* Surveys
+* New analytics tools
+
+Source: [https://www.workdesign.com/2019/03/more-than-a-feeling-measuring-workplace-inclusion/](https://www.workdesign.com/2019/03/more-than-a-feeling-measuring-workplace-inclusion/)
+
+## There sure is a lot to know
+
+<blockquote><strong>&ldquo;I don&rsquo;t know&rdquo; is an acceptable answer.</strong>
+Continuous improvement is a tenet of Scrum and Agile.
+Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
+We’re here to support one another, so it’s okay to not know!</blockquote>
+
+Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA).
+
+Instead of intimidating you, I hope this information empowers you with confidence and inspiration to imagine how you might incorporate accessibility and involve diverse perspectives, including people with disabilities, throughout your project.
+
+### Inclusive design guidelines
+
+Resources and guidelines are available in our VA accessibility Github repos:
+
+**VSP**
+* [Accessibility best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
+* [508 checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
+* [WCAG checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
+* [Disability considerations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/disability-considerations.md)
+* [User stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/user-stories.md)
+
+**VSA**
+* [Inclusive design guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-design-guidelines.md)
+* [Examples of assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
+
+<blockquote>When it comes to people, there’s no such thing as &ldquo;normal.&rdquo;</blockquote>
+
+<blockquote><strong>&ldquo;Ohana means family. Family means no one gets left behind or forgotten.&rdquo;</strong></blockquote>
