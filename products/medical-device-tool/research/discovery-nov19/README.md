@@ -31,6 +31,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 - User Research Conversation Guide
   - [Prostheses / Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-prostheses.md)
   - [Hearing Aids / Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md)
+- [Workflow Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/workflows.md)
 - User Interview Notes
 - Synthesis Artifacts
 - Research, IA, and Content Consultation Notes
