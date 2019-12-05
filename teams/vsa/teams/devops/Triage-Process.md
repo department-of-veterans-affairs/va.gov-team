@@ -12,7 +12,7 @@ The VSP BE Tools team (previously named the "Triage" team) (Tier 1) in coordinat
 
 For details on how and when to report Triage incidents access the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md). The aforementioned VSP document is the authoratative document, particularly for the Tier 1 issues process: 
 
-#### Tier 1 Process Details (VSA)<a name="Tier1Details"></a>
+#### Tier 1 Process Details<a name="Tier1Details"></a>
 
 1. The new GitHub issue is received and processed by the VSP Triage team as established in the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md). 
 2. If the issue needs escalation, then it gets assigned to the VSA team as a [VSA Tier 2](#Tier2) issue.
