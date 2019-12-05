@@ -6,7 +6,7 @@ The VSA will assign the Product Managers (PMs) as the Tier 2 support with an SME
 
 ## Triage and Support
 
-### Tier 1 Support (VSP)<a name="Tier1"></a>
+### Tier 1 Support<a name="Tier1"></a>
 
 The VSP BE Tools team (previously named the "Triage" team) (Tier 1) in coordination with the on-call team will log in any defect reported on the production version of our products and provide Tier 1 support.
 
