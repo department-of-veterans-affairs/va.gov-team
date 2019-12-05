@@ -11,7 +11,7 @@
 | View MyDocs | Q2 2020 | Q3-Q1 2021 |
 | Revise Rated Disabilities (BE, UI) | Q2 2020 | Q3 2020 |
 | (Theoretical) Submit 509 | Q3 2020 | Q1-Q2 2021 |
-| Roles & Relationships | Q4 2020 | Q3 2021 |
+| Roles & Relationships | Q3 2020 | Q4 2020 |
 
 
 Near Term Roadmap Draft
