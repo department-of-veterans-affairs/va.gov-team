@@ -1,4 +1,4 @@
-# [Team Name] Charter
+# Caregivers Team Charter
 
 ---
 
@@ -27,9 +27,10 @@ _Link to agile roadmap_
 ## Who we are
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_
-- Team Product Manager: _person’s name_
-- _Additional Team Role_: _person’s name_
+- DSVA Product Lead: C.C. Gong
+- Team Product Manager: Alayna Abel
+- Front-End Engineering: Justin Lnn
+- Back-End Engineering: Lance Sanchez
 
 ---
 
@@ -40,30 +41,28 @@ _Link to agile roadmap_
 #### Stand-up
 Check in on people and product progress
 
-- Daily @ _time_
+- Every other day @ 1:30pm Eastern
 - 15 min
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
 Outline work to be done this sprint in order to accomplish the team's goals
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint @ 10am ET
 - 1 hour
-- _any other notes you have_
+
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
 
-- 1st Wednesday of every sprint @ _time_
+- 1st Wednesday of every sprint @ 1:45ET
 - 30 min
-- _any other notes you have_
 
 #### Grooming
 Assess and update workload for remainder of sprint
 
-- 2nd Thursday of every sprint
+- 2nd Thursday of every sprint, after Standup
 - 1 hour
-- _any other notes you have_
 
 #### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
