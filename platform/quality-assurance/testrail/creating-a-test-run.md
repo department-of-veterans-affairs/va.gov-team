@@ -1,4 +1,4 @@
-# Creating a test plan in TestRail
+# Creating a test run in TestRail
 
 *Preconditions: You are currently viewing the "Overview" page for your project.*
 
