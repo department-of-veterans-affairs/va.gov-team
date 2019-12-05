@@ -15,9 +15,12 @@ Specifically, issues such the following are things this proposal is looking to a
 * Very long build times (CMS)
 * Learning curve (onboarding is slow)
 * Lack of direct feedback form the system about deploy and service health state (is my change live and did it break the site? )
-* Increasing network and downstream dependency complexity (VAEC, TGW, DNS, VPN, TIC, etc…)
+* Increasing network and downstream dependency complexity (VAEC, TGW, DNS, VPN, TIC, several proxy layers, etc…)
 * Arduous process to onboard things that don’t fit BRD process exactly (CMS)
-* Environmental specifics (DVP Sandbox)
+* Environment specific implicit configuration (difficult to spin up DVP Sandbox as an example, how can we get more?)
+* Configuration bifurcation (authoritative configuration lives in multiple repos with multiple team owners)
+* Local development
+* Close coupling of system and service deployment (kernel patches go out with application deploys)
 
 By separating services from the underlying infrastructure and adding service centric tooling we can enhance  developer’s experience of the deployment lifecycle and provide a path to grow for the next three years.
 
