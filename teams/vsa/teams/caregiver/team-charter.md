@@ -29,7 +29,7 @@ _Link to agile roadmap_
 ### Team Members:
 - DSVA Product Lead: C.C. Gong
 - Team Product Manager: Alayna Abel
-- Front-End Engineering: Justin Lnn
+- Front-End Engineering: Justin Linn
 - Back-End Engineering: Lance Sanchez
 
 ---
