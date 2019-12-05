@@ -44,7 +44,7 @@ These are things you can optionally look at, but aren't required to enforce outs
     *   _i.e. using a `for` loop instead of a `.map` _
     *   _i.e. using conditionals in a loop instead of `.filter` _
 *   Inconsistency with our own style (for other repositories)
-    *   _I.e. ensuring the general approach to GIBCT is maintained is okay. Even if that style doesn’t match our other repositories, it is internally consistent _
+    *   _i.e. it's OK to ensure the general style of GIBCT is maintained within that codebase, even if that style doesn’t match our other repositories._
 *   The change doesn’t work as intended 
     *   _Generally we rely on the app teams' peer review / QA to validate this _
 
@@ -64,7 +64,7 @@ Ideally, this should be a time-boxed activity so that reviews aren’t substanti
 ### Goals
 
 *   PRs sent to the VSP team are completed in the expected time windows (see [code review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md) for VFS teams)
-    *   _An engineer from the VSP team will aim to review within one business day after the pull request has been reviewed by your team and you have been marked it Ready for review. Each additional round of changes will be reviewed within 24 hours._
+    *   _Once you are ready for the VSP team to review your PR, use the GitHub Ready for review button in the merge section of your pull request. An engineer should review the code within one business day._
 *   Engineers on the team are able to manage their own time effectively, with PR reviews not crowding out other sprint work
 *   PRs are reasonably load-balanced across the VSP team. “Hero engineers” doing a bulk of the PR reviews are a _negative_ indicator toward this goal.
 *   PRs that require multiple rounds of review are (as much as possible) handled by the same reviewer, to allow for continued context.
