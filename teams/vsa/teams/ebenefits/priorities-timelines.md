@@ -1,4 +1,4 @@
-# eBenefits Transformation Priorities Near Term Timelines
+# eBenefits Transformation Priorities (Near Term Timelines)
 
 ### Estimates, WIP
 
