@@ -14,10 +14,9 @@ For details on how and when to report Triage incidents access the [VSP - Triage 
 
 #### Tier 1 Process Details (VSA)<a name="Tier1Details"></a>
 
-1. The new GitHub issue is received and processed by the VSP Triage team as established in the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md).
-2. If VSP has not already created an issue in GitHub, the VSA PM must create an issue in GitHub. **IMPORTANT: The VSA PM must ensure  that that the "vsa-triage" label has been added to the Githhub issue.** This label is important, particularly for reporting purposes. 
-3. If the issue needs escalation, then it gets assigned to the VSA team as a [VSA Tier 2](#Tier2) issue.
-4. If the [VSA Tier 2](#Table1) resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in [Table 3](#Table3) herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in [Table 2](#Table2).
+1. The new GitHub issue is received and processed by the VSP Triage team as established in the [VSP - Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7000a834537bdad1172bf57f968b040ae6b45cb7/platform/working-with-vsp/policies-work-norms/reporting-an-incident-to-the-platform.md). 
+2. If the issue needs escalation, then it gets assigned to the VSA team as a [VSA Tier 2](#Tier2) issue.
+3. If the [VSA Tier 2](#Table1) resource cannot be reached and the issued is deemed &quot;critical&quot; per the criteria listed in [Table 3](#Table3) herein, the Tier 1 team will contact the appropriate VSA Tier 3 SME as identified in [Table 2](#Table2).
 
 The VSP (BE Tools) team defines the tiers and the escalation process in the following document [VSP Support Tiers and Escalation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md). The details for the VSA [Tier 2](#Tier2) and [Tier 3](#Tier3) processes are found below.
 
@@ -25,7 +24,7 @@ The VSP (BE Tools) team defines the tiers and the escalation process in the foll
 
 VSA comes into play when Tier 1 is unable to resolve the issue from a platform perspective.  If VSA resources are needed, the Triage effort is escalated to Tier 2 support and a GitHub issue will be updated using the appropriate labels and assigned to the appropriate team as defined in [Table 1](#Table1).
 
-VSA Tier 2 support involves the primary POCs for each product group.  The Product Manager is contacted first and is responsible for pulling in the appropriate resources and doing an escalation analysis based on the level of severity as described on the [Triage Severity Assessment](#Table3) table.
+VSA Tier 2 support involves the primary POCs/PMs for each product group.  The Product Manager is contacted first. If VSP has not already created an issue in GitHub, the VSA PM must create an issue in GitHub. **IMPORTANT: The VSA PM must ensure  that that the "vsa-triage" label has been added to the Githhub issue.** This label is important, particularly for reporting purposes. The PM is responsible for pulling in the appropriate resources and doing an escalation analysis based on the level of severity as described on the [Triage Severity Assessment](#Table3) table.
 
 #### Table 1: Tier 2 Support<a name="Table1"></a>
 
