@@ -1,4 +1,4 @@
-# Executiong tests in TestRail
+# Executing tests in TestRail
 
 *Preconditions: You are currently viewing the "Overview" page for your project.*
 
