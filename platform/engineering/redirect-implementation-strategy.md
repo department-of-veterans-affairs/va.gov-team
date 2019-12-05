@@ -47,6 +47,8 @@ _Upcoming redirects for entire subdomains, planned to be done server-side in 202
 
 ## Notes on implementation by type
 
+![Redirect Implementation Strategy Flow Chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-workflow.png)
+
 ### 1) Server-side redirects within www.va.gov 
 
 _When to do this?_
