@@ -33,7 +33,7 @@ _Document our understanding of the feature as it currently exists and how it fit
 - [ ] Create customer journey or workflow diagram of existing application
 - [ ] Create a markdown document with initial impressions, design hypotheses, and simple field research/ competitive analysis
 
-### Design Research | Conduct research on "[feature name]"
+### Design Research | Conduct user research on "[feature name]"
 
 _Create and execute a research plan to understand how Veterans use the feature, what its pain points and pain relievers are, and how it might be improved._
 
