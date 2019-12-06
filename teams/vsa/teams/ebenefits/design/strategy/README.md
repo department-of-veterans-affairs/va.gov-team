@@ -2,6 +2,12 @@
 
 **WIP:** Please let @steve-gov know of major edits!
 
+## Goal
+
+The goal of this doc is to create a framework for adding Design and Design Reseach issues to the issue tracker. It is a loose outline and not meant to be overly proscriptive. ("People over process!")
+
+This issue implies that design sketches are ready for iterative development starting just after the first design crit. This may not be applicable or necessary in all cases, eg. a simple list-view page.
+
 ## Approach
 
 1. Analyze existing feature
