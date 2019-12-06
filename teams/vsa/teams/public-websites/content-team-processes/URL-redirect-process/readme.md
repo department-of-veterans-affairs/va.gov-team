@@ -53,9 +53,11 @@ _**Platform IA contacts:**_ @mnorthuis (Mikki Northuis, Information Architect) @
 _**Public Website contacts:**_ @ncksllvn (Nick Sullivan, Front End Engineer) @Karak888 (Kara Kemahli, Product Manager) @lunascoop (Selina Cooper, Content & comms)
 
 ### Originates from Web Content Team (from new rewriting parity work)
+The figure below illustrates the redirect implementation process flow for the Public Websites team.
 
-![Redirects Process - Content team](https://user-images.githubusercontent.com/42546515/70183552-00b4e180-16b4-11ea-9bc6-ec04d78ad32e.jpg)
+![Redirects Process - Content team](https://user-images.githubusercontent.com/42546515/70354314-35a07000-183d-11ea-844c-d7dce8614ba3.jpg)
 
+---
 
 **Step 1.** When a content parity/legacy rewrite page is published, the content writer will assign the original content ticket to **@mnorthuis (Mikki)** and **@meganhkelley (Megan)** to request a redirect. 
 
