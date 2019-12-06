@@ -26,3 +26,12 @@ There is a field in the form chapter `householdInformation` called `marriges` th
 
 The code that places this form field in the form starts on line 427 of the 686 form config file at src/applications/disability-benefits/686/config.form.js
 
+## List of bugs discovered as of 12/6/2019
+1. Page refresh erases all data from the UI
+2. Attempting to expand the children tab on the review page throws a console error and removes the section from the DOM.
+3. Schema invalidation error when attempting to submit.
+4. Server error when attempting to submit. (422 unprocessable entity)
+5. Attempting to submit doesn’t update the corresponding status in the form object.
+6. When refreshing the page after problem #2, spouse information is removed from the review page, leaving only three sections. This also coincides with problem #1, the remaining three sections are blank.
+7. Using the browser back button allows you to go back, but all fields are empty. In order to regain your data, you have to use the URL to navigate to /disability-benefits/apply/dependents/, the start of the form, where upon you can click on continue application, thereby retrieving all of your existing data.
+8. Continuing the form drops you at the unmarried children page, even if you previously reached the review and submit page.
