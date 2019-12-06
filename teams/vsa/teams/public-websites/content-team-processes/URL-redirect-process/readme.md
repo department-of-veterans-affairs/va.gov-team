@@ -1,4 +1,4 @@
-# Client-side and service-side redirect implementation strategy for Public Websites team
+# Client-side and service-side redirect implementation process for Public Websites team
 Last update: 11/26/19
 
 _Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
