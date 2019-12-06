@@ -54,11 +54,11 @@ There is also a request for learning how to use a screen reader.
 Then, we’ll evaluate how these learning sessions are going, to ensure this is a useful format.
 
 ### Agenda
-* Inclusive Design: What It Is — And What It Isn’t
-* Why Inclusive Design Matters
-* Where You Make a Difference
-* How to Measure Inclusive Efforts
-* In Closing
+* [What It Is And What It Isn't](#what-it-is-and-what-it-isnt)
+* [Why Inclusive Design Matters](#why-inclusive-design-matters)
+* [Where You Make a Difference](#where-you-make-a-difference)
+* [How to Measure Inclusive Efforts](#how-to-measure-inclusive-efforts)
+* [There sure is a lot to know](#there-sure-is-a-lot-to-know)
 
 ### Resources
 Much of this content was adapted from these resources:
