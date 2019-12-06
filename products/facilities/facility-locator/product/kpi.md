@@ -42,3 +42,16 @@
 - By incorporating Urgent care information into the Facility Locator, we expect Veterans to find, understand and utilize information for these services more quickly. 
 - By implementing Health Services taxonomy, we expect Veterans to be able to search and identify the VAMC that provides the services they seek.  
 - By conducting research, we can test our assumptions about user pain points.
+
+## Legacy Known Issues referenced in Objective 1: 
+- ["Invalid date" Time Display on Facility Locator Hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4000)
+- [Small change to display of hours] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/3541)
+- [Facility locator fires multiple searches per user action](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3206)
+- [Facility Locator breaks on resize](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1693)
+- [Facility Locator - linked map pin goes to page without main content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2792)
+ - [Search for dropdown text is read aloud each time a letter is entered into Search city... input](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)
+- The map is announcing a lot of extra data on focus and each droplet needs a usable name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515) 
+- [Facility locator is not announcing the current page when there are more than one page of results](https://github.com/department-of-veterans-affairs/va.gov-team/issues/713)
+- [ Add Time Zones to Facility Hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3530)
+- [Search results discrepancy between map and list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2701)
+- ["Please call" text change (grammar) on Facility Locator Detail page]((https://github.com/department-of-veterans-affairs/va.gov-team/issues/3907) 
