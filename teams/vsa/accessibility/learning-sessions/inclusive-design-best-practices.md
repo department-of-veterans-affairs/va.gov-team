@@ -17,7 +17,7 @@ Friday, December 22, 2019, at 2pm ET, Accessibility Beyond Compliance (ABC) Lear
 * [Why Inclusive Design Matters](#why-inclusive-design-matters)
 * [Where You Make a Difference](#where-you-make-a-difference)
 * [How to Measure Inclusive Efforts](#how-to-measure-inclusive-efforts)
-* [There sure is a lot to know](#there-sure-is-a-lot-to-know)
+* [There Sure is a Lot to Know](#there-sure-is-a-lot-to-know)
 
 ### Schedule
 1. 5-minutes — Chat, wait for stragglers
@@ -58,7 +58,7 @@ Then, we’ll evaluate how these learning sessions are going, to ensure this is 
 * [Why Inclusive Design Matters](#why-inclusive-design-matters)
 * [Where You Make a Difference](#where-you-make-a-difference)
 * [How to Measure Inclusive Efforts](#how-to-measure-inclusive-efforts)
-* [There sure is a lot to know](#there-sure-is-a-lot-to-know)
+* [There Sure is a Lot to Know](#there-sure-is-a-lot-to-know)
 
 ### Resources
 Much of this content was adapted from these resources:
