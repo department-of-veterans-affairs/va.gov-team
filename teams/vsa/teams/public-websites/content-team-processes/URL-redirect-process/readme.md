@@ -15,7 +15,7 @@ _**Platform IA contacts:**_
 
 ## Redirect request process
 
-If you’re making a request for a page redirect, first contact the Platform team, per this process: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md
+If you’re making a request for a page redirect, first contact the Platform team, per the requirements outlined here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md
 
 ## Redirect implementation for other VSA teams (client- or server-side)
 
