@@ -12,7 +12,7 @@
 ## Objective 1: Improve Veteran search experience (as of December 6, 2019)
 
 **Key Results**
-- 100% of known (legacy) usability and accessibility defects are resolved by April 1, 2020.
+- 100% of [known (legacy) usability and accessibility defects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md#legacy-known-issues-referenced-in-objective-1) are resolved by April 1, 2020.
 - Search performance will be measurable by facility type and “category of care” by April 1, 2020. 
   - Future: Decreasing the time for delivering search results to <2-3s. 
 - The rate of search refinements for VA Health will be 2% or lower by July 1, 2020.  
@@ -45,13 +45,13 @@
 
 ## Legacy Known Issues referenced in Objective 1: 
 - ["Invalid date" Time Display on Facility Locator Hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4000)
-- [Small change to display of hours] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/3541)
+- [Small change to display of hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3541)
 - [Facility locator fires multiple searches per user action](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3206)
 - [Facility Locator breaks on resize](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1693)
 - [Facility Locator - linked map pin goes to page without main content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2792)
- - [Search for dropdown text is read aloud each time a letter is entered into Search city... input](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)
-- The map is announcing a lot of extra data on focus and each droplet needs a usable name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515) 
+- [Search for dropdown text is read aloud each time a letter is entered into Search city... input](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)
+- [The map is announcing a lot of extra data on focus and each droplet needs a usable name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515) 
 - [Facility locator is not announcing the current page when there are more than one page of results](https://github.com/department-of-veterans-affairs/va.gov-team/issues/713)
 - [ Add Time Zones to Facility Hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3530)
 - [Search results discrepancy between map and list](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2701)
-- ["Please call" text change (grammar) on Facility Locator Detail page]((https://github.com/department-of-veterans-affairs/va.gov-team/issues/3907) 
+- ["Please call" text change (grammar) on Facility Locator Detail page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3907) 
