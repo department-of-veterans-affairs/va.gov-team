@@ -13,7 +13,7 @@ _**Platform IA contacts:**_
 @mnorthuis (Mikki Northuis, Information Architect) 
 @meganhkelley (Megan Kelley, Product Manager)
 
-## Redirect request process
+## Redirect request requirements
 
 If you’re making a request for a page redirect, first contact the Platform team, per the requirements outlined here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md
 
