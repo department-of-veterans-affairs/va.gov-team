@@ -2,14 +2,13 @@
 
 ## Product Line
 - Unauthenticated Experience
-## North Star: TBD
+## North Star: (WIP)
+- Veterans have the information they need to be prepared to visit a VA facility. 
 ## Product
 - Facility Locator 
 ## High Level Objective
 - Provide a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about facilities offering priority VA benefits and services. 
-
-
-## Objective 1: Improve Veteran search experience (as of December 6, 2019)
+### Objective 1: Improve Veteran search experience (as of December 6, 2019)
 
 **Key Results**
 - 100% of [known (legacy) usability and accessibility defects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md#legacy-known-issues-referenced-in-objective-1) are resolved by April 1, 2020.
@@ -18,7 +17,7 @@
 - The rate of search refinements for VA Health will be 2% or lower by July 1, 2020.  
 - A baseline rate for 5 star user satisfaction will be established by April 1, 2020. 
 
-## Objective 2: Reform Community Care implementation (as of December 6, 2019)
+### Objective 2: Reform Community Care implementation (as of December 6, 2019)
 
 **Key Results**
 - The rate of search refinements for Community Care will be at parity with VA facility searches by July 1, 2020. 
@@ -26,7 +25,7 @@
 - A baseline for the percentage of users searching for urgent care who download the benefit PDF will be established by March 15, 2020.
   - Future: increase % with future UX iterations 
 
-## Objective 3: Improve data quality (as of December 6, 2019)
+### Objective 3: Improve data quality (as of December 6, 2019)
 
 **Key Results**
 - The number of missing expected data elements will decrease by 50% by July 1, 2020.
@@ -43,7 +42,7 @@
 - By implementing Health Services taxonomy, we expect Veterans to be able to search and identify the VAMC that provides the services they seek.  
 - By conducting research, we can test our assumptions about user pain points.
 
-## Legacy Known Issues referenced in Objective 1: 
+### Legacy Known Issues referenced in Objective 1: 
 - ["Invalid date" Time Display on Facility Locator Hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4000)
 - [Small change to display of hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3541)
 - [Facility locator fires multiple searches per user action](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3206)
