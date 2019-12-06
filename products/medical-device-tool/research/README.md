@@ -7,12 +7,16 @@ _Timeline: Oct 23 - Nov 20_
 
 This research was conducted to help clarify the current state of the problem space and form a common understanding in the BAM2 and DSVA Teams. This research was deemed necessary to understand this problem space and identify potential stakeholder groups for kickoff. During this time, we investigated publicly-available knowledge about the ordering process as it exists today and the each of the disabilities the devices aid with.
 
+#### Product
+
+#### Design
 - [Preliminary Findings Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/MDO_Preliminary_Research%20Notes_11-5.pdf)
 - [Disabilities Research: Hearing Aids](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/hearing-aids-research.md)
 - [Disabilities Research: Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/prosthetic-socks-research.md)
 - [DLC Stakeholder Introduction & Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md)
 - [Design Team Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/preliminary-findings-presentation.pdf)
-- Preliminary Technical Research
+
+#### Engineering
   - [Entity Relationship Diagram (ERD)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/ERD.png)
   - [Web Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
   - [API Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/api%20diagram.pdf)
@@ -24,4 +28,25 @@ This research is to bring stakeholder and SME knowledge into the mix as well as 
 
 [Link to discovery sprint folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research/discovery-nov19)
 
-- [Workflows](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/workflows.md)
+#### Product
+
+#### Design
+- [Discovery Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-project-brief.md)
+- [Stakeholder Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/stakeholder-conversation-guide.md)
+- Stakeholder Meeting Notes
+  - [Introduction Meeting 1 (Nov 15, 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191115-DALC-stakeholder-introductions.md)
+  - [Introduction Meeting 2 (Nov 21, 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191121-DALC-stakeholder-meeting.md)
+  - [Introduction Meeting 3 (Nov 25, 2019)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20191125-DALC-stakeholder-meeting.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
+- User Research Conversation Guide
+  - [Prostheses / Prosthetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-prostheses.md)
+  - [Hearing Aids / Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md)
+- [Workflow Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/workflows.md)
+- User Interview Notes
+- Synthesis Artifacts
+- Research, IA, and Content Consultation Notes
+- Product Outline (Updated)
+- Discovery Readout Presentation
+
+#### Engineering
+- Technical Review Commentary
