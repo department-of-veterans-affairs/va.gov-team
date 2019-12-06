@@ -1,15 +1,23 @@
-# Client-side and service-side redirects are implemented by the Website team
+# Client-side and service-side redirect implementation strategy for Website team
+Last update: 11/26/19
 
-If you’re making a request for a page redirect, first contact Platform team, per this process: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md 
+_Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
 
+--- 
+## About this doc
 These steps document how redirects will be implemented by the Public Website Team **after a redirect request has been vetted by Platform.** 
+
+If you're interested in the platform team's current redirect implementation strategy, as well as areas of process refinement, visit: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md
 
 _**Platform IA contacts:**_
 @Mikki (Information Architect)
 @Megan Kelley (Product Manager)
 
+## Redirect request process
 
-## Redirects for other VSA teams (client- or server-side)
+If you’re making a request for a page redirect, first contact Platform team, per this process: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md
+
+## Redirect implementation for other VSA teams (client- or server-side)
 
 _**Public Website contacts:**_
 @nick (Front End Engineer)
@@ -33,8 +41,7 @@ If it’s an urgent redirect request, and we can’t meet the requested target d
 **Step 4.** Assigned FE engineer will let requestor and Mikki know when redirect goes live via PR notification, and close the ticket once live. [@nick – does this sound legit?]
 *	_**RE SME and stakeholder communication:**_ The original requestor (e.g., BAH team contact) is responsible for communicating with their stakeholder teams. 
 
-
-## Client-side redirects for benefit hub legacy/parity content 
+## Client-side redirect implementation for benefit hub legacy/parity content 
 
 The below process applies to benefit hub legacy/parity content redirects. These redirects are managed client-side by the Public Website team. There are 2 types/scenarios for benefit hub legacy/parity redirects:
 
