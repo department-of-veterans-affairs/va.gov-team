@@ -5,7 +5,7 @@ _Team met to review process and ensure that everyone's on the same page. Megan K
 
 --- 
 ## About this doc
-These steps document how redirects will be implemented by the Public Website Team **after a redirect request has been vetted by Platform.** 
+These steps document how redirects will be implemented by the Public Website team **after a redirect request has been vetted by Platform.** 
 
 If you're interested in the Platform team's current redirect implementation strategy, as well as areas of process refinement, visit: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/redirect-implementation-strategy.md
 
