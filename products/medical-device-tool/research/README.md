@@ -44,6 +44,7 @@ This research is to bring stakeholder and SME knowledge into the mix as well as 
   - [Hearing Aids / Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md)
 - [Workflow Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/workflows.md)
 - User Interview Notes
+  - [P1 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p1.md)
 - Synthesis Artifacts
 - Research, IA, and Content Consultation Notes
 - Product Outline (Updated)
