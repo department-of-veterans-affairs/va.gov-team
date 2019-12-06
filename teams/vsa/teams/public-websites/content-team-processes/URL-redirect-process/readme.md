@@ -53,7 +53,7 @@ _**Platform IA contacts:**_ @mnorthuis (Mikki Northuis, Information Architect) @
 _**Public Website contacts:**_ @ncksllvn (Nick Sullivan, Front End Engineer) @Karak888 (Kara Kemahli, Product Manager) @lunascoop (Selina Cooper, Content & comms)
 
 ### Originates from Web Content Team (from new rewriting parity work)
-The figure below illustrates the redirect implementation process flow for the Public Websites team.
+_The image below illustrates the redirect implementation process flow for the Public Websites team._
 
 ![Redirects Process - Content team](https://user-images.githubusercontent.com/42546515/70354314-35a07000-183d-11ea-844c-d7dce8614ba3.jpg)
 
