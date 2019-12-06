@@ -90,12 +90,7 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 ## How to Access and Test
 - Link: Unauthenticated: https://staging.va.gov/disability/check-disability-rating/
 - Link: Authenticated: https://staging.va.gov/disability/check-disability-rating/rating/
-- Password protection info:
-- User authentication info: [Link to instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
-- Test accounts (P: Zm9ydHkgdHdv)
-  - User: vets.gov.user+228@gmail.com (has 5 ratings, 3 are SC)
-  - User: vets.gov.user+10@gmail.com (has no ratings)
-  - User: vets.gov.user+123@gmail.com (has 1 rating, SC)
+Please contact @jason-gcio for more info
 
 ## Error Handling
 There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
