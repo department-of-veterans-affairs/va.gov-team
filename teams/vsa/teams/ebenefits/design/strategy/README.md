@@ -1,4 +1,6 @@
-# Design Startegy for Feature Migration
+# Design Strategy for Feature Migration
+
+**WIP**
 
 ## Approach
 
@@ -10,9 +12,11 @@
 6. Conduct usability
 7. Present designs for launch crit
 
+`Steps 5-7 might be squashed into a single process, but it is good practice to document all the necessary tasks so that Design effort receives a true accounting.`
+
 ## Issue Templates
 
-### Design Research | Analyze [feature name] and create initial design artifacts
+### Design Research | Analyze "[feature name]" and create initial design artifacts
 
 _Create and document a framework for understanding the feature as it currently exists and how it fits into the VA online ecosystem._
 
@@ -21,7 +25,7 @@ _Create and document a framework for understanding the feature as it currently e
 - [ ] Create customer journey or workflow diagram of existing application
 - [ ] Create a markdown document with initial impressions, design hypotheses, and simple field research/ competitive analysis
 
-### Design Research | Conduct research on existing feature
+### Design Research | Conduct research on "[feature name]"
 
 _Create and execute a research plan to understand how Veterans use the feature, what its pain points and pain relievers are, and how it might be improved._
 
@@ -29,6 +33,50 @@ _Create and execute a research plan to understand how Veterans use the feature, 
   - [ ] Write conversation guide
   - [ ] Coordinate sessions with user research partner, asking them to take notes
 - [ ] Run research sessions
-- [ ] Create synthesis document with recommendations for readout
+- [ ] Create synthesis document with recommendations
+- [ ] Schedule time for synthesis readout at demo
 
-### WIP
+### Design | Create lo-fi sketches and flows for "[feature name]"
+
+_Work with the team to create design artifacts that engineering might use to start building._
+
+- [ ] Based on research findings and existing product documentation, create lo-fi product sketches for _happy path_ flows
+- [ ] Coordinate with BE/ FE engineering to create lo-fi product sketches for error state flows
+
+**NB:** These steps may require multiple issues to capture the individual fields flows/ features/ expectations
+
+### Design | Run and synthesize design crit on "[feature name]" sketches
+
+_Present findings and sketches to the Design Practice, and update lo-fi sketches with critical feedback._
+
+- [ ] Schedule a time for a design practice critique of the lo-fi setches and flows
+- [ ] Incorporate rough feedback from the session
+- [ ] Schedule a time to walk PM/BE/FE engineering through the updated sketches
+
+### Design | Improve fidelity of sketches for "[feature name]"
+
+_Move lo-fi sketches to product designs based on the reaserch, crit, and design system._
+
+- [ ] Create product designs per screen/ flow/ error state
+  - `Break into individual issues per major task`
+
+### Design Research | Conduct usability study on mockups for "[feature name]"
+
+_Put the product designs in front of real users and ask them how the designs help them achieve specific goals._
+
+- [ ] Create usability research plan
+  - [ ] Write conversation guide
+  - [ ] Coordinate sessions with user research partner, asking them to take notes
+- [ ] Run usability sessions
+- [ ] Create synthesis document with recommendations
+- [ ] Schedule time for synthesis readout at demo
+- [ ] Incorporate critical user feedback into product designs
+  - `Break into individual issues per task`
+
+### Design | Present "[feature name]" product designs for launch crit
+
+_Present launch-ready product designs to the Design Practice and update with any critical feedback._
+
+- [ ] Schedule a time for a design practice critique of the product designs
+- [ ] Incorporate critical feedback from the session
+- [ ] Schedule a time to walk PM/BE/FE engineering through the updates if necessary
