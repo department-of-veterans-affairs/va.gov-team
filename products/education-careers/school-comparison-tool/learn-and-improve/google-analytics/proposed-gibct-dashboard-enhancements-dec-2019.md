@@ -14,7 +14,7 @@ Potential enhancements to the GI Bill Comparison Tool Dashboard in Google Analyt
 - Keep the heat map of users by state (Is the title accurate, or is it where they search?  What is it based on, can we use the same for VET TEC?)
 - Display a pie chart of the "Most Viewed Institutions"
 - Keep "Top searches for location or provider"
-- Expand "Top 10 Form Selections used in GIBCT Landing Page" to show all "Form Selections used on the GIBCT Landing Page"
-- Expand "Top 10 Form Selections used on GIBCT Profile Pages" to show all "Form Selections used on the GIBCT Profile Pages"
-- Expand "Top Learn More Selections on GIBCT Profiles" to show all "Learn More Selections on GIBCT Profile Pages"
+- Keep "Top 10 Form Selections used in GIBCT Landing Page" 
+- Keep "Top 10 Form Selections used on GIBCT Profile Pages" 
+- Keep "Top Learn More Selections on GIBCT Profiles"
 - Display a list of the top inbound links.
