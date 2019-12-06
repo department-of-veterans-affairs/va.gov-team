@@ -1,33 +1,44 @@
-# VSA - Facility Locator: KPI Setting (WIP)
+# VSA - Facility Locator: KPI Setting 
 
 ## Product Line
 - Unauthenticated Experience
 ## North Star: TBD
 ## Product
 - Facility Locator 
-## High Level Objectives
-- Work with Veterans and beneficiaries to design and deliver the best digital experience in the federal government.
-- Provide a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about VA facilities and the benefits and services that are offered
-- Design customer-focused, data-driven interactions to improve ease of use and comprehension 
-- Integrate access to emergency/urgent care facilities
-- Prepare Veteran for the visit: what are the obligations of this tool related to preparing for the visit?
+## High Level Objective
+- Provide a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about facilities offering priority VA benefits and services. 
+
+
+## Objective 1: Improve Veteran search experience (as of December 6, 2019)
+
+**Key Results**
+- 100% of known (legacy) usability and accessibility defects are resolved by April 1, 2020.
+- Search performance will be measurable by facility type and “category of care” by April 1, 2020. 
+  - Future: Decreasing the time for delivering search results to <2-3s. 
+- The rate of search refinements for VA Health will be 2% or lower by July 1, 2020.  
+- A baseline rate for 5 star user satisfaction will be established by April 1, 2020. 
+
+## Objective 2: Reform Community Care implementation (as of December 6, 2019)
+
+**Key Results**
+- The rate of search refinements for Community Care will be at parity with VA facility searches by July 1, 2020. 
+- All urgent care searches will be performed using the modernized Facility Locator by February 2, 2020. 
+- A baseline for the percentage of users searching for urgent care who download the benefit PDF will be established by March 15, 2020.
+  - Future: increase % with future UX iterations 
+
+## Objective 3: Improve data quality (as of December 6, 2019)
+
+**Key Results**
+- The number of missing expected data elements will decrease by 50% by July 1, 2020.
+
 ## "Assumed" Pain Points
 - Finding a facility (with Facility Locator or outside of Facility Locator) is frustrating for Veterans. The process is lengthy and not always successful.
 - Searching for a facility often requires use of more than one Facility Locator, resulting in inconsistent presentation of information and confusing navigation. 
 - Search results can be incomplete and/or incorrect with high latency/timeouts
 - Information presented can be easily misunderstood or incomplete, may not represent what is actually offered
-## Desired Outcomes (WIP)
-- Driving Veterans into Benefit Hub (need to confirm intent with Andy)
-  - could look at exit rates (assuming exit means they did not find what they were looking for)...how deep do we expect them to go? To Facility Detail page? To click the phone number or look at the map? May be facility-type specific (VHA vs Benefits vs Cemetery)
-- Reduced time spent on finding facility information.
-  - _I notice VSP has this:"90% of user requests are served in <1000 ms (latency)" or do we want to measure in "clicks"_fewer queries? less scrolling? Magnification? Search refinement? 
-- Enhanced Veteran comprehension about available services, where to access the services and how they will be covered 
-  - (_how can we measure this?_ _"did you find this useful? Did you find what you are looking for? Thumbs up/down?_
-- Reduced number of calls regarding facilities and scheduling and satisfaction
-  - (_Call center data about specific items, such as parking_) TBD
+
 ## Hypotheses
 - By reducing the bottleneck at the API gateway (Kong) and implementing other performance improvements, we expect search performance to be on par with private sector industry standards to deliver a best in class experience and been seen as a trusted, reliable source. 
-- By applying the appropriate level of information to be surfaced on external websites, we can serve the Veteran's basic search needs outside of the Facility Locator as well as within the application.
-- By incorporating Urgent care services into the Facility Locator, we expect Veterans to find, understand and utilize information for these services more quickly. 
+- By incorporating Urgent care information into the Facility Locator, we expect Veterans to find, understand and utilize information for these services more quickly. 
 - By implementing Health Services taxonomy, we expect Veterans to be able to search and identify the VAMC that provides the services they seek.  
 - By conducting research, we can test our assumptions about user pain points.
