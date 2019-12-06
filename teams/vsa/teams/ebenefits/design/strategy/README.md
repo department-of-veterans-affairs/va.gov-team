@@ -1,6 +1,6 @@
 # Design Strategy for Feature Migration
 
-**WIP**
+**WIP:** Please let @steve-gov know of major edits!
 
 ## Approach
 
@@ -15,6 +15,8 @@
 `Steps 5-7 might be squashed into a single process, but it is good practice to document all the necessary tasks so that Design effort receives a true accounting.`
 
 ## Issue Templates
+
+`Use these templates as a starting place to make issues for Product Design and Research.`
 
 ### Design Research | Analyze "[feature name]" and create initial design artifacts
 
