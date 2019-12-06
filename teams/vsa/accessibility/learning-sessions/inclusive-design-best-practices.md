@@ -16,8 +16,8 @@ Friday, December 22, 2019, at 2pm ET, Accessibility Beyond Compliance (ABC) Lear
 * [What It Is And What It Isn't](#what-it-is-and-what-it-isnt)
 * [Why Inclusive Design Matters](#why-inclusive-design-matters)
 * [Where You Make a Difference](#where-you-make-a-difference)
-* []()
-* []()
+* [How to Measure Inclusive Efforts](#how-to-measure-inclusive-efforts)
+* [There sure is a lot to know](#there-sure-is-a-lot-to-know)
 
 ### Schedule
 1. 5-minutes — Chat, wait for stragglers
@@ -532,6 +532,8 @@ Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA 
 
 Instead of intimidating you, I hope this information empowers you with confidence and inspiration to imagine how you might incorporate accessibility and involve diverse perspectives, including people with disabilities, throughout your project.
 
+<blockquote>When it comes to people, there’s no such thing as &ldquo;normal.&rdquo;</blockquote>
+
 ### Inclusive design guidelines
 
 Resources and guidelines are available in our VA accessibility Github repos:
@@ -547,6 +549,5 @@ Resources and guidelines are available in our VA accessibility Github repos:
 * [Inclusive design guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/inclusive-design-guidelines.md)
 * [Examples of assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
 
-<blockquote>When it comes to people, there’s no such thing as &ldquo;normal.&rdquo;</blockquote>
 
 <blockquote><strong>&ldquo;Ohana means family. Family means no one gets left behind or forgotten.&rdquo;</strong></blockquote>
