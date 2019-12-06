@@ -6,7 +6,7 @@
 
 The goal of this doc is to create a framework for adding Design and Design Reseach issues to the issue tracker. It is a loose outline and not meant to be overly proscriptive. ("People over process!")
 
-This issue implies that design sketches are ready for iterative development starting just after the first design crit. This may not be applicable or necessary in all cases, eg. a simple list-view page.
+The framework implies that design sketches are ready for iterative development starting immediately after the first design crit. This may not be applicable or necessary in all cases, eg. a simple list-view page might get scaffolded by engineering just using the design system, with an understanding that updates may be necessary later.
 
 ## Approach
 
