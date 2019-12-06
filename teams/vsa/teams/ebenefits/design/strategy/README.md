@@ -32,10 +32,10 @@ _Document our understanding of the feature as it currently exists and how it fit
 _Create and execute a research plan to understand how Veterans use the feature, what its pain points and pain relievers are, and how it might be improved._
 
 - [ ] Create research plan
-  - [ ] Write conversation guide `(TODO: Link to guide template?`
-  - [ ] Coordinate sessions with user research partner, asking them to take notes
+  - [ ] Write conversation guide `TODO: Link to guide template`
+  - [ ] Coordinate sessions with user research partner, asking them to take notes `TODO: Link to research engagement guide`
 - [ ] Run research sessions
-- [ ] Create synthesis document with recommendations
+- [ ] Create synthesis document with recommendations `TODO: Link to document template`
 - [ ] Schedule time for synthesis readout at demo
 
 ### Design | Create lo-fi sketches and flows for "[feature name]"
@@ -43,7 +43,7 @@ _Create and execute a research plan to understand how Veterans use the feature, 
 _Work with the team to create design artifacts that engineering might use to start building._
 
 - [ ] Based on research findings and existing product documentation, create lo-fi product sketches for _happy path_ flows
-- [ ] Coordinate with BE/ FE engineering to create lo-fi product sketches for error state flows
+- [ ] Coordinate with BE/ FE engineering to create lo-fi product sketches for _error state_ flows
 
 **NB:** These steps may require multiple issues to capture the individual fields flows/ features/ expectations
 
