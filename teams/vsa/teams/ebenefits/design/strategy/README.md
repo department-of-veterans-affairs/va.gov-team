@@ -11,7 +11,7 @@ The framework implies that design sketches are ready for iterative development s
 ## Approach
 
 1. Analyze existing feature
-2. Conduct research on existing feature
+2. Conduct user research on existing feature
 3. Synthesize analysis and research into lo-fi sketches and flows
 4. Take synthesis to design crit (development should be able to start working with the sketches here)
 5. Improve fidelity of sketches
