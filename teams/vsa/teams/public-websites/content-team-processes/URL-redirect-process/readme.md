@@ -23,7 +23,7 @@ _**Public Website contacts:**_
 @ncksllvn (Nick Sullivan, Front End Engineer) 
 @Karak888 (Kara Kemahli, Product Manager) 
 
-**Step 1.** Mikki/Platform triages initial request, and assigns @Nick @Kara on the Website team. Please clearly list in the website team request the following: **[TBD Mikki’s template]**
+**Step 1.** Mikki/Platform triages initial request, and assigns **Nick, Kara** on the Website team. Please clearly list in the website team request the following: **[TBD Mikki’s template]**
 
  Legacy URL  |  Redirect to
  ---  |  ---
@@ -67,7 +67,7 @@ insert legacy URL | insert new URL
 
 * Desired implementation target date: **[Allow at least 2 weeks when requesting Platform team. Also see note below.]**
 
-**Step 2.** Mikki will vet the URLs, and then assign @Karak888 (Kara), @ncksllvn (Nick), and @lunascoop (Selina).
+**Step 2.** Mikki will vet the URLs, and then assign **@Karak888 (Kara), @ncksllvn (Nick), and @lunascoop (Selina)**.
 
 **Step 3.** Kara will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
 
