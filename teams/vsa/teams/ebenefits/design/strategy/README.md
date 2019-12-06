@@ -20,7 +20,7 @@
 
 ### Design Research | Analyze "[feature name]" and create initial design artifacts
 
-_Create and document a framework for understanding the feature as it currently exists and how it fits into the VA online ecosystem._
+_Document our understanding of the feature as it currently exists and how it fits into the VA online ecosystem._
 
 - [ ] **Product**: Write user stories for existing application features
 - [ ] **Product**: Write product documentation as a README file in the feature repo root, with known metrics and stakeholders
@@ -32,7 +32,7 @@ _Create and document a framework for understanding the feature as it currently e
 _Create and execute a research plan to understand how Veterans use the feature, what its pain points and pain relievers are, and how it might be improved._
 
 - [ ] Create research plan
-  - [ ] Write conversation guide
+  - [ ] Write conversation guide `(TODO: Link to guide template?`
   - [ ] Coordinate sessions with user research partner, asking them to take notes
 - [ ] Run research sessions
 - [ ] Create synthesis document with recommendations
