@@ -173,8 +173,7 @@ As people move through different environments, their abilities can also change d
  </tbody>
 </table>
 
-“The concept of "disability" may have limited the understanding of the need for accessible technology … the IT industry must consider the wide range of people who could benefit.” 
-- [Microsoft (2003)](https://www.microsoft.com/design/inclusive/)
+“The concept of "disability" may have limited the understanding of the need for accessible technology … the IT industry must consider the wide range of people who could benefit.” - [Microsoft (2003)](https://www.microsoft.com/design/inclusive/)
 
 One finding of Microsoft’s report [The Wide Range of Abilities and Its Impact on Computer Technology](https://download.microsoft.com/download/0/1/f/01f506eb-2d1e-42a6-bc7b-1f33d25fd40f/researchreport.doc) is that, before developers of technology products can address the growing demand for accessible products effectively, they must first acknowledge the reality that the concept of disability may have previously limited their understanding of that need.
 
@@ -261,7 +260,7 @@ It may seem daunting to include people with disabilities on your project team. W
 - [ ] Instead of evaluating accessibility separately, integrate checks where they fit best within your current reviews, testing, and quality assurance (QA)
 - [ ] Business and usability goals include accessibility requirements
 
-<blockquote><strong>&ldquo;Designing for inclusion is not a feel-good sideline.&hellip; inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.&rdquo;</strong>
+<blockquote><strong>&ldquo;Designing for inclusion is not a feel-good sideline.&hellip; inclusion can be a source of innovation and growth, especially for digital technologies. It can be a catalyst for creativity and a boost for the bottom line as a customer base expands. And each time we remedy a mismatched interaction, we create an opportunity for more people to contribute to society in meaningful ways.&rdquo;</strong><br/>
  — John Maeda, in the forward to Kat Holmes’ <em>Mismatch, How Inclusion Shapes Design</em>
  </blockquote>
 
@@ -386,7 +385,7 @@ When including accessibility in workflow analysis, observe people with disabilit
 
 Source: [http://uiaccess.com/accessucd/analysis.html](http://uiaccess.com/accessucd/analysis.html)
 
-<blockquote><strong>&ldquo;Every decision we make can raise or lower barriers to participation in society. It&rsquo;s our collective responsibility to lower these barriers through inclusive products, services, environments, and experiences.&rdquo;</strong>
+<blockquote><strong>&ldquo;Every decision we make can raise or lower barriers to participation in society. It&rsquo;s our collective responsibility to lower these barriers through inclusive products, services, environments, and experiences.&rdquo;</strong><br/>
  — <a href="https://www.microsoft.com/design/inclusive/">Microsoft Inclusive Design Toolkit Manual</a>
 </blockquote>
 
@@ -457,8 +456,8 @@ We’re here to support one another, so it&rsquo;s okay to not know! </blockquot
 Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA). 
 
 <blockquote><strong>&ldquo;If design is the source of mismatches and exclusion, can it also be remedy? 
- Yes, but it takes work.&rdquo;</strong></blockquote>
-— Kat Holmes, author of *Mismatch, How Inclusion Shapes Design*
+ Yes, but it takes work.&rdquo;</strong><br/>
+ — Kat Holmes, author of <em>Mismatch, How Inclusion Shapes Design</em></blockquote>
 
 ## How to Measure Inclusive Efforts
 
