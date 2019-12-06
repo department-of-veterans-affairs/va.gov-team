@@ -86,7 +86,7 @@ You may work with PII/PHI as part of your work, and will undergo VA training tha
 - Scope out the [On Call](/Practice%20Areas/Engineering/OnCall) documentation for details on the On Call procedures. Specifically:
     - Learn how to [configure Pager Duty](/Practice%20Areas/Engineering/OnCall/Pager%20Duty.md) so you don't miss a page.
     - Join the `dsva` Keybase team as an alternative when slack is down (/Practice%20Areas/Engineering/OnCall/Alternative Communication%20Channels.md)
-    - Check out the [services your team is responsible for](/Practice%20Areas/Engineering/OnCall/Services.md) during your rotation.
+    - Check out the [services your team is responsible for](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/services.md) during your rotation.
     - Get a general idea of [what you'll get paged for](Work%20Practices/Engineering/OnCall/What%20Triggers%20a%20Page.md).
     - Understand how to [respond to an incident](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md) when you get paged.
     - Read some [Postmortems](/Postmortems) for real examples of how we respond to issues.
