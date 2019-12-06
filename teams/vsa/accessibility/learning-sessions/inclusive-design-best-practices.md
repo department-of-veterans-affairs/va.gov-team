@@ -68,10 +68,10 @@ Much of this content was adapted from these resources:
 
 All of these resources are available free online, except the book Mismatch. The Mismatch website has a plethora of free resources and scenarios. Illustrations are from *Microsoft’s Inclusive Design Toolkit*.
 
-<blockquote><strong>&ldquo;I don&rsquo;t know&rdquo; is an acceptable answer.</strong></blockquote>
-Continuous improvement is a tenet of Scrum and Agile: Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
+<blockquote><strong>&ldquo;I don&rsquo;t know&rdquo; is an acceptable answer.</strong><br/>
+Continuous improvement is a tenet of Scrum and Agile: Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently.<br/><br/>
 
-We&rsquo;re here to support one another, so it&rsqu;s okay to not know!
+We&rsquo;re here to support one another, so it&rsquo;s okay to not know!</blockquote>
 
 Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA).
 
@@ -97,29 +97,24 @@ Source: [Medium post](https://medium.com/aiga-eye-on-design/what-were-leaving-ou
 
 Robin pointed out that without accessibility at the very heart of everything you do, you will be producing websites and apps that leave not only disabled shoppers, but almost every one of your customers, frustrated and keen to take their money elsewhere.
 
-<blockquote><strong>Inclusive design</strong> focuses on the diversity of people and considers the impact on design decisions.
+### Inclusive design focuses on the diversity of people and considers the impact on design decisions.
 
-<ul>
- <li>Recognize exclusion</li>
- <li>Learn from diversity</li>
- <li>Solve for one, extend to many</li>
-</ul>
-</blockquote>
+* Recognize exclusion
+* Learn from diversity
+* Solve for one, extend to many
 
 **Inclusive design:** A design methodology that enables and draws on the full range of human diversity. Most importantly, this means including and learning from people with a range of perspectives. Designing inclusively doesn’t mean you’re making one thing for all people. You’re designing a diversity of ways for everyone to participate in an experience with a sense of belonging. Many people are unable to participate in aspects of society, both physical and digital. Understanding why and how people are excluded gives us actionable steps to take towards inclusive design.
 
 The premise of inclusive design is that apart from permanent disabilities there are temporary, situational, or changing disabilities that affect us all. We use mobile devices in noisy environments, we struggle with screen glare in sunlight, and we attempt to tap links on touch screens that are positioned too close to each other—all of which leaves us temporarily impaired.
 
-<blockquote><strong>Accessibility</strong>
-<ol>
- <li>The qualities that make an experience open to all.</li>
- <li>A professional discipline aimed at achieving No. 1.</li>
-</ol>
-</blockquote>
+### Accessibility
+
+1. The qualities that make an experience open to all.
+2. A professional discipline aimed at achieving No. 1.
 
 An important distinction is that accessibility is an _attribute_, while inclusive design is a _method_. And while practicing inclusive design should make your products more accessible, it’s not a process for meeting all accessibility standards. Ideally, accessibility and inclusive design work together to make experiences that are not only compliant with standards, but truly usable and open to all.
 
-Another concept that is closely related to inclusive design is universal design.
+### Universal design is another concept closely related to inclusive design
 
 **Universal Design** is defined as the design of an environment so that it might be accessed and used in the widest possible range of situations without the need for adaptation.
 
@@ -136,15 +131,13 @@ Inclusive design, universal design, and accessibility are important for differen
 * Might not involve the participation of excluded communities 
 * One-size-fits-all
 
-**Accessibility** is an attribute, while Inclusive Design and Universal Design are methods. Accessible solutions aren’t always designed to consider human diversity or emotional qualities like beauty or dignity. They simply need to provide access.
+**Accessibility** is an *attribute*, while Inclusive Design and Universal Design are *methods*. Accessible solutions aren’t always designed to consider human diversity or emotional qualities like beauty or dignity. They simply need to provide access.
 
-Inclusive design should always start with a solid understanding of accessibility fundamentals. 
+**Inclusive design** should always start with a solid understanding of accessibility fundamentals. 
 
 Accessibility criteria are the foundation of integrity for any inclusive solution.
 
-Inclusive design, accessibility, and universal design are important for different reasons and have different strengths. Designers should be familiar with all three.
-
-An inclusive designer is someone, arguably anyone, who recognizes and remedies mismatched interactions between people and their world. They seek out the expertise of people who navigate exclusionary designs. The expertise of excluded communities gives insight into a diversity of ways to participate in an experience.
+Designers should be familiar with all three. An inclusive designer is someone, arguably anyone, who recognizes and remedies mismatched interactions between people and their world. They seek out the expertise of people who navigate exclusionary designs. The expertise of excluded communities gives insight into a diversity of ways to participate in an experience.
 Source: [Fast Company]9https://www.fastcompany.com/90243282/the-no-1-thing-youre-getting-wrong-about-inclusive-design)
 
 ## Why Inclusive Design Matters
