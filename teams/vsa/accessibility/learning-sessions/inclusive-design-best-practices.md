@@ -47,7 +47,7 @@ There is also a request for learning how to use a screen reader.
 
 ### Calendar of Learning Sessions
 * Nov 22 - Inclusive Design Best Practices
-* Dec 20 - Getting Started with Screen Readers and Keyboard Usage
+* Dec 20 - Getting Started with Screen Readers and Keyboard Navigation
 * Jan ## - Cognitive Considerations
 * Feb ## - Web Performance Impact on UX & Accessibility
 
