@@ -45,7 +45,11 @@ This research is to bring stakeholder and SME knowledge into the mix as well as 
   - [Hearing Aids / Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/veteran-conversation-guide-hearingaids.md)
 - [Workflow Diagrams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/workflows.md)
 - User Interview Notes
-  - [P1 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p1.md)
+  - [Participant 1 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p1.md)
+  - [Participant 2 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p2.md)
+  - [Participant 3 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p3.md)
+  - [Participant 4 - Heairng Aid Batteries / Diabetic Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p4.md)
+  - [Participant 5 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p5.md)
 - Synthesis Artifacts
 - Research, IA, and Content Consultation Notes
 - Product Outline (Updated)
