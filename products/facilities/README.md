@@ -1,28 +1,37 @@
-# VSA- Facility Locator
-## Description of Current Work
-Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA facilities
+# VA.gov Facilities & Services Product Portfolio
 
-## Slack Channels
-- #vsa
+**Product Owner:** Dave Conlon (David.Conlon@va.gov)
+
+## Why VA facilities and services matter to Veterans
+
+- Veterans associate their VA benefits and health care journey with where they go to receive help and care.
+
+- VA facilities humanize VA by demystifying "the VA black box" and by delivering in-person services and support.
+
+- Veterans' mental models for VA benefits and health care start with the task they are trying to complete (e.g., get disabiltiy benefits), the service they are looking for (e.g., career counseling), or the condition they are experiencing (e.g., depression). 
+
+**Why this matters to VA**
+
+VA has a responsibility to provide accurate VA facilities and VA services information to its customers--and that align with the Veteran experience of getting and managing their VA benefits and health care.
+
+## Product vision
+
+> Go deeper about our VA.gov facilities and services (and condition) product strategy here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1571687080233/b02974cdf86270f2ea988b527ef97f3a9d2c5c4e
+
+1. VA will provide a single, high-quality facility web page for each VA facility
+
+2. Users can find all VA facilities, both VA-operated facilities and in-VA network facilities, based on their current geographical location, another starting/preferred location, or the VA.gov page they are on
+
+3. Users can find all VA services, both VA services and in-VA network services, based on their current geographical location, another starting/preferred location, or the VA.gov page they are on
+
+4. VA facilities and VA services are contextually presented to users based on the VA.gov page they are on
+
+## Product documentation
+
+1. 
+
+
+## Teams/Slack channels working on facilities products
 - #vsa-facilities
-
-## Github Labels
-What labels are your GitHub issues tagged with?
-
-## Points of Contact
-- VA.gov Lead: Chris Johnston 
-- Product Owner: David Conlon 
-- Supporting Product Owner: Andy Lewandowski 
-- Facility API Product Owner: David Mazik 
-- Product Manager: Michelle Middaugh 
-- Program Management: Luke Majewski
-- Product Management: Mickin Sahni
-- Design: Shawna Hein
-- Engineering: Joe Costa
-- Agile Delivery: Adam Eltarhoni
-- Operations: Luis Dimas
-
-## Key Documents
-- [Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/charter.md)
-- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
-- Document Name
+- #vsa-vamc-upgrade
+- #cms-facility
