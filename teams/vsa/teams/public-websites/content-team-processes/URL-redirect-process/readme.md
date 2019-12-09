@@ -24,7 +24,7 @@ _**Public Website contacts:**_
 @Karak888 (Kara Kemahli, Product Manager) 
 
 **Step 1.** Mikki/Platform triages initial request, and assigns _@ncksllvn (Nick Sullivan, Front End Engineer)_ and 
-_@Karak888 (Kara Kemahli, Product Manager)_ on the Public Websites team. Please clearly list in the redirect request the following: **[TBD Mikki’s template]**
+_@Karak888 (Kara Kemahli, Product Manager)_ on the Public Websites team. Please clearly list in the redirect request the following: 
 
  Legacy URL  |  Redirect to
  ---  |  ---
@@ -39,7 +39,7 @@ If it’s an urgent redirect request, and we can’t meet the requested target d
 
 **Step 3.** Assigned FE engineer will create a PR for the redirect and let the requestor know when it’s ready to merge. 
 
-**Step 4.** Assigned FE engineer will let requestor and Mikki know when redirect goes live via PR notification, and close the ticket once live. [@Nick – does this sound legit?]
+**Step 4.** Assigned FE engineer will let requestor and Mikki know when redirect goes live via PR notification, and close the ticket once live. 
 *	_**RE SME and stakeholder communication:**_ The original requestor (e.g., BAH team contact) is responsible for communicating with their stakeholder teams. 
 
 ## Client-side redirect implementation for benefit hub legacy/parity content 
