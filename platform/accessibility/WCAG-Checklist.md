@@ -79,7 +79,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         <strong>Links MUST have readable text</strong>. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).
       </td>
       <td>
-        [2.4.9](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html), [4.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html), [4.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html">2.4.9</a>
       </td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         <strong>The link text MUST make sense in context, and should make sense when taken out of context</strong> (problematic phrases include: &ldquo;click here,&rdquo; &ldquo;learn more,&rdquo; &ldquo;more,&rdquo; &ldquo;read more,&rdquo; etc.).
       </td>
       <td>
-        [2.4.4](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html), [2.4.9](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html)
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html), [2.4.9](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html">2.4.4</a>
       </td>
     </tr>
     <tr>
@@ -95,7 +95,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         <strong>Linked content SHOULD be grouped in a single link where appropriate</strong>. For example: an icon and its adjacent text SHOULD NOT be two separate links if they go to the same location.
       </td>
       <td>
-        [3.2.4](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html">3.2.4</a>
       </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         <strong>Navigation features (e.g. main menu) MUST be placed in a consistent location across pages</strong>.
       </td>
       <td>
-        [3.2.3](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html)
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html">3.2.3</a>
       </td>
     </tr>
     <tr>
@@ -111,7 +111,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         <strong>Navigation features MUST be identified in a consistent way across pages</strong>.
       </td>
       <td>
-        [3.2.4](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html">3.2.4</a>
       </td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         <strong>A &ldquo;skip navigation&rdquo; or &ldquo;skip to main content&rdquo; SHOULD be provided as the first link in the design</strong>, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it MUST NOT remain invisible when it receives keyboard focus).
       </td>
       <td>
-        [2.4.5](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-mult-loc.html)
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-mult-loc.html">2.4.5</a>
       </td>
     </tr>
     <tr>
