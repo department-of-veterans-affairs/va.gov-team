@@ -73,13 +73,13 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
     <tr>
       <th rowspan="6" valign="top">
         Links and Navigation<br/>
-        (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
+        <p style="font-weight:300;">(See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)</p>
       </th>
       <td>
         <strong>Links MUST have readable text</strong>. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).
       </td>
       <td>
-        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html), [4.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html">2.4.9</a>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html">4.1.2</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html">2.4.9</a>
       </td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         <strong>The link text MUST make sense in context, and should make sense when taken out of context</strong> (problematic phrases include: &ldquo;click here,&rdquo; &ldquo;learn more,&rdquo; &ldquo;more,&rdquo; &ldquo;read more,&rdquo; etc.).
       </td>
       <td>
-        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html), [2.4.9](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html">2.4.4</a>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html">2.4.9</a>, <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html">2.4.4</a>
       </td>
     </tr>
     <tr>
