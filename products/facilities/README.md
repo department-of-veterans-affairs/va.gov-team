@@ -14,7 +14,7 @@
 
 VA has a responsibility to provide accurate VA facilities and VA services information to its customers--and that align with the Veteran experience of getting and managing their VA benefits and health care.
 
-> Go deeper about our VA.gov facilities and services (and condition) product strategy here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1571687080233/b02974cdf86270f2ea988b527ef97f3a9d2c5c4e
+> Go deeper into our VA.gov facilities and services (and condition) product strategy here: https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1571687080233/b02974cdf86270f2ea988b527ef97f3a9d2c5c4e
 
 ## Product vision
 
