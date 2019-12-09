@@ -37,8 +37,8 @@ We support engineers by providing resources and guidance to enable them to creat
 **There are several types of reviews that involve the engineering team**
 
 1. A Security Review, which must be completed before the project can be launched [guidelines](../security/security-review-process.md)
-2. A Personally Identifying Information (PII) Review [guidelines](../pii-guidelines.md), which should happen early in the development process
-3. On-going code reviews in each pull-request. [guidelines](../code_review_guidelines.md) These reviews should happen after the code has been reviewed by another member of your team and before it is merged into the platform
+2. A Personally Identifying Information (PII) Review [guidelines](./pii-guidelines.md), which should happen early in the development process
+3. On-going code reviews in each pull-request. [guidelines](./code_review_guidelines.md) These reviews should happen after the code has been reviewed by another member of your team and before it is merged into the platform
 
 ## <a id="feedback"></a>Other ways to get VSP engineering feedback
 
