@@ -20,3 +20,16 @@
   - Referral needed? No
   - Walk-ins accepted? Yes
   - Phone: 412-822-3728
+
+## Current list of services
+
+This is the list that is in the Facility Locator tool for Vet Center services.
+
+- Individual and group counseling for Veterans, service members, and their families
+- Family counseling for military related issues
+- Bereavement (grief) counseling
+- Military sexual trauma counseling and referral
+- Community outreach and education
+- Substance abuse assessment and referral
+- Employment referral
+- Referral of other VA services
