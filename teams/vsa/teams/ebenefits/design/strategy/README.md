@@ -6,7 +6,7 @@
 
 The goal of this doc is to create a framework for adding Design and Design Research issues to the issue tracker. It is a loose outline and not meant to be overly proscriptive. ("People over process!")
 
-The framework implies that design sketches are ready for iterative development starting immediately after the first design crit. This may not be applicable or necessary in all cases, eg. a simple list-view page might get scaffolded by engineering just using the design system, with an understanding that updates may be necessary later.
+The framework implies that design sketches are ready for iterative development starting immediately after the first design review. This may not be applicable or necessary in all cases, eg. a simple list-view page might get scaffolded by engineering just using the design system, with an understanding that updates may be necessary later.
 
 The framework implies three design practice meetings:
 - A design intent review after initial feature analysis
