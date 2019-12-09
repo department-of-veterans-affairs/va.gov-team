@@ -52,43 +52,43 @@ _List of products within your team's perview - make sure the list of products he
 ### Workflow + Cadence
 
 #### Stand-up
-What: Check in on people and product progress
-Who: Whole Team
-When: Daily 11:30AM ET
-Duration: 15 min
-Details: 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- What: Check in on people and product progress
+- Who: Whole Team
+- When: Daily 11:30AM ET
+- Duration: 15 min
+- Details: 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Retro
-What: Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
-Who: Whole Team
-When: 1st Wednesday of every sprint @ Noon
-Duration: 30 min
+- What: Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
+- Who: Whole Team
+- When: 1st Wednesday of every sprint @ Noon
+- Duration: 30 min
 
 #### Sprint Planning
-What: Outline work to be done this sprint in order to accomplish the team's goals
-Who: Whole Team
-When: 1st Wednesday of every sprint @Noon (Follows Retro)
-Duration: 30 min
+- What: Outline work to be done this sprint in order to accomplish the team's goals
+- Who: Whole Team
+- When: 1st Wednesday of every sprint @Noon (Follows Retro)
+- Duration: 30 min
 
 #### Mid-Sprint Update
-What: Review progress made against sprint objectives
-Who: Whole Team
-When: 2nd Thursday of every sprint
-Duration: 30 min
-Details:
-- How is discovery going?
-  - Do we know enough yet to say "yay" or "nay"?
-  - Should we pivot to something else?
-  - Did we learn something new that we should document for the future?
-  - Do we have documentation ready to link of our progress?
-- Can you demo progress of your work for the team to see?
+- What: Review progress made against sprint objectives
+- Who: Whole Team
+- When: 2nd Thursday of every sprint
+- Duration: 30 min
+- Details:
+  - How is discovery going?
+    - Do we know enough yet to say "yay" or "nay"?
+    - Should we pivot to something else?
+    - Did we learn something new that we should document for the future?
+    - Do we have documentation ready to link of our progress?
+ - Can you demo progress of your work for the team to see?
 
 
 #### Grooming
-What: Assess and update workload for remainder of sprint and discuss objectives for next sprint
-Who: PM and Dev Lead
-When: 2nd Thursday of every sprint
-Duration: 1 hour
+- What: Assess and update workload for remainder of sprint and discuss objectives for next sprint
+- Who: PM and Dev Lead
+- When: 2nd Thursday of every sprint
+- Duration: 1 hour
 
 
 #### Issue Etiquette
