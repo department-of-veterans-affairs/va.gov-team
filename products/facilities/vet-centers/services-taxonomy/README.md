@@ -23,7 +23,7 @@
 
 ## Current list of services
 
-This is the list that is in the Facility Locator tool for Vet Center services.
+This is the list that is in the Facility Locator 1.0 tool for Vet Center services.
 
 - Individual and group counseling for Veterans, service members, and their families
 - Family counseling for military related issues
