@@ -81,7 +81,7 @@ _Move lo-fi sketches to product designs based on the design review and design sy
 _Put the product designs in front of real users and ask them how the designs help them achieve specific goals._
 
 - [ ] Create usability research plan
-  - [ ] Write conversation guide :file_folder:
+  - [ ] :file_folder: Write conversation guide
   - [ ] Coordinate sessions with user research partner, asking them to take notes
 - [ ] Run usability sessions
 - [ ] :file_folder: Create synthesis document with recommendations
