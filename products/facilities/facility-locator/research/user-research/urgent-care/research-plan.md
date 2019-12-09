@@ -68,3 +68,4 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Read-Out/Results
 
+*This plan was approved by Lauren Alexanderson on Wednesday, December 4, 2019.*
