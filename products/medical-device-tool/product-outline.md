@@ -99,6 +99,32 @@ As a Veteran, I want to be able to easily order the medical devices I need for m
 ## Value Propositions
 
 ## KPIs
+**Objective:** Reduce ordering complexity and streamline the process.
+- Reduction in mailed in orders 
+- Reduction of Call Center orders
+- Reduction of online errors
+- Reduction of total time to order items
+- Reduction of steps on the online ordering process
+- Reducing the authentication steps for reordering
+- Keywords in Top 10 Search Engine Results
+
+**Objective:** Increase volume of online orders by migrating existing user to the online ordering channel.
+- Determine the online orders percentages have increased
+- See a reduction of orders from all other DLC ordering Channels
+- Compare online activity on GA with completion of orders from the DLC
+
+**Objective:** Determine if Lager Catalogue is out of scope.
+- How many products will create success. 
+- Define what are the top ordered items
+- Define what top items have top ancillary items 
+
+**Objective:** Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel. 
+- Reduction in mailed in orders 
+- Reduction of Call Center orders
+- Increase in online orders
+
+**Objective:** Build and create a modernized easy to use clearer catalogue with the DLC and house it in VA.gov
+- TBD
 
 [KPI Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
 
