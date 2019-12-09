@@ -24,7 +24,7 @@ Have you ever visted an urgent care location?
 ## Usability Test
 I'm going to ask you a few questions about this site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing. This is only a prototype, so not all links will be clickable.
 
-### Scenario 1
+### Scenario
 Let's imagine you are coming to the site because you need to visit an Urgent Care location in Washington D.C. 
 
 ### Task 1 - Find Urgent Care
