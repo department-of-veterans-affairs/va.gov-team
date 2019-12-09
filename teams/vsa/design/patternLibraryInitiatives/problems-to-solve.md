@@ -23,9 +23,11 @@
   - [https://design.va.gov/content-style-guide/links](https://design.va.gov/content-style-guide/links)
 
 - 'card' styling — when is it a card, a table, an alert, a dialog, and what semantic structure makes the most sense, is flexible for the different implementations? For example, if it's an injected message does a heading level make sense, or would a neutral definition list allow more flexibility?
-  - [Mural Collection of card patterns](https://app.mural.co/t/vsa8243/m/vsa8243/1572902707497/848781c021d10b7bb4674bea3f357b19dec73b59)
+  - ~~[Mural Collection of card patterns](https://app.mural.co/t/vsa8243/m/vsa8243/1572902707497/848781c021d10b7bb4674bea3f357b19dec73b59)~~
+  - [DEPO's Mural of card patterns](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1574086026453/e8ba87ed25507f73b7c0b5c40267a3ae95a20b09)
 
 - guidance for spacing of interactive items, such as lists of links
   - Interaction best practices recommend spacing interactive items sufficiently to help people, including those with mobility considerations, from accidentally selecting the wrong item (recovering from mistakes can be quite a hurdle for many)
 
 - guidance for required vs optional form controls
+
