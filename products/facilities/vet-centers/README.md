@@ -1,4 +1,4 @@
-# VHA Vet Center Facility Product
+# VA Vet Center Facility Product
 
 This is the new VA.gov facility product for VA's Vet Centers.
 
