@@ -21,7 +21,7 @@ This is the new VA.gov facility product for VA's national cemeteries.
 - Build and publish new front-end VA National Cemetery facility product
 - Research, design, write/or move other content from old sites (e.g., history and education content, PDFs and other files, etc.)
 
-## Old/legacy cemetery websites and facility locators
+## Old/legacy cemetery websites
 
 We need to reach parity with our new cemetery products so we can turn off all the old sites.
 
