@@ -46,7 +46,7 @@
 - By implementing Health Services taxonomy, we expect Veterans to be able to search and identify the VAMC that provides the services they seek.  
 - By conducting research, we can test our assumptions about user pain points.
 
-### Legacy Known Issues referenced in Objective 1: 
+### Legacy [Known Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4027) referenced in Objective 1: 
 - ["Invalid date" Time Display on Facility Locator Hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4000)
 - [Small change to display of hours](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3541)
 - [Facility locator fires multiple searches per user action](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3206)
