@@ -4,6 +4,7 @@ This is the new VA.gov facility product for VA's Vet Centers.
 
 - VHA runs 300 Vet Centers
 - Vet Centers are stand-alone facilities; they are not integrated into VAMC health care systems
+- Veterans do not need to be enrolled in VA health care to receive care from a Vet Center
 
 **Business partner:**
 
