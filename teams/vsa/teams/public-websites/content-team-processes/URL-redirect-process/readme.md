@@ -62,7 +62,7 @@ _The image below illustrates the redirect implementation process flow for the Pu
 
 **Step 1.** When a content parity/legacy rewrite page is published, the content writer will assign the original content ticket to _@mnorthuis (Mikki)_ and _@meganhkelley (Megan)_ to request a redirect. 
 
-Content person will include the following information in a note for Mikki: **[TBD Mikki’s template]**
+Content person will include the following information in a note for Mikki: 
 
 Legacy URL  |  Redirect to
 ---  |  ---
