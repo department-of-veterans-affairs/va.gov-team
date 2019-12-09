@@ -19,8 +19,7 @@ The VHA health services taxonomy is the official, customer-facing list of servic
 
 This is how the content is structured:
 
-Service name (required): Cardioloy
-Patient-friednly name: Heart and circulation
-Common conditions: heart disease, high blood pressure, heart rhythm disorders, angina, vascular diseases
-Description (required) : Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.
-
+- Service name (required): Cardioloy
+- Patient-friednly name: Heart and circulation
+- Common conditions: heart disease, high blood pressure, heart rhythm disorders, angina, vascular diseases
+- Description (required) : Our cardiology specialists offer advanced treatment and care for conditions affecting your heart and blood vessels, including heart disease, stroke, heart rhythm disorders and high blood pressure.
