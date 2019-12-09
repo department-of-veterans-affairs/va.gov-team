@@ -22,7 +22,12 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         Page title
       </th>
       <td>
-        **The page MUST have a meaningful title** (e.g. About us), even when included via iframe. <ul><li>Unique information *SHOULD* go first (e.g. “WCAG Checklist”).</li> <li>Result pages *SHOULD* describe the result (e.g. “Error on form” or “Search results loaded”).</li> <li>Single-page applications and AJAX scripts *SHOULD* update the title when the URL changes or, when the page content changes significantly.</li></ul>
+        <strong>The page MUST have a meaningful title</strong> (e.g. About us), even when included via iframe. 
+        <ul>
+          <li>Unique information *SHOULD* go first (e.g. “WCAG Checklist”).</li> 
+          <li>Result pages <em>SHOULD</em> describe the result (e.g. “Error on form” or “Search results loaded”).</li> 
+          <li>Single-page applications and AJAX scripts <em>SHOULD</em> update the title when the URL changes or, when the page content changes significantly.</li>
+        </ul>
       </td>
       <td valign="top">
         <a href="https://www.w3.org/WAI/WCAG21/Understanding/page-titled.html">2.4.2</a>
@@ -33,7 +38,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
         Language
       </th>
       <td>
-        **The page MUST specify the language** (&#60;html lang="en"&#62;).
+        <strong>The page MUST specify the language</strong> (&#60;html lang="en"&#62;).
       </td>
       <td valign="top">
         <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-doc-lang-id.html">3.1.1</a>
@@ -41,7 +46,7 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
     </tr>
     <tr>
       <td>
-        **Changes in the language within the page MUST be specified** (e.g. &#60;span lang="es"&#62;Hola&#60;/span&#62;).
+        <strong>Changes in the language within the page MUST be specified</strong> (e.g. &#60;span lang="es"&#62;Hola&#60;/span&#62;).
       </td>
       <td valign="top">
         <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/meaning-other-lang-id.html">3.1.2</a>
@@ -49,13 +54,21 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
     </tr>
     <tr>
       <th>Landmarks</th>
-      <td><strong>Pages <em>SHOULD</em> have accurate, logical landmark structure</strong> (e.g. &#60;header&#62;, &#60;nav&#62;, &#60;main&#62;, &#60;aside&#62;, &#60;footer&#62;), so screen reader users can navigate by landmark, and all content SHOULD be inside a landmark.</td>
-      <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
+      <td>
+        <strong>Pages <em>SHOULD</em> have accurate, logical landmark structure</strong> (e.g. &#60;header&#62;, &#60;nav&#62;, &#60;main&#62;, &#60;aside&#62;, &#60;footer&#62;), so screen reader users can navigate by landmark, and all content SHOULD be inside a landmark.
+      </td>
+      <td>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a>
+      </td>
     </tr>
     <tr>
       <th>Headings</th>
-      <td><strong>The page MUST have meaningful headings to label each major section</strong>, which <em>SHOULD</em> start with &#60;h1&#62; (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and <em>SHOULD NOT</em> skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.</td>
-      <td><a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a></td>
+      <td>
+        <strong>The page MUST have meaningful headings to label each major section</strong>, which <em>SHOULD</em> start with &#60;h1&#62; (at the beginning of the main content, or at the beginning of every section of aggregated content, or at the beginning of modal dialogs), and <em>SHOULD NOT</em> skip heading levels, to allow screen reader users to navigate the tree structure of the heading hierarchy.
+      </td>
+      <td>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-descriptive.html">2.4.6</a>
+      </td>
     </tr>
     <tr>
       <th></th>
