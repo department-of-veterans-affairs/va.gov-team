@@ -118,6 +118,8 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 ### Sprint 11 (12/18 - 12/31)
 - Direct Deposit
+  - Ramp up to 100%: Before we do this, we are hoping to get more insight into why the flagged for fraud error is so high and hopefully work towards a solution if people who are seeing that error shuold not be.
+
  - DS logon gate: 
     - Frontend implementation of design in the profile
     - Implementation of content page (may need FE help with DS Logon gate)
