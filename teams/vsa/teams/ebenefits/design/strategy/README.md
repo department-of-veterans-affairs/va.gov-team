@@ -13,7 +13,7 @@ The framework implies three design practice meetings:
 - A platform design review after lo-fi sketches and flows are complete
 - A launch-oriented design review after product designs are complete
 
-`:file_folder: = Deliverable artifact`
+> :file_folder: = Deliverable artifact
 
 ## Approach
 
@@ -37,8 +37,8 @@ _Document our understanding of the feature as it currently exists and how it fit
 
 - [ ] **Product**: Write user stories for existing application features
 - [ ] **Product**: Write product documentation as a README file in the feature repo root, with known metrics and stakeholders
-- [ ] Create customer journey or workflow diagram of existing application :file_folder:
-- [ ] Create a markdown document with initial impressions, design hypotheses, and simple field research/ competitive analysis :file_folder:
+- [ ] :file_folder: Create customer journey or workflow diagram of existing application
+- [ ] :file_folder: Create a markdown document with initial impressions, design hypotheses, and simple field research/ competitive analysis 
 - [ ] Schedule and run an initial **design intent review** with the Design Practice to review the user stories for existing patterns and strategies
 
 ### Design Research | Conduct user research on "[feature name]"
@@ -46,10 +46,10 @@ _Document our understanding of the feature as it currently exists and how it fit
 _Create and execute a research plan to understand how Veterans use the feature as is, what its pain points and pain relievers are, and how it might be improved._
 
 - [ ] Create research plan
-  - [ ] Write conversation guide `TODO: Link to guide template` :file_folder:
+  - [ ] :file_folder: Write conversation guide `TODO: Link to guide template`
   - [ ] Coordinate sessions with user research partner, asking them to take notes `TODO: Link to research engagement guide`
 - [ ] Run research sessions
-- [ ] Create synthesis document with recommendations `TODO: Link to document template/ "Rules of Engagement"` :file_folder:
+- [ ] :file_folder: Create synthesis document with recommendations `TODO: Link to document template/ "Rules of Engagement"`
 - [ ] Schedule time for synthesis readout at demo
 
 ### Design | Create lo-fi sketches and flows for "[feature name]"
@@ -73,7 +73,7 @@ _Present findings and sketches to the Design Practice and update lo-fi sketches 
 
 _Move lo-fi sketches to product designs based on the design review and design system application feedback._
 
-- [ ] Create product designs per screen/ flow/ error state :file_folder:
+- [ ] :file_folder: Create product designs per screen/ flow/ error state
   - `Break into individual issues per major task`
 
 ### Design Research | Conduct usability study on mockups for "[feature name]"
@@ -84,7 +84,7 @@ _Put the product designs in front of real users and ask them how the designs hel
   - [ ] Write conversation guide :file_folder:
   - [ ] Coordinate sessions with user research partner, asking them to take notes
 - [ ] Run usability sessions
-- [ ] Create synthesis document with recommendations :file_folder:
+- [ ] :file_folder: Create synthesis document with recommendations
 - [ ] Schedule time for synthesis readout at demo
 - [ ] Incorporate critical user feedback into product designs
   - `Break into individual issues per task`
