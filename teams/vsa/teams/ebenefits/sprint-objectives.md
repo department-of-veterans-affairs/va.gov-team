@@ -13,7 +13,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 
 ## Sprint 10 (12/4 - 12/17)
 ```diff 
-- TBD
+- 48 points over 16 issues
 ```
 ### 1. Prepare "View My Rated Disabilities" for Launch
 - Refine any error handling issues and user acceptance testing remaining in staging
