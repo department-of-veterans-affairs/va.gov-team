@@ -14,8 +14,8 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](Disc
 
 * Product: TJ Rice
 * Discovery Sprint Lead:
-* Engineer: Wyatt Walter
 * Engineer: Nathan Hruby
+* Engineer: 
 * Researcher:
 * Other people from the Sprint Team:
 * SME:
