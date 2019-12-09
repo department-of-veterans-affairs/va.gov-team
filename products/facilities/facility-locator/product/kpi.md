@@ -3,7 +3,11 @@
 ## Product Line
 - Unauthenticated Experience
 ## North Star: (WIP)
-- Veterans have the information they need to be prepared to visit a VA facility. 
+- Veterans have the information they need to be prepared to visit a VA facility.
+  - *How will we know if the Veteran is prepared? It may depend on the type of facility.*
+  - *For urgent care, success is defined as the Veteran downloading the benefit eligibility PDF.*
+  - *For other facility types, we will look for an average 4 star rating or above.*
+ 
 ## Product
 - Facility Locator 
 ## High Level Objective
