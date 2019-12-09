@@ -89,9 +89,7 @@ Every decision we make can raise or lower barriers to participation in society. 
 
 The mismatches that we create in the process are the building blocks of exclusion. 
 
-From the stairs at the entrance of a building to the two-handed design of a video game controller, our solutions clearly signal who does and doesn’t belong.
-
-Source: [Medium post](https://medium.com/aiga-eye-on-design/what-were-leaving-out-of-the-discussion-around-inclusive-design-d058f44f88e1)
+From the stairs at the entrance of a building to the two-handed design of a video game controller, our solutions clearly signal who does and doesn’t belong. Source: [Medium post](https://medium.com/aiga-eye-on-design/what-were-leaving-out-of-the-discussion-around-inclusive-design-d058f44f88e1)
 
 “Now we look at a small sheet of glass on a sunny day, we juggle our phones one-handed, we’re distracted or in a rush. We are, quite literally, temporarily vision, motor, hearing, and cognitively impaired on a daily basis.” (Robin Christopherson, head of digital inclusion at UK tech charity AbilityNet)
 
