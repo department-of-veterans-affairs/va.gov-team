@@ -25,24 +25,21 @@ Have you ever visted an urgent care location?
 I'm going to ask you a few questions about this site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing. This is only a prototype, so not all links will be clickable.
 
 ### Scenario 1
-Let's imagine you are coming to the site because you need to visit an Urgent Care location. 
+Let's imagine you are coming to the site because you need to visit an Urgent Care location in Washington D.C. 
 
 ### Task 1 - Find Urgent Care
-Let's imagine that you are coming to the site because you need urgent care for a sore throat. From this page, tell me what you would do first in order to find urgent care. Remember to think aloud -- not everything on the page will be clickable. 
+Let's imagine that you are coming to the site because you need urgent care for a sore throat. In this scenario, that service is not available through VA Health.
+
+From this page, tell me what you would do in order to find urgent care. Remember to think aloud -- not everything on the page will be clickable. 
 
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 [Ask to go back to the "first" page]
 
-Now let's imagine you are coming to the site because you have a wound and probably need stiches. From this page, tell me what you would do first in order to find urgent care to stitch your wound.
+Now let's imagine you are coming to the site because you have a wound and probably need stiches. In this scenario, that service is also not available through VA Health. 
 
-### Task 2 - Review PDF Alert
-Please provide feedback on the elements as they appear on the screen. Is there anything confusing?
-[If PDF alert shows] Provide feedback on this alert. Does the messaging make sense? What do you think the purpose of this alert is? What do you think could make this more clear?
+From this page, tell me what you would do in order to find urgent care to stitch your wound.
 
-Please click the area of the screen that would allow you to select a location.
-(Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
-
-### Task 3 - Select Location
+### Task 2 - Select Location
 Let's imagine that you are ready to select a location and want to know the phone number. What would you do on this page to find a location? How would you go about finding information like address and phone number?
 
 ## Post-test Questions 
