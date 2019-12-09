@@ -71,6 +71,68 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
       </td>
     </tr>
     <tr>
+      <th rowspan="6" valign="top">
+        Links and Navigation<br/>
+        (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.)
+      </th>
+      <td>
+        <strong>Links MUST have readable text</strong>. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS).
+      </td>
+      <td>
+        [2.4.9](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html), [4.1.2](https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>The link text MUST make sense in context, and should make sense when taken out of context</strong> (problematic phrases include: &ldquo;click here,&rdquo; &ldquo;learn more,&rdquo; &ldquo;more,&rdquo; &ldquo;read more,&rdquo; etc.).
+      </td>
+      <td>
+        [2.4.4](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-refs.html), [2.4.9](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-link.html)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Linked content SHOULD be grouped in a single link where appropriate</strong>. For example: an icon and its adjacent text SHOULD NOT be two separate links if they go to the same location.
+      </td>
+      <td>
+        [3.2.4](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Navigation features (e.g. main menu) MUST be placed in a consistent location across pages</strong>.
+      </td>
+      <td>
+        [3.2.3](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-locations.html)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Navigation features MUST be identified in a consistent way across pages</strong>.
+      </td>
+      <td>
+        [3.2.4](https://www.w3.org/TR/UNDERSTANDING-WCAG20/consistent-behavior-consistent-functionality.html)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>A &ldquo;skip navigation&rdquo; or &ldquo;skip to main content&rdquo; SHOULD be provided as the first link in the design</strong>, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it MUST NOT remain invisible when it receives keyboard focus).
+      </td>
+      <td>
+        [2.4.5](https://www.w3.org/TR/UNDERSTANDING-WCAG20/navigation-mechanisms-mult-loc.html)
+      </td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <th></th>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <th></th>
       <td></td>
       <td></td>
@@ -102,12 +164,6 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
 | Topic      | Accessibility Requirements                                                                                                                                                                                                                                                                                                                                                                       | WCAG  |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
 
-| **Links and Navigation** <br/> (See also Custom Widgets in Part 3 for dynamic menus (drop-down accordion, etc.) | **Links MUST have readable text**. Be especially careful with links that contain only images (which need alt text) and background images/icon fonts (which need text via aria-label on the link or text within the link, hidden via CSS). | 2.4.9, 4.1.2 |
-| **Links and Navigation** | **The link text MUST make sense in context, and should make sense when taken out of context** (problematic phrases include: “click here,” “learn more,” “more,” “read more,” etc.). | 2.4.4, 2.4.9 |
-| **Links and Navigation** | **Linked content SHOULD be grouped in a single link where appropriate.** For example: an icon and its adjacent text SHOULD NOT be two separate links if they go to the same location. | 3.2.4 |
-| **Links and Navigation**  | **Navigation features (e.g. main menu) MUST be placed in a consistent location across pages.** | 3.2.3 |
-| **Links and Navigation**  | **Navigation features MUST be identified in a consistent way across pages.** | 3.2.4 |
-| **Links and Navigation**  | **A “skip navigation” or “skip to main content” SHOULD be provided as the first link in the design**, to allow sighted keyboard users to quickly arrive at the main content (Note: the link can be invisible until the user tabs to it, but it MUST NOT remain invisible when it receives keyboard focus). | 2.4.5 |
 | **Tables** | **Header cells (`<th>`) MUST be associated with their respective data cells** (via scope or headers + id). | 1.3.1 |
 | **Tables** | **Tables SHOULD have an accessible name** (e.g. `<caption>`, aria-label, or aria-labelledby). | (4.1.2) |
 | **Tables** | **Layout tables (no header/data associations) MUST NOT contain `<th>` or other header markup.** | 1.3.1 |
