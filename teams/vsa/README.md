@@ -29,6 +29,8 @@ Do not publish personal contact info, only names and slack contact name._
 - Engineering: Joe Costa 
 - Agile Delivery: Adam Eltarhoni 
 - Operations: Luis Dimas
+- Accessibility: Jennifer Strickland
+- QA: Tze-chiu Lei
 
 ### Teams
 - [Authenticated Experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/authenticated-experience)
