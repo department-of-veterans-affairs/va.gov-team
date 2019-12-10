@@ -150,6 +150,8 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - **8/20/2019**: Approval from eBenefits fraud team to move forward
 - **8/21/2019**: QA begins
 
+- **12/10/2019**: Gained information regarding fraud error flags. More info can be located [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
+
 
 ## How to Access and Test
 
