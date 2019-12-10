@@ -20,6 +20,7 @@ Have you ever visted an urgent care location?
 [If yes] Do you know if it was in-network or not? How did you find out about that location?
 
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
+(https://vsateams.invisionapp.com/share/PWV7CIH4T8H)
 
 ## Usability Test
 I'm going to ask you a few questions about this site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing. This is only a prototype, so not all links will be clickable.
