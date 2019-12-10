@@ -8,8 +8,8 @@
 Build an online experience that allows caregivers to easily apply for, track, and manage benefits.
 
 ### Goals
--Reduce the amount of time it takes the VA to process a paper application
--Increase the number of online applications
+Reduce the amount of time it takes a Caregiver application to be processed
+Increase the number of online applications
 
 ### Product Suite (if applicable): 
 Caregivers
@@ -25,7 +25,7 @@ Coming soon: Online Caregiver portal
 ### Responsibilities (Problem space and user goals):
 1) Caregivers play an important role in the health and well-being of veterans. Tens of thousands of family caregivers across the country provide daily assistance to wounded veterans
 2) Paper forms create a processing burden on the user and on the VA
-3) 
+
 
 ### Roadmap:
 Link to agile roadmap - Coming soon
