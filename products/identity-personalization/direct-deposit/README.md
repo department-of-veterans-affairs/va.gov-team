@@ -100,9 +100,18 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 - Port the Post-9/11 GI Bill direct deposit after more discovery.
 - Test Test Test
 
+## PHASED ROLL OUT APPROACH
+- Intial roll out released to 10% of users - 9.25.19
+- Ramped up from 10% of users to 50% of users - 10.16.19
+- Ramped up from 50% of users to 75% of users - 12.5.19
+- Targeting full ramp up to 100% of users during Before or during Sprint 11.
+
 ## KPIs
 ### Objective
 - Improve direct deposit security and decrease the number of cases of fraud.
+- Direct users to the National Call Center if they are experieincing errors when attempting to update their Direct Deposit information. 
+-Decrease "flagged for fraud" error rate.
+
 ### Tracking
 - Work with the fraud team to see if there is an decrease in cases. (Need to see if we can access this.) **(need to update)**
 ---
@@ -127,6 +136,9 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 
 - There are on going conversations with the Fraud team on eBenfits. They expressed a desire to have IP address tracked in order to provide those to law enforcement to catch fraudsters. These conversations are still on going at this time. 
 
+** December 2019** 
+- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilitzed by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile teams implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proffing work as more disucssions are needed around the correct approach to take regarding that work. The Authentitcaed Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
+
 ## Solution Narrative
 
 - **March 2019**: Design and development begins
@@ -137,6 +149,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - **8/19/2019**: Resumed development and began launch planning
 - **8/20/2019**: Approval from eBenefits fraud team to move forward
 - **8/21/2019**: QA begins
+
 
 ## How to Access and Test
 
