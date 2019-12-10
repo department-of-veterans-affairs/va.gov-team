@@ -77,14 +77,14 @@ For not-new designers working on small or medium projects: Use your judgment for
 
 ### <a id="designintent"></a>Design Intent Check-in
 **When to request a design intent check-in:**  
-We recommend to request a design intent check-in before any high-fidelity designing takes place. This is the chance to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
+We recommend requesting a design intent check-in before any high-fidelity designing takes place. This is the chance to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
 Your designs should be in the early stages, like low-fidelity whiteboard or pencil sketches and/or wireframes.
 - Everything doesn’t need to be perfect. We have an iterative design culture and encourage feedback early and often.
-- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general areas of discussion we may cover before the meeting. Don’t stress out on parts of the design that aren’t totally fleshed out yet, the goal in this meeting is to confirm the overall direction and make sure you are putting your energy into the most impactful design problems.
+- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general areas of discussion we may cover before the meeting. Don’t stress out on parts of the design that aren’t totally fleshed out yet, the goal of this meeting is to confirm the overall direction and make sure you are putting your energy into the most impactful design problems.
 
 **How to request a design intent check-in:**
 You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
-- During the meeting you can provide full context on your design  and we can talk through any suggestions or feedback during the meeting and after.
+- During the meeting be prepared to provide full context on your design, i.e. lay out what problems you are solving, what you’ve learned so far (research, competitive analysis, etc), and what ideas you’re exploring for solutions. We will talk through any suggestions or feedback during the meeting and after, i.e. people to connect with who have worked on similar things, other research that has been done that might be useful to you, similar or required reusable flows on VA.gov, guidelines and patterns from the design system, etc.
 
 ### <a id="designreviews"></a>Design Reviews
 
@@ -114,12 +114,12 @@ VFS teams should schedule the design QA review when designs have been built on s
 **2. Slack Crystabel Reiter or Emily Waggoner and let us know the issue was created. We will schedule an in-person review or will review asynchronously as we see fit.**
 
 **3. Within 4 business days, VSP will conduct a Design Review using the [checklist at the bottom of this document.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov)**
-- If you don't hear anything after 4 business days, reach out to your DSVA Contact.
+- If you don't hear anything after 4 business days, reach out to your Digital Experience & Product Office (DEPO) Contact.
 
 **4. VSP will update the Github issue with screenshots to show where design needs to be changed.**
 
 **5. Complete all the changes requested in the screenshots.**
-- If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DSVA and VSP.
+- If your team has questions (or disagrees with a requested change), use the Github issue to discuss that with DEPO and VSP.
 
 **6. When all changes are completed, close the issue.**
 
@@ -142,7 +142,7 @@ We encourage all designers to be open about their process and seek feedback thro
 
 We will be checking this criteria when performing design reviews.
 
-- New design patterns have been vetted by DSVA and documented
+- New design patterns have been vetted by DEPO and documented
     - The new pattern has been tested with users (provide a link to research summary)
     - There is a plan to integrate new patterns/component into the design system if applicable (link to zenhub ticket)
 - Mobile, tablet, and desktop breakpoints have been accounted for
@@ -168,3 +168,39 @@ We will be checking this criteria when performing design reviews.
 
 ## <a id="questions"></a>Contact VSP design
 If you have any questions, please reach out via slack in #vsp-product-support, tag @EmilyWaggoner, and @CrystabelReiter.
+
+
+
+For pre-usability testing design reviews:
+If applicable, plan to integrate any new pattern/component into the design system
+- Correct use of design patterns in context
+    - Form chapters in place
+    - Privacy policy is present
+    - Address form follows pattern if applicable
+    - Name form follows pattern if applicable 
+- Correct use of typography
+    - H1-H6 stack applied in correct order
+- Padding and spacing has been applied appropriately
+- Form components used correctly in context
+- Consistent use of iconography
+- Colors used are consistent with color palette
+- Primary and secondary CTA buttons used correctly in context
+
+
+For design QA reviews:
+- New design patterns have been vetted by DEPO and documented
+    - The new pattern has been tested with users (provide a link to research summary)
+- Mobile, tablet, and desktop breakpoints have been accounted for
+- :hover and :focus states have been accounted for and are consistent with design patterns
+- Alert messages have been used appropriately
+- Contextual help is provided where necessary using correct components
+- Error states have been accounted for and used appropriately
+- Loading indicators have been used where appropriate
+- Empty states have been accounted for (if applicable)
+- Full/complete states have been accounted for (if applicable)
+- Padding and spacing has been implemented appropriately
+- Correct use of typography
+    - H1-H6 stack implemented in correct order
+
+
+
