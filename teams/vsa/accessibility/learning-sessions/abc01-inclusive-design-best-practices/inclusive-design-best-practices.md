@@ -2,6 +2,8 @@
 
 Friday, December 22, 2019, at 2pm ET, Accessibility Beyond Compliance (ABC) Learning Sessions Series
 
+<a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/abc-2019-11-22-inclusive-design-best-practices.pdf">View the PDF presentation, 456kb</a> 
+
 ## Point of Contacts
 * Jennifer Strickland, VSA Accessibility Specialist
 * Trevor Pierce, VSP Accessibility Specialist
