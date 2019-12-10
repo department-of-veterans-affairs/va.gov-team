@@ -7,22 +7,22 @@
 ## Table of Contents
 
 
-[Introduction]()  
-[What is a github repository?]()  
-[Main page]()  
+**[Introduction]()**  
+**[What is a github repository?]()**  
+**[Main page]()**  
      [What is considered main page content?]()	  
      [How do I update content and links on the main page?]()   
-          [Main content considerations]()	  
-          [Right rail considerations]()   
-[Announcements]()   
+          *[Main content considerations]()*	  
+          *[Right rail considerations]()*   
+**[Announcements]()**   
      [What content appears in the "Latest announcements from VA" section?]()   
      [How do I add an announcement?]()   
      [When do announcements expire?]()  
-[Events]()  
+**[Events]()**  
      [What content appears in the "Upcoming events" section?]()   
      [How do I add an event?]()   
      [When do events expire?]()  
-[Useful resources]()   	 
+**[Useful resources]()**   	 
  
 ## Introduction
 
