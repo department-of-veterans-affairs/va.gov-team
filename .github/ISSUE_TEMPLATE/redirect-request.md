@@ -42,5 +42,5 @@ Current URL  |  Redirect to new URL
 - [ ] Request is assigned to appropriate team for implementation - *@ Content & IA team*
 - [ ] Implementation team completes work - *@ Implementation team*
 - [ ] Implementation pushed live and redirect is validated in production - *@ all*
-- [ ] Ticket is closed - *@ requestion team*
+- [ ] Ticket is closed - *@ requesting team*
 
