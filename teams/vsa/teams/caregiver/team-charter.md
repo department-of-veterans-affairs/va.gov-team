@@ -5,22 +5,30 @@
 ## Why we're here
 
 ### North Star:
-_Lorem ipsum_
+Build an online experience that allows caregivers to easily apply for, track, and manage benefits.
+
+### Goals
+-Reduce the amount of time it takes the VA to process a paper application
+-Increase the number of online applications
 
 ### Product Suite (if applicable): 
 Caregivers
 
 ### Team Mission Statement:
-_Lorem ipsum_
+To provide the ability for Veteran and Veteran caregivers to complete and submit VA Form 10-10CG electronically, which will directly feed into electronic processing by VA and allow applicants to track online status updates.
 
 ### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+Online Caregiver 10-10CG Application form
+Coming soon: Online Caregiver portal
 
-### Responsibilities:
-_High level problem space and user goals for this team_
+
+### Responsibilities (Problem space and user goals):
+1) Caregivers play an important role in the health and well-being of veterans. Tens of thousands of family caregivers across the country provide daily assistance to wounded veterans
+2) Paper forms create a processing burden on the user and on the VA
+3) 
 
 ### Roadmap:
-_Link to agile roadmap_
+Link to agile roadmap - Coming soon
 
 ---
 
@@ -31,6 +39,7 @@ _Link to agile roadmap_
 - Team Product Manager: Alayna Abel
 - Front-End Engineering: Justin Linn
 - Back-End Engineering: Lance Sanchez/Kevin Marcowitz
+- UX/Research: Jonathan Nelson
 
 ---
 
@@ -70,7 +79,7 @@ For an issue to go into the Current Sprint column, it must have the following (c
 - Estimate
 - Title that explains task
 - Description with Background and Acceptance Criteria
-- Labels: _your team's labels_
+- Labels: _vsa-caregivers_
 - User Story (if applicable), Goal, and Acceptance Criteria
 - Nested in an Epic
 
