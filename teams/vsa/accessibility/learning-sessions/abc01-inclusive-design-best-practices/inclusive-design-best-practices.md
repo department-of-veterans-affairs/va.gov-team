@@ -548,4 +548,5 @@ Resources and guidelines are available in our VA accessibility Github repos:
 * [Examples of assistive technology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
 
 
-<blockquote><strong>&ldquo;Ohana means family. Family means no one gets left behind or forgotten.&rdquo;</strong></blockquote>
+## &ldquo;Ohana means family. Family means no one gets left behind or forgotten.&rdquo;
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/ohana.jpg" alt="Stitch from Lilo and Stitch talking about Ohana"/>
