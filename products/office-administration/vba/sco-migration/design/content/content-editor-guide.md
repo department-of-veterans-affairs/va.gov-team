@@ -1,9 +1,8 @@
 
+# VA.gov School Resources Page: Guidance for Content Editors  
+
+
 <kbd>![Content Editor Guide](content-editor-guide-images/cover.png)</kbd>  
-
-
-
-# VA.gov School Resources Page: Guidance for Content Editors . 
 
 
 ## Table of Contents
