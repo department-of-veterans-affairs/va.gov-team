@@ -122,7 +122,16 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 
 6. Be sure that the green button in the lower right corner of the page is set to “Draft pull request”.  
 
-![Enter description of changes](content-editor-guide-images/06-draft-pr.png)*Figure 6: Enter description of changes*  
+![Select Draft Pull Request](content-editor-guide-images/06-draft-pr.png)*Figure 6: Select Draft Pull Request*  
+
+7. Click the “Draft pull request” button.  Submitting a draft pull request will create a preview content instance where you can review your changes. **The instance in ready in about 5 minutes.**  
+
+
+![Review your submitted changes](content-editor-guide-images/07-draft-pr-submitted.png)*Figure 7: Review your submitted changes*   
+
+8. How to return from preview instance
+
+9. Repeat steps 1-7 as needed to refine the content. Once you are satisfied with the content, click the “Commit Changes” button, to create a real pull request.  The “Open a pull request” page will appear.
 
 
 ## Announcements
