@@ -435,6 +435,7 @@ See [Web Content Accessibility Guidelines (WCAG) Overview](http://www.w3.org/WAI
 Google’s documentation on POUR: [https://developers.google.com/web/fundamentals/accessibility/#web_content_accessibility_guidelines](https://developers.google.com/web/fundamentals/accessibility/#web_content_accessibility_guidelines)
 
 **Questions to Ask**
+
 *Perceivable:* Can users perceive the content? This helps us keep in mind that just because something is perceivable with one sense, such as sight, that doesn't mean that all users can perceive it.
 
 *Operable:* Can users use UI components and navigate the content? For example, something that requires a hover interaction cannot be operated by someone who can't use a mouse or touch screen.
