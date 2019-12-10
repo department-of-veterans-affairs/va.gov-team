@@ -12,7 +12,7 @@
 [Main page]()  
      [What is considered main page content?]()	  
      [How do I update content and links on the main page?]()   
-          [Main content considerations]()	  
+          [Main content considerations]()	  
           [Right rail considerations]()    	
 [Announcements]()   
      [What content appears in the "Latest announcements from VA" section?]()  	 
