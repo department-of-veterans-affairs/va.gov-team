@@ -40,12 +40,14 @@ Now let's imagine you are coming to the site because you have a wound and probab
 From this page, tell me what you would do in order to find urgent care to stitch your wound.
 
 ### Task 2 - Select Location
-Let's imagine that you are ready to select a location and want to know the phone number. What would you do on this page to find a location? How would you go about finding information like address and phone number?
+Let's imagine that you are ready to select a location but want to know more information. What would you do on this page to find that? 
+
+What information would you expect to learn if you clicked on one of the locations in the search results?
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
 - What would you say the difference is between a retail and an urgent location? 
-- Was it intuitive to filter the search in order to find an Urgent Care location?
+- Was it intuitive to find the appropriate Urgent Care location?
 - What was your favorite part of the prototype?
 - What was your least favorite part?
 - If you had a magic wand, what would you change about this prototype?
