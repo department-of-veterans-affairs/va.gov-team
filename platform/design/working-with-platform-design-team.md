@@ -54,6 +54,14 @@ We support designers by providing resources and guidance to enable them to creat
 2. **Pre-usability testing design review** is conducted when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts.
 3. **Design QA review** is conducted when design is on staging and provides a final look through of the built-out design. Ideally design is polished and discussed previously through prior reviews. We don't want to be making any major design changes at this stage. 
 
+If you are a new designer on your first VA.gov project, or if you are a designer starting a large project from scratch (defining the problem, doing discovery research) you should go through each of the 3 types of design reviews.
+
+For new designers: We would like you to to seek out lots of feedback throughout your first project so you can get to know the environment and work norms with lots of guidance - there is a lot to learn and we are here to help!
+
+For designers beginning new, large projects from scratch: Something here to give reasons why they should go through all 3 steps.
+
+For not-new designers working on small or medium projects: Use your judgment for what levels of support and feedback you need. Generally, a pre-usability testing design review or a design QA review will be appropriate for this type of project, but you are the expert!
+
 ### <a id="designintent"></a>Design Intent Check-in
 **When to request a design intent check-in:**  
 We recommend to request a design intent check-in before any high-fidelity designing takes place. This is the chance to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
