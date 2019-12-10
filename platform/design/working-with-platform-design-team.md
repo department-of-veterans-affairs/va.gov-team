@@ -142,35 +142,6 @@ We encourage all designers to be open about their process and seek feedback thro
 
 We will be checking this criteria when performing design reviews.
 
-- New design patterns have been vetted by DEPO and documented
-    - The new pattern has been tested with users (provide a link to research summary)
-    - There is a plan to integrate new patterns/component into the design system if applicable (link to zenhub ticket)
-- Mobile, tablet, and desktop breakpoints have been accounted for
-- Correct use of design patterns in context
-    - Form chapters in place
-    - Privacy policy is present
-    - Address form follows pattern if applicable
-    - Name form follows pattern if applicable 
-- Correct use of typography
-    - H1-H6 stack applied in correct order
-- Padding and spacing has been applied appropriately
-- Form components used correctly in context
-- Consistent use of iconography
-- Colors used are consistent with color palette
-- Primary and secondary CTA buttons used correctly in context
-- :hover and :focus states have been accounted for and are consistent with design patterns
-- Alert messages have been used appropriately
-- Contextual help is provided where necessary using correct components
-- Error states have been accounted for and used appropriately
-- Loading indicators have been used where appropriate
-- Empty states have been accounted for (if applicable)
-- Full/complete states have been accounted for (if applicable)
-
-## <a id="questions"></a>Contact VSP design
-If you have any questions, please reach out via slack in #vsp-product-support, tag @EmilyWaggoner, and @CrystabelReiter.
-
-
-
 For pre-usability testing design reviews:
 If applicable, plan to integrate any new pattern/component into the design system
 - Correct use of design patterns in context
@@ -201,6 +172,13 @@ For design QA reviews:
 - Padding and spacing has been implemented appropriately
 - Correct use of typography
     - H1-H6 stack implemented in correct order
+
+
+## <a id="questions"></a>Contact VSP design
+If you have any questions, please reach out via slack in #vsp-product-support, tag @EmilyWaggoner, and @CrystabelReiter.
+
+
+
 
 
 
