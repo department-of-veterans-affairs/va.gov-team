@@ -20,7 +20,7 @@ VSP Engineering is responsible for maintaining the application code, building to
 - Your team will use the patterns and tools provided by the engineering team to build your features
 - The engineering team is responsible reviewing all code on the platform and encourages frequent, small pull-requests from your engineers.
 
-## <a id="whatVSPdoes"></a>What VSP design does
+## <a id="whatVSPdoes"></a>What VSP Engineering does
 We support engineers by providing resources and guidance to enable them to create performant, maintainable Veteran-centered applications. 
 
 ### How can VSP Engineering help?
