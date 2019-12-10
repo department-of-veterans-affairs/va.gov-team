@@ -26,8 +26,22 @@
  
 ## Introduction
 
+
+This guide covers the process for updating content on the “Resources for Schools” page on VA.gov. The content of the “Resources for schools” page is managed in the VA GitHub Repository.  
+
+
 ## What is a GitHub repository?
 
+A GitHub repository (GitHub repo) is a collection of files that are organized into branches.  There are Master branches and development branches.  
+
+**Master branches**  
+Master branches contain production-ready files that are ready for deployment or that have already been deployed.  The “Resources for Schools” webpage leverages two Master branches: vets-website and vagov-content.  
+
+**vets-website:** The vets-website master branch contains 2 files that allow you to manage announcements and events (conferences, trainings, and webinars).   
+
+The editable files in the vets-website master branch are: 
+
+     
 ## Main page
 
 ### What is considered main page content?
