@@ -84,16 +84,46 @@ To update content and links, follow the steps below:
 
 **Note:** If you are just starting the edit, make sure you have the “Master” branch selected in the upper left corner of the page.  If you are returning to finish an edit you previously started, be sure you have the correct branch selected in the upper left corner of the page.  
 
-![The school-administrators.md file with Master branch selected](content-editor-guide-images/01-master-branch.png)*The school-administrators.md file with Master branch selected*  
+![The school-administrators.md file with Master branch selected](content-editor-guide-images/01-master-branch.png)*Figure 1: The school-administrators.md file with Master branch selected*  
 
 2. Click the edit button in the upper right corner of the page and begin editing.  
 
 ![Edit button](content-editor-guide-images/edit-button.png)
 
+![The school-administrators.md file with Edit button highlighted](content-editor-guide-images/02-school-admin-file-edit.png)*Figure 2: The school-administrators.md file with Edit button highlighted*
 
-#### Main content considerations
+#### Main content considerations  
 
-#### Right rail considerations
+* Where possible, content should be categorized beneath meaningful sub-headings to ensure the content is easy to find.
+* If there are more than 10 links beneath a sub-heading, consider whether an additional sub-heading is needed.
+* When vital documents such as informational letters are moved from announcements to the main content of the page, the publication date (MM/DD/YYYY) can be added to the end of the link name. 
+
+
+#### Right rail considerations  
+
+* **“SCO Handbook” promo:** Be sure to update the “Revision number” and the “Last updated date” as new handbooks are posted, so users can check to be sure they are using the latest version.
+* **“Ask questions” callout:** SCOs appreciate the existing resources and the prominence of the Submit a Question feature.  This callout only needs editing if the links change.
+* **“Average processing times” callout:** When updating the time, be sure to update the “Last updated date” so users can gauge the accuracy of the estimates.
+* **“Connect with us” callout:** The content of this callout is expected to remain unchanged unless phone numbers or data changes. 
+
+3. After you’ve made the necessary edits, scroll to the bottom of the page and confirm that the 2nd radio button (“Create a new branch for this commit and start a pull request”) is selected.  
+
+![The school-administrators.md file with new branch option selected](content-editor-guide-images/03-commit-new-branch.png)*Figure 3: The school-administrators.md file with new branch option selected*  
+
+4. In the branch name box above the green “Commit changes” button, use the auto-populated name, enter a custom name for the new development branch, or use an existing development branch, and then click the green “Commit Changes” to begin the process of initializing a draft pull request.  
+
+![New branch name field and Commit changes button](content-editor-guide-images/04-commit-changes.png)*Figure 4: New branch name field and Commit changes button*  
+
+The “Open a pull request” page appears.  If your changes are complete, skip to step 9 to create a real pull request.  Otherwise, continue to Step 5 to create a draft pull request.  
+
+5. Add a description of the proposed changes (i.e., added new form) and add assignees if you’d like someone on the EDU team to review the edit.  
+
+![Enter description of changes](content-editor-guide-images/05-enter-description.png)*Figure 5: Enter description of changes*  
+
+6. Be sure that the green button in the lower right corner of the page is set to “Draft pull request”.  
+
+![Enter description of changes](content-editor-guide-images/06-draft-pr.png)*Figure 6: Enter description of changes*  
+
 
 ## Announcements
 
