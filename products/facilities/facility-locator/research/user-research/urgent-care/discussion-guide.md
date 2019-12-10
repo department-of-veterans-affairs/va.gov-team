@@ -40,9 +40,9 @@ Now let's imagine you have a wound and probably need stiches. In this scenario, 
 From this page, tell me what you would do in order to find urgent care to stitch your wound.
 
 ### Task 2 - Select Location
-Let's imagine that you are ready to select a location but want to know more information. What would you do on this page to find that? 
+Let's imagine that you are ready to select a location but want to know more information about it. What would you do on this page to find that? 
 
-What information would you expect to learn if you clicked on one of the locations in the search results?
+What information would you expect to see if you clicked on one of the locations in the search results?
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
