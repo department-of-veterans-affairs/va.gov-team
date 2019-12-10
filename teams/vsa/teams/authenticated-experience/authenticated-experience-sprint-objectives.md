@@ -120,7 +120,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 - Direct Deposit
   - Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
-  - FE for routing number error
+  - FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
   - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
 - Address validation
   - QA for address validation
