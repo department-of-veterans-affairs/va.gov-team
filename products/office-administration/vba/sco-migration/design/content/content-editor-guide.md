@@ -1,2 +1,2 @@
 
-![Content Editor Guide](master/3DTest.png)
+![Content Editor Guide](content-editor-guide-images/cover.png)
