@@ -6,7 +6,7 @@ https://analytics.google.com/analytics/web/?authuser=1#/dashboard/PPUZ37Q0SOi_Ci
 
 ### Recommendations 
 Potential enhancements to the GI Bill Comparison Tool Dashboard in Google Analytics
-- Display a graph with the total number of pageviews by month for the last 12 months
+- Display a graph with the total number of pageviews by month for the last 13 months
 - Add "Average number of institutions viewed in a session"
 - Add "Average length of session"
 - Add "Average number of filter modified in a session"
