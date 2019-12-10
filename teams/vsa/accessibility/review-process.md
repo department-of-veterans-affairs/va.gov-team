@@ -50,7 +50,7 @@ For medium to large projects, there are two checkpoints.
 
 2. **Design Review Checkpoint** — *Integrated with VSP* — [Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
 
-    The accessibility special will review the following items to align with WCAG:
+    The accessibility specialist will review the following items to align with WCAG:
 
     a. Mobile design - including performance implications for assistive technology and impact on the diverse audience (such as those with challenging connectivity or limited data plans)
     
@@ -80,7 +80,7 @@ For medium to large projects, there are two checkpoints.
 
 There are two checkpoints:
 
-1. **Design-Development Intent Checkpoint** — [Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md) - This review happens as the design is passed to development, before beginning development. The accessibility specialist(s) will review the design with the developer(s) to:
+1. **Design-Development Intent Checkpoint** — [Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME) - This review happens as the design is passed to development, before beginning development. The accessibility specialist(s) will review the design with the developer(s) to:
 
     a. Discuss approach to take with development, for WCAG compliance
 
@@ -91,7 +91,7 @@ There are two checkpoints:
     d. During engineering, here are some available resources:
       * Review [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
       * Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
-      * Developers may request a spot check accessibility review, akin to the design intent review. [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
+      * Developers may request a spot check accessibility review, akin to the design intent review. [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)
       * [Sample of early review, issues noted in Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2553)
       * [VSA Audit Ticket Template (draft)](https://docs.google.com/document/d/1O6r5WSjpI2jDvgPkNNCCFmUYS8PJpUqf6nP55tEKISo/edit?ts=5db8af69#)
     
@@ -99,7 +99,7 @@ There are two checkpoints:
 
     a. Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
     
-    b. If you'd like, you may request a spot check accessibility review ahead of the Pre-launch 508 Review: [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/request_dev_review_vsa.md)
+    b. If you'd like, you may request a spot check accessibility review ahead of the Pre-launch 508 Review: [Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)
 
     b. If your project is code stable in Staging, [request a Pre-launch 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
 
