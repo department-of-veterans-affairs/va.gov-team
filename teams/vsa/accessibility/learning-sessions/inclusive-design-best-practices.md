@@ -131,7 +131,7 @@ Inclusive design, universal design, and accessibility are important for differen
 * Might not involve the participation of excluded communities 
 * One-size-fits-all
 
-**Accessibility** is an *attribute*, while Inclusive Design and Universal Design are *methods*. Accessible solutions aren’t always designed to consider human diversity or emotional qualities like beauty or dignity. They simply need to provide access.
+Accessibility is an *attribute*, while Inclusive Design and Universal Design are *methods*. Accessible solutions aren’t always designed to consider human diversity or emotional qualities like beauty or dignity. They simply need to provide access.
 
 **Inclusive design** should always start with a solid understanding of accessibility fundamentals. 
 
