@@ -56,7 +56,40 @@ Development branches store files that are being created and modified.
 
 ### What is considered main page content?
 
+The following static content on the “Resources for Schools” page is considered main page content and is editable on the “school-administrators.md” page:  
+
+* Page title
+* Intro paragraph
+* “On this page” links
+* “Key resources for SCOs” links
+* “Training and guides” content
+* “Policies and procedures” content
+* “Resources to support students” content
+* Right Rail callouts 
+    * “SCO Handbook” 
+    * “Ask questions” 
+    * “Average processing times” 
+    * “Connect with us”  
+    
+**Note:** Announcements and events are considered dynamic content, as they expire automatically, and are edited in separate json files. Instructions for editing announcements and event appear below. 
+
+
 ### How do I update content and links on the main page?
+
+To update content and links, follow the steps below:  
+
+1. In GitHub, navigate to the main content page for the “Resources for schools” section.  
+
+    **Page name:** school-administrators.md https://github.com/department-of-veterans-affairs/vagov-content/blob/master/pages/school-administrators.md  
+
+**Note:** If you are just starting the edit, make sure you have the “Master” branch selected in the upper left corner of the page.  If you are returning to finish an edit you previously started, be sure you have the correct branch selected in the upper left corner of the page.  
+
+![The school-administrators.md file with Master branch selected](content-editor-guide-images/01-master-branch.png)*The school-administrators.md file with Master branch selected*  
+
+2. Click the edit button in the upper right corner of the page and begin editing.  
+
+![Edit button](content-editor-guide-images/edit-button.png)
+
 
 #### Main content considerations
 
