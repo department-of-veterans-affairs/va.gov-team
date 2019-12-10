@@ -16,16 +16,18 @@ This document helps all teams working on VA.gov understand when you should engag
 VSP Design serves as a centralized design support team for all VFS teams, including teams working on Veteran-facing Services Applications (VSA), public website teams, and more.  
 
 **Onboarding new teams**
-- Your team will get a tour of how we approach UX! We’ll show you around the tools, services, support, and documentation available to you. We will also schedule a design breakout with you and team members.
+- Your team will get a tour of how we approach UX! We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you. 
+- You’ll meet the people on VSP who specialize in design and research, content, information architecture, and accessibility
 
 **During the discovery phase**
 - Your team can use our templates, patterns, and guides to conduct user research, create prototypes, start crafting supporting content, and test all of this with real users.
-- Your team can expect early feedback and direction on the work with a [Design Intent Check-in](#designintent),and can drop in throughout the process using [Platform Design Office Hours](#officehours).
+- Your team can expect early feedback and direction on the work with a [Design Intent Check-in](#designintent),and can drop in throughout the process using [Platform Design Office Hours](#officehours).
 
 **During the design and build phases**
 - Your team will use the [sketch pattern library](https://design.va.gov/documentation/designers "sketch pattern library") to quickly design screen mockups in Sketch.  
-- Your team can work from our research guides for usabilty testing, and update your content and features based on what you learn.
-- The team will schedule [Design Reviews](#designreviews) as you build out your flows
+- Your team can work from our research guides for usability testing, and update your content and features based on what you learn.
+- The team will schedule [Design Reviews](#designreviews) as you build out your flows
+
 
 ## <a id="whatdoesVSPdesigndo"></a>What VSP design does
 We support designers by providing resources and guidance to enable them to create excellent Veteran-centered experiences. 
