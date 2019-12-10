@@ -25,17 +25,17 @@ Have you ever visted an urgent care location?
 I'm going to ask you a few questions about this site. While we look at the website, I’m going to ask you to think out loud, working a little more slowly than you might work normally while looking at the web. Talk me through what you are doing. This is only a prototype, so not all links will be clickable.
 
 ### Scenario
-Let's imagine you are coming to the site because you need to visit an Urgent Care location in Washington D.C. 
+You are coming to the site because you need to visit an Urgent Care location in Washington D.C. 
 
 ### Task 1 - Find Urgent Care
-Let's imagine that you are coming to the site because you need urgent care for a sore throat. In this scenario, that service is not available through VA Health.
+Let's imagine that you need urgent care for a sore throat. In this scenario, that service is not available through VA Health.
 
 From this page, tell me what you would do in order to find urgent care. Remember to think aloud -- not everything on the page will be clickable. 
 
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 [Ask to go back to the "first" page]
 
-Now let's imagine you are coming to the site because you have a wound and probably need stiches. In this scenario, that service is also not available through VA Health. 
+Now let's imagine you have a wound and probably need stiches. In this scenario, that service is also not available through VA Health. 
 
 From this page, tell me what you would do in order to find urgent care to stitch your wound.
 
