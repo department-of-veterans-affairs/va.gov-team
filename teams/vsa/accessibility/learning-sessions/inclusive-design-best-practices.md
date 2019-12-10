@@ -73,7 +73,9 @@ Continuous improvement is a tenet of Scrum and Agile: Self-improvement, process 
 
 We&rsquo;re here to support one another, so it&rsquo;s okay to not know!</blockquote>
 
-Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA).
+Contact accessibility specialists 
+* #vetsgov-accessibility channel in the DSVA Slack
+* Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
 
 <blockquote><strong>&ldquo;Inclusion is a vast promise &mdash; as immense, in fact, as human diversity &mdash; and that&rsquo;s what makes it a great design challenge. But without a clear agreement on what inclusion is, can we ever hope to achieve it? How can we design for something that means so many different things to different people?&rdquo;</strong> 
@@ -301,7 +303,7 @@ Product design that considers the needs of people with disabilities is still rel
 * Include accessibility considerations in user group profiles and personas. People with disabilities are potentially members of all user groups, accessibility considerations apply to all user group profiles. 
 * Don’t make assumptions about tools and services people with disabilities might use. For example, a designer assumed a person who is blind wouldn’t use a photocopier. Yet, they might use a photocopier to make copies for others or to copy pages from a book in order to scan them into a speech output program.
 
-Source: [http://uiaccess.com/accessucd/users.html]([http://uiaccess.com/accessucd/users.html)
+Source: [http://uiaccess.com/accessucd/users.html](http://uiaccess.com/accessucd/users.html)
 
 Another example: A usability testing participant with low vision remarked when he was frustrated by inaccessible websites when he was comparing auto insurance rates for his wife's car and he said, "as though a person who doesn't drive would not be buying auto insurance."
 
@@ -408,12 +410,13 @@ Accessibility is most effectively and efficiently incorporated into product desi
 Ensuring that the designers understand the wide range of functional limitations at the beginning of the design phase helps avoid costly changes later.
 
 Section 508 of the Rehabilitation Act Subpart C -- § 1194.31 Functional performance criteria:
-a. At least one mode of operation and information retrieval that does not require user vision shall be provided, or support for assistive technology used by people who are blind or visually impaired shall be provided.
-b. At least one mode of operation and information retrieval that does not require visual acuity greater than 20/70 shall be provided in audio and enlarged print output working together or independently, or support for assistive technology used by people who are visually impaired shall be provided.
-c. At least one mode of operation and information retrieval that does not require user hearing shall be provided, or support for assistive technology used by people who are deaf or hard of hearing shall be provided.
-d. Where audio information is important for the use of a product, at least one mode of operation and information retrieval shall be provided in an enhanced auditory fashion, or support for assistive hearing devices shall be provided.
-e. At least one mode of operation and information retrieval that does not require user speech shall be provided, or support for assistive technology used by people with disabilities shall be provided.
-f. At least one mode of operation and information retrieval that does not require fine motor control or simultaneous actions and that is operable with limited reach and strength shall be provided.
+
+  a. At least one mode of operation and information retrieval that does not require user vision shall be provided, or support for assistive technology used by people who are blind or visually impaired shall be provided.
+  b. At least one mode of operation and information retrieval that does not require visual acuity greater than 20/70 shall be provided in audio and enlarged print output working together or independently, or support for assistive technology used by people who are visually impaired shall be provided.
+  c. At least one mode of operation and information retrieval that does not require user hearing shall be provided, or support for assistive technology used by people who are deaf or hard of hearing shall be provided.
+  d. Where audio information is important for the use of a product, at least one mode of operation and information retrieval shall be provided in an enhanced auditory fashion, or support for assistive hearing devices shall be provided.
+  e. At least one mode of operation and information retrieval that does not require user speech shall be provided, or support for assistive technology used by people with disabilities shall be provided.
+  f. At least one mode of operation and information retrieval that does not require fine motor control or simultaneous actions and that is operable with limited reach and strength shall be provided.
 
 Source: [http://uiaccess.com/accessucd/design.html#functional-limitation](http://uiaccess.com/accessucd/design.html#functional-limitation)
 
@@ -451,7 +454,9 @@ Continuous improvement is a tenet of Scrum and Agile.<br/>
 Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
 We’re here to support one another, so it&rsquo;s okay to not know! </blockquote>
 
-Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA). 
+Contact accessibility specialists 
+* #vetsgov-accessibility channel in the DSVA Slack
+* Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
 <blockquote><strong>&ldquo;If design is the source of mismatches and exclusion, can it also be remedy? 
  Yes, but it takes work.&rdquo;</strong><br/>
@@ -518,7 +523,9 @@ Continuous improvement is a tenet of Scrum and Agile.
 Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
 We’re here to support one another, so it’s okay to not know!</blockquote>
 
-Contact accessibility specialists in #vetsgov-accessibility channel in the DSVA Slack, or message Trevor Pierce (VSP) or Jennifer Strickland (VSA).
+Contact accessibility specialists 
+* #vetsgov-accessibility channel in the DSVA Slack
+* Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
 Instead of intimidating you, I hope this information empowers you with confidence and inspiration to imagine how you might incorporate accessibility and involve diverse perspectives, including people with disabilities, throughout your project.
 
