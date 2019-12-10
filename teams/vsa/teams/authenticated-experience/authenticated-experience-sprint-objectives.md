@@ -117,20 +117,16 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
   - Track Successful saves by "enroll" (new users) and "update" (existing users) [#4056]((https://github.com/department-of-veterans-affairs/va.gov-team/issues/4056))
 
 ### Sprint 11 (12/18 - 12/31)
-- Direct Deposit
-  - Ramp up to 100%: Before we do this, we are hoping to get more insight into why the flagged for fraud error is so high and hopefully work towards a solution if people who are seeing that error shuold not be.
 
- - DS logon gate: 
-    - Frontend implementation of design in the profile
-    - Implementation of content page (may need FE help with DS Logon gate)
-    
-  - If all has gone well with the launch of the DS Logon gate, ramp up to 75% – 100%
-  - Finalize content page and update call center guide (to include DS Logon updates, assuming all goes well with the functionality we launched in Sprint 10.
+- Direct Deposit
+  - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
+    - Before we do this, we are hoping to get more insight into why the flagged for fraud error is so high and hopefully work towards a solution if people who are seeing that error shuold not be. 
 - Address validation
   - QA for address validation
-* Launch Bad Address Indicator and move to monitor mode 
-* Start Sign-In Page
-* Monitoring, maintenance, bug fixes, hardening, 508, etc.
+- Launch Bad Address Indicator and move to monitor mode 
+- Start Sign-In Page
+- Monitoring, maintenance, bug fixes, hardening, 508, etc.
+- Onboard Tressa [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
 
 
 
