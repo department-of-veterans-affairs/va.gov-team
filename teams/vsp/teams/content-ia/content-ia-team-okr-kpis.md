@@ -16,14 +16,21 @@
 - KR: Implement ≥1 VFS-facing automated test for content or IA
 - KR: Conduct initial collaboration on content and IA for >85% of VFS work efforts within 3 weeks of project kick off
 
-### O: Ensure that 100% of VFS teams with contracts ending have captured crucial documentation about how to work on their product in an accessible and findable location
+### ~O: Ensure that 100% of VFS teams with contracts ending have captured crucial documentation about how to work on their product in an accessible and findable location~ _Deprioritized until 2020_
 
-- KR: Determine and implement expectations for VFS teams regarding documentation offboarding
-- KR: Complete documentation review for 100% of VFS teams before their contract end date
+- ~KR: Determine and implement expectations for VFS teams regarding documentation offboarding~
+- ~KR: Complete documentation review for 100% of VFS teams before their contract end date~
 
 ---
+## Key Performance Indicators
 
-## Key Performance Indicators [WORK IN PROGRESS]
+| Metric | Related Hypothesis/(es) and Assumptions | Notes on Implementation | 
+|---|---|---|
+| IA health of VA.gov | Hypothesis: If we effectively support VFS teams in implementing "good IA" on VA.gov, then the findability of key content on VA.gov should remain at a healthy, successful baseline. | Need to implement quarterly or 2x/year IA checks on VA.gov |
+| # documentation support requests per week | Hypothesis: If we ensure that documentation is in a findable, accessible place, then documentation support requests will decrease. | Need to implement tracking of all customer support Qs in global customer support super epic, and ensure that all documentation requests are being tracked and labeled appropriately. |
+| # automated content & IA errors flagged for users | Hypothesis: As we implement better self-service and automated tests for content and/or IA, automated errors identified for teams building on VA.gov will increase in the short term. | Currently 0, need to implement metrics gathering as automated tests are implemented |
+
+### Key Performance Indicators — Additional Ideas/Drafts
 
 _Draft of KPI ideas as of 11/26/19. Note that measurement for *none* of these is currently implemented._
 
