@@ -8,7 +8,7 @@
 _Lorem ipsum_
 
 ### Product Suite (if applicable): 
-_i.e. Health Care, Education, Global UX, Authenticated Experience, etc - ask Chris J or your VA Product Lead if you're unsure!_
+Caregivers
 
 ### Team Mission Statement:
 _Lorem ipsum_
@@ -30,7 +30,7 @@ _Link to agile roadmap_
 - DSVA Product Lead: C.C. Gong
 - Team Product Manager: Alayna Abel
 - Front-End Engineering: Justin Linn
-- Back-End Engineering: Lance Sanchez
+- Back-End Engineering: Lance Sanchez/Kevin Marcowitz
 
 ---
 
