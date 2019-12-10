@@ -24,6 +24,7 @@ The following list is a set of resources for practicing IA on VA.gov and to help
 **Best Practices and Guidelines**
 - [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
 - [URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
+- [SEO Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
 - [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
 - [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
 
