@@ -119,22 +119,12 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 ### Sprint 11 (12/18 - 12/31)
 
 - Direct Deposit
+  - Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
+  - FE for routing number error
   - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
-    - Before we do this, we are hoping to get more insight into why the flagged for fraud error is so high and hopefully work towards a solution if people who are seeing that error shuold not be. 
 - Address validation
   - QA for address validation
 - Launch Bad Address Indicator and move to monitor mode 
 - Start Sign-In Page
 - Monitoring, maintenance, bug fixes, hardening, 508, etc.
 - Onboard Tressa [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
-
-
-
-
-
-
-
-
-
-
-
