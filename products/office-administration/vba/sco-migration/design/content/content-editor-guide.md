@@ -11,7 +11,7 @@
 [What is a github repository?]()  
 [Main page]()  
      [What is considered main page content?]()	  
-     [How do I update content and links on the main page?]()   
+     [How do I update content and links on the main page?]()   
           [Main content considerations]()	  
           [Right rail considerations]()    	
 [Announcements]()   
