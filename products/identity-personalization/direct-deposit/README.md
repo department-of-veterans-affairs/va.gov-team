@@ -1,5 +1,5 @@
 # Direct Deposit Product Outline
-Last Updated August 20, 2019
+Last Updated December 10, 2019
 
 ## POCs
 - GitHub Label: Direct Deposit  
@@ -110,7 +110,7 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 ### Objective
 - Improve direct deposit security and decrease the number of cases of fraud.
 - Implement improved error messaging that will help direct users to the National Call Center if they are experieincing errors when attempting to update their Direct Deposit information. 
-- Decrease "flagged for fraud" error rate.
+- Decrease "flagged for fraud" error rate. Information on this can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
 
 ### Tracking
 - Work with the fraud team to see if there is an decrease in cases. (Need to see if we can access this.) **(need to update)**
