@@ -90,6 +90,8 @@ With Adam Kindler and other members of his team
 - IP addresses would be the biggest thing they would want. Used to have it but now there is some sort of privacy issue around DoD not disclosing that they were tracking IP addresses. DoD went back and published whatever they needed to disclose they were tracking IP Addresses, but we still haven't been able to get that data back at the VA. VA may not have a formal agreement to get that from DoD.
 - Their data is currently being pulled from CorpDB.
 
-----
+## Follow-up email 12.10.19
 
-- Include Eugene on future calls.
+- I emailed Adam to confirm what happens if a veteran calls to get their account **unlocked**. As expected, we are correctly pointing people to the call center who will point people to the fraud team. The fraud team will handle and follow up with veterans on a case-by-case basis:
+
+> Correct. Typically Veteran’s aren’t saying they want their account unlocked. They are saying I want to update my direct deposit and the agents can’t because the block is in play.  So, we look on a case by case basis and respond to the sender on what the next steps should by. Because of an increase in Call Center fraud there’s a lot of time where we take no action.
