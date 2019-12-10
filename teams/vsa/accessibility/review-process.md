@@ -46,7 +46,7 @@ For medium to large projects, there are two checkpoints.
 
     e. For guidance during design, [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
 
-2. **Design Review Checkpoint** — *Integrated with VSP* — **[>> Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
+2. **Design Review Checkpoint** — *Integrated with VSP* **[>> Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
 
     The accessibility specialist will review the following items to align with WCAG:
 
@@ -78,7 +78,7 @@ For medium to large projects, there are two checkpoints.
 
 There are two checkpoints:
 
-1. **Design-Development Intent Checkpoint** — **[>> Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** - This review happens as the design is passed to development, before beginning development. The accessibility specialist(s) will review the design with the developer(s) to:
+1. **Design-Development Intent Checkpoint** **[>> Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** - This review happens as the design is passed to development, before beginning development. The accessibility specialist(s) will review the design with the developer(s) to:
 
     a. Discuss approach to take with development, for WCAG compliance
 
