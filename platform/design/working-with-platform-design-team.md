@@ -38,7 +38,7 @@ We support designers by providing resources and guidance to enable them to creat
 - Provide resources for planning, recruiting, facilitating, and synthesizing research when you’re ready to conduct user research (discovery or usability).
 - Design intent check-ins for an early mock, prototype, or flow before conducting usability testing **(this is required)**
 - Identify design system components and patterns that are most appropriate for what your team is designing
-- Conduct a pre-usability testing design review on prototypes or static screen, and a design QA review when the designs have been built on staging (coded, interactive flows) **(these are required)**
+- Conduct a pre-usability testing design review on prototypes or static screen, and a design QA review when the designs have been built on staging (coded, interactive flows) **(this is required)**
 - Hold reviews and check-ins as needed when the design team iterates based on user feedback, new requirements, etc.
 
 ## <a id="bestpractices"></a>VA.gov design resources
