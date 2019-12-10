@@ -62,6 +62,19 @@ For designers beginning new, large projects from scratch: Something here to give
 
 For not-new designers working on small or medium projects: Use your judgment for what levels of support and feedback you need. Generally, a pre-usability testing design review or a design QA review will be appropriate for this type of project, but you are the expert!
 
+## Design review timeline
+- Assigned to project
+- Project kickoff
+- Research/discovery if needed
+- **A design intent-check in**
+- Take in feedback/direction build out user flows, mockups, prototypes
+- **Pre-usability testing design review** 
+- Incorporate feedback into prototype before testing
+- Testing with users
+- Iteration to incorporate user feedback
+- Hand off to development to build
+- **Design QA review** 
+
 ### <a id="designintent"></a>Design Intent Check-in
 **When to request a design intent check-in:**  
 We recommend to request a design intent check-in before any high-fidelity designing takes place. This is the chance to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
