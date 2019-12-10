@@ -73,7 +73,7 @@ Continuous improvement is a tenet of Scrum and Agile: Self-improvement, process 
 
 We&rsquo;re here to support one another, so it&rsquo;s okay to not know!</blockquote>
 
-Contact accessibility specialists 
+**Contact accessibility specialists** 
 * #vetsgov-accessibility channel in the DSVA Slack
 * Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
@@ -455,11 +455,11 @@ Continuous improvement is a tenet of Scrum and Agile.<br/>
 Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
 We’re here to support one another, so it&rsquo;s okay to not know! </blockquote>
 
-Contact accessibility specialists 
+**Contact accessibility specialists** 
 * #vetsgov-accessibility channel in the DSVA Slack
 * Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
-<blockquote><strong>&ldquo;If design is the source of mismatches and exclusion, can it also be remedy? 
+<blockquote><strong>&ldquo;If design is the source of mismatches and exclusion, can it also be the remedy? 
  Yes, but it takes work.&rdquo;</strong><br/>
  — Kat Holmes, author of <em>Mismatch, How Inclusion Shapes Design</em></blockquote>
 
@@ -524,7 +524,7 @@ Continuous improvement is a tenet of Scrum and Agile.
 Self-improvement, process improvement, advancing skills, and techniques help team members work more efficiently
 We’re here to support one another, so it’s okay to not know!</blockquote>
 
-Contact accessibility specialists 
+**Contact accessibility specialists** 
 * #vetsgov-accessibility channel in the DSVA Slack
 * Message Trevor Pierce (VSP) or Jennifer Strickland (VSA)
 
