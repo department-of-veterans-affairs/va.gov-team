@@ -23,7 +23,7 @@ Create a [Research Plan](https://github.com/department-of-veterans-affairs/vets.
 Note: after finalizing the conversation guide, consider creating and including in this folder a “note-taking template” in Github to help your note-takers.   
 
 ## <a id="recruiting"></a>Recruiting
-**Note: The language of our contract stipulates that you do not recruit veterans “on the side” to do informal research on your own. You must use DEPO’s services for all research recruiting. Please contact Lauren Alexanderson if you would like to talk to veterans in support of your work on VSA, and be sure to have her (or your DEPO contact) review and approve your plan. **
+**Note: The language of our contract stipulates that you do not recruit veterans “on the side” to do informal research on your own. You must use DEPO’s services for all research recruiting. Please contact Lauren Alexanderson if you would like to talk to veterans in support of your work on VSA, and be sure to have her (or your DEPO contact) review and approve your plan.**
 
 VA has an agreement with a recruiting organization that will manage all recruiting operations for you, including:  
 * creating a screener to get the right participants, including Veterans, caregivers, service members, and dependents  
