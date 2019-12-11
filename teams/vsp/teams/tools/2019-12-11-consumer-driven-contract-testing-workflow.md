@@ -1,6 +1,6 @@
 # Consumer-driven Contract Testing Workflow
 
-This is an initial draft of the proposed workflow for integration testing using Pact and the Pact Broker, following up from the discovery summarized in [Consumer-driven Contract Testing with Pact](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4e01454bec0c8c0138ffd7d1e25d056275b5cab6/teams/vsp/teams/tools/2019-11-13-consumer-driven-contract-testing-with-pact.md). Any commands listed in this document assume a similar setup to that described in the previous document. The previous example does not fully represent the finalized process, and next steps are proposed [below](#todo).
+This is an initial draft of the proposed workflow for integration testing using Pact and the Pact Broker, following up from the discovery summarized in [Consumer-driven Contract Testing with Pact](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4e01454bec0c8c0138ffd7d1e25d056275b5cab6/teams/vsp/teams/tools/2019-11-13-consumer-driven-contract-testing-with-pact.md). Any commands listed in this document assume a similar setup to that described in the previous document. The example from that previous document does not fully represent the finalized process, and next steps to achieve the desired process are proposed [below](#todo).
 
 
 
