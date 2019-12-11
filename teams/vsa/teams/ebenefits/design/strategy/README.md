@@ -45,7 +45,7 @@ _Document our understanding of the feature as it currently exists and how it fit
 
 _Create and execute a research plan to understand how Veterans use the feature as is, what its pain points and pain relievers are, and how it might be improved._
 
-- [ ] Create research plan
+- [ ] :file_folder: Create research plan
   - [ ] :file_folder: Write conversation guide `TODO: Link to guide template`
   - [ ] Coordinate sessions with user research partner, asking them to take notes `TODO: Link to research engagement guide`
 - [ ] Run research sessions
