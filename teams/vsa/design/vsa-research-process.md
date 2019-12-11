@@ -81,7 +81,7 @@ Many if not most veterans use mobile devices, so we encourage testing designs on
 ## <a id="synthesis"></a>Synthesis
 The maximum given to you according to our contract to synthesize research is “6 business days.”  In general, a topline summuary should be produced as soon as possible when everything is fresh in folks' minds. If you think you need more time, talk to Shawna.  
 
-The following process is recommended by the VSA Desing Lead:
+The following process is recommended by the VSA Design Lead:
 1. At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.
 2. Once all the research is done and all debriefs have been conducted, create a [“topline summary”](https://portigal.com/reading-ahead-topline-summary/) that captures key themes discussed coming out of the sessions and debriefs.
 3. Share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
