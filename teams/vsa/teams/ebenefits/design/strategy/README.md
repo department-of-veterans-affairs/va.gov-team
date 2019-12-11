@@ -6,7 +6,7 @@
 
 The goal of this doc is to create a framework for adding Design and Design Research issues to the issue tracker. It is a loose outline and not meant to be overly proscriptive. ("People over process!")
 
-The framework implies that design sketches are ready for iterative development starting immediately after the first design review. This may not be applicable or necessary in all cases, eg. a simple list-view page might get scaffolded by engineering just using the design system, with an understanding that updates may be necessary later.
+The framework implies that design sketches are ready for iterative development starting immediately after the first design review. This may not be applicable or necessary in all cases, e.g., a simple list-view page might get scaffolded by engineering just using the design system, with an understanding that updates may be necessary later.
 
 The framework implies three design practice meetings:
 - A design intent review after initial feature analysis
@@ -65,7 +65,7 @@ _Work with the team to create design artifacts that engineering might use to sta
 
 _Present findings and sketches to the Design Practice and update lo-fi sketches with critical feedback._
 
-- [ ] Schedule a time for a design practice critique of the lo-fi setches and flows
+- [ ] Schedule a time for a design practice critique of the lo-fi sketches and flows
 - [ ] Incorporate rough feedback from the session
 - [ ] Schedule a time to walk PM/BE/FE engineering through the updated sketches
 
@@ -75,12 +75,16 @@ _Move lo-fi sketches to product designs based on the design review and design sy
 
 - [ ] :file_folder: Create product designs per screen/ flow/ error state
   - `Break into individual issues per major task`
+- [ ] Confirm locations with vfs-platform-support: IA Team (@mikki)
+  - [ ] [Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md#request-an-ia-review)
+- [ ] Confirm language used with vfs-platform-support: Content Team (@peggygannon)
+  - [ ] [Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 
 ### Design Research | Conduct usability study on mockups for "[feature name]"
 
 _Put the product designs in front of real users and ask them how the designs help them achieve specific goals._
 
-- [ ] Create usability research plan
+- [ ] :file_folder: Create usability research plan
   - [ ] :file_folder: Write conversation guide
   - [ ] Coordinate sessions with user research partner, asking them to take notes
 - [ ] Run usability sessions
