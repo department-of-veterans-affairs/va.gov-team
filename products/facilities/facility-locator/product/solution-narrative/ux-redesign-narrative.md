@@ -32,7 +32,6 @@ The purpose of this document is to provide a narrative of the iterations and dec
 
 ![Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL-services-filter-wire.png)
 
-![Service Filter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL-services-filter-wire.png)
 
 ## v2: December 2019
 
