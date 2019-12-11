@@ -34,7 +34,7 @@ Information about using our recruiter, Pergean to recruit participants for your 
 
 When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack. Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/Conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
 
-Note: please cc Andre Zwilling of GCIO on your communication with Lauren so he knows a research session is happening. Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
+CC Andre Zwilling of GCIO on your communication with Lauren so he knows a research session is happening. Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
 
 Because of the nature of working Veterans, it is common that they will not show up for scheduled sessions. Try to schedule between 1.5 and 2 times more sessions than you need so that you can complete sufficient sessions within your desired schedule. Also, consider early morning or evening sessions for fewer no-shows, as Veterans often have full-time jobs.
 
