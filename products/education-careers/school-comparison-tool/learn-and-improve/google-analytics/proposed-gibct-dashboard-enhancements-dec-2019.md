@@ -10,11 +10,12 @@ Potential enhancements to the GI Bill Comparison Tool Dashboard in Google Analyt
 - Add "Average number of institutions viewed in a session"
 - Add "Average length of session"
 - Add "Average number of filter modified in a session"
-- Add the "What are the top institution types selected on the GIBCT landing page?" widget that resides on the VET TEC Dashboard and move it to the main GIBCT dashboard.(If possible, update the schools # logic to include those who search without changing the default value of schools?)
+- Add the "What are the top institution types selected on the GIBCT landing page?" widget that resides on the VET TEC Dashboard and move it to the main GIBCT dashboard.(If possible, update the schools # logic to include those who search without changing the default value of schools)
 - Keep the heat map of users by state (Is the title accurate, or is it where they search?  What is it based on, can we use the same for VET TEC?)
 - Display a pie chart of the "Most Viewed Institutions"
 - Keep "Top searches for location or provider"
-- Keep "Top 10 Form Selections used in GIBCT Landing Page" 
+- Keep "Top 10 Form Selections used in GIBCT Landing Page" (Update this from "Landing page" to "Search results page")
 - Keep "Top 10 Form Selections used on GIBCT Profile Pages" 
 - Keep "Top Learn More Selections on GIBCT Profiles"
-- Display a list of the top inbound links.
+- Add "Traffic sources" (Focus on social media - pie chart)
+- Add display a list of the top inbound links.
