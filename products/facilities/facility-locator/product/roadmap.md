@@ -1,5 +1,13 @@
 # Facility Locator Roadmap (WIP)
 
+## Facility Locator Roadmap Visual
+
+*Updated November 2019*
+
+![Roadmap Visual](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Facility%20Locator%20Roadmap%20(WIP).png)
+
+## Facility Locator Roadmap (WIP)
+
 Providing a single, consolidated place across VA.gov where Veterans and beneficiaries can easily find and understand high-level information about facilities offering priority VA benefits and services. 
 
 *Timelines and priorities listed below are subject to change and are not necessarily in priority order*
