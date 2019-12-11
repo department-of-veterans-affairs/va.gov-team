@@ -119,9 +119,10 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 ### Sprint 11 (12/18 - 12/31)
 
 - Direct Deposit
+  - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
+  - If it hasn't launched, launch copy updates for content page.
   - Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
   - FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
-  - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
 - Address validation
   - QA for address validation
 - APO/FPO/DPO
