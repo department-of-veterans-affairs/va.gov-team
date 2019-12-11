@@ -1,8 +1,9 @@
 # Facility Locator Roadmap (WIP)
 
-## Facility Locator Roadmap Visual
+## Most recent version 
+**Available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/FL%20Objectives%2C%20OKRs%20and%20Roadmap%20items%2012.19%20(2).pdf):**
 
-*Updated November 2019*
+## November 2019 Facility Locator Roadmap Visual
 
 ![Roadmap Visual](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/Facility%20Locator%20Roadmap%20(WIP).png)
 
