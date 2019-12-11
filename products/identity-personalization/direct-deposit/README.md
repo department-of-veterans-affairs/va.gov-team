@@ -137,7 +137,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - There are on going conversations with the Fraud team on eBenfits. They expressed a desire to have IP address tracked in order to provide those to law enforcement to catch fraudsters. These conversations are still on going at this time. 
 
 **December 2019** 
-- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilitzed by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile teams implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proffing work as more disucssions are needed around the correct approach to take regarding that work. The Authentitcaed Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
+- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilized by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile team’s implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proofing work as more discussions are needed around the correct approach to take regarding that work. The Authenticated Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
 
 ## Solution Narrative
 
@@ -150,7 +150,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - **8/20/2019**: Approval from eBenefits fraud team to move forward
 - **8/21/2019**: QA begins
 
-- **12/10/2019**: Gained information regarding fraud error flags. More info can be located [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
+- **12/10/2019**: learned mroe detailed information regarding fraud error flags. More info can be located [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
 
 
 ## How to Access and Test
