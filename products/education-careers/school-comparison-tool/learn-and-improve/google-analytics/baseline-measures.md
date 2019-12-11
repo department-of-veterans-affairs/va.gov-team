@@ -23,6 +23,51 @@ Observations
 - Pennsylvania, Ohio, Illinois have proportionally lower usage.
 
 
+### Traffic Sources
+EDU Data
+1. Organic search - 51%
+2. Direct - 29%
+3. Referral - 19%
+4. Email - 0.62%
+5. Social - 0.59%
+
+
+### Inbound links
+EDU Data
+1. vets.gov - 25%
+2. links.govdelivery.com - 23%
+3. search.usa.gov - 7%
+4. links.gd - 3%
+5. militarybenefits.info - 2.6%
+6. department-of-veterans-affairs.github.io - 2.6%
+
+
+### Ave. length of session: 
+EDU Data
+6:22
+
+Observation
+- This is a signficant - and persistent - measurement. !!
+- Nov. 2018 ave session length = 6:28
+- Nov. 2019 ave session length = 5:50.  Are improvements to va.gov facilitating user experiences? This makes me wonder about "Pages/Session" so...
+
+Ave. pages / session
+EDU Data
+5.85
+
+Observation
+- Overall pages views have dropped off slightly.
+- Nov. 2018  = 6.14
+- Nov. 2019  = 5.45
+
+### Average institutions viewed / session:
+TBD - not sure how to get to this data...
+
+
+### Top institutions types on landing page:
+TBD - not sure how to get to this data...
+
+
 ### Top Searches for location or provider 
 1. San Diego
 2. University of Texas
@@ -35,11 +80,30 @@ Observations
 9. San Antonio
 
 Observations
-- Search tracking was added DATE
+- Search tracking was added June 16, 2019
 - Analytics don't distinguish if search is performed on landing page or search results page (narrowing search)
 - "University of Maryland Global Campus" is rebranded UMUC. Quickly emerging as a new top term.  
 - Top searches over the last 13 months rage from 5,757 to 3,560.  
 
+
+### Most viewed institutions
+1. Arizona State University - 13,885
+2. Liberty University - 10,729
+3. American Public University - 10,491
+4. Harvard University - 9,685
+5. Ashford University - 9,472
+6. University of Southern California - 8,773
+7. University of Washington - Seattle Campus - 8,328
+8. San Diego State University - 8,257
+9. Southern New Hampshire Online University - 7,821
+10. University of Texas at Austin - 7,447
+
+Observations
+- Interesting that most viewed institutions don't align directly with top searches. 
+- While Arizona State is the definite front-runner, there isn't a precipitous drop-off in the results that follow. 
+
+### Ave. number of filters modified / session:
+TBD - not sure how to get to this data...
 
 ### Top Form selections on Landing Page
 1. Online Classes - Both - 419,118
@@ -58,7 +122,6 @@ Observations
 - Sharp decline after first couple options.  
 - Significantly more users engaging with controls on landing page now than previously.  
 - Type of Institution - Employer was not tracked 11/2018. On the top form selections in recent uses
-
 
 
 ### Top Form selections on Profile Pages
