@@ -87,11 +87,20 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 
 [See original plan for user management proposal.] (https://docs.google.com/document/d/1WL6T1Jmt1olJ0Tzi7t05K2H5omjjhsLK-fMQobTlI3o/edit?ts=5d237718&pli=1#)
 ### Phase 1 MVP rollout GH Team SSH to VSP and VFS.
+Step 1: 
 - Setup VSP Operations as the first test group for SSH integration for accessing the internal tools and jumpboxs. 
+Step 2:
 - Roll out to VSP Engineers and request for feedback and iterate from this point. 
-  - This group is utilizing SSH and internal tools more closely, so this would directly inpack them, so their feedback will be essential before rolling out to VFS Engineers.   
+  - This group is utilizing SSH and internal tools more closely, so this would directly impact them, so their feedback will be essential before rolling out to VFS Engineers.   
+Step 3:
 - Roll out to all of VSP, request feedback, and integrate.
-- Start the process of rolling out to VFS teams, by the Ops team creating a GH team on the VA repo, setting their permissions, and then giving that GH team to each team for them to manage and own. 
+Step 4:
+- Start the process of rolling out to VFS teams by the Ops team creating a GH team on the VA repo, setting their permissions, and then giving that GH team to each team for them to manage and own. 
+- We will mimic the VSP rollout plan with VSA. We plan to rollout to all the VSA Engineers, request feedback, and give them time to utilize the feature and assist with any questions or concerns. 
+Step 5:
+- Roll out to all of VSA, request feedback, and integrate.
+Step 6: 
+- Roll out to other VFS teams, request feedback, and integrate. 
 
 ### Phase 2 Iterate with a VA slackbot for offboarding and slack integration
 - Setup reminders that alert teams each month, that show them their current roster and asks them to update if the GH team roaster is not correct. 
