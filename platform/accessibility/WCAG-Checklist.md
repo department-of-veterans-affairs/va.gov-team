@@ -123,24 +123,38 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
       </td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
-      <td></td>
+      <th rowspan="3" valign="top">Tables</th>
+      <td>
+        <strong>Header cells (&#60;th&#62;) MUST be associated with their respective data cells</strong> (via scope or headers + id).
+      </td>
+      <td>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a>
+      </td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
-      <td></td>
+      <td>
+        <strong>Tables SHOULD have an accessible name</strong> (e.g. &#60;caption&#62;, aria-label, or aria-labelledby).
+      </td>
+      <td>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/ensure-compat-rsv.html">4.1.2</a>
+      </td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
-      <td></td>
+      <td>
+         <strong>Layout tables (no header/data associations) MUST NOT contain &#60;th&#62; or other header markup.</strong>
+      </td>
+      <td>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a>
+      </td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
-      <td></td>
+      <th>Lists</th>
+      <td>
+        <strong>Lists MUST be marked up appropriately</strong> according to the semantics of the list (e.g. &#60;ul&#62;, &#60;ol&#62;, &#60;dl&#62;).
+      </td>
+      <td>
+        <a href="https://www.w3.org/TR/UNDERSTANDING-WCAG20/content-structure-separation-programmatic.html">1.3.1</a>
+      </td>
     </tr>
     <tr>
       <th></th>
@@ -163,11 +177,6 @@ Note: Based on WCAG 2.0 AA Requirements (marked with “MUST”) and best practi
 
 | Topic      | Accessibility Requirements                                                                                                                                                                                                                                                                                                                                                                       | WCAG  |
 |------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-
-| **Tables** | **Header cells (`<th>`) MUST be associated with their respective data cells** (via scope or headers + id). | 1.3.1 |
-| **Tables** | **Tables SHOULD have an accessible name** (e.g. `<caption>`, aria-label, or aria-labelledby). | (4.1.2) |
-| **Tables** | **Layout tables (no header/data associations) MUST NOT contain `<th>` or other header markup.** | 1.3.1 |
-| **Lists** | **Lists MUST be marked up appropriately** according to the semantics of the list (e.g. `<ul>`, `<ol>`, `<dl>`). | 1.3.1 |
 | **iframes** | **Frame title attribute MUST be specified** (`<iframe title="Video about..."`). | 4.1.2 |
 | **iframes** | **The page within the iframe MUST have an accurate, meaningful 1`<title>`1.** | 2.4.2 |
 | **iframes** | **Iframes with no readable content (e.g. only JavaScript) SHOULD be set to aria-hidden="true".** | (4.1.2) |
