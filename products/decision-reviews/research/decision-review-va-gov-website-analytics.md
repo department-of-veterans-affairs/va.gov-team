@@ -77,3 +77,16 @@ To get a concept of how users are searching for appeals content, we ran a report
 
 
 [Data reference point](https://analytics.google.com/analytics/web/#/report/content-site-search-search-terms/a50123418w177519031p176188361/_u.date00=20191106&_u.date01=20191205&explorer-table.filter=appeal&explorer-table.plotKeys=%5B%5D/)
+
+### Takeaways
+
+
+- **Pageviews** - There is almost the same amount of traffic for the /decision-reviews/ landing page as there is for the /disability/file-an-appeal landing page.
+
+- **Pageviews** - The most viewed section of /decision-reviews/ is Supplemental Claims - this is in line with other metrics we have of it being the most ‘popular’ AMA lane.
+
+- **Behavior** - A considerable amount of users come from the /file-an-appeal/ page to the /decision-reviews/ page and then exit back to the /file-an-appeal/ page, which may be an indication of confusion.
+
+- **Search Terms** - Search terms containing the word ‘appeal’ were overall quite low and represented only about 0.5% of all search terms in the given time frame.
+
+- **Events** - Users are downloading both AMA and legacy appeals forms. However, the way they access those forms are quite different, as 80% of users who download the legacy 0958 form do so from the /file-an-appeal/ page, while most users who download the AMA forms are doing so via a site search.
