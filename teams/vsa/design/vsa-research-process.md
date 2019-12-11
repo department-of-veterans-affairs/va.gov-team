@@ -74,6 +74,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 
 ## <a id="mobile-testing"></a>Mobile Testing
 Many if not most veterans use mobile devices, so we encourage testing designs on mobile as well as desktop.
+
 * Users can install Zoom on their phones or use the ["laptop hugging method"](https://slack-files.com/T03FECE8V-FQAC0QXJN-2904594b3e)
 * Perigean can recruit mobile users for you. Be sure to meet with Perigean folks prior to sessions to make sure everyone understands the process and that Perigean knows how to coach users and help solve technical issues. 
 * Be prepared to walk through the technical setup for mobile (or any) testing with a Veteran if they haven't figured out proper setup before the call begins. 
@@ -86,13 +87,13 @@ The following process is recommended by the VSA Design Lead:
 2. Once all the research is done and all debriefs have been conducted, create a [“topline summary”](https://portigal.com/reading-ahead-topline-summary/) that captures key themes discussed coming out of the sessions and debriefs.
 3. Share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
 Note: Caveat the topline summary by saying that detailed synthesis has not yet been done, so things may change in the final report.
-4. Synthesize your research. You can do this with a modified [affinity mapping](https://generalassemb.ly/design/user-experience-design/affinity-mapping) activity.  I will create a simple spreadsheet, and pull quotes and behaviors from each participant into the spreadsheet. 
-*	Create a simple spreadsheet, and pull quotes and behaviors from each participant into the spreadsheet. 
-*	Code or tag each quote or behavior with relevant categories. 
-*	Move through each participant and revise codes as more insights coalesce. 
-*	Here’s an example: [sample of this from my Master’s thesis](https://docs.google.com/spreadsheets/d/1ngx67-7vvVPeIZYgjX8pTP8w0aEED6I1lz_wJY6wR5Q/edit#gid=210944681) 
-*	You can also do more standard affinity-mapping style synthesis on a Miro or Mural board by putting quotes/behaviors on stickies and grouping them. 
-*	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
+4. Synthesize your research. You can do this with a modified [affinity mapping](https://generalassemb.ly/design/user-experience-design/affinity-mapping) activity.  
+   *	Create a simple spreadsheet, and pull quotes and behaviors from each participant into the spreadsheet. 
+   *	Code or tag each quote or behavior with relevant categories. 
+   *	Move through each participant and revise codes as more insights coalesce. 
+   *	Here’s an example: [sample of this from my Master’s thesis](https://docs.google.com/spreadsheets/d/1ngx67-7vvVPeIZYgjX8pTP8w0aEED6I1lz_wJY6wR5Q/edit#gid=210944681) 
+   *	You can also do more standard affinity-mapping style synthesis on a Miro or Mural board by putting quotes/behaviors on stickies and grouping them. 
+   *	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
 5. Turn the themes that arise them into a research results document. This should typically be a Github page as well as a presentation in the form of a slide deck. You can see examples [if you scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/readme.md).  You can also see some research results [starting on slide 8 here](https://docs.google.com/presentation/d/1aaKDRSu_pPFCxQKoP0cXeHifkmCgZHlm-ZvtgwW5SsQ/edit)
    * Note the Github page with results should be up 6 business days after your last session.  Some more examples of that page:
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
