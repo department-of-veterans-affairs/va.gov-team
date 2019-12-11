@@ -124,7 +124,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
   - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
 - Address validation
   - QA for address validation
-- Launch Bad Address Indicator and move to monitor mode 
-- Start Sign-In Page
+- APO/FPO/DPO
+  - Figure out what build out looks like (coordination of profile and benefit applications)
 - Monitoring, maintenance, bug fixes, hardening, 508, etc.
 - Onboard Tressa [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
