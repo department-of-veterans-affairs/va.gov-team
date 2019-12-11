@@ -1,6 +1,6 @@
-#IRIS and SalesForce Tracking
+# IRIS and SalesForce Tracking
 
-##Current State
+## Current State
 
 There are multiple spreadsheets that are being used by both Call Center Leads in order to gather issues from SalesForce and IRIS.  
 This causes issues when attempting to compile data for tracking and reporting purposes.  Although issues are being gathered from two 
@@ -12,7 +12,7 @@ tracking issues from IRIS and SalesForce.
 Call Center Leads will gather issues on a daily basis from IRIS and SalesForce and enter into the master spreadsheet located on 
 the O drive of the VA Network.  
 
-#The information that will be collected:
+# The information that will be collected:
 
 - Ticket numbers
 - Origination ticket date
