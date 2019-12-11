@@ -1,8 +1,18 @@
-# Engineering
-In this folder, you'll find information specific to how Engineering works on VA.gov.
+# Vets Website Introduction
 
-<!-- No longer valid, these files were removed
-### Table of Contents
-- [Backend](./Backend/README.md)
-- [Frontend](./Frontend/README.md)
-- [Infrastructure](./Infrastructure/README.md) -->
+## Platform Features
+
+* Authentication / Authorization
+* Form Prefill
+* Form Save in Progress
+* Dependency Downtime Notifications
+
+## Development
+
+See the [Vets-Website Development](development.md) documentation to get started with a local instance of Vets-Website and for guidance on how to submit changes and new features.
+
+<hr>
+
+Back: [Deployment](../deployment.md)
+
+Next: [Vets Website Architecture](architecture.md)

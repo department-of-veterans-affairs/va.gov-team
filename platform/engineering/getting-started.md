@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Getting Started
 
 
@@ -15,9 +13,9 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
 ## Get started
 
-1. Confirm that your team's Project Manager has added your name, email address, and Github username to the team spreadsheet and sent it to DSVA. You'll know when you can visit [this Github repo and see the content](https://github.com/department-of-veterans-affairs/va.gov-team/).
+1. Confirm that your team's Project Manager has added your name, email address, and Github username to the team spreadsheet and sent it to DSVA. You'll know when you can visit [this Github repo and see the content](https://github.com/department-of-veterans-affairs/vets.gov-team).
 
-1. Follow the steps to [create new SSH keys, configure, and test the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md#additional-onboarding-steps-for-developers).
+1. Follow the steps to [create new SSH keys, configure, and test the SOCKS proxy](../Onboarding/request-access-to-tools.md#additional-onboarding-steps-for-developers).
 
 1. Verify that you have
 
@@ -25,7 +23,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
     * Have credentials for the shared testing environments &mdash;  [dev.va.gov](https://dev.va.gov) and [staging.va.gov](https://staging.va.gov).
 
-    * Have access to [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
+    * Have access to [Internal Tools](internal-tools-access.md)
 
     * **Tip**: If you have a problem or can't get access, post in the *#vfs-platform-support* Slack channel or reach out to your DSVA contact.
 
@@ -33,7 +31,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
 1. Review the frontend documentation for [Vets-Website](vets-website/README.md).
 
-1. Review the backend documentation for [Vets-API](backend/README.md).
+1. Review the backend documentation for [Vets-API](vets-api/README.md).
 
 <hr>
 
@@ -59,7 +57,7 @@ The Veteran-facing Services Platform is broken into three parts:
 
 #### Internal Tools
 
-To get access to metrics, build logs, deployment information and exception details, see [Internal Tools Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md) documentation.
+To get access to metrics, build logs, deployment information and exception details, see [Internal Tools Access](internal-tools-access.md) documentation.
 
 <hr>
 
@@ -71,7 +69,6 @@ If you encounter issues or have any questions, raise them in the *#vfs-platform-
 
 <hr>
 
-Next: [Environments](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/environments.md)
+Next: [Environments](environments.md)
 
-<!-- This goes back to va.gov-vfs-teams repo.  Will keep initial page in va.gov-team repo, but will redirect users to vfs-teams repo for next pages until all pages are moved over. 
-Back: [Developer Docs Introduction](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/README.md)-->
+Back: [Developer Docs Introduction](README.md)
