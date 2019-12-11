@@ -89,16 +89,22 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 ### Phase 1 MVP rollout GH Team SSH to VSP and VFS.
 Step 1: 
 - Setup VSP Operations as the first test group for SSH integration for accessing the internal tools and jumpboxs. 
+
 Step 2:
 - Roll out to VSP Engineers and request for feedback and iterate from this point. 
   - This group is utilizing SSH and internal tools more closely, so this would directly impact them, so their feedback will be essential before rolling out to VFS Engineers.   
+
 Step 3:
 - Roll out to all of VSP, request feedback, and integrate.
+- Ensure Jenkins permissions are set correctly before rollingout to VFS team.
+
 Step 4:
 - Start the process of rolling out to VFS teams by the Ops team creating a GH team on the VA repo, setting their permissions, and then giving that GH team to each team for them to manage and own. 
 - We will mimic the VSP rollout plan with VSA. We plan to rollout to all the VSA Engineers, request feedback, and give them time to utilize the feature and assist with any questions or concerns. 
+
 Step 5:
 - Roll out to all of VSA, request feedback, and integrate.
+
 Step 6: 
 - Roll out to other VFS teams, request feedback, and integrate. 
 
