@@ -58,6 +58,7 @@ _Work with the team to create design artifacts that engineering might use to sta
 
 - [ ] Based on research findings and existing product documentation, create lo-fi product sketches for _happy path_ flows
 - [ ] Coordinate with BE/ FE engineering to create lo-fi product sketches for _error state_ flows
+- [ ] Review information architecture with vfs-platform-support IA Team ([Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md#request-an-ia-review))
 
 **NB:** These steps may require multiple issues to capture the individual fields flows/ features/ expectations
 
@@ -75,10 +76,7 @@ _Move lo-fi sketches to product designs based on the design review and design sy
 
 - [ ] :file_folder: Create product designs per screen/ flow/ error state
   - `Break into individual issues per major task`
-- [ ] Confirm locations with vfs-platform-support: IA Team (@mikki)
-  - [ ] [Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md#request-an-ia-review)
-- [ ] Confirm language used with vfs-platform-support: Content Team (@peggygannon)
-  - [ ] [Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
+- [ ] Request content review with vfs-platform-support Content Team ([Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review))
 
 ### Design Research | Conduct usability study on mockups for "[feature name]"
 
