@@ -10,7 +10,7 @@
 ## Caution flags
 
 #### EDU Enhancements Deck (2017)
-* Note...
+* Make caution flags more comprehensible and searchable.
 
 #### Prioritized Enhancements XLS (Fall 2019)
 * Note...
