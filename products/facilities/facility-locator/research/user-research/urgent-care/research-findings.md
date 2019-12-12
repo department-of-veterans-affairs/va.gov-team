@@ -23,7 +23,7 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 #### 3. Overlapping benefits cause confusion when visiting in-network providers.
 
 - Veterans could not answer directly when asked if the Urgent Care facility they visited was "in-network" or not because it could have been covered through their spouse's insurance, medicare, or another source.
-- 
+- Some Veterans assumed that because they visted a clinic that was not a VA facility that it would not be covered through their VA benefits.
 
 ## Detailed Findings
 
