@@ -2,13 +2,32 @@
 November 2019
 
 ## Methodology
-We conducted moderated user testing sessions with 7 participants, all Veterans, during the week of October 28 – November 1, 2019. The participants were recruited through the DSVA's recruitment contract with Perigean. Sessions were conducted and recorded via Zoom.
+We conducted moderated user testing sessions with 5 participants, one Caregiver and four Veterans, on Wendesday, December 11, 2019. The participants were recruited through the DSVA's recruitment contract with Perigean. Sessions were conducted and recorded via Zoom.
 
-Transcripts and notes can all be found in the [Facility Locator Discovery Research folder.](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/facilities/facility-locator/research/discovery-sprints/user-research)
+Transcripts and notes can all be found in the [Facility Locator Urgent Care Research folder.]
 
 ## Summary
+We tested a prototype which included a workflow for choosing an In-Network Urgent Care provider through the Facility Locator tool. We came away with a xx findings that will inform the redesign of Facility Locator to improve awareness of care provided by non-VA facilities.
 
+#### 1. Veterans are not aware of the type of care they can receive at urgent care facilities.
 
+- There is a general lack of communication/education around the difference between community care providers and VA health care
+- There are multiple types of in-network urgent care providers that do not treat the same symptoms (e.g. retail urgent care facilities don't treat wound)
+- When prompted to choose an urgent care location to stitch a wound, a majority of participants mentioned that they would visit an ER or VA facility. 
+
+#### 2. Users are not likely to use the filter to find what they need.
+
+- GA data proves this (provide example?)
+- Participants found information that was hidden in a filter useful, but did not know it was available because they did not chose to filter their search results. 
+
+#### 3. Overlapping benefits cause confusion when visiting in-network providers.
+
+- Veterans could not answer directly when asked if the Urgent Care facility they visited was "in-network" or not because it could have been covered through their spouse's insurance, medicare, or another source.
+- 
+
+## Detailed Findings
+
+#### Scenario:
 
 ## Recommendations
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
