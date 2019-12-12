@@ -140,7 +140,14 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
   - FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
 - Address validation
   - QA for address validation
+  - Bug tickets that will come out of QA 
+    - Note on ticket creation: Tze will create tickets as bugs come up. Should assign to Justin/Samara for triage.
 - APO/FPO/DPO
-  - Figure out what build out looks like (coordination of profile and benefit applications)
+  - FE profile updates
+    - Note: We should get this update ready to go in sprint 11, but it does not have to launch. This update can not go out before the updates to benefit applications.
+  - Figure out what build out looks like for benefit application updates
+    - Who is doing this? 
+    - What do we have to coorinate with other teams?
+  - *If* our team is doing build out work on the applications, we need to create tickets and get that work started.
 - Monitoring, maintenance, bug fixes, hardening, 508, etc.
 - Onboard Tressa [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
