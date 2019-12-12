@@ -10,7 +10,9 @@
 ## Caution flags
 
 #### EDU Enhancements Deck (2017)
-* Make caution flags more comprehensible and searchable.
+* Make caution flags more comprehensible and searchable on Search Results Page and Profile Page.
+    * Search Results - School Cards
+    * Profile - Dashboard alerts & Cautionary Information accordion
 
 #### Prioritized Enhancements XLS (Fall 2019)
 * Note...
@@ -24,7 +26,9 @@
 ## UGC / Reviews
 
 #### EDU Enhancements Deck (2017)
-* Note...
+* Implement Yelp-like ratings system on Search Results Page and Profile Page
+    * Search Results - School Cards
+    * Profile - Dashboard 
 
 #### Prioritized Enhancements XLS (Fall 2019)
 * Note...
@@ -54,7 +58,7 @@
 ## Yellow Ribbon
 
 #### EDU Enhancements Deck (2017)
-* In addition to indicating that a school participates in the Yellow Ribbon program, the original vision was to display a link to Yellow Ribbon rates. 
+* In addition to indicating that a school participates in the Yellow Ribbon program, the original vision was to display a link to Yellow Ribbon rates under Veteran Programs accordion. 
   * Determine whether the YR rate can be institution-specific.
 
 #### Prioritized Enhancements XLS (Fall 2019)
