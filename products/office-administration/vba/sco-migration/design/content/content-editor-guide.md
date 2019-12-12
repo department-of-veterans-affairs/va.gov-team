@@ -85,7 +85,8 @@ To update content and links, follow the steps below:
 
     **Note:** If you are just starting the edit, make sure you have the “Master” branch selected in the upper left corner of the page.  If you are returning to finish an edit you previously started, be sure you have the correct branch selected in the upper left corner of the page.  
 
-![The school-administrators.md file with Master branch selected](content-editor-guide-images/01-master-branch.png)*Figure 1: The school-administrators.md file with Master branch selected*  
+![The school-administrators.md file with Master branch selected](content-editor-guide-images/01-master-branch.png)  
+*Figure 1: The school-administrators.md file with Master branch selected*  
 
 2. Click the edit button in the upper right corner of the page and begin editing.  
 
@@ -109,37 +110,43 @@ To update content and links, follow the steps below:
 
 3. After you’ve made the necessary edits, scroll to the bottom of the page and confirm that the 2nd radio button (“Create a new branch for this commit and start a pull request”) is selected.  
 
-![The school-administrators.md file with new branch option selected](content-editor-guide-images/03-commit-new-branch.png)*Figure 3: The school-administrators.md file with new branch option selected*  
+![The school-administrators.md file with new branch option selected](content-editor-guide-images/03-commit-new-branch.png)  
+*Figure 3: The school-administrators.md file with new branch option selected*  
 
 4. In the branch name box above the green “Commit changes” button, use the auto-populated name, enter a custom name for the new development branch, or use an existing development branch, and then click the green “Commit Changes” to begin the process of initializing a draft pull request.  
 
-![New branch name field and Commit changes button](content-editor-guide-images/04-commit-changes.png)*Figure 4: New branch name field and Commit changes button*  
+![New branch name field and Commit changes button](content-editor-guide-images/04-commit-changes.png)  
+*Figure 4: New branch name field and Commit changes button*  
 
 The “Open a pull request” page appears.  If your changes are complete, skip to step 9 to create a real pull request.  Otherwise, continue to Step 5 to create a draft pull request.  
 
 5. Add a description of the proposed changes (i.e., added new form) and add assignees if you’d like someone on the EDU team to review the edit.  
 
-![Enter description of changes](content-editor-guide-images/05-enter-description.png)*Figure 5: Enter description of changes*  
+![Enter description of changes](content-editor-guide-images/05-enter-description.png)   
+*Figure 5: Enter description of changes*  
 
 6. Be sure that the green button in the lower right corner of the page is set to “Draft pull request”.  
 
-![Select "Draft Pull Request"](content-editor-guide-images/06-draft-pr.png)*Figure 6: Select "Draft Pull Request"*  
+![Select "Draft Pull Request"](content-editor-guide-images/06-draft-pr.png)  
+*Figure 6: Select "Draft Pull Request"*  
 
 7. Click the “Draft pull request” button.  Submitting a draft pull request will create a preview content instance where you can review your changes. **The instance in ready in about 5 minutes.**  
 
-![Review your submitted changes](content-editor-guide-images/07-draft-pr-submitted.png)*Figure 7: Review your submitted changes*   
+![Review your submitted changes](content-editor-guide-images/07-draft-pr-submitted.png)  
+*Figure 7: Review your submitted changes*   
 
 8. How to return from preview instance
 
 9. Repeat steps 1-7 as needed to refine the content. Once you are satisfied with the content, click the “Commit Changes” button, to create a real pull request.  The “Open a pull request” page will appear.  
 
-![Open a pull request” page](content-editor-guide-images/08-open-pr.png)*Figure 8: Open a pull request” page*  
+![Open a pull request” page](content-editor-guide-images/08-open-pr.png)  
+*Figure 8: Open a pull request” page*  
 
 10. Enter a description of the change you’ll be submitting for review and click the arrow to the right of the green “Create pull request” button in the lower right corner of the page to select “Create Pull Request” rather than “Draft Pull Request”. The pull request automatically flags the file for review by the review team.  
-
     **Note:** The review and approval process may take a day or so, so planning ahead will ensure that time-sensitive announcements appear on the site in a timely manner.    
 
-![Select “Create Pull Request”](content-editor-guide-images/09-create-pr.png)*Figure 9: Select “Create Pull Request”*  
+![Select “Create Pull Request”](content-editor-guide-images/09-create-pr.png)  
+*Figure 9: Select “Create Pull Request”*  
 
 11. Address any recommendations suggested by reviewers.  
 
@@ -147,14 +154,14 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 
     The page will be merged into the Master branch and deployed to the website during the daily deployment which starts at 2PM ET. Daily deployments are pushed to production and will be visible on the site shortly after 3PM ET.  
 
-
 ## Announcements
 
 ### What content appears in the "Latest announcements from VA" section?
 
 The Announcements section of the "Resources for Students" page on VA.gov provides updates such as the publication of a new version of the School Certifying Official Handbook, the release of newly revised forms, and news related to legislation.  
 
-![“Latest announcements from VA”](content-editor-guide-images/10-latest-announcements.png)*Figure 10: “Latest announcements from VA”*  
+![“Latest announcements from VA”](content-editor-guide-images/10-latest-announcements.png)  
+*Figure 10: “Latest announcements from VA”*  
 
 Each announcement, and its supporting content, will also be entered and displayed in the Announcements section of the Education landing page on benefits.va.gov. This is where users can see the full text of current and past announcements.  
  
@@ -171,15 +178,17 @@ To add a new announcement, follow the steps below:
     
     **Note:** If you are just starting the edit, make sure you have the “Master” branch selected in the upper left corner of the page.  If you are returning to finish editing a page you already started editing, be sure you have the correct branch selected in the upper left corner of the page.     
 
-![“The announcements.json file with Master branch selected”](content-editor-guide-images/11-announcements-json.png)*Figure 11: “The announcements.json file with Master branch selected”*  
+![“The announcements.json file with Master branch selected”](content-editor-guide-images/11-announcements-json.png)  
+*Figure 11: “The announcements.json file with Master branch selected”*  
 
 2. Click the edit button in the upper right corner of the page to open the page for editing.  
 
 ![Edit button](content-editor-guide-images/edit-button.png)  
 
-![“Announcements.json” file with edit button highlighted](content-editor-guide-images/12-announcements-edit.png)*Figure 12: “Announcements.json” file with edit button highlighted*  
+![“Announcements.json” file with edit button highlighted](content-editor-guide-images/12-announcements-edit.png)  
+*Figure 12: “Announcements.json” file with edit button highlighted*  
 
-Each section of code between the curly brackets represents an announcement.  Figure 12 above includes 3 announcements. The portions bolded below are editable.  By copying, pasting and editing a block of code, you will be able to create a new announcement.  
+Each section of code between the curly brackets represents an announcement. Figure 12 above includes 3 announcements. The portions bolded below are editable. By copying, pasting and editing a block of code, you will be able to create a new announcement.  
 
 >{  
 "name": "**Yellow Ribbon Program information available for 2019-2020 academic year**",  
@@ -220,33 +229,39 @@ Enter the date the announcement should expire. This is the last day the announce
 Include dashes as separators and leading zeros, as necessary.  
 Ex: 2019/12/05   
 
-![Example of an announcement](content-editor-guide-images/13-announcement-example.png)*Figure 13: Example of an announcement*  
+![Example of an announcement](content-editor-guide-images/13-announcement-example.png)  
+*Figure 13: Example of an announcement*  
 
 6. fter you’ve made the necessary edits, scroll to the bottom of the page and confirm that the 2nd radio button (“Create a new branch for this commit and start a pull request”) is selected.  
 
-![The create new branch option](content-editor-guide-images/14-create-new-branch.png)*Figure 14: The create new branch option*  
+![The create new branch option](content-editor-guide-images/14-create-new-branch.png)  
+*Figure 14: The create new branch option*  
 
 7. In the branch name box above the green “Commit changes” button, use the auto-populated name, enter a custom name for the new development branch, or use an existing development branch, and then click the green “Commit Changes” to begin the process of initializing a draft pull request.  
 
-![The new branch name field and Commit changes button](content-editor-guide-images/15-commit-changes.png)*Figure 15: The new branch name field and Commit changes button*  
+![The new branch name field and Commit changes button](content-editor-guide-images/15-commit-changes.png)  *Figure 15: The new branch name field and Commit changes button*  
 
 The “Open a pull request” page appears.  If your changes are complete, skip to step 11 to create a real pull request.  Otherwise, continue to Step 8 to create a draft pull request.  
 
 8. Add a description of the proposed changes (i.e., added new form) and select assignees if you’d like someone on your team to review the edit.  
 
-![Enter description of changes](content-editor-guide-images/16-enter-description.png)*Figure 16: Enter description of changes*  
+![Enter description of changes](content-editor-guide-images/16-enter-description.png)  
+*Figure 16: Enter description of changes*  
 
 9. Be sure the green button in the lower right corner of the page is set to “Draft pull request”.  
 
-![Select "Draft Pull Request"](content-editor-guide-images/17-draft-pr.png)*Figure 17: Select "Draft Pull Request"*  
+![Select "Draft Pull Request"](content-editor-guide-images/17-draft-pr.png)  
+*Figure 17: Select "Draft Pull Request"*  
 
 10. Click the “Draft pull request” button.  Submitting a draft pull request will create a preview content instance where you can review your changes.  
 
-![Click the "Draft Pull Request" button](content-editor-guide-images/18-draft-pr-button.png)*Figure 18: Click the "Draft Pull Request" button*  
+![Click the "Draft Pull Request" button](content-editor-guide-images/18-draft-pr-button.png)  
+*Figure 18: Click the "Draft Pull Request" button*  
 
 11. Repeat steps 1-10 as needed to refine the content. Once you are satisfied with the content, click the “Commit Changes” button, to create a real pull request.  The “Open a pull request” page will appear.  
 
-![Open a pull request window appears](content-editor-guide-images/19-open-pr.png)*Figure 19: Open a pull request window appears*  
+![Open a pull request window appears](content-editor-guide-images/19-open-pr.png)  
+*Figure 19: Open a pull request window appears*  
 
 12. Enter a description of the change you’ll be submitting for review and click the arrow to the right of the green “Create pull request” button in the lower right corner of the page to select “Create Pull Request” rather than “Draft Pull Request”. The pull request automatically flags the file for review by the review team.  
 
@@ -255,7 +270,8 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide-images/clock.png" width="115" height="100">  
 
-![Select “Create Pull Request”](content-editor-guide-images/20-create-pr.png)*Figure 20: Select “Create Pull Request”*  
+![Select “Create Pull Request”](content-editor-guide-images/20-create-pr.png)  
+*Figure 20: Select “Create Pull Request”*  
 
 13. Address any recommendations suggested by reviewers.  
 
@@ -275,7 +291,8 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 
 The Upcoming Events section of the “Resources for schools” page promotes upcoming conferences, events, and training webinars that are applicable to SCOs and school administrators.   
 
-![“Upcoming events” on the “Resources for schools” page](content-editor-guide-images/21-upcoming-events.png)*Figure 21: “Upcoming events” on the “Resources for schools” page*  
+![“Upcoming events” on the “Resources for schools” page](content-editor-guide-images/21-upcoming-events.png)   
+*Figure 21: “Upcoming events” on the “Resources for schools” page*  
 
 These events are also entered and displayed on the Events and Conferences, and Webinars pages on benefits.va.gov. 
 
