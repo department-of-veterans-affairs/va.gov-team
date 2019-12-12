@@ -75,11 +75,14 @@ Not having to travel from webpage to webpage causing confusion and frustration a
 Money spent on programs at the VA will be better utilized.
 
 ## KPIs
-- Reduce the number of total site pages that will in turn increase search-engine optimization.
-- Improve the customer experience through clear, standardized, and prioritized site pages and jump links, reducing overall page searches and jumps.
-- Reduce overall site word count to streamline content into more precise, efficient and plain language content getting the Veteran to where they want to go in a more clear and precise manner. 
-- Using the Archetypes, determine the parts of the legacy web pages that can quickly be scalable across the VISNs.
-- (Note: KPIs have not yet been finalized)
+#_Following the overall Goal of the story to streamline the Veteran's journey the following KPIs were developped:_
+- Reduce the total number of web pages from legacy (Not including the Required web page count)
+- Reduce the total word count per page from legacy to new.
+- Reduce the total number of links per page from Legacy to new. - and - 
+- Reduce the total click-through count (Thus reducing time to get to end of Veteran's journey on the site.)
+#Additionally:
+- Increase the percentage of plain language scoring to improve comprehension of the page intent.
+- Reduce the # of code rewrites to improve on reuse and scalability of the code and content.
 
 ---
 
@@ -90,7 +93,8 @@ In progress
 
 ## Solution Narrative
 - **November 2019**: Discovery of VISN 4 VAMC websites and how the legacy websites can be categorized into the key archetypes to better plan and design for the legacy website upgrade to the new Drupal experience. Review the dissection of these pages and begin content road map to re-write pages and then determine design of the web site from the example of the Pittsburgh, PA Pilot site.
-- **December 2019**: Creating the Drupal pre-production template for the second migration in VISN 4, (e.g. Lebanon, PA), and finalize content create and review process.
+- **December 2019**: Mapping of web pages by archetype will begin.  Content stories will begin to create the baseline of content approval process flow.  Mapping out criteria for Health Service Content will begin and will feed the content stories.
+- **January 2020**: Content will begin flowing through content approval process and begin being loaded into narrative/content files in Drupal.
 
 ## How to Access and Test
 - New pre-production - "TBD" - Drupal experience created in pre-production first and tested.
