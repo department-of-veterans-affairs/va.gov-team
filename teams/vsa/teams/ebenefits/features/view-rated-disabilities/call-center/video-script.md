@@ -6,7 +6,7 @@ If the Veteran has a VA disability rating, the top gray box will show the total 
 
 Below the total combined disability rating, there may be one or more gray boxes that show the Veteran's individual disabilities. If a disability is service-connected, there is a percentage shown, and the disability's effective date. The effective date is the day the Veteran started, or will start, getting benefits for that particular disability.
 
-Some disabilities are not service-connected. VA has decided that these disabilities were not the result of, or not made worse by, a Veteran's service. These may be awaiting a decision ny VA. There is a link in the top section for a Veteran to click to Check their claims and appeals.
+Some disabilities are not service-connected. The VA has decided that these disabilities were not the result of, or not made worse by, a Veteran's service. These may be awaiting a decision ny VA. There is a link in the top section for a Veteran to click to Check their claims and appeals.
 
 Some disabilities are noted as service-connected, while other are not. Service-connected means that the injury occurred while actively in service. It is important to note that there are other injuries involved, even if they do not contribute to the Veteran's over all total disability rating.
 
