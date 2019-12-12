@@ -1,4 +1,4 @@
-# Facility Locator Discovery Research Findings
+# Facility Locator Urgent Care Research Findings WIP
 November 2019
 
 ## Methodology
@@ -27,7 +27,19 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 
 ## Detailed Findings
 
-#### Scenario:
+#### 1. Find Urgent Care for a sore throat
+
+#### 2. Find Urgent Care to stitch a wound
+
+#### 3. Interaction with search results cards
+
+## Post-Test Questions
+- What would you say the difference is between a retail and an urgent location?
+- Was it intuitive to find the appropriate Urgent Care location?
+- What was your favorite part of the prototype?
+- What was your least favorite part?
+- If you had a magic wand, what would you change about this prototype?
+
 
 ## Recommendations
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
