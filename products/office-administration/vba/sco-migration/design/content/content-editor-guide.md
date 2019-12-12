@@ -239,7 +239,8 @@ Ex: 2019/12/05
 
 7. In the branch name box above the green “Commit changes” button, use the auto-populated name, enter a custom name for the new development branch, or use an existing development branch, and then click the green “Commit Changes” to begin the process of initializing a draft pull request.  
 
-![The new branch name field and Commit changes button](content-editor-guide-images/15-commit-changes.png)  *Figure 15: The new branch name field and Commit changes button*  
+![The new branch name field and Commit changes button](content-editor-guide-images/15-commit-changes.png)  
+*Figure 15: The new branch name field and Commit changes button*  
 
 The “Open a pull request” page appears.  If your changes are complete, skip to step 11 to create a real pull request.  Otherwise, continue to Step 8 to create a draft pull request.  
 
