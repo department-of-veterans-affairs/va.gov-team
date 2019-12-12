@@ -9,4 +9,4 @@
 
 #### Yellow Ribbon
 EDU Enhancements Deck
-* Yellow ribbon rates
+* The original vision was to display Yellow ribbon rates as part of the yellow ribbon display.
