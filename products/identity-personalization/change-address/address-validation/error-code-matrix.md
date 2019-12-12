@@ -1,6 +1,6 @@
 | Overridable Error Codes              | Business Case | Error Key and Text Returned | VA.gov experience/outcome |
 | -----------------------:|-------------:| ---------------------------:| -------------------------:|
-| ADDRVAL108 orADDRVAL112 |USPS does not recognize a valid record for this address in VA Profile database| CandidateAddressNotFound= No Candidate Address Found|VA.gov shows the user the message on the front end|
+| ADDRVAL108 or ADDRVAL112 |USPS does not recognize a valid record for this address in VA Profile database| CandidateAddressNotFound= No Candidate Address Found|VA.gov shows the user the message on the front end|
 |ADDRVAL109 |The VA Profile database does recognize this address. It doenst mean its not a valid address, but it is not shown in the database VA Profile uses. | AddressCouldNotBeCorrected=The Address could not be corrected | Message shown to user on front-end |
 |ADDRVAL110 |The VA Profile database isn't licensed to validate this country. (This error hasn't occured since Sept 2019)|CountryNotSupported=The Address Country is not supported at this time | message shown to the user |
 |ADDRVAL111 | Not a vaild dual address (not commonly seen)|DualAddressError=This dual address is not in the proper format, please make sure the street address and PO box are valid for the 5 digit zip code entered | Message shown to user |
