@@ -23,6 +23,7 @@
      [What content appears in the "Upcoming events" section?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#what-content-appears-in-the-upcoming-events-section)   
      [How do I add an event?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#how-do-i-add-an-event)   
      [When do events expire?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#when-do-events-expire)  
+**[Pull request review process]()**   
 **[Useful resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#useful-resources)**   	 
  
 ## Introduction
@@ -232,7 +233,7 @@ Ex: 2019/12/05
 ![Example of an announcement](content-editor-guide-images/13-announcement-example.png)  
 *Figure 13: Example of an announcement*  
 
-6. fter you’ve made the necessary edits, scroll to the bottom of the page and confirm that the 2nd radio button (“Create a new branch for this commit and start a pull request”) is selected.  
+6. After you’ve made the necessary edits, scroll to the bottom of the page and confirm that the 2nd radio button (“Create a new branch for this commit and start a pull request”) is selected.  
 
 ![The create new branch option](content-editor-guide-images/14-create-new-branch.png)  
 *Figure 14: The create new branch option*  
@@ -266,10 +267,9 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 
 12. Enter a description of the change you’ll be submitting for review and click the arrow to the right of the green “Create pull request” button in the lower right corner of the page to select “Create Pull Request” rather than “Draft Pull Request”. The pull request automatically flags the file for review by the review team.  
 
-    **Note:** The review and approval process may take a day or so, so planning ahead will ensure that time-sensitive announcements appear on the site in a timely manner.  
-    Changes that have been approved by 2:00PM will likely be visible at 3:00PM.
+    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide-images/clock.png" width="55" height="50"> **Note:** The review and approval process may take a day or so, so planning ahead will ensure that time-sensitive announcements appear on the site in a timely manner. **Changes that have been approved by 2:00PM ET will likely be visible by 3:00PM ET.**
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide-images/clock.png" width="115" height="100">  
+ 
 
 ![Select “Create Pull Request”](content-editor-guide-images/20-create-pr.png)  
 *Figure 20: Select “Create Pull Request”*  
@@ -309,10 +309,124 @@ To add a new event to the Resources for Schools page, follow the steps below:
     **Note:** If you are just starting the edit, make sure you have the “Master” branch selected in the upper left corner of the page.  If you are returning to finish editing a page you already started editing, be sure you have the correct branch selected in the upper left corner of the page.  
     
 ![“Events.json” file with Master branch selected](content-editor-guide-images/22-events-json.png)   
-*Figure 22: ““Events.json” file with Master branch selected* 
+*Figure 22: ““Events.json” file with Master branch selected*  
 
+2. Click the edit button in the upper right corner of the page to open the page for editing.  
+
+![Edit button](content-editor-guide-images/edit-button.png)  
+
+![“Events.json” file with Edit button highlighted](content-editor-guide-images/23-events-edit.png)   
+*Figure 23: “Events.json” file with Edit button highlighted*   
+
+Each section of code between the curly brackets represents an event.  Figure 23 above includes 4 events. The portions that are highlighted in yellow below are editable.  By copying, pasting and editing a block of code, you will be able to create a new event.
+    
+>{    
+  "name": "**Arizona Veterans Program Association-2010 Fall Mini-Conference**",  
+  "location": "**Mesa, AZ**",
+"url":"**https://www.benefits.va.gov/gibill/resources/education_resources/school_certifying_officials/conferences_and_events.asp**",  
+  "displayStartDate": "**2010-11-01**",  
+  "eventStartDate": "**2010-11-01**",  
+  "eventEndDate": "**2010-11-02**"  
+},
+    
+3. Add a comma after the last curly bracket “}” in the file, so you can separate previous events from the new event you are about to add.  
+
+    **Note:** After the last event there should be no comma.  
+    
+4. Copy one of the existing events, including all text between the curly brackets { }, and paste it after the comma you just added at the end of the file. 
+
+    **Note:** Deleting content after it’s expired will reduce clutter and make the page easier to maintain.  
+    
+5. Edit the values that are highlighted in yellow. As you edit the information, follow the helpful hints below.  
+
+    **name** (required)   
+To ensure proper display, the event name should be 156 characters or less.
+ 
+    **url** (required)  
+Ensure that there are no spaces in the URL. 
+ 
+    **location** (required)  
+For physical events, enter the "City" and "State abbreviation" separated with a comma.  
+For webinars, enter "Online".
+ 
+    **eventStartDate** (required)  
+Enter the start date of the event.  
+Include dashes as separators and leading zeros, as necessary.  
+Ex: 2010/12/05
+
+    **eventEndDate** (optional)
+Enter the last date of the event. An end date is only needed for events that span multiple days.   
+Include dashes as separators and leading zeros, as necessary.
+Ex: 2010/12/05
+
+    **displayStartDate** (required)
+Enter the date that you would like the event to display on the site.  
+Include dashes as separators and leading zeros, as necessary.  
+The event will automatically expire on the day after the event.  
+Ex: 2010/12/05
+
+**Example of a physical event**
+
+![Example of a physical event](content-editor-guide-images/24-physical-event-example.png)   
+*Figure 24: Example of a physical event* 
+
+**Example of an online webinar**
+
+![Example of an online webinar](content-editor-guide-images/25-online-webinar-example.png)   
+*Figure 245 “Example of an online webinar*  
+
+6. After you’ve made the necessary edits, scroll to the bottom of the page and confirm that the 2nd radio button (“Create a new branch for this commit and start a pull request”) is selected.  
+
+![The Create new branch option selected](content-editor-guide-images/26-create-new-branch.png)   
+*Figure 26: The Create new branch option selected* 
+
+7. In the branch name box above the green “Commit changes” button, use the auto-populated name, enter a custom name for the new development branch, or use an existing development branch, and then click the green “Commit Changes” to begin the process of initializing a draft pull request.
+
+![The branch name field and Commit changes button highlighted](content-editor-guide-images/27-commit-changes.png)   
+*Figure 27: The branch name field and Commit changes button highlighted*  
+
+The “Open a pull request” page appears.  If your changes are complete, skip to step 11 to create a real pull request.  Otherwise, continue to Step 8 to create a draft pull request.  
+
+8. Add a description of the proposed changes (i.e., added new form) and select assignees if you’d like someone on the EDU team to review the edit.  
+
+![Enter description of changes](content-editor-guide-images/28-enter-description.png)   
+*Figure 28: Enter description of changes*  
+
+9. Be sure “Draft pull request” selected as the green button name in the lower right corner of the page.  
+
+![Select "Draft Pull Request"](content-editor-guide-images/29-draft-pr.png)   
+*Figure 29: Select "Draft Pull Request"* 
+
+10. Click the “Draft pull request” button.  Submitting a draft pull request will create a preview content instance where you can review your changes.  
+
+![Click the “Draft pull request” button](content-editor-guide-images/30-submitted-pr.png)   
+*Figure 30: Click the “Draft pull request” button* 
+
+11. Repeat steps 1-10 as needed to refine the content. Once you are satisfied with the content, click the “Commit Changes” button, to create a real pull request.  The “Open a pull request” page will appear.  
+
+!["Open a pull request" page](content-editor-guide-images/31-open-pr.png)   
+*Figure 31: "Open a pull request" page*  
+
+12. Enter a description of the change you’ll be submitting for review and click the arrow to the right of the green “Create pull request” button in the lower right corner of the page to select “Create Pull Request” rather “Draft Pull Request”. The pull request automatically flags the file for review by the review team.  
+
+    <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide-images/clock.png" width="55" height="50"> **Note:** The review and approval process may take a day or so, so planning ahead will ensure that time sensitive announcements appear on the site in a timely manner. **Changes that have been approved by 2:00PM ET will likely be visible by 3:00PM ET.** 
+    
+![Select “Create Pull Request”](content-editor-guide-images/32-create-pr.png)   
+*Figure 32: Select “Create Pull Request”*   
+
+13. Address any recommendations suggested by reviewers.  
+
+14. Once your edits have been reviewed and approved, you’ll receive an email from GitHub.  Click the link in the email to open the pull request, then click the “Merge” button which is now activated.    
+ 
+    The page will be merged into the Master branch and deployed to the website during the daily deployment which starts at 2PM ET. Daily deployments are pushed to production and will be visible on the site shortly after 3PM ET.  
+    
 ### When do events expire?
+
+* Events expire and are removed from the “Resources for Schools” page one day after the **eventEndDate**.  
+* If an **eventEndDate** is not entered, the system assumes the event lasts one day and automatically makes the **eventEndDate** the same as the **eventStartDate**. 
+* If an event is postponed or cancelled, the event can be modified or removed from the events.json file.  
+
+## Pulll request review process
 
 ## Useful resources
 
-![](content-editor-guide-images/.png)*Figure : * 
