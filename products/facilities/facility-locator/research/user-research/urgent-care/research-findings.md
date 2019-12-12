@@ -33,7 +33,7 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 
 #### 3. Interaction with search results cards
 
-## Post-Test Questions
+#### Post-Test Questions
 - What would you say the difference is between a retail and an urgent location?
 - Was it intuitive to find the appropriate Urgent Care location?
 - What was your favorite part of the prototype?
