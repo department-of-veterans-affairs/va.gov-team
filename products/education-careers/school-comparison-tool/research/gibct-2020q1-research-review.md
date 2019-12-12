@@ -26,7 +26,7 @@
 ## UGC / Reviews
 
 #### EDU Enhancements Deck (2017)
-* Implement Yelp-like ratings system on Search Results Page and Profile Page
+* Implement Yelp-like ratings system on Search Results Page and Profile Page. Includes illustrations / ratings prototype, p 15. 
     * Search Results - School Cards
     * Profile - Dashboard 
 
@@ -43,7 +43,7 @@
 ## Ability for providers to update their own content
 
 #### EDU Enhancements Deck (2017)
-* Note...
+* Profile - potential areas to add & update in "Additional information" accordion. 
 
 #### Prioritized Enhancements XLS (Fall 2019)
 * Note...
