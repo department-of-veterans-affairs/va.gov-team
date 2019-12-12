@@ -1,5 +1,5 @@
 # Facility Locator Urgent Care Research Findings WIP
-November 2019
+December 2019
 
 ## Methodology
 We conducted moderated user testing sessions with 5 participants, one Caregiver and four Veterans, on Wendesday, December 11, 2019. The participants were recruited through the DSVA's recruitment contract with Perigean. Sessions were conducted and recorded via Zoom.
