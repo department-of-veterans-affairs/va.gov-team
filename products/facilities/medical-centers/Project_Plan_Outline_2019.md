@@ -52,10 +52,10 @@ Streamlining total site pages, word count, and simplifying the journey of the Ve
 There are several different services, resources, specifics, and unique stories surrounding each VA Medical Center. 
 
 ## Requirements and Constraints
-Onboarding (va.gov-CMS), access, exiting knowledge, and lessons learned from the pilot project at Pittsburg, PA VAMC website. 
+Full team access to va.gov and CMS (Drupal) and lessons learned from the pilot project at Pittsburg, PA VAMC website. 
 
 ## Discovery Takeaways
-Still in Discovery - Onboarding, reviewing documentation, and the next steps in deploying across VISN 4
+Still partially in Discovery - Total of 37 required Web pages and over an addition 55 posible web pages per site depending on system.  To include upto 90 individially detailed Health Services. 
 
 ## Solution Approach
 Breaking down each of the VAMC websites into archetypes to categorize the pages and content by:<br>
@@ -99,11 +99,10 @@ In progress
 ## How to Access and Test
 - New pre-production - "TBD" - Drupal experience created in pre-production first and tested.
 - 508 compliance and accessibility checked after content in created.
-- Password protection info:
-- User authentication info: Update passwords both 
-[Not available yet!]() and 
+- User authentication info: Update passwords both [Not available yet!]() and 
 [Not available yet!]()
-
+### Content
+- Content approval process document [https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/facilities/medical-centers/]
 ## Error Handling
 ...TBD
 
