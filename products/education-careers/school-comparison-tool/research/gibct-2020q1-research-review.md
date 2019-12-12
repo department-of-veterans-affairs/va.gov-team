@@ -2,10 +2,9 @@
 
 ## Topics
 * Caution flags
-* UGC / Reviews
+* Yelp-style Reviews
 * Ability for providers to update their own content
 * Yellow Ribbon
-
 
 ## Caution flags
 
@@ -15,7 +14,7 @@
     * Profile - Dashboard alerts & Cautionary Information accordion
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* Note...
+* No mentions
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
 * Note...
@@ -23,7 +22,7 @@
 #### BAH Team GIBCT Research (2019)
 * Note...
 
-## UGC / Reviews
+## Yelp-style Reviews
 
 #### EDU Enhancements Deck (2017)
 * Implement Yelp-like ratings system on Search Results Page and Profile Page. Includes illustrations / ratings prototype, p 15. 
@@ -31,7 +30,7 @@
     * Profile - Dashboard 
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* Note...
+* No mentions
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
 * Note...
@@ -46,7 +45,7 @@
 * Profile - potential areas to add & update in "Additional information" accordion. 
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* Note...
+* No mentions
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
 * Note...
@@ -62,10 +61,27 @@
   * Determine whether the YR rate can be institution-specific.
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* Note...
+* No mentions
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
 * Note...
 
 #### BAH Team GIBCT Research (2019)
 * Note...
+
+
+
+## Guidance from DEPO-EDU Roadmap
+Perform policy assessment of tool data points, better align UX to Veteran priorities, promote increased usage, identify staff pain points. 
+
+Colmery Act, Principles of Excellence, and More
+Automation improvements as part of Dec 1 2019 update (Darla) 
+Edu Priority
+VBA Priority
+Measure: Actual Veteran Usage numbers, SCO usage numbers, VA employee usage numbers
+Supposed to be primarily for Veterans
+Veterans aren’t asking for it per se, but they are asking for the benefits
+Doable? 
+Funded through Dec 2019
+Many dependencies, Dept of ed, OIT processes and teams
+Not easy to use
