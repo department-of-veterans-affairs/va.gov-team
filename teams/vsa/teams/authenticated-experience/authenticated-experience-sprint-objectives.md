@@ -118,9 +118,24 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 ### Sprint 11 (12/18 - 12/31)
 
+**Time off**
+
+Sprint is 9 days with Christmas holiday (New year's is first day of sprint 12).
+
+- Arthur: Dec 19, 23 – 26; 5 days of availability
+- Brad: Dec 18; 8 days of availability
+- Erik: Dec 23 – 24; 7 days of availability
+- Justin: Dec 26 – 27; 7 days of availability
+- Lihan: 26 – 31; 5 days of availability
+- Samara: Dec 24 – Dec 27; 6 days of availability
+- Tressa ??
+
+We can either cancel grooming altogether or move to Dec 23. Sprint planning for Sprint 12 should be moved to Jan 2.
+
+**Sprint objectives**
+
 - Direct Deposit
   - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
-  - If it hasn't launched, launch copy updates for content page.
   - Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
   - FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
 - Address validation
