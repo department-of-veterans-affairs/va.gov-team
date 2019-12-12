@@ -301,7 +301,15 @@ These events are also entered and displayed on the Events and Conferences, and W
 
 To add a new event to the Resources for Schools page, follow the steps below:  
 
+1. In GitHub, navigate to the events page.  
 
+    **File Name:** “events.json”  
+    https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/school-resources/constants/events.json
+
+    **Note:** If you are just starting the edit, make sure you have the “Master” branch selected in the upper left corner of the page.  If you are returning to finish editing a page you already started editing, be sure you have the correct branch selected in the upper left corner of the page.  
+    
+![“Events.json” file with Master branch selected](content-editor-guide-images/22-events-json.png)   
+*Figure 22: ““Events.json” file with Master branch selected* 
 
 ### When do events expire?
 
