@@ -46,7 +46,7 @@ The following are recommendations to consider during the redesign of the Facilit
 
 
 ## Additional Questions
-
+- What differences exists between how Caregivers and Veterans use Facility Locator?
 
 ## Resources
 
