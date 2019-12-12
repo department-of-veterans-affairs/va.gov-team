@@ -55,7 +55,7 @@
 
 #### EDU Enhancements Deck (2017)
 * In addition to indicating that a school participates in the Yellow Ribbon program, the original vision was to display a link to Yellow Ribbon rates. 
-  * Determine whether the rate would be specific to the selected institution.
+  * Determine whether the YR rate can be institution-specific.
 
 #### Prioritized Enhancements XLS (Fall 2019)
 * Note...
