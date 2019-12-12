@@ -7,8 +7,6 @@
 * See [Questions to be answered](questions.md)
 * See [In-progess POVs (not yet decided)](in-progress-povs)
 
-<hr>
-
 
 ## Other Decisions
 
