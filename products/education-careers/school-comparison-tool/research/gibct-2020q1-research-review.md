@@ -8,16 +8,16 @@
 
 
 ### Yellow Ribbon
-#### EDU Enhancements Deck
-* The original vision was to display Yellow ribbon rates as part of the yellow ribbon display.
+#### 2017 EDU Enhancements Deck
+* The original vision was to display a link to Yellow Ribbon rates.
 
 ### UGC / Reviews
-#### EDU Enhancements Deck
+#### 2017 EDU Enhancements Deck
 
 
 ### Ability for providers to update their own content
-#### EDU Enhancements Deck
+#### 2017 EDU Enhancements Deck
 
 
 ### Yellow Ribbon
-#### EDU Enhancements Deck
+#### 2017 EDU Enhancements Deck
