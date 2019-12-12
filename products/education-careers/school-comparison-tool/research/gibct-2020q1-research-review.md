@@ -7,7 +7,7 @@
 * Yellow Ribbon
 
 
-___ ## Caution flags
+## Caution flags
 
 #### EDU Enhancements Deck (2017)
 * Make caution flags more comprehensible and searchable on Search Results Page and Profile Page.
@@ -23,7 +23,7 @@ ___ ## Caution flags
 #### BAH Team GIBCT Research (2019)
 * Note...
 
-___ ## UGC / Reviews
+## UGC / Reviews
 
 #### EDU Enhancements Deck (2017)
 * Implement Yelp-like ratings system on Search Results Page and Profile Page
@@ -40,7 +40,7 @@ ___ ## UGC / Reviews
 * Note...
 
 
-___ ## Ability for providers to update their own content
+## Ability for providers to update their own content
 
 #### EDU Enhancements Deck (2017)
 * Note...
@@ -55,7 +55,7 @@ ___ ## Ability for providers to update their own content
 * Note...
 
 
-___ ## Yellow Ribbon
+## Yellow Ribbon
 
 #### EDU Enhancements Deck (2017)
 * In addition to indicating that a school participates in the Yellow Ribbon program, the original vision was to display a link to Yellow Ribbon rates under Veteran Programs accordion. 
