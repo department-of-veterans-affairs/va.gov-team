@@ -134,6 +134,8 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 
 **Sprint objectives**
 
+- Code freeze between 12/23 - 1/3/2020.
+
 - Direct Deposit
   - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
   - Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
