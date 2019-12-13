@@ -56,12 +56,12 @@ _Upcoming redirects for entire subdomains, planned to be done server-side in 202
 _When to do this?_
 - This is the default, preferred path for www.va.gov/* -> www.va.gov/*
 - Actual example: www.va.gov/healthbenefits/index.asp  →  www.va.gov/health-care
-- Include pages managed within the Drupal CMS (which handles URL changes but not redirects as of 12/13/19) or not
+- Include pages managed within the Drupal CMS (which handles URL changes but does not deploy redirects to the website as of 12/13/19) or not
 
 _How does this work technically?_
 - Traffic to www.va.gov hits the VA gateway, is routed to our reverse proxy, where it is redirected according to rules that our operations team maintains in the [devops repo](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/react_routes.yml#L69). 
 - Note that redirects get pushed out with deployment of “revproxy” — different schedule from vets-website.
-- If the initiating page is managed by the Drupal CMS, the URL change is made there _and_ the redirect is added to the devops repo
+- If the initiating page is managed by the Drupal CMS, the URL change is made in the CMS _and_ the redirect is added to the devops repo
 
 _What team is responsible?_
 - Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is VSA Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
