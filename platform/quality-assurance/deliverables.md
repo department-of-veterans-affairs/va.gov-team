@@ -1,10 +1,10 @@
 # Deliverables
-A list of deliverables and explanation of their contents is listed below.
+A list of expected deliverables and explanation of their contents is listed below.  Please note that you will need access to [TestRail](https://dsvavsp.testrail.io/) in order to create these artifacts.
 
 ## Quality Assurance Deliverables
 1. Test Plan
-    - This artifact usually takes the form of a Word / Google Doc. The test plan artifact is an explanation of the functional changes being developed and a plan for how to test each change.
-    - Example: [Test Plan Template](test-plan.md)
+    - You will create a test plan within [TestRail](https://dsvavsp.testrail.io/). The test plan is a mapping of the functional changes being developed to test cases that test them. A test plan can consists of multiple types of test (manual, automated end-to-end, and load tests).  If test cases do not exist for each change then they will need to be created.
+    - Example: [Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/30)
 2. Test Cases
     - An export from your test case management software of choice that contains each test case used in your test plan.
     - In the near future, VSP hopes to offer a test case management software that all VFS teams will have access to.
