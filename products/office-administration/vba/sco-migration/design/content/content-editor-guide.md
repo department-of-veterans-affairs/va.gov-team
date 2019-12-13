@@ -256,7 +256,7 @@ Ex: 2019/12/05
 ![The new branch name field and Commit changes button](content-editor-guide-images/15-commit-changes.png)  
 *Figure 15: The new branch name field and Commit changes button*  
 
-The “Open a pull request” page appears.  If your changes are complete, skip to step 11 to create a real pull request.  Otherwise, continue to Step 8 to create a draft pull request.  
+     The “Open a pull request” page appears.  If your changes are complete, skip to step 11 to create a real pull request.  Otherwise, continue to Step 8 to create a draft pull request.  
 
 8. Add a description of the proposed changes (i.e., added new form) and select assignees if you’d like someone on your team to review the edit.  
 
