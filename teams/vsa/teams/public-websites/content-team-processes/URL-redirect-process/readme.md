@@ -60,15 +60,19 @@ _The image below illustrates the redirect implementation process flow for the Pu
 
 ---
 
-**Step 1.** When a content parity/legacy rewrite page is published, the content writer will assign the original content ticket to _@mnorthuis (Mikki)_ and _@meganhkelley (Megan)_ to request a redirect. 
+**Step 1.** When a content parity/legacy rewrite page is published, the content writer will create a redirect request ticket using the redirect request ticket template and assign to _@mnorthuis (Mikki)_ and _@meganhkelley (Megan)_. 
 
-Content person will include the following information in a note for Mikki: 
+Content person will include the following information per the ticket template: 
+
+* **Description:** This is a detailed description of the request. It should include background information and reason for the request. 
+* **Requestor Info:** Indicate what team and who the primary contact on that team is. Please also include VA stakeholders and contact info.
+* **Implementation Date:** Enter expected date new URL(s) will be live (Selina will update this date once the final date has been determined).
+* **Redirects Needed:**
 
 Legacy URL  |  Redirect to
 ---  |  ---
 insert legacy URL | insert new URL
-
-* Desired implementation target date: **[Allow at least 2 weeks when requesting Platform team. Also see note below.]**
+* **Steps to Complete:** Checklist of action items to complete from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates. 
 
 **Step 2.** Mikki will vet the URLs, and then assign _@Karak888 (Kara)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_.
 
