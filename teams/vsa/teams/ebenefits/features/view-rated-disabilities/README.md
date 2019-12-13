@@ -101,15 +101,15 @@ There are a few types of errors depending on the component.  The components shou
 Rated Disbailities uses the `vets-api` via EVSS.
 
 ## Resources and Documentation
-- Discovery and Research
-- Technical Documentation
-- Product specs
-- Design
-- Roadmap
-- ATO documentation
+- [Discovery and Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119)
+- [Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/evss-tcdr)
+- [Product specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/profile-rated-disabilities.md)
+- [Design](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/screen/90b2e033-e56a-4634-91ff-b694b46d2097/RD-Screen-Tool-FINAL)
+- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md)
+- ATO documentation: _Coming Soon_
 
 ## Keywords
-eBenefits, rated disabilities
+eBenefits, rated disabilities, total combined disability rating, claims and appeals
 
 ## Team
 - VA Executive Sponsor `*`: 
@@ -134,4 +134,4 @@ eBenefits, rated disabilities
 ![Original Rated Disabilities](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/Rated_Disabilities_eBenefits_OLD.png)
 #### After  
 [Live mockups](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/?x_product=cc-slack%2F1.4.0)
-![New Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/rated-disabilities-final.JPG)
+![New Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/RD_Screen_Tool_FINAL.png)
