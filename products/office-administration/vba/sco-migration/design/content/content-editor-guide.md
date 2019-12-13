@@ -5,11 +5,13 @@
 <kbd>![Content Editor Guide](content-editor-guide-images/cover.png)</kbd>  
 
 
-## Table of Contents
-
+## Table of Contents  
 
 **[Introduction](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#introduction)**  
 **[What is a GitHub repository?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#what-is-a-github-repository)**  
+**[Content review by Digital Service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#main-page)**  
+     [Content review for the main page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#how-do-i-update-content-and-links-on-the-main-page)
+     [Content review for events and announcements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#what-is-considered-main-page-content)	  
 **[Main page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#main-page)**  
      [What is considered main page content?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#what-is-considered-main-page-content)	  
      [How do I update content and links on the main page?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#how-do-i-update-content-and-links-on-the-main-page)   
@@ -28,9 +30,7 @@
  
 ## Introduction
 
-
 This guide covers the process for updating content on the “Resources for Schools” page on VA.gov. The content of the “Resources for schools” page is managed in the VA GitHub Repository.  
-
 
 ## What is a GitHub repository?
 
@@ -52,17 +52,17 @@ Master branches contain production-ready files that are ready for deployment or 
 **Development branches**  
 Development branches store files that are being created and modified. 
 
-## Content review by Digital Service at VA (DSVA)
+## Content review by Digital Service
 
 To ensure that Veterans experience a consistent look and feel in the design and a consistent voice in the copy as they use VA.gov, VA Digital Service (DSVA) provides helpful guidelines for the creation of new pages and content. See the “Useful Resources” section at the end of this document for links to DSVA design and content guidelines. DSVA also reviews all design and content changes before deployment.  
 
-### Content review for Events and Announcements
-
-DSVA Content Editor review content before it appears on the live site. The content review for events and announcements takes place in GitHub.  DSVA reviewers can be assigned during the pull request process.  
-
-### Content review for the Main Page
+### Content review for the main page
 
 DSVA Content Editor review content before it appears on the live site. As Education Services has editing rights for the main page and the page lives in a difference GitHub repository, the content review process occurs outside of the draft pull request process
+
+### Content review for events and announcements
+
+DSVA Content Editor review content before it appears on the live site. The content review for events and announcements takes place in GitHub.  DSVA reviewers can be assigned during the pull request process.  
 
 ## Main page
 
@@ -84,7 +84,6 @@ The following static content on the “Resources for Schools” page is consider
     * “Connect with us”  
     
 **Note:** Announcements and events are considered dynamic content, as they expire automatically, and are edited in separate json files. Instructions for editing announcements and event appear below. 
-
 
 ### How do I update content and links on the main page?
 
@@ -178,7 +177,6 @@ The Announcements section of the "Resources for Students" page on VA.gov provide
 Each announcement, and its supporting content, will also be entered and displayed in the Announcements section of the Education landing page on benefits.va.gov. This is where users can see the full text of current and past announcements.  
  
 **Note:** The “announcement” of events and webinars should be entered as events and will appear in the "Upcoming events" area.  
-
 ### How do I add an announcement?
 
 To add a new announcement, follow the steps below:  
@@ -281,7 +279,6 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
     <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide-images/clock.png" width="55" height="50"> **Note:** The review and approval process may take a day or so, so planning ahead will ensure that time-sensitive announcements appear on the site in a timely manner. **Changes that have been approved by 2:00PM ET will likely be visible by 3:00PM ET.**
 
  
-
 ![Select “Create Pull Request”](content-editor-guide-images/20-create-pr.png)  
 *Figure 20: Select “Create Pull Request”*  
 
