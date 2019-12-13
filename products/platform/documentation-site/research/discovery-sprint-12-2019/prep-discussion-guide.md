@@ -3,35 +3,32 @@
 ## Moderator Logistics
 _Use #vsp-documentation-site-discovery in Slack for real-time feedback from observers._
 
-## Intro [Megan to update]
-Thanks for joining us today! My name is Megan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the experience of the VFS team working with the VSP team.
+## Intro
+Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding our documentation. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go. The topic we're going to cover today is documentation, not exclusive to VA.gov documentation.
 
-Before we start, a few things I want to mention:
+Before we start, there are a few things I want to mention: 
 
-This entire session should take about 30 min. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+This entire session is scheduled for an hour. We don't want to keep you any longer than that, so I may occasionally prompt you with the next question or topic. 
 
-In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve the process so we can all better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+We want to hear your honest opinions, and we welcome your feedback. 
 
-If for any reason and at any time you want to stop the session, please let me know.
+Is it alright with you if I record this call as we talk today? We'll use the recordings to confirm that we captured the conversation accurately, and we'll destroy them after we complete analysis. No comments will be attributed to you directly. 
 
-Are you comfortable if I record my screen and audio as we talk today?
+[If yes, start recording]
 
-We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly.
-
-If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-Start recording.
-
-I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?"
+Alright, we're recording!
 
 ## Standard Questions 
 
 ### Provider Questions 
-As someone who has created documentation before for others to use:
+[If applicable] I understand that you've created documentation or contributed to a documentation ecosystem before for others to use. 
+
+As someone who's been involved in documentation management: 
 - Talk me through a time when you’ve had a really successful experience with documentation.
 - How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
 - What tools and processes have you found effective in the past?
 - What tools and processes have you found ineffective in the past? 
-- What processes did you use to set standards across different teams?
+- What processes did you use to set standards across different teams who were contributing to the documentation?
 - How did you ensure that the information stayed up to date? 
 - What do you think VSP, the platform team, can learn from this example? 
 - If you had the chance to create that ecosystem again, what would you do differently?
@@ -41,9 +38,9 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 
 ### User Questions
 - Talk me through a time when you've had a really successful experience using documentation to get something done.
-- What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical why documentation? 
+- What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation? 
 - Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions)
-- Did you rely solely on the docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
+- Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
 - What would you say is your biggest pain point today with VSP documentation?
 
 ### Extra Questions (if time) — VSP Documentation
@@ -54,20 +51,40 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 ## Questions Specific to Interviewee
 
 ### Backend/infrastructure engineers
-- Builder questions (above)
+- Intro
+- As engineers, I'm willing to bet that y'all have been involved in creating or managing documentation or documentation tools before. Is that correct? 
+- [If yes] Provider questions (above)
 - How do you think engineering documentation differs from non-technical documentation? Do you see these as the similar? Different?
 - User questions (above)
+- [If time] Extra questions
 
 ### Frontend engineers
-- Builder questions (above)
+- Intro
+- As engineers, I'm willing to bet that y'all have been involved in creating or managing documentation or documentation tools before. Is that correct? 
+- [If yes] Provider questions (above)
 - How do you think engineering documentation differs from non-technical documentation? Do you see these as the similar? Different?
 - User questions (above)
+- [If time] Extra questions
 
 ### Jenny H-L
-- Builder questions (above) 
+- Intro
+- Provider questions (above) 
 
 ### Brandon R
-- Builder questions (above)
+- Intro
+- Provider questions (above)
 - User questions (above)
+- [If time] Extra questions
 
 ### Kevin W
+- Intro
+- Before we get into the specifics of using Drupal for documentation, I'd like to talk a bit about your experience with documentation in general. Have you ever created documentation or contributed to a documentation ecosystem before for others to use?
+- [If yes] Provider questions (above)
+- [If Drupal was not discussed] OK, great! Thanks for that information. Now, it is my understanding that you wanted to talk a bit about Drupal as a technical solution for documentation. Can you tell us more about that? 
+- What pain points does Drupal solve? 
+- [If time] User questions (above)
+
+## Kelly L
+- Intro
+- Provider questions (above)
+- User questions (above)
