@@ -6,7 +6,7 @@ _**WIP** - content is being moved from here to the [VA.gov Product folder](https
 - Slack channel: #vsa-ebenefits
 - VA.gov link (WIP): [https://staging.va.gov/disability/view-disability-rating](https://staging.va.gov/disability/view-disability-rating)
 - Tool Page (WIP): [https://staging.va.gov/disability/view-disability-rating/rating](https://staging.va.gov/disability/view-disability-rating/rating)
-- Demo video link: n/a
+- Demo video link: _Coming Soon_
 - Product POCs: Steve Kovacs (steve-gov) & Jason Wolf (jason-gcio)
 
 ---
@@ -53,10 +53,10 @@ Presenting the Veterans Rated Disabilities information quickly and clearly witho
 The VA will see an added benefit in that a significant percentage of its traffic looking for this information will be better informed and receive the benefits they deserve.    
 
 ## Assumptions
-The migration will be a critical strategy in getting this feature into a modern development environment and its new location will provide smoother access at the user level.    
+The migration will be a critical strategy in getting this feature into a modern development environment and its new location will provide smoother access at the user level.  The Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their Total Combined Disabilities Rating (TCDR)); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
 
 ## Requirements and Constraints
-Since this feature uses the `vets-api` via EVSS, most of the endpoints are relatively easy to call and display, however, the Total Combined Disability Rating is proving to be a challenge to get a hold of.  
+Since this feature uses the `vets-api` via EVSS, most of the endpoints are relatively easy to call and display, however, the Total Combined Disability Rating was proved to be a challenge to get a hold of.  
 
 ## Discovery Takeaways
 For the most part, users use Rated Disabilities as intended, to ensure they have the correct rating.  If not, they can simply go to the Claim Status Tool and see the status.  
