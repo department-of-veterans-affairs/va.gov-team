@@ -1,4 +1,4 @@
-# Discussion Guides - Documentation Site Discovery Sprint 12/19
+# Discussion Guides - Documentation Site Discovery Sprint 12/2019
 
 ## Moderator Logistics
 _Use #vsp-documentation-site-discovery in Slack for real-time feedback from observers._
