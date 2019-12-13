@@ -52,7 +52,18 @@ Master branches contain production-ready files that are ready for deployment or 
 **Development branches**  
 Development branches store files that are being created and modified. 
 
-     
+## Content review by Digital Service at VA (DSVA)
+
+To ensure that Veterans experience a consistent look and feel in the design and a consistent voice in the copy as they use VA.gov, VA Digital Service (DSVA) provides helpful guidelines for the creation of new pages and content. See the “Useful Resources” section at the end of this document for links to DSVA design and content guidelines. DSVA also reviews all design and content changes before deployment.  
+
+### Content review for Events and Announcements
+
+DSVA Content Editor review content before it appears on the live site. The content review for events and announcements takes place in GitHub.  DSVA reviewers can be assigned during the pull request process.  
+
+### Content review for the Main Page
+
+DSVA Content Editor review content before it appears on the live site. As Education Services has editing rights for the main page and the page lives in a difference GitHub repository, the content review process occurs outside of the draft pull request process
+
 ## Main page
 
 ### What is considered main page content?
@@ -468,7 +479,7 @@ After you submit a pull request, you may receive change requests from the review
 
 The following guides may be useful for creating content in the VA.gov style.
 
-* **Resources for Schools Page Content Strategy Guide** 
+* **Resources for Schools Page Content Strategy Guide**  
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-strategy.md   
 Provides background information on the components that appear on the Resources for Schools page.
 
