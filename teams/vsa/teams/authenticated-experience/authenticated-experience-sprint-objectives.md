@@ -199,9 +199,16 @@ Erik may end up helping with some of this.
     - Note: This update can be built but not launched in sprint 11. This needs to be gated and can not go out before the benefit application updates. 
 - (*If our team is doing the work*) Start FE build (Erik or Brad) 
 
-### Onboarding 
+### Onboarding Tressa
 
-  - Onboard Tressa [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
+**Tressa**
+
+- General Onboarding [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
+- Exploring VA.gov 
+
+**Samara**
+
+- Handoff of Profile 2.0
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
