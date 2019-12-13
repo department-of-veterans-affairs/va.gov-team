@@ -18,4 +18,4 @@ Proposed enhancements to the VET TEC Dashboard in Google Analytics
 - Display a list of the top inbound links and the ability to see all so we can determine whether users return after clicking provider URLs or the links in the upper right callout.
 
 ### Proposed Dashboard Design
-[VET TEC Dashboard Mock-up](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20116%20VET%20Tec/Learn%20and%20Improve/vet-tec-dashboard-mock-up-dec-6-2019.pdf)
+[VET TEC Dashboard Mock-up](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec116-vettec/learn-and-improve/vet-tec-dashboard-mock-up-dec-6-2019.pdf)
