@@ -145,7 +145,7 @@ We will be conducting QA for address validation. Objectives are as follows:
 
 **Tze**
 
-Question: When is Tze planning to conduct QA? Does he have time off during this sprint?
+*Question: When is Tze planning to conduct QA? Does he have time off during this sprint?*
 
 - Conduct QA and create tickets for bugs
   - Bug tickets should be assigned to Justin, Arthur, and Samara
