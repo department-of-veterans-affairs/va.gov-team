@@ -133,6 +133,14 @@ Sprint is 9 days with Christmas holiday (New year's is first day of sprint 12).
 
 We can either cancel grooming altogether or move to Dec 23. Sprint planning for Sprint 12 should be moved to Jan 2.
 
+### Order of priorities
+
+1. Get address validation ready for QA
+2. Ramp up direct deposit to 100%
+3. Tze to conduct QA (if he's able to)
+4. Direct deposit updates
+5. Ticket writing and beginning build for APO/FPO/DPO work  
+
 ### Direct Deposit
 
 **Erik**
@@ -146,7 +154,15 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 
 ### Address validation
 
-We will be conducting QA for address validation. Objectives are as follows:
+#### Pre-QA
+
+- Make sure UI is thoroughly defined so FE can make sure all states are accounted for
+- Make sure all existing bugs are fixed
+ - (List open bug tickets)
+- Candidate/Validate endpoint has been consolidated
+- Go/No-go for QA
+
+#### If we get to QA
 
 **Tze**
 
@@ -196,3 +212,8 @@ Erik may end up helping with some of this.
 - Pre-launch
   - Analytics
   - Etc
+
+### Error Matrix
+
+- Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
+  
