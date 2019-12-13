@@ -23,7 +23,7 @@
      [What content appears in the "Upcoming events" section?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#what-content-appears-in-the-upcoming-events-section)   
      [How do I add an event?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#how-do-i-add-an-event)   
      [When do events expire?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#when-do-events-expire)  
-**[Pull request review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#pulll-request-review-process)**   
+**[Pull request review process]()**   
 **[Useful resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#useful-resources)**   	 
  
 ## Introduction
@@ -428,5 +428,71 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 
 ## Pulll request review process
 
+### How do I address Reviewer comments?  
+
+After you submit a pull request, you may receive change requests from the reviewers.  Follow the steps below to resolve any issues that need to be addressed and resubmit the pull request.
+
+1. Open the notification you received and click the link to access the Update page.  The Update page appears. By default, the “Conversation” tab will be displayed.  
+
+![The “Update” page with the “Conversation” tab displayed by default](content-editor-guide-images/33-update-page.png)   
+*Figure 33: The “Update” page with the “Conversation” tab displayed by default*  
+
+2. Click the “Files Changed” tab near the top of the page to see the reviewer’s comments.  
+
+![“Files Changed” tab on the Update page](content-editor-guide-images/34-files-changed.png)   
+*Figure 34: “Files Changed” tab on the Update page*  
+
+3. Read each of the reviewer’s comments. If clarification is needed, or you wish to discuss any of the issues, you can enter a reply.  
+
+![Enter a reply](content-editor-guide-images/35-enter-reply.png)   
+*Figure 35: Enter a reply*
+
+4. When you are ready to make the edits, click the 3 dots (…) in the upper right corner of the page to the right of the “Viewed” button, and then select the “Edit File” option.  The file will open.  
+
+![Open the file for editing](content-editor-guide-images/36-open-file.png)   
+*Figure 36: Open the file for editing*  
+
+**Note:** As you make the edits, you may wish to go back to re-review the issues.  You can add any necessary remarks and click the “Resolve Conversation” buttons associated with each comment, as needed.  
+
+![Enter reply and click “Resolve conversation”](content-editor-guide-images/37-resolve-conversation.png)   
+*Figure 37: Enter reply and click “Resolve conversation”*  
+
+5. Once you’ve finished making the edits, click the green “Commit changes” button at the bottom of the “Files Changed” tab to re-submit the pull request to the reviewers.  
+
+![Make edits and “Commit Changes” ](content-editor-guide-images/38-commit-changes.png)   
+*Figure 38: Make edits and “Commit Changes”*    
+
+6. The reviewers will receive an email letting them know that a change has been made. The reviewers will open the email and approve the change. The file is now ready to be deployed to the live site.  
+
 ## Useful resources
+
+The following guides may be useful for creating content in the VA.gov style.
+
+* **Resources for Schools Page Content Strategy Guide**
+The Resources for Schools page Content Strategy Guide  
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-strategy.md   
+Provides background information on the components that appear on the Resources for Schools page.
+
+* **Content writing and plain language best practices**  
+The VA.gov Content writing and plain language best practices page  
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md   Provides links to the content styleguide and design styleguide.
+ 
+* **VA.gov content style guide**  
+The VA.gov content styleguide  
+https://design.va.gov/content-style-guide/  
+Helps to ensure that all content on VA.gov is written in the same voice.
+
+* **VA.gov design system style guide**  
+The VA.gov design system styleguide 
+https://design.va.gov/documentation/  
+Provides design guidelines and code to help you quickly create trustworthy, accessible, and consistent digital services
+
+* **VA.gov GitHub content process**  
+The VA.gov GitHub content process guide  
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/GitHub_content_process.pdf)   Explains how to edit content on GitHub.
+
+* **VA.gov PR process and code review guidelines**   
+The PR process and code review guidelines  
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/a33e322c34798b6bbd863eeceb888c0420114c2c/platform/engineering/code_review_guidelines.md  
+Provides additional guidance on the PR process and code review process.
 
