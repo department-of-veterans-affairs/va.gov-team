@@ -28,7 +28,7 @@
 
 * [Sprint 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint1-userresearch.md)
 
-* []()
+* [Sprint 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint2-roadmap.md)
 
 ## Value Propositions
 
