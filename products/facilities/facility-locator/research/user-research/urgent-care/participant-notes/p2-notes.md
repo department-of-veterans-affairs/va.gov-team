@@ -66,5 +66,13 @@ I like the map. Well I like several things, I like the ordered facilities by clo
 #### If you had a magic wand, what would you change about this prototype?
 I’d make the filter print bolder. I don’t know whether it’s doable, but I’d like to include the hours int eh box for the facilities.
 
+There’s a 3rd category besides retail urgent care and urgent care which are freestanding emergency centers. You might want to think about including that…I don’t know if there are any in D.C. but you might want to consider that as an option. Freestanding emergency center could save a life if they wanted to with x-ray capability and 
+
+Regarding the descriptions of the retail urgent care and urgent care:
+I don’t know that I would’ve thought to click on the filter to find the definition. IDK if there’s too much text to actually have it on the screen so maybe there could be a thing that says “services available.”
+
+I was not aware that the VA had emergency care besides the emergency department so that’s something that should be communicated to be known. 
+
+
 ## Closing - 5 min
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Great, well thank you so much again, and enjoy the rest of your day!
