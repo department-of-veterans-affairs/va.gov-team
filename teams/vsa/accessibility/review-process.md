@@ -78,7 +78,7 @@ For medium to large projects, there are two checkpoints.
 
 There are two checkpoints:
 
-1. **Design-Development Intent Checkpoint** **[>> Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** - This review happens as the design is passed to development, before beginning development. The accessibility specialist(s) will review the design with the developer(s) to:
+1. **Design-Development Intent Checkpoint** **[>> Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** - This review happens as the design is passed to development, _before beginning development_. The accessibility specialist(s) will review the design with the developer(s) to:
 
     a. Discuss approach to take with development, for WCAG compliance
 
