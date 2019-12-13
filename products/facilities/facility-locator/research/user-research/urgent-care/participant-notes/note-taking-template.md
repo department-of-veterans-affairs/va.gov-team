@@ -13,12 +13,10 @@ Before we start, a few things I want to mention:
 ## Background - 5 min
 
 #### Tell us your name and a little about your service history. 
-I was in the Army nurse corp and served on active duty for 3 years including a tour in Vietnam and stayed in duty until I retired as lieutenant colonel.
 
 #### Have you ever visited an urgent care location?
 
 #### Do you know if it was in-network or not?
-
 
 #### How did you find out about that location?
 
