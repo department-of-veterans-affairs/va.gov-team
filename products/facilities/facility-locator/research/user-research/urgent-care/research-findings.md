@@ -4,7 +4,7 @@ December 2019
 ## Methodology
 We conducted moderated user testing sessions with 5 participants, one Caregiver and four Veterans, on Wendesday, December 11, 2019. The participants were recruited through the DSVA's recruitment contract with Perigean. Sessions were conducted and recorded via Zoom.
 
-Transcripts and notes can all be found in the [Facility Locator Urgent Care Research folder.]
+Transcripts and notes can all be found in the [Facility Locator Urgent Care Research folder.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care)
 
 ## Summary
 We tested a prototype which included a workflow for choosing an In-Network Urgent Care provider through the Facility Locator tool. We came away with a xx findings that will inform the redesign of Facility Locator to improve awareness of care provided by non-VA facilities.
