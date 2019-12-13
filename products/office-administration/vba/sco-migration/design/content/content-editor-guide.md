@@ -130,7 +130,8 @@ To update content and links, follow the steps below:
 ![New branch name field and Commit changes button](content-editor-guide-images/04-commit-changes.png)  
 *Figure 4: New branch name field and Commit changes button*  
 
-The “Open a pull request” page appears.  If your changes are complete, skip to step 9 to create a real pull request. Otherwise, continue to Step 5 to create a draft pull request.  
+     The “Open a pull request” page appears.  If your changes are complete, skip to step 9 to create a real pull request.
+     Otherwise, continue to Step 5 to create a draft pull request.  
 
 5. Add a description of the proposed changes (i.e., added new form) and add assignees if you’d like someone on the EDU team to review the edit.  
 
@@ -155,6 +156,7 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 *Figure 8: Open a pull request” page*  
 
 10. Enter a description of the change you’ll be submitting for review and click the arrow to the right of the green “Create pull request” button in the lower right corner of the page to select “Create Pull Request” rather than “Draft Pull Request”. The pull request automatically flags the file for review by the review team.  
+
     **Note:** The review and approval process may take a day or so, so planning ahead will ensure that time-sensitive announcements appear on the site in a timely manner.    
 
 ![Select “Create Pull Request”](content-editor-guide-images/09-create-pr.png)  
