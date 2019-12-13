@@ -1,5 +1,7 @@
 # Booz-Allen Hamilton School Certifying Officials Content Decisions/Technical Solution Narrative
 
+### See [Key Design Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/sco-migration-key-decisions.md)
+
 ## Summary
 In 2019, Booz-Allen Hamilton led an initiative to improve the content and experience of pages utilized by School Certifying Officials (SCOs). Because there is not yet a template for this type of content on the modernized VA.gov, it has been decided that the content will be migrated to a custom page on VA.gov and hosted in the `vagov-content` GitHub repository. 
 
