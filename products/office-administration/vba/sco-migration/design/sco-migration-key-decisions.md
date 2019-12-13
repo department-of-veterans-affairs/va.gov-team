@@ -1,4 +1,4 @@
-# SCO Page Key Decisions
+# SCO Page Key Design Decisions
 
 ## In this document:
 * [The use of the Hub Page pattern](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/sco-migration-key-decisions.md#the-use-of-the-hub-page-pattern)
