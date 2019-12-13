@@ -3,7 +3,7 @@
 Welcome to the discovery sprint for the documentation site! Here are some things to read through before Monday 12/20. 
 
 ### Documentation site discovery sprint 101
-- [Documentation site product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/documentation-site)
+- [Documentation site product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/product-outline.md)
 - [Discovery sprint ZenHub epic](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/2227)
 
 ### Existing research on our documentation site
