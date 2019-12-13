@@ -69,7 +69,11 @@
 #### BAH Team GIBCT Research (2019)
 * Veterans find determining and understanding Yellow Ribbon benefits challenging.
    * Upon landing on the School Profile page, one user was unsure if the school offered Yellow Ribbon benefits. Later he noticed it did, but had to scroll around for a while to determine this. 
-   * Users did not notice the link to the list of Yellow Ribbon Schools. Users were confused by the following Yellow Ribbon alert box.
+   * Users did not notice the link to the list of Yellow Ribbon Schools. 
+   * Users were confused by the following Yellow Ribbon alert box.
+   * “I don't know if the school is Yellow Ribbon.” -P3
+   * “What is [the Yellow Ribbon alert] referring to? It says 99k.” - P1
+   * “When I click on the link that says “Learn more” about the yellow ribbon, it just tells me what the yellow ribbon is, but it doesn’t give me a list of the schools that accept yellow ribbon. That would be good information.” - P3
 
 
 ## Guidance from DEPO-EDU Roadmap
