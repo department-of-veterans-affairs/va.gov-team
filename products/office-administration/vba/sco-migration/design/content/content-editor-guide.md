@@ -201,7 +201,7 @@ To add a new announcement, follow the steps below:
 ![“Announcements.json” file with edit button highlighted](content-editor-guide-images/12-announcements-edit.png)  
 *Figure 12: “Announcements.json” file with edit button highlighted*  
 
-Each section of code between the curly brackets represents an announcement. Figure 12 above includes 3 announcements. The portions bolded below are editable. By copying, pasting and editing a block of code, you will be able to create a new announcement.  
+     Each section of code between the curly brackets represents an announcement. Figure 12 above includes 3 announcements. The portions bolded below are editable. By copying, pasting and editing a block of code, you will be able to create a new announcement.  
 
 >{  
 "name": "**Yellow Ribbon Program information available for 2019-2020 academic year**",  
