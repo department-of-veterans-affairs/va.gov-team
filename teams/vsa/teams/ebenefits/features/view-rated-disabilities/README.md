@@ -59,7 +59,13 @@ The migration will be a critical strategy in getting this feature into a modern 
 Since this feature uses the `vets-api` via EVSS, most of the endpoints are relatively easy to call and display, however, the Total Combined Disability Rating is proving to be a challenge to get a hold of.  
 
 ## Discovery Takeaways
-For the most part, users use Rated Disabilities as intended, to ensure they have the correct rating.  If not, they can simply go to the Claim Status Tool and see the status.
+For the most part, users use Rated Disabilities as intended, to ensure they have the correct rating.  If not, they can simply go to the Claim Status Tool and see the status.  [Details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)
+- Veterans are well-aware of the general use of VA disability ratings, including the service-connected and non-service-connected aspects. Most are well-versed in the process of applying for disability claims, and are aware of a "formula" VA uses to determine a total disability rating--but not necessarily the details of how the formula works.
+- Users found the presentation of total and individual disability ratings acceptable. Many participants had favorable impressions of how, and how much, information was displayed.
+- Generally, Veterans were able to locate information and links quickly. Most considered the info presented appropriate in term of content  and amount.
+- Navigation back to the "landing-page" entry point was unclear to many participants. Many participants would opt for other navigational options or simply sign-out rather that return to the landing screen.
+- The most prominent pain points seemed to center around login/authorization, and call center experiences.
+- The most requested featured included real-time chat, drill-down details for specific disabilities, and specific information regarding the VA disability ratings formula.
 
 ## Solution Approach
 Primarily, the solution has consisted of migrating this tool from the `ebenefits` subdomain over to VA.gov, linking from a place that makes sense (dashboard or MyVA) and implementing the VA.gov's new design system.
