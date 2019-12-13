@@ -52,17 +52,14 @@ I have just a few more questions to ask you before we finish up today.
 #### What would you say the difference is between a retail and an urgent location? 
 When you say retail, I would think it would be inside a CVS pharmacy or something like that.
 
-- Was it intuitive to filter the search in order to find an Urgent Care location?
+#### Was it intuitive to filter the search in order to find an Urgent Care location?
 Yes, it was pretty straight forward. It looks like a lot of other searches I’ve used before
-- What was your favorite part of the prototype?
+
+#### What was your favorite part of the prototype?
 I appreciated the map view. And I liked the layout, it was easy to look at.
-- What was your least favorite part?
+
+#### What was your least favorite part?
 I would like more options to pop-up on the map so I don’t have to scroll from page to page to see my top 10 options. As in, have it scrollable instead of having to navigate from page to page. I like to see everything before I make a choice and I don’t want to have to go to page 11 to do that. If you want the providers to be seen and used equally then only sowing the ones within a half mile radius will lead to farther ones being used less and ones that are closest to most people become overused and too busy. So, seeing more options will help people choose one that is better for their daily routine or traffic. 
-- If you had a magic wand, what would you change about this prototype?
 
 ## Closing - 5 min
-We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-As a thank you for your participation, we'd like to offer you a $50 thank-you gift. Is it ok for us to send that gift to the same address Shannon and Brian used to communicate with you about scheduling this test? [If no] Ok, we'll follow up with an email after this session to get the right email from you in writing.
-Thanks! Lastly, would you like to share this feedback opportunity with other Veterans or Veteran groups you're a part of? If so, we can send you an email with a little blurb so you can easily connect to our team.
-Great, well thank you so much again, and enjoy the rest of your day!
- your day!
+We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans. Great, well thank you so much again, and enjoy the rest of your day!
