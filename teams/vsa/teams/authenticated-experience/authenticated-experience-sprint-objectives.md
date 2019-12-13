@@ -5,17 +5,17 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 - Development Team stay focused
 - Product Owner determine priority
 
-### Sprint 1 (7/31 - 8/13)
+## Sprint 1 (7/31 - 8/13)
 1. Onboarding and education
 
-### Sprint 2 (8/14 - 8/27)
+## Sprint 2 (8/14 - 8/27)
 1. Onboarding and education
 
-### Sprint 3 (8/28 – 9/10)
+## Sprint 3 (8/28 – 9/10)
 1.	Direct Deposit (QA, bug fixes, launch plan, communication, documentation, eBenefits work)
 2.	Address Validation & Override (update and finalize design, define and schedule out all development work, start checklist planning)
 
-### Sprint 4 (9/11 – 9/24) 
+## Sprint 4 (9/11 – 9/24) 
 1.	Launch Direct Deposit to % traffic, monitor via GA and toggle as needed 
      - Need to complete tasks identified as part of security review #19647, which is being broken into individual actionable tickets.  Cannot launch until we’ve completed 5 actions.
      - Team meeting with Platform 9/12 to discuss steps needed to launch the % traffic.  New tickets will be created for sprint 4 action.
@@ -26,28 +26,28 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 3.	Repo Migration
      - Develop a strategy for full transition to va.gov-team repo for content and issues
 
-### Sprint 5 (9/25 - 10/8)
+## Sprint 5 (9/25 - 10/8)
 * Continue working on Direct Deposit
 * Continue working towards launch of Address Validation & Override
 * Start Bad Address Indicator discovery, target December launch.
 * Start Combine Profile & Account
 * Monitoring, bug fixes, hardening, 508, etc.
 
-### Sprint 6 (10/9 - 10/22)
+## Sprint 6 (10/9 - 10/22)
 * Continue working on Direct Deposit
 * Continue working towards launch of Address Validation & Override
 * Continue Bad Address Indicator
 * Continue Combine Profile & Account
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-### Sprint 7 (10/23 - 11/5)
+## Sprint 7 (10/23 - 11/5)
 * Launch Direct Deposit (10/30) 
 * Continue Address Validation & Override work
 * Continue Bad Address Indicator work 
 * Continue Combine Profile & Account
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-### Sprint 8 (11/6 - 11/19)
+## Sprint 8 (11/6 - 11/19)
 * Direct Deposit
      * Remove "Add" functionality (#2883) if not already done
      * There is some dependency to creating the designs for ID.me &  DS Logon (#2884) whatever that dependency is let's do it this sprint.
@@ -62,7 +62,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
      * Clear the "Validate" swimlane by the end of the sprint
 
-### Sprint 9 (11/20 - 12/3)
+## Sprint 9 (11/20 - 12/3)
 * Direct Deposit
    * Add "add direct deposit" functionality and and new associated analytics.  Track/measure error rates as input to next steps and actions. (#3504)
    * Finalize approach for ID.me & DS Logon and determine what design work for sprint 10 work will need to be (#2884 and #1798)
@@ -80,8 +80,7 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
    * Build out FE/BE work for sprint 10, based on the approved designs.  Results in a lot of tickets and a target launch date.
 * Monitoring, maintenance, bug fixes, hardening, 508, etc.
    
-
-### (CURRENT) Sprint 10 (12/4 - 12/17)
+## (CURRENT) Sprint 10 (12/4 - 12/17)
 - Direct deposit
   - Ramp up direct deposit
     - Launch direct deposit to 75% and monitor for problems [#3964](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3964)
@@ -116,9 +115,11 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 * Additional to-dos post-sprint planning that may or may not get done in Sprint 10
   - Track Successful saves by "enroll" (new users) and "update" (existing users) [#4056]((https://github.com/department-of-veterans-affairs/va.gov-team/issues/4056))
 
-### Sprint 11 (12/18 - 12/31)
+## Sprint 11 (12/18 - 12/31)
 
-**Time off**
+Note: Code freeze between 12/23 - 1/3/2020.
+
+### Time off
 
 Sprint is 9 days with Christmas holiday (New year's is first day of sprint 12).
 
@@ -132,24 +133,57 @@ Sprint is 9 days with Christmas holiday (New year's is first day of sprint 12).
 
 We can either cancel grooming altogether or move to Dec 23. Sprint planning for Sprint 12 should be moved to Jan 2.
 
-**Sprint objectives**
+### Direct Deposit
 
-- Code freeze between 12/23 - 1/3/2020.
+- Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
+- Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
+- FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
 
-- Direct Deposit
-  - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
-  - Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
-  - FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
-- Address validation
-  - QA for address validation
-  - Bug tickets that will come out of QA 
-    - Note on ticket creation: Tze will create tickets as bugs come up. Should assign to Justin/Samara for triage.
-- APO/FPO/DPO
-  - FE profile updates
-    - Note: We should get this update ready to go in sprint 11, but it does not have to launch. This update can not go out before the updates to benefit applications.
-  - Figure out what build out looks like for benefit application updates
+### Address validation
+
+We will be conducting QA for address validation. Objectives are as follows:
+
+**Tze**
+
+Question: When is Tze planning to conduct QA? Does he have time off during this sprint?
+
+- Conduct QA and create tickets for bugs
+  - Bug tickets should be assigned to Justin, Arthur, and Samara
+
+**Arthur**
+
+- Help manage the QA process
+  - Pay attention to bug tickets that come in, and give direction/guidance as necessary for fixes. 
+  - As tickets/fixes go out, validate user-facing fixes in staging.
+ 
+ **Brad**
+
+Erik may end up helping with some of this.
+
+- Start working on bug fixes as they come in.
+  - (Note: no tickets to create yet. Tze will be creating bug tickets as they come in) 
+ 
+### APO/FPO/DPO
+
+- FE profile update
+    - Note: This update can be built but not launched in sprint 11. This needs to be gated and can not go out before the benefit application updates. 
+
+- Planning: Figure out what build out looks like for benefit application updates
     - Who is doing this? 
     - What do we have to coorinate with other teams?
-  - *If* our team is doing build out work on the applications, we need to create tickets and get that work started.
-- Monitoring, maintenance, bug fixes, hardening, 508, etc.
-- Onboard Tressa [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
+    - Create tickets   
+- (*If our team is doing the work*) Start FE build   
+
+### Onboard Tressa 
+
+  - [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+## Sprint 12 (1/1 - 1/14)
+
+### Address validation
+
+- Pre-launch
+  - Analytics
+  - Etc
