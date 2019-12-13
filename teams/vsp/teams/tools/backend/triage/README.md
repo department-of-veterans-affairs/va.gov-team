@@ -1,3 +1,7 @@
+1 file to be uploaded here via Git LFS:
+
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/tools-triage-call-center-reorg/teams/vsp/teams/triage/planning/vsp-triage-roadmap.pdf
+
 # Triage
 Repository for team information, planning docs, meeting notes, etc.
 
