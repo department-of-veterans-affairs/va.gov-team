@@ -80,16 +80,17 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 ## Status
 - **September - October 2019:** Currently in development, designs approved, moving towards staging.
 - **November 2019:** Finalizing TCDR, preparing for launch
+- **December 2019:** Reviews, establishing UAT before launch
 
 ## Solution Narrative
 - **October 8, 2019:** new design elements were introduced and were re-worked into the existing mockups and frontend
 - **October 2019:** Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
 - **November 2019:** TCDR needs .yml files then integration into API.  Preparing for launch.  Moving away from EVSS with next feature.
-
+- **December 2019:**  Edits and significant development has finished, working on implementing some last minute design changes per DSVA before launch
 
 ## How to Access and Test
 - Link: Unauthenticated: https://staging.va.gov/disability/check-disability-rating/
-- Link: Authenticated: https://staging.va.gov/disability/check-disability-rating/rating/
+- Link: Authenticated: https://staging.va.gov/disability/check-disability-rating/rating/  
 Please contact @jason-gcio for more info
 
 ## Error Handling
@@ -134,4 +135,4 @@ eBenefits, rated disabilities
 ![Original Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/Rated_Disabilities_eBenefits_OLD.png)
 #### After  
 [Live mockups](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/?x_product=cc-slack%2F1.4.0)
-![New Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/rated-disabilities-final.JPG)
+![New Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/RD_Screen_Tool_FINAL.png)
