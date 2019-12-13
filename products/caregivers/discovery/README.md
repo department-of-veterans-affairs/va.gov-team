@@ -26,6 +26,10 @@
 
 ## Solution Approach
 
+* [Sprint 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint1-userresearch.md)
+
+* []()
+
 ## Value Propositions
 
 ## KPIs
