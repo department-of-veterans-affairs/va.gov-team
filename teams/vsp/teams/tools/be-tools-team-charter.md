@@ -11,7 +11,7 @@ Provide innovators a comprehensive and organized toolbox to achieve success.
 VSP Platform Team
 
 ### Team Mission Statement:
-
+Maintain and track the stability, performance and health of the platform for everyone working on VA.gov to facilitate app development and integration.
 
 
 ### Product Portfolio:
