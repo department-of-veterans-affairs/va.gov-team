@@ -25,6 +25,11 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 - Veterans could not answer directly when asked if the Urgent Care facility they visited was "in-network" or not because it could have been covered through their spouse's insurance, medicare, or another source.
 - Some Veterans assumed that because they visted a clinic that was not a VA facility that it would not be covered through their VA benefits.
 
+#### 4. Internal language and inconsistent labeling cause hesitancy with users when looking into facilities.
+
+- A majority of participants mentioned the "diagnostic" MinuteClinic was confusing and assumed it provided services that it does not.
+- 
+
 ## Detailed Findings
 
 #### 1. Find Urgent Care for a sore throat
@@ -44,6 +49,8 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 ## Recommendations
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
 
+#### Display facility names that are familiar with users (e.g. MinuteClinic at CVS) 
+  - Participants immediately recognized retail urgent care locations when they were associated with a store or name they've seen before (like CVS, Walgreens, etc.)
 
 ## Additional Questions
 - What differences exists between how Caregivers and Veterans use Facility Locator?
@@ -53,7 +60,7 @@ The following are recommendations to consider during the redesign of the Facilit
 - [Research Plan]
 - [Conversation Guide]
 - [Prototype Tested](https://vsateams.invisionapp.com/share/PWV7CIH4T8H)
-- [Session Transcripts]
+- [Session Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care/participant-notes)
 - [Research Synthesis Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1576081239946/99dfee57b49c1162afc60bcf12ab99908acad348)
 - [Research Synthesis PDF]
 
