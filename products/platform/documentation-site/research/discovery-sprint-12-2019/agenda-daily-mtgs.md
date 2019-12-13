@@ -2,8 +2,8 @@
 - Assign notetaker for this meeting
 - Review goal and activities for the day
 - (If applicable) Review scheduled interviews
-  - Assign notetakers for Monday interviews
-  - Assign interviewers for Monday interviews
+  - Assign notetakers for today's interviews
+  - Assign interviewers for today's interviews
   - Review housekeeping for interviews (Megan or Crystabel lead discussion, anyone can ask questions as relevant)
 
 ## Day End Meeting Agenda
@@ -11,6 +11,7 @@
 - Roundtable of takeaways
 - Revisit goal progress for the day
 - Assign out necessary tasks to finish goal for the day
+- Assign out notetakers and interviewers for interviews the next morning, if applicable
 
 ---
 
