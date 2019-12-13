@@ -1,5 +1,5 @@
 
-# VA.gov School Resources Page: Guidance for Content Editors  
+# VA.gov School Resources Page:</br> Guidance for Content Editors  
 
 
 <kbd>![Content Editor Guide](content-editor-guide-images/cover.png)</kbd>  
@@ -130,7 +130,7 @@ To update content and links, follow the steps below:
 ![New branch name field and Commit changes button](content-editor-guide-images/04-commit-changes.png)  
 *Figure 4: New branch name field and Commit changes button*  
 
-The “Open a pull request” page appears.  If your changes are complete, skip to step 9 to create a real pull request.  Otherwise, continue to Step 5 to create a draft pull request.  
+The “Open a pull request” page appears.  If your changes are complete, skip to step 9 to create a real pull request. Otherwise, continue to Step 5 to create a draft pull request.  
 
 5. Add a description of the proposed changes (i.e., added new form) and add assignees if you’d like someone on the EDU team to review the edit.  
 
