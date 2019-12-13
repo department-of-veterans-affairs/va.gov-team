@@ -1,4 +1,4 @@
-## What's in here?
+## Office / Administration research
 
 **February 28, 2019: OPIA-Administration research - design studio**
 
