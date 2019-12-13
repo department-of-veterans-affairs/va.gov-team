@@ -330,7 +330,7 @@ To add a new event to the Resources for Schools page, follow the steps below:
 ![“Events.json” file with Edit button highlighted](content-editor-guide-images/23-events-edit.png)   
 *Figure 23: “Events.json” file with Edit button highlighted*   
 
-Each section of code between the curly brackets represents an event.  Figure 23 above includes 4 events. The portions that are highlighted in yellow below are editable.  By copying, pasting and editing a block of code, you will be able to create a new event.
+     Each section of code between the curly brackets represents an event.  Figure 23 above includes 4 events. The portions that are highlighted in yellow below are editable.  By copying, pasting and editing a block of code, you will be able to create a new event.
     
 >{    
   "name": "**Arizona Veterans Program Association-2010 Fall Mini-Conference**",  
@@ -397,7 +397,7 @@ Ex: 2010/12/05
 ![The branch name field and Commit changes button highlighted](content-editor-guide-images/27-commit-changes.png)   
 *Figure 27: The branch name field and Commit changes button highlighted*  
 
-The “Open a pull request” page appears.  If your changes are complete, skip to step 11 to create a real pull request.  Otherwise, continue to Step 8 to create a draft pull request.  
+     The “Open a pull request” page appears.  If your changes are complete, skip to step 11 to create a real pull request.  Otherwise, continue to Step 8 to create a draft pull request.  
 
 8. Add a description of the proposed changes (i.e., added new form) and select assignees if you’d like someone on the EDU team to review the edit.  
 
