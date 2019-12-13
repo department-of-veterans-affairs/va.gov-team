@@ -39,23 +39,25 @@
 # Executive Summary
 Developing with Jen Lee
 ## User Problem Statement
-Developing with Jen Lee
+Research and usability studies have told us that they couldn’t find key tools and services online and confused by poor navigation between sites.
 ## Solution Goals
-Provides Veterans, family members, caregivers, and service members access to vital information about VA benefits and services.
+Provide Veterans, family members, caregivers, and service members access to vital information about VA benefits and services with a fresh new landing page with easy to use navigation to get them to the right place.
 ### User Goals
-Content, navigation, and tools that provide users the easiest way to find and act upon any VA service.
+Improved navigation with an easy to use menu to get them to what they are looking for in a few clicks.
 ### Business Goals
-Builds, maintains, and improves the public facing experience on VA.gov.
+Provide the content, navigation, and tools that provide Veterans, family members, and caregivers a seamless path to find and get the assistance they need.
 ## Assumptions
-Developing with Jen Lee
+There are several products under Public Websites for which the team is responsible for developing, building, and delivering.
 
 ## Requirements and Constraints
-Developing with Jen Lee
+1.	Legacy and Parity rewrites into Drupal (Constrained by lack of access to Drupal, Legacy and parity rewrites are time consuming and frequently on-hold awaiting SME feedback/approvals
+2.	Different products may have different Product Owners and Stakeholders
+
 
 ## Discovery Takeaways
 TBD
 ## Solution Approach
-Developing with Jen Lee
+Breakdown all products into an “Epic” with Tasks to be associated with each Epic.
 
 ## Value Propositions
 Developing with Jen Lee
@@ -75,7 +77,9 @@ Developing with Jen Lee
 - **October 2019**: ...
 
 ## How to Access and Test
-- Link: 
+-	UAT:  VA Stakeholders
+-	Usability testing for research
+
 ## Error Handling
 ## Service Level Objective
 ## API Calls and Dependent Systems
@@ -96,10 +100,15 @@ TBD
 ## Team
 - DSVA Product Manager: Jennifer Lee
 - Team Product Manager: Kara Kemahli
-- Content Team- to be added 
+- Content Team:
+  - Randi Hecht
+  - Laura Walsh	
+  - Anne Hurley
+  - Selina Cooper
 - UX Designer: Liz Lantz
 - Designer/Reseearcher: Ryan Thurwell
 - Lead Front-end Engineer: Nick Sullivan
+- Front-end Engineer: Kelson Adams
 
 
 
