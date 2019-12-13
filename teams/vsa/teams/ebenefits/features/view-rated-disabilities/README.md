@@ -103,6 +103,8 @@ Contact @jason-gcio for more info
 ## Error Handling
 There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
 
+![Rated Disabilities Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/RD-errors.png)
+
 ## Service Level Objective
 ...
 ## API Calls and Dependent Systems
