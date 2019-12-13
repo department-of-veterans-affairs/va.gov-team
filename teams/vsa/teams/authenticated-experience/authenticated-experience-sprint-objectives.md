@@ -135,9 +135,14 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 
 ### Direct Deposit
 
+**Erik**
+
 - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
-- Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
 - FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
+
+**Samara/Peggy**
+
+- Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
 
 ### Address validation
 
@@ -165,18 +170,22 @@ Erik may end up helping with some of this.
  
 ### APO/FPO/DPO
 
-- FE profile update
-    - Note: This update can be built but not launched in sprint 11. This needs to be gated and can not go out before the benefit application updates. 
+**Arthur and Justin**
 
-- Planning: Figure out what build out looks like for benefit application updates
+- Planning: Figure out what build out looks like for benefit application updates (Arthur and Justin)
     - Who is doing this? 
     - What do we have to coorinate with other teams?
-    - Create tickets   
-- (*If our team is doing the work*) Start FE build   
+    - Create tickets  
 
-### Onboard Tressa 
+**Erik or Brad**
 
-  - [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
+- FE profile update (Erik or Brad)
+    - Note: This update can be built but not launched in sprint 11. This needs to be gated and can not go out before the benefit application updates. 
+- (*If our team is doing the work*) Start FE build (Erik or Brad) 
+
+### Onboarding 
+
+  - Onboard Tressa [#4086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4086)
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
