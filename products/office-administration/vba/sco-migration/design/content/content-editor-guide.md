@@ -26,7 +26,7 @@
      [How do I add an event?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#how-do-i-add-an-event)   
      [When do events expire?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#when-do-events-expire)  
 **[Pull request review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#pulll-request-review-process)**  
-     [How do I address Reviewer comments?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#how-do-i-address-reviewer-comments)  
+     [How do I address reviewer comments?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#how-do-i-address-reviewer-comments)  
 **[Useful resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-editor-guide.md#useful-resources)**   	 
  
 ## Introduction
@@ -437,7 +437,7 @@ The “Open a pull request” page appears.  If your changes are complete, skip 
 
 ## Pulll request review process
 
-### How do I address Reviewer comments?  
+### How do I address reviewer comments?  
 
 After you submit a pull request, you may receive change requests from the reviewers.  Follow the steps below to resolve any issues that need to be addressed and resubmit the pull request.
 
