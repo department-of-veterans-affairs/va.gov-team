@@ -4,7 +4,7 @@
 _Use #vsp-documentation-site-discovery in Slack for real-time feedback from observers._
 
 ## Intro
-Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding our documentation. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go. The topic we're going to cover today is documentation, not exclusive to VA.gov documentation.
+Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding our documentation. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go. The topic we're going to cover today is documentation, not necessarily exclusive to VA.gov documentation.
 
 Before we start, there are a few things I want to mention: 
 
