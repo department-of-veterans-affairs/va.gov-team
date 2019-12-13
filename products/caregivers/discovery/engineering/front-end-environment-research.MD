@@ -23,4 +23,4 @@ to accomidate the back end or an external API we can define our own custom form 
 We will most likely be defining our own custom submit function since we will not only need to submit data to our back end but
 also to the CARMA system.
 
-More info on our architecture is located [here](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-website/architecture.md)
+More info on our architecture is located [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
