@@ -4,7 +4,7 @@
 _Use #vsp-documentation-site-discovery in Slack for real-time feedback from observers._
 
 ## Intro
-Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding our documentation. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go. The topic we're going to cover today is documentation, not necessarily exclusive to VA.gov documentation.
+Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding documentation, whether that's in the VA.gov ecosystem or about something else entirely. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go.
 
 Before we start, there are a few things I want to mention: 
 
@@ -60,8 +60,8 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 
 ### Frontend engineers
 - Intro
-- As engineers, I'm willing to bet that y'all have been involved in creating or managing documentation or documentation tools before. Is that correct? 
-- [If yes] Provider questions (above)
+- I know that at least some of y'all have been involved in creating or managing documentation or documentation tools before.
+- Provider questions (above)
 - How do you think engineering documentation differs from non-technical documentation? Do you see these as the similar? Different?
 - User questions (above)
 - [If time] Extra questions
