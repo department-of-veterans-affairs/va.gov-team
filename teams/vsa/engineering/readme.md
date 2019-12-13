@@ -11,6 +11,6 @@ documentation that have been developed to keep our team working efficiency.
 Discipline        | Process
 ----------------- | -------------
 DevOPS            | [Triage](devops/Triage-Process.md)
-Engineering       | [Pull Request](devops/pull-request-process.md)
+Engineering       | [Pull Request](pull-request-process.md)
 Quality Assurance | [QA](qa/)           
        
