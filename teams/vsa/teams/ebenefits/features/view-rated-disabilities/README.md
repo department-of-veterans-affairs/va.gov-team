@@ -66,6 +66,7 @@ For the most part, users use Rated Disabilities as intended, to ensure they have
 - Navigation back to the "landing-page" entry point was unclear to many participants. Many participants would opt for other navigational options or simply sign-out rather that return to the landing screen.
 - The most prominent pain points seemed to center around login/authorization, and call center experiences.
 - The most requested featured included real-time chat, drill-down details for specific disabilities, and specific information regarding the VA disability ratings formula.  
+
 [More information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)
 
 ## Solution Approach
