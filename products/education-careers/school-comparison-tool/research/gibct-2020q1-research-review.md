@@ -5,6 +5,7 @@
 * Yelp-style Reviews
 * Ability for providers to update their own content
 * Yellow Ribbon
+<p>&nbsp;</p>
 
 ## Caution flags
 
@@ -21,6 +22,7 @@
 
 #### BAH Team GIBCT Research (2019)
 * Note...
+<p>&nbsp;</p>
 
 ## Yelp-style Reviews
 
@@ -37,7 +39,7 @@
 
 #### BAH Team GIBCT Research (2019)
 * Note...
-
+<p>&nbsp;</p>
 
 ## Ability for providers to update their own content
 
@@ -53,7 +55,7 @@
 #### BAH Team GIBCT Research (2019)
 * Veteran would like to see a list of programs offered by the school
 * Schools would like to be able to enter their most popular programs
-
+<p>&nbsp;</p>
 
 ## Yellow Ribbon
 
@@ -81,7 +83,7 @@
 understand eligibility requirements and can view a list of participating schools.
    * Recommendation: Modify or add context around why the following appears: "Maximum amount per student:$99,999/yr" and "Number of students: 99999". 
    * Recommendation: Make the school’s participation in the Yellow Ribbon program more prominent.
-
+<p>&nbsp;</p>
 
 ## Guidance from DEPO-EDU Roadmap
 Perform policy assessment of tool data points, better align UX to Veteran priorities, promote increased usage, identify staff pain points. 
