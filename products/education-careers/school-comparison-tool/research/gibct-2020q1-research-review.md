@@ -75,6 +75,7 @@
    * Users did not notice the link to the list of Yellow Ribbon Schools. 
    * Users were confused by the following Yellow Ribbon alert box.
    * One mentioned an interest in seeing a list of Yellow Ribbon schools
+   * Some Veterans would click the "Learn more" link for Yellow Ribbon and Kicker.
    * “I don't know if the school is Yellow Ribbon.” -P3
    * “What is [the Yellow Ribbon alert] referring to? It says 99k.” - P1
    * “When I click on the link that says “Learn more” about the yellow ribbon, it just tells me what the yellow ribbon is, but it doesn’t give me a list of the schools that accept yellow ribbon. That would be good information.” - P3
