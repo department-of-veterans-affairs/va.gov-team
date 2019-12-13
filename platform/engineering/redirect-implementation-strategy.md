@@ -1,8 +1,10 @@
 # Redirect Implementation Strategy
 
-Last update: 11/26/19
+Last update: 12/13/19
 
-_Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
+_12/13/19 — Megan updated to be inclusive of when URL changes are made in the Drupal CMS, which currently just fits into the server-side redirects within va.gov process below._
+
+_11/26/19 — Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
 
 ---
 
@@ -54,17 +56,20 @@ _Upcoming redirects for entire subdomains, planned to be done server-side in 202
 _When to do this?_
 - This is the default, preferred path for www.va.gov/* -> www.va.gov/*
 - Actual example: www.va.gov/healthbenefits/index.asp  →  www.va.gov/health-care
+- Include pages managed within the Drupal CMS (which handles URL changes but not redirects as of 12/13/19) or not
 
 _How does this work technically?_
-- Should be implemented in Drupal CMS by end of year. 
 - Traffic to www.va.gov hits the VA gateway, is routed to our reverse proxy, where it is redirected according to rules that our operations team maintains in the [devops repo](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/vars/react_routes.yml#L69). 
 - Note that redirects get pushed out with deployment of “revproxy” — different schedule from vets-website.
+- If the initiating page is managed by the Drupal CMS, the URL change is made there _and_ the redirect is added to the devops repo
 
 _What team is responsible?_
 - Work is routed from VSP to VSA Public Websites team for implementation (label ticket with vsa-public-websites). VSA Public Websites team to pull in VSP Ops as needed. Requesting team (whether that is VSA Public Websites or another VFS team) is responsible for communication with VA stakeholders as needed.
 
 _Any other notes_
 - Level of difficulty: low
+- Redirects for pages within the Drupal CMS require very close coordination between the engineer making the change in the devops repo and the person changing the URL within the Drupal CMS. [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/redirect-implementation-timing-drupal-2019.png) is a diagram made by the CMS team in December 2019, showing the current redirect scenarios involving Drupal.
+- The Drupal-specific timing difficulties here will be addressed when VSP Ops works on their initiative to make Drupal the source of truth for redirects in 2020.
 
 ### 2) Client-side redirects within www.va.gov
 
@@ -136,7 +141,7 @@ _Any other notes_
 - _Above points (crossed out) have been tested 11/19, we won't be deleting or archiving, see full details above under "4) Client-side redirects for non-www. subdomains - Any other notes"_
 - Consider using welcome modals for cases where an entire subdomain is redirected. Explore.va.gov does this via [query parameter](https://www.va.gov/?from=explore.va.gov).
 - Gain a better understanding of analytics and SEO impacts of implementing and changing redirects.
-- Implement server-side www.va.gov/ redirects in Drupal CMS.
+- Make Drupal CMS the source of truth for server-side www.va.gov/ redirects.
 - Document prefix vs. match implementation and where redirects are stored (to be linked in this document). 
 - Investigate Gateway redirects as another option.
 - Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for non-www
