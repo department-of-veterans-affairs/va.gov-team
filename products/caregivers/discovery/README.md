@@ -1,4 +1,4 @@
-# Program of Comprehensive Assistance for Caregivers
+# Discovery for Program of Comprehensive Assistance for Caregivers
 
 ## Communications
 - GitHub Label: 
@@ -26,9 +26,17 @@
 
 ## Solution Approach
 
-* [Sprint 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint1-userresearch.md)
+* [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/research)
 
-* [Sprint 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint2-roadmap.md)
+* [Sprint 1 User Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint1-userresearch.md)
+
+* [Technical Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/engineering)
+
+* [VBA Signatures Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/research/signatures-vba)
+
+* [VHA Signatures Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/research/signatures-vha)
+
+* [Sprint 2 Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint2-roadmap.md)
 
 ## Value Propositions
 
