@@ -148,10 +148,6 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 - Ramp up to 100% [#3969](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3969)
 - FE for routing number error [#4109](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4109)
 
-**Samara/Peggy**
-
-- Copy for routing number error [#4105](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4105)
-
 ### Address validation
 
 #### Pre-QA
