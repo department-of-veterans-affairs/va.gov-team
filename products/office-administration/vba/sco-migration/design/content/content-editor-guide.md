@@ -468,31 +468,25 @@ After you submit a pull request, you may receive change requests from the review
 
 The following guides may be useful for creating content in the VA.gov style.
 
-* **Resources for Schools Page Content Strategy Guide**
-The Resources for Schools page Content Strategy Guide  
+* **Resources for Schools Page Content Strategy Guide** 
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/office-administration/vba/sco-migration/design/content/content-strategy.md   
 Provides background information on the components that appear on the Resources for Schools page.
 
 * **Content writing and plain language best practices**  
-The VA.gov Content writing and plain language best practices page  
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md   Provides links to the content styleguide and design styleguide.
  
 * **VA.gov content style guide**  
-The VA.gov content styleguide  
 https://design.va.gov/content-style-guide/  
 Helps to ensure that all content on VA.gov is written in the same voice.
 
 * **VA.gov design system style guide**  
-The VA.gov design system styleguide 
 https://design.va.gov/documentation/  
 Provides design guidelines and code to help you quickly create trustworthy, accessible, and consistent digital services
 
 * **VA.gov GitHub content process**  
-The VA.gov GitHub content process guide  
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/GitHub_content_process.pdf)   Explains how to edit content on GitHub.
 
 * **VA.gov PR process and code review guidelines**   
-The PR process and code review guidelines  
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/a33e322c34798b6bbd863eeceb888c0420114c2c/platform/engineering/code_review_guidelines.md  
 Provides additional guidance on the PR process and code review process.
 
