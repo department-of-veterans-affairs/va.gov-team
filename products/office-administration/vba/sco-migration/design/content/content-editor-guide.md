@@ -143,12 +143,12 @@ To update content and links, follow the steps below:
 ![Select "Draft Pull Request"](content-editor-guide-images/06-draft-pr.png)  
 *Figure 6: Select "Draft Pull Request"*  
 
-7. Click the “Draft pull request” button.  Submitting a draft pull request will create a preview content instance where you can review your changes. **The instance in ready in about 5 minutes.**  
+7. Click the “Draft pull request” button.  Submitting a draft pull request will create a preview content instance where you can review your changes. **The instance, which will be in ready in about 5 minutes, will open in a new browser tab.**  
 
 ![Review your submitted changes](content-editor-guide-images/07-draft-pr-submitted.png)  
 *Figure 7: Review your submitted changes*   
 
-8. How to return from preview instance
+8. Once you’ve finished reviewing the review instance, you can return to your original browser tab.
 
 9. Repeat steps 1-7 as needed to refine the content. Once you are satisfied with the content, click the “Commit Changes” button, to create a real pull request.  The “Open a pull request” page will appear.  
 
