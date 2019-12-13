@@ -1,11 +1,3 @@
-4 files to be uploaded here via Git LFS:
-
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/call-center/va.gov-technical-issue-template-responses.docx
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/New%20Script%20Guide.docx
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/ProcessFlow.pdf
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/downtime-error-messages.xlsx
-
-
 Welcome to the Call Center lead Folder.
 
 Responsiblities for the Call Center Lead can be found [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/call-center/call-center-lead-responsibilities.md)
