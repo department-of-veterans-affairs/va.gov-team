@@ -51,7 +51,8 @@
 * Note...
 
 #### BAH Team GIBCT Research (2019)
-* Note...
+* Veteran would like to see a list of programs offered by the school
+* Schools would like to be able to enter their most popular programs
 
 
 ## Yellow Ribbon
@@ -71,9 +72,15 @@
    * Upon landing on the School Profile page, one user was unsure if the school offered Yellow Ribbon benefits. Later he noticed it did, but had to scroll around for a while to determine this. 
    * Users did not notice the link to the list of Yellow Ribbon Schools. 
    * Users were confused by the following Yellow Ribbon alert box.
+   * One mentioned an interest in seeing a list of Yellow Ribbon schools
    * “I don't know if the school is Yellow Ribbon.” -P3
    * “What is [the Yellow Ribbon alert] referring to? It says 99k.” - P1
    * “When I click on the link that says “Learn more” about the yellow ribbon, it just tells me what the yellow ribbon is, but it doesn’t give me a list of the schools that accept yellow ribbon. That would be good information.” - P3
+   * SCOs have noticed that Veterans have misconceptions about the Yellow Ribbon program. Many assume it's a supplemental scholarship. It’s primarily relevant for private institutions and out of state waivers.
+   * Recommendation: Make the link to the existing VA.gov Yellow Ribbon page more prominent, so users
+understand eligibility requirements and can view a list of participating schools.
+   * Recommendation: Modify or add context around why the following appears: "Maximum amount per student:$99,999/yr" and "Number of students: 99999". 
+   * Recommendation: Make the school’s participation in the Yellow Ribbon program more prominent.
 
 
 ## Guidance from DEPO-EDU Roadmap
