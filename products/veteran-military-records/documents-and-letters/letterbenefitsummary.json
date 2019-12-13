@@ -1,0 +1,31 @@
+{
+  "messages": [
+    {
+      "key": "string",
+      "text": "string",
+      "severity": "FATAL"
+    }
+  ],
+  "militaryService": [
+    {
+      "branch": "string",
+      "characterOfService": "HONORABLE",
+      "releasedDate": "2017-06-14T14:42:22.258Z",
+      "enteredDate": "2017-06-14T14:42:22.258Z"
+    }
+  ],
+  "benefitInformation": {
+    "hasServiceConnectedDisabilities": false,
+    "serviceConnectedPercentage": 0,
+    "awardEffectiveDate": "2017-06-14T14:42:22.258Z",
+    "monthlyAwardAmount": 0,
+    "hasNonServiceConnectedPension": false,
+    "hasSurvivorsPensionAward": false,
+    "hasSurvivorsIdenmityCompensationAward": false
+  },
+  "hasIndividualUnemployabilityGranted": false,
+  "hasChapter35Eligibility": false,
+  "hasSpecialMonthlyCompensation": false,
+  "hasAdaptedHousing": false,
+  "hasDeathResultOfDisability": false
+}

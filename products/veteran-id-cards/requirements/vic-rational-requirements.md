@@ -1,0 +1,244 @@
+Original Veteran Identification Card Appication requirements approved for VIC Applications
+
+# Release 1
+- As a VIC support Personnel, I need the ability to log into VIC BDC with my PIV card
+- As the VIC System, I will allow the Veteran to log out of the VIC BDC application
+- As the VIC system, I will allow VIC Support Personnel to logout of the VIC BDC application.
+- As the VIC Application, I need the Photograph of the Veteran to meet the following criteria for the second photo: The photo must meet the following requirements:
+     - The image must be in color.
+     - The image must be taken within the time range of the photo ID.
+     - The image must provide visibility of the face, head and shoulders without cropping any portion of the head or shoulders
+     - The image must not contain sunglass.
+    - The image must not contain a hat."
+- As the VIC System, I need The front of the VA ID card will display:
+- As a Veteran I need the ability to view the status of my application or upload new photos.
+- As the VIC System, I need the size for an Uploaded Image to not exceed 3 megabytes.
+
+# Release 2
+- As the VIC System, I will provide the Veteran with the ability to Request a VA BDC Card with a "Request Card" button only after they have entered all information, uploaded photos and previewed the image of the card.
+- As the VIC System, I need to maintain the Veteran's data for 60 days, then delete it while maintaining an audit log once the card has been successfully digitally and physically sent to the veteran.
+- As the VIC System, I will have a VIC BDC homepage which will contain the following information: General information about the VA ID card program and how the card can be used; a privacy statement;  a disclaimer to the Veteran stating the following: "The information provided will be used and remain in the system for 60 days".
+- As the VIC System, I need to ensure the security of veterans‰Ûª personal information.
+- As the VIC System, I will provide all of the data associated with the Veteran's request for the VA BDC Card to the VIC Support Personnel  queue, to include the data from Vets.gov, after the Veteran enters all of the required data into the VA BDC Card data input screen and selects the "Request Card" button.
+- As the VIC System, After the Veteran has entered all of the required information, I will allow the Veteran to select the "Click Card Preview" button and preview the front of the VA ID Card in the Upload Images tab of the VA ID Card Home Page.
+- As the VIC Application, I need Vets.gov to provide the following data to be used for processing the VIC BDC Card: First name, Last Name, Address (City, State, Zip Code) Email address, Branch of Service, Character of Discharge, Branch of Service(s).
+- As the VIC Application, I need the Photograph of the Veteran to meet the following criteria the first photo: The photo must be a valid government issued identification (Driver‰Ûªs license, state issued identification card or Passport).
+- As the VIC Application, I will allow the Veteran to have the ability to upload 2 new photographs after the original upload has been completed.
+- As the VIC Application, I will allow the Veteran to have the ability to cancel the upload process if needed while the upload is in process.
+- As the VIC Application, I will allow the Veteran to have the ability to preview only the information on the front of the card prior to submitting the request for review and creation.
+- As the VIC System, I will allow the  VIC Support Personnel to have the ability to select the VIC BDC Card request She/He would like to review.
+- As the VIC support Personnel, I need the ability to cancel the review process on any screen in the VSP site.
+- As the Veteran, I need to be able to preview the Character of Discharge associated with my service as read only.
+- As the VIC Support Personnel, I need to be able to view the Character of Discharge associated with the service of the Veteran as read only.
+
+*draft requirements*
+- As a Veteran, I would like to have the ability to request the VA BDC Card from the Vets.gov Site.
+- As the VIC System, I will provide the following user roles with the ability to search for a Veteran by Last Name, First Name: VIC Support Personnel and Help Desk Personnel.
+- As the Veteran, I need to able log in and check status and view the status of my VIC ID Card Request.
+- As the VIC System, I need the status of the request to be set to "Pending" after the request has been successfully submitted for processing to the VIC Support Personnel.
+- As a Veteran I served in multiple branches of Service. I would like the ability to choose the branch of service on the card.
+- As a Veteran, I need my own User Role in the VIC System.
+- As a VIC Support Personnel, I need my own User Role in the VIC System.
+- As the VIC System, I need the VIC Support Personnel to be updated with the Choose VA logo.
+- As the VIC System, I will present the following statement on the top of the Veterans Home page: "This U.S. Government system is intended for official and authorized use only by authorized users with no reasonable expectation of privacy. The system may include records protected by various Federal statutes including the Privacy Act (5 U.S.C. ' 552a) and 38 U.S.C. '' 5701 and 7332. Access to data is on a need-to-know basis only. All use of this system constitutes user understanding of unconditional consent to review and action including (but not limited to) monitoring, recording, copying, auditing, inspecting, investigating, restricting access, blocking, tracking, disclosing to authorized personnel, or any other authorized actions by all authorized VA and law enforcement personnel. Unauthorized access to or misuse of this system is strictly prohibited may result in criminal, civil, or administrative penalties."
+- As the VIC System, I will present the following Statement on the Home Page: "Apply for a Veterans Identification Card" in bold lettering.
+- As the VIC System, I will present the following Statement on the Home Page: "The Veteran Identification Card (VIC) serves as proof of service in the United States Armed Forces.".
+- As the VIC System, I will present the following Statement on the Home Page: "This card may be used for discounts on good and services offered to Veterans by public and private institutions."
+- As the VIC System, I will present the following Header on the VIC Home Page: "Card Review Status"
+- As the VIC System, I will provide a tab titled: "Personal" on the VA ID Card Home Page.
+- As the VIC System, I will provide a Header titled: "Personal Details" in the Personal tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "First Name:" in the Personal tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the first name of the associated Veteran collected from Vets.gov as "Read Only" in the Personal tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Last Name:" in the Personal tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the last name of the associated Veteran collected from Vets.gov as read only in the Personal tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Branch of Service:" in the Personal tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Character of Service:" in the Personal tab of the VA ID Card Home Page.
+- As the VIC System, If there is a tab to the right of the current tab, I will provide a Button titled "Next" on the VA ID Card Home Page.
+- As the VIC System, when the Veteran selects "Next" Button of the VA ID Card Home Page, I will present the Veteran with the Tab to the right of the Current tab.
+- As the VIC System, if there is a tab to the left of the current tab, I will provide a Button titled "Back" on in the VA ID Card Home Page.
+- As the VIC System, when the Veteran selects "Back" Button of the VA ID Card Home Page, I will present the Veteran with the Tab to the Left of the Current tab.
+- As the VIC System, I will provide a tab titled: "Address" on the VA ID Card Home Page in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a Header titled: "Address Details" in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Street:" in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the Street Address of the associated Veteran collected from Vets.gov as Editable in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "City:" in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the City of the associated Veteran collected from Vets.gov as Editable in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "State:" in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the State associated with Veteran collected from Vets.gov as Editable in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Zip Code:" in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the Zip Code associated with the Veteran as collected from Vets.gov as Editable in the Address tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a tab titled: "Contact" on the VA ID Card Home Page.
+- As the VIC System, I will provide a Header titled: "Contact Information" in the Contact tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Email:" in the Contact tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the Email address of the associated Veteran collected from Vets.gov as Editable in the Contact tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Phone:" in the Contact tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the Phone number of the associated Veteran collected from Vets.gov as Editable in the Contact tab of the VA ID Card Home Page.
+- As the Veteran, I need the ability Upload a Valid Government Issued identification such as Driver‰Ûªs license, state issued identification card or Passport.
+- As the Veteran, I need the ability Upload a second Photo to be Used on my VA ID Card which comply with the following: The uploaded images must be of the same person who is in the valid ID; must be in color, must be 2 x 2 inches in size; must be taken within the last 6 months; must be full front view of face with a neutral expression and both eyes open, must provide visibility of the face, head and shoulders without cropping any portion of the head or shoulders; must not contain eyeglasses and sunglasses, hats or head covering (unless the individual submits a letter that it is traditional religious attire) have been removed; must have full visibility of the face with no shadows or obscured hairline; must not have visible headphones or wireless hands-free devices; must be taken on plain white paper of off-white background.
+- As the VIC System, I will provide a tab titled: "Upload Images" on the VA ID Card Home Page.
+- As the VIC System, I will provide a statement titled: "Photo Requirements " in the Upload Images tab of the VA ID Card Home Page.
+- As the VIC System, I will display the following statement under the Photo Requirements Header in the Upload Images tab of the VA ID Card Home Page: The uploaded images must be the following: Of the same person, Be in color. Color pictures should be 2 x 2 inches in size.  Sized such that the top of the head and the neck or sides of the face are not cropped (this is the typical size of a passport photo), Be taken within the last 6 months. It must be full front view of face with a neutral expression and both eyes open, Provide visibility of the face, head and shoulders without cropping any portion of the head or shoulders, Not contain eyeglasses and sunglasses, hats or head covering (unless the individual submits a letter that it is traditional religious attire) have been removed, Have full visibility of the face with no shadows or obscured hairline, Not have visible headphones or wireless hands-free devices, Be taken on plain white paper of off-white background.
+- As the VIC System, I will provide a tab titled: "Upload Images" in the Upload Images tab of the VA ID Card Home Page.
+- As the VIC System, I will display the following statement under the Photo Requirements Header in the Upload Images tab: "Please click to upload a copy of a valid government issued ID".
+- As the VIC System, I will provide a Button titled: "+ Please Click to Upload a Photo Id" in the Upload Images tab of the VA ID Card Home Page.
+- As the VIC System, when the Veteran selects the "+ Please Click to Upload a Photo Id" button in the Upload Images tab of the VA ID Card Home Page, I will allow them to upload a photo.
+- As the VIC System, I will display the following statement under the Photo Requirements Header in the Upload Images tab of the VA ID Card Home Page: "Please Click to Upload a valid Photo to Print on the Card"
+- As the VIC System, I will provide a Button, in the Upload Images tab of the VA ID Card Home Page, titled: "+ Please Click to Upload a Valid Photo to Print on the Card"
+- As the VIC System, After the Veteran selects the Valid Photo for use on the VA ID Card, I will allow the Veteran to Upload or Cancel in the Upload Images tab of the VA ID Card Home Page.
+-As the VIC System, I will provide a tab titled: "Submit Request" on the VSP Home Page.
+- As the VIC System, I will provide a Header titled: "Please click Request Card to complete the process" in the Submit Request tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "First Name:" in the Submit Request tab of the VA ID Card Home Page.
+- As the VIC System, I will provide a sub header titled "Last Name:" in the Submit Request tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the Last Name of the associated Veteran collected from Vets.gov as read only in the Submit Request tab of the VA ID Card Home Page.
+- As the VIC System, I will provide the a button titled "Request Card" button in the Submit Request tab of the VA ID Card Home Page.
+- As the VIC System, when the Veteran selects the "Click Request Card" button in the Submit Request tab of the VA ID Card Home Page, I will send the Request for the VA ID Card to the queue of the VIC Support Personnel.
+- As the VIC System, I will give the VIC Support Personnel with the ability to cancel out of any screen be returned to the previous Screen all the way to the VIC Log in screen.
+- As the VIC System, I will display the following statement at the top of the VIC Support Personnel Home Page: "This U.S. Government system is intended for official and authorized use only by authorized users with no reasonable expectation of privacy.
+As the VIC System, I will display the following statement on the VIC Support Personnel Home Page: "Please review the images and data below."
+- As the VIC System, I will display a Record row in the Table on the VIC Personnel Support Home Page for each Veteran who has requested a VA ID Card.
+- As the VIC System, the record information in the EDIPI Column will be a Read only Unique Record Identifier generated by the VIC System on the VIC Support Personnel Home Page.
+- As the VIC System, each VIC request submittted will display the First Name field as read only in the queue on the VIC Support Personnel Home Page.
+- As the VIC System, each VIC request submitted will display the Last Name Column as read only in the queue on the VIC Support Personnel Home Page.
+- As the VIC System, the record information in the Veterans Request Date Column will be the read only Date the VA ID Card was requested of the Veteran associated with the Record on the VIC Support Personnel Home Page.
+- As the VIC System, the record information in the Start Review Column will be an active action button of the Veteran associated with the Record.
+- As the VIC Support Personnel, I need the ability to Perform the review of the Veteran's request for a VA ID Card.
+- As the VIC System, when the VIC Support Personnel User selects the "Start Review" button, I will display the VIC request for review of the Veteran's record.
+- As the VIC System, I will display the following statement on the VIC Support Personnel Landing Page: "Please review the images and data below prior to clicking Print Card."
+- As the VIC System, I will provide a tab titled: "Personal" on the VIC Personnel Landing Page.
+- As the VIC System, I will provide a Header titled: "Personal Details" in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "First Name:" in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the first name of the associated Veteran collected from Vets.gov as Read Only in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Last Name:" in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the last name of the associated Veteran collected from Vets.gov as Read Only in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Branch of Service:" in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Character of Discharge of the associated Veteran collected from Vets.gov as Read Only in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Character of Discharge:" in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, if there is a tab to the right of the current tab, I will provide a Button titled "Next" on the VIC Support Personnel Landing Page.
+- As the VIC System, when the Veteran selects "Next" Button on the VIC Support Personnel Landing Page I will present the veteran with the Tab to the right of the Current tab.
+- As the VIC System, if there is a tab to the left of the current tab, I will provide a Button titled "Back" on the VIC Support Personnel Landing Page.
+- As the VIC System, when the VSP selects "Back" Button on the VIC Support Personnel Landing Page, I will present the Tab to the Left of the Current tab.
+- As the VIC System, I will provide a tab titled: "Address" on the VIC Personnel Landing Page.
+- As the VIC System, I will provide a Header titled: "Address Details" in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Street:" in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Street Address of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "City:" in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the City of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "State:" in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the State of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Zip Code:" in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Zip Code of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a tab titled: "Contact" on the VIC Personnel Landing Page.
+- As the VIC System, I will provide a Header titled: "Contact Information" in the Contact tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Email:" in the Contact tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Email address of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Phone:" in the Contact tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Phone number of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Contact tab page on the VIC Support Personnel Landing Page.
+- As the VIC Support Personnel, I need the date the current status was changed to be displayed in the queue.
+- As the VIC System, I will provide a tab titled: "Submit Request" on the Veterans Support page.
+- As the VIC System, I will provide a Header titled: "Submit Request" in the Submit Request tab page.
+- As the VIC System, I will provide a sub header titled "First Name:" on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the first name of the associated Veteran collected from Vets.gov or as entered by the Veteran as Read Only in the Personal tab page on the Veteran Landing Page.
+- As the VIC System, I will provide a sub header titled "Last Name:" on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the last name of the associated Veteran collected from Vets.gov or as entered by the Veteran as Read Only in the Personal tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Branch of Service:" on the Confirmation tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Branch of Service of the associated Veteran collected from Vets.gov or as selected by the Veteran as Read Only in the Submit Request tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Character of Discharge:" on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Character of Discharge of the associated Veteran collected from Vets.gov as Read Only in the Submit Request tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Street:" on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "State:" on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the City of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "State:" on the Confirmation tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Zip Code:" on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Zip Code of the associated Veteran collected from Vets.gov or as entered by the Veteran as editable in the Address tab page on the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Email address in an editable format of the associated Veteran collected from Vets.gov on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Email address in an editable format of the associated Veteran collected from Vets.gov on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a sub header titled "Phone:" on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide the Phone number of the associated Veteran collected from Vets.gov as Read Only on the Submit Request tab of the VIC Support Personnel Landing Page.
+- As the VIC System, I will provide a button, on the Submit Request tab of the VIC Support Personnel Landing Page, titled: "Approve Print".
+- As the VIC System, I shall work in the following web browsers: Internet Explorer.
+- As the Vets.gov System, I will direct the Veteran to the VIC Home page after successful login.
+- As the VIC System, I will present the following Statement on the Home Page: "Choose VA".
+- As the VIC System, I will present the following Statement on the Home Page: "The Veteran Identification Card (VIC) serves as proof of service in the United States Armed Forces.".
+- As the VIC System, if the Veteran Accepts the VA ID Card after Preview, I will display the "Submit Request" tab to the Veteran.
+- As the VIC System, I will present the following message to the Veteran: "The card has been submitted for review for: (Insert name of veteran) You will receive an update of your card status via email within 14 business days." after the data is successfully submitted from the selection of the "Request Card" button.
+- As the VIC System, I will provide a Header Titled: "Approval Requirements and Process" on the VIC Support Personal Landing Page.
+- As the VIC System, I will provide the statement following the Header Titled: "Approval Requirements and Process" on the VIC Support Personal Landing Page: The photo must be a valid government issued identification (DriverÌ¢‰âÂ‰ã¢s license, state issued identification card or Passport), The uploaded images must be of the same person, The image must be in color, The image must be taken within the time range of the photo ID, The image must provide visibility of the face, head and shoulders without cropping any portion of the head or shoulders, The image must not contain sunglass, The image must not contain a hat.
+- As the VIC System, I will provide a Header Titled: "Disapproval Requirements and Process" on the VIC Support Personal Landing Page.
+- As the VIC System, I will provide the statement following the Header Titled: "Disapproval Requirements and Process" on the VIC Support Personal Landing Page: Any failure to meet the approval requirements, A character of discharge issue.
+- As the VIC System, I will provide a Header Titled: "Card Request Status:" following the "character of discharge issue." statement on the VIC Support Personal Landing Page.
+- As the VIC System, I will provide current status of the VA ID Card request following the Header Titled: "Card Request Status:" on the VIC Support Personal Landing Page as Read Only.
+As the VIC System, I will display the Government ID Photo and the Photo the Veteran wants on his VA ID card to the VIC Support Personnel.
+- As the VIC Help Desk Support Personnel, I need to have a User Role in the VIC System which allows me to view all of the information for all the Requests as Read Only.
+- As the VIC System, If the Vets.gov System sends one of the following characters of discharge: Dishonorable, Other Than Honorable , Bad Conduct, Dishonorable, for a period of service and there are no other periods of service which shows a qualifying character of discharge, I will do the following
+- As the VIC System, If the Vets.gov System sends one of the following characters of discharge: "Uncharacterized" or "Unknown", for a period of service and there are no other periods of service which shows a qualifying character of discharge, I will do the following
+- As a VIC Personnel Support User, if the Veteran selects the "Click Card Preview" button and no Images were uploaded, I need the VIC System to display the following message to the Veteran: "Before you can preview the VIC ID Card, please upload the two image
+Release 2
+- As a Veteran User, on the Veteran Home Page, I need the current title of the Submit Request tab to be changed to Submit Request.
+- As a Veteran User, I need the previewed version of the front of the VA ID Card being displayed to contain a watermark of "Pending".
+- As the VIC System, I will have a title 38 status field added in digital signature.
+- As a Developer, I need to ensure that upon logout the user session is terminated.
+
+
+# Release 3
+- As the VIC System, I need the following statuses will be used through the life cycle of the Processing of the Veteran's VA BDC Card: "New", "Pending", "Ineligible", "Approved", "Mailed", "Additional Information Needed", "Sent to printer".
+- As the VIC support Personnel, I need the ability to Approve, Deny or select Additional Information Needed on the VA BDC Card Request after my review.
+- As the VIC System, I will make a digital version of the VIC Card available to the Veteran in printable form.
+- As the VIC System, I will place the status the request for the VIC ID Card to "Additional Information Needed" after the VIC Support Personnel has Selected "Additional Information Needed" on the Submit Request Tab.
+- As the VIC Application, I need to be 508 Compliant
+- As the VIC System, when the VIC Support Personnel selects the "Approve Print" button on the Submit Request tab of the VIC Support Personnel Landing Page, I will change the status of the request from "Pending" to "Approved".
+
+*draft*
+- As a Veteran, I would like to be able to request a VA BDC Card immediately upon discharge from the the United States military so long as I meet the Discharge Elibility criteria (honorable and under honorable condition).
+- As the VIC Application, I need to be able to minimize duplication of veterans having more than one card by not allowing the Veteran to obtain A VA ID Card if they currently have meet the requirements for a Veterans Health ID Card (VHIC) or retirement card issued by the Department of Defense (DoD). (Per Shimiki Ross 08/23/17 - Agree. Need to document business rules. SC redirect to VHIC. Retired redirect to DoD portal. There is one set of individuals who are 0% SC and do not qualify for the VHIC card. I need to find out more information on that so that we can make sure we do not deny them.)
+- As the VIC System, If it is determined that the issuing a VA BDC Card to the Veteran would result in being a duplicate, I need to be able to deny the request for the VA Card.
+- As the VIC System, I will need the VIC ID Card mailed to the Veteran in a VA Approved envelope which includes the VA seal and return address.
+- As a VIC Support Personnel, I need to be able to perform Administrator functions.
+- AS VIC Support Personnel, I need the ability to sort work items listed in my queue by first name, last name, or request date.
+- As a VIC Support Personnel (VSP), I need the ability to enter notes in the requests.
+- As the VIC System, I need the back of the VA BDC Card to display the following: Saluting you today and every day; Thanks for taking care of business; Vendor Logo; For Veterans experiencing a crisis contact the  Veterans Crisis Line at: 1-800-273-8255  Press 1.
+- As the VIC System, when the VIC Support Personnel selects the "Approve Print" button on the Confirmation tab of the VIC Support Personnel Landing Page, I will send the VA ID Card information to the Vendor for Printing and Mailing.
+- As the VIC Support Personnel, when I select the "Deny Print" button on the Confirmation tab of the VIC Support Personnel Landing Page, the VIC System will set the status of the Request to "Ineligible".
+- As the VIC system I will automatically bypass the verification screens in the VSP portal and process VIC request that meet all of the conditions listed below and present the VSP with the Photo Validation screen:
+- As the VIC System, I will format the Email fields in accordance with the industry standard Email formatting standards.
+- As the VIC System, I will format the Phone number fields in accordance with the industry standard Phone number formatting standards.
+- As the VIC System, I will obtain a Report 2 Times daily from the from the Vendor regarding the number of VIC ID Cards which have a status of "Mailed" from the previous evening till the current morning or from the current morning to the current evening.
+- As a Developer, I need Vets.gov to send the following data for individuals that served in Army Reserve, the Navy Reserve, the Marine Corps Reserve, the Air Force Reserve, the Coast Guard Reserve, or the Army National Guard of the United States, or the Air
+- As a Developer, I need Vets.gov to send the following data for individuals that have a character of discharge of uncharacterized unknown and that served in Army, the Navy, the Marine Corps, the Air Force, the Coast Guard of the United States the data elements listed below: guardReservePeriodStartDate, guardReservePeriodEndDate, guardReservePeriodChar acterOfServiceCode.
+- As a Veteran, if I am a member of the Public Health Service (PHS) or National Oceanic Atmospheric and Administration (NOAA) I need the ability to request a VIC.
+- As a Veteran, If I am a member of the PHS or NOAA that served on active duty and meet eligibility criteria, I need the ability to request a VIC.
+- As a Veteran, If I am a member of the PHS or NOAA that did not serve on active duty I need to be shown the following message: "We cannot proceed with your request. Our records show that you have a did not serve in the active military, naval, or air service. In order to qualify for the Veterans Identification Card must have served on active duty and  your character of discharge or service must be under other than dishonorable conditions.  If you believe this is an error, please call the Helpdesk at 1-855-574-7286. We‰Ûªre open Monday ‰ÛÒ Friday, 8:00 a.m. ‰ÛÒ 8:00p.m. (ET)"
+- As The VIC System, when the request for VIC Card has been sent to the printer, I need to do the following: 1. set the status of the request for the VIC Card to "Sent to Printer"; 2. send the following Email notification to the Veteran: ‰ÛÏThe status of your 
+- As The VIC System, when the request for VIC Card has been has been mailed, I need to do the following: 1. set the status of the request for the VIC Card to "Mailed"; 2. send the following Email notification to the Veteran: "If you do not receive your card 
+- As the VIC System, I will provide an "On Behalf of" Role so that a VA Representative can perform the task of requesting a VIC Card for a Veteran who cannot do it for themselves.
+
+
+# Release 4
+- As the VIC System, once the Request for VA ID Card status has been set to "Approved", I will send the associated data to the Vendor for printing and remove the "Pending" watermark.
+- As the VIC System, I will obtain a Report 2 Times daily from the from the Vendor regarding the number of VIC ID Cards which have a status of "Printed" from the previous evening till the current morning or from the current morning to the current evening.  
+- As the VIC Support Personnel, I need the VIC System to set the status of the request to "Mailed"å once the VIC System confirms that the card has been Mailed to the Veteran. 
+- As the VIC System, If the status of the request is in the status of "Additional information needed" for more than 60 days, I will place the status the request for the VIC ID Card to "Ineligible". 
+
+*draft*
+- As a Veteran, I would like to be able to request a VA BDC Card immediately upon discharge from the the United States military so long as I meet the Discharge Elibility criteria (honorable and under honorable condition).
+- As the VIC Application, I need to be able to minimize duplication of veterans having more than one card by not allowing the Veteran to obtain A VA ID Card if they currently have meet the requirements for a Veterans Health ID Card (VHIC) or retirement card issued by the Department of Defense (DoD). (Per Shimiki Ross 08/23/17 - Agree. Need to document business rules. SC redirect to VHIC. Retired redirect to DoD portal. There is one set of individuals who are 0% SC and do not qualify for the VHIC card. I need to find out more information on that so that we can make sure we do not deny them.)
+- As the VIC System, If it is determined that the issuing a VA BDC Card to the Veteran would result in being a duplicate, I need to be able to deny the request for the VA Card.
+- As the VIC System, I will need the VIC ID Card mailed to the Veteran in a VA Approved envelope which includes the VA seal and return address.
+- As a VIC Support Personnel, I need to be able to perform Administrator functions.
+- AS VIC Support Personnel, I need the ability to sort work items listed in my queue by first name, last name, or request date.
+- As a VIC Support Personnel (VSP), I need the ability to enter notes in the requests.
+- As the VIC System, I need the back of the VA BDC Card to display the following: Saluting you today and every day; Thanks for taking care of business; Vendor Logo; For Veterans experiencing a crisis contact the  Veterans Crisis Line at: 1-800-273-8255  Press 1.
+- As the VIC System, when the VIC Support Personnel selects the "Approve Print" button on the Confirmation tab of the VIC Support Personnel Landing Page, I will send the VA ID Card information to the Vendor for Printing and Mailing.
+- As the VIC Support Personnel, when I select the "Deny Print" button on the Confirmation tab of the VIC Support Personnel Landing Page, the VIC System will set the status of the Request to "Ineligible".
+- As the VIC system I will automatically bypass the verification screens in the VSP portal and process VIC request that meet all of the conditions listed below and present the VSP with the Photo Validation screen:
+- As the VIC System, I will format the Email fields in accordance with the industry standard Email formatting standards.
+- As the VIC System, I will format the Phone number fields in accordance with the industry standard Phone number formatting standards.
+- As the VIC System, I will obtain a Report 2 Times daily from the from the Vendor regarding the number of VIC ID Cards which have a status of "Mailed" from the previous evening till the current morning or from the current morning to the current evening.
+- As a Developer, I need Vets.gov to send the following data for individuals that served in Army Reserve, the Navy Reserve, the Marine Corps Reserve, the Air Force Reserve, the Coast Guard Reserve, or the Army National Guard of the United States, or the Air
+- As a Developer, I need Vets.gov to send the following data for individuals that have a character of discharge of uncharacterized unknown and that served in Army, the Navy, the Marine Corps, the Air Force, the Coast Guard of the United States the data elements listed below: guardReservePeriodStartDate, guardReservePeriodEndDate, guardReservePeriodChar acterOfServiceCode.-
+- As a Veteran, if I am a member of the Public Health Service (PHS) or National Oceanic Atmospheric and Administration (NOAA) I need the ability to request a VIC.
+- As a Veteran, If I am a member of the PHS or NOAA that served on active duty and meet eligibility criteria, I need the ability to request a VIC.
+- As a Veteran, If I am a member of the PHS or NOAA that did not serve on active duty I need to be shown the following message: "We cannot proceed with your request. Our records show that you have a did not serve in the active military, naval, or air service. In order to qualify for the Veterans Identification Card must have served on active duty and  your character of discharge or service must be under other than dishonorable conditions.  If you believe this is an error, please call the Helpdesk at 1-855-574-7286. We‰Ûªre open Monday ‰ÛÒ Friday, 8:00 a.m. ‰ÛÒ 8:00p.m. (ET)"
+- As The VIC System, when the request for VIC Card has been sent to the printer, I need to do the following: 1. set the status of the request for the VIC Card to "Sent to Printer"; 2. send the following Email notification to the Veteran: ‰ÛÏThe status of your 
+- As The VIC System, when the request for VIC Card has been has been mailed, I need to do the following: 1. set the status of the request for the VIC Card to "Mailed"; 2. send the following Email notification to the Veteran: "If you do not receive your card 
+- As the VIC System, I will provide an "On Behalf of" Role so that a VA Representative can perform the task of requesting a VIC Card for a Veteran who cannot do it for themselves.
+

@@ -1,0 +1,28 @@
+# P5
+
+- Vietnam 68-69. 
+  - Started out artillery, but got shifted to company clerk
+    - Moved up the Co/Bat/Div/HQ as clerk
+  - Filed in 2008-9
+    - Hypercalcemia
+    - Couldn't work
+    - At some point, catastrophically disabled
+      - Three months in rehab
+- I would sign in first
+  - By signing in you have things that are associated with you that might be available and you could pull in. You might want to have me sign in so you can look at my records, see who my primary care and specialists are.
+- I don't know what a VA file number is
+  - I'd try using my SSN
+- I don't know what would have happened if I’d clicked homelessness
+- I would edit the address unless it was just temporarily moving I would not edit
+  - I would hope that it would update across VA
+  - I don't want to have to update everywhere
+- I'm not sure what add a forwarding address means
+  - Maybe it's for snowbirds?
+- Can we make the screen bigger?
+- I've used ACH in business, I'm not concerned about it
+- Is Veteran’s Choice VA or Private?
+  - Because I don't know what would happen I would try both
+- Would everything on this page appear in a print out?
+  - You might want to move that please print this page further down the page
+- Expanding this out to mobile use would be great
+- ​

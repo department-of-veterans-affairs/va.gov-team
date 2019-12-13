@@ -1,0 +1,36 @@
+#### Notes below from a series (5 sessions) of pre-discovery meetings in May 2016 with EVSS / VRM team (Josh Q, Rebecca Pass, Trish Dang, Denise Kitts)
+
+
+- EVSS has approx. 80 “features” (existing functionality) in the following categories:
+  -   Forms
+  -   Downloadable letters
+  -   SSO links to DoD tools
+  -   SEP Platform
+  -   Claims and Appeals
+  -   C&P
+  -   Appointments
+  -   User Profile
+- EVSS has a “BRD” doc (Business requirements) that includes approx.. 276+ preliminary requirements (in Rational) submitted from VA stakeholders (none of these are based on Veteran user research.
+- EVSS has a “backlog” managed by SRA (in JIRA) of 972+ “backlog” items currently in development; many of these are defects / breakfix.
+- EVSS team is aggregating and analyzing this data based on Frog user concepts as a first pass to organize a way forward for migration.
+- Vets.gov team does not plan to take on any of these items unless there is Veteran data supporting the requirement. 
+- EVSS team is expected to fix items and address all security issues with their platform in 2016.
+- EVSS is expected to communicate the status of EVSS items to stakeholders irrespective of vets.gov in order to minimize confusion.
+- “dashboard” = “profile”
+- VSO’s use the SEP to do Veteran claims
+- Benefits explorer; there are multiple versions of this; 17 partners
+- VONAPP has security issues and is referred to as “legacy VONAPP”; it’s replaced w/ VDC Veteran Direct Connect, which is online interview process
+- VSOs do not want to do this interview portion
+- 526 C&P form has been split into 2 forms: 526 EZ Comp and 527 EZ Pen
+- several other forms are related to 526 and included in the VDC.
+- 3,500 SEP users
+- eBenefits Veteran email does not match VA corporate database.
+- There is no apparent reason for a “level 1” account; to do anything on eBenefits, users need a “premium” account.
+- Claim status is most used feature by Veterans.
+- VR&E uses a CMS for content  (CRM dynamics)
+- Letter generator functions—all error messages when we looked at it on 5/9.
+- There is currently a Veteran status “proof of service” that is a hard copy Veterans can use to verify their status; this is based on VADR data.
+- VA home loan form for housing eligibility is a fillable form.
+- Users have said they want to start on the homepage rather than the “user profile” page; VBA not happy w/ this experience either.
+- To download the DD214, Veterans have to use a system called PRIS
+- D2D “digits to digits” system used by VSOs (?)

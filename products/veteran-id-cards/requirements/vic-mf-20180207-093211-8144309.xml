@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="true"?>
+<MF_File version="1.1" xmlns="http://www.incepture.com.sc/MF_File">
+	<MFFileID>SOSJ0386_18</MFFileID>
+	<FileType>MF</FileType>
+	<FileDateTime>2018-02-07T10:32:14.140-05:00</FileDateTime>
+	<JobControlNumber>VICM0386_18</JobControlNumber>
+	<TotalPackages>2</TotalPackages>
+	<TotalSheetCount>2</TotalSheetCount>
+	<PrintCompleteDateTime>2018-02-07T07:11:00.000-05:00</PrintCompleteDateTime>
+	<InsertCompleteDateTime>2018-02-07T10:01:00.000-05:00</InsertCompleteDateTime>
+	<SortCompleteDateTime>2018-02-07T10:32:00.000-05:00</SortCompleteDateTime>
+	<Batch>
+		<PrintFileName>VICApprovedFile2HM.xml</PrintFileName>
+		<Package>
+			<CustomerPackageKey>20180127-72492</CustomerPackageKey>
+			<IncepturePackageKey>VICM0386000001Y </IncepturePackageKey>
+			<DispositionId>5</DispositionId>
+			<DispositionDescription>Insert Successful</DispositionDescription>
+			<SheetCount>1</SheetCount>
+		</Package>
+		<Package>
+			<CustomerPackageKey>20180129-78320</CustomerPackageKey>
+			<IncepturePackageKey>VICM0386000002Y </IncepturePackageKey>
+			<DispositionId>5</DispositionId>
+			<DispositionDescription>Insert Successful</DispositionDescription>
+			<SheetCount>1</SheetCount>
+		</Package>
+	</Batch>
+</MF_File>

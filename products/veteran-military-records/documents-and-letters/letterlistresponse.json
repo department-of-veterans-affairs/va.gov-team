@@ -1,0 +1,47 @@
+{
+   "letterDestination":    {
+      "addressLine1": "2476 MAIN STREET",
+      "addressLine2": "STE # 12",
+      "addressLine3": "West",
+      "city": "RESTON",
+      "country": "US",
+      "foreignCode": "865",
+      "fullName": "MARK WEBB",
+      "state": "VA",
+      "zipCode": "12345"
+   },
+   "letters":    [
+            {
+         "letterName": "Commissary Letter",
+         "letterType": "commissary"
+      },
+            {
+         "letterName": "Proof of Service Letter",
+         "letterType": "proof_of_service"
+      },
+            {
+         "letterName": "Proof of Creditable Prescription Drug Coverage Letter",
+         "letterType": "medicare_partd"
+      },
+            {
+         "letterName": "Proof of Minimum Essential Coverage Letter",
+         "letterType": "minimum_essential_coverage"
+      },
+            {
+         "letterName": "Service Verification Letter",
+         "letterType": "service_verification"
+      },
+            {
+         "letterName": "Civil Service Preference Letter",
+         "letterType": "civil_service"
+      },
+            {
+         "letterName": "Benefit Summary Letter",
+         "letterType": "benefit_summary"
+      },
+            {
+         "letterName": "Benefit Verification Letter",
+         "letterType": "benefit_verification"
+      }
+   ]
+}

@@ -1,0 +1,12 @@
+# Questions
+- Determining what data needs to propagate to SalesForce. E.g. right now we pass title38 status and discharge info to the VIC application site because they owned some of the eligibility logic, but if we enforce all the eligibility checks up front, is that information ever needed later in the process (e.g. for a human to review any gray-area cases). If that's not necessary, the only the info that is needed to actually print and ship the card needs to get passed on.
+- What eligibility checks do we need before allowing a user to submit a VIC application?
+- How do we deal with people wanting to know status of their application (if that continues to be a requirement)?
+- Can we control the validation for the Salesforce API (I.e. can we change the required specs for photo upload size?)?
+-  What data needs to be editable?
+   - Address (Definitely)
+   - Name (Yes)
+   - Phone (Yes)
+   - Discharge Status (Probably Not)
+- Do we need to allow user to crop their photos before submission?
+- Do photos need to be validated programmatically (AI) before submission based on certain requirements such as no hat or sunglasses?

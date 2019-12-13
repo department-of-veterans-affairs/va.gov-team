@@ -1,0 +1,803 @@
+CNTNTN_CLSFCN_ID,CNTNTN_CLSFCN_TXT, LAYMAN_DEF
+10,abnormal heart,
+20,abnormal mitral valve, abnormal mitral valve in heart
+30,abnormal weight loss,
+40,"abscess, brain", bacterial or fungal infection in a part of the brain
+50,"abscess, kidney", bacterial or fungal infection in a part of the kidney
+60,"abscess, liver",bacterial or fungal infection in a part of the liver
+70,acne,
+80,acromegaly,hormonal disorder causing excess growth hormone
+90,acute nonlymphocytic leukemia,
+110,adenocarcinoma,
+120,adenomyoepithelioma,
+130,adhesions, tough scar tissue
+140,aging,
+150,agoraphobia, afraid or in fear of crowded or public spaces
+160,AIDS, 
+170,alcohol abuse,
+180,allergies,
+190,ALS,
+200,alveolar abscesses,dental or tooth infection
+210,amebiasis,parasitic infection of the colon
+220,amputation,
+230,amputation - above knee,
+240,"amputation - arm, forearm, hand",
+250,amputation - below knee,
+260,amputation - foot (feet),
+270,amputation - leg(s),
+280,amputation - multiple fingers,
+290,amputation - single finger,
+300,amputation - toe (toes),
+310,amyotrophic lateral sclerosis, ALS
+320,anatomical loss, loss of a body part
+330,"anemia, primary",
+340,aneurysm,
+350,angina, chest pain
+360,"ankle condition, bilateral (both ankles)", ankle condition in both ankles
+370,"ankle condition, left",
+380,"ankle condition, right",
+390,ankle sprain,
+400,ankle strain,
+410,anxiety condition,
+420,"arm condition, bilateral (both arms)", arm condition in both arms
+430,"arm condition, left",
+440,"arm condition, right",
+450,arrhythmia, irregular heartbeat
+460,arteriosclerosis, hardening or thickening of arteries
+470,arteriosclerosis obliterans, blocked artery(ies)
+480,arteriosclerotic heart disease,hardening or thickening of arteries in heart
+490,arthritis,
+500,"arthritis, degenerative",
+510,"arthritis, due to trauma",
+520,asbestosis (asbestos disease),
+540,asthma,
+550,atherosclerosis, fat or cholesterol buildup in arteries
+560,atherosclerotic peripheral vascular disease,
+570,athlete's foot,
+580,"atrophy, progressive muscular",
+590,avitaminosis,vitamin deficiency
+600,back condition,
+610,back injury,
+620,back sprain,
+630,back strain,
+640,basaloma,skin tumor
+650,Bell's palsy,
+660,beriberi (including beriberi heart disease), thiamine deficiency
+670,bipolar disorder,
+680,birth defect in child, 
+690,blackwater fever,
+700,bladder condition,
+710,bladder stone(s),
+720,blindness (including light perception only),
+730,blood clot(s),
+740,Boeck's disease,
+750,bone atrophy,weakening of bones
+760,bone condition,
+770,bone fracture(s),
+780,bowel condition,
+790,brain hemorrhage,
+800,brain thrombosis,clot in brain's blood vessel
+810,brain tumor(s),
+820,"breast condition, bilateral (both)", breast condition in both breasts
+830,"breast condition, left",
+840,"breast condition, right",
+850,bronchiectasis,damaged airway from inflammation or infection
+860,bronchitis,
+870,bruise,
+880,Buerger's disease,
+890,bulbar palsy,
+900,burn(s),
+910,bursitis, inflammation near the joints
+920,CAD, coronary artery disease
+930,Caisson disease, decompression sickness
+940,calculus - bladder, bladder stones
+950,calculus - gallbladder, gallbladder stones
+960,calculus - kidney, kidney stones
+970,cancer, 
+980,cancer - bile ducts,
+990,cancer - bone,
+1000,cancer - brain,
+1010,cancer - breast,
+1020,cancer - bronchus,
+1030,cancer - cheek,
+1040,cancer - colon,
+1050,cancer - esophagus,
+1060,cancer - gall bladder,
+1070,cancer - gastrointestinal tract,
+1080,cancer - gum,
+1090,cancer - kidney,
+1100,cancer - larynx,
+1110,cancer - lip,
+1120,cancer - liver,
+1130,cancer - lung,
+1140,cancer - lymph nodes,
+1150,cancer - nasopharyngeal,
+1160,cancer - ovarian,
+1170,cancer - pancreas,
+1180,cancer - pharyngolaryngeal,
+1190,cancer - pharynx,
+1200,cancer - prostate,
+1210,cancer - rectum,
+1220,cancer - renal pelves,
+1230,Cancer - respiratory,
+1240,cancer - salivary gland,
+1250,Cancer - skin,
+1260,cancer - small intestine,
+1270,"cancer - squamous cell, of the skin",
+1280,cancer - stomach,
+1290,cancer - testicle,
+1300,cancer - thyroid,
+1310,cancer - tongue,
+1320,cancer - trachea,
+1330,cancer - ureters,
+1340,cancer - urethra,
+1350,cancer - urinary bladder,
+1360,cancer - urinary tract,
+1370,cancer - urogenital system (except prostate),
+1380,carate (also known as pinta), skin disease
+1390,carcinoma,
+1400,cardiovascular disease,
+1410,cardiovascular signs or symptoms,
+1420,carpal tunnel syndrome,
+1440,cataract,
+1450,"cataracts, posterior subcapsular",
+1460,catarrhal fever (common cold),
+1470,cavity,
+1480,central nervous system tumors,
+1490,cerebral accident,
+1500,cerebral hemorrhage,
+1510,cerebral vascular accident, stroke
+1520,cerebrovascular accident, stroke
+1530,cerebrovascular hemorrhage,stroke from ruptured blood vessel in brain
+1540,cervical sprain, neck sprain
+1550,cervical strain, neck strain
+1560,cervicitis, inflammation of cervix
+1570,CHF,congestive heart failure
+1580,chest pain,
+1590,Chloracne or other acneform disease consistent with chloracne, skin condition 
+1600,chloroma,acute leukemia
+1610,cholangiocarcinoma,bile duct cancer
+1620,cholangioma, bile duct tumor
+1630,cholangitis,bacterial infection of bile duct
+1640,cholecystitis,inflammation of gallbladder
+1650,cholera,diarrhea illness
+1660,choriocarcinoma,uterine cancer
+1670,choroiditis,inflammation of parts of the eye
+1680,chronic fatigue syndrome,
+1690,chronic lymphocytic leukemia,
+1700,chronic obstructive pulmonary disease,
+1710,chronic organic brain syndrome,
+1720,chronic renal or kidney disease,
+1730,cirrhosis of liver,
+1750,clots,
+1760,coccidiodomycosis, infection from soil fungus 
+1770,cold,
+1780,colitis, inflammation of inner colon lining
+1790,"colon syndrome, irritable", irritable bowel syndrome
+1800,combat fatigue,
+1810,combat neurosis,anxiety from traumatic events
+1820,comedocarcinoma,early-stage breast cancer
+1830,congestive heart failure,
+1840,conjunctivitis,pinkeye
+1850,cor pulmonale,pulmonary heart disease
+1860,corneal opacities, eye disorder from cornea scars
+1870,coronary,
+1880,coronary accident,
+1890,coronary artery bypass,
+1900,coronary artery disease,
+1910,costochondritis,inflammation of cartilage between rib and breastbone
+1920,Cushing's syndrome, hormonal disorder
+1930,CVA,stroke 
+1940,cyclitis,inflammation in middle part of eye
+1950,cylindroma,benign skin tumors in head or neck
+1960,cyst,
+1970,cystitis, bladder infection  
+1990,degenerative arthritis,
+2000,dehydration,
+2010,dementia,
+2020,dental abscesses,
+2030,depression,
+2040,depressive neurosis,depression with unstable emotions
+2050,dermatitis,skin inflammation
+2060,diabetes,
+2070,diabetes insipidus,
+2080,diabetes mellitus,
+2090,diarrhea,
+2100,digestive disorder,
+2110,disarticulation,separation of bones at the joint
+2120,discoid lupus,autoimmune disease affecting the skin
+2130,diverticulitis,inflammation or infection of pouches in colon
+2140,dizziness,
+2150,dracontiasis,infection by the Guinea worm
+2160,dracunculiasis,infection by the Guinea worm (combine with above 'dracontiasi or dracunculiasis)
+2170,drug abuse,
+2180,dysentery,inflammatory intestine disease
+2190,dysthymic disorder,chronic depression
+2200,ear condition,
+2210,ear infection,
+2220,ears ringing,
+2230,eating disorder,
+2240,eczema,
+2250,"elbow condition, bilateral(both elbows)", elbow condition in both elbows
+2260,"elbow condition, left",
+2270,"elbow condition, right",
+2280,elbow sprain,
+2290,elbow strain,
+2300,embolism, blocking of an artery
+2310,"embolism, brain",
+2320,emphysema, lung condition
+2330,"encephalitis, lethargica residuals", form of brain inflammation
+2340,endocarditis,infection of endocardium in heart
+2350,endocrinopathy,disease of the endocrine gland
+2360,endometriosis,uterine lining tissue grows outside the uterus
+2370,endothelioma, 
+2380,enucleation, removal or loss of the eye
+2390,epididymitis,inflammation at back of testicles
+2400,epilepsy,
+2410,epithelioma,
+2420,erythematosus lupus,
+2430,esophageal condition,
+2440,"eye condition, bilateral (both eyes)", eye condition in both eyes
+2450,"eye condition, left",
+2460,"eye condition, right",
+2470,eye disease,
+2480,facial injury,
+2490,"fallen arches, bilateral (both arches)", fallen arches in both feet
+2500,"fallen arches, left",
+2510,"fallen arches, right",
+2520,fatigue,
+2540,fibromyalgia, pain disorder that causes muscle pain and tenderness in whole body
+2560,fibrosis,scarring of connective tissue
+2570,"fibrosis, interstitial pulmonary",
+2580,filariasis,parasitic disease from roundworm
+2600,"flatfoot, bilateral (both feet)", flat feet in both feet
+2610,"flatfoot, left",
+2620,"flatfoot, right",
+2630,flu,
+2640,flu-like conditions,
+2650,"foot condition, bilateral (both feet)", foot condition in both feet
+2660,"foot condition, left",
+2670,"foot condition, right",
+2680,foot pain,
+2690,"forearm condition, bilateral (both forearms)", forearm condition in both forearms
+2700,"forearm condition, left",
+2710,"forearm condition, right",
+2720,fracture(s),
+2730,"frostbite, organic residuals of",
+2740,frozen feet,
+2750,fungal condition,
+2760,gall bladder condition,
+2770,gallstone(s),
+2780,gangrene, dead tissue caused by an infection
+2790,gastritis, stomach inflammation
+2800,gastroenteritis,irritation or inflammation of stomach and intestines
+2810,gastrointestinal problems,
+2820,gastrointestinal signs or symptoms,
+2830,generalized arteriosclerosis,hardening of artery walls
+2840,genitourinary condition,
+2850,GERD,Gastroesophageal reflux disease
+2860,gingivitis,gum disease
+2870,"glaucoma, bilateral (both eyes)", damage to optic nerve in both eyes
+2880,"glaucoma, left",damage to optic nerve in left eye
+2890,"glaucoma, right",damage to optic nerve in right eye
+2900,glomerulonephritis, a type of kidney inflammation
+3000,gout, a form of inflammatory arthritis
+3010,grand mal epilepsy,
+3020,groin condition,
+3030,Gulf War Veteran with unexplained chronic multisymptom illness,
+3050,"gums, sore", sore gums
+3060,gynecological condition,
+3070,hair loss,
+3080,"hand condition, bilateral (both hands)", hand condition in both hands
+3090,"hand condition, left", 
+3100,"hand condition, right",
+3110,Hansen's disease,
+3120,head injury,
+3130,headaches,
+3140,hearing loss,
+3150,"hearing loss, sensorineural", 
+3160,heart attack,
+3170,heart condition,
+3180,heart disease,
+3190,heart failure,
+3200,heat stroke,
+3210,helminthiasis,parasitic worm infection
+3220,hematuria,blood in urine
+3230,hemic-lymphatic condition,blood and lymph condition
+3240,hemorrhage,ruptured blood vessel
+3250,hemorrhagic purpura idiopathic,excessive bruising or bleeeding
+3260,hemorrhoids,
+3270,hepatitis,
+3280,hepatocarcinoma,
+3290,hepatoma,
+3300,hernia condition,
+3310,"hernia, femoral",
+3320,"hernia, hiatal", stomach hernia
+3330,"hernia, inguinal", groin hernia
+3360,herpes,
+3370,high blood pressure,
+3380,"hip condition, bilateral (both hips)", hip condition in both hips
+3390,"hip condition, left", hip condition in left hip
+3400,"hip condition, right", hip condition in right hip
+3410,HIV, 
+3420,Hodgkin's disease,
+3430,human immunodeficiency virus,
+3440,hypercholesterolemia,high cholesterol levels in blood
+3450,hyperlipidemia,high levels of fats in blood
+3460,hypertension,high blood pressure
+3470,hyperthyroidism,overactive thyroid
+3480,hypothyroidism,underactive thyroid
+3490,hypovitaminosis,vitamin deficiency
+3500,hysterectomy,removal of uterus
+3510,immune disorder,
+3520,infarction,death of tissue from loss of blood supply
+3530,infection(s),
+3540,intestinal condition,
+3550,involutional changes,age-related changes
+3560,iritis,inflammation of iris in eye
+3570,irritable bowel syndrome,
+3580,irritable colon,
+3590,jaw condition,
+3600,joint disease,
+3610,joint pains,
+3620,kala azar,black fever 
+3630,keratitis,inflammation of cornea in eye
+3640,kidney disease,
+3650,kidney failure,
+3660,kidney stone(s),
+3670,kidney transplant,
+3680,"kidney, removal of",
+3690,"knee condition, bilateral (both knees)", knee condition in both knees
+3700,"knee condition, left", knee condition in left knee
+3710,"knee condition, right", knee condition in right knee
+3720,knee sprain,
+3730,knee strain,
+3740,labyrinthitis,inner ear disorder
+3750,laryngectomy,removal of larynx or voice box
+3760,laryngitis,inflammation of larynx or voice box
+3770,larynx condition,voice box condition
+3780,"leg condition, bilateral (both legs)", leg condition in both legs
+3790,"leg condition, left", leg condition in left leg
+3800,"leg condition, right", leg condition in right leg
+3810,leishmaniasis, parasitic disease from a sandfly
+3820,leprosy,bacterial infection of skin
+3830,leukemia,
+3840,leukosarcoma,
+3850,liver condition,
+3860,loiasis,parasitic infection from an African eyeworm
+3870,loose teeth,
+3890,Lou Gehrig's disease,
+3900,lower back condition,
+3910,lower back sprain,
+3920,lower back strain,
+3930,lumbar sprain,
+3940,lumbar strain,
+3950,lung condition,
+3960,lupus,
+3970,"lupus, discoid",autoimmune disease affecting skin
+3980,"lupus, erythematosus",systemic lupus 
+3990,"lupus, systemic",
+4000,Lyme disease,
+4010,lymphogranulomatosis,Hodgkin's lymphoma
+4020,Lymphoma - except Hodgkin's disease,
+4030,lymphomas,
+4040,lymphosarcoma,
+4050,major depression,
+4060,malaria,
+4080,malignant leiomyblastoma,
+4090,malignant neoplasm,
+4100,malignant tumor(s),
+4110,malnutrition,
+4120,manic-depressive reaction,
+4130,mastoiditis,bacterial infection of inner and middle ear
+4140,melanocarcinoma,
+4150,melanoepithelioma,
+4160,melanoma, type of skin cancer
+4170,"melanoma, malignant",
+4180,melanosarcoma,
+4190,melanoscirrhus,
+4200,memory loss,
+4210,Meniere's disease, inner ear disorder causing vertigo and ringing in ears
+4220,menstrual disorders,
+4230,mental disease,
+4240,mental disorder,
+4250,mesenchymoma,
+4260,mesonephroma,
+4270,mesotheliomas of peritoneum,
+4280,mesotheliomas of pleura,
+4290,metritis,inflammation of uterus
+4300,migraine,
+4310,Morton's disease,
+4320,mouth condition,
+4330,multiple sclerosis, MS
+4340,muscle atrophy, wasting away of muscles
+4350,muscle condition,
+4360,muscle injury,
+4370,muscle pain,
+4380,musculoskeletal condition,
+4390,myasthenia gravis, autoimmune disease that causes muscle weakness and tiredness
+4400,Mycosis fungoides, Alibert-Bazin syndrome or cutaneous T-cell lymphoma
+4410,myelitis (a spinal cord condition), inflammation of the spinal cord
+4420,myeloma, cancer of the plasma cells
+4430,"myeloma, multiple", cancer in the bone marrow
+4440,myocardial infarction (MI), heart attack
+4450,myocarditis, inflammation of the heart muscle
+4460,myositis, inflammation of the muscles
+4470,myxosarcoma, malignant heart tumor
+4480,nausea,
+4490,neck condition,
+4500,neck sprain,
+4510,neck strain,
+4520,"neoplasm(s), benign", abnormal mass of tissue (not cancerous)
+4530,"neoplasm(s), malignant", abnormal mass of tissue (cancerous)
+4540,nephritis, inflammation of the kidneys
+4550,nerve damage,
+4560,nerve deafness, hearing loss due to damage to the cochlea 
+4580,nervous system disease,
+4590,nervousness,
+4600,neuralgia, sharp pain from damaged or irritated nerves
+4610,neuritis, inflammation of a peripheral nerve 
+4620,neurologic signs or symptoms,
+4630,neurological disorder,
+4640,"neuropathy, peripheral", pain and nerve damage beyond the brain and spine
+4650,neuropsychological signs or symptoms,
+4660,"new growths, malignant", new growths (cancerous)
+4670,niacin deficiency,
+4680,Non-Hodgkin's lymphoma (NHL),
+4690,non-specific digestive complaints,
+4700,non-specific ear condition,
+4710,non-specific genitourinary complaints,
+4720,non-specific gynecological complaints,
+4730,non-specific nervous complaints,
+4740,non-specific neurological complaints,
+4750,non-specific orthopedic claims,
+4760,non-specific respiratory condition,
+4770,nose condition,
+4780,nutritional deficiency,
+4790,OBS, organic brain syndrome
+4800,onchocerciasis, river blindness
+4810,oophoritis, inflammation of an ovary
+4820,optic atrophy associated with malnutrition, vision loss due to malnutrition
+4830,organic brain syndrome, neurocognitive disorder
+4840,organic diseases of the nervous system,
+4850,organic heart disease,
+4860,oroya fever, Carrion's disease
+4870,orthopedic condition,
+4880,Osgood Schlatter disease, knee pain
+4890,osteitis deformans (Paget's disease), chronic bone disorder
+4900,"osteoarthritis, post-traumatic", trauma causing the cartilage in the joint to wear away
+4910,osteomalacia, softening of the bones
+4920,otitis externa,swimmer's ear
+5000,otitis media, ear pain and inflammation of the middle ear 
+5010,otosclerosis,disease of the bones of the middle and inner ear
+5020,"ovarian condition, bilateral (both ovaries)", ovarian condition in both ovaries
+5030,"ovary (disease, injury, or adhesions of)", disease or injury of the ovary
+5040,ovary (removal of), removal of the ovary
+5050,painful joints,
+5060,palsy,paralysis and involuntary tremors
+5070,"palsy, bulbar", problems controlling muscles in the face
+5080,pancreatitis,inflammation in the pancreas
+5090,paralysis,loss of muscle function in part of your body
+5100,paralysis agitans,Parkinson's disease
+5110,"paralysis, nerve",
+5120,paranoid reaction,gradual formation of delusions
+5130,parasites,
+5140,parathyroid adenoma,benign tumor of the parathyroid gland
+5150,parenchymal lung disease, interstitial lung disease 
+5160,Parkinson's disease, tremors or stiffness of movement 
+5170,pellagra,dementia diarrhea and dermatitis
+5180,penile condition,
+5190,peptic ulcer disease, stomach ulcer 
+5200,pericarditis,swelling and irritation of the pericardium
+5210,periodontal disease (pyorrhea),gum disease
+5220,periostitis,shin splints
+5230,peripheral neuropathy,damage to the peripheral nerves 
+5240,"peripheral neuropathy, acute and subacute", weakness or pain in the hands and feet
+5250,peripheral vascular disease, circulatory condition 
+5260,peritonitis, inflammation of the peritoneum (membrane that lines the inner abdominal wall and covers the abdominal organs)
+5270,personality disorder, mental disorder with unstable moods and behavior 
+5280,petit mal epilepsy,Absence seizures with brief sudden lapses of consciousness
+5290,pharyngeal condition,throat problems
+5300,phlebitis, inflammation of a vein
+5310,phobias,an extreme or irrational fear of or aversion to something
+5320,pinta,skin disease
+5330,plague,
+5340,plantar fasciitis, stabbing foot pain or heel pain
+5350,pleural effusions, unusual amount of fluid around the lung
+5360,pleural plaques, asbestos exposure causing scarring in the lungs
+5370,pleurisy, inflammation of the tissue that lines the lung and chest cavity
+5380,pneumocystis carini pneumonia, lung infection that can affect people with weakened immune systems
+5390,pneumonia,
+5400,polymyositis,a rare form of arthritis that causes muscle weakness and pain
+5410,porphyria cutanea tarda (PCT) (a skin condition), skin condition with painful blistering lesions
+5420,PTSD (posttraumatic stress disorder),
+5430,posterior subcapsular cataracts,cataract on the back surface of the lens beneath the lens capsule
+5440,"pregnancy, surgical complications of", complications from surgical pregnancy
+5450,primary anemia,
+5460,progressive muscular atrophy,
+5470,"prostate gland (injuries, infections, hypertrophy)",
+5480,psoriasis, skin condition that results in scales and itchy dry patches
+5490,psychomotor epilepsy,
+5500,psychophysiological disorder,
+5510,psychoses, 
+5520,psychosis, severe mental disorder that results in a disconnection from reality
+5530,psychotic depressive reaction, 
+5540,psychotic reaction,
+5550,"purpura idiopathic, hemorrhagic", autoimmune disease that can lead to easy or excessive bruising and bleeding
+5560,Raynaud's disease,
+5570,rectal bleeding,
+5580,removal of kidneys,
+5590,renal disease, kidney disease
+5600,renal failure, kidney failure
+5610,respiratory complaints,
+5620,Reticulum cell sarcoma,
+5630,retina (detachment of), detached retina
+5640,"retina (scars, atrophy, or irregularities of)", 
+5650,retinitis,inflammation of the retina
+5660,rheumatic fever,
+5670,rheumatic heart disease,
+5680,rheumatism, inflammation in the joints
+5690,rhinitis, stuffy nose
+5710,ringing in ears,
+5720,"saliva, thickened",
+5730,salpingitis, inflammation of the fallopian tubes
+5740,sarcoidosis,
+5750,sarcoma, tumor in the bones or soft tissue
+5760,"sarcoma, reticulum cell",
+5770,"sarcoma, soft-tissue",
+5780,"sarcoma, soft-tissue - adult fibrosarcoma",
+5790,"sarcoma, soft-tissue - alveolar soft part sarcoma",
+5800,"sarcoma, soft-tissue - angiosarcoma",
+5810,"sarcoma, soft-tissue - chondrosarcoma",
+5820,"sarcoma, soft-tissue - clear cell, of tendons and aponeuroses",
+5830,"sarcoma, soft-tissue - congenital fibrosarcoma",
+5840,"sarcoma, soft-tissue - dermatofibrosarcoma protuberans",
+5850,"sarcoma, soft-tissue - ectomesenchymoma",
+5860,"sarcoma, soft-tissue - epithelioid leiomyosarcoma",
+5870,"sarcoma, soft-tissue - epithelioid sarcoma",
+5880,"sarcoma, soft-tissue - extraskeletal Ewing's sarcoma",
+5890,"sarcoma, soft-tissue - fibrosarcoma",
+5900,"sarcoma, soft-tissue - hemangiosarcoma",
+5910,"sarcoma, soft-tissue - infantile fibrosarcoma",
+5920,"sarcoma, soft-tissue - Kaposi's sarcoma",
+5930,"sarcoma, soft-tissue - leiomyosarcoma",
+5940,"sarcoma, soft-tissue - liposarcoma",
+5950,"sarcoma, soft-tissue - lymphangiosarcoma",
+5960,"sarcoma, soft-tissue - malignant fibrous histiocytoma",
+5970,"sarcoma, soft-tissue - malignant ganglioneuroma",
+5980,"sarcoma, soft-tissue - malignant glomus tumor",
+5990,"sarcoma, soft-tissue - malignant granular cell tumor",
+6000,"sarcoma, soft-tissue - malignant hemangiopericytoma",
+6010,"sarcoma, soft-tissue - malignant leiomyoblastoma",
+6020,"sarcoma, soft-tissue - malignant mesenchymoma",
+6030,"sarcoma, soft-tissue - malignant schwannoma",
+6040,"sarcoma, soft-tissue - malignant Triton tumor",
+6050,"sarcoma, soft-tissue - mesothelioma",
+6060,"sarcoma, soft-tissue - osteosarcoma",
+6070,"sarcoma, soft-tissue - proliferating angioendotheliomatosis",
+6080,"sarcoma, soft-tissue - rhabdomyosarcoma",
+6090,"sarcoma, soft-tissue - synovial sarcoma",
+6100,"sarcoma, soft-tissue - synovioma, malignant",
+6110,"sarcoma,soft-tissue-malignant giant cell tumor/tendon sheath",
+6130,scar formation,
+6140,scar(s),
+6150,"scar(s), burns",
+6160,schistosomiasis, parasitic disease
+6170,schizophrenia,
+6180,"schwannoma, epitheloid, malignant",
+6190,"schwannoma, glandular, malignant",
+6200,"schwannoma, malignant with rhabdomyoblastic differentiation",
+6210,scleritis, inflammatory eye disease
+6220,scleroderma, hardening or tightening of the skin
+6230,sebaceous cyst, non-cancerous bump on the skin
+6240,seizure disorder,
+6250,seminoma,
+6260,shell shock,
+6270,shin splints,
+6280,shortness of breath,
+6290,"shoulder condition, bilateral (both shoulders)", shoulder condition of both shoulders
+6300,"shoulder condition, left",
+6310,"shoulder condition, right",
+6320,shoulder replacement,
+6330,shoulder sprain,
+6340,shoulder strain,
+6350,sickle cell anemia,
+6360,signs or symptoms involving cardiovascular system,
+6370,signs or symptoms involving digestive system,
+6380,signs or symptoms involving nervous system,
+6390,signs or symptoms involving respiratory system,
+6400,signs or symptoms involving skin,
+6410,sinus condition,
+6420,sinusitis,
+6430,skin condition, 
+6440,sleep apnea,
+6450,sleep disturbances,
+6460,"smell, loss of sense of", no sense of smell
+6470,spine,
+6480,spleen condition,
+6490,sprains,
+6500,Sternberg's sarcoma,
+6510,stomach condition,
+6530,strains,
+6540,strep throat,
+6550,stress,
+6560,stress disorder,
+6570,stroke,
+6590,"surgery, residuals",
+6600,synoviosarcoma,
+6610,synovitis, inflammation of the synovial membrane
+6620,syphilis,
+6630,syringomyelia, cyst in the spinal cord
+6640,systemic lupus,
+6650,"taste, loss of sense of", no sense of taste
+6660,tendinitis,
+6670,tendonitis,
+6680,tenosynovitis,
+6690,"testicular condition, bilateral (both testicles)", testicular condition of both testicles
+6700,"testicular condition, left", testicular condition left testicle
+6710,"testicular condition, right", testicular condition right testicle
+6720,thiamine deficiency,
+6730,thigh condition,
+6740,thoracic sprain, 
+6750,thoracic strain,
+6760,throat condition,
+6770,"thromboangiitis, obliterans (Buerger's disease)",
+6780,thrombocytopenia, low blood platelet count
+6790,thrombocytopenic purpura,
+6800,"thrombosis, brain",
+6820,thyroid condition,
+6830,"thyroid nodular disease, non-malignant", non-cancerous lump in thyroid
+6840,tinea pedis, athlete's foot
+6850,tinnitus, ringing in the ears
+6870,tongue condition,
+6880,tooth condition,
+6890,Tuberculosis,
+6900,tumor(s) - malignant glomus,
+6910,tumor(s) - malignant granular cell,
+6920,tumors in brain,
+6930,tumors in central nervous system,
+6940,tumors - malignant,
+6950,tumors in peripheral nerves,
+6960,tumors in spinal cord,
+6970,ulcer condition,
+6980,Gulf War Veteran with undiagnosed illness,
+6990,Unemployability,
+7000,"uterus (disease, injury, or adhesions of)", disease or injury of the uterus
+7010,uterus (displacement of), displaced uterus
+7020,uterus (prolapse), uterine prolapse
+7030,uterus (removal of),
+7040,uveitis, inflammation of middle layer of eye
+7050,vaginal condition,
+7060,vaginitis,
+7070,valvular heart disease,
+7080,varicose veins,
+7090,vasectomy,
+7100,Vincent's stomatitis, trench mouth
+7120,visually impaired,
+7130,vitamin deficiency,
+7140,voice loss,
+7150,vulvovaginitis,
+7160,war neurosis, combat fatigue
+7170,wasting syndrome, ill health and weight and muscle loss
+7180,worms, intestinal or parasitic worms
+7190,"wound, bullet",
+7200,"wound, shell fragment",
+7210,"wrist condition, bilateral (both wrists)", wrist condition of both wrists
+7220,"wrist condition, left",
+7230,"wrist condition, right",
+7240,wrist sprain,
+7250,wrist strain,
+7260,yaws, infectious tropical disease
+7270,yellow fever,
+7280,hepatitis B,
+7290,PTSD personal trauma,
+7300,hepatitis C,
+100,Addison's disease,
+3350,"hernia, ventral",
+2065,"diabetes, adult onset", adult-onset diabetes
+2085,"diabetes mellitus, type 2", Type 2 diabetes
+3035,Gulf War Veteran with diagnosed illness as qualifying chronic disability,
+530,ASHD, thickening and hardening of the arteries
+8918,hip replacement,
+8919,knee replacement,
+8920,adhesions - digestive,
+8921,adhesions - gynecological,
+8922,adhesions - heart/veins/arteries,
+8923,adhesions - neurological other system,
+8924,adhesions - respiratory,
+8926,aneurysm  - heart/veins/arteries,
+8927,aneurysm - neurological other system,
+8928,arm condition - heart/veins/arteries,
+8929,arm condition - neurological other system,
+8930,Caisson disease, decompression sickness
+8931,cancer - dental and oral,
+8932,cancer - digestive,
+8933,cancer - endocrine,
+8934,cancer - eye (vision),
+8935,cancer - genitourinary, cancer of the genitals or urinary organs
+8937,cancer - gynecological,
+8938,cancer - heart/veins/arteries,
+8939,cancer - hemic and lymphatic,
+8940,cancer - musculoskeletal - other,
+8941,cancer - musculoskeletal and muscle injuries,
+8942,cancer - neurological other system,
+8943,cold injury residuals,
+8945,cyst/benign growth - dental and oral,
+8946,cyst/benign growth - digestive,
+8947,cyst/benign growth - ear disease and other sense organs,
+8948,cyst/benign growth - endocrine,
+8949,cyst/benign growth - eye (vision),
+8950,cyst/benign growth - genitourinary,cyst/benign growth in the genitals or urinary organs
+8951,cyst/benign growth - gynecological,
+8952,cyst/benign growth - musculoskeletal - ankle,
+8953,cyst/benign growth - musculoskeletal - elbow,
+8954,cyst/benign growth - musculoskeletal - foot,
+8955,cyst/benign growth - musculoskeletal - hand,
+8956,cyst/benign growth - musculoskeletal - hip,
+8957,cyst/benign growth - musculoskeletal - knee,
+8958,cyst/benign growth - musculoskeletal - mid- or lower back (thoracolumbar spine),
+8959,cyst/benign growth - musculoskeletal - neck or upper back (cervical spine),
+8960,cyst/benign growth - musculoskeletal - other,
+8961,cyst/benign growth - musculoskeletal - shoulder,
+8962,cyst/benign growth - musculoskeletal - wrist,
+8963,cyst/benign growth - musculoskeletal and muscle injuries,
+8964,cyst/benign growth - neurological other system,
+8965,cyst/benign growth - respiratory,
+8966,cyst/benign growth - skin,
+8970,eating disorders,
+8971,embolism/infarction - heart/veins/arteries,
+8972,embolism/infarction - neurological other system,
+8973,endocrine,
+8975,genitourinary, genital or urinary organs
+8976,Gulf War unexplained chronic multisymptom illness,
+8977,Gulf War undiagnosed illness,
+8980,child not capable of self-support, disabled child
+8982,hemorrhage - eye (vision),
+8983,hemorrhage - neurological other system,
+8984,herpes - eye (vision),
+8985,herpes - skin,
+8986,"infectious diseases, immune disorders and nutritional deficiencies",
+8987,leg condition - heart/veins/arteries,
+8988,leg condition - neurological other system,
+8989,mental disorders,
+8990,musculoskeletal - amputations,
+8991,musculoskeletal - ankle,
+8992,musculoskeletal - arthritis,
+8993,musculoskeletal - elbow,
+8995,musculoskeletal - hand,
+8996,musculoskeletal - hip,
+8997,musculoskeletal - knee,
+8998,musculoskeletal - mid- or lower back (thoracolumbar spine),
+8999,musculoskeletal - neck or upper back (cervical spine),
+9000,musculoskeletal - osteomyelitis, bone infection
+9001,musculoskeletal - other,
+9002,musculoskeletal - shoulder,
+9003,musculoskeletal - toe amputations,
+9004,musculoskeletal - wrist,
+9005,musculoskeletal and muscle injuries,
+9006,neurological - cranial or peripheral nerves,
+9007,neurological other system,
+9010,Posttraumatic Stress Disorder (PTSD) combat - mental disorders,
+9011,Posttraumatic Stress Disorder (PTSD) personal trauma - mental disorders,
+9012,respiratory,
+9013,scars (extremities and trunk/torso),
+9014,"scars (head, face, neck)",
+9015,service-connected death,
+9019,Spina bifida,
+9020,Traumatic Brain Injury,
+9021,"wound, bullet/shell fragment",
+8994,musculoskeletal - foot,
+249468,cancer - ear disease and other sense organs,
+249469,cancer - musculoskeletal - ankle,
+249470,cancer - musculoskeletal - elbow,
+249471,cancer - musculoskeletal - hand,
+249472,cancer - musculoskeletal - foot,
+249473,cancer - musculoskeletal - knee,
+249474,cancer - musculoskeletal - hip,
+249475,cancer - musculoskeletal - mid- or lower back (thoracolumbar spine),
+249476,cancer - musculoskeletal - neck or upper back (cervical spine),
+249477,cancer - musculoskeletal - shoulder,
+249478,cancer - musculoskeletal - wrist,
+249479,cyst/benign growth - heart/veins/arteries,
+249480,cyst/benign growth - hemic and lymphatic,
+

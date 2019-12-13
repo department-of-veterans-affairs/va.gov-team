@@ -1,0 +1,804 @@
+FTKEY,FTDESC
+DG5000,Osteomyelitis
+DG5001,"Bones and joints, tuberculosis of"
+DG5002,Arthritis rheumatoid (atrophic)
+DG5003,"Arthritis, degenerative (hypertrophic or osteoarthritis)"
+DG5004,"Arthritis, gonorrheal"
+DG5005,"Arthritis, pneumococcic"
+DG5006,"Arthritis, typhoid"
+DG5007,"Arthritis, syphilitic"
+DG5008,"Arthritis, streptococcic"
+DG5009,"Arthritis, other types"
+DG5010,"Arthritis, due to trauma"
+DG5011,"Bones, caisson disease of"
+DG5012,"Bones, new growths of, malignant"
+DG5013,"Osteoporosis, with joint manifestations"
+DG5014,Osteomalacia
+DG5015,"Bones, new growths of, benign"
+DG5016,Osteitis deformans
+DG5017,Gout
+DG5018,"Hydrarthrosis, intermittent"
+DG5019,Bursitis
+DG5020,Synovitis
+DG5021,Myositis
+DG5022,Periostitis
+DG5023,Myositis ossificans
+DG5024,Tenosynovitis
+DG5025,"Fibromyalgia (fibrositis, primary fibromyalgia syndrome)"
+DG5051,Shoulder replacement (prosthesis)
+DG5052,Elbow replacement (prosthesis)
+DG5053,Wrist replacement (prosthesis)
+DG5054,Hip replacement (prosthesis)
+DG5055,Knee replacement (prosthesis)
+DG5056,Ankle replacement (prosthesis)
+DG5099,Other musculoskeletal disease
+DG5104,Anatomical loss of one hand and loss of use of one foot
+DG5105,Anatomical loss of one foot and loss of use of one hand
+DG5106,Anatomical loss of both hands
+DG5107,Anatomical loss of both feet
+DG5108,Anatomical loss of one hand and one foot
+DG5109,Loss of use of both hands
+DG5110,Loss of use of both feet
+DG5111,Loss of use of one hand and one foot
+DG5120,"Arm, amputation of:  Disarticulation"
+DG5121,"Arm, amputation of:  Above insertion of deltoid"
+DG5122,"Arm, amputation of:  Below insertion of deltoid"
+DG5123,"Forearm, amputation of:  Above insertion of pronator teres"
+DG5124,"Forearm, amputation of:  Below insertion of pronator teres"
+DG5125,"Hand, loss of use of"
+DG5126,"Five digits of one hand, amputation of"
+DG5127,"Four digits of one hand, amputation of:  Thumb, index, middle and ring"
+DG5128,"Four digits of one hand, amputation of:  Thumb, index, middle and little."
+DG5129,"Four digits of one hand, amputation of:  Thumb, index, ring and little"
+DG5130,"Four digits of one hand, amputation of:  Thumb, middle, ring and little"
+DG5131,"Four digits of one hand, amputation of:  Index, middle, ring and little"
+DG5132,"Three digits of one hand, amputation of:  Thumb, index and middle"
+DG5133,"Three digits of one hand, amputation of:  Thumb, index and ring"
+DG5134,"Three digits of one hand, amputation of:  Thumb, index and little"
+DG5135,"Three digits of one hand, amputation of:  Thumb, middle and ring"
+DG5136,"Three digits of one hand, amputation of:  Thumb, middle and little"
+DG5137,"Three digits of one hand, amputation of:  Thumb, ring and little"
+DG5138,"Three digits of one hand, amputation of:  Index, middle and ring"
+DG5139,"Three digits of one hand, amputation of:  Index, middle and little"
+DG5140,"Three digits of one hand, amputation of:  Index, ring and little"
+DG5141,"Three digits of one hand, amputation of:  Middle, ring and little"
+DG5142,"Two digits of one hand, amputation of:  Thumb and index"
+DG5143,"Two digits of one hand, amputation of:  Thumb and middle"
+DG5144,"Two digits of one hand, amputation of:  Thumb and ring"
+DG5145,"Two digits of one hand, amputation of:  Thumb and little"
+DG5146,"Two digits of one hand, amputation of:  Index and middle"
+DG5147,"Two digits of one hand, amputation of:  Index and ring"
+DG5148,"Two digits of one hand, amputation of:  Index and little"
+DG5149,"Two digits of one hand, amputation of:  Middle and ring"
+DG5150,"Two digits of one hand, amputation of:  Middle and little"
+DG5151,"Two digits of one hand, amputation of:  Ring and little"
+DG5152,"Thumb, amputation of"
+DG5153,"Index finger, amputation of"
+DG5154,"Middle finger, amputation of"
+DG5155,"Ring finger, amputation of"
+DG5156,"Little finger, amputation of"
+DG5160,"Thigh, amputation of:  Disarticulation, with loss of extrinsic pelvic girdle muscles"
+DG5161,"Thigh, amputation of:  Upper third"
+DG5162,"Thigh, amputation of:  Middle or lower thirds"
+DG5163,"Leg, amputation of:  With defective stump, thigh amputation recommended"
+DG5164,"Leg, amputation of:  Not improvable by prosthesis controlled by natural knee action"
+DG5165,"Leg, amputation of:  At a lower level, permitting prosthesis"
+DG5166,"Forefoot, amputation proximal to metatarsal bones (more than one-half of metatarsal loss)"
+DG5167,"Foot, loss of use of"
+DG5170,"Toes, all, amputation of, without metatarsal loss"
+DG5171,"Toe, great, amputation of"
+DG5172,"Toes, one or two, other than great, amputation of"
+DG5173,"Toes, three or four, amputation of, without metatarsal involvement"
+DG5199,Other amputations
+DG5200,"Scapulohumeral articulation, ankylosis of"
+DG5201,"Arm, limitation of motion of"
+DG5202,"Humerus, other impairment of"
+DG5203,"Clavicle or scapula, impairment of"
+DG5205,"Elbow, ankylosis of"
+DG5206,"Forearm, limitation of flexion of"
+DG5207,"Forearm, limitation of extension of"
+DG5208,"Forearm, flexion limited to 100 deg. and extension to 45 deg."
+DG5209,"Elbow, other impairment of Flail joint"
+DG5210,"Radius and ulna, nonunion of, with flail false joint"
+DG5211,"Ulna, impairment of"
+DG5212,"Radius, impairment of"
+DG5213,"Forearm, supination and pronation, impairment of"
+DG5214,"Wrist, ankylosis of"
+DG5215,"Wrist, limitation of motion of"
+DG5216,"Five digits of one hand, unfavorable ankylosis of"
+DG5217,"Four digits of one hand, unfavorable ankylosis of"
+DG5218,"Three digits of one hand, unfavorable ankylosis of"
+DG5219,"Two digits of one hand, unfavorable ankylosis of"
+DG5220,"Five digits of one hand, favorable ankylosis of"
+DG5221,"Four digits of one hand, favorable ankylosis of"
+DG5222,"Three digits of one hand, favorable ankylosis of"
+DG5223,"Two digits of one hand, favorable ankylosis of"
+DG5224,"Thumb, ankylosis of"
+DG5225,"Index finger, ankylosis of"
+DG5226,"Middle finger, ankylosis of"
+DG5227,"Ring or little finger, ankylosis of"
+DG5228,"Thumb, limitation of motion"
+DG5229,"Index or long finger, limitation of motion"
+DG5230,"Ring or little finger, limitation of motion"
+DG5235,Vertebral fracture or dislocation
+DG5236,Sacroiliac injury and weakness
+DG5237,Lumbosacral or cervical strain
+DG5238,Spinal stenosis
+DG5239,Spondylolisthesis or segmental instability
+DG5240,Ankylosing spondylitis
+DG5241,Spinal Fusion
+DG5242,Degenerative arthritis of the spine (see also diagnostic code 5003)
+DG5243,Intervertebral disc syndrome
+DG5250,"Hip, ankylosis of"
+DG5251,"Thigh, limitation of extension of"
+DG5252,"Thigh, limitation of flexion of"
+DG5253,"Thigh, impairment of"
+DG5254,"Hip, flail joint"
+DG5255,"Femur, impairment of"
+DG5256,"Knee, ankylosis of"
+DG5257,"Knee, other impairment of"
+DG5258,"Cartilage, semilunar, dislocated"
+DG5259,"Cartilage, semilunar, removal of, symptomatic"
+DG5260,"Leg, limitation of flexion of"
+DG5261,"Leg, limitation of extension of"
+DG5262,"Tibia and fibula, impairment of"
+DG5263,Genu recurvatum
+DG5270,"Ankle, ankylosis of"
+DG5271,"Ankle, limited motion of"
+DG5272,"Subastragalar or tarsal joint, ankylosis of"
+DG5273,"Os calcis or astragalus, malunion of"
+DG5274,Astragalectomy
+DG5275,"Bones, of the lower extremity, shortening of"
+DG5276,"Flatfoot, acquired"
+DG5277,"Weak foot, bilateral"
+DG5278,"Claw foot (pes cavus), acquired"
+DG5279,"Metatarsalgia, anterior (Morton's disease)"
+DG5280,"Hallux valgus, unilateral"
+DG5281,"Hallux rigidus, unilateral, severe"
+DG5282,Hammer toe
+DG5283,"Tarsal, or metatarsal bones, malunion of, or nonunion of"
+DG5284,"Foot injuries, other"
+DG5285,"Vertebra, fracture of, residuals"
+DG5286,"Spine, complete bony fixation (ankylosis) of"
+DG5287,"Spine, ankylosis of, cervical"
+DG5288,"Spine, ankylosis of, dorsal"
+DG5289,"Spine, ankylosis of, lumbar"
+DG5290,"Spine, limitation of motion of, cervical"
+DG5291,"Spine, limitation of motion of, dorsal"
+DG5292,"Spine, limitation of motion of, lumbar"
+DG5293,Intervertebral disc syndrome
+DG5294,Sacro-iliac injury and weakness
+DG5295,Lumbosacral strain
+DG5296,"Skull, loss of part of, both inner and outer tables"
+DG5297,"Ribs, removal of"
+DG5298,"Coccyx, removal of"
+DG5299,Other skeletal injury or motion loss
+DG5301,"Muscle injury, Group I"
+DG5302,"Muscle injury, Group II"
+DG5303,"Muscle injury, Group III"
+DG5304,"Muscle injury, Group IV"
+DG5305,"Muscle injury, Group V"
+DG5306,"Muscle injury, Group VI"
+DG5307,"Muscle injury, Group VII"
+DG5308,"Muscle injury, Group VIII"
+DG5309,"Muscle injury, Group IX"
+DG5310,"Muscle injury, Group X"
+DG5311,"Muscle injury, Group XI"
+DG5312,"Muscle injury, Group XII"
+DG5313,"Muscle injury, Group XIII"
+DG5314,"Muscle injury, Group XIV"
+DG5315,"Muscle injury, Group XV"
+DG5316,"Muscle injury, Group XVI"
+DG5317,"Muscle injury, Group XVII"
+DG5318,"Muscle injury, Group XVIII"
+DG5319,"Muscle injury, Group XIX"
+DG5320,"Muscle injury, Group XX"
+DG5321,"Muscle injury, Group XXI"
+DG5322,"Muscle injury, Group XXII"
+DG5323,"Muscle injury, Group XXIII"
+DG5324,"Diaphragm, rupture of, with herniation"
+DG5325,"Muscle injury, facial muscles"
+DG5326,"Muscle hernia, extensive"
+DG5327,"Muscle, neoplasm of, malignant (excluding soft tissue sarcoma)"
+DG5328,"Muscle, neoplasm of, benign, postoperative"
+DG5329,"Sarcoma, soft tissue (of muscle, fat, or fibrous connective tissue)"
+DG5399,Other muscle injury
+DG6000,Uveitis
+DG6001,Keratitis
+DG6002,Scleritis
+DG6003,Iritis
+DG6004,Cyclitis
+DG6005,Choroiditis
+DG6006,Retinitis
+DG6007,"Hemorrhage, intra-ocular, recent"
+DG6008,"Retina, detachment of"
+DG6009,"Eye, injury of, unhealed"
+DG6010,"Eye, tuberculosis of, active or inactive"
+DG6011,"Retina, localized scars, atrophy, or irregularities of"
+DG6012,"Glaucoma, congestive or inflammatory"
+DG6013,"Glaucoma, simple, primary, noncongestive"
+DG6014,"New growths, malignant (eyeball only)"
+DG6015,"New growths, benign (eyeball and adnexa, other than superficial)"
+DG6016,"Nystagmus, central"
+DG6017,"Conjunctivitis, trachomatous, chronic"
+DG6018,"Conjunctivitis, other, chronic"
+DG6019,"Ptosis, unilateral or bilateral"
+DG6020,Ectropion
+DG6021,Entropion
+DG6022,Lagophthalmos
+DG6023,"Eyebrows, loss of, complete, unilateral or bilateral"
+DG6024,"Eyelashes, loss of, complete, unilateral or bilateral"
+DG6025,"Epiphora (lacrymal duct, interference with, from any cause)"
+DG6026,"Neuritis, optic"
+DG6027,"Cataract, traumatic"
+DG6028,"Cataract, senile, and others"
+DG6029,Aphakia
+DG6030,"Accommodation, paralysis of"
+DG6031,Dacryocystitis
+DG6032,"Eyelids, loss of portion of"
+DG6033,"Lens, crystalline, dislocation of"
+DG6034,Pterygium
+DG6035,Keratoconus
+DG6061,Anatomical loss both eyes
+DG6062,Blindness in both eyes having only light perception
+DG6063,Anatomical loss of 1 eye; other eye blind (5/200 (1.5/60) or less)
+DG6064,Anatomical loss of 1 eye; other eye impaired (20/200 (6/60) or less)
+DG6065,Anatomical loss of 1 eye; other eye impaired (20/50 (6/21) or less)
+DG6066,Anatomical loss of 1 eye; other eye normal
+DG6067,"Blindness in 1 eye, having only light perception; other eye blind (5/200 (1.5/60) or less)"
+DG6068,"Blindness in 1 eye, having only light perception; other eye impaired (20/200 (6/60) or less)"
+DG6069,"Blindness in 1 eye, having only light perception; other eye impaired (20/50 (6/21) or less)"
+DG6070,"Blindness in 1 eye, having only light perception; other eye normal"
+DG6071,Blindness in both eyes (5/200 (1.5/60) or less)
+DG6072,Blindness in one eye (5/200 (1.5/60) or less); other eye impaired (20/200 (6/60) or less)
+DG6073,Blindness in one eye (5/200 (1.5/60) or less); other eye impaired (20/50 (6/21) or less)
+DG6074,Blindness in one eye (5/200 (1.5/60) or less); other eye normal
+DG6075,Partial blindness in both eyes (20/200 (3/60) or less)
+DG6076,Partial blindness in one eye (20/200 (3/60) or less); other eye impaired (20/50 (6/21) or
+DG6077,Partial blindness in one eye (20/200 (3/60) or less); other eye normal
+DG6078,Partial blindness in both eyes (20/50 (6/21) or less)
+DG6079,Partial blindness in one eye (20/50 (6/21) or less); other eye other eye normal
+DG6080,"Field vision, impairment of"
+DG6081,"Scotoma, pathological, unilateral"
+DG6090,Diplopia (double vision)
+DG6091,Symblepharon
+DG6092,"Diplopia, due to limited muscle function"
+DG6099,Other eye disability
+DG6100,Hearing loss
+DG6199,Other hearing loss
+DG6200,"Chronic suppurative otitis media, mastoiditis, or cholesteatoma (or any combination)"
+DG6201,Chronic nonsuppurative otitis media with effusion (serous otitis media)
+DG6202,Otosclerosis
+DG6204,Peripheral vestibular disorders
+DG6205,Meniere's syndrome
+DG6207,"Auricle, loss or deformity"
+DG6208,Malignant neoplasm of the ear (other than skin only)
+DG6209,Benign neoplasm of the ear (other than skin only)
+DG6210,Chronic otitis externa
+DG6211,"Tympanic membrane, perforation of"
+DG6260,"Tinnitus, recurrent"
+DG6275,"Loss of sense of smell, complete"
+DG6276,"Loss of sense of taste, complete"
+DG6299,Other sense organ disability
+DG6300,"Cholera, Asiatic"
+DG6301,Visceral Leishmaniasis
+DG6302,Leprosy (Hansen's Disease)
+DG6304,Malaria
+DG6305,Lymphatic Filariasis
+DG6306,Bartonellosis
+DG6307,Plague
+DG6308,Relapsing Fever
+DG6309,Rheumatic fever
+DG6310,"Syphilis, and other treponemal infections"
+DG6311,"Tuberculosis, miliary"
+DG6313,Avitaminosis
+DG6314,Beriberi
+DG6315,Pellagra
+DG6316,Brucellosis
+DG6317,"Typhus, scrub"
+DG6318,Melioidosis
+DG6319,Lyme Disease
+DG6320,Parasitic diseases otherwise not specified
+DG6350,"Lupus erythematosus, systemic (disseminated)"
+DG6351,HIV-Related Illness
+DG6354,Chronic Fatigue Syndrome (CFS)
+DG6399,"Other infectious disease, immune disorder, or nutritional deficiency"
+DG6502,"Septum, nasal, deviation of"
+DG6504,"Nose, loss of part of, or scars"
+DG6510,"Sinusitis, pansinusitis, chronic"
+DG6511,"Sinusitis, ethmoid, chronic"
+DG6512,"Sinusitis, frontal, chronic"
+DG6513,"Sinusitis, maxillary, chronic"
+DG6514,"Sinusitis, sphenoid, chronic"
+DG6515,"Laryngitis, tuberculous, active or inactive"
+DG6516,"Laryngitis, chronic"
+DG6518,"Laryngectomy, total"
+DG6519,"Aphonia, complete organic"
+DG6520,"Larynx, stenosis of, including residuals of laryngeal trauma (unilateral or bilateral)"
+DG6521,"Pharynx, injuries to"
+DG6522,Allergic or vasomotor rhinitis
+DG6523,Bacterial rhinitis
+DG6524,Granulomatous rhinitis
+DG6599,Other disease of nose or throat
+DG6600,"Bronchitis, chronic"
+DG6601,Bronchiectasis
+DG6602,"Asthma, bronchial"
+DG6603,"Emphysema, pulmonary"
+DG6604,Chronic obstructive pulmonary disease
+DG6699,Other disease of trachea and/or bronchi
+DG6701,"Tuberculosis, pulmonary, chronic, far advanced, active [entitled 8/19/68]"
+DG6702,"Tuberculosis, pulmonary, chronic, moderately advanced, active [entitled 8/19/68]"
+DG6703,"Tuberculosis, pulmonary, chronic, minimal, active [entitled 8/19/68]"
+DG6704,"Tuberculosis, pulmonary, chronic, active, advancement unspecified [entitled 8/19/68]"
+DG6721,"Tuberculosis, pulmonary, chronic, far advanced, inactive [entitled 8/19/68]"
+DG6722,"Tuberculosis, pulmonary, chronic, moderately advanced, inactive [entitled 8/19/68]"
+DG6723,"Tuberculosis, pulmonary, chronic, minimal, inactive [entitled 8/19/68]"
+DG6724,"Tuberculosis, pulmonary, chronic, inactive, advancement unspecified [entitled 8/19/68]"
+DG6730,"Tuberculosis, pulmonary, chronic, active [after 8/19/68]"
+DG6731,"Tuberculosis, pulmonary, chronic, inactive [after 8/19/68]"
+DG6732,"Pleurisy, tuberculous, active or inactive [after 8/19/68]"
+DG6799,Other tuberculous disease of lungs and/or pleura
+DG6817,Pulmonary Vascular Disease
+DG6819,"Neoplasms, malignant, any specified part of respiratory system exclusive of skin growths"
+DG6820,"Neoplasms, benign, any specified part of respiratory system"
+DG6822,Actinomycosis
+DG6823,Nocardiosis
+DG6824,Chronic lung abscess
+DG6825,"Diffuse interstitial fibrosis (interstitial pneumonitis, fibrosing alveolitis)"
+DG6826,Desquamative interstitial pneumonitis
+DG6827,Pulmonary alveolar proteinosis
+DG6828,Eosinophilic granuloma of lung
+DG6829,Drug-induced pulmonary pneumonitis and fibrosis
+DG6830,Radiation-induced pulmonary pneumonitis and fibrosis
+DG6831,Hypersensitivity pneumonitis (extrinsic allergic alveolitis)
+DG6832,"Pneumoconiosis (silicosis, anthracosis, etc.)"
+DG6833,Asbestosis
+DG6834,Histoplasmosis of lung
+DG6835,Coccidioidomycosis
+DG6836,Blastomycosis
+DG6837,Cryptococcosis
+DG6838,Aspergillosis
+DG6839,Mucormycosis
+DG6840,Diaphragm paralysis or paresis
+DG6841,Spinal cord injury with respiratory insufficiency
+DG6842,"Kyphoscoliosis, pectus excavatum, pectus carinatum"
+DG6843,"Traumatic chest wall defect, pneumothorax, hernia, etc"
+DG6844,"Post-surgical residual (lobectomy, pneumonectomy, etc.)"
+DG6845,Chronic pleural effusion or fibrosis
+DG6846,Sarcoidosis
+DG6847,"Sleep Apnea Syndromes (Obstructive, Central, Mixed)"
+DG6899,Other nontuberculous disease of lungs and/or pleura
+DG7000,Valvular heart disease (including rheumatic heart disease)
+DG7001,Endocarditis
+DG7002,Pericarditis
+DG7003,Pericardial adhesions
+DG7004,Syphilitic heart disease
+DG7005,Arteriosclerotic heart disease (Coronary artery disease)
+DG7006,Myocardial infarction
+DG7007,Hypertensive heart disease
+DG7008,Hyperthyroid heart disease
+DG7010,Supraventricular arrhythmias
+DG7011,Ventricular arrhythmias (sustained)
+DG7015,Atrioventricular block
+DG7016,Heart valve replacement (prosthesis)
+DG7017,Coronary bypass surgery
+DG7018,Implantable cardiac pacemakers
+DG7019,Cardiac transplantation
+DG7020,Cardiomyopathy
+DG7099,Other heart disease
+DG7101,Hypertensive vascular disease (hypertension and isolated systolic hypertension)
+DG7110,Aortic aneurysm
+DG7111,"Aneurysm, any large artery"
+DG7112,"Aneurysm, any small artery"
+DG7113,"Arteriovenous fistula, traumatic"
+DG7114,Arteriosclerosis obliterans
+DG7115,Thrombo-angiitis obliterans (Buerger's Disease)
+DG7117,Raynaud's syndrome
+DG7118,Angioneurotic edema
+DG7119,Erythromelalgia
+DG7120,Varicose veins
+DG7121,Post-phlebitic syndrome of any etiology
+DG7122,Cold injury residuals
+DG7123,Soft tissue sarcoma (of vascular origin)
+DG7199,Other disease of arteries and/or veins
+DG7200,"Mouth, injuries of"
+DG7201,"Lips, injuries of"
+DG7202,"Tongue, loss of whole or part"
+DG7203,"Esophagus, stricture of"
+DG7204,"Esophagus, spasm of (cardiospasm)"
+DG7205,"Esophagus, diverticulum of, acquired"
+DG7299,Other digestive system injury
+DG7301,"Peritoneum, adhesions of"
+DG7304,"Ulcer, gastric"
+DG7305,"Ulcer, duodenal"
+DG7306,"Ulcer, marginal (gastrojejunal)"
+DG7307,"Gastritis, hypertrophic (identified by gastroscope)"
+DG7308,Postgastrectomy syndromes
+DG7309,"Stomach, stenosis of"
+DG7310,"Stomach, injury of, residuals"
+DG7311,Residuals of injury of the liver
+DG7312,"Cirrhosis of the liver, primary biliary cirrhosis, or cirrhotic phase of sclerosing cholangitis"
+DG7313,"Liver, abscess of, residuals"
+DG7314,"Cholecystitis, chronic"
+DG7315,"Cholelithiasis, chronic"
+DG7316,"Cholangitis, chronic"
+DG7317,"Gall bladder, injury of"
+DG7318,"Gall bladder, removal of"
+DG7319,"Irritable colon syndrome (spastic colitis, mucous colitis, etc.)"
+DG7321,Amebiasis
+DG7322,"Dysentery, bacillary"
+DG7323,"Colitis, ulcerative"
+DG7324,"Distomiasis, intestinal or hepatic"
+DG7325,"Enteritis, chronic"
+DG7326,"Enterocolitis, chronic"
+DG7327,Diverticulitis
+DG7328,"Intestine, small, resection of"
+DG7329,"Intestine, large, resection of"
+DG7330,"Intestine, fistula of, persistent, or after attempt at operative closure"
+DG7331,"Peritonitis, tuberculous, active or inactive"
+DG7332,"Rectum and anus, impairment of sphincter control"
+DG7333,"Rectum and anus, stricture of"
+DG7334,"Rectum, prolapse of"
+DG7335,"Ano, fistula in"
+DG7336,"Hemorrhoids, external or internal"
+DG7337,Pruritus ani
+DG7338,"Hernia, inguinal"
+DG7339,"Hernia, ventral, postoperative"
+DG7340,"Hernia, femoral"
+DG7342,"Visceroptosis, symptomatic, marked"
+DG7343,"Malignant neoplasms of the digestive system, exclusive of skin growths "
+DG7344,"Benign neoplasms, exclusive of skin growths"
+DG7345,"Chronic liver disease without cirrhosis (including hepatitis B, chronic active hepatitis, etc.)"
+DG7346,Hernia hiatal
+DG7347,Pancreatitis
+DG7348,Vagotomy with pyloroplasty or gastroenterostomy
+DG7351,Liver transplant
+DG7354,"Hepatitis C (or non-A, non-B hepatitis)"
+DG7399,Other digestive system disease
+DG7500,"Kidney, removal of one"
+DG7501,"Kidney, abscess of"
+DG7502,"Nephritis, chronic"
+DG7504,"Pyelonephritis, chronic"
+DG7505,"Kidney, tuberculosis of"
+DG7507,"Nephrosclerosis, arteriolar"
+DG7508,Nephrolithiasis
+DG7509,Hydronephrosis
+DG7510,Ureterolithiasis
+DG7511,"Ureter, stricture of"
+DG7512,"Cystitis, chronic, includes interstitial and all etiologies, infectious and non-infectious"
+DG7515,"Bladder, calculus in, with symptoms interfering with function"
+DG7516,"Bladder, fistula of"
+DG7517,"Bladder, injury of"
+DG7518,"Urethra, stricture of"
+DG7519,"Urethra, fistual of"
+DG7520,"Penis, removal of half or more"
+DG7521,Penis removal of glans
+DG7522,"Penis, deformity, with loss of erectile power"
+DG7523,"Testis, atrophy complete"
+DG7524,"Testis, removal"
+DG7525,"Epididymo-orchitis, chronic only"
+DG7527,"Prostate gland injuries, infections, hypertrophy, postoperative residuals"
+DG7528,Malignant neoplasms of the genitourinary system
+DG7529,Benign neoplasms of the genitourinary system
+DG7530,Chronic renal disease requiring regular dialysis
+DG7531,Kidney transplant
+DG7532,Renal tubular disorders
+DG7533,Cystic diseases of the kidneys
+DG7534,Atherosclerotic renal disease (renal artery stenosis or atheroembolic renal disease)
+DG7535,Toxic nephropathy
+DG7536,Glomerulonephritis
+DG7537,Interstitial nephritis
+DG7538,Papillary necrosis
+DG7539,Renal amyloid disease
+DG7540,Disseminated intravascular coagulation with renal cortical necrosis
+DG7541,Renal involvement in systemic disease processes (see code for list)
+DG7542,Neurogenic bladder
+DG7599,Other genitourinary disability
+DG7610,"Vulva, disease or injury of (including vulvovaginitis)"
+DG7611,"Vagina, disease or injury of"
+DG7612,"Cervix, disease or injury of"
+DG7613,"Uterus, disease, injury, or adhesions of"
+DG7614,"Fallopian tube, disease, injury, or adhesions of (including PID)"
+DG7615,"Ovary, disease, injury, or adhesions of"
+DG7617,"Uterus and both ovaries, removal of, complete"
+DG7618,"Uterus, removal of, including corpus"
+DG7619,"Ovary, removal of"
+DG7620,"Ovaries, atrophy of both, complete"
+DG7621,"Uterus, prolapse"
+DG7622,"Uterus, displacement of"
+DG7623,"Pregnancy, surgical complications of"
+DG7624,"Fistula, rectovaginal"
+DG7625,"Fistula, urethrovaginal"
+DG7626,"Breast, surgery of"
+DG7627,Malignant neoplasms of gynecological system or breast
+DG7628,Benign neoplasms of the gynecological system or breast
+DG7629,Endometriosis
+DG7699,Other gynecological or breast disability
+DG7700,"Anemia, hypochromic-microcytic and megaloblastic"
+DG7702,"Agranulocytosis, acute"
+DG7703,Leukemia
+DG7704,Polycythemia vera
+DG7705,"Thrombocytopenia, primary, idiopathic or immune"
+DG7706,Splenectomy
+DG7707,"Spleen, injury of, healed"
+DG7709,Hodgkin's disease
+DG7710,"Adenitis, tuberculous, active or inactive"
+DG7714,Sickle cell anemia
+DG7715,Non-Hodgkin's lymphoma
+DG7716,Aplastic anemia
+DG7799,Other hemic or lymphatic system disability
+DG7800,"Disfigurement of the head, face, or neck"
+DG7801,"Scars, other than head, face, or neck, that are deep or that cause limited motion"
+DG7802,"Scars, other than head, face, or neck, that are superficial and that do not cause limited motion"
+DG7803,"Scars, superficial, unstable"
+DG7804,"Scars, superficial, painful on examination"
+DG7805,"Scars, other"
+DG7806,Dermatitis or eczema
+DG7807,"American (New World) leishmaniasis (mucocutaneous, espundia)"
+DG7808,"Old World leishmaniasis (cutaneous, Oriental sore)"
+DG7809,Discoid lupus erythematosus or subacute cutaneous lupus erythematosus
+DG7810,Pinta
+DG7811,"Tuberculosis luposa (lupus vulgaris), active or inactive"
+DG7812,Verruga peruana
+DG7813,Dermatophytosis
+DG7814,Tinea barbae
+DG7815,Bullous disorders
+DG7816,Psoriasis
+DG7817,Exfoliative dermatitis (erythroderma)
+DG7818,Malignant skin neoplasms (other than malignant melanoma)
+DG7819,Benign skin neoplasms
+DG7820,"Infections of the skin not listed elsewhere (including bacterial, fungal, viral, treponemal)"
+DG7821,Cutaneous manifestations of collagen-vascular diseases not listed elsewhere (including scleroderma)
+DG7822,"Papulosquamous disorders not listed elsewhere (including lichen planus, large or small plaque parap)"
+DG7823,Vitiligo
+DG7824,"Diseases of keratinization (including icthyoses, Darier's disease, and palmoplantar keratoderma)"
+DG7825,Urticaria
+DG7826,"Vasculitis, primary cutaneous"
+DG7827,Erythema multiforme; Toxic epidermal necrolysis
+DG7828,Acne
+DG7829,Chloracne
+DG7830,Scarring alopecia
+DG7831,Alopecia areata
+DG7832,Hyperhidrosis
+DG7833,Malignant melanoma
+DG7899,Other skin disability
+DG7900,Hyperthyroidism
+DG7901,"Thyroid gland, toxic adenoma of"
+DG7902,"Thyroid gland, nontoxic adenoma of"
+DG7903,Hypothyroidism
+DG7904,Hyperparathyroidism
+DG7905,Hypoparathyroidism
+DG7907,Cushing's syndrome
+DG7908,Acromegaly
+DG7909,Diabetes insipidus
+DG7911,Addison's disease (Adrenal Cortical Hypofunction)
+DG7912,Pluriglandular syndrome
+DG7913,Diabetes mellitus
+DG7914,"Neoplasm, malignant, any specified part of the endocrine system"
+DG7915,"Neoplasm, benign, any specified part of the endocrine system"
+DG7916,Hyperpituitarism (prolactin secreting pituitary dysfunction)
+DG7917,Hyperaldosteronism (benign or malignant)
+DG7918,Pheochromocytoma (benign or malignant)
+DG7919,C-cell hyperplasia of the thyroid
+DG7999,Other endocrine system disability
+DG8000,"Encephalitis, epidemic, chronic"
+DG8002,"Brain, new growth of, malignant"
+DG8003,"Brain, new growth of, benign"
+DG8004,Paralysis agitans
+DG8005,Bulbar palsy
+DG8007,"Brain, vessels, embolism of"
+DG8008,"Brain, vessels, thrombosis of"
+DG8009,"Brain, vessels, hemorrhage from"
+DG8010,Myelitis
+DG8011,"Poliomyelitis, anterior"
+DG8012,Hematomyelia
+DG8013,"Syphilis, cerebrospinal"
+DG8014,"Syphilis, meningovascular"
+DG8015,Tabes dorsalis
+DG8017,Amyotrophic lateral sclerosis
+DG8018,Multiple sclerosis
+DG8019,"Meningitis, cerebrospinal, epidemic"
+DG8020,"Brain, abscess of"
+DG8021,"Spinal cord, new growths of, malignant"
+DG8022,"Spinal cord, new growths of, benign"
+DG8023,Progressive muscular atrophy
+DG8024,Syringomyelia
+DG8025,Myasthenia gravis
+DG8045,Brain disease due to trauma
+DG8046,Cerebral arteriosclerosis
+DG8099,Other central nervous system disease
+DG8100,Migraine
+DG8103,"Tic, convulsive"
+DG8104,"Paramyoclonus multiplex (convulsive state, myoclonic type)"
+DG8105,"Chorea, Sydenham's"
+DG8106,"Chorea, Huntington's"
+DG8107,"Athetosis, acquired"
+DG8108,Narcolepsy
+DG8199,Other misc. neurological diseases
+DG8205,"Fifth (trigeminal) cranial nerve, paralysis of"
+DG8207,"Seventh (facial) cranial nerve, paralysis of"
+DG8209,"Ninth (glossopharyngeal) cranial nerve, paralysis of"
+DG8210,"Tenth (pneumogastric, vagus) cranial nerve, paralysis of"
+DG8211,"Eleventh (spinal accessory, external branch) cranial nerve, paralysis of"
+DG8212,"Twelfth (hypoglossal) cranial nerve, paralysis of"
+DG8299,Other cranial nerve paralysis
+DG8305,"Fifth (trigeminal) cranial nerve, neuritis"
+DG8307,"Seventh (facial) cranial nerve, neuritis"
+DG8309,"Ninth (glossopharyngeal) cranial nerve, neuritis"
+DG8310,"Tenth (pneumogastric, vagus) cranial nerve, neuritis"
+DG8311,"Eleventh (spinal accessory, external branch) cranial nerve, neuritis"
+DG8312,"Twelfth (hypoglossal) cranial nerve, neuritis"
+DG8399,Other cranial nerve neuritis
+DG8405,"Fifth (trigeminal) cranial nerve, neuralgia"
+DG8407,"Seventh (facial) cranial nerve, neuralgia"
+DG8409,"Ninth (glossopharyngeal) cranial nerve, neuralgia"
+DG8410,"Tenth (pneumogastric, vagus) cranial nerve, neuralgia"
+DG8411,"Eleventh (spinal accessory, external branch) cranial nerve, neuralgia"
+DG8412,"Twelfth (hypoglossal) cranial nerve, neuralgia"
+DG8499,Other cranial nerve neuralgia
+DG8510,"Upper radicular group (fifth and sixth cervicals), paralysis of"
+DG8511,"Middle radicular group, paralysis of"
+DG8512,"Lower radicular group, paralysis of"
+DG8513,"All radicular groups, paralysis of"
+DG8514,"The musculospiral nerve (radial nerve), paralysis of"
+DG8515,"The median nerve, paralysis of"
+DG8516,"The ulnar nerve, paralysis of"
+DG8517,"Musculocutaneous nerve, paralysis of"
+DG8518,"Circumflex nerve, paralysis of"
+DG8519,"Long thoracic nerve, paralysis of"
+DG8520,"Sciatic nerve, paralysis of"
+DG8521,"External popliteal nerve (common peroneal), paralysis of"
+DG8522,"Musculocutaneous nerve (superficial peroneal), paralysis of"
+DG8523,"Anterior tibial nerve (deep peroneal), paralysis of"
+DG8524,"Internal popliteal nerve (tibial), paralysis of"
+DG8525,"Posterior tibial nerve, paralysis of"
+DG8526,"Anterior crural nerve (femoral), paralysis of"
+DG8527,"Internal saphenous nerve, paralysis of"
+DG8528,"Obturator nerve, paralysis of"
+DG8529,"External cutaneous nerve of thigh, paralysis of"
+DG8530,"Ilio-inguinal nerve, paralysis of"
+DG8540,Soft-tissue sarcoma (of neurogenic origin)
+DG8599,Other peripheral nerve paralysis
+DG8610,"Upper radicular group (fifth and sixth cervicals), neuritis"
+DG8611,"Middle radicular group, neuritis"
+DG8612,"Lower radicular group, neuritis"
+DG8613,"All radicular groups, neuritis"
+DG8614,"The musculospiral nerve (radial nerve), neuritis"
+DG8615,"The median nerve, neuritis"
+DG8616,"The ulnar nerve, neuritis"
+DG8617,"Musculocutaneous nerve, neuritis"
+DG8618,"Circumflex nerve, neuritis"
+DG8619,"Long thoracic nerve, neuritis"
+DG8620,"Sciatic nerve, neuritis"
+DG8621,"External popliteal nerve (common peroneal), neuritis"
+DG8622,"Musculocutaneous nerve (superficial peroneal), neuritis"
+DG8623,"Anterior tibial nerve (deep peroneal), neuritis"
+DG8624,"Internal popliteal nerve (tibial), neuritis"
+DG8625,"Posterior tibial nerve, neuritis"
+DG8626,"Anterior crural nerve (femoral), neuritis"
+DG8627,"Internal saphenous nerve, neuritis"
+DG8628,"Obturator nerve, neuritis"
+DG8629,"External cutaneous nerve of thigh, neuritis"
+DG8630,"Ilio-inguinal nerve, neuritis"
+DG8699,Other peripheral nerve neuritis
+DG8710,"Upper radicular group (fifth and sixth cervicals), neuralgia"
+DG8711,"Middle radicular group, neuralgia"
+DG8712,"Lower radicular group, neuralgia"
+DG8713,"All radicular groups, neuralgia"
+DG8714,"The musculospiral nerve (radial nerve), neuralgia"
+DG8715,"The median nerve, neuralgia"
+DG8716,"The ulnar nerve, neuralgia"
+DG8717,"Musculocutaneous nerve, neuralgia"
+DG8718,"Circumflex nerve, neuralgia"
+DG8719,"Long thoracic nerve, neuralgia"
+DG8720,"Sciatic nerve, neuralgia"
+DG8721,"External popliteal nerve (common peroneal), neuralgia"
+DG8722,"Musculocutaneous nerve (superficial peroneal), neuralgia"
+DG8723,"Anterior tibial nerve (deep peroneal), neuralgia"
+DG8724,"Internal popliteal nerve (tibial), neuralgia"
+DG8725,"Posterior tibial nerve, neuralgia"
+DG8726,"Anterior crural nerve (femoral), neuralgia"
+DG8727,"Internal saphenous nerve, neuralgia"
+DG8728,"Obturator nerve, neuralgia"
+DG8729,"External cutaneous nerve of thigh, neuralgia"
+DG8730,"Ilio-inguinal nerve, neuralgia"
+DG8799,Other peripheral nerve neuralgia
+DG8850,"Undiagnosed condition, musculoskeletal diseases"
+DG8851,"Undiagnosed condition, amputations"
+DG8852,"Undiagnosed condition, joints, skull, and ribs"
+DG8853,"Undiagnosed condition, muscle injuries"
+DG8860,"Undiagnosed condition, diseases of the eye"
+DG8861,"Undiagnosed condition, hearing loss"
+DG8862,"Undiagnosed condition, ear and other sense organs"
+DG8863,"Undiagnosed condition, systemic diseases"
+DG8865,"Undiagnosed condition, nose and throat"
+DG8866,"Undiagnosed condition, trachea and bronchi"
+DG8867,"Undiagnosed condition, tuberculosis"
+DG8868,"Undiagnosed condition, lungs and pleura"
+DG8870,"Undiagnosed condition, heart diseases"
+DG8871,"Undiagnosed condition, arteries and veins"
+DG8872,"Undiagnosed condition, upper digestive system"
+DG8873,"Undiagnosed condition, lower digestive system"
+DG8875,"Undiagnosed condition, genitourinary system"
+DG8876,"Undiagnosed condition, gynecological system"
+DG8877,"Undiagnosed condition, hemic and lymphatic system"
+DG8878,"Undiagnosed condition, skin"
+DG8879,"Undiagnosed condition, endocrine system"
+DG8880,"Undiagnosed condition, central nervous system"
+DG8881,"Undiagnosed condition, miscellaneous neurological"
+DG8882,"Undiagnosed condition, cranial nerve paralysis"
+DG8883,"Undiagnosed condition, cranial nerve neuritis"
+DG8884,"Undiagnosed condition, cranial nerve neuralgia"
+DG8885,"Undiagnosed condition, peripheral nerve paralysis"
+DG8886,"Undiagnosed condition, peripheral nerve neuritis"
+DG8887,"Undiagnosed condition, peripheral nerve neuralgia"
+DG8889,"Undiagnosed condition, epilepsies"
+DG8892,"Undiagnosed condition, psychotic disorders"
+DG8893,"Undiagnosed condition, organic mental"
+DG8894,"Undiagnosed condition, psychoneurotic"
+DG8895,"Undiagnosed condition, psychophysiologic"
+DG8899,"Undiagnosed condition, dental and oral"
+DG8910,"Epilepsy, grand mal"
+DG8911,"Epilepsy, petit mal"
+DG8912,"Epilepsy, Jacksonian and focal motor or sensory"
+DG8913,"Epilepsy, diencephalic"
+DG8914,"Epilepsy, psychomotor"
+DG8999,Other epilepsy
+DG9201,"Schizophrenia, disorganized type"
+DG9202,"Schizophrenia, catatonic type"
+DG9203,"Schizophrenia, paranoid type"
+DG9204,"Schizophrenia, undifferentiated type"
+DG9205,"Schizophrenia, residual type; other and unspecified types"
+DG9208,Delusional disorder
+DG9210,"Psychotic disorder, not otherwise specified (atypical psychosis)"
+DG9211,Schizoaffective disorder
+DG9299,Other psychotic disorder
+DG9300,Delirium
+DG9301,Dementia due to infection (see code for list)
+DG9304,Dementia due to head trauma
+DG9305,Vascular dementia
+DG9310,Dementia of unknown etiology
+DG9312,Dementia of the Alzheimer's type
+DG9326,"Dementia due to other neurologic or general medical conditions, or substance- induced"
+DG9327,"Organic mental disorder, other (inc. personality change due to a general medical condition)"
+DG9400,Generalized anxiety disorder
+DG9403,Specific (simple) phobia; social phobia
+DG9404,Obsessive compulsive disorder
+DG9410,Other and unspecified neurosis
+DG9411,Post-traumatic stress disorder
+DG9412,Panic disorder and/or agoraphobia
+DG9413,"Anxiety disorder, not otherwise specified"
+DG9416,Dissociative amnesia; diss. fugue; diss. identity disorder (multiple personality disorder)
+DG9417,Depersonalization disorder
+DG9421,Somatization disorder
+DG9422,Pain disorder
+DG9423,Undifferentiated somatoform disorder
+DG9424,Conversion disorder
+DG9425,Hypochondriasis
+DG9431,Cyclothymic disorder
+DG9432,Bipolar disorder
+DG9433,Dysthymic disorder
+DG9434,Major depressive disorder
+DG9435,"Mood disorder, not otherwise specified"
+DG9440,Chronic adjustment disorder
+DG9499,Other nonpsychotic emotional illness
+DG9520,Anorexia nervosa
+DG9521,Bulimia nervosa
+DG9599,Other eating disorder
+DG9900,"Maxilla or mandible, chronic osteomyelitis or osteoradionecrosis of"
+DG9901,"Mandible, loss of, complete, between angles"
+DG9902,"Mandible, loss of approximately one-half"
+DG9903,"Mandible, nonunion of"
+DG9904,"Mandible, malunion of"
+DG9905,"Temporomandibular articulation, limited motion of"
+DG9906,"Ramus, loss of whole or part of"
+DG9907,"Ramus, loss of less than one-half the substance of"
+DG9908,"Condyloid process, loss of, one or both sides"
+DG9909,"Coronoid process, loss of"
+DG9911,"Hard palate, loss of half or more"
+DG9912,"Hard palate, loss of less than half of"
+DG9913,"Teeth, loss of, due to loss of body of maxilla or mandible without loss of continuity"
+DG9914,"Maxilla, loss of more than half"
+DG9915,"Maxilla, loss of half or less"
+DG9916,"Maxilla, malunion or nonunion of"
+DG9999,Other dental or oral condition

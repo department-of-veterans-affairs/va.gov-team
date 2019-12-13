@@ -1,0 +1,41 @@
+# 526 All Claims Outline
+WIP: More issues to come. But this should get us started.
+
+- Epic: Introduction
+- Epic: Type of claim wizard
+  - Issue: Have you ever…
+  - Issue: Conditional logic impact of wizard
+- Epic: Review known or enter new data about Veteran
+  - Issue: Display basic details
+    - Issue: Edit basic details
+  - Issue: Address
+    - Issue: Edit address
+    - Issue: Specify forwarding address and effective date
+  - Issue: Military service
+    - Issue: Edit military service
+    - Issue: Add new period of service
+  - Issue: Payment info
+- Epic: Specify conditions
+  - Epic: Existing conditions
+    - Issue: Display rated conditions
+    - Issue: Select list of conditions you want to claim
+  - Epic: New conditions
+    - Issue: Specify a new condition
+    - Issue: Follow-up questions
+- Epic: Supporting evidence
+  - Issue: Loop through existing conditions (increase)
+    - Issue: Where do we find treatment records?
+  - Issue: Loop through new conditions (original and supplemental)
+    - Issue: Follow up questions (when relevant)
+    - Issue: Where do we find treatment records?
+  - Issue: Upload any additional evidence
+- Epic: Additional benefits (conditional 30% or higher existing rating)
+  - Issue: Adaptive benefits questions
+  - Issue: Aid & Attendance benefits questions
+  - Issue: Individual Unemployability benefit questions
+  - Issue: How to apply for those (relevant)
+- Epic: Additional uploads
+- Epic: FDC and other claim type questions (BDD, IDES, etc.)
+- Epic: Review
+- Epic: Confirmation
+

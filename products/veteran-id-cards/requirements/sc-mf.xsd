@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema targetNamespace="http://www.incepture.com.sc/MF_File" elementFormDefault="qualified" xmlns="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://www.incepture.com.sc/MF_File">
+    <element name="MF_File">
+    	<annotation>
+			<documentation>SC Mail File</documentation>
+		</annotation>
+		<complexType>
+			<sequence>
+				<element name="MFFileID">
+					<simpleType>
+						<restriction base="string">
+							<maxLength value="20"/>
+						</restriction>
+					</simpleType>
+				</element>
+				<element name="FileType">
+					<simpleType>
+						<restriction base="string">
+							<maxLength value="3"/>
+						</restriction>
+					</simpleType>
+				</element>
+				<element name="FileDateTime" type="dateTime"/>
+				<element name="JobControlNumber">
+					<simpleType>
+						<restriction base="string">
+							<maxLength value="30"/>
+						</restriction>
+					</simpleType>
+				</element>
+				<element name="TotalPackages" type="int"/>
+				<element name="TotalSheetCount" type="int" minOccurs="0" maxOccurs="1"/>	
+				<element name="PrintCompleteDateTime" type="dateTime"/>
+				<element name="InsertCompleteDateTime" type="dateTime" maxOccurs="1" minOccurs="0"/>
+				<element name="SortCompleteDateTime" type="dateTime" maxOccurs="1" minOccurs="0"/>											
+				<element name="Batch" maxOccurs="unbounded">
+					<complexType>
+					<sequence>
+							<element name="PrintFileName">
+								<simpleType>
+									<restriction base="string">
+									</restriction>
+								</simpleType>
+							</element>							
+							<element name="Package" maxOccurs="unbounded">
+								<complexType>
+									<sequence>
+										<element name="CustomerPackageKey">
+											<simpleType>
+												<restriction base="string">
+													<maxLength value="50"/>
+												</restriction>
+											</simpleType>
+										</element>
+										<element name="IncepturePackageKey">
+											<simpleType>
+												<restriction base="string">
+													<maxLength value="30"/>
+												</restriction>
+											</simpleType>
+										</element>
+										
+										<element name="DispositionId" type="int"/>
+										<element name="DispositionDescription">
+											<simpleType>
+												<restriction base="string">
+													<maxLength value="100"/>
+												</restriction>
+											</simpleType>
+										</element>
+										<element name="IMB" minOccurs="0" maxOccurs="1">
+                                             <simpleType>
+                                                 <restriction base="string">
+                                                     <maxLength value="31"/>
+                                                 </restriction>
+                                             </simpleType>
+                                        </element>  
+                                        <element name="SheetCount" type="int" minOccurs="0" maxOccurs="1"/>                     										
+									</sequence>
+								</complexType>
+							</element>
+					</sequence>
+					</complexType>
+				</element>	
+			</sequence>
+			<attribute name="version" use="optional">
+				<simpleType>
+					<restriction base="string">
+						<maxLength value="20"></maxLength>
+					</restriction>
+				</simpleType>
+			</attribute>
+		</complexType>
+    </element>
+</schema>

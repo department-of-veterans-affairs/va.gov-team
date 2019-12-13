@@ -1,0 +1,1 @@
+This directory contains documents from 2016 technical discovery activities, which may or may not be directly applicable to the development work happening in 2017 and beyond.  However, these are all important historical documents.

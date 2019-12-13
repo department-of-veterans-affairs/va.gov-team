@@ -1,0 +1,836 @@
+CNTNTN_CLSFCN_ID,CNTNTN_CLSFCN_TXT,END_DT
+10,abnormal heart,4-Feb-16
+20,abnormal mitral valve,4-Feb-16
+30,abnormal weight loss,4-Feb-16
+40,"abscess, brain",4-Feb-16
+50,"abscess, kidney",4-Feb-16
+60,"abscess, liver",4-Feb-16
+70,acne,4-Feb-16
+80,acromegaly,4-Feb-16
+90,acute nonlymphocytic leukemia,4-Feb-16
+110,adenocarcinoma,4-Feb-16
+120,adenomyoepithelioma,4-Feb-16
+130,adhesions,4-Feb-16
+140,aging,4-Feb-16
+150,agoraphobia,4-Feb-16
+160,AIDS,4-Feb-16
+170,alcohol abuse,4-Feb-16
+180,allergies,4-Feb-16
+190,ALS,4-Feb-16
+200,alveolar abscesses,4-Feb-16
+210,amebiasis,4-Feb-16
+220,amputation,4-Feb-16
+230,amputation - above knee,4-Feb-16
+240,"amputation - arm, forearm, hand",4-Feb-16
+250,amputation - below knee,4-Feb-16
+260,amputation - foot (feet),4-Feb-16
+270,amputation - leg(s),4-Feb-16
+280,amputation - multiple fingers,4-Feb-16
+290,amputation - single finger,4-Feb-16
+300,amputation - toe (toes),4-Feb-16
+310,amyotrophic lateral sclerosis,4-Feb-16
+320,anatomical loss,4-Feb-16
+330,"anemia, primary",4-Feb-16
+340,aneurysm,4-Feb-16
+350,angina,4-Feb-16
+360,"ankle condition, bilateral",4-Feb-16
+370,"ankle condition, left",4-Feb-16
+380,"ankle condition, right",4-Feb-16
+390,ankle sprain,4-Feb-16
+400,ankle strain,4-Feb-16
+410,anxiety condition,4-Feb-16
+420,"arm condition, bilateral",4-Feb-16
+430,"arm condition, left",4-Feb-16
+440,"arm condition, right",4-Feb-16
+450,arrhythmia,4-Feb-16
+460,arteriosclerosis,4-Feb-16
+470,arteriosclerosis obliterans,4-Feb-16
+480,arteriosclerotic heart disease,4-Feb-16
+490,arthritis,4-Feb-16
+500,"arthritis, degenerative",4-Feb-16
+510,"arthritis, due to trauma",4-Feb-16
+520,asbestosis (asbestos disease),4-Feb-16
+540,asthma,4-Feb-16
+550,atherosclerosis,4-Feb-16
+560,atherosclerotic peripheral vascular disease,4-Feb-16
+570,athlete's foot,4-Feb-16
+580,"atrophy, progressive muscular",4-Feb-16
+590,avitaminosis,4-Feb-16
+600,back condition,4-Feb-16
+610,back injury,4-Feb-16
+620,back sprain,4-Feb-16
+630,back strain,4-Feb-16
+640,basaloma,4-Feb-16
+650,Bell's palsy,4-Feb-16
+660,beriberi (including beriberi heart disease),4-Feb-16
+670,bipolar disorder,4-Feb-16
+680,Birth Defect in Child,
+690,blackwater fever,4-Feb-16
+700,bladder condition,4-Feb-16
+710,bladder stone(s),4-Feb-16
+720,blindness (including light perception only),4-Feb-16
+730,blood clot(s),4-Feb-16
+740,Boeck's disease,4-Feb-16
+750,bone atrophy,4-Feb-16
+760,bone condition,4-Feb-16
+770,bone fracture(s),4-Feb-16
+780,bowel condition,4-Feb-16
+790,brain hemorrhage,4-Feb-16
+800,brain thrombosis,4-Feb-16
+810,brain tumor(s),4-Feb-16
+820,"breast condition, bilateral",4-Feb-16
+830,"breast condition, left",4-Feb-16
+840,"breast condition, right",4-Feb-16
+850,bronchiectasis,4-Feb-16
+860,bronchitis,4-Feb-16
+870,bruise,4-Feb-16
+880,Buerger's disease,4-Feb-16
+890,bulbar palsy,4-Feb-16
+900,burn(s),4-Feb-16
+910,bursitis,4-Feb-16
+920,CAD,4-Feb-16
+930,Caisson disease,4-Feb-16
+940,calculus - bladder,4-Feb-16
+950,calculus - gallbladder,4-Feb-16
+960,calculus - kidney,4-Feb-16
+970,cancer,4-Feb-16
+980,cancer - bile ducts,4-Feb-16
+990,cancer - bone,4-Feb-16
+1000,cancer - brain,4-Feb-16
+1010,cancer - breast,4-Feb-16
+1020,cancer - bronchus,4-Feb-16
+1030,cancer - cheek,4-Feb-16
+1040,cancer - colon,4-Feb-16
+1050,cancer - esophagus,4-Feb-16
+1060,cancer - gall bladder,4-Feb-16
+1070,cancer - gastrointestinal tract,4-Feb-16
+1080,cancer - gum,4-Feb-16
+1090,cancer - kidney,4-Feb-16
+1100,cancer - larynx,4-Feb-16
+1110,cancer - lip,4-Feb-16
+1120,cancer - liver,4-Feb-16
+1130,cancer - lung,4-Feb-16
+1140,cancer - lymph nodes,4-Feb-16
+1150,cancer - nasopharyngeal,4-Feb-16
+1160,cancer - ovarian,4-Feb-16
+1170,cancer - pancreas,4-Feb-16
+1180,cancer - pharyngolaryngeal,4-Feb-16
+1190,cancer - pharynx,4-Feb-16
+1200,cancer - prostate,4-Feb-16
+1210,cancer - rectum,4-Feb-16
+1220,cancer - renal pelves,4-Feb-16
+1230,Cancer - Respiratory,
+1240,cancer - salivary gland,4-Feb-16
+1250,Cancer - Skin,
+1260,cancer - small intestine,4-Feb-16
+1270,"cancer - squamous cell, of the skin",4-Feb-16
+1280,cancer - stomach,4-Feb-16
+1290,cancer - testicle,4-Feb-16
+1300,cancer - thyroid,4-Feb-16
+1310,cancer - tongue,4-Feb-16
+1320,cancer - trachea,4-Feb-16
+1330,cancer - ureters,4-Feb-16
+1340,cancer - urethra,4-Feb-16
+1350,cancer - urinary bladder,4-Feb-16
+1360,cancer - urinary tract,4-Feb-16
+1370,cancer - urogenital system (except prostate),4-Feb-16
+1380,carate (AKA pinta),4-Feb-16
+1390,carcinoma,4-Feb-16
+1400,cardiovascular disease,4-Feb-16
+1410,cardiovascular signs or symptoms,4-Feb-16
+1420,carpal tunnel syndrome,4-Feb-16
+1430,cartilage,4-Feb-16
+1440,cataract,4-Feb-16
+1450,"cataracts, posterior subcapsular",4-Feb-16
+1460,catarrhal fever (common cold),4-Feb-16
+1470,cavity,4-Feb-16
+1480,central nervous system tumors,4-Feb-16
+1490,cerebral accident,4-Feb-16
+1500,cerebral hemorrhage,4-Feb-16
+1510,cerebral vascular accident,4-Feb-16
+1520,cerebrovascular accident,4-Feb-16
+1530,cerebrovascular hemorrhage,4-Feb-16
+1540,cervical sprain,4-Feb-16
+1550,cervical strain,4-Feb-16
+1560,cervicitis,4-Feb-16
+1570,CHF,4-Feb-16
+1580,chest pain,4-Feb-16
+1590,Chloracne or other acneform disease consistent w/ chloracne,4-Feb-16
+1600,chloroma,4-Feb-16
+1610,cholangiocarcinoma,4-Feb-16
+1620,cholangioma,4-Feb-16
+1630,cholangitis,4-Feb-16
+1640,cholecystitis,4-Feb-16
+1650,cholera,4-Feb-16
+1660,choriocarcinoma,4-Feb-16
+1670,choroiditis,4-Feb-16
+1680,chronic fatigue syndrome,4-Feb-16
+1690,chronic lymphocytic leukemia,4-Feb-16
+1700,chronic obstructive pulmonary disease,4-Feb-16
+1710,chronic organic brain syndrome,4-Feb-16
+1720,chronic renal disease,4-Feb-16
+1730,cirrhosis of liver,4-Feb-16
+1740,clavicle,4-Feb-16
+1750,clots,4-Feb-16
+1760,coccidiodomycosis,4-Feb-16
+1770,cold,4-Feb-16
+1780,colitis,4-Feb-16
+1790,"colon syndrome, irritable",4-Feb-16
+1800,combat fatigue,4-Feb-16
+1810,combat neurosis,4-Feb-16
+1820,comedocarcinoma,4-Feb-16
+1830,congestive heart failure,4-Feb-16
+1840,conjunctivitis,4-Feb-16
+1850,cor pulmonale,4-Feb-16
+1860,corneal opacities,4-Feb-16
+1870,coronary,4-Feb-16
+1880,coronary accident,4-Feb-16
+1890,coronary artery bypass,4-Feb-16
+1900,coronary artery disease,4-Feb-16
+1910,costochondritis,4-Feb-16
+1920,Cushing's syndrome,4-Feb-16
+1930,CVA,4-Feb-16
+1940,cyclitis,4-Feb-16
+1950,cylindroma,4-Feb-16
+1960,cyst,4-Feb-16
+1970,cystitis,4-Feb-16
+1980,"deafness, nerve",4-Feb-16
+1990,degenerative arthritis,4-Feb-16
+2000,dehydration,4-Feb-16
+2010,dementia,4-Feb-16
+2020,dental abscesses,4-Feb-16
+2030,depression,4-Feb-16
+2040,depressive neurosis,4-Feb-16
+2050,dermatitis,4-Feb-16
+2060,diabetes,4-Feb-16
+2070,diabetes insipidus,4-Feb-16
+2080,diabetes mellitus,4-Feb-16
+2090,diarrhea,4-Feb-16
+2100,digestive disorder,4-Feb-16
+2110,disarticulation,4-Feb-16
+2120,discoid lupus,4-Feb-16
+2130,diverticulitis,4-Feb-16
+2140,dizziness,4-Feb-16
+2150,dracontiasis,4-Feb-16
+2160,dracunculiasis,4-Feb-16
+2170,drug abuse,4-Feb-16
+2180,dysentery,4-Feb-16
+2190,dysthymic disorder,4-Feb-16
+2200,ear condition,4-Feb-16
+2210,ear infection,4-Feb-16
+2220,ears-ringing,4-Feb-16
+2230,eating disorder,4-Feb-16
+2240,eczema,4-Feb-16
+2250,"elbow condition, bilateral",4-Feb-16
+2260,"elbow condition, left",4-Feb-16
+2270,"elbow condition, right",4-Feb-16
+2280,elbow sprain,4-Feb-16
+2290,elbow strain,4-Feb-16
+2300,embolism,4-Feb-16
+2310,"embolism, brain",4-Feb-16
+2320,emphysema,4-Feb-16
+2330,"encephalitis, lethargica residuals",4-Feb-16
+2340,endocarditis,4-Feb-16
+2350,endocrinopathy,4-Feb-16
+2360,endometriosis,4-Feb-16
+2370,endothelioma,4-Feb-16
+2380,enucleation,4-Feb-16
+2390,epididymitis,4-Feb-16
+2400,epilepsy,4-Feb-16
+2410,epithelioma,4-Feb-16
+2420,erythematosus lupus,4-Feb-16
+2430,esophageal condition,4-Feb-16
+2440,"eye condition, bilateral",4-Feb-16
+2450,"eye condition, left",4-Feb-16
+2460,"eye condition, right",4-Feb-16
+2470,eye disease,4-Feb-16
+2480,facial injury,4-Feb-16
+2490,"fallen arches, bilateral",4-Feb-16
+2500,"fallen arches, left",4-Feb-16
+2510,"fallen arches, right",4-Feb-16
+2520,fatigue,4-Feb-16
+2530,feet,4-Feb-16
+2540,fibromyalgia,4-Feb-16
+2560,fibrosis,4-Feb-16
+2570,"fibrosis, interstitial pulmonary",4-Feb-16
+2580,filariasis,4-Feb-16
+2590,finger(s),4-Feb-16
+2600,"flatfoot, bilateral",4-Feb-16
+2610,"flatfoot, left",4-Feb-16
+2620,"flatfoot, right",4-Feb-16
+2630,flu,4-Feb-16
+2640,flu-like conditions,4-Feb-16
+2650,"foot condition, bilateral",4-Feb-16
+2660,"foot condition, left",4-Feb-16
+2670,"foot condition, right",4-Feb-16
+2680,foot pain,4-Feb-16
+2690,"forearm condition, bilateral",4-Feb-16
+2700,"forearm condition, left",4-Feb-16
+2710,"forearm condition, right",4-Feb-16
+2720,fracture(s),4-Feb-16
+2730,"frostbite, organic residuals of",4-Feb-16
+2740,frozen feet,4-Feb-16
+2750,fungal condition,4-Feb-16
+2760,gall bladder condition,4-Feb-16
+2770,gallstone(s),4-Feb-16
+2780,gangrene,4-Feb-16
+2790,gastritis,4-Feb-16
+2800,gastroenteritis,4-Feb-16
+2810,gastrointestinal problems,4-Feb-16
+2820,gastrointestinal signs or symptoms,4-Feb-16
+2830,generalized arteriosclerosis,4-Feb-16
+2840,genitourinary condition,4-Feb-16
+2850,GERD,4-Feb-16
+2860,gingivitis,4-Feb-16
+2870,"glaucoma, bilateral",4-Feb-16
+2880,"glaucoma, left",4-Feb-16
+2890,"glaucoma, right",4-Feb-16
+2900,glomerulonephritis,4-Feb-16
+3000,gout,4-Feb-16
+3010,grand mal epilepsy,4-Feb-16
+3020,groin condition,4-Feb-16
+3030,Gulf War veteran with unexplained chronic multi-symptom illness,4-Feb-16
+3040,gum disease,4-Feb-16
+3050,"gums, sore",4-Feb-16
+3060,gynecological condition,4-Feb-16
+3070,hair loss,4-Feb-16
+3080,"hand condition, bilateral",4-Feb-16
+3090,"hand condition, left",4-Feb-16
+3100,"hand condition, right",4-Feb-16
+3110,Hansen's disease,4-Feb-16
+3120,head injury,4-Feb-16
+3130,headaches,4-Feb-16
+3140,Hearing Loss,
+3150,"hearing loss, sensorineural",4-Feb-16
+3160,heart attack,4-Feb-16
+3170,heart condition,4-Feb-16
+3180,heart disease,4-Feb-16
+3190,heart failure,4-Feb-16
+3200,heat stroke,4-Feb-16
+3210,helminthiasis,4-Feb-16
+3220,hematuria,4-Feb-16
+3230,hemic-lymphatic condition,4-Feb-16
+3240,hemorrhage,4-Feb-16
+3250,hemorrhagic purpura idiopathic,4-Feb-16
+3260,hemorrhoids,4-Feb-16
+3270,hepatitis,4-Feb-16
+3280,hepatocarcinoma,4-Feb-16
+3290,hepatoma,4-Feb-16
+3300,hernia condition,4-Feb-16
+3310,"hernia, femoral",4-Feb-16
+3320,"hernia, hiatal",4-Feb-16
+3330,"Hernia, inguinal",4-Feb-16
+3360,herpes,4-Feb-16
+3370,high blood pressure,4-Feb-16
+3380,"hip condition, bilateral",4-Feb-16
+3390,"hip condition, left",4-Feb-16
+3400,"hip condition, right",4-Feb-16
+3410,HIV,4-Feb-16
+3420,Hodgkin's disease,4-Feb-16
+3430,human immunodeficiency virus,4-Feb-16
+3440,hypercholesterolemia,4-Feb-16
+3450,hyperlipidemia,4-Feb-16
+3460,hypertension,4-Feb-16
+3470,hyperthyroidism,4-Feb-16
+3480,hypothyroidism,4-Feb-16
+3490,hypovitaminosis,4-Feb-16
+3500,hysterectomy,4-Feb-16
+3510,immune disorder,4-Feb-16
+3520,infarction,4-Feb-16
+3530,infection(s),4-Feb-16
+3540,intestinal condition,4-Feb-16
+3550,involutional changes,4-Feb-16
+3560,iritis,4-Feb-16
+3570,irritable bowel syndrome,4-Feb-16
+3580,irritable colon,4-Feb-16
+3590,jaw condition,4-Feb-16
+3600,joint disease,4-Feb-16
+3610,joint pains,4-Feb-16
+3620,kala-azar,4-Feb-16
+3630,keratitis,4-Feb-16
+3640,kidney disease,4-Feb-16
+3650,kidney failure,4-Feb-16
+3660,kidney stone(s),4-Feb-16
+3670,kidney transplant,4-Feb-16
+3680,"kidney, removal of",4-Feb-16
+3690,"knee condition, bilateral",4-Feb-16
+3700,"knee condition, left",4-Feb-16
+3710,"knee condition, right",4-Feb-16
+3720,knee sprain,4-Feb-16
+3730,knee strain,4-Feb-16
+3740,labyrinthitis,4-Feb-16
+3750,laryngectomy,4-Feb-16
+3760,laryngitis,4-Feb-16
+3770,larynx condition,4-Feb-16
+3780,"leg condition, bilateral",4-Feb-16
+3790,"leg condition, left",4-Feb-16
+3800,"leg condition, right",4-Feb-16
+3810,leishmaniasis,4-Feb-16
+3820,leprosy,4-Feb-16
+3830,leukemia,4-Feb-16
+3840,leukosarcoma,4-Feb-16
+3850,liver condition,4-Feb-16
+3860,loiasis,4-Feb-16
+3870,loose teeth,4-Feb-16
+3880,loss of use,4-Feb-16
+3890,Lou Gehrig's disease,4-Feb-16
+3900,low back condition,4-Feb-16
+3910,low back sprain,4-Feb-16
+3920,low back strain,4-Feb-16
+3930,lumbar sprain,4-Feb-16
+3940,lumbar strain,4-Feb-16
+3950,lung condition,4-Feb-16
+3960,lupus,4-Feb-16
+3970,"lupus, discoid",4-Feb-16
+3980,"lupus, erythematosus",4-Feb-16
+3990,"lupus, systemic",4-Feb-16
+4000,Lyme disease,4-Feb-16
+4010,lymphogranulomatosis,4-Feb-16
+4020,Lymphoma - except Hodgkin's disease,4-Feb-16
+4030,lymphomas,4-Feb-16
+4040,lymphosarcoma,4-Feb-16
+4050,major depression,4-Feb-16
+4060,malaria,4-Feb-16
+4070,malignancy,4-Feb-16
+4080,malignant leiomyblastoma,4-Feb-16
+4090,malignant neoplasm,4-Feb-16
+4100,malignant tumor(s),4-Feb-16
+4110,malnutrition,4-Feb-16
+4120,manic-depressive reaction,4-Feb-16
+4130,mastoiditis,4-Feb-16
+4140,melanocarcinoma,4-Feb-16
+4150,melanoepithelioma,4-Feb-16
+4160,melanoma,4-Feb-16
+4170,"melanoma, malignant",4-Feb-16
+4180,melanosarcoma,4-Feb-16
+4190,melanoscirrhus,4-Feb-16
+4200,memory loss,4-Feb-16
+4210,meniere's disease,4-Feb-16
+4220,menstrual disorders,4-Feb-16
+4230,mental disease,4-Feb-16
+4240,mental disorder,4-Feb-16
+4250,mesenchymoma,4-Feb-16
+4260,mesonephroma,4-Feb-16
+4270,mesotheliomas of peritoneum,4-Feb-16
+4280,mesotheliomas of pleura,4-Feb-16
+4290,metritis,4-Feb-16
+4300,migraine,4-Feb-16
+4310,Morton's disease,4-Feb-16
+4320,mouth condition,4-Feb-16
+4330,multiple sclerosis,4-Feb-16
+4340,muscle atrophy,4-Feb-16
+4350,muscle condition,4-Feb-16
+4360,muscle injury,4-Feb-16
+4370,muscle pain,4-Feb-16
+4380,musculoskeletal condition,4-Feb-16
+4390,myasthenia gravis,4-Feb-16
+4400,Mycosis fungoides,4-Feb-16
+4410,myelitis (a spinal cord condition),4-Feb-16
+4420,myeloma,4-Feb-16
+4430,"myeloma, multiple",4-Feb-16
+4440,myocardial infarction (MI),4-Feb-16
+4450,myocarditis,4-Feb-16
+4460,myositis,4-Feb-16
+4470,myxosarcoma,4-Feb-16
+4480,nausea,4-Feb-16
+4490,neck condition,4-Feb-16
+4500,neck sprain,4-Feb-16
+4510,neck strain,4-Feb-16
+4520,"neoplasm(s), benign",4-Feb-16
+4530,"neoplasm(s), malignant",4-Feb-16
+4540,nephritis,4-Feb-16
+4550,nerve damage,4-Feb-16
+4560,nerve deafness,4-Feb-16
+4570,nerves,4-Feb-16
+4580,nervous system disease,4-Feb-16
+4590,nervousness,4-Feb-16
+4600,neuralgia,4-Feb-16
+4610,neuritis,4-Feb-16
+4620,neurologic signs or symptoms,4-Feb-16
+4630,neurological disorder,4-Feb-16
+4640,"neuropathy, peripheral",4-Feb-16
+4650,neuropsychological signs or symptoms,4-Feb-16
+4660,"new growths, malignant",4-Feb-16
+4670,niacin deficiency,4-Feb-16
+4680,Non-Hodgkin's lymphoma (NHL),4-Feb-16
+4690,non-specific digestive complaints,4-Feb-16
+4700,non-specific ear condition,4-Feb-16
+4710,non-specific genitourinary complaints,4-Feb-16
+4720,non-specific gynecological complaints,4-Feb-16
+4730,non-specific nervous complaints,4-Feb-16
+4740,non-specific neurological complaints,4-Feb-16
+4750,non-specific orthopedic claims,4-Feb-16
+4760,non-specific respiratory condition,4-Feb-16
+4770,nose condition,4-Feb-16
+4780,nutritional deficiency,4-Feb-16
+4790,OBS,4-Feb-16
+4800,onchocerciasis,4-Feb-16
+4810,oophoritis,4-Feb-16
+4820,optic atrophy associated with malnutrition,4-Feb-16
+4830,organic brain syndrome,4-Feb-16
+4840,organic diseases of the nervous system,4-Feb-16
+4850,organic heart disease,4-Feb-16
+4860,oroya fever,4-Feb-16
+4870,orthopedic condition,4-Feb-16
+4880,Osgood Schlatter disease,4-Feb-16
+4890,osteitis deformans (Paget's disease),4-Feb-16
+4900,"osteoarthritis, post-traumatic",4-Feb-16
+4910,osteomalacia,4-Feb-16
+4920,otitis externa,4-Feb-16
+5000,otitis media,4-Feb-16
+5010,otosclerosis,4-Feb-16
+5020,"ovarian condition, bilateral",4-Feb-16
+5030,"ovary (disease, injury, or adhesions of)",4-Feb-16
+5040,ovary (removal of),4-Feb-16
+5050,painful joints,4-Feb-16
+5060,palsy,4-Feb-16
+5070,"palsy, bulbar",4-Feb-16
+5080,pancreatitis,4-Feb-16
+5090,paralysis,4-Feb-16
+5100,paralysis agitans,4-Feb-16
+5110,"paralysis, nerve",4-Feb-16
+5120,paranoid reaction,4-Feb-16
+5130,parasites,4-Feb-16
+5140,parathyroid adenoma,4-Feb-16
+5150,parenchymal lung disease,4-Feb-16
+5160,Parkinson's disease,4-Feb-16
+5170,pellagra,4-Feb-16
+5180,penile condition,4-Feb-16
+5190,peptic ulcer disease,4-Feb-16
+5200,pericarditis,4-Feb-16
+5210,periodontal disease (pyorrhea),4-Feb-16
+5220,periostitis,4-Feb-16
+5230,peripheral neuropathy,4-Feb-16
+5240,"peripheral neuropathy, acute and subacute",4-Feb-16
+5250,peripheral vascular disease,4-Feb-16
+5260,peritonitis,4-Feb-16
+5270,personality disorder,4-Feb-16
+5280,petit mal epilepsy,4-Feb-16
+5290,pharyngeal condition,4-Feb-16
+5300,phlebitis,4-Feb-16
+5310,phobias,4-Feb-16
+5320,pinta,4-Feb-16
+5330,plague,4-Feb-16
+5340,plantar fasciitis,4-Feb-16
+5350,pleural effusions,4-Feb-16
+5360,pleural plaques,4-Feb-16
+5370,pleurisy,4-Feb-16
+5380,pneumocystis carini pneumonia,4-Feb-16
+5390,pneumonia,4-Feb-16
+5400,polymyositis,4-Feb-16
+5410,porphyria cutanea tarda  (PCT) (a skin condition),4-Feb-16
+5420,PTSD (post traumatic stress disorder),4-Feb-16
+5430,posterior subcapsular cataracts,4-Feb-16
+5440,"pregnancy, surgical complications of",4-Feb-16
+5450,primary anemia,4-Feb-16
+5460,progressive muscular atrophy,4-Feb-16
+5470,"prostate gland (injuries, infections, hypertrophy)",4-Feb-16
+5480,psoriasis,4-Feb-16
+5490,psychomotor epilepsy,4-Feb-16
+5500,psychophysiological disorder,4-Feb-16
+5510,psychoses,4-Feb-16
+5520,psychosis,4-Feb-16
+5530,psychotic depressive reaction,4-Feb-16
+5540,psychotic reaction,4-Feb-16
+5550,"purpura idiopathic, hemorrhagic",4-Feb-16
+5560,Raynaud's disease,4-Feb-16
+5570,rectal bleeding,4-Feb-16
+5580,removal of kidneys,4-Feb-16
+5590,renal disease,4-Feb-16
+5600,renal failure,4-Feb-16
+5610,Respiratory complaints,4-Feb-16
+5620,Reticulum cell sarcoma,4-Feb-16
+5630,retina (detachment of),4-Feb-16
+5640,"retina (scars, atrophy, or irregularities of)",4-Feb-16
+5650,retinitis,4-Feb-16
+5660,rheumatic fever,4-Feb-16
+5670,rheumatic heart disease,4-Feb-16
+5680,rheumatism,4-Feb-16
+5690,rhinitis,4-Feb-16
+5700,rib(s),4-Feb-16
+5710,ringing in ears,4-Feb-16
+5720,"saliva, thickened",4-Feb-16
+5730,salpingitis,4-Feb-16
+5740,sarcoidosis,4-Feb-16
+5750,sarcoma,4-Feb-16
+5760,"sarcoma, reticulum cell",4-Feb-16
+5770,"sarcoma, soft-tissue",4-Feb-16
+5780,"sarcoma, soft-tissue - adult fibrosarcoma",4-Feb-16
+5790,"sarcoma, soft-tissue - alveolar soft part sarcoma",4-Feb-16
+5800,"sarcoma, soft-tissue - angiosarcoma",4-Feb-16
+5810,"sarcoma, soft-tissue - chondrosarcoma",4-Feb-16
+5820,"sarcoma, soft-tissue - clear cell, of tendons & aponeuroses",4-Feb-16
+5830,"sarcoma, soft-tissue - congenital fibrosarcoma",4-Feb-16
+5840,"sarcoma, soft-tissue - dermatofibrosarcoma protuberans",4-Feb-16
+5850,"sarcoma, soft-tissue - ectomesenchymoma",4-Feb-16
+5860,"sarcoma, soft-tissue - epithelioid leiomyosarcoma",4-Feb-16
+5870,"sarcoma, soft-tissue - epithelioid sarcoma",4-Feb-16
+5880,"sarcoma, soft-tissue - extraskeletal Ewing's sarcoma",4-Feb-16
+5890,"sarcoma, soft-tissue - fibrosarcoma",4-Feb-16
+5900,"sarcoma, soft-tissue - hemangiosarcoma",4-Feb-16
+5910,"sarcoma, soft-tissue - infantile fibrosarcoma",4-Feb-16
+5920,"sarcoma, soft-tissue - Kaposi's sarcoma",4-Feb-16
+5930,"sarcoma, soft-tissue - leiomyosarcoma",4-Feb-16
+5940,"sarcoma, soft-tissue - liposarcoma",4-Feb-16
+5950,"sarcoma, soft-tissue - lymphangiosarcoma",4-Feb-16
+5960,"sarcoma, soft-tissue - malignant fibrous histiocytoma",4-Feb-16
+5970,"sarcoma, soft-tissue - malignant ganglioneuroma",4-Feb-16
+5980,"sarcoma, soft-tissue - malignant glomus tumor",4-Feb-16
+5990,"sarcoma, soft-tissue - malignant granular cell tumor",4-Feb-16
+6000,"sarcoma, soft-tissue - malignant hemangiopericytoma",4-Feb-16
+6010,"sarcoma, soft-tissue - malignant leiomyoblastoma",4-Feb-16
+6020,"sarcoma, soft-tissue - malignant mesenchymoma",4-Feb-16
+6030,"sarcoma, soft-tissue - malignant schwannoma",4-Feb-16
+6040,"sarcoma, soft-tissue - malignant Triton tumor",4-Feb-16
+6050,"sarcoma, soft-tissue - mesothelioma",4-Feb-16
+6060,"sarcoma, soft-tissue - osteosarcoma",4-Feb-16
+6070,"sarcoma, soft-tissue - proliferating angioendotheliomatosis",4-Feb-16
+6080,"sarcoma, soft-tissue - rhabdomyosarcoma",4-Feb-16
+6090,"sarcoma, soft-tissue - synovial sarcoma",4-Feb-16
+6100,"sarcoma, soft-tissue - synovioma, malignant",4-Feb-16
+6110,"sarcoma,soft-tissue-malignant giant cell tumor/tendon sheath",4-Feb-16
+6120,scapula,4-Feb-16
+6130,scar formation,4-Feb-16
+6140,scar(s),4-Feb-16
+6150,"scar(s), burns",4-Feb-16
+6160,schistosomiasis,4-Feb-16
+6170,schizophrenia,4-Feb-16
+6180,"schwannoma, epitheloid, malignant",4-Feb-16
+6190,"schwannoma, glandular, malignant",4-Feb-16
+6200,"schwannoma, malignant with rhabdomyoblastic differentiation",4-Feb-16
+6210,scleritis,4-Feb-16
+6220,scleroderma,4-Feb-16
+6230,sebaceous cyst,4-Feb-16
+6240,seizure disorder,4-Feb-16
+6250,seminoma,4-Feb-16
+6260,shell shock,4-Feb-16
+6270,shin splints,4-Feb-16
+6280,shortness of breath,4-Feb-16
+6290,"shoulder condition, bilateral",4-Feb-16
+6300,"shoulder condition, left",4-Feb-16
+6310,"shoulder condition, right",4-Feb-16
+6320,shoulder replacement,4-Feb-16
+6330,shoulder sprain,4-Feb-16
+6340,shoulder strain,4-Feb-16
+6350,sickle cell anemia,4-Feb-16
+6360,signs or symptoms involving cardiovascular system,4-Feb-16
+6370,signs or symptoms involving digestive system,4-Feb-16
+6380,signs or symptoms involving nervous system,4-Feb-16
+6390,signs or symptoms involving respiratory system,4-Feb-16
+6400,signs or symptoms involving skin,4-Feb-16
+6410,sinus condition,4-Feb-16
+6420,sinusitis,4-Feb-16
+6430,skin condition,4-Feb-16
+6440,sleep apnea,4-Feb-16
+6450,sleep disturbances,4-Feb-16
+6460,"smell, loss of sense of",4-Feb-16
+6470,spine,4-Feb-16
+6480,spleen condition,4-Feb-16
+6490,sprains,4-Feb-16
+6500,Sternberg's sarcoma,4-Feb-16
+6510,stomach condition,4-Feb-16
+6520,stone(s),4-Feb-16
+6530,strains,4-Feb-16
+6540,strep throat,4-Feb-16
+6550,stress,4-Feb-16
+6560,stress disorder,4-Feb-16
+6570,stroke,4-Feb-16
+6580,stump,4-Feb-16
+6590,"surgery, residuals",4-Feb-16
+6600,synoviosarcoma,4-Feb-16
+6610,synovitis,4-Feb-16
+6620,syphilis,4-Feb-16
+6630,syringomyelia,4-Feb-16
+6640,systemic lupus,4-Feb-16
+6650,"taste, loss of sense of",4-Feb-16
+6660,tendinitis,4-Feb-16
+6670,tendonitis,4-Feb-16
+6680,tenosynovitis,4-Feb-16
+6690,"testicular condition, bilateral",4-Feb-16
+6700,"testicular condition, left",4-Feb-16
+6710,"testicular condition, right",4-Feb-16
+6720,thiamine deficiency,4-Feb-16
+6730,thigh condition,4-Feb-16
+6740,thoracic sprain,4-Feb-16
+6750,thoracic strain,4-Feb-16
+6760,throat condition,4-Feb-16
+6770,"thromboangiitis, obliterans (Buerger's disease)",4-Feb-16
+6780,thrombocytopenia,4-Feb-16
+6790,thrombocytopenic purpura,4-Feb-16
+6800,"thrombosis, brain",4-Feb-16
+6810,thumb,4-Feb-16
+6820,thyroid condition,4-Feb-16
+6830,"thyroid nodular disease, non-malignant",4-Feb-16
+6840,tinea pedis,4-Feb-16
+6850,tinnitus,4-Feb-16
+6860,toe(s),4-Feb-16
+6870,tongue condition,4-Feb-16
+6880,tooth condition,4-Feb-16
+6890,Tuberculosis,
+6900,tumor(s) - malignant glomus,4-Feb-16
+6910,tumor(s) - malignant granular cell,4-Feb-16
+6920,tumors - brain,4-Feb-16
+6930,tumors - central nervous system,4-Feb-16
+6940,tumors - malignant,4-Feb-16
+6950,tumors - peripheral nerves,4-Feb-16
+6960,tumors - spinal cord,4-Feb-16
+6970,ulcer condition,4-Feb-16
+6980,Gulf War veteran with undiagnosed illness,4-Feb-16
+6990,Unemployability,
+7000,"uterus (disease, injury, or adhesions of)",4-Feb-16
+7010,uterus (displacement of),4-Feb-16
+7020,uterus (prolapse),4-Feb-16
+7030,uterus (removal of),4-Feb-16
+7040,uveitis,4-Feb-16
+7050,vaginal condition,4-Feb-16
+7060,vaginitis,4-Feb-16
+7070,valvular heart disease,4-Feb-16
+7080,varicose veins,4-Feb-16
+7090,vasectomy,4-Feb-16
+7100,Vincent's stomatitis,4-Feb-16
+7110,vision,4-Feb-16
+7120,visually impaired,4-Feb-16
+7130,vitamin deficiency,4-Feb-16
+7140,voice loss,4-Feb-16
+7150,vulvovaginitis,4-Feb-16
+7160,war neurosis,4-Feb-16
+7170,wasting syndrome,4-Feb-16
+7180,worms,4-Feb-16
+7190,"wound, bullet",4-Feb-16
+7200,"wound, shell fragment",4-Feb-16
+7210,"wrist condition, bilateral",4-Feb-16
+7220,"wrist condition, left",4-Feb-16
+7230,"wrist condition, right",4-Feb-16
+7240,wrist sprain,4-Feb-16
+7250,wrist strain,4-Feb-16
+7260,yaws,4-Feb-16
+7270,yellow fever,4-Feb-16
+7280,hepatitis B,4-Feb-16
+7290,PTSD personal trauma,4-Feb-16
+7300,hepatitis C,4-Feb-16
+100,Addison's disease,4-Feb-16
+3350,"hernia, ventral",4-Feb-16
+2065,"diabetes, adult-onset",4-Feb-16
+2085,"diabetes mellitus, type 2",4-Feb-16
+3035,Gulf War veteran with diagnosed illness as qualifying chronic disability,4-Feb-16
+530,ASHD,4-Feb-16
+8917,Miscellaneous,4-Feb-16
+8918,hip replacement,4-Feb-16
+8919,knee replacement,4-Feb-16
+109,2010 Presumptive Herbicide Condition,5-Sep-17
+111,2010 Presumptive Herbicide Condition,5-Sep-17
+8920,Adhesions - Digestive,
+8921,Adhesions - Gynecological,
+8922,Adhesions - Heart/Veins/Arteries,
+8923,Adhesions - Neurological other System,
+8924,Adhesions - Respiratory,
+8925,Administrative Issue,
+8926,Aneurysm - Heart/Veins/Arteries,
+8927,Aneurysm - Neurological other System,
+8928,Arm Condition - Heart/Veins/Arteries,
+8929,Arm Condition - Neurological other System,
+8930,Caisson,
+8931,Cancer - Dental and Oral,
+8932,Cancer - Digestive,
+8933,Cancer - Endocrine,
+8934,Cancer - Eye (Vision),
+8935,Cancer - Genitourinary,
+8937,Cancer - Gynecological,
+8938,Cancer - Heart/Veins/Arteries,
+8939,Cancer - Hemic and Lymphatic,
+8940,Cancer - Musculoskeletal - Other,
+8941,Cancer - Musculoskeletal and Muscle Injuries,
+8942,Cancer - Neurological other System,
+8943,Cold Injury Residuals,
+8944,Competency,
+8945,Cyst/Benign Growth - Dental and Oral,
+8946,Cyst/Benign Growth - Digestive,
+8947,Cyst/Benign Growth - Ear Disease and Other Sense Organs,
+8948,Cyst/Benign Growth - Endocrine,
+8949,Cyst/Benign Growth - Eye (Vision),
+8950,Cyst/Benign Growth - Genitourinary,
+8951,Cyst/Benign Growth - Gynecological,
+8952,Cyst/Benign Growth - Musculoskeletal - Ankle,
+8953,Cyst/Benign Growth - Musculoskeletal - Elbow,
+8954,Cyst/Benign Growth - Musculoskeletal - Foot,
+8955,Cyst/Benign Growth - Musculoskeletal - Hand,
+8956,Cyst/Benign Growth - Musculoskeletal - Hip,
+8957,Cyst/Benign Growth - Musculoskeletal - Knee,
+8958,Cyst/Benign Growth - Musculoskeletal - Mid/Lower Back (Thoracolumbar Spine),
+8959,Cyst/Benign Growth - Musculoskeletal - Neck/Upper Back (Cervical Spine),
+8960,Cyst/Benign Growth - Musculoskeletal - Other,
+8961,Cyst/Benign Growth - Musculoskeletal - Shoulder,
+8962,Cyst/Benign Growth - Musculoskeletal - Wrist,
+8963,Cyst/Benign Growth - Musculoskeletal and Muscle Injuries,
+8964,Cyst/Benign Growth - Neurological other System,
+8965,Cyst/Benign Growth - Respiratory,
+8966,Cyst/Benign Growth - Skin,
+8967,Dental and Oral,
+8968,Digestive,
+8969,Ear Disease and Other Sense Organs,
+8970,Eating Disorders,
+8971,Embolism/Infarction - Heart/Veins/Arteries,
+8972,Embolism/Infarction - Neurological other System,
+8973,Endocrine,
+8974,Eye (Vision),
+8975,Genitourinary,
+8976,Gulf War Unexplained Chronic Multi-Symptom Illness,
+8977,Gulf War Undiagnosed Illness,
+8978,Gynecological,
+8979,Heart/Veins/Arteries,
+8980,Helpless Child,
+8981,Hemic and Lymphatic,
+8982,Hemorrhage - Eye (Vision),
+8983,Hemorrhage - Neurological other System,
+8984,Herpes - Eye (Vision),14-Apr-17
+8985,Herpes - Skin,14-Apr-17
+8986,"Infectious Diseases, Immune Disorders & Nutritional Deficiencies",
+8987,Leg Condition - Heart/Veins/Arteries,
+8988,Leg Condition - Neurological other System,
+8989,Mental Disorders,
+8990,Musculoskeletal - Amputations,
+8991,Musculoskeletal - Ankle,
+8992,Musculoskeletal - Arthritis,
+8993,Musculoskeletal - Elbow,
+8995,Musculoskeletal - Hand,
+8996,Musculoskeletal - Hip,
+8997,Musculoskeletal - Knee,
+8998,Musculoskeletal - Mid/Lower Back (Thoracolumbar Spine),
+8999,Musculoskeletal - Neck/Upper Back (Cervical Spine),
+9000,Musculoskeletal - Osteomyelitis,
+9001,Musculoskeletal - Other,
+9002,Musculoskeletal - Shoulder,
+9003,Musculoskeletal - Toe Amputations,
+9004,Musculoskeletal - Wrist,
+9005,Musculoskeletal and Muscle Injuries,
+9006,Neurological - Cranial/Peripheral Nerves,
+9007,Neurological other System,
+9008,Pension,
+9009,Pension - Aid and Attendance/Housebound,
+9010,Post Traumatic Stress Disorder (PTSD) Combat - Mental Disorders,
+9011,Post Traumatic Stress Disorder (PTSD) Personal Trauma - Mental Disorders ,
+9012,Respiratory,
+9013,Scars (Extremities and Trunk),
+9014,"Scars (Head, Face, Or Neck)",
+9015,Service Connected Death,
+9016,Skin,
+9017,Special Monthly Compensation - Aid and Attendence/Housebound,
+9018,Special Monthly Compensation - Anatomical Loss/Loss Of Use,
+9019,Spina Bifida,
+9020,Traumatic Brain Injury,
+9021,"Wound, Bullet/Shell Fragment",
+8994,Musculoskeletal - Foot,
+249468,Cancer - Ear Disease and Other Sense Organs,
+249469,Cancer - Musculoskeletal - Ankle,
+249470,Cancer - Musculoskeletal - Elbow,
+249471,Cancer - Musculoskeletal - Hand,
+249472,Cancer - Musculoskeletal - Foot,
+249473,Cancer - Musculoskeletal - Knee,
+249474,Cancer - Musculoskeletal - Hip,
+249475,Cancer - Musculoskeletal - Mid/Lower Back (Thoracolumbar Spine),
+249476,Cancer - Musculoskeletal - Neck/Upper Back (Cervical Spine),
+249477,Cancer - Musculoskeletal - Shoulder,
+249478,Cancer - Musculoskeletal - Wrist,
+249479,Cyst/Benign Growth - Heart/Veins/Arteries,
+249480,Cyst/Benign Growth - Hemic and Lymphatic,
+249481,Dental and Oral - Musculoskeletal,
