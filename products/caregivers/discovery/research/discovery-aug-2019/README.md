@@ -7,8 +7,7 @@ This research is for the new Comprehensive Assistance for Family Caregivers Mode
 - [Veteran conversation guide](./veteran-conversation-guide.md)
 - [Stakeholder conversation guide](./stakeholder-conversation-guide.md)
 - [Interview notes]() *to be added*
-- [Synthesis]() *to be added*
-- [Research summary]() *to be added*
+- [Research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/caregiver-discovery-sprint1-userresearch.md) 
 
 ## Stakeholder Research
 - [Research plan]() *to be added*
