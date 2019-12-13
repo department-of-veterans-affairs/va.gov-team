@@ -20,7 +20,7 @@ VSP Platform Team
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
 ### Roadmap:
-[Zenhub Super Epics](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=tools-fe,super-epic&repos=133843125,171695663)
+[Zenhub Super Epics](https://github.com/department-of-veterans-affairs/va.gov-team#workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=super-epic,tools-be&repos=133843125,171695663)
 
 ---
 
