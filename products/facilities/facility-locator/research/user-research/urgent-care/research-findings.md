@@ -52,7 +52,8 @@ The following are recommendations to consider during the redesign of the Facilit
 
 - [Research Plan]
 - [Conversation Guide]
+- [Prototype Tested](https://vsateams.invisionapp.com/share/PWV7CIH4T8H)
 - [Session Transcripts]
-- [Research Synthesis Mural Board]
+- [Research Synthesis Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1576081239946/99dfee57b49c1162afc60bcf12ab99908acad348)
 - [Research Synthesis PDF]
 
