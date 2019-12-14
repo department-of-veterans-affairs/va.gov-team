@@ -47,7 +47,7 @@ Product Outline
 ### User Problem Statement
 As a Veteran, I wish there was a way to order all my prosthetic socks and/or hearing aid items online.  
 
-## Solution Goals
+### Solution Goals
 Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system.
 
 ### User Goals
@@ -70,11 +70,11 @@ Providers
 - Veterans use other avenues to reorder their items because the online services only provides 2 items.
 
 ## Requirements and Constraints
-# Requirements- 
+### Requirements- 
 -	Access to Vets API
 -	Development environment compatible with VA standards
 
-# Constraints- 
+### Constraints- 
 -	Lack of access to DLC’s applet. 
 -	DLC resources and time to update their system. Currently the DLC will have to build their own API.
 
