@@ -11,145 +11,190 @@ Product Outline
 
 - Stakeholders:
   - Pat Booth – Chief, Veteran Services Division (VSD)
-  - Jeff Robillard – Supervisor, Customer Service Section (one of two sections within VSD)
+  - Jeff Robillard – Supervisor, Customer Service Section (VSD)
   - Jim Richardson – Senior Developer
   - Shane Elliot, Associate Director, Loma Linda VA Healthcare System
   - Paras Shah, VEText Project Manager
 
-## Background
-DEPO, working in coordination with VBA, began an ambitious project to modernize the VA's digital benefits delivery process. Practically, this is taking the form of a migration of functionality from the current platform, eBenefits (http://www.ebenefits.va.gov), to the modern web platform of the future, VA.gov (http://www.va.gov).
 
-For each feature on the eBenefits platform, an analysis is being done to determine the appropriate path forward for the feature; essentially, we will determine to move, redesign, or retire each of the eBenefits features until every feature on the platform has been accounted for.
-
-BAM2 decided to pick a self-contained, low-hanging fruit from the list of eBenefits priorities(xxx), and use it as a low-risk way familiarize our team with VA.gov, the stack, and the way DEPO works, while also delivering actual value to users. With that in mind, with input from Steve Kovacs who is leading the eBenefits Modernization project, we decided on the online ordering service Veterans use to order hearing aid batteries and prosthetic socks.
-
-We have heard anecdotally that this feature has an "extremely high" usage rate; this seems to make sense, as hearing loss is often irreversible, with hearing aids requiring a constant supply of batteries.
-
-Alex Y., our former deputy-CTO, sent the following:
-
-> Following up on hearing aids. It looks like the data is in VistA and that there is a Mumps package for accessing it.  Some folks at the Loma Linda VA medical center, who built VEText, are willing to build an API to it, if that would be valuable to VA.gov.  If it would be, let me know who the best point of contact would be and happy to either connect folks and get out of it, or stay involved and help facilitate (whichever is most helpful to the team)!
+### table of Contects
 
 
+# Executive Summary 
+- [User Problem Statement](#user-problem-statement)
+- [Solution Goals](#solution-goals)
+- [Assumptions](#assumptions)
+- [Requirements and Constraints](#requirements-and-constraints)
+- [Discovery Takeaways](#discovery-takeaways)
+- [Solution Approach](#solution-approach)
+- [Value Propositions](#value-propositions)
+- [KPIs](#kpis)
 
-## The Problem
-Millions of Veterans depend upon the VA for disability-related medical devices and their accessories. Today, Veterans are able to order **prosthetic socks** and **hearing aid batteries**, the two most commonly-ordered medical device accessories, through their respective VA forms (Form 2345 & 2346). There are a number of ways to request these medical devices today, through several different mediums and platforms, providing a disparate experience for Veterans. With the expected sunsetting of eBenefits, BAM2 seeks to match and expand the functionality of the platform on the VA.gov website.
+# Implementation Information
+- [Status](#status)
+- [Solution Narrative](#solution-narrative)
+- [How to Access and Test](#how-to-access-and-test)
+- [Error Handling](#error-handling)
+- [Service Level Objective](#service-level-objective)
+- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
+- [Resources and Documentation](#resources-and-documentation)
+- [Keywords](#Keywords)
+- [Team](#team)
+- [Screenshots](#screenshots)
+
+# Executive Summary
 
 ### User Problem Statement
-As a Veteran, I want to be able to easily order the medical devices I need for my disability in one place.
+As a Veteran, I find wish there was a way to order all my Prosthetic socks and /or hearing aid items online.  
 
-## Discovery
 
-### User Goals (Assumed)
-- Veterans:
-  - Recieve **hearing aid batteries** or **prosthetic socks** from the VA _Denver Logistic Company_
-  - Spend less time and energy placing orders for batteries and socks  
+## Solution Goals
+Improve the overall reordering experience for Veterans by increasing the number of medical items DLC offered on their online channel.
 
-- VHA Providers:
-  - Submit a request for an order of **hearing aid batteries** or **prosthetic socks** on behalf of their Veteran patients
+### User Goals
+Streamline the Veterans ordering process by:
+-	*First-* Be able to complete a full order through the online ordering system. 
+-	*Secondly-* Modernizes their ordering process to reduce efforts 
+-	_Currently eBenefits only offers reordering Hearing aids batteries and prosthetic socks. 
 
-- DLC Employees:
-  - Enter in orders from Vets via phone: call center & automatided, mail, or email
+### Business Goals
+DLC
+-	Migration of orders from other offered channels to the online channel. 
+-	Success defined by a 24,000 online orders per quarter
+VA
+-	Migrate Medical device ordering tool from eBenefits to Va.gov
 
-- Manufacturing Company:
-   - TBD  
-
-- VA/DLC Managers
-  - To migrate orders from Veterans to the online channel and away from the other channels proved (Automated phone service, Call center services, Mail in leaflet, and email)
-  - To allow veterans to order the DLC's full catalogue through the online ordering channel
-  
-### Veteran's Pain Points (Assumed)
-- Veterans:
-  - They are required to manually order the same item many times
-  - There are too many methods to ordering devices
-  - There are too many locations for obtaining the items they need (e.g. pharmeceuticals in MyHealtheVet and socks in eBenefits)
-
-### Business Goals (Assumed)
-- Fiscal 2020 our team is looking at focusing on migrating eBenefits medical tool to VA.gov 
-- Increase volume of online orders by migrating existing user to the online ordering channel.
-- To reduce the number of order-related errors
+Providers
+-	TBD
 
 ## Assumptions
+There are several different services, resources, specifics, and unique stories surrounding each VA Medical Center. 
 
+## Requirements and Constraints
+Requirements- 
+-	Access to Vets API
+-	Development environment compatible with VA standards
+-	
+Constraints- 
+-	Lack of access to DLC’s applet. 
+-	DLC will have to build their own API for VA connect to. 
 
-## Questions
-- Who "owns" the Medical device ordering "portfolio"?
-  - **DLC has their own IT division that handles all of the systems and data**
-- We've heard that hearing aid batteries and prosthetic socks are available, what else is offered? 
-  - **Many other items are available through DLC, but not by direct order from Veterans due to their complexity. An upcoming product that may benefit from a similar resupply treatment is apnea machines.**
-- Data on the volume/timing of orders for each available product?
-- How are orders processed? How long does processing take? How is the order fulfilled? Order received on paper vs. eBenefits?
-  - **For regular orders (including all eBenefits orders), processing typically takes one business day. Urgent orders are often processed same-day.**
-  - **Orders are shipped via UPS Worldship**
-- What issues do Veterans encounter trying to use the eBenefits ordering form?
-- What is https://hearing.health.mil/For-Providers/DoD-VA-Hearing-Prosthetics-Ordering-System? How does it fit? Who uses it? Audiologists? Veterans? Both?
-  - **ROES is an application owned by the DLC, used by clinicians to place orders for their Veteran patients. Veterans have access to a separate application that sits on top of ROES, called VOES, which can be seen via iframe on eBenefits.**
-- Heard there may be an API; what's the story there?
-- Tell us about VEText; how does it fit in?
-- How can we get access to a non-production instance of the tool on eBenefits?
-
-## Requirements
-#### In Scope
-- Migrating current Medical Device tool from eBenefits to Va.gov
-
-#### Out of Scope
-- Incorporating the larger DLC catalogue items to VA.gov
+## Discovery Takeaways
+--Interviews are still being conducted
 
 ## Solution Approach
+Breaking down each of the VAMC websites into archetypes to categorize the pages and content by:<br>
+- <b>Global Content</b> - Template based, or unchanging language across all VISN (va.gov)
+- <b>Application Program Interface (API)</b> - Content generalized from API that can be chosen, but still needs editing for local medical center
+- <b>Archive-Press-Historical</b> - All local content that is historical, press releases, or will not be changed when migrated to new site.
+- <b>Local Content</b> - All content that is based on specific or regional Medical Center and must be edited to meet new template.
+- <b>Drop-or-Delete</b> - All content that is peripheral or is not required and will be dropped from migration to new template.
 
 ## Value Propositions
+Team will utilize shared resources to include, but not limited to: Front End engineer, Editors, content review, IA, 508, and local PAO input.
+
+#### User Value
+Not having to travel from webpage to webpage causing confusion and frustration as to where they can access their regional or local services. 
+
+#### Business Value
+Increase customer satisfaction
+-	By fulling Veterans desire to reorder medical supplies online
+-	Reducing number of mail in and Call Center calls 
+-	The opportunity to increasing focus on a Veterans needs because the volume of cued calls has reduced. .
 
 ## KPIs
-**Objective:** Reduce ordering complexity and streamline the process.
-- Reduction in mailed in orders 
-- Reduction of Call Center orders
-- Reduction of online errors
-- Reduction of total time to order items
-- Reduction of steps on the online ordering process
-- Reducing the authentication steps for reordering
-- Keywords in Top 10 Search Engine Results
-
-**Objective:** Increase volume of online orders by migrating existing user to the online ordering channel.
-- Determine the online orders percentages have increased
-- See a reduction of orders from all other DLC ordering Channels
-- Compare online activity on GA with completion of orders from the DLC
-
-**Objective:** Determine if Lager Catalogue is out of scope.
-- How many products will create success. 
-- Define what are the top ordered items
-- Define what top items have top ancillary items 
-
-**Objective:** Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel. 
-- Reduction in mailed in orders 
-- Reduction of Call Center orders
-- Increase in online orders
-
-**Objective:** Build and create a modernized easy to use clearer catalogue with the DLC and house it in VA.gov
-- TBD
-
-[KPI Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
+Objective: Reduce ordering complexity and streamline the process.
+•	Reduction in mailed in orders
+•	Reduction of Call Center orders
+•	Reduction of online errors
+•	Reduction of total time to order items
+•	Reduction of steps on the online ordering process
+•	Reducing the authentication steps for reordering
+•	Keywords in Top 10 Search Engine Results
+Objective: Increase volume of online orders by migrating existing user to the online ordering channel.
+•	Determine the online orders percentages have increased
+•	See a reduction of orders from all other DLC ordering Channels
+•	Compare online activity on GA with completion of orders from the DLC
+Objective: Determine if Lager Catalogue is out of scope.
+•	How many products will create success.
+•	Define what are the top ordered items
+•	Define what top items have top ancillary items
+Objective: Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel.
+•	Reduction in mailed in orders
+•	Reduction of Call Center orders
+•	Increase in online orders
+Objective: Build and create a modernized easy to use clearer catalogue with the DLC and house it in VA.gov
 
 ---
 
 # Implementation Info
+-TBD
 
 ## Status
-Discovery in-progress
+In progress
 
-## Technical Decisions
+## Solution Narrative
 
-## Product Decisions
+
+## How to Access and Test
+- Currently: AccessVA, eBenfits, and ROES
+- Future: AccessVA, Va.gov, ROES
+
+### Content
+- [GH Page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
+
+## Error Handling
+...TBD
+
+## Service Level Objective
+...TBD
+
+## API Calls and Dependent Systems
+...TBD
+
+## Resources and Documentation
+- Discovery and Research
+  + [Research documents] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
+
+- 
+  + [Technical] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
+
+- Product specs
+  + TBD
+
+- Design update
+  + TBD
+
+- [Roadmap] https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map%202small.PNG
+
+
+## Keywords
+- Prosthetic Socks, Hearing Aids
 
 ## Team
+- DSVA Product Manager: 
+- DSVA Supporting Product Manager: Matt Self
+- Team Product Manager: Nicolaus Wygonik
+- VA Regional PAO(s): TBD
+- VA local site PAO(s): TBD
+- Managing Editor: Louis Carlozo
+- Business Analysts: 
+  + TBD
+  
+- Content Writers: 
+  + tbd
 
-- DEPO Digital Strategist(s): Matthew Self
-- Product Manager: Nick Wygoink
+- Front-end Engineer: Amen Ra, Mahariel Rosario
+- Back-end Engineer: TBD
+- Designers: Rebecca Walsh, Riley Orr
 - Design Lead: Shawna Hein
 - Eng Lead: Joe Costa
-- Engineers: Amen Ra (FE), Mahariel Rosario (FE), Joseph Brothers (BE)
-- Designers: Rebecca Walsh, Riley Orr
-   
-## Screenshots
+
+
+### Screenshots
+
+#### Before
 Mural board [LINK] (https://app.mural.co/t/vsa8243/m/vsa8243/1574363101745/48437699b80471a20330c14fbaedca02b040e9ff)
-### Before
 
 ### After
+
