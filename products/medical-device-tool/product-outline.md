@@ -45,61 +45,56 @@ Product Outline
 # Executive Summary
 
 ### User Problem Statement
-As a Veteran, I find wish there was a way to order all my Prosthetic socks and /or hearing aid items online.  
-
+As a Veteran, I wish there was a way to order all my prosthetic socks and/or hearing aid items online.  
 
 ## Solution Goals
-Improve the overall reordering experience for Veterans by increasing the number of medical items DLC offered on their online channel.
+Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system.
 
 ### User Goals
 Streamline the Veterans ordering process by:
--	*First-* Be able to complete a full order through the online ordering system. 
--	*Secondly-* Modernizes their ordering process to reduce efforts 
+1. Be able to complete a full order through the online ordering system. 
+2. Modernizes their ordering process to reduce efforts 
 -	_Currently eBenefits only offers reordering Hearing aids batteries and prosthetic socks._
 
 ### Business Goals
 DLC
 -	Migration of orders from other offered channels to the online channel. 
--	Success defined by a 24,000 online orders per quarter
+-	Success is defined by DLC as 24,000 online orders per quarter.
 VA
--	Migrate Medical device ordering tool from eBenefits to Va.gov
+-	Migrate DLC's medical device ordering tool from eBenefits to Va.gov
 Providers
 -	TBD
 
 ## Assumptions
-There are several different services, resources, specifics, and unique stories surrounding each VA Medical Center. 
+- The low online orders are a result of Veterans finding it difficult to log into the eBenefits because of its additional authentication requirements. 
+- Veterans use other avenues to reorder their items because the online services only provides 2 items.
 
 ## Requirements and Constraints
-Requirements- 
+#Requirements- 
 -	Access to Vets API
 -	Development environment compatible with VA standards
 
-Constraints- 
+#Constraints- 
 -	Lack of access to DLC’s applet. 
--	DLC will have to build their own API for VA connect to. 
+-	DLC resources and time to update their system. Currently the DLC will have to build their own API.
 
 ## Discovery Takeaways
 --Interviews are still being conducted
 
 ## Solution Approach
-Breaking down each of the VAMC websites into archetypes to categorize the pages and content by:<br>
-- <b>Global Content</b> - Template based, or unchanging language across all VISN (va.gov)
-- <b>Application Program Interface (API)</b> - Content generalized from API that can be chosen, but still needs editing for local medical center
-- <b>Archive-Press-Historical</b> - All local content that is historical, press releases, or will not be changed when migrated to new site.
-- <b>Local Content</b> - All content that is based on specific or regional Medical Center and must be edited to meet new template.
-- <b>Drop-or-Delete</b> - All content that is peripheral or is not required and will be dropped from migration to new template.
+-TBD
 
 ## Value Propositions
 Team will utilize shared resources to include, but not limited to: Front End engineer, Editors, content review, IA, 508, and local PAO input.
 
 #### User Value
--	Stream line the ordering process and improve reordering experience 
+-	Streamline the ordering process and improve reordering experience.
 
 #### Business Value
 Increase customer satisfaction
 -	By fulling Veterans desire to reorder medical supplies online
 -	Reducing number of mail-in and Call Center calls 
--	The opportunity to increasing focus on a Veterans needs because the volume of cued calls has reduced.
+-	The opportunity to increasing focus on a Veterans needs because the volume of cued calls will be reduced.
 
 ## KPIs
 *Objective:* Reduce ordering complexity and streamline the process.
@@ -137,7 +132,7 @@ Increase customer satisfaction
 In progress
 
 ## Solution Narrative
-
+- TBD
 
 ## How to Access and Test
 - Currently: AccessVA, eBenfits, and ROES
