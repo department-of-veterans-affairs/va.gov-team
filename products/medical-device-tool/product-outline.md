@@ -70,19 +70,19 @@ Providers
 - Veterans use other avenues to reorder their items because the online services only provides 2 items.
 
 ## Requirements and Constraints
-#Requirements- 
+# Requirements- 
 -	Access to Vets API
 -	Development environment compatible with VA standards
 
-#Constraints- 
+# Constraints- 
 -	Lack of access to DLC’s applet. 
 -	DLC resources and time to update their system. Currently the DLC will have to build their own API.
 
 ## Discovery Takeaways
---Interviews are still being conducted
+- Interviews are still being conducted
 
 ## Solution Approach
--TBD
+- TBD
 
 ## Value Propositions
 Team will utilize shared resources to include, but not limited to: Front End engineer, Editors, content review, IA, 508, and local PAO input.
