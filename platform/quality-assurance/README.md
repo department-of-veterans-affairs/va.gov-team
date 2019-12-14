@@ -18,7 +18,8 @@ The following outline is a set of resources for applying accepted QA techniques 
 ## How-tos
 
 ### How/where to get help
-- [How to coordinate help with QA](how-to-coordinate-qa.md)
+- [How to request manual QA services](request-manual-qa.md)
+- [How to coordinate your own QA efforts](how-to-coordinate-qa.md)
 - [How to create an issue for your project](create-an-issue.md)
 - [How to request help](help.md)
 
@@ -29,6 +30,7 @@ The following outline is a set of resources for applying accepted QA techniques 
 ### How to include load testing as part of your QA practice
 - [Load testing documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
 - [How to use authenticated sessions for your load test](auth-session-loadtest.md)
+- [How to request load testing services](request-load-testing.md)
 
 ## QA Mission
 - [QA's value proposition](qa-value-proposition.md)

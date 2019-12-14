@@ -11,7 +11,7 @@
      - Engineering Lead
 
 ### Request Manual QA
-1. File an issue in ```vets-team repo```.
+1. File an issue in ```va.gov-team repo```.
     * Title: ```Request Manual QA```
     * Labels:
       * ```qa```
