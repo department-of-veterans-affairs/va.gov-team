@@ -55,7 +55,7 @@ Improve the overall reordering experience for Veterans by increasing the number 
 Streamline the Veterans ordering process by:
 -	*First-* Be able to complete a full order through the online ordering system. 
 -	*Secondly-* Modernizes their ordering process to reduce efforts 
--	_Currently eBenefits only offers reordering Hearing aids batteries and prosthetic socks. 
+-	_Currently eBenefits only offers reordering Hearing aids batteries and prosthetic socks._
 
 ### Business Goals
 DLC
@@ -63,7 +63,6 @@ DLC
 -	Success defined by a 24,000 online orders per quarter
 VA
 -	Migrate Medical device ordering tool from eBenefits to Va.gov
-
 Providers
 -	TBD
 
@@ -74,7 +73,7 @@ There are several different services, resources, specifics, and unique stories s
 Requirements- 
 -	Access to Vets API
 -	Development environment compatible with VA standards
--	
+
 Constraints- 
 -	Lack of access to DLC’s applet. 
 -	DLC will have to build their own API for VA connect to. 
@@ -104,25 +103,29 @@ Increase customer satisfaction
 
 ## KPIs
 *Objective:* Reduce ordering complexity and streamline the process.
-..*Reduction in mailed in orders
-..*Reduction of Call Center orders
-..*Reduction of online errors
-..*Reduction of total time to order items
-..*Reduction of steps on the online ordering process
-..*Reducing the authentication steps for reordering
-..*Keywords in Top 10 Search Engine Results
-*Objective:* Increase volume of online orders by migrating existing user to the online ordering channel.
-..*Determine the online orders percentages have increased
-..*See a reduction of orders from all other DLC ordering Channels
-..*Compare online activity on GA with completion of orders from the DLC
-*Objective:* Determine if Lager Catalogue is out of scope.
-..*How many products will create success.
-..*Define what are the top ordered items
-..*Define what top items have top ancillary items
-*Objective:* Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel.
-..*Reduction in mailed in orders
-..*Reduction of Call Center orders
-..*Increase in online orders
+* Reduction in mailed in orders
+* Reduction of Call Center orders
+* Reduction of online errors
+* Reduction of total time to order items
+* Reduction of steps on the online ordering process
+* Reducing the authentication steps for reordering
+* Keywords in Top 10 Search Engine Results  
+
+*Objective:* Increase volume of online orders by migrating existing user to the online ordering channel.  
+* Determine the online orders percentages have increased
+* See a reduction of orders from all other DLC ordering Channels
+* Compare online activity on GA with completion of orders from the DLC   
+
+*Objective:* Determine if Lager Catalogue is out of scope.  
+* How many products will create success.
+* Define what are the top ordered items
+* Define what top items have top ancillary items  
+
+*Objective:* Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel.  
+* Reduction in mailed in orders
+* Reduction of Call Center orders
+* Increase in online orders  
+
 *Objective:* Build and create a modernized easy to use clearer catalogue with the DLC and house it in VA.gov
 
 ---
@@ -141,7 +144,7 @@ In progress
 - Future: AccessVA, Va.gov, ROES
 
 ### Content
-- [GH Page] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
+- [GH Page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
 
 ## Error Handling
 ...TBD
@@ -154,10 +157,10 @@ In progress
 
 ## Resources and Documentation
 - Discovery and Research
-  + [Research documents] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
+  + [Research documents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
 
 - 
-  + [Technical] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
+  + [Technical](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
 
 - Product specs
   + TBD
@@ -165,7 +168,7 @@ In progress
 - Design update
   + TBD
 
-- [Roadmap] https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map%202small.PNG
+- [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map%202small.PNG)
 
 
 ## Keywords
@@ -190,7 +193,7 @@ In progress
 ### Screenshots
 
 #### Before
-Mural board [LINK] (https://app.mural.co/t/vsa8243/m/vsa8243/1574363101745/48437699b80471a20330c14fbaedca02b040e9ff)
+[Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1574363101745/48437699b80471a20330c14fbaedca02b040e9ff)
 
 ### After
 
