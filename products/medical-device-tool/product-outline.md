@@ -94,36 +94,36 @@ Breaking down each of the VAMC websites into archetypes to categorize the pages 
 Team will utilize shared resources to include, but not limited to: Front End engineer, Editors, content review, IA, 508, and local PAO input.
 
 #### User Value
-Not having to travel from webpage to webpage causing confusion and frustration as to where they can access their regional or local services. 
+-	Stream line the ordering process and improve reordering experience 
 
 #### Business Value
 Increase customer satisfaction
 -	By fulling Veterans desire to reorder medical supplies online
--	Reducing number of mail in and Call Center calls 
--	The opportunity to increasing focus on a Veterans needs because the volume of cued calls has reduced. .
+-	Reducing number of mail-in and Call Center calls 
+-	The opportunity to increasing focus on a Veterans needs because the volume of cued calls has reduced.
 
 ## KPIs
-Objective: Reduce ordering complexity and streamline the process.
-•	Reduction in mailed in orders
-•	Reduction of Call Center orders
-•	Reduction of online errors
-•	Reduction of total time to order items
-•	Reduction of steps on the online ordering process
-•	Reducing the authentication steps for reordering
-•	Keywords in Top 10 Search Engine Results
-Objective: Increase volume of online orders by migrating existing user to the online ordering channel.
-•	Determine the online orders percentages have increased
-•	See a reduction of orders from all other DLC ordering Channels
-•	Compare online activity on GA with completion of orders from the DLC
-Objective: Determine if Lager Catalogue is out of scope.
-•	How many products will create success.
-•	Define what are the top ordered items
-•	Define what top items have top ancillary items
-Objective: Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel.
-•	Reduction in mailed in orders
-•	Reduction of Call Center orders
-•	Increase in online orders
-Objective: Build and create a modernized easy to use clearer catalogue with the DLC and house it in VA.gov
+*Objective:* Reduce ordering complexity and streamline the process.
+..*Reduction in mailed in orders
+..*Reduction of Call Center orders
+..*Reduction of online errors
+..*Reduction of total time to order items
+..*Reduction of steps on the online ordering process
+..*Reducing the authentication steps for reordering
+..*Keywords in Top 10 Search Engine Results
+*Objective:* Increase volume of online orders by migrating existing user to the online ordering channel.
+..*Determine the online orders percentages have increased
+..*See a reduction of orders from all other DLC ordering Channels
+..*Compare online activity on GA with completion of orders from the DLC
+*Objective:* Determine if Lager Catalogue is out of scope.
+..*How many products will create success.
+..*Define what are the top ordered items
+..*Define what top items have top ancillary items
+*Objective:* Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel.
+..*Reduction in mailed in orders
+..*Reduction of Call Center orders
+..*Increase in online orders
+*Objective:* Build and create a modernized easy to use clearer catalogue with the DLC and house it in VA.gov
 
 ---
 
@@ -178,12 +178,8 @@ In progress
 - VA Regional PAO(s): TBD
 - VA local site PAO(s): TBD
 - Managing Editor: Louis Carlozo
-- Business Analysts: 
-  + TBD
-  
-- Content Writers: 
-  + tbd
-
+- Business Analysts:  + TBD
+- Content Writers:  + TBD
 - Front-end Engineer: Amen Ra, Mahariel Rosario
 - Back-end Engineer: TBD
 - Designers: Rebecca Walsh, Riley Orr
