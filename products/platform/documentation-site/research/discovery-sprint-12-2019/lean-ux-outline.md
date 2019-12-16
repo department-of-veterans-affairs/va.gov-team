@@ -230,10 +230,13 @@ How should our product look and behave?
 
 ### 4. Based on pain points, user stories, and assumptions, select hypotheses for MVP:
 
-We believe that: [creating this capability] for [these people/personas] will result in: [this outcome]. We will know we are right when: [we see this measurable signal].
+We believe that: [creating this capability/solving for these pain points] for [these people/personas] will result in: [this outcome]. We will know we are right when traffic and contributions to new documentation solution rise steadily and documentation-related support requests decrease.
 
 We believe that **implementing a searchable public documentation site for VFS/VSP team members** will result in people **knowing what the documentation source of truth is, contributing to it, and sharing it**. We will know we are right when **traffic and contributions to new documentation solution rise steadily**.
 
+We believe that **creating a documentation repo that is easy to publish and maintain** for **VSP teams** will result in **more robust and timely documentation**. We will know we are right when **we see VFS teams using the repo more frequently for self-service and fewer questions of VSP teams**.
+
+We believe that by **publishing a single documentation site that is easy for VFS and VSP members to contribute to**, we will create a **single source of truth for how to work with platform and build on VA.gov**. We will know we are right when **documentation support requests decrease**.
 
 
 ---
