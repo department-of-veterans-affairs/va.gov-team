@@ -39,6 +39,10 @@ Persona 1: Technical VFS team member (engineer)
   - Don't have Access early (can't access CMS documentation bc of no-PIV, can't access sensitive repo bc of private repo in-access)
   - Don't know what all is available in the ecosystem (a "map of the world") (examples: trying to run one repo, but learned it's dependent on a sibling repo, that dependency isn't well-documented, didn't know that we have a component library or documentation around it)
   - Need to be able to search for whether a solution already exists to the challenge they're facing
+  - Hard to pick up something started by another team bc of poor / spread out documentation
+  - People use unsactioned examples of patterns / truth (perpetuates use of bad things we're trying to retire)
+  - Hard to go back to get it right, people just ship and plan to fix later
+
 - Solutions today
   - Gatsby FE docs
   - Formation React stuff (for forms stuff)
@@ -67,7 +71,12 @@ Persona 2: Non-technical VFS team member
   - Don't have PIV Access very early (can't access CMS documentation)
   - Documentation is out of date or conflicting (VSA vs VSP documentation)
   - Don't know how to add/change/ask for approval to change documentation when owned by another team
-  - 
+  - Hard to pick up something started by another team bc of poor / spread out documentation
+  - People use unsactioned examples of patterns / truth (perpetuates use of bad things we're trying to retire)
+  - Hard to go back to get it right, people just ship and plan to fix later
+  - Broken links (or incorrect reference links) are frustrating / slow down progress 
+  - Dispersed documentation causes findability issues (where do I go for the source of truth for this?)
+  - Not aware when something has changed (i.e. updates to patterns in design system)
 - Solutions today
   - Shawna's google doc of Design resources
   - va.gov-team repo
@@ -77,7 +86,7 @@ Persona 2: Non-technical VFS team member
   - Search in Slack
 - Possible solutions
 
-Persona 3: VA content owners 
+Persona 3: VA content owners
 - Behavioral traits
 - Pain points and needs
   - May not know how to use GitHub or Markdown
@@ -101,7 +110,7 @@ Persona 5: Non-technical VSP team member
   - (Potential) May not know how to use GitHub or Markdown
   - Design reviews - what do I check against? Design system, and/or live apps?
   - Design reviews - checking against current options is hard.
-  - 
+  - Hard to hold ppl to standards that are often change...
 - Solutions today
 - Possible solutions
 
