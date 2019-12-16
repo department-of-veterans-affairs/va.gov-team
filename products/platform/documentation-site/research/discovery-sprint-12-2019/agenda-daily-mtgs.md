@@ -47,5 +47,9 @@
 - KW interview
   - **Notetaker: Megan**
   - **Interviewer: Crystabel**
-- 
+- Crystabel: set up deck for rapid sketching, update convo guides for future interviews
+- Megan: update rational for personas and decision on priority
+- Bill and Dan: pros and cons of various techincal solution options
+- Mikki: refine notes from first 2 interviews
+
 ---
