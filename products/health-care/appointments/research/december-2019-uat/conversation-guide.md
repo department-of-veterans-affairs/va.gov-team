@@ -63,7 +63,7 @@ Great! Any questions before we get started?
   **Ask participant to share their screen using the green 'share' button in Zoom.**
 
 
-## View screen
+## Schedule New Appointment
 
 **Once they are logged in, post link to health tools in chat window.** www.va.gov/health-care/schedule-view-va-appointments/appointments
   
@@ -117,8 +117,9 @@ Great! Any questions before we get started?
 
 **Let's make sure that this new appointment request is showing for you in your appointments list by clicking the 'view appointments button'**
   - [ ] **UAT TASK** *Confirm that user is navigated to the list page correctly*
-  - [ ] **UAT TASK** *Confirm that the confirmation page shows the new request*
-  
+  - [ ] **UAT TASK** *Confirm that the dashboard / list page shows the new request*
+ 
+ ## Cancel Pending Appointment
 **Looking at this list, are there any confirmed or pending appointments that you'd like to or need to cancel?**
 - If yes: Great, let's cancel it now
   - [ ] **UAT TASK:** *Confirm user can cancel successfully or that user gets correct error message about calling in*
