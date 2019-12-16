@@ -1,14 +1,14 @@
-# Authenticated Experience Sprint Objectives
+# Authenticated Experience Sprint Objectives: Sprints 1 – 10
 A high-level summary of the goal the DSVA Product Lead would like to accomplish during a sprint which helps 
 
 - Team deliver value every Sprint
 - Development Team stay focused
 - Product Owner determine priority
 
-## Sprint 1 (7/31 - 8/13)
+## Sprint 1 (7/31/19 - 8/13/19)
 1. Onboarding and education
 
-## Sprint 2 (8/14 - 8/27)
+## Sprint 2 (8/14/19 - 8/27/19)
 1. Onboarding and education
 
 ## Sprint 3 (8/28 – 9/10)
