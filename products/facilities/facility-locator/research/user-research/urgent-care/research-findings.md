@@ -50,7 +50,7 @@ Takeaways here
 - If you had a magic wand, what would you change about this prototype?
 
 
-## Recommendations
+## Actionable Recommendations
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
 
 #### Display facility names that are familiar with users (e.g. MinuteClinic at CVS) 
