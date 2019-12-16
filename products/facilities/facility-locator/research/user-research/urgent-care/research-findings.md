@@ -13,7 +13,7 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 
 - There is a general lack of communication/education around the difference between community care providers and VA health care
 - There are multiple types of in-network urgent care providers that do not treat the same symptoms (e.g. retail urgent care facilities don't treat wound)
-- When prompted to choose an urgent care location to stitch a wound, a majority of participants mentioned that they would visit an ER or VA facility. 
+- When prompted to choose an urgent care location to stitch a wound, a majority of participants mentioned that they would visit an ER or VA facility and not an Urgent Care location. 
 
 #### 2. Users are not likely to use the filter to find what they need.
 
@@ -25,10 +25,10 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 - Veterans could not answer directly when asked if the Urgent Care facility they visited was "in-network" or not because it could have been covered through their spouse's insurance, medicare, or another source.
 - Some Veterans assumed that because they visted a clinic that was not a VA facility that it would not be covered through their VA benefits.
 
-#### 4. Internal language and inconsistent labeling cause hesitancy with users when looking into facilities.
+#### 4. Internal language and inconsistent labeling cause users to hesitate when looking into facilities.
 
 - A majority of participants mentioned the "diagnostic" MinuteClinic was confusing and assumed it provided services that it does not.
-- 
+- Participants did not understand the difference between "retail" urgent care and urgent care until they were given a definition and example treatments 
 
 ## Detailed Findings
 
