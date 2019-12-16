@@ -214,33 +214,33 @@
 
 ### Notes:
 
-### Talk me through a time when you’ve had a really good experience with documentation.
+#### Talk me through a time when you’ve had a really good experience with documentation.
 - Rf - Reacts doc is really good, easy to find, well indexed, follows domain language consistently
 - What made it successful
 - Rf - Searchability of it, full featured search
 - Experience with bad documentation
 - Rf - the worst doc is missing doc, and that's a problem on vsp a lot is being able to find the most up to date or even to know it exists…
 
-### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
+#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
 
-### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
+#### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
 
-### What tools and processes have you found effective in the past?
+#### What tools and processes have you found effective in the past?
 - Rf - no, never been part of good doc culture, I've read about other companies that have good doc culture like gitlab, I think it sounds cool but I don't know how to get to that level of discipline
 
-### What tools and processes have you found ineffective in the past?
+#### What tools and processes have you found ineffective in the past?
 - Rf wikis don't work, because there's no central governance, there's no editor, when you don't have consistent editors you get diff dialects…in a larger org its important to have the same domain language across, because it gets very confusing…if its not being reviewed or having any controls over it
 
-### What processes did you use to set standards across different teams who were contributing to the documentation?
+#### What processes did you use to set standards across different teams who were contributing to the documentation?
 - Rf we didn't …the gatsby site is the offer of 3 people pulling together and coalesce it into one voice over 3 months
 
-### How did you ensure that the information stayed up to date?
+#### How did you ensure that the information stayed up to date?
 - Rf we didn't [laughs]
 
-### What do you think VSP, the platform team, can learn from this example?
+#### What do you think VSP, the platform team, can learn from this example?
 - Rf our priority was to get as much doc done as possible, so tradeoffs we didn't build the infrastructure to maintain…its easy to make but hard to publish…being able to see the changes updated on the doc site is important…if they don't see the updates quickly it removes the incentive
 
-### If you had the chance to create that ecosystem again, what would you do differently?
+#### If you had the chance to create that ecosystem again, what would you do differently?
 - Rf would have looked at 3rd party tools, could have used that instead of building something ourselves…(megan: is there any in particular?)…there's a pm doc management tool, we didn't evaluate any tools, I know they're out there, not a big fan of confluence, I know it could work, it didn't work where I used it before…the search tool is a plug in…algolia
 - Br the tool was notion.io, notion is pretty dope…it’s a productivity tool does a little bit of everything, project, product, documentation a little bit of everything
 - Megan: I'm surprised you wanted to look at other tools…my understanding is that gatsby can render md files and tech doc can live close to the code, thought that's where gatsby would have advantage
@@ -248,12 +248,12 @@
 	• Br - its not only the upkeep, it’s the type of resource…it’s a developer needed not a non-technical person
 	• Rf - it might be that we hve an overly complicated set up and maybe we should stick to the standard set up and not use plugins…simplify the approach…use default gatsby install
 
-### If you had to choose 3 things that you think were critical to your success, what would you say those were?
+#### If you had to choose 3 things that you think were critical to your success, what would you say those were?
 
-### Talk me through a time when you've had a really successful experience using documentation to get something done.
+#### Talk me through a time when you've had a really successful experience using documentation to get something done.
 - Cv - end of last week, trying to comb through 17 mill json files using jq, going to their documentation, they have all the things you can do with examples for each, so that was nice
 
-### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
+#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
 - Cv - it was technical…you feed it a bunch of commands, it had all the commands, description of each one, how you would use each one in put and output
 - Bf - do you feel like you learn about new stuff from documentation, or use it as a reference if you already know 
 - Cv - I did learn new stuff when I was looking at that one,…I don't know, maybe not typically…what I was trying wasn't working so I was poking around how I might else solve this problem
@@ -262,11 +262,11 @@
 - Bf - don’t' think I would even browse on mdn
 - Cv that works great for them because they are like the first or second hit…but…
 
-### Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
+#### Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
 
-### Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
+#### Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
 
-### What would you say is your biggest pain point today with VSP documentation?
+#### What would you say is your biggest pain point today with VSP documentation?
 - Cv - no idea what's there, if someone asked me a question…
 - Rf - we don't have a good documentation culture and we keep a lot of stuff in our heads and in slack…end up having the same convo multiple times because we don't document…the doc we do have its inconsistent voice, its hard to scan to find info you need…sometimes there's just blocks of text and you have to stop everything…its not easy to read
 - Megan: talk a bit more about documentation culture…what do you think characteristics make up a strong culture
@@ -288,22 +288,22 @@ Ds - which area is this documentation around
 - Megan - if you don't, who should update the doc
 - Cv I think especially for things like…yeah, exactly…I think it depends on the kind of documentation, if it’s the onboarding process we leave it to the team, if its technical  docu of a thing I built, then its me, if I'm adding a feature than I should add the documentation to include that thing…I guess if I know how to update then it should be responsibility to at least flag someone down…I'm in the middle of doing something completely different, someone asks something out out of the blue, should I spend an hour updating the documentation or continue what I'm doing…depends on what needs to be updated and when
 
-### If you’re looking for information related to how to do your job, where do you go to find it?
+#### If you’re looking for information related to how to do your job, where do you go to find it?
 - Rf slack…
 - Do you search in slack?  Rf - yeah…that's how I remember that someone explained that to me months ago…I use dm to index lots of information…I don't encourage that but that's the way I've been doing it for now
 - Cv - it depends on what part of my job…I often search slack…I think my trouble is I just have a bunch of stuff in my head and I kind of remember what it was before we had documentation so that's what I fall back to…when we first stated the whole platform and we had documentation around the like PRs…someone was looking for it and its not there anymore because it was updated…I do search github but mostly I fall back on memory
 - Rf - I very often go to the old team repo…I probably use the old one more than the new, because sometimes stuff has not migrated over or its in the state that I rmeember it was in more consistently….I found it one way before so I know that I can find it that way in that repo…the new one I don’t search for it, I navigate the director structure…often it works if I know something is there
 
-### If you’re directing a VFS team member to information related to their job, where do you go to find it/where do you tell them to go?
+#### If you’re directing a VFS team member to information related to their job, where do you go to find it/where do you tell them to go?
 - Rf - I'll tell them to go to the new team repo if it’s a doc that I know is there…sometimes to the client document repo because its better than what's inside the new repo…I'm not familiar with the new team repo…I don't know where the docs are and what state they are in…
 - 
 
-### Do you see yourselves as responsible for keeping any of the above information up to date? How do you ensure that it is accurate?
+#### Do you see yourselves as responsible for keeping any of the above information up to date? How do you ensure that it is accurate?
 What would you expect see on a successful VSP documentation site?
 - Cv - lots of words
 - Rf - search and code examples and diagrams
 
-### Other questions
+#### Other questions
 - Megan: can technical and non-technical documentation can live together well, or what are the differences and overlaps
 - Rf- probably not…it depends on the volume and how we do the indexing…we tried that and people were putting meeting notes in the repo and it killed the indexing and you couldn't find anything…also not sure what an example of non-technical documentation is (megan: things like IA best practices, SEO best practices, design comps, content, etc)
 - Rf - I would say probably not…again it depends on how we can search through that…as an engineer I would not want ux design and copy results showing up in my results…just as if you were a content writer you wouldn't want to see 
