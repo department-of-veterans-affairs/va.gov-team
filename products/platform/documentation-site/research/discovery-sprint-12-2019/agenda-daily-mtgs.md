@@ -16,6 +16,7 @@
 ---
 
 ## Day 1 Start Meeting Notes
+- Qs from Megan: rescheduling Jenny HL, and deciding attendees for 18F mtg Tues AM
 
 ## Day 1 End Meeting Notes 
 
