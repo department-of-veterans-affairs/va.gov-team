@@ -4,31 +4,72 @@
 
 We created a myriad of documentation that was designed to help our customers (i.e. VFS teams building things on VA.gov) find what they need to work seamlessly and iteratively, and build great products on VA.gov. We have observed that the resources as they exist today aren’t effectively enabling that, which is causing a large support burden for VSP, is frustrating our customers, and is potentially resulting in products on VA.gov that don't meet VSP standards. *How might we improve our documentation resources so that our customers are more successful?*
 
+### What are our desired outcomes of this solution?
+- People can find what they need without having to ask
+- Documentation is always up to date and canonical (and thus is trusted)
+- VA.gov products meet VSP standards
+- People can start working quickly on their VA.gov products without huge ramp-up time
 
-### What are our desired outcomes?
-
-
+### More outcomes
+- People are able to easily contribute to the documentation w/o much ramp-up (i.e. easy process for updating docs)
+- People feel comfortable editing outdated docs, and/or recommending deletion of OBE docs.
+- More dispersed ownership of files and/or process for keeping things up to date
+- People are updating as they go (i.e. not waiting until the end of their contract to think about transition readiness or getting their product documentation in order)
+- People know what our standards are
+- People know who to ask for what
+- There's a way for people to say "hey this makes no sense" or "hey this is old" - i.e. communicating feedback to file owners
 
 ### In what ways are those outcomes not being met?
-
-
 
 ## 2. Proto-Personas
 
 Persona 1: Technical VFS team member (engineer)
 - Behavioral traits
-  - Store documentation elsewhere (such as Confluence)
-  - Already have their own existing documentation methods (cultural differences)
+  - Already have their own existing documentation methods (cultural differences) and thus sometimes store documentation elsewhere (such as Confluence or Gatsby or Lighthouse's Github Wiki)
+  - Tend to not focus on keeping documentation up to date
+  - Don't want to fix outdated documentation bc don't want to step on toes.
+  - Write simple code (i.e. self-documenting code, source code) which engineers can read and understand, but don't focus on making it accessible for non-technical people
+  - Source code = source of truth (over documentation)
 - Pain points and needs
-  - Cultural differences in documentation tools and methods
+  - The way we have technical documentation structured in GitHub isn't what people are used to
+  - Product documentation isn't next to the code
+  - Documentation is out of date or conflicting
+  - No product specific technical documentation exists (or unsure where it is)
+  - Don't have Access early (can't access CMS documentation bc of no-PIV, can't access sensitive repo bc of private repo in-access)
+  - Don't know what all is available in the ecosystem (a "map of the world") (examples: trying to run one repo, but learned it's dependent on a sibling repo, that dependency isn't well-documented, didn't know that we have a component library or documentation around it)
+  - Need to be able to search for whether a solution already exists to the challenge they're facing
 - Solutions today
+  - Gatsby FE docs
+  - Formation React stuff (for forms stuff)
+  - Design.va.gov (for component docs)
+  - Swagger
+  - Developer.va.gov ???
+  - Source code
+  - Onboarding FE video in a Google slide (sent via Slack or Zoom)
 - Possible solutions
+  - Keep documentation where the work is (from Google recs)
+  - Auto-assign PR updates to the team that owns the docs for review, so anyone can update but only owner can approve
+  - Leverage traditional open source README.md documentation styles, bc developers often look to GitHub for documentation
 
 Persona 2: Non-technical VFS team member
 - Behavioral traits
+  - Ask team members or in Slack for someone to point them to the right doc, vs looking for docs themselves
+  - Google docs is constant go-to for collaboration
+  - 
 - Pain points and needs
   - May not know how to use GitHub or Markdown
+  - No product specific technical documentation exists (or unsure where it is)
+  - Can't decipher self-documenting code (i.e. current technical documentation method)
+  - Don't have PIV Access very early (can't access CMS documentation)
+  - Documentation is out of date or conflicting (VSA vs VSP documentation)
+  - Don't know how to add/change/ask for approval to change documentation when owned by another team
+  - 
 - Solutions today
+  - Shawna's google doc of Design resources
+  - va.gov-team repo
+  - Design System
+  - Confluence (Agile 6)
+  - Live VA.gov products (i.e. current functionality, patterns, etc)
 - Possible solutions
 
 Persona 3: VA content owners 
@@ -40,7 +81,11 @@ Persona 3: VA content owners
 
 Persona 4: Technical VSP team member
 - Behavioral traits
+  - Still point people to old documentation bc don't know where anything is in the repo
 - Pain points and needs
+  - Don't know where anything is in the repo
+  - No product specific technical documentation exists (or unsure where it is) and thus no context for reviews
+  - Don't have a "map of the world" (i.e. trying to run one repo, but learned it's dependent on a sibling repo, that dependency isn't well-documented, didn't know that we have a component library or documentation around it)
 - Solutions today
 - Possible solutions
 
@@ -54,12 +99,14 @@ Persona 5: Non-technical VSP team member
 Persona 6: DEPO team member
 - Behavioral traits
 - Pain points and needs
+  - Can't decipher self-documenting code (i.e. current technical documentation method)
 - Solutions today
 - Possible solutions
 
 Persona 7: Prospective VFS team
 - Behavioral traits
 - Pain points and needs
+  - No product specific technical documentation exists (or unsure where it is)
 - Solutions today
 - Possible solutions
 
@@ -69,7 +116,7 @@ Persona 8: Prospective VA business owner
 - Solutions today
 - Possible solutions
 
-Persona 9: Other government agencies (long term)
+Persona 9: Other bureaucracies (long term)
 - Behavioral traits
 - Pain points and needs
 - Solutions today
@@ -90,9 +137,14 @@ Sum:
 
 ### Business Assumptions
 
-I believe my customers have a need to:
+I believe VSP / VA business has a need to:
+- Dictate standard tooling and workflow for project management across VFS teams
+- Collaborate and access usage documentation in the same space
  
-I believe my initial customers are (or will be):
+I believe VSP is (or will be):
+- Not capturing technical product documentation at all today
+- Using Lighthouse documentation to understand how to integrate with our APIs
+- 
  
 I believe the #1 value a customer wants to get out of my service is:
 
