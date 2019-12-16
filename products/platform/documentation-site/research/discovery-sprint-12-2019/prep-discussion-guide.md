@@ -24,9 +24,9 @@ Alright, we're recording!
 [If applicable] I understand that you've created documentation or contributed to a documentation ecosystem before for others to use. 
 
 As someone who's been involved in documentation management: 
-- Talk me through a time when you’ve had a really successful experience with documentation.
+- Talk me through a time when you’ve had a really good experience with documentation.
 - What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
+- How did you know it was good? What made it successful (or not)? What were the results? What behavior were you seeing to indicate that?
 - What tools and processes have you found effective in the past?
 - What tools and processes have you found ineffective in the past? 
 - What processes did you use to set standards across different teams who were contributing to the documentation?
@@ -38,7 +38,7 @@ As someone who's been involved in documentation management:
 Transition: Great, thanks for all of that info! Now we're going to switch gears a bit and talk about your experience _using_ documentation.
 
 ### User Questions
-- Talk me through a time when you've had a really successful experience using documentation to get something done.
+- Talk me through a time when you've had a really good experience using documentation to get something done.
 - What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation? 
 - Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
 - Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
