@@ -79,6 +79,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - [If time] Extra questions
 
 ### Kevin W
+- Notetaker: Megan // Moderator: Crystabel
 - Intro
 - Before we get into the specifics of using Drupal for documentation, I'd like to talk a bit about your experience with documentation in general. Have you ever created documentation or contributed to a documentation ecosystem before for others to use?
 - [If yes] Provider questions (above)
@@ -87,7 +88,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - [If time] User questions (above)
 
 ### 18F
-- Notetaker: Crystabel
+- Notetaker: Crystabel // Moderator: Megan
 - Tell us about 18F's [handbook](https://handbook.18f.gov/).
 - What tools and processes have you found successful with the handbook? What outcomes did those tools and processes generate?
 - How does this get maintained and kept up to date? Who owns it? How dispersed is that ownership, and has any of it been designated top-down vs bottom-up (has it ever worked to tell someone they own something)?
