@@ -39,7 +39,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 ### User Questions
 - Talk me through a time when you've had a really successful experience using documentation to get something done.
 - What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation? 
-- Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions)
+- Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful?
 - Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
 - What would you say is your biggest pain point today with VSP documentation?
 
@@ -47,6 +47,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - If you’re looking for information related to how to do your job, where do you go to find it?
 - If you’re directing a VFS team member to information related to their job, where do you go to find it/where do you tell them to go?
 - Do you see yourselves as responsible for keeping any of the above information up to date? How do you ensure that it is accurate?
+- What would you expect see on a successful VSP documentation site?
 
 ## Questions Specific to Interviewee
 
