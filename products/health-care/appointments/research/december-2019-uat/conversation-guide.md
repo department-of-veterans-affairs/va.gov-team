@@ -120,7 +120,7 @@ Great! Any questions before we get started?
   - [ ] **UAT TASK** *Confirm that the dashboard / list page shows the new request*
  
  ## Cancel Pending Appointment
-**Looking at this list, are there any confirmed or pending appointments that you'd like to or need to cancel?**
+**Looking at this list, are there any confirmed or pending appointments that you need to cancel?**
 - If yes: Great, let's cancel it now
   - [ ] **UAT TASK:** *Confirm user can cancel successfully or that user gets correct error message about calling in*
 - If not: OK, let's make another appointment and then come back to cancel it
