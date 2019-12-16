@@ -1,7 +1,6 @@
 # Lean UX Outline: Documentation Site
 
 ## 1. Problem Statement
-
 We created a myriad of documentation that was designed to help our customers (i.e. VFS teams building things on VA.gov) find what they need to work seamlessly and iteratively, and build great products on VA.gov. We have observed that the resources as they exist today aren’t effectively enabling that, which is causing a large support burden for VSP, is frustrating our customers, and is potentially resulting in products on VA.gov that don't meet VSP standards. *How might we improve our documentation resources so that our customers are more successful?*
 
 ### What are our desired outcomes of this solution?
@@ -22,6 +21,24 @@ We created a myriad of documentation that was designed to help our customers (i.
 ### In what ways are those outcomes not being met?
 
 ## 2. Proto-Personas
+
+Technical and Non Technical VFS Team Members are the top priority for the next iteration of this solution. Because if we meet their needs, we are inherently meeting VSP team member needs bc it will reduce the support burden. It will also inherently meet the needs of any DEPO team members who are embedded on teams since their traits are very similar to VFS teams, and non-embedded DEPO team members are not a priority... why? 
+
+We should prioritize the personas who will be most actively using the documentation, which are VFS teams, VA Content Writers and maybe DEPO..... will daily/weekly/sprintly use these docs, so they are the top priority for the next iteration of this solution. DEPO might also use it just as much nbc they're integrated into the VFS team. We don't know how much owners, prospective teams would use the documentation.
+
+"How" documentation and product-specific documentation have to be updated way more often than "why" documentation, so we should prioritize ease of maintenance for the VFS and VSP teams responsible for that kind of documentation.
+
+Highest priority persona should be the persona who's ultimately responsible for maintaining the documentation. Keeping it accurate and up to date is the absolute key to incentivizing adoption, and if we make it really easy for the owner to maintain, then it will be better and more trustworthy and VFS teams will adopt.
+
+OR
+
+VA Content Writers aree the top priority for the next iteration of this solution, because they're such a large and diverse group, that if they don't have clear documentation, we won't get them to adopt the CMS which will create more work for the VFS Teams (Public Websites Team) and might result in new content not getting written "fast enough".
+
+OR 
+
+Onboarding documentation is the most important bc it sets ppl up for success.
+
+----
 
 Persona 1: Technical VFS team member (engineer)
 - Behavioral traits
@@ -147,6 +164,7 @@ Persona 9: Other bureaucracies (long term)
 
 I believe VSP / VA business has a need to:
 - Dictate standard tooling and workflow for project management across VFS teams
+- Be responsible for all documentation, except for product-specific documentation which should come from VFS Teams
  
 I believe VSP / VA business is (or will be):
 
@@ -170,6 +188,7 @@ Who is the user and what do they need?
 - They don't capture technical product documentation at all today
 - They use Lighthouse documentation to understand how to integrate with our APIs
 - Having technical and non-technical documentation in the same spot will make it too hard to find technical stuff
+- Does DEPO (and thus the VFS Teams they lead) know that they are responsible for their own product documentation? And are thus responsible for keeping it up to date?
 
 I believe the #1 value a customer wants to get out of my service is:
 
