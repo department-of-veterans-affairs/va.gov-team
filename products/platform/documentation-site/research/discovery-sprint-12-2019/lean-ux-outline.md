@@ -7,23 +7,73 @@ We created a myriad of documentation that was designed to help our customers (i.
 
 ### What are our desired outcomes?
 
+
+
 ### In what ways are those outcomes not being met?
+
+
 
 ## 2. Proto-Personas
 
-Persona 1: [user type]
+Persona 1: Technical VFS team member (engineer)
+- Behavioral traits
+  - Store documentation elsewhere (such as Confluence)
+  - Already have their own existing documentation methods (cultural differences)
+- Pain points and needs
+  - Cultural differences in documentation tools and methods
+- Solutions today
+- Possible solutions
+
+Persona 2: Non-technical VFS team member
+- Behavioral traits
+- Pain points and needs
+  - May not know how to use GitHub or Markdown
+- Solutions today
+- Possible solutions
+
+Persona 3: VA content owners 
+- Behavioral traits
+- Pain points and needs
+  - May not know how to use GitHub or Markdown
+- Solutions today
+- Possible solutions
+
+Persona 4: Technical VSP team member
 - Behavioral traits
 - Pain points and needs
 - Solutions today
 - Possible solutions
 
-Persona 2: [user type]
+Persona 5: Non-technical VSP team member
+- Behavioral traits
+- Pain points and needs
+  - (Potential) May not know how to use GitHub or Markdown
+- Solutions today
+- Possible solutions
+
+Persona 6: DEPO team member
 - Behavioral traits
 - Pain points and needs
 - Solutions today
 - Possible solutions
 
-Etc
+Persona 7: Prospective VFS team
+- Behavioral traits
+- Pain points and needs
+- Solutions today
+- Possible solutions
+
+Persona 8: Prospective VA business owner
+- Behavioral traits
+- Pain points and needs
+- Solutions today
+- Possible solutions
+
+Persona 9: Other government agencies (long term)
+- Behavioral traits
+- Pain points and needs
+- Solutions today
+- Possible solutions
 
 ## 3. Pain point prioritization
 
@@ -58,7 +108,8 @@ What other assumptions do we have that, if proven false, will cause our project 
 
 ### User Assumptions
 
-Who is the user?
+Who is the user? 
+- Cultural differences make it hard to adopt one standard documentation across all teams
 
 What problems does our product solve?
 
