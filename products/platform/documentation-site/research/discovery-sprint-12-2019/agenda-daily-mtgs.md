@@ -1,3 +1,5 @@
+## [Full Sprint Agenda Deck](https://docs.google.com/presentation/d/1DXom-pkgMgcIaY3dmuyz81ZirQUBB4i8S9mu0XLYKGQ/edit?folder=0AJ6yVhfytxhFUk9PVA#slide=id.p)
+
 ## Day Start Meeting Agenda
 - Assign notetaker for this meeting
 - Review goal and activities for the day
