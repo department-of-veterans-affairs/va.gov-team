@@ -214,62 +214,126 @@
 
 ### Notes:
 
-#### Talk me through a time when you’ve had a really successful experience with documentation.
-- 
+#### Talk me through a time when you’ve had a really good experience with documentation.
+- Rf - Reacts doc is really good, easy to find, well indexed, follows domain language consistently
+- What made it successful
+- Rf - Searchability of it, full featured search
+- Experience with bad documentation
+- Rf - the worst doc is missing doc, and that's a problem on vsp a lot is being able to find the most up to date or even to know it exists…
 
 #### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
 
 #### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
-- 
 
 #### What tools and processes have you found effective in the past?
-- 
+- Rf - no, never been part of good doc culture, I've read about other companies that have good doc culture like gitlab, I think it sounds cool but I don't know how to get to that level of discipline
 
 #### What tools and processes have you found ineffective in the past?
-- 
+- Rf wikis don't work, because there's no central governance, there's no editor, when you don't have consistent editors you get diff dialects…in a larger org its important to have the same domain language across, because it gets very confusing…if its not being reviewed or having any controls over it
 
 #### What processes did you use to set standards across different teams who were contributing to the documentation?
-- 
+- Rf we didn't …the gatsby site is the offer of 3 people pulling together and coalesce it into one voice over 3 months
 
 #### How did you ensure that the information stayed up to date?
-- 
+- Rf we didn't [laughs]
 
 #### What do you think VSP, the platform team, can learn from this example?
-- 
+- Rf our priority was to get as much doc done as possible, so tradeoffs we didn't build the infrastructure to maintain…its easy to make but hard to publish…being able to see the changes updated on the doc site is important…if they don't see the updates quickly it removes the incentive
 
 #### If you had the chance to create that ecosystem again, what would you do differently?
-- 
+- Rf would have looked at 3rd party tools, could have used that instead of building something ourselves…(megan: is there any in particular?)…there's a pm doc management tool, we didn't evaluate any tools, I know they're out there, not a big fan of confluence, I know it could work, it didn't work where I used it before…the search tool is a plug in…algolia
+- Br the tool was notion.io, notion is pretty dope…it’s a productivity tool does a little bit of everything, project, product, documentation a little bit of everything
+- Megan: I'm surprised you wanted to look at other tools…my understanding is that gatsby can render md files and tech doc can live close to the code, thought that's where gatsby would have advantage
+	• Rf yeah that was one of our goals - to pull doc out of multiple repos - one idea is that you could put a readme on an app and then pull that out and put it on the documentation site…so if we want to update it its in proximity of the code…we didn't finish it, the doc update process is broken, so if we fixed it that would be great…once we had to move on to higher proprieties there's no one to fix it…if its 3rd party you have a whole company that can fix it…after the infrastructure was done, dev was moved off to work on other things and now it’s a prioritization exercise
+	• Br - its not only the upkeep, it’s the type of resource…it’s a developer needed not a non-technical person
+	• Rf - it might be that we hve an overly complicated set up and maybe we should stick to the standard set up and not use plugins…simplify the approach…use default gatsby install
 
 #### If you had to choose 3 things that you think were critical to your success, what would you say those were?
-- 
 
 #### Talk me through a time when you've had a really successful experience using documentation to get something done.
-- 
+- Cv - end of last week, trying to comb through 17 mill json files using jq, going to their documentation, they have all the things you can do with examples for each, so that was nice
 
 #### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
+- Cv - it was technical…you feed it a bunch of commands, it had all the commands, description of each one, how you would use each one in put and output
+- Bf - do you feel like you learn about new stuff from documentation, or use it as a reference if you already know 
+- Cv - I did learn new stuff when I was looking at that one,…I don't know, maybe not typically…what I was trying wasn't working so I was poking around how I might else solve this problem
+- Rf- if I need something as a reference, I use google and hit mdn
+- Cv - I use mdn but I never use their search, I use google
+- Bf - don’t' think I would even browse on mdn
+- Cv that works great for them because they are like the first or second hit…but…
 
 #### Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
-- 
 
 #### Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
-- 
 
 #### What would you say is your biggest pain point today with VSP documentation?
-- 
+- Cv - no idea what's there, if someone asked me a question…
+- Rf - we don't have a good documentation culture and we keep a lot of stuff in our heads and in slack…end up having the same convo multiple times because we don't document…the doc we do have its inconsistent voice, its hard to scan to find info you need…sometimes there's just blocks of text and you have to stop everything…its not easy to read
+- Megan: talk a bit more about documentation culture…what do you think characteristics make up a strong culture
+- Rf - primarily communication things through documentation…we are more socially oriented where we communicate through conversations through slack and use documentation as kind of a h elper…someone asked me for help in stalling site rather than using documentation and updating it, we had conversation and I should update it…but yeah
+- Megan: why the slack call?
+- Rf- the slack call was to identify that it was inaccurate, now I need to update it, but that's like a multi-step process…I have to go to the file, write it out, validate, go through approval process where someone else has to review…it’s a multiple step process…I have other things to work on…I guess I should make it a priority and set an example….that's on the gatsby website
+- Megan: if you were - can you think of any other things that would help you prioritize
+- Rf - if I could go and annotate documentation and then go back, then I could go through it when I had time…some feedback loop..
+- Megan: do you feel you have time to do that
+- Rf- probably not…even if I had a list of things that were outdated I personally wouldn't have time…it would take some time to write up…there are other things that are higher priority 
+- Megan: how might we fix that
+- Rf - never communicate over slack, if its important enough to explain, stop the convo and document…if that's too rigid find a middle ground
+- Cv - if we went that approach we would need to make it lower overhead to make those changes…I may have updated the doc once upon a time but I couldn't tell you how to do it now
+Ds - which area is this documentation around
+- Cv - I've updated the readme, but maybe I've updated the gatsby site but I don't remember how
+- Rf - I know I said I don't like wikis but I do like the interactions of a wiki…be able to edit right on the page
+- Megan: what other the barriers (besides not knowing how, taking time)
+- Cv there are a few hurdles, first I need to find do we have this doc, is it up to date, how is it not up to date, how can I fix it in a voice consistent with everything else, how do I fix it…there's a lot to go through rather than just answer the question
+- Megan - if you don't, who should update the doc
+- Cv I think especially for things like…yeah, exactly…I think it depends on the kind of documentation, if it’s the onboarding process we leave it to the team, if its technical  docu of a thing I built, then its me, if I'm adding a feature than I should add the documentation to include that thing…I guess if I know how to update then it should be responsibility to at least flag someone down…I'm in the middle of doing something completely different, someone asks something out out of the blue, should I spend an hour updating the documentation or continue what I'm doing…depends on what needs to be updated and when
 
 #### If you’re looking for information related to how to do your job, where do you go to find it?
-- 
+- Rf slack…
+- Do you search in slack?  Rf - yeah…that's how I remember that someone explained that to me months ago…I use dm to index lots of information…I don't encourage that but that's the way I've been doing it for now
+- Cv - it depends on what part of my job…I often search slack…I think my trouble is I just have a bunch of stuff in my head and I kind of remember what it was before we had documentation so that's what I fall back to…when we first stated the whole platform and we had documentation around the like PRs…someone was looking for it and its not there anymore because it was updated…I do search github but mostly I fall back on memory
+- Rf - I very often go to the old team repo…I probably use the old one more than the new, because sometimes stuff has not migrated over or its in the state that I rmeember it was in more consistently….I found it one way before so I know that I can find it that way in that repo…the new one I don’t search for it, I navigate the director structure…often it works if I know something is there
 
 #### If you’re directing a VFS team member to information related to their job, where do you go to find it/where do you tell them to go?
+- Rf - I'll tell them to go to the new team repo if it’s a doc that I know is there…sometimes to the client document repo because its better than what's inside the new repo…I'm not familiar with the new team repo…I don't know where the docs are and what state they are in…
 - 
 
 #### Do you see yourselves as responsible for keeping any of the above information up to date? How do you ensure that it is accurate?
-- 
+What would you expect see on a successful VSP documentation site?
+- Cv - lots of words
+- Rf - search and code examples and diagrams
 
-#### What would you expect see on a successful VSP documentation site?
-- 
+#### Other questions
+- Megan: can technical and non-technical documentation can live together well, or what are the differences and overlaps
+- Rf- probably not…it depends on the volume and how we do the indexing…we tried that and people were putting meeting notes in the repo and it killed the indexing and you couldn't find anything…also not sure what an example of non-technical documentation is (megan: things like IA best practices, SEO best practices, design comps, content, etc)
+- Rf - I would say probably not…again it depends on how we can search through that…as an engineer I would not want ux design and copy results showing up in my results…just as if you were a content writer you wouldn't want to see 
+- Cv - when we are looking in the documentation for a thing we know what kind of thing it is…when we are searching for one everything else kinda doesn't matter…siloing them out would be fine and may lead to a better user experience…gatsby for example could have menus with different categories that are specific to the kind of thing you are looking for
+- Megan: have you encountered any tools that provide a hybrid of functionality that they can render md files near the code but also the hosting platform benefits…or is something else more important
+- Cv - I got nothing
+- Megan: that's fair
+- Crystabel: any other questions
+- Bf: how much should we rely on the code to be self documenting
+- Rf - self documenting code, sure you can have micro level…we don't have a lot of that…what people need is a higher level understanding of the app…I don't know how we could do that with just the code…example, apple ios doc is a good example where if you have a component they will list all the common ways to compose…looking to solve a problem, not 
+- Specification doc versus procedure docs
+- Rf - [nods]
+- Megan: if you were looking for documentation for a specific product or template, where would you find that …agile 5 metalsmith templates for example…do we think that vfs teams are documenting their prod
+- Rf - maybe on the back end but I don't think on the front end…definitely not on the front end because I've had to maintain a lot of these apps and none of them have documentation for fe
+- Megan: should we?
+- Rf - my understanding is that we have swagger for be, I don't know where those are
+- Megan - [hypothetical pr scenario] how does this need to have more info in pr requests might play into documentation for context
+- Cv - looking for what's the purpose of the pr, I can see the code is fine but why is it here…if the pr description is blank I'm not going to go hunting for it…this needs to be done, great, why though…that's where I've been most opinionated…documenting decisions, there's probably a balance there, we probably don't need documentation for every pr, but for the general approach…
+- Megan: what level of granularity would we expect to see on technical documentation, also my assumption is that any project will have weird decisions made…do you all encounter that engineers 
+- Rf - usually I document decisions if something is contentions, that's a good litmus test…the other thing if a lot of useful research is done, then I'll try and encourage people to extract that and document that because it could be 40 hrs of work and I don't want to lose that…
+- Cv - I think technology decisions fall into that as well…for example, I have no idea we are still using metalsmith
+- Megan: have you encountered here or anywhere else standards for what level/point of things that should be documented
+- Rf: sent link https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/documentation-guide/documentation-style-guide
+- Megan: doesn't talk about when to document things
+- Rf - we just didn't get to it…most of our effort was spent on effort…there's a lot of different approaches to how people write, some people write very flowery which I hate its hard to read and scan…maybe we can teach people how to write
+
+- Bf -  how often do you use tests as source of documentation
+- Rf - never
+- Cv - I never look at the tests, if I need to know how a thing works because its not a guarantee that all the functionality is tested
+Rf - usually tests as documentation only work when you have a good, strong unified engineering culture…we have 1/2 doz diff javascript dialects, you never know what you're gonna get into
 
 # Interview 1
 - Date: 12/16/19

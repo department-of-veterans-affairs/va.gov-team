@@ -57,6 +57,7 @@ Persona 1: Technical VFS team member (engineer)
   - Keep documentation where the work is (from Google recs)
   - Auto-assign PR updates to the team that owns the docs for review, so anyone can update but only owner can approve
   - Leverage traditional open source README.md documentation styles, bc developers often look to GitHub for documentation
+  - Single command in front of all the things to initialize everything
 
 Persona 2: Non-technical VFS team member
 - Behavioral traits
@@ -168,6 +169,7 @@ Who is the user and what do they need?
 - They need to be able to collaborate and access usage documentation in the same space
 - They don't capture technical product documentation at all today
 - They use Lighthouse documentation to understand how to integrate with our APIs
+- Having technical and non-technical documentation in the same spot will make it too hard to find technical stuff
 
 I believe the #1 value a customer wants to get out of my service is:
 

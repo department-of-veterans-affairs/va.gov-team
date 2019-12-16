@@ -41,8 +41,8 @@ Participants wanted to see more options than were initially shown on the map for
 
 Overall, no participants used the quick filter links to find in-network urgent care. Though all participants found urgent care via the dropdown, initially participants overlooked the verbiage "in-VA Network Urgent Care Providers" because it is lengthy and at the bottom of the dropdown list.
 
-- x/5 participants selected "in-VA network urgent care providers" from the dropdown immediately
-- x/5 participants hesitated but eventually selected "in-VA network urgent care providers"
+- 2/5 participants selected "in-VA network urgent care providers" from the dropdown immediately
+- 3/5 participants hesitated but eventually selected "in-VA network urgent care providers"
 
 #### 2. Find Urgent Care to stitch a wound
 
@@ -61,6 +61,9 @@ The following are recommendations to consider during the redesign of the Facilit
 
 #### Display facility names that are familiar with users (e.g. MinuteClinic at CVS) 
   - Participants immediately recognized retail urgent care locations when they were associated with a store or name they've seen before (like CVS, Walgreens, etc.)
+
+#### Organize/Prioritize dropdown and filter lists
+-
 
 ## Additional Questions
 - What differences exists between how Caregivers and Veterans use Facility Locator?
