@@ -39,7 +39,7 @@
 # Executive Summary
 Developing with Jen Lee
 ## User Problem Statement
-Research and usability studies have told us that they couldn’t find key tools and services online and confused by poor navigation between sites.
+Research and usability studies have told us that veterans and caregivers found it difficult to find key tools and services online, and confused by poor navigation between sites.
 ## Solution Goals
 Provide Veterans, family members, caregivers, and service members access to vital information about VA benefits and services with a fresh new landing page with easy to use navigation to get them to the right place.
 ### User Goals
