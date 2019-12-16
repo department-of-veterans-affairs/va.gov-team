@@ -37,14 +37,14 @@ Participants wanted to see more options than were initially shown on the map for
 
 ## Detailed Findings
 
-#### 1. Find Urgent Care for a sore throat
+**1. Find Urgent Care for a sore throat**
 
 Overall, no participants used the quick filter links to find in-network urgent care. Though all participants found urgent care via the dropdown, initially participants overlooked the verbiage "in-VA Network Urgent Care Providers" because it is lengthy and at the bottom of the dropdown list.
 
 - 2/5 participants selected "in-VA network urgent care providers" from the dropdown immediately
 - 3/5 participants hesitated but eventually selected "in-VA network urgent care providers"
 
-#### 2. Find Urgent Care to stitch a wound
+**2. Find Urgent Care to stitch a wound**
 
 Unless prompted, participants did not distinguish between the treatments provided at retail or urgent locations. Participants assumed that stiches would be administered at a VA facility and not a community care facility.
 
@@ -52,15 +52,38 @@ Unless prompted, participants did not distinguish between the treatments provide
 3/5 participants mentioned that they would not go to Urgent Care for stitches
 
 
-#### 3. Interaction with search results cards
+**3. Interaction with search results cards**
 
-#### Post-Test Questions
-- What would you say the difference is between a retail and an urgent location?
-- Was it intuitive to find the appropriate Urgent Care location?
-- What was your favorite part of the prototype?
-- What was your least favorite part?
-- If you had a magic wand, what would you change about this prototype?
+5/5 participants would use the search result card to find more information about a location
 
+### Post-Test Questions
+
+**What would you say the difference is between a retail and an urgent location?**
+- It’s related to their abilities. For a soar throat I could go to a retail urgent care, but if I need X-rays I would go to Urgent care. It’s a difference in services.
+- When you say retail, I would think it would be inside a CVS pharmacy or something like that.
+- No clue – maybe the retail urgent care…well it makes it sound like they’re going to charge me money but that doesn’t make sense, so I don’t know.
+- I don’t know the difference.
+- A retail urgent care center may be part of an outside location not associated with the VA. It might be like a clinic or an urgent care clinic located in a strip mall or something. I’m guessing.
+
+**Was it intuitive to find the appropriate Urgent Care location?**
+- Yes, it was pretty straight forward. It looks like a lot of other searches I’ve used before
+- Yes this is very common compared to other things on the web.
+- It wasn’t bad. The list tells you they take VA
+
+**What was your favorite part of the prototype?**
+- I like the map. Well I like several things, I like the ordered facilities by closest to where I am. And the matching of the letters A B C to the locations.
+- I appreciated the map view. And I liked the layout, it was easy to look at.
+- I like the map. Because it shows me where these places are, and I’m always concerned about how I’ll get to these places and how Ill get back.
+- The map
+- I honestly like the way you can see the clinics in relation to the location on the map.
+
+**If you had a magic wand, what would you change about this prototype?**
+- I would like more options to pop-up on the map so I don’t have to scroll from page to page to see my top 10 options.
+- I’d like to include the hours int eh box for the facilities.
+- Regarding the descriptions of the retail urgent care and urgent care: I don’t know that I would’ve thought to click on the filter to find the definition. IDK if there’s too much text to actually have it on the screen so maybe there could be a thing that says “services available.”
+- I’d change the name of that facility to be more clear. It was not intuitive to find the definition of urgent and retail urgent care under the filters.
+- A + or – for zooming on the map.
+- One thing, I would add a link to outside transportation to arrange a ride.
 
 ## Actionable Recommendations
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
