@@ -39,7 +39,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 ### User Questions
 - Talk me through a time when you've had a really successful experience using documentation to get something done.
 - What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation? 
-- Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful?
+- Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
 - Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
 - What would you say is your biggest pain point today with VSP documentation?
 
@@ -85,7 +85,14 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - What pain points does Drupal solve? 
 - [If time] User questions (above)
 
-## Kelly L
+### 18F
+- Tell us about 18F's handbook.
+- What tools and processes have you found successful with the handbook? What outcomes did those tools and processes generate?
+- How do you guage success with a documentation site? What behaviors have you seen to indicate that you've been successful?
+- If you could build the handbook ecosystem over again, what would you do differently? 
+- Do y'all have a separate solution for technical documentation? Can you tell us about that? What information is included there? 
+
+### Kelly L
 - Intro
 - Provider questions (above)
 - User questions (above)
