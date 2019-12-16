@@ -46,6 +46,12 @@ Overall, no participants used the quick filter links to find in-network urgent c
 
 #### 2. Find Urgent Care to stitch a wound
 
+Unless prompted, participants did not distinguish between the treatments provided at retail or urgent locations. Participants assumed that stiches would be administered at a VA facility and not a community care facility.
+
+3/5 participants followed the same path for finding urgent care to stitch a wound as they did for a sore throat
+3/5 participants mentioned that they would not go to Urgent Care for stitches
+
+
 #### 3. Interaction with search results cards
 
 #### Post-Test Questions
