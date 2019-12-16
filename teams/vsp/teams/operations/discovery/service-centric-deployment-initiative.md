@@ -16,7 +16,7 @@ See also: Discovery Sprint How-to about [makeup of a discovery sprint team](Disc
 * Discovery Sprint Lead:
 * Engineer: Nathan Hruby
 * Engineer: 
-* Researcher:
+* Researcher/ Designer: Emily Waggoner 
 * Other people from the Sprint Team:
 * SME:
 
