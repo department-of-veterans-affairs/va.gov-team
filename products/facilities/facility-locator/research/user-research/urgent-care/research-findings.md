@@ -34,6 +34,10 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 
 #### 1. Find Urgent Care for a sore throat
 
+Takeaways here
+
+- x/5 participants selected "in-VA network urgent care providers" from the dropdown
+
 #### 2. Find Urgent Care to stitch a wound
 
 #### 3. Interaction with search results cards
