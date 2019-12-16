@@ -25,6 +25,7 @@ Alright, we're recording!
 
 As someone who's been involved in documentation management: 
 - Talk me through a time when you’ve had a really successful experience with documentation.
+- What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
 - How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
 - What tools and processes have you found effective in the past?
 - What tools and processes have you found ineffective in the past? 
