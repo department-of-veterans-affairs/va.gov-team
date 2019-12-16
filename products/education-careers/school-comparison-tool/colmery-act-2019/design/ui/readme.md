@@ -2,7 +2,7 @@
 
 ### Colmery Act Section 116 Updates:
 
-[GI Bill Comparison Tool VET TEC Sec 116 Post-MVP v2.0](https://bahdigital.invisionapp.com/share/VCIABCYTDAB) (Work in Progress)
+[GI Bill Comparison Tool VET TEC Sec 116 Post-MVP v2.0](https://bahdigital.invisionapp.com/share/VCIABCYTDAB) 
 
 [GI Bill Comparison Tool VET TEC Sec 116 MVP v1.4](https://bahdigital.invisionapp.com/share/BXIAAZ0PHY3)
 
