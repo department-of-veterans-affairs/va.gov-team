@@ -31,6 +31,7 @@ Persona 1: Technical VFS team member (engineer)
   - Write simple code (i.e. self-documenting code, source code) which engineers can read and understand, but don't focus on making it accessible for non-technical people
   - Source code = source of truth (over documentation)
 - Pain points and needs
+  - Decisions documented in issues and PRs are disconnected from the work. Once they're closed, or if use different tools in the future, difficult/impossible to find those notes in the future.
   - The way we have technical documentation structured in GitHub isn't what people are used to
   - Product documentation isn't next to the code
   - Documentation is out of date or conflicting
@@ -44,8 +45,10 @@ Persona 1: Technical VFS team member (engineer)
   - Design.va.gov (for component docs)
   - Swagger
   - Developer.va.gov ???
+  - Pull requests (context for why changes happen)
   - Source code
   - Onboarding FE video in a Google slide (sent via Slack or Zoom)
+  - Search in Slack
 - Possible solutions
   - Keep documentation where the work is (from Google recs)
   - Auto-assign PR updates to the team that owns the docs for review, so anyone can update but only owner can approve
@@ -58,6 +61,7 @@ Persona 2: Non-technical VFS team member
   - 
 - Pain points and needs
   - May not know how to use GitHub or Markdown
+  - Decisions documented in issues and PRs are disconnected from the work. Once they're closed, or if use different tools in the future, difficult/impossible to find those notes in the future.
   - No product specific technical documentation exists (or unsure where it is)
   - Can't decipher self-documenting code (i.e. current technical documentation method)
   - Don't have PIV Access very early (can't access CMS documentation)
@@ -70,6 +74,7 @@ Persona 2: Non-technical VFS team member
   - Design System
   - Confluence (Agile 6)
   - Live VA.gov products (i.e. current functionality, patterns, etc)
+  - Search in Slack
 - Possible solutions
 
 Persona 3: VA content owners 
@@ -87,12 +92,16 @@ Persona 4: Technical VSP team member
   - No product specific technical documentation exists (or unsure where it is) and thus no context for reviews
   - Don't have a "map of the world" (i.e. trying to run one repo, but learned it's dependent on a sibling repo, that dependency isn't well-documented, didn't know that we have a component library or documentation around it)
 - Solutions today
+  - Link to an important doc in Slack w/good searchable keyword
 - Possible solutions
 
 Persona 5: Non-technical VSP team member
 - Behavioral traits
 - Pain points and needs
   - (Potential) May not know how to use GitHub or Markdown
+  - Design reviews - what do I check against? Design system, and/or live apps?
+  - Design reviews - checking against current options is hard.
+  - 
 - Solutions today
 - Possible solutions
 
