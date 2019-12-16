@@ -48,6 +48,9 @@ Persona 1: Technical VFS team member (engineer)
   - Write simple code (i.e. self-documenting code, source code) which engineers can read and understand, but don't focus on making it accessible for non-technical people
   - Source code = source of truth (over documentation)
 - Pain points and needs
+  - Information overload
+  - Didn't fully understand how ROEs applied / would work in action when they first started
+  - Documentation too spread out
   - Decisions documented in issues and PRs are disconnected from the work. Once they're closed, or if use different tools in the future, difficult/impossible to find those notes in the future.
   - The way we have technical documentation structured in GitHub isn't what people are used to
   - Product documentation isn't next to the code
@@ -59,6 +62,7 @@ Persona 1: Technical VFS team member (engineer)
   - Hard to pick up something started by another team bc of poor / spread out documentation
   - People use unsactioned examples of patterns / truth (perpetuates use of bad things we're trying to retire)
   - Hard to go back to get it right, people just ship and plan to fix later
+  
 
 - Solutions today
   - Gatsby FE docs
@@ -75,12 +79,16 @@ Persona 1: Technical VFS team member (engineer)
   - Auto-assign PR updates to the team that owns the docs for review, so anyone can update but only owner can approve
   - Leverage traditional open source README.md documentation styles, bc developers often look to GitHub for documentation
   - Single command in front of all the things to initialize everything
+  - Standardized terminology (opportunity areas, key themes, recommendations, takeaways)
+  - Documentation styleguide
+
 
 Persona 2: Non-technical VFS team member
 - Behavioral traits
   - Ask team members or in Slack for someone to point them to the right doc, vs looking for docs themselves
   - Google docs is constant go-to for collaboration
 - Pain points and needs
+  - Information overload
   - May not know how to use GitHub or Markdown
   - Decisions documented in issues and PRs are disconnected from the work. Once they're closed, or if use different tools in the future, difficult/impossible to find those notes in the future.
   - No product specific technical documentation exists (or unsure where it is)
@@ -94,6 +102,10 @@ Persona 2: Non-technical VFS team member
   - Broken links (or incorrect reference links) are frustrating / slow down progress 
   - Dispersed documentation causes findability issues (where do I go for the source of truth for this?)
   - Not aware when something has changed (i.e. updates to patterns in design system)
+  - Didn't fully understand how ROEs applied / would work in action when they first started
+  - By the time you need the docs as a part of workflow, you can't remember where they are
+  - Unclear what practice area deliverables are
+
 - Solutions today
   - Shawna's google doc of Design resources
   - va.gov-team repo
@@ -102,6 +114,7 @@ Persona 2: Non-technical VFS team member
   - Live VA.gov products (i.e. current functionality, patterns, etc)
   - Search in Slack
 - Possible solutions
+  - Standardized terminology (opportunity areas, key themes, recommendations, takeaways)
 
 Persona 3: VA content owners
 - Behavioral traits
@@ -116,7 +129,16 @@ Persona 4: Technical VSP team member
 - Pain points and needs
   - Don't know where anything is in the repo
   - No product specific technical documentation exists (or unsure where it is) and thus no context for reviews
-  - Don't have a "map of the world" (i.e. trying to run one repo, but learned it's dependent on a sibling repo, that dependency isn't well-documented, didn't know that we have a component library or documentation around it)
+  - Don't have a "map of the world" (i.e. trying to run one repo, but learned it's dependent on a sibling repo, that 
+ dependency isn't well-documented, didn't know that we have a component library or documentation around it)
+  - Publishing docs (in Gatsby) isn't automatic / easy to update after initial publish / requires engineer to udpate
+  - Updating documentation isn't a priority
+  - Don't know what documentation exists
+  - Don't know if documentation is being used by VFS teams
+  - New repo isn't familiar, so go back to old versions a lot (even knowing the old stuff might be out of date)
+  - Broken links
+  - Hard to search, can't find it when you need it
+  - Not enough examples of "good" / best in class work to point ppl to
 - Solutions today
   - Link to an important doc in Slack w/good searchable keyword
 - Possible solutions
@@ -129,6 +151,9 @@ Persona 5: Non-technical VSP team member
   - Design reviews - checking against current options is hard.
   - Hard to hold ppl to standards that are often change...
   - People are writing their own "How to..." documentation when they feel we don't have enough for them (i.e. How to Use GitHub, and whatever the VSA Designers are writing up)
+  - Don't know what documentation exists
+  - Don't know if documentation is being used by VFS teams
+  - 
 - Solutions today
 - Possible solutions
 
