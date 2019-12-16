@@ -29,7 +29,7 @@
 - Question from Mikki: is the va.gov-team repo a solution that we're evaluating? Rachael: that can be a solution that we evaluate and recommend if we decide that is best!
 
 ## Day 1 End Meeting Notes 
-- Roundtable 
+- Roundtable takeaways
   - Differences btwn good documentaton culture and bad. Good = if you see the need take the lead. Figure out how to update something when there's a hole in it.
   - We barely talked about large file storage, which is something I have been thinking about a lot before this. Maybe the learning is that this isn't the biggest pain point that doc site needs to solve...
   - Ownership is going to be a really interesting challenge to figure out. When asked in interviews, no one indicated they feel responsible for updating documentation. "Maybe yeah, but I don't" type of answer.
@@ -38,6 +38,11 @@
   - Off the shelf solutions wouldn't require an in-house engineer to maintain, support comes with it. Interesting option, preferred by VSP technical interviewees.
   - Trust. "Is this the source of truth? Is it valid? Has it been updated?"
   - How do we make updating documentation a priority. How can we make it easy? How can we make it clear what needs to be documented? Otherwise, it's not going to happen.
-  
+- 18F interview
+  - They're not using the handbook for technical work/documentation, it's largely about onboarding folks to 18F and cover whole gambit of onboarding a person, how to engage, etc (a lot of overlap w/our needs). It kicked off at least 3 years ago w/a ton of user research into what we've laid out in our research too, they started w/just GitHub pages, now have a way to preview the page before submitting it. Could be interesting to ask them: what are the challenges to having a GH powered site, why did you add those preview capabilities? How much do you / would you recommend using this kind of thing for technical documentation? Is there overlap there? 
+  - Can we also ask what worked well with the initial solution?
+  - Who owns it? How is it kept up to date?
+  - **Notetaker: Crystabel**
+  - **Interviewer: Megan**
 
 ---
