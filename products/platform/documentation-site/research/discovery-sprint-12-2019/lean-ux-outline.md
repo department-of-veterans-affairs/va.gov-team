@@ -172,6 +172,6 @@ How should our product look and behave?
 
 ### 4. Based on pain points, user stories, and assumptions, select hypotheses for MVP:
 
-We believe that: [creating this capability/feature] for [these people/personas] will result in: [this outcome]. We will know we are right when: [we see this measurable signal].
+We believe that: [creating this capability] for [these people/personas] will result in: [this outcome]. We will know we are right when: [we see this measurable signal].
 
 _This is a skeleton template to use if you’re following the Lean UX process, based off the book & Nick Brethauer’s Lean UX Crash Course. I’m sure there’s more structure that can be added to the later sections, but this is a start._
