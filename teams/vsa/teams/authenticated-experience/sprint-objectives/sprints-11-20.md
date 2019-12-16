@@ -45,17 +45,16 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 
 #### Pre-QA
 
-- Make sure UI is thoroughly defined so FE can make sure all states are accounted for
-- Make sure all existing bugs are fixed/updates are implemented
-  - #4205
-  - #4211
-  - #4250
-  - #4245
-  - #4278
-  - #4282
-  - #4283
-- Candidate/Validate endpoint has been consolidated
 - Go/No-go for QA: Thursday, December 19
+- Make sure all existing bugs are fixed/updates are implemented
+  - Use only candidate api for address validation api #4060
+  - Address validation: Continue, Cancel, and X buttons are broken #4205
+  - Address validation: Copy is missing a period #4211
+  - Validation Keys do not work to override addresses in the profile #4245
+  - Do not show the user any suggestions that are not "CONFIRMED" as deliverable #4250
+  - Sometimes we get validation keys but can't force the addresses through #4278
+  - Implementing address validation modal confirmation screen #4282
+  - Review the flow for Address Validation Modal #4283
 
 #### If we get to QA
 
