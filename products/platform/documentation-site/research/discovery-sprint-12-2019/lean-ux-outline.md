@@ -62,7 +62,6 @@ Persona 2: Non-technical VFS team member
 - Behavioral traits
   - Ask team members or in Slack for someone to point them to the right doc, vs looking for docs themselves
   - Google docs is constant go-to for collaboration
-  - 
 - Pain points and needs
   - May not know how to use GitHub or Markdown
   - Decisions documented in issues and PRs are disconnected from the work. Once they're closed, or if use different tools in the future, difficult/impossible to find those notes in the future.
@@ -111,6 +110,7 @@ Persona 5: Non-technical VSP team member
   - Design reviews - what do I check against? Design system, and/or live apps?
   - Design reviews - checking against current options is hard.
   - Hard to hold ppl to standards that are often change...
+  - People are writing their own "How to..." documentation when they feel we don't have enough for them (i.e. How to Use GitHub, and whatever the VSA Designers are writing up)
 - Solutions today
 - Possible solutions
 
