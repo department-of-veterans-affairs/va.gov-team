@@ -87,10 +87,15 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - [If time] User questions (above)
 
 ### 18F
-- Tell us about 18F's handbook.
+- Notetaker: Crystabel
+- Tell us about 18F's [handbook](https://handbook.18f.gov/).
 - What tools and processes have you found successful with the handbook? What outcomes did those tools and processes generate?
+- How does this get maintained and kept up to date? Who owns it? How dispersed is that ownership, and has any of it been designated top-down vs bottom-up (has it ever worked to tell someone they own something)?
+- You started by just using GitHub Pages, correct? What worked well with that initial solution? 
+- Re: GitHub Pages as your initial solution, what challenges did you encounter there? How have you changed the site to solve for those pain points? How do you preview?
 - How do you guage success with a documentation site? What behaviors have you seen to indicate that you've been successful?
 - If you could build the handbook ecosystem over again, what would you do differently? 
+- Have you built a "culture of documentation" to make this successful? 
 - Do y'all have a separate solution for technical documentation? Can you tell us about that? What information is included there? 
 
 ### Kelly L
