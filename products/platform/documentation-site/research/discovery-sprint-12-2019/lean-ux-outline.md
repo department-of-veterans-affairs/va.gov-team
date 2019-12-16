@@ -153,7 +153,10 @@ Persona 5: Non-technical VSP team member
   - People are writing their own "How to..." documentation when they feel we don't have enough for them (i.e. How to Use GitHub, and whatever the VSA Designers are writing up)
   - Don't know what documentation exists
   - Don't know if documentation is being used by VFS teams
-  - 
+  - Have to get a lot of reviews for new documentation before can publish, takes a long time to get it live
+  - No flow/cohesion, no terminology standards, no formatting standards
+  - No feedback loop, so never know about gaps or what's working vs not working vs missing
+
 - Solutions today
 - Possible solutions
 
