@@ -45,11 +45,12 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 #### Pre-QA
 
 - Make sure UI is thoroughly defined so FE can make sure all states are accounted for
-- Make sure all existing bugs are fixed
+- Make sure all existing bugs are fixed/updates are implemented
   - #4205
   - #4211
   - #4250
   - #4245
+  - #4282
   - #4283
 - Candidate/Validate endpoint has been consolidated
 - Go/No-go for QA: Thursday, December 19
