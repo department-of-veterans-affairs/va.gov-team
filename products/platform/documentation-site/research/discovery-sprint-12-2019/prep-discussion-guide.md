@@ -55,7 +55,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - Intro
 - As engineers, I'm willing to bet that y'all have been involved in creating or managing documentation or documentation tools before. Is that correct? 
 - [If yes] Provider questions (above)
-- How do you think engineering documentation differs from non-technical documentation? Do you see these as the similar? Different?
+- In what ways do you think engineering documentation differs from non-technical documentation? Where is there overlap in the problem space? Where do they diverge?
 - User questions (above)
 - [If time] Extra questions
 
@@ -63,7 +63,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - Intro
 - I know that at least some of y'all have been involved in creating or managing documentation or documentation tools before.
 - Provider questions (above)
-- How do you think engineering documentation differs from non-technical documentation? Do you see these as the similar? Different?
+- In what ways do you think engineering documentation differs from non-technical documentation? Where is there overlap in the problem space? Where do they diverge?
 - User questions (above)
 - [If time] Extra questions
 
