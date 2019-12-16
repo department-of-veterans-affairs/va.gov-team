@@ -17,7 +17,7 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 
 #### 2. Users are not likely to use the filter to find what they need.
 
-- GA data proves this (provide example?)
+- Participants overlooked the "quick links" provided to filter information and were drawn to location input and dropdowns.
 - Participants found information that was hidden in a filter useful, but did not know it was available because they did not chose to filter their search results. 
 
 #### 3. Overlapping benefits cause confusion when visiting in-network providers.
