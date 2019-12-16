@@ -30,6 +30,8 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 - A majority of participants mentioned the "diagnostic" MinuteClinic was confusing and assumed it provided services that it does not.
 - Participants did not understand the difference between "retail" urgent care and urgent care until they were given a definition and example treatments 
 
+#### 5. The Map!
+
 ## Detailed Findings
 
 #### 1. Find Urgent Care for a sore throat
