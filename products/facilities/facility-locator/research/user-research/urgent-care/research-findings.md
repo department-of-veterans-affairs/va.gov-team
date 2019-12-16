@@ -104,5 +104,5 @@ The following are recommendations to consider during the redesign of the Facilit
 - [Prototype Tested](https://vsateams.invisionapp.com/share/PWV7CIH4T8H)
 - [Session Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care/participant-notes)
 - [Research Synthesis Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1576081239946/99dfee57b49c1162afc60bcf12ab99908acad348)
-- [Research Synthesis PDF]
+- [Research Synthesis PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/facility-locator-urgent-care-mural-synthesis.pdf)
 
