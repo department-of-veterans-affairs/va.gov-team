@@ -21,6 +21,7 @@ Sprint is 9 days with Christmas holiday (New year's is first day of sprint 12).
 - Lihan: 26 – 31; 5 days of availability
 - Samara: Dec 24 – Dec 27; 6 days of availability
 - Tressa ??
+- Tze (for QA): No time off except 12/25; 8 days of availability
 
 We can either cancel grooming altogether or move to Dec 23. Sprint planning for Sprint 12 should be moved to Jan 2.
 
@@ -45,9 +46,13 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 
 - Make sure UI is thoroughly defined so FE can make sure all states are accounted for
 - Make sure all existing bugs are fixed
- - (List open bug tickets)
+ - #4205
+ - #4211
+ - #4250
+ - #4245
+ - #4283
 - Candidate/Validate endpoint has been consolidated
-- Go/No-go for QA
+- Go/No-go for QA: Thursday, December 19
 
 #### If we get to QA
 
