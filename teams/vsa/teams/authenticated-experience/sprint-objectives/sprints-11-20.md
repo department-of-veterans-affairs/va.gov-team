@@ -52,6 +52,7 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
   - Address validation: Copy is missing a period #4211
   - Validation Keys do not work to override addresses in the profile #4245
   - Do not show the user any suggestions that are not "CONFIRMED" as deliverable #4250
+  - User should see the address they entered when going back to edit their address #4271
   - Sometimes we get validation keys but can't force the addresses through #4278
   - Implementing address validation modal confirmation screen #4282
   - Review the flow for Address Validation Modal #4283
