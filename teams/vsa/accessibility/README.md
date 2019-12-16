@@ -11,7 +11,7 @@ In this folder, you'll find information specific to how 508 Accessibility works 
 - Github labels: `508/Accessibility`
 
 ### VSA Accessibility Specialist Point of Contact
-- Jennifer Strickland, @Jennifer_S in Slack, @jenstrickland in Github
+- Jennifer Strickland, @Jennifer_S in Slack, @jenstrickland in Github, jennifer.strickland@adhocteam.us
 
 ### Table of contents
 The following list is a set of resources to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the [dsva.slack.com](https://dsva.slack.com/#vetsgov-accessibility) channel or your VSA accessibility POC directly.
