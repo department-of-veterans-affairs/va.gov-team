@@ -28,11 +28,11 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 ### Order of priorities
 
 1. Get address validation ready for QA
+  - Ideally, Tze will do QA this sprint.
+  - If this is not possible, this feature needs to be 100% ready for QA by the end of sprint 11 in order for this goal to be met.
 2. Ramp up direct deposit to 100%
-3. Tze to conduct QA (if he's able to)
- - If not, the goal is to be ready for QA in sprint 12
-4. Direct deposit updates
-5. Ticket writing and beginning build for APO/FPO/DPO work  
+3. Direct deposit updates
+4. Ticket writing and beginning build for APO/FPO/DPO work  
 
 ### Direct Deposit
 
