@@ -7,7 +7,6 @@ Hello! In this folder, you'll find information specific to how Product Managemen
 
 ### Points of contact
 The Product points of contact are:  
-- [Andrew Hughey](mailto:andrew.hughey2@va.gov), @andrew on Slack 
 - [Rachael Roueche](mailto:rachael.roueche@adhocteam.us), @rroosh on Slack
 
 ### Table of contents
