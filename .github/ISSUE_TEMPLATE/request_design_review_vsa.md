@@ -26,6 +26,8 @@ assignees: emilywaggoner, CrystabelReiter,jenstrickland
 
 [ ] **Design Intent** (for early discussions about needs, priorities, concepts, research planning, and direction)
 
+[ ] **Pre-usability testing Review** (for prototype and testing validation of best practices, alignment with va design system, and inclusive research best practices)
+
 [ ] **Design Review** (for design work validation of best practices and alignment with the va design system)
 
 ### Where in the process is this? 
