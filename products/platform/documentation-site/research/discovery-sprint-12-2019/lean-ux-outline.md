@@ -232,4 +232,10 @@ How should our product look and behave?
 
 We believe that: [creating this capability] for [these people/personas] will result in: [this outcome]. We will know we are right when: [we see this measurable signal].
 
+We believe that **implementing a searchable public documentation site for VFS/VSP team members** will result in people **knowing what the documentation source of truth is, contributing to it, and sharing it**. We will know we are right when **traffic and contributions to new documentation solution rise steadily**.
+
+
+
+---
+
 _This is a skeleton template to use if you’re following the Lean UX process, based off the book & Nick Brethauer’s Lean UX Crash Course. I’m sure there’s more structure that can be added to the later sections, but this is a start._
