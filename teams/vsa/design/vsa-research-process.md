@@ -95,7 +95,7 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
    *	You can also do more standard affinity-mapping style synthesis on a Miro or Mural board by putting quotes/behaviors on stickies and grouping them. 
    *	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
 5. Turn the themes that arise them into a research results document. This should typically be a Github page (markdown file) as well as a presentation in the form of a slide deck. 
-   * The slide deck should be created using our ]Google Docs VA template](https://docs.google.com/presentation/d/1jRNuGqSX2FarzPwRn2YZiwIevGcDEO7u7El_ou34LwY/edit#slide=id.p1), and then exported as a PPT and attached to the findings page.
+   * The slide deck should be created using our [Google Docs VA template](https://docs.google.com/presentation/d/1jRNuGqSX2FarzPwRn2YZiwIevGcDEO7u7El_ou34LwY/edit#slide=id.p1), and then exported as a PPT and attached to the findings page.
    * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page. 
    * Note the Github page with results should be up 6 business days after your last session.  
    * Examples can be found here:
