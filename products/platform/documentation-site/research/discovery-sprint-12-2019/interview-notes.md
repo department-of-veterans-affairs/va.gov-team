@@ -68,6 +68,17 @@
 #### What would you say is your biggest pain point today with VSP documentation?
 - 
 
+#### If you’re looking for information related to how to do your job, where do you go to find it?
+- 
+
+#### If you’re directing a VFS team member to information related to their job, where do you go to find it/where do you tell them to go?
+- 
+
+#### Do you see yourselves as responsible for keeping any of the above information up to date? How do you ensure that it is accurate?
+- 
+
+#### What would you expect see on a successful VSP documentation site?
+- 
 
 # Interview 1
 - Date: 12/16/19
@@ -127,4 +138,16 @@
 - 
 
 #### What would you say is your biggest pain point today with VSP documentation?
+- 
+
+#### If you’re looking for information related to how to do your job, where do you go to find it?
+- 
+
+#### If you’re directing a VFS team member to information related to their job, where do you go to find it/where do you tell them to go?
+- 
+
+#### Do you see yourselves as responsible for keeping any of the above information up to date? How do you ensure that it is accurate?
+- 
+
+#### What would you expect see on a successful VSP documentation site?
 - 
