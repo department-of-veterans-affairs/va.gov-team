@@ -29,5 +29,15 @@
 - Question from Mikki: is the va.gov-team repo a solution that we're evaluating? Rachael: that can be a solution that we evaluate and recommend if we decide that is best!
 
 ## Day 1 End Meeting Notes 
+- Roundtable 
+  - Differences btwn good documentaton culture and bad. Good = if you see the need take the lead. Figure out how to update something when there's a hole in it.
+  - We barely talked about large file storage, which is something I have been thinking about a lot before this. Maybe the learning is that this isn't the biggest pain point that doc site needs to solve...
+  - Ownership is going to be a really interesting challenge to figure out. When asked in interviews, no one indicated they feel responsible for updating documentation. "Maybe yeah, but I don't" type of answer.
+  - Common thing around searchability. "I'd like to have the ability to query this thing when I need it in the moment"
+  - Reason for not wanting product documentation in/near code: it muddies the search results when looking for technical things.
+  - Off the shelf solutions wouldn't require an in-house engineer to maintain, support comes with it. Interesting option, preferred by VSP technical interviewees.
+  - Trust. "Is this the source of truth? Is it valid? Has it been updated?"
+  - How do we make updating documentation a priority. How can we make it easy? How can we make it clear what needs to be documented? Otherwise, it's not going to happen.
+  
 
 ---
