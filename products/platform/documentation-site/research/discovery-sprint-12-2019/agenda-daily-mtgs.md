@@ -24,6 +24,9 @@
   - Jenny HL rescheduled to Friday, will ask her to let us know if she's available earlier
   - 18F meeting Tuesday morning: Megan, Mikki, Crystabel
 - All interview meetings notes should be taken in THE SAME markdown file
+- Backend/infrastructure engineers — Megan moderate, Crystabel notetake 
+- Frontend engineers - Crystabel moderate, Mikki notetake
+- Question from Mikki: is the va.gov-team repo a solution that we're evaluating? Rachael: that can be a solution that we evaluate and recommend if we decide that is best!
 
 ## Day 1 End Meeting Notes 
 
