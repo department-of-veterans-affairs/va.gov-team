@@ -94,12 +94,15 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
    *	Here’s an example: [sample of this from my Master’s thesis](https://docs.google.com/spreadsheets/d/1ngx67-7vvVPeIZYgjX8pTP8w0aEED6I1lz_wJY6wR5Q/edit#gid=210944681) 
    *	You can also do more standard affinity-mapping style synthesis on a Miro or Mural board by putting quotes/behaviors on stickies and grouping them. 
    *	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
-5. Turn the themes that arise them into a research results document. This should typically be a Github page as well as a presentation in the form of a slide deck. You can see examples [if you scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/readme.md).  You can also see some research results [starting on slide 18 here](https://docs.google.com/presentation/d/1aaKDRSu_pPFCxQKoP0cXeHifkmCgZHlm-ZvtgwW5SsQ/edit)
-   * Note the Github page with results should be up 6 business days after your last session.  Some more examples of that page:
+5. Turn the themes that arise them into a research results document. This should typically be a Github page as well as a presentation in the form of a slide deck. 
+   * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page. 
+   * Note the Github page with results should be up 6 business days after your last session.  
+   * Examples can be found here:
+      * [Scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/readme.md).  
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
       * https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md
       * https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Research%20summary.md
-   * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page. 
+      * Results in a deck [starting on slide 18 here](https://docs.google.com/presentation/d/1aaKDRSu_pPFCxQKoP0cXeHifkmCgZHlm-ZvtgwW5SsQ/edit)
    * Keep “insights” separate from recommendations. An insight might be “Users didn’t seem to see the “Next” button on the page,” but discuss what to do about that in a separate, “Recommendations” section
 6. Share insights with your team, and brainstorm recommendations. Then add a “recommendations” section/s to your Github page and final presentation deck. Note, if you’d like to add recommendations prior to sharing with your team, that’s fine too but make sure to get their input and ideas as a part of the process.
    * E.g. a recommendation for the above insight might be “Move the button higher on the page” or “Make the button more prominent” or “Remove the button and make it a single page.”
