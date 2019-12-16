@@ -30,7 +30,10 @@ We tested a prototype which included a workflow for choosing an In-Network Urgen
 - A majority of participants mentioned the "diagnostic" MinuteClinic was confusing and assumed it provided services that it does not.
 - Participants did not understand the difference between "retail" urgent care and urgent care until they were given a definition and example treatments 
 
-#### 5. The Map!
+#### 5. Search results and the map
+Participants wanted to see more options than were initially shown on the map for a few reasons:
+- Participants visited urgent care facilities that were recommended to them but not necessarily the closest to their location
+- Participants were searching for facility names that they recognize (e.g. MinuteClinic)
 
 ## Detailed Findings
 
