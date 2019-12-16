@@ -131,37 +131,22 @@ Persona 9: Other bureaucracies (long term)
 - Solutions today
 - Possible solutions
 
-## 3. Pain point prioritization
-
-Pain point
-How painful (1-3)?
-How widespread (1-3)?
-How sure are we that it's a problem we must solve to achieve our desired outcomes(1-3)?
-Sum: 
-
-## 4. Prioritized user stories
-
-
-## 5. Assumptions
+## 3. Assumptions
 
 ### Business Assumptions
 
 I believe VSP / VA business has a need to:
 - Dictate standard tooling and workflow for project management across VFS teams
-- Collaborate and access usage documentation in the same space
  
-I believe VSP is (or will be):
-- Not capturing technical product documentation at all today
-- Using Lighthouse documentation to understand how to integrate with our APIs
-- 
- 
-I believe the #1 value a customer wants to get out of my service is:
+I believe VSP / VA business is (or will be):
 
-I believe my customer can also get these additional benefits:
+I believe the #1 value VSP / VA business wants to get out of a documentation site is:
 
-I believe I will acquire the majority of my customers through:
+I believe VSP / VA business can also get these additional benefits:
 
-I believe my biggest product risk is:
+I believe we will acquire the majority of our customers through:
+
+I believe the biggest product risk is:
 
 We will solve this through:
 
@@ -169,8 +154,13 @@ What other assumptions do we have that, if proven false, will cause our project 
 
 ### User Assumptions
 
-Who is the user? 
+Who is the user and what do they need? 
 - Cultural differences make it hard to adopt one standard documentation across all teams
+- They need to be able to collaborate and access usage documentation in the same space
+- They don't capture technical product documentation at all today
+- They use Lighthouse documentation to understand how to integrate with our APIs
+
+I believe the #1 value a customer wants to get out of my service is:
 
 What problems does our product solve?
 
@@ -180,7 +170,7 @@ What features are important?
 
 How should our product look and behave?
 
-6. Based on pain points, user stories, and assumptions, select hypotheses for MVP:
+### 4. Based on pain points, user stories, and assumptions, select hypotheses for MVP:
 
 We believe that: [creating this capability/feature] for [these people/personas] will result in: [this outcome]. We will know we are right when: [we see this measurable signal].
 
