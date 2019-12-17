@@ -38,6 +38,10 @@ assignees: emilywaggoner, CrystabelReiter,jenstrickland
 
 [ ] Final mockup
 
+## Design links or mockups
+
+<!-- Include screenshots or links to designs or prototypes -->
+
 ## Point of contact
 
 <!-- Add your name on the next line -->
