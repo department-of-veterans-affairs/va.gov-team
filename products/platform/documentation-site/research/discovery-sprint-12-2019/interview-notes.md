@@ -398,22 +398,22 @@ Rf - usually tests as documentation only work when you have a good, strong unifi
 
 #### As engineers, I'm willing to bet that y'all have been involved in creating or managing documentation or documentation tools before. Is that correct?
 - *nods*
-Creating ecosystems or wokring within various types of ecosystem
+Creating ecosystems or working within various types of ecosystem?
 either
 then sure
 
 #### Talk me through a time when you’ve had a really successful experience with documentation. Anything that has been successful or seem to work in the past
 
-K: Anecodel evidence I have in my career have had various experiences, using being part of shepherding good documentation as adeveloper. I have found that our approach of markdown docs or self organizing GH repositiory as incredibly flexible. I've woked that way in a smaller startup. I also used heavy dependencies such as confleunece, knowledge based type of things. Difficulty there is discoverability. yes or no format That realm can cause difficulties in discoverability
+K: Anecodel evidence I have in my career have had various experiences, using being part of shepherding good documentation as adeveloper. I have found that our approach of markdown docs or self organizing GH repositiory as incredibly flexible. I've woked that way in a smaller startup. I also used heavy dependencies such as confleunece, knowledge based type of things. Difficulty there is discoverability. If you don't phrase things in yes or no format That can cause difficulties in discoverability
 
 #### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- I personaly mostly been involved in technical documentations. API docs and such not so much onboarding 
+- I personally mostly been involved in technical documentation. API docs and such, not so much onboarding 
 
 #### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
-- Yeah one being in the negative, questions have to be reasked. I noticed that behavior happening when documentation isn't working. answers to questions exist in documentation. People answer the question in slack after having search and having not found it is detrimental. 
+- Yeah one being in the negative, questions have to be re-asked. I noticed that behavior happening when documentation isn't working. answers to questions exist in documentation. People answer the question in slack after having search and having not found it is detrimental. 
 
 #### Measurments of success might be the oppositve of that. Can yo think of any other measurements that binds documentation?
-This weekend I worked on a project, building out some things in terra form, resuing features i never used before. I spend quite a bit of time in their documentation. I wouldn't say success or faulture but I can say somethings i liked and didnt like. I was working through a new concept for me using the tool and i found places where they documentated 2 different components but never how they interacted. I had to experiment almost a hour, figuriing out how these 2 interplay. That was not great but I would say things I do like about their documentation, is if you know what you're looking for it's very easy to find it. If i know something I'm looking for i don't even have to search just the URL. I like that predicability it's been a long time since I didn't know the prdouct asa whole and their onboarding expereince
+This weekend I worked on a project, building out some things in terra form, reusing features i never used before. I spend quite a bit of time in their documentation. I wouldn't say success or faulture but I can say somethings i liked and didnt like. I was working through a new concept for me using the tool and i found places where they documentated 2 different components but never how they interacted. I had to experiment almost a hour, figuriing out how these 2 interplay. That was not great but I would say things I do like about their documentation, is if you know what you're looking for it's very easy to find it. If i know something I'm looking for i don't even have to search just the URL. I like that predicability it's been a long time since I didn't know the prdouct as a whole and their onboarding expereince
 
 - Documentation...when I'm working with an isolated component but when I'm wokring on a project but having documentation on all how those things worke together. Reminds me of how muhc I miss not having documentation on depedent systems 
 
@@ -428,7 +428,7 @@ This weekend I worked on a project, building out some things in terra form, resu
 
 - I think I know what blog post you're talkig about. is that the one recommending a FAQ channel
 
-- Did you ever go hrough the FAQ channel
+- Did you ever go through the FAQ channel
 
 - I didn't get to go through that but liked the idea of the why vs how
 
@@ -437,7 +437,7 @@ This weekend I worked on a project, building out some things in terra form, resu
 #### technical vs. non technical how do these things differ. on the line of why vs. how or different?
 I think to me that's probably the line. I also found a lot of value in, when I first started the va.gov, there was a techical decisions folder whch helped some bg for what's going on. Those are super helpful for those decisions to be made in public and a stamp of approval
 
-- I second that. the document decisions folder was imperative me for to understand the overall stuff 
+- I second that. the document decisions folder was imperative for me to understand the overall stuff 
 
 #### Logistically, the why and the how, technical and nontechnical, if you wree looking for a decisions folder or documentat where would you expect or want to see one?
 
