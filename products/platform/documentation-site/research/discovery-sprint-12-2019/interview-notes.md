@@ -152,59 +152,113 @@
 
 ### Notes
 
-#### Before we get into the specifics of using Drupal for documentation, I'd like to talk a bit about your experience with documentation in general. Have you ever created documentation or contributed to a documentation ecosystem before for others to use?
-- 
+#### Before we get into the specifics of using Drupal for documentation, I'd like to talk a bit about your experience with documentation in general. Have you ever created documentation or contributed to documentation before for others to use?
+Yes.
 
-#### Talk me through a time when you’ve had a really successful experience with documentation.
-- 
+#### [If yes] What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
+I've done documentation for every project I've been involved in. It's been everything from writing comments in code to information for other team members to information for people who are installing the product for the first time, for users, everything. 
 
-#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
+User research kinds of stuff as well. I like the format that VA use for that. Project documentation, historical, so that people don't have to come and do too much archaeology to figure out why things are the way they are.
 
-#### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
-- 
+#### Was this documentation that you contributed to "good"? How did you know it was good or bad? What made it successful (or not)? What were the results? What behavior were you seeing to indicate that?
+Sometimes, sometimes it was horrible! If people aren't asking me questions directly via email or Slack, that's how I know it's good. On some documentation, for example at my company's handbook we have Google Analytics. THat doesn't necessarily tell us if it's good or not, it just tells us if it's popular. Honestly I've never spent that much time with metrics for documentation, but it could be good to do. 
 
 #### What tools and processes have you found effective in the past?
-- 
+One thing that's really useful is changelogs. That can take lots of different forms. For example, in my company's documentation we have pull requests — everyone sees that. THat's not very loud. But when something gets merged in, there's a log that goes out to the team to say "here's what's changed in the company handbook this week." Let robots do the heavy lifting there but make sure it's not too much noise for people. 
+
+How to organize it is the biggest challege - hierarchy. I know there's a lot of work that's been done on VA stuff recently, I havent' followed it that closely. Theres just a lot of hard problems to solve. It has to be done well bc if it's not, if the IA isnt right, then no one can find anything. 
+
+Short pages, I like short pages. The people who are writing documentation for the CMS, I'd rather have shorter pages. 
+
+Search is the other things.
+
+For our company handbook, we use GitHub and then it's all published in Read the Docs. For me that's hard bc it emphasizes these really long pages. I get lost. I'd rather have shorter ones.
 
 #### What tools and processes have you found ineffective in the past?
-- 
 
-#### What processes did you use to set standards across different teams who were contributing to the documentation?
-- 
+I don't know why, but our team, the CMS team, started using Jira and Confluence. I found COnfluence OK at first, but it felt far away from everything after a while. And then the chagelogs were not very useful or central bc of all the noise within Jira and COnfluence. no one knew what was chanigng. So I don't think I'm a big fan of COnfluence any more. I also think openness is great, which is one of the best things about anything git-related. 
+
+Having documentation as close as possible to the context in which people are working is great. For CMS documentation, it makes sense to have documentation in the CMS. Then we can do things like pull content in the CMS ... it's in a database ... we can pull things around into different places. It's a bit more dynamic, we can structure it in different places and reuse it, which it harder to do in the Git Pages world. Both from a documentation maintaining perspective and I think for consumption, having it as close as possible to where you're working helps ensure that it's maintained more and read more. 
+
+#### Were there different teams contributing to the documentation? If so, what processes did you use to set standards across different teams?
+
+As of now, not for the CMS documentation. We try to refer out to the style guide wherever we can. In code, where you've got code commenting, in the CMS we want to have the documentation live as close as possile to where content editors are working. If you're editing a certain field we want to have certain help text. That's a type of documentation that's as close as possible to where someone's doing the work. In those places we also refer out to the content style guide and the design system as much as we can. Just remembering what is the concern for the CMS and what's the broader concern.
 
 #### How did you ensure that the information stayed up to date?
-- 
 
-#### What do you think VSP, the platform team, can learn from this example?
-- 
+We assign someone to be responsible for making sure it's up to date, it's in their job description and we can hold them accountable to it. THe other thing I'd like to do more of is build it into our release management sort of stuff. So that at the end of the sprint or whenever a release happens, one of the acceptance criteria is for everything in that repo there's a documentation criteria for this. Just reinforcing that things need to get updated. 
 
-#### If you had the chance to create that ecosystem again, what would you do differently?
-- 
+The other thing is documentation sprints now and then. There's a documentation debt and maybe even we could track that as its own component in our ... if it's an issue, an issue label. And then now and then, every few sprints, take a pause and make sure it's all up to date. 
 
-#### If you had to choose 3 things that you think were critical to your success, what would you say those were?
-- 
+#### What do you think we can learn from this example?
 
-#### OK, great! Thanks for that information. Now, it is my understanding that you wanted to talk a bit about Drupal as a technical solution for documentation. Can you tell us more about that?
-- 
+I don't think we're doing it right right now. We - CMS team - have a week left on our contract and there's a big push to move things out of COnfluence. We're doing stuf fbut it's not going to be ther right way. I can't point to any specific things. 
 
-#### What pain points does Drupal solve?
-- 
+Mikki — When you say, we're not doing things right, what do you mean? 
 
-#### Talk me through a time when you've had a really successful experience using documentation to get something done.
-- 
+K - The way we've written documentation specifically, it's not great yet. We're maintaining a product that's going to be used by a lot of different teams. IT's got a lot of different products within it. I would like to see us write our documentation more from a product perspective ("this product is designed to do this, this is why"). With the overall purpose. RIght now our documentation is currently very technical "in order to do this, do this and this and this." 
 
-#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
+It misses the big picture a bit, it misses the forest for the trees. Trying to write higher level prodcut descriptions in a user story way ... we should write it as if we're selling the product, to remind users why they're doing things. We also need to address the decisions that are baked into the product. Sometimes we've made decisions that privilege the end users over the editors. I'd like the opportunity to explain that — we've made this decision to support this for end users, that's why editors need to deal with this weird feature. 
+
+For example, FAQs in drupal. THe editing experience for them is kind of annoying, but we've done that bc we want a really amazing schema and markup on the front end. We've structured certain content in certain ways in order to make it easier for VVeterans to get their benefits, and in order to edit those there's lots of different fields to fill out. 
+
+ALso, more videos! Short videos. I think our documentation is really different than the documentation VPS is doing. Platform is doing documentation for other engineers, we're doing documentation for content editors.
+
+Loom as a video service, or GIFs. A 10 second GIF can sometimes accomplish more than 3-4 paragraphs of texxt.
+
+#### If you had the chance to work in that ecosystem again, what would you do differently?
+
+#### Thinking beyond documentation that you've contributed to, have you ever used documetation that you thought was really good?
+
+I think so, yes.
+
+#### What info did that documentation provide?
+
+Onboarding at VA is a real PITA. There's certain documentation that helped and some that was really bad. 
+
+The SOCKS proxy was good in places. IT's an alternative to CAG, and CAG sucks. You're not using your native OS, etc. A lot of us have used the SOCKS proxy documentation, which I'm pretty sure is in the platform team's area. SOme of it is great and some of it is less great. IT's written for a specific audience, and now other audiences are trying to use it. 
+
+It had lots of numbered steps, that was good. Good formatting. As a developer, code blocks are really good. Bash commands that I can copy/paste into my terminal that explain what they do ... and maybe they even do 10 or 15 commands at once. 
+
+Short pages are good and strucured headings, all of that stuff, etc. With tabels of contents that provide jump links if it does get too long. I like GIFs and I like videos as long as they're short. I like to know why I'm doing something. 
 
 #### Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
-- 
 
 #### Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
-- 
 
-#### What would you say is your biggest pain point today with VSP documentation?
-- 
+I think for example with the SOCKS proxy, it didn't all apply to our team. You had to do a few steps, get approval, and do a few more steps. You had to make a merge request with ... your SSH key or something. I think our team developed our own way of interpreting it. We had a Slack post that was like "you have to do this part of it and then this". We had our own documentation for the documentatino. Ideally, you don't want that. 
+
+I wonder if there had been a message at the bottom that said "hey can you help us improve this documentation?" I bet one of us would have done this. That's a good thing to provide reminders and prompts about how can we improve this. 
+
+WIth GItHub, a lto of people aren't super familiar with editing markdown. There hsould be different ways for people to contribute. I don't think most people are ... especially if it's not your documentation, people don't feel comfporatable just editing themarkdown and creating a merge request. 
+
+#### [If Drupal was not discussed] OK, great! Thanks for that information. Now, it is my understanding that you wanted to talk a bit about Drupal as a technical solution for documentation. Can you tell us more about that?
+
+They've been working on it in the last couple days, I've been out, so I don't know what state it's in ... [troubleshooting Internet problems]. 
+
+This could be published on VA. gov in the future
+
+THe content viewing experience in Drupal has never been very good. THere's a lot more work to do to make this ... for example, Q/As, they have a label question and then ... 
+
+[Go to benefit hub to FAQ] A lot of this is structured in Q/A. FAQ can be structured as accordians or not accordians. Our ediitng experience in Drupal, you can have WYSIWYG blogs or you can have Q/As. We can reuse some of these formats in our documentation as well. So a process list can be used for the documentation. So I'll show you the other content blocks ... these are the ones we've enabled so far. We can expand this to include videos, table of contents. When you're editing a piece, this is potentially nice ... 
+
+We don't have a documentation user role yet. Once nice thing, I think, about editing a menu in Drupal vs in Github is you can move things around pretty quickly. You can add new pages, while you're adding a page you can put it anywhere, but after that you can move it around. 
+
+Right now the menu is collapsed. Potentially this would be multiple documentation homes. In the future, it would be cool if we were using the front end sidebar approach when you're in drupal. 
+
+The change management is not the same as GitHub. This is an empty README. In GItHub you have to add a readme for a directory to eist, so ppl just have empty readmes usually. When I created this early on it was just a proof of concept, it just has lorem ipsum in it and stuff. WHen you edit it, say I wanted to move this image ... it's currently in draft, it's rare that we would have draft documentation pages. Well, it will happen. For example for VAMC - soon there will be, say, 500 VAMC editors. If we're going to make a change in the CMS we can save those as a draft and then once the code goes live we can publish the new documentation. IT's not quite as ... if you're a developer and you're used to the vagov-content "CMS" they were used to editing in branches and editing 20 pages at once. This can't do that as much, you can still do bulk changes though. Hopefully for documentation that wouldn't be as big of a deal. 
+
+The infrastructure is there to push this to VA.gov, but currently this documentation will just be served in Drupal. At the very least we could preview, but it wouldn't be a big lift to put this on the front end. We could add any of our existing content types to the documentation. Including downloads.
+
+MK — I've read that tools like gatsby can render content from drupal, have you ever heard anything like that? 
+
+Gatsby is a popular way to do decoupled durpal pages. For this it would kind of be reinventing the wheel. For something like this, there probably wouldn't be a huge advantage to using gatsby, just using our existing front end seems natural. 
+
+#### What outcomes does Drupal support?
+
+
+
+#### Have you ever used VSP - the platform team's - documentation?
 
 
 # Interview 2
