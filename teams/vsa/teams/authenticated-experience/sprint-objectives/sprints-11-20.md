@@ -28,9 +28,7 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 
 1. Get address validation ready for QA
 2. Direct deposit updates
-3. APO/FPO/DPO work
-  - Finish outstanding design tasks
-  - Create a plan for build + ticket writing
+3. Create a plan for APO/FPO/DPO build + ticket writing
 
 ### Direct Deposit
 
