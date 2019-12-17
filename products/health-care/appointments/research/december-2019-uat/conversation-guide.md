@@ -43,7 +43,7 @@ Great! Any questions before we get started?
 - **Do you know your username and password?** 
   - If not: Are these readily accessible that you could get them? 
   
-- **Have you signed into VA.gov before? ** 
+- **Have you signed into VA.gov before?** 
   - If Yes: great, did you provide the email you use to sign into VA.gov to the perigean team before today's session?
   - If not: Are you willing to do that today? It may require you to go through some steps to authenticate.
     - Yes: Great; You may be asked to provide an email address to authenticate. I'll need that email address so I can ensure that you can see the tool we're testing today. 
@@ -57,7 +57,7 @@ Great! Any questions before we get started?
 - **Today we are using zoom which will allow us to observe you interacting with the new tools on your computer. Have you used zoom before?** 
   - If no: Explain the screen sharing, & chat functions and how to find them. 
   
-- **Can you confirm that you're now signed into VA.gov? ** 
+- **Can you confirm that you're now signed into VA.gov?** 
   - If yes, are you comfortable sharing your screen with me at this time? 
   
   **Ask participant to share their screen using the green 'share' button in Zoom.**
@@ -99,7 +99,7 @@ Great! Any questions before we get started?
   - [ ] **UAT TASK:** *Confirm participant is able to select up to three preferred times*
   - [ ] **UAT TASK:** *Confirm participant is able to select AM or PM for each preferred time*
   
-- *Now, please choose the reason for this appointment**
+- **Now, please choose the reason for this appointment**
   - [ ] **UAT TASK:** *Confirm 'additional info' textarea is hidden by default and shows once user selects a reason for appointment*
   
 - **Now, please choose how you'd like to be seen**
