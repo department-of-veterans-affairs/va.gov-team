@@ -9,6 +9,7 @@
     - Aricka: November 22, 27-29
     - Dave: November 22 (PM), November 29
     - Lance: November 29
+    - Ryan: December 24–27
 
 
 ## December 2019
