@@ -102,6 +102,21 @@ __Please note that many links on this page reference research folders in the vet
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/patient-portal/get-care/research/usability)
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/patient-portal/get-care/research/usability/research_plan.md)
 
+#### August 22 - 23, 2019: Facility - operating status - Veteran experience
+
+_VA.gov CMS team: Eric Chiu_
+
+* 7 participants 
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20operating%20status%20discovery%20-%20August%202019/operating%20status%20-%20veteran%20experience)
+
+
+#### August 22 - 23, 2019: Facility - operating status - author experience
+
+_VA.gov CMS team: Lapedra Tolson_
+
+* 2 participants 
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20operating%20status%20discovery%20-%20August%202019/operating%20status%20-%20author%20experience)
+
 #### August 21 - 28: Higher-Level Review Usability Testing **
 *DSVA: Carola Ponce*
 - 12 Participants 
@@ -170,10 +185,12 @@ __Please note that many links on this page reference research folders in the vet
 - 5 participants
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research/usability-research)
 
-#### June 24-27: VA.gov CMS onsite Pittsburgh research (Facilities Round 3)
-*VA.gov CMS team, Research Lead: Eric Chiu*
-- X participants
-- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Platform/Tools/CMS/User%20Research/facilities_round_3)
+#### June 25 - 27, 2019: Facility - usability testing in Pittsburgh
+
+_VA.gov CMS team: Eric Chiu, Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, Rachel Kauff, Kate Saul_
+
+* 22 participants 
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
 
 #### June 20-July 3: Appeals Higher Level Review Discovery Research 
 *Appeals Team, Research Lead: Carola Ponce*
@@ -236,11 +253,12 @@ __Please note that many links on this page reference research folders in the vet
 
 ### April 2019
 
-#### April 22-26: Facilities Health Services Tree Testing
-*VA.gov CMS team, Research Lead: Kate Saul*
-- N? participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/cms/facilities_healthservices_IA)
-- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/user-research/cms/facilities_healthservices_IA/research%20plan.md)
+#### April 16 - May 10, 2019: Facility - Health services IA
+
+_VA.gov CMS team: Meghana Khandekar, Kate Saul, Eric Chiu_
+
+* 17 participants via intercept testing, 255 participants for tree testing 
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20health%20services%20IA%20-%20May%202019)
 
 #### April 16-19: Dignified Burials Discovery
 *Team Special Forces, Research Lead: Zach Goldfine*
@@ -309,6 +327,13 @@ __Please note that many links on this page reference research folders in the vet
 - [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research)
 - [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research/0994%20Research%20Plan%20-%20%20Round%202%20.md)
 
+#### March 4-13, 2019: OPIA-Administration - discovery
+
+_VA.gov CMS team: Eric Chiu_
+
+* 7 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration/offices/research/OPIA-Administration%20research%20-%20discovery%20-%20March%202019)
+
 #### February 27, 28, March 9-6: Vet Tec Usability Round 2
 *Booz Allen: Amy Knox*
 - 6 Participants
@@ -316,11 +341,19 @@ __Please note that many links on this page reference research folders in the vet
 
 ### February 2019
 
-#### February 20-28: VA.gov CMS Facilities, Usability Round 1
-*VA.gov CMS team, Research Leads: Jodi Leo, Eric Chiu, Meghana Khandekar*
-- 10 Veterans
-- [Research Folder](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/50462922/VA.gov+CMS+Facilities+Usability+Round+1)
-- [Research Plan](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/50462922/VA.gov+CMS+Facilities+Usability+Round+1?preview=/50462922/50299177/20190220_VA.govCMS_facilities_usability1_plan.pdf)
+#### February 28, 2019: OPIA-Administration research - design studio
+
+_VA.gov CMS team: Jodi Leo_
+
+* 12 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration/offices/research/OPIA-Administration%20research%20-%20design%20studio%20-%20February%202019)
+
+#### February 20 - 27, 2019: Facility - usability testing - remote
+
+_VA.gov CMS team: Jodi Leo, Eric Chiu, Meghana Khandekar_
+
+* 10 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20remote%20-%20February%202019)
 
 #### February 1-25: 526 Modernization Add a New Condition
 *Unicorns, Research Lead: Katelyn Caillouet & Alex Taylor*
@@ -338,10 +371,12 @@ __Please note that many links on this page reference research folders in the vet
 *Desiree Turner*
 - 6 participants
 
-#### February 8-12: VAMC Information Architecture Tree Test 
-*CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius*
-- 211 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Products/Health%20care/vamc-facility-site/research)
+#### February 8 - March 1, 2019: Facility - Facility IA
+
+_CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
+
+* 211 participants for tree testing the navigation (8-11 February), 348 participants for the close card sort for services listing (26 February - 1 March)
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20facility%20IA%20-%20February%202019)
 
 #### February 5-8: BAH VetTec Discovery 
 *BAH Platform Team, Research Leads: Amy Knox & Theresa McMurdo*
@@ -380,11 +415,12 @@ __Please note that many links on this page reference research folders in the vet
 - [Research Folder](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/37716119/VA.gov+CMS+research+Facility+VAMC+Pittsburgh+author+experience)
 - [Research Plan](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/41189446/Facility+AX+Findings)
 
-#### January 8-10: VA.gov CMS research: Facility, VAMC Pittsburgh veteran patient research  
-*VA.gov CMS Team, Research Leads: S. Lawrence, C.M. Kennedy* 
-- 20 Veterans
-- [Research Folder](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/37617852/VA.gov+CMS+research+Facility+VAMC+Pittsburgh+veteran+patient+research)
-- [Research Plan](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/37617852/VA.gov+CMS+research+Facility+VAMC+Pittsburgh+veteran+patient+research?preview=/37617852/42729698/VA.gov%20CMS_%20Facility%2C%20VAMC%20Pittsburgh%20veteran%20patient%20research%20field%20guide.pdf)
+#### January 8-10, 2019: Facility - Discovery
+
+_VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
+
+* 20 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20discovery%20-%20January%202019)
 
 ### November 2018
 
