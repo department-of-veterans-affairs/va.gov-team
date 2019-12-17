@@ -43,15 +43,15 @@ We can either cancel grooming altogether or move to Dec 23. Sprint planning for 
 
 To the best of our ability, this sprint's objective is to make sure all existing bugs are fixed/updates are implemented and ready for QA. **Note**: Having the feature fully ready for QA depends on VA Profile fixing some issues on their end. We can not be ready for QA without them. We'll consider the objective met here if things remain open only as a result of the VA Profile dependency.
 
-- Use only candidate api for address validation api #4060
-- Address validation: Continue, Cancel, and X buttons are broken #4205
-- Address validation: Copy is missing a period #4211
-- Validation Keys do not work to override addresses in the profile #4245
-- Do not show the user any suggestions that are not "CONFIRMED" as deliverable #4250
-- User should see the address they entered when going back to edit their address #4271
-- Sometimes we get validation keys but can't force the addresses through #4278
-- Implementing address validation modal confirmation screen #4282
-- Review the flow for Address Validation Modal #4283
+- Use only candidate api for address validation api [#4060](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4060)
+- Address validation: Continue, Cancel, and X buttons are broken [#4205](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4205)
+- Address validation: Copy is missing a period [#4211](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4211)
+- Validation Keys do not work to override addresses in the profile [#4245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4245)
+- Do not show the user any suggestions that are not "CONFIRMED" as deliverable [#4250](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4250)
+- User should see the address they entered when going back to edit their address [#4271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4271)
+- Sometimes we get validation keys but can't force the addresses through [#4278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4278)
+- Implementing address validation modal confirmation screen [#4282](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4282)
+- Review the flow for Address Validation Modal [#4283](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4283)
  
 ### APO/FPO/DPO
 
