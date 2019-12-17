@@ -16,7 +16,7 @@
     - Christmas Day: December 25 (GCIO, VA, Ad Hoc)
 ### Additional out of office
     - Michelle: December 24-27, 30 (PM) - January 3
-    - Aricka: December 6, 26-27
+    - Aricka: December 6, 20-27
     - Dave: December 23-27
     - Gibran: December 23-27
 ### Sharing  
