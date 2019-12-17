@@ -1,4 +1,4 @@
-# Call center Prodcut Guide "Your VA disability rating"
+# Call Center Prodcut Guide: "Your VA disability ratings"
 
 ### Table of Contents 
  - [What is it?](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/call-center/product-guide.md#what-is-it)
