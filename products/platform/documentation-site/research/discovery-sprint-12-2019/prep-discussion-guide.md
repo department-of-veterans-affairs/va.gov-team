@@ -73,19 +73,32 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - Provider questions (above) 
 
 ### Brandon R
+_Product Manager on FE Tools team. Has "worn the hat of documentation guru" at previous companies — provider questions and user questions are both good buckets here (suspect he has a lot of learnings from previous experiences) although those standard question sets should maybe be updated to make for a smoother convo._
 - Intro
 - Provider questions (above)
 - User questions (above)
 - [If time] Extra questions
 
 ### Kevin W
+_Kevin is an engineer on the CMS team who reached out to talk about using the Drupal CMS for documentation. Would also be interesting to talk to him as a provider(?) and user of documentation in general._ 
 - Notetaker: Megan // Moderator: Crystabel
 - Intro
-- Before we get into the specifics of using Drupal for documentation, I'd like to talk a bit about your experience with documentation in general. Have you ever created documentation or contributed to a documentation ecosystem before for others to use?
-- [If yes] Provider questions (above)
+- Before we get into the specifics of using Drupal for documentation, I'd like to talk a bit about your experience with documentation in general. Have you ever created documentation or contributed to documentation before for others to use?
+- [If yes] What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
+  - Was this documentation that you contributed to "good"? How did you know it was good or bad? What made it successful (or not)? What were the results? What behavior were you seeing to indicate that?
+  - What tools and processes have you found effective in the past?
+  - What tools and processes have you found ineffective in the past? 
+  - Were there different teams contributing to the documentation? If so, what processes did you use to set standards across different teams?
+  - How did you ensure that the information stayed up to date? 
+  - What do you think we can learn from this example? 
+  - If you had the chance to work in that ecosystem again, what would you do differently?
+- Thinking beyond documentation that you've contributed to, have you ever _used_ documetation that you thought was really good? 
+  - What info did that documentation provide?
+  - Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
+  - Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
 - [If Drupal was not discussed] OK, great! Thanks for that information. Now, it is my understanding that you wanted to talk a bit about Drupal as a technical solution for documentation. Can you tell us more about that? 
-- What pain points does Drupal solve? 
-- [If time] User questions (above)
+  - What outcomes does Drupal support?
+- Have you ever used VSP - the platform team's - documentation? 
 
 ### 18F
 - Notetaker: Crystabel // Moderator: Megan
@@ -100,6 +113,7 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - Do y'all have a separate solution for technical documentation? Can you tell us about that? What information is included there? 
 
 ### Kelly L
+_Product Manager for Lighthouse API. Can speak to what the API team is using for technical and non-technical documentation currently, and learnings from that. Could also be asked to speak more broadly to documentation used or contributed to in other scenarios. VSP-specific questions should be prefaced with "do you ever use VSP documentation", may require explanation of what we're referring to._
 - Intro
 - Provider questions (above)
 - User questions (above)
