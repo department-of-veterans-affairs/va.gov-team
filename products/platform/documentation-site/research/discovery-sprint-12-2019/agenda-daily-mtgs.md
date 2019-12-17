@@ -93,4 +93,7 @@
   - Dan and Bill: md file in our discovery folder w/potential technologies and pros/cons given the sketches today
   - Crystabel: start mocking/wireframing the solution based on the sketches today
   - Mikki: think through metadata list and navigation/search/findability options
+  - Optional: start putting together synthesis from interviews
 - Assign out notetakers and interviewers for interviews the next morning, if applicable
+- When do we synthesize interview feedback.
+- 
