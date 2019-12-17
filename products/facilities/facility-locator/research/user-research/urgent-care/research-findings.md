@@ -88,14 +88,20 @@ Unless prompted, participants did not distinguish between the treatments provide
 ## Actionable Recommendations
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
 
-#### Display facility names that are familiar with users (e.g. MinuteClinic at CVS) 
+**Display facility names that are familiar with users (e.g. MinuteClinic at CVS)** 
   - Participants immediately recognized retail urgent care locations when they were associated with a store or name they've seen before (like CVS, Walgreens, etc.)
 
-#### Organize/Prioritize dropdown and filter lists
--
+**Organize/Prioritize dropdown and filter lists**
+
+**Remove "show all filters"**
+
+**Define Urgent Care sub-types (pharmacy, retail, urgent)**
+
+**Remove pagination from search results**
+
 
 ## Additional Questions
-- What differences exists between how Caregivers and Veterans use Facility Locator?
+- What differences exist between how Caregivers and Veterans use Facility Locator?
 
 ## Resources
 
