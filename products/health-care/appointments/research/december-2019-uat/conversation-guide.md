@@ -9,7 +9,7 @@
 
 - [ ] *Close other windows and turn off notifications.*
 
-- [ ] *Confirm you have admin access and are logged into feature flipper UI in case new email needs to be added on the fly*
+- [ ] *Confirm you are logged into va.gov and have admin access to [feature flipper UI](https://api.va.gov/flipper/features/va_online_scheduling) in case new email needs to be added on the fly*
 
 - [ ] *Confirm the participant is using Google Chrome, has downloaded Zoom, can share their screen.*
 
