@@ -1,17 +1,30 @@
-# Research tracker for all Facility research, (_and_ AX & Administration)
-* [Research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/cms/authoring-experience/research/VAGOV-ResearchTracker-030919-1516.pdf) (last updated Aug 2019)
-* [View on Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/51577077/Research+Tracker)
+# Content Management System Author Experience (AX)
 
-# Initiative: Content Management System Author Experience (AX)
-* AX Discovery research (January 2019) 
-  * [View on Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/37716119)
-  * [View readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/cms/authoring-experience/research/cms%20ax%20research%20readouts/Pittsburgh%20Author%20and%20Stakeholder%20Research%20Summary.pdf)
-* AX Study 1 (March 2019)
-  * [View readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/cms/authoring-experience/research/cms%20ax%20research%20readouts/Pittsburgh-AX-Testing%20March%202019.pdf)
-* AX Study 2 (June 2019)
-  * [View on Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/141328509/AX+Study+2+June+2019)
-  * [View sprint demo readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/cms/authoring-experience/research/cms%20ax%20research%20readouts/VA.gov%20CMS%20-%20round%203%20-%20Facility%20research%20readout%20(high%20level%20takeaways%20for%20demo).pdf)
-  * [View full readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/cms/authoring-experience/research/cms%20ax%20research%20readouts/VAgovCMS_AXresearch2_synthesis.pdf)
-* VA.gov CMS: Facilities, Operating Status research - Author experience, round 1 (August 2019)
-  * [View on Confluence](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/140869747)
-  * [View readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/cms/authoring-experience/research/cms%20ax%20research%20readouts/VA.gov%20CMS%20-%20AX%20operating%20status%20-%20high%20level%20readout.pdf)
+## Facility research
+
+#### January 8-10, 2019: AX Discovery
+
+_VA.gov CMS team: Megan Casey, Kevin Walsh_
+* 20 participants
+* [Research folder](X)
+
+#### March 5, 2019: AX Study 1
+
+_VA.gov CMS team: Eileen Webb, Kevin Walsh_
+
+* 5 participants
+* [Research folder](X)
+
+#### June 25 - 27, 2019: AX Study 2
+
+_VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, Rachel Kauff, Kate Saul_
+
+* 8 participants
+* [Research folder](X)
+
+#### August 22 - 23, 2019: Facility - operating status - author experience
+
+_VA.gov CMS team: Lapedra Tolson_
+
+* 2 participants
+* [Research folder](X)
