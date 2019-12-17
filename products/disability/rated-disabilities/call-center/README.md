@@ -13,10 +13,10 @@
 
 ## What is it?
 The **Your VA disability ratings** page is where Veterans can view their combined disability rating and the individual disability ratings in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do if they have a problem or question. Information and tool links include:
-- Breadcrumb links will take the Veteran a content page (**Disability benefits**), and a landing page (**View your disability rating**) with more information on disabilities and disability claims `A`
-- A link to **Check your claims and appeals** `B`
-- **Compensation 101: How did I get this rating?** video on YouTube; this explains how disability claims are determined, and how ratings are calculated. `C`
-- The VA phone number: 800-827-1000 `D`
+- Breadcrumb links will take the Veteran a content page (**Disability benefits**), and a landing page (**View your disability rating**) with more information on disabilities and disability claims `(A)`
+- A link to **Check your claims and appeals** `(B)`
+- **Compensation 101: How did I get this rating?** video on YouTube; this explains how disability claims are determined, and how ratings are calculated. `(C)`
+- The VA phone number: 800-827-1000 `(D)`
 
 ![Your-VA-disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-1_clean.png)
 
