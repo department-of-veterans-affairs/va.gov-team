@@ -21,7 +21,7 @@
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 - **Features**  
-  - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/rated-disabilities)
+  - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/rated-disabilities)  
 This is the tool page that will describe a Veterans overall total combined disability rating which informs how much compensation they would recieve. 
   - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
 
