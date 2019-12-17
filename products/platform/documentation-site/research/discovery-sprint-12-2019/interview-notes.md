@@ -3,63 +3,6 @@
 - Participant initials: JH
 - Participant role: Communications Lead
 
-### Notes
-
-#### Talk me through a time when you’ve had a really successful experience with documentation.
-- 
-
-#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
-
-#### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
-- 
-
-#### What tools and processes have you found effective in the past?
-- 
-
-#### What tools and processes have you found ineffective in the past?
-- 
-
-#### What processes did you use to set standards across different teams who were contributing to the documentation?
-- 
-
-#### How did you ensure that the information stayed up to date?
-- 
-
-#### What do you think VSP, the platform team, can learn from this example?
-- 
-
-#### If you had the chance to create that ecosystem again, what would you do differently?
-- 
-
-#### If you had to choose 3 things that you think were critical to your success, what would you say those were?
-- 
-
-#### In what ways do you think engineering documentation differs from non-technical documentation? Where is there overlap in the problem space? Where do they diverge?
-- 
-
-#### Talk me through a time when you've had a really successful experience using documentation to get something done.
-- 
-
-#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
-
-#### Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
-- 
-
-#### Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
-- 
-
-#### What would you say is your biggest pain point today with VSP documentation?
-- 
-
-
-
-# Interview 5
-- Date: 12/17/19
-- Participant initials: BR
-- Participant role: Product Manager
-
 ### Notes:
 
 #### Talk me through a time when you’ve had a really successful experience with documentation.
@@ -120,6 +63,101 @@
 - 
 
 #### What would you expect see on a successful VSP documentation site?
+
+# Interview 5
+- Date: 12/17/19
+- Participant initials: BR
+- Participant role: Product Manager
+
+### Notes
+
+#### Have you contributed/created documnetation before?
+- Yea. Working for small startups. Working on internal/external documentation. 
+
+#### Good experience with documentation?
+- Don't know what I'm looking for. Intuitive enough to point him in the direction he was headed. Epic's Open API documentation. Points and directs you where to go, and find next steps (one year ago).
+
+#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
+- 
+
+#### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
+- Wanted to learn more about API options. I wanted to see all available options. I didn't know what I was looking for. High level view. 
+
+#### What tools and processes have you found effective in the past?
+- People involved is the most important. The documentation is only good if it's up to date, and accurate, and you can find it. The tool is not the most important. Previous job, uses ZenDesk for external, and Jira/Confluence for internal. Using Notion for team documentation. Ease of Confluence was nice. ZenDesk editor was little bit harder to work with. You don't have as many options to embed objects/widgets. I liked Notion the most. It was the simplest. It doesn't do antything fancy. It does a little bit of everything. It was flexible enough to handle everything we wanted to throw at it. All of the tools were sufficient. They were all effective. 
+
+#### What tools and processes have you found ineffective in the past?
+- 
+
+#### What processes did you use to set standards across different teams who were contributing to the documentation?
+- Nobody else really contributed. The reason why it was up to date was because project management owned it. We were the gatekeepers of info. We were the single source. We also knew that as things changed, we had to update everything. It was part of our daily workflow. The development team had their own little wiki in Confluence. They were responsible for that. Other than that, it was just us. 
+
+#### Can you talk more about what that documentation was? 
+- External: release notes, help guides. 
+- Internal: Everything from hey if you're a sales person, here's the top 40 questions we get everyday. For example: Here's our approved video cameras. It could very technical and FAQ-y. Very detailed info for CS team. Used it for a little bit of everything. It was useful for creating bigger links. Creating portals. If I'm a salesperson, then I start here. Using labels. "Sales cares about this." "Sales doesn't care about this." Without labels, people would just DM people for answers. 
+
+#### About how many people were on the team that were maintaining it? How many users did you have digesting?
+- Two of us on the PM team. ~50 development/sales/etc. Not as large of an audience. But still time consuming when you get 25 requests on Slack. 
+
+#### How did you ensure that the information stayed up to date?
+- 
+
+#### What do you think VSP, the platform team, can learn from this example?
+- You need to be able to search and find what you're looking for. Joked that search in confluence was bad. It sucked really bad. Exact match didn't work, but fuzzy match did confusingly work sometimes. 
+- It should be contextual. 9 times out of 10, these users are looking for those types of documents. If you try to make something for everyone, it gets too difficult for people to use. As soon as it becomes too difficult to find, it becomes to easy to ask somebody via Slack. We leverage a lot of Slackbots for common questions. A lot of it was based on our own tracking of common questions. Prioritize content based on requests. 
+
+#### If you had the chance to create that ecosystem again, what would you do differently?
+- Probably not use Confluence. It worked fine, other than the searching algorithm was really bad. We had to navigate through a tree because search didn't work. It only worked well if you filtered the search to certain pages. If you were searching the site, it was impossible to find what you were looking for. Notion would have been easier. Talk of using ZenDesk internally. 
+
+#### If you had to choose 3 things that you think were critical to your success, what would you say those were?
+- Ease of searching. Needs to be contextually relevant to the user. They don't want to see things they don't to see. They want the info they see to be relevant to what they care about. It needs to be somewhat integration with Slack and other tools we use. There needs to be something that lets them get from what they're using regularly (for example, Slackbot). It needs to be easy enough where people will use it. 
+
+#### In what ways do you think engineering documentation differs from non-technical documentation? Where is there overlap in the problem space? Where do they diverge?
+- 
+
+#### Talk me through a time when you've had a really successful experience using documentation to get something done.
+- There was a translation tool that we leveraged called OneSky. It was supposed to help us translate our documentation into multiple languages. It didn't involve a lot to get into the documentation. Once I logged in once, I was able to download the docs. If there was a chance, there was a notification to download the updated docs. It was intuitive. It walked me through steps 1 and 2. It was simple enough and used simple enough language. If I don't have to google how to use it, it's doing something right. I don't think I had to do any searching. 
+
+#### Was there an ability to contribute or ask questions? Were there any other attributes that were particularly useful?
+- For each section, there were an ability to see the most common questions for a certain section. As they get feedback, they link  people with that section. I was wondering how something linked to another part of the application. 
+
+#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
+- 
+
+#### Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
+- 
+
+#### Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
+- 
+
+#### What would you say is your biggest pain point today with VSP documentation?
+- I cannot tell where to go to find a specific piece of documentation. Without a reliable search, it's impossible. If I can't find it through the tree structure, I just give up. If I spend too much time, I just go and ask somebody. I have a lot of bookmarks to documenation. 
+
+#### If you're looking for info for how to do your job, where do you go?
+- Slack. There's no place where you can go to see our roadmaps, meetings notes, action notes, discussions. It's all in Slack. 
+
+#### If you're direction a FVS team member, and you're directing a team member, where would you tell them to go?
+- Depends on the question. If it's about how to use certain products, I have links to those, and keep track of it myself, and send it to them directly. The docs we have is fairly good. The issue is knowing where the most up to date article is. 
+
+#### Do you see yourself as responsible for keeping the info uptodate?
+- Yea. I feel like I should be the champion of that. My job is to eliminate the blockers for my developers to do great work. One of those blockers is them asking where something lives. Making sure things are uptodate. Making sure there is docs when we finish things. 
+
+#### If you had a magic wand, what would you expect to see in a VSP dcumentation site? 
+- As a creator, I could very easily go in and create documentation. And link to ZenHub, threads in Slack. Ability to inclde graphics/videos. We're capturing info in many ways. Diagrams. Recorded Zoom calls. It if's relevant, it'd be nice to link to a video. Having options to how we publish data from a creator perspective. Having it be pretty simple. I don't want to need a dev to help me push content. I want to be a key owner of that stuff. 
+- As a user, I want to be able to come in and search and find what I'm looking for. Clear navigation. Have those options be clear and well-organized. 
+
+#### One of our assumptions is that teams are responsible for docs about their product. Do you have experience with a more dispersed responsibility model? How can you make sure things are up to date when you're not an engineer? 
+- I have to choose whether it's more important for devs to work on docs or move on to the next ticket. For people that are not as technical, I will have a conversation, and synthesize that down for a general audience. It's good that it lets them focus on code. It's bad because it makes me feel like my time is not as valuable as others. With disparate owners, it's fine as long as it's understood that the value of other people owning that comes at a cost. 
+
+#### Do you think there's to create a culture of documentation? 
+- Yes. We're trying to track questions for product support. And to track those, we have to create a ticket, which is friction. The more people use documentation as they trust that it's up to date. If you don't have a culture of documenting things, then I'm going to assume that other people didn't document it. Maybe they did, but I still might have to ask them in Slack to find. Having people accountability to find documentation. Incentivizing them to go here first. Having less people as the gatekeepers helps keep a centralized tone and style. The more people you have providing content, the more ways they're providing it. It depends on the audience. 
+
+#### If you're looking at docs, how do you know if it's correct? 
+- Right now, you don't. The hope is that there's a new home, and everything lives there. 
+
+#### Does it make sense to have a Slackbot tool that queues up documentation questions?
+- Previously, we would make a documentation ticket, and clear those tickets. We treated it like a codebase, and track it accordingly. I think it would be helpful if there was a way to flag outdated docs. I think it would be easy if I had a tool in Slack for questions people ask all the time. "How do I set up a GFE?" 
+
 - 
 
 # Interview 4
