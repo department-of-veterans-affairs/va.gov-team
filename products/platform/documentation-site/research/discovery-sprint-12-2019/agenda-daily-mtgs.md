@@ -54,5 +54,22 @@
 - Bill and Dan: pros and cons of various techincal solution options
 - Mikki: refine notes from first 2 interviews
 
-
 ---
+
+## Day 2 Start Meeting
+- Assign notetaker for this meeting: Rachael
+- Review goal and activities for the day
+- (If applicable) Review scheduled interviews
+  - Kelly, pushed back 30 min, so overlaps w/retro. **Moderator: Megan, notetaker: Crystabel:** Might miss part of retro if Kelly goes over 30 min.
+  - Brandon, **moderator: Crystabel, notetaker: Bill**
+  - Assign notetakers for today's interviews
+  - Assign interviewers for today's interviews
+  - Review housekeeping for interviews (Megan or Crystabel lead discussion, anyone can ask questions as relevant).
+  - Questions are staying largely the same, aside from changing "successful experiene" to "good / bad experience" with documentation? And who did you know it was good, what made it successful? (i.e. not leading with successful)
+
+## Day 2 End Meeting
+- Assign notetaker for this meeting
+- Roundtable of takeaways
+- Revisit goal progress for the day
+- Assign out necessary tasks to finish goal for the day
+- Assign out notetakers and interviewers for interviews the next morning, if applicable
