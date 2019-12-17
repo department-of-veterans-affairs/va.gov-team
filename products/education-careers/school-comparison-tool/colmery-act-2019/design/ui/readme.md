@@ -6,9 +6,9 @@
 
 [GIBCT v2.2 116 Post-MVP](https://bahdigital.invisionapp.com/share/W2IAC1LDMZX) 
 
-[GIBCT v2.1 116 Post-MVP](https://bahdigital.invisionapp.com/share/9JIABYIFXP8) 
+[GIBCT v2.1 116 Post-MVP - Content Review](https://bahdigital.invisionapp.com/share/5SIAC0JVJPF)
 
-[GIBCT v2.1 116 Post-MVP - Content Review](https://bahdigital.invisionapp.com/share/5SIAC0JVJPF) 
+[GIBCT v2.1 116 Post-MVP](https://bahdigital.invisionapp.com/share/9JIABYIFXP8)  
 
 [GIBCT VET TEC Sec 116 Post-MVP v2.0](https://bahdigital.invisionapp.com/share/VCIABCYTDAB) 
 
