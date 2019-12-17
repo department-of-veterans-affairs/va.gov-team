@@ -78,6 +78,9 @@
 
 [GI Bill Comparison Tool 501, 111, 107 Updates v0.1](https://bahdigital.invisionapp.com/share/Z3IAAL95F2R)
 
+### Miscellaneous Prototypes:
+
+[GIBCT - Landing Page Subhead v0.0](https://bahdigital.invisionapp.com/share/VFIAC88YRJ9)<br>The subhead beneath the H1 header on the GI Bill Comparison Tool landing page was deemed out of compliance for section 508 as the blue color caused it to resemble a link. We explored several styling options for the subhead to ensure it is 508 compliant.
 
 ### Baseline Prototype:
 
