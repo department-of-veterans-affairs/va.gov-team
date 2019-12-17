@@ -38,13 +38,11 @@ ___
 * Richly linked
 * Links to insights
 * Advanced Search
-* Last updated at
-* Last reviewed at
 * Point of Contact
 * Send Feedback
 * Confluence-esque watching/favoriting
 * Rich text in content
-* Metadata (last updated date, timestamps, source, edit link, bug link, etc)
+* Metadata (last updated date, last reviewed at, timestamps, source, edit link, bug link, etc)
 * Related pages
 * Simple Source (lives in repo)
 * Version switcher
