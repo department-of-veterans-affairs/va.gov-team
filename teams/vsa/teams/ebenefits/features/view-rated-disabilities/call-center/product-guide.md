@@ -18,27 +18,21 @@
  - [Video Demo Link (YouTube)](#)
 
 ## What is it?
-The **Your VA Disability Rating** page is where Veterans can view their combined disability rating and the individual disabilities in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do if they have a problem or question. Information and tool links include:
-- **Compensation 101: How did I get this rating??** video on YouTube; this explains how disability claims are determined, and how ratings are calculated.
-- A link to **Check your claims and appeals**
-- The VA phone number: 800-827-1000
-- Breadcrumb links will take the Veteran a content page (**Disability benefits**), and a landing page (**View your disability rating**) with more information on disabilities and disability claims
+The **Your VA disability rating** page is where Veterans can view their combined disability rating and the individual disabilities in their record. On this page, there are links to other information and tools that can help the Veteran understand their rating(s), and decide what to do if they have a problem or question. Information and tool links include:
+- Breadcrumb links will take the Veteran a content page (**Disability benefits**), and a landing page (**View your disability rating**) with more information on disabilities and disability claims `A`
+- A link to **Check your claims and appeals** `B`
+- **Compensation 101: How did I get this rating?** video on YouTube; this explains how disability claims are determined, and how ratings are calculated. `C`
+- The VA phone number: 800-827-1000 `D`
 
-``` diff
-SCREENCAP GOES HERE
-```
+![Your-VA-disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-1_clean.png)
 
 The **Your VA Disability Rating** screen will show disability ratings that are known to the VA. If a Veteran does not have a disability rating, an informational alert box will appear:
 
-``` diff
-SCREENCAP GOES HERE
-```
+![RD 400 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-2_clean.png)
 
 If there is an error getting the Veteran's disability rating, an error alert will appear. It is possible that either the combined VA disability rating, or the individual disabilities, or both, could show error alerts.
 
-``` diff
-SCREENCAP GOES HERE
-```
+![RD 500 error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-3_clean.png)
 
 Target launch date is end of November 2019, early December 2020.
 
@@ -52,13 +46,9 @@ The **Your VA disability rating** page is accessible for testing within the **VA
 ## Navigation
 If a Veteran searches or browses **VA.gov**, several links will connect to the **View your VA disability rating** landing page (https://va.gov/disability/view-disability-rating). If the Veteran is already logged-in, they can proceed to the **Your VA disability rating** page by clicking the blue **View your VA disability rating >** button. Veterans who are not logged-in will see the same page, but with the green **Sign in or create an account** button. The **View your VA disability rating** landing page has information about some basic access questions. It also has a link to **Learn how VA disability ratings are assigned**, which can help explain the VA disability rating calculation. The usual navigations links are in the left sidebar.
 
-``` diff
-LOGGED-IN SCREENCAP GOES HERE
-```
+![RD  authenticated landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD_Landing_1A.png)
 
-``` diff
-LOGGED_OUT SCREENCAP GOES HERE
-```
+![RD  unauthenticated landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/call-center/images/RD-4_clean.png)
 
 After authentication, the Veteran is brought to the **Your VA disability rating** page.  
 
@@ -103,4 +93,3 @@ Also included is workflow that shows how the Veteran can get in and out of the R
 - vets-api error mapping: https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/locales/exceptions.en.yml This is a comprehensive list of all expected exceptions within vets-api, not specific to rated disabilities.  
 - Errors related to the disbility compensation form (526) can be found here: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/disability_compensation_form/service_exception.rb These get mapped to the exceptions.enyml file referenced above. The exceptions are handled in a linear/sequential fashion, meaning the first exception in the list that is encountered is the one that will be returned.  
 - wss-form526-services-web: https://pint.ebenefits.va.gov/wss-form526-services-web-v2/swagger-ui/index.html?url=https://pint.ebenefits.va.gov/domain1/wss-form526-services-web-v2/rest/swagger.yaml#/  
-
