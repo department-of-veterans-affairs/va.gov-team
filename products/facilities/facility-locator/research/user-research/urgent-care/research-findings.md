@@ -7,7 +7,9 @@ We conducted moderated user testing sessions with 5 participants, one Caregiver 
 Transcripts and notes can all be found in the [Facility Locator Urgent Care Research folder.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care)
 
 ## Summary
-We tested a prototype which included a workflow for choosing an In-Network Urgent Care provider through the Facility Locator tool. We came away with a xx findings that will inform the redesign of Facility Locator to improve awareness of care provided by non-VA facilities.
+Currently, non-VA Urgent Care has several location sub-types: retail, pharmacy, and urgent care.  
+
+We tested a prototype which included a workflow for choosing In-Network Urgent Care through the Facility Locator tool. We came away with a five high-level findings that will inform the redesign of Facility Locator to improve awareness of care provided by non-VA facilities.
 
 #### 1. Veterans are not aware of the type of care they can receive at urgent care facilities.
 
@@ -79,7 +81,7 @@ Unless prompted, participants did not distinguish between the treatments provide
 
 **If you had a magic wand, what would you change about this prototype?**
 - I would like more options to pop-up on the map so I don’t have to scroll from page to page to see my top 10 options.
-- I’d like to include the hours int eh box for the facilities.
+- I’d like to include the hours in the box for the facilities.
 - Regarding the descriptions of the retail urgent care and urgent care: I don’t know that I would’ve thought to click on the filter to find the definition. IDK if there’s too much text to actually have it on the screen so maybe there could be a thing that says “services available.”
 - I’d change the name of that facility to be more clear. It was not intuitive to find the definition of urgent and retail urgent care under the filters.
 - A + or – for zooming on the map.
@@ -89,19 +91,28 @@ Unless prompted, participants did not distinguish between the treatments provide
 The following are recommendations to consider during the redesign of the Facility Locator Tool:
 
 **Display facility names that are familiar with users (e.g. MinuteClinic at CVS)** 
-  - Participants immediately recognized retail urgent care locations when they were associated with a store or name they've seen before (like CVS, Walgreens, etc.)
+- Participants immediately recognized retail urgent care locations when they were associated with a store or name they've seen before (like CVS, Walgreens, etc.)
 
 **Organize/Prioritize dropdown and filter lists**
+- The In-VA Network Urgent Care Providers option in the dropdown was frequently overlooked because it was at the bottom of the dropdown list
+- There may be benefit to creating an Urgent Care category that can be sorted by VA and non-VA locations
 
 **Remove "show all filters"**
+- No participants clicked on the show all filters 
+- Participants expected to see their results after filling out the initial search criteria
+- Sorting the search results list may be worth exploring as participants mentioned they wanted to see a long list of options to choose from for multiple reasons (e.g. location, hours)
 
 **Define Urgent Care sub-types (pharmacy, retail, urgent)**
+- When prompted to select the "show all filters" button, participants mentioned that the definitions of retail and urgent would be helpful when choosing a location
+- Providing tooltips could be a potential solution to defining these locations without hiding them in a filter
 
 **Remove pagination from search results**
-
+- Participants wanted to be able to scroll through more location options
+- Participants wanted to see more option on the map than the first few
 
 ## Additional Questions
 - What differences exist between how Caregivers and Veterans use Facility Locator?
+- How does pharmacy fit into Veterans and Caregivers understanding of Non-VA Urgent Care?
 
 ## Resources
 
