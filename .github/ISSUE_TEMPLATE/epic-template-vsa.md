@@ -14,7 +14,7 @@ assignees: ''
 As a _____, I need _____ so I can _____.
 
 ## Problem 
-e.g. How might we ___? 
+Description of the problem faced. 
 
 ## KPI(s) 
 Which KPIs do we intend to affect?
