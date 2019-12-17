@@ -1,3 +1,16 @@
+## Veterans Address Report Log 
+
+### User Impact
+*A growing number of VA.gov users are unable to update their mailing address on their VA.gov profile. This means any mail they might be receiving continues going to the wrong address*
+
+### For most of the users who are experiencing this issue, we have confirmed that this issue has been persistent for days, weeks and sometimes months.
+
+### Expected Results
+*The user's new address should be saved and shown on their profile*
+
+### Actual Results
+*User receives error messages that their address could not be updated and their old address remains on their profile*
+
 ## Sample Addresses Collected
 
 *2212 S. Chickasaw Trail, Unit 4, Orlando, Fl. 32825*
