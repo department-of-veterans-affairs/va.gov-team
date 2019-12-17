@@ -22,6 +22,8 @@ We created a myriad of documentation that was designed to help our customers (i.
 
 ## 2. Proto-Personas
 
+**VFS and VSP Team Members, both technical and non-technical, are the top priority for the next iteration of the documentation site. These teams are the most frequent users of documentation and are also frequent maintainers of documentation, much of which is frequently evolving (under the assumption that VFS teams are responsible for keeping their own product documentation up to date). By meeting the needs of VFS and VSP Team Members in using and maintaining documentation, this will mean that we are inherently meeting the needs of other personas including VA Content Writers and DEPO members embedded on teams.**
+
 Technical and Non Technical VFS Team Members are the top priority for the next iteration of this solution. Because if we meet their needs, we are inherently meeting VSP team member needs bc it will reduce the support burden. It will also inherently meet the needs of any DEPO team members who are embedded on teams since their traits are very similar to VFS teams, and non-embedded DEPO team members are not a priority... why? 
 
 We should prioritize the personas who will be most actively using the documentation, which are VFS teams, VA Content Writers and maybe DEPO..... will daily/weekly/sprintly use these docs, so they are the top priority for the next iteration of this solution. DEPO might also use it just as much nbc they're integrated into the VFS team. We don't know how much owners, prospective teams would use the documentation.
@@ -231,6 +233,8 @@ How should our product look and behave?
 ### 4. Based on pain points, user stories, and assumptions, select hypotheses for MVP:
 
 We believe that: [creating this capability/solving for these pain points] for [these people/personas] will result in: [this outcome]. We will know we are right when traffic and contributions to new documentation solution rise steadily and documentation-related support requests decrease.
+
+*We believe that **creating a single, searchable, public documentation site that is easy to use and maintain for VFS and VSP team members** will result in **a single source of truth for building on VA.gov that is robust and well maintained.** We will know we are successful when **we see contributions and traffic to the new documentation site rise, and documentation support requests decrease.***
 
 We believe that **implementing a searchable public documentation site for VFS/VSP team members** will result in people **knowing what the documentation source of truth is, contributing to it, and sharing it**. We will know we are right when **traffic and contributions to new documentation solution rise steadily**.
 
