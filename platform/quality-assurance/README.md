@@ -23,6 +23,10 @@ The following outline is a set of resources for applying accepted QA techniques 
 - [How to create an issue for your project](create-an-issue.md)
 - [How to request help](help.md)
 
+### How to plan for and create manual test cases
+
+- [How to create robust manual test cases](manual-functional-testing.md)
+
 ### How to include end to end (E2E) testing as part of your QA practice
 - [How to get up to speed with end to end testing](end-to-end-testing.md)
 - [How to explore detailed information on end to end testing](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test)
