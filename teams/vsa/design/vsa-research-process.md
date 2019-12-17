@@ -48,7 +48,7 @@ Run a pilot/test session before your study, including Perigean’s team and anot
 We have to be careful with -- and if possible avoid using -- recordings because of Federal regulations regarding Personally Identifiable Information (PII). Assign a colleague, such as another designer or member of your team, to take verbatim notes during your research sessions. Perigean can also take verbatim notes for your research sessions, but you must request this at the beginning of the study. [Guidance on notetaking can be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/How-to-take-session-notes.md)
 
 * Create a “session-notes” folder within your research study Github folder and storing each session as an .md document. Copy the conversation guide over to your .md file before each session so that you have a structured way to capture your notes
-* You must scrub all notes of all PII before uploading them to Github
+* You must scrub all notes of all PII before uploading them to Github.  PII is all content that could be used to identify the participant. Name, age, date of birth, location or specific VA facility (unless that is critical to the study), diagnoses, etc.
 * An [example of verbatim notes can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/discovery-aug-2019/notes/px.md).
 
 ## <a id="recording"></a>Recorded Interviews
@@ -56,7 +56,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 * Make sure you press “record” yourself in the meeting software if you want your session recorded; they are not automatically recorded
    * In Zoom during a session, check under the Meetings tab and select Recorded
    * If you can’t find them, message your Perigean contact
-* Download any recordings you need, but only keep for as long as necessary to complete synthesis. Then securely dispose of them.
+* Download any recordings you need, but only keep for as long as necessary to complete synthesis. Then securely dispose of them. Older macs with HDDs had a securely empty trash function. Newer macs, you need to use the command line in the folder level. If you still have questions on how to securely delete things, feel free to drop the question in #vfs-platform-support
 * You can make clips of the recordings for sharing/presentations as long as those don’t contain PII. Those clips can be uploaded and included in Github. 
 * **Do not upload any original session recordings to the cloud (Github, Dropbox, Google Docs, etc.) or any public or private server. The risk of accidentally disclosing PII outweighs any benefit provided by sharing original session recordings.**   
 
