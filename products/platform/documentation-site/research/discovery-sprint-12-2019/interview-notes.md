@@ -1,68 +1,82 @@
 # Interview 6
-- Date: 12/18/19
-- Participant initials: JH
-- Participant role: Communications Lead
+- Date: 12/17/19
+- Participant initials: KL
+- Participant role: PM 
 
 ### Notes:
 
-#### Talk me through a time when you’ve had a really successful experience with documentation.
-- 
+#### I know last week you walked me through docs that the api team uses in particular. Have you ever contributed to a document site other than that? 
+- Before working at the lighthouse team, I kinda worked at the other end of the spectrum so it was an atlassian/microsfot shop. So we used confluence, so for me technical documentation as well. we used confluence as a wiki. when i came to the lighthouse program, we used GH, google docs for a while and then publish to GH. It was a different type of practice. Confluence has a lot more wiki functonalitly. On the ligthouse side, we have UX disccovery research and powerpoint slides in GH. When we do something based in one of those, but definitely has limitations, we relatively recently turned on wiki functionality in GH. We're thinkin of moving text based documentaiton into that. There's pros and cons. Can I show you my screen and show you some examples?
 
-#### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
+*shares screen*
 
-#### How did you know it was successful (or not)? What were the results? What behavior were you seeing to indicate that?
-- 
+- This is a good example of a text based application. this is my product outline, I'm a PM. This goes through all the documentation, services around what it is we're building. I'm able to put images in here, but its a MD file. GH is not great for that. If you want to search for a file, when I go "app" it doesn't search the document or anything like that. We've been looking for wiki GH functionality. You can search through the pages, but this doesn't search for content in the docs either so it's a bummer. When you create a page, it adds it to the repo, but you can add a custom side bar to give it an illusion of organization. You can see here this is text based documentation, a glossary. When I search for authorization, it doesn't find anything. These are the options we're using in lighthouse. I don't know what questions you guys have abiut that and how well it's working
 
-#### What tools and processes have you found effective in the past?
-- 
+
+#### What tools and processes have you found effective in the past? (What have you found works)
+- Wiki a shared ownership sense, it's really nice, but it also keeps a history of changes, comments so that you don't have to change a document. GH when there's a pull request, it's a hurdle for people to contribute so to have something as is easy as possible as shared ownership. wikis are the other edge of that, get a little unruly so you have to have a little bit of governance, so you can organize correctly. Sometimes it can get a little bit crazy but it's a managaeable problem
 
 #### What tools and processes have you found ineffective in the past?
-- 
+- Coming to the lighthuse program and using GH for product documentation was an eye opener for me. GH is not meant for product or gerneal documentation, it's meant for code. it's not great. yeah...
 
-#### What processes did you use to set standards across different teams who were contributing to the documentation?
-- 
+#### Do you think too many ppl can have access, setting standards not setting standards...What processes did you use to set standards across different teams who were contributing to the documentation?
+- It was nice having a process in place, but each team had their own little sandbox. under this directory or this folder, if you're having a discussion with your team, whatever is a helpful for the teams. You can do whatever you want in this area. this is your area, so people dont stop putting things everywhere. At my last job we restricted delete access. 
+
+#### Why did you lock down delete accesss?
+- I don't know, there were probably afraid of people deleting important things. I didn't know in confluence if the delete was an actual delete. 
+
+#### Interesting, I never heard of that being a particular concern. How can you tell when  documentation is good? What are signs that are positive?
+
+- Speaking in the realm of internal documentation. Findability is pretty important. If you have a new team member and their team is talking about a specific topic. Having a powerful search where they can say. What's kong? Why do my team talk about kong. they can talk about kong. This is what kong is and this is what role it plays
 
 #### How did you ensure that the information stayed up to date?
-- 
+- That one is tough. it depends because there's defiitely stuff that wont be up to date. in 6 months a year, that page is prob gonna still live there and it might be fine, so the team is in charge of making their area as tidy as it's supposed to be. when it's not team specific, you have to have ppl in charge of that.te nature of having a living thing
 
 #### What do you think VSP, the platform team, can learn from this example?
-- 
+- I would say from lighthoue side, I dont think we've figured it out either. It's hard and you guys have an even bigger program than us. We went with a solution because our program is a little over a year old, and now we're coming to a point where we're scaling so we need to restructure with scalability in mind
 
-#### If you had the chance to create that ecosystem again, what would you do differently?
-- 
+#### I was thinking how yall are trying to start something out. If you had the chance to create that ecosystem again, what would you do differently?
+- The reason we had chosed GH for documentation, we have restriction of what our VA product owners can actually access. That's why we went with that. I think we'd really look what our options are and what access our product owners have and go from there
 
-#### If you had to choose 3 things that you think were critical to your success, what would you say those were?
-- 
+#### Could you talk a bit about who the users are for (API doc)
+- Since lighthouse is a API platform we're a platform that sit on top, authentification, authorizaiton. a lot of what we do is provide docs for APIs, a lot of this is external. This is one of the products of our platform. This is for developers who are working on tools that will be veteran facing. This is our dev site, so this is not live. This is my teams's API that is still going to work through. This is a completely different audience. The GH stuff is all internal. Developers, product owners who want to access the how we do things we are doing. This is externally public facing, for ppl wo want to use apis
 
-#### In what ways do you think engineering documentation differs from non-technical documentation? Where is there overlap in the problem space? Where do they diverge?
-- 
+#### How was this built? I know it has swagger intergrated here?
+- I think it was custom, I don't think we used something completely out of the box. when we build a new page, everything is just custom. all these with collapsible chunks, we have swagger.
+
+#### Wtith the differences between the two, what is the rough guess of people use it or contribute to it (API and internal)
+
+- I don't know about API because you dont need a API key when you use it, you can use all the documentations without a key. 100s at least. the GH stuff is all internal, I think our program is..people. When we're working with external teams, I work with benefits team so I'll link it
+
+#### Do you know the number of people that maintain these?
+
+- Each team manages their own APIs, part of our definition of done, is that your developer portal documentation is up to date. so everyone maintains their own. Same for internal documentation. 
+
+#### for developer documentation, you really caught my ear for definition of done, that's something we've been talking about.  How do you set that standard that something cant be considered done till its documneted. Have you had any difficult getting people to priortize that ?
+- I'm thinking of the developer portal. This is part...its like building something and not pushing to the introduction. That's because this is externally facing. I would say for our internal stuff, we have to have product outlines, those are harder because it's internally consumed. if it's something that's mostly underway or done. I know you have to go back and do an initial break for it. going between the 2 audiences that's the definition between the 2. The user base is externally facing which is an incentive to stay up to date, wonder if that's a model, take the more accessible it is on ppl using it, the more people will have up to date 
+
 
 #### Talk me through a time when you've had a really successful experience using documentation to get something done.
-- 
+- When I first came on the platform I had to get up to speed on waht the world is like. there's multiple government groups in chrge of this stuff. there was a mural board that were super helpful. on the other side of that it was hard to find them. Um..yeah.
 
 #### What info did that documentation provide? Was it just technical specs about APIs, was it "how-to" and onboarding, was it philosophical "why" documentation?
-- 
-
-#### Was it paired with any tools or interaction? (Examples: search, sandbox, ability to contribute or ask questions) Did it look a certain way? Were there any other attributes that were particularly useful? What did those tools, interactions, or attributes allow you to accomplish?
-- 
+- For that one, it was a step by step, whan an appeal, what happens to an appeal. it was essentially a process flow. There's 3 different types of appeals. there's types within types. There's different outcomes. 
 
 #### Did you rely solely on those docs, or did you use that and also fill in gaps by asking a bunch of questions elsewhere or using another method?
-- 
+- Yes that has been one of those things. I had a UX lead start a little after me as well. this is known information, but we have to go to different people to get different parts of this process. there has to be somewhere that lays out what the process is. Someone might know this process end to end. took us a while to find the right people to talk to. it's a contact from AMO. It's a group within the VA called appeals management process. their process doesn't exist on GH repo. 
+
+#### Did they have any access to ya'lls documentation? is taht anything ya'll trying to improve?
+
+-Their documentation probably lives in process manuals, not even in a form of what we're doing. We're building out a process of how this appeal happens. We took a screenshot of how this process is made, sent it to her, and said this is mostly wrong let's talk about it.
+
 
 #### What would you say is your biggest pain point today with VSP documentation?
-- 
+- I have not. We work really closely with benefits and memorials team. (pain: not specificially, not different from GH repo of documentation)
 
-#### If you’re looking for information related to how to do your job, where do you go to find it?
-- 
+#### Have you ever asked you a question, have they linked you to...guess main places would be vets gov team repo or va team repo, have you ever looked at these thngs
+- They had a release plan, they linked to me. I thought this was awesome/great
 
-#### If you’re directing a VFS team member to information related to their job, where do you go to find it/where do you tell them to go?
-- 
 
-#### Do you see yourselves as responsible for keeping any of the above information up to date? How do you ensure that it is accurate?
-- 
-
-#### What would you expect see on a successful VSP documentation site?
 
 # Interview 5
 - Date: 12/17/19
@@ -170,141 +184,103 @@
 - Technology director at TTS. My team is the defacto owners of the TTS handbook. 
 
 #### Tell us about 18F's handbook
-- So the bg there is that it was created by 18F but it was conjoined by other teams in TTS. Most of the things in the handbook were applicable across the board. The software 18F was using was what TTS was using. That was years ago, so content still has references for 18F when it's TTS. The domain is still 18F for example. The handbook is where we put internal facing documentation that is generally applicable. We use google docs a lot as well. The idea is evergreen in any content that needs to stick around and be a source of truth. Team specific documentation is in other places like a GH repository or in google docs. We use google docs for access control. 
+- So the background there is that it was created by 18F but it was conjoined by other teams in TTS. Most of the things in the handbook were applicable across the board. The software 18F was using was what TTS was using. That was years ago, so content still has references for 18F when it's TTS. The domain is still 18F for example. The handbook is where we put internal facing documentation that is generally applicable. We use google docs a lot as well. The idea is evergreen in any content that needs to stick around and be a source of truth. Team specific documentation is in other places like a GH repository or in google docs. We use google docs for access control. 
 
-#### I know Leah had mentioned that you started off with a whole lot of user research. Do you know anything about or what problems yall were trying to solve with the handbook. I can't speak to any past user research i'm welcome to dig it up and share it with you if I found it. I can say things taht came up a lot
-
-- a lot of people dont know how to use md in GH. Doesn't come up a lot bcuz people don't know how to update the handbook
-
-- that's one thing 
-
-- content architecture is a constant problem. there's a reorg and now all the strucute is wrong. there's no real reponsboility for anyone to fix that consistently
-
-- someone will make an edit and they delete something like an anchor wthin a page that then breaks the build because it's a static site so it's built with every change. they don't know how to fix it so the pull request sits there. someone pulls a change and no one ever addresses it 
-
-- id sum it up as a problem that was recently identified. a lot of ppl update the handbook which is great but no one makes sure it's updated. build problem gets fixxed, styling issue gets fixed. meta level things no one was really responsible for. That was a reent learning
+#### I know Leah had mentioned that you started off with a whole lot of user research. Do you know anything about or what problems yall were trying to solve with the handbook?
+- I can't speak to any past user research i'm welcome to dig it up and share it with you if I found it. I can say things taht came up a lot. A lot of people dont know how to use md in GH. Doesn't come up a lot bcuz people don't know how to update the handbook
+- That's one thing 
+- Content architecture is a constant problem. there's a reorg and now all the strucute is wrong. there's no real reponsboility for anyone to fix that consistently
+- Someone will make an edit and they delete something like an anchor wthin a page that then breaks the build because it's a static site so it's built with every change. they don't know how to fix it so the pull request sits there. someone pulls a change and no one ever addresses it 
+- I'd sum it up as a problem that was recently identified. A lot of people update the handbook which is great but no one makes sure it's updated. build problem gets fixxed, styling issue gets fixed. Meta level things no one was really responsible for. That was a recent learning
 
 #### What tools and processes have you found successful with the handbook? What outcomes did those tools and processes generate?
-- as a personal opinion. it's rare that any change someone makes is going to be negative. any change someone makes is improving the content in some way. they may be introducing a new problem bt the net is always positive. so the more you can reduce that friction the better. for example, we haven't formalized this. three's an open source model called C4 and it basically the principle that anytime someone proposes a change, it's valid a real user need so just accept it unless it's actively breaking things. its a constatnt forward model process. not like we can't have someone accept this sentence till it's gramatically perfect. that mindset has shifted and we wanna formalize that
+- As a personal opinion. It's rare that any change someone makes is going to be negative. Any change someone makes is improving the content in some way. they may be introducing a new problem bt the net is always positive. So the more you can reduce that friction the better. for example, we haven't formalized this. three's an open source model called C4 and it basically the principle that anytime someone proposes a change, it's valid a real user need so just accept it unless it's actively breaking things. It's a constatnt forward model process. not like we can't have someone accept this sentence till it's gramatically perfect. That mindset has shifted and we wanna formalize that
 
 #### can you talk about that shift, that's an interesting concept that we don't currently embody
-
-- there's basically a problem if someone's change can be ripped arpart then they're discouragd from changing it. the sooner you can get the update out the better. It should be better than before. there's 2 aspects of reducing friction. Making sure the content is subjugated. Feedback is a form of friction
+- There's basically a problem if someone's change can be ripped arpart then they're discouragd from changing it. the sooner you can get the update out the better. It should be better than before. There's 2 aspects of reducing friction. Making sure the content is subjugated. Feedback is a form of friction
 
 #### Sounds like the ownership model is pretty dispersed. Have yall had success dispersing that ownership and how?
+- Yes, maybe the definition of ownership is nuanced, not all content changes need to go through my team. My team makes sure the concept is sustained. There the ones that should be updating that content, unless someone else sees the guide is unclear That's better than us just sitting in a high tower. it's not distributing formal ownership, it's distributing empowerment. its bascially making people feel like they have a vested interest in updating the content. I see something that's wrong let me fix it, vs. something's wrong I don't tust this anymore
 
-- yes, maybe the definition of ownership is nuanced, not all contnt changes need to go through my team. my team makes sure the concept is sustained. There the ones that should be updating that content, unless someone else sees the guide is unclear That's better than us just sitting in a high tower. it's not distributing formal ownership, it's distributing empowerment. its bascially making people feel like they have a vested interset in updating the content. I see osmething that's wrong let me fix it, vs. something's wrong I don't tust this anymore
-
-#### how do you do that? does your team say, ok now you're responsible for this apge, make sure it stays up to date, how do you empower ppl?
-
-- we have like an intrantet site called insight, we have knowledge base for more technical stuff.you gotta sign in order to see them. 18F handobok will come up in google searches by virtue of being public on insight, if I see a problem with the content, there's no easy way to suggest that change. at best it'll give someon'es contact info, but you can email them, but they don't have permission to update it directly. so that controlled model of content access and ability to edit was very detrimental and keeps content from being updated. the visibility and that every page has an edit the page button. I'm curious tactically I noticed the notes you sent over. Pushing out this model of having. The ownership in that sense is...ownership is ours and you can't touch. I think of it as who is responsible for this. if there's discrepnacy on who do you ask? or team. We found referenced to individuals was not desirable. We think teams because that's less likely to go out of date 
+#### How do you do that? does your team say, ok now you're responsible for this apge, make sure it stays up to date, how do you empower people?
+- We have like an intranet site called insight, we have knowledge base for more technical stuff.you gotta sign in order to see them. 18F handobok will come up in google searches by virtue of being public on insight, if I see a problem with the content, there's no easy way to suggest that change. at best it'll give someon'es contact info, but you can email them, but they don't have permission to update it directly. so that controlled model of content access and ability to edit was very detrimental and keeps content from being updated. the visibility and that every page has an edit the page button. I'm curious tactically I noticed the notes you sent over. Pushing out this model of having. The ownership in that sense is...ownership is ours and you can't touch. I think of it as who is responsible for this. If there's discrepnacy on who do you ask? or team. We found referenced to individuals was not desirable. We think teams because that's less likely to go out of date 
 
 
 #### I would love to talk to you about tools you use
+- So it's a jekyll site, that uses a theme that includes the us web design system. The code is on GH and is actually deployed using 5us. 
 
-- so it's a jekyll site, that uses a theme that includes the us web design system. The code is on GH and is actually deployed using 5us. 
+#### That's what gives you that preview option right?
+- It's like a more flexible of GH pages. it's a TTS product so we're dog fooding is all 
 
-- that's what gives you that preview option right?
+#### Did ya'll start with GH pahes or used federalist right off the bat
+- I dont think we ever usd GH pages bcuz we weren't allowed.
+- There was definitely a time where we used GH pages for stuff maybe that's a lot earlier than the handbook
 
-- its like a more flexible of GH pages. it's . tts product so we're dog fooding is all 
+#### Interesting here, that you weren't allowed to use GH but google docs
+- The important thing is that these are collaborative docs, again reducing the friction, anyone can change it kinda thing.
 
-#### Did yall start with GH pahes or used federalist right off the bat
-
-- i dont think we ever usd GH pages bcuz we weren't allowed.
-
-- there was def a time where we used GH pages for stuff maybe that's a lot earlier than the handbook
-
-- interesting here, that you weren't allowed to use GH but google docs
-
-- the important thing is that these are collaborative docs. again reducing the friction, anyone can change it kinda thing.
-
-- it's interesting to see private docs in google docs is more easier to type
-
-- definitely easier to change things in google docs, thought about it as a cntent management system. MD is not that hard to learn. it can be intimidating to people when you walk them through it's not a huge deal. also WYSIWIG editors rich text that you can highlight a press bold. That's something that federalist just added and is just processed with adding. I've never had experience with that. I'm sure that's better than the native GH editing.
+#### It's interesting to see private docs in google docs is more easier to type
+- Definitely easier to change things in google docs, thought about it as a cntent management system. MD is not that hard to learn. it can be intimidating to people when you walk them through it's not a huge deal. also WYSIWIG editors rich text that you can highlight a press bold. That's something that federalist just added and is just processed with adding. I've never had experience with that. I'm sure that's better than the native GH editing.
 
 #### Are there any tools that you have found particularly effective, in general or idea of reducing friction?
-
-- google docs are the smallest because it'sa mini pull request we use suggest mode. we encourage ppl to do that. Instead of making update directly, you turn on suggestions. essentially a pull request? what was the ?
-
+- Google docs are the smallest because it'sa mini pull request we use suggest mode. we encourage ppl to do that. Instead of making update directly, you turn on suggestions. essentially a pull request? what was the ?
 *repeats question*
-
-- those are all the tools we use for site building,, because it's a static site we don't have to worry about time. it's not really a problem. the sites can always be fast. don' t have to worry aobut index of search engine. if i were in your shoes, where we have a site that uses content management already. we dont have that so we use static mini websites for everythig
-
-- i should also mention one advantage for a static site is that we can always scan it for broken links like references between pages. 
+- Those are all the tools we use for site building,, because it's a static site we don't have to worry about time. it's not really a problem. the sites can always be fast. don' t have to worry aobut index of search engine. if i were in your shoes, where we have a site that uses content management already. we dont have that so we use static mini websites for everythig
+- I should also mention one advantage for a static site is that we can always scan it for broken links like references between pages. 
 
 #### Leah metnioend you have a preview function? 
-
 - it's not live as your editing, you can do that if you wanna run the site locally whihc isn't harder if you have ruby or docker installed. that's if you want a live preview or real time preview. if you're editing, ppl have a lot of development experience with handbook. a lot of people are using GH interface. so GH will allow you to preview md format but not out of the house. Federalist will build that and make a preview URL as soon as you make the changes you can see the site live. exposed on the internet
 
-
 #### How do you gauge success with a documentation site? What behaviors have you seen to indicate that you've been successful?
-- it's kinda the only game in town. That's where the info is. it could be better well maybe. we havent checked to see if its successful. things that come up are reassuring. that's not just a select few. I fear about other teams referencing it. I see wow that's so much easier than my agency's documentation. it's plain language pretty good and it's public.as soon as somethings not public it's harder to find. So that's huge. I guess if people are or someone asks a question in slack and someone responds in a handbook that's a good sign. 
-
+- It's kinda the only game in town. That's where the info is. it could be better well maybe. We havent checked to see if its successful. things that come up are reassuring. that's not just a select few. I fear about other teams referencing it. I see wow that's so much easier than my agency's documentation. It's plain language pretty good and it's public.as soon as somethings not public it's harder to find. So that's huge. I guess if people are or someone asks a question in slack and someone responds in a handbook that's a good sign. 
 - Hey i was looking at the handbook and....
-
-- I ehar more people like it and it's getting updated
+- I hear more people like it and it's getting updated
 
 #### On this thought of updating, when you were first made it, was there an initial push to get all the cotent up there. say a select few people. or was it the initial team created the IA and handed it to people? to fill in your stuff
+- I don't know if I could look back at the git history
+- I think there were folks who didn't have projects. we were looking for ppl for tings to do. There was a discoer team that built it. they were building all the content from scratch. 
+- If I were doing it from scratch i would strongly suggest not overthinking it. you're creating friction for yourselve do. you need to put stuff in a way to contribute in a certain way, I would worry about organizing once there's more content added in. 3 pages more than 300. 
 
-- idk i could look back at the git history
-
-- i think there were folks who didn't have projects. we were looking for ppl for tings to do. There was a discoer team that built it. they were building all the content from scratch. 
-
-- If i were doing it from scratch i would strongly suggest not overthinking it. you're creating friction for yourselve do. you need to put stuff in a way to contribute in a certain way, I would worry about organizing once there's more content added in. 3 pages more than 300. 
-
-- don't make the perfect make the good
-
+#### Don't make the perfect make the good
 - exactly
 
-#### Hdo you know how many pages are in the hadnbook?
-
-- i can find it. 159 no..140
+#### How you know how many pages are in the hadnbook?
+- I can find it. 159 no..140
 
 #### Hon a related scale question, how many users would you estimate are using the handbook? how many ppl have updated it in the last month?
-
-- tts has about 300 staff members, everyone gets pointed to it in onboarding. PPl dont have ahcoice but to access it
-
+- TTS has about 300 staff members, everyone gets pointed to it in onboarding. PPl dont have ahcoice but to access it
 - so other parts of GSA look at it too, I can pull up google analytics, should be in there. I could do that in the bg in just a sec, in terms of how many are updating...let me see. 
-
 *shares screen*
-
 - last month, 24 people have made changes.
 
-#### Hthe reason i ask is that we've been talking about you guys have had success with the updating responsibility.
-
+#### The reason I ask is that we've been talking about you guys have had success with the updating responsibility.
 - I would be surprised if someone has not access the handbook every month.Idk if i have access for the analytics for it. So...over the past month we've had 9,000 users. I think we have a surprise number outside of TTS, idk if there's a good way to measure that. 
 
 #### HThere's a lot of new users!
-
-- Idk google anayltics on how people find it. oh whatever, you cna try accessing this. yeah it's a lot.
-
+- I don'tknow google anayltics on how people find it. oh whatever, you can try accessing this. yeah it's a lot.
 - Direct is 2,600 that's wild
 
 #### What do yall do for your technical documentation
-
-- the handbook is for things that are tts wide. we have very little technical things for tts wide. I would say the common ways that teams document. Google docs, files in md. GH wiki pages and sometimes they will make they're own federalist site. Login.gov doc is a federalist site.
-
+- The handbook is for things that are tts wide. we have very little technical things for tts wide. I would say the common ways that teams document. Google docs, files in md. GH wiki pages and sometimes they will make they're own federalist site. Login.gov doc is a federalist site.
 - click.gov is similar, it's a huge project contributing to an infrastructure
 
 #### is there a standard tooli or proceses across teams? 
-- um idk if it's explicit, there's no explicit requirement, if there are usng a static stie, then use federalist. if you're creating documents. google drive is a part of that. it's easier to do that than word docs around. 
+- I don't know if it's explicit, there's no explicit requirement, if there are usng a static site, then use federalist. if you're creating documents. google drive is a part of that. it's easier to do that than word docs around. 
 
 #### there's a strong preference to open, is that a rule for all?
-
-- there's a policy that code will be open, it encourages open documentation as well. google doc is the easiest to update, but it's not an easy way to make theat public. that's the limitation of google doc the way that GSA sets that up. we have the jekyll template that lays things out looking like the handbook. It's available but it's not pushed on people. 
+- There's a policy that code will be open, it encourages open documentation as well. google doc is the easiest to update, but it's not an easy way to make theat public. that's the limitation of google doc the way that GSA sets that up. we have the jekyll template that lays things out looking like the handbook. It's available but it's not pushed on people. 
 
 #### Have you had any pain points?
-
-- im a little more extreme on this, not everyone from tts will agree with me. we have just a lot of random little sites that aren't maintained. some ppl are bothered by that, i am not. where there is a problem. we'll build a site for a partner, because we're working with other agencies. we're continuing to host it. if there's a security vulnerability or whatever. We should have transferred domain, acess, repository, it's not quite doc specific. it's more disconnected. I prefer microsite because it reduces the friction, but project teams won't put their doc on there. it's meant for things that have a TTS wide audience
+- I'm a little more extreme on this, not everyone from tts will agree with me. we have just a lot of random little sites that aren't maintained. some ppl are bothered by that, I am not. where there is a problem. we'll build a site for a partner, because we're working with other agencies. we're continuing to host it. if there's a security vulnerability or whatever. We should have transferred domain, acess, repository, it's not quite doc specific, it's more disconnected. I prefer microsite because it reduces the friction, but project teams won't put their doc on there. It's meant for things that have a TTS wide audience
 
 #### that's quite interesting, we have a phrase of culture of documentation, a culture of keeping things documented and well maintained. I see the handbook sees that you have built that. sounds like a free for all, sounds less like a formalized culture. have you built a culture of documentation or the technical documentation successful?
 
-- i think teams are generally...the way it's done diverses greatly. i think when ppl show up and see the handbook and google docs. in onboarding we say, if you see something fix something. say something or even better fix it. I see that sort of settng that precedent will cause teams to set expectations for them individually. I'm more on the end where I'm okay with that. it doesn't bother me, it bothers me if there's a security issue. Providing the tools to do it well. I'm not going to tell them to do the documentation. By making google docs better for everybody. They have all the tools they need to do that properly. IDK how i would force documentation on certain teams if i wanted to. maybe sort of subgroups of TTS, ppl are pretty heterogenously, some ppl work with partners some platform some...there's diff sort of ways of working. what am i trying to say? they might have formalization. 18f might have formalization on product documentation. I see some examples of a google docs template that formats headings so they make heading blue so it looks 18fy. idk if this is super formalized but there's a meta data block, who's contributing to it, what's the intended audience. that's the sort of like..totally formalized. there's a 18f slide deck template 
+- I think teams are generally...the way it's done diverses greatly. I think when ppl show up and see the handbook and google docs. in onboarding we say, if you see something fix something. say something or even better fix it. I see that sort of settng that precedent will cause teams to set expectations for them individually. I'm more on the end where I'm okay with that. it doesn't bother me, it bothers me if there's a security issue. Providing the tools to do it well. I'm not going to tell them to do the documentation. By making google docs better for everybody. They have all the tools they need to do that properly. I don't know how I would force documentation on certain teams if i wanted to. maybe sort of subgroups of TTS, people are pretty heterogenously, some people work with partners some platform some...there's different sort of ways of working. What am I trying to say? They might have formalization. 18F might have formalization on product documentation. I see some examples of a google docs template that formats headings so they make heading blue so it looks 18F. I don't know if this is super formalized but there's a meta data block, who's contributing to it, what's the intended audience. that's the sort of like..totally formalized. there's a 18F slide deck template 
 
 
 #### that metadate block sounds interesting sounds applicable to doc trustworthiness
 
-- yeah i think so.
+- yeah I think so.
 
  
 
