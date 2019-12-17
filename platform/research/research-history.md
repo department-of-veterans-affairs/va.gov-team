@@ -192,6 +192,13 @@ _VA.gov CMS team: Eric Chiu, Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jan
 * 22 participants 
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/medical-centers/pittsburgh-pilot/research/Facility%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
 
+#### June 25 - 27, 2019: AX usability testing in Pittsburgh
+
+_VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, Rachel Kauff, Kate Saul_
+
+* 8 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content/cms/authoring-experience/research/ax%20research%20-%20usability%20testing%20in%20PGH%20-%20June%202019)
+
 #### June 20-July 3: Appeals Higher Level Review Discovery Research 
 *Appeals Team, Research Lead: Carola Ponce*
 - 20 participants
@@ -307,6 +314,13 @@ _VA.gov CMS team: Meghana Khandekar, Kate Saul, Eric Chiu_
 - [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research)
 - [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research/0994%20Research%20Plan%20-%20%20Round%202%20.md)
 
+#### March 5, 2019: AX Study 1
+
+_VA.gov CMS team: Eileen Webb, Kevin Walsh_
+
+* 5 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content/cms/authoring-experience/research/ax%20research%20-%20axstudy1%20-%20March%202019)
+
 #### March 5-15: VA.gov CMS: Office, User Research 1
 *VA.gov CMS team, Research Lead: Eric Chiu*
 - 5 to 7 participants (VSOs, journalists, Congressional staffers)
@@ -409,11 +423,11 @@ _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 - [Research Folder](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/lighthouse/products/APIs/benefits-intake-api/research)
 - [Research Plan](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/lighthouse/products/APIs/benefits-intake-api/research/Digital_Mail_Upload_Form_Research_Plan.md)
 
-#### January 8-10: VA.gov CMS research: Facility, VAMC Pittsburgh author experience research  
-*VA.gov CMS Team, Research Leads: Meghan Casey, Kevin Walsh* 
-- 4 VA employees who are authors on the content management system (CMS), Teamsite
-- [Research Folder](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/37716119/VA.gov+CMS+research+Facility+VAMC+Pittsburgh+author+experience)
-- [Research Plan](https://va-gov.atlassian.net/wiki/spaces/VAGOV/pages/41189446/Facility+AX+Findings)
+#### January 8-10, 2019: AX Discovery
+
+_VA.gov CMS team: Megan Casey, Kevin Walsh_
+* 20 participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/content/cms/authoring-experience/research/ax%20research%20-%20discovery%20-%20January%202019)
 
 #### January 8-10, 2019: Facility - Discovery
 
