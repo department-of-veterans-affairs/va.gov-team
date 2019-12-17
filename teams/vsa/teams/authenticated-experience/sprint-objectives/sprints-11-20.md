@@ -57,13 +57,6 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 **Arthur and Justin**
 
-*Finish design tasks*
-
-- Create a list of all benefit applications and where they get address data from — note which are VA Profile (Vet360) and which are not. #3893
-- Propose solution for how to handle military addresses in benefit applications that use VA Profile data. #3895
-
-*Prep for build*
-
 - Planning: Figure out what build out looks like for benefit application updates (Arthur and Justin)
     - Who is doing this? 
     - What do we have to coorinate with other teams?
