@@ -21,6 +21,11 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
 - [ ] Discovery readout presentation complete and in GH
 
 ## Important Links & Deliverables
+
+#### Product
+- [DLC Data Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/dlcvrdd6%20tables.xlsx)
+
+#### Design
 - [Discovery Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-project-brief.md)
 - [Stakeholder Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/stakeholder-conversation-guide.md)
 - Stakeholder Meeting Notes
@@ -44,8 +49,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/produc
   - [Participant 8 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p8.md)
   - [Participant 9 - Compression Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p9.md)
   - [Participant 10 - Hearing Aid Batteries / Compression Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p10.md)
+  - [Participant 11 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p11.md)
 - Synthesis Artifacts
 - Research, IA, and Content Consultation Notes
+- Discovery Readout
+
+#### Engineering
 - Technical Review Commentary
-- Product Outline (Updated)
-- Discovery Readout Presentation
