@@ -75,7 +75,7 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 **Samara**
 
-- Team intro
+- Team intro [#4086](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/4086)
 - Handoff of Profile 2.0 [#4332](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/4332)
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
