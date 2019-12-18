@@ -69,7 +69,3 @@ Use this checklist to assist you with your Ceremonies and process.
 6. Make sure each action item is well defined, assigned to a specific team member to be held accountable, and can be completed before the end of the next Sprint ends. 
 
 
-**Implementation**
-
-1. Assign an individual (or have someone volunteer) to be tasked with completing this action item. Do not assign an action item to the whole team, it must be an individual. 
-2. Confirm with the team on the action items and the commitment to complete them. 
