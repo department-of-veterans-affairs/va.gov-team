@@ -5,7 +5,7 @@
 ## Why we're here
 
 ### North Star:
-Provide innovators a comprehensive and organized toolbox to achieve success.
+TBD
 
 ### Product Suite (if applicable): 
 VSP Platform Team
