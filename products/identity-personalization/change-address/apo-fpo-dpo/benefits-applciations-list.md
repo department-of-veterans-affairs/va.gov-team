@@ -25,7 +25,7 @@ This form uses the profile address and EVSS PCIU address. Profile address has pr
 
 [22-5490  Education Benefits Application ](https://staging.va.gov/education/apply-for-education-benefits/application/5490/introduction)
 
-**These forms use the profile address**
+These forms use the profile address.
 
 ----------
 
@@ -34,7 +34,7 @@ Burials:
 [21P-530   Burial Benefits application](https://staging.va.gov/burials-and-memorials/application/530/introduction)
 [40-10007  Pre-need Burial benefits application](https://staging.va.gov/burials-and-memorials/pre-need/form-10007-apply-for-eligibility/burial-benefits)
 
-**These forms use the profile address**
+These forms use the profile address.
 
 ----------
 
@@ -58,4 +58,4 @@ VA Records
 
 [Download VA benefits letters](https://staging.va.gov/records/download-va-letters/letters/confirm-address)
 
-**This form uses the same component as the /profile mailing address editor, changes to this address will update to /profile and changes from /profile will update here.**
+This form uses the same component as the /profile mailing address editor, changes to this address will update to /profile and changes from /profile will update here.
