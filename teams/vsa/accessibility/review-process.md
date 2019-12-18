@@ -82,6 +82,18 @@ For medium to large projects, there are two required checkpoints, and optional a
   
     Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
 
+### For reference
+
+* **VSP** - [VSP Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
+
+* **VSA** - [VSA Design Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#design-review)
+
+* **Content** - [VSP Content Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
+
+* **IA** - [VSP IA Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
+
+* **Research** - [VSP Research Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md)
+
 ## Development Review
 
 There are two required checkpoints, and optional additional ones.
