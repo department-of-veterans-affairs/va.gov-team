@@ -32,7 +32,7 @@
 The current VA.gov infrastructure was born from the idea of supporting the first site it was designed for Vets.gov. The original idea was to serve a few teams developing on the site in order to support our end users the Veterans by enabling them to learn about, apply, interact, and manage their VA benefits and services with ease. Now on VA.gov that underlying mission still hasn’t changed, but the size of the teams that want to work on our platform has. In order to support a growing number of teams developing on the platform and maintain our current quality of service our infrastructure needs a complete overhaul to meet the growing demand.
 
 ## User Problem Statement
-"The platform is supporting 13 different teams with a goal by next year to have 30, but VA.gov's infrastructure was not built for supporting multiple teams and services. We are already at a point where things are at their max and if nothing changes our infrastructure will make it harder for teams to develop on our platform and hinder future teams from joining."
+_The platform is supporting 13 different teams with a goal by next year to have 30, but VA.gov's infrastructure was not built for supporting multiple teams and services. We are already at a point where things are at their max and if nothing changes our infrastructure will make it harder for teams to develop on our platform and hinder future teams from joining._
 
 Currently, our infrastructure leads to many problems:
 Very long build times
