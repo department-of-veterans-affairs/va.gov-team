@@ -98,14 +98,40 @@
 
 ---
 
-## Day Start Meeting Agenda
+## Day 3 Start Meeting
 - Assign notetaker for this meeting: Rachael
 - Review goal and activities for the day
 - Learnings
 
-## Day End Meeting Agenda
-- Assign notetaker for this meeting
+## Day 3 End Meeting
+- Assign notetaker for this meeting: Rachael
 - Roundtable of takeaways
+  - Not every problem needs to be solved with a feature or piece of technology to solve. Some could be solved with a process or a slight change in a habit - which can be extraordinarily difficult to ask. But there's a difference btwn users knowing a behavior is there and not doing it, vs simply not knowing about it. Could be a communication issue.
+  - Significance of havingt the original author. In code I've rarely thought "who wrote this originally", but rather "who touched it last". Illuminated perceptual difference about not caring about past vs recent, whereas from non-technical perspective, sometimes original/initial context can be just as / sometimes more important.
+  - VA.gov products meet VSP standards goal: in my mind we can put out all the docs in the world, and we can make a really fancy system, but we don't have the culture of ppl referencing it and using it yet. And we can't control how well they follow it. This goal may not be something we can control, what we do may not have a 100% direct impact on how well ppl design and code their stuff. It'll take a lot of time to get teams into it and using it, and sort of changing mindset and culture ppl have today, which is we throw an md file out there and never look at it again.
+  - "You can lead a horse to water, but you can't make it drink"
+  - There are 2 worlds: all the tools, and the journey/discovery of those tools. How do you get someone to go on that path on their own w/o guidance?
+  - There are little or no features that can directly cause a cultural change. Maybe some processes could do that, or general socialization of something, or attitudes, etc. But when we get back to the features, nothing that we've talked about really changes the culture. It's all a pre-req to changing the culture. The thing has to be easy to use, but that's not going to change their behavior on its own. What we're doing is a pre-req to our goal of getting VFS teams to meet VSP standards, but docs alone won't help products meet our standards. Does that make it not one of our goals? But still our goal, but knowing we don't have complete control over it?
+  - If a VFS team asks "what's in it for me" what would be our elevator pitch? We're going to make sure there is documentation, that it's accurate, that you can point out when it's inaccurate or missing, and that it's discoverable. It'll help you become less dependent on, or blocked by, a person on VSP to get your job done.
+  - Could we brainstorm the culture of documentation and ideas, outside of the feature set, to increase adoption
 - Revisit goal progress for the day
 - Assign out necessary tasks to finish goal for the day
-- Assign out notetakers and interviewers for interviews the next morning, if applicable
+  - Crystabel and Mikki: decide what to prototype and how, to validate criticality of our top priority features and our hypothesis for user-friendly HIGH LEVEL ia
+  - Dan and Bill: continue technical discovery focused on top priority features / requirements  
+  - Megan: consolidate our workshop work into a cohesive product narrative (product outline and discovery sprint readout) look at samples from James, from [VSP overall strategy](https://docs.google.com/presentation/d/1-8LlD8jljlv-C9IIQO1fHDC4ok0NzpJF3nLfwnx5610/edit), and from discovery sprint folder.
+- Is prototyping only Crystabel? Similarly, what do we use to prototype and how do we test, given that it might not be possible to configure on OOB solution within our sprint timeframe?
+  - Goal of upcoming user testing: (based on 1. People can find what they need without having to ask, 2. Documentation is always up to date and canonical (and thus is trusted): 
+    - can ppl find things easily?
+    - can people update it easily?
+    - do ppl need to contribute to their team's docs, and access how/why Platform usage docs in the same space?
+    - do people capture technical product documentation at all today?
+    - do people use Lighthouse documentation to understand how to integrate with our APIs?
+    - with Advanced Search, does having technical and non-technical documentation in the same spot make it too hard to find technical stuff?
+    - Does DEPO (and thus the VFS Teams they lead) know that they are responsible for their own product documentation? And are thus responsible for keeping it up to date?
+    - Stretch: see if people can actually add missing docs or edit docs using the prototype
+  
+  - Additional problem to solve: how to we find out documentation is missing, and how do we rectify it? (potential solution: tickets that make it into teams' sprints?)
+  - Additional problem to solve: how do we incentivize a culture of documentation, outside of the feature set, to increase adoption?
+  - Additional problem to solve: how do we make editing process/approvals flow easier?
+  - Additional problem to solve: don't know what technical docs I'm responsible for creating or maintaining
+
