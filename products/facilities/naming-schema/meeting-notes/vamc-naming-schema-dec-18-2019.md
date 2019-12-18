@@ -2,7 +2,7 @@ Present: Dave Conlon, Jenny Heiland-Luedtke, Mikki Northuis, Kevin Walsh
 
 Agenda: 
 
-1. VAMC system names ([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/meeting-notes/facility-naming-nuances.docx](facility-naming-nuances.docx))
+1. VAMC system names ([facility-naming-nuances.docx](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/naming-schema/meeting-notes/facility-naming-nuances.docx))
 1. VAMC facility naming (do we ever shorten?)
 
 Main outcomes for VAMC system names:
