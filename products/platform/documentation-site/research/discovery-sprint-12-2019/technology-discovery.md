@@ -49,6 +49,8 @@
    * Scalable
    * DocSearch - Will crawl and index existing documentation and has library to handle search
    * TalkSearch - Will index videos and video content to make searchable. Will link users to moment in video referenced.
+   * Configureable search attributes
+   * Configurable custom rankings
  * Cons
    * COMING SOON
 
