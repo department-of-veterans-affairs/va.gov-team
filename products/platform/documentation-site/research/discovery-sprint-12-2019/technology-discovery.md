@@ -39,7 +39,16 @@
 
 ### Algolia
  * Pros
-   * COMING SOON
+   * Does search really well
+   * Autocomplete 
+   * Has "building blocks" for creating a search users expect
+   * Drowpdown menues in search that "know you"
+   * Dashboard and analytics to help you fine tune algolia
+   * Allows you to integrate your own analytics tools
+   * Typo tolerant
+   * Scalable
+   * DocSearch - Will crawl and index existing documentation and has library to handle search
+   * TalkSearch - Will index videos and video content to make searchable. Will link users to moment in video referenced.
  * Cons
    * COMING SOON
 
