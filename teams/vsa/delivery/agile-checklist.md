@@ -3,7 +3,7 @@ Use this checklist to assist you with your Ceremonies and process.
 ## Stand Up
 
 1. Log in at least 1 minute before the meeting.
-2. If needed, pull up the Zenhub board so tasks can be seen.
+2. Open and share the Zenhub board so tasks can be seen.
 3. Pick someone to start.
 4. Remind the team of 3 question format if it hasn’t been followed recently.
 5. End within 15 minutes, making sure everyone has had a chance to speak. 
