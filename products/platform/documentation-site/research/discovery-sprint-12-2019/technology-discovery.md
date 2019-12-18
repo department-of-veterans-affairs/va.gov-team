@@ -3,7 +3,7 @@ Context:
 * >once we had to move on to higher proprieties there's no one to fix it…if its 3rd party you have a whole company that can fix it…after the infrastructure was done, dev was moved off to work on other things and now it’s a prioritization exercise
 * >its not only the upkeep, it’s the type of resource…it’s a developer needed not a non-technical person
 
-Methodology: After looking at all of the potential features we'd like to have, I chose to take a depth-first approach to validate what features GitBook has, and attempt to test out how well those features work. - BF
+Methodology: After looking at all of the potential features we'd like to have, I chose to take a depth-first approach to validate what features a 3rd party option (GitBook) has, and attempt to test out how well those features work. - BF
 
 ## Options
 ### GitHub
