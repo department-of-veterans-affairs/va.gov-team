@@ -1,22 +1,53 @@
-## This is a list of the benefits applications forms
 
-*This uses the same component as the /profile mailing address editor, changes to this address will update to /profile and changes from /profile will update here.*
+### **Final list:**
 
-### VA Download Letters form 
-[Link to form](https://staging.va.gov/records/download-va-letters/letters/confirm-address)
+### Disability
 
-*These forms below use the profile address*
+[21-526EZ Disability Comp Benefits application](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/veteran-information)
 
-### Apply for health care benefits - Equal to VA Form 10-10EZ
-[Link to Form](https://staging.va.gov/health-care/apply/application/veteran-information/personal-information)
+This form uses the profile address and EVSS PCIU address. Profile address has priority but if it's blank then PCIU address will be used.
 
-### Apply for Veterans Pension benefits- Equal to VA Form 21P-527EZ
-[Link to Form](https://staging.va.gov/pension/application/527EZ/introduction)
+----------
 
-### Apply for pre-need eligibility determination- Equal to VA Form 40-10007
-[Link to Form](https://staging.va.gov/burials-and-memorials/pre-need/form-10007-apply-for-eligibility/introduction)
+### Education:
 
-*This form uses the profile address and EVSS PCIU address. Profile address has priority but if it's blank then PCIU address will be used.*
+[22-0994  VETTEC program](https://staging.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction)
+[22-1995  Edith Nurse Rogers STEM scholarship](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction)
+[22-1990 . Application for VA Education Benefits](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction)
+[22-1990E  Education Benefits Transfer application  ](https://staging.va.gov/education/apply-for-education-benefits/application/1990E/introduction)
+[22-1990N  Education Benefits for National Call to Service application](https://staging.va.gov/education/apply-for-education-benefits/application/1990N/introduction)
+[22-5495  Education Change of Program or Training application](https://staging.va.gov/education/apply-for-education-benefits/application/5495/introduction)
+[22-5490  Education Benefits Application ](https://staging.va.gov/education/apply-for-education-benefits/application/5490/introduction)
 
-### File for disability compensation
-[Link to Form](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/veteran-information)
+**These forms use the profile address**
+
+----------
+
+Burials:
+
+[21P-530   Burial Benefits application](https://staging.va.gov/burials-and-memorials/application/530/introduction)
+[40-10007  Pre-need Burial benefits application](https://staging.va.gov/burials-and-memorials/pre-need/form-10007-apply-for-eligibility/burial-benefits)
+
+**These forms use the profile address**
+
+----------
+
+Pension:
+
+[21P-527EZ  Pension Benefits application](https://staging.va.gov/pension/application/527EZ/introduction)
+
+**This form uses the profile address**
+
+----------
+
+Health Care
+
+[10-10EZ  Health Care application](https://staging.va.gov/health-care/apply/application/introduction)
+
+**This form uses the profile address**
+
+----------
+
+[VA Records / Download VA benefits letters](https://staging.va.gov/records/download-va-letters/letters/confirm-address)
+
+**This form uses the same component as the /profile mailing address editor, changes to this address will update to /profile and changes from /profile will update here.**
