@@ -31,13 +31,6 @@ Walk us through how you went about testing the new left nav design on staging?
 Content workflow is working Prod > Staging > Dev
 
 - Kevin testing breadcrumb and left nav for Pittsburgh
-
-![Screen Shot 2019-12-18 at 1.16.58 PM](/Users/naomimarcussen/Library/Application Support/typora-user-images/Screen Shot 2019-12-18 at 1.16.58 PM.png)
-
-
-
-- Kevin testing breadcrumb and left nav for Pittsburgh
-
 - Change in march where content no longer moving with code
 - For testing the left nav - latest content with the latest code
 - Had to turn off continuous deployment
