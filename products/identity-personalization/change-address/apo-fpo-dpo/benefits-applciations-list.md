@@ -54,6 +54,8 @@ Health Care
 
 ----------
 
-[VA Records / Download VA benefits letters](https://staging.va.gov/records/download-va-letters/letters/confirm-address)
+VA Records
+
+[Download VA benefits letters](https://staging.va.gov/records/download-va-letters/letters/confirm-address)
 
 **This form uses the same component as the /profile mailing address editor, changes to this address will update to /profile and changes from /profile will update here.**
