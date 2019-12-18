@@ -16,7 +16,7 @@ This form uses the profile address and EVSS PCIU address. Profile address has pr
 
 [22-1995  Edith Nurse Rogers STEM scholarship](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction)
 
-[22-1990 . Application for VA Education Benefits](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction)
+[22-1990  Application for VA Education Benefits](https://staging.va.gov/education/apply-for-education-benefits/application/1990/introduction)
 
 [22-1990E  Education Benefits Transfer application  ](https://staging.va.gov/education/apply-for-education-benefits/application/1990E/introduction)
 
@@ -24,7 +24,7 @@ This form uses the profile address and EVSS PCIU address. Profile address has pr
 
 [22-5495  Education Change of Program or Training application](https://staging.va.gov/education/apply-for-education-benefits/application/5495/introduction)
 
-[22-5490  Education Benefits Application ](https://staging.va.gov/education/apply-for-education-benefits/application/5490/introduction)
+[22-5490  Education Benefits Application](https://staging.va.gov/education/apply-for-education-benefits/application/5490/introduction)
 
 These forms use the profile address.
 
