@@ -24,6 +24,7 @@ Provide tools and best-practices to enable VSP teams to accelerate development o
 |Integrated Testing|Consumer Driven Contract Testing|
 |Adherence and promotion of Design System to VSA teams|| 
 |FE Developer Tools|Yeoman|
+|FE Best-Practices and Optimizations||
 |Security Tools||
 |Performance Monitoring Tools||
 |Quality Tools||
