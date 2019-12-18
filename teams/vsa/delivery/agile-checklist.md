@@ -2,29 +2,37 @@ Use this checklist to assist you with your Ceremonies and process.
 
 ## Stand Up
 
-* Log in at least 1 minute before the meeting.
-* If needed, pull up the Zenhub board so tasks can be seen.
-* Pick someone to start.
-* Remind the team of 3 question format if it hasn’t been followed recently.
-* End within 15 minutes, making sure everyone has had a chance to speak. 
+1. Log in at least 1 minute before the meeting.
+2. If needed, pull up the Zenhub board so tasks can be seen.
+3. Pick someone to start.
+4. Remind the team of 3 question format if it hasn’t been followed recently.
+5. End within 15 minutes, making sure everyone has had a chance to speak. 
 
 ## Sprint Planning 
 
-* Open the Capacity Tracker and have it ready to share. 
-* Pull up past velocity for review. 
-* Verify that the columns past Current Sprint and In Progress are empty.
-* Log in at least 1 minute before the meeting. 
-* Kickoff the call once everyone joins and go over the velocity of the past Sprint. This will give the team an idea on how many Stories they think they can complete in the upcoming Sprint.
-* Go over the team Capacity by getting everyone’s availability over the next Sprint.
-* Speak about and display the goal of the Sprint. 
-* Share Zenhub board for team and start with the Backlog (this is usually the Ready Column but may start at the Backlog Column).
-* Starting with highest priority User Story:
-* Make sure the Story is clear and see if anyone has questions about it.
-* Have team decide who will work on item.
-* Move to Current Sprint Column.
-* Create tasks for the User Story and estimate hours per task. 
-* After User Stories are committed to, check with the capacity tracker to confirm that the team is not over or under committed. 
-* Verify with team and get commitment that this is the work they will complete during the Sprint. 
+**Pre-Planning**
+
+1. Open the Capacity Tracker and have it ready to share. 
+2. Pull up past velocity for review. 
+3. Verify that the columns past Current Sprint and In Progress are empty.
+4. Log in at least 1 minute before the meeting. 
+
+**Planning**
+
+1. Kickoff the call once everyone joins and go over the velocity of the past Sprint. This will give the team an idea on how many Stories they think they can complete in the upcoming Sprint.
+2. Go over the team Capacity by getting everyone’s availability over the next Sprint.
+3. Speak about and display the goal of the Sprint. 
+4. Share Zenhub board for team and start with the Backlog (this is usually the Ready Column but may start at the Backlog Column).
+5. Starting with highest priority User Story:
+...Make sure the Story is clear and see if anyone has questions about it.
+...Have team decide who will work on item.
+...Move to Current Sprint Column.
+...Create tasks for the User Story and estimate hours per task.
+
+**Implementation**
+
+1. After User Stories are committed to, check with the capacity tracker to confirm that the team is not over or under committed. 
+2. Verify with team and get commitment that this is the work they will complete during the Sprint. 
 
 ## Backlog Grooming/Refinement
 
