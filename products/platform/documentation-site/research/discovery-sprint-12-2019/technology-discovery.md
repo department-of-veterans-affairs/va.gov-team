@@ -37,7 +37,7 @@
    * https://docs.gitbook.com/integrations/google-analytics
    * https://docs.gitbook.com/integrations/github
 
-### ![https://www.algolia.com/](Algolia)
+### [https://www.algolia.com/](Algolia)
  * Pros
    * Does search really well
    * Autocomplete 
