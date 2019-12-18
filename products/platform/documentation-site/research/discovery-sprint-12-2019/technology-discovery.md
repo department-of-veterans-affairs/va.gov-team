@@ -5,13 +5,13 @@
  * Cons
    * COMING SOON
 
-### GitHub Pages
+### [GitHub Pages](https://pages.github.com/)
  * Pros
    * COMING SOON
  * Cons
    * COMING SOON
 
-### GitBook
+### [GitBook](https://www.gitbook.com/)
  * Pros
    * Collaborate asynchronously with your team comment and review drafts before publishing.
    * Share your knowledge publicly or privately with anyone or use a secret link to allow non-GitBook users to access your private content.
