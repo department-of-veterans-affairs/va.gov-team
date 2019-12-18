@@ -32,7 +32,7 @@
 The current VA.gov infrastructure was born from the idea of supporting the first site it was designed for Vets.gov. The original idea was to serve a few teams developing on the site in order to support our end users the Veterans by enabling them to learn about, apply, interact, and manage their VA benefits and services with ease. Now on VA.gov that underlying mission still hasn’t changed, but the size of the teams that want to work on our platform has. In order to support a growing number of teams developing on the platform and maintain our current quality of service our infrastructure needs a complete overhaul to meet the growing demand.
 
 ## User Problem Statement
-“As a team developing on VA.gov, I want to have a stable platform that allows my team and others to grow at our rate, empowering us to develop using best practices, so that we can create and expand upon great services for our Veterans.”  
+"The platform is supporting 13 different teams with a goal by next year to have 30, but VA.gov's infrastructure was not built for supporting multiple teams and services. We are already at a point where things are at their max and if nothing changes our infrastructure will make it harder for teams to develop on our platform and hinder future teams from joining."
 
 Currently, our infrastructure leads to many problems:
 Very long build times
@@ -44,7 +44,9 @@ Environment specific implicit configuration (difficult to spin up DVP Sandbox as
 Configuration bifurcation (authoritative configuration lives in multiple repos with multiple team owners)
 Local development
 Close coupling of system and service deployment (kernel patches go out with application deploys)
- 
+
+### User Story
+“As a team developing on VA.gov, I want to have a stable platform that allows my team and others to grow at our rate, empowering us to develop using best practices, so that we can create and expand upon great services for our Veterans.” 
 
 ## Solution Goals
 By separating services from the underlying infrastructure and adding service centric tooling we can enhance developer’s experience of the deployment lifecycle and provide a path to grow.
