@@ -2,7 +2,7 @@
 
 #### If VA Programs Exist
 
-{ In the VA Programs accordion, display the following content if one or more VA programs have been reported for a school: }
+{ In the VA Programs accordion, if one or more VA programs have been reported for a school, display the reported programs: }
 
 { Green checkmark icon } [Yellow Ribbon]()  
 { Green checkmark icon } [Principles of Excellence]()  
@@ -18,6 +18,6 @@
 
 #### If No VA Programs Exist
 
-{In the VA Programs accordion, display the following content if no VA programs have been reported for a school:}
+{In the VA Programs accordion, if no VA programs have been reported for a school, display the following content:}
 
 "Please contact the school or their military office directly for information on the Veteran programs they offer."  
