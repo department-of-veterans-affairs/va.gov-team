@@ -43,7 +43,7 @@ Pension:
 
 [21P-527EZ  Pension Benefits application](https://staging.va.gov/pension/application/527EZ/introduction)
 
-**This form uses the profile address**
+This form uses the profile address.
 
 ----------
 
