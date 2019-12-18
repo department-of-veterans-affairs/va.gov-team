@@ -1,3 +1,7 @@
+Context: When asked ["If you had the chance to create that ecosystem again, what would you do differently?"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/interview-notes.md#if-you-had-the-chance-to-create-that-ecosystem-again-what-would-you-do-differently-1) the author of our current Gatsby site said they would choose a 3rd party option. 
+
+Methodology: After looking at all of the potential features we'd like to have, I chose to take a depth-first approach to validate what features GitBook has, and attempt to test out how well those features work. - BF
+
 ## Options
 ### GitHub
  * Pros
