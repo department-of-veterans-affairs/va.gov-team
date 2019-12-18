@@ -40,3 +40,5 @@ APO AE 09355
 *12012 Sound Drive, Anderson Island, WA 98303* 
 
 *331 W Crawford St, Elkhart, IN 46514* 
+
+*2654 Chardonnay Ln Lodi, CA 95242*
