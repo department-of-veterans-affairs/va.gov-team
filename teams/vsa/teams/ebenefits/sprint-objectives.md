@@ -10,13 +10,27 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Remember the Call Center
 
 ----
-
-## Sprint 11 (12/18 - 12/31)
+## Sprint 11 (12/18 - 12/31) 🎄🎅
 ```diff 
-- TBD
+- 22 points over 7 issues
 ```
-### 1.
+### 1. Prepare "View My Rated Disabilities" for Launch
+- Implement final recommendations from initial reviews
+- Complete final reviews required to launch (508 {staging}, QA {staging})
+- Review the launch checklist and document any remaining gaps for launch procedures  
+  - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
 
+_Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
+
+### 2. Continue Developing Framework and API Connectivity for "View/Update Dependents" in Staging Environment
+- Design: Finalize mockups for "View Dependents" for review
+- Design: Create and refine lo-fi mocks for Dependency Claims ("Submit 686")
+- Frontend: Implement "View Dependents" MVP function per existing mockups in staging
+- Eng: Define and document in GitHub the existing endpoints
+- Eng: Document plans for addressing errors in 686 schema 
+- Eng: Implement new Dependents' API endpoints for View Dependents  
+  - [Epic for **View Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1393)  
+  - [Epic for **Update Dependents**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1976)  
 
 ## Sprint 10 (12/4 - 12/17)
 ```diff 
