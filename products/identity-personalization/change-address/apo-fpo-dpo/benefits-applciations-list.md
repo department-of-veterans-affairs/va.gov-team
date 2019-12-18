@@ -1,6 +1,7 @@
 
 ### **Final list:**
 
+
 ### Disability
 
 [21-526EZ Disability Comp Benefits application](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/veteran-information)
@@ -9,7 +10,7 @@ This form uses the profile address and EVSS PCIU address. Profile address has pr
 
 ----------
 
-### Education:
+### Education
 
 [22-0994  VETTEC program](https://staging.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/introduction)
 
@@ -29,7 +30,7 @@ These forms use the profile address.
 
 ----------
 
-Burials:
+### Burials
 
 [21P-530   Burial Benefits application](https://staging.va.gov/burials-and-memorials/application/530/introduction)
 [40-10007  Pre-need Burial benefits application](https://staging.va.gov/burials-and-memorials/pre-need/form-10007-apply-for-eligibility/burial-benefits)
@@ -46,7 +47,7 @@ Pension:
 
 ----------
 
-Health Care
+### Health Care
 
 [10-10EZ  Health Care application](https://staging.va.gov/health-care/apply/application/introduction)
 
@@ -54,7 +55,7 @@ Health Care
 
 ----------
 
-VA Records
+### VA Records
 
 [Download VA benefits letters](https://staging.va.gov/records/download-va-letters/letters/confirm-address)
 
