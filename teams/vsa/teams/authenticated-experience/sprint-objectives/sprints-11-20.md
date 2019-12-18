@@ -17,7 +17,7 @@ Sprint is 9 days with Christmas holiday.
 - Arthur: Dec 19, 23 – 26; 5 days of availability
 - Brad: Dec 18; 8 days of availability
 - Erik: Dec 23 – 24; 7 days of availability
-- Justin: Dec 26 – 27; 7 days of availability
+- Justin: Dec 24 – 27; 6 days of availability
 - Lihan: 26 – 31; 5 days of availability
 - Samara: Dec 24 – Dec 27; 6 days of availability
 - Tressa No time off except 12/25; 8 days of availability 
