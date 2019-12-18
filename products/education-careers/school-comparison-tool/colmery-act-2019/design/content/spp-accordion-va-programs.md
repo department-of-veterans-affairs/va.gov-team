@@ -2,7 +2,7 @@
 
 #### If VA Programs Exist
 
-{ In the VA Programs accordion, if one or more VA programs have been reported for a school, display the reported programs: }
+{ In the VA Programs accordion, if one or more VA programs have been reported for a school, display the reported programs in a single column. }
 
 { Green checkmark icon } [Yellow Ribbon]()  
 { Green checkmark icon } [Principles of Excellence]()  
@@ -12,9 +12,8 @@
 { Green checkmark icon } [Distance Learning]()  
 
 { *Note:* 
-* All items will appear in a single column 
-* Please remove sub-headings "Available at this campus" and "Not available at this campus"
-* The green checkmarks will remain }
+* Please remove the existing sub-headings "Available at this campus" and "Not available at this campus"
+
 
 #### If No VA Programs Exist
 
