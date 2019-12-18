@@ -50,21 +50,24 @@ Use this checklist to assist you with your Ceremonies and process.
 
 ## Sprint Retrospective
 
+**Pre-Planning**
+
+1. Setup a new Retrospective Board with columns using techniques such as: The Standard 3 Questions (What went well, what didn’t go well, what can we improve?), The 4 L’s (Liked, Lacked, Learned, Longed For), or the Starfish (More Of, Less Of, Keep Doing, Start Doing, Stop Doing).
+
 **Review**
 
-1. Open and review the previous Retro Board and action items. Discuss the action items and confirm they were attended to. 
-2. Ask the team if they agree that the items were resolved.
+1. Open and review the previous retrospective action items. Discuss and confirm if they were completed or not.
+2. Unfinished items may be brought into the next Sprint.
 
 **Facilitate**
 
-1. Start the timer for 5 minutes to allow the team to fill out the Retro board. 
-2. Share the board (if previously hidden) and start going over each item in the Went Well column. Celebrate the victories and make sure the team knows that they have improved.
-3. Go over each item in the To Improve column.
-4. Read out the item and ask for someone to speak to it. Give time to allow someone to speak up. 
-5. Get thoughts on the item and have others give their thoughts. 
-6. After all items are discussed, set up a timer (2 min usually) for people to vote on the items they think are most important. 
-7. Pick 2 or 3 of the top voted on items and discuss an Action item for each one. 
-8. Make sure the action item is well defined, detailed, and can be completed before the end of the next Sprint.
+1. Start the timer for 5 - 10 minutes to allow the team to fill out the Retro board. 
+2. Once finished, share the board and start discussing each item. If you have many items, you may need to have your team members vote on which 3 items they want to discuss the most.
+3. Be sure to read out each item and ask for the team to speak about it. Try not to speak about items yourself. Remain a neutral facilitator.
+4. As the team discusses items, try to work with them to create action items. 
+5. As a team, choose about 2 to 4 Action Items to complete next Sprint.
+6. Make sure each action item is well defined, assigned to a specific team member to be held accountable, and can be completed before the end of the next Sprint ends. 
+
 
 **Implementation**
 
