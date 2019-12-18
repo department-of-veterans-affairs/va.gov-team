@@ -63,8 +63,7 @@ To the best of our ability, this sprint's objective is to make sure all existing
 **Erik or Brad**
 
 - FE profile update (Erik or Brad)
-    - Note: This update can be built but not launched in sprint 11. This needs to be gated and can not go out before the benefit application updates. 
-- (*If our team is doing the work*) Start FE build (Erik or Brad) 
+- (*If our team is doing the work*) Start FE build on applications (Erik or Brad) 
 
 ### Onboarding Tressa
 
