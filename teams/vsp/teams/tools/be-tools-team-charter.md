@@ -104,10 +104,8 @@ If there is a new RED LIGHT URGENT work request, contact the Product Manager and
 - Paired Work as much as possible
 - Come ready to share during Mid-Sprint check-ins
 - Transparency is the way to spur collaboration
-  - Talk out loud in Slack (use threads of course)
+  - Talk out loud in Slack (Public Threads)
   - Spin up side bar conversations as much possible
-- Use FE Tools Team Notes Document
-  - Standup Notes and any group discussions or sidebars
 - Stay Data Driven, Customer-Focused
 
 #### Slack:
