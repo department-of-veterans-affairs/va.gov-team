@@ -49,6 +49,7 @@ https://www.va.gov/change-direct-deposit/
 - Additionally, the CTA will check a veteran's healthcare enrollment status and healthcare system registration status (1+ registered systems) before allowing opt-in, because there isn't really any point in allowing veterans to opt-in when they can't use the tool and letting them get that far would lead to disappointment.
 
 ### Option 2: Pure Feature Flipper
+tl;dr: use feature flipper's 'percent of logged in users' feature to gate who sees the CTA as well as who can access the app.
 #### `va.gov/health-care/schedule-view-va-appointments` [existing content page]
 - Some veterans will see an opt-in promo banner (or in-page alert / CTA) with a link to the new experience if they're already signed in
 - This new CTA will sit alongside the existing legacy VAOS / MHV CTA
