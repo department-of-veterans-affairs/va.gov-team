@@ -1,7 +1,6 @@
 ### VA Programs Accordion
-<p>&nbsp;</p>
 
-#### If VA Programs exist
+#### If VA Programs Exist
 
 { In the VA Programs accordion, display the following content if one or more VA programs have been reported for a school: }
 
@@ -16,9 +15,8 @@
 * All items will appear in a single column 
 * Please remove sub-headings "Available at this campus" and "Not available at this campus"
 * The green checkmarks will remain }
-<p>&nbsp;</p>
 
-#### If no VA Programs exist
+#### If No VA Programs Exist
 
 {In the VA Programs accordion, display the following content if no VA programs have been reported for a school:}
 
