@@ -10,6 +10,8 @@ A high-level summary of the goal the DSVA Product Lead would like to accomplish 
 
 Note: Code freeze between 12/23 - 1/3/2020.
 
+### [Sprint 11 Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4333)
+
 ### Time off
 
 Sprint is 9 days with Christmas holiday.
@@ -46,10 +48,14 @@ To the best of our ability, this sprint's objective is to make sure all existing
 - Address validation: Copy is missing a period [#4211](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4211)
 - Validation Keys do not work to override addresses in the profile [#4245](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4245)
 - Do not show the user any suggestions that are not "CONFIRMED" as deliverable [#4250](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4250)
+- The address validation modal remembers the last option you selected between opens and closes #4264
 - User should see the address they entered when going back to edit their address [#4271](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4271)
 - Sometimes we get validation keys but can't force the addresses through [#4278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4278)
 - Implementing address validation modal confirmation screen [#4282](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4282)
 - Review the flow for Address Validation Modal [#4283](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4283)
+- 1st attempt to force an overridable address works, 2nd+ fail #4327
+- In some cases picking a suggested address from the API will not work. #4328
+- In some cases address updates fail because we make a POST call instead of a PUT #4246
  
 ### APO/FPO/DPO
 
