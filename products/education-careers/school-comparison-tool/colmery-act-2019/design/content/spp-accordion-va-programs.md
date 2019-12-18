@@ -2,7 +2,7 @@
 
 #### If VA Programs Exist
 
-{ In the "VA Programs" accordion, if one or more VA programs have been reported for a school, display the reported programs in a single column. The program will continue to be hyperlinked}
+{ In the "VA Programs" accordion, if one or more VA programs have been reported for a school, display the reported programs in a single column. The program names will continue to be hyperlinked so users can view a description of each program.}
 
 { Green checkmark icon } [Yellow Ribbon]()  
 { Green checkmark icon } [Principles of Excellence]()  
