@@ -20,6 +20,9 @@ Stakeholders:
 
 
 ## Questions
+* How can we report on number of users affected?
+* Since SLOs are not currently defined for external services, what other metrics can we use to report a red/green status per service? (Possibly use latency averages?)
+* Do we currently have Sentry or PagerDuty alerts when request time latency goes above a certain threshold?
 
 
 ## Requirements
