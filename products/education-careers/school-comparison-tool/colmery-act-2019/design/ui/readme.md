@@ -78,7 +78,7 @@
 
 [GI Bill Comparison Tool 501, 111, 107 Updates v0.1](https://bahdigital.invisionapp.com/share/Z3IAAL95F2R)
 
-### Miscellaneous Prototypes:
+### Other Prototypes:
 
 [GIBCT - School Profile - Veteran Programs & Cautionary Information v0.0](https://bahdigital.invisionapp.com/share/R3IACBMBWFJ)<br>Work in Progress...
 
