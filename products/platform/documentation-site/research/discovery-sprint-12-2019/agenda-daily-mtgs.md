@@ -95,3 +95,17 @@
   - Optional: start putting together synthesis from interviews
 - Assign out notetakers and interviewers for interviews the next morning, if applicable
 - When do we synthesize interview feedback.
+
+---
+
+## Day Start Meeting Agenda
+- Assign notetaker for this meeting: Rachael
+- Review goal and activities for the day
+- Learnings
+
+## Day End Meeting Agenda
+- Assign notetaker for this meeting
+- Roundtable of takeaways
+- Revisit goal progress for the day
+- Assign out necessary tasks to finish goal for the day
+- Assign out notetakers and interviewers for interviews the next morning, if applicable
