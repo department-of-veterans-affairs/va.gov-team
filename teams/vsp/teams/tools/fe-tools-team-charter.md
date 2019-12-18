@@ -5,7 +5,7 @@
 ## Why we're here
 
 ### North Star:
-Provide innovators a comprehensive and organized toolbox to achieve success.
+Enable VA to build digital tools at scale that improve Veterans’ lives.
 
 ### Product Suite (if applicable): 
 VSP Platform Team
@@ -19,11 +19,14 @@ Provide tools and best-practices to enable VSP teams to accelerate development o
 |----|----|
 |Front End Security |CORS, CSP| 
 |Form System | |  
-|Documentation Website | Gatsby, New System| 
+|Documentation Website | Gatsby | 
 |FE Operations|Build Process |
-|Automated Testing|Consumer Driven Contract Testing|
+|Integrated Testing|Consumer Driven Contract Testing|
 |Adherence and promotion of Design System to VSA teams|| 
 |FE Developer Tools|Yeoman|
+|Security Tools||
+|Performance Monitoring Tools||
+|Quality Tools||
 
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
