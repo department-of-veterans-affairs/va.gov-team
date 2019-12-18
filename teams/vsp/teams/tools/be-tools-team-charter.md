@@ -16,6 +16,12 @@ Maintain and track the stability, performance and health of the platform for eve
 
 ### Product Portfolio:
 
+ - Sentry
+ - Ruby/Rails (including upgrades)
+ - Version Control of other systems.
+ - Triage service
+ - vets-api
+ - Identity (?)
 
 _List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
 
@@ -69,12 +75,7 @@ _List of products within your team's perview - make sure the list of products he
 - When: 2nd Wednesday of every sprint
 - Duration: 30 min
 - Details:
-  - How is discovery going?
-    - Do we know enough yet to say "yay" or "nay"?
-    - Should we pivot to something else?
-    - Did we learn something new that we should document for the future?
-    - Do we have documentation ready to link of our progress?
- - Can you demo progress of your work for the team to see?
+  - Walking the board
 
 
 #### Grooming
