@@ -36,29 +36,37 @@ Use this checklist to assist you with your Ceremonies and process.
 
 ## Backlog Grooming/Refinement
 
-* Prior to meeting, add new User Stories if they have not been added yet. 
-* Open the team Zenhub board, and start with the next Tasks that are not in the current Sprint.
-* Allow the PO to present the goal for the next Sprint. If not the PO, then you will provide the goal of the next Sprint. 
-* Go through each Story:
-* Add new tasks.
-* Remove tasks that are no longer needed.
-* Change priority.
-* Change Acceptance Criteria if needed.
-* Confirm with the team that the Backlog looks ready for the next two Sprints.
+1. Prior to meeting, add new User Stories if they have not been added yet. 
+2. Open the team Zenhub board, and start with the next Tasks that are not in the current Sprint.
+3. Allow the PO to present the goal for the next Sprint. If not the PO, then you will provide the goal of the next Sprint. 
+4. Go through each Story:
+5. Add new tasks.
+6. Remove tasks that are no longer needed.
+7. Change priority.
+8. Change Acceptance Criteria if needed.
+9. Confirm with the team that the Backlog looks ready for the next two Sprints.
 
 
 
 ## Sprint Retrospective
 
-* Open and review the previous Retro Board and action items. Discuss the action items and confirm they were attended to. 
-* Ask the team if they agree that the items were resolved.
-* Start the timer for 5 minutes to allow the team to fill out the Retro board. 
-* Share the board (if previously hidden) and start going over each item in the Went Well column. Celebrate the victories and make sure the team knows that they have improved.
-* Go over each item in the To Improve column.
-* Read out the item and ask for someone to speak to it. Give time to allow someone to speak up. 
-* Get thoughts on the item and have others give their thoughts. 
-* After all items are discussed, set up a timer (2 min usually) for people to vote on the items they think are most important. 
-* Pick 2 or 3 of the top voted on items and discuss an Action item for each one. 
-* Make sure the action item is well defined, detailed, and can be completed before the end of the next Sprint.
-* Assign an individual (or have someone volunteer) to be tasked with completing this action item. Do not assign an action item to the whole team, it must be an individual. 
-* Confirm with the team on the action items and the commitment to complete them. 
+**Review**
+
+1. Open and review the previous Retro Board and action items. Discuss the action items and confirm they were attended to. 
+2. Ask the team if they agree that the items were resolved.
+
+**Facilitate**
+
+1. Start the timer for 5 minutes to allow the team to fill out the Retro board. 
+2. Share the board (if previously hidden) and start going over each item in the Went Well column. Celebrate the victories and make sure the team knows that they have improved.
+3. Go over each item in the To Improve column.
+4. Read out the item and ask for someone to speak to it. Give time to allow someone to speak up. 
+5. Get thoughts on the item and have others give their thoughts. 
+6. After all items are discussed, set up a timer (2 min usually) for people to vote on the items they think are most important. 
+7. Pick 2 or 3 of the top voted on items and discuss an Action item for each one. 
+8. Make sure the action item is well defined, detailed, and can be completed before the end of the next Sprint.
+
+**Implementation**
+
+1. Assign an individual (or have someone volunteer) to be tasked with completing this action item. Do not assign an action item to the whole team, it must be an individual. 
+2. Confirm with the team on the action items and the commitment to complete them. 
