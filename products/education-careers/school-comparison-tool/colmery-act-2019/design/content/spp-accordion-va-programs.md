@@ -1,8 +1,8 @@
-### VA Programs Accordion
+### GIBCT School Profile Page "VA Programs" Accordion
 
 #### If VA Programs Exist
 
-{ In the VA Programs accordion, if one or more VA programs have been reported for a school, display the reported programs in a single column. }
+{ In the "VA Programs" accordion, if one or more VA programs have been reported for a school, display the reported programs in a single column. }
 
 { Green checkmark icon } [Yellow Ribbon]()  
 { Green checkmark icon } [Principles of Excellence]()  
@@ -17,6 +17,6 @@
 
 #### If No VA Programs Exist
 
-{In the VA Programs accordion, if no VA programs have been reported for a school, display the following content:}
+{In the "VA Programs" accordion, if no VA programs have been reported for a school, display the following content:}
 
 "Please contact the school or their military office directly for information on the Veteran programs they offer."  
