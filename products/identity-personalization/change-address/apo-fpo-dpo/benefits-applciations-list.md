@@ -51,7 +51,7 @@ Pension:
 
 [10-10EZ  Health Care application](https://staging.va.gov/health-care/apply/application/introduction)
 
-**This form uses the profile address**
+This form uses the profile address.
 
 ----------
 
