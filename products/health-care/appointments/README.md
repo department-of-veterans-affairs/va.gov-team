@@ -16,7 +16,15 @@
   - VAOS Suite Project Manager: Judy Mercado (judy.mercado@va.gov)
   - VA.gov Health Product Owner: Lauren Alexanderson (lauren.alexanderson@va.gov)
   - Eng Lead: Stephen Barrs (stephen.barrs@va.gov)
-  - Architect: Kam Karshenas (kam@adhocteam.us / kamyar.karshenas@va.gov)
+  - Frontend Engineers:
+    - Jeff Balboni (jeff@adhocteam.us)
+    - Narin Ratana (narin@adhocteam.us)
+    - Jennie McGibney (jennie.mcgibney@va.gov)
+    - Tony Williams (tony.williams@va.gov)
+  - BE Engineers:
+    - Kam Karshenas (kam@adhocteam.us)
+    - Alastair Dawson (alastair@adhocteam.us)
+    - Steven Brush (steven.brush@va.gov
   - Product Manager: Mark Greenburg (mark.greenburg@adhocteam.us / mark.greenburg@va.gov)
 
 ---
