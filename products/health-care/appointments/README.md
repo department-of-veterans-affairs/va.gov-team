@@ -15,6 +15,7 @@
   - VAOS Suite Program Manager: Eric Hopkins (eric.hopkins@va.gov)
   - VAOS Suite Project Manager: Judy Mercado (judy.mercado@va.gov)
   - VA.gov Health Product Owner: Lauren Alexanderson (lauren.alexanderson@va.gov)
+  - Lead Designer: Ryan Thurlwell (ryan.thurlwell@va.gov)
   - Eng Lead: Stephen Barrs (stephen.barrs@va.gov)
   - Frontend Engineers:
     - Jeff Balboni (jeff@adhocteam.us)
