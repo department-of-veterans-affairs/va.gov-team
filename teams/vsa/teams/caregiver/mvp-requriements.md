@@ -24,3 +24,7 @@ Before we launch:
 - Find the page (where on caregiver.va.gov)
 - SEO
 - Full integration with CARMA
+
+From call with Caregiver National Team:
+- Signed/certified all parties
+- Designated to the correct facility for processing
