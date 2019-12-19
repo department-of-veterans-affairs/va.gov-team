@@ -1,14 +1,15 @@
 # Highlights of research focused on EDU priorities for 2020 Q1
 
 ## Topics
-* STEM Scholarship
-* Caution flags
+* STEM Scholarship Application Routing
+* Reduce Veteran Risk in School Selection
+* Yellow Ribbon
+* Caution Flag UI Update
 * Yelp-style Reviews
 * Ability for providers to update their own content
-* Yellow Ribbon
 <p>&nbsp;</p>
 
-## STEM Scholarship
+## STEM Scholarship Application Routing
 
 #### EDU Enhancements Deck (2017)
 * No mention
@@ -27,13 +28,28 @@
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af67fb60c2f4ccfc41c90bfd8e8209/products/education-careers/stem/design/education-benefits-wizard-update.md
 
 <p>&nbsp;</p>
-
-## Caution flags
+## Reduce Veteran Risk in School Selection
 
 #### EDU Enhancements Deck (2017)
 * Make caution flags more comprehensible and searchable on Search Results Page and Profile Page.
     * Search Results - School Cards
     * Profile - Dashboard alerts & Cautionary Information accordion
+
+#### Prioritized Enhancements XLS (Fall 2019)
+* 
+
+#### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
+* 
+
+#### BAH Team GIBCT Research (2019)
+*
+<p>&nbsp;</p>
+
+## Yellow Ribbon
+
+#### EDU Enhancements Deck (2017)
+* In addition to indicating that a school participates in the Yellow Ribbon program, the original vision was to display a link to Yellow Ribbon rates under Veteran Programs accordion. 
+  * Determine whether the YR rate can be institution-specific.
 
 #### Prioritized Enhancements XLS (Fall 2019)
 * No mentions
@@ -42,7 +58,20 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
 * Note...
 
 #### BAH Team GIBCT Research (2019)
-* Note...
+* Veterans find determining and understanding Yellow Ribbon benefits challenging.
+   * Upon landing on the School Profile page, one user was unsure if the school offered Yellow Ribbon benefits. Later he noticed it did, but had to scroll around for a while to determine this. 
+   * Users did not notice the link to the list of Yellow Ribbon Schools. 
+   * Users were confused by the following Yellow Ribbon alert box.
+   * One mentioned an interest in seeing a list of Yellow Ribbon schools
+   * Some Veterans would click the "Learn more" link for Yellow Ribbon and Kicker.
+   * “I don't know if the school is Yellow Ribbon.” -P3
+   * “What is [the Yellow Ribbon alert] referring to? It says 99k.” - P1
+   * “When I click on the link that says “Learn more” about the yellow ribbon, it just tells me what the yellow ribbon is, but it doesn’t give me a list of the schools that accept yellow ribbon. That would be good information.” - P3
+   * SCOs have noticed that Veterans have misconceptions about the Yellow Ribbon program. Many assume it's a supplemental scholarship. It’s primarily relevant for private institutions and out of state waivers.
+   * Recommendation: Make the link to the existing VA.gov Yellow Ribbon page more prominent, so users
+understand eligibility requirements and can view a list of participating schools.
+   * Recommendation: Modify or add context around why the following appears: "Maximum amount per student:$99,999/yr" and "Number of students: 99999". 
+   * Recommendation: Make the school’s participation in the Yellow Ribbon program more prominent.
 <p>&nbsp;</p>
 
 ## Yelp-style Reviews
@@ -78,11 +107,12 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
 * Schools would like to be able to enter their most popular programs
 <p>&nbsp;</p>
 
-## Yellow Ribbon
+## Caution Flag UI Update
 
 #### EDU Enhancements Deck (2017)
-* In addition to indicating that a school participates in the Yellow Ribbon program, the original vision was to display a link to Yellow Ribbon rates under Veteran Programs accordion. 
-  * Determine whether the YR rate can be institution-specific.
+* Make caution flags more comprehensible and searchable on Search Results Page and Profile Page.
+    * Search Results - School Cards
+    * Profile - Dashboard alerts & Cautionary Information accordion
 
 #### Prioritized Enhancements XLS (Fall 2019)
 * No mentions
@@ -91,20 +121,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
 * Note...
 
 #### BAH Team GIBCT Research (2019)
-* Veterans find determining and understanding Yellow Ribbon benefits challenging.
-   * Upon landing on the School Profile page, one user was unsure if the school offered Yellow Ribbon benefits. Later he noticed it did, but had to scroll around for a while to determine this. 
-   * Users did not notice the link to the list of Yellow Ribbon Schools. 
-   * Users were confused by the following Yellow Ribbon alert box.
-   * One mentioned an interest in seeing a list of Yellow Ribbon schools
-   * Some Veterans would click the "Learn more" link for Yellow Ribbon and Kicker.
-   * “I don't know if the school is Yellow Ribbon.” -P3
-   * “What is [the Yellow Ribbon alert] referring to? It says 99k.” - P1
-   * “When I click on the link that says “Learn more” about the yellow ribbon, it just tells me what the yellow ribbon is, but it doesn’t give me a list of the schools that accept yellow ribbon. That would be good information.” - P3
-   * SCOs have noticed that Veterans have misconceptions about the Yellow Ribbon program. Many assume it's a supplemental scholarship. It’s primarily relevant for private institutions and out of state waivers.
-   * Recommendation: Make the link to the existing VA.gov Yellow Ribbon page more prominent, so users
-understand eligibility requirements and can view a list of participating schools.
-   * Recommendation: Modify or add context around why the following appears: "Maximum amount per student:$99,999/yr" and "Number of students: 99999". 
-   * Recommendation: Make the school’s participation in the Yellow Ribbon program more prominent.
+* Note...
 <p>&nbsp;</p>
 
 ## Guidance from DEPO-EDU Roadmap
