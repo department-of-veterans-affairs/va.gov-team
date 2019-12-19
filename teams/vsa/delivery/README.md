@@ -4,13 +4,13 @@ Delivery of VSA work currently happens in 2 week sprints, informed by high level
 
 There are a handful of key goals for VSA Sprint Objectives:
 
-`1.` Via the act of setting them, serve as a gut check that your prioritizations and the evolution of your features and services are in line with the strategic objectives of VSA overall.
+1. Via the act of setting them, serve as a gut check that your prioritizations and the evolution of your features and services are in line with the strategic objectives of VSA overall.
 
-`2.` Give DSVA an idea of what you'll be taking on and why (i.e. the impact you hope to achieve with that work) so they can provide feedback based on their priorities and based on other VA-wide info they may be aware of.
+2. Give DSVA an idea of what you'll be taking on and why (i.e. the impact you hope to achieve with that work) so they can provide feedback based on their priorities and based on other VA-wide info they may be aware of.
 
-`3.` Via transparency into our planning and status report, enable DSVA to perform their contractual duty and pay us based on how well we fulfilled our commitments.
+3. Via transparency into our planning and status report, enable DSVA to perform their contractual duty and pay us based on how well we fulfilled our commitments.
 
-`4.` Surface opportunities for cross-collaboration, and spur cross-team discussion where needed.
+4. Surface opportunities for cross-collaboration, and spur cross-team discussion where needed.
 
 ## How to brainstorm Sprint Objectives
 
@@ -23,7 +23,7 @@ There are a handful of key goals for VSA Sprint Objectives:
 
 ## How to write Sprint Objectives
 - State an intended outcome and value proposition, not an individual task.
-- Format: _We will..._ `[Verb] _______ so that [intended  audience] can ________.`
+- Format: _We will..._ [Verb] _______ so that [intended  audience] can ________.
 - They should usually be small enough that they will be acheived in 1 Sprint.
 - Link objectives to the epic they are a part of
 - Don't be _too_ ambitious in the volume and scope for the sprint, leave about 20% space for unexpected work or challenges.
