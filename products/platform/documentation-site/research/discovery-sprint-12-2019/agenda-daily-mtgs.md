@@ -135,3 +135,26 @@
   - Additional problem to solve: how do we make editing process/approvals flow easier?
   - Additional problem to solve: don't know what technical docs I'm responsible for creating or maintaining
 
+## Day 4 Start Meeting Agenda
+- Assign notetaker for this meeting: Rachael
+- Review goal and activities for the day: 
+- Updated Product Outline, interesting assumption that we haven't really validated yet: that ppl need to contribute/collaborate on their own docs, and access Platform How To / Why docs frrom the same place.
+- Started discovery readout
+- Got thoughts together about what we've done, 
+- Recommend "consolidated homepage with search, navigation, and insights"
+- Insights dashboard not critical to prototype and test in this sprint
+- File changelog, important for accountability of misinformation. Actually embedded on the file? Or linked to from the file? TBD what the design of it is, but let's include it.
+- "Date last reviewed" this wouldn't be on every file, but might still be worth testing to see whether that's valuable/whether the concept makes sense since we don't have that concept yet. 
+- Differentiation btwn technical and non-technical team members, and friction is one of the biggest things that'll prevent adoption. Is friction different for those 2 groups? Like GitHub is friction for non-tech ppl, but NOT GitHub is friction for tech ppl. 
+- Do we give a team the autonomy to document as they see fit, and make sure it's searchable and stuff? LIke a dev building a reeadme and us being able to pick it up and convert it presentably w/gitbook? And in reverse, if you put something in through a wiziwig and our crawler picks it up?. As a dev, I don't care if it's in confluence or something else, I just want it to be there and presentable.
+- Validate the need for a wysiwyg. We heard in 18F user interviews that md isn't that hard and non tech ppl will figure it out.
+- Tech: tried to answer outstanding questions about gitbook and map back to features we've prioritized. It can sync repos, it has analytics, table of contents and sidebars for pages, has interpage navigation and intra-page TOC for the page. Seems to infer 
+- 
+
+
+## Day 4 End Meeting Agenda
+- Assign notetaker for this meeting
+- Roundtable of takeaways
+- Revisit goal progress for the day
+- Assign out necessary tasks to finish goal for the day
+- Assign out notetakers and interviewers for interviews the next morning, if applicable
