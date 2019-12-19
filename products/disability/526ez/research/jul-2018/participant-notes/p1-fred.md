@@ -1,10 +1,8 @@
-# Self Service Claim for Increase, 7-14-2018, Fred Ernst
+# Self Service Claim for Increase, 7-14-2018, Fred
 
 - DAV member, represented by DAV
 - came into DAV claim clinic to submit a PTSD claim for increase
-- Assisted by [Michael Zibrida](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/july-2018/VSO%20Notes/vso1-mike.md)
-
-
+- Assisted by Michael 
 
 ## User Interview Notes
 
@@ -17,11 +15,11 @@
   - Doesn't view the VA as an online business, doesn't trust that the VA will keep his information safe
   - Thinks that his information is likely going to fall into the wrong hands if its put into the VA digitally and then will be used for something other than helping veterans
 
-![step 1: prepare](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/july-2018/Participant%20Notes/526-1-prepare.png)
+![step 1: prepare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2018/participant-notes/526-1-prepare.png)
 
 - "I would bag it." doesn't have records on hand. would five up/wouldn't bother at this point, assumes friends would too. 
 
-![step 3: va review](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/july-2018/Participant%20Notes/526-3-va-review.png)
+![step 3: va review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2018/participant-notes/526-3-va-review.png)
 
 - called 99 days a misnomer. " if it wasn't for the DAV helping me i'd still be trying to fill out forms"
 
@@ -29,7 +27,7 @@
 
 - assumes it would take it more like 50-60 minutes, acknowledges that it takes him longer to fill out online forms
 
-![sign in and verify button](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/july-2018/Participant%20Notes/526-sign-in-and-verify-button.png)
+![sign in and verify button](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2018/participant-notes/526-sign-in-and-verify-button.png)
 
 - tried logging in with DS logong because assumed it's the easiest option
   - Asked why he selected this method for signing in: didn't know what DS logon or any of the other options actually were, but chose this one becuase assumed it was the easiest
