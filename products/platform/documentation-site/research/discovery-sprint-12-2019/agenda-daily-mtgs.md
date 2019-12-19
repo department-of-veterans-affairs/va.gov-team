@@ -153,8 +153,14 @@
 - Algolia: higher level search. Doc search will only work for a specific subset of things they allow, has to be public, etc. Not sure if it'll be the best all-encompassing umbrella solution. If not that, could we still use indexing and search capabilities? If no, what do we do to search across multi repos?
 
 ## Day 4 End Meeting Agenda
-- Assign notetaker for this meeting
+- Assign notetaker for this meeting: Rachael
 - Roundtable of takeaways
+  - Discovery sprints in general: have only done sketching and straight to prototyping, but even though yesterday was long and difficult, I'm glad we did it bc more informed way of deciding what to design today
+  - It's Day 4 and found out VA Network doesn't provide access to GitBook, may have been something to consider earlier on. Could have shaped the options we consider. Might not change recommendation, but may have been something to be aware of from the start.
+  - We've been trying to come up w/a solution that works for both tech and non tech users, maybe for MVP we should have prioritized one group over another and solve first for a segment that has more of a problem. Vs both in one MVP.
+  - Coming out of yesterday w/a list of features was a more carefully thought-through list of features, and that is almost the core of our recommendation and informs so much of what we will end up reporting out. Still need more on how to actually implement, but often have just come up w/set of MVP fearures by thinking ppl need this or don't, and excited to see what happens w/carefully thought-through wysiwyg question.
+  - How are we going to actually get this test out? Get results? Analyze the results? Make a rec? All in Friday.
+  
 - Revisit goal progress for the day
 - Assign out necessary tasks to finish goal for the day
 - Assign out notetakers and interviewers for interviews the next morning, if applicable
