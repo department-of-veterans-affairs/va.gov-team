@@ -4,7 +4,7 @@
 1. What product & team are you doing this research for?
   - The purpose of this discovery research is to form the basis for building personas for the users of the Veteran-facing Services Platform.
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
-  - The Veteran-facing Services Platform (VSP) is the method/process by which VA can scale its capacity for building new, high-quality, digital applications and services for Veterans. [Read more here.](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Platform%20Support#problem-statement) This research will help us understand the experiences of the external teams that build on the VSP, and the internal teams that support them. We will use it to create more complete and useful services, checkpoints, and documentation, and reduce the friction and challenges that come with building and launching digital products. 
+  - The Veteran-facing Services Platform (VSP) is the method/process by which VA can scale its capacity for building new, high-quality, digital applications and services for Veterans. This research will help us understand the experiences of the external teams that build on the VSP, and the internal teams that support them. We will use it to create more complete and useful services, checkpoints, and documentation, and reduce the friction and challenges that come with building and launching digital products. 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
   - What challenges do teams at various stages of the project?
   - How do teams feel at various stages of the project?
