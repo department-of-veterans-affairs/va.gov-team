@@ -2,7 +2,6 @@
 
 ## Intake Product
 
-- Caseflow Intake product documentation: https://github.com/department-of-veterans-affairs/appeals-design-research/tree/master/Project%20Folders/Caseflow%20Projects/Intake
 - Training video for Intake (Compensation and Pension benefit types): https://www.youtube.com/watch?v=msYO-hEnG2A
 
 ## AMA Forms
@@ -19,9 +18,9 @@
 
 ## Code
 
-- The 526EZ form on va.gov: https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/disability-benefits/526EZ
-- Rated disabilities from the EVSS API: https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/evss/disability_compensation_form/rated_disabilities.rb
+- The 526EZ form on va.gov: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/forms/vaf-21-526ez-may-2018.pdf
+- Rated disabilities from the EVSS API: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/rated-disabilities
 
 ## General
 
-- Staging user list: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv
+- Staging user list: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv
