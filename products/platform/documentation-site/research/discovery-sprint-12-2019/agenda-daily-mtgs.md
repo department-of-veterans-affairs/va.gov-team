@@ -160,7 +160,11 @@
   - We've been trying to come up w/a solution that works for both tech and non tech users, maybe for MVP we should have prioritized one group over another and solve first for a segment that has more of a problem. Vs both in one MVP.
   - Coming out of yesterday w/a list of features was a more carefully thought-through list of features, and that is almost the core of our recommendation and informs so much of what we will end up reporting out. Still need more on how to actually implement, but often have just come up w/set of MVP fearures by thinking ppl need this or don't, and excited to see what happens w/carefully thought-through wysiwyg question.
   - How are we going to actually get this test out? Get results? Analyze the results? Make a rec? All in Friday.
-  
 - Revisit goal progress for the day
 - Assign out necessary tasks to finish goal for the day
+  - Megan: schedule 30 min to pick Rian and Jeff's brains.
+  - Mikki: send test to vfs-all-teams and other channels, let Leah, Patrick, Kevin know so they can encourage ppl to fill it out
+  - All: continue other work in progress
 - Assign out notetakers and interviewers for interviews the next morning, if applicable
+  - JHL, **notetaker: Dan (or Crystabel if there's a conflict), moderator: Megan**
+  - Rian, **notetaker: Megan, moderator: Bill**
