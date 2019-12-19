@@ -104,11 +104,3 @@ Great, is it ok for Perigean to send that gift to the same address we used to co
 Thanks! Lastly, would you like to share this feedback opportunity with other Veterans or Veteran groups you're a part of? If so, I can send you an email with a little blurb so you can easily connect folks to our team.
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides (__note: these links point to documentation on the vets.gov-team GitHub repo__)
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Scheduling/research/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Veteran%20Identification%20Card%20v2/research/discovery/discovery_conversation_guide.md)
-- [Personalization MVP Usability](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Personalization/research/April%202018%20usability/Conversation%20Guide%20%E2%80%93%20Profile%2C%20Dashboard%2C%20Settings%20MVP.md)
-- [Discharge Wizard: Sensitive Topic, Usability](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Discharge%20Update/Research/ConversationGuide.md)
-
