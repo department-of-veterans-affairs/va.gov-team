@@ -31,7 +31,7 @@
 - [x] Start working on content with SO company and Communicate Health and work with Mary Ann to draft new content plan doc --> Suzanne
   - [x] Non-design / Non-tech issues to investigate
 - [x] Begin testing phase
-  - [x] Fill out Mary Ann's [Research Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/250) for requesting user research --> Suzanne
+  - [x] Fill out Mary Ann's Research Brief for requesting user research --> Suzanne
   - [x] Start logistics for usability testing --> Suzanne
 
 ## WEEK 4: 9/6/16 - 9/9/16
