@@ -13,7 +13,7 @@ Here is the list of use cases the V2 team put together for the future of appeals
 - As an claimant/ appellant, I want to get a notification for when my appeal changed so that I don't have to check my status everyday. 
 - As a Veteran who uses [Vets.gov] to track and manage my benefits, I want a quick and easy way to understand my claim status on a dashboard.
 
-Most of these scenarios call for a case where a Veteran-facing tool needs to [connect the appeals and claims endpoints](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/V2/Future%20of%20Claims%20and%20Appeals%20Status.key), creating a single story of a Veteran's claim and providing a better understanding of the Appeals Modernization Act.
+Most of these scenarios call for a case where a Veteran-facing tool needs to [connect the appeals and claims endpoints](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/v2/future-of-claims-and-appeals-status.key), creating a single story of a Veteran's claim and providing a better understanding of the Appeals Modernization Act.
 
 
 Wireframes for an AMA world. 
