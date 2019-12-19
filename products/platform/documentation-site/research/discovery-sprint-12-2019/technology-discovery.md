@@ -36,7 +36,8 @@ Methodology: After looking at all of the potential features we'd like to have, I
    * You can use Google Analytics to track your project's traffic and page views!
    * A bi-directional GitHub integration. The integration with GitHub is very easy to use: if you change your content on GitBook, your edits are pushed to a GitHub repository. Conversely, commits pushed to a GitHub repository are imported.
  * Cons
-   * COMING SOON
+   * Not currently accessible on VA network
+   * There are repo-level books, but there doesn't seem to be organizational level books (no search across multiple repos)
  * References
    * https://docs.gitbook.com/#with-gitbook-you-can
    * https://www.gitbook.com/pricing
@@ -58,6 +59,24 @@ Methodology: After looking at all of the potential features we'd like to have, I
    * TalkSearch - Will index videos and video content to make searchable. Will link users to moment in video referenced.
    * Configureable search attributes
    * Configurable custom rankings
+ * Cons
+   * COMING SOON
+
+### Conflence
+ * Pros
+   * COMING SOON
+ * Cons
+   * COMING SOON
+
+### Gatsby (current implementation)
+ * Pros
+   * COMING SOON
+ * Cons
+   * COMING SOON
+
+### Gatsby (new implementation)
+ * Pros
+   * COMING SOON
  * Cons
    * COMING SOON
 
