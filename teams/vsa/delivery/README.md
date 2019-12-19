@@ -42,3 +42,32 @@ Details on the ceremonies can be found in the [Agile Ceremonies Overview Page](h
 ## Ceremonies Checklist
 
 In order to make sure value is attained in each ceremony, VSA teams also have an [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/delivery/agile-checklist.md). 
+
+
+# Product Requirements
+
+Product requirements are the backbone of every VSA team: 
+
+1. They define the scope of work on a product.
+1. They inform the Product Team what is expected of them. 
+1. They organize work into logical groupings from broad ideas (Epics) all the way down to specific, and manageable pieces of work(Stories/Issues)
+1. They provide traceability back from the finished product to the veteran's original ask
+
+Essentially, a requirement is a way to describe what needs to be implemented. Requirements need to be elaborated in enough detail to provide a clear understanding of the need, but flexible enough to change throughout the product’s lifecycle and to accommodate the ever-changing landscape of the industry. On VSA, requirements are broken down into 3 categories, **Epics, Issues, and Bugs**
+
+## Epics
+
+Epics are a high level business needs and expressed the strategic intent in plain, clear language. There is an EPIC TEMPLATE 
+
+## Issues
+
+Issues (also known are User Stories) are decomposed Epics that can be completed within a single sprint. Issues describe a specific functionality that delivers direct business value. Here is the USER STORY TEMPLATE
+
+## Bugs
+
+Bugs are errors found in usage of the VSA Products. Here is the BUG TEMPLATE
+
+
+
+
+
