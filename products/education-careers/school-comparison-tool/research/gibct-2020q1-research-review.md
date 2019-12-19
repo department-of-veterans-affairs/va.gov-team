@@ -11,16 +11,21 @@
 ## STEM Scholarship
 
 #### EDU Enhancements Deck (2017)
-* Note...
+* No mention
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* Note...
+* 
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
-* Note...
+* 
 
 #### BAH Team GIBCT Research (2019)
-* Note...
+* STEM Discovery Research Readout May 15, 2019
+  https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af67fb60c2f4ccfc41c90bfd8e8209/products/education-careers/stem/research/va-discovery-research-readout-stem-form.pdf
+* STEM Prototype Research Readout Date ##, 2019
+* Wizard Copy update to include STEM
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af67fb60c2f4ccfc41c90bfd8e8209/products/education-careers/stem/design/education-benefits-wizard-update.md
+
 <p>&nbsp;</p>
 
 ## Caution flags
