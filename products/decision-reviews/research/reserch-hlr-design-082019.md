@@ -60,7 +60,7 @@ As many veterans we can talk to that fit the following criteria. Ideally 10 – 
 
 ### Resources
 - Project Brief [Will be linked here]
-- [Discussion Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Decision%20Reviews/Research%20and%20Design/research_HLRpilot_script.md) 
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/research/research-hlrpilot-script.md) 
 - Notes & Recordings [Will be linked here]
 - Synthesis [Will be linked here]
 - Lessons Learned [Will be linked here]
