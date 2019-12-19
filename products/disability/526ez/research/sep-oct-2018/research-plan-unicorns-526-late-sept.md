@@ -48,7 +48,7 @@ Please list the people who will be serving in each role.
 
 ## Resources
 - Project Brief: 
-  https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/README.md
+  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/readme.md
 - Discussion Guide
   *Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
 
@@ -61,4 +61,4 @@ Please list the people who will be serving in each role.
   *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 
 - Read-Out/Results
   - *Read-out presentation should live in the appropriate vetsdotgov-team product folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
