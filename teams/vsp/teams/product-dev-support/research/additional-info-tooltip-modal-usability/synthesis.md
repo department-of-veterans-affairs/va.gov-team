@@ -10,7 +10,7 @@ Links tested:
 
 ## Insights and Recommendations
 
-* Accordion works well if you have links off to deeper content. 
+* The accordion pattern works well if you have links off to deeper content. 
 * Tooltips are nice if you need a parenthetical aside to your label. 
 * People had trouble remembering the content of the modal component once they closed out of it. 
 * Traumatic brain injuries are the most common injury among veterans. People have issues with cognition/attention. 
@@ -26,3 +26,8 @@ Links tested:
 * Javascript tool tips were very difficult to use and broke users' expectations. Many users were not able to click on the tool tip which further confused them because previous "Learn more" were clickable. In the future we should stick with CSS tooltips that activate on tap or hover. 
 
 * There should be some differentiation between "Learn more" accordion and "Learn more" tool tip — accordion could have a carat. Tool tip could have different language, such as the "What's this?" that is used on [calc.gsa.gov](https://calc.gsa.gov/).
+
+## Key takeaways [draft section from Emily]
+### The accordion pattern is the most effective way to display contextual, helpful content in forms on VA.gov.
+
+### The tooltip pattern is ineffective and should be avoided in most cases.
