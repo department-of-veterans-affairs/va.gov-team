@@ -61,10 +61,9 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 **Arthur and Justin**
 
-- Planning: Figure out what build out looks like for benefit application updates (Arthur and Justin)
-    - Who is doing this? 
-    - What do we have to coorinate with other teams?
-    - Create tickets  
+- Ticket creation for application updates (Arthur and Justin)
+    - Figure out how to organize tickets for benefit teams in a clear way.
+    - Create and assign tickets to Benefit and Memorials teams 1 & 2 for the recommended application updates. 
 
 **Erik or Brad**
 
