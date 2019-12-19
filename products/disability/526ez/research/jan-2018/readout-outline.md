@@ -1,7 +1,3 @@
-# Objectives
-
-See [research goals](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098)
-
 # What We Did
 
 1. Who we talked to
@@ -150,7 +146,7 @@ See [research goals](https://github.com/department-of-veterans-affairs/vets.gov-
 1. **Team - What do we mean by "supported during the flow"?**
 2. **Mike - Distinguish feeling cheated by VA versus expecting things may go wrong in the future**
 3. **Alex - share document templates for readouts to Mike & Elissa**
-4. Put together the readout document, good example: [Laura Cochran - eBenefits](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/september-2017/eBen-usability/findings/presentations/eBenefits%20526%20Baseline%20Usability%20Testing.pdf) (note that it's only to be referenced for format, not for the takeaways without context)
+4. Put together the readout document, good example: [Laura Cochran - eBenefits](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/ebenefits-526-baseline-usability-testing.pdf) (note that it's only to be referenced for format, not for the takeaways without context)
    1. organized around insights and proof of where it came from
    2. Visuals are helpful, Alex offered to help with it
    3. Human centered, prominently featured quotes, 
