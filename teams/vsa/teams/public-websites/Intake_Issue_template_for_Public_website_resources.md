@@ -1,15 +1,14 @@
-# Requesting Work for Public Websites  
+# Requesting Work of Public Websites Team
 
-If you have a URL (or multiple URLs) that need to be redirected, please request the redirect via an issue in Zenhub in the ```va.gov-team repo```. 
+All requests for work that needs to be fulfilled by a Public Websites resource must first fill out a standard issue template under ```va.gov-team repo```. 
 
-All redirects will be routed through Content and IA team for validation and then assigned to the appropriate technical team for implementation. 
+All requests for work needing to be fulfilled by public websitres team will be routed through Content and IA team for validation and then assigned to the appropriate technical team for implementation. 
 
-**Redirects must be requested *at least* 2 weeks in advance to ensure they are properly vetted and an implementation approach can be identified. However, some redirects may take longer to implement (weeks to months), so it is highly encouraged that requests are submitted as soon as you are aware that you will need one.**
+**Redirects must be requested *at least* 2 weeks in advance to ensure they  properly vetted and an implementation approach can be identified. However, some redirects may take longer to implement (weeks to months), so it is highly encouraged that requests are submitted as soon as you are aware that you will need one.**
 
 1. Create an issue using the standard issue template
 
-2. Title the issue "Redirect Request: [name of page/description of pages]"
-
+n
 3. Include the date redirects need to be implemented by
 
 4. Include background and reason for redirect request
