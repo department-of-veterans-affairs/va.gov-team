@@ -54,7 +54,7 @@
   - [ ] Draft list
   - [ ] Begin discovery
 - [X] Begin testing phase
-  - [X] Fill out Mary Ann's [Research Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Research/0.-Research-Process-Admin/Research%20Process.md) for requesting user research
+  - [X] Fill out Mary Ann's Research Brief for requesting user research
   - [X] Start logistics for usability testing
 - [ ] Spec out Vets.gov IA integration
 - [ ] User flow --> Suzanne
