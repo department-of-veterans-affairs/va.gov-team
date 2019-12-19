@@ -1,5 +1,11 @@
 # Draft Sprint Objectives
 
+###  Sprint 10 (12/4/2019-12/17/2019) *completed*
+- Front-end: Onboarding, set up initial draft form
+- Back-end: Onboarding, begin understanding components of architecture
+- Research/Design: Onboarding, form layout
+- Content: Not started
+
 ###  Sprint 11 (12/18/2019-12/31/2019)
 - Front-end: Draft form, checkbox approach
 - Back-end: Understand components of architecture
