@@ -29,7 +29,4 @@ __Risks__
 - Typically multiple usabilty experts review to offset designer bias
 - It will best identify minor areas of focus and will not identify major issues or could mislead on major issues
 
-## Deliverables
-
-- [Adding Dependents to Your VA Benefits](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/basic-product-evaluation.md)
 
