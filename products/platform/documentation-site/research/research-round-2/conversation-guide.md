@@ -6,7 +6,7 @@
 
 *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
-*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20Process%20and%20Templates/observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
+*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).*
 
 *When the participant is ready, begin the session with the following intro*
 
@@ -45,7 +45,7 @@ As a [practice area-specific to the participant's role, ie. designer, front-end 
 
 Alright, let's say that someone emailed you a link to the VA.gov github repo. This is the page that loads, and this is the only resource you've been given about the project so far on your first day.
 
-[Open repo link](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/docs-testing)
+Open repo link
 
 * Take a moment to scan this page, and walk me through what goes through your mind.
     * What kind of information are you looking for on your first day?
