@@ -1,10 +1,26 @@
 # Highlights of research focused on EDU priorities for 2020 Q1
 
 ## Topics
+* STEM Scholarship
 * Caution flags
 * Yelp-style Reviews
 * Ability for providers to update their own content
 * Yellow Ribbon
+<p>&nbsp;</p>
+
+## STEM Scholarship
+
+#### EDU Enhancements Deck (2017)
+* Note...
+
+#### Prioritized Enhancements XLS (Fall 2019)
+* Note...
+
+#### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
+* Note...
+
+#### BAH Team GIBCT Research (2019)
+* Note...
 <p>&nbsp;</p>
 
 ## Caution flags
