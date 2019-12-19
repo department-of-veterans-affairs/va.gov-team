@@ -9,7 +9,7 @@
 ###  Sprint 11 (12/18/2019 - 12/31/2019)
 - Front-end: Draft form, checkbox approach, set up form sections, optional form information, sign-in/auto-fill
 - Back-end: Understand components of architecture, Veteran Verification on submission, form validation
-- Research/Design: Onboarding, form layout, eligibility information, program details research plan
+- Research/Design: Onboarding, form layout, eligibility information, program details research plan (where are we testing?)
 - Content: Beginning 12/23, Onboarding
 
 ### Sprint 12 (1/1/2020 - 1/14/2020)
