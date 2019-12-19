@@ -7,20 +7,20 @@
 - Content: Not started
 
 ###  Sprint 11 (12/18/2019-12/31/2019)
-- Front-end: Draft form, checkbox approach, set up form sections
-- Back-end: Understand components of architecture
-- Research/Design: Onboarding, form layout, eligibility information
+- Front-end: Draft form, checkbox approach, set up form sections, optional form information, sign-in/auto-fill
+- Back-end: Understand components of architecture, Veteran Verification on submission, form validation
+- Research/Design: Onboarding, form layout, eligibility information, research plan
 - Content: Beginning 12/23, Onboarding
 
 ### Sprint 12 (1/1/2020 - 1/14/2020)
-- Front end: Checkbox solution, form chapters. save in progress, build eligibility section
-- Back-end: Begin integrating with CARMA
+- Front end: Checkbox solution, form chapters. save in progress, build eligibility section, error messaging
+- Back-end: Saving in progress, begin integrating with CARMA, pre-fill application data
 - Research/Design: Research plan
-- Content: Form instructions, elgibility information
+- Content: Form instructions, elgibility information, error messaging
 
 ### Sprint 13 (1/15/2020 - 1/28/2020)
-- Front end: TBD
-- Back-end: Continue integration with CARMA
+- Front end: Submission receipt
+- Back-end: Continue/complete integration with CARMA, confirm submission, retrieve status
 - Research/Design: Begin user research
 - Content: Form instructions, elgibility information continued, site architecture
 
