@@ -1,5 +1,8 @@
+### The list of forms below,  serve as a central hub for understanding which benefit applications are impacted by address forms and pre-fill.
 
-### **Final list:**
+
+### Benefits Applications List 
+
 | Appication Discipline| Form    | What does it use | What endpoint does it touch |
 | -----------------------:| ---------------------------:| -------------------------:| -------------------------:
 | Disability |[21-526EZ Disability Comp Benefits application](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/veteran-information)|This form uses the profile address and EVSS PCIU address. Profile address has priority but if it's blank then PCIU address will be used.|converted to pdf and submitted to the central mail server 
