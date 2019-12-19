@@ -44,9 +44,9 @@ We conducted nine 15-45 minute in-person interviews and moderated usability test
 
 Sessions' audio were recorded.
 
-[The conversation guide can be found here.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/conversation-guide.md)
+[The conversation guide can be found here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/conversation-guide.md)
 
-[Synthesis notes with quotations can be found here.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/synthesis.md)
+[Synthesis notes with quotations can be found here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/synthesis.md)
 
 ## Key Takeaways
 
@@ -94,7 +94,7 @@ Some of the participants indicated that as part of previous onboarding processes
 - Sometimes, when people lack guidance for information specific to them, they create their own reading list by opening links they think might be important in new tabs.
 - For some folks, documentation doesn't fit with their learning style and they may ignore it entirely.
 
-### Tips from Sherri ([P2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/notes/p2.md))
+### Tips from Sherri (P2)
 - Link directly to Readme to avoid all of the folders up top
 - ALWAYS a getting started, breaks down by day vs. first couple weeks
 - Tasked based titles telling them the details - "this is where I am"
