@@ -2,27 +2,17 @@
 
 1. General Research Process Things
 
-    1. [Research Lead Checklist](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20Process%20and%20Templates/Checklists/research-lead-checklist-research-projects.md)
+    1. [Research Lead Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/lead-researcher-checklist.md)
 
-    2. [Research Planning Issue Template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20Process%20and%20Templates/New%20Planning%20Issue%20Template.md)
-
-    3. [PI5 & 6 Research plan for Unicorns & Griffins](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Planning/Mike%20Research%20Plan,%20PI5.md)
+    2. [Research Planning Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)
 
 2. For This Project
 
-    4. Github Issues
-
-        1. [Recruitment](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/9152)
-
-        2. [Research](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/9153) (for the sessions)
-
-        3. [Synthesis](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/9154)
-
-    5. [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/march-2018/conversation-guide.md)
+    5. [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/mar-2018/conversation-guide.md)
 
 # Agenda
 
-1. Fill in [Recruitment issue](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/9152) with project criteria
+1. Fill in Recruitment issue with project criteria
 
 2. Walk through design as it stands
 
