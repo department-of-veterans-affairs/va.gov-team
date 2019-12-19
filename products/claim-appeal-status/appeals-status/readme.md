@@ -5,11 +5,7 @@
 - Staging: https://staging.va.gov/claim-or-appeal-status/ (redirects to staging.va.gov/track-claims/your-claims)
 
 ## Testing
-- [How to log into staging](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv)
-- Staging users:
-  - vets.gov.user+264@gmail.com
-- Local users (via Betamocks / `vets-api-mockdata`):
-    - vets.gov.user+264@gmail.com
+- [How to log into staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
 
 ## Important Keywords
 appeals, appeals status, claims and appeals, check appeals
@@ -22,29 +18,28 @@ Veterans have the right to appeal any benefits decision made by the Veterans Ben
 
 After VBA has made a decision on a certain claim, Veterans can file an appeal. The Appeals Status tool allows Veterans to check on the current status of the appeal.
 
-The Appeals Status information is displayed within the same tool as [Claims Status](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Claim%20Status).
+The Appeals Status information is displayed within the same tool as [Claims Status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status).
 
 ---
 ## Points of Contact (POCs)
 
 ### VA:
-See [Project Charter](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Appeals%20Charter%20Signed.pdf) for more information
+See [Project Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/appeals-charter-signed.pdf) for more information
 
 - VBA Product Co-Business Owner: Nina Tann, Assistant Director, Program Administration, Appeals Management Office, _Delegated authority by David Mclenachen_
 - VBA Product Co-Business Owner: James Ridgway, Chief Counsel for Strategy, Innovation, and Programs
 - VBA Product Owner and Appeals SME: Nicholas Holtz, VBA
 
 ### DSVA:
-- Andrea Schneider - [Andrea.Schneider@va.gov](mailto:Andrea.Schneider@va.gov)
+- Andrea Schneider 
 ### Ad Hoc:
 - Sprint Team: Apps Team 1 / Unicorns - [#unicorns-team](https://dsva.slack.com/archives/C5AGLBNRK)
-- Product Manager: Mark Greenburg - [mark.greenburg@adhocteam.us](mailto:mark.greenburg@adhocteam.us)
 
 ---
 
 ## Background, Narrative, and Important Decisions:
 
-- [How is Appeals Status service related to Claims Status, and what decisions were made about how to organize them?](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Claim%20Status#how-is-appeals-status-service-related-to-claims-status-and-what-decisions-were-made-about-how-to-organize-them)
+- [How is Appeals Status service related to Claims Status, and what decisions were made about how to organize them?](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status)
 
 ## Version history:
 
@@ -53,12 +48,6 @@ Appeals is currently on V2. There are active plans to build a V3 version to acco
 ## V1
 ### Problem Statement
 Veterans do not understand the status of their appeals and are frustrated due to lack of useful information and absence of transparency.
-
-Primary Maintainer of this Directory:
-
-[Here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Discovery/Discovery%20Project%20Brief%20and%20Planning%20Document.md) is where you can find the Discovery Project Brief and Planning Document.  
-
-[Here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/Meeting%20Notes) is where you drop meeting notes.
 
 ## V2
 
@@ -83,17 +72,13 @@ ___
 
 ### Top resources
 
-- [Call Center guides](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/Call%20Center)
-   - [Call center discovery](https://github.com/department-of-veterans-affairs/appeals-design-research/tree/master/Projects/Appeals%20Status/Call%20Center)
-- [Design](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/V2/Design%20files/Appeal%20Status%20Designs%20and%20Features.md)
-- [Content](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/V2/Content)
-- [User Research](https://github.com/department-of-veterans-affairs/appeals-design-research/tree/master/Projects/Appeals%20Status/User%20Research)
+- [Call Center guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
+   - [Call center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
+- [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/v2/appeal-status-designs-and-features.md)
+- [Content](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v2/content)
+- [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v2/research)
   - Everybody on the vets.gov-team repo should have access the Appeals design and research repo. For access, please contact Chris Given.
   - For usability videos, quotes, consent forms, please contact Chris Given.
-
-### Lessons Learned
-- [Timeline accessibility](https://github.com/department-of-veterans-affairs/appeals-design-research/issues/574)
-- [Post V2 launch retro](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/V2/Post%20V2%20Launch%20Retro.md)
 
 ___
 
@@ -135,20 +120,20 @@ ___
 
 ## V3
 - Goal: update Appeal Status app to accomodate Appeals Modernization Act changes. The Act goes into effect no earlier than Feb 14, 2019.
-- All relevant links [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/V3)
+- All relevant links [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v3)
 
 ---
 
 ## Error Handling
-- vets-api -> vets-website: [Error handling information](./Error%20Handling.md)
-- vets-api -> vets-website: [API endpoint documentation](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_status/getAppeals)
+- vets-api -> vets-website: [Error handling information]
+- vets-api -> vets-website: [API endpoint documentation]
 
 ---
 
 ## Appeals Events
 Each appeal has a list of associated events.
 
-The [Events documentation](./V2/Content/Events.md) contains detailed information on what each event means.
+The [Events documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/v2/content/events.md) contains detailed information on what each event means.
 
 ---
 
@@ -176,9 +161,9 @@ Any availability / latency incident should be acknowledged within 15 minutes of 
 The Claims Status product on va.gov makes use of the following `vets-api` call:
 - `v0/appeals` (returns list of appeals)
 
-These `vets-api` endpoints are a pass-through for connecting to the evss async claims service. `vets-api` documentation for various EVSS services can be found in the [EVSS section of the vets-api readme](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Data/Data-Services/EVSS)
+These `vets-api` endpoints are a pass-through for connecting to the evss async claims service. `vets-api` documentation for various EVSS services can be found in the [EVSS section of the vets-api readme](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS)
 
-EVSS connects to BGS to retrieve the requested data. BGS has known uptime issues stemming from planned and unplanned maintenance, especially over the weekends. Please see related information on the BGS system in the [vets-api database documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Data/Databases)
+EVSS connects to BGS to retrieve the requested data. BGS has known uptime issues stemming from planned and unplanned maintenance, especially over the weekends. Please see related information on the BGS system in the [vets-api database documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/BGS)
 
 ## Known issues
-Known issues and product backlog is being tracked via the [appeals label](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=appeals&notFullScreen=false&repos=33202667,62409417,31788863) on our zenhub boards.
+Known issues and product backlog is being tracked via the appeals label on our zenhub boards.
