@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Product Outline
-[link]()
+[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 
 ## High Level User Story/ies
 As a _____, I need _____ so I can _____.
