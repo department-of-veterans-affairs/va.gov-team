@@ -148,9 +148,9 @@
 - Differentiation btwn technical and non-technical team members, and friction is one of the biggest things that'll prevent adoption. Is friction different for those 2 groups? Like GitHub is friction for non-tech ppl, but NOT GitHub is friction for tech ppl. 
 - Do we give a team the autonomy to document as they see fit, and make sure it's searchable and stuff? LIke a dev building a reeadme and us being able to pick it up and convert it presentably w/gitbook? And in reverse, if you put something in through a wiziwig and our crawler picks it up?. As a dev, I don't care if it's in confluence or something else, I just want it to be there and presentable.
 - Validate the need for a wysiwyg. We heard in 18F user interviews that md isn't that hard and non tech ppl will figure it out.
-- Tech: tried to answer outstanding questions about gitbook and map back to features we've prioritized. It can sync repos, it has analytics, table of contents and sidebars for pages, has interpage navigation and intra-page TOC for the page. Seems to infer 
-- 
-
+- Tech: tried to answer outstanding questions about gitbook and map back to features we've prioritized. It can sync repos, it has analytics, table of contents and sidebars for pages, has interpage navigation and intra-page TOC for the page. Files uploaded through gitbook seem to be stored on their CDN (not our repo), so that's good. But do you need a separate book for each repo? Has rating option for pages, that's cool.
+- Prototype: for edit experience, maybe we need another screen. A page in md, w/a tab to edit in rich text.
+- Algolia: higher level search. Doc search will only work for a specific subset of things they allow, has to be public, etc. Not sure if it'll be the best all-encompassing umbrella solution. If not that, could we still use indexing and search capabilities? If no, what do we do to search across multi repos?
 
 ## Day 4 End Meeting Agenda
 - Assign notetaker for this meeting
