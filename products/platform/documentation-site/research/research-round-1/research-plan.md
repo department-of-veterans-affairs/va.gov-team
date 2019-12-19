@@ -34,15 +34,15 @@
 
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* \
      - We will be testing markdown files hosted here in GitHub:
-         - [Front-end Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Frontend/Readme.md)
-         - [Back-end Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Backend/README.md)
-         - [508/Accessibility Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Accessibility/Readme.md)
-         - [Analytics Table of Contents](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Analytics/TABLE_OF_CONTENTS.md)
-         - [QA Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/QA/Readme.md)
-         - [Content Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Content/Readme.md)
-         - [Product Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Readme.md)
-         - [Design Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Readme.md)
-         - [Information Architecture Table of Contents](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Information%20Architecture/TABLE_OF_CONTENTS.md)
+         - [Front-end Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/readme.md)
+         - [Back-end Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/README.md)
+         - [508/Accessibility Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/README.md)
+         - [Analytics Table of Contents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/readme.md)
+         - [QA Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md)
+         - [Content Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/README.md)
+         - [Product Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/README.md)
+         - [Design Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/README.md)
+         - [Information Architecture Table of Contents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/README.md)
      
 
 ## Participants and Recruitment
@@ -109,7 +109,7 @@ Please list the people who will be serving in each role. **Include the primary p
 *Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
 
 - Discussion Guide
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/conversation-guide.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/conversation-guide.md
 
 - Notes & Recordings
 *Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
@@ -122,4 +122,4 @@ https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Prod
 
 - Read-Out/Results
   - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Research%20History.md)
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
