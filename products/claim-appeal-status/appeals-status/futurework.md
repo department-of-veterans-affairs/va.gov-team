@@ -1,5 +1,5 @@
 ## V1:Complete 
-[Charter here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Appeals%20Charter%20Signed.pdf)
+[Charter here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/appeals-charter-signed.pdf)
 
 - Type of Appeal: Compensation 
 - View past activity dates of appeal 
