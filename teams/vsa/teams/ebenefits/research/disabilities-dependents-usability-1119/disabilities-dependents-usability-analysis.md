@@ -70,36 +70,14 @@ Landing Pages
 
 ![Participant Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/research-images/disabilities-dependents-usability_map.png)
 
-## Other Notable Findings
-#### Landing Pages
-- Interestingly, when users where asked to find the entry point to view disabilities or dependents from their respective landing pages, they were often drawn to the long list of links in the left-hand nav rather than the main content column.
-- Some users seemed to be initially overwhelmed by the amount of content they had to scan to find entry points. The top-most section of content was often read at length.
+**Demographics:** The median participant was male, 45 to 54 years old, and a college graduate. Over half of the participants (55%) served in the Army. One participant served in both the Air Force and Coast Guard. The average age was approximately 52.
+Education level was very high across this group of participants, with 36% having earned a master’s degree. Just 4% of the U.S. population achieved that level in 2017 (Census.gov). Most participants had a VA disability rating. Two were identified as having cognitive disabilities.
 
-## For Consideration
-#### User authorization/login is problematic and a barrier to use
-- Login registered as a prevalent and frustrating pain point.
-- Minimize linking back and forth between eBenefits and VA.gov.
-- Migrate features in a way to reduce or eliminate linking across sites.  
+![Participant demographic charts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/research-images/disabilities-dependents-usability-demog-chart.png)
 
-#### The tools page layout seems to be an acceptable balance of layout and content.
-- Removing left-hand navigation seemed to allow users to better consume primary and secondary content.
-- Content in the right-hand sidebar was helpful and easily consumed.
-- Information presented in cards was readily understandable. However, long lists of "cards" were not tested.  
+## Findings & Recommendations
 
-#### The Rated Disabilities screen tested well
-- Users could determine the page's purpose immediately.
-- Content was very quickly consumed and understood.
-- A few participant mentioned linking dependents info to educational benefits.
-- More detail was an often-requested feature.  
-
-#### The View Dependents screen was an acceptable presentation
-- The purpose of a dedicated View Dependents screen was a little puzzling to most users. Few participants had direct experience with the eBenefits Dependents screen; most did not have dependents on-award.
-- Though the purpose seemed vague, most users quickly found relevant content, and understood information as presented.
-- Most participant feedback was similar to the Rated Disabilities screen.
-- Most users expected the card buttons to lead to forms or detailed info.  
-
-#### Participants universally regarded 800 numbers negatively
-- Chat was a common alternative suggested by users.
+[ WIP ]
 
 **Appendix/Resource Links:**
 
