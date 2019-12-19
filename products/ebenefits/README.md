@@ -23,7 +23,8 @@
 - **Features**  
   - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/rated-disabilities)  
 This is the tool page that will describe a Veterans overall total combined disability rating which informs how much compensation they would recieve. 
-  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
+  - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)  
+  This is the tool page that shows what dependents a Veteran has assigned to a claim or benefit as well the tool page(s) that will get them through that process using the 21-686c form.  Other forms will be associated with this form like the 674 and the 509.
 
 # Implementation Information
 - [Status](#status)
