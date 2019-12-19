@@ -1,6 +1,6 @@
 # Conversation Guide - Claims for Increase
 
-for [January, 2018 round](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/7098)
+for January, 2018 round
 
 [Claims for Increase Prototype](https://adhoc.invisionapp.com/share/RGFEXO4A2N3#/screens/274351324) (updated)
 
@@ -8,9 +8,8 @@ for [January, 2018 round](https://app.zenhub.com/workspace/o/department-of-veter
 
 ## Also see
 
-1. [Value proposition and project goals](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability#value-proposition) (from problem statement)
-2. [Recruiting issue with research goals](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098)
-3. [Session Report Template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/Session%20report%20template.md)
+1. [Value proposition and project goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability) (from problem statement)
+2. [Session Report Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/session-report-template.md)
 
 
 ## GoToMeeting logistics
@@ -119,7 +118,7 @@ Imagine you’ve been feeling like the condition you’re rated for has become m
 - [Contact Details](https://adhoc.invisionapp.com/share/7KFC6I9XFZ2#/screens/273512363)
   - What would you do if you were moving soon?
 - [Service History](https://adhoc.invisionapp.com/share/7KFC6I9XFZ2#/screens/273512365)
-  - *can skip over it since we covered this in [VR&E January 2018 research](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research)*
+  - *can skip over it since we covered this in [VR&E January 2018 research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab/research)*
 - [Payment method](https://adhoc.invisionapp.com/share/7KFC6I9XFZ2#/screens/273512366)
   - Why do you think you are being asked for this information?
     - What will the VA do with it?
