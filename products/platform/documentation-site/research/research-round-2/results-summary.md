@@ -3,7 +3,7 @@
 ## Background
 The Platypus Tools team has been working to organize, improve, and categorize the wide range of documentation that we have amassed to enable teams to design and build products for VA.gov using the Veteran-facing Services Platform (VSP).
 
-We conducted this follow-up research study to test the changes that we made after the previous usability study ([the results of which can be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/results-summary.md)). The changes that made to the vets.gov-team repo are as follows:
+We conducted this follow-up research study to test the changes that we made after the previous usability study ([the results of which can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/results-summary.md)). The changes that made to the vets.gov-team repo are as follows:
 - Organizing the content into three main buckets:
 	- Administrative (for general information about work practices and organizational culture)
 	- Practice Areas - information about how each specific practice area works
@@ -51,11 +51,11 @@ Out of the 8 participants, 3 were women and 5 were men. Some were familiar with 
 
 We conducted 8 8-10 minute in-person moderated usability testing sessions using the vets.gov-team repo.
 
-[The conversation guide can be found here.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research-round-2/conversation-guide.md)
+[The conversation guide can be found here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-2/conversation-guide.md)
 
 ## Key Takeaways
 
-### The funnel-shaped structure of the [main repo readme](https://github.com/department-of-veterans-affairs/vets.gov-team) (broad, program-wide information first then narrowing down to more specific information) is an effective way to quickly ground a new team member to the overall effort and provide them with a path of where to go next.
+### The funnel-shaped structure of the [main repo readme](https://github.com/department-of-veterans-affairs/va.gov-team) (broad, program-wide information first then narrowing down to more specific information) is an effective way to quickly ground a new team member to the overall effort and provide them with a path of where to go next.
 - All participants indicated that they understood the purpose of the project overall
 - 7 out of 8 participants were able to identify where they would fit within the project
 
@@ -83,19 +83,19 @@ This information might be most useful for new members coming onto an existing co
 ### Many of the key takeaways from the previous documentation research were reaffirmed:
 
 #### Level of familiarity with Github can highly impact a person’s onboarding experience.
-- [Link to previous finding](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/results-summary.md#a-persons-familiarity-with-github-can-have-a-big-impact-on-their-onboarding-experience)
+- [Link to previous finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/results-summary.md)
 - Two participants used Github shortcuts to search for filenames containing keywords they felt were important, which created a shortcut to their practice area.
 - One participant had never used Github before and was unaware that there was a readme below the list of folders. It took her much longer to find her practice area, and she indicated she would have needed to ask for help.
     - > I’m not finding anything... I’d reach out to someone on Slack: _Is there a link that someone else found useful?_
 
 #### People who are onboarding to a new project and familiar with Github look for clues that indicate the health of the repo, which helps form their impression of the overall project.
-- [Link to previous finding](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/results-summary.md#people-who-are-onboarding-to-a-new-project-and-familiar-with-github-look-for-clues-that-indicate-the-health-of-the-repo-which-helps-form-their-impression-of-the-overall-project)
+- [Link to previous finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/results-summary.md)
 - One participant went to the Projects tab seeking meeting notes and logged communication between stakeholders, decision makers, and contributors.
 - One participant described that he would question the relevance of a file that had last been updated 6 months ago. 
     - > This doc was last updated in a meaningful manner on what date? Git allows tracking historical changes, but it depends on people writing good commit messages so I can get into their thought process.
     
 #### Many people, but not all, who are onboarding onto a new project/program are motivated to learn the work practices, tools, and current status of the project.
-- [Link to previous finding](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/results-summary.md#many-people-but-not-all-who-are-onboarding-onto-a-new-projectprogram-are-motivated-to-learn-the-work-practices-tools-and-current-status-of-the-project)
+- [Link to previous finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/results-summary.md)
 - One participant described how she would read the Research history document to learn what research has been done, as well as the PI Readouts.
     - >[Clicks on History] Good to catch up. This is where I would start.
 - One participant described how he would use the Projects tab to understand where things have left off.
@@ -103,7 +103,7 @@ This information might be most useful for new members coming onto an existing co
     - >I would look at past history in the project section
     
 #### People who are onboarding want to get a sense of the overall, big picture before going deeper.
-- [Link to previous finding](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Platform%20Support/research/documentation-research/results-summary.md#people-who-are-onboarding-want-to-get-a-sense-of-the-overall-big-picture-before-going-deeper)
+- [Link to previous finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/research-round-1/results-summary.md)
 - 6 out of 8 participants demonstrated that they would take a few moments to read or skim the "background of the project" section of the main readme before searching for their particular practice area.
     - >I need context first. I don’t know a ton about VA.gov as a project.
 - One of the participants that did not demonstrate this had previously worked on Vets.gov and had some familiarity with the project
