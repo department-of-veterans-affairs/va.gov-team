@@ -98,7 +98,7 @@ These steps assume you're running on Linux or OSX. There are slightly different 
 are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the
 `vetsgov-internal` domain.
 
-1. [Follow this process](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/request-access-to-tools.md#2-request-that-your-ssh-keys-be-authorized-so-that-you-can-use-the-developer-tools-such-as-jenkins-grafana-and-sentry) to have your new SSH key added to the list of authorized SSH keys.
+1. [Follow this process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md) to have your new SSH key added to the list of authorized SSH keys.
     * When your SSH key has been added, you will receive a Github notification that your key has been added. Once you receive the notification, continue with the steps below.
 
 1. Copy down the SSH configuration that you'll need locally to access the remote SSH servers.
@@ -212,16 +212,16 @@ There are many dashboards and you should click around to get familiar with the v
 #### "Permission denied - public key" error when pushing to Github
 
 1. Has your public SSH key been added to the list of authorized SSH keys? 
-    * **Platform team** - Check the list of authorized keys in the [devops repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/roles/dsva-config/files/authorized_keys). If it's not there, [follow the process above](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#configure-the-socks-proxy---for-veteran-facing-services-team) to adding it.
+    * **Platform team** - Check the list of authorized keys in the [devops repo](https://github.com/department-of-veterans-affairs/devops/tree/master/ansible/roles/dsva-config/files/authorized_keys). If it's not there, [follow the process above](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) to adding it.
     * **VFS teams** - You will receive a Github notification once your key has been added to the authorized list. If it's been more than 72 hours, check with your DSVA contact.
 1. Does your .ssh/config contain the correct content?
-    * Config for working [within the VA network](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network)
-    * Config for working [outside the VA network](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet)
+    * Config for working [within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
+    * Config for working [outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
 1. Have you added your private key to your local ssh agent?
     * run ```ssh-add -K ~/.ssh/id_rsa_vetsgov```
 1. Are you running the correct command for ```sock``` vs ```sock-va``` depending on whether you are on or off the VA network?
-    * [Within the VA network](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network)
-    * [Outside the VA network](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet)
+    * [Within the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
+    * [Outside the VA network](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
     
 
 #### ```ssh sock -D 2001 -N``` failing
