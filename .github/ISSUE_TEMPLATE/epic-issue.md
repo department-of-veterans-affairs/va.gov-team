@@ -23,5 +23,5 @@ _Which Objective / Key Result does this epic push forward?_
 _What must be true in order for you to consider this epic complete?_
 
 ## How to configure this issue
-- [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `tools-be`, `tools-fe`,`content-ia`, \#vsa-*)
+- [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `tools-be`, `tools-fe`,`content-ia')
 - [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `call center`, `research`, `accessibility`, `content`)
