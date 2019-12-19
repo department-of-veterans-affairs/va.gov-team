@@ -1,16 +1,16 @@
-### MVP Requirements
+# MVP Requirements
 
 Goal: Document the elements neccessary to begin testing the online 1010CG in front of users
 
 ## User journey:
 
-# Pre-form:
+### Pre-form:
 
 1) Program details, process timeline, eligibility requirements
 
 2) Obvious entry to form (ex. "Click here to apply online")
 
-# Form:
+### Form:
 
 1) Unauthenticated 
 
