@@ -34,22 +34,22 @@
 
 4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* \
   - We will be testing markdown files hosted here in GitHub:
-    - [Main repo readme](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/docs-testing)
+    - [Main repo readme](https://github.com/department-of-veterans-affairs/va.gov-team)
     - Practice area readme’s:
-      - [Accessibility](./Accessibility/Readme.md)
-      - [Content](./Content/Readme.md)
-      - [Design](./Design/Readme.md)
-      - [Engineering](./Engineering/Readme.md)
-          - [Backend](./Engineering/Backend/Readme.md)
-          - [Frontend](./Engineering/Frontend/Readme.md)
-          - [Infrastructure](./Engineering/Infrastructure/Readme.md)
-      - [Information Architecture](./Information%20Architecture/Readme.md)
-      - [Insights](./Insights/Readme.md)
-          - [Analytics](./Insights/Analytics/README.md)
-          - [Call Center](./Insights/Call%20Center/Readme.md)
-      - [Product](./Product/Readme.md)
-      - [QA](./QA/Readme.md)
-      - [Research](./Research/Readme.md)
+      - [Accessibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/README.md)
+      - [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/README.md)
+      - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/README.md)
+      - [Engineering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/README.md)
+          - [Backend](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/README.md)
+          - [Frontend](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/readme.md)
+          - [Infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/infrastructure/readme.md)
+      - [Information Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/README.md)
+      - [Insights](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/readme.md)
+          - [Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/readme.md)
+          - [Call Center](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/README.md)
+      - [Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/README.md)
+      - [QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/README.md)
+      - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/README.md)
      
 
 ## Participants and Recruitment
@@ -109,4 +109,4 @@ TBD
 
 - Read-Out/Results
   - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Practice%20Areas/Research/Research%20History.md)
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
