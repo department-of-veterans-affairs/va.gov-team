@@ -2,12 +2,13 @@
 
 ## Topics
 * STEM Scholarship Application Routing
-* Reduce Veteran Risk in School Selection
+* Caution Flag (SRP & Profile Page)
 * Yellow Ribbon
-* Caution Flag UI Update
-* Yelp-style Reviews
+* Reduce Veteran Risk in School Selection
 * Ability for providers to update their own content
+* Yelp-style Reviews
 <p>&nbsp;</p>
+
 
 ## STEM Scholarship Application Routing
 
@@ -28,7 +29,10 @@
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af67fb60c2f4ccfc41c90bfd8e8209/products/education-careers/stem/design/education-benefits-wizard-update.md
 
 <p>&nbsp;</p>
-## Reduce Veteran Risk in School Selection
+
+
+
+## Caution Flag (SRP & Profile Page)
 
 #### EDU Enhancements Deck (2017)
 * Make caution flags more comprehensible and searchable on Search Results Page and Profile Page.
@@ -36,14 +40,16 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
     * Profile - Dashboard alerts & Cautionary Information accordion
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* 
+* No mentions
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
-* 
+* Note...
 
 #### BAH Team GIBCT Research (2019)
-*
+* Note...
 <p>&nbsp;</p>
+
+
 
 ## Yellow Ribbon
 
@@ -74,6 +80,27 @@ understand eligibility requirements and can view a list of participating schools
    * Recommendation: Make the school’s participation in the Yellow Ribbon program more prominent.
 <p>&nbsp;</p>
 
+
+
+## Reduce Veteran Risk in School Selection
+
+#### EDU Enhancements Deck (2017)
+* Make caution flags more comprehensible and searchable on Search Results Page and Profile Page.
+    * Search Results - School Cards
+    * Profile - Dashboard alerts & Cautionary Information accordion
+
+#### Prioritized Enhancements XLS (Fall 2019)
+* 
+
+#### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
+* 
+
+#### BAH Team GIBCT Research (2019)
+*
+<p>&nbsp;</p>
+
+
+
 ## Yelp-style Reviews
 
 #### EDU Enhancements Deck (2017)
@@ -91,6 +118,7 @@ understand eligibility requirements and can view a list of participating schools
 * Note...
 <p>&nbsp;</p>
 
+
 ## Ability for providers to update their own content
 
 #### EDU Enhancements Deck (2017)
@@ -107,22 +135,7 @@ understand eligibility requirements and can view a list of participating schools
 * Schools would like to be able to enter their most popular programs
 <p>&nbsp;</p>
 
-## Caution Flag UI Update
 
-#### EDU Enhancements Deck (2017)
-* Make caution flags more comprehensible and searchable on Search Results Page and Profile Page.
-    * Search Results - School Cards
-    * Profile - Dashboard alerts & Cautionary Information accordion
-
-#### Prioritized Enhancements XLS (Fall 2019)
-* No mentions
-
-#### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
-* Note...
-
-#### BAH Team GIBCT Research (2019)
-* Note...
-<p>&nbsp;</p>
 
 ## Guidance from DEPO-EDU Roadmap
 Perform policy assessment of tool data points, better align UX to Veteran priorities, promote increased usage, identify staff pain points. 
