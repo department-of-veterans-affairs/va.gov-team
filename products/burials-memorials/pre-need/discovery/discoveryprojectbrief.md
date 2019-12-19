@@ -43,7 +43,7 @@ Want someone from call center and someone who manually enters form into EOAS
 * What do we know?
 * What don't we know?
 * Are any of the above assumptions that need to be verified?
-* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in our Discovery Toolkit and consult the [Research Team](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/README.md).)
+* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in our Discovery Toolkit and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research).)
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
 * Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
 * What secondary research should we do (google, facebook, internal documents)?
@@ -58,7 +58,7 @@ Want someone from call center and someone who manually enters form into EOAS
 
 
 ### Timeline
-See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Practice%20Areas/Research/Discovery/SampleDiscoverySprintSchedule.md).
+See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/sample-discovery-sprint-schedule.md).
 
 * Are there any hard and fast deadlines for completing the discovery work?
 * When will the following take place?
