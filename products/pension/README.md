@@ -1,12 +1,11 @@
 # Pension 527EZ
-**The Pension and Burial forms provide the 21P-527EZ and 21P-530 forms were created an developed in unison. You'll notice there is mention of both forms throughout this folder. If you'd like to learn more about the Burials 530 form visit the [Burial 530 documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Burials%20and%20memorials/Burial%20530) inside the Burials and Memorials Hub.**
+**The Pension and Burial forms provide the 21P-527EZ and 21P-530 forms were created an developed in unison. You'll notice there is mention of both forms throughout this folder. If you'd like to learn more about the Burials 530 form visit the [Burial 530 documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials) inside the Burials and Memorials Hub.**
 
 ## Problem Statement
 Veterans want to receive pensions and burial benefits, but it is currently cumbersome for them to have to apply via paper forms or eBenefits; as a result they have difficult time applying for their pensions and burial benefits.
 
 ## Points of Contact
 
-* Github: https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Apensions%2Fburials
 * Slack: #pensions-burials
 
 |Name|Role|Email|
@@ -30,7 +29,7 @@ Submission of Pension and Burial forms is a multi-step, asynchronous flow that a
 1. A record to the S3 location is stored in the `PersistentAttachment` table, where a `guid` is created.
 1. The `guid` is returned to the frontend where it is stored as a reference to the uploaded file in the claim.
 1. When the Claim is submitted, any file reference `guids` found in the form are associated with the `SavedClaim`
-1. Each `PersistentAttachment` is told to process itself according to the [Pension/Burial Workflow](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/uploaders/claim_documentation/pension_burial/workflow.rb)
+1. Each `PersistentAttachment` is told to process itself according to the Pension/Burial Workflow
 1. The final task in the workflow marks the `PersistentAttachment` as successfully processed.
 1. The final version of the document is stored in the `dsva-vetsgov-{env}-claims` bucket, under a `claims/store/#{form_id}/#{guid}` folder. The Initial Uploaded version is retained in the `cache` folder.
 
@@ -49,16 +48,14 @@ The Document Upload workflow goes through several background job to ensure that 
 
 ## Cheatsheet
 
-* React code for Pension is at [vets-website/src/js/pensions/*](https://github.com/department-of-veterans-affairs/vets-website/tree/master/rc/js/pensions)
-* Controller for EDU is [vets-api/app/controllers/v0/pension_claims_controller](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/pension_claims_controller.rb), which is a subclass of [ClaimsBaseController](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/claims_base_controller.rb)
-* The Workflow used by Documents uploaded is defined in the [PensionBurial Workflow](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/uploaders/claim_documentation/pension_burial/workflow.rb) and File Upload Validations are defined in [ClaimDocumentation::Uploader](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/uploaders/claim_documentation/uploader.rb)
+* React code for Pension is at [vets-website/src/js/pensions/*]
+* Controller for EDU is [vets-api/app/controllers/v0/pension_claims_controller], which is a subclass of [ClaimsBaseController]
+* The Workflow used by Documents uploaded is defined in the [PensionBurial Workflow] and File Upload Validations are defined in [ClaimDocumentation::Uploader]
 
 ## Notes (for submission numbers with SFTP)
 * GA is run on Eastern Time as is the SFTP server
 * The PDF generation process / submission to SFTP server runs and establishes folders on UTC
 * Submission numbers will not correlate on the day to day level between GA and SFTP 
-
-
 
 ### Business Owner:
  - Kevin Friel (Assistant Director for Pension & Fiduciary Service)
