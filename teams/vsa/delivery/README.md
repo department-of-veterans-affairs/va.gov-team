@@ -1,6 +1,7 @@
-Delivery of VSA work currently happens in 2 week sprints, informed by high level objectives set on a quarterly basis. There are planning sessions that occur on the Wednesday planning day before each new sprint, so that teams can collectively plan out their Sprint objectives and the work needed to achieve them. 
+Delivery of VSA work currently happens in 2 week sprints, informed by high level objectives set on a quarterly basis. There are planning sessions that occur on the Sprint planning day before each new sprint, so that teams can collectively plan out their Sprint objectives and the work needed to achieve them. 
 
-# Sprint Objectives Rules of Engagement
+
+# Sprint Objectives
 
 There are a handful of key goals for VSA Sprint Objectives:
 
@@ -28,3 +29,16 @@ There are a handful of key goals for VSA Sprint Objectives:
 - Link objectives to the epic they are a part of
 - Don't be _too_ ambitious in the volume and scope for the sprint, leave about 20% space for unexpected work or challenges.
 - Move any good ideas that you want to keep track of but won't be focusing on this sprint to your ZenHub backlog to evaluate in the future.
+
+
+# Agile Ceremonies
+
+## Ceremonies Overview
+
+VSA teams work in a 2 week cycle known as a Sprint. During a Sprint, the team assigns and commits to tasks that can be completed within this time frame. In order to deliver the best business value, there are multiple Agile Ceremonies in the Sprint.  Agile Ceremonies are timeboxed meetings that happen throughout the Sprint. The ceremonies include **Daily Standup, Sprint Planning, Backlog Grooming, Sprint Review,** and **Sprint Retrospective.** Below are the descriptions of each. 
+
+Details on the ceremonies can be found in the [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/delivery/agile-ceremonies-overview.md)
+
+## Ceremonies Checklist
+
+In order to make sure value is attained in each ceremony, VSA teams also have an [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/delivery/agile-checklist.md). 
