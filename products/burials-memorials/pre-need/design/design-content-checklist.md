@@ -52,12 +52,12 @@ https://marvelapp.com/2084724
   - [x] Include which fields in the original form the questions map to
   - [x] Include conditional variations, e.g. addressee of the question is Veteran vs. dependent
   - [x] Include error messages
-- [x] Create a [form logic diagram](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/design/form-logic.png) for front-end
+- [x] Create a [form logic diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/design/form-logic.png) for front-end
   - Conditional logic of fields and their labels, e.g.
     - if applicant = Veteran, prefill 'is Veteran deceased' = no
     - if applicant = Veteran, labels for Veteran info = "Applicant info", else = "Sponsor info"
     - if Veteran deceased = no, ask for Veteran address
-- [ ] Document [here](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/3064) which questions we're adding, adjusting, or removing. If removing any required fields, need to determine how to handle compliance with business requirements when we submit the form.
+- [ ] Document which questions we're adding, adjusting, or removing. If removing any required fields, need to determine how to handle compliance with business requirements when we submit the form.
 - [ ] Archive form outline spreadsheet and user flow diagram in github once finalized
 
 ## Content (Danielle)
