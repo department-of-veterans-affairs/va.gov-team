@@ -2,12 +2,12 @@
 
 ###  Sprint 10 (12/4/2019-12/17/2019) *completed*
 - Front-end: Onboarding, set up initial draft form
-- Back-end: Onboarding, begin understanding components of architecture
+- Back-end: Onboarding, begin understanding components of architecture, understand components of 1010EZ
 - Research/Design: Onboarding, form layout
 - Content: Not started
 
 ###  Sprint 11 (12/18/2019-12/31/2019)
-- Front-end: Draft form, checkbox approach
+- Front-end: Draft form, checkbox approach, set up form sections
 - Back-end: Understand components of architecture
 - Research/Design: Onboarding, form layout, eligibility information
 - Content: Beginning 12/23, Onboarding
