@@ -1,4 +1,4 @@
-# eBenefits Rated Disabilities Research Summary
+# eBenefits Rated Disabilities Research Analysis
 `eBenefits Team, December 2019`
 
 ## Research goals
@@ -147,14 +147,14 @@ The new feature most requested was additional information regarding details of c
 
 > “…but these web pages now—there’s a lot more on here.  A lot of really good information on them.”
 
-Users generally did not notice the change in screen layouts moving from the left-hand-nav, content style of the landing pages, to the nav-less right-sidebar layout of tools page. Users identified right side bar content quickly when asked to describe the page. They located specific content more slowly, but successfully in most cases.  (Rating determination, hotline number, etc.)
+Users generally did not notice the change in screen layouts moving from the left-hand-nav, content style of the landing pages, to the nav-less right-sidebar layout of tools page. Users identified right side bar content quickly when asked to describe the page. They located specific content more slowly, but successfully in most cases. (Rating determination, hotline number, etc.)
 
 However, navigation back to the “landing-page” entry point was unclear to many participants. They opted for the back button or simply signed-out to return to the landing screen. Only one participant quickly identified the breadcrumbs as navigation. Another attempted to use the breadcrumb links, but clicked a different option (Disabilities) and stopped.
 
-Alternate communication channels were cited as the most common requested feature. Participants want direct access to a person who could resolve their issues and answer their questions. Live chat was one avenue suggested, with direct personal emails, local VA contacts, and the White House hotline rounding-out the communication requests.
+Alternate communication channels were cited as the most common requested feature. Participants want direct access to a person who could resolve their issues and answer their questions. Live chat was one avenue suggested, with direct personal emails, local VA contacts, and the White House hotline rounding-out the communication requests.
 
 **Recommendations:**
-- Live chat could prove a very user-friendly feature across VA.gov, though technical and staffing issues may preclude its implementation.
+- Live chat could prove a very user-friendly feature across VA.gov, though technical and staffing issues may preclude its implementation.
 - Adding specific contact info (email, direct phone numbers, etc.) if such offices/staff exist could save users time and alleviate some frustration.
 - Determine what pages the back button and sign-out will bring users to vs. their expectations. 
 - Possibly rethink landing-page/tool-page strategy; consider a single page with authenticated and unauthenticated states.
@@ -185,3 +185,5 @@ Notable holes in the study include accessibility testing, as well as testing for
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes)
 
 [Preliminary Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)
+
+[PDF Version of this Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-readout.pdf)
