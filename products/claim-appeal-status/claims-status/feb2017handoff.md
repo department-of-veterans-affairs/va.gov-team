@@ -35,12 +35,12 @@
 
 ## Key documents
 * Design (sketch) source files: Ask Suzanne Chapman.
-* [All design-related docs](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Claim%20Status/track-claim-status/design-documents)
-* [Flow diagram of eBenefits version](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Claim%20Status/track-claim-status/design-documents/eBenefits%20flow%20for%20Claim%20Status.pdf) with discovery/painpoint notes.
+* [All design-related docs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status/track-claim-status/design)
+* [Flow diagram of eBenefits version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/track-claim-status/design/ebenefits-flow-for-claim-status.pdf) with discovery/painpoint notes.
 * Mel's V.1 [video walk-through](https://www.youtube.com/watch?v=74u3L23uX4M&feature=youtu.be)
 eBenefits screenshots & redesigns
-* [Screenshots of v.1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Claim%20Status/track-claim-status/design-documents/CLAIM%20STATUS%20SCREENSHOTS.zip)
-* [User accounts](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI/mvi_users_s1a.csv)
+* [Screenshots of v.1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/track-claim-status/design/claim-status-screenshots.zip)
+* [User accounts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
 
 ## Other details
 * There are no redirects in place but eBenefits displays a banner on their claim status detail pages encouraging their users to "try" the new vets.gov version.
