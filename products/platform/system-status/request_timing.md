@@ -2,13 +2,14 @@
 ## Communications
 GitHub Label:
 
-Slack channel:
+Slack channel: [#vsp-tools-be](https://dsva.slack.com/archives/CQHBJ5U06)
 
 Product POCs: Alex Pappas
 
 Stakeholders:
 
 ## The Problem
+
 
 ## User Goals
 
