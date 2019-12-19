@@ -4,7 +4,7 @@
 - **Vets.gov link**: [Live application on staging](https://staging.vets.gov/burials-and-memorials/pre-need/form-10007-apply-for-eligibility/introduction)  
 - **Analytics link**: [GA Conversion Funnel](https://analytics.google.com/analytics/web/#/report/conversions-goal-funnel/a50123418w107014820p157543929/_.goalOption=2)
 - Demo video link: https://youtu.be/Sc5T030PBYo
-- Application Guide: [Here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/preneed_app_guide.pdf)
+- Application Guide: [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/preneed-app-guide.pdf)
 ---
 
 ### Table of Contents
@@ -70,37 +70,37 @@ Veterans (and their loved ones) want to choose which VA cemetary they'd like to 
 
 - **VA Executive Sponsor** `*`: Troy Hamilton
 - **VA Policy Expert(s)**: 
-- **VA Digital Strategist(s)** `*`: Matt Self [matthew.self2@va.gov](mailto:matthew.self2@va.gov)
-- **Product Manager** `*`: Ryan Luu [ryan.luu@adhocteam.us](mailto:ryan.luu@adhocteam.us)
+- **VA Digital Strategist(s)** `*`: Matt Self 
+- **Product Manager** `*`: Ryan Luu 
 - **Design Lead**: 
-- **Eng Lead**: Jeff Balboni [jeff@adhocteam.us](mailto:jeff@adhocteam.us)
+- **Eng Lead**: Jeff Balboni 
 - **VA Web Comms Partner**: 
-- **VA Call Center Liason**: Aubrey Arcangel [aubrey@thesocompany.com](mailto:aubrey@thesocompany.com)
-- **Production Testing Partner(s)**: EOAS - Cuong Tang [Cuong.Tang@va.gov](mailto:Cuong.Tang@va.gov)
-- **Content Writer(s)**: Peggy Gannon [peggy@thesocompany.com](mailto:peggy@thesocompany.com)
+- **VA Call Center Liason**: Aubrey Arcangel 
+- **Production Testing Partner(s)**: EOAS - Cuong Tang 
+- **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
-  - Jeff Balboni [jeff@adhocteam.us](mailto:jeff@adhocteam.us)
-  - Rian Fowler [rian.fowler@adhocteam.us](mailto:rian.fowler@adhocteam.us)
-  - Annie Bai [lbai001@oddball.io](mailto:lbai001@oddball.io)
+  - Jeff Balboni 
+  - Rian Fowler 
+  - Annie Bai 
 - **Back-end Engineer(s)**:
-  - Lihan Li [lihan@adhocteam.us](mailto:lihan@adhocteam.us)
-  - Johnny Holton [Johnny@oddball.io](mailto:johnny@oddball.io)
+  - Lihan Li 
+  - Johnny Holton 
 
 `*` = approval required for launch
 
 
 ## Resources and Documentation
 
-- [Original paper form](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/VA40-10007.pdf)
+- [Original paper form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/va40-10007.pdf)
 - [User journey](https://app.moqups.com/greg@adhocteam.us/KRUytqSJgf/view/page/aa9df7b72)
    - Outlines the process of a person learning about, applying for, and receiving the benefit
 - [Application flow](https://app.moqups.com/greg@adhocteam.us/KRUytqSJgf/view/page/a87b2c0ec)
    - Outlines the flow and conditional logic of questions presented to the user within the online application
-- [Form logic diagram](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/design/form-logic.png)
+- [Form logic diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/design/form-logic.png)
    - Shows how the original data fields map to those presented in the online form, and changes based on conditional logic
-- [Form inventory](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/design/Pre-Need%20Burial%20Form%20Outline%20-%20Revised.xlsx)
+- [Form inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/design/pre-need-burial-form-outline-revised.xlsx)
    - Detailed inventory of form fields, accepted values, requirements, and conditional logic
-- [Sketch file](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/design/pre-need-mockups.sketch)
+- [Sketch file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/design/pre-need-mockups.sketch)
    - Not completely up to date on some elements like content and field requirements, but demonstrates the desired flow for multiple applicant form submission
 - [Marvel prototype](https://marvelapp.com/2084724)
    - Visual representation of the application flow. **Note:** the only scenario built is a Veteran and spouse applying together
