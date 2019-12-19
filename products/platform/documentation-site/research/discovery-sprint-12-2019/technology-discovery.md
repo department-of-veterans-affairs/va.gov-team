@@ -9,9 +9,22 @@ Methodology: After looking at all of the potential features we'd like to have, I
 ### GitHub
  * Pros
    * Tracks and displays who made the last edit, and when
-   * 
+   * Hsa search across multiple repos
+   * Has link to edit file
+   * Has link to file history
+   * Is accessible without logging in (if repo is public)
+   * Is accessible on VA network
  * Cons
    * Doesn't track who the content owner is
+   * Doesn't display last reviewed at (because files don't need to be reviewed to be created/edited)
+   * Doesn't directly track content type/label
+   * Doesn't have filtered/advanced search
+   * Doesn't have home page with content from all repos
+   * Doesn't have sufficient navigation
+   * Doesn't have submit WYSIWYG
+   * Doesn't have submit question/feedback
+   * Doesn't have complex insights
+   * Doesn't integrate with Google Analytics
 
 ### [GitHub Pages](https://pages.github.com/)
  * Pros
