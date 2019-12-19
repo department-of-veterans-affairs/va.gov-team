@@ -5,13 +5,7 @@
 - Staging: staging.va.gov/track-claims (redirects to staging.va.gov/track-claims/your-claims)
 
 ## Testing
-- [How to log into staging](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv)
-- Staging users:
-  - No claims: vets.gov.user+314@gmail.com
-  - Some claims: vets.gov.user+226@gmail.com
-  - One or more closed claims: vets.gov.user+226@gmail.com
-- Local users (via Betamocks / `vets-api-mockdata`):
-    - vets.gov.user+264@gmail.com
+- [How to log into staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
 
 ## Important Keywords
 claims, claims status, compensation claim, claims and appeals, claim for compensation, claims list, check claims
@@ -28,7 +22,7 @@ If a Veteran isn't pleased with their rating decision from VA, they can ask for 
 
 - Demo Video V1: https://youtu.be/74u3L23uX4M
 - Demo Video V2: https://youtu.be/4_iGavrnj_k
-- Hopes and dreams beyond MVP: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Claim%20Status/track-claim-status/design-documents/Version2.md
+- Hopes and dreams beyond MVP: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/track-claim-status/design/version2.md
 
 ---
 ## Points of Contact (POCs)
@@ -40,14 +34,14 @@ Business Subject Matter Experts (SMEs)
   - Pension and Fiduciary Service: Kevin Friel, Kristina Messenger
   - Vocation Rehabilitation & Employment (VR&E): Jack Kammerer
 ### DSVA: 
-- Andrea Schneider - [Andrea.Schneider@va.gov](mailto:Andrea.Schneider@va.gov)
+- Andrea Schneider
 ### Ad Hoc:
 - Sprint Team: Apps Team 1 / Unicorns - [#unicorns-team](https://dsva.slack.com/archives/C5AGLBNRK)
-- Product Manager: Mark Greenburg - [mark.greenburg@adhocteam.us](mailto:mark.greenburg@adhocteam.us)
+
 ---
 
 ## Background, Narrative, and Important Decisions:
-_See [Project Charter](./ClaimStatusIt2_Charter_Signed.pdf) for more information_
+_See [Project Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/claimstatusit2-charter-signed.pdf) for more information_
 
 ### Context
 - Comp Services is the main stakeholder
@@ -114,13 +108,13 @@ This is an algorithm owned by the PA&I team who does the calculation on their si
 - eBenefits allows opening up docs from eFolder, Claims Status tool on va.gov only shows doc names
 
 ### Screenshots
-[Claims List](./Screenshots/Claims%20List%20-%20Has%20Claims.png)  
-[Claim Details - Status Tab](./Screenshots/Claim%20Details%20-%20Status.png)  
-[Claim Details - Files Tab](./Screenshots/Claim%20Details%20-%20Files.png)  
-[Claim Details - Details Tab](./Screenshots/Claim%20Details%20-%20Details.png)  
+[Claims List](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status/screenshots)  
+[Claim Details - Status Tab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/screenshots/claim-details-status.png)  
+[Claim Details - Files Tab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/screenshots/claim-details-files.png)  
+[Claim Details - Details Tab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/screenshots/claim-details-details.png)  
 
 ## Error Handling
-- EVSS -> vets-api: [List of error codes that vets-api receives from EVSS and upstream services](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Claim%20Status/track-claim-status/technical/Error.Codes.and.Explanations.pdf)
+- EVSS -> vets-api: [List of error codes that vets-api receives from EVSS and upstream services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/track-claim-status/technical/error.codes.and.explanations.pdf)
 - vets-api -> vets-website: [List of error codes, descriptions, and UIs](./Error%20Handling.md)
 
 ## Service Level Objectives
@@ -149,12 +143,12 @@ The Claims Status product on va.gov makes use of two `vets-api` calls:
 - `v0/evss_claims_async` (returns a list of all claims for a veteran)
 - `v0/evss_claims_async/{claim_id}` (returns detail for a single claim)
 
-These `vets-api` endpoints are a pass-through for connecting to the evss async claims service. `vets-api` documentation for various EVSS services can be found in the [EVSS section of the vets-api readme](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Data/Data-Services/EVSS)
+These `vets-api` endpoints are a pass-through for connecting to the evss async claims service. `vets-api` documentation for various EVSS services can be found in the [EVSS section of the vets-api readme](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS)
 
-EVSS connects to BGS to retrieve the requested data. BGS has known uptime issues stemming from planned and unplanned maintenance, especially over the weekends. Please see related information on the BGS system in the [vets-api database documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Data/Databases)
+EVSS connects to BGS to retrieve the requested data. BGS has known uptime issues stemming from planned and unplanned maintenance, especially over the weekends. Please see related information on the BGS system in the [vets-api database documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/BGS)
 
-Optionally, veterans can [upload additional files to open claims](./track-claim-status/technical/document_upload), which uses vets-api's EVSS document upload endpoint, `/v0/evss_claims/${claimId}/documents`
+Optionally, veterans can [upload additional files to open claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/track-claim-status/technical/document-upload.md), which uses vets-api's EVSS document upload endpoint, `/v0/evss_claims/${claimId}/documents`
 
 ## Known issues
-Known issues and product backlog is being tracked via the [claim status label](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=claim%20status&notFullScreen=false&repos=33202667,62409417,31788863) on our zenhub boards.
+Known issues and product backlog is being tracked via the claim status label on our zenhub boards.
 
