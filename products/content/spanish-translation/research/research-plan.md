@@ -137,33 +137,18 @@ Carola and Jen will pilot script and logistics before first user.
 
 **Team roles**
 
-Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.
+Please list the people who will be serving in each role. 
 
-- Interviews in Spanish - Carola Ponce carola.dsva@gmail.com,
-- Researcher and Content Strategist, note taker/observer - Jennifer Lee  jennifer.lee27@va.gov
+- Interviews in Spanish - Carola Ponce
+- Researcher and Content Strategist, note taker/observer - Jennifer Lee  
 - Additional observer - Sandy Tadeo, VBA stakeholder
 
 
 
 **Stakeholders**
 
-Tadeo, Sandy A., VBAVACO <Sandy.Tadeo@va.gov>
+Tadeo, Sandy A., VBAVACO 
 
-**Resources**
-
-https://github.com/department-of-veterans-affairs/va.gov-team/issues/60
-
-**Project brief:** (__note: link points to vets.gov-team GitHub repo__)
-
-https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/benefits-spanish-localization
-
-
-**Discussion guide:** (__note: link points to vets.gov-team GitHub repo__)
-
-https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/benefits-spanish-localization  [placeholder here]
-
-Notes & Recordings Session notes and recordings should live in the appropriate vets dotgov-team product folder, simply place links to them here: 
-TBD
 
 **Synthesis Link to any documents used for synthesis (Mural or Realtime-board boards, excel sheets, other data outputs, etc.)**
 TBD
