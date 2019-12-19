@@ -38,7 +38,7 @@ We will like to talk to Veterans requesting a Higher-Level Review, Decision Revi
 
 ## Resources
 - Discussion Guide
-- [Script](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Decision%20Reviews/Research%20and%20Design/research-discovery-script.md) 
+- [Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/research/research-discovery-script.md) 
 - Notes & Recordings
 - Synthesis
 - Read-Out/Results
