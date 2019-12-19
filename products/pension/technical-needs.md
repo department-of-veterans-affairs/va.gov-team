@@ -63,8 +63,6 @@
   - Others
   - Payee Code non-00
 
-![Image of Option 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Pension%20-%20Burial/Option1_Pension%26Burial.PNG)
-
 
 ### Option 2 - Sending documents to Centralized Mail Portal
 ### MVP Capabilities Needed
@@ -83,5 +81,4 @@
 ### Assumed Services needed (in progress) for Option 1
   - Centralized Mail Portal API (looking into if it exists/potential for creation)
   
-  
-![Image of Option 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Pension%20-%20Burial/Option2_Pension%26Burial.PNG)
+ 
