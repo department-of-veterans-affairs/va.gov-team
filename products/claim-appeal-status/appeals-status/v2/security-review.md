@@ -50,7 +50,7 @@
 - [ ] Alerts
 
 * Appeals v2 alerts carry over from V1 and are given a `component` label in prometheus, and are subject to the `ApplicationErrorRateCritical` and `ComponentLatencyCritical` alerts triggered by revproxy measurements
-* Breakers-based alerts may be desirable (https://github.com/department-of-veterans-affairs/vets.gov-team/issues/5707)
+* Breakers-based alerts may be desirable 
 
 - [ ] Rate Limits
 
