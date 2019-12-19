@@ -1,4 +1,4 @@
-# Requesting Redirects
+# Content Ticketing Process
 
 If you have a URL (or multiple URLs) that need to be redirected, please request the redirect via an issue in Zenhub in the ```va.gov-team repo```. 
 
