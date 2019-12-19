@@ -11,7 +11,7 @@
 
 ### Links
 - [Invision link](https://va-gov.invisionapp.com/share/ZGEVYXYYU#/268523566_1_Progress_Bar_Closed)
-- [Ramp Letter](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/V2/User%20Research/December%20Usability/RAMP%20Opt-in%20Letter.docx)
+- [Ramp Letter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/v2/research/ramp-opt-in-letter.docx)
 
 ## Intro statement (3 minutes)
 
