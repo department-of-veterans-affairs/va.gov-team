@@ -1,10 +1,10 @@
-### **CMS Team Testing Paint Points Interview Observations**
+## **CMS Team Testing Paint Points Interview Observations**
 
 Kevin Walsh: Product Owner
 
 Jeff Brauer: Delivery Manager
 
-#### Problem Description #1
+### Problem Description #1
 
 - Kevin H. testing new navigation design strategy for Pittsburgh
 
@@ -14,7 +14,7 @@ Jeff Brauer: Delivery Manager
 
 
 
-##### Desired Solution Approach
+#### Desired Solution Approach
 
 - We need more places than staging.va.gov where latest content and pre-prod code meet. For demos, e2e testing of a feature branch (one environment for an epic), content sandbox.We’re probably not the right team to push forward an architecture.
 
@@ -22,7 +22,7 @@ Challenges: building a non-technical UI for choosing between two different branc
 
 
 
-#### Problem Description #2
+### Problem Description #2
 
 - Broken links in content that prevent builds from working. Worst-case scenario: an emergency notification needs to go out but a broken link elsewhere in CMS is preventing deployment. 
 
@@ -30,7 +30,7 @@ Challenges: building a non-technical UI for choosing between two different branc
 
 
 
-##### Desired Solution Approach
+#### Desired Solution Approach
 
 - Preview feature for CMS: get feedback on broken links, accessibility, plain language before hitting send. 
 
@@ -38,7 +38,7 @@ Challenges: building a non-technical UI for choosing between two different branc
 
 
 
-#### Problem Description #3
+### Problem Description #3
 
 - Redirects - coordination around changing URLs is unwieldy, not scalable. 
 
@@ -46,7 +46,7 @@ Challenges: building a non-technical UI for choosing between two different branc
 
 
 
-### Pain Point Ranking
+## Pain Point Ranking
 
 1. Fragility of CMS 
 
@@ -58,7 +58,7 @@ Challenges: building a non-technical UI for choosing between two different branc
 
 
 
-#### Positives
+### Positives
 
 - Great relationship with platform team 
 
