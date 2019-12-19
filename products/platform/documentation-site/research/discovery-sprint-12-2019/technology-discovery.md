@@ -8,9 +8,10 @@ Methodology: After looking at all of the potential features we'd like to have, I
 ## Options
 ### GitHub
  * Pros
-   * COMING SOON
+   * Tracks and displays who made the last edit, and when
+   * 
  * Cons
-   * COMING SOON
+   * Doesn't track who the content owner is
 
 ### [GitHub Pages](https://pages.github.com/)
  * Pros
@@ -26,7 +27,6 @@ Methodology: After looking at all of the potential features we'd like to have, I
    * Add value to your documentation by customizing your space to match your branding.
    * GitBook has multi-file drag and drop uploads. I tested with `.pdf`, `.jpg`, `.gif`.
    * GitBook shows who made the last edit, and when.
-   * GitBook supports comments from writers
    * I'm using an unauthenticated private window in another browser, and I can view my GitBook without logging in.
    * GitBook is free for open-source & non-profit teams
    * Search visually distinguishes between page names and page contents
@@ -35,9 +35,24 @@ Methodology: After looking at all of the potential features we'd like to have, I
    * You can use the `/gitbook [search query]` command in Slack to search for a specific term in your documentation.
    * You can use Google Analytics to track your project's traffic and page views!
    * A bi-directional GitHub integration. The integration with GitHub is very easy to use: if you change your content on GitBook, your edits are pushed to a GitHub repository. Conversely, commits pushed to a GitHub repository are imported.
+   * Has repo-level navigation on the left
+   * Has file level navigation (table of contents/sections) on the right
+   * Has a Edit this File button
+   * Has page ratings for all users, including unauthenticated users
+   * Has comments from writers
+   * Has WYSIWYG/Drag and Drop file upload
+   * Has file changelog (because GitHub) has file changelog
  * Cons
    * Not currently accessible on VA network
    * There are repo-level books, but there doesn't seem to be organizational level books (no search across multiple repos)
+   * Doesn't track content owner (because GitHub doesn't track content owner)
+   * Doesn't display last reviewed at (because GitHub doesn't require files to be reviewed to be created/edited)
+   * Doesn't have content type labels
+   * Doesn't have advanced search AKA search with filters
+   * Doesn't have an organization home page with content from all repos
+   * Doesn't have a submit feedback feature
+   * Doesn't display edits over time/edits per page/etc insights
+
  * References
    * https://docs.gitbook.com/#with-gitbook-you-can
    * https://www.gitbook.com/pricing
