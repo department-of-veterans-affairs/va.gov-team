@@ -11,34 +11,17 @@
 ### Actual Results
 *User receives error messages that their address could not be updated and their old address remains on their profile*
 
-## Sample Addresses Collected
+## Sample Address Table
 
-*2212 S. Chickasaw Trail, Unit 4, Orlando, Fl. 32825*
-
-*3954 SW 112th St, Ocala, Florida 34476*
-
-*1035 Recore Ridge Road, Bessemer City, NC 28016*
-
-*5965 Bridle Dr. Cumming GA. 30028*
-
-*1805 E Golden Oak Ct. Meridian, ID 83646*
-
-*1226 IMPERIAL BEND DR HOUSTON Texas 77073*
-
-*Lot 36 Block 4A Camella Baliwag Phase 3 Pagala Baliuag Bulacan, Philippines 3006*
-
-G CO 2-238 GSAB
-TF DRAGON
-APO AE 09355
-
-*64 Dodder Lane, Spring Branch, TX 78070*
-
-*7810 Rosedale Rd Terre Haute, IN 47805*
-
-*2033 south hill Biloxi ms 39532-4341*
-
-*12012 Sound Drive, Anderson Island, WA 98303* 
-
-*331 W Crawford St, Elkhart, IN 46514* 
-
-*2654 Chardonnay Ln Lodi, CA 95242*
+| Sample Addresses Collected| Use Case        | Addt'l Notes |
+| -----------------------:| ---------------------------:| -------------------------:
+|2212 S. Chickasaw Trail, Unit 4, Orlando, Fl. 32825| Message suggests a missing unit number, offers to override with the same address entered|System suggest correcting missing unit number, same unit number entered by user|
+|3954 SW 112th St, Ocala, Florida 34476|Successfully updates/saves|
+|1035 Recore Ridge Road, Bessemer City, NC 28016|Message - We couldn’t confirm your address with the U.S. Postal Service. Please verify your address so we can save it to your VA profile. If the address you entered isn’t correct, please edit it or choose a suggested address below.|System suggest correcting address, same address entered by user|
+|5965 Bridle Dr. Cumming GA. 30028|Successfully updates/saves|
+|1805 E Golden Oak Ct. Meridian, ID 83646|Successfully updates/saves|
+|1226 IMPERIAL BEND DR HOUSTON Texas 77073|Successfully updates/saves|
+|Lot 36 Block 4A Camella Baliwag Phase 3 Pagala Baliuag Bulacan, Philippines 3006|
+|G CO 2-238 GSAB TF DRAGON APO AE 09355|Message - We couldn’t confirm your address with the U.S. Postal Service. Please verify your address so we can save it to your VA profile. If the address you entered isn’t correct, please edit it or choose a suggested address below.| System suggest correcting address, same address entered by user|
+|64 Dodder Lane, Spring Branch, TX 78070|Message-We couldn’t confirm your address with the U.S. Postal Service. Please verify your address so we can save it to your VA profile. If the address you entered isn’t correct, please edit it or choose a suggested address below.|System suggest correcting address, same address entered by user|
+|575 20th, San Francisco CA 14214 |Message- We couldn’t confirm your address with the U.S. Postal Service. Please verify your address so we can save it to your VA profile. If the address you entered isn’t correct, please edit it or choose a suggested address below.|Returns two suggested addresses to select|
