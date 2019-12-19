@@ -1,6 +1,6 @@
 An initial set of tags to use for [this project in Reframer](https://www.optimalworkshop.com/a/adhoc/reframer/projects/12486) so that we can have consistency and gather themes. If you come up with a need for a tag that's not included here, please feel free add it to Reframer. It's helpful to include a description for new tags (use the description field in Reframer) so that others know what they mean and can use them in the same way.
 
-# [Research Project Goal](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098) Tags
+# Research Project Goal: Tags
 
 1. Are users able to successfully self-select onto the correct path (claim for increase)? - **tag: selfselection**
    1. Is it useful for only claims for increase to be possible in vets.gov and to have to go to eBenefits for other types of disability applications? - **tag: scope**
