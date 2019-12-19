@@ -6,7 +6,7 @@
 1. What product & team are you doing this research for? 
     - Appeal Status V3 for the Appeals team.
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?
-    - Appeal Status is a tool on VA.gov that Veterans use to track their Board appeal at the Board of Veterans Appeals. Product history can be found in the Appeal Status [repo](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status).
+    - Appeal Status is a tool on VA.gov that Veterans use to track their Board appeal at the Board of Veterans Appeals. Product history can be found in the Appeal Status [repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status).
 
 3. Research questions: What question(s) do you hope to be able to answer after completing this research?
     - Does content about Appeals Modernization Act (AMA) on VA.gov make sense for Veterans looking for a decision review?
@@ -93,4 +93,4 @@ Please list the people who will be serving in each role. Include the primary pho
 
 - Read-Out/Results
   - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.*
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
