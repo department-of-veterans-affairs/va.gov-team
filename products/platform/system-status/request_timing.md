@@ -109,6 +109,10 @@ TODO
     * CSV or other format 
     * It looks like the product tool mock is expecting a Grafana chart
     
+* Defining a Histogram with SLO requirements for expected request percentiles: https://prometheus.io/docs/practices/histograms/#apdex-score
+
+* Average Request Times: http://grafana.vfs.va.gov/d/Dp_Z5xfWk/backend-service-report-copy-request-timing?orgId=1&from=now-6h&to=now (Todo: need to report on a per endpoint basis)
+    
 
 ### Other
 * [ZH Ticket](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4162)
