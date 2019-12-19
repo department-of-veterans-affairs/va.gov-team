@@ -122,4 +122,4 @@
 - Think about static content entry/exit points, and places to link into the form from Vets.gov
 - Map out flow of questions, conditional logic. Alex has a good system that has been well-received as handoff artifacts for development
 
-See also [Form design process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Design/form-design-process.md)
+See also [Form design process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
