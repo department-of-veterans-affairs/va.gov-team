@@ -2,10 +2,11 @@
 
 ## Communications
 - GitHub Label: search
-- Slack channel: #dragons-team, #search-internal
+- Slack channel: #Public Websites Team
 - Product POCs: 
-   - Steve Kovacs, DSVA (steven.kovacs@va.gov)
-   - Ben Barone, Ad Hoc (ben.barone@adhocteam.us)
+   - Jennifer Lee, DSVA (Jennifer.Lee27@va.gov)
+   - Dave Conlon, DEPO (David.Conlon@va.gov)
+   - Kara Kemahli, Ad Hoc (kara@adhocteam.us)
 - Search.gov POC: 
    - Dawn McCleskey (Dawn.mccleskey@gsa.gov)
    - Luke Samuels (Luke.samuels@gsa.gov)
@@ -23,11 +24,11 @@
 - [Keywords](#keywords)
 
 ## User Problem Statement
-Once va.gov relaunches, users need a way to search content across both old and new va.gov properties
+Onsite search has not been revisited since the rebranding launch and transition from vets.gov to VA.gov. Since then many legacy pages and forms have been redirected to VA.gov., but a number of subdomains still exist and have not been brought in to the new VA.gov site experience. 
 
 ### User Goals
 - Find relevant content on the relevant property when performing a search
-
+- Find relevant content on the relevant property when performing a search
 ### Business Goals
 - Create a cohesive brand across the VA through direct control of the search page layout and look
 - Maintain good relations with other VA offices by including their content in the search and linking off to other relevant search tools
