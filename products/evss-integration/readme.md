@@ -1,6 +1,6 @@
 # EVSS Integration
 
-Vets.gov relies on a growing set of services that provide functionality being migrated and transformed from [eBenefits](https://www.ebenefits.va.gov). You can play around on eBenefits by following [these instructions](eBenefits_test_accounts.md).
+Vets.gov relies on a growing set of services that provide functionality being migrated and transformed from [eBenefits](https://www.ebenefits.va.gov). You can play around on eBenefits by following [these instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md).
 
 ## Services
 
@@ -21,7 +21,7 @@ There are a number of EVSS environments, but the ones we care about are
 
 ## API Documentation
 
-[Instructions for connecting to the CSRA VPN](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/EVSS%20Integration/Engineering%20Assets.md)
+[Instructions for connecting to the CSRA VPN](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/evss-integration/engineering-assets.md)
 
   * Common Services
     * Swagger docs: ?
