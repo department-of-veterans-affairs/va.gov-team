@@ -1,7 +1,7 @@
 ---
 name: 508 Pre-launch Review
 about: Request an accessibility review as part of the pre-launch checklist
-title: Request accessibility/508 review for ENTER_PRODUCT_NAME
+title: Request Accessibility / 508 Pre-launch Review for ENTER_PRODUCT_NAME
 labels: 508/Accessibility, launch review, product support
 assignees: 1Copenut
 
