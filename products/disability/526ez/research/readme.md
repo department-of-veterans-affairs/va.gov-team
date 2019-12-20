@@ -6,19 +6,19 @@ To better understand how Veterans file a claim and how the case is worked therea
 
 ## Research Initiatives
 
-- [August 2017](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/august-2017): Discovery Sprint to understand how Veterans file a claim
-- [September 2017](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/september-2017): eBenefits baseline usability
-- [January 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/january-2018): Claim for Increase MVP usability
-- [March 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/march-2018): All Claims
-- [April 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/april-2018): Caim for Increase MVP usability, round 2
-- [July 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/july-2018): DRC Convention Claim Assistance Office (Reno, NV) - Self Service Claim for Increase
+- [August 2017](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/aug-2017): Discovery Sprint to understand how Veterans file a claim
+- [September 2017](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/sep-2017): eBenefits baseline usability
+- [January 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jan-2018): Claim for Increase MVP usability
+- [March 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/mar-2018): All Claims
+- [April 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/apr-2018): Caim for Increase MVP usability, round 2
+- [July 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jul-2018): DRC Convention Claim Assistance Office (Reno, NV) - Self Service Claim for Increase
 
 
 
 
 ## Related Research Research
 
-- [Frog Research](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/EVSS%20Integration/2016_ux_discovery_by_frog)
+- [Frog Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/evss-integration/discovery)
 
 
 ## Reference Docs
