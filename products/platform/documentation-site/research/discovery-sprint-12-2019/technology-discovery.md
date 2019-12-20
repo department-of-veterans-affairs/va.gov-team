@@ -3,6 +3,7 @@
 TLDR: The author of our existing custom solution said he would go with an off the shelf solution, Slab seems to addresses all of our pain points out of the box, and Slab's core competency is building documentation software, whereas building documentation software is not one of our core competencies. 
 
 Reason for not choosing GitBook: If GitBook supported multi-repo search, I'd recommend GitBook. 
+
 Reason for not choosing updating/building new custom solution: Any custom solution will be subject to opportunity cost and/or maintence risk. 
 
 Context: 
