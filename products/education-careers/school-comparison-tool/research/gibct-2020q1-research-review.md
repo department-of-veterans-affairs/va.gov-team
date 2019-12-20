@@ -47,6 +47,8 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
 
 #### BAH Team GIBCT Research (2019)
 * Received input from DEPO for ongoing work with Caution Flags, including an example of a potential CT school card design. (12/18/19)
+* User demonstrated interest in Cautionary Information accordion  
+    * User scrolled down the profile page and paused at Cautionary Information. "Cautionary information. That’s cool." 
 
 
 ## Yellow Ribbon
