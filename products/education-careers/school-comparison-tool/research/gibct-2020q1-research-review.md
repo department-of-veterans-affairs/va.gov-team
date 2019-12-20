@@ -40,10 +40,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
     * Profile - Dashboard alerts & Cautionary Information accordion
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* No mentions
+* 
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
-* Note...
+* 
 
 #### BAH Team GIBCT Research (2019)
 * Note...
@@ -58,10 +58,10 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
   * Determine whether the YR rate can be institution-specific.
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* No mentions
+* 
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
-* Note...
+* 
 
 #### BAH Team GIBCT Research (2019)
 * Veterans find determining and understanding Yellow Ribbon benefits challenging.
@@ -109,7 +109,7 @@ understand eligibility requirements and can view a list of participating schools
     * Profile - Dashboard 
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* No mentions
+* No mention
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
 * Note...
@@ -125,10 +125,10 @@ understand eligibility requirements and can view a list of participating schools
 * Profile - potential areas to add & update in "Additional information" accordion. 
 
 #### Prioritized Enhancements XLS (Fall 2019)
-* No mentions
+* 
 
 #### DSVA / EDU GIBCT Roadmap (Jan-Jun 2020)
-* Note...
+* 
 
 #### BAH Team GIBCT Research (2019)
 * Veteran would like to see a list of programs offered by the school
