@@ -1,3 +1,30 @@
+# Interview 7
+- Date: 12/20/19
+- Participant initials: JHL
+- Participant role: 
+
+### Notes: 
+
+#### You meantioned that you've been involved in managing documentation at the National Library of Medicine. Can you explain more about that? 
+
+#### What information did the documentation provide? 
+
+#### What tools and processes have you found effective in the past? 
+
+#### What tools and processes have you found ineffective in the past? 
+
+#### What processes did you use to set standards across different teams who were contributing to the documentation?
+
+#### How did you ensure that the information stayed up to date? 
+
+#### Did you maintain a culture that valued documentation? If so, how? If not, what do you think prevented that?
+
+#### What do you think VSP, the platform team, can learn from this example? 
+
+#### If you had the chance to create that ecosystem again, what would you do differently?
+
+#### If you had to choose 3 things that you think were critical to your success, what would you say those were?
+
 # Interview 6
 - Date: 12/17/19
 - Participant initials: KL
