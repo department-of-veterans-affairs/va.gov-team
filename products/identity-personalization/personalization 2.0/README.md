@@ -11,8 +11,9 @@ __Please note: some links in this document point to documents in the vets.gov-te
 
 |Name|Role|Email|
 |----|----|-----|
-|Samara Strauss |Auth exp lead designer; Personalization 2.0 project lead| samara.strauss@va.gov |
+|Samara Strauss |Auth exp team lead designer| samara.strauss@va.gov |
 |Justin Pickett |Auth exp PM| jpickett@governmentcio.com |
+|Tressa Furner |Auth exp team designer| tressa.furner@adhocteam.us |
 |Arthur Green |Auth exp designer| jpickett@governmentcio.com |
 |Erik Hansen | Auth exp FE engineer| erik@adhocteam.us |
 |Brad Conley | Auth exp FE engineer| bconley@governmentcio.com |
