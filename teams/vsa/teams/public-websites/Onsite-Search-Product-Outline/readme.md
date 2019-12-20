@@ -30,10 +30,12 @@ Onsite search has not been revisited since the rebranding launch and transition 
 
 ### Business Goals
 - Create a cohesive brand across the VA through direct control of the search page layout and look
+- Provide a more comprehensive sitemap so search results are more accurate by allowing searching within a subdomain
 - Maintain good relations with other VA offices by including their content in the search and linking off to other relevant search tools
 
 
 ## Assumptions
+- Capturing click events and sending them back to search.gov will help prioritize indexing
 - the search.gov endpoint will function as well or better than the current search.gov implementation on vets.gov
 - users prefer to find content for the following search tools on separate pages (and not within the search itself):
    1. Look up Board of Veterans' Appeals (BVA) decisions — https://www.index.va.gov/search/va/bva.jsp
@@ -42,16 +44,15 @@ Onsite search has not been revisited since the rebranding launch and transition 
    4. Explore and apply for open VA jobs — https://www.vacareers.va.gov/job-search/index.asp
 
 
-## Scope for Nov 7 launch
+## Scope 
 - the header / footer must match the header / footer on the new VA.gov to allow user navigation and UX consistency
 - the layout of the page must be accessible to changes
 - the sidebar must have links to the four tools listed under assumptions above
-- search queries must hit a sitemap consisting of both new va.gov property pages and old teamsite hosted pages
+- search queries must hit a sitemap consisting of both new va.gov property pages and old teamsite hosted and subdomain pages
 
 
 ## Solution Approach
-Two phase implementation
-   1. V1 - Implement the externally hosted search.gov results page so that we can have control over what pages we sitemap and index
+   1.  - Implement the externally hosted search.gov results page so that we can have control over what pages we sitemap and index
    2. V2 - Implement a new, built from scratch FE/BE search product that leverages the search.gov API endpoint and allows for full control over the product and page
 
 
