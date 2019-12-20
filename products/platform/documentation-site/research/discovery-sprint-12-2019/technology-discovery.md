@@ -46,8 +46,11 @@ Methodology: After looking at all of the potential features we'd like to have, I
    * Has Post history
    * Has comments/questions
    * Has publicly shareable post links
+   * Has some insights
+   * Is accessible on VA Network
  * Cons
    * Price (~$24k per year for 300 people)
+   * Doesn't integrate with Google Analytics
 
 ### [GitBook](https://www.gitbook.com/)
  * Pros
