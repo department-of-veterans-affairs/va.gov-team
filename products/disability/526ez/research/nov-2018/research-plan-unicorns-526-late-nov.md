@@ -45,23 +45,9 @@ Please list the people who will be serving in each role.
 - Note-takers: Dawn Muñoz
 - Observers: Andrea Schnieder
 
-Please extend email invites to:
-
-alastair@adhocteam.us,
-alex@adhocteam.us,
-Andrea.Z.Schneider@omb.eop.gov,
-chris.valarida@adhocteam.us,
-dawn@adhocteam.us, 
-evangeline@adhocteam.us,
-katelyn@adhocteam.us,
-Lauren.Alexanderson@va.gov,
-mark.greenburg@adhocteam.us,
-peggy@thesocompany.com,
-silvio@adhocteam.us
-
 ## Resources
 - Project Brief: 
-  [Disability Compensation Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability) 
+  [Disability Compensation Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability) 
 - Discussion Guide
   *Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
 - Notes & Recordings
@@ -72,4 +58,4 @@ silvio@adhocteam.us
   *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 
 - Read-Out/Results
   - *Read-out presentation should live in the appropriate vetsdotgov-team product folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
