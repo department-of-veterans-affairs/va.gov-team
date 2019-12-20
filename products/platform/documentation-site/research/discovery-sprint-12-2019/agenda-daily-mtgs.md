@@ -168,3 +168,25 @@
 - Assign out notetakers and interviewers for interviews the next morning, if applicable
   - JHL, **notetaker: Dan (or Crystabel if there's a conflict), moderator: Megan**
   - Rian, **notetaker: Megan, moderator: Bill**
+
+---
+
+## Day 5 Start Meeting Agenda
+- Assign notetaker for this meeting: Rachael
+- Review goal and activities for the day
+- Updates
+  - Slab: seems like it might have things we want, but it's expensive. Doesn't seem to have discounted pricing options for open-source/govt. Some of the features we ID'd as critical, if they're deal-breakers, that limits our options. So need to determine the deal-breakers -- like searching across repos.
+  - 
+- (If applicable) Review scheduled interviews
+  - Assign notetakers for today's interviews
+   - JHL, **notetaker: Dan (or Crystabel if there's a conflict), moderator: Megan**
+   - Rian, **notetaker: Megan, moderator: Bill**
+  - Assign interviewers for today's interviews
+  - Review housekeeping for interviews (Megan or Crystabel lead discussion, anyone can ask questions as relevant)
+
+## Day End Meeting Agenda
+- Assign notetaker for this meeting
+- Roundtable of takeaways
+- Revisit goal progress for the day
+- Assign out necessary tasks to finish goal for the day
+- Assign out notetakers and interviewers for interviews the next morning, if applicable
