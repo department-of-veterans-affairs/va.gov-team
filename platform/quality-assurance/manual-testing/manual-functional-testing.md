@@ -6,7 +6,7 @@ We advise teams to begin conducting manual verifications of your changes mid-spr
 
 <hr>
 
-## Tools you'll need
+## What you'll need
 
 [TestRail](testrail/README.md)
   * Use TestRail to craft your test plan.  You should provide traceability by referencing user stories for each test case and by linkign issues discovered to the test execution that uncovered them.
