@@ -20,8 +20,6 @@
 
 ## Facebook Status
 
-Use this [photo](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/documents/IMG_0044.PNG)
-
 Are you a Veteran who has considered filing a disability compensation claim or do you know a Veteran who has? We want to hear from you.
 
 My team at the VA is working on online tools that help veterans manage their benefits. It's really important for us to hear your thoughts directly, so we can be sure what we're building works for you. 
