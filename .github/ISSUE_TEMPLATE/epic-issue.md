@@ -21,7 +21,7 @@ _Which Objective / Key Result does this epic push forward?_
 
 ## Definition of done
 _What must be true in order for you to consider this epic complete? 
-Consider incorporating Product Requirements, Technical Requirements, and Design Requirements.
+_Take into consideration Product, Technical, and Design Requirements.
 
 ## How to configure this issue
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `tools-be`, `tools-fe`,`content-ia`, `service-design`, `vsa-*`)
