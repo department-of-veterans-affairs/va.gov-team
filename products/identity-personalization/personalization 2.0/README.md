@@ -18,8 +18,6 @@ __Please note: some links in this document point to documents in the vets.gov-te
 |Erik Hansen | Auth exp FE engineer| erik@adhocteam.us |
 |Brad Conley | Auth exp FE engineer| bconley@governmentcio.com |
 |Lihan Li | Auth exp BE engineer | lihan@adhocteam.us |
-|Tze-chiu Lei | VSA QA Analyst | tze@adhocteam.us |
-
 
 ## The Problem
 
