@@ -13,21 +13,21 @@ Our team, Benefits & Memorials 2, is working on modernizing the digital mechanis
 - Become familiar with the pain points for prosthetic socks customers 
 
 #### Key Takeaways (Riley):
-- Prosthetic sock orders account for 1-2% of all orders (similar to what the first customer service rep stated)
-- Veterans with amputated limbs may be moving away from prosthetic socks due to gel liners 
-- Hearing aid customers are frustrated because eBenefits lists that hearing aid accessories can be ordered, but that functionality was removed a while ago 
-- Ordering hearing aid accessories was removed from eBenefits due to veterans ordering incorrect accessories because many different brands carry accessories with the same product name 
-- One of the greatest challenges is when a veteran’s record is not updated in VISTA/ROES 
-- Some veterans are claiming that the batteries they’re using are not lasting as long as they used to. This may be due to technology advancements allowing hearing aids to connect to TVs and cell phones via bluetooth, but not all veterans claiming this use bluetooth technology
-- “The population that we serve seem to move quite frequently for whatever reason.” - Receives quite a few calls from veterans claiming they never received their order
-- “And so because of the nature of amputations and the shape of the remaining limb, almost every sock is like custom made.” 
-- Sometimes veterans are disappointed because they found a sock that they are comfortable using and it’s discontinued when they try to place an order 
-- “Some of the veterans don’t even go through us, they just email Jeff directly” 
-- The DLC will send out 3, 6, or 12 socks. If a veteran is ordering multiple types of socks, they will still receive 3, 6, or 12 socks for each sock type. 
-- “I think we service 3.5 million hearing-impaired veterans.”
-- Although not the bulk of their customer-base, the DLC does ship orders internationally 
-- Regularly reaches out to Jeff with questions about prosthetic socks orders 
-- *Note: Kevin attended our weekly team meeting and confirmed that functionality allowing veterans to order hearing aid accessories was never available online.*
+- The customer service rep is a prosthetic socks user (leg), but does not order through the VA. He is planning to in the future. 
+- He needs to change his socks multiple times a day as his leg becomes skinnier
+- Socks are numbered, with higher numbers equaling thicker socks; 5 is the highest number
+- Thread color inside the sock indicates thickness: 1 is yellow, 3 is green, 5 is blue
+- He needs to replace is socks every 3-4 months
+- He only spends a couple times a week processing prosthetic socks orders
+- Receives 3-4 mail orders a week for prosthetic socks
+- Estimates 97% of his day is spent on hearing aid supplies through the phone
+- If the DLC has an email address on file for a customer, they send out an order confirmation and tracking number
+- The DLC receives a lot of calls of customers looking to purchase diabetic/compression socks. They do not carry these socks. 
+- Prosthetic socks sizing can change without the veteran realizing, so they can order the incorrect items and need to be redirected to their healthcare provider to take new measurements
+- Most complaints received from socks customers: incorrect sizes & requesting a specific brand no longer available
+- The DLC services more prosthetic socks for legs than arms
+- The customer service reps have not been trained on prosthetic socks orders, so many of those calls are redirected to Jeff
+- The DLC receives a dozen or more calls a month from customers who are unable to place orders through eBenefits with some of the issues being incorrect product information or not being in the system 
 
 ## Notes:
 Note: **Moderator is in bold**
