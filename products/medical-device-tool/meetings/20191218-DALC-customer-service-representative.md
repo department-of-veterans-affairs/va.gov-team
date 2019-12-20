@@ -27,6 +27,7 @@ Our team, Benefits & Memorials 2, is working on modernizing the digital mechanis
 - “I think we service 3.5 million hearing-impaired veterans.”
 - Although not the bulk of their customer-base, the DLC does ship orders internationally 
 - Regularly reaches out to Jeff with questions about prosthetic socks orders 
+- *Note: Kevin attended our weekly team meeting and confirmed that functionality allowing veterans to order hearing aid accessories was never available online.*
 
 ## Notes:
 Note: **Moderator is in bold**
