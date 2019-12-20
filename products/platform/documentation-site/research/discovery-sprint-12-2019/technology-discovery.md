@@ -23,11 +23,11 @@
 - Is accessible on VA Network
 
 *What did we learn that helped us further narrow our research?*
-* Multi-repo search was a deal-breaker.
-* File history was a deal-breaker*
-* Navigation/Table of Contents is a deal-breaker
-* Most, but not all, of survey respondents are comfortable using Markdown
-* Our recommendation should not hinge on price, and/or accessibility on the VA network. While that may factor in the decision, that is not our decision to make. 
+- Multi-repo search was a deal-breaker.
+- File history was a deal-breaker
+- Navigation/Table of Contents is a deal-breaker
+- Most, but not all, of survey respondents are comfortable using Markdown
+- Our recommendation should not hinge on price, and/or accessibility on the VA network. While that may factor in the decision, that is not our decision to make. 
 
 ---
 
