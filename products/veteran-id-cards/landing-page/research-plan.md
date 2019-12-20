@@ -2,7 +2,7 @@
 
 ## Goals
 1. This document outlines research for the new VIC landing page.
-2. [Background of the VIC intiative overall](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Veteran%20Identification%20Card%20v2), [goals of this landing page here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/Landing%20Page%20-%20Aug%202018/project_brief.md)
+2. [Background of the VIC intiative overall](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards), [goals of this landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/landing-page/project-brief.md)
 3. Research questions
     - Do Veterans understand the different types of Veteran identification cards and the differences between them?
     - Are Veterans able to determine their eligibility for each type of ID card?
@@ -52,10 +52,10 @@ Please list the people who will be serving in each role.
 
 ## Resources
 - Project Brief: 
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/Landing%20Page%20-%20Aug%202018/project_brief.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/landing-page/project-brief.md
 
 - Discussion Guide
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/Usability%20-%20Aug%202018/conversation_guide.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/landing-page/conversation-guide.md
 
 - Notes & Recordings
 *Session notes and recordings should live in the appropriate vetsdotgov-team product folder, simply place links to them here.*
@@ -68,4 +68,4 @@ https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Prod
 
 - Read-Out/Results
   - *Read-out presentation should live in the appropriate vetsdotgov-team product folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
