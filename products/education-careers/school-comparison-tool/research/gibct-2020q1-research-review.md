@@ -3,7 +3,7 @@
 ## Topics
 * [STEM Scholarship Application Routing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#stem-scholarship-application-routing)
 * [Caution Flag (SRP & Profile Page)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#caution-flag-srp--profile-page)
-* [Yellow Ribbon]()
+* [Yellow Ribbon](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#yellow-ribbon)
 * [Reduce Veteran Risk in School Selection]()
 * [Ability for providers to update their own content]()
 * [Yelp-style Reviews]()
