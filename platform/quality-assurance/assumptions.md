@@ -9,4 +9,3 @@
 - Firefox
 - Edge
 - Mobile Chrome
-

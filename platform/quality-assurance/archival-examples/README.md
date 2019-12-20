@@ -8,3 +8,4 @@
 1. [Form 526 test execution](526-all-claims-manual-qa.xlsx)
 1. [QA research for production issue](qa-pi8.docx)
 1. [Cross browser testing template](template-cross-browser-manual-testing.xlsx)
+1. [About disability ratings QA materials](about-disability-ratings\README.md)
