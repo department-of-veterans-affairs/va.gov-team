@@ -10,13 +10,13 @@ In particular, we are interested in learning about:
 - Photo: Do Veterans want their photo on the card and how feasible is it for them to do this? 
 - Appearance: How do Veterans feel about a digital option? 
 
-[View Discovery Files, including notes and recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery)
+[View Discovery Files, including notes and recordings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/research/discovery)
 
-[View Reframer](https://www.optimalworkshop.com/a/adhoc/reframer/projects/b5631c70-e04f-4329-8cf5-bc59f0a7181c). [Raw codebook](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery/VeteranIdentificationCardv2_codebook_2018-01-13_20_23_10_filtered.xlsx) is in discovery files. 
+[View Reframer](https://www.optimalworkshop.com/a/adhoc/reframer/projects/b5631c70-e04f-4329-8cf5-bc59f0a7181c). [Raw codebook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/veteranidentificationcardv2-codebook-2018-01-13-20-23-10-filtered.xlsx) is in discovery files. 
 
-[View Readout Presentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery/Discovery%20Research%20Readout%20.pptx) 
+[View Readout Presentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-research-readout-.pptx) 
 
-[A collection of comments from Veterans on preferences for card appearance](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery/card_quotations_sample.md)
+[A collection of comments from Veterans on preferences for card appearance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/card-quotations-sample.md)
 
 ## Usability (Jan 22-26, 2018)
 
@@ -29,17 +29,17 @@ In particular, we want to learn about:
 - Are Veterans able to use the DD214 upload? What issues do they encounter?
 - Do Veterans feel better informed about next steps? 
 
-[Read Usability Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/usability_test_jan_18/README.md)
+[Read Usability Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/research/usability-testing)
 
-[Notes and Recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/usability_test_jan_18/research_notes_recordings.md) - Notes are shared as links either to optimal sort or to .md. Recordings are audio files shared through slack due to file size. 
+[Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/research/usability-testing) - Notes are shared as links either to optimal sort or to .md. 
 
 **Analysis**
 During this research study, the product team, content team, and engineers were invited to participate as observers in the sessions. Paris and Lauren solicited comments from the observers to include as part of the analysis. Analysis was conducted using post-its on a wall at 811 Vermont and was transferred into a [*Trello board*](https://trello.com/b/Svowg4H5/vic-research-post-its) for the full remote Rainbows team. Notes are also in [*Optimal Workshop*](https://www.optimalworkshop.com/a/adhoc/reframer/projects/12525), but are not coded. 
 
 **Readouts**
 The team did a readout for the Vets.gov end-of-sprint demo, as well as a readout for the stakeholders
-- [Team readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/usability_test_jan_18/Combo%20Research%20Readout%20Jan%202018.pptx)
-- [Stakeholder readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/usability_test_jan_18/Usability%20Research%20Readout%20Jan%2022-26.pptx)
+- [Team readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/usability-testing/combo-research-readout-jan-2018.pptx)
+- [Stakeholder readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/usability-testing/usability-research-readout-jan-22-26.pptx)
 
 ## Lessons Learned from Research 
 ### Recruiting 
