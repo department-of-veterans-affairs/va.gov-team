@@ -100,8 +100,3 @@
 > Confirmation number: [tk]
 > Date received: [Jan. 12, 2018]
 
-Github issues: 
-[https://github.com/department-of-veterans-affairs/vets.gov-team/issues/8337](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/8337)
-[https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9052](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9052)
-
-> 

@@ -9,32 +9,20 @@ Source: [http://vaww.va.gov/6102/graphics_resource_center.asp](http://vaww.va.go
 Source: Adrien Creecy-Starks, Senior Assistant for Public Affairs Policy
 Office of the Assistant to the Secretary of Defense(Public Affairs)/Outreach
 DoD Branding and Trademark Licensing Program
-The Pentagon, Room 2D982
-Washington, DC 20301-1400
-Office:  703-695-6290
-Email:  [adrien.f.creecy-starks.civ@mail.mil](adrien.f.creecy-starks.civ@mail.mil)
-Secure Email:  Adrien.F.Creecy-Starks.civ@mail.smil.mil
-Fax:  703-697-2577
 Visit [www.defense.gov/Resources/Trademarks](www.defense.gov/Resources/Trademarks)
-          [www.dimoc.mil/resources/limitations.html](www.dimoc.mil/resources/limitations.html)
-
+      [www.dimoc.mil/resources/limitations.html](www.dimoc.mil/resources/limitations.html)
 
 ### Army Seal
-_Here is the Army Symbol that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._
-[https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/Army%20Symbol.jpg](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/Army%20Symbol.jpg)
+_Here is the [Army Symbol](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/card-design/army-symbol.jpg) that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._
 
 ### Air Force Coat of Arms
-_Here is the Air Force Coat of Arms that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._
-[https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/Air%20Force%20Coats%20of%20Arms.jpg](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/Air%20Force%20Coats%20of%20Arms.jpg)
+_Here is the [Air Force Coat of Arms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/card-design/air-force-coats-of-arms.jpg) that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._
 
 ### Coast Guard Mark 
-_Here is the Coast Guard Mark that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._
-[https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/CG_Emblem.png](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/CG_Emblem.png)
+_Here is the [Coast Guard Mark](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/card-design/cg-emblem.png) that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._
 
 ### Navy Mark
-_Here is the Navy Mark that may be used on the veteran ID cards only. No other use of these service marks is permissible without further request and approval._
-[https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/Navy%20Emblem.jpg](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/Navy%20Emblem.jpg)
+_Here is the [Navy Mark](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/card-design/navy-emblem.jpg) that may be used on the veteran ID cards only. No other use of these service marks is permissible without further request and approval._
 
 ### US Marine Corps Emblem
-_Here is the Marine Corps emblem that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._
-[https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/usmc%20emblem.bmp](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/card_design/usmc%20emblem.bmp)
+_Here is the [Marine Corps emblem](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/card-design/usmc-emblem.bmp) that may be used on the veteran ID cards only.  No other use of these service marks is permissible without further request and approval._

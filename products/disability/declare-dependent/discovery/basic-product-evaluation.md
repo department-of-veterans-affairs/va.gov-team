@@ -36,21 +36,21 @@ __Considerations__
 
 |Step|Screen|
 |---|---|
-|Personal Information|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/personal%20information.png)|
+|Personal Information|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/personal-information.png)|
 |---|---|---|
-|Getting Started|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/getting%20started.png)|
+|Getting Started|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/getting-started.png)|
 |---|---|---|
-|Manage Dependents|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/manage%20dependents.png) |
+|Manage Dependents|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/manage-dependents.png) |
 |---|---|---|
-|Upload Documents|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/upload%20documents.png)|
+|Upload Documents|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/upload-documents.png)|
 |---|---|---|
-|Error Check|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/error%20check.png)|
+|Error Check|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/error-check.png)|
 |---|---|---|
-|Validation|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/final%20validation.png)|
+|Validation|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/final-validation.png)|
 |---|---|---|
-|Certification|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/certification.png)|
+|Certification|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/certification.png)|
 
-* Additional screens under manage benefits can be found in the [screen folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Dependents/research/eben-screens).
+* Additional screens under manage benefits can be found in the [screen folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/discovery/ebenefits-screens).
    - Update Marital Status (6 screens)
    - Update Previous Marital Information
    - Children (4 screens)
@@ -77,10 +77,10 @@ The system should always keep users informed about what is going on, through app
 
 |Example Type|Example|
 |---|---|
-| After hitting apply it tells you that you have an open application.|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/open%20application.png)|
-| Shows open applications on dashboard.|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/open%20applications.png)|
-| Shows completed applications on dashboard.|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/completed%20applications.png)<br>![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/completed%20applications%20list.png)|
-| Tells you when you've updated dependents successfully and the status is pending. |![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/manage%20dependents%20updated.png)|
+| After hitting apply it tells you that you have an open application.|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/open-application.png)|
+| Shows open applications on dashboard.|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/open-applications.png)|
+| Shows completed applications on dashboard.|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/completed-applications.png)<br>![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/completed-applications-list.png)|
+| Tells you when you've updated dependents successfully and the status is pending. |![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/manage-dependents-updated.png)|
 
 <br>
 <br>
@@ -112,9 +112,9 @@ Users often choose system functions by mistake and will need a clearly marked "e
 
 |Example Type|Example|
 |---|---|
-| Clear continue or cancel when hitting "apply."|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/continue_cancel%20open%20application.png)|
-|Does not give you an option to exit once you begin the application.|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/personal%20information.png)|
-|The system does not recognize or acknowledge that you will need to go find documents that are physically located elsewhere.|![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/save%20for%20later.png)|
+| Clear continue or cancel when hitting "apply."|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/continue-cancel-open-application.png)|
+|Does not give you an option to exit once you begin the application.|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/personal-information.png)|
+|The system does not recognize or acknowledge that you will need to go find documents that are physically located elsewhere.|![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/save-for-later.png)|
 
 
 
@@ -178,11 +178,11 @@ Even better than good error messages is a careful design which prevents a proble
    
 |Example Type|Example|
 |---|---|
-|Validation after save| ![Validation Message](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/validation.png)|
-|Typing numbers in alpha field|![Alpha versus numeral](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/validation%20alpha%20versus%20numerical.png)|
-|Country name as numbers and required 50 characters|![country](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/country%2050%20characters.png)|
-|Basic Required Fields|![Required Field Validation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/validation%20required%20fields.png)|
-|SSN and Age Validation|![SSN and Age](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/social%20000%20age%2078.png)|
+|Validation after save| ![Validation Message](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/validation.png)|
+|Typing numbers in alpha field|![Alpha versus numeral](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/validation-alpha-versus-numerical.png)|
+|Country name as numbers and required 50 characters|![country](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/country-50-characters.png)|
+|Basic Required Fields|![Required Field Validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/validation-required-fields.png)|
+|SSN and Age Validation|![SSN and Age](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/social-000-age-78.png)|
 
 <br>
 <br>
@@ -201,7 +201,7 @@ The FAQ section seems to address most scenarios, although I came up with a quick
 - How long will it take for an open application to move to completed?
 - Where do I find already completed applications?
 
-![](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Dependents/research/eben-screens/faq.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/discovery/ebenefits-screens/faq.png)
 
 
 

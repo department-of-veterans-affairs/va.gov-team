@@ -1,5 +1,4 @@
 # Research Plan for Usability Research 
-(see also: [Issue 6770](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/6770))
 
 ## Research Questions
 1. Do Veterans report that they feel adequately informed of the process and requirements for the VIC application before they get started? 
@@ -13,10 +12,10 @@
 2) Cohorts users who have not tried to apply. 
 
 ## Conversation Guide 
-Access the conversation guide [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/usability_test_jan_18/Conversation_guide.md) 
+Access the conversation guide [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/usability-testing/conversation-guide.md) 
 
 ## Synthesis
-- [Combo research readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/usability_test_jan_18/Combo%20Research%20Readout%20Jan%202018.pptx) (from end-of-sprint demo)
-- [Longer research readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/usability_test_jan_18/Usability%20Research%20Readout%20Jan%2022-26.pptx) (from SME presentation)
+- [Combo research readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/usability-testing/combo-research-readout-jan-2018.pptx) (from end-of-sprint demo)
+- [Longer research readout](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/usability-testing/usability-research-readout-jan-22-26.pptx) (from SME presentation)
 - [Reframer](https://www.optimalworkshop.com/a/adhoc/reframer/projects/ebfe6381-81d4-47c8-94fa-6d690c068ed9)  
 - [Trello](https://trello.com/b/Svowg4H5/vic-research-post-its) (ask @lalexanderson-dsva to be added) 

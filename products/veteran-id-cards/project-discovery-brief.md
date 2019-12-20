@@ -17,7 +17,7 @@ Veteran Verification Online Badge
 * Kudos
 
 ### Discovery Sprint Roles
-See also: Discovery Sprint How-to about [makeup of a discovery sprint team](DiscoverySprintHowTo.md#makeup-of-a-discovery-sprint-team).
+See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
 * Product Lead: Natalie Moore
 * Discovery Sprint Lead:
@@ -55,7 +55,7 @@ Note: revise above sections as needed
   * What information do we need to display to avoid replay attacks? (User B copying the link to User A's badge and displaying it in their own profile)
 
 * Are any of the above assumptions that need to be verified?
-* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in our Discovery Toolkit and consult the [Research Team](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/README.md).)
+* How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in our Discovery Toolkit and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research).)
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
 * Who do we need to talk to (stakeholders, Veterans, MHV Coordinators, etc.)? (Try to get a wide variety of people to get a range of perspectives – both higher ups and people on the ground doing the work. Meet with people in person whenever possible.)
 * What secondary research should we do (google, facebook, internal documents)?
@@ -64,7 +64,7 @@ Note: revise above sections as needed
 
 
 ### Timeline
-See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/SampleDiscoverySprintSchedule.md).
+See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/sample-discovery-sprint-schedule.md).
 
 * Are there any hard and fast deadlines for completing the discovery work?
 * When will the following take place?
