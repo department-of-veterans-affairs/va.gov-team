@@ -8,7 +8,12 @@ Reason for not choosing GitBook: If GitBook supported multi-repo search, I'd rec
 
 Reason for not choosing updating/building custom solution: Any custom solution will be subject to opportunity cost and/or maintence risk. 
 
-Potential Experiment: Try Slab for one month to see if people like it. If not, it has an ability to export everything that was stored in the app. 
+Potential Experiment: Slab has a 14-day free trial. 
+>*Can I try Slab for free?*
+>
+>Yes! Slab is free to try for 14 days. We think you'll love it. We will only ask for payment details once your trial is over.
+
+Source: https://slab.com/pricing/
 
 Context: 
 * When asked ["If you had the chance to create that ecosystem again, what would you do differently?"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/interview-notes.md#if-you-had-the-chance-to-create-that-ecosystem-again-what-would-you-do-differently-1) the author of our current Gatsby site said they would choose a 3rd party option. 
