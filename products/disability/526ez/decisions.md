@@ -1,33 +1,33 @@
 # Decisions We've Made
 
 * Add more links as you add more decisions
-* [Significant Decisions template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Design/Documentation%20and%20Readouts/significant-decisions-template.md)
+* [Significant Decisions template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/documentation/significant-decisions-template.md)
 
 <hr>
 
 #### Table of Contents
 
 * Form 4142
-  * [Form 4142: How limited consent is captured](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-4192-how-limited-consent-is-captured)
-  * [Form 4142: Spelling of 'acknowledgement'](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-4142-spelling-of-acknowledgement)
-  * [Form 4142: Patient Acknowledgement is checked by default](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-4142-patient-acknowledgement-is-checked-by-default)
+  * [Form 4142: How limited consent is captured](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-4192-how-limited-consent-is-captured)
+  * [Form 4142: Spelling of 'acknowledgement'](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-4142-spelling-of-acknowledgement)
+  * [Form 4142: Patient Acknowledgement is checked by default](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-4142-patient-acknowledgement-is-checked-by-default)
 * Form 0781/a
-  * [Form 0781/a: Ignoring 'PTSD/4' (aka 'Non-PTSD Personal Trauma')](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-0781a-ignoring-ptsd4-aka-non-ptsd-personal-trauma)
-  * [Form 0781/a: Add another event, Add another individual](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-21-0781a-add-another-event-add-another-individual)
-  * [Form 0781: Location of Medals and Citations question](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-21-0781-location-of-medals-or-citations-question)
-  * [Form 0781: Format of Medals and Citations question](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-21-0781-format-of-medals-or-citations-question)  
-  * [Form 0781a: Behavior Changes across multiple pages](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-21-0781a-behavior-changes-on-multiple-pages)
-  * [Form 0781a: Behavior Changes, excluding Suicidal thoughts](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-21-0781a-suicidal-thoughts-or-tendencies)
+  * [Form 0781/a: Ignoring 'PTSD/4' (aka 'Non-PTSD Personal Trauma')](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-0781a-ignoring-ptsd4-aka-non-ptsd-personal-trauma)
+  * [Form 0781/a: Add another event, Add another individual](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-21-0781a-add-another-event-add-another-individual)
+  * [Form 0781: Location of Medals and Citations question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-21-0781-location-of-medals-or-citations-question)
+  * [Form 0781: Format of Medals and Citations question](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-21-0781-format-of-medals-or-citations-question)  
+  * [Form 0781a: Behavior Changes across multiple pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-21-0781a-behavior-changes-on-multiple-pages)
+  * [Form 0781a: Behavior Changes, excluding Suicidal thoughts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-21-0781a-suicidal-thoughts-or-tendencies)
 * Form 8940
-  * [Form 8940: Disabilities that are eligible](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-8940-disabilities-that-are-eligible)
-  * [Form 8940: Use of the term "Substantially gainful employment"](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-8940-use-of-the-phrase-substantially-gainful-employment)
-  * [Form 8940: Medical Care Dates - Add another](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-8940-medical-care-dates-add-another)
+  * [Form 8940: Disabilities that are eligible](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-8940-disabilities-that-are-eligible)
+  * [Form 8940: Use of the term "Substantially gainful employment"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-8940-use-of-the-phrase-substantially-gainful-employment)
+  * [Form 8940: Medical Care Dates - Add another](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-8940-medical-care-dates-add-another)
 * Form 4192
-  * [Form 4192: New design pattern (aka: Why there's no slider)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-21-4192-new-design-pattern)
-  * [Form 4192: Conditional content options](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#form-21-4192-conditional-content-options)
+  * [Form 4192: New design pattern (aka: Why there's no slider)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-21-4192-new-design-pattern)
+  * [Form 4192: Conditional content options](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#form-21-4192-conditional-content-options)
 * General (applicable to all forms)
-  * [General: Uploading Supporting Documents](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#general-document-upload-decisions)
-  * [General: Summary of disabilities display](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/decisions.md#general-summary-of-disabilities-display)
+  * [General: Uploading Supporting Documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#general-document-upload-decisions)
+  * [General: Summary of disabilities display](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/decisions.md#general-summary-of-disabilities-display)
 
 
 <hr>
