@@ -9,7 +9,7 @@ Reason for not choosing GitBook: If GitBook supported multi-repo search, I'd rec
 Reason for not choosing updating/building custom solution: Any custom solution will be subject to opportunity cost and/or maintence risk. 
 
 Potential Experiment: Slab has a [14-day free trial](https://slab.com/pricing/). 
->*Can I try Slab for free?*
+>**Can I try Slab for free?**
 >
 >Yes! Slab is free to try for 14 days. We think you'll love it. We will only ask for payment details once your trial is over.
 
