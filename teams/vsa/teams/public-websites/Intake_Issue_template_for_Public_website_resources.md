@@ -1,8 +1,8 @@
 # Requesting Work of Public Websites Team
 
-All requests for work needing to be fulfilled by a Public Websites resource must first fill out a standard issue template under ```va.gov-team repo```. 
+All requests for work needing to be fulfilled by a Public Websites resource must first fill out a standard issue template under ```va.gov-team repo``` and follow the process steps below. 
 
-**Redirects must be requested *at least* 2 weeks in advance to ensure they  properly vetted and an implementation approach can be identified. However, some redirects may take longer to implement (weeks to months), so it is highly encouraged that requests are submitted as soon as you are aware that you will need one.**
+**Please note that all requests will need to be reviewed, discussed, and sized with the team during a grooming session.  Depending on the team's capacity and LOE of request will determine how long it will take to be completed, so it is highly recommended that requests are submitted as soon as you are aware that you will need help. 
 
 1. Create an issue using the standard issue template
 
