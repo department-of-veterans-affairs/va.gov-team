@@ -158,7 +158,7 @@ Monitoring and Triage Overview
     available to the va.gov team. To access these internal tools such as
     the Jenkins dashboard, Prometheus, Sentry Etc., you need to set up a
     local SOCKS proxy. This process is documented here
-    - <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configuring-the-socks-proxy>.
+    - <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md>.
     It's useful for things like investigating a pull request that isn't
     passing Jenkins build step, finding the server host name where the
     instance is deployed.
@@ -167,9 +167,8 @@ Monitoring and Triage Overview
 
 - Integration testing will be conducted in the staging environment.  The staging URL is <https://staging.va.gov/disability-benefits/apply/form-526-all-claims/introduction> 
 
-- Test users can be found here: <https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14152>
-and here:
-<https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_users_s1a.csv>
+- Test users can be found here: 
+<https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv>
 
 **DEPRECATED: **
 *All form submissions update the [disability_compensation_job_statuses](#disability_compensation_job_statuses) table. This should be verified with each form submission or form upload.  Additional form specific testing is documented below.*
