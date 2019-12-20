@@ -1,0 +1,39 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <pat:readData>
+         <in0>AppointmentsRead1</in0>
+         <in1>
+         <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+	<filter:filter xmlns:filter="Filter" vhimVersion="Vhim_4_00">
+	<filterId>APPOINTMENTS_SINGLE_PATIENT_FILTER</filterId>
+	<clientName>VRM 1.0</clientName>
+	<clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+	<patients>
+		<NationalId>1012589983V476152</NationalId>
+		<!--
+		<NationalId>1011231189</NationalId>
+		<NationalId>1012645079</NationalId>
+			<resolvedIdentifiers>
+		     <assigningAuthority>USVHA</assigningAuthority>
+      		<assigningFacility>552</assigningFacility>
+      		<identity>552154272</identity>
+    		</resolvedIdentifiers>
+		-->
+	</patients>
+	<entryPointFilter queryName="Appointment-Standardized">
+		<domainEntryPoint>Appointment</domainEntryPoint>
+		<startDate>1950-01-01</startDate>
+		<endDate>2050-01-01</endDate>
+		<!--
+		<startDate>1950-01-01 or ${#TestSuite#vrmStartDate}</startDate>
+		<endDate>2050-01-01 or ${#TestSuite#vrmEndDate}</endDate>
+		-->
+	</entryPointFilter>
+	</filter:filter>]]>
+         </in1>
+         <in2>APPOINTMENTS_SINGLE_PATIENT_FILTER</in2>
+         <in3>SoapUI_Vivek</in3>
+      </pat:readData>
+   </soapenv:Body>
+</soapenv:Envelope>

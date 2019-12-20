@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project activeEnvironment="Default" name="SQA_1_CDS_3X_HDR_VistA" resourceRoot="" soapui-version="5.2.1" abortOnError="false" runType="SEQUENTIAL" id="31530d15-de62-4bed-8aee-ecd61622ff29" xmlns:con="http://eviware.com/soapui/config"><con:settings/><con:interface xsi:type="con:WsdlInterface" wsaVersion="NONE" name="PathwaysSoapBinding" type="wsdl" bindingName="{http://repositories.med.va.gov/pathways}PathwaysSoapBinding" soapVersion="1_1" anonymous="optional" definition="http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways?wsdl" id="2aa75487-e4e9-493e-bbe1-3d2b22318e0f" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways?wsdl"><con:part><con:url>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways?wsdl</con:url><con:content><![CDATA[<wsdl:definitions name="Pathways" targetNamespace="http://repositories.med.va.gov/pathways" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://repositories.med.va.gov/pathways" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http">
+  <wsdl:message name="createData">
+    <wsdl:part name="createXml" type="xsd:string"></wsdl:part>
+    <wsdl:part name="templateId" type="xsd:string"></wsdl:part>
+    <wsdl:part name="requestId" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="readData">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in3" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="isAlive"></wsdl:message>
+  <wsdl:message name="readDataResponse">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="isAliveResponse">
+    <wsdl:part name="out" type="xsd:boolean"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="createDataResponse">
+    <wsdl:part name="responseXml" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="Pathways">
+    <wsdl:operation name="createData">
+      <wsdl:input message="tns:createData" name="createData"></wsdl:input>
+      <wsdl:output message="tns:createDataResponse" name="createDataResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="readData">
+      <wsdl:input message="tns:readData" name="readData"></wsdl:input>
+      <wsdl:output message="tns:readDataResponse" name="readDataResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isAlive">
+      <wsdl:input message="tns:isAlive" name="isAlive"></wsdl:input>
+      <wsdl:output message="tns:isAliveResponse" name="isAliveResponse"></wsdl:output>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="PathwaysSoapBinding" type="tns:Pathways">
+    <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="createData">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="createData">
+        <soap:body namespace="http://repositories.med.va.gov/pathways" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="createDataResponse">
+        <soap:body namespace="http://repositories.med.va.gov/pathways" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="readData">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="readData">
+        <soap:body namespace="http://repositories.med.va.gov/pathways" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="readDataResponse">
+        <soap:body namespace="http://repositories.med.va.gov/pathways" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isAlive">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="isAlive">
+        <soap:body namespace="http://repositories.med.va.gov/pathways" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="isAliveResponse">
+        <soap:body namespace="http://repositories.med.va.gov/pathways" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Pathways">
+    <wsdl:port binding="tns:PathwaysSoapBinding" name="PathwaysHttpPort">
+      <soap:address location="http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://hdrclucds-di.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:endpoint>http://vahdrtvapp02.aac.va.gov:7251/repositories.med.va.gov/pathways</con:endpoint><con:endpoint>http://vahdrtvapp02.aac.va.gov:7252/repositories.med.va.gov/pathways</con:endpoint></con:endpoints><con:operation isOneWay="false" action="" name="isAlive" bindingOperationName="isAlive" type="Request-Response" outputName="isAliveResponse" inputName="isAlive" receivesAttachments="false" sendsAttachments="false" anonymous="optional" id="e8b6648c-091a-4ede-95b4-671c91c64272"><con:settings/><con:call name="Request 1" id="2150b2c4-f770-4f9f-b8b8-25fe413c404b"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <pat:isAlive/>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:credentials><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://repositories.med.va.gov/pathways/Pathways/isAlive"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation isOneWay="false" action="" name="readData" bindingOperationName="readData" type="Request-Response" outputName="readDataResponse" inputName="readData" receivesAttachments="false" sendsAttachments="false" anonymous="optional" id="579c84d0-117a-4558-b79c-7c65967302fc"><con:settings/><con:call name="Request 1" id="5a7b9e8c-7536-497e-a184-15db64b93a83"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <pat:readData>
+         <in0>?</in0>
+         <in1>?</in1>
+         <in2>?</in2>
+         <in3>?</in3>
+      </pat:readData>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:credentials><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://repositories.med.va.gov/pathways/Pathways/readData"/><con:wsrmConfig version="1.2"/></con:call></con:operation><con:operation id="afbe0f70-f6f5-4e3c-bdc6-dcb84e2cca26" isOneWay="false" action="" name="createData" bindingOperationName="createData" type="Request-Response" outputName="createDataResponse" inputName="createData" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/><con:call id="e376d003-4b8d-49f5-9b2a-f21e5e14b58d" name="Request 1"><con:settings/><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-di.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">\r
+   <soapenv:Header/>\r
+   <soapenv:Body>\r
+      <pat:createData>\r
+         <createXml>?</createXml>\r
+         <templateId>?</templateId>\r
+         <requestId>?</requestId>\r
+      </pat:createData>\r
+   </soapenv:Body>\r
+</soapenv:Envelope>]]></con:request><con:wsaConfig mustUnderstand="NONE" version="200508" action="http://repositories.med.va.gov/pathways/Pathways/createData"/></con:call></con:operation></con:interface><con:interface xsi:type="con:RestService" wadlVersion="http://wadl.dev.java.net/2009/02" name="SQA_1_CDS_3X_HDR_VistA" type="rest" id="d44dde5f-e456-4dc0-b48b-caa4ed755e7d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart=""/><con:endpoints/></con:interface><con:interface xsi:type="con:WsdlInterface" id="6cc172ff-3e90-475b-8555-702312253379" wsaVersion="NONE" name="ClinicalDataServiceSynchronousInterfaceSoapBinding" type="wsdl" bindingName="{http://client.cds.med.va.gov}ClinicalDataServiceSynchronousInterfaceSoapBinding" soapVersion="1_1" anonymous="optional" definition="http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service?wsdl" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:settings/><con:definitionCache type="TEXT" rootPart="http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service?wsdl"><con:part><con:url>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service?wsdl</con:url><con:content><![CDATA[<wsdl:definitions name="ClinicalDataServiceSynchronousInterface" targetNamespace="http://client.cds.med.va.gov" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:tns="http://client.cds.med.va.gov" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:ns1="http://schemas.xmlsoap.org/soap/http">
+  <wsdl:message name="createClinicalData1">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in3" type="xsd:boolean"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="updateClinicalDataResponse">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="readClinicalData1Response">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="createClinicalData1Response">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="isAlive"></wsdl:message>
+  <wsdl:message name="readClinicalData1">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in3" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="createClinicalData">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="isAliveResponse">
+    <wsdl:part name="out" type="xsd:boolean"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="readClinicalData">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="createClinicalDataResponse">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="readClinicalDataResponse">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="updateClinicalData">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="deleteClinicalDataResponse">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="deleteClinicalData">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="appendClinicalDataResponse">
+    <wsdl:part name="out" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:message name="appendClinicalData">
+    <wsdl:part name="in0" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in1" type="xsd:string"></wsdl:part>
+    <wsdl:part name="in2" type="xsd:string"></wsdl:part>
+  </wsdl:message>
+  <wsdl:portType name="ClinicalDataServiceSynchronousInterface">
+    <wsdl:operation name="createClinicalData1">
+      <wsdl:input message="tns:createClinicalData1" name="createClinicalData1"></wsdl:input>
+      <wsdl:output message="tns:createClinicalData1Response" name="createClinicalData1Response"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="readClinicalData">
+      <wsdl:input message="tns:readClinicalData" name="readClinicalData"></wsdl:input>
+      <wsdl:output message="tns:readClinicalDataResponse" name="readClinicalDataResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateClinicalData">
+      <wsdl:input message="tns:updateClinicalData" name="updateClinicalData"></wsdl:input>
+      <wsdl:output message="tns:updateClinicalDataResponse" name="updateClinicalDataResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteClinicalData">
+      <wsdl:input message="tns:deleteClinicalData" name="deleteClinicalData"></wsdl:input>
+      <wsdl:output message="tns:deleteClinicalDataResponse" name="deleteClinicalDataResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isAlive">
+      <wsdl:input message="tns:isAlive" name="isAlive"></wsdl:input>
+      <wsdl:output message="tns:isAliveResponse" name="isAliveResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="readClinicalData1">
+      <wsdl:input message="tns:readClinicalData1" name="readClinicalData1"></wsdl:input>
+      <wsdl:output message="tns:readClinicalData1Response" name="readClinicalData1Response"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createClinicalData">
+      <wsdl:input message="tns:createClinicalData" name="createClinicalData"></wsdl:input>
+      <wsdl:output message="tns:createClinicalDataResponse" name="createClinicalDataResponse"></wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="appendClinicalData">
+      <wsdl:input message="tns:appendClinicalData" name="appendClinicalData"></wsdl:input>
+      <wsdl:output message="tns:appendClinicalDataResponse" name="appendClinicalDataResponse"></wsdl:output>
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ClinicalDataServiceSynchronousInterfaceSoapBinding" type="tns:ClinicalDataServiceSynchronousInterface">
+    <soap:binding style="rpc" transport="http://schemas.xmlsoap.org/soap/http"/>
+    <wsdl:operation name="createClinicalData1">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="createClinicalData1">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="createClinicalData1Response">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="readClinicalData">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="readClinicalData">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="readClinicalDataResponse">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="updateClinicalData">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="updateClinicalData">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="updateClinicalDataResponse">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteClinicalData">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="deleteClinicalData">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="deleteClinicalDataResponse">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isAlive">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="isAlive">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="isAliveResponse">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="readClinicalData1">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="readClinicalData1">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="readClinicalData1Response">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createClinicalData">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="createClinicalData">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="createClinicalDataResponse">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="appendClinicalData">
+      <soap:operation soapAction="" style="rpc"/>
+      <wsdl:input name="appendClinicalData">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:input>
+      <wsdl:output name="appendClinicalDataResponse">
+        <soap:body namespace="http://client.cds.med.va.gov" use="literal"/>
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ClinicalDataServiceSynchronousInterface">
+    <wsdl:port binding="tns:ClinicalDataServiceSynchronousInterfaceSoapBinding" name="ClinicalDataServiceSynchronousInterfaceHttpPort">
+      <soap:address location="http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service"/>
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>]]></con:content><con:type>http://schemas.xmlsoap.org/wsdl/</con:type></con:part></con:definitionCache><con:endpoints><con:endpoint>http://10.5.20.127:8201/cds-wsclient/cds-service</con:endpoint><con:endpoint>http://hdrclucds-qa.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:endpoint>http://hdrcluho-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:endpoint>https://hdrclucds-qi.fo-slc.med.va.gov/cds-wsclient/cds-service</con:endpoint></con:endpoints><con:operation id="a8fa2b02-be23-47ce-b136-c1867f40825a" isOneWay="false" action="" name="appendClinicalData" bindingOperationName="appendClinicalData" type="Request-Response" outputName="appendClinicalDataResponse" inputName="appendClinicalData" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation><con:operation id="155f55e5-5653-4fc9-9c4a-a6498857f86a" isOneWay="false" action="" name="createClinicalData" bindingOperationName="createClinicalData" type="Request-Response" outputName="createClinicalDataResponse" inputName="createClinicalData" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation><con:operation id="2bf57042-2dde-47e7-8b49-051aa5367365" isOneWay="false" action="" name="createClinicalData1" bindingOperationName="createClinicalData1" type="Request-Response" outputName="createClinicalData1Response" inputName="createClinicalData1" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation><con:operation id="0b7d6c4e-f5a2-4eaa-b08e-112d5b48b43d" isOneWay="false" action="" name="deleteClinicalData" bindingOperationName="deleteClinicalData" type="Request-Response" outputName="deleteClinicalDataResponse" inputName="deleteClinicalData" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation><con:operation id="058545d4-1e19-43f1-ac4d-ea3db02073b0" isOneWay="false" action="" name="isAlive" bindingOperationName="isAlive" type="Request-Response" outputName="isAliveResponse" inputName="isAlive" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation><con:operation id="dc884b68-74dc-4036-af04-cd46dee2b38b" isOneWay="false" action="" name="readClinicalData" bindingOperationName="readClinicalData" type="Request-Response" outputName="readClinicalDataResponse" inputName="readClinicalData" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation><con:operation id="8359ff52-8dab-429b-a748-326cfe753506" isOneWay="false" action="" name="readClinicalData1" bindingOperationName="readClinicalData1" type="Request-Response" outputName="readClinicalData1Response" inputName="readClinicalData1" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation><con:operation id="116b2182-d503-45ff-90fa-eb113cad37f2" isOneWay="false" action="" name="updateClinicalData" bindingOperationName="updateClinicalData" type="Request-Response" outputName="updateClinicalDataResponse" inputName="updateClinicalData" receivesAttachments="false" sendsAttachments="false" anonymous="optional"><con:settings/></con:operation></con:interface><con:testSuite name="Pathways" id="3215ceae-fa71-4ace-aa0e-53b134e1ed3a"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="Pathways" searchProperties="true" id="82b25f95-f9b4-4839-abde-4270cbd8b864"><con:settings/><con:testStep type="request" name="Appointments-APPOINTMENTS_SINGLE_PATIENT_FILTER" id="f9d5722e-231f-478a-a6f8-56c85feae2ec"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>PathwaysSoapBinding</con:interface><con:operation>readData</con:operation><con:request name="Appointments-APPOINTMENTS_SINGLE_PATIENT_FILTER" id="b87275b7-e16f-4784-9fa1-b4ab59d40a53"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <pat:readData>
+         <in0>AppointmentsRead1</in0>
+         <in1>
+         <![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+	<filter:filter xmlns:filter="Filter" vhimVersion="Vhim_4_00">
+	<filterId>APPOINTMENTS_SINGLE_PATIENT_FILTER</filterId>
+	<clientName>VRM 1.0</clientName>
+	<clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+	<patients>
+		<NationalId>1012589983V476152</NationalId>
+		<!--
+		<NationalId>1011231189</NationalId>
+		<NationalId>1012645079</NationalId>
+			<resolvedIdentifiers>
+		     <assigningAuthority>USVHA</assigningAuthority>
+      		<assigningFacility>552</assigningFacility>
+      		<identity>552154272</identity>
+    		</resolvedIdentifiers>
+		-->
+	</patients>
+	<entryPointFilter queryName="Appointment-Standardized">
+		<domainEntryPoint>Appointment</domainEntryPoint>
+		<startDate>1950-01-01</startDate>
+		<endDate>2050-01-01</endDate>
+		<!--
+		<startDate>1950-01-01 or ${#TestSuite#vrmStartDate}</startDate>
+		<endDate>2050-01-01 or ${#TestSuite#vrmEndDate}</endDate>
+		-->
+	</entryPointFilter>
+	</filter:filter>]]]]>><![CDATA[
+         </in1>
+         <in2>APPOINTMENTS_SINGLE_PATIENT_FILTER</in2>
+         <in3>SoapUI_Vivek</in3>
+      </pat:readData>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="5ddd0055-ebc2-4a22-97f9-748fb3850481"/><con:credentials><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="Exams-REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER" id="e978b29f-c541-4f63-9839-b6b31e45aaef"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>PathwaysSoapBinding</con:interface><con:operation>readData</con:operation><con:request name="Exams-REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER" id="eba89246-7df9-4dd2-8afc-90bab94180ca"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <pat:readData>
+        <in0>RequestsAndExamsRead1</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+	<filter:filter xmlns:filter="Filter" vhimVersion="Vhim_4_00">
+	<filterId>REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER</filterId>
+	<clientName>VRM 1.0</clientName>
+	<clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+	<patients>
+		<NationalId>1012645079</NationalId>
+	</patients>
+	<entryPointFilter queryName="Exam2507-Standardized">
+		<domainEntryPoint>Exam2507</domainEntryPoint>
+		<!--
+		<startDate>1950-01-01 or ${#TestSuite#vrmStartDate}</startDate>
+		<endDate>2050-01-01 or ${#TestSuite#vrmEndDate}</endDate>
+		
+		<otherQueryParameters>
+			<status>C</status>
+		</otherQueryParameters>
+		-->
+	</entryPointFilter>
+	</filter:filter>]]]]>><![CDATA[</in1>
+         <in2>REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER</in2>
+         <in3>SoapUI_Vivek</in3>
+      </pat:readData>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="1306e595-95f1-4cb5-9dd6-7cf15aa90b71"/><con:credentials><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="ExamRequests-REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER" id="d25c0aa7-426d-4b7d-a187-97d6c89b0c83"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>PathwaysSoapBinding</con:interface><con:operation>readData</con:operation><con:request name="ExamRequests-REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER" id="74f59020-ca60-4aa6-bc3a-e50ef583fc6c"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <pat:readData>
+        <in0>RequestsAndExamsRead1</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+	<filter:filter xmlns:filter="Filter" vhimVersion="Vhim_4_00">
+	<filterId>REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER</filterId>
+	<clientName>VRM 1.0</clientName>
+	<clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+	<patients>
+		<NationalId>1012645079</NationalId>
+	</patients>
+	<entryPointFilter queryName="ExamRequest2507-Standardized">
+		<domainEntryPoint>ExamRequest2507</domainEntryPoint>
+		<!--
+		<startDate>1950-01-01 or ${#TestSuite#vrmStartDate}</startDate>
+		<endDate>2050-01-01 or ${#TestSuite#vrmEndDate}</endDate>
+		
+		<otherQueryParameters>
+			<requestStatus>C</requestStatus>
+		</otherQueryParameters>
+		-->
+	</entryPointFilter>
+	</filter:filter>]]]]>><![CDATA[</in1>
+         <in2>REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER</in2>
+         <in3>SoapUI_Vivek</in3>
+      </pat:readData>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="f23c0d36-f4ec-47b4-b896-b5475e1b5295"/><con:credentials><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="Read2-ExamRequests-REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER" id="e3b12401-cd75-49e4-bd54-b3eb5beea285"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>PathwaysSoapBinding</con:interface><con:operation>readData</con:operation><con:request name="Read2-ExamRequests-REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER" id="74f59020-ca60-4aa6-bc3a-e50ef583fc6c"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/repositories.med.va.gov/pathways</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:pat="http://repositories.med.va.gov/pathways">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <pat:readData>
+        <in0>RequestsAndExamsRead2</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+	<filter:filter xmlns:filter="Filter" vhimVersion="Vhim_4_00">
+	<filterId>REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER</filterId>
+	<clientName>VRM 1.0</clientName>
+	<clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+	<patients>
+		<NationalId>1012645079</NationalId>
+	</patients>
+	<entryPointFilter queryName="ExamRequest2507-Standardized">
+		<domainEntryPoint>ExamRequest2507</domainEntryPoint>
+		<!--
+		<startDate>1950-01-01 or ${#TestSuite#vrmStartDate}</startDate>
+		<endDate>2050-01-01 or ${#TestSuite#vrmEndDate}</endDate>
+		
+		<otherQueryParameters>
+			<requestStatus>C</requestStatus>
+		</otherQueryParameters>
+		-->
+	</entryPointFilter>
+	</filter:filter>]]]]>><![CDATA[</in1>
+         <in2>REQUESTS_AND_EXAMS_SINGLE_PATIENT_FILTER</in2>
+         <in3>SoapUI_Vivek</in3>
+      </pat:readData>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="f23c0d36-f4ec-47b4-b896-b5475e1b5295"/><con:credentials><con:selectedAuthProfile>Basic</con:selectedAuthProfile><con:addedBasicAuthenticationTypes>Basic</con:addedBasicAuthenticationTypes><con:authType>Global HTTP Settings</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:properties/></con:testCase><con:properties><con:property><con:name>CLIENT_REQUEST_INIT_TIME</con:name><con:value>2015-04-30T12:00:00Z</con:value></con:property></con:properties></con:testSuite><con:testSuite id="fad74c13-7856-429e-99ae-bf7bc886688b" name="ClinicalDataService"><con:settings/><con:runType>SEQUENTIAL</con:runType><con:testCase id="32426ab9-10e6-4bd5-bac1-71123fec0480" failOnError="true" failTestCaseOnErrors="true" keepSession="false" maxResults="0" name="Read" searchProperties="true"><con:settings/><con:testStep type="request" name="CHDR_ALLERGY_SINGLE_PATIENT_FILTER" id="7122b97c-8534-4044-95ce-4461beac2d15"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="CHDR_ALLERGY_SINGLE_PATIENT_FILTER" id="43cf3ba0-a58c-45d0-954b-389adbcbfe94"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+        <in0>IntoleranceConditionRead40010</in0>
+        <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+	<filter:filter vhimVersion="Vhim_4_00" xsi:schemaLocation="Filter CHDR_ALLERGY_Single_Patient_Filter.xsd" xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<filterId>CHDR_ALLERGY_SINGLE_PATIENT_FILTER</filterId>
+	<clientName>CHDR</clientName>
+	<patients>
+		<!--
+		<NationalId>1012581418</NationalId>
+		-->
+		<NationalId>1011115860V163412</NationalId>
+		<excludeIdentifiers>
+			<assigningAuthority>USVHA</assigningAuthority>
+			<assigningFacility>200HD</assigningFacility>
+		</excludeIdentifiers>
+		<excludeIdentifiers>
+			<assigningAuthority>USDOD</assigningAuthority>
+			<assigningFacility>200CH</assigningFacility>
+		</excludeIdentifiers>
+	</patients>
+	<entryPointFilter queryName="ID_1">
+		<domainEntryPoint>IntoleranceCondition</domainEntryPoint>		
+	</entryPointFilter>
+	</filter:filter>
+	]]]]>><![CDATA[</in1>
+        <in2>CHDR_ALLERGY_SINGLE_PATIENT_FILTER</in2>
+        <in3>RequestId_SQA1_HdrVistA_CDS3XT</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="9b628ea6-d7d6-43b1-a3d5-17433af92587"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="NONVAMED_SINGLE_PATIENT_FILTER" id="f7d612c7-52bd-4dfa-bc43-9f5d48ef3003"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="NONVAMED_SINGLE_PATIENT_FILTER" id="43cf3ba0-a58c-45d0-954b-389adbcbfe94"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+        <in0>NonVAMedicationsRead2</in0>
+        <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+		<filter:filter xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" vhimVersion="Vhim_4_00" xsi:schemaLocation="Filter NonVaMed_Single_Patient_Filter.xsd">
+			<filterId>NONVAMED_SINGLE_PATIENT_FILTER</filterId>
+			<clientName>SoapUI_SQA1</clientName>
+			<clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+			<patients>
+				<NationalId>1012660666V427556</NationalId>
+			</patients>
+			<entryPointFilter queryName="ID1">
+				<domainEntryPoint>NonVaMedicationEvent</domainEntryPoint>
+				<otherQueryParameters>
+					<status>ACTIVE</status>
+				</otherQueryParameters>
+			</entryPointFilter>
+		</filter:filter>]]]]>><![CDATA[</in1>
+        <in2>NONVAMED_SINGLE_PATIENT_FILTER</in2>
+        <in3>RequestId_SQA1_HdrVistA_CDS3XT</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="9b628ea6-d7d6-43b1-a3d5-17433af92587"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="CHDR_RX_SINGLE_PATIENT_FILTER" id="3f7821f9-dcfc-4e48-9331-cb1119bef6ed"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="CHDR_RX_SINGLE_PATIENT_FILTER" id="5450dfa4-0075-4b13-a35e-afeb4b1f2dcc"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+         <in0>PharmacyRead40010</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+         <!--Sample XML file generated by XMLSpy v2011 (http://www.altova.com)-->
+         <filter:filter vhimVersion="Vhim_4_00" xsi:schemaLocation="Filter CHDR_RX_Single_Patient_Filter.xsd" xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			 <filterId>CHDR_RX_SINGLE_PATIENT_FILTER</filterId>
+			 <!--
+			 CHDR - 1012872427V664366
+			 1012874761V154893
+			 <clientName>SoapUI_SQA1</clientName>
+			 <NationalId>1011115860V163412</NationalId>
+			 -->
+			 <clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+			 <patients>
+			 	<NationalId>1012872427V664366</NationalId>
+			 	<excludeIdentifiers>
+				<assigningAuthority>USVHA</assigningAuthority>
+					<assigningFacility>200HD</assigningFacility>
+				</excludeIdentifiers>
+				<excludeIdentifiers>
+					<assigningAuthority>USDOD</assigningAuthority>
+					<assigningFacility>200CH</assigningFacility>
+				</excludeIdentifiers>
+			 </patients>
+			 <entryPointFilter queryName="CHDR_RX_QUERY">
+				<domainEntryPoint>OutpatientMedicationPromise</domainEntryPoint>
+			 </entryPointFilter>
+	 	</filter:filter>
+		]]]]>><![CDATA[</in1>
+         <in2>CHDR_RX_SINGLE_PATIENT_FILTER</in2>
+         <in3>RequestId_SQA1_HdrVistA_CDS3XT</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="8fb37c0f-201c-4a0c-af6a-dd3b6c097d18"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="RX_SINGLE_PATIENT_ALL_DATA_FILTER_PharmacyRead40010" id="1c5589a4-f563-474e-9f38-e5b5a0b1ce12"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="RX_SINGLE_PATIENT_ALL_DATA_FILTER_PharmacyRead40010" id="5450dfa4-0075-4b13-a35e-afeb4b1f2dcc"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+         <in0>PharmacyRead40010</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+         <!--Sample XML file generated by XMLSpy v2011 (http://www.altova.com)-->
+         <filter:filter vhimVersion="Vhim_4_00" xsi:schemaLocation="Filter CHDR_RX_Single_Patient_Filter.xsd" xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			 <filterId>RX_SINGLE_PATIENT_ALL_DATA_FILTER</filterId>
+			 <clientName>SoapUI_SQA1</clientName>
+			 <clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+			 <patients>
+				<resolvedIdentifiers>
+					<assigningAuthority>USVHA</assigningAuthority>
+					<assigningFacility>992</assigningFacility>
+					<identity>7204890</identity>
+				</resolvedIdentifiers>
+				<!--Lori's Patient-->
+				<!--
+				<resolvedIdentifiers>
+					<assigningAuthority>USVHA</assigningAuthority>
+					<assigningFacility>992</assigningFacility>
+					<identity>7206238</identity>
+				</resolvedIdentifiers>
+				-->
+			 </patients>
+			 <entryPointFilter queryName="RX_QUERY">
+				<domainEntryPoint>OutpatientMedicationPromise</domainEntryPoint>
+				<queryTimeoutSeconds>600</queryTimeoutSeconds>
+			 </entryPointFilter>
+	    </filter:filter>
+	]]]]>><![CDATA[</in1>
+         <in2>RX_SINGLE_PATIENT_ALL_DATA_FILTER</in2>
+         <in3>RequestId_SQA1_HdrVistA_CDS3XT</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="8fb37c0f-201c-4a0c-af6a-dd3b6c097d18"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="RX_SINGLE_PATIENT_ALL_DATA_FILTER" id="17265c38-90fe-41ac-8ff0-ffbd7371911c"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="RX_SINGLE_PATIENT_ALL_DATA_FILTER" id="5450dfa4-0075-4b13-a35e-afeb4b1f2dcc"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+         <in0>PharmacyRead40010</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+         <!--Sample XML file generated by XMLSpy v2011 (http://www.altova.com)-->
+         <filter:filter vhimVersion="Vhim_4_00" xsi:schemaLocation="Filter CHDR_RX_Single_Patient_Filter.xsd" xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+			 <filterId>RX_SINGLE_PATIENT_ALL_DATA_FILTER</filterId>
+			 <clientName>SoapUI_SQA1</clientName>
+			 <clientRequestInitiationTime>${=(new Date().format("yyyy-MM-dd'T'hh:mm:ss"))}</clientRequestInitiationTime>
+			 <!--
+				<filterId>CHDR_RX_SINGLE_PATIENT_FILTER</filterId>
+			 -->
+			 <patients>
+				<resolvedIdentifiers>
+					<assigningAuthority>USVHA</assigningAuthority>
+					<assigningFacility>992</assigningFacility>
+					<identity>7206238</identity>
+				</resolvedIdentifiers>
+			 </patients>
+			 <entryPointFilter queryName="CHDR_RX_QUERY">
+				<domainEntryPoint>OutpatientMedicationPromise</domainEntryPoint>
+			 </entryPointFilter>
+	 	</filter:filter>
+	]]]]>><![CDATA[</in1>
+         <in2>RX_SINGLE_PATIENT_ALL_DATA_FILTER</in2>
+         <in3>RequestId_SQA1_HdrVistA_CDS3XT</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="8fb37c0f-201c-4a0c-af6a-dd3b6c097d18"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="VW_VITAL_SINGLE_PATIENT_FILTER" id="1700a1c4-510f-41e7-ba88-8797d2746bf1"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="VW_VITAL_SINGLE_PATIENT_FILTER" id="af9a27a8-0969-4405-9c36-ba09c7399609"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+         <in0>VWVitalsignsRead40010</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<filter:filter vhimVersion="Vhim_4_00" xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<filterId>VW_VITAL_SINGLE_PATIENT_FILTER</filterId>
+	<patients>
+		<NationalId>1012872129</NationalId>
+	</patients>
+	<entryPointFilter queryName="VIT-Standardized">
+		<domainEntryPoint>VitalSignObservationEvent</domainEntryPoint>
+		<xpathQuery>
+			<xpath>vitalSignObservationEvents[status != 'E']</xpath>
+		</xpathQuery>
+	</entryPointFilter>
+</filter:filter>]]]]>><![CDATA[</in1>
+         <in2>VW_VITAL_SINGLE_PATIENT_FILTER</in2>
+         <in3>CDS3XT</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="ff52d792-1eb4-4aed-912c-b6e1394db399"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="VW_ALLERGY_SINGLE_PATIENT_FILTER" id="6436bac7-d038-4886-8200-d0bdc3e1d33d"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="VW_ALLERGY_SINGLE_PATIENT_FILTER" id="b0aa0c86-ab00-4988-8ed5-10419c733223"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+         <in0>VWAllergiesRead40010</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+			<filter:filter vhimVersion="Vhim_4_00" xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<filterId>VW_ALLERGY_SINGLE_PATIENT_FILTER</filterId>
+				<patients>
+					<NationalId>1012894095V901045</NationalId>
+					
+			    		<!--
+			    		<NationalId>1012644974</NationalId>
+			    		<resolvedIdentifiers>
+						<assigningAuthority>USVHA</assigningAuthority>
+						<assigningFacility>992</assigningFacility>
+						<identity>7204890</identity>
+					</resolvedIdentifiers>
+			    		<resolvedIdentifiers>
+					     <assigningAuthority>USVHA</assigningAuthority>
+			      		<assigningFacility>580</assigningFacility>
+			      		<identity>66</identity>
+			    		</resolvedIdentifiers>
+			    		-->
+				</patients>
+				<entryPointFilter queryName="IC-Standardized">
+					<domainEntryPoint>IntoleranceCondition</domainEntryPoint>
+					<xpathQuery>
+						<xpath>intoleranceConditions[status != 'E']</xpath>
+					</xpathQuery>
+				</entryPointFilter>
+				<entryPointFilter queryName="AA-Standardized">
+					<domainEntryPoint>AllergyAssessment</domainEntryPoint>
+					
+					<xpathQuery>
+						<xpath>allergyAssessments[status != 'E']</xpath>
+					</xpathQuery>
+					
+				</entryPointFilter>
+			</filter:filter>]]]]>><![CDATA[</in1>
+         <in2>VW_ALLERGY_SINGLE_PATIENT_FILTER</in2>
+         <in3>CDS3XT</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="f0cc8e08-d678-4257-ad65-ee4f10625441"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:testStep type="request" name="VW_RX_VWPharmacyRead40010" id="852ab609-24dc-4de7-a0ad-f24e097f99ea"><con:settings/><con:config xsi:type="con:RequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><con:interface>ClinicalDataServiceSynchronousInterfaceSoapBinding</con:interface><con:operation>readClinicalData1</con:operation><con:request name="VW_RX_VWPharmacyRead40010" id="733ecda2-c69f-4da9-9926-747ffa29f8a4"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting></con:settings><con:encoding>UTF-8</con:encoding><con:endpoint>http://hdrclucds-qi.fo-slc.med.va.gov:6033/cds-wsclient/cds-service</con:endpoint><con:request><![CDATA[<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:cli="http://client.cds.med.va.gov">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <cli:readClinicalData1>
+         <in0>VWPharmacyRead40010</in0>
+         <in1><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+			<filter:filter vhimVersion="Vhim_4_00" xmlns:filter="Filter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+				<filterId>RX_SINGLE_PATIENT_ALL_DATA_FILTER</filterId>
+				<patients>
+					<NationalId>1012894095V901045</NationalId>
+				</patients>
+				<entryPointFilter queryName="RXOP-Standardized">
+					<domainEntryPoint>OutpatientMedicationPromise</domainEntryPoint>
+					<!--
+					<startDate>${#TestSuite#vwRXOPStartDate}</startDate>
+					<endDate>${#TestSuite#vwRXOPEndDate}</endDate>
+					-->
+				</entryPointFilter>
+			</filter:filter>]]]]>><![CDATA[</in1>
+         <in2>RX_SINGLE_PATIENT_ALL_DATA_FILTER</in2>
+         <in3>${=(UUID.randomUUID().toString()+"_VIVEK")}</in3>
+      </cli:readClinicalData1>
+   </soapenv:Body>
+</soapenv:Envelope>]]></con:request><con:assertion type="SOAP Response" id="c028ac28-a16d-4e5a-af1f-192d67ec7c96"/><con:credentials><con:authType>No Authorization</con:authType></con:credentials><con:jmsConfig JMSDeliveryMode="PERSISTENT"/><con:jmsPropertyConfig/><con:wsaConfig mustUnderstand="NONE" version="200508"/><con:wsrmConfig version="1.2"/></con:request></con:config></con:testStep><con:properties/></con:testCase><con:properties/></con:testSuite><con:properties><con:property><con:name>CLIENT_REQUEST_INIT_TIME</con:name><con:value>2015-04-30T09:30:47Z</con:value></con:property><con:property><con:name>patientId</con:name><con:value>1012894095V901045</con:value></con:property></con:properties><con:wssContainer/><con:oAuth2ProfileContainer/><con:sensitiveInformation/></con:soapui-project>

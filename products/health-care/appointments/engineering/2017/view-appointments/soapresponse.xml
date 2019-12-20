@@ -1,0 +1,2598 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <ns1:readDataResponse xmlns:ns1="http://repositories.med.va.gov/pathways">
+         <out><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<appointmentsdata:AppointmentsData xmlns:appointmentsdata="Appointmentsdata"><templateId>AppointmentsRead1</templateId><requestId>SoapUI_Vivek</requestId><patients><patient><requestedNationalId>1012589983V476152</requestedNationalId><resultantIdentifiers><resultantIdentifier><identity>1012589983V476152</identity><assigningFacility>200M</assigningFacility><assigningAuthority>USVHA</assigningAuthority></resultantIdentifier><resultantIdentifier><identity>114191</identity><assigningFacility>991</assigningFacility><assigningAuthority>USVHA</assigningAuthority></resultantIdentifier><resultantIdentifier><identity>495713</identity><assigningFacility>200MHI</assigningFacility><assigningAuthority>USVHA</assigningAuthority></resultantIdentifier></resultantIdentifiers><appointments><appointment>
+	<recordIdentifier>
+		<identity>2980827.1115</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199808271115</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>106</identity>
+			<name>ZZENT (OLD CLINIC)</name>
+		</identifier>
+		<telephone>1600</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981029.103</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199810291030</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>106</identity>
+			<name>ZZENT (OLD CLINIC)</name>
+		</identifier>
+		<telephone>1600</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990219.09</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199902190900</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1055</identity>
+			<name>ZZZRED ENDOCRINOLOGY/METABOLIC</name>
+		</identifier>
+		<telephone>4174</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CPR</code>
+		<displayText>CANCELLED BY PATIENT &amp; RESCHEDULED</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	<labDateTime>
+		<literal>199902190830</literal>
+	</labDateTime>
+	<status>
+		<code>10</code>
+		<displayText>CANCELLED BY PATIENT &amp; AUTO-REBOOK</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990430.08</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199904300800</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1055</identity>
+			<name>ZZZRED ENDOCRINOLOGY/METABOLIC</name>
+		</identifier>
+		<telephone>4174</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NSR</code>
+		<displayText>NO-SHOW &amp; RESCHEDULED</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	<labDateTime>
+		<literal>199904300730</literal>
+	</labDateTime>
+	<status>
+		<code>6</code>
+		<displayText>NO-SHOW &amp; AUTO RE-BOOK</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990618.08</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199906180800</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1055</identity>
+			<name>ZZZRED ENDOCRINOLOGY/METABOLIC</name>
+		</identifier>
+		<telephone>4174</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	<labDateTime>
+		<literal>199906180730</literal>
+	</labDateTime>
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2971201.09</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199712010900</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2980112.1</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199801121000</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NS</code>
+		<displayText>NO-SHOW</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>4</code>
+		<displayText>NO-SHOW</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2980602.1015</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199806021015</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981102.15</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199811021500</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981117.133</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199811171330</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NS</code>
+		<displayText>NO-SHOW</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>4</code>
+		<displayText>NO-SHOW</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990105.09</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199901050900</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990128.143</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199901281430</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990222.09</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199902220900</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990225.133</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199902251330</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CP</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>9</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990302.093</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199903020930</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CP</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>9</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990315.143</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199903151430</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NS</code>
+		<displayText>NO-SHOW</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>4</code>
+		<displayText>NO-SHOW</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990601.0915</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199906010915</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1588</identity>
+			<name>POCATELLO NP 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981029.093</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199810290930</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1634</identity>
+			<name>ZZZAUDIO/THURSDAY-2/REG</name>
+		</identifier>
+		<telephone>1242</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2991216.1038</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199912161038</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1635</identity>
+			<name>ZZZAUDIO/THURSDAY-1/REG</name>
+		</identifier>
+		<telephone>1242</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990112.104</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199901121040</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1677</identity>
+			<name>WOMEN'S CLINIC-OB/GYN CONSULT</name>
+		</identifier>
+		<telephone>2696</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CP</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>9</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2971029.123</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199710291230</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1968</identity>
+			<name>ZZMH/CIRT</name>
+		</identifier>
+		<telephone>1255</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2971029.12</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199710291200</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>1988</identity>
+			<name>XXMH/JUNE SWARTZ RN</name>
+		</identifier>
+		<telephone>1870</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000613.143</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200006131430</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2337</identity>
+			<name>FAC 8</name>
+		</identifier>
+		<telephone>4173</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NS</code>
+		<displayText>NO-SHOW</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	<labDateTime>
+		<literal>200006131330</literal>
+	</labDateTime>
+	<status>
+		<code>4</code>
+		<displayText>NO-SHOW</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2980403.1</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199804031000</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2980602.103</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199806021030</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2980901.1</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199809011000</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990105.0915</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199901050915</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990202.103</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199902021030</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990504.13</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199905041300</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990601.083</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199906010830</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990830.093</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199908300930</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2991130.103</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199911301030</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CC</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>5</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2991210.11</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199912101100</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000310.103</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200003101030</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000516.11</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200005161100</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000609.1</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200006091000</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CC</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>5</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000815.1</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200008151000</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NS</code>
+		<displayText>NO-SHOW</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>4</code>
+		<displayText>NO-SHOW</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000918.113</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200009181130</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010108.113</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200101081130</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010402.11</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200104021100</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010626.09</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200106260900</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010925.113</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200109251130</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2343</identity>
+			<name>POCATELLO MH/TOMPKINS APRN IND</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NS</code>
+		<displayText>NO-SHOW</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>4</code>
+		<displayText>NO-SHOW</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981103.13</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199811031300</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2393</identity>
+			<name>ZZFAC 8 OPEN</name>
+		</identifier>
+		<telephone>4173</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CP</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>9</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981113.13</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199811131300</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2393</identity>
+			<name>ZZFAC 8 OPEN</name>
+		</identifier>
+		<telephone>4173</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CPR</code>
+		<displayText>CANCELLED BY PATIENT &amp; RESCHEDULED</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>10</code>
+		<displayText>CANCELLED BY PATIENT &amp; AUTO-REBOOK</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981124.14</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199811241400</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2393</identity>
+			<name>ZZFAC 8 OPEN</name>
+		</identifier>
+		<telephone>4173</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2981203.133</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199812031330</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2393</identity>
+			<name>ZZFAC 8 OPEN</name>
+		</identifier>
+		<telephone>4173</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CP</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>9</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2980417.09</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199804170900</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2396</identity>
+			<name>POCATELLO PSYCHIATRY/TELEPHONE</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000510.1245</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200005101245</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2411</identity>
+			<name>ZZ POCATELLO VET CTR TELEPHONE</name>
+		</identifier>
+		
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000413.133</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200004131330</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2605</identity>
+			<name>POCATELLO PA 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000918.133</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200009181330</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2605</identity>
+			<name>POCATELLO PA 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CC</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>5</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000925.11</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200009251100</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2605</identity>
+			<name>POCATELLO PA 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010314.133</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200103141330</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2605</identity>
+			<name>POCATELLO PA 1</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>NS</code>
+		<displayText>NO-SHOW</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>4</code>
+		<displayText>NO-SHOW</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2990830.1054</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199908301054</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2613</identity>
+			<name>POCATELLO NURSING CLINIC</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000105.09</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200001050900</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2613</identity>
+			<name>POCATELLO NURSING CLINIC</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010108.103</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200101081030</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2613</identity>
+			<name>POCATELLO NURSING CLINIC</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010110.1</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200101101000</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2613</identity>
+			<name>POCATELLO NURSING CLINIC</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CP</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>9</code>
+		<displayText>CANCELLED BY PATIENT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010409.0845</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200104090845</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2613</identity>
+			<name>POCATELLO NURSING CLINIC</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3010626.1139</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200106261139</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2613</identity>
+			<name>POCATELLO NURSING CLINIC</name>
+		</identifier>
+		<telephone>1855</telephone>
+		<institution>
+			<identifier>
+				<identity>660GA</identity>
+				<name>POCATELLO CBOC</name>
+			</identifier>
+			<officialVAName>VA POCATELLO CBOC (660GA)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>2991217.1</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>199912171000</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2620</identity>
+			<name>RED ENDOCRINOLOGY 1</name>
+		</identifier>
+		<telephone>4173</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>R</code>
+		<displayText>SCHEDULED/KEPT</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	
+	<status>
+		<code>2</code>
+		<displayText>CHECKED OUT</displayText>
+	</status>
+</appointment><appointment>
+	<recordIdentifier>
+		<identity>3000609.113</identity>
+		<namespaceId>991_2.98</namespaceId>
+	</recordIdentifier>
+	<patient>
+		<identifier>
+			<identity>114191</identity>
+			<assigningFacility>991</assigningFacility>
+		</identifier>
+	</patient>
+	<appointmentDateTime>
+		<literal>200006091130</literal>
+	</appointmentDateTime>
+	<location>
+		<identifier>
+			<identity>2620</identity>
+			<name>RED ENDOCRINOLOGY 1</name>
+		</identifier>
+		<telephone>4173</telephone>
+		<institution>
+			<identifier>
+				<identity>660</identity>
+				<name>SALT LAKE CITY HCS</name>
+			</identifier>
+			<officialVAName>VA SALT LAKE CITY HEALTH CARE SYSTEM (660)</officialVAName>
+		</institution>
+	</location>
+	<appointmentStatus>
+		<code>CC</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</appointmentStatus>
+	<appointmentType>
+		<code>9</code>
+		<displayText>REGULAR</displayText>
+	</appointmentType>
+	
+	
+	<labDateTime>
+		<literal>200006091030</literal>
+	</labDateTime>
+	<status>
+		<code>5</code>
+		<displayText>CANCELLED BY CLINIC</displayText>
+	</status>
+</appointment></appointments></patient></patients></appointmentsdata:AppointmentsData>]]></out>
+      </ns1:readDataResponse>
+   </soap:Body>
+</soap:Envelope>

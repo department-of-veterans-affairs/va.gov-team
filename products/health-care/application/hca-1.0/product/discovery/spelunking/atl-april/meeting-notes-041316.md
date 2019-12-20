@@ -1,0 +1,94 @@
+#### Meeting with Leroy (9:00AM)
+
+- They verify income for veterans who are receiving cost-free care
+- They get data from the enrollment system and match with IRS
+	- They do this about once a month, except for January (no data is exchanged between IRS and SSA)
+- Now they adjudicate about 245,000 applications each year
+- Priority Group 5: cost-free care
+- They also have the ability to ejudicate groups 6, 7, and 8
+	- Many veterans retire, but don't update their income, so they continue paying co-pays when they shouldn't have to
+- They also verify veterans from groups 2 and 3 for the purposes of getting beneficiary travel
+- Pension Rate: $15k, what VBA uses to determine whether or not to grant pensions to veterans
+- Income Limit/Threshold: $30k
+- Veterans between the pension rate and the income limit is about 35% (many veterans are getting beneficiary care when they are not entitled to, this is a current problem)
+- Another threshold 10% above income limit where they have to pay co-pays
+- They count household income (still need to separate out veteran and spouse income in the form)
+- For SSA they are going to get rid of gender because they get a better match that way
+- Different tiers for determining income levels
+	- Tier 1: earned income
+	- Tier 2: earned income plus interest and dividens
+	- Tier 3: stocks and bonds
+	- Tier 4: royalties 
+	- Tier 5: something else
+- Return rate is about 55% (veterans trying to change their income to get below the threshold)
+- Mailing letters to veterans is a problem because there are often bad addresses
+- They also have the ability to request financial information from the financial institutions to the employer
+	- But they don't often have to use this because they've done a study that this information matches what they get from the IRS anyway
+- Veterans have 1 year to submit additional data from the date of adjudication
+- 96% of veterans converted to correct PG of those that Leroy's team handles
+- The veteran is able to receive care while their income is being verified, so there are some veterans who don't meet any of the disability or service requirements, who also do not fall below the income threshold, so they are rejected for care, but they resubmit their financial information and make an appeal and it takes another year for their application to be adjudicated again so they can receive care in the meantime, and they will continue to do this several times
+- SSA provides them earned income information and IRS provides them unearned income information (but SSA gets this information from IRS originally, so not clear whey they have to go through SSA at all)
+- They match 5.3 to 5.6 veterans every year
+- The system automatically opens cases to review based on if information that comes back from the IRS shows that income is above the threshold (245,000)
+- Still possible to get care if you come in above the threshold through deductions and things like that
+
+#### Meeting with Lorelle, Elizabeth, and Chris (11:00AM)
+
+- Currently, they get a list every morning from the informatics team (pulled from ADR, Automated Data Repository) of records that need review from VOA
+	- Everything that's not in an enrolled status they take a second look at them
+	- Pending records go into WRAP (Workload Reporting and Productivity System)
+	- This is a manual process
+- Cases for non-verified/pending records:
+	- Pending an income verification
+	- Military service information can't be found
+		- Purple Heart needs to be manually verified if military service information doesn't come back verified
+	- Rejected application (still want to do a second review of that record)
+- Preventable errors:
+	- If a veteran leaves out a spouse, the income verification would be different, so if they are married but don't include their spouse, the income verification has to be resubmitted manually the next day
+	- A lot of veterans get Medicare/Medicaid confused (we shouldn't ask for Medicare)
+		- Only Medicaid gets you in special PG, not Medicare
+		- Explain what Medicaid is and that they need proof that they have it
+		- Maybe include a checkbox that asks them to certify that they have proof of Medicaid
+	- A lot of veterans don't know what service connection means (compensable service connection is the requirement)
+		- VA-rated compensable service connection
+		- It has to be incurred or aggravated on active duty
+		- It has to be adjudicated by VBA
+	- 3 main sections that need clarity: service connection, Medicare/Medicaid, and financial assessment
+	- Mehedi knows most about the submission errors
+		- Validation errors cause submission errors
+		- A request not completing or not returning a response
+	- We need to be able to upload documents in the case of the Power of Attorney
+	- 30% of applicants do not send in their DD214, and a smaller percentage of those do not have a DD214 anywhere in the system (<10%)
+	- DPRS: should have records of DD214 from about 2000 on
+	- If Elizabeth were queen of the day, the one thing she would change about the enrollment system is write the form in clear, simple, concise language, something that anyone could understand
+		- Chris said the same thing
+	- 2015 version of VOA cut out a bunch of things of 2011 version that were necessary (e.g., next of kin, designee)
+
+#### Meeting with Dane (1:00PM)
+
+- Hard to determine what constitutes an automatic enrollment
+	- Is it length of time? 30 seconds? 2 minutes? Many applications seemed to be enrolled around the 2 minute mark
+	- Is it that there was no human who interacted with the record on the enrollment side?
+	- New applicants vs. previous applicants
+	- Enrollment meaning a non-pending enrollment decision was made
+- About half of records coming through VOA are actually updates instead of new applicants
+- They can tell what the previous enrollment decision was before the update happened
+- We know how many people are enrolled in each PG
+- We know co-pay status
+- We do not know what true udpates are
+- We also want to know what % of records from VOA are automatically enrolled
+- Enrollment system does not capture application method, so we don't know where a lot of records come from
+- 75% of applications at VA medical facilties through Vista
+- 25% of applications are over the phone or online
+- MSDS works well for more recent veterans (Iraq, Afghanistan, etc.)
+- Way too many submission failures (consistently 10-20% of all submissions have errors)
+- We collect more information than we need
+- Biggest misunderstanding is that a lot of things happen automatically, but most things require a human
+- Things that can be determined in real-time: 
+	- PGs 1, 2, 3, and most of 4 and 6
+	- Service connected disability, combat vets
+- Biggest problem to do real-time is confirm whether or not they're a veteran (there are probably 10 different systems that we use and they're good for different categories of veterans, all are manually verified)
+- 51% of veterans applying for health care have a VBA-rated disability
+- Confirmed 70% of applicants can get processed automatically (service connected disability or combat history)
+- Biggest misconception about enrollment: people assume that there's follow-up going on, that once a recording has a pending status that there's someone who continues to try to move it to an enrollment decision, but often pending records just sit there. Either they get enrolled in 1 day, or it's not going to happen.
+- There's nothing in the enrollment system that says what's missing from a record that results in it being in pending.
