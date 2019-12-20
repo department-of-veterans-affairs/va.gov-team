@@ -1,7 +1,5 @@
 # Baseline EBenefits Usability Test
 
-Findings for this project are in the [findings folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/september-2017/eBen-usability/findings)!
-
 ## Goal
 
 1. Determine usability problem areas within the eBenefits user interface that occur while a Veteran is submitting a claim for disabilities related to their military service. 
@@ -32,31 +30,31 @@ The usability test will take 45 to 60 minutes. Interviews will be conducted via 
 
 ## Links
 
-- [eBenefits Screenshots](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/screenshots/eben)
-- [Discussion Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/september-2017/eBen-usability/test-design/discussion-guide.md)
+- [eBenefits Screenshots](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/sep-2017/screenshots)
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/discussion-guide.md)
 
 ## What We Want to Know
 
 There are three main sections to explore. 
 
 - Getting Started
-   - [Personal Information](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/personalinformation.png)
-   - [Get Started](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/gettingstarted.png)
-   - [How to get Help](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/gettinghelp.png)
-   - [Fully Developed Claims](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/fullydevelopedclaim.png)
+   - [Personal Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/personalinformation.png)
+   - [Get Started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/gettingstarted.png)
+   - [How to get Help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/gettinghelp.png)
+   - [Fully Developed Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/fullydevelopedclaim.png)
 - Adding Claims and Evidence
-   - [Adding Claims](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaims.png)
-   - [Filter by Arm](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/disabilitylist_filtered_arm.png)
+   - [Adding Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaims.png)
+   - [Filter by Arm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/disabilitylist-filtered-arm.png)
 - Requesting an Increase and Uploading Documents
-   - [Requesting an Increase](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaims.png)
-   - [Screenshot of Before](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaimsrequest_increase.png)
-   - [Screenshot of After](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaimsrequest_increase_done.png)
+   - [Requesting an Increase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaims.png)
+   - [Screenshot of Before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaimsrequest-increase.png)
+   - [Screenshot of After](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaimsrequest-increase-done.png)
    
 __**__ This research will not include:
 
 - Checking Status
-   - [Example Dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/example%20of%20status%20dashboard.png)
-   - [My Claims and Appeals](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/my%20claims%20and%20appeals.png)
+   - [Example Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/example-of-status-dashboard.png)
+   - [My Claims and Appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/my-claims-and-appeals.png)
 
 
 
