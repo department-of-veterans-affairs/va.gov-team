@@ -16,7 +16,7 @@ __Please note: some links in this document point to documents in the vets.gov-te
 |Justin Pickett |Auth exp PM| jpickett@governmentcio.com |
 |Arthur Green |Auth exp designer| jpickett@governmentcio.com |
 |Erik Hansen | Auth exp FE engineer| erik@adhocteam.us |
-|Amen Ra | Auth exp FE engineer| ara@governmentcio.com |
+|Brad Conley | Auth exp FE engineer| bconley@governmentcio.com |
 |Lihan Li | Auth exp BE engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | VSA QA Analyst | tze@adhocteam.us |
 
