@@ -5,7 +5,7 @@
 
 * Marcy gave a quick overview of USDS since some folks were unfamiliar with the Digital Service. High priority areas: technology and policy processes. Mentioned DS teams relevant to VA - DOD,  DHS, CMS.
 * Question: Are we working with DOE on the big energy project? Answer: No, we're not involved with that project.
-* Design and Technology - Agile method overview. Went through [slides](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/discovery/2017%20VSO%20Discovery/background%20info/VSO-Communicatorsv2.pptx). Healthcare form example on Vets.gov Principles e.g. Modernization. Veteran facing AND impacting system. Mentioned VSO interaction e.g. veteran sitting in their office working through an application.
+* Design and Technology - Agile method overview. Went through [slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-vso/background/vso-communicatorsv2.pptx). Healthcare form example on Vets.gov Principles e.g. Modernization. Veteran facing AND impacting system. Mentioned VSO interaction e.g. veteran sitting in their office working through an application.
 * Vets.gov started with 3 features, now we have 60. Next on list - 3rd party logon (e.g. VSOs) on behalf of a veteran
 * Went through Profile: transfer info from DOD, also allow for 3rd party logon, allow for address updates, (VA spends $350 million per year on mail, 40% sent back due to bad addresses). Turbo Tax analogy, accountant still a factor if a user desires.
 * Scheduling is a priority for Secretary. Issue: Findability, Usability, Design.
@@ -29,7 +29,7 @@ Q: Did recent hurricanes impact cemeteries? A: Yes, and working on emergency con
 
 ### VBA - Decision Ready Claims, Appeals Reform
 
-* [Appeals Modernization Communications Toolkit](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/discovery/2017%20VSO%20Discovery/background%20info/Appeals%20Modernization%20Communications%20Toolkit.pdf) - authored by Dominique Joseph, VBA related to
+* [Appeals Modernization Communications Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-vso/background/appeals-modernization-communications-toolkit.pdf) - authored by Dominique Joseph, VBA related to
 [Veterans Appeals Improvement and Modernization of 2017](https://www.congress.gov/bill/115th-congress/house-bill/2288)
 * Decision Ready Claims presented by Mike LeDesma (sp) at last VSO Comms meeting. This is not going to fit for every veteran. It’s a simple form, not for Agent Orange: presumptive, for increases, service connection already established, no need to pull medical records. Off-board to FDC or regular claims process. Offering additional training to VSOs since everyone wasn’t able to attend. Having make-up courses in beginning of October.
 * Comment (Ryan, VFW): Consultation in the beginning is important, beyond initial pilot. Should be collaborative in communication plan. Otherwise they’ll be behind the eight-ball and have to go into damage control mode. Military Times & Time and Purpose. This is what veterans read. **Ramp to DRC off-boarding is problematic because it doesn’t comply with Modernization Act.**
