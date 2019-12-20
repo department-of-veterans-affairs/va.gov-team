@@ -2,11 +2,10 @@
 
 All requests for work needing to be fulfilled by a Public Websites resource must first fill out a standard issue template under ```va.gov-team repo``` and follow the process steps below. 
 
-**Please note that all requests will need to be reviewed, discussed, and sized with the team during a grooming session.  Depending on the team's capacity and LOE of request will determine how long it will take to be completed, so it is highly recommended that requests are submitted as soon as you are aware that you will need help. 
+**Please note that all requests will need to be reviewed, discussed, and sized with the team during a grooming session.  Depending on the team's capacity and LOE of request will determine which sprint the work fall into, so it is highly recommended that requests are submitted as soon as you are aware that you will need help. 
 
 1. Create an issue using the standard issue template
 
-n
 3. Include the date redirects need to be implemented by
 
 4. Include background and reason for redirect request
