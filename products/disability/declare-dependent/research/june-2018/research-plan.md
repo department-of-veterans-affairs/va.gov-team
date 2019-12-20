@@ -65,22 +65,18 @@ Please list the people who will be serving in each role.
 Project Brief: Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here
 
 Conversation Guides:
-- [Non-Veteran version](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018/686%20Conversation%20Guide%20-%20Non-Veteran%20version.md)
-- [Veteran version](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018/686%20Conversation%20Guide%20-%20Veteran%20version.md)
+- [Non-Veteran version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/research/june-2018/686-conversation-guide-non-veteran-version.md)
+- [Veteran version](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/research/june-2018/686-conversation-guide-veteran-version.md)
 
 Notes & Recordings
 - P1
--- [Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018/P1%20Verbatim%20Observer%20Notes.md)
--- Recording (Clips TBD)
+-- [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/research/june-2018/p1-verbatim-observer-notes.md)
 - P2
--- [Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018/P2.md)
--- Recording (Clips TBD)
+-- [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/research/june-2018/p2.md)
 - P3
--- [Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018/P3_6.18.18_1400.docx)
--- Recording (Clips TBD)
+-- [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/research/june-2018/p3-6.18.18-1400.docx)
 - P4
--- [Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018/p4_notes.md)
--- Recording (Clips TBD)
+-- [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/research/june-2018/p4-notes.md)
 
 Synthesis: [In-progress Reframer document](https://www.optimalworkshop.com/a/adhoc/reframer/projects/126bc333-dc7d-41ee-a5a6-d438f6c7c43e)
 
