@@ -176,7 +176,11 @@
 - Review goal and activities for the day
 - Updates
   - Slab: seems like it might have things we want, but it's expensive. Doesn't seem to have discounted pricing options for open-source/govt. Some of the features we ID'd as critical, if they're deal-breakers, that limits our options. So need to determine the deal-breakers -- like searching across repos.
-  - 
+  - Algolia through doc scraper: seems promising. can we customize the look and add in other little things? UI widget for dropping in the search and auto-complete needs research. Otherwise, we could always intercept the results and drop into our own custom widget.
+  - Just closed the study out, 80% of ppl at least somewhat comfortable w/markdown. 42 ppl. 90% comfortable w/wysiwyg. Content detail pages, ppl were successful w/them. for 'what would you do w/an error' 74% clicked "Edit".
+  - Making affinity map of qualitative things finding from comments, a lot of UX improvements.
+  - Spot checked some other things to see if there was an obvious answer we were missing, but it seems like no. Every blog post asking question similar to our conundrum and there's no standard answer. In convos w/ppl at other companies, a lot of ppl take the strong search approach first, and then if you still need to provide more help go after consolidated homepage etc.
+  - Let's meet back up at 3 to discuss the recommended solution approach and agree/align.
 - (If applicable) Review scheduled interviews
   - Assign notetakers for today's interviews
    - JHL, **notetaker: Dan (or Crystabel if there's a conflict), moderator: Megan**
