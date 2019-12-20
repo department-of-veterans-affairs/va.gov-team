@@ -1,3 +1,10 @@
+## Bill's Recommendation: Slab
+
+TLDR: The author of our existing custom solution said he would go with an off the shelf solution, Slab seems to addresses all of our pain points out of the box, and Slab's core competency is building documentation software, whereas building documentation software is not one of our core competencies. 
+
+Reason for not choosing GitBook: If GitBook supported multi-repo search, I'd recommend GitBook. 
+Reason for not choosing updating/building new custom solution: Any custom solution will be subject to opportunity cost and/or maintence risk. 
+
 Context: 
 * When asked ["If you had the chance to create that ecosystem again, what would you do differently?"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/interview-notes.md#if-you-had-the-chance-to-create-that-ecosystem-again-what-would-you-do-differently-1) the author of our current Gatsby site said they would choose a 3rd party option. 
 * >once we had to move on to higher proprieties there's no one to fix it…if its 3rd party you have a whole company that can fix it…after the infrastructure was done, dev was moved off to work on other things and now it’s a prioritization exercise
