@@ -1,14 +1,14 @@
 ## Bill's Recommendation: [Slab](https://slab.com/)
 
-TLDR: The author of our existing custom solution said he would go with an off the shelf solution, Slab seems to addresses all of our pain points out of the box, and Slab's core competency is building documentation software, whereas building documentation software is not one of our core competencies. 
+**TLDR**: The author of our existing custom solution said he would go with an off the shelf solution, Slab seems to addresses all of our pain points out of the box, and Slab's core competency is building documentation software, whereas building documentation software is not one of our core competencies. 
 
-Justification of Slab's high price tag: Dev time is expensive, and can quickly match/exceed Slab's price.
+**Justification of Slab's high price tag**: Dev time is expensive, and can quickly match/exceed Slab's price.
 
-Reason for not choosing GitBook: If GitBook supported multi-repo search, I'd recommend GitBook. 
+**Reason for not choosing GitBook**: If GitBook supported multi-repo search, I'd recommend GitBook. 
 
-Reason for not choosing updating/building custom solution: Any custom solution will be subject to opportunity cost and/or maintence risk. 
+**Reason for not choosing updating/building custom solution**: Any custom solution will be subject to opportunity cost and/or maintence risk. 
 
-Potential Experiment: Slab has a [14-day free trial](https://slab.com/pricing/). 
+**Potential Experiment**: Slab has a [14-day free trial](https://slab.com/pricing/). 
 >**Can I try Slab for free?**
 >
 >Yes! Slab is free to try for 14 days. We think you'll love it. We will only ask for payment details once your trial is over.
