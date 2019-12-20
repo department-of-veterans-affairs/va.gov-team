@@ -7,8 +7,7 @@ All requests for work needing to be fulfilled by a Public Websites resource must
 1. Create an issue using the standard issue template
 
 3. Note any special requests (e.g., if request has hard date or urgent issue)
-
 6. Please tag the issue with: `vsa-Public-Websites` 
-7. Assign issue to @karak888
-- Label used by your team (for example,) ```vsa-benefits-memorial```)
-
+8. Add label used by your team (for example,) (```vsa-benefits-memorial```)
+9. Request should be added to the "Icebox" Pipeline
+10. Assign issue to @karak888
