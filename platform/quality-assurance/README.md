@@ -27,3 +27,5 @@ The Quality Assurance practice area points of contact are:
 1. [**End-to-end Testing**](e2e-testing/README.md)
 1. [**Load testing**](load-testing/README.md)
 1. [**Unit testing**](unit-testing/README.md)
+1. [**Archival examples of previous testing efforts**](archival-examples/README.md)
+1. [**QA Check-in process**](check-ins/README.md)
