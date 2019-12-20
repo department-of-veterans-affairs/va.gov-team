@@ -14,7 +14,7 @@
 - Link to edit page
 - Syncs with GitHub
 - History
-- Content content type/label
+- Content type/label
 - Table of contents/navigation
 - Ability to favorite a page
 - Ability to comment/ask questions
