@@ -68,6 +68,9 @@ http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&ful
 #### Breakers (Service up) - 30 day average
 * [Service Up (Average)](http://grafana.vfs.va.gov/d/000000022/breakers?orgId=1&fullscreen&panelId=1&from=now-2d&to=now&var-data_source=Prometheus%20(Production)&var-service=All&var-endpoint=All) - This will be useful for the product tool 
 
+#### WIP Histogram Quantile Graph
+* [95% of request times are served within](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?orgId=1)
+
 
 ### External Service SLOs for request times (per service)
 Pre defined benchmarking for external service request times will need to be specified in order to assess http request timing metrics. The devops repo may have some insight in relation to external service request timing SLOs.
