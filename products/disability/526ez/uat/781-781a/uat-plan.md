@@ -67,7 +67,7 @@
 - Triage issues causing the failure and resolve them in order of severity of impact to the system. 
 
 ## Recruiting messaging
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/BAH-526/UAT/781%20-%20781a/RecruitingMessaging.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/uat/781-781a/recruitingmessaging.md
 
 ## Schedule 
 - Our tentative UAT schedule is: ________________________
