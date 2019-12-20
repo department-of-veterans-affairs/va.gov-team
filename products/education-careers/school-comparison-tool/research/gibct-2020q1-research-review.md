@@ -1,12 +1,12 @@
 # Highlights of research focused on EDU priorities for 2020 Q1
 
 ## Topics
-* STEM Scholarship Application Routing
-* Caution Flag (SRP & Profile Page)
-* Yellow Ribbon
-* Reduce Veteran Risk in School Selection
-* Ability for providers to update their own content
-* Yelp-style Reviews
+* [STEM Scholarship Application Routing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#stem-scholarship-application-routing)
+* [Caution Flag (SRP & Profile Page)]()
+* [Yellow Ribbon]()
+* [Reduce Veteran Risk in School Selection]()
+* [Ability for providers to update their own content]()
+* [Yelp-style Reviews]()
 <p>&nbsp;</p>
 
 
