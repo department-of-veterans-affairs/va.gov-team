@@ -23,8 +23,6 @@ __Claim Journey__
 
 _Daily Transactions Snapshot_
 
-![Daily Transactions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/EVSS%20Integration/VA%20Form%2021-526EZ/research/data/snapshot_daily_cycle.png)
-
 _Pre-Development_
 
 - Claim is submitted by paper or electronic
@@ -76,11 +74,11 @@ _Promulgate_
 
 ## Snapshot in Time
 
-![Cycles Per Day](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/EVSS%20Integration/VA%20Form%2021-526EZ/research/data/snapshot_four_stages.png)
+Cycles Per Day
 
 ## Types of Claims By the Numbers
 
-![Types of Claims](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/EVSS%20Integration/VA%20Form%2021-526EZ/research/data/type%20of%20claim%20and%20how%20many%20per%20month.png)
+Types of Claims
 
 #### Metric 2: Increase Accuracy of Claim Information Submitted
 Online claims reduce errors as a result of manual data entry 
