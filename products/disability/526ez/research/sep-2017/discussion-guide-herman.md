@@ -46,10 +46,10 @@ Today, you are filing a claim because you have lower back pain and the doctor sa
 Start Screen: Apply > 
 
 ### Section One: Getting Started (Personal Info, Military Service History)
-   - [Personal Information](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/personalinformation.png)
-   - [Get Started](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/gettingstarted.png)
-   - [How to get Help](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/gettinghelp.png)
-   - [Fully Developed Claims](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/fullydevelopedclaim.png)
+   - [Personal Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/personalinformation.png)
+   - [Get Started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/gettingstarted.png)
+   - [How to get Help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/gettinghelp.png)
+   - [Fully Developed Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/fullydevelopedclaim.png)
    
 __Task One: Review First Page.__
 
@@ -68,10 +68,10 @@ __Task Four: Continue through the application talking outloud. Remember this is 
 
 |section|questions|
 |---|---|
-|[Get Started](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/gettingstarted.png)| What in this list does the Veteran have access to easily? <br>What in this list would they need to locate (save and come back later)?<br> What in this list does the Veteran expect the VA to have already? <br>What in this list does the Veteran not understand? What in this list does the Veteran not have?|
-|[how to get help](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/gettinghelp.png)| What do Veterans expect to see here? <br>Where would Veterans go to get help? |
-|[Fully Developed Claims](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/fullydevelopedclaim.png)| What makes someone want to do a fully developed claim? <br>What would it take for someone to do a fully developed claim on eBenefits?|
-[Period of Service](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/periodofservicefilled.png)|What does verified mean?<br>What does action mean? For all subsections, if this information was autopopulated, where would it come from?<br>Does the Veteran expect the VA to already know this information? __breeze through this__|
+|[Get Started](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/gettingstarted.png)| What in this list does the Veteran have access to easily? <br>What in this list would they need to locate (save and come back later)?<br> What in this list does the Veteran expect the VA to have already? <br>What in this list does the Veteran not understand? What in this list does the Veteran not have?|
+|[how to get help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/gettinghelp.png)| What do Veterans expect to see here? <br>Where would Veterans go to get help? |
+|[Fully Developed Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/fullydevelopedclaim.png)| What makes someone want to do a fully developed claim? <br>What would it take for someone to do a fully developed claim on eBenefits?|
+[Period of Service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/periodofservicefilled.png)|What does verified mean?<br>What does action mean? For all subsections, if this information was autopopulated, where would it come from?<br>Does the Veteran expect the VA to already know this information? __breeze through this__|
 |Military Pay Records| This asks you if you want to receive VA compensation instead of Military retired pay. If you receive VA compensation, your paycheck for retirement will be reduced by the VA compensation amount. Did the Veteran already know this? Where would they expect to find this information?|
 
 -----
@@ -81,14 +81,14 @@ __Task Four: Continue through the application talking outloud. Remember this is 
 
 In this section, you are going to report your service-connected disabilities.
 
-   - [Adding Claims](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaims.png)
-   - [Filter by Arm](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/disabilitylist_filtered_arm.png)
+   - [Adding Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaims.png)
+   - [Filter by Arm](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/disabilitylist-filtered-arm.png)
    
 
 __Task One: Show me what you would do if you wanted to report the severity of your lower back strain has increased.__
-   - [Requesting an Increase](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaims.png)
-   - [Screenshot of Before](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaimsrequest_increase.png)
-   - [Screenshot of After](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/yourdisabilityclaimsrequest_increase_done.png)
+   - [Requesting an Increase](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaims.png)
+   - [Screenshot of Before](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaimsrequest-increase.png)
+   - [Screenshot of After](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/yourdisabilityclaimsrequest-increase-done.png)
    
 
 __Task Two: Now, show me what you would do to report your sleep apnea, mild post-traumatic stress disorder, tinnitus and migraines.__
@@ -96,13 +96,13 @@ __Task Two: Now, show me what you would do to report your sleep apnea, mild post
 
 __Task Three: Continue with the application. Read the PTSD Statement.__
 
-- [Review PTSD Statement Instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/PTSD%20Statement.png)
+- [Review PTSD Statement Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/ptsd-statement.png)
    
 __Task Four: Add a combat-related incident__
 
-- [Report an Incident](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/PTSD%20Incident%20Report.png)
-- [Incident Type](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/PTSD%20Incident%20Report%20Type.png)
-- [Incident Description](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/PTSD%20Incident%20Description.png)
+- [Report an Incident](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/ptsd-incident-report.png)
+- [Incident Type](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/ptsd-incident-report-type.png)
+- [Incident Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/ptsd-incident-description.png)
 
 ** Optional **
 
@@ -112,9 +112,9 @@ __Task Five: Depending on time, pick one additional benefit to apply for.__
 
 ### Section Three: Adding Treatment Records and Supporting Documents
 
-- [Add Treatment Record](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/add_treatment_record.png)
-- [Upload Documents](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/documents_upload_a.png)
-- [Browse to File](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/documents_upload_b.png)
+- [Add Treatment Record](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/add-treatment-record.png)
+- [Upload Documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/documents-upload-a.png)
+- [Browse to File](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/documents-upload-b.png)
 
 __Task One: Add information about visit to the Houston VA medical center that led to your sleep apnea diagnosis.__
    - Add a treatment record
@@ -152,6 +152,6 @@ Continue and reflect. You are basically done minus some errors you need to fix. 
 ** Not Covered in this discussion guide: 
 
 - Checking Status
-   - [Example Dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/example%20of%20status%20dashboard.png)
-   - [My Claims and Appeals](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/my%20claims%20and%20appeals.png)
+   - [Example Dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/example-of-status-dashboard.png)
+   - [My Claims and Appeals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/my-claims-and-appeals.png)
 
