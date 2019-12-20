@@ -1,5 +1,5 @@
 # QA
-In this folder, you'll find information specific to how Quality Assurance (QA) works on VA.gov.  Generally, QA is the practice of preventing mistakes and defects in a product or service.  As it pertains to this platform, QA is concerned with ensuring that visistors to VA.gov experience a uniform and consistent website free from defects.
+In this folder, you will find rules for how Veteran-facing Services (**VFS**) teams engage in Quality Assurance (**QA**) works on Veteran-facing Services Platform (**VSP**).  Generally, QA is the practice of preventing mistakes and defects in a product or service.  As it pertains to this platform, QA is concerned with ensuring that visistors to VA.gov experience a uniform and consistent website free from defects.
 
 ## Communication channels
 - Slack channel: #vfs-platform-support

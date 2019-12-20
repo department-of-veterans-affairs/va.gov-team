@@ -1,5 +1,5 @@
 # Load Testing
-In this folder, you'll find information specific to load testing on VSP.  Please note that detailed load testing materials are stored in the **[devops](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)** repository.
+In this folder, you will find information specific to load testing on VSP.  Please note that detailed load testing materials are stored in the **[devops](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)** repository.
 
 ## Load testing expectations for VFS teams
 Each VFS team is expected to create or modify load tests appropriately as they work on their product.  VFS teams should work with the analytics team to understand the peak load to expect on their product.
