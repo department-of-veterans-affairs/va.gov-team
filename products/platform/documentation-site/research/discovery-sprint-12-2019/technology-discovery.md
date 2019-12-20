@@ -6,7 +6,7 @@ Justification of Slab's high price tag: Dev time is expensive, and can quickly m
 
 Reason for not choosing GitBook: If GitBook supported multi-repo search, I'd recommend GitBook. 
 
-Reason for not choosing updating/building new custom solution: Any custom solution will be subject to opportunity cost and/or maintence risk. 
+Reason for not choosing updating/building custom solution: Any custom solution will be subject to opportunity cost and/or maintence risk. 
 
 Experiment: Try Slab for one month to see if people like it. If not, it has an ability to export everything that was stored in the app. 
 
