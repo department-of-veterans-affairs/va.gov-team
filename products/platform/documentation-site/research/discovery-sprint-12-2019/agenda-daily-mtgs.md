@@ -191,5 +191,12 @@
 ## Day End Meeting Agenda
 - Assign notetaker for this meeting: Rachael
 - Roundtable of takeaways
-  - 
 - Revisit goal progress for the day
+- Technical Discovery
+  - Bill: add background to tech discovery doc
+  - Dan: add Algolia notes to tech discovery doc
+  - Dan: copy in the "marketing table" of the features vs tools evaluation from Google Sheets
+  - Megan: finish deck (doesn't have to be perfect!)
+  - Crystabel: link to mocks in figma, affinity maps, crazy 8 doc, from discovery folder
+  - Mikki: add research synthesis to discovery folder
+  
