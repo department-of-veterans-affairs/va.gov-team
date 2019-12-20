@@ -1,4 +1,4 @@
-## Consensus Recommendation: Algolia + Custom Landing Page
+## Team Recommendation: Algolia + Custom Landing Page
 
 ---
 
