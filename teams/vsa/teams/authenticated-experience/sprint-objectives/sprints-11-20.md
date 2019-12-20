@@ -112,6 +112,10 @@ Erik may end up helping with some of this.
 - Pre-launch
   - Analytics
   - Etc
+  
+### Profile 2.0
+
+- Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
 
 ### Error Matrix
 
