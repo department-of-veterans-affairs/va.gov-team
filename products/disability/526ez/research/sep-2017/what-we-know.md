@@ -64,7 +64,7 @@ __Submitting Evidence__
 Adding evidence is overwhelming because of the high stakes and difficulty getting access to their records.
 * "I have to compile proof for 7 different items and have my service-connectedness re-rated. I am overwhelmed. It's just too many steps." – Joy, Veteran
 
-![uploading docs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/data/successful_unsuccessful_ebenefits.png)
+![uploading docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/data/successful-unsuccessful-ebenefits.png)
 
 Doing the claim wasn’t hard. Getting stuff for the claim was hard.
 
