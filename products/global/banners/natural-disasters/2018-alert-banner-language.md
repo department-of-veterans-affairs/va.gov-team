@@ -1,3 +1,5 @@
+# Note: Emergency banner messages are owned by OPIA and the ones below have been deprecated. See OPIA pre-approved template texts here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf
+
 ## 1. Government Shutdown
 
 #### All Veteran benefits and services are available as usual
