@@ -2,8 +2,8 @@
 
 We should have generated a lot of raw material at this point in Reframer and Github between verbatim notes and session report documents from the mini-debriefs, so let's take this time to assess what we have, refine it, and figure out how to present it.
 
-1. [Tagging guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/Tagging%20Guide.md)
-2. Add your [verbatim notes in Github](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/january-2018/Notes) and [observations in Reframer](https://www.optimalworkshop.com/a/adhoc/reframer/projects/12486)
+1. [Tagging guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/tagging-guide.md)
+2. Add your [verbatim notes in Github](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jan-2018/notes) and [observations in Reframer](https://www.optimalworkshop.com/a/adhoc/reframer/projects/12486)
 3. (got this far - do the rest in another checkpoint)
 4. Review themes at a high level across all sessions
    1. From research goals
