@@ -22,20 +22,20 @@ There is a lot of stuff in this folder, but a few places that are good to start:
 
 This describes the overall Veteran experience. It shows the steps and responsibility (Veteran or VA) at each step. We called out highlights and pain-points at these steps.
 
-- [Journey Map](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/discovery/2017-discovery-sprint/output/journey-map)
+- [Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-discovery-sprint/output/journey-map)
 
 #### Increase process diagrams
 
 These diagrams show how systems interact in the creation of a claim and begin to explore application flows.
 
-- [DRC flow](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/discovery/2017-discovery-sprint/output/disability-comp-claim-DRC-flow-v2.png)
-- [Diagram Sketch File](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/design/disability-comp-diagrams.sketch) (moved to `design` folder )
+- [DRC flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-discovery-sprint/output/disability-comp-claim-drc-flow-v2.png)
+- [Diagram Sketch File](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/design/disability-comp-diagrams.sketch) 
 
 #### Form outlines
 
 These outlines are show how we are planning to build v2. 
 
-- [Form outlines](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/design/all-claims/chapter-outlines)
+- [Form outlines](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/design/all-claims/chapter-outlines)
 
 ### 2017 Discovery – VSO
 
@@ -53,7 +53,7 @@ We have pivoted from doing high-fidelity comps to describing the forms in outlin
 
 These screens are part of the initial high fidelity work, and show how we began to walk Veterans through the process. They are not up to date. The MVP form of this work is now live in production behind a password.
 
-- [Design explorations](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/design/design-exploration-screens) (technically in the `design` folder)
+- [Design explorations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/design/exploration-screens)
 
 #### UX conventions
 
