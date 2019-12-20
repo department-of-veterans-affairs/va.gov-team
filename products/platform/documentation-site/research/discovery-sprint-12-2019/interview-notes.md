@@ -1,3 +1,86 @@
+# Interview 8
+- Date: 12/20/19
+- Participant initials: RF, JB
+- Participant role: FE eng
+
+### Notes
+
+DS: We're diving into documentation, looking at lots of different solutions, finding out what we can learn from old things, etc
+
+JB: Not sure where to stat! 
+
+RF: Current state of Gatsby is that sometimes it breaks and because we're not actively working on it, there's no resource dedicated to it, so if it breaks we have to prioritize that fix against other things going on. That's not a technology thing, that's the organizational choice. I don't have anyone to put on it and I don't have time to fix it. It's a lower priority than other things going on. 
+
+BF: If we decided to recommend continuing with Gatsby, how much of a dedicated resource would it need? 
+
+RF: 1 FEE? We wanted to add more features to it. Diagraming, support is spotty ... there was more we wanted to add, which increases the maintenance cost. 
+
+JB: We started with Gatsby and we made it to the point where we were reasonable comfortable making changes in there and kind of had an understanding of how it works. We hadn't made it to the point of understanding the full site, there was a leveling up that we didn't get to with the Gatsby stuff. We had struggles making sure it built consistently, Gatsby has a bunch of dependenccies, it tries to manage those and can get out of date. It needs someone working on it regularly, it's not a ton of work it's just having it in your head and being able to understand what's going on quickly. 
+
+BF: Rian, what about multi-repo search? 
+
+RF: We were working on something to allow us to import from documentation from mutliple repos. Search was manually controlled inside of markdown files, we were also looking at algolia which would have indexed the website. We were thinking of pulling it out of multiple repos bc that would give us the option of having documentation close to the source code, but ... we also had a lot of old documentation inside of the team repo that we wanted to pull out. IDk if we got to a point where we were using that... we didn't use that a lot. 
+
+BF: At the other end of the spectrum, if we didn't go forward with Gatsby, what should we do with what's there? 
+
+JB: I think most of the documentation there exists in the tools repo, the pulling from other repos ... a page or two maybe did that but we may have turned that off. There's a lot of documentation in there that's ueful, all of the forms system documentation is in there, that's out of date but is complex, and the other main thing is the component library piece which pre-dates the Gatsby site. You go look at what the react components you have available to match what's in the design system. There's a lot of other front end docs in tehre that's all useful I think. 
+
+RF: It's all markdown so ... we can migrate it to whatever ... it would be pretty easy to migrate that to another system.
+
+BF: How do you find documentation? On your local editor, on GH, where? 
+
+JB: It depends on what I'm looking for. If it's FE docs I"ll go to the FS docs bc I know how that's organized and I can search it. THat's the place I start for any FE docs at this point, and it's where I pointed the devs on VAOS to. 
+
+RF: I don't look inside the repo for docs. I know where all the docs are bc we spent 6 months editing it. I'm not a good example for how to find documentation. I don't like looking inside my code editor, if there's a lot of docs in the repo it can make it harder to find code-related stuff depending on how well it's written. Generally I just use the FE docs we have now in Gatsby bc I built it and know how to use it. 
+
+JB: The stuff I normally look up on that site and as a person who contributed a lot to building it, the stuff I do now on VAOS is look up react components, the alert box, I can never remember what the props are for that. I'll look up forms system documentation to look for patterns that I know we have. There's a bunch of workflow info. 
+
+BF: One of the features that has come up has been favorites. Would that be helpful? 
+
+JB: Sure ... I've bookmarked stuff in the github repo. Sometimes it's hard to get to the right info. I know where the FE stuff is that I need. 
+
+BF: Rian I think you had mentioned that you just search google sometimes. 
+
+RF: Yeah I don't bookmark stuff. I know where I need to go or I just use search. 
+
+BF: Another thing that's been coming up ... we've been discussing a solution for technical and non-technical. Do you think it makes sense to solve for both use cases?
+
+JB: To me it would be a big win to have all of the stuff in the same place. At least the way you get to it is there's one thing to go to, one starting point, I can go there and search and that's my one entry point. I think it's hard to integrate that in one site bc especially for the technical stuff there are things that aren't just "render markdown as html" - component library is custom react code. At one point we thought about putting ... pulling js doc comments, that kind of documentation out of vets-website and putting it on the site. Also mermaid JS diagrams on some of the pages. There's defintiely some custom stuff that's hard to do that you have to do for the frontend stuff. But it would be nice to have everything in one spot, a single entry point. 
+
+We did a very small amount of research asking developers what their issues were with the site and finding documentation was the thing. A single place for this audience (FE devs) was a good thing to have. 
+
+RF: I like the idea of a single entry point. My main thing is with search, we need to be able to filter it. I don't care about prod management, I want to be able to find technical information. I want to be able to filter large categories out of my search results. THat's why we didn't use GH bc everyone puts their meeting notes in GH. 
+
+DS: Why did you look at algolia? 
+
+RF: From my perspective it was UX. I like react search, they do that. Idk how they do indexing and how they weight stuff. It would depend on how it would work with our stuff. 
+
+MK: Why did you choose gatsby? 
+
+JB: The dev who did most of the research isn't here anymore. I think our process was that we looked at tools that were just documentation generators or that were focused on documentation and generally found that those were a bit limiting for what we wanted to do. We knew we wanted to have MD files but we also wanted a component library and maybe js doc style documentation later on. That moved us away from the documentation type tools. Gatsby felt like a good choice out of the static site generators, it was react based and we knew react, it seemed like that would make building a mini component library better. We had a lot of problems with fractal for that bc it wasn't made for react, that was incredibly painful, we wanted to make sure it was easy to integrate that. Gatsby has a lot of plugins, a pretty strong community, it felt like it would be easy for us to take on and build stuff with. That was the main logic. We talked about using the stack that vetswebsite uses (metalsmith and node) but that was less out of the box than gatsby so it was going to be even more work. 
+
+MK: what about your comment that we should go off the shelf, rian?
+
+RF: Mostly bc of the maintenance issue and the issues we're having right now - it's broken and we don't have anyone to fix it. I don't want us to get into that situation again. We need something right now and the gatsby stuff might take another month or two of work and that's another month or two that we don't have a documentation site 
+
+JB: A lot of what generated the switch to gatsby was how awful fractal was for us. the ability to build something like that was pretty important to us. it pushed us away from more off-the-shelf stuff. If you just want documentation in a site, I imagine there are tools that are better than gatsby. We looked at stuff like docusaurus, still static site generators that had more stuff on top of them. I don't know how much less maintenance that is than gatsby, especially if you start customizing it. We didn't look at gitbook, we knew we wanted something that we could control a bit more than that. 
+
+BF: One thing about gitbook is that it has bidirectional sync on markdown files, we've seen other ones where it's really one-dimensional. 
+
+JB: To me, I would be fine editing stuff in github, that's what I'm used to doing for docs. 
+
+RF: I don't have any feedback on that. 
+
+MK: Can you update the Gatsby site without an engineer? Not right now 
+
+JB: You could get it to a point where you could update without an engineer but the build is broken right now. 
+
+RF: I think it's broken bc someone added something to a MD file that's not supported and it's hard to troubleshoot. 
+
+JB: Someonoe made changes that weren't supported on the versino of Node that we had. 
+
+
+
 # Interview 7
 - Date: 12/20/19
 - Participant initials: JHL
