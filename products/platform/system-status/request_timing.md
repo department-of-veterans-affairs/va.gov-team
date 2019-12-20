@@ -71,6 +71,9 @@ http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&ful
 #### WIP Histogram Quantile Graph
 * [95% of request times are served within](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?orgId=1)
 
+#### WIP Latency Averages (still need to split up by endpoint)
+* [Current Averages/External service](http://grafana.vfs.va.gov/d/Dp_Z5xfWk/backend-service-report-copy-request-timing?orgId=1&from=now-5m&to=now&var-service=EVSS%2FCommon&var-service=EVSS%2FDocuments&var-service=Search%2FResults)
+
 
 ### External Service SLOs for request times (per service)
 Pre defined benchmarking for external service request times will need to be specified in order to assess http request timing metrics. The devops repo may have some insight in relation to external service request timing SLOs.
