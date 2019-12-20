@@ -7,7 +7,7 @@
 * [Reduce Veteran Risk in School Selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#reduce-veteran-risk-in-school-selection)
 * [Yelp-style Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#yelp-style-reviews)
 * [Ability for providers to update their own content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#ability-for-providers-to-update-their-own-content)
-* [Guidance from DEPO-EDU Roadmap]()
+* [Guidance from DEPO-EDU Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/gibct-2020q1-research-review.md#guidance-from-depo-edu-roadmap)
 <p>&nbsp;</p>
 
 
