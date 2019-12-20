@@ -1,11 +1,11 @@
 # PI2: complete
-- [526 (Claims Submission) Design Sprint & Readout](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/4040)
+- 526 (Claims Submission) Design Sprint & Readout
 
 # PI3: Oct 25 - Dec 6
-- [526 (Claims Submission) MVP requirements, epics, stories, roadmap](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/4042) *(so meta)*
-- [526 (Claims Submission) MVP Solution Design / Prototype](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/5404)
-- [526 (Claims Submission) Technical discovery and documentation](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/4041)
-- [526 (Claims SUbmission) Usability testing and readout](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/5728)
+- 526 (Claims Submission) MVP requirements, epics, stories, roadmap
+- 526 (Claims Submission) MVP Solution Design / Prototype
+- 526 (Claims Submission) Technical discovery and documentation
+- 526 (Claims SUbmission) Usability testing and readout
 
 # PI4: Dec 7 - Jan ?
 Epics tbd
