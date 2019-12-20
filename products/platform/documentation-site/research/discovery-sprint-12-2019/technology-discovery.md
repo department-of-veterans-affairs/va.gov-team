@@ -31,6 +31,23 @@ Methodology: After looking at all of the potential features we'd like to have, I
    * COMING SOON
  * Cons
    * COMING SOON
+   
+### [Slab](http://slab.com/)
+ * Pros
+   * Search multiple repos
+   * Homepage
+   * Pulls `.md` files from GitHub, and creates posts for those files
+   * Shows who made last change and when
+   * Has content type/label
+   * Has search with filters
+   * Has home page with content from multiple repos
+   * Has navigation
+   * Has Link to Edit Page
+   * Has Post history
+   * Has comments/questions
+   * Has publicly shareable post links
+ * Cons
+   * Price (~$24k per year for 300 people)
 
 ### [GitBook](https://www.gitbook.com/)
  * Pros
