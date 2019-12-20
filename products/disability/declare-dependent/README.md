@@ -3,7 +3,7 @@
 - GitHub Label: 686 Dependent
 - Slack channel: 686_Dependent
 - Va.gov link: https://staging.va.gov/disability-benefits/apply/dependents/introduction
-- API Calls: [686 Backend Documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/api%20calls.md)
+- API Calls: [686 Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/api-calls.md)
 - Misc Keyword: 686, 686c, Add a dependent
 
 ---
@@ -104,7 +104,7 @@ As of April 2019, form lives on VA.gov. The front end and back end are not curre
  - usability tested
  
 #### Backlog:
-For a look at the remaining work associated with this project, checkout the `686 Dependent` label on github [here](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3A%22686+Dependent%22). Some remaining items to call out:
+Some remaining items to call out:
  - Migration to VA.gov
  - Integrating FE & BE
  - Confirm and test connection to EVSS endpoint
@@ -112,23 +112,21 @@ For a look at the remaining work associated with this project, checkout the `686
  
 #### How to Access
 1. Link - https://staging.va.gov/disability-benefits/apply/dependents/introduction
-2. Sign in with one of the test users below (must have a 30% diasbility rating or higher)
-- **Username 1**: vets.gov.user+1@gmail.com
-- **Username 2**: vets.gov.user+228@gmail.com
-- **Password for both**: Zm9ydHkgdHdv
+2. Sign in with a [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv) below (must have a 30% diasbility rating or higher)
+
 
 ## Team
 
 - **VA POC**: N/A
-- **DSVA POC** `*`: Andrea Schneider [Andrea.Schneider@va.gov](mailto:Andrea.Schneider@va.gov)
-- **Product Manager** `*`: Ryan Luu [ryan.luu@adhocteam.us](mailto:ryan.luu@adhocteam.us)
-- **Design Lead**: Emily Waggoner [emily@adhocteam.us](mailto:emily@adhocteam.us)
-- **Content Writer(s)**: Peggy Gannon [peggy@thesocompany.com](mailto:peggy@thesocompany.com)
+- **DSVA POC** `*`: Andrea Schneider 
+- **Product Manager** `*`: Ryan Luu 
+- **Design Lead**: Emily Waggoner 
+- **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
-  - Erik Hansen [erik@adhocteam.us](mailto:erik@adhocteam.us)
+  - Erik Hansen 
 - **Back-end Engineer(s)**:
-  - Lihan Li [lihan@adhocteam.us](mailto:lihan@adhocteam.us)
-  - Johnny Holton [johnny@oddball.io](mailto:johnny@oddball.io)
+  - Lihan Li 
+  - Johnny Holton 
 
 `*` = approval required for launch
 
