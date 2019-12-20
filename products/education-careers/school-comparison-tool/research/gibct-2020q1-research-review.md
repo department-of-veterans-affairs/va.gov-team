@@ -49,7 +49,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
 * DEPO has performed some work towards redesigning the Search Results Caution Flags, which we will leverage for our work. This hasn't happened for the Profile Page, so we will be initiating redesigning Caution Flags there. 
 * Received input from DEPO for ongoing work with Caution Flags, including an example of a potential CT school card design. (12/18/19)
 * During usability testing for 107 UI, user demonstrated interest in Cautionary Information accordion  
-    * User scrolled down the profile page and paused at Cautionary Information. "Cautionary information. That’s cool." 
+    * User scrolled down the profile page and paused at Cautionary Information. "Cautionary information. That’s cool." (P6, 07/19)
 
 
 ## Yellow Ribbon
