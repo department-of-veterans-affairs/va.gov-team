@@ -1,14 +1,12 @@
 **Session Report**
 
-Project: [Disability Compensation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability)
+Project: [Disability Compensation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability)
 
-[Research Goals & Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098)
-
-[Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/conversation-guide.md)
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/conversation-guide.md)
 
 p1, 1/16/18 12:30
 
-[Verbatim Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/Notes/20180116-Tonya-P1.md)
+[Verbatim Notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/notes/20180116-tonya-p1.md)
 
 Prepared By: Mike, Rachael, Melissa
 
@@ -20,7 +18,7 @@ Describe the participant in a few sentences, including their role within the sys
 
 List summary Info here. 3 to 4 bullet points
 
-## From [Research Goals](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098)
+## From Research Goals
 
 1. **Are users able to successfully self-select onto the correct path (claim for increase)?**
    1. very quick, successful.
@@ -90,7 +88,7 @@ Prove It
 * Quotes
   * (Melissa) find the quote you referred to about feeling supported up to a point
 * Conversation Guide
-  * Added [these changes](https://github.com/department-of-veterans-affairs/vets.gov-team/commit/cb58b8ae4cf7db1ff8f86abc594a3bff53e723eb#diff-113755a6f4718534805c26192e08fdd5) to the [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/conversation-guide.md)
+  * Added changes to the [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/conversation-guide.md)
 * Moderation
   1. *don't worry about being pushy about asking participants to think out loud*
   2. *Emotions check? - feel free to ask explicitly*
