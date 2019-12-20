@@ -18,23 +18,23 @@ The following outline is a set of resources for applying accepted QA techniques 
 ## How-tos
 
 ### How/where to get help
-- [How to request manual QA services](request-manual-qa.md)
+- [How to request manual QA services](manual-testing/request-manual-qa.md)
 - [How to coordinate your own QA efforts](how-to-coordinate-qa.md)
 - [How to create an issue for your project](create-an-issue.md)
 - [How to request help](help.md)
 
 ### How to plan for and create manual test cases
 
-- [How to create robust manual test cases](manual-functional-testing.md)
+- [How to create robust manual test cases](manual-testing/manual-functional-testing.md)
 
 ### How to include end to end (E2E) testing as part of your QA practice
-- [How to get up to speed with end to end testing](end-to-end-testing.md)
-- [How to explore detailed information on end to end testing](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test)
+- [How to get up to speed with end to end testing](e2e-testing/README.md)
+- [How to begin creating end to end tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test)
 
 ### How to include load testing as part of your QA practice
 - [Load testing documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
-- [How to use authenticated sessions for your load test](auth-session-loadtest.md)
-- [How to request load testing services](request-load-testing.md)
+- [How to use authenticated sessions for your load test](load-testing/auth-session-loadtest.md)
+- [How to request load testing services](load-testing/request-load-testing.md)
 
 ## QA Mission
 - [QA's value proposition](qa-value-proposition.md)
@@ -43,3 +43,4 @@ The following outline is a set of resources for applying accepted QA techniques 
 - [Thinking about QA for your project](qa-questions.md)
 - [The goals for QA](qa-goals.md)
 - [Future of QA](beyond-basic-qa.md)
+- [Best practices](qa-best-practices.md)

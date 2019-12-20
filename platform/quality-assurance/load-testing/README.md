@@ -7,8 +7,9 @@ Each VFS team is expected to create or modify load tests appropriately as they w
 - If you are creating a new product you should create and execute load tests once your product is ready to be deployed to staging.
 
 ## Reference materials
-- [Getting started with load testing](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
-- Examples:
+- [Locust Docs](https://docs.locust.io/en/stable/)
+- [Getting started with load testing on VSP](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
+- **Examples**:
   - [Search](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest/search)
   - [Appeals](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest/appealsv2) -- please note that this example required [authenticated sessions](auth-session-loadtest.md)
 
