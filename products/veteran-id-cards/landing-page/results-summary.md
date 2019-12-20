@@ -21,7 +21,7 @@ The research sessions took place Wednesday, August 15-Friday, August 17.
 ### What We Did
 We conducted moderated, remote usability sessions where participants viewed a live protype of the Veteran ID Card landing page, [which can be seen here](https://vetsgov-pr-8159.herokuapp.com/ID-card-types/). The participants were asked to read through the content of the page and answer questions about their interpretation of the content, what actions it would prompt them to take, if any, and how they felt about it.
 
-[The conversation guide can be found here.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/Landing%20Page%20-%20Aug%202018/research/conversation_guide.md)
+[The conversation guide can be found here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/landing-page/conversation-guide.md)
 
 # Results & Takeaways
 
