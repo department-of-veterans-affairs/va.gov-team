@@ -1,9 +1,9 @@
 # Technologies
 
 ## Test Case Management
-- No technology is provided by the platform.  Each team is free to use whatever test case management technique suits their team best.
+- [TestRail](testrail/README.md) is available for all VFS teams.
 ## Test Execution Management
-- No technology is provided by the platform.  Each team is free to use whatever test case execution logging technique suits their team best.
+- [TestRail](testrail/README.md) is available for all VFS teams.
 ## Automated E2E Testing
 - The front-end is currently configured to use Nightwatch.  You can read up on how to get started [here](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test/).
 - TestCafe is being evaluated for use in the future.  You can read about progress [here](https://github.com/department-of-veterans-affairs/vets-website/pull/10300).
