@@ -1,4 +1,4 @@
-## Bill's Recommendation: [Slab](https://slab.com/)
+## Consensus Recommendation: Algolia + Custom Landing Page
 
 ---
 
@@ -6,21 +6,34 @@
 *Why did we decide to start researching the tools that we did? (like what we learned from Gatsby owner and 18F people about tooling options)*
 - When one of the authors of our Gatsby implementation was asked what he would do differently, he said he would go with an off the shelf solution because it would be supported by the company that offers the service; not an internal engineer(s). A custom solution requires maintenance, is at risk of not being prioritized above other work, and requires an engineer to publish changes.
 - Recommendations from peers
-- Recommendations from conference a talk
+- Recommendations from conference talk/slides
 
 *What were we initially looking for in those features when we started researching?*
 - Search
 - Single Source of Truth
 - Link to edit page
+- Syncs with GitHub
+- History
+- Content content type/label
+- Table of contents/navigation
 - Ability to favorite a page
+- Ability to comment/ask questions
+- Publicly accessible (don't always need to login)
+- Insights
+- Is accessible on VA Network
 
 *What did we learn that helped us further narrow our research?*
 * Multi-repo search was a deal-breaker.
+* File history was a deal-breaker*
+* Navigation/Table of Contents is a deal-breaker
 * Most, but not all, of survey respondents are comfortable using Markdown
+* Our recommendation should not hinge on price, and/or accessibility on the VA network. While that may factor in the decision, that is not our decision to make. 
 
 ---
 
 # Technical Discovery Notes
+
+## Bill's Initial Recommendation: [Slab](https://slab.com/)
 
 **TLDR**: The author of our existing custom solution said he would go with an off the shelf solution, Slab seems to addresses all of our pain points out of the box, and Slab's core competency is building documentation software, whereas building documentation software is not one of our core competencies. 
 
