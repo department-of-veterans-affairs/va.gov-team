@@ -1,4 +1,4 @@
-# Vets.gov Cross-Platform Testing Plan
+# VA.GOV Cross-Platform Testing Plan
 
 ## Tools
 

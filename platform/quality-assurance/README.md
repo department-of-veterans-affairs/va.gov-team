@@ -9,38 +9,21 @@ The Quality Assurance practice area points of contact are:
 - [Peter Hill], @Peter Hill on Slack
 - [Andrea Hewitt], @AndreaHewitt on Slack
 
-## QA expectations for VFS teams
-The following outline is a set of resources for applying accepted QA techniques on VA.gov.  If you need help with anything, please post your questions or comments to the Slack channel listed above or directly contact the listed POCs via Slack.
-- [Process for designing and executing a QA test plan](process.md)
-- [Technologies used for creating and executing all aspects of a QA test plan](technologies.md)
-- [Deliverables at the completion of test activities](deliverables.md)
+# Table of Contents
+1. QA Fundamentals
+    - [**Process** for designing and executing a QA test plan](process.md)
+    - [**Coordinate** QA on VSP](how-to-coordinate-qa.md)
+    - [**Technologies** used for creating and executing all aspects of a QA test plan](technologies.md)
+    - [**Artifacts** you should have at the completion of test activities](qa-artifacts.md)
+    - [**Cross platform** test planning on VSP](cross-platform-testing-plan.md)
+    - [**Physical** device resources](physical-device-resources.md)
+    - [**Sign-in** and Identity on VSP](sign-in-and-identity.md)
+    - [**Record** test incidents](record-test-incident.md)
+    - [**Help**](help.md)
 
-## How-tos
-
-### How/where to get help
-- [How to request manual QA services](manual-testing/request-manual-qa.md)
-- [How to coordinate your own QA efforts](how-to-coordinate-qa.md)
-- [How to create an issue for your project](create-an-issue.md)
-- [How to request help](help.md)
-
-### How to plan for and create manual test cases
-
-- [How to create robust manual test cases](manual-testing/manual-functional-testing.md)
-
-### How to include end to end (E2E) testing as part of your QA practice
-- [How to get up to speed with end to end testing](e2e-testing/README.md)
-- [How to begin creating end to end tests](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-end-to-end-test)
-
-### How to include load testing as part of your QA practice
-- [Load testing documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
-- [How to use authenticated sessions for your load test](load-testing/auth-session-loadtest.md)
-- [How to request load testing services](load-testing/request-load-testing.md)
-
-## QA Mission
-- [QA's value proposition](qa-value-proposition.md)
-- [Useful tools to help accomplish the mission](qa-tools.md)
-- [Measuring QA success](qa-success.md)
-- [Thinking about QA for your project](qa-questions.md)
-- [The goals for QA](qa-goals.md)
-- [Future of QA](beyond-basic-qa.md)
-- [Best practices](qa-best-practices.md)
+1. [**VSP Quality Assurance Philosophy**](philosophy/README.md)
+1. [**Manual testing**](manual-testing/README.md)
+1. [**TestRail**](testrail/README.md)
+1. [**End-to-end Testing**](e2e-testing/README.md)
+1. [**Load testing**](load-testing/README.md)
+1. [**Unit testing**](unit-testing/README.md)

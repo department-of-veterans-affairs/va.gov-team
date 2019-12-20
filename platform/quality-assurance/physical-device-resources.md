@@ -1,3 +1,5 @@
+# *This device list is outdated and needs to be updated with new information from the analytics team as well as team members with given devices.*  
+
 # Device testing for VA.gov
 Informal survey of devices that we have access to for testing or troubleshooting purposes
 

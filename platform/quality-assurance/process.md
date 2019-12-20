@@ -40,18 +40,17 @@
 1. Execute tests
     1. Execute tests on your feature branch as you build your user story locally
     1. Record test results
-    1. [Track issues](create-an-issue.md)
+    1. [Record test incidents](record-test-incident.md)
     1. Iterate on the story
     1. Goto 1
 1. Report results at the end of development
     - Submit results to the VSP Product Support Team by creating a review ticket
-    - For a detailed explanation of expected deliverables see the [deliverables](deliverables.md) documentation.  An overview is listed below --
-        1. [Test plan](https://drive.google.com/open?id=1wIopTHMqKmRhhl92H5CogKQP4iYmjZjR)
-        1. [Test cases](https://drive.google.com/open?id=1Tkim8srrMdDMztG0Du_yZ60DYgVOJPLk)
-        1. [Test case execution logs](https://drive.google.com/open?id=1HXW2b__NByMugChsDlOYkedFIUUoJSFh)
-        1. [Requirements traceability matrix](https://drive.google.com/open?id=1afaLagcGBha1lC9at6IUA7j0Ut9fhF-g)
-        1. [List of issues](https://github.com/department-of-veterans-affairs/vets-website/labels/bug)
-            - If applicable provide resolved issues
-            - If applicable provide unresolved issues
+    - For a detailed explanation of expected deliverables see the [QA artifacts](qa-artifacts.md) documentation.  An overview with examples is listed below --
+        1. [Test plan](https://dsvavsp.testrail.io/index.php?/plans/view/30)
+        1. [Test cases](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc)
+        1. [Test case execution logs](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc)
+        1. [Reference test coverage report](https://dsvavsp.testrail.io/index.php?/reports/view/12)
+        1. [Summary of defects report](https://dsvavsp.testrail.io/index.php?/reports/view/14)
+            - If applicable delineate between resolved and unresolved issues
 
 [qaprocess]: images/qa-process-flow.png
