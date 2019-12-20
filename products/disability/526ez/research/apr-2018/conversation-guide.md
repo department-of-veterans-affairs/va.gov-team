@@ -1,22 +1,22 @@
 # Conversation Guide - Claims for Increase MVP
 
-for [Mock Data](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/10039) and [Live Data](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/10041) rounds, Summer 2018
+for Mock Data and Live Data rounds, Summer 2018
 
 [Design prototype](https://adhoc.invisionapp.com/share/9MFXXQTUGDK) (for reference only, will run a build from Mark's computer for the session)
 
-[Review instance](http://e5dc56c3c6e50404e36a2e4744bc5f6b.review.vetsgov-internal/disability-benefits/526/apply-for-increase/) (requires [socks proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configuring-the-socks-proxy))
+[Review instance](http://e5dc56c3c6e50404e36a2e4744bc5f6b.review.vetsgov-internal/disability-benefits/526/apply-for-increase/) (requires [socks proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md))
 
 ## Also see
 
-1. [Value proposition and project goals](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability#value-proposition) (from problem statement)
-2. [Kickoff document](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/april-2018/Research%20Kickoff%20Document%20-%20Live%20Data.md)
+1. [Value proposition and project goals](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability) (from problem statement)
+2. [Kickoff document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/apr-2018/research-kickoff-document-live-data.md)
 3. [Session Report Template]
 
 
 ## Research Goals
 
 1. Find any major issues (usability or bugs) with the Claims for Increase flow before we release it
-2. Revisit fixes to [issues from last round](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/Prototype%20Usability%20Research%20Readout.pdf)
+2. Revisit fixes to [issues from last round](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/prototype-usability-research-readout.pdf)
    1. ~~Users wanted to log in before starting, which would be an unnecessary burden if they are redirected to eBenefits for a not-yet-supported claim action~~ (didn't seem to address this since we're directing people to log in first)
    2. Users weren't sure where to start to update an existing claim
    3. Reactions to Inline help / expectations about what happens next if people indicate yes to any of the personal flash questions
@@ -108,7 +108,7 @@ Imagine you’ve been feeling like the condition you’re rated for has become m
 
 ### Steps
 
-- [Sign In] - vets.gov.user+205@gmail.com / Zm9ydHkgdHdv or [other test users](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_users_s1a.csv)
+- [Sign In] - [test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
   - Why do you think you're being propmted to sign in?
   - Do you have any concerns at this stage?
 - [Apply page / subway map]
@@ -121,9 +121,9 @@ Imagine you’ve been feeling like the condition you’re rated for has become m
 - [Contact Details]
   - What would you do if you were moving soon?
 - [Service History]
-  - *can skip over it since we covered this in [VR&E January 2018 research](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research)*
+  - *can skip over it since we covered this in [VR&E January 2018 research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab/research/jan-2018)*
 - [Payment method]
-  - *can skip over it since we found it to be mostly successful [last round](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/)*
+  - *can skip over it since we found it to be mostly successful [last round](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jan-2018)*
 
 ### Things to watch for:
 
@@ -166,7 +166,7 @@ Suppose that you had these conditions and in your recent doctor's visit, your do
   - Any concerns about it?
   - How would you answer?
 - [Review Application] - add /confirmation to the URL to get past it
-  - can skip over it since we found it to be mostly successful [last round](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/)
+  - can skip over it since we found it to be mostly successful [last round](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jan-2018)
 - [Claim Received]
   - What are your thoughts on the process?
     - How did it match up with your expectations? 
