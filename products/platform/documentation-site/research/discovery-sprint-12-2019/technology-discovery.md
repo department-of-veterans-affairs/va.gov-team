@@ -1,5 +1,18 @@
 ## Bill's Recommendation: [Slab](https://slab.com/)
 
+---
+
+### Background
+*Why did we decide to start researching the tools that we did? (like what we learned from Gatsby owner and 18F people about tooling options)*
+
+*What were we initially looking for in those features when we started researching?*
+
+*What did we learn that helped us further narrow our research?*
+
+---
+
+# Technical Discovery Notes
+
 **TLDR**: The author of our existing custom solution said he would go with an off the shelf solution, Slab seems to addresses all of our pain points out of the box, and Slab's core competency is building documentation software, whereas building documentation software is not one of our core competencies. 
 
 **Justification of Slab's high price tag**: Dev time is expensive, and can quickly match/exceed Slab's price.
