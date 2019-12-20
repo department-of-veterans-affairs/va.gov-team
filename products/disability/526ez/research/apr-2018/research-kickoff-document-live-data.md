@@ -1,6 +1,6 @@
 # Research Kickoff Document
 
-For [526 Claims for Increase MVP Live Data UAT](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/10041)
+For 526 Claims for Increase MVP Live Data UAT
 
 **Directions:** UX lead seeking research should fill out this template and schedule a meeting with the PM, researcher, and recruiter to discuss. All parties must assent to this information before recruitment can begin.
 
