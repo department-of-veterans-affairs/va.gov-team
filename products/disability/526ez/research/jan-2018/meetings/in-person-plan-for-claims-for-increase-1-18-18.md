@@ -23,5 +23,5 @@
 
     8. Using the web link, you can go forward and back with a swipe (browser back button doesn’t work). Also, you can't see the grid of all screens
     
-5. Conversation guide: feel free to adapt from the [conversation guide for remote sessions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/conversation-guide.md)
+5. Conversation guide: feel free to adapt from the [conversation guide for remote sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/conversation-guide.md)
 
