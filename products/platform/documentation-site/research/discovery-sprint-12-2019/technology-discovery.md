@@ -4,10 +4,19 @@
 
 ### Background
 *Why did we decide to start researching the tools that we did? (like what we learned from Gatsby owner and 18F people about tooling options)*
+- When one of the authors of our Gatsby implementation was asked what he would do differently, he said he would go with an off the shelf solution because it would be supported by the company that offers the service; not an internal engineer(s). A custom solution requires maintenance, is at risk of not being prioritized above other work, and requires an engineer to publish changes.
+- Recommendations from peers
+- Recommendations from conference a talk
 
 *What were we initially looking for in those features when we started researching?*
+- Search
+- Single Source of Truth
+- Link to edit page
+- Ability to favorite a page
 
 *What did we learn that helped us further narrow our research?*
+* Multi-repo search was a deal-breaker.
+* Most, but not all, of survey respondents are comfortable using Markdown
 
 ---
 
