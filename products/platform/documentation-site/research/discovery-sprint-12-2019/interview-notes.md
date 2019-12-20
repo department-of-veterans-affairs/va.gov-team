@@ -88,25 +88,76 @@ JB: Someonoe made changes that weren't supported on the versino of Node that we 
 
 ### Notes: 
 
-#### You meantioned that you've been involved in managing documentation at the National Library of Medicine. Can you explain more about that? 
+#### You mentioned that you've been involved in managing documentation at the National Library of Medicine. Can you explain more about that? 
+- Sure, so my bg, i have a diff bg from most of the ppl working at va. im at training a chemist, a chemistry major that decided not to become a chemist, so I'm a medical librarian by training. a reference librarian and a lot of online information, finding articles, books, websites all that kind of self. I started at nlom as an intern and came back a federal employee. we alos did a lot of hleping ppl find info online, some thing online was...after 3 years, i became in charge of the web team, 100 web editors, we were the oversight board for it. all the published websites have gone through our team, i also was heavily involved with search implementation. so i didn't do all of that but also used it a lot as a professional. we had doc for customer relationship management software, contact a form on steroids and because the NLOM hosts the main database for biomedical liteture in the world there was info on how to use that. librarians general in profession ahve a lot of shared rules and approaches on how we do things as a professional. system of how to do thing with catalog entries. standards and that kind of thing. concrete example we had a really robust wiki, had a design pattern library, doc on how to edit pages, pieces of designs on how you can implement this little piece on the wbesite, doc on how to use a wiki, we used that as a core of doc in a lot of ways. we also had doc on super boarding, we had a massive system called citing medicine in the public, written in xml talking of how to cite and trace in medicine. how do i cite a journal article how do i cite research proceedings. we also had, really old things you were searched a lot. cataloguing and publication. beginning of a card catalog entry in the book. there was this big thing that we would search, it was a doc system back in the day, had page after page after page. designed i did doc 10 years ago...other thing was we also had doc online as users of our systems. there's all these different lexicons in medicine, so there was another product figured out how to make our website, let them put docs online that users would use. trying to look for a good example of this...medical system will have different elements..examples of how to use, there's that. that's the best summary i can give at the top of my head
 
 #### What information did the documentation provide? 
 
+
 #### What tools and processes have you found effective in the past? 
+- so for a not huge group of ppl a few hundred, my favorite was the wiki, most flexible most modern, let us comment, suggest changes, be flexible, we were using it mostly for things that had flexibility to them. interpretation to them. we found it failed in areas where this is the rule and this how we're not changing it. policies that were formal we kept to the intranet, we lost our authority somehow with the wiki. it's really strange pyschologolligcally what we experienced. if there was something that was a rule rule, we put it in a more formal place. another thing we loved about it is that you can collaboratively edit it. it worked well when we tried to create information, write it up in the wiki, make tweaks, make it easier to understand. me as the boss, of a small web team. yup im gonna make a couple of other tinkers and it would be complete-ish till the next time. the idea was we would make ...questions, comments, and tips, maybe blog comments at the bottom or something? we could answer and maybe delete it. we were a small team so it was easy for us to have a governance process among a 5 person team. in a wiki, each area was responsible for its own thing. for example, if someone wanted to do doc for their team. now far as super formal doc, it would go through more formal clearances, not like va, but email clearances or views or something like tht. email or perhaps a sharepoint sign off. this person had a sign off, and this person, but we didn;t have 15 ppl just like 3. short answer is how much weight you want this to have, vs. ppl trying to find it useful
+
+- in terms of that wiki that was confluence for the wiki?
+we used confluence for the wiki...the bug tracking for j...jira. we used jira and confluence at my old agency and associated tools with atlassian
 
 #### What tools and processes have you found ineffective in the past? 
+- here i find many of the clearance tools ineffective but thats va. i would say a flip side of having to agree on things, is that it takes forever to get updated. it'll take forever for the standard to exist, to use it nationwide and worldwide, certainly as a profession that's a challenge. certain kinds of docs can be updated. annually, vocabs had to be updated. at least back then you would update certain vocab annually, freeze this for a while go to the next thing. the other thing i would say if we wanted them to take it seriously we had to take it out of the wiki, we had pretty modern ppl working there compared to ppl i work with. they think a static webpage is more official than a wiki. idk if that's pyschologically proved today but it was then. 
 
-#### What processes did you use to set standards across different teams who were contributing to the documentation?
+#### We have talked a lot about culture and how that plays into a doc system. What processes did you use to set standards across different teams who were contributing to the documentation?
+- maybe, possibly. i think we had an advantage where i was. ppl we worked most often were librarians. we all had a shared professional grounding/outlook. We're trying to build...i must confess i took your user testing thing you had, and it got me thinking about it. you're trying to make systems that make sense to a designer, engineer, developer, we didn't have a challenge with tht because we have a shared professional grounding. ims aying that we have ppl working at va as people from a ton of mental models. we found that they all don't hear va, might not have the same context same flavor as ppl here. a hournalist if a very diff person than a librarian 
+
+-you don't go into that if we kind of don't a repeatable way 
 
 #### How did you ensure that the information stayed up to date? 
+- in federal govnt, you put it in their swim lane, other way we did it, we have an update date, and a shared agreement that this must be reviewed every year and there would be a person named in metadata of who owned it, person gets an email, this is overdue for review because it's been over a year since that person has been updated. on the flipside, sometimes if they didn't find them annoying enough. it's been more in this timeframe, i want to find someone to do it. Other thing is that we tied them to releases, part of the release process was reviewing the documentation, if it got tied to that, part of that upgrade process was reviewing content management system.
+
+- the weakness we had a only one policy, annual review, when you think more thoroughly was prob every 3 months or if a link breaks 
 
 #### Did you maintain a culture that valued documentation? If so, how? If not, what do you think prevented that?
+- the way i try to do that is starting with certain things. it's worth writing down things were all gonna do so we can write consistently, if we get different answers to the field and to our colleagues we need to write things down. that one's been pretty agreed to, that one we make a good argument for. another thing writing this down, we need to rehash, or relitigiate something every 6 months, that's less convincing to some of my colleagues, they think it's too hard to go find the consistent answer, higher up the org chart i go, the other flipside people i work with, if we write it down we're never going to rethink it in a day or 2 that's the challenge, for me i have to write things out to come up with the energy for the same answer 15 times it's stupid in my opinion. we have to be consistent, and that's resignated with colleagues. the other thing i will say is..it's been my experience working with digital services, your stakeholder business partners have experienced the rehashing issue again and again. sometimes its for good reason, we got a whole new thing and user feedback, sometimes it feels as if, new ppl don't know what we've already talked about which is exhausting
 
 #### What do you think VSP, the platform team, can learn from this example? 
+- i think the last question didn't make sense, the last 2 questions said to ...how do i answer a comment, i saw nothing in that image that corresponded to that task. i think thats right at least, something about the comment, it was code, you were testing the wyswig or the markdown, maybe thats how you answer a comment, but it didnt make sense to me whatsoever.
+
+-oh the biggest ? i had was your homepage of the documentation, was it different entry points, was it different models of the content, think of content as coordinates and coordinates. does your document has multiple metadata in it, or can i find it the way it's about? 
+
+-the answer is currently, our docs is just everywhere and everything, there is tech doc in gh repositiories for the code for that app. there's tech and non tech in a shared repository. there design system. there's no standard for how it is, there's no tooling standard, so when we show that homepage and the last question on the surbey we showed you a homepage where all docs are presented/accessed from 1 homepage, does that help you find what you need, do you think of it a a doc bucket or does it hurt find what you need.
+
+- Right but i guess what my thing is having a multifilter thing, why can't docs be engineering docs, and locator documentation, and authored by joe, that it can be sliced or diced in certain ways depending on how you label it
+
+- what have you described would be great and amazing, we don't disagree that would be the ideal to have everything in one place with standard metadata on certain filters, but we are not sure whether it's...
+
+- realistic
+
+- well technically impossible.
+
+- anything is possible. we valued metadata and metadata matters. we're probably a community menable for documentation than most humans. you had a bit of a step up from us. you know gerneally the problem we're examining
+
+- what do you think we can learn
+
+- ability to enter tags, and tags are consitsent with documentation so you can make sense of it. anything super authorative, lock it down, if it's flexible make people engage you dont want people using engineer, engineering, engineers, it'll probably use same thing, terms.another thing is dont worry about coming up with rules right now, get tags and see how people would fix it in a year, a lot of ways we came up with health taxonomy, open text copy stuff, and then backward engineering it to something more formalized. you don't want to make your rules so strict that no one can learn or use them. don't become old fashioned librarians, we had binders and binders. that's way tooo far away. 
 
 #### If you had the chance to create that ecosystem again, what would you do differently?
+- i would do more user testing than i did, we kinda built things and did stuff, no verification. that's the biggest mistake. verifying what you create, we would get feedback about whether you're working it. i wish we had done a bit more of that. community as a whole, profession, we take took too long to come up with things. we're looking for a agreement from everyone. sometimes 95% SOLUTION is good enough, what's the impact if you mess it up, the impact with medical information is a much higher risk. we did measure the usage of our documetnation and see what to work on, i prob wish we had groups, and focused ob launching it with us. it would help to talk to the slow adopters 
+
+- sometimes i dont think we're as nimble as you think we are
 
 #### If you had to choose 3 things that you think were critical to your success, what would you say those were?
+- choosing a system that most ppl could use, we could tell that most ppl could use it was a success
+- i shared valueing of docs as itself, futility and life, critical to our success. 
+- flexibility and growth over time. we took feedback and changed based on feedback, we did change and evolve overtime
+
+#### this is great and what we're trying to do, that's really helpful, that's the end of my list of questions, if there are other things you wanna ask? 
+
+- the other things i would add if yall have a really a shared onboarding experience for your contractors that's different would be helpful
+
+- onboarding experience for new business stakeholders, hey you're now working with DEPO, here are the things we hope you understnd aobut us and how we work and we can work effectively. 
+
+- that would be very helpful. part of what we wanna do is identify what docs are missing
+
+- when I have someone new working on my team, it'd be nice if there's a primer they can see. instead of me being the interpreter of who you all are. 
+
+- you all have changed from the years.
 
 # Interview 6
 - Date: 12/17/19
