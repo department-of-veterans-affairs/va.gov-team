@@ -72,6 +72,10 @@ http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&ful
 ### External Service SLOs for request times (per service)
 Pre defined benchmarking for external service request times will need to be specified in order to assess http request timing metrics. The devops repo may have some insight in relation to external service request timing SLOs.
 
+SLOs are currently undefined for external service request times. It was decided that the best approach/ in addition to SLO creation may be to expose current request time averages per external service and endpoint. (A new grafana chart is currently under construction to expose RT averages).
+
+Request Time percentile information will be a useful metric to report on as well. Ex: 90% of request times are below 300ms with 10% being above 300ms 
+
 #### Services
 * Appeals
 * Central Mail
