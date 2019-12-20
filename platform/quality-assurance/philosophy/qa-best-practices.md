@@ -1,18 +1,8 @@
 # Testing
-
-
 ### 1. Test locally (and in review instances) as you build forms (and other functionality).
 
-* Write [Unit Tests](unit-testing.md) to test form (or other) functionality.
-* Write [End-to-End Tests](end-to-end-testing.md) to test how a form (or other) functionality interacts with other services, e.g., a data source.
-
-
-<!--### 2. Create a Pull Request and request a Code Review
-
-* When you push a branch, automated tests will run to test the following
-  * Accessibility/508 Compliance
-  * Others - TODO - Melissa/James to fill in here.
--->
+* Write [Unit Tests](../unit-testing/README.md) to test form (or other) functionality.
+* Write [End-to-End Tests](e2e-testing/README.md) to test how a form (or other) functionality interacts with other services, e.g., a data source.
 
 ### 2. Test your code after its been merged to master and is on staging
 

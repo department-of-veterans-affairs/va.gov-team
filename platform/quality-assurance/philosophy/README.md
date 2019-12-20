@@ -8,4 +8,5 @@ In this folder, you'll find information about the guiding principals for quality
 1. [Success](qa-success.md)
 1. [Tools](qa-tools.md)
 1. [Value proposition](qa-value-proposition.md)
-
+1. [Assumptions](assumptions.md)
+1. [Going Beyond the Basics](qa-beyond-the-basics.md)
