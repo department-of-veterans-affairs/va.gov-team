@@ -189,8 +189,7 @@
   - Review housekeeping for interviews (Megan or Crystabel lead discussion, anyone can ask questions as relevant)
 
 ## Day End Meeting Agenda
-- Assign notetaker for this meeting
+- Assign notetaker for this meeting: Rachael
 - Roundtable of takeaways
+  - 
 - Revisit goal progress for the day
-- Assign out necessary tasks to finish goal for the day
-- Assign out notetakers and interviewers for interviews the next morning, if applicable
