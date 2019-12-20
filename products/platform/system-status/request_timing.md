@@ -25,7 +25,6 @@ Stakeholders:
 * Since SLOs are not currently defined for external services, what other metrics can we use to report a red/green status per service? (Possibly use latency averages?)
 * Do we currently have Sentry or PagerDuty alerts when request time latency goes above a certain threshold?
 
-
 ## Requirements
 
 ### In Scope
@@ -129,8 +128,14 @@ TODO
 * Ex graph: Need to know if an SLO is green or red (Are request times currently meeting our defined benchmarks?)
 * For developers: We could link to a grafana graph
 
-
-
+#### Future/Other:
+* A reporting tool 
+	* 30 day metrics
+	* 1 day metrics — more detailed data if SLO objectives were met or not
+* Persist metrics for a longer amount of time, aggregate the data (currently 14 days?)
+* Possibly report less prometheus metrics (comb through ones that we don’t use)
+* Reporting vets-api metrics (external service request time - total request time)
+* Active Support notifications for request time instrumentation
 
 ## Technical Decisions
 
