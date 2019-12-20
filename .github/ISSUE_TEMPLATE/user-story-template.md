@@ -1,7 +1,7 @@
 ---
 name: User Story Template
 about: This is a generic user story template
-title: User Story Template for va.gov-teams
+title: VSA User Story Template for va.gov-teams
 labels: 'vsa'
 assignees: ''
 
