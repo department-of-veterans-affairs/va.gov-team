@@ -1,7 +1,5 @@
 # VSO Journey Map Output  
 
-DRAFT Current version: [20171020](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/discovery/2017%20VSO%20Discovery/output/journey%20map/20171020.zip)
-
 # VSO Experience Journey Map Content
 This is the content in the journey map. The content is broken down here into sections of the document (top to bottom, left to right):
 * [Document Information](#document-information)
