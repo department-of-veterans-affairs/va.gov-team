@@ -1,10 +1,8 @@
 **Session Report**
 
-Project: [Disability Compensation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability)
+Project: [Disability Compensation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability)
 
-[Research Goals & Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098)
-
-[Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/conversation-guide.md)
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/conversation-guide.md)
 
 p5, 1/19/18, 14:00 Eastern
 
@@ -22,7 +20,7 @@ Describe the participant in a few sentences, including their role within the sys
 
 List summary Info here. 3 to 4 bullet points
 
-## From [Research Goals](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098)
+## From Research Goals
 
 1. **Are users able to successfully self-select onto the correct path (claim for increase)?**
    1. Yes
