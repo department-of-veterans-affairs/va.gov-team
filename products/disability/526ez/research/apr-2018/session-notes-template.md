@@ -43,7 +43,7 @@ Imagine you’ve been feeling like the condition you’re rated for has become m
 
 ### Steps
 
-- [Sign In] - vets.gov.user+205@gmail.com / Zm9ydHkgdHdv or [other test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
+- [Sign In] - [test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
   - Why do you think you're being propmted to sign in?
   - Do you have any concerns at this stage?
 - [Apply page / subway map]
