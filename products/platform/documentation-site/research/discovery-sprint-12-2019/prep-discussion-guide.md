@@ -69,8 +69,30 @@ Transition: Great, thanks for all of that info! Now we're going to switch gears 
 - [If time] Extra questions
 
 ### Jenny H-L
-- Intro
-- Provider questions (above) 
+Thanks for joining us today! My name is [Megan] and I am a [Product Manager] on [the platform's content and information architecture team]. As you may know, we are doing a discovery sprint this week regarding documentation, whether that's in the VA.gov ecosystem or about something else entirely. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go.
+
+Before we start, there are a few things I want to mention: 
+
+This entire session is scheduled for an hour. We don't want to keep you any longer than that, so I may occasionally prompt you with the next question or topic. 
+
+We want to hear your honest opinions, and we welcome your feedback. 
+
+Is it alright with you if I record this call as we talk today? We'll use the recordings to confirm that we captured the conversation accurately, and we'll destroy them after we complete analysis. No comments will be attributed to you directly. 
+
+[If yes, start recording]
+
+Alright, we're recording!
+
+- You meantioned that you've been involved in managing documentation at the National Library of Medicine. Can you explain more about that? 
+- What information did the documentation provide? 
+- What tools and processes have you found effective in the past? 
+- What tools and processes have you found ineffective in the past? 
+- What processes did you use to set standards across different teams who were contributing to the documentation?
+- How did you ensure that the information stayed up to date? 
+- Did you maintain a culture that valued documentation? If so, how? If not, what do you think prevented that?
+- What do you think VSP, the platform team, can learn from this example? 
+- If you had the chance to create that ecosystem again, what would you do differently?
+- If you had to choose 3 things that you think were critical to your success, what would you say those were?
 
 ### Brandon R
 _Product Manager on FE Tools team. Has "worn the hat of documentation guru" at previous companies — provider questions and user questions are both good buckets here (suspect he has a lot of learnings from previous experiences) although those standard question sets should maybe be updated to make for a smoother convo._
