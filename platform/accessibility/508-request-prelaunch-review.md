@@ -19,7 +19,7 @@
 
 ## Step 2: Request an Accessibility/508 review
 
-1. File a [request for a pre-launch 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut&labels=508%2FAccessibility%2C+launch+review%2C+product+support&template=508-review-template.md&title=Request+accessibility%2F508+review+for+ENTER_PRODUCT_NAME). This will generate an issue and then a Zenhub epic will manually be created.
+1. File a [request for a pre-launch 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut&labels=508%2FAccessibility%2C+launch+review%2C+product+support&template=508-pre-launch-review-template.md&title=Request+accessibility%2F508+review+for+ENTER_PRODUCT_NAME). This will generate an issue and then a Zenhub epic will manually be created.
 2. **Within 5 business days**, DSVA will review your code and let you know the results of your review.
    - If you don't hear anything after 5 business days, reach out to your DSVA contact.
 3. _If problems are found,_ DSVA will create a new Zenhub issue for each Accesibility/508 problem found.
