@@ -6,17 +6,10 @@ All requests for work needing to be fulfilled by a Public Websites resource must
 
 1. Create an issue using the standard issue template
 
-3. Include the date redirects need to be implemented by
-
-4. Include background and reason for redirect request
-
-5. Document the current URL and where the URL should be redirected to.  Example:
-
-Current Page/URL  |  Redirect to
----  |  ---
-www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/
+3. Note any special requests (e.g., if request has hard date or urgent issue)
 
 6. Please tag the issue with:
-- Content and IA team labels  - `content-ia-team` and `ia` 
-- Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
-- Assign issue to @mnorthuis, @meganhkelley
+- `vsa-Public-Websites` 
+- Assign issue to @karak888
+- Label used by your team (for example, ```vsa-benefits-memorial```)
+
