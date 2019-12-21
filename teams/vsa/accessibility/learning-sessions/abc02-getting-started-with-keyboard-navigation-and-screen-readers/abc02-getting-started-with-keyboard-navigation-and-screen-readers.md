@@ -32,31 +32,6 @@ Then, we’ll evaluate how these learning sessions are going, to ensure this is 
 
 * [Live demo of keyboard and screen readers](#live-demo-time)
 
-### Resources
-* [WebAIM guide on keyboard navigation](https://webaim.org/techniques/keyboard/)
-
-* [Ally.js - What does "focusable" mean?](https://allyjs.io/what-is-focusable.html)
-
-* [Paciello Group - the tabindex attribute](https://developer.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/)
-
-* [MDN: What is the accessibility API](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility#Accessibility_APIs)
-
-* [Web Fundamentals - the accessibility tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
-
-* [How accessibility trees inform assistive tech](https://hacks.mozilla.org/2019/06/how-accessibility-trees-inform-assistive-tech/)
-
-* [A List Apart - semantics to screen readers](https://alistapart.com/article/semantics-to-screen-readers/)
-
-* [Leonie Watson - Understanding screen reader interaction modes](https://tink.uk/understanding-screen-reader-interaction-modes/)
-
-* [NVDA download](https://www.nvaccess.org/download/)
-
-* [NVDA focus highlight plugin](https://addons.nvda-project.org/addons/focusHighlight.en.html)
-
-* [WebAIM guide to using NVDA](https://webaim.org/articles/nvda/)
-
-* [MacOS VoiceOver guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md)
-
 <blockquote>
   <strong>If you can’t navigate the keyboard,
     you won’t navigate the screen reader either.</strong><br/>
@@ -211,3 +186,28 @@ semantics refers to the meaning of language constructs, as opposed to their form
 * Generic demo, without semantic markup - [Any Corp Scranton - generic](https://codepen.io/tpierce_402/full/JjoWmvY)
 * Semantically marked up demo - [Any Corp Scranton - semantic](https://codepen.io/tpierce_402/full/zYxZmaO)
 * Example of a website that 100% passes an automated compliance check, but is also completely inaccessible - [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
+
+## Resources
+* [WebAIM guide on keyboard navigation](https://webaim.org/techniques/keyboard/)
+
+* [Ally.js - What does "focusable" mean?](https://allyjs.io/what-is-focusable.html)
+
+* [Paciello Group - the tabindex attribute](https://developer.paciellogroup.com/blog/2014/08/using-the-tabindex-attribute/)
+
+* [MDN: What is the accessibility API](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility#Accessibility_APIs)
+
+* [Web Fundamentals - the accessibility tree](https://developers.google.com/web/fundamentals/accessibility/semantics-builtin/the-accessibility-tree)
+
+* [How accessibility trees inform assistive tech](https://hacks.mozilla.org/2019/06/how-accessibility-trees-inform-assistive-tech/)
+
+* [A List Apart - semantics to screen readers](https://alistapart.com/article/semantics-to-screen-readers/)
+
+* [Leonie Watson - Understanding screen reader interaction modes](https://tink.uk/understanding-screen-reader-interaction-modes/)
+
+* [NVDA download](https://www.nvaccess.org/download/)
+
+* [NVDA focus highlight plugin](https://addons.nvda-project.org/addons/focusHighlight.en.html)
+
+* [WebAIM guide to using NVDA](https://webaim.org/articles/nvda/)
+
+* [MacOS VoiceOver guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md)
