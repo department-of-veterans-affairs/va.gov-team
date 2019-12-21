@@ -183,6 +183,8 @@ semantics refers to the meaning of language constructs, as opposed to their form
 ## Live demo time!
 
 ### Live demo URLs
+
+Now, you try! Using VoiceOver or NVDA (links for more info on these screen readers in #resources) and your keyboard, experiment with the generic and semantic demos provided below. The third bullet is an article illuminating why taking the time for manual testing is critically necessary. 
 * Generic demo, without semantic markup - [Any Corp Scranton - generic](https://codepen.io/tpierce_402/full/JjoWmvY)
 * Semantically marked up demo - [Any Corp Scranton - semantic](https://codepen.io/tpierce_402/full/zYxZmaO)
 * Example of a website that 100% passes an automated compliance check, but is also completely inaccessible - [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
