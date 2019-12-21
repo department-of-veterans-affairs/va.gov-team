@@ -125,14 +125,14 @@ Screen readers generally have two interaction models for their virtual cursor:
 * Virtual/browse mode
 * Forms/focus mode
 
-Virtual/browse mode:
+**Virtual/browse mode**:
 * Pressing DOWN ARROW or Ctrl + Opt + RIGHT ARROW moves to the next text element
 * Pressing UP ARROW or Ctrl + Opt + LEFT ARROW moves to the previous text element
 * When users interact with text nodes, they are in virtual/browse mode and the screen reader generally just reads the text
   - If the text is a heading, it will read “Your text here, heading level <N>”
   - There are also shortcuts to move by headings, tables, links, forms
 
-Forms/focus mode:
+**Forms/focus mode**:
 * When users interact with a form element like a text input or checkboxes, Windows screen readers switch to forms/focus mode
 * JAWS announces Forms mode with an audible “click”
 * NVDA announces the input label, and “Focus mode”
