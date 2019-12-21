@@ -31,6 +31,27 @@ https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b523a0892af6
 
 <p>&nbsp;</p>
 
+##### STEM Scholarship 
+3/26: EDU STEM (Rob & Kyle) 
+* 	Year 1 - want to rollover $$ ($25 million per year, 833 scholarships, $30k per person)
+* 	Year 2 - 2500 Scholarships
+* 	Year 3 - 3000 Scholarships  
+
+STEM Discussion.  May 6.  SCO, P1
+* “What constitutes “about to exhaust your benefit?” Depending on the course of study, that would be vital for Veterans to know what constitutes “about to exhaust your benefit”.  
+* SUGGESTS ADDING LINK TO WEAMS to show approved teaching programs.
+ 
+STEM Discussion.  May 7.  SCO, P2
+*  When it says “nearing exhaustion date”, what does “nearing” mean?  (Has to be within 180 days.)
+*  Probably want to define what a post-secondary degree is: first bachelor’s degree, master’s degree – be very specific about it.  This is what we’d have to define.
+*  Also include the definition of STEM.  Include what can be certified under the new scholarship. Does Economics fit? Is there going to be a clear indicator of what is included. They would have to apply and be denied. 
+*  ?? Do we include a list of what is NOT included? Do we include language that says “if it’s not on this list, it’s not going to be approved.”?
+*  There will be a lot of confusion around the Teaching Certificate question.  A lot of students won’t understand if their teaching certificate will be covered. 
+
+STEM Discussion.  May 7.  SCO, P3
+*  Need a better definition of what’s considered a STEM program. 
+
+
 
 
 ## Caution Flag (SRP & Profile Page)
