@@ -171,7 +171,7 @@ semantics refers to the meaning of language constructs, as opposed to their form
 * Good HTML should look like a term paper outline
 * My favorite example is a heading. It can be marked up two ways:
   - `<h1>This is the purpose of the page</h1>`  versus…
-  - `<span class=“va-heading-one”>This is the purpose of the page</span>`
+  - `<span class=“va-heading-one”>This is the purpose of the page</span>`<br/>
   These can look identical, but their meaning is very different
   - Sighted users see a “heading”. It’s the top of the visual hierarchy.
   - Screen reader users hear:
