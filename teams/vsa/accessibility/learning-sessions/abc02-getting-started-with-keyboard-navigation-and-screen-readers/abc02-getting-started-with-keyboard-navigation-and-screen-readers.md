@@ -52,12 +52,12 @@ Then, we’ll evaluate how these learning sessions are going, to ensure this is 
 Keyboard navigation should be the first thing we test manually. It can be abstracted (somewhat) with automated tests, but ultimately we are responsible for finding the edges and the corners.
 </blockquote>
 
+## Keyboard Navigation
+
 <blockquote>
   <strong>&ldquo;If I have to fill out your form with a mouse, you’ve already failed.&rdquo;</strong><br/>
-  <attr>*mdash; Me, trying to fill out the orthopedist’s intake form</attr>
+  <attr>&mdash; Me, trying to fill out the orthopedist’s intake form</attr>
 </blockquote>
-
-## Keyboard Navigation
 
 ### Basic keyboard commands
 Navigation is primarily handled with these keys or chords (keys pressed together)
