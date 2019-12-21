@@ -112,7 +112,7 @@ Navigation is primarily handled with these keys or chords (keys pressed together
 
 ### What is focusable? What is tabbable?
 
-Ally.js defines five states an HTML element can be ( https://allyjs.io/what-is-focusable.html )
+[Ally.js defines five states an HTML element can be](https://allyjs.io/what-is-focusable.html):
 1. **Inert**: Element is not interactive, cannot take keyboard focus
 2. **Focusable**: Element can be focused by JavaScript and possibly the mouse. Often focused with the JS element.focus() method.
 3. **Tabbable**: Element is keyboard focusable, part of the sequential tabbing order
