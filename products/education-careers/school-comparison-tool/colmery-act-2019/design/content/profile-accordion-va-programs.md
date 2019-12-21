@@ -2,7 +2,7 @@
 
 #### If VA Programs Exist
 
-{ In the "VA Programs" accordion, if one or more VA programs have been reported for a school, display the reported programs in a single column. The program names will continue to be hyperlinked so users can view a description of each program.}
+{ In the "VA Programs" accordion, if any of the following VA programs have been reported as available by a school, display the relevant programs in a single column. Program names are hyperlinked. A modal with the program description appears on-click.}
 
 { Green checkmark icon } [Yellow Ribbon]()  
 { Green checkmark icon } [Principles of Excellence]()  
@@ -15,8 +15,8 @@
 * Please remove the existing sub-headings "Available at this campus" and "Not available at this campus"
 
 
-#### If No VA Programs Exist
+#### If No VA Programs are available at the location
 
-{In the "VA Programs" accordion, if no VA programs have been reported for a school, display the following content:}
+{In the "VA Programs" accordion, if no VA programs have been reported, display the following content:}
 
 "Please contact the school or their military office directly for information on the Veteran programs they offer."  
