@@ -149,11 +149,11 @@ Screen readers generally have two interaction models for their virtual cursor:
 ### Accessibility is built on understanding
 
 If I have an HTML snippet:
-<pre>
+```
   <h1 id=“heading-one” class=“va-heading va-heading-one”>
       Facility Locator
   </h1>
-</pre>
+```
 
 Screen readers can tell us a lot about it:
 * This is a heading level one
