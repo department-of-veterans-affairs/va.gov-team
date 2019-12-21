@@ -22,11 +22,15 @@ Then, we’ll evaluate how these learning sessions are going, to ensure this is 
 [ABC01 Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc01-inclusive-design-best-practices/inclusive-design-best-practices.md)
 
 ## Table of Contents
-* Keyboard navigation overview
-* Screen reader navigation overview
-* Accessibility API high points
-* Semantic HTML
-* Live demo of keyboard and screen readers
+* [Keyboard navigation overview](#keyboard-navigation)
+
+* [Screen reader navigation overview](#screen-reader-navigation)
+
+* [Accessibility API high points](#interpreting-the-page)
+
+* [Semantic HTML](#semantic-html)
+
+* [Live demo of keyboard and screen readers](#live-demo-time)
 
 ### Resources
 * [WebAIM guide on keyboard navigation](https://webaim.org/techniques/keyboard/)
