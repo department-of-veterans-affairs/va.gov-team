@@ -94,3 +94,105 @@ Navigation is primarily handled with these keys or chords (keys pressed together
     </tr>
   </tbody>
 </table>
+
+### What is focusable? What is tabbable?
+
+Ally.js defines five states an HTML element can be ( https://allyjs.io/what-is-focusable.html )
+1. **Inert**: Element is not interactive, cannot take keyboard focus
+2. **Focusable**: Element can be focused by JavaScript and possibly the mouse. Often focused with the JS element.focus() method.
+3. **Tabbable**: Element is keyboard focusable, part of the sequential tabbing order
+4. **Only tabbable**:  Element is only keyboard focusable, cannot be focused with scripting
+5. **Forwards focus**: Element sets focus on another element instead of taking focus itself
+
+### Why does keyboard focus matter?
+
+Keyboard focus is an important piece of the user experience.
+It *should*:
+* Follow the natural reading order of the page
+* Reset when users add, remove, or change things on the page
+* Have a clear, easy to find focus state (halo)
+
+It *should not*:
+* Skip around or scroll far on the page, then jump abruptly
+* Leave users to reorient themselves when the page changes
+
+## Screen Reader Navigation
+
+### How do users navigate with screen readers?
+
+Generally speaking, there are two ways to navigate with a screen reader:
+* Users can navigate focusable elements with TAB and SHIFT + TAB
+* They also navigate by a second paradigm, called the virtual cursor.
+
+<blockquote>
+<attr><a href="https://tink.uk/understanding-screen-reader-interaction-modes/" target="_blank">Leonie Watson describes the virtual cursor</a>:
+&ldquo;...by creating a virtual copy of the document, screen readers make it possible for blind people to interact with content in ways that would otherwise be impossible on the Windows platform. This happens because the screen reader intercepts most keypresses before they reach the browser, triggering an interaction with the virtual document instead.&rdquo;
+</blockquote>
+
+### Virtual cursor for the win
+
+Screen readers generally have two interaction models for their virtual cursor:
+* Virtual/browse mode
+* Forms/focus mode
+
+Virtual/browse mode:
+* Pressing DOWN ARROW or Ctrl + Opt + RIGHT ARROW moves to the next text element
+* Pressing UP ARROW or Ctrl + Opt + LEFT ARROW moves to the previous text element
+* When users interact with text nodes, they are in virtual/browse mode and the screen reader generally just reads the text
+  - If the text is a heading, it will read “Your text here, heading level <N>”
+  - There are also shortcuts to move by headings, tables, links, forms
+
+Forms/focus mode:
+* When users interact with a form element like a text input or checkboxes, Windows screen readers switch to forms/focus mode
+* JAWS announces Forms mode with an audible “click”
+* NVDA announces the input label, and “Focus mode”
+* At this point, users can type “Horse” or “How are you” and the screen reader will register those keypresses in the input
+* VoiceOver on MacOS and iOS doesn’t have this dual interaction model. It explains what element has focus and how users can interact with that element.
+
+## Interpreting the page
+
+<blockquote>
+  Screen readers are able to read the page and tell me what I’m interacting with. How is this possible?<br/>
+  Through the magic of <strong>accessibility APIs</strong>!
+</blockquote>
+
+### Accessibility is built on understanding
+
+If I have an HTML snippet:
+<pre>
+  <h1 id=“heading-one” class=“va-heading va-heading-one”>
+      Facility Locator
+  </h1>
+</pre>
+
+Screen readers can tell us a lot about it:
+* This is a heading level one
+* It has an ID of “heading-one”
+* It has two classes, “va-heading” and “va-heading-one”. 
+* CSS can change elements’ availability in the accessibility API.
+* It has one child text node “Facility Locator”
+
+## Semantic HTML
+
+### What is it?
+
+[Wikipedia defines semantics](https://en.wikipedia.org/wiki/Semantics#Computer_science) thusly: 
+semantics refers to the meaning of language constructs, as opposed to their form ([syntax](https://en.wikipedia.org/wiki/Syntax_(logic))).
+* Good HTML should look like a term paper outline
+* My favorite example is a heading. It can be marked up two ways:
+  - `<h1>This is the purpose of the page</h1>`  versus…
+  - `<span class=“va-heading-one”>This is the purpose of the page</span>`
+  These can look identical, but their meaning is very different
+  - Sighted users see a “heading”. It’s the top of the visual hierarchy.
+  - Screen reader users hear:
+    - This is the purpose of the page, heading level one versus…
+    - This is the purpose of the page
+* The H1 has semantic meaning and good descriptive text
+* The SPAN asks users to assign importance to the text
+
+## Live demo time!
+
+### Live demo URLs
+* Generic demo, without semantic markup - [Any Corp Scranton - generic](https://codepen.io/tpierce_402/full/JjoWmvY)
+* Semantically marked up demo - [Any Corp Scranton - semantic](https://codepen.io/tpierce_402/full/zYxZmaO)
+* Example of a website that 100% passes an automated compliance check, but is also completely inaccessible - [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/)
