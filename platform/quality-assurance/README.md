@@ -10,7 +10,7 @@ The Quality Assurance practice area points of contact are:
 - [Andrea Hewitt], @AndreaHewitt on Slack
 
 # Table of Contents
-1. QA Fundamentals
+1. **Fundamentals**
     - [**Process** for designing and executing a QA test plan](process.md)
     - [**Coordinate** QA on VSP](how-to-coordinate-qa.md)
     - [**Technologies** used for creating and executing all aspects of a QA test plan](technologies.md)
@@ -21,11 +21,11 @@ The Quality Assurance practice area points of contact are:
     - [**Record** test incidents](record-test-incident.md)
     - [**Help**](help.md)
 
-1. [**VSP Quality Assurance Philosophy**](philosophy/README.md)
-1. [**Manual testing**](manual-testing/README.md)
-1. [**TestRail**](testrail/README.md)
-1. [**End-to-end Testing**](e2e-testing/README.md)
-1. [**Load testing**](load-testing/README.md)
-1. [**Unit testing**](unit-testing/README.md)
-1. [**Archival examples of previous testing efforts**](archival-examples/README.md)
-1. [**QA Check-in process**](check-ins/README.md)
+2. [**Philosophy**](philosophy/README.md)
+3. [**Manual Testing**](manual-testing/README.md)
+4. [**TestRail**](testrail/README.md)
+5. [**End-to-end Testing**](e2e-testing/README.md)
+6. [**Load Testing**](load-testing/README.md)
+7. [**Unit Testing**](unit-testing/README.md)
+8. [**Archival Examples**](archival-examples/README.md)
+9. [**QA Check-in Process**](check-ins/README.md)

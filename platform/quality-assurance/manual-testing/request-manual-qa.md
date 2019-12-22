@@ -1,39 +1,33 @@
 # Manual QA Strategy
 
-### General
-* All teams working on the Veteran-facing Services Platform should ask for the following materials for projects being tested:
+## General
+* All teams working on the Veteran-facing Services Platform should compile the following materials for projects being tested:
      - Product Name
      - Product Outline link
      - Staging link
      - Staging user(s)
-     - Scenarios Matrix (customized for product): (raw version: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/QA/QA_Testing_Matrix_Template.xlsx)
+     - Test Plan
      - Product Manager
      - Engineering Lead
 
-### Request Manual QA
-1. File an issue in ```va.gov-team repo```.
-    * Title: ```Request Manual QA```
-    * Labels:
-      * ```qa```
-      * ```external-request```
-      * ```[your team's Github label]```, e.g., "BAH-526"
-    * Assign the issue to: ```[your DSVA contact]```
-    * Comment:
-      * **Context:** Provide a high-level description of the functionality for which you're requesting this review,
-        * e.g., ```Functionality adds a new dataset to the Facility Locator so users can search for and view non-VA health providers on the map, as well as in list and detail views.```
-      * **URL:** ```link to your project on staging```
-      * TODO - provide an example here.
-1. **Within 4 business days**, DSVA will conduct manual QA using information provided in the [Checklist below](#Manual-qa-checklist).
-    * If you don't hear anything after 4 business days, reach out to your DSVA Contact.
-1. DSVA will update the Github issue with requirements expected to be met before release and should include a testing matrix for this specific project.
-1. Complete all test cases in the testing matrix, logging each defect in Github, referencing the epic.
-    * If your team has questions about application requirements, use the Github issue to discuss that with DSVA.
-1. When each defect is verified, mark it as such in its Github ticket and close it.
+## Request Manual QA
+1. File an issue in ```va.gov-team repo``` using the [manual-qa-request template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=peterhill-oddball&labels=product+support&template=manual-qa-request.md&title=Request+manual+QA+services+for+ENTER_PRODUCT_NAME).
+    * Assign the issue to: ```pjhill Peter Hill```
+    * Follow the instructions within the template to produce a high quality request.
+2. **Within 4 business days**, VSP will conduct manual QA using information provided in the [Checklist below](#Manual-qa-checklist).
+    * If you don't hear anything after 4 business days, reach out to your VSP Product Support in #vsp-product-support.
+3. VSP Product Support QA will update the Github issue with relevant [QA artifacts](../qa-artifacts.md).
+4. If your QA review results in test incidents, you will need to work with VSP Product Support QA to triage each incident.
+   * Determine whether the incident is a defect, enhancement, or misinterpretation of acceptance criteria.
+   * Determine a severity for each legitimate issue.
+5. Once you have resolved a defect, be sure to mark the corresponding GitHub issue as resolved.
+6. After all defects have been resolved, tag your VSP QA reviewer in the request ticket and indicate that all defets have been resolved.
+7. VSP QA will verify all defects have been resolved and provide final approval that Manual QA activities have been successfully completed.
 
 
 <hr>
 
-### Manual QA Checklist
+## Manual QA Checklist
 * As stated in the General section above, all teams working on the Veteran-facing Services Platform should ask for the following materials for projects being tested:
      - Product Name
      - Product Outline link

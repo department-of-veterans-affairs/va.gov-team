@@ -1,12 +1,10 @@
 __Please note: some links in this document point to the vets.gov-team repo.__
 
-# Cross Browser Manual Testing
+# Cross-Browser Manual Testing
 
 ## General
 
 Conduct cross-browser manual testing after you've pushed your final/complete build to staging.
-
-<hr>
 
 ## What You Will Need
 
