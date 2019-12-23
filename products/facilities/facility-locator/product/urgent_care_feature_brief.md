@@ -1,5 +1,5 @@
 
-# _Facility Locator Urgent Care redesign Feature Brief_
+# _Facility Locator Urgent Care Feature Brief_
 
 This document will focus on the MVP for the Facility Locator UX redesign: Community Care/Urgent Care. 
 ## Table of Contents
