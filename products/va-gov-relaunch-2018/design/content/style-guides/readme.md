@@ -1,0 +1,2 @@
+# In-progress spreadsheet of USDS and VA-related content style guides
+Please add to this doc any that’s missing. There are lots of areas where I just have ? marks inserted (someone’s role or name spelling, etc.). If you know the answer, please feel free to add them and upload an updated spreadsheet. Also, if you have examples of style guides that you really like, include those in the worksheet "Examples we like."
