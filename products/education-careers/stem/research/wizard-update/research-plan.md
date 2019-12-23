@@ -6,22 +6,22 @@ Dec 23, 2019 – Jan 17, 2020
 
 
 #### Problem Statement 
-As an individual seeking education benefits, I am curious about all benefits I may be eligible for.  I want to understand the eligibility criteria for the STEM scholarhip so I don't waste my time applying for a benefit I'm not eligible for and I have visibility into the scholarship if it's something I may be eligible for in the future.  
+As an individual seeking education benefits, I am curious about all benefits I may be eligible for.  I want to understand the eligibility criteria for the STEM scholarhip so I can apply if I'm eligible and I don't waste my time applying if I'm not eligible.  Also, it'd be helpful to know if it's a scholarship I may be eligible for in the future.  
 
 #### Solution Hypothesis
-By presenting more detailed information about the STEM scholarship in the Education Benefits routing wizard, and not directing individuals to the STEM application if they're not eligible, we will reduce the alarmingly high rejection rate for the STEM Scholarship.  
-Further, for individuals who are by-passing the wizard and accessing the STEM scholarship application directly, including more detail around the STEM questions in the online application will help individuals better understand the scholarship criteria and discourage them for applying when they're not eligible. 
+Presenting more detailed information about STEM scholarship eligibility criteria in the Education Benefits routing wizard, and not directing individuals to the STEM application if they're not eligible, we will reduce the alarmingly high rejection rate for the STEM Scholarship.  
+
+Further, for individuals who are by-passing the wizard and accessing the STEM scholarship application directly, including more detail around STEM eligibility in the online application will help individuals better understand the scholarship criteria and discourage them for applying when they're not eligible. 
 
 #### Research Questions
 
 The research is designed to answer the following questions:
  
 * What do individuals seeking Education Benefits believe the nature of the STEM Scholarship to be? 
-* What do users know or what are there assumptions about STEM Scholarship eligibility criteria? 
-* Are users looking for information about STEM Scholarship eligibility before applying? If so, where? If no, why not? 
+* What do users know or what are their assumptions about STEM Scholarship eligibility criteria? 
 * Why do individuals who are ineligible for the STEM Scholarship apply for it? 
 * What would deter individuals who are ineligible for the STEM Scholarship from applying for it? 
-* Are there other scholarships or education benefits the people who are likely to apply for the STEM scholarship in error could apply for instead? 
+* Are users looking for information about STEM Scholarship eligibility before applying? If so, where? If no, why not? 
 * What additional information or contextual help would ensure users understand the scope and criteria of the STEM scholarship and their potential eligibility? 
 
 
@@ -33,7 +33,7 @@ Developing an understanding of why individuals who aren't eligible for the STEM 
 
 The following users have been identified:
 *	Veterans receiving education benefits, studying in STEM field, with >6 months of benefits
-* Veterans receiving education benefits, studying in non-STEM fields (languages, literature, philosophy, art, religion, law, business, politics, etc.)
+* Veterans receiving education benefits, studying in non-STEM fields (languages, literature, philosophy, art, religion, law, business, politics, etc.), with any remaining benefits
 *	Veterans receiving education benefits who are considering changing schools
 
 
@@ -44,7 +44,7 @@ In addition to the standard questions, which ensure a representative mix of part
 1.	Have you applied for VA educational benefits before? 
     * If yes, to Question 2
     * If no, end call.
-2. Would the idea of a scholarship to extend your benefits be appealing to you? 
+2. Would the idea of a scholarship that extended VA education benefits be appealing to you? 
     * If yes, to Question 3
     * If no, end call.
 3.	What is/was your field of study?
@@ -74,13 +74,13 @@ In-person notes will be taken by hand and/or on a computer.
 The following artifacts will be developed:
 *	Veteran Discussion Guide  
 
-The Test scripts will be ready by: Jan 3, 2020
+The Discussion Guide will be ready by: Jan 3, 2020
 
 
 #### Who will fill the team roles?
 * Screener writers: Amy Knox
 * Recruiter: Perigean Recruiting Firm
-* Conversation guide writer: Theresa McMurdo, Amy Knox
+* Discussion guide writer: Theresa McMurdo, Amy Knox
 * Moderator: Theresa McMurdo
 * Note-taker: Theresa McMurdo, Amy Knox and Cindy Cruz
 * Observers: UX Team, Education Services & DEPO (invited)
