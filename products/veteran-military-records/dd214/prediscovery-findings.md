@@ -1,10 +1,6 @@
 # DD214 PreDiscovery Findings
 
-- [Meeting Notes 01/09/2018: Marvo, Josh Q.](#meeting_0109)
-- [Meeting Notes 12/28/2017: Marvo, Susan Sullivan (Office of Enterprise Integration)](#meeting_1228)
-- [Meeting Notes 12/20/2017: Marvo, Robbie, Gabriel](#meeting2_1220)
-- [Meeting Notes 12/20/2017: Marvo, Samara, Karl Pfanzelter (VBA Benefit Service Assistance)](#meeting1_1220)
-- [DD214 Info](DD214%20Info.md)
+- [DD214 Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/dd214/dd214-info.md)
 - [Public Access to the DD214](#public)
 - [Veteran ID Card](#vic)
 - [DD214 Notes from Slack, includes Action Items](https://dsva.slack.com/files/U6ZQCPD2B/F8BCLBDK4/DD214_Notes)
@@ -85,10 +81,10 @@ Discussion:
 - Questions to keep in mind: 
     - Does fixing VADIR make sense?
     - What has been done to take this data from DEERS to VADIR?
-    - We have to validate [Issue#6042](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/6042): is this the whole thing or only the tip of the iceberg?
+    - We have to validate: is this the whole thing or only the tip of the iceberg?
 
 Outcomes: 
-- Enough information has now been gathered to complete the first draft of the [DD214 Pre-Discovery Deck](2017-12-21%20Draft%20v1%20DD214%20PreDiscovery%20Readout%20Deck%20.pptx)
+- Enough information has now been gathered to complete the [DD214 Pre-Discovery Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/dd214/2018-01-11-final-dd214-prediscovery-readout-deck-.pptx)
 - [X] Gabriel will introduce Marvo to Jim Jones after... 
     - [X] Marvo reminds him with a summary email in early January 2018.
 
