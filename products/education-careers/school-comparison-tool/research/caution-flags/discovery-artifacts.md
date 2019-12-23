@@ -9,14 +9,14 @@ Includes several concepts that we could explore for our work on the Search Resul
 * Feedback icons: https://design.va.gov/design/icons#feedback (warning)
 * Design System: Warning Alert: https://design.va.gov/components/alertboxes#warning  
 
-![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)  
 *Figure 1: Example of a caution card for a medical facility*  
+![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)  
 
-![Medical facility variations](images/Medical-Facility-Caution-Card-Variations.png)  
 *Figure 2: Medical facility variations*  
+![Medical facility variations](images/Medical-Facility-Caution-Card-Variations.png)  
 
-![Comparison Tool Mobile Caution Cards](images/Comparison-Tool-Mobile-Caution-Cards.png)  
 *Figure 3: Comparison Tool Mobile Caution Cards*  
+![Comparison Tool Mobile Caution Cards](images/Comparison-Tool-Mobile-Caution-Cards.png)  
 
 
 
