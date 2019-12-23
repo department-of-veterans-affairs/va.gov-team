@@ -41,8 +41,8 @@ We know this content doesn't live concisely in one place.
 We know many Veterans could benefit from getting their status upgraded and that many were given an unfair status. 
 
 Documents that outline what we already know: 
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Discharge%20Update/README.md
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Discharge%20Update/ProjectHistory.md  
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-military-records/discharge-update/readme.md
+ 
 
 **What don't we know?**
 
