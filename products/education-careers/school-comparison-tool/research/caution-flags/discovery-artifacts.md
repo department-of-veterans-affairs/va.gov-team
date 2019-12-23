@@ -10,7 +10,7 @@ Includes several concepts that we could explore for our work on the Search Resul
 * Design System: Warning Alert: https://design.va.gov/components/alertboxes#warning  
 
 *Figure 1: Example of a caution card for a medical facility*  
-![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)  
+![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png width="50%" height="50%")
 
 *Figure 2: Medical facility variations*  
 ![Medical facility variations](images/Medical-Facility-Caution-Card-Variations.png)  
