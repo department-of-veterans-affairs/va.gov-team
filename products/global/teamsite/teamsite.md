@@ -46,26 +46,26 @@ Validating changes against subdomains requires mapping specific documents to a l
 3. Build the site e.g. `NODE_ENV=production npm run build -- --buildtype=vagovprod`
 4. Open the subdomain page in an incognito window
     - Observe the network activity in Charles for the S3 bucket
-    ![](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/images/observe_traffic.png)
+    ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/observe-traffic.png)
 5. Right click on the asset to override and select **Map local**
     - likely files to override: `stylesConsolidated.css` or `proxy-rewrite.entry.js`
 6. Map the file to the locally built asset by clicking **Choose**
-    ![](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/images/map_local.png)
+    ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/map-local.png)
     and navigating to your local `build/BUILDTYPE/generated/` folder
-    ![](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/images/local_build.png)
+    ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/local-build.png)
 7. Click OK and hard refresh the page in your browser
 8. Verify that the correct file was served by clicking the latest load event in Charles and reading the notes- _Charles will keep an ongoing log of network activity- new items appear at the bottom of each node's list_
-    ![](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/images/verify_map_local.png)
+    ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/verify-map-local.png)
 
 # Teamsite Overview
 
-Updated from [TeamSite Technical Solution and Implementation](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12779#issue-356005850)
+Updated from TeamSite Technical Solution and Implementation
 
 EWIS serves much of the existing content on www.va.gov (e.g. www.va.gov/health) and to accomodate this our systems serve that request from our version of the site on sites that exist on the same domain. 
 
 ![ewis](https://user-images.githubusercontent.com/215266/45632257-195abc80-ba5a-11e8-9f7c-76c63fb14ac4.png)
 
-More details on how this proxy work can be found on the [EWIS-proxy-details](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/EWIS-proxy-details.md) page.
+More details on how this proxy work can be found on the [EWIS-proxy-details](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/VA-Systems/EWIS/ewis-proxy-details.md) page.
 
 Requests to subdomain hosts such as www.benefits.va.gov are not proxied through our systems and are not under our control. Content for these sites exists on TeamSite: a content management system utilized by the VA to manage content across several properties at the VA. Each property in TeamSite consists of perl-based template files, which on publish rendered content to a file store. The rendered content contains server side includes, which reference content from a directory called `va_files`, which has shared header and footer functionality.
 
