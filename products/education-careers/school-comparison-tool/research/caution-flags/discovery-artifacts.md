@@ -5,7 +5,7 @@
   * [From DEPO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#from-depo)
 * [Questions for stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#questions-for-stakeholders)
   * [Search results page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#search-results-page)
-  * [School profile page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#school-profile-page)
+  * [School profile page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#school-profile-page)  
   * [Questions for EDU](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#questions-for-edu)
   * [Search results page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#search-results-page-1)
   * [School profile page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/discovery-artifacts.md#school-profile-page-1)
