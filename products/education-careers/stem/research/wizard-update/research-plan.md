@@ -1,5 +1,3 @@
-## PLACEHOLDER CONTENT... 
-
 # STEM Scholarship - Wizard and STEM Application Review 
 
 Dec 23, 2019 – Jan 17, 2020
@@ -100,4 +98,4 @@ Interviews and site review
 
 #### When do we need to start recruiting?
 
-Usability Testing Recruiting needs to be complete by: Jan 3, 2020
+Recruiting needs to be complete by: Jan 3, 2020
