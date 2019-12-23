@@ -4,7 +4,7 @@
 ### 1. What product & team are you doing this research for?
 This is the GI Bill Complaint Tool on behalf of the DSVA
 ### 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-See <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/GI%20Bill%20Complaint%20Tool/Discovery%20Phase/Product%20Outline.md">Product Outline</a> for information.
+See <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-feedback-tool/product-outline.md">Product Outline</a> for information.
 ### 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
 1. What information does the user want to include in their complaint?
 2. What is the best question order for the user?
@@ -116,10 +116,10 @@ Wednesday (6/13/2018)
 
 ## Resources
 - Project Brief: 
-View the <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/GI%20Bill%20Complaint%20Tool/fellowsproject.md">Project Brief</a> here.
+View the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-feedback-tool/fellowsproject.md">Project Brief</a> here.
 
 - Discussion Guide:
-View the <a href="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/GI%20Bill%20Complaint%20Tool/Discovery%20Phase/Conversation%20Guide.md">Conversation Guide</a> here.
+View the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-feedback-tool/research/conversation-guide.md">Conversation Guide</a> here.
 
 - Synthesis
 *Link to any documents used for synthesis (Trello boards, excel sheets, other data outputs, etc.)* 
