@@ -2,7 +2,7 @@
 - GitHub Label: `opt out`
 - Slack channel: #opt-out
 - Vets.gov live link: https://vets.gov/education/opt-out-information-sharing/
-- Application guide: [Link](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Colmery%20Act%20Opt%20Out/Opt%20Out%20Application%20Guide.pdf)
+- Application guide: [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/opt-out-application-guide.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ Comply with the legislative requirement before 8/1/2018 and improve the processi
 - Stakeholders don't want to make the opt-out form prominent on the Vets.gov website
 
 ## Discovery Takeaways
-- [Q&A with EDU Stakeholders (Shay/Luke)](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/10779#issuecomment-399450617)
+- Q&A with EDU Stakeholders (Shay/Luke)
 
 ## Solution Approach
 - A form that allows both logged in users and non logged in users to access the tool and opt out of sharing their VA Data with educational intitutions
@@ -67,20 +67,20 @@ Comply with the legislative requirement before 8/1/2018 and improve the processi
 
 ## Team
 
-- **VA Policy Expert(s)**: Shay Norton [shay.norton@va.gov](mailto:shay.norton@va.gov )
-- **VA Digital Strategist(s)** `*`: Matt Self [matthew.self2@va.gov](mailto:matthew.self2@va.gov)
-- **Product Manager** `*`: Ryan Luu [ryan.luu@adhocteam.us](mailto:ryan.luu@adhocteam.us)
-- **Design Lead**: Emily Waggoner [emily@adhocteam.us](mailto:emily@adhocteam.us)
-- **Eng Lead**: Lihan Li [lihan@adhocteam.us](mailto:lihan@adhocteam.us)
+- **VA Policy Expert(s)**: Shay Norton 
+- **VA Digital Strategist(s)** `*`: Matt Self 
+- **Product Manager** `*`: Ryan Luu 
+- **Design Lead**: Emily Waggoner 
+- **Eng Lead**: Lihan Li 
 - **VA Web Comms Partner**: 
-- **VA Call Center Liason**: Aubrey Arcangel [aubrey@thesocompany.com](mailto:aubrey@thesocompany.com)
+- **VA Call Center Liason**: Aubrey Arcangel 
 - **Production Testing Partner(s)**:
-- **Content Writer(s)**: Peggy Gannon [peggy@thesocompany.com](mailto:peggy@thesocompany.com)
+- **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
-  - Rian Fowler [rian.fowler@adhocteam.us](mailto:rian.fowler@adhocteam.us)
+  - Rian Fowler 
 - **Back-end Engineer(s)**:
-  - Lihan Li [lihan@adhocteam.us](mailto:lihan@adhocteam.us)
-  - Johnny Holton [johnny@oddball.io](mailto:johnny@oddball.io)
+  - Lihan Li 
+  - Johnny Holton 
 
 `*` = approval required for launch
 
@@ -98,24 +98,24 @@ Comply with the legislative requirement before 8/1/2018 and improve the processi
 
 ### Screenshots
 **Intro**
-![](Design/intro_opt-out.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/design/intro-opt-out.png)
 
 <br>
 
 **Modal**
-![](Design/modal_opt-out.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/design/modal-opt-out.png)
 
 <br>
 
 **Applicant Info**
-![](Design/applicant-info_opt-out.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/design/applicant-info-opt-out.png)
 
 <br>
 
 **Review & Submit**
-![](Design/review_opt-out.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/design/review-opt-out.png)
 
 <br>
 
 **Confirmation**
-![](Design/confirmation_opt-out.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/design/confirmation-opt-out.png)
