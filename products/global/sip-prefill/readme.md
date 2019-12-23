@@ -1,15 +1,15 @@
 # Save in Progress
 
 ### Communication Channels
-- Github Label: [Save in progress](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3A%22Save+in+progress%22)
+- Github Label: Save in progress
 - Keywords: prefill, sip, save in progress
 
 ### Points of Contact
-- DSVA Product Owner: Leah Bannon leah.bannon2@va.gov, Patrick Bateman patrick.bateman@va.gov
-- Ad Hoc Product Manager: Ryan Luu ryan.luu@adhocteam.us, Brian Gryth brian.gryth@adhocteam.us
+- DSVA Product Owner: Leah Bannon, Patrick Bateman
+- Ad Hoc Product Manager: Ryan Luu, Brian Gryth
 - Engineering POCs:
-  - Frontend: Jeff Balboni jeff@adhocteam.us
-  - Backend: Alastair Dawson alastair@adhocteam.us
+  - Frontend: Jeff Balboni
+  - Backend: Alastair Dawson
 
 ### Narrative
 
@@ -22,8 +22,6 @@ Veterans have a difficult time filling out forms in one session and as a result 
 - Electronic forms often break out data collection over a number of pages. While a better flow and better experience for filling out forms it can also increase the time it takes to complete as well as include other tasks such as finding extra documentation to include with your submission. 
 
 In order to ensure users are able to start a form, leave and come back if they need to, it is important (importance increases as the form length also increases) that we allow for our users to save their form in progress and come back later to finish. 
-
-See the [Prefill readme](./Prefill/README.md) for other information.
 
 #### Current Status
 
@@ -40,7 +38,7 @@ All forms built on VA.gov make use of save in progress functionality. It's built
 
 ### How to Access / Test
 
-Any [LOA1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/understanding-LOA-on-vetsdotgov.md#loa-1) user can save their form in progress, however, the way to access and test this feature is dependent on the form it is being used in. See documentation for specific forms for testing prefill on that form.
+Any LOA1 user can save their form in progress, however, the way to access and test this feature is dependent on the form it is being used in. See documentation for specific forms for testing prefill on that form.
 
 ### List of error codes and messages
 
@@ -52,7 +50,7 @@ There are a few potential error cases:
 
 Depending on where those errors happen, they may have different messages.
 
-See the [error messages doc](Error_Messages.md) for screenshots of the different errors.
+See the [error messages doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/sip-prefill/error-messages.md) for screenshots of the different errors.
 
 ### Monitoring/SLO information
 
