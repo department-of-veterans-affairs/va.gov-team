@@ -3,17 +3,17 @@
 
 This document will focus on the MVP for the Facility Locator UX redesign: Community Care/Urgent Care. 
 ## Table of Contents
-[User Journey]
-[User Journey]
-[Project Rationale]
-[Project Scope and Scale]
-[Measuring Success]
-[Dependencies]
-[Pending Questions]
-[Rejected Solutions]
-[Risk factors]
-[Definition of Done]
-[Key Links]
+[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#user-journey)
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#user-stories--use-cases)
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#project-rationale)
+[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#project-scope-and-scale)
+[Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#not-currently-in-scope)
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#measuring-success)
+[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#dependencies)
+[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#risk-factors)
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#rejected-solutions)
+[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#definition-of-done)
+[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#key-links)
 
 ### User Journey
 - Following the Mission Act, eligible Veterans have access to urgent care benefits in their community and need help knowing where and how to receive care. 
@@ -47,7 +47,6 @@ _Why should this project be a priority?_
 
 ### Project Scope and Scale
 _What's in and what's out?_
-
 **MVP**
 - Iteration incorporates previous community and urgent care research, Facility Locator discovery research and feedback
 - Veterans are assisted in understanding the sub-type choices for urgent care and are able to determine which facility type meets their current need.
@@ -58,6 +57,7 @@ _What's in and what's out?_
 - Design does not include TriWest link (which will be removed pending OCC approval)
 
 **MVP will also include some general usability and search functionality improvements**
+
 Focused on solving the following problems:
 - Search UI is inconsistent (i.e., free text search box, dropdowns, typeahead)
 - Map functionality is confusing (iconography, results, mileage)
@@ -78,14 +78,12 @@ To address the following user stories:
 
 ### Measuring Success
 _How will we know if we are successful?_
-
 **Objective: Reform Community Care Implementation**
   - Key Result #1: The rate of search refinements for Community Care will be at parity with VA facility searches by July 1, 2020. 
   - Key Result #2: All urgent care searches will be performed using the modernized Facility Locator by February 2, 2020.  
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
-
 **Team/Internal dependencies**
   -  Ability to differentiate among facility sub-types is access dependent.
   - Comprehensive QA strategy requires lower environment with PPMS data for testing. 
@@ -95,8 +93,8 @@ _Are other features dependent on this one? What do we need from partners? What d
   - Benefit PDF will be available, pending OCC approval. 
   
   ### Risk factors
-- [ ] This UX redesign is reliant on the data provided via PPMS and is dependent on the resolution of existing data concerns.
-- [ ] This work is dependent on the availability of Optum network information.
+  - This UX redesign is reliant on the data provided via PPMS and is dependent on the resolution of existing data concerns.
+  - This work is dependent on the availability of Optum network information.
 
 ### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
@@ -104,14 +102,13 @@ _Are other features dependent on this one? What do we need from partners? What d
   - Emergency care will be separate facility type 
 
 ### Definition of Done
-
-- [ ] The Veteran must be able to successfully search for an urgent care facility.
-- [ ] The Veteran must be able to successfully search for a retail pharmacy.
-- [ ] High level location information is included in search results.
-- [ ] The Veteran can view the name, address, phone number, directions, hours of operation and services offered for the chosen facility. 
-- [ ] The Veteran can download benefit information to take to the facility.
-- [ ] Veterans using assistive technology can achieve the stated goals above.  
-- [ ] Existing functionality for searching VHA(including Vet Centers), VBA and NCA facilities will be maintained. 
+- The Veteran must be able to successfully search for an urgent care facility.
+- The Veteran must be able to successfully search for a retail pharmacy.
+- High level location information is included in search results.
+- The Veteran can view the name, address, phone number, directions, hours of operation and services offered for the chosen facility. 
+- The Veteran can download benefit information to take to the facility.
+- Veterans using assistive technology can achieve the stated goals above.  
+- Existing functionality for searching VHA(including Vet Centers), VBA and NCA facilities will be maintained. 
 
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
