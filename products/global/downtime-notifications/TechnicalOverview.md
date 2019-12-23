@@ -18,7 +18,7 @@ The list of external services in PagerDuty is maintained by Terraform. A new ite
 
 ### Configuration update in vets-api
 
-Once this is setup, the ID should be added to the Settings.maintenance.services key in the [vets-api config Jinja template](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/prod-settings.local.yml.j2). [In the future this may be automated](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/18599).
+Once this is setup, the ID should be added to the Settings.maintenance.services key in the [vets-api config Jinja template](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/vets-api/prod-settings.local.yml.j2). In the future this may be automated.
 
 ### Front-end implementation
 
