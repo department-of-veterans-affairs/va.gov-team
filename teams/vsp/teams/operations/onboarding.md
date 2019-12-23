@@ -70,7 +70,7 @@ Being oncall requires access beyond the initial item listed so far.  Here's a qu
 * Can create an AWS MFA session in CLI 
 * Credstash
   * `credstash list`
-  * `credstash get credstash get doc.va_tic_ips`
+  * `credstash get doc.va_tic_ips`
 * You have a PIV
 * You have CAG access or a GFE
 * You have a va.gov email address
