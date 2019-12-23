@@ -18,5 +18,5 @@ The purpose of this document is to provide a narrative of the iterations and dec
 ## Timeline and Versions
 
 Timeline continues: 
-- [v1: November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative.md#v1-november-2019)
+- [v1: November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-nov-2019.md)
 - [v2: December 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative.md#v2-december-2019)
