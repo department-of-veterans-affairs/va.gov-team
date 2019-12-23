@@ -57,6 +57,41 @@ While there is only one instance of Jenkins, you can stand up an instance locall
 Prometheus is at the core of our monitoring, and Grafana is the tool that we use for visualizations.
 
 TODO: overview doc of monitoring
+ ### Oncall
+
+Being oncall requires access beyond the initial item listed so far.  Here's a quick checklist / rundown of what you need to be successful.
+
+* AWS Accounts
+  * `dsva` commercial account access
+  * `dsvasupport` commercial account access
+  * `dsavagovcloud` govcloud account access
+  * `dsva-vetsgov` govcloud test account
+* SOCKS proxy access
+* Can create an AWS MFA session in CLI 
+* Credstash
+  * `credstash list`
+  * `credstash get credstash get doc.va_tic_ips`
+* You have a PIV
+* You have CAG access or a GFE
+* You have a va.gov email address
+  * and can login to it via CAG/CFE
+  * and can send+receive email
+  * and have a ssl cert published to the GAL for encrypted email
+* Can log in to ServiceNow
+  * and are added the the `VA DOT GOV DEVOPS` assignment group (see [this doc](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/ESECC-lookup.md) for more info)
+* Can log in to Polaris
+* PagerDuty
+  * Have an account in dsva
+  * Have app installed in phone and can receive push notifications
+  * Have setup notification methods in the PagerDuty site
+    * including for High/Low urgency alerts
+* You know how to access log in AWS Cloudwatch
+* You know how to push a change to release vets-api or vets-website
+  * You are comfortable doing so
+* You can access a shell on an instance to debug problems
+  * via ssh
+  * via ssm
+* You DSVA Slack profile has your phone number, company email, and VA.gov email 
 
 ## Is there anything else I should know?
 
