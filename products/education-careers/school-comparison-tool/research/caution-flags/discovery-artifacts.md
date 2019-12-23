@@ -31,6 +31,8 @@ Includes several concepts that we could explore for our work on the Search Resul
 
 ## Questions for stakeholders
 
+* Has any research or testing been done with users for Caution Flags or other card patterns specifically?
+
 #### Search results page
 * In the Comparison Tool Search Results page, two types of yellow flags are typically used in the school cards: Caution Flags and School Closing Flags. In figure 3 above, you have an example showing a caution flag. What's the plan for when you also need to display school closing warnings? Will you stack the warning details together?
 
