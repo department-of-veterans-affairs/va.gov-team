@@ -4,7 +4,7 @@
 
 This document describes historical decisions that may be relevant. 
 
-## Facility Locator: Solution Narrative
+## [Facility Locator: Solution Narrative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/solution-narrative.md)
 
 This document outlines technical and product decisions, rationale and timeline. 
 
