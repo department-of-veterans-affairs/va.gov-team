@@ -29,4 +29,4 @@ It is preceded by [Beginning September/October 2019](https://github.com/departme
 
 See also the following timelines: 
 
-- [v2: December 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative.md#v2-december-2019)
+- [v2: December 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-dec-2019.md)
