@@ -1,6 +1,11 @@
 
 # Discovery Artifacts for Caution Flag Enhancements
 
+* (Design artifacts[]
+  * (From DEPO)[]
+* (Questions for stakeholders)[]
+  * (Search results page)[]
+  * (School profile page)[]
 
 ## Design artifacts
 
@@ -26,7 +31,7 @@ Includes several concepts that we could explore for our work on the Search Resul
 
 ## Questions for stakeholders
 
-#### Search Results Page
+#### Search results page
 * In the Comparison Tool Search Results page, two types of yellow flags are typically used in the school cards: Caution Flags and School Closing Flags. In figure 3 above, you have an example showing a caution flag. What's the plan for when you also need to display school closing warnings? Will you stack the warning details together?
 
 * Figure 3 above displays tags for Veteran Programs. We currently have 9 listed Veteran Programs with two of them potentially being removed (Distance Learning and Online Only). Even if the tags wrapped, that would still increase the height of the cards significantly if all 7 programs were listed. Many schools provide a great deal of Veteran Programs. Is the plan to include a summarized view of them and maybe show only the top 2/3 programs? 
@@ -36,5 +41,5 @@ Includes several concepts that we could explore for our work on the Search Resul
 <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/images/Cortiva.png" width="350"></kbd> <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/images/Dept-of-HS.png" width="350"></kbd>
 
 
-#### School Profile Page
+#### School profile page
 * ...
