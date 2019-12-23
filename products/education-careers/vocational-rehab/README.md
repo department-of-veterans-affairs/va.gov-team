@@ -52,7 +52,7 @@ We'll be able to find the appropriate technical assistance to help us navigate s
 - 
 
 ## Discovery Takeaways
-- https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research/VRE%20readout%201.key
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/vocational-rehab/research/vre/vre-readout-1.key
 
 ## Solution Approach
 
@@ -74,21 +74,21 @@ We'll be able to find the appropriate technical assistance to help us navigate s
 
 - **VA Executive Sponsor** `*`: 
 - **VA Policy Expert(s)**: 
-- **VA Digital Strategist(s)** `*`: Matt Self [matthew.self2@va.gov](mailto:matthew.self2@va.gov)
-- **Product Manager** `*`: Ryan Luu [ryan.luu@adhocteam.us](mailto:ryan.luu@adhocteam.us)
+- **VA Digital Strategist(s)** `*`: Matt Self 
+- **Product Manager** `*`: Ryan Luu 
 - **Design Lead**: 
-- **Eng Lead**: Jeff Balboni [jeff@adhocteam.us](mailto:jeff@adhocteam.us)
+- **Eng Lead**: Jeff Balboni 
 - **VA Web Comms Partner**: 
-- **VA Call Center Liason**: Aubrey Arcangel [aubrey@thesocompany.com](mailto:aubrey@thesocompany.com)
+- **VA Call Center Liason**: Aubrey Arcangel 
 - **Production Testing Partner(s)**:
-- **Content Writer(s)**: Peggy Gannon [peggy@thesocompany.com](mailto:peggy@thesocompany.com)
+- **Content Writer(s)**: Peggy Gannon 
 - **Front-end Engineer(s)**: 
-  - Jeff Balboni [jeff@adhocteam.us](mailto:jeff@adhocteam.us)
-  - Rian Fowler [rian.fowler@adhocteam.us](mailto:rian.fowler@adhocteam.us)
-  - Annie Bai [lbai001@oddball.io](mailto:lbai001@oddball.io)
+  - Jeff Balboni 
+  - Rian Fowler 
+  - Annie Bai 
 - **Back-end Engineer(s)**:
-  - Lihan Li [lihan@adhocteam.us](mailto:lihan@adhocteam.us)
-  - Johnny Holton [Johnny@oddball.io](mailto:johnny@oddball.io)
+  - Lihan Li 
+  - Johnny Holton 
 
 `*` = approval required for launch
 
