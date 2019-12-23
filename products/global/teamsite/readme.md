@@ -1,7 +1,7 @@
 # Teamsite Product Outline
 
 ## Communication Channels 
-- Github Label: [team-site](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22team-site%22+)
+- Github Label: team-site
 - Slack Channel: #platypus-tools-team
 - Keywords: Teamsite
 
