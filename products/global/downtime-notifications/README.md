@@ -41,18 +41,18 @@ For the first iteration of downtime notifications, we are keeping the scope conf
 **For applications that require authentication**
 
 a. Downtime approaching
-   - (Logged in) [informational modal](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-info.png) when landing on the affected application
+   - (Logged in) [informational modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-info.png) when landing on the affected application
 
 b. Downtime in effect, application unusable
-   - (Logged in) [plain messaging](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Plain%20text/plain-text-replace-page.png) replaces content below page title on the affected application
+   - (Logged in) [plain messaging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/plain-text-replace-page.png) replaces content below page title on the affected application
 
 **For applications that do *not* require authentication**
 
 a. Downtime approaching
-   - [Informational modal](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-info.png) when landing on the affected application (for forms, will need different messaging for logged in vs. logged out)
+   - [Informational modal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-info.png) when landing on the affected application (for forms, will need different messaging for logged in vs. logged out)
 
 b. Downtime in effect, application unusable
-   - [Plain messaging](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Plain%20text/plain-text-replace-page.png) replaces content below page title on the affected application
+   - [Plain messaging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/plain-text-replace-page.png) replaces content below page title on the affected application
   
 **Additional implications**
 
@@ -174,7 +174,7 @@ QA Testing
 ## Resources and Documentation
 
 - Discovery and Research
-- [Technical Documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Downtime%20Notifications/TechnicalOverview.md)
+- [Technical Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/downtime-notifications/TechnicalOverview.md)
 - Product specs
 - Design
 - Roadmap
