@@ -11,22 +11,22 @@ Last Updated December 10, 2019
      - C & P 
      - Compensation & Pension
 
-|Name|Role|Email|
-|----|----|-----|
-|Lisa Koenigsberg|DSVA Lead| lisa.koenigsberg@va.gov |
-|Samara Strauss |DSVA Lead Designer| samara.strauss@va.gov |
-|Justin Pickett |Product Manager| jpickett@governmentcio.com |
-|Arthur Green |Designer| jpickett@governmentcio.com |
-|Nick Sullivan |Original Engineering Lead (now on Platform)| nick.sullivan@adhocteam.us |
-|Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Amen Ra | FE Engineer| ara@governmentcio.com |
-|Lihan Li | BE Engineer | lihan@adhocteam.us |
-|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
-|Frank Bryceland | General eBenefits contact | Frank.Bryceland@va.gov |
-|Melissa Rebstock | General eBenefits contact | Melissa.rebstock@va.gov |
-|Michael Walker | eBenefits (Insignia) contact | Michael.Walker@va.gov |
-|Toya McKoy| eBenifits Contract (Insignia) Office Representative | Toya.McKoy@va.gov |
-|Courtney Rive | eBenefits (Insignia) Project Manager | Courtney.Rive@va.gov |
+|Name|Role|
+|----|----|
+|Lisa Koenigsberg|DSVA Lead| 
+|Samara Strauss |DSVA Lead Designer|
+|Justin Pickett |Product Manager|
+|Arthur Green |Designer|
+|Nick Sullivan |Original Engineering Lead (now on Platform)|
+|Erik Hansen | FE Engineer|
+|Amen Ra | FE Engineer|
+|Lihan Li | BE Engineer |
+|Tze-chiu Lei | QA Analyst |
+|Frank Bryceland | General eBenefits contact |
+|Melissa Rebstock | General eBenefits contact |
+|Michael Walker | eBenefits (Insignia) contact |
+|Toya McKoy| eBenifits Contract (Insignia) Office Representative |
+|Courtney Rive | eBenefits (Insignia) Project Manager |
 
 
 
@@ -85,14 +85,14 @@ The Personal Information page of eBenefits, which contains the Direct Deposit fu
 
 ## Constraints
 - Fraud has requirements that need to be in place. 
-  - Received list of requirements, team looking into those currently. More information [here](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/18971) **(need to update)**
-- Need to speak with more people around the rules eBenfits had in place. (ie "Financially-incompetent Veteran") The conversation and rules can be found [here.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19029x) **(need to update)**
+  - Received list of requirements, team looking into those currently. 
+  - Need to speak with more people around the rules eBenfits had in place. (ie "Financially-incompetent Veteran") 
 
 ## Discovery Takeaways
 - Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
 ## Decisions
-At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill have not been exposed in a consumable service, although this is still being researched. According to this [document](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/635f35ad555d0cdac50667ac48c92fef2b719c64/Products/Platform/EVSS%20Integration/meeting-notes/2017-06-21-EVSS-Vets.gov-meeting-notes.md#pciu), this data is stored in _LTS Ch33_. (__note: link points to vets.gov-team repo__)
+At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill are stored in _LTS Ch33_ but have not been exposed in a consumable service, although this is still being researched. 
 
 ## The Plan
 - Work with the eBenfits to better understand needs of Veterans. 
@@ -124,15 +124,15 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 
 As of 8/16/2019, VBA leadership has asked the DSVA team to launch the direct deposit functionality on VA.gov as quick as possible. We received clearance to pursue launch despite not yet having everything in place for the eBenefits fraud team.
 
-Currently, our team is preparing for launch. Our work haulted in June just after user testing, so we are currently undergoing QA, 508 testing, UAT, and other [pre-launch tasks](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17530).
+Currently, our team is preparing for launch. Our work haulted in June just after user testing, so we are currently undergoing QA, 508 testing, UAT, and other pre-launch tasks.
 
 **May 2019**
 
 - Currently in Staging, not in Production.
 
-- Conversations with the eBenfits team unearthed a few different rule that are in place on for direct deposit. Conversations will continue to find out what needs to be in place for direct deposit on VA.gov, but for an MVP is the goal. further notes from that conversation can be found [here.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Meeting%20Notes/Direct%20deposit%20call%206.5.19.docx) (__note: link points to vets.gov-team repo__)
+- Conversations with the eBenfits team unearthed a few different rule that are in place on for direct deposit. Conversations will continue to find out what needs to be in place for direct deposit on VA.gov, but for an MVP is the goal. 
 
-- Working with the ID.me team to improve security for MFA to protect Veterans from Fraudsters. Still to be decided if this will be included in the MVP. Work can be found in this [ticket](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/18797)
+- Working with the ID.me team to improve security for MFA to protect Veterans from Fraudsters. Still to be decided if this will be included in the MVP. 
 
 - There are on going conversations with the Fraud team on eBenfits. They expressed a desire to have IP address tracked in order to provide those to law enforcement to catch fraudsters. These conversations are still on going at this time. 
 
@@ -158,7 +158,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 **Staging**
 
 - https://staging.va.gov/my-va/
-- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv) and navigate to the profile (__note: link points to vets.gov-team repo__).
+- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv.
 - LOA3 without 2FA: Will be promted to setup 2FA before accessing.
 - LOA1: Create an account on staging and navigate to the profile. You will see a prompt to verify your identity since the profile is only available to users who have verified their identities.
 - [QA Manual Testing Matrix](https://app.zenhub.com/files/31788863/7d925a6a-4824-4437-a80e-2dbaf2224dfa/download) spreadsheet
