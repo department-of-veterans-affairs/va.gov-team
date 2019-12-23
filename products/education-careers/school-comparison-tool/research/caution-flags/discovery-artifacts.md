@@ -6,7 +6,13 @@ Includes several concepts that we could explore for our work on the Search Resul
 
 #### Design artifacts
 ![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)  
-*Figure 1: Example of a caution card for a medical facility* 
+*Figure 1: Example of a caution card for a medical facility*  
+
+![Medical facility variations](images/Medical-Facility-Caution-Card-Variations.png)  
+*Figure 1: Medical facility variations*  
+
+![Comparison Tool Mobile Caution Cards](images/Comparison-Tool-Mobile-Caution-Cards.png)  
+*Figure 1: Comparison Tool Mobile Caution Cards*  
 
 ## Questions for stakeholders
 
