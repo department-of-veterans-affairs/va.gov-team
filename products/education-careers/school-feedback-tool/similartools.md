@@ -7,7 +7,7 @@
   + https://department-of-veterans-affairs.github.io/design-system/components/detail/best-practice.html 
   
 + Internal Tools (from Sophia @phiden) 
-  + https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md
+  + https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md
 
 + React json-schema form 
   + https://github.com/mozilla-services/react-jsonschema-form#philosophy
