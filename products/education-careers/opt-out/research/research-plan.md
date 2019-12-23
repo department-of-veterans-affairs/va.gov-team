@@ -2,7 +2,7 @@
 
 ## Goals
 1. This document outlines the research for the Colmery Act which goes into effect on August 1, 2018.
-2. Background of Colmery Act. [Project readme here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Colmery%20Act%20Opt%20Out/Readme.md#user-problem-statement), [Kick-off meeting notes here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Colmery%20Act%20Opt%20Out/Kickoff%20Meeting%20notes.md)
+2. Background of Colmery Act. [Project readme here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/README.md), [Kick-off meeting notes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/kickoff-meeting-notes.md)
 3. Research questions:
     - What do Veterans currently know about what the Colmery Act information sharing requirements?
     - Do Veterans understand the benefits and drawbacks of opting out?
@@ -53,7 +53,7 @@ I anticipate the sessions would take no more than 30 minutes.
 - Observers: TBD
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Colmery%20Act%20Opt%20Out/Readme.md#user-problem-statement)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/opt-out/README.md)
 - Discussion Guide (link TBD)
 - Notes & Recordings (link TBD)
 - Synthesis: [Reframer here](https://www.optimalworkshop.com/a/adhoc/reframer/projects/d0fd6d1d-b4fb-435b-bb7b-f8074f3660d8)
