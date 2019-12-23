@@ -12,6 +12,6 @@ This document outlines technical and product decisions, rationale and timeline.
 
 The purpose of these documents provide a narrative of Facility Locator UX iterations and decisions: 
 
-- [September/October 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative.md#beginning-septemberoctober-2019)
-- [v1: November 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative.md#v1-november-2019)
+- [Beginning September/October 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-sept-2019.md)
+- [v1: November 2019](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-nov-2019.md)
 - [v2: December 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative.md#v2-december-2019)
