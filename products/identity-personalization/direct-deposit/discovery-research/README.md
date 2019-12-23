@@ -21,7 +21,7 @@ An overview of this feature's UX is showcased in these screenshots -
 4. [Edit Personal Information](https://images.zenhubusercontent.com/59cb9de1b0222d5de47953d8/1dc57681-51eb-497e-8a44-af9097c36e49)
 5. [Edit Personal Information -> Change direct deposit information](https://images.zenhubusercontent.com/59cb9de1b0222d5de47953d8/718ad0fb-fcbc-404e-8591-3e1205d2d2c5)
 
-_Note: These screenshots were collected via these [instructions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/EVSS%20Integration/eBenefits_test_accounts.md)._
+_Note: These screenshots were collected via these [instructions](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)._
 
 The caveat is not in the functionality itself, but rather that because eBenefits does not currently have multifactor authentication (MFA), it is not secured well. By porting this functionality to VA.gov, we can take advantage of VA.gov's MFA, as well as its modern UX and technology architecture.
 
@@ -55,16 +55,16 @@ To fully port the Direct Deposit functionality from eBenefits into VA.gov, we ne
 Researching this information is the core of this discovery effort.
 
 ### Compensation & Pension
-The payment methods associated with Compensation & Pensions are available via the EVSS service, [PPIU](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Data/Data-Services/EVSS/PPIU-Payment-Info), which stores data in [CorpDB](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Data/Databases#corpdb). PPIU exposes an endpoint for retreiving the bank account data for Compensation & Pension data, as well as updating it.
+The payment methods associated with Compensation & Pensions are available via the EVSS service, [PPIU](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS/ppiu-payment-info), which stores data in [CorpDB](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/corporate-db). PPIU exposes an endpoint for retreiving the bank account data for Compensation & Pension data, as well as updating it.
 
 The endpoint for retrieving this data is located at `GET [EVSS]/wss-ppiu-services-web/rest/ppiuServices/v1`. Vets-API has already wrapped this API in its own [controller](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/controllers/v0/ppiu_controller.rb) and has published this method at `[Vets-API]v0/ppiu/payment_information`. This method is already being consumed by the VA.gov Front-End as part of the pre-fill functionality of form [526EX](https://github.com/department-of-veterans-affairs/vets-website/blob/ca27b4377a965696b8804f5c92b0f41c6c572521/src/applications/disability-benefits/526EZ/helpers.jsx#L7640).
 
 PPIU also exposes a second endpoint used for updating this data located at `POST [EVSS]/wss-ppiu-services-web/rest/ppiuServices/v1`. Per this [comment](https://dsva.slack.com/archives/C1VBAHWQL/p1551731782045700), this PPIU method is available only in the VA INT environment. Vets-API has not implemented a wrapper for this method.
 
-There are also some Swagger docs available for [PPIU](https://csraciapp6.evss.srarad.com/wss-ppiu-services-web/swagger-ui/index.html). There are also additional [Swagger docs](https://csraciapp6.evss.srarad.com/wss-ppiu-services-web/swagger-ui/index.html?url=https://csraciapp6.evss.srarad.com/wss-ppiu-services-web/rest/swagger.yaml#!/ppiuServices/updatePaymentInfo), but those require [EVSS VPN](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/EVSS%20Integration#api-documentation) and a proxy to be setup.
+There are also some Swagger docs available for [PPIU](https://csraciapp6.evss.srarad.com/wss-ppiu-services-web/swagger-ui/index.html). There are also additional [Swagger docs](https://csraciapp6.evss.srarad.com/wss-ppiu-services-web/swagger-ui/index.html?url=https://csraciapp6.evss.srarad.com/wss-ppiu-services-web/rest/swagger.yaml#!/ppiuServices/updatePaymentInfo), but those require [EVSS VPN](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/evss-integration) and a proxy to be setup.
 
 ### Post-9/11 GI Bill
-At this time, it seems that the payment methods associated with the Post-9/11 GI Bill have not been exposed in a consumable service, although this is still being researched. According to this [document](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/635f35ad555d0cdac50667ac48c92fef2b719c64/Products/Platform/EVSS%20Integration/meeting-notes/2017-06-21-EVSS-Vets.gov-meeting-notes.md#pciu), this data is stored in _LTS Ch33_.
+At this time, it seems that the payment methods associated with the Post-9/11 GI Bill are stored in _LTS Ch33_ but have not been exposed in a consumable service, although this is still being researched.
 
 ## Additional Considerations
 
