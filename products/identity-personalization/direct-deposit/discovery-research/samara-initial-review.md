@@ -12,10 +12,6 @@
 - Bank Account Number
 - Confirm Bank Account Number
 
-### Screenshots
-
-[See issue #17099](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/17099#issuecomment-468023565) (__note: link points to vets.gov-team GitHub repo__).
-
 ## Questions
 
 1. Are there any benefits besides disability compensation, pension, and post-9/11 GI benefits to which someone could set up direct deposit?
