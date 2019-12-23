@@ -9,29 +9,28 @@ __Please note: many links in this document point to documents in the vets.gov-te
 
 ### Roles
 
-|Name|Role|Email|
-|----|----|-----|
-|Samara Strauss |Auth exp lead designer; Personalization 2.0 project lead| samara.strauss@va.gov |
-|Lisa Koenigsberg|Auth exp team lead| lisa.koenigsberg@va.gov |
-|Justin Pickett |Auth exp PM| jpickett@governmentcio.com |
-|Arthur Green |Auth exp designer| jpickett@governmentcio.com |
-|Erik Hansen | Auth exp FE engineer| erik@adhocteam.us |
-|Amen Ra | Auth exp FE engineer| ara@governmentcio.com |
-|Lihan Li | Auth exp BE engineer | lihan@adhocteam.us |
-|Tze-chiu Lei | VSA QA Analyst | tze@adhocteam.us |
+|Name|Role|
+|----|----|
+|Samara Strauss |Auth exp lead designer; Personalization 2.0 project lead|
+|Lisa Koenigsberg|Auth exp team lead|
+|Justin Pickett |Auth exp PM|
+|Arthur Green |Auth exp designer|
+|Erik Hansen | Auth exp FE engineer|
+|Amen Ra | Auth exp FE engineer|
+|Lihan Li | Auth exp BE engineer |
+|Tze-chiu Lei | VSA QA Analyst |
 
 ## The Problem
 
 There are four main problems with the Profile/Account 1.0 approach:
 
 1. **Confusion about the difference between Profile/Account** — We have observed that the difference between Profile and Account is either not as important or not as clear to VA.gov users as we thought it was. 
-  - During [user testing for the direct deposit feature](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Research%20Summary.md#we-need-to-make-it-easier-to-find-the-direct-deposit-tool), participants were split as to whether this functionality belonged in the Profile or made more sense on the Account page. 
-  - Through a [card sort](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Card%20sort/Research%20Summary.md#takeaways), we observed that participants overwhelmingly put features we currently have separated between the Profile and Account pages into one "Personal Information" section.
+  - During [user testing for the direct deposit feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/research-summary.md), participants were split as to whether this functionality belonged in the Profile or made more sense on the Account page. 
+  - Through a card sort, we observed that participants overwhelmingly put features we currently have separated between the Profile and Account pages into one "Personal Information" section.
 2. **Scaling** — Having separate Profile/Account pages has made it difficult to figure out where new features should live since there are often arguments for them to live in both sections.
 3. **Wayfinding** — We could do a better job of guiding users to the Profile/Account from outside those pages. 
 4. **Visual design** — We have not effectively employed [the design system](https://design.va.gov/). The Profile and Account pages are designed like content pages, so adding new content has made these pages extremely lenghty and hard to scan.
 
-For further elaboration on the problems that lead to this project, please see the [Personalization 2.0 Discovery: Summary and Strategy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md).
 
 ### User Goals
 
@@ -55,7 +54,7 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## Assumptions
 
-1. People don't care about the difference between Profile and Account as much as our internal team does. They think that features we have separated between each section could exist in one section. (This was supported [in discovery](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md#observations-profileaccount)).
+1. People don't care about the difference between Profile and Account as much as our internal team does. They think that features we have separated between each section could exist in one section. This was supported in discovery.
 2. Combining Profile and Account will make personal information and settings easier for people to find.
 3. Users will find the new combined Profile/Account to be more digestible if we divide sections in a side navigation.
 4. We need to add additional wayfinding throughout VA.gov to guide people to the new combined Profile/Account.
@@ -123,14 +122,8 @@ Other metrics are qualitative:
 
 #### Profile 
 
-[Additional profile 1.0 screenshots and design files](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Profile/Design)
-
-![Profile 1.0](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Design/Profile%20with%20direct%20deposit.png)
+![Profile 1.0](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit.png)
 
 #### Account
-
-[Additional account 1.0 screenshots and design files](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Account/Design)
-
-![Account 1.0](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Account/Design/Account-full-V2.png)
 
 ### After
