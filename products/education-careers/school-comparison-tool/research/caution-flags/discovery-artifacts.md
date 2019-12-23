@@ -14,13 +14,13 @@ Includes several concepts that we could explore for our work on the Search Resul
 * Design System: Warning Alert: https://design.va.gov/components/alertboxes#warning  
 
 *Figure 1: Example of a caution card for a medical facility*  
-![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)
+<kbd>![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)</kbd>
 
 *Figure 2: Medical facility variations*  
-![Medical facility variations](images/Medical-Facility-Caution-Card-Variations.png)  
+<kbd>![Medical facility variations](images/Medical-Facility-Caution-Card-Variations.png)</kbd>  
 
 *Figure 3: Comparison Tool Mobile Caution Cards*  
-![Comparison Tool Mobile Caution Cards](images/Comparison-Tool-Mobile-Caution-Cards.png)  
+<kbd>![Comparison Tool Mobile Caution Cards](images/Comparison-Tool-Mobile-Caution-Cards.png)</kbd>  
 
 
 
@@ -33,8 +33,8 @@ Includes several concepts that we could explore for our work on the Search Resul
 
 * Are you moving towards a singular, uniform display height for all cards regardless of the card's details? We have some schools with very long names that can wrap over 4 or 5 times on mobile displays. See examples below:
 
-![Comparison Tool Mobile Caution Cards](images/Cortiva.png) 
-![Comparison Tool Mobile Caution Cards](images/Dept-of-HS.png) 
+<kbd>![Comparison Tool Mobile Caution Cards](images/Cortiva.png)</kbd> 
+</kbd>![Comparison Tool Mobile Caution Cards](images/Dept-of-HS.png)</kbd> 
 
 
 #### School Profile Page
