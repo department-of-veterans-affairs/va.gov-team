@@ -45,15 +45,13 @@ All of the participants had trouble finding the direct deposit functionality. 3/
 **Recommendation**: Make the direct deposit functionality easier to find.
 
 To do:
-- Make sure eBenefits links to VA.gov once this functionality goes live. [Tracking in #19140](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19140)
-- Use the announcement banner on the homepage to promote this functionality once it goes live on VA.gov. [Tracking in #19142](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19142)
-- Add jump links to Profile, and update the "View your profile" description on My VA. [Tracking in #19147](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19147)
+- Make sure eBenefits links to VA.gov once this functionality goes live. 
+- Use the announcement banner on the homepage to promote this functionality once it goes live on VA.gov. 
+- Add jump links to Profile, and update the "View your profile" description on My VA. 
 
 Additionally, we should consider either moving the functionality to Account Settings or linking to Profile from Account Settings. Right now, we don't have editable forms in Account Settings, so this would set a new precedent if we move functionality there entirely. 
 
 ### "Connected Accounts" in Account Settings caused confusion.
-
-Fix in [#19229](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19229)
 
 A couple of participants assumed that direct deposit functionality would be found in the Connect Accounts section of Account Settings. However, they were confused when direct deposit wasn't there and when there was no clear way to connect an account on VA.gov. 
 
@@ -61,17 +59,11 @@ A couple of participants assumed that direct deposit functionality would be foun
 
 ### On the Profile, it is unclear that the "Bank name" field is updated by editting the routing number.
 
-Related tickets:
-- [#19149](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19149)
-- [#19156](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19156)
-
 We had one participant point out that they were expecting to see a field named "Bank name" when they opened the direct deposit edit form. Instead, they saw the "Routing number" field, which is how we determine the bank's name. This is confusing and inconsistent. The edit form should be more consistent with the read-only state.
 
 **Recommendation**: In the direct deposit edit form, make it clear that updating the routing number will update the bank name.
 
 ### The direct deposit form takes ~3 - 5 seconds to close, making it feel like the feature might be broken.
-
-[Fix in #19133](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19133)
 
 The direct deposit edit form takes a while to save. We gray out the "Update" button while this is happening, but don't show any other indication that we are processing this update. Some users started to get nervous the feature was broken because the update took so long. We probably can't do anything about how long this takes, but we can make it clearer that we are processing an update.
 
@@ -90,8 +82,6 @@ Participants easily found the CTAs to update direct deposit info for the GI Bill
 **Recommendations**: No changes, but we should move over direct deposit functionality for the GI Bill and other educational benefits if it's ever possible.
 
 ### Veterans want to be able to see what's available on a page without scrolling their browser window.
-
-[Adding jump links to profile in #19147](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19147)
 
 Everyone we talked to mentioned they don't want to have to sift through a lot of information, even headings, to see if the content they want is on a given page. While headings are a perfectly reasonable way to expect a user to browse for content, this audience group is perhaps extra sensitive to having to sift through information because the VA is so notorious for putting undue burden on Veterans to navigate this system.
 
