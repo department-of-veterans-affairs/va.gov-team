@@ -1,0 +1,27 @@
+# The diagram can be regenerated/updated at http://sequencediagram.org/
+
+title Single Logout(SLO)
+
+actor User
+participant Browser
+participant www.va.gov #B4D8E7
+participant api.va.gov #B4D8E7
+database Redis
+participant api.id.me #7cfc00
+note over Browser, www.va.gov: Pre-requisite: Browser has a valid session token
+autonumber
+User -> Browser: **Click Sign Out**
+Browser-> Browser:**Open popup window**
+Browser -> api.va.gov:**Ask API to Create a SAML Request **\nGET /sessions/slo/new\n[cookie  vagov_session=<TOKEN>]
+api.va.gov -> api.va.gov: **authenticate, Create SAML Logout Request**
+api.va.gov --> Redis: **Destroy User & Session**
+api.va.gov --> Browser:  **Return ID.me log out url and clear va.gov cookie**\n200-OK: {url: "https://api.idmelabs.com/saml/SingleLogoutService?SAMLRequest=..."} \n[set-cookie vagov_session=;]
+Browser -> api.id.me: **SAML Request to Identity Provider**\nGET /saml/SingleLogoutService?SAMLRequest=...
+api.id.me --> Browser:**Clear ID.me Cookie**\n200-OK SAMLResponse \n[set-cookie idme-session='']
+Browser -> api.va.gov: ** Pass SAMLResponse back to API**\nGET /auth/saml/logout?SAMLResponse=...
+api.va.gov -> api.va.gov: **Validate Signature**
+api.va.gov --> Browser: **Redirect to Front end logout page**\n302-Redirect: http://www.va.gov/logout
+Browser -> www.va.gov: **Get Logout Page**\nGET /logout
+www.va.gov --> Browser:**Return Logout Page**\n200-OK
+Browser-> Browser:**Close Popup Window and Refresh Main Page**
+User <-- Browser: **User Sees That\nThey Are Signed Out**

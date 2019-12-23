@@ -1,0 +1,1 @@
+This directory contains files created by a discovery team that was investigating in-person proofing efforts, needs, and possibilities in coordination with MHV.

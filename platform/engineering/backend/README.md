@@ -74,7 +74,7 @@ The following list is a set of resources compiled by the people in your practice
     - Frontend is a collection of React apps [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
     - vets-api syndicates data between various data sources and external service integrations to provide the various front-end [products](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products#products) with their requisite data
     - Authentication/Identification w/ [ID.me](http://id.me/)
-        - Login [flow](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/Auth/authentication_and_authorization.md)
+        - Login [flow](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/reference-documents/auth)
         - [ID.me integration doc](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ID.me.md)
 - External Service Partners (fka APIs)
 	- [List of Upstream Services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/upstream-services.md)

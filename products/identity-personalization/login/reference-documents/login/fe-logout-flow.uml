@@ -1,0 +1,27 @@
+@startuml
+autonumber
+
+title Vets-Website Logout Flow
+
+actor User
+participant "www.vets.gov"
+participant "api.vets.gov"
+participant "ID.me"
+
+note over User: This presumes the user is logged in.
+
+User -> "www.vets.gov": User clicks 'Sign Out' in header.
+"www.vets.gov" --> "api.vets.gov": DELETE https://api.vets.gov/v0/sessions [Token: ABCDwxyz]
+"api.vets.gov" --> "www.vets.gov": 200 {logout_via_get: "https://api.id.me/saml/SingleLogoutService?SAMLRequest=abcd1234..."}
+
+== Popup window opens ==
+
+"www.vets.gov" --> "ID.me": Navigates to https://api.id.me/saml/SingleLogoutService?SAMLRequest=abcd1234
+"ID.me" --> "ID.me": ID.me destroys user session.
+"ID.me" --> "www.vets.gov": https://www.vets.gov/logout?success=true
+"www.vets.gov" --> "www.vets.gov": Token removed from sessionStorage in parent window.
+
+== Popup window closes ==
+
+"www.vets.gov" --> User: Sign In | Register
+@enduml
