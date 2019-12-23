@@ -5,14 +5,20 @@
 Includes several concepts that we could explore for our work on the Search Results page and the School Profile page.
 
 #### Design artifacts
+* Warning message color: https://design.va.gov/design/color-palette (down the page) 
+* Feedback icons: https://design.va.gov/design/icons#feedback (warning)
+* Design System: Warning Alert: https://design.va.gov/components/alertboxes#warning  
+
 ![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)  
 *Figure 1: Example of a caution card for a medical facility*  
 
 ![Medical facility variations](images/Medical-Facility-Caution-Card-Variations.png)  
-*Figure 1: Medical facility variations*  
+*Figure 2: Medical facility variations*  
 
 ![Comparison Tool Mobile Caution Cards](images/Comparison-Tool-Mobile-Caution-Cards.png)  
-*Figure 1: Comparison Tool Mobile Caution Cards*  
+*Figure 3: Comparison Tool Mobile Caution Cards*  
+
+
 
 ## Questions for stakeholders
 
