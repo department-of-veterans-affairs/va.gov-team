@@ -25,7 +25,7 @@ Creation of the initial logged in experience:
 
 #### Goals of personalization 2.0
 
-- Clean up the personalized pages so they are easier to use, find, and navigate (as outlined in the [personalization 2.0 discovery](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20&%20Research/Personalization%202.0%20Discovery%20Summary%20&%20Strategy.md).
+- Clean up the personalized pages so they are easier to use, find, and navigate (as outlined in the personalization 2.0 discovery).
 - Integrate features from eBenefits (note: this work will be done by the eBenefits team and not the authenticated experience team, though we'll work with the eBenefits team to make sure our efforts are coordinated).
 - Create something that will scale as features are integrated.
 
