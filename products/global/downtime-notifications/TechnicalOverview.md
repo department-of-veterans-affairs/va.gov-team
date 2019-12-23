@@ -2,7 +2,7 @@
 
 This service gives front-ends the ability to lookup whether or not there's a current or upcoming known downtime for a given backend. PagerDuty is the source of truth for this data, but we cache this data inside the vets-api database. There's a Sidekiq job which polls for PagerDuty maintenance windows for a list of services in the environment, which polls every 3 minutes.
 
-![Downtime Notifications Technical Diagram](DowntimeNotifications.png)
+![Downtime Notifications Technical Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/downtime-notifications/DowntimeNotifications.png)
 
 ## Setting up a new service
 
