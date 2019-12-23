@@ -5,7 +5,7 @@
 Includes several concepts that we could explore for our work on the Search Results page and the School Profile page.
 
 #### Design artifacts
-![Example of a caution card for a medical facility](images/Medical Facility Caution Card.png)  
+![Example of a caution card for a medical facility](images/Medical-Facility-Caution-Card.png)  
 *Figure 1: Example of a caution card for a medical facility* 
 
 ## Questions for stakeholders
