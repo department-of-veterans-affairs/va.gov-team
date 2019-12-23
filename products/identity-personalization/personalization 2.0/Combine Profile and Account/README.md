@@ -19,6 +19,7 @@ __Please note: many links in this document point to documents in the vets.gov-te
 |Amen Ra | Auth exp FE engineer|
 |Lihan Li | Auth exp BE engineer |
 |Tze-chiu Lei | VSA QA Analyst |
+|Jennifer Strickland | VSA Accessibility Specialist, designer |
 
 ## The Problem
 
