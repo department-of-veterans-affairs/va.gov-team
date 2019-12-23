@@ -127,8 +127,7 @@ _Are other features dependent on this one? What do we need from partners? What d
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
-## Facility Locator Solution UX Redesign Narratives
-
+**Facility Locator Solution UX Redesign Narratives**
 The purpose of these documents provide a narrative of Facility Locator UX iterations and decisions: 
 
 - [Beginning September/October 2019](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/solution-narrative/ux-redesign-narrative-sept-2019.md)
