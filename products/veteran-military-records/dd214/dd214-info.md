@@ -11,7 +11,7 @@
 
 # Fields
 
-**Looks like a good source of this information is Sheet14:getDD214 of [eMIS_VADIR_xsd_Mapping...](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/SiP-Prefill/Prefill/eMIS_Integration/eMIS_Documents/eMIS_VADIR_xsd_Mapping_V3%2020161115.xlsx)
+**Looks like a good source of this information is Sheet14:getDD214 of [eMIS_VADIR_xsd_Mapping...](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/sip-prefill/emis-integration/emis-documents/emis-vadir-xsd-mapping-v3-20161115.xlsx)
 ## DD FORM 214-AUTOMATED, FEB 2000
 [*Source*](http://thisainthell.us/blog/wp-content/uploads/2008/12/millard-dd214.jpg)
 
