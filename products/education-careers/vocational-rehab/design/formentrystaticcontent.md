@@ -3,11 +3,11 @@
 
 
 #### Proposed update:
-![Application Process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Design/021618_Application%20Process.png "Rough proposal")
+![Application Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/vocational-rehab/design/021618-application-process.png)
 
 #### Existing page: 
 https://staging.vets.gov/employment/vocational-rehab-and-employment/apply-vre/
-![Existing](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Design/screenshot-staging.vets.gov-2018.02.16-08-26-23.png)
+![Existing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/vocational-rehab/design/screenshot-staging.vets.gov-2018.02.16-08-26-23.png)
 
 #### Remaining questions:
 - Do we need another static content page explaining what Chap 36 & Chap 31 are?
