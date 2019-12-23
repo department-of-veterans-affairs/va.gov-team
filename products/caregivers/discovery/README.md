@@ -56,7 +56,7 @@
 
 - VA Digital Strategist(s): David Bao
 - Product Manager: Scott Yaroschuk
-- Design Lead: Riley Orr, Jennifer Strickland
+- Design Lead: Riley Orr (support: Jennifer Strickland)
 - Eng Lead: 
 - Engineers: Jesse Cohn, Brett Kippes
    
