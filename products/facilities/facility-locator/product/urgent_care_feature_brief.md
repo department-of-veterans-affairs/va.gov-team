@@ -3,16 +3,27 @@
 
 This document will focus on the MVP for the Facility Locator UX redesign: Community Care/Urgent Care. 
 ## Table of Contents
+
 [User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#user-journey)
+
 [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#user-stories--use-cases)
+
 [Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#project-rationale)
+
 [Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#project-scope-and-scale)
+
 [Not in Scope](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#not-currently-in-scope)
+
 [Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#measuring-success)
+
 [Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#dependencies)
+
 [Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#risk-factors)
+
 [Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#rejected-solutions)
+
 [Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#definition-of-done)
+
 [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md#key-links)
 
 ### User Journey
@@ -47,6 +58,7 @@ _Why should this project be a priority?_
 
 ### Project Scope and Scale
 _What's in and what's out?_
+
 **MVP**
 - Iteration incorporates previous community and urgent care research, Facility Locator discovery research and feedback
 - Veterans are assisted in understanding the sub-type choices for urgent care and are able to determine which facility type meets their current need.
@@ -78,12 +90,14 @@ To address the following user stories:
 
 ### Measuring Success
 _How will we know if we are successful?_
+
 **Objective: Reform Community Care Implementation**
   - Key Result #1: The rate of search refinements for Community Care will be at parity with VA facility searches by July 1, 2020. 
   - Key Result #2: All urgent care searches will be performed using the modernized Facility Locator by February 2, 2020.  
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
+
 **Team/Internal dependencies**
   -  Ability to differentiate among facility sub-types is access dependent.
   - Comprehensive QA strategy requires lower environment with PPMS data for testing. 
