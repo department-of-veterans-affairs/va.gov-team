@@ -7,5 +7,7 @@ Includes several concepts that we could explore for our work on the Search Resul
 ## Questions for stakeholders
 
 #### Search Results Page
+* ...
 
 #### School Profile Page
+* ...
