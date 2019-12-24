@@ -131,12 +131,12 @@ _VA.gov CMS team: Lapedra Tolson_
 #### August 14 - 16: GIBCT Sec 107, Round 3 Moderated Usability Testing 
 *Booz Allen: Amy Knox*
 - 8-10 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20107/GIBCT%20107%20Research%20Plan%20Round%203.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec-107/gibct-107-research-plan-round-3.md)
 
 
 #### Auguts 5 - 16: Personalization 2.0 Separating Service Member Interviews **
 - 5 participants 
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19319)
+- Research Plan
 
 #### August 5 - 12: VSP Onboarding - Round 2 (VSA) **
 *VSP Platform Support: Layla Soileau*
@@ -151,34 +151,34 @@ _VA.gov CMS team: Lapedra Tolson_
 
 #### July 10-11: Automation Impact on 526 Usability **
 - 8 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/2019-07-automation/research_plan-unicorns_526_automation.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jul-2019/research-plan-unicorns-526-automation.md)
 
 
 #### July 9 - 10: GIBCT 107 Remote Moderated Usability Testing **
 *Booz Allen: Amy Knox, Theresa McMurdo*
 - 10 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20107/GIBCT%20107%20Research%20Plan.md)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec-107/gibct-107-research-plan.md)
 
 #### July 8-15: Education End-to-End Experience Usability Testing **
 - 22 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Research/July-2019/End-to-End)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/research)
 
 #### July 8-12: Dashboard 2.0 interviews
 *Dragons/Personalization: Samara Strauss*
 - 6 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Dashboard/Dashboard%202.0/Discovery%20%26%20Research/Discovery/User%20Interviews)
+- Research folder
 
 #### July 8-10: Usability Research - GIBCT Colmery Sec 107 - Schools, Branches & Extensions 
 *BAH Team, Research Lead: Amy Knox, Theresa McMurdo*
 - 6-8 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20107)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec-107)
 
 ### June 2019
 
 #### June 20 to July 3 2019: Usability Feedback Sessions - Discovery for MVP AMA Forms Veteran Facing tool.
 *Research Lead: Carola Ponce. Product Lead: Steve Kovaks*
 - We talked to 12 Veterans, 8 men and 4 women.
-- [Discovery Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Decision%20Reviews/Research%20and%20Design/discovery_notes.md)
+- [Discovery Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/research)
 
 #### June 24-28: Direct deposit usability testing 
 *Dragons/Personalization: Samara Strauss*
@@ -202,12 +202,12 @@ _VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, R
 #### June 20-July 3: Appeals Higher Level Review Discovery Research 
 *Appeals Team, Research Lead: Carola Ponce*
 - 20 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Decision%20Reviews/Research%20and%20Design/research-discovery.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/research/research-discovery.md)
 
 #### June 19-July 2: Urgent Care Usability Study (Under the Mission Act) 
 *DSVA Design/Research, Research Lead: Kevin Hoffman*
 - 7 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/readme.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/community-care/urgent-care/research/jun-2019)
 
 #### June 17-24: Education Product Health Dashboard MVP 
 *Platform Analytics & Insights Team, Research Lead: Layla Soileau*
@@ -222,12 +222,12 @@ _VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, R
 #### June 17-19: HCA Dashboard updates UAT 
 *Dragons/Personalization: Samara Strauss*
 - 4 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/UAT/Dashboard%20UAT)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application)
 
 #### June 14-18: Usability Research VET TEC Course Comparison using the GIBCT, Round 2 
 *BAH Team, Research Lead: Amy Knox, Theresa McMurdo*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Prototype%20Research%20June%202019)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/colmery-act-2019/research)
 
 #### June 10-23: Exploration of Veterans Perspectives of their VA Health Data - In-person & Remote
 *VEO Team, Research Lead: Jane Newman*
@@ -237,7 +237,7 @@ _VA.gov CMS team: Meghana Khandekar, Ryan Sibley, Lapedra Tolson, Jane Newman, R
 #### June 3-4: Usability Research VetTec Course Comparison using the GIBCT
 *BAH Team, Research Lead: Amy Knox, Theresa McMurdo*
 - 5 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Prototype%20Research%20June%202019)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/colmery-act-2019/research)
 
 ### May 2019
 
@@ -281,27 +281,25 @@ _VA.gov CMS team: Meghana Khandekar, Kate Saul, Eric Chiu_
 #### April 10 – 15: HCA dashboard updates user testing
 *Dragons, Research Lead(s): Samara Strauss*
 - 5 participants
-- [Project Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/181023HCAChanges.md)
-- [Discussion Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Conversation%20guide.md)
-- [Synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Research%20summary.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application)
 
 ### March 2019 
 
 #### March 27-29: Platform Research
 *Platypus team, Research Lead: Emily Waggoner*
 - 9 Participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Platform-Support/research/documentation-research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/documentation-site/research)
 
 #### March 25-29: 526 Usability 
 *Unicorns Team, Research Lead: Alex Taylor*
 - 6 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research)
 
 #### March 11 - 20: Sign In + Assistive Technology
 *Griffins Identity team, Research Lead: Layla Soileau*
 - 7 participants
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Login/Research/508_Usability_Study)
-- [Results summary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Research/508_Usability_Study/results_summary.md)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)
+- [Results summary](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)
 
 #### March 6-12: HCA 2.0 Dupes Usability Testing 
 *DSVA: Samara Strauss*
@@ -311,8 +309,8 @@ _VA.gov CMS team: Meghana Khandekar, Kate Saul, Eric Chiu_
 #### March 6-11: VetTec UAT Round 2 
 *BAH Platform Team, Research Lead: Desiree Turner* 
 - 6 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research/0994%20Research%20Plan%20-%20%20Round%202%20.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/vettec-0994/research)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/research/0994-research-plan-round-2-.md)
 
 #### March 5, 2019: AX Study 1
 
@@ -330,16 +328,13 @@ _VA.gov CMS team: Eileen Webb, Kevin Walsh_
 #### March 5-9: Health Care Application (HCA) 2.0 Dupes Usability
 *Dragons Team, Research Lead: Samara Strauss* 
 - 9 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Research%20plan.md)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Conversation%20Guide.md)
-- [Research Summary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Research%20Summary.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application)
 
 #### March 4-8: VetTec UAT (Rescheduled this for March) 
 *BAH Platform Team, Research Lead: Desiree Turner*
 - 1 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research/0994%20Research%20Plan%20-%20%20Round%202%20.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/research)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/research/0994-research-plan-round-2-.md)
 
 #### March 4-13, 2019: OPIA-Administration - discovery
 
@@ -372,8 +367,8 @@ _VA.gov CMS team: Jodi Leo, Eric Chiu, Meghana Khandekar_
 #### February 1-25: 526 Modernization Add a New Condition
 *Unicorns, Research Lead: Katelyn Caillouet & Alex Taylor*
 - 14 Veterans thus far
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/february-2019)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/february-2019/research-plan.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/feb-2019)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/feb-2019/research-plan.md)
 
 #### February 19-22: Mission Act Community Care Sprint 
 *Mission Act Community Care Sprint Team 2: Sheri Trivedi (OMB) and Lauryn Fantano (DDS)*
@@ -395,8 +390,8 @@ _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 #### February 5-8: BAH VetTec Discovery 
 *BAH Platform Team, Research Leads: Amy Knox & Theresa McMurdo*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Research/0994%20Research%20Plan.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/research)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/research/0994-research-plan.md)
 
 ### January 2019
 
@@ -414,8 +409,8 @@ _CMS and Website Teams, Research Leads: Jeff Barnes & Mikki Northius_
 #### January 22-31: Appeals Status V3 
 *Appeals Team, Research Leads: Annie Nguyen & Allyce Husband* 
 - 9 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/V3)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/V3/User_Research/Research_Plan.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v3)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/v3/research-plan.md)
 
 #### January 14-18: Discovery Upload Tool 
 *API Team, Research Leads: Ian Hilton & Julia Elman* 
@@ -441,13 +436,13 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### November 13-15: Round 2 - Self-Service Tools CTAs
 *Griffin, Research Lead: Layla Soileau*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/SSO/Research/Round%202-%20Self-Service%20Tools%20CTAs)
+- Research Folder
 
 #### November 6-16: GI Bill Statement of Benefits Wizard
 *Rainbows, Research Lead: Katelyn Caillouet*
 - 6 Veterans completed
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Post-911%20GI%20Bill%20Statement%20of%20Benefits/research/Oct%202018%20Research)
-- [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Post-911%20GI%20Bill%20Statement%20of%20Benefits/research/Oct%202018%20Research/research-plan-110718.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits/research)
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/statement-of-benefits/research/research-plan-110718.md)
 
 ### October 2018
 #### October 22-26: Brand Consolidation Preview.VA.gov Remote Testing with VA-Veterans (WBC Study 8) 
@@ -463,12 +458,12 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### October 8-12: Health Care Application Duplicate Research 
 *Not Affiliated With a Team, Research lead: Samara Strauss*
 - 7 Veterans who have submitted multiple applications for health care on Vets.gov 
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/Research/Duplicate%20HCA%20Submissions) 
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application) 
 
 #### October 8-10: 526 Application 
 *Unicorns Team, Research Lead: Alex Taylor*
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/2018-09-or-maybe-10)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/sep-oct-2018)
 
 ### September 2018
 
@@ -481,7 +476,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 *Griffins Team, Research Lead: Layla Soileau*
 - 7 Veterans
 - We talked to Veterans about logging in to VA.gov with MyHealtheVet, DS Logon, and ID.me. The participants evaluated the content and designs of various contextual messages and workflows that users may encounter when attempting to access various health tools.
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/SSO/Research): Includes plan, conversation guide, session notes, and summary
+- Research Folder
 
 #### September 7-18: APIs - VA and USA Jobs 
 *API Team, Research Lead: Julia Ellman*
@@ -491,7 +486,7 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### September 4-5: Benefits Recommendations 
 *Dragons Team | Research Lead: Samara Strauss* 
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research/User%20Testing)
+- Research Folder
 
 ### August 2018
 
@@ -505,42 +500,40 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 
 *Dragons Team | Research Lead: Samara Strauss*
 - 128 participants
-- [Reearch Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research/Chalkmark%20Testing)
-- [Research Summary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Recommendations/Research/MVP%20Research/Chalkmark%20Testing/Results%20Summary.md)
-- Chalkmark test that evaluated initial copy written for the [Find VA Benefits](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12461) page.
+- Reearch Folder
 
 #### August 15 - August 17: Veteran ID Card landing page - Content and design evaluation
 
 *Rainbows Team, Research Lead: Emily Waggoner*
 - 8 Veterans
 - We spoke to Veterans about their experiences with Veteran identification cards, and had them evaluate the content and design of the Veteran ID Card landing page.
-- [Research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Veteran%20Identification%20Card%20v2/Landing%20Page%20-%20Aug%202018/research): Includes plan, conversation guide, session notes, and summary
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/landing-page): Includes plan, conversation guide, session notes, and summary
  
 #### August 2: Benefit Recommendations research at the Pentagon
 
 *Dragons Team | Research Lead: Samara Strauss*
 - 4 service members, 2 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Discovery/User%20Research/August%202018%20DDS%20research)
+- Research Folder
 - We spoke to 4 service members and 2 veterans about their perceptions and expectations around being asked "what benefits are you interested in?"
 
 #### August 1: Handbook Project - AbleVets Community Care Locator Alpha Phase Remote Usability Testing
 *AbleVets Handbook Team*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Facilities_Locator/community_care/2_alpha) 
+- Research Folder
 
 ### July 2018
 
 #### July 14-16: Disability Claims (526), Self-Service Claims for Increase @ DAV Conference (Reno, NV)
 *Unicorns Team, research lead: Melissa Schaff*
 - 25 Veterans/VSOs/other stakeholders
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/july-2018)
-- [Veteran Interviews/Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/july-2018/Participant%20Notes)
-- [NSO Interviews/Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/july-2018/NSO%20Notes)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jul-2018)
+- [Veteran Interviews/Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jul-2018/participant-notes)
+- [NSO Interviews/Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jul-2018/nso-notes)
 
 #### July 15-16: Colmery Act Usability Testing
 *Rainbows Team, research lead: Emily Waggoner*
 - 7 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Colmery%20Act%20Opt%20Out/Research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/opt-out/research)
 
 #### July 12-16: Brand Consolidation Tree Test 2
 *Merger Team, research lead: Jeff Barnes*
@@ -550,19 +543,19 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### July 12-16: Benefits Recommendations Discovery
 *Dragons Team, research lead: Samara Strauss*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Recommendations/Discovery/User%20Research)
+- Research Folder
 
 ### June 2018
 
 #### June 26, 2018: Handbook Project - AbleVets Community Care Facility Locator Discovery
 *AbleVets Handbook Team* 
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Facilities_Locator/community_care/1_discovery)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/community-care/urgent-care/research)
 
 #### Week of June 25: GI Bill Complaint Tool Discovery
 *Civic Digital Fellows Team + Rainbows Team, research lead: Natalie Moore & Mariam Maranja*
 - 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/GI%20Bill%20Complaint%20Tool/Discovery%20Phase/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-feedback-tool/research)
 
 #### June 18 - 20: Brand Consolidation Navigation Tree Test
 *Merger Team, research lead: Jeff Barnes*
@@ -572,136 +565,119 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### Week of June 18: 686 Usability Research Round 2
 *Rainbows Team, research lead: Emily Waggoner* 
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/research/june-2018)
 
 #### June 4-8 - MHV Login Flows for ID.me
 *Griffins Project, research lead: Liz Hunt*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Login/User%20Login/research/PI7) 
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/user-login/research) 
 
 ### May 2018
 
 #### May 2-11 - UAT on Personalization MVP
 *Dragons Project, research leads Lauren Alexanderson + Mel Woodard*
 - 8 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/research/uat_mvp_may2018)
+- Research Folder
 
 #### May 9-19 - Baseline Testing pre: Rebranding
 *Merger Project, research lead: Mike Eng*
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Programs/Merger/Research/2018-May)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/merger/may-2018)
 
 #### mid-May 2018 - Accessibility Research
 *Nebula Project, research lead: Elissa Frankle Olinsky*
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Vets.gov%20Platform/Accessibility/May%202018%20Research)
+- Research Folder
 - [Link and Button Usability for Assistive Devices](https://github.com/department-of-veterans-affairs/vets-website/blob/master/docs/LinksAndButtons.md)
 
 #### May 29-30, 2018 - Notifications Research
 *Rainbows Team, research lead: Samara Strauss*
 - 3 Veterans 
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/May%202018_Notes)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)
 
 ### April 2018
 
 #### Week of 4/23 - 686 Usability Testing Round 1
 *Rainbows Team, research leads: Judy Spiegel and Elissa Olinsky* 
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20April%202018)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/research/april-2018)
 
 #### April 17 - 25: Brand Consolidation Homepage Design User Research
 *Merger Team, research lead: Jeff Barnes*
 - 19 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-3)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/merger)
 
 #### April 10-20 - 526-Full Usability
 *Unicorns Project, research leads: Alex Taylor and Mike Eng*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/march-2018)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/mar-2018)
 
 #### April 9-13 - Social Work and Suggestion Box usability
 *Nebula Project, research lead: Elissa Olinsky*
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Social%20Work)
-- Information on [Social Work project](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Social%20Work)
-- Planning Issues: [Social Work](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/8482) | [Suggestion Box](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9328)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Social%20Work/Conversation%20Guide%20-%20social%20work%20usability.md)
-- Prototypes: [Suggestion Box](https://vetsgov-pr-7440.herokuapp.com/), [Social Work](https://vetsgov-pr-7384.herokuapp.com/)
-- [Research notes](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Social%20Work/Social%20Work%20Usability)
-- Synthesis
-- Report
+- Research Folder
 
 #### April 5 - 20: Brand Consolidation "Other Resources" Card Sort
 *Merger Team, research lead: Jeff Barnes*
 - 155 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-1)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/merger)
 
 #### April 5 - 20: Brand Consolidation Benefit Lifecycle Card Sort
 *Merger Team, research lead: Jeff Barnes*
 - 240 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/user-research/study-2)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/merger)
 
 #### April 2-6 - Personalization MVP Usability
 *Dragons Project, research lead: Samara Strauss*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/research/April%202018%20usability)
-- [Information on Personalization MVP research](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/research_tracking.md)
-- [Planning Issue](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9412)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Discovery/User%20Research/Conversation%20Guide%20%E2%80%93%20Profile,%20Dashboard,%20Settings%20MVP.md)
-- [Prototype](https://adhoc.invisionapp.com/share/BVGK3495628#/screens/287522463)
-- [Research notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/research_notes_recordings.md)
-- [Report](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Outline%20%E2%80%94%20Research%20Readout.md)
+- Research Folder
 
 ### March 2018
 
 #### Mar/Apr - MHV Upgrade
 *Griffing Team, Research Lead: Mike Eng, moderated by Mike Eng*
 - 8 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/MHV%20Account%20Creation/MHV%20Upgrade/Research)
+- Research Folder
 
 #### March 12-16 - Notifications Research
 *Dragons Team, Research Lead: Samara Strauss, moderated by Elissa Frankle Olinsky*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/March2018_Notes)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications)
 
 #### March 7-9 - VR&E Usability Research
 *Rainbows Project, research leads: Mike Eng & Elissa Frankle Olinsky. This study was cut short due to stakeholder blocker issues.*
 - 4 Veterans
-- [VR & E research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research)
-- [March 2018 notes](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research/March2018_notes)
+- [VR & E research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab/research)
+- [March 2018 notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab/research/mar-2018)
 
 #### Personalization Card Sort (Mar 8-14)
 *Dragons Project, research lead: Mel Woodard, synthesis by Elissa Olinsky*
 - 18 participants
-- [Concepts tested](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Discovery/User%20Research/Card%20Sort%20Concepts.md)
-- [Card sort results (Optimal Workshop)](https://www.optimalworkshop.com/a/adhoc/optimalsort/results/371946#/t/overview)
-- [Card sort results (xlsx)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Discovery/User%20Research/rough%20numbers%20personalization%20card%20sort.xlsx)
-- [Synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Discovery/User%20Research/Top-level%20synthesis%20of%20personalization%20card%20sort.md)
 
 ### January 2018
 
 #### January 16-20 - Usability Testing Claims for Increase Prototype
 *Unicorns Team, research leads: Mike Eng & Alex Taylor*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/january-2018/Notes)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/jan-2018)
 
 #### January 9-22 - Education Benefits Information Architecture
 *Nebula Team, research lead: Mikki Northius & Elissa Olinsky*
 - Card Sort
 - 10 unmoderated participants, 3 moderated
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Information%20Architecture/Education%20IA)
+- Research Folder
 
 #### Veteran ID Card Discovery (Jan 2-12) & Usability (Jan 22-26)
 *Rainbows Team, research lead: Lauren Alexanderson*
 - Discovery: 7 Veterans
 - Usability: 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Veteran%20Identification%20Card%20v2/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/research)
 
 #### Jan 16-20 - VR and E Research:
 *Rainbows Team, research lead: Elissa Frankle Olinsky*
 - This round: 5 Veterans. 
-- [VR & E research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research)
-- [Research Folder: January Recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research/Jan2018_Recordings)
+- [VR & E research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab/research)
+- [Research Folder: January 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab/research/jan-2018)
 - (Note: This research has been a bit start-and-stop due to stakeholder blockers)
 
 ### December 2017
@@ -709,14 +685,14 @@ _VA.gov CMS team: C.M. Kennedy, Stephanie Lawrence_
 #### December 6-21: Scheduling Accessibility/Usability Research
 *Scheduling Sprint Team, research leads: Jeff Barnes & Lauren Alexanderson*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Scheduling/research/access-usability/research-notes)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research/2017-studies/access-usability)
 
 #### Homepage Refresh Usability Research
 
 *Kudos Team, research lead: Paris Martin*
 
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Archive/vets.gov%20homepage/Research)
+- Research Folder
 - [Research notes](https://www.optimalworkshop.com/a/adhoc/reframer/projects/11796/themes/55661)
 Majority synthesis done post-its
 
@@ -725,19 +701,19 @@ Majority synthesis done post-its
 #### Week of November 6, 2017: Discharge Upgrade Wizard
 *Kudos Team, research lead: Natalie Moore*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Discharge%20Update/Research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
 
 ### October 2017
 
 #### September 29-October 5: VR&E Research
 *Rainbows Team, research lead: Elissa Frankle Olinsky*
 - 3 Veterans
-- [VR & E research folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Careers%20and%20employment/Voc%20Rehab%20and%20Employment/Research)
+- [VR & E research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/vocational-rehab/research)
 
 #### October 24-31: Scheduling Disoverability Research
 *Scheduling Sprint Team, research lead: Lauren Alexanderson, moderated by Melissa Schaff*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Scheduling/research/discoverability)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research/2017-studies/discoverability)
 
 ### September 2017
 
@@ -747,23 +723,20 @@ Majority synthesis done post-its
 
 - 10 VSOs (from 7 unique VSOs)
 - 5 VA SMEs
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/discovery/2017%20VSO%20Discovery/research)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/discovery/2017%20VSO%20Discovery/research/VSO%20interview%20template.md)
-- [Discovery Sprint Output](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/discovery/2017%20VSO%20Discovery/output)
-- [VSO Disability Claim Journey Map
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-vso)
+- [Discovery Sprint Output](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-vso/output)
+- [VSO Disability Claim Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-vso/output/journey-map)
 
 #### September 15-26: eBenefits Usability Claim for Increase
 
 *Unicorns Team, Research Lead: Laura Cochran*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/research/september-2017/eBen-usability)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research/sep-2017)
 
 #### September 9-14: Vets.gov Baseline Research
 *Sitewide initiative, research lead: Elissa Frankle Olinsky* 
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Vets.gov%20Platform/Baseline%20Research)
-
-- ](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/discovery/2017%20VSO%20Discovery/output/journey%20map/VSO%20Journey%20-%20Disability%20Claim%20-%2011x17%20-%2010.20.17.pdf)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-vso/output/journey-map/vso-journey-disability-claim-11x17-10.20.17.pdf)
 
 ### August 2017
 
@@ -771,21 +744,14 @@ Majority synthesis done post-its
 *Kudos Project, research lead:*Elissa Olinsky*
 - Round 1 - 5 Veterans
 - Round 2 - 5 Veterans
-- Information on [Login Flow Improvements](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/User%20Login/discovery/pre-PI7/Project%20Brief.md)
-- [Planning Issue](https://github.com/department-of-veterans-affairs/vets.gov-research/issues/180)
-- Conversation Guides: [Round 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Research/Conversation%20Guide%201.md), [Round 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Research/Conversation%20Guide%202.md)
-- Prototypes: [Round 1](https://marvelapp.com/65gj0ab), [Round 2](https://marvelapp.com/28821fc)
-- Research notes: [Round 1](https://www.optimalworkshop.com/a/adhoc/reframer/projects/10198/themes/55663), [Round 2](https://www.optimalworkshop.com/a/adhoc/reframer/projects/10570/themes/55662)
-- Synthesis: [Round 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Research/Round%201%20Next%20Steps.md)
-- Report: [Round 1 readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Research/Identity%20Research%20Readout%20-%20Round%201.pptx), [ID.me Round 1 readout](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Research/ID.me%20Vets.gov%20Usability%20Feedback%20Final%208.8.2017.pdf)
 
 #### August 17: 526/Disability Compensation, Veterans
 *Discovery Sprint: Unicorns Team, Research Lead: Melissa Schaff*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/discovery/2017-discovery-sprint/research)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/august-2017/080817/Moderator%20Guide_Template.md)
-- [Discovery Sprint Output](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/discovery/2017-discovery-sprint/output)
-- [Veteran Disability Claim Journey Map](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/discovery/2017-discovery-sprint/output/journey-map/Veteran%20Journey%20-%20Disability%20Claim%20-%2011x17%20-%20Anonymous%209.4.17.pdf)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-discovery-sprint)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/aug-2017/moderator-guide-template.md)
+- [Discovery Sprint Output](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/discovery/2017-discovery-sprint/output)
+- [Veteran Disability Claim Journey Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/discovery/2017-discovery-sprint/output/journey-map/veteran-journey-disability-claim-11x17-anonymous-9.4.17.pdf)
 
 ### July 2017
 
@@ -794,119 +760,92 @@ Majority synthesis done post-its
 *Unicorns, Laura Cochran*
 
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/VA%20Documents%20and%20Letters/research) 
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/documents-and-letters) 
 
 ### June 2017
 
 #### June 21-27 - Pre-Need
 *Kudos Team, Research Lead: Natalie Moore*
 - 4 Veterans 
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery/Conversation-Guide-1.md) 
-- [Design Discovery](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery/design-discovery.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need/discovery)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/discovery/conversation-guide-1.md) 
+- [Design Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/discovery/design-discovery.md)
 - Prototypes [FL One](https://marvelapp.com/i08i22g/)
-- [Discovery brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery/DiscoveryProjectBrief.md)
-- [Full notes participant one](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery/user-research-session-1.md), [participant two](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery/user-research-session-2.md), [participant three](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery/user-research-session-3), [participant four](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Burials%20and%20memorials/Pre-Needs-Burial/Discovery/user-research-session-4)
+- [Discovery brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/discovery/discoveryprojectbrief.md)
+- [Full notes participant one](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/discovery/user-research-session-1.md), [participant two](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/discovery/user-research-session-2.md), [participant three](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/discovery/user-research-session-3.md), [participant four](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/pre-need/discovery/user-research-session-4.md)
 
 #### June 1-5 - Save in Progress
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/SiP-Prefill/SiP-Discovery/research)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/SiP-Prefill/SiP-Discovery/research/2-saving-progress-conversation-guide.md) 
-- [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/SiP-Prefill/SiP-Discovery)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/sip-prefill/discovery)
 - Prototypes [Desktop](https://marvelapp.com/2hj59b1/screen/28358370), [Mobile](https://marvelapp.com/39bhc7f/screen/28363080)
 
 #### May 31-June 9 - Appeals Status Testing Round 3
 *Research lead: Natalie Moore*
 - 6 Veterans
 - [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/Research)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Research/ConversationGuide3.md)
-- [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Research/ResearchFindings3.md)
+
 
 ### May 2017
 
 #### Late May - Pensions Formative Research
 *Rainbows Team, Research Lead: Alex Taylor*
 - 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Pension/Pension%20527EZ/research/formative)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension/research)
 
 #### May 17-24 - Usability Testing VA Letters
 *Research Lead: Laura Cochran*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/VA%20Documents%20and%20Letters/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/documents-and-letters)
 - Prototypes [Mockup](https://marvelapp.com/2jaea53/screen/29132668), test on staging
-- [Research brief](https://github.com/department-of-veterans-affairs/vets.gov-research/issues/177)
+
 
 #### May 15-18 - Rx Tracking and MHV Account Creation Usability
 *Kudos Team, Research Lead: Natalie Moore*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/MHV%20Account%20Creation/Research)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/MHV%20Account%20Creation/Research/Conversationguide2.md)
-- [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/MHV%20Account%20Creation/Research/Research%20Findings2.md)
-- [Research brief](https://github.com/department-of-veterans-affairs/vets.gov-research/issues/147)
+- Research Folder
 
 #### May 10-12 - GI Bill Enrollment Status
 *Unicorns Team, Research Lead: Laura Cochran*
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Post-911%20GI%20Bill%20Statement%20of%20Benefits/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits/research)
 
 #### May - Appeals Usability Testing Round 2
 *Research lead: Natalie Moore*
 - 2 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/Research)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Research/ConversationGuide2_4-17-17.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status)
+
 
 ### April 2017
 
 #### April 27-May 2 - 5495 and 1990N Education Usability Testing
 *Research Lead: Alex Taylor*
 - 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/1990N/research)
-- [Conversation Guide]()
-- [Summary Findings]()
-- Prototypes [FL One]()
-- [Research brief]()
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990n)
 
 #### April 19 - Appeals Usability Testing Round 1
 *Research lead: Natalie Moore*
 - 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/Research)
-- [Convo Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Research/ConverstationGuide1.md)
-- [Findings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Appeals%20Status/Research/ResearchFindings.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status)
 
 #### April 18 - My HealtheVet Account Creation Usability
 *Research Lead: Natalie Moore*
 - 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/MHV%20Account%20Creation/Research)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/MHV%20Account%20Creation/Research/ConversationGuide_4-17-17.md)
-- [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/MHV%20Account%20Creation/Research/ResearchFindings.md)
-- Prototypes [FL One]()
-- [Research brief]()
+- Research Folder
 
 #### April 4-5 - Site Baseline (in-person)
-- [Conversation Guide]()
-- [Summary Findings]()
-- Prototypes [FL One]()
-- [Research brief]()
 
 ### March 2017
 
 #### March 31-April 7 - e-Benefits Testing
-- [Conversation Guide]()
-- [Summary Findings]()
-- Prototypes [FL One]()
-- [Research brief]()
 
 #### March 21-23 - Top Nav Treejack Test
 *Research Lead: Mikki Northius*
 - 41 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Information%20Architecture/Top%20Nav)
+
 
 #### March 15 - Education 1990E Form + 5490 Form
 *Research Lead: Alex Taylor*
 - 4 Veterans (or 4 Veterans each for 1990E and 5490?) 
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/1990E/research)
-- [Summary Findings]()
-- Prototypes [FL One]()
-- [Research brief](
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990e)
 
 #### March 7-8 - Facility Locator Usability Research
 *Research Leads: Em Tav & Natalie Moore*
@@ -914,11 +853,7 @@ Majority synthesis done post-its
 - [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research-archive)
 
 #### March 2-10 - Site Baseline
-*Research Leads: Mary Ann Brody, Mikki Northuis, Laura Elena
-- [Conversation Guide]()
-- [Summary Findings]()
-- Prototypes [FL One]()
-- [Research brief]()
+*Research Leads: Mary Ann Brody, Mikki Northuis, Laura Elena*
 - March 10 - BVA Baseline
 
 ### February 2017
