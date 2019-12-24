@@ -1,7 +1,7 @@
 # Form 1990
 
 ### Communication Channels
-- Github Label: [ed benefits](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3A%22ed+benefits%22)
+- Github Label: ed benefits
 - Slack Channel: #vetsgov-edu_benefits
 - Link on Va.gov: https://www.va.gov/education/apply-for-education-benefits/application/1990
 - Link on Staging: https://staging.va.gov/education/apply-for-education-benefits/application/1990
@@ -20,7 +20,7 @@
   - Backend: Lihan Li lihan@adhocteam.us
 
 ### Narrative
-The 1990 is the most popular Edu Benefits form on Va.gov. The application collects user information through the experience on Va.gov and is sent to TIMS via a spool file in a nightly batch. More information about this can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/README.md#data-flow). 
+The 1990 is the most popular Edu Benefits form on Va.gov. The application collects user information through the experience on Va.gov and is sent to TIMS via a spool file in a nightly batch. More information about this can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/README.md). 
 
 #### Current Status
 The form hasn't had many major updates since it's originally launch. It has received all of the appropriate updates for Save in Progress, Form Prefill, Migrated from Vets --> Va.gov etc. - but futher than that has not experienced any additional structural changes.
