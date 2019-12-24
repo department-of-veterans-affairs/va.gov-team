@@ -22,7 +22,6 @@
 **Facility Websites**
 - https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/facilities/website_data/websites.csv
 
-[Facility API](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/API%20Design.md)
 - Facility Locator API provides data to the Facility Locator application
 - The Facility Locater API itself is stateless, and provides a clean, RESTful interface to one or more GIS systems that are the source of truth for VA facility data. VA stakeholders use these GIS systems as the data management tool to keep facility data up-to-date.
 - There are two classes of facility relevant to this tool: VA facilities, and Non-VA "Choice Act" facilities. Information for the two classes of facility are provided by different data sources (both ArcGIS-based) with differing feature schemas.
@@ -41,9 +40,9 @@
 - When a map view is populated by a facility search, it only needs a subset of facility information to populate the map markers. The facility search endpoint can return a smaller record for each facility to cut down on traffic. However, there might be a benefit to returning the full record - the frontend could optimistically use that info for display in a detailed facility view without incurring another round trip. We will assess the relative sizes of the full and reduced records to decide what to do here.
 -VA and Choice Act provider datasets have different lists of provider specialty services. If we want to provide a unified filtering mechansim we need an internal mapping between the service types.
   
-[Facility Locator Schema](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/FL%20Schema.md)
+[Facility Locator Schema](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/data/fl-schema.md)
 
-[Sample Objects returned from the VA Health Facility endpoint and the Choice Act Provider endpoint](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/EngFiles/Facility%20Data%20Samples.md)
+[Sample Objects returned from the VA Health Facility endpoint and the Choice Act Provider endpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/data/data-sources/facility-data-samples.md)
 -VA endpoint returns facilities with all the services available at that facility. The Choice Act endpoint returns providers, i.e. individual doctors/physician's assistants/etc; specifically each record identifies a single specialty of an individual provider at a single location. These individual records will need to be merged to create a useful record for map display.
  
 **VA Health Facility (VHA) Object**
