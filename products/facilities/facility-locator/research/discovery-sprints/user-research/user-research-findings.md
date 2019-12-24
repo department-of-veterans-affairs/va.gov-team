@@ -4,7 +4,7 @@ November 2019
 ## Methodology
 We conducted moderated user testing sessions with 7 participants, all Veterans, during the week of October 28 – November 1, 2019. The participants were recruited through the DSVA's recruitment contract with Perigean. Sessions were conducted and recorded via Zoom.
 
-Transcripts and notes can all be found in the [Facility Locator Discovery Research folder.](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/facilities/facility-locator/research/discovery-sprints/user-research)
+Transcripts and notes can all be found in the [Facility Locator Discovery Research folder.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/discovery-sprints/user-research)
 
 ## Summary
 We found six high-level trends regarding Veteran objective when using the tool and overall usability of the tool.
@@ -48,7 +48,7 @@ The following are recommendations to consider during the redesign of the Facilit
 ## Additional Research
 
 ### Urgent Care Research
-There was a usability study conducted in June 2019 that included finding urgent care locations. It can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md)
+There was a usability study conducted in June 2019 that included finding urgent care locations. It can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md)
 
 #### Findings from the Urgent Care research matched findings from this study including:
 - Bugs with the interactive map
@@ -68,7 +68,7 @@ There was a usability study conducted in June 2019 that included finding urgent 
 - Removing the location finder link from the navigation, and integrating it into the existing “Search” drop down similarly to how it has been integrated into the “Contact Us” drop down.
 
 ### Community Care Research
-There was a research study conducted around Community Care in May 2019. It can be found [here.](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/community_care/1_discovery)
+There was a research study conducted around Community Care in May 2019. It can be found [here.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/community-care)
 
 #### The following findings from the Community Care study are helpful to the Facility Locator Discovery research:
 - Veterans anticipate entering city or zip code and provider specialty criteria to establish a suitable set of results.
