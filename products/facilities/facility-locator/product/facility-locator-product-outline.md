@@ -5,11 +5,11 @@ Zenhub label: vsa-facilities
 Slack channel: DSVA/vsa-facilities
 
 Product POCs: 
-- VA.gov Lead: Chris Johnston (Christopher.Johnston2@va.gov)
-- Product Owner: David Conlon (David.Conlon@va.gov)
-- Supporting Product Owner: Andy Lewandowski (Andrew.Lewandowski2@va.gov)
-- Facility API Product Owner: David Mazik (David.Mazik@va.gov)
-- Product Manager: Michelle Middaugh (Michelle.middaugh@adhocteam.us)
+- VA.gov Lead: Chris Johnston 
+- Product Owner: David Conlon 
+- Supporting Product Owner: Andy Lewandowski 
+- Facility API Product Owner: David Mazik 
+- Product Manager: Michelle Middaugh 
 # Table of Contents
 - [Executive Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md#executive-summary)
 - User Problem Statement
@@ -106,7 +106,7 @@ Research regarding Veteran objectives and overall usability of the tool was cond
 - There is a need to see some location information at a higher level. 
 - Separate workflows and acccess to location information creates confusion when trying to find a VA location. 
 
-Findings from a [usability and urgent care functionality study](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md) conducted in June 2019 and a [Community Care study](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Products/Global/Facilities_Locator/community_care/1_discovery) in May 2019 were also referenced. 
+Findings from a [usability and urgent care functionality study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md) conducted in June 2019 and a [Community Care study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/community-care) in May 2019 were also referenced. 
 # Value Propositions
 ## User Value
 - Enable faster access to care and more timely delivery of services
