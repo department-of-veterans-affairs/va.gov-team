@@ -115,7 +115,7 @@ The pilot will occur on July 23, 2019
 *Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*
 
 #### Discussion Guide
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20107/GIBCT%20107%20Round%202%20Discussion%20Guide.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec-107/gibct-107-round-2-discussion-guide.md
 
 #### Prototype: 
 https://bahdigital.invisionapp.com/share/UBIAB2X9WFM#/screens/296017750
@@ -131,5 +131,5 @@ https://bahdigital.invisionapp.com/share/UBIAB2X9WFM#/screens/296017750
 
 #### Read-Out/Results
   - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 
-  - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Research%20History.md)
+  - ** Don't forget to add a link to your research folder to the [research tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)!
 
