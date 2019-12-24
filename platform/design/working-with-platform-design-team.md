@@ -43,9 +43,9 @@ We support designers by providing resources and guidance to enable them to creat
 
 ## <a id="bestpractices"></a>VA.gov design resources
 - [VA.gov design system](https://design.va.gov/ "VA.gov design system")
-- [How we work - design culture and norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/NewDesigners/UXOnboarding.md#how-we-work "How we work - design culture and norms")
-- [How we UX](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/NewDesigners/UXOnboarding.md#in-general "How we UX")
-- [Form design process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Design%20Resources/form-design-process.md "Form design process")
+- [How we work - design culture and norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#how-we-work "How we work - design culture and norms")
+- [How we UX](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md#in-general "How we UX")
+- [Form design process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md "Form design process")
 - [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md#accessibility-tips-for-designers-researchers-and-developers "508, Accessibility, and Inclusive Design Best Practices")
 
 ## <a id="whentorequest"></a>Design reviews
@@ -80,7 +80,7 @@ For not-new designers working on small or medium projects: Use your judgment for
 We recommend requesting a design intent check-in before any high-fidelity designing takes place. This is the chance to lay out the problem space with the platform team and get guidance on inclusive design, and any existing patterns or flows that might be useful.  
 Your designs should be in the early stages, like low-fidelity whiteboard or pencil sketches and/or wireframes.
 - Everything doesn’t need to be perfect. We have an iterative design culture and encourage feedback early and often.
-- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general areas of discussion we may cover before the meeting. Don’t stress out on parts of the design that aren’t totally fleshed out yet, the goal of this meeting is to confirm the overall direction and make sure you are putting your energy into the most impactful design problems.
+- Check the [design review guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/design/working-with-platform-design-team.md#things-to-keep-in-mind-when-designing-for-vagov "design review guidelines") for general areas of discussion we may cover before the meeting. Don’t stress out on parts of the design that aren’t totally fleshed out yet, the goal of this meeting is to confirm the overall direction and make sure you are putting your energy into the most impactful design problems.
 
 **How to request a design intent check-in:**
 You can slack Crystabel Reiter or Emily Waggoner on slack and they will schedule an in-person meeting. 
