@@ -53,11 +53,11 @@ The new redesign is a web only interface, there is no native application compone
 | Chrome (Android)  | 64 |
 | Firefox           | 56 |
 
-Source: [Browser Support Policy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/DocumentedDecisions/Browser%20Support.md)
+Source: [Browser Support Policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-change/browser-support.md)
 
 #### Accessibility (Screen Readers and 508 Compliance)
 
-See: [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5f0547fc2a8fbaa4d9004ceedb7da4d5989c5209/platform/accessibility/508-accessibility-best-practices.md)
+See: [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 
 
 ### Capabilities:
