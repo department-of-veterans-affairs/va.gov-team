@@ -1,6 +1,6 @@
 # [Product name]
 
-_**Note:** See [sitewide messaging guidelines](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Design%20System/Guidelines/Error%20handling) for content and UX guidance and standard messaging scenarios/content._
+_**Note:** See [sitewide messaging guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/design/design-system/guidelines/error-handling) for content and UX guidance and standard messaging scenarios/content._
 
 ## System messaging
 
