@@ -6,7 +6,6 @@
   - Includes migrating Danielle's error spreadsheet into these documents
 - [ ] Integrate dictionary and design + content style guides into fractal design system docs **(in progress)**
 - [ ] Add content for common form field errors (name, SSN, dates, service info, etc.)
-- [x] Update [Error messages doc](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Vets.gov%20Platform/reference_documents/Vets.gov_Error_Messaging.md) to match dictionary format (while retaining status codes) and set up a process for teams to update for all applications
 
 **Implementation**
 - [ ] Establish a process for implementation in future products (Add to discovery? Launch checklist?)
@@ -18,7 +17,7 @@
   - [ ] Add the above components to the design system
 - [ ] Schedule time for each sprint team to audit and update messaging within their products
   - [ ] Audit for design and content consistency, making front-end updates as needed
-  - [ ] Update messaging dictionaries in respective product folders (see [Health records](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Blue%20Button/Feedback%20messaging.md) example)
+  - [ ] Update messaging dictionaries in respective product folders (see [Health records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/product/feedback-messaging.md) example)
 
 ## Longer-term goals
 
