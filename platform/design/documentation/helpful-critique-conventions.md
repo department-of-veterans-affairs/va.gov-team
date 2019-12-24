@@ -1,4 +1,4 @@
-Note: this is somewhat duplicative of [an exisiting design review doc](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Documentation%20and%20Readouts/Design%20Review%20Process.md) but I don't have time to merge the two at the moment
+Note: this is somewhat duplicative of [an exisiting design review doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/documentation/design-review-process.md) but I don't have time to merge the two at the moment
 
 # Critique conventions
 
