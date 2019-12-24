@@ -1,5 +1,5 @@
 # Community Care Overview
-information from [Product Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Global/Facilities_Locator/community_care/Contact%20Center/Facilities%20&%20Services%20Locator%20-%20Product%20Guide.docx)
+
 ## What is the Facilities & Services Locator?
 It is the Veteran Administrations (VA) online tool that allows veterans to find VA locations near
 them. They can search for the nearest VA medical center as well as other health facilities,
