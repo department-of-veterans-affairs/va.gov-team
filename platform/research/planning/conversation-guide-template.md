@@ -92,8 +92,7 @@ Great, well thank you so much again, and enjoy the rest of your day!
 
 ## Sample Conversation Guides _(note: these links point to resources in the vets.gov-team GitHub repo)_
 
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/research/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Veteran%20Identification%20Card%20v2/research/discovery/discovery_conversation_guide.md)
-- [Personalization MVP Usability](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Conversation%20Guide%20%E2%80%93%20Profile%2C%20Dashboard%2C%20Settings%20MVP.md)
-- [Discharge Wizard: Sensitive Topic, Usability](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Records/Discharge%20Update/Research/ConversationGuide.md)
+- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
+- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+
 
