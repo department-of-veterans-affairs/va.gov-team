@@ -13,11 +13,11 @@
   - Notes and recordings
   - Synthesis
   - Readout 
-  - Examples (__note: links to vets.gov-team repo__):
-    - [Scheduling](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Scheduling/research)
-    - [VIC](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Veteran%20Identification%20Card%20v2/research) 
+  - Examples:
+    - [Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research)
+    - [VIC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards/research) 
   
-2. The **designer** should create a research plan: Create a new .md research plan file. Answer questions on new research plan [https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md). This will become the doc you use to track everything, but also the documentation that project teams, research and UX lead, leadership, et al, can use to find your research in the future. Add anything you need to add to make this document work for you. If your team creates research issues and/or epics, you can cross-reference your xxxresearchplan.md file in that as well. 
+2. The **designer** should create a research plan: Create a new .md research plan file. Answer questions on [new research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md). This will become the doc you use to track everything, but also the documentation that project teams, research and UX lead, leadership, et al, can use to find your research in the future. Add anything you need to add to make this document work for you. If your team creates research issues and/or epics, you can cross-reference your xxxresearchplan.md file in that as well. 
 
 3. [**Review the researcher checklist!**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/lead-researcher-checklist-research-projects.md): Below are some common things that you should always plan to do. For a full checklist including reminders for before, during, and after sessions, review the checklist.
 
