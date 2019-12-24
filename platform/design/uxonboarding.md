@@ -37,7 +37,6 @@ Hi there. This document is specifically for UX (design, content, research) folks
 - The same goes for how we work. We do have a lot of processes in place that work well, some that don't. If you have an idea for how to make something (team structure, processes, methods, meetings, etc.) work better, great! Talk to the UX Lead or your sprint team lead. The better we work as a team, the more awesome things we get to make! 
 
 ### Team structures & "reporting lines"
-- See [org chart](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/org-chart.md)
 - Your priority is to support the work of the sprint team you're assigned to
 - Your friendly UX Lead
   - Oversees all things related to research, design, and content
@@ -56,7 +55,6 @@ Hi there. This document is specifically for UX (design, content, research) folks
  - Find time to reachout and just chat with people
 
 ### Recurring meetings
- - [UX team meetings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Meetings.md)
  - Sprint team meetings: Your team lead and product manager will send you these. Expect standups most days, and weekly backlog grooming or sprint planning. 
  - Teamwide meetings: Your team lead (Marvo for DSVA or Elizabeth & Rachael for Ad Hoc) will send you these. Expect biweekly demos, monthly deep dives.
 
@@ -112,12 +110,12 @@ Communication goals: transparancy now, paper trail for future version of the tea
 - Look for the story in everything we do (for stakeholders, ourselves, and potential medium posts)
 https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application-for-healthcare-at-va-610d8bac4c78
 - [Vets.gov Playbook](https://www.vets.gov/playbook/) (but it REALLY needs to be updated)
-- [Software and tools list](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/designtools.md)
+- [Software and tools list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/designtools.md)
 
 ### Research & Discovery
 - Most designers do their own research or engage deeply in the research process.
 - There's no magic formula for doing research but it often (sort of) looks like this:
-    - [Discovery Sprint](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Discovery/DiscoverySprintHowTo.md) to get the lay of the land and jump start your project.
+    - [Discovery Sprint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) to get the lay of the land and jump start your project.
     - Analytics when there are existing/comparable systems
     - Comparative analysis
     - Baseline testing of any existing/comparable systems
@@ -127,7 +125,7 @@ https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application
     - UAT pre-launch
     - A/B testing with Google Optimizer post launch
     - and for all things, we aim to test with a variety of users -- including those with low-literacy, cognitive disabilities, visual impairments/assistive technology 
-- One major obstacle to research is [PRA & things you may not expect](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Templates-and-Resources/paperwork-reduction-act.md)
+- One major obstacle to research is [PRA & things you may not expect](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md)
 
 #### Secondary research
 - VE materials
@@ -143,7 +141,7 @@ https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application
   - Use established design patterns when possible (sort of aligned with the US Web Design Standards)
   - Flow diagrams & maps of existing systems to document "before" AND launch discovery activities
   - Design for accessibility
-  - [How to design forms for VA.gov](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/form-design-process.md)
+  - [How to design forms for VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/form-design-process.md)
   
 ### Content
 - Static content vs. Tool-based content
@@ -152,9 +150,9 @@ https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application
 
 ### 508/Accessibility
 - Design for accessibility
-- Test with screenreaders ([see guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Accessibility%20and%20508/Mac_VoiceOver_guide.md) and ask for a demo if this is new to you)
+- Test with screenreaders ([see guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/mac-voiceover-guide.md) and ask for a demo if this is new to you)
 - Consult your friendly 508 office
 - Usability test for accessibility
-- More info here: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Accessibility%20and%20508
+- More info here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility
 
  
