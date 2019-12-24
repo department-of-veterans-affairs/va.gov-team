@@ -1,24 +1,23 @@
 # VA.gov Pattern Library
 
 ### Communication channels
-- Github label: [design-system](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22design-system%22+) 
+- Github label: design-system 
 - Slack channels: #design, #design-system
 
 ### Points of contact
 - VA Business Stakeholders: N/A
 - DSVA contacts
-   - [Lauren Alexanderson](lauren.alexanderson@va.gov)
-   - [Jared Cunha](jared_c_cunha@omb.eop.gov)
-   - [Ryan Thurwell](ryan.thurlwell@va.gov)
-- Ad Hoc Product Manager: [Ryan Luu]()
-- Ad Hoc Designer: [Emily Waggoner](emily@adhocteam.us)
-
+   - Lauren Alexanderson
+   - Jared Cunha
+   - Ryan Thurwell
+- Ad Hoc Product Manager: Ryan Luu
+- Ad Hoc Designer: Emily Waggoner
 ### Narrative
 The VA.gov Sketch pattern library is a tool for designers to create high-fidelity mockups of features on VA.gov. It also serves as documentation of the styles and components that make up VA.gov, as well as basic guidelines for the design system.
 
 [Formation](https://design.va.gov/), VA.gov's design system, should be your primary source of truth for design patterns. Emily Waggoner is in charge of making sure that the Sketch pattern library matches Formation.
 
-[Read more about how to get started with the Sketch pattern library.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Design%20Resources/Pattern%20Library/get-started-with-the-pattern-library.md)
+[Read more about how to get started with the Sketch pattern library.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-resources/pattern-library/get-started-with-the-pattern-library.md)
 
 ### Current status
 The Sketch pattern library is updated on an ongoing basis as new patterns and changes to existing patterns are developed. The latest version is always uploaded and available on [design.va.gov](https://design.va.gov/downloads/VA-gov-Pattern-Library.sketch) and on the [Sketch Cloud](https://sketch.cloud/s/8WM9O). 
