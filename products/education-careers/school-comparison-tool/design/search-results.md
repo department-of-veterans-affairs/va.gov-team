@@ -95,5 +95,5 @@ As a Veteran, I want to select a school type to narrow down my search to these m
 As a Veteran, I want to see my the eligibilty information I entered on the previous landing page carry over to the search results page
 
 - [ ] All eligibility options I selected on the landing page appear on the search results page
-- [ ] All acceptance criteria in [Landing page form](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2017%20Q1%20Design%20Updates/User%20stories/landing-page.md#form) pass
+- [ ] All acceptance criteria in [Landing page form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/design/landing-page.md) pass
 - [ ] Search results are updated in real time to show GI Bill benefits particular to the entered information
