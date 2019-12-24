@@ -28,8 +28,8 @@ Across these phases, we are also interested in:
 *Include previous research, outside examples, information on the section/benefit in question*
 
 There are a number of good GitHub Issues with background on this issue. 
-- [Preliminary overview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/preliminary-overview.md)
-- [Comprehensive scheduling overview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/Comprehensive-Scheduling-Overview.md)
+- [Preliminary overview](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/preliminary-overview.md)
+- [Comprehensive scheduling overview](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/comprehensive-scheduling-overview.md)
 
 **4. Universe of possibilities: what can be changed as a result of this research? What cannot be touched? What are the sensitivities around this question?**
 
@@ -108,22 +108,22 @@ Please be as specific as possible. ex. What benefits do they use? How often do t
 
 **12. Project Brief**
 
-- [project brief](https://github.com/department-of-veterans-affairs/digitalservice/blob/master/projects/scheduling/preliminary-overview.md)
+- [project brief](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/health-care/appointments/preliminary-overview.md)
 
 **13. Conversation Guide**
 
-- [conversation guide: phase 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/research/discoverability/discoverability-conversation-guide.md)
+- [conversation guide: phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/discoverability/discoverability-conversation-guide.md)
 
-- [conversation guide: phase 2](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/research/access-usability/access-usability-conversation-guide.md)
+- [conversation guide: phase 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md)
 
 
 **14. Synthesis/Read-Out**
 
 - [reframer: phase 1](https://www.optimalworkshop.com/a/adhoc/reframer/projects/11571) 
-- [codebook: phase 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/research/discoverability/2017.11.7.discoverability_codebook_phase1_ms.xlsx)
+- [codebook: phase 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/discoverability/2017.11.7.discoverability-codebook-phase1-ms.xlsx)
 
 - [reframer: phase 2](https://www.optimalworkshop.com/a/adhoc/reframer/projects/8506d33a-9379-49f1-bc8d-157ad11a05bd) 
-- [Findings briefs, research notes: phase 2](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Scheduling/research/access-usability)
+- [Findings briefs, research notes: phase 2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/research/2017-studies/access-usability)
 
 
 
