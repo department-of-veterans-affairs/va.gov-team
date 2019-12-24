@@ -132,9 +132,9 @@ Consider enhancing the SRP to display matching VET TEC records when the users en
 #### Preferred providers clicked more often (11/8/19)
 Users are clicking into preferred VET TEC Providers over non-preferred providers (Oct 1 - 31 metrics).
 
-![Preferred Providers vs Non-Preferred](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20116%20VET%20Tec/Learn%20and%20Improve/Images/VET%20TEC%20Preferred%20vs%20Non-Preferred%20Providers.png)
+![Preferred Providers vs Non-Preferred](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec116-vettec/images/VET%20TEC%20Preferred%20vs%20Non-Preferred%20Providers.png)
 
 #### Type of institution selection (10/5/19)
 Since the "All" option was removed from the Type of Institution list, leaving "Schools" selected by default, exact metrics can't be determined for how many users selected standard IHLs vs. VET TEC providers for their search. Despite that, a significant percentage of users opted to search for VET TEC providers (Oct 1 - 31 metrics).
 
-![IHLs vs VET TEC](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/2019%20Colmery%20Act%20Updates/Research/Sec%20116%20VET%20Tec/Learn%20and%20Improve/Images/GIBCT%20Landing%20Page%20-%20Type%20of%20Institution.png)
+![IHLs vs VET TEC](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/colmery-act-2019/research/sec116-vettec/images/GIBCT%20Landing%20Page%20-%20Type%20of%20Institution.png)
