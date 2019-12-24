@@ -30,7 +30,7 @@ Since the from requires authentication the application will leverage the pre-fil
 Submission Process
 ------------------
 
-Veterans will log into the VA.gov website to start the processing of the 0994.  Their profile data will be pre-populated.  Some of this is editable, but any edits made will not propagate to any backend systems.  The fields definitions can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/Engineering/0994.Field.validations_limits_errors.xlsx).  The form data is saved via the in_progress table allowing the veteran to return at a later time to completed the submission.  At the end of the flow is a review and submit page.  On this page the veteran can make changes to any of the elements of the form prior to submission.
+Veterans will log into the VA.gov website to start the processing of the 0994.  Their profile data will be pre-populated.  Some of this is editable, but any edits made will not propagate to any backend systems.  The fields definitions can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/engineering/0994.field.validations-limits-errors.xlsx).  The form data is saved via the in_progress table allowing the veteran to return at a later time to completed the submission.  At the end of the flow is a review and submit page.  On this page the veteran can make changes to any of the elements of the form prior to submission.
 
 On submission the vets-api is invoked and the form data is saved to the saved_claims table.  Records are also created in two education tables (EducationBenefitsClaim and EducationBenefitsSubmission) to track creation of the daily spool file.  A daily job is run that creates the spool file based on data stored in the database tables.  The spool file is then SFTP'ed to a server for forwarding to the regional offices.  The spool files are pre-fixed with a number corresponding to the regional office required for processing the data.
 
@@ -40,9 +40,9 @@ At the completion of the 0994 the veteran is forwarded to the 1990 form if they 
 Process Flow
 ------------
 
-The following diagram depicts the processing for 0994 forms.
+The following diagram depicts the processing for 0994 forms:
 
-![](images/VetTec-Architecture.png)
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/engineering/vettec-architecture.png
 
 <br>
 
@@ -255,9 +255,8 @@ Staging Environment Testing
 
 - Integration testing will be conducted in the staging environment.  The staging URL is <https://staging.va.gov/education/apply-for-education-benefits/application/0994/introduction> 
 
-- Test users can be found here: <https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14152>
-and here:
-<https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_users_s1a.csv>
+- Test users can be found here: 
+<https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv>
 
 
 The Staging environment is integrated with a SFTP server and a mail server so complete end to end testing can be executed in Staging.  Access to the SFTP server is managed by Chris Marino (Christopher.Marino2@va.gov).  Email addresses are configured in the mailers files located in "app/mailers/".
@@ -348,7 +347,7 @@ Monitoring and Reporting Tools
     available to the va.gov team. To access these internal tools such as
     the Jenkins dashboard, Prometheus, Sentry Etc., you need to set up a
     local SOCKS proxy. This process is documented here
-    - <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#configuring-the-socks-proxy>.
+    - <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md>.
     
 
 Sentry provides access to server logs and can be leveraged to search for errors from the application.
