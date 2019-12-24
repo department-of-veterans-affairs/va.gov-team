@@ -1,6 +1,6 @@
 # PPMS = Provider Profile Management System
 
-## [PPMS 4.0 Data Web Service](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/facility-locator-update-outline-18058/Products/Global/Facilities_Locator/community_care/Data%20Web%20Service%20ICD%202019-4-26.docx)
+## [PPMS 4.0 Data Web Service](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/community-care/data/data-web-service-icd-2019-4-26.docx)
 - Document contains:
   - Resources, endpoints, requests and responses exposed in the PPMS data web service
   - Models & Functions currently available to access through the PPMS data web service. Additionally, this document contains 
