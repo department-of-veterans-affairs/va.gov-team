@@ -1,4 +1,4 @@
-# [ArcGIS](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/ead0fe129bfee6b8e7eaae59d7f4f681a37dec15/Practice%20Areas/Engineering/Data/README.md)
+# [ArcGIS](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems)
 
 - va.gov products/apps impact: Facility locator queries data acquired from arcgis.com REST endpoints to populate facility locator map views and display facility detail pages. (https://www.va.gov/find-locations/)
 - Vets.gov does not have a direct account/relationship with ESRI. Instead, VA's GeoBISL team is the account holder. GeoBISL is responsible for data and configuration management of the VA data hosted at arcgis.com. If arcgis.com as a whole is up but the VA REST endpoints are not responding properly it is likely to be a GeoBISL configuration issue.
