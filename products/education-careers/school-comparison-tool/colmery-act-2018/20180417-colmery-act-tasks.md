@@ -1,6 +1,6 @@
 # GIBCT tasks
 
-[As a Veteran eligible for “Yellow Ribbon” status, I need the estimator tool to display the actual rate.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9365) - #9365
+## As a Veteran eligible for “Yellow Ribbon” status, I need the estimator tool to display the actual rate.
 
 - [x] New Yellow Ribbon section in the school profile that shows:
   - Maximum scholarship amount
@@ -9,7 +9,7 @@
   - Should be close to the YR calculator field so user can fill in details there
 - [x] Remove link to YR rates in vet programs section
 
-[As a user, I need a Tool Tip to explain the basic allowance for housing (BAH) changes made by the Colmery Act.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9367) - #9367
+## As a user, I need a Tool Tip to explain the basic allowance for housing (BAH) changes made by the Colmery Act.
 
 - Need from Edu team:
   - Content explaining BAH changes for those starting Jan 1 2018
@@ -26,7 +26,7 @@
     - Show the 2018 rates only
     - Show a range w/ link to modal explaining the 2018 rate changes
 
-[As a user, I need to ability to edit the ZIP Code for a program I’m attending in order to calculate the housing benefit based on my ZIP Code.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9368) - #9368
+## As a user, I need to ability to edit the ZIP Code for a program I’m attending in order to calculate the housing benefit based on my ZIP Code.
 
 - Need from Edu team:
   - Content explaining how physical location affects housing allowance
@@ -37,7 +37,7 @@
   - Need to think through how to explain "majority" in a simple way
   - Field shouldn't be shown at all if selected "online only" for how I'll take classes
 
-[As a user, I should be able to view closed schools and institutions in the GIBCT.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9369) - #9369
+## As a user, I should be able to view closed schools and institutions in the GIBCT.
 
 - Need from Edu team:
   - Whether we'll show an exact date or generic "closing soon" language
@@ -49,7 +49,7 @@
   - Add an indicator for school closing soon
   - Show stock language (TBD) and link to more info - either on-page, in an overlay, or offsite
 
-[As a GIBCT user, I should see an indicator whether a school or institution participates or offers a Veterans Tech program, Independent Study, and Priority Enrollment.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9370) - #9370
+## As a GIBCT user, I should see an indicator whether a school or institution participates or offers a Veterans Tech program, Independent Study, and Priority Enrollment.
 
 - Need from Edu team:
   - Modal content for independent study & priority enrollment
@@ -62,7 +62,7 @@
   - Priority enrollment: add under Veteran programs section w/ link to modal (content TBD)
 - Vet tech programs: **hold**
 
-[As a GIBCT user, I should see an indicator whether a school or institution participates or offers a STEM program.](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9371) - #9371
+## As a GIBCT user, I should see an indicator whether a school or institution participates or offers a STEM program.
 
 - Need from Edu team:
   - Modal content for STEM
