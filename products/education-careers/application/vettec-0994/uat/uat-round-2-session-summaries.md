@@ -17,7 +17,7 @@ All of the sessions described here were completed on password-protected Producti
   - Additional Context: They [DMDC] have an authentication issue currently that if you're on a DOD network, the security on their networks won't allow you to sign in to ebenefits, va.gov, milconnect, even humana, whatever they're gonna be, that uses a CAC card or ds logon if they're on a federal progeam. This was a huge issue when it was vets.gov before it got rebranded into va.gov where younger veterans and younger servicemenbers trying to use their gi bill benefits trying to transition to the civilian world can't get into it because they can't use their ds logon. So that was my main concern whether or not the vso application was going to be moved into va.gov or if that application was still on ebenefits."
 ### Follow up
 - Veteran would like to be followed up with regarding support of VA.gov. He has submitted 5-6 requests for support on VA.gov and only one has receieved a reply. 
-### Link to Detailed Session Notes: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994/UAT/UAT%20Round%202%20-%20Detailed%20Session%20Notes/P1.md
+### Link to Detailed Session Notes: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/vettec-0994/uat/p1.md
 
 ## Session 2
 #### Date: 03/07/2019 at 1:00PM
