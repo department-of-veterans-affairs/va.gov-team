@@ -861,45 +861,32 @@ Majority synthesis done post-its
 #### February 16-17 - Facility locator & Blue Button
 *Research Leads: Natalie Moore and Sophia Dengo*
 - 5-6 Veterans
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/FacilityLocator-BlueButton_2-16-2017/ConversationGuide-2-16-2017.md)
-- [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Facilities_Locator/Research) 
-- Prototypes [FL One](https://marvelapp.com/50h95i1/), [FL Two](https://marvelapp.com/51h747a), [BB One](https://marvelapp.com/50h2b50), [BB Two](https://marvelapp.com/30ee4f5)
-- [Research brief](https://github.com/department-of-veterans-affairs/vets.gov-research/issues/55)
-- [Facility Locator Research Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research-archive)
-- [Full session notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/README.md/Projects/Facility%20Locator)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research)
 
 ### January 2017
 
 #### Week of January 23 - Form 22-1995 (Education) Research
 *Research Lead: Alex Taylor* 
 - 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/1995/research) 
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1995) 
 
 #### January 18-25 - Navigation & information architecture
 *Research Lead: Mary Ann Broday, Mikki Northuis*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Information%20Architecture/Top%20Nav)
-- [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/e8fda6c75b63e90a41f1994e615fe1c4bc7273ef/Admin/Archives/Projects/Navigation_1-18-2017/Navigation-SummaryFindings.md)
 - [Prototype link](http://y5gyfw.axshare.com/#p=home&g=1)
 
 #### January 12-13 - GI Bill Comparison Tool and Blue Button
 *Education Research: Sophia Dengo*
 - 5 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-research/tree/master/Projects/GIBCT-BlueButton_1-12-2017)
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/GIBCT-BlueButton_1-12-2017/ConversationGuide-1-12-2017.md)
-- [Summary Findings](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Navigation_1-18-2017/Navigation-SummaryFindings.md)
 - Prototype links
 - [GIBCT Desktop prototype](https://marvelapp.com/9b3d2dg)
 - [GIBCT Mobile prototype](https://marvelapp.com/114cc83)
 - [Blue Button prototype](https://marvelapp.com/1j51h93)
-- [Full session notes](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/GIBCT-BlueButton_1-12-2017/FullSessionNotes.md)
 
 #### Health consent
-- [Conversation guide](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Scripts/HealthConsent.md)
 - Prototype links
 - [Option one](https://marvelapp.com/4ieh29e/)
 - [Option two](https://marvelapp.com/4i63hi9/)
-
 
 
 ### Missing projects here, need to fill in gaps
@@ -909,7 +896,7 @@ Majority synthesis done post-its
 #### Week of December 16? - Education Family of Forms Research
 *Research Leads: Caitlin Weber & Mark Olson*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/family-of-forms/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/family-of-forms)
 
 ### November 2016
 
@@ -924,7 +911,7 @@ Majority synthesis done post-its
 
 #### October 27-28 - Prescription refill & secure messaging
 - 4 participants
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Secure%20Messaging/Research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging/research)
 
 #### October 20-21 - Claims status and logon usability
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/research/usability-testing_10-20-2016.md)
@@ -951,16 +938,15 @@ Majority synthesis done post-its
 #### September 21-27 - Education 1990 Usability Test
 *Research Lead: Alex Taylor?*
 - 4 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/1990/discovery/user-testing/round-1)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990)
 - [First wireframes](https://app.moqups.com/greg@adhocteam.us/l32hJ36b/view/page/ad9695a23), second prototype run locally.
-- [Summary results](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/1990/discovery/user-testing/round-1/key-findings_9-28-16.md)
+- [Summary results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/1990/discovery/key-findings-9-28-16.md)
 
 #### September 9-16 - Claims Status usability testing
-- [Conversation guide](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/research/claim-status-usability-testing_9-9-2016.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claims-status)
 - [Prototype: Vets.gov Claims Status](https://marvelapp.com/2cch4ch/screen/15005515)
 - [Prototype: eBenefits Claims Status](https://marvelapp.com/2cf16da/screen/15034382)
-- [Full notes (XLS file)](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/research/Claim%20status%20usability%20testing.xlsx)
-- [Summary results](https://github.com/department-of-veterans-affairs/sunsets-team/blob/master/track-claim-status/design-documents/research/usability%20test%20summary.md)
+
 
 ### August 2016
 
@@ -968,39 +954,27 @@ Majority synthesis done post-its
 *Research staff: Mary Ann, Mollie Ruskin, Emily Wright-Moore*
 - Participants: 5
 - Location: DC, in-person
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Branding%20Research%20Plan_08.31.2106.md)
-- [Notes](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Branding/Session%20Notes.md)
 
 #### August 23-24 - Blind Veterans & Accessibility
 *Research staff: Mary Ann & Courtney*
 - Participants: 10 encounters (conference)
 - Location: Milwaukee
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Blind-Veterans-Conference-08-2016/Script_blindveteransconference_08-2016.md)
-- [Trip Report](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/master/Projects/Blind-Veterans-Conference-08-2016/Trip%20Report.md)
 
 #### August 22-24 - Secure Messaging Discovery
 *Research staff: Gina, Angel*
 - Participants: 3
 - Observation/ formative research with test account
 - Potentially talk to clinicians, MHV coordinators
-- [Conversation guide](https://github.com/department-of-veterans-affairs/kudos-team/blob/master/SecureMessaging/Discovery/Research-Documents/ConversationGuide-Aug2016.md)
-- [Summary results](https://github.com/department-of-veterans-affairs/kudos-team/blob/master/SecureMessaging/Discovery/User%20Testing/Current%20and%20MHV%20Prototype/SM-User-Testing-082216.md)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging/discovery)
 
 #### August 15-19 – 1990 Education Benefits Discovery
 *Research staff: Caitlin, Alex, Laura*
 - Participants: ~3 Vets, 2 VCEs
-- [Vet conversation guide](https://github.com/department-of-veterans-affairs/edu-benefits-team/blob/master/design-documents/veteran-interviews/veteran-edu-benefits-convo-guide.md)
-- [VCE conversation guide](https://github.com/department-of-veterans-affairs/edu-benefits-team/blob/master/design-documents/vce-interviews/vce-edu-benefits-convo-guide.md)
+- [Research Foldert](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990/discovery)
 
 #### August 3-26 - Information Architecture Tree Testing
 *Research staff: Mary Ann, Laura, Mariana*
 - Participants: ~30-50
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Information%20Architecture/Top%20Nav)
-- Prepare plan & tasks August 3-12, collaborate with IA & content teams
-- Program test 8/15-16 for administration 8/18
-- Analyze data week of August 21
-- Location: remote
-- [Test plan](https://github.com/department-of-veterans-affairs/vets.gov-research/blob/115a4188a603676f293759a3fdd38ac28db14a23/Research-for-Natalie/IA-Tree-Testing/Test%20script.md)
 
 ### July 2016
 
@@ -1008,14 +982,13 @@ Majority synthesis done post-its
 - Research staff: Mary Ann & Laura
 - Participants: 5
 - Location: remote
-- Link to [research brief](https://github.com/department-of-veterans-affairs/benefits-team/issues/28)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/research)
 
 #### July 8 - Rx Refills Research II
 *Research staff: Gina, Mary Ann, Laura*
 - Participants: 5
 - Location: Remote
-- Link to [research brief](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/188)
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/RX%20Refills/research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)
 
 ### June 2016
 
@@ -1023,9 +996,7 @@ Majority synthesis done post-its
 *Research staff: Gina, Alex Y-L (east coast) -- Laura, Angel, Mariana (west coast)*
 - Participants: 6 to 12
 - Location: In person
-- Link to [research brief](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/153)
-- Link to [script](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Research/Rx/Usability%20Session%2006192016.md)
-- Link to [notes](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Research/Rx)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)
 - Notes from research: Intercepts were challenging, and DC crew was stopped by facility staff for recording and taking photos.
 
 ### May 2016
@@ -1034,29 +1005,25 @@ Majority synthesis done post-its
 *Research staff: Gina*
 - Participants: 2
 - Location: Remote
-- Link to [research brief](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/140)
-- Link to [script and notes](https://github.com/department-of-veterans-affairs/prescriptions-team/blob/master/design/research/Rx%20Refill%20Prototype%20Usability%20Notes.xlsx)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)
+
 
 #### May 25 - HCA Usability testing
 *Research staff: Courtney and Gina*
 - Participants: 6 to 12
 - Location: Remote?
-- Link to [research brief](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/141)
-- Link to script
-- Link to notes
 
 #### May 12 and 13 - Vets.gov page template usability testing
 *Research staff: Mary Ann + (Gina?)*
 - Participants: 5
 - Location: remote
-- Link to [script](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Research/Page-Templates/Script.md) **can't find this script - possibly deleted**
 - Link to prototype:https://marvelapp.com/1g53gge 
 
 ### April 2016
 
 #### 4/28, GIBCT Ratings Prototype
 Sessions: 4
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/GIBCT/Usability_Research/Ratings-Concept-Testing)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/research)
 
 #### 4/21, Rx Discovery research
 Sessions: 5
@@ -1069,7 +1036,7 @@ Sessions: 5
 #### 3/24 - Healthcare Application
 *Research Lead: Mary Ann Brody and Em Tav*
 - Sessions: 3 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/Discovery/User-Research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application)
 
 ### February 2016
 
@@ -1088,7 +1055,7 @@ Informal Sessions: 1 (Johannes)
 *Research Lead: Mary Ann Brody*
 - Usability Sessions: 2
 - Informal Sessions: 1
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/GIBCT/Usability_Research)
+- [Research Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/research)
 
 ### November 2015
 
