@@ -32,7 +32,7 @@ Messaging will generally follow these UI patterns based on the intent of the mes
 
 **Feedback messaging:** The application’s response when the user is interacting with it. The majority of create, read, update, delete (CRUD) actions will result in feedback messaging.
 
-See the [Messaging dictionary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md) for specific examples of each type of messaging.
+See the [Messaging dictionary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md) for specific examples of each type of messaging.
 
 ### States
 
@@ -40,7 +40,7 @@ For **alerts**, **modals**, and **inline validation**, the visual state should m
 
 #### Informational
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/States/state-info.png" width="208">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/states/state-info.png" width="208">
 
 ##### When to use
 
@@ -54,7 +54,7 @@ For **alerts**, **modals**, and **inline validation**, the visual state should m
 
 #### Success
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/States/state-success.png" width="208">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/states/state-success.png" width="208">
 
 ##### When to use
 
@@ -62,7 +62,7 @@ For **alerts**, **modals**, and **inline validation**, the visual state should m
 
 #### Warning
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/States/state-warning.png" width="208">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/states/state-warning.png" width="208">
 
 ##### When to use
 
@@ -71,7 +71,7 @@ For **alerts**, **modals**, and **inline validation**, the visual state should m
 
 #### Error
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/States/state-error.png" width="208">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/states/state-error.png" width="208">
 
 ##### When to use
 
@@ -83,7 +83,7 @@ Actions dictate if and what a user needs to do in response to a message.
 
 #### Dismissible (alerts and modals)
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-action-dismissible.png" width="480">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-action-dismissible.png" width="480">
 
 ##### When to use
 
@@ -92,7 +92,7 @@ Actions dictate if and what a user needs to do in response to a message.
 
 #### Single button
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-action-single.png" width="480">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-action-single.png" width="480">
 
 ##### When to use
 
@@ -100,7 +100,7 @@ Actions dictate if and what a user needs to do in response to a message.
 
 #### Binary button
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-warning.png" width="816">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-warning.png" width="816">
 
 ##### When to use
 
@@ -108,7 +108,7 @@ Actions dictate if and what a user needs to do in response to a message.
 
 #### Accordion (alerts only)
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-action-accordion.png" width="480">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-action-accordion.png" width="480">
 
 
 ##### When to use
@@ -121,13 +121,13 @@ Actions dictate if and what a user needs to do in response to a message.
 
 Alerts keep users informed of important and sometimes time-sensitive changes.
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-info.png" width="480">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-info.png" width="480">
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-success.png" width="480">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-success.png" width="480">
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-warning.png" width="480">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-warning.png" width="480">
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-error.png" width="480">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-error.png" width="480">
 
 #### When to use
 
@@ -144,38 +144,38 @@ Alerts keep users informed of important and sometimes time-sensitive changes.
 
 ##### Above page title
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-location-above-title.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-location-above-title.png.png" width="1152">
 
 Indicates the outcome of a user-initiated action, typically CRUD tasks (create/read/update/delete).
 
 ##### Below page title
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-location-below-title.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/Screenshots/Alerts/alert-location-below-title.png" width="1152">
 
 Conveys important status information or calls to action related to the page or application as a whole.
 
 ##### Above component
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-location-above-component.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-location-above-component.png" width="1152">
 
 Conveys important status information or calls to action related to a specific component.
 
 ##### Below component
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-location-below-component.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-location-below-component.png" width="1152">
 
 Conveys lower importance status information related to a specific component.
 
 ##### Replaces component
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-location-replace-component.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-location-replace-component.png" width="1152">
 
 - Indicates the system's inability to display the affected component due to transient access issues such as downtime or connection loss, **or**
 - Replaces the component due to a change in its status, e.g. saved application
 
 ##### Banner
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Alerts/alert-location-banner.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/alerts/alert-location-banner.png" width="1152">
 
 Communicates important system- or business-related information to users, such as emergency alerts
 
@@ -189,15 +189,15 @@ Modals perform a similar function to alerts, but should be used when it is parti
 - Alerting users to important system-related issues and updates that affect their access to a service or ability to complete a task.
 - Providing supplemental information related to a task (for example, a glossary definition)
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-plain.png" width="816">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-plain.png" width="816">
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-info.png" width="816">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-info.png" width="816">
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-success.png" width="816">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-success.png" width="816">
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-warning.png" width="816">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-warning.png" width="816">
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Modals/modal-error.png" width="816">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/modals/modal-error.png" width="816">
 
 ### Plain text
 
@@ -212,13 +212,13 @@ Plain text messaging is used primarily to communicate system status in access sc
 
 ##### Replace page content
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Plain%20text/plain-text-replace-page.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/plain-text-replace-page.png" width="1152">
 
 Shown when an entire application or page is unavailable
 
 ##### Replace component
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Plain%20text/plain-text-replace-component.png" width="1152">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/plain-text-replace-component.png" width="1152">
 
 Shown when a component is unavailable due to access issues or lack of data
 
@@ -230,4 +230,4 @@ Inline validation provides feedback to user input within a form component
 
 - Indicating inadequate or incorrect input in a field
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Inline/inline-error.png" width="368">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/inline-error.png" width="368">
