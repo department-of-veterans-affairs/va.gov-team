@@ -16,7 +16,7 @@ All about VA.gov's über product: <https://www.va.gov/find-locations>
 
 ## Other notes
 
-- Facility Locator 1.0 work can be found in this old repo: <https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Facilities_Locator>
+- Facility Locator 1.0 work can be found in this old repo: <https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator>
 
 ## Useful POCs
 
@@ -65,8 +65,8 @@ All about the 2019-2020 roadmap to make the next version of the product even bet
 ## Design problems
 - Users don't have a way to get to urgent care facilities
   - See the following research study documentation:
-    1. Main research repo: <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md>
-    2. Research readout: <https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/DSVA-UrgentCareUsabilityStudy-KevinMHoffman-V001.pdf>
+    1. Main research repo: <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research>
+    2. Research readout: <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md>
     3. User flows Mural board: <https://app.mural.co/t/adhocvetsgov9623/m/adhocvetsgov9623/1560946920965/4bb321f266f232e3e1d91559b168a0f3c11fe84f>
 - Search UI is inconsistent (i.e., free text search box, dropdowns, typeahead)
 - Community care "facilities" are actually providers, so users are searching for persons, not places
