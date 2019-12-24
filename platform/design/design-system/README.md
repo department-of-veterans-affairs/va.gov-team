@@ -1,23 +1,23 @@
 # Design system
 
 ### Communication Channels
-- Github Label: [design-system](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Adesign-system)
+- Github Label: design-system
 - Slack channel: #design-system
 - Keywords: formation, jean-pants, design system
 
 ### Points of Contact
 - DSVA Product Owners:
-  - Lauren Alexanderson lauren.alexanderson@va.gov
-  - Leah Bannon leah.bannon2@va.gov
-  - Patrick Bateman patrick.bateman@va.gov
-- Ad Hoc Product Manager: Ryan Luu ryan.luu@adhocteam.us
+  - Lauren Alexanderson 
+  - Leah Bannon 
+  - Patrick Bateman 
+- Ad Hoc Product Manager: Ryan Luu 
 - Design POCs:
-  - Jared Cunha jared_c_cunha@omb.eop.gov
-  - Emily Waggoner emily@adhocteam.us
+  - Jared Cunha 
+  - Emily Waggoner 
 - Engineering POCs:
-  - Jared Cunha jared_c_cunha@omb.eop.gov
-  - Jeff Balboni jeff@adhocteam.us
-
+  - Jared Cunha 
+  - Jeff Balboni 
+  
 ### Narrative
 
 VA.gov is made up of a few separate systems (static content, healthcare applications, forms, etc.) that all have to look like and function as a single entity. When we make front-end, user-facing changes to one part of the site, that needs to carry over to every corner and application we have. When we design new products or components, it's important for the entire design and engineering team to understand what visual patterns are available, and how those should be coded. Prior to the design system, we didn't have a single source of truth for either the visuals or the code, and this introduces inconsistencies and conflicts. We then spent a lot of time and effort fixing those problems. Our existing codebase and documentation did not satisfy the need for a single source of truth.
