@@ -11,7 +11,7 @@
 
 Every error message will have **up to** 3 parts:
 
-<img src="https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Screenshots/Error%20Message%20for%20Content%20Guide.png" width="608">
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/screenshots/Error%20Message%20for%20Content%20Guide.png" width="608">
 
 **1.** **Title:** Bold title giving the user a quick idea of what’s wrong (or, for informational alerts, the key message the user needs to know)
 
@@ -191,14 +191,14 @@ Focusing in on the intent of the error message can help to further flesh out the
 
 <h3 id="categories">Messaging categories</h3>
 
-The [Messaging Dictionary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md) can help offer specific messages to use and/or examples to inform new message creation. We’ll continue expanding the dictionary, so check back often for new messages.
+The [Messaging Dictionary](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/design/design-system/guidelines/error-handling/) can help offer specific messages to use and/or examples to inform new message creation. We’ll continue expanding the dictionary, so check back often for new messages.
 
 | Error state | When to use | Link to dictionary of messages | 
 | ----- | ----- | ----- | 
-| **System messaging** | Alerts the user of important system-related issues or status. It’s initiated by the system and it’s not a result of the user’s actions. | [See system message examples](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md#system-messaging) | 
-| **Engagement messaging** | Alerts the user of important system-related issues or status. It’s initiated by the system and it’s not a result of the user’s actions. | [See engagement message examples](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md#engagement-messaging) | 
-| **Access messaging** | Appears when the user tries to access an item that’s not available to them. It may be because the record has been deleted, the user doesn’t have access, etc. etc. | [See access message examples](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md/#access-messaging)| 
-| **Feedback messaging** | The application’s response when the user is interacting with it. The majority of create, read, update, delete (CRUD) actions will result in feedback messaging. | [See feedback message examples](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md#feedback-messaging)| 
+| **System messaging** | Alerts the user of important system-related issues or status. It’s initiated by the system and it’s not a result of the user’s actions. | [See system message examples](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/design/design-system/guidelines/error-handling/) | 
+| **Engagement messaging** | Alerts the user of important system-related issues or status. It’s initiated by the system and it’s not a result of the user’s actions. | [See engagement message examples](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/design/design-system/guidelines/error-handling/) | 
+| **Access messaging** | Appears when the user tries to access an item that’s not available to them. It may be because the record has been deleted, the user doesn’t have access, etc. etc. | [See access message examples](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/design/design-system/guidelines/error-handling/)| 
+| **Feedback messaging** | The application’s response when the user is interacting with it. The majority of create, read, update, delete (CRUD) actions will result in feedback messaging. | [See feedback message examples](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/design/design-system/guidelines/error-handling/)| 
 
 <h3 id="cta">Next-step calls to action</h3>
 
@@ -212,34 +212,3 @@ Some errors may not be resolved based on initial instructions to user (ie, "Try 
 | **Contact the Veterans Health Administration toll-free hotline** | User needs help filling out a health care benefits application | If you need more help filling out your application, call our toll-free hotline at 877-222-VETS (877-222-8387). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET. You can also get help from a trained professional called an accredited representative. Or, find your state’s Veterans agency.|(button 1) [Request a representative][https://www.ebenefits.va.gov/ebenefits/about/feature?feature=request-vso-representative] (button 2) [Find a Veterans agency](https://www.va.gov/statedva.htm)| If you have questions about your application,... | 
 | **Contact your local VA medical center** | User needs to contact their doctor or speak to someone at a VA medical center for more information | If you need more help with this, call your healthcare provider or your local VA medical center or clinic. <br/> (button) [Find a VA health facility](https://www.vets.gov/facilities/) |If you have questions, call your doctor or a VA medical center or clinic near you...  | 
 | **Get answers to questions about education benefits** | User needs more help/answers to questions about their education benefits | If you need more help, call us at 888-GI-Bill (888-442-4551). We’re here Monday through Friday, 8:00 a.m. to 7:00 p.m. ET. | If you'd like to request a paper application... | 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
