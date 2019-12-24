@@ -3,7 +3,7 @@
 The Education Benefits Claims apps are a series of React forms and a Rails backend that provide the 22-1990, 22-1990E, 22-1990N, 22-1995, 22-5490 and 22-5495 forms. Currently all the forms except for the 1990 are written in RJSF
 
 ### Communication Channels
-- Github Label: [ed benefits](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3A%22ed+benefits%22)
+- Github Label: ed benefits
 - Slack Channel: #vetsgov-edu_benefits
 - Google Analytics: [here](https://analytics.google.com/analytics/web/?authuser=1#/report/conversions-goals-overview/a50123418w177519031p184334251/_u.date00=20190301&_u.date01=20190331&_.goalOption=ALL/)
 - Keywords: 1990, 1990n, 1990e, 1995, 5490, 5495, Spool File
@@ -57,7 +57,7 @@ Build a tool that helps Veterans navigate to the appropriate education form and 
 
 ## Data Flow
 Submission of an Education Claim happens in 2 steps:
-- *For engineering information about the data submission process checkout the [data-submission-process.md](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Education%20Benefits%20Apps/data-submission-process.md) file.
+- *For engineering information about the data submission process checkout the [data-submission-process.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/application/data-submission-process.md) file.
 
 ### 1. Synchronous Submission
 1. A User hits submit on the React form, and a JSON serialization is sent to the backend.
