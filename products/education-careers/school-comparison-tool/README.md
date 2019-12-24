@@ -2,14 +2,14 @@
 
 ### Communication Channels
 - Slack Channel: gi-bill-comp-tool
-- Github Label: [gibct](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Agibct)
+- Github Label: gibct
 - Misc Keywords: GIBCT, GI Bill, Comparison Tool
 
 ### How to Access
 This tool does not require login to use. Visit one of the urls below and search for a school.
 - Live Link: https://www.va.gov/gi-bill-comparison-tool
 - Staging Link: https://staging.va.gov/gi-bill-comparison-tool
-- Uploading Data Files to GI Data Service: [Documentation Here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/GIBCT/Uploading%20Data%20Files%20to%20GIDS%20(1).pdf)
+- Uploading Data Files to GI Data Service: [Documentation Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/data/uploading-data-files-to-gids-(1).pdf)
 
 ### Points of Contact
 - VA Business Stakeholders (EDU): 
