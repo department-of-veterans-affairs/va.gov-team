@@ -1,7 +1,5 @@
 # User Acceptance Testing (UAT)
 
-TODO - Move this to [public Work Practices](https://github.com/department-of-veterans-affairs/vets-work-practices)
-
 * **Definitions for terms used in this file:**
 
   * *"DSVA" refers to DSVA team members and DSVA detailees.*
@@ -93,16 +91,6 @@ Here are some examples to help you understand when you must test with Veterans v
 * You design the UAT so that the UAT moderator completes the surrounding 526 form for the participant. And passes control to the participant at the point where the 4142 form is triggered (and again at the point when the 4142 returns to the 526).
 * **You can use a General or Veteran audience for UAT.**
 
-
-### Example Conversation Guides for UAT
-
-* [May 2018 - MVP Personalization (Profile, Account, Dashboard)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/mvp_uat_convo_guide.md) (__note: link points to vets.gov-team GitHub repo)__)
-* [June 2018 - MVP Vet360 Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/eb0458f3755d3c120cd688b4e45ab8e4e4c74e15/Products/Identity/Personalization/Profile/Vet360%20UAT/Conversation%20Guide.md) (__note: link points to vets.gov-team GitHub repo)__)
-
-### Example UAT test scripts
-
-* [May 2018 - MVP Personalization (Profile, Account, Dashboard)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/QA%20%26%20UAT%20template%20for%20Personalization%20Phase%201%20(1).xlsx) (__note: link points to vets.gov-team GitHub repo)__)
-
 <hr>
 
 
@@ -122,8 +110,8 @@ Here are some examples to help you understand when you must test with Veterans v
 
     - Ask the business owner or main stakeholder on the project to help recruit. 
 
-    - **IS MARTIN STILL A GOOD CONTACT?** Martin Taylor: Martin used to be in charge of VA Comms and is a big champion of our work.  In the past he has helped recruit Veterans for testing.   <Martin.Taylor@va.gov> 
-
+    - **IS MARTIN STILL A GOOD CONTACT?** Martin Taylor: Martin used to be in charge of VA Comms and is a big champion of our work.  In the past he has helped recruit Veterans for testing. 
+    
     -  MHV Coordinators: This should really be a special ask and should only be done if it's necessary for you to go through MHV Coordinators.  In the past we have gotten pushback from Susan Haidary (who runs the MHV Coordinator program) on requesting help from them.
 
     - VSOs: _can someone enter info here about going through VSOs for this if you have had experience_
@@ -134,8 +122,7 @@ Here are some examples to help you understand when you must test with Veterans v
 
 ## Process for External Contractors
 
-1. Create a UAT test script. The test script is to make sure you've captured all acceptance criteria before you write the Conversation Guide in the next step.
-    * This can be any format you like (here's [one example](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/uat_mvp_may2018/QA%20%26%20UAT%20template%20for%20Personalization%20Phase%201%20(1).xlsx)) (__note: link points to vets.gov-team GitHub repo)__)
+1. Create a UAT test script. The test script is to make sure you've captured all acceptance criteria before you write the Conversation Guide in the next step. This can be any format you like.
 
 1. Create a Conversation Guide. [See examples](#example-conversation-guides-for-uat)   
 
