@@ -33,7 +33,7 @@
      - Product Outline link
      - Staging link
      - Staging user(s)
-     - Scenarios Matrix: (raw version: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/QA/QA_Testing_Matrix_Template.xlsx)
+     - Scenarios Matrix: ()
      - Product Manager
      - Engineering Lead
 * Complete customized scenarios Matrix (likely submitted by product team), testing all browsers with pass/fail entries and links to Github issues discovered during testing added to the document.
