@@ -55,17 +55,17 @@ Discovery - [product name - feature or initiative name if applicable]
 ---
 
 ## Resources
-- [Vets.gov Discovery planning guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Discovery/DiscoveryProjectBrief.md)
+- [VA.gov Discovery planning guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/research/discovery-sprints/discovery-project-brief.md)
 - [18F Discovery guide and methods](https://lean-product-design.18f.gov/1-discovery-research/ )
 - [Hypothesis Testing methods](https://www.producttalk.org/hypothesis-testing/)
-- [Recruitment request template](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9869 )
+- [Recruitment guidance]
 - [Functional specs template – coming soon…](/)
 - [Technical approach to Vets.gov API consumption - coming soon...](/)
 - [Technical review guide – coming soon…]()
-- [Product Outline]( https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product%20Management/Product%20Outline%20Template.md)
-- [Discovery readout template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Discovery/End%20of%20Discovery%20Readout%20Template.pptx)
-- [Stakeholder readout template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Discovery/Master%20Stakeholder%20Deck%20Template.pptx )
-- [Product Charter – template coming soon, but here’s a sample for now!]( https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product%20Management/SAMPLE%20Project%20Charter%20-%20USCIS%20Status%20Messaging%20Content%20Strategy%20(Miklik).pdf )
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/product-management/product-outline-template.md)
+- [Discovery readout template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/research/discovery-sprints/End%20of%20Discovery%20Readout%20Template.pptx)
+- [Stakeholder readout template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/research/discovery-sprints/Master%20Stakeholder%20Deck%20Template.pptx)
+- [Product Charter – template coming soon]
 
 ---
 
