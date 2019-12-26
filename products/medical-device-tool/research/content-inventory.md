@@ -34,6 +34,7 @@ Forwarding address (optional, editable)
 - Dome Model
 - Dome Serial Number
 - Dome Quantity
+- Last ordered item(s)
 
 ## Socks 
 #### Min:
@@ -57,3 +58,5 @@ Forwarding address (optional, editable)
 - Prosthesis model
 - Date prosthesis issued
 - Sock Quantity
+- Last ordered item(s)
+
