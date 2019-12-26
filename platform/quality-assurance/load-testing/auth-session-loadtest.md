@@ -3,8 +3,8 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 # Using authenticated sessions for load testing
 
 ## Things you need
-1. [Access to internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md) (specifically Jenkins, but if you have access to one then you tend to have access to all)
-1. [SOCKS proxy access](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#configure-the-socks-proxy)
+1. [Access to internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) (specifically Jenkins, but if you have access to one then you tend to have access to all)
+1. [SOCKS proxy access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy)
 1. Access to [`devops`](https://github.com/department-of-veterans-affairs/devops) repository
 1. A terminal (For example: Bash, [GitBash](https://gitforwindows.org/), [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10), MacOS terminal)
 
