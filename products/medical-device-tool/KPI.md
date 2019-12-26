@@ -19,16 +19,22 @@
 _What are the objectives within your product line that your product plays into?_
 
 - Migrate the Medial Device tool on eBenefits to VA.gov.
-- Modernize the Medical Device tool.
+- Migrate current orders from other DLC channesl to the online channel
+- Have 27,000 online orders per quarter. 
 - Reduce the complexity associated with ordering a renew supply of hearing aids/prosthetic socks.
 
 
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
 
-- Reducing the complexity of authentication process for the Vets.
-- Automating the resupply ordering process to deduce work load on the DLC Call Center employees.
-- Migrating the amount of resupply ordering to the online channel offered by the DLC.
+- Ordering batteries and the accessories requires an agent, which sometimes has a 45 minute wait
+- Not knowing the status of his order until it arrives
+- Not being able to order online because he couldn't get into eBenefits
+- Needing to reference packaging in order to remember order items
+- Not being able to order hearing aid batteries through My HealtheVet when he's already ordering prescriptions there
+- Seeing many different socks in eBenefits and having difficulties telling them apart
+- Being unable to order his hearing aid accessories through eBenefits
+
 
 
 ### Desired Outcomes
