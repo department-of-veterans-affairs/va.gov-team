@@ -101,7 +101,7 @@ TODO: RDoc reference link
 
 ## Further Reading
 
-1. https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/reference_documents/Auth/authentication_and_authorization_simplified.md
+1. https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/authentication-and-authorization-simplified.md
 
 <hr>
 
