@@ -6,15 +6,15 @@ Further Reading:
 
 - https://reactjs.org/
 - https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md
-- https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Using%20GitHub%20and%20Contributing%20Code.md
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/how-to-collaborate-on-documents.md
 
 ## Process
 
-Please see the [Development Workflow](../development-workflow.md) documentation to learn
+Please see the [Development Workflow]() documentation to learn
 how to ship changes to Vets-Website.
 
 <hr>
 
-Back: [Vets Website Architecture](architecture.md)
+Back: [Vets Website Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/architecture.md)
 
-Next: [Vets Website Form Tutorial - Basic](forms/form-tutorial-basic.md)
+Next: [Vets Website Form Tutorial - Basic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/form-tutorial-basic.md)
