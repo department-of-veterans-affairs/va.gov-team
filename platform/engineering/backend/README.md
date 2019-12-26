@@ -53,52 +53,52 @@ The following list is a set of resources compiled by the people in your practice
         - [API Style Guide(outdated?)]()
         - Rate limiting?
 - Development workflow
-    - [Workflow](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/how-to-track-specific-work-items.md)
+    - [Workflow]()
     - [How to Contribute](https://github.com/department-of-veterans-affairs/vets-api#how-to-contribute)
     - [Communication norms](https://github.com/department-of-veterans-affairs/vets-external-teams/blob/master/Norms/norms-communication.md)
     - [Continuous Integration Process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Continuous%20Integration%20Process.md)
-    - [Engineering Key mgmt](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Key%20Management.md)
-    - [How to File Bugs, Tasks, and Questions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/How%20to%20File%20Bugs%20Tasks%20and%20Questions.md)
+    - [Engineering Key mgmt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/key-management.md)
+    - [How to File Bugs, Tasks, and Questions]()
 - Code review
-    - [Code Review Norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Code%20Review%20Norms.md)
+    - [Code Review Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md)
     - Release process
-        - [Deployment process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Deployment%20Process.md)
+        - [Deployment process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/deployment-process.md)
 - Triage Processes
-	- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md)
-	- [Incident Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/triage)
+	- [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/incident-response-playbook.md)
+	- [Incident Triage Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/incident-triage-process.md)
 	- [Support Tiers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/support-tiers.md)
 	- [On-Call Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/triage/on-call-process.md)
 - Architecture
     - Frontend is a collection of React apps [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
-    - vets-api syndicates data between various data sources and external service integrations to provide the various front-end [products](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products#products) with their requisite data
+    - vets-api syndicates data between various data sources and external service integrations to provide the various front-end [products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products) with their requisite data
     - Authentication/Identification w/ [ID.me](http://id.me/)
         - Login [flow](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login/reference-documents/auth)
         - [ID.me integration doc](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ID.me.md)
 - External Service Partners (fka APIs)
 	- [List of Upstream Services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/upstream-services.md)
-    - [Data Services Master Index](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Data) - vets-api integrates with many external services, listed here with integration details
+    - [Data Services Master Index](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems) - vets-api integrates with many external services, listed here with integration details
     - MVI - Master Veteran Index
-        - [MVI README](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Data/Data-Services/MVI)
-        - [MVI Integration](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Login/MVI%20Integration)
+        - [MVI README](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/mvi)
+        - [MVI Integration]()
     - EVSS - Enterprise Veterans Self Service
-        - [EVSS Integration](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/EVSS%20Integration/README.md). 
-        - [EVSS Services breakdown](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Data/Data-Services/EVSS)
+        - [EVSS Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/evss-integration). 
+        - [EVSS Services breakdown](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/eBenefits-EVSS)
     - MHV - My HealtheVet
     - eMIS - Enterprise Military Information Systems
-        - [eMIS Integration](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/SiP-Prefill/Prefill/eMIS_Integration)
+        - [eMIS Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/sip-prefill/emis-integration)
     - Vet360
-        - [Vet360 Master Index](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Data/Data-Services/Vet360)
-        - [Vet360 Swagger docs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Data/Data-Services/Vet360/Swagger/README.md)
+        - [Vet360 Master Index](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/vet360)
+        - [Vet360 Swagger docs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/vet360/swagger)
     - [Search.gov](http://search.gov/)
         - [Search.gov API docs](https://search.usa.gov/sites/7378) (requires account)
         - [Search.gov product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search)
     - VIERS - Veteran Information/Eligibility Record Services
     - iHub - Integration Hub
     - Facilities Locator - A single consolidated place where veterans and beneficiaries can easily find and understand high-level information about facilities offering priority VA benefits and services 
-		- [Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/product)
+		- [Facility Locator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
     - HCA - Health Care Applications
     - BB - Blue Button
     - GIBFT - GI Bill Feedback Tool
 - Datasources
-    - [VA Databases and Data Systems](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Data/Databases)
+    - [VA Databases and Data Systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems)
     - This list is incomplete as of writing ^
