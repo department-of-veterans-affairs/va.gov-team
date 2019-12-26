@@ -53,7 +53,7 @@ GitHub is a system that stores documents and keeps a revision history of those f
 ### Tips for managing files and folders
 
 1. Always use a dash (-) between words in file and folder names.
-    * If a folder (or a file) name has white space in it, Github fills each white space with ```%20```. E.g., ```https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Accessibility%20and%20508```
+    * If a folder (or a file) name has white space in it, Github fills each white space with ```%20```. 
     * This makes it hard for people to read Github URLs and even harder to type them (e.g., if you're on your mobile device).
 1. Use meaningful descriptive titles for files (and folders).
     * Give files (and folders) descriptive names to help people understand what's in them **before they click into them**.
