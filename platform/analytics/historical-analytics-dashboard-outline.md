@@ -1,17 +1,15 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Analytics Dashboard Product Outline
 - GitHub Label: analytics
 - Slack channel: #insights-team
 - Keywords: Analytics Dashboard, Scorecard
 
 ## Points of Contact:
-- VA Product Owner: Leah Bannon, leah.bannon2@va.gov
-- Product Manager: Joanne Esteban ryan.luu@adhocteam.us 
-- Design: Emily Waggoner emily@adhocteam.us 
-- Engineering: Tony Whittaker tony.whittaker@adhocteam.us 
-- GA: Nedie Recel nedie.recel@empiricalpath.com
-- Insights PIF: Joy Whitt Joy.Whitt@va.gov 
+- VA Product Owner: Leah Bannon
+- Product Manager: Joanne Esteban 
+- Design: Emily Waggoner  
+- Engineering: Tony Whittaker 
+- GA: Nedie Recel
+- Insights PIF: Joy Whitt 
 
 ---
 
@@ -123,7 +121,7 @@ The VA.gov Analytics Dashboard will unify the various sources of data into a cen
   - **Action item**: Auditing and organizing information that it cateloged in error reporting systems right now (prometheus, grafana, sentry).
      - Our tools on VA.gov are reliant on services we don't manage, limiting our view of the errors that are happening in other VA agencies/departments 
   - **Action item**: identify a good tool (biggest impact item) to start with in pursuing data beyond submission (@andrewhughey)
-  - **Action items**: audit and update data services inventory [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Data/Data-Services/services-inventory.md) @davemethvin
+  - **Action items**: audit and update data services inventory [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems) @davemethvin
      - Also adding a column for where data is sent - some documentation [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/README.md
 - **4/9/19** - created tentative [analytics roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Analytics/roadmap.md)
 - **5/2/19** - A new team (Insights Team) has been formed. They will be owning this work. As the new group has kicked off, this work is not in their immediate focus but is something they are considering as they progress with their work. The focus is identifying where our tools are failing [here](https://docs.google.com/spreadsheets/d/1Rd9XbELnN4qgcoaei_buJHotnRxzxu2HSlQRSvKBn1E/edit#gid=750704219). 
