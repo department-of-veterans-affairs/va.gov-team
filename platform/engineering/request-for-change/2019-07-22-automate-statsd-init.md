@@ -3,7 +3,6 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 # RFC: Automatic StatsD Metric Initialization
 
 - Date: 2019-07-22
-- Related Issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/626
 
 ## Background
 `vets-api` makes wide use of a mixin [`Monitoring.rb`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/concerns/monitoring.rb), specifically the [`with_monitoring`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/common/client/concerns/monitoring.rb#L7) block. For each usage, two dynamic StatsD metrics will be created:
