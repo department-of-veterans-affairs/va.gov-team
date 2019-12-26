@@ -135,7 +135,7 @@
 
 # Templates
 
-- [Product Outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product%20Management/Product%20Outline%20Template.md)
+- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - [Roadmap](https://docs.google.com/spreadsheets/d/1NfWWpJ55kun07Fowg191fOOY_ucRzc9kOdKx4d6hCK4/edit#gid=370900662)
 - [Epics](https://docs.google.com/a/adhocteam.us/document/d/1kv_zpT7FQviUC-nZ2Ef0g0aCfOaNJePneIvJroy_NUE/edit?usp=sharing)
 - Issue
@@ -143,8 +143,8 @@
   - Acceptance criteria + who needs to check it
   - Definition of done
   - References and mockups
-- [QA](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/4940)
-- [UAT](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/VA%20Documents%20and%20Letters/UAT)
+- [QA]
+- [UAT]()
 - [Launch checklist](https://docs.google.com/document/d/1kv_zpT7FQviUC-nZ2Ef0g0aCfOaNJePneIvJroy_NUE/edit#)
 - [Sample product guide](https://docs.google.com/a/adhocteam.us/document/d/1lBt17sGFgVKCdNU0kecpL8fFdrtoqmY9bGPayEvquaY/edit?usp=sharing) (for circulation to call center etc)
-- [Product Kickoff](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product%20Management/Vet-dot-gov%20kickoff%20template.pptx)
+- [Product Kickoff]()
