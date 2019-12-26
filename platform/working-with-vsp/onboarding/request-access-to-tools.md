@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Request access to tools
 
 ## Configure your Github and Slack accounts
@@ -42,7 +40,7 @@ timely manner**. In order to be granted AWS access your PIV background (eQUIP ad
 
  
 
-#### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#create-ssh-public-key).
+#### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 
 #### 2. Request that your SSH keys be authorized so that you can use the developer tools such as Jenkins, Grafana and Sentry.
 * File an issue in [va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team).
@@ -58,11 +56,11 @@ timely manner**. In order to be granted AWS access your PIV background (eQUIP ad
 
 #### 3. When your key has been added, the Github issue will be closed, which will send a notification to you. This is your signal that you can continue to the next step.
 
-#### 4. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#configure-the-socks-proxy).
+#### 4. Configure [the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy).
 
-#### 5. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-va-network).
+#### 5. Understand [how to use the SOCKS proxy from inside the VA network and from the internet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-va-network).
 
-#### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md#accessing-socks-proxy-from-the-internet).
+#### 6. [Test and use the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#accessing-socks-proxy-from-the-internet).
 
 #### 7. Jenkins, Grafana, and Sentry
 
@@ -77,7 +75,7 @@ Jenkins, Grafana, and Sentry have been linked to GitHub for user authentication.
 ##### 8B. You are required to login and change the temporary password immediately.
 * AWS will prompt you to change your password during first login
 * Additionally you are required to setup a virtual MFA device in order to access services in the AWS cloud and programmatically via the CLI.
-  * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/AWS%20Account%20Setup.md#mfa-virtual-device)
+  * Follow the walk through for MFA setup [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/aws-account-setup.md)
 
 
 ## Tools overview
