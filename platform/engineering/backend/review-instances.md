@@ -6,7 +6,7 @@ We often need want to deploy changes from a branch or pull request, so that we c
 
 If you're looking to test a front end change in a PR in vets-website, you can use a Heroku instance. Heroku instances are spun up for each PR; you'll see one linked in the PR with a url that looks something like https://vetsgov-pr-5306.herokuapp.com (first row):
 
-![PR deployment list](images/PR%20deployment%20list.png)
+![PR deployment list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/pr-deployment-list.png)
 
 These instances are public, but they only build the website part of VA.gov, not any of the React apps. They are also not connected to an API backend. 
 
@@ -18,9 +18,9 @@ If you need to test a service or application on VA.gov, or a backend change, rev
 
 Internal review instances are built by Jenkins (these have a url like http://71aaf141c9283eb0f29ded3b967a118c.review.vetsgov-internal) and are connected to an API backend (second row):
 
-![PR deployment list](images/PR%20deployment%20list.png)
+![PR deployment list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/pr-deployment-list.png)
 
-These require access to the [SOCKS proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md) so can not be review by external stakeholders.
+These require access to the [SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) so can not be review by external stakeholders.
 
 Review instances are created as part of a pull request for the vets-api or vets-website github repositories, but they can also be created manually by running a Jenkins job.
 
@@ -28,7 +28,7 @@ Review instances are created as part of a pull request for the vets-api or vets-
 
 The Jenkinsfiles in vets-website and vets-api define a stage that triggers a review instance deployment. Opening a PR will trigger the CI process, which will generate a "GitHub Deployment" for the PR. A message on the PR will provide a link to the review instance.
 
-You will need your browser configured to access the vetsgov-internal domain via the SOCKS proxy. Please see the [Internal Tools](./Internal%20Tools.md) documentation for detailed instructions.
+You will need your browser configured to access the vetsgov-internal domain via the SOCKS proxy. Please see the [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) documentation for detailed instructions.
 
 ### Manual Creation
 
@@ -48,4 +48,4 @@ ID.me SAML configuration requires explicitly defining a callback URL via a manua
 
 For implementation specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/roles/revproxy-configure/templates/nginx_revproxy.conf). The following sequence diagram presents an overview of this process:
 
-![Authentication Sequence](../images/2017-02-07-review-instance-authentication-sequence.png)
+![Authentication Sequence](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/2017-02-07-review-instance-authentication-sequence.png)
