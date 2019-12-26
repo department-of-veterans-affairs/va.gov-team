@@ -56,7 +56,7 @@ The following list is a set of resources compiled by the people in your practice
     - [Workflow]()
     - [How to Contribute](https://github.com/department-of-veterans-affairs/vets-api#how-to-contribute)
     - [Communication norms](https://github.com/department-of-veterans-affairs/vets-external-teams/blob/master/Norms/norms-communication.md)
-    - [Continuous Integration Process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Continuous%20Integration%20Process.md)
+    - [Continuous Integration Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/continuous-integration-process.md)
     - [Engineering Key mgmt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/key-management.md)
     - [How to File Bugs, Tasks, and Questions]()
 - Code review
