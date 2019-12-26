@@ -1,7 +1,7 @@
 # Yeoman application generator
 
 ### Communication Channels
-- Github Label: [yeoman-application-generator](https://github.com/department-of-veterans-affairs/vets.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Ayeoman-application-generator)
+- Github Label: yeoman-application-generator
 - Keywords: yeoman, form generator, application generator, scaffolding
 
 ### Points of Contact
