@@ -45,7 +45,7 @@ GitHub is a system that stores documents and keeps a revision history of those f
 
 * Github makes it easy to "style" text-based documents using Markdown syntax. Learn how to use [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-* Review the [Github primer to learn how to do basic tasks like creating a file or submitting a pull request](github-primer.md).
+* Review the [Github primer to learn how to do basic tasks like creating a file or submitting a pull request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/github-primer.md).
 
 * See also [tips for managing Github files and folders](#tips-for-managing-files-and-folders).
 
@@ -61,7 +61,7 @@ GitHub is a system that stores documents and keeps a revision history of those f
     * Descriptive titles make it much easier to find things using Github's Search function.
 1. Include a useful README.md file at the root of your folder structure, e.g., inside your "Product/Design" folder.
     * Useful READMEs tell people what's in the sub-folders and files **before they click into them**.
-    * Consider a TOC approach - [here's an example](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Research)
+    * Consider a TOC approach.
 1. Use a predictable folder structure.
     * Follow examples set by people/teams who came before you. Browse around in ```vets.gov-team``` repo to see what other teams have done.
     * Don't make a bunch of sub-folders that each only contain a few files. This makes it much harder for people to find things.
@@ -76,8 +76,8 @@ We use [Zenhub](https://www.zenhub.com) with Github to turn the "Issues" section
 
 The "Issues" section of the ```va.gov-team``` repo is where all teams manage their Epics, User Stories, and agile workflow.
 
-* Learn how to [get started using Zenhub](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Onboarding%20and%20Offboarding/zenhub_onboarding.pdf).
-* See [how we use Zenhub for product/agile management](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/zenhub_product_management.pdf).
+* Learn how to [get started using Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf).
+* See [how we use Zenhub for product/agile management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_product_management.pdf).
 
 
 ## Get help with Github
