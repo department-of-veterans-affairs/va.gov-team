@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Content 
 Hello! In this folder, you'll find information about plain language standards and documentation and guidance on creating content across VA.gov. 
 
@@ -32,9 +30,9 @@ The following list is a set of resources to help you do your work and answer con
     - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)
     - [Crafting content that supports a Veteran-first digital experience](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/content-style-guide-training-with-VHA-071119.pdf)
 - VA.gov content strategy guides
-    - [Strategy for the new VA.gov](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/VA.gov%20Relaunch%202018/new-vagov-strategy)
-    - [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/DigitalModernizationStrategy.pdf)
-    - [Web brand consolidation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)  
+    - [Strategy for the new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/va-gov-strategy)
+    - [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
+    - [Web brand consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf)  
    -  [VA content hierarchy](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/d6a92604f5bfd62c0078f3bcb0544460d491f7c0/content-tiers-VA.gov.pdf)
 - SEO resources
     - [Writing for SEO](https://design.va.gov/content-style-guide/seo)
