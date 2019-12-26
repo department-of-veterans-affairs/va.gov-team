@@ -1,7 +1,6 @@
 # RFC: Enable SSL in Dev
 
 - Date: 2018-10-30
-- Related Issue: https://github.com/department-of-veterans-affairs/vets.gov-team/issues/14417
 
 ## Background
 
