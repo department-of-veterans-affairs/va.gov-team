@@ -28,11 +28,7 @@ This was mostly decided back in Fall 2016, but the documentation was scattered, 
 
 Previous documentation includes: 
 
-https://github.com/department-of-veterans-affairs/vets.gov-team/issues/358
-
 https://github.com/department-of-veterans-affairs/vets-website/issues/3492
-
-https://github.com/department-of-veterans-affairs/vets.gov-team/pull/364
 
 ### Contributing Factors
 
