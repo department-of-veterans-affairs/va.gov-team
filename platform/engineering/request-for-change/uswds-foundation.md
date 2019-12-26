@@ -32,9 +32,9 @@ Removing Foundation from vets-website became a project our team wanted to tackle
 Tiffany Brown (front-end dev) had been working on trying to remove Foundation from vets-website for a few months. It was a tangled problem that touched every part of Vets.gov and had cascading effects.
 
 She left the team on Friday, May 12 with the following work:
-1. The [original ticket](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/549) that includes a ton of documentation
+1. The [original ticket]() that includes a ton of documentation
 2. An [open PR](https://github.com/department-of-veterans-affairs/vets-website/pull/5353) 
-3. [Hand-off notes](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/2739)
+3. [Hand-off notes]()
 
 Tiffany got us pretty far before she left, but there was still a good amount of work left to do to complete this project.
 
@@ -77,5 +77,5 @@ The short-term decision was to explore ways of not removing the Foundation grid.
 
 There were 3 action items that came out of this decision:
 1. Try removing jQuery and the Foundation JavaScript to ensure that everything continues to work without those two larger pieces of JavaScript.
-2. Investigate what we miss out on by not upgrading the newest version of USWDS --> [GH issue with documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/2873)
+2. Investigate what we miss out on by not upgrading the newest version of USWDS --> [GH issue with documentation]()
 3. Talk to the 18f team about some of the features that we would need in USWDS to be able to fully use their framework (small width grid classes and visibility classes)
