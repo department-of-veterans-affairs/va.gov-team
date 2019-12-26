@@ -7,7 +7,7 @@
 
 ## Motivation
 
-- Leaving components mounted by enzyme after a unit test can cause [unintended side effects](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/15375)
+- Leaving components mounted by enzyme after a unit test can cause [unintended side effects]()
 
 ## Scope
 
