@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Veteran-facing Services Platform (VSP)
 The `va.gov-team` repository is used for documentation created and used by the teams that build and use the VSP. The information in this repo is relevant to teams building Veteran-facing services, teams running the platform itself, DSVA (Digital Service at VA), DEPO (Digital Experience Product Office) team members, and VA stakeholders.
 
@@ -24,7 +22,7 @@ Is something broken?
 
 * Tell [#oncall](https://dsva.slack.com/messages/C30LCU8S3).
 * [Who's OnCall? (PagerDuty schedules)](https://dsva.pagerduty.com/schedules)
-* [See OnCall documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/OnCall) (internal)
+* [See OnCall documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall) (internal)
 * [Breakers dashboard (Grafana)](http://grafana.vetsgov-internal/dashboard/db/breakers?orgId=1)
 * [Submit a non-critical issue to be triaged](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=triage%2C+triage-incident&template=triage-incident-template.md&title=)
 
@@ -34,9 +32,9 @@ Is something broken?
 
 * [**Burials and Memorials**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials)
 * [VA Form 21P-530: Application for Burial Benefits
-](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Burials%20and%20memorials/Burial%20530)
+]()
 * [Pre-Needs Burial](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/burials-memorials/pre-need)
-* [Time of Need Burials](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Burials%20and%20memorials/Time-of-Need-Burials)
+* [Time of Need Burials]()
 
 ### Careers and Employment
 
@@ -46,29 +44,29 @@ Is something broken?
 ### Disability
 
 * [**Disability**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability)
-* [VA Form 21-686c: Declaration of Status of Dependents](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686)
-* [VA Form 21-526: Application for Disability Compensation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ)
+* [VA Form 21-686c: Declaration of Status of Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)
+* [VA Form 21-526: Application for Disability Compensation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
 
 ### Education
 
 * [**Education**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers)
 * [Colmery Act Opt-Out](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/opt-out)
 * [Education Benefits Forms](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application)
-    * [VA Form 22-1990: Application for VA Education Benefits](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/1990)
-    * [VA Form 22-1995: Request for Change of Program](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/1995)
-    * [VA Form 22-0994: Application for VETTEC](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Education%20Benefits%20Apps/VETTEC%200994)
+    * [VA Form 22-1990: Application for VA Education Benefits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1990)
+    * [VA Form 22-1995: Request for Change of Program](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/1995)
+    * [VA Form 22-0994: Application for VETTEC](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/application/vettec-0994)
 * [GI Bill Comparison Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool)
 * [GI Bill Feedback Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-feedback-tool)
-* [Post-9/11 GI Bill Enrollment Status](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/Post-911%20GI%20Bill%20Statement%20of%20Benefits)
-* [VA Form 21-674: Request for Approval of School Attendance](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Education/School%20Attendance%20674)
+* [Post-9/11 GI Bill Enrollment Status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/statement-of-benefits)
+* [VA Form 21-674: Request for Approval of School Attendance](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-attendance)
 
 ### Health Care
 
 * [**Health Care**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care)
-* [VA Form 10-10EZ: Application for Health Care Benefits](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication)
+* [VA Form 10-10EZ: Application for Health Care Benefits](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application)
 * [Appointment Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments)
 * [Blue Button](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/medical-records)
-* [Mental Health services (Executive Order 13822)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/Mental%20Health%20EO)
+* [Mental Health services (Executive Order 13822)]()
 * [Prescription Refills](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills)
 * [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/secure-messaging)
 
@@ -79,16 +77,16 @@ Is something broken?
 ### Pension
 
 * [**Pension**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension)
-* [Pension 527EZ](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Pension/Pension%20527EZ)
+* [Pension 527EZ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pension/application)
 
 ### Records
 
 * [**Records**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records)
-* [DD214](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/DD214)
-* [Discharge Update](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Discharge%20Update)
+* [DD214](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/dd214)
+* [Discharge Update](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-military-records/discharge-update)
 * [Veteran ID Card Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards)
 * [Veteran ID Card v2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-id-cards)
-* [Veteran Verification Badge](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Records/Veteran-Verification-Badge)
+* [Veteran Verification Badge]()
 
 ### Not tied to a specific hub
 
@@ -96,8 +94,8 @@ Is something broken?
 * [Claims Status](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status)
 * [Decision Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews)
 * [Facilities Locator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator)
-* [Feedback Form](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/FeedbackForm)
-* [Find a Representative](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Find%20a%20Representative)
+* [Feedback Form]()
+* [Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/find-a-representative)
 * [Search.gov Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/search)
 * [SiP Prefill](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/global-form-features)
 
@@ -107,25 +105,25 @@ Is something broken?
 * Content Management System (CMS)
     * [`va.gov-cms` repo](https://github.com/department-of-veterans-affairs/va.gov-cms/)
     * [Overview docs](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/architecture/cms/)
-* [Design System](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Design%20System)
-* [Document Uploads](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Document%20Uploads)
-* [Downtime Notifications](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Downtime%20Notifications)
-* [EVSS Integration](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/EVSS%20Integration)
-* [Error Reporting](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Error-Reporting)
-* [Feature Flags](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/FeatureFlags)
-* [Forms Library](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Forms%20Library)
-* [Infrastructure](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Infrastructure)
-* [Platform Support](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Platform%20Support)
-* [Review Instance](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/ReviewInstance)
-* [SEO](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/SEO)
-* [vets-api](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Vets-API)
-* [Yeoman application generator](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Yeoman%20application%20generator)
+* [Design System](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design/design-system)
+* [Document Uploads]()
+* [Downtime Notifications]()
+* [EVSS Integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/evss-integration)
+* [Error Reporting]()
+* [Feature Flags]()
+* [Forms Library]()
+* [Infrastructure](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/infrastructure)
+* [Platform Support]()
+* [Review Instance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/review-instance.md)
+* [SEO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
+* [vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api)
+* [Yeoman application generator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/Yeoman%20application%20generator.md)
 
 ### Identity
 
 * [**Identity**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization)
-* [Customer](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Customer)
-* [Identity Unifier](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Identity%20Unifier)
+* [Customer](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/customer)
+* [Identity Unifier](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/identity-unifier)
 * [Login](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/login)
 * [Personalization](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0) 
 
