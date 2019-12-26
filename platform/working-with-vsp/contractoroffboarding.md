@@ -18,4 +18,4 @@ Other than that, thank you for your service and have an excellent day!
 In the event you need to offboard someone else because they have already left, please follow the above instructions on their behalf.
 
 ## Resources
-The DSVA platform team will use the offboarding issue [template](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/new?assignees=%40batemapf&labels=offboarding&template=contractor_offboarding.md&title=%5Bfirst_name%5D+%5Blast_name%5D+offboarding+checklist) to complete your offboarding.
+The DSVA platform team will use the offboarding issue template to complete your offboarding.
