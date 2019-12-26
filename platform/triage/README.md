@@ -21,5 +21,5 @@ The following is a set of resources to help you work with the VSP Triage team. S
 - [Learn how Sentry is used within the VSP](sentry-usage-overview.md)
 - [Learn how to use Sentry tags](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/sentry-tagging-standards.md)
 - [Learn about the various upstream services](upstream-services.md)
-- [Add a grafana dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/Grafana%20Overview.pdf)
+- [Add a grafana dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/engineering/grafana-overview.pdf)
 
