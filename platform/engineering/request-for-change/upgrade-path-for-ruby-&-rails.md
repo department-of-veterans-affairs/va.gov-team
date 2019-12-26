@@ -3,8 +3,8 @@
 - Dates: 2019-01-24 - 2019-02-07
 - Related Issue(s): 
   - [vets-contrib #984](https://github.com/department-of-veterans-affairs/vets-contrib/issues/984) - List of updates to make for Rails 4 -> Rails 5
-  - [#16567](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/16567) - Write an RFC for Rails upgrade
-  - [#4143](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/4143) - Audit vets-api Gemfile
+  - Write an RFC for Rails upgrade
+  - Audit vets-api Gemfile
 
 ## Background
 Currently our ruby version is `2.3` and our rails version is `4.2.11`. It's good practice to upgrade to latest stable versions of our stack when practical. 
