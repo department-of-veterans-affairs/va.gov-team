@@ -17,7 +17,7 @@ Jest is probably the most common testing framework in the React ecosystem and ha
 
 ## History
 
-See [#12874](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12874) for the full history. A Jest RFC was started by Ryan McAuliffe and some exploratory work was done by him and Claire Hsu. The overall consensus of developers here was that Jest has some nice features and is typically faster than Mocha based tests, so it seemed like a good improvement for us. However, during our evaluation we found that our tests were significantly slower than our current approach. Rian Fowler did some further testing around this issue and was unable to resolve it.
+A Jest RFC was started by Ryan McAuliffe and some exploratory work was done by him and Claire Hsu. The overall consensus of developers here was that Jest has some nice features and is typically faster than Mocha based tests, so it seemed like a good improvement for us. However, during our evaluation we found that our tests were significantly slower than our current approach. Rian Fowler did some further testing around this issue and was unable to resolve it.
 
 ## Pros
 - Jest is widely supported in the React community
@@ -25,7 +25,7 @@ See [#12874](https://github.com/department-of-veterans-affairs/vets.gov-team/iss
 - It supports parallelization, and makes better use of all resources available to it
 
 ## Cons
-- It's approximately [2x slower than our current tests](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12874#issuecomment-448280502)
+- It's approximately [2x slower than our current tests]()
 - Some of the useful features (snapshots) could be adopted without switching to Jest
 
 ## Decision
