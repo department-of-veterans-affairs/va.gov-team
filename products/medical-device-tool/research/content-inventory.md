@@ -1,14 +1,23 @@
 # MDT Content Inventory
-This document serves to list out the minimum requirements that the API needs to gather in order for Veterans to order prosthetic socks and/or hearing aid batteries. 
+This is a living document that serves as a base requirements doc for the Medical Device Tool.   
 This is a first draft, and may be updated as new knowledge is gathered.  
 
+## General Requirements
+- A way for Veterans to log in 
+- Ability for Veteran to select order items 
+- A way for a Veteran to submit an order 
+- A way for a Veteran to exit the ordering process 
+- Error messaging 
+- Order confirmation page 
+- DLC Contact information (Email: DALV.CSS@VA.gov; call center phone number: 303-273-6200)
+
 ## Veteran contact information
-Veteran Name  (Pre-populated, cannot edit)
-SSN (Pre-populated, cannot edit)
-Address (Pre-populated, editable, required)
-Phone number
-Email address
-Forwarding address (optional, editable)
+- Veteran Name  (Pre-populated, cannot edit)
+- SSN (Pre-populated, cannot edit)
+- Address (Pre-populated, editable, required)
+- Phone number
+- Email address
+- Forwarding address (optional, editable)
 
 ## Batteries
 #### Min:
@@ -18,7 +27,7 @@ Forwarding address (optional, editable)
 - Battery Quantity
 - Battery Serial Number 
 - Last ordered date
-- Accessories (???)
+- Accessories (Do we want to include this in the MVP?)
 - Additional comments
 - Next Reorder Date / Days til next reorder
 
