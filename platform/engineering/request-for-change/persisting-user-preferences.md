@@ -1,7 +1,6 @@
 # RFC: Persisting User Preferences
 
 - Date: 2018-08-03
-- Related Issue: [#11875](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11875)
 
 ## Background
 We want to allow users to personalize their experience on the site with preferences/settings. These preferences should persists across devices & sessions, so we need to store these choices in the database somehow.
