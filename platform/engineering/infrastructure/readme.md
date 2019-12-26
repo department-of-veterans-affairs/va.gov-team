@@ -7,33 +7,33 @@ Hello! In this folder, you'll find information specific to how Infrastructure/De
 
 ### Points of contact
 The Infrastructure points of contact are:  
-- [Wyatt Walter](mailto:wyatt@adhocteam.us), @wyattwalter on Slack, [@wyattwalter](https://github.com/wyattwalter) on Github
-- [Andrew Gunsch](mailto:andrew.gunsch@adhocteam.us), @gunsch on Slack, [@gunsch](https://github.com/gunsch) on Github
+- [Wyatt Walter], @wyattwalter on Slack, [@wyattwalter](https://github.com/wyattwalter) on Github
+- [Andrew Gunsch], @gunsch on Slack, [@gunsch](https://github.com/gunsch) on Github
 
 ### Table of contents
 The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
 - Hosting Architecture
-    - [Overview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/TechnicalArchitectureOverview.md)
-    - [AWS networks](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Infrastructure#aws--vaec)
-    - [Website proxy](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Infrastructure#reverse-proxy)
+    - [Overview]()
+    - [AWS networks]()
+    - [Website proxy]()
 - Environment/tools setup
-    - [SOCKS](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Infrastructure#socks-proxy)
+    - [SOCKS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
     - [PagerDuty](https://github.com/department-of-veterans-affairs/devops/blob/master/terraform/environments/dsva-pagerduty/README.md)
     - [AWS](https://github.com/department-of-veterans-affairs/devops#setup)
 - On-call / Operational Basics
-    - [Incident Response](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Infrastructure#incident-response)
+    - [Incident Response](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/triage/incident-response-playbook.md)
     - Alert descriptions
     - Postmortems
 - Configuration Management
-    - [Terraform](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Platform/Infrastructure#terraform)
-    - [BRD](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Infrastructure/README.md#integration--deployment-pipeline)
-    - [Jenkins](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Infrastructure/README.md#jenkins)
+    - [Terraform]()
+    - [BRD]()
+    - [Jenkins]()
 - Tools
-    - [Sentry](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Infrastructure/README.md#sentry)
-    - [Grafana](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Infrastructure/README.md#grafana)
-    - [Prometheus](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Infrastructure/README.md#prometheus)
-- [External Service Integrations](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/README.md)
-    - [Adding a new integration](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/Adding%20A%20New%20Integration.md)
+    - [Sentry]()
+    - [Grafana](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/grafana-overview.pdf)
+    - [Prometheus]()
+- [External Service Integrations]()
+    - [Adding a new integration]()
 
 
 ---
@@ -51,7 +51,7 @@ Welcome to the team! If all has gone well, you've made it through our [main onbo
 
 Resources from the sprint teams will work with the DevOps team regularly to encourage further cross-product communication. In onboarding, find out what we do, our history, our responsibilities, and who the people are who share those responsibilities.
 
-[Get started on the DevOps team](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/Onboarding.md).
+[Get started on the DevOps team]().
 
 </details>
 
@@ -244,23 +244,23 @@ To encourage the continued application of processes and experience from DevOps t
 
 This is a place for you to add the things you use often that you think might be useful to other members of the team. 
 
-- [PR Checklist](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/bf585327f2e54c29431e70c6f9298ef0e0a86694/Practice%20Areas/Engineering/PR-Checklist.md): Code-review guidelines 
-- [SiP Prefill Process Document](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/111ec83407c93ec52c155593c30459a7f6ad99ddProducts/Global/SiP-Prefill/Process.md)
-- [Maintenance and downtime for VA partners listserv](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/bf18768e1a441053e3ca3bfd0bb8c4e9d3455dad/Groups/DevOps.md)
-- [Vets-API Endpoint Punch List](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/09252ff2c2fb73f1bae73d4e994886e49ef4275d/Practice%20Areas/Engineering/vets-api-endpoint-punch-list.md)
-- [USDS Mailing Lists](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/54a5be82e0059371d112d3c988c9f32976b8b2b9/Practice%20Areas/mailing-lists.md)
-- [DevOps Sprint Log](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/15ceb6538b5b1f5d9d13c5e283bd7516e2e8421b/Practice%20Areas/Engineering/Infrastructure/sprintlog.md)
-- [Vets.gov Threat Model](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/09a7ae989bb11b94175c104a583b47cb33c7949b/Products/Vets.gov%20Platform/Infrastructure/threat_model/vetsgov_threat_model.md)
-- [Test Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/6408a2430b26f45aaf3644c225f34963a403cf3fProducts/Global/Claim%20Status/file-claim/technical-documents/test-plan.md)
-- [Postmortems](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/48f856d8ab5fd1ed89d465878911b2167c4978b8/Postmortems): In the event of a page or service interruption, a postmortem provides a useful reference for understanding problems with our systems and approach, and for communicating the issue to stakeholders. A postmortem should be crafted for every event that causes a page or an interruption to expected service operation.
-- [Soft-launch Strategies](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/dab978d07c2e7c38464adf9fb59b21c8850024ba/Practice%20Areas/Engineering/Soft%20Launch%20Strategies.md)
-- [Review Instances](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/3451f045f26c6f02d126231825e3a84fb59aeb70/Practice%20Areas/Engineering/Review%20Instances.md)
-- [Documented Decisions: Backend Repositories](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/c6e38fa124737b47177f072617d8aa1851f0f875/Practice%20Areas/Engineering/DocumentedDecisions/Vets.gov%20Backend%20Repositories.md)
-- [Deployment Process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/21f38d8322f2b05bc1a2b0c05637d6c2a888c7dc/Practice%20Areas/Engineering/Deployment%20Process.md): Notifying the DevOps team on what feature flags should be enabled/disabled in staging and production environment is an important part of this process.
+- [PR Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md): Code-review guidelines 
+- [SiP Prefill Process Document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/sip-prefill/process.md)
+- [Maintenance and downtime for VA partners listserv]()
+- [Vets-API Endpoint Punch List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/vets-api-endpoint-punch-list.md)
+- [USDS Mailing Lists]()
+- [DevOps Sprint Log]()
+- [Vets.gov Threat Model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/threat-model-in-practice.md)
+- [Test Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/file-claim/test-plan.md)
+- [Postmortems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/Postmortems): In the event of a page or service interruption, a postmortem provides a useful reference for understanding problems with our systems and approach, and for communicating the issue to stakeholders. A postmortem should be crafted for every event that causes a page or an interruption to expected service operation.
+- [Soft-launch Strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/soft-launch-strategies.md)
+- [Review Instances](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md)
+- [Documented Decisions: Backend Repositories]()
+- [Deployment Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/deployment-process.md): Notifying the DevOps team on what feature flags should be enabled/disabled in staging and production environment is an important part of this process.
 - [Alerts](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/alerts.md): This document describes alerts generated by Vets.gov monitoring systems.
-- [Key Management](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/fe6f2e147f26d6fc1d84fd80cd1185e0d6e0b356/Practice%20Areas/Engineering/Key%20Management.md): This document outlines our guidelines and general practices with regards to managing cryptographic keys and access credentials for protected systems.
-- [Sending Metrics Using StatsD](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/cb48d857cb1f2681241380b58fb544ffccbefed9/Practice%20Areas/Engineering/Sending%20Metrics%20Using%20StatsD.md):This document is meant to provide an introduction to how StatsD metrics are sent, how they interact with Prometheus, and how a developer can use them on vets-api.
-- [Structured Logging](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/6408a2430b26f45aaf3644c225f34963a403cf3f/Products/Vets.gov%20Platform/Infrastructure/monitoring/structured-logging.md): Output structured logs that are human readable and machine parsable. Automate the logging of event ids, and make it easy to publish metrics.
+- [Key Management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/key-management.md): This document outlines our guidelines and general practices with regards to managing cryptographic keys and access credentials for protected systems.
+- [Sending Metrics Using StatsD](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/sending-metrics-using-statsd.md):This document is meant to provide an introduction to how StatsD metrics are sent, how they interact with Prometheus, and how a developer can use them on vets-api.
+- [Structured Logging](): Output structured logs that are human readable and machine parsable. Automate the logging of event ids, and make it easy to publish metrics.
 
 
 
@@ -285,7 +285,7 @@ This is where we store links from outside the Vets.gov repo that can be helpful 
 
 Meetings and schtuff
 
-[Check out the minutes from Engineering/DevOps meetings](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/0ecf7bcf054211023cc401d2fc9f4f593f98be4f/Practice%20Areas/Engineering/Eng%20Team%20Meetings).
+[Check out the minutes from Engineering/DevOps meetings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/team-meetings).
 
 </details>
 
@@ -299,10 +299,10 @@ Every time something new is added to the DevOps folder, it should also be indexe
 
 ## [Overall DevOps Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Infrastructure)
 
-- [When, How, and Why to Engage Platform](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/Engage-Platform.md)
-- [Onboarding](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/Onboarding.md): Things you need to know when you join the DevOps team
-- [Readme](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/README.md): Welcome to DevOps
-- [DevOps Team Sprint Log](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/sprintlog.md): This document tracks the teams sprint goals and performance over time. 
+- [When, How, and Why to Engage Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/engage-platform.md)
+- [Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/operations/onboarding.md): Things you need to know when you join the DevOps team
+- [Readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/infrastructure): Welcome to DevOps
+- [DevOps Team Sprint Log]): This document tracks the teams sprint goals and performance over time. 
 
 </details>
 
@@ -312,8 +312,8 @@ Every time something new is added to the DevOps folder, it should also be indexe
 
 ## [Retro Notes Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Infrastructure/Retro%20Notes)
     
-   - [PI 6 Sprint 3 Devops Retro](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/Retro%20Notes/PI%206%20Sprint%203%20Devops%20Retro.pdf): What went well? (Kong deployment, AdHoc retreat) What didn't? (Sharing Terraform with Appeals, turning on-call requests into tickets)
-   - [PI 7 Sprint 2 & 3 Devops Retro](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/Retro%20Notes/PI%207%20Sprint%202%20%26%203%20Devops%20Retro.pdf): What went well? (Closed tickets, onboarding) What didn't? (Confusion around ESCCB, testing requests come in last-minute)
-   - [PI8 Sprint 1 Devops Retro](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Infrastructure/Retro%20Notes/PI8%20Sprint%201%20Devops%20Retro.csv): What went well? (Caught up on grooming, ESCCB for preview.va.gov was approved) What didn't? (Explore the possibility of hiring a security analyst or similar position to handle the ATO process)
+   - [PI 6 Sprint 3 Devops Retro](): What went well? (Kong deployment, AdHoc retreat) What didn't? (Sharing Terraform with Appeals, turning on-call requests into tickets)
+   - [PI 7 Sprint 2 & 3 Devops Retro](): What went well? (Closed tickets, onboarding) What didn't? (Confusion around ESCCB, testing requests come in last-minute)
+   - [PI8 Sprint 1 Devops Retro](): What went well? (Caught up on grooming, ESCCB for preview.va.gov was approved) What didn't? (Explore the possibility of hiring a security analyst or similar position to handle the ATO process)
     
 </details>
