@@ -46,12 +46,12 @@ This is an overview of the third party managed scripts allowed to run on Va.gov.
 |[Github User Content](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/static-pages/renderHomepageBanner.js)|Hosts configuration file for the homepage banner.|
 |[Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/3d5b5b5f2307eb10af1f2e04d2c1a00707a1cf25/platform/analytics/google-analytics/readme.md)|Web analytics platform.|
 |[Google Maps (via Leafletjs)](https://leafletjs.com/)|Facility locator uses leaflet to annotate its map. This dependency leverages the Google maps js framework.|
-|[Google Optimize](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/9fd4d5da296a4570fd10e7a6643c8418020c97c0/Practice%20Areas/Insights/Analytics/optimize360/readme.md#optimize-360o)|An a/b testing + personalization tool.|
+|[Google Optimize](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/analytics/google-analytics)|An a/b testing + personalization tool.|
 |Govdelivery|used to deliver messages to veterans.|
-|[Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/blob/7a662d972fa9e571a222a4b8b13b929ca1795c7a/products/facilities/facility-locator/README.md#what-to-know-about-the-product)|A location / address tool used in the Facility Locator.|
-|[Medallia](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/1c9fbe5f9291dbc9d425bca5fb8dbe5274a486aa/Products/Education/GIBCT/readme.md)|Survey tool|
+|[Mapbox](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md#what-to-know-about-the-product)|A location / address tool used in the Facility Locator.|
+|[Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/README.md)|Survey tool|
 |[Uservoice](https://github.com/department-of-veterans-affairs/va.gov-team/search?q=user+voice&unscoped_q=user+voice)|Survey tool|
-|[YouTube](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/1c9fbe5f9291dbc9d425bca5fb8dbe5274a486aa/Products/Education/GIBCT/readme.md)|Embedded video used on "Know Before You Go" video on GI Bill Comparison Tool.|
+|[YouTube](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/README.md)|Embedded video used on "Know Before You Go" video on GI Bill Comparison Tool.|
 
 ## Related info 
 - [Strict csp](https://csp.withgoogle.com/docs/strict-csp.html)
