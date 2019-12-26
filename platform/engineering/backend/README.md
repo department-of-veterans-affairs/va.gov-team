@@ -1,21 +1,19 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Backend 
 Hello! In this folder, you'll find information specific to how Backend Engineering works on VA.gov. 
 
 ### Communication channels
 - Slack channels: #vsp-backend (VSP team members) #vfs-platform-support (everyone else)
-- Github labels: [backend](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Abackend)
+- Github labels: [backend]()
 
 ### Points of contact
 The Backend points of contact are:  
-- [Andrew Gunsch](mailto:andrew.gunsch@adhocteam.us), @gunsch on Slack, [@gunsch](https://github.com/gunsch) on Github
-- [Anna Carey](mailto:anna@adhocteam.us), @Anna Carey on Slack, [@annaswims](https://github.com/annaswims) on Github
+- [Andrew Gunsch](), @gunsch on Slack, [@gunsch](https://github.com/gunsch) on Github
+- [Anna Carey](), @Anna Carey on Slack, [@annaswims](https://github.com/annaswims) on Github
 
 ### Table of contents
 The following list is a set of resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
 - Getting started
-    - [Background/FAQ](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/EngineeringOnboarding.md#backgroundfaq) 
+    - [Background/FAQ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/engineeringonboarding.md#backgroundfaq) 
 - Environment setup
     - [Native setup instructions](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/native.md)
     - [Docker setup instructions](https://github.com/department-of-veterans-affairs/vets-api#base-setup)
@@ -27,18 +25,18 @@ The following list is a set of resources compiled by the people in your practice
     - Run the app
         - [Running the app](https://github.com/department-of-veterans-affairs/vets-api#running-the-app)
    - Logging in 
-        -   [DS Logon usernames and passwords](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/ds%20logon/ds-logon-lower-env-test-accounts.md)
-        - [MyHealtheVet usernames and passwords](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/MHV/mhv-lower-env-test-accounts.md)
+        -   [DS Logon usernames and passwords]()
+        - [MyHealtheVet usernames and passwords]()
         - [id.me usernames and passwords](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv)
     - Run tests
         - [Running test suite](https://github.com/department-of-veterans-affairs/vets-api#running-tests)
-        - [Load testing process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Backend/Load%20Testing.md)
+        - [Load testing process](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/load-testing)
         - [Accessing Staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-        - [Accessing Internal Resources](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md) (Jenkins, Sentry, Grafana, Prometheus)
+        - [Accessing Internal Resources](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md) (Jenkins, Sentry, Grafana, Prometheus)
     -  API Reference
         - [vets-api Swagger/OpenAPI Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/) 
     - Database Migrations
-        - [Database Migration Practices](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Database%20Migrations.md)
+        - [Database Migration Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/database-migrations.md)
     - Mocking data
         - [Mocking an external service](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md#mocking-a-service)
         - [Mocking error responses](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md#mocking-error-responses)
@@ -49,10 +47,10 @@ The following list is a set of resources compiled by the people in your practice
     - Standards and conventions
         - Team [engineering practices directory](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering)
         - for reference: [18F API standards](https://github.com/18F/api-standards) (some good advice here)
-        - [New API endpoint punchlist](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/vets-api-endpoint-punch-list.md)
-        - [Vets-API Endpoint Punch List Presentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Presentations/vets-api-endpoint-punch-list-presentation.md)
+        - [New API endpoint punchlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/vets-api-endpoint-punch-list.md)
+        - [Vets-API Endpoint Punch List Presentation]()
         - [Service classes](https://github.com/department-of-veterans-affairs/vets-api#how-to-contribute)
-        - [API Style Guide(outdated?)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Style%20Guides/API/README.md)
+        - [API Style Guide(outdated?)]()
         - Rate limiting?
 - Development workflow
     - [Workflow](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/how-to-track-specific-work-items.md)
