@@ -17,7 +17,7 @@ Given recent efforts toward a VA.gov relaunch for the purposes of brand consolid
 3. Changes to content should be continuously deployed and published directly to all environments.
 4. Content publishing should be quick and reliable.
 
-We have recently received [approval to host approved non-sensitive information outside of the TIC boundary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Memos/Content%20Delivery%20Network%20Memo%202018-10-05.pdf). This allows us to serve static assets, such as JS, CSS, and images, from servers that are better capable of addressing our performance needs. Evaluating our content publishing workflow to provide a better means of delivering static build assets to new targets is apt at this time. 
+We have recently received [approval to host approved non-sensitive information outside of the TIC boundary](). This allows us to serve static assets, such as JS, CSS, and images, from servers that are better capable of addressing our performance needs. Evaluating our content publishing workflow to provide a better means of delivering static build assets to new targets is apt at this time. 
 
 ## Design
 
