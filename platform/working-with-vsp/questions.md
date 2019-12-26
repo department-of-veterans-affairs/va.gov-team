@@ -38,10 +38,6 @@
 - Community Care: their intent is to keep maintaining (at least until June 2019 for now...), so different teams will have different arrangements in this beginning phase.
   * [ ] Liz to confirm with Larry G (VA OIT)
 
-#### Future - see [decisions](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Platform-Support/decisions#applicationfeature-improvement-and-maintenance)
-
-
-
 
 ## Code quality
 
@@ -93,7 +89,7 @@
 
 - Right now, hasn't seemed overly burdensome
 - But it might get more time intensive as they get closer to code reviews and launch
-- Continue tracking in real time here, open notes, FAQs, etc here: [time-tracker.md](time-tracker.md)
+- Continue tracking in real time here, open notes, FAQs, etc.
 - Let's do a retro at the end of PI9 to get team's perspective
 - Then strategy meeting / prioritization exercise for DSVA as to how to continue a longer term vision of providing System Integration support - does it need new contracting? is that part of the vision for what DSVA does? etc
 - **Need to prioritize "time tracking" for DSVA/AdHoc team.** How/who will do this?
@@ -111,7 +107,7 @@
 - Second thing: what mechanisms keep liability fair and attributable?
 - One idea: include security reviews as a part of build/launch process
 - Status: need to put some info together (per first thing above) and come back for much larger discussion / workshop
-- Related issues around security review - see [decision made here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Platform-Support/decisions/ato-security.md)
+- Related issues around security review - see [decision made here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 - Urgent thing: people have a lot of questions around the deployment and UAT and other processes leading up to launch, and we don't have e2e documentation of it. How can we make time for that, when teams are heads down on other priorities?
 
 
