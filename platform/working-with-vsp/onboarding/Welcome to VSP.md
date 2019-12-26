@@ -24,7 +24,7 @@ Here's a sample timeline of what you should expect to do as you prepare to start
 
 ## Working in the open
 
-We work in the open and strive to keep as much of our code and other work product in publicly accessible open source repositories. You will have access to our open source (i.e. public) GitHub repository for tracking work and documentation. [Here are some ground rules to make sure you know what _not_ to do when working in a public repo](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md).
+We work in the open and strive to keep as much of our code and other work product in publicly accessible open source repositories. You will have access to our open source (i.e. public) GitHub repository for tracking work and documentation. [Here are some ground rules to make sure you know what _not_ to do when working in a public repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md).
 
 ## What should VFS Teams expect to do as they design, build, launch, iterate?
 
@@ -34,16 +34,16 @@ Here are materials you should start familiarizing yourself with to help you lear
 
 Document what you're building, what problem it's solving, what outcomes you hope it achieves, and how you'll measure success. And track the work necessary to actually deliver the solution.
 
-- [Here's how to write a great Product Outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/ProductOutline.md).
-- Please store your VA.gov Product documentation in the [va.gov-team repo product folders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products). As of November 2019 we are in the process of copying select legacy documentation from the vets.gov-team repo to supplement va.gov-team; expect to see additional content and updates to links as this work continues. 
-- Teams regularly use ZenHub to better organize GitHub issues. [Here's how the VSP team uses ZenHub to manage its work](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/zenhub_product_management.pdf).
+- [Here's how to write a great Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).
+- Please store your VA.gov Product documentation in the [va.gov-team repo product folders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products). As of November 2019 we are in the process of copying select legacy documentation from the vets.gov-team repo to supplement va.gov-team; expect to see additional content and updates to links as this work continues through January 2020. 
+- Teams regularly use ZenHub to better organize GitHub issues. [Here's how the VSP team uses ZenHub to manage its work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_product_management.pdf).
 
 ### Design
 
 Create and test visual artifacts that define the features of the solution and that help engineers build out solution in code.
 
 - [Here's how to create great user-centered designs for VA.gov solutions](https://design.va.gov/documentation/designers).
-- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request a design review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+- You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request a design review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
 
 ### Content
 
@@ -56,7 +56,7 @@ Create content as a part of every online experience - whether it's button labels
 
 Determine the most intuitive place for Veterans to access your application, the appropriate URL, placement in navigation, and the cross-linking strategy.
 
-- [Here are the best practices on writing URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-process-and-guidelines.md).
+- [Here are the best practices on writing URLs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md).
 - You'll need check ins with VSP to help you make sure you're on track! Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can decide on your cadence for IA check ins.
 
 ### Engineering
@@ -64,7 +64,7 @@ Determine the most intuitive place for Veterans to access your application, the 
 In tiny iterative chunks and with robust testing, bring the solution to life through code.
 
 - [Here's how to write great front end code for VA.gov solutions](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
-- [Here's how to write great back end code for VA.gov solutions](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Backend). <!--****This doc needs updating.****-->
+- [Here's how to write great back end code for VA.gov solutions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend).
 - You'll need frequent (usually around weekly) code reviews from VSP to hep you make sure you're on track! [Here's what to expect, and how to request a code review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md)
 
 <!--### Research-->
@@ -80,12 +80,13 @@ Test incrementally to make sure your solutions works for everyone.
 
 Incorporate analytics into your code so that you can track the health of your solution over time and understand whether it's achieving the outcomes you hoped it would.
 
-[Here's how to set KPIs to track the success of your VA.gov solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/KPI%20Setting%20Protocol.md).
+[Here's how to set KPIs to track the success of your VA.gov solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-protocol.md).
+
 <!--- [Here's how to incorporate analytics into your VA.gov solutions](/).****This needs a URL****-->
 
 VSP is here to help you as you set up KPIs and integrate analytics in your code. Reach out to #vfs-platform-support in Slack to schedule a 1:1 with us so we can help, and to schedule an Analytics review.
 
-You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Guide%20to%20Communicating%20with%20Analytics.md).
+You'll need reviews from VSP to help you make sure you're on track! [Here's what to expect, and how to request an Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/rules-of-engagement-request-review.md).
 
 <!--### Call Center-->
 
@@ -100,7 +101,7 @@ Both manually and through automated tests, ensure your solution is doing what yo
 
 ### ATO
 
-You'll need to ensure the solution you're building has the authority to operate (ATO). [Here's what to expect, and how to request an ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md).
+You'll need to ensure the solution you're building has the authority to operate (ATO). [Here's what to expect, and how to request an ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md).
 
 ### Security
 
