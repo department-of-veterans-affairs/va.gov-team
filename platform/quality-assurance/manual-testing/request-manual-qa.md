@@ -37,7 +37,7 @@
      - Product Manager
      - Engineering Lead
 * Complete customized scenarios Matrix (likely submitted by product team), testing all browsers with pass/fail entries and links to Github issues discovered during testing added to the document.
-* Please enter [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Personalization/bug-reporting-template.md) as you go and assign to product manager and engineering lead, labeled with with your estimation of launch-blocking, high priority, or low priority.
+* Please enter [bugs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/bug-issue.md) as you go and assign to product manager and engineering lead, labeled with with your estimation of launch-blocking, high priority, or low priority.
 * To be updated and communicated to implementation team by QA Lead
      - Estimated completion date:
 * Definition of done
