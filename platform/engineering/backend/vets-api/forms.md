@@ -11,9 +11,9 @@ on Vets-Website.
 
 Further Reading
 
-* [Form Tutorial - Basic](../vets-website/forms/form-tutorial-basic.md)
-* [Form Tutorial - Intermediate](../vets-website/forms/form-tutorial-intermediate.md)
-* [Form Tutorial - Advanced](../vets-website/forms/form-tutorial-advanced.md)
+* [Form Tutorial - Basic](../../form-tutorial-basic.md)
+* [Form Tutorial - Intermediate](../../form-tutorial-intermediate.md)
+* [Form Tutorial - Advanced](../../form-tutorial-advanced.md)
 
 ## Model
 
