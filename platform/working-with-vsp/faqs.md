@@ -14,23 +14,23 @@
     > [Try this solution](https://mycyberuniverse.com/web/how-fix-fatal-authentication-failed-for-https-github-com.html).
 
 1. *I'm getting a ```Permission denied - public key``` error when I push to Github.*
-    > [Try this solution](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#permission-denied---public-key-error-when-pushing-to-github).   
+    > [Try this solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#permission-denied---public-key-error-when-pushing-to-github).   
 
 
 ## Internal Developer Tools
 
 1. *I'm getting a ```ssh sock -D 2001 -N failing``` error. How can I fix it?*
-    > [Try this solution](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/Internal%20Tools.md#ssh-sock--d-2001--n-failing).
+    > [Try this solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#ssh-sock--d-2001--n-failing).
 
 
 
 ## Recruiting for Research
 
-1. *The [sample recruiting emails](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/Outreachrecruiting-language-proposed.md) say that Veterans can email ```feedback@va.gov``` with questions. Who monitors this email and can I get responses sent to it for my recruiting emails?*
+1. *The [sample recruiting emails] say that Veterans can email ```feedback@va.gov``` with questions. Who monitors this email and can I get responses sent to it for my recruiting emails?*
     > No. The ```feedback@va.gov``` email address is only for DSVA use. You need to modify the sample recruiting emails to use your own email address, preferably your va.gov email address.
 
 1. *Can I use my own recruiting screener?*
-    > No. You must use the [DSVA recruiting screener](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-recruiting-screener.md), which has PRA clearance and an approved OMB control number.
+    > No. You must use the [DSVA recruiting screener](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md), which has PRA clearance and an approved OMB control number.
 
 1. *We're planning to recruit Veterans in person at an event (or location). What is the best way to describe who we are to Veterans so that they trust us?*
     > You can say that you work for [your company] who is working on behalf of VA to do this research.<br/>
