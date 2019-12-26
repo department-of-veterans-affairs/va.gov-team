@@ -17,7 +17,7 @@ When the last step is performed, the developer begins this process anew with ano
 
 The workflow that we use closely resembles [GitHub Flow](https://guides.github.com/introduction/flow/).
 
-Before the developer gets their hands on an issue, it first needs to be created, groomed by the team leads, and prioritized in Zenhub. See [How to File Bugs, Tasks, and Questions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/How%20to%20File%20Bugs%20Tasks%20and%20Questions.md) for more information on that process.
+Before the developer gets their hands on an issue, it first needs to be created, groomed by the team leads, and prioritized in Zenhub. See [How to File Bugs, Tasks, and Questions]() for more information on that process.
 
 ## Select the feature to work on
 
@@ -64,7 +64,7 @@ Once that is done, you can submit a pull request indicating that your code is re
 
 Make sure to assign a fellow team member who you feel is qualified to review the code (this prevents the pull request from just sitting).
 
-Depending on the type of work done, you may need a product person to review and / or a developer to review. See [Code Review Norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Code%20Review%20Norms.md) for more information on how we do code reviews.
+Depending on the type of work done, you may need a product person to review and / or a developer to review. See [Code Review Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md) for more information on how we do code reviews.
 
 **Connecting pull requests's**: In the PR, there is a "Connect this pull request with an existing issue" section at the bottom of the issue. Click the "Connect with an issue" button to link the PR to the original issue in Zenhub.
 
@@ -82,7 +82,7 @@ In addition to traditional unit tests, several compliance scans will run. These 
 - Code Coverage: An automated testing suite can only reliably tell you if your app is still working after changes if enough of it is covered by automated tests. A code coverage scanner makes sure xx% of the application is always covered.
 - Linting: This checks your code for clean style or easy to catch syntactic errors. This helps make the code more maintainable by helping make the code itself idiomatic and consistent looking across modules.
 
-Note that integration tests and 508 compliance tests are not run during this phase, but are run in a later process during the [Deployment Process](Deployment Process.md).
+Note that integration tests and 508 compliance tests are not run during this phase, but are run in a later process during the [Deployment Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/deployment-process.md).
 
 ## Test and peer review code
 
@@ -112,7 +112,7 @@ Every pull request comes with an attached diff to see what's new. Look for thing
 - Do the tests adequately cover the new code?
 - Is there documentation for any new setup/configuration steps?
 
-Also see our team's [code review norms](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Code%20Review%20Norms.md) for more details.
+Also see our team's [code review norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/code_review_guidelines.md) for more details.
 
 ## Merge code to stable code base
 
