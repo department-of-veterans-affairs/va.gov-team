@@ -15,7 +15,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
 1. Confirm that your team's Project Manager has added your name, email address, and Github username to the team spreadsheet and sent it to DSVA. You'll know when you can visit [this Github repo and see the content](https://github.com/department-of-veterans-affairs/vets.gov-team).
 
-1. Follow the steps to [create new SSH keys, configure, and test the SOCKS proxy](../Onboarding/request-access-to-tools.md#additional-onboarding-steps-for-developers).
+1. Follow the steps to [create new SSH keys, configure, and test the SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#additional-onboarding-steps-for-developers).
 
 1. Verify that you have
 
@@ -23,7 +23,7 @@ To build a service on the Veteran-facing Services Platform, which can be anythin
 
     * Have credentials for the shared testing environments &mdash;  [dev.va.gov](https://dev.va.gov) and [staging.va.gov](https://staging.va.gov).
 
-    * Have access to [Internal Tools](internal-tools-access.md)
+    * Have access to [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
 
     * **Tip**: If you have a problem or can't get access, post in the *#vfs-platform-support* Slack channel or reach out to your DSVA contact.
 
@@ -51,7 +51,7 @@ The Veteran-facing Services Platform is broken into three parts:
 
 1. [How to setup your front end VA.gov local environment](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started)
 1. [How to setup your back end VA.gov local environment](https://github.com/department-of-veterans-affairs/vets-api)
-1. After you are setup and running both front-end and back-end servers, try logging in using a mock user. Information on how to login with a mock user can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/2d03fbabafe9c4840596e6687795a1906e4596ec/Administrative/Accessing-Staging.md).
+1. After you are setup and running both front-end and back-end servers, try logging in using a mock user. Information on how to login with a mock user can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md).
 1. [Mock test users](https://github.com/department-of-veterans-affairs/vets-api-mockdata/blob/master/mock_data_table.md)
 1. Once you can seccessfully login you should be setup for developing on VA.gov.
 
