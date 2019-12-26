@@ -336,7 +336,7 @@ Instead our internal process should be invisible to external teams. We should ai
 
 For the following items, external teams will **file issues in the vets.gov-team repo**. They have WRITE access (but not whitelisted) to this repo, so they can file issues and assign people/labels.
 
-See [Manage External Teams](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Work%20Practices/Platform-Support) for how DSVA will respond to external teams who
+See [Manage External Teams] for how DSVA will respond to external teams who
 
 1. Request that their SSH key be authorized
 1. Request an ATO review
@@ -348,4 +348,4 @@ See [Manage External Teams](https://github.com/department-of-veterans-affairs/ve
 
 ## Rename/Consolidate repos
 
-* [See here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/DSVA%20Platform%20Project/povs/renaming-repos.md)
+* [See here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/renaming-repos.md)
