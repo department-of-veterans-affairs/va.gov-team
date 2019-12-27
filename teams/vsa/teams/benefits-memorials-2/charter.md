@@ -45,6 +45,24 @@ TBD
 ### **Workflow + Cadence**
 
 **Stand-up**
+Stand-ups meetings will be held in a [zoom meeting](https://zoom.us/j/432704511?pwd=WlhYUHVRSm4yaGswTVlqYjdMemE0UT09). The team will still hold Stand-up meeting in the Zoom evern if all members can not make it.   
+
+> Join Zoom Meeting
+> https://zoom.us/j/432704511?pwd=WlhYUHVRSm4yaGswTVlqYjdMemE0UT09
+> 
+> Meeting ID: 432 704 511
+> Password: 593547
+
+> One tap mobile
+> +16699006833,,432704511# US (San Jose)
+> +19292056099,,432704511# US (New York)
+
+> Dial by your location
+  >       +1 669 900 6833 US (San Jose)
+  >     +1 929 205 6099 US (New York)
+> Meeting ID: 432 704 511
+> Find your local number: https://zoom.us/u/aebkSZ5lpY
+
 People / Product check-ins
 Daily @ 11 EST/ 10 CST/ 9 MT/ 8 PST
 15 min total
@@ -52,6 +70,8 @@ Daily @ 11 EST/ 10 CST/ 9 MT/ 8 PST
  - What I did yesterday?
  - What will I do today? 
  - Any Blocker and Dependancies?
+ 
+
 
 **Sprint Planning**
 Outline team and member focus, goals for sprint
