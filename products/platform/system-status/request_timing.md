@@ -83,26 +83,29 @@ SLOs are currently undefined for external service request times. It was decided 
 Request Time percentile information will be a useful metric to report on as well. Ex: 90% of request times are below 300ms with 10% being above 300ms 
 
 #### Services
-* Appeals
-* Central Mail
-* EVSS/Claims
-* EVSS/Common
-* EVSS/Documents
-* EVSS/GiBillStatus
-* EVSS/Letters
-* EVSS/PCIUAddress
-* EmisMilitaryInformation
-* GI
-* GIBFT
-* HCA
-* MVI
-* OKTA
-* PPMS
-* Preneeds
-* Rx
-* Search
-* Vets360
-* VHA_Access_PWT
+Last 7 days (Recorded on 12-27-2019):
+* Appeals - 1.4s
+* Central Mail - 736ms
+* EVSS/Claims - 2.4s
+* EVSS/Common - 373ms
+* EVSS/Documents - 4.8s
+* EVSS/GiBillStatus - 3.5s
+* EVSS/Letters - 4.7s
+* EVSS/PCIUAddress - 1.7s
+* EmisMilitaryInformation - 316ms
+* EmisVeteranStatus - 305ms
+* GI - 83.8ms
+* GIBFT - 0?
+* HCA - 3.0s
+* MVI - 1.1s
+* OKTA - 481ms
+* PPMS - 1.8s
+* Preneeds - 395ms
+* Rx - 1.2s
+* Search - 487ms
+* Vets360 - 0?
+* VHA_Access_PWT - 0?
+* Vets360/ContactInformation - 91.3ms
 
 ### Vets-API SLOs
 TODO
