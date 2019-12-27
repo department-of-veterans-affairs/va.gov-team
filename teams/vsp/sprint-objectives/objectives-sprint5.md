@@ -58,7 +58,7 @@ Dates: 2019-07-25 through 2019-08-06
 - What should we do with the Design System?
     - Discuss the plan/approach for owning/ maintaining / iterating on VA Design System (now that Jared, previous owner at DSVA, has left the team)
     - Potentially start knowledge transfer? Or maybe next sprint depending upon how full this team already is? 
-    - Some [context](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Design/Design%20System/design-system-summary.md)
+    - Some [context](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/design-system-summary.md)
 - Write Rules of Engagement (ROE) for Slack access 
     - i.e. who gets added to DSVA Slack, based on what criteria / verification, and as what account type? 
 - _[Stretch]_ Update onboarding process + docs per By Light onboarding research
