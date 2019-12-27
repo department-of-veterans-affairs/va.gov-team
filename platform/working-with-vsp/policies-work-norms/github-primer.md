@@ -23,7 +23,7 @@
 
 ## Github web interface tour
 
-[Visit this page](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams) to see the UI features below:
+[Visit this page](https://github.com/department-of-veterans-affairs/va.gov-team) to see the UI features below:
 
 * **Branch dropdown**
   * The master branch is always the source of truth for your product folder.
@@ -34,7 +34,7 @@
   * Folders have to contain at least one file.
   * README.md files are automatically displayed at the root of each folder. If you don't have a README.md file in a folder, the screen will just show the list of files and sub-folders.
 
-[Visit this page](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/tree/master/Onboarding) to see the UI features below:
+[Visit this page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding) to see the UI features below:
 
 * **Find file button** - an alternate way to search
 * **History button** - Shows the history of the folder or file you're currently viewing
@@ -57,7 +57,7 @@
 
 ### Edit a file
 
-1. Navigate to ```https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Norms/Github/sample-edit-file.md```
+1. Navigate to file.
 1. Select the file.
 1. Click the pencil icon to start editing.
 1. Make a change using [Markdown](https://guides.github.com/features/mastering-markdown/).
