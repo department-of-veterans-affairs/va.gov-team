@@ -7,7 +7,7 @@ __Please note: some links in this document point to the vets.gov-team repo.__
 - Old links:[View Dependents - http://www.ebenefits.va.gov/ebenefits/dependents](http://www.ebenefits.va.gov/ebenefits/dependents)
 [Update Dependents - http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)
 - va.gov link: tbd
-- [Previous team's work](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686)
+- [Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)
 
 ## WIP
 
@@ -43,7 +43,7 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 
 - va.gov landing page: https://www.va.gov/family-member-benefits/
 - Benefits landing page: https://benefits.va.gov/compensation/add-dependents.asp
-- Old Rainbows team work on Dependents: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686
+- Old Rainbows team work on Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent
 - Dependents is up in staging!: https://staging.va.gov/disability-benefits/apply/dependents/introduction
 
 ## User Problem Statement
