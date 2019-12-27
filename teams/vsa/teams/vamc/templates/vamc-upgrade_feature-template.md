@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # _[FEATURE TITLE]_
 
 
@@ -24,8 +22,8 @@ As a Veteran I want to _____ so that I can _____.
 ### Discovery
 - [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints)  
 ### Design
-- [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/new-vagov-strategy/The-new-VA.gov-briefing-2019-07.pdf)
-- [ ] As soon as feasible, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+- [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf)
+- [ ] As soon as feasible, request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
 ### Research Plan
 - [ ] Establish process for user interviews
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/conversation-guide.md))
@@ -37,14 +35,14 @@ As a Veteran I want to _____ so that I can _____.
 ### Content/IA
 - [ ] Discovery and reference the VA.gov content style guide
 - [ ] Reference the [Content/IA best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
-- [ ] Reference the [Content/IA Messaging Dictionary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Platform/Design%20System/Guidelines/Error%20handling/Dictionary.md)
+- [ ] Reference the [Content/IA Messaging Dictionary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/design-system/guidelines/error-handling/Dictionary.md)
 - [ ] Engage with the Content/IA team as soon as feasible  
   - [ ] Present text/verbiage that is beyond the boilerplate language   
   - [ ] Outline links (hub and spoke), urls, navigation hierarchy, crosslinks/redirects, SEO   
   - [ ] Discuss what parts of the site are templated
   - [ ] Solicit feedback from Content/IA Team
   - [ ] Confirm that wayfinding is appropriate
-- [ ] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
+- [ ] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 ###Usability
 - [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/research-plan.md)
   - [ ] Is the entry point established?
@@ -84,9 +82,9 @@ As a Veteran I want to _____ so that I can _____.
 ### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?
-- [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
-- [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-preliminary-ato-review)
-- [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md#request-a-pre-launch-ato-review)
+- [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
+- [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
+- [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
   - [ ] Build, test, audits (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
