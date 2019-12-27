@@ -109,11 +109,11 @@ Although the number of online orders is extremely low, Veterans are interested i
 Although Veterans would both like to and are currently able to place orders online, some experience difficulty accessing their eBenefits accounts and have chosen to order through a different pathway as a result. One Veteran told us that they cannot order through eBenefits because they do not have a premium account, and they don't understand why it's a requirement. Additionally, some Veterans experience difficulty resetting their passwords. 
 - *“It says, “For security purposes, you must first apply for a premium account from the eBenefits website” Right there is your problem. Why do I need a level 2 account to get hearing aids and prosthetic socks?”* (P5)
 
-**8. Veterans have expressed interested in more automated resupply**
+**8. Veterans have expressed interested in more automated resupply**<br>
 Some Veterans told us that they would prefer their orders to automatically ship every 6 months, while others are interested in subscription-based ordering. A couple participants referenced Amazon as a successful ordering tool. Veterans who order via mail thought it would be helpful if their order cards were pre-filled out with their orders.  
   - *“It’s a little card you fill out. That would be nice if that was automatic. Like, you didn’t have to fill out the model number and make. It’s hard to make sure you write it on the next one. It doesn’t come pre-written out.”* (P1)
 
-**9. Recalling the details of the items they need to order requires unnecessary effort of Veterans**
+**9. Recalling the details of the items they need to order requires unnecessary effort of Veterans**<br>
 The Veterans we spoke with had different methods for keeping track of their order details, but all of the methods required manual effort. Some veterans write down the details of their order while others keep and reference a previous order's packaging. One Veteran we spoke with orders through eBenefits and told us they do not need to remember their order because the information is displayed. Veterans are requesting pre-filled cards and pre-populated forms so they don't need to remember their order details. 
   - *“I find the previously sent email, and just copy what I need out of that email and paste it into a new email and off we go.”* (P7)
 
