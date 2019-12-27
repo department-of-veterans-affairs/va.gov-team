@@ -1,5 +1,3 @@
-__Please note: some links in this file point to the vets.gov-team repo.__
-
 # eBenefits Dependents
 More content to be added.
 
@@ -20,26 +18,23 @@ The work was de-prioritized in favor of focusing on the VA.gov relaunch in Nov 2
 - Need UAT & launch prep
 
 #### Rainbows Team Members
-- DSVA POC: Andrea Schneider Andrea.Schneider@va.gov
-- Product Manager: Ryan Luu ryan.luu@adhocteam.us
-- Design Lead: Emily Waggoner emily@adhocteam.us
-- Content Writer: Peggy Gannon peggy@thesocompany.com
-- Front-end Engineer: Erik Hansen erik@adhocteam.us
-- Back-end Engineers: Lihan Li lihan@adhocteam.us & Johnny Holton johnny@oddball.io
+- DSVA POC: Andrea Schneider 
+- Product Manager: Ryan Luu 
+- Design Lead: Emily Waggoner 
+- Content Writer: Peggy Gannon 
+- Front-end Engineer: Erik Hansen 
+- Back-end Engineers: Lihan Li  & Johnny Holton 
 #### Resources for Current Rainbows Team Implementation
-- [Rainbows Team Documentation Repository](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686)
-- [Current Implementation on VA.gov Staging (Requires Login)](https://staging.va.gov/disability-benefits/apply/dependents/introduction) 
-  - Username 1: vets.gov.user+1@gmail.com
-  - Username 2: vets.gov.user+228@gmail.com
-  - Password for both: Zm9ydHkgdHdv
-- [BGS Services](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/bgs-sample-requests)
-- [BGS Sample Requests](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/bgs-sample-requests)
-- [API Calls](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Declare%20Dependent%20686/api%20calls.md)
-- [Current (Legacy) eBenefits Implementation of Form 686 (Screen Caps)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery/eben-screens)
+- [Rainbows Team Documentation Repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)
+- [Current Implementation on VA.gov Staging (Requires Login)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md) 
+- [BGS Services](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/BGS)
+- [BGS Sample Requests](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/discovery/bgs-sample-requests)
+- [API Calls](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/api-calls.md)
+- [Current (Legacy) eBenefits Implementation of Form 686 (Screen Caps)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/discovery/ebenefits-screens)
 #### Existing Research
-- [April 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20April%202018)
-- [June 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Design/Usability%20Research%20June%202018)
-- [Various Technical, Process and Business Documentation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686/Discovery)
+- [April 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/research/april-2018)
+- [June 2018](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/research/june-2018)
+- [Various Technical, Process and Business Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent/discovery)
 ### VA Form 21-686c
 - [PDF (Paper) Form](https://www.vba.va.gov/pubs/forms/VBA-21-686c-ARE.pdf)
 - [Form 21-686c Organizational Breakdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/design/dependents/686c_Breakdown_W1.pdf)
