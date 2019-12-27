@@ -29,7 +29,7 @@ Here’s how to get started:
 
 **4. Engineers, set up your local dev environment:**
 
-Instructions on how to get started and set up VA.gov locally: [https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/getting-started.md](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/getting-started.md)
+Instructions on how to get started and set up VA.gov locally: [https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/getting-started.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/getting-started.md)
 
 Aside from that, be on the lookout for more emails with invitations to our systems (like Slack and GitHub) and collaboration meetings. And get excited - you’re about to embark upon a journey creating solutions that will improve Veterans’ lives. 
 
