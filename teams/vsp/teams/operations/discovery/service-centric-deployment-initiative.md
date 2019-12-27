@@ -10,7 +10,7 @@ Our infrastructure right now can not support that many more team before things s
 * Operations/ Leadership
 
 ### Discovery Sprint Roles
-See also: Discovery Sprint How-to about [makeup of a discovery sprint team](DiscoverySprintHowTo.md#makeup-of-a-discovery-sprint-team).
+See also: Discovery Sprint How-to about [makeup of a discovery sprint team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md).
 
 * Product: TJ Rice
 * Discovery Sprint Lead:
@@ -42,7 +42,7 @@ Note: revise above sections as needed
 * Are any of the above assumptions that need to be verified?
   - TBD
   
-- How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](DiscoverySprintHowTo.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research).)
+- How are we going to find out answers? (There are tons of different methods to choose from depending on your project goals, resources, and time constraints. Checkout the methods and templates provided in the [Discovery Toolkit](DiscoverySprintHowTo.md) and consult the [Research Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research).)
   - Conducting interveiws with different stakeholders and users to better understand their needs from the platform's infrastructure
   
 * What kinds of users are likely to benefit from solving this problem (bonus points for our personas)?
@@ -71,7 +71,7 @@ Note: revise above sections as needed
   - Not sure.
 
 ### Timeline
-See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/SampleDiscoverySprintSchedule.md).
+See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/sample-discovery-sprint-schedule.md).
 
 * Are there any hard and fast deadlines for completing the discovery work?
   - None as of right now, but we need to have better understanding before we start our work, which will allow the platform to support more teams. 
