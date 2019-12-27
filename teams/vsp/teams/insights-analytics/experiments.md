@@ -24,7 +24,7 @@ Conversion funnel for Health Care button:
 
 Number of clicks to button is very low. Less than 5% who open the fly-out for Health Care click that button. Of those that click the button, only 24% continue to complete the application.
 
-![conversion funnel for health care button](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Analytics/optimize360/2018Q1-analytics-menu-healthcare-.png)
+![conversion funnel for health care button]()
 
 (Data is from first quarter of 2018)
 
@@ -33,15 +33,15 @@ Number of clicks to button is very low. Less than 5% who open the fly-out for He
 ### A: Original
 The original design features the green "Apply Now" button in the menu for the Health Care application. 
 
-![a original](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Analytics/optimize360/healthcare-applynowbuttonoriginal.png)
+![a original]()
 
 
 ### B: "Apply Now" text
 Option B a link in the menu to the Health Care application using text styled the same way as the other menu elements, with the content "Apply Now".
 
-![b apply now text](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Analytics/optimize360/healthcare-applynowtextlinkpnobutton.png)
+![b apply now text]()
 
 ### C: "Apply Now" text, bold
 Option C a link in the menu to the Health Care application using a text link in bold, with the content "Apply Now".
 
-![c apply now text bold](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Analytics/optimize360/healthcare-applynowtextlinkpnobutton-bold.png)
+![c apply now text bold]()
