@@ -125,6 +125,7 @@ TODO
 
 ### Other
 * [ZH Ticket](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/4162)
+* [Bucket/Histogram Information](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/roles/revproxy-configure/files/prometheus.lua)
 
 #### Todo/Questions
 * New Source-App Header may be useful
