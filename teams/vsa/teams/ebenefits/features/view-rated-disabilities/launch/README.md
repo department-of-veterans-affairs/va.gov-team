@@ -47,7 +47,7 @@ The steps here are meant to track and inform all the necessary steps for a featu
     - [x] Jennifer: Usability
     - [x] Trevor: 508
   - [x] Iterate on other team's feedback
-- [x] **As soon as feasible and iteration is finished,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md)
+- [x] **As soon as feasible and iteration is finished,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
 
 ### Content/IA  
 _Share as soon as you have content - this is usually after mockups are created.  Get IA review after thumbnails (in case IA informs of a change, get Content review after mockups (provide as much final content to FE for implementation)_  
