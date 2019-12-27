@@ -41,7 +41,7 @@ We spoke with the following Veterans:
   - 3 via mail
   - 1 through both eBenefits and via email 
   - 2 through the phone (live agent) 
--3 participants who stated they ordered both prosthetic socks and hearing aid batteries
+- 3 participants who stated they ordered both prosthetic socks and hearing aid batteries
   - All of these participants mistook diabetic/compression socks for prosthetic socks
   - 1 has ordered batteries through eBenefits 
   - 1 has ordered batteries through email
