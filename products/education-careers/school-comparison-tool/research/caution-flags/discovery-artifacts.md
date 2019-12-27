@@ -34,7 +34,7 @@ Includes several concepts that we could explore for our work on the Search Resul
 
 ## Questions for DEPO
 
-* Has any research or testing been done with users for Caution Flags or other card patterns specifically?
+* Has any research or testing been done on your behalf with users for Caution Flags or other card patterns specifically?
 
 #### Search results page
 
