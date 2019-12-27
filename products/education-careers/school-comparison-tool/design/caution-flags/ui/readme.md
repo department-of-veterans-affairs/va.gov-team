@@ -7,5 +7,5 @@ DEPO is moving towards a singular, scalable approach to cards throughout VA.gov.
 
 <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/design/caution-flags/ui/images/Desktop%20Search%20results%20v0.0.png" width="320"></kbd> 
  
-<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/design/caution-flags/ui/images/Mobile%20Search%20results%20v0.0.png" width="160"></kbd>
+<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/design/caution-flags/ui/images/Mobile%20Search%20results%20v0.0.png" width="160"></kbd> 
 
