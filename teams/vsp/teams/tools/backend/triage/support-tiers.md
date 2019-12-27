@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Tier Definitions
 
 The PWS defines support tiers as follows:
@@ -15,7 +13,7 @@ The PWS defines support tiers as follows:
 # Escalation
 ## Tier 1
 Tier 1 will:
-* categorize supports requests using our [Incident categories](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/OnCall/Incident%20Categorization.md)
+* categorize supports requests using our [Incident categories](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/incident-categorization.md)
 
 * **minor** or **normal** incidents will be logged in the current VA's Contact Center software system.  If further action is necessary by the VFP or VSA teams the Tier 1 support person will assign the issue to the VSP team.  The VSP team will review assigned issues at a regular interval (daily/weekly) and attempt to find trends.
 * **Major**, **Severe** or **Critical** incidents will escalate immediately to the Tier 2 support specialist through the agreed upon channels **TBD**
