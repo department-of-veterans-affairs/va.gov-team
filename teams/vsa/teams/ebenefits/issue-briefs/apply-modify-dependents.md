@@ -1,6 +1,4 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
-Discovery and Design work in progress: https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686
+Discovery and Design work in progress: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent
 
 | Field | Description |
 |---|---|
