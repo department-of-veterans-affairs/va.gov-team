@@ -58,7 +58,7 @@ _Work with the team to create design artifacts that engineering might use to sta
 
 - [ ] Based on research findings and existing product documentation, create lo-fi product sketches for _happy path_ flows
 - [ ] Coordinate with BE/ FE engineering to create lo-fi product sketches for _error state_ flows
-- [ ] Review proposed information architecture with vfs-platform-support IA Team ([Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ia-review.md#request-an-ia-review))
+- [ ] Review proposed information architecture with vfs-platform-support IA Team ([Formal review request procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md))
 
 **NB:** These steps may require multiple issues to capture the individual fields flows/ features/ expectations
 
