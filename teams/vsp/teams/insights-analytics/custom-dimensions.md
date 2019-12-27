@@ -20,7 +20,7 @@
 |--|--|--|--|
 | Registered User | Assign a unique, non-personally identifiable userID (in an alphanumeric format) to capture users who have successfully registered. Initial suggestion was ID.me UUID but pending technical review | userID: “3a7d0129” | User |
 
-## Proposed - [Policy Review](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/4266)
+## Proposed - Policy Review
 
 |Trait | Objective | Format Example | Scope |
 |--|--|--|--|
