@@ -99,7 +99,7 @@ Consider including:
 ### Accounts
 * How do we handle Github issues that have PII?
 * How are people added to Slack/Github? Are we responsible for this? 
-   * Is [this document](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/request-access-to-tools.md) up to date?
+   * Is [this document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/internal-tools-access.md) up to date?
    * What other accounts (other than Slack and Github) do teams need access to?
    
 ### Security / Private repos
@@ -111,8 +111,8 @@ Consider including:
 ### Launching
 * Do we have the authority to delay a launch if there are issues? 
    * Assumption: Yes. It’s our responsibility to notify DSVA, and they decide.
-   * Andrew drafted launch criteria: https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Launch%20Process/overview.md
-   * Harry is working on the engineering best practices presentation (which addresses things that should be in place prior to launch): https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Onboarding/engineering-best-practices.md
+   * Andrew drafted launch criteria: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md
+   * Harry is working on the engineering best practices presentation (which addresses things that should be in place prior to launch): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/engineering-best-practices.md
    
 ### VSA team structure
 * If a team’s structure doesn’t match the handbook, what do we do?
@@ -128,7 +128,7 @@ Consider including:
 
 ## Resources
 * [Onboarding Workshop Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Intake/June%202019%20MVP%20Workshop/decisions.md)
-* [Onboarding for External Contractors](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/tree/master/Onboarding)
+* [Onboarding for External Contractors](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding)
 * [Draft - Kickoff Agendas for New Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/New%20VFS%20Team%20Kickoff%20Template.md)
 * [How does onboarding work today? -- meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Intake/June%202019%20MVP%20Workshop/Running%20Notes.md)
 
