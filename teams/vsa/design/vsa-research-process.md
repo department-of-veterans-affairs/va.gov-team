@@ -1,5 +1,5 @@
 # VSA Research Process
-Questions? Contact Shawna Hein (shawna@adhocteam.us).
+Questions? Contact Shawna Hein.
 
 - [Va.gov Base Process](#process)
 - [Setup](#setup)
@@ -18,7 +18,7 @@ There is a required basic process to follow for planning and executing design re
 ## <a id="setup"></a>Setup
 Create a new folder or folder structure in github under the product and/or application being researched, e.g. “UrgentCare/Research/June-2019-Usability-Test/.” This is where the research plan, conversation guide, notes, and final results should be stored. Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
 
-Create a [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/Conversation-guide-template.md)and save them in that folder as Markdown files.
+Create a [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) and save them in that folder as Markdown files.
 
 Note: after finalizing the conversation guide, consider creating and including in this folder a “note-taking template” in Github to help your note-takers.   
 
@@ -30,9 +30,9 @@ VA has an agreement with a recruiting organization that will manage all recruiti
 * scheduling in-person (only location: Fredericksburg, VA) or remote sessions
 * sending reminders to research subjects, and dealing with no-shows
 
-Information about using our recruiter, Pergean to recruit participants for your moderated usability and other research studies  [can be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/PRA%20and%20Recruiting/perigean-recruiting-guidance.md).
+Information about using our recruiter, Pergean to recruit participants for your moderated usability and other research studies  [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/perigean-recruiting-guidance.md).
 
-When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack. Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Planning%20and%20Process%20Management/Conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
+When you’re ready to recruit using Perigean, contact Lauren Alexanderson via e-mail or Slack. Inform her that you intend to do research and include a link to the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md). The Conversation Guide must be completed and reviewed prior to recruiting. 
 
 CC Andre Zwilling of GCIO on your communication with Lauren so he knows a research session is happening. Once Lauren has approved your plan, please add the line “Reviewed and approved by Lauren Alexanderson on mm/dd/yyyy” on the bottom of the plan in Github.
 
@@ -45,7 +45,7 @@ Run a pilot/test session before your study, including Perigean’s team and anot
 
 ## <a id="taking-notes"></a> Taking Notes
 
-We have to be careful with -- and if possible avoid using -- recordings because of Federal regulations regarding Personally Identifiable Information (PII). Assign a colleague, such as another designer or member of your team, to take verbatim notes during your research sessions. Perigean can also take verbatim notes for your research sessions, but you must request this at the beginning of the study. [Guidance on notetaking can be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/How-to-take-session-notes.md)
+We have to be careful with -- and if possible avoid using -- recordings because of Federal regulations regarding Personally Identifiable Information (PII). Assign a colleague, such as another designer or member of your team, to take verbatim notes during your research sessions. Perigean can also take verbatim notes for your research sessions, but you must request this at the beginning of the study. [Guidance on notetaking can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/how-to-take-session-notes.md)
 
 * Create a “session-notes” folder within your research study Github folder and storing each session as an .md document. Copy the conversation guide over to your .md file before each session so that you have a structured way to capture your notes
 * You must scrub all notes of all PII before uploading them to Github.  PII is all content that could be used to identify the participant. Name, age, date of birth, location or specific VA facility (unless that is critical to the study), diagnoses, etc.
@@ -60,7 +60,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 * You can make clips of the recordings for sharing/presentations as long as those don’t contain PII. Those clips can be uploaded and included in Github. 
 * **Do not upload any original session recordings to the cloud (Github, Dropbox, Google Docs, etc.) or any public or private server. The risk of accidentally disclosing PII outweighs any benefit provided by sharing original session recordings.**   
 
-[Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Synthesis/what-to-do-with-recordings.md) 
+[Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/what-to-do-with-recordings.md) 
 
 ## <a id="running-sessions"></a>Running the Sessions
 * You will hear hard stories from veterans. It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up. It is almost never necessary or relevant to the goals of any VSA or VA.gov study to dig deeply into folks' trauma, however. The best attitude when in doubt is a middle ground where you show compassion but then move on the next task or question in a graceful way. E.g. "that sounds so hard/frustrating/difficult. [Switch back to script or intention of study] Could you tell me a bit more about your experience applying for that benefit?"
@@ -69,7 +69,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 * Avoid saying "Thank you for your service" to Veterans. Some Veterans have a negative association with that phrase.
 * There is a channel in DSVA Slack called #feedback-backchannel.  Make sure to be in that channel when running your sessions and that your observers know about it.
    * Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips
-   * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Request%20or%20Do%20Research/Scheduling%20and%20Running%20Sessions/howto-observer-instructions.md)
+   * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
    * At the end of your session, take a look at the feedback backchannel and see if anyone brought up questions that you can address with your participant
 
 ## <a id="mobile-testing"></a>Mobile Testing
@@ -113,6 +113,6 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
 Resources are also pinned to the #va-vsa-ux channel.
 * We have a research calendar where all research sessions w/ Perigean are posted. Message Lauren to get that calendar on yours.
 * We have the use of Optimal Workshop through DSVA if we want to do card sorting or IA tree testing or things of that nature. Message Lauren if you want access.
-* DSVA research folder https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Research
+* DSVA research folder https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research
 * History of past research https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md
-* Research plan template https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/research_plan_template.md
+* Research plan template https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research_plan_template.md
