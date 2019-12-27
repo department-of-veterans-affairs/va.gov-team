@@ -1,7 +1,5 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Discussion with previous 686 Dependents Team
-These discussions were with both Andrea Schneider and Matt Self individually on October 18, 2019.  The folder for previous work can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Declare%20Dependent%20686) for reference.
+These discussions were with both Andrea Schneider and Matt Self individually on October 18, 2019.  The folder for previous work can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent) for reference.
 
 **General Questions**
 - What does the 21-686c form do?  
