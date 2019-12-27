@@ -44,5 +44,5 @@ Do not publish personal contact info, only names and slack contact name._
 ### Key Documents
 
 - [Team Charter Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/vsp-team-charter.md)
-- [Product Outline/Plan Template](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/ProductOutline.md)
+- [Product Outline/Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 
