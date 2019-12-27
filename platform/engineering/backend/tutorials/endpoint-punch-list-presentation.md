@@ -258,7 +258,7 @@ expect(response).to match_response_schema(
 
 <div style="background-color: rgba(0, 0, 0, 0.8); color: #fff; padding: 20px;">
 
-## [Endpoint Punch List](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-api/vets-api-endpoint-punch-list.md)
+## [Endpoint Punch List]()
 
 </div>
 
@@ -275,7 +275,7 @@ expect(response).to match_response_schema(
 - [Setup Swagger locally](https://github.com/department-of-veterans-affairs/vets-api/tree/master/app/swagger)
 - [Setup Betamocks](https://github.com/department-of-veterans-affairs/vets-api/blob/master/docs/setup/betamocks.md)
 - [vets-api-mockdata readme](https://github.com/department-of-veterans-affairs/vets-api-mockdata/blob/master/README.md)
-- [Endpoint Punch List](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/DeveloperDocs/vets-api/vets-api-endpoint-punch-list.md)
+- [Endpoint Punch List]()
 
 ---
 
