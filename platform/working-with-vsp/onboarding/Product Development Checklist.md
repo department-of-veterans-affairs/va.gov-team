@@ -10,9 +10,9 @@ These processes are here to help ensure we're launching features that are:
 * have measurable analytics and success metrics to empower future planning and development
 
 - [ ] [Accessibility / 508 review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
-- [ ] [ATO review](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-ato-reviews.md)
+- [ ] [ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 - [ ] [Content review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
-- [ ] [Design QA](https://github.com/department-of-veterans-affairs/va.gov-vfs-teams/blob/master/Request-Reviews/request-design-qa.md) / review(?)
+- [ ] [Design QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md) / review(?)
 - [ ] Analytics / Product Health Report review
 *   Reviewing analytics that will be used to just the product health / success, and making recommendations as appropriate.
 - [ ] Release plan review
