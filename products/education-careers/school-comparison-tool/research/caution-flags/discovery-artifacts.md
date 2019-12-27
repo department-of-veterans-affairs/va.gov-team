@@ -45,8 +45,11 @@ Includes several concepts that we could explore for our work on the Search Resul
 * Are you moving towards a singular, uniform display height for all cards regardless of the card's details? We have some institutions with very long names that can wrap over 4 or 5 times on mobile displays. See examples below:
 
 <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/images/Cortiva.png" width="350"></kbd> <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/images/Dept-of-HS.png" width="350"></kbd>
+ 
+* Language change for "You may be eligible for up to" and shifting the "monthly/annually" indicators next to the figures  
 
-* Language change for "You may be eligible for up to" and shifting the "monthly/annually" indicators next to the figures
+<kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/school-comparison-tool/research/caution-flags/images/language-update-school-cards.png" width="350"></kbd>
+
 
 
 #### School profile page
