@@ -7,7 +7,7 @@ SSO team is being asked to do the items in bold (1,2,4,5)
 3. Update unauthenticated content throughout the health hub to facilitate way-finding / de-specify MHV.
 4. **Update the alert boxes, so that an authenticated user can see on the health tools pages which portal or portals they need to go to.**
 5. **Update the va.gov/my-health experience to help Veterans get to MHV, My VA Health, or both, as appropriate.**
-6. **Ensure contact centers are prepared to help Veterans navigate between the portals.**
+6. Ensure contact centers are prepared to help Veterans navigate between the portals.
 
 ## Known Implementation Tasks
 ### Workstream 1: Complete SSOe integration work
