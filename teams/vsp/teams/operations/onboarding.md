@@ -1,12 +1,10 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # Onboarding Operations Team Members
 
 This document is meant as a way to assist a member of the VSP Operations team to get started. It starts with higher level organization of both technology and people, provides some information on how the team communicates, and adds some jumping off points into more details of how the VSP works.
 
 ## Kicking things off
 
-A great introduction to start is the [TechnicalArchitectureOverview](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/TechnicalArchitectureOverview.md) page.
+A great introduction to start is the [TechnicalArchitectureOverview]() page.
 
 There's also some high level documentation about how the [VA Enterprise Cloud transit VPC is constructed](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/aws-dx-transit-spoke-architecture/architecture.md) and how the platform fits within that ecosystem. This document is from the initial implementation phase, but from a high level a lot of the main constructs are still there. We also have a video of an overview of the [VA network overall](https://dsva.slack.com/archives/C0S6H6BQU/p1569526014067200) that is super helpful.
 
@@ -48,7 +46,7 @@ Also see the README in the [ansible directory](https://github.com/department-of-
 
 ### Jenkins
 
-VSP uses Jenkins to run automated testing on all of our repositories as well as executing deployments. Access to Jenkins is controlled via our SOCKS proxy and you can gain access by setting up the [Internal Tools](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Internal%20Tools.md).
+VSP uses Jenkins to run automated testing on all of our repositories as well as executing deployments. Access to Jenkins is controlled via our SOCKS proxy and you can gain access by setting up the [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md).
 
 While there is only one instance of Jenkins, you can stand up an instance locally with most of the same configuration. Instructions are [here](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Testing%20Jenkins%20Changes.md#run-jenkins-in-vagrant). Read through the above, setup the build locally, and use the playbooks to answer the questions below.
 
@@ -96,4 +94,4 @@ Being oncall requires access beyond the initial item listed so far.  Here's a qu
 ## Is there anything else I should know?
 
 - docs in [DevOps documentation](https://github.com/department-of-veterans-affairs/devops/tree/master/docs) a good next step
-- Docs in the entire `Work Practices` directory in the vets.gov-team are good to peruse, but in particular [Engineering Onboarding](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/EngineeringOnboarding.md) is really useful with links to more content around workflow
+- Docs in the entire `Work Practices` directory in the vets.gov-team are good to peruse, but in particular [Engineering Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/engineeringonboarding.md) is really useful with links to more content around workflow
