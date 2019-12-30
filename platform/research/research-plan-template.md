@@ -3,17 +3,18 @@ This is a research plan for usability testing of the HLR (High Level Review) pro
 
 ## Goals
 1. Benefits and memorial. HLR process. 
-2. Background: The HLR process has been tested before, but changes have been made after the usability testing, thus another round of usability testing is needed. Also the HLR process as a product has changed hands several times during the last few months, so this product needs an owner. Christian Valla will be the lead researcher on this product, Kevin Stachura will also be a researcher on this product.  A number of pages have been created by designers. The usability testig will check for usability issues, pain points, and any confusing steps or language. 
-3. Research questions: Are there any usbability issues within the HLR pages? Are there any pain points? Are there any confusing steps, info or language? 
+2. Background: The HLR process has been tested before, but changes have been made after the testing, thus another round of usability testing is needed. In addition, the HLR process as a product has changed hands several times during the last few months, so this product needs a new "research ownership". Christian Valla and Kevin Stachura will collaborate as researchers on this product. 
+A number of pages have been created by designers. The usability testig will check for usability issues, pain points, and any confusing steps, missing info or confusing or unclear language. 
+3. Research questions: Are there any usbability issues within the HLR pages? Are there any pain points? Are there any confusing steps, info or language? Are ll links active and correct? 
 4. Hypothesis: We believe that most steps within the HLR process is self explanatory and simple. We will test this hypothesis. 
 
 ## Method
-1.	Usability testing with Veterans remotely. 8-10 veteran users. Spread among age, sex, location, experience with VA websites, tech savvyness. 
-  This will be task-oriented, semi-structured usability testing, with high-fidelity prototypes.
-  This will be remotely moderated interviews.
-  The users will be veterans that have an active standing in VA, and are elligible for a HLR. 
+1.	Usability testing with 8-10 Veterans remotely. Strive towards a spread among age, location, experience with VA, experience with VA websites, and overall "tech savvyness". 
+This will be task-oriented, semi-structured usability testing, with high-fidelity prototypes (ready).
+This will be remotely moderated interviews.
+The users will be veterans that have an active standing in VA, and are elligible for a HLR (double check this..) 
   
-2.	Why this method? How does this methodology help you answer your research questions? 
+2.	Task oriented usability tests will allow us to see the veterans engaging and using the prototype, and actualy perform tasks, to show us what is clear, self explanatory, and what might be confusing, or less clear. In addition to allowing for probing questions during the interview, we will also see if the tasks are in fact completed successfully, and observe the process and the time, the veterans used to complete them.  
 
 3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
 
