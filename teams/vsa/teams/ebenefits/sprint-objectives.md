@@ -12,7 +12,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ----
 ## Sprint 11 (12/18 - 12/31) 
 ```diff 
-- 22 points over 7 issues
+- 25 points over 8 issues
 ```
 🎅🎄🎁
 ### 1. Prepare "View My Rated Disabilities" for Launch
