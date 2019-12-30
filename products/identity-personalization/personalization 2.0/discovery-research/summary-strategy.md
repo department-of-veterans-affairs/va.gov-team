@@ -14,33 +14,31 @@ The MVPs of the My VA dashboard, Profile, and Account page launched in the sprin
 
 ### Discovery Activities
 
-[Discovery Epic](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/19078)
-
-- [Analytics review](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Analytics/Analytics.md)
-- [Dashboard 2.0 interview and testing](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews/Research%20Summary.md)
-- [Personalization 2.0 card sort](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Card%20sort/Research%20Summary.md)
-- [Service member interviews](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Service%20Member%20Interviews)
-- [Comparative analysis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis)
-- [My VA/Profile/Account content analysis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Content%20analysis)
+- [Analytics review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/analytics/analytics.md)
+- [Dashboard 2.0 interview and testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)
+- [Personalization 2.0 card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/card-sort/research-summary.md)
+- [Service member interviews]()
+- [Comparative analysis]()
+- [My VA/Profile/Account content analysis]()
 - Conversations with Andy and Lauren to understand proposed IA changes and health care needs
 
 ## Observations: The My VA dashboard
 
 ### People don't use — or even know about — the My VA dashboard
 
-Qualitatively, most of the people we spoke with [in user interviews](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews/Research%20Summary.md#people-dont-use--or-even-know-about--the-my-va-dashboard) had never used the My VA dashboard, and those who had used it were not using it readily and reported they did not have much of a need for it. 
+Qualitatively, most of the people we spoke with [in user interviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md#people-dont-use--or-even-know-about--the-my-va-dashboard) had never used the My VA dashboard, and those who had used it were not using it readily and reported they did not have much of a need for it. 
 
-Quantitatively, [we confirmed this with analytics](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Analytics/Analytics.md). From 1/1/19 - 7/14/19, there were 160,010,637 page views on VA.gov as a whole. Of that, the homepage had 25,286,165 (15%) views, and My VA had 4,127,632 (2%) views. 
+Quantitatively, [we confirmed this with analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/analytics/analytics.md). From 1/1/19 - 7/14/19, there were 160,010,637 page views on VA.gov as a whole. Of that, the homepage had 25,286,165 (15%) views, and My VA had 4,127,632 (2%) views. 
 
 ### We don't guide people to the My VA dashboard
 
-It's likely that My VA has lower usage than we'd like in part because we don't guide people to that page. While it is [easily accessible in the navigation](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Content%20analysis#site-location), there's nothing besides its prominence in the navigation that communicates it's an important destination from either the logged out or logged in state. 
+It's likely that My VA has lower usage than we'd like in part because we don't guide people to that page. While it is [easily accessible in the navigation](), there's nothing besides its prominence in the navigation that communicates it's an important destination from either the logged out or logged in state. 
 
 ### The My VA dashboard is too duplicative of the homepage
 
 The My VA dashboard was created for Vets.gov when there was essentially no logged in experience. It was a huge win at the time — it aggregated personalized features that were on Vets.gov and made them easy to find, and it routed people to many of the top tasks.
 
-However, with the launch of VA.gov and the VA.gov homepage, the [My VA dashboard has become largely duplicative and obsolete]((https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Content%20analysis#problems-with-content-and-site-structure-1)). Of the top 20 tasks that appear on the VA.gov homepage, the following also appear on the My VA dashboard:
+However, with the launch of VA.gov and the VA.gov homepage, the [My VA dashboard has become largely duplicative and obsolete](). Of the top 20 tasks that appear on the VA.gov homepage, the following also appear on the My VA dashboard:
 
 1. Apply for VA health care
 2. File a claim
@@ -56,17 +54,17 @@ While there is some information on the My VA dashboard that does not currently a
 
 ### People prefer the homepage over the My VA dashboard
 
-In user testing, [there were mixed feelings on the My VA dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews/Research%20Summary.md#some-people-reported-liking-the-dashboard-and-some-even-said-it-would-be-helpful-to-merge-it-with-the-homepage-but-all-of-the-participants-still-said-they-preferred-the-homepage-over-my-va). Some people liked it and thought it was helpful even if they hadn't really used it before, while others actively disliked it. However, even for people who reporting liking the My VA dashboard and finding it to be helpful, all participants reported they preferred the homepage over My VA because of its design and clarity, specifically around elevating an easy to scan list of top tasks. This begs the question — how useful is it to bubble up previews of information like we do now on the My VA dashboard (eg. showing recent claims, messages, and prescriptions)? How can we better balance previewing information and getting people where they need to go?
+In user testing, [there were mixed feelings on the My VA dashboard](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md#some-people-reported-liking-the-dashboard-and-some-even-said-it-would-be-helpful-to-merge-it-with-the-homepage-but-all-of-the-participants-still-said-they-preferred-the-homepage-over-my-va). Some people liked it and thought it was helpful even if they hadn't really used it before, while others actively disliked it. However, even for people who reporting liking the My VA dashboard and finding it to be helpful, all participants reported they preferred the homepage over My VA because of its design and clarity, specifically around elevating an easy to scan list of top tasks. This begs the question — how useful is it to bubble up previews of information like we do now on the My VA dashboard (eg. showing recent claims, messages, and prescriptions)? How can we better balance previewing information and getting people where they need to go?
 
 ## Observations: Profile/Account
 
 ### People don't know the difference between Profile and Account
 
-During [user testing for the upcoming direct deposit feature](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Research%20Summary.md#we-need-to-make-it-easier-to-find-the-direct-deposit-tool), it became clear that there was confusion between what should go on the Profile and Account pages. We had placed direct deposit functionality in Profile and thought this was the most clear and intuitive path. However, participants were split as to whether this functionality belonged in the Profile or made more sense on the Account page. 
+During [user testing for the upcoming direct deposit feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/research-summary.md#we-need-to-make-it-easier-to-find-the-direct-deposit-tool), it became clear that there was confusion between what should go on the Profile and Account pages. We had placed direct deposit functionality in Profile and thought this was the most clear and intuitive path. However, participants were split as to whether this functionality belonged in the Profile or made more sense on the Account page. 
 
-This prompted us to look into the relationship between the Profile and Account pages as part of this discovery effort. First, we conducted a [comparative analysis](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Comparative%20Analysis), during which we looked at how other sites used the terms "profile" and "account." We found that "profile" was primarily used to mean "personal information," while "account" was used either for settings that affect an entire site experience or for things that had to do with money (eg. paid subscriptions or eCommerce). While this aligned with how we were using these terms on VA.gov, this didn't erase users' confusion. 
+This prompted us to look into the relationship between the Profile and Account pages as part of this discovery effort. First, we conducted a [comparative analysis](), during which we looked at how other sites used the terms "profile" and "account." We found that "profile" was primarily used to mean "personal information," while "account" was used either for settings that affect an entire site experience or for things that had to do with money (eg. paid subscriptions or eCommerce). While this aligned with how we were using these terms on VA.gov, this didn't erase users' confusion. 
 
-For further clarity, we conducted a [card sort](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Card%20sort/Research%20Summary.md#takeaways) in hopes that we'd get more insight into this issue. The results of this study made it clear that there indeed was a problem with how we had things structured on VA.gov. Participants overwhelmingly put features we currently have separated between the Profile and Account pages into one "Personal Information" section, showing us that the conceptual difference between the terms "profile" and "account" that is so clear to us may be less clear — or less important — to them.
+For further clarity, we conducted a [card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/card-sort/research-summary.md#takeaways) in hopes that we'd get more insight into this issue. The results of this study made it clear that there indeed was a problem with how we had things structured on VA.gov. Participants overwhelmingly put features we currently have separated between the Profile and Account pages into one "Personal Information" section, showing us that the conceptual difference between the terms "profile" and "account" that is so clear to us may be less clear — or less important — to them.
 
 ## Observations: Visual design
 
@@ -78,31 +76,25 @@ In the last year and a half since the My VA dashboard, Profile, and Account have
 
 The dashboard's visual design does not lend itself well to a page that is supposed to be an overview/router. A single column view with large fonts and large content blocks makes it hard to see very much at one time. It's no surprise that people find the top 20 tasks on the homepage to be much more accessible.
 
-*The portion of the dashboard you can see on a 13" laptop*
-
-![My VA dashboard](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Content%20analysis/Images/My%20VA%20dashboard-Laptop%20view.png)
 
 #### More thoughts on the Profile
 
-The Profile has scannable headings, but because the page is so long, [people complained in direct deposit user testing](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Profile/Direct%20Deposit/Discovery%20%26%20Research/Research/Usability%20testing/Research%20Summary.md#veterans-want-to-be-able-to-see-whats-available-on-a-page-without-scrolling-their-browser-window) that they wanted to be able to see what was included in the profile from the top of the page. We've added jump links, but this is likely not a long term solution, as there's potential for the list of jump links to get too long itself.
+The Profile has scannable headings, but because the page is so long, [people complained in direct deposit user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/research-summary.md#veterans-want-to-be-able-to-see-whats-available-on-a-page-without-scrolling-their-browser-window) that they wanted to be able to see what was included in the profile from the top of the page. We've added jump links, but this is likely not a long term solution, as there's potential for the list of jump links to get too long itself.
 
-*The portion of the profile you can see on a 13" laptop*
-
-![Profile](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Content%20analysis/Images/Profile-Laptop%20view.png)
 
 ## Observations: On personalization in general
 
 ### VA.gov users are task oriented
 
-VA.gov users are task oriented. They don't come to VA.gov to browse; they come to get a very specific task done. While this is something we knew long before [user testing](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews/Research%20Summary.md#vagov-users-are-task-oriented-and-they-dont-come-to-the-site-to-browse-or-check-in-without-a-reason), this was further reinforced in these sessions.
+VA.gov users are task oriented. They don't come to VA.gov to browse; they come to get a very specific task done. While this is something we knew long before [user testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md#vagov-users-are-task-oriented-and-they-dont-come-to-the-site-to-browse-or-check-in-without-a-reason), this was further reinforced in these sessions.
 
 ### No matter where people are, they expect an experience tailored to them
 
-This was a more subtle observation that we made when evaluating the [card sort](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Card%20sort/Research%20Summary.md#takeaways-3). We saw patterns that made it clear that people were organizing items in the sort based on what *they* wanted to see on VA.gov, not based on how information could be organized for all veterans. This is worth mentioning as a reminder to us that the ultimate goal for our team is to serve individual needs, and the flows and interactions we design going forward should be flexible enough to account for these individual needs.
+This was a more subtle observation that we made when evaluating the [card sort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/card-sort/research-summary.md#takeaways-3). We saw patterns that made it clear that people were organizing items in the sort based on what *they* wanted to see on VA.gov, not based on how information could be organized for all veterans. This is worth mentioning as a reminder to us that the ultimate goal for our team is to serve individual needs, and the flows and interactions we design going forward should be flexible enough to account for these individual needs.
 
 ### We need an onboarding experience
 
-After we [spoke with veterans](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews), we realized we couldn't move forward with this discovery without [talking to separating service members](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Service%20Member%20Interviews) to learn more about how their needs differ. We're glad we did. While onboarding to benefits is a common challenge for both seasoned and new veterans, separating service members have the additional stress of getting to know the VA for the first time and figuring out how to settle into their lives outside of the military. 
+After we [spoke with veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md), we realized we couldn't move forward with this discovery without [talking to separating service members]() to learn more about how their needs differ. We're glad we did. While onboarding to benefits is a common challenge for both seasoned and new veterans, separating service members have the additional stress of getting to know the VA for the first time and figuring out how to settle into their lives outside of the military. 
 
 While there are many ways we could better address the needs of separating service members on VA.gov, one of the biggest ones is creating an onboarding experience for first time users at the VA. Separating service members need more help with wayfinding so they can more easily answer the question — "How the heck do I navigate the VA?"
 
@@ -144,12 +136,6 @@ The MVP for this might look like:
 - Light updates to the homepage.
 - MVP of in-app notification functionality.
 
-*A non-prescriptive exploration of what notification alerts might look like on the homepage and in the navigation*
-![Notifications menu closed](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20design%20exploration/VA.gov%20homepage_Notifications_Menu%20closed.png)
-
-*A list of potential updates*
-![Notifications menu open](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20design%20exploration/VA.gov%20homepage_Notifications_Menu%20open.png)
-
 #### Step two: Update the homepage so it is a personalized, logged in dashboard
 
 After adding notifications, we would further customize the logged in homepage so it's more personally relevant. At first, we may want to continue treating the homepage primarily as a router. We can make some personalized updates to the homepage while keeping the bulk of personal information on interior pages (eg. The claim status tool, the user profile, etc.), as shown below. Over time, we can figure out if and when it makes sense to add more information (eg. upcoming appointments, your VAMC, etc) to the homepage.
@@ -160,11 +146,6 @@ The MVP for this might look like:
 - Figuring out what personal information we want to add to the logged in homepage.
 - Figuring out how and when to guide people to the logged in homepage.
 
-*A non-prescriptive exploration of an updated homepage*
-![VA.gov homepage exploration](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20design%20exploration/VA.gov%20homepage.png)
-
-![VA.gov homepage with notificatins open](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20design%20exploration/VA.gov%20homepage_Notifications%20open.png)
-
 ### Option 2: Redesign My VA, and have it continue to coexist with the homepage
 
 We know that having My VA and the homepage coexist right now isn't working for the reasons outlined above, but we may decide that we want to keep My VA nonetheless. The biggest wins would be a visual overhaul and a reimagining of what's currently on the page to make it more easily digestible. The biggest downside would be the inevitable redundancy with the homepage. Should we take this approach, emphasizing updates/notifications will be as essential as it is in option 1. 
@@ -173,9 +154,6 @@ The MVP approach would involve:
 
 - Full visual redesign of My VA.
 - Figuring out how and when to guide people to My VA.
-
-*A non-prescriptive exploration of an updated My VA dashboard*
-![New My VA](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20design%20exploration/New%20My%20VA.png)
 
 ## Key Takeaway: We should combine Profile and Account
 
@@ -199,15 +177,9 @@ The MVP approach would involve:
 - A new visual approach.
 - Figuring out how and when to guide people to the Profile.
 
-*A non-prescriptive exploration of what a combined Profile and Account might look like*
-
-![Combined profile and account](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20design%20exploration/Combined%20profile%20and%20account.png)
-
 #### Incorporating additional benefit information
 
 Regardless of how we handle the homepage and My VA, we'll need a place for additional benefit information that either does not fit or make sense on those pages. We can incorporate this information into the the profile/account section as it makes sense, providing a fully comprehensive view of what the VA knows about a user.
-
-![Combined My VA, Profile, and Account](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20design%20exploration/Combined%20My%20VA%20%2B%20profile%20and%20account.png)
 
 ## Next steps
 
