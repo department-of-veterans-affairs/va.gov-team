@@ -8,7 +8,6 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
 - [References by Team](#references-by-team)
 - [Small projects](#small-projects)
-- [Milestones](#milestones)
 - [Design Reviews](#design-reviews)
   - Design Intent Checkpoint
   - Pre-usability Testing Design Review
@@ -41,20 +40,6 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 * **Design & Research** - Once design or research plan is ready, request an accessibility design check by messaging Jennifer. Together we'll discuss any concerns and next steps.
  
  * **Front-end Development** - Conduct manual and automated testing as documented in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md). Proceed to [Development Review](#development-review) Step 2. 
- 
-## Milestones
-*Will be updated to ensure alignment with the forthcoming VSP Design and Development Rules of Engagement*
-- Assigned to project
-- Project kickoff
-- Design
-  - Design Intent Review
-  - Pre-usability Testing Design Review
-  - Design QA Review
-- Development
-  - Design-Development Intent Review
-  - 508 Pre-launch Review
-- QA
-- Launch to Production
 
 ## Design Reviews
 
