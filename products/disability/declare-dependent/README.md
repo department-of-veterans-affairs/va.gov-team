@@ -1,16 +1,18 @@
-## Declaration of Status of Dependents 21-686c Form
-
-- GitHub Label: 686 Dependent
-- Slack channel: 686_Dependent
-- Va.gov link: https://staging.va.gov/disability-benefits/apply/dependents/introduction
-- API Calls: [686 Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/api-calls.md)
-- Misc Keyword: 686, 686c, Add a dependent
-
----
+# View and Update Dependents
+`WIP`
+- GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
+- Slack channel: #vsa-ebenefits
+- Old links: 
+  - [View Dependents - http://www.ebenefits.va.gov/ebenefits/dependents](http://www.ebenefits.va.gov/ebenefits/dependents)  
+  - [Update Dependents - http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do](http://www.ebenefits.va.gov/ebenefits/vdc?target=/wssweb/wss-686-webparts/dependent.do)  
+- va.gov link: tbd
+- [Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)  
+- [Current Mockup](https://xd.adobe.com/view/852342af-36f7-41b6-7e04-29c9ca8b210e-f312/screen/f4c5fb1f-44c1-4692-b3e9-e3fad4cfdab3/Dependents-Concept-1)
 
 ### Table of Contents
 
-# Executive Summary 
+# Executive Summary
+- [Abstract](#abstract)
 - [User Problem Statement](#user-problem-statement)
 - [Solution Goals](#solution-goals)
 - [Assumptions](#assumptions)
@@ -24,118 +26,136 @@
 - [Status](#status)
 - [Solution Narrative](#solution-narrative)
 - [Team](#team)
+- [Resources and Documentation](#resources-and-documentation)
 - [Screenshots](#screenshots)
 
 ---
 
 # Executive Summary
 
-## User Problem Statement
-Veterans have difficulty applying to Declare a Dependent through the 686c form. Currently users can file an application through mail, with a VSO or on eBenefits, however, a significant percent of applications are incomplete when submitted causing a significant amount of manual processing to extract additional information from the Veteran.
+## Abstract
 
-#### Current State
-- RBPS has a 63% success rate. Receives 143,000 claims anually - of those 90,000 are automatically processed
-- It currently takes $12-$13 to process a 686 form manually **vs.** $1 to process automatically through RBPS
-- It currently takes 10-20 days to process a 686 form manually **vs.** 1-2 days to process automatically through RBPS
-- 75% of dependency claims go through RBPS - of those 50% come from eBenefits
+One of the most used features on EBN is View and Update Dependents. It is the only self-service place in the VA ecosystem that a Veteran can quickly view the dependents on their compensation award, as well as add, remove, or modify those dependents by electronically submitting the 686c. In happy path cases, electronic submissions can be processed through RBPS which, if successful, begins distributing benefits in days, not weeks or months. 
+
+Migrate this functionality from EBN to the modern front door at VA.gov, conducting research along the way to make sure Veterans are able to achieve their goals in the quickest and most equitable way possible.
+
+- va.gov landing page: https://www.va.gov/family-member-benefits/
+- Benefits landing page: https://benefits.va.gov/compensation/add-dependents.asp
+- Old Rainbows team work on Dependents: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent
+- Dependents is up in staging!: https://staging.va.gov/disability-benefits/apply/dependents/introduction
+
+## User Problem Statement
+
+- I am a Veteran who needs to review and update information about my family and other dependents, so that my family can receive the benefits that I have earned. The paper forms are complicated and frustrating, and sending them off to the VA without any feedback makes me anxious that I might have done something wrong.
 
 ## Solution Goals
+
 ### User Goals
-- Increaser the number of self-serve forms that are submitted electronically
-- Decrease the number of form submissions with incomplete information
+
+- **Veterans:** Review and update information about my dependents. Practically: View the dependents currently on a compensation award, and submit a valid form 686c and form 674 from start to finish online at va.gov
 
 ### Business Goals
-- Increase the % of forms that are routed through RBPS
-- Increase the % of forms that are automatically processed by RBPS (currently 63% success rate)
-- Decrease the form processing time by achieving a higher % of successful automation through RBPS
+
+- Increase efficiency of Dependent update request processing
+- Increase accuracy and integrity of stored data by reducing translation/ transposition cycles
+- Reduce mail costs by establishing all-online feedback cycles
+- Reduce staffing costs by reducing the number of employees needed to process paper forms
 
 ## Assumptions
-- Users will be able to more easily navigate the 686 submission experience on Vets.gov in comparison to eBenefits
+
+- Product will use existing prefill integrations to pre-populate known information
+- Product will use new (to us) BGS endpoints as EVSS is being deprecated
+- We will submit a request for endpoints to be developed on BIP
+- Form 509 (dependent parents) is not part of this work but a great value add
+
+### Product Assumptions: Veteran User Group
+
+-	I can log in to va.gov
+-	I can go to a page and view a list of my dependents
+-	I can understand which dependents are on my compensation award
+- I can update information about my dependents
+  - TODO: Outline all the modifications that can be made
+- I can add a dependent
+- I can remove a dependent
+- I can review and submit my updates
 
 ## Requirements and Constraints
-- The 686 form must be routed through RBPS for automated processing
 
-## Discovery Takeaways
-- Veterans have expectations about why information is being collected--particularly about previous spouses--and the need to collect additional documentation validating or verifying the information given. These expectations mostly relate to the VA's ability to verify the information that the Veteran gives, and to making sure people are not "double-dipping" on benefits to which they are no longer entitled. 
-  - It would be helpful to explore possibilities for additional explanations of why and what is being collected, or not, and to check with stakeholders about whether additional documentation is requested.
-  - It would be further beneficial to have these documents (if any) listed on the intro page for the form.
- - The sections of the form relating to marital status and history are long and complex, and accordingly cause some anxiety about whether parents or children can be added using this form.
-  - Consider providing additional information about where claimants are within the form flow: more than "2 of 5," having the ability to look ahead to what sections are coming next might be helpful.
-- As has been seen with other forms, there is confusion as to why the VA does not already have some of the requested information in their system. 
-  - Some of this confusion will be cleared up with the ability to sign in and prefill the form, but it is also worth discussing with the personalization team how much of a Veteran's existing record relating to dependents can be accessed.
-  - While this MVP only has one flow (adding everyone as though from scratch), in future iterations consider modular elements for adding or removing one person at a time.
-- Participants were confused as to why all of a current spouse's previous spouses have to be listed on the form.
-- Participants called out a content element flagged by the internal team: the need to ask about where a marriage ended in the case of a spouse's death feels needlessly callous.
-- In a similar copy question, the consistent use of "unmarried children" on the "add children" section is out of place when asking about children under 18.
-  - For both of these content instances, we might consider using logical and kind conditional flows: if a child's birthdate makes them under 18, there is no need to ask about marital information, or if a marriage ended in death, there is no need to ask for a location of its ending.
-- With additional forms such as 674 required in certain circumstances, not all participants successfully clicked on the correct button to start the form, and instead looked at the link to download and fill out form 674 as the place to start form 686.
-  - Solution 1: Follow standard button patterns for calls to action (as on [this page](https://www.vets.gov/health-care/apply/application/introduction)), including the >> pattern to indicate clicking to start.
-  - Solution 2: Consider having a document upload section at the end of the form for only those forms or questions relevant to the claimant's situation.
-  - Solution 3: Continue discussing adding portions of 674 as modular additions to 686 experience. Participants seemed open to filling out additional questions within the 686 flow, and did not consider the form complete unless they had filled out those questions as well.
-- In research, only the flow in which the Veteran fills out the form was tested; however, it is known that more often Veterans or their dependents fill out the form with the aid of another party. 
-  - Look very closely at the language around "your" or "the Veteran's" spouse or children and how those will change depending on who is filling out the form.
-- Finally, a number of smaller concerns will be cleared up by following pre-existing patterns on the pensions form:
-  - Whether spouse information should be filled out chronologically or in reverse chronological order
-  - Selecting the total number of marriages up front and allowing that number to dictate the number of fields presented
-  - How to indicate a number of different statuses relevant to one child
- 
+- A logged in LOA3-proofed Veteran should be able to submit a 686c, and possible a 674, depending on existing functionality
+- Is it necessary that the forms be PDFed and uploaded to eFolder? Need research.
+- TODO: Add more
 
 ## Solution Approach
-- A frontend experience on Vets.gov that will submit 686c structured data through _(BGS & RBPS)_ and follow very similar UX interations to the vets.gov pension applications.
+
+- Connect with "Rainbows" team members about 686c research and findings
+- Review historical Dependents work and documentation
+- Audit Dependents app currently in staging, noting differences between it and EBN functionality
+- Perform any necessary supplementary research how Veterans use the Dependents feature on EBN
+- Mock/ update existing designs of Dependents app
+- Audit existing EVSS endpoints and build connection to BGS endpoints
+- Write e2e tests
+- Perform comprehensive usability
+- Ensure that submissions are processed through RBPS as expected
+- Follow launch checklist
+
+## Value Propositions
+
+### User Value
+
+"I don't have to deal with paper forms, potentially making mistakes that will cost me and my family years of cycling with the VA. I can update my family's information on other websites, so I should be able to at the VA."
+
+### Business Value
+
+1. Reduce the burden on administrative professionals significantly by providing them fact-checked information directly from VA partner systems
+2. Reduce mail processing costs
+3. Establish claims in an automated way through RBPS, leveraging existing high-value infrastructure
 
 ## KPIs
-- Increased proccessing automation
-- Decreased processing time
-- Decreased processing costs
+
+TBD
 
 ---
 
 # Implementation Info
-## Narrative
-- The 686 was deemed a valuable next step to follow the development of the 526. We started discovery of the 686 form in early 2018 and iteratively built the form to live on Vets.gov (now Va.gov)
-- **4/18/19** - as of this date the form is live in staging [here](https://staging.va.gov/disability-benefits/apply/dependents/introduction). The frontend was built, the backend submission process through EVSS was also built, but the two were not connected. The work was deprioritized in favor of focusing on the VA.gov relaunch in Nov 2018.
 
 ## Status
-As of April 2019, form lives on VA.gov. The front end and back end are not currently connected. The backend is connected to BGS via an EVSS endpoint.
 
-#### To date:
- - form flow/UI is complete (for adding dependents)
- - form is log-in gated
- - usability tested
- 
-#### Backlog:
-Some remaining items to call out:
- - Migration to VA.gov
- - Integrating FE & BE
- - Confirm and test connection to EVSS endpoint
- - UAT  & Launch Prep
- 
-#### How to Access
-1. Link - https://staging.va.gov/disability-benefits/apply/dependents/introduction
-2. Sign in with a [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv) below (must have a 30% diasbility rating or higher)
+**Oct 1 2019**
+- Pre-discovery
 
+## Solution Narrative
+- Late September: Team orientation to Dependents feature on EBN
 
 ## Team
 
-- **VA POC**: N/A
-- **DSVA POC** `*`: Andrea Schneider 
-- **Product Manager** `*`: Ryan Luu 
-- **Design Lead**: Emily Waggoner 
-- **Content Writer(s)**: Peggy Gannon 
-- **Front-end Engineer(s)**: 
-  - Erik Hansen 
-- **Back-end Engineer(s)**:
-  - Lihan Li 
-  - Johnny Holton 
+- VA Executive Sponsor `*`:
+- VA Policy Expert(s):
+- VA Digital Strategist(s) `*`:
+- Product Manager `*`: 
+- Design Lead: 
+- Eng Lead:
+- VA Web Comms Partner:
+- VA Call Center Partner(s):
+- Production Testing Partner(s):
+- Designer(s):
+- Content Writer(s):
+
+### API Team
+- Product and Project: 
+- Front-end Engineer(s):
+- Back-end Engineer(s):
+
+### Veteran Facing UX Team
+- Product and Project:
+- Front-end Engineer(s):
+- Back-end Engineer(s):
+
 
 `*` = approval required for launch
 
-### Screenshots
-#### Before
-_686 Paper Form_
-![](Design/Screenshots/original_686_form.png)
+## Resources and Documentation
 
-<br>
+- Discovery
+- [Research and Design](research-design/README.md)
 
-_686 eBen Application_
-![](Design/Screenshots/original_686_eBen.png)
+
