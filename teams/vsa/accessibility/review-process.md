@@ -33,10 +33,13 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 - Project kickoff
 - Design
   - Design Intent Review
+  - Pre-usability Testing Design Review
   - Design Review
 - Development
   - Design-Development Intent Review
   - 508 Pre-launch Review
+- QA
+- Launch to Production
 
 ## Design Reviews
 
