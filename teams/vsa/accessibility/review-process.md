@@ -6,6 +6,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
 ## Table of Contents
 
+- [References by Team](#references-by-team)
 - [Small projects](#small-projects)
 - [Milestones](#milestones)
 - [Design Reviews](#design-reviews)
@@ -14,10 +15,23 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
   - Design QA Review Checkpoint
   - [What is the Accessibility Specialist looking for](#what-is-the-accessibility-specialist-looking-for)
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
-  - [References by Team](#references-by-team)
 - [Development Reviews](#development-reviews)
   - Design-Development Intent Checkpoint
   - 508 Pre-launch Review Checkpoint
+ 
+ ## References by Team
+
+* **VSP Design** - [VSP Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
+
+* **VSA Design** - [VSA Design Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#design-review)
+
+* **VSP Content** - [VSP Content Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
+
+* **VSP IA** - [VSP IA Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
+
+* **VSP Research** - [VSP Research Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md)
+
+* **VSP Accessibility** - [VSP Accessibility Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/89faefbdb1e7ce1c783a8cda1aafe9bf7cb0a3b5/platform/accessibility/vsp-508-review-process.md)
  
  ## Small Projects
  For small projects that are only a few days of work, there's no need to go through the whole review process. Instead, message the VSA accessibility specialist (Jennifer Strickland) in Slack to arrange a review.
@@ -90,18 +104,6 @@ When a design review is scheduled by VSP, it will open a design 508 review epic 
 * Review initial design sketches, mockups, and research plans with the accessibility specialist for inclusion and accessibility considerations.
 * Please consider the accessibility specialist as a collaborative partner as work continues. 
 * For guidance during design, [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
-
-### References by Team
-
-* **VSP** - [VSP Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
-
-* **VSA** - [VSA Design Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#design-review)
-
-* **Content** - [VSP Content Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
-
-* **IA** - [VSP IA Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
-
-* **Research** - [VSP Research Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md)
 
 ## Development Reviews
 
