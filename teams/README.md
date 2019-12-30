@@ -1,7 +1,7 @@
 # Teams
 
 This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, project planning, and other general administrative content. <br>
-- If you are looking for documentation on VA.gov user-facing poducts, please see [/products](../products/README.md).
+- If you are looking for documentation on VA.gov user-facing products, please see [/products](../products/README.md).
 - If you are looking for documentation on the tools and services provided by VSP, please see [/platform](../platform/README.md). 
 
 ### Using this space
