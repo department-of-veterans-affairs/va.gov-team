@@ -1,8 +1,8 @@
 # Dashboard 2.0 User Interviews Research Summary
 
-### [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews/Research%20Plan.md)
+### [Research Plan]()
 
-### [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews/Conversation%20Guide.md)
+### [Conversation Guide]()
 
 ## Background 
 
