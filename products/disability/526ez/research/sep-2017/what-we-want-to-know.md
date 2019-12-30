@@ -31,7 +31,7 @@ There is a list of things you are told to have before you "[Get Started](https:/
 - What in this list does the Veteran not understand?
 - What in this list does the Veteran not have?
 
-There is a page that tells you [how to get help](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/screenshots/eben/gettinghelp.png).
+There is a page that tells you [how to get help](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/sep-2017/screenshots/gettinghelp.png).
 - What do Veterans expect to see here?
 - Where would Veterans go to get help?
 
