@@ -10,6 +10,9 @@
 
 * [Interview Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/research/discovery-aug-2019/notes)
 
+* [Updated Participant Criteria, 2019-08-28](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/discovery-aug-2019/updated-participant-criteria.md) - after having multiple participants that didn't actually meet criteria in the first recruiting effort
+
+
 ## Signatures Research
 
 Conducted by David Bao and Ming Ligh
