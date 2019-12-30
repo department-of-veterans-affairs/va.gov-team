@@ -10,6 +10,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
   * [Helpful Links](#helpful-links)
   * [Issues by Application](#issues-by-application)
     * [Site-wide Issues](#site-wide-issues)
+    * [Facility Locator Issues](#facility-locator-issues)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -24,7 +25,7 @@ Each application or logical section of the site will have a heading and a detail
 **Audit Status:** Not applicable. Issues should be completed as soon as possible<br/>
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Asitewide+label%3A508%2FAccessibility)**<br/>
 
-#### Open Site-wide Issues
+#### Open Issues
 
 * [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
 **Opened:** June 18, 2019 | **Severity:** 508-defect-1
@@ -52,10 +53,33 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** July 1, 2019
 ---
 
+### Facility Locator Issues
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Issues logged by auditor in July 2019<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A508%2FAccessibility+label%3A%22facility+locator%22+is%3Aclosed)**
+
+#### Open Issues
+
+* [Change Community Care service field labels and typeahead - #3049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049)<br/>
+**Opened:** July 8, 2019 | **Severity:** 508-defect-1
+* [[KEYBOARD]: Map needs explicit instructions and keyboard controls that don't interfere with assistive devices - #514](https://github.com/department-of-veterans-affairs/va.gov-team/issues/514)<br/>
+**Opened:** July 8, 2019 | **Severity:** 508-defect-1
+* [[KEYBOARD]: Community Care Service Type does not warn users when field is reset because search did not match a term - #489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/489)<br/>
+**Opened:** July 8, 2019 | **Severity:** 508-defect-1
+* [[SCREENREADER]: Facility locator is not announcing the current page when there are more than one page of results - #713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/713)<br/>
+**Opened:** July 26, 2019 | **Severity:** 508-defect-2
+* [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
+**Opened:** July 10, 2019 | **Severity:** 508-defect-2
+* [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
+**Opened:** July 8, 2019 | **Severity:** 508-defect-2
+* [[AXE-CORE]: Facility Locator - Provider Detail page has an UL that needs to be nested properly - #360](https://github.com/department-of-veterans-affairs/va.gov-team/issues/360)<br/>
+**Opened:** June 21, 2019 | **Severity:** 508-defect-3
+---
+
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| Facility Locator | VSA | Issues logged by auditor in July 2019 | **Open issues:**<br/>  [#2275](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2275), [#713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/713), [#529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529), [#515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515), [#514](https://github.com/department-of-veterans-affairs/va.gov-team/issues/514), [#492](https://github.com/department-of-veterans-affairs/va.gov-team/issues/492), [#489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/489), [#3049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049), [#482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/482) <br/><br/> **Closed issues:**<br/> [#531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/531), [#493](https://github.com/department-of-veterans-affairs/va.gov-team/issues/493), [#516](https://github.com/department-of-veterans-affairs/va.gov-team/issues/516), [#483](https://github.com/department-of-veterans-affairs/va.gov-team/issues/483), [#1056](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1056), [#484](https://github.com/department-of-veterans-affairs/va.gov-team/issues/484), [#487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/487) <br/><br/> **Non-issues closed on VA 508 guidance:**<br/> [#711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/711), [#491](https://github.com/department-of-veterans-affairs/va.gov-team/issues/491), [#485](https://github.com/department-of-veterans-affairs/va.gov-team/issues/485), [#490](https://github.com/department-of-veterans-affairs/va.gov-team/issues/490) |
 | Disability Calculator (Beta) | VSA | Issues logged by Product Support during audit June 2019<br/><br/>Request sent to VA 508 office September 2019. | **Open issues:**<br/> [#1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045) <br/><br/> **Closed issues:**<br/> [#428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/428), [#429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/429), [#430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/430), [#431](https://github.com/department-of-veterans-affairs/va.gov-team/issues/431), [#423](https://github.com/department-of-veterans-affairs/va.gov-team/issues/423), [#1043](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1043), [#1039](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1039) |
 | VA Developer Portal | VSP | Issues logged by Product Support in Q1 2019 audit | [All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/vets-contrib/issues?q=is%3Aopen+label%3A508%2FAccessibility+label%3ASparkleMotion) |
 | 526V2 All Claims | VSA | Sent to VA 508 office for quick test on March 2019 <br/><br/> [526v2 App](https://staging.va.gov/disability-benefits/apply/form-526-all-claims/) | **Open issues identified by VA 508 office:**<br/> [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314), [#182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182) <br/><br/> **Open issues identified by Product Support:**<br/> [#1046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1046), [#1709](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1709), [#1705](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1705), [#1711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1711) <br/><br/>**Closed issues:**<br/>[#1047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1047)  |
