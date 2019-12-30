@@ -9,19 +9,20 @@ As an individual seeking education benefits, I want to understand the eligibilit
 #### Solution Hypothesis
 By presenting more detailed information about STEM scholarship eligibility criteria in the Education Benefits routing wizard, and not directing individuals to the STEM application if they're not eligible, we will reduce the alarmingly high 90% rejection rate for the STEM Scholarship.
 
-Furthermore, for individuals who are bypassing the wizard and accessing the STEM scholarship application directly, including more detail around STEM eligibility and other safeguards  within the online application will help individuals better understand the scholarship criteria and discourage them for applying when they're not eligible.
+Furthermore, for individuals who bypass the wizard and access the STEM scholarship application directly, our future efforts will include more detail around STEM eligibility and other safeguards within the online application.  These efforts to enhance the online application will help applicants better understand the scholarship criteria and discourage those wh aren't eligible from applying unnecessarily.
 
 #### Research Questions
 
 The research is designed to answer the following questions:
  
-* What do individuals seeking Education Benefits believe the nature of the STEM Scholarship to be?
 * What do users know or what are their assumptions about STEM Scholarship eligibility criteria?
 * Are users looking for information about STEM Scholarship eligibility before applying? If so, where? If no, why not?
-* What additional information or contextual help would ensure users understand the scope and criteria of the STEM scholarship and their potential eligibility?
+* What do individuals seeking Education Benefits believe the nature of the STEM Scholarship to be?
+* What additional information or contextual help within the wizard would ensure users understand the scope and criteria of the STEM scholarship and their potential eligibility?
 * Why do individuals who are ineligible for the STEM Scholarship apply for it?
 * What would deter individuals who are ineligible for the STEM Scholarship from applying for it?
 * Would making modifications to the Wizard or to the application form itself have a larger impact in reducing applications from ineligible individuals? 
+
 
 #### What knowledge will make us feel like the research process has been successful?
 
