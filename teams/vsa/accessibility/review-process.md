@@ -24,7 +24,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
  
  ### Feature Workflow
  
-* **Design & Research** - Once design is ready, request an accessibility design check by messaging Jennifer. Together we'll discuss any concerns and next steps.
+* **Design & Research** - Once design or research plan is ready, request an accessibility design check by messaging Jennifer. Together we'll discuss any concerns and next steps.
  
  * **Front-end Development** - Conduct manual and automated testing as documented in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md). Proceed to [Development Review](#development-review) Step 2. 
  
