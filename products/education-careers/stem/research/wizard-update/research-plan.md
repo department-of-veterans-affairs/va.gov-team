@@ -17,16 +17,20 @@ The research is designed to answer the following questions:
  
 * What do users know or what are their assumptions about STEM Scholarship eligibility criteria?
 * Are users looking for information about STEM Scholarship eligibility before applying? If so, where? If no, why not?
-* What do individuals seeking Education Benefits believe the nature of the STEM Scholarship to be?
+* What do individuals seeking Education Benefits believe the nature of the STEM Scholarship to be as they complete the wizard?
 * What additional information or contextual help within the wizard would ensure users understand the scope and criteria of the STEM scholarship and their potential eligibility?
 * Why do individuals who are ineligible for the STEM Scholarship apply for it?
 * What would deter individuals who are ineligible for the STEM Scholarship from applying for it?
 * Would making modifications to the Wizard or to the application form itself have a larger impact in reducing applications from ineligible individuals? 
 
+As time allows, we're also interested in gaining some insight into engagement with VA Form 22-1995 itself. For example: 
+* What do individuals who access VA Form 22-1995 Request for Change of Program or Place of Training believe the nature of the STEM Scholarship to be?
+*	What confusion do individuals experience when seeing the STEM questions on the Request for Change of Program or Place of Training application and how might this confusion be mitigated?
+
 
 #### What knowledge will make us feel like the research process has been successful?
 
-Developing an understanding of why individuals who aren't eligible for the STEM Scholarship continue to apply for it and identifying changes that will discourage ineligible users from applying will make us feel like the research process has been successful.
+Developing an understanding of why individuals who aren't eligible for the STEM Scholarship continue to apply for it and identifying changes to the "How to apply" wizard that will discourage ineligible users from applying will make us feel like the research process has been successful.
 
 #### What kinds of users do we need to talk to answer our questions?
 
