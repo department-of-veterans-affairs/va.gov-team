@@ -82,7 +82,7 @@
 
 ### Other Prototypes:
 
-[GIBCT - School Profile - Veteran Programs & Cautionary Information v0.0](https://bahdigital.invisionapp.com/share/R3IACBMBWFJ)<br>Veteran Programs has been updated. Cautionary Information is pending approval from DSVA.
+[GIBCT - School Profile - Veteran Programs & Cautionary Information v0.0](https://bahdigital.invisionapp.com/share/R3IACBMBWFJ)<br>Updates to Veteran Programs accordion and Cautionary Information accordion. 
 
 [GIBCT - Landing Page Subhead v0.0](https://bahdigital.invisionapp.com/share/VFIAC88YRJ9)<br>The subhead beneath the GIBCT landing page H1 header was deemed non-508 compliant as the blue font too closely resembled a hyperlink. We explored several styling options for the subhead to ensure it is 508 compliant.
 
