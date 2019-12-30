@@ -10,7 +10,7 @@ More veterans can access benefits and services that rely on personal information
 5. **Increase identity account usage:** More veterans have and use secure, identity verified accounts that give access to additional benefits and service.
 
 ## Goal-related problems:
-Problems are graphed based on Value - Cost - Controllability here: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Roadmapping/Identity_PrioritizedProblems.md
+Problems are graphed based on Value - Cost - Controllability here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/roadmapping/identity-prioritizedproblems.md
 
 ### 1. Improve Login:
 - Login has errors that prevent successful completion. 5-4-2
@@ -119,9 +119,3 @@ People hate mFA - people have problems with using their phone for MFA, and have 
 - Digital version accurately represents physical person in relation to the VA
 - Users can access tools appropriately, based on their digital identity
 - When users need to do something, to get what they need, it’s clear where to go and how to do it.
-
-
-## PDF
-
-[Identity Roadmapping.pdf](https://github.com/department-of-veterans-affairs/vets.gov-team/files/2696201/Identity.Roadmapping.pdf)
-- Day 1 & 2 complete, more work to come
