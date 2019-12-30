@@ -24,10 +24,10 @@ Use this checklist to assist you with your Ceremonies and process.
 3. Speak about and display the goal of the Sprint. 
 4. Share Zenhub board for team and start with the Backlog (this is usually the Ready Column but may start at the Backlog Column).
 5. Starting with highest priority User Story:
-...Make sure the Story is clear and see if anyone has questions about it.
-...Have team decide who will work on item.
-...Move to Current Sprint Column.
-...Create tasks for the User Story and estimate hours per task.
+    1. Make sure the Story is clear and see if anyone has questions about it.
+    1. Have team decide who will work on item.
+    1. Move to Current Sprint Column.
+    1. Create tasks for the User Story and estimate hours per task.
 
 **Implementation**
 
