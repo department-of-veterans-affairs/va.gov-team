@@ -9,10 +9,47 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
 * [Review severity guidance for 508 accessibility issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/GUIDANCE-severity-rubric.md)
 
+## Issues by Application
+Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
+
+### Site-wide Issues
+
+**Maintainer:** VSP & VSA<br/>
+**Audit Status:** Not applicable. Issues should be completed as soon as possible<br/>
+**[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Asitewide+label%3A508%2FAccessibility)**<br/>
+
+#### Open Site-wide Issues
+
+* [[SCREENREADER]: Legends must be first child element of fieldesets for tabbing navigation - #767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767)<br/>
+**Opened:** July 31, 2019
+* [[Implement utility class for removing gold outline during focus - #457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/457)<br/>
+**Opened:** July 1, 2019
+* [[SCREENREADER]: JAWS + Chrome enables focus mode when we focus breadcrumb UL on page load - #319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/319)<br/>
+**Opened:** June 18, 2019
+* [[SCREENREADER]: Review sections with no header cause aria-label errors - #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
+**Opened:** June 18, 2019
+* [[SCREENREADER]: JAWS does not announce some sections of the multi-step forms when loaded - #317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317)<br/>
+**Opened:** June 18, 2019
+* [[SCREENREADER]: Text and inputs added dynamically should be announced by screen readers - #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316)<br/>
+**Opened:** June 18, 2019
+* [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+**Opened:** June 18, 2019
+* [[EXPLORATION]: Turn on jsx-a11y ESLint rules - #1139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1139)<br/>
+**Opened:** August 20, 2019
+* [[EXPLORATION]: Disable known buggy axe rules individually - #1140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1140)<br/>
+**Opened:** August 20, 2019
+* [[SCREENREADER]: VET TEC - NVDA does not read the error if I forget to agree to the privacy policy - #1141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
+**Opened:** August 20, 2019
+* [[KEYBOARD]: main nav accessibility -- tabbing in small screens - #1144](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1144)<br/>
+**Opened:** August 20, 2019
+* [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145)<br/>
+**Opened:** August 20, 2019
+
+---
+
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| Site-wide | VSP & VSA | | **All Open Items:**<br/> [Filtered list](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Asitewide+label%3A508%2FAccessibility)<br/><br/>**Open Issues:** <br/> [#767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767), [#457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/457), [#319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/319), [#318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318), [#317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317), [#316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316), [#314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314), [#1139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1139), [#1140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1140), [#1141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141), [#1144](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1144), [#1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145) |
 | Facility Locator | VSA | Issues logged by auditor in July 2019 | **Open issues:**<br/>  [#2275](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2275), [#713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/713), [#529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529), [#515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515), [#514](https://github.com/department-of-veterans-affairs/va.gov-team/issues/514), [#492](https://github.com/department-of-veterans-affairs/va.gov-team/issues/492), [#489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/489), [#3049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049), [#482](https://github.com/department-of-veterans-affairs/va.gov-team/issues/482) <br/><br/> **Closed issues:**<br/> [#531](https://github.com/department-of-veterans-affairs/va.gov-team/issues/531), [#493](https://github.com/department-of-veterans-affairs/va.gov-team/issues/493), [#516](https://github.com/department-of-veterans-affairs/va.gov-team/issues/516), [#483](https://github.com/department-of-veterans-affairs/va.gov-team/issues/483), [#1056](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1056), [#484](https://github.com/department-of-veterans-affairs/va.gov-team/issues/484), [#487](https://github.com/department-of-veterans-affairs/va.gov-team/issues/487) <br/><br/> **Non-issues closed on VA 508 guidance:**<br/> [#711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/711), [#491](https://github.com/department-of-veterans-affairs/va.gov-team/issues/491), [#485](https://github.com/department-of-veterans-affairs/va.gov-team/issues/485), [#490](https://github.com/department-of-veterans-affairs/va.gov-team/issues/490) |
 | Disability Calculator (Beta) | VSA | Issues logged by Product Support during audit June 2019<br/><br/>Request sent to VA 508 office September 2019. | **Open issues:**<br/> [#1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045) <br/><br/> **Closed issues:**<br/> [#428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/428), [#429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/429), [#430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/430), [#431](https://github.com/department-of-veterans-affairs/va.gov-team/issues/431), [#423](https://github.com/department-of-veterans-affairs/va.gov-team/issues/423), [#1043](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1043), [#1039](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1039) |
 | VA Developer Portal | VSP | Issues logged by Product Support in Q1 2019 audit | [All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/vets-contrib/issues?q=is%3Aopen+label%3A508%2FAccessibility+label%3ASparkleMotion) |
