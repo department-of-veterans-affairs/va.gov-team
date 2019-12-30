@@ -6,7 +6,7 @@
 
 * [Conversation Guide - Caregivers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/discovery-aug-2019/caregiver-conversation-guide.md)
 
-* [Conversatioin Guide - Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/discovery-aug-2019/veteran-conversation-guide.md)
+* [Conversation Guide - Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/discovery-aug-2019/veteran-conversation-guide.md)
 
 * [Interview Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery/research/discovery-aug-2019/notes)
 
