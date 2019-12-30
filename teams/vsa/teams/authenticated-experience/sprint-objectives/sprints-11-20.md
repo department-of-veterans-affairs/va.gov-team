@@ -102,7 +102,7 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 
 **Samara**
 
-- [ ] Confirm with eBenefits that direct deposit is being removed from the site
+- [ ] Confirm that eBenefits is removing direct deposit from the site in 1/29 release #3967
 
 **Erik**
 
