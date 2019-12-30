@@ -115,7 +115,6 @@ This review happens as the design is passed to development, _before beginning de
     c. Accessibility specialist will conduct an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md).
     
 3. **508 Office Review**<br/>
-
   The VSP and VSA accessibility specialists will forward teams' webpages and applications to the VA 508 office after production launch. Accessibility specialists meet with the 508 office representative every month, and will notify them of new products to test during that meeting, or via email as needed.
 
 4. **508 Post-launch Audit**
