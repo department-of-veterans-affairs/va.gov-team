@@ -45,6 +45,8 @@
 
 ### Colmery Act Section 107 Multiple Campuses Updates:
 
+[GIBCT 107 v0.7a Multiple Campuses - Desktop](https://bahdigital.invisionapp.com/share/58IACE8AXVR)
+
 [GIBCT 107 v0.7a Multiple Campuses - Mobile](https://bahdigital.invisionapp.com/share/C3IAC976T2D)
 
 [GIBCT 107 v0.7b Multiple Campuses - Mobile](https://bahdigital.invisionapp.com/share/E9IACAETV2H)
