@@ -2,12 +2,12 @@
 
 The Login React app allows users to authenticate themselves via ID.me to access Vets.gov features that require authenicated user data.
 
-This project has a [version 1 requirements document](../../User%20Profile/User_Profile_Requirements_v1.md) from which the initial solution was built.
+This project has a [version 1 requirements document]() from which the initial solution was built.
 
 ## How it Works
 
 ### Login
-![Login Flow](../Auth/fe_auth_flow.png "Login Flow")
+![Login Flow]()
 
 **Steps with Related Files:**
 
@@ -31,7 +31,7 @@ This project has a [version 1 requirements document](../../User%20Profile/User_P
 18. [This is inside of vets-api](../Auth/authentication_and_authorization.md)
 19. [Login url callback returned with token as param](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/auth/containers/AuthApp.jsx#L78)
 20. [GET request to /users endpoint + Token in the header](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/auth/containers/AuthApp.jsx#L42-L46)
-21. [This is inside of vets-api](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Identity%20Discovery%202016/authentication_and_authorization.md)
+21. [This is inside of vets-api]()
 22. [User data returned](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/auth/containers/AuthApp.jsx#L48-L50)
 23. [Fetch LOA3 url](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/auth/containers/AuthApp.jsx#L51-L58)
 24. [Response with LOA3 url](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/js/auth/containers/AuthApp.jsx#L59-L63)
