@@ -10,7 +10,6 @@ Please refer to the deprecated list for [previously closed issues](https://githu
   * [Helpful Links](#helpful-links)
   * [Issues by Application](#issues-by-application)
     * [Site-wide Issues](#site-wide-issues)
-    * [Facility Locator](#facility-locator)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -51,10 +50,6 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** August 20, 2019
 * [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145)<br/>
 **Opened:** August 20, 2019
-
----
-
-### Facility Locator
 
 ---
 
