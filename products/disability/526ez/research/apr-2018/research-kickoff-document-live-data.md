@@ -30,7 +30,7 @@ Find any major issues (bugs only - no design changes) with 526 Claims for Increa
 * Recruiter: Kristin Walker
 * Notetakers: Alex Taylor
 * Other people to invite: 
-    * Invite all [Unicorns team members](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Administrative/org-chart.md#transactions-a-unicorns) as optional  
+    * Invite all [Unicorns team members]() as optional  
 
 
 - [ ] PM, Researcher, Designer, Recruiter have met to discuss and confirm criteria and dates
