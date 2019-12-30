@@ -14,7 +14,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
   - Design QA Review Checkpoint
   - [What is the Accessibility Specialist looking for](#what-is-the-accessibility-specialist-looking-for)
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
-  - [Design References](#for-reference)
+  - [References by Team](#references-by-team)
 - [Development Reviews](#development-reviews)
   - Design-Development Intent Checkpoint
   - 508 Pre-launch Review Checkpoint
@@ -91,7 +91,7 @@ When a design review is scheduled by VSP, it will open a design 508 review epic 
 * Please consider the accessibility specialist as a collaborative partner as work continues. 
 * For guidance during design, [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
 
-### For reference
+### References by Team
 
 * **VSP** - [VSP Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
 
