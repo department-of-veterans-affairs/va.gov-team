@@ -1,6 +1,6 @@
 # Chapter Outlines
 
-Cribbing from https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Disability/Disability%20526EZ/design/all-claims/chapter-outlines
+Cribbing from https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/design/all-claims/chapter-outlines
 
 ## Overall flow comparison
 
