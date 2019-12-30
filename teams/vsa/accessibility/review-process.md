@@ -57,29 +57,29 @@ For medium to large projects, there are three required checkpoints. These review
  
  The accessibility specialist will review for the following items to align with WCAG:
 
-[ ] Mobile design - including performance implications for assistive technology and impact on the diverse audience (such as those with challenging connectivity or limited data plans)
+* Mobile design - including performance implications for assistive technology and impact on the diverse audience (such as those with challenging connectivity or limited data plans)
     
-[ ] Laptop/desktop design
+* Laptop/desktop design
         
-[ ] Semantic heading order
+* Semantic heading order
 
-[ ] Spacing of interactive items – for example, is the spacing sufficient to ensure people don't accidentally select something other than what they meant to?
+* Spacing of interactive items – for example, is the spacing sufficient to ensure people don't accidentally select something other than what they meant to?
         
-[ ] Cognitive Considerations – in the words of [Steve Krug](http://sensible.com/), *don't make me think!* Design should be clear, not overloaded, and not trigger any vestibular conditions.
+* Cognitive Considerations – in the words of [Steve Krug](http://sensible.com/), *don't make me think!* Design should be clear, not overloaded, and not trigger any vestibular conditions.
         
-[ ] Plain language - supplementing the content review, accessibility will ensure compliance with WCAG.
+* Plain language - supplementing the content review, accessibility will ensure compliance with WCAG.
         
-[ ] Consistency & best practices to align with the [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
+* Consistency & best practices to align with the [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/WCAG-Checklist.md)
         
-[ ] Mobile-only interactions
+* Mobile-only interactions
         
-[ ] Touch interactions
+* Touch interactions
         
-[ ] Performance budget consideration
+* Performance budget consideration
   
-[ ] Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
+* Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
   
-[ ] Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
+* Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
     
 ### Accessibility Design Collaboration
 
