@@ -17,7 +17,7 @@ Unless something changes, these both need to have _everybody._ Neither one is mu
 
 Our current understanding is that identity is being _pretty_ well bundled up in MVI, but it's less clear if military service information is being reliably bundled up into VADIR.
 
-## VADIR ([main notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login%20Unifier/180620_VADIR_notes.md))
+## VADIR ([main notes](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/vadir))
 + Replicated copy of DEERS, from DMDC.
 + DEERS is missing Veterans before 1983(?) and missing Guard/Reserve.
   + DEERS also appears to systematically be unreliable on the day field of birthdates.
@@ -27,7 +27,7 @@ Our current understanding is that identity is being _pretty_ well bundled up in 
 + Includes demographics and military service.
 + Unclear what type of searches exist.
 
-## MVI ([main notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login%20Unifier/180620_MVI_notes.md))
+## MVI ([main notes](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/mvi))
 + VA's chosen source for identity.
 + Contains only demographics and correllation IDs.
 + Original source is the Master Patient Index, so this primarily includes all Vetearns known to VHA.
