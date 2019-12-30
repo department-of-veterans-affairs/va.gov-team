@@ -11,7 +11,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 - [Design Reviews](#design-reviews)
   - Design Intent Checkpoint
   - Pre-usability Testing Design Review
-  - Design Review Checkpoint
+  - Design QA Review Checkpoint
   - [What is the Accessibility Specialist looking for](#what-is-the-accessibility-specialist-looking-for)
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
   - [Design References](#for-reference)
@@ -35,7 +35,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 - Design
   - Design Intent Review
   - Pre-usability Testing Design Review
-  - Design Review
+  - Design QA Review
 - Development
   - Design-Development Intent Review
   - 508 Pre-launch Review
@@ -50,8 +50,8 @@ For medium to large projects, there are **three required checkpoints**. These re
 
 2. **Pre-usability Testing Design Review**, integrated with VSP, is conducted when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts. Accessibility provides inclusive feedback on recruiting diverse participants and considering additional testing scenarios.  <br/> **[>> Schedule a pre-usability testing review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
 
-3. **Design Review Checkpoint** — *Integrated with VSP*, when design is final.<br/>
-**[>> Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
+3. **Design QA Review Checkpoint** — *Integrated with VSP*, when design is final.<br/>
+**[>> Schedule a design QA review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
 
  ### What is the Accessibility Specialist looking for?
  
