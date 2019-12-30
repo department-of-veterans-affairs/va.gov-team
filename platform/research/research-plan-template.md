@@ -3,7 +3,7 @@ This is a research plan for usability testing of the HLR (High Level Review) pro
 
 ## Goals
 1. Benefits and memorial. HLR process. 
-2. Background: The HLR process has been tested before, but changes have been made after the usability testing, and another round of usability testing is needed. Also the HLR process as a product has changed hands several times during the last few months, so this product needs an owner. Christian Valla will be the lead researcher on this product, Kevin Stachura will also be a researcher on this product.  A number of pages have been created by designers. The usability testig will check for usability issues, pain points, and any confusing steps or language. 
+2. Background: The HLR process has been tested before, but changes have been made after the usability testing, thus another round of usability testing is needed. Also the HLR process as a product has changed hands several times during the last few months, so this product needs an owner. Christian Valla will be the lead researcher on this product, Kevin Stachura will also be a researcher on this product.  A number of pages have been created by designers. The usability testig will check for usability issues, pain points, and any confusing steps or language. 
 3. Research questions: Are there any usbability issues within the HLR pages? Are there any pain points? Are there any confusing steps, info or language? 
 4. Hypothesis: We believe that most steps within the HLR process is self explanatory and simple. We will test this hypothesis. 
 
@@ -28,12 +28,12 @@ This is a research plan for usability testing of the HLR (High Level Review) pro
 (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
 
 ## When? 
-1.	Timeline: What dates do you plan to do research? 
-(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote, 2+ weeks for in person.) 
+1.	Timeline: mid january to end of january 2020
+(IF you are using the research recruiting contract, please submit 1 FULL week prior to the start of research for remote)
 
-2.	Prepare: When will the thing you are testing be ready? (Goes without saying, but should be a few days before testing will begin.) 
+2.	Prepare: the prototypes are ready for testing.  
 
-3. Length of Sessions: How long do you estimate each session will be? (This helps with scheduling & thank you gifts.) e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours) 
+3. Length of Sessions: 1 hour.
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
 
