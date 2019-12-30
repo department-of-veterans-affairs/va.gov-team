@@ -12,6 +12,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Site-wide Issues](#site-wide-issues)
     * [Facility Locator Issues](#facility-locator-issues)
     * [Disability Calculator Issues](#disability-calculator-issues)
+    * [VA Developer Portal Issues](#va-developer-portal-issues)
+    * [526v2 All Claims Issues](#526v2-all-claims-issues)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -51,7 +53,9 @@ Each application or logical section of the site will have a heading and a detail
 * [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145)<br/>
 **Opened:** August 20, 2019 | **Severity:** 508-defect-4
 * [Implement utility class for removing gold outline during focus - #457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/457)<br/>
-**Opened:** July 1, 2019
+**Opened:** July 1, 2019 | **Severity:** 508-defect-4
+* [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
+**Opened:** July 1, 2019 | **Severity:** 508-defect-4
 ---
 
 ### Facility Locator Issues
@@ -88,13 +92,43 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? - #1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049)<br/>
 **Opened:** August 16, 2019 | **Severity:** 508-defect-2
+
 ---
+
+### VA Developer Portal Issues
+
+**Maintainer:** VSP<br/>
+**Audit Status:** Issues logged by VSP Product Support in Q1 2019 audit<br/>
+**[All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/vets-contrib/issues?q=is%3Aopen+label%3A508%2FAccessibility+label%3ASparkleMotion)**
+
+---
+
+### 526v2 All Claims Issues
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A526+label%3A508%2FAccessibility+is%3Aclosed)**
+
+#### Open issues identified by VA 508 office
+
+* [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-1
+* [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
+**Opened:** June 5, 2019 | **Severity:** 508-defect-4
+
+#### Open issues identified by VSP Product Support
+
+* [[USABILITY]: 526 v2 - Street address field should allow more than 20 characters - #1046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1046)<br/>
+**Opened:** August 16, 2019 | **Severity:** 508-defect-3
+* [[SCREENREADER]: Recommend reviewing language for error messages to improve descriptiveness - #1711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1711)<br/>
+**Opened:** September 11, 2019 | **Severity:** 508-defect-3
+
+---
+
 
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| VA Developer Portal | VSP | Issues logged by Product Support in Q1 2019 audit | [All issues logged in vets-contrib repo for VA dev portal](https://github.com/department-of-veterans-affairs/vets-contrib/issues?q=is%3Aopen+label%3A508%2FAccessibility+label%3ASparkleMotion) |
-| 526V2 All Claims | VSA | Sent to VA 508 office for quick test on March 2019 <br/><br/> [526v2 App](https://staging.va.gov/disability-benefits/apply/form-526-all-claims/) | **Open issues identified by VA 508 office:**<br/> [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314), [#182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182) <br/><br/> **Open issues identified by Product Support:**<br/> [#1046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1046), [#1709](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1709), [#1705](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1705), [#1711](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1711) <br/><br/>**Closed issues:**<br/>[#1047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1047)  |
 | HCA Dashboard Notifications | VSA | First audit completed by Product Support June 2019.<br/></br>Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019. | **Open enhancements identified by Product Support:**<br/> [#3219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3219) <br/><br/>**Closed issues:**<br/> [#1082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1082) |
 | VA Benefits Recommendations | VSA | Request sent to VA 508 office March 2019.<br/><br/>[Recommendations app](https://staging.va.gov/my-va/find-benefits/) | **Open enhancements identified by Product Support:**<br/> [#1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/><br/>**Closed issues:**<br/> [#1007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1007), [#705](https://github.com/department-of-veterans-affairs/va.gov-team/issues/705) |
 | Health care application 1010-EZ | VSA | Request sent to VA 508 office November 2018 | [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314) |
