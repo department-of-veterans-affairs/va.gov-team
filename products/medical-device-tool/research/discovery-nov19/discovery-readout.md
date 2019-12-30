@@ -71,7 +71,7 @@ As we spoke with our participants, we aimed to answer the following research que
 2. Veterans are unable to order hearing aid accessories through more automated channels, so they resort to ordering via live phone agent
 3. Many Veterans are unaware of all the ordering methods available to them
 4. Prosthetic socks account for a very small percentage of orders, and they are a highly-custom item 
-5. Veterans are not receiving the order communications they expect; they would like to receive communications through email or text message
+5. Veterans expect to receive communications about their order
 6. Veterans are interested in ordering their resupply items online, but the current process doesn’t fit their needs 
 7. Several Veterans experience trouble accessing eBenefits or DLC’s VOES applet
 8. Veterans have expressed interested in more automated resupply
