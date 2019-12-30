@@ -57,7 +57,7 @@ Note: revise above sections as needed
 
 
 ### Timeline
-See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/SampleDiscoverySprintSchedule.md.
+See also: [sample discovery sprint schedule](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/sample-discovery-sprint-schedule.md).
 
 * Are there any hard and fast deadlines for completing the discovery work?
 * When will the following take place?
