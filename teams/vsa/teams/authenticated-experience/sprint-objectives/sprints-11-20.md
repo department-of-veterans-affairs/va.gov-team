@@ -85,7 +85,21 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 ## Sprint 12 (1/2 - 1/14)
 
+Note: Code freeze between 12/23 - 1/3/2020.
+
 ### Address validation
+
+
+  
+### Profile 2.0
+
+- Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
+
+### Error Matrix
+
+- Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
+
+## Sprint 13 (1/15 - 1/28)
 
 #### QA
 
@@ -112,11 +126,3 @@ Erik may end up helping with some of this.
 - Pre-launch
   - Analytics
   - Etc
-  
-### Profile 2.0
-
-- Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
-
-### Error Matrix
-
-- Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
