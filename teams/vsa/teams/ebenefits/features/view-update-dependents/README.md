@@ -1,5 +1,5 @@
 # View and Update Dependents
-
+`WIP`
 - GitHub Label: [vsa-ebenefits](https://github.com/department-of-veterans-affairs/va.gov-team/#workspaces/vft-59c95ae5fda7577a9b3184f8/board?labels=vsa-ebenefits&repos=133843125&showPipelineDescriptions=false)
 - Slack channel: #vsa-ebenefits
 - Old links: 
@@ -8,8 +8,6 @@
 - va.gov link: tbd
 - [Previous team's work](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/declare-dependent)  
 - [Current Mockup](https://xd.adobe.com/view/852342af-36f7-41b6-7e04-29c9ca8b210e-f312/screen/f4c5fb1f-44c1-4692-b3e9-e3fad4cfdab3/Dependents-Concept-1)
-
-## WIP
 
 ### Table of Contents
 
