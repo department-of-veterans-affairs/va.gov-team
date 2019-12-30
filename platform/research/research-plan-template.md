@@ -1,16 +1,16 @@
 # Research Plan for [Team, Product, Date]
-(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 
+This is a research plan for usability testing of the HLR (High Level Review) process, January 2020. By Kevin Stachura and Christian Valla.
 
 ## Goals
-1. What product & team are you doing this research for?
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 
-4. Hypothesis: What is your hypothesis for this research? 
+1. Benefits and memorial. HLR process. 
+2. Background: The HLR process has been tested before, but changes have been made after the usability testing, and another round of usability testing is needed. Also the HLR process as a product has changed hands several times during the last few months, so this product needs an owner. Christian Valla will be the lead researcher on this product, Kevin Stachura will also be a researcher on this product.  A number of pages have been created by designers. The usability testig will check for usability issues, pain points, and any confusing steps or language. 
+3. Research questions: Are there any usbability issues within the HLR pages? Are there any pain points? Are there any confusing steps, info or language? 
+4. Hypothesis: We believe that most steps within the HLR process is self explanatory and simple. We will test this hypothesis. 
 
 ## Method
-1.	What method of research are you planning? 
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated
+1.	Usability testing with Veterans remotely. 8-10 veteran users. Spread among age, sex, location, experience with VA. 
+  This will be task-oriented, semi-structured usability testing, with high-fidelity prototypes.
+  This will be remotely moderated interviews.
   
 2.	Why this method? How does this methodology help you answer your research questions? 
 
