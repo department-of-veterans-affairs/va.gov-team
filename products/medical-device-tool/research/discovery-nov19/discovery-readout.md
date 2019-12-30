@@ -7,7 +7,7 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 
 With eBenefits being sunsetted, many Veteran-facing products need to be migrated over to VA.gov; one of these products is a tool that allows qualifying Veterans to order prosthetic socks and hearing aid batteries online. 
 
-To prepare for the tool’s transition, the DSVA conducted a discovery phase to learn about both the Denver Logistics Center’s (DLC) multiple ordering paths and pain points Veterans experience through each one. Since the goal is to migrate as many Veterans to the online ordering path as possible, we focused on uncovering reasons why a majority of Veterans do not order online.
+To prepare for the tool’s transition, the DSVA conducted a discovery phase to learn about both the Denver Logistics Center’s (DLC) multiple ordering paths and Veterans' experiences navigating through each one. Since the goal is to migrate as many Veterans to the online ordering path as possible, we focused on uncovering reasons why a majority of Veterans do not order online.
 
 Our team sought to answer the following questions:
 - How might we make the online Medical Device Ordering Tool more accessible and user-friendly for all Veterans ordering hearing aid batteries and prosthetic socks? 
