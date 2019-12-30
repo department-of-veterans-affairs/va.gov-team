@@ -115,7 +115,6 @@ To the best of our ability, this sprint's objective is to make sure all existing
 - [ ]  Use only candidate api for address validation api #4060
 - [ ]  Do not show the user any suggestions that are not "CONFIRMED" as deliverable #4250
 - [ ] The address validation modal remembers the last option you selected between opens and closes #4264
-- [ ] User should see the address they entered when going back to edit their address #4271
 - [ ] Sometimes we get validation keys but can't force the addresses through #4278
  
 ### APO/FPO/DPO 
