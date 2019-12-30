@@ -107,12 +107,12 @@ This review happens as the design is passed to development, _before beginning de
       * Review and follow the development relevant steps in the [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md) - especially conducting manual and automated tests as part of your dev process.
       * Developers may request a spot check accessibility review.  <br/> **[>> Schedule an accessibility review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)**
     
-2. **508 Pre-launch Review Checkpoint** - This would happen well before launch, to allow the 508 office time to review, and then address any issues uncovered. 
+2. **508 Pre-launch Review Checkpoint** 
 
     a. Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
     b. If your project is code stable in Staging, _**[request a 508 Pre-launch Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut&labels=508%2FAccessibility%2C+launch+review%2C+product+support&template=508-pre-launch-review-template.md&title=Request+accessibility%2F508+review+for+ENTER_PRODUCT_NAME)**_
 
-    c. Accessibility specialist will conduct an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md).
+    c. Accessibility specialist will conduct an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md), and note issues in an epic, assigning the relevant product manager.
     
 3. **508 Office Review**<br/>
   The VSP and VSA accessibility specialists will forward teams' webpages and applications to the VA 508 office after production launch. Accessibility specialists meet with the 508 office representative every month, and will notify them of new products to test during that meeting, or via email as needed.
