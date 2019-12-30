@@ -8,9 +8,10 @@ This is a research plan for usability testing of the HLR (High Level Review) pro
 4. Hypothesis: We believe that most steps within the HLR process is self explanatory and simple. We will test this hypothesis. 
 
 ## Method
-1.	Usability testing with Veterans remotely. 8-10 veteran users. Spread among age, sex, location, experience with VA. 
+1.	Usability testing with Veterans remotely. 8-10 veteran users. Spread among age, sex, location, experience with VA websites, tech savvyness. 
   This will be task-oriented, semi-structured usability testing, with high-fidelity prototypes.
   This will be remotely moderated interviews.
+  The users will be veterans that have an active standing in VA, and are elligible for a HLR. 
   
 2.	Why this method? How does this methodology help you answer your research questions? 
 
