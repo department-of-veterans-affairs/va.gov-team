@@ -14,4 +14,4 @@ These could be short or medium term actions depending on what already exists and
 **Medium/Long Term:** Improve MVI
 Especially given the Vet360 roadmap, the best long-term term option is to get MVI to actually include all individuals, and actually be a master index; but we may revisit this given what we learn from MVI. 
 
-**Trying to get a grip on this? [Start here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Identity%20Unifier/working_summary.md).**
+**Trying to get a grip on this? [Start here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/identity-unifier/working-summary.md).**
