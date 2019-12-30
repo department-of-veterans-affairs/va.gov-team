@@ -9,22 +9,21 @@ A number of pages have been created by designers. The usability testig will chec
 4. Hypothesis: We believe that most steps within the HLR process is self explanatory and simple. We will test this hypothesis. 
 
 ## Method
-1.	Usability testing with 8-10 Veterans remotely. Strive towards a spread among age, location, experience with VA, experience with VA websites, and overall "tech savvyness". 
+1.	Usability testing with 8-10 Veterans remotely. Strive towards a spread among age, location, experience with VA, experience with VA websites, and overall "tech savvyness". The veteran need to be able to use Zoom or Hangout and share his / her screen, and to engage with an online, high fideleity prototype. 
 This will be task-oriented, semi-structured usability testing, with high-fidelity prototypes (ready).
 This will be remotely moderated interviews.
 The users will be veterans that have an active standing in VA, and are elligible for a HLR (double check this..) 
   
-2.	Task oriented usability tests will allow us to see the veterans engaging and using the prototype, and actualy perform tasks, to show us what is clear, self explanatory, and what might be confusing, or less clear. In addition to allowing for probing questions during the interview, we will also see if the tasks are in fact completed successfully, and observe the process and the time, the veterans used to complete them.  
+2.	The task-oriented usability tests will allow us to observe the users engaging and using the prototype. Wwill observe whether the users are able to completed the specific tasks successfully or not. We will observe their process, the time they use and any pain points and confusion. We will ask probing questions along the way.
 
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*
+3.	This usability test will be executed Remotely, using Zoom or Google hangout. The veteran needs to be able to use Zoom or Google hangout, to share screen and engage / use / solve tasks using a high fidelity prototype.  
 
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 
-
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)
+4.  We will be testing a high fidelity prototype / pages of the HLR process. (Link here...)
 
 ## Participants and Recruitment
-1.	Participant criteria: What are you looking for in a participant?
-(Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)
+1.	Participant criteria:  8-10 veterans, good spread geograpically, gender and age. 
+The veterans must be able to log into and work with an online, high fidelity prototype of the HLR process, they must be able to install and use Zoom or Google Hangouts, and be able and willing to share their screen as they are using the prototype. 
+They need to be outspoken about their user experiences, and be able to describe to the researcher what they are doing, thinking, trying to accomplish at every step, when using the prototype.  
 
 2.	What is your recruitment strategy? 
 (If in person, describe how you will find participants. If remote, mention if you plan to draw from the existing recruiting contract or if there are other places where you would like to reach out to find participants specifically for this project. If you need help, please contact UX lead.)
@@ -35,7 +34,7 @@ The users will be veterans that have an active standing in VA, and are elligible
 
 2.	Prepare: the prototypes are ready for testing.  
 
-3. Length of Sessions: 1 hour.
+3.  Length of Sessions: 1 hour.
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
 
