@@ -77,11 +77,7 @@ When a design review is scheduled by VSP, it will open a design 508 review epic 
 * Touch interactions
         
 * Performance budget consideration
-  
-* Team will coordinate another design review after designs are updated by @-comment in Zenhub in the Github issue.
-  
-* Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
-    
+      
 ### Accessibility Design Collaboration
 
 * For VSA projects, involve the VSA accessibility specialist in early discussions about needs, priorities, concepts, research planning, and direction to ensure potential accessibility concerns are nipped in the bud. This could look like an initial kickoff with all team members, plus shared resources, in attendance, or if it is for a smaller component scheduling a call to review the work together. 
