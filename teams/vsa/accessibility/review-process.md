@@ -103,7 +103,7 @@ For medium to large projects, there are three required checkpoints. These review
 
 ## Development Reviews
 
-There are two required checkpoints, and optional additional ones.
+There are two required checkpoints. Teams are welcome to reach out for casual check-ins.
 
 1. **Design-Development Intent Checkpoint** <br/>
 **[>> Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** <br/>
