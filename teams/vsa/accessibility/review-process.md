@@ -10,6 +10,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 - [Milestones](#milestones)
 - [Design Reviews](#design-reviews)
   - Design Intent Checkpoint
+  - Pre-usability Testing Design Review
   - Design Review Checkpoint
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
   - [Design References](#for-reference)
