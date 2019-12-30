@@ -87,17 +87,54 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 Note: Code freeze between 12/23 - 1/3/2020.
 
+### Time off
+
+Sprint 12 is 9 days with the New Year's Day holiday.
+
+### Order of priorities
+
+1. Get address validation ready for QA
+2. Finish up Direct Deposit odds and ends 
+3. Be ready to resume Profile 2.0 work in Sprint 13
+4. Create a plan for APO/FPO/DPO build + ticket writing
+
+### Direct Deposit
+
+**Samara**
+
+- [ ] Confirm with eBenefits that direct deposit is being removed from the site
+
+**Erik**
+
+- [ ] Remove direct deposit feature flag #2009
+
 ### Address validation
 
+To the best of our ability, this sprint's objective is to make sure all existing bugs are fixed/updates are implemented and ready for QA. **Note**: Having the feature fully ready for QA depends on VA Profile fixing some issues on their end. We can not be ready for QA without them. We'll consider the objective met here if things remain open only as a result of the VA Profile dependency.
 
-  
+- [ ]  Use only candidate api for address validation api #4060
+- [ ]  Do not show the user any suggestions that are not "CONFIRMED" as deliverable #4250
+- [ ] The address validation modal remembers the last option you selected between opens and closes #4264
+- [ ] User should see the address they entered when going back to edit their address #4271
+- [ ] Sometimes we get validation keys but can't force the addresses through #4278
+ 
+### APO/FPO/DPO 
+
+**Arthur and Justin**
+
+- Ticket creation for application updates #4374
+  - Figure out how to organize tickets for benefit teams in a clear way.
+  - Create and assign tickets to Benefit and Memorials teams 1 & 2 for the recommended application updates.
+
+Erik 
+
+- [ ] FE profile update 
+
 ### Profile 2.0
 
 - Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
 
-### Error Matrix
-
-- Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ## Sprint 13 (1/15 - 1/28)
 
@@ -126,3 +163,7 @@ Erik may end up helping with some of this.
 - Pre-launch
   - Analytics
   - Etc
+  
+  ### Error Matrix
+
+- Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
