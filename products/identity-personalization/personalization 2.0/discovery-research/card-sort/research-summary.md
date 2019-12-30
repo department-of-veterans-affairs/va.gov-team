@@ -2,9 +2,9 @@
 
 # Background
 
-[Card sort research plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Card%20sort/Research%20plan.md)
+[Card sort research plan]()
 
-This card sort was conducted as part of the Personalization 2.0 project. We felt a card sort would supplement [other research](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research) by helping us to answer the following:
+This card sort was conducted as part of the Personalization 2.0 project. We felt a card sort would supplement [other research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/discovery-research) by helping us to answer the following:
 
 - How would veterans group different personalized features?
 - What kind of language are veterans expecting to see when it comes to categorizing groups of different features (eg. profile, dashboard, settings, my stuff, etc)?
