@@ -12,6 +12,7 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
   - Design Intent Checkpoint
   - Pre-usability Testing Design Review
   - Design Review Checkpoint
+  - [What is the Accessibility Specialist looking for](#what-is-the-accessibility-specialist-looking-for)
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
   - [Design References](#for-reference)
 - [Development Reviews](#development-reviews)
@@ -52,7 +53,9 @@ For medium to large projects, there are three required checkpoints. These review
 3. **Design Review Checkpoint** — *Integrated with VSP*, when design is final.<br/>
 **[>> Schedule a design review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
 
-    The accessibility specialist will review the following items to align with WCAG:
+ ### What is the Accessibility Specialist looking for?
+ 
+ The accessibility specialist will review for the following items to align with WCAG:
 
     a. Mobile design - including performance implications for assistive technology and impact on the diverse audience (such as those with challenging connectivity or limited data plans)
     
