@@ -105,7 +105,7 @@ When a design review is scheduled by VSP, it will open a design 508 review epic 
 
 ## Development Reviews
 
-There are **two required checkpoints**. Teams are welcome to reach out for casual check-ins.
+There are **four required checkpoints**. Teams are welcome to reach out for casual check-ins. The VSA accessibility specialist will open a development 508 review epic in Zenhub, and assign findings to the responsible project manager. Project teams should include the accessibility specialist in pull request reviews. Teams should @-comment the accessibility specialist in a Zenhub issue comment when code fixes are ready. The accessibility specialist will verify issues are fixed and close the issue or offer guidance if the issue is not fixed. Open issues are surfaced in the [508 Product Review List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md).
 
 1. **Design-Development Intent Checkpoint** <br/>
 **[>> Schedule a design-dev intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)** <br/>
@@ -134,4 +134,22 @@ This review happens as the design is passed to development, _before beginning de
 
     d. Issues will be noted by the accessibility specialist in issues within an epic. Team will coordinate another review after work is updated by @-comment in Zenhub in the Github issue. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment developer who opened issue, and close ticket/issue.
     
+3. **508 Office Review**
+  The VSP and VSA accessibility specialists will forward teams' webpages and applications to the VA 508 office after production launch. Accessibility specialists meet with the 508 office representative every month, and will notify them of new products to test during that meeting, or via email as needed.
+
+4. **508 Post-launch Audit**
+  Applications still need a full accessibility audit. This audit was previously done during the pre-launch phase, but will now be done immediately post-launch to emphasize speed and agility. Any VSP findings during the post-launch audit will be forwarded to the VA 508 office as known items. This should prevent duplicate logging when the VA 508 office conducts their own smoke test.
+
+  Post-launch audits will be beneficial for finding usability issues that would not otherwise appear on a scan report. These findings will drive future innovation and research sessions. Findings will also drive improvements to the design system and overall accessibility guidance.
+
+  The VSP post-launch audit will focus on manual testing with mobile and assistive technology:
+  
+  - Windows 7/10 IE11 + JAWS
+  - Windows 7/10 Chrome + JAWS
+  - Windows 7/10 NVDA + Firefox
+  - MacOS Safari + VoiceOver
+  - iOS and Android mobile devices as available
+  - Additional browsers such as AVG, Waterfox
+
+## QA    
 Here's a link to the [QA Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/qa/vsa-qa-process.md), for your convenience.
