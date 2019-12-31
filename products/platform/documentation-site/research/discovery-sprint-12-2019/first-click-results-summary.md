@@ -44,22 +44,39 @@ Nbr | Task | Success Rate  | Notes
 6 | You're an engineer trying to find information on the GraphQL API, after typing your search term, where do you click next?	| 66%| Only 23% of participants clicked on the tech docs filter option, the rest of the successful responses just clicked "Search" button.  All incorrect responses were in the technical documentation area. 
 --- | Content Detail Page Tasks |  | 
 7 | If you were reading through this page of content and knew something was incorrect, what content or option on the page would help you ensure it gets updated?	| 94% | Of the successful responses, 74% clicked the edit icon/text. 
-7 | Follow-up 1: How would you use that information/feature and what would you expect to happen? |  | A little over 50% indicated that they would at least be initiating the change, while the other 1/2 were looking to notify someone that it needed to be changed. 
-7 | Follow-up 3: If you were not the owner or original author of this content page, but you knew what information needed to be corrected, how likely would you be to make an update to it yourself? |  | About 55% indicated they would be at least somewhat likely to make changes if they were not the owner.  
-7 | Follow-up 3: Please explain why you would or would not make the changes to the page. |  | Reasons to not make the change revolved around wanting to verify the correct info, wanted to notify the owner first, or felt it was not their content to change.  Reasons cited for making the changes were around eagerness to get it done as it would be better off.  Some participants indicated that that they would make minor changes, but bigger changes need approval.  Also, version control was cited as a reason why it was ok to make a change, which allows it to be reverted if necessary.  
+7-1 | Follow-up 1: How would you use that information/feature and what would you expect to happen? |  | A little over 50% indicated that they would at least be initiating the change, while the other 1/2 were looking to notify someone that it needed to be changed. 
+7-2 | Follow-up 2: If you were not the owner or original author of this content page, but you knew what information needed to be corrected, how likely would you be to make an update to it yourself? |  | About 55% indicated they would be at least somewhat likely to make changes if they were not the owner.  
+7-3 | Follow-up 3: Please explain why you would or would not make the changes to the page. |  | Reasons to not make the change revolved around wanting to verify the correct info, wanted to notify the owner first, or felt it was not their content to change.  Reasons cited for making the changes were around eagerness to get it done as it would be better off.  Some participants indicated that that they would make minor changes, but bigger changes need approval.  Also, version control was cited as a reason why it was ok to make a change, which allows it to be reverted if necessary.  
 8 | If you had a follow up question about the information displayed here, click on the option or information that would help you get an answer. | 94% | All of the successful responses clicked on the "Ask a question" icon/text.
-8 | Follow-up 1: How would you use that information/feature and what would you expect to happen? | --- | Most users indicated that they expected the interface would allow them to enter a question.  Some felt that after entering the question it would appear on the page like a comment, while others felt it would be sent as a message to someone who can answer it. 
----| Markdown editor example | | You were reviewing a content page that you own in the documentation site and decided to make some changes. This is the interface for making those changes. Once you have looked the page over, click anywhere on the page to answer a follow up question.
-9 | You were reviewing a content page that you own in the documentation site and decided to make some changes. This is the interface for making those changes. Once you have looked the page over, click anywhere on the page to answer a follow up question.
+8-1 | Follow-up 1: How would you use that information/feature and what would you expect to happen? | --- | Most users indicated that they expected the interface would allow them to enter a question.  Some felt that after entering the question it would appear on the page like a comment, while others felt it would be sent as a message to someone who can answer it. 
+---| Markdown editor example | | 
+9 | How comfortable are you using a Markdown editor such as the one shown to make changes to content? | --- | 80% indicated they were at least moderately comfortable using a markdown editor.
 --- | WYSIWYG editor example | |
-10 | You were reviewing a content page that you own in the documentation site and decided to make some changes. This is the interface for making those changes. Once you have looked the page over, click anywhere on the page to answer a follow up question.
+10 | How comfortable are you using a Rich-text editor (WYSIWYG) such as the one shown to make changes to content? | --- | 89% indicated they were at least moderately comfortable using a markdown editor.
+
+**Final follow-up Question**
+The mock-up shown in this test included all types of documentation on a single homepage — technical, non-technical, platform-wide, team-specific. Do you think this model would help or hinder your ability to find the information you need?
+
+88% of participants indicated they felt it would help their ability to find information. 
+
+[Crystabel affinity map of open ended responses]
+
 
 
 
 ## Key Takeaways
 
+- Although people indicated frustration with the inability to search within Github for documentation, the click test showed that when given a landing page with navigation options, the use of search was low. 
+- "Technical Documentation" as a title could be confusing to users depending on their role.  Users may look there for tools and system info, not just developer documents.  The heading may need to be more specific if it is intended to be primarily engineering documentation.
+- The buckets of documentation that were presented in the mock-up were generally successful in getting users to the right area, but some options and titles may need further refining to ensure they are understandable and can get users to deeper content. 
+- Most study participants were motivated to at least ask questions or notify someone if they felt information in documentation was in question.  Providing users a way to either update or suggest an update could prove to be very helpful in keeping documentation up to date. 
 
 ## Recommendations
+
+- Continue to explore a single landing page that provides access to multiple types of documents, regardless of where those documents may live.  This page should also include a robust search feature to ensure users can get to deeper content and find specific documents when needed. 
+- While more individuals expressed comfort in using a WYSIWYG editor, many also indicated being comfortable with the existing markdown editor.  Recommend providing hands-on training and additional resources to get users up to speed on using markdown and PRs as part of the onboarding process to ensure users feel comfortable with the system/process and have a good understanding of the GH repo. 
+- Implement a feedback loop so that documenation users can ask questions or notify someone if information is out of date. This could be done via information provided on each markdown file such as an owner/contact name and a communicated process for notifying owners/asking questions. 
+
 
 
 ## Other notes, questions, ideas, etc
