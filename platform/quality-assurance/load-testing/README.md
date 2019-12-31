@@ -11,7 +11,7 @@ Each VFS team is expected to create or modify load tests appropriately as they w
 - [Getting started with load testing on VSP](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest)
 - **Examples**:
   - [Search](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest/search)
-  - [Appeals](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest/appealsv2) -- please note that this example required [authenticated sessions](auth-session-loadtest.md)
+  - [Appeals](https://github.com/department-of-veterans-affairs/devops/tree/master/loadtest/appealsv2) -- please note that this example requires [authenticated sessions](auth-session-loadtest.md)
 
 ## Help
 Load testing support is provided by:  
