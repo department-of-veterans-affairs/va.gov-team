@@ -1,10 +1,8 @@
 **Session Report**
 
-Project: [MHV upgrade #9084](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/9084)
+Project: [MHV upgrade]
 
-[](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/7098)
-
-[Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Disability/Disability%20526EZ/research/january-2018/conversation-guide.md)
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/jan-2018/conversation-guide.md)
 
 [Participant Number], [Date & Time of Session]
 
@@ -22,7 +20,7 @@ Describe the participant in a few sentences, including their role within the sys
 
 List summary Info here. 3 to 4 bullet points
 
-## From [Research Goals](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/9084)
+## From [Research Goals]
 
 1. **Understand success and painpoints of current login flow per #5350 and #9139**
 2. **Understand what kind of context we should provide to the user about the upgrade process. How much is too much? How much is too little? What is important to know going in?**
