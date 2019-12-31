@@ -55,4 +55,4 @@
 #### Different repos might have different LFS configs, so the same file might be an LFS file in one repo, and a normal file in another. 
 * For example, in the [`vets.gov-team` config](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/.gitattributes), `*.mp4` files are LFS files, but in the [`va.gov-team` config](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.gitattributes), `*.mp4` files are not LFS files.
 #### It's possible for the LFS config to change over time
-* That means an existing file that was uploaded as an LFS file may remain an LFS file, but new files of that type would be LFS files. 
+* That means an existing file that was uploaded as an LFS file may remain an LFS file, but new files of that type would not be LFS files. 
