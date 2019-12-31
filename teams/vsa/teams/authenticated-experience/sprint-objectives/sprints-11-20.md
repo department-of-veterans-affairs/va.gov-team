@@ -83,7 +83,7 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 ## Sprint 12 (1/2 - 1/14)
 
-Note: Code freeze between 12/23 - 1/3/2020.
+Note: Code freeze still in effect 1/2 - 1/3.
 
 ### Time off
 
