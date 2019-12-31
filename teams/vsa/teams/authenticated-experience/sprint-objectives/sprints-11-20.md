@@ -97,6 +97,8 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 2. Finish up odds and ends from Sprint 11
 3. Design exploration for Profile 2.0
 4. Initial technical discovery questions for Profile 2.0
+5. (Maybe) Refactor Vet360 profile components
+6. (Maybe) 508/Accessibility tickets
 
 ### Address validation
 
@@ -124,10 +126,22 @@ To the best of our ability, this sprint's objective is to make sure all existing
 - Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
 - Profile 2.0: Initial design explorations #4469
 - Answer initial technical discovery questions #2455
+- (Maybe) Refactor Vet360 Profile form components to use SchemaForm #4068
+  - Goal for this is that it would be started *if* all address validation work is done and Erik doesn't have anything else to do.
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
+(Only move onto this work if all FE work is done for APO/FPO/DPO and address validation)
+
+- [KEYBOARD]: Text Appointments - Focus must return to Edit button when modal dialog is closed #2427
+- [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog#2430
+- [ZOOM]: Text Appointments - Need a space between input and label in modal window#2435
+
 ## Sprint 13 (1/15 - 1/28)
+
+### Address validation
+
+#### 508 Review (??)
 
 #### QA
 
