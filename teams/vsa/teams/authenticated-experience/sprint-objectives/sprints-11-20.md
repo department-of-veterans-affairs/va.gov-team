@@ -121,7 +121,8 @@ To the best of our ability, this sprint's objective is to make sure all existing
 ### Profile 2.0
 
 - Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
-- [Design] Profile 2.0: Initial design explorations #4469
+- Profile 2.0: Initial design explorations #4469
+- Answer initial technical discovery questions #2455
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
