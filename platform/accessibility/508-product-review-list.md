@@ -14,6 +14,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Disability Calculator Issues](#disability-calculator-issues)
     * [VA Developer Portal Issues](#va-developer-portal-issues)
     * [526v2 All Claims Issues](#526v2-all-claims-issues)
+    * [HCA Dashboard Notification Issues](#hca-dashboard-notification-issues)
+    * [VA Benefits Recommendations Issues](#va-benefits-recommendations-issues)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -56,6 +58,7 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** July 1, 2019 | **Severity:** 508-defect-4
 * [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Opened:** July 1, 2019 | **Severity:** 508-defect-4
+
 ---
 
 ### Facility Locator Issues
@@ -80,6 +83,7 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** July 8, 2019 | **Severity:** 508-defect-2
 * [[AXE-CORE]: Facility Locator - Provider Detail page has an UL that needs to be nested properly - #360](https://github.com/department-of-veterans-affairs/va.gov-team/issues/360)<br/>
 **Opened:** June 21, 2019 | **Severity:** 508-defect-3
+
 ---
 
 ### Disability Calculator Issues
@@ -125,12 +129,33 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### HCA Dashboard Notification Issues
+
+**Maintainer:** VSA<br/>
+**Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
+
+#### Open issues identified by VSP Product Support
+
+* [[COGNITION]: HCA - Heading levels could be adjusted for proper nesting - #3219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3219)<br/>
+**Opened:** November 7, 2019 | **Severity:** 508-defect-3
+
+---
+
+### VA Benefits Recommendations Issues
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Request sent to VA 508 office March 2019.<br/>
+
+#### Open issues identified by VSP Product Support
+
+* [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - 1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
+**Opened:** August 19, 2019 | **Severity:** 508-defect-3
+
+---
 
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| HCA Dashboard Notifications | VSA | First audit completed by Product Support June 2019.<br/></br>Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019. | **Open enhancements identified by Product Support:**<br/> [#3219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3219) <br/><br/>**Closed issues:**<br/> [#1082](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1082) |
-| VA Benefits Recommendations | VSA | Request sent to VA 508 office March 2019.<br/><br/>[Recommendations app](https://staging.va.gov/my-va/find-benefits/) | **Open enhancements identified by Product Support:**<br/> [#1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/><br/>**Closed issues:**<br/> [#1007](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1007), [#705](https://github.com/department-of-veterans-affairs/va.gov-team/issues/705) |
 | Health care application 1010-EZ | VSA | Request sent to VA 508 office November 2018 | [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314) |
 | Education Feedback Tool | VSA | Request sent to VA 508 office November 2018<br/><br/>[Education Feedback app](https://staging.va.gov/education/submit-school-feedback/) | [#1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079), [#1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081) |
 | Local side nav | Complete 6/2017 | No issues! |
