@@ -1,4 +1,4 @@
-As a designer I need to create a research plan to share with my team,	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 1. What product & team are you doing this research for?	
 2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
