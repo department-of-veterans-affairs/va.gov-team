@@ -20,16 +20,16 @@ Once we see the incoming traffic, we can either increase the capacity or reduce 
 
 ## Additional References
 Also attached are some chart captures for uptime, traffic, database and response time reports from NewRelic.
-In addition to those, there's also the [post-mortem document from the interruption incident](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Files_From_IDme/180918%20Preparations%20for%20VA.gov%20Launch/171201%20Document%20Processing%20Issue.md).
+In addition to those, there's also the [post-mortem document from the interruption incident](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/va-gov-launch/171201-document-processing-issue.md).
 
 Uptime:
-![uptime](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Files_From_IDme/180918%20Preparations%20for%20VA.gov%20Launch/uptime.png)
+![uptime](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/va-gov-launch/uptime.png)
 
 Traffic
-![traffic](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Files_From_IDme/180918%20Preparations%20for%20VA.gov%20Launch/traffic.png)
+![traffic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/va-gov-launch/traffic.png)
 
 Database
-![database](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Files_From_IDme/180918%20Preparations%20for%20VA.gov%20Launch/database.png)
+![database](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/va-gov-launch/database.png)
 
 Response Times
-![response times](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Files_From_IDme/180918%20Preparations%20for%20VA.gov%20Launch/response-time_1.png)
+![response times](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/va-gov-launch/response-time-1.png)
