@@ -1,5 +1,7 @@
 # [Git Large File Storage (LFS)](https://git-lfs.github.com/)
 * **Who** uses it?
+  * Passively: Everybody that uses the repo
+  * Actively: Anybody that can use a Terminal/Command Prompt, but most often developers
 * **What** is it? 
   * Git Large File Storage (LFS) replaces large files with text [pointers](https://github.com/git-lfs/git-lfs/blob/master/docs/spec.md#the-pointer) inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
     * Example pointer:
