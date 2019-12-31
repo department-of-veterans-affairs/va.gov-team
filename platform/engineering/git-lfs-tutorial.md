@@ -10,7 +10,7 @@
       ```
 * **When** do we use it?
   * When a file extension matches one of the extensions specified in the [repo’s config file (`.gitattributes`)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.gitattributes)
-  * As of 2019-12-31, those extensions are:
+  * As of 2019-12-31, the file types tracked by Git LFS in the `va.gov-team` repo are:
     * `.m4v`
     * `.pdf`
     * `.sketch`
@@ -45,10 +45,14 @@
        git push origin master
        ```
 
-### :warning: Warning :warning:
-* Files uploaded via the GitHub website will not be uploaded as LFS files. When those files are pulled from GitHub to your local machine, you may notice an error that looks like this:
+### :warning: Warnings :warning:
+#### Files uploaded via the GitHub website will not be uploaded as LFS files. When those files are pulled from GitHub to your local machine, you may notice an error that looks like this:
   ```
   Encountered 1 file(s) that should have been pointers, but weren't:
           designs/mock.psd
   ```
-  
+#### You may have trouble migrating LFS files from one repo to another because the pointer may not work in the new repo. 
+#### Different repos might have different LFS configs, so the same file might be an LFS file in one repo, and a normal file in another. 
+* For example, in the [`vets.gov-team` config](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/.gitattributes), `*.mp4` files are LFS files, but in the [`va.gov-team` config](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.gitattributes), `*.mp4` files are not LFS files.
+#### It's possible for the LFS config to change over time
+* That means an existing file that was uploaded as an LFS file may remain an LFS file, but new files of that type would be LFS files. 
