@@ -10,7 +10,7 @@ The easiest path forward is to use a script that's already been added to the Sta
 
 Start -> Dept of Veterans Affairs -> Publish My eMail Certs
 
-If the menu option is not there, there's a [knowledge base article](https://yourit.va.gov/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0031750) on how to download the script and execute it.
+If the menu option is not there, there's a [knowledge base article](https://yourit.va.gov/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0031750) (only works on CAG/GFE) on how to download the script and execute it.
 
 ## Sending and receiving encrypted email
 
