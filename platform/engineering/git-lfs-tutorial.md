@@ -25,3 +25,12 @@
   * The larger the repo, the less feasible it is to clone the repo over a slower network (coffee shop/hotspot/EDGE/etc).
   * The larger the repo, the more likely you are to need to delete files/folders from your computer to make room for the repo.
 * **How** do we use it? 
+  1. Run `git lfs install` to install Git LFS in the repo
+  1. Specify which file types you'd like to track
+     * Option 1: Run `git lfs track "*.{EXTENSION}"` (for example: `git lfs track "*.psd"`)
+     * Option 2: Directly edit the `.gitattributes` file
+     * Note: Run `git add .gitattributes` to make sure `.gitattributes` is tracked by Git
+  1. There is no step three. Just commit and push to GitHub as you normally would.
+     * `git add file.psd`
+     * `git commit -m "Add design file"`
+     * `git push origin master`
