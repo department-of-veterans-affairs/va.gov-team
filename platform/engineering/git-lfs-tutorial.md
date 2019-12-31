@@ -48,6 +48,7 @@
 
 ### :warning: Warnings :warning:
 #### Files uploaded via the GitHub website will not be uploaded as LFS files. When those files are pulled from GitHub to your local machine, you may notice an error that looks like this:
+  ![github-direct-upload-of-pdf-file](https://user-images.githubusercontent.com/6130520/71635188-f79e2e00-2be7-11ea-9545-a379a225b514.gif)
   ```
   Encountered 1 file(s) that should have been pointers, but weren't:
           designs/mock.psd
