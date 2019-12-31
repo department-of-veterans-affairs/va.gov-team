@@ -54,6 +54,15 @@
   ```
   ![github-direct-upload-of-pdf-file](https://user-images.githubusercontent.com/6130520/71635188-f79e2e00-2be7-11ea-9545-a379a225b514.gif)
 #### You may have trouble migrating LFS files from one repo to another because the pointer may not work in the new repo. 
+```
+LFS upload failed:cts:   0% (0/1), 0 B | 0 B/s
+  (missing) ServiceHistoryMatrix.docx (aa56a9fb8f7b52ec198022e80125dacec466360ba60fdef59770aea7e84ae264)
+Uploading LFS objects:   0% (0/1), 0 B | 0 B/s, done
+hint: Your push was rejected due to missing or corrupt local objects.
+hint: You can disable this check with: 'git config lfs.allowincompletepush true'
+error: failed to push some refs to 'https://github.com/department-of-veterans-affairs/va.gov-team.git'
+```
+![image](https://user-images.githubusercontent.com/6130520/71635471-8318be80-2bea-11ea-8621-048cdd19bfc4.png)
 #### Different repos might have different LFS configs, so the same file might be an LFS file in one repo, and a normal file in another. 
 * For example, in the [`vets.gov-team` config](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/.gitattributes), `*.mp4` files are LFS files, but in the [`va.gov-team` config](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.gitattributes), `*.mp4` files are not LFS files.
 #### It's possible for the LFS config to change over time
