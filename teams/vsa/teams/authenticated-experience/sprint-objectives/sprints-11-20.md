@@ -94,15 +94,8 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 ### Order of priorities
 
 1. Get address validation ready for QA
-2. Design exploration for Profile 2.0
-3. Create a plan for APO/FPO/DPO build + ticket writing
-4. Confirm eBenefits is removing direct deposit feature
-
-### Direct Deposit
-
-**Samara**
-
-- Confirm that eBenefits is removing direct deposit from the site in 1/29 release #3967
+2. Finish up odds and ends from Sprint 11
+3. Design exploration for Profile 2.0
 
 ### Address validation
 
@@ -110,17 +103,19 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 - Use only candidate api for address validation api #4060
 - Sometimes we get validation keys but can't force the addresses through #4278
- 
-### APO/FPO/DPO 
+- Raise address confidence threshold from 80 to 90 #4468
 
-**Arthur and Justin**
+### Leftover from Sprint 11
+
+**Direct deposit**
+
+- Confirm that eBenefits is removing direct deposit from the site in 1/29 release #3967
+ 
+**APO/FPO/DPO**
 
 - Ticket creation for application updates #4374
   - Figure out how to organize tickets for benefit teams in a clear way.
   - Create and assign tickets to Benefit and Memorials teams 1 & 2 for the recommended application updates.
-
-Brad 
-
 - FE profile update #4386
 
 ### Profile 2.0
