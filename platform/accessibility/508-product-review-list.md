@@ -9,13 +9,17 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 * [Product list for 508 testing](#product-list-for-508-testing)
   * [Helpful Links](#helpful-links)
   * [Issues by Application](#issues-by-application)
-    * [Site-wide Issues](#site-wide-issues)
-    * [Facility Locator Issues](#facility-locator-issues)
-    * [Disability Calculator Issues](#disability-calculator-issues)
-    * [VA Developer Portal Issues](#va-developer-portal-issues)
-    * [526v2 All Claims Issues](#526v2-all-claims-issues)
-    * [HCA Dashboard Notification Issues](#hca-dashboard-notification-issues)
-    * [VA Benefits Recommendations Issues](#va-benefits-recommendations-issues)
+    * [Site-wide](#site-wide)
+    * [Facility Locator](#facility-locator)
+    * [Disability Calculator](#disability-calculator)
+    * [VA Developer Portal](#va-developer-portal)
+    * [526v2 All Claims](#526v2-all-claims)
+    * [HCA Dashboard Notifications](#hca-dashboard-notifications)
+    * [VA Benefits Recommendations](#va-benefits-recommendations)
+    * [Health Care Application 1010-EZ](#health-care-application-1010-ez)
+    * [Education Feedback Tool](#education-feedback-tool)
+    * [Colmery Act Opt Out](#colmery-act-opt-out)
+    * [GI Bill Comparison Tool](#gi-bill-comparison-tool)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -24,7 +28,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 ## Issues by Application
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
 
-### Site-wide Issues
+### Site-wide
 
 **Maintainer:** VSP & VSA<br/>
 **Audit Status:** Not applicable. Issues should be completed as soon as possible<br/>
@@ -61,7 +65,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
-### Facility Locator Issues
+### Facility Locator
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Issues logged by auditor in July 2019<br/>
@@ -86,7 +90,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
-### Disability Calculator Issues
+### Disability Calculator
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
@@ -99,7 +103,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
-### VA Developer Portal Issues
+### VA Developer Portal
 
 **Maintainer:** VSP<br/>
 **Audit Status:** Issues logged by VSP Product Support in Q1 2019 audit<br/>
@@ -107,7 +111,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
-### 526v2 All Claims Issues
+### 526v2 All Claims
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Issues logged by Product Support during audit June 2019. Request sent to VA 508 office September 2019.<br/>
@@ -129,7 +133,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
-### HCA Dashboard Notification Issues
+### HCA Dashboard Notifications
 
 **Maintainer:** VSA<br/>
 **Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
@@ -141,7 +145,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
-### VA Benefits Recommendations Issues
+### VA Benefits Recommendations
 
 **Maintainer:** VSA<br/>
 **Audit Status:** Request sent to VA 508 office March 2019.<br/>
@@ -153,16 +157,75 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### Health Care Application 1010-EZ
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Request sent to VA 508 office November 2018<br/>
+
+#### Open issues
+
+* [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-1
+
+---
+
+### Education Feedback Tool
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Request sent to VA 508 office November 2018<br/>
+
+#### Open issues
+
+* [[SCREENREADER]: Alert message for bad submit is not read out to assistive devices like JAWS or VoiceOver - #1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081)<br/>
+**Opened:** August 19, 2019 | **Severity:** 508-defect-1
+* [[COLOR CONTRAST]: Subway map numbers do not meet 4.5:1 ratio for contrast - #1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079)<br/>
+**Opened:** August 19, 2019 | **Severity:** 508-defect-2
+
+---
+
+### Colmery Act Opt Out
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Request sent to VA 508 office September 2018. All issues but one resolved on 2/7/2019.<br/>
+
+#### Open issues
+
+* [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-1
+
+---
+
+### GI Bill Comparison Tool
+
+**Maintainer:** VSP<br/>
+**Audit Status:** Audited by VA 508 Office November 2018<br/>
+
+#### Open issues
+
+* [[SCREENREADER]: JAWS is reading from the top of the screen on GIBCT after selecting a school - #1062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1062)<br/>
+**Opened:** August 19, 2019 | **Severity:** 508-defect-2
+* [[COGNITION]: GIBCT® - Standardize the search and filter behavior with a "Go" button click - #1276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1276)<br/>
+**Opened:** August 23, 2019 | **Severity:** 508-defect-2
+* [[COGNITION]: GIBCT - Know before you go video has a logo with nondescript alt text - #3920](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3920)<br/>
+**Opened:** December 3, 2019 | **Severity:** 508-defect-2
+* [[COGNITION]: GIBCT - "Learn more" is used for modals and windows to new content - #1132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1132)<br/>
+**Opened:** August 20, 2019 | **Severity:** 508-defect-3
+* [[KEYBOARD]: GIBCT Learn more modals scroll down the page, change focus, when I press TAB - #1133](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1133)<br/>
+**Opened:** August 20, 2019 | **Severity:** 508-defect-3
+* [[COGNITION]: GIBCT® - Consider making the tuition and housing breakdowns into definition lists - #1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1133)<br/>
+**Opened:** August 23, 2019 | **Severity:** 508-defect-3
+* [[DESIGN]: GIBCT® - Consider revising See Results button placement at mobile size - #1278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1278)<br/>
+**Opened:** August 23, 2019 | **Severity:** 508-defect-3
+* [[COGNITION]: GIBCT® - Consider adding full state names to States filter menu for better context - #1259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1278)<br/>
+**Opened:** August 23, 2019 | **Severity:** 508-defect-4
+
+---
+
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| Health care application 1010-EZ | VSA | Request sent to VA 508 office November 2018 | [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314) |
-| Education Feedback Tool | VSA | Request sent to VA 508 office November 2018<br/><br/>[Education Feedback app](https://staging.va.gov/education/submit-school-feedback/) | [#1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079), [#1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081) |
-| Local side nav | Complete 6/2017 | No issues! |
-| Colmery Act Opt Out | VSA | Request sent to VA 508 office September 2018. All issues but one resolved on 2/7/2019.<br/><br/>[Colmery Act Opt Out app](https://staging.va.gov/education/opt-out-information-sharing/opt-out-form-0993/claimant-information) | [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314) |
 | Claim and Appeal Status | VSA | Audited by VA 508 Office February 2019. | [#1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064) |
 | Apply for Pre-need Burial | VSA | Audited by VA 508 Office September 2018. | [Sitewide #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316), [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314), [Sitewide #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318), [#1074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1074) |
-| GI Bill Comparison Tool® | VSP | Audited by VA 508 Office November 2018 | [#1062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1062), [#1132](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1132), [#1133](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1133), [#1259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1259), [#1276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1276), [#1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1277), [#1278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1278), [#3920](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3920) |
 | GI Bill Comparison Tool® VET TEC | VSP | https://staging.va.gov/gi-bill-comparison-tool/<br/>Audited by VSP Product Support Team August 2019 | **Open issues:**<br/>[#1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/><br/>**Closed issues:**<br/>[#1256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1256), [#1257](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1257), [#1253](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1253), [#1252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1252) |
 | Local side nav | Completed June 2017 | VSA | No issues! || Local side nav | Complete 6/2017 | No issues! |
 | Edu 1990 | VSA | Completed June 2017 | No issues! |
