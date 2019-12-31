@@ -1,7 +1,13 @@
 # Git LFS
 * **Who** uses it?
 * **What** is it? 
-  * [Git Large File Storage (LFS)](https://git-lfs.github.com/) replaces large files with text pointers inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
+  * [Git Large File Storage (LFS)](https://git-lfs.github.com/) replaces large files with text [pointers](https://github.com/git-lfs/git-lfs/blob/master/docs/spec.md#the-pointer) inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
+    * Example pointer:
+      ```
+      version https://git-lfs.github.com/spec/v1
+      oid sha256:7db207c488a5957f0b88aec97489a60e73f2b8d310586c2502f3388af7f76091
+      size 42
+      ```
 * **When** do we use it?
   * When a file extension matches one of the extensions specified in the [repo’s config file (`.gitattributes`)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.gitattributes)
   * As of 2019-12-31, those extensions are:
@@ -14,6 +20,7 @@
 * **Where** do we learn more about it?
   * [Git LFS Home Page](https://git-lfs.github.com/)
   * [Git LFS Docs](https://github.com/git-lfs/git-lfs/tree/master/docs?utm_source=gitlfs_site&utm_medium=docs_link&utm_campaign=gitlfs#git-lfs-documentation)
+  * [Git LFS Tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
 * **Why** do we use it? 
   * >[We recommend repositories be kept under 1GB each. - GitHub](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations)
   * >[Repositories have a hard limit of 100GB. - GitHub](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations)
@@ -31,6 +38,8 @@
      * Option 2: Directly edit the `.gitattributes` file
      * Note: Run `git add .gitattributes` to make sure `.gitattributes` is tracked by Git
   1. There is no step three. Just commit and push to GitHub as you normally would.
-     * `git add file.psd`
-     * `git commit -m "Add design file"`
-     * `git push origin master`
+     ```
+     git add file.psd
+     git commit -m "Add design file"
+     git push origin master
+     ```
