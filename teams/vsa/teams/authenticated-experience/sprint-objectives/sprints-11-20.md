@@ -96,6 +96,7 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 1. Get address validation ready for QA
 2. Finish up odds and ends from Sprint 11
 3. Design exploration for Profile 2.0
+4. Initial technical discovery questions for Profile 2.0
 
 ### Address validation
 
