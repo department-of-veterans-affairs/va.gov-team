@@ -148,7 +148,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open issues identified by VSP Product Support
 
-* [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - 1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
+* [[SCREENREADER]: Recommendations - Update the new user modal dialog to better announce content - #1122](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1122)<br/>
 **Opened:** August 19, 2019 | **Severity:** 508-defect-3
 
 ---
