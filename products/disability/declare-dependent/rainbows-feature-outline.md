@@ -133,9 +133,9 @@ Some remaining items to call out:
 ### Screenshots
 #### Before
 _686 Paper Form_
-![](Design/Screenshots/original_686_form.png)
-
-<br>
+![Current form screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/design/original-686-form.png)
 
 _686 eBen Application_
-![](Design/Screenshots/original_686_eBen.png)
+![Current feature screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/declare-dependent/design/original-686-eben.png)
+
+[_Latest changes for 686_](https://xd.adobe.com/view/ffffe536-2ba5-47c6-4c4b-ac1679179973-89ce/)
