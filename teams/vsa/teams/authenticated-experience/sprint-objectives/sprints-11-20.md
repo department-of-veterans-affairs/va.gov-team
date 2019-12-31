@@ -65,9 +65,9 @@ To the best of our ability, this sprint's objective is to make sure all existing
     - Figure out how to organize tickets for benefit teams in a clear way.
     - Create and assign tickets to Benefit and Memorials teams 1 & 2 for the recommended application updates. 
 
-**Erik or Brad**
+**Brad**
 
-- FE profile update (Erik or Brad)
+- FE profile update #4386
 
 ### Onboarding Tressa
 
@@ -108,8 +108,8 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 
 To the best of our ability, this sprint's objective is to make sure all existing bugs are fixed/updates are implemented and ready for QA. **Note**: Having the feature fully ready for QA depends on VA Profile fixing some issues on their end. We can not be ready for QA without them. We'll consider the objective met here if things remain open only as a result of the VA Profile dependency.
 
-- [ ]  Use only candidate api for address validation api #4060
-- [ ] Sometimes we get validation keys but can't force the addresses through #4278
+- Use only candidate api for address validation api #4060
+- Sometimes we get validation keys but can't force the addresses through #4278
  
 ### APO/FPO/DPO 
 
@@ -121,7 +121,7 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 Brad 
 
-- [ ] FE profile update 
+- FE profile update #4386
 
 ### Profile 2.0
 
