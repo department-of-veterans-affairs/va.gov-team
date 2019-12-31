@@ -47,13 +47,13 @@ JSON form data when adding one child:
   "dependents": [
     {
       "childInHousehold": true,
-      "childSocialSecurityNumber": "333224444",
+      "childSocialSecurityNumber": "665554444",
       "childRelationship": "biological",
       "fullName": {
-        "first": "Paris",
-        "last": "Foster"
+        "first": "Jordan",
+        "last": "Brooks"
       },
-      "childDateOfBirth": "2009-02-12"
+      "childDateOfBirth": "2002-10-02"
     }
   ],
   "maritalStatus": "NEVERMARRIED",
@@ -65,10 +65,11 @@ JSON form data when adding one child:
     "postalCode": "20001"
   },
   "veteranFullName": {
-    "first": "Pauline",
-    "last": "Foster"
+    "first": "Jerry",
+    "middle": "M",
+    "last": "Brooks"
   },
-  "veteranSocialSecurityNumber": "333224444",
+  "veteranSocialSecurityNumber": "665554444",
   "privacyAgreementAccepted": true
 }
 ```
