@@ -3,8 +3,8 @@ JSON form data when adding one spouse:
 ```
 {
   "currentMarriage": {
-    "spouseDateOfBirth": "1963-02-10",
-    "spouseSocialSecurityNumber": "333224444",
+    "spouseDateOfBirth": "1966-10-12",
+    "spouseSocialSecurityNumber": "665554444",
     "spouseIsVeteran": false,
     "liveWithSpouse": true
   },
@@ -12,10 +12,10 @@ JSON form data when adding one spouse:
   "marriages": [
     {
       "spouseFullName": {
-        "first": "Peter",
-        "last": "Foster"
+        "first": "Stella",
+        "last": "Cat"
       },
-      "dateOfMarriage": "1999-08-12",
+      "dateOfMarriage": "1996-06-06",
       "locationOfMarriage": {
         "countryDropdown": "USA",
         "city": "Washington",
@@ -31,12 +31,14 @@ JSON form data when adding one spouse:
     "postalCode": "20001"
   },
   "veteranFullName": {
-    "first": "Pauline",
-    "last": "Foster"
+    "first": "Jerry",
+    "middle": "M",
+    "last": "Brooks"
   },
   "veteranSocialSecurityNumber": "333224444",
   "privacyAgreementAccepted": true
 }
+
 ```
 
 JSON form data when adding one child:
