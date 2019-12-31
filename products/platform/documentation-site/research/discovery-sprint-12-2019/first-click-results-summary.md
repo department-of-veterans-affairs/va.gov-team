@@ -35,19 +35,26 @@ This timing allowed west coast individuals to complete the test in the latter ha
 
 Nbr | Task | Success Rate  | Notes
 --- | --- | --- | ---
---- | Site Home Page Tasks | --- | ---
+--- | Site Home Page Tasks |  | 
 1 | You are new to your team and are working on getting your laptop set up so you can communicate with your team members. Where would you look to find information on getting your Slack workspace set up? |  49% | Of the incorrect responses, 23% chose "Onboarding" under Platform Resources and 17% chose "Getting started" under Technical Documentation.  Of the successful responses, 17% clicked into the search box. 
 2 |Where would you click if you wanted to see design docs on the latest version of the health care application that your team is working on?	 | 43% | Of the successful responses, 53% clicked within the product documentation box, 15% clicked into the team documentation area, only 6% clicked into the search box
 3 | Where would you go if you wanted to find out how to request a 508/Accessibility review?	| 46%  | Of the successful responses, 51% clicked within the platform resources box, 18% clicked in the technical documentation box, and 17% clicked into the search box.
 4 | You are a new member of the Benefits Discovery team. Where would you look to find out what onboarding information is available?	| 74% | Of the correct responses, 100% of them selected the "Onboarding" link.  
 5 | You are a writer, where would you go if you wanted to learn more about the content guidelines and best practices?	| 37% | About 50% of the participants clicked within the platform resources box.  Around 28% clicked "VA Content & Features" under product documentation.
 6 | You're an engineer trying to find information on the GraphQL API, after typing your search term, where do you click next?	| 66%| Only 23% of participants clicked on the tech docs filter option, the rest of the successful responses just clicked "Search" button.  All incorrect responses were in the technical documentation area. 
---- | Content Detail Page Tasks | --- | ---
+--- | Content Detail Page Tasks |  | 
 7 | If you were reading through this page of content and knew something was incorrect, what content or option on the page would help you ensure it gets updated?	| 94% | Of the successful responses, 74% clicked the edit icon/text. 
-7 | Follow-up 2: How would you use that information/feature and what would you expect to happen? | --- | About 50% indicated that they would at least be initiating the change, while the other 50% were looking to notify someone that it needed to be changed. 
-7 | Follow-up 3: If you were not the owner or original author of this content page, but you knew what information needed to be corrected, how likely would you be to make an update to it yourself? | --- | About 55% indicated they would be at least somewhat likely to make changes if they were not the owner.  Reasons to not make the change revolved around wanting to verify the correct info, wanted to notify the owner first, or felt it was not their content to change.  Reasons cited for making the changes were around eagerness to get it done as it would be better off.  Some participants indicated that that they would make minor changes, but bigger changes need approval.  Also, version control was cited as a reason why it was ok to make a change, which allows it to be reverted if necessary.  
+7 | Follow-up 1: How would you use that information/feature and what would you expect to happen? |  | A little over 50% indicated that they would at least be initiating the change, while the other 1/2 were looking to notify someone that it needed to be changed. 
+7 | Follow-up 3: If you were not the owner or original author of this content page, but you knew what information needed to be corrected, how likely would you be to make an update to it yourself? |  | About 55% indicated they would be at least somewhat likely to make changes if they were not the owner.  
+7 | Follow-up 3: Please explain why you would or would not make the changes to the page. |  | Reasons to not make the change revolved around wanting to verify the correct info, wanted to notify the owner first, or felt it was not their content to change.  Reasons cited for making the changes were around eagerness to get it done as it would be better off.  Some participants indicated that that they would make minor changes, but bigger changes need approval.  Also, version control was cited as a reason why it was ok to make a change, which allows it to be reverted if necessary.  
 8 | If you had a follow up question about the information displayed here, click on the option or information that would help you get an answer. | 94% | All of the successful responses clicked on the "Ask a question" icon/text.
 8 | Follow-up 1: How would you use that information/feature and what would you expect to happen? | --- | Most users indicated that they expected the interface would allow them to enter a question.  Some felt that after entering the question it would appear on the page like a comment, while others felt it would be sent as a message to someone who can answer it. 
+---| Markdown editor example | | You were reviewing a content page that you own in the documentation site and decided to make some changes. This is the interface for making those changes. Once you have looked the page over, click anywhere on the page to answer a follow up question.
+9 | You were reviewing a content page that you own in the documentation site and decided to make some changes. This is the interface for making those changes. Once you have looked the page over, click anywhere on the page to answer a follow up question.
+--- | WYSIWYG editor example | |
+10 | You were reviewing a content page that you own in the documentation site and decided to make some changes. This is the interface for making those changes. Once you have looked the page over, click anywhere on the page to answer a follow up question.
+
+
 
 ## Key Takeaways
 
