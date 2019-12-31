@@ -93,33 +93,46 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 
 ### Order of priorities
 
+**Required to meet sprint objectives**
+
 1. Get address validation ready for QA
-2. Finish up odds and ends from Sprint 11
+2. Write APO/FPO/DPO tickets for benefits and memorials teams
 3. Design exploration for Profile 2.0
 4. Initial technical discovery questions for Profile 2.0
-5. (Maybe) Refactor Vet360 profile components
-6. (Maybe) 508/Accessibility tickets
+5. Get eBenefits to confirm removal of direct deposit
+
+**If time**
+
+Not required to meet sprint objectives.
+
+1. Refactor Vet360 profile components
+2. (If time) 508/Accessibility tickets
 
 ### Address validation
 
 To the best of our ability, this sprint's objective is to make sure all existing bugs are fixed/updates are implemented and ready for QA. **Note**: Having the feature fully ready for QA depends on VA Profile fixing some issues on their end. We can not be ready for QA without them. We'll consider the objective met here if things remain open only as a result of the VA Profile dependency.
 
+**Necessary code fixes**
+
 - Use only candidate api for address validation api #4060
 - Sometimes we get validation keys but can't force the addresses through #4278
 - Raise address confidence threshold from 80 to 90 #4468
+- Address suggestion bug #4487
+- Disable "update" button if no address is selected #4483
 
-### Leftover from Sprint 11
+**Enhancements**
 
-**Direct deposit**
+- Log "bad" addresses a veteran tries to save #4481
+- Show spinner when talking to address validation API #4485
+- Make "edit address" text clickable in address validation alert texts #4484
+
+### Direct deposit
 
 - Confirm that eBenefits is removing direct deposit from the site in 1/29 release #3967
  
-**APO/FPO/DPO**
+### APO/FPO/DPO
 
 - Ticket creation for application updates #4374
-  - Figure out how to organize tickets for benefit teams in a clear way.
-  - Create and assign tickets to Benefit and Memorials teams 1 & 2 for the recommended application updates.
-- FE profile update #4386
 
 ### Profile 2.0
 
