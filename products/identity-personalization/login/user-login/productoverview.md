@@ -26,11 +26,6 @@ Today: The current setup would not work on VA.gov which will launch in November.
 
 ## Product Goals
 
-- 
-
-## EPIC ID	EPIC Description	Owner	Stories / Tasks: 
-
-https://github.com/department-of-veterans-affairs/vets.gov-team/issues/9139
 
 
 ## Team
