@@ -2,7 +2,7 @@
 
 - [Sprint 11](#sprint-11-1218---1231)
 - [Sprint 12](#sprint-12-12---114)
-- [Sprint 13]()
+- [Sprint 13](#sprint-13-115---128)
 
 ## Sprint 11 (12/18 - 12/31)
 
@@ -99,12 +99,12 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 4. Initial technical discovery questions for Profile 2.0
 5. Get eBenefits to confirm removal of direct deposit
 
-**If time**
+**Not required to meet sprint objectives**
 
-Not required to meet sprint objectives.
+Only move on to these if there's time.
 
 1. Refactor Vet360 profile components
-2. (If time) 508/Accessibility tickets
+2. 508/Accessibility tickets
 
 ### Address validation
 
