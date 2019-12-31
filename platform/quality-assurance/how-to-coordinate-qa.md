@@ -4,4 +4,4 @@
 1. Work with QA lead to create a test plan.  Please use [this QA Test Plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/bug-issue.md)
 1. The QA lead will then go through testing and record any incidents encountered during testing. Test incidents are created in GitHub and include defects, usability issues, or ambiguity.  Resolutions and comments are recorded in the test incident.
 
-*If you don't have a QA Lead on your Program, reach out to DSVA so they can coordinate a solution with VSP.
+*If you don't have a QA Lead on your Program, reach out to coordinate a solution with VSP.
