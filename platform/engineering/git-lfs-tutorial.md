@@ -21,6 +21,7 @@
   * [Git LFS Home Page](https://git-lfs.github.com/)
   * [Git LFS Docs](https://github.com/git-lfs/git-lfs/tree/master/docs?utm_source=gitlfs_site&utm_medium=docs_link&utm_campaign=gitlfs#git-lfs-documentation)
   * [Git LFS Tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
+  * [Configuring Git Large File Storage](https://help.github.com/en/github/managing-large-files/configuring-git-large-file-storage)
 * **Why** do we use it? 
   * >[We recommend repositories be kept under 1GB each. - GitHub](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations)
   * >[Repositories have a hard limit of 100GB. - GitHub](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations)
