@@ -1,7 +1,7 @@
 # Authenticated Experience Sprint Objectives: Sprints 11 – 20
 
 - [Sprint 11](#sprint-11-1218---1231)
-- [Sprint 12]()
+- [Sprint 12](#sprint-12-12---114)
 - [Sprint 13]()
 
 ## Sprint 11 (12/18 - 12/31)
