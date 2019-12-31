@@ -1,9 +1,9 @@
 # Discovery
 
 * Current work is in this folder
-* [pre-PI7 archive](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Login/User%20Login/discovery/pre-PI7)
+* [pre-PI7 archive]()
 
-### [Data needed to make design decisions](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/10212)
+### [Data needed to make design decisions]()
 
 
 ### Questions
