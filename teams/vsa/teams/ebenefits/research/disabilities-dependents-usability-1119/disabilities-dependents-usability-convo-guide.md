@@ -1,4 +1,4 @@
-# eBenefits Rated Disabilities/View Dependents Usability Coversation Guide, November 2019
+# eBenefits Rated Disabilities/View Dependents Usability Conversation Guide, November 2019
 
 ### Setup
 - Slack #feedback-backchannel will be used for real-time feedback from observers
@@ -7,10 +7,10 @@
 - [Associated Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-research-plan.md)
 
 ### Priorities
-While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback. The next priority is covering all, or most, of the Rated Disabilities screen. This page is in development, and has fully-designed screen layouts and alternate states. Much of the general feedback about the details of screen design and information display will be germane to all "tools page" layouts, and therefore View Disabilites as well.
+While it will be important to cover as much of this guide as possible during user sessions, time and circumstances may dictate that some questions be skipped. The most important aspect of this conversation guide is to orient the participant to what they will be seeing. This will mitigate in-session confusion, and help the participant provide more relevant feedback. The next priority is covering all, or most, of the Rated Disabilities screen. This page is in development, and has fully-designed screen layouts and alternate states. Much of the general feedback about the details of screen design and information display will be germane to all "tools page" layouts, and therefore View Disabilities as well.
 
 ## Introduction
-Good morning/afternoon and thank you for joining us today. My name is Jim, and with me are a few collegues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus is the Disability Benefits sections.
+Good morning/afternoon and thank you for joining us today. My name is Jim, and with me are a few colleagues who are helping-out by observing and taking notes. We are part of a team with the Department of Veterans Affairs that is moving some features of the old eBenefits site over to VA.gov. We're learning what veterans need to improve their online experience, and how we can make VA.gov more useful for you. Our particular focus is the Disability Benefits sections.
 
 I have a few things I need to mention before we start:
 - The session should take 30 to 45 minutes (confirm timeframe). But you can end it at any point--just let me know. We have quite a few things to cover, so to respect your time, I may break-in to move us to the next item.
@@ -51,7 +51,7 @@ You mentioned you'd try to find your VA disability rating by: (cite how particip
 - Now you've logged in; what the main purpose of this page is? Describe what's going on here. Whose information is displayed?
 - What is the total combined rating displayed? Is this number more or less important that the individual ratings?
 - How do you feel about how the individual disability ratings are shown? Is the information OK? Would you add or remove anything?
-- What does service-connected mean? And how is that different from non-service-connected? From what you see, which individual disabilities are serivce-connected? 
+- What does service-connected mean? And how is that different from non-service-connected? From what you see, which individual disabilities are service-connected? 
 - Can you see anything about how the VA determines this rating? What more would you like to know, if anything?
 - If you felt this information was wrong, do you see any way to follow-up and address the problem?
 - If you had a recent claim or appeal, what, if anything, does this page let you do?
