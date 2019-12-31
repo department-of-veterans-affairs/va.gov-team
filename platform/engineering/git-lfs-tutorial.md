@@ -34,7 +34,7 @@
   * There is a direct relationship between how big the repo is and how long it takes to download.
   * The larger the repo, the less feasible it is to clone the repo over a slower network (coffee shop/hotspot/EDGE/etc).
   * The larger the repo, the more likely you are to need to delete files/folders from your computer to make room for the repo.
-* **How** do we use it? 
+### **How** do we use it? 
   1. Run `git lfs install` to install Git LFS in the repo
   1. Specify which file types you'd like to track
      * Option 1: Run `git lfs track "*.{EXTENSION}"` (for example: `git lfs track "*.psd"`)
