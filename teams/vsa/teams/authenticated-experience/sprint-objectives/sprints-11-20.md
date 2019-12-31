@@ -126,6 +126,7 @@ Brad
 ### Profile 2.0
 
 - Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
+- [Design] Profile 2.0: Initial design explorations #4469
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
