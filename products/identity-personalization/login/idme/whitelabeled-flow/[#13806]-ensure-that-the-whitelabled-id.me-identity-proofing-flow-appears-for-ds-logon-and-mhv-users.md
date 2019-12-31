@@ -23,13 +23,13 @@ Essentially, if any user has logged in to VA.gov with a DS Logon or MHV credenti
 The following are the expected screens for the differnet scenarios:
 
 ## Non-Whitelabeled 2FA Setup Flow
-![2fa](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/IDme/201810_IDme_Whitelabeled_Flow/non-whitelabeled-2fa-setup-flow.png)
+![2fa](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/whitelabeled-flow/non-whitelabeled-2fa-setup-flow.png)
 
 ## Non-Whitelabeled Email Confirmation Flow
-![email](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/IDme/201810_IDme_Whitelabeled_Flow/non-whitelabeled-email-confirmation-flow.png)
+![email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/whitelabeled-flow/non-whitelabeled-email-confirmation-flow.png)
 
 ## Non-Whitelabeled Identity Proofing Flow
-![idproofing](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/IDme/201810_IDme_Whitelabeled_Flow/non-whitelabeled-identity-proofing-flow.png)
+![idproofing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/idme/whitelabeled-flow/non-whitelabeled-identity-proofing-flow.png)
 
 ## Whitelabeled 2FA Setup Flow
 TBD
@@ -57,9 +57,3 @@ Note: staging.va.gov is currently pointing to MHV's INTB instance; this will be 
 | ID.me | Enabled | Confirmed | david.bao@va.gov | Tester1@ | User attempts to access a health tool that requires identity proofing (example: https://staging.va.gov/health-care/secure-messaging/) | User sees non-whitelabeled identity proofing flow | No change - User sees whitelabeled identity proofing flow |
 | ID.me | Enabled | Confirmed | david.bao@va.gov | Tester1@ | User attempts to identity proof their account from their account page: https://staging.va.gov/account/ | User sees non-whitelabeled identity proofing flow | No change - User sees non-whitelabeled identity proofing flow |
 
-# General Testing Notes
-
-## Test Users
-MHV Users: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/MHV/mhv-lower-env-test-accounts.md
-
-DS Logon Users: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/reference_documents/ds%20logon/ds-logon-lower-env-test-accounts.md
