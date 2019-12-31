@@ -60,7 +60,7 @@ Allow Veterans to verify their identity to gain access VA.gov digital services t
 Increase LOA3 converstion rate.
 
 #### KPIs 
-KPIs are provided weekly by IDme on verification success rates in the #vfs-analytics channel in DSVA slack. The past five of these reports as of 5.30.19 can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Identity/Login/Analytics/IDme)
+KPIs are provided weekly by IDme on verification success rates in the #vfs-analytics channel in DSVA slack. 
 
 ##### 12/16-12/22
 Total Identity Verification Attempts: 7,914
@@ -76,7 +76,7 @@ Total Identity Verification Attempts: 7,914
 Allow Veterans to secure their accounts by requiring sign-in confirmation through a second device. 
 
 #### Key Result
-This objective is currently fulfilled as VA.gov is experiencing exceptional MFA success rates. Once we have [cross-domain analytics](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13866) implemented, we can revisit abandonments or issues here to see where we could make any additional progress.
+This objective is currently fulfilled as VA.gov is experiencing exceptional MFA success rates. Once we have [cross-domain analytics]() implemented, we can revisit abandonments or issues here to see where we could make any additional progress.
 
 #### KPIs
 Success rate for MFA (9/2018):
@@ -88,7 +88,7 @@ Success rate for MFA (9/2018):
 - [Success funnels for login & registration](https://analytics.google.com/analytics/web/?authuser=0#/my-reports/U_bnaGd1QdWQwS0e-J0pOQ/a50123418w177519031p184624291/_u.dateOption=last30days&_r.tabId=81/)
 - [Login usage dashboard](https://analytics.google.com/analytics/web/#/report/visitors-overview/a50123418w177519031p184624291/_u.dateOption=last30days&_.useg=userlSoCJs-8RzS8ITs0kUtVPA,userm6kH3yFDRuS28OYZ55HxFA&overview-graphOptions.primaryConcept=analytics.totalVisitors/)
 - [Login errors (user-facing)](https://analytics.google.com/analytics/web/?authuser=0#/report/content-event-events/a50123418w177519031p184624291/_u.dateOption=last7days&_.useg=builtin1&explorer-segmentExplorer.segmentId=analytics.eventLabel&_r.drilldown=analytics.eventCategory:Sign-on&explorer-table.plotKeys=%5B%5B%22login-error-user-fetch%22%5D%5D&explorer-table.rowCount=10&explorer-table.filter=login-error&explorer-table-dataTable.sortColumnName=analytics.totalEvents&explorer-table-dataTable.sortDescending=true/)
-- [Login flow chart](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/Analytics/loginGAFlowChart.md)
+- [Login flow chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/analytics/logingaflowchart.md)
 - [Login-specific GA events (total list)](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.dateOption=last30days&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.eventCategory:Sign-on,analytics.eventAction:Login%20-%20vagovprod/)
 
 
