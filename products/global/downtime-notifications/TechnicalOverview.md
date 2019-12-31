@@ -22,6 +22,4 @@ Once this is setup, the ID should be added to the Settings.maintenance.services 
 
 ### Front-end implementation
 
-TODO: https://github.com/department-of-veterans-affairs/vets.gov-team/issues/18613
-
-Until this is complete, you can find examples throughout the vets-website repo. A good simple example to start with it in the [search feature](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/search/containers/SearchApp.jsx), look for "Downtime".
+You can find examples throughout the vets-website repo. A good simple example to start with it in the [search feature](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/search/containers/SearchApp.jsx), look for "Downtime".
