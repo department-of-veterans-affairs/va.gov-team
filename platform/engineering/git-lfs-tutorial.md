@@ -1,8 +1,8 @@
 # [Git Large File Storage (LFS)](https://git-lfs.github.com/)
-* **Who** uses it?
+### **Who** uses it?
   * Passively: Everybody that uses the repo
   * Actively: Anybody that can use a Terminal/Command Prompt, but most often developers
-* **What** is it? 
+### **What** is it? 
   * Git Large File Storage (LFS) replaces large files with text [pointers](https://github.com/git-lfs/git-lfs/blob/master/docs/spec.md#the-pointer) inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
     * Example pointer:
       ```
@@ -10,7 +10,7 @@
       oid sha256:7db207c488a5957f0b88aec97489a60e73f2b8d310586c2502f3388af7f76091
       size 42
       ```
-* **When** do we use it?
+### **When** do we use it?
   * When a file extension matches one of the extensions specified in the [repo’s config file (`.gitattributes`)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.gitattributes)
   * As of 2019-12-31, the file types tracked by Git LFS in the `va.gov-team` repo are:
     * `.m4v`
@@ -19,12 +19,12 @@
     * `.pptx`
     * `.psd`
     * `.ai`
-* **Where** do we learn more about it?
+### **Where** do we learn more about it?
   * [Git LFS Home Page](https://git-lfs.github.com/)
   * [Git LFS Docs](https://github.com/git-lfs/git-lfs/tree/master/docs?utm_source=gitlfs_site&utm_medium=docs_link&utm_campaign=gitlfs#git-lfs-documentation)
   * [Git LFS Tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial)
   * [Configuring Git Large File Storage](https://help.github.com/en/github/managing-large-files/configuring-git-large-file-storage)
-* **Why** do we use it? 
+### **Why** do we use it? 
   * >[We recommend repositories be kept under 1GB each. - GitHub](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations)
   * >[Repositories have a hard limit of 100GB. - GitHub](https://help.github.com/en/github/managing-large-files/what-is-my-disk-quota#file-and-repository-size-limitations)
     * As of 2019-12-31, the [`vets.gov-team` repo](https://github.com/department-of-veterans-affairs/vets.gov-team) is ~23 GB.
