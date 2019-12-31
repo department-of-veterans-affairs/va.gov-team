@@ -94,7 +94,7 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 ### Order of priorities
 
 1. Get address validation ready for QA
-2. Be ready to resume Profile 2.0 work in Sprint 13
+2. Design exploration for Profile 2.0
 3. Create a plan for APO/FPO/DPO build + ticket writing
 4. Confirm eBenefits is removing direct deposit feature
 
