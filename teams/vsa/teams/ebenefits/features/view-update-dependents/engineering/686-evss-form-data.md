@@ -7,21 +7,22 @@ JSON form data retrieved from EVSS
       "acceptWarnings": false,
       "appStatus": "Open",
       "bnftClaimType": "EBENDEPENDENCY686c",
-      "createdDate": 1577483061703,
+      "createdDate": 1558385013901,
       "documents": [],
-      "expirationDate": 1609105461703,
+      "draftFormId": 210506,
+      "expirationDate": 1590007413901,
       "has30Percent": true,
-      "modifiedDate": 1577483064118,
+      "modifiedDate": 1577750236197,
       "validUser": true
     },
     "rbps": true,
     "vaFaxNumber": "",
     "vaOffice": {
-      "addressLine1": "Regional Office, Fort Snelling",
-      "addressLine2": "1 Federal Drive",
+      "addressLine1": "Regional Office",
+      "addressLine2": "PO Box 1437",
       "addressLine3": "",
       "addressLocality": "DOMESTIC",
-      "city": "St. Paul",
+      "city": "St. Petersburg",
       "country": {
         "dropDownCountry": "USA",
         "textCountry": ""
@@ -30,27 +31,27 @@ JSON form data retrieved from EVSS
       "postalType": "NONE",
       "sharedAddrsInd": "N",
       "state": "",
-      "zipCode": "55111",
+      "zipCode": "33731",
       "zipLastFour": ""
     },
-    "vaOfficeCode": "335",
-    "vaOfficeName": "St. Paul",
+    "vaOfficeCode": "317",
+    "vaOfficeName": "St. Petersburg",
     "veteran": {
       "address": {
-        "addressLine1": "1210 DRIVERS ROAD",
-        "addressLine2": "",
-        "addressLine3": "",
+        "addressLine1": "123 Adams Mark Drive",
+        "addressLine2": "APT 22",
+        "addressLine3": "Adams Mark Building",
         "addressLocality": "DOMESTIC",
-        "city": "LONDON",
+        "city": "Richmond",
         "country": {
-          "dropDownCountry": "Denmark",
+          "dropDownCountry": "USA",
           "textCountry": ""
         },
         "postOffice": "NONE",
         "postalType": "NONE",
         "sharedAddrsInd": "N",
-        "state": "",
-        "zipCode": "924",
+        "state": "VA",
+        "zipCode": "23060",
         "zipLastFour": ""
       },
       "children": [
@@ -73,22 +74,22 @@ JSON form data retrieved from EVSS
             "zipLastFour": ""
           },
           "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600049819,
+          "cityOfBirth": "herndon",
+          "corpPtcnpntId": 600283912,
           "countryOfBirth": {
             "dropDownCountry": "",
             "textCountry": ""
           },
-          "dateOfBirth": 1091941200000,
+          "dateOfBirth": 832222800000,
           "dateOfBirthFromCorp": true,
           "dependentStatus": "NOTONAWARD",
           "disabled": false,
           "emailAddress": "",
-          "firstName": "PENNY",
+          "firstName": "SAM",
           "govtTuitionAssist": false,
           "hasNoFileNumber": false,
           "hasNoSsn": false,
-          "lastName": "FOSTER",
+          "lastName": "PETER",
           "married": false,
           "middleName": "",
           "primaryPhone": {
@@ -101,11 +102,117 @@ JSON form data retrieved from EVSS
           "secondaryPhone": {
             "phoneType": "DAYTIME"
           },
-          "ssn": "793-47-3479",
+          "ssn": "796-78-6767",
           "ssnFromCorp": true,
-          "stateOfBirth": "",
+          "stateOfBirth": "WA",
           "tempDataId": {},
-          "uniqueIdentifier": "-398138699",
+          "uniqueIdentifier": "578572161",
+          "veteran": false
+        },
+        {
+          "address": {
+            "addressLine1": "13321 overview street",
+            "addressLine2": "",
+            "addressLine3": "",
+            "addressLocality": "DOMESTIC",
+            "city": "herndon",
+            "country": {
+              "dropDownCountry": "USA",
+              "textCountry": "USA"
+            },
+            "postOffice": "NONE",
+            "postalType": "NONE",
+            "sharedAddrsInd": "N",
+            "state": "VA",
+            "zipCode": "20098",
+            "zipLastFour": "9888"
+          },
+          "attendedSchool": true,
+          "childRelationshipType": "BIOLOGICAL",
+          "cityOfBirth": "ashburn",
+          "countryOfBirth": {
+            "dropDownCountry": "USA",
+            "textCountry": ""
+          },
+          "dateOfBirth": 862462800000,
+          "dateOfBirthFromCorp": false,
+          "dependentStatus": "ADDPENDING",
+          "disabled": false,
+          "firstName": "Sam",
+          "govtTuitionAssist": false,
+          "hasNoFileNumber": false,
+          "hasNoSsn": false,
+          "lastName": "Snow",
+          "married": false,
+          "primaryPhone": {
+            "phoneType": "DAYTIME"
+          },
+          "proofDepncyInd": false,
+          "rlsnIds": [],
+          "sameResidency": false,
+          "schools": [
+            {
+              "address": {
+                "addressLine1": "12231 fryingpan",
+                "addressLine2": "",
+                "addressLine3": "",
+                "addressLocality": "DOMESTIC",
+                "city": "herndon",
+                "country": {
+                  "dropDownCountry": "USA",
+                  "textCountry": ""
+                },
+                "postOffice": "NONE",
+                "postalType": "NONE",
+                "sharedAddrsInd": "N",
+                "state": "VA",
+                "zipCode": "20148",
+                "zipLastFour": ""
+              },
+              "attendPriorSchoolTerm": true,
+              "courseBeginDate": 1085029200000,
+              "courseNameTxt": "btech",
+              "current": false,
+              "enrollmentType": "FULLTIME",
+              "graduationDate": 1178773200000,
+              "lastTermEndDt": 989470800000,
+              "lastTermStartDt": 957416400000,
+              "prevAddress": {
+                "addressLine1": "10315 PROFESSIONAL CIRCLE,",
+                "addressLine2": "2ND FLOOR",
+                "addressLine3": "",
+                "addressLocality": "DOMESTIC",
+                "city": "RENO",
+                "country": {
+                  "dropDownCountry": "USA",
+                  "textCountry": ""
+                },
+                "postOffice": "NONE",
+                "postalType": "NONE",
+                "schoolCode": "21902128",
+                "schoolPartId": 13323109,
+                "schoolRDOState": "NV",
+                "sharedAddrsInd": "N",
+                "state": "NV",
+                "zipCode": "89511",
+                "zipLastFour": ""
+              },
+              "prevHoursPerWeek": "5",
+              "prevSchoolName": "MORRISON UNIVERSITY",
+              "prevSessionsPerWeek": "7",
+              "previousSchoolType": "COLLEGE",
+              "schoolType": "HOMESCHOOL",
+              "termBeginDate": 1083733200000
+            }
+          ],
+          "secondaryPhone": {
+            "phoneType": "DAYTIME"
+          },
+          "ssn": "796-76-7679",
+          "ssnFromCorp": false,
+          "stateOfBirth": "VA",
+          "tempDataId": {},
+          "uniqueIdentifier": "1302618514",
           "veteran": false
         },
         {
@@ -127,22 +234,21 @@ JSON form data retrieved from EVSS
             "zipLastFour": ""
           },
           "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600051043,
+          "cityOfBirth": "Alexnandria",
+          "corpPtcnpntId": 600292415,
           "countryOfBirth": {
             "dropDownCountry": "",
             "textCountry": ""
           },
-          "dateOfBirth": 1123563600000,
-          "dateOfBirthFromCorp": true,
+          "dateOfBirthFromCorp": false,
           "dependentStatus": "NOTONAWARD",
           "disabled": false,
           "emailAddress": "",
-          "firstName": "SARAH",
+          "firstName": "TEST",
           "govtTuitionAssist": false,
           "hasNoFileNumber": false,
           "hasNoSsn": false,
-          "lastName": "FOSTER",
+          "lastName": "TESTER",
           "married": false,
           "middleName": "",
           "primaryPhone": {
@@ -155,473 +261,41 @@ JSON form data retrieved from EVSS
           "secondaryPhone": {
             "phoneType": "DAYTIME"
           },
-          "ssn": "793-47-7434",
+          "ssn": "073-01-3619",
           "ssnFromCorp": true,
-          "stateOfBirth": "",
+          "stateOfBirth": "VA",
           "tempDataId": {},
-          "uniqueIdentifier": "157177015",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600051892,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 774680400000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "MARSHA",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "FOSTER",
-          "married": false,
-          "middleName": "P",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": false,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "783-05-4787",
-          "ssnFromCorp": true,
-          "stateOfBirth": "",
-          "tempDataId": {},
-          "uniqueIdentifier": "1397162861",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600051893,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 780210000000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "JOCELYN",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "PAULINE",
-          "married": false,
-          "middleName": "",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": false,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "793-36-8394",
-          "ssnFromCorp": true,
-          "stateOfBirth": "",
-          "tempDataId": {},
-          "uniqueIdentifier": "-1420680696",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600052601,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 1012629600000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "LAUREN",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "PARKER",
-          "married": false,
-          "middleName": "",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": false,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "779-34-9323",
-          "ssnFromCorp": true,
-          "stateOfBirth": "",
-          "tempDataId": {},
-          "uniqueIdentifier": "747346997",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600052792,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 978328800000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "TINKER",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "BELL",
-          "married": false,
-          "middleName": "",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": false,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "746-34-2034",
-          "ssnFromCorp": true,
-          "stateOfBirth": "",
-          "tempDataId": {},
-          "uniqueIdentifier": "1103491607",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600053119,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 799650000000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "ZACK",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "FOSTER",
-          "married": false,
-          "middleName": "",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": false,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "765-35-3222",
-          "ssnFromCorp": true,
-          "stateOfBirth": "",
-          "tempDataId": {},
-          "uniqueIdentifier": "-1930157076",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "AUSTIN",
-          "corpPtcnpntId": 600054690,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 760168800000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "VICTORIA",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "FOSTER",
-          "married": false,
-          "middleName": "",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": true,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "793-43-2332",
-          "ssnFromCorp": true,
-          "stateOfBirth": "TX",
-          "tempDataId": {},
-          "uniqueIdentifier": "-1333702539",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600054706,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 1115269200000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "SIERRA",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "KLEIN",
-          "married": false,
-          "middleName": "",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": false,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "780-93-4232",
-          "ssnFromCorp": true,
-          "stateOfBirth": "",
-          "tempDataId": {},
-          "uniqueIdentifier": "1838368869",
-          "veteran": false
-        },
-        {
-          "address": {
-            "addressLine1": "",
-            "addressLine2": "",
-            "addressLine3": "",
-            "addressLocality": "DOMESTIC",
-            "city": "",
-            "country": {
-              "dropDownCountry": "",
-              "textCountry": ""
-            },
-            "postOffice": "NONE",
-            "postalType": "NONE",
-            "sharedAddrsInd": "N",
-            "state": "",
-            "zipCode": "",
-            "zipLastFour": ""
-          },
-          "attendedSchool": false,
-          "cityOfBirth": "",
-          "corpPtcnpntId": 600055041,
-          "countryOfBirth": {
-            "dropDownCountry": "",
-            "textCountry": ""
-          },
-          "dateOfBirth": 808376400000,
-          "dateOfBirthFromCorp": true,
-          "dependentStatus": "NOTONAWARD",
-          "disabled": false,
-          "emailAddress": "",
-          "firstName": "STACY",
-          "govtTuitionAssist": false,
-          "hasNoFileNumber": false,
-          "hasNoSsn": false,
-          "lastName": "FOSTER",
-          "married": false,
-          "middleName": "",
-          "primaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "proofDepncyInd": false,
-          "rlsnIds": [],
-          "sameResidency": true,
-          "schools": [],
-          "secondaryPhone": {
-            "phoneType": "DAYTIME"
-          },
-          "ssn": "798-70-3232",
-          "ssnFromCorp": true,
-          "stateOfBirth": "",
-          "tempDataId": {},
-          "uniqueIdentifier": "1116308489",
+          "uniqueIdentifier": "-653762157",
           "veteran": false
         }
       ],
-      "corpPtcnpntId": 600049703,
+      "corpPtcnpntId": 600036156,
       "countryOfBirth": {
         "dropDownCountry": "",
         "textCountry": ""
       },
-      "dateOfBirth": 203144400000,
+      "dateOfBirth": -702759600000,
       "dateOfBirthFromCorp": false,
-      "edipi": "1243413229",
-      "emailAddress": "",
-      "firstName": "Pauline",
+      "edipi": "1007451748",
+      "emailAddress": "claimant@vets.gov",
+      "firstName": "BROOKE",
       "hasNoFileNumber": false,
       "hasNoSsn": false,
-      "lastName": "Foster",
+      "lastName": "Brooks",
       "marriageType": "MARRIED",
       "married": false,
-      "middleName": "",
+      "middleName": "M",
       "personTypeNm": "Veteran",
       "previousMarriages": [],
       "primaryPhone": {
-        "areaNbr": "802",
-        "phoneNbr": "222-0625",
+        "areaNbr": "777",
+        "phoneNbr": "777-7711",
         "phoneType": "DAYTIME"
       },
       "rlsnIds": [],
       "secondaryPhone": {
-        "areaNbr": "575",
-        "phoneNbr": "205-9766",
+        "areaNbr": "313",
+        "phoneNbr": "222-2223",
         "phoneType": "NIGHTTIME"
       },
       "spouse": {
@@ -643,7 +317,7 @@ JSON form data retrieved from EVSS
           "zipLastFour": ""
         },
         "cityOfBirth": "",
-        "corpPtcnpntId": 600055042,
+        "corpPtcnpntId": 600302430,
         "countryOfBirth": {
           "dropDownCountry": "",
           "textCountry": ""
@@ -661,14 +335,14 @@ JSON form data retrieved from EVSS
           "exSpouse": false,
           "marriageTerminationReasonType": "NONE"
         },
-        "dateOfBirth": 16174800000,
+        "dateOfBirth": -715374000000,
         "dateOfBirthFromCorp": true,
         "dependentStatus": "NOTONAWARD",
         "emailAddress": "",
-        "firstName": "SPOUSY",
+        "firstName": "STELLA",
         "hasNoFileNumber": false,
         "hasNoSsn": false,
-        "lastName": "FOSTER",
+        "lastName": "CAT",
         "married": false,
         "middleName": "",
         "previousMarriages": [],
@@ -681,19 +355,19 @@ JSON form data retrieved from EVSS
         "secondaryPhone": {
           "phoneType": "DAYTIME"
         },
-        "ssn": "702-02-3332",
-        "ssnFromCorp": true,
+        "ssnFromCorp": false,
         "stateOfBirth": "",
         "tempDataId": {},
-        "uniqueIdentifier": "2122151960",
+        "uniqueIdentifier": "1122621832",
         "veteran": false
       },
-      "ssn": "796-33-0625",
+      "ssn": "796-14-8937",
       "ssnFromCorp": false,
       "tempDataId": {},
-      "uniqueIdentifier": "1938823526",
-      "vaFileNumber": "796-33-0625"
+      "uniqueIdentifier": "-1542420508",
+      "vaFileNumber": "796-14-8937"
     }
   }
 }
+
 ```
