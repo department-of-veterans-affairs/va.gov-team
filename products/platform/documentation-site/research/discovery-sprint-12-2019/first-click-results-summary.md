@@ -6,7 +6,9 @@ As part of the documentation site discovery sprint, we wanted to evaluate a feat
 ## Goals
 
 We wanted to answer the following questions:
-
+- Are users able to find documentation when provided with a landing page that brings together all types of docs?
+- What is our users' comfort level with markdown editors?
+- Do users utilize features that allow them to help keep documentation up to date?
 
 
 ## Method
