@@ -1,7 +1,7 @@
-# Git LFS
+# [Git Large File Storage (LFS)](https://git-lfs.github.com/)
 * **Who** uses it?
 * **What** is it? 
-  * [Git Large File Storage (LFS)](https://git-lfs.github.com/) replaces large files with text [pointers](https://github.com/git-lfs/git-lfs/blob/master/docs/spec.md#the-pointer) inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
+  * Git Large File Storage (LFS) replaces large files with text [pointers](https://github.com/git-lfs/git-lfs/blob/master/docs/spec.md#the-pointer) inside Git, while storing the file contents on a remote server like GitHub.com or GitHub Enterprise.
     * Example pointer:
       ```
       version https://git-lfs.github.com/spec/v1
@@ -44,3 +44,11 @@
        git commit -m "Add design file"
        git push origin master
        ```
+
+### :warning: Warning :warning:
+* Files uploaded via the GitHub website will not be uploaded as LFS files. When those files are pulled from GitHub to your local machine, you may notice an error that looks like this:
+  ```
+  Encountered 1 file(s) that should have been pointers, but weren't:
+          designs/mock.psd
+  ```
+  
