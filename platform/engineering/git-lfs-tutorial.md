@@ -48,11 +48,11 @@
 
 ### :warning: Warnings :warning:
 #### Files uploaded via the GitHub website will not be uploaded as LFS files. When those files are pulled from GitHub to your local machine, you may notice an error that looks like this:
-  ![github-direct-upload-of-pdf-file](https://user-images.githubusercontent.com/6130520/71635188-f79e2e00-2be7-11ea-9545-a379a225b514.gif)
   ```
   Encountered 1 file(s) that should have been pointers, but weren't:
           designs/mock.psd
   ```
+  ![github-direct-upload-of-pdf-file](https://user-images.githubusercontent.com/6130520/71635188-f79e2e00-2be7-11ea-9545-a379a225b514.gif)
 #### You may have trouble migrating LFS files from one repo to another because the pointer may not work in the new repo. 
 #### Different repos might have different LFS configs, so the same file might be an LFS file in one repo, and a normal file in another. 
 * For example, in the [`vets.gov-team` config](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/.gitattributes), `*.mp4` files are LFS files, but in the [`va.gov-team` config](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.gitattributes), `*.mp4` files are not LFS files.
