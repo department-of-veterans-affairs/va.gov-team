@@ -1,7 +1,5 @@
 # Vets.gov Product Management Checklist
 
-This file is copied from https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Project%20Management/Launch%20Guide.md
-
 This is a set of actions for product teams to complete both prior to the launch and immediately following launch of a vets.gov product. The goals of the checklist are to 1) ensure product planning and delivery is consistent across products, 2) prevent common issues with what appears to be a production-ready service, and 3) achieve a repeatable process that is improved with lessons learned on an ongoing basis.
 
 This checklist is a living document that is meant to be a set of *minimum* actions to take. Each product team should add additional items as necessary. If any items added are cross-cutting issues, they should be added to this checklist to encourage shared, iterative learning as vets.gov progresses.
