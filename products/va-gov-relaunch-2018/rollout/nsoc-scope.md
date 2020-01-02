@@ -10,7 +10,7 @@ Note: Provided and discussed on September 6, 2018 with NSOC. No major concerns r
 
 ### Overview
 
-![Overview](./NSOC-Scope.png)
+![Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/rollout/nsoc-scope.png)
 
 1. Existing vets.gov domains will be redirected to corresponding va.gov domains.
 2. `www|va.gov` requests will be handled by application servers within the VA Enterprise Cloud.
@@ -27,14 +27,9 @@ Active development on current AWS environment on `dev-preview.va.gov` and `previ
 
 All service proxies will be moved to the VAEC pending ESCCB approval and associated configuration updates. All current AWS environments will utilize these VAEC connections to access VA services. This is the first major stage of the Vets.gov VAEC migration. 
 
-- [Forward proxy #12349](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12349)
-- [Reverse proxy for vets.gov #11009](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11009)
-
 #### EWIS Proxies to VAEC
 
 `preview.va.gov` requests route EWIS destined traffic via internal network connection to EWIS. We expect a significant performance improvement to non-native requests by avoiding a second internet-based request for current va.gov resources. 
-
-- [#11703](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11703)  
 
 #### Reverse Proxies to VAEC
 
@@ -44,14 +39,9 @@ All service proxies will be moved to the VAEC pending ESCCB approval and associa
 
 `preview.va.gov` utilizes the `staging-api.va.gov` domain for API requests.
 
-- [lower environment hostnames #12332](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12332)
-- [preview.va.gov utilizes staging-api.va.gov change #12984](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12984)
-
 #### NSOC Web Flow Updates
 
 NSOC will evaluate network routing and DNS for `dev.va.gov`, `staging.va.gov`, `preview.va.gov`, and `www|va.gov` to improve EWIS proxy performance.  (Kevin Williams)
-
-- [#12985](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12985)
 
 #### Production Environment Preview
 
@@ -61,24 +51,15 @@ DNS updates route `preview.va.gov` to the production VAEC environment for select
 
 `preview.va.gov` utilizes the `api.va.gov` API domain for API requests.
 
-- [move preview.va.gov to production #12330](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12330)
-
 #### Partial Production Traffic Routed to EWIS proxy
 
 Percentage of production `va.gov` traffic is routed to EWIS proxy for testing and establishing performance baseline for monitoring and alerting configuration during the final rollout.
 
 We will increase the percentage of traffic incrementally toward 100%. At the end of this process, all production traffic to `www|va.gov` will be directed through the production VAEC to EWIS (with no content changes).
 
-- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12884 (ESCCB)
-- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/12884 (SSL Certificate Implementation)
-- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13000 (Pool member in F5)
-- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13001 (Partial Traffic)
-
 #### Load Testing
 
 Our team will notify VA Gateway Ops of test parameters, and perform a load test on `dev.va.gov` and potentially `staging.va.gov` after NSOC Web Flow Updates are confirmed in place. Information will be used to update monitoring and alerting configurations for production traffic.
-
-- [load testing ticket #11709](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/11709) 
 
 #### Vets.gov Directs Limited Production Traffic to Preview
 
@@ -98,5 +79,3 @@ Our team will notify VA Gateway Ops of test parameters, and perform a load test 
 *November 7, 2018*
 
 DNS updates route `www|va.gov` traffic to production VAEC environment. All `www|va.gov` traffic is expected to be handled by the new system. Active monitoring and response.
-
-- https://github.com/department-of-veterans-affairs/vets.gov-team/issues/13002 (Full traffic to production VAEC)
