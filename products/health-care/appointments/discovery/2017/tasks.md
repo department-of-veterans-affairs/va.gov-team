@@ -26,7 +26,6 @@ Scheduling Update v1 (20171031)
 - [ ] Compare appointment data between MHV and VAR (e.g., Clinic name / Location) 
 
 ### VA.gov  
-(More details: https://github.com/department-of-veterans-affairs/vets.gov-team/issues/5014)
 - [x] Update main [appointments page](https://www.va.gov/HEALTHBENEFITS/access/appointments.asp) content 
 - [x] Update appointments portion of [medical center pages](https://www.durham.va.gov/patients/appointments.asp) 
 - [x] Add quick blurb and links to several locations on va.gov 
