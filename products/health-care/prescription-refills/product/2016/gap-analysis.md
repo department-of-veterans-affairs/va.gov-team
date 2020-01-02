@@ -4,7 +4,7 @@ This analysis happened after seeing labs and test results, self-entered informat
 
 Overview
 * [MHV Analytics for Self-Entered Data](#analytics-from-madeleine-cadwallader)
-* [Gap Analysis Spreadsheet](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/RX%20Refills/MHV%20Features%20and%20Gap%20Analysis.xlsx)
+* [Gap Analysis Spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/product/2016/mhv-features-and-gap-analysis.xlsx)
 * [MHV Sections and Images](#mhv-sections-and-images)
 * [Vets.gov team's $0.02](#vetsgov-team-debrief)
 
