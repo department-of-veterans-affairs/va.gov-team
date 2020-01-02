@@ -20,6 +20,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Education Feedback Tool](#education-feedback-tool)
     * [Colmery Act Opt Out](#colmery-act-opt-out)
     * [GI Bill Comparison Tool](#gi-bill-comparison-tool)
+    * [Claim and Appeal Status](#claim-and-appeal-status)
+    * [Apply for Pre-need Burial](#apply-for-pre-need-burial)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -221,11 +223,39 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### Claim and Appeal Status
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Audited by VA 508 Office February 2019<br/>
+
+#### Open issues
+
+* [[AXE-CORE]: UL and OL must only directly contain LI, SCRIPT, or TEMPLATE elements - #1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064)<br/>
+**Opened:** August 19, 2019 | **Severity:** 508-defect-2
+
+---
+
+### Apply for Pre-need Burial
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Audited by VA 508 Office September 2018<br/>
+
+#### Open issues
+
+* [Sitewide Issue #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-1
+* [Sitewide Issue #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-2
+* [[SCREENREADER]: Headings should be nested appropriately for ease of navigation - #1074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1074)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-2
+* [Sitewide Issue #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-3
+
+---
+
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| Claim and Appeal Status | VSA | Audited by VA 508 Office February 2019. | [#1064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1064) |
-| Apply for Pre-need Burial | VSA | Audited by VA 508 Office September 2018. | [Sitewide #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316), [Sitewide #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314), [Sitewide #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318), [#1074](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1074) |
 | GI Bill Comparison Tool® VET TEC | VSP | https://staging.va.gov/gi-bill-comparison-tool/<br/>Audited by VSP Product Support Team August 2019 | **Open issues:**<br/>[#1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/><br/>**Closed issues:**<br/>[#1256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1256), [#1257](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1257), [#1253](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1253), [#1252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1252) |
 | Local side nav | Completed June 2017 | VSA | No issues! || Local side nav | Complete 6/2017 | No issues! |
 | Edu 1990 | VSA | Completed June 2017 | No issues! |
