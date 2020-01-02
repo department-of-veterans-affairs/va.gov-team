@@ -1,7 +1,7 @@
 **Work in progress**
 
 # MHV Rx Gap Analysis
-This is a gap analysis of Rx specifically on MHV vs. Vets.gov as of 10/27/2017 based on issue #. Another gap analysis can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/RX%20Refills/Gap%20Analysis.md) of MHV including Rx. 
+This is a gap analysis of Rx specifically on MHV vs. Vets.gov as of 10/27/2017 based on issue #. Another gap analysis can be found [here]() of MHV including Rx. 
 
 On MHV, a Veteran can refill their prescriptions, view refill prescription information page, view prescription history, view prescription tracking information, view Medications, OTCs, Herbals & Supplements Information (self-entered), and set their email notifications for Rx. On vets.gov a Veteran can do all of those tasks except self-enter their medications, OTCs, and herbals & supplements information and setting email notifications for Rx. 
 
