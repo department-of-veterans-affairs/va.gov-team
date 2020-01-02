@@ -27,6 +27,10 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Edu 1990](#edu-1990)
     * [Edu 1990e](#edu-1990e)
     * [Edu 1990n](#edu-1990n)
+    * [526 PTSD](#526-ptsd)
+    * [Outreach and Events](#outreach-and-events)
+    * [Education 1995 STEM Update](#education-1995-stem-update)
+    * [Profile Direct Deposit Feature](#profile-direct-deposit-feature)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -267,7 +271,7 @@ Each application or logical section of the site will have a heading and a detail
 #### Open issues
 
 * [[SCREENREADER]: GIBCT® VETTEC - Can we move the Learn more buttons out of the label tags? - #1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/>
-**Opened:** June 18, 2019 | **Severity:** 508-defect-2
+**Opened:** August 22, 2019 | **Severity:** 508-defect-2
 
 ---
 
@@ -303,13 +307,59 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### 526 PTSD
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Audited January 2019<br/>
+**[781a PTSD form](https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes)**
+
+#### Open issues
+
+* [[SCREENREADER]: 526 V2 - Date fields are firing error messages too soon on unit assignment page - #1086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1086)<br/>
+**Opened:** August 19, 2019 | **Severity:** 508-defect-3
+
+---
+
+### Outreach and Events
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Audited January 2019<br/>
+**[Test application](https://staging.va.gov/outreach-and-events/)**<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22outreach+%26+events%22+label%3A508%2FAccessibility+is%3Aclosed)**
+
+#### Open issues
+
+* [[KEYBOARD]: Outreach materials - focus should be set on the number of results on pagination keypress or click - #981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/981)<br/>
+**Opened:** August 14, 2019 | **Severity:** 508-defect-3
+
+---
+
+### Education 1995 STEM Update
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Audited by VSP Product Support Team August 2019. Sent to VA 508 Office September 2019. Passed VA 508 audit.<br/>
+**No open issues**<br/>
+**[Test application](https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction/)**<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Aeducation+is%3Aclosed+label%3A508%2FAccessibility)**
+
+---
+
+### Profile Direct Deposit Feature
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Audited by VSP Product Support Team August 2019. Request sent to VA 508 Office October 2019.<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22direct+deposit%22+label%3A508%2FAccessibility+is%3Aclosed)**
+
+#### Open issues
+
+* [[COGNITION]: Direct Deposit - Consider revising the Call to Action UI for entering data - #1331](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1331)<br/>
+**Opened:** August 27, 2019 | **Severity:** 508-defect-3
+
+---
+
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-|526 PTSD | VSA | https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes | **Open issues:**<br/>[#1086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1086)<br/><br/>**Closed issues:**<br/>[#1087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1087) |
-| Outreach &amp; Events | VSA | https://staging.va.gov/outreach-and-events/<br/>Audited by VSP Product Support Team August 2019 | **Open issues:**<br/> [#981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/981)<br/><br/>**Closed issues:**<br/>[#991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/991), [#984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/984) |
-| Education 1995 STEM Update | VSP | https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction<br/><br/>Audited by VSP Product Support Team August 2019<br/><br/>Sent to VA 508 Office September 2019. | **Passed VA 508 audit!**<br/><br/>**Closed issues:**<br/> [#762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/762), [#764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/764), [#768](https://github.com/department-of-veterans-affairs/va.gov-team/issues/768), [#830](https://github.com/department-of-veterans-affairs/va.gov-team/issues/830) |
-| Profile: Direct Deposit Feature | VSA | **Logged in user profile**<br/>Audited by VSP Product Support Team August 2019<br/><br/>Request sent to VA 508 Office October 2019 | **Open issues:**<br/><br/><br/>**Closed issues:**<br/>[#2808](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2808), [#2809](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2809), [#1433](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1433), [#1330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1330), [#1335](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1335), [#1332](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1332), [#1437](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1437)<br/><br/>**Being redesigned:**<br/>[#1331](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1331) |
 | GI Bill Comparison Tool® Colmery 107 Feature | VSP | https://staging.va.gov/gi-bill-comparison-tool/<br/>Audited by VSP Product Support Team September 2019<br/><br/>Request sent to VA 508 Office October 2019 | **Closed issues:**<br/>[#2386](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2386), [#1646](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1646), [#1640](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1640), [#1651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1651), [#1658](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1658), [#1647](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1647), [#1649](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1649), [#1655](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1655), [#2381](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2381), [#2387](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2387) |
 | Profile Appointment Text Messages | VSP | First audit completed by VSP Product Support Team October 2019 | **Closed issues:**<br/>[#2428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2428), [#2433](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2433), [#2442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2442) <br/><br/>**Account and profile merge issues:**<br/>[#2427](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2427), [#2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429), [#2430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2430), [#2435](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2435), [#2440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2440) |
 | Pittsburgh Side Navigation (CMS) | VSA | First audit completed by VSA November 2019 | **Open issues:**<br/> [#3413](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3413), [#3426](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3426), [#3441](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3441), [#3445](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3445), [#3448](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3448), [#3552](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3552), [#3557](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3557), [#3560](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3560)
