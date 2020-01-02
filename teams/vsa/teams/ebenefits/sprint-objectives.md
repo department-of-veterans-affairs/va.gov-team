@@ -8,8 +8,26 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Stay organized and help your future self and team
 - Measure outcomes where possible
 - Remember the Call Center
-
 ----
+## Sprint 12 (1/1 - 1/14) WIP*
+```diff 
+- TBD
+```
+### 1. Prepare "View My Rated Disabilities" for Launch
+- Complete and implement final reviews and changes required to launch (508 {staging})
+- Develop and docuemnt in GH plan for moderated user acceptance testing 
+- Review the launch checklist and document any remaining gaps for launch procedures  
+  - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
+
+_Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
+
+### 2. Continue Developing Framework and API Connectivity for "View/Update Dependents" in Staging Environment
+- Design: Complete Design Intent Review for "View Dependents"
+- Design: Refine lo-fi mocks for Dependency Claims ("Submit 686")*
+- Frontend: Continue to reconcile 686 schema and correct submission issues
+- Eng: Define and document in GitHub the existing endpoints
+- Eng: Review BGS documentation 
+
 ## Sprint 11 (12/18 - 12/31) 
 ```diff 
 - 25 points over 8 issues
