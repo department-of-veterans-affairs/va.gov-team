@@ -3,10 +3,10 @@
 ##  North Star
 Deliver self-service tools on par with top private sector companies, and have the best online experience in the federal government
 
-## Mission Statement:
+## Mission Statement
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
-## Product Portfolio:
+## Product Portfolio
 
 *	Dashboard
 *	Profile
@@ -16,7 +16,7 @@ Help users accomplish tasks more easily by leveraging what we know about them as
 * In Content Personalization
 *	Others
 
-## Responsibilities:
+## Responsibilities
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
 
 ## Roadmap
