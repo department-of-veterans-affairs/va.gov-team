@@ -20,7 +20,7 @@ Currently, the site is undergoing a number of changes. It is being "re-engineere
 - The VA **pharmacy call center** has little impact on the workflow of online Rx refills. This system is centralized, and each medical center integrates it into their phone system. (So, a veteran might call Kansas City, but they'll talk to someone somewhere else.)
 - MHV as a whole has a lot of **content**, and the maintenance of the content has taken a back seat due to shifting priorities and a lack of resources. Much of this content seems unecessary (meaning: it will not help veterans accomplish what they came to the site to do)
 - MHV has APIs in production, but there are no current consumers aside from an in development Rx Refill "Mobile App" (actually, just _another_ responsive/mobile-friendly site...not an iOS/Android app). The MHV team has some concerns around API management. PD has a tool that helps with API inventory, but they don't have anything a system to manage who uses the API (it sounds like this is manually done right now).
-- The system architecture looks like [_this_](arch_current.jpg). (Possible wrong assumptions here, but mostly accurate)
+- The system architecture looks like [_this_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/prescription-refills/product/2016/report-and-recommendations/arch-current.jpg). (Possible wrong assumptions here, but mostly accurate)
  
 #### Areas for Opportunity
 
@@ -31,10 +31,10 @@ Currently, the site is undergoing a number of changes. It is being "re-engineere
 - Over a six month period (October - March) Prescriptions had 3.4M page views.
 - Within prescription, the Refill Prescription page accounts for nearly 80% of traffic. The remaining traffic goes to prescription tracking (2.1%), prescription history (11%) and Meds, OTCs, Herbs & Supplements (0.3%).
 - Error messages related to account are not tracked, but appear to occur frequently.
-- More details available in the [pre-discovery analytics review] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/MyHealtheVet/Prescriptions/Analytics/0.Prescriptions%20Analytics%20Assessment.md).
+- More details available in the [pre-discovery analytics review] ().
 
 #### Feedback from Veterans
-(more detail [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/MyHealtheVet/Prescriptions/Prescription%20Refill%20User%20Research.md)) 
+(more detail [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/prescription-refills/research/2016)) 
 - Veterans are generally happy with MyHealtheVet. It's a highly used feature, and prescriptions is the most important feature. 
 - The biggest barrier to refilling a prescription is the login experience - *"Once you're logged in, it's easy."*
 - Filling an Rx on MHV can take 7-10 (one person said up to 21) days. Prescripitions are only sent to veteran's homes -- if you fill a prescription online, you can't pick it up at a VA medical center
