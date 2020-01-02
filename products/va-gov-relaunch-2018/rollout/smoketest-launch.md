@@ -80,7 +80,7 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - **link**: va.gov/track-claims/your-claims/
 - **link**: va.gov/track-claims/
 
-[Claim and Appeals Status - Smoke Test Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Claim%20Status/track-claim-status/Claims%20and%20Appeals%20Status%20-%20Internal%20Smoke%20Test.pdf)
+[Claim and Appeals Status - Smoke Test Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/claims-status/track-claim-status/claims-and-appeals-status-internal-smoke-test.pdf)
 
 ### VIC Application
 - Confirm user can authenticate and link out to vic service (DO NOT NEED TO SUBMIT APPLICATION)
@@ -94,10 +94,9 @@ A non-exhaustive set of tests that ensure that most important functionality work
 - Confirm letters data shows correctly
 - **link**: va.gov/records/download-va-letters/
 
-[VA Letters - Smoke Test Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/VA%20Documents%20and%20Letters/screenshots/VA%20Letters%20and%20Documents%20-%20Internal%20Smoke%20Test.pdf)
+[VA Letters - Smoke Test Guide]()
  
 ### Testers
 - Aubrey Arcangel (DS Logon, MHV, ID.me)
 - Rian Fowler (DS Logon, ID.me)
 - Ben Barone, Dawn Munoz, Ryan Luu, Rachael Roueche
-   - MHV Prod Account (DON'T MAKE ANY CHANGES TO THESE ACCOUNTS): https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/reference_documents/MHV/mhv-prod-test-accounts.md
