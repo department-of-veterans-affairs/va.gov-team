@@ -21,6 +21,10 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 
 ## Roadmap
 
+|**Q4 2019**|**Q1 2020**|**Q2 2020**|**Future**|
+|-----------|-----------|-----------|----------|
+|**Direct Deposit**: QA; Launch |Samara Strauss | Samara Strauss | Samara Strauss |
+
 ### Q4 2019
 
 #### Direct Deposit
