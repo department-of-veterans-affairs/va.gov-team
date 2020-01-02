@@ -1,11 +1,4 @@
----
-name: VSA Epic Template
-about: This is an Epic template
-title: Epic Template VSA for va.gov-teams
-labels: ''
-assignees: ''
 
----
 
 ## Product/Feature/Initiative Outline
 [link]()
