@@ -4,7 +4,7 @@
 This usability test is meant to observe pain points and possible short term improvements in the experience of learning about and finding urgent care under the law as updated by the Mission Act. 
 
 1. What product and team: This research could affect information architecture of VA.gov blue bar navigation, the [Find a VA Location tool](https://www.va.gov/find-locations/), and the [TriWest urgent care facility locator tool](https://vaurgentcarelocator.triwest.com/Locator)).  
-2. Background (brief summary) As a user, in order to use urgent care, I need to understand my coverage and find a location. Here is a [full overview of the original issue/request.](https://github.com/department-of-veterans-affairs/digitalservice/issues/887)
+2. Background (brief summary) As a user, in order to use urgent care, I need to understand my coverage and find a location. Here is a [full overview of the original issue/request.]()
 3. Research questions: 
 * How do people use the current site to assess their eligibility for urgent care?  
 * What pathways and page elements in the home page, on the facility locator, and in the TriWest urgent care facility locator tool support?
@@ -83,9 +83,9 @@ Please list the people who will be serving in each role. Include the primary pho
 
 ## Resources
 
-- [Project Brief](https://github.com/department-of-veterans-affairs/digitalservice/issues/887)
-- [Discussion Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/discussion-guide.md)
-- [Transcripts from Sessions](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/transcripts.md) 
+- [Project Brief]()
+- [Discussion Guide]()
+- [Transcripts from Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/transcripts.md) 
 - [Synthesis in Mural](https://app.mural.co/invitation/mural/adhocvetsgov9623/1560946920965?sender=kevinhoffman16624&key=8a9136e9-5c82-4a4c-86f2-c670fd0df6d1) 
-- [Final Report](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md)
-- [Presentation Deck](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/DSVA-UrgentCareUsabilityStudy-KevinMHoffman-V001.pdf)
+- [Final Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md)
+- [Presentation Deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2017/dsva-urgentcareusabilitystudy-kevinmhoffman-v001.pdf)
