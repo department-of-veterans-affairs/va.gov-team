@@ -23,11 +23,45 @@ Increase Veteran, Caregivers, Dependents, and others easy access to the benefits
 
 ### Q4 2019
 
+#### Direct Deposit
+- QA
+- Launch to 100% on VA.gov
+
+#### Address validation
+- Design
+- Build
+
 ### Q1 2020
+
+#### Direct Deposit
+- Removal of direct deposit from eBenefits
+
+#### Address validation
+- QA
+- Pre-launch checklist
+- Launch
+
+### Profile 2.0
+- Design
+- Technical discovery
+- User testing
+- Start build
 
 ### Q2 2020
 
-### Future
+### Profile 2.0
+- Finish build
+- QA
+- Pre-launch
+- Launch
+
+### Future work
+
+To be prioritized:
+
+- Notification center
+- Dashboard 2.0
+- External notifications
 
 ## Team Members
 
