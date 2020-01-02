@@ -84,7 +84,7 @@ Please list the people who will be serving in each role. Include the primary pho
 ## Resources
 
 - [Project Brief]()
-- [Discussion Guide]()
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2017/discussion-guide.md)
 - [Transcripts from Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/transcripts.md) 
 - [Synthesis in Mural](https://app.mural.co/invitation/mural/adhocvetsgov9623/1560946920965?sender=kevinhoffman16624&key=8a9136e9-5c82-4a4c-86f2-c670fd0df6d1) 
 - [Final Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md)
