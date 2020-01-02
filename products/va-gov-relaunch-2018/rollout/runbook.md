@@ -39,37 +39,37 @@
 
 #### Product, implementation, general issues
 
-- POC: Rachael Roueche (rachael.roueche@adhocteam.us)
-- Chris Johnston (Christopher.Johnston2@va.gov)
-- Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
-- Ryan Luu (ryan.luu@adhocteam.us)
+- POC: Rachael Roueche 
+- Chris Johnston 
+- Elizabeth Lewis 
+- Ryan Luu 
 
 #### Technical issues
 
-- POC: James Kassemi (james.kassemi@adhocteam.us)
-- Wyatt Walter (wyatt@adhocteam.us)
-- Brian Gryth (brian.gryth@adhocteam.us)
-- Nick Sullivan (nick.sullivan@adhocteam.us)
-- Jeff Balboni (jeff@adhocteam.us)
-- Chris Johnston (Christopher.Johnston2@va.gov)
-- Alex Loehr (Christopher.Johnston2@va.gov)
+- POC: James Kassemi 
+- Wyatt Walter 
+- Brian Gryth 
+- Nick Sullivan
+- Jeff Balboni
+- Chris Johnston 
+- Alex Loehr
 
 #### SSO / Login issues
-- POC: David Bao (david.bao@va.gov)
-- Winnie Smith (winnie@adhocteam.us)
-- Kam Karshenas (kam@adhocteam.us)
-- Rachael Roueche (rachael.roueche@adhocteam.us)
-- Chris Johnston (Christopher.Johnston2@va.gov)
+- POC: David Bao
+- Winnie Smith
+- Kam Karshenas 
+- Rachael Roueche
+- Chris Johnston
 
 #### Design, IA, content issues
-- POC: Rachael Roueche (rachael.roueche@adhocteam.us)
-- Ryan Luu (ryan.luu@adhocteam.us)
-- Elizabeth Lewis (elizabeth.lewis@adhocteam.us)
-- Andy Lewendowski (Andrew.Lewandowski2@va.gov)
-- Jeff Barnes (jeffrey.barnes4@va.gov)
-- Melissa Schaff (melissa.schaff@va.gov)
-- Lauren Alexanderson (Lauren.Alexanderson@va.gov)
-- Chris Johnston (Christopher.Johnston2@va.gov)
+- POC: Rachael Roueche 
+- Ryan Luu 
+- Elizabeth Lewis
+- Andy Lewendowski 
+- Jeff Barnes 
+- Melissa Schaff
+- Lauren Alexanderson 
+- Chris Johnston
 
 #### AWS issues
 - [Create a support case](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/VA.gov%20Relaunch%202018/Rollout/Creating%20an%20AWS%20GovCloud%20Support%20Case.docx) and cc Shawn Arnwine (sarnwine@amazon.com)
@@ -210,7 +210,7 @@ This constitutes a _full_ revert. Moving the www.va.gov traffic that we acquire 
 
 ## Other Issues
 
-For any scenario that doesn't match those outlined here please use the incident response playbook: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Engineering/OnCall/Incident%20Response%20Playbook.md
+For any scenario that doesn't match those outlined here please use the incident response playbook: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/OnCall/incident-response-playbook.md
 
 
 ## 24/7 Active Monitoring Rotation Schedule
