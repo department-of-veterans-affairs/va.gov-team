@@ -151,7 +151,8 @@ TODO
 * Persist metrics for a longer amount of time, aggregate the data (currently 14 days?)
 * Possibly report less prometheus metrics (comb through ones that we don’t use)
 * Reporting vets-api metrics (external service request time - total request time)
-* Active Support notifications for request time instrumentation
+* ActiveSupport notifications for request time instrumentation 
+	* [Faraday request time instrumentation via ActiveSupport Notification subscription](http://dpsk.github.io/blog/2013/10/01/track-request-time-with-the-faraday/)
 
 ## Technical Decisions
 
