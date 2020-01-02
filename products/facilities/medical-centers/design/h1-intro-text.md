@@ -17,12 +17,14 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 - **H1:** Health services
 - **Intro text:** VA Pittsburgh Healthcare System offers a wide range of health, support, and facility services for Veterans in Pittsburgh, Western Pennsylvania, and Belmont County, Ohio. Click on a service below for more details like which clinic or medical center offers that service.
 > Note: If the VAMC has an official system name, use it in the intro text. If not, use the system short name.
+
 > Note: Add geographical references, like areas, counties, and neighborhoods, to the intro text.
 
 **/locations**
 - **H1:** Locations
 - **Intro text:** VA Pittsburgh Healthcare System has seven facilities. Our two medical centers are located at University Drive in Oakland and at H. John Heinz III in O’Hara Township. Our other five locations are community-based outpatient clinics.
 > Note: If the VAMC has an official system name, use it in the intro text. If not, use the system short name.
+
 > Note: Add geographical references, like areas, counties, and neighborhoods, to the intro text.
 
 **/events**
@@ -80,7 +82,9 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 - **H1:** [Official facility name]
 - **Intro text:** [See notes below]
 > Note: Focus on what services are offered by the facility. Promote any specialized services, like centers of excellence or award-winning programs.
+
 > Note: Add geographical references, like areas, counties, and neighborhoods, to the intro text.
+
 > Note: Use any customer short names, or old facility references (like the previous name of a facility that customers may still use).
 
 **/caregiver-support**
