@@ -9,9 +9,9 @@ As of October 2017, VEText is in use in 4 medical centers;  Loma Linda, Fayettev
 The primary points of contact for VEText itself are Shane Elliott (shane.elliott@va.gov) and Rob Durkin (Robert.Durkin@va.gov). 
 DSVA team members involved in this project: Alex Loehr, Marvo Dolor, Charles Worthington, Chris Johnston, and Aaron Wieczorek.
 
-**To get oriented you might want to start with a slide deck that summarizes the project (aimed at VA Leadership) [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/Appointment%20Reminders/VEText/Working%20Drafts/2017-12-1%20Draftv4%20VEText.pptx).**
+**To get oriented you might want to start with a slide deck that summarizes the project (aimed at VA Leadership) [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/appointment%20reminders/2017/VEText/working-drafts/2017-12-1-draftv4-vetext.pptx).**
 
-DSVA Project Notes are [here](Project%20Notes.md).
+DSVA Project Notes are [here]().
 
 
 
