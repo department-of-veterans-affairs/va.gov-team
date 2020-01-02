@@ -94,10 +94,9 @@ Sprint 12 is 9 days with the New Year's Day holiday.
 **Required to meet sprint objectives**
 
 1. Get address validation ready for QA
-2. Write APO/FPO/DPO tickets for benefits and memorials teams
-3. Design exploration for Profile 2.0
-4. Initial technical discovery questions for Profile 2.0
-5. Get eBenefits to confirm removal of direct deposit
+2. Design exploration for Profile 2.0 & Initial technical discovery questions for Profile 2.0
+3. Write APO/FPO/DPO tickets for benefits and memorials teams
+4. Get eBenefits to confirm removal of direct deposit
 
 **Not required to meet sprint objectives**
 
@@ -123,6 +122,10 @@ To the best of our ability, this sprint's objective is to make sure all existing
 - Log "bad" addresses a veteran tries to save #4481
 - Show spinner when talking to address validation API #4485
 - Make "edit address" text clickable in address validation alert texts #4484
+
+**QA**
+
+- Go/No-go for QA
 
 ### Direct deposit
 
