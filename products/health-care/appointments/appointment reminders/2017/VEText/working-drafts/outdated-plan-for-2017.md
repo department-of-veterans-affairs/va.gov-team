@@ -1,6 +1,6 @@
 ~~Where we'd like to be with VEText by December 31, 2017~~ 
 
-## This is no longer the plan. See [Project Notes](Project%20Notes.md) for the latest.
+## This is no longer the plan. See [Project Notes]() for the latest.
 
 - Know who the project owner is and delineate their role v.s. ours.
 - ~~Have a signed one page security risk acceptance document~~ **I don't think this should be our approach. Thoughts?**
@@ -37,7 +37,7 @@
     - [ ] Evaluate current standing and plan for first 6 weeks of 2018.
 
 
-*Reference*: [VEText Project Notes](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/Appointment%20Reminders/VEText/Project%20Notes.md)
+*Reference*: [VEText Project Notes]()
 
 
 
