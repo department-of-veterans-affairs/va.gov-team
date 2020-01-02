@@ -36,6 +36,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
     * [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
     * [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
+    * [New Project Name](#new-project-name)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -468,6 +469,8 @@ Each application or logical section of the site will have a heading and a detail
  1. Click the `<NUMBER> Closed` link to switch to closed issues
  1. Click the `Label` dropdown. Select the `Your Application` label, and the `508/Accessibility` label.
  1. Change the **Closed issues** text into a link. [Learn how to create links in Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). This link will give you a current, filtered list of closed accessibility issues for your application.
+ 
+ Add another link to the [Table of Contents](#table-of-contents). This is an important step to make applications easier to find as the list gets longer.
 
 #### Open issues
 
