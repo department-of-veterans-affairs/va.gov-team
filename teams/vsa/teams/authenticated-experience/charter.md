@@ -19,14 +19,18 @@ Help users accomplish tasks more easily by leveraging what we know about them as
 * In Content Personalization
 *	Others
 
-
 ### Responsibilities:
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
 
 ### Roadmap
 
-![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/authenticated-experience/Auth-ExpRoadMap.png "Logo Title Text 1")
-(Last Updated August 2019)
+#### Q4 2019
+
+#### Q1 2020
+
+#### Q2 2020
+
+#### Future
  
 
 ### Team Members
@@ -70,7 +74,7 @@ Assess and update workload for remainder of sprint:
 2nd Thursday of every sprint   
 1-hour 
 
-### **Issue Etiquette**
+### Issue Etiquette
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
   * Estimate
   * Title that explains task
@@ -83,7 +87,7 @@ All work should be validated either in staging or production, as defined by the 
 
 If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 
-### **Estimation**
+### Estimation
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, level of effort (LOE), and complexity.
 
  1 - Easy task, work is known, can be executed quickly   
@@ -92,7 +96,7 @@ Estimation is not based on how long something will take to complete, but is rath
  5 - Very complex, may take a full sprint or longer    
  8 - Needs to be broken down into smaller user stories      
 
-### **Team Norms**
+### Team Norms
 
   * Be respectful, both online and off
   * Show your face (Webcam) at meetings / calls
@@ -115,5 +119,3 @@ Extra time? Explore the "Ready" column in ZenHub.
 [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design)
 
 [Product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/product-management)
-
-
