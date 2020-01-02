@@ -58,8 +58,11 @@ This research is to bring stakeholder and SME knowledge into the mix as well as 
   - [Participant 10 - Hearing Aid Batteries / Compression Socks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p10.md)
   - [Participant 11 - Hearing Aid Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/notes/p11.md)
 - Synthesis Artifacts
+  - [Personas](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/personas.md)
 - Research, IA, and Content Consultation Notes
 - Discovery Readout
+  - [Discovery readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-readout.md) 
+  - Discovery readout presentation deck (TBD)
 
 #### Engineering
 - Technical Review Commentary
