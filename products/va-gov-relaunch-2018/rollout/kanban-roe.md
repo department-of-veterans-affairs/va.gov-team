@@ -4,7 +4,6 @@
 
 **We are working toward the singular mission of successfully launching VA.gov.** To enable us to get us there most quickly and efficiently, we're moving to Kanban style implementation.
 
-Here's the [Kanban board](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/boards?labels=brand-consolidation&activeFilters=labels&repos=31788863).
 
 ## Global Norms
 
@@ -43,7 +42,7 @@ Here's the [Kanban board](https://app.zenhub.com/workspace/o/department-of-veter
 - Add labels:
   - `brand-consolidation`
   - Type: `technical` `organizational` or `social` - [type descriptions](#how-to-determine-type)
-  - **Specifically for usability adjustments or [bugs](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Product%20Management/wbc-bug-template.md)**
+  - **Specifically for usability adjustments or [bugs]()**
     - C1. `bug`
     - C2. Your suggested priority/severity: `sev 1`, `sev 2`, or `sev 3`) - [severity descriptions](#how-to-measure-severity)
 - If you believe you need to specifically advocate for the criticality of a given issue, please slack Rachael and Chris for awareness.
