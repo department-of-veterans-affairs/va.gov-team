@@ -1,15 +1,12 @@
 # Authenticated Experience Team Charter
 
-###  North Star
+##  North Star
 Deliver self-service tools on par with top private sector companies, and have the best online experience in the federal government
- 
-## Product Line 
-Authenticated Experience
 
-### Mission Statement:
+## Mission Statement:
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
-### Product Portfolio:
+## Product Portfolio:
 
 *	Dashboard
 *	Profile
@@ -19,36 +16,34 @@ Help users accomplish tasks more easily by leveraging what we know about them as
 * In Content Personalization
 *	Others
 
-### Responsibilities:
+## Responsibilities:
 Increase Veteran, Caregivers, Dependents, and others easy access to the benefits they deserve.
 
-### Roadmap
+## Roadmap
 
-#### Q4 2019
+### Q4 2019
 
-#### Q1 2020
+### Q1 2020
 
-#### Q2 2020
+### Q2 2020
 
-#### Future
- 
+### Future
 
-### Team Members
+## Team Members
 
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
-|DSVA Product Manager   |Lisa Koenigsberg
+|DSVA team lead         |Samara Strauss
 |Team Product Manager   |Justin Pickett
 |Front-End Engineer     |Erik Hansen
-|Front-End Engineer     |Amen Ra
+|Front-End Engineer     |Brad Conley
 |Back-End Engineer      |Lihan Li
-|DSVA Designer Lead     |Samara Strauss
+|Designer/Researcher    |Tressa Furner
 |Designer/Researcher    |Arthur Green
 
+## Workflow + Cadence
 
-### **Workflow + Cadence**
-
-**Stand-up: people & product check-ins**  
+### Stand-up: people & product check-ins
 Daily @ 3pm ET (except Tuesdays) 
 20-25 min  
 Format:  
@@ -58,18 +53,17 @@ Format:
 4. Any impediments?
 5. Recap
 
-
-**Sprint Planning**  
+### Sprint Planning
 Outline team and member focus, goals for sprint:  
 1st Wednesday of every sprint  
 1-2 hour(s) 
 
-**Retro**   
+### Retro
 Review accomplishments from prior sprint, what went well, areas for improvement, what to start doing:   
 2nd Tuesday of every sprint   
 30 min
 
-**Grooming**  
+### Grooming
 Assess and update workload for remainder of sprint:  
 2nd Thursday of every sprint   
 1-hour 
