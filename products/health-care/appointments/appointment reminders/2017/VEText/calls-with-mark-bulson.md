@@ -1,5 +1,5 @@
 ## Calls with Mark Bulson, Contracting SME, VHA Innovation Program
-*Outstanding questions and Action Items moved [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/Scheduling/Appointment%20Reminders/VEText/Project%20Notes.md)*
+*Outstanding questions and Action Items moved [here]()*
 
 ### 9th November 2017: Marvo, Mark
 
