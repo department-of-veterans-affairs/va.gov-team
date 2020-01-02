@@ -7,5 +7,5 @@ Appointments data is available from HDR project's Pathways webservice.
 https://hdrclucds-qi.fo-slc.med.va.gov/repositories.med.va.gov/pathways?wsdl
  
 Please use the SoapUI test Appointments-APPOINTMENTS_SINGLE_PATIENT_FILTER to execute read calls.
-![ViewApptSOAP](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/ViewAppointments/ExampleRequest/ViewApptSOAP.png)
+![ViewApptSOAP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/engineering/2017/view-appointments/viewapptsoap.png)
  
