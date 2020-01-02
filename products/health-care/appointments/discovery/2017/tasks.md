@@ -36,7 +36,7 @@ Scheduling Update v1 (20171031)
 - [ ] Update content for [VA appointments link page](https://www.ebenefits.va.gov/ebenefits/about/feature?feature=my-healthevet-appointment-scheduling) for non-logged-in users.  
 
 ### vets.gov
-- [x] Write content for new Vets.gov page https://github.com/department-of-veterans-affairs/vets.gov-team/issues/5014
+- [x] Write content for new Vets.gov page 
 - [ ] Reconnect existing scheduling content---[Where You Get Care](https://www.vets.gov/health-care/about-va-health-care/where-you-get-care/) and [Your Care Team](https://www.vets.gov/health-care/about-va-health-care/your-care-team/) to new vets.gov scheduling page. 
 - [ ] Add link on facility finder to scheduling page. (LT goal: incorporate scheduling #s and VAR links into facility finder)
 - [x] Improve SEO of new vets.gov page - see below. 
