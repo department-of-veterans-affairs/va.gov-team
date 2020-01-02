@@ -148,8 +148,8 @@ To the best of our ability, this sprint's objective is to make sure all existing
 (Only move onto this work if all FE work is done for APO/FPO/DPO and address validation)
 
 - [KEYBOARD]: Text Appointments - Focus must return to Edit button when modal dialog is closed #2427
-- [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog#2430
-- [ZOOM]: Text Appointments - Need a space between input and label in modal window#2435
+- [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
+- [ZOOM]: Text Appointments - Need a space between input and label in modal window #2435
 
 ## Sprint 13 (1/15 - 1/28)
 
