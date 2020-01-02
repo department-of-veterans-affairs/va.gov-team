@@ -13,6 +13,7 @@ When viewing my Dependents:
 
 When modifying my Dependents generally:
 - I can understand whether I have a current claim in progress, and can continue or delete that claim
+- I can view a PDF of the filled forms in progress
 - I can verify my pre-filled contact information
 - I can add or update contact information that is missing or incorrect
 - I can verify my bank information for Direct Deposit payments
