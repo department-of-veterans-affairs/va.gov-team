@@ -1,8 +1,6 @@
 # Overview
 As part of the VA Web Brand Consolidation effort, all Veteran Facing Tools (VFT) that are not health related (i.e. not to be hosted by My HealtheVet) will be migrated from Vets.gov to VA.gov. In doing so, we need to ensure that users who are accessing VA.gov have been logged in with the proper account types in order to access the VFT.
 
-Details for health tools: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/SSO/%5B%2311505%5D%20VA.gov%20MHV%20SSO%20Matrix.md
-
 # Design
 CTA designs are here: https://adhoc.invisionapp.com/share/MUOC4SMW8SG#/screens/322898547_TOC
 
