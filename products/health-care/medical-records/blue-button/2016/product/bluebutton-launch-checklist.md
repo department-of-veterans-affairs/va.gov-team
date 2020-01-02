@@ -4,7 +4,7 @@ This is a set of actions for product teams to complete both prior to the launch 
 
 This is a master checklist meant to be tailored for each product by each product lead.  
 
-Teams should be using this checklist after [discovery](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Research/Discovery/readme.md) for planning purposes. 
+Teams should be using this checklist after [discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/README.md) for planning purposes. 
 
 - [ ] Send signed charter to stakeholders, including Call Center POC (Brenda Torres-Hill and Sylvia Palmer) and Kelly O. for PM purposes
 - [ ] Identify users required to participate in end-to-end testing; set expectations for time commitment and role
