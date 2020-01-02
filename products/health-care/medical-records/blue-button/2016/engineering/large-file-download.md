@@ -3,7 +3,6 @@ This document describes testing and analysis of how the vets.gov infrastructure 
 
 This document is focused on the analysis of downloading a single large health record file, in order to support this feature with a soft launch at low user counts. We will discuss the issues of supporting all health record downloads at MHV's current level of traffic in a separate document.
 
-[AWS Environment Reference](/Products/Core Platform/Performance and Load Testing/Environment Overview.md)
 
 ## Problem Description
 MHV provides an API allowing a user to request a refresh of their health records, and then download the records as either a PDF or text file. (For reference, API path is `/mhv-api/patient/v1/bluebutton/bbreport/{pdf,txt}`)
@@ -16,7 +15,7 @@ Unlike most vets-api API responses where a typical payload is on the order of 1-
 
 It's not clear how MHV generated these statistics to say how to interpret the standard deviation figure, since file sizes generally do not follow a normal distribution. In any case, even the average download size is a couple orders of magnitude greater than a typical vets-api response payload, and we should definitely expect frequent responses on the order of several megabytes. We also want to be confident that the maximum-size download, even if rare, will not affect the overall performance or stability of vets.gov
 
-We investigated the behavior of MHV's API endpoint in [this issue](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/1197). The main points of interest are that PDFs are returned via a chunked transfer encoding with a chunk size of 8kB, and that it is possible to request the content be compressed using the Accept-Encoding request header. There does not appear to be support for partial downloads.
+We investigated the behavior of MHV's API endpoint. The main points of interest are that PDFs are returned via a chunked transfer encoding with a chunk size of 8kB, and that it is possible to request the content be compressed using the Accept-Encoding request header. There does not appear to be support for partial downloads.
 
 ## Test Setup
 - Implemented a [mock health records API](https://github.com/department-of-veterans-affairs/mock-health-records-api). The mock API responds with the same chunked encoding as the MHV API endpoint. You can drop PDF or text files of varying sizes into the mock API's content directory and it will serve them up randomly for each API request.
@@ -35,10 +34,10 @@ We investigated the behavior of MHV's API endpoint in [this issue](https://githu
 ### Iteration 1: Baseline
 Without any changes to baseline implementation or configuration:
 - The entire response is buffered by vets-api. The current health records implementation uses a Faraday client to get the health record from MHV, then passes the response object back to the controller where it can be returned to the user. This can be observed as a jump in the memory utilization of the vets-api instance (which is otherwise lightly-loaded) for each health record download. The memory utilization does seem to level off after a number of repeated downloads, probably because we hit a threshold where Ruby is collecting memory more aggresively. 
-![app server memory buffering](healthrec_vets_api_buffering.png)
+![app server memory buffering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-vets-api-buffering.png)
 
 - The reverse proxy also buffers the entire response. In this case the response is not stored in nginx's memory, but instead written to a temporary location on disk, as evidenced by a noticeable jump in disk I/O.
-![reverse proxy disk buffering](healthrec_revproxy_disk_buffering.png)
+![reverse proxy disk buffering](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-revproxy-disk-buffering.png)
 
 - Timing-wise, the transfer from mock API to vets-api takes place at whatever speed we configure Toxiproxy to allow (we do not have data about sustained download speeds from MHV via the AWS-VA VPN). The transfer between vets-api -> ELB -> reverse proxy is extremely fast since it's all within AWS's network. The download from reverse proxy (via CSR) is limited by the user's bandwidth. In this testing my typical cable modem connection was sustaining a download rate in the neighborhood of 300-500kbit/s.
 
@@ -47,26 +46,26 @@ Without any changes to baseline implementation or configuration:
 ### Iteration 2: Disable nginx buffering
 Next we eliminated nginx's buffering with the `proxy_buffering off;` directive applied to the health records endpoint.
 - As expected the disk I/O spike on the reverse proxy disappears. A comparison of `bytes received` vs. `bytes transmitted` on the reverse proxy shows that it is pulling the data from upstream at the same rate as it is sending it to the user (whereas with buffering in place, you'd see an almost instantaneous receive from upstream followed by a slow transmit downstream).
-![reverse proxy network bytes received](healthrec_revproxy_rcv_nobuffer.png)
-![reverse proxy network bytes transmitted](healthrec_revproxy_tx_nobuffer.png)
+![reverse proxy network bytes received](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-revproxy-rcv-nobuffer.png)
+![reverse proxy network bytes transmitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-revproxy-tx-nobuffer.png)
 
 - Surprisingly, the `bytes received` of the reverse proxy did _not_ match the `bytes transmitted` of the vets-api instance. Instead vets-api is transmitting the data almost instantaneously. This result surprised us since it indicates that something between those instances must be buffering data. The only thing between those instances is the AWS elastic load balancer (ELB). Documentation is vague but indicates that ELBs _may_ buffer data. In this case it is clear that they are buffering the entire 90MB response payload.
-![app server network bytes transmitted](healthrec_vets_api_tx_fast.png)
-![reverse proxy network bytes received](healthrec_revproxy_rcv_nobuffer.png)
+![app server network bytes transmitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-vets-api-tx-fast.png)
+![reverse proxy network bytes received](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-revproxy-rcv-nobuffer.png)
 
 ### Iteration 3: Investigate ELB buffering
 - There are no configuration levers to control ELB buffering behavior. We did try changing the vets-api load balancer from using an HTTP (layer 7) listener to using a TCP (layer 4) listener. This had no effect, and the relative transmit/receive curves looked the same as before.
 
 - We did try bypassing the ELB entirely, configuring the reverse proxy to point directly at a vets-api instance. In this case you see the `bytes received` by the reverse proxy match the `bytes transmitted` by vets-api. 
-![app server network bytes transmitted - no elb](healthrec_vets_api_tx_noelb.png)
-![reverse proxy network bytes received - no elb](healthrec_revproxy_rcv_noelb.png)
+![app server network bytes transmitted - no elb](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-vets-api-tx-noelb.png)
+![reverse proxy network bytes received - no elb](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-revproxy-rcv-noelb.png)
 
 ### Iteration 4: Streaming vets-api Implementation
-- Implemented a [non-buffering MHV client](Streaming Implementation Notes.md) in vets-api. With this in place the input and output throughput of the vets-api instance match exactly, indicating that the ruby process is passing along chunks as they are received. In practice we still see a memory spike in the ruby process since it is opportunistically using available server memory, but the key is that the process is not obligated by design to store the entire content in memory at any given time.
+- Implemented a [non-buffering MHV client](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/streaming-implementation-notes.md) in vets-api. With this in place the input and output throughput of the vets-api instance match exactly, indicating that the ruby process is passing along chunks as they are received. In practice we still see a memory spike in the ruby process since it is opportunistically using available server memory, but the key is that the process is not obligated by design to store the entire content in memory at any given time.
 
 The bytes transmitted/received curves at the right of these graphs demonstrate the correctly-implemented streaming implementation:
-![app server network bytes received](healthrec_streaming_vets_api_rx.png)
-![app server network bytes transmitted](healthrec_streaming_vets_api_tx.png)
+![app server network bytes received](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-streaming-vets-api-rx.png)
+![app server network bytes transmitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-streaming-vets-api-tx.png)
 
 ### Iteration 5: End-to-end download from MHV
 - MHV team staged a large (~87 MB) file on their development server. The file is binary gibberish but is served using the same chunking approach as the actual health record download endpoint. We hacked the health record client to retrieve this static file instead of making the usual pdf download API request.
@@ -83,7 +82,7 @@ The bytes transmitted/received curves at the right of these graphs demonstrate t
 - Very informally measured (reading off `Dload Speed` from curl and/or looking at the vets-api log file to see request processing time), we saw throughput of 2-4.5 MiB per second from our dev environment to MHV. So approximately 20-45 seconds for the staged 87 MB file.
 
 - _Grain of salt: CSR throughput measurement via AWS CloudWatch is pretty coarse and we have not validated these values against the more accurate values present in the CSR console._ The below graph shows input/output throughput measured at the lone dev environment CSR. The bandwidth spikes are attributable to multiple _sequential_ attempts at retrieving the staged MHV file (spikes on the left were curl requests from vets-api instance; spikes on the right were end-to-end downloads). Provisionally, it looks like a single download will consume a significant percentage of our total available bandwidth, albeit for a short amount of time. A gross analysis of the overall throughput requirements for all MHV traffic is presented separately.
-![CSR throughput](healthrec_csr_throughput.png)
+![CSR throughput](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/medical-records/blue-button/2016/engineering/healthrec-csr-throughput.png)
 
 ## Recommendations
 1. ~~We need to verify the behavior of large file downloads across our VPN tunnel, especially since the CSR's behavior upon exceeding the licensed bandwidth limit is to start dropping packets. In particular, is a transfer of a single 90MB file enough to exceed the bandwidth limit? If so we will have to consider some more sophisticated traffic shaping than the traffic dumping that the CSR does.~~
