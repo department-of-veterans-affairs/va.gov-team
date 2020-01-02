@@ -61,8 +61,8 @@ We will run a pilot session January 14th.
 - Participant recruiting & screening:	Perigeon
 - Project point of contact:	Jonathan Nelson (jonathan.nelson@adhocteam.us) and Shawna Hein (shawna@adhocteam.us, 530 277 4925)
 - Participant(s) for pilot test:	
-- Note-takers:	Alayna Abel, Jonathan Nelson, Shawna Hein
-- Observers:	CC Gong (cc.gong@va.gov), Justin Linn (jlinn@governmentcio.com), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov)
+- Note-takers:	Alayna Abel, Patrick Sanders?, Jonathan Nelson, Shawna Hein
+- Observers:	CC Gong (cc.gong@va.gov), Justin Linn (jlinn@governmentcio.com), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov, Patrick Sanders (psanders@governmentcio.com)
 
 ## Resources	
 - Project Brief: 	
