@@ -65,14 +65,16 @@ http://grafana.vfs.va.gov/d/000000026/application-request-breakdown?orgId=1&full
 * [HaProxy HTTP Total Time Average (seconds) per Backend](
 http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?from=now-3h&to=now&fullscreen&edit&panelId=12)
 
+
 #### Breakers (Service up) - 30 day average
 * [Service Up (Average)](http://grafana.vfs.va.gov/d/000000022/breakers?orgId=1&fullscreen&panelId=1&from=now-2d&to=now&var-data_source=Prometheus%20(Production)&var-service=All&var-endpoint=All) - This will be useful for the product tool 
 
 #### WIP Histogram Quantile Graph
 * [95% of request times are served within](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?orgId=1)
 
-#### WIP Latency Averages (still need to split up by endpoint)
+#### Latency Averages (still need to split up by endpoint)
 * [Current Averages/External service](http://grafana.vfs.va.gov/d/Dp_Z5xfWk/backend-service-report-copy-request-timing?orgId=1&from=now-5m&to=now&var-service=EVSS%2FCommon&var-service=EVSS%2FDocuments&var-service=Search%2FResults)
+* [Request Time Averages Per External Service and Enpoint](http://grafana.vfs.va.gov/d/lG2hMgBZk/http-request-timing?orgId=1&fullscreen&panelId=18)
 
 
 ### External Service SLOs for request times (per service)
