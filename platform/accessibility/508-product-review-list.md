@@ -33,6 +33,9 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Profile Direct Deposit Feature](#profile-direct-deposit-feature)
     * [GI Bill Comparison Tool Colmery 107 Feature](#gi-bill-comparison-tool-colmery-107-feature)
     * [Profile Appointment Text Messages](#profile-appointment-text-messages)
+    * [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
+    * [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
+    * [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -375,7 +378,7 @@ Each application or logical section of the site will have a heading and a detail
 **Audit Status:** First audit completed by VSP Product Support Team October 2019<br/>
 **[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22By+Light%22+label%3A508%2FAccessibility+is%3Aclosed)**
 
-#### Open issues
+#### Open issues being redesigned
 
 * [[KEYBOARD]: Text Appointments - Focus must return to Edit button when modal dialog is closed - #2427](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2427)<br/>
 **Opened:** October 14, 2019 | **Severity:** 508-defect-2
@@ -416,9 +419,59 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### GI Bill Comparison Tool School Certifying Official Documentation
 
-| TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
-| ------------- | ---|-------------| -----|
-GI Bill Comparison Tool® School Certifying Official Documentation | VSP | First audit completed by VSP Product Support Team November 2019<br/><br/>Request sent to VA 508 Office November 2019 | **Open issues:**<br/> [#3869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3869), [#3917](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3917), [#3918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3918), [#3919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3919) |
-| GI Bill Comparison Tool® Forever GI Bill Section 116 | VSP | First audit completed by VSP Product Support Team November 2019<br/><br/>Request sent to VA 508 Office November 2019 | **Design discussion:**<br/> [#3536](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3536)<br/><br/>**Open issues:**<br/> [#3538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3538), [#3756](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3756), [#3758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3758), [#3835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3835) <br/><br/>**Closed issues:**<br/>[#3537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3540), [#3540](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3540), [#3571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3571), [#3542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3542) |
-| _Project name_ | _VSA or VSP_ | _Audit status, team, and date_ | **Open issues:**<br/>_Linked by number_|
+**Maintainer:** VSP<br/>
+**Audit Status:** First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019.<br/>
+
+#### Open issues
+
+* [[DOCUMENT] GIBCT SCO - Lists are not picked up correctly by screen readers in Section 305 PDF - #3869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3869)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+* [[DOCUMENT]: GIBCT SCO - VA ONCE PDF is not navigable with keyboard or JAWS screen reader - #3917](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3917)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+* [[DOCUMENT]: GIBCT SCO - Dear SCO letter images need alt text - #3918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3918)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+* [[DOCUMENT]: GIBCT SCO - VA ONCE PDF logo needs alt text - #3919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3919)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+
+---
+
+### GI Bill Comparison Tool Forever GI Bill Section 116
+
+**Maintainer:** VSP<br/>
+**Audit Status:** First audit completed by VSP Product Support Team November 2019. Request sent to VA 508 Office November 2019.<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Abah-ct-116+label%3A508%2FAccessibility+is%3Aclosed)**
+
+#### Open issues
+
+* [[DOCUMENT]: GIBCT Section 116 - Excel document has merged cells that could cause accessibility issues - #3835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3835)<br/>
+**Opened:** November 28, 2019 | **Severity:** 508-defect-1
+* [[COGNITION]: GIBCT Section 116 - Estimated benefits should be calculated on button press, not form control change - #3536](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3536)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+* [[DOCUMENT]: GIBCT Section 116 - Excel document uses color as the only means to convey intent - #3756](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3756)<br/>
+**Opened:** November 26, 2019 | **Severity:** 508-defect-2
+* [[DOCUMENT]: GIBCT Section 116 - Excel document has color contrast issues that could be improved - #3758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3758)<br/>
+**Opened:** November 26, 2019 | **Severity:** 508-defect-2
+* [[COGNITION]: GIBCT Section 116 - VoiceOver is spelling out some all caps text instead of reading it - #3538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3538)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-4
+
+---
+
+### New Project Name
+
+**Maintainer:** _VSA or VSP_<br/>
+**Audit status:** _Audit status, team, and date_<br/>
+**Closed issues:** _Create a reusable search link by filtering va.gov-team issues:_
+
+ 1. Click the [Issues tab](https://github.com/department-of-veterans-affairs/va.gov-team/issues)
+ 1. Click the `<NUMBER> Closed` link to switch to closed issues
+ 1. Click the `Label` dropdown. Select the `Your Application` label, and the `508/Accessibility` label.
+ 1. Change the **Closed issues** text into a link. [Learn how to create links in Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). This link will give you a current, filtered list of closed accessibility issues for your application.
+
+#### Open issues
+
+* _Create a link from the issue title and issue number. Use the format `Issue Title - # Issue Number`_ <br/>
+**Opened:** _Date issue ticket was written_ | **Severity:** _Issue severity based on the [accessibility defect rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/GUIDANCE-severity-rubric.md)_
+
+---
