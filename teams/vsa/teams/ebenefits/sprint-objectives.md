@@ -13,7 +13,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```diff 
 - TBD
 ```
-### 1. Prepare "View My Rated Disabilities" for Launch
+### 1. Prepare "Your VA disability ratings" for Launch
 - Complete and implement final reviews and changes required to launch (508 {staging})
 - Develop and docuemnt in GH plan for moderated user acceptance testing 
 - Review the launch checklist and document any remaining gaps for launch procedures  
