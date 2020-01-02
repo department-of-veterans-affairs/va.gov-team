@@ -22,6 +22,11 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [GI Bill Comparison Tool](#gi-bill-comparison-tool)
     * [Claim and Appeal Status](#claim-and-appeal-status)
     * [Apply for Pre-need Burial](#apply-for-pre-need-burial)
+    * [GI Bill Comparison Tool VET TEC](#gi-bill-comparison-tool-vet-tec)
+    * [Local Side Navigation](#local-side-navigation)
+    * [Edu 1990](#edu-1990)
+    * [Edu 1990e](#edu-1990e)
+    * [Edu 1990n](#edu-1990n)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -253,14 +258,54 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### GI Bill Comparison Tool VET TEC
+
+**Maintainer:** VSP<br/>
+**Audit Status:** Audited by VSP Product Support Team August 2019<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Abah-comparisontool+label%3A508%2FAccessibility+is%3Aclosed)**
+
+#### Open issues
+
+* [[SCREENREADER]: GIBCT® VETTEC - Can we move the Learn more buttons out of the label tags? - #1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/>
+**Opened:** June 18, 2019 | **Severity:** 508-defect-2
+
+---
+
+### Local Side Navigation
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Completed June 2017<br/>
+**No open issues**
+
+---
+
+### Edu 1990
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Completed June 2017<br/>
+**No open issues**
+
+---
+
+### Edu 1990e
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Completed June 2017<br/>
+**No open issues**
+
+---
+
+### Edu 1990n
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Completed June 2017<br/>
+**No open issues**
+
+---
+
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| GI Bill Comparison Tool® VET TEC | VSP | https://staging.va.gov/gi-bill-comparison-tool/<br/>Audited by VSP Product Support Team August 2019 | **Open issues:**<br/>[#1251](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1251)<br/><br/>**Closed issues:**<br/>[#1256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1256), [#1257](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1257), [#1253](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1253), [#1252](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1252) |
-| Local side nav | Completed June 2017 | VSA | No issues! || Local side nav | Complete 6/2017 | No issues! |
-| Edu 1990 | VSA | Completed June 2017 | No issues! |
-| Edu 1990e | VSA | Completed June 2017 | No issues! |
-| Edu 1990n | VSA | Completed June 2017 | No issues! |
 |526 PTSD | VSA | https://staging.va.gov/disability-benefits/apply/form-526-all-claims/new-disabilities/ptsd-781a-additional-changes | **Open issues:**<br/>[#1086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1086)<br/><br/>**Closed issues:**<br/>[#1087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1087) |
 | Outreach &amp; Events | VSA | https://staging.va.gov/outreach-and-events/<br/>Audited by VSP Product Support Team August 2019 | **Open issues:**<br/> [#981](https://github.com/department-of-veterans-affairs/va.gov-team/issues/981)<br/><br/>**Closed issues:**<br/>[#991](https://github.com/department-of-veterans-affairs/va.gov-team/issues/991), [#984](https://github.com/department-of-veterans-affairs/va.gov-team/issues/984) |
 | Education 1995 STEM Update | VSP | https://staging.va.gov/education/apply-for-education-benefits/application/1995/introduction<br/><br/>Audited by VSP Product Support Team August 2019<br/><br/>Sent to VA 508 Office September 2019. | **Passed VA 508 audit!**<br/><br/>**Closed issues:**<br/> [#762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/762), [#764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/764), [#768](https://github.com/department-of-veterans-affairs/va.gov-team/issues/768), [#830](https://github.com/department-of-veterans-affairs/va.gov-team/issues/830) |
