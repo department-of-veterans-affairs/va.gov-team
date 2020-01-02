@@ -465,7 +465,7 @@ Each application or logical section of the site will have a heading and a detail
 **Audit status:** _Audit status, team, and date_<br/>
 **Closed issues:** _Create a reusable search link by filtering va.gov-team issues:_
 
- 1. Click the [Issues tab](https://github.com/department-of-veterans-affairs/va.gov-team/issues)
+ 1. Click the [Issues tab](https://github.com/department-of-veterans-affairs/va.gov-team/issues) on the va.gov-team repository
  1. Click the `<NUMBER> Closed` link to switch to closed issues
  1. Click the `Label` dropdown. Select the `Your Application` label, and the `508/Accessibility` label.
  1. Change the **Closed issues** text into a link. [Learn how to create links in Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). This link will give you a current, filtered list of closed accessibility issues for your application.
