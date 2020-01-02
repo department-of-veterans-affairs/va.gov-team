@@ -92,12 +92,7 @@ Each application or logical section of the site will have a heading and a detail
 
 * [Change Community Care service field labels and typeahead - #3049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049)<br/>
 **Opened:** July 8, 2019 | **Severity:** 508-defect-1
-* [[KEYBOARD]: Map needs explicit instructions and keyboard controls that don't interfere with assistive devices - #514](https://github.com/department-of-veterans-affairs/va.gov-team/issues/514)<br/>
-**Opened:** July 8, 2019 | **Severity:** 508-defect-1
-* [[KEYBOARD]: Community Care Service Type does not warn users when field is reset because search did not match a term - #489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/489)<br/>
-**Opened:** July 8, 2019 | **Severity:** 508-defect-1
-* [[SCREENREADER]: Facility locator is not announcing the current page when there are more than one page of results - #713](https://github.com/department-of-veterans-affairs/va.gov-team/issues/713)<br/>
-**Opened:** July 26, 2019 | **Severity:** 508-defect-2
+
 * [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
 **Opened:** July 10, 2019 | **Severity:** 508-defect-2
 * [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
