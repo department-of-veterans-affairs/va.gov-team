@@ -14,5 +14,3 @@ Let me know if you have any questions/issues with any of those steps or any feed
 
 ### Feedback?
 Design feedback should go in Slack in #vetsgov-health, tagging @angel.
-
-Bugs for should go in vets.gov-team: https://github.com/department-of-veterans-affairs/vets.gov-team/issues
