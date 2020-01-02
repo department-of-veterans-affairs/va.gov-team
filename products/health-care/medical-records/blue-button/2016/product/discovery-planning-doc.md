@@ -13,8 +13,8 @@
      - Theresa Hancock is the Primary Stakeholder
      - Users can download and view files in .pdf or .txt
      - Users can select date range of data to download
-     - Users can select the information to download- Details:  https://github.com/department-of-veterans-affairs/kudos-team/issues/306
-     - Currently LOA3 users are only able to view and download health information in addition to self entered data:  https://github.com/department-of-veterans-affairs/kudos-team/issues/304
+     - Users can select the information to download
+     - Currently LOA3 users are only able to view and download health information in addition to self entered data
      - Users have the ability to download self entered medical data 
      
 - What don’t we know? 
@@ -29,10 +29,10 @@
 - How are we going to find out answers?
      - Need to identify people to talk to
           - 1. MHV side: Carnetta S.(main POC), Theresa (lead of MHV)
-          - 2. MHV Coordinators- potential questions:  https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Discovery/sample%20stakeholder%20interview.md
+          - 2. MHV Coordinators- potential questions
           - 3. Dr. Nazi, who Carnetta says knows a lot about BB and possibly the functionality that has been built but not live.  Also may know about images.
           - 4. Ken Graham, MHV API Lead and John Brekke, OIT PM
-          - 5. Veterans - potential questions:  https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Discovery/sample%20stakeholder%20interview.md
+          - 5. Veterans - potential questions
           
 ## Team 
 
