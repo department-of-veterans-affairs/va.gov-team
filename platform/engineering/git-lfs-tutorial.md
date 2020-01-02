@@ -35,6 +35,7 @@
   * The larger the repo, the less feasible it is to clone the repo over a slower network (coffee shop/hotspot/EDGE/etc).
   * The larger the repo, the more likely you are to need to delete files/folders from your computer to make room for the repo.
 ### **How** do we use it? 
+  ![image](https://user-images.githubusercontent.com/6130520/71680227-2aaf0180-2d4f-11ea-9a83-973829e80ebe.png)
   1. Run `git lfs install` to install Git LFS in the repo
   1. Specify which file types you'd like to track
      * Option 1: Run `git lfs track "*.{EXTENSION}"` (for example: `git lfs track "*.psd"`)
