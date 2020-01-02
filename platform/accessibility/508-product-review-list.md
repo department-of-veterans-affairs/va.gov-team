@@ -92,7 +92,6 @@ Each application or logical section of the site will have a heading and a detail
 
 * [Change Community Care service field labels and typeahead - #3049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049)<br/>
 **Opened:** July 8, 2019 | **Severity:** 508-defect-1
-
 * [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
 **Opened:** July 10, 2019 | **Severity:** 508-defect-2
 * [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
@@ -110,7 +109,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open Issues
 
-* [[COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? - #1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049)<br/>
+* [[COGNITION]: Disability Calculator - Can we mention the expected data format in on-page instructions? - #1045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1045)<br/>
 **Opened:** August 16, 2019 | **Severity:** 508-defect-2
 
 ---
