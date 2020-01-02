@@ -31,6 +31,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Outreach and Events](#outreach-and-events)
     * [Education 1995 STEM Update](#education-1995-stem-update)
     * [Profile Direct Deposit Feature](#profile-direct-deposit-feature)
+    * [GI Bill Comparison Tool Colmery 107 Feature](#gi-bill-comparison-tool-colmery-107-feature)
+    * [Profile Appointment Text Messages](#profile-appointment-text-messages)
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
@@ -357,12 +359,66 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### GI Bill Comparison Tool Colmery 107 Feature
+
+**Maintainer:** VSP<br/>
+**Audit Status:** Audited by VSP Product Support Team September 2019. Request sent to VA 508 Office October 2019.<br/>
+**No open issues**<br/>
+**[Test application](https://staging.va.gov/gi-bill-comparison-tool/)**<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Abah-ct-107+is%3Aclosed+label%3A508%2FAccessibility)**
+
+---
+
+### Profile Appointment Text Messages
+
+**Maintainer:** VSA<br/>
+**Audit Status:** First audit completed by VSP Product Support Team October 2019<br/>
+**[Closed issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A%22By+Light%22+label%3A508%2FAccessibility+is%3Aclosed)**
+
+#### Open issues
+
+* [[KEYBOARD]: Text Appointments - Focus must return to Edit button when modal dialog is closed - #2427](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2427)<br/>
+**Opened:** October 14, 2019 | **Severity:** 508-defect-2
+* [[KEYBOARD]: Text Appointments - Skip link targets need tabindex -1 for IE11 to behave properly - #2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429)<br/>
+**Opened:** October 14, 2019 | **Severity:** 508-defect-2
+* [[SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog - #2430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2430)<br/>
+**Opened:** October 14, 2019 | **Severity:** 508-defect-2
+* [[ZOOM]: Text Appointments - Need a space between input and label in modal window - #2435](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2435)<br/>
+**Opened:** October 14, 2019 | **Severity:** 508-defect-3
+* [[COGNITION]: Text Appointments - Edit buttons would benefit from aria-labels - #2440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2440)<br/>
+**Opened:** October 14, 2019 | **Severity:** 508-defect-3
+
+---
+
+### Pittsburgh Side Navigation (CMS)
+
+**Maintainer:** VSA<br/>
+**Audit Status:** First audit completed by VSA November 2019<br/>
+
+#### Open issues
+
+* [[KEYBOARD]: Ensure content structure may be navigated by tab order - #3552](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3552)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-1
+* [[COLOR]: Pittsburgh Facility - side navigation hover style contrast is too low - #3413](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3413)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+* [[SCREENREADER]: Pittsburgh Sidenav - Sidenav headings lack semantic structure - #3441](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3441)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+* [[SCREENREADER, KEYBOARD]: The sidenav headings are read as buttons but cannot be activated - #3557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3557)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-2
+* [[COGNITION] Pittsburgh Sidenav - Links lack sufficient styling to differentiate from text - #3426](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3426)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-3
+* [[COGNITION]: Pittsburgh Sidenav - The links with accordions have two different tab stops and two different links/actions - #3445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3445)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-3
+* [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-3
+* [[COGNITION]: In mobile view or zoomed to 400%, the repetition of the sidenav accordion label takes up vertical space making it difficult to read the content in context - #3560](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3560)<br/>
+**Opened:** November 18, 2019 | **Severity:** 508-defect-3
+
+---
+
 
 | TOOL        | MAINTAINER | AUDIT STATUS          | OUTCOME  |
 | ------------- | ---|-------------| -----|
-| GI Bill Comparison Tool® Colmery 107 Feature | VSP | https://staging.va.gov/gi-bill-comparison-tool/<br/>Audited by VSP Product Support Team September 2019<br/><br/>Request sent to VA 508 Office October 2019 | **Closed issues:**<br/>[#2386](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2386), [#1646](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1646), [#1640](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1640), [#1651](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1651), [#1658](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1658), [#1647](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1647), [#1649](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1649), [#1655](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1655), [#2381](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2381), [#2387](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2387) |
-| Profile Appointment Text Messages | VSP | First audit completed by VSP Product Support Team October 2019 | **Closed issues:**<br/>[#2428](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2428), [#2433](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2433), [#2442](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2442) <br/><br/>**Account and profile merge issues:**<br/>[#2427](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2427), [#2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429), [#2430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2430), [#2435](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2435), [#2440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2440) |
-| Pittsburgh Side Navigation (CMS) | VSA | First audit completed by VSA November 2019 | **Open issues:**<br/> [#3413](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3413), [#3426](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3426), [#3441](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3441), [#3445](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3445), [#3448](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3448), [#3552](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3552), [#3557](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3557), [#3560](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/va.gov-team/issues/3560)
-| GI Bill Comparison Tool® School Certifying Official Documentation | VSP | First audit completed by VSP Product Support Team November 2019<br/><br/>Request sent to VA 508 Office November 2019 | **Open issues:**<br/> [#3869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3869), [#3917](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3917), [#3918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3918), [#3919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3919) |
+GI Bill Comparison Tool® School Certifying Official Documentation | VSP | First audit completed by VSP Product Support Team November 2019<br/><br/>Request sent to VA 508 Office November 2019 | **Open issues:**<br/> [#3869](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3869), [#3917](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3917), [#3918](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3918), [#3919](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3919) |
 | GI Bill Comparison Tool® Forever GI Bill Section 116 | VSP | First audit completed by VSP Product Support Team November 2019<br/><br/>Request sent to VA 508 Office November 2019 | **Design discussion:**<br/> [#3536](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3536)<br/><br/>**Open issues:**<br/> [#3538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3538), [#3756](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3756), [#3758](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3758), [#3835](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3835) <br/><br/>**Closed issues:**<br/>[#3537](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3540), [#3540](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3540), [#3571](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3571), [#3542](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3542) |
 | _Project name_ | _VSA or VSP_ | _Audit status, team, and date_ | **Open issues:**<br/>_Linked by number_|
