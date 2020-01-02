@@ -227,7 +227,7 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** August 23, 2019 | **Severity:** 508-defect-3
 * [[DESIGN]: GIBCT® - Consider revising See Results button placement at mobile size - #1278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1278)<br/>
 **Opened:** August 23, 2019 | **Severity:** 508-defect-3
-* [[COGNITION]: GIBCT® - Consider adding full state names to States filter menu for better context - #1259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1278)<br/>
+* [[COGNITION]: GIBCT® - Consider adding full state names to States filter menu for better context - #1259](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1259)<br/>
 **Opened:** August 23, 2019 | **Severity:** 508-defect-4
 
 ---
