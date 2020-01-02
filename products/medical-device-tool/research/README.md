@@ -62,7 +62,7 @@ This research is to bring stakeholder and SME knowledge into the mix as well as 
 - Research, IA, and Content Consultation Notes
 - Discovery Readout
   - [Discovery readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/discovery-readout.md) 
-  - Discovery readout presentation deck (TBD)
+  - [Discovery readout presentation deck](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-readout-presentation.pdf)
 
 #### Engineering
 - Technical Review Commentary
