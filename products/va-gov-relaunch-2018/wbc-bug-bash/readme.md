@@ -30,7 +30,7 @@
 
 ## Submitting Issues
 
-When you find a bug, submit an issue! Submitting an issue is easy. Once you have access to the Vets.gov-team repo on GitHub (if you don't, ask Melissa for access), go [here](https://github.com/department-of-veterans-affairs/vets.gov-team/issues/new/choose) to submit an issue. 
+When you find a bug, submit an issue! Submitting an issue is easy. Once you have access to the Vets.gov-team repo on GitHub (if you don't, ask Melissa for access), go [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new/choose) to submit an issue. 
 
 You should see something that looks like this:
 
