@@ -320,11 +320,11 @@ Ages of our test subjects ranged from 25 to 74. Most users fell in the age range
 
 ### Facilitator’s guide
 
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/discussion-guide.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2017/discussion-guide.md
 
 ### Interview transcripts
 
-https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/transcripts.md
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/transcripts.md
 
 ### Mural board documenting user pathways and observed behaviors, comments
 
