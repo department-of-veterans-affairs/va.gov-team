@@ -85,7 +85,7 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 8.	If you were actually applying for education benefits, what additional information would help you know which option you’d want to choose here?
 
-9.	What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?  
+9.	[If on the Eligibility page] What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?  
 
 Looks like we have 5-10 minutes left, so I want to pause and give my colleagues on the phone an opportunity to ask any questions they may have.
 
