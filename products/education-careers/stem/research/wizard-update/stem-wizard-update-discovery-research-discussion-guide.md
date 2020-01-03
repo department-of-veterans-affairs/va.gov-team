@@ -32,9 +32,9 @@ Thank you. Let’s start with a few questions about your degree program.
 
 **Educational background**
 
-1.	Which Educational benefits have you applied for in the past and how did you find out about each them?  
+1.	Once you were ready to start school, how did you learn about your eligibilty for educational benefits? 
 
-2.	Once you were ready to start school, how did you learn more about your eligibilty and the actual application process?
+2.  How did you learn about the actual application process?
 
 3.	What type of degree are you pursuing?
 
