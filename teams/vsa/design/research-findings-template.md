@@ -16,8 +16,6 @@ Description of method chosen
 
 Description of who was spoken to.
 
-Link to transcripts (link here)
-
 ### Research Questions
 
 Research questions here
@@ -36,3 +34,18 @@ Put together initial recommendations here based on your findings. Review with yo
 
 ## Next Steps
 Next steps here
+
+## Appendix
+### Conversation guide
+
+### Interview transcripts
+
+### Tools used for Synthesis
+e.g. mural boards, etc.  
+
+### Pages and applications used
+Link to prototypes or pages that were tested
+
+### Other supportind documents created
+e.g. user flows, personas, etc.
+
