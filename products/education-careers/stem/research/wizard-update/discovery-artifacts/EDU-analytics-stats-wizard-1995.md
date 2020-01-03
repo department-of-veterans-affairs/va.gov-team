@@ -56,3 +56,7 @@ https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w1775
 In 2019, there was an extended increase in users entering the 22-1995 funnel through the month of January.  Will that repeat in 2020? 
 
 Goal completions peaked in January and then again mid-July - mid-August.
+
+One path to access stats for How to Apply page.
+You can find avg time on page, bounce rates, and exit % here:
+https://analytics.google.com/analytics/web/#/report/content-drilldown/a50123418w177519031p184334251/_u.date00=20191101&_u.date01=20191130&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePathLevel1:~2Feducation~2F,analytics.pagePathLevel2:~2Fapply-for-education-benefits~2F
