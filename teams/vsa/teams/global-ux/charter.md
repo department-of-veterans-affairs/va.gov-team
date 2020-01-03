@@ -1,16 +1,22 @@
 _WIP_
 # VSA: Public Websites Charter
 
-## VSA North Star:
-
-**Product Line:**
-Public Websites team for VA.gov.
-
-**Mission Statement:**
+## Guideposts 
+### Public Websites Mission Statement:
 Provides Veterans, family members, caregivers, service members and other
 audiences access to vital information about VA benefits and services
 
-## Product Portfolio:
+### Public Websites Vision
+tbd
+
+### Public Websites North Star
+tbd
+
+## What we work on
+### Product Line: 
+Unauthenticated Experience  for VA.gov.
+
+### Product Portfolio:
 -	Home Page 
 -	Header / Footer 
 -	IA, Menus, Navigation 
