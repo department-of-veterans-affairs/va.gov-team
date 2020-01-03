@@ -1,12 +1,22 @@
 # Authenticated Experience Team Charter
 
-##  North Star
-Deliver self-service tools on par with top private sector companies, and have the best online experience in the federal government
 
-## Mission Statement
+## Guideposts 
+### Authenticated Experience Mission Statement:
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
-## Product Portfolio
+### Authenticated Experience Vision
+tbd
+
+### Authenticated Experience North Star
+tbd
+
+## What we work on
+
+### Product Line
+Authenticated Experience for VA.gov
+
+### Product Portfolio
 
 *	Dashboard
 *	Profile
