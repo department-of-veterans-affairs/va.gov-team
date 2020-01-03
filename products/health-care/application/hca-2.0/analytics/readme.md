@@ -16,8 +16,8 @@ Giving us good insight into
 * % of duplicates
 * Changes in total # of applications overall
 
-![alt text](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Analytics/HCAApplicationBenchmarks.png "Application Benchmarks")
-![alt text](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Analytics/HCAApplicationOverall.png "Application Overall")
+![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/analytics/hcaapplicationbenchmarks.png "Application Benchmarks")
+![alt text](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/analytics/hcaapplicationoverall.png "Application Overall")
 
 ## Takeaways
 The project sucessfully reduced the number of duplicate applicaction by as much as 75% and, as a result of authentication rule updates, also reduced the overall number of applications by ~40%.  We will continue tracking and monitoring.
