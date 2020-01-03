@@ -31,19 +31,15 @@ Thank you. Let’s start with a few questions about your degree program.
 
 **Educational background**
 
-1.	Once you were ready to start school, how did you learn about your eligibility for educational benefits? 
+1.	How did you go about applying for educational benefits? (paper form, online, worked with SCO, etc) [A bit beyond our scope, however it may help us understand their comfort level with online forms]
 
-2.  How did you learn about the actual application process?
+2.	What type of degree are you pursuing?
 
-3.	How did you go about applying for benefits? (paper form, online, worked with SCO, etc) [A bit beyond our scope, however it may help us understand their comfort level with online forms]
+3.	How far through the program are you?
 
-4.	What type of degree are you pursuing?
+4.	Approximately how many months or years of educational benefit do you have remaining?
 
-5.	How far through the program are you?
-
-6.	Approximately how many months or years of educational benefit do you have remaining?
-
-7.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
+5.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
 
 
 **Set the stage**
