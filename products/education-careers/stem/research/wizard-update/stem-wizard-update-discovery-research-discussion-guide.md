@@ -11,7 +11,7 @@ As part of this research, the VA is interested in understanding how students:
 - apply for new benefits, and
 - modify their existing benefits.
 
-This week, we are talking with GI Bill students in sessions like this to gather feedback on 1 of the pages in the Education section of the website.
+This week, we are talking with military-connected students in sessions like this to gather feedback on one of the pages in the Education section of the website.
 
 Do you have any questions before we get started?
 
