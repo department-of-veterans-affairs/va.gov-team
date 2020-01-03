@@ -4,7 +4,11 @@
 
 1. EDU reports **STEM FORM has 90% Rejection Rate**. <br>
 
-   **Ideal goal is 0% Rejection Rate**. Need to understand reasons for & numbers behind rejections to clearly identify rejection rate goals going forward.
+   **Ideal goal is 0% Rejection Rate**. Need to understand reasons for & numbers behind rejections to clearly identify rejection rate goals going forward.  
+   
+      Reasons for rejection:
+    * Not enrolled in a STEM program
+    * Not near the benefits exhaustion (6 months or less). *SIDE NOTE: We should know that they don’t have the benefit.*
 
  2. **STEM Rejections – Identify details on STEM scholarship rejections by type.<br>Counts /% of all EDU STEM applications, responses to each of the “2 of 6 education benefit” questions.**  
     * Applying for STEM Scholarship  
