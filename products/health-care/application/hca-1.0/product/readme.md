@@ -19,19 +19,19 @@ Veterans want to receive healthcare benefits that they're entitled to, but curre
 
 |Name|Role|Email|
 |----|----|-----|
-|Mark Shaughnessy|	CBO Program Manager (Primary)	|Mark.Shaughnessy@va.gov|
-|Ryan Heiman|	Member Svcs SME	|Ryan.Heiman@va.gov|
-|Angie Wilt	|NEI/ESM - Vet Point of Svc CBO	|Angela.Wilt@va.gov|
-|Theresa Thorn	|NEI/ESM - Analyst, Proj Mgmt	|Theresa.Thorn@va.gov|
-|Angel Lawrence	|HEC	|Angel.Lawrence@va.gov|
-|Bill Wigton	|ES OIT PM|	William.Wigton@va.gov|
-|Ben Williams	|Compliance & Internal Control|	Benjamin.Williams@va.gov|
+|Mark Shaughnessy|	CBO Program Manager (Primary)	|
+|Ryan Heiman|	Member Svcs SME	|
+|Angie Wilt	|NEI/ESM - Vet Point of Svc CBO	|
+|Theresa Thorn	|NEI/ESM - Analyst, Proj Mgmt	|
+|Angel Lawrence	|HEC	|
+|Bill Wigton	|ES OIT PM|
+|Ben Williams	|Compliance & Internal Control|
 |Jim Weishaar		| | |
-|Josh Faulkner	|ES Lead Eng|	Joshua.Faulkner@va.gov|
-|Mehedi Hasan | ES Developer| Mehedi.Hasan@va.gov |
-|Matt Self | DSVA Lead| matthew.self2@va.gov |
-|Samara Strauss | DSVA Designer; Dragons team lead| samara.strauss@va.gov |
-|TJ Rice | Ad Hoc Product Manager| tj@adhocteam.us |
+|Josh Faulkner	|ES Lead Eng|
+|Mehedi Hasan | ES Developer|
+|Matt Self | DSVA Lead|
+|Samara Strauss | DSVA Designer; Dragons team lead|
+|TJ Rice | Ad Hoc Product Manager|
 
 POC for ES failures/downtime are Josh and Mehedi.
 
@@ -42,7 +42,7 @@ POC for ES failures/downtime are Josh and Mehedi.
 - https://staging.va.gov/health-care/apply/application/introduction
 - To view from a logged out state, click **Start your application without signing in.**
 - To view from a logged in state, click **Sign in to start your application**.
-  - You can login with [any staging user](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Login/MVI%20Integration/reference_documents/mvi_stagingUsers_fullList.csv), or create your own account. However, **you will need to be LOA3 to view the HCA from a logged in state**.
+  - You can login with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv), or create your own account. However, **you will need to be LOA3 to view the HCA from a logged in state**.
 
 **Production**
 
@@ -52,7 +52,7 @@ POC for ES failures/downtime are Josh and Mehedi.
   - Currently, you can create your own account to login. However, **you will need to be LOA3 to view the HCA from a logged in state**.
 
 ## Narrative
-- HCA background: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/OriginalReadMe.md
+- HCA background: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-1.0/product/originalreadme.md
 ## Current Status
 
 As of May 2019, the Dragons/Personalization team is working to implement following updates to the HCA:
@@ -69,7 +69,7 @@ As of May 2019, the Dragons/Personalization team is working to implement followi
 - Users will see their health care application status on the dashboard.
 - Users who have been enrolled in VA health care will see a section to manage their health care benefits on their dashboard.
 
-For more details, please see [the full product outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/181023HCAChanges.md).
+For more details, please see [the full product outline](hhttps://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/181023hcachanges.md).
 
 ## Service Level Objectives
 
@@ -103,7 +103,7 @@ Submission is currently an entirely synchronous process:
 * Submissions failures surface under Sentry. Validation failures can be found by http://sentry.vetsgov-internal/vets-gov/platform-api-production/?query=validation%3A%22health_care_application%22 and ES submission failures with http://sentry.vetsgov-internal/vets-gov/platform-api-production/?query=url%3A%22https%3A%2F%2Fapi.vets.gov%2Fv0%2Fhealth_care_applications%22
 
 ## Error Handling 
-- Error handling can be found [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/Design/Error_Handling.md)
+- Error handling can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/design/error-handling.md)
 
 ## On Call Remediation
 * Any extended prod downtime is largely out of our control as long as we have basic connectivity with the rest of the VA network.
