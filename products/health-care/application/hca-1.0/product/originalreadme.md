@@ -10,7 +10,7 @@ Veterans apply for healthcare by filling out and submitting a form called the 10
 
 As you can imagine, this does not work well. VOA has been online since 2012, yet only about 1% of healthcare applications are submitted online. 
 
-Our goal is to create an online application that is easy to use and connects to the current/existing backend system and back-office process (referred to as the Enrollment System). [More on the Enrollment System here] (https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/Discovery/EnrollmentSystem)
+Our goal is to create an online application that is easy to use and connects to the current/existing backend system and back-office process (referred to as the Enrollment System). [More on the Enrollment System here] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/hca-1.0/product/enrollment-system)
 
 # Goals
 
@@ -92,7 +92,7 @@ Because:
 ### Why did they do this in Adobe to begin with?
 Because they made the decision back when Adobe was the default PDF reader. Technology changed, and the VA did not change with it. 
 
-[See Issue Brief for more on what is wrong with this thing] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/Leadership-Briefs/IssueBrief-Dec.md)
+[See Issue Brief for more on what is wrong with this thing] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-1.0/product/leadership-briefs/issuebrief-dec.md)
 
 ### Why doesn't the Charter mention our plan to completely replace VOA in the long-term?
 Because that would confuse things. The stakeholders will get there, but right now they need a short-term win, which is getting the form onto vets.gov. 
