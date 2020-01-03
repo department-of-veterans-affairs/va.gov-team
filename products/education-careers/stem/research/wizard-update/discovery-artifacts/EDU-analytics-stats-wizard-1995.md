@@ -16,6 +16,13 @@
   
 *High level data as of 12/19/19:*
 
+* STEM Applications Received - 10,358
+* Eligible for STEM - 1,086
+* Denials - 9,272
+  * No eligible STEM program 3,145
+  * Did not exhaust entitlement 3,284
+    * Top 2 denial reasons = 6,429 or 69.34% of denials
+
 So about 30% are denied b/c they are not in an eligible program and another 30% because they have not exhausted their benefit.
 I am attached the file that Mike Johnson sent along with the data.  HE said this is what they capture there in Buffalo.  A lot of it did not make sense to me.  If we want to dig into that data we can set up a call with Mike after the holidays.
 Last, he provided the following that I share for your review.
@@ -28,9 +35,11 @@ Have you or will you exhaust benefits within 6 months from current date?
 I know we have had some discussion pertaining to the use of the CIP Code list.  Our office currently utilizes it determine program eligibility in the lieu WEAMS until WEAMS can be updated to reflect STEM eligible programs.  So the issue here is we are using a list We are placing the burden on each claimant to enter the name of their program and then cross reference the program against a list they do not know exists.  Can VA.GOV specifically the STEM1995 supporting referencing a drop down list, so that the same claimants can only choose from programs that we will use to determine their eligibility?
 
 
+
+
 ## Additional notes
 
-#Analytics for STEM Wizard
+### Analytics for STEM Wizard
 
 va.gov/education/how-to-apply/
 
