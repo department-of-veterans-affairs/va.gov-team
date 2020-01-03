@@ -1,5 +1,3 @@
-__Please note: some links in this document point to the vets.gov-team repo.__
-
 # RFC: Automatic StatsD Metric Initialization
 
 - Date: 2019-07-22
@@ -12,7 +10,7 @@ StatsD.increment("#{self.class::STATSD_KEY_PREFIX}.#{caller}.total")
 StatsD.increment("#{self.class::STATSD_KEY_PREFIX}.#{caller}.fail")
 ```
 
-It's important for StatsD counters to initialized to `0` at sartup. In short, prometheus will _not_ treat an increment from _nothing_ to 1 as an "increase" - which throws off the accuracy of our grafana reporting. [More reading on the subject.](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Engineering/Sending%20Metrics%20Using%20StatsD.md#bonus-material-on-increment)
+It's important for StatsD counters to initialized to `0` at sartup. In short, prometheus will _not_ treat an increment from _nothing_ to 1 as an "increase" - which throws off the accuracy of our grafana reporting. [More reading on the subject.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/sending-metrics-using-statsd.md#bonus-material-on-increment)
 
 As an example, 4 GIBFT errors occurred from an external service. These 4 errors were caught by StatsD:
 ![image](https://user-images.githubusercontent.com/3077884/61728023-58c0fc00-ad42-11e9-964b-f2443530c2aa.png)
