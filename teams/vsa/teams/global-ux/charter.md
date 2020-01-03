@@ -10,7 +10,7 @@ Public Websites team for VA.gov.
 Provides Veterans, family members, caregivers, service members and other
 audiences access to vital information about VA benefits and services
 
-Product Portfolio:
+## Product Portfolio:
 -	Home Page 
 -	Header / Footer 
 -	IA, Menus, Navigation 
