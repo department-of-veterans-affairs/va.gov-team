@@ -30,7 +30,7 @@
     
       **EDU Response:** Probably but they may not be tracking it in the detail we would like. For example we know that some of those are because they are applying for a program that is not eligible.  But we don’t go the next step to be able to show which programs are folks applying for that are not eligible.  We just know that x number of people applied and put down a program that is not on the approved STEM list. 
 
-4. File shared by Buffalo is below.  This is what they capture there in Buffalo.  
+4. File shared by Buffalo is below.  This is what they capture in Buffalo.  
 
    [STEM Data Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/research/wizard-update/discovery-artifacts/STEM_DATA_ELIGIBILITY.xlsx)
 
