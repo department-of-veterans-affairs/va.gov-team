@@ -7,9 +7,9 @@ Thanks for joining us today! My name is [NAME]. I also have two colleagues on th
 We are interested in speaking with you today because the VA would like to understand more about how military-connected students learn about educational benefits.  
 
 As part of this research, the VA is interested in understanding how students:   
-- determine their eligibility for educational benefits
-- apply for new benefits
-- modify their existing benefits
+- determine their eligibility for educational benefits,
+- apply for new benefits, and
+- modify their existing benefits.
 
 This week, we are talking with GI Bill students in sessions like this to gather feedback on 1 of the pages in the Education section of the website.
 
@@ -20,7 +20,7 @@ Can you see our screen in the WebEx?
 **Recording**
 
 We generally record our sessions, in case we need to confirm that we’ve captured people’s opinions accurately
-- Are you comfortable if I record the audio as we talk today? 
+- Are you comfortable if I record the audio and screen movements as we talk today? 
 -	Great, I’m going to go ahead and start the recording.
 -	Once it’s on, I’ll ask you if it’s okay one more time, as we like to have your verbal consent.  
 - [Only if we use our WebEx] There will be a slight pause, then we’ll hear an announcement that the recording has started. 
