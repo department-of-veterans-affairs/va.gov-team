@@ -1,6 +1,6 @@
 ***** EDIT 10/23/18 *****
 
-Overtaken by [new plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/181023HCAChanges.md)
+Overtaken by [new plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/181023hcachanges.md)
 
 ***** EDIT 10/10/18 *****
 
@@ -43,7 +43,7 @@ Provisional plan to amend healthcare application in light of feedback from HEC a
 + Do not allow non-logged-in applications for existing patients or existing online account holders.
 + Do more user research before creating targeted functionality for users making changes to existing applications; we are not convinced we know enough about these Veterans or what they are trying to do.
 
-![Proposed Flow](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/AnonHCAs.JPG)
+![Proposed Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/anonhcas.jpg)
 
 ### Landing Page
 + Current page lists some benefits of logging in but does not privilege the log-in option from a design perspective.
