@@ -7,9 +7,9 @@ Dragons: HCA work to mitigate duplicate applications
 
 **2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?**
 
-[Product Outline](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/181023HCAChanges.md)
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/181023hcachanges.md)
 
-Currently, 50% of health care applications submitted via VA.gov are duplicate applications, meaning people are applying who have applied before. In October of 2018, we talked to veterans and [our research](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/Research/Duplicate%20HCA%20Submissions) showed that duplicate applications were primarily the result of communication problems with the VA. Participants weren't aware of the decision that had been made about their original application and didn't know where to find that information.
+Currently, 50% of health care applications submitted via VA.gov are duplicate applications, meaning people are applying who have applied before. In October of 2018, we talked to veterans and [our research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/hca%202.0/research/oct-2018) showed that duplicate applications were primarily the result of communication problems with the VA. Participants weren't aware of the decision that had been made about their original application and didn't know where to find that information.
 
 Our work on the health care application hopes to mitigate this problem by detecting if people have applied for health care previously, and, if they have, surfacing information on their health care status so they can better determine next steps.
 
@@ -116,7 +116,7 @@ TBD
 - **Observers**: TBD depending on session timing
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/181023HCAChanges.md)
-- [Discussion Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Conversation%20Guide.md)
-- [Notes & Recordings](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019)
-- [Read-Out/Results](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Research%20Summary.md)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/181023hcachanges.md)
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/conversation-guide.md)
+- [Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019)
+- [Read-Out/Results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/research-summary.md)
