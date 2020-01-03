@@ -55,11 +55,21 @@ Take a moment to read the 2 sentences above the green button and read the title 
 **Questions**
 1.	What would you expect to happen when you click the green "Find your education benefits form" button?
 
-2.	Feel free to click the button.  What are your thoughts on this question?
+2.	Feel free to click the button.  What are your thoughts on this question? What would you expect to happen if you clicked each of the 3 radio buttons?
 
-3.	What would you expect to happen if you clicked each of the 3 radio buttons?
+4.  Have you heard of the STEM Scholarship before?
 
-4.	What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?
+5.  How likely would you be to apply for the scholarship?
+
+5.  Who do you think would be eligible for the STEM scholarship?
+
+6.  Is STEM an acronym you think people will know the meaning of or is more explaination needed? 
+
+7. How would you learn more about the scholarship and who might be eligible for it? 
+
+7.  What additional explanation would you like to see on this page?
+
+8.	What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?
 
 
 Looks like we have 5-10 minutes left, so I want to pause and give my colleagues on the phone an opportunity to ask any questions they may have.
