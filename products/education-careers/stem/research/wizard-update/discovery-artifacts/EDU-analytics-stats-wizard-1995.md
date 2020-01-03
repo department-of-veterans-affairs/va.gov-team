@@ -26,3 +26,33 @@ Add more questions to the 1995 such as:
 Have you or will you exhaust benefits within 6 months from current date?
  
 I know we have had some discussion pertaining to the use of the CIP Code list.  Our office currently utilizes it determine program eligibility in the lieu WEAMS until WEAMS can be updated to reflect STEM eligible programs.  So the issue here is we are using a list We are placing the burden on each claimant to enter the name of their program and then cross reference the program against a list they do not know exists.  Can VA.GOV specifically the STEM1995 supporting referencing a drop down list, so that the same claimants can only choose from programs that we will use to determine their eligibility?
+
+
+## Additional notes
+
+#Analytics for STEM Wizard
+
+va.gov/education/how-to-apply/
+
+Looking at Jan 1 - Dec 31, 2019, 2nd most visited page in Education Modernized view 
+https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184334251/_u.date00=20190101&_u.date01=20191231&explorer-table.plotKeys=%5B%5D&_r.drilldown=analytics.pagePath:~2Feducation~2Fhow-to-apply~2Findex.html
+
+**Ave. Time on Page**
+1:35
+
+**Bounce rate**
+24.34%
+
+**Previous Page**
+50.31% enter this page
+More users come from Chapter 33 (5.13%) and eligibility (4.75%) pages than education/index (2.68%).
+
+**Next Page**
+Confirm with DEPO Analytics team how to determine Next Page targets.  Link here makes it look like users are staying on the page.  
+https://analytics.google.com/analytics/web/#/report/content-pages/a50123418w177519031p184334251/_u.date00=20190101&_u.date01=20191231&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.nextPagePath&_r.drilldown=analytics.pagePath:~2Feducation~2Fhow-to-apply~2Findex.html/
+
+
+**Of note**
+In 2019, there was an extended increase in users entering the 22-1995 funnel through the month of January.  Will that repeat in 2020? 
+
+Goal completions peaked in January and then again mid-July - mid-August.
