@@ -782,7 +782,7 @@ Majority synthesis done post-its
 #### May 31-June 9 - Appeals Status Testing Round 3
 *Research lead: Natalie Moore*
 - 6 Veterans
-- [Research Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Global/Appeals%20Status/Research)
+- [Research Folder]()
 
 
 ### May 2017
