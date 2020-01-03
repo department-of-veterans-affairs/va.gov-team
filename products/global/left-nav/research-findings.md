@@ -3,10 +3,9 @@
 This usability study was meant to evaluate how the user experience of VA.gov could be improved with a redesign of the local, or “left column” navigation component. A new local navigation component was designed as a part of the redesign of VAMC websites, beginning with Pittsburgh’s VAMC system of websites. 
 
 [old navigation element]
-![](3B79524E-B20A-43CE-8C19-1C2FFC530820.png)
-
+[image:189EFC10-2A92-480E-82C9-CF53304E0749-6557-000015BB54F48A70/3B79524E-B20A-43CE-8C19-1C2FFC530820.png]
 [new navigation element]
-![](80DE267E-2155-4054-91EA-DC5074767696.png)
+[image:C55FB697-6E55-44C8-AFC8-E046424C1151-21276-00000486B03560D9/80DE267E-2155-4054-91EA-DC5074767696.png]
 
 
 ### Problem statement
