@@ -50,7 +50,7 @@
     
 7. **Percent of the 90% Number of rejected applicants who were also attempting to use the 1995 for it's intended purpose.**
     
-  **Requested:** 12/30
-  **EDU Response:** TBD
+    **Requested:** 12/30
+    **EDU Response:** TBD
   
 
