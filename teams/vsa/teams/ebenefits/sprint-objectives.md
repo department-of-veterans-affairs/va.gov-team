@@ -26,7 +26,10 @@ _Note that we will not be turning off any functionality in EBN or doing any comm
 - Design: Refine lo-fi mocks for Dependency Claims ("Submit 686")*
 - Frontend: Continue to reconcile 686 schema and correct submission issues
 - Eng: Define and document in GitHub the existing endpoints
-- Eng: Review BGS documentation 
+
+### 3. Stretch Goals (assuming unblock on backend services)
+- Eng: Have backend collaborate with Lighthouse
+- Eng: Begin implementation of backend services
 
 ## Sprint 11 (12/18 - 12/31) 
 ```diff 
