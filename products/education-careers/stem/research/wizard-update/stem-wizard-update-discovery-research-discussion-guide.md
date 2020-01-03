@@ -14,6 +14,8 @@ This week, we are talking with GI Bill students in sessions like this to gather 
 
 Do you have any questions before we get started?
 
+Can you see our screen in the WebEx?
+
 **Recording**
 
 We generally record our sessions, in case we need to confirm that we’ve captured people’s opinions accurately
@@ -48,11 +50,14 @@ Thank you. Let’s start with a few questions about your degree program.
 - https://www.va.gov/education/eligibility/
 - https://www.va.gov/education/how-to-apply/]
 
+[ Participants may be less inclined to wonder aimlessly if we start on the eligibility page.  Give the user context on the page we'll be reviewing, then focus in on the section of interest. ]
+
 Let's look at the "How do I apply" section of this page.
 
 Take a moment to read the 2 sentences above the green button and read the title of the green button.
 
-**Questions**
+**Questions**  
+
 1.	What would you expect to happen when you click the green "Find your education benefits form" button?
 
 2.	Feel free to click the button.  What are your thoughts on this question? What would you expect to happen if you clicked each of the 3 radio buttons?
@@ -63,9 +68,9 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 5.  Who do you think would be eligible for the STEM scholarship?
 
-6.  Is STEM an acronym you think people will know the meaning of or is more explaination needed? 
+6.  How likely is it that people will have heard of the acronym "STEM" before? 
 
-7. How would you learn more about the scholarship and who might be eligible for it? 
+7.  What modifications to the site would help you learn more about the scholarship and who might be eligible for it? 
 
 7.  What additional explanation would you like to see on this page?
 
