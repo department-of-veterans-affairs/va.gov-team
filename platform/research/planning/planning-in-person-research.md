@@ -38,11 +38,11 @@ You can work with Lauren to use the Pergiean contract for in-person research. Ho
   
  ## Work with a VSO
   
-Some VSOs, like Blinded Veterans for America or Disabled Veterans of America, have been particularly helpful in the past to allow us to conduct guerilla research at their conferences or events. Talk to DEPO staff about this option. You'll need to plan far in advance. 
+Some VSOs, like Blinded Veterans for America or Disabled Veterans of America, have been particularly helpful in the past to allow us to conduct guerilla research at their conferences or events. Talk to DEPO staff about this option. You'll need to plan far in advance. We do not have a good way to provide a thank-you gift to participants outside of the Perigean contract, so this format of research would have that caveat. 
 
 ## Work with a VAMC 
 
-We have, in past, visited VA Medical Centers and conducted research with participants in the waiting area. You will need to work with DEPO teams, as well as the VAMC staff, to arrange this well in advance. Do not just show up at a VAMC and expect to be able to do research. 
+We have, in past, visited VA Medical Centers and conducted research with participants in the waiting area. You will need to work with DEPO teams, as well as the VAMC staff, to arrange this well in advance. Do not just show up at a VAMC and expect to be able to do research. We do not have a good way to provide a thank-you gift to participants outside of the Perigean contract, so this format of research would have that caveat. 
 
 We are always happy to discuss other options that may pertain to your specific research challenge. Just be mindful that we need to be sensitive about how and when we do research. 
 
