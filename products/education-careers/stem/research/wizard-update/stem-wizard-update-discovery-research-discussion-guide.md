@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Thanks for joining us today! My name is [NAME]. I also have two colleagues on the line, <Name> & <Name>.  They’ll be taking notes to ensure that we capture your feedback accurately. 
+Thanks for joining us today! My name is ________. I also have two colleagues on the line, ________ & ________.  They’ll be taking notes to ensure that we capture your feedback accurately. 
 
 We are interested in speaking with you today because the VA would like to understand more about how military-connected students learn about educational benefits.  
 
