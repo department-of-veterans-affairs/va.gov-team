@@ -28,6 +28,7 @@ _Note that we will not be turning off any functionality in EBN or doing any comm
 - Eng: Define and document in GitHub the existing endpoints
 
 ### 3. Stretch Goals (assuming unblock on backend services)
+- Perform UAT on Rated Disabilities (assuming unauthenticated landing page is in staging)
 - Eng: Have backend collaborate with Lighthouse
 - Eng: Begin implementation of backend services
 
