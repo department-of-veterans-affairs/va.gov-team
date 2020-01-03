@@ -2,7 +2,7 @@
 # EDU stats for STEM wizard and form Oct 1, 2019 - Dec 20, 2019
 
 
-1. EDU reports **STEM FORM has 90% Rejection Rate**. <br>
+1. EDU reports **STEM form has 90% Rejection Rate**. <br>
 
    **Ideal goal is 0% Rejection Rate**. Need to understand reasons for & numbers behind rejections to clearly identify rejection rate goals going forward.  
    
@@ -43,10 +43,12 @@
     * 1995 / STEM – 4,000
     * **122,750 direct traffic to the apply 1995 page**
 
-6. **Similar Scholarships - Identify VA scholarships “similar” to STEM – with acceptance / rejection rates. Ricardo may have this info.**  
+6. **Similar Scholarships - Identify VA scholarships “similar” to STEM – with acceptance / rejection rates.**  
 
     **EDU Response:** I have not found, and no one here is aware, of any scholarship program that is similar to the STEM program.  Most of the scholarships I have found have a limit to the number of students.  So it may be tough to get at who was denied for ineligibility, vs. who was denied because they ran out of spaces. <br>
     
     For Federal Student aid I found that in FY2016 they processed 19.2 million applications and there were 13.2 million recipients (about a 70% approval rate).
+    
+    
 
 
