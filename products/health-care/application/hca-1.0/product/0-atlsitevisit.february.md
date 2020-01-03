@@ -58,10 +58,10 @@ There are over 840K applications in the backlog. Over 250K are presumed dead. Wh
 # Notes from ATL
 We learned a lot about the environment, teams, products and systems involved:
 
-1. [Stakeholders] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Product%20Teams/HealthApplication/Discovery/Stakeholders.md)
+1. [Stakeholders] ()
 
-2. [Applying for healthcare] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Product%20Teams/HealthApplication/Discovery/2-ApplicationProcess.md) (what does this entail?)
+2. [Applying for healthcare] () (what does this entail?)
 
-3. [VOA] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Product%20Teams/HealthApplication/Discovery/3-VOA.md) (what is VOA? what does it process and how?)
+3. [VOA] () (what is VOA? what does it process and how?)
 
-4. [The Enrollment System] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Product%20Teams/HealthApplication/Discovery/4-Enrollment-System.md) (what is the ES, how does it operate, and what's really going on here?) 
+4. [The Enrollment System] () (what is the ES, how does it operate, and what's really going on here?) 
