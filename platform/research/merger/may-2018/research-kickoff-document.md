@@ -1,5 +1,3 @@
-[Github issue 10201](https://app.zenhub.com/workspace/o/department-of-veterans-affairs/vets.gov-team/issues/10201)
-
 # Research Kickoff Document
 
 **Directions:** UX lead seeking research should fill out this template and schedule a meeting with the PM, researcher, and recruiter to discuss. All parties must assent to this information before recruitment can begin.
@@ -31,7 +29,7 @@ What we want to study: the experience of users starting on va.gov homepage, not 
 
 Past vets.gov studies on various teams (determined none is applicable to this).
 
-[Foresee survey data from April 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Programs/Merger/Research/April%202018%20VA%20Main%20(002)%20KP%20Notes.pdf)
+[Foresee survey data from April 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/merger/apr-2018/april-2018-va-main-(002)-kp-notes.pdf)
 
 Merger team will combine this qualitative data with satisfaction metrics later.
 
@@ -51,7 +49,7 @@ Remote, moderated usability testing
   * Good to know if they're current MHV or eBenefits users, but not a requirement for recruiting
 
 
-* _Indicate if you're looking for a particular age range, geographic reach, account type, or other demographics. In our recruitment, we strive to include a mix of participants that is representative of the [demographics of the US Veteran population](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Research/Request%20or%20Do%20Research/veteran-population-demographics.md)._ 
+* _Indicate if you're looking for a particular age range, geographic reach, account type, or other demographics. In our recruitment, we strive to include a mix of participants that is representative of the [demographics of the US Veteran population](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/veteran-population-demographics.md)._ 
 
 ## Dates and Times You Would Like to Have Sessions
 Not particular about timing to have this complete, since this is just informing baseline. And we can shift this as needed since there are no dependencies on deliverables that don't exist yet. Ideally let's do it before Mike gets busy with Griffins research like next round of Login.
