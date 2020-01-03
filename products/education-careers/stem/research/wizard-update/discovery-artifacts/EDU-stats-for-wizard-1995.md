@@ -48,9 +48,9 @@
     
     For Federal Student aid I found that in FY2016 they processed 19.2 million applications and there were 13.2 million recipients (about a 70% approval rate).
     
-7. **Percent of the 90% Number of rejected applicants who were also attempting to use the 1995 for it's intended purpose.**
+7. **Percent of the 9272 rejected applicants who were simultaneously using the 1995 for it's intended purpose.**
     
-    **Requested:** 12/30
-    **EDU Response:** TBD
+    **Requested:** 12/30  
+    **EDU Response:** TBD  
   
 
