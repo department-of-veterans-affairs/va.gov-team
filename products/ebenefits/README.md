@@ -1,3 +1,7 @@
+```diff
+- This page should be probably be removed since EBN is going away. @jason-gcio will delete shortly.
+```
+
 # Product Outline: eBenefits
 - GitHub Label: vsa-ebenefits
 - Slack channel: vsa-ebenefits
