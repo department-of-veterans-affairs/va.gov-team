@@ -67,8 +67,8 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 3.  What would you expect to happen if you clicked each of the 3 radio buttons?
 
-    a.  Let's explore the radio button options… Could you talk me through what you think “Apply for new benefit” means? 
-    b.  What about “Update my current benefits”?
+    a.  Let's explore the radio button options… Could you talk me through what you think “Apply for new benefit” means?  
+    b.  What about “Update my current benefits”?  
     c. What does “Applying to extend my benefit using the Edith Nourse Rogers STEM Scholarship” mean to you?  
     [We'll use this question to determine if they’re familiar with “STEM” as an acronym… If they don’t mention “STEM – for science, technology, engineering & math”, ask “What fields of study do you think the scholarship might be focused on?”]
 
