@@ -1,9 +1,7 @@
 No immediate questions. We may follow up later on as we’re scoping the HCA work planned for the spring if any questions come up.
 
-From: "Zucker, Gabriel" <Gabriel.Zucker@va.gov>
+From: "Zucker, Gabriel" 
 Date: Wednesday, December 12, 2018 at 12:37 PM
-To: "Hall, Joan, VHA Member Services" <Joan.Hall1@va.gov>, "Faulkner, Joshua I." <Joshua.Faulkner@va.gov>, "Zucker, Gabriel M. EOP/OMB" <Gabriel_M_Zucker@omb.eop.gov>, "Rogers, Serita" <Serita.Rogers@va.gov>, "Forst, Paul" <Paul.Forst@va.gov>
-Cc: "Self, Matthew" <Matthew.Self2@va.gov>, "Strauss, Samara" <Samara.Strauss@va.gov>
 Subject: RE: POC for updating the Future Separation Date on HCA
 
 Got it. Seems reasonable enough to me. Matt/Samara, any questions on this?
@@ -12,12 +10,10 @@ Got it. Seems reasonable enough to me. Matt/Samara, any questions on this?
  
 Gabriel Zucker
 U.S. Digital Service
-(202) 881-8317
+
  
 From: Hall, Joan, VHA Member Services 
 Sent: Wednesday, December 12, 2018 12:34 PM
-To: Faulkner, Joshua I. <Joshua.Faulkner@va.gov>; Zucker, Gabriel M. EOP/OMB <Gabriel_M_Zucker@omb.eop.gov>; Zucker, Gabriel <Gabriel.Zucker@va.gov>; Rogers, Serita <Serita.Rogers@va.gov>; Forst, Paul <Paul.Forst@va.gov>
-Cc: Self, Matthew <Matthew.Self2@va.gov>; Strauss, Samara <Samara.Strauss@va.gov>
 Subject: RE: POC for updating the Future Separation Date on HCA
  
 Adding the other email to keep the communication tight. 
@@ -27,20 +23,16 @@ Thanks for sending the bottom line Josh.
  
 From: Faulkner, Joshua I. 
 Sent: Wednesday, December 12, 2018 11:56 AM
-To: Zucker, Gabriel M. EOP/OMB <Gabriel_M_Zucker@omb.eop.gov>; Hall, Joan, VHA Member Services <Joan.Hall1@va.gov>; Zucker, Gabriel <Gabriel.Zucker@va.gov>
-Cc: Self, Matthew <Matthew.Self2@va.gov>; Strauss, Samara <Samara.Strauss@va.gov>
 Subject: RE: POC for updating the Future Separation Date on HCA
  
 Specifically, the change being requested is change this validator to 1 year, instead of current 2 years
 
-![screenshot](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/separation-date-validator.png)
+![screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca%201.0/engineering/separation-date-validator.png)
  
  
  
-From: Zucker, Gabriel M. EOP/OMB [mailto:Gabriel_M_Zucker@omb.eop.gov] 
+From: Zucker, Gabriel M. EOP/OMB 
 Sent: Wednesday, December 12, 2018 9:43 AM
-To: Hall, Joan, VHA Member Services <Joan.Hall1@va.gov>; Faulkner, Joshua I. <Joshua.Faulkner@va.gov>; Zucker, Gabriel <Gabriel.Zucker@va.gov>
-Cc: Self, Matthew <Matthew.Self2@va.gov>; Strauss, Samara <Samara.Strauss@va.gov>
 Subject: [EXTERNAL] RE: POC for updating the Future Separation Date on HCA
  
 Hi Joan and Josh,
@@ -56,9 +48,8 @@ Gabriel
  
  
  
-From: Hall, Joan, VHA Member Services <Joan.Hall1@va.gov> 
+From: Hall, Joan, VHA Member Services 
 Sent: Tuesday, December 11, 2018 3:31 PM
-To: Faulkner, Joshua I. <Joshua.Faulkner@va.gov>; Zucker, Gabriel <Gabriel.Zucker@va.gov>; Zucker, Gabriel M. EOP/OMB <Gabriel_M_Zucker@omb.eop.gov>
 Subject: RE: POC for updating the Future Separation Date on HCA
  
 Thanks Josh,  Hi Gabriel,
@@ -69,7 +60,6 @@ Joan
 Joan Hall, Ph.D., LPC, PMP
 Program Analyst
 VHA Member Services
-Phone: 256-975-7865 | E-Mail: joan.hall1@va.gov 
  
 CONFIDENTIALITY NOTICE: This e-mail is intended only for the person or entity to which it is addressed, and may contain information that is privileged, confidential, or otherwise protected from disclosure. Dissemination, distribution, or copying of this e-mail or the information herein by anyone other than the intended recipient or for official internal VA business is prohibited. If you have received this e-mail in error, please notify the sender by reply e-mail, and destroy the original message and all copies.
  
@@ -77,7 +67,6 @@ CONFIDENTIALITY NOTICE: This e-mail is intended only for the person or entity to
  
 From: Faulkner, Joshua I. 
 Sent: Tuesday, December 11, 2018 3:30 PM
-To: Hall, Joan, VHA Member Services <Joan.Hall1@va.gov>; Zucker, Gabriel <Gabriel.Zucker@va.gov>; Zucker, Gabriel M. EOP/OMB <Gabriel_M_Zucker@omb.eop.gov>
 Subject: POC for updating the Future Separation Date on HCA
  
 Hi Gabriel,
@@ -91,6 +80,5 @@ IT Specialist, Software Engineering
 Enterprise Portfolio Management Division
 Office of Information & Technology
 Technical Lead - Enrollment System/EHBD
-Phone: 719-559-3201
 TOD: MON-FRI 0800-1630 MST
  
