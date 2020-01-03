@@ -7,11 +7,10 @@ Thanks for joining us today! My name is ________. I also have two colleagues on 
 We are interested in speaking with you today because the VA would like to understand more about how military-connected students learn about educational benefits.  
 
 As part of this research, the VA is interested in understanding how students:   
-- determine their eligibility for educational benefits,
-- apply for new benefits, and
+- determine their eligibility for educational benefits, and
 - modify their existing benefits.
 
-This week, we are talking with military-connected students in sessions like this to gather feedback on one of the pages in the Education section of the website.
+This week, we are talking with military-connected students in sessions like this to gather feedback on the process of applying for a specific educational benefit.
 
 Do you have any questions before we get started?
 
@@ -32,17 +31,19 @@ Thank you. Let’s start with a few questions about your degree program.
 
 **Educational background**
 
-1.	Once you were ready to start school, how did you learn about your eligibilty for educational benefits? 
+1.	Once you were ready to start school, how did you learn about your eligibility for educational benefits? 
 
 2.  How did you learn about the actual application process?
 
-3.	What type of degree are you pursuing?
+3.	How did you go about applying for benefits? (paper form, online, worked with SCO, etc) [A bit beyond our scope, however it may help us understand their comfort level with online forms]
 
-4.	How far through the program are you?
+4.	What type of degree are you pursuing?
 
-5.	Approximately how many months or years of educational benefit do you have remaining?
+5.	How far through the program are you?
 
-6.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
+6.	Approximately how many months or years of educational benefit do you have remaining?
+
+7.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
 
 
 **Set the stage**
@@ -66,20 +67,25 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 3.  What would you expect to happen if you clicked each of the 3 radio buttons?
 
-4.  What, if anything, have you heard about the STEM Scholarship? [If applicable, where did hear that?]
+    a.  Let's explore the radio button options… Could you talk me through what you think “Apply for new benefit” means? 
+    b.  What about “Update my current benefits”?
+    c. What does “Applying to extend my benefit using the Edith Nourse Rogers STEM Scholarship” mean to you?  
+    [We'll use this question to determine if they’re familiar with “STEM” as an acronym… If they don’t mention “STEM – for science, technology, engineering & math”, ask “What fields of study do you think the scholarship might be focused on?”]
 
-5.  How likely would you be to apply for the STEM scholarship?
 
-5.  Who do you think would be eligible for the STEM scholarship?
+4.  What, if anything, have you heard about the STEM Scholarship? 
+    a. [If they've heard of it] Where did hear that?
+    b. [If they haven’t heard of the STEM Scholarship] What do you think the STEM scholarship might be?  
 
-6.  How likely is it that people will have heard of the acronym "STEM" before? 
+5.  What are your thoughts on who might be eligible for the STEM scholarship?
 
-7.  What modifications to the site would help you learn more about the STEM scholarship and who might be eligible for it? 
+6.	Given the information you have now, how likely would you be to apply for the STEM scholarship?(Consider probing around their thought process for applying or not when they’re not sure if they’d be eligible.) 
 
-7.  What additional information would you like to see on this page?
+7.	If you wanted to learn more about the STEM scholarship and who might be eligible for it, how would you go about doing that? (allow them to explore the site, if relevant)
 
-8.	What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?
+8.	If you were actually applying for education benefits, what additional information would help you know which option you’d want to choose here?
 
+9.	What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?  
 
 Looks like we have 5-10 minutes left, so I want to pause and give my colleagues on the phone an opportunity to ask any questions they may have.
 
