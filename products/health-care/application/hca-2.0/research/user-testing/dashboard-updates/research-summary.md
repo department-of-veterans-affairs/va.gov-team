@@ -1,12 +1,12 @@
 # Background
 
-### [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Research%20plan.md)
+### [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/research-summary.md)
 
-### [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Conversation%20guide.md)
+### [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/conversation-guide.md)
 
 ### Goals & What We Did
 
-In March 2019, we designed and conducted [testing on updates to the health care application](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Research%20Summary.md). Since then, we have completed additional updates to the dashboard as part of the larger health care application experience. This round of testing evaluated those dashboard changes.
+In March 2019, we designed and conducted [testing on updates to the health care application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/research-summary.md). Since then, we have completed additional updates to the dashboard as part of the larger health care application experience. This round of testing evaluated those dashboard changes.
 
 # Methods
 
@@ -44,8 +44,8 @@ About half of participants didn't know about the My VA homepage and had never us
 
 For the both blocks, this included their health care application status and where to go with questions.
 
-![Update block](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Screenshots/Screen%20Shot%202019-04-17%20at%201.14.03%20PM.png)
-![Decision block](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Screenshots/Screen%20Shot%202019-04-17%20at%201.14.16%20PM.png)
+![Update block](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/screenshots/screen-shot-2019-04-17-at-1.14.03-pm.png)
+![Decision block](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/screenshots/screen-shot-2019-04-17-at-1.14.16-pm.png)
 
 ### Participants understood that removing a notification on their application status would not affect the application's current state or decision. 
 
@@ -61,7 +61,7 @@ Some participants saw the decision information more as an official record from t
 
 The existing "Enrolled" notification left people without a meaningful next step and felt like an ending point for a flow instead of the beginning of a new one.
 
-![Enrolled block](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Screenshots/Screen%20Shot%202019-04-17%20at%201.14.28%20PM.png)
+![Enrolled block](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/screenshots/screen-shot-2019-04-17-at-1.14.28-pm.png)
 
 **Recommendation**: Include a link to information about what is included in VA health care in the "Enrolled" notification and a link to the "Manage VA Health Care" section of the dashboard.
 
@@ -71,4 +71,4 @@ This new section of the dashboard consolidates information that's already there 
 
 **For consideration**: If we update the dashboard design, we may want to consider organizing the dashboard by benefit type.
 
-![Manage your va healthcare](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Screenshots/Screen%20Shot%202019-04-17%20at%201.14.46%20PM.png)
+![Manage your va healthcare](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/screenshots/screen-shot-2019-04-17-at-1.14.46-pm.png)
