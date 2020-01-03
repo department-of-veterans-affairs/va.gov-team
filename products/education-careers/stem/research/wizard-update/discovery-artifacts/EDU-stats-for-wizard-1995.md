@@ -22,6 +22,7 @@
     **EDU Recommendation:** We have received 10358 applications.  I do not recommend that we go the manual look up and transcribe route.  I recommend we try to have a way to capture this data going forward with the changes we are going to make. 
   
  3. High level data as of 12/19/19:  
+ 
  <kbd><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/research/wizard-update/discovery-artifacts/images/EDU-stats1.png"></kbd>
 
     * So about 30% are denied b/c they are not in an eligible program and another 30% because they have not exhausted their benefit.  
