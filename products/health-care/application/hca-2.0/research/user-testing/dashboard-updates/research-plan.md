@@ -7,9 +7,9 @@
 
 **2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product?** 
 
-This work is an extension of the overall [updates we are making to the health care application](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/181023HCAChanges.md). In summary, we are trying to mitigate the high rate (50%) of duplicate health care applications by more clearly communicating veterans' health care application statuses on VA.gov. We plan to do this in two places — in the health care application itself, and on the logged in "My VA" dashboard.
+This work is an extension of the overall [updates we are making to the health care application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/181023hcachanges.md). In summary, we are trying to mitigate the high rate (50%) of duplicate health care applications by more clearly communicating veterans' health care application statuses on VA.gov. We plan to do this in two places — in the health care application itself, and on the logged in "My VA" dashboard.
 
-In March 2019, we conducted [testing on planned updates to the health care application](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Research%20Summary.md). Design for the dashboard updates was still in progress at this time and was not ready to be tested with the larger flows. Those updates are now complete and need to be tested before they are ready for build and launch.
+In March 2019, we conducted [testing on planned updates to the health care application](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/research-summary.md). Design for the dashboard updates was still in progress at this time and was not ready to be tested with the larger flows. Those updates are now complete and need to be tested before they are ready for build and launch.
 
 **3. Research questions: What question(s) do you hope to be able to answer after completing this research?** 
 
@@ -94,6 +94,6 @@ Please list the people who will be serving in each role.
 - **Observers**: None required
 
 ## Resources
-- [Project Brief](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/181023HCAChanges.md)
-- [Discussion Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Conversation%20guide.md)
-- [Synthesis](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Research%20summary.md)
+- [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/181023hcachanges.md)
+- [Discussion Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/conversation-guide.md)
+- [Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/research-summary.md)
