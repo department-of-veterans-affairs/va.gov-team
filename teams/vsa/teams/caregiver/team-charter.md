@@ -2,20 +2,22 @@
 
 ---
 
-## Why we're here
-
-### North Star:
-Build an online experience that allows caregivers to easily apply for, track, and manage benefits.
-
-### Goals
-Reduce the amount of time it takes a Caregiver application to be processed
-Increase the number of online applications
-
-### Product Suite (if applicable): 
-Caregivers
+## Guideposts
 
 ### Team Mission Statement:
 To provide the ability for Veteran and Veteran caregivers to complete and submit VA Form 10-10CG electronically, which will directly feed into electronic processing by VA and allow applicants to track online status updates.
+
+### Team Vision:
+Build an online experience that allows caregivers to easily apply for, track, and manage benefits.
+
+### Team North Star:
+Reduce the amount of time it takes a Caregiver application to be processed
+Increase the number of online applications
+
+## What we work on:
+
+### Product Suite (if applicable): 
+Health Products 
 
 ### Product Portfolio:
 Online Caregiver 10-10CG Application form
