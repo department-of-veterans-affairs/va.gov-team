@@ -51,7 +51,8 @@ Thank you. Let’s start with a few questions about your degree program.
 - https://www.va.gov/education/eligibility/
 - https://www.va.gov/education/how-to-apply/]
 
-[ Participants may be less inclined to wonder aimlessly if we start on the eligibility page.  Give the user context on the page we'll be reviewing, then focus in on the section of interest. ]
+[ Participants may be less inclined to wonder aimlessly if we start on the eligibility page.  
+Give the user context on the page we'll be reviewing, then focus in on the section of interest. ]
 
 Let's look at the "How do I apply" section of this page.
 
@@ -61,17 +62,19 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 1.	What would you expect to happen when you click the green "Find your education benefits form" button?
 
-2.	Feel free to click the button.  What are your thoughts on this question? What would you expect to happen if you clicked each of the 3 radio buttons?
+2.	Feel free to click the button.  What are your thoughts on this question? 
 
-4.  Have you heard of the STEM Scholarship before? If yes, what have you heard and how did you hear about it?
+3.  What would you expect to happen if you clicked each of the 3 radio buttons?
 
-5.  How likely would you be to apply for the scholarship?
+4.  What, if anything, have you heard about the STEM Scholarship? [If applicable, where did hear that?]
+
+5.  How likely would you be to apply for the STEM scholarship?
 
 5.  Who do you think would be eligible for the STEM scholarship?
 
 6.  How likely is it that people will have heard of the acronym "STEM" before? 
 
-7.  What modifications to the site would help you learn more about the scholarship and who might be eligible for it? 
+7.  What modifications to the site would help you learn more about the STEM scholarship and who might be eligible for it? 
 
 7.  What additional information would you like to see on this page?
 
@@ -84,4 +87,4 @@ Looks like we have 5-10 minutes left, so I want to pause and give my colleagues 
 
 Do you have any questions for us?
 
-Thank you so much for taking the time to speak with us today. We very much appreciate your willingness to be part of our process.  The insights you shared are very valuable and will help us ensure that the forms we design are easy to use.
+Thank you so much for taking the time to speak with us today. We very much appreciate your willingness to be part of our process.  The insights you shared are very valuable and will help us ensure that future students have all of the information they need to take full advantage of VA educational benefits.
