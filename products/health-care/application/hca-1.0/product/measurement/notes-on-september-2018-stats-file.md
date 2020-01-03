@@ -7,4 +7,4 @@
   * __ES User: Most phone and mail applications.__ This is an application coming from staff using the ESR - mainly staff at the HEC who field mail and phone applications. However, a small number of VAMC staff, as noted above use ESR rather than VistA, and their numbers will be here. Additionally, a small number of mail and phone applications may, for esoteric reasons, be routed to VAMCs, so those applications could show up in the VistA column.
 * __Dane flagged that several months are known to have bad data, that should be disregarded.__ These are noted in-line on the spreadsheet, and the issues roll up into the annual numbers as well.
 
-Data: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/Measurement/Enrollment%20Records%20by%20Source%20-%20CY2015%20to%20Aug2018.xlsx
+Data: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-1.0/product/measurement/enrollment-records-by-source-cy2015-to-aug2018.xlsx
