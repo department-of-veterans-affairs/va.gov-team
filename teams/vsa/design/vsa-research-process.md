@@ -100,10 +100,10 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
    * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1).
    * Note the Github page with results should be up 6 business days after your last session.  
    * Examples can be found here:
-      * [Scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/readme.md).  
+      * [Scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/community-care/urgent-care/research/jun-2019).  
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
-      * https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/findings.md
-      * https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/Dashboard%20updates/Research%20summary.md
+      * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md
+      * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/research-summary.md
       * Results in a deck [starting on slide 18 here](https://docs.google.com/presentation/d/1aaKDRSu_pPFCxQKoP0cXeHifkmCgZHlm-ZvtgwW5SsQ/edit)
    * Keep “insights” separate from recommendations. An insight might be “Users didn’t seem to see the “Next” button on the page,” but discuss what to do about that in a separate, “Recommendations” section
 6. Share insights with your team, and brainstorm recommendations. Then add a “recommendations” section/s to your Github page and final presentation deck. Note, if you’d like to add recommendations prior to sharing with your team, that’s fine too but make sure to get their input and ideas as a part of the process.
