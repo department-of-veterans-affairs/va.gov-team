@@ -1,12 +1,12 @@
 # Background
 
-### [Research Plan](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Research%20plan.md)
+### [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/research-plan.md)
 
-### [Conversation Guide](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Conversation%20Guide.md)
+### [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/conversation-guide.md)
 
 ### Goals & What We Did
 
-Currently, 50% of health care applications submitted via VA.gov are duplicate applications. In October of 2018, we [conducted interviews with veterans](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/Research/Duplicate%20HCA%20Submissions) and we learned that duplicate applicants often weren't aware of the decisions that had been made about their original applications.
+Currently, 50% of health care applications submitted via VA.gov are duplicate applications. In October of 2018, we [conducted interviews with veterans](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/hca%202.0/research/oct-2018) and we learned that duplicate applicants often weren't aware of the decisions that had been made about their original applications.
 
 In January of 2019, we began working on updates to the health care application flow that aimed to increase veterans' awareness of their health care status by surfacing that information on VA.gov.
 
@@ -35,7 +35,7 @@ We conducted moderated remote usability testing testing via GoToMeeting and [thi
 
 ## New Sign In Prompt
 
-![Sign in prompt](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Screenshots/Logged%20out_Proposed%20HCA%20intro%20page%20update.png)
+![Sign in prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/screenshots/logged-out-proposed-hca-intro-page-update.png)
 
 ### The new sign-in prompt tested well. People understood it and reported they'd be likely to login in real life.
 
@@ -47,8 +47,8 @@ For context, we added a page prior to the health care application where we asked
 
 Unfortunately, we can not tell users the intent of this page because of security concerns around revealing who has and has not previously applied for VA health care.
 
-![New ID page](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Screenshots/Logged%20out%20ID%20page.png)
-![New ID page with sign in prompt](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Screenshots/8.%20Logged%20out%20ID%20page_Please%20sign%20in.png)
+![New ID page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/screenshots/logged-out-id-page.png)
+![New ID page with sign in prompt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/screenshots/8.-logged-out-id-page-please-sign-in.png)
 
 ### People thought the ID page was part of the health care application, not separate from it.
 
@@ -75,7 +75,7 @@ Only signed out users need to go to the ID page, so for the purposes of testing,
 
 We added a health care status to the HCA introduction page for users who were found in the ESR _and_ who were LOA3. Depending on the circumstances, a status might communicate that someone is already enrolled in VA health care, has been found ineligible for VA health care, has an existing application, or had an application expire and close.
 
-![Health care status](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/HCA%20Duplicate%20Submissions%20Updates/Discovery%20and%20Research/User%20Testing/March%202019/Screenshots/20.%20Logged%20In_LOA3%20User%20in%20ESR_Ineligible.png)
+![Health care status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/mar-2019/screenshots/20.-logged-in-loa3-user-in-esr-ineligible.png)
 
 ### The health care statuses we tested were easily understood by participants. 
 
