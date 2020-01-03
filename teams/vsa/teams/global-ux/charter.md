@@ -6,15 +6,9 @@ _WIP_
 Provides Veterans, family members, caregivers, service members and other
 audiences access to vital information about VA benefits and services
 
-### Public Websites Vision
-tbd
-
-### Public Websites North Star
-tbd
-
 ## What we work on
 ### Product Line: 
-Unauthenticated Experience  for VA.gov.
+Unauthenticated Experience for VA.gov.
 
 ### Product Portfolio:
 -	Home Page 
