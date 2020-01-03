@@ -47,7 +47,7 @@ The Vets.gov DevOps team has gone by both "DevOps" and "Platform" over time. You
 
 ## DevOps Onboarding
 
-Welcome to the team! If all has gone well, you've made it through our [main onboarding section](https://github.com/department-of-veterans-affairs/vets.gov-team/wiki/Onboarding) and you're ready to start work with the DevOps teem. This should help you get started. 
+Welcome to the team! If all has gone well, you've made it through our [main onboarding section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding) and you're ready to start work with the DevOps teem. This should help you get started. 
 
 Resources from the sprint teams will work with the DevOps team regularly to encourage further cross-product communication. In onboarding, find out what we do, our history, our responsibilities, and who the people are who share those responsibilities.
 
@@ -297,7 +297,7 @@ Every time something new is added to the DevOps folder, it should also be indexe
     
 <summary>Overall DevOps Folder</summary>
 
-## [Overall DevOps Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Infrastructure)
+## [Overall DevOps Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/infrastructure)
 
 - [When, How, and Why to Engage Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/engage-platform.md)
 - [Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/operations/onboarding.md): Things you need to know when you join the DevOps team
@@ -310,7 +310,7 @@ Every time something new is added to the DevOps folder, it should also be indexe
     
 <summary>Retro Notes Folder</summary>
 
-## [Retro Notes Folder](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Practice%20Areas/Engineering/Infrastructure/Retro%20Notes)
+## [Retro Notes Folder]()
     
    - [PI 6 Sprint 3 Devops Retro](): What went well? (Kong deployment, AdHoc retreat) What didn't? (Sharing Terraform with Appeals, turning on-call requests into tickets)
    - [PI 7 Sprint 2 & 3 Devops Retro](): What went well? (Closed tickets, onboarding) What didn't? (Confusion around ESCCB, testing requests come in last-minute)
