@@ -4,7 +4,7 @@
 
 Thanks for joining us today! My name is [NAME]. I also have two colleagues on the line, <Name> & <Name>.  They’ll be taking notes to ensure that we capture your feedback accurately. 
 
-Today we'll be reviewing VA Form 22-1995 which allows students to update their educational benefits.
+Today, we're interested is speaking we'll be reviewing VA Form 22-1995 which allows students to update their educational benefits.
 
 We are reviewing the online version of the form with students in sessions like this to ensure that it's easy to use, regardless of what type of change they would like to make.
 
