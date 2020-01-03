@@ -1,12 +1,12 @@
-Plan to amend healthcare application in light of (a) feedback from HEC and ESR about anonymous applications being submitted into MVI, (b) DSVA discovery of [repeat-HCA issue](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/Products/Health%20care/HealthApplication/Research/Duplicate%20HCA%20Submissions/Notes), and (c) feedback from HEC regarding MVI failures when bad facility names are submitted via ESR. Research and proposals by Gabriel Zucker, Samara Strauss, David Bao, Matt Self.
+Plan to amend healthcare application in light of (a) feedback from HEC and ESR about anonymous applications being submitted into MVI, (b) DSVA discovery of [repeat-HCA issue](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/hca%202.0/research/oct-2018), and (c) feedback from HEC regarding MVI failures when bad facility names are submitted via ESR. Research and proposals by Gabriel Zucker, Samara Strauss, David Bao, Matt Self.
 
-Changes due to (a) are originally documented [here](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/Anonymous_HCAs.md) and were approved by Josh Faulkner and Serita Rogers in September 2018. General architecture was reviewed with Rainbows.
+Changes due to (a) are originally documented [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/product/anonymous-hcas.md) and were approved by Josh Faulkner and Serita Rogers in September 2018. General architecture was reviewed with Rainbows.
 
 Changes due to (b) were approved by Garth Miller and Denise Kitts on 10/23/18. These changes should be dovetailed with overhauls of the HEC communication process, but HCA changes will be made regardless.
 
 The issue in (c) was surfaced in November 2018 after the rest of these issues were flagged, and is being added to this document 12/10/18.
 
-[Add'l minor issue raised in December 2018](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/SeparationDateLogic.md), regarding separation dates in the future.
+[Add'l minor issue raised in December 2018](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca%201.0/engineering/separationdatelogic.md), regarding separation dates in the future.
 
 
 # Background
@@ -94,8 +94,6 @@ The checks sort Veterans into three categories:
 Here is Josh Faulkner outlining what needs to be done here:
 > From: Faulkner, Joshua I. 
 > Sent: Tuesday, November 20, 2018 8:21 PM
-> To: Zucker, Gabriel <Gabriel.Zucker@va.gov>; Chesney, Christine M. <Christine.Chesney@va.gov>; Reed, Danny L <Danny.Reed@va.gov>
-> Cc: Self, Matthew <Matthew.Self2@va.gov>; Cornelius, Dane <Dane.Cornelius2@va.gov>
 > Subject: RE: Updated facility list
 >  
 > IAM doesn’t maintain the facility listing; it’s a monthly process between VAST, SDS and VistA maint; MVI, ES and others use the same common institution listings. 
@@ -110,7 +108,6 @@ More from emails:
 
 > From: Faulkner, Joshua I. 
 > Sent: Tuesday, November 20, 2018 8:27 PM
-> To: Zucker, Gabriel <Gabriel.Zucker@va.gov>
 > Subject: FW: SDSIR18du118 Release Announcement
 > 
 > Reach out to Jonathan to get your team added to this distro when SDS releases come out. 
@@ -118,7 +115,6 @@ More from emails:
 > 
 > From: Carver, Jonathan R. ( Liberty IT Solutions) 
 > Sent: Wednesday, November 07, 2018 9:00 AM
-> To: Acharya, Shiva (Liberty) <Shiva.Acharya@va.gov>; Apolonio, Augusto A. <Augusto.Apolonio@va.gov>; Baker, Kenneth, (OCC) <Kenneth.Baker2@va.gov>; Barfield, Richard <Richard.Barfield@va.gov>; Barker, Mark D. <Mark.Barker@va.gov>; Bergmann, Michael (Liberty IT Solutions) <Michael.Bergmann@va.gov>; BOIRE, JASON D. <Jason.Boire@va.gov>; Boyette, Jim <Jim.Boyette@va.gov>; Brett Porter <brett.porter@libertyits.com>; Canington, Brenda <Brenda.Canington@va.gov>; Carver, Jonathan R. ( Liberty IT Solutions) <Jonathan.Carver@va.gov>; Chekmasov, Maxim (PSI) <Maxim.Chekmasov@va.gov>; Chen, Jean (HP) <jean.chen2@va.gov>; Urso, Eduardo (Liberty ITS) <Eduardo.Urso@va.gov>; Evans, Kathy <Kathy.Evans3@va.gov>; Faulkner, Joshua I. <Joshua.Faulkner@va.gov>; Gade, Sowjanya (Liberty ITS) <Sowjanya.Gade@va.gov>; Gawronski, Cindi (DXC) <Cindi.Gawronski@va.gov>; Good, Sean M. <Sean.Good@va.gov>; Hall, Joan, VHA Member Services <Joan.Hall1@va.gov>; IAM Access Services <IAMAccessServices@va.gov>; Joubert, Jan, HEC ( Perspecta) <Jan.Joubert@va.gov>; Kalyandurg, Raj (AbleVets) <Raj.Kalyandurg@va.gov>; Karbarz, Richard H. (Hines, IL OI&T FO) <Richard.Karbarz@va.gov>; Kaur, Rene (Favor TechConsulting) <Rene.Kaur@va.gov>; Loucks, Melanie <Melanie.Loucks@va.gov>; Lucas, Megan (Liberty) <Megan.Lucas@va.gov>; Lumb, David (Favor TechConsulting ,LLC) <David.Lumb@va.gov>; Martin, Todd D. (Liberty) <Todd.Martin@va.gov>; McCarthy, Cynthia (EPMO) <Cynthia.McCarthy2@va.gov>; Millard, Jennifer (Liberty IT) <Jennifer.Millard@va.gov>; Nelson Sr., John E. (ProSphere) <John.NelsonSr@va.gov>; Nerella, Asha Nanda (HP) <AshaNanda.Nerella@va.gov>; Nixon, Tony (Liberty IT Solutions) <Tony.Nixon2@va.gov>; OI&T OED MHV VA Employees <MHVVHITVAEmployees@va.gov>; Patel, Keshvee (AbleVets LLC) <Keshvee.Patel@va.gov>; Pickwoad, Gary <Gary.Pickwoad@va.gov>; Pollard, Jim <James.Pollard2@va.gov>; 'puja.singh@vetsez.com'; Reddy, Aruna <Aruna.Reddy@va.gov>; Rizvanolli, Albert (Pro-Sphere) <Albert.Rizvanolli@va.gov>; Rodebush, Louise <Louise.Rodebush@va.gov>; Sapasap, Melanie M <Melanie.Sapasap@va.gov>; Scalise, Greg (KGS) <Greg.Scalise@va.gov>; Sharma, Rekha P. (Favor TechConsulting) <Rekha.Sharma@va.gov>; Singh, Jay (Liberty IT Solutions) <Jay.Singh@va.gov>; Spendlove, Merrill D. <Merrill.Spendlove@va.gov>; Subbaraman, Padma (Favor TechConsulting) <Padma.Subbaraman@va.gov>; Surve, Sanjiv M. (SMS-Leidos) <Sanjiv.Surve@va.gov>; Thippisetty, Venkata (Liberty) <Venkata.Thippisetty@va.gov>; Tjhang, Brandon T. (HP) <Brandon.Tjhang@va.gov>; VA IdS Identity Services <VHAOISDDCSPersonService@va.gov>; OIT EPMO TRS EPS AMS EMD Application Administration <OITEPMOTRSEPSAMSEMDApplicationAdministration@va.gov>; VA OIT PD STS All Staff <VAOITPDSTSAllStaff@va.gov>; VA OIT SDS Healthevet Maintenance <VAOITSDSHealthevetMaintenance@va.gov>; VHA HIG DQ BUSINESS ANALYST <HIGDQANALYST@va.gov>; Whitfield, Venis, HEC <Venis.Whitfield@va.gov>; Wigton, William <William.Wigton@va.gov>; Wood, Craig S.(Leidos) <Craig.Wood3@va.gov>
 > Subject: SDSIR18du118 Release Announcement
 > 
 > Standard Data Services (SDS) announces data update release - SDSIR18du118 which has been applied to SDS Master and replicated to SDS Local instances, based on AITC schedule. Details of the data updates are attached. This update has been applied to AITC SDS Integration environment (SDST01 and SDST02 database on vahdrtpapp08), AITC SQA Environment (SDST01 & SDST02 database on vahdrtpapp08) and AITC Production Environment (HDRP06 database on hdrdbs2). 
@@ -133,5 +129,5 @@ More from emails:
 
 ## Separation Date Validation
 
-Minor issue documented here: https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/HealthApplication/SeparationDateLogic.md.
+Minor issue documented here: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca%201.0/engineering/separationdatelogic.md.
 
