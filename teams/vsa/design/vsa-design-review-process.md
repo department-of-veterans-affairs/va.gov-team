@@ -7,7 +7,7 @@ Each designer on VSA should feel ownership over their own design work. They, alo
 We also expect the designers to be working closely with their teams (product and eng) to ensure their designs are technically feasible and the whole team is on the same page, working towards a solution.  This also means that the designer is ultimately responsible for making sure that what ends up in production matches their designs.
 
 
-## Reviews integrated into the design process
+## Reviews integrated in the early design process
 We expect our designers to be using an iterative standard HCD "double diamond" type process when coming up with solutions.  This includes:
 1. An initial discovery phase to make sure the problem is well-understood
 2. The creation of artifacts like flow charts, tables, and user flows to visualize the landscape that needs to be covered and make sure all edge cases are accounted for
@@ -23,16 +23,16 @@ To ensure that the designer is not working in isolation, during this design proc
 * Present their work in the Monday VA-wide UX and Content meeting when needing feedback from a broader audience
 * Interact with VSP at least once to ensure components are being used correctly
    * If it is a smaller ticket, ping them on the #vfs-platform-support channel, or attend their office hours
-   * If it is a medium-large ticket, schedule a Design Intent Checkin with them when you have a few design directions you are considering.
+   * If it is a medium-large ticket, schedule a Design Intent Checkin with them when you have a few design directions you are considering, using [this ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md)
    * Read more at [Working with the Platform Design Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md) 
-      * Note Accessibility reviews are included in this process, VSP will add Jennifer to the sessions
+      * Note Accessibility reviews are included in this process.
 
 
-## Reviews once design tickets are "final" and read to be "validated."
+## Reviews once design tickets are close to "final" and read to be "validated."
 Once the designer has a direction they are happy with, the following steps are expected:
 1. Message Shawna on Slack to do a quick review and respond to any of her feedback
 2. Interact with VSP at least once more
    * If it is a smaller ticket, ping them on the #vfs-platform-support channel, or attend their office hours
-   * If it is a medium-large ticket, schedule a Design Review with them.
+   * If it is a medium-large ticket, schedule a Design Review with them using [this ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md).
    * Read more at [Working with the Platform Design Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
       * Note Accessibility reviews are included in this process, VSP will add Jennifer to the sessions
