@@ -26,7 +26,7 @@
 
 1. Documentation is not as thorough as it should be -- assumes knowledge on the part of the reader that we shouldn't assume, e.g., that people know what a Github pull request is.
 
-1. Some documentation is not relevant to DSVA or to external contractors, e.g., [PIV card process](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Work%20Practices/Onboarding%20and%20Offboarding/PIV%20Card%20Process.md) is AdHoc-specific and should not be in the VA Github org.
+1. Some documentation is not relevant to DSVA or to external contractors, e.g., [PIV card process]() is AdHoc-specific and should not be in the VA Github org.
 
 1. Many repositories are named "vets.gov." Since that is no longer our domain, we'd like to rename our repos. Also we have too many repos (why is there a separate repo for the content style guide?) We could use this time/effort to better organize our repos.
 
@@ -50,7 +50,7 @@
 
 <hr>
 
-## Current situation - [see image](../images/documentation-current2.png)
+## Current situation - [see image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/documentation-current2.png)
 
 
 ### vets-contrib repo
@@ -173,7 +173,7 @@
 <hr>
 <hr>
 
-## Proposal - [see image](../images/documentation-proposed2.png)
+## Proposal - [see image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/documentation-proposed2.png)
 
 ### vets-contrib repo
 
