@@ -22,7 +22,7 @@
 
 5. **How many people are coming through the Wizard vs. direct traffic to the form?**   
 
-   Since OCT 1, 2019:
+   Since OCT 1, 2019 to DEC 17, 2019:
     * 25,000 people coming through the Wizard (since Oct 1, 2019)
     * 1995 40,000 regular applicants
     * 1995 / STEM – 4,000
