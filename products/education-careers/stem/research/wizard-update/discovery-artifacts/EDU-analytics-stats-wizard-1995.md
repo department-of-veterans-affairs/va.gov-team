@@ -20,11 +20,12 @@
 
    [STEM Data Eligibility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/research/wizard-update/discovery-artifacts/STEM_DATA_ELIGIBILITY.xlsx)
 
-5. **How many people are coming through the Wizard vs. direct traffic to the form?**  
-  Since OCT 1, 2019:
-  * 25,000 people coming through the Wizard (since Oct 1, 2019)
-  * 1995 40,000 regular applicants
-  * 1995 / STEM – 4,000
-  * **122,750 direct traffic to the apply 1995 page**
+5. **How many people are coming through the Wizard vs. direct traffic to the form?**   
+
+   Since OCT 1, 2019:
+    * 25,000 people coming through the Wizard (since Oct 1, 2019)
+    * 1995 40,000 regular applicants
+    * 1995 / STEM – 4,000
+    * **122,750 direct traffic to the apply 1995 page**
 
 
