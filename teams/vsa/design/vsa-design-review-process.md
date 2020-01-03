@@ -23,7 +23,7 @@ To ensure that the designer is not working in isolation, during this design proc
 * Present their work in the Monday VA-wide UX and Content meeting when needing feedback from a broader audience
 * Interact with VSP at least once to ensure components are being used correctly
    * If it is a smaller ticket, ping them on the #vfs-platform-support channel, or attend their office hours
-   * If it is a medium-large ticket, schedule a Design Intent Checkin with them when you have a few design directions you are considering, using [this ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md)
+   * If it is a medium-large ticket, schedule a Design Intent Checkin with them when you have a few design directions you are considering, using [this ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)
    * Read more at [Working with the Platform Design Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md) 
       * Note Accessibility reviews are included in this process.
 
@@ -33,6 +33,6 @@ Once the designer has a direction they are happy with, the following steps are e
 1. Message Shawna on Slack to do a quick review and respond to any of her feedback
 2. Interact with VSP at least once more
    * If it is a smaller ticket, ping them on the #vfs-platform-support channel, or attend their office hours
-   * If it is a medium-large ticket, schedule a Design Review with them using [this ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md).
+   * If it is a medium-large ticket, schedule a Design Review with them using [this ticket template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME).
    * Read more at [Working with the Platform Design Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
       * Note Accessibility reviews are included in this process, VSP will add Jennifer to the sessions
