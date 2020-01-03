@@ -4,13 +4,14 @@
 
 Thanks for joining us today! My name is [NAME]. I also have two colleagues on the line, <Name> & <Name>.  They’ll be taking notes to ensure that we capture your feedback accurately. 
 
-The VA is interested in understanding how military-connected students learn about educational benefits.  
-As part of this research, the VA is interested in learning about how students:   
-- determine their eligibility for educational benefits
-- apply for new benefits and 
-- modify their existing benefits.  
+We are interested in speaking with you today because the VA would like to understand more about how military-connected students learn about educational benefits.  
 
-This week, we are talking with GI Bill students in sessions like this to gather feedback on one of the pages in the Education section of the website.
+As part of this research, the VA is interested in understanding how students:   
+- determine their eligibility for educational benefits
+- apply for new benefits
+- modify their existing benefits
+
+This week, we are talking with GI Bill students in sessions like this to gather feedback on 1 of the pages in the Education section of the website.
 
 Do you have any questions before we get started?
 
@@ -31,7 +32,7 @@ Thank you. Let’s start with a few questions about your degree program.
 
 **Educational background**
 
-1.	Which Educational benefits have you applied for and how did you find out about each them?  
+1.	Which Educational benefits have you applied for in the past and how did you find out about each them?  
 
 2.	Once you were ready to start school, how did you learn more about your eligibilty and the actual application process?
 
@@ -62,7 +63,7 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 2.	Feel free to click the button.  What are your thoughts on this question? What would you expect to happen if you clicked each of the 3 radio buttons?
 
-4.  Have you heard of the STEM Scholarship before?
+4.  Have you heard of the STEM Scholarship before? If yes, what have you heard and how did you hear about it?
 
 5.  How likely would you be to apply for the scholarship?
 
@@ -72,7 +73,7 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 7.  What modifications to the site would help you learn more about the scholarship and who might be eligible for it? 
 
-7.  What additional explanation would you like to see on this page?
+7.  What additional information would you like to see on this page?
 
 8.	What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?
 
