@@ -8,6 +8,7 @@
 * You have to contact [GitHub Support](https://support.github.com/contact) or [GitHub Premium Support](https://enterprise.githubsupport.com/hc/en-us) to permanently remove cached views and references to the sensitive data in pull requests on GitHub. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repositor
 * GitHub recommends merging or closing all open pull requests before removing files from a repository with `git filter-branch` or BFG Repo-Cleaner. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repositor
 * BFG Repo-Cleaner recommends making a backup of a repo before using the BFG Repo-Cleaner. - https://rtyley.github.io/bfg-repo-cleaner/#usage
+* GitHub recommends telling collaborators to rebase, **not merge**, any branches they created off of the old (tainted) repository history because one merge commit could reintroduce some or all of the tainted history. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch
 
 ### Options
 
