@@ -97,6 +97,7 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
 5. Turn the themes that arise them into a research results document. This should typically be a Github page (markdown file) as well as a presentation in the form of a slide deck. 
    * The slide deck should be created using our [Google Docs VA template](https://docs.google.com/presentation/d/1jRNuGqSX2FarzPwRn2YZiwIevGcDEO7u7El_ou34LwY/edit#slide=id.p1), and then exported as a PPT and attached to the findings page.
    * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page. 
+   * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1).
    * Note the Github page with results should be up 6 business days after your last session.  
    * Examples can be found here:
       * [Scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Health%20care/UrgentCare/Research/June-2019/readme.md).  
