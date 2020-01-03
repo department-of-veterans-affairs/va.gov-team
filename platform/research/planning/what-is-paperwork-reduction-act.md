@@ -16,7 +16,7 @@ Read this first: [Overview presentation of PRA for Digital Service folks](https:
 + [Web Based Interactive Technologies and the PRA](https://obamawhitehouse.archives.gov/sites/default/files/omb/inforeg/memos/2014/web-based-interactive-technologies-data-search-tools-calculators-paperwork-reduction-act.pdf)
 
 ## Tools to help comply
-+ [18F's Method cards](methods.18f.gov)
++ [18F's Method cards](https://methods.18f.gov/)
 + [PRA primer from OMB](https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/inforeg/PRAPrimer_04072010.pdf)
 
 ## Common Scenarios
