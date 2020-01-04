@@ -1,9 +1,10 @@
 # Local Nav Research Report
 ## Research overview
 This usability study was meant to evaluate how the user experience of VA.gov could be improved with a redesign of the local, or “left column” navigation component. A new local navigation component was designed as a part of the redesign of VAMC websites, beginning with Pittsburgh’s VAMC system of websites. 
-
-![Existing local navigation design.](image-01.png)
-![New local navigation design.](image-02.png)
+[Existing local navigation design]
+![Existing local navigation design](image-01.png)
+[New local navigation design]
+![New local navigation design](image-02.png)
 
 ### Problem statement
 
@@ -14,11 +15,11 @@ The current local navigation design displays
 * Children pages (one level) when children pages are present
 * Sibling and parent pages when children pages are not present
 
-[old navigation element examples]
-![](image-03.png)
-![](image-04.png)
-![](image-05.png)
-![](image-06.png)
+[Existing local navigation design examples]
+![Local nav default](image-03.png)
+![Local nav expanded](image-04.png)
+![Local nav variation](image-05.png)
+![Local nav variation](image-06.png)
 
 This research sought to answer two larger questions, with many related sub-questions:
 
