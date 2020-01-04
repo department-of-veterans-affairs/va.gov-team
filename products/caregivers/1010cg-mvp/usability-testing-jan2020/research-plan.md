@@ -47,11 +47,10 @@ We would like to work with Perigeon to recruit remote users.  We are looking for
 - Include a mix of Veterans who live and do not live with caregivers
 
 ## When? 	
-- Sessions will take place starting January 15th - 17th.  Sessions may continue into January 20-21st if necessary.
+- Sessions will take place starting January 16th - 17th and January 20-21st.
 - Sessions should last ~45 minutes
 - Specific time slots:
--- 1/15: please schedule sessions between 2pm and 7pm Eastern time
--- 1/16,1/17: please schedule sessions between 9am - 5pm Eastern time
+-- please schedule sessions between 11am - 5pm Eastern time
 
 We will run a pilot session January 14th.  
 	
