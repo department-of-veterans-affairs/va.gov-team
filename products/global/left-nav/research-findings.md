@@ -2,11 +2,8 @@
 ## Research overview
 This usability study was meant to evaluate how the user experience of VA.gov could be improved with a redesign of the local, or “left column” navigation component. A new local navigation component was designed as a part of the redesign of VAMC websites, beginning with Pittsburgh’s VAMC system of websites. 
 
-[old navigation element]
-[image:189EFC10-2A92-480E-82C9-CF53304E0749-6557-000015BB54F48A70/3B79524E-B20A-43CE-8C19-1C2FFC530820.png]
-[new navigation element]
-[image:C55FB697-6E55-44C8-AFC8-E046424C1151-21276-00000486B03560D9/80DE267E-2155-4054-91EA-DC5074767696.png]
-
+![Existing local navigation design.](image-01.png)
+![New local navigation design.](image-02.png)
 
 ### Problem statement
 
@@ -18,13 +15,10 @@ The current local navigation design displays
 * Sibling and parent pages when children pages are not present
 
 [old navigation element examples]
-![](Untitled.png)
-
-
-![](Untitled%202.png)
-![](Untitled%204.png)
-
-![](Untitled%203.png)
+![](image-03.png)
+![](image-04.png)
+![](image-05.png)
+![](image-06.png)
 
 This research sought to answer two larger questions, with many related sub-questions:
 
@@ -98,24 +92,23 @@ Users were confused by the difference in behavior between the “carat” button
 ### Observed benefits of the new design vs. the previous design
 * Some users were not cognizant of changes in the left navigation element until they tried to use it, then expressed frustration at it being different. Upon comparing the new design to the old design, they said that “This (the new design) is a little more user friendly.” 
 
-[old navigation element]
-![](3B79524E-B20A-43CE-8C19-1C2FFC530820.png)
+[Previous local navigation design]
+![Previous local navigation design](image-07.png)
 
-[new navigation element]
-![](80DE267E-2155-4054-91EA-DC5074767696.png)
-
+[New local navigation design]
+![New local navigation design](image-08.png)
 
 
 * The new design has increased support for “satisficing” behaviors. Lateral movement across the site using the new design element was observed in multiple users, without the user being led through any specific click path. 
 
-[work with us/volunteering example]
-![](24B78E7C-9CCE-4F62-A8F8-1FDF155C3492.png)
+[Work with us/volunteering example]
+![Work with us/volunteering example](image-09.png)
 Caption: When asked to learn about volunteering, and then to explore paid work opportunities, users navigated from one place to the other using the navigation without backing out of the page to a higher level parent page. 
 
 * Users were observed moving across deeper levels of the site without relying on or needing any left hand navigation at all, relying on breadcrumbs when the new element is removed. 
 
-[image example of navigation removed]
-![](6172FF82-DA34-49DF-8149-123FED50351F.png)
+[Example of navigation removed]
+![Example of navigation removed](image-10.png)
 Caption: Navigation is removed for pages that are designated not to exist in the navigation, such as fourth level pages like news releases and events. 
 
 Part of the navigation redesign is the logic that pages may exist in the information architecture of the site but not be included in the navigation. The reasoning behind this is to support usability: in a case like news releases, which can be dozens and dozens of items, having those items exist in the left hand navigation can be unwieldy, and at the depth of a specific news release, the user’s goal is to read the release, and not to navigate quickly to another page. 
@@ -128,22 +121,21 @@ Users were observed assuming that “Policies,” a sibling page to “Research,
 
 Related to this issue are usability issues around clicking on a top-level parent item to expand a menu, as opposed to taking a user to a page. Users would think they were already on a page, and observe items beneath the expanded menu, assuming all subsequent items were children. 
 
-[Show “Research” “Policies” example] 
-![](ED4BF455-4E1D-45EE-B3A2-537E15F53A8C.png)
+[“Research” “Policies” example]
+![“Research” “Policies” example](image-11.png)
 
 * Breadcrumbs are rendered inconsistently, with the “Home” link displaying and disappearing throughout different levels of the Pittsburgh VAMC pages. 
 This should be corrected before launching the new local navigation design. Successfully using the design of the new local navigation requires understanding the meaning of the breadcrumbs, especially the “Home” breadcrumb, if it’s present, as together they provide clarity on where a user is located in the site. Nearly all users were observed clicking on “Home” expecting to go to the Pittsburgh VAMC home page, as opposed to the VA home page. 
 
-[Show disappearing home examples]
-![](3CC1CF35-B638-4919-89A2-AD3916D466D9.png)
-![](D7A47D58-0257-4B80-BD27-762829928456.png)
+[Home disappears from the breadcrumbs without reason]
+![Home disappears from the breadcrumbs without reason](image-12.png)
+![Home disappears from the breadcrumbs without reason](image-13.png)
 
 * Breadcrumbs and primary or “site-wide” navigation elements were confused when the “Home” breadcrumb is removed. 
 One of the overall navigation improvements of the Pittsburgh VAMC site was the removal of the “Home” breadcrumb for users of this section of the site. When it was removed, the first item in the navigation was “VA Pittsburgh Health Care,” and it was immediately underneath the “VA Benefits and Health Care” item in the primary navigation. Users were observed clicking on one item (the site wide navigation) when they intended to click on the other (the top level breadcrumb). This created confusion when instead of the user being returned to the Pittsburgh VAMC home page, the mega-menu was revealed. 
 
-[image: Navigation confusion]
-
-![](3CC1CF35-B638-4919-89A2-AD3916D466D9.png)
+[Navigation confusion example]
+![Navigation confusion example](image-14.png)
 
 ### Observed Issues
 Observed issues are usability problems that were observed for enough users that it may constitute a pattern. It is recommended that either these issues be addressed with design revisions or improvements in functionality, or further research be preformed to confirm that these issues are common among enough users to constitute a pattern.
@@ -159,13 +151,15 @@ Older users tend to either double click by default, or double click when they be
 * Information architecture was confusing for some users when they clicked on  “See all Events.”
 On event detail pages, there is a link to “See all events.” However prior to that page, there is an ability to change between upcoming events and past events. Users who had clicked on “Past events,” and then gone into an event detail, expressed confusion when they clicked on “See all events,” and were returned to “Upcoming events.” 
 
-![](Untitled.png)
+[IA confusion example around Events]
+![IA confusion example around Events](image-15.png)
 Caption: The “See all events” goes to “Upcoming events” when the user has already filtered on “Past events.” 
 
 * When certain items are not in the left hand navigation, it can be confusing and feel arbitrary. 
 Events, Stories and News releases are not listed in the left hand navigation because the number of them would make the navigation’s size become unwieldy. However it seems as though other pages can be found which exist in the navigation, but don’t show up in the local navigation, and this was confusing to some users. This issues seems specific to specialized content, such as reports. 
 
-![](82F511D2-7238-4A46-B871-8D72D8164B02.png)
+[IA confusion example around pages missing from local navigation]
+![IA confusion example around pages missing from local navigation](image-16.png)
 Caption: The user expressed confusion at seeing this report on Water quality monitoring in the breadcrumbs under “About us,” but not in the local navigation. 
 
 ## Recommendations
