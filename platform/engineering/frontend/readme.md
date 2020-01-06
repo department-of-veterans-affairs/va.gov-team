@@ -6,6 +6,6 @@
 * [Request Design QA](request-design-qa.md)
 * [Request Content QA](request-content-qa.md)
 * [Request IA Review](request-ia-review.md)
-* [Request Contact Center Review](request-contact-center-review.md)  
+* [Request Contact Center Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md)  
 * [Request Google Analytics](request-google-analytics.md)    
 * [Request for Load Testing](request-load-testing.md)  
