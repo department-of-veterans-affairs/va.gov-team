@@ -1,5 +1,4 @@
-# STEM Scholarship - Wizard Update 
-## Prototype Research Plan
+# STEM Scholarship Wizard Update - Prototype Research Plan
 
 Jan 20, 2019 – Jan 31, 2020
 
