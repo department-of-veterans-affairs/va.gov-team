@@ -67,4 +67,4 @@ We will work with Perigean for recruiting.
 - [Notes]() *TBD*
 - [Synthesis]() *TBD*
 - [Read-Out/Results]() *TBD*
-This research plan was approved by [] on [].
+This research plan was approved by Andrea Schneider on Friday, Jan 3rd, 2020.
