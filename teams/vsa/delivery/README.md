@@ -57,15 +57,15 @@ Essentially, a requirement is a way to describe what needs to be implemented. Re
 
 ## Epics
 
-Epics are a high level business needs and expressed the strategic intent in plain, clear language. There is an EPIC TEMPLATE 
+Epics are a high level business needs and expressed the strategic intent in plain, clear language. There is an [EPIC TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/epic-issue.md) 
 
 ## Issues
 
-Issues (also known are User Stories) are decomposed Epics that can be completed within a single sprint. Issues describe a specific functionality that delivers direct business value. Here is the USER STORY TEMPLATE
+Issues (also known are User Stories) are decomposed Epics that can be completed within a single sprint. Issues describe a specific functionality that delivers direct business value. Here is the [USER STORY TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/user-story-template.md)
 
 ## Bugs
 
-Bugs are errors found in usage of the VSA Products. Here is the BUG TEMPLATE
+Bugs are errors found in usage of the VSA Products. Here is the [BUG TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/bug-issue.md)
 
 
 
