@@ -28,6 +28,14 @@ The Insights + Analytics team will pilot a new ZenHub-only way of tracking sprin
 - DEPO pulls epics into the DEPO product board, or mirrors them w/a link
 - No more google doc comments! The leads (and everyone else) comment directly on the issue with questions.
 
+Feedback / questions to consider to inform the above plans
+- What about the tracking epics?  Those are super epics that are always in the Now Epics column. The board has both regular epics and super epics in one place right now.
+- How would we handle not completing work in a sprint? How would this effect us? ie work that needs to be carried over to the next sprint? Just make a comment and say this work will continue into next sprint and leave it in the in progress slot?
+- what about things with open PRs that aren't merged by Tuesday at 4pm EST but maybe Wednesday or Friday after the sprint ends
+- how could we see historical sprint work?  Would there be a snapshot taken certain times? looking at closed tickets is a pain and if anyone has a way to look at them without clicking “Load more issues” multiple times, would love you’re advice!
+- Does that report show anything that has ever been in a mile stone? Or what is currently in it? So for the situation where something isn't done in a sprint and carries over to the next one so therefore moves milestones, would it show up in just one report or both?
+- How do we enable DEPO to understand holistically what's going on, vs the granular nature of the tickets today?
+
 ### Findings
 #### Problems / challenges / pain points (both for team and for client)
 #### Benefits / success points (both for team and for client)
