@@ -11,6 +11,8 @@ Stakeholders:
 ## The Problem
 The complete breakdown on the timing of an http request from vets-api to an external service is currently difficult to determine. Investigation into how we can report and display request time metrics is necessary to expose a more complete breakdown of request times.
 
+A solution is needed in relation to pre-defined request time limits (SLOs or average metric data). If we are able to compare real-time data to benchmark request time expectations, a more definitive answer to whether a service is performing sufficiently can easily be comprehended by product or leadership personnel.
+
 ## User Goals
 The end user goal is for product personnel to have access to easily identifiable metrics in a less technical way to determine when service request times are performing adequately or inadequately.
 
@@ -18,7 +20,6 @@ The end user goal is for product personnel to have access to easily identifiable
 
 
 ## Assumptions
-
 
 ## Questions
 * How can we report on number of users affected?
