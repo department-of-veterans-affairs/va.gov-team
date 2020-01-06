@@ -1,1 +1,63 @@
+# Research Plan for Facility Locator Urgent Care PDF - January 2020
+Prepared by Aricka Lewis
+
+## Goals
+This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Locator team.
+
+The Facility Locator is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA.
+
+Our objective for this research is
+
+#### Research questions:
+
+#### Hypothesis: 
+Our hypothesis is 
+
+## Method
+Remote Moderated Usability Testing 
+
+## Participants and Recruitment
+Participant Criteria
+- Goal: 5 Participants
+- Veterans and Caregivers
+- All ages
+- Representative gender demographic (at least 1 woman)
+- All levels of familiarity with technology
+
+Recruitment to be done through Perigean
+
+## Timeline
+
+#### Desired Timeline: 
+30 minute sessions
+
+Team Availability | Time (EST)
+------------------|--------------
+
+
+#### Pilot Date: 
+Design team member(s): 
+
+## Team Roles
+Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
+- Moderator: Aricka Lewis
+- Research guide writing and task development (usually but not always same as moderator): Aricka lewis
+- Participant recruiting & screening: Perigean
+- Project point of contact: Aricka Lewis
+- Participant(s) for pilot test: 
+- Note-takers: 
+- Observers: Dave Conlon, Lance Sanchez, Gibran Rodriguez, Michelle Middaugh, Ryan Thurlwell
+
+## Resources
+- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md)
+
+- [Discussion Guide]
+
+- [Notes & Recordings]team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care/participant-notes)
+
+- Synthesis
+
+- Read-Out/Results
+
+*This plan was approved by Lauren Alexanderson on XX/XX/XXXX*
 
