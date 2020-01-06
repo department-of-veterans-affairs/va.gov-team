@@ -31,6 +31,7 @@
 *Examples*:
 
 [Example Product Guide 1](../Templates/sample-product-guide-1.pdf)
+
 [Example Product Guide 2](../Templates/sample-product-guide-2.pdf)
 
 ### Step 2: Create the Product Video
