@@ -12,7 +12,7 @@ Stakeholders:
 The complete breakdown on the timing of an http request from vets-api to an external service is currently difficult to determine. Investigation into how we can report and display request time metrics is necessary to expose a more complete breakdown of request times.
 
 ## User Goals
-
+The end user goal is for product personnel to have access to easily identifiable metrics in a less technical way to determine when service request times are performing adequately or inadequately.
 
 ## Business Goals
 
