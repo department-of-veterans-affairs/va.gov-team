@@ -186,3 +186,7 @@ Erik may end up helping with some of this.
   ### Error Matrix
 
 - Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
+
+## Long term planning
+
+- Tressa out: Feb 9 – 19
