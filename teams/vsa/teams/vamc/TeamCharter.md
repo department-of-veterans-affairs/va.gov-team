@@ -1,14 +1,21 @@
 # VAMC-Upgrade Team
 
-### Description of Current Work
-_Update and Modernize VA.gov-[Medical Center] websites using human-centered design, agile development, and DevOps practices that emphasize continuous integration/continuous delivery to iterate on the best solutions for VA.gov Medical Center website users. Utilize the pilot project website 'www.va.gov/pittsburg-health-care/ as the template and base of continuing and improving our customer experience_
+## Guideposts
+### VAMC Mission Statement
+Enable Veterans,their family, and caregivers, through use of the VA's VISN Medical Center Websites, to quickly provide access to the tools and information needed in their VA health care journey.  Remove obsticals and promote a streamlined, easy to navigate, and easy to understand digital experience.  Escalate this normalized and standardized methodology accross all VISNs using economies of scale and advanced Agile practices. 
+
+### VAMC Vision
+WIP
+
+
+## What we work on
 
 ### Product Line Focus
 _VA Medical Center Website Modernization starting with:_
 _VISN 4_
 
-### Mission Statement
-Enable Veterans,their family, and caregivers, through use of the VA's VISN Medical Center Websites, to quickly provide access to the tools and information needed in their VA health care journey.  Remove obsticals and promote a streamlined, easy to navigate, and easy to understand digital experience.  Escalate this normalized and standardized methodology accross all VISNs using economies of scale and advanced Agile practices. 
+### Description of Current Work
+_Update and Modernize VA.gov-[Medical Center] websites using human-centered design, agile development, and DevOps practices that emphasize continuous integration/continuous delivery to iterate on the best solutions for VA.gov Medical Center website users. Utilize the pilot project website 'www.va.gov/pittsburg-health-care/ as the template and base of continuing and improving our customer experience_
 
 ### Slack Channels
 - #vamc-upgrade
