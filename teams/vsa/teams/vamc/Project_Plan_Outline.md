@@ -83,7 +83,12 @@ Money spent on programs at the VA will be better utilized.
 - Improve the customer experience through clear, standardized, and prioritized site pages and jump links, reducing overall page searches and jumps.
 - Word Count: Reduce overall site word count to streamline content into more precise, efficient and plain language content getting the Veteran to where they want to go in a more clear and precise manner. 
 
+### Speed/Velocity/Launch/etc.
+- Time to launch page component across VISN...
+
 - Using the Archetypes, determine the parts of the legacy web pages that can quickly be scalable across the VISNs.
+
+
 - (Note: KPIs have not yet been finalized)
 
 ---
