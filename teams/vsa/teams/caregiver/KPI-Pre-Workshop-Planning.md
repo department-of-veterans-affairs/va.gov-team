@@ -27,13 +27,14 @@ _What are the major user and business pain points along the entirety of the serv
 
 1. Lack of clarity around program eligibility, requirements, and timeline (no single source of truth)
 2. Application processing times are too long
-3. Information that is available is disjointed, hard to understand, and leaves room for error on both sides
-
+2b.Submission is a hassle - the veteran has to find the paper form, print it, fill it out, then mail in or bring to VA Medical Center
+3. There is a lack of user control - they want to know application status throughout process
+4. Veterans expressed concerns about who has access to their info
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-1. Increase Caregiver understanding/confidence throughout the program by providing a submission receipt and giving ours uers more points of contact and reference.
+1. Increase Caregiver understanding/confidence throughout the program by providing a submission receipt and giving users more points of contact and reference.
 2. More applications are filled out and processed properly
 3. More people who are eligible for the Caregiver program apply and properly submit the needed information
 4. Become a single source of truth for program eligibility, information, and requirements
