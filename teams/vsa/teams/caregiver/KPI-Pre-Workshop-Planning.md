@@ -25,18 +25,18 @@ _Stating this will help ensure your strategy for what to build and pain points t
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
 
-- Lack of clarity around program eligibility, requirements, and timeline (no single source of truth)
-- Application processing times are too long
-- Information that is available is disjointed, hard to understand, and leaves room for error on both sides
+1. Lack of clarity around program eligibility, requirements, and timeline (no single source of truth)
+2. Application processing times are too long
+3. Information that is available is disjointed, hard to understand, and leaves room for error on both sides
 
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-- Increase Caregiver understanding/confidence throughout the program by providing a submission receipt and giving ours uers more points of contact and reference.
-- More applications are filled out and processed properly
-- More people who are eligible for the Caregiver program apply and properly submit the needed information
-- Become a single source of truth for program eligibility, information, and requirements
+1. Increase Caregiver understanding/confidence throughout the program by providing a submission receipt and giving ours uers more points of contact and reference.
+2. More applications are filled out and processed properly
+3. More people who are eligible for the Caregiver program apply and properly submit the needed information
+4. Become a single source of truth for program eligibility, information, and requirements
 
 ### Hypotheses
 _What do you plan to do/build/create to achieve your user and business goals?_
