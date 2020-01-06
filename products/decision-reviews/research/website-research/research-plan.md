@@ -19,6 +19,7 @@ As this process will be be exclusive moving forward (Feb 19, 2020), we are inter
 	- Within the Decision Reviews section:
 		- What page information is useful to them?
 		- What helps them make a decision about which lane is correct for them?
+		- Would a left hand navigation element be useful? If so, how?
 - How do veterans determine which appeals lane is correct for them?
 	- What do they already know about Decision Reviews?
 	- Do they understand the difference between Decision Reviews and the currently existing (legacy) appeals process?
