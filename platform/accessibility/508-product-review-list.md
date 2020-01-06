@@ -56,19 +56,19 @@ Each application or logical section of the site will have a heading and a detail
 * [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1
 * [[SCREENREADER]: Legends must be first child element of fieldesets for tabbing navigation - #767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767)<br/>
-**Opened:** July 31, 2019 | **Severity:** 508-defect-2
+**Production** | **Opened:** July 31, 2019 | **Severity:** 508-defect-2
 * [[SCREENREADER]: JAWS does not announce some sections of the multi-step forms when loaded - #317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317)<br/>
-**Opened:** June 18, 2019 | **Severity:** 508-defect-2
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2
 * [[SCREENREADER]: Text and inputs added dynamically should be announced by screen readers - #316](https://github.com/department-of-veterans-affairs/va.gov-team/issues/316)<br/>
-**Opened:** June 18, 2019 | **Severity:** 508-defect-2
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-2
 * [[KEYBOARD]: main nav accessibility -- tabbing in small screens - #1144](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1144)<br/>
-**Opened:** August 20, 2019 | **Severity:** 508-defect-2
+**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-2
 * [[SCREENREADER]: JAWS + Chrome enables focus mode when we focus breadcrumb UL on page load - #319](https://github.com/department-of-veterans-affairs/va.gov-team/issues/319)<br/>
-**Opened:** June 18, 2019 | **Severity:** 508-defect-3
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3
 * [[SCREENREADER]: Review sections with no header cause aria-label errors - #318](https://github.com/department-of-veterans-affairs/va.gov-team/issues/318)<br/>
-**Opened:** June 18, 2019 | **Severity:** 508-defect-3
+**Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-3
 * [[SCREENREADER]: VET TEC - NVDA does not read the error if I forget to agree to the privacy policy - #1141](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1141)<br/>
-**Opened:** August 20, 2019 | **Severity:** 508-defect-3
+**Production** | **Opened:** August 20, 2019 | **Severity:** 508-defect-3
 * [[EXPLORATION]: Turn on jsx-a11y ESLint rules - #1139](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1139)<br/>
 **Opened:** August 20, 2019 | **Severity:** 508-defect-4
 * [[EXPLORATION]: Disable known buggy axe rules individually - #1140](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1140)<br/>
@@ -76,9 +76,9 @@ Each application or logical section of the site will have a heading and a detail
 * [[EXPLORATION]: Reconsider structure of multiple pages within a single "part" of a form - #1145](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145)<br/>
 **Opened:** August 20, 2019 | **Severity:** 508-defect-4
 * [Implement utility class for removing gold outline during focus - #457](https://github.com/department-of-veterans-affairs/va.gov-team/issues/457)<br/>
-**Opened:** July 1, 2019 | **Severity:** 508-defect-4
+**Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4
 * [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
-**Opened:** July 1, 2019 | **Severity:** 508-defect-4
+**Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4
 
 ---
 
