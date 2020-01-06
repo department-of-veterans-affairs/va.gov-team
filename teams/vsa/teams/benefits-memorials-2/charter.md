@@ -7,12 +7,20 @@
 ### **VSA North Star**
 Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
-### **Product Line** 
-Benefits and Memorial Services 
+### Team North Star:
+Increase Veteran's awareness of GI Bill education, reduce application processing time, increase veteran's awarness of what is required for each step. 
+Increase Veteran's over-all customer satifaction when ordering items from the Denver Logistic Center. 
+
+### Team Vision:
+Build an online experience that allows veterans to easily apply for, track, and manage the enrollment process for school. 
 
 ### **Mission Statement**
-Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
-(look into this statement, this is very broad)
+To provide the ability for Veteran to complete their whole DLC orders online on line at VA.gov (previously Forms: 2345 & 2346).
+Education: TBD (tentative meeting set for Jan 6th)
+
+### **Product Line** 
+Benefits and Memorial Services
+
 ### **Product Portfolio**
   - [Medical Device Tool](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool)
   - Certification of Eligibility Process 
