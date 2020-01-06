@@ -26,10 +26,10 @@ _Stating this will help ensure your strategy for what to build and pain points t
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
 
 1. Lack of clarity around program eligibility, requirements, and timeline (no single source of truth)
-2. Application processing times are too long
-3.Submission is a hassle - the veteran has to find the paper form, print it, fill it out, then mail in or bring to VA Medical Center
-4. There is a lack of user control - they want to know application status throughout process
-5. Veterans expressed concerns about who has access to their info
+2. Application processing times are too long 
+2b.Submission is a hassle - the veteran has to find the paper form, print it, fill it out, then mail in or bring to VA Medical Center
+3. There is a lack of user control - they want to know application status throughout process
+4. Veterans expressed concerns about who has access to their info
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
