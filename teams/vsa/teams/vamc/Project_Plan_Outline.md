@@ -77,9 +77,12 @@ Not having to travel from webpage to webpage causing confusion and frustration a
 Money spent on programs at the VA will be better utilized.
 
 ## KPIs
-- Reduce the number of total site pages that will in turn increase search-engine optimization.
+
+### Quality
+- Number of total page sites: Reduce the number of total site pages that will in turn increase search-engine optimization.
 - Improve the customer experience through clear, standardized, and prioritized site pages and jump links, reducing overall page searches and jumps.
-- Reduce overall site word count to streamline content into more precise, efficient and plain language content getting the Veteran to where they want to go in a more clear and precise manner. 
+- Word Count: Reduce overall site word count to streamline content into more precise, efficient and plain language content getting the Veteran to where they want to go in a more clear and precise manner. 
+
 - Using the Archetypes, determine the parts of the legacy web pages that can quickly be scalable across the VISNs.
 - (Note: KPIs have not yet been finalized)
 
