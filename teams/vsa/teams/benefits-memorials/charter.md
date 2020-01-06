@@ -4,14 +4,13 @@
 
 # **VSA Benefits and Memorials Team Charter**
 
-### **VSA North Star**
-Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
+## Guideposts 
+### B&M 1  Mission Statement:
+Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
+## What we work on
 ### **Product Line** 
 Benefits and Memorial Services 
-
-### **Mission Statement**
-Enable Veterans, their dependents, and caregivers to easily discover, apply for, track, and manage their benefits in one place.
 
 ### **Product Portfolio**
   * 526 - Disability Claims and Appeals
