@@ -1,10 +1,12 @@
 # Contact Center
 
-### General
+## Overview
 
-* All applications on the Veteran-facing Services Platform include a phone number Veterans can call to ask questions about the application's functionality.
-* **Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must file a Contact Center Review issue that includes a Product Guide and Product Video. The VSP Call Center will review these materials and pass along to the relevant contact centers to ensure that Contact Center Representatives are prepared to answer questions about the functionality.**
-* **VFS teams should file a Contact Center Review issue...**
+All applications on the Veteran-facing Services Platform include a phone number Veterans can call to ask questions about the application's functionality.
+
+**Before applications (or new features) launch on the Veteran-facing Services Platform, all teams must file a Contact Center Review issue that includes a Product Guide and Product Video.** The VSP Call Center team will review these materials and share with the relevant contact centers to ensure that Contact Center Representatives are prepared to answer questions about the new functionality.
+
+**VFS teams should file a Contact Center Review issue...**
   1. When the complete and final build is on staging and they are confident it's ready to launch,
   1. After they've completed the [Prepare for Contact Center Review](#prepare-for-contact-center-review) steps and,
   1. At least *4 weeks* prior to the launch date for a brand new service **OR**,
