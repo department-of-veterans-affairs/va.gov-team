@@ -8,6 +8,12 @@
 ### B&M 1  Mission Statement:
 Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
 
+### B&M 1 Vision:
+WIP
+
+### B&M 1  North Star:
+WIP
+
 ## What we work on
 ### **Product Line** 
 Benefits and Memorial Services 
