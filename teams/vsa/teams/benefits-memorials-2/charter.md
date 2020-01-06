@@ -33,7 +33,7 @@ Benefits and Memorial Services
 TBD
 
 ### **Roadmap**
-![Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Road-map%202small.PNG)
+[Road Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/Benefits%20and%20Memorials%202%20Road%20Map%20v3.png)
 
 ### **Team Members**
 
@@ -48,7 +48,8 @@ TBD
 |Design Researcher      |Riley Orr                           |
 |Design Researcher      |Becca Walsh                         |
 
-
+## KPIs
+[Medical Device Tool KIP's](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)
 
 ### **Workflow + Cadence**
 
@@ -129,6 +130,12 @@ _The requirements that must be met in order to mark this user story as completed
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)
 - [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `call center`, `research`, `accessibility`, `content`)
 - [ ] **Labeled with Type** (`bug`, `request`, `discovery`, `documentation`, etc.)
+
+## Next Steps
+- Tickets, or Actions
+
+## Blockers & Dependencies
+- Tickets, Groups, Teams, Events
   
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 
