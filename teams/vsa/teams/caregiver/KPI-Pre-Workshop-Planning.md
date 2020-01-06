@@ -21,7 +21,6 @@ _Stating this will help ensure your strategy for what to build and pain points t
 - Increase Veteran (and caregiver) access to support by digitizing the 1010-CG Form
 - Increase the Caregivers' confidence around the program, application process, and form submission
 - Provide relevant information to Veterans and Caregivers in a way that is easy for them to understand
-- [Fill out here]
 
 ### Pain Points
 _What are the major user and business pain points along the entirety of the service your product is a part of?_
@@ -29,7 +28,7 @@ _What are the major user and business pain points along the entirety of the serv
 - Lack of clarity around program eligibility, requirements, and timeline (no single source of truth)
 - Application processing times are too long
 - Information that is available is disjointed, hard to understand, and leaves room for error on both sides
-- [Fill out here]
+
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
