@@ -1,14 +1,23 @@
-_WIP_
+```diff
+- WIP - Subject to change
+```
+
 # VSA: Facility Locator
 
-## VSA North Star:(TBD)
+## Guideposts 
+### Facility Locator Mission Statement:
+Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA facilities
+
+### Facility Locator Vision:
+WIP
+
+### Facility Locator North Star:
+WIP
+
+## What we work on
 
 **Product Line:**
 Global unauthenticated experience team for VA.gov.
-
-**Mission Statement:**
-Provides Veterans, family members, caregivers, service members and other
-audiences access to vital information about VA facilities
 
 **Product Portfolio:**
 
