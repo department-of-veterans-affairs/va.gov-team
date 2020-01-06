@@ -9,7 +9,7 @@ Product POCs: Alex Pappas
 Stakeholders:
 
 ## The Problem
-
+The complete breakdown on the timing of an http request from vets-api to an external service is currently difficult to determine. Investigation into how we can report and display request time metrics is necessary to expose a more complete breakdown of request times.
 
 ## User Goals
 
