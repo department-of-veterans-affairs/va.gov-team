@@ -54,7 +54,7 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 **/register-for-care**
 - **H1:** Register for care
-- **Intro text:** Register to get care at one of our VA Pittsburgh health care locations. Not yet enrolled in VA health care? We can help you apply in person or get started online.
+- **Intro text:** Register to get care at one of our VA Pittsburgh health care facilities. Not yet enrolled in VA health care? We can help you apply in person or get started online.
 
 **/billing-insurance**
 - **H1:** Billing and insurance
@@ -62,7 +62,7 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 **/medical-records-office**
 - **H1:** Medical records office
-- **Intro text:** Get copies of your VA medical records online, by mail or fax, or in person at our VA Pittsburgh Release of Information office.
+- **Intro text:** Get copies of your VA medical records online, by mail or fax, or in person at our VA Pittsburgh health care Release of Information office.
 
 **/pharmacy**
 - **H1:** Pharmacy
@@ -75,7 +75,7 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 **/dav-vans-transportation-for-veterans**
 - **H1:** DAV Vans: transportation for Veterans
-- **Intro text:** The Disabled American Veterans (DAV) provides free van rides to and from VA Pittsburgh facilities to Veterans who don’t have other transportation options. Find out how to schedule a DAV van ride.
+- **Intro text:** The Disabled American Veterans (DAV) provides free van rides to and from VA Pittsburgh health care facilities to Veterans who don’t have other transportation options. Find out how to schedule a DAV van ride.
 
 ## Level 3
 **/[facility-detail-page]**
@@ -89,36 +89,36 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 **/caregiver-support**
 - **H1:** Caregiver support
-- **Intro text:** VA Pittsburgh offers a number of services to support you and the Veteran you care for. Ask a caregiver support coordinator to help you find what you need, whether it's in-home help, someone to listen, or anything in between.
+- **Intro text:** VA Pittsburgh health care offers a number of services to support you and the Veteran you care for. Ask a caregiver support coordinator to help you find what you need, whether it's in-home help, someone to listen, or anything in between.
 
 **/homeless-veteran-care**
 - **H1:** Homeless Veteran care
-- **Intro text:** If you are a Veteran who is homeless or at risk of becoming homeless due to financial hardship, unemployment, addiction, depression, or transition from jail, VA Pittsburgh can help you. Contact a homeless services care coordinator to get help.
+- **Intro text:** If you are a Veteran who is homeless or at risk of becoming homeless due to financial hardship, unemployment, addiction, depression, or transition from jail, VA Pittsburgh health care can help you. Contact a homeless services care coordinator to get help.
 
 **/lgbt-veteran-care**
 - **H1:** LGBT Veteran care
-- **Intro text:** VA Pittsburgh employees receive training in clinical care that is responsive to the unique needs of LGBT Veterans. Our trained LGBT Veteran care coordinators are fully equipped to support the health, welfare, and dignity of you and your family.
+- **Intro text:** VA Pittsburgh health care employees receive training in clinical care that is responsive to the unique needs of LGBT Veterans. Our trained LGBT Veteran care coordinators are fully equipped to support the health, welfare, and dignity of you and your family.
 
 **/mental-health-care**
 - **H1:** Mental health care
-- **Intro text:** VA Pittsburgh operates one of the most comprehensive behavioral health programs in the VA. We are a regional center of excellence for Veteran-focused mental health care. Ask a care coordinator about treatment options suited to your unique needs.
+- **Intro text:** VA Pittsburgh health care operates one of the most comprehensive behavioral health programs in the VA. We are a regional center of excellence for Veteran-focused mental health care. Ask a care coordinator about treatment options suited to your unique needs.
 
 **/minority-veteran-care**
 - **H1:** Minority Veteran care
-- **Intro text:** The VA Pittsburgh Minority Veterans Program works to increase local awareness of minority Veteran related issues, to increase participation in VA benefits, and to ensure that we provide equitable benefits and services without barriers to access. Our care coordinator can help you find the resources you need.
+- **Intro text:** VA Pittsburgh health care works to increase local awareness of minority Veteran related issues, to increase participation in VA benefits, and to ensure that we provide equitable benefits and services without barriers to access. Our care coordinator can help you find the resources you need.
 
 **/patient-advocates**
 - **H1:** Patient advocates
-- **Intro text:** The patient advocates at VA Pittsburgh are specially trained to help you resolve issues with your care. If you've experienced any problems that you haven't been able to resolve by talking with your care team, please reach out to one of our patient advocates.
+- **Intro text:** The patient advocates at VA Pittsburgh health care are specially trained to help you resolve issues with your care. If you've experienced any problems that you haven't been able to resolve by talking with your care team, please reach out to one of our patient advocates.
 
 **/returning-service-member-care**
 - **H1:** Returning service mamber care
-- **Intro text:** VA Pittsburgh provides health care and other benefits to the newest Veterans returning from service, even if you are still on active duty or an activated member of the National Guard or Reserve. Talk to a care coordinator about making use of your health care benefits.
+- **Intro text:** VA Pittsburgh health care provides health care and other benefits to the newest Veterans returning from service, even if you are still on active duty or an activated member of the National Guard or Reserve. Talk to a care coordinator about making use of your health care benefits.
 
 **/suicide-prevention**
 - **H1:** Suicide prevention
-- **Intro text:** If you're a Veteran in crisis or you're concerned about a Veteran in crisis, VA Pittsburgh's suicide prevention coordinators can get you the support you need. They work with our behavioral health providers and community organizations to assist Veterans who are managing emotional or mental health crises.
+- **Intro text:** If you're a Veteran in crisis or you're concerned about a Veteran in crisis, VA Pittsburgh health care suicide prevention coordinators can get you the support you need. They work with our behavioral health providers and community organizations to assist Veterans who are managing emotional or mental health crises.
 
 **/women-veteran-care**
 - **H1:** Women Veteran care
-- **Intro text:** VA Pittsburgh supports the health, welfare, and dignity of female Veterans and their families by ensuring equal access to timely, sensitive, and quality health care. The Women Veteran Program Manager is the care coordinator for the care and services you need.
+- **Intro text:** VA Pittsburgh health care supports the health, welfare, and dignity of female Veterans and their families by ensuring equal access to timely, sensitive, and quality care. A women Veteran care coordinator can help you get the services you need.
