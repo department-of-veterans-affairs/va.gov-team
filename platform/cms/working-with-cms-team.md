@@ -11,7 +11,9 @@ This document will help all teams working on VA.gov understand when you should e
 
 ## <a id="whentorequest"></a>When to check-in/collaborate with CMS team
 
-CMS support is available anytime you have questions or want to collaborate on your work, so don't hesitate to reach out at any time. Here are some key times in your work, where collaborating with IA can be helpful. Keeping us up to speed on your work will reduce the time needed for an IA review and reduce the risk of needing to do rework. 
+CMS support is available anytime you have questions or want to collaborate on your work, so don't hesitate to reach out at any time. 
+
+### For product designers and managers
 
 **At project kick-off** 
 - If your project involves non-authenticated (public) content, it is helpful to get a high level overview of the CMS and its products. 
@@ -24,9 +26,18 @@ CMS support is available anytime you have questions or want to collaborate on yo
 - If your product involves additions to the content model and/or the editorial experience, please involve (who?) from the CMS team on a regular basis.  
 
 **During Development** 
-- Back end (CMS) development. (*needs writing*)
-  - Code workflow
+
+
+### For developers 
+
+**Onboarding**
+
+- needs writing
+
+**During Development** 
+- Back end (CMS) development.
 - Front end development
+
 
 
 ## <a id="cms-scoping-exercise"></a>What is a CMS scoping exercise?
@@ -35,6 +46,7 @@ If you expect content in your product to be managed from within the CMS, we reco
 
 Much like in the design intent checkin, your designs should be in the early stages, like low-fidelity whiteboard or pencil sketches and/or wireframes. Everything doesn’t need to be perfect. We have an iterative design culture and encourage feedback early and often.
 
+
 **Here are the key things evaluated in CMS discovery**
 
 1. Content model implications of a new product
@@ -42,7 +54,7 @@ Much like in the design intent checkin, your designs should be in the early stag
 3. Training and documentation requirements
 4. Navigation and IA
 
-## <a id="howtorequest"></a>How to request CMS support 
+### <a id="howtorequest"></a>How to request CMS support 
 
 Please be sure to make requests ahead of time - ideally a sprint ahead of time. 
 
@@ -50,12 +62,12 @@ Please be sure to make requests ahead of time - ideally a sprint ahead of time.
 1. Choose standard issue template.
 1. Title for the issue: ```CMS Review: [title of tool/app/page]```
 1. Please include the following as applicable:
- - Links to the design intent issue and/or IA Reviews, and any notes or outcomes that 
- - Rough wireframe, extra low-fidelity is fine.
+ - Links to the design intent issue and/or IA Reviews, and any notes or outcomes that. 
  - A description of the problem you solving
- - Rough Product timeline.
+ - A rough Product timeline.
  - A couple sentences describing who will own and manage this content, and who the stakeholders are. If you are not sure yet, that's fine.
   - Helpful, but not required:
+    - A rough wireframe, extra low-fidelity is fine.
     - Any IA documentation you/your team has created
     - Links to any applicable research
 
@@ -63,6 +75,15 @@ Please be sure to make requests ahead of time - ideally a sprint ahead of time.
 - Team/Practice Area label  - `cms-team` and `cms`
 - Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
 - Assign issue to @kevwalsh
+
+### What happens next? 
+
+Depending on the product and availability, CMS discovery may lead to
+* rapid prototyping in the CMS
+* a CMS design spec including content modeling
+* Stakeholder research
+* Author/editor user research 
+
 
 ## <a id="questions"></a>Questions?
 If you have any questions, please reach out via slack in `#vfs-platform-support` (?) or #cms-general, tag `@kevin walsh`
