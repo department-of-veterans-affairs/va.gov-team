@@ -38,9 +38,9 @@ Please list the people who will be serving in each role. **Include the primary p
 **List email addresses for those who should attend and observe the sessions: VA Stakeholders, engineering team members, design team members, any other people who might find this research relevant to their work**	
 ## Resources	
 - Project Brief: 	
-*Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*	
+*Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Convo Guide	
-*Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*	
+*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
