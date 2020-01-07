@@ -1,4 +1,4 @@
-# Research Plan for Operations Team Discovery Sprint, January 2020 [DRAFT]
+# Research Plan for Infrastructure Overhaul Discovery Sprint, January 2020 [DRAFT]
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 1. What product & team are you doing this research for?	
