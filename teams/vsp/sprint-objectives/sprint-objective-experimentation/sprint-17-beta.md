@@ -27,6 +27,7 @@ The Insights + Analytics team will pilot a new ZenHub-only way of tracking sprin
 - Epics do not go in those ^ columns, they go in their own Now Epics, Next Epics, Future Epics columns
 - DEPO pulls epics into the DEPO product board, or mirrors them w/a link
 - No more google doc comments! The leads (and everyone else) comment directly on the issue with questions.
+- Maybe a 30 min review end of day Wednesday to get DEPO approval prior to sprint start?
 
 Feedback / questions to consider to inform the above plans
 - What about the tracking epics?  Those are super epics that are always in the Now Epics column. The board has both regular epics and super epics in one place right now.
