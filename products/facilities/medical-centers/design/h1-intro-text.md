@@ -84,12 +84,11 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 ## Level 3
 **/[facility-detail-page]**
 - **H1:** [Official facility name]
-- **Intro text:** [See notes below for first sentence. This is the required second sentence for all intro text.] Get parking and transportation information, and find location and contact information for individual health services.
-> Note: Focus on what services are offered by the facility. Promote any specialized services, like centers of excellence or award-winning programs.
+- **Intro text:** [See notes below for first sentence. This is the required second sentence (and page meta description) for all intro text.] Get address and hours, parking and transportation information, and services offered at H. John Heinz III Department of Veterans Affairs Medical Center.
 
-> Note: Add geographical references, like areas, counties, and neighborhoods, to the intro text.
+> Notes for first sentence: Focus on what services are offered by the facility. Promote any specialized services, like centers of excellence or award-winning programs. Add geographical references, like areas, counties, and neighborhoods, to the intro text. Use any customer short names, or old facility references (like the previous name of a facility that customers may still use). Do not use the official facility name in this sentence.
 
-> Note: Use any customer short names, or old facility references (like the previous name of a facility that customers may still use).
+> Note for the second sentence: Always use the official facility name in this sentence.
 
 **/caregiver-support**
 - **H1:** Caregiver support
