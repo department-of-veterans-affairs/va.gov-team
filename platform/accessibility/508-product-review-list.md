@@ -79,6 +79,8 @@ Each application or logical section of the site will have a heading and a detail
 **Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4
 * [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Production** | **Opened:** July 1, 2019 | **Severity:** 508-defect-4
+* [[SCREENREADER]: VA is read phonetically instead of as the abbreviation - #4507](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4507)<br/>
+**Production** | **Opened:** January 2, 2020 | **Severity:** 508-defect-4
 
 ---
 
