@@ -50,7 +50,7 @@ Before we start, a few things I want to mention:
 ## First Task: [Determining preferred location for Caregiver application] - 5 minutes
 
 - Moderator goes to VA.gov and shares their screen
-- "Let's say you heard about a way your caregiver could recieve benefits from the VA, and that you could apply online at VA.gov.  You have navigated to VA.gov and now want to find the application. Show us where you would go to find it."
+- "Let's say you heard about a way you/your caregiver could recieve benefits from the VA, and that you could apply online at VA.gov.  You have navigated to VA.gov and now want to find the application. Show us where you would go to find it."
 
 ### Things to watch for:
 
@@ -59,7 +59,7 @@ Before we start, a few things I want to mention:
 
 ## Second Task: [First impressions / thoughts] - 5 minutes
 
-- Now you've found the location and landed on this page. What are your first impressions? Are you / your caregiver eligible to recieve these benefits?
+- Now you've found the location and landed on this page. What are your first impressions? Are you / your caregiver eligible to recieve these benefits?  How do you know?  Which parts were most useful on this page?
 
 ## Third Task: [Filling out the form] - 10 minutes
 
@@ -82,6 +82,7 @@ Before we start, a few things I want to mention:
 Great. A few last questions:
 - What do you think was the hardest part of that process?
 - What worked well?
+- I'm going to quickly show you the paper form.  Based on going through this flow, would you prefer to fill out this form online or on this paper form? Why?
 - Any questions for me? 
 
 ## Thank-You and Closing - 5 minutes
