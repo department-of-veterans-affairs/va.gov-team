@@ -14,22 +14,22 @@ This document will help all teams working on VA.gov understand when you should e
 CMS support is available anytime you have questions or want to collaborate on your work, so don't hesitate to reach out at any time. Here are some key times in your work, where collaborating with IA can be helpful. Keeping us up to speed on your work will reduce the time needed for an IA review and reduce the risk of needing to do rework. 
 
 **At project kick-off** 
-- It is helpful to get a high level overview of the CMS and its products. 
+- If your project involves non-authenticated (public) content, it is helpful to get a high level overview of the CMS and its products. 
+- Schedule a 30 minute <a href="#vagov-intro">VA.gov CMS intro</a> by <a href="mailto:VACMSSupport@va.gov?subject=Scheduling+a+VA.gov+intro>">sending an email to VACMSSupport@va.gov</a> (or opening an issue?). 
 
 **During Discovery** 
-- *Needs writing*
+- If your product's content may be managed within the CMS, schedule a <a href="#cms-scoping-exercise">CMS scoping exercise</a>, around the same time as the <a href="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#design-intent-check-in">design intent review</a>. 
 
 **During Design** 
-- *Needs writing*
+- If your product involves additions to the content model and/or the editorial experience, please involve (who?) from the CMS team on a regular basis.  
 
 **During Development** 
-- *Needs writing* 
+- Back end (CMS) development. (*needs writing*)
+  - Code workflow
+- Front end development
 
-**Launch**
-- *Needs writing* 
 
-
-## <a id="cms-discovery"></a>What is a CMS scoping exercise?
+## <a id="cms-scoping-exercise"></a>What is a CMS scoping exercise?
 
 If you expect content in your product to be managed from within the CMS, we recommend a CMS scoping exercise, before any high-fidelity designing takes place. The purpose of this meeting is for the product design team to evaluate CMS support for this product, and for the CMS team to understand where your product fits within the pipleine of products that will be supported by the CMS.  This is the chance to lay out the problem space with the CMS team and get guidance on how the existing content model and FE components supported by the CMS
 
