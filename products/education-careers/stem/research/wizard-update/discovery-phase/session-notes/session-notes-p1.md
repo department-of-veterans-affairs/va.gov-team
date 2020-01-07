@@ -11,8 +11,7 @@
  	MI 
 
 ### Participant Info
-* Mentioned science in the screener
-* Already has an early education degree
+* Already has an early education degree, interested in teaching certificate for science
 * Used VSO and paper forms originally
 * Has Montgomery bill benefits and would like to know how much remains
 	
