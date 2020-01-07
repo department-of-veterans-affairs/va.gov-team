@@ -5,9 +5,20 @@
 This document will help all teams working on VA.gov understand when you should engage CMS team resources for collaboration and support.
 
 - [When to check-in/collaborate with CMS team](#whentorequest)
-- [What is CMS scoping](#cms-scoping)
-- [How to request CMS scoping exercise](#howtorequest)
+   - For product designers 
+   - For CMS developers
+   - For front end developers
+- [The CMS scoping exercise](#cms-scoping-exercise)
+   - [How to request](#howtorequest)
 - [Questions/How to contact us](#questions)
+
+
+## How to engage with the CMS team on Slack
+
+General/support: #cms-general (to be renamed #cms-support?)
+For engineers: #cms-engineering
+
+CMS product team members are also present in some product teams, including #vsa-public-websites and #vsa-vamc-upgrade. You can ping us there for product-specific questions. 
 
 ## <a id="whentorequest"></a>When to check-in/collaborate with CMS team
 
@@ -47,14 +58,14 @@ If you expect content in your product to be managed from within the CMS, we reco
 Much like in the design intent checkin, your designs should be in the early stages, like low-fidelity whiteboard or pencil sketches and/or wireframes. Everything doesn’t need to be perfect. We have an iterative design culture and encourage feedback early and often.
 
 
-**Here are the key things evaluated in CMS discovery**
+**Here are the key things evaluated in CMS scoping exercise**
 
 1. Content model implications of a new product
 2. Content governance 
 3. Training and documentation requirements
 4. Navigation and IA
 
-### <a id="howtorequest"></a>How to request CMS support 
+### <a id="howtorequest"></a>How to request a CMS scoping exercicse
 
 Please be sure to make requests ahead of time - ideally a sprint ahead of time. 
 
