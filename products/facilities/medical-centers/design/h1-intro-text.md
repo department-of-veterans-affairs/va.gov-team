@@ -66,7 +66,7 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 **/pharmacy**
 - **H1:** Pharmacy
-- **Intro text:** Find out how to refill your prescriptions, where to pick up new prescription orders, and how to safely dispose of your medicines.
+- **Intro text:** Find out how to refill your prescriptions, where to pick up new prescription orders, and how to safely dispose of your medicines at a VA Pittsburgh health care facility.
 
 **/operating-status**
 - **H1:** Operating status
