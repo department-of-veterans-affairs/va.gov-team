@@ -18,6 +18,7 @@
 
 - Open VA.gov in a tab
 - Open prototype in another tab (link here)
+- Open paper form (pdf) to show at the end
 
 ## Intro - 5 minutes
 
