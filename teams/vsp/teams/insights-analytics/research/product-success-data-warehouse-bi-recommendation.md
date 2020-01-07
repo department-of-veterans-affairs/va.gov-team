@@ -37,9 +37,11 @@ All three are designed to store data, but in different ways:
 - A data warehouse is optimized for computing analytics; it can create a layer dedicated to and optimized for analytics on top of a database or multiple databases. The main advantage is that a data warehouse contains many sources and potentially many databases while being the one place to analyze them all, thus being one source of truth for data. For example, a data warehouse would integrate relevant data from the Prometheus and Salesforce databases as well as other static data into one source of truth.
 
 _Why isn’t everything out of box functionality?_
+
 - In order for the data to be meaningful, the data is fairly custom: varying data sources and specific metrics that need to be calculated separately from the tools that capture them. No solution that we have researched so far offers a perfect solution for out of the box functionality for every data source we have.
 
 _Why is there still implementation work involved with out of box functionality?_
+
 - Even without of box functionality, the various metrics (such as calculating submission errors and user time to complete VA forms from Google Analytics) will still need analysis before being shared. The point and click out of box functionality pulls raw data from Google Analytics, which still requires additional calculation before bringing into a BI Tool. 
 
 _What does effort for set up look like?_
@@ -50,7 +52,7 @@ With any 3rd Party tool, the main efforts would be:
 - Connecting and ETL for dataset sources
 - Connecting the warehouse to the front end solution (either the custom front end or a BI tool) to lead to data visualization
 
-_Why are we using batch instead of streaming data? _
+_Why are we using batch instead of streaming data?_
 -  Our mission is to facilitate management of targets and metrics on a monthly basis over time. Reviewing this information sprintly or monthly will help inform the direction of the product and measure the success and failure of our goals. 
 - Live data is not a planned feature of this tool as it would be added effort that distracts from encouraging long-term product decisions based on short-term data.
 - Streaming data would present additional out-of-pocket costs and technical resources to manage and would require a data engineer to monitor the pipelines
