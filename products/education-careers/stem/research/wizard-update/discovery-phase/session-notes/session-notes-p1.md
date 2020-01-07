@@ -1,4 +1,4 @@
-### Session Notes
+## Session Notes
 ### Participant #1
 
 	Tuesday, January 7 10:00am - 10:45am 	
