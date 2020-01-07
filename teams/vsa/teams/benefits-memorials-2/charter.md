@@ -20,7 +20,7 @@ Build an online experience that allows veterans to easily apply for, track, and 
 Increase Veteran's awareness of GI Bill education, reduce application processing time, increase veteran's awarness of what is required for each step. 
 Increase Veteran's over-all customer satifaction when ordering items from the Denver Logistic Center. 
 
-
+## What we work on
 
 ### **Product Line** 
 Benefits and Memorial Services
