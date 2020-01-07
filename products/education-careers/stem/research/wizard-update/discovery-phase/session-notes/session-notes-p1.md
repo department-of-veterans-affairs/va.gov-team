@@ -2,13 +2,13 @@
 ### Participant #1
 
 	Tuesday, January 7 10:00am - 10:45am 	
-  Veteran 	
-  Female 	
-  White or Caucasian 	
+	Veteran 	
+  	Female 	
+  	White or Caucasian 	
 	45 - 54 	
-  Master's degree 	
-  Army 	
-  MI 
+  	Master's degree 	
+ 	Army 	
+ 	MI 
 
 ### Participant Info
 * Mentioned science in the screener
