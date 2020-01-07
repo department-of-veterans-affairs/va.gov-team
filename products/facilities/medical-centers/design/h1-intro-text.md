@@ -29,11 +29,15 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 **/events**
 - **H1:** Events
-- **Intro text:** Learn more about events in our Pittsburgh Veteran community, including classes on health and wellness.
+- **Intro text:** Learn more about events in our VA Pittsburgh health care community, including classes on health and wellness.
+
+**/past-events**
+- **H1:** Events
+- **Intro text:** Learn more about events in our VA Pittsburgh health care community, including classes on health and wellness.
 
 **/stories**
 - **H1:** Stories
-- **Intro text:** Read about what's happening in our Pittsburgh Veteran community.
+- **Intro text:** Read about what's happening in our VA Pittsburgh health care community.
 
 **/news-releases**
 - **H1:** News releases
