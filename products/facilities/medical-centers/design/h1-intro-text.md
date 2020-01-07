@@ -101,7 +101,9 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 **/mental-health-care**
 - **H1:** Mental health care
-- **Intro text:** VA Pittsburgh health care operates one of the most comprehensive behavioral health programs in the VA. We are a regional center of excellence for Veteran-focused mental health care. Ask a care coordinator about treatment options suited to your unique needs.
+- **Intro text:** VA Pittsburgh health care operates a comprehensive behavioral health program. We are a regional center of excellence for Veteran-focused mental health care. Ask a care coordinator about treatment options suited to your unique needs.
+
+> Note: The second sentence promotes a unique specialty for this health service. It doesn't apply to all VAMC systems.
 
 **/minority-veteran-care**
 - **H1:** Minority Veteran care
