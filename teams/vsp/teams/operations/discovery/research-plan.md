@@ -1,19 +1,21 @@
 # Research Plan for Infrastructure Overhaul Discovery Sprint, January 2020 [DRAFT]
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
+
 ## Goals	
-1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
+1. This discovery research is part of the Discovery Sprint for the Operations team on the Veteran Services Platform (VSP).
+2. Background: This project initiated on the idea that the current technical infrastructure built and maintained by VSP will not be able to scale to support many more VFS teams building on VA.gov. The Operations team has a broad sense of the pain points that developers currently experience when building on VA.gov, but aims to validate its assumptions with current VFS team developers do thoroughly understand the problem in order to recommend solutions and prioritize them on the team's roadmap.
 3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
 4. Hypothesis: What is your hypothesis for this research? 	
 ## Method	
 1.	What method of research are you planning? 	
-  - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
-  - **Also mention:** in-person moderated, remote moderated, remote unmoderated	
+  - We are planning to conduct live, moderated, directed interviews with participants.
+  - We will meet with participants remotely via Zoom.
   	
 2.	Why this method? How does this methodology help you answer your research questions? 	
-3.	Where are you planning to do your research? *If in person, mention the location, point of contact, arrangements, etc. If online, mention which tool you'll be using (GTM, Join.me, etc.)*	
-4.	What will you be testing? *(Design mocks, card sort, prototype, page, content, etc.)* 	
-5.  If remote: What tool do you plan to use (Zoom, GoToMeeting, Webex)	
+  - We do not yet have any processes or interfaces for the participants to test, and want to focus on discovery to gain a deep understanding of their experiences working with the platform infrastructure.
+  - We will use a conversation guide to structure the discussion, but may occasionally deviate from the script to pursue a line of thought or idea.
+3.	Where are you planning to do your research? Zoom
+4.	What will you be testing? Nothing! This will be an interview rather than a usability test.
+5.  If remote: Zoom
 ## Participants and Recruitment	
 1.	Participant criteria: What are you looking for in a participant?	
 (Mention: Number of people, ages, accessibility preferences, geographical diversity, login requirements, VA benefit requirements, familiarity with technology, etc. Keep in mind, the more requirements, the more difficult the recruit, so give ample time to ensure the right participant mix.)	
