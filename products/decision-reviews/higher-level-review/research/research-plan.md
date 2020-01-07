@@ -36,7 +36,7 @@ Testing on the HLR designs have been conducted already. However some items have 
 
 
 ## Participants
-- 8-10 Veterans
+- 10 Veterans
 - Must have filed a disability claim
 - Variation in: age, location, experience with VA claims, tech savviness. 
 - Must be able to log into and engage with an online, password protected prototype, and share their screen. 
