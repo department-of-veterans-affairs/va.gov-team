@@ -46,10 +46,10 @@ Testing on the HLR designs have been conducted already. However some items have 
 We will work with Perigean for recruiting. 
 
 ## When? 
-1.	Timeline: January 15 - 30, 2020
-2.	Prepare: We're using the VA.gov staging site (password protected). 
+1.	Timeline for usability testing: January 15-22, 2020
+2.	Prepare: We're using an Invision prototype
 3.  Length of Sessions: 55 minutes
-4.	Availability: 10 am - 4 pm ET
+4.	Availability: 11 am - 5 pm ET
 5.	Pilot: TBD
 
 ## Team Roles 
