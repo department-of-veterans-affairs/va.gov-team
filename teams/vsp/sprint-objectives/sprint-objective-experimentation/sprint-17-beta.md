@@ -4,7 +4,7 @@
 ### Background
 
 #### Goals
-- VSP govt clients want to be closer to the work
+- VSP govt clients want to be closer to the work - fewer layers of removal (and documentation and reporting) from where the teams do their work regularly (i.e. github)
 - VSP govt clients want to reduce additional, unnecessary work for teams
 - VSP govt clients need to coordinate with other teams throughout CTO/DEPO/DSVA, and need to be more transparent w/their stakeholders as to what VSP is working on / shipping
 
