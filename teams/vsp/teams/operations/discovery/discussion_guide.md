@@ -20,11 +20,7 @@ Alright, we're recording!
 
 ## Standard Questions 
 
-### Provider Questions 
-[If applicable] I understand that you've created documentation or contributed to a documentation ecosystem before for others to use. 
-
-
-### User questions
+### User Questions
 Keep the following???: 
 - Talk me through a time when you’ve had a really good experience with Infrastructure. ???
 - How did you know it was good? What made it successful (or not)? What were the results? What behavior were you seeing to indicate that?
@@ -34,6 +30,7 @@ Question from Nathan:
    - (if yes) How was the expereince? 
       - What would you like to see different?
 
+### Pain Point Questions
 What are the pain points during the following: 
 - How is it getting started with a new project?
 - How is it developing locally?
