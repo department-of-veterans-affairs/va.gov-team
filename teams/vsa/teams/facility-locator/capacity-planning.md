@@ -35,3 +35,5 @@
 ## February 2020
 ### Holidays
     - President's Day: February 17 (VA)
+### Additional out of office
+    - Aricka: February 6-7
