@@ -44,8 +44,8 @@ _Why should this project be a priority?_
 - Users don't have a easy way to search for urgent care facilities.
 
 **Stakeholder/Business drivers**
-- The Office of Community Care has been dissatisfied with the community care implementation. 
-- Urgent care is a particularly high visibility subset of Community Care functionality. Searches continue to be directed to an external TriWest Provider locator due to Veteran confusion and data quality concerns. 
+- The Office of Community Care has been dissatisfied with the community care implementation. (_Factors causing dissatisfaction: data errors and inconsistency of results compared to legacy system, search latency, lack of visibility for urgent care subtypes and frustrating usability issues. As a result, Searches continue to be directed to an external TriWest Provider locator._) 
+- Urgent care is a particularly high visibility subset of Community Care functionality. 
 - The impending addition of the Optum network of providers on 2/1/2020 increases the priority of this work. 
 
 **Findings from research conducted December 2019**
@@ -64,9 +64,9 @@ _What's in and what's out?_
 - Veterans are assisted in understanding the sub-type choices for urgent care and are able to determine which facility type meets their current need.
 - Veteran can differentiate between urgent care sub-type in search results (but do not necessarily need to be able to filter or search by sub-type in MVP)
 - Facilities returned as results of urgent care search do not reference a need for referral. [#4241]
-- Veterans have easy access to the PDF (or a placeholder) explaining the urgent care benefit.
+- Veterans are able to download the urgent care benefit PDF (or a placeholder) to print or access on a mobile device. (_Dependency on OCC for final version of PDF_)
 - Workflow includes information to help the Veteran understand how to fill an Urgent Care Pharmacy Prescription
-- Design does not include TriWest link (which will be removed pending OCC approval)
+- Design does not include TriWest link (which will be removed pending OCC approval) 
 
 **MVP will also include some general usability and search functionality improvements**
 
@@ -93,7 +93,7 @@ _How will we know if we are successful?_
 
 **Objective: Reform Community Care Implementation**
   - Key Result #1: The rate of search refinements for Community Care will be at parity with VA facility searches by July 1, 2020. 
-  - Key Result #2: All urgent care searches will be performed using the modernized Facility Locator by February 2, 2020.  
+  - Key Result #2: All urgent care searches will be performed using the modernized Facility Locator by February 2, 2020. (_This pertains to any search that originates within the Facility Locator. It does not include any external Urgent care locators which can be accessed directly._)
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
@@ -114,6 +114,8 @@ _Are other features dependent on this one? What do we need from partners? What d
 *What other approaches did we consider and why were they rejected?*
 - Considered the need to return emergency care as part of urgent care research results
   - Emergency care will be separate facility type 
+- Options for urgent care pharmacy search
+  - Although urgent care pharmacies are considered part of the Community Care/urgent care benefit, our assumption is that Veterans are not likely to search for them under the "urgent care" heading. For MVP, we decided to add urgent care pharmacies to the initial dropdown box (with VA Health, VA benefits. etc).
 
 ### Definition of Done
 - The Veteran must be able to successfully search for an urgent care facility.
@@ -122,7 +124,7 @@ _Are other features dependent on this one? What do we need from partners? What d
 - The Veteran can view the name, address, phone number, directions, hours of operation and services offered for the chosen facility. 
 - The Veteran can download benefit information to take to the facility.
 - Veterans using assistive technology can achieve the stated goals above.  
-- Existing functionality for searching VHA(including Vet Centers), VBA and NCA facilities will be maintained. 
+- Existing functionality for searching VHA (including Vet Centers), VBA and NCA facilities will be maintained. 
 
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
