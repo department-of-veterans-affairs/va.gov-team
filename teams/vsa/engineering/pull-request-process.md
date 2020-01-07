@@ -6,7 +6,7 @@ This VSA Process is currently a subset of the base-process defined by VSF and fo
    - [ ] Add the VSA label to the PR
    - [ ] Make sure that you have assigned the PR the corresponding resource
    - [ ] Make sure there is an Issue for your Pull Request
-   - [ ] If this is a new product make sure that the [VSA QA process](../qa/vsa-qa-process.md) has been started \[with at least Step 3 completed]. 
+   - [ ] If this is a new product make sure that the [VSA QA process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/vsa-qa-process.md) has been started \[with at least Step 3 completed]. 
     
    
     
@@ -75,7 +75,7 @@ _You will need your browser configured to access the vetsgov-internal domain via
 
 **Jenkins** can be **manually triggered** to build a **review instance**.
 
-1.  Visit [http://jenkins.vetsgov-internal/job/vets-review-instance-deploy/](http://jenkins.vetsgov-internal/job/vets-review-instance-deploy/) and log in.
+1.  Visit [http://jenkins.vfs.va.gov/job/deploys/job/vets-review-instance-deploy/](http://jenkins.vfs.va.gov/job/deploys/job/vets-review-instance-deploy/) and log in.
 2.  Select "Build with Parameters"
 3.  Specify the branch names for `api_branch` and `web_branch`. These branches will be deployed together with the review instance.
 4.  When the process is completed, the URL for the review instance will be provided at the end of the output logs.
