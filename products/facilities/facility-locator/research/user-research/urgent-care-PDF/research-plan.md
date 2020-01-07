@@ -6,12 +6,15 @@ This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Loc
 
 The Facility Locator is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA.
 
-Our objective for this research is
+The objective of this study is to gain insight on how Veterans receive content from the Urgent Care PDF. We will learn if and how Veterans understand the PDF. The results from this study will inform how to display an Urgent Care PDF download alert in the Facility Locator UI. 
 
 #### Research questions:
+- How are Veterans interpreting the content in the PDF?
+- How might we make the need for the PDF clear to Veterans through lanugage in the UI?
+- 
 
 #### Hypothesis: 
-Our hypothesis is 
+Our hypothesis is that Veterans will not understand the need for the Urgent Care PDF or that its contents pertain to multiple roles (Veteran, provider, pharmacy).
 
 ## Method
 Remote Moderated Usability Testing 
