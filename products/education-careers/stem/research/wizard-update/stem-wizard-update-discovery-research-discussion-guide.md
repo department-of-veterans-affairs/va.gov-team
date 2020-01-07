@@ -31,7 +31,7 @@ Thank you. Let’s start with a few questions about your degree program.
 
 **Educational background**
 
-1.	How did you go about applying for educational benefits? (paper form, online, worked with SCO, etc) [A bit beyond our scope, however it may help us understand their comfort level with online forms]
+1.	As you applied for educational benefits, did you use an onlne form, or did you use a paper form, or work with an SCO?
 
 2.	What type of degree are you pursuing?
 
@@ -48,8 +48,7 @@ Thank you. Let’s start with a few questions about your degree program.
 - https://www.va.gov/education/eligibility/
 - https://www.va.gov/education/how-to-apply/]
 
-[ Participants may be less inclined to wonder aimlessly if we start on the eligibility page.  
-Give the user context on the page we'll be reviewing, then focus in on the section of interest. ]
+[ Give the user context on the page we'll be reviewing, then focus in on the section of interest. ]
 
 Let's look at the "How do I apply" section of this page.
 
@@ -61,14 +60,13 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 2.	Feel free to click the button.  What are your thoughts on this question? 
 
-3.  What would you expect to happen if you clicked each of the 3 radio buttons?
+3.  Let's explore the radio button options… Could you talk me through what you think “Apply for new benefit” means?  
 
-    a.  Let's explore the radio button options… Could you talk me through what you think “Apply for new benefit” means?  
-
-    b.  What about “Update my current benefits”?  
+    a.  What about “Update my current benefits”?  
     
-    c. What does “Applying to extend my benefit using the Edith Nourse Rogers STEM Scholarship” mean to you?  
-    [We'll use this question to determine if they’re familiar with “STEM” as an acronym… If they don’t mention “STEM – for science, technology, engineering & math”, ask “What fields of study do you think the scholarship might be focused on?”]
+    b. What does “Applying to extend my benefit using the Edith Nourse Rogers STEM Scholarship” mean to you?  
+    
+    [We'll use this question to determine if they’re familiar with “STEM” as an acronym… If they don’t mention that STEM relates to science, technology, engineering & math, ask “What fields of study do you think the scholarship might be focused on?”]
 
 
 4.  What, if anything, have you heard about the STEM Scholarship? 
@@ -79,13 +77,11 @@ Take a moment to read the 2 sentences above the green button and read the title 
 
 5.  What are your thoughts on who might be eligible for the STEM scholarship?
 
-6.	Given the information you have now, how likely would you be to apply for the STEM scholarship?(Consider probing around their thought process for applying or not when they’re not sure if they’d be eligible.) 
+6.	Given the information you have now, how likely would you be to apply for the STEM scholarship? (Consider probing around their thought process for applying or not when they’re not sure if they’d be eligible.) 
 
 7.	If you wanted to learn more about the STEM scholarship and who might be eligible for it, how would you go about doing that? (allow them to explore the site, if relevant)
 
 8.	If you were actually applying for education benefits, what additional information would help you know which option you’d want to choose here?
-
-9.	[If on the Eligibility page] What would you expect to happen if you clicked the "Learn more about how to apply for educational benefits" link?  
 
 Looks like we have 5-10 minutes left, so I want to pause and give my colleagues on the phone an opportunity to ask any questions they may have.
 
