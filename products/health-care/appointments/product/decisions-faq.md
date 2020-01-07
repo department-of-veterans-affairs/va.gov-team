@@ -110,6 +110,12 @@
 - Veterans have the ability to enter preferred provider contact info if they have a specific provider they'd like to see.
 - We are usign the veteran's residential vet360 address to assume that they want to be seen somewhere near where they live, which should line up with their CC eligibility data.
 
+### Why is 'podiatry' not available in the VA request flow?
+- Podiatry has not yet been turned on or configured by VHA across most sites. Thus, it isn't possible to offer scheduling a VA request for that type of care. This should change in the coming months.
+
+### Why is 'primary care' not available in the Community Care flow?
+- Primary Care should be coordinated through a veteran's VA primary care physician to ensure that a doctor with context of a patient's needs gets a chance to think about the issue. Thus, if a veteran has an active assignment to a PACT, a veteran should not be able to make a primary care appointment at a Community Care facility without his or her VA doctor coordinating that care. This coordination is outside the scope of VAOS, so VAOS will only allow scheduling Primary Care appointments in the community if a veteran does not have an assigned PACT.
+
 
 
 
