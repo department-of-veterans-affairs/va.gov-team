@@ -50,7 +50,7 @@ We will work with Perigean for recruiting.
 2.	Prepare: We're using an Invision prototype
 3.  Length of Sessions: 55 minutes
 4.	Availability: 11 am - 5 pm ET
-5.	Pilot: TBD
+5.	Pilot: Jan 14, 2020
 
 ## Team Roles 
 - Moderator: Christian V. 
