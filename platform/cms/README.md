@@ -8,7 +8,7 @@ The CMS is built with Drupal and currently supports 4 main products at VA:
 1. Homepage and Global UX elements such as the header, footer, and homepage alerts
 1. The Benefits outreach hub at https://www.va.gov/outreach-and-events/
 
-[This diagram of the VA.gov content model]() provides a high level overview of the CMS.
+[This diagram of the VA.gov content model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/VAgov-high-level-content-model.png) provides a high level overview of the CMS.
 
 ## How to Reach Us
 
