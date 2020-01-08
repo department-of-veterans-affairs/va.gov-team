@@ -22,7 +22,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Shawna/Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Shawna/Jonathan and I also have some colleagues on the line observing and taking notes. Today we're going to talk about federal benefits that are provided to family members or caregivers of disabled veterans. 
 
 Before we start, a few things I want to mention:
 
@@ -40,13 +40,16 @@ Before we start, a few things I want to mention:
 ## Warm-up Questions - 5 minutes
 
 - Can you tell me a little about yourself? (If stuck, ask about location, occupation, etc.)
-- Do you currently live with your caregiver / veteran?
 
 - For Caregivers:
--- Do you recieve benefits from the VA?
+   - Are there any other family members / caregivers of the veteran?
+   - Do you currently live with your veteran?
+   - Do you recieve benefits from the VA?
 
 - For Veterans:
--- Does your caregiver recieve benefits from the VA?
+   - how many caregivers do you have?
+   - Do you currently live with any of your caregivers?
+   - Does your caregiver recieve benefits from the VA?
 
 ## First Task: [Determining preferred location for Caregiver application] - 5 minutes
 
@@ -72,11 +75,11 @@ Before we start, a few things I want to mention:
 - Any fields trip them up?
 - Anything particularly confusing for them?
 - Make sure to dig in when there's any hesitation into what they are thinking
+- If anyone has / is a secondary caregiver, make sure they notice and complete that section
 
 ## Third Task: [understanding next steps] - 5 minutes
 
 - Now that you submitted the form, what do you think are the next steps in this process? 
-
 
 ## Post-Task Interview - 5 minutes
 
