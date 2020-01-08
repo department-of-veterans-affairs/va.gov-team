@@ -61,7 +61,7 @@ This quarter marked the end of our first strategic phase (laying the foundation)
 - Sketch tablet and mobile templates
 - Accessible learn more button templates
 - Error messaging style guide
-- CMS BRD integration (reduced content deploy time from 10 to 5 min)
+- CMS BRD integration (reduced vets-website deploy speed from 10 min to ~1 min, and full BRD from 20 min to <10 min)
 
 ### Feature / service launches
 - QA Onboarding
