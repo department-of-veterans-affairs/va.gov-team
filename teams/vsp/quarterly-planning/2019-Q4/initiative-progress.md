@@ -3,6 +3,8 @@
 ## Summary
 This quarter marked the end of our first strategic phase (laying the foundation), and entry into our second strategic phase (automating enforcement / self-service). We got in place a critical mass of documentation and process, teams largely got their sea legs and were able to develop deeper understandings of their mission and vision, and thus began prioritizing more proactive and forward-looking work - either iterating on current offerings, or doing discovery to inform future iteration.
 
+- Customers supported: 11 VFS teams
+- Partners supported: CMS, Lighthouse, GIDS
 
 ## Milestones
 
