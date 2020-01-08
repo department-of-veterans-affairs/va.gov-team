@@ -18,7 +18,6 @@ Tell us your name and a little about your service history.
 
 
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
-(https://vsateams.invisionapp.com/share/PWV7CIH4T8H)
 
 ## Usability Test
 
