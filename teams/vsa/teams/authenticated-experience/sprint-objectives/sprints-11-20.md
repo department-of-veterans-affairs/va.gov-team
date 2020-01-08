@@ -112,7 +112,8 @@ To the best of our ability, this sprint's objective is to make sure all existing
 **Necessary code fixes**
 
 - Use only candidate api for address validation api #4060
-- Sometimes we get validation keys but can't force the addresses through #4278
+- Sometimes we get validation keys but can't force the addresses through #4278 
+  - **Note**: Dependent on VA Profile. May not complete this sprint.
 - Raise address confidence threshold from 80 to 90 #4468
 - Address suggestion bug #4487
 - Disable "update" button if no address is selected #4483
@@ -140,8 +141,7 @@ To the best of our ability, this sprint's objective is to make sure all existing
 - Tressa to complete onboarding to the project [#4393](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4393)
 - Profile 2.0: Initial design explorations #4469
 - Answer initial technical discovery questions #2455
-- (Maybe) Refactor Vet360 Profile form components to use SchemaForm #4068
-  - Goal for this is that it would be started *if* all address validation work is done and Erik doesn't have anything else to do.
+- ~(Maybe) Refactor Vet360 Profile form components to use SchemaForm #4068~
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
