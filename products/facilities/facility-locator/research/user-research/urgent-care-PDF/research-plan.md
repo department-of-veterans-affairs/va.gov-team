@@ -28,7 +28,7 @@ Additionally, we will learn how users understand the difference between VA Healt
 - Veterans will assume that non-VA urgent care locations are the same (no distinction between walk-in, urgent, pharmacy)
 
 ## Method
-We will test the [prototype link] and [pdf linke] through remote moderated usability testing via Zoom. 
+We will test the [prototype link] and [pdf link] through remote moderated usability testing via Zoom. 
 
 ## Participants and Recruitment
 Participant Criteria
@@ -47,7 +47,10 @@ Recruitment to be done through Perigean
 
 Team Availability | Time (EST)
 ------------------|--------------
+January 16, 2020 | 11am – 2pm, 3pm – 5pm
+January 17, 2020 | 11am – 5pm
 
+Study can extend to Tuesday January 21 if needed.
 
 #### Pilot Date: 
 Design team member(s): 
