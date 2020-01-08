@@ -1,0 +1,5 @@
+Documented decisions regarding automated content review
+
+|Date|Decision|Reason|Who decided?|
+|---|---|---|---|
+|1/7/20|The MVP of plain language linting is pivoting to use a GitHub action as a proof of concept, instead of the initial plan to launch this feature adjacent to the Drupal CMS user's workflow (in preview using the node ID). CMS integrations will be put on hold until we have shipped and gathered feedback on this tool as a GitHub action.|Per VSP content editor Peggy's recommendation. Most CMS users at this point are content writers and editors, they do not need excessive support from us. The teams who need more support are those who are not specializing in content, who are inputting their content directly into their VA.gov products. Also, although we have completed a fair bit of work on the initial CMS MVP, there would still be a fair bit of troubleshooting left/coordination with the CMS team to get that working.|Present at meeting: Peggy G, Megan K, Chris V, Alex P, Keifer F|
