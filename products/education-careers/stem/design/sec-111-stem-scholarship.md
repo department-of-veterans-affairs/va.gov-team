@@ -1,4 +1,0 @@
-DATE
-Content Status
-
-Content
