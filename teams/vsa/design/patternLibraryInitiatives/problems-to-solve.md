@@ -8,6 +8,10 @@
 - Form controls with errors - document the error message styling for form controls in the design system
 
 - Relationship of aside/sidenav and main element to be compliant. Currently, the design system uses divs so the code passes, but the classes indicate the aside/sidenav nature of the div that is inside the main element, thereby breaking the semantic relationship of the elements and interfering with the screen reader identification of areas of content.
+  - Current `<main>` would be more compliant and semantic if it were `<section>`
+  - Sidenav is currently a `<div>` and would benefit from semantics of `<aside>` or `<nav>` (although the breadcrumbs are currently coded as `<nav>`)
+  - The primary content on the page would benefit from being contained in `<main>` and additional content items in `<article>`s
+  - A right rail would also be an `<aside>` element, differentiated from a subnav using the content and landmark role
 
 - Icons, accessible treatment: 
   - This issue became visible due to Kevin Hoffman's request for a download link.
