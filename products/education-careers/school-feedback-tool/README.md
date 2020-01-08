@@ -2,7 +2,7 @@
 - GitHub Label: edu feedback tool
 - Slack channel: #gibillfeedbacktool
 - Va.gov link: https://www.va.gov/education/submit-school-feedback/introduction
-- Development Implementation Info: [Here](./Development.md)
+- Development Implementation Info: [Here](./development.md)
 - Application Guide: [Here](./school-feedback-application-guide.pdf)
 - Google Analytics URL: [Here](https://analytics.google.com/analytics/web/#/report/conversions-goals-overview/a50123418w177519031p184334251/_u.date00=20190401&_u.date01=20190421&_.goalOption=10)
 - Keywords: School Feedback Tool, GI Bill School Feedback, GI Bill Complaint Tool,
