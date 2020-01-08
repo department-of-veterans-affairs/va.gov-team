@@ -25,22 +25,29 @@ Let's imagine that you need urgent care and want to visit a local facility that 
 
 We will use a prototype to walk through a few steps in this scenario so not all links on the page will be clickable. Be sure to move a bit slower than you normally would on the web and talk me through what you are thinking.
 
-### Task 1 
+### Task 1 - Search
 Let's imagine that you have a fever and want to find a local walk-in urgent care. What would you do on this page first?
 
-Why did you choose [whichever location they chose]? 
+I noticed you chose [whichever location they chose]. Will you talk about why you made that choice?
 
-(Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
+Go ahead and complete your search.
+
+### Task 2 - Download PDF
+[If they notice the PDF alert] Take a moment to read that alert and let me know your thoughts on it.
+
+### Task 3 - Read PDF
+Take a moment to review the content of this PDF and provide your thoughts when you are ready.
+
+### Task 4 - Choose Pharmacy
+Let's imagine that you had your visit with [whichever location they chose] and they prescribed medication. What would you do on this page to find a local pharmacy?
+
+What factors would help you determine which pharmacy to visit?
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
-1. 
+1. How would you describe the difference in a "walk-in" and a "full-service" urgent care location.
+2. How would you rate the overall clarity of the PDF?
+3. What would you change about this protototype?
 
 ## Closing - 5 min
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
-
-As a thank you for your participation, we'd like to offer you a $50 thank-you gift. Is it ok for us to send that gift to the same address Shannon and Brian used to communicate with you about scheduling this test? [If no] Ok, we'll follow up with an email after this session to get the right email from you in writing.
-
-Thanks! Lastly, would you like to share this feedback opportunity with other Veterans or Veteran groups you're a part of? If so, we can send you an email with a little blurb so you can easily connect to our team.
-
-Great, well thank you so much again, and enjoy the rest of your day!
