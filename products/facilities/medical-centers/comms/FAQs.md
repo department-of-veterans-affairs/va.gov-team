@@ -12,8 +12,11 @@ dsfdas
 
 **What is VA Digital Modernization?**
 
-**Is this a content miggration project?**
+**Is this a content migration project?**
 No.
+
+**Why is there so much less content in the new website design?**
+
 
 ## About the new CMS
 
