@@ -60,13 +60,21 @@ Design team member(s): Liz Lantz
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
-- Moderator: Aricka Lewis
-- Research guide writing and task development (usually but not always same as moderator): Aricka lewis
-- Participant recruiting & screening: Perigean
-- Project point of contact: Aricka Lewis
-- Participant(s) for pilot test: Liz Lantz
-- Note-takers: 
-- Observers: Dave Conlon, Lance Sanchez, Gibran Rodriguez, Michelle Middaugh, Ryan Thurlwell, Tressa Furner
+
+Name | Role | Contact Information
+-----|------|----------------------
+Aricka Lewis | Moderator, research writing, task development | aricka@adhocteam.us
+Perigean | Recruiting & Screening |
+Liz Lantz | Pilot participant | liz.lantz@adhocteam.us
+Jennifer Strickland | Pilot participant | jennifer.strickland@adhocteam.us
+TBD | Note taker | 
+Dave Conlon | Observer | David.Conlon@va.gov 
+Lance Sanchez | Observer | osanchez@governmentcio.com
+Gibran Rodriguez | Observer | grodriguez@governmentcio.com
+Michelle Middaugh | Observer | michelle.middaugh@adhocteam.us
+Ryan Thurlwell | Observer | Ryan.Thurlwell@va.gov
+Tressa Furner | Observer | tressa.furner@adhocteam.us
+
 
 ## Resources
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md)
