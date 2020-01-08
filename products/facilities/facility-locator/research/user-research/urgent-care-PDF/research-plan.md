@@ -65,7 +65,7 @@ Please list the people who will be serving in each role. **Include the primary p
 ## Resources
 - [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/README.md)
 
-- [Discussion Guide]
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/conversation-guide.md)
 
 - [Notes & Recordings]team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care/participant-notes)
 
