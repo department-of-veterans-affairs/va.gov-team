@@ -9,7 +9,7 @@
 1. [Executing tests](executing-tests.md) - Record the results of your test executions.
 1. [Report results](report-results.md) - Report all your hard work!
 ---
-## Screen Capture Tutorials (*NOTE* these tutorials are shared in Google Drive.  If you need access please request it from @Peter Hill.)
+## Screen Capture Tutorials (*NOTE* these tutorials are shared in [Google Drive](https://drive.google.com/drive/folders/1_LGqyaORIttL6Jf98pJhS8fIk3AXT1t1).  If you need access please request it from @Peter Hill.)
 1. [Create a project](https://drive.google.com/a/oddball.io/file/d/15CbOeQosL2hX-ZC5KYM0qqpUFlLoBt0O/view?usp=sharing)
 1. [Create a milestone](https://drive.google.com/a/oddball.io/file/d/1Aaa0LNamosyviHN8_e9x4xWEk2baKeDF/view?usp=sharing)
 1. [Create a test plan](https://drive.google.com/a/oddball.io/file/d/1v5KIR3KJHkypfm7QJje0O7xo6aEtcCaC/view?usp=sharing)
