@@ -1,0 +1,21 @@
+# Q1 2020 Planning: DEPO risks and priorities
+
+## Risks
+- We don't (continue to ) socialize/communicate platform's meaning and impact across DEPO leadership and larger VA stakeholders
+- We don't see the forest for the trees: losing sight of how efforts ladder up to larger impacts because of the target rich environment
+- We are too nice: being good people who want to help out without thinking in terms of multiplication factors
+- We can't agree on good: objective definitions of quality (design, code)
+- Ongoing support tasks taking up too much time
+- Lots of leadership changes
+- Integrating the CMS as a platform offering
+- Transition to second period of performance / optional tasks
+
+## Priorities
+- Design system continued evolution, documentation, and processes
+- Defining the design vision for the platform - what are we designing in service of? What design principles do we follow? What is the evidence that we are following those design principles?
+- Normalizing tools and documentation behaviors for greater VFS team permeability
+- Separation of concerns b/w VA.gov, Appeals, and Lighthouse infrastructure and applications
+- Includes a long term ownership / architectural plan for vets-api
+- Successful launch of VAOS and one more health care tool
+- Highly used analytics tool
+- Role-based users / delegations / identity
