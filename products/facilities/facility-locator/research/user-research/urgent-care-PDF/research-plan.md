@@ -1,5 +1,5 @@
 # Research Plan for Facility Locator Urgent Care PDF - January 2020
-Prepared by Aricka Lewis
+Prepared by Aricka Lewis, Ad Hoc January 2020
 
 ## Goals
 This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Locator team.
