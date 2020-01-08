@@ -51,8 +51,8 @@ We would like to work with Perigeon to recruit remote users.  We are looking for
 - Sessions will take place starting January 16th - 17th and January 20-21st.
 - Sessions should last ~45 minutes
 - Specific time slots:
--- For January 16th, please schedule sessions between 11am - 5pm Eastern time
--- For the rest of the days, please schedule sessions between 9am - 5pm Eastern time
+   - For January 16th, please schedule sessions between 11am - 5pm Eastern time 
+   - For the rest of the days, please schedule sessions between 9am - 5pm Eastern time
 
 We will run a pilot session January 14th.  
 	
