@@ -53,7 +53,10 @@ January 17, 2020 | 11am – 5pm
 Study can extend to Tuesday January 21 if needed.
 
 #### Pilot Date: 
-Design team member(s): 
+
+Wednesday, January 15, 2020 4:15pm
+Design team member(s): Liz Lantz
+
 
 ## Team Roles
 Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker** 
@@ -61,7 +64,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Research guide writing and task development (usually but not always same as moderator): Aricka lewis
 - Participant recruiting & screening: Perigean
 - Project point of contact: Aricka Lewis
-- Participant(s) for pilot test: 
+- Participant(s) for pilot test: Liz Lantz
 - Note-takers: 
 - Observers: Dave Conlon, Lance Sanchez, Gibran Rodriguez, Michelle Middaugh, Ryan Thurlwell, Tressa Furner
 
