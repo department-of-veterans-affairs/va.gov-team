@@ -130,22 +130,13 @@ Are you applying for the Edith Nourse Rogers STEM Scholarship (Chapter 33)?(*Req
 
 { help link } What is the Rogers STEM Scholarship? { end help link }
 
-{ help text } **The Rogers STEM Scholarship**
+{ help text } 
 
-The Edith Nourse Rogers STEM Scholarship provides up to 9 months (up to $30,000) of additional Post-9/11 GI Bill benefits for STEM students who have used up all their Post-9/11 GI Bill benefits or who will use up their benefits within 180 days of applying. 
+The Edith Nourse Rogers STEM Scholarship provides up to 9 months of additional Post-9/11 GI Bill benefits, to a maximum of $30,000.
 
-To be eligible for this scholarship, the following must be true. You are a Veteran or Fry Scholar and  
+Veterans and Fry Scholars may qualify for this scholarship if they're enrolled in an undergraduate program for Science, Technology, Engineering, or Math (STEM), or if they've earned a STEM degree and are getting a teaching certification.
 
-•	Have completed at least 60 semester (90 quarter) credit hours in a STEM program, and
-
-•	Are enrolled in a STEM undergraduate program that requires more than 128 semester (192 quarter) credit hours, 
-
-**or**
-
-•	Have a STEM undergraduate degree and are accepted or enrolled in a teaching certification program.
-
-
-[Learn more about the Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp)
+To learn more about the STEM Scholarship, [visit the VBA STEM website](https://benefits.va.gov/gibill/fgib/stem.asp).
 
 
 { end help text }
