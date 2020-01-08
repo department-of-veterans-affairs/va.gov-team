@@ -24,15 +24,15 @@ When modifying my Dependents generally:
 - I can add or update my bank information for Direct Deposit payments for Education `TODO: verify functionality`
 - I can see information about the kinds of claims that can be processed quickly (through RBPS) and those that require manual processing (Having a foreign address/ Adding an adopted or helpless child/ Adding a Veteran spouse Removing a spouse when there is a dependent child/ Adding a child who was previously married)
 
-When modifying a Spouse:
+When modifying a dependent Spouse:
 - I can add a new dependent Spouse
 - **WIP**
 
-When modifying a Child:
+When modifying a dependent Child:
 - I can add a new dependent Child
 - **WIP**
 
-When submitting a Claim:
+When submitting a Dependency Claim:
 - I can review a summary of the information I have entered
 I can go back to any part of the process and update the necessary info
 - **WIP**
