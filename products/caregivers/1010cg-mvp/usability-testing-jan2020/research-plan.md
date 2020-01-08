@@ -66,14 +66,8 @@ We will run a pilot session January 14th.
 - Observers:	CC Gong (cc.gong@va.gov), Alayna Abel (alayna@adhocteam.us), Justin Linn (jlinn@governmentcio.com), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov, Patrick Sanders (psanders@governmentcio.com)
 
 ## Resources	
-- Project Brief: 	
-*Project brief should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*	
-- Convo Guide	
-*Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*	
-- Synthesis	
-*Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
-- Lessons Learned	
-*Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
-- Read-Out/Results	
-  - *Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.* 	
+- Project Brief 	
+- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/conversation-guide.md)	
+- Synthesis		
+- Read-Out/Results	 	
   - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
