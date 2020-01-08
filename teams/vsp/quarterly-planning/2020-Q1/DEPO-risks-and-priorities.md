@@ -9,6 +9,8 @@
 - Lots of leadership changes
 - Integrating the CMS as a platform offering
 - Transition to second period of performance / optional tasks
+- Team health survey responses from underrepresented ppl in tech
+- VFS Team DEPO Lead role definition / awareness of their role and responsibilities
 
 ## Priorities
 - Design system continued evolution, documentation, and processes
