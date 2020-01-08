@@ -1,4 +1,22 @@
-Milestones
+## Q4 2019 Summary
+This quarter marked the end of our first strategic phase (laying the foundation), and entry into our second strategic phase (automating enforcement / self-service). We got in place a critical mass of documentation and process, teams largely got their sea legs and were able to develop deeper understandings of their mission and vision, and thus began prioritizing more proactive and forward-looking work - either iterating on current offerings, or doing discovery to inform future iteration.
+
+## ROEs by practice area / service
+[ ] Product
+[x] Design / Research Q4 2019)
+[x] Engineering (Q4 2019)
+[x] Load Testing (Q4 2019)
+[x] Security / Privacy
+[x] QA (Q4 2019)
+[x] 508 (Q4 2019)
+[x] Code Reviews (Q4 2019)
+[x] Analytics Reviews (Q4 2019)
+[x] Content & IA Support (Q4 2019)
+[x] Redirects (Q4 2019)
+[x] Documentation (Q4 2019)
+[x] SEO (Q4 2019)
+
+## Milestones
 Tested the “time-boxed code review” model
 Conducted 2 Design / Discovery Sprints
 VA.gov Testing Services
@@ -33,17 +51,7 @@ CMS broken link checker
 Beta plain language linting
 Best in Class App (HCA)
 ROEs for
-Design
-Engineering
-Load Testing
-QA
-508
-Code Reviews
-Analytics Reviews
-Content & IA Support
-Redirect Requests
-va.gov-team Repo Documentation
-SEO
+
 Ruby upgrade
 MVI upgrade
 pittsburgh.va.gov domain takeover
