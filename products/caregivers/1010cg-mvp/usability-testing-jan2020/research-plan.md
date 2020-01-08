@@ -47,14 +47,15 @@ We would like to work with Perigeon to recruit remote users.  We are looking for
 - Include a mix of Veterans with a disability rating of 80% or higher
 - Include a mix of Veterans who live and do not live with caregivers
 
-## When? 	
+## When? 
+- We would like to run a pilot session with Perigeon and one of our team members, Patrick Sanders (psanders@governmentcio.com) as a pilot participant on January 15th at 2pm Eastern.  This should include Jonathan and Shawna and the observers as well (emails below)
 - Sessions will take place starting January 16th - 17th and January 20-21st.
 - Sessions should last ~45 minutes
 - Specific time slots:
    - For January 16th, please schedule sessions between 11am - 5pm Eastern time 
    - For the rest of the days, please schedule sessions between 9am - 5pm Eastern time
 
-We will run a pilot session January 14th.  
+  
 	
 ## Team Roles	
 - Moderator:	Jonathan Nelson (jonathan.nelson@adhocteam.us) and Shawna Hein (shawna@adhocteam.us, 530 277 4925)
