@@ -26,7 +26,7 @@ Let's imagine that you need urgent care and want to visit a local facility that 
 We will use a prototype to walk through a few steps in this scenario so not all links on the page will be clickable. Be sure to move a bit slower than you normally would on the web and talk me through what you are thinking.
 
 ### Task 1 - Search
-Let's imagine that you have a fever and want to find a local walk-in urgent care. What would you do on this page first?
+Let's imagine that you have a fever and want to find a local walk-in urgent care location. What would you do on this page first?
 
 I noticed you chose [whichever location they chose]. Will you talk about why you made that choice?
 
