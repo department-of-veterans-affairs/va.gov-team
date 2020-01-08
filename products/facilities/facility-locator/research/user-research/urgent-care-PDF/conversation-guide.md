@@ -31,7 +31,6 @@ Let's imagine that you have a fever and want to find a local walk-in urgent care
 Why did you choose [whichever location they chose]? 
 
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
-[Ask to go back to the "first" page]
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
