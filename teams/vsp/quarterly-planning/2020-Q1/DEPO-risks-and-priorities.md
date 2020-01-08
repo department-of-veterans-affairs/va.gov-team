@@ -1,5 +1,7 @@
 # Q1 2020 Planning: DEPO risks and priorities
 
+**bolded items = things that could be addressed through VSP team initiatives on the roadmap, but no initiatives exist today
+
 ## Risks
 - We don't (continue to ) socialize/communicate platform's meaning and impact across DEPO leadership and larger VA stakeholders
 - We don't see the forest for the trees: losing sight of how efforts ladder up to larger impacts because of the target rich environment
