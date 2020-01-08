@@ -1,4 +1,4 @@
-# Research Roundup for the Q4 planning meeting
+# Research Roundup about Q4 2019 for the Q1 2020 planning meeting
 
 This document is a summary of the research conducted by VSP teams during Q4 of 2019.
 
