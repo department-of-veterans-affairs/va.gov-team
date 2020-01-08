@@ -68,8 +68,8 @@ This quarter marked the end of our first strategic phase (laying the foundation)
 - TestRail
 - CMS accessibility validation errors
 - CMS broken link checker
-- Beta plain language linting
-- HCA Best in Class App
+- Plain language linting MVP
+- Health Care Application Best in Class App (in infancy)
 - Call center data report (mostly Chante)
 - GitHub Teams MVP
 
