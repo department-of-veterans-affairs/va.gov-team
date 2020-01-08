@@ -1,5 +1,5 @@
 # Conversation Guide for Facility Locator Urgent Care PDF Testing
-## Introduction - 
+## Introduction 
 
 Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about how the VA.gov website can help you find Urgent Care.
 
@@ -12,7 +12,7 @@ Before we start, a few things I want to mention:
 
 **Once you are recording:** I want to verify that you are okay with me recording screen and audio today.
 
-## Background - 
+## Background 
 
 Tell us your name and a little about your service history. 
 
