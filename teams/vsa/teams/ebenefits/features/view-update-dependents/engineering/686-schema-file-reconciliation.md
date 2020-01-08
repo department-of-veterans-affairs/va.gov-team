@@ -8,8 +8,10 @@
     * Service Number (7) needs to be added as a field to the form.
 1. Telephone Number (8) is part of the schema already but not used in the digital form. It only supports a USA number currently. This needs to be added as a field.
 ### Section II - Information Needed To Add A Spouse
-1. Place of Marriage (11E) currently uses a definition on the frontend that doesn't matchup with the defintion created in the schema file for location. This needs to be fixed.   * Place of Marriage on the paper form asks for one of three options: City and State, County and State, OR City and Country.
+1. Place of Marriage (11E) currently uses a definition on the frontend that doesn't matchup with the defintion created in the schema file for location. This needs to be fixed.   
+    * Place of Marriage on the paper form asks for one of three options: City and State, County and State, OR City and Country.
     * County is not currently present as a field on the digital version.
+    * For more information on the schema discrepancy [check this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/engineering/3506-summary.md)
 1. How were you married (11F) needs to be added to the digital form as a field.
     * This has been used elsewhere in vets-website and should be re-used for the 686 if possible. [Use case here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/pensions/config/form.js#L975).
 1. Spouse SSN (11C) is currently present in the digital form, but does not address the possibility that a spouse has no SSN.
