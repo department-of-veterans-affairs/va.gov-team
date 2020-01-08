@@ -76,7 +76,7 @@ Intro HLR page**
 
 - Tell me what you see on this page, and what you think you can do here.
 - What info on this page is particularly helpful? 
-- Is any of the info you see on this page unclear or confusing? 
+- What info you see on this page is unclear or confusing? 
 - Please continue.
 
 **4rd screen: Contact Info**    
@@ -90,7 +90,7 @@ Intro HLR page**
     
 - Take a look at this page and tell me what you think the purpose of the page is. 
 - What actions can you take on this page?  
-- Is any info on this page confusing? 
+- What info on this page is confusing? 
 - What info is most helpful on this page?
 - Imagine that you came to this page and did not see all of your (contested) issues that you expected. What would you do? (What do you expect to see if you click on See All Your Issues?) 
 - Please go ahead and hit Continue. 
@@ -102,7 +102,7 @@ Intro HLR page**
 
 - What do you think this page is about, and what actions can you perform on this page?
 - What info is most useful on this page? 
-- Is anything on this page not clear or confusing? 
+- What info here is confusing? 
 - Let's say you want to request an informal conference, how would you proceed?
 
 
@@ -112,9 +112,9 @@ Intro HLR page**
 **6.5th screen: Request informal conference - request for self**
 
 - What do you think you can do here?
-- Is everything on this page clear? Is anything confusing?
+- What info on this page is unclear?
 - What info is most useful on this page? 
-- Is there any info missing on this page?
+- What info is missing on this page?
 - Please click on the 8-10am time slot and hit Continue.
 
   
@@ -122,7 +122,7 @@ Intro HLR page**
 
 - Take a look at this page and tell me what you see here.
 - Is this what you expect to see on a review page for an application of this sort? 
-- Is everything on this page clear? 
+- What is not 100% clear on this page? 
 - Do you think any information should be added to this page?
 - Please continue.
 
