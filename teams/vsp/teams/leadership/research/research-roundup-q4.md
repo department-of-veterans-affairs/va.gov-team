@@ -2,7 +2,18 @@
 
 This document is a summary of the research conducted by VSP teams during Q4 of 2019.
 
+## Product Health Prototype research 
+
+October 7-16, 2019
+
+- Team: Insights and Analytics
+- Method: Moderated usability testing + interviews
+- Participants: 7
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/insights-analytics/research/product-health-prototype/version-3)
+
 ## KPI Workshop feedback
+
+Nov 25, 2019
 
 - Team: Insights and Analytics
 - Method: Survey distributed after KPI workshop
@@ -22,6 +33,8 @@ To gauge how effective the KPI workshops are with VFS teams.
 - Follow up with teams to see if they took the next steps they described?
 
 ## Rules of Engagement research
+
+October 17 - 29, 2019
 
 - Team: Service Design team
 - Method: Qualitative interviews and survey
