@@ -70,7 +70,7 @@ This quarter marked the end of our first strategic phase (laying the foundation)
 - Beta plain language linting
 - HCA Best in Class App
 - Call center data report (mostly Chante)
-- GitHub Teams beta
+- GitHub Teams MVP
 
 ### Rules of Engagement / key documents
 - [Working with the Platform Design Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
