@@ -40,11 +40,11 @@ Use this checklist to assist you with your Ceremonies and process.
 2. Open the team Zenhub board, and start with the next Issues that are not in the current Sprint.
 3. Allow the PO to present the goal for the next Sprint. If not the PO, then you will provide the goal of the next Sprint. 
 4. Go through each Story:
-5. Add new tasks.
-6. Remove tasks that are no longer needed.
-7. Change priority.
-8. Change Acceptance Criteria if needed.
-9. Confirm with the team that the Backlog looks ready for the next two Sprints.
+    1. Add new tasks.
+    1. Remove tasks that are no longer needed.
+    1. Change priority.
+    1. Change Acceptance Criteria if needed.
+5. Confirm with the team that the Backlog looks ready for the next two Sprints.
 
 
 
