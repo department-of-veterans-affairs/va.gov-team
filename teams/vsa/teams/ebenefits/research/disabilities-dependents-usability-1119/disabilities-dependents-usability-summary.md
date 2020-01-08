@@ -18,6 +18,8 @@ Usability testing was conducted to validate the utility of the Rated Disabilitie
 
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/session-notes)
 
+[Readout and Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-readout.pdf)
+
 ## Methodology
 #### Test Sessions
 - Usability sessions conducted via GoToMeeting; 30 minutes.
