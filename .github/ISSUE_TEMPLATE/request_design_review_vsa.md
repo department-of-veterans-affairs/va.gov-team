@@ -3,7 +3,7 @@ name: Request a VSA Design Review
 about: Request a design review for VSA products
 title: Request design review for ENTER_PRODUCT_NAME
 labels: 508/Accessibility, design, design review, product support
-assignees: emilywaggoner, CrystabelReiter,jenstrickland
+assignees: emilywaggoner, CrystabelReiter,jenstrickland, 1copenut, tzelei123, meganhkelley, peggygannon
 
 ---
 
@@ -32,11 +32,14 @@ assignees: emilywaggoner, CrystabelReiter,jenstrickland
 
 ## Checkpoint Stage
 
+<!-- What stage are you at? -->
+
 [ ] **Design Intent** (for early discussions about needs, priorities, concepts, research planning, and direction)
 
 [ ] **Pre-usability testing Review** (for prototype and testing validation of best practices, alignment with va design system, and inclusive research best practices)
 
 [ ] **Design Review** (for design work validation of best practices and alignment with the va design system)
+
 
 ### Where in the process is this? 
 
@@ -45,6 +48,7 @@ assignees: emilywaggoner, CrystabelReiter,jenstrickland
 [ ] Initial mockup
 
 [ ] Final mockup
+
 
 ## Design links or mockups
 
@@ -60,4 +64,4 @@ assignees: emilywaggoner, CrystabelReiter,jenstrickland
 
 ## Next steps
 
-This issue *automagically* creates a Zenhub ticket (assigned to Emily, Crystabel, and Jennifer (VSA Accessibility Specialist), and VSP will schedule a design review.
+This issue *automagically* creates a Zenhub ticket (assigned to Emily, Crystabel, Megan Kelley, Peggy Gannon, Trevor and Jennifer (VSA Accessibility Specialist), and VSP will schedule a design review. Feedback from the design review will be collected in the issue ticket. Be prepared to frame your design in the first ten minutes. Reviewers will have an opportunity to ask questions for five minutes each.
