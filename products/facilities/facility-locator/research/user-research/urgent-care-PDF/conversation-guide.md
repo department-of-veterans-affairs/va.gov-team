@@ -35,6 +35,8 @@ Go ahead and complete your search.
 ### Task 2 - Download PDF
 [If they notice the PDF alert] Take a moment to read that alert and let me know your thoughts on it.
 
+[If they do NOT notice the PDF alert, go to Task 4]
+
 ### Task 3 - Read PDF
 Take a moment to review the content of this PDF and provide your thoughts when you are ready.
 
@@ -45,9 +47,10 @@ What factors would help you determine which pharmacy to visit?
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
-1. How would you describe the difference in a "walk-in" and a "full-service" urgent care location.
-2. How would you rate the overall clarity of the PDF?
-3. What would you change about this protototype?
+1. [If they did NOT notice PDF alert] I noticed you did not interact with the alert message that appeared when searching for a clinic to visit. Will you go [through task 1]  and tell me what your focus lands on? What are your thoughts on the PDF?
+2. How would you describe the difference in a "walk-in" and a "full-service" urgent care location.
+3. How would you rate the overall clarity of the PDF?
+4. What would you change about this protototype?
 
 ## Closing - 5 min
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
