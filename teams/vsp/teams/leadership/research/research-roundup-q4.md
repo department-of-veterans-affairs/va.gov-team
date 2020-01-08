@@ -37,28 +37,26 @@ To understand if people know what rules of engagement documents are, how they ca
 
 **How might we statements are covered in the team's synthesis doc linked to above**
 
-## Discovery: Documentation Site
-
-- Team: Rachael Roueche, Megan Kelley, Crystabel Reiter, Dan Shank, Bill Fienberg
-- Method: Qualitative interviews, survey, first-click testing
-- Participants: Many! Not sure of exact numbers.
-- [Research readout in Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-discovery/testing-discovery-readout-v2.pdf)
-
-### Goal
-
-To thoroughly understand the problems that VFS teams have when QA testing and demoing apps and services on VA.gov, and explore feasible solutions.
-
 ## Discovery: VA.gov Testing
 
 - Team: Naomi Marcussen, James Chasia, Kiefer Furzland, Peter Hill
 - Method: Qualitative interviews, usability testing
 - Participants: 6 interviewees, 18 survey respondents
-- [Research readout in Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-discovery/testing-discovery-readout-v2.pdf)
+- [Readout in Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-discovery/testing-discovery-readout-v2.pdf)
 
 ### Goal
 
 To thoroughly understand the problems that VFS teams have when QA testing and demoing apps and services on VA.gov, and explore feasible solutions.
 
-## Feedback about discovery sprints
+## Discovery: Documentation Site
 
-The teams that conducted discovery sprints each retro-ed their discovery sprints. 
+- Team: Rachael Roueche, Megan Kelley, Crystabel Reiter, Dan Shank, Bill Fienberg
+- Method: Qualitative interviews, survey, first-click testing
+- Participants: Many! Not sure of exact numbers.
+- [Readout TBD]
+
+### Goal
+
+To gather and synthesize input about the usage and effectiveness of the platform documentation, and explore and test solutions for a better documentation experience. 
+
+
