@@ -30,7 +30,6 @@ This quarter marked the end of our first strategic phase (laying the foundation)
 ### Services provided
 - VA.gov Downtime Banner + Warning Notifications UX audit
 - VA.gov Homepage performance improvement audit
-- Ruby upgrade
 - MVI upgrade
 - On Call training
 - Contact Centers Direct Deposit training 
