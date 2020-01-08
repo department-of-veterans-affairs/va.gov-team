@@ -16,20 +16,26 @@ Before we start, a few things I want to mention:
 
 Tell us your name and a little about your service history. 
 
-
-**(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
-
 ## Usability Test
 
 ### Scenario
+Let's imagine that you need urgent care and want to visit a local facility that takes your VA benefits. For the sake of this test, you are located in Washington D.C.
+
+**(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
+
+We will use a prototype to walk through a few steps in this scenario so not all links on the page will be clickable. Be sure to move a bit slower than you normally would on the web and talk me through what you are thinking.
 
 ### Task 1 
+Let's imagine that you have a fever and want to find a local walk-in urgent care. What would you do on this page first?
+
+Why did you choose [whichever location they chose]? 
 
 (Note path in detail. Make sure they voice why they might have selected something before allowing them to continue.)
 [Ask to go back to the "first" page]
 
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
+1. 
 
 ## Closing - 5 min
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
