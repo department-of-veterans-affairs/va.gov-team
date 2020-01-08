@@ -6,6 +6,8 @@ This research plan is for the Facility Locator Tool on VA.gov - VSA Facility Loc
 
 The Facility Locator is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA.
 
+#### Objective:
+
 The objective of this study is to gain insight on how Veterans receive content from the Urgent Care PDF. We will learn if and how Veterans understand the PDF. The results from this study will inform how to display an Urgent Care PDF download alert in the Facility Locator UI. 
 
 Additionally, we will learn how users understand the difference between VA Health and Non-VA Health facilities as shown in the Facility Locator UI.
