@@ -1,6 +1,6 @@
 ---
 name: Bug Template
-about: For filing bugs found on VSP
+about: For filing bugs found
 title: ''
 labels: bug
 assignees: ''
