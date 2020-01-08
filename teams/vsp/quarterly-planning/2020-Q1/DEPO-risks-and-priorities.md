@@ -20,7 +20,7 @@
 - Defining the design vision for the platform - what are we designing in service of? What design principles do we follow? What is the evidence that we are following those design principles?
 - Normalizing tools and documentation behaviors for greater VFS team permeability
 - Separation of concerns b/w VA.gov, Appeals, and Lighthouse infrastructure and applications
-- Includes a long term ownership / architectural plan for vets-api
+- **Includes a long term ownership / architectural plan for vets-api**
 - Successful launch of VAOS and one more health care tool
 - Highly used analytics tool
 - Role-based users / delegations / identity
