@@ -67,11 +67,11 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/conversation-guide.md)
 
-- [Notes & Recordings]team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care/participant-notes)
+- [Notes & Recordings]
 
-- Synthesis
+- [Synthesis]
 
-- Read-Out/Results
+- [Read-Out/Results]
 
 *This plan was approved by Lauren Alexanderson on XX/XX/XXXX*
 
