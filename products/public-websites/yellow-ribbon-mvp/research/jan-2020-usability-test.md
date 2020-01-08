@@ -32,17 +32,16 @@ Public Websites team, Yellow Ribbon (YR) content migration
 
 ### Hypothesis
 
-Veterans know the degree level, and either city, state, or name of the school they're interested in when they begin their research
-
+- Veterans find the current presentation of YR information tedious to parse through
+- Veterans know the degree level, and either city, state, or name of the school they're interested in when they begin their research
 - Sorting, filtering, and side-by-side comparison functionality will be helpful for Veterans 
 - Benefit amount will be the most important variable in the search results
 - Veterans will be confused about the difference between this and the GIBCT, and not understand the need for two separate tools
-- 
 
 ## Method	
 
-- Research will take place in the form of combined ethnographic interview and usability testing
-- We'll be asking users to engage with a live tool in our staging environment
+- Research will take place in the form of combined interview and task-based usability testing
+- Users will engage with a live tool in our staging environment
 - The sessions will be remote-modterated using Zoom. This method will allow us to observe users using our solution in their own environment, as well as test participants across geographic areas.	
 
 ## Participants and Recruitment	
@@ -63,12 +62,11 @@ Will work with Perigean for recruiting
 
 ## Timeline 	
 
-- Test beginning week of 1/25/2020
-- Prototype will be ready XX/XX/2020
+- Test beginning week of **TBD, hoping for 1/25/2020**
+- Prototype will be ready **XX/XX/2020**
 - Sessions estimated to be 30 minutes
 - Availability: **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
-- Pilot: XX/XX/2020 with TEAM MEMBER NAME
-
+- Pilot: **XX/XX/2020 with TEAM MEMBER NAME**
 
 
 ## Team Roles	
@@ -83,19 +81,18 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Project point of contact:	Liz Lantz
 
-- Participant(s) for pilot test:	
+- Participant(s) for pilot test:	**TBD**
 
-- Note-takers:	Perigean
+- Note-takers:	**TBD**
 
 - Observers:	
 
   - Nick Sullivan nick.sullivan@adhocteam.us
   - Kelson Adams kadams@governmentcio.com
   - Shawna Hein shawna.hein@adhocteam.us
-  - Jennifer Lee [jennifer.lee27@va.gov](mailto:jennifer.lee27@va.gov)
-  - Amy Knox [knox_amy@bah.com](mailto:knox_amy@bah.com)
-
-  
+  - Jennifer Lee jennifer.lee27@va.gov
+  - Amy Knox knox_amy@bah.com
+  - **anyone else?**
 
 ## Resources	
 
