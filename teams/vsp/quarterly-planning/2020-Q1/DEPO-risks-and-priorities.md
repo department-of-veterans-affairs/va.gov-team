@@ -17,9 +17,9 @@
 ## Priorities
 - Design system continued evolution, documentation, and processes
 - Evolution of inclusive engineering culture evolution (similar to design)
-- Defining the design vision for the platform - what are we designing in service of? What design principles do we follow? What is the evidence that we are following those design principles?
+- **Defining the design vision for the platform - what are we designing in service of? What design principles do we follow? What is the evidence that we are following those design principles?**
 - Normalizing tools and documentation behaviors for greater VFS team permeability
-- **Separation of concerns b/w VA.gov, Appeals, and Lighthouse infrastructure and applications**
+- Separation of concerns b/w VA.gov, Appeals, and Lighthouse infrastructure and applications
 - **Includes a long term ownership / architectural plan for vets-api**
 - Successful launch of VAOS and one more health care tool
 - Highly used analytics tool
