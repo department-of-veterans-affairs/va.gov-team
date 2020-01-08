@@ -44,7 +44,7 @@ o we need to ask on our Usability Testing screener to get the right kinds of use
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses:
 
-1.	Have you applied for VA educational benefits before?
+1.	Have you applied for Post-9/11 GI Bill educational benefits before?
   * If yes, to Question 2
   * If no, end call.
 2.	Would the idea of a scholarship that extended VA education benefits be appealing to you?
