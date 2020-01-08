@@ -32,7 +32,7 @@ Users will be able to navigate through the form relatively easily, but may have 
 ## Method	
 A task-based usability study will be conducted remotely with Zoom. A remote moderator will begin with introduction questions and prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototype. Remote observers and note takers will be in attendance.  
 
-We will be testing with a coded form in staging (STILL TBD if this can really happen)
+We will be testing with a coded form in staging or a clickable InVision prototype if the coded form is not ready.
 
 ## Participants and Recruitment	
 
@@ -51,18 +51,19 @@ We would like to work with Perigeon to recruit remote users.  We are looking for
 - Sessions will take place starting January 16th - 17th and January 20-21st.
 - Sessions should last ~45 minutes
 - Specific time slots:
--- please schedule sessions between 11am - 5pm Eastern time
+-- For January 16th, please schedule sessions between 11am - 5pm Eastern time
+-- For the rest of the days, please schedule sessions between 9am - 5pm Eastern time
 
 We will run a pilot session January 14th.  
 	
 ## Team Roles	
 - Moderator:	Jonathan Nelson (jonathan.nelson@adhocteam.us) and Shawna Hein (shawna@adhocteam.us, 530 277 4925)
-- Research guide writing and task development (usually but not always same as moderator):	Jonathan Nelson (jonathan.nelson@adhocteam.us) and Shawna Hein (shawna@adhocteam.us, 530 277 4925)
+- Research guide writing and task development (usually but not always same as moderator): Jonathan Nelson (jonathan.nelson@adhocteam.us) and Shawna Hein (shawna@adhocteam.us, 530 277 4925)
 - Participant recruiting & screening:	Perigeon
 - Project point of contact:	Jonathan Nelson (jonathan.nelson@adhocteam.us) and Shawna Hein (shawna@adhocteam.us, 530 277 4925)
-- Participant(s) for pilot test:	
-- Note-takers:	Alayna Abel, Patrick Sanders?, Jonathan Nelson, Shawna Hein
-- Observers:	CC Gong (cc.gong@va.gov), Justin Linn (jlinn@governmentcio.com), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov, Patrick Sanders (psanders@governmentcio.com)
+- Participant(s) for pilot test: Alayna Abel, Jonathan Nelson, Shawna Hein	
+- Note-takers:	Patrick Sanders
+- Observers:	CC Gong (cc.gong@va.gov), Alayna Abel (alayna@adhocteam.us), Justin Linn (jlinn@governmentcio.com), Kevin Mircovich (kmircovich@governmentcio.com), Ming Ligh (Ming.Ligh@va.gov, Patrick Sanders (psanders@governmentcio.com)
 
 ## Resources	
 - Project Brief: 	
