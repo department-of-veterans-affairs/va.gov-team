@@ -7,11 +7,12 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 ## Table of Contents
 
 - [References by Team](#references-by-team)
-- [Small projects](#small-projects)
+- [Small Projects](#small-projects)
 - [Design Reviews](#design-reviews)
   - Design Intent Checkpoint
   - Pre-usability Testing Design Review
   - Design QA Review Checkpoint
+  - [Design Issues Documentation](#design-issues-documentation)
   - [What is the Accessibility Specialist looking for](#what-is-the-accessibility-specialist-looking-for)
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
 - [Development Reviews](#development-reviews)
@@ -45,14 +46,19 @@ For reference: [508, Accessibility, and Inclusive Design Best Practices](https:/
 
 For medium to large projects, there are **three required checkpoints**. These reviews are integrated with [VSP's Design Rules of Engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md#whentorequest) and align with [VSA's Design Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-design-review-process.md). Accessibility, Content, IA, and Design practice reviews happen in the same checkpoint. VSA team members are also welcome to additional, casual checks with accessibility specialists.
 
-When a design review is scheduled by VSP, it will open a design 508 review epic in Zenhub, and assign findings to the responsible project manager. Project teams should coordinate another review after designs are updated. Please add a new comment in the Zenhub issue and @-comment Jennifer Strickland, and CC Emily Waggoner and Crystabel Reiter in the comment for visibility. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
-
 1. **Design Intent Checkpoint** — *Integrated with VSP design check-ins*  <br/> **[>> Schedule a design intent review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
 
 2. **Pre-usability Testing Design Review**, integrated with VSP, is conducted when the designs are built on static screens or prototypes and provides more specific feedback like relevant design system components and patterns, VA.gov URLS of relevant patterns in production, and staging server information and test user accounts. Accessibility provides inclusive feedback on recruiting diverse participants and considering additional testing scenarios.  <br/> **[>> Schedule a pre-usability testing review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
 
 3. **Design QA Review Checkpoint** — *Integrated with VSP*, when design is final.<br/>
 **[>> Schedule a design QA review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=emilywaggoner%2C+CrystabelReiter%2Cjenstrickland&labels=508%2FAccessibility%2C+design+review%2C+product+support&template=request_design_review_vsa.md&title=Request+design+review+for+ENTER_PRODUCT_NAME)**
+
+### Design Issues Documentation
+
+When a design review is requested using the issue ticket templates linked above, it will be assigned to the reviewing individuals. VSP will then schedule the design review including those reviewers. The issue ticket itemizes what to include so that reviewers may assess the materials ahead of the meeting. After the design review, feedback will be collected in comments on the issue ticket, and assignees set to include the designer, PM, and accessibility specialist to use as working reference.
+
+Once the designer and PM review feedback, please add a new comment on the issue with decisions made, then CC each of the reviewers in the comment for visibility. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
+
 
  ### What is the Accessibility Specialist looking for?
  
