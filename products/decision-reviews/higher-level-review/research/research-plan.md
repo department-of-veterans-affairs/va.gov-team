@@ -39,7 +39,6 @@ Testing on the HLR designs have been conducted already. However some items have 
 - 10 Veterans
 - Must have filed a disability claim
 - Variation in: age, location, experience with VA claims, tech savviness. 
-- Must be able to log into and engage with an online, password protected prototype, and share their screen. 
 - Must be able to describe to the researcher what they are trying to accomplish, what they are experiencing and thinking as they move through the prototype. 
 
 ## Recruitment
@@ -59,7 +58,7 @@ We will work with Perigean for recruiting.
 - Project point of contact: Christian V.
 - Participant(s) for pilot test: Kevin. S.
 - Note-takers: Kevin S., ...
-- Observers: Yana R., Nick S., Robin G., Silvio L., Andrea S., Shawna H., Kelly L., Maria V., 
+- Observers: Yana R., Nick S., Robin G., Silvio L., Andrea S., Shawna H., Kelly L., Maria V., Luke M.
 
 ## Resources
 
