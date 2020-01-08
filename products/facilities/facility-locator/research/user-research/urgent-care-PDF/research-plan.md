@@ -8,13 +8,22 @@ The Facility Locator is VA's single source of truth for customers to find VA fac
 
 The objective of this study is to gain insight on how Veterans receive content from the Urgent Care PDF. We will learn if and how Veterans understand the PDF. The results from this study will inform how to display an Urgent Care PDF download alert in the Facility Locator UI. 
 
+Additionally, we will learn how users understand the difference between VA Health and Non-VA Health facilities as shown in the Facility Locator UI.
+
 #### Research questions:
 - How are Veterans interpreting the content in the PDF?
 - How might we make the need for the PDF clear to Veterans through lanugage in the UI?
-- 
+- Can Veterans distinguish between VA Health and Non-VA Health locations using Facility Locator?
+  - Will the card labels provide enough context?
+  - Are the listings in the facility type dropdown clear?
+- How would Veterans present the PDF when visiting a facility (print/mobile)?
+- Do Veterans know they need to bring the PDF with them to a community care facility?
 
-#### Hypothesis: 
-Our hypothesis is that Veterans will not understand the need for the Urgent Care PDF or that its contents pertain to multiple roles (Veteran, provider, pharmacy).
+#### Hypotheses: 
+- Veterans will not know the need for the Urgent Care PDF
+- Veterans will not know that the PDF pertains to multiple roles (Veteran, provider, pharmacy).
+- There may be confusion with the PDF alert being triggered by urgent care and pharmacy facility types
+- Veterans will assume that non-VA urgent care locations are the same (no distinction between walk-in, urgent, pharmacy)
 
 ## Method
 Remote Moderated Usability Testing 
