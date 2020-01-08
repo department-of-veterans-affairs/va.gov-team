@@ -48,7 +48,7 @@ We would like to work with Perigeon to recruit remote users.  We are looking for
 - Include a mix of Veterans who live and do not live with caregivers
 
 ## When? 
-- We would like to run a pilot session with Perigeon and one of our team members, Patrick Sanders (psanders@governmentcio.com) as a pilot participant on January 15th at 2pm Eastern.  This should include Jonathan and Shawna and the observers as well (emails below)
+- We would like to run a pilot session with Perigeon and one of our team members, Justin Linn (jlinn@governmentcio.com) as a pilot participant on January 15th at 2pm Eastern.  This should include Jonathan and Shawna and the observers as well (emails below)
 - Sessions will take place starting January 16th - 17th and January 20-21st.
 - Sessions should last ~45 minutes
 - Specific time slots:
