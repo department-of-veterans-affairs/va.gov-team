@@ -1,4 +1,4 @@
-## [Full Sprint Agenda Deck](https://docs.google.com/presentation/d/1b54T9__x2IHpVkmrSs-eHf9OQ-9nlW3i3IXJZXyY7wI/edit#slide=id.g7ac6107f12_0_50)
+## [Full Sprint Agenda Deck](https://docs.google.com/presentation/d/1b54T9__x2IHpVkmrSs-eHf9OQ-9nlW3i3IXJZXyY7wI/edit?usp=sharing)
 
 ## Day Start Meeting Agenda
 - Assign notetaker for this meeting
