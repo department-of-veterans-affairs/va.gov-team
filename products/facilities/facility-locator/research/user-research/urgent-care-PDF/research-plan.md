@@ -28,7 +28,7 @@ Additionally, we will learn how users understand the difference between VA Healt
 - Veterans will assume that non-VA urgent care locations are the same (no distinction between walk-in, urgent, pharmacy)
 
 ## Method
-Remote Moderated Usability Testing 
+We will test the [prototype link] and [pdf linke] through remote moderated usability testing via Zoom. 
 
 ## Participants and Recruitment
 Participant Criteria
