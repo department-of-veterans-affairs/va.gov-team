@@ -22,7 +22,7 @@ Remote Moderated Usability Testing
 ## Participants and Recruitment
 Participant Criteria
 - Goal: 5 Participants
-- Veterans and Caregivers
+- Veterans
 - All ages
 - Representative gender demographic (at least 1 woman)
 - All levels of familiarity with technology
@@ -32,7 +32,7 @@ Recruitment to be done through Perigean
 ## Timeline
 
 #### Desired Timeline: 
-30 minute sessions
+60 minute sessions
 
 Team Availability | Time (EST)
 ------------------|--------------
