@@ -18,7 +18,10 @@ In the onboarding process, your PM should request Google Analytics access for yo
 Within each property, Google Analytics slices information further into Views. These views help us organize data into meaningful sections of the site. 
 
 #### Which view should I use? 
-The Views that contain the most data are the All VA.gov View and the WBC Modernized View. The WBC is the Web Brand Consolidation View that houses all of the Modernized tools and content for veterans. 
+Top-level sections of VA.gov are organized into Views. Here is an overview of how data is aggregated within each view:
+
+- The All VA.gov Production View includes all VA.gov content, including Modernized tools and content, eBenefits, and MHV. 
+- The WBC is the Web Brand Consolidation View that houses all of the Modernized tools and content for veterans. 
 
 For Product teams, each Modernized product area has its own view, indicated by a naming convention like "Education Modernized View". Other major parts of the site like MyHealtheVet and eBenefits also have their own views. These views are filtered by subdirectory or subdomain and interactions on these subdirectories or subdomains are then routed to the right view. 
 
@@ -29,4 +32,6 @@ Product Teams should work with Analytics-Insights when there are major changes t
 1. Your product area might also span another area of the site with a different URL structure. 
 1. A new search application has been added to your view (this is rare but might happen)
 1. A new product will be launching, and you need to define a goal funnel. 
+
+
 
