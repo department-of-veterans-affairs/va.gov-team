@@ -15,7 +15,7 @@
 - VFS Team DEPO Lead role definition / awareness of their role and responsibilities
 - Teammate burnout from workload
 - Our ability to empower our teammates to push back on VFS teams, w/o burning ppl out, w/o pitting contractor against contractor
-- **Growing pains of being an open repo, to defend this approach if/when we encounter swingback from an incident**
+- **Growing pains of being an open repo. So that we can defend the “default to open” approach if/when we encounter aversion to this model.**
 
 ## Priorities
 - Design system continued evolution, documentation, and processes
