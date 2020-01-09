@@ -17,13 +17,13 @@ Draft questions to follow the "Are you applying for STEM" question/Yes answer
 [Edith Nourse Rogers Science Technology Engineering Math (STEM) Scholarship - Education and Training](https://benefits.va.gov/gibill/fgib/stem.asp)   
 
 
-From Booz Allen
+From BAH UX
 
 Draft questions to follow the "Are you applying for STEM" question/Yes answer
 * STEM Wizard Improvement Idea
 	* Add: Are you using or have you recently used the Post-9/11 GI Bill and/or Fry Scholarship?
   	* If Yes - next question
-		* If No - stop, you aren't eligible message, Explanation with link to (STEM overview, possibly link below
+		* If No - stop, you aren't eligible message, Explanation with link to (STEM overview, possibly link below)
 	* Are you enrolled in an approved STEM program, e.g. Science, Technology, Engineering, and/or Math?
   	* If Yes - next question
 		* If No - stop, you aren't eligible message, Explanation with link to (STEM overview, possibly link below)
