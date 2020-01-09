@@ -7,8 +7,8 @@
   	White or Caucasian 	
     35 - 45 	
   	Master's degree 	
- 	  Army 	
- 	  OR 
+ 	Army 	
+ 	OR 
 
 ### Participant Info
 * Was told he could not use his Mongomery GI Bill educational benefits in 2002. 
