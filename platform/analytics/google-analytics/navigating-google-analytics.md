@@ -30,7 +30,7 @@ For Product teams, each Modernized product area has its own view, indicated by a
 Product Teams should work with Analytics-Insights when there are major changes to the URL structure. For example, if the subdirectory `/health-care` became `/healthcare`, we would work with your team to adjust this before these changes occur. Here are other situations where you will need to submit a ticket: 
 
 1. Your product area might also span another area of the site with a different URL structure. 
-1. A new search application has been added to your view (this is rare but might happen)
+1. New search functionality has been added to your view.
 1. A new product will be launching, and you need to define a goal funnel. 
 
 
