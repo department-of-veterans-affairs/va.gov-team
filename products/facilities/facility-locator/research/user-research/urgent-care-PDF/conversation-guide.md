@@ -59,5 +59,5 @@ I have just a few more questions to ask you before we finish up today.
 4. How prepared do you feel to visit a facility after using this tool?
 5. What would you change about this protototype?
 
-## Closing - 5 min
+## Closing
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
