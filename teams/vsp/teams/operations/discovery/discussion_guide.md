@@ -4,13 +4,11 @@
 _Use #vsp-Infrastructure-Overhaul-discovery in Slack for real-time feedback from observers._
 
 ## Intro
-Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding our Infrastructure. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go.
+Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding our Infrastructure. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go. We want to hear what your experiences have been like working with the VA.gov infrastructure, and want to hear your honest opinions! We welcome any and all feedback.
 
 Before we start, there are a few things I want to mention: 
 
 This entire session is scheduled for an hour. We don't want to keep you any longer than that, so I may occasionally prompt you with the next question or topic. 
-
-We want to hear your honest opinions, and we welcome your feedback. 
 
 Is it alright with you if I record this call as we talk today? We'll use the recordings to confirm that we captured the conversation accurately, and we'll destroy them after we complete analysis. No comments will be attributed to you directly. 
 
@@ -18,7 +16,42 @@ Is it alright with you if I record this call as we talk today? We'll use the rec
 
 Alright, we're recording!
 
-## Standard Questions 
+## Interview
+
+### Warm-up questions
+
+- What team are you on?
+- What is your role?
+- Do you interact with the devops repo for VA.gov?
+   - If yes: How would you characterize your experience?
+   - How frequently do you interact with the repo?
+   
+### Starting a new project
+
+- Describe your experience starting a new project using the devops repo.
+   - What was it like starting your first project?
+   - Is anything different starting new projects now that you've done it a few times?
+   - Is there anything you wish was different?
+- What was it like getting set up to develop locally?
+   - What is it like now?
+   - Are there any workarounds you rely on to make any of the processes easier or faster?
+   - Is there anything you wish was different?
+- How did you go about understanding the capabilities of the technical platform?
+- How is it getting access to things? *Q from Emily: things like what?*
+- What has your experience been like setting up deployment?
+   - What was it like the first time you did it?
+   - Has anything changed since then?
+   
+### Getting support
+
+- Describe how you seek out help with ops perspective for designing, building, or planning a large change/initiative?
+   - What steps do you take?
+   - Who do you seek out?
+   - When you get stuck, what do you do?
+   
+### Deploying [Not sure if this is the best category name]
+   
+- Describe what it's been like with CI and testing.
 
 ### User Questions
 Keep the following???: 
@@ -26,19 +59,16 @@ Keep the following???:
 - How did you know it was good? What made it successful (or not)? What were the results? What behavior were you seeing to indicate that?
 
 Question from Nathan:
-- How often do you interact with the devops repo?
-   - (if yes) How was the expereince? 
+
       - What would you like to see different?
 
 ### Pain Point Questions
 What are the pain points during the following: 
-- How is it getting started with a new project?
-- How is it developing locally?
-- How is it getting access to things?
-- How is it understanding the capabilities of the technical platform?
-- How is it Getting help with ops perspective for designing, building, or planning a large change/initiative?
-- How is it CI and testing?
-- How is it Setting up deployment?
+
+
+
+
+
 - How is it Writing docs?
 - How is it Creating an artifact?
 - How is it Doing a deploy?
