@@ -16,7 +16,7 @@ After your onboarding, please check out these resources:
 
 2. [GA360 Platform](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/ga360-platform.md)
 
-3. [Navigating Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-walkthrough.md)
+3. [Navigating Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/navigating-google-analytics.md)
 
 4. [Google Analytics Walkthrough Video](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/google-analytics-walkthrough.md)
 
