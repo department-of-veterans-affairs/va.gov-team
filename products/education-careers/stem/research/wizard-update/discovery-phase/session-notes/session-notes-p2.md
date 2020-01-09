@@ -17,10 +17,10 @@
 ### Findings
 * Knows that the Applying to extend" option allows you to apply for the STEM Scholarship (used it in December to apply).  
 * Based on prior knowledge, knows that STEM Scholarship applicants have to 
-		○ have close to no benefits left
-		○ be receiving a B.S. degree only
-		○ be studying in a stem field
-		○ be seeking an undergraduate degree, rather than an associates degree.  
+	○ have close to no benefits left   
+	○ be receiving a B.S. degree only  
+	○ be studying in a stem field  
+	○ be seeking an undergraduate degree, rather than an associates degree  
 * Has the impression that a lot of people do not know what STEM is. Thinks mainly people in STEM fields know the acronym.  
 * Accurately expects the Learn More link on VA Form 22-1995 will explain what the STEM Scholarship is and who is eligible.  
 
