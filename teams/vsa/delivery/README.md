@@ -57,7 +57,7 @@ Essentially, a requirement is a way to describe what needs to be implemented. Re
 
 ## Epics
 
-Epics are a high level business needs and expressed the strategic intent in plain, clear language. There is an [EPIC TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/epic-issue.md) 
+Epics are a high level business needs and expressed the strategic intent in plain, clear language. Hhere is the [EPIC TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/epic-issue.md) 
 
 ## Issues
 
