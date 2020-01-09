@@ -72,3 +72,5 @@ We would like to work with Perigeon to recruit remote users.  We are looking for
 - Synthesis		
 - Read-Out/Results	 	
   - ** Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
+
+Reviewed and approved by Lauren Alexanderson on 01/08/2020
