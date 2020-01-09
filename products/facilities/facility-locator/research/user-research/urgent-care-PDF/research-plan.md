@@ -67,7 +67,7 @@ Aricka Lewis | Moderator, research writing, task development | aricka@adhocteam.
 Perigean | Recruiting & Screening |
 Liz Lantz | Pilot participant | liz.lantz@adhocteam.us
 Jennifer Strickland | Pilot participant | jennifer.strickland@adhocteam.us
-TBD | Note taker | 
+Perigean | Note taker | 
 Dave Conlon | Observer | David.Conlon@va.gov 
 Lance Sanchez | Observer | osanchez@governmentcio.com
 Gibran Rodriguez | Observer | grodriguez@governmentcio.com
