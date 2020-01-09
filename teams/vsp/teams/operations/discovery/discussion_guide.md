@@ -16,7 +16,7 @@ Is it alright with you if I record this call as we talk today? We'll use the rec
 
 Alright, we're recording!
 
-## Interview
+## Questions about building on VSP
 
 ### Warm-up questions
 
@@ -38,9 +38,6 @@ Alright, we're recording!
    - Is there anything you wish was different?
 - How did you go about understanding the capabilities of the technical platform?
 - How is it getting access to things? *Q from Emily: things like what?*
-- What has your experience been like setting up deployment?
-   - What was it like the first time you did it?
-   - Has anything changed since then?
    
 ### Getting support
 
@@ -51,51 +48,68 @@ Alright, we're recording!
    
 ### Deploying [Not sure if this is the best category name]
    
+- What has your experience been like setting up deployment?
+   - What was it like the first time you did it?
+   - Has anything changed since then?
 - Describe what it's been like with CI and testing.
-
-### User Questions
-Keep the following???: 
-- Talk me through a time when you’ve had a really good experience with Infrastructure. ???
-- How did you know it was good? What made it successful (or not)? What were the results? What behavior were you seeing to indicate that?
-
-Question from Nathan:
-
-      - What would you like to see different?
-
-### Pain Point Questions
-What are the pain points during the following: 
-
-
-
-
-
-- How is it Writing docs?
-- How is it Creating an artifact?
-- How is it Doing a deploy?
-- How is it Assessing app status/health?
-- How is it changing config?
-- How is it Dealing with backend services (like auth, mvi, etc..)?
-- How is it Assessing change effectiveness?
-- How is it going “live” with something?
-
-- What better characterizes your team “bias to action” or “measure twice, cut once”?
-- How much more/less control do you want over your apps deployment and running?
-- What kind of configuration does you app have/need?
+- Describe your experiences deploying code.
+   - How easy is it, generally?
+   - What parts are difficult?
+   - What parts would you change if you could?
+- Describe your experience going “live” with something.
+   - What went well?
+   - What went poorly?
+   - What do you generally expect to go wrong?
+- Ideally, how much control do you want over your apps deployment and running?
+   - Does that align with how much control you have now?
+   - What would you change?
 - Do you “dark launch” features or are your deployment and feature releases decoupled?
-- What’s a really easy thing on CSP to do?  Why?
+   - What would you change?
+
+### Developing things
+
+- What has your experience been like writing docs [in the devops repo?]? *Q from Emily: Writing documentation about their code?*
+- What's it been like creating an artifact? *Q from Emily: Is this a widely understood dev process? What kind of artifacts are we referring to?*
 - Has a short list of language support been a problem?  Do you need to use other languages?
-- Do you need to bring in / on new services beyond api and site?
-- How famailar are you with 12 factor apps?
+- How do you usually assess app status/health? What is that experience like?
+- Describe your experience changing config. 
+- What is it like when you connect with backend services (like auth, mvi, etc..)?
+   - Which have you connected to in the past/do you usually need to connect to for your work?
+   - What parts are easy?
+   - What parts are difficult?
+   - What would you change if you could?
+- What is your experience like assessing change effectiveness?
+   - What parts are easy?
+   - What parts are difficult?
+   - What would you change if you could?
+- How would you characterize the developer/"build" culture of your team? *Q from Emily: How can we ask this question in an open-ended way? 
+   - If clarification needed: For example, “bias to action” or “measure twice, cut once”?
+- What kind of configuration does your app have? Is that different from what it needs?
+   - What parts are easy?
+   - What parts are difficult?
+   - What would you change if you could?
+   - What would you change?
+- What’s a really easy thing on CSP to do?  Why? *Q from Emily: What is CSP?*
+- What steps do you take when you need to bring in / on new services beyond api and site?
+- What would you like to see different about building on VSP?
+
+### Unsure of the right category
+- How familiar are you with 12 factor apps?
 - XXX VCR / test data collection
 - XXX need more envs in staging (are dev/review envs useful) ?
 
-Keep?:
+## Questions about infrastruture in general (not VSP related)
+
+- Talk me through a time when you’ve had a really good experience with Infrastructure. 
+   - How did you know it was good? 
+   - What made it successful (or not)? 
+   - What were the results? 
+   - What behavior were you seeing to indicate that?
 - What tools and processes have you found effective in the past?
 - What tools and processes have you found ineffective in the past? 
 - What processes did you use to set standards across different teams who were contributing to the Infrastructure?
 - What do you think VSP, the platform team, can learn from this example? 
 - If you had to choose 3 things that you think were critical to your success, what would you say those were?
-
 
 ## Questions Specific to Interviewee
 
