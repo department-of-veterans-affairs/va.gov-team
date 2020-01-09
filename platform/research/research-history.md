@@ -14,6 +14,11 @@ __Please note that many links on this page reference research folders in the vet
 
 ### December 2019
 
+#### December 5 - 12: Medical Device Tool Discovery
+*AdHoc: Rebecca Walsh, Amida: Riley Orr*
+- 11 participants 
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
+
 #### VAOS UAT Phase II
 *VA: Lauren Alexanderson*
 - 30 participants 
