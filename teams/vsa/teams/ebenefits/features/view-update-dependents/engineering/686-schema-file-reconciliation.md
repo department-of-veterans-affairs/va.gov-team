@@ -21,7 +21,7 @@
 1. Do you live together and Reason for Separation (13A, 13B) while present on the digital form do not function as expected. It's possible for a person to be currently married, but separated and not living with their spouse. This needs to be fixed to reflect this case as these are only handled for past marriages.
 ### Section III - Information Needed To Add Child(ren)
 1. Child Status (16G) is present but somewhat incomplete in the digital form.
-    * It has an option stating 'Child was seriously disabled before 18' but it's unclear if this maps to the paper form option of 'Child incapapble of self-support'.
+    * It has an option stating 'Child was seriously disabled before 18' but it's unclear if this maps to the paper form option of 'Child incapable of self-support'.
     * The field 'Child Previously Married' maps 1-1 between paper and digital form, but if checked then a veteran needs to fill out How and When Marriage Ended (16H). 16H is not present on the digital form and needs to be added as a field.
 1. Per the note in Section II - If you are a veteran with a stepchild and no longer live with the stepchild's biological or adoptive parent, complete section V:
     * The digital form has fields that cover required information for (21A, C-E) name of child, and whether or not the child lives with you and if not then their address and the name of the person they live with.
