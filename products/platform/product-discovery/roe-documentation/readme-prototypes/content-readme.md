@@ -1,5 +1,5 @@
 Working with the 
-**VSP Content Team - Work in Progess**
+# VSP Content Team - Work in Progess
 
 *Last updated: Jan. 6, 2020*
 
