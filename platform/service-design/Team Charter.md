@@ -1,4 +1,4 @@
-# Service Design Team Charter [draft]
+# Service Design Team Charter
 
 
 
