@@ -15,7 +15,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```
 ### 1. Prepare "Your VA disability ratings" for Launch
 - Complete and implement final reviews and changes required to launch (508 {staging})
-- Develop and docuemnt in GH plan for moderated user acceptance testing 
+- Develop and document in GH plan for moderated user acceptance testing 
 - Review the launch checklist and document any remaining gaps for launch procedures  
   - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
 
