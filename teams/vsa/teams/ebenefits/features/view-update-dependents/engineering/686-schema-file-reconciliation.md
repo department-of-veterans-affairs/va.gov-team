@@ -6,6 +6,7 @@
     * More info [here](https://www.archives.gov/personnel-records-center/social-security-numbers)
 1. Generally, a veteran will know if their service number is applicaple. This field should be treated as optional.
     * Service Number (7) needs to be added as a field to the form.
+    * Service Number is a string containing between 5 and 8 numbers with an alphabetical prefix of up to 2 letters.
 1. Telephone Number (8) is part of the schema already but not used in the digital form. It only supports a USA number currently. This needs to be added as a field.
 ### Section II - Information Needed To Add A Spouse
 1. Place of Marriage (11E) currently uses a definition on the frontend that doesn't matchup with the defintion created in the schema file for location. This needs to be fixed.   
