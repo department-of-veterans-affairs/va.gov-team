@@ -1,7 +1,7 @@
 # Discussion Guides - Infrastructure Overhaul Discovery Sprint 1/2020
 
 ## Moderator Logistics
-_Use #vsp-Infrastructure-Overhaul-discovery (need to make) in Slack for real-time feedback from observers._
+_Use #vsp-Infrastructure-Overhaul-discovery in Slack for real-time feedback from observers._
 
 ## Intro
 Thanks for joining us today! My name is [name] and I am a [role] on [team]. As you may know, VSP is doing a discovery sprint this week regarding our Infrastructure. We've got a few other folks from the discovery sprint team here today as well who are observing and taking notes and may chime in with questions as we go.
