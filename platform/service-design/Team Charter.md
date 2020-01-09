@@ -10,7 +10,7 @@ Enable VA to build digital tools at scale that work for Veterans and their famil
 
 ### Team Mission Statement:
 
-Provide holistic guidance on platform design and product decisions to ensure VFS teams have the systems, tools, processes, documentation, and support to create successful VA.gov products.
+Provide holistic, research-based guidance on VSP design and product decisions to ensure VFS teams have the systems, tools, processes, documentation, and support to create successful VA.gov products.
 
 ### Responsibilities:
 
