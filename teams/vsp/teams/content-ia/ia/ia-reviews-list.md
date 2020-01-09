@@ -4,7 +4,11 @@ List of projects and where the IA review is documented.
 
 Team | Project | IA Review Completed | IA Review Documentation | Notes
 --- | --- | --- | --- | ---
-Websites Team | VA Forms Search | | | Discussed with team on 11/26, will complete review when ticket created and assigned
+Caregivers | 10-10cg Modernization | - | - | -
+BAM 2 | Medical Device Ordering | - | - | -
+eBenefits | View Dependents | in progress | - | Moving to root level tool, will include add/manage features
+Websites Team | Forms Search Landing Pages | in progress | - | Impacted by redirect issue for Forms Search page
+Websites Team | VA Forms Search | 01/09/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/3887 | Outstanding issue regarding new URL and redirect capability, will be discussing week of 1/13
 BAM1 | Higher Level Review Form | 12/3/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/3822 | -
 VAOS | Online Appointment Scheduling |11/7/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/3152 | -
 BAH | School Certifying Officials content page | 11/5/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/3041 | -
