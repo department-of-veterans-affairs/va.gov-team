@@ -1,6 +1,7 @@
 # **Working with the VSP Content Team - Work in Progess**
 
 *Last updated: Jan. 6, 2020*
+
 *Owned by: Content & IA*
 
 Hello! In this folder, you'll find information about plain language standards and documentation and guidance on creating content across VA.gov.
