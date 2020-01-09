@@ -1,4 +1,4 @@
-# **Working with the VSP Content Team**
+# **Working with the VSP Content Team - Work in Progess**
 
 *Last updated: Jan. 6, 2020*
 *Owned by: Content & IA*
