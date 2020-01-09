@@ -44,7 +44,7 @@ The following users have been identified:
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses:
 
-1.	Have you applied for VA educational benefits before?
+1.	Have you applied for VA educational benefits before? [1/8 Next time, we'll recruit those who have applied for Post-9/11)
   * If yes, to Question 2
   * If no, end call.
 2.	Would the idea of a scholarship that extended VA education benefits be appealing to you?
