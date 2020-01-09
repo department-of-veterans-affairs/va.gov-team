@@ -1,4 +1,4 @@
-Welcome to the Platform Call Center Folder. This repo contains documentation relevant to VFS teams 
+Welcome to the Platform Call Center Folder. This repo contains documentation about how the work of VFS Teams intersect with VA call centers.
 
 ## VFS Call Center POCs
 - DSVA POC: Chante Lantos-Swett (chante.lantosswett@va.gov)
