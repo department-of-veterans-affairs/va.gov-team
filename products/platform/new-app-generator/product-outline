@@ -1,23 +1,17 @@
-# Sample App Product Outline
+# VA.gov Application Generator (Yeoman)
 
 #### Communications
-- Team Name: 
-- GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
-
-#### Team Members
+- Team Name: VSP BE Tools & VSP FE Tools
+- GitHub Label: yeoman-application-generator
+- Keywords: yeoman, form generator, application generator, scaffolding
 
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+There's some boilerplate involved with creating new applications, and especially form applications, in vets-website. In order to simplify that process we created a tool that developers can use to quickly generate empty applications and forms.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
 ## User Goals
 
@@ -54,6 +48,12 @@
 ## Solution Narrative
 
 ### Current Status
+The code is located at https://github.com/department-of-veterans-affairs/generator-vets-website.
+
+It's published as an npm module, which is detailed in that repository's readme.
+
+Instruction documents to assist with the Application Generator can be found here:
+https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/generator
 
 ### Key Decisions
 
