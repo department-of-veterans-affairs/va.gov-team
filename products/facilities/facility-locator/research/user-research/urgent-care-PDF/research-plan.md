@@ -87,5 +87,5 @@ Tressa Furner | Observer | tressa.furner@adhocteam.us
 
 - [Read-Out/Results]
 
-*This plan was approved by Lauren Alexanderson on XX/XX/XXXX*
+*This plan was approved by Lauren Alexanderson on 01/09/2020*
 
