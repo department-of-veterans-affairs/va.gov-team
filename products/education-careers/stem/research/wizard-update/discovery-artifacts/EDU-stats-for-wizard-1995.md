@@ -39,7 +39,7 @@
    Since OCT 1, 2019 to DEC 17, 2019:
     * 25,000 people coming through the Wizard (since Oct 1, 2019)
     * 1995 40,000 regular applicants
-    * 1995 / STEM – 4,000
+    * 1995 / STEM – 4,000 [note that this is different than the number in the graphic above]
     * **122,750 direct traffic to the apply 1995 page**
 
 6. **Similar Scholarships - Identify VA scholarships “similar” to STEM – with acceptance / rejection rates.**  
@@ -50,7 +50,7 @@
     
 7. **Percent of the 9272 rejected applicants who were simultaneously using the 1995 for it's intended purpose.**
     
-    **Requested:** 12/30  
+    **Requested:** 12/30 [EDU mentioned 5/2/19 that they'd only be able to apply for one benefit at a time, that the user would not be able to apply for STEM AND change their benefit on the same form.] 
     **EDU Response:** TBD  
   
 
