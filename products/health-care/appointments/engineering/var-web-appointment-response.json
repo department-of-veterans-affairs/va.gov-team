@@ -1,0 +1,50 @@
+{
+  "patients" : {
+    "patient" : [ {
+      "id" : {
+        "assigningAuthority" : "ICN",
+        "uniqueId" : "1012845331V153043"
+      },
+      "name" : {
+        "firstName" : "JUDY",
+        "lastName" : "MORRISON"
+      },
+      "contactInformation" : {
+        "preferredEmail" : "marcy.nadeau@va.gov",
+        "timeZone" : "America/Denver"
+      },
+      "location" : {
+        "type" : "VA",
+        "facility" : {
+          "name" : "CHYSHR-Cheyenne VA Medical Center",
+          "siteCode" : "983",
+          "timeZone" : "America/Denver"
+        },
+        "clinic" : {
+          "ien" : "455",
+          "name" : "CHY PC CASSIDY"
+        }
+      }
+    } ]
+  },
+  "duration" : 60,
+  "dateTime" : "2020-01-23T11:00:00.000+0000",
+  "providers" : {
+    "provider" : [ {
+      "location" : {
+        "type" : "VA"
+      }
+    } ]
+  },
+  "schedulingRequestType" : "NEXT_AVAILABLE_APPT",
+  "type" : "REGULAR",
+  "appointmentKind" : "TRADITIONAL",
+  "bookingNotes" : "I need some help with my lower back.",
+  "desiredDate" : "2020-01-23T00:00:00.000+0000",
+  "sourceSystem" : "VAR",
+  "instructionsOther" : false,
+  "responseStatus" : {
+    "statusCode" : "0",
+    "statusDesc" : ""
+  }
+}
