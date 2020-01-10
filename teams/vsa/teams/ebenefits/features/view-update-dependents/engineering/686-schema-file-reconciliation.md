@@ -23,6 +23,7 @@
 1. Child Status (16G) is present but somewhat incomplete in the digital form.
     * It has an option stating 'Child was seriously disabled before 18' but it's unclear if this maps to the paper form option of 'Child incapable of self-support'.
     * The field 'Child Previously Married' maps 1-1 between paper and digital form, but if checked then a veteran needs to fill out How and When Marriage Ended (16H). 16H is not present on the digital form and needs to be added as a field.
+1. Child Place of Birth (16D) needs to be added to the form.
 1. Per the note in Section II - If you are a veteran with a stepchild and no longer live with the stepchild's biological or adoptive parent, complete section V:
     * The digital form has fields that cover required information for (21A, C-E) name of child, and whether or not the child lives with you and if not then their address and the name of the person they live with.
     * The digital form needs fields for:
