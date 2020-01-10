@@ -157,7 +157,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 #### DSVA Channels
 
-**#va-vsa-content** - this is our “home base” for the team, where we all support each other. Use this channel for:
+**#vsa-content** - this is our “home base” for the team, where we all support each other. Use this channel for:
 
 * Asking for feedback / thoughts on content work
 * Asking if other members of the team have worked on anything similar
