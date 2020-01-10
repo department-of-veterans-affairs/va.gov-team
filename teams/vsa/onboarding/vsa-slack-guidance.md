@@ -2,19 +2,19 @@
 
 Questions? Message Shawna Hein, VSA Design Lead (shawna@adhocteam.us)
 
-* [Overall Usage]()
-  * [General Usage Tips]()
-  * [Contractor Slack channels versus DEPO slack channels]()
-* [Guidance on Channel Usage]()
-  * [Channels versus DMs]()
-  * [Team Channels](https://docs.google.com/document/d/1aah-4Gyq4jylM7CMvMxutKUjd3ebHpQNx0OMjQ0RLEs/edit#heading=h.h7qoikvfto3)
+* [Overall Usage](#overall-usage)
+  * [General Usage Tips](#general-usage-tips)
+  * [Contractor Slack channels versus DEPO slack channels](#Contractor-Slack channels-versus-DEPO-slack-channels)
+* [Guidance on Channel Usage](#Guidance-on-Channel-Usage)
+  * [Channels versus DMs](#Channels-versus-DMs)
+  * [Team Channels](#Team-Channels)
   * [VSP Channel]()
-* [Practice Specific Slack Guidance](https://docs.google.com/document/d/1aah-4Gyq4jylM7CMvMxutKUjd3ebHpQNx0OMjQ0RLEs/edit#heading=h.f67czpnpds7m)
-  * [Design](https://docs.google.com/document/d/1aah-4Gyq4jylM7CMvMxutKUjd3ebHpQNx0OMjQ0RLEs/edit#heading=h.ck3dvdijyzjt)
-  * [Product](https://docs.google.com/document/d/1aah-4Gyq4jylM7CMvMxutKUjd3ebHpQNx0OMjQ0RLEs/edit#heading=h.gpi5bvbo5468)
-  * [Engineering](https://docs.google.com/document/d/1aah-4Gyq4jylM7CMvMxutKUjd3ebHpQNx0OMjQ0RLEs/edit#heading=h.jtjmyhm5vbp2)
-  * [Content](https://docs.google.com/document/d/1aah-4Gyq4jylM7CMvMxutKUjd3ebHpQNx0OMjQ0RLEs/edit#heading=h.3egisksxdbg6)
-* [Frequently Asked Questions](https://docs.google.com/document/d/1aah-4Gyq4jylM7CMvMxutKUjd3ebHpQNx0OMjQ0RLEs/edit#heading=h.q6zb576zo96r)
+* [Practice Specific Slack Guidance](#Practice-Specific-Slack-Guidance)
+  * [Design](#design)
+  * [Product](#product)
+  * [Engineering](#engineering)
+  * [Content](#content)
+* [Frequently Asked Questions](#Frequently-Asked-Questions)
 
 ## Overall Usage
 
