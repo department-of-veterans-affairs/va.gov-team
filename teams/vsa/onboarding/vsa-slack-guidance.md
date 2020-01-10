@@ -4,7 +4,7 @@ Questions? Message Shawna Hein, VSA Design Lead (shawna@adhocteam.us)
 
 * [Overall Usage](#overall-usage)
   * [General Usage Tips](#general-usage-tips)
-  * [Contractor Slack channels versus DEPO slack channels](#Contractor-Slack channels-versus-DEPO-slack-channels)
+  * [Contractor Slack channels versus DEPO slack channels](#Contractor-Slack-channels-versus-DEPO-slack-channels)
 * [Guidance on Channel Usage](#Guidance-on-Channel-Usage)
   * [Channels versus DMs](#Channels-versus-DMs)
   * [Team Channels](#Team-Channels)
@@ -35,7 +35,7 @@ We recommend usage of the following features:
 
 * **Stars.** You can “star” a message that you need to come back to. In order to see all starred messages, click on the star icon in the top right corner of Slack
 * **Previous/Next arrows** - These arrows are in the top left corner to the right of “jump to.” If Did you read something, then go to another channel, and forget where you read the first original message? You can use the little “back” arrow to go back to where you were. 
-![img](https://lh4.googleusercontent.com/qFkrWxt0NoQtyq0X_CLdIo4a0PgYA2r0EpW_RZ3M_UjMGDeI_vhPBlkV1V-sH1ZmzP576Ym76zZJ49117d-J6BVvHTgGDanhKS6jSZJa-wlNdpVGHJtnH03SQ5qpfNRErSgevMpm)
+   * ![img](https://lh4.googleusercontent.com/qFkrWxt0NoQtyq0X_CLdIo4a0PgYA2r0EpW_RZ3M_UjMGDeI_vhPBlkV1V-sH1ZmzP576Ym76zZJ49117d-J6BVvHTgGDanhKS6jSZJa-wlNdpVGHJtnH03SQ5qpfNRErSgevMpm)
 * **Configure notifications** - There are a lot of great channels to join, but you don’t necessarily need to be aware of everything happening in it. To help mitigate too much disruption due to notifications, you can use your Slack preferences to set your notifications to “Direct messages, mentions, & keywords” to set the default behavior for channels. Then, in your team channel and others you’re most interested in, you can first visit the channel from the sidebar, click the name of the channel in the top header, select “Notification preferences…”, and choose “Every new message” to make sure you’re notified when a team member posts a message.
 
 #### Slack Apps
