@@ -160,6 +160,12 @@ Only move on to these if there's time.
 
 - Sometimes we get validation keys but can't force the addresses through #4278 
   - **Note**: Dependent on VA Profile fixes.
+  
+### Profile 2.0
+
+- Profile 2.0: Settle on final design direction #4759
+- (If applicable) Answer any additional technical discovery questions #2455
+- (If time) Refactor Vet360 Profile form components to use SchemaForm #4068
 
 ### Error Matrix
 
