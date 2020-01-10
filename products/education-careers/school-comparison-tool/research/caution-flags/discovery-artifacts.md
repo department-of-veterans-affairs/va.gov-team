@@ -58,7 +58,8 @@ Includes several concepts that we could explore for our work on the Search Resul
 
 ## Questions for EDU
 
-* ...
+* What's the process (& timeline) for school receiving caution flags? 
+* What's the lead-time and is there advance notice when flags are cleared?  
 
 #### Search results page
 
