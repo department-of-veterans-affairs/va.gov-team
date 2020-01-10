@@ -11,29 +11,11 @@
 There's some boilerplate involved with creating new applications, and especially form applications, in vets-website. In order to simplify that process we created a tool that developers can use to quickly generate empty applications and forms.
 
 ## Problem Statement
-
+New teams on the platform need an easy and fast way to get started building apps on the VSP platform
  
 ## User Goals
+- Easily and quickly prop up scaffolding that allows me and my team to get started building.
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
-
-## Business Goals
-
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Assumptions
-
-## Questions
-
-## Solution Approach
-
-- *What are you going to build now and why have you decided to start there?
-- *Why this approach over other approaches?*
-- *How will the solution evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-## Value Propositions
 
 ## KPIs
 
