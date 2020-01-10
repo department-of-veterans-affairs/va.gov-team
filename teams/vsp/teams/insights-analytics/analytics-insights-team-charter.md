@@ -22,6 +22,7 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 - Google Analytics
 - ForeSee
 - VFS KPI Setting and Tracking Processes
+- Call Center relationships
 
 **Metrics Suite**
 - Google Analytics
