@@ -28,8 +28,6 @@ Last Updated December 10, 2019
 |Toya McKoy| eBenifits Contract (Insignia) Office Representative |
 |Courtney Rive | eBenefits (Insignia) Project Manager |
 
-
-
 ---
 
 ### Table of Contents
@@ -104,7 +102,7 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 - Intial roll out released to 10% of users - 9.25.19
 - Ramped up from 10% of users to 50% of users - 10.16.19
 - Ramped up from 50% of users to 75% of users - 12.5.19
-- Targeting full ramp up to 100% of users during Before or during Sprint 11.
+- Ramped up to 100% of users — 12.16.19
 
 ## KPIs
 ### Objective
