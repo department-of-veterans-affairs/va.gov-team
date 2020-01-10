@@ -32,7 +32,7 @@ Testing on the HLR designs have been conducted already. However some items have 
 - We have previously conducted moderated usability testing sessions for the initial iteration of the designs and have gained feedback.
 - We will be using remote, moderated usability studies because we need to talk to Veterans to understand what usability issues have been solved and which issues exist within the latest HLR designs. 
 - We will use Zoom to conduct these sessions.  
-- We will ask Veterans to navigate to a password protected VA.gov (staging) and share their screens with us via Zoom.
+- We will ask Veterans to navigate to an Invision link (provided in the Zoom chat) and share their screens with us via Zoom.
 
 
 ## Participants
