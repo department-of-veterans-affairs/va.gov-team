@@ -27,7 +27,7 @@ The goal of this stage is to ensure the tool is holistically ready for productio
   - [ ] No show-stopping bugs found in testing
   - [ ] Acceptance Criteria for MVP met (see [MVP Acceptance Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/README.md#acceptance-criteria) in PO)
 
-## Phase 1: MVP live on production VA.gov site [Weeks 1 & 2: 11/12/19]
+## Phase 1: MVP live on production VA.gov site [Weeks 1 & 2]
 The goal of this phase is to understand how the tool works in the production environment and to perform targeted acceptance testing on the tool.
 - VAOS available on VA.gov via direct link and possibly behind basic http authentication
 - Targeting ~10-25 select veterans to try the various flows (schedule, request, view, cancel) in the new tool
