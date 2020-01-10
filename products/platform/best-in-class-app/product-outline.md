@@ -1,10 +1,10 @@
-# Product Outline Template
+# Best-in-Class App Product Outline
 
 #### Communications
-- Team Name: 
+- Team Name: FE Tools Team
 - GitHub Label: 
 - Slack channel: 
-- Product POCs:
+- Product POCs: Brandon Rapp - Product Manager
 - Stakeholders: 
 
 #### Team Members
@@ -12,40 +12,42 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+There are many VSP best-practice initiatives (code quality, testing methodologies and tools, accessibility, front-end and back-end architecture, security, privacy, etc...) that we would like a way to test and then demonstrate to new VSA teams onboarding on the VSP platform so it is easier and more clear for them observe. We will be selecting some different platform applications that we will then use for this effort going forward.
 
 ## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+As a platform we need a way to demonstrate best practices, optimizations and tool usage in a real world production environment so VFS teams can better understand how they could utilize them in their own applications.
  
 ## User Goals
-
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- As a VFS team member, I can see in code how the VSP best practices can be utilized to make an app better.
+- As a VSP team member, I can best articlate the benefits and value of code optimizations and best practices through the implementation with an application.
 
 ## Business Goals
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- There are examples to point to when we want to understand the impact of best practices and optimizations.
+- Provides a way to define the value of an improvement.
 
 ## Assumptions
+- Some ideas are hard to explain the value without showing an example.
 
 ## Questions
 
 ## Solution Approach
 
-- *What are you going to build now and why have you decided to start there?
-- *Why this approach over other approaches?*
-- *How will the solution evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
+- Leverage an existing application to use for demonstrating best practices 
+
 
 ## Value Propositions
 
+## OKRs
+O5: All customers comply with the Platform's standards.
+KR: % customers meeting coding standards
 ## KPIs
+% customers meeting coding standards
 
 ## Current Phase Requirements
 
 #### In Current Scope
+List of work outstanding can be found here - https://github.com/department-of-veterans-affairs/va.gov-team/issues/2239
 
 #### Out of Current Scope
 
@@ -54,6 +56,7 @@
 ## Solution Narrative
 
 ### Current Status
+- Utilizing HCA application for Google Analytics Research to help determine potential optimizations.
 
 ### Key Decisions
 
