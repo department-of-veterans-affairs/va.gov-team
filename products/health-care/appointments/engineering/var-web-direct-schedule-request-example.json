@@ -1,281 +1,169 @@
 {
-   "URL": "https://veteran.apps-staging.va.gov/var/VeteranAppointmentRequestService/v4/rest/direct-scheduling/site/983/patient/ICN/{icn}/booked-appointments",
-   "apptType":"P",
-   "purpose":"9",
-   "ekg":"",
-   "lab":"",
-   "lvl":"1",
-   "xRay":"",
-   "typeOfCare":{
-      "id":"323",
-      "name":"Primary Care",
-      "objectType":"TypesOfCare",
+  "apptType":"P",
+  "purpose":"9",
+  "ekg":"",
+  "lab":"",
+  "lvl":"1",
+  "xRay":"",
+  "typeOfCare":{
+    "id":"323",
+    "name":"Primary Care",
+    "objectType":"TypesOfCare",
+    "link":[
+
+    ]
+  },
+  "appointmentType":"Primary Care",
+  "cityState":{
+    "institutionCode":"983",
+    "city":"Cheyenne",
+    "stateAbbrev":"WY",
+    "authoritativeName":"CHYSHR-Cheyenne VA Medical Center",
+    "rootStationCode":"983",
+    "adminParent":true,
+    "parentStationCode":"983"
+  },
+  "pacTeam":[
+    {
+      "facilityId":"983",
+      "teamSid":"983000075",
+      "teamName":"CHY PC VAR2",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983412449",
+      "staffName":"ANDERSON,WILLIAM D",
+      "providerPosition":"CHY PC VAR2 SW",
+      "possiblePrimary":"N",
+      "title":"SOCIAL WORKER"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000076",
+      "teamName":"GREEN TEAM",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983416723",
+      "staffName":"CASSIDY,THOMAS G",
+      "providerPosition":"GREEN TEAM PROV 2",
+      "possiblePrimary":"Y",
+      "title":"PHYSICIAN-PRIMARY CARE"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000075",
+      "teamName":"CHY PC VAR2",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983453217",
+      "staffName":"EVANS,KAYLEEN A",
+      "providerPosition":"CHY PC VAR2 PROV 1",
+      "possiblePrimary":"Y",
+      "title":"PHYSICIAN-PRIMARY CARE"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000076",
+      "teamName":"GREEN TEAM",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983442842",
+      "staffName":"FUCHS,TAMMI L",
+      "providerPosition":"GREEN TEAM NURSE 2",
+      "possiblePrimary":"N",
+      "title":"NURSE (LPN)"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000075",
+      "teamName":"CHY PC VAR2",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983416057",
+      "staffName":"GULLIVER,BETTY J",
+      "providerPosition":"CHY PC VAR2 MSA 1",
+      "possiblePrimary":"N",
+      "title":"PATIENT SERVICES ASSISTANT"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000076",
+      "teamName":"GREEN TEAM",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983413123",
+      "staffName":"HATCH,JANET C",
+      "providerPosition":"GREEN TEAM NURSE 1",
+      "possiblePrimary":"N",
+      "title":"NURSE (RN)"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000075",
+      "teamName":"CHY PC VAR2",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983445174",
+      "staffName":"HOOD,TANYA R",
+      "providerPosition":"CHY PC VAR2 PHARM",
+      "possiblePrimary":"N",
+      "title":"CLINICAL PHARMACIST"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000076",
+      "teamName":"GREEN TEAM",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983416899",
+      "staffName":"KILPATRICK,DAVID M",
+      "providerPosition":"GREEN TEAM PROV 1",
+      "possiblePrimary":"Y",
+      "title":"PHYSICIAN-PRIMARY CARE"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000075",
+      "teamName":"CHY PC VAR2",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983416004",
+      "staffName":"MCINTYRE,CAROL F",
+      "providerPosition":"CHY PC VAR2 NURSE 1",
+      "possiblePrimary":"N",
+      "title":"NURSE (RN)"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000076",
+      "teamName":"GREEN TEAM",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983410226",
+      "staffName":"MCINTYRE,WILLIAM W",
+      "providerPosition":"GREEN TEAM PROV 3",
+      "possiblePrimary":"Y",
+      "title":"PHYSICIAN-PRIMARY CARE"
+    },
+    {
+      "facilityId":"983",
+      "teamSid":"983000075",
+      "teamName":"CHY PC VAR2",
+      "teamPurpose":"PRIMARY CARE",
+      "providerSid":"983410226",
+      "staffName":"MCINTYRE,WILLIAM W",
+      "providerPosition":"CHY PC VAR2 PROV 2",
+      "possiblePrimary":"Y",
+      "title":"PHYSICIAN-PRIMARY CARE"
+    }
+  ],
+  "unfilteredClinics":[
+    {
+      "siteCode":"983",
+      "clinicId":"455",
+      "clinicName":"CHY PC CASSIDY",
+      "clinicFriendlyLocationName":"",
+      "primaryStopCode":"323",
+      "secondaryStopCode":"",
+      "directSchedulingFlag":"Y",
+      "displayToPatientFlag":"Y",
+      "institutionName":"CHYSHR-Cheyenne VA Medical Center",
+      "institutionCode":"983",
+      "objectType":"CdwClinic",
       "link":[
 
       ]
-   },
-   "appointmentType":"Primary Care",
-   "cityState":{
-      "institutionCode":"983",
-      "city":"Cheyenne",
-      "stateAbbrev":"WY",
-      "authoritativeName":"CHYSHR-Cheyenne VA Medical Center",
-      "rootStationCode":"983",
-      "adminParent":true,
-      "parentStationCode":"983"
-   },
-   "pacTeam":[
-      {
-         "facilityId":"983",
-         "teamSid":"983000075",
-         "teamName":"CHY PC VAR2",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983412449",
-         "staffName":"ANDERSON,WILLIAM D",
-         "providerPosition":"CHY PC VAR2 SW",
-         "possiblePrimary":"N",
-         "title":"SOCIAL WORKER"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000076",
-         "teamName":"GREEN TEAM",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983416723",
-         "staffName":"CASSIDY,THOMAS G",
-         "providerPosition":"GREEN TEAM PROV 2",
-         "possiblePrimary":"Y",
-         "title":"PHYSICIAN-PRIMARY CARE"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000075",
-         "teamName":"CHY PC VAR2",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983453217",
-         "staffName":"EVANS,KAYLEEN A",
-         "providerPosition":"CHY PC VAR2 PROV 1",
-         "possiblePrimary":"Y",
-         "title":"PHYSICIAN-PRIMARY CARE"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000076",
-         "teamName":"GREEN TEAM",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983442842",
-         "staffName":"FUCHS,TAMMI L",
-         "providerPosition":"GREEN TEAM NURSE 2",
-         "possiblePrimary":"N",
-         "title":"NURSE (LPN)"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000075",
-         "teamName":"CHY PC VAR2",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983416057",
-         "staffName":"GULLIVER,BETTY J",
-         "providerPosition":"CHY PC VAR2 MSA 1",
-         "possiblePrimary":"N",
-         "title":"PATIENT SERVICES ASSISTANT"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000076",
-         "teamName":"GREEN TEAM",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983413123",
-         "staffName":"HATCH,JANET C",
-         "providerPosition":"GREEN TEAM NURSE 1",
-         "possiblePrimary":"N",
-         "title":"NURSE (RN)"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000075",
-         "teamName":"CHY PC VAR2",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983445174",
-         "staffName":"HOOD,TANYA R",
-         "providerPosition":"CHY PC VAR2 PHARM",
-         "possiblePrimary":"N",
-         "title":"CLINICAL PHARMACIST"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000076",
-         "teamName":"GREEN TEAM",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983416899",
-         "staffName":"KILPATRICK,DAVID M",
-         "providerPosition":"GREEN TEAM PROV 1",
-         "possiblePrimary":"Y",
-         "title":"PHYSICIAN-PRIMARY CARE"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000075",
-         "teamName":"CHY PC VAR2",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983416004",
-         "staffName":"MCINTYRE,CAROL F",
-         "providerPosition":"CHY PC VAR2 NURSE 1",
-         "possiblePrimary":"N",
-         "title":"NURSE (RN)"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000075",
-         "teamName":"CHY PC VAR2",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983410226",
-         "staffName":"MCINTYRE,WILLIAM W",
-         "providerPosition":"CHY PC VAR2 PROV 2",
-         "possiblePrimary":"Y",
-         "title":"PHYSICIAN-PRIMARY CARE"
-      },
-      {
-         "facilityId":"983",
-         "teamSid":"983000076",
-         "teamName":"GREEN TEAM",
-         "teamPurpose":"PRIMARY CARE",
-         "providerSid":"983410226",
-         "staffName":"MCINTYRE,WILLIAM W",
-         "providerPosition":"GREEN TEAM PROV 3",
-         "possiblePrimary":"Y",
-         "title":"PHYSICIAN-PRIMARY CARE"
-      }
-   ],
-   "unfilteredClinics":[
-      {
-         "siteCode":"983",
-         "clinicId":"455",
-         "clinicName":"CHY PC CASSIDY",
-         "clinicFriendlyLocationName":"",
-         "primaryStopCode":"323",
-         "secondaryStopCode":"",
-         "directSchedulingFlag":"Y",
-         "displayToPatientFlag":"Y",
-         "institutionName":"CHYSHR-Cheyenne VA Medical Center",
-         "institutionCode":"983",
-         "objectType":"CdwClinic",
-         "link":[
-
-         ]
-      },
-      {
-         "siteCode":"983",
-         "clinicId":"308",
-         "clinicName":"CHY PC KILPATRICK",
-         "clinicFriendlyLocationName":"Green Team Clinic1",
-         "primaryStopCode":"323",
-         "secondaryStopCode":"",
-         "directSchedulingFlag":"Y",
-         "displayToPatientFlag":"Y",
-         "institutionName":"CHYSHR-Cheyenne VA Medical Center",
-         "institutionCode":"983",
-         "objectType":"CdwClinic",
-         "link":[
-
-         ]
-      },
-      {
-         "siteCode":"983",
-         "clinicId":"848",
-         "clinicName":"CHY PC VAR2",
-         "clinicFriendlyLocationName":"CHY PC VAR2",
-         "primaryStopCode":"323",
-         "secondaryStopCode":"",
-         "directSchedulingFlag":"Y",
-         "displayToPatientFlag":"Y",
-         "institutionName":"CHYSHR-Cheyenne VA Medical Center",
-         "institutionCode":"983",
-         "objectType":"CdwClinic",
-         "link":[
-
-         ]
-      },
-      {
-         "siteCode":"983",
-         "clinicId":"457",
-         "clinicName":"MCINTYRE PC",
-         "clinicFriendlyLocationName":"Green Team Clinic2",
-         "primaryStopCode":"323",
-         "secondaryStopCode":"117",
-         "directSchedulingFlag":"Y",
-         "displayToPatientFlag":"Y",
-         "institutionName":"CHYSHR-Cheyenne VA Medical Center",
-         "institutionCode":"983",
-         "objectType":"CdwClinic",
-         "link":[
-
-         ]
-      }
-   ],
-   "facility":{
-      "0":"A",
-      "1":"m",
-      "2":"e",
-      "3":"r",
-      "4":"i",
-      "5":"c",
-      "6":"a",
-      "7":"/",
-      "8":"D",
-      "9":"e",
-      "10":"n",
-      "11":"v",
-      "12":"e",
-      "13":"r",
-      "requestSupported":true,
-      "directSchedulingSupported":true,
-      "expressTimes":null,
-      "institutionTimezone":"America/Denver",
-      "institutionCode":"983",
-      "name":"CHYSHR-Cheyenne VA Medical Center",
-      "city":"Cheyenne",
-      "stateAbbrev":"WY",
-      "authoritativeName":"CHYSHR-Cheyenne VA Medical Center",
-      "rootStationCode":"983",
-      "adminParent":true,
-      "parentStationCode":"983"
-   },
-   "scheduling-method":"direct",
-   "emailPreferences":{
-      "notificationFrequency":"Each new message",
-      "emailAllowed":true,
-      "emailAddress":"fake@va.gov",
-      "textMsgAllowed":false,
-      "textMsgPhNumber":"",
-      "dataIdentifier":{
-
-      },
-      "patientIdentifier":{
-         "uniqueId":"1012845331V153043",
-         "assigningAuthority":"ICN"
-      },
-      "surrogateIdentifier":{
-
-      },
-      "assigningAuthority":"ICN",
-      "patientId":"1012845331V153043",
-      "objectType":"VARPatientPreference",
-      "selfUri":"/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1012845331V153043/preference",
-      "selfLink":{
-         "rel":"self",
-         "href":"/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1012845331V153043/preference",
-         "objectType":"AtomLink"
-      },
-      "link":[
-         {
-            "rel":"self",
-            "href":"/var/VeteranAppointmentRequestService/v4/rest/patient/ICN/1012845331V153043/preference",
-            "objectType":"AtomLink"
-         }
-      ]
-   },
-   "clinic":{
+    },
+    {
       "siteCode":"983",
       "clinicId":"308",
       "clinicName":"CHY PC KILPATRICK",
@@ -290,57 +178,168 @@
       "link":[
 
       ]
-   },
-   "direct":{
-      "desiredDate":"09/11/2019 00:00:00",
-      "dateTime":"09/11/2019 14:00:00",
-      "apptLength":20,
-      "purpose":"My foot hurts"
-   },
-   "desiredDate":"2019-09-11T00:00:00+00:00",
-   "dateTime":"2019-09-11T14:00:00+00:00",
-   "duration":20,
-   "bookingNotes":"My foot hurts",
-   "patients":{
-      "patient":[
-         {
-            "id":{
-               "uniqueId":"1012845331V153043",
-               "assigningAuthority":"ICN"
-            },
-            "name":{
-               "firstName":"JUDY",
-               "lastName":"MORRISON"
-            },
-            "contactInformation":{
-               "preferredEmail":"fake@va.gov",
-               "timeZone":"America/Denver"
-            },
-            "location":{
-               "type":"VA",
-               "facility":{
-                  "name":"CHYSHR-Cheyenne VA Medical Center",
-                  "siteCode":"983",
-                  "timeZone":"America/Denver"
-               },
-               "clinic":{
-                  "ien":"308",
-                  "name":"CHY PC KILPATRICK"
-               }
-            }
-         }
+    },
+    {
+      "siteCode":"983",
+      "clinicId":"848",
+      "clinicName":"CHY PC VAR2",
+      "clinicFriendlyLocationName":"CHY PC VAR2",
+      "primaryStopCode":"323",
+      "secondaryStopCode":"",
+      "directSchedulingFlag":"Y",
+      "displayToPatientFlag":"Y",
+      "institutionName":"CHYSHR-Cheyenne VA Medical Center",
+      "institutionCode":"983",
+      "objectType":"CdwClinic",
+      "link":[
+
       ]
-   },
-   "schedulingRequestType":"NEXT_AVAILABLE_APPT",
-   "type":"REGULAR",
-   "appointmentKind":"TRADITIONAL",
-   "providers":{
-      "provider":[
-         {
-            "location":{
-               "type":"VA"
-            }
-         }
+    },
+    {
+      "siteCode":"983",
+      "clinicId":"457",
+      "clinicName":"MCINTYRE PC",
+      "clinicFriendlyLocationName":"Green Team Clinic2",
+      "primaryStopCode":"323",
+      "secondaryStopCode":"117",
+      "directSchedulingFlag":"Y",
+      "displayToPatientFlag":"Y",
+      "institutionName":"CHYSHR-Cheyenne VA Medical Center",
+      "institutionCode":"983",
+      "objectType":"CdwClinic",
+      "link":[
+
       ]
-   }
-}
+    }
+  ],
+  "facility":{
+    "0":"A",
+    "1":"m",
+    "2":"e",
+    "3":"r",
+    "4":"i",
+    "5":"c",
+    "6":"a",
+    "7":"/",
+    "8":"D",
+    "9":"e",
+    "10":"n",
+    "11":"v",
+    "12":"e",
+    "13":"r",
+    "requestSupported":true,
+    "directSchedulingSupported":true,
+    "expressTimes":null,
+    "institutionTimezone":"America/Denver",
+    "institutionCode":"983",
+    "name":"CHYSHR-Cheyenne VA Medical Center",
+    "city":"Cheyenne",
+    "stateAbbrev":"WY",
+    "authoritativeName":"CHYSHR-Cheyenne VA Medical Center",
+    "rootStationCode":"983",
+    "adminParent":true,
+    "parentStationCode":"983"
+  },
+  "scheduling-method":"direct",
+  "clinic":{
+    "siteCode":"983",
+    "clinicId":"455",
+    "clinicName":"CHY PC CASSIDY",
+    "clinicFriendlyLocationName":"",
+    "primaryStopCode":"323",
+    "secondaryStopCode":"",
+    "directSchedulingFlag":"Y",
+    "displayToPatientFlag":"Y",
+    "institutionName":"CHYSHR-Cheyenne VA Medical Center",
+    "institutionCode":"983",
+    "objectType":"CdwClinic",
+    "link":[
+
+    ]
+  },
+  "direct":{
+    "desiredDate":"01/23/2020 00:00:00",
+    "dateTime":"01/23/2020 11:00:00",
+    "apptLength":60,
+    "purpose":"I need some help with my lower back."
+  },
+  "emailPreferences":{
+    "notificationFrequency":"Each new message",
+    "emailAllowed":true,
+    "emailAddress":"marcy.nadeau@va.gov",
+    "textMsgAllowed":false,
+    "textMsgPhNumber":"",
+    "dataIdentifier":{
+
+    },
+    "patientIdentifier":{
+      "uniqueId":"1259897978",
+      "assigningAuthority":"EDIPI"
+    },
+    "surrogateIdentifier":{
+
+    },
+    "assigningAuthority":"EDIPI",
+    "patientId":"1259897978",
+    "selfUri":"/var/VeteranAppointmentRequestService/v4/rest/patient/EDIPI/1259897978/preference",
+    "selfLink":{
+      "rel":"self",
+      "href":"/var/VeteranAppointmentRequestService/v4/rest/patient/EDIPI/1259897978/preference",
+      "objectType":"AtomLink"
+    },
+    "objectType":"VARPatientPreference",
+    "link":[
+      {
+        "rel":"self",
+        "href":"/var/VeteranAppointmentRequestService/v4/rest/patient/EDIPI/1259897978/preference",
+        "objectType":"AtomLink"
+      }
+    ]
+  },
+  "desiredDate":"2020-01-23T00:00:00+00:00",
+  "dateTime":"2020-01-23T11:00:00+00:00",
+  "duration":60,
+  "bookingNotes":"I need some help with my lower back.",
+  "patients":{
+    "patient":[
+      {
+        "id":{
+          "uniqueId":"1012845331V153043",
+          "assigningAuthority":"ICN"
+        },
+        "name":{
+          "firstName":"JUDY",
+          "lastName":"MORRISON"
+        },
+        "contactInformation":{
+          "preferredEmail":"marcy.nadeau@va.gov",
+          "timeZone":"America/Denver"
+        },
+        "location":{
+          "type":"VA",
+          "facility":{
+            "name":"CHYSHR-Cheyenne VA Medical Center",
+            "siteCode":"983",
+            "timeZone":"America/Denver"
+          },
+          "clinic":{
+            "ien":"455",
+            "name":"CHY PC CASSIDY"
+          }
+        }
+      }
+    ]
+  },
+  "schedulingRequestType":"NEXT_AVAILABLE_APPT",
+  "type":"REGULAR",
+  "appointmentKind":"TRADITIONAL",
+  "providers":{
+    "provider":[
+      {
+        "location":{
+          "type":"VA"
+        }
+      }
+    ]
+  }
+};
