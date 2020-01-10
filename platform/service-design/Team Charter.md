@@ -32,8 +32,8 @@ Given cross-VSP team view, identify opportunities for standardization
 
 ### Roadmap:
 
-*Link to agile roadmap*
-
+*Link to agile roadmap:*
+https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/board?labels=service-design&repos=133843125,33202667,62409417,52401729,66304117,171695663
 
 
 ## Who we are
