@@ -60,6 +60,17 @@ Streamline the Veterans ordering process by:
 DLC
 -	Migration of orders from other offered channels to the online channel. 
 -	Success is defined by DLC as 24,000 online orders per quarter.
+
+-Primary Objectives:
+> Transition hearing aid battery and prosthetic sock resupply ordering from eBenefits to VA.gov
+> Add online resupply request capability for common hearing aid accessories
+> Minimize need for Veteran data entry in online channel
+> Maximize DLC processing of requests via automated methods
+
+-Secondary Objectives:
+> Include features to ensure correct delivery address for products being shipped
+> Include features to augment communication to Veterans regarding status of their requests
+
 VA
 -	Migrate DLC's medical device ordering tool from eBenefits to Va.gov
 Providers
@@ -79,7 +90,7 @@ Providers
 -	DLC resources and time to update their system. Currently the DLC will have to build their own API.
 
 ## Discovery Takeaways
-- Interviews are still being conducted
+- [Discovery readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-readout-presentation.pdf)
 
 ## Solution Approach
 - TBD
@@ -158,7 +169,15 @@ In progress
   + [Technical](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
 
 - Product specs
-  + TBD
+  -wip- 
+  > Producsts: Hearing aid Batteries, Accessories, Prosthetic Socks
+  > Order history of last 2 years of items
+  > Product: Make
+  > Product: Name 
+  > Product: Serical NUmber 
+  > Next Reorder date
+  > Veterians address
+  > Confirmation email
 
 - Design update
   + TBD
