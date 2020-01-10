@@ -10,11 +10,19 @@
 * BFG Repo-Cleaner recommends making a backup of a repo before using the BFG Repo-Cleaner. - https://rtyley.github.io/bfg-repo-cleaner/#usage
 * GitHub recommends telling collaborators to rebase, **not merge**, any branches they created off of the old (tainted) repository history because one merge commit could reintroduce some or all of the tainted history. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch
 
-### Options
+### Pre-purge
+1. Back up repo
+1. Close/merge all open branches/PRs
 
-#### [Using BFG Repo-Cleaner](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch)
+### Purge
 
-#### [Using `git filter-branch`](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch) 
+##### [Using BFG Repo-Cleaner](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch)
+
+##### [Using `git filter-branch`](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch) 
+
+### Post-purge
+1. Contact GitHub support to permanently remove cached views and references to the sensitive data in pull requests
+1. Tell collaborators to rebase any branches they created off of the old repository history
 
 ##### Resources
 * https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository
