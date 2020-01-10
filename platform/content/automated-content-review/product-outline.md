@@ -70,13 +70,19 @@ Specific to GitHub action iteration:
 
 Specific to CMS iteration:
 
-- Errors per node over time
+- Errors per preview node over time
 
 ## Current Phase Requirements
 
 #### In Current Scope
 
+- Validate use of Vale as plain laguage linter
+- GitHub action to affect users building content as part of VA.gov tools
+
 #### Out of Current Scope
+
+- Drupal CMS integration
+- Blocking content validations (current scope is warnings only)
 
 ---
 
