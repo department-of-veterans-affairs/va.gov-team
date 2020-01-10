@@ -17,7 +17,7 @@
     * This has been used elsewhere in vets-website and should be re-used for the 686 if possible. [Use case here](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/pensions/config/form.js#L975).
 1. Spouse SSN (11C) is currently present in the digital form, but does not address the possibility that a spouse has no SSN.
    * A field already exists inside the schema.json file for the form, it just needs to be added to the frontend.
-   * A conditional field needs to be added so a veteran can explain this. (Section IX, Item 25, Remarks - this is a general section).
+   * An unused field exists for stating the reason a spouse has no SSN [here](https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/src/schemas/21-686C/schema.js#L368). This can be implemented in a similar way no ssn is implemented for veteran information.
 1. Do you live together and Reason for Separation (13A, 13B) while present on the digital form do not function as expected. It's possible for a person to be currently married, but separated and not living with their spouse. This needs to be fixed to reflect this case as these are only handled for past marriages.
 ### Section III - Information Needed To Add Child(ren)
 1. Child Status (16G) is present but somewhat incomplete in the digital form.
