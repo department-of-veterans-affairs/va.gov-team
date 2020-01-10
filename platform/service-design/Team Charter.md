@@ -16,7 +16,7 @@ Provide holistic, research-based guidance on VSP design and product decisions to
 
 Own + maintain VSP Service Blueprint overall
 
-Prioritize areas of the blueprint tthat require iteration based on value and pain point analysis
+Prioritize areas of the blueprint that require iteration based on value and pain point analysis
 
 Iterate on those pioritized areas, or collaborate to work into another team's sprint
 
