@@ -1,4 +1,4 @@
-**Working with the **
+**Working with the**
 
 # **VSP Information Architecture Team**
 
