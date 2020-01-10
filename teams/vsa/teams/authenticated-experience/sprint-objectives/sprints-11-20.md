@@ -107,8 +107,6 @@ Only move on to these if there's time.
 
 ### Address validation
 
-To the best of our ability, this sprint's objective is to make sure all existing bugs are fixed/updates are implemented and ready for QA. **Note**: Having the feature fully ready for QA depends on VA Profile fixing some issues on their end. We can not be ready for QA without them. We'll consider the objective met here if things remain open only as a result of the VA Profile dependency.
-
 **Necessary code fixes**
 
 - Use only candidate api for address validation api #4060
@@ -155,6 +153,26 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 ### Address validation
 
+- New validation endpoint: VA Profile is targeting 1/17.
+- ADDRVAL112 error will either be resolved with the new endpoint or shortly after
+
+**Necessary code fixes**
+
+- Sometimes we get validation keys but can't force the addresses through #4278 
+  - **Note**: Dependent on VA Profile fixes.
+
+### Error Matrix
+
+- Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
+
+## Sprint 14 (1/29 - 2/11)
+
+## Long term planning
+
+- Tressa out: Feb 9 – 19
+
+### Address validation
+
 #### 508 Review (??)
 
 #### QA
@@ -182,11 +200,3 @@ Erik may end up helping with some of this.
 - Pre-launch
   - Analytics
   - Etc
-  
-  ### Error Matrix
-
-- Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
-
-## Long term planning
-
-- Tressa out: Feb 9 – 19
