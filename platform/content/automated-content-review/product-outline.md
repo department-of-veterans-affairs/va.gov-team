@@ -54,11 +54,15 @@ _How might we reduce the burden of manual content support, thus improving scalab
 
 ## Value Propositions
 
+We believe that automated content reviews will:
 
+- Save VSP content editor(s) time
+- Improve scalability of Platform's services
+- Decrease the chance of missing content issues in review due to human error
 
 ## KPIs
 
-- 
+- # of automated content errors flagged for users
 
 Specific to GitHub action iteration: 
 
