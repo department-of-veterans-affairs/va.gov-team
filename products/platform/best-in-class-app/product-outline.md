@@ -33,7 +33,7 @@ As a platform we need a way to demonstrate best practices, optimizations and too
 
 ## Solution Approach
 
-- Leverage an existing application to use for demonstrating best practices 
+- Leverage the Health Care application (HCA) to use for demonstrating best practice, optimizations and tool benefits.
 
 
 ## Value Propositions
