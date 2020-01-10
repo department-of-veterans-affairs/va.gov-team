@@ -62,7 +62,7 @@ We believe that automated content reviews will:
 
 ## KPIs
 
-- # of automated content errors flagged for users
+- No. of automated content errors flagged for users
 
 Specific to GitHub action iteration: 
 
