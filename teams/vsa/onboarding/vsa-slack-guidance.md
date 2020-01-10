@@ -33,8 +33,9 @@ Slack provides general tips to help you be more effective and productive on Slac
 
 We recommend usage of the following features:
 
-* ** Stars.** You can “star” a message that you need to come back to. In order to see all starred messages, click on the star icon in the top right corner of Slack
-* **Previous/Next arrows** - These arrows are in the top left corner to the right of “jump to.” If Did you read something, then go to another channel, and forget where you read the first original message? You can use the little “back” arrow to go back to where you were. ![img](https://lh4.googleusercontent.com/qFkrWxt0NoQtyq0X_CLdIo4a0PgYA2r0EpW_RZ3M_UjMGDeI_vhPBlkV1V-sH1ZmzP576Ym76zZJ49117d-J6BVvHTgGDanhKS6jSZJa-wlNdpVGHJtnH03SQ5qpfNRErSgevMpm)
+* **Stars.** You can “star” a message that you need to come back to. In order to see all starred messages, click on the star icon in the top right corner of Slack
+* **Previous/Next arrows** - These arrows are in the top left corner to the right of “jump to.” If Did you read something, then go to another channel, and forget where you read the first original message? You can use the little “back” arrow to go back to where you were. 
+![img](https://lh4.googleusercontent.com/qFkrWxt0NoQtyq0X_CLdIo4a0PgYA2r0EpW_RZ3M_UjMGDeI_vhPBlkV1V-sH1ZmzP576Ym76zZJ49117d-J6BVvHTgGDanhKS6jSZJa-wlNdpVGHJtnH03SQ5qpfNRErSgevMpm)
 
 #### Slack Apps
 
