@@ -65,7 +65,7 @@ You should use public channels for discussion about your work whenever possible.
 * **Open collaboration** - there may be folks on Slack that are not directly part of your discussion or team but may still be able to share valuable insight and guidance if your discussion is visible to them. Also, if you're regularly using a private DM with a few folks to discuss a certain topic, you may at some point decide to convert it into a private channel to invite someone else. At some point, you may find yourself inviting new members regularly, and wish to convert that private channel into a public channel. However, Slack does not allow a private channel to be converted to public, so you would have to start a brand new one and thereby lose your conversation history.
 * **Urgency** - a message sent directly to a colleague can sometimes create a sense of urgency for the recipient, whereas a message to a team channel or elsewhere can potentially be answered by another team member.
 
-We know some of you have concerns about posting questions in the team channels. We address some of these concerns in the FAQ section of this document. 
+We know some of you have concerns about posting questions in the team channels. We address some of these concerns in the [FAQ section of this document.](#Frequently-Asked-Questions) 
 
 ### Team Channels
 
