@@ -1,4 +1,4 @@
-# Research Plan for Yellow Ribbon Comparison Tool
+# Research Plan for Yellow Ribbon School Finder
 
 Public Websites team, Yellow Ribbon (YR) content migration
 
