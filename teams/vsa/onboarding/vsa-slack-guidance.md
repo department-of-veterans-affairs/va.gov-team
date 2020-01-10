@@ -25,7 +25,7 @@ Slack is the main form of communication on VSA. as such, everyone is expected to
 * Respond to DMs and notifications promptly
 * Contribute to team discussions
 
-All of slack is subject to the governments’ FOIA (freedom of information act), including DMs, so be smart and polite in all interactions with folks.
+All of slack is subject to the governments’ FOIA (freedom of information act), including DMs, so be smart and polite in all interactions with folks. Slack admins can easily view your DMs if interested.
 
 ### General Usage Tips
 
@@ -36,6 +36,7 @@ We recommend usage of the following features:
 * **Stars.** You can “star” a message that you need to come back to. In order to see all starred messages, click on the star icon in the top right corner of Slack
 * **Previous/Next arrows** - These arrows are in the top left corner to the right of “jump to.” If Did you read something, then go to another channel, and forget where you read the first original message? You can use the little “back” arrow to go back to where you were. 
 ![img](https://lh4.googleusercontent.com/qFkrWxt0NoQtyq0X_CLdIo4a0PgYA2r0EpW_RZ3M_UjMGDeI_vhPBlkV1V-sH1ZmzP576Ym76zZJ49117d-J6BVvHTgGDanhKS6jSZJa-wlNdpVGHJtnH03SQ5qpfNRErSgevMpm)
+* **Configure notifications** - There are a lot of great channels to join, but you don’t necessarily need to be aware of everything happening in it. To help mitigate too much disruption due to notifications, you can use your Slack preferences to set your notifications to “Direct messages, mentions, & keywords” to set the default behavior for channels. Then, in your team channel and others you’re most interested in, you can first visit the channel from the sidebar, click the name of the channel in the top header, select “Notification preferences…”, and choose “Every new message” to make sure you’re notified when a team member posts a message.
 
 #### Slack Apps
 
@@ -60,7 +61,9 @@ There are two slack instances that you will be invited to (Message Julie Ramirez
 You should use public channels for discussion about your work whenever possible. If you are about to send a DM, first think if there’s a clear reason you really can’t send it in a public channel. The reasons for trying to keep communication in public channels are:
 
 * **Visibility & documentation for individual contributors** - if you are asking a question about your work, and other team members have the same question, they can read it and later search for it
-* **Visibility for leadership** - leadership often follows all the slack channels, and will look at specific team channels to see how things are going and if there are any blockers. 
+* **Visibility for leadership** - leadership often follows all the slack channels, and will look at specific team channels to see how things are going and if there are any blockers. Consider your team channel a window for leadership to see that your team is active, collaborative, and in close communication. 
+* **Open collaboration** - there may be folks on Slack that are not directly part of your discussion or team but may still be able to share valuable insight and guidance if your discussion is visible to them. Also, if you're regularly using a private DM with a few folks to discuss a certain topic, you may at some point decide to convert it into a private channel to invite someone else. At some point, you may find yourself inviting new members regularly, and wish to convert that private channel into a public channel. However, Slack does not allow a private channel to be converted to public, so you would have to start a brand new one and thereby lose your conversation history.
+* **Urgency** - a message sent directly to a colleague can sometimes create a sense of urgency for the recipient, whereas a message to a team channel or elsewhere can potentially be answered by another team member.
 
 We know some of you have concerns about posting questions in the team channels. We address some of these concerns in the FAQ section of this document. 
 
@@ -88,7 +91,7 @@ These team channels are where you will be spending the majority of your time. Th
 
 ### VSP Channel
 
-VSP runs a channel called #vsf-platform-support. Use this channel to:
+VSP (Veteran-Facing Services Platform) runs a channel called #vsf-platform-support. Use this channel to:
 
 * Request PR reviews or design reviews
 * Ask questions about processes (first ask practice leads, then ping the channel if they don’t have an answer) 
@@ -142,21 +145,13 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 ### Engineering
 
-#### GCIO / Ad Hoc Channels
-
-**#channel** - This channel
-
-* A
-
 #### DSVA Channels
 
-**#va-vsa-engineering** - this is our “home base” for the team, where we all support each other. Use this channel for:
+**#vsa-engineering** - this channel is for discussions related to the work we do at the VA that could be beneficial or interesting for all VSA engineers.
 
-* A
+**#vfs-engineers** - this is a fantastic place to engage with engineers across all VA programs to help kickstart some technical research or seek guidance about the best way to do something.
 
-**#channel** - This channel
-
-* A
+**#vfs-frontend** - this is the channel for conversation among any VA front-end engineers. Many of the conversations center around the vets-website GitHub repo.
 
 ### Content
 
