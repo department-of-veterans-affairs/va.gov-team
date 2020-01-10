@@ -48,13 +48,14 @@ Public Websites team, Yellow Ribbon (YR) content migration
 
 ### Criteria
 
-- 8 participants who are familiar with the Yellow Ribbon program and,
+- 12 participants who are familiar with the Yellow Ribbon program and,
   - have used the Yellow Ribbon benefit within the last 12 months, or 
   - are currently in the process of researching VA education benefits
-- At least 2 female participants
-- At least one participant with a disability rating of 70% or more
-- At least one participant who uses assistive technology (AT), such as screen readers, switches, translation, or magnification software (list of sample AT: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
-- A mix of enlisted and officer (for socio-economic diversity), and geographic assortment
+- To ensure a diverse group of participants, we request a mix of enlisted and officer (for socio-economic diversity), and geographic assortment.  Also, that of the 12, we have at least: 
+  - 2 female participants
+  - 1 participant with a disability rating of 70% or more
+  - 1 participant who uses assistive technology (AT), such as screen readers, switches, translation, or magnification software (list of sample AT: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
+
 
 ### Recruitment strategy 	
 
