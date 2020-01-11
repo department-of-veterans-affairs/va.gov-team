@@ -7,9 +7,9 @@
 
 We are the VSP Content Team and are here to help support VFS teams in the development of tools and services for our veterans. Here you'll find everything you'll need to know to to design tools and services with regards to the content...
 
-- [Who we are](@whoweare)
+- [Who we are](#whoweare)
 - [How to reach us](#howtoreach)
-- [How we can support you](@howtosupport)
+- [How we can support you](#howtosupport)
 - [How we’ll work together](#howwellwork)
 - [How to request a content review](#howtorequest)
 - [Toolkit and resources](#toolkit)
