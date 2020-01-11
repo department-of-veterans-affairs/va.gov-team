@@ -5,7 +5,7 @@ This file is to house the research findings from ticket #2358
 [Original Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2358)
 
 
-## Process Flow
+## Current Process Flow
 When a user creates a new 686 form, the system makes an MVI call to retrieve the user's information and pre-fill data on the form where applicable/available.  The form is then saved using our in_progress_forms process until the user has completed the form and is ready to submit.  
 
 *Saved to Redis and then a Sidekiq job is created*
@@ -36,3 +36,8 @@ Then another call to save the entire form:
 And finally. if all those steps are successful, the system calls the EVSS form 686 submission process:
 >      endpoint:/wss-686-services-web-2.6/rest/form686submission/submit
 >      method:post
+
+## Additional Notes
+* Use BGS VNP Services to establish claim information in BGS using VNP Services by populating the VNP tables in order to facilitate the processing by the VNP component of the Rules Based Processing System (RBPS) 
+
+* VNP workspace = oracle tables - "snapshot of what the veteran has asked for" - staging area for transactional data that must be further processed before being accepted to Corp
