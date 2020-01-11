@@ -8,9 +8,9 @@
 
 This document will help all teams working on VA.gov understand when you should engage IA resources for collaboration and support. All teams building on the Veteran Services Platform should follow VA.gov IA best practices and guidelines and work with an IA resource to ensure all content is easily findable and we maintain a consistent navigation experience across the site.
 
-- [Who we are](@whoweare)
+- [Who we are](#whoweare)
 - [How to reach us](#howtoreach)
-- [How we can support you](@howtosupport)
+- [How we can support you](#howtosupport)
 - [How we’ll work together](#howwellwork)
 - [How to request an IA review](#howtorequest)
 - [Toolkit and resources](#toolkit)
