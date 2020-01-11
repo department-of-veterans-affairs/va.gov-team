@@ -41,3 +41,5 @@ And finally. if all those steps are successful, the system calls the EVSS form 6
 * Use BGS VNP Services to establish claim information in BGS using VNP Services by populating the VNP tables in order to facilitate the processing by the VNP component of the Rules Based Processing System (RBPS) 
 
 * VNP workspace = oracle tables - "snapshot of what the veteran has asked for" - staging area for transactional data that must be further processed before being accepted to Corp (*from [initial notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/discovery/initial-notes.md))
+
+* RBPS leverages these in-flight tables instead of the authoritative data for 686 (*from [526ez discovery notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2959be3a76d3b8b123b8a7977814c4518b186428/products/disability/526ez/discovery/evss-discovery-notes.md))
