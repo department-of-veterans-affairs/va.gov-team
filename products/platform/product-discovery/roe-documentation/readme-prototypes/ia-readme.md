@@ -1,9 +1,8 @@
-**Working with the**
+**Working with the **
 
 # **VSP Information Architecture Team**
 
 *Last updated: Jan. 6, 2020*
-
 *Owned by: Content & IA*
 
 This document will help all teams working on VA.gov understand when you should engage IA resources for collaboration and support. All teams building on the Veteran Services Platform should follow VA.gov IA best practices and guidelines and work with an IA resource to ensure all content is easily findable and we maintain a consistent navigation experience across the site.
@@ -20,10 +19,12 @@ This document will help all teams working on VA.gov understand when you should e
 ## <a id="whoweare"></a>Who We Are
 
 Mikki Northius, IA
+
 - Slack: @Mikki
 - GitHub: 
 
 Matt Johnson, IA
+
 - Slack: @Matt Johnson
 - GitHub: 
 
@@ -98,17 +99,17 @@ It is beneficial to engage IA resources as early as possible in your work so we 
 
 - We can provide input and feedback on user research approach, review discussion guides and prototypes for navigation design and labeling, and look at how findability of your content/tool can be included as part of your research.
 - If research is highly focused on findability, flow and navigation, we ask that you please include us in the sessions as well.
-- Include us in research readouts so we can evolve you appropriately based on your findings.
+- Include us in research readouts so we can evolve your appropriately based on your findings.
 
 
 
-##### When to request a review meeting
+#### **When to request a review meeting**
 
 [insert when]
 
 
 
-##### How to request a content discovery check-in
+#### **How to request a content discovery check-in**
 
 [insert how] 
 
@@ -120,139 +121,112 @@ It is beneficial to engage IA resources as early as possible in your work so we 
 
 ### Phase 2: Define/Design
 
-#### Content review 
+#### IA Review 1 
 
-- If your project includes multiple content pages or complex content, please engage us as you begin to build out mockups and designs.
+- We will provide feedback on page flow and navigational elements of designs and prototypes
 
-- Content will work closely with your design team to provide feedback on page flow and designs and prototypes.
+- IA and writing need to work together, and as content evolves, it can impact the IA. Content elements are also used to determine pages names/URLs.
 
-#### What to Expect in a content review
+- If your project includes multiple content pages or complex content, we ask that you work with us during the writing process. We will provide feedback on how structuring content impacts IA.
 
-[Voice](https://design.va.gov/content-style-guide/content-principles.html):  Does the content balance the voice between friendly and formal and sounds approachable and supportive? The VA.gov voice should be consistent across all our communications and is direct, transparent, dedicated, and human.
+  
 
-[Tone](https://design.va.gov/content-style-guide/content-principles.html): Does the content come across as harsh or intimidating? Even when discussing a serious topic, the tone should be gentle and compassionate. The tone may vary based on the material’s content, the context, and the reader’s likely emotional state.
+  **How to request an IA Review**
 
- [Plain language best practices](https://design.va.gov/content-style-guide/content-principles.html): Is the content written in active voice and present tense? Ensure that the content isn’t too “wordy” or uses excessive modifying words (e.g, “really, completely, totally,” etc.)
+  See below for more info.
 
- [Grammar and style guide check](https://design.va.gov/content-style-guide/): The review will also include a grammar check (look for typos, misspellings, and punctuation/spacing errors) and style guide check (ensure content adheres to the VA.gov style guide).**How to request a content review**See below for more info.
+
+
+
+
+------
 
 
 
 ### Phase 3: Build
 
-#### Content review 
+#### IA Review 2
 
-Content should also review a product once it's on staging. This allows us to do a full E2E content review and a final proofread to ensure content recommendations we provided earlier in the process are accurate and correct. We'll also work closely with IA to ensure accurate page labels and placement.
-
-
-
-#### How to request a content review
-
-See below for more info.
+- We will approve final URLs and navigation labels and placement (in collaboration with content), as well as coordinate redirect implmentation, and help with any other documentation for your development team.
 
 
 
-## <a id="howtorequest"></a>How to request a content review 
+​	**How to request an IA Review**
 
-Depending on the complexity and amount of content, content review will be completed **within 3 days**. More involved content reviews might take longer and due dates will be discussed at the time of request. 
-
-You can request a content review several ways. 
-
-A.  **If the content is short,** please add @peggygannon as a reviewer or assignee in the Zenhub issue or pull request in which the content appears.
-
-B. **For more complex content reviews, e.g, E2E review of online applications, newly created pages, new tool launches,** please open a Zenhub issue in ```va.gov-team repo```. And, 
-1. Choose standard issue template.
-2. Title for the issue: ```Request Content review: [title of tool/app/page]```
-3. Be sure to include the following in the issue:
-
-**User story**
-
-User story example: *As a member of a team building with or on VSP, I need to my content reviewed before [a usability session or product launch] to ensure it's accurate, aligns with VA style, and is error-free.*
-
-**Goal**
-
- Please include:
-*	The content. If short, drop the text directly into the issue. For longer content, you could include:
-       * Word document, or
-       * link to a high-fidelity prototype, or
-       * link to the URL where the content appears on staging
-
-*	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear.
-*	Launch date. Date you're targeting to launch your product.
-*	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?
-*	User research. Is there any specific information from user research to take into consideration when doing the content review?
-
-**Acceptance criteria**
-
-If the content is part of an upcoming research session or product launch, list a timeframe for when this content should be reviewed.
-
-Please also tag the issue with:
-
--	Milestone (when do you want this completed?)
--	Epic (what body of work is this a part of?)
--	Team/Practice Area label  ( ```content``` or ```content-ia-team```)
-- Label used by your team (for example, ```VAOS``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
--	Assign issue to @peggygannon
+​	See below for more info.
 
 
-4. Once the Content Review is finished the content editor will upload a list of content recommendations to the Zenhub issue. 
-If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
+
+------
 
 
-5. A Content Review issue can be closed once all the content recommendations have been implemented and the inputs checked.  
+
+## What is an IA review?
+
+An IA review is part the process when working on the platform to ensure a consistent structure and experience is maintained for our users regardless of the number of people and teams building user experiences on VA.gov.
+
+**Here are the key things evaluated in an IA review**
+
+1. IA Structure - Where does the tool/content live within the overall structure of the site
+2. URLs and page breadcrumbs - Does the URL and breadcrumb follow the correct IA and standards used across the site?
+3. Primary entry points and high level user flow - What are the primary ways users will access the content/tool and where are they linked to within and after?
+4. Navigational components - What changes are needed to global nav components (i.e. top nav, header, left nav, etc)
+5. Crosslinking opportunities - Are there opportunities to reference this content/tool in secondary placements across the site?
+6. Redirects/canonical - Is there legacy or duplicative content that needs to be handled?
+
+
+
+## How to request IA support
+
+Please be sure to make requests ahead of time - ideally a sprint ahead of time.
+
+1. Please open a Zenhub issue in `va.gov-team repo`.
+2. Choose standard issue template.
+3. Title for the issue: `IA Review: [title of tool/app/page]`
+4. Please include the following as applicable:
+
+- Required:
+  - Description and goals of the page/tool or link to a product outline
+  - Planned/estimated launch date
+  - Link to prototype or mock ups of all pages in the user flow
+- Helpful, but not required:
+  - Any IA documentation you/your team has created
+  - Links to any applicable research
+  - SEO data
+  - applicable analytics
+
+1. Please tag the issue with:
+
+- Team/Practice Area label - `content-ia-team` and `ia`
+- Label used by your team (for example, `BAH-526` `GI Bill Comparison Tool` `vsa-benefits-memorial`)
+- Assign issue to @mnorthuis, @meganhkelley
 
 
 
 ## <a id="toolkit"></a>Toolkit and Resources
 
-The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #vsp-content-ia Slack channel or your VSP content POC directly.
-
-- Onboarding/training
-    - [Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding)
-- Content processes
-    - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
-    - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)
-    - [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) *(Please note: this process is currently under review)*
-    - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
-     - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
-- VA.gov content style guides 
-    - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
-    - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
-     - [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary)
-    - [Error message style guide](https://design.va.gov/patterns/messaging-error-messages)
-    - [Form label masterlist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/site-wide-issues/Form%20label%20masterlist.xlsx) 
-    - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
-    - [Emergency homepage banner alert language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/natural-disasters/2018-alert-banner-language.md)
-    - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)
-    - [Crafting content that supports a Veteran-first digital experience](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/content-style-guide-training-with-VHA-071119.pdf)
-- VA.gov content strategy guides
-    - [Strategy for the new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/va-gov-strategy)
-    - [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
-    - [Web brand consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf)  
-   -  [VA content hierarchy](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/d6a92604f5bfd62c0078f3bcb0544460d491f7c0/content-tiers-VA.gov.pdf)
-- SEO resources
-    - [Writing for SEO](https://design.va.gov/content-style-guide/seo)
-    - [SEO best practices and guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
-    - [Meta and title tag guidelines](https://design.va.gov/content-style-guide/seo#meta-properties)
-- GitHub resources
-    - [Content process in Github](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/GitHub_content_process.pdf)
-    - [Mastering markdown](https://guides.github.com/features/mastering-markdown/)
-    - [Github Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- Drupal (CMS) resources
-    - [Tier 1 benefit content CMS workflow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/Tier-1-benefit-content-CMS-workflow-071119-combined.pdf)
-    - [UAT process for content migration](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/UAT-process-for-content-migration.md)
-- Historical process: Content team checklists    
-*Please note: Some of the documented lists and processes listed below are evolving or no longer 100% valid as we move from Github to Drupal.*
-    - [Content launch checklist--Historical process](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/new-content-launch.md)
-    - [Writing/editing short UX text](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/rewrite-or-edit-short-UX-text.md)
-    - [Copy edit checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/copyedit-checklist.md)
-    - [Proofreading/QA checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/proofreading-QA-checklist.md)  
+The following list is a set of resources for practicing IA on VA.gov and to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
 
 
 
-## If you have questions
+**Best Practices and Guidelines**
 
-If you have any questions, please send me message via Slack (@Peggygannon). Feel free to reach out with any questions or feedback!  
+- [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
+- [URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
+- [SEO Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
+- [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
+- [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
+
+**Working Documents and Current Site Documentation**
+
+- [Master URL Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/master-url-mapping.md) (Official source of truth on IA and URLs)
+- [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md)
+- [XML Sitemap](https://www.va.gov/sitemap.xml)
 
 
 
+
+
+## Questions?
+
+If you have any questions, please reach out via slack in `#vfs-platform-support`, tag @megan.kelley and @mnorthuis, or DM us directly.
