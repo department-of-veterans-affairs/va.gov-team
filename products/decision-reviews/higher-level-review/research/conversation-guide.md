@@ -16,15 +16,16 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is [Christian Valla] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the appeals process on VA.gov. 
+Thanks for joining us today! My name is [Christian Valla] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about the appeals process on VA.gov, specifically an appeals process that we call a Higher Level Review. 
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 55 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. In reality, we're testing our online services, in order to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Both positive and negative feedback is welcome. 
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. In reality, we're testing our online services, in order to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Both positive and negative feedback is very welcome. 
 
-- **During part of our session today, you'll be interacting with prototypes and a demo tool.** The prototype may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **During part of our session today, you'll be interacting with prototypes and a demo tool.** The prototype may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. But, dont worry, I will guide you along. 
+Since it's a demo, none of your actions will affect your actual VA information or benefits.
 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
@@ -35,33 +36,56 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?**
 
-## Warm-up Questions (Optional) - (5-10 minutes)
-
-Before we look at the VA website, let’s start with a few warm-up questions.
-
-- Tell me a little about yourself. (Where do you live? Which branch of service? What do you do for work? Have you done an interview or usability test like this before? How was that experience?)
-
-- Have you ever filed a disability claim with the Department of Veteran Affairs?
-    - How did you file it (online, mail, fax, VSO)?
-    - How did you feel about this process?
-    
-- Have you ever filed an appeal with the Department of Veteran Affairs
-    - How did you go about filing it?
-    - How did you feel about that process?
-
 ## Computer Setup: Share your screen with Zoom - (5 minutes)
 
+- Lets spend a few minutes now, were I send you the prototype of the website we will look at today. 
 - Please minimize or close any windows that you don't want to share with us.
 - Now I'm going to share a link to the prototype in the zoom chat. Can you find the chat button in the Zoom app? 
 - Great, can you click on it?
 - Can you navigate back to the Zoom window and click the "Share" button in Zoom? 
 
+## Warm-up Questions (Optional) - (5-10 minutes)
+
+Before we look at the VA website, let’s start with a few warm-up questions.
+
+- Tell me a little about yourself. (Examples of promts: Where do you live? Which branch of service? What do you or what have you done for work? Have you done an interview or usability test like this before? How was that experience?)
+
+- Have you ever filed a disability claim with the Department of Veteran Affairs?
+    - How did you file it (online, mail, fax, VSO)?
+    - How did you feel about that process?
+    
+- Have you ever filed an appeal with the Department of Veteran Affairs
+    - How did you go about filing it?
+    - How did you feel about that process?
+
 
 **1st screen: 
 Intro HLR page**
 
-- Intro question: take a look at this page and tell me what you think its about, and what you can do on this page?  
-- Scenario: imagine that a benefit that you have applied for has been denied. How would you go about disputing this decision? (What would you do on this page?)   
+- Lets take a look at the prototype of the website.
+Intro question: take a look at this page and tell me what you think its about, and what you can do on this page?
+(Provide user with the necessary context for Higher Level Review appeals process). 
+
+- Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue is about Tinnitus. How would you go about disputing this decision? Please walk me through how you would traverse from one page to the next. Please talk out loud to me, as you move through this process, and tell me what you see on each page, what you are trying to accomplish on each page, and show me what you would do to go through this process. 
+(Since this is a prototype, not all links are clickable or active, but I will guide you, if needed.) 
+
+(Allow time for users to go through the whole process once. Guide when needed (choose Tinitus, choose to be called back, choose 12.30pm call back time, choose NO for use the Same Office) 
+
+When process is finished: 
+- What do you think about this process? 
+- What was confusing or unclear? 
+- Was there any other frustrations or pain points along the way? 
+- What info along the way was particularly helpful. 
+- What info was missing?
+- What would have been helpful to add to this process / or these pages?
+- Any other comments? 
+ 
+Now that we have moved through the process once, lets go back and look at the pages in more details. 
+
+**1st screen: 
+Intro HLR page**
+
+-What do you think is the main purpose of this page, and how well do you think this page 
 
 **2st screen: Opt out page**
  
