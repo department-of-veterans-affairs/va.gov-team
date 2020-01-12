@@ -63,21 +63,22 @@ Before we look at the VA website, let’s start with a few warm-up questions.
 Intro HLR page**
 
 - Lets take a look at the prototype of the website.
-Intro question: take a look at this page and tell me what you think its about, and what you can do on this page?
-(Provide user with the necessary context for Higher Level Review appeals process). 
+Intro question: take a look at this page and tell me what you think the main purpose of this page is, and what actions can you take on this page?
+(Provide user with the necessary context for a Higher Level Review appeals process). 
 
-- Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue is about Tinnitus. How would you go about disputing this decision? Please walk me through how you would traverse from one page to the next. Please talk out loud to me, as you move through this process, and tell me what you see on each page, what you are trying to accomplish on each page, and show me what you would do to go through this process. 
-(Since this is a prototype, not all links are clickable or active, but I will guide you, if needed.) 
+- Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue in question is Tinnitus. How would you go about disputing this decision? Please walk me through how you would traverse through this process. Remember to please talk out loud to me, as you move through this process, so I can follow what you are experiencing on each page, what you are trying to accomplish, and show me what you would do on each page in order to get through this process. 
+Mention: (If you have any questions, please feel free to ask me any time. Also please remember this is not a test of you - we are doing this usability test to understand how to improve our website and make it as easy to use as possible. 
+Since this is a prototype, not all links are clickable or active, but I will guide you, if needed.) 
 
-(Allow time for users to go through the whole process once. Guide when needed (choose Tinitus, choose to be called back, choose 12.30pm call back time, choose NO for use the Same Office) 
+(Allow time for users to go through the whole process. Guide them when needed: choose Tinitus, choose to be Called Back, choose 12.30pm call back time, choose NO for use of the Same Office. 
 
 When process is finished: 
 - What do you think about this process? 
 - What was confusing or unclear? 
 - Was there any other frustrations or pain points along the way? 
-- What info along the way was particularly helpful. 
-- What info was missing?
-- What would have been helpful to add to this process / or these pages?
+- What info along the way was particularly helpful?
+- What info is missing throughout the process?
+- What would have been helpful to add to this process/these pages?
 - Any other comments? 
  
 Now that we have moved through the process once, lets go back and look at the pages in more details. 
@@ -85,11 +86,13 @@ Now that we have moved through the process once, lets go back and look at the pa
 **1st screen: 
 Intro HLR page**
 
--What do you think is the main purpose of this page, and how well do you think this page 
+-What do you think is the main purpose of this page, and how well do you think this page accomplishes this purpose? 
+- What is confusing or unclear on this page? 
+- What is most helpful on this page? 
+- what should be added to this page to make it more useful? 
 
 **2st screen: Opt out page**
  
-- What do you think is the main purpose of this page? 
 - How do you interpret the content of this page?
 - What do you think you agree to if you click continue?
 - Do you have any other comments about this page? 
