@@ -46,7 +46,7 @@ Since it's a demo, none of your actions will affect your actual VA information o
 
 ## Warm-up Questions (Optional) - (5-10 minutes)
 
-Before we look at the VA website, let’s start with a few warm-up questions.
+Before we look at the prototype of the VA website, let’s start with a few general questions.
 
 - Tell me a little about yourself. (Examples of promts: Where do you live? Which branch of service? What do you or what have you done for work? Have you done an interview or usability test like this before? How was that experience?)
 
@@ -62,12 +62,13 @@ Before we look at the VA website, let’s start with a few warm-up questions.
 **1st screen: 
 Intro HLR page**
 
-- Lets take a look at the prototype of the website.
+- Ok great, lets take a look at the prototype of the website. 
 Intro question: take a look at this page and tell me what you think the main purpose of this page is, and what actions can you take on this page?
 (Provide user with the necessary context for a Higher Level Review appeals process). 
 
-- Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue in question is Tinnitus. How would you go about disputing this decision? Please walk me through how you would traverse through this process. Remember to please talk out loud to me, as you move through this process, so I can follow what you are experiencing on each page, what you are trying to accomplish, and show me what you would do on each page in order to get through this process. 
-Mention: (If you have any questions, please feel free to ask me any time. Also please remember this is not a test of you - we are doing this usability test to understand how to improve our website and make it as easy to use as possible. 
+- Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue in question in this scenario is Tinnitus. How would you go about disputing this decision? Please walk me through how you would go through this process. Please remember to talk out loud to me, as you move through this process, so I can follow what you are experiencing on each page, what you are trying to accomplish, what you are thinking, and show me what you would do on each page in order to get through this process.
+
+Mention: (If you have any questions, please ask me any time. And finally - remember this is not a test of you - we are doing this usability test to understand how we can improve our website and make it easier to use.
 Since this is a prototype, not all links are clickable or active, but I will guide you, if needed.) 
 
 (Allow time for users to go through the whole process. Guide them when needed: choose Tinitus, choose to be Called Back, choose 12.30pm call back time, choose NO for use of the Same Office. 
