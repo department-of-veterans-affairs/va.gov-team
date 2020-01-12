@@ -1,8 +1,10 @@
 # Content Management System
 
+Go to the va.gov-cms repo for all the technical stuff: https://github.com/department-of-veterans-affairs/va.gov-cms
+
 VA.gov's content management system provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-The CMS is built with Drupal and currently supports 4 main products at VA: 
+The CMS is built with Drupal and currently supports 4 main products at VA:
 1. Benefits hubs (eg www.va.gov/health-care and 10 other benefits hubs)
 1. VAMC systems (eg www.va.gov/pittsburgh-health-care). Eventually housing 1200+ VHA facilities
 1. Homepage and Global UX elements such as the header, footer, and homepage alerts
@@ -16,11 +18,11 @@ The CMS points of contact are:
 - Kevin Walsh, PM - Slack @Kevin Walsh
 - More tbd.
 
-Slack channels: 
+Slack channels:
 - #cms-general (to be renamed to #cms-support?)
-- #cms-engineering 
+- #cms-engineering
 
-Github/Zenhub labels: 
+Github/Zenhub labels:
 - `cms-team`? (TBD)
 
 ## Table of contents
