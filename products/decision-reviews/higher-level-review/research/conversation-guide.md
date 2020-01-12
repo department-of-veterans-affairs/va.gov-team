@@ -58,15 +58,14 @@ Before we look at the prototype of the VA website, let’s start with a few gene
     - How did you go about filing it?
     - How did you feel about that process?
 
-
 **1st screen: 
 Intro HLR page**
 
-- Ok great, lets take a look at the prototype of the website. 
+-Ok great, lets take a look at the prototype of the website. 
 Intro question: take a look at this page and tell me what you think the main purpose of this page is, and what actions can you take on this page?
 (Provide user with the necessary context for a Higher Level Review appeals process). 
 
-- Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue in question in this scenario is Tinnitus. How would you go about disputing this decision? Please walk me through how you would go through this process. Please remember to talk out loud to me, as you move through this process, so I can follow what you are experiencing on each page, what you are trying to accomplish, what you are thinking, and show me what you would do on each page in order to get through this process.
+-Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue in question in this scenario is Tinnitus. How would you go about disputing this decision? Please walk me through how you would go through this process. Please remember to talk out loud to me, as you move through this process, so I can follow what you are experiencing on each page, what you are trying to accomplish, what you are thinking, and show me what you would do on each page in order to get through this process.
 
 Mention: (If you have any questions, please ask me any time. And finally - remember this is not a test of you - we are doing this usability test to understand how we can improve our website and make it easier to use.
 Since this is a prototype, not all links are clickable or active, but I will guide you, if needed.) 
@@ -74,13 +73,13 @@ Since this is a prototype, not all links are clickable or active, but I will gui
 (Allow time for users to go through the whole process. Guide them when needed: choose Tinitus, choose to be Called Back, choose 12.30pm call back time, choose NO for use of the Same Office. 
 
 When process is finished: 
-- What do you think about this process? 
-- What was confusing or unclear? 
-- Was there any other frustrations or pain points along the way? 
-- What info along the way was particularly helpful?
-- What info is missing throughout the process?
-- What would have been helpful to add to this process/these pages?
-- Any other comments? 
+-What do you think about this process? 
+-What was confusing or unclear? 
+-Was there any other frustrations or pain points along the way? 
+-What info along the way was particularly helpful?
+-What info is missing throughout the process?
+-What would have been helpful to add to this process/these pages?
+-Any other comments? 
  
 Now that we have moved through the process once, lets go back and look at the pages in more details. 
 
