@@ -112,55 +112,56 @@ User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
       "vetParticipantId" : 0
     },
   ],
- "associatedBenefitClaimId": 0,
- "corpParticpantId": 600048309,
- "expirationDate": 1582234108000,
- "intentToFileID": 173518,
- "receivedDate": 1550698108000,
- "source": "EBN",
- "status": "ACTIVE",
- "type": "COMPENSATION",
- "vetParticipantId": 0,
- "anyHistoricalClaimsConsolidatable": true,
-   "historicalClaims":    [
-            {
-         "appealPossible": "Yes",
-      }, ],
- "attentionNeeded": "No",
- "baseEndProductCode": "400",
- "benefitClaimTypeCode": "400PREDSCHRG",
- "claimCompleteDate": "11/08/2018",
- "claimConsolidatable": true,
- "claimPhaseDates":          {
-    "currentPhaseBack": false,
-    "everPhaseBack": false,
-    "phaseChangeDate": "11/08/2018"
- },
- "claimStatus": "CAN",
- "claimTrackedItems": {},
- "closeDate": "11/08/2018",
- "consolidatedTrackedItemsList": [],
- "date": "05/06/2019",
- "dbqList": [],
- "decisionNotificationSent": "No",
- "developmentLetterSent": "No",
- "endProductCode": "408",
- "id": "600142567",
- "newEvidenceReceived": false,
- "pastEstClaimDate": false,
- "pastEvidenceDueDate": false,
- "pastPhaseEstDate": false,
- "programType": "CPL",
- "status": "COMPLETE",
- "statusChanged": false,
- "statusType": "Compensation",
- "submitterApplicationCode": "VBMS",
- "submitterRoleCode": "VBA",
- "vbaDocumentList": [],
- "waiver5103Submitted": false,
- "wwd": [],
- "wwr": [],
- "wwsnfy": [],
+  "associatedBenefitClaimId": 0,
+  "corpParticpantId": 600048309,
+  "expirationDate": 1582234108000,
+  "intentToFileID": 173518,
+  "receivedDate": 1550698108000,
+  "source": "EBN",
+  "status": "ACTIVE",
+  "type": "COMPENSATION",
+  "vetParticipantId": 0,
+  "anyHistoricalClaimsConsolidatable": true,
+  "historicalClaims": [
+    { 
+      "appealPossible": "Yes",
+      "attentionNeeded": "No",
+      "baseEndProductCode": "400",
+      "benefitClaimTypeCode": "400PREDSCHRG",
+      "claimCompleteDate": "11/08/2018",
+      "claimConsolidatable": true,
+      "claimPhaseDates":          {
+        "currentPhaseBack": false,
+        "everPhaseBack": false,
+        "phaseChangeDate": "11/08/2018"
+      },
+      "claimStatus": "CAN",
+      "claimTrackedItems": {},
+      "closeDate": "11/08/2018",
+      "consolidatedTrackedItemsList": [],
+      "date": "05/06/2019",
+      "dbqList": [],
+      "decisionNotificationSent": "No",
+      "developmentLetterSent": "No",
+      "endProductCode": "408",
+      "id": "600142567",
+      "newEvidenceReceived": false,
+      "pastEstClaimDate": false,
+      "pastEvidenceDueDate": false,
+      "pastPhaseEstDate": false,
+      "programType": "CPL",
+      "status": "COMPLETE",
+      "statusChanged": false,
+      "statusType": "Compensation",
+      "submitterApplicationCode": "VBMS",
+      "submitterRoleCode": "VBA",
+      "vbaDocumentList": [],
+      "waiver5103Submitted": false,
+      "wwd": [],
+      "wwr": [],
+      "wwsnfy": [],
+    }, 
+  ],
  "openClaims": [   {
     "appealPossible": "No",
     "attentionNeeded": "No",
@@ -451,3 +452,93 @@ User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
   "success" : true
 }
 ```
+
+## Summary of Differences
+
+### Get Claim Details Response Analysis
+
+|Symbol|Description                                          |
+|------|-----------------------------------------------------|
+| [x]  | present in response                                 |
+| [-]  | similar attribute is present but not a 1 to 1 match |
+| [ ]  | not present in response                             |
+
+|                                 |Description|EVSS|BIP   |
+|---------------------------------|-----------|----|------|
+|**appealPossible**               |           | [x] | [ ] |
+|**attentionNeeded**              |           | [x] | [ ] |
+|**baseEndProductCode**           |           | [x] | [ ] |
+|**benefitClaimTypeCode**         |           | [x] | [x] |
+|**claimConsolidatable**          |           | [x] | [ ] |
+|**claimPhaseDates**              |           | [x] | [-] |
+|**currentPhaseBack**             |           | [x] | [ ] |
+|**everPhaseBack**                |           | [x] | [ ] |
+|**latestPhaseType**              |           | [x] | [x] |
+|**phase1CompleteDate**           |           | [x] | [ ] |
+|**phaseChangeDate**              |           | [x] | [x] |
+|**phaseMaxEstDate**              |           | [x] | [ ] |
+|**phaseMinEstDate**              |           | [x] | [ ] |
+|**phaseTypeChangeInd**           |           | [x] | [ ] |
+|**claimTrackedItems**            |           | [x] | [ ] |
+|**consolidatedTrackedItemsList** |           | [x] | [ ] |
+|**contentionList**               |           | [x] | [ ] |
+|**date**                         |           | [x] | [x] |
+|**dbqList**                      |           | [x] | [ ] |
+|**decisionNotificaitonSent**     |           | [x] | [ ] |
+|**developmentLetterSent**        |           | [x] | [ ] |
+|**endProductCode**               |           | [x] | [ ] |
+|**id**                           |           | [x] | [x] |
+|**jurisdiction**                 |           | [x] | [ ] |
+|**mailingAddress**               |           | [x] | [ ] |
+|**addressLine1**                 |           | [x] | [ ] |
+|**addressLine2**                 |           | [x] | [ ] |
+|**city**                         |           | [x] | [ ] |
+|**state**                        |           | [x] | [ ] |
+|**zip**                          |           | [x] | [ ] |
+|**maxEstClaimDate**              |           | [x] | [ ] |
+|**minEstClaimDate**              |           | [x] | [ ] |
+|**newEvidenceReceived**          |           | [x] | [ ] |
+|**pastEstClaimDate**             |           | [x] | [ ] |
+|**pastPhaseEstDate**             |           | [x] | [ ] |
+|**poa**                          |           | [x] | [ ] |
+|**programType**                  |           | [x] | [ ] |
+|**status**                       |           | [x] | [x] |
+|**statusChanged**                |           | [x] | [ ] |
+|**statusType**                   |           | [x] | [-] |
+|**submitterApplicationCode**     |           | [x] | [ ] |
+|**submitterRoleCode**            |           | [x] | [ ] |
+|**tempJurisdiction**             |           | [x] | [ ] |
+|**vbaDocumentList**              |           | [x] | [ ] |
+|**waiver5103Submitted**          |           | [x] | [x] |
+|**wwd**                          |           | [x] | [ ] |
+|**wwr**                          |           | [x] | [ ] |
+|**wwsnfy**                       |           | [x] | [ ] |
+
+### Get Claims Response Analysis
+
+|                                      |Description|EVSS|BIP   |
+|--------------------------------------|-----------|----|------|
+|**allIntentToFiles**                  |           | [x] | [ ] |
+|**associatedBenefitClaimId**          |           | [x] | [ ] |
+|**corpParticipantId**                 |           | [x] | [ ] |
+|**expirationDate**                    |           | [x] | [ ] |
+|**intentToFileID**                    |           | [x] | [ ] |
+|**receivedDate**                      |           | [x] | [ ] |
+|**source**                            |           | [x] | [ ] |
+|**status**                            |           | [x] | [ ] |
+|**type**                              |           | [x] | [ ] |
+|**vetParticipantId**                  |           | [x] | [ ] |
+|**associatedBenefitClaimId**          |           | [x] | [ ] |
+|**corpParticipantId**                 |           | [x] | [ ] |
+|**expirationDate**                    |           | [x] | [ ] |
+|**intentToFileID**                    |           | [x] | [ ] |
+|**receivedDate**                      |           | [x] | [ ] |
+|**source**                            |           | [x] | [ ] |
+|**status**                            |           | [x] | [ ] |
+|**type**                              |           | [x] | [ ] |
+|**vetParticipantId**                  |           | [x] | [ ] |
+|**anyHistoricalClaimsConsolidatable** |           | [x] | [ ] |
+|**historicalClaims**                  |           | [x] | [-] |
+|**(Array of Historical Claims)**      |           | [x] | [-] |
+|**openClaims**                        |           | [x] | [x] |
+|**(Array of Open Claims)**            |           | [x] | [x] |
