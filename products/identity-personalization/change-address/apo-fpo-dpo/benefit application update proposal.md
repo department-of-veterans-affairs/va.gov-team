@@ -10,7 +10,42 @@ Our team recommends that similar updates be made to the address forms in each of
 
 ## Design MockUps 
 
-This is where the design mock ups will be uploaded
+### Address field within the application
+
+Below are the designs for how to adapt the address field for each benefit application. Please note:
+
+1. This example is shown for the health care application. While each benefit application shows the address field at different points in the process, I believe all applications do have at least one address field. If needed, the patterns below can be adjusted accordingly depending on the specific application (though we will not be providing separate mockups for each individual application).
+2. If there is more than one address form in a benefit application, only the Mailing Address (or equivalent) field needs to be updated to match the designs below.
+
+![Form 10-10EZ - domestic military base address 1](https://user-images.githubusercontent.com/53535009/70589224-361e6b00-1b9d-11ea-9874-de3083136723.png)
+
+Domestic military base addresses use the base name as the 'City' and follow the same pattern as a non-military address by displaying a state.
+
+Same screen with helper text visible:
+
+![Form 10-10EZ - domestic military base address 2](https://user-images.githubusercontent.com/53535009/70589253-43d3f080-1b9d-11ea-8caa-4ba59ba40c8b.png)
+
+When the user arrives at the address page and they live on a US military base outside of the US they will see this:
+
+![Form 10-10EZ - outside US military base address 1](https://user-images.githubusercontent.com/53535009/70589522-e68c6f00-1b9d-11ea-99a0-2c018607e958.png)
+
+Same screen with helper text visible:
+
+![Form 10-10EZ - outside US military base address 2](https://user-images.githubusercontent.com/53535009/70589553-fb690280-1b9d-11ea-8b4a-fb06a40a5b1e.png)
+
+### Review Application
+
+If the benefit application you are working on has a Review Application page, the designs below outline how the address field would need to change to accomodate overseas military addresses.
+
+![Review step - accordion closed](https://user-images.githubusercontent.com/53535009/70590506-f22d6500-1ba0-11ea-8215-c653e954b60c.png)
+
+When the user opens the Veteran Info section they will see this:
+
+![Form 10-10EZ  Review step - accordion veteran info](https://user-images.githubusercontent.com/53535009/70590524-007b8100-1ba1-11ea-9357-2c01caa7d7d9.png)
+
+When the user clicks the 'Edit' button for the Permanent address section to edit their address they will see this layout:
+
+![Form 10-10EZ - veteran info edit](https://user-images.githubusercontent.com/53535009/70590410-9fec4400-1ba0-11ea-8bd7-d05230371e74.png)
 
 ## Tasks 
 
