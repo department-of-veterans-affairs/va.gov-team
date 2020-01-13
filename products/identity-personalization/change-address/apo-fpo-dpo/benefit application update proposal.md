@@ -12,7 +12,7 @@ Our team recommends that similar updates be made to the address forms in each of
 
 Below are the designs for how to adapt the address field for each benefit application. Please note:
 
-1. This example is shown for the health care application. While each benefit application shows the address field at different points in the process, I believe all applications do have at least one address field. If needed, the patterns below can be adjusted accordingly depending on the specific application (though we will not be providing separate mockups for each individual application).
+1. The example shown is for the health care application. While each benefit application shows the address field at different points in the process, I believe all applications do have at least one address field. If needed, the patterns below can be adjusted accordingly depending on the specific application (though we will not be providing separate mockups for each individual application).
 2. If there is more than one address form in a benefit application, only the Mailing Address (or equivalent) field needs to be updated to match the designs below.
 
 ### Address field within the application
