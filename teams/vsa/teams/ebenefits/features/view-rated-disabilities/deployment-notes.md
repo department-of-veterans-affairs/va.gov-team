@@ -1,4 +1,4 @@
-When releasing to production in chunks, do we use Flipper UI or implimentation switches?
+## When releasing to production in chunks, do we use Flipper UI or implimentation switches?
 
 Progressive rollout is totally optional. Some teams use progressive rollout on some features but it is not a hard and fast rule.
 If we want to do it progressively we can use Flipper UI -
@@ -16,7 +16,7 @@ component to those users so that they do not see nothing when the page loads.
 Flipper UI works based on some data in out database, not EVSS
 
 
-When deploying the static page on Drupal, do we release in chunks?
+## When deploying the static page on Drupal, do we release in chunks?
 
 Static pages on Drupal are completely stqtic, there is no progressive deployment with our Drupal implimentation.
 Thus our content would need to be adjusted to account for both users that have access to the feature and also
