@@ -20,11 +20,11 @@ Below are the designs for how to adapt the address field for each benefit applic
 **UX**
 
 - Add a checkbox to the mailing/permanent address field that allows people to indicate they live on an overseas military base.
-- If checked:
+- If the box is unchecked, the address form can be filled in normally and the UX doesn't change.
+- However, if someone does check the box indicating they live on an overseas military base, we need to make the following updates to the address fields: 
   - Default the country field to United states and disable the country menu so the user can not select another country.
   - Change "City" to "APO/FPO/DPO". This field remains required. The only options in this menu should be APO, FPO, DPO.
   - In the "State" menu, please remove all other states except Armed Forces America (AA), Armed Forces Europe (AE), and Armed Forces Pacific (AP).
-- If the box is unchecked, the address form can be filled in normally.
   
 **Copy**
 
