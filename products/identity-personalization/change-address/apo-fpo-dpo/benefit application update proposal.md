@@ -4,7 +4,7 @@ As a person who lives on an overseas military base, I should not be able to list
 
 ## Background:  
 
-The authenticated experience team has been working on an update to the user profile that will allow for better error handling of overseas military base addresses ([details here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4386#issuecomment-568466453)). This is the TL;DR: currently, all address forms on VA.gov allow people to enter a country other than the United States if a person lives on an overseas military base even though US military bases are technically considered to be in the United States no matter where they are on the map. The updates we are making to the profile will allow a person to indicate they live on an overseas military base, and it will also prevent a person who lives on an overseas military base from selecting a country other than the United States.
+The authenticated experience team has made an update to the user profile that will allow for better error handling of overseas military base addresses ([details here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4386#issuecomment-568466453)). This is the TL;DR: prior to the changes we made in the profile, all address forms on VA.gov allowed people to enter a country other than the United States if a person lives on an overseas military base even though US military bases are technically considered to be in the United States no matter where they are on the map. The updates we made to the profile allow a person to indicate they live on an overseas military base and prevent them from selecting a country other than the United States.
 
 Our team recommends that similar updates be made to the address forms in each of the benefit applications. However, these application updates do not need to happen immediately, and the profile updates we made are not dependent on the benefit applications also being updated. Updates to the benefit applications can happen any time and can be triaged accordingly depending on the priority of other work.
 
@@ -13,7 +13,7 @@ Our team recommends that similar updates be made to the address forms in each of
 Below are the designs for how to adapt the address field for each benefit application. Please note:
 
 1. The example shown is for the health care application. While each benefit application shows the address field at different points in the process, I believe all applications do have at least one address field. We will not be providing separate mockups for each individual application, so please let us know if you have specific questions about how our proposal would fit into your application.
-2. If there is more than one address form in a benefit application, only the Mailing Address (or equivalent) field needs to be updated to match the designs below.
+2. If there is more than one address field in a benefit application, only the Mailing Address (or equivalent) field needs to be updated to match the designs below.
 
 ### Address field within the application
 
@@ -21,8 +21,8 @@ Below are the designs for how to adapt the address field for each benefit applic
 
 - Add a checkbox to the mailing/permanent address field that allows people to indicate they live on an overseas military base.
 - If the box is unchecked, the address form can be filled in normally and the UX doesn't change.
-- However, if someone does check the box indicating they live on an overseas military base, we need to make the following updates to the address fields: 
-  - Default the country field to United states and disable the country menu so the user can not select another country.
+- However, if someone does check the box indicating they live on an overseas military base, we need to make the following updates: 
+  - Default the Country field to "United States" and disable the Country menu so the user can not select another country.
   - Change "City" to "APO/FPO/DPO". This field remains required. The only options in this menu should be APO, FPO, DPO.
   - In the "State" menu, please remove all other states except Armed Forces America (AA), Armed Forces Europe (AE), and Armed Forces Pacific (AP).
   
