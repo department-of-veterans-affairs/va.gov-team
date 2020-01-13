@@ -44,8 +44,6 @@ Same screen with helper text visible:
 
 If the benefit application you are working on has a Review Application page, the designs below outline how the address field would need to change to accomodate overseas military addresses.
 
-![Review step - accordion closed](https://user-images.githubusercontent.com/53535009/70590506-f22d6500-1ba0-11ea-8215-c653e954b60c.png)
-
 When the user opens the Veteran Info section they will see this:
 
 ![Form 10-10EZ  Review step - accordion veteran info](https://user-images.githubusercontent.com/53535009/70590524-007b8100-1ba1-11ea-9357-2c01caa7d7d9.png)
