@@ -3,7 +3,7 @@
 ### To Stakeholders
 - Who are the claimants mentioned in the 686; how often do they use the 686 vs. the Veterans themselves?
 - Do you prefer mixed-use 686s (e.g. add spouse + report divorce + report married child) vs. single-purpose use (e.g. only add dependent child)?
-- Would multiple 'single-purpose' be confusing for processors? Helpful maybe?
+- Would multiple 'single-purpose' submissions be confusing for processors? Helpful maybe?
 - How often is 686 used to remove dependents vs. adding them? 
 - Does VA have to “discover” deceased or divorced dependents, or do Veterans actually self-report? 
 - Do child dependents automatically age-out?
