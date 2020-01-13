@@ -145,6 +145,7 @@ _Do we need to merge the FE and BE tasks?_
 - [ ] Go/No-go from each team member
 - [ ] Define what is being tracked
 - [ ] Define other last minute items
+- [ ] Define the redirect process (100% vs graduated)
 - [ ] Review the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Post-Mortem
