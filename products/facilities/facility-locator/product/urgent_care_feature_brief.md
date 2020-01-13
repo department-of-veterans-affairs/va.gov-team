@@ -99,8 +99,10 @@ _How will we know if we are successful?_
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
 
 **Team/Internal dependencies**
-  -  Ability to differentiate among facility sub-types is access dependent.
+  - Ability to differentiate among facility sub-types is access dependent.
   - Comprehensive QA strategy requires lower environment with PPMS data for testing. 
+  - Dependency on OCC for final version of PDF
+  - Dependency on OCC approval to sunset TriWest urgent care locator
   
 **Partner dependencies**
   - Data quality is dependent on data owners, in part. (PPMS)
