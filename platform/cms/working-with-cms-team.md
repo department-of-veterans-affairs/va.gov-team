@@ -69,9 +69,9 @@ Much like in the design intent checkin, your designs should be in the early stag
 
 Please be sure to make requests ahead of time - ideally a sprint ahead of time. 
 
-1. Please open a Zenhub issue in ```va.gov-team repo```. 
+1. Please open a CMS scoping issue in ```va.gov-cms repo```. 
 1. Choose standard issue template.
-1. Title for the issue: ```CMS Review: [title of tool/app/page]```
+1. Title for the issue: ```CMS scoping: [title of tool/app/page]```
 1. Please include the following as applicable:
  - Links to the design intent issue and/or IA Reviews, and any notes or outcomes that. 
  - A description of the problem you solving
@@ -83,8 +83,7 @@ Please be sure to make requests ahead of time - ideally a sprint ahead of time.
     - Links to any applicable research
 
 5. Please tag the issue with:
-- Team/Practice Area label  - `cms-team` and `cms`
-- Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
+- Your team (```vsa-public-website``` or ```vsa-facilities```, etc)
 - Assign issue to @kevwalsh
 
 ### What happens next? 
@@ -97,4 +96,4 @@ Depending on the product and availability, CMS discovery may lead to
 
 
 ## <a id="questions"></a>Questions?
-If you have any questions, please reach out via slack in `#vfs-platform-support` (?) or #cms-general, tag `@kevin walsh`
+If you have any questions, please reach out via slack in #cms-support, tag `@kevin walsh`
