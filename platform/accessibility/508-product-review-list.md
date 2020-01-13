@@ -455,6 +455,22 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### eBenefits Rated Disabilities
+
+**Maintainer:** VSA<br/>
+**Audit Status:** Pre-launch 508 audit completed<br/>
+**[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
+
+#### Open Issues
+* [[SCREENREADER, KEYBOARD]: Focus on page load is on the breadcrumbs, but needs to be at the top of the page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4756)
+   **Opened:** January 10, 2020 | **Severity:** 508-defect-0
+* [[SCREENREADER, COGNITION]: Screenreader experience of reading service-connected or not disabilities isn't clear](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4784)
+   **Opened:** January 13, 2020  | **Severity:** 508-defect-2
+   * [[SCREENREADER] Individual disabilities currently in individual <dl> would be improved in a single <dl>](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)
+   **Opened:** January 7, 2020 | **Severity:** 508-defect-3
+
+---
+
 ### New Project Name
 
 **Maintainer:** _VSA or VSP_<br/>
