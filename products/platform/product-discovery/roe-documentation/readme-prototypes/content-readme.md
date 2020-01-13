@@ -10,7 +10,7 @@ Hello! In this folder, you'll find ...
 
 ## How to Reach Us
 
-#### Who we are
+### Who we are
 
 **Peggy Gannon, Content Editor**
 Slack: @Peggygannon
@@ -20,7 +20,7 @@ GitHub:
 Slack: @Megan Kelley
 GitHub: 
 
-#### How to get help
+### How to get help
 
 Slack channels: 
 #vsp-content-ia
