@@ -1,6 +1,7 @@
 # **VSP Information Architecture Team**
 
 *Last updated: Jan. 6, 2020*
+
 *Owned by: Content & IA*
 
 This document will help all teams working on VA.gov understand when you should engage IA resources for collaboration and support. All teams building on the Veteran Services Platform should follow VA.gov IA best practices and guidelines and work with an IA resource to ensure all content is easily findable and we maintain a consistent navigation experience across the site.
@@ -25,9 +26,11 @@ GitHub:
 ### How to get help 
 *You can ask questions or get support for any IA related questions on our slack channels.*
 
-Slack channels: #vfs-platform-support#vsp-content-ia
-Github labels: [Content-ia-team]
+Slack channels: 
+#vfs-platform-support
+#vsp-content-ia
 
+Github labels: [Content-ia-team]
 
 
 ## How We Can Support You
@@ -58,16 +61,15 @@ The following list is a set of resources for practicing IA on VA.gov and to help
 
 **Best Practices and Guidelines**
 
-- [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)[URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
-
-- [SEO Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)[XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
-
+- [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
+- [URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
+- [SEO Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
+- [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
 - [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
 
 **Working Documents and Current Site Documentation**
 
 - [Master URL Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/master-url-mapping.md) (Official source of truth on IA and URLs)
-
 - [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md)
 - [XML Sitemap](https://www.va.gov/sitemap.xml)
 
