@@ -23,30 +23,44 @@ Alright, we're recording!
 - What team are you on?
 - What is your role?
 - Do you interact with the devops repo for VA.gov?
-   - If yes: How would you characterize your experience?
-   - How frequently do you interact with the repo?
-   
-### Starting a new project
+   - If yes: 
+      - How would you characterize your experience?
+      - How frequently do you interact with the repo?
+      - What was it like the first time you interacted with the repo?
+      - Is there anything you wish was different?
+      
+## Questions about infrastructure in general (not VSP related)
 
-- Describe your experience starting a new project using the devops repo.
-   - What was it like starting your first project?
-   - Is anything different starting new projects now that you've done it a few times?
-   - Is there anything you wish was different?
+- Talk me through a time when you’ve had a really good or bad [something that stands out, memorable] experience with Infrastructure. 
+   - How did you know it was good or bad? 
+   - What made it successful (or not)? 
+   - What were the results? 
+   - What behavior were you seeing to indicate that?
+- What tools and processes have you found memorable (effective/ineffective) in the past?
+- What processes did you use to set standards across different teams who were contributing to the Infrastructure?
+- What do you think VSP, the platform team, can learn from this example? 
+- If you had to choose 3 things that you think were critical to your success, what would you say those were?
+
+## Questions about VSP 
+
+### Developer experience 
+
 - What was it like getting set up to develop locally?
    - What is it like now?
    - Are there any workarounds you rely on to make any of the processes easier or faster?
    - Is there anything you wish was different?
 - How did you go about understanding the capabilities of the technical platform?
-- How is it getting access to things? *Q from Emily: things like what?*
-   
-### Getting support
-
+- How is it getting access to things [that you need to do your job]? 
+- How does your experience/process interact with other parts of the larger process?
+   - Developing locally vs. pushing to prod, what are the pain points?
 - Describe how you seek out help with ops perspective for designing, building, or planning a large change/initiative?
    - What steps do you take?
    - Who do you seek out?
    - When you get stuck, what do you do?
+- What’s a really easy thing to do on the platform (VSP)?
+- What would you like to see different about building on VSP?
    
-### Deploying [Not sure if this is the best category name]
+### Deploying 
    
 - What has your experience been like setting up deployment?
    - What was it like the first time you did it?
@@ -65,11 +79,19 @@ Alright, we're recording!
    - What would you change?
 - Do you “dark launch” features or are your deployment and feature releases decoupled?
    - What would you change?
+   
+### Interacting with the devops repo
 
-### Developing things
+- Describe your experience starting a new project using the devops repo.
+   - What was it like starting your first project?
+   - Is anything different starting new projects now that you've done it a few times?
+   - How discoverable is the repo?
+   - How easy is it to find what you're looking for?
+   - Do you know where to go for reviews?
 
-- What has your experience been like writing docs [in the devops repo?]? *Q from Emily: Writing documentation about their code?*
-- What's it been like creating an artifact? *Q from Emily: Is this a widely understood dev process? What kind of artifacts are we referring to?*
+### Optional: Questions about more specific processes [reference if necessary]
+
+- What's it been like creating an artifact? [BRD - build/release/deploy, a releasable artifact]
 - Has a short list of language support been a problem?  Do you need to use other languages?
 - How do you usually assess app status/health? What is that experience like?
 - Describe your experience changing config. 
@@ -84,32 +106,14 @@ Alright, we're recording!
    - What would you change if you could?
 - How would you characterize the developer/"build" culture of your team? *Q from Emily: How can we ask this question in an open-ended way? 
    - If clarification needed: For example, “bias to action” or “measure twice, cut once”?
+   - **Move this to the survey**
 - What kind of configuration does your app have? Is that different from what it needs?
    - What parts are easy?
    - What parts are difficult?
    - What would you change if you could?
    - What would you change?
-- What’s a really easy thing on CSP to do?  Why? *Q from Emily: What is CSP?*
 - What steps do you take when you need to bring in / on new services beyond api and site?
-- What would you like to see different about building on VSP?
-
-### Unsure of the right category
 - How familiar are you with 12 factor apps?
-- XXX VCR / test data collection
-- XXX need more envs in staging (are dev/review envs useful) ?
-
-## Questions about infrastruture in general (not VSP related)
-
-- Talk me through a time when you’ve had a really good experience with Infrastructure. 
-   - How did you know it was good? 
-   - What made it successful (or not)? 
-   - What were the results? 
-   - What behavior were you seeing to indicate that?
-- What tools and processes have you found effective in the past?
-- What tools and processes have you found ineffective in the past? 
-- What processes did you use to set standards across different teams who were contributing to the Infrastructure?
-- What do you think VSP, the platform team, can learn from this example? 
-- If you had to choose 3 things that you think were critical to your success, what would you say those were?
 
 ## Questions Specific to Interviewee
 
