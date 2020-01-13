@@ -113,6 +113,7 @@ The following list is a set of resources to help you do your work and answer con
 
 
 **Historical process: Content team checklists**
+
 *Please note: Some of the documented lists and processes listed below are evolving or no longer 100% valid as we move from Github to Drupal.*
 
 - [Content launch checklist--Historical process](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/new-content-launch.md)
