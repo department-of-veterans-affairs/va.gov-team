@@ -59,14 +59,14 @@ I have just a few more questions to ask you before we finish up today.
 1. [If they did NOT notice PDF alert] I noticed you did not interact with the alert message that appeared when searching for a clinic to visit. Will you go [through task 1]  and tell me what your focus lands on? What are your thoughts on the PDF? [ask Task 3 questions]
 2. Do you know what Community Care is?
 3. What comes to mind when I use the term "In Network?"
-3. I have a list of terms I want to ask about. Will you tell me if they make sense to you or what they may be used for?
+4. I have a list of terms I want to ask about. Will you tell me if they make sense to you or what they may be used for?
 - VA Community Care (In Network)
 - VA Community Care Pharmacy (In Network)
 - Urgent Care vs Retail/Walk-in Care
-4. How would you rate the overall clarity of the PDF?
-5. How would you get additional info about your benefits? What else would be helpful to see regarding your benefits?
-6. How prepared do you feel to visit a facility after using this tool?
-7. What would you change about this protototype?
+5. How would you rate the overall clarity of the PDF?
+6. How would you get additional info about your benefits? What else would be helpful to see regarding your benefits?
+7. How prepared do you feel to visit a facility after using this tool?
+8. What would you change about this protototype?
 
 ## Closing
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
