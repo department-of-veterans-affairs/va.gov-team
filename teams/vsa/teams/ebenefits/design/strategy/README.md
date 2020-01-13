@@ -13,7 +13,7 @@ The framework implies three design practice meetings:
 - A platform design review after lo-fi sketches and flows are complete
 - A launch-oriented design review after product designs are complete
 
-> :file_folder: = Deliverable artifact
+> :file_folder: = Artifact committed to the repo
 
 ## Approach
 
