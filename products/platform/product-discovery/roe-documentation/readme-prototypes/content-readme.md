@@ -1,7 +1,6 @@
 # VSP Content Team 
 
 *Last updated: Jan. 6, 2020*
-
 *Owned by: Content & IA*
 
 
