@@ -44,7 +44,7 @@ _Why should this project be a priority?_
 - Users don't have a easy way to search for urgent care facilities.
 
 **Stakeholder/Business drivers**
-- The Office of Community Care has been dissatisfied with the community care implementation. (_Factors causing dissatisfaction: data errors and inconsistency of results compared to legacy system, search latency, lack of visibility for urgent care subtypes and frustrating usability issues. As a result, Searches continue to be directed to an external TriWest Provider locator._) 
+- The Office of Community Care has been dissatisfied with the community care implementation. (_Factors causing dissatisfaction: data errors and inconsistency of results compared to legacy system, search latency, lack of visibility for urgent care subtypes and frustrating usability issues. As a result, searches continue to be directed to an external TriWest Provider locator._) 
 - Urgent care is a particularly high visibility subset of Community Care functionality. 
 - The impending addition of the Optum network of providers on 2/1/2020 increases the priority of this work. 
 
