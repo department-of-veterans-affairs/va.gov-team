@@ -27,9 +27,9 @@ Below are the designs for how to adapt the address field for each benefit applic
   
 **Copy**
 
-**Checkbox label**: I live on a United States military base outside of the United States
-**Helper text label**: Learn more about military base addresses
-**Helper text field**: The United States is automatically chosen as your country if you live on a military base outside of the country.
+- **Checkbox label**: I live on a United States military base outside of the United States
+- **Helper text label**: Learn more about military base addresses
+- **Helper text field**: The United States is automatically chosen as your country if you live on a military base outside of the country.
 
 When the user arrives at the address page and they live on a US military base outside of the US they will see this:
 
