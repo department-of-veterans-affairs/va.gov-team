@@ -32,7 +32,7 @@ Below are the designs for how to adapt the address field for each benefit applic
 - **Helper text label**: Learn more about military base addresses
 - **Helper text field**: The United States is automatically chosen as your country if you live on a military base outside of the country.
 
-When the user arrives at the address page and they live on a US military base outside of the US they will see this:
+When the user arrives at the address page and they check the box indicating that they live on a US military base outside of the US, they will see this:
 
 ![Form 10-10EZ - outside US military base address 1](https://user-images.githubusercontent.com/53535009/70589522-e68c6f00-1b9d-11ea-99a0-2c018607e958.png)
 
