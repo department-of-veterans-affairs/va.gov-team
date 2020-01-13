@@ -1,4 +1,4 @@
-# **VSP Information Architecture Team**
+# **VSP Information Architecture Team - Prototype**
 
 *Last updated: Jan. 6, 2020*
 
