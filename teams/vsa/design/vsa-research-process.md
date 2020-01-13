@@ -49,7 +49,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 
 * Create a “session-notes” folder within your research study Github folder and storing each session as an .md document. Copy the conversation guide over to your .md file before each session so that you have a structured way to capture your notes
 * You must scrub all notes of all PII before uploading them to Github.  PII is all content that could be used to identify the participant. Name, age, date of birth, location or specific VA facility (unless that is critical to the study), diagnoses, etc.
-* An [example of verbatim notes can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/research/discovery-aug-2019/notes/px.md).
+* An [example of verbatim notes can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/discovery-aug-2019/notes/p7.md).
 
 ## <a id="recording"></a>Recorded Interviews
 * Get verbal consent from your participant within the recording itself. First ask if it’s ok, press record, then say “can you confirm on this recording that you are ok with this session being recorded?,” or whatever comes naturally to capturing a recording of what they’ve agreed to. 
