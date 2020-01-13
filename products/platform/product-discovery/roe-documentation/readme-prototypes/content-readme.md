@@ -11,6 +11,7 @@ Hello! In this folder, you'll find ...
 ## How to Reach Us
 
 **Who we are**
+
 **Peggy Gannon, Content Editor**
 Slack: @Peggygannon
 GitHub: 
