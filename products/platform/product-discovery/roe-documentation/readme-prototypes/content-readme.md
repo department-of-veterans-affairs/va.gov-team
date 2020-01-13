@@ -1,4 +1,4 @@
-# VSP Content Team 
+# VSP Content Team - Prototype
 
 *Last updated: Jan. 6, 2020*
 
