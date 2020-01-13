@@ -15,9 +15,18 @@ component to those users so that they do not see nothing when the page loads.
 
 Flipper UI works based on some data in out database, not EVSS
 
-
 ## When deploying the static page on Drupal, do we release in chunks?
 
 Static pages on Drupal are completely stqtic, there is no progressive deployment with our Drupal implimentation.
 Thus our content would need to be adjusted to account for both users that have access to the feature and also
 account for users that do not have access to the feature.
+
+
+## Possible solution paths
+
+Some of the common scenarios for building experiences on VA.gov lend themselves to a particular solution with
+Flipper UI. Here are some of those scenarios - 
+
+### Unauthenticated page and a separate, full page, React app
+
+
