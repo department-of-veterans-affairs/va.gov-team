@@ -1,8 +1,7 @@
-****
-
 # VSP Information Architecture Review Process
 
 *Last updated: Jan. 6, 2020*
+
 *Owned by: Content & IA*
 
 
