@@ -10,9 +10,9 @@ This document will help all teams working on VA.gov understand when you should e
 ## How to Reach Us
 
 ### Who we are
-
 **Mikki Northius, IA**
-Slack: @MikkiGitHub: 
+Slack: @Mikki
+GitHub: 
 
 **Matt Johnson, IA**
 Slack: @Matt Johnson
@@ -23,7 +23,6 @@ Slack: @Megan Kelley
 GitHub: 
 
 ### How to get help 
-
 *You can ask questions or get support for any IA related questions on our slack channels.*
 
 Slack channels: #vfs-platform-support#vsp-content-ia
