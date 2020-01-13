@@ -104,9 +104,6 @@ Alright, we're recording!
    - What parts are easy?
    - What parts are difficult?
    - What would you change if you could?
-- How would you characterize the developer/"build" culture of your team? *Q from Emily: How can we ask this question in an open-ended way? 
-   - If clarification needed: For example, “bias to action” or “measure twice, cut once”?
-   - **Move this to the survey**
 - What kind of configuration does your app have? Is that different from what it needs?
    - What parts are easy?
    - What parts are difficult?
