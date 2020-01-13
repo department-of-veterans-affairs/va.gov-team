@@ -113,7 +113,7 @@ Alright, we're recording!
 
 ## Questions Specific to Interviewee
 
-### Elijha 
+### Elijah 
 - Intro
 - ??
 - User questions (above)
