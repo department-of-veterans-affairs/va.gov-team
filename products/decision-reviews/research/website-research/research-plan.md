@@ -19,7 +19,6 @@ As this process will be be exclusive moving forward (Feb 19, 2020), we are inter
 	- Within the Decision Reviews section:
 		- What page information is useful to them?
 		- What helps them make a decision about which lane is correct for them?
-		- Would a left hand navigation element be useful? If so, how?
 - How do veterans determine which appeals lane is correct for them?
 	- What do they already know about Decision Reviews?
 	- Do they understand the difference between Decision Reviews and the currently existing (legacy) appeals process?
@@ -31,7 +30,7 @@ As this process will be be exclusive moving forward (Feb 19, 2020), we are inter
 - There are opportunities to improve the communication and experience around Decision Reviews to help veterans and their representatives determine which appeals lane is best for their situation. 
 
 ## Method
-- We have conducted quantitative research on the Decision Reviews section of the website via Google Analytics.
+- We have conducted quantitative research on the Decision Reviews section fo the website via Google Analytics.
 
 - We will be using remote, moderated usability studies because we need to talk to Veterans to understand where they expect to be able to file appeals on VA.gov. 
 
@@ -48,7 +47,7 @@ As this process will be be exclusive moving forward (Feb 19, 2020), we are inter
 We will work with Perigean for recruiting. 
 
 ## When? 
-1.	Timeline: January 13 - 24, 2020
+1.	Timeline: January 29 - Feb 7, 2020
 
 2.	Prepare: We're using the live VA.gov site. 
 
