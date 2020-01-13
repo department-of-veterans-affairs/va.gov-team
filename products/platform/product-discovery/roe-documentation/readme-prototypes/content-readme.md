@@ -21,9 +21,13 @@ Slack: @Megan Kelley
 GitHub: 
 
 **How to get help** 
-Slack channels: #vsp-content-ia
+
+Slack channels: 
+#vsp-content-ia
 *You can ask questions/get support for any content or IA related questions here*
-*Github labels:* *[Content-ia-team]*
+
+Github labels:
+*[Content-ia-team]*
 
 
 
