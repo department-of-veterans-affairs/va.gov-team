@@ -12,11 +12,11 @@ Hello! In this folder, you'll find ...
 
 ### Who we are
 
-**Peggy Gannon, Content Editor**
+**Peggy Gannon**, Content Editor
 Slack: @Peggygannon
 GitHub: 
 
-**Megan Kelley, Product Manager**
+**Megan Kelley**, Product Manager
 Slack: @Megan Kelley
 GitHub: 
 
