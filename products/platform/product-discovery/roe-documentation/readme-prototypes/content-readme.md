@@ -5,7 +5,7 @@
 *Owned by: Content & IA*
 
 
-Hello! In this folder, you'll find ...
+This document will help ...
 
 
 
