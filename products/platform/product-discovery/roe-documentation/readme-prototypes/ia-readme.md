@@ -54,7 +54,6 @@ Launching a new content page(s) on VA.govLaunching a new tool on VA.govRewriting
 - [IA Review Proces](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-discovery/roe-documentation/readme-prototypes/ia-review-process.md)
 
 
-
 ## Toolkit and Resources
 
 The following list is a set of resources for practicing IA on VA.gov and to help you do your work and answer questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above. 
@@ -73,7 +72,8 @@ The following list is a set of resources for practicing IA on VA.gov and to help
 - [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md)
 - [XML Sitemap](https://www.va.gov/sitemap.xml)
 
-
+**Documentation Site (va.gov-team Github repo)**
+- [Guidelines for using the va.gov-team Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
 
 ## Questions?
 
