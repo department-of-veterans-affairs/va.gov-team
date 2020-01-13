@@ -160,6 +160,11 @@ Only move on to these if there's time.
 
 - Sometimes we get validation keys but can't force the addresses through #4278 
   - **Note**: Dependent on VA Profile fixes. Will address this once those are complete.
+- Update for address validation where there is only one option #4632
+
+**Enhancements**
+
+- Make "edit address" text clickable in address validation alert texts #4484
   
 ### Profile 2.0
 
@@ -174,6 +179,11 @@ Only move on to these if there's time.
 ### Error Matrix
 
 - Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
+- [ZOOM]: Text Appointments - Need a space between input and label in modal window #2435
 
 ## Sprint 14 (1/29 - 2/11)
 
