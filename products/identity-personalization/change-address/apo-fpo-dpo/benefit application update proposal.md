@@ -10,18 +10,28 @@ Our team recommends that similar updates be made to the address forms in each of
 
 ## Design MockUps 
 
-### Address field within the application
-
 Below are the designs for how to adapt the address field for each benefit application. Please note:
 
 1. This example is shown for the health care application. While each benefit application shows the address field at different points in the process, I believe all applications do have at least one address field. If needed, the patterns below can be adjusted accordingly depending on the specific application (though we will not be providing separate mockups for each individual application).
 2. If there is more than one address form in a benefit application, only the Mailing Address (or equivalent) field needs to be updated to match the designs below.
 
+### Address field within the application
+
+**UX**
+
+- Add a checkbox to the mailing/permanent address field that allows people to indicate they live on an overseas military base.
+- If checked:
+  - Default the country field to United states and disable the country menu so the user can not select another country.
+  - Change "City" to "APO/FPO/DPO". This field remains required. The only options in this menu should be APO, FPO, DPO.
+  - In the "State" menu, please remove all other states except Armed Forces America (AA), Armed Forces Europe (AE), and Armed Forces Pacific (AP).
+  
+**Copy**
+
+**Checkbox label**: I live on a United States military base outside of the United States
+**Helper text label**: Learn more about military base addresses
+**Helper text field**: The United States is automatically chosen as your country if you live on a military base outside of the country.
+
 ![Form 10-10EZ - domestic military base address 1](https://user-images.githubusercontent.com/53535009/70589224-361e6b00-1b9d-11ea-9874-de3083136723.png)
-
-Domestic military base addresses use the base name as the 'City' and follow the same pattern as a non-military address by displaying a state.
-
-Same screen with helper text visible:
 
 ![Form 10-10EZ - domestic military base address 2](https://user-images.githubusercontent.com/53535009/70589253-43d3f080-1b9d-11ea-8caa-4ba59ba40c8b.png)
 
