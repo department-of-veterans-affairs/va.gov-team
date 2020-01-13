@@ -48,7 +48,7 @@ Launching a new content page(s) on VA.govLaunching a new tool on VA.govRewriting
 
 ## How We’ll Work Together
 
-- IA Review Process 
+- [IA Review Proces](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-discovery/roe-documentation/readme-prototypes/ia-review-process.md)
 
 
 
