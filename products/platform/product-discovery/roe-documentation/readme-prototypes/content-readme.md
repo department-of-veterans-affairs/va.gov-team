@@ -85,7 +85,7 @@ The following list is a set of resources to help you do your work and answer con
 - [Strategy for the new VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-gov-relaunch-2018/va-gov-strategy)
 - [Digital Modernization Strategy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/digitalmodernizationstrategy.pdf)
 - [Web brand consolidation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf)
-- [VA content hierarchy](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/d6a92604f5bfd62c0078f3bcb0544460d491f7c0/content-tiers-VA.gov.pdf)
+- [VA content hierarchy](https://github.com/department-of-veterans-affairs/va.gov-team sensitive/blob/d6a92604f5bfd62c0078f3bcb0544460d491f7c0/content-tiers-VA.gov.pdf)
 
 
 
