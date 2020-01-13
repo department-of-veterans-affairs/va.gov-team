@@ -24,6 +24,7 @@ GitHub:
 
 Slack channels: 
 #vsp-content-ia
+
 *You can ask questions/get support for any content or IA related questions here*
 
 Github labels:
@@ -58,7 +59,8 @@ The following list is a set of resources to help you do your work and answer con
 **Content processes**
 
 - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)
-- [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) *(Please note: this process is currently under review)*
+- [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) 
+*(Please note: this process is currently under review)*
 - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
 - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
 
@@ -89,7 +91,8 @@ The following list is a set of resources to help you do your work and answer con
 
 **SEO resources**
 
-- [Writing for SEO](https://design.va.gov/content-style-guide/seo)[SEO best practices and guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
+- [Writing for SEO](https://design.va.gov/content-style-guide/seo)
+- [SEO best practices and guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
 - [Meta and title tag guidelines](https://design.va.gov/content-style-guide/seo#meta-properties)
 
 
