@@ -13,22 +13,22 @@ This document will help all teams working on VA.gov understand when you should e
 ### Who we are
 **Mikki Northius, IA**
 Slack: @Mikki
-GitHub: 
+GitHub: @mnorthuis
 
 **Matt Johnson, IA**
 Slack: @Matt Johnson
-GitHub: 
+GitHub: @thatmattjohnson
 
 **Megan Kelley, Product Manager**
 Slack: @Megan Kelley
-GitHub: 
+GitHub: @meganhkelley
 
 ### How to get help 
 *You can ask questions or get support for any IA related questions on our slack channels.*
 
 Slack channels: 
 #vfs-platform-support
-#vsp-content-ia
+#vsp-content-ia (only accesible to VSP teams)
 
 Github labels: [Content-ia-team]
 
@@ -41,7 +41,7 @@ Github labels: [Content-ia-team]
 
 1. **Site IA** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. We also help ensure proper redirects and/or vanity URLs are in place if needed.
 
-**2.  Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities. This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc. 
+2.  **Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities. This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc. 
 
 ### When should you think about IA?
 
