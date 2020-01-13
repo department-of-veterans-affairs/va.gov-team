@@ -1,7 +1,9 @@
+# VSA Delivery
+
 Delivery of VSA work currently happens in 2 week sprints, informed by high level objectives set on a quarterly basis. There are planning sessions that occur on the Sprint planning day before each new sprint, so that teams can collectively plan out their Sprint objectives and the work needed to achieve them. 
 
 
-# Sprint Objectives
+## Sprint Objectives
 
 There are a handful of key goals for VSA Sprint Objectives:
 
@@ -22,7 +24,7 @@ There are a handful of key goals for VSA Sprint Objectives:
 1. Check your team’s upcoming Capacity to see if you need to cut back accordingly
 1. Check anticipated support needs, and when high volume is expected, cut back on other work accordingly
 
-## How to write Sprint Objectives
+### How to write Sprint Objectives
 - State an intended outcome and value proposition, not an individual task.
 - Format: _We will..._ [Verb] _______ so that [intended  audience] can ________.
 - They should usually be small enough that they will be acheived in 1 Sprint.
@@ -31,20 +33,20 @@ There are a handful of key goals for VSA Sprint Objectives:
 - Move any good ideas that you want to keep track of but won't be focusing on this sprint to your ZenHub backlog to evaluate in the future.
 
 
-# Agile Ceremonies
+## Agile Ceremonies
 
-## Ceremonies Overview
+### Ceremonies Overview
 
 VSA teams work in a 2 week cycle known as a Sprint. During a Sprint, the team assigns and commits to tasks that can be completed within this time frame. In order to deliver the best business value, there are multiple Agile Ceremonies in the Sprint.  Agile Ceremonies are timeboxed meetings that happen throughout the Sprint. The ceremonies include **Daily Standup, Sprint Planning, Backlog Grooming, Sprint Review,** and **Sprint Retrospective.** Below are the descriptions of each. 
 
 Details on the ceremonies can be found in the [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/delivery/agile-ceremonies-overview.md)
 
-## Ceremonies Checklist
+### Ceremonies Checklist
 
 In order to make sure value is attained in each ceremony, VSA teams also have an [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/delivery/agile-checklist.md). 
 
 
-# Product Requirements
+## Product Requirements
 
 Product requirements are the backbone of every VSA team: 
 
@@ -55,15 +57,15 @@ Product requirements are the backbone of every VSA team:
 
 Essentially, a requirement is a way to describe what needs to be implemented. Requirements need to be elaborated in enough detail to provide a clear understanding of the need, but flexible enough to change throughout the product’s lifecycle and to accommodate the ever-changing landscape of the industry. On VSA, requirements are broken down into 3 categories, **Epics, Issues, and Bugs**
 
-## Epics
+### Epics
 
 Epics are a high level business needs and expressed the strategic intent in plain, clear language. Hhere is the [EPIC TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/epic-issue.md) 
 
-## Issues
+### Issues
 
 Issues (also known are User Stories) are decomposed Epics that can be completed within a single sprint. Issues describe a specific functionality that delivers direct business value. Here is the [USER STORY TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/user-story-template.md)
 
-## Bugs
+### Bugs
 
 Bugs are errors found in usage of the VSA Products. Here is the [BUG TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/bug-issue.md)
 
