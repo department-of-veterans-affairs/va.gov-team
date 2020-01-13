@@ -19,16 +19,17 @@ Tell us your name and a little about your service history.
 ## Usability Test
 
 ### Scenario
-Let's imagine that you need urgent care and want to visit a local facility that takes your VA benefits. For the sake of this test, you are located in Washington D.C.
+Let's imagine that you [insert illness here] and want to visit a local facility that takes your VA benefits. For the sake of this test, you are located in Washington D.C.
 
 **(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
 
 We will use a prototype to walk through a few steps in this scenario so not all links on the page will be clickable. Be sure to move a bit slower than you normally would on the web and talk me through what you are thinking.
 
 ### Task 1 - Search
-Let's imagine that you have a fever and want to find a local walk-in urgent care location. What would you do on this page first?
+Let's imagine that you have a fever and want to find a place to get care as quickly as possible. What would you do on this page first?
 
-I noticed you chose [whichever location they chose]. Will you talk about why you made that choice?
+I noticed you chose [whichever type/location they chose]. Will you talk about why you made that choice?
+[If they chose VA Health, ask them to select an option that would provide quicker care.]
 
 Go ahead and complete your search.
 
@@ -44,9 +45,11 @@ How would you summarize this document in your own words?
 What questions do you have after reading this document?
 
 ### Task 4 - Choose Pharmacy
-Let's imagine that you had your visit with [whichever location they chose] and they prescribed medication. How would you find a local pharmacy?
+Let's imagine that you had your visit with [whichever location they chose] and they prescribed medication. What would you do to fill that prescription?
 
 [If they notice the PDF alert] Take a moment to read that alert and let me know your thoughts on it.
+
+[Do we need different langauge for the pharmacy alert vs urgent care facilities?]
 
 What factors would help you determine which pharmacy to visit?
 
@@ -54,7 +57,7 @@ What factors would help you determine which pharmacy to visit?
 ## Post-test Questions 
 I have just a few more questions to ask you before we finish up today.
 1. [If they did NOT notice PDF alert] I noticed you did not interact with the alert message that appeared when searching for a clinic to visit. Will you go [through task 1]  and tell me what your focus lands on? What are your thoughts on the PDF? [ask Task 3 questions]
-2. How would you describe the difference in a "walk-in" and a "full-service" urgent care location.
+2. Do these make sense [list OCC labels] -- Do you know what Community Care is? -- How would you get additional info about your benefits -- what else would be helpful etc etc (help desk / benefits help)
 3. How would you rate the overall clarity of the PDF?
 4. How prepared do you feel to visit a facility after using this tool?
 5. What would you change about this protototype?
