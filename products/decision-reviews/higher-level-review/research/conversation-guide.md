@@ -65,7 +65,7 @@ Intro HLR page**
 Intro question: take a look at this page and tell me what you think the main purpose of this page is, and what actions can you take on this page?
 (Provide user with the necessary context for a Higher Level Review appeals process). 
 
--Scenario 1: imagine that a benefit that you have applied for has been denied. Lets say the issue in question in this scenario is ringing in your ears (also called Tinnitus). How would you go about disputing this decision? Please walk me through how you would go through this process. Please remember to talk out loud to me, as you move through this process, so I can follow what you are experiencing on each page, what you are trying to accomplish, what you are thinking, and show me what you would do on each page in order to get through this process.
+-Scenario 1: imagine that a benefit that you have applied for (ringing in the ears - also called Tinnitus) has been denied. How would you go about disputing this decision? Please show me how you would do this on this website. Please remember to talk out loud, so I can understand what you are thinking, what you are experiencing, and what you are trying to accomplish. Show me what you would do on each page in order to get through this process.
 
 Mention: (If you have any questions, please ask me any time. And finally - remember this is not a test of you - we are doing this usability test to understand how we can improve our website and make it easier to use.
 Since this is a prototype, not all links are clickable or active, but I will guide you, if needed.) 
