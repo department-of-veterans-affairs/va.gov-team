@@ -1,6 +1,7 @@
 # VSP Content Team 
 
 *Last updated: Jan. 6, 2020*
+
 *Owned by: Content & IA*
 
 Hello! In this folder, you'll find ...
@@ -9,12 +10,12 @@ Hello! In this folder, you'll find ...
 
 ## How to Reach Us
 
-Who we are
-Peggy Gannon, Content Editor
+**Who we are**
+**Peggy Gannon, Content Editor**
 Slack: @Peggygannon
 GitHub: 
 
-Megan Kelley, Product Manager
+**Megan Kelley, Product Manager**
 Slack: @Megan Kelley
 GitHub: 
 
