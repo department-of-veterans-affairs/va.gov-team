@@ -119,23 +119,23 @@ Alright, we're recording!
 
 ### Elijah 
 - Intro
-- ??
-- User questions (above)
+- CMS: 
+   - What has the experience been like integrating their very different product into the platform?
 
 ### Kam
 - Intro
-- ??
-- User questions (above)
+- Longer-lived instances (impact, utility)
+- Integrating brand new back end to `vets-api` (what has it been like?)
 
 ### Boris
 - Intro
-- ??
-- User questions (above)
+- What's possible? What are the constraints?
+- Future of devops at VA at large?
+- Connecting with other groups at VA, especially when there are incidents (moving quickly, transparency)
 
 ### Nick
 - Intro
-- ??
-- User questions (above)
+- General questions, FE experience, has had visibility into multiple large efforts
 
 ### Daniel Shawkey
 - Intro
