@@ -60,9 +60,9 @@ I have just a few more questions to ask you before we finish up today.
 2. Do you know what Community Care is?
 3. What comes to mind when I use the term "In Network?"
 4. I have a list of terms I want to ask about. Will you tell me if they make sense to you or what they may be used for?
-- VA Community Care (In Network)
-- VA Community Care Pharmacy (In Network)
-- Urgent Care vs Retail/Walk-in Care
+  - VA Community Care (In Network)
+  - VA Community Care Pharmacy (In Network)
+  - Urgent Care vs Retail/Walk-in Care
 5. How would you rate the overall clarity of the PDF?
 6. How would you get additional info about your benefits? What else would be helpful to see regarding your benefits?
 7. How prepared do you feel to visit a facility after using this tool?
