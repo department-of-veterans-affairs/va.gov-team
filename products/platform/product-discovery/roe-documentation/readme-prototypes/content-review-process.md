@@ -1,7 +1,8 @@
 # VSP Content Review Process
 
 *Last updated: Jan. 6, 2020*
-Owned by: Content & IA
+
+*Owned by: Content & IA*
 
 This document will help all teams working on VA.gov understand when you should engage Content resources for review and support.
 
