@@ -85,9 +85,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Conduct a search in prototype - 5  minutes
 
-**Ask - so far we've looked at this information on a desktop computer.  Do you normally conduct this kind of research on a desktop computer, or would you access this on your phone?**
+**Participant question:** *so far we've looked at this information on a desktop computer.  Do you normally conduct this kind of research on a desktop computer, or would you access this on your phone?*
 
-Direct to mobile or desktop prototype
+- Direct participant to mobile or desktop prototype, based on response above
 
 - Take a look at the content on this page. Tell me what you think this page is for, what you can do here.  Think aloud as you look.
 - What are your thoughts on the search criteria?
@@ -97,6 +97,7 @@ Direct to mobile or desktop prototype
 
   - Again, take a look at the content on this page. Don't click on anything just yet.  Tell me what you're looking at, what you can do here.  Think aloud as you look.
   - If you wanted to manipulate the results in any way, do you see a way to do that?
+  - Does the information about each school feel complete to you?
   - Is the meaning of each piece of information in the card clear to you?
   - If you wanted to see the next set of results, how would you do that?
 
@@ -117,18 +118,25 @@ Direct to mobile or desktop prototype
 
 ## Third Task: Compare schools and change criteria - 8 minutes
 
-- From the search results, select schools to compare
-- View comparison and talk me through the data
-- Tell me what you would do next, now that you have this information
-- Remove school from comparison
-- Go back to search results, and start a new search
+- If they didn't notice the add to compare button:
+  - Each card has a button on it - did you notice it? If not, why do you think not?
+- If you were to click on that button, which piece of information are the most valuable for you to compare across schools?
+-  Go ahead and select some schools to compare. Was that what you expected to happen?
+  - *Participant may click on buttons that aren't clickable, guide them to the correct hotspots if so*
+- Go ahead and view the schools you've selected
+- Tell me about this screen - what do you see here, what do you think you can do?
+- What are your thoughts on the way this information is presented?
+- How would you go about updating this list? 
+- Now that you have this information, what would you do next?
+- Imagine you want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
 
 ### Things to watch for:
 
+- Why didn't they notice the Add to compare button?
 - How many schools does the participant want to compare?
 - Which data points is the participant most interested in comparing?
-- What would the participants next step be, once they have all the information?
 - Does the participant understand how to update their comparison?
+- What would the participants next step be, once they have all the information about the school they're interested in?
 - Does the participant understand how to start a new search?
 
 ## Post-Task Interview - 5 minutes
@@ -138,7 +146,7 @@ Direct to mobile or desktop prototype
 
 ## Thank-You and Closing - 2 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
 Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research sesson? 
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
