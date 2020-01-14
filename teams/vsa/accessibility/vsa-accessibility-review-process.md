@@ -2,7 +2,13 @@
 
 For reference: [508, Accessibility, and Inclusive Design Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
 
-**Please note:**  <br/>This review process is a conversation. Please contact Jennifer Strickland in Slack with suggestions, challenges, or any other questions/concerns. 
+<hr>
+
+**Please note: VSP is iterating on their review process. We expect the next iteration at the beginning of February.** 
+
+<hr>
+
+This review process is a conversation. Please contact Jennifer Strickland in Slack with suggestions, challenges, or any other questions/concerns. 
 
 ## Table of Contents
 
