@@ -21,7 +21,8 @@ Tell us your name and a little about your service history.
 ### Scenario
 Let's imagine that you have had flu-like symptoms and want to visit a local facility that takes your VA benefits. For the sake of this test, you are located in Washington D.C.
 
-**(share link)** I'm going to share a link with you. Once it loads, will you share your screen with me?
+**(share link)** https://vsateams.invisionapp.com/share/EZVJMETDFTK#/screens/400664663
+I'm going to share a link with you. Once it loads, will you share your screen with me?
 
 We will use a prototype to walk through a few steps in this scenario so not all links on the page will be clickable. Be sure to move a bit slower than you normally would on the web and talk me through what you are thinking.
 
