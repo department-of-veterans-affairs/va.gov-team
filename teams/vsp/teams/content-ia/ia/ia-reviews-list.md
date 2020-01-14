@@ -4,7 +4,7 @@ List of projects and where the IA review is documented.
 
 Team | Project | IA Review Completed | IA Review Documentation | Notes
 --- | --- | --- | --- | ---
-Caregivers | 10-10cg Modernization | - | - | -
+Caregivers | 10-10cg Modernization | in progress | - | -
 BAM 2 | Medical Device Ordering | - | - | 1/14/20 - provided draft content structure to team to aid in refining design and prototype.  Will complete final IA review once research and designs are complete. 
 eBenefits | View Dependents | in progress | - | Moving to root level tool, will include add/manage features
 Websites Team | Forms Search Landing Pages | in progress | - | Impacted by redirect issue for Forms Search page
