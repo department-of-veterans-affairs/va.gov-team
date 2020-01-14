@@ -133,7 +133,7 @@ Each application or logical section of the site will have a heading and a detail
 #### Open issues identified by VA 508 office
 
 * [Sitewide - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
-**Opened:** June 18, 2019 | **Severity:** 508-defect-1
+**Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 * [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
@@ -190,7 +190,7 @@ Each application or logical section of the site will have a heading and a detail
 #### Open issues
 
 * [[SCREENREADER]: Alert message for bad submit is not read out to assistive devices like JAWS or VoiceOver - #1081](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1081)<br/>
-**Opened:** August 19, 2019 | **Severity:** 508-defect-1
+**Opened:** August 19, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 * [[COLOR CONTRAST]: Subway map numbers do not meet 4.5:1 ratio for contrast - #1079](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1079)<br/>
 **Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 
