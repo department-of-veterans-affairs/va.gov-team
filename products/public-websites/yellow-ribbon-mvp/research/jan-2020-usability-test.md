@@ -11,7 +11,7 @@ Public Websites team, Yellow Ribbon (YR) content migration
 
 - Yellow Ribbon funding is a component of the Post 9/11 GI-Bill education benefit that awards Veterans additional funds toward their education.  Schools who participate in YR agree to contribute a dollar amount toward tuition for a set number of applicants, and the VA matches those funds for the beneficiary.  More details about the program are available in the [Education Benefit Hub](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 - The current front end (FE) experience requires users to navigate one page per state ([example here](https://www.benefits.va.gov/gibill/yellow_ribbon/2019/states/ca.asp)) and manually search a static table to find benefit information.  Our MVP seeks to improve this experience with a dynamic tool that Veterans can use to find schools they're interested in, and select a few to compare.
-- Yellow Ribbon information is also available in the [GI Bill Comparison Tool](https://www.va.gov/gi-bill-comparison-tool/) (GIBCT) via the GI Data Service (GIDS), but the YR data hasn't been updated since November 2018.  Process updates are underway so that GIDS will be updated in early 2020 (target Jan).
+- Partial Yellow Ribbon information is also available in the [GI Bill Comparison Tool](https://www.va.gov/gi-bill-comparison-tool/) (GIBCT) via the GI Data Service (GIDS). Our solution will utilize the GIDS API to align the information available to Veterans across tools.
 - The GIBCT, maintained by the Booz-Allen Hamilton (BAH) team, is slated for updates in 2020.  Those updates may include improving the YR user experience. Our MVP will serve as the primary method for Veterans to find YR information until the GIBCT has a comparable experience.
 
 ### Research questions
@@ -41,7 +41,7 @@ Public Websites team, Yellow Ribbon (YR) content migration
 ## Method	
 
 - Research will take place in the form of combined interview and task-based usability testing
-- Users will engage with a live tool in our staging environment
+- Users will engage with a clickable InVision prototype
 - The sessions will be remote-modterated using Zoom. This method will allow us to observe users using our solution in their own environment, as well as test participants across geographic areas.	
 
 ## Participants and Recruitment	
@@ -63,11 +63,16 @@ Will work with Perigean for recruiting
 
 ## Timeline 	
 
-- Test beginning week of **TBD, hoping for 1/25/2020**
-- Prototype will be ready **XX/XX/2020**
+- Test beginning week of 1/27/2020
+- Prototype will be ready 01/22/2020
 - Sessions estimated to be 30 minutes
-- Availability: **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.	
-- Pilot: **XX/XX/2020 with TEAM MEMBER NAME**
+- Availability:
+  - Monday 1/27, 9am-8pm Eastern
+  - Tuesday 1/28, 9am-1pm Eastern, 2:30-3:30pm Eastern
+  - Wednesday 1/29, 9am-11:30am Eastern, 7-9pm Eastern
+  - Thursday 1/30, 9am-5pm Eastern
+  - Friday 1/31, 8am - 4pm Eastern
+- Pilot: Will update when scheduled, targeting 1/22 or 1/23
 
 
 ## Team Roles	
@@ -92,15 +97,18 @@ Please list the people who will be serving in each role. **Include the primary p
   - Kelson Adams kadams@governmentcio.com
   - Shawna Hein shawna.hein@adhocteam.us
   - Jennifer Lee jennifer.lee27@va.gov
+  - Matt Self matthew.self2@va.gov
+  - Luke Tickner lucas.tickner@va.gov
+  - Anne Hurley ahurley@governmentcio.com
+  - Tammy Hurley tammy.hurley1@va.gov
   - Amy Knox knox_amy@bah.com
-  - **anyone else?**
 
 ## Resources	
 
 - Project Epic: 	
   https://github.com/department-of-veterans-affairs/va.gov-team/issues/3703	
 - Convo Guide	
-  *Discussion guide should live in the appropriate vetsdotgov-team product folder, simply paste a link to it here*	
+  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/jan-2020-conversation-guide.md	
 - Synthesis	
   *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
