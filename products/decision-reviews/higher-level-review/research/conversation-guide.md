@@ -149,12 +149,12 @@ Intro HLR page**
 - Do you have any comments about this page?
 
 When process is finished: 
--What do you think about this process? 
--What was confusing or unclear? 
--What info along the way was particularly helpful?
--What info is missing throughout the process?
--What would have been helpful to add to this process/these pages?
--Any other comments? 
+- What do you think about this process? 
+- What was confusing or unclear? 
+- What info along the way was particularly helpful?
+- What info is missing throughout the process?
+- What would have been helpful to add to this process/these pages?
+- Any other comments? 
 
 ### Things to watch for:
 
