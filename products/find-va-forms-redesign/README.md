@@ -20,3 +20,29 @@ VA forms stakeholder working group includes:
 - Vaccaro-Palomaki, Missie <Missie.Vaccaro@va.gov>; 
 - Smith, Gail T. (VACO) <gail.smith@va.gov>
 
+
+
+## Status/Decisions:
+
+__01/14/2020__
+
+__Notes from Mikki re IA, URLs, canonicals, and redirects__
+Recap from to our discussion with Michael Bastos, @ncksllvn @kelsonic and @jenniferlee-dsva on 1/14/20:
+
+We will move forward with Option A above with some additional details.
+
+__Option A__
+
+The core search form URLs listed below will be permanently redirected (301) to the new URL: www.va.gov/find-forms/
+
+https://www.va.gov/vaforms/
+https://www.va.gov/vaforms/default.asp
+https://www.va.gov/vaforms/search_action.asp
+https://www.va.gov/vaforms/search_action.asp[all-parameter-variations]
+To support the technical implementation/API work, a duplicate version https://www.va.gov/vaforms/search_action.asp will be created for the API to hit and collect data.
+
+URL: www.va.gov/find-form-data
+This new duplicate page must have a "noindex" tag and be excluded from the xml sitemap.
+The many child URLs that act as search landing pages for specific forms – i.e. https://www.va.gov/vaforms/form_detail.asp?FormNo=22-1990 - will not be impacted by this form search work. Each individual variation/URL will be redirected to a specific new URL. This will be mapped out as part of the form search landing page work.
+
+__mm/dd/yyyy__
