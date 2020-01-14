@@ -202,6 +202,13 @@ Only move on to these if there's time.
 - (If applicable) Answer any additional technical discovery questions #2455
 - (If time) Refactor Vet360 Profile form components to use SchemaForm #4068
 
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
+- [ZOOM]: Text Appointments - Need a space between input and label in modal window #2435
+- Formation - CSS issue for checkboxes and radio inputs, text should be inset #4489
+- Clean up "dashboard" references in code throughout repo #2270
+
 ### APO/FPO/DPO
 
 - Hand off tickets for application updates #4374
@@ -209,13 +216,6 @@ Only move on to these if there's time.
 ### Error Matrix
 
 - Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
-
-### Monitoring, maintenance, bug fixes, hardening, 508, etc.
-
-- [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
-- [ZOOM]: Text Appointments - Need a space between input and label in modal window #2435
-- Formation - CSS issue for checkboxes and radio inputs, text should be inset #4489
-- Clean up "dashboard" references in code throughout repo #2270
 
 ### Long term planning
 
