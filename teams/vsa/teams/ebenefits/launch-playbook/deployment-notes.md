@@ -11,15 +11,13 @@ to a small percentage of users to monitor errors closely.
 
 Flipper UI is essentially a React component that we use to wrap our components and can gate our components for
 a percentage of users. It provides a value to the front end that we can use to conditionally show some other
-component to those users so that they do not see nothing when the page loads.
+component to those users so that they see somthing other than the feature when the page loads.
 
-Flipper UI works based on some data in out database, not EVSS
+Flipper UI works based on data in our database, not EVSS
 
-## When deploying the static page on Drupal, do we release in chunks?
+## When deploying the static page on Drupal, do we release the page progressively?
 
-Static pages on Drupal are completely stqtic, there is no progressive deployment with our Drupal implimentation.
-Thus our content would need to be adjusted to account for both users that have access to the feature and also
-account for users that do not have access to the feature.
+Static pages on Drupal are completely static, there is no progressive deployment on a page level with our Drupal implimentation. 
 
 
 ## Possible solution paths
