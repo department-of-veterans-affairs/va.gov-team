@@ -213,7 +213,7 @@ Only move on to these if there's time.
 - [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
 - [ZOOM]: Text Appointments - Need a space between input and label in modal window #2435
 
-**Long term planning**
+### Long term planning
 
 - Work on long term planning (Justin — this is **not** something you should include in your sprint report of team deliverables)
 
