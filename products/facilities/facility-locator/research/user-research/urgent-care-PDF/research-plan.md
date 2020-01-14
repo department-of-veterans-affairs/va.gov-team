@@ -8,7 +8,7 @@ The Facility Locator is VA's single source of truth for customers to find VA fac
 
 #### Objective:
 
-The objective of this study is to gain insight on how Veterans receive content from the Urgent Care PDF. We will learn if and how Veterans understand the PDF. The results from this study will inform how to display an Urgent Care PDF download alert in the Facility Locator UI. 
+The objective of this study is to gain insight on how Veterans receive content from the Urgent Care PDF. We will learn if and how Veterans understand the PDF so that we may iterate on the document with the Office of Community Care. The results from this study will inform how to display an Urgent Care PDF download alert in the Facility Locator UI. 
 
 Additionally, we will learn how users understand the difference between VA Health and Non-VA Health facilities as shown in the Facility Locator UI.
 
