@@ -160,14 +160,14 @@ Sprint 13 is 9 days with the MLK Day holiday.
 1. Get address validation ready for QA
 2. Share, refine, and finalize designs for Profile 2.0
  - If applicable, answer technical discovery questions
-3. Hand off APO/FPO/DPO tickets to benefits and memorials teams
+3. 508/Accessibility tickets
+4. Hand off APO/FPO/DPO tickets to benefits and memorials teams
 
 **Not required to meet sprint objectives**
 
 Only move on to these if there's time.
 
-1. Refactor Vet360 profile components
-2. 508/Accessibility tickets
+1. Refactor Vet360 profile components 
 
 **Other things to note**
 
@@ -212,6 +212,7 @@ Only move on to these if there's time.
 
 - [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
 - [ZOOM]: Text Appointments - Need a space between input and label in modal window #2435
+- Formation - CSS issue for checkboxes and radio inputs, text should be inset #4489
 
 ### Long term planning
 
