@@ -162,7 +162,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 1. Get address validation ready for QA
 2. Share, refine, and finalize designs for Profile 2.0
 3. (If applicable) Technical discovery questions for Profile 2.0
-3. 508/Accessibility tickets
+3. Monitoring, maintenance, bug fixes, hardening, 508, etc.
 4. Hand off APO/FPO/DPO tickets to benefits and memorials teams
 
 **Not required to meet sprint objectives**
@@ -215,6 +215,7 @@ Only move on to these if there's time.
 - [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
 - [ZOOM]: Text Appointments - Need a space between input and label in modal window #2435
 - Formation - CSS issue for checkboxes and radio inputs, text should be inset #4489
+- Clean up "dashboard" references in code throughout repo #2270
 
 ### Long term planning
 
