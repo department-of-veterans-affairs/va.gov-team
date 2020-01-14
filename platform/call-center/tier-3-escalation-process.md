@@ -14,15 +14,6 @@ Once a Tier 3 issue has been identified, the Call Center Team assigns a priority
   * High: 10 or more total reported issues. 
   * Urgent: 10 or more reported issues in one day. This is considered a trending issue for VA.gov call centers. 
 
-## Compiling Data
-Once a Tier 3 issue has been identified, a spreadsheet will be created by the Call Center team containing:
-* Date issue reported
-* Ticket number
-* Description of issue as stated by the customer
-* Topic and Sub-topic of the issue
-* ALL PII WILL BE REMOVED
-
-
 ## Assigning Issues
 Once the data from each source has been entered onto the spreadsheet, copy the information to paste it in a ZH (ZenHub) ticket that will be created.  The criteria for creating a ZH ticket is as follows:
 * Issue Title: Brief description of issue
@@ -30,6 +21,14 @@ Once the data from each source has been entered onto the spreadsheet, copy the i
 * Label: Call Center and any other department that needs research/resolve the issue
 * Assignees: All Call Center team members and individuals associated with the team that is researching/resolving the issue.
     * If the Call Center team member is unsure of who the ticket should be assigned to, then it will be assigned to Triage for determination.
+    
+    ## Compiling Data
+Once a Tier 3 issue and  has been identified, a spreadsheet will be created by the Call Center team containing:
+* Date issue reported
+* Ticket number
+* Description of issue as stated by the customer
+* Topic and Sub-topic of the issue
+* ALL PII WILL BE REMOVED
 
 ## Status Requests
 If a Call Center team member has not received an ETA for research or resolution from the appropriate team within 48 business hours, 
