@@ -9,7 +9,7 @@ As an example progressive rollout was used with direct deposit because they were
 users would recieve as well as the types of errors they would recieve so they wanted to release the feature
 to a small percentage of users to monitor errors closely.
 
-Flipper UI is essentially a React component that we use to wrap our components and can gate our components for
+Flipper UI is essentially some conditional logic that we use to wrap our components and can gate our components for
 a percentage of users. It provides a value to the front end that we can use to conditionally show some other
 component to those users so that they see somthing other than the feature when the page loads.
 
