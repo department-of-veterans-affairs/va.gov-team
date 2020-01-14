@@ -47,5 +47,26 @@ This new duplicate page must have a "noindex" tag and be excluded from the xml s
 The many child URLs that act as search landing pages for specific forms – i.e. https://www.va.gov/vaforms/form_detail.asp?FormNo=22-1990 - will not be impacted by this form search work. Each individual variation/URL will be redirected to a specific new URL. This will be mapped out as part of the form search landing page work.
 
 
+__01/14/20__
+
+Summary from  call with @kevwalsh @ncksllvn @kelsonic @Karak888 and @jenniferlee-dsva   
+
+__Problem discussed: How should/do we build the form detail landing pages in Drupal, if we use Drupal?__
+
+We walked through the form detail landing page content fields.  There are 2 kinds of form detail landing pages.
+
+- 1/ Template basic landing page – dynamic. 
+
+- 2/ Custom landing page – “additive” of the template basic version: a mix of the same dynamic fields, plus customized content. There are about 25- 30 of these custom landing pages for MVP. 
+
+Kevin showed an example in the VAMC Pittsburgh site – how content is displayed in the CMS AX when there’s a mix of dynamic content from facilities API and other editable content fields. 
+
+- This would be similar to how our custom landing pages could be built in the CMS for authoring and maintenance. 	
+- Kevin’s initial informal assessment: low LOE for CMS team. (Unanswered Q: what’s the timeframe, would this be available for launching these landing pages in Q1?
+- This option could be used for housing the template basic form landing pages as well (except nothing would be editable), and it would allow us to serve via CMS new basic pages with Mikki’s updated, modernized URLs. 
+
+Nick brought up a potential option where everything, including customizable content, lives in GH/MD files. We didn’t discuss this option due to time.
+
+__Next step: follow up conversation to investigate Nick’s suggestion, and to finalize decision on which approach to use.__
 
 __mm/dd/yyyy__
