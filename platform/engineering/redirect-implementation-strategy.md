@@ -1,10 +1,6 @@
 # Redirect Implementation Strategy
 
-Last update: 12/13/19
-
-_12/13/19 — Megan updated to be inclusive of when URL changes are made in the Drupal CMS, which currently just fits into the server-side redirects within va.gov process below._
-
-_11/26/19 — Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
+Last update: 1/14/20 — see change history below
 
 ---
 
@@ -27,7 +23,7 @@ As a veteran, I want to make sure that my old www.something.va.gov or www.va.gov
 |www.va.gov/*| www.va.gov/* | Server side redirect|
 |benefits.va.gov/* | www.va.gov/* | Client side page-level redirect (temporary solution)|
 |pittsburgh.va.gov/* | www.va.gov/* | Server side for entire subdomain (not page-level)|
-|benefits.va.gov/* | benefits.va.gov/* | Do not expect to route this through platform team|
+|ebenefits.va.gov/* | benefits.va.gov/* | Do not expect to route this through platform team|
 
 **The following subdomains are ones where we are able to implement server-side redirects.**
 
@@ -86,7 +82,7 @@ _Any other notes_
 - The previous list of this type of redirects have been re-implemented server-side (October/November 2019). 
 - Level of difficulty: N/A
 
-### 3) Server-side redirects from non-www. subdomains
+### 3) Server-side redirects from subdomains (subdomain.va.gov)
 
 _When to do this?_
 - Server-side redirects are preferred when we have the required technical contacts and access. For page-level redirects from subdomains, we will use client-side redirects temporarily. For redirects of entire subdomains, server-side (as outlined here) is strongly preferred/required. 
@@ -101,13 +97,13 @@ _What team is responsible?_
 
 _Any other notes?_
 - Note that in these full domain redirect cases, ATO and ESECC approval must be considered
-- For the majority of page-level redirects from non-www. subdomains, this is not feasible in the short term because it requires access to and relationships with technical stakeholders on the relevant teams. These contacts should be actively sought out via DEPO.
+- For the majority of page-level redirects from subdomains (subdomain.va.gov), this is not feasible in the short term because it requires access to and relationships with technical stakeholders on the relevant teams. These contacts should be actively sought out via DEPO.
 - Level of difficulty: high (dependent on VA stakeholders)
 
-### 4) Client-side redirects for non-www. subdomains
+### 4) Client-side redirects for subdomains (subdomain.va.gov)
 
 _When to do this?_
-- When a page-level redirect is needed on a non-www. subdomain when we don’t have a technical or TeamSite contact to help us implement that server-side, and when the redirect needs to happen before such contact can be made.
+- When a page-level redirect is needed on a subdomain (subdomain.va.gov) when we don’t have a technical or TeamSite contact to help us implement that server-side, and when the redirect needs to happen before such contact can be made.
 
 _How does this work technically?_
 - [Vets-website domains list](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/proxy-rewrite/proxy-rewrite-whitelist.json) (This is a list of domains that load our header/footer, but is not comprehensive of domains that load our JavaScript).
@@ -135,13 +131,21 @@ _Any other notes_
 
 ## Areas to refine/things to do
 
-- Improve the redirect process from non-www. subdomains such that server-side redirects can be the default.
+- Improve the redirect process from subdomains such that server-side redirects can be the default.
 - Make contacts and relationships with TeamSite engineers ~to explore how to archive or delete legacy pages so that content editors don’t continue to update them.~
 - ~Find out what happens when a TeamSite page with a client-side redirect to www.va.gov/ is archived or deleted.~
-- _Above points (crossed out) have been tested 11/19, we won't be deleting or archiving, see full details above under "4) Client-side redirects for non-www. subdomains - Any other notes"_
+- _Above points (crossed out) have been tested 11/19, we won't be deleting or archiving, see full details above under "4) Client-side redirects for subdomains - Any other notes"_
 - Consider using welcome modals for cases where an entire subdomain is redirected. Explore.va.gov does this via [query parameter](https://www.va.gov/?from=explore.va.gov).
 - Gain a better understanding of analytics and SEO impacts of implementing and changing redirects.
 - Make Drupal CMS the source of truth for server-side www.va.gov/ redirects.
 - Document prefix vs. match implementation and where redirects are stored (to be linked in this document). 
 - Investigate Gateway redirects as another option.
-- Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for non-www
+- Investigate what our process was in order to get our header/footer JavaScript file included in TeamSite pages (which we now also use for client-side redirects). Maybe there's a clue there as to how to implement server-side redirects for subdomains
+
+## Change history
+
+_1/13/20 — Megan made some tweaks for clarification._
+
+_12/13/19 — Megan updated to be inclusive of when URL changes are made in the Drupal CMS, which currently just fits into the server-side redirects within va.gov process below._
+
+_11/26/19 — Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
