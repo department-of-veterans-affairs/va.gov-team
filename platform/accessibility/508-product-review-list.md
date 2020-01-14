@@ -377,8 +377,6 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open issues being redesigned
 
-* [[KEYBOARD]: Text Appointments - Focus must return to Edit button when modal dialog is closed - #2427](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2427)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-2
 * [[KEYBOARD]: Text Appointments - Skip link targets need tabindex -1 for IE11 to behave properly - #2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429)<br/>
 **Opened:** October 14, 2019 | **Severity:** 508-defect-2
 * [[SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog - #2430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2430)<br/>
