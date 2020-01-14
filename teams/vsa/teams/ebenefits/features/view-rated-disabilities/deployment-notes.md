@@ -27,6 +27,8 @@ account for users that do not have access to the feature.
 Some of the common scenarios for building experiences on VA.gov lend themselves to a particular solution with
 Flipper UI. Here are some of those scenarios - 
 
-### Unauthenticated page and a separate, full page, React app
+### Unauthenticated page leading to a full page React app
 
+When we need to give the user some information before they enter a full page React app we often do it with an unauthenticated page. This presents a difficulty with using Flipper UI for a progressive rollout since we can't block the user from getting to the unauthenticated page. A possible solution, and most likely the most simple solution, is to make the content on the unauthenticated page agnostic as to if the user will have access to the feature. This prepares them for the idea that when they hit the React app they may not see the information they are looking for. An example of this is the implimentation path taken by the direct deposit team where they did exactly this.
 
+Another possible solution, albeit a more complicated one, is to isolate the area of the unauthenticated page that has content that specifically links to the React app and wrap this content inside a React [widget](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/common-tasks/new-widget) and then wrap that widget inside a Flipper UI component. This will allow you to access the flipper value throgh redux and change this peice of content for users who are gated from the feature. 
