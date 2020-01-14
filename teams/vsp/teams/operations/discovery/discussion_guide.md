@@ -136,21 +136,18 @@ Alright, we're recording!
 
 ### Daniel Shawkey
 - Intro
-- ??
 - User questions (above)
 
 ### Open Office
 - Intro
-- ??
 - User questions (above)
 
-### Joanne 
+### Joanne and Neddie 
 - Intro
-- ??
+- They will want how everything works, they need a larger understanding then a VFS teams. This is so they can get the data/ messaure what we are building. 
 - User questions (above)
 
 ### Silvio 
 - Intro
-- ??
 - User questions (above)
 
