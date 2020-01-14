@@ -464,7 +464,7 @@ Each application or logical section of the site will have a heading and a detail
    **Opened:** January 10, 2020 | **Severity:** 508-defect-0 - **_Showstopper_**
 * [[SCREENREADER, COGNITION]: Screenreader experience of reading service-connected or not disabilities isn't clear](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4784)<br/>
    **Opened:** January 13, 2020  | **Severity:** 508-defect-2 - **_Serious_**
-   * [[SCREENREADER] Individual disabilities currently in individual <dl> would be improved in a single <dl>](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)<br/>
+* [[SCREENREADER] Individual disabilities currently in individual <dl> would be improved in a single <dl>](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)<br/>
    **Opened:** January 7, 2020 | **Severity:** 508-defect-3 - **_Minor_**
 
 ---
