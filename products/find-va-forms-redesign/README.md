@@ -42,7 +42,7 @@ https://www.va.gov/vaforms/search_action.asp[all-parameter-variations]
 To support the technical implementation/API work, a duplicate version https://www.va.gov/vaforms/search_action.asp will be created for the API to hit and collect data.
 
 URL: www.va.gov/find-form-data
-This new duplicate page must have a "noindex" tag and be excluded from the xml sitemap.
+This new duplicate page must have a "noindex" tag and be excluded from the xml sitemap. [JL note: this duplicate page can be removed once the API can point directly to the forms database, per Michael.] 
 The many child URLs that act as search landing pages for specific forms – i.e. https://www.va.gov/vaforms/form_detail.asp?FormNo=22-1990 - will not be impacted by this form search work. Each individual variation/URL will be redirected to a specific new URL. This will be mapped out as part of the form search landing page work.
 
 __mm/dd/yyyy__
