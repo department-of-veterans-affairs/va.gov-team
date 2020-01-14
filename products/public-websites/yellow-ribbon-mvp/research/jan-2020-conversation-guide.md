@@ -21,7 +21,7 @@
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Yellow Ribbon education benefits, and how you, as someone eligible to receive them, go about finding Yellow Ribbon schools. 
+Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Yellow Ribbon education benefits, and how you, as someone eligible to receive them, understand your benefits and you go about using them.
 
 Before we start, a few things I want to mention:
 
@@ -83,23 +83,35 @@ Before we look at the website, let’s start with a few warm-up questions.
 - How does the participant navigate the table on the state page? (Ctrl+f, manual scroll, etc)
 - What emotions/thoughts does the participant verbalize while looking at a table presentation of this data?
 
-## Second Task: Find relevant schools in prototype - 5  minutes
+## Second Task: Conduct a search in prototype - 5  minutes
 
-- Start on Yellow Ribbon Benefit hub page **on staging**
-- Navigate to the Yellow Ribbon School Finder
-- Enter criteria and view results
+**Ask - so far we've looked at this information on a desktop computer.  Do you normally conduct this kind of research on a desktop computer, or would you access this on your phone?**
+
+Direct to mobile or desktop prototype
+
+- Take a look at the content on this page. Tell me what you think this page is for, what you can do here.  Think aloud as you look.
+- What are your thoughts on the search criteria?
+- Let's imagine you live in California, and you're interested in finding an in-state school for a Bachelor's degree. Go ahead and see if you can find that.
+
+- After results are presented:
+
+  - Again, take a look at the content on this page. Don't click on anything just yet.  Tell me what you're looking at, what you can do here.  Think aloud as you look.
+  - If you wanted to manipulate the results in any way, do you see a way to do that?
+  - Is the meaning of each piece of information in the card clear to you?
+  - If you wanted to see the next set of results, how would you do that?
 
 ### Things to watch for:
 
-- How does the participant distinguish between the link to the GI Bill Comparison Tool and the Yellow Ribbon School Finder?
+- Does the particpant understand what this tool is for?
 
 - How does the participant react to the search criteria fields required to begin?
 
 - After results are presented:
 
-  - Does the participant notice they can sort the search results? Reaction to sort options?
+  - Does the participant notice without being prompted that they can sort the search results? Reaction to sort options?
   - Can the participant comfortably read the information presented in the cards?
   - Does the participant understand the information, specifically the number of students?
+  - Does the participant notice the Add to Compare button?
 
   
 
