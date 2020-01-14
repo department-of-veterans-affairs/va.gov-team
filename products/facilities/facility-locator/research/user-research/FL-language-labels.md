@@ -15,6 +15,7 @@ Card label (urgent care) | Urgent Care
 PDF Alert box | It is very important that you download or print this form and bring it to your visit
 
 ## VSP Content team recommendations
+
 Type | Language
 -----|----------
 Facility type drop down | Community Care facility
