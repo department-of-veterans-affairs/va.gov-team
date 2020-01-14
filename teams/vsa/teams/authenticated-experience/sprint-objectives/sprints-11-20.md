@@ -218,7 +218,7 @@ Only move on to these if there's time.
 
 ### Long term planning
 
-- Work on long term planning (Justin — this is **not** something you should include in your sprint report of team deliverables)
+- Samara to work on long term planning (Justin — this is **not** something you should include in your sprint report of team deliverables)
 
 ## Sprint 14 (1/29 - 2/11)
 
