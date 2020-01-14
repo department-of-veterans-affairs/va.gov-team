@@ -90,24 +90,28 @@ Great! Any questions before we get started?
 - **Please schedule a new appointment**
   - [ ] **UAT TASK:** *Confirm user can find & click the 'schedule a new appointment' button*
   
-- **Now, please choose primary care, sleep health, mental health, podiatry, or audiology TODO: confirm community care list**
+- **Now, please choose audiology, nutrition & food, optometry, primary care, or podiatry**
   - [ ] **UAT TASK:** *Confirm user can select any type of community care*
   - [ ] **UAT TASK:** *Confirm follow-up page shows if user selects 'sleep medicine'*
   
-- **Now, choose where you'd like to have this appointment**
-  - [ ] **UAT TASK:** *Confirm participant sees an accurate list of systems and facilities depending on registration*
-  - [ ] **UAT TASK** *Confirm participant is able to continue after selecting a facility. If at limit, confirm outstanding request.*
+- **Now, choose the Community Care option**
+  - [ ] **UAT TASK:** *Confirm participant sees VA / CC Choice Page*
+  - [ ] **UAT TASK** *Confirm participant skips VA / CC Choice Page when selecting podiatry*
   
 - **Next, choose when you'd like to be seen**
   - [ ] **UAT TASK:** *Confirm participant is able to advance calendar to next chunk of months*
   - [ ] **UAT TASK:** *Confirm participant is able to select up to three preferred times*
   - [ ] **UAT TASK:** *Confirm participant is able to select AM or PM for each preferred time*
   
-- **Now, please choose the reason for this appointment**
-  - [ ] **UAT TASK:** *Confirm 'additional info' textarea is hidden by default and shows once user selects a reason for appointment*
+- **(If registered at more than 1 system with CC scheduling) Please choose the location closest to where youd want to be seen**
+
+- **Now, please choose a preferred language for this appointment**
   
-- **Now, please choose how you'd like to be seen**
-  - [ ] **UAT TASK:** *Confirm 'additional info' textarea is hidden by default and shows once user selects a reason for appointment*
+- **Next, please enter details for your preferred provider, if you have one**
+  - [ ] **UAT TASK:** *Confirm 'provider info' questions are hidden by default & expand when 'yes' selected*
+  
+- **Now, please enter the reason for your appointment**
+  - [ ] **UAT TASK:** *Confirm 'reason' textarea is hidden by default and expands on selection of any reason*
   
 - **Lastly, please enter your preferred contact information**
   - [ ] **UAT TASK:** *Confirm that the prefilled email and phone are correct*
@@ -124,12 +128,8 @@ Great! Any questions before we get started?
   - [ ] **UAT TASK** *Confirm that the dashboard / list page shows the new request*
  
  ## Cancel Pending Appointment
-**Looking at this list, are there any confirmed or pending appointments that you need to cancel?**
-- If yes: Great, let's cancel it now
+**If you don't need the appointment we just requested, let's go ahead and cancel it**
   - [ ] **UAT TASK:** *Confirm user can cancel successfully or that user gets correct error message about calling in*
-- If not: OK, let's make another appointment and then come back to cancel it
-  - Take user through creating a new appointment request for a different type of care, then repeat cancel attempt on the new request
-
 
 ## Wrap-up
 
