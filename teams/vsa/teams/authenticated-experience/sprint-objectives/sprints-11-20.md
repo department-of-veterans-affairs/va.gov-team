@@ -159,7 +159,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 1. Get address validation ready for QA
 2. Share, refine, and finalize designs for Profile 2.0
- - If applicable, answer technical discovery questions
+3. (If applicable) Technical discovery questions for Profile 2.0
 3. 508/Accessibility tickets
 4. Hand off APO/FPO/DPO tickets to benefits and memorials teams
 
