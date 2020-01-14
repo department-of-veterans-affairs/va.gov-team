@@ -26,7 +26,7 @@ Thanks for joining us today! My name is Liz Lantz and I also have some colleague
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.  The more you can think out loud and share what you're thinking as you go through the session, the better.
 - [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
@@ -36,21 +36,18 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-## Warm-up Questions  - X minutes
+## Warm-up Questions  - 5-8 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
 ### For participants who have already used the Yellow Ribbon benefit:
 
 - I understand you've used your education benefits, which is great. Are you currently in school?
-- If yes:
-  - Where are you going to school, and what degree are you going for?
-- If no:
-  - Where did you go to school, and what degree did you receive?
+- Where are/did you going to school, and what degree?
 - How did you decide on that school and area of study?
-- Did you consider or apply any other schools? I'd love to learn more about your research and decision process once you knew you wanted to go to school
-  - How did Yellow Ribbon benefits play into your decision?
+- Did you consider or apply any other schools? I'd love to learn more about your research and decision process once you knew you wanted to go to school.
   - Was it clear to you how Yellow Ribbon fit with your other education benefits?
+  - How did Yellow Ribbon benefits play into your decision?
   - What specific methods did you use to research schools, and your VA education benefits?
 - If you can think back to when you were first contemplating going to school, or beginning the application process:
   - Do you recall how you first learned what VA education benefits were available to you, and how Yellow Ribbon fit into those benefits?
@@ -67,53 +64,67 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - What has your process been to research the benefits available to you, and schools where you can utilize those benefits?
 
+  - Have you encountered anything that made it harder, or easier, to do this research?
+  - Once you've got all the information you need, what will your next step be?
+
 - How does Yellow Ribbon fit into your decision making process as you choose schools to apply to?
 
   
 
-*Background info about the participant should have been provided by Coordinator already, so use this time to ask any other questions that you feel will help with the session. This warm-up is not required*
+## First Task: Find relevant schools in legacy Yellow Ribbon tables - 5 minutes
 
-## First Task: Find relevant schools in legacy Yellow Ribbon tables - X minutes
-
-- Start on Yellow Ribbon benefit hub page.
-- Find a school they're interested in, and tell me the information they find about it in terms of Yellow Ribbon
-  - If participant is interested in a state with a very small number of rows, once they have completed the task, ask them to react to a state like California with numerous rows.
+- Start on Yellow Ribbon benefit hub page **on production**.
+- Find a school they're interested in, and tell me the Yellow Ribbon benefit information for that school
+  - *If participant is interested in a state with a very small number of rows, once they have completed the task, ask them to react to a state like California with numerous rows.*
 
 ### Things to watch for:
 
-- Are the accordions easy for the participate to understand and navigate?
-- How does the participant navigate the table? (Ctrl+f, manual scroll, etc)
+- How does the participant understand and navigate the accordion pattern?
+- How does the participant navigate the table on the state page? (Ctrl+f, manual scroll, etc)
 - What emotions/thoughts does the participant verbalize while looking at a table presentation of this data?
 
-## Second Task: Find relevant schools in prototype - X minutes
+## Second Task: Find relevant schools in prototype - 5  minutes
 
-- Start on Yellow Ribbon Benefit hub page
-- Step 2
-
-### Things to watch for:
-
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Third Task: Compare schools - X minutes
-
-- Step 1
-- Step 2
+- Start on Yellow Ribbon Benefit hub page **on staging**
+- Navigate to the Yellow Ribbon School Finder
+- Enter criteria and view results
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- How does the participant distinguish between the link to the GI Bill Comparison Tool and the Yellow Ribbon School Finder?
 
-## Post-Task Interview - X minutes
+- How does the participant react to the search criteria fields required to begin?
 
-- Question 1
-- Question 2
+- After results are presented:
+
+  - Does the participant notice they can sort the search results? Reaction to sort options?
+  - Can the participant comfortably read the information presented in the cards?
+  - Does the participant understand the information, specifically the number of students?
+
+  
+
+## Third Task: Compare schools and change criteria - 8 minutes
+
+- From the search results, select schools to compare
+- View comparison and talk me through the data
+- Tell me what you would do next, now that you have this information
+- Remove school from comparison
+- Go back to search results, and start a new search
+
+### Things to watch for:
+
+- How many schools does the participant want to compare?
+- Which data points is the participant most interested in comparing?
+- What would the participants next step be, once they have all the information?
+- Does the participant understand how to update their comparison?
+- Does the participant understand how to start a new search?
+
+## Post-Task Interview - 5 minutes
+
+- Do you have any other thoughts or feedback you haven't had a chance to share yet?
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
