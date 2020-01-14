@@ -2,6 +2,7 @@
 This document houses all language suggested for use on the Facility Locator drop downs, alerts, and cards. 
 
 ## Office of Community Care recommendations
+Recommendations listed are included in a prototype tested January 15-17, 2020 [(research plan)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/research-plan.md).
 
 Type | Language
 -----|----------
