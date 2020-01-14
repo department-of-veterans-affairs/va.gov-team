@@ -151,6 +151,27 @@ Only move on to these if there's time.
 
 ## Sprint 13 (1/15 - 1/28)
 
+Sprint 13 is 9 days with the MLK Day holiday.
+
+### Order of priorities
+
+**Required to meet sprint objectives**
+
+1. Get address validation ready for QA
+2. Design exploration for Profile 2.0 & Initial technical discovery questions for Profile 2.0
+3. Hand off APO/FPO/DPO tickets to benefits and memorials teams
+
+**Not required to meet sprint objectives**
+
+Only move on to these if there's time.
+
+1. Refactor Vet360 profile components
+2. 508/Accessibility tickets
+
+**Samara**
+
+1. Work on long term planning (Justin — this is **not** something you should include in your sprint report of team deliverables)
+
 ### Address validation
 
 - New validation endpoint: VA Profile is targeting 1/17.
