@@ -85,6 +85,8 @@ To the best of our ability, this sprint's objective is to make sure all existing
 
 Note: Code freeze still in effect 1/2 - 1/3.
 
+### [Sprint 12 Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4492)
+
 ### Time off
 
 Sprint 12 is 9 days with the New Year's Day holiday.
