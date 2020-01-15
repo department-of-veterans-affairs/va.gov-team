@@ -3,11 +3,11 @@
 ## Iteration 1 - Sprint 12
 
 ### Maps
-![Option 1 - Dashboard Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/thumbnail-mapping/thumbnail_mapping-v1-1.jpg "Iteration One, Dashboard Concept")
+![Option 1 - Dashboard Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-1.jpg "Iteration One, Dashboard Concept")
 
-![Option 2 - Content Page Actions 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/thumbnail-mapping/thumbnail_mapping-v1-2.jpg "Iteration One, Dashboard Concept")
+![Option 2 - Content Page Actions 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-2.jpg "Iteration One, Dashboard Concept")
 
-![Option 3 - Content Page Actions 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/thumbnail-mapping/thumbnail_mapping-v1-3.jpg "Iteration One, Dashboard Concept")
+![Option 3 - Content Page Actions 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-3.jpg "Iteration One, Dashboard Concept")
 
 ### Outcomes & Feedback
 As the design team worked, we uncovered some gaps in our knowledge that we needed answered.
