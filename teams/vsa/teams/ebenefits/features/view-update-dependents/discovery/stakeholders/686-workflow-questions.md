@@ -19,15 +19,21 @@
 
 ### For Us / General
 1. Can VA.gov support role-based access/permissions yet? Or is just Veterans accessing Authenticated Experiences?
+ - SK: VA.gov doesn't support roles or permissions yet. However, any person who is in MPI (Master Person Index, formerly Master Veteran Index) can create an ID.me wallet, log in to VA.gov, and use any applications which populate with their known information. This includes dependents! There is just no way for anyone to use VA.gov "on behalf of" anyone else.
 2. Is auto-fill known info from data source? Or make user enter/re-enter all (except Veteran info). Are data sources current, or will auto-fill propagate bad data?
-3. Where is VA.gov currently getting it’s profile info? Is this different from what VBA needs for the 686? And what about implementing Vets360?
+- SK: Auto-fill, or "prefill" as it's known on the platform, pulls data from the user onject. The user object populates at login with data from MPI, VA-Profile (Vet360), and VADIR (military service history).
+3. Where is VA.gov currently getting its profile info? Is this different from what VBA needs for the 686? And what about implementing Vet360?
+- See #2; profile info comes from MPI, VA-Profile (Vet360), and VADIR.
 4. How can we handle the “Place” data for marriages and births/deaths--two-piece combos of state/city, county/city, country/city etc.?
 5. Should we default to “negative” (or closed) states for expanding form elements (e.g. Were you married before? No.)? This could 'hide' long form sections by 'default.'
+- Yes, default to less information.
 6. Should we link to the paper form(s)?
+- I'd want to test this in user sessions when testing the designs. I don't believe we do this in other long applications.
 
 ## Concerns
 1. Seems VA.gov is specific with their forms. They have a convention of calling-out the VA paper form number itself when presenting the digital equivalent; we may not be able to abstract them away, collect data and package it as a form submission.
 2. So we may have to drive users to a specific 21-674 form if they want to request school attendance.
+- We should do what we can to mitigate this and to inculde the 674 experience in the broader Dependency Claims experience.
 3. The loop and list feature looks wobbly in the Rainbows 686 implementation; appears to be styling problems with button placement, and I'd like to see the second element 'committed' using a button rather than just a blind 'Continue.'
 4. We may need to add organizing styling or features to form generator. We may ned to ditch the progress bar.
 5. Should we consider a landing page to 'home' a self-sort questionnaire and link to an independent 674? This could also be the target for redirects from the eBenefits site.
