@@ -31,6 +31,7 @@ The design team will have feedback that can be implemented into the second itera
 - [ ] Can a user be completely taken out of the DLC system?
 - [ ] Do you envision the ideal solution being a single form for all DLC product lines, or separate form flows for product lines? Why?
 - [ ] If we’re allowing Veterans to order hearing aid batteries/accessories from the past 2 years, how many different unique items do Veterans typically order within a two year period?
+- [ ] If a veteran has both a primary and backup set of hearing aids, does the DLC know which one is the primary vs backup?
 
 ## Notes:
 
