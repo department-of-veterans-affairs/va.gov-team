@@ -16,27 +16,26 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Pull up desktop prototype via share link
 
 ## Intro - 5 minutes
 
-Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Yellow Ribbon education benefits, and how you, as someone eligible to receive them, understand your benefits and you go about using them.
+Thanks for joining us today! My name is Liz Lantz and I also have some colleagues on the line observing and taking notes. Today we're going to talk about Yellow Ribbon education benefits, and how you, as someone eligible to receive them, understand your benefits and go about using them.
 
 Before we start, a few things I want to mention:
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.  The more you can think out loud and share what you're thinking as you go through the session, the better.
-- [IF APPROPRIATE:] **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+-  **You'll be interacting with an interactive prototype.** This is means it may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-## Warm-up Questions  - 5-8 minutes
+## Warm-up Questions  - 10 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -44,32 +43,40 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - I understand you've used your education benefits, which is great. Are you currently in school?
 - Where are/did you going to school, and what degree?
-- How did you decide on that school and area of study?
-- Did you consider or apply any other schools? I'd love to learn more about your research and decision process once you knew you wanted to go to school.
-  - Was it clear to you how Yellow Ribbon fit with your other education benefits?
+- I'd love to hear about your research and decision process once you knew you wanted to go to school.
+  - What stage of your military service were you in when you decided to go to school?
+  - How many schools did you apply to?
+  - Do you recall the factors that made you want to apply to a specific school? 
+  - Why did you choose that school, and area of study?
+  - I understand you've used the Yellow Ribbon benefit. Tell me how that benefit works.
   - How did Yellow Ribbon benefits play into your decision?
   - What specific methods did you use to research schools, and your VA education benefits?
-- If you can think back to when you were first contemplating going to school, or beginning the application process:
-  - Do you recall how you first learned what VA education benefits were available to you, and how Yellow Ribbon fit into those benefits?
-  - *(if this does not come out of "how did you decide on that school...")* Do you recall the factors that made you want to apply to a specific school?
-  - Were there any parts of the process that were particurlarly confusing? If so, how did you get clarification?
 
 ### For participants who are in the process of researching their education benefits:
 
 - I understand you're considering going to school, and using your VA education benefits. That's great! Where are you in that process?
-
-- How have you found colleges you're interested in applying to? 
-
-- What factors make you want to apply to a specific school?
-
-- What has your process been to research the benefits available to you, and schools where you can utilize those benefits?
-
+- Do you know what you want to study?
+- I'd love to hear about your research and decision process so far.
+  - What stage of your military service were you in when you decided to go to school?
+  - How many schools are you planning on applying to?
+  - What factors make you want to apply to a specific school?
+  - How have you done your research on schools so far? 
+  - How about research on education benefits available to you?
   - Have you encountered anything that made it harder, or easier, to do this research?
-  - Once you've got all the information you need, what will your next step be?
+  - Are you familiar with the Yellow Ribbon benefit? Tell me how it works.
+  - How does it fit into your decision making process?
 
-- How does Yellow Ribbon fit into your decision making process as you choose schools to apply to?
+###For all participants:
 
-  
+- How did you first learn what VA education benefits were available to you, and how Yellow Ribbon fit into those benefits?
+- Were there any parts of the process that were particurlarly confusing? If so, how did you get clarification?
+- Imagine I don't know anything about VA benefits. Can you tell me how the Yellow Ribbon program works?
+
+
+
+We're almost ready to move to the prototype now, and I'll ask you to do a few tasks related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you tell me where you would typically conduct this type of research?
+
+
 
 ## First Task: Find relevant schools in legacy Yellow Ribbon tables - 5 minutes
 
@@ -84,8 +91,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 - What emotions/thoughts does the participant verbalize while looking at a table presentation of this data?
 
 ## Second Task: Conduct a search in prototype - 5  minutes
-
-**Participant question:** Where would you typically conduct this type of research (need to update this question)
 
 - Take a look at the content on this page. Tell me what you think this page is for, what you can do here.  Think aloud as you look.
 - What are your thoughts on the search criteria?
