@@ -23,9 +23,9 @@ The design team will have feedback that can be implemented into the second itera
 - [x] Why are there so many socks in that sample? ~20/50?
 - [ ] Are items able to be related to devices?
 - [ ] Do hearing aids have more than one available battery for each model?
-- [ ] Do Veterans need the ability to switch to other batteries compatible with their HA?
-- [ ] Given that accessories aren't related to HA models, how do you envision collecting accessory requests from the Veteran?
-- [ ] Where does the DLC store addresses? [Eng]
+   - [ ] Do Veterans need the ability to switch to other batteries compatible with their HA?
+   - [ ] Given that accessories aren't related to HA models, how do you envision collecting accessory requests from the Veteran?
+- [x] Where does the DLC store addresses? [Eng]
 - [ ] A rep mentioned that veterans' records can get out of date, can you explain how that might happen?
 - [ ] Users can have multiple hearing aids as part of their file - is it possible that the wrong hearing aid could be decommissioned if they got a new one?
 - [ ] Can a user be completely taken out of the DLC system?
