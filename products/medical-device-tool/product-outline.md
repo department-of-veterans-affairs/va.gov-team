@@ -62,14 +62,14 @@ DLC
 -	Success is defined by DLC as 24,000 online orders per quarter.
 
 -Primary Objectives:
-> Transition hearing aid battery and prosthetic sock resupply ordering from eBenefits to VA.gov
-> Add online resupply request capability for common hearing aid accessories
-> Minimize need for Veteran data entry in online channel
-> Maximize DLC processing of requests via automated methods
+> - Transition hearing aid battery and prosthetic sock resupply ordering from eBenefits to VA.gov
+> - Add online resupply request capability for common hearing aid accessories
+> - Minimize need for Veteran data entry in online channel
+> - Maximize DLC processing of requests via automated methods
 
 -Secondary Objectives:
-> Include features to ensure correct delivery address for products being shipped
-> Include features to augment communication to Veterans regarding status of their requests
+> - Include features to ensure correct delivery address for products being shipped
+> - Include features to augment communication to Veterans regarding status of their requests
 
 VA
 -	Migrate DLC's medical device ordering tool from eBenefits to Va.gov
@@ -93,7 +93,7 @@ Providers
 - [Discovery readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-readout-presentation.pdf)
 
 ## Solution Approach
-- TBD
+- [Thumbnail Mapping](https://app.mural.co/t/vsa8243/m/vsa8243/1578519389467/11a5327c66e1fb78cac3871889239f23e1f62998)
 
 ## Value Propositions
 Team will utilize shared resources to include, but not limited to: Front End engineer, Editors, content review, IA, 508, and local PAO input.
