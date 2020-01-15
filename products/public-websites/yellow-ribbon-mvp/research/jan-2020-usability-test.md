@@ -41,21 +41,18 @@ Public Websites team, Yellow Ribbon (YR) content migration
 ## Method	
 
 - Research will take place in the form of combined interview and task-based usability testing
-- Users will engage with a clickable InVision prototype
+- Users will engage with an interactive InVision prototype
 - The sessions will be remote-modterated using Zoom. This method will allow us to observe users using our solution in their own environment, as well as test participants across geographic areas.	
 
 ## Participants and Recruitment	
 
 ### Criteria
 
-- 12 participants who are familiar with the Yellow Ribbon program and,
+- 15 participants who:
   - have used the Yellow Ribbon benefit within the last 12 months, or 
-  - are currently in the process of researching VA education benefits
-- To ensure a diverse group of participants, we request a mix of enlisted and officer (for socio-economic diversity), and geographic assortment.  Also, that of the 12, we have at least: 
-  - 2 female participants
-  - 1 participant with a disability rating of 70% or more
-  - 1 participant who uses assistive technology (AT), such as screen readers, switches, translation, or magnification software (list of sample AT: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/examples-of-assistive-tech.md)
-
+  - qualify for Yellow Ribbon benefits, and are currently in the process of researching VA education benefits
+- To ensure a diverse group of participants, we request a mix of male and female participants, enlisted and officer (for socio-economic diversity), and geographic assortment. 
+- To ensure inclusivity, we request some participants that have identified cognivite impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo.  Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractability, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
 ### Recruitment strategy 	
 
@@ -89,7 +86,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Participant(s) for pilot test:	**TBD**
 
-- Note-takers:	**TBD**
+- Note-takers:	Perigian
 
 - Observers:	
 
