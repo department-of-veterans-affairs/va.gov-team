@@ -1,7 +1,12 @@
 # Facility Locator Roadmap (WIP)
 
-## Most recent version 
-**Available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/FL%20Objectives%2C%20OKRs%20and%20Roadmap%20items%2012.19%20(2).pdf):**
+## Most recent version (updated 1/15/2020) 
+![Roadmap with OKRs/KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/FL%20Objectives%2C%20OKRs%20and%20Roadmap%20items%2001.20.jpg)
+
+See also: [Urgent Care Feature Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/urgent_care_feature_brief.md)
+
+## December 2019 
+[Roadmap with OKRs/KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/FL%20Objectives%2C%20OKRs%20and%20Roadmap%20items%2012.19%20(2).pdf)
 
 ## November 2019 Facility Locator Roadmap Visual
 
