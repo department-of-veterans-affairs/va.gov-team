@@ -30,7 +30,7 @@ The design team will have feedback that can be implemented into the second itera
 - [ ] Users can have multiple hearing aids as part of their file - is it possible that the wrong hearing aid could be decommissioned if they got a new one?
 - [ ] Can a user be completely taken out of the DLC system?
 - [ ] Do you envision the ideal solution being a single form for all DLC product lines, or separate form flows for product lines? Why?
-
+- [ ] If we’re allowing Veterans to order hearing aid batteries/accessories from the past 2 years, how many different unique items do Veterans typically order within a two year period?
 
 ## Notes:
 
