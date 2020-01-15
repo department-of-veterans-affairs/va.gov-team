@@ -4,7 +4,7 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 
 ---
 
-## Process for getting your updates included in the Team of Teams meeting
+## Process for submitting your team's info for Team of Teams
 1. Take the template below, fill it in with your team's information, and send via a Slack message to the Team of Teams organizer (currently Elizabeth Callaghan) **before 10:00 AM ET on Tuesdays**
 1. Join the meeting, listen in, participate in relevant Slack threads, present your team's updates when it's your turn, and be sure to share relevant updates back with your team
 
@@ -12,7 +12,7 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 
 ----
 
-## Template for submissions:
+## Submission Template:
 
 **1. What are you actively working on shipping?**
 
@@ -49,7 +49,7 @@ Like this:
 
 ---
 
-## Sample "best in class" submission
+## Best in Class Submission Sample
 
 **1. What are you actively working on shipping?**
 - Drupal-hosted facilities pages: validate phase, working on final QA, planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
