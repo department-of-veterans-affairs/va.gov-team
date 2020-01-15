@@ -16,7 +16,8 @@
 
 ### Project-specific setup
 
-- [ ] Open prototype in your browser (clicking link should open browser)
+- [ ] Open the prototype in a new tab (link to come)
+- [ ] Open the Yellow Ribbon page in your browser (https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 - [ ] Begin screen sharing
 
 ## Intro - 5 minutes
@@ -78,10 +79,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 We're almost ready to move to the prototype now, and I'll ask you to do a few tasks related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you tell me where you would typically conduct this type of research?
 
 
-
 ## First Task: Find relevant schools in legacy Yellow Ribbon tables - 5 minutes
 
-- Start on Yellow Ribbon benefit hub page **on production**.
+- Start on Yellow Ribbon benefit hub page.
 - Find a school they're interested in, and tell me the Yellow Ribbon benefit information for that school
   - *If participant is interested in a state with a very small number of rows, once they have completed the task, ask them to react to a state like California with numerous rows.*
 
@@ -92,8 +92,8 @@ We're almost ready to move to the prototype now, and I'll ask you to do a few ta
 - What emotions/thoughts does the participant verbalize while looking at a table presentation of this data?
 
 ## Second Task: Conduct a search in prototype - 5  minutes
-
-- Take a look at the content on this page. Tell me what you think this page is for, what you can do here.  Think aloud as you look.
+- Go to the other tab we opened earlier, with the prototype.
+- Take a look at the content on this page. Tell me what you think this page is for, what you can do here. You can scroll up and down, but don't click on anything just yet.  Think aloud as you look.
 - What are your thoughts on the search criteria?
 - Let's imagine you live in California, and you're interested in finding an in-state school for a Bachelor's degree. Go ahead and see if you can find that.
 
