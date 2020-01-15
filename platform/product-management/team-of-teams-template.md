@@ -19,7 +19,7 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 *Include the name of the product/feature you're working on, the product lifecycle phase it's in, and at a high level what the current work is. If the product/feature in the build/validate phase, include what your anticipated launch plan and timeline is.*
 
 Like this: 
-- `Product/feature`: `discover/define/build/validate` phase, working through `user research/business validation/prototype validation/API integration/something else`, planning to launch to `target audience` on `mm/dd/yyyy`.
+- `Product/feature`: `discover/define/build/validate` phase, working on `user research/business validation/prototype validation/API integration/something else`, planning to launch to `target audience` on `mm/dd/yyyy`.
 
 
 **2. What changes are you introducing that may impact other teams?**
@@ -52,8 +52,9 @@ Like this:
 ## Sample "best in class" submission
 
 **1. What are you actively working on shipping?**
-- Drupal-hosted facilities pages: validate phase, working through final QA, planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
-- Content link checker module: build phase, working through code completion, planning to launch to the 4 VSA Content Writers with Drupal access launch the week of 1/20/2020
+- Drupal-hosted facilities pages: validate phase, working on final QA, planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
+- Content link checker module: build phase, working on code completion, planning to launch to the 4 VSA Content Writers with Drupal access launch the week of 1/20/2020
+- Enhanced content preview feature: discover phase, working on foundational user interviews.
 
 **2. What changes are you introducing that may impact other teams?**
 -  We're transferring the VSA facilities page ownership to the Facility Locator Team around mid-February, so everyone please start fielding all questions about those pages to the new team going forward.
