@@ -2,7 +2,7 @@ This document outlines the process for identifying, triaging and escalating Tier
 
 ## Tier 3 Issues and Priority Definitions
 
-Tier 3 issues are persistent bugs that the Call Center Team has investigated and determined to be caused by a technical failure that cannot be resolved with standard scripts and troubleshooting steps. The Call Center Team identifies Tier 3 issues through triage work in IRIS, Salesforce, and through communication from call center POCs.
+Tier 3 issues are persistent bugs that the Call Center Team has investigated and determined to be caused by a technical failure that cannot be resolved with standard scripts and troubleshooting steps. The Call Center Team identifies Tier 3 issues through triage work in IRIS, Salesforce, and from notification from VA call center POCs.
 
 Once a Tier 3 issue has been identified, the Call Center Team assigns a priority to the issue based on the following criteria:
 
@@ -12,7 +12,7 @@ Once a Tier 3 issue has been identified, the Call Center Team assigns a priority
   * **Urgent:** 10 or more reported issues in one day. This is considered a trending issue for VA.gov call centers. 
 
 ## Assigning Issues
-Once the issue has been triaged and identified as Tier 3, the Call Center team will determine which VFS team is responsible and create a github issue. The github issue will include the following information:
+Once the issue is triaged and identified as Tier 3, the Call Center team determines which VFS team is responsible and creates a github issue. The github issue will include the following information:
 
 * Issue Title: Brief description of issue
     * Ex. Logon to ID.me error message
@@ -26,7 +26,7 @@ Once the issue has been triaged and identified as Tier 3, the Call Center team w
 4. Detailed description of the problem as stated by the customer and any subsequent information gathered by the call center team
 5. Topic and Sub-topic of the issue
 
-**ALL PII WILL BE REMOVED** If PII is needed for further investigation, the VFS team must request it and it will be provided via encrypted email or other secure delivery channel. 
+**NO PII WILL BE INCLUDED.** If PII is needed for further investigation, the VFS team must request it. Any PII will be sent via encrypted email or other secure delivery channel. 
 
 ## Response and Resolution Time
 Once a Tier 3 issue has been assigned to a VFS team, the Call Center Team will expect a response within 48 hours acknowledging the receipt of the issue, concurrence or nonconcurrence on the assignment of the issue, any immediate ideas for troubleshooting and/or work arounds, and an estimated date for a resolution/update. 
