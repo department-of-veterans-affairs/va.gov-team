@@ -85,9 +85,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Second Task: Conduct a search in prototype - 5  minutes
 
-**Participant question:** *so far we've looked at this information on a desktop computer.  Do you normally conduct this kind of research on a desktop computer, or would you access this on your phone?*
-
-- Direct participant to mobile or desktop prototype, based on response above
+**Participant question:** Where would you typically conduct this type of research (need to update this question)
 
 - Take a look at the content on this page. Tell me what you think this page is for, what you can do here.  Think aloud as you look.
 - What are your thoughts on the search criteria?
