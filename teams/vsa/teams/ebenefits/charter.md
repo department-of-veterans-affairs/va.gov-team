@@ -5,7 +5,7 @@
 # **VSA eBenefits Team Charter**
 
 ### **VSA North Star**
-Work with Veterans to design and deliver the best digital experience in the federal government. Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.
+Transform eBenefits products into personalized, guided experiences that help Veterans and the people in their networks get the benefits and services they deserve.
 
 ### **Product Line**
 VSA - VA.gov
@@ -15,6 +15,9 @@ eBenefits
 
 ### **Mission Statement**
 Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.
+
+### Vision
+Work with Veterans to design and deliver the best digital experience in the federal government.
 
 ### **Responsibilities**
 Define the landscape of features to be worked on, optimize and migrate as necessary, and collaborate with other teams where there is overlap.  Transform, optimize and make recommendations on enhancements.  
