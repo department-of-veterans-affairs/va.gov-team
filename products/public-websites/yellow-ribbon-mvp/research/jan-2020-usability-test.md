@@ -50,7 +50,7 @@ Public Websites team, Yellow Ribbon (YR) content migration
 
 - 15 participants who:
   - have used the Yellow Ribbon benefit within the last 12 months, or 
-  - qualify for Yellow Ribbon benefits, and are currently in the process of researching VA education benefits
+  - qualify for Yellow Ribbon benefits, and are planning on applying to schools within the next 6 months, or are currently in the process of researching their VA education benefits.
 - To ensure a diverse group of participants, we request a mix of male and female participants, enlisted and officer (for socio-economic diversity), and geographic assortment. 
 - To ensure inclusivity, we request some participants that have identified cognivite impairments and/or functional disabilities. Diagnoses that may align with this would be Traumatic Brain Injury (TBI), Post-Traumatic Stress Disorder (PTSD), Attention-Deficit/Hyperactivity Disorder (ADHD), Autism, and Vertigo.  Other conditions may be autism, aphasia, dyslexia, dyscalculia, distractability, memory loss, reading difficulties, non-native English speakers, low tolerance for cognitive overload, and intellectual/adaptive functioning challenges such as learning and problem-solving.
 
