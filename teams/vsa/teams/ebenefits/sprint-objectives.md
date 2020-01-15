@@ -20,9 +20,9 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Design: Schedule user research session on current design, focus on validating "workflow" entrance theories
 - Backend: Draft plan for integrating with BGS VNP services (i.e. review eBenefits code and create plan for implementing in vets-api)
 
-### 2. Start Outlining "Power of Attorney (POA)"
-- Write user stories for POA
-_Also known as View/Modify My Representative"
+### 2. Start Outlining "Power of Attorney (POA)"  
+- Write user stories for POA  
+_Also known as View/Modify My Representative"_  
 
 ### 3. Stretch Goals (assuming unblock on backend services)
 - Launch View Rated Disabilities (blocked by public-websites & brief UAT)
