@@ -77,7 +77,6 @@ To be prioritized:
 |Front-End Engineer     |Brad Conley
 |Back-End Engineer      |Lihan Li
 |Designer/Researcher    |Tressa Furner
-|Designer/Researcher    |Arthur Green
 
 ## Workflow + Cadence
 
