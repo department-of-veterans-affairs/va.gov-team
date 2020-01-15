@@ -23,7 +23,7 @@ As a veteran, I want to make sure that my old www.something.va.gov or www.va.gov
 |www.va.gov/*| www.va.gov/* | Server side redirect|
 |benefits.va.gov/* | www.va.gov/* | Client side page-level redirect (temporary solution)|
 |pittsburgh.va.gov/* | www.va.gov/* | Server side for entire subdomain (not page-level)|
-|ebenefits.va.gov/* | benefits.va.gov/* | Do not expect to route this through platform team|
+|ebenefits.va.gov/* | www.va.gov/* | Do not expect to route this through platform team|
 
 **The following subdomains are ones where we are able to implement server-side redirects.**
 
