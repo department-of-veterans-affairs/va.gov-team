@@ -16,7 +16,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ### 1. Continue Developing "View/Update Dependents" 
 - Design: Mock out remaining Dependents workflows
 - Frontend: Stub out remaining Dependents workflows
-- Backend & Frontend: Finish View Dependents in lowers (pull real data from BGS unless blocked)
+- Backend & Frontend: Develop View Dependents in lowers (pull real data from BGS unless blocked)
 - Design: Schedule user research session on current design, focus on validating "workflow" entrance theories
 - Backend: Draft plan for integrating with BGS VNP services (i.e. review eBenefits code and create plan for implementing in vets-api)
 
