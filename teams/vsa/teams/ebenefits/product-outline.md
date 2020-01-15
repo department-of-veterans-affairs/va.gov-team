@@ -21,8 +21,11 @@
 - [Value Propositions](#value-propositions)
 - [KPIs](#kpis)
 - **Features**  
-  - [View Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-rated-disabilities/README.md)
+  - [Rated Disabilities, titled as "View your VA combined disability ratings"](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/rated-disabilities/README.md)
+  This is a simple view task where the relevant information is pulled from CorpDB via the `vets-api` via EVSS.
   - [View and Modify Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents)
+  This is a more complicated task that includes both a view and modify task for declaring dependents as they are moved on and off a Veterans awards.
+  _Features found in the product folder (as opposed to the eBenefits Team folder) are further along in the developemnt and approval process.)
 
 # Implementation Information
 - [Status](#status)
@@ -44,7 +47,7 @@
 As a Veteran, I want to find, and apply for, as many benefits available to me so that I can leverage more of the VA's resources.
 
 ## Solution Goals
-Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.
+Help Veterans, their dependents and caregivers get the benefits they've earned by transforming, migrating and optimizing critical features and functions from eBenefits to the VA.gov central location.  As such, eBenfits will be sunsetted.
 
 ### User Goals
 With resources better presented to the user, they should be able to find and apply to more benefits with better efficacy.
@@ -71,10 +74,10 @@ Probably the largest is the placement of resources closer to the user and their 
 Not having to dig and deal with any confusion as to where a benefit can be found.
 
 #### Business Value
-Money spent on programs at the VA will be better utilized.
+This team aims to drastically increase the conversion rate of 686c form submissions and significantly reduce the amount of overhead that is spent by the Veteran in filling this form out.
 
 ## KPIs
-Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.
+Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.  Also, looking into how RBPS is impacted will be a large metric as well.
 
 ---
 
@@ -86,11 +89,12 @@ In progress
 ## Solution Narrative
 - **September 2019**: Began discovery of eBenefits in general, chose "View my rated disabilities" as the first feature to migrate
 - **October 2019**: Finalizing "View my rated disabilities" and started discovery of "View and update my dependents"
+- **November 2019**: Continued discovery on rainbows wrok and new View Dependent functionality
+- **December 2019**: View Dependents screen finaliazed, began reconciling invalidated and broken schema from previous team.
+- **January 2020**: Schema largely corrected for Modify Dependents, new functionality to reduce cognitive load and increase form accuracy for conversion proof of concept.  Seeking design and stakeholder reivews.
 
 ## How to Access and Test
-- Link: Access PINT2: https://pint.ebenefits.va.gov/ebenefits-portal/pint2 OR https://pint.ebenefits.va.gov/ (if you need to try both, you'll need to have a new session open with a cleared cache to enter the other site.
-- Password protection info:
-- User authentication info: Update passwords [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-ebenefits.md)
+...
 
 ## Error Handling
 ...
