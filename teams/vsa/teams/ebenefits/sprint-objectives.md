@@ -13,12 +13,12 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```diff 
 - TBD
 ```
-### 1. Continue Developing Framework and API Connectivity for "View/Update Dependents" in Staging Environment
+### 1. Continue Developing "View/Update Dependents" 
 - Design: Mock out remaining Dependents workflows
-- Backend & Frontend: Finish View Dependents in lowers (pull real data from BGS)
 - Frontend: Stub out remaining Dependents workflows
-- Design: Schedule user research session on current design, focusing on checkboxes/ triage screens/ going back and forth
-- Backend: plan of attack for integrating with BGS VNP services (review eBenefits code and translate to vets-api)
+- Backend & Frontend: Finish View Dependents in lowers (pull real data from BGS unless blocked)
+- Design: Schedule user research session on current design, focus on validating "workflow" entrance theories
+- Backend: Draft plan for integrating with BGS VNP services (i.e. review eBenefits code and create plan for implementing in vets-api)
 
 ### 2. Start Outlining "Power of Attorney (POA)"
 - Write user stories for POA
