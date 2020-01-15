@@ -48,7 +48,7 @@ Public Websites team, Yellow Ribbon (YR) content migration
 
 ### Criteria
 
-- 15 participants who:
+- 12 participants who:
   - have used the Yellow Ribbon benefit within the last 12 months, or 
   - qualify for Yellow Ribbon benefits, and are planning on applying to schools within the next 6 months, or are currently in the process of researching their VA education benefits.
 - To ensure a diverse group of participants, we request a mix of male and female participants, enlisted and officer (for socio-economic diversity), and geographic assortment. 
@@ -62,7 +62,7 @@ Will work with Perigean for recruiting
 
 - Test beginning week of 1/27/2020
 - Prototype will be ready 01/22/2020
-- Sessions estimated to be 30 minutes
+- Sessions estimated to be 45 minutes
 - Availability:
   - Monday 1/27, 9am-8pm Eastern
   - Tuesday 1/28, 9am-1pm Eastern, 2:30-3:30pm Eastern
