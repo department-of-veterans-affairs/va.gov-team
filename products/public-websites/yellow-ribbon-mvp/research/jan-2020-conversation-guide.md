@@ -16,7 +16,8 @@
 
 ### Project-specific setup
 
-- [ ] Pull up desktop prototype via share link
+- [ ] Open prototype in your browser (clicking link should open browser)
+- [ ] Begin screen sharing
 
 ## Intro - 5 minutes
 
