@@ -24,8 +24,8 @@ Before we start, a few things I want to mention:
 
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. In reality, we're testing our online services, in order to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback. Both positive and negative feedback is very welcome. 
 
-- **During part of our session today, you'll be interacting with prototypes and a demo tool.** The prototype may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. But, dont worry, I will guide you along. 
-Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **During part of our session today, you'll be interacting with a prototype of a website.** The prototype may not function exactly the way you expect. Some areas will be clickable, and some will not. But, dont worry, I will guide you along. 
+Of course none of your actions will affect your actual VA information or benefits.
 
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 
@@ -36,19 +36,19 @@ Since it's a demo, none of your actions will affect your actual VA information o
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?**
 
-## Computer Setup: Share your screen with Zoom - (5 minutes)
+## Computer Setup: Share your screen with Zoom - (2 - 5 minutes)
 
 - Lets spend a few minutes now, were I send you the prototype of the website we will look at today. 
-- Please minimize or close any windows that you don't want to share with us.
+- First, please minimize or close any windows that you don't want to share with us.
 - Now I'm going to share a link to the prototype in the zoom chat. Can you find the chat button in the Zoom app? 
-- Great, can you click on it?
+- Great, can you click on it? There should be a link you can click on there. 
 - Can you navigate back to the Zoom window and click the "Share" button in Zoom? 
 
 ## Warm-up Questions (Optional) - (5-10 minutes)
 
-Before we look at the prototype of the VA website, let’s start with a few general questions.
+Before we look at the prototype of the website, let’s start with a few general questions.
 
-- Tell me a little about yourself. (Examples of promts: Where do you live? Which branch of service? What do you or what have you done for work? Have you done an interview or usability test like this before? How was that experience?)
+- Tell me a little about yourself. (Examples of promts: Where do you live? Which branch of service? Have you done an interview or usability test like this before? How was that experience?)
 
 - Have you ever filed a disability claim with the Department of Veteran Affairs?
     - How did you file it (online, mail, fax, VSO)?
@@ -61,21 +61,23 @@ Before we look at the prototype of the VA website, let’s start with a few gene
 **1st screen: 
 Intro HLR page**
 
--Ok great, lets take a look at the prototype of the website. 
-Intro question: take a look at this page and tell me what you think the main purpose of this page is, and what actions can you take on this page?
+-Ok great, now lets take a look at the prototype of the website. 
+
+Intro questions: take a look at this page and tell me what you think the main purpose of this page is, and what actions can you take on this page?
+
 (Provide user with the necessary context for a Higher Level Review appeals process). 
 
--Scenario 1: imagine that a benefit that you have applied for (ringing in the ears - also called Tinnitus) has been denied. How would you go about disputing this decision? Please show me how you would do this on this website. Please remember to talk out loud, so I can understand what you are thinking, what you are experiencing, and what you are trying to accomplish. Show me what you would do on each page in order to get through this process.
+-Scenario 1: imagine that a benefit that you have applied for (ringing in the ears - also called Tinnitus) has been denied. How would you go about disputing this decision? Please show me what you would do in order to get through this process. Please remember to talk out loud, so I can understand what you are thinking, what you are experiencing, and what you are trying to accomplish. 
 
-Mention: (If you have any questions, please ask me any time. And finally - remember this is not a test of you - we are doing this usability test to understand how we can improve our website and make it easier to use.
-Since this is a prototype, not all links are clickable or active, but I will guide you, if needed.) 
+Mention: (If you have any questions, please ask me any time. And finally - remember this is not a test of you - we are doing this usability test to understand how we can improve our website) 
 
-(Allow time for users to go through the whole process. Guide them when needed: choose Tinitus, choose to be Called Back, choose 12.30pm call back time, choose NO for use of the Same Office. 
+(Allow time for users to go through the whole process. Guide them when needed: choose Tinitus, choose to be Called Back, choose the 12.30pm call back time, choose NO for use of the Same Office. 
  
 **1st screen: 
 Intro HLR page**
 
 -What do you think is the main purpose of this page, and how well do you think this page accomplishes this purpose? 
+- What would you do on this page?
 - What is confusing or unclear on this page? 
 - What is most helpful on this page? 
 - what should be added to this page to make it more useful? 
