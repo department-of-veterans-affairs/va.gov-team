@@ -91,9 +91,15 @@ To address the following user stories:
 ### Measuring Success
 _How will we know if we are successful?_
 
+**Objective: Improve Veteran search experience**
+- Key Result #1: 100% of known (legacy) usability and accessibility defects are resolved by April 1, 2020.
+- Key Result #4: A baseline rate for 5 star user satisfaction will be established by April 1, 2020.
+- _Note: We will also be assessing user satisfaction and success of our UX changes through user feedback during research sessions._
+
 **Objective: Reform Community Care Implementation**
   - Key Result #1: The rate of search refinements for Community Care will be at parity with VA facility searches by July 1, 2020. 
   - Key Result #2: All urgent care searches will be performed using the modernized Facility Locator by February 2, 2020. (_This pertains to any search that originates within the Facility Locator. It does not include any external Urgent care locators which can be accessed directly._)
+  - Key Result #3: A baseline for the percentage of users searching for urgent care who download the benefit PDF will be established by March 15, 2020. (Future: increase % with future UX iterations)
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
@@ -106,7 +112,9 @@ _Are other features dependent on this one? What do we need from partners? What d
   
 **Partner dependencies**
   - Data quality is dependent on data owners, in part. (PPMS)
-  - Benefit PDF will be available, pending OCC approval. 
+  - Benefit PDF will be available, pending OCC approval.
+  - PDF content is entirely created by OCC, without user input or accessibility testing. _(We will work to mitigate these risks by including questions about the PDF during user research and by conducting separate accessibility research post-MVP)
+  - API for PPMS source system is subject to change without notification. _(We will work to mitigate this risk in a coming sprint.)_
   
   ### Risk factors
   - This UX redesign is reliant on the data provided via PPMS and is dependent on the resolution of existing data concerns.
@@ -118,6 +126,9 @@ _Are other features dependent on this one? What do we need from partners? What d
   - Emergency care will be separate facility type 
 - Options for urgent care pharmacy search
   - Although urgent care pharmacies are considered part of the Community Care/urgent care benefit, our assumption is that Veterans are not likely to search for them under the "urgent care" heading. For MVP, we decided to add urgent care pharmacies to the initial dropdown box (with VA Health, VA benefits. etc).
+- UX iterations
+  - Quick links for urgent care and emergency care were considered but failed during user research sessions. Users did not seem to notice the quick links so we decided to make urgent care, emergency care and urgent care pharmacies more prominent in search dropdowns.
+  - Opinions on the best labels to be used for urgent care subtypes differ for OCC and DEPO. Variations will be tested during user research sessions. 
 
 ### Definition of Done
 - The Veteran must be able to successfully search for an urgent care facility.
