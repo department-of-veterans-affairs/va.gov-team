@@ -29,8 +29,8 @@ _How might we reduce the burden of manual content support, thus improving scalab
  
 ## User Goals
 
-- Launch error-free and plain language content for VA.gov
-- Adhere to VSP standards without being blocked by the VSP review process
+- All content on VA.gov is error-free and plain language
+- VFS teams adhere to VSP standards without being blocked by the VSP review process
 
 ## Business Goals
 
@@ -39,7 +39,7 @@ _How might we reduce the burden of manual content support, thus improving scalab
 
 ## Assumptions
 
-- We **assume** that VFS teams will engage with automated content validations, and make changes based on the warnings shown.
+- We **assume** that VFS teams will engage with automated content validations, and make changes to their content based on the warnings shown.
 
 ## Questions
 
