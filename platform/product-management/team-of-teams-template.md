@@ -16,17 +16,17 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 
 **1. What are you actively working on shipping?**
 
-*Include the name of the product or initiative, the product lifecycle phase it's in, what the current work is, and if it's in the build/validate phase, include what your anticipated launch plan and timeline is.*
+*Include the name of the product/feature you're working on, the product lifecycle phase it's in, and at a high level what the current work is. If the product/feature in the build/validate phase, include what your anticipated launch plan and timeline is.*
 
 Like this: 
-- `Product/initiative`: `discover/define/build/validate` phase, working through `user research/business validation/prototype validation/API integration/something else` and planning to launch to `target audience` on `mm/dd/yyyy`.
+- `Product/feature`: `discover/define/build/validate` phase, working through `user research/business validation/prototype validation/API integration/something else` and planning to launch to `target audience` on `mm/dd/yyyy`.
 
 **2. What changes are you introducing that may impact other teams?**
 
 *Include a quick description of the change, and why other teams should care*
 
 Like this:
--  We're `doing this thing` around `this time,` so `these people` make sure you `do this as a result`
+-  We're `doing this thing` around `this time,` so `this person/group/team` please make sure to `do this as a result`
 
 **3. What blockers or dependencies are impacting your progress?**
 
@@ -35,46 +35,27 @@ Like this:
 Like this:
 - In order to `do this thing`, we need `this other thing` from `this person or team`
 
+**4. Q&A**
+*The Team of Teams MC will fill this out during the meeting, leave it blank in your Slack submission*
+
+**5. Action Items**
+*The Team of Teams MC will fill this out during the meeting, leave it blank in your Slack submission*
+
 ---
 
 ## Sample
 
 **1. What are you actively working on shipping?**
-- Transferring VSA facilities page ownership to Facility Locator Team- Strict password requirements
-- Migrating to Github/Zenhub for issue tracking and improved visibility across the program into our work. - Working to provide CMS support request templates, similar to the other issue templates the Platform provides.
-
-*Include the name of the product or initiative, the product lifecycle phase it's in, and if it's in the build/validate phase, include what your anticipated launch plan and timeline is.*
+- Drupal-hosted facilities pages: validate phase, working through final QA and planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
+- Content link checker module: build phase, working through code completion, planning to launch to the 4 VSA Content Writers with Drupal access launch the week of 1/20/2020
 
 **2. What changes are you introducing that may impact other teams?**
+-  We're transferring the VSA facilities page ownership to the Facility Locator Team around mid-February, so everyone please start fielding all questions about those pages to the new team going forward.
+- We're migrating our workflow management to Github/Zenhub and will be creating CMS support request issue templates there around mid-February, so everyone please make sure to use those templates when you have content-publishing requests, as you would the other request templates in there.
+- We're enhancing the security of Drupal login this week, so who use a username + pw to log into Drupal, please make sure to follow the instructions in the email to reset your password.
 
-*Include a quick description of the change, and why other teams should care*
+**3. What blockers or dependencies are impacting your progress or success?**
+- In order to make sure the Pittsburgh facility page launch goes smoothly, we need to a coordination meeting with Dave Mazik, Jeff Dunn, and TJ
 
-**3. What blockers or dependencies are impacting your progress?**
-
-*Include a description of the blocker, and what you need from this group to overcome it*
-
-
-- Transferring VSA facilities page ownership to Facility Locator Team- Strict password requirements
-- Migrating to Github/Zenhub for issue tracking and improved visibility across the program into our work. - Working to provide CMS support request templates, similar to the other issue templates the Platform provides.
-
-3. Blockers or something you need from other teams
-a. I need ..... from ........ 
-PGH Launch coordination activities with Dave Mazik/Jeff Dunn and TJ
-b. Want to ensure the facility locator detail pages are included in our redirect request ticket
-4. Q&A
-Chris: why the strict password req? Note from Charles about security, so CMS checked the practices they have today and
-added this one.
-Chris: how many users? 4
-Any concern about ppl far outside the orbit being able to do this now? W/that number, no concern. W/training we're going to
-be encouraging them not to trigger tons of builds, but just use it for alerts. (also trying to get build time reduced, so builds can
-be triggered more frequently w/o neg consequences)
-
-5. Actions
-
-## Sample
-
-Sample:
-
-*1. What are you actively working on shipping?*
-- Drupal-hosted facilities pages: currently in validation phase, anticipated launch 1/29 @4pm, will be watching to see...
-- Link checker module: currently in validation phase, anticipated launch this week, will be watching to see if broken builds decrease as a result.
+**4. Q&A**
+**5. Action Items**
