@@ -20,11 +20,11 @@ Once an issue has been triaged and identified as Tier 3, the Call Center team wi
 * **Assignees:** All Call Center Team members will be assigned as well as the PM of the identified VFS team. 
     * If the Call Center Team member is unsure of who the ticket should be assigned to, then it will be assigned to the Back End Tools Team for triage.
 * **Issue Details:** The following information about the Tier 3 issue will be included in the body of the github issue. If there are multiple examples of the bug, a spreadsheet with the below information will be created and attached to the ticket.
-  1. Date issue reported
-  2. Source of the issue and ticket number (i.e. IRIS, VEO Tier 1 Call Center, HRC, etc)
-  3. Priority designation (i.e. low, medium, high, urgent)
-  4. Detailed description of the problem as stated by the customer and any subsequent information gathered by the call center team
-  5. Topic and Sub-topic of the issue
+  * Date issue reported
+  * Source of the issue and ticket number (i.e. IRIS, VEO Tier 1 Call Center, HRC, etc)
+  * Priority designation (i.e. low, medium, high, urgent)
+  * Detailed description of the problem as stated by the customer and any subsequent information gathered by the call center team
+  * Topic and Sub-topic of the issue
 
 **NO PII WILL BE INCLUDED.** If PII is needed for further investigation, the VFS team must request it. Any PII will be sent via encrypted email or other secure delivery channel. 
 
