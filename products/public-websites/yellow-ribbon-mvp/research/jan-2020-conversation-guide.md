@@ -96,10 +96,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 - After results are presented:
 
   - Again, take a look at the content on this page. Don't click on anything just yet.  Tell me what you're looking at, what you can do here.  Think aloud as you look.
-  - If you wanted to manipulate the results in any way, do you see a way to do that?
+  - Imagine you wanted to see this list in a different order, such has highest benefit amount first. How would you do that?
   - Does the information about each school feel complete to you?
   - Is the meaning of each piece of information in the card clear to you?
-  - If you wanted to see the next set of results, how would you do that?
+  - If you wanted to see the next set of schools, how would you do that?
 
 ### Things to watch for:
 
@@ -118,16 +118,12 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## Third Task: Compare schools and change criteria - 8 minutes
 
-- If they didn't notice the add to compare button:
-  - Each card has a button on it - did you notice it? If not, why do you think not?
-- If you were to click on that button, which piece of information are the most valuable for you to compare across schools?
--  Go ahead and select some schools to compare. Was that what you expected to happen?
-  - *Participant may click on buttons that aren't clickable, guide them to the correct hotspots if so*
-- Go ahead and view the schools you've selected
+- Let's say you're interested in [School A, School B, and School C] , and you want to see which one offers Yellow Ribbon to the most students.  How would you do that?
+  - *If student does not use add to compare button and make their way to the comparison table, guide them there*
 - Tell me about this screen - what do you see here, what do you think you can do?
 - What are your thoughts on the way this information is presented?
-- How would you go about updating this list? 
-- Now that you have this information, what would you do next?
+- If you wanted to update this list somehow, how would you do that?
+- Now that you have this information about these schools, what would your next step be?
 - Imagine you want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
 
 ### Things to watch for:
@@ -157,3 +153,5 @@ Great, well thank you so much again, and enjoy the rest of your day!
 
 - [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
 - [Veteran ID Card Discovery Interview](
+
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
