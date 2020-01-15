@@ -6,7 +6,7 @@ labels: 'vsa'
 assignees: ''
 
 ---
-
+[_Reference: VSA Delivery Front Door (issue templates and examples)_](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/delivery#vsa-delivery)
 ## User Story:
 As a __________, I need __________ so that I can __________.
 
