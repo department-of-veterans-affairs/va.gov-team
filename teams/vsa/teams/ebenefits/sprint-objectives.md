@@ -9,9 +9,30 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Measure outcomes where possible
 - Remember the Call Center
 ----
-## Sprint 12 (1/1 - 1/14) WIP*
+## Sprint 13 (1/15 - 1/28)
 ```diff 
 - TBD
+```
+### 1. Continue Developing Framework and API Connectivity for "View/Update Dependents" in Staging Environment
+- Design: Mock out remaining Dependents workflows
+- Backend & Frontend: Finish View Dependents in lowers (pull real data from BGS)
+- Frontend: Stub out remaining Dependents workflows
+- Design: Schedule user research session on current design, focusing on checkboxes/ triage screens/ going back and forth
+- Backend: plan of attack for integrating with BGS VNP services (review eBenefits code and translate to vets-api)
+
+### 2. Start Outlining "Power of Attorney (POA)"
+- Write user stories for POA
+_Also known as View/Modify My Representative"
+
+### 3. Stretch Goals (assuming unblock on backend services)
+- Launch View Rated Disabilities (blocked by public-websites & brief UAT)
+- Frontend: Develop seamless Drupal+vets-website UAT solution (collab between Nick Sullivan and Jesse)
+  - [Epic for **Rated Disabilities**](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1032)   
+_Note that we will not be turning off any functionality in EBN or doing any comms around this feature._
+
+## Sprint 12 (1/1 - 1/14)
+```diff 
+- 31 points over 11 issues
 ```
 ### 1. Prepare "Your VA disability ratings" for Launch
 - Complete and implement final reviews and changes required to launch (508 {staging})
