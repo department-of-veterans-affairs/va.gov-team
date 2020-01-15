@@ -8,11 +8,11 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 1. Copy + paste the template below into a Slack chat with the Team of Teams organizer (currently Elizabeth Callaghan), and send w/your team's info filled in *before 10:00 AM ET on Tuesdays*
 1. Join the meeting, listen in, participate in relevant Slack threads, present your team's updates when it's your turn, and be sure to share relevant updates back with your team
 
-*Note: if you've never presented in Team of Teams before, send a joint Slack message to the Team of Teams organizer (currently Elizabeth Callaghan), the VSP Lead (currently Kevin Hoffman), and the DEPO Lead (currently Chris Johnston) to ask for a slot and to get a calendar invite*
+*Note: if you've never presented in Team of Teams before, send a Slack message to Kevin Hoffman to coordinate.*
 
 ----
 
-## Template:
+## Template for submissions:
 
 **1. What are you actively working on shipping?**
 
@@ -43,7 +43,7 @@ Like this:
 
 ---
 
-## Sample
+## Sample "best in class" submission
 
 **1. What are you actively working on shipping?**
 - Drupal-hosted facilities pages: validate phase, working through final QA and planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
