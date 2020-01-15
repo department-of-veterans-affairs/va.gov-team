@@ -67,8 +67,8 @@ Will work with Perigean for recruiting
   - Monday 1/27, 9am-8pm Eastern
   - Tuesday 1/28, 9am-1pm Eastern, 2:30-3:30pm Eastern
   - Wednesday 1/29, 9am-11:30am Eastern, 7-9pm Eastern
-  - Thursday 1/30, 9am-5pm Eastern
-  - Friday 1/31, 8am - 4pm Eastern
+  - (If needed for more participants) Thursday 1/30, 9am-5pm Eastern
+  - (If needed for more participants) Friday 1/31, 8am - 4pm Eastern
 - Pilot: Will update when scheduled, targeting 1/22 or 1/23
 
 
