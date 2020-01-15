@@ -39,6 +39,7 @@ metalsmith/graphql/drupal
 
 ### Next steps
 
+* Gibran and Ethan to coordinate more work on the two above tickets.
 * Get Gibran accounts on cms prod that allows looking at /graphql/explorer 
   * Michelle or Gibran should write an email to VACMSSupport@va.gov requesting access with the role "Content API" and 
 * Gibran needs a local drupal
