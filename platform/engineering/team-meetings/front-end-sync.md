@@ -1,3 +1,14 @@
+# 20200115
+
+## Agenda
+- Micro frontends
+- FE backlog 
+
+## Notes 
+- review existing implementations of MFE before attemping to break off an app 
+- build components for the design system and use them in a new version of the forms system 
+  - accessibility first / concerns when doing component library 
+
 # 20191204 - Wed 
 
 ## Agenda 
@@ -5,7 +16,7 @@
   - what constitutes high quality code? 
   - what are the qualities of maintainable code? 
   
-# Notes
+## Notes
 - chris: 
   - thinks he reviews too thoroughly 
   - had to upgrade the appeals app (v1 -> v2) 
