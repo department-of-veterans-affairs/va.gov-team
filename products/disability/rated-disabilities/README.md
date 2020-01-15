@@ -49,7 +49,7 @@ As a Veteran, I want to be able to view my Rated Disabilities quickly and easily
 As with several other features within eBenefits, the effort primarily involves migrating the Rated Disabilities feature into VA.gov so that it can be viewed easily from a link from within their profile.  
 
 ### User Goals  
-Presenting the Veterans Rated Disabilities information quickly and clearly without logging in, or visiting, another page.  
+Presenting the Veterans Rated Disabilities information quickly and clearly without logging in, or visiting another page.  
 
 ### Business Goals
 The VA will see an added benefit in that a significant percentage of its traffic looking for this information will be better informed and receive the benefits they deserve.    
@@ -72,7 +72,7 @@ For the most part, users use Rated Disabilities as intended, to ensure they have
 [More information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)
 
 ## Solution Approach
-Primarily, the solution has consisted of migrating this tool from the `ebenefits` subdomain over to VA.gov, linking from a place that makes sense (dashboard or MyVA) and implementing the VA.gov's new design system.
+Primarily, the solution has consisted of migrating this tool from the `ebenefits` subdomain over to VA.gov, linking from a place that makes sense (disability hub to an authenticated landing page if needed) and implementing the VA.gov's new design system.
 
 ## Value Propositions
 #### User Value  
@@ -97,6 +97,7 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 - **October 2019:** Once TCDR endpoint is accessible, or at least scaffolded, Rated Disabilities should be made code complete and moved to staging
 - **November 2019:** TCDR needs .yml files then integration into API.  Preparing for launch.  Moving away from EVSS with next feature.
 - **December 2019:** Edits and significant development has finished, working on implementing some last minute design changes per DSVA before launch
+- **January 2020:** No 508 issues found. Expect to launch.
 
 ## How to Access and Test
 - Link: Unauthenticated: https://staging.va.gov/disability/check-disability-rating/
@@ -119,7 +120,8 @@ Rated Disbailities uses the `vets-api` via EVSS.
 - [Product specs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/profile-rated-disabilities.md)
 - [Design](https://xd.adobe.com/view/0db723ac-52ff-48b3-4877-9d5882cb2e1f-7b86/screen/90b2e033-e56a-4634-91ff-b694b46d2097/RD-Screen-Tool-FINAL)
 - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md)
-- ATO documentation: _Coming Soon_
+- ATO documentation: _None at this time_
+- [QA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/vsa-qa-process.md)
 
 ## Keywords
 eBenefits, rated disabilities, total combined disability rating, claims and appeals
@@ -131,9 +133,9 @@ eBenefits, rated disabilities, total combined disability rating, claims and appe
 - DSVA Lead `*`: Steve Kovacs
 - Product Manager `*`: Jason Wolf
 - Design Lead: Shawna
-- Eng Lead: Joe Costa
-- VA Web Comms Partner: 
-- VA Call Center Partner(s): 
+- Eng Lead: Paul Short (GCIO)
+- VA Web Comms Partner: N/A
+- VA Call Center Partner(s): Chante Lantos-Swett
 - Production Testing Partner(s):
 - Designer(s): James Andrews
 - Content Writer(s):
