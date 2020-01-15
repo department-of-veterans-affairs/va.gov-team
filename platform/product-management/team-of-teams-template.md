@@ -5,7 +5,7 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 ---
 
 ## Process for getting your updates included in the Team of Teams meeting
-1. Copy + paste the template below into a Slack chat with the Team of Teams organizer (currently Elizabeth Callaghan), and send w/your team's info filled in **before 10:00 AM ET on Tuesdays**
+1. Take the template below, fill it in with your team's information, and send via a Slack message to the Team of Teams organizer (currently Elizabeth Callaghan) **before 10:00 AM ET on Tuesdays**
 1. Join the meeting, listen in, participate in relevant Slack threads, present your team's updates when it's your turn, and be sure to share relevant updates back with your team
 
 *Note: if you've never presented in Team of Teams before, send a Slack message to Kevin Hoffman to coordinate.*
