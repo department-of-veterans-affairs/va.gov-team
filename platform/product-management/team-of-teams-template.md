@@ -19,7 +19,8 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 *Include the name of the product/feature you're working on, the product lifecycle phase it's in, and at a high level what the current work is. If the product/feature in the build/validate phase, include what your anticipated launch plan and timeline is.*
 
 Like this: 
-- `Product/feature`: `discover/define/build/validate` phase, working through `user research/business validation/prototype validation/API integration/something else` and planning to launch to `target audience` on `mm/dd/yyyy`.
+- `Product/feature`: `discover/define/build/validate` phase, working through `user research/business validation/prototype validation/API integration/something else`, planning to launch to `target audience` on `mm/dd/yyyy`.
+
 
 **2. What changes are you introducing that may impact other teams?**
 
@@ -28,6 +29,7 @@ Like this:
 Like this:
 -  We're `doing this thing` around `this time,` so `this person/group/team` please make sure to `do this as a result`
 
+
 **3. What blockers or dependencies are impacting your progress?**
 
 *Include a description of the blocker, and what you need from this group to overcome it*
@@ -35,9 +37,11 @@ Like this:
 Like this:
 - In order to `do this thing`, we need `this other thing` from `this person or team`
 
+
 **4. Q&A**
 
 *The Team of Teams MC will fill this out during the meeting, leave it blank in your Slack submission*
+
 
 **5. Action Items**
 
@@ -48,7 +52,7 @@ Like this:
 ## Sample "best in class" submission
 
 **1. What are you actively working on shipping?**
-- Drupal-hosted facilities pages: validate phase, working through final QA and planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
+- Drupal-hosted facilities pages: validate phase, working through final QA, planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
 - Content link checker module: build phase, working through code completion, planning to launch to the 4 VSA Content Writers with Drupal access launch the week of 1/20/2020
 
 **2. What changes are you introducing that may impact other teams?**
