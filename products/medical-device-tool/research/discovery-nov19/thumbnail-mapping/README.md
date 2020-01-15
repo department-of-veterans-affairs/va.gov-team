@@ -17,8 +17,7 @@ As the design team worked, we uncovered some gaps in our knowledge that we neede
 - Discussion was had around whether or not to have more generic content and single ordering form for all devices or to have distinct content pages and ordering forms for each product type.
 
 #### Presenting to the DLC:
-- DLC stakeholders liked the concept shown to them (Option 3), and gave us more information to help us refine the concept:
-  - Veterans are able to have up to 5 authorized HA devices attributed to them, in the case of having two different aid types in use at once or having backup devices.
+- After presenting to the BaM2 team, the designers presented the third thumbnail mapping flow to Kevin Q for feedback. The meeting notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200114-DALC-thumbnail-mapping-review.md). 
 
 #### Check-in with VSP IA:
 - It was recommended by the IA/Content team to split up the current DLC offerings of batteries/accessories and prosthetic socks into distinct pages to preserve information scent and SEO value.
