@@ -36,9 +36,11 @@ Like this:
 - In order to `do this thing`, we need `this other thing` from `this person or team`
 
 **4. Q&A**
+
 *The Team of Teams MC will fill this out during the meeting, leave it blank in your Slack submission*
 
 **5. Action Items**
+
 *The Team of Teams MC will fill this out during the meeting, leave it blank in your Slack submission*
 
 ---
