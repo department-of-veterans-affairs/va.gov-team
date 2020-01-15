@@ -59,7 +59,7 @@ Like this:
 **2. What changes are you introducing that may impact other teams?**
 -  We're transferring the VSA facilities page ownership to the Facility Locator Team around mid-February, so everyone please start fielding all questions about those pages to the new team going forward.
 - We're migrating our workflow management to Github/Zenhub and will be creating CMS support request issue templates there around mid-February, so everyone please make sure to use those templates when you have content-publishing requests, as you would the other request templates in there.
-- We're enhancing the security of Drupal login this week, so who use a username + pw to log into Drupal, please make sure to follow the instructions in the email to reset your password.
+- We're enhancing the security of Drupal login this week, so anyone who uses a username + pw to log into Drupal, please make sure to follow the instructions in the email to reset your password.
 
 **3. What blockers or dependencies are impacting your progress or success?**
 - In order to make sure the Pittsburgh facility page launch goes smoothly, we need to a coordination meeting with Dave Mazik, Jeff Dunn, and TJ
