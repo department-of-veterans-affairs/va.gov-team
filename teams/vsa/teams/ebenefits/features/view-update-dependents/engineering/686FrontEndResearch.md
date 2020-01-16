@@ -26,6 +26,9 @@ There is a field in the form chapter `householdInformation` called `marriges` th
 
 The code that places this form field in the form starts on line 427 of the 686 form config file at src/applications/disability-benefits/686/config.form.js
 
+## Notable Issue
+Regarding the idea that prefill goes away on refresh for both local and staging - it turns out this is expected behavior, the save in progress is set up so that it treats local environments differently and does not pre-fill on refresh. this is set based on logic inside platform/forms/save-in-progress/RoutedSavableApp.jsx . I have also verified that neither of the issues under things to check out happen on staging either.
+
 ## List of bugs discovered as of 12/6/2019
 1. Page refresh erases all data from the UI
 2. Attempting to expand the children tab on the review page throws a console error and removes the section from the DOM.
