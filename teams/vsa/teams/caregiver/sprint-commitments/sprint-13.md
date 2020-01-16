@@ -5,10 +5,10 @@
 | Justin | Add labels to dropdowns |3|
 | Justin | Code custom intro page |5|(1/16) In Progress|
 | Justin | Code custom outro page |5| (1/17) Will start|
+| Jonathan | Moderate Usability Sessions ! |5| (1/16) Starting tomorrow |
 | Patrick and Jonathan | Make changes based off of Content and IA review |5| (1/16) Notes sent to Design, (1/16) Content Revisions (Back to official language) |
 | Patrick and Jonathan | Take notes on and attend usability studies, create transcript based off of usability studies|5 per session| (1/16) In progress |
 | Team | Debrief sessions post Usability Sessions  |0| (1/16) In Progress |
-| Jonathan | Moderate Usability Sessions ! |5| (1/16) Starting tomorrow |
 | PMs | Schedule Privacy and Security review (with Andrew Gunsch) |1| (1/16 - Waiting to identify more folks) |
 | Kevin | Finish form submission endpoint (and associated tests) in the API |5| (1/16 - In progress, data validation and form saving |
 | Kevin | Roadmap and Sprint Planning for CARMA Integration |3|
