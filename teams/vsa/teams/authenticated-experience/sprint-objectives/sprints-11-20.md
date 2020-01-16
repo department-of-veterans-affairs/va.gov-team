@@ -3,6 +3,13 @@
 - [Sprint 11](#sprint-11-1218---1231)
 - [Sprint 12](#sprint-12-12---114)
 - [Sprint 13](#sprint-13-115---128)
+- Sprint 14
+- Sprint 15
+- Sprint 16
+- Sprint 17
+- Sprint 18
+- Sprint 19
+- Sprint 20
 
 ## Sprint 11 (12/18 - 12/31)
 
@@ -256,3 +263,87 @@ Erik may end up helping with some of this.
 - Pre-launch
   - Analytics
   - Etc
+
+### Profile 2.0
+
+Design
+- Put together all screens for all states
+- Start to plan research
+
+Dev
+- Refactor Profile components
+
+## Sprint 15 (2/12 - 2/25)
+
+## Long term planning
+
+- Tressa out: Feb 9 – 19
+
+### Profile 2.0
+
+Design
+- Tressa out most of the sprint
+- Finish planning research
+
+Dev
+- Build for new profile
+
+## Sprint 16 (2/26 - 3/10)
+
+### Profile 2.0
+
+Design
+- Submit research proposal
+- Research
+
+Dev
+- Build for new profile
+
+## Sprint 17 (3/11 - 3/24)
+
+### Profile 2.0
+
+Design
+- Research updates
+- Prep for QA
+
+Dev
+- Updates from research
+
+## Sprint 18 (3/25 - 4/7)
+
+### Profile 2.0
+
+Design
+- QA
+- Updates from QA
+
+Dev
+- Updates from QA
+
+## Sprint 19 (4/8 - 4/21)
+
+### Profile 2.0
+
+PM
+- Pre-launch checklist, sprint 1
+
+Design
+- Pre-launch checklist, sprint 1
+
+Dev
+- Support pre-launch
+
+## Sprint 20 (4/22 - 5/5)
+
+### Profile 2.0
+
+PM
+- Pre-launch checklist, sprint 2
+- Launch!
+
+Design
+- Pre-launch checklist, sprint 2
+
+Dev
+- Support pre-launch/launch
