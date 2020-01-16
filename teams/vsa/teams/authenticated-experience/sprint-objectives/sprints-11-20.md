@@ -164,19 +164,15 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 ### Order of priorities
 
-**Required to meet sprint objectives**
-
 1. Get address validation ready for QA
 2. Share, refine, and finalize designs for Profile 2.0
-3. (If applicable) Technical discovery questions for Profile 2.0
 3. Monitoring, maintenance, bug fixes, hardening, 508, etc.
-4. Hand off APO/FPO/DPO tickets to benefits and memorials teams
+4. Refactor Vet360 profile components 
+5. Hand off APO/FPO/DPO tickets to benefits and memorials teams
 
-**Not required to meet sprint objectives**
+**If needed**
 
-Only move on to these if there's time.
-
-1. Refactor Vet360 profile components 
+1. Technical discovery questions for Profile 2.0
 
 **Other things to note**
 
@@ -207,8 +203,9 @@ Only move on to these if there's time.
 - Settle on final design direction #4759
 - Navigation exploration #4843
 - (If applicable) Answer any additional technical discovery questions #2455
-- (If time) Refactor Vet360 Profile form components to use SchemaForm #4068
-
+- Refactor Vet360 Profile form components to use SchemaForm #4068
+  - [FE] Refactor VA Profile: Background research to determine scope #4930
+  
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 - [SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog #2430
