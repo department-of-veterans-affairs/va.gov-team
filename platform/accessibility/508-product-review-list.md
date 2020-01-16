@@ -36,6 +36,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
     * [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
     * [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
+    * [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
     * [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -466,6 +467,19 @@ Each application or logical section of the site will have a heading and a detail
    **Opened:** January 13, 2020  | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER] Individual disabilities currently in individual `<dl>` would be improved in a single `<dl>`](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)<br/>
    **Opened:** January 7, 2020 | **Severity:** 508-defect-3 - **_Minor_**
+
+---
+
+### GI Bill Comparison Tool Caution Flags
+
+**Maintainer:** VSP<br/>
+**Audit Status:** Design review phase<br/>
+**[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
+
+#### Open Issues
+* [Review GIBCT Caution Flag designs for accessibility - #4919
+](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4919)<br/>
+   **Opened:** January 15, 2020 | **Severity:** n/a
 
 ---
 
