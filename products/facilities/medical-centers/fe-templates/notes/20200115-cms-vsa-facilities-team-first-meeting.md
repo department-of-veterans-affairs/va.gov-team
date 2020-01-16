@@ -1,3 +1,5 @@
+Zoom recording: https://zoom.us/rec/share/vcl8DIHxy2dJRK_K2ljkAI57OLXlT6a823Ib-6cMmEb652CyKitIy300f8RRDueJ 
+
 ### Goal of meeting
 
 *   VSA-facilities team is prepared to update FE templates starting January 29
