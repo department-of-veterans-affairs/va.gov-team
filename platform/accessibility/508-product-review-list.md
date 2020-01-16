@@ -474,7 +474,6 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSP<br/>
 **Audit Status:** Design review phase<br/>
-**[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
 
 #### Open Issues
 * [Review GIBCT Caution Flag designs for accessibility - #4919
