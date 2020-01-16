@@ -88,7 +88,8 @@ Great. A few last questions:
 - What worked well?
 - I'm going to quickly show you the paper form (moderator shares screen with paper form).  
    - (if they have benefits) Do you remember if you filled out this form? If so, how did you do it? Together with the caregiver/veteran?  
-   - Based on going through this flow, would you prefer to fill out this form online or on this paper form? Why? How would this be different than filling out the paper form?
+- Based on going through this flow, would you prefer to fill out this form online or on this paper form? Why? How would this be different than filling out the paper form?
+   - Would you fill out the paper form with your veteran/caregiver? what about the online form?
 - Any questions for me? 
 
 ## Thank-You and Closing - 5 minutes
