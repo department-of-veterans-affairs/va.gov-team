@@ -162,6 +162,8 @@ Only move on to these if there's time.
 
 Sprint 13 is 9 days with the MLK Day holiday.
 
+### [Sprint 13 Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4884)
+
 ### Order of priorities
 
 1. Get address validation ready for QA
