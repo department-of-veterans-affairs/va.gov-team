@@ -268,6 +268,7 @@ Erik may end up helping with some of this.
 
 Design
 - Put together all screens for all states
+- Work with copy
 - Start to plan research
 
 Dev
