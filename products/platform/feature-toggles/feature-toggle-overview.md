@@ -1,4 +1,4 @@
-# Feature Toggles vx.x
+# Feature Toggles v0.2
 *Provide a description of the product and the value it delivers to your customers.*
 
 
@@ -6,7 +6,7 @@
 
 
 ## Product Responsibility (Last updated: )
-*Provide a person or team responsible for part of product support*
+*Provide a person or team responsible for each part of product support.*
 - Troubleshooting:
 - Onboarding:
 - Maintenance:
@@ -14,7 +14,7 @@
 - Product Feedback or New Feature Requests:
 
 ## Examples or References of usage:
-*What VSA teams have/are using the product?*
+*What VSA teams have/are using the product and how did they utilize it?*
 
 ## Version Notes:
 
