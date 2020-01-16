@@ -36,7 +36,7 @@ The PM is responsible for pulling in the appropriate resources and doing an esca
 | --- | --- | --- | --- | --- |
 | Public Websites | Kara Kemali | kara@adhocteam.us| (410) 905-7239 | vsa-public-websites, vsa-Triage |
 | Authenticated Experience | Justin Pickett | jpickett@governmentcio.com| (405) 808-6419 | vsa-authenticated-exp, vsa-Triage |
-| Benefits and Memorials 1 | Yana Roy | yroy@governmentcio.com| (732) 822-1200 | vsa-benefits, vsa-Triage |
+| Benefits and Memorials 1 | Luke Majewski | lmajewski@governmentcio.com| (410) 336-5103 | vsa-benefits, vsa-Triage |
 | eBenefits | Jason Wolf | jwolf@governmentcio.com| (540) 250-5217 | vsa-ebenefits, vsa-Triage |
 | Facility Locator | Michelle Middaugh | michelle.middaugh@adhocteam.us| (208) 659-9368 or (509) 838-7491 | vsa-facilities, vsa-Triage |
 | Benefits and Memorials 2 | Nicolaus Wygonik | nwygonik@governmentcio.com| (708) 560-3506 | vsa-benefits-2, vsa-Triage |
