@@ -1,7 +1,7 @@
 Welcome to the Platform Call Center Folder!
 
 ## VFS Call Center POCs
-- DSVA POC: Chante Lantos-Swett (chante.lantosswett@va.gov)
+- DEPO POC: Chante Lantos-Swett (chante.lantosswett@va.gov)
 - VSP POC: Kimberley Daniels (kimberley.daniels@adhocteam.us)
 
 ## Process Documents
