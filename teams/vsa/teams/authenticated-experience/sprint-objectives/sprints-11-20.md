@@ -4,7 +4,7 @@
 - [Sprint 12](#sprint-12-12---114)
 - [Sprint 13](#sprint-13-115---128)
 - [Sprint 14](#sprint-14-129---211)
-- [Sprint 15]()
+- [Sprint 15](#sprint-15-212---225)
 - [Sprint 16]()
 - [Sprint 17]()
 - [Sprint 18]()
