@@ -223,30 +223,31 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 - Justin to implement Lisa's feedback from [#3892](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3892#issuecomment-565577038)
 
-### Long term planning
+### Team roadmap
 
 - Samara to work on long term planning (Justin — this is **not** something you should include in your sprint report of team deliverables)
 
 ## Sprint 14 (1/29 - 2/11)
 
-## Long term planning
+### Long term planning
 
 - Tressa out: Feb 9 – 19
 
 ### Address validation
 
-#### 508 Review (??)
+#### 508 Review
+
+- Request 508 Review
 
 #### QA
 
 **Tze**
 
-*Question: When is Tze planning to conduct QA? Does he have time off during this sprint?*
+- Finalize QA spreadsheet and QA test cases
+- Conduct QA
+- Create QA bug tickets
 
-- Conduct QA and create tickets for bugs
-  - Bug tickets should be assigned to Justin, Arthur, and Samara
-
-**Arthur**
+**Samara**
 
 - Help manage the QA process
   - Pay attention to bug tickets that come in, and give direction/guidance as necessary for fixes. 
@@ -254,14 +255,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
  
  **Brad**
 
-Erik may end up helping with some of this.
-
-- Start working on bug fixes as they come in.
-  - (Note: no tickets to create yet. Tze will be creating bug tickets as they come in) 
-
-- Pre-launch
-  - Analytics
-  - Etc
+- Work on bug fixes and 508 review updates as they come in.
 
 ### Profile 2.0
 
@@ -275,9 +269,15 @@ Dev
 
 ## Sprint 15 (2/12 - 2/25)
 
-## Long term planning
+### Long term planning
 
 - Tressa out: Feb 9 – 19
+
+### Address validation
+
+- Figure out what analytics we need
+- Review launch checklist and determine what we actually need to do for this feature
+- Start on launch checklist
 
 ### Profile 2.0
 
@@ -290,6 +290,10 @@ Dev
 
 ## Sprint 16 (2/26 - 3/10)
 
+### Address validation
+
+-  Finish launch checklist
+
 ### Profile 2.0
 
 Design
@@ -300,6 +304,10 @@ Dev
 - Build for new profile
 
 ## Sprint 17 (3/11 - 3/24)
+
+### Address validation
+
+- Launch
 
 ### Profile 2.0
 
