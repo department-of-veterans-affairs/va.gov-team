@@ -18,7 +18,9 @@ Create a online experience for Caregivers to apply for, track, and manage benefi
 - VA Product: CC Gong
 - Product Management:  Alayna Abel
 - Front-End Engineering: Justin Linn 
-- Back-End Engineering: Lance Sanchez
+- Back-End Engineering: Kevin Mircovich
+- Research and Deisgn: Jonathan Nelson
+- Content Writing: Patrick Sanders
 
 ### Key Documents
 
