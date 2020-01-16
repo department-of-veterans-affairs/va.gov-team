@@ -1,5 +1,7 @@
 # Personalization 2.0 Discovery: Summary and Strategy
 
+[Original file in vets.gov-team repo](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md)
+
 ## Background
 
 The MVPs of the My VA dashboard, Profile, and Account page launched in the spring of 2018. In June 2019, the Personalization team decided to revisit these products to evaluate what was going well and what could be improved, removed, added, or reorganized. 
