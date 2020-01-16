@@ -19,7 +19,7 @@ Tell us your name and a little about your service history.
 ## Usability Test
 
 ### Scenario
-Let's imagine that you have had flu-like symptoms and want to visit a local facility that takes your VA benefits. For the sake of this test, you are located in Washington D.C.
+Let's imagine that you have the flu and want to visit a local facility that takes your VA benefits. For the sake of this test, you are located in Washington D.C.
 
 **(share link)** https://vsateams.invisionapp.com/share/EZVJMETDFTK#/screens/400664663
 
@@ -28,7 +28,7 @@ I'm going to share a link with you. Once it loads, will you share your screen wi
 We will use a prototype to walk through a few steps in this scenario so not all links on the page will be clickable. Be sure to move a bit slower than you normally would on the web and talk me through what you are thinking.
 
 ### Task 1 - Search
-Let's imagine that you have a have flu-like symptoms and want to find a place to get care as quickly as possible. What would you do on this page first?
+Let's imagine that you have the flu and want to find a place to get care as quickly as possible. What would you do on this page first?
 
 I noticed you chose [whichever type/location they chose]. Will you talk about why you made that choice?
 [If they chose VA Health, ask them to select an option that would provide quicker care.]
