@@ -67,7 +67,6 @@ This quarter marked the end of our first strategic phase (laying the foundation)
 - QA Onboarding
 - TestRail
 - CMS accessibility validation errors
-- CMS broken link checker
 - Plain language linting MVP
 - Health Care Application Best in Class App (in infancy)
 - Call center data report (mostly Chante)
