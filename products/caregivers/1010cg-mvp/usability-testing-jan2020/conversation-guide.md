@@ -86,7 +86,9 @@ Before we start, a few things I want to mention:
 Great. A few last questions:
 - What do you think was the hardest part of that process?
 - What worked well?
-- I'm going to quickly show you the paper form (moderator shares screen with paper form).  Based on going through this flow, would you prefer to fill out this form online or on this paper form? Why?
+- I'm going to quickly show you the paper form (moderator shares screen with paper form).  
+   - (if they have benefits) Do you remember if you filled out this form? If so, how did you do it? Together with the caregiver/veteran?  
+   - Based on going through this flow, would you prefer to fill out this form online or on this paper form? Why? How would this be different than filling out the paper form?
 - Any questions for me? 
 
 ## Thank-You and Closing - 5 minutes
