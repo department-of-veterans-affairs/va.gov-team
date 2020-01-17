@@ -21,13 +21,17 @@ Automated deploys will not occur on the following days, due to holidays:
 * 11/27 - 11/29 - **Thanksgiving**
 * 12/23 - 1/3/2020 - **Winter holiday freeze** (Note: *two weeks*)
 
+#### 2020
+
+*Holiday release freeze schedule update coming soon*
+
 # Requesting out-of-band deploys
 
 If there is a critical issue that needs to be resolved outside the automated deployment schedule (i.e. a bug affecting a large group of users that must be fixed right away), permission must be granted for a manual deploy.
 
 Extra releases to “just get something out sooner” will not be approved.
 
-1. You must reach out to Patrick Bateman and/or Leah Bannon who will escalate this request to Chris Johnston for approval.
+1. You must reach out to Kevin Hoffman who will escalate this request to Chris Johnston for approval.
 1. To deploy this change to production, the release job is run with the git SHA for the commit to deploy.
 1. The auto-deploy boolean flag must be set to `FALSE` on the job.
 1. The release tag is captured and then used as input for the matching deploy job.
