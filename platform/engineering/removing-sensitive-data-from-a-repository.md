@@ -2,9 +2,8 @@
 1. Back up repo
 1. Identify all file(s) to be removed
 1. Fetch everything from remote
-1. Have an admin enable [**Require linear history**](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) setting on `master` branch
+1. Have an admin enable [**Require linear history**](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) setting on `master` branch so GitHub will prevent merge commits from being pushed to the protected branch. 
    * In the [GitHub help center page about removing sensitive info](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository), it says, "Tell your collaborators to rebase, not merge, any branches they created off of your old (tainted) repository history."
-   * When the **Require linear history** setting is enabled, GitHub will prevent merge commits from being pushed to the protected branch. 
 1. Notify people about the upcoming purge and freezing of `master`
 1. Freeze `master` branch so nobody introduces new changes to `master` while the repo is being cleaned
    * Have an admin [enable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
