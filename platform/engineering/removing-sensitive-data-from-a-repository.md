@@ -4,10 +4,12 @@
 1. Fetch everything from remote
 1. Have an admin enable [**Require linear history**](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) setting on `master` branch
 1. Notify people about the upcoming purge and freezing of `master`
-1. Have an admin [enable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
+1. Lock `master` branch so nobody introduces new changes to `master` while the repo is being cleaned
+  * Have an admin [enable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
 1. Run `git filter-branch ...` to remove sensitive content from repo history
-1. [Enable **Allow force pushes** setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch)
-1. Have an admin [disable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
+1. [Enable **Allow force pushes** setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch) so the cleaned history can be pushed to Github
+1. Unlock `master` branch so whoever ran `git filter-branch` can push up the cleaned repo
+  * Have an admin [disable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
 1. Run `git push origin --force --all` 
 1. Have an admin disable **Allow force pushes** setting on `master` branch
 1. Notify people that repo has been cleaned and `master` has been unlocked
