@@ -7,26 +7,26 @@ Jan 21, 2019 – Jan 31, 2020
 As an individual seeking education benefits, I want to understand the eligibility criteria for the STEM scholarship so I can apply if I'm eligible and I don't waste my time applying if I'm not. If I’m currently ineligible, it'd be helpful to know if it's a scholarship I may be eligible for in the future.
 
 #### Solution Hypothesis
-By presenting more detailed information about STEM scholarship eligibility criteria in the Education Benefits routing wizard and the application, not directing individuals to the STEM application if they're ineligible, and addition ineligibility warnings in the application, we will reduce the alarmingly high 90% rejection rate for the STEM Scholarship.  These efforts to enhance the online application will help applicants better understand the scholarship criteria and discourage those wh are ineligible from applying unnecessarily.
+By presenting more detailed information about STEM scholarship eligibility criteria in the Education Benefits Wizard and the application, not directing individuals to the STEM application if they're ineligible, and adding ineligibility warnings in the application, we will significantly reduce the 90% rejection rate for the STEM Scholarship.  These efforts to enhance the online application will help applicants better understand the scholarship criteria and discourage those who are ineligible from applying unnecessarily.
 
 #### Research Questions
 
 The research is designed to answer the following questions:
 
-Education Benefits Wizard
+##### Education Benefits Wizard
 * Does the new copy clearly describe the STEM Scholarship benefits and convey eligibility requirements?
 * What, if any, modifications to the content would make the benefits and eligibility criteria more clear?
 * What additional contextual help would ensure users understand their potential eligibility for the STEM Scholarship?
 * Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
-* Are users who are currently ineligible able to determine under what circumstances they may be eligible in the future?
+* Are users who are currently ineligible able to determine under what circumstances they may become eligible in the future?
 
-VA Form 22-1995
+##### VA Form 22-1995
 * Does the new copy clearly describe the STEM Scholarship benefits and convey eligibility requirements?
 * What, if any, modifications to the content would make the benefits and eligibility criteria more clear?
 * What additional contextual help would ensure users understand their potential eligibility for the STEM Scholarship?
 * Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
-* Are users who are currently ineligible able to determine under what circumstances they may be eligible in the future?
-* Does the order of the questions encourage those who may be interested in scholarships to apply, even though they are ineligible?
+* Are users who are currently ineligible able to determine under what circumstances they may become eligible in the future?
+* Does the copy or the order of the questions encourage ineligible users to apply as the idea of a scholarship is enticing?
 *	What confusion do non-STEM applicants experience when seeing the STEM questions on the Request for Change of Program or Place of Training application and how might this confusion be mitigated?
 
 
@@ -42,24 +42,30 @@ The following users have been identified:
 * Veterans receiving education benefits who are considering changing schools, program of study, or training facility.
 * Veterans who have finished a STEM degree and are interested in obtaining a teaching certificate.
 
-#### What specific questions d
-o we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
+#### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses:
 
-1.	Have you applied for Post-9/11 GI Bill educational benefits before?
-  * If yes, to Question 2
-  * If no, end call.
-2.	Would the idea of a scholarship that extended VA education benefits be appealing to you?
-  * If yes, to Question 3
-  * If no, end call.
-3.	What is/was your field of study?
-  * If STEM, to Question 4
-  * If non-STEM, would you like to participate?
-4.	How many months of your VA educational benefits remain approximately?
-  * If more than 6 months, would you like to participate?
-  * If less than 6 months, end call. (Suggest they check out the STEM Scholarship application https://benefits.va.gov/gibill/fgib/stem.asp )
+### To recruit 2 Non-STEM participants
+1.	Are you using Post-9/11 GI Bill educational benefits to obtain an undergraduate degree?
+  * If yes, pursuing a degree, to Question 2
+  * If yes, already graduated, to Question 3
+  * If no, end call 
+2.	Are you studying science, technology, engineering or math?
+  * If non-STEM, would you like to participate? 
+  * If STEM, would you like to participate?   <-- this can be 1 of the 4 STEM participants
+3.	Is your degree in science, technology, engineering or math?
+  * If Yes, skip to Question 2 below   <-- This is may be 1 of the 4 STEM participants
+  * If non-STEM, end call.
 
+##### To recruit 4 STEM participants
+1.	Are you pursuing an undergraduate degree in science, technology, engineering or math using Post-9/11 GI Bill educational benefits?
+  * If yes, pursuing a STEM degree, would you like to participate?
+  * If already graduated, to Question 2
+  * If no, end call 
+2.	Are you interested in obtaining a teaching certificate?
+  * If yes, would you like to participate?
+  * If no, end call.
 
 #### What kind of user research do we want to conduct?
 
