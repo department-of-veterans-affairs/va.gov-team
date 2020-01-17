@@ -15,16 +15,18 @@ The research is designed to answer the following questions:
 
 Education Benefits Wizard
 * Does the new copy clearly describe the STEM Scholarship benefits and convey eligibility requirements?
-* What, if any, modifications to the content would make the eligibility criteria more clear?
-* What additional contextual help within the wizard would ensure users understand their potential eligibility for the STEM Scholarship?
-* Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying for it?
+* What, if any, modifications to the content would make the benefits and eligibility criteria more clear?
+* What additional contextual help would ensure users understand their potential eligibility for the STEM Scholarship?
+* Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
+* Are users who are currently ineligible able to determine under what circumstances they may be eligible in the future?
 
 VA Form 22-1995
 * Does the new copy clearly describe the STEM Scholarship benefits and convey eligibility requirements?
-* What, if any, modifications to the content would make the eligibility criteria more clear?
-* What additional contextual help within the application would ensure users understand their potential eligibility for the STEM Scholarship?
-* Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying for it?
-* Does the current order of the questions encourage those who may be interested in scholarships to apply, even though they are ineligible?
+* What, if any, modifications to the content would make the benefits and eligibility criteria more clear?
+* What additional contextual help would ensure users understand their potential eligibility for the STEM Scholarship?
+* Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
+* Are users who are currently ineligible able to determine under what circumstances they may be eligible in the future?
+* Does the order of the questions encourage those who may be interested in scholarships to apply, even though they are ineligible?
 *	What confusion do non-STEM applicants experience when seeing the STEM questions on the Request for Change of Program or Place of Training application and how might this confusion be mitigated?
 
 
