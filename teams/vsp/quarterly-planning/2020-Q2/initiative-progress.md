@@ -1,0 +1,4 @@
+- Dockerization of vets-api
+- Ruby upgrade
+- Rails upgrade
+- Dependabot
