@@ -41,8 +41,10 @@ ___
   * Using `git filter-branch`: https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch
   * Using BFG: https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-the-bfg
 * https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch
+* https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history
 * https://rtyley.github.io/bfg-repo-cleaner/
 * https://git-scm.com/docs/git-filter-branch
 * https://medium.com/@ersel_aker/deleting-sensitive-information-from-github-repository-acf0502e773b
 * https://jorin.me/clean-git-history/
 * https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md
+* https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md#documentation-of-va-systems-and-architecture
