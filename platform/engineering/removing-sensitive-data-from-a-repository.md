@@ -7,7 +7,8 @@
 1. Notify people about the upcoming purge and freezing of `master`
 1. Freeze `master` branch so nobody introduces new changes to `master` while the repo is being cleaned
    * Have an admin [enable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
-1. Run `git filter-branch ...` to remove sensitive content from repo history
+1. **During off hours**, run `git filter-branch ...` to remove sensitive content from repo history
+   * `git filter-branch` is reportedly slow, so running this during a night/weekend should cause the least disruption.
 1. [Enable **Allow force pushes** setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch) so the cleaned history can be pushed to Github
 1. Unfreeze `master` branch so whoever ran `git filter-branch` can push up the cleaned repo
    * Have an admin [disable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
