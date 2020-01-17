@@ -1,3 +1,18 @@
+# Checklist for removing PII from a documentation repo
+1. Back up repo
+1. Identify all file(s) to be removed
+1. Fetch everything from remote
+1. Make sure *Require linear history* is enabled
+1. Notify people about the upcoming purge and locking of `master`
+1. Lock `master` to prevent any changes while the repo is being cleaned
+1. Run `git filter-branch ...` to remove sensitive content from repo history
+1. [Enable *Allow force pushes* setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch)
+1. Unlock `master`
+1. Run `git push origin --force --all`
+1. Disable *Allow force pushes* setting on `master` branch
+1. Notify people that repo has been cleaned and `master` has been unlocked
+1. Update [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
+
 [![image](https://user-images.githubusercontent.com/6130520/71724766-1c1c2500-2df7-11ea-805d-c0be983a0596.png)](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository)
 >**Warning: Once you have pushed a commit to GitHub, you should consider any data it contains to be compromised.** If you committed a password, change it! If you committed a key, generate a new one.
 
