@@ -19,13 +19,16 @@
 1. Contact GitHub support to permanently remove cached views and references to the sensitive data in pull requests
 
 ___
+
+### 
+
 [![image](https://user-images.githubusercontent.com/6130520/71724766-1c1c2500-2df7-11ea-805d-c0be983a0596.png)](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository)
 >**Warning: Once you have pushed a commit to GitHub, you should consider any data it contains to be compromised.** If you committed a password, change it! If you committed a key, generate a new one.
 
 >This article tells you how to make commits with sensitive data unreachable from any branches or tags in your GitHub repository. However, it's important to note that those commits may still be accessible in any clones or forks of your repository, directly via their SHA-1 hashes in cached views on GitHub, and through any pull requests that reference them. You can't do anything about existing clones or forks of your repository, but you can permanently remove cached views and references to the sensitive data in pull requests on GitHub by contacting GitHub Support or GitHub Premium Support.
 
 
-## :warning: Warning :warning:
+### :warning: Warning :warning:
 * You have to contact [GitHub Support](https://support.github.com/contact) or [GitHub Premium Support](https://enterprise.githubsupport.com/hc/en-us) to permanently remove cached views and references to the sensitive data in pull requests on GitHub. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repositor
 * GitHub recommends merging or closing all open pull requests before removing files from a repository with `git filter-branch` or BFG Repo-Cleaner. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repositor
 * BFG Repo-Cleaner recommends making a backup of a repo before using the BFG Repo-Cleaner. - https://rtyley.github.io/bfg-repo-cleaner/#usage
@@ -33,17 +36,13 @@ ___
   * There is a [**Require linear history** branch setting](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) that can be used to prevent people from merging branches into the purged repo. 
 
 
-##### [Using `git filter-branch`](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch) 
-
-### Post-purge
-1. Contact GitHub support to permanently remove cached views and references to the sensitive data in pull requests
-1. Tell collaborators to rebase any branches they created off of the old repository history
-
 ##### Resources
 * https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository
   * Using `git filter-branch`: https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch
   * Using BFG: https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-the-bfg
+* https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch
 * https://rtyley.github.io/bfg-repo-cleaner/
 * https://git-scm.com/docs/git-filter-branch
 * https://medium.com/@ersel_aker/deleting-sensitive-information-from-github-repository-acf0502e773b
 * https://jorin.me/clean-git-history/
+* https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md
