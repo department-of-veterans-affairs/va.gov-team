@@ -11,6 +11,10 @@ Analytics Veterans Affairs Forms Page Organic Nov2018-May2019.pdf
 
 vaforms-org-search-keywords-SEMRush.png
 
+Legacy issue: https://github.com/department-of-veterans-affairs/va.gov-team/issues/1482
+
+Current epic: https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/1632
+
 Also tracked in Master DEPO intake board:
 https://github.com/department-of-veterans-affairs/digitalservice/issues/921
 
