@@ -37,42 +37,35 @@ Observing that participants find the contextual help and have few, if any, quest
 #### What kinds of users do we need to talk to answer our questions?
 
 The following users have been identified:
-*	Veterans receiving education benefits, studying in STEM field, with > 6 months of benefits remaining
-*	Veterans receiving education benefits, studying in non-STEM fields (languages, literature, philosophy, art, religion, history, politics, law, business, etc.), with any remaining benefits
-* Veterans receiving education benefits who are considering changing schools, program of study, or training facility.
-* Veterans who have finished a STEM degree and are interested in obtaining a teaching certificate.
+*	Post 9/11 GI bill Veterans or Fry Scholars who are pursuing an undergraduate degree in STEM field
+* Post 9/11 GI bill Veterans or Fry Scholars who have finished a STEM degree and are interested in obtaining a teaching certificate.
+*	Post 9/11 GI bill Veterans or Fry Scholars who are studying in non-STEM fields (languages, literature, philosophy, art, religion, history, politics, law, business, etc.)
 
 #### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses:
 
-### To recruit 2 Non-STEM participants
-1.	Are you using Post-9/11 GI Bill educational benefits to obtain an undergraduate degree?
-  * If yes, pursuing a degree, to Question 2
-  * If yes, already graduated, to Question 3
+### To recruit 4 STEM participants and 2 Non-STEM participants
+1.	Are you currentley, or have you in the past, used Post-9/11 GI Bill educational benefits to obtain an undergraduate degree?
+  * If currently using, to Question 2
+  * If already graduated, to Question 3
   * If no, end call 
 2.	Are you studying science, technology, engineering or math?
-  * If non-STEM, would you like to participate? 
-  * If STEM, would you like to participate?   <-- this can be 1 of the 4 STEM participants
+  * If non-STEM, would you like to participate? **<-- 1 of 2 Non-STEM participants
+  * If STEM, would you like to participate?   **<-- 1 of 4 STEM participants
 3.	Is your degree in science, technology, engineering or math?
-  * If Yes, skip to Question 2 below   <-- This is may be 1 of the 4 STEM participants
-  * If non-STEM, end call.
-
-##### To recruit 4 STEM participants
-1.	Are you pursuing an undergraduate degree in science, technology, engineering or math using Post-9/11 GI Bill educational benefits?
-  * If yes, pursuing a STEM degree, would you like to participate?
-  * If already graduated, to Question 2
-  * If no, end call 
-2.	Are you interested in obtaining a teaching certificate?
-  * If yes, would you like to participate?
+  * If Yes, skip to Question 4   
+  * If No, end call.
+4.	Are you interested in obtaining a teaching certificate?
+  * If yes, would you like to participate? **<-- 1 of 4 STEM participants
   * If no, end call.
 
 #### What kind of user research do we want to conduct?
 
 The following research methods will be used:
 
-Remote interview and review of production site wizard with:
-*	4-6 Veterans (Recruit 6)
+Remote usability testing of a prototype with:
+*	4-6 Veterans (Recruit 4 STEM participants and 2 non-STEM participants)
 
 
 #### What testing and recording tools do we need to run the research sessions?
@@ -84,9 +77,11 @@ In-person notes will be taken by hand and/or on a computer.
 #### What artifacts do we need to support the research effort?
 
 The following artifacts will be developed:
+* Interactive Prototype
 *	Veteran Discussion Guide  
 
-The Discussion Guide will be ready by: Jan 26, 2020
+The Interactive Prototype will be ready by: Jan 27, 2020
+The Discussion Guide will be ready by: Jan 27, 2020
 
 
 #### Who will fill the team roles?
