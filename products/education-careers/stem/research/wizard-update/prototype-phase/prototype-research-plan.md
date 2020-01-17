@@ -7,32 +7,31 @@ Jan 21, 2019 – Jan 31, 2020
 As an individual seeking education benefits, I want to understand the eligibility criteria for the STEM scholarship so I can apply if I'm eligible.  If I’m currently ineligible, I'd like to know up front, before I spend time completing the application. 
 
 #### Solution Hypothesis
-By presenting detailed, easy to scan information regarding eligibility criteria in the Education Benefits Wizard and the STEM application and by adding alerts as ineligible responses are provided in the application, we will significantly reduce the 90% rejection rate for the STEM Scholarship.  These efforts will help applicants better understand the scholarship criteria and discourage those who are ineligible from applying unnecessarily.
+By presenting detailed information regarding eligibility criteria in the Education Benefits Wizard and the STEM application and by adding alerts as ineligible responses are provided in the application, we will significantly reduce the 90% rejection rate for the STEM Scholarship.  These efforts will help applicants better understand the scholarship criteria and discourage those who are ineligible from applying unnecessarily.
 
 #### Research Questions
 
 The research is designed to answer the following questions:
 
 ##### Education Benefits Wizard
-* Does the new copy clearly describe the STEM Scholarship benefits and convey eligibility requirements?
-* What, if any, modifications to the content would make the benefits and eligibility criteria more clear?
-* What additional contextual help would ensure users understand their potential eligibility for the STEM Scholarship?
+* Does the new copy clearly describe the STEM Scholarship eligibility requirements?
+* What, if any, modifications to the content or design would make the eligibility criteria more clear?
+* What questions do participants have regarding their potential eligibility for the STEM Scholarship?
 * Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
-* Are users who are currently ineligible able to determine under what circumstances they may become eligible in the future?
+* Are ineligible participants able to determine under what circumstances they may become eligible in the future?
 
 ##### VA Form 22-1995
-* Does the new copy clearly describe the STEM Scholarship benefits and convey eligibility requirements?
-* What, if any, modifications to the content would make the benefits and eligibility criteria more clear?
-* What additional contextual help would ensure users understand their potential eligibility for the STEM Scholarship?
+* Does the new copy clearly describe the STEM Scholarship eligibility requirements?
+* What, if any, modifications to the content or design would make the eligibility criteria more clear?
+* What questions do participants have regarding their potential eligibility for the STEM Scholarship?
 * Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
-* Are users who are currently ineligible able to determine under what circumstances they may become eligible in the future?
-* Does the copy or the order of the questions encourage ineligible users to apply as the idea of a scholarship is enticing?
+* Are ineligible participants able to determine under what circumstances they may become eligible in the future?
+* Does the copy or the order of the questions inadvertantly encourage ineligible users to apply for the scholarship?
 *	What confusion do non-STEM applicants experience when seeing the STEM questions on the Request for Change of Program or Place of Training application and how might this confusion be mitigated?
-
 
 #### What knowledge will make us feel like the research process has been successful?
 
-Observing that participants find the contextual help and have few, if any, questions about who is eligible for the scholarship after reading the copy will make us feel like the research process has been successful.
+Observing that participants are able to quickly and easily determine their eligibility for the scholarship as they engage with the wizard and complete the application will make us feel like the research process has been successful.
 
 #### What kinds of users do we need to talk to answer our questions?
 
@@ -46,7 +45,7 @@ The following users have been identified:
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses:
 
 ### To recruit 4 STEM participants and 2 Non-STEM participants
-1.	Are you currentley, or have you in the past, used Post-9/11 GI Bill educational benefits to obtain an undergraduate degree?
+1.	Are you currently, or have you in the past, used Post-9/11 GI Bill or Fry Scholar benefits to obtain an undergraduate degree?
   * If currently using, to Question 2
   * If already graduated, to Question 3
   * If no, end call 
@@ -54,7 +53,7 @@ In addition to the standard questions, which ensure a representative mix of part
   * If non-STEM, would you like to participate? **<-- 1 of 2 Non-STEM participants
   * If STEM, would you like to participate?   **<-- 1 of 4 STEM participants
 3.	Is your degree in science, technology, engineering or math?
-  * If Yes, skip to Question 4   
+  * If Yes, to Question 4   
   * If No, end call.
 4.	Are you interested in obtaining a teaching certificate?
   * If yes, would you like to participate? **<-- 1 of 4 STEM participants
@@ -64,13 +63,12 @@ In addition to the standard questions, which ensure a representative mix of part
 
 The following research methods will be used:
 
-Remote usability testing of a prototype with:
-*	4-6 Veterans (Recruit 4 STEM participants and 2 non-STEM participants)
+* Remote usability testing of a prototype with 4-6 Veterans (4 STEM participants and 2 non-STEM participants)
 
 
 #### What testing and recording tools do we need to run the research sessions?
 
-Remote Interviews will be recorded via WebEx Usability test sessions will be recorded via WebEx 
+Usability test sessions will be recorded via TBD (WebEx, Zoom, or GoToMeeting)
 
 In-person notes will be taken by hand and/or on a computer.
 
