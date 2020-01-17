@@ -42,28 +42,31 @@ The following users have been identified:
 
 #### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
 
-In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses:
+In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses to recruit:
 
-### To recruit 4 STEM participants and 2 Non-STEM participants
-1.	Are you currently, or have you in the past, used Post-9/11 GI Bill or Fry Scholar benefits to obtain an undergraduate degree?
+* 4 STEM participants 
+* 2 Non-STEM participants
+
+### Usability testing screener questions
+1.	Are you currently using, or have you in the past used, Post-9/11 GI Bill or Fry Scholar benefits to obtain an undergraduate degree?
   * If currently using, to Question 2
   * If already graduated, to Question 3
   * If no, end call 
 2.	Are you studying science, technology, engineering or math?
-  * If non-STEM, would you like to participate? **<-- 1 of 2 Non-STEM participants
-  * If STEM, would you like to participate?   **<-- 1 of 4 STEM participants
+  * If non-STEM, would you like to participate?   **<-- Non-STEM participant
+  * If STEM, would you like to participate?       **<-- STEM participant
 3.	Is your degree in science, technology, engineering or math?
   * If Yes, to Question 4   
-  * If No, end call.
+  * If No, end call
 4.	Are you interested in obtaining a teaching certificate?
-  * If yes, would you like to participate? **<-- 1 of 4 STEM participants
-  * If no, end call.
+  * If yes, would you like to participate?        **<-- STEM participant
+  * If no, end call
 
 #### What kind of user research do we want to conduct?
 
 The following research methods will be used:
 
-* Remote usability testing of a prototype with 4-6 Veterans (4 STEM participants and 2 non-STEM participants)
+* Remote usability testing of a prototype with 4-6 Veterans (Ideally, 4 STEM participants and 2 non-STEM participants)
 
 
 #### What testing and recording tools do we need to run the research sessions?
@@ -75,12 +78,11 @@ In-person notes will be taken by hand and/or on a computer.
 #### What artifacts do we need to support the research effort?
 
 The following artifacts will be developed:
-* Interactive Prototype
 *	Veteran Discussion Guide  
+* Interactive Prototype
 
-The Interactive Prototype will be ready by: Jan 27, 2020
 The Discussion Guide will be ready by: Jan 27, 2020
-
+The Interactive Prototype will be ready by: Jan 27, 2020
 
 #### Who will fill the team roles?
 * Screener writers: Amy Knox
@@ -94,7 +96,7 @@ The Discussion Guide will be ready by: Jan 27, 2020
 #### When do we want to conduct the testing?
 
 Interviews and site review
-*	Interview will be conducted - Jan 28th & 29th 2020
+*	Interview will be conducted Jan 28th & 29th 2020
 *	Usability Testing timeslots will be: 
      * Jan 28: 11AM, 1PM, 3PM, 5PM 
      * Jan 29: 9AM, 11PM, 1PM, 3PM, 5PM 
