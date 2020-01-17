@@ -1,13 +1,23 @@
-This is the folder for all background, historical, discovery documents for this product. 
+# Product outline: Redesign the Find a VA Form page https://www.va.gov/vaforms/
 
-Things like: 
-- Anaylytics
-- Design files
-- Content files
-- Requirements
-- Ongoing discussions and outcomes with VA stakeholders
+Search research indicates that the VA forms page consistently gets high organic search traffic. However it has almost no or very little conversion value. Because this page already gets high organic traffic and has high potential to provide better conversion:
 
-VA forms stakeholder working group includes:
+- we want to redesign experience on this page to the new VA.gov look and feel.
+- we want to create new content on this page to drive traffic to top tasks and to the top digital versions of form applications.
+- we want to add analytics tracking to all links and downloads.
+
+Search research attached as FYSA:
+Analytics Veterans Affairs Forms Page Organic Nov2018-May2019.pdf
+
+vaforms-org-search-keywords-SEMRush.png
+
+Also tracked in Master DEPO intake board:
+https://github.com/department-of-veterans-affairs/digitalservice/issues/921
+
+## This is the folder for all background, historical, discovery documents for this product. 
+
+
+__VA forms stakeholder working group includes:__
 
 - Huber, Diane <Diane.Huber@va.gov>; 
 - Walker, Stephen <Stephen.Walker4@va.gov>; 
