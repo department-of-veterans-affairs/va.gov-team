@@ -5,9 +5,9 @@
 ### Maps
 ![Option 1 - Dashboard Concept](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-1.jpg "Iteration One, Dashboard Concept")
 
-![Option 2 - Content Page Actions 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-2.jpg "Iteration One, Dashboard Concept")
+![Option 2 - Content Page Actions 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-2.jpg "Iteration Two, No Dashboard")
 
-![Option 3 - Content Page Actions 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-3.jpg "Iteration One, Dashboard Concept")
+![Option 3 - Content Page Actions 2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v1-3.jpg "Iteration Three, No Dashboard")
 
 ### Outcomes & Feedback
 As the design team worked, we uncovered some gaps in our knowledge that we needed answered.
@@ -28,3 +28,8 @@ As the design team worked, we uncovered some gaps in our knowledge that we neede
     - Mikki: We would see the two forms at the bottom of each structure merge into one order form.
     - Rebecca: So if we have a general reorder form, you'd still like to see product specific pages?
     - Mikki: There are 2 options, either we have individual content pages for the different products that converge onto a single order form, or we have a single "medical device" hub that describes the products and links to a single form (similar to structure 3).  It really depends on how much content we want/need to provide around each item.  If we can shore up the content, then we can condense those static pages into a single medical device page that links to a single ordering form.  I've added this as a 4th structure.
+
+## Iteration 2 - Sprint 13
+
+### Order Flow "Happy Paths" for Single & Multiple Selections
+![Order Flow "Happy Paths" for Single & Multiple Selections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v2-1.jpg "Iteration One, Single + Multiple Selections")
