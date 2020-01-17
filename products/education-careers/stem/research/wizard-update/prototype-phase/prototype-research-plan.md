@@ -7,7 +7,7 @@ Jan 21, 2019 – Jan 31, 2020
 As an individual seeking education benefits, I want to understand the eligibility criteria for the STEM scholarship so I can apply if I'm eligible.  If I’m currently ineligible, I'd like to know up front, before I spend time completing the application. 
 
 #### Solution Hypothesis
-By presenting detailed information regarding eligibility criteria in the Education Benefits Wizard and the STEM application and by adding alerts as ineligible responses are provided in the application, we will significantly reduce the 90% rejection rate for the STEM Scholarship.  These efforts will help applicants better understand the scholarship criteria and discourage those who are ineligible from applying unnecessarily.
+By adding detailed eligibility criteria to the Education Benefits Wizard, statically displaying revised copy in the STEM application and adding alerts as ineligible application responses are provided, we will significantly reduce the 90% rejection rate for the STEM Scholarship.  These efforts will help applicants better understand the scholarship criteria and discourage those who are ineligible from applying unnecessarily.
 
 #### Research Questions
 
