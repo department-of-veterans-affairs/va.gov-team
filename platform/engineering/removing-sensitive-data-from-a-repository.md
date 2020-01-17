@@ -2,14 +2,14 @@
 1. Back up repo
 1. Identify all file(s) to be removed
 1. Fetch everything from remote
-1. Make sure *Require linear history* is enabled
-1. Notify people about the upcoming purge and locking of `master`
-1. Lock `master` to prevent any changes while the repo is being cleaned
+1. Have an admin enable [**Require linear history**](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) setting on `master` branch
+1. Notify people about the upcoming purge and freezing of `master`
+1. Have an admin [enable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
 1. Run `git filter-branch ...` to remove sensitive content from repo history
-1. [Enable *Allow force pushes* setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch)
-1. Unlock `master`
-1. Run `git push origin --force --all`
-1. Disable *Allow force pushes* setting on `master` branch
+1. [Enable **Allow force pushes** setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch)
+1. Have an admin [disable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
+1. Run `git push origin --force --all` 
+1. Have an admin disable **Allow force pushes** setting on `master` branch
 1. Notify people that repo has been cleaned and `master` has been unlocked
 1. Update [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
 
