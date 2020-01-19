@@ -1,4 +1,4 @@
-# VSA
+# Veteran-facing Services Applications (VSA)
 
 ## Guideposts
 ![VA.gov VSA Guideposts](./product/va-vsa-guideposts.png)
