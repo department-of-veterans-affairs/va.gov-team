@@ -1,7 +1,7 @@
 # VSA
 
-### Description of Current Work
-Enable Veterans and their caregivers to easily discover, apply for, track, and manage their benefits in one place.
+## Guideposts
+![VA.gov VSA Guideposts](./product/va-vsa-guideposts.png)
 
 ### Slack Channels
 - #vsa
@@ -12,6 +12,8 @@ Enable Veterans and their caregivers to easily discover, apply for, track, and m
 - #vsa-facilities
 - #vsa-public-websites
 - #vsa-ebenefits
+- #vsa-caregiver
+- #vsa-product (product management-specific)
 - #vfs-all-teams
 
 
@@ -23,12 +25,11 @@ _What labels are your GitHub issues tagged with?_
 ### Points of Contact 
 _Who are the primary contacts for your team(s)?  
 Do not publish personal contact info, only names and slack contact name._
-- Program Management: Luke Majewski 
+- Program Management: André Zwilling
 - Product Management:  Mickin Sahni 
 - Design: Shawna Hein 
-- Engineering: Joe Costa 
-- Agile Delivery: Adam Eltarhoni 
-- Operations: Luis Dimas
+- Engineering: Paul Short
+- Operations: Yana Roy
 - Accessibility: Jennifer Strickland
 - QA: Tze-chiu Lei
 
@@ -40,6 +41,7 @@ Do not publish personal contact info, only names and slack contact name._
 - [Facilities](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/facility-locator)
 - [Public Websites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/global-ux)
 - [VA Medical Center (VAMC)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/vamc)
+- [Caregiver](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/caregiver)
 
 ### Key Documents
 
