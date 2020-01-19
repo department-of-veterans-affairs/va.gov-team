@@ -18,13 +18,10 @@
 
 
 ### Github Labels
-_What labels are your GitHub issues tagged with?_
 - `vsa` `vsa-authenticated-exp` `vsa-benefits` `vsa-benefits-2` `vsa-decision-reviews` `vsa-ebenefits` `vsa-facilities` `vsa-public-websites` `VAMC-upgrade`
 
 
 ### Points of Contact 
-_Who are the primary contacts for your team(s)?  
-Do not publish personal contact info, only names and slack contact name._
 - Program Management: André Zwilling
 - Product Management:  Mickin Sahni 
 - Design: Shawna Hein 
