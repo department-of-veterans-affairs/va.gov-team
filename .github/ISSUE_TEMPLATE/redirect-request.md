@@ -26,11 +26,11 @@ Please indicate when the redirect(s) needs to be implemented"
 - [ ] Can happen within 1-5 business days after new URLs launch
 - [ ] Other - Please indicate timing : 
 
-**The requesting team is responsible for notifying the group working on this issue if the target date changes**
+**The requesting team is responsible for notifying the group working on this issue if the target date changes. They are also responsible for ensuring the destination URLs are implemented correctly and live at the time the redirects are deployed.**
 
 ### Redirects Needed
 
-Current URL  |  Redirect to new URL
+Current URL  |  Redirect Destination (new URL)
 ---  |  ---
 *enter current URL* | *enter new URL*
 
