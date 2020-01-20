@@ -33,11 +33,7 @@ All redirects will be routed through Content and IA team for validation and then
 - Title the issue "Redirect Request: [name of page/description of pages]"
 - Include the date redirects need to be implemented by
 - Include background and reason for redirect request
-- Document the current URL and where the URL should be redirected to.  Example:
-
-> Current Page/URL  |  Redirect to
-> ---  |  ---
-> www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/
+- Document the current URL and where the URL should be redirected to.  
 
 2.  Content and IA team will vet the request and assign to implementation team.
 
