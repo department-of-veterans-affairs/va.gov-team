@@ -129,6 +129,7 @@ We're almost ready to move to the prototype now, and I'll ask you to do a few ta
 - If you wanted to update this list somehow, how would you do that?
 - Now that you have this information about these schools, what would your next step be?
 - Imagine you want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
+- Now, if you go back to the last screen (screen with "Added" button) - what do you think would happen if you clicked on the button with the `Added` label?
 
 ### Things to watch for:
 
