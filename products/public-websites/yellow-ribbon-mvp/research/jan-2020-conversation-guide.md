@@ -95,7 +95,7 @@ We're almost ready to move to the prototype now, and I'll ask you to do a few ta
 - Go to the other tab we opened earlier, with the prototype.
 - Take a look at the content on this page. Tell me what you think this page is for, what you can do here. You can scroll up and down, but don't click on anything just yet.  Think aloud as you look.
 - What are your thoughts on the search criteria?
-- Let's imagine you live in California, and you're interested in finding an in-state school for a Bachelor's degree. Go ahead and see if you can find that.
+- Let's imagine you live in Illinois, and you're interested in finding an in-state school for an undergraduate degree. Go ahead and see if you can find that.
 
 - After results are presented:
 
