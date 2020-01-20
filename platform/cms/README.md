@@ -15,12 +15,16 @@ The CMS is built with Drupal and currently supports 4 main products at VA:
 ## How to Reach Us
 
 The CMS points of contact are:  
-- Kevin Walsh, PM - Slack @Kevin Walsh
-- More tbd.
+- Kevin Walsh, Product Manager - Slack `@Kevin Walsh`
+- Jeff Brauer, Program Manager - Slack `@Jeff Brauer`
+- Steve Wirt, Tech Lead - Slack `@Steve Wirt`
+- Elijah Lynn, DevOps Lead - Slack `@Elijah Lynn`
+- Jordana Mello, Design Lead - Slack `@Jordana Mello`
+- Howard Brande, Help Desk / Support manager Slack `@Howard Brande`
 
 Slack channels:
-- #cms-general (to be renamed to #cms-support?)
-- #cms-engineering
+- #cms-support 
+- #cms-team
 
 Github/Zenhub labels:
 - `cms-team`? (TBD)
