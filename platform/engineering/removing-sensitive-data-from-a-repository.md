@@ -57,3 +57,4 @@ ___
 * https://jorin.me/clean-git-history/
 * https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md
 * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md#documentation-of-va-systems-and-architecture
+* https://help.github.com/en/github/managing-your-work-on-github/deleting-an-issue
