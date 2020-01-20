@@ -31,6 +31,10 @@ ___
 
 >This article tells you how to make commits with sensitive data unreachable from any branches or tags in your GitHub repository. However, it's important to note that those commits may still be accessible in any clones or forks of your repository, directly via their SHA-1 hashes in cached views on GitHub, and through any pull requests that reference them. You can't do anything about existing clones or forks of your repository, but you can permanently remove cached views and references to the sensitive data in pull requests on GitHub by contacting GitHub Support or GitHub Premium Support.
 
+## Checklist for removing a GitHub issue that contains PII
+
+COMING SOON
+
 
 ### :warning: Warning :warning:
 * You have to contact [GitHub Support](https://support.github.com/contact) or [GitHub Premium Support](https://enterprise.githubsupport.com/hc/en-us) to permanently remove cached views and references to the sensitive data in pull requests on GitHub. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repositor
