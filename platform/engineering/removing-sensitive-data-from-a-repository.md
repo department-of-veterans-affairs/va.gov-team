@@ -42,15 +42,15 @@ ___
 * GitHub recommends merging or closing all open pull requests before removing files from a repository with `git filter-branch` or BFG Repo-Cleaner. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repositor
 * BFG Repo-Cleaner recommends making a backup of a repo before using the BFG Repo-Cleaner. - https://rtyley.github.io/bfg-repo-cleaner/#usage
 * GitHub recommends telling collaborators to rebase, **not merge**, any branches they created off of the old (tainted) repository history because one merge commit could reintroduce some or all of the tainted history. - https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch
-  * There is a [**Require linear history** branch setting](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) that can be used to prevent people from merging branches into the purged repo. 
-
+  * There is a [**Require linear history** branch setting](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) that can be used to prevent future merge commits from being pushed to the protected branch.
 
 ##### Resources
 * https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository
   * Using `git filter-branch`: https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-filter-branch
   * Using BFG: https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository#using-the-bfg
 * https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch
-* https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history
+* https://help.github.com/en/github/administering-a-repository/requiring-a-linear-
+-history
 * https://rtyley.github.io/bfg-repo-cleaner/
 * https://git-scm.com/docs/git-filter-branch
 * https://medium.com/@ersel_aker/deleting-sensitive-information-from-github-repository-acf0502e773b
