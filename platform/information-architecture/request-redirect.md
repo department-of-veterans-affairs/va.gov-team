@@ -26,23 +26,23 @@ All redirects will be routed through Content and IA team for validation and then
 - Communicate any timing concerns to everyone on the ticket
 - Communicate when redirect has been deployed so teams can validate
 
-1. Create an issue using the "Redirect Request" template
+### Process
 
-2. Title the issue "Redirect Request: [name of page/description of pages]"
+1. Create an issue using the "Redirect Request" template **at least 2 weeks prior to desired launch date**
 
-3. Include the date redirects need to be implemented by
+- Title the issue "Redirect Request: [name of page/description of pages]"
+- Include the date redirects need to be implemented by
+- Include background and reason for redirect request
+- Document the current URL and where the URL should be redirected to.  Example:
 
-4. Include background and reason for redirect request
+> Current Page/URL  |  Redirect to
+> ---  |  ---
+> www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/
 
-5. Document the current URL and where the URL should be redirected to.  Example:
+2.  Content and IA team will vet the request and assign to implementation team.
 
-Current Page/URL  |  Redirect to
----  |  ---
-www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/
+3. Implementation team will implement redirects and notified everyone on issue once deployed.
 
-6. Please tag the issue with:
-- Content and IA team labels  - `content-ia-team` and `ia` 
-- Label used by your team (for example, ```BAH-526``` ```GI Bill Comparison Tool``` ```vsa-benefits-memorial```)
-- Assign issue to @mnorthuis, @meganhkelley 
+4. Requesting team will validate in production and close issue. 
 
 
