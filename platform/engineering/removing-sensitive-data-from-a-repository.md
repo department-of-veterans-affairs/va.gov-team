@@ -2,8 +2,6 @@
 1. Back up repo
 1. Identify all file(s) to be removed
 1. Fetch everything from remote
-1. Have an admin enable [**Require linear history**](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) setting on `master` branch so that GitHub will prevent merge commits from being pushed to the protected branch. 
-   * We enable linear history because the [GitHub help center page about removing sensitive info](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository), it says, "Tell your collaborators to rebase, not merge, any branches they created off of your old (tainted) repository history."
 1. Notify people about the upcoming purge and freezing of `master`
 1. Freeze `master` branch so nobody introduces new changes to `master` while the repo is being cleaned
    * Have an admin [enable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
@@ -12,10 +10,13 @@
    * Syntax: `git filter-branch --force --index-filter "git rm --cached --ignore-unmatch ${FILE-1-PATH} ${FILE-2-PATH} etc" --prune-empty --tag-name-filter cat -- --all`
    * Example: `git filter-branch --force --index-filter "git rm --cached --ignore-unmatch foo/bar.md .env" --prune-empty --tag-name-filter cat -- --all`
    * Note: `git filter-branch` is reportedly slow, so running this during a night/weekend should cause the least disruption. As of 2020-01-17, it took ~30 minutes to complete for the `va.gov-team` repo
-1. [Enable **Allow force pushes** setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch) so the cleaned history can be pushed to Github
+1. Have an admin [Enable **Allow force pushes** setting](https://help.github.com/en/github/administering-a-repository/enabling-force-pushes-to-a-protected-branch) so the cleaned history can be pushed to Github
 1. Unfreeze `master` branch so whoever ran `git filter-branch` can push up the cleaned repo
    * Have an admin [disable **Restrict who can push to matching branches** setting](https://help.github.com/en/github/administering-a-repository/enabling-branch-restrictions) on `master` branch while repo is being cleaned.
+1. Have an admin disable [**Require linear history**](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) setting on `master` branch so `git push origin --force --all` doesn't fail because of preexisting merge commits. 
 1. Run `git push origin --force --all` 
+1. Have an admin enable [**Require linear history**](https://help.github.com/en/github/administering-a-repository/requiring-a-linear-commit-history) setting on `master` branch so that GitHub will prevent future merge commits from being pushed to the protected branch. 
+   * We enable linear history because the [GitHub help center page about removing sensitive info](https://help.github.com/en/github/authenticating-to-github/removing-sensitive-data-from-a-repository), it says, "Tell your collaborators to rebase, not merge, any branches they created off of your old (tainted) repository history."
 1. Have an admin disable **Allow force pushes** setting on `master` branch so nobody else force pushes the tainted history back into the repo.
 1. Notify people that repo has been cleaned and `master` has been unfrozen
 1. Update [purge log](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/purge-log.md)
