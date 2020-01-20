@@ -9,7 +9,7 @@ assignees: emilywaggoner, sshein, CrystabelReiter,jenstrickland, 1copenut, tzele
 
 ## Instructions
 
-1. Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team.
+1. Click or press the gear icon next to the "Labels" heading on the right. Search for your team in the labels list. If your team is not listed in the Labels menu, please leave a comment after you have created this issue. The Product Support team will create a new label for your team. -->
 2. Text inside `<-- comment -->` blocks will not appear in your issue ticket. These comments offer guidance on what information you should provide for each section.
 
 ### For reference
@@ -36,7 +36,7 @@ assignees: emilywaggoner, sshein, CrystabelReiter,jenstrickland, 1copenut, tzele
 
 [ ] **Design Intent** (for early discussions about needs, priorities, concepts, research planning, and direction)
 
-[ ] **Pre-usability testing Review** (for prototype and testing validation of best practices, alignment with va design system, and inclusive research best practices)
+[ ] **Pre-usability Testing Review** (for prototype and testing validation of best practices, alignment with va design system, and inclusive research best practices)
 
 [ ] **Design Review** (for design work validation of best practices and alignment with the va design system)
 
@@ -46,6 +46,8 @@ assignees: emilywaggoner, sshein, CrystabelReiter,jenstrickland, 1copenut, tzele
 [ ] Initial concept
 
 [ ] Initial mockup
+
+[ ] Pre-usability testing
 
 [ ] Final mockup
 
@@ -64,4 +66,4 @@ assignees: emilywaggoner, sshein, CrystabelReiter,jenstrickland, 1copenut, tzele
 
 ## Next steps
 
-This issue *automagically* creates a Zenhub ticket (assigned to Emily, Crystabel, Megan Kelley, Peggy Gannon, Trevor and Jennifer (VSA Accessibility Specialist), and VSP will schedule a design review. Feedback from the design review will be collected in the issue ticket. Be prepared to frame your design in the first ten minutes. Reviewers will have an opportunity to ask questions for five minutes each.
+This issue *automagically* creates a Zenhub ticket (assigned to Emily, Crystabel, Megan Kelley, Peggy Gannon, Shawna, Trevor and Jennifer), then VSP will convert this issue into an epic andschedule a design review. Feedback from the design review will be collected in the issue ticket. Be prepared to frame your design in the first ten minutes. Reviewers will have an opportunity to ask questions for five minutes each, and provide feedback in individual issues collected in this epic.
