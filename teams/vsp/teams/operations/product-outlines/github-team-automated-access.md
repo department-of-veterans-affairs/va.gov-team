@@ -23,13 +23,13 @@
 # Implementation Information
 - [Current Status](#current-status)
 - [Solution Narrative](#solution-narrative)
-- [Dependentences](#dependentences)
+- [Dependencies](#Dependencies)
 - [Key Words](#key-words)
 
 
 ---
 # Executive Summary
-We are setting GitHub at the center of user management by using GitHub teams for role/access management, where team changes trigger an external service to provision both AWS IAM users and SSH keys for SOCKS to completely automate access onboarding. 
+We are setting GitHub at the center of user management by using GitHub teams for role/access management, where team changes trigger an external service to provide both AWS IAM users and SSH keys for SOCKS to completely automate access onboarding. 
 
 ## User Problem Statement
 The process for access is very manual and time-intensive for both VSP Operations and the users requesting access. Right now, to get access, a user needs to follow instructions and fill out a ZH issue. The issue needs to have a member of the VSP tag DEPO for review. Then once approved, the user will be added to very confusing Ansible groups that are maintained by three different Infrastructure teams. To be granted access, it takes at a minimum of about one sprint for a user to gain access.
@@ -49,7 +49,7 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 - Teams want fast, easy, and secure access.
 - Having GH teams be the center of truth makes the most sense.
 - Even with the push away from SSH, we will be continuing to move forward because change will need to happen no matter what, and this work is already underway. The work to move from SSH to SSM will be the same amount of work if we do it now vs later. 
-- Giving teams control of their own access, will empower them to make the right chose for them and be actively owning their team access.
+- Giving teams control of their own access, will empower them to make the right choice for them and be actively owning their team access.
 - Access Onboarding and Offboarding will be easier and more reliable than the current process. 
   - They will also maintain their GH team by adding and removing users when new members come and go.
 - GH teams will take out the manual steps of access on/offboarding 
@@ -68,7 +68,7 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 - Starting first with SSH and then moving into AWS.
 - Starting and testing with VSP Ops, then VSP Engeeriners, and then VSP as a whole before rolling out to all teams on VA.gov.
 - Validating we can tighten permissions in Jenkins so teams can only see jobs, but not run them 
-   - Only Operations, BE and FE tools will have the ability to run jobs in Jenkins. New members to these teams will need to go through need to be added to the gerneral Parent Team (with just SOCKS and Jenkins read permissions) before getting added to their team (this is because those teams will have higher level of access to jenkins and once approved they can be added to the team).
+   - Only Operations, BE and FE tools will have the ability to run jobs in Jenkins. New members to these teams will need to go through need to be added to the general Parent Team (with just SOCKS and Jenkins read permissions) before getting added to their team (this is because those teams will have higher level of access to jenkins and once approved they can be added to the team).
    - Use Nested teams to male it easier for granting group access, ie Parent team has SOCKs access, so all the children will get that access. 
    - New VFS members can be added to the teams on day 1 after Jenkins permissions are tightened to only read access to Jenkins. Got the green light from Patrick after we demo this functionality, to use this plan and start rolling out to VFS teams.
         - Certain VFS team members that need access will be granted access via a nested team. (May need to go through an all-clear process similar for AWS access, need to confirm with Depo.)  
@@ -80,14 +80,14 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 - Operations will talk with each team to find out what level of access a VFS team needs to accomplish its mission developing on VA.gov. 
   - Because GH is the source of truth, users will need to add their SSH into their GH account.
 - Operations will create a GH team with pre-set permissions and set two maintainers for each team. They will have the power to add and remove members from their GH team. 
-- Parent teams will be used for general access purposes and the nested teams will be used for more granualr permissions.
+- Parent teams will be used for general access purposes and the nested teams will be used for more granular permissions.
 - Once members are added to a GH team they can follow these instructions (Place holder, need to update documentation) 
   - Users will be added to their jump boxes (which are rebuilt every day).
 - On deploys, the user's SSH keys will be grabbed from Github and added.
 - If a user is removed from a GH team the jobs will be run and the user will then revoked access.
 - If a user changes their SSH, they will need to be removed then readded to the team. 
 - Only Operations, BE and FE tools teams will have access to run jobs in Jenkins. (Some others will depending on needs)
-- If teams need to change their name the whole team will need to be delted and a new one will need to be created. ( need to verifty this now that we are using nested teams.)****
+- If teams need to change their name the whole team will need to be deleted and a new one will need to be created. ( need to verify this now that we are using nested teams.)****
 
 
 ## The Plan
@@ -139,7 +139,7 @@ Step 6:
 
 ### Tracking
 - How long it takes users to be granted access and access to be removed.
-  - Currenly SOCKs access can take a least 8 days. 
+  - Currently SOCKs access can take a least 8 days. 
 ---
 
 # Implementation Information
@@ -159,7 +159,7 @@ VSP Operations team has rollout at to all of VSP and is now working to tighten J
 - **1/6/2020**: Approval from Patrick that if Jenkins permissions are tighten and demoed then Ops have the green light to roll out to VFS teams, with instant SOCKs access.
 - **??**: Demoed Jenkins Tightening permissions and green lighted to roll out to VSA.
 
-## Dependentences
+## Dependencies
 
 - Github
 - Github Teams feature
