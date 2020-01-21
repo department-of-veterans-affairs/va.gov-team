@@ -43,8 +43,8 @@ The following users have been identified:
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses to recruit:
 
-* 2 STEM participants who are eligible
-* 2 STEM participants who have 7+ months of education benefit left
+* 2 STEM participants with <= 6 months of education benefit remaining
+* 2 STEM participants with >= 7 months of education benefit remaining
 * 2 Non-STEM participants
 
 ### Usability testing screener questions
@@ -63,8 +63,8 @@ In addition to the standard questions, which ensure a representative mix of part
   * If yes, to Question 5 
   * If no, end call
 5.	Approximately how many months of education benefits do you have remaining?
-  * 6 months or less, would you like to participate?   **<-- Potential STEM Eligible**  
-  * 7 months or more, would you like to participate?   **<-- Potential STEM Ineligible**  
+  * 6 months or less, would you like to participate?   **<-- Potential STEM with <= 6 months of benefit remaining**  
+  * 7 months or more, would you like to participate?   **<-- Potential STEM with => 7 months of benefit remaining**  
 
 #### What kind of user research do we want to conduct?
 
