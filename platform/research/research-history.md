@@ -12,6 +12,13 @@ This does not include research for Appeals projects, which is stored in differen
 
 __Please note that many links on this page reference research folders in the vets.gov-team GitHub repo. These links will be updated as work on migrating documentation to va.gov-team repo progresses.__
 
+### January 2020
+
+#### January 16 - 23: Facility Locator Urgent Care PDF & Content
+*Ad Hoc: Aricka Lewis*
+- 5 Participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/research-plan.md)
+
 ### December 2019
 
 #### December 11 - 16: Facility Locator, Urgent Care Usability Testing
