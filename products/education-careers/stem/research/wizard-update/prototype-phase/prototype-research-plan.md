@@ -106,7 +106,7 @@ Interviews and site review
      
 *	Each session will last no longer than 45 minutes
 *	A debrief among team members will be held immediately after each session.
-*	Findings from will be synthesized once all sessions have occurred and a findings report will be made.
+*	Findings will be synthesized once all sessions have occurred and a findings report will be made.
 
 #### When do we need to start recruiting?
 
