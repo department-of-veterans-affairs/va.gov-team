@@ -1,5 +1,5 @@
 
-# Search Product Outline - VA.gov
+# Search Product Outline - VA.gov - THIS IS A DRAFT
 
 ## Communications
 - GitHub Label: search
