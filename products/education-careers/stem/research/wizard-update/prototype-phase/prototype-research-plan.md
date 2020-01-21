@@ -74,7 +74,7 @@ The following research methods will be used:
 
 #### What testing and recording tools do we need to run the research sessions?
 
-Usability test sessions will be recorded via TBD (WebEx, Zoom, or GoToMeeting)
+Usability test sessions will be recorded via Zoom.
 
 In-person notes will be taken by hand and/or on a computer.
 
