@@ -84,7 +84,7 @@ The following artifacts will be developed:
 *	Veteran Discussion Guide  
 * Interactive Prototype
 
-The Discussion Guide will be ready by: Jan 27, 2020
+The Discussion Guide will be ready by: Jan 27, 2020  
 The Interactive Prototype will be ready by: Jan 27, 2020
 
 #### Who will fill the team roles?
