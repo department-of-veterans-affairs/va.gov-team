@@ -93,7 +93,8 @@ The Interactive Prototype will be ready by: Jan 27, 2020
 * Discussion guide writer: Theresa McMurdo, Amy Knox
 * Moderator: Theresa McMurdo
 * Note-taker: Theresa McMurdo, Amy Knox and Cindy Cruz
-* Observers: UX Team, Education Services & DEPO
+* Observers: 
+   * UX Team
    * Darla van Nieukerk <Darla.VanNieukerk@va.gov>
    * Matthew Self <Matthew.Self2@va.gov>
    * Lucas Tickner <Lucas.Tickner@va.gov>
