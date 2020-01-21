@@ -101,9 +101,9 @@ The Interactive Prototype will be ready by: Jan 27, 2020
 Interviews and site review
 *	Interview will be conducted Jan 28th & 29th 2020
 *	Usability Testing timeslots will be: 
-     * Jan 28: 11AM, 1PM, 3PM, 5PM 
-     * Jan 29: 9AM, 11PM, 1PM, 3PM, 5PM
-
+     * Jan 28: 11AM, 1PM, 3PM, 5PM  
+     * Jan 29: 9AM, 11PM, 1PM
+     
 *	Each session will last no longer than 45 minutes
 *	A debrief among team members will be held immediately after each session.
 *	Findings from will be synthesized once all sessions have occurred and a findings report will be made.
