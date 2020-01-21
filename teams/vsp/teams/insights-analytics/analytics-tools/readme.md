@@ -3,3 +3,4 @@ Discovery on analytics tools and sources:
 - Grafana
 - Call Centers
 - Social Studios
+- Domo
