@@ -465,5 +465,15 @@ This would show simply two text fields on the front end asking for simple text.
 
 At the same time these schemas didn't match there was also another layer to this that made it so that simply fixing the schemas to match did not fix the problem. We began console logging the data being validated and found that the `locationOfMarriage` was inside a nested schema called `marriageHistory`, however when we console logged what was being validated it said that the data for `locationOfMarriage` was being validated against a different nested property called `marriages` inside the `marriageInformation` object. Inside this was a reference to locations that did not match what we updated the schemas to so the validation was still failing. To fix this we adjusted the `marriages` property to be an empty object and the validation then passed becasue by changing it to an empty object in effect we were not using this layer of validation anymore.
 
+The code we added looks like this - 
 
+```
+marriages: {
+  type: 'array',
+  items: {
+  type: 'object',
+  properties: {},
+  },
+},
+```
 
