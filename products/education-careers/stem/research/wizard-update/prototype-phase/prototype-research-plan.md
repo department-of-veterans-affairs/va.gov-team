@@ -1,37 +1,35 @@
-# STEM Scholarship Wizard Update - Prototype Research Plan
+# STEM Scholarship: Education Routing Wizard & VA Form 22-1995 Update - Prototype Research Plan
 
 Jan 21, 2019 – Jan 31, 2020
 
 
 #### Problem Statement 
-As an individual seeking education benefits, I want to understand the eligibility criteria for the STEM scholarship so I can apply if I'm eligible.  If I’m currently ineligible, I'd like to know up front, before I spend time completing the application. 
+As an individual seeking education benefits, I want the eligibility criteria for the STEM scholarship to be prominent so if I’m ineligible, I know there is no need for me to spend time applying. If I am eligible, I'd like to be able to easily find the STEM Scholarship form and complete the application process.  
 
 #### Solution Hypothesis
-By adding detailed eligibility criteria to the Education Benefits Wizard, statically displaying revised copy in the STEM application and adding alerts as ineligible application responses are provided, we will significantly reduce the 90% rejection rate for the STEM Scholarship.  These efforts will help applicants better understand the scholarship criteria and discourage those who are ineligible from applying unnecessarily.
+By making the eligibility criteria more visible and alerting potential applicants when it appears they are ineligible for the scholarship, we will significantly reduce the 90% rejection rate for the STEM Scholarship.  These efforts will help applicants better understand the scholarship criteria and discourage those who are ineligible from applying unnecessarily.
 
 #### Research Questions
 
 The research is designed to answer the following questions:
 
 ##### Education Benefits Wizard
-* Does the new copy clearly describe the STEM Scholarship eligibility requirements?
-* What, if any, modifications to the content or design would make the eligibility criteria more clear?
-* What questions do participants have regarding their potential eligibility for the STEM Scholarship?
+* Does the new copy in the wizard effectively describe the STEM Scholarship eligibility requirements?
+* If participants are unclear about their potential eligibility for the STEM Scholarship, what additional information should the wizard include to address their questions?
 * Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
 * Are ineligible participants able to determine under what circumstances they may become eligible in the future?
 
 ##### VA Form 22-1995
-* Does the new copy clearly describe the STEM Scholarship eligibility requirements?
-* What, if any, modifications to the content or design would make the eligibility criteria more clear?
-* What questions do participants have regarding their potential eligibility for the STEM Scholarship?
+* Does the new copy within VA Form 22-1995 effectively describe the STEM Scholarship eligibility requirements?
+* If participants are unclear about their potential eligibility for the STEM Scholarship, what additional information should the application include to address their questions?  
 * Does the copy sufficiently deter individuals who are ineligible for the STEM Scholarship from applying?
 * Are ineligible participants able to determine under what circumstances they may become eligible in the future?
-* Does the copy or the order of the questions inadvertantly encourage ineligible users to apply for the scholarship?
-*	What confusion do non-STEM applicants experience when seeing the STEM questions on the Request for Change of Program or Place of Training application and how might this confusion be mitigated?
+* Does the copy or the order of the questions inadvertently encourage ineligible users to apply for the scholarship?
+*	Do non-STEM applicants experience confusion upon seeing the STEM questions in the Request for Change of Program or Place of Training application? If so, how might this confusion be mitigated?
 
 #### What knowledge will make us feel like the research process has been successful?
 
-Observing that participants are able to quickly and easily determine their eligibility for the scholarship as they engage with the wizard and complete the application will make us feel like the research process has been successful.
+Observing that participants are able to quickly and easily determine their eligibility for the scholarship as they engage with the wizard and complete VA Form 22-1995 will make us feel like the research process has been successful.
 
 #### What kinds of users do we need to talk to answer our questions?
 
