@@ -9,7 +9,7 @@ This folder contains internal communications for VAMC PAOs and customers, to be 
 - FAQs: VAMC Website Upgrade Project (to be pasted into a Word doc and exported to PDF)
 - New VAMC Website Flyer (PDF)
 
-## For VAMC customers:
+## For VAMC users/customers:
 
 - New website preview messages (to be posted on old/legacy website, about 1 month before launch)
 - New website pre-launch email (to be sent via VAMC GovDelivery/Granicus news and announcement subscribers, about 2 weeks before launch)
