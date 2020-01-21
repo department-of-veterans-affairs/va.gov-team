@@ -48,7 +48,8 @@ In addition to the standard questions, which ensure a representative mix of part
 * 2 Non-STEM participants
 
 ### Usability testing screener questions
-1.	Are you currently using, or have you in the past used, Post-9/11 GI Bill or Fry Scholar benefits to obtain an undergraduate degree?
+1.	Are you currently using Post-9/11 GI Bill or Fry Scholar benefits to obtain an undergraduate degree, 
+   or have you in the past?
   * If currently using, to Question 2
   * If already graduated, to Question 3
   * If no, end call 
