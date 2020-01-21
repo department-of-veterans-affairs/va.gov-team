@@ -237,7 +237,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 #### 508 Review
 
-- Request 508 Review
+- [Request 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut&labels=508%2FAccessibility%2C+launch+review%2C+product+support&template=508-pre-launch-review-template.md&title=Request+accessibility%2F508+review+for+ENTER_PRODUCT_NAME)
 
 #### QA
 
