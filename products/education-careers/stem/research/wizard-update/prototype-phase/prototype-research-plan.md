@@ -54,13 +54,13 @@ In addition to the standard questions, which ensure a representative mix of part
   * If already graduated, to Question 3
   * If no, end call 
 2.	Are you studying science, technology, engineering or math?
-  * If non-STEM, would you like to participate?   **<-- Non-STEM participant
-  * If STEM, would you like to participate?       **<-- STEM participant
+  * If non-STEM, would you like to participate?   **<-- Potential Non-STEM participant**  
+  * If STEM, would you like to participate?       **<-- Potential STEM participant**  
 3.	Is your degree in science, technology, engineering or math?
   * If Yes, to Question 4   
   * If No, end call
 4.	Are you interested in obtaining a teaching certificate?
-  * If yes, would you like to participate?        **<-- STEM participant
+  * If yes, would you like to participate?        **<-- Potential STEM participant**  
   * If no, end call
 
 #### What kind of user research do we want to conduct?
