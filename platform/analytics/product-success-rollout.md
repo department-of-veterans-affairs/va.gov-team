@@ -1,6 +1,6 @@
 # Product Success Tool Phased Rollout
 
-## Product North Star
+## North Star
 Number of VFS teams that use the Product Success Tool to make product decisions.
 
 ## Goals
@@ -44,25 +44,32 @@ The goal of this phase is to understand how the tool works in the production env
   - [ ] Education Stakeholders logging in to the tool
   - [ ] Education Stakeholders reporting back to VSP about data decision making
   - [ ] No critical severity bugs or errors identified
-
+  
 ## Phase 2: Increase Data and Test Subjects
-The goald of this phase is to stand up the data warehouse with available metrics and test the Tool with additional VFS teams to prove behavior change and usage. 
+The goal of this phase is to stand up the data warehouse with available metrics and test the updated Tool with additional VFS teams to prove behavior change and usage. 
 - Stand up BigQuery with:
   - [ ] Google Analytics
-  - [ ] Historical ForeSee data
-  - [ ] Available Prometheus data
-- Go / No Go decision for continuing to Phase 3:
-  - [ ] Education Stakeholders logging in to the tool
-  - [ ] Education Stakeholders reporting back to VSP about data decision making
-  - [ ] Error reports debugged & resolved; any Sentry errors triaged and resolved
-
-## Phase 3: 
-The goal of this phase is to fully launch the tool on VA.gov while paving the way for sunsetting legacy VAOS
-- Stand up BigQuery with:
-  - [ ] Medallia integration
+  - [ ] Historical ForeSee data  
   - [ ] Historical Call Center data
-- Go / No Go decision for continuing to Phase 5:
+- Test with additional 1 or 2 additional products: Potentially Facility Locator & Benefits & Appeals
+- Go / No Go decision for continuing to Phase 3:
+  - [ ] Target of reaching 1 or 2 additional stakeholders reached
+  - [ ] Additional Stakeholders logging in to the tool
+  - [ ] Additional Stakeholders reporting back to VSP about data decision making
+  - [ ] Additional data points tested and VSP given feedback
+  - [ ] Error reports debugged & resolved
 
+## Phase 3: Expand User Base
+The goal of this phase is to fully launch the tool to all live products on VA.gov. Assumption that the KPI reporting process has been put into place and the expansion works in tandem with the KPI reporting process.
+- Domo dashboards expanded to all live products on VA.gov
+- Product Success Tool is used as a way to more easily track and report KPIs.
 
-## Phase 4: 
+## Phase 4: Add Additional Data & Maintain
+- Add data to BigQuery
+  - [ ] Available Prometheus Data
+  - [ ] Add PA&I data
+  - [ ] Medallia integration
 
+## Beyond Rollout
+- Determine scope for additional Backend data points (are the users Product or Engineering? Is that included within the Product Success Tool or in additional dashboards on Domo?)
+- Determine scope for "predictive" analytics
