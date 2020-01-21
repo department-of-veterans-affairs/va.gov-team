@@ -39,11 +39,11 @@ There are a handful of key goals for VSA Sprint Objectives:
 
 VSA teams work in a 2 week cycle known as a Sprint. During a Sprint, the team assigns and commits to tasks that can be completed within this time frame. In order to deliver the best business value, there are multiple Agile Ceremonies in the Sprint.  Agile Ceremonies are timeboxed meetings that happen throughout the Sprint. The ceremonies include **Daily Standup, Sprint Planning, Backlog Grooming, Sprint Review,** and **Sprint Retrospective.** Below are the descriptions of each. 
 
-Details on the ceremonies can be found in the [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/delivery/agile-ceremonies-overview.md)
+Details on the ceremonies can be found in the [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-ceremonies-overview.md)
 
 ### Ceremonies Checklist
 
-In order to make sure value is attained in each ceremony, VSA teams also have an [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/delivery/agile-checklist.md). 
+In order to make sure value is attained in each ceremony, VSA teams also have an [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-checklist.md). 
 
 
 ## Product Requirements
