@@ -397,3 +397,73 @@ Some thoughts that come to mind for ways to move forward:
 ensuring data matches up with the schema file, the frontend should really try and be consistent with what is in the schema file to begin with.
 2. Fix the current functionality - for some reason, on initial submission form page validation occurs before `transformForSubmit` is ever invoked. Page refresh, reentering data, 
 and then resubmitting seems to hit `transformForSubmit` as expected. An option could be to investigate this further and fix whatever is going wrong.
+
+## The solution we went with
+
+In order to solve this we ended up greatly simplifying the `locationOfMarriage` property on both the frontend and the backend, this allowed us to not only align the fronend and schema files but also to match the form fields on the paper version of the 686 form mutch more closely.  It turned out that in order to simplify the `locationOfMarriage` property we needed to fix both of the issues called out above as well as a third issue we were not aware of at the time we made this doc. Here is how we fixed the issues -
+
+### The schema mismatches
+
+So originally the frontend schema was requiring data be present for 4 properties and if any of those fields were empty the form would fail validation. Here is what the schema looked like for those 4 properties -
+
+```
+const locationSchema = {
+  type: 'object',
+  properties: {
+    countryDropdown: militaryAddress.properties.countryDropdown,
+    countryText: internationalAddressText.properties.countryText,
+    city: domesticAddress.properties.city,
+    state: location.oneOf[0].properties.state,
+  },
+};
+```
+
+We wanted to simplify the `locationSchema`, so we changed it to be like this -
+
+```
+const locationSchema = {
+  type: 'object',
+  required: ['city', 'state'],
+  properties: {
+    state: location.oneOf[0].properties.state,
+    city: location.oneOf[0].properties.city,
+  },
+};
+```
+
+We then changed the schema file so that the first item inside the `oneOf` loop of properties matched these like this -
+
+```
+"location": {
+      "type": "object",
+      "oneOf": [
+        {
+          "required": [
+            "city",
+            "state"
+          ],
+          "properties": {
+            "city": {
+              "type": "string",
+              "maxLength": 30,
+              "pattern": "^(?!\\s)(?!.*?\\s{2,})[^<>%$#@!^&*0-9]+$"
+            },
+            "state": {
+              "type": "string",
+              "maxLength": 30,
+              "pattern": "^(?!\\s)(?!.*?\\s{2,})[^<>%$#@!^&*0-9]+$"
+            }
+          },
+          "additionalProperties": false
+        },
+
+```
+
+This would show simply two text fields on the front end asking for simple text. 
+
+### The validation error we didn't know about
+
+At the same time these schemas didn't match there was also another layer to this that made it so that simply fixing the schemas to match did not fix the problem. We began console logging the data being validated and found that the `locationOfMarriage` was inside a nested schema called `marriageHistory`, however when we console logged what was being validated it said that the data for `locationOfMarriage` was being validated against a different nested property called `marriages` inside the `marriageInformation` object. Inside this was a reference to locations that did not match what we updated the schemas to so the validation was still failing. To fix this we adjusted the `marriages` property to be an empty object and the validation then passed becasue by changing it to an empty object in effect we were not using this layer of validation anymore.
+
+
+
