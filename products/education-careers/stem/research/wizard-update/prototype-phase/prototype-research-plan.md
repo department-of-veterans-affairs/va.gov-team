@@ -102,7 +102,7 @@ Interviews and site review
 *	Interview will be conducted Jan 28th & 29th 2020
 *	Usability Testing timeslots will be: 
      * Jan 28: 11AM, 1PM, 3PM, 5PM 
-     * Jan 29: 9AM, 11PM, 1PM, 3PM 
+     * Jan 29: 9AM, 11PM, 1PM, 3PM, 5PM
 
 *	Each session will last no longer than 45 minutes
 *	A debrief among team members will be held immediately after each session.
