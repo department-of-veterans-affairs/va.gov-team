@@ -2,7 +2,7 @@
 
 **Last updated:** Jan. 21, 2020
 
-This folder contains internal communications for VAMC PAOs and customers, as we prepare to upgrade each new VAMC website.
+This folder contains internal communications for VAMC PAOs and customers, to be used as we upgrade each new VAMC website.
 
 ## For VAMC PAOs and other VA staff:
 
