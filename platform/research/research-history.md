@@ -14,6 +14,11 @@ __Please note that many links on this page reference research folders in the vet
 
 ### December 2019
 
+#### December 11 - 16: Facility Locator, Urgent Care Usability Testing
+*Ad Hoc: Aricka Lewis*
+- 5 Participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-plan.md)
+
 #### December 5 - 12: Medical Device Tool Discovery
 *AdHoc: Rebecca Walsh, Amida: Riley Orr*
 - 11 participants 
