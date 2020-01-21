@@ -93,7 +93,12 @@ The Interactive Prototype will be ready by: Jan 27, 2020
 * Discussion guide writer: Theresa McMurdo, Amy Knox
 * Moderator: Theresa McMurdo
 * Note-taker: Theresa McMurdo, Amy Knox and Cindy Cruz
-* Observers: UX Team, Education Services & DEPO (invited)
+* Observers: UX Team, Education Services & DEPO
+   * Darla van Nieukerk <Darla.VanNieukerk@va.gov>
+   * Matthew Self <Matthew.Self2@va.gov>
+   * Lucas Tickner <Lucas.Tickner@va.gov>
+   * Brian  Grubb <Brian.Grubb@va.gov>
+   * Joseph Preisser <Joseph.Preisser@va.gov>
 * Research readout writer: Theresa McMurdo or Amy Knox
 
 #### When do we want to conduct the testing?
