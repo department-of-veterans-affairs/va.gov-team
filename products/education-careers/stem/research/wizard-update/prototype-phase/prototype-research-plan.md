@@ -36,7 +36,9 @@ Observing that participants are able to quickly and easily determine their eligi
 The following users have been identified:
 
 •	**Users who are ineligible due to field of study**: Post 9/11 GI bill Veterans or Fry Scholars who are studying in non-STEM fields (languages, literature, philosophy, art, religion, history, politics, law, business, etc.). 
+
 •	**Users who are ineligible due to benefits remaining**: Post 9/11 GI bill Veterans or Fry Scholars who are pursuing an undergraduate degree in STEM field with 7 or more months of benefits remaining.  
+
 •	**Users who are eligible**: Post 9/11 GI bill Veterans or Fry Scholars with 6 months or less of benefits AND who are studying in a STEM field or have finished a STEM degree and are interested in obtaining a teaching certificate.  
 
 #### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
