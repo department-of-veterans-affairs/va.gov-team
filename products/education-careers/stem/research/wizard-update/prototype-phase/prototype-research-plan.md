@@ -42,7 +42,8 @@ The following users have been identified:
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses to recruit:
 
-* 4 STEM participants 
+* 2 STEM participants who are eligible
+* 2 STEM participants who have 7+ months of education benefit left
 * 2 Non-STEM participants
 
 ### Usability testing screener questions
@@ -53,20 +54,22 @@ In addition to the standard questions, which ensure a representative mix of part
   * If no, end call 
 2.	Are you studying science, technology, engineering or math?
   * If non-STEM, would you like to participate?   **<-- Potential Non-STEM participant**  
-  * If STEM, would you like to participate?       **<-- Potential STEM participant**  
+  * If STEM, to Question 5  
 3.	Is your degree in science, technology, engineering or math?
   * If Yes, to Question 4   
   * If No, end call
 4.	Are you interested in obtaining a teaching certificate?
-  * If yes, would you like to participate?        **<-- Potential STEM participant**  
+  * If yes, to Question 5 
   * If no, end call
+5.	Approximately how many months of education benefits do you have remaining?
+  * 6 months or less, would you like to participate?   **<-- Potential STEM Eligible**  
+  * 7 months or more, would you like to participate?   **<-- Potential STEM Ineligible**  
 
 #### What kind of user research do we want to conduct?
 
 The following research methods will be used:
 
-* Remote usability testing of a prototype with 4-6 Veterans (Ideally, 4 STEM participants and 2 non-STEM participants)
-
+* Remote usability testing of a prototype with 4-6 Veterans 
 
 #### What testing and recording tools do we need to run the research sessions?
 
@@ -84,7 +87,7 @@ The Discussion Guide will be ready by: Jan 27, 2020
 The Interactive Prototype will be ready by: Jan 27, 2020
 
 #### Who will fill the team roles?
-* Screener writers: Amy Knox
+* Screener writers: Theresa McMurdo, Amy Knox
 * Recruiter: Perigean Recruiting Firm
 * Discussion guide writer: Theresa McMurdo, Amy Knox
 * Moderator: Theresa McMurdo
