@@ -71,9 +71,12 @@ Great! Any questions before we get started?
   - If chat not working, ask participant to go to 'Schedule and view your appointments' in the 'Health Care' card on va.gov. Then, add `/appointments` to the end of the URL
   - [ ] **UAT TASK:** *Confirm that USER does not see an error if they are enrolled in healthcare & registered to a system.*
 
-- **Please take a close look at some of the appointments listed on this page. Can you confirm that the details look correct?** 
+- **Please take a close look at the appointments listed on this page. Can you confirm that the details look correct?** 
 - [ ] **UAT TASK:** *Validate appointment details are correct.*
 
+- **Have you heard of Community Care?
+  - If not: explain Community Care; they might know it as VA Choice
+  
 - **Are you eligible for Community Care or have you made an appointment with a private provider in the past?**
   - If yes: next question
   - If not: **UAT Task:** *Confirm that veteran doesn't get the 'VA or Community Care choice' page after selecting a type of care*
