@@ -13,7 +13,9 @@ You spoke, and we listened. We used feedback from Veterans, family members, and 
 We've made it easier for you to:
 
 • Get directions, phone numbers, and parking and transportation information.
+
 • Make an appointment, and refill your prescriptions.
+
 • Get your medical records.
 
 Go to the new website: https://www.va.gov/pittsburgh-health-care
