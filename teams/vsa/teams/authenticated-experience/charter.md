@@ -5,6 +5,12 @@
 ### Authenticated Experience Mission Statement:
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
+### Authenticated Experience Vision:
+WIP
+
+### Authenticated Experience North Star:
+WIP
+
 ## What we work on
 
 ### Product Line
