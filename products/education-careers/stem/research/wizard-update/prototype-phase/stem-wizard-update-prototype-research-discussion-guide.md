@@ -38,6 +38,7 @@ While you are going through the site, we ask that you Please think aloud and voc
 The more you say about what you are thinking and wondering, the more we’ll learn.  If you have questions, it’s likely that many other Veterans will too. This may seem strange at first, but it helps us understand what you are thinking and helps us so much with our work.
 [Note: Half of participants will complete Scenario 1A and half will complete Scenario 1B.   
 All participants will complete Scenario 2.]
+
 &nbsp; 
 &nbsp; 
 
