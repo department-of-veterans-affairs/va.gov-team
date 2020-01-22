@@ -37,7 +37,7 @@ Thank you. Let’s start with a few warm-up questions
 
 4.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
 
-Think Aloud
+**Think Aloud**
 While you are going through the site, we ask that you Please think aloud and vocalize your thoughts, and decisions as you see each page. We are interested in your first reaction to each page.  
 The more you say about what you are thinking and wondering, the more we’ll learn.  
 If you have questions, it’s likely that many other Veterans will too. 
