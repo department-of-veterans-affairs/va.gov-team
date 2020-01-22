@@ -1,4 +1,4 @@
-# Notes for Participant 6 - Higher Level Review
+# Notes for Participant 4 - Higher Level Review
 
 ## Intro - 5 minutes
 
