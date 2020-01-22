@@ -52,8 +52,8 @@ TBD
 
 ### Team Member Roles
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
-- [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product lead
-- [Steve Kovacs](steve.kovacs@va.gov) -- DSVA project point-of-contact
+- [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
+- [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
 - [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
 - [Kathleen Crawford](kcrawford@governmentcio.com) -- Backend engineer
 - [Micah Chiang](micha@adhocteam.us) -- Frontend engineer
