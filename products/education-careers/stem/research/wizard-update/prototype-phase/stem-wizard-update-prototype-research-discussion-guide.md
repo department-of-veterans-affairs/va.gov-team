@@ -4,14 +4,18 @@
 
 Thanks for joining us today! My name is [NAME]. I also have a number of colleagues on the line.  They’ll be taking notes to ensure that we capture your feedback accurately. 
 
-We work with a team at the VA that designs online forms. Today, we'll be reviewing one of the forms that students use to update educational benefits.
+We work with a team at the VA that designs online forms. 
+
+Today, we'll be reviewing one of the forms that students use to update educational benefits.
 
 We are reviewing the form with students in sessions like this to ensure that it's easy to use.
 
 The entire session should take about 45 minutes.
 Throughout the process, we are interested in hearing your honest opinions. We are in no way testing your knowledge or ability. We just want to hear your ideas and be sure the form meets Veterans’ needs. 
 You are welcome to express any opinions you wish. We welcome your feedback.
+
 If for any reason you want to pause or stop the session at any time, please let me know. 
+
 Do you have any questions before we get started?
 
 **Recording**
