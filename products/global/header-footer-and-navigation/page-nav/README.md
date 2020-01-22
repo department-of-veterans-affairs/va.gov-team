@@ -1,4 +1,4 @@
-# Page navigation
+# Page navigation (See also folder called left-nav: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/left-nav )
 
 These components are the primary way users navigate static content pages on VA.gov.
 
