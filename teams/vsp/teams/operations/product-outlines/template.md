@@ -24,7 +24,7 @@
 # Implementation Information
 - [Current Status](#current-status)
 - [Solution Narrative](#solution-narrative)
-- [Dependentences](#dependentences)
+- [Dependencies](#Dependencies)
 - [Key Words](#key-words)
 
 
@@ -78,7 +78,7 @@
 ## Solution Narrative
 
 
-## Dependentences
+## Dependencies
 
 
 ## Key Words
