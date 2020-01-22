@@ -13,7 +13,8 @@ It's how our users find their way around VA.gov. It includes:
 - Organization of content and sections of the website
 - Google/search engine content page deep-linking
 - Breadcrumbs and page headings
-- UI labels and other information scents
+- UI labels and section headings
+- UI components like cards, tiles, and call-outs
 - Calls to actions and links
 
 ## What needs to change?
