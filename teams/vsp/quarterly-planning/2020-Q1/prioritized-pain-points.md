@@ -14,7 +14,7 @@ Ranked in order of importance/urgency based on Leadership + Client's review of t
 8. The Analytics team is frequently pulled in different directions, and doesn't have the staffing it needs to strategize and execute
 9. Other teams / stakeholders don't have visibility into Platform priorities
 10. Despite best efforts, CMS is still taking up a lot of our time
-11. The Service Design team frequently gets pulled in different directions, and generally has unclear goals/guidance from Leadership + Clients
+11. The Service Design team frequently gets pulled in different directions, and generally has unclear goals/guidance from Leadership + Clients *(they seem to be doing well despite this...)*
 12. We don't have a long term ownership / architectural plan for vets-api
 13. We're providing support for external services (like GIDS), when our original mission was just VFS teams *(could be mitigated through initiatives for 1 and 2)*
 14. Riskiness of reviewing (or not reviewing) vets-changes, bigger risk/blast radius of problems in vets-api than in FE code *(could be mitigated through initiatives for 12)*
