@@ -6,7 +6,7 @@ Under our new mandate, the CMS team will function as a Platform to support and i
 ## Onboarding Process
 - Include CMS PM in PM Onboarding meetings?
 - Update [Welcome to VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Welcome%20to%20VSP.md) with considerations for the CMS including:
- - Content model review
+ -- Content model review
  - Alignment of visual design to the model
  - How to contribute code to the cms github repo (best practices to be written)
 
