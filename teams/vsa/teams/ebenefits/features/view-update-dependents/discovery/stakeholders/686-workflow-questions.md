@@ -16,10 +16,10 @@
 13. In reporting stepchildren in a divorce, it seems the user is directed to fill-out Section VI regarding the death of a dependent; is this really required?
 14. Removing a stepchild seems to be tied to the divorce info in the paper form. Is it really considered an independent workflow? Could it be a part of a broader removed child/dependent workflow?
 15. We may need to change some details of how the form is presented to accomodate VA.gov conventions, particularly form labels (e.g. Middle Name vs. Middle Initial); do you see potential problems?
-16. The curent eBenefits implementation seems to align with the June 2014 form; are you aware of any updateds to align with the September 2018 version?
+16. The curent eBenefits implementation seems to align with the June 2014 form; are you aware of any updatetraffic ties to align with the September 2018 version?
 17. Was the June 2014 version of the 21-686c used to remove dependents from a Veteran's disability claim?
 18. Is/was the Veteran responsible for "updating" dependents info via the 21-686c (e.g. a separated spouses address).
-19. The paper form directs users to VA.gov for the digital version (it does not yet exist there); do you have staff that monitors/manages the digital version of forms (in the event of problems, changes, etc.)? As it exist on eBenefits?
+19. The paper form directs users to VA.gov for the digital version (it does not yet exist there); do you have staff that monitors/manages the digital version of forms (in the event of problems, changes, etc.)? As it exists on eBenefits?
 
 ### For Us / General
 1. Can VA.gov support role-based access/permissions yet? Or is just Veterans accessing Authenticated Experiences?
