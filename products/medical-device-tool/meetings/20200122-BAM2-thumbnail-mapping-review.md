@@ -42,3 +42,4 @@ If necessary, the team will incorporate feedback into the thumbnail mapping flow
 * The design team will finish incorporating any feedback from the VSP design intent check-in 
 * The design team will present the thumbnail mapping to the DLC stakeholder(s) on 01/23/2020
 * The design team will sync with the development team to discuss next steps to begin coding 
+* The design team will need to sync with Peggy to get her feedback on content page designs
