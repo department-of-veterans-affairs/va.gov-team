@@ -6,10 +6,13 @@
 
 ## Guideposts
 
-### **VSA North Star**
-Work with Veterans to build, maintain, and improve the public-facing experience on VA.gov. Transform Benefits and Memorial Services products into personalized, guided experiences that provide Veterans and the people in their networks access to vital information about VA benefits and services they deserve.
+### **VA.gov North Star**
+Reduce the time it takes for a Veteran to achieve an outcome through self-service means. 
 
-### **Mission Statement**
+### **VSA North Star**
+Ship more valuable things. 
+
+### Team Mission Statement:
 To provide the ability for Veteran to complete their whole DLC orders online on line at VA.gov (previously Forms: 2345 & 2346).
 Education: TBD (tentative meeting set for Jan 6th)
 
