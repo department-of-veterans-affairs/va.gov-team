@@ -35,6 +35,7 @@ If necessary, the team will incorporate feedback into the thumbnail mapping flow
    - [ ] If yes, are we able to contribute to how that content is written?
 - [ ] Are there any accessibility considerations for the preferred content page? 
 - [ ] How many "additional items" does the DLC want to include? 
+- [ ] What is the fate of the legacy VA.gov OPAL pages?
         
  ## Next Steps
 * The design team will incorporate any feedback into the thumbnail mapping and/or content pages
