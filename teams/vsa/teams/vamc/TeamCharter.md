@@ -7,6 +7,8 @@ Enable Veterans,their family, and caregivers, through use of the VA's VISN Medic
 ### VAMC Vision
 WIP
 
+### VAMC North Star
+WIP
 
 ## What we work on
 
