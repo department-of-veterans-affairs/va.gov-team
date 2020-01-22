@@ -14,7 +14,7 @@ The entire session should take about 45 minutes.
 Throughout the process, we are interested in hearing your honest opinions. We are in no way testing your knowledge or ability. We just want to hear your ideas and be sure the form meets Veterans’ needs. 
 You are welcome to express any opinions you wish. We welcome your feedback.
 
-If for any reason you want to pause or stop the session at any time, please let me know. 
+If for any reason you want to pause or stop the session, please let me know. 
 
 Do you have any questions before we get started?
 
