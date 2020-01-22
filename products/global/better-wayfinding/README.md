@@ -19,8 +19,11 @@ It's how our users find their way around VA.gov. It includes:
 
 ## What needs to change?
 
-We need to streamline our wayfinding so it's easier for our users to find their way around VA.gov. We still have the same goal: **Get customers to top content and tools in just 1 to 2 clicks.**
+We need to streamline our wayfinding so it's easier for our users to find their way around VA.gov.
 
+We still have the same goal: **Get customers to top content and tools in just 1 to 2 clicks.**
+
+Here's how we plan to do it:
 -
 -
 -
