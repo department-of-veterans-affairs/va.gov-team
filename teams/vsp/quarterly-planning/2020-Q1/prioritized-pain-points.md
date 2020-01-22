@@ -1,3 +1,9 @@
+# Overall VSP Pain Points
+
+Ranked in order of importance/urgency based on Leadership + Client's review of team health survey feedback, past retros, and gaps between VSP current state and vision. These pain points are the basis for the prioritization of initiatives on Leadership's roadmap.
+
+---
+
 1. Code / PR reviews are super time consuming, and are burning people out
 2. VSP team members don't know what success looks like for their work. People want more clear guidance from VA on expectations, and in the absence of that guidance, it feels like VSP success is directly tied to VFS Teams success, which is a lot of pressure.
 3. There's uncertainty around how Platform could/should scale beyond current capacity
