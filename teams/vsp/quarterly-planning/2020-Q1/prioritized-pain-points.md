@@ -20,4 +20,4 @@
 20. DEPO isn't able to easily see the volume of PR reviews
 21. Identity's mission / kickoff / overlap w/other teams is confusing *(initiatives to hand off to Christine already under way)*
 22. How might we mitigate against blowback as we encounter the growing pains of being an open repo? So that we can defend the “default to open” approach if/when we encounter aversion to this model.
-23. There's mbiguity of us doing work for VFS teams vs. providing tools/support for them to do their own work, by different practice area
+23. There's ambiguity of us doing work for VFS teams vs. providing tools/support for them to do their own work, by different practice area
