@@ -12,7 +12,6 @@ assignees: karak888
 ### Instructions
 - All requests for work needing to be fulfilled by a Public Websites Resource must submit this intake request form. Depending on the team's capacity and the type of request will determine which sprint the work falls into, so it is highly recommended that requests are submitted as soon as you are aware of the you will need help. Different types of requests may require more time in advance
 - This issue will be used from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
-- It is your responsibility to notify VA stakeholders of pending redirect.  
 
 ### Description
 *This is a detailed description of the request. It should include background information and reason for the request.*
