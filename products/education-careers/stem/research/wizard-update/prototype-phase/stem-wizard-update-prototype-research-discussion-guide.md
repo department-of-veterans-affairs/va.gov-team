@@ -42,7 +42,7 @@ All participants will complete Scenario 2.]
 &nbsp; 
 &nbsp; 
 
-**Scenario 1A: Change Schools**
+### Scenario 1A: Change Schools
 
 [Start the participant on the "How to apply" page Education Routing Wizard  
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
@@ -60,7 +60,7 @@ Let's go back to the first web page that we looked at and do another scenario
 &nbsp; 
 &nbsp; 
 
-**Scenario 1B: Change Major**
+### Scenario 1B: Change Major
 
 [Start the participant on the "How to apply" page Education Routing Wizard  
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
@@ -78,7 +78,7 @@ Let's go back to the first web page that we looked at and do another scenario
 &nbsp; 
 &nbsp; 
 
-**Scenario 2: Apply for STEM Scholarship**
+### Scenario 2: Apply for STEM Scholarship
 
 [Start the participant on the "How to apply" page Education Routing Wizard  
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
