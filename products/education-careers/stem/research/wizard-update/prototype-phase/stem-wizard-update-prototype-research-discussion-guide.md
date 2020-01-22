@@ -38,13 +38,14 @@ Thank you. Let’s start with a few warm-up questions
 4.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
 
 **Think Aloud**
+
 While you are going through the site, we ask that you Please think aloud and vocalize your thoughts, and decisions as you see each page. We are interested in your first reaction to each page.  
 The more you say about what you are thinking and wondering, the more we’ll learn.  
 If you have questions, it’s likely that many other Veterans will too. 
 This may seem strange at first, but it helps us understand what you are thinking and helps us so much with our work.
 
-[Note: 
-Half of participants will complete Scenario 1A and Scenario 2
+[Note:  
+Half of participants will complete Scenario 1A and Scenario 2  
 Half of participants will complete Scenario 1B and Scenario 2]
 
 
@@ -60,11 +61,10 @@ https://www.va.gov/education/apply-for-education-benefits/application/1995/intro
 Starting from this page, how would you let the VA know that you will be transferring to a different university?
 
 **Questions**
-1.  What are your thoughts on the overall process of completing the form?
-
+1. What are your thoughts on the overall process of letting the VA know that you are changing schools?
 2. What questions do you have about the process?
 
-Let's go back to the first web page that we looked at and do another scenario 
+Let's go back to the beginning and start the 2nd scenario 
 
 &nbsp; 
 &nbsp; 
@@ -78,11 +78,10 @@ https://www.va.gov/education/apply-for-education-benefits/application/1995/intro
 Starting from this page, how would you let the VA know that you will be switching your major from history to economics?
 
 **Questions**
-1.  What are your thoughts on the overall process of completing the form?
-
+1. What are your thoughts on the overall process of letting the VA know that you are changing your major?
 2. What questions do you have about the process?
 
-Let's go back to the first web page that we looked at and do another scenario 
+Let's go back to the beginning and start the 2nd scenario  
 
 &nbsp; 
 &nbsp; 
@@ -96,6 +95,6 @@ https://www.va.gov/education/apply-for-education-benefits/application/1995/intro
 Using this page, how would you apply for the STEM Scholarship?
 
 **Questions**
-1.
-2.
-3.
+1. What are your thoughts on the overall process of applying for the STEM Scholarship?
+2. What questions do you have about the eligibility requirements?  
+3. What modifications would make completing the form easier?
