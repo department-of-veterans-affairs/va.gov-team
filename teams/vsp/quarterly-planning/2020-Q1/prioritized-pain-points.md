@@ -19,7 +19,7 @@ Ranked in order of importance/urgency based on Leadership + Client's review of t
 13. We're providing support for external services (like GIDS), when our original mission was just VFS teams *(could be mitigated through initiatives for 1 and 2)*
 14. Riskiness of reviewing (or not reviewing) vets-changes, bigger risk/blast radius of problems in vets-api than in FE code *(could be mitigated through initiatives for 12)*
 15. We don't have holistic Customer feedback mechanisms *(initiatives already under way through Service Design and Product Support teams)*
-16. VSP team members don't feel satisfied with theier work. They'r mired in support, and prefer building things to creating process and documentation. *(could be mitigated through initiatives for 1 and 4)*
+16. VSP team members don't feel satisfied with theier work. They're mired in support, and prefer building things to creating process and documentation. *(could be mitigated through initiatives for 1 and 4)*
 17. VSP team members don't feel that on their product team, failure causes inquiry.
 18. VSP team members don't feel they are growing in their practice area *(could be mitigated through initiatives for 1 and 5)*
 19. Design review process isn't ideal
