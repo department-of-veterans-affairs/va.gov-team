@@ -1,6 +1,6 @@
 # The 2020 Better Wayfinding Intiative
 
-This is a cross-team and multi-release initiative to improve user wayfinding on the new VA.gov, in both the unauthenticated and authenticated experiences. In 2019, we've run into some limitations with the wayfinding on the new VA.gov MVP (launched in Nov. 2018) wayfinding as we  we've implemented Drupal to power content publishing in the unauth. experience. 
+This is a cross-team and multi-release initiative to improve user wayfinding on the new VA.gov, in both the unauthenticated and authenticated experiences. In 2019, we've run into some limitations with wayfinding on the new VA.gov MVP (launched in Nov. 2018) as we implemented Drupal to power content publishing in the unauth. experience, and built and shipped more auth. tools.
 
 > Note: This folder is meant to document decisions and coordinate work across product teams. Please keep product research, design, and other documentation in individual product repos.
 
