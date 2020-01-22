@@ -1,0 +1,23 @@
+#Aligning CMS to VSP Tools and Processes
+##Purpose of this document   
+Under our new mandate, the CMS team will function as a Platform to support and improve the editorial experience, as well as to support the onboarding of new Products to VA.gov. In the latter function, it is important the CMS team integrate into VSP tools and processes to streamline new Product development for the enterprise. This document is an initial attempt to outline documetation to be added/updated, as well as suggested process modifications to achieve this objective.
+##Onboarding Process
+-Include CMS PM in PM Onboarding meetings?
+-Update [Welcome to VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Welcome%20to%20VSP.md) with considerations for the CMS including:
+ -Content model review
+ -Alignment of visual design to the model
+ -How to contribute code to the cms github repo (best practices to be written)
+##Incident Response
+-Update [incident reponse playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md), especially for broken links or other content issues
+##Quarterly Planning
+-Include full CMS team in Platform quarterly planning, starting with Q2
+-CMS PM to collaborate with VSP PM and DEPO on OKR's
+-CMS team members to be included in the pool of resources to form "superteams" as necessary to achieve key results
+-Cross-platform dependencies to be identified and planned
+-Risks to be identified with ROAM status
+##Communication
+-Slack
+ -We have '#cms-support' for integration with the CMS.
+ -What other channels should we be included in? 
+-Platform leadership meeting (Scrum of Scrums?)
+ -Setup cadence to track cross-team status and dependencies
