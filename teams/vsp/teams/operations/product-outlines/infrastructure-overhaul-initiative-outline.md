@@ -94,11 +94,11 @@ The feedback and information received during discovery were synthesized into Pai
 
 TBD: Add info from the overview slide and link here.
 
-### Phase 2 
+Discovery team on January 31st, 2020 conducted the discovery sprint readout with recommendations for the next steps. 
 
+### Phase 2 Road to MVP
 
 ## KPIs
-
 
 ### Objective
 TBD
