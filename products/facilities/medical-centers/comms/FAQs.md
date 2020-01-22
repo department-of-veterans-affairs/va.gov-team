@@ -102,7 +102,7 @@ If you want to include any videos on your new website, you have two options:
 
 2. Publish embed code to embed a YouTube video on a website page
 
-VHA Digital Media requires that all videos be hosted on the official VHA YouTube account (https://www.youtube.com/user/VeteransHealthAdmin_. Contact Jenny Heiland-Leudtke with questions.
+VHA Digital Media requires that all videos be hosted on the official VHA YouTube account (https://www.youtube.com/user/VeteransHealthAdmin). Contact Jenny Heiland-Leudtke with questions, or to see whether your video should be added to the VHA YouTube account.
 
 ## Help and support
 
