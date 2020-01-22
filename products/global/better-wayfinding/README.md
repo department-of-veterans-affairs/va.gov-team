@@ -14,12 +14,12 @@ It's how our users find their way around VA.gov. It includes:
 - Google/search engine content page deep-linking
 - Breadcrumbs and page headings
 - UI labels and section headings
-- UI components like cards, tiles, and call-outs
-- Calls to actions and links
+- UI content components like cards, tiles, call-outs, and alerts
+- Calls to action and links
 
 ## What needs to change?
 
-We need to streamline our wayfinding so it's easier for our users to find their way around VA.gov. It includes:
+We need to streamline our wayfinding so it's easier for our users to find their way around VA.gov. We still have the same goal: **Get customers to top content and tools in just 1 to 2 clicks.**
 
 -
 -
