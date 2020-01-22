@@ -22,7 +22,7 @@ Under our new mandate, the CMS team will function as a Platform to support and i
 
 ## Communication
 - Slack
- - We have '#cms-support' for integration with the CMS.
- - What other channels should we be included in? 
+  - We have '#cms-support' for integration with the CMS.
+  - What other channels should we be included in? 
 - Platform leadership meeting (Scrum of Scrums?)
- - Setup cadence to track cross-team status and dependencies
+  - Setup cadence to track cross-team status and dependencies
