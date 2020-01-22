@@ -9,7 +9,7 @@ Ranked in order of importance/urgency based on Leadership + Client's review of t
 3. There's uncertainty around how Platform could/should scale beyond current capacity
 4. The quantity of work is too high. Teammates feel VSP has bigger plans than it has resources to execute, and feel constantly behind as a result. There aren't enough big blocks of time to concentrate.
 5. VSP team members aren't satisfied with the feedback they have received throughout this year. People feel it's hard to get clear critical feedback from managers or peers. Does silence from the top mean things are going well?
-6. VSP team members don't feel their product manager understands their work and advocates for the things thy need to be effective.
+6. VSP team members don't feel their product manager understands their work and advocates for the things they need to be effective.
 7. VSP team members don't feel that on their product team, administrative or clerical tasks that don’t have a specific owner are fairly divided.
 8. The Analytics team is frequently pulled in different directions, and doesn't have the staffing it needs to strategize and execute
 9. Other teams / stakeholders don't have visibility into Platform priorities
