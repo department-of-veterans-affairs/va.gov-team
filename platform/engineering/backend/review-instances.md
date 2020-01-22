@@ -32,7 +32,7 @@ You will need your browser configured to access the vetsgov-internal domain via 
 
 ### Manual Creation
 
-1. Visit http://jenkins.vetsgov-internal/job/vets-review-instance-deploy/ and log in. 
+1. Visit http://jenkins.vfs.va.gov/job/deploys/job/vets-review-instance-deploy/ and log in. 
 1. Select "Build with Parameters"
 1. Specify the branch names for `api_branch` and `web_branch`. These branches will be deployed together with the review instance.
 1. When the process is completed, the URL for the review instance will be provided at the end of the output logs.
