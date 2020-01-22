@@ -124,22 +124,17 @@ As a content manager, I want minimize the amount of time spent updating Yellow R
 
 ## Phased Roll Out Approach
 
-- Intial roll out released to 10% of users - 9.25.19
-- Ramped up from 10% of users to 50% of users - 10.16.19
-- Ramped up from 50% of users to 75% of users - 12.5.19
-- Ramped up to 100% of users — 12.16.19
+- 
 
 ## KPIs
 
 ### Objective
 
-- Improve direct deposit security and decrease the number of cases of fraud.
-- Implement improved error messaging that will help direct users to the National Call Center if they are experieincing errors when attempting to update their Direct Deposit information. 
-- Decrease "flagged for fraud" error rate. Information on this can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
+- Take technical learnings about Drupal functionality and table data IX to inform future research for MVP 2.0 solution or solutions for database-driven table content.
 
 ### Tracking
 
-- Work with the fraud team to see if there is an decrease in cases. (Need to see if we can access this.) **(need to update)**
+- 
 
 ---
 
