@@ -225,7 +225,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 ### Team roadmap
 
-- Samara to work on long term planning (Justin — this is **not** something you should include in your sprint report of team deliverables)
+- Samara to work on long term planning
 
 ## Sprint 14 (1/29 - 2/11)
 
@@ -258,6 +258,10 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 - Work on bug fixes and 508 review updates as they come in.
 
+#### Other
+
+- Continue to figure out exactly what we need to do for launch checklist
+
 ### Profile 2.0
 
 Design
@@ -276,9 +280,10 @@ Dev
 
 ### Address validation
 
-- Figure out what analytics we need
-- Review launch checklist and determine what we actually need to do for this feature
-- Start on launch checklist
+- Figure out what analytics we need (ticket needed)
+- Create call center guide #5084
+- Create a release plan #5085
+- Update product outline pre-launch #5094
 
 ### Profile 2.0
 
