@@ -19,16 +19,25 @@ Feature Toggles will enable teams to test out new functionality (Applications, f
 ## Product Responsibility (Last updated: 1-16-20 )
 Features Toggles curently are a shared responsibility by the FE and BE Tools Teams.
 - Troubleshooting: #vsp-product-support
-- Onboarding:
+- Onboarding: #vsp-product-support
 - Maintenance: #vsp-tools-fe or #vsp-tools-fe
 - Training Documents: #vsp-tools-fe or #vsp-tools-fe
 - Product Feedback or New Feature Requests: #vsp-tools-fe or #vsp-tools-fe
 
 ## Examples or References of usage:
-*What VSA teams have/are using the product and how did they utilize it?*
+- Direct Deposit Team used feature toggles for a % rollout - [Ticket](https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1674)
 
 ## Version Notes:
+### Release v0.2 - Sprint 11 (10-29-19)
+Adding basic user management and logging to the Flipper Admin Portal so we can better regulate and track "who" toggled "what" and "when" - [#1764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1764)
+- Updated UI to improve the experience in setting up % of useres
+
+### Release v0.1 
+- Added the ability for VSA teams to leverage Flipper to create feature\release toggles.
+- Added the ability for VSA teams to allow only a % of users to be affected by a feature\release toggle to help support better QA efforts, beta and UAT testing.
 
 
 ## Feature Requests:
-*Include the VSA requester(s), description of the feature request and a link to the ZH ticket*
+- We were hoping that the Auth Exp team would be able to pilot these toggles, but they are looking for something to help with Beta & UAT testing. The issue is that the current toggle requires you specify which users are affected by it. The team felt like this was too heavy an ask as it would ultimately lead to UAT or Beta users not knowing what to do. They wanted to a unique url that they could give out that when they clicked on it the user would activate the toggle. This is going to require more discovery and development work to unravel. I will be adding a story into the backlog for this continued work. We are going to look to leverage the existing beta enrollment tool to create a unified experience. [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1130)
+- 
+
