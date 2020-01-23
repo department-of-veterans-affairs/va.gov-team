@@ -23,14 +23,16 @@ assignees: karak888
 - [ ] Content Updates to Existing Content
 
 ### Requestor Info
+*Enter Name*
 *Indicate what team and who the primary contacts on that team* 
+
 Product Owner
 
 ### Implementation Date
-Date new URL(s) will be live: *enter date new pages/URLs will be live*
+Is there an ETA for a particular launch: *enter date when work *
 
 Please indicate when the work needs to be implemented"
-- [ ] On the same date the new URLs launch
+- [ ] Is there an ETA for a particular launch or completion date when work is required?
 - [ ] Can happen within 1-5 business days after new URLs launch
 - [ ] Other - Please indicate timing : 
 
