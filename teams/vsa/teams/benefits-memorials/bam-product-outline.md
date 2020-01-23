@@ -1,9 +1,9 @@
 # Product Outline: Benefits and Memorials
 - GitHub Label: vsa-benefits
-- Slack channel: vsa-benefits-memorial
+- Slack channel: vsa-benefits-memorial, vsa-benefits-nod (dedicated channel for LightHouse and BAM for Notice of Disagreement discussions)
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Andrea Schneider (andrea.schneider@va.gov) and Yana Roy (yroy@governmentcio.com or yana.roy@va.gov)
+- Product POCs: Andrea Schneider (andrea.schneider@va.gov) and Luke Majewski (lmajewski@governmentcio.com)
 - [Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials)
 - [Team Charter and Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/charter.md)
 ---
