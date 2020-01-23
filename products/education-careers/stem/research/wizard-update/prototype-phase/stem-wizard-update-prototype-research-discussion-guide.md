@@ -1,4 +1,4 @@
-# STEM Wizard Update Discovery Research Discussion Guide 
+# STEM Scholarship: Education Routing Wizard & VA Form 22-1995 Update - Prototype Research Discussion Guide 
 
 ## Introduction 
 
@@ -11,6 +11,7 @@ Today, we'll be reviewing one of the forms that students use to update education
 We are reviewing the form with students in sessions like this to ensure that it's easy to use.
 
 The entire session should take about 45 minutes.
+
 Throughout the process, we are interested in hearing your honest opinions. We are in no way testing your knowledge or ability. We just want to hear your ideas and be sure the form meets Veterans’ needs. 
 You are welcome to express any opinions you wish. We welcome your feedback.
 
@@ -93,7 +94,19 @@ https://www.va.gov/education/apply-for-education-benefits/application/1995/intro
   
 Using this page, how would you apply for the STEM Scholarship?
 
-**Questions**
+**General Questions**
 1. What are your thoughts on the overall process of applying for the STEM Scholarship?
-2. What questions do you have about the eligibility requirements?  
-3. What modifications would make completing the form easier?
+
+**Wizard Questions**
+Let's go back to the beginning of the process, so I can ask a few specific questions.
+1. What are your thoughts and reactions to the content that appears as the STEM Scholarship option is selected?
+2. What additional information would help you determine whether or not to apply for the scholarship?
+3. How might we further clarify the eligibility requirements? 
+
+**VA Form 22-1995 Questions**
+Now, let's look at the application form.
+1. I'm curious to hear your thoughts on what aspects of the form work well and where you think we might want to make improvements. 
+2. As you read through the eligibility requirements, what questions come to mind?
+3. How effectively does the form inform you of your eligibility?
+4. What are your thoughts on these blue boxes? 
+5. What any modifications would make completing the form easier?
