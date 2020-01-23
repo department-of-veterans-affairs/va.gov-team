@@ -43,3 +43,18 @@ And finally. if all those steps are successful, the system calls the EVSS form 6
 * VNP workspace = oracle tables - "snapshot of what the veteran has asked for" - staging area for transactional data that must be further processed before being accepted to Corp (*from [initial notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/discovery/initial-notes.md))
 
 * RBPS leverages these in-flight tables instead of the authoritative data for 686 (*from [526ez discovery notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/2959be3a76d3b8b123b8a7977814c4518b186428/products/disability/526ez/discovery/evss-discovery-notes.md))
+
+# View Dependents
+
+## BGS
+To retrieve a veteran's dependents, vets-api will be using the BGS ClaimantService/findDependentsByPtcpntId.  More information and example response data can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/VA-Systems/BGS/ClaimantService)
+
+## Lighthouse BGS
+vets-api will leverage the current lighthouse-bgs implementation to integrate with BGS. 
+
+_*Note: Remember to bump the gem version when updating this repo_
+
+
+
+
+
