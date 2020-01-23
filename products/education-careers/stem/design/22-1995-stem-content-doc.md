@@ -124,30 +124,24 @@ ________________________________________
 #### 1995 Screen No. { to come } 
 
 ### Chapter Title: 2 of 6: Education Benefit
-
-Eligible Post-9/11 GI Bill beneficiaries and Fry Scholarship recipients can apply to the Edith Nourse STEM Scholarship. 
-
-
-{ help link } Who's eligible for the Rogers STEM Scholarship? { end help link }
+Post-9/11 GI Bill beneficiaries and Fry Scholarship recipients who are studying in fields such as science, technology, engineering, and math may be eligible for the Edith Nourse Rogers STEM Scholarship. 
+{ help link } Learn more about scholarship eligibility { end help link }
 
 { help text } 
 
 The Edith Nourse Rogers STEM Scholarship provides up to 9 months of additional Post-9/11 GI Bill benefits, to a maximum of $30,000.
 
-Veterans and Fry Scholars may qualify for this scholarship if they're enrolled in an undergraduate program for Science, Technology, Engineering, or Math (STEM), or if they've earned a STEM degree and are getting a teaching certification.
-
-NEED A SENTENCE ABOUT EXHAUSTION OF BENEFITS
-
-To learn more about the STEM Scholarship, [visit the VBA STEM website](https://benefits.va.gov/gibill/fgib/stem.asp).
-
-
+To be eligible for the Edith Nourse Rogers STEM Scholarship, you must be
+•	A Post-9/11 GI Bill beneficiary or Fry Scholarship recipient,
+•	Enrolled in an undergraduate program for science, technology, engineering or math (STEM), or have earned a STEM degree and be pursuing a teaching certification, and
+•	¬Within 6 months of using up all your educational benefit or already have done so.
+To learn more, visit the Edith Nourse Rogers Science Technology Engineering Math (STEM) Scholarship page.
 { end help text }
- 
-
-Are you applying for the Edith Nourse Rogers STEM Scholarship (Chapter 33)?(*Required) { radio }
+Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
 
 - Yes
 - No
+
 
 { if NO to STEM Scholarship question, direct to Military Service page. }
 
@@ -155,14 +149,17 @@ Are you applying for the Edith Nourse Rogers STEM Scholarship (Chapter 33)?(*Req
 
 { if YES, and not Post-9/11 or Fry, display INFO ALERT and Undergrad STEM question }
 
-{ INFO Alert text }
-**You may not be eligible**
 
-The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipients.  If you have not received benefits from either of these programs, you may be denied if you choose to apply.   
+{ INFO Alert text }
+
+The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipients.  
+
+You selected <edu benefit>.  You’ll only be considered for the STEM scholarship if you also have Chapter 33 benefits.
 
 { end INFO Alert text }
 
- Are you enrolled in an undergraduate STEM degree program?(*Required)
+ Are you enrolled in an undergraduate STEM degree program? (*Required)
+
 
 - Yes
 - No
@@ -171,24 +168,21 @@ The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipie
 
 { if NO, display teaching certification question } 
   
- Do you already have a STEM undergraduate degree and are enrolled in a teaching certification program?(*Required) 
+ Do you already have a STEM undergraduate degree and are pursuing in a teaching certification program?(*Required) 
 
 - Yes
 - No
-
 
 { if YES, display exhaustion of benefits question } 
 
 { if NO, display ALERT and exhaustion of benefits question }
 
 { INFO Alert text }
-**You may not be eligible**
-
-The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipients who are pursuing an undergraduate STEM degree or have graduated with a STEM degree and are pursuing a teaching certification.   
+The Rogers STEM Scholarship is only offered to students who are pursuing an undergraduate STEM degree or have graduated with a STEM degree and are pursuing a teaching certification.   
 
 { end INFO Alert text }
 
-Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or have less than 6 months remaining?(*Required) 
+Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do you have less than 6 months remaining? (*Required) 
 [Check your status]()
 
 - Yes
@@ -200,9 +194,9 @@ Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or have 
 { if NO to exhaustion of benefits but YES to either STEM question, display INFO ALERT }
 
 { INFO Alert text }
-**You may not be eligible**
+**Eligibility Note: **You may not be eligible, but nice)
 
-The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipients who have used all their benefits or will run out within 6 months.    
+The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipients who have used all their benefits or will run out within 6 months.  When you are closer to exhausting your benefits, you may apply for the scholarship.  
 
 { end INFO Alert text }
 
@@ -221,6 +215,7 @@ The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipie
 { end Alert text }
 
 [ Back | Continue ] { buttons } [Finish this application later]()
+
 
 
 ________________________________________
