@@ -42,7 +42,7 @@ Unauthenticated Experience for VA.gov.
 ________________________________________
 
 **Team Members**
-DSVA Product Manager: Chris Johnston
+DEPO Product Owner : Chris Johnston
 Team Product Manager: Kara Kemahli
 DSVA Content Lead: Jennifer Lee
 Content Writer:  Laura Walsh
