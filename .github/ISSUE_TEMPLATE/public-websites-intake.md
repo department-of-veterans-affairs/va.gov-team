@@ -22,19 +22,14 @@ assignees: karak888
 - [ ] Shared Content Resource 
 - [ ] Content Updates to Existing Content
 
-
-
-
-
-
 ### Requestor Info
-*Indicate what team and the primary contacts on that team*
-
+*Indicate what team and who the primary contacts on that team* 
+Product Owner
 
 ### Implementation Date
 Date new URL(s) will be live: *enter date new pages/URLs will be live*
 
-Please indicate when the redirect(s) needs to be implemented"
+Please indicate when the work needs to be implemented"
 - [ ] On the same date the new URLs launch
 - [ ] Can happen within 1-5 business days after new URLs launch
 - [ ] Other - Please indicate timing : 
