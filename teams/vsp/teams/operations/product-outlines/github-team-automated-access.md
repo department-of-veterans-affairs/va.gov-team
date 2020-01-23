@@ -145,7 +145,7 @@ Step 6:
 # Implementation Information
 
 ## Current Status
-VSP Operations team has rollout at to all of VSP and is now working to tighten Jenkins permissions for the roll out to VSA.
+VSP Operations team has rollout at to all of VSA Engineers.
 
 ## Solution Narrative
 
@@ -157,7 +157,7 @@ VSP Operations team has rollout at to all of VSP and is now working to tighten J
 - **12/10/2019**: GH teams is rolled out to all VSP Engineers
 - **12/31/2019**: GH teams is rolled out to of VSP (except Design)
 - **1/6/2020**: Approval from Patrick that if Jenkins permissions are tighten and demoed then Ops have the green light to roll out to VFS teams, with instant SOCKs access.
-- **??**: Demoed Jenkins Tightening permissions and green lighted to roll out to VSA.
+- **1/21/2020**: Green lighted to roll out to VSA and approval for new access guidelines. 
 
 ## Dependencies
 
