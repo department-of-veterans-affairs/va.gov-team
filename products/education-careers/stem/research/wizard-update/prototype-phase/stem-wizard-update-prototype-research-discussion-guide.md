@@ -34,7 +34,7 @@ Thank you. Let’s start with a few warm-up questions
 
 2.	How far through the program are you?
 
-3.  Approximately how many months or years of educational benefit do you have remaining?
+3.  Approximately how many months or years of education benefit do you have remaining?
 
 4.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
 
