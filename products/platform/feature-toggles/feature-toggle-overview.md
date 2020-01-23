@@ -1,5 +1,6 @@
 # Feature Toggles v0.2
 Feature Toggles will enable teams to test out new functionality (Applications, features, Vagov Content Pages, Metalsmith) in the VSP development, staging or production environments for a set of users. Feature toggles can be used in both vets-api and vets-website.
+
 ### Toggle can activate new functionality for:
 - All users at once
 - A percentage of logged in users
@@ -29,7 +30,7 @@ Features Toggles curently are a shared responsibility by the FE and BE Tools Tea
 
 ## Version Notes:
 ### Release v0.2 - Sprint 11 (10-29-19)
-Adding basic user management and logging to the Flipper Admin Portal so we can better regulate and track "who" toggled "what" and "when" - [#1764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1764)
+- Adding basic user management and logging to the Flipper Admin Portal so we can better regulate and track "who" toggled "what" and "when" [#1764](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1764)
 - Updated UI to improve the experience in setting up % of useres
 
 ### Release v0.1 
