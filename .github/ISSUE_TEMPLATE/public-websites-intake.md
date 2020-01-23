@@ -14,10 +14,22 @@ assignees: karak888
 - This issue will be used from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
 
 ### Description
-*This is a detailed description of the request. It should include background information and reason for the request.*
+*Detailed description of the request including background information and reason for the request*
+
+### Type of Request
+*Select One*
+- [ ] Content Tool / Product 
+- [ ] Shared Content Resource 
+- [ ] Content Updates to Existing Content
+
+
+
+
+
 
 ### Requestor Info
-*Indicate what team and who the primary contact on that team is*
+*Indicate what team and the primary contacts on that team*
+
 
 ### Implementation Date
 Date new URL(s) will be live: *enter date new pages/URLs will be live*
@@ -26,14 +38,6 @@ Please indicate when the redirect(s) needs to be implemented"
 - [ ] On the same date the new URLs launch
 - [ ] Can happen within 1-5 business days after new URLs launch
 - [ ] Other - Please indicate timing : 
-
-**The requesting team is responsible for notifying the group working on this issue if the target date changes. They are also responsible for ensuring the destination URLs are implemented correctly and live at the time the redirects are deployed.**
-
-### Redirects Needed
-
-Current URL  |  Redirect Destination (new URL)
----  |  ---
-*enter current URL* | *enter new URL*
 
 
 ### Steps to complete
