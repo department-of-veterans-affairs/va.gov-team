@@ -97,16 +97,17 @@ Using this page, how would you apply for the STEM Scholarship?
 **General Questions**
 1. What are your thoughts on the overall process of applying for the STEM Scholarship?
 
-**Wizard Questions**
-Let's go back to the beginning of the process, so I can ask a few specific questions.
-1. What are your thoughts and reactions to the content that appears as the STEM Scholarship option is selected?
+**Wizard Questions**  
+Let's go back to the beginning of the process, so I can ask a few specific questions.  
+1. As you look at this content, what thoughts or reactions come to mind?
 2. What additional information would help you determine whether or not to apply for the scholarship?
 3. How might we further clarify the eligibility requirements? 
 
-**VA Form 22-1995 Questions**
-Now, let's look at the application form.
+**VA Form 22-1995 Questions**  
+Now, let's look at the application form.  
 1. I'm curious to hear your thoughts on what aspects of the form work well and where you think we might want to make improvements. 
 2. As you read through the eligibility requirements, what questions come to mind?
 3. How effectively does the form inform you of your eligibility?
 4. What are your thoughts on these blue boxes? 
-5. What any modifications would make completing the form easier?
+5. Are you able to determine under what circumstances you might become eligible in the future?
+6. What any modifications would make completing the form easier?
