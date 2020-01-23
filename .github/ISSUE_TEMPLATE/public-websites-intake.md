@@ -41,7 +41,6 @@ VA Stakeholders: *please enter names*
 ### Implementation Date
 Please indicate when the work needs to be implemented
 - [ ] Is there an ETA for a particular launch or completion date when work is required?
-- [ ] Can happen within 1-5 business days after new URLs launch
 - [ ] Other - Please indicate timing : 
 
 
