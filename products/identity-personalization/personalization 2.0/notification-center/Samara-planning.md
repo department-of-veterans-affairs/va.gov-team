@@ -36,3 +36,7 @@ This document is a scratch pad to think through what we need to figure out to cr
 - Create an inventory of other potential notifications we could add over time.
 - Some sort of user research.
 - Competitive analysis of notification behaviors.
+
+## Other
+
+- Is there anything useful in [this doc](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/Full%20list%20of%20potential%20and%20existing%20notifications.xlsx)?
