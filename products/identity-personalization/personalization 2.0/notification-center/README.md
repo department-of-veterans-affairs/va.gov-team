@@ -1,1 +1,1 @@
-
+All notification documents and files are in the [notifications folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/notifications/notification-center).
