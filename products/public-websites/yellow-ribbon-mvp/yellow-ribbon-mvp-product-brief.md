@@ -1,20 +1,16 @@
 # Yellow Ribbon MVP Product Outline
 
-Last Updated January 22, 2020
+Last Updated January 23, 2020
 
 ## POCs
 
-- GitHub Label: ?  
-
 - Slack channel: #vsa-public-websites
-
-- Keywords
 
   
 
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
-| Jennifer Lee  | DSVA Lead                                     |
+| Jennifer Lee  | Public Websites Product Owner                 |
 | Kara Kemahli  | Product Manager                               |
 | Liz Lantz     | Designer/Researcher                           |
 | Nick Sullivan | FE Engineer                                   |
@@ -23,6 +19,8 @@ Last Updated January 22, 2020
 | Luke Tickner  | Education/GI Bill Comparison Tool SME Contact |
 | Tammy Hurley  | Yellow Ribbon SME Contact                     |
 | Darrell Neel  | GI Data Service Tech SME Contact              |
+| Matt Self     | GIBCT Product Manager                         |
+| Brian Grubb   | SharePoint contact for Yellow Ribbon data     |
 
 ---
 
@@ -55,19 +53,17 @@ Last Updated January 22, 2020
 
 # Executive Summary
 
-As part of the efforts to improve the experience our user have interacting with the VA, and modernizing their online experience, the Public Websites team seeks to learn how we might create a more user-friendly front-end experience for tabular data.   An additional goal of this work is to improve the content team's experience of managing this data.
+To provide Yellow Ribbon. (YR) participating school information as more user-friendly content than the current experience of 50+ manual table pages.  The current experience exists as it does today because there is no single source of Yellow Ribbon data.
 
-Yellow Ribbon content was identified as a candidate for our first MVP due to the impact improvements to this content would make. As one of the more complex use cases of tabular data, findings from this MVP can be scaled down to simpler use cases.
-
-The GI Bill Comparison Tool (GIBCT) offers Veteran's access to incomplete Yellow Ribbon information when compared to what Veterans can currently access on the legacy pages.  The GIBCT is complex in terms of all the information it offers, and timelines for updates are unknown (owned by BAH team).  For those reasons, we are pursuing our own MVP solution so that we can better understand Veteran's needs for Yellow Ribbon information and inform any future updates to the GIBCT.
-
-Our product is an interim solution until the GIBCT can provide a comparable experience for Yellow Ribbon information.
+Our MVP will be a single-page application that leverages an existing API (GI Data Service) and allows users to search for YR schools based on relevant critera.
 
 ## User Problem Statement
 
 As a Veteran, I want to easily find information about schools I'm interested in that participate in the Yellow Ribbon program so that I can maximize my education benefits.
 
-As a content manager, I want minimize the amount of time spent updating Yellow Ribbon information so that I can provide Veterans with timely, up-to-date Yellow Ribbon school information
+As a content resource, I want to more easily provide Veterans with timely up-to-date Yellow Ribbon school information.
+
+As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribbon school information to the va.gov. team.
 
 ## Solution Goals
 
@@ -75,6 +71,7 @@ As a content manager, I want minimize the amount of time spent updating Yellow R
 - Improve UX for YR tables so that users can easily find info they're looking for
 - Reduce the level of effort for stakeholder to keep YR data up-to-date on Veteran-facing page
 - Take technical learnings about Drupal functionality and table data IX to inform future research for MVP 2.0 solution or solutions for database-driven table content.
+- Gain a better understanding of the information most relevant to Veterans as they research education options
 
 
 ### User Goals
@@ -82,24 +79,41 @@ As a content manager, I want minimize the amount of time spent updating Yellow R
 - Identify schools I'm interested in that participate in Yellow Ribbon program, and understand the benefit details that are specific and unique to each school.
 - Eliminate manual updates of Yellow Ribbon information
 
+#### **Additional Considerations**
+
+- After learning more about the complexities of Yellow Ribbon data gathering, we have determined our MVP will not address the Yellow Ribbon data producer user needs at this time.
+
+  
+
 ## Hypothesis
 
-- Veterans find the current presentation of YR information tedious to parse through
-- Veterans know the degree level, and either city, state, or name of the school they're interested in when they begin their research
-- Sorting, filtering, and side-by-side comparison functionality will be helpful for Veterans
+- Side-by-side comparison functionality will be helpful for Veterans
+- Veterans will want the ability to reduce the number of the initial search results (filtering)
 - Benefit amount will be the most important variable in the search results
 - Veterans will be confused about the difference between this and the GIBCT, and not understand the need for two separate tools
 
+### Assumptions
+
+- Veterans find the current presentation of YR information tedious to parse through
+- Veterans know the degree level, and location, or name of the school they're interested in when they begin their research
+- Veterans interested in using education benefits are familiar with the GI Bill Comparison tool
+
 ## Requirements 
 
-- Yellow Ribbon participating schools information is available in the Education benefit hub
--  YR data is presented in a dynamic way that allows users to find data they're looking for based on the criteria (which data fields) that's most useful to them (could be filtering, sorting, search, etc.)
+- Yellow Ribbon participating schools information is available through the Education benefit hub
+- YR data is presented in a dynamic way that allows users to find data they're looking for based on the criteria (which data fields) that's most useful to them
 - Users can perform a side by side comparison on selected schools (exact number of schools informed by research). Comparison functionality is a stretch goal.
 - Solution provides an improved experience for content manager, minimizing manual updating of Yellow Ribbon school information
+- Solution utilizes the most up-to-date Yellow Ribbon data available via an API
 
 ## Constraints
 
-
+- Drupal is unable to manage large datasets via CSV upload functionality
+- We don't know what types of criteria Veteran students will want to filter on
+- GIDS API 
+  - does not have sorting functionality
+  - does not have ability to search based on a `city, state` combination
+  - when searching by school name, the API looks at the name, city, and employer. If you pass a separate city value at the time time, the city is not applied to the results
 
 ## Discovery Takeaways
 
@@ -138,13 +152,6 @@ As a content manager, I want minimize the amount of time spent updating Yellow R
 
 ---
 
-# Implementation Info
-
-## Status
-
-**1/22/2020**
-
-
 
 ## Solution Narrative
 
@@ -158,34 +165,11 @@ As a content manager, I want minimize the amount of time spent updating Yellow R
 
 - **March 2020**: Launch on production
 
-  
-
-
-## How to Access and Test
-
-**Staging**
-
-
-## Error Handling
-
-
-
-
-## Service Level Objective
-
-| Service&#160;Level&#160;Indicator | Service Level Objective                                      |
-| :-------------------------------- | ------------------------------------------------------------ |
-| Availability                      | Should not exceed 5% 5xx error rates (as a percent of all requests) for more than 5 consecutive minutes<br/>[Link to rule](https://github.com/department-of-veterans-affairs/devops/blob/c6827877dda83b878bf9a71f80e4703f7977beee/ansible/deployment/config/prometheus/rules/application.rules#L6) |
-| Latency                           | Percent of requests served in under 2 seconds should not drop to or below 95% for more than 5 consecutive minutes<br/>[Link to rule](https://github.com/department-of-veterans-affairs/devops/blob/c6827877dda83b878bf9a71f80e4703f7977beee/ansible/deployment/config/prometheus/rules/application.rules#L24) |
-| Incident Response                 | Initial acknowledgement of the issue within 15 minutes of a triggered alert<br/>[Link to rule](https://github.com/department-of-veterans-affairs/devops/blob/2913da3512a65a8cb988ad189235794ed1067299/terraform/modules/pagerduty_team/main.tf#L21) |
+## 
 
 ## API Calls and Dependent Systems
 
-
-
-## On Call Support
-
-#
+GIDS API (need link from developers)
 
 ## Design 
 
