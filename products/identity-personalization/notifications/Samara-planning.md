@@ -78,11 +78,18 @@ Create infrastrucutre for notifications
 
 - Figure out how we'd power email notifications — this would likely be more about our internal VA team figuring out what we need to get in place so we can establish a sustainable notifications engine.
 - Figure out if there is a vehicle for text notifications (VETTEXT?) or if we'd need one.
+- Figure out process for teams to be able to manage their own notifications.
 
 ## Future work
 
 With proper infrastructure at least for email notifications, we would:
 
+Pick one team/product and:
+
 - Establish an initial set of notifications 
 - Create those notifications
 - Create a place to manage those notifications
+
+Beyond that:
+
+- Figure out process so other teams can create and manage their own notifications in the future with oversight from the authenticated experience team.
