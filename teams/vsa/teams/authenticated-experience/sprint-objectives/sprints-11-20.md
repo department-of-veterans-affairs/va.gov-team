@@ -261,8 +261,9 @@ Sprint 13 is 9 days with the MLK Day holiday.
 ### Profile 2.0
 
 Design
-- Put together all screens for all states
-- Work with copy
+- Design review #5061
+- Put together all screens for all states #5092
+- Update copy for Profile 2.0 #5093
 
 Dev
 - Refactor Profile components
