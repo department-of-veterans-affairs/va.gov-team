@@ -1,0 +1,1 @@
+For info about the notification center MVP, please see the [personalization 2.0 folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/personalization%202.0/notification-center).
