@@ -34,6 +34,10 @@ As the design team worked, we uncovered some gaps in our knowledge that we neede
 ### Order Flow "Happy Paths" for Single & Multiple Selections
 ![Order Flow "Happy Paths" for Single & Multiple Selections](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v2-1.jpg "Iteration Two, Single + Multiple Selections")
 
+### Content Page Wireframes
+
+Wireframes were created in place of thumbnails, as it was not as interaction-based and didn't make sense for the task.
+
 ![Content Page Wires](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/wires-content-v2-1.jpg "Iteration Two, Content Wires")
 
 ## Outcomes and Feedback
