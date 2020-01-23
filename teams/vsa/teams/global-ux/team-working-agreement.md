@@ -8,17 +8,21 @@ _WIP_
 - Team Product Manager:  Kara Kemahli
 - Content Writer:   Laura Walsh
 - Content Editor:   Randi Hecht 
-- Content Writer:   Anne Hurley
+- Content Writer:   Anne Hurle
 - Content Writer:   Selina Cooper
 - Frontend Engineer:  Nick Sullivan
 - Frontend Engineer:  Kelson Adams
 
 **Workflow & Cadence**
 
-Stand-up: people / product check-ins
+**Daily Standup** people / product check-ins
 - Daily @ 11:30 AM-  11:45 AM EST 
 - 15 min 
-- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+- Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
+  - Each team member 
+  - Use label:  Public Websites 
+   
+3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 Sprint Planning: outline team and member focus, goals for sprint
 - 1st Wednesday of every sprint 
