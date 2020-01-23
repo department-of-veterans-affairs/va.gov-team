@@ -12,11 +12,9 @@ __Please note: many links in this document point to documents in the vets.gov-te
 |Name|Role|
 |----|----|
 |Samara Strauss |Auth exp lead designer; Personalization 2.0 project lead|
-|Lisa Koenigsberg|Auth exp team lead|
-|Justin Pickett |Auth exp PM|
-|Arthur Green |Auth exp designer|
+|Tressa Furner | Auth exp designer|
 |Erik Hansen | Auth exp FE engineer|
-|Amen Ra | Auth exp FE engineer|
+|Brad Conley | Auth exp FE engineer|
 |Lihan Li | Auth exp BE engineer |
 |Tze-chiu Lei | VSA QA Analyst |
 |Jennifer Strickland | VSA Accessibility Specialist, designer |
