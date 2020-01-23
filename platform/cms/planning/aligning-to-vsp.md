@@ -14,7 +14,7 @@ Under our new mandate, the CMS team will function as a Platform to support and i
 ## Quarterly Planning
 - Include full CMS team in Platform quarterly planning, starting with Q2
 - CMS PM to collaborate with VSP PM and DEPO on OKR's
-- CMS team members to be included in the pool of resources to form "superteams" as necessary to achieve key results
+- CMS team members to be included in the pool of resources to form product teams as necessary to achieve key results
 - Cross-platform dependencies to be identified and planned
 - Risks to be identified with ROAM status
 
