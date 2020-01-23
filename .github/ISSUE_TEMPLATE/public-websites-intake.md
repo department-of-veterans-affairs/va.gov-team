@@ -18,15 +18,26 @@ assignees: karak888
 
 ### Type of Request
 *Select One*
-- [ ] Content Tool / Product 
+- [ ] Tool / Product 
 - [ ] Shared Content Resource 
 - [ ] Content Updates to Existing Content
+- [ ] Content / IA / Redirects
 
 ### Requestor Info
-*Enter Name*
-*Indicate what team and who the primary contacts on that team* 
+*Indicate what team and who the primary contacts are on that team* 
 
-Product Owner
+Team Name:  *enter name *
+
+Product Owner: *enter name *
+
+Product Manager: *enter name*
+
+Designer: *enter name*
+
+Is there a particular content person assigned: if so *please provide name* 
+
+
+
 
 ### Implementation Date
 Is there an ETA for a particular launch: *enter date when work *
