@@ -42,7 +42,7 @@ This includes:
 
 - Is there anything useful in [this doc](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/Full%20list%20of%20potential%20and%20existing%20notifications.xlsx)?
 
-## External notifications
+# External notifications
 
 ## What we need to do 
 
