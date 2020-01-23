@@ -1,12 +1,12 @@
 # Frequently Asked Questions
 
-<hr>
+<hr/>
 
 * [Github FAQs](#github)
 * [Internal Developer Tools FAQs](#internal-developer-tools)
 * [Recruiting for Research FAQs](#recruiting-for-research)
 
-<hr>
+<hr/>
 
 ## Github
 

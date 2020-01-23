@@ -1,6 +1,6 @@
 # POV - Documentation in general
 
-<hr>
+<hr/>
 
 * [Problem/Solution](#problemsolution)
 * [Current situation](#current-situation---see-image)
@@ -9,7 +9,7 @@
 * [Revised process for filing issues](#revised-process-for-filing-issues)
 * [Rename/Consolidate repos](#renameconsolidate-repos)
 
-<hr>
+<hr/>
 
 ## Problem/Solution
 
@@ -48,7 +48,7 @@
 * When we move content from repo to repo (or delete it), we want to retain Github history.
 
 
-<hr>
+<hr/>
 
 ## Current situation - [see image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/documentation-current2.png)
 
@@ -71,7 +71,7 @@
 * **Current READ access to repo:** Yes
   * Process was changed so we don't need external teams to access this repo anymore. ~~They only have access to this because this is where Liz files an issue for SSH keys to be added. The issue then pings the developer when Brian has added their key in the devops repo.~~
 
-<hr>
+<hr/>
 
 ### vets.gov-team repo
 
@@ -87,7 +87,7 @@
     * External teams need access to "Products" folder to learn/share with other teams working on the Veteran Tools Platform.
     * *Note:* External teams have WRITE access in order to create and upload files to document their work for historical and compliance reasons.
 
-<hr>
+<hr/>
 
 ### platform-docs repo
 
@@ -105,7 +105,7 @@
     * Technically they have READ access to the repo content, but they're not doing that (tmk).
     * External teams are using the public-facing website to view content.
 
-<hr>
+<hr/>
 
 ### Development-related repos
 
@@ -123,7 +123,7 @@
 * **Current READ access to repo:** Yes
     * External developers have WRITE access to do their work
 
-<hr>
+<hr/>
 
 ### vets-api-mockdata repo
 
@@ -138,7 +138,7 @@
 * **Current READ access to repo:** Yes
     * External teams have READ access to order to use the mockdata
 
-<hr>
+<hr/>
 
 ### devops repo
 
@@ -153,7 +153,7 @@
 * **Current READ access to repo:** Yes
     * External teams have READ access in order to get the SSH config file they need in order to set up their local environment
 
-<hr>
+<hr/>
 
 ### vets-ato repo
 
@@ -170,8 +170,8 @@
     * External teams have READ access to view the current ATO documents
 
 
-<hr>
-<hr>
+<hr/>
+<hr/>
 
 ## Proposal - [see image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/documentation-proposed2.png)
 
@@ -191,7 +191,7 @@
   * Include only the the code supporting the site, the developer process documentation needed to support the site, and all "work practices" documentation surrounding work on the VA APIs (exclude vets.gov APIs, for now)
   * Move (or remove) all other content
 
-<hr>
+<hr/>
 
 ### vets.gov team repo
 
@@ -207,7 +207,7 @@
   * Give external teams WRITE access to this repo so they can store their own documents.
     * WRITE access is whitelisted, so people not on the whitelist have to submit a PR in order to make changes.
 
-<hr>
+<hr/>
 
 ### platform-docs repo
 
@@ -220,7 +220,7 @@
   * The repo and the site goes away. Instead content will be located in the new "work practices" location and referenced from the Handbook (or from other documentation).
 
 
-<hr>
+<hr/>
 
 ### Development-related repos
 
@@ -233,7 +233,7 @@
 * **Proposed:**
   * Repos continue to work as they do today.
 
-<hr>
+<hr/>
 
 ### vets-api-mockdata repo
 
@@ -248,7 +248,7 @@
   * Repo (and its access) continues to work as it does today.
 
 
-<hr>
+<hr/>
 
 ### devops repo
 
@@ -263,7 +263,7 @@
   * In particular, move the ssh config file into the existing private "Work Practices folder" in vets.gov-team repo. External teams need access to this file. They already have access to vets.gov-team repo, so it's easier to move the ssh config file here than to manage multiple team's access to the devops repo. Devops team is responsible for maintaining the ssh config file.
 
 
-<hr>
+<hr/>
 
 ### vets-ato repo
 
@@ -278,7 +278,7 @@
   * We will find a different method for external developers to request an ATO review.
 
 
-<hr>
+<hr/>
 
 ### Location for "work practices" documentation
 
@@ -305,7 +305,7 @@
     * Subfolders are not supported, but can be mimicked with a sidebar.
     * Given the amount of "work practices" docs, this isn't a good solution - massive list of pages and massive sidebar
 
-<hr>
+<hr/>
 
 ## Impact of proposal
 
