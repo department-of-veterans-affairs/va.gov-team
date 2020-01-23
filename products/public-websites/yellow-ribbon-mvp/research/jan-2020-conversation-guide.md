@@ -122,7 +122,7 @@ We're almost ready to move to the prototype now, and I'll ask you to do a few ta
 
 ## Third Task: Compare schools and change criteria - 8 minutes
 
-- Let's say you're interested in [School A, School B, and School C] , and you want to see which one offers Yellow Ribbon to the most students.  How would you do that?
+- Let's say you're interested in going to school to study art, and you want to see which schools offer the largest benefit amount.  How would you do that?
   - *If student does not use add to compare button and make their way to the comparison table, guide them there*
 - Tell me about this screen - what do you see here, what do you think you can do?
 - What are your thoughts on the way this information is presented?
