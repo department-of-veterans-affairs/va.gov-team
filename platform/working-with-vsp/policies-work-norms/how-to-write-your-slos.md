@@ -132,8 +132,6 @@ Each row should have an availability target, and one or more latency targets. In
 
 <li>[percentile] @ [target latency]
 
-<li>[percentile] @ [target latency]
-
 [If relevant, notes on how this latency is measured]
 </li>
 </ul>

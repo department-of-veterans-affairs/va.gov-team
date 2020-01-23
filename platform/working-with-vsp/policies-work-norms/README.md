@@ -1,6 +1,6 @@
 # Norms for using Github
 
-<hr>
+<hr/>
 
 * [Background](#background)
 * [Tips for creating a Github account](#tips-for-creating-a-github-account)
@@ -10,7 +10,7 @@
   * [Managing agile workflow](#managing-agile-workflow)
 * [Get help with Github](#get-help-with-github)
 
-<hr>
+<hr/>
 
 ## Background
 

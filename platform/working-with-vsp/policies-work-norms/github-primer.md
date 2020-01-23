@@ -1,6 +1,6 @@
 # Github Primer
 
-<hr>
+<hr/>
 
 * [What is Github?](#what-is-github)
 * [Github web interface tour](#github-web-interface-tour)
@@ -14,7 +14,7 @@
   * [Delete a folder](#delete-a-folder)
   * [Create a pull request](#create-a-pull-request)
 
-<hr>
+<hr/>
 
 ## What is Github?
 

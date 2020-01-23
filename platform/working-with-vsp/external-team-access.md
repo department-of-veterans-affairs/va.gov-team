@@ -6,7 +6,7 @@ This document explains the rationale behind the access we've granted (or not gra
 * Includes permission level
 * Includes whether access+permission applies to the Github Parent Team or Github Subteam
 
-<hr>
+<hr/>
 
 * [Slack](#slack)
 * [Github repos - Current](#github-repos---current)
@@ -14,7 +14,7 @@ This document explains the rationale behind the access we've granted (or not gra
 * [GovCloud](#govcloud)
 * [Github repos - Previous](#github-repos---previous---jul-aug-2018)
 
-<hr>
+<hr/>
 
 
 ## Slack
@@ -28,7 +28,7 @@ This document explains the rationale behind the access we've granted (or not gra
 
 * **<i>#devops</i> channel - NO access**. DSVA/AdHoc want this channel to remain internal only.
 
-<hr>
+<hr/>
 
 ## Github repos - Current 
 
@@ -55,7 +55,7 @@ This document explains the rationale behind the access we've granted (or not gra
 * **vets-contrib - NO access**
   * Process to get SSH keys added to the authorized list has been revised so external teams do not need access to this repo.
   
-<hr>
+<hr/>
 
 ### Github Repos - Future
 
@@ -80,7 +80,7 @@ This document explains the rationale behind the access we've granted (or not gra
 * **vets-contrib - NO access** - Subteam
   * Process to get SSH keys added to the authorized list has been revised so external teams do not need access to this repo.
 
-<hr>
+<hr/>
 
 ### Other Github access
 
@@ -92,7 +92,7 @@ Access to additional Github repos can be considered on a case-by-case basis by t
 
 * Limit to **READ access** unless external team can demonstrate they need unsupervised ability to add/edit information in the repo.
 
-<hr>
+<hr/>
 
 ## GovCloud
 
@@ -127,7 +127,7 @@ GovCloud does handle logging, which could be useful for external contractors. Ho
 External teams who need to provision a new service need to do so through the DSVA Product Manager, who will talk with the appropriate DSVA/AdHoc people to make it happen.
 
 
-<hr>
+<hr/>
 
 ## Github repos - Previous - Jul-Aug 2018
 

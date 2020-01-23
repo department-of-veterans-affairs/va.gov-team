@@ -1,6 +1,6 @@
 # Managing External Contractors - Strategic Challenges and Questions
 
-<hr>
+<hr/>
 
 ## To Dos
 - [ ] Melissa C will see if there's anything else we can automate wrt code reviews - will reach out to experts across Ad Hoc to collaborate
@@ -14,7 +14,7 @@
 - [ ] James and Liz: to talk through some of the technical parts of the deploy puzzle, so Liz can write it up
 
 
-<hr>
+<hr/>
 
 ## How do we improve code isolation, so it's clear who's responsible for what features?
 

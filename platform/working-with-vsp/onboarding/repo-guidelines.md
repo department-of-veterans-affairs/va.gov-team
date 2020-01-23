@@ -20,19 +20,19 @@ Determine where your file should go and how to name them...
 ### About the /platform, /products and /teams folders
 There are 3 areas of the va.gov-teams repo that you will be working with - `platform`, `products` and `teams`.  
 
-**/platform** <br>
+**/platform** <br/>
 This area includes all platform-level products and services that support va.gov product development. 
 - All documentation and artifacts created by the platform teams (VSP teams) that support and help teams working on the platform and va.gov.
 - Examples of content you will find in this area include best practices, how to request reviews with different practice areas, onboarding materials for all VFS teams, and documentation on tools and services provided by VSP. 
 - The primary contributor to this area is the VSP team. 
 
-**/product**<br>
+**/product**<br/>
 This area includes documentation on all va.gov user-facing products.  This includes any tool, content page or piece of functionality that a va.gov visitor interacts with directly. 
 - All documentation and artifacts created as part of the product development process should be stored here. 
 - Examples of content/files you will find in this area include product outlines, design comps, content decks, discovery docs, user research files, etc. 
 - The primary contributor to this area are the VFS teams. For historical and tracking purposes, your team must store its project documents in your assigned /products folder.
 
-**/teams**<br>
+**/teams**<br/>
 This area includes information on all teams working on the platform.  
 - Teams can utilize this space to manage their teams and workflow.
 - Examples of content/files for this area include team charters, org charts, project planning information, workflow documents, etc. 
@@ -55,7 +55,7 @@ We encourage you to browse content in other /products and /teams folders to see 
 ## <a id="naming-guidelines"></a>Guidelines for Creating and Naming Folders and Files
 
 ## <a id="naming-conventions"></a>Folder and File Naming Conventions
-When  naming a new folder or markdown file in this repo, please adhere to the guidelines below.  This helps to keep our repo file URLs short and readable as well as ensure the repo can be cloned easily without errors. <br>
+When  naming a new folder or markdown file in this repo, please adhere to the guidelines below.  This helps to keep our repo file URLs short and readable as well as ensure the repo can be cloned easily without errors. <br/>
 
 *While these are specific to GitHub folders and markdown files, these guidelines are good rules to follow with any file uploaded to the repo as well.*
 
