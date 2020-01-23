@@ -1,0 +1,1 @@
+All profile 2.0 work is [documented in the profile folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account).
