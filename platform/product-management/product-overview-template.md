@@ -1,4 +1,4 @@
-# Product Outline
+# Product Overview
 *Provide a customer-facing description of your product. It should clearly outline the value the product provides to customers and include a high-level overview of the functionality included*
 
 
