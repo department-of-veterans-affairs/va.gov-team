@@ -33,8 +33,9 @@ assignees: karak888
       
 - [ ] Content updates to existing content
 
-      1. Confirm this is for updating content or links to an already existing page
-- [ ] Content / IA / Redirects
+      1. Confirm this is for updating content or links to an already existing page- if so,
+      2. Provide clear instructions of what page needs to be updated, what the new info should be, and what it is replacing.
+      3. Are there redirects that will be needed, and if so do you have a proposed IA and URL from Content / IA team?
 
 ### Requestor info
 *Indicate what team and who the primary contacts are on that team* 
@@ -59,9 +60,9 @@ Please indicate when the work needs to be implemented
 
 ### Steps to complete
 - [ ] Above information is provided and issue is tagged and assigned appropriately - *@ requesting team*
-- [ ] All appropriate VA stakeholders are notified of pending redirect - *@ requesting team*
-- [ ] Redirect request is vetted and documented and implementation plan is clear - *@ Content & IA team*
-- [ ] Request is assigned to appropriate team for implementation - *@ Content & IA team*
+- [ ] All appropriate VA stakeholders are notified of request - *@ requesting team*
+- [ ] Request is documented and implementation plan is clear - *@ Public Websites team*
+- [ ] Request is assigned to appropriate team for implementation - *@ Public Websites Team*
 - [ ] Implementation team completes work - *@ Implementation team*
 - [ ]  is validated in production - *@ all*
 - [ ] Ticket is closed - *@ requesting team*
