@@ -19,11 +19,13 @@ assignees: karak888
 *Select one*
 - [ ] Tool / Product 
 
-      1. Is this related to a tool launch? 
+      1. Is this related to a VA.gov tool? 
       2. If yes provide brief description of tool 
-      3. Is there an ETA for launch?
+      3. Is this an iteration to an existing tool?
       4. Is there already a particular content person assigened for the tool, if so please provide name.
-      
+      5. Please provide any links to exissting wireframes, prototype 
+      6. Provide any links to product briefs or outlines
+      7. Is there an ETA for launch?
 - [ ] Shared content resource 
 - [ ] Content updates to existing content
 - [ ] Content / IA / Redirects
