@@ -27,7 +27,13 @@ assignees: karak888
       6. Provide any links to product briefs or outlines
       7. Is there an ETA for launch?
 - [ ] Shared content resource 
+
+      1. Describe reason / need for content resource 
+      2. How long will you require resource?
+      
 - [ ] Content updates to existing content
+
+      1. Confirm this is for updating content or links to an already existing page
 - [ ] Content / IA / Redirects
 
 ### Requestor info
