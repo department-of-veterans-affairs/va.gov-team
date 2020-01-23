@@ -1,15 +1,16 @@
 _WIP_
-# VSA: Public Websites Team Working Agreement / Charter
+# VSA: Public Websites Team Working Agreement
 
 
 **Team Members**
-DEPO Product Owner : Chris Johnston
+DSVA Product Owner:  Jennifer Lee
+DEPO Product Owner: Dave Conlon
 Team Product Manager: Kara Kemahli
-DSVA Content Lead: Jennifer Lee
 Content Writer:  Laura Walsh
 Content Writer: Randi Hecht 
 Copy Editor:  Anne Hurley
 Frontend Engineer:  Nick Sullivan
+Frontend Engineer: Kelson Adams
 
 Workflow + Cadence
 
