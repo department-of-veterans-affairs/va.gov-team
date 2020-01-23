@@ -1,45 +1,6 @@
 _WIP_
-# VSA: Public Websites Charter
+# VSA: Public Websites Team Working Agreement / Charter
 
-## Guideposts 
-### Public Websites Mission Statement:
-Provides Veterans, family members, caregivers, service members and other
-audiences access to vital information about VA benefits and services
-
-### Public Websites Vision
-WIP
-
-### Public Websites North Star
-WIP
-
-## What we work on
-### Product Line: 
-Unauthenticated Experience for VA.gov.
-
-### Product Portfolio:
--	Home Page 
--	Header / Footer 
--	IA, Menus, Navigation 
--	Content Hubs 
--	Legacy content rewriting 
--	Content Migration (Github to Drupal) 
--	VAMC Sites / Pages  
--	Facility Locator 
--	On-site Search  
--	Tier 2 content templates 
--	Tier 3 content templates 
--	Style Guide 
--	VA Forms 
--	Contact Us/ Help Utility
--	Global Alerts
-
-**Responsibilities:**
-[High level problem space and user goals for this team]
-
-**Roadmap:**  
-![Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/global-ux/global-ux-roadmap-sept2019.JPG)
-[PDF version](global-ux-roadmap-sept2019.pdf)  
-________________________________________
 
 **Team Members**
 DEPO Product Owner : Chris Johnston
