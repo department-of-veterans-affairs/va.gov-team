@@ -18,25 +18,17 @@ _The intended audience for this document is software engineers, but it should ma
 
 ### Objective
 
-We want to implement a public landing page where VFS/VSP team members can search multiple documentation source from a single entrypoint.
+We want to implement a public landing page where VFS/VSP team members can search multiple documentation sources from a single entrypoint.
 
 ### Background
 
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
-
-_Do **NOT** describe the solution here. That goes in High Level Design._
+The documentation we have is spread across many different locations (public repos, private repos, GitHub pages, etc). There currently is not a way for VFS/VSP users to search all of the sources with a single query.
 
 ### High Level Design
 
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
-
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
-
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
+We are adding a public landing page that will contain a form where users can search all of our public documentation in one location.
 
 ## Specifics
-
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Detailed Design
 
