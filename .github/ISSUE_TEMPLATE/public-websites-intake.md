@@ -18,6 +18,12 @@ assignees: karak888
 ### Type of request
 *Select one*
 - [ ] Tool / Product 
+
+      1. Is this related to a tool launch? 
+      2. If yes provide brief description of tool 
+      3. Is there an ETA for launch?
+      4. Is there already a particular content person assigened for the tool, if so please provide name.
+      
 - [ ] Shared content resource 
 - [ ] Content updates to existing content
 - [ ] Content / IA / Redirects
