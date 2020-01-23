@@ -11,7 +11,6 @@ assignees: karak888
 
 ### Instructions
 - All requests for work needing to be fulfilled by a Public Websites Resource must submit this intake request form. The team's capacity and the type of request will determine which sprint the work falls into, so it is highly recommended that requests are submitted as soon as you're aware you will need help. Different types of requests may require more time in advance.
-- This issue will be used from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track different steps.
 
 ### Description
 *Detailed description of the request including background information and reason for the request*
@@ -50,6 +49,6 @@ Please indicate when the work needs to be implemented
 - [ ] Redirect request is vetted and documented and implementation plan is clear - *@ Content & IA team*
 - [ ] Request is assigned to appropriate team for implementation - *@ Content & IA team*
 - [ ] Implementation team completes work - *@ Implementation team*
-- [ ] Implementation pushed live and redirect is validated in production - *@ all*
+- [ ]  is validated in production - *@ all*
 - [ ] Ticket is closed - *@ requesting team*
 
