@@ -64,25 +64,31 @@ By separating services from the underlying infrastructure and adding service-cen
 Have a platform that can meet and adapt to the demand of the teams that built on it. 
 
 ## Assumptions
-- Service-centric Deployment process is right for VA.gov. 
+- Service-centric Deployment process is right for VA.gov
 - Developers want to be empowered on VA.gov
-- Service-centric deployment process we will be able to support VA.gov’s needs.
+- Service-centric deployment process we will be able to support VA.gov’s needs
 - Teams will want more deployments
+- The Tools we choose will be the right choice
+- The number of VFS teams will double before the end of the year. 
 
 ## Requirements  
-TBD
+- Need to have something in place within the next 6 months to accommodate double the number of VFS teams. 
+- Need to dedicate resources to this for the whole year. 
 
 ## Constraints
-TBD
+- More teams will be joining soon.
+- Need to maintain our current operations with less resources, while making this push for the new Infrastructure (Down people power and Lighthouse is in limbo). 
+
 
 ## Decisions
 - Created RFC to take a guess at the high-level architecture that needs to be in place to address our issues.
 - Conduct Discovery to find out how people are currently operating and understand current pain points in interacting with our Platform.
+- Working toward a framework then slowly moving things to it. 
+- Keeping close communications with the BE tools and CMS team. 
 - [WIP] Created Roadmap of intended work and mapping to an MVP. 
 
 ## How it works
-TBA
-
+we propose to use Nomad to power a services cluster of hosts to run va.gov and related services. 
 
 ## The Plan
 Due to the scale of this initiative, we will be rolling it out in a few phases as laid out below.
@@ -99,6 +105,7 @@ Discovery team on January 31st, 2020 conducted the discovery sprint readout with
 ### Phase 2 Road to MVP
 
 ## KPIs
+We have idenifted mulitbile KPIs for pain points we found in discovery (here)[https://docs.google.com/spreadsheets/d/1RcUN1qCuuzfb73PmpiwttVEpc8Ts0LX7KtpKehHPX9g/edit#gid=946480136]
 
 ### Objective
 TBD
