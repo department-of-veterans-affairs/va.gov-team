@@ -4,16 +4,16 @@ _WIP_
 
 **Team Members**
 - DSVA Product Owner:  Jennifer Lee
-- DEPO Product Owner: Dave Conlon
-- Team Product Manager: Kara Kemahli
-- Content Writer:  Laura Walsh
-- Content Editor: Randi Hecht 
-- Content Writer:  Anne Hurley
-- Content Writer:  Selina Cooper
+- DEPO Product Owner:  Dave Conlon
+- Team Product Manager:  Kara Kemahli
+- Content Writer:   Laura Walsh
+- Content Editor:   Randi Hecht 
+- Content Writer:   Anne Hurley
+- Content Writer:   Selina Cooper
 - Frontend Engineer:  Nick Sullivan
-- Frontend Engineer: Kelson Adams
+- Frontend Engineer:  Kelson Adams
 
-Workflow + Cadence
+**Workflow & Cadence**
 
 Stand-up: people / product check-ins
 - Daily @ 11:30 AM-  11:45 AM EST 
