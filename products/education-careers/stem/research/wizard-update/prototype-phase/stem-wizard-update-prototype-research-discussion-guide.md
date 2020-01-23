@@ -99,7 +99,7 @@ Using this page, how would you apply for the STEM Scholarship?
 
 **Wizard Questions**  
 Let's go back to the beginning of the process, so I can ask a few specific questions.  
-1. As you look at this information that appears when you click the STEM Scholarship option, what thoughts or reactions come to mind?
+1. As you look at the information that appears when you click the STEM Scholarship option, what thoughts or reactions come to mind?
 2. What additional information would help you determine whether or not to apply for the scholarship?
 3. How might we further clarify the eligibility requirements? 
 
@@ -107,7 +107,7 @@ Let's go back to the beginning of the process, so I can ask a few specific quest
 Now, let's look at the application form.  
 1. I'm curious to hear your thoughts on what aspects of the form work well and where you think we might want to make improvements. 
 2. As you read through the eligibility requirements, what questions come to mind?
-3. How effectively does the form inform you of your eligibility?
+3. How effectively does the form inform you of your potential eligibility?
 4. What are your thoughts on these blue boxes? 
 5. Are you able to determine under what circumstances you might become eligible in the future?
-6. What any modifications would make completing the form easier?
+6. What, if any, modifications would make completing the form easier?
