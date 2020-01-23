@@ -26,15 +26,15 @@ assignees: karak888
 ### Requestor Info
 *Indicate what team and who the primary contacts are on that team* 
 
-Team Name:  *enter name *
+Team Name: *enter name*
 
-Product Owner: *enter name *
+Product Owner: *enter name*
 
 Product Manager: *enter name*
 
 Designer: *enter name*
 
-Is there a particular content person assigned: if so *please provide name* 
+Content: Is there already an existing person assigned: if so *please provide name* 
 
 
 
