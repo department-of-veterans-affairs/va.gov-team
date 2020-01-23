@@ -34,13 +34,11 @@ Product Manager: *enter name*
 
 Designer: *enter name*
 
-Content: Is there already an existing person assigned: if so *please provide name* 
+Content: Is there already an existing person assigned? if so: *please provide name* 
 
-
-
+VA Stakeholders: *please enter names*
 
 ### Implementation Date
-Is there an ETA for a particular launch: *enter date when work *
 
 Please indicate when the work needs to be implemented"
 - [ ] Is there an ETA for a particular launch or completion date when work is required?
