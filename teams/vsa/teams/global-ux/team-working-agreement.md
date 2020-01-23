@@ -3,14 +3,15 @@ _WIP_
 
 
 **Team Members**
-DSVA Product Owner:  Jennifer Lee
-DEPO Product Owner: Dave Conlon
-Team Product Manager: Kara Kemahli
-Content Writer:  Laura Walsh
-Content Writer: Randi Hecht 
-Copy Editor:  Anne Hurley
-Frontend Engineer:  Nick Sullivan
-Frontend Engineer: Kelson Adams
+- DSVA Product Owner:  Jennifer Lee
+- DEPO Product Owner: Dave Conlon
+- Team Product Manager: Kara Kemahli
+- Content Writer:  Laura Walsh
+- Content Editor: Randi Hecht 
+- Content Writer:  Anne Hurley
+- Content Writer:  Selina Cooper
+- Frontend Engineer:  Nick Sullivan
+- Frontend Engineer: Kelson Adams
 
 Workflow + Cadence
 
@@ -46,7 +47,7 @@ Estimation is not based on how long something will take to complete, but is rath
 1 - Easy task, work is known, can be executed quickly  
 2  
 3 - Medium task, work is known and can be completed in one sprint  
-5 - Work is discussed and planned for, and can be worked   
+5 - Work is discussed and planned for, and can be worked   -
 8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
 13 - Very complex, may take a full sprint or longer 
 
