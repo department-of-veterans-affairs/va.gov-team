@@ -1,7 +1,7 @@
 # KPI Pre-Workshop Planning
 
 ## Product Line
-- eBenefits
+- eBenefits within VSA
 
 ### North Star
 - **Work with Veterans to design and deliver the best digital experience in the federal government.**  
