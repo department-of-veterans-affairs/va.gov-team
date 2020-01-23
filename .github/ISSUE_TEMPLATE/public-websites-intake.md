@@ -10,38 +10,38 @@ assignees: karak888
 # WIP
 
 ### Instructions
-- All requests for work needing to be fulfilled by a Public Websites Resource must submit this intake request form. Depending on the team's capacity and the type of request will determine which sprint the work falls into, so it is highly recommended that requests are submitted as soon as you are aware of the you will need help. Different types of requests may require more time in advance
-- This issue will be used from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track differnt steps.
+- All requests for work needing to be fulfilled by a Public Websites Resource must submit this intake request form. The team's capacity and the type of request will determine which sprint the work falls into, so it is highly recommended that requests are submitted as soon as you're aware you will need help. Different types of requests may require more time in advance.
+- This issue will be used from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates.  Please do not create multiple issues to track different steps.
 
 ### Description
 *Detailed description of the request including background information and reason for the request*
 
-### Type of Request
-*Select One*
+### Type of request
+*Select one*
 - [ ] Tool / Product 
-- [ ] Shared Content Resource 
-- [ ] Content Updates to Existing Content
+- [ ] Shared content resource 
+- [ ] Content updates to existing content
 - [ ] Content / IA / Redirects
 
-### Requestor Info
+### Requestor info
 *Indicate what team and who the primary contacts are on that team* 
 
-Team Name: *enter name*
+Team name: *enter name*
 
-Product Owner: *enter name*
+Product owner: *enter name*
 
-Product Manager: *enter name*
+Product manager: *enter name*
 
 Designer: *enter name*
 
-Content: Is there already an existing person assigned? if so: *please provide name* 
+Content: Is there already an existing person assigned? If so: *please provide name* 
 
-VA Stakeholders: *please enter names*
+VA stakeholders: *please enter names*
 
-### Implementation Date
+### Implementation date
 Please indicate when the work needs to be implemented
 - [ ] Is there an ETA for a particular launch or completion date when work is required?
-- [ ] Other - Please indicate timing : 
+- [ ] Other - Please indicate timing: 
 
 
 ### Steps to complete
