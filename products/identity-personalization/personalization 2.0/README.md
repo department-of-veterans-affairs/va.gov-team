@@ -10,9 +10,7 @@
 |Name|Role|
 |----|----|
 |Samara Strauss |Auth exp team lead designer|
-|Justin Pickett |Auth exp PM|
 |Tressa Furner |Auth exp team designer|
-|Arthur Green |Auth exp designer|
 |Erik Hansen | Auth exp FE engineer|
 |Brad Conley | Auth exp FE engineer|
 |Lihan Li | Auth exp BE engineer |
