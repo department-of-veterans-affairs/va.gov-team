@@ -99,7 +99,7 @@ Using this page, how would you apply for the STEM Scholarship?
 
 **Wizard Questions**  
 Let's go back to the beginning of the process, so I can ask a few specific questions.  
-1. As you look at this content, what thoughts or reactions come to mind?
+1. As you look at this information that appears when you click the STEM Scholarship option, what thoughts or reactions come to mind?
 2. What additional information would help you determine whether or not to apply for the scholarship?
 3. How might we further clarify the eligibility requirements? 
 
