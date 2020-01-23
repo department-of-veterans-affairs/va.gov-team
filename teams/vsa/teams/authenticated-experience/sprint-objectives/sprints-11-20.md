@@ -243,14 +243,15 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 **Tze**
 
-- Finalize QA spreadsheet and QA test cases
-- Conduct QA
-- Create QA bug tickets
+- Finalize QA spreadsheet and QA test cases #5010
+- Run QA and add bug tickets based on QA. #5012
 
 **Samara**
 
 - Help manage the QA process
+  - Review QA test plan 
   - Pay attention to bug tickets that come in, and give direction/guidance as necessary for fixes. 
+  - Triage tickets
   - As tickets/fixes go out, validate user-facing fixes in staging.
  
  **Brad**
@@ -262,7 +263,6 @@ Sprint 13 is 9 days with the MLK Day holiday.
 Design
 - Put together all screens for all states
 - Work with copy
-- Start to plan research
 
 Dev
 - Refactor Profile components
@@ -297,8 +297,7 @@ Dev
 ### Profile 2.0
 
 Design
-- Submit research proposal
-- Research
+- Start to plan research
 
 Dev
 - Build for new profile
@@ -312,24 +311,33 @@ Dev
 ### Profile 2.0
 
 Design
-- Research updates
-- Prep for QA
-
-Dev
-- Updates from research
+- Submit research proposal
+- Research
 
 ## Sprint 18 (3/25 - 4/7)
 
 ### Profile 2.0
 
 Design
+- Research updates
+- Prep for QA
+
+Dev
+- Updates from research
+
+## Sprint 19 (4/8 - 4/21)
+
+### Profile 2.0
+
+Design
+
 - QA
 - Updates from QA
 
 Dev
 - Updates from QA
 
-## Sprint 19 (4/8 - 4/21)
+## Sprint 20 (4/22 - 5/5)
 
 ### Profile 2.0
 
@@ -342,16 +350,14 @@ Design
 Dev
 - Support pre-launch
 
-## Sprint 20 (4/22 - 5/5)
+## Sprint 21 (4/22 - 5/5)
 
-### Profile 2.0
+Design
+- Pre-launch checklist, sprint 2
 
 PM
 - Pre-launch checklist, sprint 2
 - Launch!
-
-Design
-- Pre-launch checklist, sprint 2
 
 Dev
 - Support pre-launch/launch
