@@ -20,29 +20,35 @@
 ### Objective 1: Improve Veteran search experience (as of December 6, 2019)
 
 **KPI 1** Number of known (legacy) usability amd accessibility defects
+
 **Key Results**
 - 100% of [known (legacy) usability and accessibility defects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md#legacy-known-issues-referenced-in-objective-1) are resolved by April 1, 2020.
 
 **KPI 2** Time to return search results
+
 **Key Results**
 - Search performance will be measurable by facility type and “category of care” by April 1, 2020. 
   - Future: Decreasing the time for delivering search results to <2-3s. 
 
 **KPI 3** Rate of VHA search refinements
+
 **Key Results**
 - The rate of search refinements for VA Health will be 2% or lower by July 1, 2020.  
 
 **KPI 4** User satisfaction ratings
+
 **Key Results**
 - A baseline rate for 5 star user satisfaction will be established by April 1, 2020. 
 
 ### Objective 2: Reform Community Care implementation (as of December 6, 2019)
 
 **KPI 1** Rate of Community Care search refinements
- **Key Results**
+
+**Key Results**
 - The rate of search refinements for Community Care will be at parity with VA facility searches by July 1, 2020. 
 
 **KPI 2** All urgent care searches will be performed using the modernized Facility Locator by February 2, 2020. 
+
 **Key Results**
 - Removal of TriWest locator link
 - A baseline for the percentage of users searching for urgent care who download the benefit PDF will be established by March 15, 2020.
@@ -51,6 +57,7 @@
 ### Objective 3: Improve data quality (as of December 6, 2019)
 
 **KPI** Complete and accurate data 
+
 **Key Results**
 - The number of missing expected data elements will decrease by 50% by July 1, 2020.
 
