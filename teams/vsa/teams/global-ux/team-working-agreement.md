@@ -12,14 +12,14 @@ _WIP_
 - **Frontend Engineer**:  Nick Sullivan
 - **Frontend Engineer**:  Kelson Adams
 
-**Workflow and Processes**
+***Workflow and Processes***
 
 
 **Standup**
   - Monday, Wednesday, Thursday, Friday @ 11:30 AM-  11:45 AM EST 
-- Tuesday is slack-up day: Team provides updates with relevant tickets to VSA-Public Websites Channel on DSVA Slack
-- 15 min 
-- Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
+  - Tuesday is slack-up day: Team provides updates with relevant tickets to VSA-Public Websites Channel on DSVA Slack
+  - 15 min 
+    1. Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
   - Each team member 
   - Use label:  Public Websites 
    
