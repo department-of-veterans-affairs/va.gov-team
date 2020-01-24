@@ -5,9 +5,10 @@ The VA.gov CMS is the primary means by which the modernized VA.gov initiative wi
 
 The CMS team will increasingly function as a platform team that onboards dozens of new VFS products, while continuing to support and improve the CMS product itself (editorial experience, governance structures, Content API, etc).
 
-In the latter function, it is important the CMS team integrate into VSP tools and processes to streamline new Product development for the enterprise. 
+In the former function, it is important the CMS team integrate into VSP tools and processes to streamline new Product development for the enterprise. 
 
-The purpose of this document is to outline documetation to be added/updated, as well as suggested process modifications to achieve this objective.
+## Purpose
+The purpose of this document is to outline documentation to be added/updated, as well as suggested process modifications to achieve this objective.
 
 ## Onboarding Process
 - Include CMS PM in PM Onboarding meetings?
