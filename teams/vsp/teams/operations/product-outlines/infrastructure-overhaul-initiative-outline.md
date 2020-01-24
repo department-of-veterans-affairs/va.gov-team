@@ -95,7 +95,7 @@ we propose to use Nomad to power a services cluster of hosts to run va.gov and r
 ## The Plan
 Due to the scale of this initiative, we will be rolling it out in a few phases as laid out below.
 
-(Agile Roadmap)[TBD]
+[Agile Roadmap](TBD)
 
 ### Phase 1 Discovery 
 Conducted a discovery sprint on January 13th - 17th. Including Nathan Hruby, Bill Ryan, Emily Waggoner, and TJ Rice. The discovery sprint team interviewed 8 Individuals from across the VA includes members of VFS teams, VSP teams, CMS team, and DEPO. A survey to gather additional data was also sent out to gather more data from users. 
@@ -106,10 +106,12 @@ TBD: Add info from the overview slide and link here.
 
 Discovery team on January 31st, 2020 conducted the discovery sprint readout with recommendations for the next steps. 
 
+[Readout Slides](https://docs.google.com/presentation/d/1mESrMGEn5nGG9M0HUIkoBfIUCtk9ZrdV7FkMsWOH4XE/edit#slide=id.g7ba3f76b9f_0_45)
+
 ### Phase 2 Road to MVP
 
 ## KPIs
-We have idenifted mulitbile KPIs for pain points we found in discovery (here)[https://docs.google.com/spreadsheets/d/1RcUN1qCuuzfb73PmpiwttVEpc8Ts0LX7KtpKehHPX9g/edit#gid=946480136]
+We have idenifted mulitbile KPIs for pain points we found in discovery [here](https://docs.google.com/spreadsheets/d/1RcUN1qCuuzfb73PmpiwttVEpc8Ts0LX7KtpKehHPX9g/edit#gid=946480136)
 
 ### Objective
 TBD
