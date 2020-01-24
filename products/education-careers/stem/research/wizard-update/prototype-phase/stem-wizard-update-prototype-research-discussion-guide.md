@@ -85,7 +85,7 @@ Let's go back to the beginning and start the 2nd scenario
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
 
-Let's assume you are midway through school and would like to change your major. Starting from this page, how would you let the VA know that you will be switching from your current major to biochemistry?
+Let's assume you are midway through college and would like to change your major. Starting from this page, how would you let the VA know that you will be switching from your current major to biochemistry?
 
 **Questions**
 1. What are your thoughts on the overall process of letting the VA know that you are changing your major?
