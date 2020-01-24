@@ -1,7 +1,6 @@
 _WIP_
 # VSA: Public Websites Team Working Agreement
 
-
 **Team Members**
 - **DSVA Product Owner**:  Jennifer Lee
 - **DEPO Product Owner**:  Dave Conlon
@@ -13,8 +12,6 @@ _WIP_
 - **Frontend Engineer**:  Nick Sullivan
 - **Frontend Engineer**:  Kelson Adams
 
-***All this text is important***
-
 **Daily Standup**
 - Monday, Wednesday, Thursday, Friday @ 11:30 AM-  11:45 AM EST 
 - Tuesday is slack-up day: Team provides updates with relevant tickets to VSA-Public Websites Channel on DSVA Slack
@@ -23,7 +20,7 @@ _WIP_
   - Each team member 
   - Use label:  Public Websites 
    
-3 Question Format: What I did yesterday? What will I do today? Any impediments?
+
 
 Sprint Planning: outline team and member focus, goals for sprint
 - 1st Wednesday of every sprint 
