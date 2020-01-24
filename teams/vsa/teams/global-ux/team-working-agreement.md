@@ -1,4 +1,4 @@
-_WIP_
+9_WIP_
 # VSA: Public Websites Team Working Agreement
 
 **Team Members**
@@ -16,12 +16,13 @@ _WIP_
 
 
 **Standup**
-  - Monday, Wednesday, Thursday, Friday @ 11:30 AM-  11:45 AM EST 
+  - Monday, Wednesday, Thursday, Friday @ 11:30 AM- 11:45 AM EST 
   - Tuesday is slack-up day: Team provides updates with relevant tickets to VSA-Public Websites Channel on DSVA Slack
   - 15 min 
-    1. Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
-  - Each team member 
-  - Use label:  Public Websites 
+  - Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
+  - Filter by assignee for indiviual team member to report out on their respective ticket 
+     - What ticket you worked on yesterday, what will you work on today, are there any blockers / impediments
+  
    
 
 
