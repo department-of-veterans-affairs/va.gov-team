@@ -1,8 +1,11 @@
 # Design Doc Template
 
-**Author:** Albert J. Wong  
-**Last Updated:** January 19, 2016
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._
+_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
+**Author(s):** Albert J. Wong  
+**Last Updated:** January 24, 2020  
+**Status:** **Draft** | In Review | Approved  
+**Approvers:** _Person A_ \[ \], _Person B_ \[ \], ...  
+_Replace the previous line with 2-4 people, all of whom must explicitly approve your design proposal. An important part of the design doc is building consensus with key stakeholders, technical implementers who you'll work with, and technical contacts for other systems that this proposal affects or is affected by._
 
 _For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
 
@@ -67,6 +70,9 @@ _To be determined._
 ### Security Concerns
 _This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
 
+### Privacy Concerns
+_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
+
 ### Open Questions and Risks
 _This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
 
@@ -86,6 +92,7 @@ _Features you'd like to (or will need to) add but aren't required for the curren
 ### Revision History
 _The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
-Date | Revisions Made | Author | Reviewed By
------|----------------|--------|--------------
+Date | Revisions Made | Author
+-----|----------------|--------
+Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
 Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
