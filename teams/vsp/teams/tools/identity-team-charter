@@ -1,24 +1,34 @@
-Identity Team Charter
-________________________________________
-Why we're here
-North Star:
-TBD
-Product Suite (if applicable):
-VSP Platform Team
-Team Mission Statement:
+# Identity Team Charter
 
-Product Portfolio:
-•	Identity (?)
-List of products within your team's perview - make sure the list of products here aligns to what's captured in the List of VA.gov Products doc
-Roadmap:
-Zenhub Super Epics
-________________________________________
-Who we are
-Team Members:
+## Why we're here
+
+### North Star:
+TBD
+
+### Product Suite (if applicable):
+VSP Platform Team
+
+### Team Mission Statement:
+TBD
+
+### Product Portfolio:
+- The BE services that enable FE teams to do what they want w/Identity info
+- BE requests/responses to/from credentialing brokers
+
+NOT:
+- FE login flow
+- SSO features of login
+
+### Roadmap:
+
+## Who we are
+
+### Team Members:
 •	Team Product Manager: Christine Dillman
 •	BE Dev Lead: Anna Carey
 •	BE Dev Engineer: ________________________________________
-How we work
+
+### How we work
 Workflow + Cadence
 Stand-up
 •	What: Check in on people and product progress
