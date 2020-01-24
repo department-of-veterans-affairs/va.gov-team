@@ -1,4 +1,4 @@
-# Identity Team Charter
+# vSP Identity Team Charter
 
 ## Why we're here
 
@@ -12,12 +12,23 @@ VSP Platform Team
 TBD
 
 ### Product Portfolio:
-- The BE services that enable FE teams to do what they want w/Identity info
-- BE requests/responses to/from credentialing brokers
+- The BE services that enable FE teams to do what they need to w/Identity info
+- Cohesive user record and semantics around relationships of user A and user B (if any)
+- Authorization (incl 3rd party auth-z)
+- Cookies
+- Everything from login modal to login user, and the endpoint
 
-NOT:
-- FE login flow
-- SSO features of login
+The following things are NOT in VSP Identity Team's scope, but rather are owned by other teams:
+
+- Auth X team (Lisa DEPO Lead for now, Samara best contact): User experience of using login (and the modal)
+
+- Platform identity team: Capturing reporting brokering of identities (info passed through the modal and whether its accurate, secure, and the relationships of their roles to each other and to the VA)
+
+- SSO + SSOe??: consolidate login across properties incl MHV and Cerner. Product portfolio: standalone login page for Cerner, . But need to hand this off to FE and BE at some point (likely recipients: Auth X and Platform Identity). Dynamic/contextual sign in modals for the Health tools on VA.gov. VA.gov will cut over FE to using V1 session endpoint when we're ready to go.
+
+- eBen migration team (Steve DEPO Lead): migrate features from eBen and VA Enterprise Portal onto VA.gov which require more robust functionality around roles, persons in MPI (caregivers, etc) don't have a differentiated experience. (Mike Carr good person to ask how to test this in eBen)
+
+- Caregiver team: more VA.gov features that rely on Identity enhancements.
 
 ### Roadmap:
 
