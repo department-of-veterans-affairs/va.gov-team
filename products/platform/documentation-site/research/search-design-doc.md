@@ -9,7 +9,7 @@
 
 ### Objective
 
-We want to implement a public landing page where VFS/VSP team members can search multiple documentation sources from a single entrypoint.
+We want to implement a landing page where VFS/VSP team members can search multiple documentation sources from a single entrypoint.
 
 ### Background
 
@@ -17,7 +17,7 @@ The documentation we have is spread across many different locations (public repo
 
 ### High Level Design
 
-We are adding a public landing page that will contain a form where users can search all of our public documentation in one location.
+We are adding a landing page that will contain a form where users can search multiple documentation sources in one location.
 
 ## Specifics
 
@@ -41,7 +41,7 @@ _How you will verify the behavior of your system. Once the system is written, th
 
 ### Logging
 
-_What your system will record and how._
+By logging the term(s) that users are querying, we could theoretically identify trends to help increase the quality of our search results.
 
 ### Debugging
 
@@ -49,11 +49,7 @@ _How users can debug interactions with your system. When designing a system it's
 
 ### Caveats
 
-_Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
-
-_Rather than deleting it, it's recommended that you keep this section with a simple place holder, since caveats will almost certainly appear down the road._
-
-_To be determined._
+- Access Control: By making the documentation landing page public, it becomes difficult to impossible to allow an unauthenticated user to search documentation from private sources (like a private Github repo). One suggestion is that search results lead to public documentation sources, and we include links to private documentation in the public sources. That way, we can rely on existing access control solutions, while still providing a decent solution. One of the major downsides of that approach is auditing, adding, updating, and maintaining links to/from the public and private sources.
 
 ### Security Concerns
 
@@ -65,9 +61,10 @@ _This section should describe any risks related to user data, PII that are added
 
 ### Open Questions and Risks
 
-_This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
-
-_Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
+- Should we index private documentation sources? If so, what private documentation sources can we expose to public users, if any?
+- Should the landing page be public only, or should it also support authenticated users?
+- How often should we reindex our documentation sources? For perspective, Algolia's open source crawler runs every 24 hours.
+- What should the URL of the documentation landing page be? Since we have `design.va.gov`, does something like `docs.va.gov` make sense?
 
 _For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
 
