@@ -11,5 +11,5 @@ Websites Team | Forms Search Landing Pages | in progress | - | Impacted by redir
 Websites Team | VA Forms Search | 01/09/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/3887 | -
 BAM1 | Higher Level Review Form | 12/3/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/3822 | -
 VAOS | Online Appointment Scheduling |11/7/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/issues/3152 | -
-BAH | School Certifying Officials content page | 11/5/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/3041 | -
+BAH | School Certifying Officials content page | 11/5/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-certifying-officials.md | -
 eBenefits | Rated Disabilities | 10/18/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-rated-disabilities.md| -
