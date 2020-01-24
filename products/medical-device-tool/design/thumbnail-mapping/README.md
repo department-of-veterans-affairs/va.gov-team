@@ -48,7 +48,7 @@ For the second iteration, we introduced content page design variations in additi
 - The design team presented both the order flow thumbnail mapping and the content page variations to the BaM2 team for feedback. The meeting notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200122-BAM2-thumbnail-mapping-review.md). 
 
 ### Presenting to VSP 
-VSP Design Intent Checkin initiated several meetings with IA, Accessibility, Design, and Content. Suggestions and guidance can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200121-VSP-design-intent-check-in.md).
+- VSP Design Intent Checkin initiated several meetings with IA, Accessibility, Design, and Content. Suggestions and guidance can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200121-VSP-design-intent-check-in.md).
 
 ### Presenting to DLC
 - After presenting to the BaM2 team, the designers presented the 'Order flow "happy paths"' thumbnail mapping to multiple DLC stakeholders for feedback. The meeting notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200124-DALC-thumbnail-mapping-review.md). 
