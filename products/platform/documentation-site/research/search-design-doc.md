@@ -1,18 +1,9 @@
 # Global Documentation Search
 
-**Author:** Bill Fienberg
+**Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 **Last Updated:** 2020-01-23
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._
-
-_For the rest of the document, replace all the italicized text. The document is designed to guide your thinking through a general design process. Not all sections are always applicable. If a section is not applicable, just say so._
-
-_You should complete the Overview section first. If your design is elaborate, you may want to pause after this section to wait for review comments before investing time into planning details that may get changed in the review._
-
-_Remember, a design document introduces a system or component to a fellow engineer. It should be written before implementing the system to aid in planning and to facilitate discussions about design decisions. After implementation, the design doc will serve as a reference for users, maintainers, and anyone else interested in the system (and for that reason it is still useful to write design docs for systems that have already been written)._
-
-_A design document is not a press release, a vision statement, a research report, or a business plan._
-
-_The intended audience for this document is software engineers, but it should make sense to anyone familiar with software development._
+**Status:** **Draft**
+**Approvers:** Andrew G., Megan K.
 
 ## Overview
 
@@ -22,7 +13,7 @@ We want to implement a public landing page where VFS/VSP team members can search
 
 ### Background
 
-The documentation we have is spread across many different locations (public repos, private repos, GitHub pages, etc). There currently is not a way for VFS/VSP users to search all of the sources with a single query.
+The documentation we have is spread across many different locations (public repos, private repos, GitHub pages, etc). There currently is not a way for VFS/VSP users to search all of the documentation sources with a single query.
 
 ### High Level Design
 
@@ -67,6 +58,10 @@ _To be determined._
 ### Security Concerns
 
 _This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
+
+### Privacy Concerns
+
+_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
 
 ### Open Questions and Risks
 
