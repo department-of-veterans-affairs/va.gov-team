@@ -3,9 +3,9 @@ Accessibility Beyond Compliance (ABC)
 
 ## Table of Contents
 
-Markdown of the content to come.
+Presentation available in Markdown, PDF, and PPTX. Video available in mp4, for those with access to the VSA Team Google Drive.
 
-Presentation available in PDF and PPTX. Video available in mp4, for those with access to the VSA Team Google Drive.
+* [Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/abc03-cognitive-considerations.md)
 
 * [PDF](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/2020-01-24-Cognitive-Considerations.pdf)
 
