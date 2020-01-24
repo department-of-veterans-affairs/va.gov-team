@@ -11,7 +11,7 @@ In the former function, it is important the CMS team integrate into VSP tools an
 The purpose of this document is to outline documentation to be added/updated, as well as suggested process modifications to achieve this objective.
 
 ## Onboarding Process
-- Include CMS PM in PM Onboarding meetings?
+- Include CMS PM and Delivery Manager in PM Onboarding meetings for introductions, roles and responsibilities
 - Update [Welcome to VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Welcome%20to%20VSP.md) with considerations for the CMS beginning to be [outlined here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md).
 - Also consider: inclusion of Drupal Engineers in your product team, and guidelines for contributing code to Drupal
 
@@ -19,15 +19,18 @@ The purpose of this document is to outline documentation to be added/updated, as
 - Update [incident reponse playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md), especially for content-related incicdents such as broken links. 
 
 ## Quarterly Planning
-- Include full CMS team in Platform quarterly planning, starting with Q2
-- CMS PM to collaborate with VSP PM and DEPO on OKR's
-- CMS team members to be included in the pool of resources to form product teams as necessary to achieve key results
-- Cross-platform dependencies to be identified and planned
-- Risks to be identified with ROAM status
+- Work with DEPO, VSP, and CMS team leadership to identify the best way to align OKRs across the entire Platform group.
 
 ## Communication
 - Slack
-  - We have '#cms-support' for integration with the CMS.
+  - Current integration discussion channels:
+    -'#cms-support'
+    -'#vfs-platform-support'
+    -'#vfs-all-teams'
+    -'#vsa-facilities'
+    -'#vsa-public-websites'
+    -'#vsa-vamc-upgrade'
+    -'#platform-cms-fe-superteam'
   - What other channels should we be included in? 
 - Platform leadership meeting (Scrum of Scrums?)
   - Setup cadence to track cross-team status and dependencies
