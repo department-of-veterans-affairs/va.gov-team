@@ -211,8 +211,7 @@ The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipie
 * have used all their benefits or will run out within 6 months, and   
 * are pursuing an undergraduate STEM degree or have graduated with a STEM degree and are pursuing a teaching certification.   
 
-
-You may want to [return to the top of the page to change your response]().
+If you don't want to apply, [return to the top]() of the page and choose that you are not applying for the Rogers STEM Scholarship.
 
 { end Alert text }
 
