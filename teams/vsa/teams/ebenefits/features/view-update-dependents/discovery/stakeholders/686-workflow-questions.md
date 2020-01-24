@@ -3,7 +3,8 @@
 ### To Stakeholders
 1. Who are the claimants mentioned in the 686; how often (estimated) do they use the 686 vs. the Veterans themselves?
 2. Do you prefer mixed-use 686s (e.g. add spouse + report divorce + report married child) vs. single-purpose use (e.g. only add dependent child)?
-3. Would multiple 'single-purpose' submissions be confusing for processors? Helpful maybe?
+- Business: Better to have all information on a single form to reduce administrative burden of toggling among forms in VBMS.
+3. ~~Would multiple 'single-purpose' submissions be confusing for processors? Helpful maybe?~~
 4. How often is 686 used to remove dependents vs. adding them? 
 5. ~~It seems applying to add dependent to a claim would be the more popular use of the form; is that the case?~~
 6. Does VA have to “discover” deceased or divorced dependents, or do Veterans actually self-report? 
