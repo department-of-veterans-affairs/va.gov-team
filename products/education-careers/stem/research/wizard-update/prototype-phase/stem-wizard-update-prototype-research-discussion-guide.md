@@ -30,13 +30,21 @@ Thank you. Let’s start with a few warm-up questions
 
 **Warm-up Questions**
 
-1.	What type of degree are you pursuing?
+1.	Which Education benefit do you have?
 
-2.	How far through the program are you?
+2.	What type of degree are you pursuing?
 
-3.  Approximately how many months or years of education benefit do you have remaining?
+3.	How far through the program are you?
 
-4.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
+4.  Approximately how many months or years of education benefit do you have remaining?
+
+5.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
+
+
+Now we're going to shift gears and review a clickable prototype that we’d like to get your feedback on. 
+
+Just so you know, the prototype is a mock-up, rather than a real website.  This means only certain links have been activated and you’ll see pretend data. You’ll not need to enter any data as you go through, in many cases, as soon as you click you'll see an example of what someone might type in the fields.
+
 
 **Think Aloud**
 
