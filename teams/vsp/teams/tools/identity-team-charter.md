@@ -1,4 +1,4 @@
-# vSP Identity Team Charter
+# VSP Identity Team Charter
 
 ## Why we're here
 
@@ -16,7 +16,11 @@ TBD
 - Cohesive user record and semantics around relationships of user A and user B (if any)
 - Authorization (incl 3rd party auth-z)
 - Cookies
+- Logging or tracking around Identity (like if we want to do audit logging)
+
+Questionable:
 - Everything from login modal to login user, and the endpoint
+- Sitewide messaging related to login stuff, like downtime
 
 The following things are NOT in VSP Identity Team's scope, but rather are owned by other teams:
 
