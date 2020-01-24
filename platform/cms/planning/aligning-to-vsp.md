@@ -17,8 +17,8 @@ The purpose of this document is to outline documentation to be added/updated, as
 
 ## Onboarding Process
 - Include CMS PM and Delivery Manager in PM Onboarding meetings for introductions, roles and responsibilities
-- Update [Welcome to VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Welcome%20to%20VSP.md) with considerations for the CMS beginning to be [outlined here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md).
-- Also consider: inclusion of Drupal Engineers in your product team, and guidelines for contributing code to Drupal
+- Update [Welcome to VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Welcome%20to%20VSP.md) with considerations for the CMS [outlined here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/cms/working-with-cms-team.md).
+- Also consider: inclusion of Drupal Engineers in your product team, and guidelines for contributing code to Drupal, versus a process for the CMS team engineers joining product teams on a temporary basis to achieve objectives/features.
 
 ## Incident Response
 - Update [incident reponse playbook](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/Incident%20Response%20Playbook.md), especially for content-related incicdents such as broken links. 
