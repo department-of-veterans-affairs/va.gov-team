@@ -24,11 +24,9 @@
      - What ticket you worked on yesterday, what will you work on today, are there any blockers / impediments
   
   **Sprint Planning**: outline team and member focus, goals for sprint
-  
    - 1st Wednesday of every sprint
    - 1 hour duration
    - *Pre-Planning:*  Jennifer, Dave, and Kara confirm priorities prior to the sprint 
-   
      - Kara lists priorities for Jennifer/Dave in writing prior to 1:1 and POs confirm/update during Monday 1:1 meeting
    
 
