@@ -95,6 +95,8 @@ we propose to use Nomad to power a services cluster of hosts to run va.gov and r
 ## The Plan
 Due to the scale of this initiative, we will be rolling it out in a few phases as laid out below.
 
+(Agile Roadmap)[TBD]
+
 ### Phase 1 Discovery 
 Conducted a discovery sprint on January 13th - 17th. Including Nathan Hruby, Bill Ryan, Emily Waggoner, and TJ Rice. The discovery sprint team interviewed 8 Individuals from across the VA includes members of VFS teams, VSP teams, CMS team, and DEPO. A survey to gather additional data was also sent out to gather more data from users. 
 
