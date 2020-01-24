@@ -42,10 +42,32 @@
    - *Pre-Planning:*  Jennifer, Dave, and Kara confirm priorities prior to the sprint 
      - Kara lists priorities for Jennifer/Dave in writing prior to 1:1 and POs confirm/update during Monday 1:1 meeting
    - Jennifer announces sprint priorities at beginning of sprint planning
-   
+ 
+ 
   **Backlog Grooming**: outline team and member focus, goals for sprint
    - 2nd Wednesday of every sprint 
-   - Reminder at beginning that this is not sprint planning, this is to review any new tickets from the backlog that the team will talk through 
+   - Reminder at beginning that this is not sprint planning, this is to review any new tickets from the backlog that the team will talk through to ensure each member is understands the ticket and agrees to estimates for tickets in the backlog.  
+   - Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
+
+   1 - Easy task, work is known, can be executed quickly  
+   3 - Medium task, work is known and can be completed in one sprint  
+   5 - Work is discussed and planned for, and can be worked   -
+   8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
+
+   
+   
+   - Each ticket should include the following:
+     - Use of appropriate template for work request (e.g., Redirects, analytics & Insights, etc.) 
+     - Title that explains the task
+     - Description of work to be done, including any links to wireframes, prototypes, Product Briefs, etc. 
+     - Acceptance Criteria - this should be revised after grooming if needed to flush out as will be used as Definition of Done
+      - Where appropriate User Stories can include a set of "Tasks" where each task line item has estimate (this can be helpful in providing a better estimate for the ticket)
+     - Include any known hard launch dates, or ETAs (this will help in prioritization with Product Owners)  
+     - Be sure to Include appropriate labels (always include VSA-Public Websitess, content, FE, IA/Content, etc. 
+       -Note: Tickets should have separate labels for content v. product. Labels for both should only be used at the epic level. 
+     - Every ticket should be associated with an Epic and include components of the stack: IA/content, FE, etc.  
+      - Examples: Legacy, parity, and rewriting work should  
+     
    
 
 
@@ -54,8 +76,7 @@
 
 
 
-Grooming: assess and update workload for remainder of sprint
-- 2nd Thursday of every sprint, 1-hour
+
 
 Issue Etiquette
 - For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
@@ -69,12 +90,6 @@ Issue Etiquette
 - If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
 Estimation
 
-Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
-
-1 - Easy task, work is known, can be executed quickly  
-3 - Medium task, work is known and can be completed in one sprint  
-5 - Work is discussed and planned for, and can be worked   -
-8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
 
 
 Team Norms
