@@ -41,6 +41,8 @@ Thank you. Let’s start with a few warm-up questions
 5.	[If STEM] Do you have any interest in obtaining a teaching certification after you graduate?
 
 
+**Prototype**
+
 Now we're going to shift gears and review a clickable prototype that we’d like to get your feedback on. 
 
 Just so you know, the prototype is a mock-up, rather than a real website.  This means only certain links have been activated and you’ll see pretend data. You’ll not need to enter any data as you go through, in many cases, as soon as you click you'll see an example of what someone might type in the fields.
@@ -48,10 +50,10 @@ Just so you know, the prototype is a mock-up, rather than a real website.  This 
 
 **Think Aloud**
 
-While you are going through the site, we ask that you Please think aloud and vocalize your thoughts, and decisions as you see each page. We are interested in your first reaction to each page.  
+While you are going through the site, we ask that you please think aloud and vocalize your thoughts, and decisions as you see each page. We are interested in your first reaction to each page.  
 The more you say about what you are thinking and wondering, the more we’ll learn.  
 If you have questions, it’s likely that many other Veterans will too. 
-This may seem strange at first, but it helps us understand what you are thinking and helps us so much with our work.
+This may seem strange at first, but it helps us understand what you are thinking and helps us so much with our research.
 
 [Half of participants will complete Scenario 1A and Scenario 2]  
 [Half of participants will complete Scenario 1B and Scenario 2]
@@ -66,7 +68,7 @@ This may seem strange at first, but it helps us understand what you are thinking
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
 
-Starting from this page, how would you let the VA know that you will be transferring from Boston College to University of Florida?
+Let's say you've moved to Florida and would like to keep using your education benefits.  Starting from this page, how would you let the VA know that you will be transferring from Boston College to University of Florida?
 
 **Questions**
 1. What are your thoughts on the overall process of letting the VA know that you are changing schools?
@@ -83,7 +85,7 @@ Let's go back to the beginning and start the 2nd scenario
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
 
-Starting from this page, how would you let the VA know that you will be switching your major from history to biochemistry?
+Let's assume you are midway through school and would like to change your major. Starting from this page, how would you let the VA know that you will be switching from your current major to biochemistry?
 
 **Questions**
 1. What are your thoughts on the overall process of letting the VA know that you are changing your major?
