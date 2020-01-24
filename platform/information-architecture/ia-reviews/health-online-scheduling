@@ -4,11 +4,11 @@
 
 **Product/Featue:** VA Online Scheduling
 
-**Background/Context:**
+**Background/Context:** Redesign of existing tool for online scheduling of VA appointments.  Some appointments can be scheduled online and some clinics only allow you to "request" an appointment.  Access/ability to schedule/request varies by clinic. 
 
-**Review Date:** 
+**Review Date:** 11/7/2019
 
-**IA Review Issue:** 
+**IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/3152
 
 ### IA and URL 
 
@@ -44,5 +44,12 @@ Tool:
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
 - None at this time.
+
+
+### Additional Notes/Recommendations
+
+- Work with content/writing team to determine how to best represent "schedule" versus "request" functionality - need to determine whether these labels have an impact on user expectations.
+
+- If the team chooses to change the static page URL (i.e. change "schedule" to "request"), a redirect will need to be implemented from old to new URL
 
 
