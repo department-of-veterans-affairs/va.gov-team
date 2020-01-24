@@ -8,7 +8,7 @@ Caregivers | 10-10cg Modernization | in progress | - | -
 BAM 2 | Medical Device Ordering | Early IA feedback provided | - | 1/14/20 - provided draft content structure to team to aid in refining design and prototype.  Will complete final IA review once research and designs are complete. 
 eBenefits | View Dependents | in progress | - | Moving to root level tool, will include add/manage features
 Websites Team | Forms Search Landing Pages | in progress | - | Impacted by redirect issue for Forms Search page
-Websites Team | VA Forms Search | 01/09/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/issues/3887 | -
+Websites Team | VA Forms Search | 01/09/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-search.md | Complete
 BAM1 | Higher Level Review Form | 12/3/2019 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bam-higher-level-review.md | Complete
 Health Care Products | Online Scheduling (VAOS) |11/7/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/health-online-scheduling | Complete
 BAH | School Certifying Officials content page | 11/5/2019 |https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/bah-school-certifying-officials.md | Complete
