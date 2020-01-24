@@ -14,6 +14,7 @@
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
+**User Flows:**  https://app.moqups.com/Rnc4BDEKrA/view/page/a85b476d9
 
 
 ### Navigation/Entry Points <br>
