@@ -20,11 +20,11 @@ Public Websites team, Yellow Ribbon (YR) content migration
   - What role does YR participation play in their decision making process?
   - How well do Veterans understand YR benefits and how the program works? 
   - How do Veterans currently look for Yellow Ribbon schools?
-  - How do Veterans react to existing Yellow Ribbon presentation?
+  - How do Veterans react to the existing Yellow Ribbon content presentation?
   - What information about Yellow Ribbon is most meaningful to Veterans?
   - What questions do they have as they go through this process?
   - What criteria do Veterans have set in their minds when they begin the research process?
-  - How would filtering improve the experience for Veterans?
+  - How would filtering or sorting improve the experience for Veterans?
   - Is side-by-side comparison functionality useful at this stage in their research?
   - Should the data be presented differently at the research vs comparison phases?
 - How might we empower Veterans to take the next step in their education process once they found the information needed to make a choice?
@@ -41,7 +41,8 @@ Public Websites team, Yellow Ribbon (YR) content migration
 ## Method	
 
 - Research will take place in the form of combined interview and task-based usability testing
-- Users will engage with an interactive InVision prototype
+- To establish a baseline, 3 participants will go through the tasks on the [existing Yellow Ribbon pages](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/) 
+- The remaining (hope for 4-5) participants will engage with an [https://vsateams.invisionapp.com/share/X5VOMBG2YP4](https://vsateams.invisionapp.com/share/X5VOMBG2YP4)
 - The sessions will be remote-modterated using Zoom. This method will allow us to observe users using our solution in their own environment, as well as test participants across geographic areas.	
 
 ## Participants and Recruitment	
@@ -61,15 +62,14 @@ Will work with Perigean for recruiting
 ## Timeline 	
 
 - Test beginning week of 1/27/2020
-- Prototype will be ready 01/22/2020
+- Prototype will be ready 01/24/2020
 - Sessions estimated to be 45 minutes
-- Availability:
-  - Monday 1/27, 9am-8pm Eastern
-  - Tuesday 1/28, 9am-1pm Eastern, 2:30-3:30pm Eastern
+- Availability (assuming pilot is possible in advance):
   - Wednesday 1/29, 9am-11:30am Eastern, 7-9pm Eastern
-  - (If needed for more participants) Thursday 1/30, 9am-5pm Eastern
-  - (If needed for more participants) Friday 1/31, 8am - 4pm Eastern
-- Pilot: Will update when scheduled, targeting 1/22 or 1/23
+  - Thursday 1/30, 7:30am-5pm Eastern
+  - Friday 1/31, 7:30am - 4pm Eastern
+  - (if needed for more participants): Monday 2/3 7am - 7pm Eastern
+- Pilot: Monday 1/27 or Tuesday 1/28 
 
 
 ## Team Roles	
