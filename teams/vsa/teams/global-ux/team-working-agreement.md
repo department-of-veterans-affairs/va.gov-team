@@ -44,15 +44,15 @@
    - Jennifer announces sprint priorities at beginning of sprint planning
  
  
-  **Backlog Grooming**: outline team and member focus, goals for sprint
-   - 2nd Wednesday of every sprint 
-   - Reminder at beginning that this is not sprint planning, this is to review any new tickets from the backlog that the team will talk through to ensure each member is understands the ticket and agrees to estimates for tickets in the backlog.  
+  **Backlog Grooming**: assess and update workload for remainder of sprint
+   - 2nd Wednesday of every sprint, duration of 1 hour
+   - Reminder at beginning that this is not sprint planning, this is to review any new tickets from the backlog that the team will talk through to ensure each member is understands the ticket and agrees to estimates for tickets in the backlog. Sprint planning is where team members are assigned work. 
    - Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
 
-   1 - Easy task, work is known, can be executed quickly  
-   3 - Medium task, work is known and can be completed in one sprint  
-   5 - Work is discussed and planned for, and can be worked   -
-   8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
+    1 - Easy task, work is known, can be executed quickly  
+    3 - Medium task, work is known and can be completed in one sprint  
+    5 - Work is discussed and planned for, and can be worked   -
+    8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
 
    
    
