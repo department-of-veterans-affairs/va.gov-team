@@ -5,7 +5,7 @@ List of projects with final and in progress IA work. If your team/work is not li
 Team | Project | IA Review Completed | IA Review Documentation | Status Notes
 --- | --- | --- | --- | ---
 Caregivers | 10-10cg Modernization | in progress | - | -
-BAM 2 | Medical Device Ordering | Early IA feedback provided | - | 1/14/20 - provided draft content structure to team to aid in refining design and prototype.  Will complete final IA review once research and designs are complete. 
+BAM 2 | Medical Device Ordering | Early IA feedback provided | - | 1/14/20 - provided draft content structure to team to aid in refining design and prototype.  https://app.moqups.com/Rnc4BDEKrA/view/page/a523fd3f0 Will complete final IA review once research and designs are complete. 
 eBenefits | View Dependents | in progress | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-view-dependents.md | Will work with Public Websites team on existing content page to determine content strategy which will feed into final IA/URL recommendations
 Websites Team | Forms Search Landing Pages | in progress | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-detail-pages.md | Finalizing user flow and  URLs
 Websites Team | VA Forms Search | 01/09/2020 | https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-forms-search.md | Complete
