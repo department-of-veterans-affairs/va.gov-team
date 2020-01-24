@@ -260,7 +260,8 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 #### Other
 
-- Continue to figure out exactly what we need to do for launch checklist
+- Add documentation to address validation code in vets-api #3796
+- Address validation: Load testing #5032
 
 ### Profile 2.0
 
@@ -270,7 +271,7 @@ Design
 - Update copy for Profile 2.0 #5093
 
 Dev
-- Refactor Profile components
+- Refactor Profile components #4068
 
 ## Sprint 15 (2/12 - 2/25)
 
