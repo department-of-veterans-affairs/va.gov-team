@@ -38,10 +38,22 @@ __VA forms stakeholder working group includes:__
 
 ## Status/Decisions:
 
-__01/14/2020__
+## __01/22/2020__
+
+Summary from  follow up discussion with @kevwalsh @ncksllvn @kelsonic @Karak888 @mnorthuis and @jenniferlee-dsva   
+
+Follow up to: How should/do we build the form detail landing pages in Drupal, if we use Drupal?
+
+We determined that the static content on the form detail landing pages should be built in Drupal. This provides better access to update/edit static content as needed. The dynamic content will still be pulled via the API as REACT components. 
+
+The standard helpful links can be created to use the same content links that's used on the search page (under the section "Manage your VA and...")
+
+__Next step - Nick to investigate with API team implementation using ^ approach for the form detail landing pages.
+
+## __01/14/2020__
 
 __Notes from Mikki re IA, URLs, canonicals, and redirects__
-Recap from to our discussion with Michael Bastos, @ncksllvn @kelsonic and @jenniferlee-dsva on 1/14/20:
+Recap from to our discussion with Michael Bastos, @ncksllvn @kelsonic, @mnorthuis, and @jenniferlee-dsva on 1/14/20:
 
 We will move forward with Option A above with some additional details.
 
@@ -61,7 +73,7 @@ This new duplicate page must have a "noindex" tag and be excluded from the xml s
 The many child URLs that act as search landing pages for specific forms – i.e. https://www.va.gov/vaforms/form_detail.asp?FormNo=22-1990 - will not be impacted by this form search work. Each individual variation/URL will be redirected to a specific new URL. This will be mapped out as part of the form search landing page work.
 
 
-__01/14/20__
+## __01/14/20__
 
 Summary from  call with @kevwalsh @ncksllvn @kelsonic @Karak888 and @jenniferlee-dsva   
 
@@ -83,4 +95,4 @@ Nick brought up a potential option where everything, including customizable cont
 
 __Next step: follow up conversation to investigate Nick’s suggestion, and to finalize decision on which approach to use.__
 
-__mm/dd/yyyy__
+
