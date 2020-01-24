@@ -23,12 +23,14 @@
   - Filter by assignee for indiviual team member to report out on their respective ticket 
      - What ticket you worked on yesterday, what will you work on today, are there any blockers / impediments
   
+  **Sprint Planning**: outline team and member focus, goals for sprint
+  
+   - 1st Wednesday of every sprint
+   - 1 hour duration
+   - *Pre-Planning:*  Jennifer, Dave, and Kara confirm priorities prior to the sprint 
    
-
-
-Sprint Planning: outline team and member focus, goals for sprint
-- 1st Wednesday of every sprint 
-- 1 hour 
+     - Kara lists priorities for Jennifer/Dave in writing prior to 1:1 and POs confirm/update during Monday 1:1 meeting
+   
 
 Retro: review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
 - 1st Wednesday of every sprint, 30 min
