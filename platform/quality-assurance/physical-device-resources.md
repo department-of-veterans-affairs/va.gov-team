@@ -6,16 +6,17 @@ Informal survey of devices that we have access to for testing or troubleshooting
 ## Phones
 | Device     | Team Member |
 | ---------- | ----------- |
+| Galaxy S7 | Gretchen M |
 | iPhone 5s  | Alex T, Mel W |
 | iPhone SE  | Stacy L |
 | iPhone 6   | Alex T      |
 | iPhone 7   | Alex T, Rachael R      |
 | iPhone 8s   | Winnie S     |
-| Nexus 6    | Mark G      |
 | Moto X '14 | Mark G      |
 | Moto X4    | Mark G      |
 | Nexus S    | Mark G      |
-| Galaxy S5  | Chris V     |
+| Nexus 6    | Mark G      |
+| Pixel 3  | Chris V     |
 
 ## Tablets
 | Device     | Team Member |
