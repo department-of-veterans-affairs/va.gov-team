@@ -41,23 +41,14 @@ Wireframes were created in place of thumbnails, as it was not as interaction-bas
 ![Content Page Wires](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/wires-content-v2-1.jpg "Iteration Two, Content Wires")
 
 ## Outcomes and Feedback
-For the second iteration, we introduced 
+For the second iteration, we introduced content page design variations in addition to the updated thumbnail mapping flows.  
 
 ### Presenting to the BAM2 team:
 
-#### Order Flow
-- Nick noted that he would like to see the concept of reordering the last order
-
-#### Content Page
-- Matt prefers the final content option, with other ways to order deprioritized as much as possible.
+- The design team presented both the order flow thumbnail mapping and the content page variations to the BaM2 team for feedback. The meeting notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200122-BAM2-thumbnail-mapping-review.md). 
 
 ### Presenting to VSP 
-VSP Design Intent Checkin initiated several meetings with IA, Accessibility, Design, and Content. Suggestions and guidance can be found in the comments of the Intent Ticket: https://github.com/department-of-veterans-affairs/va.gov-team/issues/4963
+VSP Design Intent Checkin initiated several meetings with IA, Accessibility, Design, and Content. Suggestions and guidance can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200121-VSP-design-intent-check-in.md).
 
 ### Presenting to DLC
-- Kevin notes that they prefer to be economical in the number of clicks a Vet has to do [no discourse was had on this subject]
-  - It was suggested that confirmation of shipping address and email/contact information be combined to save clicks.
-- Jim had some concerns about the 'Additional Supplies' checkbox, saying that the scoping may be too broad. We discussed its similarities with the 'Additional Comments' on the paper version of the form and how we plan to reduce its use with the 'Additional Supplies' checkboxes. 
-- We requested a list of applicable supplies to be included in the order section.
-- Jim had concerns about our ability to tie accessories of any kind (including domes and wax guards) to a specific device. Feels this is not an achievable state.
-- Tracking numbers will be available to us, but only after a certain amount of time (1-2 days)
+- After presenting to the BaM2 team, the designers presented the 'Order flow "happy paths"' thumbnail mapping to multiple DLC stakeholders for feedback. The meeting notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200124-DALC-thumbnail-mapping-review.md). 
