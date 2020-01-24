@@ -2,8 +2,8 @@ _WIP_
 # VSA: Public Websites Team Working Agreement
 
 **Team Members**
-- **DSVA Product Owner**:  Jennifer Lee
-- **DEPO Product Owner**:  Dave Conlon
+- **DSVA Product Owner**:     Jennifer Lee
+- **DEPO Product Owner**:     Dave Conlon
 - **Team Product Manager**:  Kara Kemahli
 - **Content Writer**: Laura Walsh
 - **Content Editor**:  Randi Hecht 
@@ -20,7 +20,7 @@ _WIP_
   - Each team member 
   - Use label:  Public Websites 
    
-
+**Workflow and Processes**
 
 Sprint Planning: outline team and member focus, goals for sprint
 - 1st Wednesday of every sprint 
