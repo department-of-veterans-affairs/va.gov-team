@@ -14,8 +14,9 @@ _WIP_
 
 **Workflow and Processes**
 
-**Daily Standup**
-- Monday, Wednesday, Thursday, Friday @ 11:30 AM-  11:45 AM EST 
+
+**Standup**
+  - Monday, Wednesday, Thursday, Friday @ 11:30 AM-  11:45 AM EST 
 - Tuesday is slack-up day: Team provides updates with relevant tickets to VSA-Public Websites Channel on DSVA Slack
 - 15 min 
 - Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
