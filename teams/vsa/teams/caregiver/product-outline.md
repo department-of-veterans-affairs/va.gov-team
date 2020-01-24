@@ -57,13 +57,20 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 
 ## Requirements and Constraints
 - The paper 1010-CG requires wet signatures from both the Veteran and the Caregiver
-- Some veterans 
+ 
 
 ## Discovery Takeaways
 - Users like the idea of an online form
 - Users like the ability to save the form in progress
+- 
 
 ## Solution Approach
+- Prioritize
+- Define
+- Discover
+- Build
+- Validate
+- Evolve
 
 ## Value Propositions
 
