@@ -23,7 +23,7 @@ The purpose of this document is to outline documentation to be added/updated, as
 
 ## Communication
 - Slack
-  - Current integration discussion channels:
+  - Current integration discussion channels:   
     -'#cms-support'
     -'#vfs-platform-support'
     -'#vfs-all-teams'
