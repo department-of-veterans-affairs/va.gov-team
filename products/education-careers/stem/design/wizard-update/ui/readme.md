@@ -3,7 +3,7 @@
 
 [VA STEM Wizard & Form Update v0.1 for Testing]()
 
-[VA STEM Wizard & Form Update v0.1 for Content Review]() 
+[VA STEM Wizard & Form Update v0.1 for DEPO Content Review]() 
 
 [VA STEM Wizard & Form Update v0.1](https://bahdigital.invisionapp.com/share/5XIACM1PNUB) 
 
