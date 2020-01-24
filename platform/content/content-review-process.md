@@ -1,6 +1,6 @@
 
-# Working with Content - Rules of Engagement (ROE)
-This document will help all teams working on VA.gov understand when you should engage Content resources for review and support.
+# Working with Platform Content Editor - Rules of Engagement (ROE)
+This document will help all teams working on VA.gov understand when you should engage Platform  Content resources for review and support.
 
 
 - [When to request a content review](#whentorequest)
@@ -19,7 +19,7 @@ Content should be brought in as early as possible when you begin work on a produ
 **During discovery** 
 - Content can review discussion guides and prototypes. We can also attend research sessions to help us better understand how what areas your product might need extra content review or support.  
 
-**During design** 
+**During design/pre-usability testing** 
 - If your project includes multiple content pages or complex content, please engage us as you begin to build out mockups and designs. 
 - Content will work closely with your design team to provide feedback on page flow and designs and prototypes.
 
@@ -69,7 +69,7 @@ User story example: *As a member of a team building with or on VSP, I need to my
        * link to the URL where the content appears on staging
 
 *	Context. Provide a high-level description of where the content will appear. Is it part of a tool or static page that will support a tool? It's helpful to include screenshots of where the content will appear.
-*	Launch date. Date you're targeting to launch your product.
+*	Implementation or launch date. Date you for implementation or launch of tool or product.
 *	Design elements to consider. This applies for content that isn't formatted yet. Will this content appear as a tooltip, alert box, error message, new application or tool?
 *	User research. Is there any specific information from user research to take into consideration when doing the content review?
 
@@ -86,7 +86,7 @@ Please also tag the issue with:
 -	Assign issue to @peggygannon
 
 
-4. Once the Content Review is finished the content editor will upload a list of content recommendations to the Zenhub issue. 
+4. Once the Platform Content Review is finished the content editor will upload a list of content recommendations to the Zenhub issue. 
 If your team has questions (or disagrees with a requested change), use the Zenhub issue to discuss those questions.
 
 
