@@ -31,7 +31,7 @@
    - Jennifer announces sprint priorities at beginning of sprint planning
    
 
-**Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try differently 
+**Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try doing differently for next sprint 
    - 1st Wednesday of every sprint
    - 1 hour duration
 
