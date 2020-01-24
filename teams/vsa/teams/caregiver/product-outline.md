@@ -37,17 +37,31 @@
 
 ## User Problem Statement
 
+As a caregiver, it's difficult to apply for and manage benefits from the Program of Comprehensive Assistance for Family Caregivers (PCAFC).
+
 ## Solution Goals
 
 ### User Goals
+- Caregivers want to be able to fill out the 1010-CG online.
+- Caregivers want to understand PCAFC eligibility and requirements.
+- Caregivers want to track the status of their application.
+- Caregivers want to be able to manage the benefits for themselves and the Veterans they care for. 
 
 ### Business Goals
+- Feed application data directly to CARMA
+- Accomodate the influx of applications that's expected due to changing program eligibility
 
 ## Assumptions
+- Caregivers and Veterans will fill out the 1010-CG online form rather than the paper form
+
 
 ## Requirements and Constraints
+- The paper 1010-CG requires wet signatures from both the Veteran and the Caregiver
+- Some veterans 
 
 ## Discovery Takeaways
+- Users like the idea of an online form
+- Users like the ability to save the form in progress
 
 ## Solution Approach
 
@@ -94,19 +108,19 @@
 
 ## Team
 
-- VA Executive Sponsor `*`: 
-- VA Policy Expert(s):
+- VA.gov Lead: Chris Johnston 
+- VA Policy Expert(s): TBD
 - VA Digital Strategist(s) `*`: C.C. Gong
 - Product Manager `*`: Alayna Abel
-- Design Lead:
-- Eng Lead:
+- Design Lead: Shawna Hein
+- Eng Lead: Paul Short
 - VA Web Comms Partner: 
-- VA Call Center Partner(s): 
-- Production Testing Partner(s):
-- Designer(s):
-- Content Writer(s):
+- VA Call Center Partner(s): TBD
+- Production Testing Partner(s): TBD
+- Designer(s): Jonathan Nelson
+- Content Writer(s): Patrick Sanders
 - Front-end Engineer(s): Justin Linn
-- Back-end Engineer(s): Lance Sanchez
+- Back-end Engineer(s): Kevin Mircovich
 
 `*` = approval required for launch
 
