@@ -43,10 +43,10 @@ The platform needs a proper performance monitoring process for the website to en
 There are two types of performance montoring: RUM (Realtime User Monitoring) and Synthetic
 We decided to focus on Synthetic since we get a lot of RUM monitoring from our Google Analytics integration.
 - What is Syntethic monitoring?
- - "Synthetic monitoring tests a site's performance in a simulated and consistent environment" - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
- - "Synthetic monitoring provides a relatively consistent control for tests, as the environment in which the tests run can be invariable, allowing you to isolate the performance changes. - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
- - "It’s a better method for comparing your site’s performance against competitors or similar sites, and for monitoring the site’s performance consistently through code/design changes and releases." - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
- - "It can also be a great tool for testing small performance tweaks." - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
+  - "Synthetic monitoring tests a site's performance in a simulated and consistent environment" - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
+  - "Synthetic monitoring provides a relatively consistent control for tests, as the environment in which the tests run can be invariable, allowing you to isolate the performance changes. - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
+  - "It’s a better method for comparing your site’s performance against competitors or similar sites, and for monitoring the site’s performance consistently through code/design changes and releases." - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
+  - "It can also be a great tool for testing small performance tweaks." - [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
 
 ### Web Performance Monitoring Tool Selection
 
