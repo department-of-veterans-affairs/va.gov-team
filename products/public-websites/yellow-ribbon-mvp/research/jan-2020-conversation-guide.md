@@ -16,9 +16,18 @@
 
 ### Project-specific setup
 
-- [ ] Open the prototype in a new tab (link to come)
+**For first participant group**
+
 - [ ] Open the Yellow Ribbon page in your browser (https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
 - [ ] Begin screen sharing
+
+**For second participant group**
+
+- [ ] Open the prototype in a new tab (https://vsateams.invisionapp.com/share/X5VOMBG2YP4)
+
+- [ ] Begin screen sharing
+
+  
 
 ## Intro - 5 minutes
 
@@ -28,7 +37,8 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 40 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.  The more you can think out loud and share what you're thinking as you go through the session, the better.
--  **You'll be interacting with an interactive prototype.** This is means it may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **For second participant group**
+  - **You'll be interacting with an interactive prototype.** This is means it may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
   - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
@@ -48,8 +58,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I'd love to hear about your research and decision process once you knew you wanted to go to school.
   - What stage of your military service were you in when you decided to go to school?
   - How many schools did you apply to?
-  - Do you recall the factors that made you want to apply to a specific school? 
-  - Why did you choose that school, and area of study?
+  - What information was important to you as you narrowed down your school choices? 
+  - Why did you ultimately choose [that school], and area of study?
   - I understand you've used the Yellow Ribbon benefit. Tell me how that benefit works.
   - How did Yellow Ribbon benefits play into your decision?
   - What specific methods did you use to research schools, and your VA education benefits?
@@ -61,9 +71,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 - I'd love to hear about your research and decision process so far.
   - What stage of your military service were you in when you decided to go to school?
   - How many schools are you planning on applying to?
-  - What factors make you want to apply to a specific school?
+  - What information is most important to you as you decide which schools to apply to?
   - How have you done your research on schools so far? 
-  - How about research on education benefits available to you?
+  - How about research on the education benefits available to you?
   - Have you encountered anything that made it harder, or easier, to do this research?
   - Are you familiar with the Yellow Ribbon benefit? Tell me how it works.
   - How does it fit into your decision making process?
@@ -74,67 +84,88 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Were there any parts of the process that were particurlarly confusing? If so, how did you get clarification?
 - Imagine I don't know anything about VA benefits. Can you tell me how the Yellow Ribbon program works?
 
+We're almost ready to move to the website/prototype now, and I'll ask you to do a few tasks related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you tell me where you would typically conduct this type of research?
 
 
-We're almost ready to move to the prototype now, and I'll ask you to do a few tasks related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you tell me where you would typically conduct this type of research?
-
-
-## First Task: Find relevant schools in legacy Yellow Ribbon tables - 5 minutes
+## First task: find relevant Yellow Ribbon schools - 5 minutes
 
 - Start on Yellow Ribbon benefit hub page.
-- Find a school they're interested in, and tell me the Yellow Ribbon benefit information for that school
-  - *If participant is interested in a state with a very small number of rows, once they have completed the task, ask them to react to a state like California with numerous rows.*
+- Take a look at the content on this page.  I'm interested in your impressions of this page. Tell me what you think it is for, what you can do here.  You can scroll up and down, but don't click on anything just yet. Please think out loud as you look around.
+- Okay, let's imagine you're ready to do some research and find some schools you're interested in.  Go ahead and show me how you'd do that. Please think aloud as you go through this.
+  - **On current site:** *If participant is interested in a state with a very small number of rows, once they have completed the task, ask them to react to a state like California with numerous rows.*
+  - **On prototype:** *may need to explain this is a prototype and we've pre-populated the data for them*
 
 ### Things to watch for:
 
-- How does the participant understand and navigate the accordion pattern?
-- How does the participant navigate the table on the state page? (Ctrl+f, manual scroll, etc)
-- What emotions/thoughts does the participant verbalize while looking at a table presentation of this data?
+- On current site:
+  - How does the participant understand and navigate the accordion pattern?
+- On prototype:
+  - Any reaction to search criteria?
+  - Does the participant understand the fields are optional?
 
-## Second Task: Conduct a search in prototype - 5  minutes
-- Go to the other tab we opened earlier, with the prototype.
-- Take a look at the content on this page. Tell me what you think this page is for, what you can do here. You can scroll up and down, but don't click on anything just yet.  Think aloud as you look.
-- What are your thoughts on the search criteria?
-- Let's imagine you live in Illinois, and you're interested in finding an in-state school for an undergraduate degree. Go ahead and see if you can find that.
+## Second task: review school results - 5 minutes
 
-- After results are presented:
-
-  - Again, take a look at the content on this page. Don't click on anything just yet.  Tell me what you're looking at, what you can do here.  Think aloud as you look.
-  - Imagine you wanted to see this list in a different order, such has highest benefit amount first. How would you do that?
-  - Does the information about each school feel complete to you?
-  - Is the meaning of each piece of information in the card clear to you?
-  - If you wanted to see the next set of schools, how would you do that?
+- Again, take a look at the content on this page. Don't click on anything just yet.  Tell me what you're looking at, what you can do here.  Think aloud as you look.
+- Tell me what each piece of information means.
+- We're still imagining you're conducting research for yourself - do you have enough information here to make any choices about schools?
+- What do you think about the amount of results on this page?
+- How about the order in which they're presented?
+- Talk me through how you would see schools beyond what is visible on this page.
+- What would you want to do next, now that you see this list of results?
 
 ### Things to watch for:
 
-- Does the particpant understand what this tool is for?
+- How does the participant navigate the tables on the current YR page? (Ctrl+f, manual scroll, etc)
 
-- How does the participant react to the search criteria fields required to begin?
+- Does the participant experience any confusion or frustration about the information presentation on the page?
 
-- After results are presented:
+- **Prototype specific** Does the particpant understand what this tool is for?
 
-  - Does the participant notice without being prompted that they can sort the search results? Reaction to sort options?
+- Does the participant express any desire for sorting or filtering functionality?
+
   - Can the participant comfortably read the information presented in the cards?
   - Does the participant understand the information, specifically the number of students?
   - Does the participant notice the Add to Compare button?
 
   
 
-## Third Task: Compare schools and change criteria - 8 minutes
+## Third Task (current YR pages): compare schools  - 8 minutes
 
 - Let's say you're interested in going to school to study art, and you want to see which schools offer the largest benefit amount.  How would you do that?
-  - *If student does not use add to compare button and make their way to the comparison table, guide them there*
-- Tell me about this screen - what do you see here, what do you think you can do?
-- What are your thoughts on the way this information is presented?
-- If you wanted to update this list somehow, how would you do that?
-- Now that you have this information about these schools, what would your next step be?
+
+- Are there any other pieces of information, aside from benefit amount, that are important for you to evaluate across different schools?
+
+- Now that you have this information about these schools, what would the next step be for you?
+
 - Imagine you want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
-- Now, if you go back to the last screen (screen with "Added" button) - what do you think would happen if you clicked on the button with the `Added` label?
 
-### Things to watch for:
+- #### Things to watch for:
 
-- Why didn't they notice the Add to compare button?
-- How many schools does the participant want to compare?
+  - How does the participant attempt to compare schools in a table presentation?
+  - Any indication of how many schools the participant wants to compare?
+  - Which data points is the participant most interested in comparing?
+  - What would the participants next step be, once they have all the information about the school they're interested in?
+  - How does the participant go back
+
+
+
+## Third Task (prototype): Compare schools and change criteria - 8 minutes
+
+*Once on comparison screen*, *guide them if they didn't make it*
+
+- Tell me about this screen - what do you see here, and what do you think you can do?
+- What are your thoughts on the way this information is presented?
+- Are there any other pieces of information, aside from benefit amount, that are important for you to evaluate across different schools?
+- If you wanted to update this list somehow, how would you do that?
+- Now that you have this information about these schools, what would the next step be for you?
+
+- Imagine you want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
+- Go back to the results screen (screen with "Added" button) - what do you think would happen if you clicked on the button under Chicago State University? (*should have added state applied to it*)
+
+#### Things to watch for:
+
+- Did the participant understand how to navigate to this page from the search results?
+- Any indication of how many schools the participant wants to compare?
 - Which data points is the participant most interested in comparing?
 - Does the participant understand how to update their comparison?
 - What would the participants next step be, once they have all the information about the school they're interested in?
@@ -142,6 +173,9 @@ We're almost ready to move to the prototype now, and I'll ask you to do a few ta
 
 ## Post-Task Interview - 5 minutes
 
+- **On prototype**, if we didn't already capture: 
+  - What are your thoughts the search criteria on the first page of the prototype?
+  - 
 - Do you have any other thoughts or feedback you haven't had a chance to share yet?
 - Any questions for me? 
 
