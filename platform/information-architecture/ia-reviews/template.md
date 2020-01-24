@@ -12,19 +12,22 @@
 
 ### IA and URL 
 
-**Structure:**   
-- *Description of IA or link to site map documentation*
+**Structure:**<br> 
+*Description of IA or link to site map documentation*
 
-**URLs:**
-- *Final URLs to be used*
+**URLs:**<br>
+*Final URLs to be used*
 
 ### Navigation/Entry Points
 
-**Primary**
-- *The primary entry points and changes to global navigation*
+**Primary**<br>
+*The primary entry points and changes to global navigation*
 
-**Crosslinking**
-- *Recommendations for potential cross-linking opportunities.  This can be reviewed and modified/added to by the working team.*
+**Crosslinking**<br>
+*Recommendations for potential cross-linking opportunities.  This can be reviewed and modified/added to by the working team.*
 
-### Redirects/Canonical 
-- *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+### Redirects/Canonical <br>
+*Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+
+
+### Additional Notes/Recommendations
