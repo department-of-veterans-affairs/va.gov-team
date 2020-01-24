@@ -114,6 +114,7 @@ There are five disability types that are commonly considered in digital accessib
 * speaking
 * moving 
 * thinking
+
 “Thinking” includes disabilities that impact emotions, problem-solving, memory, and other ways we use our brain.
 
 ### “Thinking” disabilities
@@ -122,6 +123,7 @@ Cognitive disabilities are by far the most common type of disability and may ari
 * congenital conditions from birth
 * developmental conditions from a young age
 * traumatic injury, infections, chemical imbalances, or other conditions later in life
+
 They may also be situational considerations attributed to fatigue, environmental stimulus, or being new to a situation.
 
 ### Some types of cognitive disabilities
