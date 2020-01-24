@@ -10,7 +10,7 @@
 - **Content Writer**:  Anne Hurley
 - **Content Writer**:  Selina Cooper
 - **Frontend Engineer**:  Nick Sullivan
-- **Frontend Engineer**:  Kelson Adams
+- *Frontend Engineer*:  Kelson Adams
 
 ***Workflow and Processes***
 
@@ -24,8 +24,14 @@
      - What ticket you worked on yesterday, what will you work on today, are there any blockers / impediments
   
 **Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try doing differently for next sprint 
-   - 1st Wednesday prior 1 hour prior to sprint planning  
-   - 1 hour duration
+   - 1st Wednesday 1 hour duration (1 hour prior to sprint planning)
+   - FunRetro board is provided in advance of retro for current retro, as well as FunRetro board from previous sprint 
+   - During Retro, board is up and everyone is given 8 minutes on the clock to write 
+   - Product Manager take 2 minutes to de-dupe cards 
+   - Once De-duped team has 3 minutes to vote on the cards that have been added
+   - Prouct Manager sorts cards based on votes and then team goes through cards starting with:
+     - What went well 
+     - What didn't go well (how can we improve), and then to action items 
    - Speak up! - Even though you may remain annonymous, everyone’s voice matters and should feel comfortable providing feedback
   
   
