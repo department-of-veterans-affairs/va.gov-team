@@ -10,21 +10,15 @@
 
 **IA Review Issue:** 
 
-### IA and URL 
+### IA Structure, URLs and Breadcrumbs <br>
+*Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-**Structure:**<br> 
-*Description of IA or link to site map documentation*
 
-**URLs:**<br>
-*Final URLs to be used*
 
-### Navigation/Entry Points
+### Navigation/Entry Points <br>
+*The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-**Primary**<br>
-*The primary entry points and changes to global navigation*
 
-**Crosslinking**<br>
-*Recommendations for potential cross-linking opportunities.  This can be reviewed and modified/added to by the working team.*
 
 ### Redirects/Canonical <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
