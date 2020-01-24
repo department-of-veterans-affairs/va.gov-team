@@ -10,7 +10,7 @@ Friday, December 20, 2019, at 2 PM ET, Accessibility Beyond Compliance (ABC) Lea
 
 [View PPT of presentation](), 1.6Mb
 
-[Video of presentation](https://drive.google.com/open?id=1hL47Gj7nK3bZupzcjkyZwDK_HjyZwFiv), on VSA Team Google Drive; no captions or transcript available at this time
+[View Video of presentation](https://drive.google.com/open?id=1hL47Gj7nK3bZupzcjkyZwDK_HjyZwFiv), on VSA Team Google Drive; no captions or transcript available at this time
 
 ## Subject Matter 
 
