@@ -92,7 +92,7 @@ _Access is not a barrier or burden for any team developing on VA.gov_
 
 ## The Plan
 
-[See original plan for user management proposal.] (https://docs.google.com/document/d/1WL6T1Jmt1olJ0Tzi7t05K2H5omjjhsLK-fMQobTlI3o/edit?ts=5d237718&pli=1#)
+[See original plan for user management proposal.](https://docs.google.com/document/d/1WL6T1Jmt1olJ0Tzi7t05K2H5omjjhsLK-fMQobTlI3o/edit?ts=5d237718&pli=1#)
 ### Phase 1 MVP rollout GH Team SSH to VSP and VFS.
 Step 1: 
 - Setup VSP Operations as the first test group for SSH integration for accessing the internal tools and jumpboxs. 
