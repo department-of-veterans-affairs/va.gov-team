@@ -107,7 +107,7 @@ Step 2:
 Step 3:
 - Roll out to all of VSP, request feedback, and integrate.
   - Notes:
-     - Identified some issues with non Engineers using this. Feedback can be found here: (https://docs.google.com/document/d/1-yElavrSzL67vrdKyDXnCmI93yXtZySD0LqEgyqFXeY/edit ) along with areas that need to be updated for documentation. 
+     - Identified some issues with non Engineers using this. Feedback can be found [here:](https://docs.google.com/document/d/1-yElavrSzL67vrdKyDXnCmI93yXtZySD0LqEgyqFXeY/edit) along with areas that need to be updated for documentation. 
 - Ensure Jenkins permissions are set correctly before rolling out to VFS team.
   - notes: 
     - This is the security concern for giving people access sooner in the process (SOCKs access). Speaking with Partick if we can prove that we can tighten permissions so users can’t run jobs in Jenkins then we have the green light for rolling GH teams out to VFS team and SOCKs access can be given right away. AWS and SOCKs for VSP Operations, Tools BE, and Tools FE still need to go through a review process (others may need access as well depending on the needs). 
