@@ -28,10 +28,13 @@
    - 1 hour duration
    - *Pre-Planning:*  Jennifer, Dave, and Kara confirm priorities prior to the sprint 
      - Kara lists priorities for Jennifer/Dave in writing prior to 1:1 and POs confirm/update during Monday 1:1 meeting
+   - Jennifer announces sprint priorities at beginning of sprint planning
    
 
-Retro: review accomplishments from prior sprint, what went well, areas for improvement, what to start doing
-- 1st Wednesday of every sprint, 30 min
+**Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try differently 
+   - 1st Wednesday of every sprint
+   - 1 hour duration
+
 
 Grooming: assess and update workload for remainder of sprint
 - 2nd Thursday of every sprint, 1-hour
