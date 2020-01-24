@@ -24,13 +24,13 @@ The purpose of this document is to outline documentation to be added/updated, as
 ## Communication
 - Slack
   - Current integration discussion channels:   
-   - '#cms-support'
-   - '#vfs-platform-support'
-   - '#vfs-all-teams'
-   - '#vsa-facilities'
-   - '#vsa-public-websites'
-   - '#vsa-vamc-upgrade'
-   - '#platform-cms-fe-superteam'   
- - What other channels should we be included in? 
+    - '#cms-support'
+    - '#vfs-platform-support'
+    - '#vfs-all-teams'
+    - '#vsa-facilities'
+    - '#vsa-public-websites'
+    - '#vsa-vamc-upgrade'
+    - '#platform-cms-fe-superteam'
+   - What other channels should we be included in? 
 - Platform leadership meeting (Scrum of Scrums?)
   - Setup cadence to track cross-team status and dependencies
