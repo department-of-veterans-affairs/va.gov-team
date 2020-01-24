@@ -13,9 +13,9 @@ _WIP_
 - Frontend Engineer:  Nick Sullivan
 - Frontend Engineer:  Kelson Adams
 
-**Workflow & Cadence**
+***Processes and Workflow***
 
-**Daily Standup** people / product check-ins
+**Daily Standup**
 - Daily @ 11:30 AM-  11:45 AM EST 
 - 15 min 
 - Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
