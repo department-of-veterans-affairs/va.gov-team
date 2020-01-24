@@ -30,7 +30,7 @@ The purpose of this document is to outline documentation to be added/updated, as
    - '#vsa-facilities'
    - '#vsa-public-websites'
    - '#vsa-vamc-upgrade'
-   - '#platform-cms-fe-superteam'
-  - What other channels should we be included in? 
+   - '#platform-cms-fe-superteam'   
+ - What other channels should we be included in? 
 - Platform leadership meeting (Scrum of Scrums?)
   - Setup cadence to track cross-team status and dependencies
