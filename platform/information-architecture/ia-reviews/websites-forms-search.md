@@ -8,9 +8,10 @@
 - The primary users are Veterans, family members, caregivers, VSOs, and others who need to submit a form to VA. The primary task they are trying to accomplish is to find a form and download it, so they can complete it and submit it.
 - Many users are unaware that some of these tasks are now available as online tools. The new MVP page should provide them the same access to paper VA forms while also making users aware of digital alternatives, if one is available.
 
-**Review Date:** 
+**Review Date:** Jan 14, 2020
 
-**IA Review Issue:** 
+**IA Review Issue:**  https://github.com/department-of-veterans-affairs/va.gov-team/issues/3887
+*Lots of good technical convo in issue.*
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
