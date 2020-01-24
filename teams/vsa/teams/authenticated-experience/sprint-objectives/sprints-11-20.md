@@ -270,8 +270,9 @@ Design
 - Put together all screens for all states #5092
 - Update copy for Profile 2.0 #5093
 
-Dev
-- Refactor Profile components #4068
+Frontend
+- Convert profile phone number form to use SchemaForm #5118
+- Convert profile email address form to use SchemaForm #5121
 
 ## Sprint 15 (2/12 - 2/25)
 
