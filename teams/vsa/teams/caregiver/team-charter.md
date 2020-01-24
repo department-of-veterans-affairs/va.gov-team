@@ -30,7 +30,7 @@ Coming soon: Online Caregiver portal
 
 
 ### Roadmap:
-(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/OKR_Roadmap_Caregivers.png)
+![OKR Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/OKR_Roadmap_Caregivers.png)
 
 ---
 
