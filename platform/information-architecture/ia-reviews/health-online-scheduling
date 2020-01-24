@@ -1,0 +1,48 @@
+# IA Review and Recommendations
+
+**Team:** Health Care Products/VAOS
+
+**Product/Featue:** VA Online Scheduling
+
+**Background/Context:**
+
+**Review Date:** 
+
+**IA Review Issue:** 
+
+### IA and URL 
+
+**Structure:**   
+*Description of IA or link to site map documentation*
+
+- New tool will live as a child to the existing static page
+
+
+**URLs:**
+*Final URLs to be used*
+
+Unauthenticated Static Page
+- Existing static page will be used as entry point to new tool, no IA or URL changes will be made to the page at this time:  https://www.va.gov/health-care/schedule-view-va-appointments/
+
+Tool:   
+- initial URL: https://www.va.gov/health-care/schedule-view-va-appointments/appointments/
+- Subsequent pages will add on to the above URL using short and simple labels, i.e. www.va.gov/health-care/schedule-view-va-appointments/appointments/introduction/
+
+### Navigation/Entry Points
+
+**Primary**
+*The primary entry points and changes to global navigation*
+
+- No changes to entry points are needed.  The existing static page content will be updated to direct users to the new tool. 
+
+**Crosslinking**
+*Recommendations for potential cross-linking opportunities.  This can be reviewed and modified/added to by the working team.*
+
+- No additional crosslinking recommendations at this time. 
+
+### Redirects/Canonical 
+*Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+
+- None at this time.
+
+
