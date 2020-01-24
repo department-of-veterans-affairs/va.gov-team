@@ -24,22 +24,16 @@
      - What ticket you worked on yesterday, what will you work on today, are there any blockers / impediments
   
 **Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try doing differently for next sprint 
-   - 1st Wednesday 1 hour duration (1 hour prior to sprint planning)
+   - 1st Wednesday (1 hour prior to sprint planning)
    - FunRetro board is provided in advance of retro for current retro, as well as FunRetro board from previous sprint 
    - During Retro, board is up and everyone is given 8 minutes on the clock to write 
    - Product Manager take 2 minutes to de-dupe cards 
    - Once De-duped team has 3 minutes to vote on the cards that have been added
    - Prouct Manager sorts cards based on votes and then team goes through cards starting with:
      - What went well 
-     - What didn't go well (how can we improve), and then to action items 
+     - What didn't go well (how can we improve)
+     - Action items (PM reviews and works in process improvements as needed)
    - Speak up! - Even though you may remain annonymous, everyone’s voice matters and should feel comfortable providing feedback
-  
-  
-  
-  
-  
-  
-  
   
   
   **Sprint Planning**: outline team and member focus, goals for sprint
@@ -49,7 +43,10 @@
      - Kara lists priorities for Jennifer/Dave in writing prior to 1:1 and POs confirm/update during Monday 1:1 meeting
    - Jennifer announces sprint priorities at beginning of sprint planning
    
-
+  **Backlog Grooming**: outline team and member focus, goals for sprint
+   - 2nd Wednesday of every sprint 
+   - Reminder at beginning that this is not sprint planning, this is to review any new tickets from the backlog that the team will talk through 
+   
 
 
 
