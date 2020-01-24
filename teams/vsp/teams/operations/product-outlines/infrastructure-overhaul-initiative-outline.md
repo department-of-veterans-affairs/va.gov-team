@@ -54,7 +54,9 @@ Close coupling of system and service deployment (kernel patches go out with appl
 By separating services from the underlying infrastructure and adding service-centric tooling we can enhance the developer’s experience of the deployment lifecycle and provide a path to grow.
 
 ### User Goals
-****Deployments should:
+VFS teams will be able to have more control and responsibility over the things they build.
+
+And deployments should:
 - Be Fast
 - Be Obvious
 - Degrade Gracefully
