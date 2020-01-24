@@ -7,7 +7,7 @@ The CMS team will increasingly function as a platform team that onboards dozens 
 
 In the former function, it is important the CMS team integrate into VSP tools and processes to streamline new Product development for the enterprise. 
 
-##Goals
+## Goals
  - Create clear channels of communication between the VSP and CMS teams to make VFS community support more effective
  - Provide VFS teams with clear documentation and a process that accounts for CMS as part of the VA.gov Platform
  - Coordinate team objectives to ensure DEPO's highest priorities for the Platform can be met
