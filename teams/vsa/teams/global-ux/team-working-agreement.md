@@ -2,15 +2,15 @@
 # VSA: Public Websites Team Working Agreement
 
 **Team Members**
-- **DSVA Product Owner**:     Jennifer Lee
-- **DEPO Product Owner**:     Dave Conlon
-- **Team Product Manager**:  Kara Kemahli
-- **Content Writer**: Laura Walsh
+- **DSVA Product Owner**:     -Jennifer Lee
+- **DEPO Product Owner**:     -Dave Conlon
+- **Team Product Manager**:   -Kara Kemahli
+- **Content Writer**:         Laura Walsh
 - **Content Editor**:  Randi Hecht 
 - **Content Writer**:  Anne Hurley
 - **Content Writer**:  Selina Cooper
 - **Frontend Engineer**:  Nick Sullivan
-- *Frontend Engineer*:  Kelson Adams
+- **Frontend Engineer**:  Kelson Adams
 
 ***Workflow and Processes***
 
@@ -22,6 +22,17 @@
   - Start Meeting with Zenhub Board on-screen with VSA-Public Websites Label applied
   - Filter by assignee for indiviual team member to report out on their respective ticket 
      - What ticket you worked on yesterday, what will you work on today, are there any blockers / impediments
+     
+      
+ **ZenHub Pipeline Etiquete**
+ - Tickets Within Current Sprint should be worked in the following order:
+   * In-Progress- What assignee is currently working on 
+   * Current Sprint- Ranked by priority, assignee has conitted to completing work in current sprint and works on after "in-progres" tickets are completed
+   * Validate- PRs have been merged awaiting validation on staging / production 
+ - Tickets to be worked Outside a sprint:
+   * Ready column- After completing current sprint ticket, assignee can pick up ticket to work
+   * Backlog- if Ready are all complete, take groomed backlog ticket to work 
+ 
   
 **Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try doing differently for next sprint 
    - 1st Wednesday (1 hour prior to sprint planning)
@@ -66,21 +77,12 @@
      - Be sure to Include appropriate labels (always include VSA-Public Websitess, content, FE, IA/Content, etc. 
        -Note: Tickets should have separate labels for content v. product. Labels for both should only be used at the epic level. 
      - Every ticket should be associated with an Epic and include components of the stack: IA/content, FE, etc.  
-      - Examples: Legacy, parity, and rewriting work should  
-     
+      - Examples: Legacy, parity, and rewriting work should include Public Websites Label, content & IA, FE (for implementing redirects)
+       - Yellow Ribbon should include:  Public Websites, content/IA, engineering (FE), and design
+            
    
 
-
-
-
-
-
-
-
-
-Issue Etiquette
-- For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
-  * Estimate
+  * Validate - PRs have been merged awaiting validation on staging / Production 
   * Title that explains task
   * Description with Background and Acceptance Criteria
   * Labels - Analytics-Insights, Call Center, Analytics Request
@@ -88,7 +90,7 @@ Issue Etiquette
   * Epic assigned
 - All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
 - If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
-Estimation
+
 
 
 
