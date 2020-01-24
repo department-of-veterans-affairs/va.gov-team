@@ -59,7 +59,7 @@ Note: sessions should be 45 minutes each, at least 30 mins between sessions
 
 4.	Availability: If applicable, when would you like sessions scheduled? **Please list exact dates and times in EASTERN Standard Time**. Please request enough dates and time slots (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.). Be as flexible as possible, cognizant that many Veterans are only available before and after working times, and live across the U.S.
 
-9am-12pm, 1pm-4pm, 5pm-6pm Eastern 11/16, 11/17, 11/21, 11/22, 11/23
+10am-1pm, 2pm-6pm, Eastern 1/31 - 2/7
 
 5.	Pilot: Please indicate a date before your sessions begin for piloting your research. Which member of the design team will you pilot your research with? 
 
