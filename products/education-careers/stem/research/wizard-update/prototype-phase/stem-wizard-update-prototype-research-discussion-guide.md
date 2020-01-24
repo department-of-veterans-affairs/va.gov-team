@@ -58,7 +58,7 @@ This may seem strange at first, but it helps us understand what you are thinking
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
 
-Starting from this page, how would you let the VA know that you will be transferring to a different university?
+Starting from this page, how would you let the VA know that you will be transferring from Boston College to University of Florida?
 
 **Questions**
 1. What are your thoughts on the overall process of letting the VA know that you are changing schools?
