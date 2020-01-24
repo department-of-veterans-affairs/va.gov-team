@@ -23,6 +23,19 @@
   - Filter by assignee for indiviual team member to report out on their respective ticket 
      - What ticket you worked on yesterday, what will you work on today, are there any blockers / impediments
   
+**Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try doing differently for next sprint 
+   - 1st Wednesday prior 1 hour prior to sprint planning  
+   - 1 hour duration
+   - Speak up! - Even though you may remain annonymous, everyone’s voice matters and should feel comfortable providing feedback
+  
+  
+  
+  
+  
+  
+  
+  
+  
   **Sprint Planning**: outline team and member focus, goals for sprint
    - 1st Wednesday of every sprint
    - 1 hour duration
@@ -31,9 +44,11 @@
    - Jennifer announces sprint priorities at beginning of sprint planning
    
 
-**Team Retrospective**: Review accomplishments from prior sprint, what went well, areas for improvement, what to try doing differently for next sprint 
-   - 1st Wednesday of every sprint
-   - 1 hour duration
+
+
+
+
+
 
 
 Grooming: assess and update workload for remainder of sprint
@@ -54,17 +69,15 @@ Estimation
 Estimation is not based on how long something will take to complete, but is rather a combined rating encompassing risk, LOE, and complexity.
 
 1 - Easy task, work is known, can be executed quickly  
-2  
 3 - Medium task, work is known and can be completed in one sprint  
 5 - Work is discussed and planned for, and can be worked   -
 8 - Work is complex, needs to be discussed, and possibly be broken down into smaller tasks 
-13 - Very complex, may take a full sprint or longer 
+
 
 Team Norms
 
 - Be respectful, both online and off
-- Show your face (Webcam) at meetings / calls
-- Speak up! - everyone’s voice matters
+- Show your face (Webcam) during 
 - We are flexible, but intentional in the way we work
 - Let’s have fun and do great work!
 
