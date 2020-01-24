@@ -65,8 +65,7 @@ Will work with Perigean for recruiting
 - Prototype will be ready 01/24/2020
 - Sessions estimated to be 45 minutes
 - Availability (assuming pilot is possible in advance):
-  - Wednesday 1/29, 9am-11:30am Eastern, 7-9pm Eastern
-  - Thursday 1/30, 7:30am-5pm Eastern
+  - Thursday 1/30, 7:30am - 5pm Eastern
   - Friday 1/31, 7:30am - 4pm Eastern
   - (if needed for more participants): Monday 2/3 7am - 7pm Eastern
 - Pilot: Monday 1/27 or Tuesday 1/28 
