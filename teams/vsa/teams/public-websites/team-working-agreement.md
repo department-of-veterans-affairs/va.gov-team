@@ -6,7 +6,7 @@
 - **DEPO Product Owner**:     -Dave Conlon
 - **Team Product Manager**:   -Kara Kemahli
 - **Content Writer**:         Laura Walsh
-- **Content Editor**:  Randi Hecht 
+- **Copy Editor**:  Randi Hecht 
 - **Content Writer**:  Anne Hurley
 - **Content Writer**:  Selina Cooper
 - **Frontend Engineer**:  Nick Sullivan
