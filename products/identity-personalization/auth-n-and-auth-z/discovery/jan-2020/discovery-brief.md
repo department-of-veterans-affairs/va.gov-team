@@ -4,9 +4,23 @@
 
 The login experience on VA.gov today is tailored specifically to the Veteran persona. We're at the point now, where in order to continue expanding the VA.gov experience to meet additional use cases, we need to expand identity to work for more personas who might be using VA.gov to do things on behalf of a Veteran or for themselves: Caregivers, Representatives, Dependents, and people who are multiple persona types at once (like someone who is both a Veteran and Dependent). There are limitations in the way the Identity solution is set up today, that prevents VA.gov teams from delivering functionality that adequately meets needs of these new personas and use cases.
 
+Also there's not really a govt person anymore w/high level eyes on "Identity" just VA.gov Identity.
+
 - How might we leverage existing examples of "delegation" (from MHV) to enhance VA.gov's identity solution to enable users to log in and perform actions on behalf of one or many Veterans?
 
 - How might we update the way we handle user types to enable VA.gov to better customize the experience (i.e. Caregiver, i.e. Dependents, etc)?
+
+- What VA forms might enable users to act on behalf of other users?
+
+- How might Identity delegation introduce additional risk into the ecosystem? (giving access to wrong data, given we haven't done this kind of delegation stuff before, and it complicates the model, and were in a stat where all downstream systems today trust us to ask for the right thing and don't really double check it, so puts us in the seat of having to get it entirely right ourselves)
+
+- Risks related to stability. Are there parts of the experience that introduce performance issues wrt Veteren-facing or Veteran-adjascent experiences (given our monitoring role) that come from Identity, like DS Logon?
+
+- How do we audit log across all systems we interact w/in a cohesive way?
+
+- What's the ideal state of the world? (BEs we talk to and not just ask "what user are you talking about" but using a access token, them doing some auth checking themselves and not just trusting that we're asking for the right thing)
+
+- Could we designsometthing like that (designing defense in depth, multi layers of protection to prevent catastrophic failure) so when/if we have this kind of a user relatted failure, if it's high profile, we have something to fall back on, we have ideas for waht to do, and maybe now we have the momentum to kick off cross-system efforts.
 
 ### What Sprint Teams Are Associated with this Discovery? 
 - VSP-Identity
@@ -50,6 +64,9 @@ The login experience on VA.gov today is tailored specifically to the Veteran per
 
 #### Systems we're dependent upon
 - 
+
+#### Existing research
+- There's a wealth of existing research, incl recent VA MCT research engagement around DS Logon.
 
 ---
 
