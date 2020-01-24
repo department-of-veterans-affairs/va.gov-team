@@ -111,13 +111,21 @@ Using this page, how would you apply for the STEM Scholarship?
 Let's go back to the beginning of the process, so I can ask a few specific questions.  
 1. As you look at the information that appears when you click the STEM Scholarship option, what thoughts or reactions come to mind?
 2. What additional information would help you determine whether or not to apply for the scholarship?
-3. How might we further clarify the eligibility requirements? 
+3. what are your thoughts on whether you’d be eligible for this scholarship?
+4. [If there seems to be confusion] How might we further clarify the eligibility requirements? 
+5. [If they’re ineligible] Under what circumstances might you try to apply for this scholarship even though you don’t seem to be eligible?
+
 
 **VA Form 22-1995 Questions**  
 Now, let's look at the application form.  
-1. I'm curious to hear your thoughts on what aspects of the form work well and where you think we might want to make improvements. 
+1. What did you think of the part of the process when you were answering the questions about the Rogers STEM Scholarship?
 2. As you read through the eligibility requirements, what questions come to mind?
-3. How effectively does the form inform you of your potential eligibility?
+3. What are your thoughts on whether you’d be eligible for the Rogers STEM Scholarship?  
+    * What information are you using to form that decision?
+How effectively does the form inform you of your potential eligibility?
 4. What are your thoughts on these blue boxes? 
+5. [ When looking at the last info / alert ] When you saw this, what did you think your options were at this point in the process?” 
+
+
 5. Are you able to determine under what circumstances you might become eligible in the future?
 6. What, if any, modifications would make completing the form easier?
