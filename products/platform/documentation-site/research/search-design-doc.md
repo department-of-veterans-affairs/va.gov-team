@@ -1,8 +1,11 @@
 # Global Documentation Search
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
+
 **Last Updated:** 2020-01-23
+
 **Status:** **Draft**
+
 **Approvers:** Andrew G., Megan K.
 
 ## Overview
@@ -73,6 +76,10 @@ _For each question you should include any relevant information you know. For ris
 _Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
 
 ### Alternatives
+
+- Continue iterating on existing Gatsby site
+- Slab
+- GitBook
 
 _This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
 
