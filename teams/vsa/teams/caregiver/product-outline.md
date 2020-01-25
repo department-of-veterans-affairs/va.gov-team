@@ -45,7 +45,9 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - Caregivers want to be able to fill out the 1010-CG online.
 - Caregivers want to understand PCAFC eligibility and requirements.
 - Caregivers want to track the status of their application.
-- Caregivers want to be able to manage the benefits for themselves and the Veterans they care for. 
+- Caregivers want to be able to manage the benefits for themselves and the Veterans they care for
+- Caregivers want to have a single source of information relevant to being a Caregiver.
+- Caregivers want to be able to contact a support person from the VA.
 
 ### Business Goals
 - Feed application data directly to CARMA
@@ -57,12 +59,17 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 
 ## Requirements and Constraints
 - The paper 1010-CG requires wet signatures from both the Veteran and the Caregiver
+- Many caregivers are used to filling out forms on behalf of their veterans
+- Caregiver/Veteran relationships may change
+- Some Veterans want to give their Caregiver access to all medical and benefits information, while others would not
  
 
 ## Discovery Takeaways
 - Users like the idea of an online form
 - Users like the ability to save the form in progress
-- 
+- Users like the ability to download a submission receipt
+- Mutliple online sources offer conflicting information
+- Caregivers like the idea of having an online portal to access support, resources, and benefit information
 
 ## Solution Approach
 - Prioritize
