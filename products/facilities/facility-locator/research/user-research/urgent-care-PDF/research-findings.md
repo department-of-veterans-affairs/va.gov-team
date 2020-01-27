@@ -4,29 +4,42 @@
 Aricka Lewis (aricka@adhocteam.us), 01/27/2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/research-plan.md).
+
 ## Research Goals 
 
-The objective of this study is to gain insight on how Veterans receive content from the Urgent Care PDF. We will learn if and how Veterans understand the PDF so that we may provide feedback to the Office of Community Care. The results from this study will inform how to display an Urgent Care PDF download alert in the Facility Locator UI.
-
-Additionally, we will learn how users understand the difference between VA Health and Non-VA Health facilities as shown in the Facility Locator UI.
+The objective of this study was to gain insight on how Veterans receive content from the Urgent Care PDF and Facility Locator so that we could provide feedback to the Office of Community Care, specifically regarding the language surrounding Community Care. Additionally, we wanted to learn how users understand the difference between VA Health and Non-VA Health (Community Care) facilities as shown in the Facility Locator UI.
 
 ## Research Methodology 
 
-Description of method chosen
+We conducted five moderated usability studies using GoToMeeting.
 
 ### Who we talked to
 
-Description of who was spoken to.
+We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use their VA health benefits, one Veteran utilized their employer's insurance, and one Veteran utlizes TRICARE for Life.
 
 ### Research Questions
 
-Research questions here
+- How are Veterans interpreting the content in the PDF?
+- How might we make the need for the PDF clear to Veterans through lanugage in the UI?
+- Can Veterans distinguish between VA Health and Non-VA Health locations using Facility Locator?
+  - Will the card labels provide enough context?
+  - Are the listings in the facility type dropdown clear?
+- How would Veterans present the PDF when visiting a facility (print/mobile)?
+- Do Veterans know they need to bring the PDF with them to a community care facility?
 
 ## Key Findings
-List top findings here
+**1. Veterans want to know *why* they need a PDF.**
+**2. Veterans do not know the term "Community Care."**
+**3. Veterans want to a list of available urgent care providers.**
+**4. Veterans want to clearly and quickly understand their eligibilty for Community Care.**
+**5. Veterans will visit pharmacies they are familiar with.**
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
+1. Veterans want to know *why* they need a PDF.
+2. Veterans do not know the term "Community Care."
+3. Veterans want to a list of available urgent care providers.
+4. Veterans want to clearly and quickly understand their eligibilty for Community Care.
+5. Veterans will visit pharmacies they are familiar with.
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
