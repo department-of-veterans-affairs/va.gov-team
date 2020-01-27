@@ -68,8 +68,9 @@ _This section should describe any risks related to user data, PII that are added
 - Should the landing page be public only, or should it also support authenticated users?
 - How often should we reindex our documentation sources? For perspective, Algolia's open source crawler runs every 24 hours.
 - What should the URL of the documentation landing page be? Since we have `design.va.gov`, does something like `docs.va.gov` make sense?
-
-_For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
+- What is the current opportunity cost of building a custom solution? What are we choosing to delay right now by building a custom solution?
+- What is the future opportunity cost of maintaining a custom solution? What will we have to delay in the future by maintaining a custom solution?
+- What is the key person risk? How disruptive would it be if the author(s) of the custom solution were unavailable?
 
 ### Work Estimates
 
