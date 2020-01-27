@@ -1,5 +1,5 @@
 # Client-side and service-side redirect implementation process for Public Websites team
-Last update: 11/26/19
+Last update: 01/27/20
 
 _Team met to review process and ensure that everyone's on the same page. Megan Kelley, Nick Sullivan, Wyatt Walter, Jennifer Lee, Patrick Bateman, Mikki Northuis, TJ Rice, Kara Kemahli, Bill Fienberg were present._ 
 
@@ -56,7 +56,7 @@ _**Public Website contacts:**_ @ncksllvn (Nick Sullivan, Front End Engineer) @Ka
 ### Originates from content member on Public Websites team (from new rewriting parity work)
 _The image below illustrates the redirect implementation process flow for the Public Websites team._
 
-![Redirects Process - Content team](https://user-images.githubusercontent.com/42546515/70354314-35a07000-183d-11ea-844c-d7dce8614ba3.jpg)
+![Redirects Process - Content team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/content-team-processes/URL-redirect-process/Redirects%20Process%20-%20Content%20team.jpg)
 
 ---
 
