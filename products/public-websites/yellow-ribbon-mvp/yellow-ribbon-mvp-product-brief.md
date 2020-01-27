@@ -1,6 +1,6 @@
 # Yellow Ribbon MVP Product Outline
 
-Last Updated January 23, 2020
+Last Updated January 27, 2020
 
 ## POCs
 
@@ -108,37 +108,50 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 ## Constraints
 
-- Drupal is unable to manage large datasets via CSV upload functionality
-- We don't know what types of criteria Veteran students will want to filter on
+- Drupal is not a viable solution to manage this content:
+  - it is unable to manage large datasets via CSV upload functionality
+  - It can't handle complex real-time queries and filtering
+- We don't know yet what types of criteria Veteran students will want to filter on
 - GIDS API 
   - does not have sorting functionality
   - does not have ability to search based on a `city, state` combination
   - when searching by school name, the API looks at the name, city, and employer. If you pass a separate city value at the time time, the city is not applied to the results
+  - can filter YR schools ONLY by `name` or ONLY by `city`
 
 ## Discovery Takeaways
 
-- Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/dec-2019-sme-discovery.md)
+- Discovery notes from meeting with Yellow Ribbon and Education SME contacts can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/dec-2019-sme-discovery.md)
 - Drupal is not feasible as a solution to manage this data with a dynamic front-end
 - Exploration of non-Drupal solutions in [this Slack thread](https://dsva.slack.com/archives/C52CL1PKQ/p1576766725011100)
+- MVP informed by [the research conducted for the GIBCT](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Education/Research/July-2019/End-to-End/EducationJourney-Phase1-KevinMhoffman-Draft-V003%20(1).pdf)
 
 ## Decisions
 
-- At this time we are not updating the GIBCT
+- At this time, we are not updating the GIBCT as part of the effort to improve the Veteran experience for Yellow Ribbon
+- We are not addressing the process of gathering and inputting Yellow Ribbon data, or taking it upon ourselves to ensure accuracy of this data
 - We will leverage the GIDS API for our data source
+- Our MVP will stand alone rather than on the current Yellow Ribbon hub page
+
+#### Pending Decisions
+
+- Redirect strategy for existing Yellow Ribbon content to our tool
+- How will users get to the new tool from the current Yellow Ribbon page?
 
 ## The Plan
 
 - Design an interactive prototype with hi-fidelity screens
-- Conduct ~ 5 user interviews with tasks focused on current YR presentation and prototype
+- Research
+  - Conduct ~ 3 user interviews with tasks focused on current YR presentation to establish a baseline
+  - Conduct ~ 3 user interviews with tasks focused on prototype to learn from our proposed solution
+  - Both groups will be interviewed with the same questions around their education decision making process and understanding of the Yellow Ribbon program
 - In parallel with design and research work, FE development will begin to build MVP in phases
   - Phase one: search + results
   - Phase two: comparison
+- Iterate on our solution based on research findings
 - Once GIDS is updated with latest Yellow Ribbon data, launch Yellow Ribbon MVP on production
 - Initiate redirects of legacy pages
 
-## Phased Roll Out Approach
 
-- 
 
 ## KPIs
 
@@ -148,7 +161,7 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 ### Tracking
 
-- 
+- Event tags for interactive components - search fields, comparison functionality, sorting and/or filters (depending on what is added)
 
 ---
 
@@ -161,7 +174,7 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 - **January 2020**: Development begins
 
-- **1/29/2020**: Started Usability testing
+- **1/30/2020**: Started Usability testing
 
 - **March 2020**: Launch on production
 
