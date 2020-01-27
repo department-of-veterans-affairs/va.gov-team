@@ -71,7 +71,14 @@ This document details various challenges encountered during the redesign.
 
 ## Data structures not optimized in terms of the total number of requests needed to build common UIs.
 
-Jeff, you can probably provided examples of this one.
+Appointment list
+- CC appointment
+- VA appointments
+- Requests
+
+Follow up requests
+- Clinic list
+- Facility data
 
 ## Data types / Payloads inconsistent
 
