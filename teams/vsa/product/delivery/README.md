@@ -72,6 +72,7 @@ Issues (also known are User Stories) are decomposed Epics that can be completed 
 #### Examples:
 * [Suppress urgent care pharmacy searches within Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5129)
 * [[User Testing] BDD Conduct User Testing Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5096)
+* [[Launch on 1/29] Redirect from facility detail pages to new VAMC Pittsburgh pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3564)
 
 ### Bugs
 
