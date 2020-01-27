@@ -253,3 +253,10 @@ Too many distractions on a web page may cause people with cognitive disabilities
 - Reduce or eliminate distractions 
 - Be careful with motion, ads, carousels, intrusive audio, intrusive video, etc.
 - Allow user to stop / control 
+
+On the modernized VA.gov, there aren't animations, ads, or carousels presently. That's helpful. When a link takes someone to a new page, if we add and id to the url and 'automagically' scroll to content, it may trigger motion or cognitive issues. It's helpful to test with a variety of devices and people. When in doubt, it is best practice to not use scrolling animation (a.k.a., 'smooth-scroll'), and instead opt to immediately go to the area.
+
+### Low Tolerance for Cognitive Overload
+
+Some people with cognitive disabilities easily become frustrated or upset when they sense difficult situations, or when there are too many things in their environment happening at the same time. They cannot handle the complexity of the moment, may need to take a break. They need things to be simple and straightforward. Too many choices can cause them to freeze, and they may be emotionally unable to change their state of mind for a period of time.
+
