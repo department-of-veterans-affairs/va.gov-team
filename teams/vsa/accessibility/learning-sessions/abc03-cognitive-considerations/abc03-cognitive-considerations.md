@@ -307,6 +307,6 @@ Although the number of people with dyslexia is far greater than the number of bl
 
 Some people experience math anxiety, which is an emotional or psychological fear that grips some people when confronted with math problems. This is less of an intellectual deficit than a psychological deficit. Other people truly cannot solve mathematical problems because their brains are not capable of that kind of thinking.
 
-<img src="" alt="the VA.gov Disability Calculator lists individual disability ratings and the total rating, which may not add up as a person expects due to calculations" width="40%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/vagov-math.png" alt="the VA.gov Disability Calculator lists individual disability ratings and the total rating, which may not add up as a person expects due to calculations" width="40%" />
 
 In the case of the VA.gov Disability Calculator, people with difficulties understanding or using math would benefit from text explaining why the numbers don't add up, placed close to the total rating.
