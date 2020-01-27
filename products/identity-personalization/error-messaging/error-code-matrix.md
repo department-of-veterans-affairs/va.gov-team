@@ -1,0 +1,20 @@
+| VA Profile Error Codes              | Business Case | Error Key and Text Returned | VA.gov experience/outcome |
+| -----------------------:|-------------:| ---------------------------:| -------------------------:|
+| in progress |Profile unable to save| in progress|User is shown - Your recent profile update didn't save. We're sorry. Something went wrong on our end and we couldn't save the recent updates you made to your profile.  Please try again later.|
+|in progress | Contact Information was unable to be previewed  | in progress | Message shown to user "We're sorry. Something went wrong on our end. Please refresh this page or try again later. |
+|in progress|Military is inaccessible due to ?| in progress | message shown to the user "We're sorry.  We can't access your military service records.  If yout hink you should be able to view your service information here, please file a request to change or correct your DO214 or other military records." |
+|in progress | City not entered|in progress | Message shown to user "City is required" |
+|in progress | State not entered|in progress | Message shown to user "State is required" |
+|in progress | Zip Code not entered|in progress | Message shown to user "Zip Code is required" |
+|in progress |VA profile database cannot verify address with the U.S. Postal Service |in progress | Message shown to user "We're sorry.  We couldnt' verify your address with the U.X. Postal Service, so we will not be able to deliver your VA mail to that address.  Please edit the address (link) you entered." |
+|in progress |Deleting home address | in progress | Message shown to the user " Are you sure?  This will delete your home address across many VA records.  You can always come back to your profile later if you'd like to add this information back in." |
+|in progress |Deleting home phone number | in progress | Message shown to the user " Are you sure?  This will delete your home phone number across many VA records.  You can always come back to your profile later if you'd like to add this information back in." |
+|in progress |Deleting home address | in progress | Message shown to the user " Are you sure?  This will delete your home address across many VA records.  You can always come back to your profile later if you'd like to add this information back in." |
+|in progress |Entered an invalid home phone number or extension | in progress | Message shown to the user "We can only support U.S. phone numbers right now.  If you have an international number, please check back later." |
+|in progress |Entered an invalid mobile phone number or extension | in progress | Message shown to the user "We can only support U.S. phone numbers right now.  If you have an international number, please check back later." |
+|in progress |Deleting mobile phone number | in progress | Message shown to the user " Are you sure?  This will delete your mobile phone number across many VA records.  You can always come back to your profile later if you'd like to add this information back in." |
+|in progress |Entered an invalid work phone number or extension | in progress | Message shown to the user "We can only support U.S. phone numbers right now.  If you have an international number, please check back later." |
+|in progress |Deleting work phone number | in progress | Message shown to the user " Are you sure?  This will delete your work phone number across many VA records.  You can always come back to your profile later if you'd like to add this information back in." |
+|in progress |Entered an invalid fax phone number or extension | in progress | Message shown to the user "We can only support U.S. phone numbers right now.  If you have an international number, please check back later." |
+|in progress |Deleting fax phone number | in progress | Message shown to the user " Are you sure?  This will delete your fax phone number across many VA records.  You can always come back to your profile later if you'd like to add this information back in." |
+|in progress | Updating Fax Number (invalid) | in progress | Message shown to the user " We're sorry, we couldn't update your fax number.  Please try again." |
