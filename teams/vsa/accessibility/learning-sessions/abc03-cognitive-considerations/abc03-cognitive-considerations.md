@@ -227,7 +227,7 @@ A website that has predictability across all its pages (same navigation, same st
 - Retain information across screens, and within a path.
 - Provide help features, particularly contextual help.
 
-<table>
+<table role="presentation">
   <caption>On VA.gov, form data reiterates who the information is for. In this case, the label reads "Veteran's First Name" in the Veteran's section, and "Primary Caregiver's First Name" in the section for the Primary Caregiver's information.</caption>
   <tbody>
     <tr>
@@ -260,3 +260,4 @@ On the modernized VA.gov, there aren't animations, ads, or carousels presently. 
 
 Some people with cognitive disabilities easily become frustrated or upset when they sense difficult situations, or when there are too many things in their environment happening at the same time. They cannot handle the complexity of the moment, may need to take a break. They need things to be simple and straightforward. Too many choices can cause them to freeze, and they may be emotionally unable to change their state of mind for a period of time.
 
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/va-save-in-progress.png" alt="save in progress component displays a message to indicate the application has been saved, with the time and date" width="40%" />
