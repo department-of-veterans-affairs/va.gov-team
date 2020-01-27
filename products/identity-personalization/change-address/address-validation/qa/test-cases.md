@@ -2,7 +2,6 @@
 
 | Use case/Desired outcome | Address |
 |--------------------------|---------|
-|Override + at least one suggestion | ??? |
 |Override + two suggestions | 575 20th, San Francisco CA 94122 |
 |Override; no suggestions |1510 Park St, Washington, DC 20010 |
 |No override; 1 suggestion| 1510 Irving, Washington, DC 20010 |
