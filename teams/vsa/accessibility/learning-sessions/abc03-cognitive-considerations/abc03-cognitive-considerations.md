@@ -160,11 +160,71 @@ They may also be situational considerations attributed to fatigue, environmental
       <td>Difficult time remembering past events, new events, or both</td>
     </tr>
   </tbody>
-  <tfoot>
-    <tr>
-      <td colspan="2">
-        These types of cognitive disabilities are just the beginning, there are many more.
-      </td>
-    </tr>
-  </tfoot>
 </table>
+
+### Cognitive disability spectrum
+
+- There are so many different kinds, and so many variations. 
+- An individual may experience a deficit in only one area, rather than all of them. 
+- Some trends or categories are worth listing, not because they apply to everyone, but because they are part of the cognitive disability spectrum.
+
+### Functional disabilities
+
+We consider cognitive disabilities by functional disability. Functional disabilities ignore the medical or behavioral causes of the disability and instead focus on the resulting abilities and challenges. Cognitive disabilities impact the capacity of an individual to:
+
+- think
+- concentrate
+- react to emotions
+- formulate ideas
+- problem solve
+- reason
+- remember
+
+## Design Considerations
+
+**How to incorporate this info into your day-to-day**
+
+Video, W3C Web Accessibility Perspectives: Understandable Content: https://youtu.be/BYRxF2yInfA
+
+### Limited Comprehension
+
+Most people with cognitive disabilities experience limited comprehension of one kind or another. 
+- They may not be able to understand complex ideas. 
+- They may have difficulty with metaphors or abstract language. 
+- They may not understand some kinds of slang or idiomatic expressions. 
+- Some people with cognitive disabilities have exceptionally high cognitive functions in one area — the ability to remember numbers or conversations — but low cognitive functions in other areas, such as social skills or emotional awareness.
+
+### Considerations for lower comprehension
+
+Users who have lower comprehension will have a better experience if the interface and content are easy to use and understand. Too many options and complex information may be difficult for them to process.
+
+- Simplify the interface as much as possible (reduce content, provide structure). 
+- Simplify the content as much as possible (i.e., PlainLanguage.gov). 
+- Keep content to short sentences, bullets, good summarizing headings.
+- Keep videos and audio as short as possible.
+- Limit the number of choices on the screen.
+- Provide help features, especially contextual help.
+- Design for ease of use, anticipate possible errors.
+- Test the usability of the interface with actual users, preferably including users with cognitive disabilities.
+
+Here's an example on VA.gov where we might apply the above considerations to improve the experience for those with lower consideration (and everyone): 
+[About VA Health Benefits](https://www.va.gov/health-care/about-va-health-benefits/)
+
+### Short-Term Memory Loss
+
+Some people with cognitive disabilities have a hard time remembering things from one moment to the next. Their brains don’t allow them to focus on new information, so they don’t retain it in the short term. 
+
+Long web processes — such as online purchasing procedures, account sign-up procedures, or setting preferences — can cause users to forget what they were doing, or to lose track of information that they may need to remember from one step to the next. 
+
+VA.gov example: see the [526 form](https://www.va.gov/disability/how-to-file-claim/)
+
+Notice the long loading indicators with no information about what is loading. We could rewrite our loading messages to be more specific about what page we're waiting on, or have text on the page that doesn't rely on the data being called.
+
+### People with memory loss
+
+A website that has predictability across all its pages (same navigation, same structure, etc.) will greatly benefit users with memory loss. Sites that are too complicated may fatigue users with memory loss. If users have difficulty interacting with the web page, help features can assist them with navigating the web page.
+
+- Retain information across screens, and within a path.
+- Provide help features, particularly contextual help.
+
+
