@@ -1,1 +1,1 @@
-All test cases realated to STEM are stored here
+All test scripts realated to STEM are stored here
