@@ -1,8 +1,8 @@
 # VSP design intent check-in
 
 ## Attendees: 
-01/21/2020: Rebecca Walsh, Riley Orr, Shawna Hein, Mikki Northuis, Crystabel Reiter, Kevin Hoffman, Emily Waggoner
-01/22/2020: Rebecca Walsh, Riley Orr, Jennifer Strickland, Trevor Pierce
+01/21/2020: Rebecca Walsh, Riley Orr, Shawna Hein, Mikki Northuis, Crystabel Reiter, Kevin Hoffman, Emily Waggoner<br>
+01/22/2020: Rebecca Walsh, Riley Orr, Jennifer Strickland, Trevor Pierce<br>
 01/24/2020: Rebecca Walsh, Riley Orr, Nick Wygoink, Matt Self, Peggy Gannon
 
 ## Background:
