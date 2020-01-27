@@ -30,8 +30,6 @@ Veterans want to receive healthcare benefits that they're entitled to, but curre
 |Josh Faulkner	|ES Lead Eng|
 |Mehedi Hasan | ES Developer|
 |Matt Self | DSVA Lead|
-|Samara Strauss | DSVA Designer; Dragons team lead|
-|TJ Rice | Ad Hoc Product Manager|
 
 POC for ES failures/downtime are Josh and Mehedi.
 
