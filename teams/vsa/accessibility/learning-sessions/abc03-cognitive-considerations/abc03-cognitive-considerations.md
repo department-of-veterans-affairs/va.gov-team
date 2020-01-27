@@ -132,28 +132,39 @@ They may also be situational considerations attributed to fatigue, environmental
   <caption>These types of cognitive disabilities are just the beginning, there are many more.</caption>
   <tbody>
     <tr>
-      <th></th>
-      <td></td>
+      <th>aphasia</th>
+      <td>Speaking (finding words), writing or understanding language</td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
+      <th>autism</th>
+      <td>May have difficulty understanding some communications or social interactions</td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
+      <th>attention deficit/hyperactivity disorder</th>
+      <td>Focusing and keeping attention</td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
+      <th>dyslexia</th>
+      <td>Recognizing letters and words</td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
+      <th>dyscalculia</th>
+      <td>Recognizing numbers and symbols</td>
     </tr>
     <tr>
-      <th></th>
-      <td></td>
+      <th>intellectual</th>
+      <td>“Intellectual functioning (such as learning, problem-solving, judgment) and/or adaptive functioning (activities of daily life such as communication and independent living)”</td>
+    </tr>
+    <tr>
+      <th>memory loss</th>
+      <td>Difficult time remembering past events, new events, or both</td>
     </tr>
   </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2">
+        These types of cognitive disabilities are just the beginning, there are many more.
+      </td>
+    </tr>
+  </tfoot>
 </table>
