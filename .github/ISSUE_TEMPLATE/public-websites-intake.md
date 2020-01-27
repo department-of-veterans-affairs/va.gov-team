@@ -10,60 +10,78 @@ assignees: karak888
 # WIP
 
 ### Instructions
-- All requests for work needing to be fulfilled by a Public Websites resource must submit this intake request form. The team's capacity and the type of request will determine which sprint the work falls into, so it is highly recommended that requests are submitted as soon as you're aware you will need help. Different types of requests may require more time in advance.
+VSA apps teams should submit this intake request when you need support or work that needs to be fulfilled by the Public Website team. The details you provide help us understand what type of assignments and tickets we need to create on our team to help implement your request. 
+
+__Examples of support we provide can include:__
+- Content support for static public website pages
+ -Content support for authenticated application or tools
+- FE engineering implementation of redirects that have first been vetted by the IA team in Platform
+- FE engineering implementation of REACT sign in widgets
+
+
+__When to submit a request__
+Make your request as soon as you're aware you will need public website participation. Different types of requests may require more time in advance. For apps tool content support, try to engage a content person for your project kick-off.
 
 ### Description
 *Detailed description of the request including background information and reason for the request*
 
-### Type of request
-*Select one*
-- [ ] Tool / Product 
+ 1. Is the request related to a VA.gov tool? If yes provide brief description of the tool or funcitionality: 
+ 2. Provide a link to product brief or outline: 
+ 3. Provide a link to wireframes, prototype: 
+ 4. Provide a link to any user research synthesis:
+ 5. Do you need new URLs, redirects? (If yes, submit URL and redirect requests first to @ Mikki Northuis on the Platform team.)
+ 
 
-      1. Is this related to a VA.gov tool? 
-      2. If yes provide brief description of tool 
-      3. Is this an iteration to an existing tool?
-      4. Is there already a particular content person assigned for the tool, if so please provide name.
-      5. Provide any links to existing wireframes, prototype 
-      6. Provide any links to product briefs or outlines
-      7. Is there an ETA for launch?
-- [ ] Shared content resource 
+### Desired/target implementation date
+Is there an ETA for a particular launch or completion date when request needs to be completed (for instance, for a user research session or eBenefits migration)? 
 
-      1. Describe reason / need for content resource 
-      2. How long will you require resource?
+Our team's capacity will determine which sprint the work falls into.
+
+
+### Type of support request
+*Select all applicable* 
+
+- [ ] Content support for authenticated app/tool. Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer.
+
+In addition to the above general information, include:
+      1. Word document with draft if available, or link to the URL where the draft content appears:
+      2. Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?)
+      3. Scope: How many screens? (Or messages, etc.) 
       
-- [ ] Content updates to existing content
+      
+- [ ] Content support for a static public website page
+      1. Is this to update existing static content? 
+      2. Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.)
+      2. Provide a list of URL/s that need to be reviewed or updated. 
+      3. If it's a small copy section, list what the new info should be and what it is replacing.
 
-      1. Confirm this is for updating content or links to an already existing page—if so,
-      2. Provide clear instructions of what page needs to be updated, what the new info should be, and what it is replacing.
-      3. Are there redirects that will be needed, and if so do you have a proposed IA and URL from Content / IA team?
 
+- [ ] FE engineering
+      1. [Let's get Nick and Kelson to provide input here on what kind of details they typically need to get started]
+      2. [more stuff???]
+      
 ### Requestor info
-*Indicate what team and who the primary contacts are on that team* 
+*Indicate what team and who the primary contacts are on your team* 
 
 Team name: *enter name*
 
-Product owner: *enter name*
+DEPO product owner: *enter name*
 
 Product manager: *enter name*
 
 Designer: *enter name*
 
-Content: Is there already an existing person assigned? If so: *enter name* 
+FE engineer: *enter name*
 
-VA stakeholders: *enter names*
-
-### Implementation date
-Please indicate when the work needs to be implemented
-- [ ] Is there an ETA for a particular launch or completion date when work is required?
-- [ ] Other - Please indicate timing: 
+Product/team Slack channel: *enter*
 
 
-### Steps to complete
-- [ ] Above information is provided and issue is tagged and assigned appropriately - *@ requesting team*
-- [ ] All appropriate VA stakeholders are notified of request - *@ requesting team*
-- [ ] Request is documented and implementation plan is clear - *@ Public Websites team*
-- [ ] Request is assigned to appropriate team for implementation - *@ Public Websites Team*
-- [ ] Implementation team completes work - *@ Implementation team*
-- [ ] Work is validated in production - *@ all*
-- [ ] Ticket is closed - *@ requesting team*
+### Steps to complete [UNLCLEAR WHO THIS SECTION IS FOR. IS THIS FOR THE REQUESTOR TO FILL OUT OR FOR PUBLIC WEBSITE PM?]
+
+- [ ] I've provided the __Description.__
+- [ ] I've provided the __Desired/target implementation date.__
+- [ ] I've selected all relevant __Type of request.__
+- [ ] I've filled out the __Requestor info.__
+- [ ] Issue is labled with the relevant practice areas: Content, frontend
+- [ ] Request is assigned  *Public Websites Team* and *@ with Kara Kamahi and Jennifer Lee* for intake
 
