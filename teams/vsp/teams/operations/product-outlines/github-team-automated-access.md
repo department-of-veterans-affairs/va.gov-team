@@ -101,7 +101,7 @@ Step 1:
 Step 2:
 - Roll out to VSP Engineers and request feedback and iterate from this point. 
   - Notes: 
-       - This group is utilizing SSH and internal tools more closely, so this would directly impact them, so their feedback will be essential before rolling out to VFS Engineers.
+       - This group is utilizing SSH and internal tools more closely, so this would directly impact them, and their feedback will be essential before rolling out to VFS Engineers.
       - Testing went well and all Engineers are using it with no problems. The only issues were if people had encrypted SSH keys or a very specific setup. These would not work correctly.
 
 Step 3:
@@ -110,22 +110,23 @@ Step 3:
      - Identified some issues with non Engineers using this. Feedback can be found [here:](https://docs.google.com/document/d/1-yElavrSzL67vrdKyDXnCmI93yXtZySD0LqEgyqFXeY/edit) along with areas that need to be updated for documentation. 
 - Ensure Jenkins permissions are set correctly before rolling out to VFS team.
   - notes: 
-    - This is the security concern for giving people access sooner in the process (SOCKs access). Speaking with Partick if we can prove that we can tighten permissions so users can’t run jobs in Jenkins then we have the green light for rolling GH teams out to VFS team and SOCKs access can be given right away. AWS and SOCKs for VSP Operations, Tools BE, and Tools FE still need to go through a review process (others may need access as well depending on the needs). 
+    - This is the security concern for giving people access sooner in the process (SOCKs access). Speaking with Partick if we can prove that we can tighten permissions so users can’t run jobs in Jenkins, then we have the green light for rolling GH teams out to VFS team and SOCKs access can be given right away. AWS and SOCKs for VSP Operations, Tools BE, and Tools FE still need to go through a review process (others may need access as well depending on the needs). 
+    - Received green light from Patrick, Kevin, and Jeff after tightening of Jenkins permissions. 
 
 Step 4:
-- Start the process of rolling out to VFS teams by the Ops team creating a GH team on the VA repo, setting their permissions, and then giving that GH team to each team for them to manage and own. 
+- Start the process of rolling out to VFS teams by the Ops team creating a GH team on the VA repo, setting their permissions, and then give GH team to each VFS team for them to manage and own. 
 - We will mimic the VSP rollout plan with VSA. We plan to roll out to all the VSA Engineers, request feedback, and give them time to utilize the feature and assist with any questions or concerns. 
 
 Step 5:
-- Roll out to all of VSA, request feedback, and integrate.
+- Roll out to all of VSA, request feedback, and iterate.
 
 Step 6: 
-- Roll out to other VFS teams, request feedback, and integrate. 
+- Roll out to other VFS teams, request feedback, and iterate. 
 
 ### Phase 2 Iterate with a VA slackbot for offboarding and slack integration
-- Idea: Setup reminders that alert teams each month, that show them their current roster and asks them to update if the GH team roaster is not correct. 
-- Idea: Iterating VA Slackbot to automatically audit current users by inactivity in DSVA slack, in order to remove inactive users to ensure only active users have access. 
-- Idea: allow slackbot to add new users to channels where their team is, so when they are approved and added into their GH team Slack bot will invite them to all the channels their team operates. 
+- Idea: Setup reminders to alert teams each month, that show them their current roster and ask them to update if the GH team roaster is not correct. 
+- Idea: Setup a process with the VA Slackbot to automatically audit current users by inactivity in DSVA slack. This process ensures that inactive users will be removed and only active users have access. 
+- Idea: Allow slackbot to add new users to channels where their team is, so when they are approved and added into their GH team Slack bot will invite them to all the channels where their team operate. 
 
 ### Phase 3 Iterating AWS to GH team
 - Connect GH teams with AWS. 
@@ -145,17 +146,17 @@ Step 6:
 # Implementation Information
 
 ## Current Status
-VSP Operations team has rollout at to all of VSA Engineers.
+VSP Operations team will start rolling out to all VSA Engineers.
 
 ## Solution Narrative
 
 - **September 2019**: Proposal  drafted and approved by DSVA
-- **10/16/2019**: MVP  demoed locally
-- **11/01/2019**: Decisions around next steps after SSH maybe remove from VA
-- **11/06/2019**: VSP Operations are the first team to use GH teams.
-- **11/18/2019**: Testing and decisions made on implementation. 
+- **10/16/2019**: MVP demoed locally
+- **11/01/2019**: Decisions around next steps after hearing the VA may do away with SSH
+- **11/06/2019**: VSP Operations are the first team to use GH teams
+- **11/18/2019**: Testing and decisions made on implementation
 - **12/10/2019**: GH teams is rolled out to all VSP Engineers
-- **12/31/2019**: GH teams is rolled out to of VSP (except Design)
+- **12/31/2019**: GH teams is rolled out to all of VSP (except Design)
 - **1/6/2020**: Approval from Patrick that if Jenkins permissions are tighten and demoed then Ops have the green light to roll out to VFS teams, with instant SOCKs access.
 - **1/21/2020**: Green lighted to roll out to VSA and approval for new access guidelines. 
 
