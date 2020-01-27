@@ -236,3 +236,20 @@ A website that has predictability across all its pages (same navigation, same st
     </tr>
   </tbody>
 </table>
+
+### Attention Deficit
+
+Some users experience attention deficits, making it hard for them to focus on the task at hand. They may 
+
+- get lost in their own thoughts…
+- find online ads or long loading indicators distracting…
+
+causing them to forget why they went to the website in the first place.
+
+### People with distractibility
+
+Too many distractions on a web page may cause people with cognitive disabilities to miss important information being conveyed on a web page. Distractions may cause them to lose focus or overwhelm them, and users may navigate from the web page.
+
+- Reduce or eliminate distractions 
+- Be careful with motion, ads, carousels, intrusive audio, intrusive video, etc.
+- Allow user to stop / control 
