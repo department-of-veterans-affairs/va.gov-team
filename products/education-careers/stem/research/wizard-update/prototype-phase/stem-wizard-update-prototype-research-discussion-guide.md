@@ -102,7 +102,7 @@ Let's go back to the beginning and start the 2nd scenario
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
   
-Using this page, how would you apply for the STEM Scholarship?
+Let's say you've heard about the STEM Scholarship from a friend.  Using this page, how would you apply for the STEM Scholarship?
 
 **General Questions**
 1. What are your thoughts on the overall process of applying for the STEM Scholarship?
