@@ -78,11 +78,16 @@ _Split the work into milestones that can be delivered, put them in the order tha
 
 ### Alternatives
 
-- Continue iterating on existing Gatsby site
+#### Ready-made solutions
+
 - Slab
 - GitBook
 
-_This section contains alternative solutions to the stated objective, as well as explanations for why they weren't used. In the planning stage, this section is useful for understanding the value added by the proposed solution and why particular solutions were discarded. Once the system has been implemented, this section will inform readers of alternative solutions so they can find the best system to address their needs._
+#### Open source solutions
+
+#### Custom solutions
+
+- Continue iterating on existing Gatsby site
 
 ### Future Work
 
