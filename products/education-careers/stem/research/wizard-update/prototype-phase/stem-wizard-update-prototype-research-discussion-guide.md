@@ -120,14 +120,13 @@ Let's go back to the beginning of the process, so I can ask a few specific quest
 Now, let's look at the application form.  
 1. What did you think of the part of the process when you were answering the questions about the Rogers STEM Scholarship?
 2. As you read through the eligibility requirements, what questions come to mind?
-3. What are your thoughts on whether you’d be eligible for the Rogers STEM Scholarship?  
+3. What are your thoughts on whether you’re eligible for the Rogers STEM Scholarship?  
     * What information are you using to form that decision?
-    * How effectively does the form inform you of your potential eligibility?
+    * Are you able to determine under what circumstances you might become eligible in the future?
     * Would you go ahead with the application if you thought you were close to exhaustion?
+    * How effectively does the form inform you of your potential eligibility?
 4. What are your thoughts on these blue boxes? 
 5. [ When looking at the last info / alert ] When you saw this, what did you think your options were at this point in the process?” 
-6. Do you think the VA would allow you to submit the application even if the answers you've selected would not qualify one for the scholarship?
-
-
-5. Are you able to determine under what circumstances you might become eligible in the future?
-6. What, if any, modifications would make completing the form easier?
+6. Do you have the impression that your application will be processed or not processed?
+7. Do you think the VA would allow you to submit the application even if the answers you've selected would not qualify one for the scholarship?
+8. What, if any, modifications would make completing the form easier?
