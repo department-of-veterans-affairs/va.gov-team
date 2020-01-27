@@ -95,8 +95,6 @@ _Features you'd like to (or will need to) add but aren't required for the curren
 
 ### Revision History
 
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
-
-| Date         | Revisions Made                                                                                                                                   | Author         | Reviewed By |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | ----------- |
-| Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong |
+| Date         | Revisions Made | Author        | Reviewed By |
+| ------------ | -------------- | ------------- | ----------- |
+| Jan 27, 2020 | Initial Draft  | Bill Fienberg |             |
