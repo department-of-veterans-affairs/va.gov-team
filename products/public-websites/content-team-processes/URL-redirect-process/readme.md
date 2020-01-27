@@ -60,7 +60,7 @@ _The image below illustrates the redirect implementation process flow for the Pu
 
 ---
 
-**Step 1.** When a content parity/legacy rewrite page is published, the content writer will create a redirect request ticket using the redirect request ticket template and assign to _@mnorthuis (Mikki)_ and _@meganhkelley (Megan)_. 
+**Step 1.** When a content parity/legacy rewrite page is published, the content writer will first verify if the legacy URL(s) require additional moving coordination in Drupal for redirect implementation. The content writer will then create a GitHub ticket for standard redirects and a separate ticket (if needed) for more complex redirect implementations using the redirect request ticket template and assign to _@mnorthuis (Mikki)_ and _@meganhkelley (Megan)_. 
 
 Content person will include the following information per the ticket template: 
 
@@ -74,11 +74,11 @@ Legacy URL  |  Redirect to
 insert legacy URL | insert new URL
 * **Steps to Complete:** Checklist of action items to complete from initial request through implementation of the redirect to ensure all individuals working on this are notified of status updates. 
 
-**Step 2.** Mikki will vet the URLs, and then assign _@Karak888 (Kara)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_.
+**Step 2.** Mikki will vet the URLs, including verifying if the URLs require Drupal changes, and then assign _@Karak888 (Kara)_, _@ncksllvn (Nick)_, and _@lunascoop (Selina)_. If there are URLs that require Drupal changes before redirect implementation, Mikki will request that the content writer create a separate ticket for those URLs.
 
 **Step 3.** Kara will coordinate with Nick and Selina to size and put it on the Website team’s backlog. Nick or Kelson may be assigned, based on current sprint’s workload. 
 
-**Step 4.** Selina will review ticket information and determine the stakeholder communication timeframe. She will let Kara and the FE engineer know when redirect should go live. 
+**Step 4.** Selina will review ticket information (including confirming if the pages have gone live yet) and determine the stakeholder communication timeframe. She will let Kara and the FE engineer know when redirect should go live. 
 
 **Step 5.** Assigned FE engineer will create a PR for the redirect and _@lunascoop (Selina)_ FYSA. 
 
