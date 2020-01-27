@@ -261,3 +261,52 @@ On the modernized VA.gov, there aren't animations, ads, or carousels presently. 
 Some people with cognitive disabilities easily become frustrated or upset when they sense difficult situations, or when there are too many things in their environment happening at the same time. They cannot handle the complexity of the moment, may need to take a break. They need things to be simple and straightforward. Too many choices can cause them to freeze, and they may be emotionally unable to change their state of mind for a period of time.
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/va-save-in-progress.png" alt="save in progress component displays a message to indicate the application has been saved, with the time and date" width="40%" />
+
+### Limited Problem-Solving Skills
+
+When presented with a problem to solve, some people with cognitive disabilities may simply be unable to solve it, so they may not even attempt to solve it. If a website requires users to type text in a CAPTCHA, for instance, they may not be able to process what kind of action is required.
+If they type an incorrect response and get an error message, they may not be able to figure out why they got the error message, or how to solve the problem.
+
+### Difficulty Reading
+
+Many people with cognitive disabilities experience difficulty reading. 
+- Some read at a lower level than their peers of the same age, and some can't read at all. It can help to provide illustrations or audio to supplement text. 
+- Some people with dyslexia have high levels of cognitive function at a conceptual level, but visual encoding of text can be difficult, so they have a hard time spelling or reading words.
+- Some with dyslexia read the ‘shapes’ rather than letters.
+
+Try the [Dyslexia Bookmarklet](https://data.qz.com/2016/dyslexia/) on the [About Health Benefits on VA.gov](https://www.va.gov/health-care/about-va-health-benefits/), to see a simulation of what it may look like for a person with dyslexia.
+
+### Designing for dyslexia
+
+Although the number of people with dyslexia is far greater than the number of blind users, few building experiences know how to design for them.
+
+#### Typography 
+- try to use a sans-serif font
+- ‘hooks’ on serif letters may distort shapes
+- if you must use a serif, reduce letter-spacing slightly
+- explore typefaces developed for dyslexic users
+- avoid using italics and underlines which can visually distort text
+- bold is recommended for emphasis 
+
+#### Layout 
+- aim for columns of no more than 80 characters per line
+- narrower columns make reading easier
+- use percentage widths for text areas 
+- set margins to “0 auto” via CSS so margins adjust proportionately
+- white space is your friend, but must be consistent
+
+#### Tools 
+- offer readability tools, such as text-to-audio option via an automated tool 
+- ensure your markup activates functionality like iOS Reader Mode
+
+#### Navigation 
+- keep navigation as logical as possible
+- ensure Home page is accessible throughout your website or app, offering reassurance if people start feeling confused
+
+### Difficulty Understanding or Using Math
+
+Some people experience math anxiety, which is an emotional or psychological fear that grips some people when confronted with math problems. This is less of an intellectual deficit than a psychological deficit. Other people truly cannot solve mathematical problems because their brains are not capable of that kind of thinking.
+
+<img src="" alt="the VA.gov Disability Calculator lists individual disability ratings and the total rating, which may not add up as a person expects due to calculations" width="40%" />
+
+In the case of the VA.gov Disability Calculator, people with difficulties understanding or using math would benefit from text explaining why the numbers don't add up, placed close to the total rating.
