@@ -81,6 +81,16 @@ Jeff, you can probably provided examples of this one.
 
 1. I'll add a few different examples here.
 
-## Validation rules should be defined by shared services comprehensively; lots of examples where validation happens in Legacy.
+## Validation rules should be defined by shared services comprehensively; lots of examples where validation happens in Legacy but doesn't necessarily return an error from the API / shared service.
 
 1. I'll add a few different examples here.
+
+## Violations of common expectations.
+
+1. When doing a POST request where a new resource is created, the HTTP response should be 201, and the payload should include a newly created ID and ideally a created_at datetime.
+
+2. Validation errors (Unprocessable Entiry 422) are somewhat distinct from Bad Request (400), ideally they would be delineated as such.
+
+3. When doing a PUT request, one should only need to include the id and the attributes they wish to change. For cancelling an appointment, there is no id, therefore we send the entire object?
+
+
