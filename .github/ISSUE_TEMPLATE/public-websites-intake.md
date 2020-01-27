@@ -10,9 +10,9 @@ assignees: karak888
 # WIP
 
 ### Instructions
-- All teams requesting support or work that needs to be fulfilled by a Public Website resource must submit this intake request form. The team's capacity and the type of request will determine which sprint the work falls into.
+- VSA apps teams should submit this intake request when you need support or work that needs to be fulfilled by the Public Website team. Examples of support we provide include: content support for benefit hub static pages; content support for authenticated application or tools; FE engineering implementation of redirects that have first been vetted by the IA team in Platform. The team's capacity and the type of request will determine which sprint the work falls into.
 
-__When to submit request a ticket__
+__When to submit a request issue__
 Make your request as soon as you're aware you will need public website participation. Different types of requests may require more time in advance. For apps tool content support, try to engage a content person for your project kick-off.
 
 ### Description
@@ -52,7 +52,7 @@ In addition to the above general information, include:
       3. Are there redirects that will be needed, and if so do you have a proposed IA and URL from Content / IA team? [@kara - NOT SURE WHY THIS DETAIL IS EMBEDDED IN THIS SECTION. DON'T WE ALREADY HAVE A REDIRECT REQUEST PROCESS IN PLACE? 
 
 ### Requestor info
-*Indicate what team and who the primary contacts are on that team* 
+*Indicate what team and who the primary contacts are on your team* 
 
 Team name: *enter name*
 
