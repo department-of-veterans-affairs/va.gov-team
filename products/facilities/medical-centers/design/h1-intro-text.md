@@ -90,6 +90,10 @@ Here's an overview of how we are standardizing page H1s and intro text in the VA
 
 > Note for the second sentence: Always use the official facility name in this sentence.
 
+**/our-performance**
+- **H1:** Our performance
+- **Intro text:** Find out how VA Pittsburgh Healthcare System compares to non-VA health care facilities in your area and nationwide. Compare our quality of health care to regional and national averages at non-VA health care facilities. Learn about VA appointment wait times and Veteran satisfaction at VA facilities.
+
 **/caregiver-support**
 - **H1:** Caregiver support
 - **Intro text:** VA Pittsburgh health care offers a number of services to support you and the Veteran you care for. Ask a caregiver support coordinator to help you find what you need, whether it's in-home help, someone to listen, or anything in between.
