@@ -75,4 +75,12 @@ Jeff, you can probably provided examples of this one.
 
 ## Data types / Payloads inconsistent
 
-1. 
+1. I'll add a few different examples here.
+
+## Error object inconsistencies
+
+1. I'll add a few different examples here.
+
+## Validation rules should be defined by shared services comprehensively; lots of examples where validation happens in Legacy.
+
+1. I'll add a few different examples here.
