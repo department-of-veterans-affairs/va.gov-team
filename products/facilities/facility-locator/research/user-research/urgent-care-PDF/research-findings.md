@@ -30,7 +30,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 ## Key Findings
 **1. Veterans want to know *why* they need a PDF.**
 
-**2. Veterans do not know the term "Community Care."**
+**2. The term "Community Care" is confusing to Veterans**
 
 **3. Veterans want to a list of available urgent care providers.**
 
