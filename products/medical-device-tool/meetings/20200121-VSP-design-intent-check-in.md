@@ -3,6 +3,7 @@
 ## Attendees: 
 01/21/2020: Rebecca Walsh, Riley Orr, Shawna Hein, Mikki Northuis, Crystabel Reiter, Kevin Hoffman, Emily Waggoner
 01/22/2020: Rebecca Walsh, Riley Orr, Jennifer Strickland, Trevor Pierce
+01/24/2020: Rebecca Walsh, Riley Orr, Nick Wygoink, Matt Self, Peggy Gannon
 
 ## Background:
 Our team, Benefits & Memorials 2, is working on modernizing the digital mechanism Veterans use to order medical devices. Practically, this means working with Veterans to design and launch a new ordering mechanism on the VA.gov platform.
@@ -83,6 +84,15 @@ Additional notes:<br>
 - Print CSS for the order confirmation page
    - [CSS Design: Going to Print](https://alistapart.com/article/goingtoprint/)
    - [Print It Your Way](https://alistapart.com/article/printyourway/)
+
+### 01/24/2020
+
+**Notes from meeting**<br>
+- Peggy says most of the vital SEO elements would be towards the top of the page 
+   - Isn't concerned about implementing accordions on the content page 
+- Reach out to Jen Lee & public websites team after a more comprehensive mockup is created
+   - Can create two options: 1 with accordions and 1 without accordions and then meet to discuss
+- Create collaborative doc for content and share with Peggy 
 
 ## Next steps 
 - Reach out to both Samara and Jim
