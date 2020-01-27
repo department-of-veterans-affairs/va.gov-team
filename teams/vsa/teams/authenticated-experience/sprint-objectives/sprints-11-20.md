@@ -233,6 +233,13 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 - Tressa out: Feb 9 – 19
 
+### Order of priorities
+
+1. Address validation — QA & bug fixes
+2. Profile 2.0 — Create states for all screens
+3. Profile 2.0 — Form refactoring
+4. Address validation — Documentation/load testing
+
 ### Address validation
 
 #### 508 Review
@@ -254,9 +261,10 @@ Sprint 13 is 9 days with the MLK Day holiday.
   - Triage tickets
   - As tickets/fixes go out, validate user-facing fixes in staging.
  
- **Brad**
+ **Brad/Erik**
 
 - Work on bug fixes and 508 review updates as they come in.
+- Address validation - can't select entered address with validation key #5178
 
 #### Other
 
