@@ -227,4 +227,12 @@ A website that has predictability across all its pages (same navigation, same st
 - Retain information across screens, and within a path.
 - Provide help features, particularly contextual help.
 
-
+<table>
+  <caption>On VA.gov, form data reiterates who the information is for. In this case, the label reads "Veteran's First Name" in the Veteran's section, and "Primary Caregiver's First Name" in the section for the Primary Caregiver's information.</caption>
+  <tbody>
+    <tr>
+      <td valign="top"><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/Veteran-Info-label.png" alt="the 1010-CG form Veteran first name text input" /></td>
+      <td><img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/Caregiver-Info-label.png" alt="the 1010-CG form Caregiver first name text input" /></td>
+    </tr>
+  </tbody>
+</table>
