@@ -73,10 +73,10 @@ _These links/reviews may end up being consolidated, stay tuned._
 - [x] 508 Compliance
   - [x] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
   - [x] Internal 508 Review
-  - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
-  - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  _Done by Trevor_
-- [ ] Conduct a usability study
-  - [ ] Address any feedback from that study
+  - [x] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+  - [x] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  _Done by Trevor_
+- [x] Conduct a usability study
+  - [x] Address any feedback from that study
 
 ## Development
 _Do we need to merge the FE and BE tasks?_  
@@ -92,8 +92,8 @@ _Do we need to merge the FE and BE tasks?_
   - [x] Collaborate with Frontend on Error Handling
   - [x] Investigate  the common area for error types
   - [x] Define or reference a known resource
-- [ ] For PRs: first review internally with BE or another engineer before the BE Team
-  - [ ] `Once internally reviewed, share with the BE Review Team at VSP (team name?)`
+- [x] For PRs: first review internally with BE or another engineer before the BE Team
+  - [x] `Once internally reviewed, share with the BE Review Team at VSP (team name?)`
   - [x] Ensure that feature flags are set appropriately to be toggled
 - [x] Documentation and points of contact for any new backend dependencies - see Product Outline for contact info
 
@@ -111,10 +111,10 @@ _Do we need to merge the FE and BE tasks?_
 
 ## Review
 ### Error Handling
-- [ ] After we understand how the data behaves, have a meeting to brainstorm about as many use cases as possible
-  - [ ] Has each field been addressed for errors?
-  - [ ] Has each component been addressed for errors?
-- [ ] Address errors handling with [this guide](https://design.va.gov/content-style-guide/messaging-error-messages) in mind
+- [x] After we understand how the data behaves, have a meeting to brainstorm about as many use cases as possible
+  - [x] Has each field been addressed for errors?
+  - [x] Has each component been addressed for errors?
+- [x] Address errors handling with [this guide](https://design.va.gov/content-style-guide/messaging-error-messages) in mind
   - Be mindful of others that are not planned.
 Error handling might be iterative.
  
@@ -130,7 +130,7 @@ Error handling might be iterative.
 
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
-  - [ ] Build, test, audit (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
+  - [x] Build, test, audit (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
   - [x] Code coverage requirements (unit tests)
 - [x] Develop testing infrastructure, refer to established documentation  
 - [ ] Define threshold or definition of high-severity bugs
@@ -147,12 +147,12 @@ Error handling might be iterative.
 - [x] EStablish baseline metrics for later analysis
 
 ## Support (Consider Deliverables and Artifacts)
-- [ ] Does the Call Center have documentation?
-  - [ ] Draft as needed
-- [ ] Have they asked for anything else?
-- [ ] Establish a point of contact for the Call Center 
-- [ ] Ensure that these are noted and stored for easy access
-  - [ ] Include contact information in case further discussion is required
+- [x] Does the Call Center have documentation?
+  - [x] Draft as needed
+- [x] Have they asked for anything else? **No**
+- [x] Establish a point of contact for the Call Center 
+- [x] Ensure that these are noted and stored for easy access
+  - [x] Include contact information in case further discussion is required
 
 
 ## Pre-release Plan
