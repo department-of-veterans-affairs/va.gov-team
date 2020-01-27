@@ -10,7 +10,7 @@ assignees: karak888
 # WIP
 
 ### Instructions
-VSA apps teams should submit this intake request when you need support or work that needs to be fulfilled by the Public Website team. The details you provide help us understand what type of assignments and tickets we need to create on our team to help your request. 
+VSA apps teams should submit this intake request when you need support or work that needs to be fulfilled by the Public Website team. The details you provide help us understand what type of assignments and tickets we need to create on our team to help implement your request. 
 
 __Examples of support we provide can include:__
 - Content support for static public website pages
