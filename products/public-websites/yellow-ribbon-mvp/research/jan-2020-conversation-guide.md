@@ -18,7 +18,7 @@
 
 **For first participant group**
 
-- [ ] Open the Yellow Ribbon page in your browser (https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/)
+- [ ] Start at va.gov
 - [ ] Begin screen sharing
 
 **For second participant group**
@@ -75,29 +75,38 @@ Before we look at the website, let’s start with a few warm-up questions.
   - How have you done your research on schools so far? 
   - How about research on the education benefits available to you?
   - Have you encountered anything that made it harder, or easier, to do this research?
-  - Are you familiar with the Yellow Ribbon benefit? Tell me how it works.
+  - Are you familiar with the Yellow Ribbon benefit? *(**see note below**)* 
+    - *If yes:* Tell me how it works.
+    - *If no*: Are you familiar with any education benefits you can get through the VA?
+      * If not, may need to 
   - How does it fit into your decision making process?
 
-###For all participants:
+***If participants aren't familiar with any education benefits, give succinct description of what Yellow Ribbon program benefits are, and skip next section***
+
+###For participants with benefit familiarity:
 
 - How did you first learn what VA education benefits were available to you, and how Yellow Ribbon fit into those benefits?
 - Were there any parts of the process that were particurlarly confusing? If so, how did you get clarification?
 - Imagine I don't know anything about VA benefits. Can you tell me how the Yellow Ribbon program works?
 
-We're almost ready to move to the website/prototype now, and I'll ask you to do a few tasks related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you tell me where you would typically conduct this type of research?
+We're almost ready to move to the website/prototype now, and I'll ask you to try some things related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you tell me where you would typically conduct this type of research?
 
 
-## First task: find relevant Yellow Ribbon schools - 5 minutes
+## First task: find relevant Yellow Ribbon schools - 8 minutes
 
-- Start on Yellow Ribbon benefit hub page.
-- Take a look at the content on this page.  I'm interested in your impressions of this page. Tell me what you think it is for, what you can do here.  You can scroll up and down, but don't click on anything just yet. Please think out loud as you look around.
-- Okay, let's imagine you're ready to do some research and find some schools you're interested in.  Go ahead and show me how you'd do that. Please think aloud as you go through this.
-  - **On current site:** *If participant is interested in a state with a very small number of rows, once they have completed the task, ask them to react to a state like California with numerous rows.*
-  - **On prototype:** *may need to explain this is a prototype and we've pre-populated the data for them*
+- Go to va.gov.  You're interested in finding out about Yellow Ribbon program benefits. How would you find that information from here?
+- ***Once on Yellow Ribbon benefit hub page***: Take a look at the content on this page.  I'm interested in your impressions of this page. Tell me what you think it is for, what you can do here.  You can scroll up and down, but don't click on anything just yet. Please think out loud as you look around.
+  - You're interested in finding participating schools you might want to attend. Show me how you would do this.  Again, please think aloud as you go through this.
+  - **For prototype:** 
+    - Since we're gathering feedback on a prototype, this page isn't linked directly to it. I'm going to send you a link via the chat now.
+    - Now take a look at the content on this page; again, I'm interested in your feedback so please think aloud.  Tell me what you think this page is for, and what you can do here.
+    - Show me how you'd find participating schools you might want to attend from here.
 
 ### Things to watch for:
 
-- On current site:
+- How does participant navigate to the education hub? 
+- Is it challenging for the participant to find the Yellow Ribbon program information?
+- On current Yellow Ribbon page:
   - How does the participant understand and navigate the accordion pattern?
 - On prototype:
   - Any reaction to search criteria?
@@ -106,12 +115,11 @@ We're almost ready to move to the website/prototype now, and I'll ask you to do 
 ## Second task: review school results - 5 minutes
 
 - Again, take a look at the content on this page. Don't click on anything just yet.  Tell me what you're looking at, what you can do here.  Think aloud as you look.
-- Tell me what each piece of information means.
-- We're still imagining you're conducting research for yourself - do you have enough information here to make any choices about schools?
-- What do you think about the amount of results on this page?
-- How about the order in which they're presented?
-- Talk me through how you would see schools beyond what is visible on this page.
-- What would you want to do next, now that you see this list of results?
+- How would you use the information here to make any decisions about schools you might want to attend?
+- You've heard of a school called Xavier University nearby, and want to see if it offers Yellow Ribbon. How would you find that out?
+- You want to reduce the number of options you have to go through. Show me how would you do that.
+- Now, show me how you would change the order.
+- What would you do next, now that you see this list of results?
 
 ### Things to watch for:
 
@@ -129,37 +137,32 @@ We're almost ready to move to the website/prototype now, and I'll ask you to do 
 
   
 
-## Third Task (current YR pages): compare schools  - 8 minutes
+## Third Task (current YR pages): compare schools  - 5 minutes
 
-- Let's say you're interested in going to school to study art, and you want to see which schools offer the largest benefit amount.  How would you do that?
-
-- Are there any other pieces of information, aside from benefit amount, that are important for you to evaluate across different schools?
-
+- You're interested in going to school for a graduate degree, and you want to see which schools offer that degree, along with the largest benefit amount.  How would you do that?
+- Which pieces of information are you most interested in as you try to choose between schools?
 - Now that you have this information about these schools, what would the next step be for you?
+- You want to go back and search for something different, maybe another location, or a different kind of degree.  How would you do that from here?
 
-- Imagine you want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
+### Things to watch for:
 
-- #### Things to watch for:
-
-  - How does the participant attempt to compare schools in a table presentation?
-  - Any indication of how many schools the participant wants to compare?
-  - Which data points is the participant most interested in comparing?
-  - What would the participants next step be, once they have all the information about the school they're interested in?
-  - How does the participant go back
+- How does the participant attempt to compare schools in a table presentation?
+- Any indication of how many schools the participant wants to compare?
+- Which data points is the participant most interested in comparing?
+- What would the participants next step be, once they have all the information about the school they're interested in?
+- How does the participant go back?
 
 
 
 ## Third Task (prototype): Compare schools and change criteria - 8 minutes
 
-*Once on comparison screen*, *guide them if they didn't make it*
-
-- Tell me about this screen - what do you see here, and what do you think you can do?
-- What are your thoughts on the way this information is presented?
-- Are there any other pieces of information, aside from benefit amount, that are important for you to evaluate across different schools?
-- If you wanted to update this list somehow, how would you do that?
-- Now that you have this information about these schools, what would the next step be for you?
-
-- Imagine you want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
+- You're interested in going to school to study art, and you want to see which schools might have that program, with the largest benefit amount.  How would you do that?
+- *Once on comparison screen*: Tell me what you see here - what do you see, and what do you think you can do?
+- Which pieces of information are you most interested in as you try to choose between schools?
+- Show me how you would update this list.
+- Now that you've seen this information, what would the next step be for you?
+- You want to go back and search for something different, maybe a specific school, or a different kind of degree.  How would you do that?
+- If you used the breadcrumb, what would you expect to see on the search results page?
 - Go back to the results screen (screen with "Added" button) - what do you think would happen if you clicked on the button under Chicago State University? (*should have added state applied to it*)
 
 #### Things to watch for:
@@ -173,9 +176,10 @@ We're almost ready to move to the website/prototype now, and I'll ask you to do 
 
 ## Post-Task Interview - 5 minutes
 
-- **On prototype**, if we didn't already capture: 
-  - What are your thoughts the search criteria on the first page of the prototype?
-  - 
+- If extra time - mobile version compare drop down?
+- If session did not cover, be sure to ask:
+  - On the first page of the prototype, did you feel you had the right criteria to search by?
+  - Any feedback on filtering or refining the list of schools?
 - Do you have any other thoughts or feedback you haven't had a chance to share yet?
 - Any questions for me? 
 
