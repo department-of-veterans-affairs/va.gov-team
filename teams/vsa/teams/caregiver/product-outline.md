@@ -82,35 +82,46 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 ## Value Propositions
 
 #### User Value
+ - Users will be able to submit the 1010-CG application online
 
 #### Business Value
+- Start processing applications faster
 
 ## KPIs
+
+- As of January 2020, our KPI definition is still in progress. We're primarily tracking: 
+ - How many applications are submitted
+ - How many applications are submitted online
+ - Qualitative metrics on the application process and overall experience
 
 ---
 
 # Implementation Info
 
 ## Status
+- As of January 2020, we're focused on launching the MVP of the form
 
 ## Solution Narrative
-- **Q1 2020**: Launch form MVP
+- **Future, Q1 2020**: Launch form MVP
+- **Future, Q2 2020**: Start work on redesign of online PFCAC pages
 
 
 ## How to Access and Test
-- Link:
-- Password protection info: g
-- User authentication info:
+- Link:tbd
+- Password protection info: tbd
+- User authentication info: tbd
 
 ## Error Handling
 
 ## Service Level Objective
 
 ## API Calls and Dependent Systems
+ - CARMA backend integration
+ - VA API
 
 ## Resources and Documentation
 
-- Discovery and Research
+- Discovery and Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
 - Technical Documentation
 - Product specs
 - Design
@@ -139,5 +150,7 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 `*` = approval required for launch
 
 ### Screenshots
-#### Before: https://www.va.gov/health-care/forms/vha-10-10CG.pdf, https://www.caregiver.va.gov/
-#### After TBD
+#### Before: 
+https://www.va.gov/health-care/forms/vha-10-10CG.pdf, https://www.caregiver.va.gov/
+#### After:
+TBD
