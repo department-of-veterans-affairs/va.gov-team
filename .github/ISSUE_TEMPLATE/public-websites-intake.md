@@ -10,22 +10,24 @@ assignees: karak888
 # WIP
 
 ### Instructions
-VSA apps teams should submit this intake request when you need support or work that needs to be fulfilled by the Public Website team. The details you provide help us understand what type of assignments and tickets we need to create on our team to help implement your request. 
+VSA apps teams submit this intake request when is needed by the Public Website team. The details you provide help us understand the type of assignments and tickets we need to create on our team to help implement your request. 
 
 __Examples of support we provide can include:__
 - Content support for static public website pages
- -Content support for authenticated application or tools
+- Content support for authenticated application or tools
 - FE engineering implementation of redirects that have first been vetted by the IA team in Platform
 - FE engineering implementation of REACT sign in widgets
 
 
 __When to submit a request__
-Make your request as soon as you're aware you will need public website participation. Different types of requests may require more time in advance. For apps tool content support, try to engage a content person for your project kick-off.
+Make your request as soon as you're aware you will need Public Website participation. Different types of requests may require more time in advance. For apps tool content support, try to engage a content person for your project kick-off.
 
-### Description
+---
+
+### Description of request
 *Detailed description of the request including background information and reason for the request*
 
- 1. Is the request related to a VA.gov tool? If yes provide brief description of the tool or funcitionality: 
+ 1. Is the request related to a VA.gov tool? If yes, provide brief description of the tool or funcitionality: 
  2. Provide a link to product brief or outline: 
  3. Provide a link to wireframes, prototype: 
  4. Provide a link to any user research synthesis:
