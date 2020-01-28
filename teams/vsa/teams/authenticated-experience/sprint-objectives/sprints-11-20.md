@@ -236,9 +236,9 @@ Sprint 13 is 9 days with the MLK Day holiday.
 ### Order of priorities
 
 1. Address validation — QA & bug fixes
-2. Profile 2.0 — Create states for all screens
-3. Profile 2.0 — Form refactoring
-4. Address validation — Documentation/load testing
+2. Profile 2.0 — Create states for all screens; Form refactoring
+3. Address validation — Any other dev work
+4. Maintenance
 
 ### Address validation
 
@@ -265,6 +265,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 - Work on bug fixes and 508 review updates as they come in.
 - Address validation - can't select entered address with validation key #5178
+- Address validation - Still getting validation keys that don't work #5180
 
 #### Other
 
@@ -281,6 +282,10 @@ Design
 Frontend
 - Convert profile phone number form to use SchemaForm #5118
 - Convert profile email address form to use SchemaForm #5121
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- Clean up "dashboard" references in code throughout repo #2270
 
 ## Sprint 15 (2/12 - 2/25)
 
