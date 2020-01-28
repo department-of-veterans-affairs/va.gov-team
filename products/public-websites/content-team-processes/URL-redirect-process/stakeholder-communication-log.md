@@ -17,21 +17,21 @@ www.benefits.va.gov/INSURANCE/getvgli.asp | www.va.gov/life-insurance/options-el
 www.benefits.va.gov/insurance/s-dvi.asp | www.va.gov/life-insurance/options-eligibility/s-dvi/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 01/06/20 | 
 www.benefits.va.gov/insurance/vmli.asp | www.va.gov/life-insurance/options-eligibility/vmli/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 01/06/20 | 
 www.benefits.va.gov/insurance/abo.asp | www.va.gov/life-insurance/totally-disabled-or-terminally-ill/ | Misty Sweet, Sandy Tadeo, Adrianne Hooten | 01/06/20 | 
-www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 |
-www.va.gov/HEALTHBENEFITS/access/seamless_care.asp | www.va.gov/health-care/about-va-health-benefits/where-you-go-for-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 |
-www.va.gov/healthbenefits/cost/index.asp | www.va.gov/health-care/about-va-health-benefits/cost-of-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 |
-www.va.gov/healthbenefits/cost/financial_assessment.asp | www.va.gov/health-care/about-va-health-benefits/cost-of-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/HEALTHBENEFITS/vadip/index.asp | www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance-program | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/cost/copays.asp | www.va.gov/health-care/copay-rates/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/cost/copay_rates.asp | www.va.gov/health-care/copay-rates/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/apply/active_duty.asp | www.va.gov/health-care/eligibility/active-duty/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/apply/returning_servicemembers.asp | www.va.gov/health-care/eligibility/active-duty/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/HEALTHBENEFITS/resources/priority_groups.asp | www.va.gov/health-care/eligibility/priority-groups/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/vhic/index.asp | www.va.gov/health-care/get-health-id-card/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/cost/make_a_payment.asp | www.va.gov/health-care/pay-copay-bill/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/cost/debt.asp | www.va.gov/health-care/pay-copay-bill/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/cost/disputes.asp | www.va.gov/health-care/pay-copay-bill/dispute-charges/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/cost/financialhardship.asp | www.va.gov/health-care/pay-copay-bill/financial-hardship/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
+www.va.gov/HEALTHBENEFITS/access/index.asp | www.va.gov/health-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/HEALTHBENEFITS/access/seamless_care.asp | www.va.gov/health-care/about-va-health-benefits/where-you-go-for-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/index.asp | www.va.gov/health-care/about-va-health-benefits/cost-of-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/financial_assessment.asp | www.va.gov/health-care/about-va-health-benefits/cost-of-care/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/HEALTHBENEFITS/vadip/index.asp | www.va.gov/health-care/about-va-health-benefits/dental-care/dental-insurance-program | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/copays.asp | www.va.gov/health-care/copay-rates/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/copay_rates.asp | www.va.gov/health-care/copay-rates/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/apply/active_duty.asp | www.va.gov/health-care/eligibility/active-duty/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/apply/returning_servicemembers.asp | www.va.gov/health-care/eligibility/active-duty/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/HEALTHBENEFITS/resources/priority_groups.asp | www.va.gov/health-care/eligibility/priority-groups/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/vhic/index.asp | www.va.gov/health-care/get-health-id-card/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/make_a_payment.asp | www.va.gov/health-care/pay-copay-bill/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/debt.asp | www.va.gov/health-care/pay-copay-bill/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/disputes.asp | www.va.gov/health-care/pay-copay-bill/dispute-charges/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
+www.va.gov/healthbenefits/cost/financialhardship.asp | www.va.gov/health-care/pay-copay-bill/financial-hardship/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" on 01/14
 www.cem.va.gov/cem/burial_benefits/eligible.asp | www.va.gov/burials-memorials/eligibility/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 | 
 www.cem.va.gov/cem/Women_and_Minority_Veterans.asp | www.va.gov/burials-memorials/eligibility/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |  
 www.cem.va.gov/cem/burial_benefits/burial_at_sea.asp | www.va.gov/burials-memorials/eligibility/burial-at-sea/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |  
@@ -58,4 +58,4 @@ www.benefits.va.gov/pension/spousepencalc.asp | www.va.gov/pension/survivors-pen
 www.benefits.va.gov/PENSION/resources-contact.asp | www.va.gov/pension/pension-management-centers/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
 www.benefits.va.gov/pension/current_rates_veteran_pen.asp | www.va.gov/pension/veterans-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
 www.benefits.va.gov/pension/current_rates_survivor_pen.asp | www.va.gov/pension/survivors-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
-www.va.gov/healthbenefits/vtp/beneficiary_travel.asp | www.va.gov/health-care/get-reimbursed-for-travel-pay/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 02/06/20 | 
+www.va.gov/healthbenefits/vtp/beneficiary_travel.asp | www.va.gov/health-care/get-reimbursed-for-travel-pay/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 02/06/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" and "vtp"
