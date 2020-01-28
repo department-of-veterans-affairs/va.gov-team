@@ -21,15 +21,19 @@ Do you have any questions before we get started?
 
 **Recording**
 
-We generally record sessions, in case we need to confirm that we have captured your opinions accurately. Are you comfortable if I record the audio and screen movements as we talk today? 
+We generally record sessions, in case we need to confirm that we have captured your opinions accurately. 
+Are you comfortable if I record the audio and screen movements as we talk today? 
 
-Great! I'm going to turn the recording on now.  [When we hear an announcement that it’s started,] 
-I’ll ask again if you are okay if we record the audio, so we have your verbal consent.
-[The meeting host will begin audio and screen recording.]
-Are you comfortable if I record the audio today?
-Thank you. Let’s start with a few warm-up questions 
+Great! I'm going to turn the recording on now.  
+Once it starts, I’ll ask again if you are okay if we record the audio, so we have your verbal consent.
+
+[The meeting host will begin audio and screen recording.][When we hear an announcement that it’s started,] 
+
+Are you comfortable if I record the audio today? Thank you. 
 
 **Warm-up Questions**
+
+Let’s start with a few warm-up questions 
 
 1.	Which Education benefit do you have?
 
@@ -46,15 +50,16 @@ Thank you. Let’s start with a few warm-up questions
 
 Now we're going to shift gears and review a clickable prototype that we’d like to get your feedback on. 
 
-Just so you know, the prototype is a mock-up, rather than a real website.  This means only certain links have been activated and you’ll see pretend data. You’ll not need to enter any data as you go through, in many cases, as soon as you click you'll see an example of what someone might type in the fields.
+Just so you know, the prototype is a mock-up, rather than a real website.  This means only certain links have been activated and you’ll see pretend data in some areas. In many cases, as soon as you click you'll see an example of what someone might type in the fields.  We do this to save you time and eliminate the need to type.
 
 
 **Think Aloud**
 
-While you are going through the site, we ask that you please think aloud and vocalize your thoughts, and decisions as you see each page. We are interested in your first reaction to each page.  
+While you are going through the site, we ask that you please think aloud and vocalize your thoughts, and decisions. 
+We are interested in your first reaction to each page.  
 The more you say about what you are thinking and wondering, the more we’ll learn.  
-If you have questions, it’s likely that many other Veterans will too. 
-This may seem strange at first, but it helps us understand what you are thinking and helps us so much with our research.
+Thinking aloud may seem strange at first, but it helps us understand what aspects of the design work well and where we might want to make improvements to make things even easier.
+If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way.
 
 [Half of participants will complete Scenario 1A and Scenario 2]  
 [Half of participants will complete Scenario 1B and Scenario 2]
@@ -103,9 +108,14 @@ Let's go back to the beginning and start the 2nd scenario
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
   
-This time, you'll be going through as yourself. We'll still pre-fill some of the basic information like addresses with fake data just to make the whole process easier, but we'd like you to answer the questions as you would in real life given your actual educational situation. Let's say you've heard about the STEM Scholarship from a friend.  Using this page, how would you apply for the STEM Scholarship?   
+This time, you'll be going through the screens as someone who is studying exactly what you are studying and who has exactly the same amount of educational benefits remaining as you do. 
+
+Let's say you've heard about the STEM Scholarship from a friend.  Using this page, how would you apply for the STEM Scholarship?   
 
 **General Questions**
+
+Now I'm going to ask a number of questions relate to the scholarship application process.
+
 1. What are your thoughts on the overall process of applying for the STEM Scholarship?
 
 **Wizard Questions**  
