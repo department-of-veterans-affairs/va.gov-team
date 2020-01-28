@@ -27,7 +27,7 @@
 - For example: www.va.gov/form-10-10ez,  va.gov/form-21-526ez
 
 **Breadcrumb** 
-Home > VA form 21-526ez
+Home > VA form 21-526ez *<-- need to determine where this data comes from to formulate the URL and the breadcrumb*
 
 
 ### Navigation/Entry Points <br>
@@ -35,7 +35,9 @@ Home > VA form 21-526ez
 
 No navigational links will be added to these pages, users will access these pages directly through external search and va.gov search.
 
-**User Flows:**  https://app.moqups.com/Rnc4BDEKrA/view/page/a85b476d9
+**User Flows:**  
+
+![va-forms-user-flows](https://user-images.githubusercontent.com/20994159/73305106-155ab500-41df-11ea-9edc-88d63c940399.png)
 
 ### Redirects/Canonical <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
