@@ -69,7 +69,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 -  _"I would do it right there in the urgent care and if it can’t be don’t I would go to CVS, Giant or Wegman’s where I have filled prescriptions before."_
 
 **6. A PDF is a solution, but not the right solution.**
-- Veterans do not actually need the document in order to receive care. Since the document serves as resource for Veterans _and_ providers, there are a few different ways the information could be presented. Participants said they would call the number provided on the PDF if they had questions about their eligibility or the services provided
+- Veterans do not actually need the document in order to receive care. Since the document serves as resource for Veterans _and_ providers, there are a few different ways the information could be presented. 
 - _"Well here’s the thing if you need urgent care. You are not going to read all of this I know I wouldn’t. IF I have a migraine I won’t read this before I see a doctor. It won’t happen."_ 
 - _"I would not wait until I am dying or feeling awful to navigate through 3 pages of paperwork here. I do understand nearly all of it but I would have to slowly go through and ensure that if I have questions someone would be on the other end to help me."_
 
