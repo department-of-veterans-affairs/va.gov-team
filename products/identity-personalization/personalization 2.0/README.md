@@ -65,4 +65,4 @@ As the authenticated experience team, we want to be able to do the following:
 
 ### Combining Profile and Account
 
-- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/Combine%20Profile%20and%20Account/README.md)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/README.md)
