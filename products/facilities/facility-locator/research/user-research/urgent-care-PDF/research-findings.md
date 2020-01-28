@@ -26,6 +26,8 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
   - Are the listings in the facility type dropdown clear?
 - How would Veterans present the PDF when visiting a facility (print/mobile)?
 - Do Veterans know they need to bring the PDF with them to a community care facility?
+- How do Veterans currently fill prescriptions?
+- Will Veterans use the facility locator to find pharmacies?
 
 ## Key Findings
 **1. Veterans want to know *why* they need a PDF.**
@@ -41,11 +43,18 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 **6. A PDF is a solution, but not the right solution.**
 
 ## Details of Findings
-1. Veterans want to know *why* they need a PDF.
-2. Veterans do not know the term "Community Care."
-3. Veterans want to a list of available urgent care providers.
+**1. Veterans want to know _why_ they need a PDF.**
+**2. Veterans do not know the term "Community Care."**
+- "To me it is confusing. If I am sick or in a bind I want the system to tell me which is the closest to me either va or non va."
+**3. Veterans want to view a list of available urgent care providers.**
+  - There was confusion around the "choose service type" dropdown after participants had chosen "Urgent care" as the location type to search by. 
+  - Veterans mentioned that they would want to see a list of _all_ urgent care facilities instead of having them separated.
+  - _"[I]...have the flu [and] can’t drive... I wouldn't care less and just want what is closest to me. So I would think for me I click then go to the facility that can see me today and is closest. "_
+  
 4. Veterans want to clearly and quickly understand their eligibilty for Community Care.
 5. Veterans will visit pharmacies they are familiar with.
+6. A PDF is a solution, but not the right solution.
+  - Veterans do not actually need the document in order to receive care. Since the document serves as resource for Veterans _and_ providers, there are a few different ways the information could be presented. Participants said they would call the number provided on the PDF if they had questions about their eligibility or the services provided
 
 ## Additional Insights
 - Test how Veterans would relate Community Care to their other benefits
