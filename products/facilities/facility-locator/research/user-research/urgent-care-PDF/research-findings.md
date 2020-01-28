@@ -30,17 +30,12 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 - Will Veterans use the facility locator to find pharmacies?
 
 ## Key Findings
-**1. Veterans want to know *why* they need a PDF.**
-
-**2. The term "Community Care" is confusing to Veterans**
-
-**3. Veterans want to view a list of available urgent care providers.**
-
-**4. Veterans want to clearly and quickly understand their eligibilty for Community Care.**
-
-**5. Veterans will visit pharmacies they are familiar with.**
-
-**6. A PDF is a solution, but not the right solution.**
+1. Veterans want to know *why* they need a PDF.
+2. The term "Community Care" is confusing to Veterans
+3. Veterans want to view a list of available urgent care providers.
+4. Veterans want to clearly and quickly understand their eligibilty for Community Care.
+5. Veterans will visit pharmacies they are familiar with.
+6. A PDF is a solution, but not the right solution.
 
 ## Details of Findings
 **1. Veterans want to know _why_ they need a PDF.**
@@ -50,9 +45,10 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 - _"It gives you your liabilities, that’s my impression."_
 - _"It is an instructions document that clarifies the process."_
 - _"You just need this paper to get the prescriptions filled or more or less an eligibility letter for the urgent care doctors."_
--
 
 **2. Veterans do not know the term "Community Care."**
+- Participants did not equate Community Care with Non-VA care and thought they were separate services.
+- _"It doesn’t show anything about non-va but they have community care. If I was looking at it is it va, non-va or urgent care."_
 - _"To me it is confusing. If I am sick or in a bind I want the system to tell me which is the closest to me either va or non va."_
 
 **3. Veterans want to view a list of available urgent care providers.**
@@ -60,8 +56,8 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 - Veterans mentioned that they would want to see a list of _all_ urgent care facilities instead of having them separated.
 - _"[I]...have the flu [and] can’t drive... I wouldn't care less and just want what is closest to me. So I would think for me I click then go to the facility that can see me today and is closest. "_
   
-**4. Veterans want to clearly and quickly understand their eligibilty for Community Care.**
-- jfd; 
+**4. Veterans want to clearly and quickly understand their eligibilty for Community Care (non-VA).**
+- Participants assumed that Community Care would be a secondary option 
 - _One question I have is that is says you do not have an insurance card for the benefit. Does that mean that a veteran does not need a card to get the prescription filled?_
 
 **5. Veterans will visit pharmacies they are familiar with.**
