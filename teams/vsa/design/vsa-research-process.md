@@ -40,6 +40,8 @@ Because of the nature of working Veterans, it is common that they will not show 
 
 To talk to stakeholders or VA employees that are working on the other side of the forms, be sure to work through and cc stakeholders. It’s completely acceptable to casually talk to VA employees about your work as long as they aren’t being paid as research subjects.  
 
+At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.  You need to schedule these sessions, Perigeon will not do that.
+
 ## <a id="pilot-sessions"></a> Pilot / Test Session
 Run a pilot/test session before your study, including Perigean’s team and another designer, so you rehearse process of logging in, get any conversation guide kinks worked out, understand how to hand off mouse controls, have a participant show their screen. VSP and/or Perigean can help schedule the pilot.
 
@@ -90,6 +92,7 @@ The maximum given to you according to our contract to synthesize research is “
 The following process is recommended by the VSA Design Lead:
 1. At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.
 2. Once all the research is done and all debriefs have been conducted, create a [“topline summary”](https://portigal.com/reading-ahead-topline-summary/) that captures key themes discussed coming out of the sessions and debriefs.
+   * An example topline summary can be found [here](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit#heading=h.rmqlo4wmwa6f)
 3. Share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
 Note: Caveat the topline summary by saying that detailed synthesis has not yet been done, so things may change in the final report.
 4. Synthesize your research. 
