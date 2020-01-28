@@ -34,5 +34,6 @@ This option is being recommended as it satisfies immediate web editorial needs a
 
 ## Long Term Enterprise Architectural Vision   
 In 2018, the VA established Lighthouse Lab with the intention to power VA applications via the Lighthouse API. Approach #4 allows us to perform a small proof of concept towards this goal. We can build out a roadmap for the Lighthouse API team to consume all metadata from Drupal, which will allow the VA to create and govern content one time, and publish to a multitude of end client applications. Once data is available in Lighthouse, the va.gov public facing web team can also build out their roadmap to transition components of the site to react pages that retrieve data from the Lighthouse API and, at some point in the future, sunset the static site generation process.    
+
 The other future-thinking component of this approach is around the ingest of all forms data into Drupal. This lays the groundwork for Drupal to become the source of truth for all forms information, possibly with the form files being uploaded directly into Drupal. 
 
