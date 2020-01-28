@@ -13,7 +13,7 @@ Participant 12 is using a phone and a computer.
 
 ### Participant Experience with VA.gov and eBenefits
 - how often have you used EBN?
-  - in the last year or so, it was brought to light to me that a claim I had in 1968.  I had a facial accident and the VA said they didn't owe me anything.  Vietnam was a tough time and most people wanted to put it as far behind them as possible.  We were seen as an albatross.  My insurance said that was a preexisting condition and wouldn't support me.  I went back to the VA and went to 100% within 6 months.
+  - In the last year or so, it was brought to light to me that a claim I had in 1968.  I had a facial accident and the VA said they didn't owe me anything.  Vietnam was a tough time and most people wanted to put it as far behind them as possible.  We were seen as an albatross.  My insurance said that was a preexisting condition and wouldn't support me.  I went back to the VA and went to 100% within 6 months.
   - I use My HealtheVet, DoD, sites like that.
   - As well as eBenefits
   - I will usually just call
@@ -31,7 +31,7 @@ Participant 12 is using a phone and a computer.
   - there are some things that are missing
   - there is a place to see claims and appeals
   
-**Participant has many wonderful and interesting stories.**
+**Participant has many wonderful and interesting stories that took some time.**
   
 - Thank you for your insight and participation.  Have a great day.
   - If you ever want to know the lack of evolution of the VA, go to Tent City in Jefferson Park across from the White House.  I have always had these curiousities and was the only one who read about Vietnam before I went over there.  Thank you.
