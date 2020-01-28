@@ -1,5 +1,5 @@
 # Deprecated. Updated version available [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/onsite-search/README.md)
-# Search Product Outline
+## Search Product Outline
 
 ## Communications
 - GitHub Label: search
