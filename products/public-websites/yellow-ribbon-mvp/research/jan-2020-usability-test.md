@@ -83,7 +83,7 @@ Please list the people who will be serving in each role. **Include the primary p
 
 - Project point of contact:	Liz Lantz
 
-- Participant(s) for pilot test:	**TBD**
+- Participant(s) for pilot test:	Kelson Adams and Nick Sullivan
 
 - Note-takers:	Perigian
 
@@ -106,7 +106,7 @@ Please list the people who will be serving in each role. **Include the primary p
 - Convo Guide	
   https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/jan-2020-conversation-guide.md	
 - Synthesis	
-  *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
+  Observer notes: https://app.mural.co/invitation/mural/vsa8243/1580226997440?sender=lizlantz1528&key=674f2b2a-9e63-43c9-af86-e55e6e6aa6da	
 - Lessons Learned	
   *Did you have any takeaways from the process of this research round that you want the team to remember for the future? Document them here.* 	
 - Read-Out/Results	
