@@ -72,26 +72,29 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 - Caregivers like the idea of having an online portal to access support, resources, and benefit information
 
 ## Solution Approach
-- Prioritize
-- Define
-- Discover
-- Build
-- Validate
-- Evolve
+- Phase 1: Form MVP
+- Phase 2: Webpage MVP
+- Phase 3: Caregiver Portal
+- Continuous: Prioritization, definition, discovery, validation, iteration
+
 
 ## Value Propositions
 
 #### User Value
  - Users will be able to submit the 1010-CG application online
+ - Caregivers will be able to better understand the program
+ - 
 
 #### Business Value
 - Start processing applications faster
+- Fewer rejections
 
 ## KPIs
 
 - As of January 2020, our KPI definition is still in progress. We're primarily tracking: 
  - How many applications are submitted
  - How many applications are submitted online
+ - How many applications are successful vs. unsuccessful
  - Qualitative metrics on the application process and overall experience
 
 ---
@@ -122,10 +125,10 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 ## Resources and Documentation
 
 - Discovery and Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
-- Technical Documentation
+- Technical Documentation: 
 - Product specs
 - Design
-- Roadmap
+- Roadmap: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/OKR_Roadmap_Caregivers.png
 - ATO documentation
 
 ## Keywords
