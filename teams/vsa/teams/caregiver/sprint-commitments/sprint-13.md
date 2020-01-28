@@ -27,5 +27,8 @@
 - Emails to va.gov team members not going through
 - Can we expedite getting va.gov emails for Kevin, Justin
 
-
- - 18 - 28: Kevin PTO
+- Kevin PTO Feb 18 - 28
+- Justin: at a confernce on Monday 2/3, travelling 2/4
+- CC: 1/30, 1/31, 2/3 2/17, 2/18
+- Alayna: 2/3, 2/4, 2/5
+- Jonathan: holding down the fort
