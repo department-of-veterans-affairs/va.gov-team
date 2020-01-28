@@ -1,1 +1,1 @@
-This folder should house general eBenefits research.
+This folder should house general eBenefits research and discovery.
