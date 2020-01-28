@@ -94,7 +94,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/conversation-guide.md)
 
 ### Interview transcripts
-
+[Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/notes)
 
 ### Tools used for Synthesis
 [Mural Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/FL-Urgent-Care-PDF-Mural.pdf)
