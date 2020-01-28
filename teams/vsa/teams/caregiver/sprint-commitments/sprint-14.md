@@ -24,7 +24,12 @@
 - Make changes to protype based on usability studies (5)
 - Collaborate with Front End to build out form (3)
 - Compile and present research summary on usability studies (3)
+- Share findings with Caregiver program team
 
 
 ### Product
 - Refine metrics
+- Layout options on authenication, signatures
+- Path to launch
+- Integation test
+- Share design components with VSP
