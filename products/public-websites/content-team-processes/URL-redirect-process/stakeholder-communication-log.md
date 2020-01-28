@@ -28,8 +28,34 @@ www.va.gov/healthbenefits/apply/active_duty.asp | www.va.gov/health-care/eligibi
 www.va.gov/healthbenefits/apply/returning_servicemembers.asp | www.va.gov/health-care/eligibility/active-duty/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
 www.va.gov/HEALTHBENEFITS/resources/priority_groups.asp | www.va.gov/health-care/eligibility/priority-groups/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
 www.va.gov/healthbenefits/vhic/index.asp | www.va.gov/health-care/get-health-id-card/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
-www.va.gov/healthbenefits/vtp/beneficiary_travel.asp | www.va.gov/health-care/get-reimbursed-for-travel-pay/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
 www.va.gov/healthbenefits/cost/make_a_payment.asp | www.va.gov/health-care/pay-copay-bill/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
 www.va.gov/healthbenefits/cost/debt.asp | www.va.gov/health-care/pay-copay-bill/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
 www.va.gov/healthbenefits/cost/disputes.asp | www.va.gov/health-care/pay-copay-bill/dispute-charges/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
 www.va.gov/healthbenefits/cost/financialhardship.asp | www.va.gov/health-care/pay-copay-bill/financial-hardship/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 01/07/20 | 
+www.cem.va.gov/cem/burial_benefits/eligible.asp | www.va.gov/burials-memorials/eligibility/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 | 
+www.cem.va.gov/cem/Women_and_Minority_Veterans.asp | www.va.gov/burials-memorials/eligibility/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |  
+www.cem.va.gov/cem/burial_benefits/burial_at_sea.asp | www.va.gov/burials-memorials/eligibility/burial-at-sea/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |  
+www.cem.va.gov/cem/burial_benefits/private_cemetery.asp | www.va.gov/burials-memorials/eligibility/burial-in-private-cemetery/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |  
+www.cem.va.gov/cem/burial_benefits/burial_flags.asp | www.va.gov/burials-memorials/memorial-items/burial-flags/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/hmm/index.asp | www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/hmm/eligibility.asp | www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/hmm/order_instructions.asp | www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/hmm/apply_by_fax.asp | www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/hmm/order_by_mail.asp | www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/pmc.asp | www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/pre-need/index.asp | www.va.gov/burials-memorials/pre-need-eligibility/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/CEM/pre-need/FAQ/ | www.va.gov/burials-memorials/pre-need-eligibility/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/burial_benefits/committal_service.asp | www.va.gov/burials-memorials/what-to-expect-at-military-funeral/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+https://www.cem.va.gov/cem/hmm/replacements.asp | www.va.gov/burials-memorials/memorial-items/headstones-markers-medallions/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.cem.va.gov/cem/burial_benefits/need.asp | www.va.gov/burials-memorials/schedule-a-burial/ | James LaPaglia, Brett Lee, Eric Lee | 01/17/20 |   
+www.benefits.va.gov/pension/vetpen.asp | www.va.gov/pension/eligibility/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 | 
+www.benefits.va.gov/pension/wartimeperiod.asp | www.va.gov/pension/eligibility/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/pension/aid_attendance_housebound.asp | www.va.gov/pension/aid-attendance-housebound/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/pension/spousepen.asp | www.va.gov/pension/survivors-pension/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/pension/pencalc.asp | www.va.gov/pension/veterans-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/PENSION/rates.asp | www.va.gov/pension/veterans-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/pension/spousepencalc.asp | www.va.gov/pension/survivors-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/PENSION/resources-contact.asp | www.va.gov/pension/pension-management-centers/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/pension/current_rates_veteran_pen.asp | www.va.gov/pension/veterans-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.benefits.va.gov/pension/current_rates_survivor_pen.asp | www.va.gov/pension/survivors-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
+www.va.gov/healthbenefits/vtp/beneficiary_travel.asp | www.va.gov/health-care/get-reimbursed-for-travel-pay/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 02/06/20 | 
