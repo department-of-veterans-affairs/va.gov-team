@@ -94,12 +94,12 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 ## Status
 
 ## Solution Narrative
-- **Date**: summary of any big changes and why
-- **Date**: summary of any big changes and why
+- **Q1 2020**: Launch form MVP
+
 
 ## How to Access and Test
 - Link:
-- Password protection info:
+- Password protection info: g
 - User authentication info:
 
 ## Error Handling
@@ -139,5 +139,5 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 `*` = approval required for launch
 
 ### Screenshots
-#### Before
-#### After
+#### Before: https://www.va.gov/health-care/forms/vha-10-10CG.pdf, https://www.caregiver.va.gov/
+#### After TBD
