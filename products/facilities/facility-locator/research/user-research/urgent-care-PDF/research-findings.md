@@ -15,7 +15,7 @@ We conducted five moderated usability studies using GoToMeeting.
 
 ### Who we talked to
 
-We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use their VA health benefits, one Veteran utilized their employer's insurance, and one Veteran utlizes TRICARE for Life.
+We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use their VA health benefits, one Veteran utilizes their employer's insurance, and one Veteran utlizes TRICARE for Life.
 
 ### Research Questions
 
@@ -32,7 +32,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 
 **2. The term "Community Care" is confusing to Veterans**
 
-**3. Veterans want to a list of available urgent care providers.**
+**3. Veterans want to view a list of available urgent care providers.**
 
 **4. Veterans want to clearly and quickly understand their eligibilty for Community Care.**
 
@@ -48,13 +48,15 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 5. Veterans will visit pharmacies they are familiar with.
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+- Test how Veterans would relate Community Care to their other benefits
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
 
 ## Next Steps
-Next steps here
+- Document language changes
+- Update urgent care (and other services) user flow
+- Refine the PDF to actual visit user flow
 
 ## Appendix
 ### Conversation guide
