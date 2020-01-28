@@ -106,11 +106,11 @@ As a caregiver, it's difficult to apply for and manage benefits from the Program
 
 ## Solution Narrative
 - **Future, Q1 2020**: Launch form MVP
-- **Future, Q2 2020**: Start work on redesign of online PFCAC pages
-
+- **Future, Q2 2020**: Start on redesign of online PFCAC pages
+- **Future, Q3 2020**: Start work on Caregiver Portal
 
 ## How to Access and Test
-- Link:tbd
+- Link: tbd
 - Password protection info: tbd
 - User authentication info: tbd
 
