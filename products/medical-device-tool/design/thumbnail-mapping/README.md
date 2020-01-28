@@ -52,3 +52,19 @@ For the second iteration, we introduced content page design variations in additi
 
 ### Presenting to DLC
 - After presenting to the BaM2 team, the designers presented the 'Order flow "happy paths"' thumbnail mapping to multiple DLC stakeholders for feedback. The meeting notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200124-DALC-thumbnail-mapping-review.md). 
+
+## Iteration 3 - Sprint 13
+
+In this iteration, our primary focus was on decoupling accessories from specific devices, as that is a set business/technical constraint that was reported to us by the DLC. Another piece of feedback we incorporated was combining mailing and email addresses into the same step of the flow.
+
+### Order flow for individually gated product selection
+
+This version attempts to reduce complexity of the form by introducing progressive disclosure on a product category level. This version poses the problem of adding additional clicks, something our stakeholders have requested we reduce.
+
+![Order flow for individually gated product selection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v3-1.jpg "Iteration Three v1")
+
+### Order flow for group gating
+
+This version attempts to reduce those extra clicks and provide some wiggle room for scalability by creating a product gate near the beginning of the form. If we choose to incorporate future product additions into this form, this may be a good way to go. When selecting multiple products to order, each product group's product selection pages will be shown sequentially until the form is complete.
+
+![Order flow for group gating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v3-2.jpg "Iteration Three v2")
