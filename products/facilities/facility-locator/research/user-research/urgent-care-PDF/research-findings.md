@@ -1,4 +1,4 @@
-# Facility Locator Urgent Care PDF Research Findings 
+# Facility Locator Urgent Care PDF Research Findings (WIP)
 **Digital Services Veterans Affairs (DSVA), VSA, Facility Locator**<br>
 
 Aricka Lewis (aricka@adhocteam.us), 01/27/2020
@@ -91,15 +91,19 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 
 ## Appendix
 ### Conversation guide
+[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/conversation-guide.md)
 
 ### Interview transcripts
 
-### Tools used for Synthesis
-e.g. mural boards, etc.  
 
-### Pages and applications used
-Link to prototypes or pages that were tested
+### Tools used for Synthesis
+[Mural Synthesis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/FL-Urgent-Care-PDF-Mural.pdf)
+
+### Prototype tested
+https://vsateams.invisionapp.com/share/EZVJMETDFTK#/screens/400664662
 
 ### Other supportind documents created
-e.g. user flows, personas, etc.
+- [Language Revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-MVP-Language-Revisions.pdf)
+- [MVP Search Flow & Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-MVP-Search-Flow-Content%20(1).pdf)
+- [Result Card Skeletons](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-MVP-Card-Types%20(1).pdf)
 
