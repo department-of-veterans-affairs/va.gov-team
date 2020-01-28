@@ -1,8 +1,8 @@
 ---
 name: Public Websites Intake Form
-about: about description
-title: Title
-labels: public-websites
+about: To file requests with the VSA Public Websites team e.g. content support or redirects.
+title: [Type of Request] from [Team]
+labels: vsa-public-websites, vsa
 assignees: karak888
 
 ---
