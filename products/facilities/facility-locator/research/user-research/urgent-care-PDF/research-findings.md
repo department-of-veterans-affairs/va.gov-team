@@ -40,7 +40,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 ## Details of Findings
 **1. Veterans want to know _why_ they need a PDF.**
 - Veterans did not know what to expect before downloading the PDF because the alert message does not provide an explanation of the document 
-- Since the document has multiple pages, particpants often did not get the purpose of the document as a whole
+- Generally, Veterans understood that the PDF was meant to help them understand eligibility 
 - _"It is not clear if it is for veterans’ facilities or no-veteran facility or contract facilities. What I see is VA."_
 - _"It gives you your liabilities, that’s my impression."_
 - _"It is an instructions document that clarifies the process."_
@@ -77,12 +77,16 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 - Test how Veterans would relate Community Care to their other benefits
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+- Refine language around Community Care to be more in line with natural language (non-VA) 
+- Bring back quick link to Urgent Care locations
+- Change button to VIEW PDF
+- Provide a link to Community Care description page on VA 
+- Instead of a PDF, show the information as a webpage that can be referenced instead of printed out
+- Show all Urgent care results together instead of classifying by type (VA or Non VA)
 
 ## Next Steps
-- Document language changes
 - Update urgent care (and other services) user flow
-- Refine the PDF to actual visit user flow
+- Refine the PDF to visit user flow
 
 ## Appendix
 ### Conversation guide
