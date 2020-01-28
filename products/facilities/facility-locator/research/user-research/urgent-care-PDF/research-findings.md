@@ -75,18 +75,19 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 
 ## Additional Insights
 - Test how Veterans would relate Community Care to their other benefits
+- Multiple participants expected to get care via the Community Care dropdown instead of Urgent Care
+  - What do Veterans consider urgent?
 
 ## Recommendations
 - Refine language around Community Care to be more in line with natural language (non-VA) 
+- Instead of a PDF, show the information as a webpage that can be referenced instead of printed out
+- Provide a link to Community Care page on VA 
 - Bring back quick link to Urgent Care locations
 - Change button to VIEW PDF
-- Provide a link to Community Care description page on VA 
-- Instead of a PDF, show the information as a webpage that can be referenced instead of printed out
 - Show all Urgent care results together instead of classifying by type (VA or Non VA)
 
 ## Next Steps
-- Update urgent care (and other services) user flow
-- Refine the PDF to visit user flow
+
 
 ## Appendix
 ### Conversation guide
