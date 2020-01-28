@@ -38,6 +38,8 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 
 **5. Veterans will visit pharmacies they are familiar with.**
 
+**6. A PDF is a solution, but not the right solution.**
+
 ## Details of Findings
 1. Veterans want to know *why* they need a PDF.
 2. Veterans do not know the term "Community Care."
