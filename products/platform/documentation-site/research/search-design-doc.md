@@ -70,7 +70,9 @@ _This section should describe any risks related to user data, PII that are added
 - What should the URL of the documentation landing page be? Since we have `design.va.gov`, does something like `docs.va.gov` make sense?
 - What is the current opportunity cost of building a custom solution? What are we choosing to delay right now by building a custom solution?
 - What is the future opportunity cost of maintaining a custom solution? What will we have to delay in the future by maintaining a custom solution?
-- What is the key person risk? How disruptive would it be if the author(s) of the custom solution were unavailable?
+- What is the key person risk? How disruptive would it be if the author(s) of the custom solution were temporarily/permanently unavailable?
+- What is the Not-Invented-Here risk? How likely is that we're reinventing the wheel?
+- What is the inexperience risk? Have any of the team members involved ever built/deployed/maintained this type of system before?
 
 ### Work Estimates
 
