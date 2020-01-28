@@ -92,18 +92,20 @@ The following process is recommended by the VSA Design Lead:
 2. Once all the research is done and all debriefs have been conducted, create a [“topline summary”](https://portigal.com/reading-ahead-topline-summary/) that captures key themes discussed coming out of the sessions and debriefs.
 3. Share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
 Note: Caveat the topline summary by saying that detailed synthesis has not yet been done, so things may change in the final report.
-4. Synthesize your research. You can do this with a modified [affinity mapping](https://generalassemb.ly/design/user-experience-design/affinity-mapping) activity.  
-   *	Create a simple spreadsheet, and pull quotes and behaviors from each participant into the spreadsheet. 
-   *	Code or tag each quote or behavior with relevant categories. 
-   *	Move through each participant and revise codes as more insights coalesce. 
-   *	Here’s an example: [sample of this from my Master’s thesis](https://docs.google.com/spreadsheets/d/1ngx67-7vvVPeIZYgjX8pTP8w0aEED6I1lz_wJY6wR5Q/edit#gid=210944681) 
-   *	You can also do more standard affinity-mapping style synthesis on a Miro or Mural board by putting quotes/behaviors on stickies and grouping them. 
-   *	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
-5. Turn the themes that arise them into a research results document. This should typically be a Github page (markdown file) as well as a presentation in the form of a slide deck. 
-   * The slide deck should be created using our [Google Docs VA template](https://docs.google.com/presentation/d/1jRNuGqSX2FarzPwRn2YZiwIevGcDEO7u7El_ou34LwY/edit#slide=id.p1), and then exported as a PPT and attached to the findings page.
-   * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page. 
-   * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1).
-   * Note the Github page with results should be up 6 business days after your last session.  
+4. Synthesize your research. 
+   * To quickly synthesize, go through all the notes files and recordings files as needed and flesh out your topline summary in the following way:
+      * Grab quotes to support your themes
+      * Make sure you didn't miss any themes in your topline summary
+   * If there is time and it's needed, you can do a modified [affinity mapping](https://generalassemb.ly/design/user-experience-design/affinity-mapping) activity.  
+      *	Create a simple spreadsheet, and pull quotes and behaviors from each participant into the spreadsheet. 
+      *	Code or tag each quote or behavior with relevant categories. 
+      *	Move through each participant and revise codes as more insights coalesce. 
+      *	Here’s an example: [sample of this from my Master’s thesis](https://docs.google.com/spreadsheets/d/1ngx67-7vvVPeIZYgjX8pTP8w0aEED6I1lz_wJY6wR5Q/edit#gid=210944681) 
+      *	You can also do more standard affinity-mapping style synthesis on a Miro or Mural board by putting quotes/behaviors on stickies and grouping them. 
+      *	Here’s another commonly used method called [“the rainbow spreadsheet.”](https://www.smashingmagazine.com/2013/04/rainbow-spreadsheet-collaborative-ux-research-tool/) 
+5. Create your final research results. This should be a Github page (markdown file) as well as a presentation in the form of a slide deck. These should be done 6 business days after your last session. 
+   * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1).(https://docs.google.com/presentation/d/1jRNuGqSX2FarzPwRn2YZiwIevGcDEO7u7El_ou34LwY/edit#slide=id.p1), and then exported as a PPT and attached to the findings page.
+   * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page.   
    * Examples can be found here:
       * [Scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/community-care/urgent-care/research/jun-2019).  
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
