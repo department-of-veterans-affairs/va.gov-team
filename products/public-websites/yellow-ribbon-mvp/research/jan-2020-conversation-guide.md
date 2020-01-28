@@ -105,6 +105,7 @@ We're almost ready to move to the website/prototype now, and I'll ask you to try
 ## Second task: review school results - 5 minutes
 
 - Again, take a look at the content on this page. Don't click on anything just yet.  Tell me what you're looking at, what you can do here.  Think aloud as you look.
+- Can you walk me through each piece of information you see?
 - How would you use the information here to make any decisions about schools you might want to attend?
 - You've heard of a school called Xavier University nearby, and want to see if it offers Yellow Ribbon. How would you find that out?
 - You want to reduce the number of options you have to go through. Show me how would you do that.
@@ -115,8 +116,7 @@ We're almost ready to move to the website/prototype now, and I'll ask you to try
 
 - How does the participant navigate the tables on the current YR page? (Ctrl+f, manual scroll, etc)
 
-- Does the participant experience any confusion or frustration about the information presentation on the page?
-
+- Are the information labels (Funding amount, funding available for, etc) understood by the participant?
 - **Prototype specific** Does the particpant understand what this tool is for?
 
 - Does the participant express any desire for sorting or filtering functionality?
