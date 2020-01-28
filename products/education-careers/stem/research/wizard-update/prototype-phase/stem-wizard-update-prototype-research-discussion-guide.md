@@ -22,14 +22,14 @@ Do you have any questions before we get started?
 **Recording**
 
 We generally record sessions, in case we need to confirm that we have captured your opinions accurately. 
-Are you comfortable if I record the audio and screen movements as we talk today? 
+Are you comfortable if I record the audio and screen movements as we talk? 
 
 Great! I'm going to turn the recording on now.  
-Once it starts, I’ll ask again if you are okay if we record the audio, so we have your verbal consent.
+Once it starts, I’ll ask again if you are okay if we record, so we have your verbal consent.
 
 [The meeting host will begin audio and screen recording.][When we hear an announcement that it’s started,] 
 
-Are you comfortable if I record the audio today? Thank you. 
+Are you comfortable if I record the audio and screen movements today? Thank you. 
 
 **Warm-up Questions**
 
