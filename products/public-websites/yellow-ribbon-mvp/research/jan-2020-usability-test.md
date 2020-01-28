@@ -98,6 +98,8 @@ Please list the people who will be serving in each role. **Include the primary p
   - Anne Hurley ahurley@governmentcio.com
   - Tammy Hurley tammy.hurley1@va.gov
   - Amy Knox knox_amy@bah.com
+  - Tressa Furner tressa.furner@adhocteam.us
+  - Randi Hecht, rhecht@governmentcio.com
 
 ## Resources	
 
