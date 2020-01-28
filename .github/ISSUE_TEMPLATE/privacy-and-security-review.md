@@ -7,7 +7,7 @@ assignees: gunsch
 
 ---
 
-## Steps to complete the Full Accessibility & 508 Audit: 
+## Steps to complete the Privacy & Security Review: 
 - [ ] Using this template, create issue and fill in feature name in the title 
 - [ ] Make sure the issue is assigned to yourself and @gunsch
 - [ ] Reach out to Andrew Gunsch to schedule a 60 minute meeting. 
