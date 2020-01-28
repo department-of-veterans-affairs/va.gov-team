@@ -2,28 +2,29 @@
 
 ## Introduction 
 
-Thanks for joining us today! My name is [NAME]. I also have a number of colleagues on the line.  They’ll be taking notes to ensure that we capture your feedback accurately. 
+Thanks for joining us today! My name is [NAME]. I also have several colleagues on the line.  They’ll be taking notes to ensure that we capture your feedback accurately. 
 
 We work with a team at the VA that designs online forms. 
 
-Today, we'll be reviewing one of the forms that students use to update educational benefits.
+Today, we'll be looking at a form that students use to update their educational benefits.
 
-We are reviewing the form with students in sessions like this to ensure that it's easy to use.
+We're reviewing the form with students in sessions like this to ensure that it's easy to use.
 
-The entire session should take about 45 minutes.
+The entire session should take less than 45 minutes.
 
 Throughout the process, we are interested in hearing your honest opinions. We are in no way testing your knowledge or ability. We just want to hear your ideas and be sure the form meets Veterans’ needs. 
 You are welcome to express any opinions you wish. We welcome your feedback.
 
-If for any reason you want to pause or stop the session, please let me know. 
+If for any reason you want to pause or stop the session, please let me know. I'd be happy to do so.
 
 Do you have any questions before we get started?
 
 **Recording**
 
-Lastly, we generally record sessions, in case we need to confirm that we have captured your opinions accurately. Are you comfortable if I record the audio as we talk today? 
+We generally record sessions, in case we need to confirm that we have captured your opinions accurately. Are you comfortable if I record the audio and screen movements as we talk today? 
 
-Great! I'm going to turn on screen and audio recording now.  When we hear an announcement that it’s started, I’ll ask again if you are okay if we record the audio, so we have your verbal consent.
+Great! I'm going to turn the recording on now.  [When we hear an announcement that it’s started,] 
+I’ll ask again if you are okay if we record the audio, so we have your verbal consent.
 [The meeting host will begin audio and screen recording.]
 Are you comfortable if I record the audio today?
 Thank you. Let’s start with a few warm-up questions 
