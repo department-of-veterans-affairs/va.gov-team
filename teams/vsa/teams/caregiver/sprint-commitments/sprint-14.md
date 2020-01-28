@@ -24,3 +24,7 @@
 - Make changes to protype based on usability studies (5)
 - Collaborate with Front End to build out form (3)
 - Compile and present research summary on usability studies (3)
+
+
+### Product
+- Refine metrics
