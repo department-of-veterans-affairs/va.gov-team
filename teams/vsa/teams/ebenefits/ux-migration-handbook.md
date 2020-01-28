@@ -1,4 +1,4 @@
-`WIP - this docuemnt will be freely evolving`
+`WIP - this document will be freely evolving`
 ## UX Design Notes
 eBenefits Design Team Members will be self-organizing and collabrative. This document intends to codify some of the process as it moves forward through the product portfolio within eBenefits.
 
