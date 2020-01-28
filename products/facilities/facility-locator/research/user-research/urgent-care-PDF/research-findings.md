@@ -44,9 +44,16 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 
 ## Details of Findings
 **1. Veterans want to know _why_ they need a PDF.**
+- Veterans did not know what to expect before downloading the PDF because the alert message does not provide an explanation of the document 
+- Since the document has multiple pages, particpants often did not get the purpose of the document as a whole
+- _"It is not clear if it is for veterans’ facilities or no-veteran facility or contract facilities. What I see is VA."_
+- _"It gives you your liabilities, that’s my impression."_
+- _"It is an instructions document that clarifies the process."_
+- _"You just need this paper to get the prescriptions filled or more or less an eligibility letter for the urgent care doctors."_
+-
 
 **2. Veterans do not know the term "Community Care."**
-- "To me it is confusing. If I am sick or in a bind I want the system to tell me which is the closest to me either va or non va."
+- _"To me it is confusing. If I am sick or in a bind I want the system to tell me which is the closest to me either va or non va."_
 
 **3. Veterans want to view a list of available urgent care providers.**
 - There was confusion around the "choose service type" dropdown after participants had chosen "Urgent care" as the location type to search by. 
@@ -54,11 +61,18 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 - _"[I]...have the flu [and] can’t drive... I wouldn't care less and just want what is closest to me. So I would think for me I click then go to the facility that can see me today and is closest. "_
   
 **4. Veterans want to clearly and quickly understand their eligibilty for Community Care.**
+- jfd; 
+- _One question I have is that is says you do not have an insurance card for the benefit. Does that mean that a veteran does not need a card to get the prescription filled?_
 
 **5. Veterans will visit pharmacies they are familiar with.**
+- Participants assumed that the urgent care facility they visit will likely have a pharmacy attached
+- All participants mentioned that they would go to a pharmacy they've visted before since their information is already available.
+-  _"I would do it right there in the urgent care and if it can’t be don’t I would go to CVS, Giant or Wegman’s where I have filled prescriptions before."_
 
 **6. A PDF is a solution, but not the right solution.**
-  - Veterans do not actually need the document in order to receive care. Since the document serves as resource for Veterans _and_ providers, there are a few different ways the information could be presented. Participants said they would call the number provided on the PDF if they had questions about their eligibility or the services provided
+- Veterans do not actually need the document in order to receive care. Since the document serves as resource for Veterans _and_ providers, there are a few different ways the information could be presented. Participants said they would call the number provided on the PDF if they had questions about their eligibility or the services provided
+- _"Well here’s the thing if you need urgent care. You are not going to read all of this I know I wouldn’t. IF I have a migraine I won’t read this before I see a doctor. It won’t happen."_ 
+- _"I would not wait until I am dying or feeling awful to navigate through 3 pages of paperwork here. I do understand nearly all of it but I would have to slowly go through and ensure that if I have questions someone would be on the other end to help me."_
 
 ## Additional Insights
 - Test how Veterans would relate Community Care to their other benefits
