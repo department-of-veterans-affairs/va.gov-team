@@ -15,14 +15,13 @@ The following list is a set of resources to help you do your work and answer con
     - [Onboarding](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding)
 - Content processes
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
-    - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)
-    - [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) *(Please note: this process is currently under review)*
+    - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)  
     - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
      - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
 - VA.gov content style guides 
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
-     - [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary)
+    - [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary)
     - [Error message style guide](https://design.va.gov/patterns/messaging-error-messages)
     - [VA.gov form label masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels-masterlist.xlsx) 
     - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
@@ -47,6 +46,7 @@ The following list is a set of resources to help you do your work and answer con
     - [UAT process for content migration](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/UAT-process-for-content-migration.md)
 - Historical process: Content team checklists    
 *Please note: Some of the documented lists and processes listed below are evolving or no longer valid as we move from Github to Drupal.*
+    - [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) *(Please note: this process is currently under review)*
     - [Content launch checklist--Historical process](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/new-content-launch.md)
     - [Writing/editing short UX text](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/rewrite-or-edit-short-UX-text.md)
     - [Copy edit checklist](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/copyedit-checklist.md)
