@@ -1,7 +1,7 @@
 ### Kevin
--Implementation plan for CARMA Integration, identify point technical person
-  -Carry-over
-  -5 points  
+- Implementation plan for CARMA Integration, identify point technical person
+  - Carry-over
+  - 5 points  
 - Research veteran verification against MPI
   - A/C: Implementation plan in place
   - 5 points
