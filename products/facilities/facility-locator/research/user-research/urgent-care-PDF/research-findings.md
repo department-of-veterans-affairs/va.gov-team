@@ -47,9 +47,9 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 **2. Veterans do not know the term "Community Care."**
 - "To me it is confusing. If I am sick or in a bind I want the system to tell me which is the closest to me either va or non va."
 **3. Veterans want to view a list of available urgent care providers.**
-  - There was confusion around the "choose service type" dropdown after participants had chosen "Urgent care" as the location type to search by. 
-  - Veterans mentioned that they would want to see a list of _all_ urgent care facilities instead of having them separated.
-  - _"[I]...have the flu [and] can’t drive... I wouldn't care less and just want what is closest to me. So I would think for me I click then go to the facility that can see me today and is closest. "_
+- There was confusion around the "choose service type" dropdown after participants had chosen "Urgent care" as the location type to search by. 
+- Veterans mentioned that they would want to see a list of _all_ urgent care facilities instead of having them separated.
+- _"[I]...have the flu [and] can’t drive... I wouldn't care less and just want what is closest to me. So I would think for me I click then go to the facility that can see me today and is closest. "_
   
 4. Veterans want to clearly and quickly understand their eligibilty for Community Care.
 5. Veterans will visit pharmacies they are familiar with.
