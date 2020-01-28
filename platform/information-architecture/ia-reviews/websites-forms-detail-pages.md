@@ -5,11 +5,12 @@
 **Product/Featue:** Forms Detail Pages
 
 **Background/Context:**
-- These pages will provide a SEO landing page for core form number searches.  This is a redesign of existing legacy landing pages. The top forms/online tools will be customized/high-touch while all others will be dynamically generated content via an API. 
+<br>These pages will provide a SEO landing page for core form number searches.  This is a redesign of existing legacy landing pages. The top forms/online tools will be customized/high-touch while all others will be dynamically generated content via an API. 
 
 **Review Date:** 
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/3836
+
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
