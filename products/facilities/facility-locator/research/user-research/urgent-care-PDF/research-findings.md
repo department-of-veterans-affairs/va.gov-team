@@ -48,6 +48,8 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 
 **2. Veterans do not know the term "Community Care."**
 - Participants did not equate Community Care with Non-VA care and thought they were separate services.
+- Some Veterans did not know that Community care was available under the Urgent Care location type
+- _"I would start with the community care in network. If it could help me I would go there if I could not be supported I would go to urgent care"_
 - _"It doesn’t show anything about non-va but they have community care. If I was looking at it is it va, non-va or urgent care."_
 - _"To me it is confusing. If I am sick or in a bind I want the system to tell me which is the closest to me either va or non va."_
 
@@ -58,7 +60,8 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
   
 **4. Veterans want to clearly and quickly understand their eligibilty for Community Care (non-VA).**
 - Participants assumed that Community Care would be a secondary option 
-- _One question I have is that is says you do not have an insurance card for the benefit. Does that mean that a veteran does not need a card to get the prescription filled?_
+- Participants mentioned they would call the number provided on the PDF to get questions answered regarding their eligibility
+- _"One question I have is that is says you do not have an insurance card for the benefit. Does that mean that a veteran does not need a card to get the prescription filled?"_
 
 **5. Veterans will visit pharmacies they are familiar with.**
 - Participants assumed that the urgent care facility they visit will likely have a pharmacy attached
