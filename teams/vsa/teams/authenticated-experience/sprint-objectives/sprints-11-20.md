@@ -257,11 +257,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 **Samara**
 
-- Help manage the QA process
-  - Review QA test plan 
-  - Pay attention to bug tickets that come in, and give direction/guidance as necessary for fixes. 
-  - Triage tickets
-  - As tickets/fixes go out, validate user-facing fixes in staging.
+- Help manage the QA process #5209
  
  **Brad/Erik**
 
