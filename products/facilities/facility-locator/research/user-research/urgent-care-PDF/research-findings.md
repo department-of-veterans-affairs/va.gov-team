@@ -87,7 +87,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 - Show all Urgent care results together instead of classifying by type (VA or Non VA)
 
 ## Next Steps
-
+- Align on approach for urgent care since PDF content will now be a webpage provided by OCC
 
 ## Appendix
 ### Conversation guide
