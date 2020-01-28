@@ -113,10 +113,12 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
   - It can't handle complex real-time queries and filtering
 - We don't know yet what types of criteria Veteran students will want to filter on
 - GIDS API 
-  - does not have sorting functionality
-  - does not have ability to search based on a `city, state` combination
-  - when searching by school name, the API looks at the name, city, and employer. If you pass a separate city value at the time time, the city is not applied to the results
-  - can filter YR schools ONLY by `name` or ONLY by `city`
+  - Does not have sorting functionality.
+  - When searching by school name, the API looks at the name, city, and employer.
+  - Can filter YR schools ONLY by `name OR city` or ONLY by `city`.
+  - Unclear where we derive `Program or school` from on the search result model.
+  - Unclear how degree levels map since they can either be strings or numbers.
+  - Unclear if we should use `tuitionInState` or `tuitionOutState` for max benefit $.
 
 ## Discovery Takeaways
 
