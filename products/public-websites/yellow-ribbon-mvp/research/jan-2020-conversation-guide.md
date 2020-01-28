@@ -16,18 +16,8 @@
 
 ### Project-specific setup
 
-**For first participant group**
-
 - [ ] Start at va.gov
 - [ ] Begin screen sharing
-
-**For second participant group**
-
-- [ ] Open the prototype in a new tab (https://vsateams.invisionapp.com/share/X5VOMBG2YP4)
-
-- [ ] Begin screen sharing
-
-  
 
 ## Intro - 5 minutes
 
@@ -98,7 +88,7 @@ We're almost ready to move to the website/prototype now, and I'll ask you to try
 - ***Once on Yellow Ribbon benefit hub page***: Take a look at the content on this page.  I'm interested in your impressions of this page. Tell me what you think it is for, what you can do here.  You can scroll up and down, but don't click on anything just yet. Please think out loud as you look around.
   - You're interested in finding participating schools you might want to attend. Show me how you would do this.  Again, please think aloud as you go through this.
   - **For prototype:** 
-    - Since we're gathering feedback on a prototype, this page isn't linked directly to it. I'm going to send you a link via the chat now.
+    - Since we're gathering feedback on a prototype, this page isn't linked directly to it. I'm going to send you a link via the chat now. https://vsateams.invisionapp.com/share/X5VOMBG2YP4
     - Now take a look at the content on this page; again, I'm interested in your feedback so please think aloud.  Tell me what you think this page is for, and what you can do here.
     - Show me how you'd find participating schools you might want to attend from here.
 
@@ -191,10 +181,3 @@ Thanks! Lastly, do you know any other Veterans, caregivers, or service members w
     If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
 
 Great, well thank you so much again, and enjoy the rest of your day!
-
-## Sample Conversation Guides _(note: these links point to resources in the vets.gov-team GitHub repo)_
-
-- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
-- [Veteran ID Card Discovery Interview](
-
-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
