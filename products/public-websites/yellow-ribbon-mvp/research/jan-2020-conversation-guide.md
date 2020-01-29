@@ -170,6 +170,7 @@ We're almost ready to move to the website/prototype now, and I'll ask you to try
 - If session did not cover, be sure to ask:
   - On the first page of the prototype, did you feel you had the right criteria to search by?
   - Any feedback on filtering or refining the list of schools?
+- I'm going to take a moment to check and see if our observers have any follow up questions.
 - Do you have any other thoughts or feedback you haven't had a chance to share yet?
 - Any questions for me? 
 
