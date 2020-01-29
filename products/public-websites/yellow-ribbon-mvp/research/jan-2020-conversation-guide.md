@@ -43,54 +43,85 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### For participants who have already used the Yellow Ribbon benefit:
 
-- I understand you've used your education benefits, which is great. Are you currently in school?
+- I understand you've used your VA Yellow Ribbon benefit, which is great. Are you currently in school?
+
 - Where are/did you going to school, and what degree?
-- I'd love to hear about your research and decision process once you knew you wanted to go to school.
-  - What stage of your military service were you in when you decided to go to school?
-  - How many schools did you apply to?
-  - What information was important to you as you narrowed down your school choices? 
-  - Why did you ultimately choose [that school], and area of study?
-  - I understand you've used the Yellow Ribbon benefit. Tell me how that benefit works.
-  - How did Yellow Ribbon benefits play into your decision?
-  - What specific methods did you use to research schools, and your VA education benefits?
+
+- How did you decide you wanted to go to school?
+
+- What stage of your military service were you in when you made that decision?
+
+- Do you remember how many schools you applied to?
+
+- What specific methods did you use to research schools?
+
+- What information was important to you as you narrowed down your school choices? 
+
+- Why did you ultimately choose [that school], and area of study?
+
+- Let's talk a bit about education benefits.  I know you've used Yellow Ribbon; have you received any other education benefits? 
+
+- Tell me about the role education benefits played in your decision making process.
+
+- How did you first learn which VA education benefits were available to you?
+
+- How Yellow Ribbon fit into making a decision about applying or attending schools?
+
+- What specific methods did you use to research VA education benefits?
+
+- Were there any parts of the researxh process that were particurlarly confusing? If so, how did you get clarification?
+
+- Can you tell me how the Yellow Ribbon benefit works?
+
+  
 
 ### For participants who are in the process of researching their education benefits:
 
-- I understand you're considering going to school, and using your VA education benefits. That's great! Where are you in that process?
+- I understand you're considering going to school. That's great! Where are you in that process?
 - Do you know what you want to study?
-- I'd love to hear about your research and decision process so far.
-  - What stage of your military service were you in when you decided to go to school?
-  - How many schools are you planning on applying to?
-  - What information is most important to you as you decide which schools to apply to?
-  - How have you done your research on schools so far? 
-  - How about research on the education benefits available to you?
-  - Have you encountered anything that made it harder, or easier, to do this research?
-  - Are you familiar with the Yellow Ribbon benefit? *(**see note below**)* 
-    - *If yes:* Tell me how it works.
-    - *If no*: Are you familiar with any education benefits you can get through the VA?
-      * If not, may need to 
-  - How does it fit into your decision making process?
+- How did you decide you wanted to go to school?
+- What stage of your military service were you in when you decided to go to school?
+- Any idea how many schools you might be interested in applying to?
+- What information is most important to you as you make decisions about schools?
+- How have you done your research on schools so far? 
+- Let's talk about education benefits specifically. Can you tell me what kinds of education benefits you have available to you?
+- How did you learn about those benefits?  
+- What kind of research have you done to learn more?
+- What has made it harder, or easier for you to understand the benefits you have?
+- Our session will focus on the Yellow Ribbon benefit, specifically. What can you tell me about how the Yellow Ribbon benefit works? *(**see note below**)* 
+  - *If familiar:* Tell me how it works.
+  - *If not*: How about any other VA education benefits?
+    * If not, may need to give succinict description of what YR is
+- How do these benefits fit into your decision making process as you evaluate schools?
 
-***If participants aren't familiar with any education benefits, give succinct description of what Yellow Ribbon program benefits are, and skip next section***
-
-###For participants with benefit familiarity:
-
-- How did you first learn what VA education benefits were available to you, and how Yellow Ribbon fit into those benefits?
-- Were there any parts of the process that were particurlarly confusing? If so, how did you get clarification?
-- Imagine I don't know anything about VA benefits. Can you tell me how the Yellow Ribbon program works?
-
-We're almost ready to move to the website/prototype now, and I'll ask you to try some things related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you tell me where you would typically conduct this type of research?
+We're almost ready to move to the website now, and I'll ask you to try some things related to finding schools and understanding Yellow Ribbon benefits. Before we jump in, can you describe where you would normally be when you do this type of research?
 
 
 ## First task: find relevant Yellow Ribbon schools - 8 minutes
 
-- Go to va.gov.  You're interested in finding out about Yellow Ribbon program benefits. How would you find that information from here?
+- Go to va.gov.  Are you familiar with this page? Tell me what you think this is for, and what you can do here.
+
+- Show me how you'd find information about Yellow Ribbon benefits from here.
+
 - ***Once on Yellow Ribbon benefit hub page***: Take a look at the content on this page.  I'm interested in your impressions of this page. Tell me what you think it is for, what you can do here.  You can scroll up and down, but don't click on anything just yet. Please think out loud as you look around.
-  - You're interested in finding participating schools you might want to attend. Show me how you would do this.  Again, please think aloud as you go through this.
+
+  - Where would you learn about specific schools from this page?
+
+  - **For current site:**
+
+    - Now you click -  go ahead and find some specific schools you might be interested in attending. Again, please think aloud as you go through this.
+
   - **For prototype:** 
-    - Since we're gathering feedback on a prototype, this page isn't linked directly to it. I'm going to send you a link via the chat now. https://vsateams.invisionapp.com/share/X5VOMBG2YP4
-    - Now take a look at the content on this page; again, I'm interested in your feedback so please think aloud.  Tell me what you think this page is for, and what you can do here.
-    - Show me how you'd find participating schools you might want to attend from here.
+
+    - What I want to get your feedback on now is a prototype, so it's not linked from this page. I'm going to send you a link via the chat now. https://vsateams.invisionapp.com/share/X5VOMBG2YP4
+
+    - Now take a look at the content on this page; again, I'm interested in your feedback so please think aloud.  Don't click just yet. Tell me what you think this page is for, and what you can do here
+
+    - Talk me through how you'd find participating schools you might want to attend from here.
+
+    - Go ahead and click, and find them.
+
+      
 
 ### Things to watch for:
 
@@ -117,6 +148,7 @@ We're almost ready to move to the website/prototype now, and I'll ask you to try
 - How does the participant navigate the tables on the current YR page? (Ctrl+f, manual scroll, etc)
 
 - Are the information labels (Funding amount, funding available for, etc) understood by the participant?
+
 - **Prototype specific** Does the particpant understand what this tool is for?
 
 - Does the participant express any desire for sorting or filtering functionality?
@@ -166,7 +198,7 @@ We're almost ready to move to the website/prototype now, and I'll ask you to try
 
 ## Post-Task Interview - 5 minutes
 
-- If extra time - mobile version compare drop down?
+- **If extra time, for prototype participants**: mobile version compare drop down: https://vsateams.invisionapp.com/share/XBVON0YMJ4Y#/screens/401478155
 - If session did not cover, be sure to ask:
   - On the first page of the prototype, did you feel you had the right criteria to search by?
   - Any feedback on filtering or refining the list of schools?
