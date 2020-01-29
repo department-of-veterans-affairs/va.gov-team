@@ -165,32 +165,45 @@ Based on this research, the team recommends the following changes to improve the
 
 ## Next Steps
 **Present findings to the Caregiver team**
-Share out insights with team (1/30/20). Get input and insights on recommendations. 
+
+- Share out insights with team (1/30/20). Get input and insights on recommendations. 
+
 **Regroup with content to address both legalese vs plain language**
-Brainstorming session set for Friday to set path forward around content. 
+
+- Brainstorming session set for Friday to set path forward around content. 
+
 **Make changes to design based on usability findings and content feedback**
-Use recommendations to guide designs moving forward 
+
+- Use recommendations to guide designs moving forward 
 
 
 ## Appendix
 ### Conversation guide 
+
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/conversation-guide.md
 ### Interview transcripts
+
 https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/notes
 
 ### Tools used for Synthesis
 Mural: 
+
 https://app.mural.co/t/vsa8243/m/vsa8243/1578506602233/ce8af79d34e12eec5c6c176e3a43cb30858addb1
 
-Google Docs (Top line summary): https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit#heading=h.rmqlo4wmwa6f
+Google Docs (Top line summary):
+
+https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit#heading=h.rmqlo4wmwa6f
 
 Google Sheets
+
 https://docs.google.com/spreadsheets/d/1AWqwpb6cV4dsRA_FK63CgWxU_v6sK-01cQhAi2kFKW4/edit#gid=0
  
 
 ### Pages and applications used
 Pages tested: 
+
 www.va.gov 
 Prototypes tested: 
+
 https://vsateams.invisionapp.com/share/G2VL3SAN8XB
 
