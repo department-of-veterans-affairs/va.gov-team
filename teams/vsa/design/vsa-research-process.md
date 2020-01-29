@@ -79,6 +79,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
    * At the end of your session, take a look at the feedback backchannel and see if anyone brought up questions that you can address with your participant
 * A [Mural template](https://app.mural.co/template/0e63994b-bce9-4b53-8e37-b5293a2b4dac/20381d25-a5d5-4457-9893-eeb2e9cb6ff4) is available to help observers take notes during your sessions.
+  * This board is intended for only any observers in the session, not the moderator or official note taker.
   * The template has a section for each participant, and within the participant section, you can create a section for each task. 
   * Share the mural board with your team, a day in advance of starting any sessions. Ask them to write any observations they have on the mural board.  Usually there are maybe 1-2 people who will be actively writing things, and that’s okay.  
   * [Example mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1578506602233/ce8af79d34e12eec5c6c176e3a43cb30858addb1)
@@ -96,7 +97,7 @@ The maximum given to you according to our contract to synthesize research is “
 The following process is recommended by the VSA Design Lead:
 1. At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.
     * On the right side of the Mural template, there is a Top Observation section, which is handy during the debrief sessions.  A benefit of this is team cohesion and getting folks interested in the research
-    * Use To Observations to discuss "what is top of mind about participant X" with your observers? No need to get a super thorough synthesis, just what sticks out based on what we heard. 
+    * Use the Top Observation section to capture what your observers feel sticks out from each session. There is no need to get a thorough synthesis at this stage.
 2. Once all the research is done and all debriefs have been conducted, create a [“topline summary”](https://portigal.com/reading-ahead-topline-summary/) that captures key themes discussed coming out of the sessions and debriefs.
    * An example topline summary can be found [here](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit#heading=h.rmqlo4wmwa6f)
 3. Share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
