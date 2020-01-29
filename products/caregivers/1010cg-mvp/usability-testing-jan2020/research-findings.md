@@ -156,28 +156,41 @@ Yes.  This was a concern that we address in the #3 in the above section.
 Based on this research, the team recommends the following changes to improve the Caregiver 10-10 CG user experience:
 
 - Display Veteran and caregiver eligibility and requirements in plain language on the introduction page (in one place)
- - Must be transparent if program now applies to pre-911 veterans (if so, which Veterans) 
+  - Must be transparent if program now applies to pre-911 veterans (if so, which Veterans) 
 - Provide visuals of eligibility and next steps (e.g. subway map) - Look at location and content within
 - Clearly define in plain language who a primary and secondary caregiver are on the introduction page and reinforce throughout the form.
 - Redesign the “Add a secondary caregiver” question on form 
 - Enable the user to enter the medical center information confidently and correctly by redesigning components/fields
 - Ensure user feels comfortable entering the social security information 
 
-
-
 ## Next Steps
-Next steps here
+**Present findings to the Caregiver team**
+Share out insights with team (1/30/20). Get input and insights on recommendations. 
+**Regroup with content to address both legalese vs plain language**
+Brainstorming session set for Friday to set path forward around content. 
+**Make changes to design based on usability findings and content feedback**
+Use recommendations to guide designs moving forward 
+
 
 ## Appendix
-### Conversation guide
-
+### Conversation guide 
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/conversation-guide.md
 ### Interview transcripts
+https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/notes
 
 ### Tools used for Synthesis
-e.g. mural boards, etc.  
+Mural: 
+https://app.mural.co/t/vsa8243/m/vsa8243/1578506602233/ce8af79d34e12eec5c6c176e3a43cb30858addb1
+
+Google Docs (Top line summary): https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit#heading=h.rmqlo4wmwa6f
+
+Google Sheets
+https://docs.google.com/spreadsheets/d/1AWqwpb6cV4dsRA_FK63CgWxU_v6sK-01cQhAi2kFKW4/edit#gid=0
+ 
 
 ### Pages and applications used
-Link to prototypes or pages that were tested
+Pages tested: 
+www.va.gov 
+Prototypes tested: 
+https://vsateams.invisionapp.com/share/G2VL3SAN8XB
 
-### Other supportind documents created
-e.g. user flows, personas, etc.
