@@ -7,8 +7,10 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 ## Research Goals 
 
 The VA’s Caregiver program enables caregivers and Veterans to receive benefits from the VA. To date, the Caregiver program has focused on post-911 Veterans. The Mission Act calls for the expansion of this program to all eras of Veterans and an IT system to be built in order to support the expansion of the program.
+
 The internal system (CARMA) requires the manual input of paper applications (form 1010-CG). When the Caregiver program expands, the paper process will not scale.
 The Caregiver team is developing an MVP to move the 1010-CG online. We tested initial designs to make sure we're on the right track prior to pushing to production.
+
 The goals of this usability study were to:
 Determine whether or not our MVP prototype of the 10-10CG form is usable and easy to navigate for Veterans and caregivers
 Determine whether the caregiver/Veteran have a clear/realistic understanding of requirements and expectations once form is submitted (next steps).
