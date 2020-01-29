@@ -11,7 +11,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ----
 ## Sprint 13 (1/15 - 1/28)
 ```diff 
-- 51 points over 14 issues
+- 56 points over 18 issues
 ```
 ### 1. Continue Developing "View/Update Dependents" 
 - Design: Mock out remaining Dependents workflows
