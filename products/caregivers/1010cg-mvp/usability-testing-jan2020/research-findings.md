@@ -33,7 +33,14 @@ Prior to the study, we hypothesized that users will be able to navigate through 
  
 ## Research Methodology 
 
-Description of method chosen
+A task-based usability study was conducted remotely with Zoom between January 16 - January 21, 2020. 
+A remote moderator began with introduction questions and prompt users with guiding questions (from the conversation guide). Participants were encouraged to talk through their exploration of the InVision prototype. Remote observers and note takers were also in attendance. 
+
+The research assessed the forms ability to support users on three main tasks: 
+1. Determining preferred location for Caregiver application in regards to IA
+2. Would the participant know the eligibility requirements and other thoughts on the introduction page? 
+3. Ability of a user to fill out the form smoothly and without hiccups. 
+
 
 ### Who we talked to
 
