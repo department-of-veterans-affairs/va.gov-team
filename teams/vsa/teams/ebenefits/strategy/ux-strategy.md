@@ -38,6 +38,7 @@ _Document our understanding of the feature as it currently exists and how it fit
 - [ ] **Product**: Write user stories for existing application features
 - [ ] **Product**: Write product documentation as a README file in the feature repo root, with known metrics and stakeholders
 - [ ] :file_folder: Create customer journey or workflow diagram of existing application
+- [ ] Research the forms(s) upon which the application is based
 - [ ] :file_folder: Create a markdown document with initial impressions, design hypotheses, and simple field research/ competitive analysis 
 - [ ] Schedule and run an initial **design intent review** with the Design Practice to review the user stories for existing patterns and strategies
 
