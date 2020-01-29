@@ -12,21 +12,21 @@
 
 ### Objective
 
-Search multiple documentation sources from a single, public entrypoint.
+Run our own instance of [Algolia's DocSearch](https://community.algolia.com/docsearch/what-is-docsearch.html) on a custom landing page.
 
 ### Background
 
-The documentation we have is spread across many different locations (public repos, private repos, GitHub pages, handbooks, etc). There currently is not a way for VFS/VSP users to search all of the documentation sources with a single query.
+The documentation we have is spread across many different locations (public repos, private repos, GitHub pages, handbooks, etc). There currently isn't a way for VFS/VSP users to search multiple documentation sources with a single query.
 
 ### High Level Design
 
-We are adding a public landing page that will contain a form where users can search multiple, public documentation sources with a single query.
+We are adding a public landing page that will contain a search input where users can search multiple sources of documentation with one query.
 
 ## Specifics
 
 ### Detailed Design
 
-We are adding a public landing page (on a custom domain, if possible) that will contain a search input. That search input will query multiple, public documentation sources with one query.
+We are adding a public landing page that will contain the [DocSearch frontend library](https://github.com/algolia/docsearch), and running our own instance of the [`docsearch-scraper`](https://github.com/algolia/docsearch-scraper) to extract content from our documentation sources and push it to an Algolia index.
 
 A successful implementation will have these components.
 
@@ -34,13 +34,9 @@ A successful implementation will have these components.
 1. Index/Database - We need a place to store the records that will be returned to the user.
 1. Crawler/Scraper - We need a crawler to frequently scan our documentation sources for additions/deletions/modifications.
 
-We do not currently have an index of our target documentation sources. And we do not currently have infrastructure to crawl our target documentation sources to build said index.
-
-Algolia appears to be the leader when it comes to searching documentation.
-
 ### Code Location
 
-_The path of the source code in the repository._
+The code will live in a new repo (tentatively titled something like `docs-landing-page`).
 
 ### Testing Plan
 
@@ -52,7 +48,7 @@ _How you will verify the behavior of your system. Once the system is written, th
 
 ### Logging
 
-By logging the term(s) that users are querying, we could theoretically identify trends to help increase the quality of our search results.
+Algolia includes analytics, such as ["Most popular searches and results most often returned by the search engine."](https://www.algolia.com/products/analytics/?tab=popular)
 
 ### Debugging
 
@@ -63,8 +59,6 @@ _How users can debug interactions with your system. When designing a system it's
 - Access Control: By making the documentation landing page public, it becomes difficult, if not impossible, to allow an unauthenticated user to search documentation from private sources (like a private Github repo). One suggestion is that search results lead to public documentation sources, and we include links to private documentation in the public sources. That way, we can rely on existing access control solutions, while still providing a decent solution. One of the major downsides of that approach is auditing, adding, updating, and maintaining links to/from the public and private sources.
 
 ### Security Concerns
-
-The search input would need to be sanitized.
 
 If the search input dispatched a request directly to the Algolia API, then there'd be minimal risk of the documentation search negatively affecting other systems. If the request was proxied through our API, then we should be able to rely on any existing DOS protections.
 
@@ -93,24 +87,28 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 - I estimate one week because I suspect we'll either need to get approval to use Algolia's hosted API or get approval to provision a custom data store.
 
 1. Configure crawler to seed the initial data store. - 2 days
-1. Run the crawler to populate the data store. - 1 day
-1. Build a landing page that will contain a search input that submits requests to the Search API. - 1 day
-1. Deploy the landing page to a publicly available location. - 1 day
+1. Run the crawler to populate the data store. - 2 day
+1. Build a landing page that will contain a search input that submits requests to the Search API. - 2 day
+1. Deploy the landing page to a publicly available location. - 2 day
 
-- I estimate this may take longer if we need to need to coordinate with DevOps.
+- I estimate this may take longer if we need to need to coordinate with other teams.
 
 ### Alternatives
 
-#### Ready-made solutions
+#### Ready-made alternatives
 
 - [Slab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/technology-discovery.md#slab) supports multi-repo search, but was considered too expensive (about \$24k/year for the current number of users in the #general channel of the DSVA Slack workspace).
 - [GitBook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/technology-discovery.md#gitbook) includes a decent search feature, but it unfortunately only searches a single repo at a time. It doesn't support multi-repo/organization search, and didn't appear to be customizable.
 
-#### Open source solutions
+#### Open source alternatives
 
-#### Custom solutions
+- Open source crawler: https://github.com/internetarchive/heritrix3
+- Open source document search engine with automated crawling, OCR, tagging and instant full-text search: https://ambar.cloud/
+- Open source search engine: Elasticsearch
 
-- Continue iterating on existing Gatsby site.
+#### Custom alternatives
+
+- Continue iterating on existing [Gatsby site](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/).
 
 ### Future Work
 
