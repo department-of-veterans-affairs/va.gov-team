@@ -14,7 +14,7 @@ Title: `Request ForeSee Comment Card for [your application]`
 |-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Description     | Provide a high-level description of the functionality for which you're requesting this review                                                                            |
 | Launch Date     | Summary or link to launch plans; launch date                                                                                                                             |
-| Staging URL     | Staging URLs to test                                                                                                                                                     |
+| Staging URLs     | Staging URLs to test                                                                                                                                                     |
 | Production URLs | Exact URLs that will house the comment card If the comment card should appear across multiple URLs (i.e. any URL that includes VA.gov/healthcare), please note that here |
 
 With the following labels:
