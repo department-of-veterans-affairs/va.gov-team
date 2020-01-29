@@ -1,7 +1,7 @@
 # Requesting the ForeSee Comment Card
 
 ## Background
-ForeSee is the current survey tool that tracks user sentiment on VA.gov. Currently, the survey is pushed out to track sentiment for the entirety of VA.gov. To track product specific sentiment, a pilot 5 star comment card is in place that can track 1-5 star sentiment using a floating site badge. 
+ForeSee is the current survey tool that tracks user sentiment on VA.gov. Currently, the survey tracks sentiment for the entirety of VA.gov. To track product specific sentiment, a pilot 5 star comment card is in place that can track 1-5 star sentiment using a floating site badge. 
 
 Medallia, the Veteran Experience Office CX tool, ([see here for more details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/medallia-implementation-rollout.md)) will replace ForeSee in 2020 and will provide more product specific feedback.
 
