@@ -88,7 +88,16 @@ The research assessed the forms ability to support users on three main tasks:
 9. Some users noted positive features of the paper form.
 
 ## Details of Findings
-6 out of the 9 participants managed to navigate to a caregiver landing page, using either the search box, the VA benefits and health care dropdown, or the family member benefits link. A few users were not able to locate without prompting from moderator and were stuck on the cards/blue background on va.gov. 
+1. 6 out of the 9 participants managed to navigate to a caregiver landing page, using either the search box, the VA benefits and health care dropdown, or the family member benefits link. A few users were not able to locate without prompting from moderator and were stuck on the cards/blue background on va.gov. One user stated, “I'm going to go into the search box and I'm typing ‘caregiver program.’ Oh, I got it right away.”
+
+2. Participants were able to navigate the online form easily, understood the user path, and understood how to fill out most fields. The form was logical for users and they were familiar with the overall flow of the form. One participant stated, 
+“It looks nicely set up...I really liked the form...I feel like it’s much faster when you do it online. I like that you can print out the confirmation at the end. There wasn’t really anything confusing on there for me.” Another user added, “Well, I’ll just add that the form for the caregivers was excellent...that one was. I’m an American Legion commander so I’ll pass it on to my post.” 
+
+3. Participants did have questions around the secondary caregiver definitions and requirements. Many participants were confused by this section. Participants were uncertain who was, and was not, a secondary caregiver (who qualified) as many users had individuals supporting them. Questions around, “is it someone else who also is taking care of the vet, but not as much as me?” surfaced. One participant said, “ We have four children in the home and my mother lives with us to take care of the children because i take care of my husband. I know I’m the primary caregiver but would my grandmother be a secondary caregiver? I would need to go revisit this secondary caregiver.” 
+
+A couple participants were confused if they were “supposed” to enter a secondary caregiver and if it was required. This caused a roadblock in form completion. One user said, "Oh, this part is required, to add a secondary?"  
+
+One participant, who attempted to add a secondary caregiver during the study would not know the secondary caregiver’s social security number, and was uncertain how they would get the secondary caregiver’s signature (as they don’t live together). The user would not feel comfortable signing for the secondary caregiver. This would add complication into the process of adding a secondary caregiver and completing form.
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
