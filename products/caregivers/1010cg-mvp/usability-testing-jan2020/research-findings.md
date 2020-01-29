@@ -134,6 +134,24 @@ Users preferred the online form for these reasons:
 
 - Participants understood the Signature Boxes at the end of the form. Many wanted to review the application, and seemed to understand the “accordion” interaction and were comfortable clicking the box and entering in the names of the Veteran and caregiver (see 7 under Key Findings). 
 
+
+**Results of hypotheses
+
+Users will be able to navigate through the form relatively easily, but may have issues with the following clearly understanding when they’re entering veteran information versus caregiver information. 
+
+People understood this w/out an issue.
+
+Understanding whether or not the caregiver actually qualifies for this benefit
+Was this true? 
+
+Yes, there were some issues with this (see in #4 in the above section.
+
+Understanding what a secondary caregiver is, and if they should care about that
+Was this true?
+
+Yes.  This was a concern that we address in the #3 in the above section.
+
+
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
 
