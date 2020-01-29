@@ -117,7 +117,7 @@ Note: Caveat the topline summary by saying that detailed synthesis has not yet b
    * Templates have been created for VSA for both the [github file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/research-findings-template.md) and the [presentation deck](https://docs.google.com/presentation/d/1IuycCke--2jL16sMNxtIYvnFku2JmQUzB_15V-9hdqU/edit#slide=id.p1).(https://docs.google.com/presentation/d/1jRNuGqSX2FarzPwRn2YZiwIevGcDEO7u7El_ou34LwY/edit#slide=id.p1), and then exported as a PPT and attached to the findings page.
    * Preferred format is to have your results and/or presentation list the “Top 10 insights” from the study, then dig into those insights in the next slides/sections. This allows stakeholders to quickly grasp the findings without reading the whole deck/page.   
    * Examples can be found here:
-      * [Scroll down to the “resources” section here] (https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/community-care/urgent-care/research/jun-2019).  
+      * [Scroll down to the “resources” section here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/community-care/urgent-care/research/jun-2019).  
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/ds-logon/research/research_brief.md
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/community-care/urgent-care/research/jun-2019/findings.md
       * https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/hca-2.0/research/user-testing/dashboard-updates/research-summary.md
