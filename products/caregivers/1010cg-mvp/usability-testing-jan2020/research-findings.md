@@ -45,15 +45,15 @@ The research assessed the forms ability to support users on three main tasks:
 ### Who we talked to
 
 - 7 Caregivers
-2 Veterans
-Geographically diverse (IN, GA, FL, TX, WI, VA, OH)
-7 women; 2 men
-Ages of our participants ranged from 25 to 74 
-2 participants under 35
-2  participants 35 - 44
-2 participants 45 - 54
-2  participants 55 - 64
-1  participant over 65
+- 2 Veterans
+- Geographically diverse (IN, GA, FL, TX, WI, VA, OH)
+- 7 women; 2 men
+- Ages of our participants ranged from 25 to 74 
+- 2 participants under 35
+- 2  participants 35 - 44
+- 2 participants 45 - 54
+- 2  participants 55 - 64
+- 1  participant over 65
 
 
 ### Research Questions
