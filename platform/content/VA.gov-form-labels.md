@@ -4,15 +4,31 @@ Below is a resource to categorized standardized form labels that appear across a
 
 
 
-| Form section                                   | Plain-language label/question | Nested label/question | Form notes | another header? |
+| **Form section**                                   | **Plain-language label/question** | **Nested label/question** | **Form notes** | another header? |
 |----------------------------------------------|----------|----------|--------------------------------|------------------------------------|
-| Applicant information               | Your first name    |      |                               |
-| Applicant information               | Your middle name   |      |                               |
-| Applicant information               | Your first name    |      |                               |
-| Applicant information               | Your last name     |      |                               |
-| Applicant information               | Suffix      |      |                               |
-| Applicant information               | Mother's maiden name    |      |                               |
-| Applicant information               | Your date of birth     |      |                               |
-| Applicant information               | Your place of birth   |      |                               |
-| Applicant information               | Social Security number   |      |                               |
-| Applicant information               | VA file number    |      |                               |
+| **Applicant information**               | Your first name    |      |                               |
+|                                         | Your middle name   |      |                               |
+|                                         | Your first name    |      |                               |
+|                                         | Your last name     |      |                               |
+|                                         | Suffix      |      |                               |
+|                                         | Mother's maiden name    |      |                               |
+|                                         | Your date of birth     |      |                               |
+|                                         | Your place of birth   |      |                               |
+|                                         | Social Security number   |      |                               |
+|                                         | VA file number    |      |                               |
+|                                         | Which categories best describe you? 
+   | Spanish, Hispanic, Latino, American Indian or Alaskan Native, Black or African American, Native Hawaiian or Other Pacific Islander, Asian, White     |                               |
+|                                         | Gender    |      |                               |
+|                  |     |      |                               |
+| **Contact information**               | Address    |  Country, Street, Line 2, Line 3, City, State, Postal code    |                               |
+|                                        | Email address               |      |   |
+|                                        | Re-enter email address  |      |   |
+|                                        | Primary email address  |      | Pension only  |
+|                                        | Secondary email address|      | Pension only  |
+|                                        | Home phone number    |      |   |
+|                                        | Mobile phone number   |      |   |
+|                                        | If you want to update your contact information for all your VA accounts, please go to your profile page.
+  |      |   |
+| Contact information               | Gender    |      |   |
+| Contact information               | Gender    |      |   |
+| Contact information               | Gender    |      |   |
