@@ -240,7 +240,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 1. Address validation — QA & bug fixes
 2. Profile 2.0 — Create states for all screens; Form refactoring
 3. Address validation — Any other dev work
-4. Maintenance
+4. Maintenance & documentation
 
 ### Address validation
 
@@ -289,6 +289,10 @@ Frontend
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 - Clean up "dashboard" references in code throughout repo #2270
+- [BE] Direct Deposit: Review product outline and update if needed #5251
+- [FE] Direct Deposit: Review product outline and update if needed #5252
+- [BE] Address validation: Review product outline and update if needed #5254
+- [FE] Address validation: Review product outline and update if needed #5256
 
 ## Sprint 15 (2/12 - 2/25)
 
