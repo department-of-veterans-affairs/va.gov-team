@@ -48,19 +48,44 @@ The research assessed the forms ability to support users on three main tasks:
 - 2 Veterans
 - Geographically diverse (IN, GA, FL, TX, WI, VA, OH)
 - Ages of our participants ranged from 25 to 74 
- - 2 participants under 35
- - 2  participants 35 - 44
- - 2 participants 45 - 54
- - 2  participants 55 - 64
- - 1  participant over 65
+  - 2 participants under 35
+  - 2  participants 35 - 44
+  - 2 participants 45 - 54
+  - 2  participants 55 - 64
+  - 1  participant over 65
 
 
 ### Research Questions
 
-Research questions here
+- Where is the best place to have this form in the IA? 
+- Where would users want to find it?
+- Are users able to navigate through the form easily and without hiccups?
+- Is information displayed in a clear and understandable manner (text/components)?
+- Do users understand how to fill in each field?
+- Do users have a sense of where they are in the site and within user path?
+- Do applicants understand requirements and are next steps transparent?
+- What do users think will happen after they’ve submitted the form?
+- What do users want to happen after submitting the form?
+
 
 ## Key Findings
-List top findings here
+1. 6 out of the 9 participants managed to navigate to a caregiver landing page, using either the search box, the VA benefits and health care dropdown, or the family member benefits link. 
+
+2. Participants were able to navigate the online form easily, understood the user path, and understood how to fill out most fields.
+
+3. Participants had questions around the secondary caregiver definitions and requirements.
+
+4. The “name of medical center” field caused difficulty for some users. 
+
+5. A few participants expressed hesitation entering social security numbers for the Veteran and caregiver.
+
+6. Users said they understood the requirements after reading the form, but with further questioning there were still questions surrounding eligibility requirements and next steps in the process.
+
+7. For the most part, Caregivers filled out the form and would not ask their Veteran to fill out the Veteran portion of the form.
+
+8. Most participants preferred the online form. 
+
+9. Some users noted positive features of the paper form.
 
 ## Details of Findings
 List details of each finding in top findings here, with supporting quotes when possible.
