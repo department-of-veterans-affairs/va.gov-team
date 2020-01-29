@@ -14,7 +14,7 @@ Based on initial research, develop mockups that reflect, at a minimum, the base 
   - Design Intent Review
   - Revise
   - Staging
-  - Usability Study; needs
+  - Usability Study, needs:
     - Research Plan and Conversation Guide
 
 ## Engineering: 3-4 Sprints
