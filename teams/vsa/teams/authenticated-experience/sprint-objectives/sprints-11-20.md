@@ -240,6 +240,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 1. Address validation — QA & bug fixes
 2. Profile 2.0 — Create states for all screens; Form refactoring
 3. Maintenance & documentation
+4. (If time) Profile 2.0 — Copy updates
 
 ### Address validation
 
@@ -279,7 +280,7 @@ Design
   - Direct deposit #5266
   - Account security #5268
   - Connected accounts #5269
-- Update copy for Profile 2.0 #5093
+- (Stretch goal) Update copy for Profile 2.0 #5093
 
 Frontend
 - Convert profile phone number form to use SchemaForm #5118
