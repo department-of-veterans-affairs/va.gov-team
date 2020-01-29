@@ -153,7 +153,17 @@ Yes.  This was a concern that we address in the #3 in the above section.
 
 
 ## Recommendations
-Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
+Based on this research, the team recommends the following changes to improve the Caregiver 10-10 CG user experience:
+
+- Display Veteran and caregiver eligibility and requirements in plain language on the introduction page (in one place)
+ - Must be transparent if program now applies to pre-911 veterans (if so, which Veterans) 
+- Provide visuals of eligibility and next steps (e.g. subway map) - Look at location and content within
+- Clearly define in plain language who a primary and secondary caregiver are on the introduction page and reinforce throughout the form.
+- Redesign the “Add a secondary caregiver” question on form 
+- Enable the user to enter the medical center information confidently and correctly by redesigning components/fields
+- Ensure user feels comfortable entering the social security information 
+
+
 
 ## Next Steps
 Next steps here
