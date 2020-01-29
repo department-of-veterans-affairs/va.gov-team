@@ -113,7 +113,7 @@ The research assessed the forms ability to support users on three main tasks:
 
 8. Most participants preferred the online form. However, some users noted positive features from the paper form. 
 
-   Users preferred the online form for these reasons: 
+   **Users preferred the online form for these reasons:**
 
 - Many users noted the positives to being able to save information if they were distracted or did not know certain information. One participant said, “I would sign in because I would want to know I can save and come back to it in case I have questions or something.”  
 
