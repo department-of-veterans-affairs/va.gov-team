@@ -17,7 +17,7 @@ Determine whether the caregiver/Veteran have a clear/realistic understanding of 
 
 The research questions we wanted to address were:
 
--Where is the best place to have this form in the IA? Where would users want to find it?
+- Where is the best place to have this form in the IA? Where would users want to find it?
 -Are users able to navigate through the form easily and without hiccups?
 
 Is information displayed in a clear and understandable manner (text/components)?
