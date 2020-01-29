@@ -116,10 +116,18 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                       | Are you receiving military retired pay? |      |   |
 |                                       | Expected income |  Any income you didn't already report in this form that you expect to receive in the next 12 months   |   |
 |                                       | Which type of VA compensation do you currently receive?  |      |   |
-|                                       | Amount paid |      |   |
-|                                       | Amount paid |      |   |
-|                                       | Amount paid |      |   |
-
+|**Health care information**            | Are you eligible for Medicaid? |      |   |
+|                                       | Are you enrolled in Medicare Part A (hospital insurance)?|      |   |
+|                                       | Are you covered by health insurance? (Including coverage through a spouse or another person)|      |   |
+|                                       | Provider name |      |   |
+|                                       | Policyholder's name|      |   |
+|                                       | Policy number (either this or the group code is required)|      |   |
+|                                       | Group code (either this or policy number is required)|      |   |
+|                                       | I'm enrolling to get minimum essential coverage under the Affordable Care Act|      |   |
+|                                       | Please choose your preferred VA medical facility|      |   |
+|                                       | Do you want VA to contact you to schedule your first appointment?|      |   |
+| **Education information**             | Which benefit are you currently using or have you used most recently? |      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
 |
 
 
