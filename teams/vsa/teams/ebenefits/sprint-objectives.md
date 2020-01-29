@@ -21,6 +21,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Backend: Draft plan for integrating with BGS VNP services (i.e. review eBenefits code and create plan for implementing in vets-api) ([#5279](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5279))
 
 ### 2. Launch View Rated Disabilities
+([#5195](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5195), [#5196](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5196), [#5197](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5197), [#5198](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5198), [#5199](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5199))
 
 ### 3. Stretch Goals
 - Frontend: Develop seamless Drupal+vets-website UAT solution (collab between Nick Sullivan and Jesse)
