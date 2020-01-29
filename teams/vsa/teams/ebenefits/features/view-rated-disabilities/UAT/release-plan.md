@@ -1,5 +1,5 @@
 # Release Plan 
-[Template](#)
+[Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
