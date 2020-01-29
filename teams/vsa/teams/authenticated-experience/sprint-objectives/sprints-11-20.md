@@ -275,6 +275,11 @@ Sprint 13 is 9 days with the MLK Day holiday.
 Design
 - Design review #5061
 - Put together all screens for all states #5092
+  - Contact information #5264
+  - Military information #5265
+  - Direct deposit #5266
+  - Account security #5268
+  - Connected accounts #5269
 - Update copy for Profile 2.0 #5093
 
 Frontend
