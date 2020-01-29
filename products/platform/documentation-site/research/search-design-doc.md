@@ -1,4 +1,4 @@
-# Global Documentation Search
+# Documentation Search MVP
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 
@@ -32,7 +32,8 @@ A successful implementation will have these components.
 
 1. Page with Input Textbox - We need a public page with a search input where users can input their search term(s).
 1. Index/Database - We need a place to store the records that will be returned to the user.
-1. Crawler/Scraper - We need a crawler to frequently scan our documentation sources for additions/deletions/modifications.
+1. Crawler/Scraper - We need a crawler to scan our documentation sources and push data to our index.
+1. Cron job - We need a cron job to run the crawler at a reasonable interval (e.g. every 24 hours)
 
 ### Code Location
 
@@ -40,11 +41,39 @@ The code will live in a new repo (tentatively titled something like `docs-landin
 
 ### Testing Plan
 
-_How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
+#### Environments
 
-#### Testing the search input
+For an MVP, I'm not certain it's necessary to have different environments for the search input and the scraper.
 
-#### Testing the crawler
+##### Testing the scraper
+
+###### New records should appear in index after a crawl
+
+1. Search for term that returns zero results
+1. Add document that contains term
+1. Run crawler
+1. Search for recently added term
+1. Assert that term is in index
+
+###### Old records should disappear from index after a crawl
+
+1. Search for term that exists in index
+1. Remove document that contains term from index
+1. Run crawler
+1. Search for recently deleted term
+1. Assert that term isn't in index
+
+###### Records should reflect edits after a crawl
+
+1. Search for record that exists in index
+1. Edit document
+1. Run crawler
+1. Search for recently edited record
+1. Assert that record reflects recent edit
+
+##### Testing the search functionality
+
+Once we have records in our Algolia index and the DocSearch frontend library on a page, we should be able to test the search functionality the same way the end user would use it.
 
 ### Logging
 
@@ -52,7 +81,13 @@ Algolia includes analytics, such as ["Most popular searches and results most oft
 
 ### Debugging
 
-_How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
+The Docker image for the scraper is available on [Docker Hub](https://hub.docker.com/r/algolia/docsearch-scraper). Once we have a config file, we can [run the scraper locally](https://community.algolia.com/docsearch/run-your-own.html#run-the-crawl-from-the-docker-image).
+
+#### Debugging the scraper
+
+#### Debugging the search functionality
+
+We could search for the same term in both the Algolia UI and the landing page to confirm if they both return the same results.
 
 ### Caveats
 
@@ -105,6 +140,7 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 - Open source crawler: https://github.com/internetarchive/heritrix3
 - Open source document search engine with automated crawling, OCR, tagging and instant full-text search: https://ambar.cloud/
 - Open source search engine: Elasticsearch
+  - Configuring/deploying/maintaining our own Elasticsearch instance would likely be more expensive and less robust than using Algolia's Search API
 
 #### Custom alternatives
 
