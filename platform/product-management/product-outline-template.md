@@ -35,24 +35,17 @@
 ## Undesireed Business Outcomes
 
 ## Assumptions
-
-## Questions
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
 
 ## Solution Approach
 
-- *What are you going to build now and why have you decided to start there?
-- *Why this approach over other approaches?*
-- *How will the solution evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
-
-## Value Propositions
+- *What are you going to build now, and why have you decided to start there?*
+- *Why this solution / approach over other solutions / approaches?*
+- *What have you explicitly decided to not include in this initial set of functionality, and why?*
+- *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
 ## KPIs
-
-## Current Phase Requirements
-
-#### In Current Scope
-
-#### Out of Current Scope
+- *What data (qual or quant) will you look at to understand if your initial set of functionality is meeting your desired user and business outcomes, and not bringing about the undesired outcomes?*
 
 ---
 
