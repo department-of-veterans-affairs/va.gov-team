@@ -88,6 +88,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 
 ## Next Steps
 - Align on approach for urgent care since PDF content will now be a webpage provided by OCC
+- Explore "service first" based search experience
 
 ## Appendix
 ### Conversation guide
@@ -103,6 +104,7 @@ We conducted the study with Veterans ranging from age 35-74. 3/5 Veterans use th
 https://vsateams.invisionapp.com/share/EZVJMETDFTK#/screens/400664662
 
 ### Other supporting documents created
+- [Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/Facility%20Locator%20Urgent%20Care%20%26%20PDF%20Topline%20Summary.pdf)
 - [Language Revisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-MVP-Language-Revisions.pdf)
 - [MVP Search Flow & Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-MVP-Search-Flow-Content%20(1).pdf)
 - [Result Card Skeletons](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-MVP-Card-Types%20(1).pdf)
