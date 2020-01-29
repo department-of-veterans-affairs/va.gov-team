@@ -57,12 +57,14 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 ### Business Goals
 
 - Increase efficiency of Dependent update request processing
+- Reduce administrative burden on processors by consolidating common requests into one univesal form
 - Increase accuracy and integrity of stored data by reducing translation/ transposition cycles
 - Reduce mail costs by establishing all-online feedback cycles
 - Reduce staffing costs by reducing the number of employees needed to process paper forms
 
 ## Assumptions
 
+- Product will use modern 686c form as opposed to the 2014 form contained in EBN workflows
 - Product will use existing prefill integrations to pre-populate known information
 - Product will use new (to us) BGS endpoints as EVSS is being deprecated
 - We will submit a request for endpoints to be developed on BIP
