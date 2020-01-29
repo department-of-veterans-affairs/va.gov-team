@@ -19,15 +19,20 @@
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
-## User Goals
+## Desired User Outcomes
 
 - *Why would a user want to use this?*
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
 
-## Business Goals
+## Undesired User Outcomes
+
+
+## Desireed Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+
+## Undesireed Business Outcomes
 
 ## Assumptions
 
