@@ -2,7 +2,7 @@
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 
-**Last Updated:** 2020-01-23
+**Last Updated:** 2020-01-29
 
 **Status:** **Draft**
 
@@ -111,7 +111,7 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 
 #### Custom solutions
 
-- Continue iterating on existing Gatsby site
+- Continue iterating on existing Gatsby site.
 
 ### Future Work
 
