@@ -6,29 +6,37 @@
 
 **Status:** **Draft**
 
-**Approvers:** Andrew G., Megan K.
+**Approvers:** Andrew G., Megan K., Rian F., DevOps
 
 ## Overview
 
 ### Objective
 
-We want to implement a landing page where VFS/VSP team members can search multiple documentation sources from a single entrypoint.
+Search multiple documentation sources from a single, public entrypoint.
 
 ### Background
 
-The documentation we have is spread across many different locations (public repos, private repos, GitHub pages, etc). There currently is not a way for VFS/VSP users to search all of the documentation sources with a single query.
+The documentation we have is spread across many different locations (public repos, private repos, GitHub pages, handbooks, etc). There currently is not a way for VFS/VSP users to search all of the documentation sources with a single query.
 
 ### High Level Design
 
-We are adding a landing page that will contain a form where users can search multiple documentation sources in one location.
+We are adding a public landing page that will contain a form where users can search multiple, public documentation sources with a single query.
 
 ## Specifics
 
 ### Detailed Design
 
-_Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
+We are adding a public landing page (on a custom domain, if possible) that will contain a search input. That search input will query multiple, public documentation sources with one query.
 
-_This is a great place to put APIs, communication protocols, file formats, and the like._
+A successful implementation will have these components.
+
+1. Page with Input Textbox - We need a public page with a search input where users can input their search term(s).
+1. Index/Database - We need a place to store the records that will be returned to the user.
+1. Crawler/Scraper - We need a crawler to frequently scan our documentation sources for additions/deletions/modifications.
+
+We do not currently have an index of our target documentation sources. And we do not currently have infrastructure to crawl our target documentation sources to build said index.
+
+Algolia appears to be the leader when it comes to searching documentation.
 
 _It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
 
@@ -42,6 +50,10 @@ _The path of the source code in the repository._
 
 _How you will verify the behavior of your system. Once the system is written, this section should be updated to reflect the current state of testing and future aspirations._
 
+#### Testing the search input
+
+#### Testing the crawler
+
 ### Logging
 
 By logging the term(s) that users are querying, we could theoretically identify trends to help increase the quality of our search results.
@@ -52,15 +64,19 @@ _How users can debug interactions with your system. When designing a system it's
 
 ### Caveats
 
-- Access Control: By making the documentation landing page public, it becomes difficult to impossible to allow an unauthenticated user to search documentation from private sources (like a private Github repo). One suggestion is that search results lead to public documentation sources, and we include links to private documentation in the public sources. That way, we can rely on existing access control solutions, while still providing a decent solution. One of the major downsides of that approach is auditing, adding, updating, and maintaining links to/from the public and private sources.
+- Access Control: By making the documentation landing page public, it becomes difficult, if not impossible, to allow an unauthenticated user to search documentation from private sources (like a private Github repo). One suggestion is that search results lead to public documentation sources, and we include links to private documentation in the public sources. That way, we can rely on existing access control solutions, while still providing a decent solution. One of the major downsides of that approach is auditing, adding, updating, and maintaining links to/from the public and private sources.
 
 ### Security Concerns
 
-_This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
+The search input would need to be sanitized.
+
+If the search input dispatched a request directly to the Algolia API, then there'd be minimal risk of the documentation search negatively affecting other systems. If the request was proxied through our API, then we should be able to rely on any existing DOS protections.
 
 ### Privacy Concerns
 
-_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
+Since the initial implementation will be an unauthenticated landing page, we will have little, if any, data about the user.
+
+While there shouldn't be any PII in our public documentation sources, it is possible it exists, and hasn't been discovered yet. Therefore, it is possible that our search results could lead public users to sources that contain PII.
 
 ### Open Questions and Risks
 
@@ -93,7 +109,7 @@ _Split the work into milestones that can be delivered, put them in the order tha
 
 ### Future Work
 
-_Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
+- Ability to search private documentation sources
 
 ### Revision History
 
