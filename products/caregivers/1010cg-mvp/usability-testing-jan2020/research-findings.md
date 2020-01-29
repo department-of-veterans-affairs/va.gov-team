@@ -14,14 +14,23 @@ The Caregiver team is developing an MVP to move the 1010-CG online. We tested in
 The goals of this usability study were to:
 Determine whether or not our MVP prototype of the 10-10CG form is usable and easy to navigate for Veterans and caregivers
 Determine whether the caregiver/Veteran have a clear/realistic understanding of requirements and expectations once form is submitted (next steps).
+
 The research questions we wanted to address were:
+
 Where is the best place to have this form in the IA? Where would users want to find it?
+
 Are users able to navigate through the form easily and without hiccups?
+
 Is information displayed in a clear and understandable manner (text/components)?
+
 Do users understand how to fill in each field?
+
 Do users have a sense of where they are in the site and within user path?
+
 Do applicants understand requirements and are next steps transparent?
+
 What do users think will happen after they’ve submitted the form?
+
 What do users want to happen after submitting the form?
 
 ## Research Methodology 
