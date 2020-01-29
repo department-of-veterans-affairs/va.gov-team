@@ -26,6 +26,11 @@ The research questions we wanted to address were:
 - What do users think will happen after they’ve submitted the form?
 - What do users want to happen after submitting the form?
 
+Prior to the study, we hypothesized that users will be able to navigate through the form relatively easily, but may have issues with the following:
+- Clearly understanding when they’re entering veteran information versus caregiver information
+- Understanding whether or not the caregiver actually qualifies for this benefit
+- Understanding what a secondary caregiver is, and if they should care about that
+ 
 ## Research Methodology 
 
 Description of method chosen
