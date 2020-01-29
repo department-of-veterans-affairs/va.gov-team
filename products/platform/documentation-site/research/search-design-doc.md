@@ -85,17 +85,27 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 - What is the key person risk? How disruptive would it be if the author(s) of the custom solution were temporarily/permanently unavailable?
 - What is the Not-Invented-Here risk? How likely is that we're reinventing the wheel?
 - What is the inexperience risk? Have any of the team members involved ever built/deployed/maintained this type of system before?
+- It's possible that work estimates are materially inaccurate.
 
 ### Work Estimates
 
-_Split the work into milestones that can be delivered, put them in the order that you think they should be done, and estimate roughly how much time you expect it each milestone to take. Ideally each milestone will take one week or less._
+1. Provision and configure data store to house records that will be returned from the Search API. - 1 week
+
+- I estimate one week because I suspect we'll either need to get approval to use Algolia's hosted API or get approval to provision a custom data store.
+
+1. Configure crawler to seed the initial data store. - 2 days
+1. Run the crawler to populate the data store. - 1 day
+1. Build a landing page that will contain a search input that submits requests to the Search API. - 1 day
+1. Deploy the landing page to a publicly available location. - 1 day
+
+- I estimate this may take longer if we need to need to coordinate with DevOps.
 
 ### Alternatives
 
 #### Ready-made solutions
 
-- Slab
-- GitBook
+- [Slab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/technology-discovery.md#slab) supports multi-repo search, but was considered too expensive (about \$24k/year for the current number of users in the #general channel of the DSVA Slack workspace).
+- [GitBook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/technology-discovery.md#gitbook) includes a decent search feature, but it unfortunately only searches a single repo at a time. It doesn't support multi-repo/organization search, and didn't appear to be customizable.
 
 #### Open source solutions
 
