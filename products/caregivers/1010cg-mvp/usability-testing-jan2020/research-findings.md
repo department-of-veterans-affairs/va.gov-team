@@ -1,7 +1,7 @@
 # Caregiver 10-10CG Usability Study
 **Digital Services Veterans Affairs (DSVA), VSA, Caregiver**<br>
 
-Designer 1 (email), Designer 2 (email), MM/DD/YYYY
+Jonathan Nelson (jonathan.nelson@adhocteam.us), Shawna Hein (shawna.hein@adhocteam.us), 01/28/2020
 
 View the [Research Plan](link here).
 ## Research Goals 
