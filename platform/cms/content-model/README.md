@@ -1,4 +1,6 @@
-# Changelog 
+# Content model changelog 
+
+Dashed lines and circles represent work that is not in production VA.gov CMS.
 
 ## January 28 2020
 
