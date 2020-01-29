@@ -68,3 +68,20 @@ This version attempts to reduce complexity of the form by introducing progressiv
 This version attempts to reduce those extra clicks and provide some wiggle room for scalability by creating a product gate near the beginning of the form. If we choose to incorporate future product additions into this form, this may be a good way to go. When selecting multiple products to order, each product group's product selection pages will be shown sequentially until the form is complete.
 
 ![Order flow for group gating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v3-2.jpg "Iteration Three v2")
+
+## Outcomes and Feedback
+For the second iteration, we introduced content page design variations in addition to the updated thumbnail mapping flows.  
+
+### Presenting to the BAM2 team:
+
+The design team presented the third iteration of the order flows to the BaM2 team for feedback. 
+
+**Key takeaways:**
+- The team erred on the side of the first version due to limited product offerings and more 'conversational' flow
+- The team decided that more 'catalogue-like' functionality present in the second version can be explored further when a greater catalogue is being built.
+- The edge case of a user having only rechargeable hearing aids on their profile was raised, which will be accounted for in a future design ticket.
+
+### Presenting to DLC
+
+- 
+
