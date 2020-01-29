@@ -22,7 +22,6 @@ This option is being recommended as it satisfies immediate web editorial needs a
 
 ## Work Breakdown
 ### CMS Team
-- Creation of a new content type by CMS team
 - Development of ingest process of forms data for CMS team (migration)
 
 ### Lighthouse API Team
@@ -30,6 +29,7 @@ This option is being recommended as it satisfies immediate web editorial needs a
 - Create API endpoint to expose Content API metadata to client applications
 
 ### Web Team
+- Creation of a new content type
 - Modify forms react component to consume all metadata from the Lighthouse JSON API
 
 ## Long Term Enterprise Architectural Vision   
