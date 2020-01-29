@@ -9,6 +9,19 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - Measure outcomes where possible
 - Remember the Call Center
 ----
+## Sprint 14 (1/29 - 2/11)
+### 1. Continue Developing "Submit 686c Dependency Claims"
+- Design: Finish Dependents workflows
+- Design: Schedule and run user research session on current design, focus on validating "workflow" entrance theories
+- Frontend: Scaffold new FE app and stub out 1-2 workflows
+- Backend & Frontend: Finish View Dependents in lowers (pull real data from BGS unless blocked)
+- Backend: Draft plan for integrating with BGS VNP services (i.e. review eBenefits code and create plan for implementing in vets-api)
+
+### 2. Launch View Rated Disabilities
+
+### 3. Stretch Goals
+- Frontend: Develop seamless Drupal+vets-website UAT solution (collab between Nick Sullivan and Jesse)
+
 ## Sprint 13 (1/15 - 1/28)
 ```diff 
 - 56 points over 18 issues
