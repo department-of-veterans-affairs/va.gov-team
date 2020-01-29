@@ -3,6 +3,7 @@
 ```
 
 # Milestones
+This is meant to help estimate the amount of time it might take for a full migration cycle to take.  There are some elements of this process that might happen concurrently, and some might take longer than others.  This is meant to be a living doc based on the current environment.
 
 ## Research: 2-3 Sprints
 Define the core features as they currently exist
@@ -18,6 +19,7 @@ Based on initial research, develop mockups that reflect, at a minimum, the base 
 
 ## Engineering: 3-4 Sprints
 Implement what Design has established
+Connect FE to BE
 
 ## Content/IA: 1 Sprint
   - Initial Content Review 
