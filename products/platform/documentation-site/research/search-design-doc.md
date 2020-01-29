@@ -70,8 +70,6 @@ If the search input dispatched a request directly to the Algolia API, then there
 
 ### Privacy Concerns
 
-Since the initial implementation will be an unauthenticated landing page, we will have little, if any, data about the user.
-
 While there shouldn't be any PII in our public documentation sources, it is possible it exists, and hasn't been discovered yet. Therefore, it is possible that our search results could lead public users to sources that contain PII. If PII is discovered in a repo, we have a [checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/removing-sensitive-data-from-a-repository.md#checklist-for-removing-pii-in-md-file-from-a-documentation-repo) for how to remove it.
 
 ### Open Questions and Risks
