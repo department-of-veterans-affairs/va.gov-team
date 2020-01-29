@@ -37,6 +37,7 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                        | Spouse's Social Security number    |      |   |
 |                                        | Date of marriage    |      |   |
 |                                        | Where did you get married?   |   City, State   |   |
+|                                        | When did you get married?   |     |   |
 |                                        | When did your marriage end?    |      |   |
 |                                        | Where did your marriage end?    | City, State     |   |
 |                                        | Type of marriage    | Ceremonial, Common-law, Proxy, Tribal, Other     |   |
@@ -75,5 +76,50 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                       | Unit name   |      |   |
 |                                       | Military Service number  |      |   |
 |                                       | Unit name   |      |   |
+| **Dependent information**             | Do you have any dependents to report?    |      |   |
+|                                       | Do you have any dependent children?    |      |   |
+|                                       | What's your dependent's relationship to you?   |      |   |
+|                                       | Dependent's first name    |      |   |
+|                                       | Dependent's middle name    |      |    |
+|                                       | Dependent's last name  |      |   |
+|                                       | Dependent's suffix   |      |  |
+|                                       | Dependent's Social Security number    |      |   |
+|                                       | Dependent's date of birth    |      |   |
+|                                       | Date they became your dependent?    |      |  |
+|                                       | Was your dependent permanently and totally disabled before the age of 18?    |      |   |
+|                                       | If your dependent is between 18 and 23 years old, did they attend school during the last calendar year?  |      |   |
+|                                       | Expenses your dependent paid for college, vocational rehabilitation, or training |      |   |
+|                                       | Has your child ever been married? |      |   |
+|                                       | Did your dependent live with you last year?  |      |   |
+|                                       | Do you have the same address as your spouse?     |      |   |
+|                                       | Do you have the same address as your dependent?    |      |   |
+|**Income information**                 | Annual income   |      |   |
+|                                       | What's your gross annual income from employment?    |      |   |
+|                                       | What's your net income from your farm, ranch, property, or business (if applicable) |      |
+|                                       | Do you have any other income?   |      |   |
+|                                       | What's your spouse's gross annual income from employment?  |      |   |
+|                                       | What's your spouse's net income from your farm, ranch, property, or business? (if applicable)|      |   |
+|                                       | Does your spouse have any other income? |      |   |
+|                                       | Amount you or your spouse paid in non-reimbursable medical expenses this past year |      |   |
+|                                       | Amount you paid in funeral or burial expenses for a deceased spouse or child this past year |      |   |
+|                                       | Amount you paid for anything related to your own education (college or vocational) this past year. You don't need to list your dependents’ educational expenses. |      |   |
+|                                       | Account type|      |   |
+|                                       | Bank account number|      |   |
+|                                       | Bank routing number|      |   |
+|                                       | Bank accounts, investments, and property |      |   |
+|                                       | Social Security or other pensions (gross income)|      |   |
+|                                       | Do you have any medical, legal, or other unreimbursed expenses? |      |   |
+|                                       | Amount paid |      |   |
+|                                       | Paid to |      |   |
+|                                       | Date paid |      |   |
+|                                       | Purpose |      |   |
+|                                       | Are you receiving military retired pay? |      |   |
+|                                       | Expected income |  Any income you didn't already report in this form that you expect to receive in the next 12 months   |   |
+|                                       | Which type of VA compensation do you currently receive?  |      |   |
+|                                       | Amount paid |      |   |
+|                                       | Amount paid |      |   |
+|                                       | Amount paid |      |   |
+
+|
 
 
