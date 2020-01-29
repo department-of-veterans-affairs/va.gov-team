@@ -1,5 +1,5 @@
 # Caregiver 10-10CG Usability Study
-**Digital Services Veterans Affairs (DSVA), VSA, Jonathan Nelson**<br>
+**Digital Services Veterans Affairs (DSVA), VSA, Caregiver**<br>
 
 Designer 1 (email), Designer 2 (email), MM/DD/YYYY
 
