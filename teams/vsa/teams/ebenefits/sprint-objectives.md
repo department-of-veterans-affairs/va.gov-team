@@ -11,14 +11,14 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ----
 ## Sprint 14 (1/29 - 2/11)
 ```diff 
-- TBD
+- 41 points over 15 issues
 ```
 ### 1. Continue Developing "Submit 686c Dependency Claims"
-- Design: Finish Dependents workflows
-- Design: Schedule and run user research session on current design, focus on validating "workflow" entrance theories
-- Frontend: Scaffold new FE app and stub out 1-2 workflows
-- Backend & Frontend: Finish View Dependents in lowers (pull real data from BGS unless blocked)
-- Backend: Draft plan for integrating with BGS VNP services (i.e. review eBenefits code and create plan for implementing in vets-api)
+- Design: Finish Update Dependents workflows, View Dependents content ([#5253](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5253), [#3434](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4534))
+- Design: Schedule and prepare user research session on current design, focus on validating "workflow" entrance theories ([#4546](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4546), [#4549](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4549))
+- Frontend: Scaffold new FE app and stub out 1-2 workflows ([#5278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5278))
+- Backend & Frontend: Finish View Dependents in lowers (pull real data from BGS unless blocked) ([#5087](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5087), [#3762](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3762), [#5069](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5069))
+- Backend: Draft plan for integrating with BGS VNP services (i.e. review eBenefits code and create plan for implementing in vets-api) ([#5279](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5279))
 
 ### 2. Launch View Rated Disabilities
 
