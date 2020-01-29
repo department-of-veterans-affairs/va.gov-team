@@ -84,6 +84,7 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 - What is the Not-Invented-Here risk? How likely is that we're reinventing the wheel?
 - What is the inexperience risk? Have any of the team members involved ever built/deployed/maintained this type of system before?
 - It's possible that work estimates are materially inaccurate.
+- What is the documentation debt risk? At least one person interviewed during the discovery sprint said that we need a solution ASAP. Is there a risk that people are deferring documentation in the present until the custom documentation solution is shipped?
 
 ### Work Estimates
 
