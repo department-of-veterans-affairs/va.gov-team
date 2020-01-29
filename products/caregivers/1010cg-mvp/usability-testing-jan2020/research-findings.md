@@ -121,10 +121,18 @@ Users preferred the online form for these reasons:
 
 - The ability to auto-populate fields made the form less tedious. Seemed simple or less intimidating (one participant thought there were literally fewer fields). Convenience of online submission (some participants did not enjoy buying envelopes, mailing, or the faxing process).
 
-9. Some users noted the positives of the paper form. The “Who should apply” boxes made sense to participants, easier for Veterans who had trouble parsing information (caregivers are the ones mostly filling in the form, and they preferred online). There was a split on whether or not it was useful or too wordy to have all the definitions up front, as it is on the paper form. One user said,  “I think something that was most beneficial to me was where it said ‘Do you do this, do you do this, do you do this? Okay, if you said yes to any of these then you are a Caregiver.’"
+9. Some users noted the positives of the paper form. The “Who should apply” boxes made sense to participants, easier for Veterans who had trouble parsing information (caregivers are the ones mostly filling in the form, and they preferred online). There was a split on whether or not it was useful or too wordy to have all the definitions up front, as it is on the paper form. One user said,  “I think something that was most beneficial to me was where it said ‘Do you do this, do you do this, do you do this? Okay, if you said yes to any of these then you are a Caregiver.’" 
 
 ## Additional Insights
-Any additional insights that aren't "top findings."
+- A few caregivers would enter their phone number and email in the Veteran information section. Noting the Veteran will not answer their phone. 
+
+- Most participants attempted to sign in to start the Caregiver application noting the desire to save information so that if they were distracted they could come back to the form.
+
+- One participant was confused by the The Stepper / Progress Bar not changing when clicking continue (was under the impression they actually navigated backwards). However, one participant found the stepper helpful. 
+
+- Not many participants clicked on Additional Info sections. It is unclear if it’s because it was a contrived scenario as most people stated they had indeed seen them when prompted. Many users, when asked how they’d get additional info, said they’d go on online community (i.e. Facebook) or do a Google search. 
+
+- Participants understood the Signature Boxes at the end of the form. Many wanted to review the application, and seemed to understand the “accordion” interaction and were comfortable clicking the box and entering in the names of the Veteran and caregiver (see 7 under Key Findings). 
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
