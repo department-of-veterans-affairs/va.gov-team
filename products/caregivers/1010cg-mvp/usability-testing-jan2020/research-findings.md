@@ -88,7 +88,7 @@ The research assessed the forms ability to support users on three main tasks:
 9. Some users noted positive features of the paper form.
 
 ## Details of Findings
-List details of each finding in top findings here, with supporting quotes when possible.
+6 out of the 9 participants managed to navigate to a caregiver landing page, using either the search box, the VA benefits and health care dropdown, or the family member benefits link. A few users were not able to locate without prompting from moderator and were stuck on the cards/blue background on va.gov. 
 
 ## Additional Insights
 Any additional insights that aren't "top findings."
