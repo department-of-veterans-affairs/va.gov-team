@@ -95,7 +95,7 @@ The research assessed the forms ability to support users on three main tasks:
 
 3. Participants did have questions around the secondary caregiver definitions and requirements. Many participants were confused by this section. Participants were uncertain who was, and was not, a secondary caregiver (who qualified) as many users had individuals supporting them. Questions around, “is it someone else who also is taking care of the vet, but not as much as me?” surfaced. One participant said, “ We have four children in the home and my mother lives with us to take care of the children because i take care of my husband. I know I’m the primary caregiver but would my grandmother be a secondary caregiver? I would need to go revisit this secondary caregiver.” 
 
-A couple participants were confused if they were “supposed” to enter a secondary caregiver and if it was required. This  caused a roadblock in form completion. One user said, "Oh, this part is required, to add a secondary?"
+___ A couple participants were confused if they were “supposed” to enter a secondary caregiver and if it was required. This    caused a roadblock in form completion. One user said, "Oh, this part is required, to add a secondary?"
 
 One participant, who attempted to add a secondary caregiver during the study would not know the secondary caregiver’s social security number, and was uncertain how they would get the secondary caregiver’s signature (as they don’t live together). The user would not feel comfortable signing for the secondary caregiver. This would add complication into the process of adding a secondary caregiver and completing form.
 
