@@ -3,7 +3,7 @@
 
 Jonathan Nelson (jonathan.nelson@adhocteam.us), Shawna Hein (shawna.hein@adhocteam.us), 01/28/2020
 
-View the [Research Plan](link here).
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-plan.md).
 ## Research Goals 
 
 Description of research goals
