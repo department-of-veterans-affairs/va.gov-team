@@ -97,7 +97,7 @@ The research assessed the forms ability to support users on three main tasks:
 
      A couple participants were confused if they were “supposed” to enter a secondary and if it was required. This caused a 	 		roadblock in form completion. One user said, Oh, this part is required, to add a secondary?"
 
-One participant, who attempted to add a secondary caregiver during the study would not know the secondary caregiver’s social security number, and was uncertain how they would get the secondary caregiver’s signature (as they don’t live together). The user would not feel comfortable signing for the secondary caregiver. This would add complication into the process of adding a secondary caregiver and completing form. 
+    One participant, who attempted to add a secondary caregiver during the study would not know the secondary caregiver’s   social security number, and was uncertain how they would get the secondary caregiver’s signature (as they don’t live together). The user would not feel comfortable signing for the secondary caregiver. This would add complication into the process of adding a secondary caregiver and completing form. 
 
 4. The “name of medical center” field did cause difficulty for some users. A participant stated when referring to the Veteran’s medical center, “There are a couple different ones because he goes where the primary doctor is, and the medicine doctor are in different locations.” Another user stated, “My husband receives care at multiple VA clinics…” 
 
@@ -105,15 +105,15 @@ One participant, who attempted to add a secondary caregiver during the study wou
 
 6. Users said they understood the requirements after reading the form, but with further questioning there were still questions surrounding eligibility requirements and next steps in the process. Most notably, being unsure if mental or emotional (e.g. PTSD)  issues qualified for the Caregiver program. One user said when discussing eligibility, “I think from what I've heard...a lot of people have been denied. It seems like it has to be physical. It has to be like your husband physically can't, or your Veteran can’t, you know, tie their shoes, or they can't drive, or they can't bathe themselves. With my husband, it’s like all, it’s severe PTSD.” 
 
-Other issues around requirements centered on caregiver’s requirements. One participant stated, “My question would be what are the program requirements...because I'm getting homemaker services from the VA, would they take those away because I'm doing this?” 
+    Other issues around requirements centered on caregiver’s requirements. One participant stated, “My question would be what are the program requirements...because I'm getting homemaker services from the VA, would they take those away because I'm doing this?” 
 
-Users expressed desire for Veteran and caregiver eligibility (in plain language) all in one place because it was not always clear enough on the electronic form. One user stated, “No, I wouldn’t know right off I was eligible just by looking at that.” 
+    Users expressed desire for Veteran and caregiver eligibility (in plain language) all in one place because it was not always clear enough on the electronic form. One user stated, “No, I wouldn’t know right off I was eligible just by looking at that.” 
 
 7. For the most part, Caregivers filled out the form and would not ask the Veteran to fill out the Veteran portion of the form. Intersetly, the majority of caregivers said they would have no problem filling out both boxes (veteran and caregiver) on the signature page. However, all caregivers said they would let the Veteran know what program they were applying for or talk to the Veteran at the time of consent. One participant expressed, “In full honesty I would never do anything behind my husband's back with his care, but I would probably just tell him, ‘Hey, I'm filling this out and I need to type your name. You need a caregiver and I've entered the proper information.’ And then I would type his name for him.” Another user said, “...so at this point I would go in and tell my husband I’m doing this and ask for his consent. And he would tell me I don’t need to read it to him and I would fill it out and submit.” 
 
 8. Most participants preferred the online form. However, some users noted positive features from the paper form. 
 
-Users preferred the online form for these reasons: 
+   Users preferred the online form for these reasons: 
 
 - Many users noted the positives to being able to save information if they were distracted or did not know certain information. One participant said, “I would sign in because I would want to know I can save and come back to it in case I have questions or something.”  
 
