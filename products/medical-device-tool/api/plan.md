@@ -15,6 +15,33 @@ This document contains the proposed endpoints, requests & response information f
 
 ### GET /v0/medical_devices
 
+#### Request
+
+```
+GET https://va.staging.gov/v0/medical_devices
+HTTP/1.1
+Accept-Encoding: *
+va_veteran_id: 555555555
+```
+
+#### Response
+```
+HTTP/1.1 200 OK
+Date: Thu, Jan 30 2020 21:30:42 GMT
+Transfer-Encoding: chunked
+Content-Type: application/json
+```
+
+```json
+{
+  "veteran": {
+    "firstName": "Arthur",
+    "lastName": "Morgan",
+    "dateOfBirth": "1863-06-15"
+  }
+}
+```
+
 ### POST /v0/medical_devices
 
 ### GET /v0/medical_devices/profile
