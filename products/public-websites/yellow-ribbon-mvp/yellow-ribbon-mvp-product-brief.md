@@ -1,6 +1,6 @@
 # Yellow Ribbon MVP Product Outline
 
-Last Updated January 27, 2020
+Last updated January 30, 2020
 
 ## POCs
 
@@ -129,7 +129,7 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 
 ## Decisions
 
-- At this time, we are not updating the GIBCT as part of the effort to improve the Veteran experience for Yellow Ribbon
+- At this time, we are not updating the GIBCT as part of the effort to improve the Veteran experience for Yellow Ribbon. Our goal is to create an MVP that can improve the front-end experience and the GIBCT has complexities extending beyond the scope of our MVP.  Additionally, it is managed by another team, and their timeline and priorities for updates are TBD at this time. 
 - We are not addressing the process of gathering and inputting Yellow Ribbon data, or taking it upon ourselves to ensure accuracy of this data
 - We will leverage the GIDS API for our data source
 - Our MVP will stand alone rather than on the current Yellow Ribbon hub page
