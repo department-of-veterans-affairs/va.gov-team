@@ -316,15 +316,20 @@ Frontend
 **Dev**
 
 - E2E tests, running in CI/CD, passing on all browsers #5005
+- Load testing #5032
 
 ### Profile 2.0
 
-Design
-- Tressa out most of the sprint
+**Design**
+
+Tressa out most of the sprint
+
+- [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
 - Finish planning research
 
-Dev
-- Build for new profile
+**Dev**
+
+- [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)- Build for new profile
 
 ## Sprint 16 (2/26 - 3/10)
 
