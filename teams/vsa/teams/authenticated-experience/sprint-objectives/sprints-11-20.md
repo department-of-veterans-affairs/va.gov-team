@@ -306,6 +306,10 @@ Frontend
 - Create call center guide #5084
 - Create a release plan #5085
 - Update product outline pre-launch #5094
+- Create tickets for: 
+  - Security review
+  - Privacy review
+  - Production readiness review
 
 ### Profile 2.0
 
