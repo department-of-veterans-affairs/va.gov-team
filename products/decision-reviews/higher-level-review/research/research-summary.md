@@ -67,7 +67,7 @@ We're unable to find data that helps us understand how frequently this issue is 
 
 **Informal Conference page:** Users think they are scheduling the conference here. They assume they will receive a call the next couple of days with a time for the conference. Users want to choose day(s) of week,  a range of dates, an option to contact both representative and themselves, and an option to add an alternate phone number.
 
-###Additional Findings
+### Additional Findings
 
 **Review application:** Users want a  Print or Save button. Some users expected to see their name and a receipt or appeals number on top of the Review page. 
 
