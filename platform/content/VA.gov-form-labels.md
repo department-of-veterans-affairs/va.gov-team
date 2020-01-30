@@ -152,8 +152,35 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                       | Date of death |      |   |
 |                                       | Date of burial (includes cremation or interment)|      |   |
 |                                       | Is there anyone currently buried in a VA national cemetery under your eligibility? |      |  | |                                       | What expenses did you incur for the Veteran's burial? |      |   |
-| **Disability information**            | Licenses or rating |      |   |
-|
+| **Disability information**            | Please tell us what type of disability claim you’re filing |      |   |
+|                                       | Did you serve in a combat zone after Sept. 11, 2001? |      |   |
+|                                       | Do you have any new conditions you want to add to your claim?  |      |   |
+|                                       | What caused this service-connected disability? |      |   |
+|                                       | Do you need help buying or modifying your home?  |      |   |
+|                                       | Do you need help buying or modifying your car? |      |   |
+|                                       | Are you confined to your home or need help with everyday activities? |      |   |
+|                                       | Does your disability prevent you from holding down a job that you could otherwise do? (This doesn’t include being retired.) |      |   |
+|                                       | Please tell us where VA treated you for your disability |      |   |
+|                                       | Name of VA medical facility  |      |   |
+|                                       | After we review your disability claim and supporting evidence, we may ask you to have a claim exam (also known as a C&P exam) if we need more information to decide your claim. |      |   |
+|                                       | We’ll use the results of this exam, in addition to your supporting evidence, to rate your disability. |      |   |
+|                                       | Is there any evidence you’d like us to review as part of your claim? Name of VA medical facility  |      |   |
+|                                       | What type of evidence do you want us to review as part of your claim |      |   |
+|                                       | Are you terminally ill?|      |   |
+| **Housing information**               | Are you currently homeless? |      |   |
+|                                      | Please describe your current living situation | I’m living in a homeless shelter • I’m living somewhere other than a shelter (For example, I’m living in a car or a tent.) • I’m living with another person • I need to quickly leave where I currently live • Other (Please describe)     |   |
+|                                       | Please describe your current living situation  | • I’m losing my housing in 30 days • I’m leaving a publicly funded homeless shelter soon • Other (Please describe)   |   |
+|                                       | Are you currently at risk of becoming homeless?  |      |   |
+|                                       | Please provide the name and number of a person we should call if we need to get in touch with you|      |   |
+| **Pension information**               | Are you currently on federal active duty in the National Guard? |      |   |
+|                                       | Have you had a job (including being self-employed) from 1 year before you became disabled to now?|      |   |
+|                                       | Employer name |      |   |
+|                                       | Employer address  |      |   |
+|                                      | Job title |      |   |
+|                                      | How many days were lost due to your disability?  |      |   |
+|  **Review and submit content**       | Please review the information below to ensure that it’s correct before you submit your application. This is especially important if you worked on your application over several days.  |      |   |
+|                                     | Do you want to apply using the Fully Developed Claims program?  |      |   |
+|                                     | |      |   |
 |
 |
 |
