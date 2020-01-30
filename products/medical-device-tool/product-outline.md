@@ -50,6 +50,18 @@ As a Veteran, I wish there was a way to order all my prosthetic socks and/or hea
 ### Solution Goals
 Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system.
 
+### Minimal Viable Product
+Medical Device Tool features: 
+- Veteran's personal information
+> Name, Address, Email
+- Edit veterans personal information
+- Products to order
+> Hearing aid batteries
+> Hearing aid accessories
+- Confirmation page
+> list out veteran contact information & items ordered
+- Status of order
+
 ### User Goals
 Streamline the Veterans ordering process by:
 1. Be able to complete a full order through the online ordering system. 
