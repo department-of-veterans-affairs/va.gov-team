@@ -4,7 +4,7 @@ Below is a table that categorizes standardized form labels that appear across al
 
 
 
-| **Form section**                       | **Plain-language label/question** | **Nested label/question** | **Form notes** | another header? |
+| **Form section**                       | **Plain-language label or question** | **Followup label or question** | **Form notes** |  |
 |----------------------------------------------|----------|----------|--------------------------------|------------------------------------|
 | **Applicant information**               | Your first name    |      |                               |
 |                                         | Your middle name   |      |                               |
@@ -167,20 +167,23 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                       | Is there any evidence you’d like us to review as part of your claim? Name of VA medical facility  |      |   |
 |                                       | What type of evidence do you want us to review as part of your claim |      |   |
 |                                       | Are you terminally ill?|      |   |
-| **Housing information**               | Are you currently homeless? |      |   |
-|                                      | Please describe your current living situation | I’m living in a homeless shelter • I’m living somewhere other than a shelter (For example, I’m living in a car or a tent.) • I’m living with another person • I need to quickly leave where I currently live • Other (Please describe)     |   |
-|                                       | Please describe your current living situation  | • I’m losing my housing in 30 days • I’m leaving a publicly funded homeless shelter soon • Other (Please describe)   |   |
-|                                       | Are you currently at risk of becoming homeless?  |      |   |
-|                                       | Please provide the name and number of a person we should call if we need to get in touch with you|      |   |
 | **Pension information**               | Are you currently on federal active duty in the National Guard? |      |   |
 |                                       | Have you had a job (including being self-employed) from 1 year before you became disabled to now?|      |   |
 |                                       | Employer name |      |   |
 |                                       | Employer address  |      |   |
 |                                      | Job title |      |   |
+|                                      | What disabilities prevent you from working?  |      |   |
+|                                      | Date disability began |      |   |
+|                                      | Have you been treated at a VA medical center for the above disability? |      |   |
 |                                      | How many days were lost due to your disability?  |      |   |
+| **Housing information**               | Are you currently homeless? |      |   |
+|                                      | Please describe your current living situation | I’m living in a homeless shelter • I’m living somewhere other than a shelter (For example, I’m living in a car or a tent.) • I’m living with another person • I need to quickly leave where I currently live • Other (Please describe)     |   |
+|                                       | Please describe your current living situation  | • I’m losing my housing in 30 days • I’m leaving a publicly funded homeless shelter soon • Other (Please describe)   |   |
+|                                       | Are you currently at risk of becoming homeless?  |      |   |
+|                                       | Please provide the name and number of a person we should call if we need to get in touch with you|        |   |
 |  **Review and submit content**       | Please review the information below to ensure that it’s correct before you submit your application. This is especially important if you worked on your application over several days.  |      |   |
-|                                     | Do you want to apply using the Fully Developed Claims program?  |      |   |
-|                                     | |      |   |
+|                                      | Do you want to apply using the Fully Developed Claims program?  |      |   |
+|                                      |      |   |
 |
 |
 |
