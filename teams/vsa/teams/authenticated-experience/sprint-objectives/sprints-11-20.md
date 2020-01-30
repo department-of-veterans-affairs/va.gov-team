@@ -302,6 +302,8 @@ Frontend
 
 ### Address validation
 
+**PM** 
+
 - Figure out what analytics we need (ticket needed)
 - Create call center guide #5084
 - Create a release plan #5085
@@ -310,6 +312,10 @@ Frontend
   - Security review
   - Privacy review
   - Production readiness review
+  
+**Dev**
+
+- E2E tests, running in CI/CD, passing on all browsers #5005
 
 ### Profile 2.0
 
