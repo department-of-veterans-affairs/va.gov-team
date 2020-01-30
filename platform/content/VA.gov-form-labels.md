@@ -1,6 +1,6 @@
-## VA.gov form labels masterlist
+## VA.gov form label masterlist
 
-Below is a table that categorizes standardized form labels that appear across all VA.gov forms. This table is a work in progress as each form is unique and as we migrate more forms online, each presents specific labels and questions. 
+Below is a list of standardized form labels that appear across all VA.gov forms. This list is a continued work in progress as each form is unique and has specific labels and questions. As we migrate more forms online, we'll continue to add plain-language labels to this list. 
 
 
 
