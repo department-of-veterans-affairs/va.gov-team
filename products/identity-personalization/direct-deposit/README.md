@@ -156,8 +156,8 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 **Staging**
 
 - https://staging.va.gov/my-va/
-- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv.
-- LOA3 without 2FA: Will be promted to setup 2FA before accessing.
+- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
+- LOA3 without 2FA: Will be prompted to setup 2FA before accessing.
 - LOA1: Create an account on staging and navigate to the profile. You will see a prompt to verify your identity since the profile is only available to users who have verified their identities.
 - [QA Manual Testing Matrix](https://app.zenhub.com/files/31788863/7d925a6a-4824-4437-a80e-2dbaf2224dfa/download) spreadsheet
 
@@ -169,7 +169,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 **Endpoint:** `GET ppiu/payment_information`
 
 For any errors we get when trying to get the user's current direct deposit info, we show the following error message:
-![get error](./dd%20payment%20info%20server%20error.png)
+![get error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20payment%20info%20server%20error.png)
 
 ### Updating direct deposit bank info
 
@@ -178,13 +178,13 @@ For any errors we get when trying to get the user's current direct deposit info,
 We also show error messages if errors come back from this endpoint. Depending on the error `key`s we get back, we might show special error messages.
 
 If we get a `key` value of `'cnp.payment.flashes.on.record.message'` we show the following error message:
-![put fraud error](./dd%20save%20error%20account%20flagged%20for%20fraud.png)
+![put fraud error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20save%20error%20account%20flagged%20for%20fraud.png)
 
 If we get a `key` value of `'payment.accountRoutingNumber.invalidCheckSum'` we show the following error message:
-![put invalid routing error](./dd%20save%20error%20invalid%20routing%20number.png)
+![put invalid routing error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20save%20error%20invalid%20routing%20number.png)
 
 All other errors get the following message:
-![put error](./dd%20save%20error%20general%20error.png)
+![put error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20save%20error%20general%20error.png)
 
 
 ## Service Level Objective
