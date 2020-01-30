@@ -324,7 +324,10 @@ Dev
 
 ### Address validation
 
--  Finish launch checklist
+- Finish launch checklist
+- Document monitoring requirements
+- "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
+- Launch?
 
 ### Profile 2.0
 
@@ -338,7 +341,7 @@ Dev
 
 ### Address validation
 
-- Launch
+- Launch?
 
 ### Profile 2.0
 
