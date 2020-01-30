@@ -27,6 +27,7 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                        | Home phone number    |      |   |
 |                                        | Mobile phone number   |      |   |
 |                                        | How should we get in touch with you?  |      |   |
+|                                        | How would you like to be contacted if we have questions about your application? |      |   |
 |                                        | If you want to update your contact information for all your VA accounts, please go to your profile page.
   |      |   |
 | **Marriage information**               | What's your marital status?    |      |   |
@@ -51,6 +52,7 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                       | Sponsor's date of death or date listed MIA or POW    |      |   |
 |                                       | Where did your sponsor die?     |   City, State   |   |
 |                                       | Is your sponsor on active duty? |      |   |
+|                                       | What’s your relationship to the service member whose benefit is being transferred to you? |      |   |
 | **Service history**                   | Last branch of service    |      | Health care app  |
 |                                       | Branch of service    |      |   |
 |                                       | Sponsor's branch of service    |      |   |
@@ -136,15 +138,24 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                       | Are you getting benefits from the U.S. government as a civilian employee during the same time as you’re requesting benefits from VA? |      |   |
 |                                       | When did you stop taking classes or participating in the training program? (Future dates are ok.) |      |   |
 |                                       | Why did you stop taking classes or participating in the training program? (for example, “I graduated” or “I moved” or “The program wasn’t right for me.”)|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
-|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | When did you earn your high school diploma or equivalency certificate?|      |   |
+|                                       | Hours completed |      |   |
+|                                       | Type of hours |      |   |
+|                                       | Degree, diploma, or certificate received |      |   |
+|                                       | What did you study?|      |   |
+|                                       | If you have any FAA flight certificates, please list them here|      |   |
+|                                       | Have you ever held a license of journeyman rating (for example, as a contractor or plumber) to practice a profession? |      |   |
+|                                       | Main job |      |   |
+|                                       | Number of months worked |      |   |
+| **Burial information**                | What expenses did you incur for the Veteran's burial? |      |   |
+|                                       | Type of burial allowance requested |      |   |
+|                                       | Date of death |      |   |
+|                                       | Date of burial (includes cremation or interment)|      |   |
+|                                       | Is there anyone currently buried in a VA national cemetery under your eligibility? |      |  | |                                       | What expenses did you incur for the Veteran's burial? |      |   |
+| **Disability information**            | Licenses or rating |      |   |
+|
+|
+|
 |
 
 
