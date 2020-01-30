@@ -122,9 +122,9 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 - I estimate one week because I suspect we'll either need to get approval to use Algolia's hosted API or get approval to provision a custom data store.
 
 1. Configure crawler to seed the initial data store. - 2 days
-1. Run the crawler to populate the data store. - 2 day
-1. Build a landing page that will contain a search input that submits requests to the Search API. - 2 day
-1. Deploy the landing page to a publicly available location. - 2 day
+1. Run the crawler to populate the data store. - 2 days
+1. Build a landing page that will contain a search input that submits requests to the Search API. - 2 days
+1. Deploy the landing page to a publicly available location. - 2 days
 
 - I estimate this may take longer if we need to need to coordinate with other teams.
 
