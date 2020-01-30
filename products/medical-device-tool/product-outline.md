@@ -50,7 +50,7 @@ As a Veteran, I wish there was a way to order all my prosthetic socks and/or hea
 ### Solution Goals
 Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system.
 
-### Minimal Viable Product
+### Minimal Viable Product (MVP)
 Medical Device Tool features: 
 - Veteran's personal information
 > Name, Address, Email
