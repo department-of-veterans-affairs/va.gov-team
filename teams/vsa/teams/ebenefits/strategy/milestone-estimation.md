@@ -9,13 +9,15 @@ This is meant to help estimate the amount of time it might take for a full migra
 Define the core features as they currently exist
 Fully understand components and interactions
 
-## Design: 1-2 Sprints
+## Design: 2-3 Sprints
 Based on initial research, develop mockups that reflect, at a minimum, the base functionality and include new features as needed.
   - Design Intent Review
   - Revise
   - Staging
   - Usability Study, needs:
     - Research Plan and Conversation Guide
+    - Schedule with Perigean
+    - Conduct interview sessions
 
 ## Engineering: 3-4 Sprints
 Implement what Design has established
