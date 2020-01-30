@@ -1,5 +1,7 @@
 ``` diff
-- WIP, may need a table
+- NOTES:
+- WIP
+- does this need a table
 ```
 
 # Milestones
