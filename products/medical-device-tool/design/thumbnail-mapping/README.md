@@ -83,5 +83,9 @@ The design team presented the third iteration of the order flows to the BaM2 tea
 
 ### Presenting to DLC
 
-- 
+The design team presented the third iteration of the order flows to the DLC for feedback. The full meeting notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/meetings/20200130-DALC-thumbnail-mapping-review.md). 
+
+**Key takeaways:**
+- The DLC would like to remove the *Additional comments* feature from the order flow because any comments received will make it so orders can't be automatically fulfilled 
+- The generic *Additional supplies* portion of the flow doesn't make sense because all supplies need to be listed as a specific item, similar to the domes and wax guard selection portion of the flow 
 
