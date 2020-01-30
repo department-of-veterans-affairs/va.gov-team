@@ -128,6 +128,23 @@ Below is a table that categorizes standardized form labels that appear across al
 |                                       | Do you want VA to contact you to schedule your first appointment?|      |   |
 | **Education information**             | Which benefit are you currently using or have you used most recently? |      |   |
 |                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you enrolled in a STEM undergraduate degree program? |      |   |
+|                                       | Name of school, university, or training facility you're attending |      |   |
+|                                       | Type of education or training |      |   |
+|                                       | Education or career goal | (For example, “I want to get a bachelor’s degree in criminal justice” or “I want to get an HVAC technician certificate” or “I want to become a police officer.”    |   |
+|                                       | Are you getting, or do you expect to get any money (including, but not limited to, federal tuition assistance) from the Armed Forces or public health services for any part of your coursework or training? |      |   |
+|                                       | Are you getting benefits from the U.S. government as a civilian employee during the same time as you’re requesting benefits from VA? |      |   |
+|                                       | When did you stop taking classes or participating in the training program? (Future dates are ok.) |      |   |
+|                                       | Why did you stop taking classes or participating in the training program? (for example, “I graduated” or “I moved” or “The program wasn’t right for me.”)|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
+|                                       | Are you applying for the Edith Nourse Rogers STEM Scholarship?|      |   |
 |
 
 
