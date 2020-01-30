@@ -13,13 +13,6 @@ Unicorns, Higher Level Review Research, January 2020
 
 ### [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/research/conversation-guide.md)
 
-Veterans are using the Claim Status tool to submit their Decision Review forms. This creates a problem because the forms get stored in the eFolder, without an EP code for tracking and does not notify anyone of their existence. Therefore, Decision Review form could go unnoticed indefinitely. This issue was identified during a conversation with RVSR (rater inside VA).
-
-We're unable to find data that helps us understand how frequently this issue is happening. Therefore, we're doing this research learn more about where Veterans expect to be able to file appeals on VA.gov and how we might improve the current Claim Status tool so that appeal forms are not uploaded there.
-
-
-
-
 
 # Methods
 
