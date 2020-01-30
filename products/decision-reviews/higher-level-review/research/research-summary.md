@@ -14,9 +14,7 @@ Unicorns, Higher Level Review Research, January 2020
 ### [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/higher-level-review/research/conversation-guide.md)
 
 
-# Methods
-
-### Dates
+### Methods
 
 - We conducted 9 qualitative interviews (usability studies) between 15 - 22 January 2020.
 - These were all task-oriented, semi-structured interviews done remotely via the Zoom app. 
