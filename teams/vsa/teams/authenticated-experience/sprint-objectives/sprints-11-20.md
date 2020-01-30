@@ -246,7 +246,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 #### 508 Review
 
-- [Request 508 Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut&labels=508%2FAccessibility%2C+launch+review%2C+product+support&template=508-pre-launch-review-template.md&title=Request+accessibility%2F508+review+for+ENTER_PRODUCT_NAME)
+- Request 508 Review
 
 #### QA
 
@@ -259,7 +259,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 - Help manage the QA process #5209
  
- **Brad/Erik**
+ **Brad**
 
 - Work on bug fixes and 508 review updates as they come in.
 - Address validation - can't select entered address with validation key #5178
@@ -288,7 +288,7 @@ Frontend
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-- Clean up "dashboard" references in code throughout repo #2270
+- Remove lodash/fp from front-end application code #5257
 - [BE] Direct Deposit: Review product outline and update if needed #5251
 - [FE] Direct Deposit: Review product outline and update if needed #5252
 - [BE] Address validation: Review product outline and update if needed #5254
