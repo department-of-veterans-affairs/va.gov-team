@@ -329,7 +329,8 @@ Tressa out most of the sprint
 
 **Dev**
 
-- [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)- Build for new profile
+- [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
+- Start build for new profile
 
 ## Sprint 16 (2/26 - 3/10)
 
