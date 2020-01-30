@@ -17,7 +17,8 @@
  
  ### Patrick
 - Continue making Content & IA changes
-- Legalese vs. plain language understanding and defintions (3)
+- Legalese vs. plain language understanding and writing defintions (3)
+- Plain language privacy act notification for caregivers and veterans (3)
 - Refine procedure for making content changes (3)
 
 ### Jonathan
