@@ -1,5 +1,7 @@
 ## Test cases for QA
 
+**Note: All of these addresses are made up and are NOT veteran PII.**
+
 | Use case/Desired outcome | Address |
 |--------------------------|---------|
 |Override + one suggestion | 36320 Coronado Dr Fremont, CA 94537 |
