@@ -4,21 +4,23 @@
 - GitHub Label: Address Validation
 - Slack channel: #vsa-authd-exp
 - Keywords
-     - Candidate Address Validation  
+     - Candidate Address 
+     - Address Validation 
      - Address Change 
      
 |Name|Role|Email|
 |----|----|-----|
-|Lisa Koenigsberg|DSVA Lead| lisa.koenigsberg@va.gov |
-|Samara Strauss |DSVA Lead Designer| samara.strauss@va.gov |
-|Justin Pickett |Product Manager| jpickett@governmentcio.com |
-|Arthur Green |Designer| jpickett@governmentcio.com |
+|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
+|??? |Product Manager| tressa.furner@adhocteam.us |
+|Tressa Furner |Designer| jpickett@governmentcio.com |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
-|Amen Ra | FE Engineer| ara@governmentcio.com |
+|Brad Conley | FE Engineer| bconley@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
 |Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
+|Jen Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
 |Amy Rosenthal| Technical Analyst|Amy.Rosenthal@va.gov  |
-|Christine Donovan| OIT PM |  Christine.Donovan@va.gov |
+|Christine Donovan| VA Profile contact/ OIT PM |  Christine.Donovan@va.gov |
+|Mike Richards | VA Profile contact | michael.richard2@va.gov |
 
 ---
 
@@ -48,27 +50,33 @@
 ---
  
 # Executive Summary
-Currently the VA receives an excessive of returned USPS mail as undeliverable and the VEO would like to augment the va.gov address process to include additional validation and methods for users to update.
+Currently the VA receives an excessive of returned USPS mail as undeliverable. The Veteran Experience Office (VEO) would like us to add address validation & suggestions to the VA.gov profile to reduce the likelihood that people save undeliverable addresses.
 
 ## User Problem Statement
-As a Veteran, I want securely access and manage my mailing address information and have the ability to override the system when my submitted address is not recognized by the system.  
+As a Veteran, I want to be able to update my address of VA.gov. If that address may not be recognized by the postal service, I want suggestions to know what I should save. I also want to be override determinations that my address is problematic in the event I know my address to be correct.
 
 ## Solution Goals
-Provide a simple and easy way to manage mailing address submissions to reduce the amount of returned snail mail. Also provide the correct error messaging guiding the users to correct the issue in the event a mailing address cannot be updated.
+
+- Provide address validation that lets users know if the postal service may not recognize their address.
+- Provide address suggestions to users if we have them.
+- Allow users to go back and edit their address if their address is flagged as problematic.
+- Allow users to override the determination that their address is problematic in the event that the user knows their address to be correct. 
 
 ### User Goals
-- Va.gov candidate address validation will be a secure way to access and manage mailing address information in the system. Provide a easy understandble way for the user to take actionalbe steps to get their mailing information updated and corrected when an error has occured. 
+
+- As a veteran, I want to be able to update my address on VA.gov so I can receive communication from the VA.
+- As a veteran, I want to know if the VA thinks there might be a problem with my address so I can make corrections as needed.
+- As a veteran, I want to know if the VA has any address suggestions for me so I know what the postal service might recognize.
+- As a veteran, I want to be able to override the determination that my address might not be valid if I know my address to be correct (example: moved to a new neighborhood that's not yet on the map).
 
 ## Hypothesis
 - Reduction in the amount of returned USPS mail.
 - A decrease in overall calls the National Call Center regarding errors from users not able to update their mailing address. 
 - The system will have more accurate mailing address data for users by implementing the correct solutions to capture the right mailing address information when inputed by the user. 
 
-
 ## Requirements 
 - Only LOA3 user with 2FA setup will have access to the mailing address section of the Profile.
 - When mailing address information is changed an email confirmation will be set to the user.
-
 
 ## Constraints
 - Severity levels codes will need to be authorized to allow mailing addresses to be overriden when not initially recognized from the users input. 
