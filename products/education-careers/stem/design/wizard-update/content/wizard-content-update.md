@@ -3,34 +3,30 @@
 Education Benefits Wizard accessible via the "Find your education benefits form" button located here: https://www.va.gov/education/how-to-apply/
 
 
-**Question 1:** Are you applying for a new benefit or updating your current education benefits?
+**Question 1:** Are you applying for a new benefit or updating your program or place of training?
 * Applying for a new benefit	
 * Updating my program of study or place of training
 * Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship { radio button triggers "Apply now" button and displays eligibility criteria below }
 
 { eligibility criteria displays when STEM radio button is selected }
 
-To be eligible for the Edith Nourse Rogers STEM Scholarship, you must be:   
-•	A Post-9/11 GI Bill beneficiary or Fry Scholarship recipient   
-•	Enrolled in an undergraduate program for science, technology, engineering or math (STEM), or have earned a STEM degree and be pursuing a teaching certification   
-•	Within 6 months of using up all your educational benefit or already have done so. [Check your Post-9/11 GI Bill status]().    
+To be eligible for the Edith Nourse Rogers STEM Scholarship, you must meet all the requirements below:   
+•	Are receiving Post-9/11 GI Bill or Fry Scholarship benefits  
+•	Have used up all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
+•	Are enrolled in an undergraduate program for science, technology, engineering or math (STEM), or have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+    
 
-To learn more about the Rogers STEM Scholarship and approved degree programs, [visit the VBA STEM page]().
-
-
-
-“To learn more about the Rogers STEM Scholarship and approved degree programs, [visit the VBA STEM page].”https://benefits.va.gov/gibill/fgib/stem.asp)
+To learn more about the scholarship, [visit the VBA STEM page](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/).
 
 
-
-Based on the eligibility requirements, would you like to apply? 
+Based on the eligibility requirements above, do you want to apply for this scholarship? 
 
 •	Yes    
 •	No   
 
-{ If yes, display APPLY NOW button which directs to 22-1995 }
+{ If yes, display "Apply now" button which directs to 22-1995 }
 
-{ If no, display text: Learn about other educational benefits you may be eligible for on the [GI Bill eligibility page]( https://www.va.gov/education/eligibility/). }
+{ If no, display text: Learn what other education benefits you may be eligible for on the [GI Bill eligibility page]( https://www.va.gov/education/eligibility/). }
 
 Balance of Wizard behaves as previously structured. 
 
