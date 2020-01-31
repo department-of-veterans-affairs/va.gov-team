@@ -216,8 +216,6 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open issues
 
-* [[SCREENREADER]: JAWS is reading from the top of the screen on GIBCT after selecting a school - #1062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1062)<br/>
-**Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[COGNITION]: GIBCT® - Standardize the search and filter behavior with a "Go" button click - #1276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1276)<br/>
 **Opened:** August 23, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[COGNITION]: GIBCT - Know before you go video has a logo with nondescript alt text - #3920](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3920)<br/>
