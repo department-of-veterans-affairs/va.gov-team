@@ -1,4 +1,4 @@
-#This is not a current project or priority in any VSP team.
+# This is not a current project or priority in any VSP team.
 
 # Product Directory
 
