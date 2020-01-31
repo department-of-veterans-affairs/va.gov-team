@@ -120,9 +120,9 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 
 ## How to Access and Test
 
-**Staging**
-
-- https://staging.va.gov/my-va/
+- Login with [vets.gov.user+130@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv#L132) on https://staging.va.gov
+- Visit https://staging.va.gov/profile/
+- Edit the "Mailing Address" or "Home address" under "Contact information"
 
 
 ## Error Handling
