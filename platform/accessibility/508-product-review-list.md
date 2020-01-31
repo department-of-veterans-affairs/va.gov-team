@@ -228,8 +228,6 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: GIBCT® - Consider making the tuition and housing breakdowns into definition lists - #1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1133)<br/>
 **Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-* [[DESIGN]: GIBCT® - Consider revising See Results button placement at mobile size - #1278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1278)<br/>
-**Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 ---
 
