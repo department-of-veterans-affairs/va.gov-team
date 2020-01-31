@@ -17,6 +17,7 @@ The following list is a set of resources for practicing IA on VA.gov and to help
 
 **How to Work with IA Team**
 - [Working with IA (Rules of Engagement)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
+- [Working with Documentation IA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-documentation.md)
 
 **Best Practices and Guidelines**
 - [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
