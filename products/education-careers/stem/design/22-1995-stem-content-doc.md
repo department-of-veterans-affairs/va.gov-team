@@ -124,22 +124,17 @@ ________________________________________
 #### 1995 Screen No. { to come } 
 
 ### Chapter Title: 2 of 6: Education Benefit
-Post-9/11 GI Bill beneficiaries and Fry Scholarship recipients who are studying in fields such as science, technology, engineering, and math may be eligible for the Edith Nourse Rogers STEM Scholarship. 
 
-{ help link } Learn more about scholarship eligibility { end help link }
+Rogers STEM Scholarship eligibility { Sub-head }  
 
-{ help text } 
+The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high demand STEM (Science, Technology, Engineering, and Math) fields.  
 
-The Edith Nourse Rogers STEM Scholarship provides up to 9 months of additional Post-9/11 GI Bill benefits, to a maximum of $30,000.
+To be considered, you must meet all the requirements below. You:  
 
-To be eligible for the Edith Nourse Rogers STEM Scholarship, you must be:  
-•	A Post-9/11 GI Bill beneficiary or Fry Scholarship recipient.  
-•	Enrolled in an undergraduate program for science, technology, engineering or math (STEM), or have earned a STEM degree and be pursuing a teaching certification.  
-•	¬Within 6 months of using up all your educational benefit or already have done so.  
-[Check your Post-9/11 GI Bill status]().  
+•	Are receiving Post-9/11 GI Bill or Fry Scholarship benefits  
+•	Have used up all your education benefits or are within 6 months of using all your benefits. [Check remaining benefits]()
+•	Are enrolled in an undergraduate program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
 
-To learn more about the Rogers STEM Scholarship and approved degree programs, [visit the VBA STEM page]().  
-{ end help text }
 
 Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
 
@@ -147,21 +142,16 @@ Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
 - No  
 
 
-{ if NO to STEM Scholarship question, direct to relevant page in 22-1995 standard flow. }
+{ if NO to STEM Scholarship question, direct to relevant page in 22-1995 standard flow. }   
 
-{ if YES, and Post-9/11 or Fry, display Undergrad STEM question} 
+{ if YES, and Post-9/11 or Fry, display a check for the Undergrad STEM question on the next page}  
 
-{ if YES, and not Post-9/11 or Fry or if applicant didn’t indicate a benefit, display INFO ALERT and Undergrad STEM question }
+{ if YES, and not Post-9/11 or Fry, display and "x" for the Undergrad STEM question on the next page } . 
+
+{ if YES, and applicant didn’t indicate a benefit, display a "?" for the Undergrad STEM question }  
 
 
-{ INFO Alert text }
-
-The Rogers STEM Scholarship is only for Post-9/11 GI Bill and Fry Scholarship recipients.  Based on your responses, you may not be eligible.
-
-{ end INFO Alert text }
-
- Are you enrolled in an undergraduate STEM degree program? (*Required)  
-
+Are you enrolled in a science, technology, engineering, or math (STEM) undergraduate degree program? (*Required)  
 
 - Yes  
 - No  
@@ -170,55 +160,42 @@ The Rogers STEM Scholarship is only for Post-9/11 GI Bill and Fry Scholarship re
 
 { if NO, display teaching certification question } 
   
- Do you have a STEM undergraduate degree and are now pursuing a teaching certification? (*Required) 
+Do you have a STEM undergraduate degree and are now pursuing a teaching certification? (*Required) 
 
 - Yes  
 - No  
 
-{ if YES, display exhaustion of benefits question } 
 
-{ if NO, display ALERT and exhaustion of benefits question }
-
-{ INFO Alert text }
-The Rogers STEM Scholarship is only offered to students who are pursuing an undergraduate STEM degree or have graduated with a STEM degree and are pursuing a teaching certification.   
-
-{ end INFO Alert text }
-
-Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do you have less than 6 months remaining? (*Required) 
-[Check your status]()
+Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do you have less than 6 months of benefits left? (*Required) 
+[Check your remaining benefits]()
 
 - Yes  
 - No   
 
-
-{ if YES, direct to military history page } 
-
-{ if NO to exhaustion of benefits but YES to either STEM question, display INFO ALERT }
-
-{ INFO Alert text }
-**Eligibility Note: **You may not be eligible, but nice)
-
-The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipients who have used all their benefits or will run out within 6 months.  When you are closer to exhausting your benefits, you may apply for the scholarship.  
-
-{ end INFO Alert text }
-
-{ if NO to exhaustion of benefits and NO to STEM questions, display ALERT and confirmation question} 
-
-{ Alert text }
-**You may not be eligible**
-
-The Rogers STEM Scholarship is for Post-9/11 GI Bill and Fry Scholarship recipients who  
-* have used all their benefits or will run out within 6 months, and   
-* are pursuing an undergraduate STEM degree or have graduated with a STEM degree and are pursuing a teaching certification.   
-
-If you don't want to apply, [return to the top]() of the page and choose that you are not applying for the Rogers STEM Scholarship.
-
-{ end Alert text }
-
+{ if CONTINUE, to next page } 
 
 [ Back | Continue ] { buttons } [Finish this application later]()
 
 
+Rogers STEM Scholarship eligibility { Sub-head } 
+
+To be eligible for the scholarship, students must meet all 3 of the following criteria:  
+
+Your responses:  
+X  Post-9/11 GI Bill beneficiary or Fry Scholarship recipient  
+X  Not enrolled in an undergraduate STEM program, or haven’t earned a STEM degree and are now pursuing a teaching certification  
+X  Don’t have 6 months or less of education benefits remaining  
+
+Would you like to continue applying for the scholarship to let VA determine your eligibility?  [should we make this question required?]  
+* Yes  
+* No  
+
+{ if no: display:
+If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
+
+[Explore other education benefits] { button } . 
+
+If you would still like to change your program of study or place of training, continue below.
 ________________________________________
 ### New Page
 
