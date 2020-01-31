@@ -374,8 +374,6 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[KEYBOARD]: Text Appointments - Skip link targets need tabindex -1 for IE11 to behave properly - #2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429)<br/>
 **Opened:** October 14, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-* [[SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog - #2430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2430)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[COGNITION]: Text Appointments - Edit buttons would benefit from aria-labels - #2440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2440)<br/>
 **Opened:** October 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
