@@ -19,14 +19,14 @@ The CLI tool offers the look and feel of a typical SSH experience, but does requ
 ## Web Console Usage
 
 The web console experience begins here https://console.amazonaws-us-gov.com/systems-manager/session-manager/sessions?region=us-gov-west-1.
-![purpose_tags](images/ssm_console.PNG)
+![purpose_tags](../images/ssm-console.png)
 Along the top there are two tabs; 'Sessions' and 'Session history'. 
 
 You can start a web only session without having to use the CLI tool. Click the yellow button in the right corner labelled 'Start session'.
-![purpose_tags](images/ssm_start_session.PNG)
+![purpose_tags](../images/ssm-start-session.png)
 
 Filtering here is a little strange and does not accept wild cards. You can page through all instances which are currently reporting to the service and select one to begin a session:
-![purpose_tags](images/ssm_web_session.PNG)
+![purpose_tags](../images/ssm-web-session.png)
 
 This acts like a typical terminal and can be exited when complete.
 
@@ -47,11 +47,11 @@ The script is run thusly:
 
 `APP_NAME` or 'Purpose' does correspond to what we think of as apps:
 
-![purpose_tags](images/purpose_tags.PNG)
+![purpose_tags](../images/purpose-tags.png)
 
 and likewise for `APP_ENV` environment:
 
-![environment_tags](images/environment_tags.PNG)
+![environment_tags](../images/environment-tags.png)
 
 ### CLI Requirements
 
