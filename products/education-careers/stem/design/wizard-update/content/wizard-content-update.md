@@ -13,7 +13,7 @@ Education Benefits Wizard accessible via the "Find your education benefits form"
 To be eligible for the Edith Nourse Rogers STEM Scholarship, you must meet all the requirements below:   
 •	Are receiving Post-9/11 GI Bill or Fry Scholarship benefits <br>
 •	Have used up all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)  <br>
-•	Are enrolled in an undergraduate program for science, technology, engineering or math (STEM), or have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
+•	Are enrolled in an undergraduate program for science, technology, engineering or math (STEM), **or** have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
     
 
 To learn more about the scholarship, [visit the VBA STEM page](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/).
