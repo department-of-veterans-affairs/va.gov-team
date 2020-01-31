@@ -63,7 +63,7 @@ Great! Any questions before we get started?
   **Ask participant to share their screen using the green 'share' button in Zoom.**
 
 
-## Schedule New CC Appointment
+## Schedule New VA Appointment
 
 **Once they are logged in, post link to health tools in chat window.** www.va.gov/health-care/schedule-view-va-appointments/appointments
   
