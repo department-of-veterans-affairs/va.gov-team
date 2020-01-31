@@ -1,6 +1,6 @@
 ---
-name: Pre-Usability VSP Review
-about: Request a VSP Pre-Usability review
+name: Usability Testing Prep
+about: Request Usability Testing Prep
 title: Pre-Usability Review [Feature-Name]
 labels: product support, content-ia-team
 assignees: andreahewitt-odd, meganhkelley
@@ -17,7 +17,7 @@ assignees: andreahewitt-odd, meganhkelley
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on *feature name*
 - [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
 
-## Artifacts - _please provide the following artifacts at least 2 days before scheduled review meeting_
+## Artifacts - _please provide the following artifacts at least 2 days before scheduled meeting_
 - Link to product outline
 - Link to Prototype or mockups
 - Link to Research plan
