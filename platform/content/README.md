@@ -23,7 +23,7 @@ The following list is a set of resources to help you do your work and answer con
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
     - [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary)
     - [Error message style guide](https://design.va.gov/patterns/messaging-error-messages)
-    - [VA.gov form label masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels-masterlist.xlsx) 
+    - [VA.gov form label masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
     - [Emergency homepage banner process](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/VA.gov-homepage-banner-texts-preapproved-v5-020919.pdf)
     - [Emergency homepage banner alert language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/banners/natural-disasters/2018-alert-banner-language.md)
     - [User starting points and calls to action](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/366af8d45ce4c639b506ad8426008871f9e2c960/New-VA.gov-starting-points-and-CTAs-2019-03.pdf)
