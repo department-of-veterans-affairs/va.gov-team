@@ -87,7 +87,6 @@
       "contentEncoding": "base64",
       "contentMediaType": "image/png"
     },
-    "theEnd": {}
   }
 }
 ```
