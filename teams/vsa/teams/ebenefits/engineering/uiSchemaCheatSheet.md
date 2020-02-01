@@ -12,4 +12,7 @@
    * `hideif` - ui:option that either takes a function or a boolean to hide the field if a condition is true
    * `expandUnder` - ui:option takes a string of what field this field should expand under
    * `expandUnderCondition` - ui:option takes either a boolean or a function to tell the condition that should expand the hidden field
+   * `showFieldLabel` - ui:option that takes a string of if to show the field label
    
+`ui:description` - Description label for the field
+
