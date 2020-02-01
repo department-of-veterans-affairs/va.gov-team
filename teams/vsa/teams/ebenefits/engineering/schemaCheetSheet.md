@@ -69,9 +69,6 @@
     "booleanType": {
       "type": "boolean"
     },
-    "nullType": {
-      "type": "null"
-    },
     "Annotations": {
       "title": "Match anything",
       "description": "This is a schema that matches anything.",
