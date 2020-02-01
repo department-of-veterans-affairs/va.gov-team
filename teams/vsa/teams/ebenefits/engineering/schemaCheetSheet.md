@@ -51,21 +51,6 @@
         "email"
       ]
     },
-    "arrayType": {
-      "type": "array",
-      "items": {
-        "type": "number"
-      },
-      "contains": {
-        "type": "number"
-      },
-      "additionalItems": {
-        "type": "string"
-      },
-      "minItems": 2,
-      "maxItems": 3,
-      "uniqueItems": true
-    },
     "booleanType": {
       "type": "boolean"
     },
