@@ -46,15 +46,15 @@ English major with 2 years left scenario
 * 23:36 - uses new question successfully.
 * Reads caution message in full. Then reads the new question and says "I would say no because [of] the 6 months remaining [requirement].
 * Clicks "No" in the new question 
-* [Turns out the learn more was still expanded, so it took a bit more time to orient - just 18 seconds]. "Okay, it takes me back to where I was."24:22 - 23:40 
+* [Turns out the learn more was still expanded, so it took a bit more time to orient - just 18 seconds]. "Okay, it takes me back to where I was."
 * Was comfortable with No being selected and would click continue [Would click Continue and submit ineligible application and contine answering unnecessary questions.]  
 
 Copy   
 * Thought the Wizard copy was good.  "It could save you time.  You could click yes or no [in the wizard] to save time based on where you are with your benefit."
-* [static copy for "Do you want to apply" question 29:14]  "I don’t think it is enough. But if you want to learn more you have the drop down arrow…that's good enough."
-* [blue boxes] real good information - that person knows by the info in the blue box what the stem scholarship is for and that they may be eligible or may not be eli"
+* [static copy for "Do you want to apply" question]  "I don’t think it is enough. But if you want to learn more you have the drop down arrow…that's good enough."
+* [blue boxes] real good information - that person knows by the info in the blue box what the STEM scholarship is for and that they may be eligible or may not be eligible"
 * [Caution box] that will let me know based on what I clicked that I would not possibly be elf for the program - 
-* Expectation: "By my responses that I clicked on, I would think [the caution alert] would tell be that I'm not eligible. Cause I don’t see why I would be." 31:00
+* Expectation: "By my responses that I clicked on, I would think [the caution alert] would tell be that I'm not eligible. Cause I don’t see why I would be." 
 * "It's giving them false hope by saying "you may not be eligible'. You might try to find another way to get into the program and you may waste a lot of time."
 * User expects to be told they are not eligible if they do not qualify.
 * Remembered that you could learn more about stem programs by reading the learn more.
