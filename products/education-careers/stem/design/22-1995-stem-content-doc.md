@@ -108,12 +108,12 @@ ________________________________________
 ### Chapter Title: 2 of 6: Education Benefit
 
 Which benefit are you currently using or have you recently used? { radio buttons } 
-- Post 9/11 GI Bill (Chapter 33) { conditional, if selected direct to STEM Benefit questions }  [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)
--	Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship, Chapter 33)   { conditional, if selected direct to STEM Benefit questions } [Learn more](https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/)
-- Montgomery GI Bill (MGIB-AD, Chapter 30) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/) 
-- Montgomery GI Bill Selected Reserve (MGIB-SR, Chapter 1606) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)
-- Transfer of Entitlement program (TOE) [Learn more](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)
-- Post-Vietnam Era Veterans' Educational Assistance Program (VEAP, Chapter 32) [Learn more](https://www.va.gov/education/other-va-education-benefits/veap/)
+- Post 9/11 GI Bill (Chapter 33) { conditional, if selected direct to STEM Benefit questions }  [Learn more](https://www.va.gov/education/about-gi-bill-benefits/post-9-11/)  
+-	Marine Gunnery Sergeant John David Fry Scholarship (Fry Scholarship, Chapter 33)   { conditional, if selected direct to STEM Benefit questions } [Learn more](https://www.va.gov/education/survivor-dependent-benefits/fry-scholarship/)  
+- Montgomery GI Bill (MGIB-AD, Chapter 30) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)  
+- Montgomery GI Bill Selected Reserve (MGIB-SR, Chapter 1606) [Learn more](https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/)   
+- Transfer of Entitlement program (TOE) [Learn more](https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/)  
+- Post-Vietnam Era Veterans' Educational Assistance Program (VEAP, Chapter 32) [Learn more](https://www.va.gov/education/other-va-education-benefits/veap/)  
 
 
 [ Back | Continue ] { buttons } [Finish this application later]()
@@ -125,14 +125,14 @@ ________________________________________
 
 ### Chapter Title: 2 of 6: Education Benefit
 
-Rogers STEM Scholarship eligibility { Sub-head }  
+*Rogers STEM Scholarship* { Sub-head }  
 
 The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high demand STEM (Science, Technology, Engineering, and Math) fields.  
 
 To be considered, you must meet all the requirements below. You:  
 
 •	Are receiving Post-9/11 GI Bill or Fry Scholarship benefits  
-•	Have used up all your education benefits or are within 6 months of using all your benefits. [Check remaining benefits]()
+•	Have used up all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
 •	Are enrolled in an undergraduate program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
 
 
@@ -142,29 +142,33 @@ Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
 - No  
 
 
-{ if NO to STEM Scholarship question, direct to relevant page in 22-1995 standard flow. }   
+{ if NO to STEM Scholarship question, direct to relevant page in 22-1995 standard flow. }  
 
-{ if YES, and Post-9/11 or Fry, display a check for the Undergrad STEM question on the next page}  
+{ if YES, and Post-9/11 or Fry, display a checkmark for the "Post-9/11 or Fry Scholarship recipient..." question on the next page}  
 
-{ if YES, and not Post-9/11 or Fry, display and "x" for the Undergrad STEM question on the next page } . 
+{ if YES, and not Post-9/11 or Fry, display an "x" for the "Post-9/11 or Fry Scholarship recipient..." question on the next page }  
 
-{ if YES, and applicant didn’t indicate a benefit, display a "?" for the Undergrad STEM question }  
+{ if YES, and applicant didn’t indicate a benefit, display a "?" for the "Post-9/11 or Fry Scholarship recipient..." question on the next page}  
 
 
-Are you enrolled in a science, technology, engineering, or math (STEM) undergraduate degree program? (*Required)  
-
+Are you enrolled in a science, technology, engineering, or math (STEM) undergraduate degree program? (*Required)   
 - Yes  
 - No  
 
-{ if YES, direct to exhaustion of benefits question }
+{ if YES, direct to exhaustion of benefits question AND display a checkmark for the "Undergrad STEM..." question on the next page}  
 
 { if NO, display teaching certification question } 
+
+
   
 Do you have a STEM undergraduate degree and are now pursuing a teaching certification? (*Required) 
 
 - Yes  
 - No  
 
+{ if YES, display a checkmark for the "Undergrad STEM..." question on the next page}  
+
+{ if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
 
 Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do you have less than 6 months of benefits left? (*Required) 
 [Check your remaining benefits]()
@@ -172,12 +176,16 @@ Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do yo
 - Yes  
 - No   
 
+{ if YES, display a checkmark for the "Less than 6 months..." question on the next page}  
+
+{ if NO, display an "x" for the "Less than 6 months" question on the next page }  
+
 { if CONTINUE, to next page } 
 
 [ Back | Continue ] { buttons } [Finish this application later]()
 
 
-Rogers STEM Scholarship eligibility { Sub-head } 
+*Rogers STEM Scholarship* { Sub-head } 
 
 To be eligible for the scholarship, students must meet all 3 of the following criteria:  
 
@@ -186,7 +194,7 @@ X  Post-9/11 GI Bill beneficiary or Fry Scholarship recipient
 X  Not enrolled in an undergraduate STEM program, or haven’t earned a STEM degree and are now pursuing a teaching certification  
 X  Don’t have 6 months or less of education benefits remaining  
 
-Would you like to continue applying for the scholarship to let VA determine your eligibility?  [should we make this question required?]  
+Would you like to continue applying for the scholarship to let VA determine your eligibility? (*Required)  
 * Yes  
 * No  
 
@@ -205,7 +213,7 @@ ________________________________________
 
 { conditional page if user previously answered YES to applying to STEM scholarship }
 
-Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship?(*Required) 
+Are you currently on active duty or will you be going on active duty while receiving the Rogers STEM Scholarship? (*Required) 
 
 - Yes
 - No
