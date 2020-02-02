@@ -9,6 +9,10 @@
  	Branch 	
  	SC 
 
+### Participant Info
+* Computer Science Degree
+* Post-9/11 GI Bill with less than 6 months left
+
 ### Findings
 * Clicked Continue button without seeing the back to top link, submitting an ineligible app to buffalo.
 * [After the change schools process, when asked about seeing the STEM scholarship question] "It seemed pretty straightforward. It kind of stops you and asks you the question before you even go into the application."
