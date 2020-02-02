@@ -182,7 +182,9 @@ Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do yo
 
 { if CONTINUE, to next page } 
 
-[ Back | Continue ] { buttons } [Finish this application later]()
+[ Back | Continue ] { buttons } [
+
+Finish this application later]()
 
 
 *Rogers STEM Scholarship* { Sub-head } 
@@ -204,6 +206,12 @@ If your situation changes in the future and you meet all of the criteria, you ma
 [Explore other education benefits] { button } . 
 
 If you would still like to change your program of study or place of training, continue below.
+
+
+[ Back | Continue ] { buttons } 
+
+[Finish this application later]()
+
 ________________________________________
 ### New Page
 
