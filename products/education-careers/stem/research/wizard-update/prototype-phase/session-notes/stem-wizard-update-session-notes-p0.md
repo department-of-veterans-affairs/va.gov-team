@@ -1,7 +1,7 @@
 ## Session Notes
 ### Participant #0
 
-	Monday, January 6 12:00pm - 12:30pm 	
+	Wednesday, January 27 12:00pm - 12:30pm 	
 	Veteran 	
   	Male 	
   	20 - 30 	
