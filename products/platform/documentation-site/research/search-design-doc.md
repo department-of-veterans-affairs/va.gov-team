@@ -103,8 +103,7 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 
 ### Open Questions and Risks
 
-- Should we index private documentation sources? If so, what private documentation sources can we expose to public users, if any?
-- Should the landing page be public only, or should it also support authenticated users?
+- Since the documentation landing page will be public only, we will not be able to search private sources of documentation. If searching private documentation becomes a necessary feature in the future, the proposed implementation will likely not be sufficient.
 - How often should we reindex our documentation sources? For perspective, Algolia's open source crawler runs every 24 hours.
 - What should the URL of the documentation landing page be? Since we have `design.va.gov`, does something like `docs.va.gov` make sense?
 - What is the current opportunity cost of building a custom solution? What are we choosing to delay right now by building a custom solution?
