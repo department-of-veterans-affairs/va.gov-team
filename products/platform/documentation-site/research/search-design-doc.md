@@ -6,7 +6,7 @@
 
 **Status:** **Draft**
 
-**Approvers:** Andrew G., Megan K., Rian F., DevOps
+**Approvers:** Andrew G., Megan K., Rian F., VSP Ops
 
 ## Overview
 
