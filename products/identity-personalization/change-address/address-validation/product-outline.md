@@ -137,6 +137,10 @@ If a user's address does not return any suggested addresses we show the followin
 
 ![Address not found error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/change-address/address-validation/error%20messages/address%20not%20found.png)
 
+If the API detects that the entered address is an apartment building but does not include an apartment number we show the following error:  
+<br>
+![Missing unit number error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/change-address/address-validation/error%20messages/missing%20unit%20number.png)
+
 ## Service Level Objective
 
 | Service&#160;Level&#160;Indicator | Service Level Objective |
