@@ -38,25 +38,10 @@ _**WIP** - content is being moved from here to the [VA.gov Product folder](https
 ---
 
 # Executive Summary
-Rated Disabilities is a common function among the veteran community to see what their Total Calulated Disability Rating is, what has factored into that calculation and what is currently pending from the Claim Status Tool.  These data are important as they inform the Veteran what their service connected rating is and what benefits they might be elegible for.  
+Migrate the View Rated Disabilities function from eBenefits to VA.gov.
 
 ## User Problem Statement  
-As a Veteran, I want to be able to view my Rated Disabilities quickly and easily after logging in to VA.gov.  Currently, a user might login to VA.gov, but then need to go over to ebenefits.va.gov and that might not be intuitive.  
-
-## Solution Goals  
-As with several other features within eBenefits, the effort primarily involves migrating the Rated Disabilities feature into VA.gov so that it can be viewed easily from a link from within their profile.  
-
-### User Goals  
-Presenting the Veterans Rated Disabilities information quickly and clearly without logging in, or visiting, another page.  
-
-### Business Goals
-The VA will see an added benefit in that a significant percentage of its traffic looking for this information will be better informed and receive the benefits they deserve.    
-
-## Assumptions
-The migration will be a critical strategy in getting this feature into a modern development environment and its new location will provide smoother access at the user level.  The Rated Disabilities and View Dependents screens will test well against their basic function: displaying information. The screen layout and card arrangements will prove adequate, the text will be clear to most users. The lack of sidebar navigation may jar users, who will be inclined to back-button to previous screens. Rated Disabilities will be lightly used by Veterans (who have instant recall of their Total Combined Disabilities Rating (TCDR)); View Dependents will be used occasionally when there is a change of status for a dependent, or if investigating a change in benefits payments. Veterans may want disabilities benefits tools/screen to be linked in some way.
-
-## Requirements and Constraints
-Since this feature uses the `vets-api` via EVSS, most of the endpoints are relatively easy to call and display, however, the Total Combined Disability Rating was proved to be a challenge to get a hold of.  
+As a Veteran, I want to view my individual rated disabilities and total disability rating so that I can make sure they're correct and get the benefits I've earned.
 
 ## Discovery Takeaways
 For the most part, users use Rated Disabilities as intended, to ensure they have the correct rating.  If not, they can simply go to the Claim Status Tool and see the status.  
@@ -67,20 +52,7 @@ For the most part, users use Rated Disabilities as intended, to ensure they have
 - The most prominent pain points seemed to center around login/authorization, and call center experiences.
 - The most requested featured included real-time chat, drill-down details for specific disabilities, and specific information regarding the VA disability ratings formula.  
 
-[More information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)
-
-## Solution Approach
-Primarily, the solution has consisted of migrating this tool from the `ebenefits` subdomain over to VA.gov, linking from a place that makes sense (dashboard or MyVA) and implementing the VA.gov's new design system.
-
-## Value Propositions
-#### User Value  
-Having Rated Disabilities closer to the VA.go experience should allow the user to feel more connected to their rating and their statuses.  
-
-#### Business Value
-Keeping the Veteran engaged should also in create an environment where benefits are transferred faster and smoother.
-
-## KPIs  
-Once a feature is moved, comparing its exposure and usage will be insightful from its old location to its new location.    
+[More information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)  
 
 ---
 
@@ -102,14 +74,15 @@ Once a feature is moved, comparing its exposure and usage will be insightful fro
 Contact @jason-gcio for more info
 
 ## Error Handling
-There are a few types of errors depending on the component.  The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data simply does not exist.
+The components should all reflect the state whether: the data cannot be displayed, the data cannot be reached by our system, or the data does not exist.
 
 ![Rated Disabilities Errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/images/RD-errors.png)
 
 ## Service Level Objective
-...
+
+
 ## API Calls and Dependent Systems
-Rated Disbailities uses the `vets-api` via EVSS.
+- EVSS as of launch, to be trasitioned to BGS.
 
 ## Resources and Documentation
 - [Discovery and Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119)
@@ -128,8 +101,8 @@ eBenefits, rated disabilities, total combined disability rating, claims and appe
 - VA Digital Strategist(s) `*`:
 - DSVA Lead `*`: Steve Kovacs
 - Product Manager `*`: Jason Wolf
-- Design Lead: Shawna
-- Eng Lead: Joe Costa
+- Design Lead: 
+- Eng Lead: 
 - VA Web Comms Partner: 
 - VA Call Center Partner(s): 
 - Production Testing Partner(s):
