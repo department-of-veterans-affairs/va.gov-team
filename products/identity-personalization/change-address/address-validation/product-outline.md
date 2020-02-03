@@ -141,23 +141,42 @@ We expect to see the following:
 
 ## How to Access and Test
 
-**Staging**
-
-- https://staging.va.gov/my-va/
+- Login with [vets.gov.user+130@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv#L132) on https://staging.va.gov
+- Visit https://staging.va.gov/profile/
+- Edit the "Mailing Address" or "Home address" under "Contact information"
 
 ## Error Handling
 
 - Information regarding "error codes" can be found at this [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/%20ErrorCodesForOverride_DRAFT-WithExamples.xlsx)
 
-- [Address Validation sample txt files](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/sample-txt-files)
+### Address suggestions
 
-Vet360 team and VA.gov team have determined to change the severity on address validation errors allowing more candidate address scenarios to pass through. 
+**Endpoint**: POST profile/address_validation
+
+If a user's address does not return any suggested addresses we show the following error. If the user is sure the address is correct they can override the error and save the address as-is.  
+
+![Address not found error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/change-address/address-validation/error%20messages/address%20not%20found.png)
+
+If the API detects that the entered address is an apartment building but does not include an apartment number we show the following error:  
+<br>
+![Missing unit number error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/change-address/address-validation/error%20messages/missing%20unit%20number.png)
+
+If the API does not recognize the entered apartment number the following error is shown:
+<br>
+<br>
+![Bad unit number error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/designs/Edit%20bad%20unit%20number%20with%20override.png)
 
 ## Service Level Objective
 
+| Service&#160;Level&#160;Indicator | Service Level Objective |
+| :-------------------------------- | ----------------------- |
+| Availability | Should not exceed 5% 5xx error rates (as a percent of all requests) for more than 5 consecutive minutes<br/>[Link to rule](https://github.com/department-of-veterans-affairs/devops/blob/c6827877dda83b878bf9a71f80e4703f7977beee/ansible/deployment/config/prometheus/rules/application.rules#L6) |
+| Latency | Percent of requests served in under 2 seconds should not drop to or below 95% for more than 5 consecutive minutes<br/>[Link to rule](https://github.com/department-of-veterans-affairs/devops/blob/c6827877dda83b878bf9a71f80e4703f7977beee/ansible/deployment/config/prometheus/rules/application.rules#L24) |
+| Incident Response | Initial acknowledgement of the issue within 15 minutes of a triggered alert<br/>[Link to rule](https://github.com/department-of-veterans-affairs/devops/blob/2913da3512a65a8cb988ad189235794ed1067299/terraform/modules/pagerduty_team/main.tf#L21) |
+
 ## API Calls and Dependent Systems
 
-Candidate Address Validation uses the ______ API ()
+Candidate Address Validation uses the VA profile address validation API (https://api.va.gov/services/address_validation/v2/) to get address suggestions and override keys. Override keys are sent to the VA profile contact information API (https://www.vet360.va.gov/person-mdm-cuf-person-hub/cuf/person/contact-information/v1/addresses) in order to update the user's address.
 
 ## On Call Support
 
