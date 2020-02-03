@@ -133,13 +133,15 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 
 On January 29, 2020, eBenefits removed the direct deposit feature from the website and now send all users over to VA.gov.
 
-**Late December 2019** 
+**Mid December 2019** 
 
-Direct deposit has been launched to 100% of users on VA.gov.
+- Direct deposit has been launched to 100% of users on VA.gov.
+- We completed our investigation of the "routing number flagged for fraud" error and determined this was a result of a list of previously compromise routing numbers kept by the BGS team and had nothing to do with our tool. Given this, we were able to launch to all users.
 
 **Early December 2019** 
-- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilized by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile team’s implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proofing work as more discussions are needed around the correct approach to take regarding that work. The Authenticated Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
 
+- We launched to 75% of users.
+- We decided not to add additional gating for DS Logon users and need to check in with the fraud team to see whether fraud incidence have reduced.
 - The errors we're seeing are about 80% "account flagged" errors, which we won't be able to reduce.  Users have to call the help desk to unflag the account and are currently getting a message telling them take that action. 
 - There are also some "bad routing number" errors that are also likely just that, an incorrectly entered routing number. 
 - At the moment, the only one that might be erroneous would be the "bad home phone" errors. The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
@@ -170,9 +172,9 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - **8/19/2019**: Resumed development and began launch planning
 - **8/20/2019**: Approval from eBenefits fraud team to move forward
 - **8/21/2019**: QA begins
-
 - **12/10/2019**: learned mroe detailed information regarding fraud error flags. More info can be located [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
-
+- **12/16/2019**: Laucnhed to 100% of users
+- **1/29/2020**: eBenefits removed direct deposit for comp and pen from their site.
 
 ## How to Access and Test
 
@@ -183,7 +185,6 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - LOA3 without 2FA: Will be prompted to setup 2FA before accessing.
 - LOA1: Create an account on staging and navigate to the profile. You will see a prompt to verify your identity since the profile is only available to users who have verified their identities.
 - [QA Manual Testing Matrix](https://app.zenhub.com/files/31788863/7d925a6a-4824-4437-a80e-2dbaf2224dfa/download) spreadsheet
-
 
 ## Error Handling
 
@@ -208,7 +209,6 @@ If we get a `key` value of `'payment.accountRoutingNumber.invalidCheckSum'` we s
 
 All other errors get the following message:
 ![put error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20save%20error%20general%20error.png)
-
 
 ## Service Level Objective
 
@@ -240,4 +240,5 @@ We also use the govDelivery API to send emails.
 ![screen shot 2018-10-29 at 10 19 58 am](https://user-images.githubusercontent.com/21130918/47655822-3a87f000-db64-11e8-98a4-ebebb2a8183c.png)
 
 #### The eBenefits Direct Deposit Secreen shots can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
+
 
