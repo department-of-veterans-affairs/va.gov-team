@@ -230,8 +230,6 @@ We also use the govDelivery API to send emails.
 
 ## Design 
 
-[Designs are in this folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/design).
-
 ### Screenshots
 
 #### Before 
