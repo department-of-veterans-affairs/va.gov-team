@@ -55,7 +55,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 * You must scrub all notes of all PII before uploading them to Github.  PII is all content that could be used to identify the participant. Name, age, date of birth, location or specific VA facility (unless that is critical to the study), diagnoses, etc.
 * An [example of verbatim notes can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/discovery/research/discovery-aug-2019/notes/p7.md).
 
-## <a id="recording"></a>Recorded Interviews
+## <a id="recording"></a>Recording Sessions
 * Get verbal consent from your participant within the recording itself. First ask if it’s ok, press record, then say “can you confirm on this recording that you are ok with this session being recorded?,” or whatever comes naturally to capturing a recording of what they’ve agreed to. 
 * Make sure you press “record” yourself in the meeting software if you want your session recorded; they are not automatically recorded
    * In Zoom during a session, check under the Meetings tab and select Recorded
@@ -67,6 +67,10 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 [Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/what-to-do-with-recordings.md) 
 
 ## <a id="running-sessions"></a>Running the Sessions
+* There is no need to share your video or ask participants to share video. Veterans are not instructed to share or expected to share video. Because of these reasons:
+   * logistics - sometimes getting screensharing up and running is hard enough!
+   * bandwidth - Veterans in low bandwidth locations may not be able to share video
+   * comfort - we don't want to make any user feel uncomfortable
 * You will hear hard stories from veterans. It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up. It is almost never necessary or relevant to the goals of any VSA or VA.gov study to dig deeply into folks' trauma, however. The best attitude when in doubt is a middle ground where you show compassion but then move on the next task or question in a graceful way. E.g. "that sounds so hard/frustrating/difficult. [Switch back to script or intention of study] Could you tell me a bit more about your experience applying for that benefit?"
 * Remember not to ask questions that are the same wording as what's on your designs. For example if you have a "learn more" dropdown don't ask "how would you learn more about this?"  It's pretty leading if you use the same terminology.  Instead something like "if you're confused, where would you go to get more information?"
 * Ask open-ended questions and avoid Yes/No prompts. 
