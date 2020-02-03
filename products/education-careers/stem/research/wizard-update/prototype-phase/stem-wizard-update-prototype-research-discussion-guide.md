@@ -35,7 +35,7 @@ Are you comfortable if I record the audio and screen movements today? Thank you.
 
 Let’s start with a few warm-up questions 
 
-1.	Which Education benefit do you have?
+1.	Which Education benefits have you used (Post-9/11, Montgomery, etc.)?
 
 2.	What type of degree are you pursuing?
 
