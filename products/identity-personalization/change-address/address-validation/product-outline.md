@@ -129,6 +129,14 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 
 - Information regarding "error codes" can be found at this [link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/%20ErrorCodesForOverride_DRAFT-WithExamples.xlsx)
 
+### Address suggestions
+
+**Endpoint**: POST profile/address_validation
+
+If a user's address does not return any suggested addresses we show the following error. If the user is sure the address is correct they can override the error and save the address as-is.  
+
+![Address not found error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/change-address/address-validation/error%20messages/address%20not%20found.png)
+
 ## Service Level Objective
 
 | Service&#160;Level&#160;Indicator | Service Level Objective |
