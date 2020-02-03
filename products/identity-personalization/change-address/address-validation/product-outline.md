@@ -141,6 +141,11 @@ If the API detects that the entered address is an apartment building but does no
 <br>
 ![Missing unit number error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/av-readme-update/products/identity-personalization/change-address/address-validation/error%20messages/missing%20unit%20number.png)
 
+If the API does not recognize the entered apartment number the following error is shown:
+<br>
+<br>
+![Bad unit number error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/designs/Edit%20bad%20unit%20number%20with%20override.png)
+
 ## Service Level Objective
 
 | Service&#160;Level&#160;Indicator | Service Level Objective |
