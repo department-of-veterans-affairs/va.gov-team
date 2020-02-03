@@ -134,7 +134,7 @@ The research assessed the forms ability to support users on three main tasks:
 
 - Participants understood the Signature Boxes at the end of the form. Many wanted to review the application, and seemed to understand the “accordion” interaction and were comfortable clicking the box and entering in the names of the Veteran and caregiver (see 7 under Key Findings). 
 
-##Hypotheses
+## Hypotheses
 Prior to the study, we hypothesized that users will be able to navigate through the form relatively easily, but may have issues with the following:
 
 - Clearly understanding when they’re entering veteran information versus caregiver information
