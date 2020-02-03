@@ -12,7 +12,7 @@ TBD
 #### Wayfinding/Navigation to Form
 TBD
 
-#### Gating Form (Business Process) Workflows
+#### Application (Business Process) Workflows
 TBD
 
 #### Hypothesis
@@ -30,6 +30,7 @@ TBD
 - Where do we need helper content like tell-me-mores or inline instructions.
 - Is the chaptering of the form accetable? How is the balance of multiple chapters vs. page/form length?
 - Is the list/loop pattern acceptable when entering multiple individuals (ex-spouses, children, students, etc.)?
+- Workflows of particular interest: Add Spouse (individually). Add Spouse/Add Child (combo), Add Spouse/Report Divorce (combo), Add Child/Add Student (combo)...
 
 #### Success
 TBD
