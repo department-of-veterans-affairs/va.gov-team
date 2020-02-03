@@ -67,7 +67,7 @@ We have to be careful with -- and if possible avoid using -- recordings because 
 [Notes about what (not to) do with recordings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/what-to-do-with-recordings.md) 
 
 ## <a id="running-sessions"></a>Running the Sessions
-* There is no need to share your video or ask participants to share video. Veterans are not instructed to share or expected to share video. Because of these reasons:
+* There is no need to share your video or ask participants to share video. Veterans are not instructed to share or expected to share video because of these reasons:
    * logistics - sometimes getting screensharing up and running is hard enough!
    * bandwidth - Veterans in low bandwidth locations may not be able to share video
    * comfort - we don't want to make any user feel uncomfortable
