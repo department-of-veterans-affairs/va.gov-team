@@ -19,7 +19,17 @@ TBD
 TBD
 
 #### Guiding Questions
-TBD
+[ Preliminary list... Work-in-progress ]
+- Do participants undestand the 21-686c is a multi-purpose form?
+- Do participants know they have to reports changes in their dependents status? Particularly things that remove them from their disability benefits, like marriage, leaving home, not attending school, etc.?
+- Will participants accept the checkbox selection, and understand it makes the form "al-la-carte?"
+- What are users' espectations about real-life scenarios (birth, death, divorce) and theri use of the 21-686c? Particularly, what (workflow) combinations would they expect are likely. 
+- How do users feel about a 'worst-case" end-to-end form that included all scenarios? Would they rather submit different workflows separately of all together? Would they like "pre-packaged" scenarios (Add spouse/add child)
+- How do user feel about the former spouse sections of the add-spouse workflow? What can we do do to make it more tolerable?
+- Generally, is the labelling and section headers clear and helpful?
+- Where do we need helper content like tell-me-mores or inline instructions.
+- Is the chaptering of the form accetable? How is the balance of multiple chapters vs. page/form length?
+- Is the list/loop pattern acceptable when entering multiple individuals (ex-spouses, children, students, etc.)?
 
 #### Success
 TBD
