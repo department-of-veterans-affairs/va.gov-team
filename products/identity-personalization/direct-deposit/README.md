@@ -118,6 +118,13 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 
 ## Status
 
+**December 2019** 
+- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilized by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile team’s implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proofing work as more discussions are needed around the correct approach to take regarding that work. The Authenticated Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
+
+- The errors we're seeing are about 80% "account flagged" errors, which we won't be able to reduce.  Users have to call the help desk to unflag the account and are currently getting a message telling them take that action. 
+- There are also some "bad routing number" errors that are also likely just that, an incorrectly entered routing number. 
+- At the moment, the only one that might be erroneous would be the "bad home phone" errors. The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
+
 **8/21/19**
 
 As of 8/16/2019, VBA leadership has asked the DSVA team to launch the direct deposit functionality on VA.gov as quick as possible. We received clearance to pursue launch despite not yet having everything in place for the eBenefits fraud team.
@@ -133,9 +140,6 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - Working with the ID.me team to improve security for MFA to protect Veterans from Fraudsters. Still to be decided if this will be included in the MVP. 
 
 - There are on going conversations with the Fraud team on eBenfits. They expressed a desire to have IP address tracked in order to provide those to law enforcement to catch fraudsters. These conversations are still on going at this time. 
-
-**December 2019** 
-- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilized by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile team’s implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proofing work as more discussions are needed around the correct approach to take regarding that work. The Authenticated Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
 
 ## Solution Narrative
 
