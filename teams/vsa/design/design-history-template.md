@@ -1,5 +1,5 @@
 # Design Title Template
-Link to product brief: 
+Link to product brief:  
 Designers: Name, Name
 
 //Note: Put the "latest" iteration at the top of the page, so if someone wants to see the latest design direction they don't have to scroll to the bottom. 
