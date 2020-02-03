@@ -129,7 +129,15 @@ At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill
 
 ## Status
 
-**December 2019** 
+**January 2020**
+
+On January 29, 2020, eBenefits removed the direct deposit feature from the website and now send all users over to VA.gov.
+
+**Late December 2019** 
+
+Direct deposit has been launched to 100% of users on VA.gov.
+
+**Early December 2019** 
 - Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilized by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile team’s implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proofing work as more discussions are needed around the correct approach to take regarding that work. The Authenticated Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
 
 - The errors we're seeing are about 80% "account flagged" errors, which we won't be able to reduce.  Users have to call the help desk to unflag the account and are currently getting a message telling them take that action. 
