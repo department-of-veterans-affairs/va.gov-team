@@ -1,5 +1,5 @@
 ---
-name: Design intent Collaboration
+name: Design Intent Collaboration
 about: Request to Schedule a Design intent Collaboration
 title: Design intent Collaboration[Feature-Name]
 labels: product support
