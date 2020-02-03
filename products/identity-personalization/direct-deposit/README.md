@@ -16,10 +16,8 @@ Last Updated December 10, 2019
 |Lisa Koenigsberg|DSVA Lead| 
 |Samara Strauss |DSVA Lead Designer|
 |Justin Pickett |Product Manager|
-|Arthur Green |Designer|
 |Nick Sullivan |Original Engineering Lead (now on Platform)|
 |Erik Hansen | FE Engineer|
-|Amen Ra | FE Engineer|
 |Lihan Li | BE Engineer |
 |Tze-chiu Lei | QA Analyst |
 |Frank Bryceland | General eBenefits contact |
@@ -56,67 +54,95 @@ Last Updated December 10, 2019
 ---
  
 # Executive Summary
-Due to large number of fraud cases and security concerns on eBenefits the Direct Deposit feature is being ported from eBenefits to VA.gov. The migration of Direct Deposit started as a desire for MFA, which Va.gov has. While eBenefits houses both Compensation & Pension functionality and GI Bill payment information, the MVP will only include Comp & Pension at this time.
+
+Due to large number of fraud cases and security concerns on eBenefits the Direct Deposit feature is being ported from eBenefits to VA.gov. The migration of Direct Deposit started as a desire for MFA, which VA.gov has. While eBenefits houses both Compensation & Pension functionality and GI Bill payment information, the MVP will only include Comp & Pension at this time.
 
 The full background on Direct Deposit is found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
 ## User Problem Statement
-As a Veteran, I want to securely access and change my compensation and pension direct deposit information.
+
+- As a Veteran, I want to securely access and change my compensation and pension direct deposit information so I can receive the money that I've earned from the VA.
 
 ## Solution Goals
-The Personal Information page of eBenefits, which contains the Direct Deposit functionality, closely resembles the look and functionality of the VA.gov Profile. It seems a natural fit for the VA Profile to be extended to contain a Direct Deposit section. 
 
+- We will house direct deposit in the VA.gov user profile.
+- All users need to be LOA3 and have enabled 2FA to use the feature. 
 
 ### User Goals
-- Va.gov Direct Deposit will be a secure way to access or change your compensation and pension direct deposit information.
+
+- VA.gov Direct Deposit will be a secure way to access or change your compensation and pension direct deposit information.
 
 ## Hypothesis
+
 - 2FA will be one of the major reasons for increase security of direct deposit on Va.gov.
 - Moving direct deposit to VA.gov will reduce fraud cases.
 - Moving direct deposit to VA.gov is more secure and better for Veterans.
 
 ## Requirements 
+
 - Only LOA3 user with 2FA setup will have access the Direct Deposit section of the Profile. 
-- Upon setup of 2FA or change the user will receive a email confirmation. **(need to verify)**
-- When Direct Deposit information is changed an email confirmation will be set to the user. **(need to verify)**
-- Both 2FA and change in Direct Deposit information emails will have information to report fraud.
+- When Direct Deposit information is changed an email confirmation will be set to the user. 
+- Direct Deposit information emails will have information to report fraud.
 
 ## Constraints
-- Fraud has requirements that need to be in place. 
-  - Received list of requirements, team looking into those currently. 
-  - Need to speak with more people around the rules eBenfits had in place. (ie "Financially-incompetent Veteran") 
+
+- The fraud team at the VA needed reports to be in place so that they could track and research fraud cases. This put about a two month pause on the project as the VA.gov identity team worked with ID.me to get APIs set up to be able to pull the information the needed when they needed it.
 
 ## Discovery Takeaways
 - Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
 
 ## Decisions
-At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill are stored in _LTS Ch33_ but have not been exposed in a consumable service, although this is still being researched. 
+
+At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill are stored in _LTS Ch33_ but have not been exposed in a consumable service.
 
 ## The Plan
+
 - Work with the eBenfits to better understand needs of Veterans. 
 - Implement a secure direct deposit feature for Compensation & Pension in the user profile.
 - Port the Post-9/11 GI Bill direct deposit after more discovery.
 - Test Test Test
 
 ## PHASED ROLL OUT APPROACH
+
 - Intial roll out released to 10% of users - 9.25.19
 - Ramped up from 10% of users to 50% of users - 10.16.19
 - Ramped up from 50% of users to 75% of users - 12.5.19
 - Ramped up to 100% of users — 12.16.19
 
 ## KPIs
+
 ### Objective
+
 - Improve direct deposit security and decrease the number of cases of fraud.
 - Implement improved error messaging that will help direct users to the National Call Center if they are experieincing errors when attempting to update their Direct Deposit information. 
 - Decrease "flagged for fraud" error rate. Information on this can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
 
 ### Tracking
-- Work with the fraud team to see if there is an decrease in cases. (Need to see if we can access this.) **(need to update)**
+
+[Direct Deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
+
+- Work with the fraud team to see if there is an decrease in cases. (Need to see if we can access this.)
+
 ---
 
 # Implementation Info
 
 ## Status
+
+**January 2020**
+
+On January 29, 2020, eBenefits removed the direct deposit feature from the website and now send all users over to VA.gov.
+
+**Late December 2019** 
+
+Direct deposit has been launched to 100% of users on VA.gov.
+
+**Early December 2019** 
+- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilized by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile team’s implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proofing work as more discussions are needed around the correct approach to take regarding that work. The Authenticated Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
+
+- The errors we're seeing are about 80% "account flagged" errors, which we won't be able to reduce.  Users have to call the help desk to unflag the account and are currently getting a message telling them take that action. 
+- There are also some "bad routing number" errors that are also likely just that, an incorrectly entered routing number. 
+- At the moment, the only one that might be erroneous would be the "bad home phone" errors. The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
 
 **8/21/19**
 
@@ -133,9 +159,6 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 - Working with the ID.me team to improve security for MFA to protect Veterans from Fraudsters. Still to be decided if this will be included in the MVP. 
 
 - There are on going conversations with the Fraud team on eBenfits. They expressed a desire to have IP address tracked in order to provide those to law enforcement to catch fraudsters. These conversations are still on going at this time. 
-
-**December 2019** 
-- Currently the direct deposit feature that has been ported from eBenefits to VA.gov is being utilized by 75% of users. While we are monitoring the usage of the feature for errors, we are incorporating an addition with the candidate address validation implementation in parallel in conjunction with EVSS and VA Profile team’s implementation. VA leadership has noted that we will be holding off for now on implementing any changes surrounding DS Logon identity proofing work as more discussions are needed around the correct approach to take regarding that work. The Authenticated Experience team is currently monitoring the system activity and identifying any increases in error rates resulting from continuing to ramp up towards 100% of user activity. During sprint 10 we will make the decision if we are ready to ramp up to 100% at the conclusion of the sprint. 
 
 ## Solution Narrative
 

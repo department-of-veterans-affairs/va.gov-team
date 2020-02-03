@@ -1,7 +1,7 @@
 ---
-name: Information Architecture Finalization
+name: IA Request
 about: Finalize the IA of your product for VA.gov
-title: IA Finalization Request [Feature-Name]
+title: IA Request [Feature-Name]
 labels: product support, content-ia-team
 assignees: andreahewitt-odd, meganhkelley, mnorthuis
 

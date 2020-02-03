@@ -1,3 +1,5 @@
+# This is not a current project or priority in any VSP team.
+
 # Product Directory
 
 ## Communications

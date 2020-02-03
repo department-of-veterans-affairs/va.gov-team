@@ -8,11 +8,9 @@
 
 For deeper reading: [OKR - The Ultimate Guide to Objectives and Key Results](https://www.perdoo.com/the-ultimate-okr-guide/) and [Google's re:Work Guide: Set goals with OKRs](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/).
 
-**Bet**: VSP Level hypothesis we have around a major stream of work we believe will enable us to achieve our OKRs. We store bets in ZenHub using the Release functionality.
+**Super Epic**: Vision for an initiative your team can take on that you hypothesize will drive forward the VSP OKRs. All actionable items for team members (Epics, user storiees, tasks, issues) should roll up to a Super Epic. Super Epics are prioritized into the Now, Next, and Future pipelines of the ZenHub board, and together comprise your team's agile roadmap. Store Super Epics in ZenHub using the Epic functionality and the `super-epic` label, and the Milestone for the VSP Objective it is furthering. 
 
-**Super Epic**: Sprint team level area of work, describing a large initiative that will help a team contribute to validating the overall VSP bets and OKRs. We store Super Epics in ZenHub using the Epic functionality and the `super-epic` label.
-
-**Epic**: Sprint team level area of work that breaks a super epic down into more manageable chunks of work. We store Epics in ZenHub using the Epic functionality and the `epic` label, and we nest each Epic within its respective Super Epic.
+**Epic**: Large chunk of work, that together in a group of Epics, helps team members understand how to execute on a Super Epic. Store Epics in ZenHub using the Epic functionality and the `epic` label, and nest each Epic within its respective Super Epic.
 
 **User story**: "the smallest unit of work in an agile framework. It’s an end goal, not a feature, expressed from the software user’s perspective." (from Atlassion). A group of user stories together should fully describe the feature or service your target user group needs. We store user stories in their respective product folder here in GitHub, and we include user stories in the epics and issues in ZenHub depending upon whether a user story is appropriate to guide the task.
 

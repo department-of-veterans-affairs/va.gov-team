@@ -11,8 +11,8 @@
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DSVA Lead| samara.strauss@va.gov |
-|??? |Product Manager| tressa.furner@adhocteam.us |
-|Tressa Furner |Designer| jpickett@governmentcio.com |
+|??? |Product Manager| ??? |
+|Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Brad Conley | FE Engineer| bconley@governmentcio.com |
 |Lihan Li | BE Engineer | lihan@adhocteam.us |
@@ -70,30 +70,39 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 - As a veteran, I want to be able to override the determination that my address might not be valid if I know my address to be correct (example: moved to a new neighborhood that's not yet on the map).
 
 ## Hypothesis
-- Reduction in the amount of returned USPS mail.
+
+We expect to see the following:
+
+- A reduction in the amount of returned USPS mail.
 - A decrease in overall calls the National Call Center regarding errors from users not able to update their mailing address. 
-- The system will have more accurate mailing address data for users by implementing the correct solutions to capture the right mailing address information when inputed by the user. 
+- More accurate mailing address data for users. 
 
 ## Requirements 
+
 - Only LOA3 user with 2FA setup will have access to the mailing address section of the Profile.
-- When mailing address information is changed an email confirmation will be set to the user.
+- We will show suggested addresses when we have them, but will not show them if they are not available.
+- We will always allow users to go back and edit their address if we raise the address validation flag.
 
 ## Constraints
-- Severity levels codes will need to be authorized to allow mailing addresses to be overriden when not initially recognized from the users input. 
 
+- Severity levels codes will need to be authorized to allow mailing addresses to be overriden when not initially recognized from the users input. 
+- We can not highlight for users exactly what has been changed about their address in a suggested address, eg. highlighting that we've changed "St." to "Street."
 
 ## Discovery Takeaways
-- Initial Discovery notes can be found [here]()
+
+- Discovery was not documented, unfortunately.
 
 ## Decisions
-- 
+
+- Address override will be allowed for all addresses, even bogus ones. We assume that users know best, and we also want to make sure people who move into new neighborhoods or remote neighborhoods that might not be recognized can save their addresses.
 
 ## The Plan
-- Work with the Vets360 team to better understand needs of the API interaction.
+- Work with the VA Profile team to better understand needs of the API interaction.
 - Implement a secure address change feature for the user in the user profile section.
 - Test Test Test
 
 ## KPIs
+
 ### Objective
 - Improve the ability to manage address information and decrease the number of returned snail mail cases.
 - Decrease overall call volume to National Call Center regarding mailing address update errors. 
@@ -108,22 +117,33 @@ As a Veteran, I want to be able to update my address of VA.gov. If that address 
 
 ## Status
 
-- The errors we're seeing are about 80% "account flagged" errors, which we won't be able to reduce.  Users have to call the help desk to unflag the account and are currently getting a message telling them take that action. t
-- There are also some "bad routing number" errors that are also likely just that, an incorrectly entered routing number. 
-- At the moment, the only one that might be erroneous would be the "bad home phone" errors. The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
+**Feb 2020**
 
+- We are approaching QA and should be launching the feature shortly after that.
+
+**Jan 2020**
+
+- We decided to make it so all addresses can override the "invalid" determination since users know their addresses best.
 
 ## Solution Narrative
 
-- The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
+- **Aug 2019**: Discovery begins
 
+- **September 2019**: Initial design complete
+
+- **October 2019**: User testing; build begins
+
+- **December 2019**: QA planned but halted due to a significant amount of bugs; Also, VA Profile needed to make some changes and get us a new endpoint. 
+
+- **Jan 2020**: VA Profile delivers new endpoint; Bug fixes complete
+
+- **Feb 2020**: QA begins
 
 ## How to Access and Test
 
 - Login with [vets.gov.user+130@gmail.com](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv#L132) on https://staging.va.gov
 - Visit https://staging.va.gov/profile/
 - Edit the "Mailing Address" or "Home address" under "Contact information"
-
 
 ## Error Handling
 
@@ -158,8 +178,6 @@ If the API does not recognize the entered apartment number the following error i
 
 Candidate Address Validation uses the VA profile address validation API (https://api.va.gov/services/address_validation/v2/) to get address suggestions and override keys. Override keys are sent to the VA profile contact information API (https://www.vet360.va.gov/person-mdm-cuf-person-hub/cuf/person/contact-information/v1/addresses) in order to update the user's address.
 
-
-
 ## On Call Support
 
 #vsp-platform-support and #vsa-authd-exp slack channels
@@ -170,4 +188,18 @@ Candidate Address Validation uses the VA profile address validation API (https:/
 
 ### Screenshots
 
+**Override w/ suggestions**
 
+![Override w/ suggestions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/designs/Override%3B%20Suggestions.png)
+
+**Override w/ NO suggestions**
+
+![Override w/ NO suggestions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/designs/Override%3B%20No%20suggestions.png)
+
+**Add unit number w/ override**
+
+![Add unit number w/ override](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/designs/Add%20missing%20unit%20number%20with%20override.png)
+
+**Edit unit number w/ override**
+
+![Edit unit number w/ override](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/change-address/address-validation/designs/Edit%20bad%20unit%20number%20with%20override.png)

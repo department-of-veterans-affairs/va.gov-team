@@ -216,8 +216,6 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open issues
 
-* [[SCREENREADER]: JAWS is reading from the top of the screen on GIBCT after selecting a school - #1062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1062)<br/>
-**Opened:** August 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[COGNITION]: GIBCT® - Standardize the search and filter behavior with a "Go" button click - #1276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1276)<br/>
 **Opened:** August 23, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[COGNITION]: GIBCT - Know before you go video has a logo with nondescript alt text - #3920](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3920)<br/>
@@ -227,8 +225,6 @@ Each application or logical section of the site will have a heading and a detail
 * [[KEYBOARD]: GIBCT Learn more modals scroll down the page, change focus, when I press TAB - #1133](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1133)<br/>
 **Opened:** August 20, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: GIBCT® - Consider making the tuition and housing breakdowns into definition lists - #1277](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1133)<br/>
-**Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
-* [[DESIGN]: GIBCT® - Consider revising See Results button placement at mobile size - #1278](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1278)<br/>
 **Opened:** August 23, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 ---
@@ -378,10 +374,6 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[KEYBOARD]: Text Appointments - Skip link targets need tabindex -1 for IE11 to behave properly - #2429](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2429)<br/>
 **Opened:** October 14, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-* [[SCREENREADER]: Text Appointments - Focus must be managed when users press Delete in the modal dialog - #2430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2430)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-* [[ZOOM]: Text Appointments - Need a space between input and label in modal window - #2435](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2435)<br/>
-**Opened:** October 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: Text Appointments - Edit buttons would benefit from aria-labels - #2440](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2440)<br/>
 **Opened:** October 14, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
