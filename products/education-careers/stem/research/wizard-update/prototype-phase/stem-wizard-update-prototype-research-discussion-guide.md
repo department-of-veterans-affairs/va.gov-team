@@ -102,19 +102,25 @@ Let's go back to the beginning and start the 2nd scenario
 &nbsp; 
 &nbsp; 
 
-### Scenario 2: Apply for STEM Scholarship
+### Scenario 2: Apply for STEM Scholarship Science
 
 [Start the participant on the "How to apply" page Education Routing Wizard  
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
   
-This time, you'll be going through the screens as someone who is studying exactly what you are studying and who has exactly the same amount of educational benefits remaining as you do. 
+This time, you'll be going through the screens as a science major who has 2 years of educational benefits remaining.  Starting on this page, how would you apply for the STEM Scholarship?   
 
-Let's say you've heard about the STEM Scholarship from a friend.  Using this page, how would you apply for the STEM Scholarship?   
+### Scenario 3: Apply for STEM Scholarship History
+
+[Start the participant on the "How to apply" page Education Routing Wizard  
+https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
+https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
+  
+This time, you'll be going through the screens as a history major who has 4 months of educational benefits remaining.  Starting on this page, how would you apply for the STEM Scholarship?   
 
 **General Questions**
 
-Now I'm going to ask a number of questions relate to the scholarship application process.
+Now I'm going to ask a number of questions that relate to the scholarship application process.
 
 1. What are your thoughts on the overall process of applying for the STEM Scholarship?
 
