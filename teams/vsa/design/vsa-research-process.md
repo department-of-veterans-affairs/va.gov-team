@@ -71,13 +71,15 @@ We have to be careful with -- and if possible avoid using -- recordings because 
    * logistics - sometimes getting screensharing up and running is hard enough!
    * bandwidth - Veterans in low bandwidth locations may not be able to share video
    * comfort - we don't want to make any user feel uncomfortable
-* You will hear hard stories from veterans. It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up. It is almost never necessary or relevant to the goals of any VSA or VA.gov study to dig deeply into folks' trauma, however. The best attitude when in doubt is a middle ground where you show compassion but then move on the next task or question in a graceful way. E.g. "that sounds so hard/frustrating/difficult. [Switch back to script or intention of study] Could you tell me a bit more about your experience applying for that benefit?"
-* Remember not to ask questions that are the same wording as what's on your designs. For example if you have a "learn more" dropdown don't ask "how would you learn more about this?"  It's pretty leading if you use the same terminology.  Instead something like "if you're confused, where would you go to get more information?"
-* Ask open-ended questions and avoid Yes/No prompts. 
-* Follow-up questions like with “Why?” and “Tell me more” if the user has given you a short statement or not provided enough information.
-* Avoid using morale/biased language like "good!" or "perfect!" when a user completes a task in the way you'd expect.
-* If someone asks you a question about the legal rules of how a program works, make sure to say "I'm not sure. But you can go to VA.gov and call the support line listed there."  Don't guess or say anything even if you might think you know the answer, because we don't want to get in legal difficulties.
-* Avoid saying "Thank you for your service" to Veterans. Some Veterans have a negative association with that phrase.
+* Veteran specific moderating tips
+   * You will hear hard stories from veterans. It’s OK to sympathize with the participant. Saying something like “I’m so sorry you had to go through that” is perfectly acceptable after hearing a story before moving on to your task or follow-up. It is almost never necessary or relevant to the goals of any VSA or VA.gov study to dig deeply into folks' trauma, however. The best attitude when in doubt is a middle ground where you show compassion but then move on the next task or question in a graceful way. E.g. "that sounds so hard/frustrating/difficult. [Switch back to script or intention of study] Could you tell me a bit more about your experience applying for that benefit?"
+   * If someone asks you a question about the legal rules of how a program works, make sure to say "I'm not sure. But you can go to VA.gov and call the support line listed there."  Don't guess or say anything even if you might think you know the answer, because we don't want to get in legal difficulties.
+   * Avoid saying "Thank you for your service" to Veterans. Some Veterans have a negative association with that phrase.
+* General moderating tips:
+   * Remember not to ask questions that are the same wording as what's on your designs. For example if you have a "learn more" dropdown don't ask "how would you learn more about this?"  It's pretty leading if you use the same terminology.  Instead something like "if you're confused, where would you go to get more information?"
+   * Ask open-ended questions and avoid Yes/No prompts. 
+   * Follow-up questions like with “Why?” and “Tell me more” if the user has given you a short statement or not provided enough information.
+   * Avoid using morale/biased language like "good!" or "perfect!" when a user completes a task in the way you'd expect.
 * There is a channel in DSVA Slack called #feedback-backchannel.  Make sure to be in that channel when running your sessions and that your observers know about it.
    * Type “observer instructions” in the channel at the beginning of your day of sessions to give them tips
    * [Observer instructions can also be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md)
