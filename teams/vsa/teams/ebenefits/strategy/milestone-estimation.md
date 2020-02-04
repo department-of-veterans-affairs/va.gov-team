@@ -7,6 +7,8 @@
 # Milestones
 This is meant to help estimate the amount of time it might take for a full migration cycle to take.  There are some elements of this process that might happen concurrently, and some might take longer than others.  This is meant to be a living doc based on the current environment.
 
+**Reminder: If introducing unkowns, ensure they are backed up with some data.**
+
 ## Research: 2-3 Sprints
 Define the core features as they currently exist
 Fully understand components and interactions
