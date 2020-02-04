@@ -10,7 +10,9 @@ assignees: karak888
 # WIP
 
 ### Instructions
-VSA apps teams submit this intake request when is needed by the Public Website team. The details you provide help us understand the type of assignments and tickets we need to create on our team to help implement your request. 
+* Submit this request when VSA Public Website team intervention is required. 
+* Provide detailed information of your request to help us understand our role in completing your request. 
+* Requests should be submitted at least **2 weeks** in advance of the targeted launch/completion
 
 __Examples of support we provide can include:__
 - Content support for static public website pages
@@ -25,7 +27,7 @@ Make your request as soon as you're aware you will need Public Website participa
 ---
 
 ### Description of request
-**Detailed description of the request including background information and reason for the request**
+*Detailed description of the request including background information and reason for the request.*
 
 1. **Is the request related to a VA.gov tool? If yes, provide brief description of the tool or functionality:**  
    * Lorem
@@ -40,7 +42,7 @@ Make your request as soon as you're aware you will need Public Website participa
 
 
 ### Desired/target implementation date
-**What is the ETA for the launch or date when request needs to be completed (for instance, for a user research session or eBenefits migration)? Our team's capacity will determine which sprint the work falls into.**
+*What is the ETA for the launch or date when request needs to be completed (for instance, for a user research session or eBenefits migration)? Our team's capacity will determine which sprint the work falls into.*
 
 * <Desired/target implementation date>
 
@@ -68,7 +70,10 @@ Make your request as soon as you're aware you will need Public Website participa
 
 
 - [ ] FE engineering
-     1. TBD
+   * TBD
+     
+- [ ] Other
+   * Please describe
       
 ### Requestor info
 **Indicate what team and who the primary contacts are on your team** 
