@@ -28,13 +28,12 @@ TBD
   - Do participants know they have to reports changes in their dependents status? (Particularly things that remove them from their disability benefits, like marriage, leaving home, not attending school, etc.?)
   - Is the list/loop pattern acceptable when entering multiple individuals (ex-spouses, children, students, etc.)?
 
-
 - How will Veterans interact with the form?
- - Would they rather submit different workflows separately or all together?
- - What (workflow) combinations (if any) are likely? 
- - Would they like "pre-packaged" scenarios (Add spouse/add child)
- - Is the chaptering of the form accetable?
- - How is the balance of multiple chapters vs. page/form length?
+  - Would they rather submit different workflows separately or all together?
+  - What (workflow) combinations (if any) are likely? 
+  - Would they like "pre-packaged" scenarios (Add spouse/add child)
+  - Is the chaptering of the form accetable?
+  - How is the balance of multiple chapters vs. page/form length?
  
 - How will the workflow affect Veterans?
   - What are users' espectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
