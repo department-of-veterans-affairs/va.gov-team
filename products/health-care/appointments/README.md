@@ -58,6 +58,9 @@
 
 # Executive Summary
 
+## North Star Goal of Online Scheduling 
+Deliver a seamless and positive experience for any Veteran who wants to schedule an appointment online 
+
 ## User Problem Statement
 A very small percentage of veteran appointments with VA Medical Centers are scheduled online. Other avenues for scheduling appointments like phone, secure messaging, reminder letters, and return to clinic orders can lead to clerical errors, miscommunications, and heavier burden for schedulers. These issues cause delays in scheduling care and are frustrating for veterans.
 
@@ -83,6 +86,14 @@ A very small percentage of veteran appointments with VA Medical Centers are sche
   - These will be phased out by Cerner tools
   - However, critical bugfixes and patches affecting production tools do need to be addressed
 - Improving the backend data sources is mostly out of scope, though vets-api can work to optimize around the edges of the existing services
+
+## Design principles
+- Veterans see appointments as a single experience. If the feature is not related to scheduling or canceling an appointment, it is a separate product. 
+- Always give users a path forward. No dead ends. 
+- Don’t use VA Online Scheduling to solve staff workflow problems.
+- Don’t ask VA Online Scheduling to solve bad data problems.
+- Don’t present Veterans with options they don’t have.
+- The burden of business rules is on the VA, not Veterans.
 
 ## Assumptions
 - Veterans prefer self-service to face-to-face interaction
