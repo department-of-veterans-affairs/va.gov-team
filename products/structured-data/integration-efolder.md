@@ -9,7 +9,11 @@
 * https://github.com/department-of-veterans-affairs/vets-api/blob/master/rakelib/vbms.rake - good example code
 ​
 ## Contacts
-* name / role / slack / email
+| name | role | slack | email |
+|------|------|-------|-------|
+| Keith Adkins | Engineering | @Keith Adkins | keith.adkins@adhocteam.us |
+
+
 ​
 ## Notes
 *
