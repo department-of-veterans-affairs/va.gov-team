@@ -39,3 +39,47 @@ The purpose of this document is to outline documentation to be added/updated, as
    - What other channels should we be included in? 
 - Platform leadership meeting (Scrum of Scrums?)
   - Setup cadence to track cross-team status and dependencies
+  
+## Platform Recommended Next Steps
+
+Overall, the Veteran Services Platform (VSP) team believes the current priority areas for collaboration between the VSP teams and the new CMS team should prioritize
+* Documentation updates/revisions
+* Orientation processes for Veteran Facing Serivces (VFS) teams
+* Integration into Support processes, channels, etc.
+To that end, we recommend the following
+### Immediately important collab convos
+These are things we should start collaborating on immediately, to prevent the most painful / riskiest user outcomes
+* Content & IA, Public Websites, CMS: what is the flow of content reviews, and what are the responsibilities of each of these teams in that flow (I imagine it will differ for different user types)?  
+(Andrea Hewitt will share review process artifacts for awareness)
+* Kevin H + Jeff B: agree on “definition of done” of FE Tools CMS support
+* Product Support, CMS: where to integrate CMS into Orientation flow 
+* Service Design, CMS: integrate meta-data into NPS efforts to be able to segment appropriately for CMS needs / get CMS user feedback (James Chasia will share VFS customer journey current state)
+* Service Design, FETools: Connect around research and current efforts on testing instances and pain points
+* BE Tools, FE Tools, Ops, CMS: document desired triage flow for Drupal-related issues (how to learn of an issue, who’s responsible for the instrumentation to discover issues, etc)
+
+### Collab convos to not forget about
+These are not urgent enough to warrant VSP or CMS Teams context switching away from their current roadmap. But they’re important to consider in the medium-term (6 to 9 mos).
+* SEO
+* Developer documentation
+* Incorporation of CMS into e2e testing (environments, review instances, etc)
+* Content API questions and integration
+* Product Health reporting on static page analytics (or other CMS-important data)
+* CMS and Content Guide (design.va.gov) integration points
+* How to keep CMS up to date on design system, IA specs, and other updates that they need to know about in order to keep CMS aligned
+
+### Ideas CMS could choose to move forward on their own
+Don’t necessarily require VSP collab, but will fit nicely into existing VSP ecosystem
+* Plain language linting solution integration
+* Contextual help for content guidelines in CMS (micro-copy / text) based on the design system guidelines at design.va.gov
+* Identifying areas in Documentation that should be adjusted to account for CMS
+
+### Points of Contact for above VSP teams 
+
+* Content and IA: Megan Kelly
+* Product Support: Andrea Hewitt
+* Service Design: James Chasia
+* FE Tools: Brandon Rapp
+* BE Tools: Alex Pappas
+* Operations: TJ Rice 
+* Insights & Analytics: Joanne Esteban
+
