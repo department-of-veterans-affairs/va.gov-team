@@ -104,7 +104,9 @@ Reach out to Platform team in Slack #vfs-platform-support with any questions, an
 Get feedback from DEPO's research expert on your research plan and script. 
 
 ### Timing
-Timing: A week before you plan to conduct research
+Development stage: **Discover**
+
+A week before you plan to conduct research
 
 ### Collaboration format: asynchronous
 Message Lauren Alexanderson (@Lalexanderson) your research plan and script
@@ -124,7 +126,7 @@ Collaborate with VSP’s Information Architect to finalize your URL and other ke
 ### Timing
 Development stage: **Discover**
 
-When does this happen? After usability testing when you’re ready to build in staging
+After usability testing when you’re ready to build in staging
 
 ### Collaboration format: asynchronous
 VFS Product Manager initiates by completing IA Request template in ZenHub. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
@@ -145,6 +147,7 @@ Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans 
 
 ### Timing
 Development stage: **Discover**
+
 After you have defined your KPIs and are determining which frontend events would be beneficial to track on your application before you build.
 
 ### Collaboration Format: 30-minute kickoff meeting
@@ -186,6 +189,7 @@ Ensure that VA call center representatives are prepared to help Veterans trouble
 
 ### Timing
 Development stage: **Build**
+
 When the complete and final build is on staging and you are confident it's ready to launch. At least 4 weeks prior to launch for a brand new service, or at least 2 weeks prior to launch for a new feature in an existing service.
 
 ### Collaboration format: asynchronous
@@ -232,6 +236,7 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 
 ### Timing
 Development stage: **Validate**
+
 As soon as your product is in production (can happen during a phased rollout after the first phase). 
 
 ### Collaboration format: asynchronous
