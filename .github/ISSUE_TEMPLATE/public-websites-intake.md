@@ -47,17 +47,24 @@ Make your request as soon as you're aware you will need Public Website participa
 ### Type of support request
 *Select all applicable* 
 
-- [ ] Content support for authenticated app/tool. Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer.In addition to the above general information, include:
-     1. Word document with draft if available, or link to the URL where the draft content appears:
-     2. Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?)
-     3. Scope: How many screens? (Or messages, etc.) 
+- [ ] **Content support for authenticated app/tool.** Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer. In addition to the generic information above, please share:
+   1. Word document with draft if available, or link to the URL where the draft content appears:
+      * *link* 
+   2. Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?)
+      * *design context*
+   3. Scope: How many screens? (Or messages, etc.) 
+      * *scope*
       
       
 - [ ] Content support for a static public website page
-     1. Is this to update existing static content? 
-     2. Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.)
-     3. Provide a list of URL/s that need to be reviewed or updated. 
-     4. If it's a small copy section, list what the new info should be and what it is replacing.
+   1. Is this to update existing static content? 
+      * *y/n*
+   2. Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.)
+      * *y/n*
+   3. Provide a list of URL/s that need to be reviewed or updated. 
+      * *URL list*
+   4. If it's a small copy section, list what the new info should be and what it is replacing.
+      * *list of new info*
 
 
 - [ ] FE engineering
