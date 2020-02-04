@@ -6,7 +6,7 @@ So you’re starting a new project — congratulations! This is a guide to requi
 * [Project Kickoff](#project-kickoff)
 * [Design Intent Collaboration](#design-intent-collaboration)
 * [Usability Testing Prep](#usability-testing-prep)
-* [User Research Review](#user-research-review)
+* [Research Plan Review](#research-plan-review)
 * [Information Architecture (IA) Request](#information-architecture-ia-request)
 * [Analytics Request](#analytics-request)
 * [Contact Center Review](#contact-center-review)
@@ -98,10 +98,24 @@ We’ll use the 30-minute meeting to go over high-level feedback for each practi
 Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
 
 ---
-## User Research Review
+## Research Plan Review
+Get feedback from DEPO's research expert on your research plan and script. 
 
+### Timing
+Timing: A week before you plan to conduct research
+
+### Collaboration format: asynchronous
+Message Lauren Alexanderson (@Lalexanderson) your research plan and script
+
+
+### Artifact input/output
+
+### For further support at this point
+Message Lauren Alexanderson (@Lalexanderson)
 
 ---
+
+
 ## Information Architecture (IA) Request
 Collaborate with VSP’s Information Architect to finalize your URL and other key details before developing in staging. VSP’s Information Architect has a high-level view of the entire VA.gov experience and can help ensure that your new or updated content fits well in that ecosystem.
 
