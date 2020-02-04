@@ -113,6 +113,7 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 - What is the inexperience risk? Have any of the team members involved ever built/deployed/maintained this type of system before?
 - It's possible that work estimates are materially inaccurate.
 - What is the documentation debt risk? At least one person interviewed during the discovery sprint said that we need a solution ASAP. Currently, the default documentation location is the [`va.gov-team` repo](https://github.com/department-of-veterans-affairs/va.gov-team). Is there a risk that people are deferring documentation in the present until the custom documentation solution is shipped, and/or adding/referencing/changing in the wrong place because they don't know where to find the correct documentation?
+- [Algolia's pricing](https://www.algolia.com/pricing/) includes a free tier called the Community plan. The Community plan includes 50k operations and 10k records, and doesn't include analytics (like recent search patterns). We currently have ~3k `*.md` files in the `va.gov-team` repo. If we exceeded those usage limits and/or wanted analytics, we would need a paid account.
 
 ### Work Estimates
 
