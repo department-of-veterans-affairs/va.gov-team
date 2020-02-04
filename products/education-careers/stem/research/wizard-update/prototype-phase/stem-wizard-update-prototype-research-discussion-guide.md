@@ -61,62 +61,26 @@ The more you say about what you are thinking and wondering, the more we’ll lea
 Thinking aloud may seem strange at first, but it helps us understand what aspects of the design work well and where we might want to make improvements to make things even easier.
 If you have questions, it’s likely that many other Veterans will, as well, so feel free to ask them along the way.
 
-[Half of participants will complete Scenario 1A and Scenario 2]  
-[Half of participants will complete Scenario 1B and Scenario 2]
-
 
 &nbsp; 
 &nbsp; 
 
-### Scenario 1A: Change Schools
 
-[Start the participant on the "How to apply" page Education Routing Wizard  
-https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
-https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
-
-Let's say you've moved to Florida and would like to keep using your education benefits.  Starting from this page, how would you let the VA know that you will be transferring from Boston College to University of Florida?
-
-**Questions**
-1. What are your thoughts on the overall process of letting the VA know that you are changing schools?
-2. What questions do you have about the process?
-
-Let's go back to the beginning and start the 2nd scenario 
-
-&nbsp; 
-&nbsp; 
-
-### Scenario 1B: Change Major
-
-[Start the participant on the "How to apply" page Education Routing Wizard  
-https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
-https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
-
-Let's assume you are midway through college and would like to change your major. Starting from this page, how would you let the VA know that you will be switching from your current major to biochemistry?
-
-**Questions**
-1. What are your thoughts on the overall process of letting the VA know that you are changing your major?
-2. What questions do you have about the process?
-
-Let's go back to the beginning and start the 2nd scenario  
-
-&nbsp; 
-&nbsp; 
-
-### Scenario 2: Apply for STEM Scholarship Science
+### Scenario 1: Apply for STEM Scholarship Science
 
 [Start the participant on the "How to apply" page Education Routing Wizard  
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
   
-This time, you'll be going through the screens as a science major who has 2 years of educational benefits remaining.  Starting on this page, how would you apply for the STEM Scholarship?   
+Let's assume you are a science major who has 4 months of educational benefits remaining.  Starting on this page, how would you apply for the STEM Scholarship?   
 
-### Scenario 3: Apply for STEM Scholarship History
+### Scenario 2: Apply for STEM Scholarship History
 
 [Start the participant on the "How to apply" page Education Routing Wizard  
 https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
 https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
   
-This time, you'll be going through the screens as a history major who has 4 months of educational benefits remaining.  Starting on this page, how would you apply for the STEM Scholarship?   
+This time, you'll be going through the screens as a history major who has 2 years of educational benefits remaining.  Starting on this page, how would you apply for the STEM Scholarship?   
 
 **General Questions**
 
@@ -147,3 +111,40 @@ Now, let's look at the application form.
 6. Do you have the impression that your application will be processed or not processed?
 7. Do you think the VA would allow you to submit the application even if the answers you've selected would not qualify one for the scholarship?
 8. What, if any, modifications would make completing the form easier?
+
+[F more data is needed, the following scenario can be presented]
+
+### Scenario 3A: Change Schools
+
+[Start the participant on the "How to apply" page Education Routing Wizard  
+https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
+https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
+
+Let's say you are studying biochemistry at Boston College and decide you'd like to transfer to the University of Florida.   Starting from this page, how would you let the VA know that you will be transferring from Boston College to University of Florida?
+
+**Questions**
+1. What are your thoughts on the overall process of letting the VA know that you are changing schools?
+2. What questions do you have about the process?
+
+Let's go back to the beginning and start the 2nd scenario 
+
+&nbsp; 
+&nbsp; 
+
+### Scenario 3B: Change Major
+
+[Start the participant on the "How to apply" page Education Routing Wizard  
+https://www.va.gov/education/how-to-apply/ and allow them to continue to VA Form 22-1995
+https://www.va.gov/education/apply-for-education-benefits/application/1995/introduction]
+
+Let's assume you are midway through college and would like to change your major. Starting from this page, how would you let the VA know that you will be switching from your current major to biochemistry?
+
+**Questions**
+1. What are your thoughts on the overall process of letting the VA know that you are changing your major?
+2. What questions do you have about the process?
+
+Let's go back to the beginning and start the 2nd scenario  
+
+&nbsp; 
+&nbsp; 
+
