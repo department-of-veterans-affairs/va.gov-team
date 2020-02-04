@@ -13,7 +13,9 @@
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements. *
 
-
+Page | URL | Breadcrumb
+--- | --- | ---
+  |  |  | 
 
 ### Navigation/Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
