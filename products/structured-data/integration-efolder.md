@@ -11,7 +11,7 @@
 ## Contacts
 | name | role | slack | email |
 |------|------|-------|-------|
-| Keith Adkins | Engineering | @Keith Adkins | keith.adkins@adhocteam.us |
+|||||
 
 
 ​
