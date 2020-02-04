@@ -1,0 +1,28 @@
+@startuml
+
+start
+:Form submit;
+if (Lookup Claimant) then (found)
+else (not found)
+    :Create Claimant;
+endif
+if (Lookup veteran in MVI) then (veteran found)
+    if (Upload docs to eFolder) then (success)
+        if (Create claim in Claims API) then (success)
+            if (Create claim in BPD API) then (success)
+                stop
+            else (failed)
+                #red:delete claim in Claims API;
+                #red:delete from eFolder;
+            endif
+        else (failed)
+            #red:delete from eFolder;
+        endif
+    else (failed)
+    endif
+else (veteran not found)
+endif
+#red:legacy fallback: send to central mail;
+end
+
+@enduml

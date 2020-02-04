@@ -1,0 +1,21 @@
+@startuml
+title Benefit Request Intake
+autonumber
+participant "va.gov" as web
+participant "vets-api" as api
+participant "MVI" as mvi
+participant "BGS" as bgs
+participant "eFolder API" as efolder
+participant "Claims API" as claims
+participant "BPD API" as bpd
+web -> api: submit
+api -> mvi: check for valid Veteran
+return Veteran participantId
+api -> bgs: check for valid claimant
+return claimant participantId
+api -> efolder: upload docs, metadata
+return GUID
+api -> claims: create claim
+return claim id
+api -> bpd: upload structured data
+@enduml
