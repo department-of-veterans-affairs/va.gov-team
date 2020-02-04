@@ -131,6 +131,8 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 
 #### Ready-made alternatives
 
+The recommendation from the discovery sprint is to build a custom documentation landing page that includes multi-repo search functionality, as well as a table of contents for critical documentation. This design doc is focused specifically on the search component. The following alternatives are more robust documentation solutions that include search functionality as part of a larger product.
+
 - [Slab](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/technology-discovery.md#slab) is a full-featured documentation solution that includes search (powered by Algolia). Slab's search feature is able to search across multiple repos. However, there are concerns about requiring users to sign in to a Slab account to browse documentation, which is something that is not part of their current workflow. Additionally, Slab's pricing is non-trivial. Using the number of users in the #general channel of the DSVA Slack workspace, we estimate Slab would cost approximately \$24k per year. And since this design doc is focused on an MVP for documentation searching, Slab is far more than an MVP. Slab is currently being viewed as a post-MVP solution, if the MVP doesn't meet expectations.
 - [GitBook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/research/discovery-sprint-12-2019/technology-discovery.md#gitbook) includes a decent search feature, but it unfortunately only searches a single repo at a time. It doesn't support multi-repo/organization search, and didn't appear to be customizable.
 
