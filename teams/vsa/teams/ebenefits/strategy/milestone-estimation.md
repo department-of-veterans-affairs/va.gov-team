@@ -11,7 +11,7 @@ This is meant to help estimate the amount of time it might take for a full migra
 Define the core features as they currently exist
 Fully understand components and interactions
 
-## Design: 2-3 Sprints
+## Design: 3-4 Sprints
 Based on initial research, develop mockups that reflect, at a minimum, the base functionality and include new features as needed.
   - Design Intent Review
   - Revise
