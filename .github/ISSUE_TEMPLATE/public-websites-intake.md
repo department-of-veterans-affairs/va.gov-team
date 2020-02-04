@@ -15,11 +15,9 @@ assignees: jenniferlee-dsva
 ## Instructions
 * Submit this request when VSA Public Website team intervention is required
 * Provide detailed information of your request to help us understand our role in completing your request 
-* Requests should be submitted at least **2 weeks** in advance of the targeted launch/completion
-
 
 __When to submit a request__
-Make your request as soon as you're aware you will need Public Website participation. Different types of requests may require more time in advance. For apps tool content support, try to engage a content person for your project kick-off.
+Requests should be submitted at least **2 weeks** in advance of the targeted launch/completion.  Make your request as soon as you're aware you will need Public Website participation. Different types of requests may require more time in advance. For apps tool content support, try to engage a content person for your project kick-off.
 
 ---
 
