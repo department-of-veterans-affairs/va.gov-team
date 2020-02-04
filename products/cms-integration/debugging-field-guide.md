@@ -1,0 +1,144 @@
+
+# Table of Contents
+
+1.  [Debugging Field Guide](#orgabae1eb)
+    1.  [JSON schema validation errors](#org10ab85f)
+        1.  [Solution](#orgf97a4c8)
+    2.  [Object doesn&rsquo;t deep equal object??](#org830b381)
+        1.  [Solution](#orgb85397c)
+    3.  [Transformer trouble](#org4eae7ce)
+    4.  [Handling circular references](#orge68be39)
+        1.  [Solution](#org924393b)
+
+
+
+<a id="orgabae1eb"></a>
+
+# Debugging Field Guide
+
+Oh no. Something broke, didn&rsquo;t it? Here, take this guide. I hope it helps.
+
+
+<a id="org10ab85f"></a>
+
+## JSON schema validation errors
+
+Content is validated against two separate JSON schemas. Once before
+transformation, and once after. When a validation fails, an error will be thrown
+and a message like the following will be logged to the console:
+
+    node.2bddb1a7-6fb1-4503-838d-9c2fcb51c46a (node-health_care_region_page) is invalid after transformation:
+    {
+      "keyword": "type",
+      "dataPath": ".entity.fieldLinkFacilityEmergList",
+      "schemaPath": "#/properties/entity/properties/fieldLinkFacilityEmergList/type",
+      "params": {
+        "type": "object,null"
+      },
+      "message": "should be object,null"
+    }
+    Data found at .entity.fieldLinkFacilityEmergList: []
+
+From this message we can see the following:
+
+-   The exact entity that failed validation
+    -   `node.2bddb1a7-6fb1-4503-838d-9c2fcb51c46a`
+-   Which content model it was
+    -   `node-health_care_region_page`
+-   Which schema failed
+    -   &ldquo;invalid after transformation&rdquo; means the schema in question can be found in
+        `schemas/transformed/node-health_care_region_page.js`
+    -   &ldquo;invalid before transformation&rdquo; would mean the schema could be found in
+        `schemas/raw/node-health_care_region_page.js`
+-   The field that failed validation
+    -   Look in the `dataPath`
+-   The schema rule that was violated
+    -   `schemapath` tells us what rule it was, `params` tells us what the valid
+        options were
+        -   Technically, it tells us what the parameters were for that particular rule
+    -   In this case, we can see it was the `fieldLinkFacilityEmergList`&rsquo;s `type`
+        which was supposed to be either an object or null
+-   The exact error message returned from [AJV](https://github.com/epoberezkin/ajv)
+    -   Look in `message`
+    -   This is the easy way to figure out what the error was, but it&rsquo;s sometimes
+        still mystifying
+-   What the actual data was that failed the validation
+    -   In this case, we can see `.entity.fieldLinkFacilityEmergList` was an empty
+        array
+    -   The schema expected it to be either an object or null, so this failure makes
+        sense
+
+
+<a id="orgf97a4c8"></a>
+
+### Solution
+
+Armed with this information, we can crack open the transformer and see what&rsquo;s
+going on.
+
+**Note:** If a validation error occurs while running the unit tests, you may have
+to scroll up quite a ways to see the actual validation error output. Just look
+for the yellow / gold writing.
+
+
+<a id="org830b381"></a>
+
+## Object doesn&rsquo;t deep equal object??
+
+Ideally, we&rsquo;d catch all the validation errors locally, but that won&rsquo;t always be
+the case. Unfortunately, the error output from Mocha is sometimes limitted in
+Jenkins. As such, when the unit test encounter an error, it logs the entire test
+file and the output of the transformation for manual comparison.
+
+
+<a id="orgb85397c"></a>
+
+### Solution
+
+Open the full logs in Jenkins to find the error output. Search for
+
+    Transformed entity in the test JSON file:
+
+
+<a id="org4eae7ce"></a>
+
+## TODO Transformer trouble
+
+
+<a id="orge68be39"></a>
+
+## Handling circular references
+
+Typically, it&rsquo;s best to leave child entities alone in the parent transformer,
+but sometimes this causes a circular reference. For example:
+
+    {
+        "$id": "Foo",
+        "type": "object",
+        "properties": {
+            "barChild": { "$ref": "Bar" }
+        }
+    }
+    
+    {
+        "$id": "Bar",
+        "type": "object",
+        "properties": {
+            "fooChild": { "$ref": "Foo" }
+        }
+    }
+
+If this happens, [AJV](https://github.com/epoberezkin/ajv), the underlying JSON schema validator, will fail with the
+following error:
+
+    TypeError: Converting circular structure to JSON
+
+
+<a id="org924393b"></a>
+
+### Solution
+
+Return only part of a content model. See [`node-vamc_operating_status_and_alerts`](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/transformers/node-vamc_operating_status_and_alerts.js#L18-L25)
+for an example. Once this is done, the [schema will need to be updated](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/schemas/transformed/node-vamc_operating_status_and_alerts.js#L23-L28) so it
+doesn&rsquo;t expect the missing pieces.
+
