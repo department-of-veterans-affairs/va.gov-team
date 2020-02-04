@@ -1,4 +1,4 @@
-# IA Review and Recommendations
+# IA Review and Recommendations - DRAFT
 
 **Team:** Public Websites
 
@@ -7,7 +7,7 @@
 **Background/Context:**
 <br>These pages will provide a SEO landing page for core form number searches.  This is a redesign of existing legacy landing pages. The top forms/online tools will be customized/high-touch while all others will be dynamically generated content via an API. 
 
-**Review Date:** 
+**Review Date:**  *In progress, see open questions/issues at bottom*
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/3836
 
@@ -21,14 +21,15 @@
 
 **URLs**
 - All landing pages will have a consistent structured URL that can be easily dynamically generated. 
-- The form number will be pulled from the forms data and used as the URL along with the word "form"
+- The form number will be pulled from the forms data and used as the URL along with the word "form" 
 - Spaces in a form number will be replaced by a dash
 - All alpha characters will be lower case
-- Structure: www.va.gov/form-[form-nbr]
-- For example: www.va.gov/form-10-10ez,  va.gov/form-21-526ez
+- Structure: www.va.gov/about-form-[form-nbr]
+- For example: www.va.gov/about-form-10-10ez,  va.gov/about-form-21-526ez
 
 **Breadcrumb** 
-Home > VA form 21-526ez *<-- need to determine where this data comes from to formulate the URL and the breadcrumb*
+Home > VA form 21-526ez 
+*need to determine where this data comes from to formulate the URL and the breadcrumb*
 
 
 ### Navigation/Entry Points <br>
@@ -44,17 +45,19 @@ No navigational links will be added to these pages, users will access these page
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
 All existing legacy form detail pages will need to be redirected. 
-Options for redirects:
-- Option 1
-  - Select key legacy landing pages will be redirected to a specific new form detail page (the top 25 custom pages)
-  - All other legacy landing pages will be redirected to the VA Forms search tool
-  - Considerations: Key page redirects will ensure we maintain/transfer SEO value to the new detail page, while the general redirect to VA forms search tool will mean SEO value on legacy landing pages will be lost/not transferred to the new form detail page.  If SEO value on many of the landing pages is very low, this is a more simplistic redirect approach. The general redirect approach will also mean that users who click through old links will have to execute their search again in the forms search tool to get to a result. 
-- Option 2
-  - All legacy landing pages are individually redirected to a corresponding new form detail page
-  - Considerations: We maintain all SEO value on all legacy landing pages without adding additional steps for our users. This is an more extensive mapping exercise. 
+We will do server-side redirects of legacy form detail landing pages with the following approach:
+- For X number of high search value form detail landing pages, we will do 1:1 redirect mapping from the current legacy form detail landing page to the new.
+- For the remaining (562-X) landing pages, we will do a default redirect to the new main search page URL (va.gov/find-forms)
   
-  
+ 
 For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
 
 
 ### Additional Notes/Recommendations
+
+
+### Open Questions/Issues
+
+- Need technical conversation with Drupal team on Drupal auto-URL generation.  How are URLs generated?  Based on what content/data? This information will help inform:
+  - The standard URL structure for every landing page (custom and dynamic)
+  - We will need to know exact URL of new landing pages so we can map the legacy redirects accurately
