@@ -38,6 +38,26 @@ __VA forms stakeholder working group includes:__
 
 ## Status/Decisions:
 
+## 02/04/2020
+
+Decision and next steps - re redirecting form detail landing pages. Call with  @ncksllvn @mnorthuis @mickin and @jenniferlee-dsva   
+
+__We will do server-side redirects of form detail landing pages with the following approach:__
+- For X number of high search value form detail landing pages, we will do 1:1 redirect mapping from the current legacy form detail landing page to the new. 
+- For the remaining (562 - X) landing pages, we will do a default redirect to the new main search page URL (va.gov/find-forms)
+
+__Next steps:__
+
+1/ Determine the cut-off point for the X number of forms that will get the 1:1 redirect mapping. Jen will review the GA data that Nedie had provided previously and share out info to Mikki, Nick, and Mickin. 
+
+2/ RE Drupal and dynamic URLs: Investigate how Drupal auto-generated URLs for the basic (not custom) template form detail landing pages can apply the URL pattern recommended by Mikki. @ncksllvn will loop @mnorthuis into ongoing conversations with @kevwalsh re API and other  implementation of form detail landing pages in Drupal. 
+
+__There are 2 tickets tracking redirects:__
+- [#5163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5163) for the main forms search, results, and related pages
+- [#3836](https://app.zenhub.com/workspaces/vft-59c95ae5fda7577a9b3184f8/issues/department-of-veterans-affairs/va.gov-team/3836) for the form detail landing pages
+
+
+
 ## __01/30/2020__
 
 Summarizing several recent discussions. 
