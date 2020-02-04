@@ -11,7 +11,9 @@ So you’re starting a new project — congratulations! This is a guide to requi
 * [Analytics Request](#analytics-request)
 * [Contact Center Review](#contact-center-review)
 * [Privacy and Security Review](#privacy-and-security-review)
+* [Staging Review](#staging-review)
 * [Full Accessibility and 508 Office Audit](#full-accessibility-and-508-office-audit)
+* [Post-launch Check-in]
 
 
 
@@ -193,6 +195,22 @@ VFS Product Manager follows instructions on the [Contact Center Review page](htt
 Reach out to call center leads on Slack via #vsp-contact-center-support
 
 ---
+
+## Staging Review
+Get feedback on your completed build before rolling out to users.
+
+### Timing
+Development stage: **Build**
+When you're ready to begin rollout.
+
+### Collaboration format: 30-minute meeting
+VFS Product Manager requests meeting using the Staging Review template
+
+### For further support at this point
+
+
+---
+
 ## Privacy and Security Review
 Ensure your feature meets VSP's privacy and security standards.
 
