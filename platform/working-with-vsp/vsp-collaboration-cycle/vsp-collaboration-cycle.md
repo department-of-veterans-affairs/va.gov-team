@@ -7,11 +7,11 @@ So you’re starting a new project — congratulations! This is a guide to requi
 * [Design Intent Collaboration](#design-intent-collaboration)
 * [Usability Testing Prep](#usability-testing-prep)
 * [User Research Review](#user-research-review)
-* [Information Architecture (IA) Request](#informaiton-architecture-(ia)-request)
+* [Information Architecture (IA) Request](#information-architecture-ia-request)
 * [Analytics Request](#analytics-request)
 * [Contact Center Review](#contact-center-review)
 * [Privacy and Security Review](#privacy-and-security-review)
-* [Full Accessibility and 508 Office Audit](#full-accessibility-and-508-audit)
+* [Full Accessibility and 508 Office Audit](#full-accessibility-and-508-office-audit)
 
 
 
