@@ -48,7 +48,7 @@ Make your request as soon as you're aware you will need Public Website participa
       * < scope > 
       
       
-- [ ] Content support for a static public website page
+- [ ] **Content support for a static public website page**
    1. Is this to update existing static content? 
       * < y/n >
    2. Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.)
@@ -59,10 +59,10 @@ Make your request as soon as you're aware you will need Public Website participa
       * < list of new info >
 
 
-- [ ] FE engineering
+- [ ] **FE engineering**
    * TBD
      
-- [ ] Other
+- [ ] **Other**
    * Please describe
       
 
