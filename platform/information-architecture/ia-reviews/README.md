@@ -4,6 +4,7 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+eBenefits | Add/Remove Dependents | IN PROGRESS | Draft IA provided https://github.com/department-of-veterans-affairs/va.gov-team/issues/4545#
 Authenticated Experience | Profile 2.0 | NOT STARTED | Directional feedback given as part of design intent meeting https://github.com/department-of-veterans-affairs/va.gov-team/issues/5061
 Public Websites | Yellow Ribbon Tool | NOT STARTED | Directional feedback given as part of design intent meeting https://github.com/department-of-veterans-affairs/va.gov-team/issues/5192
 Caregivers | 10-10cg Modernization | NOT STARTED | Waiting for results from user research.
