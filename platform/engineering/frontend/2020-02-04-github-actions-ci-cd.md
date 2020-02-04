@@ -1,0 +1,198 @@
+# Continuous Integration/Deployment with GitHub Actions
+
+**Author(s):** Eugene Doan  
+**Last Updated:** February 4, 2020  
+**Status:** **Draft** | In Review | Approved  
+**Approvers:** ...  
+
+
+## Overview
+
+### Objective
+- VFS teams should be able to own the integration and deployment of their applications.
+- Make CI/CD more accessible to those teams to promote autonomy and productivity.
+- Use tools that are simple and intuitive, also making CI/CD more accessible to VSP engineers.
+- VSP engineers should evaluate the advantages of implementing CI/CD with GitHub Actions and whether the solution would satisfy the criteria above while also meeting an adequate level of parity with Jenkins CI/CD.
+
+### Background
+- As more apps get added to the website, it becomes less scalable for the platform team to overlook development on all of them.
+    - To keep up with the increasing number of apps, developers on the platform have to dedicate more time to supporting apps teams, despite not being closely familiar with the work being done on those apps.
+    - To that end, the platform team is looking for ways to empower apps teams to own their processes and support themselves with tooling provided by the platform.
+- In order to provide that tooling, the platform team is investigating solutions that will offer an overall good developer experience.
+    - Currently, CI/CD is managed with Jenkins. While a mature and widely used product, it isn't necessarily one that is immediately accessible to all developers.
+    - Groovy is fairly uncommon as a language that developers are familiar with, and it's the native scripting language for configuring Jenkins CI/CD.
+    - Build statuses are reported on PRs, but diving into the console output in Jenkins for debugging requires starting the SOCKS proxy and navigating a separate interface.
+
+### High Level Design
+The `vets-website` repository will run its own CI/CD pipeline using GitHub Actions, which are implemented with automated, YAML-configured workflows triggered by GitHub events.
+- Pull requests trigger a build and test of the apps that are involved in the set of changes. Build status will be reported as one of the checks in the bottom section.
+- Merges to `master` trigger a full build and test, producing the build as an artifact and deploying it to lower environments.
+- The website will deploy to production on a daily schedule, tagging the latest build for release.
+
+## Specifics
+
+### Detailed Design
+The main workflows are represented below. The specific jobs and steps will be determined as work continues.
+
+Each job begins in an entirely fresh environment, so there is some boilerplate to write for each job. They mostly involve using actions for checkout, setup-node, and cache, all of which can be found in the GitHub Actions Marketplace, a repository of ready to use packages that you can copy and paste into the YAML config.
+
+It's useful to cache dependencies between jobs so they don't keep re-installing the same packages. That can be accomplished using the cache action. Note that it should be invoked in each job that requires the dependencies before running certain commands.
+
+```
+- name: Cache dependencies
+  id: cache-dependencies
+  uses: actions/cache@v1.1.0
+  with:
+    key: ${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+    path: node_modules
+```
+
+#### .github/workflows/pull-request.yml
+
+```
+name: Pull Request Build + Test
+
+on:
+  push:
+    branches-ignore:
+      - master
+
+jobs:
+
+  build:
+    ...
+
+  test-platform:
+    needs: build
+    ...
+
+  test-app:
+    needs: build
+
+    # Include app-specific handling here
+    # Perhaps a custom action to determine which app(s) to test based on changed files.
+    ...
+```
+
+#### .github/workflows/master.yml
+
+```
+name: Master Build + Test + Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  build:
+    ...
+
+  test:
+    needs: build
+    ...
+
+  deploy:
+    needs: test
+    ...
+```
+
+#### .github/workflows/daily-deploy.yml
+
+```
+name: Daily Deploy
+
+on:
+  schedule:
+    - cron: '...'
+
+jobs:
+
+  tag-release:
+    ...
+
+  deploy:
+    needs: test
+    ...
+```
+
+### Code Location
+In the `vets-website` repo, workflows will be in `.github/workflows`, and custom actions will be in `.github/actions`.
+
+### Testing Plan
+We will pilot using GitHub Actions to conduct CI/CD with a single app at first for a trial period. If we are satisfied in the performance of the solution, it can be gradually rolled out to other apps. Specifics TBD.
+
+### Logging
+Workflows will log the console output of CI/CD processes. All workflow runs can be be accessed within `vets-website` in the Actions tab. When viewing an individual workflow run, you can access timestamped logs for each step within each job that executed as well as any artifacts configured in the workflow. There are also options to view the raw logs or download an archive of the logs.
+
+### Debugging
+Logs generated by workflow runs are the first line of resources for debugging issues with the build process. GitHub provides a way to search through expanded sections of a job. It's also possible to download the raw logs and search through those files.
+
+The environments generated by workflows are clean and isolated VMs, and failed runs can also be restarted to reproduce issues.
+
+### Caveats
+From initial discovery, it was found that at least one workflow will require SOCKS for a full build with content. There will some infrastructure setup necessary to get that working, but specifics are TBD. Unknown if the content integration will still be necessary at some point in the not-so-distant future, but the E2E tests depend on navigating the full site. Until that is resolved, we cannot run E2E tests in a workflow.
+
+### Security Concerns
+GitHub recommends not using self-hosted runners for public repos due to security risks. It might be possible for forks of the repo to leverage workflows to run malicious programs in the self-hosted runner. Furthermore, if we encourage individual teams to write some custom workflows, we have to be cautious of the potential risks.
+
+[Self-hosted runner security with public repositories](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/about-self-hosted-runners#self-hosted-runner-security-with-public-repositories)
+
+> Some of the risks include:
+>
+> - Malicious programs running on the machine.
+> - Escaping the machine's runner sandbox.
+> - Exposing access to the machine's network environment.
+> - Persisting unwanted or dangerous data on the machine.
+
+There is some discovery to be done on mitigating risk for self-hosted runners. Hypothetically, the risks could pose less of a problem if we don't incorporate forks into any of our workflows, but that is still to be determined.
+
+On the other hand, runners provided by GitHub are isolated environments that are destroyed at the end of job execution, so they are not vulnerable to the same risks.
+
+### Privacy Concerns
+There is a potential risk of PII getting logged in the build or test output or some other artifact generated by a workflow. It isn't clear what the process is for removing the sensitive information if the issue arises. Solution for scrubbing the data from GitHub TBD. Might be more within our control with a self-hosted runner.
+
+### Open Questions and Risks
+- Are the runners provided by GitHub sufficient for our needs? Or do we need to self host? The cost is free for public repositories.
+- There may be security risks with self-hosting. Are there ways to mitigate those risks if we decide to go that route?
+- If we don't have any workflows that trigger on fork, and only stick to workflows that trigger on push and scheduled times, are there still security risks to consider?
+- What infrastructure changes are involved to get SOCKS access and complete a full build and run E2E tests?
+- Are there features missing from GitHub Actions that prevent us from reaching parity with Jenkins CI/CD?
+- GitHub has a secrets store that we can tap into for anything requiring credentials, but we should make sure we are cleared to use it.
+
+### Work Estimates
+- Workflow for PRs to run a general build and test (1 day)
+- Split the workflow into distinct jobs (2 days)
+    - Applications and platforms run tests separately?
+    - Each application runs its own test
+- Discovery on useful actions or checks to include in PR workflows (3 days)
+- Discovery on unblocking the repo from doing a full build and test (3-5 days)
+    - Configure SOCKS access?
+    - Circumvent the content build?
+- Create and test the workflow for `master` (5 days)
+    - Run a full build and test
+    - Create releases
+    - Deploy to the various environments
+
+
+### Alternatives
+- Continue using Jenkins and figuring out how to make it more accessible and easy to work with.
+    - The proposal is to improve on our current solution by implementing a CI/CD pipeline with a better developer experience.
+    - We already use a variety of GitHub-based solutions for different purposes (versioning, code review, project management, documentation), and using GitHub Actions for CI/CD further consolidates our toolset into one place.
+    - Configuration is fairly intuitive, with most of it being in YAML.
+        - There is a repository of GitHub Actions that developers can plug and play to simplify their workflows.
+        - For anything fancy, developers are free to work with their language of choice to create custom actions.
+
+### Future Work
+- Configure the workflow to generally work with all apps.
+- Make passing the pull request workflow required for merge.
+- Create a workflow for a full build and test on `master`.
+- Create a workflow for creating releases.
+- Create a workflow for deploys (daily and on-merge).
+
+### Revision History
+
+Date | Revisions Made | Author
+-----|----------------|--------
+Feb 4, 2020 | Initial draft | Eugene Doan
