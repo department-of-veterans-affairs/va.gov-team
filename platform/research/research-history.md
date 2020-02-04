@@ -14,7 +14,7 @@ __Please note that many links on this page reference research folders in the vet
 
 ### January 2020
 
-#### January 27 - 31: 22-1995 STEM Scholarship & Education Routing Wizard** (H4 Level)
+#### January 27 - 31: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing (H4 Level)
 *Booz Allen: Amy Knox, Theresa McMurdo*
 
 - 3 participants (6 scheduled, 3 canceled / no-show)
