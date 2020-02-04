@@ -7,8 +7,6 @@ assignees: karak888
 
 ---
 
-# WIP
-
 ## Instructions
 * Submit this request when VSA Public Website team intervention is required. 
 * Provide detailed information of your request to help us understand our role in completing your request. 
