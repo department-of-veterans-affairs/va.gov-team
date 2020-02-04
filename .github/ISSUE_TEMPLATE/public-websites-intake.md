@@ -3,20 +3,19 @@ name: Public Websites Intake Form
 about: To file requests with the VSA Public Websites team e.g. content support or redirects.
 title: <Type of Request> from <Team>
 labels: vsa-public-websites, vsa
-assignees: karak888
-
+assignees: jenniferlee-dsva
 ---
 
-## Instructions
-* Submit this request when VSA Public Website team intervention is required. 
-* Provide detailed information of your request to help us understand our role in completing your request. 
-* Requests should be submitted at least **2 weeks** in advance of the targeted launch/completion
-
-__Examples of support we provide can include:__
+## Why you're here
 - Content support for static public website pages
 - Content support for authenticated application or tools
 - FE engineering implementation of redirects that have first been vetted by the IA team in Platform
 - FE engineering implementation of REACT sign in widgets
+
+## Instructions
+* Submit this request when VSA Public Website team intervention is required
+* Provide detailed information of your request to help us understand our role in completing your request 
+* Requests should be submitted at least **2 weeks** in advance of the targeted launch/completion
 
 
 __When to submit a request__
