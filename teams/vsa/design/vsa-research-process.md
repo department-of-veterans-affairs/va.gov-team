@@ -20,7 +20,13 @@ Create a new folder or folder structure in github under the product and/or appli
 
 Create a [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) and save them in that folder as Markdown files.
 
-Note: after finalizing the conversation guide, consider creating and including in this folder a “note-taking template” in Github to help your note-takers.   
+Note: after finalizing the conversation guide, consider creating and including in this folder a “note-taking template” in Github to help your note-takers.
+
+Some thoughts about whether or not to include instructions to "think aloud" at the beginning of your conversation guide:
+* This can be a helpful instruction in some cases, not as helpful in others.
+* A live stream of consciousness style can be great for evaluating content for comprehension, or identifying potential confusing areas, but it's not a one-size-fits-all, belongs in every study kind of instruction.
+* If you're evaluating task time, asking someone to think aloud can skew your results.
+* If you want to really see what someone would do alone, by asking them to talk aloud, you're changing their behavior. In cases like this, you can better understand what you're looking for by asking specific questions at key moments during the testing.
 
 ## <a id="recruiting"></a>Recruiting
 **Note: The language of our contract stipulates that you do not recruit veterans “on the side” to do informal research on your own. You must use DEPO’s services for all research recruiting. Please contact Lauren Alexanderson if you would like to talk to veterans in support of your work on VSA, and be sure to have her (or your DEPO contact) review and approve your plan.**
