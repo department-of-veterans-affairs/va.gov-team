@@ -13,7 +13,7 @@ So you’re starting a new project — congratulations! This is a guide to requi
 * [Privacy and Security Review](#privacy-and-security-review)
 * [Staging Review](#staging-review)
 * [Full Accessibility and 508 Office Audit](#full-accessibility-and-508-office-audit)
-* [Post-launch Check-in]
+* [Post-launch Check-in](#post-launch-check-in)
 
 
 
