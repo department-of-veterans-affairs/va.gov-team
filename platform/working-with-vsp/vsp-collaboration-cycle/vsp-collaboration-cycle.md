@@ -201,6 +201,7 @@ Get feedback on your completed build before rolling out to users.
 
 ### Timing
 Development stage: **Build**
+
 When you're ready to begin rollout.
 
 ### Collaboration format: 30-minute meeting
@@ -217,10 +218,13 @@ Ensure your feature meets VSP's privacy and security standards.
 ### Timing
 Development stage: **Build**
 
-###Collaboration format: 60-minute meeting
+When you're ready to begin rollout.
+
+### Collaboration format: 60-minute meeting
 Request process:  VFS Lead Engineer or Product Manager uses Privacy and Security Review template
 
 ### For further support at this point
+
 ---
 
 ## Full Accessibility and 508 Office Audit
