@@ -18,29 +18,41 @@ TBD
 #### Hypothesis
 TBD
 
-#### Guiding Questions
+#### Research  Questions
 [ Preliminary list... Work-in-progress ]
-- Do participants undestand the 21-686c is a multi-purpose form?
-- Do participants know they have to reports changes in their dependents status? Particularly things that remove them from their disability benefits, like marriage, leaving home, not attending school, etc.?
-- Will participants accept the checkbox selection, and understand it makes the form "al-la-carte?"
-- What are users' espectations about real-life scenarios (birth, death, divorce) and theri use of the 21-686c? Particularly, what (workflow) combinations would they expect are likely. 
-- How do users feel about a 'worst-case" end-to-end form that included all scenarios? Would they rather submit different workflows separately of all together? Would they like "pre-packaged" scenarios (Add spouse/add child)
-- How do user feel about the former spouse sections of the add-spouse workflow? What can we do do to make it more tolerable?
-- Generally, is the labelling and section headers clear and helpful?
-- Where do we need helper content like tell-me-mores or inline instructions.
-- Is the chaptering of the form accetable? How is the balance of multiple chapters vs. page/form length?
-- Is the list/loop pattern acceptable when entering multiple individuals (ex-spouses, children, students, etc.)?
+- Are the forms presented clearly and easy to understand by Veterans?
+  - Do participants undestand the 21-686c is a multi-purpose form? 
+  - Will participants accept the checkbox selection, and understand it makes the form "al-la-carte?"
+  - Is the labeling and section headers clear and helpful?
+  - Where do we need helper content like tell-me-mores or inline instructions.
+  - Do participants know they have to reports changes in their dependents status? (Particularly things that remove them from their disability benefits, like marriage, leaving home, not attending school, etc.?)
+  - Is the list/loop pattern acceptable when entering multiple individuals (ex-spouses, children, students, etc.)?
+
+
+- How will Veterans interact with the form?
+ - Would they rather submit different workflows separately or all together?
+ - What (workflow) combinations (if any) are likely? 
+ - Would they like "pre-packaged" scenarios (Add spouse/add child)
+ - Is the chaptering of the form accetable?
+ - How is the balance of multiple chapters vs. page/form length?
+ 
+- How will the workflow affect Veterans?
+  - What are users' espectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
+  - How do users feel about a 'worst-case" end-to-end form that included all scenarios? 
+  - How do user feel about the former spouse sections of the add-spouse workflow?
+  - What can we do do to make it more tolerable?
+
 - Workflows of particular interest: Add Spouse (individually). Add Spouse/Add Child (combo), Add Spouse/Report Divorce (combo), Add Child/Add Student (combo)...
 
 #### Success
 TBD
 
 ### Method
-Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans will be presented with high-fidelity prototype created using Adobe XD. A remote moderator will prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototypes. Remote observers and note takers will be in attendance.
+Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans will be presented with high-fidelity prototype created using Adobe XD. A remote moderator will prompt users with questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototypes. Remote observers and note takers will be in attendance.
 
 ### Participants and Recruitment
-Participants will be recruited via Perigean. The study will require 8 Veterans from a range of service backgrounds. Participant criteria include:
-- 8 Veterans
+Participants will be recruited via Perigean. The study will require 10 Veterans from a range of service backgrounds. Participant criteria include:
+- 10 Veterans
 - Various service backgrounds
 - Geographically diverse
 - All genders
@@ -54,12 +66,14 @@ Participants will be recruited via Perigean. The study will require 8 Veterans f
 ### Timeline
 TBD
 
-#### Test Session
+#### Pilot Session
 TBD
 
 #### eBenefits Team Availability
 (Session times subject to Participants' availability)
-TBD
+
+Date | Time (EST)
+-----|-----------
 
 ### Team Member Roles
 - [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
