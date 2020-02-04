@@ -134,7 +134,7 @@ After you have defined your KPIs and are determining which frontend events would
 ### Collaboration Format: 30-minute kickoff meeting
 VFS Product Manager submits request using Analytics Implementation and QA Request template for Google Tag Manager implementation. Slack #vfs-analytics for ForeSee setup.
 
-### Meeting attendees 
+#### Meeting attendees 
 You Bring: 
 * Google Tag Manager CheckPoint: Your Product Manager and POC for Front End engineering
 * ForeSee CheckPoint: Your Product Manager or Product Owner
