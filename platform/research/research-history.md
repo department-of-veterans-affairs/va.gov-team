@@ -12,9 +12,17 @@ This does not include research for Appeals projects, which is stored in differen
 
 __Please note that many links on this page reference research folders in the vets.gov-team GitHub repo. These links will be updated as work on migrating documentation to va.gov-team repo progresses.__
 
+### Februaru 2020
+
+#### February 3-4: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing, Redux
+*Booz Allen: Amy Knox, Theresa McMurdo*
+
+- 3 participants (4 scheduled, 1 canceled / no-show)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/research/wizard-update/prototype-phase) 
+
 ### January 2020
 
-#### January 27 - 31: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing (H4 Level)
+#### January 27 - 31: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing 
 *Booz Allen: Amy Knox, Theresa McMurdo*
 
 - 3 participants (6 scheduled, 3 canceled / no-show)
