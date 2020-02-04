@@ -124,7 +124,7 @@ Reach out to Information Architecture resources (@Mikki @Megan Kelley) in Slack 
 
 ---
 
-## Analytics Reqeust
+## Analytics Request
 Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans are using VA.gov.
 
 ### Timing
