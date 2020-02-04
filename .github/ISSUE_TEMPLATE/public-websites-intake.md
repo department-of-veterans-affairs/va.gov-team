@@ -73,7 +73,7 @@ Make your request as soon as you're aware you will need Public Website participa
 
 
 ### Requestor info
-**Indicate what team and who the primary contacts are on your team** 
+*Indicate what team and who the primary contacts are on your team* 
 
 - Team name: *enter name*
 - DEPO product owner: *enter name*
