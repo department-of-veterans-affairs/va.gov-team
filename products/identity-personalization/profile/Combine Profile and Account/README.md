@@ -9,15 +9,16 @@ __Please note: many links in this document point to documents in the vets.gov-te
 
 ### Roles
 
-|Name|Role|
-|----|----|
-|Samara Strauss |Auth exp lead designer; Personalization 2.0 project lead|
-|Tressa Furner | Auth exp designer|
-|Erik Hansen | Auth exp FE engineer|
-|Brad Conley | Auth exp FE engineer|
-|Lihan Li | Auth exp BE engineer |
-|Tze-chiu Lei | VSA QA Analyst |
-|Jennifer Strickland | VSA Accessibility Specialist, designer |
+|Name|Role|Email|
+|----|----|-----|
+|Samara Strauss |DSVA Lead| samara.strauss@va.gov |
+|??? |Product Manager| ??? |
+|Tressa Furner |Designer| tressa.furner@adhocteam.us |
+|Erik Hansen | FE Engineer| erik@adhocteam.us |
+|Brad Conley | FE Engineer| bconley@governmentcio.com |
+|Lihan Li | BE Engineer | lihan@adhocteam.us |
+|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
+|Jen Strickland | 508/Accessibility support| jennifer.strickland@adhocteam.us |
 
 ## The Problem
 
@@ -49,7 +50,7 @@ As the authenticated experience team, we want to be able to do the following:
 - Remove the uneccessary confusion between "Profile" and "Account."
 - Guide users to the Profile/Account section from the logged out and logged in states.
 - More effectively employ the VA.gov design system so pages are easier to scan and less lenghty.
-- Improve the overall information architecture so it is easier to figure out where to add new features in the future.
+- Improve the overall information architecture so it is easier to add new features in the future.
 
 ## Assumptions
 
@@ -57,14 +58,16 @@ As the authenticated experience team, we want to be able to do the following:
 2. Combining Profile and Account will make personal information and settings easier for people to find.
 3. Users will find the new combined Profile/Account to be more digestible if we divide sections in a side navigation.
 4. We need to add additional wayfinding throughout VA.gov to guide people to the new combined Profile/Account.
+5. Mobile navigation for the new profile should not mimic the mobile nav pattern we use in content sections.
 
 ## Questions
 
-1. Is a side nav the best approach to organizing information?
-2. Should "My VA" be this new combined Profile/Account?
-3. Will users expect to find benefit information in their "personal information" section?
-4. What are the best ways to guide people to the new combined Profile/Account, and when do people need to be guided there?
-5. Is it a good idea to add multiple links to this new section in the personalized menu, or do we only need one?
+1. Is a side nav or top nav the best approach to organizing information?
+2. Should the design be one page or tabbed?
+3. What is the clearest implementation of a mobile navigation in the profile?
+4. Will users expect to find benefit information in their profile?
+5. What are the best ways to guide people to the new combined Profile/Account, and when do people need to be guided there?
+6. Is it a good idea to add multiple links to this new section in the personalized menu, or do we only need one?
 
 ## Requirements
 
@@ -110,6 +113,12 @@ Other metrics are qualitative:
 # Implementation Info
 
 ## Status
+
+- **Summer 2019**: Discovery completed.
+- **September 2019**: Initial design explorations
+- **October 2019**: Project put on hold due to other team needs.
+- **January 2010**: Project resumed. Design explorations delivered. Beginning profile refactoring.
+- **February 2020**: 
 
 ## Technical Decisions
 
