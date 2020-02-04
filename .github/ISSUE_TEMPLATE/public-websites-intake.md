@@ -9,7 +9,7 @@ assignees: karak888
 
 # WIP
 
-### Instructions
+## Instructions
 * Submit this request when VSA Public Website team intervention is required. 
 * Provide detailed information of your request to help us understand our role in completing your request. 
 * Requests should be submitted at least **2 weeks** in advance of the targeted launch/completion
@@ -26,27 +26,21 @@ Make your request as soon as you're aware you will need Public Website participa
 
 ---
 
-### Description of request
+## Request
+
+### Background
 *Detailed description of the request including background information and reason for the request.*
 
-1. **Is the request related to a VA.gov tool? If yes, provide brief description of the tool or functionality:**  
+* **Is the request related to a VA.gov tool? Provide brief description of the tool or functionality and a link to product briefs or outlines:**  
    * Lorem
-2. **Provide a link to product brief or outline:** 
+* **Provide a link to wireframes, prototype:** 
    * Lorem
-3. **Provide a link to wireframes, prototype:** 
+* **Provide a link to any user research synthesis:**
    * Lorem
-4. **Provide a link to any user research synthesis:**
-   * Lorem
-5. **Do you need new URLs, redirects? (If yes, submit URL and redirect requests first to @ Mikki Northuis on the Platform team.)**
+* **Do you need new URLs, redirects? (If yes, submit URL and redirect requests first to @ Mikki Northuis on the Platform team.)**
    * Lorem
 
-
-### Desired/target implementation date
-*What is the ETA for the launch or date when request needs to be completed (for instance, for a user research session or eBenefits migration)? Our team's capacity will determine which sprint the work falls into.*
-
-* <Desired/target implementation date>
-
-### Type of support request
+### Request Type
 *Select all applicable* 
 
 - [ ] **Content support for authenticated app/tool.** Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer. In addition to the generic information above, please share:
@@ -75,6 +69,13 @@ Make your request as soon as you're aware you will need Public Website participa
 - [ ] Other
    * Please describe
       
+
+### Desired/target implementation date
+*What is the ETA for the launch or date when request needs to be completed (for instance, for a user research session or eBenefits migration)? Our team's capacity will determine which sprint the work falls into.*
+
+* <Desired/target implementation date>
+
+
 ### Requestor info
 **Indicate what team and who the primary contacts are on your team** 
 
@@ -84,14 +85,3 @@ Make your request as soon as you're aware you will need Public Website participa
 - Designer: *enter name*
 - FE engineer: *enter name*
 - Product/team Slack channel: *enter*
-
-
-### Steps to complete [UNLCLEAR WHO THIS SECTION IS FOR. IS THIS FOR THE REQUESTOR TO FILL OUT OR FOR PUBLIC WEBSITE PM?]
-
-- [ ] I've provided the __Description.__
-- [ ] I've provided the __Desired/target implementation date.__
-- [ ] I've selected all relevant __Type of request.__
-- [ ] I've filled out the __Requestor info.__
-- [ ] Issue is labled with the relevant practice areas: Content, frontend
-- [ ] Request is assigned  *Public Websites Team* and *@ with Kara Kamahi and Jennifer Lee* for intake
-
