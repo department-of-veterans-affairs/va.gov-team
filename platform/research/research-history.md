@@ -14,6 +14,12 @@ __Please note that many links on this page reference research folders in the vet
 
 ### January 2020
 
+#### January 27 - 31: 22-1995 STEM Scholarship & Education Routing Wizard** (H4 Level)
+*Booz Allen: Amy Knox, Theresa McMurdo*
+
+- 3 participants (6 scheduled, 3 canceled / no-show)
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/research/wizard-update/prototype-phase) 
+
 #### January 16 - 23: Facility Locator Urgent Care PDF & Content
 *Ad Hoc: Aricka Lewis*
 - 5 Participants
