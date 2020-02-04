@@ -25,57 +25,53 @@ Make your request as soon as you're aware you will need Public Website participa
 ---
 
 ### Description of request
-*Detailed description of the request including background information and reason for the request*
+**Detailed description of the request including background information and reason for the request**
 
- 1. Is the request related to a VA.gov tool? If yes, provide brief description of the tool or funcitionality: 
- 2. Provide a link to product brief or outline: 
- 3. Provide a link to wireframes, prototype: 
- 4. Provide a link to any user research synthesis:
- 5. Do you need new URLs, redirects? (If yes, submit URL and redirect requests first to @ Mikki Northuis on the Platform team.)
- 
+1. **Is the request related to a VA.gov tool? If yes, provide brief description of the tool or functionality:**  
+   * Lorem
+2. **Provide a link to product brief or outline:** 
+   * Lorem
+3. **Provide a link to wireframes, prototype:** 
+   * Lorem
+4. **Provide a link to any user research synthesis:**
+   * Lorem
+5. **Do you need new URLs, redirects? (If yes, submit URL and redirect requests first to @ Mikki Northuis on the Platform team.)**
+   * Lorem
+
 
 ### Desired/target implementation date
-Is there an ETA for a particular launch or completion date when request needs to be completed (for instance, for a user research session or eBenefits migration)? 
+**What is the ETA for the launch or date when request needs to be completed (for instance, for a user research session or eBenefits migration)? Our team's capacity will determine which sprint the work falls into.**
 
-Our team's capacity will determine which sprint the work falls into.
-
+* <Desired/target implementation date>
 
 ### Type of support request
 *Select all applicable* 
 
-- [ ] Content support for authenticated app/tool. Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer.
-
-In addition to the above general information, include:
-      1. Word document with draft if available, or link to the URL where the draft content appears:
-      2. Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?)
-      3. Scope: How many screens? (Or messages, etc.) 
+- [ ] Content support for authenticated app/tool. Note: Support is provided only for VSA apps teams that do not have its own dedicated content writer.In addition to the above general information, include:
+     1. Word document with draft if available, or link to the URL where the draft content appears:
+     2. Provide design context: (Example: Is this content in a user flow, an in-line error message, tool tip, field label?)
+     3. Scope: How many screens? (Or messages, etc.) 
       
       
 - [ ] Content support for a static public website page
-      1. Is this to update existing static content? 
-      2. Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.)
-      2. Provide a list of URL/s that need to be reviewed or updated. 
-      3. If it's a small copy section, list what the new info should be and what it is replacing.
+     1. Is this to update existing static content? 
+     2. Does this need a new static tool landing page? (The content team may propose a different approach in consultation with IA.)
+     3. Provide a list of URL/s that need to be reviewed or updated. 
+     4. If it's a small copy section, list what the new info should be and what it is replacing.
 
 
 - [ ] FE engineering
-      1. [Let's get Nick and Kelson to provide input here on what kind of details they typically need to get started]
-      2. [more stuff???]
+     1. TBD
       
 ### Requestor info
-*Indicate what team and who the primary contacts are on your team* 
+**Indicate what team and who the primary contacts are on your team** 
 
-Team name: *enter name*
-
-DEPO product owner: *enter name*
-
-Product manager: *enter name*
-
-Designer: *enter name*
-
-FE engineer: *enter name*
-
-Product/team Slack channel: *enter*
+- Team name: *enter name*
+- DEPO product owner: *enter name*
+- Product manager: *enter name*
+- Designer: *enter name*
+- FE engineer: *enter name*
+- Product/team Slack channel: *enter*
 
 
 ### Steps to complete [UNLCLEAR WHO THIS SECTION IS FOR. IS THIS FOR THE REQUESTOR TO FILL OUT OR FOR PUBLIC WEBSITE PM?]
