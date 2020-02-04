@@ -22,6 +22,7 @@ assignees: andreahewitt-odd, meganhkelley
 
 - Link to where the feature lives on staging and link to any user testing credentials in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility
 - Link to test cases/test plan in TestRail and test execution logs in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility
+- Link to Release plan with planning criteria filled out [Template can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md)
 
 ## Review meeting attendees from **requesting team**
 
