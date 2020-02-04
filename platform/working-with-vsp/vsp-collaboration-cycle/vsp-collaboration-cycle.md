@@ -246,8 +246,21 @@ Zenhub tickets attached to the meeting request
 ### For further support at this point
 Reach out to accessibility experts in #vetsgov-accessibility in Slack.
 
+---
 
+## Post-launch Check-in 
+Now that you’ve released your product and gathered some initial KPI data, evaluate your success and begin your plan for iteration. 
 
+### Timing
+Development stage: **Validate**
+
+One month after "Go Live."
+
+### Collaboration format: asynchronous 
+VFS Product Manager link to your completed Release Plan in Slack #vfs-all-teams and tag @AndreaHewitt
+
+### For further support at this point
+Reach out in #vfs-all-teams with questions
 
 
 
