@@ -12,7 +12,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | View Dependents on Award                            | vsa-ebenefits | Q1        | Q1        | Q2        | Q3        | Launch with Modify
 | Modify Dependents (686c/ 674)                       | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | New dev on full 2018 686c (EBN using 2014 686c)
 | View POA (Representative)                           | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
-| Search POA                                          | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
+| Search for POA                                      | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (OGC System)
 | Modify POA (22/ 22a)                                | vsa-ebenefits | Q3        | Q3        | Q3        | Q3        | Lighthouse integration (BGS)
 | View My Payments                                    | vsa-ebenefits | Q2        | Q2        | Q2        | Q3        | BGS integration
 | View My Documents (eFolder)                         | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | BGS integration
@@ -23,10 +23,10 @@ _Targets are dates in FY2020 unless otherwise noted_
 | View Specially Adapted Housing Grant Status         | vsa-bam-2     | Q3        | Q3        | Q3        | Q3        | New LGY integration required
 | Apply for Specially Adapted Housing Grant (4555)    | vsa-bam-2     | Q3        | Q3        | Q3        | Q3        | New LGY integration required
 | Submit Disability Compensation (Original Claim)     | vsa-bam-1     | Q1        | --        | Q2        | Q2        | Blocked by MPI updates
-| Apply for VRE CH31                                  | vsa-ebenefits | --        | --        | --        | --        | New VRE integration required (blocked)
-| Apply for VRE CH36                                  | vsa-ebenefits | --        | --        | --        | --        | New VRE integration required (blocked)
+| Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
+| Apply for VRE CH36 (8832)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 
-
+* Note: VRE forms can be developed and launched very quickly, given an API and backend system for submission
 
 ## Complete: Applications and Features
 
@@ -35,9 +35,9 @@ _Targets are dates in FY2020 unless otherwise noted_
 | View Claim Status
 | View DIC Claim Status 
 | View Appeal Status                         
-| Decision Review Status                    
+| View Decision Review Status                    
 | Apply for Disability Compensation (Prior Claimant)
-| Upload Supporting Documents
+| Upload Supporting Documents for Disability Claim
 | Update Personal Contact Information 
 | Update Direct Deposit
 | Download VA Letters
