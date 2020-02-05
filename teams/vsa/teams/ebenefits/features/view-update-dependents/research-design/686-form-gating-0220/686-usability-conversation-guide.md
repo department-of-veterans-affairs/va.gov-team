@@ -6,7 +6,7 @@ Thanks for joining us today! My name is [NAME] and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about [time].** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
