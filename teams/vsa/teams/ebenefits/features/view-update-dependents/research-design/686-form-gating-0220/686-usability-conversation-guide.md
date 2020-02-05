@@ -55,9 +55,8 @@ Let's imagine that your 21 year old child has just dropped out of college and ca
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant discern between the different scenarios?
+- Make note of how participant reviews form summary
 
 ## Post-Task Interview
 
