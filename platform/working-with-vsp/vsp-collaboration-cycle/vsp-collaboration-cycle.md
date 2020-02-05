@@ -186,11 +186,11 @@ Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans 
 ### Meeting attendees 
 You Bring: 
 - Google Tag Manager implementation: Your Product Manager, DEPO PO, and point of contact for frontend engineering
-- ForeSee implementation: Your Product Manager or Product Owner
+- ForeSee implementation: no meeting required; asynchronous collaboration
 
 VSP Brings: 
 - Google Tag Manager implementation: Google Tag Manager specialists
-- ForeSee implementation: Analytics Product Manager
+- ForeSee implementation: no meeting required; asynchronous collaboration
 
 ### Artifact inputs
 You bring: 
@@ -214,87 +214,140 @@ Reach out to analytics experts on Slack via #vfs-platform-support
 
 ---
 
-## Contact Center Review
+# Contact Center Review
 Ensure that VA call center representatives are prepared to help Veterans troubleshoot VA.gov.
 
-### Timing
-Development stage: **Build**
+## Timing
+- Development stage: **Build**
+- At least 4 weeks prior to launch for a brand new service, or at least 2 weeks prior to launch for a new feature in an existing service. The build on staging should be as complete and ready to launch as possible, but the priority is to begin this review with the required lead time (4 or 2 weeks).
 
-When the complete and final build is on staging and you are confident it's ready to launch. At least 4 weeks prior to launch for a brand new service, or at least 2 weeks prior to launch for a new feature in an existing service.
+## Collaboration format: asynchronous
 
-### Collaboration format: asynchronous
-VFS Product Manager follows instructions on the [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) to request a Call Center review.
+### Request process
+**VFS Product Manager** follows instructions on the [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) to request a Contact Center review.
 
-### For further support at this point
-Reach out to call center leads on Slack via #vsp-contact-center-support
+### Artifact inputs
+You bring (refer to [Contact Center Review page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/call-center/request-contact-center-review.md) for further instruction): 
+- Product Guide
+- Product Video
+
+### Outcomes and artifact outputs
+- Receive feedback on the artifacts you created for Contact Center trainings
+- Ensure that VA Contact Centers are prepared to help Veterans troubleshoot your product
+
+## For further support at this point
+Reach out to call center leads in Slack via #vsp-contact-center-support or contact @chante or @joanne in Slack.
 
 ---
 
-## Staging Review
+# Staging Review
 Get feedback on your completed build before rolling out to users.
 
-### Timing
-Development stage: **Build**
+## Timing
+- Development stage: **Build**
+- When you're ready to begin rollout.
 
-When you're ready to begin rollout.
+## Collaboration format: 60-minute meeting
 
-### Collaboration format: 30-minute meeting
-VFS Product Manager requests meeting using the Staging Review template
+### Request Process
+**VFS Product Manager** requests meeting using the `Staging Review` template. VSP will schedule the meeting. (Suggested scheduling: during VSP reviewer office hours)
 
-### For further support at this point
+### Artifact inputs
+You bring: 
+- Access information for the tool or feature in staging
+- A link to your test cases/test plan in TestRail with test execution logs
+- A [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
+VSP brings:
+- Feedback on the artifacts you’ve provided from the following practice areas: design, accessibility, content, QA, and optional: product, analytics, engineering
+
+### Outcomes and artifact outputs
+- VSP’s feedback regarding the artifacts you provided is documented in ZenHub.
+- We’ll use the 60-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
+
+### Meeting attendees
+- VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point 
+- If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna, Tze
+- VSP brings: design (Crystabel & Emily), accessibility (Trevor), content (Peggy), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea). Optional: analytics (Joanne).
+
+## For further support at this point
+Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
 
 ---
 
-## Privacy and Security Review
+# Privacy and Security Review
 Ensure your feature meets VSP's privacy and security standards.
 
-### Timing
-Development stage: **Build**
+## Timing
+- Development stage: **Build**
+- When you're ready to begin rollout.
 
-When you're ready to begin rollout.
+## Collaboration format: 60-minute meeting
 
-### Collaboration format: 60-minute meeting
-Request process:  VFS Lead Engineer or Product Manager uses Privacy and Security Review template
+### Request process
+**VFS Lead Engineer or Product Manager** uses `Privacy and Security Review` template
 
-### For further support at this point
+### Artifact inputs
+- An architecture diagram, showing involved systems + data flows
+- Description of any new publicly-exposed endpoints (vets-api or otherwise)
+- Description of any new interactions with dependent services (i.e. vets-api --> ???)
+- Description of any other security hotspots you're concerned about / want extra attention on
+
+### Outcomes and artifact outputs
+
+### Meeting attendees 
+
+## For further support at this point
 
 ---
 
-## Full Accessibility and 508 Office Audit
+# Full Accessibility and 508 Office Audit
 Accessibility experts complete a full accessibility audit and coordinate with the VA’s 508 office for feedback and approval.
 
-### Timing
-Development stage: **Validate**
+## Timing
+- Development stage: **Validate**
+- As soon as your product is in production (can happen during a phased rollout after the first phase). 
 
-As soon as your product is in production (can happen during a phased rollout after the first phase). 
+## Collaboration format: asynchronous
 
-### Collaboration format: asynchronous
-VFS Product Manager use Full Accessibility & 508 Office Audit template
+### Request Process
+**VFS Product Manager** use `Full Accessibility & 508 Office Audit` template
 
-#### Artifact inputs
-You bring: access instructions for your product in staging and a link to your test cases/test plan in TestRail with test execution logs.   
+### Artifact inputs
+You bring:
+- Access instructions for your product in staging
+- A link to your test cases/test plan in TestRail with test execution logs   
 
-#### Outcomes and artifact outputs 
-Zenhub tickets attached to the meeting request 
+### Outcomes and artifact outputs 
+- Accessibility experts identify any outstanding accessibility concerns with your product
+- VA's 508 office reviews and approves (as applicable) your product
 
-### For further support at this point
+## For further support at this point
 Reach out to accessibility experts in #vetsgov-accessibility in Slack.
 
 ---
 
-## Post-launch Check-in 
+# Post-launch Check-in 
 Now that you’ve released your product and gathered some initial KPI data, evaluate your success and begin your plan for iteration. 
 
-### Timing
-Development stage: **Validate**
+## Timing
+- Development stage: **Validate**
+- One month after "Go Live."
 
-One month after "Go Live."
+## Collaboration format: asynchronous
 
-### Collaboration format: asynchronous 
-VFS Product Manager link to your completed Release Plan in Slack #vfs-all-teams and tag @AndreaHewitt
+### Request Process
+**VFS Product Manager** link to your completed Release Plan in Slack #vfs-all-teams and tag @AndreaHewitt
 
-### For further support at this point
+### Artifact inputs
+You bring: 
+- Completed [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with results populated
+
+### Outcomes and artifact outputs
+- 
+
+## For further support at this point
 Reach out in #vfs-all-teams with questions
 
 
