@@ -188,6 +188,10 @@ There is a potential risk of PII getting logged in the build or test output or s
         - Pipelines are defined using YAML configuration.
         - To represent reusable packages of functionality, GitHub has actions and Circle has orbs.
     - More research to be done to compare features.
+    - [Two developers shared their experiences with GitHub Actions vs CircleCI.](https://blog.theodo.com/2019/12/github-actions-on-the-test-rig/). Initial impressions suggest that GitHub Actions still have some areas to work on.
+        - When comparing workflows for speed, GHA was about 30-50% slower.
+        - GHA lacks a schematic view for visualizing workflows.
+        - Their recommendation is GHA for lighter workflows and CircleCI for heavier workflows.
 
 ### Future Work
 - Configure the workflow to generally work with all apps.
@@ -200,4 +204,5 @@ There is a potential risk of PII getting logged in the build or test output or s
 
 Date | Revisions Made | Author
 -----|----------------|--------
+Feb 5, 2020 | Added notes about CircleCI as an alternative | Eugene Doan
 Feb 4, 2020 | Initial draft | Eugene Doan
