@@ -168,7 +168,7 @@ You should join all the channels below. Guidance on how to use them is provided.
 
 **#vsa-public-websites** - Most of our content folks are assigned to this team, so many content discussions happen here.  Even if you are assigned to a different team we'd recommend joining this channel and reading discussions there. 
 
-**#cms-general** - use this channel if you have specific drupal-related questions
+**#cms-support** - use this channel if you have specific drupal-related questions
 
 **#content** -  this channel has all content folks across VA.gov. It’s nice to ask questions here if you can to help us start thinking about each other as one big content team. This channel is useful for:
 
