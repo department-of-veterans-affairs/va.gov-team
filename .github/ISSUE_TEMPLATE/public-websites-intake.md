@@ -58,7 +58,7 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
 - [ ] **New URL or Redirect Requests**
    * Have you vetted this request by the VSP IA team?
-      * < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on the Platform team.)
+      * < y/n. if not, submit URL and redirect requests first to @ Mikki Northuis on VSP IA.)
    * Link to VSP IA Redirect Request ticket
       * < Github issue link >
       
