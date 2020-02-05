@@ -50,7 +50,7 @@ TBD
  
 - How will the workflow affect Veterans?
   - What are users' espectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
-  - How do users feel about a 'worst-case" end-to-end form that included all scenarios? 
+  - How do users feel about a "worst-case" end-to-end form that included all scenarios? 
   - How do user feel about the former spouse sections of the add-spouse workflow?
   - What can we do do to make it more tolerable?
 
@@ -88,7 +88,8 @@ Date | Time (EST)
 -----|-----------
 
 ### Team Member Roles
-- [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- Moderator, research writer, UI designer
+- [Aricka Lewis](aricka@adhoc.com) -- Moderator, researcher
+- [James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) -- UX designer
 - [Steve Kovacs](steve.kovacs@va.gov) -- DSVA lead
 - [Jason Wolf](jwolf@governmentcio.com) -- eBenefits product manager
 - [Shawna Hein](shawna@adhocteam.us) -- VSA design lead
