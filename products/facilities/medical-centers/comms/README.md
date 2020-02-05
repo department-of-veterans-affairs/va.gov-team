@@ -8,6 +8,7 @@ This folder contains internal communications for VAMC PAOs and customers, to be 
 
 - FAQs: VAMC Website Upgrade Project (to be pasted into a Word doc and exported to PDF)
 - New VAMC Website Flyer (PDF)
+- Video: VAMC Upgrade Website Upgrade - https://youtu.be/H8hndge4wLc
 
 ## For VAMC users/customers:
 
