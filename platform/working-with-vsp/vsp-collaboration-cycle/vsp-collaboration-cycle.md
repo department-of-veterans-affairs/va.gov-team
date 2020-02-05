@@ -21,19 +21,25 @@ So you’re starting a new project — congratulations! This is a guide to requi
 Help VSP support you more efficiently and effectively throughout the collaboration cycle by connecting in the early stages of your project. Introduce your work initiative in this meeting so we can identify any areas that may need additional support. 
 
 ### Timing
-Development stage: **Define**
-
-When you understand the problem you’re trying to solve (you don’t yet need to know exactly how you’re going to solve it).
+- Development stage: **Define**
+- When you understand the problem you’re trying to solve (you don’t yet need to know exactly how you’re going to solve it).
 
 ### Collaboration format: 30-minute meeting
-VFS Product Manager initiates scheduling by submitting ZenHub issue — use Project Kickoff issue template. VSP will schedule the meeting. Meeting is recorded.
+
+#### Request process
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template. VSP will schedule the meeting. Meeting is recorded.
 
 #### Meeting attendees
-- VFS brings: Product Manager and anyone else you want to invite. If your team is part of the VSA contract, shared VSA resources such as accessibility and QA should also be invited. 
-- VSP brings: design, accessibility, content, information architecture, and QA practice area reviewers. VSP’s DEPO co-leads are included as optional.
+- VFS brings: your Product Manager, DEPO PO, and anyone else you want to invite. 
+- If VFS team is part of VSA contract, also include as optional: Jennifer, Tze, Shawna, Mickin
+- VSP brings (all optional): design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea). VSP’s DEPO co-leads (Kevin) are included as optional.
 
 #### Artifact inputs 
-You bring: an explanation of the problem space, a drafted product outline (stored in GitHub), and any other artifacts you have so far (such as lo-fi prototypes). You do not need to prepare a formal presentation. 
+You bring: 
+- An explanation of the problem space
+- A rough draft of product outline (stored in appropriate GitHub `va.gov-team/products` folder)
+- Any other artifacts you have so far (such as lo-fi prototypes)
+- You **do not** need to prepare a presentation
 
 #### Outcomes and artifact outputs
 We’ll work together to identify any areas of your project that need additional support or collaboration. Follow-ups and areas to expand upon should be called out in this meeting and scheduled after the fact. 
@@ -46,23 +52,29 @@ Reach out via Slack #vfs-platform-support with any questions, and you’ll be di
 ## Design Intent Collaboration
 Present a draft of your ideas to designers. Learn about existing design components and research findings relevant to the problem space. Discuss accessibility considerations with accessibility experts.
 
-
 ### Timing
-Development stage: **Define**
-
-When you are brainstorming and drafting your solution approach.
+- Development stage: **Define**
+- When you are brainstorming and drafting your solution approach.
 
 ### Collaboration format: 30-minute meeting
 
-VFS Designer or Product Manager initiates scheduling by submitting ZenHub issue — use Design Intent Collaboration template. VSP will schedule the meeting 
+#### Request Process
+**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template. VSP will schedule the meeting. 
 
 #### Meeting attendees
-- You bring: designer(s) from your product team. 
-- Design experts bring: DEPO design expert (optional); VSP design (and accessibility optional) reviewers. If VSA, VSA design and accessibility also included experts. VSP information architect to be included as needed.
+- VFS brings: Designer(s) from your product team; DEPO PO
+- If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna
+- Design experts bring: DEPO platform design expert (Kevin H - optional); VSP design (Emily & Crystabel) and accessibility (Trevor) practice area reviewers
 
 #### Artifact inputs
-- You bring: whiteboard sketch or other lo-fi prototypes or mockups, a general idea of the toolset you intend to use in your designs
-- Design experts bring: a list of relevant design components and patterns (with URLs); a list of existing applications or pages with similar execution or patterns with URLs in staging; a list of relevant test user accounts for auth apps.
+You bring:
+- Whiteboard sketch or other lo-fi prototypes or mockups
+- A general idea of the toolset you intend to use in your designs
+
+Design experts provide after the meeting:
+- A list of relevant design components and patterns (with URLs)
+- A list of existing applications or pages with similar execution or patterns with URLs in staging
+- A list of relevant test user accounts for auth apps
 
 #### Outcomes and artifact outputs 
 - Design and accessibility expert feedback (including relevant components, patterns, apps, test accounts, existing research, and notes on accessibility approach) is documented in ZenHub. 
