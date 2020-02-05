@@ -30,6 +30,8 @@ _Targets are dates in FY2020 unless otherwise noted_
 
 ## Complete: Applications and Features
 
+| Feature
+| ------
 | View Claim Status
 | View DIC Claim Status 
 | View Appeal Status                         
@@ -43,6 +45,8 @@ _Targets are dates in FY2020 unless otherwise noted_
 
 ## Complete: Links to Other Systems
 
+| Feature
+| ------
 | VGLI/ SGLI Policy Management
 | WAVE Enrollment Verification
 | Join Burn Pit Registry
