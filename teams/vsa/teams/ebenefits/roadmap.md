@@ -18,10 +18,10 @@ _Targets are dates in FY2020 unless otherwise noted_
 | View My Documents (eFolder)                         | vsa-ebenefits | Q3        | Q3        | Q3        | Q4        | BGS integration
 | Order Hearing Aid Batteries (2346)                  | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
 | Order Prosthetic Socks (2345)                       | vsa-bam-2     | Q2        | Q2        | Q2        | Q3        | New DLC integration required
-| Calculate Home Loan Benefit                         | vsa-bam-2     | Q3        | Q3        | Q3        | Q3        | New LGY integration required
-| Apply for Certificate of Eligibility (1880)         | vsa-bam-2     | Q3        | Q3        | Q3        | Q3        | New LGY integration required
-| View Specially Adapted Housing Grant Status         | vsa-bam-2     | Q3        | Q3        | Q3        | Q3        | New LGY integration required
-| Apply for Specially Adapted Housing Grant (4555)    | vsa-bam-2     | Q3        | Q3        | Q3        | Q3        | New LGY integration required
+| Calculate Home Loan Benefit                         | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
+| Apply for Certificate of Eligibility (1880)         | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
+| View Specially Adapted Housing Grant Status         | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
+| Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
 | Submit Disability Compensation (Original Claim)     | vsa-bam-1     | Q1        | --        | Q2        | Q2        | Blocked by MPI updates
 | Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 | Apply for VRE CH36 (8832)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
