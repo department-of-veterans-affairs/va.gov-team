@@ -6,7 +6,7 @@ The goal of the Team of Teams meeting is for platform teams and teams building o
 
 ## Process for submitting your team's info for Team of Teams
 1. Take the template below, fill it in with your team's information, and send via a Slack message to the Team of Teams organizer (currently Elizabeth Callaghan) **before 10:00 AM ET on Tuesdays**
-1. Join the meeting, listen in, participate in relevant Slack threads, present your team's updates when it's your turn, and be sure to share relevant updates back with your team
+1. Join the meeting, listen in, participate in relevant Slack threads, present your team's updates when it's your turn, and share relevant updates back with your team.
 
 *Note: if you've never presented in Team of Teams before, send a Slack message to Kevin Hoffman to coordinate.*
 
@@ -53,16 +53,16 @@ Like this:
 
 **1. What are you actively working on shipping?**
 - Drupal-hosted facilities pages: validate phase, working on final QA, planning to launch to all VA.gov users on 1/29/2020 @ 4 PM ET
-- Content link checker module: build phase, working on code completion, planning to launch to the 4 VSA Content Writers with Drupal access launch the week of 1/20/2020
+- Content link checker module: build phase, working on code completion, planning to launch to the 4 VSA Content Writers with Drupal access the week of 1/20/2020
 - Enhanced content preview feature: discover phase, working on foundational user interviews.
 
 **2. What changes are you introducing that may impact other teams?**
--  We're transferring the VSA facilities page ownership to the Facility Locator Team around mid-February, so everyone please start fielding all questions about those pages to the new team going forward.
+- We're transferring the facilities page ownership to the Facility Locator Team around mid-February, so everyone please start fielding all questions about those pages to the new team going forward.
 - We're migrating our workflow management to Github/Zenhub and will be creating CMS support request issue templates there around mid-February, so everyone please make sure to use those templates when you have content-publishing requests, as you would the other request templates in there.
-- We're enhancing the security of Drupal login this week, so anyone who uses a username + pw to log into Drupal, please make sure to follow the instructions in the email to reset your password.
+- We're enhancing the security of Drupal login this week, and anyone who uses a username + pw to log into Drupal will get an email to update your password, so please be aware that that's what's going on.
 
 **3. What blockers or dependencies are impacting your progress or success?**
-- In order to make sure the Pittsburgh facility page launch goes smoothly, we need to a coordination meeting with Dave Mazik, Jeff Dunn, and TJ
+- In order to make sure the Pittsburgh facility page launch goes smoothly, we need a coordination meeting with Dave Mazik, Jeff Dunn, and TJ Rice
 
 **4. Q&A**
 
