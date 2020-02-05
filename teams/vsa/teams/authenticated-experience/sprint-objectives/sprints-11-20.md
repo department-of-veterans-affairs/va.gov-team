@@ -280,7 +280,6 @@ Design
   - Direct deposit #5266
   - Account security #5268
   - Connected accounts #5269
-- (Stretch goal) Update copy for Profile 2.0 #5093
 
 Frontend
 - Convert profile phone number form to use SchemaForm #5118
@@ -298,7 +297,7 @@ Frontend
 
 ### Long term planning
 
-- Tressa out: Feb 9 – 19
+- Tressa out: Feb 12 – 19
 
 ### Address validation
 
@@ -316,7 +315,6 @@ Frontend
 **Dev**
 
 - E2E tests, running in CI/CD, passing on all browsers #5005
-- Load testing #5032
 
 ### Profile 2.0
 
@@ -324,13 +322,12 @@ Frontend
 
 Tressa out most of the sprint
 
-- [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
-- Finish planning research
+- Submit for update to copy for Profile 2.0 #5093
+- Plan research
 
 **Dev**
 
 - [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
-- Start build for new profile
 
 ## Sprint 16 (2/26 - 3/10)
 
@@ -344,10 +341,12 @@ Tressa out most of the sprint
 ### Profile 2.0
 
 Design
-- Start to plan research
+- [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
+- Submit research proposal
+
 
 Dev
-- Build for new profile
+- Start build for new profile
 
 ## Sprint 17 (3/11 - 3/24)
 
@@ -358,19 +357,19 @@ Dev
 ### Profile 2.0
 
 Design
-- Submit research proposal
-- Research
+- Conduct Research
 
 ## Sprint 18 (3/25 - 4/7)
 
 ### Profile 2.0
 
 Design
+- Research report
 - Research updates
-- Prep for QA
+- Review content pages/My VA dashboard for any needed updates #5518
 
 Dev
-- Updates from research
+- Continue build
 
 ## Sprint 19 (4/8 - 4/21)
 
@@ -378,33 +377,26 @@ Dev
 
 Design
 
-- QA
-- Updates from QA
+- IA plan and review #5534
 
 Dev
-- Updates from QA
+
+- Research updates
 
 ## Sprint 20 (4/22 - 5/5)
 
 ### Profile 2.0
 
-PM
-- Pre-launch checklist, sprint 1
-
 Design
-- Pre-launch checklist, sprint 1
+
+- Prep for QA
 
 Dev
-- Support pre-launch
 
-## Sprint 21 (4/22 - 5/5)
+- Implement IA changes/updates
 
-Design
-- Pre-launch checklist, sprint 2
+## Future sprints
 
-PM
-- Pre-launch checklist, sprint 2
-- Launch!
-
-Dev
-- Support pre-launch/launch
+- QA and updates
+- 508
+- Launch checklist
