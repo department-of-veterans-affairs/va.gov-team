@@ -462,11 +462,8 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSP<br/>
 **Audit Status:** Design review phase<br/>
-
-#### Open Issues
-* [Review GIBCT Caution Flag designs for accessibility - #4919
-](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4919)<br/>
-   **Opened:** January 15, 2020 | **Severity:** n/a
+**No Open Issues**<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Abah-comparisontool+is%3Aclosed+label%3A508%2FAccessibility)**
 
 ---
 
