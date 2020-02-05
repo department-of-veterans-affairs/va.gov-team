@@ -6,19 +6,19 @@ This document contains the proposed endpoints, requests & response information f
 
 ## Endpoints
 
-| HTTP Method | Endpoint                    | Description                                                                                                |
-|-------------|-----------------------------|------------------------------------------------------------------------------------------------------------|
-| GET         | /v0/medical_devices         | Returns a list of medical devices available for reorder and veteran information for the logged in veteran. |
-| POST        | /v0/medical_devices         | Creates a new medical device and/or accessory order.                                                       |
-| GET         | /v0/medical_devices/profile | Returns just the veteran information: address, gender, date of birth, email, etc.                          |
-| PUT         | /v0/medical_devices/profile | Makes a change to veteran profile, can modify address, email.                                              |
+| HTTP Method | Endpoint                     | Description                                                                                                |
+|-------------|------------------------------|------------------------------------------------------------------------------------------------------------|
+| GET         | /v0/mdot/supplies            | Returns a list of medical devices available for reorder and veteran information for the logged in veteran. |
+| POST        | /v0/mdot/supplies            | Creates a new medical device and/or accessory order.                                                       |
+| GET         | /v0/in_progress_forms/mdot   | Returns just the veteran information: address, gender, date of birth, email, etc.                          |
+| PUT         | /v0/mdot/veteran_information | Makes a change to veteran profile, can modify address, email.                                              |
 
-### GET /v0/medical_devices
+### GET /v0/mdot
 
 #### Request
 
 ```
-GET https://va.staging.gov/v0/medical_devices
+GET https://va.staging.gov/v0/mdot
 HTTP/1.1
 Accept-Encoding: *
 va_veteran_id: 555555555
@@ -34,16 +34,24 @@ Content-Type: application/json
 
 ```json
 {
-  "veteran": {
-    "firstName": "Arthur",
-    "lastName": "Morgan",
-    "dateOfBirth": "1863-06-15"
-  }
+
 }
 ```
 
-### POST /v0/medical_devices
+### POST /v0/mdot
 
-### GET /v0/medical_devices/profile
+#### Request
 
-### PUT /v0/medical_devices/profile
+#### Response
+
+### GET /v0/in_progress_forms/mdot
+
+#### Request
+
+#### Response
+
+### PUT /v0/mdot/veteran_information
+
+#### Request
+
+#### Response
