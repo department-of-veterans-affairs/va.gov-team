@@ -39,3 +39,9 @@ To reduce this redundancy, we will connect VA.gov directly to the claims-process
 #### Hypothesis
 #### Objectives
 #### KPIs
+- Burial claim submission success (to Central Mail)
+- Burial claim submission failure  (to Central Mail)
+- MVI lookup hit for Veteran lookup
+- MVI lookup miss for Veteran lookup
+- Various MVI errors and exceptions
+
