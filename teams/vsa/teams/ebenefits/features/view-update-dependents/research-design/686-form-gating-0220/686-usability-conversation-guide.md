@@ -17,7 +17,7 @@ Before we start, a few things I want to mention:
 
 - **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
 
-## Warm-up Questions (Optional) - X minutes
+## Warm-up Questions
 
 Before we look at the website, let’s start with a few warm-up questions.
 
@@ -25,32 +25,34 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Are you familiar with the 686 form?
 
 
-## First Task: Select form(s) - X minutes
+## First Task: Select form(s)
 
-- Step 1
-- Step 2
+Let's imagine that you recently got married and adopted your partner's child. 
+- Click the area of the prototype to add your new spouse and child to your benefits.
 
-### Things to watch for:
+OR
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
-
-## Second Task: Step through form - X minutes
-
-- Step 1
-- Step 2
+Let's imagine that your 21 year old child has just dropped out of college and can no longer be claimed as a dependent. 
+- Click the area of the prototype to remove your child from your benefits.
 
 ### Things to watch for:
 
 - [Does the participant understand meaning of xyz?]
 - [Does the participant notice xyz?]
 - [Etc]
+
+## Second Task: Step through form
+
+- Walk through the steps of this form. Be sure to think aloud and comment on the process of walking through the form.
+
+### Things to watch for:
+
+- Does the participant understand that all the workflows are withing this form? 
 
 ## Third Task: Review application - X minutes
 
-- Step 1
-- Step 2
+- Take a moment to review the information presented on the screen. 
+- Click the area of the prototype to complete this application process.
 
 ### Things to watch for:
 
@@ -58,13 +60,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 - [Does the participant notice xyz?]
 - [Etc]
 
-## Post-Task Interview - X minutes
+## Post-Task Interview
 
 - Would you prefer to complete multiple tasks like this? Or individually?
-- Question 2
+- What are your thoughts on the length of the form? 
+- What would you change about this prototype?
+- What kind of device (mobile/desktop/tablet) do you use most often? Would you use that kind of device to fill this form out?
 - Any questions for me? 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing 
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
