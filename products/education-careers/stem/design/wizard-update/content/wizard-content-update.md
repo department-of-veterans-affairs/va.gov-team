@@ -6,7 +6,7 @@ Education Benefits Wizard accessible via the "Find your education benefits form"
 **Question 1:** Are you applying for a new benefit or updating your program or place of training?
 * Applying for a new benefit	
 * Updating my program of study or place of training
-* Applying to extend my Post-9/11 or Fry Scholarship benefits using the Edith Nourse Rogers STEM Scholarship { radio button triggers "Apply now" button and displays eligibility criteria below }
+* Applying to extend my benefit using the Edith Nourse Rogers STEM Scholarship { radio button triggers "Apply now" button and displays eligibility criteria below }
 
 { eligibility criteria displays when STEM radio button is selected }
 
