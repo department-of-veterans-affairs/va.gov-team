@@ -2,14 +2,14 @@
 name: Public Websites Intake Form
 about: To file requests with the VSA Public Websites team e.g. content support or redirects.
 title: <Type of Request> from <Team>
-labels: vsa-public-websites, vsa
+labels: vsa-public-websites, vsa, vsa-triage
 assignees: jenniferlee-dsva
 ---
 
 ## Why you're here
 - Content support for static public website pages
 - Content support for authenticated application or tools
-- Support for redirects that have first been vetted by the VSP IA team
+- Support for redirects that have first been vetted by the VSP IA team 
 - Engineering support for implementation of REACT sign in widgets
 
 ## Instructions
@@ -64,10 +64,11 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
       * < Github issue link >
    
 - [ ] **Implementation of REACT sign in widgets**
-   * 
+   * Sign in page
+      * < URL >
      
 - [ ] **Other**
-   * Please describe
+   * Please describe in detail
       
 
 ### Desired/target implementation date
@@ -75,6 +76,7 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
 * <Desired/target implementation date>
 
+--- 
 
 ### Requestor info
 *Indicate what team and who the primary contacts are on your team* 
