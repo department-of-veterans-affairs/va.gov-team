@@ -26,7 +26,7 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 ## Request
 
 ### Background
-*Provide a background of your tool/functionailty.*
+*Provide a background of your tool/functionality.*
 
 * **Is the request related to a VA.gov tool? Provide a brief description of the tool or functionality:**  
    * < description >
