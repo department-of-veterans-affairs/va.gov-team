@@ -14,8 +14,8 @@
 
 ## eBenefits Screenshots
 
-![screenshot](/images/payments-list-1.png)
+![screenshot](images/payments-list-1.png)
 
-![screenshot](/images/payments-list-2.png)
+![screenshot](images/payments-list-2.png)
 
-![screenshot](/images/payments-detail.png)
+![screenshot](images/payments-detail.png)
