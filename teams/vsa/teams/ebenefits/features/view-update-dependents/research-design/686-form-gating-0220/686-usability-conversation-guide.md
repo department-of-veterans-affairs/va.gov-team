@@ -37,9 +37,8 @@ Let's imagine that your 21 year old child has just dropped out of college and ca
 
 ### Things to watch for:
 
-- [Does the participant understand meaning of xyz?]
-- [Does the participant notice xyz?]
-- [Etc]
+- Does the participant know they can select multiple scenarios?
+- Make note of how the participant interacts with the checkboxes.
 
 ## Second Task: Step through form
 
