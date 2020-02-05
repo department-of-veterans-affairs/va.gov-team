@@ -1,7 +1,7 @@
 *Last updated: February 4, 2020* \
 *Owned by: VSP Content and IA Team*
 
-# VSP Information Architecture (IA)
+# Information Architecture (IA)
 
 The VSP IA Team supports teams building on VA.gov by providing guidance and best practice recommmendations to ensure all content is easily findable and to maintain a consistent navigation experience for our users regardless of the number of people and teams building user experiences on VA.gov.
 
