@@ -95,7 +95,7 @@ Meet with VSP practice area reviewers to catch anything in your prototypes or mo
 ## Collaboration format: 30-minute meeting 
 
 ### Request Process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template. VSP will schedule the meeting.(Suggested scheduling: during VSP reviewer office hours)
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template. VSP will schedule the meeting. (Suggested scheduling: during VSP reviewer office hours)
 
 ### Artifact inputs
 You bring: 
@@ -111,7 +111,7 @@ VSP brings:
 - We’ll use the 30-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
 
 ### Meeting attendees
-- VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point (suggested: your designer(s) and content writer(s). 
+- VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point (suggested: your designer(s) and content writer(s)). 
 - If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna, Tze
 - VSP brings: design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea). Optional: analytics (Joanne).
 
@@ -119,69 +119,80 @@ VSP brings:
 Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
 
 ---
-## Research Plan Review
+
+# Research Plan Review
 Get feedback from DEPO's research expert on your research plan and script. 
 
-### Timing
-Development stage: **Discover**
+## Timing
+- Development stage: **Discover**
+- A week before you plan to conduct research
 
-A week before you plan to conduct research
+## Collaboration format: asynchronous
 
-### Collaboration format: asynchronous
-Message Lauren Alexanderson (@Lalexanderson) your research plan and script
+### Request Process
+**VFS Product Manager** message Lauren Alexanderson (@Lalexanderson) with your research plan and script
 
+### Artifact inputs
+You bring:
+- Your complete research plan (resources located in [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/planning)).
 
-### Artifact input/output
+### Outcomes and artifact outputs
+- DEPO's research expert provides feedback on your research plan
+- As applicable, approval is granted to begin recruiting participants via Perigean 
 
-### For further support at this point
-Message Lauren Alexanderson (@Lalexanderson)
+## For further support at this point
+Message Lauren Alexanderson (@Lalexanderson) in Slack or reach out in the #design channel.
 
 ---
 
 
-## Information Architecture (IA) Request
+# Information Architecture (IA) Request
 Collaborate with VSP’s Information Architect to finalize your URL and other key details before developing in staging. VSP’s Information Architect has a high-level view of the entire VA.gov experience and can help ensure that your new or updated content fits well in that ecosystem.
 
-### Timing
-Development stage: **Discover**
+## Timing
+- Development stage: **Discover**
+- After usability testing, when you’re ready to begin building in staging
 
-After usability testing when you’re ready to build in staging
+## Collaboration format: asynchronous
 
-### Collaboration format: asynchronous
-VFS Product Manager initiates by completing IA Request template in ZenHub. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
+### Request process
+**VFS Product Manager** initiates by completing `IA Request` template in ZenHub. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
 
-#### Artifact inputs
-You bring: a completed information architecture worksheet (in ZenHub template)
+### Artifact inputs
+You bring: 
+- A completed information architecture worksheet (in ZenHub template)
 
-#### Outcomes and artifact outputs
-VSP provides: finalized information architecture attributes
+### Outcomes and artifact outputs
+VSP provides:
+- Finalized information architecture attributes
 
-### For further support at this point
+## For further support at this point
 Reach out to Information Architecture resources (@Mikki @Megan Kelley) in Slack #vfs-platform-support with any questions.
 
 ---
 
-## Analytics Request
+# Analytics Request
 Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans are using VA.gov.
 
-### Timing
-Development stage: **Discover**
+## Timing
+- Development stage: **Discover**
+- After you have defined your KPIs and are determining which frontend events would be beneficial to track on your application before you build.
 
-After you have defined your KPIs and are determining which frontend events would be beneficial to track on your application before you build.
+## Collaboration Format: 30-minute kickoff meeting
 
-### Collaboration Format: 30-minute kickoff meeting
-VFS Product Manager submits request using Analytics Implementation and QA Request template for Google Tag Manager implementation. Slack #vfs-analytics for ForeSee setup.
+### Request process
+**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation. Slack #vfs-analytics for ForeSee setup.
 
-#### Meeting attendees 
+### Meeting attendees 
 You Bring: 
-* Google Tag Manager CheckPoint: Your Product Manager and POC for Front End engineering
-* ForeSee CheckPoint: Your Product Manager or Product Owner
+- Google Tag Manager implementation: Your Product Manager, DEPO PO, and point of contact for frontend engineering
+- ForeSee implementation: Your Product Manager or Product Owner
 
 VSP Brings: 
-* Google Tag Manager Checkpoint: Google Tag Manager specialists
-* ForeSee CheckPoint: Analytics Product Manager
+- Google Tag Manager implementation: Google Tag Manager specialists
+- ForeSee implementation: Analytics Product Manager
 
-#### Artifact inputs
+### Artifact inputs
 You bring: 
 * Google Tag Manager 
    * Objectives and definitions of success (e.g. a specific user interaction or final URL) that is deemed as success for the product)
@@ -193,12 +204,12 @@ ForeSee: The final staging and production URLs for pages you want the survey to 
    * Suggestions and feedback on event naming
    * Google Tag Manager configuration services
    
-#### Outcomes and artifact outputs
+### Outcomes and artifact outputs
 * VSP will configure Google Tag Manager so that it will translate the code into a readable format for Google Analytics reporting
 * VSP will configure the surveys published on your VA.gov URLs
 * VSP’s support for analyzing resulting data
 
-### For further support at this point
+## For further support at this point
 Reach out to analytics experts on Slack via #vfs-platform-support
 
 ---
