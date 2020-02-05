@@ -274,12 +274,7 @@ Sprint 13 is 9 days with the MLK Day holiday.
 
 Design
 - Design review #5061
-- Put together all screens for all states #5092
-  - Contact information #5264
-  - Military information #5265
-  - Direct deposit #5266
-  - Account security #5268
-  - Connected accounts #5269
+- Finish Contact information #5264
 
 Frontend
 - Convert profile phone number form to use SchemaForm #5118
@@ -291,7 +286,6 @@ Frontend
 - [BE] Direct Deposit: Review product outline and update if needed #5251
 - [FE] Direct Deposit: Review product outline and update if needed #5252
 - [BE] Address validation: Review product outline and update if needed #5254
-- [FE] Address validation: Review product outline and update if needed #5256
 
 ## Sprint 15 (2/12 - 2/25)
 
@@ -322,12 +316,19 @@ Frontend
 
 Tressa out most of the sprint
 
-- Submit for update to copy for Profile 2.0 #5093
-- Plan research
+Finish screens
+- Military information #5265
+- Direct deposit #5266
+- Account security #5268
+- Connected accounts #5269
 
 **Dev**
 
 - [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- [FE] Address validation: Review product outline and update if needed #5256
 
 ## Sprint 16 (2/26 - 3/10)
 
@@ -341,6 +342,8 @@ Tressa out most of the sprint
 ### Profile 2.0
 
 Design
+- Submit for update to copy for Profile 2.0 #5093
+- Plan research
 - [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
 - Submit research proposal
 
