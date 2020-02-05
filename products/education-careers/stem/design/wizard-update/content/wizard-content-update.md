@@ -16,7 +16,7 @@ To be eligible for the Edith Nourse Rogers STEM Scholarship, you must meet all t
 •	Are enrolled in an undergraduate program for science, technology, engineering or math (STEM), **or** have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)  
     
 
-To learn more about the scholarship, [visit the VBA STEM page](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/).
+To learn more about the scholarship, [visit the VBA STEM page](https://benefits.va.gov/gibill/fgib/stem.asp).
 
 
 Based on the eligibility requirements above, do you want to apply for this scholarship? 
