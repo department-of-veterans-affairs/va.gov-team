@@ -93,8 +93,6 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open Issues
 
-* [Change Community Care service field labels and typeahead - #3049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3049)<br/>
-**Opened:** July 8, 2019 | **Severity:** 508-defect-1 — **_Critical_**
 * [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
 **Opened:** July 10, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
