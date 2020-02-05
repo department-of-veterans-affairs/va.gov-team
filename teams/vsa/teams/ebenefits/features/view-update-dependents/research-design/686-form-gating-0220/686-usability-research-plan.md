@@ -1,18 +1,31 @@
-# Research Plan for eBenefits Accessing 21-686c Add/Remove Dependents Workflows, February 2020  
+# Research Plan for eBenefits Form 21-686c Add/Remove Dependents Workflows, February 2020  
 
-**Background:** Not yet available.
+#### VSA eBenefits Team / 21-686c Migration & Modernization
 
 ## Table of Contents
 Not yet available
 
+#### Background
+A Veteran with a VA disability rating of 30% or greater can apply to have their dependents added to their disability claim, increasing the Veteran's diability pay. VA uses the 21-686c form to collect and process the information to decide the Veteran's claim. In addition to adding dependents, the 21-686c (686) is used to remove dependents who have died or otherwise left the household of the Veteran.
+
+The 686 is 12 pages in its paper incarnation, and it supports seven discrete workflows--eight if the 21-674 is added. About half the paper form is instructions. Once deployed, the 686 will be one of the longer, more complex forms on VA.gov. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
+
+The subject of this research plan is VA form 21-686c being migrated from the eBenefits website to VA.gov by the eBenefits team. Development efforts must align this form with the latest [paper version](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf), revised September of 2018. The current digital iterations (eBenefits and the Rainbows Team effort from 2018) of the 21-686c is based on prior revisions of the paper form. Consequently, the team must migrate all current eBenefits functionality (including the [21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) feature) and align the inputs with the current form. The new 686 must be developed witin the conventions and contstraints of the VA.gov form system. 
+
 ### Goals
-#### Support Required to Sucessfully Submit Form
+
+The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment.
+
+#### Determine best wayfinding/navigation to form
 TBD
 
-#### Wayfinding/Navigation to Form
+#### Decide what support (setup, instructions and examples) users need to navigate and submit the form
 TBD
 
-#### Application (Business Process) Workflows
+#### Confirm the proper "chaptering' of the various business workflows
+TBD
+
+#### Discover any problems that arise from complicated chapter combinations
 TBD
 
 #### Hypothesis
