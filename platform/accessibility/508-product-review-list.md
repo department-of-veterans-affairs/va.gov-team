@@ -310,7 +310,7 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open issues
 
-* [[SCREENREADER]: 526 V2 - Date fields are firing error messages too soon on unit assignment page - #1086](https://github.com/department-of-veterans-affairs/va.gov-team/issues/1086)<br/>
+* [[SCREENREADER]: 526 V2 - Date fields are firing error messages too soon on unit assignment page - #5190](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5190)<br/>
 **Opened:** August 19, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 
 ---
