@@ -309,6 +309,9 @@ Frontend
 **Dev**
 
 - E2E tests, running in CI/CD, passing on all browsers #5005
+- #5466 (Alert-message copy bug)
+- #5505 (IE11 radio-button quirk)
+- #5553 (Firefox alert-icon styling bug)
 
 ### Profile 2.0
 
