@@ -17,56 +17,56 @@ So you’re starting a new project — congratulations! This is a guide to requi
 
 
 
-## Project Kickoff
+# Project Kickoff
 Help VSP support you more efficiently and effectively throughout the collaboration cycle by connecting in the early stages of your project. Introduce your work initiative in this meeting so we can identify any areas that may need additional support. 
 
-### Timing
+## Timing
 - Development stage: **Define**
 - When you understand the problem you’re trying to solve (you don’t yet need to know exactly how you’re going to solve it).
 
-### Collaboration format: 30-minute meeting
+## Collaboration format: 30-minute meeting
 
-#### Request process
+### Request process
 **VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template. VSP will schedule the meeting. Meeting is recorded.
 
-#### Meeting attendees
+### Meeting attendees
 - VFS brings: your Product Manager, DEPO PO, and anyone else you want to invite. 
 - If VFS team is part of VSA contract, also include as optional: Jennifer, Tze, Shawna, Mickin
-- VSP brings (all optional): design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea). VSP’s DEPO co-leads (Kevin) are included as optional.
+- VSP brings (all optional): design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea) and analytics (Joanne). VSP’s DEPO co-leads (Kevin) are included as optional.
 
-#### Artifact inputs 
+### Artifact inputs 
 You bring: 
 - An explanation of the problem space
 - A rough draft of product outline (stored in appropriate GitHub `va.gov-team/products` folder)
 - Any other artifacts you have so far (such as lo-fi prototypes)
 - You **do not** need to prepare a presentation
 
-#### Outcomes and artifact outputs
+### Outcomes and artifact outputs
 We’ll work together to identify any areas of your project that need additional support or collaboration. Follow-ups and areas to expand upon should be called out in this meeting and scheduled after the fact. 
 
-### For further support at this point
+## For further support at this point
 Reach out via Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
 
 ---
 
-## Design Intent Collaboration
+# Design Intent Collaboration
 Present a draft of your ideas to designers. Learn about existing design components and research findings relevant to the problem space. Discuss accessibility considerations with accessibility experts.
 
-### Timing
+## Timing
 - Development stage: **Define**
 - When you are brainstorming and drafting your solution approach.
 
-### Collaboration format: 30-minute meeting
+## Collaboration format: 30-minute meeting
 
-#### Request Process
+### Request Process
 **VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template. VSP will schedule the meeting. 
 
-#### Meeting attendees
+### Meeting attendees
 - VFS brings: Designer(s) from your product team; DEPO PO
 - If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna
 - Design experts bring: DEPO platform design expert (Kevin H - optional); VSP design (Emily & Crystabel) and accessibility (Trevor) practice area reviewers
 
-#### Artifact inputs
+### Artifact inputs
 You bring:
 - Whiteboard sketch or other lo-fi prototypes or mockups
 - A general idea of the toolset you intend to use in your designs
@@ -76,7 +76,7 @@ Design experts provide after the meeting:
 - A list of existing applications or pages with similar execution or patterns with URLs in staging
 - A list of relevant test user accounts for auth apps
 
-#### Outcomes and artifact outputs 
+### Outcomes and artifact outputs 
 - Design and accessibility expert feedback (including relevant components, patterns, apps, test accounts, existing research, and notes on accessibility approach) is documented in ZenHub. 
 - Product designers have a thorough understanding of other existing and in progress products, components, and patterns, to pull from in the VA.gov ecosystem. 
 
@@ -85,30 +85,37 @@ Reach out to design experts in Slack #design.
 
 ---
 
-## Usability Testing Prep
-Meet with VSP practice area reviewers to catch anything in your prototypes or mockups that may detract from usability testing.  Get feedback on your test plan.
+# Usability Testing Prep
+Meet with VSP practice area reviewers to catch anything in your prototypes or mockups that may detract from usability testing. Ensure that you're on track to deliver a successful product for Veterans.
 
-### Timing
-Development stage: **Discover**
+## Timing
+- Development stage: **Discover**
+- When you’ve determined your initial solution approach and you have prototypes or mockups ready for user testing.
 
-When you’ve determined your initial solution approach and you have prototypes or mockups ready for user testing.
+## Collaboration format: 30-minute meeting 
 
-### Collaboration format: 30-minute meeting 
-VFS Product Manager initiates scheduling by submitting ZenHub issue — use Usability Testing Prep template. VSP will schedule the meeting.  (Suggested scheduling: during VSP reviewer office hours)
+### Request Process
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template. VSP will schedule the meeting.(Suggested scheduling: during VSP reviewer office hours)
 
-#### Artifact inputs
-- You bring: prototypes or mockups prepped for user testing, your complete research plan, and a draft of your test cases and/or test plan. Please provide these artifacts at least 2 days before the scheduled review meeting.
-- VSP brings: feedback on the artifacts you’ve provided.
+### Artifact inputs
+You bring: 
+- Prototypes or mockups prepped for user testing
+- Adraft of your test cases and/or test plan (for QA practice area review) 
+- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
-#### Outcomes and artifact outputs
-VSP’s feedback regarding the artifacts you provided is documented in ZenHub.
-We’ll use the 30-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
+VSP brings:
+- Feedback on the artifacts you’ve provided from the following practice areas: design, accessibility, content, QA, and optional: information architecture (IA), product, analytics, engineering
 
-#### Meeting attendees
-- You bring: your Product Manager and anyone else you want to invite (suggested: designer and/or content writer). If your team is part of the VSA contract, shared VSA resources such as accessibility and QA should also be invited. 
-- VSP brings: design, accessibility, content, information architecture, and QA practice area reviewers.
+### Outcomes and artifact outputs
+- VSP’s feedback regarding the artifacts you provided is documented in ZenHub.
+- We’ll use the 30-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
 
-### For further support at this point
+### Meeting attendees
+- VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point (suggested: your designer(s) and content writer(s). 
+- If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna, Tze
+- VSP brings: design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea). Optional: analytics (Joanne).
+
+## For further support at this point
 Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
 
 ---
