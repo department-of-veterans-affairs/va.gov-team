@@ -37,7 +37,13 @@ To reduce this redundancy, we will connect VA.gov directly to the claims-process
 
 ### Desired Outcome
 #### Hypothesis
+Automating claims will reduce the time it takes to establish claims and improve data quality.
+
 #### Objectives
+
+1. Create claim from data entered by clamaint on VA.gov
+2. Upload files related to the form to the e-Folder VBMS 
+
 #### KPIs
 - Burial claim submission success (to Central Mail)
 - Burial claim submission failure  (to Central Mail)
