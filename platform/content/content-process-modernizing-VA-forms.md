@@ -14,14 +14,9 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 - Identify use cases for the form. Who uses the form and why and when? 
 - What kind of communication or follow up happens after the form is submitted? How are updates communicated to the Veteran? 
 - How is the paper form currently processed offline? 
-
-- What’s the backend process for the form?  (We need to identify how data needs to be collected based on the BE process)
-
-- Review paper form and form fields to understand how each field is used and for what end 
+- Review the paper form and form fields to understand how each field is used and for what end 
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
-
-- How could the form be tweaked to easily relieve burden from VA employees
-- Discuss if any of the form language or questions are confusing to you
+- Discuss if any of the form language, labels, or questions are confusing to you
 - Identify related and potentially dependent questions
 - Discuss if there is any specific content that should be included on the form Introduction page
 - Discuss if there is any specific content that should be included on the form Confirmation page
@@ -38,36 +33,33 @@ After the discovery phase, we determine the scope of the project and begin to cr
 
 **DESIGN**: identify scope of project. Identify if new functionalities are required for this form. If so, discuss with developer and work on high fidelity mockups about what the pattern would look like.  
 
-	• Get feedback from design team
-  	• Check with core team to make sure new patterns aren't reinventing the wheel
-  	• Test new functionalities, if necessary
+- Use design review process to get feedback from design team
+- Check with design system resource to make sure new patterns aren't reiventing the wheel. 
 	
-**DESIGN**: 
-Use design review process to confirm that functionalities identified as out-of-scope are truly non-critical to the success of the form process.
 
 **DESIGN**: 
 Create an outline for each form’s required chapter
 
-	 • Identify how form questions/fields will be rendered (e.g, radio button vs. free form vs. drop down)
-	 • Identify questions that are dependent on another question
+- Identify how form questions and fields will be rendered (e.g, as radio buttons vs text box vs drop down)
+- Identify questions that are dependent on other questions 
+
 	 
 **DESIGN and CONTENT**: 
-Create a list of copy needs (Do we need to plain language any of the form instruction, questions, or labels? or are the form fields straightforward and can be used for online form)
+Create a list of copy needs 
+
+- What instructions need to also appear on the online form? 
+- Do we need to plain language any of the form questions or labels, or are the form fields straightforward and can be used for online form. Refer to the VA.gov form label masterlist to see if a label or question has already be standardized. 
 
 [See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
 
 **DESIGN and CONTENT**: Discuss the entry and exit points for the form? How will users get to the form?
 
-  	- Does the form require changes to navigation or require an applicant to step out of the form flow (for example, to read additional content or to download another form) 
-  	- Do we need to create a new static landing page for the form? If so, content to work with public-website team on any static pages needed to support the form. 
-	- What related static content needs to be updated to support the form (for example, adding CTA button to Eligibility and How to Apply pages)
-	- Does the form require a simple apply button or, in the case of EDU forms where there are several forms, do we need an apply “wizard” to guide users to the correct form? 
+- Does the form require changes to the navigation or require an applicant to step out of the form? 
+- What related static content needs to be updated to support the form? (adding CTA button and wizard to Eligiblity and How to Apply pages)
+- Does a new static landing page need to be created or update for the online form? (If so, please loop in vsa-public-websites team)
 	
 **DESIGN/CONTENT/DEVELOPER**: 
-Discuss if we need to write any specific error messaging for this form or can we pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
-
-**DESIGN**: 
-Determine the usability testing and stakeholder review timing 
+Discuss if we need to write any specific error messaging for the form or can we pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
 
 **DESIGN/CONTENT/IA**: 
 Determine form URL and the URL for any new static pages that need to be created to support the form.  
@@ -78,17 +70,20 @@ Designer begins to create form chapter outlines in Github. Example, [526-ez chap
 
 Using these chapter outlines, content editor does a plain language edit on all the form’s instructional text and form fields. Using the content editor's recommended plain-language edits, designer creates a prototype of the form in a high fidelity environment. 
 
-Content editor also begins to write the form’s introduction page and confirmation page. 
+Content editor also begins to write the form’s introduction page and confirmation page. See examples here: TKTKTKT 
 
 Content editor copy edits and reviews the prototype before usability testing and stakeholder reviews. 
 
-## Prototype usability testing and stakeholder review
+Team schedules a pre-usability check in with Platform team before user testing. 
 
-We usually do several rounds of usability testing. For the first test, we use a prototype. During testing, we look for unclear language and if we need to tweak questions. 
-We look to see if the form patterns are clear and are working. 
-We’ll hold a 2nd round of user testing on the prototype if necessary. 
 
-After (or at the same time as) user usability testing, the prototype is shared with stakeholders for their feedback. 
+## Prototype usability testing
+
+We usually do several rounds of usability testing. For the first test, we use a prototype. 
+
+During testing, we look for unclear language and if we need to tweak questions or instructions. 
+We look to see if the form patterns and flow are clear and are working.
+ 
 There is usually a round or two of iterations to the prototype before the form's content and design are built in Github files and merged into a staging environment. 
 
 
