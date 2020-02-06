@@ -66,8 +66,8 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
    
 - [ ] **Implementation of REACT sign in widgets**
-   * Sign in page
-      * < URL >
+   * Full spec including different states and behaviors
+      * < link to spec >
      
 - [ ] **Other**
    * Please describe in detail
