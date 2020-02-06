@@ -17,16 +17,26 @@ The subject of this research plan is VA form 21-686c being migrated from the eBe
 The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment.
 
 #### Determine best wayfinding/navigation to form
-TBD
+ - Determine typical usage scenarios and frequency
+ - Uncover user-expected flows to the 21-686 form
+ - Assess ease of entry from introduction page to the 21-686c form itself
+ - Determine if users can differentiate purposes of 21-686c from 21-674 
+ - Observe whether can access the 674-only workflow
 
-#### Decide what support (setup, instructions and examples) users need to navigate and submit the form
-TBD
+#### Decide what support users need to navigate and submit the form
+ - Determine what instructions, guidance and examples will be helpful within form workflows
+ - Observe whether section and subsection headers, and labeling are clear and helpful
+ - Assess users' acceptance and understanding of upload mechanism and requirements
+ - Determine if users quickly understand the different "add" and "remove" scenarios
 
-#### Confirm the proper "chaptering' of the various business workflows
-TBD
+#### Confirm the proper "chaptering" of the various business workflows
+ - Confirm that current form sections are appropriate
+ - Assess whether users can differentiate individual sections
 
 #### Discover any problems that arise from complicated chapter combinations
-TBD
+ - Assess user acceptability of add-spouse marriage history sections
+ - Determine potential issues with add-spouse and report-divorce workflow combinations
+ - Determine is the overall length od add-spouse/add-child/add-studuent combo is acceptable
 
 #### Hypothesis
 TBD
