@@ -10,10 +10,9 @@ A Veteran with a VA disability rating of 30% or greater can apply to have their 
 
 The 686 is 12 pages in its paper incarnation, and it supports seven discrete workflows--eight if the 21-674 is added. About half the paper form is instructions. Once deployed, the 686 will be one of the longer, more complex forms on VA.gov. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
 
-The subject of this research plan is VA form 21-686c being migrated from the eBenefits website to VA.gov by the eBenefits team. Development efforts must align this form with the latest [paper version](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf), revised September of 2018. The current digital iterations (eBenefits and the Rainbows Team effort from 2018) of the 21-686c is based on prior revisions of the paper form. Consequently, the team must migrate all current eBenefits functionality (including the [21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) feature) and align the inputs with the current form. The new 686 must be developed witin the conventions and contstraints of the VA.gov form system. 
+The subject of this research plan is VA form 21-686c being migrated from the eBenefits website to VA.gov by the eBenefits team. Development efforts must align this form with the latest [paper version](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf), revised September of 2018. The current digital iterations (eBenefits and the Rainbows Team effort from 2018) of the 21-686c is based on prior revisions of the paper form. Consequently, the team must migrate all current eBenefits functionality (including the [21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) feature) and align the inputs with the current form. The new 686 must be developed within the conventions and constraints of the VA.gov form system. 
 
 ### Goals
-
 The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment.
 
 #### Determine best wayfinding/navigation to form
@@ -30,13 +29,16 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Determine if users quickly understand the different "add" and "remove" scenarios
 
 #### Confirm the proper "chaptering" of the various business workflows
- - Confirm that current form sections are appropriate
  - Assess whether users can differentiate individual sections
+ - Confirm that current form sections are appropriate
+ - Determine if the accordions in the confirmation sections are manageable for users
 
 #### Discover any problems that arise from complicated chapter combinations
  - Assess user acceptability of add-spouse marriage history sections
  - Determine potential issues with add-spouse and report-divorce workflow combinations
- - Determine is the overall length od add-spouse/add-child/add-studuent combo is acceptable
+ - Determine if the overall length of add-spouse/add-child/add-student combo is acceptable
+ - Note any potential problems with list/loop feature
+ - Assess user acceptance of various "remove" workflows
 
 #### Hypothesis
 TBD
@@ -44,7 +46,7 @@ TBD
 #### Research  Questions
 [ Preliminary list... Work-in-progress ]
 - Are the forms presented clearly and easy to understand by Veterans?
-  - Do participants undestand the 21-686c is a multi-purpose form? 
+  - Do participants understand the 21-686c is a multi-purpose form? 
   - Will participants accept the checkbox selection, and understand it makes the form "al-la-carte?"
   - Is the labeling and section headers clear and helpful?
   - Where do we need helper content like tell-me-mores or inline instructions.
@@ -55,11 +57,11 @@ TBD
   - Would they rather submit different workflows separately or all together?
   - What (workflow) combinations (if any) are likely? 
   - Would they like "pre-packaged" scenarios (Add spouse/add child)
-  - Is the chaptering of the form accetable?
+  - Is the chaptering of the form acceptable?
   - How is the balance of multiple chapters vs. page/form length?
  
 - How will the workflow affect Veterans?
-  - What are users' espectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
+  - What are users' expectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
   - How do users feel about a "worst-case" end-to-end form that included all scenarios? 
   - How do user feel about the former spouse sections of the add-spouse workflow?
   - What can we do do to make it more tolerable?
@@ -86,10 +88,10 @@ Participants will be recruited via Perigean. The study will require 10 Veterans 
 - Sessions will run approximately 30 minutes
 
 ### Timeline
-TBD
+The target window for research sessions is the week of February 17. Preparation includes participant recruitment, refining prototypes, revising the conversation guide, and a pilot (test) session. 
 
 #### Pilot Session
-TBD
+The target date for the pilot session is February 14.
 
 #### eBenefits Team Availability
 (Session times subject to Participants' availability)
@@ -116,14 +118,21 @@ Date | Time (EST)
 ### Resources
 - [Project Brief for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/apply-modify-dependents.md)
 
-- [Conversation Guide]() (Not yet available.)
+- [Conversation Guide]() (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
 
 - [Add/Remove Dependents Walkthrough/Workflows](https://xd.adobe.com/view/0f7759a1-b990-4d71-50c9-138d9e593fd0-7946/)
 
-- [Session Notes]() (Not yet available.)
+- [Session Notes]() (Available after research sessions.)
 
-- [Research Synthesis]() (Not yet available.)
+- [Research Synthesis]() (Available at conclusion of research.)
 
-- [Research Readout]() (Not yet available.)
+- [Research Readout]() (Available at conclusion of research.)
+
+### References
+ - [VA Form 21-686c (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf)
+ 
+ - [VA Form 21-674 (PDF)](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf)
+ 
+ - [21-686c Business Workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 #### Approval
