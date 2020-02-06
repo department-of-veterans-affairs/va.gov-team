@@ -1,4 +1,4 @@
-# Research Plan for eBenefits Form 21-686c Add/Remove Dependents Workflows, February 2020  
+ew# Research Plan for eBenefits Form 21-686c Add/Remove Dependents Workflows, February 2020  
 
 #### VSA eBenefits Team / 21-686c Migration & Modernization
 
@@ -41,7 +41,8 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Assess user acceptance of various "remove" workflows
 
 #### Hypothesis
-TBD
+[ Work-in-progress ]
+Among participants who are familiar with the 21=686c form, more will know the form is intended to add dependents, but few will know they are required to use the form to remove dependents. Actual usage of the 21-686c will be infrequent. It is expected that users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once. The form should be manageable through most workflows. The add-spouse workflow will be problematic in it's length and the "odd" section of former marriages. Lorem ipsum dolor sit amet...
 
 #### Research  Questions
 [ Preliminary list... Work-in-progress ]
