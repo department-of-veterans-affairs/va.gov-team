@@ -17,6 +17,7 @@ assignees: andreahewitt-odd, meganhkelley
 ## Artifacts - _please bring the following to the kickoff meeting_
 - Product brief/outline (draft)
 - Explanation of the problem space
+- Regression test plan (If there isn't already a regression test plan for this feature in TestRail) 
 - Any other artifacts you have so far
 
 ## Meeting attendees from **requesting team**
