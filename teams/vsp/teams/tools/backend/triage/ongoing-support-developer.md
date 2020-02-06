@@ -46,6 +46,8 @@ The #vfs-backend-onpoint channel can be used to track new and resubmitted PRs, a
 
 Track the PRs...
 
+As currently configured, on the first of the month Dependabot will open PRs until it has 15 active open PRs. These are lower priority, but should be worked through as time permits. [Dependabot filter](https://github.com/department-of-veterans-affairs/vets-api/pulls/app%2Fdependabot-preview)
+
 ### Support requests
 
 Create an issue describing the request in GitHub and link it to one of the three super-epics. Assign it to yourself. Track any work done with comments. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
