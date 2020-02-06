@@ -86,7 +86,7 @@ for the yellow / gold writing.
 ## Object doesn&rsquo;t deep equal object??
 
 Ideally, we&rsquo;d catch all the validation errors locally, but that won&rsquo;t always be
-the case. Unfortunately, the error output from Mocha is sometimes limitted in
+the case. Unfortunately, the error output from Mocha is sometimes limited in
 Jenkins. As such, when the unit test encounters an error, it logs the entire test
 file and the output of the transformation for manual comparison.
 
