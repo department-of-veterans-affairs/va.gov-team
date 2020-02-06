@@ -52,7 +52,7 @@ Create an issue describing the request in GitHub and link it to one of the three
 
 ### Sentry errors
 
-Browse (Sentry)[http://sentry.vfs.va.gov/vets-gov/platform-api-production/] and monitor the #vfs-sentry-alerts channel.
+Browse [Sentry](http://sentry.vfs.va.gov/vets-gov/platform-api-production/) and monitor the #vfs-sentry-alerts channel.
 The #vfs-sentry-alerts channel is configured to receive alerts that meet one of the following criteria:
 * First occurence of an issue
 * High volume of an error occurring
