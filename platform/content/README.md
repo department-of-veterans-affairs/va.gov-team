@@ -17,7 +17,7 @@ The following list is a set of resources to help you do your work and answer con
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
     - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)  
     - [URL guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
-     - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-process-for-VA-forms.md)
+     - [Content process for modernizing VA forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-process-modernizing-VA-forms.md)
 - VA.gov content style guides 
     - [VA.gov content style guide](https://design.va.gov/content-style-guide/)
     - [Terms to lowercase (these aren't proper nouns)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/list-of-terms-to-lowercase.md)
@@ -44,7 +44,8 @@ The following list is a set of resources to help you do your work and answer con
 - Drupal (CMS) resources
     - [Tier 1 benefit content CMS workflow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/3c243ef4aeb3e68f14993f8f429764f98a5cfddd/Tier-1-benefit-content-CMS-workflow-071119-combined.pdf)
     - [UAT process for content migration](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/UAT-process-for-content-migration.md)
-- Historical process: Content team checklists    
+    
+- Historical process: Former content team checklists    
 *Please note: Some of the documented lists and processes listed below are evolving or no longer valid as we move from Github to Drupal.*
     - [VA content owner requests (Jotform)](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/guides/content-update-form-process.md) *(Please note: this process is currently under review)*
     - [Content launch checklist--Historical process](https://github.com/department-of-veterans-affairs/vets.gov-content/blob/master/templates-and-guides/checklists/new-content-launch.md)
