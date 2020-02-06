@@ -100,7 +100,7 @@ Meet with VSP practice area reviewers to catch anything in your prototypes or mo
 ### Artifact inputs
 You bring: 
 - Prototypes or mockups prepped for user testing
-- Adraft of your test cases and/or test plan (for QA practice area review) 
+- A draft of your test cases and/or test plan (for QA practice area review) 
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
@@ -113,7 +113,7 @@ VSP brings:
 ### Meeting attendees
 - VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point (suggested: your designer(s) and content writer(s)). 
 - If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna, Tze
-- VSP brings: design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea). Optional: analytics (Joanne).
+- VSP brings: design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea).
 
 ## For further support at this point
 Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
@@ -295,10 +295,14 @@ Ensure your feature meets VSP's privacy and security standards.
 - Description of any other security hotspots you're concerned about / want extra attention on
 
 ### Outcomes and artifact outputs
+- VSP provides a list of concrete action items the need to be addressed, or approval to roll out
 
 ### Meeting attendees 
+- VFS brings: your lead engineer, your Product Manager (optional), your DEPO PO, and whoever on your team can speak to the technical architecture and security concerns
+- VSP brings: engineering experts (Andrew, and another engineer that Andrew identifies as needed)
 
 ## For further support at this point
+Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
 
 ---
 
@@ -345,7 +349,7 @@ You bring:
 - Completed [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with results populated
 
 ### Outcomes and artifact outputs
-- 
+Begin thinking about how your product should be evolving based on the results you've reported.
 
 ## For further support at this point
 Reach out in #vfs-all-teams with questions
