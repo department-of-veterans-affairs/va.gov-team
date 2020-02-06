@@ -132,8 +132,8 @@ The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in 
 To be considered, you must meet all the requirements below. You:  
 
 •	Are receiving Post-9/11 GI Bill or Fry Scholarship benefits  
-•	Have used up all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
-•	Are enrolled in an undergraduate program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
+•	Have used all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
+•	Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
 
 
 Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
@@ -189,14 +189,18 @@ Finish this application later]()
 
 *Rogers STEM Scholarship* { Sub-head } 
 
-To be eligible for the scholarship, students must meet all 3 of the following criteria:  
+{ gray box } 
 
-Your responses:  
+Based on you responses, it appears you're not eligible.  
+
+Your responses:
+{ display X if user indicated "No" or Checkmark if they indicated "Yes" } 
 X  Post-9/11 GI Bill beneficiary or Fry Scholarship recipient  
-X  Not enrolled in an undergraduate STEM program, or haven’t earned a STEM degree and are now pursuing a teaching certification  
-X  Don’t have 6 months or less of education benefits remaining  
+X  Have used all your education benefits or are within 6 months of do so
+X  Are enrolled in a STEM undergraduate degree program, **or** have earned a STEM degree and are now pursuing a teaching certification  
 
-Would you like to continue applying for the scholarship to let VA determine your eligibility? (*Required)  
+
+Since it appears you're not eligible for the scholarship, would you still like apply and let us determine your eligibility? (*Required)  
 * Yes  
 * No  
 
@@ -205,8 +209,9 @@ If your situation changes in the future and you meet all of the criteria, you ma
 
 [Explore other education benefits] { button } . 
 
-If you would still like to change your program of study or place of training, continue below.
+{ end gray box }
 
+Since you're not applying for the Rogers STEM Scholarship, if you need to change your program of study or place of training, continue with this application. 
 
 [ Back | Continue ] { buttons } 
 
