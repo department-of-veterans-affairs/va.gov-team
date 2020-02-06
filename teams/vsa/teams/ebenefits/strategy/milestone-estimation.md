@@ -1,7 +1,7 @@
 ``` diff
 - WIP
 ```
-# Milestone Estimatations
+# Milestone Estimations
 | **Feature** | **Type** | **Minimum** | **Maximum** | **Completion Estimate (min)** |
 | ---- | ------- | ------------------ | ------------------ | ------- |
 | Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
