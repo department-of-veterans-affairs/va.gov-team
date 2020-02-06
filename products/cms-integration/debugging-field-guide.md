@@ -87,7 +87,7 @@ for the yellow / gold writing.
 
 Ideally, we&rsquo;d catch all the validation errors locally, but that won&rsquo;t always be
 the case. Unfortunately, the error output from Mocha is sometimes limitted in
-Jenkins. As such, when the unit test encounter an error, it logs the entire test
+Jenkins. As such, when the unit test encounters an error, it logs the entire test
 file and the output of the transformation for manual comparison.
 
 
@@ -141,4 +141,3 @@ following error:
 Return only part of a content model. See [`node-vamc_operating_status_and_alerts`](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/transformers/node-vamc_operating_status_and_alerts.js#L18-L25)
 for an example. Once this is done, the [schema will need to be updated](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/schemas/transformed/node-vamc_operating_status_and_alerts.js#L23-L28) so it
 doesn&rsquo;t expect the missing pieces.
-
