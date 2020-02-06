@@ -56,6 +56,8 @@ Each application or logical section of the site will have a heading and a detail
 
 * [[SCREENREADER]: Inline error messages are announcing to screen readers on correction, not on subsequent errors - #314](https://github.com/department-of-veterans-affairs/va.gov-team/issues/314)<br/>
 **Production** | **Opened:** June 18, 2019 | **Severity:** 508-defect-1 — **_Critical_**
+* [[COGNITION]: Multiple ambiguities with linked text in content block - #3556](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3556)<br/>
+**Production** | **Opened:** November 19, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER]: Legends must be first child element of fieldesets for tabbing navigation - #767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/767)<br/>
 **Production** | **Opened:** July 31, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER]: JAWS does not announce some sections of the multi-step forms when loaded - #317](https://github.com/department-of-veterans-affairs/va.gov-team/issues/317)<br/>
