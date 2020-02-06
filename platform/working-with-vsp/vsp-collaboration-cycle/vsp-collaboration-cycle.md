@@ -247,7 +247,7 @@ Get feedback on your completed build before rolling out to users.
 - Development stage: **Build**
 - When you're ready to begin rollout.
 
-## Collaboration format: 60-minute meeting
+## Collaboration format: 30-minute meeting
 
 ### Request Process
 **VFS Product Manager** requests meeting using the `Staging Review` template. VSP will schedule the meeting. (Suggested scheduling: during VSP reviewer office hours)
@@ -264,7 +264,7 @@ VSP brings:
 
 ### Outcomes and artifact outputs
 - VSP’s feedback regarding the artifacts you provided is documented in ZenHub.
-- We’ll use the 60-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
+- We’ll use the 30-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
 
 ### Meeting attendees
 - VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point 
