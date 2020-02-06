@@ -1,10 +1,22 @@
 ``` diff
-- NOTES:
 - WIP
-- does this need a table?
 ```
+# Milestone Estimatations
+| **Feature** | **Type** | **Minimum** | **Maximum** | **Completion Estimate (min)** |
+| ---- | ------- | ------------------ | ------------------ | ------- |
+| Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
+| View Dependents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - Feb |
+| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - May |
+| View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Mar - Jun |
+| View Representative/ POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jun |
+| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| View Roles and Relationships | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| Support User Roles and Relationships | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
-# Milestones
+# Sample Lifecycle
 This is meant to help estimate the amount of time it might take for a full migration cycle to take.  There are some elements of this process that might happen concurrently, and some might take longer than others.  This is meant to be a living doc based on the current environment.
 
 **Reminder: If introducing unkowns, ensure they are backed up with some data.**
