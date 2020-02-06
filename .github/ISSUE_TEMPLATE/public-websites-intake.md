@@ -10,7 +10,7 @@ assignees: jenniferlee-dsva
 - Content support for static public website pages
 - Content support for authenticated application or tools
 - For specific copy editing tasks
-- Support for redirects that have first been vetted by the VSP IA team 
+- Support for redirects that have **first been vetted by the VSP IA team**
 - Engineering support for implementation of REACT sign in widgets
 
 ## Instructions
