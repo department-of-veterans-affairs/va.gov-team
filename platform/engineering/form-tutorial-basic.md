@@ -24,11 +24,12 @@ You can answer the questions with the [documentation](https://github.com/departm
 - What should be the name of your app's entry bundle? `newForm`
 - What's the root url for this app? `/new-form`
 - Is this a form app? `Y`
+- Where can I find the vagov-content repo? This path can be absolute or relative to vets-website. `./`
 - What's your form number? `XX-230`
 - What's the Google Analytics event prefix you want to use? `new-form-`
 - What's the respondent burden of this form in minutes? `30`
 - What's the OMB control number for this form? `XX3344`
-- What's the OMB expiration date (in M/D/YYYY format) for this form? `5/31/2018`
+- What's the OMB expiration date (in M/D/YYYY format) for this form? `5/31/2020`
 - What's the benefit description for this form? `new form benefits`
 - Which form template would you like to start with? `Choose 'BLANK: A form without any fields'`
 
