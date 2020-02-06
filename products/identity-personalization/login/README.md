@@ -42,7 +42,7 @@ This directory contains a plethora of historical and current-state information a
 * If you want to know a heck of a lot of details about MVI (Master Veteran Index), the [MVI Integration]() directory is the place to look.
 * How to [add someone to MVI]()
 * It is highly recommended that everyone on the VA.gov team attempts to identity proof themselves so that they can login to VA.gov in a production system. Identity proofing is available to everyone, independent of Veteran status.  If you are not a Veteran, you will not be matched in MVI but that's the expected behavior! You will simply not be able to see Veteran-specific items (e.g. secure messaging, Rx refills, etc.)
-* To navigate VA.gov as an LOA3 identity proofed Veteran: 
+* To navigate VA.gov as an LOA3 identity proofed Veteran:
   * Pick a test account from [this table](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/mvi-staging-users.csv) (scroll to the right for user/password columns)
   * Visit https://staging.va.gov (HTTP auth username is `veterans` and password is `am3rica`)
   * Click "Sign In"
@@ -51,7 +51,7 @@ This directory contains a plethora of historical and current-state information a
   * You should see a 6-digit confirmation automatically entered for you; click "Continue"
   * On the "VA.gov SAML Consumer" page, click "Allow"
   * You should now be logged in as an LOA3 identity proofed Veteran with an entry in MVI that allows you to see information for Veteran-specific items (e.g. secure messaging, Rx refills, etc)
-  
+
  ## Keywords
  When ramping up on this portfolio, the following keywords are helpful in GitHub searches:
  - ID.me
@@ -65,4 +65,3 @@ This directory contains a plethora of historical and current-state information a
  - MFA
  - Identity Verification
  - SAML
-
