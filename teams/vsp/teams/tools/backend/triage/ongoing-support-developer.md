@@ -20,7 +20,7 @@ This task is part of several ongoing sprint goals:
 * Incident Response https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1954
 * Global Customer Support https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3675
 
-The role will be assigned to a developer for a week, running during our standard support/business hours (Mon - Fri, ~9am - 5pm Eastern). Each developer will get assigned a sprint and _will only be responsible for the objectives related to this ongoing responsibility for that sprint. Since this covers *three* ongoing SuperEpics,, we’re assigning it like we’d assign any other sprint deliverable.
+The role will be assigned to a developer for a week, running during our standard support/business hours (Mon - Fri, ~9am - 5pm Eastern). Each developer will get assigned a sprint and will only be responsible for the objectives related to this ongoing responsibility for that sprint. Since this covers *three* ongoing SuperEpics,, we’re assigning it like we’d assign any other sprint deliverable.
 
 ## What do I do?
 
@@ -31,6 +31,7 @@ At the beginning of the sprint, you should make sure you are assigned to each of
 During the sprint, you should monitor the following Slack groups for issues:
 * #vfs-platform-support (individual requests)
 * #vfs-backend-onpoint (github reviews)
+* #vfs-sentry-alerts
 * #oncall (general oncall issues and problems)
 
 As issues come in, the main job is to acknowledge the incoming request, decide on the best person to handle it, and followup to make sure the request is completed in a timely manner. It is *100%* ok to assign the request, whatever it is, to someone more suited to the task but the first point of contact should be the utility developer. 
@@ -51,7 +52,12 @@ Create an issue describing the request in GitHub and link it to one of the three
 
 ### Sentry errors
 
-Browse Sentry at [lnk]. If there’s a new error, investigate. If there’s an error that you feel you might be able to fix, start a PR and try. If you need some help, ask for it. The goal is to reduce the number of repeated errors over time so the sentry log is only new, “real” issues.
+Browse (Sentry)[http://sentry.vfs.va.gov/vets-gov/platform-api-production/] and monitor the #vfs-sentry-alerts channel.
+The #vfs-sentry-alerts channel is configured to receive alerts that meet one of the following criteria:
+* First occurence of an issue
+* High volume of an error occurring
+* TODO: what else?
+If there’s a new error, investigate. If there’s an error that you feel you might be able to fix, start a PR and try. If you need some help, ask for it. The goal is to reduce the number of repeated errors over time so the sentry log is only new, “real” issues.
 
 ### Everything else
 
