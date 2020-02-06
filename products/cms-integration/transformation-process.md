@@ -228,7 +228,7 @@ easy as possible.
 ### Automatic schema imports
 
 Files in the three schemas directories are imported and used intelligently in
-[schema-validator.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/process-cms-exports/schema-validation.js).
+[schema-validation.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/process-cms-exports/schema-validation.js).
 
 
 <a id="orga2b24c5"></a>
@@ -252,4 +252,3 @@ See [Structuring a complex schema](https://json-schema.org/understanding-json-sc
 
 See the [Debugging Field Guide](debugging-field-guide.md) for a reference manual on how to debug transformer
 issues in the wild.
-
