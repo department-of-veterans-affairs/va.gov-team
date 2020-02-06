@@ -1,6 +1,7 @@
 # Table of Contents
 
-- [Readout Deck](https://docs.google.com/presentation/d/14eD-GJ5mBQXh1L9k5Lr83zbVV1iehp0a67qZz0Fn_94/)
+- [Readout Deck (PDF)](documentation-site-discovery-readout.pdf)
+- [Readout Deck (Google Slides)](https://docs.google.com/presentation/d/14eD-GJ5mBQXh1L9k5Lr83zbVV1iehp0a67qZz0Fn_94/)
 - [Mockups](Mockups.md)
 - [Sprint Agenda](agenda-daily-mtgs.md)
 - [Design Artifacts](designartifacts.md)
