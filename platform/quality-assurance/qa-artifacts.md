@@ -2,6 +2,9 @@
 A list of expected deliverables and explanation of their contents is listed below.  Please note that you will need access to [TestRail](https://dsvavsp.testrail.io/) in order to create these artifacts.
 
 ## Created in TestRail
+1. Regression Test Plan -- **Note: If you already have a regression test plan for your product's baseline in TestRail you can ignore this step.**
+    - Regression test plans should represent a basic suite of test scenarios that cover the baseline functionality of your product prior to changes from your current development effort.
+    - Example: [Regression Test Plan](https://dsvavsp.testrail.io/index.php?/suites/view/20&group_by=cases:title&group_order=asc)
 1. Test Plan
     - You will create a test plan within [TestRail](https://dsvavsp.testrail.io/). The test plan is a mapping of the functional changes being developed to test cases that test them. A test plan can consists of multiple types of test (manual, automated end-to-end, and load tests).  If test cases do not exist for each change then they will need to be created.
     - Example: [Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/30)
