@@ -40,7 +40,7 @@ When the content build is run, it does a lot of things. The steps that are
 pertinent to this document are:
 
 1.  Pulling the CMS export tarball
-2.  Transforming the content from the CMS export content models to the template
+2.  Transforming the CMS export content models to the template
     content models
 3.  Applying the content models to the templates to generate static HTML
 
@@ -92,4 +92,3 @@ issues in the wild.
 ## Best practices
 
 See [Best Practices](best-practices.md).
-
