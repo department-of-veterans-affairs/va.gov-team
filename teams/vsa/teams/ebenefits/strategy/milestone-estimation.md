@@ -38,7 +38,7 @@ Connect FE to BE
   - Design-Development Intent Checkpoint
   - 508 Pre-launch Review Checkpoint
   
-## Analytics: .5 Sprint
+## Analytics: 1 Sprint
 Establish existing traffic numbers
   - Once a new url is established per IA, share with Insights Team
 
