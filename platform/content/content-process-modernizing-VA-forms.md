@@ -18,8 +18,8 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
 - Discuss if any of the form language, labels, or questions are confusing to you
 - Identify related and potentially dependent questions
-- Discuss if there is any specific content that should be included on the form Introduction page
-- Discuss if there is any specific content that should be included on the form Confirmation page
+- Discuss if there is any specific content that stakeholders think should be included on the form Introduction page
+- Discuss if there is any specific content that stakeholder think should be included on the form Confirmation page
 
 2. Sometimes, as part of discovery work, the designer will hold user interviews or surveys to identify the paint points for the user (Most common pain points for users are:
 
@@ -47,10 +47,12 @@ Create an outline for each form’s required chapter
 **DESIGN and CONTENT**: 
 Create a list of copy needs 
 
-- What instructions need to also appear on the online form? 
-- Do we need to plain language any of the form questions or labels, or are the form fields straightforward and can be used for online form. Refer to the VA.gov form label masterlist to see if a label or question has already be standardized. 
-
+- What instructions need to appear on the online form? 
+- Do we need to plain language any of the form questions or labels, or are the form fields straightforward and can be used for online form. 
+- Refer to the VA.gov form label masterlist to see if a label or question has already be standardized. 
 [See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
+- Discuss what content will be included on the form Introduction page
+- Discuss what content will be included on the form Confirmation page
 
 **DESIGN and CONTENT**: Discuss the entry and exit points for the form? How will users get to the form?
 
