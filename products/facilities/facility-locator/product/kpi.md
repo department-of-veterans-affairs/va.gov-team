@@ -19,7 +19,7 @@
 
 ### Objective 1: Improve Veteran search experience (as of December 6, 2019)
 
-**KPI 1** Number of known (legacy) usability amd accessibility defects
+**KPI 1** Number of known (legacy) usability and accessibility defects
 
 **Key Results**
 - 100% of [known (legacy) usability and accessibility defects](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/kpi.md#legacy-known-issues-referenced-in-objective-1) are resolved by April 1, 2020.
