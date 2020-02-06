@@ -1,3 +1,3 @@
-# Application (Front End) Strategy for Fetaure Migration
+# Application (Front End) Strategy for Feature Migration
 
 ## WIP
