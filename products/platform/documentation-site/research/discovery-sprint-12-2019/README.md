@@ -2,6 +2,7 @@
 
 - [Readout Deck (PDF)](documentation-site-discovery-readout.pdf)
 - [Readout Deck (Google Slides)](https://docs.google.com/presentation/d/14eD-GJ5mBQXh1L9k5Lr83zbVV1iehp0a67qZz0Fn_94/)
+- [Discovery Sprint Slack Channel](https://dsva.slack.com/archives/CRKEKFJ2C/p1576084312002100)
 - [Mockups](Mockups.md)
 - [Sprint Agenda](agenda-daily-mtgs.md)
 - [Design Artifacts](designartifacts.md)
