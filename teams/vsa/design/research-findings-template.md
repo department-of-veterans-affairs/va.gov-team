@@ -46,6 +46,6 @@ e.g. mural boards, etc.
 ### Pages and applications used
 Link to prototypes or pages that were tested
 
-### Other supportind documents created
+### Other supporting documents created
 e.g. user flows, personas, etc.
 
