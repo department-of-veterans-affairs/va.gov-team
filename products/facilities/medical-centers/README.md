@@ -4,7 +4,7 @@ This product folder contains all research, design, engineering, and product docu
 
 **Product owner:** Jenny Heiland-Luedtke (Jennifer.Heiland-Luedtke@va.gov), VHA Digital Media
 
-**Supporting product owner:** Andy Lewandowski (Andrew.Lewandowski2@va.gov), U.S. Digital Service
+**Supporting product owner:** Dave Conlon (David.Conlon@va.gov), DEPO
 
 ## VAMC upgrade work - Oct. 1, 2019 thru April 3, 2020
 
