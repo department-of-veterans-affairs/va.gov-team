@@ -1,6 +1,10 @@
 # Claims API
 In BIP. Use Vault to access envs.
-​
+
+This API is used for establishing a Claim. ParticipantIDs for both Veteran and Claimant are required. This means that Veteran and Claimant both need to exist in CorpDB.
+
+
+
 ## Timeline
 *
 ​

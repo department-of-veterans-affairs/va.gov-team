@@ -1,5 +1,8 @@
 # Benefit Processing Data API (BPD)
-In BIP. Use Vault to access envs.
+In BIP. Use BAH Vault to access envs.
+
+This API stores form data associated with a claim. This requires a Claim ID, i.e. a claim needs to be created as a prerequisite.
+
 ​
 ## Timeline
 *
@@ -14,4 +17,4 @@ In BIP. Use Vault to access envs.
 * Eric B (BAH)
 ​
 ## Notes
-* 
+*
