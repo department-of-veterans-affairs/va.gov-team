@@ -4,7 +4,7 @@
 
 For clarity, we included the authenticated and unauthenticated content pages into the flows and made some minor changes from our last iteration for demonstration.
 
-![Option 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v4-1.jpg "Iteration One")
+![Option 1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/thumbnail-mapping/thumbnail_mapping-v4-2.jpg "Iteration One")
 
 ## Iteration 3 - Sprint 13
 
