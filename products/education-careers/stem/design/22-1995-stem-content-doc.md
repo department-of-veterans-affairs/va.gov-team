@@ -129,7 +129,7 @@ ________________________________________
 
 The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high demand STEM (Science, Technology, Engineering, and Math) fields.  
 
-To be considered, you must meet all the requirements below. You:  
+**To be considered, you must meet all the requirements below. You:**  
 
 •	Are receiving Post-9/11 GI Bill or Fry Scholarship benefits  
 •	Have used all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
