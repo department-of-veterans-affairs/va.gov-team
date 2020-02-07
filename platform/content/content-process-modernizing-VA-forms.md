@@ -24,13 +24,13 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 
 ## Determine scope
 
-After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely when modernizing a form, I've broken out steps by design/content. 
+After the discovery phase, we determine the scope of the project and begin to create issues to track the work. Since content and design work closely with form migrations, I've included some design steps below, so content editors have picture of the larger process. 
 
 **DESIGN**:
-Identify scope of project. Identify if new functionalities are required for this form. If so, discuss with developer and work on high fidelity mockups about what the pattern would look like.  
+Identify if new functionalities are required for this form. If so, discuss with developer and work on high fidelity mockups about what the pattern would look like.  
 
 - Use design review process to get feedback from design team
-- Check with design system resource to make sure new patterns aren't reiventing the wheel. 
+- Check with design system to make sure new patterns aren't reiventing the wheel. 
 	
 
 **DESIGN**: 
@@ -51,14 +51,14 @@ Create a list of copy needs:
 - Discuss what content will be included on the form Confirmation page
 
 **DESIGN and CONTENT**: 
-Discuss the entry and exit points for the form? How will users get to the form?
+Discuss the entry and exit points for the form. How will users get to the form?
 
-- Does the form require changes to the navigation or require an applicant to step out of the form? 
-- What related static content needs to be updated to support the form? (for example, adding CTA button or wizard to Eligiblity and How to Apply pages)
-- Does a new static landing page need to be created or updated for the online form? (*If so, please loop in vsa-public-websites team*)
+- Does the form require changes to the navigation or if there any part of the form that requires an applicant to step out of the form (a form within the form)? 
+- What related static content needs to be updated to support the form? (for example, adding CTA buttons or wizard to Eligiblity and How to Apply pages)
+- Does a new static landing page need to be created or updated for the form's launch? (*If so, please coordinate with the vsa-public-websites team*)
 	
 **DESIGN/CONTENT/DEVELOPER**: 
-Discuss if we need to write any specific error messaging for the form or can we pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
+Discuss if any specific error messaging need to be written for the form or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
 
 **DESIGN/CONTENT/IA**: 
 Determine form URL and the URL for any new static pages that need to be created to support the form.  
@@ -67,26 +67,26 @@ Determine form URL and the URL for any new static pages that need to be created 
 
 Content editor does a plain language edit on all form chapter outlines in Github. Using the content editor's recommended plain-language edits, designer creates a prototype of the form in a high-fidelity environment. 
 
-Content editor also begins to write the form’s introduction page and confirmation page. See examples here: this resource is tk. 
+Content editor also begins to write the form’s introduction page and confirmation page. *See examples here: this resource is still a WIP*. 
 
 Content editor copy edits and reviews the prototype before usability testing and stakeholder reviews. 
 
-Team PM schedules a pre-usability check in with Platform team before user testing. 
+Product team PM schedules a pre-usability check in with Platform team before user testing sessions. 
 
 
 ## Prototype usability testing
 
 We usually do several rounds of usability testing. For the first test, we use a prototype. 
 
-Content writer/editor should attend some user sessions so they can look out for language or instruction that still might be unclear, and if questions or instructions need further tweaking. 
+Content writer/editor should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking. 
 
 There is usually a round or two of iterations to the prototype before the form's content and design are built in Github files and merged into a staging environment. 
 
 
 ## Build Github files
 
-Once final iterations have been implemented into the prototype, the form's content and design is built into Github.  
-Developers build a form chapter by chapter, using the prototype design and edited content.
+Once usability feedback/iterations have been implemented into the prototype, the form's content and design is built out into Github.  
+Developers build a form chapter by chapter, using the edited prototype.
 
 1. As chapters are built, developer should assign content writer/editor and designer as reviewer. 
 2. Content writer/editor review PRs and provide additional edits, as needed. 
@@ -95,11 +95,11 @@ Developers build a form chapter by chapter, using the prototype design and edite
 
 Content editor continues to review PRs and provide edits until all changes have been correctly input. 
 
-## Proofread staging review
+## Staging review
 
-Once developers build the individual form chapters and design and copy have signed off on them, the developers merge the PRs into a staging environment. This is where the content e2e proofread pass happens. 
+Once developers build the individual form chapters and design and copy have signed off on them, the developers merge the PRs into a staging environment. This is where the e2e proofread pass happens. 
 
-Content and design look again at the form in staging. It should include the full flow:
+Content editor looks again at the form in staging. It should include the full flow:
 
 - Form Introduction page
 - Form chapters
@@ -110,7 +110,7 @@ This proofread pass is to ensure all edits made in the individual chapter screen
 Content editor will upload all proofread changes to a e2e proofread ticket for the developer to implement. 
 Once changes are implemented, the content editor should review screens again to ensure all changes have been correctly input. 
 
-Team PM schedules a staging review with Platform team before form is rolled out to users.
+Product team PM schedules a staging review with Platform team before form is rolled out to users.
 
 
 
