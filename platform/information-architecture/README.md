@@ -63,7 +63,9 @@ Follow the redirect process at least 2 weeks before you will need to redirect UR
 - [XML Sitemap Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/xml-sitemap-guidelines.md)
 - [Page Template IA & Usage Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/template-guidelines-hub-page.md)
 
-### Revision History
+
+---
+##### Revision History
 
 Date | Revisions Made | Author
 -----|----------------|--------
