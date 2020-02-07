@@ -94,6 +94,8 @@ _Do we need to merge the FE and BE tasks?_
   - [ ] Once internally reviewed, share with the FE Review Team at the VSP (team name?)
   - [ ] Ensure that feature flags are set appropriately to be toggled
   - [ ] Entrance pages (i.e. supporting static content) in place
+- [ ] Establish GA events
+- [ ] E2E and unit tests and code coverage have been addressed
   
 ### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews
