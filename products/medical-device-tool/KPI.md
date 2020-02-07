@@ -17,11 +17,22 @@
 
 ### High Level Objectives
 _What are the objectives within your product line that your product plays into?_
-
+BAM2
 1. Migrate the Medial Device tool on eBenefits to VA.gov.
 2. Migrate current orders from other DLC channels to the online channel
 3. Have 27,000 online orders per quarter. 
 4. Reduce the complexity associated with ordering a renew supply of hearing aids/prosthetic socks.
+
+From DLC
+Primary Objectives:
+- Transition hearing aid battery and prosthetic sock resupply ordering from eBenefits to VA.gov
+- Add online resupply request capability for common hearing aid accessories
+- Minimize need for Veteran data entry in online channel
+- Maximize DLC processing of requests via automated methods
+ 
+Secondary Objectives:
+- Include features to ensure correct delivery address for products being shipped
+- Include features to augment communication to Veterans regarding status of their requests
 
 
 ### Pain Points
@@ -31,10 +42,8 @@ _What are the major user and business pain points along the entirety of the serv
 2. Not knowing the status of his order until it arrives
 3. Not being able to order online because he couldn't get into eBenefits
 4. Needing to reference packaging in order to remember order items
-5. Not being able to order hearing aid batteries through My HealtheVet when he's already ordering prescriptions there
-6. Seeing many different socks in eBenefits and having difficulties telling them apart
-7. Being unable to order his hearing aid accessories through eBenefits
-
+5. Seeing many different socks in eBenefits and having difficulties telling them apart
+6. Being unable to order his hearing aid accessories through eBenefits
 
 
 ### Desired Outcomes
