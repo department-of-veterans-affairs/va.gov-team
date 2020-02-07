@@ -89,16 +89,19 @@ For the first many months of VSP's existence, each practice area had its own set
 
 ### Current Status
 
-- 
+- 2/7/20: VSP Collaboration Cycle artifacts are being finalized and reviewed by all VSP practice area reviewers. We will be meeting with VSA leadership shortly to discuss a rollout plan
 
 ### Key Decisions
 
-- 
+- New processes (such as a development intent check in, or incorporating KPI setting by project instead of by team) will not be finalized for inclusion in the MVP 
+- Rollout will begin with VSA teams, in collaboration with VSA leadership
+- All teams will jump into the new process wherever they are in the development cycle — this process will not wait until they are beginning a new initiative 
 
 ---
    
 ## Screenshots
 
 ### Before
+
 
 ### After
