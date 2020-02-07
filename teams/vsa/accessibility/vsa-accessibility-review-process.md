@@ -19,7 +19,7 @@ This review process is a conversation. Please contact Jennifer Strickland in Sla
   - Pre-usability Testing Design Review
   - Design QA Review Checkpoint
   - [Design Issues Documentation](#design-issues-documentation)
-  - [What is the accessibility specialist looking for](#what-is-the-accessibility-specialist-looking-for)
+  - [What is the accessibility specialist looking for during design](#what-is-the-accessibility-specialist-looking-for-during-design)
   - [Accessibility Design Collaboration](#accessibility-design-collaboration)
 - [Development Reviews](#development-reviews)
   - Design-Development Intent Checkpoint
@@ -66,7 +66,7 @@ When a design review is requested using the issue ticket templates linked above,
 Once the designer and PM review feedback, please add a new comment on the issue with decisions made, then CC each of the reviewers in the comment for visibility. Once all issues are addressed, the ticket is closed with a final comment, “All issues are addressed”, @-comment designer who opened issue, and close ticket/issue.
 
 
- ### What is the accessibility specialist looking for?
+ ### What is the accessibility specialist looking for during design?
  
  The accessibility specialist will review for the following items to align with WCAG:
 
