@@ -30,8 +30,8 @@ _For unmoderated production testing, we will have ask all VSA teams to follow th
 - Desired number of unique users: 8 teams; ~50 users including DEPO team members
 - How you'll make the product available in production while limiting the # of users who can find/access it: resources will be live in `va.gov-team` repository 
 - "Success" criteria (by the numbers):
-  - <20% of collaboration point survey respondents say `I'm not sure` regarding which collaboration point they just completed
-  - >50% of collaboration point survey respondents indicate positive responses 
+  - < 20% of collaboration point survey respondents say `I'm not sure` regarding which collaboration point they just completed
+  - ≥ 50% of collaboration point survey respondents indicate positive responses 
 
 ### Results:
 - Number of unique users: x
