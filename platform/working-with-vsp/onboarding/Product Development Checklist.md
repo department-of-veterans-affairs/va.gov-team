@@ -30,9 +30,9 @@ These processes are here to help ensure we're launching features that are:
     - [ ]   Documentation and points of contact for any new backend dependencies
     - [ ]   Links to important dashboards for investigating relevant issues
 - [ ] [Quality Assurance](../../quality-assurance/README.md)
-    - [ ]   [Test plan](../../quality-assurance/test-plan.md)
-    - [ ]   [E2E tests](../quality-assurance/end-to-end-testing.md), running in CI/CD, passing on all browsers
-    - [ ]   [Load testing](../../../../devops/loadtest/README.md)
+    - [ ]   [Test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/testrail/README.md)
+    - [ ]   [E2E tests](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/e2e-testing/README.md), running in CI/CD, passing on all browsers
+    - [ ]   [Load testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance/load-testing/README.md)
     - [ ]   Manual test cases created where necessary
     - [ ]   Code coverage requirements
     - [ ]   No high-severity bugs present
