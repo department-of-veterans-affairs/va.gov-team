@@ -40,7 +40,7 @@ Create an outline for each form’s required chapter. See example, [526-ez chapt
 - Identify questions that are dependent on other questions 
 
 	 
-**DESIGN and CONTENT**: 
+**CONTENT and DESIGN**: 
 Create a list of copy needs: 
 
 - What instructions need to appear on the online form? 
@@ -50,18 +50,16 @@ Create a list of copy needs:
 - Discuss what content will be included on the form Introduction page
 - Discuss what content will be included on the form Confirmation page
 
-**DESIGN and CONTENT**: 
+**CONTENT and DESIGN**: 
 Discuss the entry and exit points for the form. How will users get to the form?
 
 - Does the form require changes to the navigation or if there any part of the form that requires an applicant to step out of the form (a form within the form)? 
 - What related static content needs to be updated to support the form? (for example, adding CTA buttons or wizard to Eligiblity and How to Apply pages)
 - Does a new static landing page need to be created or updated for the form's launch? (*If so, please coordinate with the vsa-public-websites team*)
 	
-**DESIGN/CONTENT/DEVELOPER**: 
+**CONTENT/DESIGN/DEVELOPER**: 
 Discuss if any specific error messaging need to be written for the form or can you pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
 
-**DESIGN/CONTENT/IA**: 
-Determine form URL and the URL for any new static pages that need to be created to support the form.  
 
 ## Plain-language editing and prototype
 
@@ -81,6 +79,10 @@ We usually do several rounds of usability testing. For the first test, we use a 
 Content writer/editor should attend some usability sessions so they can look out for language or instructions that still might be unclear, and for questions or labels that need further tweaking. 
 
 There is usually a round or two of iterations to the prototype before the form's content and design are built in Github files and merged into a staging environment. 
+
+
+**CONTENT/DESIGN/IA**: 
+Finalize form URL and the URL for any new static pages that need to be created to. Collaborate with VSP Information Architecture to begin to finalize URL and other key details. 
 
 
 ## Build Github files
