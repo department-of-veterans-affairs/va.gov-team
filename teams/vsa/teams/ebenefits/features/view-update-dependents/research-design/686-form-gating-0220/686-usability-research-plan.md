@@ -16,7 +16,10 @@ The subject of this research plan is VA form 21-686c being migrated from the eBe
 - [Success](#success)
 - [Method](#method)
 - [Participants and Recruitment](#participants-and-recruitment)
+- [Timeline](#timeline)
+- [Team Member Roles](team-member-roles)
 - [Resources](#resources)
+- [References](#references)
 
 ### Goals
 The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment.
@@ -46,11 +49,11 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Note any potential problems with list/loop feature
  - Assess user acceptance of various "remove" workflows
 
-#### Hypothesis
+### Hypothesis
 [ Work-in-progress ]
 Among participants who are familiar with the 21=686c form, more will know the form is intended to add dependents, but few will know they are required to use the form to remove dependents. Actual usage of the 21-686c will be infrequent. It is expected that users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once. The form should be manageable through most workflows. The add-spouse workflow will be problematic in it's length and the "odd" section of former marriages. Lorem ipsum dolor sit amet...
 
-#### Research Questions
+### Research Questions
 [ Preliminary list... Work-in-progress ]
 - Are the forms presented clearly and easy to understand by Veterans?
   - Do participants understand the 21-686c is a multi-purpose form? 
@@ -143,3 +146,5 @@ Date | Time (EST)
  - [21-686c Business Workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 #### Approval
+[ Approval pending ]
+
