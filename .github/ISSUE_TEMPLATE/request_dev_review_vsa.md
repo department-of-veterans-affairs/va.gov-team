@@ -16,9 +16,16 @@ assignees: 1Copenut, jenstrickland
 
 **VSA Development Review** - [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#development-review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/review-process.md#development-review)
 
-## Product Name
+## Team Name
 
-<!-- Add your product name on the next line -->
+<!-- Add your team name on the next line -->
+
+## Product/Feature Name
+
+<!-- Add your product/feature name on the next line -->
+
+## Product Description
+
 
 ## Checkpoint Stage
 
@@ -26,15 +33,24 @@ assignees: 1Copenut, jenstrickland
 
 [ ] **Spot Check Review Checkpoint** (Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md) first.) This happens well before launch, so that the 508 office can review and any issues addressed *before* launch.
 
-If your project is code stable in Staging, **[request a Pre-Launch 508 Reivew](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)**.
+[ ] **Pre-Launch 508 Review** Once your code is stable in Staging (Review [Pre-Launch 508 Review platform-level documentation](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/platform/accessibility/508-request-prelaunch-review.md)) **All applications and features on the Veteran-facing Services Platform are required to be accessible and 508 compliant.** This includes adherence to the updated [Section 508](https://www.section508.gov/) standards and the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG20/) Level A and AA success criteria.
+
 
 ## Point of contact
 
 <!-- Add your name on the next line -->
 
-## Preferred times
+## Preferred times for dev intent checkpoint
 
 <!-- Include any preferred times or dates on the next line -->
+
+## Staging URL and Credentials
+
+<!-- Add your info on the next line -->
+
+## Test Plan
+
+<!-- Add your info on the next line -->
 
 ## Next steps
 
