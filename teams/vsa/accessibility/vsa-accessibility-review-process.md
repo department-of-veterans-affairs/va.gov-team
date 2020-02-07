@@ -122,7 +122,7 @@ This review happens as the design is passed to development, _before beginning de
 2. **508 Pre-launch Review Checkpoint** 
 
     a. Review and follow the steps in the [508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-checklist.md)
-    b. If your project is code stable in Staging, _**[request a 508 Pre-launch Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut&labels=508%2FAccessibility%2C+launch+review%2C+product+support&template=508-pre-launch-review-template.md&title=Request+accessibility%2F508+review+for+ENTER_PRODUCT_NAME)**_
+    b. If your project is code stable in Staging, _**[request a 508 Pre-launch Review](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=1Copenut%2C+jenstrickland&labels=508%2FAccessibility%2C+development+review%2C+product+support&template=request_dev_review_vsa.md&title=Request+development+review+for+ENTER_PRODUCT_NAME)**_
 
     c. Accessibility specialist will conduct an [accessibility audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md), and note issues in an epic, assigning the relevant product manager.
     
