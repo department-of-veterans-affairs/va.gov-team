@@ -9,16 +9,16 @@
 
 #### Team Members
 - **Product Manager:** Sophie Myers (Sophia.Myers@adhocteam.us)
-- **Engineer Lead:** Jonathan Julian (Jonathan.Julian@adhocteam.us)
+- **Engineer Lead:** Jonathan Julian (Jonathan@adhocteam.us)
 - **Engineer:** Keith Adkins (Keith.Adkins@adhocteam.us)
 - **Engineer:** Ben Shyong (Ben.Shyong@adhocteam.us)
 
 ## Background
-Today, when Veterans or their loved ones submit a claim for burial benefits on VA.gov using the 530 form, the form is printed or faxed to central mail. Claims take up to 100 days to process and this gives claimants the false impression that their claim will be acted on sooner because it was submitted electronically. 
+Today, when Veterans or their loved ones submit a claim for burial benefits on VA.gov using the 530 form, the form is printed or faxed to central mail. Claims take up to 100 days to process and this gives claimants the false impression that their claim will be acted on sooner because it was submitted electronically.
 
 ### Users and Pain Points
 - **Claims Assistants (CAs):** CAs view PDFs of claims on VA.gov in the "Mail Portal" and manually re-key claim information into the systems used to eventually process claims
-- **Family members of deceased Veterans:** Must wait up to 100 days before they know whether they will receive benefits for the Veteran's burial 
+- **Family members of deceased Veterans:** Must wait up to 100 days before they know whether they will receive benefits for the Veteran's burial
 
 ## Strategy Charter
 
@@ -30,7 +30,7 @@ How might we expedite the establishment of burial benefit claims?
 
 ### Vision
 *What we hope to achieve, or enable, through our work. A vision should be ambitious and serve as a rallying point for the team.*
-To reduce this redundancy, we will connect VA.gov directly to the claims-processing systems and automate the establishment of burial claims.
+To reduce this redundancy, we will connect VA.gov directly to the claims-processing systems and automate the establishment of burial claims. These connections will be reusable and available to expediate even more online form submissions.
 
 ### North Star Metric
 
@@ -42,12 +42,11 @@ Automating claims will reduce the time it takes to establish claims and improve 
 #### Objectives
 
 1. Create claim from data entered by clamaint on VA.gov
-2. Upload files related to the form to the e-Folder VBMS 
+2. Upload files related to the form to the e-Folder VBMS
+3. Reduce the number of online claims that go through Central Mail
 
 #### KPIs
-- Burial claim submission success (to Central Mail)
-- Burial claim submission failure  (to Central Mail)
-- MVI lookup hit for Veteran lookup
-- MVI lookup miss for Veteran lookup
-- Various MVI errors and exceptions
-
+- % of Burial claims that get diverted away from Central Mail
+- % of Veterans that exist in some system (MVI lookup hit)
+- % of Claimants (of various type) that exist in some system (BGS lookup hit)
+- Burial claim submission failure count (establishing claim with structured data)
