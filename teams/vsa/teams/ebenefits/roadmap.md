@@ -25,6 +25,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Submit Disability Compensation (Original Claim)     | vsa-bam-1     | Q1        | --        | Q2        | Q2        | Blocked by MPI updates
 | Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 | Apply for VRE CH36 (8832)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
+| Update Direct Deposit (EDU)                         | vsa-ebenefits | Q3        | Q3        | Q4        | Q4        | New VRE integration required (blocked)*
 
 * Note: VRE forms can be developed and launched very quickly, given an API and backend system for submission
 
@@ -39,7 +40,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Apply for Disability Compensation (Prior Claimant)
 | Upload Supporting Documents for Disability Claim
 | Update Personal Contact Information 
-| Update Direct Deposit
+| Update Direct Deposit (Comp & Pen)
 | Download VA Letters
 | View Post GI Bill Enrollment Status and Entitlement
 
