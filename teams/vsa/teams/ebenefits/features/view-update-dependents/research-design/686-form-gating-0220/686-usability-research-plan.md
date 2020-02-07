@@ -138,7 +138,7 @@ Date | Time (EST)
 ### Resources
 - [Project Brief for Add/Remove Dependents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/issue-briefs/apply-modify-dependents.md)
 
-- [Conversation Guide]() (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
 
 - [Add/Remove Dependents Walkthrough/Workflows](https://xd.adobe.com/view/0f7759a1-b990-4d71-50c9-138d9e593fd0-7946/)
 
