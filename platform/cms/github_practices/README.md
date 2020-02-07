@@ -5,18 +5,19 @@
  1. [Github Issue labels](#labels)
  1. [Github Milestones](#milestones)  
  1. [Zenhub practice](#zenhub)
- 1. [Backlog grooming](#grooming
+ 1. [Backlog grooming](#grooming)
  1. [Defect triage](#defect-triage)
 
-<a name="labels")
+<a name="labels">
 
 ## Issue labels 
 
 We have about [50 pre-defined labels](https://github.com/department-of-veterans-affairs/va.gov-cms/labels) in the va.gov-cms repo, which should help us to:
 
-* Develop and leadership and ownership over our various workstreams products, subsystems, and practice areas. 
 * Groom backlog, prioritize epics and stories, and triage bugs by theme.
 * Track progress towards objectives (eg how many enhancements delivered). 
+* Develop and leadership and ownership over our various workstreams products, subsystems, and practice areas. 
+* Encourage cross-disciplinary epics
 * Help users of CMS managed products, and product design teams, collaborate on our backlog. 
 * Align with certain practices already in use on VSP and VFS teams. 
 * Discern bot-driven issues (dependabot, primarily) from human issues.
@@ -33,20 +34,48 @@ We have about [50 pre-defined labels](https://github.com/department-of-veterans-
 
 **Issue status (light blue):** These labels (groomed or not groomed) will help us prepare for grooming. 
 
-**Objectives (orange):** These labels will help us track progress towards our [program objectives](#) (link forthcoming!). 
+**CMS program objectives (orange):** These labels will help us track progress towards our [program objectives](#) (link forthcoming!). 
 
-**CMS team practice area (green):**
+**CMS team practice area (green):** This should help us to encourage cross-disciplinary planning and ownership.
 
-these labels 
+**CMS subsystem (blue):** This helps us to find related work and dependencies.
+
+**CMS managed products (black)** These help us prioritize and plan support for product teams, and find related work and dependencies.
+
+**Teams we work with (yellow):** These labels help other teams find CMS-related specific to their team. 
+
+<a name="milestones">
+
+ ## Github Milestones
+
+Each issue can be tagged with a milestone.  It is the responsibility of the delivery manager will ensure to ensure completed work has associated milestones. 
+
+We may also use milestones for specific product milestones, such as an MVP or release. 
+
+<a name="milestones">
 
 
-**CMS cms-subsystem (blue):**
+---- Everything below this is still in draft ----
+
+## Zenhub
 
 
-**Teams we work with (yellow):**
 
 
 
-**Products with content in CMS (black)
+## Backlog management
 
-![black labels](black_labels.jpg)
+### Grooming sessions
+
+Every Friday at 11:30am ET the CMS team will will meet as a whole for backlog grooming and prioritization.  
+
+It is the responsibility of the product manager to facilitate these 
+
+
+
+### Defect triage
+
+Critical bugs will often be triaged immediately, but non-critical bugs will be triaged 
+
+On a weekly basis 
+
