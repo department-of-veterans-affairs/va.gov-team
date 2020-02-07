@@ -11,7 +11,7 @@ The subject of this research plan is VA form 21-686c being migrated from the eBe
 
 ## Table of Contents
 - [Goals](#goals)
-- [Hypothesis](#hypothesis)
+- [Hypotheses](#hypotheses)
 - [Research Questions](#research-questions)
 - [Success](#success)
 - [Method](#method)
@@ -28,7 +28,8 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Determine typical usage scenarios and frequency
  - Uncover user-expected flows to the 21-686 form
  - Assess ease of entry from introduction page to the 21-686c form itself
- - Determine if users can differentiate purposes of 21-686c from 21-674 
+ - Determine if users can differentiate purposes of 21-686c from 21-674
+ - Determine if users can easily understand the a-la-carte selection of vearious workflows (checkboxes)
  - Observe whether can access the 674-only workflow
 
 #### Decide what support users need to navigate and submit the form
@@ -49,9 +50,14 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Note any potential problems with list/loop feature
  - Assess user acceptance of various "remove" workflows
 
-### Hypothesis
-[ Work-in-progress ]
-Among participants who are familiar with the 21=686c form, more will know the form is intended to add dependents, but few will know they are required to use the form to remove dependents. Actual usage of the 21-686c will be infrequent. It is expected that users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once. The form should be manageable through most workflows. The add-spouse workflow will be problematic in it's length and the "odd" section of former marriages. Lorem ipsum dolor sit amet...
+### Hypotheses
+Among participants who are familiar with the 21-686c form, more will know the form is intended to add dependents, but few will know they are required to use the form to remove dependents. Actual usage of the 21-686c will be infrequent. It is expected that users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once. 
+
+Users may require clatification or guidance at various points in the form. The upload feature may create some confusion/frustration with its position at the end of the form, and the longer, more technical nature of its instructions.
+
+Users may not be immediately aware of the change in "chapters as the navigate the form. This shouldn't present a problem as long as in-form section headers are clear.
+
+The add-spouse workflow will be problematic in it's length and the "odd" section of former marriages. The "remove" dependent flows should be easily understood and completed. The list loop feature/pattern may prove a bit odd with its current button labeling.
 
 ### Research Questions
 [ Preliminary list... Work-in-progress ]
@@ -79,7 +85,11 @@ Among participants who are familiar with the 21=686c form, more will know the fo
 - Workflows of particular interest: Add Spouse (individually). Add Spouse/Add Child (combo), Add Spouse/Report Divorce (combo), Add Child/Add Student (combo)...
 
 #### Success
-TBD
+This research effort will be successful if it points to a clear verdict regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
+ - Will users understand and accept the checkbox selection of various workflows
+ - What guidance (intructional text) will users need to support successful completeion of the form
+ - How will users react to the long, potentially emotional add-spouse workflow
+ - Are there any workflow combinations that would be problematic for users
 
 ### Method
 Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans will be presented with high-fidelity prototype created using Adobe XD. A remote moderator will prompt users with questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototypes. Remote observers and note takers will be in attendance.
