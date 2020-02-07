@@ -57,7 +57,7 @@ Follow the redirect process at least 2 weeks before you will need to redirect UR
 - [Master URL Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/master-url-mapping.md) (Official source of truth on IA and URLs)
 - [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md)
 
-## Best practices and guides
+### Best practices and guides
 
 - [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
 - [URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
