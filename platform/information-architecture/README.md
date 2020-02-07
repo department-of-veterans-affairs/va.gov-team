@@ -49,13 +49,15 @@ The VSP Collaboration Cycle defines the process of how VSP supports VFS teams to
 * [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)\
 Follow the redirect process at least 2 weeks before you will need to redirect URL(s). Redirects are reviewed by an IA and then assigned to the appropriate technical team for implementation.
 
-## Key deliverables
+## Resources and guides
+
+### Resources
 
 - [Current and Past IA Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/README.md) (Completed and in-progress IA reviews for teams)
 - [Master URL Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/master-url-mapping.md) (Official source of truth on IA and URLs)
 - [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md)
 
-## Best practices and resources
+## Best practices and guides
 
 - [General IA Best Practices on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md)
 - [URL Guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/url-guidelines.md)
