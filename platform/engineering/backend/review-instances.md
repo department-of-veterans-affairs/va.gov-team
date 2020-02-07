@@ -39,7 +39,7 @@ You will need your browser configured to access the vetsgov-internal domain via 
 
 ### Cleanup
 
-A Jenkins job will run periodically and remove review instances for which the source branches no longer exist. To ensure that your instance is cleaned up appropriately, just delete the branch from the origin repository.
+These instances are destroyed when the non-master branch(es) they are related to are deleted or the instance is older than 7 days.
 
 
 ### User Authentication
