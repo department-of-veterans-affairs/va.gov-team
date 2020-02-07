@@ -73,6 +73,8 @@ Automated scan errors are the first recommendation for logging and fixing. These
 ### Zoom to 400%
 
 - Set browser width to 1280px
+  - In Chrome you can right click on any webpage, and select `Inspect` from the menu. This will open the Developer Tools console. Drag your browser window narrower or wider until the number in the top right corner of your browser window reads "1280"
+  - In Firefox you must [turn on rulers](https://developer.mozilla.org/en-US/docs/Tools/Rulers) before you can accurately resize your browser window. When rulers are enabled, right click on a page and select `Inspect Element` from the menu. When the Firefox Developer tools are open, click the ruler icon. The ruler is the third icon from the top right of the Developer tools panel.
 - Zoom in by pressing `Ctrl and +` on Windows or `Cmd and +` on Mac, until browser shows 400% zoom.
 - Most layouts should not scroll sideways or have content to the edges. Horizontal scrolling is permitted for content like images, maps, diagrams, presentations, and data tables.
 - [Understanding Success Criterion 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html)
