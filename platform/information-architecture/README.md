@@ -46,14 +46,14 @@ Github/Zenhub labels: - `content-ia-team`
 ### Requesting IA help
 * [VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle)\
 The VSP Collaboration Cycle defines the process of how VSP supports VFS teams to ensure that products and services on VA.gov are human-centered, reliable, and continually improving. IA guidance is included as a standard part of the VSP Collaboration Cycle. 
-* [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)
+* [Redirect Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md)\
+Follow the redirect process at least 2 weeks before you will need to redirect URL(s). Redirects are reviewed by an IA and then assigned to the appropriate technical team for implementation.
 
 ## Key deliverables
 
 - [Current and Past IA Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/README.md) (Completed and in-progress IA reviews for teams)
 - [Master URL Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/master-url-mapping.md) (Official source of truth on IA and URLs)
 - [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md)
-- [XML Sitemap](https://www.va.gov/sitemap.xml)
 
 ## Best practices and resources
 
