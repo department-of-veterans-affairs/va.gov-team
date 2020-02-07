@@ -18,8 +18,8 @@ At the beginning of form work, the product team holds a kickoff to determine dis
 (Ask: Do all form fields translate to online application? Are there any form fields that we don’t need for the online form?)
 - Discuss if any of the form language, labels, or questions are confusing 
 - Identify related and potentially dependent questions
-- Discuss if there is any specific content that stakeholders think should be included on the form Introduction page
-- Discuss if there is any specific content that stakeholder think should be included on the form Confirmation page
+- Discuss if there is any specific content that stakeholders think should be included on the online's form Introduction page
+- Discuss if there is any specific content that stakeholder think should be included on the online's form Confirmation page
 
 
 ## Determine scope
@@ -44,7 +44,7 @@ Create an outline for each form’s required chapter. See example, [526-ez chapt
 Create a list of copy needs: 
 
 - What instructions need to appear on the online form? 
-- Do form question/labels need have a plain language edit?  
+- Do form question/labels need a plain language edit?  
 - Refer to the VA.gov form label masterlist to see if a label or question has already be standardized/plain-language. 
 [See VA.gov form label masterlist for canonical list of plain language form fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md) 
 - Discuss what content will be included on the form Introduction page
@@ -55,7 +55,7 @@ Discuss the entry and exit points for the form? How will users get to the form?
 
 - Does the form require changes to the navigation or require an applicant to step out of the form? 
 - What related static content needs to be updated to support the form? (for example, adding CTA button or wizard to Eligiblity and How to Apply pages)
-- Does a new static landing page need to be created or updated for the online form? (If so, please loop in vsa-public-websites team)
+- Does a new static landing page need to be created or updated for the online form? (*If so, please loop in vsa-public-websites team*)
 	
 **DESIGN/CONTENT/DEVELOPER**: 
 Discuss if we need to write any specific error messaging for the form or can we pull messaging from our [Error message dictionary](https://design.va.gov/patterns/messaging-dictionary).
@@ -89,12 +89,11 @@ Once final iterations have been implemented into the prototype, the form's conte
 Developers build a form chapter by chapter, using the prototype design and edited content.
 
 1. As chapters are built, developer should assign content writer/editor and designer as reviewer. 
-2. Content writer/editor and designer review PRs, and provide additional edits, as needed. 
+2. Content writer/editor review PRs and provide additional edits, as needed. 
 
 ### Revision rounds
 
 Content editor continues to review PRs and provide edits until all changes have been correctly input. 
-Designer will also review PRs to ensure design and form flow works. Design will provide necessary changes or tweaks as needed. 
 
 ## Proofread staging review
 
