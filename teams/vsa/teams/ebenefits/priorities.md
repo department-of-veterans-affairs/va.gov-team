@@ -26,13 +26,13 @@
 | Form | Vocational Rehabilitation Benefits & Counseling | (Forms 1900 and 8832) I can apply for VR&E benefits. |
 | Status | View Ancillary Benefits | I can view the status of various ancillary and other benefits. (Needs discovery to determine which services are encapsulated.) |
 | Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. (Needs discovery to determine feasibility.) |
+| Form | Update Direct Deposit and Contact Information for Post 9/11 GI Bill Education | I can add and update my bank information for Post 9/11 GI Bill DD/EFT. **C&P DD/EFT update is complete.** |
 
 ### Theoretically Completed Work (Check Deltas)
 
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
 | Status | View Post 9/11 GI Bill Enrollment Status | Users can view their Post-9/11 GI Bill education enrollment status and entitlement. **Already on VA.gov. Check deltas.** |
-| Form | Update Direct Deposit and Contact Information for Post 9/11 GI Bill Education | Users are able to update their contact information and DD/EFT. **C&P DD/EFT update is being implemented by authd-exp. Check deltas.** |
 | Status | Claim Status | Users are able to check the status of their pending C&P claims, view details, upload evidence, and view the documents. They can also submit a 5103. **Already on VA.gov. Check deltas. (What is "submit a 5103?")** |
 | Status | View Open Applications | Users can see any VDC applications that they have started and not yet submitted. **Already on VA.gov. Check deltas.** |
 | Status | Exam Appointments Calendar | Users are able to view upcoming VHA medical appointments. (Note: VBA benefit exams are not yet included. They cannot schedule any type of appointment.) |
