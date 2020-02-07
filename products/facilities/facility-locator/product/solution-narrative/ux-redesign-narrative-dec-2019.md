@@ -20,7 +20,7 @@ And providing more education about the differences between the sub-types.
 
 ![Urgent care definitions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/urgent%20care%20filter%20by%20service%20v2.png)
 
-This iteration also included some map modifications made after user research revealed existing icongraphy was confusing. 
+This iteration also included some map modifications made after user research revealed existing iconography was confusing. 
 
 ![Urgent care results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/images/urgent%20care%20results%20v2.png)
 
