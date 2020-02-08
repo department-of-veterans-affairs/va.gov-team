@@ -82,7 +82,7 @@ There is usually a round or two of iterations to the prototype before the form's
 
 
 **CONTENT/DESIGN/IA**: 
-Finalize form URL and the URL for any new static pages that need to be created to. Collaborate with VSP Information Architecture to begin to finalize URL and other key details. 
+Finalize form URL and the URL for any new static pages that need to be created. Collaborate with VSP Information Architecture to begin to finalize URLs and other key details. 
 
 
 ## Build Github files
