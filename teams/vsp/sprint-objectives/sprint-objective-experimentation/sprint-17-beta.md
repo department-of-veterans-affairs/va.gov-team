@@ -39,5 +39,27 @@ Feedback / questions to consider to inform the above plans
 
 ### Findings
 #### Problems / challenges / pain points (both for team and for client)
+**Client**
+- Unable to export the board with out of the box functionality on Zenhub. Instead, used the workaround of print to PDF
+- It was more difficult to click into each ticket than it was to see all the objectives in a single document in order to understand the team's progress
+
+**Team**
+- The team found going over the Google Doc objectives during sprint planning and grooming helpful to see the overarching themes and goals for the Sprint. It's difficult to see that in just the Zenhub reporting method.
+- The team found having the out of offices in one place where leadership could also see the out of offices as valuable
+- The team wasn't sure what the added value for leadership was in the change of reporting. There was no clear difference in reporting transparency 
+- The team wasn't sure where to add specificity in the tickets, or which parts of the tickets leadership was paying more or less attention to - it was unclear how to write the tickets to make work more clear for leadership
+- If a ticket was created by a VSA team who already wrote out a milestone, that ticket would not appear on our board if filtered by the VSP milestone
+
 #### Benefits / success points (both for team and for client)
+**Client**
+
+**Team**
+- The Development team's workflow was not interrupted due to the change. We have been using Zenhub as the source of truth for sprint work, so it doesn't add or remove work for the development team during the sprint
+- We have a team member who is DSVA and needs to go on VPN in order to see the Google Doc, and this way of reporting is easier for that team member by consolidating into Zenhub
+- As the Product Manager, I ended up reverting back to using a post on Slack to write down and show overall 'themes' of the sprint during sprint planning. These were similar to the Google Doc objectives, but written more simply
+- This method of sprint reporting forced us to think more about which issues were getting put on Zenhub and how they mapped back to our "Now" super epics
+
 #### Open questions
+- How does the team track out of offices to display personnel breaks in the sprint workflow that might affect the sprint's completed work?
+- In writing the tickets, what is the intended proxy within an issue for the Google Doc "Objectives"? The Title, the Problem Statement?
+- Are estimates helpful to add for leadership to understand the tickets' levels of effort?
