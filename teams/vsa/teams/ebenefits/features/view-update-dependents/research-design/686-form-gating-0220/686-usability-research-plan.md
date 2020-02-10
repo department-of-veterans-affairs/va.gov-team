@@ -47,13 +47,12 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Assess user acceptance of various "remove" workflows
 
 ### Hypotheses
-Among participants who are familiar with the 21-686c form, more will know the form is intended to add dependents, but few will know they are required to use the form to remove dependents. Actual usage of the 21-686c will be infrequent. It is expected that users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once. 
+The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
 
-Users may require clatification or guidance at various points in the form. The upload feature may create some confusion/frustration with its position at the end of the form, and the longer, more technical nature of its instructions.
-
-Users may not be immediately aware of the change in "chapters as the navigate the form. This shouldn't present a problem as long as in-form section headers are clear.
-
-The add-spouse workflow will be problematic in it's length and the "odd" section of former marriages. The "remove" dependent flows should be easily understood and completed. The list loop feature/pattern may prove a bit odd with its current button labeling.
+ - Users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once.
+ - Users will require clatification or guidance at various points; The upload feature may create some confusion/frustration with its position at the end of the form.
+ - Users may not be immediately aware of the change in "chapters as the navigate the form. 
+ - Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.
 
 ### Research Questions
 [ Preliminary list... Work-in-progress ]
