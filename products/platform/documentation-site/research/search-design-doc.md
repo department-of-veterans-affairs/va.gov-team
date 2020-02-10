@@ -12,7 +12,7 @@
 
 ### Objective
 
-Run our own instance of [Algolia's DocSearch](https://community.algolia.com/docsearch/what-is-docsearch.html) on a custom landing page.
+Add search functionality to a public documentation landing page
 
 ### Background
 
@@ -26,14 +26,23 @@ We are adding a public landing page that will contain a search input where users
 
 ### Detailed Design
 
-We are adding a public landing page that will contain the [DocSearch frontend library](https://github.com/algolia/docsearch), and running our own instance of the [`docsearch-scraper`](https://github.com/algolia/docsearch-scraper) to extract content from our documentation sources and push it to an Algolia index.
+For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/), [Algolia's Search API](https://www.algolia.com/products/search/), and [Algolia's scraper](https://github.com/algolia/docsearch-scraper). 
 
-A successful implementation will have these components.
+In general, this kind of system requires the following components:
 
-1. Page with Input Textbox - We need a public page with a search input where users can input their search term(s).
-1. Index/Database - We need a place to store the records that will be returned to the user.
-1. Crawler/Scraper - We need a crawler to scan our documentation sources and push data to our index.
-1. Cron job - We need a cron job to run the crawler at a reasonable interval (e.g. every 24 hours)
+- Page with Input Textbox - We need a public page with a search input where users can input their search term(s).
+- Index/Database - We need a place to store the records that will be returned to the user.
+- Search API - We need a way to get data out of the index.
+- Crawler/Scraper - We need a crawler to scan our documentation sources and push data to our index.
+- Pipeline - We need a way to routinely run the crawler
+
+Each one of the above components could be a separate buy-or-build decision. 
+
+By leveraging the following existing technologies, we should only need to add the search input to the landing page, configure the scraper, and configure when to run the scraper. 
+
+- Algolia's Search API product will satisfy the index and API components. 
+- Algolia's open source JavaScript snippet will display search results to the user. 
+- Algolia's open source scraper will crawl and scrape our public documentation sources to push records into our index. 
 
 ### Code Location
 
@@ -157,3 +166,4 @@ The recommendation from the discovery sprint is to build a custom documentation 
 | Date         | Revisions Made | Author        | Reviewed By |
 | ------------ | -------------- | ------------- | ----------- |
 | Jan 27, 2020 | Initial Draft  | Bill Fienberg |             |
+| Feb 10, 2020 | Update Detailed Design | Bill Fienberg |             |
