@@ -5,6 +5,7 @@
   - contractural obligations 
   - outcomes 
   - metrics requested by platform users' contracts 
+  - platform strategy: use automation? audits? targeted review? training? 
 
 ## Notes
 
