@@ -9,13 +9,14 @@
 | Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - May |
 | View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Mar - Jun |
 | View Representative/ POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jun |
-| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
-| View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
-| View Roles and Relationships | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
-| Support User Roles and Relationships | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
-| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
-| Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jul |
+| View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
+| View Roles and Relationships | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Jul - Sept |
+| Support User Roles and Relationships | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug - Oct |
+| View Roles and Relationships | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Sept - Nov |
+| Document SEP Features* | Discovrtu  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
+`*` - Fill in when available? 
 # Sample Lifecycle
 This is meant to help estimate the amount of time it might take for a full migration cycle to take.  There are some elements of this process that might happen concurrently, and some might take longer than others.  This is meant to be a living doc based on the current environment.
 
