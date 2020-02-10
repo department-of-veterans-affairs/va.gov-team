@@ -306,29 +306,25 @@ Frontend
 
 **PM** 
 
-- Figure out what analytics we need (ticket needed)
+- Determine what analytics we need for this feature #5705
 - Create call center guide #5084
 - Create a release plan #5085
-- Update product outline pre-launch #5094
-- Create tickets for: 
-  - Security review
-  - Privacy review
-  - Production readiness review
+- Security review/Privacy review/ Production readiness review [41](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/41)
   
 **Dev**
 
 - E2E tests, running in CI/CD, passing on all browsers #5005
-- #5466 (Alert-message copy bug)
-- #5505 (IE11 radio-button quirk)
-- #5553 (Firefox alert-icon styling bug)
+- Profile - Address Validation - Alert-messages copy incorrect #5466
+- Profile - Address Validation - Entered address selection IE11 quirk #5505
+- Profile - Address Validation - Firefox - Alert-message icon not aligned & spaced correctly #5553
+- Stop using country name for va profile contact information endpoint #5591
 
 ### Profile 2.0
 
 **Design**
 
-Tressa out most of the sprint
+Tressa out most of the sprint. For when she is back:
 
-Finish screens
 - Military information #5265
 - Direct deposit #5266
 - Account security #5268
@@ -336,11 +332,14 @@ Finish screens
 
 **Dev**
 
-- [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
+- Convert profile phone number form to use SchemaForm #5118
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 - [FE] Address validation: Review product outline and update if needed #5256
+- [FE] Direct Deposit: Review product outline and update if needed #5252
+- Profile page scrolls when trying to submit invalid profile data #5458
+- Remove lodash/fp from front-end application code #5257
 
 ## Sprint 16 (2/26 - 3/10)
 
@@ -361,6 +360,7 @@ Design
 
 
 Dev
+- [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
 - Start build for new profile
 
 ## Sprint 17 (3/11 - 3/24)
