@@ -41,7 +41,7 @@ Your child has recently started college and you want to add them to your benefit
 
 ## Second Task: Step through form
 
-- Walk through the steps of this form. Be sure to think aloud and comment on the process of walking through the form.
+Walk through the steps of this form. Be sure to think aloud and comment on the process of walking through the form.
 
 ### Things to watch for:
 
@@ -50,7 +50,7 @@ Your child has recently started college and you want to add them to your benefit
 
 ## Third Task: Review application - X minutes
 
-- Take a moment to review the information presented on the screen. 
+Take a moment to review the information presented on the screen. 
 - Click the area of the prototype to complete this application process.
 
 ### Things to watch for:
