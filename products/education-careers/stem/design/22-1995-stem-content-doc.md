@@ -130,10 +130,9 @@ ________________________________________
 The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high-demand STEM (science, technology, engineering, and math) fields.  
 
 **To be considered, you must meet all the requirements below. You:**  
-
-•	Are using or recently used Post-9/11 or Fry Scholarship benefits 
-•	Have used all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
-•	Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
+- Are using or recently used Post-9/11 or Fry Scholarship benefits 
+- Have used all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
+- Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
 
 
 Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
