@@ -87,7 +87,7 @@ This research effort will be successful if it points to a clear verdict regardin
  - Are there any workflow combinations that would be problematic for users
 
 ### Method
-Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans will be presented with high-fidelity prototype created using Adobe XD. A remote moderator will prompt users with questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the prototypes. Remote observers and note takers will be in attendance.
+Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans will be presented with high-fidelity prototypes that will support a series of closed-ended tasks. A remote moderator will give users a set of broad and specific tasks, and will offer guidance as needed. Participants will be encouraged to talk through their exploration of the prototypes. Remote observers and note takers will be in attendance.
 
 ### Participants and Recruitment
 Participants will be recruited via Perigean. The study will require 10 Veterans from a range of service backgrounds. Participant criteria include:
