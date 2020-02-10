@@ -20,7 +20,7 @@ VA uses the 21-686c (686) form to collect and process the information to allow a
 ### Goals
 The over-arching business goal of the 686 is the quick automatic processing of the greatest number of digitally submitted forms. To support this, the new digital version of the form must be as clear and succinct as possible to increase accuracy and reduce abandonment.
 
-#### Determine best wayfinding/navigation to form
+#### Determine if the checkbox selection is an acceptable way for users to enter the form
  - Determine typical usage scenarios and frequency
  - Uncover user-expected flows to the 21-686 form
  - Assess ease of entry from introduction page to the 21-686c form itself
@@ -28,7 +28,7 @@ The over-arching business goal of the 686 is the quick automatic processing of t
  - Determine if users can easily understand the a-la-carte selection of vearious workflows (checkboxes)
  - Observe whether can access the 674-only workflow
 
-#### Decide what support users need to navigate and submit the form
+#### Decide what support users need to navigate and successfully submit the form
  - Determine what instructions, guidance and examples will be helpful within form workflows
  - Observe whether section and subsection headers, and labeling are clear and helpful
  - Assess users' acceptance and understanding of upload mechanism and requirements
@@ -36,10 +36,10 @@ The over-arching business goal of the 686 is the quick automatic processing of t
 
 #### Confirm the proper "chaptering" of the various business workflows
  - Assess whether users can differentiate individual sections
- - Confirm that current form sections are appropriate
+ - Confirm that current form sections are appropriate alone and in a series
  - Determine if the accordions in the confirmation sections are manageable for users
 
-#### Discover any problems that arise from complicated chapter combinations
+#### Discover any problems that arise from longer/complicated chapter combinations
  - Assess user acceptability of add-spouse marriage history sections
  - Determine potential issues with add-spouse and report-divorce workflow combinations
  - Determine if the overall length of add-spouse/add-child/add-student combo is acceptable
@@ -51,26 +51,33 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 
  - Users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once.
  - Users will require clatification or guidance at various points; The upload feature may create some confusion/frustration with its position at the end of the form.
- - Users may not be immediately aware of the change in "chapters as the navigate the form. 
+ - Users may not be immediately aware of the change in workflow "chapters" as they navigate the form. 
  - Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.
 
 ### Research Questions
-1. Are the forms presented clearly and easy to understand by Veterans?
-2. Do participants understand the 21-686c is a multi-purpose form? 
-3. Do participants know they have to reports changes in their dependents status?
-4. How will Veterans interact with the form?
-5. What (workflow) combinations (if any) are likely? 
-6. What are users' expectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
+1. Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows? 
+2. Are the forms presented clearly and easy to understand by Veterans? 
+3. Where do users need examples, guidance or section headers as they interact with the form?
+4. Where are the pain points in the longer workflows (add-spouse/add-child, add-student)?
+
+Additionally
+5. What are users' experiences with the current 21-686c (paper, digital, VSO, etc.)?
+6. Do participants know they have to reports changes in their dependents status?
+7. What workflow combinations (scenarios) do users think are likely? 
   
 #### Success
 This research effort will be successful if it points to a clear verdict regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
  - Will users understand and accept the checkbox selection of various workflows
- - What guidance (intructional text) will users need to support successful completeion of the form
+ - What guidance (intructional text, headers, etc.) will users need to support successful completeion of the form
  - How will users react to the long, potentially emotional add-spouse workflow
  - Are there any workflow combinations that would be problematic for users
 
 ### Method
 Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans will be presented with high-fidelity prototypes that will support a series of closed-ended tasks. A remote moderator will give users a set of broad and specific tasks, and will offer guidance as needed. Participants will be encouraged to talk through their exploration of the prototypes. Remote observers and note takers will be in attendance.
+
+Participants will be given tasks within one "add" workflow, and a corresponding "remove" workflow. for a total of two (time permitting):
+- Add spouse/add child combo *and* remove stepchild or
+- Add child 18- 23 who is in school *and* report child has left school
 
 ### Participants and Recruitment
 Participants will be recruited via Perigean. The study will require 10 Veterans from a range of service backgrounds. Participant criteria include:
