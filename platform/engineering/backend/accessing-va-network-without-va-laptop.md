@@ -1,5 +1,3 @@
-### This page is no longer maintained and likely outdated. [Please see the most current documentation in the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/accessing-va-network-without-va-laptop.md).
-
 These instructions are relevant for those who need access to the VA network, but do not have a VA-imaged laptop (also known as Government-Furnished Equipment (GFE) laptop). Instead, you can use your PIV to access the Citrix Access Gateway (CAG) site and launch a Windows virtual desktop. This virtual desktop is suitable for checking VA email and accessing VA intranet sites; it's not usable for design or development tasks. 
 
 _These steps are geared towards contractors, specifically Ad Hoc and its subcontractors - if you work for a different company, administrative steps such as who to contact as your COR may differ.
