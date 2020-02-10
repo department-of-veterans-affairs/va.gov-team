@@ -7,7 +7,7 @@
 * https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/teams/sre-team/services/bgs.md
 ​
 ## Contacts
-* name / role / slack / email
+* Our contacts are with BGS Team 1. The Analyst is Cheri Ray and the Development lead is John Dell.
 ​
 ## Notes
 - BGS gem available here https://github.com/department-of-veterans-affairs/lighthouse-bgs
