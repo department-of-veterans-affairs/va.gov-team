@@ -11,9 +11,6 @@
 | View Representative/ POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jun |
 | Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jul |
 | View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
-| View Roles and Relationships | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Jul - Sept |
-| Support User Roles and Relationships | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Aug - Oct |
-| View Roles and Relationships | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Sept - Nov |
 | Document SEP Features* | Discovrtu  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
 `*` - Fill in when available? 
