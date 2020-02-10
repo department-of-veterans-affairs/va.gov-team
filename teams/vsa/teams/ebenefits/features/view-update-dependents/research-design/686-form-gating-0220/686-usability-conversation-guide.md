@@ -21,8 +21,9 @@ Before we start, a few things I want to mention:
 
 Before we look at the prototype, let’s start with a few warm-up questions.
 
-- Tell me about your service history.
-- Are you familiar with the 686 form?
+- Please tell me about your service history.
+- What are your experiences adding or removing dependents from you disability claim?
+- Are you familiar with the VA 21-686 form? And what is your experience using the form (online or paper)?
 
 ## Screenshare
 Will you share your screen with me? I'm going to send you a link. I will be asking you to complete a few tasks using this prototype. Try to move a bit slower than you normally would on a website and talk me through your actions.
