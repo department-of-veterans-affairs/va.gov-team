@@ -293,6 +293,15 @@ Frontend
 
 - Tressa out: Feb 12 – 19
 
+### Order of priorities
+
+1. Bug fixes for address validation
+2. Launch checklist for address validation
+3. Matt onboarding
+4. Profile 2.0 work
+5. Lodash work
+6. Documentation updates
+
 ### Address validation
 
 **PM** 
