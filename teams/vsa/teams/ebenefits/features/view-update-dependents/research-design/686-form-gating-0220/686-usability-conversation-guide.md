@@ -24,16 +24,15 @@ Before we look at the website, let’s start with a few warm-up questions.
 - Tell me about your service history.
 - Are you familiar with the 686 form?
 
-
 ## First Task: Select form(s)
 
-Let's imagine that you recently got married and adopted your partner's child. 
-- Click the area of the prototype to add your new spouse and child to your benefits.
+You've recently been married and want to add you new spouse and their child to your benefits. 
+- Click the area of the prototype to add your new spouse to your benefits.
 
 OR
 
-Let's imagine that your 21 year old child has just dropped out of college and can no longer be claimed as a dependent. 
-- Click the area of the prototype to remove your child from your benefits.
+Your child has recently started college and you want to add them to your benefits.
+- Click the area of the prototype to add your child to your benefits.
 
 ### Things to watch for:
 
@@ -46,7 +45,8 @@ Let's imagine that your 21 year old child has just dropped out of college and ca
 
 ### Things to watch for:
 
-- Does the participant understand that all the workflows are withing this form? 
+- Does the participant understand that all the workflows are within this form? 
+- Watch for any hiccups in the form process
 
 ## Third Task: Review application - X minutes
 
@@ -58,10 +58,20 @@ Let's imagine that your 21 year old child has just dropped out of college and ca
 - Does the participant discern between the different scenarios?
 - Make note of how participant reviews form summary
 
-## Post-Task Interview
+## Fourth Task (if time): Remove
 
-- Would you prefer to complete multiple tasks like this? Or individually?
+Let's say that your step-child has moved out on their own.
+- Click the area of the prototype to remove them from your benefits.
+
+OR
+
+Let's say your child graduated college and is no longer eligible for your benefits.
+- Click the area of the prototype to remove your child from your benefits.
+
+## Post-Task Interview
+- Would you prefer to complete multiple tasks at the same time? Or individually?
 - What are your thoughts on the length of the form? 
+- What are your thoughts on completing a form that requires this type of personal information?
 - What would you change about this prototype?
 - What kind of device (mobile/desktop/tablet) do you use most often? Would you use that kind of device to fill this form out?
 - Any questions for me? 
