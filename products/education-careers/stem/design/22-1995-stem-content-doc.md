@@ -127,11 +127,11 @@ ________________________________________
 
 *Rogers STEM Scholarship* { Sub-head }  
 
-The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high demand STEM (Science, Technology, Engineering, and Math) fields.  
+The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high-demand STEM (science, technology, engineering, and math) fields.  
 
 **To be considered, you must meet all the requirements below. You:**  
 
-•	Are receiving Post-9/11 GI Bill or Fry Scholarship benefits  
+•	Are using or recently used Post-9/11 or Fry Scholarship benefits 
 •	Have used all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
 •	Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
 
@@ -195,7 +195,7 @@ Based on you responses, it appears you're not eligible.
 
 Your responses:
 { display X if user indicated "No" or Checkmark if they indicated "Yes" } 
-X  Post-9/11 GI Bill beneficiary or Fry Scholarship recipient  
+X  Are using or recently used Post-9/11 or Fry Scholarship benefits 
 X  Have used all your education benefits or are within 6 months of do so
 X  Are enrolled in a STEM undergraduate degree program, **or** have earned a STEM degree and are now pursuing a teaching certification  
 
