@@ -12,7 +12,7 @@ This does not include research for Appeals projects, which is stored in differen
 
 __Please note that many links on this page reference research folders in the vets.gov-team GitHub repo. These links will be updated as work on migrating documentation to va.gov-team repo progresses.__
 
-### Februaru 2020
+### February 2020
 
 #### February 3-4: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing, Redux
 *Booz Allen: Amy Knox, Theresa McMurdo*
