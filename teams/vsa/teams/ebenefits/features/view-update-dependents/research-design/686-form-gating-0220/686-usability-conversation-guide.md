@@ -2,7 +2,7 @@
 
 ## Intro
 
-Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to talk about [description of your project]. 
+Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we're going to talk about adding and removing dependents to/from your benefits on the VA website. 
 
 Before we start, a few things I want to mention:
 
