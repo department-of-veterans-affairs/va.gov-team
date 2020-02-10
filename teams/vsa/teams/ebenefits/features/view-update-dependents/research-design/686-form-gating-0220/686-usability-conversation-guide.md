@@ -8,21 +8,24 @@ Before we start, a few things I want to mention:
 
 - **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
-- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
     - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
 *Start recording.*
 
-- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen the audio as we talk today?" 
+- **I have started recording. I'd like to confirm: Are you comfortable if I record my screen and audio as we talk today?" 
 
 ## Warm-up Questions
 
-Before we look at the website, let’s start with a few warm-up questions.
+Before we look at the prototype, let’s start with a few warm-up questions.
 
 - Tell me about your service history.
 - Are you familiar with the 686 form?
+
+## Screenshare
+Will you share your screen with me? I'm going to send you a link. I will be asking you to complete a few tasks using this prototype. Try to move a bit slower than you normally would on a website and talk me through your actions.
 
 ## First Task: Select form(s)
 
