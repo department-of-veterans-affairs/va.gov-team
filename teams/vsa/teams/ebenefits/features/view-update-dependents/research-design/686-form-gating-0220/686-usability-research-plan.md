@@ -55,30 +55,13 @@ The 686 is a long and complicated form in its entirety, but the digital version 
  - Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.
 
 ### Research Questions
-[ Preliminary list... Work-in-progress ]
-- Are the forms presented clearly and easy to understand by Veterans?
-  - Do participants understand the 21-686c is a multi-purpose form? 
-  - Will participants accept the checkbox selection, and understand it makes the form "al-la-carte?"
-  - Is the labeling and section headers clear and helpful?
-  - Where do we need helper content like tell-me-mores or inline instructions.
-  - Do participants know they have to reports changes in their dependents status? (Particularly things that remove them from their disability benefits, like marriage, leaving home, not attending school, etc.?)
-  - Is the list/loop pattern acceptable when entering multiple individuals (ex-spouses, children, students, etc.)?
-
-- How will Veterans interact with the form?
-  - Would they rather submit different workflows separately or all together?
-  - What (workflow) combinations (if any) are likely? 
-  - Would they like "pre-packaged" scenarios (Add spouse/add child)
-  - Is the chaptering of the form acceptable?
-  - How is the balance of multiple chapters vs. page/form length?
- 
-- How will the workflow affect Veterans?
-  - What are users' expectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
-  - How do users feel about a "worst-case" end-to-end form that included all scenarios? 
-  - How do user feel about the former spouse sections of the add-spouse workflow?
-  - What can we do do to make it more tolerable?
-
-- Workflows of particular interest: Add Spouse (individually). Add Spouse/Add Child (combo), Add Spouse/Report Divorce (combo), Add Child/Add Student (combo)...
-
+1. Are the forms presented clearly and easy to understand by Veterans?
+2. Do participants understand the 21-686c is a multi-purpose form? 
+3. Do participants know they have to reports changes in their dependents status?
+4. How will Veterans interact with the form?
+5. What (workflow) combinations (if any) are likely? 
+6. What are users' expectations about real-life scenarios (birth, death, divorce) and their use of the 21-686c? 
+  
 #### Success
 This research effort will be successful if it points to a clear verdict regarding the usability of the 21-686c (and 21-674) form flows. This does not necessarily mean the layouts and patterns are validated, rather it means there is an actionable path forward to refine these tools for maximum clarity and effectiveness. Specifically, several things need to be determined:
  - Will users understand and accept the checkbox selection of various workflows
@@ -92,13 +75,15 @@ Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans
 ### Participants and Recruitment
 Participants will be recruited via Perigean. The study will require 10 Veterans from a range of service backgrounds. Participant criteria include:
 - 10 Veterans
-- Various service backgrounds
-- Geographically diverse
+- Fits one of the following:
+ - Has child (age 18 to 23) who is about to enroll or has enrolled in college
+ - Has recently been married
+ - Has recently been divorced
+ - Have or had dependents; received or applied for dependents benefits
 - All genders
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
 - Several Veterans (3 to 4) with Total Rated Disability of 80% or greater and cognitive disabilities
-- Have or had dependents; received or applied for dependents benefits
 - Because XD prototypes will be presented, there is no support for users needing adaptive equipment or software
 - Sessions will run approximately 30 minutes
 
