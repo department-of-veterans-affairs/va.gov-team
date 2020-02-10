@@ -40,6 +40,7 @@ Below is a list of standardized form labels that appear across all VA.gov forms.
 |                                        | Where did you get married?   |   City, State   |   |
 |                                        | When did you get married?   |     |   |
 |                                        | When did your marriage end?    |      |   |
+|                                        | Why did your marriage end?    |      |   |
 |                                        | Where did your marriage end?    | City, State     |   |
 |                                        | Type of marriage    | Ceremonial, Common-law, Proxy, Tribal, Other     |   |
 |                                        | How many times have you been married?   |    |   |
@@ -88,6 +89,7 @@ Below is a list of standardized form labels that appear across all VA.gov forms.
 |                                       | Dependent's Social Security number    |      |   |
 |                                       | Dependent's date of birth    |      |   |
 |                                       | Date they became your dependent?    |      |  |
+|                                       | Does your child/dependent live with you?    |      |  |
 |                                       | Was your dependent permanently and totally disabled before the age of 18?    |      |   |
 |                                       | If your dependent is between 18 and 23 years old, did they attend school during the last calendar year?  |      |   |
 |                                       | Expenses your dependent paid for college, vocational rehabilitation, or training |      |   |
@@ -147,6 +149,7 @@ Below is a list of standardized form labels that appear across all VA.gov forms.
 |                                       | Have you ever held a license of journeyman rating (for example, as a contractor or plumber) to practice a profession? |      |   |
 |                                       | Main job |      |   |
 |                                       | Number of months worked |      |   |
+|                                       | Is student's tuition or education allowance being paid by the Survivors’ and Dependents’ Educational Assistance (DEA), the Federal Compensation Act, or any U.S. government agency or program?|      |   |
 | **Burial information**                | What expenses did you incur for the Veteran's burial? |      |   |
 |                                       | Type of burial allowance requested |      |   |
 |                                       | Date of death |      |   |
