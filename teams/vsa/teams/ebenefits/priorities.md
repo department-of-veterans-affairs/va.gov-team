@@ -12,21 +12,21 @@
 | Status | View Representative/ POA | View my current representative/ POA. |
 | Form | Add or Update Representative/ POA | (Form 22 and form 22a) I can search for a VSO, attorney, or agent, and add that person to my profile. |
 | Status | View Payment History | View my VA payments (for all integrated systems). |
-| eFolder | View My Documents | I can view and download documents I have uploaded to my VA eFolder. |
-| Platform | Support User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
-| Status | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
+| eFolder | View My Documents | View and download documents I have uploaded to my VA eFolder. |
 | Discovery | Document SEP Features | Develop exhaustive documentation for SEP features and roles, and develop roadmap for transforming those services to va.gov. |
 
 ### Long Term
 
 | Type | Feature | Description |
 | ---- | ------- | ----------- |
-| Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) I can calculate my VA Home Loan benefit and apply for a Certificate of Eligibility. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
-| Form | Apply for Specially Adapted Housing Grant | (Form 26-4555) I can apply for Specially Adapted Housing benefits. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
+| Form | Apply for VA Home Loan Certificate of Eligibility | (Form 26-1880) Calculate my VA Home Loan benefit and apply for a Certificate of Eligibility. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
+| Form | Apply for Specially Adapted Housing Grant | (Form 26-4555) Apply for Specially Adapted Housing benefits. **This is an iFramed LGY-hosted application.** (Note: this may be on BAM-2's critical path.) |
 | Form | Vocational Rehabilitation Benefits & Counseling | (Forms 1900 and 8832) I can apply for VR&E benefits. |
-| Status | View Ancillary Benefits | I can view the status of various ancillary and other benefits. (Needs discovery to determine which services are encapsulated.) |
+| Status | View Ancillary Benefits | I can view the status of various ancillary and other benefits. (Needs discovery to determine which services are represented.) |
 | Letters | Download VA Letters - NonVet Dependent Summary | I can download my NonVet Dependent Summary Letter. (Needs discovery to determine feasibility.) |
 | Form | Update Direct Deposit and Contact Information for Post 9/11 GI Bill Education | I can add and update my bank information for Post 9/11 GI Bill DD/EFT. **C&P DD/EFT update is complete.** |
+| Platform | Support User Roles and Relationships | Users can log in and maintain a role based on their relationship to other users, and perform role-based actions authorized by those relationships. (I am a Veteran's representative, therefore I can view her claim status.) |
+| Status | View Roles and Relationships | Users can see a list of the other users that have some kind of relationship to their account (VSOs, representatives, dependents, attorneys, fiduciaries, caregivers, etc) |
 
 ### Theoretically Completed Work (Check Deltas)
 
@@ -37,4 +37,3 @@
 | Status | View Open Applications | Users can see any VDC applications that they have started and not yet submitted. **Already on VA.gov. Check deltas.** |
 | Status | Exam Appointments Calendar | Users are able to view upcoming VHA medical appointments. (Note: VBA benefit exams are not yet included. They cannot schedule any type of appointment.) |
 | Form | Order Medical Devices | I can order hearing aids, prosthetic socks, and other devices through the DALC. **Currently in progress in [BaM-2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)** |
-| Status | Servicemembers' Group Life Insurance (SGLI) | I can find out how much personal and family coverage my SGLI policy provides. **Not migratable, links to Milconnect.** |
