@@ -76,10 +76,10 @@ Usability testing will be conducted remotely using Zoom or GoToMeeting. Veterans
 Participants will be recruited via Perigean. The study will require 10 Veterans from a range of service backgrounds. Participant criteria include:
 - 10 Veterans
 - Fits one of the following:
- - Has child (age 18 to 23) who is about to enroll or has enrolled in college
- - Has recently been married
- - Has recently been divorced
- - Have or had dependents; received or applied for dependents benefits
+  - Has child (age 18 to 23) who is about to enroll or has enrolled in college
+  - Has recently been married
+  - Has recently been divorced
+  - Have or had dependents; received or applied for dependents benefits
 - All genders
 - Computer access and basic computer literacy
 - Total Rated Disability of 30% or greater
