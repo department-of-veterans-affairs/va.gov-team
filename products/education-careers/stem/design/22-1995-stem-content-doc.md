@@ -199,11 +199,12 @@ X  Have used all your education benefits or are within 6 months of do so
 X  Are enrolled in a STEM undergraduate degree program, **or** have earned a STEM degree and are now pursuing a teaching certification  
 
 
-Since it appears you're not eligible for the scholarship, would you still like apply and let us determine your eligibility? (*Required)  
-* Yes  
-* No  
+Since it appears you're not eligible for the scholarship, would you still like apply and let us determine your eligibility? (*Required) 
 
-{ if no: display:
+* No  
+* Yes
+
+{ if "No" display:
 If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
 
 [Explore other education benefits] { button } . 
