@@ -2,11 +2,11 @@
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 
-**Last Updated:** 2020-02-04
+**Last Updated:** 2020-02-10
 
 **Status:** **Draft**
 
-**Approvers:** Andrew G., Megan K., Rian F., VSP Ops
+**Approvers:** Andrew G., Megan K., Rian F., Wyatt W.
 
 ## Overview
 
