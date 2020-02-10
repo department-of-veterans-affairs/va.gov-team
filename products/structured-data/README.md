@@ -24,7 +24,7 @@ Today, when Veterans or their loved ones submit a claim for burial benefits on V
 
 ### Mission
 *The problem we’re trying to solve; why we’re doing this work. Describes an intent and sets a direction. How might we...?*
-Manually establishing claims for burial benefits delays processing because it requires CAs to do redunant work. It also introduces issues with data accuracy because the original data that a claimant entered is be re-entered manually rather than presevered. There is an opportunity to expedite the processing of burial benefits and get accurate answers back to Veteran's family members more quickly.
+Manually establishing claims for burial benefits delays processing because it requires CAs to do redunant work. It also introduces issues with data accuracy because the original data that a claimant entered is re-entered manually rather than presevered. There is an opportunity to expedite the processing of burial benefits and get accurate answers back to Veteran's family members more quickly.
 
 How might we expedite the establishment of burial benefit claims?
 
