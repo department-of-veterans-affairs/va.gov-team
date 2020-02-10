@@ -60,7 +60,8 @@ The 686 is a long and complicated form in its entirety, but the digital version 
 3. Where do users need examples, guidance or section headers as they interact with the form?
 4. Where are the pain points in the longer workflows (add-spouse/add-child, add-student)?
 
-Additionally
+Additional Questions
+
 5. What are users' experiences with the current 21-686c (paper, digital, VSO, etc.)?
 6. Do participants know they have to reports changes in their dependents status?
 7. What workflow combinations (scenarios) do users think are likely? 
