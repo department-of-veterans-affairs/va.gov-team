@@ -295,7 +295,7 @@ Frontend
 
 ### Order of priorities
 
-1. Bug fixes for address validation
+1. Bug fixes/508 for address validation
 2. Launch checklist for address validation
 3. Matt onboarding
 4. Profile 2.0 work
