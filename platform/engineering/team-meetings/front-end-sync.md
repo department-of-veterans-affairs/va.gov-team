@@ -2,6 +2,9 @@
 
 ## Agenda 
 - Unit tests and coverage reporting 
+  - contractural obligations 
+  - outcomes 
+  - metrics requested by platform users' contracts 
 
 ## Notes
 
