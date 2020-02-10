@@ -3,11 +3,7 @@
 #### VSA eBenefits Team / 21-686c Migration & Modernization
 
 #### Background
-A Veteran with a VA disability rating of 30% or greater can apply to have their dependents added to their disability claim, increasing the Veteran's diability pay. VA uses the 21-686c form to collect and process the information to decide the Veteran's claim. In addition to adding dependents, the 21-686c (686) is used to remove dependents who have died or otherwise left the household of the Veteran.
-
-The 686 is 12 pages in its paper incarnation, and it supports seven discrete workflows--eight if the 21-674 is added. About half the paper form is instructions. Once deployed, the 686 will be one of the longer, more complex forms on VA.gov. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
-
-The subject of this research plan is VA form 21-686c being migrated from the eBenefits website to VA.gov by the eBenefits team. Development efforts must align this form with the latest [paper version](https://www.vba.va.gov/pubs/forms/VBA-21-686C-ARE.pdf), revised September of 2018. The current digital iterations (eBenefits and the Rainbows Team effort from 2018) of the 21-686c is based on prior revisions of the paper form. Consequently, the team must migrate all current eBenefits functionality (including the [21-674](https://www.vba.va.gov/pubs/forms/VBA-21-674-ARE.pdf) feature) and align the inputs with the current form. The new 686 must be developed within the conventions and constraints of the VA.gov form system. 
+VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran. The 686 is 12 pages in its paper incarnation, and it supports eight discrete workflows (including the 21-674). Once deployed to VA.gov, the 686 will be one of the longer, more complex forms on the site. The new 686 must be developed within the conventions and constraints of the VA.gov form system. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
 
 ## Table of Contents
 - [Goals](#goals)
