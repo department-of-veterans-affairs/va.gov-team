@@ -190,15 +190,20 @@ Finish this application later]()
 
 { gray box } 
 
-Based on you responses, it appears you're not eligible.  
+Based on your responses, it appears you're not eligible.  
 
 Your responses:
-{ display X if user indicated "No" or Checkmark if they indicated "Yes" } 
-X  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits 
-X  Have used all your education benefits or are within 6 months of doing so
+{ display X if user indicated "No", Checkmark if they indicated "Yes", or "?" if null }    
+Y  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
+Y  Have used all your education benefits or are within 6 months of doing so  
+Y  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
+  
+X  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
+X  Have used all your education benefits or are within 6 months of doing so  
 X  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
 
-
+?  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
+  
 Since it appears you're not eligible for the scholarship, would you still like apply and let us determine your eligibility? (*Required) 
 
 * No  
