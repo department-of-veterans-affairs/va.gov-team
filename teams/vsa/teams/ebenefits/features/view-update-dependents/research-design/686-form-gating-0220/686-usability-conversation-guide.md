@@ -28,7 +28,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 ## Screenshare
 Will you share your screen with me? I'm going to send you a link. I will be asking you to complete a few tasks using this prototype. Try to move a bit slower than you normally would on a website and talk me through your actions.
 
-## First Task: Select form(s)
+## First Task: Find and select form(s)
 
 You've recently been married and want to add you new spouse and their child to your benefits. Show us how you would do this.
 
