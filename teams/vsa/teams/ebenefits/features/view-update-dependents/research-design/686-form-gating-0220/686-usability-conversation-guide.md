@@ -30,13 +30,11 @@ Will you share your screen with me? I'm going to send you a link. I will be aski
 
 ## First Task: Select form(s)
 
-You've recently been married and want to add you new spouse and their child to your benefits. 
-- Click the area of the prototype to add your new spouse to your benefits.
+You've recently been married and want to add you new spouse and their child to your benefits. Show us how you would do this.
 
 OR
 
-Your child has recently started college and you want to add them to your benefits.
-- Click the area of the prototype to add your child to your benefits.
+Your child has recently started college and you want to add them to your benefits. Show us how you would do this.
 
 ### Things to watch for:
 
@@ -64,13 +62,11 @@ Take a moment to review the information presented on the screen.
 
 ## Fourth Task (if time): Remove
 
-Let's say that your step-child has moved out on their own.
-- Click the area of the prototype to remove them from your benefits.
+Let's say that your step-child has moved out on their own. How would you go about removing them from your benefits?
 
 OR
 
-Let's say your child graduated college and is no longer eligible for your benefits.
-- Click the area of the prototype to remove your child from your benefits.
+Let's say your child graduated college and is no longer eligible for your benefits. What would you do to remove them?
 
 ## Post-Task Interview
 - Would you prefer to complete multiple tasks at the same time? Or individually?
