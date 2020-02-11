@@ -26,6 +26,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 | Apply for VRE CH36 (8832)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | Q3        | Q3        | Q4        | Q4        | 
+| Discover State Benefit Info                         | vsa-ebenefits | --        | --        | --        | --        | Requires Discovery and Documentation
 
 * Note: VRE forms can be developed and launched very quickly, given an API and backend system for submission
 
