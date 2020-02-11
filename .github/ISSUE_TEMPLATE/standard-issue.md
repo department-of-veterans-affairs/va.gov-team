@@ -1,6 +1,6 @@
 ---
-name: Standard Issue Template
-about: For filing standard issues on VSP.
+name: Standard Issue / User Story Template
+about: For filing standard issues.
 title: ''
 labels: ''
 assignees: ''
