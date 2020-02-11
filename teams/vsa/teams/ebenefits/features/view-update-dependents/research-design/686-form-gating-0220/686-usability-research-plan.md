@@ -93,19 +93,28 @@ Participants will be recruited via Perigean. The study will require 10 Veterans 
 - Total Rated Disability of 30% or greater
 - Several Veterans (3 to 4) with Total Rated Disability of 80% or greater and cognitive disabilities
 - Because XD prototypes will be presented, there is no support for users needing adaptive equipment or software
-- Sessions will run approximately 30 minutes
+- Sessions will run approximately 45 minutes
 
 ### Timeline
 The target window for research sessions is the week of February 17. Preparation includes participant recruitment, refining prototypes, revising the conversation guide, and a pilot (test) session. 
 
 #### Pilot Session
-The target date for the pilot session is February 14.
+The target date for the pilot session is Friday, February 21.
 
 #### eBenefits Team Availability
-(Session times subject to Participants' availability)
 
-Date | Time (EST)
------|-----------
+| Date | Time (EST) |
+| :---------- | :---------- |
+| February 24 | 10:00 AM to 5:00 PM |
+| February 25 | 2:30 PM to 5:00 PM |
+| February 26 | 10:00 AM to 11:00 AM & 2:30 PM to 5:00 PM |
+| February 27 | 9:00 AM to 5:00 PM |
+| February 28 | 9:00 AM to 5:00 PM |
+| March 2 | 9:00 AM to noon & 2:30 PM to 5:00 PM |
+| March 3 | 9:00 AM to 5:00 PM |
+| March 4 | 9:00 AM to noon |
+| March 5 | 9:00 AM to 5:00 PM |
+| March 6 | 9:00 AM to 5:00 PM |
 
 ### Team Member Roles
 - [Aricka Lewis](aricka@adhoc.com) -- Moderator, researcher
