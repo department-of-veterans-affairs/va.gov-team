@@ -1,5 +1,7 @@
 # Disability Considerations, by disability type _(Work-in-Progress)_
 
+Based on this [material from Deque](https://www.jenstrickland.design/talks/design4performance-a11y/resources/Design_Considerations.pdf)
+
 ## Table of Contents
 
 * [Blindness](#blindness)
