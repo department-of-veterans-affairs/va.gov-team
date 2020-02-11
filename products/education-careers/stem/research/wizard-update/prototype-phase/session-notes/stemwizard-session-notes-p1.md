@@ -1,14 +1,14 @@
 ## Session Notes
 ### Participant #1
 
-	Tuesday, January 7 10:00am - 10:45am 	
+	Tuesday,February 4 9:00am –10:00am 	
 	Veteran 	
-  	Female 	
+  	Male 	
   	White or Caucasian 	
-	45 - 54 	
-  	Master's degree 	
+	35 - 44 	
+  	In college 	
  	Army 	
- 	MI 
+ 	NC 
 
 ### Participant Info
 * Post-9/11 - 16 months remaining
