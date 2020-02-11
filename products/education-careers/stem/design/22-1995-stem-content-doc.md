@@ -125,7 +125,7 @@ ________________________________________
 
 ### Chapter Title: 2 of 6: Education Benefit
 
-*Rogers STEM Scholarship* { Sub-head }  
+#### Rogers STEM Scholarship { Sub-head }  
 
 The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high-demand STEM (science, technology, engineering, and math) fields.  
 
@@ -186,13 +186,13 @@ Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do yo
 Finish this application later]()
 
 
-*Rogers STEM Scholarship eligibility* { Sub-head } 
+#### Rogers STEM Scholarship eligibility { Sub-head } 
 
 { gray box } 
 
 Based on your responses, it appears you're not eligible.  
 
-Your responses:
+** Your responses: **
 { display X if user indicated "No", Checkmark if they indicated "Yes", or "?" if null }    
 Y  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
 Y  Have used all your education benefits or are within 6 months of doing so  
