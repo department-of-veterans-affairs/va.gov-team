@@ -13,6 +13,11 @@ The following resources compiled by the people in your practice area to help you
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 ### Delivery
 
+#### Agile ceremonies
+- Details on the ceremonies can be found in the [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-ceremonies-overview.md)
+- [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-checklist.md). 
+
+
 #### Issue Templates and Examples
 | Issue Type | Examples |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
