@@ -1,5 +1,5 @@
 # Feature Flags (aka Feature Toggles, Feature Flippers)
-VSP has feture toggles that can be used in both vets-api and vets-website. 
+VSP has feature toggles that can be used in both vets-api and vets-website. 
 It's possible to enable/disable a feature entirely, for a percentage of all users, a percentage of all logged in users, a list of users, or using some criteria defined in a method. At this time the feautre toggles are managed by a select few administrators (ask in #VSP-Platform-Support slack), but we intend to allow more access in the future.
 
 Our feature toggles are powered by an open-source gem called [Flipper gem](https://github.com/jnunemaker/flipper)
