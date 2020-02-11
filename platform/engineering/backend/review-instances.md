@@ -119,7 +119,7 @@ These instances are destroyed when the non-master branch(es) they are related to
 
 ## User Authentication
 
-![Authentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/review_instance_auth_flow.png)
+![Authentication Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/login/reference-documents/auth/review_instance_login_sequence.png)
 
 The review instance requires a special nginx configuration that intercepts the callback to the staging-api.va.gov server, and forwards the authentication information to the appropriate review instance (mapped by the `RelayState` parameter, which is provided to the review instance vets-api config with the `REVIEW_INSTANCE_SLUG` environment variable).
 
