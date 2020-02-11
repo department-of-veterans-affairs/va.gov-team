@@ -197,9 +197,9 @@ __Your responses:__
 :heavy_check_mark:  Have used all your education benefits or are within 6 months of doing so  
 :heavy_check_mark:  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
   
-__X__  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-__X__  Have used all your education benefits or are within 6 months of doing so  
-__X__  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
+:heavy_multiplication_x:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
+:heavy_multiplication_x:  Have used all your education benefits or are within 6 months of doing so  
+:heavy_multiplication_x:  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
 
 __?__  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
   
