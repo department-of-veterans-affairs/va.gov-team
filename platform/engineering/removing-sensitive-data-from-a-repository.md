@@ -28,6 +28,14 @@
 1. Have an admin [delete the issue](https://help.github.com/en/github/managing-your-work-on-github/deleting-an-issue)
 1. Contact GitHub support to permanently remove cached sensitive data and confirm success
 
+# Checklist for removing a sensitive record from Algolia
+
+1. Login to Algolia
+1. Navigate to the **Indices** page
+1. Use the search input to find the sensitive record(s)
+1. Click the trash can icon to open the deletion modal
+1. Click the delete button
+
 ___
 
 # Additional information and resources
