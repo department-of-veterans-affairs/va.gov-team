@@ -130,8 +130,8 @@ ________________________________________
 The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high-demand STEM (science, technology, engineering, and math) fields.  
 
 **To be considered, you must meet all the requirements below. You:**  
-- Are using or recently used Post-9/11 or Fry Scholarship benefits 
-- Have used all your education benefits or are within 6 months of using all your benefits. [Check your remaining benefits]()
+- Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits 
+- Have used all your education benefits or are within 6 months of doing so. [Check your remaining benefits]()
 - Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
 
 
@@ -186,7 +186,7 @@ Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do yo
 Finish this application later]()
 
 
-*Rogers STEM Scholarship* { Sub-head } 
+*Rogers STEM Scholarship eligibility* { Sub-head } 
 
 { gray box } 
 
@@ -194,9 +194,9 @@ Based on you responses, it appears you're not eligible.
 
 Your responses:
 { display X if user indicated "No" or Checkmark if they indicated "Yes" } 
-X  Are using or recently used Post-9/11 or Fry Scholarship benefits 
-X  Have used all your education benefits or are within 6 months of do so
-X  Are enrolled in a STEM undergraduate degree program, **or** have earned a STEM degree and are now pursuing a teaching certification  
+X  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits 
+X  Have used all your education benefits or are within 6 months of doing so
+X  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
 
 
 Since it appears you're not eligible for the scholarship, would you still like apply and let us determine your eligibility? (*Required) 
