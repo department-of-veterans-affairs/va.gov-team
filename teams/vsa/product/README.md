@@ -3,7 +3,9 @@
 ## Contents
 The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping #vsa-product or Mickin Sahni (@mickin).
 ### Product Documentation
-- [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+#### [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+Every initiative should begin with a clear understand of a) the problem we intend to solve and b) how we'll know if we'e solved it. We capture these details in product outlines. These may also be referred to as "briefs" or "specs". 
+
 ### Delivery
 
 #### Agile ceremonies
