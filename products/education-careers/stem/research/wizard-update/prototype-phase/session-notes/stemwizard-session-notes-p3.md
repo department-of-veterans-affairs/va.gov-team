@@ -1,14 +1,14 @@
 ## Session Notes
 ### Participant #1
 
-	Tuesday, January 7 10:00am - 10:45am 	
+	Tuesday, February 4, 1:00pm – 2:00pm 	
 	Veteran 	
   	Female 	
-  	White or Caucasian 	
-	45 - 54 	
-  	Master's degree 	
+  	Hispanic, Latino, or Spanish Origin 	
+	25 - 34 	
+  	Bachelor's 	
  	Army 	
- 	MI 
+ 	NY 
 
 ### Participant Info
 * Post-9/11 - none left
