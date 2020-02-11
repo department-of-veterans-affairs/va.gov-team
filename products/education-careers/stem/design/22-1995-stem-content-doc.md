@@ -192,7 +192,7 @@ Finish this application later]()
 
 Based on your responses, it appears you're not eligible.  
 
-** Your responses: **
+__Your responses:__
 { display X if user indicated "No", Checkmark if they indicated "Yes", or "?" if null }    
 Y  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
 Y  Have used all your education benefits or are within 6 months of doing so  
