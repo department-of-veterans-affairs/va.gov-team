@@ -88,8 +88,14 @@ Right now when a PR is created a link to the review instance will be populated i
 
 ## KPIs
 ### Objective
+Review instances are useful and fulfilling devs testing needs.
 
 ### Tracking
+- Number of users accessing review instances (increase)
+- Testing satisfaction using review instances (increases) 
+  - Working with Service Design team to gather this data
+
+
 ---
 
 # Implementation Information
