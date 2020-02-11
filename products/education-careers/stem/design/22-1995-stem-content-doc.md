@@ -191,8 +191,9 @@ Finish this application later]()
 
 Based on your responses, it appears you're not eligible.  
 
-__Your responses:__
-{ display X if user indicated "No", Checkmark if they indicated "Yes", or "?" if null }    
+{ display :heavy_multiplication_x: if user indicated "No", :heavy_check_mark: if they indicated "Yes", or "__?__" if null }    
+
+__Your responses:__  
 :heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
 :heavy_check_mark:  Have used all your education benefits or are within 6 months of doing so  
 :heavy_check_mark:  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
