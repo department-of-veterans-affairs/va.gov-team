@@ -43,7 +43,7 @@ You will need your browser configured to access the vetsgov-internal domain via 
 
 These instances are running on an independent virtual machine that includes an installation of both vets-api and vets-website with an nginx proxy in front getting requests to the right place.
 
-Anyone who is cleared by their COR to work on VSP and has already has access to the internal tools should be able to access these instances via SSH. Once logged in, you can modify the code already checked out and manipulate the review instances as necessary.
+The instances are accessible via SSH behind the [SOCKS proxy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#configure-the-socks-proxy) and code can be freely modified in place. See [Internal Tools Access](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#internal-tools-access) to gain access.
 
 ⚠️ Code is re-deployed on each commit which could result in lost changes local to the review instance ⚠️ 
 
