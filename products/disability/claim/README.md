@@ -1,7 +1,7 @@
 # 526 Original Claims on va.gov 
 - GitHub Label: [526](https://github.com/department-of-veterans-affairs/va.gov-team/labels/526)
 - Slack channel: n/a
-- Product POCs: Andrea Schneider
+- Product POCs: Andrea Schneider and Luke Majewski
 - va.gov link: https://www.va.gov/disability/how-to-file-claim/
 
 
@@ -235,14 +235,12 @@ Note that BVA has expressed that they are getting "hammered" with mail.
 |Name|Role|Email|
 |----|----|-----|
 |Andrea Schneider|DSVA Lead| andrea.schneider@va.gov |
-|Yana Roy |Product Manager| yroy@governmentcio.com |
+|Luke Majewski |Product Manager| lmajewski@governmentcio.com |
 |Kevin Stachura |Designer| kstachura@governmentcio.com |
-|Carolyn Williams |Designer| carolyn@adhocteam.us |
+|Christian Valla |Researcher| cvalla@governmentcio.com |
 |Nick Sprinkle | FE Engineer| nick.sprinkle@oddball.io |
 |Robin Garrison | FE Engineer| robin.garrison@adhocteam.us |
 |Silvio Luthi | BE Engineer | silvio@adhocteam.us |
-|Cameron Testerman | BE Engineer | cameron@oddball.io |
-|Tze-chiu Lei | QA Analyst | tze@adhocteam.us |
    
 ## Screenshots
 
