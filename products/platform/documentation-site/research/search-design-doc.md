@@ -2,7 +2,7 @@
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 
-**Last Updated:** 2020-02-10
+**Last Updated:** 2020-02-11
 
 **Status:** **Draft**
 
@@ -26,7 +26,7 @@ We are adding a public landing page that will contain a search input where users
 
 ### Detailed Design
 
-For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/), [Algolia's Search API](https://www.algolia.com/products/search/), and [Algolia's scraper](https://github.com/algolia/docsearch-scraper). 
+For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/), [Algolia's Search API](https://www.algolia.com/products/search/), and [Algolia's scraper](https://github.com/algolia/docsearch-scraper).
 
 In general, this kind of system requires the following components:
 
@@ -36,13 +36,21 @@ In general, this kind of system requires the following components:
 - Crawler/Scraper - We need a crawler to scan our documentation sources and push data to our index.
 - Pipeline - We need a way to routinely run the crawler
 
-Each one of the above components could be a separate buy-or-build decision. 
+Each one of the above components could be a separate buy-or-build decision.
 
-By leveraging the following existing technologies, we should only need to add the search input to the landing page, configure the scraper, and configure when to run the scraper. 
+By leveraging the following existing technologies, we should only need to add the search input to the landing page, configure the scraper, and configure when to run the scraper.
 
-- Algolia's Search API product will satisfy the index and API components. 
-- Algolia's open source JavaScript snippet will display search results to the user. 
-- Algolia's open source scraper will crawl and scrape our public documentation sources to push records into our index. 
+- Algolia's Search API product will satisfy the index and API components.
+- Algolia's open source JavaScript snippet will display search results to the user.
+- Algolia's open source scraper will crawl and scrape our public documentation sources to push records into our index.
+
+#### Where/when to run the scraper
+
+For the MVP, we will run the crawler in a scheduled job once every 24 hours in Circle CI.
+
+#### Private repos
+
+---
 
 ### Code Location
 
@@ -110,19 +118,19 @@ If the search input dispatched a request directly to the Algolia API, then there
 
 While there shouldn't be any PII in our public documentation sources, it is possible it exists, and hasn't been discovered yet. Therefore, it is possible that our search results could lead public users to sources that contain PII. If PII is discovered in a repo, we have a [checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/removing-sensitive-data-from-a-repository.md#checklist-for-removing-pii-in-md-file-from-a-documentation-repo) for how to remove it.
 
+#### Removing a record from Algolia
+
+1. Login to Algolia
+1. Navigate to the **Indices** page
+1. Use the search input to find the sensitive record(s)
+1. Click the trash can icon to open the deletion modal
+1. Click the delete button
+
+---
+
 ### Open Questions and Risks
 
-- Since the documentation landing page will be public only, we will not be able to search private sources of documentation. If searching private documentation becomes a necessary feature in the future, the proposed implementation will likely not be sufficient.
-- How often should we reindex our documentation sources? For perspective, Algolia's open source crawler runs every 24 hours.
-- What should the URL of the documentation landing page be? Since we have `design.va.gov`, does something like `docs.va.gov` make sense?
-- What is the current opportunity cost of building a custom solution? What are we choosing to delay right now by building a custom solution?
-- What is the future opportunity cost of maintaining a custom solution? What will we have to delay in the future by maintaining a custom solution?
-- What is the key person risk? How disruptive would it be if the author(s) of the custom solution were temporarily/permanently unavailable?
-- What is the Not-Invented-Here risk? How likely is that we're reinventing the wheel?
-- What is the inexperience risk? Have any of the team members involved ever built/deployed/maintained this type of system before?
-- It's possible that work estimates are materially inaccurate.
-- What is the documentation debt risk? At least one person interviewed during the discovery sprint said that we need a solution ASAP. Currently, the default documentation location is the [`va.gov-team` repo](https://github.com/department-of-veterans-affairs/va.gov-team). Is there a risk that people are deferring documentation in the present until the custom documentation solution is shipped, and/or adding/referencing/changing in the wrong place because they don't know where to find the correct documentation?
-- [Algolia's pricing](https://www.algolia.com/pricing/) includes a free tier called the Community plan. The Community plan includes 50k operations and 10k records, and doesn't include analytics (like recent search patterns). We currently have ~3k `*.md` files in the `va.gov-team` repo. If we exceeded those usage limits and/or wanted analytics, we would need a paid account.
+---
 
 ### Work Estimates
 
@@ -163,7 +171,8 @@ The recommendation from the discovery sprint is to build a custom documentation 
 
 ### Revision History
 
-| Date         | Revisions Made | Author        | Reviewed By |
-| ------------ | -------------- | ------------- | ----------- |
-| Jan 27, 2020 | Initial Draft  | Bill Fienberg |             |
+| Date         | Revisions Made         | Author        | Reviewed By |
+| ------------ | ---------------------- | ------------- | ----------- |
+| Jan 27, 2020 | Initial Draft          | Bill Fienberg |             |
 | Feb 10, 2020 | Update Detailed Design | Bill Fienberg |             |
+| Feb 11, 2020 | Answer open questions  | Bill Fienberg |             |
