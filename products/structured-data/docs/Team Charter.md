@@ -58,7 +58,7 @@ Wednesday - debrief any pertinent Team of Teams info + regular updates
 - Team of Teams on Tuesdays, which Sophie will attend and report back to team about during Wednesday’s standup
 
 **Team Norms**
-Show your face (Webcam) at meetings
-Speak up! - everyone’s voice matters
+- Show your face (Webcam) at meetings
+- Speak up! - everyone’s voice matters
  
 
