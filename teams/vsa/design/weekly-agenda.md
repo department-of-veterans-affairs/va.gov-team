@@ -1,5 +1,7 @@
 # UX Weekly Meeting Agenda
 
+Agendas currently updated in a Google Doc: https://docs.google.com/document/d/13PjVCyxoEQ-c-VYrKX9-iC1YKwCnHVKtJg9Bm5-_OEQ/edit#
+
 ## Wednesday November 8th
 * Shawna talk about survey results, discuss “document dilemma”
 * Shawna conference take-aways
