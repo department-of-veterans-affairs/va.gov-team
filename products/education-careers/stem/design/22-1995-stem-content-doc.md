@@ -212,7 +212,7 @@ Since it appears you're not eligible for the scholarship, would you still like a
 { if "No" display:
 If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
 
-[Explore other education benefits] { button } . 
+[Explore other education benefits](https://www.va.gov/education/eligibility/) { button } . 
 
 { end gray box }
 
