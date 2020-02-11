@@ -126,12 +126,12 @@ ________________________________________
 
 #### Rogers STEM Scholarship { Sub-head }  
 
-The [Edith Nourse Rogers STEM Scholarship]() is offered to students training in high-demand STEM (science, technology, engineering, and math) fields.  
+The [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/stem.asp) is offered to students training in high-demand STEM (science, technology, engineering, and math) fields.  
 
 **To be considered, you must meet all the requirements below. You:**  
 - Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits 
-- Have used all your education benefits or are within 6 months of doing so. [Check your remaining benefits]()
-- Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs]()
+- Have used all your education benefits or are within 6 months of doing so. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
+- Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
 
 
 Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
@@ -169,7 +169,7 @@ Do you have a STEM undergraduate degree and are now pursuing a teaching certific
 { if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
 
 Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do you have less than 6 months of benefits left? (*Required) 
-[Check your remaining benefits]()
+[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
 
 - Yes  
 - No   
