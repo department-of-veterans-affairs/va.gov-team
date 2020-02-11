@@ -117,10 +117,10 @@ Get a bash shell in one of the containers:
 These instances are destroyed when the non-master branch(es) they are related to are deleted or the instance is older than 7 days.
 
 
-### User Authentication
+## User Authentication
 
-ID.me SAML configuration requires explicitly defining a callback URL via a manual process. This callback URL receives authentication information after a successful authentication process. The review instance requires a special nginx configuration that intercepts the callback to the dev-api.vets.gov server, and forwards the authentication information to the appropriate review instance (mapped by the `RelayState` parameter, which is provided to the review instance vets-api config with the `REVIEW_INSTANCE_SLUG` environment variable).
+![Authentication Flow](products/identity-personalization/login/reference-documents/auth/review_instance_auth_flow.png)
 
-For implementation specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/roles/revproxy-configure/templates/nginx_revproxy.conf). The following sequence diagram presents an overview of this process:
+The review instance requires a special nginx configuration that intercepts the callback to the staging-api.va.gov server, and forwards the authentication information to the appropriate review instance (mapped by the `RelayState` parameter, which is provided to the review instance vets-api config with the `REVIEW_INSTANCE_SLUG` environment variable).
 
-![Authentication Sequence](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/images/2017-02-07-review-instance-authentication-sequence.png)
+For implementation specific details, see the [revproxy nginx configuration](https://github.com/department-of-veterans-affairs/devops/blob/master/ansible/deployment/config/revproxy-vagov/templates/nginx_revproxy.conf.j2#L181-L203).
