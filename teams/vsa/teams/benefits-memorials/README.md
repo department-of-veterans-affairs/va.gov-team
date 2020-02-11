@@ -27,17 +27,10 @@
   - [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
   
 
-# Implementation Information
-- [Status](#status)
+# Roadmap and Team
 - [Solution Narrative](#solution-narrative)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
-- [Resources and Documentation](#resources-and-documentation)
 - [Keywords](#Keywords)
 - [Team](#team)
-- [Screenshots](#screenshots)
 
 ---
 
@@ -66,7 +59,7 @@ Onboarding, access and domain knowledge has some upfront challenges.
 The key to implementing what has been learned is at least two-fold: stay organized and communicate as much as possible.  Notes are useless if they cannot be easily accessed and talking things through with your team allows for shared understanding, team cohesion and improved culture. 
 
 ## Solution Approach
-Identify and prioritize roadmap.
+Identify and prioritize roadmap, build out backlog, build out target dates of completed products.
 
 ## Value Propositions
 Probably the largest is the placement of resources closer to the user and their anticiapted increased usage.
@@ -75,63 +68,32 @@ Probably the largest is the placement of resources closer to the user and their 
 Having the same type of experience on a government website as they would on a private company website.
 
 #### Business Value
-Money spent on programs at the VA will be better utilized.
+Money spent on programs at the VA will be better utilized.  Increased usage of digital forms and auto establishment will further reduce costs.  Digital flows will also have additional validation and eliminate back-and-forth with claims personnel.  Each product will have a business value proposition that has more details.
 
 ## [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/VA%20KPI%20Setting%20-%20VSA%20Benefits%20and%20Appeals.xlsx)
 
-
 ---
-
-# Implementation Info
-
-## Status
-In progress
 
 ## Solution Narrative
 - **September 2019**: Established roadmap prioritizations, began work on Higher Level Review and Origial Claims 
 - **November 2019**: Finalizing "Higher Level Review" and "Original Claims"; started discovery of "Notice of Disagreement" and "BDD"
 - **December 2019**: Identifying how to handle Legacy Issues in HLR; Blocked by MVI to complete environment testing due to server error issues. Began business and technical research on Benefits Delivery at Discharge, Claim Status API and Notice of Disagreement.
+- **January 2020**: MVI integration for Original Claims (still being worked in February), finalize HLR design and work with AMO for approval, kick off Notice of Disagreement (delayed), begin working Benefits Delivery at Discharge plan (slightly delayed but plan completed by 2/7), lots of HLR bug fixes and updates based on accessibility reviews, prepare forms 8940 and 4192 for launch.
+- **February 2020**: Complete MVI integration and complete Original Claims.  Possibly launch at the end of the month but given the MVI integration schedule it is not likely.  Complete HLR design and implementation, also shoot for March launch.  Get through initial usability testing with BDD.  Begin initial analysis of NOD, not expected to be prioritized over Original Claims, BDD, and HLR.
 
-## How to Access and Test
-- Link: [526 Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction): 
-- Password protection info:
-- User authentication info: 
-
-## Error Handling
-...
-
-## Service Level Objective
-...
-
-## API Calls and Dependent Systems
-...
-
-## Resources and Documentation
-
-- Discovery and Research
-- Technical Documentation
-- Product specs
-- Design
 - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/Benefits%20and%20Memorials%20Roadmap.png)
-- ATO documentation
+- ATO documentation: Part of general VSA ATO - Luke will update with a link when he finds one.
 
 ## Keywords
-vsa-benefits, HLR, 526, vsa-decision-review, NOD, Supplemental Claim
+vsa-benefits, HLR, 526, vsa-decision-review, NOD, Supplemental Claim, BDD, Original Claim
 
 ## Team
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA Product Manager   |Andrea Schneider                    |
-|Team Product Manager   |Yana Roy                            |
+|Team Product Manager   |Luke Majewski                       |
 |Back End Engineer      |Silvio Luthi                        |
-|Back End Engineer      |Cameron Testerman                   |
 |Front End Engineer     |Nicholas Sprinkle                   |
 |Front End Engineer     |Robin Garrison                      |
 |Design Researcher      |Christian Valla                     |
 |Design Researcher      |Kevin Stachura                      |
-
-### Screenshots
-#### Before
-...
-#### After
-...
