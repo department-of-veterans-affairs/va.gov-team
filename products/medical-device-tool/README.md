@@ -17,7 +17,7 @@
 - [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)
 - [Launch Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/launch-checklist.md)
 - [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/research)
-
+- [Design](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool/design)
 
 ## Team
 
