@@ -1,4 +1,4 @@
-# VSA Delivery
+# VSA Delivery (Deprecated. Go [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/README.md) for current.)
 
 Delivery of VSA work currently happens in 2 week sprints, informed by high level objectives set on a quarterly basis. There are planning sessions that occur on the Sprint planning day before each new sprint, so that teams can collectively plan out their Sprint objectives and the work needed to achieve them. 
 
