@@ -59,7 +59,7 @@ Essentially, a requirement is a way to describe what needs to be implemented. Re
 
 ### Epics
 
-Epics are a high level business needs and expressed the strategic intent in plain, clear language. Hhere is the [EPIC TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/epic-issue.md) 
+Epics are a high level business needs and expressed the strategic intent in plain, clear language. Here is the [EPIC TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/epic-issue.md) 
 
 #### Examples:
 * [Facility Locator Urgent Care MVP](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4193)
@@ -67,7 +67,7 @@ Epics are a high level business needs and expressed the strategic intent in plai
 
 ### Issues
 
-Issues (also known are User Stories) are decomposed Epics that can be completed within a single sprint. Issues describe a specific functionality that delivers direct business value. Here is the [USER STORY TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/user-story-template.md)
+Issues (also known are User Stories) are decomposed Epics that can be completed within a single sprint. Issues describe a specific functionality that delivers direct business value. Here is the [USER STORY TEMPLATE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/standard-issue.md)
 
 #### Examples:
 * [Suppress urgent care pharmacy searches within Community Care](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5129)
