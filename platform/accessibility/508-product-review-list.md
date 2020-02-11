@@ -36,6 +36,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [Pittsburgh Side Navigation (CMS)](#pittsburgh-side-navigation-cms)
     * [GI Bill Comparison Tool School Certifying Official Documentation](#gi-bill-comparison-tool-school-certifying-official-documentation)
     * [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
+    * [eBenefits Rated Disabilities](#ebenefits-rated-disabilities)
     * [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
     * [New Project Name](#new-project-name)
 
@@ -451,8 +452,6 @@ Each application or logical section of the site will have a heading and a detail
 **[Filtered list of issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4619)**<br/>
 
 #### Open Issues
-* [[SCREENREADER, KEYBOARD]: Focus on page load is on the breadcrumbs, but needs to be at the top of the page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4756)<br/>
-   **Opened:** January 10, 2020 | **Severity:** 508-defect-0 - **_Showstopper_**
 * [[SCREENREADER, COGNITION]: Screenreader experience of reading service-connected or not disabilities isn't clear](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4784)<br/>
    **Opened:** January 13, 2020  | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER] Individual disabilities currently in individual `<dl>` would be improved in a single `<dl>`](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4637)<br/>
