@@ -27,12 +27,12 @@
 ## Undesired User Outcomes
 
 
-## Desireed Business Outcomes
+## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-## Undesireed Business Outcomes
+## Undesired Business Outcomes
 
 ## Assumptions
 - *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
