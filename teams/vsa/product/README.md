@@ -1,12 +1,5 @@
 # VSA Product Management
 
-## Communication channels
-- Slack channels: #vsa-product
-
-### Points of contact
-The Product points of contact are:  
-- [Mickin Sahni], @mickin on Slack
-
 ## Contents
 The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the Slack channels and people listed above.
 ### Product Documentation
@@ -38,3 +31,12 @@ The following resources compiled by the people in your practice area to help you
   - [Vets/VA Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=972187789)
   - [Access to Error Logging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/engineering/internal-tools.md)
   - [VA.gov Form Mapping Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/va.gov-form-mapping-guide.xlsx)
+  
+  
+---
+## Communication channels
+- Slack channels: #vsa-product
+
+### Points of contact
+The Product points of contact are:  
+- [Mickin Sahni], @mickin on Slack
