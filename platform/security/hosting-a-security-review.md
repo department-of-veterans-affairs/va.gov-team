@@ -1,8 +1,8 @@
 # Hosting a security review
 
-Audience: VSP security reviewers
-Context: details and process for hosting a security review
+**Audience**: VSP security reviewers
 
+**Context**: details and process for hosting a security review
 
 ## Philosophy
 
