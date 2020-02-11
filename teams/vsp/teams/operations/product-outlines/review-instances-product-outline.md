@@ -1,8 +1,8 @@
 # Review Instances Product Outline
 
 ## Points of Contact
-- GitHub Label: 
-- Slack channel: 
+- GitHub Label: None
+- Slack channel: #vsp-operations
 
  
 ---
@@ -31,6 +31,8 @@
 ---
 # Executive Summary
 
+There are two type of review instances we use on VA.gov. the first is for testing content or any visual changes (Heroku instance) that may need to be made. The secound is 
+
 ## User Problem Statement
 
 
@@ -56,7 +58,8 @@
 
 ## How it works
 
-
+### How to access
+- Please see instructions [here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md)
 
 ## The Plan
 
