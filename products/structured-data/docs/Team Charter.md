@@ -10,23 +10,23 @@
 - Pull Request/Merging Etiquette - TBD
 
 **ZenHub:** VFT board (labels: structured-data + form 530)
-- Icebox: Blocked until other work is completed
-- Backlog: Ready to be worked
-- In Progress: Work that is in progress
-- Validate: Work that is completed but is pending a review or other action from someone outside the team
-- Closed: Work that has been reviewed and completed
+- **Icebox:** Blocked until other work is completed
+- **Backlog:** Ready to be worked
+- **In Progress:** Work that is in progress
+- **Validate:** Work that is completed but is pending a review or other action from someone outside the team
+- **Closed:** Work that has been reviewed and completed
 Issue Etiquette
 
 For an issue to go into the Backlog pipeline, it must have the following:
-- Title: Describes task
-- User story: Describes what we’re going to build or do from the end user’s perspective
-- Tasks: Describe what needs to be done
-- Acceptance Criteria: What needs to happen for this story to be closed
-- Nested in an Epic:
-1. Vets-api integration with BGS
-2. Vets-api integration with Claims
-3. Vets-api integration with eFolder
-4. Vets-api integration with BPD
+- **Title:** Describes task
+- **User story:** Describes what we’re going to build or do from the end user’s perspective
+- **Tasks:** Describe what needs to be done
+- **Acceptance Criteria:** What needs to happen for this story to be closed
+- **Nested in an Epic:**
+ 1. Vets-api integration with BGS
+  2. Vets-api integration with Claims
+  3. Vets-api integration with eFolder
+  4. Vets-api integration with BPD
  
 ### Workflow + Cadence
 Our project cadence will be determined by our release plan (rather than sprints) since we will be releasing on a frequent basis. There will be four release cycles with intermittent PRs throughout.
