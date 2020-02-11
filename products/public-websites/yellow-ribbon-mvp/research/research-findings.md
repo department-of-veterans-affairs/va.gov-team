@@ -173,6 +173,19 @@ We spoke to 10 Veterans (referred to as “users”) who were geographically spr
   - 2 users expressed confusion around "decision" language on the Yellow Ribbon hub page (subway map). They were unsure as to what the decision process was, or how they would be informed of the decision (phone, email, or mail) *"This tells me someone is making a decision about this - what are the deciding factors, if I know I'm eligible?"*
   - One user commented that they felt the eligibility information would be overwhelming for someone with TBI (this user is a full-time caregiver for her partner, who suffers from TBI)
 
+## Hypothesis & Results
+
+- Veterans find the current presentation of YR information tedious to parse through
+  - False. They did not have trouble with the current presentation
+- Veterans know the degree level, and either city, state, or name of the school they're interested in when they begin their research
+  - True. See findings 2 and 3.
+- Sorting, filtering, and side-by-side comparison functionality will be helpful for Veterans
+  - True. See findings 8 and 9
+- Benefit amount will be the most important variable in the search results
+  - Partially true.  Assuming that the program and degree type were already relevant in the search results, then benefit amount becomes important
+- Veterans will be confused about the difference between this and the GIBCT, and not understand the need for two separate tools
+  - False.  8 out of 10 participants were not aware of the GIBCT, and those that were aware understood the distinction.
+  
 ## Recommendations
 
 #### Yellow Ribbon MVP
