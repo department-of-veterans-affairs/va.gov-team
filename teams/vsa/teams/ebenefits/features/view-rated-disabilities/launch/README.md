@@ -129,16 +129,16 @@ Error handling might be iterative.
 - [x] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform [#3099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3099)
 
 ### Testing
-- [ ] Create a test plan from an overall engineering perspective  
+- [x] Create a test plan from an overall engineering perspective  
   - [x] Build, test, audit (508, content, security, load, CI/CD, passing on all browsers, etc) in a feedback loop  
   - [x] Code coverage requirements (unit tests)
 - [x] Develop testing infrastructure, refer to established documentation  
-- [ ] Define threshold or definition of high-severity bugs
+- [x] Define threshold or definition of high-severity bugs
 - [ ] Document any high-severity bugs for future reference  
-- [ ] Establish contacts for errors to be reported to
-  - [ ] Errors get sent directly to the team
+- [x] Establish contacts for errors to be reported to
+  - [x] Errors get sent directly to the team
 - [x] Establish steps to take to move feature into [staging](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md) or within 
-- [ ] Tested in prod with back-of-house people and systems
+- [x] Tested in prod with back-of-house people and systems
 
 ## Analytics
 - [x] Confirm that the new feature/product is stable and visible in staging.va.gov  
@@ -156,20 +156,20 @@ Error handling might be iterative.
 
 
 ## Pre-release Plan
-- [ ] Call Center is prepared for launch with updated scripts/documentation as needed
-- [ ] ~VA web comms team is aware of this launch and has accurate messaging~ _Not for RD_
-- [ ] Product Outline is updated
-- [ ] Downtime UX and error messaging documentation complete
-- [ ] "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
+- [x] Call Center is prepared for launch with updated scripts/documentation as needed
+- [x] ~VA web comms team is aware of this launch and has accurate messaging~ _Not for RD_
+- [x] Product Outline is updated
+- [x] Downtime UX and error messaging documentation complete
+- [x] "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
 
 ## Release Plan
-- [ ] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [x] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch
-- [ ] Define what is being tracked
-- [ ] Define other last minute items
-- [ ] Review the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
-- [ ] Go/No-go from each team member
+- [x] Define what is being tracked
+- [x] Define other last minute items
+- [x] Review the [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [x] Go/No-go from each team member
 
 ## Post-Mortem
 - [ ] List and define any issues that impeded the process
