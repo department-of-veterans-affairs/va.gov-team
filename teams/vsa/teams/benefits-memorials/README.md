@@ -20,7 +20,7 @@
 - [KPIs](#kpis)
 - [Features](#features)
   - [Decision Review: Higher Level Review and Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews)
-  - [Original Claims](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/original-claims)
+  - [Original Claims](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/claim)
   - [Benefits Delivery at Discharge](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/disability-compensation-claim/bdd)
   - [Claim Status API](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/claim-status-api)
   - [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
