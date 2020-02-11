@@ -17,13 +17,15 @@
   - Can the `EVSS_Sustainment_CM` stream be checked out into Eclipse as a project, rather than browsing files in the repository?
   - Can the project be setup/configured to run locally?
   - There are multiple projects under `evss-wss-wss-686-services`, what are the main differences between the `wss-686-services`, `wss-686-api`, and `wss-686-services-web` projects? 
-  
+  - Is the user able to complete part of the form, save it, and come back to it later?  
+  - What gets called when the user clicks submits (and save, if applicable).
 - Schedule meeting with EVSS Sustainment team for demo/walkthrough.  
 - Review eBenefits code.
   - Understand the workflow and code setup, in order to trace the steps from UI process and what gets called on the backend.
   - Understand requirements for formatting and validating data.
   - Understand how VNP plays a role in the form 686 submission process.
   - Document each step in the process flow of submitting a completed 686 on eBen.
+  - Understand error handling!
 - Create plan for implementing in vets-api.
   - Confirm/validate that ECSP requests have been submitted and access has been granted to vets-api for all required endpoints. (Testing on dev?)
   - Create new endpoints within vets-api for each of the steps that currently exist in eBen.
