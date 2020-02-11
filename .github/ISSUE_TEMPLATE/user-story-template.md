@@ -10,19 +10,22 @@ assignees: ''
 ## User Story:
 As a __________, I need __________ so that I can __________.
 
+---
+
+## Acceptance Criteria / Definition of Done:
+_Must be met in order to mark this user story as completed_
+* Testable Outcome X
+* Testable Outcome Y
+* Testable Outcome Z
+
 ## Tasks
-The steps that must be done by the team to complete the acceptance criteria
+_The steps that must be done by the team to complete the acceptance criteria_
 
 * First thing we need to do
 * Second thing we need to do
 * Third thing we need to do 
 
-## Acceptance Criteria / Definition of Done:
-_The requirements that must be met in order to mark this user story as completed_
-* Testable Outcome X
-* Testable Outcome Y
-* Testable Outcome Z
-
+---
 ## Issue Set-up / Configuration
 - [ ] **Attached to a Milestone** (when will this be completed?)
 - [ ] **Attached to an Epic** (what body of work is this a part of?)
