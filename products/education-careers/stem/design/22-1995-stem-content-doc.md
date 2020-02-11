@@ -9,7 +9,6 @@ Breadcrumb: [Home]() > [Education]()
 
 Equal to VA Form 22-1995 (Request for Change of Program or Place of Training)
 
-
 { if logged out }
 
 { Note } 
@@ -194,15 +193,15 @@ Based on your responses, it appears you're not eligible.
 
 __Your responses:__
 { display X if user indicated "No", Checkmark if they indicated "Yes", or "?" if null }    
-Y  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
-Y  Have used all your education benefits or are within 6 months of doing so  
-Y  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
+:heavy_check_mark:  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
+:heavy_check_mark:  Have used all your education benefits or are within 6 months of doing so  
+:heavy_check_mark:  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
   
-X  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
-X  Have used all your education benefits or are within 6 months of doing so  
-X  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
+__X__  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits  
+__X__  Have used all your education benefits or are within 6 months of doing so  
+__X__  Are enrolled in an undergraduate degree program for STEM, **or** have already earned a STEM degree and are pursuing a teaching certification  
 
-?  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
+__?__  Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits   
   
 Since it appears you're not eligible for the scholarship, would you still like apply and let us determine your eligibility? (*Required) 
 
