@@ -1,6 +1,4 @@
-# Structured-Data Team Charter
-
-## How we work
+# How we work
 
 ### Documentation:
 **Google Drive:** https://drive.google.com/open?id=1lP6czKPYp0Qk0XalnG2CLLTxlnbS-WsN 
@@ -34,16 +32,13 @@ For an issue to go into the Backlog pipeline, it must have the following:
 Our project cadence will be determined by our release plan (rather than sprints) since we will be releasing on a frequent basis. There will be four release cycles with intermittent PRs throughout.
 
 - **Stand-up:** Check in on people and product progress
-Mon + Weds @ 2:30 PM EST
-30 min
-Monday - draft and review the Team of Team Slides + regular updates
-Wednesday - debrief any pertinent Team of Teams info + regular updates
+Mon + Weds @ 2:30 PM EST for 30 min
+  - Monday: draft and review the Team of Team Slides + regular updates
+  - Wednesday: debrief any pertinent Team of Teams info + regular updates
 - **Release Planning:** Outline work to be done this release in order to accomplish the team's goals
-1st Tuesday of every release
-1 hour
+1st Tuesday of every release for 1 hour
 - **Grooming:** Review and adjust planned stories
-1 Friday of every release
-45 min
+1 Friday of every release for 45 min
 
 ### Communication
 **Slack:**
@@ -57,7 +52,7 @@ Wednesday - debrief any pertinent Team of Teams info + regular updates
 - Grooming Friday mid-release
 - Team of Teams on Tuesdays, which Sophie will attend and report back to team about during Wednesday’s standup
 
-**Team Norms**
+### Team Norms
 - Show your face (Webcam) at meetings
 - Speak up! - everyone’s voice matters
  
