@@ -2,7 +2,7 @@
 
 **Digital Services Veterans Affairs (DSVA), VSA, Public Websites**<br>
 
-Liz Lantz (liz.lantz@adhoc.team), 02/10/2020
+Liz Lantz (liz.lantz@adhoc.team), 02/11/2020
 
 View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/jan-2020-usability-test.md).
 
@@ -65,17 +65,17 @@ We spoke to 10 Veterans (referred to as “users”) who were geographically spr
 
 5. Using the prototype, users were easily able to complete research on Yellow Ribbon schools, and compare options.  
 
-6. Some language in the prototype was confusing and/or ambiguous to users at first.  After looking through the search results, and comparing values against one another, they had a better guess as to what certain pieces of information meant, but weren't fully confident.
+6. Some language was confusing and/or ambiguous to users at first.  After looking through the search results, and comparing values against one another, they had a better guess as to what certain pieces of information meant, but weren't fully confident.
 
 7. Once users had identified Yellow Ribbon participating schools that offer the degree and program they're interested in, benefit amount and the likelihood of receiving that benefit were the next most important pieces of information.
 
 8. In order to complete research more efficiently, users would benefit from being able to input more specific criteria to view schools that participate in Yellow Ribbon. 
 
-9. Users found the side-by-side comparision functionality helpful, though the majority expected to find additional information beyond what was presented in the search results when viewing the comparison table.
+9. 9 out of 10 users found the side-by-side comparision functionality helpful, though the majority expected to find additional information beyond what was presented in the search results when viewing the comparison table.
 
-10. The majority of users stated after completing a comparison and narrowing down school choices, their next step would be to get more information from the school.
+10. Users stated after completing a comparison and narrowing down school choices, their next step would be to get more information from the school.
 
-    
+      
 
 ## Details of Findings
 
@@ -91,7 +91,7 @@ We spoke to 10 Veterans (referred to as “users”) who were geographically spr
 
    - School ranking / quality of education
 
-   - Learning format - multiple participants were interested only in online classes, and one was interested strictly in in-person learning environments
+   - Learning format - multiple users were interested only in online classes, and one was interested strictly in in-person learning environments
 
    - *"It'll be a combination of cost, and who has the best program for what I'm looking for in our area"*
 
@@ -101,9 +101,9 @@ We spoke to 10 Veterans (referred to as “users”) who were geographically spr
 
    - Most users we spoke to don't currently rely on the VA for education or benefit information.  *"I'd start on the VA website, and get confused and lost in the infinite pages that lead back to each other, and then just google and go to the military websites that essentially decrypt the VA website"*
 
-   - Many participants were focused on the Post-9/11 GI Bill benefit more than others because of it's comprehensive coverage of education costs *and* housing.
+   - Many users were focused on the Post-9/11 GI Bill benefit more than others because of it's comprehensive coverage of education costs *and* housing.
 
-   When asked to use va.gov to research Yellow Ribbon information, only one participant was successfully able to find the Yellow Ribbon page without site search.  The information on the Yellow Ribbon page was easily understood by the majority of the participants (see additional insights below for questions raised during the sessions)
+   When asked to use va.gov to research Yellow Ribbon information, only one user was successfully able to find the Yellow Ribbon page without site search.  The information on the Yellow Ribbon page was easily understood by the majority of the users (see additional insights below for questions raised during the sessions)
 
 4. **Users were able to complete research on Yellow Ribbon schools with the current presentation of Yellow Ribbon information** (accordion set listed by state containing links to individual state page with tabular list of schools). Comparison would be a manual process for them with this content format. Since users had schools in mind when seeking out Yellow Ribbon information, navigating by state was easy for them, and they quickly understood schools were listed alphabetically in the table.   Three opportunities to improve the UX were identified:
 
@@ -111,26 +111,25 @@ We spoke to 10 Veterans (referred to as “users”) who were geographically spr
    - One user expressed frustration having to contiunously scroll up and down to verify what the column he was looking at meant
    - Starting with a geographic location made it unintuitive to find online programs. "Trying to identify an online school by the state that it's based out of might make it difficult"
 
-5. **Using the prototype, users were easily able to complete research on Yellow Ribbon schools, and compare options**.  Multiple participants reacted postiively to the simplicity and straightforward presentation of the content on the intital landing screen.  Points of confusion for participants were a result of the language and content rather than the user interface itself.
+5. **Using the prototype, users were easily able to complete research on Yellow Ribbon schools, and compare options**.  Multiple users reacted postiively to the simplicity and straightforward presentation of the content on the intital landing screen.  Points of confusion for users were a result of the language and content rather than the user interface itself.
 
    - A user with TBI/PTSD commented on the landing page: *"A lot of white space keeps it from getting cluttered in my mind."*
    - *"This to me is a lot easier than having to scroll through a bunch of stuff. I prefer things where I can just type it in, search, and be done."*
-   -  A user comment on the results page: *"I think that breaks it down without giving an overwhelming amount of information"*
+   - A user comment on the results page: *"I think that breaks it down without giving an overwhelming amount of information"*
 
-6. Some language in the prototype was confusing and/or ambiguous to users at first.  After looking through the search results, and comparing values against one another, they had a better guess as to what certain pieces of information meant, but weren't fully confident.  Many users stated they would contact a person the school (admissions or VA Resource office) to confirm benefit information.
+6. Some language was confusing and/or ambiguous to users at first.  After looking through the search results, and comparing values against one another, they had a better guess as to what certain pieces of information meant, but weren't fully confident.  Many users stated they would contact a person the school (admissions or VA Resource office) to confirm benefit information.
 
    - The **Maximum Benefit Amount** label left users unsure whether that applied to a specific period of time, and if so, what that timeframe might be.  
-   - The term "**unlimited**" (benefit amount and number of students) was confusing to users who didn't have a strong understanding of how the Yellow Ribbon program worked (which was most of them)  *"What does unlimited mean? Everything has a limit."*
+   - The term "**unlimited**" (benefit amount and number of students) was confusing to users who didn't have a strong understanding of how the Yellow Ribbon program worked (7 of 10)  *"What does unlimited mean? Everything has a limit."*
+   - The word **"division"** on the current Yellow Ribbon pages was confusing to one user. *"I think there's four divisions in a school...and I'm assuming it doesn't matter what the school is in?"*
    - Users did not know what to expect from the search field labeled **School location, state, or campus**. *"All three of those are different, unless it'll list it as one option?"*
    - **Degree Type** was also problematic. 
      - In the search field, users interpreted that to be more specific than the degree level. They expected to see specific programs such as "Masters in Business Administration".  
      - On the results page, the word **All** was ambiguous to several users. "When it says degree type all, I don't know what that means...my assumption that is just a generic response. But there's no way these schools offer every kind of undergraduate degree"
 
-7. Once users had identified Yellow Ribbon participating schools that offer the degree and program they're interested in, **benefit amount and the likelihood of receiving that benefit** were the next most important pieces of information. Upon reading the "funding available for" number, many users asked some variaion of "what are my chances of actually getting this money?" and stated that would be an important factor in determining whether or not they'd want to move foward with that school. 
+7. Once users had identified Yellow Ribbon participating schools that offer the degree and program they're interested in, **benefit amount and the likelihood of receiving that benefit** were the next most important pieces of information. Upon reading the "funding available for" value, many users asked some variaion of "what are my chances of actually getting this money?" and stated that would be an important factor in determining whether or not they'd want to move foward with that school. *"If I'm applying to the school, I'm definitely going to ask how many students did you already give the funding to"*
 
-   - "If I'm applying to the school, I'm definitely going to ask how many students did you already give the funding to"
-
-8. In order to complete research more efficiently, **users would benefit from being able to input more specific criteria** to view schools that participate in Yellow Ribbon.  The prototype included 3 search fields (`school name`, `degree type`, and `location, state, or school campus`) that could update  results, and users were prompted to show the moderator how they might reduce the number of results.  Multiple participants felt the applying folllowing criteria give them a set of results more relevant to their interests:
+8. In order to complete research more efficiently, **users would benefit from being able to input more specific criteria** to view schools that participate in Yellow Ribbon.  The prototype included 3 search fields (`school name`, `degree type`, and `location, state, or school campus`) that could update  results, and users were prompted to show the moderator how they might reduce the number of results.  *"The more metrics you could put to allow someone to further specify search, would make it more usable and more likely to be used."* Multiple users felt the applying folllowing criteria give them a set of results more relevant to their interests:
 
    - Specific area of study
    - More specific with the location (e.g. a specific city or zip code radius)
@@ -138,52 +137,79 @@ We spoke to 10 Veterans (referred to as “users”) who were geographically spr
    - Benefit available for most students
    - Online or in-person only
 
-9. Users found the side-by-side comparision functionality helpful, though the majority expected to find additional information beyond what was presented in the search results when viewing the comparison table.
+9. **9 out of 10 users found the side-by-side comparision functionality helpful, though the majority expected to find additional information** beyond what was presented in the search results when viewing the comparison table.  On the search results page:
 
-10. The majority of users stated after completing a comparison and narrowing down school choices, their next step would be to get more information from the school.
+   - Users immediately noticed the `add to compare` button for each school
+   - They also immediately noticed the `compare search results >` link that appeared when a school was added. One user commented that the green color made them think it wasn't part of the tool because all everything else was blue, and that they wouldn't normally pay attention to anything down there. *"You don't normally look down at the bottom because that's where all of your junk stuff pops up"*
+   - 9 out of 10 users understood that clicking a checked `Added` button would remove the school from their list
+
+   On the comparison table page, when asked how they might update the list they created, 9 out of 10 users clearly understood the functionality to remove a school, and stated they'd go back to the search results if they wanted to add more. 
+
+   - One user thought clicking the red `X` button might reveal additional information and could not be certain what would happen if he clicked it (it was not interactive in the prototype).
+   - Additional information users expected to see on the comparison page included total out-of-pocket costs, school ranking information, contact information for the school, and a link to the school website.
+
+10. Users stated after completing a comparison and narrowing down school choices, their **next step would be to get more information from the school**. The majority stated they expected to go to the school website; 2 users said they expected contact information or a way to get in touch with a VA resource at the school.  The school name was the most common area a user expected to click to get this additional info. *"Now, how do I contact the schools?"*
 
 ## Additional Insights
 
-- The majority of users spoke to confusion or lack of information around understanding their Yellow Ribbon
+- Half of users stated it was difficult to find information about their Yellow Ribbon benefit that they trusted and could understand.   *"Honestly, the only thing I know about Yellow Ribbon is conflicting information"*.  When the moderator prompted them to talk about the benefits available to them through the VA, 9 out of 10 participants mentioned the GI-Bill, about half mentioned VOC Rehab, and even fewer mentioned Yellow Ribbon.  
 
-- Users had a difficult time finding Yellow Ribbon information through the information architecture on va.gov
+  - Two users spoke to receiving benefits without having to do anything at all (and thus didn't build an understanding of how they work); they met with a financial aid officer who took care of everything for them. *"I just talked to my financial aid officer and he just did the rest of it"* 
+  - Several users commented on the Fry Schloarship when seeing that on the Yellow Ribbon page wondering what that was and saying they hadn't heard of it.
+  - Multiple users were active duty when the Post-9/11 GI Bill became active (one called themselves a "bridge veteran" because of this) and had to choose
+  - Multiple users were unclear how Yellow Ribbon worked with other non-VA scholarships or assistance, such as FAFSA and expressed needing more clarity in that area.  One user was also unsure how their benefits worked across state lines.
+
+- Users had a difficult time finding Yellow Ribbon information through the information architecture on va.gov. However, most stated they'd start their research on Google, and the Yellow Ribbon page ranks first in search results for that term.
 
   - Those who were somewhat familiar with the Yellow Ribbon program clicked on one of the links on the education card on the home page (see below)
+  - The study further validated a known va.gov issue; most participants didn't scroll past the "faux footer" (image of a row of people) at the bottom of the first section of the page.
   - Many resorted to site search when they were unsuccessful after 2-3 clicks on hub pages.
   - Most users first clicked on the Education heading when looking for this information. 
 
   <img src="/Users/elizabethlantz/Desktop/screenshots/Screen Shot 2020-02-06 at 5.23.23 PM.png" alt="Screen Shot 2020-02-06 at 5.23.23 PM" style="zoom:25%;" />
 
-- The majority of participants found the Yellow Ribbon hub page to be easy to understand and helpful. 
+- Once they landed on the page, the majority of users found the Yellow Ribbon hub page to be easy to understand and helpful.  Some commented that while it was a lot of information to digest, they were glad it was all in one place.
 
-  - 2 users expressed confusion around "decision" language on the Yellow Ribbon hub page (subway map)* "This tells me someone is making a decision about this - what are the deciding factors, if I know I'm eligible?"*
+  - 2 users expressed confusion around "decision" language on the Yellow Ribbon hub page (subway map). They were unsure as to what the decision process was, or how they would be informed of the decision (phone, email, or mail) *"This tells me someone is making a decision about this - what are the deciding factors, if I know I'm eligible?"*
   - One user commented that they felt the eligibility information would be overwhelming for someone with TBI (this user is a full-time caregiver for her partner, who suffers from TBI)
 
 ## Recommendations
 
-- Improve outreach effots to increase awareness around the benefits available to Veterans, and how they can use it
+#### Yellow Ribbon MVP
 
+- The overall user flow, and interface of the prototype worked well for the users interviewed; no changes recommended to those aspects.
 - Explore options for users to enter more specific criteria to find relevant schools
-
   - when conducting the intial search, or 
   - on the results page, filtering by the data points available for each school (program, degree, benefit amount, number of students)
   - Consider identifying in-person and online programs, and allowing users to search or filter by these criteria
-
 - Improve clarity of content across the product
-
   - **Maximum Yellow Ribbon Benefit Amount** should go back to **Maximum Yellow Ribbon Benefit Amount (per student, per year)** 
   - Change how **Degree type** is handled. 
     - Update label to **Degree Level** (or something similar) 
     - Add a field for program / area of study, if this is possible with our data
   - Explore ways we can update the word "all" to be more specific, given the constraints with the data we have access to
+  - Add clarity around the term "unlimited" for benefit amount and number of students
+- Update the design of the `compare search results` button so that it is more cohesive with the rest of the product's design, and does not compete with the promo banner on va.gov when it is present (discussed in detail at the  2/3/2020 Design & Content Sync meeting)
+- On the comparison table page: 
+  - Change the red `x` to the word `remove`. Although most users clearly understood the `x` button, spelling it out will ensure clarity for all users. This change was also recommended by the VA accessibility and platform teams prior to the beginning of this study
+  - Explore what additional, valuable information could be added to the comparison table based on the data we have available to us. 
+  - Link the school name to the school's website
 
-- TBD: Additional opportunities for research?
+#### **Additional Opportunities**
 
-  
+- Improve outreach efforts to increase awareness around the benefits available to Veterans, and how they can maximize them
+- Consider surfacing Yellow Ribbon information at a higher level in the information architecture.  
+- Consider adding more information to the Yellow Ribbon (and other benefit pages, where applicable) to add clarity around how the benefit works in conjuction with other funding opportunities
 
 ## Next Steps
 
-Next steps here
+**Present findings to the Yellow Ribbon team**; get input and insights on recommendations (2/11/2020)
+
+**Regroup with content to address opportunities for more clarity in MVP** (date TBD, Public Websites Sprint 15)
+
+**Make changes to design based on usability findings and content feedback** (date TBD, Public Websites Sprint 15)
+
+
 
 ## Appendix
 
