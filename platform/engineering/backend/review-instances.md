@@ -45,7 +45,7 @@ These instances are running on an independent virtual machine that includes an i
 
 Anyone who is cleared by their COR to work on VSP and has already has access to the internal tools should be able to access these instances via SSH. Once logged in, you can modify the code already checked out and manipulate the review instances as necessary.
 
-Note that each time a commit is pushed against the branch the instance was automatically provisioned from, an attempt will be made to update the instance to the latest version from that branch. This could result in lost changes if you develop both on the instance and locally.
+⚠️ Code is re-deployed on each commit which could result in lost changes local to the review instance ⚠️ 
 
 Both vets-website and vets-api are started and managed via Docker Compose using the `docker-compose.review.yml` at the top level of their repository. To check either of them:
 
