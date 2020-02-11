@@ -1,14 +1,14 @@
 ## Session Notes
 ### Participant #2
 
-	Tuesday, January 7 10:00am - 10:45am 	
-	Veteran 	
+	Tuesday,February 4, 11:00am –12:00pm 	
+	Veteran, Family Member 	
   	Female 	
   	White or Caucasian 	
-	45 - 54 	
-  	Master's degree 	
- 	Army 	
- 	MI 
+	35 - 44 	
+  	Bachelor's degree 	
+ 	Air Force 	
+ 	VA 
 
 ### Participant Info
 * 
