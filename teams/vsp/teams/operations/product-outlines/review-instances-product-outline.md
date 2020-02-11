@@ -112,6 +112,7 @@ Review instances are useful and fulfilling devs testing needs.
 - **January 21**: Mention review instance work on ToTs and teams reach out to find more. Conversations continue.
 - **January 31**: VFS and VSP meeting on review instances to provide more information and hear needs.
 - **February 5**: review instance demoed for VSP
+- **February 11**: Live, but some clean up needs done
 
 ## Dependencies
 
