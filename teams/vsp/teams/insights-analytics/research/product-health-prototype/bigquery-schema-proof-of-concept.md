@@ -10,7 +10,7 @@ To connect BigQuery to the Product Success Tool, the Analytics Insights team wou
 
   
   | Virtual Table Name | GA Dimensions | GA Metrics | Usage | Calculations | 
-  | --- | --- | --- |--- |
+  | --- | --- | --- |--- | --- |
   | Form Submissions, Successes, and Failures | ga:eventLabel | ga:TotalEvents | Used for error rates table | Error Rates = (sum of total events for failures)/(sum of total events for form submissions) by Product Area | 
   | Form Funnel | userId, sessionId, pagePath | pageViews | Used to calculate form funnel | TBD - Nedie and Jon to Pull BQ Recipe | 
   
