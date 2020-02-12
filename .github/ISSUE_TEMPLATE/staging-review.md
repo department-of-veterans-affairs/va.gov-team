@@ -26,6 +26,7 @@ assignees: andreahewitt-odd, meganhkelley
 - Link to Summary(defects) report in TestRail
 - Link to completed Accessibility Test Plan
 - Link to Release plan with planning criteria filled out [Template can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/97759a81a47c73da8bf03e35f3a13bb3c689d18b/platform/product-management/release-plan-template.md)
+- List of known 508 issues
 
 ## Review meeting attendees from **requesting team**
 
