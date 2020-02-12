@@ -13,6 +13,7 @@
 - Veterans can have hundreds of payments, so some way to paginate/ filter will be necessry
 - Assuming "returned payments" arrive from the same service as regular payments
 - Endpoint is theoretically BGS `PaymentInformationService` at http://bepdev.vba.va.gov/vrm-ws/PaymentInformationService?WSDL
+  - ESCP request reproved as of 20200212
 
 ## eBenefits Screenshots
 
