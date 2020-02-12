@@ -26,7 +26,7 @@ We are adding a public landing page that will contain a search input where users
 
 ### Detailed Design
 
-For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/), [Algolia's Search API](https://www.algolia.com/products/search/), and [Algolia's scraper](https://github.com/algolia/docsearch-scraper).
+For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/). This will use [Algolia's Search API](https://www.algolia.com/products/search/) to query Algolia's Hosted database (link needed), which will be populated by [Algolia's scraper](https://github.com/algolia/docsearch-scraper) using a configuration we supply (link needed).
 
 In general, this kind of system requires the following components:
 
