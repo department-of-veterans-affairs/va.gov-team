@@ -21,8 +21,7 @@ assignees: andreahewitt-odd, meganhkelley
 - Link to product outline
 - Link to Prototype or mockups
 - Link to Research plan
-- Link to Technical plan (figure out what this means)
-- Link to Test cases/test plan (even if just a draft) 
+- Link to Test cases/test plan in TestRail (even if just a draft) 
 
 ## Review meeting attendees from **requesting team**
 - **You**
