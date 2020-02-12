@@ -8,10 +8,14 @@ Every initiative should begin with a clear understand of a) the problem we inten
 
 ### Delivery
 
+
+
 #### Agile ceremonies
-- Details on the ceremonies can be found in the [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-ceremonies-overview.md)
+- [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-ceremonies-overview.md)
 - [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-checklist.md). 
 
+#### [Sprint Objectives](https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
+- Each team begins a sprint with objectives. These objectives help guide the team as they work towards OKRs they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
 
 #### Issue Templates and Examples
 | Issue Type | Examples |
