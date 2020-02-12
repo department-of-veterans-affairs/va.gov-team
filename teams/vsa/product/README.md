@@ -2,13 +2,30 @@
 
 ## Contents
 The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping #vsa-product or Mickin Sahni (@mickin).
+
+### Guideposts, OKRs, and Bets
+Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
+
+Teams establish Objectives and Key Results (OKRs) that advance them towards their vision. These OKRs are the outcomes a team works towards and includes measures of progress against those outcomes. OKRs are planned on a quarterly basis and revisited to drive subsequent planning/decision-making.
+
+Bets are hypotheses our teams develop to achieve their OKRs. These bets are initiatives, experiments, and MVPs that are delivered by the cross-functional team.
+
+Additional information about Guideposts, OKRs, and bets can be found [here.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
+
+![VSA Value-driven Framework](/VSA_Value-driven_Framework_Visual.png)
+
 ### Product Documentation
-#### [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
-Every initiative should begin with a clear understand of a) the problem we intend to solve and b) how we'll know if we'e solved it. We capture these details in product outlines. These may also be referred to as "briefs" or "specs". 
+#### Product outline
+- Every initiative should begin with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines. These may also be referred to as "briefs" or "specs". 
+- [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
+- Examples - tbd
+
+#### Roadmap
+- Each VSA product team publishes a "roadmap" of their OKRs and bets. It doesn’t include the typical timeline of assumed features. Rather it’s a hierarchical and time-bound view of how the bets the team’s made trace back to strategic goals.
+- Template - tbd
+- Examples - tbd
 
 ### Delivery
-
-
 
 #### Agile ceremonies
 - [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-ceremonies-overview.md)
