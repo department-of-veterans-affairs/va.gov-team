@@ -77,6 +77,8 @@ Prior to this work review instances were in a broken state for months and no one
 ## How it works
 Right now when a PR is created a link to the review instance will be populated in the PR that can be clicked and directed to the review instance. 
 
+[Demo video](https://dsva.slack.com/files/UJ2JYB7D2/FTYTGNLMV/review_instance_demo.mp4)
+
 ### How to access
 - Please see instructions [here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md)
 
