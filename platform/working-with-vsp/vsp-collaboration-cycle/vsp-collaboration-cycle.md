@@ -100,7 +100,7 @@ Meet with VSP practice area reviewers to catch anything in your prototypes or mo
 ### Artifact inputs
 You bring: 
 - Prototypes or mockups prepped for user testing
-- A draft of your test cases and/or test plan (for QA practice area review) 
+- A draft of your [test cases and/or test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) (for QA practice area review)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
@@ -255,7 +255,8 @@ Get feedback on your completed build before rolling out to users.
 ### Artifact inputs
 You bring: 
 - Access information for the tool or feature in staging
-- A link to your test cases/test plan in TestRail with test execution logs
+- A link to your [test plan](https://dsvavsp.testrail.io/index.php?/suites/view/2&group_by=cases:section_id&group_order=asc) in TestRail with [test results](https://dsvavsp.testrail.io/index.php?/runs/view/7&group_by=cases:section_id&group_order=asc)
+- A link to your [`Coverage for References`](https://dsvavsp.testrail.io/index.php?/reports/view/12) and [`Summary(Defects)`](https://dsvavsp.testrail.io/index.php?/reports/view/14) reports in TestRail
 - A [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
