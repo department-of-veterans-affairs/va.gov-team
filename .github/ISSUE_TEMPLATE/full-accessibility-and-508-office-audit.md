@@ -15,4 +15,4 @@ assignees: 1Copenut, jenstrickland
 
 ## Artifacts - _please provide the following artifacts when you request a full review_
 - Link to where the feature lives on staging and link to any user testing credentials in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility
-- Link to test cases/test plan in TestRail and test execution logs in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility
+- Link to completed Accessibility Test Plan
