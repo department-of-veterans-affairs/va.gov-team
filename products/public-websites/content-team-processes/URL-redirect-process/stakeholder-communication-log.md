@@ -59,3 +59,8 @@ www.benefits.va.gov/PENSION/resources-contact.asp | www.va.gov/pension/pension-m
 www.benefits.va.gov/pension/current_rates_veteran_pen.asp | www.va.gov/pension/veterans-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
 www.benefits.va.gov/pension/current_rates_survivor_pen.asp | www.va.gov/pension/survivors-pension-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 01/24/20 |  
 www.va.gov/healthbenefits/vtp/beneficiary_travel.asp | www.va.gov/health-care/get-reimbursed-for-travel-pay/ | Jennifer Heiland-Luedtke, Jeffrey Grandon | 02/06/20 | Redirects applied to both cases (upper/lower) of "Healthbenefits" and "vtp"
+https://benefits.va.gov/compensation/current_rates_dic.asp | www.va.gov/disability/survivor-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 |   
+https://benefits.va.gov/pension/current_rates_Parents_DIC_pen.asp | www.va.gov/disability/parent-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 |  
+https://www.benefits.va.gov/compensation/resources-rates-read-parentsdic.asp | www.va.gov/disability/parent-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 | 
+https://benefits.va.gov/compensation/resources-rates-read-dic.asp | www.va.gov/disability/survivor-dic-rates/ | Misty Sweet, Sandy Tadeo, Adrianne.Hooten | 02/18/20 |  
+
