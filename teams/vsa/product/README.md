@@ -8,18 +8,14 @@ Bets are hypotheses teams develop to achieve their OKRs.
 
 - Additional information about [Guideposts, OKRs, and bets.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
 
-<p align="center"><img src="./VSA_Value-driven_Framework_Visual.png" alt="VSA Value-driven Framework"
-	title="VSA Value-driven Framework" width="70%" height="70%" /></p>
-
-
 ### Product Documentation
 #### Product outline
-- Every initiative should begin with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines. These may also be referred to as "briefs" or "specs". 
+- Every initiative begins with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines, which may be referred to as "product briefs". 
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
 - Examples - tbd
 
 #### Roadmap
-- Each VSA product team publishes a "roadmap" of their OKRs and bets. It doesn’t include the typical timeline of assumed features. Rather it’s a hierarchical and time-bound view of how the bets the team’s made trace back to strategic goals.
+- Each VSA product team publishes a "roadmap" of their OKRs and bets. It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team’s made trace back to strategic goals.
 - Template - tbd
 - Examples - tbd
 
@@ -30,7 +26,7 @@ Bets are hypotheses teams develop to achieve their OKRs.
 - [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-checklist.md). 
 
 #### [Sprint Objectives](https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
-- Each team begins a sprint with objectives. These objectives help guide the team as they work towards OKRs they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
+- Each team begins a sprint with objectives. These objectives tailor the team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
 
 #### Issue Templates and Examples
 | Issue Type | Examples |
