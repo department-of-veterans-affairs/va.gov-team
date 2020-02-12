@@ -10,7 +10,9 @@ Bets are hypotheses teams develop to achieve their OKRs.
 
 - Additional information about [Guideposts, OKRs, and bets.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
 
-![VSA Value-driven Framework](./VSA_Value-driven_Framework_Visual.png)
+<p align="center"><img src="./VSA_Value-driven_Framework_Visual.png" alt="VSA Value-driven Framework"
+	title="VSA Value-driven Framework" width="70%" height="70%" /></p>
+
 
 ### Product Documentation
 #### Product outline
