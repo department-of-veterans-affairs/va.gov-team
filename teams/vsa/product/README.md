@@ -5,12 +5,10 @@ The following resources compiled by the people in your practice area to help you
 
 ### Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
-
 Teams establish quarterly Objectives and Key Results (OKRs) that advance them towards their vision. 
+Bets are hypotheses teams develop to achieve their OKRs. 
 
-Bets are hypotheses our teams develop to achieve their OKRs. 
-
-Additional information about [Guideposts, OKRs, and bets.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
+- Additional information about [Guideposts, OKRs, and bets.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
 
 ![VSA Value-driven Framework](./VSA_Value-driven_Framework_Visual.png)
 
