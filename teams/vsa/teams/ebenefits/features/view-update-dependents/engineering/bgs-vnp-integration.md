@@ -18,7 +18,8 @@
   - Can the project be setup/configured to run locally?
   - There are multiple projects under `evss-wss-wss-686-services`, what are the main differences between the `wss-686-services`, `wss-686-api`, and `wss-686-services-web` projects? 
   - Is the user able to complete part of the form, save it, and come back to it later?  
-  - What gets called when the user clicks submits (and save, if applicable).
+  - What gets called when the user clicks submits (and save, if applicable).  This will be the starting point for tracing the process flow.
+  - How does EVSS integrate with VNP or is it a seamless integration (with BGS to VNP)?
 - Schedule meeting with EVSS Sustainment team for demo/walkthrough.  
 - Review eBenefits code.
   - Understand the workflow and code setup, in order to trace the steps from UI process and what gets called on the backend.
