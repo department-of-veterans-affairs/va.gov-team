@@ -69,6 +69,7 @@ Prior to this work review instances were in a broken state for months and no one
 ### Direct mentions
 - https://dsva.slack.com/archives/CBU0KDSB1/p1581361696135200
 - https://dsva.slack.com/archives/CBU0KDSB1/p1579639667123500?thread_ts=1579636704.123000&cid=CBU0KDSB1
+- Launch of new review instances: https://dsva.slack.com/archives/CBU0KDSB1/p1581452208147200
 
 ## Decisions
 
