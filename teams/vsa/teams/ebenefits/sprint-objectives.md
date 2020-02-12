@@ -11,21 +11,25 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ----
 ## Sprint 15 (2/12 - 2/25)
 ```diff 
-- TBD
+- 36 points over 14 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
-- Design: Prepare and run user research session on 686c/674 vision
-- Frontend: Finish 50% of remaining FE workflows
-- Backend & Frontend: Finish View Dependents in lowers (pull real data into VA.gov staging from BGS lowers)
-- Backend: Document and recieve response from endpoints through BGS, assuming access is obtained
+- Design: Prepare and run user research session on 686c/674 vision ([#5786]())
+- Frontend: Finish 50% of remaining FE workflows ([#5786]())
+- Backend & Frontend: Finish View Dependents in lowers (pull real data into VA.gov staging from BGS lowers) ([#5469](), [#5662](), [#5799](), [#5660](), [#4909](), [#5654]())
+- Backend: Document and recieve response from endpoints through BGS, assuming access is obtained ([#3359]())
 
 ## 2. Prep View Payments
-- Product: Complete product documentation and user stories
-- Design: Review user stories and View Payments feature in eBenefits and make a lightweight first pass at the feature design
-- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments _(could be extremely lightweight voice interviews, just looking for pain points in the existing product)_
+- Product: Complete product documentation and user stories ([#5642*]())
+- Design: Review user stories and View Payments feature in eBenefits and make a lightweight first pass at the feature design ([#5645]())
+- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments ([#5645]())
+_(could be extremely lightweight voice interviews, just looking for pain points in the existing product)_  
+`*` - Not yet committed  
 
 ## 3. Stretch - Improve Product Infrastructre
-- Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature. _(Let us know what kind of Product-level support is needed.)_
+- Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature. 
+_(Determine what kind of Product-level support is needed.)_  
+`*` - Not yet committed
 
 ## Sprint 14 (1/29 - 2/11)
 ```diff 
