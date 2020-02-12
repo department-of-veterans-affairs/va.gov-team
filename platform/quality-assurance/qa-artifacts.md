@@ -11,7 +11,7 @@ A list of expected deliverables and explanation of their contents is listed belo
 
 ## Artifacts
 ### Regression Test Plan
-**Note: If you already have a regression test plan for your product's baseline in TestRail you can ignore this step.**
+**Note: If you already have a regression test plan for your product's baseline in TestRail you can forego this step.  However, as your changes are integrated you will need to continue to update your regression test plan to reflect the new baseline.**
 
 Regression test plans should represent a basic suite of test scenarios that cover the baseline functionality of your product prior to changes from your current development effort.
 - Example: [Regression Test Plan](https://dsvavsp.testrail.io/index.php?/suites/view/20&group_by=cases:title&group_order=asc)
