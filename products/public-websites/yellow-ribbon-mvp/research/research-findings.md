@@ -206,6 +206,7 @@ We spoke to 10 Veterans (referred to as “users”) who were geographically spr
 - Improve outreach efforts to increase awareness around the benefits available to Veterans, and how they can maximize them
 - Consider surfacing Yellow Ribbon information at a higher level in the information architecture.  
 - Consider adding more information to the Yellow Ribbon (and other benefit pages, where applicable) to add clarity around how the benefit works in conjunction with other funding opportunities
+- One participant had TBI and PTSD, and the other was a caregiver for a Veteran who was medically discharged for the same diagnosis.  During those sessions, challenges with the complexity of information available about benefits for those with TBI/PTSD came up. It would be worthwhile to conduct a study focusing on this user group to better understand how we can simplify our content to meet their needs.
 
 ## Next Steps
 
