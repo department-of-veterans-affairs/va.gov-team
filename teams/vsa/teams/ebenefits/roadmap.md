@@ -22,7 +22,7 @@ _Targets are dates in FY2020 unless otherwise noted_
 | Apply for Certificate of Eligibility (1880)         | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
 | View Specially Adapted Housing Grant Status         | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
 | Apply for Specially Adapted Housing Grant (4555)    | TBD           | Q3        | Q3        | Q3        | Q3        | New LGY integration required
-| Submit Disability Compensation (Original Claim)     | vsa-bam-1     | Q1        | --        | Q2        | Q2        | Blocked by MPI updates
+| Submit Disability Comp (526ez Original Claim)       | vsa-bam-1     | Q1        | --        | Q2        | Q2        | Blocked by MPI updates
 | Apply for VRE CH31 (1900)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 | Apply for VRE CH36 (8832)                           | TBD           | --        | --        | --        | --        | New VRE integration required (blocked)*
 | Update Direct Deposit (EDU)                         | vsa-ebenefits | Q3        | Q3        | Q4        | Q4        | 
