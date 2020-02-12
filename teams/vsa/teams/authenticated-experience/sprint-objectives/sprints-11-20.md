@@ -296,11 +296,11 @@ Frontend
 ### Order of priorities
 
 1. Bug fixes/508 for address validation
-2. Launch checklist for address validation
-3. Matt onboarding
-4. Profile 2.0 work
-5. Lodash work
-6. Documentation updates
+2. Launch checklist for address validation (including E2E testing, documentation)
+3. Profile 2.0 work
+4. Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+And we also have Matt onboarding!!
 
 ### Address validation
 
@@ -309,15 +309,18 @@ Frontend
 - Determine what analytics we need for this feature #5705
 - Create call center guide #5084
 - Create a release plan #5085
-- Security review/Privacy review/ Production readiness review [41](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/41)
   
 **Dev**
 
-- E2E tests, running in CI/CD, passing on all browsers #5005
 - Profile - Address Validation - Alert-messages copy incorrect #5466
 - Profile - Address Validation - Entered address selection IE11 quirk #5505
 - Profile - Address Validation - Firefox - Alert-message icon not aligned & spaced correctly #5553
+- E2E tests, running in CI/CD, passing on all browsers #5005
 - Stop using country name for va profile contact information endpoint #5591
+- Security review/Privacy review/ Production readiness review [41](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/41)
+- Address validation: Review product outline and update if needed #5256
+- Address validation flow to save / validate #5191
+- Conditional rendering of the address validation form is somewhat cumbersome #5193
 
 ### Profile 2.0
 
@@ -333,13 +336,19 @@ Tressa out most of the sprint. For when she is back:
 **Dev**
 
 - Convert profile phone number form to use SchemaForm #5118
+- Refactor direct deposit form #5816
+- Profile page scrolls when trying to submit invalid profile data #5458
+- Profile edit email modal validations on staging do not match production #5704
+- Release new profile forms to production and remove old legacy code #5817
+- Profile 2.0: Investigate saving contact information #5815
+- Profile page scrolls when trying to submit invalid profile data #5458
+- Profile edit email modal validations on staging do not match production #5704
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
-- [FE] Address validation: Review product outline and update if needed #5256
-- [FE] Direct Deposit: Review product outline and update if needed #5252
-- Profile page scrolls when trying to submit invalid profile data #5458
-- Remove lodash/fp from front-end application code #5257
+- [BE] Stop using country name for va profile contact information endpoint #5591
+- filter vet360 address fields in PII sanitizer #5736
+- Login: Investigate MHV/ID.me vulnerability [40](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/40)
 
 ## Sprint 16 (2/26 - 3/10)
 
