@@ -12,12 +12,16 @@ Bets are hypotheses teams develop to achieve their OKRs.
 #### Product outline
 - Every initiative begins with a clear understanding of a) the problem we intend to solve and b) how we'll know if we've solved it. We capture these details in product outlines, which may be referred to as "product briefs". 
 - [Product Outline Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md)
-- Examples - tbd
+- Examples 
+  - [VSA: Facility Locator Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/facility-locator-product-outline.md)
+  - [VSP Reviews Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/vsp-collaboration-cycle/product-outline.md)
+  - [VA Forms API Product Outline](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/VA%20Forms%20API%20Product%20Outline.md)
 
 #### Roadmap
 - Each VSA product team publishes a "roadmap" of their OKRs and bets. It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team’s made trace back to strategic goals.
 - Template - tbd
-- Examples - tbd
+- Examples 
+  - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
 
 ### Delivery
 
