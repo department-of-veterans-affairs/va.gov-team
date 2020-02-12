@@ -12,7 +12,7 @@
 
 ### Objective
 
-Add search functionality to a public documentation landing page
+Add search functionality to a public documentation landing page.
 
 ### Background
 
