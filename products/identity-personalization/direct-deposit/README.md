@@ -19,6 +19,7 @@ Last Updated December 10, 2019
 |Nick Sullivan |Original Engineering Lead (now on Platform)|
 |Erik Hansen | FE Engineer|
 |Lihan Li | BE Engineer |
+|Silvio Luthi | Original BE Engineer|
 |Tze-chiu Lei | QA Analyst |
 |Frank Bryceland | General eBenefits contact |
 |Melissa Rebstock | General eBenefits contact |
@@ -188,27 +189,7 @@ Currently, our team is preparing for launch. Our work haulted in June just after
 
 ## Error Handling
 
-### Showing direct deposit bank info
-
-**Endpoint:** `GET ppiu/payment_information`
-
-For any errors we get when trying to get the user's current direct deposit info, we show the following error message:
-![get error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20payment%20info%20server%20error.png)
-
-### Updating direct deposit bank info
-
-**Endpoint:** `PUT ppiu/payment_information`
-
-We also show error messages if errors come back from this endpoint. Depending on the error `key`s we get back, we might show special error messages.
-
-If we get a `key` value of `'cnp.payment.flashes.on.record.message'` we show the following error message:
-![put fraud error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20save%20error%20account%20flagged%20for%20fraud.png)
-
-If we get a `key` value of `'payment.accountRoutingNumber.invalidCheckSum'` we show the following error message:
-![put invalid routing error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20save%20error%20invalid%20routing%20number.png)
-
-All other errors get the following message:
-![put error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/error-messaging/dd%20save%20error%20general%20error.png)
+Error handling can be found [here](./error-handling/README.md).
 
 ## Service Level Objective
 
