@@ -8,6 +8,23 @@
   - platform strategy: use automation? audits? targeted review? training? 
 
 ## Notes
+- brooks: 
+  - infrastructure team used jest and used snapshot testing for individual components 
+  - Bill: Inline snapshot testing
+  - Dan: storybook - does a lot of the snapshot testing - each app would have its own storybook 
+- jest? 
+- Chris:
+  - how will we report test coverage? 
+  - how will that change as teams get more ownership of their application 
+- good vs bad unit tests 
+  - brooks: look at examples of good vs bad unit tests- maybe linting can help 
+  - bill: use data test ids for element querying in unit tests 
+- helpers
+  - DefinitionTester - form schema helper 
+- Two kinds of react applications
+  - forms apps: don't really deal with react components (most) 
+  - artisan stuff: handful that are custom react apps 
+ - Need to do discovery on this by looking at the existing test suite 
 
 # 20200115
 
