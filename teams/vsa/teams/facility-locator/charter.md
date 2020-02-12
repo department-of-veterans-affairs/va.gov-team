@@ -9,10 +9,10 @@
 Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA facilities
 
 ### Facility Locator Vision:
-WIP
+Veterans have the information they need to be prepared to visit a VA facility.
 
 ### Facility Locator North Star:
-WIP
+Reduce the time it takes for a Veteran to receive meaningful search results
 
 ## What we work on
 
