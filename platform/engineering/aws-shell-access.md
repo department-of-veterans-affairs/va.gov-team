@@ -2,6 +2,8 @@
 ## Prerequisites:
 1. [department-of-veterans-affairs/devops](https://github.com/department-of-veterans-affairs/devops) repository checked out
 1. macOS / Win10 + WSL + Ubuntu / Your Favorite *nix
+1. Homebrew / Apt / Your Favorite Package Manager
+1. 
 
 ## Actions
 1. Use the [Environment Access Request Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2C+operations&template=Environment-Access-Request-Template.md&title=Access+for+%5Bindividual%5D) to request AWS console access.
@@ -28,7 +30,7 @@
         ```
         [default]
         region = us-gov-west-1
-        0aws_access_key_id = <ACCESS_KEY>
+        aws_access_key_id = <ACCESS_KEY>
         aws_secret_access_key = <SECRET_KEY>
         ```
 1. Setup utility script `issue_mfa.sh`
@@ -49,6 +51,14 @@
         ```bash
         mfa <your-mfa-code>
         AWS Session credentials saved. Will expire in 12 hours
+        ```
+        1. If you run into one of the errors below try the suggested commands
+        ```bash
+        Error: jq is not installed.
+        Try: brew install jq
+
+        Error: aws-cli is not installed.
+        Try: brew install awscli
         ```
     
 1. Setup `ssm-session` utility
