@@ -20,7 +20,7 @@ These are the teams that are currently building apps and content on VA.gov and w
 | [Booz Allen](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/booz-allen) |  |
 | [By Light](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/by-light)  |  |
 | [Health Products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/health-products) |  |
-| [VSA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa)  |  |
+| [VSA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa)  | Build products in the right way on VA.gov that deliver outcomes for Veterans.  |
 | [VSP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp) | Supporting all teams working on VSP, and continuing to build and improve on the tools and services that VSP provides.  |
 
 
