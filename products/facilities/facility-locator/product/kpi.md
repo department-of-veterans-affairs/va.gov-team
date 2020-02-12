@@ -51,7 +51,7 @@
 
 **Key Results**
 - Removal of TriWest locator link
-- A baseline for the percentage of users searching for urgent care who download the benefit PDF will be established by March 15, 2020.
+- A baseline for the percentage of users searching for urgent care who view the benefit page (link provided by OCC) will be established by March 15, 2020.
   - Future: increase % with future UX iterations 
 
 ### Objective 3: Improve data quality (as of December 6, 2019)
