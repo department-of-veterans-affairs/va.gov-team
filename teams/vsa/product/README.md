@@ -12,7 +12,7 @@ Bets are hypotheses our teams develop to achieve their OKRs. These bets are init
 
 Additional information about Guideposts, OKRs, and bets can be found [here.](https://docs.google.com/presentation/d/16dnI4KwDTn7paw1MN4r0OvGtZPVneAN2fnQRVP9RPPs/edit#slide=id.p1)
 
-![VSA Value-driven Framework](/VSA_Value-driven_Framework_Visual.png)
+![VSA Value-driven Framework](./VSA_Value-driven_Framework_Visual.png)
 
 ### Product Documentation
 #### Product outline
