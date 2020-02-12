@@ -31,7 +31,7 @@ Bets are hypotheses teams develop to achieve their OKRs.
 
 #### Sprint Objectives
 - Each team begins a sprint with objectives. These objectives tailor the team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
-- [Sprint Report Template(https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
+- [Sprint Report Template](https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
 
 #### Issue Templates and Examples
 | Issue Type | Examples |
