@@ -12,4 +12,6 @@
 ## Considerations
 
 - Lighthouse team is connecting to eFolder through VBMS service (https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/claims_api/app/workers/claims_api/vbms_uploader.rb#L66) so figure out if using the BGS service or this method is best.
+- Ruby gem for VBMS is here: https://github.com/department-of-veterans-affairs/connect_vbms
+  - Documentation is internal
 - Once this is done we should be able to move to the debt center notification work
