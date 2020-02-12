@@ -9,9 +9,9 @@
 | Status | View Rated Disabilities | View my current disability rating for each contention, and my combined disability rating. |
 | Status | View Dependents | View the dependents the VA has on record for me, and see if those dependents are on my Compensation award. |
 | Form | Update Dependent Benefits | (Form 686c and 674) Add, remove, and update dependent information. |
+| Status | View Payment History | View my VA payments (for all integrated systems). |
 | Status | View Representative/ POA | View my current representative/ POA. |
 | Form | Add or Update Representative/ POA | (Form 22 and form 22a) I can search for a VSO, attorney, or agent, and add that person to my profile. |
-| Status | View Payment History | View my VA payments (for all integrated systems). |
 | eFolder | View My Documents | View and download documents I have uploaded to my VA eFolder. |
 | Discovery | Document SEP Features | Develop exhaustive documentation for SEP features and roles, and develop roadmap for transforming those services to va.gov. |
 
