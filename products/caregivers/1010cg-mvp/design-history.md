@@ -13,7 +13,7 @@ https://vsateams.invisionapp.com/share/6JVXEOIWZ7G
 
 ### Feedback & Outcomes
 
-#### Usability Study and content review:
+#### Usability Study and Content Review:
 Meeting date: XX/XX/XXXX  
 Attendees: Name, Name, Name 
 
