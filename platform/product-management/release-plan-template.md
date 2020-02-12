@@ -51,7 +51,7 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum
 - etc
-- Go / No Go: (ready / not ready)[link to the Go No Go meeting doc]
+- Go / No Go: (ready / not ready)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/go-no-go-meeting-template.md]
 
 ### 1-week results:
 - Number of unique users: x
