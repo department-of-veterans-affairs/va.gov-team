@@ -1,5 +1,6 @@
 # Caregiver 10-10CG
-Link to product brief: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md    
+Link to product brief: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/product-outline.md
+
 Designers: Jonathan Nelson
 
 //Note: Put the "latest" iteration at the top of the page, so if someone wants to see the latest design direction they don't have to scroll to the bottom. 
@@ -12,7 +13,7 @@ https://vsateams.invisionapp.com/share/6JVXEOIWZ7G
 
 ### Feedback & Outcomes
 
-#### Usability Study  :
+#### Usability Study and content review:
 Meeting date: XX/XX/XXXX  
 Attendees: Name, Name, Name 
 
