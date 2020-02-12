@@ -49,6 +49,7 @@ Walk through the steps of this form. Be sure to think aloud and comment on the p
 
 - Does the participant understand that all the workflows are within this form? 
 - Watch for any hiccups in the form process
+- Take note of how the user navigates (or attempts) to the form
 
 ## Third Task: Review application - X minutes
 
@@ -74,6 +75,7 @@ Let's say your child graduated college and is no longer eligible for your benefi
 - What are your thoughts on completing a form that requires this type of personal information?
 - What would you change about this prototype?
 - What kind of device (mobile/desktop/tablet) do you use most often? Would you use that kind of device to fill this form out?
+- How would you expect to find this form on the website?
 - Any questions for me? 
 
 ## Thank-You and Closing 
