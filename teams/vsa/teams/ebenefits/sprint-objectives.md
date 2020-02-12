@@ -15,16 +15,16 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Prepare and run user research session on 686c/674 vision
-- Frontend: Finish FE workflows
+- Frontend: Finish 50% of remaining FE workflows
 - Backend & Frontend: Finish View Dependents in lowers (pull real data into VA.gov staging from BGS lowers)
-- Backend: Build framework for submitting to VNP Tables through BGS; submit one valid test form
+- Backend: Document and recieve response from endpoints through BGS, assuming access is obtained
 
 ## 2. Prep View Payments
 - Product: Complete product documentation and user stories
 - Design: Review user stories and View Payments feature in eBenefits and make a lightweight first pass at the feature design
 - Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments _(could be extremely lightweight voice interviews, just looking for pain points in the existing product)_
 
-## 3. Improve Product Infrastructre
+## 3. Stretch - Improve Product Infrastructre
 - Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature. _(Let us know what kind of Product-level support is needed.)_
 
 ## Sprint 14 (1/29 - 2/11)
