@@ -22,11 +22,12 @@ Bets are hypotheses teams develop to achieve their OKRs.
 ### Delivery
 
 #### Agile ceremonies
-- [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-ceremonies-overview.md)
-- [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/delivery/agile-checklist.md). 
+- [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-ceremonies-overview.md)
+- [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-checklist.md). 
 
-#### [Sprint Objectives](https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
+#### Sprint Objectives
 - Each team begins a sprint with objectives. These objectives tailor the team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
+- [Sprint Report Template(https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
 
 #### Issue Templates and Examples
 | Issue Type | Examples |
