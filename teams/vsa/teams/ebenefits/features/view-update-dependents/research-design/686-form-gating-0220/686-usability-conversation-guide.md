@@ -28,21 +28,27 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 ## Screenshare
 Will you share your screen with me? I'm going to send you a link. I will be asking you to complete a few tasks using this prototype. Try to move a bit slower than you normally would on a website and talk me through your actions.
 
-## First Task: Find and select form(s)
+## First Task: Find form
 
-You've recently been married and want to add you new spouse and their child to your benefits. Show us how you would do this.
+You've recently been married and want to add your new spouse and their child to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
 OR
 
-Your child has recently started college and you want to add them to your benefits. Show us how you would do this.
+Your child has recently started college and you want to add them to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
 ### Things to watch for:
+- Take note of how the user navigates (or attempts) to the form
+- How many attempts do they make to get to the form?
 
+## Second Task: Select form(s)
+Now that you've found this page, show us what you would do next.
+- Are the options shown clear to you?
+
+### Things to watch for:
 - Does the participant know they can select multiple scenarios?
 - Make note of how the participant interacts with the checkboxes.
-- Take note of how the user navigates (or attempts) to the form
 
-## Second Task: Step through form
+## Third Task: Step through form
 
 Walk through the steps of this form. Be sure to think aloud and comment on the process of walking through the form.
 
@@ -51,7 +57,7 @@ Walk through the steps of this form. Be sure to think aloud and comment on the p
 - Does the participant understand that all the workflows are within this form? 
 - Watch for any hiccups in the form process
 
-## Third Task: Review application - X minutes
+## Fourth Task: Review application
 
 Take a moment to review the information presented on the screen. 
 - Click the area of the prototype to complete this application process.
@@ -61,7 +67,7 @@ Take a moment to review the information presented on the screen.
 - Does the participant discern between the different scenarios?
 - Make note of how participant reviews form summary
 
-## Fourth Task (if time): Remove
+## Fifth Task (if time): Remove
 
 Let's say that your step-child has moved out on their own. How would you go about removing them from your benefits?
 
