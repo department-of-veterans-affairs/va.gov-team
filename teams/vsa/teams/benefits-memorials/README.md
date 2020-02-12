@@ -7,9 +7,11 @@
 - [Team Charter and Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/charter.md)
 ---
 
-### Table of Contents
+# Table of Contents
 
-# Executive Summary 
+## [Team Info](#team-info)
+
+## [Executive Summary](#executive-summary)
 - [User Problem Statement](#user-problem-statement)
 - [Solution Goals](#solution-goals)
 - [Assumptions](#assumptions)
@@ -26,12 +28,25 @@
   - [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/Notice-of-Disagreement)
   
 
-# Roadmap and Team
+## Roadmap and Team
 - [Solution Narrative](#solution-narrative)
 - [Keywords](#Keywords)
 - [Team](#team)
 
 ---
+
+# Team Info
+
+|**Roles**              |**Assigned**                        |
+|-----------------------|------------------------------------|
+|DSVA Product Manager   |Andrea Schneider                    |
+|Team Product Manager   |Luke Majewski                       |
+|Back-End Engineer      |Silvio Luthi                        |
+|Back-End Engineer      |Silvio Luthi                        |
+|Front-End Engineer     |Nicholas Sprinkle                   |
+|Front-End Engineer     |Robin Garrison                      |
+|Design Researcher      |Christian Valla                     |
+|Design Researcher      |Kevin Stachura                      |
 
 # Executive Summary
 
@@ -85,14 +100,3 @@ Money spent on programs at the VA will be better utilized.  Increased usage of d
 
 ## Keywords
 vsa-benefits, HLR, 526, vsa-decision-review, NOD, Supplemental Claim, BDD, Original Claim
-
-## Team
-|**Roles**              |**Assigned**                        |
-|-----------------------|------------------------------------|
-|DSVA Product Manager   |Andrea Schneider                    |
-|Team Product Manager   |Luke Majewski                       |
-|Back End Engineer      |Silvio Luthi                        |
-|Front End Engineer     |Nicholas Sprinkle                   |
-|Front End Engineer     |Robin Garrison                      |
-|Design Researcher      |Christian Valla                     |
-|Design Researcher      |Kevin Stachura                      |
