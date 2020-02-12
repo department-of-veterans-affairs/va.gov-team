@@ -13,15 +13,28 @@ WIP
 WIP
 
 ## What we work on
-
 ### Product Suite
 Unauthenticated Experience for VA.gov
 
 ### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+-	Home Page 
+-	Header / Footer 
+-	IA, Menus, Navigation 
+-	Content Hubs 
+-	Legacy content rewriting 
+-	Content Migration (Github to Drupal) 
+-	VAMC Sites / Pages  
+-	Facility Locator 
+-	On-site Search  
+-	Tier 2 content templates 
+-	Tier 3 content templates 
+-	Style Guide 
+-	VA Forms 
+-	Contact Us/ Help Utility
+-	Global Alerts
 
 ### Responsibilities:
-_High level problem space and user goals for this team_
+Develop and assist other teams in unauthenticated content and products for Veterans on VA.gov.
 
 ### Roadmap:
 _Link to agile roadmap_
@@ -45,9 +58,7 @@ _Link to agile roadmap_
 ---
 
 ## How we work
-
 ### Workflow + Cadence
-
 #### Stand-up
 Check in on people and product progress
 
