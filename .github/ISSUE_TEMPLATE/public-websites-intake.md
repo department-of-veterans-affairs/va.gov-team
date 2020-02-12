@@ -2,8 +2,8 @@
 name: Public Websites Intake Form
 about: To file requests with the VSA Public Websites team e.g. content support or redirects.
 title: <Type of Request> from <Team>
-labels: vsa-public-websites, vsa, vsa-triage
-assignees: jenniferlee-dsva
+labels: vsa-public-websites, vsa, vsa-triage, needs-grooming
+assignees: lunascoop
 ---
 
 ## Why you're here
@@ -78,7 +78,6 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 
 * <Desired/target implementation date>
 
---- 
 
 ### Requestor info
 *Indicate what team and who the primary contacts are on your team* 
@@ -89,3 +88,14 @@ Requests should be submitted at least **2 weeks** in advance of the targeted lau
 - Designer: *enter name*
 - FE engineer: *enter name*
 - Product/team Slack channel: *enter*
+
+
+--- 
+### Public Websites internal use
+
+#### Next steps
+- [ ] follow-up with requestor to address any lingering questions/concerns
+- [ ] Create epic/tickets as needed for the Public Websites team to implement
+
+#### Definition of Done
+* Request ticket is closed and implementation tickets created as needed
