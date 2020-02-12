@@ -7,7 +7,7 @@
 Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
 
 ### Team Vision:
-WIP
+We envision a world where it takes less time to find information about VA benefits and services than it does on Google. 
 
 ### Team North Star:
 WIP
