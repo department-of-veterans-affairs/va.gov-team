@@ -30,8 +30,12 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 - [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-checklist.md). 
 
 #### Sprint Objectives
-- Each team begins a sprint with objectives. These objectives tailor the team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
+- Each sprint begans with objectives. These objectives tailor a team's sprint commitments towards OKRs/bets they've set. VSA teams work with their VA counterparts to create these objectives and track progress against them throughout the sprint. 
 - [Sprint Report Template](https://drive.google.com/open?id=1C4OVbyM1t5XC4ujpAJMmsprKimAXdm4JvbwD6PrmncQ)
+- Examples
+  - "[Launch] Find VA Forms Search"
+  - "Complete Yellow Ribbon Research + Synthesis"
+  - "Build new endpoint to expose new YR data"
 
 #### Issue Templates and Examples
 | Issue Type | Examples |
