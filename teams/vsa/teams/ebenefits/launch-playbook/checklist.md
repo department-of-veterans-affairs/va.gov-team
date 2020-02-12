@@ -55,6 +55,7 @@ _Share as soon as you have content - this is usually after mockups are created. 
 - [ ] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 _These links/reviews may end up being consolidated, stay tuned._
 - [ ] Before launch, circle back with Content/IA about further impact and feedback  
+  - [ ] Deterime with IA whether the feature in question would be deemed a "top task" and put into the mega-menu
 
 ### Usability
 - [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/research-plan.md)
