@@ -33,6 +33,12 @@ It's also possible that some error states can result in a user seeing an error s
 #### Will VA.gov users be sent to AccessVA?
 No. AccessVA (https://access.va.gov/accessva/) is the IAM-built web interface to SSOe (some applications route all sign-ins through that, some present their own native sign-in interface). VA.gov will not appear among the application catalog on AccessVA, and other than the interstitial "loading" screens mentioned above will not interact with AccessVA.
 
+#### Does this solve SSO completely for everyone, everywhere?
+No. This is an incremental update that improves interoperability across VA. But there are limitations. Specifically there are some combinations of credential, level of assurance, and navigation patterns where users will have session continuity across sites, and some where they won't. Examples:<br/>
+* Users starting at VA.gov and navigating elsewhere will generally be logged in at their destination. But, most other VA sites only accept LOA3 users, so LOA1 users on VA.gov won't have session continuity.
+* Users starting at a site like MHV and navigating to VA.gov will generally be logged in without issue at VA.gov if they are LOA3, and if they are either using an ID.me credential or have signed in to VA.gov in the past.
+* Users starting at a site like MHV and navigating to VA.gov who have not signed in to VA.gov with their DSLogon or MHV credential since August 2018 will need to do a one-time re-authentication. This step is needed to match any existing data they may have on VA.gov that is currently indexed under an ID.me identifier (since ID.me brokers MHV and DSLogon credentials for VA.gov). This issue is described in more detail in  https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/request-for-change/2020-01-17-sso-symmetry-and-identifiers.md
+
 #### What if users need help or have trouble signing in?
 [TK] Need to make call center aware of this change and any new error screens/messages/content that might be added.
 
