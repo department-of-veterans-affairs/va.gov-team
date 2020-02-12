@@ -14,15 +14,15 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 - 36 points over 14 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
-- Design: Prepare and run user research session on 686c/674 vision ([#5786]())
-- Frontend: Finish 50% of remaining FE workflows ([#5786]())
-- Backend & Frontend: Finish View Dependents in lowers (pull real data into VA.gov staging from BGS lowers) ([#5469](), [#5662](), [#5799](), [#5660](), [#4909](), [#5654]())
-- Backend: Document and recieve response from endpoints through BGS, assuming access is obtained ([#3359]())
+- Design: Prepare and run user research session on 686c/674 vision ([#5786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5786))
+- Frontend: Finish 50% of remaining FE workflows ([#5662](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5662), [#5799](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5799), [#5660](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5660), [#4909](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4909), [#4927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4927))
+- Backend & Frontend: Finish View Dependents in lowers (pull real data into VA.gov staging from BGS lowers) ([#5469](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5469), [#5654](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5654))
+- Backend: Document and recieve response from endpoints through BGS, assuming access is obtained ([#3359](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3359))
 
 ## 2. Prep View Payments
-- Product: Complete product documentation and user stories ([#5642*]())
-- Design: Review user stories and View Payments feature in eBenefits and make a lightweight first pass at the feature design ([#5645]())
-- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments ([#5645]())
+- Product: Complete product documentation and user stories ([#5642*](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5642))
+- Design: Review user stories and View Payments feature in eBenefits and make a lightweight first pass at the feature design ([#5645](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5645))
+- Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments ([#5645](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5645))
 _(could be extremely lightweight voice interviews, just looking for pain points in the existing product)_  
 `*` - Not yet committed  
 
