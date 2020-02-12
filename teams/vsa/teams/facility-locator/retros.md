@@ -14,6 +14,8 @@
 
 [Sprint 13, ending January 28, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/retros.md#sprint-13-ending-january-28-2020)
 
+[Sprint 14, ending February 12, 2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%2014%20Retro.png)
+
 ### Sprint 7, ending November 5, 2019
 
 ![sprint 7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%207%20Retro.png)
@@ -39,3 +41,6 @@
 ### Sprint 13, ending January 28, 2020
 
 ![sprint 13](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Retro%20Sprint%2013.png)
+
+### Sprint 14, ending February 12, 2020
+![sprint 14](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/facility-locator/images/Sprint%2014%20Retro.png)
