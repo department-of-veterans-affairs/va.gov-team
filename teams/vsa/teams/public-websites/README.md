@@ -3,8 +3,8 @@
 ---
 
 ## Guideposts
-### Team Mission Statement:
-WIP
+### Team Mission:
+Provides Veterans, family members, caregivers, service members and other audiences access to vital information about VA benefits and services.
 
 ### Team Vision:
 WIP
