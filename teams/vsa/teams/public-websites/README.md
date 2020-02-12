@@ -1,110 +1,109 @@
-# Product Outline: Public Websites - DRAFT
-- GitHub Label: vsa-public-websites
-- Slack channel: vsa-public-websites
-- VA.gov link: n/a
-- Demo video link: n/a
-- Product Owner: Jennifer Lee, (jennifer.lee27@va.gov)
-- Product Manager:  Kara Kemahli, (kara@adhocteam.us)
+# Public Websites Charter
 
 ---
 
-### Table of Contents  
+## Guideposts
+### Team Mission Statement:
+WIP
 
-# Executive Summary 
-- [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Assumptions](#assumptions)
-- [Requirements and Constraints](#requirements-and-constraints)
-- [Discovery Takeaways](#discovery-takeaways)
-- [Solution Approach](#solution-approach)
-- [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
-- **Features**  
-  - ...
+### Team Vision:
+WIP
 
-# Implementation Information
-- [Status](#status)
-- [Solution Narrative](#solution-narrative)
-- [How to Access and Test](#how-to-access-and-test)
-- [Error Handling](#error-handling)
-- [Service Level Objective](#service-level-objective)
-- [API Calls and Dependent Systems](#api-calls-and-dependent-systems)
-- [Resources and Documentation](#resources-and-documentation)
-- [Keywords](#Keywords)
-- [Team](#team)
-- [Screenshots](#screenshots)
+### Team North Star:
+WIP
+
+## What we work on
+
+### Product Suite
+Unauthenticated Experience for VA.gov
+
+### Product Portfolio:
+_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+
+### Responsibilities:
+_High level problem space and user goals for this team_
+
+### Roadmap:
+_Link to agile roadmap_
 
 ---
 
-# Executive Summary
-Developing with Jen Lee
-## User Problem Statement
-Developing with Jen Lee
-## Solution Goals
-Provides Veterans, family members, caregivers, and service members access to vital information about VA benefits and services.
-### User Goals
-Content, navigation, and tools that provide users the easiest way to find and act upon any VA service.
-### Business Goals
-Builds, maintains, and improves the public facing experience on VA.gov.
-## Assumptions
-Developing with Jen Lee
-
-## Requirements and Constraints
-Developing with Jen Lee
-
-## Discovery Takeaways
-TBD
-## Solution Approach
-Developing with Jen Lee
-
-## Value Propositions
-Developing with Jen Lee
-#### User Value
-developing with Jen Lee
-#### Business Value
-Developing with Jen Lee
-## KPIs
-
----
-
-# Implementation Info
-
-## Status
-## Solution Narrative
-- **September 2019**: ...
-- **October 2019**: ...
-
-## How to Access and Test
-- Link: 
-## Error Handling
-## Service Level Objective
-## API Calls and Dependent Systems
-...
-
-## Resources and Documentation
-
-- Discovery and Research
-- Technical Documentation
-- Product specs
+## Who we are
+### Team Members:
+- DSVA Lead: Jennifer Lee
 - Design
-- Roadmap
-- ATO documentation
+  - Liz Lantz
+- Engineering
+  - Nick Sullivan
+  - Kelson Adams
+- Content
+  - Randi Hecht
+  - Anne Hurley
+  - Selina Cooper
+  - Laura Walsh
 
-## Keywords
-TBD
+---
 
-## Team
-- DSVA Product Manager: Jennifer Lee
-- Team Product Manager: Kara Kemahli
-- Content Team- to be added 
-- UX Designer: Liz Lantz
-- Designer/Reseearcher: Ryan Thurwell
-- Lead Front-end Engineer: Nick Sullivan
+## How we work
 
+### Workflow + Cadence
 
+#### Stand-up
+Check in on people and product progress
 
-### Screenshots
-#### Before
-`!` [Before](https://)
-#### After
-...
+- Daily @ 11:30a ET (except Tuesdays)
+- 15 min
+- 3 Question Format: What I did yesterday? What will I do today? Any impediments?
+
+#### Sprint Planning
+Outline work to be done this sprint in order to accomplish the team's goals
+
+- 1st Wednesday of every sprint @ 1pm ET
+- 2 hours
+
+#### Retro
+Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
+
+- 1st Wednesday of every sprint @ 11:30a ET
+- 1 hour
+
+#### Grooming
+Assess and update workload for remainder of sprint
+
+- 2nd Thursday of every sprint
+- 1 hour
+- _any other notes you have_
+
+#### Issue Etiquette
+For an issue to go into the Current Sprint column, it must have the following (created using the [Standard Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=&template=standard-issue.md&title=):
+
+- Estimate
+- Title that explains task
+- Description with Background and Acceptance Criteria
+- Labels: _your team's labels_
+- User Story (if applicable), Goal, and Acceptance Criteria
+- Nested in an Epic
+
+All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
+
+If there is a new RED LIGHT URGENT work request, contact the Product Manager and ask for help to work it into the sprint
+
+#### Team Norms
+
+_Update as you see fit! These are some starter norms for you to consider_
+
+- Be respectful, both online and off
+- Show your face (Webcam) at meetings / calls
+- Speak up! - everyone’s voice matters
+- We are flexible, but intentional in the way we work
+- Let’s have fun and do great work!
+
+#### Slack:
+#vsa-public-websites
+
+#### GitHub
+label: vsa-public-websites
+
+#### General things
+- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
+- Extra time? Explore the "Ready" column in ZenHub.
