@@ -36,7 +36,7 @@ There are two types of review instances we use on VA.gov. the first is for testi
 The work we are undertaking is to make improvements to the second, in order to give the ability to developers to test against live backends in staging in order to improve the testing experience overall. 
 
 ## User Problem Statement
-Today, review instances (instances of the website spun up when mailing out PRs, but before merging it) are in "dev", which has some networking implications but also the backend connections are mocked out and As a developer or designer on VA.gov it is very hard to see and test tools and test the interaction with a live backend in staging without merging to master.
+Today, review instances (instances of the website spun up when mailing out PRs, but before merging it) are in "dev", which has some networking implications but also the backend connections are mocked out. As a developer or designer on VA.gov it is very hard to see and test tools and test the interaction with a live backend in staging without merging to master.
 
 ## Solution Goals
 
