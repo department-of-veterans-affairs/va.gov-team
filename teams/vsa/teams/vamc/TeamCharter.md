@@ -5,16 +5,17 @@
 Enable Veterans,their family, and caregivers, through use of the VA's VISN Medical Center Websites, to quickly provide access to the tools and information needed in their VA health care journey.  Remove obsticals and promote a streamlined, easy to navigate, and easy to understand digital experience.  Escalate this normalized and standardized methodology accross all VISNs using economies of scale and advanced Agile practices. 
 
 ### VAMC Vision
-WIP
+Providing these upgraded and streamlined tools to the ALL VAMC system Office of Public Affairs and adminstrators, so that they can efficently support and continualy enable Veterans, their family, and caregivers in their VAMC journey. 
 
 ### VAMC North Star
-WIP
+Through continued process review and business optimization, work to increase the number of fully upgraded VA Medical Center System Websites, that are turned over to the VAMC for continued administration. 
 
 ## What we work on
+Optimization of content, language, and website structure to improve the website journey.  This includes reduction in page count, word count, and increased percentage of plain language throughout the site. While highlighting Veteran specified "Top Tasks", repetative activities, and web site priorities.
 
 ### Product Line Focus
 _VA Medical Center Website Modernization starting with:_
-_VISN 4_
+_VISN 4 web systems consisting of eight remaining Medical Center System Websites and forty-eight facilities.
 
 ### Description of Current Work
 _Update and Modernize VA.gov-[Medical Center] websites using human-centered design, agile development, and DevOps practices that emphasize continuous integration/continuous delivery to iterate on the best solutions for VA.gov Medical Center website users. Utilize the pilot project website 'www.va.gov/pittsburg-health-care/ as the template and base of continuing and improving our customer experience_
