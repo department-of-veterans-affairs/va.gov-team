@@ -2,7 +2,7 @@
 A list of expected deliverables and explanation of their contents is listed below.  Please note that you will need access to [TestRail](https://dsvavsp.testrail.io/) in order to create these artifacts.
 
 ## Table of Contents
-1. Regression Test Plan
+1. [Regression Test Plan](###regression-test-plan)
 1. Test Plan
 1. Test Cases
 1. Test Results
