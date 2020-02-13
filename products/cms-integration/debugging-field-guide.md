@@ -1,26 +1,21 @@
 
 # Table of Contents
 
-1.  [Debugging Field Guide](#org2e3cfb5)
-    1.  [JSON schema validation errors](#orgae0b4b9)
-        1.  [Solution](#org322866b)
-    2.  [Object doesn&rsquo;t deep equal object??](#org9a505f1)
-        1.  [Solution](#org75ee4dd)
-    3.  [Handling circular references](#org3dd19b5)
-        1.  [Solution](#orgd30f084)
-    4.  [My transformer isn&rsquo;t receiving a property that exists in the raw content](#org65ea096)
-        1.  [Solution](#orgc5c9c05)
+1.  [Debugging Field Guide](#debugging-field-guide)
+    1.  [JSON schema validation errors](#json-schema-validation-errors)
+        1.  [Solution](#solution)
+    2.  [Object doesn&rsquo;t deep equal object??](#object-doesnt-deep-equal-object)
+        1.  [Solution](#solution-1)
+    3.  [Handling circular references](#handling-circular-references)
+        1.  [Solution](#solution-2)
+    4.  [My transformer isn&rsquo;t receiving a property that exists in the raw content](#my-transformer-isnt-receiving-a-property-that-exists-in-the-raw-content)
+        1.  [Solution](#solution-3)
 
-
-
-<a id="org2e3cfb5"></a>
 
 # Debugging Field Guide
 
 Oh no. Something broke, didn&rsquo;t it? Here, take this guide. I hope it helps.
 
-
-<a id="orgae0b4b9"></a>
 
 ## JSON schema validation errors
 
@@ -70,8 +65,6 @@ From this message we can see the following:
         sense
 
 
-<a id="org322866b"></a>
-
 ### Solution
 
 Armed with this information, we can crack open the transformer and see what&rsquo;s
@@ -82,8 +75,6 @@ to scroll up quite a ways to see the actual validation error output. Just look
 for the yellow / gold writing.
 
 
-<a id="org9a505f1"></a>
-
 ## Object doesn&rsquo;t deep equal object??
 
 Ideally, we&rsquo;d catch all the validation errors locally, but that won&rsquo;t always be
@@ -92,16 +83,12 @@ Jenkins. As such, when the unit test encounters an error, it logs the entire
 test file and the output of the transformation for manual comparison.
 
 
-<a id="org75ee4dd"></a>
-
 ### Solution
 
 Open the full logs in Jenkins to find the error output. Search for
 
     Transformed entity in the test JSON file:
 
-
-<a id="org3dd19b5"></a>
 
 ## Handling circular references
 
@@ -130,8 +117,6 @@ following error:
     TypeError: Converting circular structure to JSON
 
 
-<a id="orgd30f084"></a>
-
 ### Solution
 
 Return only part of a content model. See [`node-vamc_operating_status_and_alerts`](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/transformers/node-vamc_operating_status_and_alerts.js#L18-L25)
@@ -139,7 +124,6 @@ for an example. Once this is done, the [schema will need to be updated](https://
 doesn&rsquo;t expect the missing pieces.
 
 
-<a id="org65ea096"></a>
 
 ## My transformer isn&rsquo;t receiving a property that exists in the raw content
 
@@ -148,8 +132,6 @@ present in the actual entity on file, but when you try to use it in the
 transformer, it just plain isn&rsquo;t there? Sounds like it needs to be added to the
 content model&rsquo;s `filter`.
 
-
-<a id="orgc5c9c05"></a>
 
 ### Solution
 
