@@ -11,7 +11,7 @@
 
 # CMS Export Content Model Transformation Overview
 
-That&rsquo;s a mouthful, isn&rsquo;t it?
+That's a mouthful, isn't it?
 
 
 ## Purpose
@@ -42,7 +42,7 @@ The transformer is the workhorse. Everything else is there to ensure it all
 works together as expected. For more information on what each of these pieces
 are, see [Transformation Process](transformation-process.md).
 
-When adding a new content model, you&rsquo;ll need to add the following files to
+When adding a new content model, you'll need to add the following files to
 `src/site/stages/build/process-cms-exports/`:
 
 -   [Pre-transformation (raw) schema](transformation-process.md)
@@ -50,7 +50,7 @@ When adding a new content model, you&rsquo;ll need to add the following files to
     -   Validates the [content from the CMS](transformation-process.md)
 -   [Filters](transformation-process.md)
     -   Found in `transformers/` with the transformers
-    -   Ensures [entity expansion](transformation-process.md) doesn&rsquo;t read a bunch of entities that won&rsquo;t end up
+    -   Ensures [entity expansion](transformation-process.md) doesn't read a bunch of entities that won't end up
         in the transformed content
 -   [Transformer](transformation-process.md)
     -   Found in `transformers/`
@@ -66,7 +66,7 @@ When adding a new content model, you&rsquo;ll need to add the following files to
 -   Post-transformation test entity
     -   These go in `tests/transformed-entities/`
 
-Once you&rsquo;ve added all those files and wrote your transformer to do what you want
+Once you've added all those files and wrote your transformer to do what you want
 it to, be sure to run the tests to catch any unexpected failures:
 
     yarn test:unit src/site/stages/build/process-cms-exports/tests/
