@@ -1,30 +1,23 @@
 
 # Table of Contents
 
-1.  [CMS Export Content Model Transformation Overview](#org295a7ae)
-    1.  [Purpose](#orgb35279e)
-    2.  [10,000ft view](#org6b062b2)
-    3.  [Adding a new content model](#orgab7f362)
-    4.  [Debugging](#org6571ded)
-    5.  [Best practices](#org8861206)
+1.  [CMS Export Content Model Transformation Overview](#cms-export-content-model-transformation-overview)
+    1.  [Purpose](#purpose)
+    2.  [10,000ft view](#10000ft-view)
+    3.  [Adding a new content model](#adding-a-new-content-model)
+    4.  [Debugging](#debugging)
+    5.  [Best practices](#best-practices)
 
-
-
-<a id="org295a7ae"></a>
 
 # CMS Export Content Model Transformation Overview
 
 That&rsquo;s a mouthful, isn&rsquo;t it?
 
 
-<a id="orgb35279e"></a>
-
 ## Purpose
 
 To outline how content gets from the CMS to static HTML files.
 
-
-<a id="org6b062b2"></a>
 
 ## 10,000ft view
 
@@ -42,8 +35,6 @@ pertinent to this document are:
 2.  Transforming the CMS export content models to the template content models
 3.  Applying the content models to the templates to generate static HTML
 
-
-<a id="orgab7f362"></a>
 
 ## Adding a new content model
 
@@ -81,15 +72,11 @@ it to, be sure to run the tests to catch any unexpected failures:
     yarn test:unit src/site/stages/build/process-cms-exports/tests/
 
 
-<a id="org6571ded"></a>
-
 ## Debugging
 
 See the [Debugging Field Guide](debugging-field-guide.md) for a reference manual on how to debug transformer
 issues in the wild.
 
-
-<a id="org8861206"></a>
 
 ## Best practices
 
