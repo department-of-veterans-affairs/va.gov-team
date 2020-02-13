@@ -50,7 +50,8 @@ Please list the people who will be serving in each role. **Include the primary p
 - Project Brief: 	
 *Project brief should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
 - Convo Guide	
-*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*	
+*Discussion guide should live in the appropriate va.gov-team product folder, simply paste a link to it here*
+[Content proofing usability study guide (WIP)](https://docs.google.com/document/d/1k-L5VxwJmiMFaPwT2oJ4LG40q2wXCeGdpwwTV1ooNPs/edit)
 - Synthesis	
 *Link to any documents used for synthesis (Mural or Realtimeboard boards, excel sheets, other data outputs, etc.)* 	
 - Lessons Learned	
