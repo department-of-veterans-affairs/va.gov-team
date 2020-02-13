@@ -1,31 +1,30 @@
 
 # Table of Contents
 
-1.  [CMS Export Content Model Transformation Overview](#org452f1e3)
-    1.  [Purpose](#orga07c918)
-    2.  [10,000ft view](#orgaf4354e)
-    3.  [Adding a new content model](#org77f88f4)
-    4.  [Zooming in](#orgacd6399)
-    5.  [Debugging](#org68c9208)
-    6.  [Best practices](#orgc3b70c7)
+1.  [CMS Export Content Model Transformation Overview](#org295a7ae)
+    1.  [Purpose](#orgb35279e)
+    2.  [10,000ft view](#org6b062b2)
+    3.  [Adding a new content model](#orgab7f362)
+    4.  [Debugging](#org6571ded)
+    5.  [Best practices](#org8861206)
 
 
 
-<a id="org452f1e3"></a>
+<a id="org295a7ae"></a>
 
 # CMS Export Content Model Transformation Overview
 
 That&rsquo;s a mouthful, isn&rsquo;t it?
 
 
-<a id="orga07c918"></a>
+<a id="orgb35279e"></a>
 
 ## Purpose
 
 To outline how content gets from the CMS to static HTML files.
 
 
-<a id="orgaf4354e"></a>
+<a id="org6b062b2"></a>
 
 ## 10,000ft view
 
@@ -40,24 +39,34 @@ When the content build is run, it does a lot of things. The steps that are
 pertinent to this document are:
 
 1.  Pulling the CMS export tarball
-2.  Transforming the CMS export content models to the template
-    content models
+2.  Transforming the CMS export content models to the template content models
 3.  Applying the content models to the templates to generate static HTML
 
 
-<a id="org77f88f4"></a>
+<a id="orgab7f362"></a>
 
 ## Adding a new content model
 
-When adding a new content model, you&rsquo;ll need to add a handful of new files to
+The transformer is the workhorse. Everything else is there to ensure it all
+works together as expected. For more information on what each of these pieces
+are, see [Transformation Process](transformation-process.md).
+
+When adding a new content model, you&rsquo;ll need to add the following files to
 `src/site/stages/build/process-cms-exports/`:
 
--   Pre-transformation (raw) schema
+-   [Pre-transformation (raw) schema](transformation-process.md)
     -   Found in `schemas/raw/`
--   Post-transformation schema
-    -   Found in `schemas/transformed/`
--   Transformer
+    -   Validates the [content from the CMS](transformation-process.md)
+-   [Filters](transformation-process.md)
+    -   Found in `transformers/` with the transformers
+    -   Ensures [entity expansion](transformation-process.md) doesn&rsquo;t read a bunch of entities that won&rsquo;t end up
+        in the transformed content
+-   [Transformer](transformation-process.md)
     -   Found in `transformers/`
+    -   Takes the content from the CMS and transforms it into the shape expected in
+        the [Liquid templates](transformation-process.md)
+-   [Post-transformation schema](transformation-process.md)
+    -   Found in `schemas/transformed/`
 -   Pre-transformation test entity
     -   And all child entities
     -   These go in `tests/entities/`
@@ -66,20 +75,13 @@ When adding a new content model, you&rsquo;ll need to add a handful of new files
 -   Post-transformation test entity
     -   These go in `tests/transformed-entities/`
 
-The transformer is the workhorse. Everything else is there to ensure it all
-works together as expected. For more information on what each of these pieces
-are, see [Transformation Process](transformation-process.md).
+Once you&rsquo;ve added all those files and wrote your transformer to do what you want
+it to, be sure to run the tests to catch any unexpected failures:
+
+    yarn test:unit src/site/stages/build/process-cms-exports/tests/
 
 
-<a id="orgacd6399"></a>
-
-## Zooming in
-
-To dig deeper into how content is transformed from the CMS export content models
-to the template content models (and what that even means), see [Transformation Process](transformation-process.md).
-
-
-<a id="org68c9208"></a>
+<a id="org6571ded"></a>
 
 ## Debugging
 
@@ -87,8 +89,9 @@ See the [Debugging Field Guide](debugging-field-guide.md) for a reference manual
 issues in the wild.
 
 
-<a id="orgc3b70c7"></a>
+<a id="org8861206"></a>
 
 ## Best practices
 
 See [Best Practices](best-practices.md).
+

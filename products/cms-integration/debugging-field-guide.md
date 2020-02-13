@@ -1,25 +1,26 @@
 
 # Table of Contents
 
-1.  [Debugging Field Guide](#orgabae1eb)
-    1.  [JSON schema validation errors](#org10ab85f)
-        1.  [Solution](#orgf97a4c8)
-    2.  [Object doesn&rsquo;t deep equal object??](#org830b381)
-        1.  [Solution](#orgb85397c)
-    3.  [Transformer trouble](#org4eae7ce)
-    4.  [Handling circular references](#orge68be39)
-        1.  [Solution](#org924393b)
+1.  [Debugging Field Guide](#org2e3cfb5)
+    1.  [JSON schema validation errors](#orgae0b4b9)
+        1.  [Solution](#org322866b)
+    2.  [Object doesn&rsquo;t deep equal object??](#org9a505f1)
+        1.  [Solution](#org75ee4dd)
+    3.  [Handling circular references](#org3dd19b5)
+        1.  [Solution](#orgd30f084)
+    4.  [My transformer isn&rsquo;t receiving a property that exists in the raw content](#org65ea096)
+        1.  [Solution](#orgc5c9c05)
 
 
 
-<a id="orgabae1eb"></a>
+<a id="org2e3cfb5"></a>
 
 # Debugging Field Guide
 
 Oh no. Something broke, didn&rsquo;t it? Here, take this guide. I hope it helps.
 
 
-<a id="org10ab85f"></a>
+<a id="orgae0b4b9"></a>
 
 ## JSON schema validation errors
 
@@ -69,7 +70,7 @@ From this message we can see the following:
         sense
 
 
-<a id="orgf97a4c8"></a>
+<a id="org322866b"></a>
 
 ### Solution
 
@@ -81,17 +82,17 @@ to scroll up quite a ways to see the actual validation error output. Just look
 for the yellow / gold writing.
 
 
-<a id="org830b381"></a>
+<a id="org9a505f1"></a>
 
 ## Object doesn&rsquo;t deep equal object??
 
 Ideally, we&rsquo;d catch all the validation errors locally, but that won&rsquo;t always be
 the case. Unfortunately, the error output from Mocha is sometimes limited in
-Jenkins. As such, when the unit test encounters an error, it logs the entire test
-file and the output of the transformation for manual comparison.
+Jenkins. As such, when the unit test encounters an error, it logs the entire
+test file and the output of the transformation for manual comparison.
 
 
-<a id="orgb85397c"></a>
+<a id="org75ee4dd"></a>
 
 ### Solution
 
@@ -100,12 +101,7 @@ Open the full logs in Jenkins to find the error output. Search for
     Transformed entity in the test JSON file:
 
 
-<a id="org4eae7ce"></a>
-
-## TODO Transformer trouble
-
-
-<a id="orge68be39"></a>
+<a id="org3dd19b5"></a>
 
 ## Handling circular references
 
@@ -128,16 +124,35 @@ but sometimes this causes a circular reference. For example:
         }
     }
 
-If this happens, [AJV](https://github.com/epoberezkin/ajv), the underlying JSON schema validator, will fail with the
+If this happens, AJV, the underlying JSON schema validator, will fail with the
 following error:
 
     TypeError: Converting circular structure to JSON
 
 
-<a id="org924393b"></a>
+<a id="orgd30f084"></a>
 
 ### Solution
 
 Return only part of a content model. See [`node-vamc_operating_status_and_alerts`](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/transformers/node-vamc_operating_status_and_alerts.js#L18-L25)
 for an example. Once this is done, the [schema will need to be updated](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/schemas/transformed/node-vamc_operating_status_and_alerts.js#L23-L28) so it
 doesn&rsquo;t expect the missing pieces.
+
+
+<a id="org65ea096"></a>
+
+## My transformer isn&rsquo;t receiving a property that exists in the raw content
+
+You&rsquo;ve verified that the property *does* exist in the content model and it&rsquo;s
+present in the actual entity on file, but when you try to use it in the
+transformer, it just plain isn&rsquo;t there? Sounds like it needs to be added to the
+content model&rsquo;s `filter`.
+
+
+<a id="orgc5c9c05"></a>
+
+### Solution
+
+Make sure the content model&rsquo;s [`filter`](transformation-process.md) includes the property you want to use in
+the transformer.
+
