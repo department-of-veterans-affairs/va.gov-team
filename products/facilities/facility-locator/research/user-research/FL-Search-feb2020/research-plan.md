@@ -1,6 +1,6 @@
 # Research plan for facility locator user expectations for search
+Prepared by Aricka Lewis, Ad Hoc | February 2020
 
-As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
 The goal of this research is to learn what user expectations are for searching and receiving results on the facility locator.
 
