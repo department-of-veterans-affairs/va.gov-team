@@ -14,6 +14,7 @@ assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
 - [ ] VSP <> **requesting team** review meeting completed
 
 ## Artifacts - _please provide the following at least 2 days before the scheduled meeting_
+- Product outline
 - Sketches
 - lo-fi mockups
 
