@@ -17,7 +17,7 @@ _Sprint 12-14_
 The most updated version of the MDT prototype can be viewed [here](https://vsateams.invisionapp.com/share/6MVTG94WNH5).
 
 ### Form Table of Contents 
-Documentation containing descriptions, feedback, and content for each chapter and its page(s) can be found here.
+Documentation containing descriptions, feedback, and content for each chapter's pages can be found here.
 
 - **Content page** 
    - Content Page (TBD)
