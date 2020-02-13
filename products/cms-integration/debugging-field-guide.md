@@ -4,17 +4,17 @@
 1.  [Debugging Field Guide](#debugging-field-guide)
     1.  [JSON schema validation errors](#json-schema-validation-errors)
         1.  [Solution](#solution)
-    2.  [Object doesn&rsquo;t deep equal object??](#object-doesnt-deep-equal-object)
+    2.  [Object doesn't deep equal object??](#object-doesnt-deep-equal-object)
         1.  [Solution](#solution-1)
     3.  [Handling circular references](#handling-circular-references)
         1.  [Solution](#solution-2)
-    4.  [My transformer isn&rsquo;t receiving a property that exists in the raw content](#my-transformer-isnt-receiving-a-property-that-exists-in-the-raw-content)
+    4.  [My transformer isn't receiving a property that exists in the raw content](#my-transformer-isnt-receiving-a-property-that-exists-in-the-raw-content)
         1.  [Solution](#solution-3)
 
 
 # Debugging Field Guide
 
-Oh no. Something broke, didn&rsquo;t it? Here, take this guide. I hope it helps.
+Oh no. Something broke, didn't it? Here, take this guide. I hope it helps.
 
 
 ## JSON schema validation errors
@@ -52,11 +52,11 @@ From this message we can see the following:
     -   `schemapath` tells us what rule it was, `params` tells us what the valid
         options were
         -   Technically, it tells us what the parameters were for that particular rule
-    -   In this case, we can see it was the `fieldLinkFacilityEmergList`&rsquo;s `type`
+    -   In this case, we can see it was the `fieldLinkFacilityEmergList`'s `type`
         which was supposed to be either an object or null
 -   The exact error message returned from [AJV](https://github.com/epoberezkin/ajv)
     -   Look in `message`
-    -   This is the easy way to figure out what the error was, but it&rsquo;s sometimes
+    -   This is the easy way to figure out what the error was, but it's sometimes
         still mystifying
 -   What the actual data was that failed the validation
     -   In this case, we can see `.entity.fieldLinkFacilityEmergList` was an empty
@@ -67,7 +67,7 @@ From this message we can see the following:
 
 ### Solution
 
-Armed with this information, we can crack open the transformer and see what&rsquo;s
+Armed with this information, we can crack open the transformer and see what's
 going on.
 
 **Note:** If a validation error occurs while running the unit tests, you may have
@@ -75,9 +75,9 @@ to scroll up quite a ways to see the actual validation error output. Just look
 for the yellow / gold writing.
 
 
-## Object doesn&rsquo;t deep equal object??
+## Object doesn't deep equal object??
 
-Ideally, we&rsquo;d catch all the validation errors locally, but that won&rsquo;t always be
+Ideally, we'd catch all the validation errors locally, but that won't always be
 the case. Unfortunately, the error output from Mocha is sometimes limited in
 Jenkins. As such, when the unit test encounters an error, it logs the entire
 test file and the output of the transformation for manual comparison.
@@ -92,7 +92,7 @@ Open the full logs in Jenkins to find the error output. Search for
 
 ## Handling circular references
 
-Typically, it&rsquo;s best to leave child entities alone in the parent transformer,
+Typically, it's best to leave child entities alone in the parent transformer,
 but sometimes this causes a circular reference. For example:
 
     {
@@ -121,20 +121,20 @@ following error:
 
 Return only part of a content model. See [`node-vamc_operating_status_and_alerts`](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/transformers/node-vamc_operating_status_and_alerts.js#L18-L25)
 for an example. Once this is done, the [schema will need to be updated](https://github.com/department-of-veterans-affairs/vets-website/blob/5015d231a1391c542b2bd4637500afd6296cc649/src/site/stages/build/process-cms-exports/schemas/transformed/node-vamc_operating_status_and_alerts.js#L23-L28) so it
-doesn&rsquo;t expect the missing pieces.
+doesn't expect the missing pieces.
 
 
 
-## My transformer isn&rsquo;t receiving a property that exists in the raw content
+## My transformer isn't receiving a property that exists in the raw content
 
-You&rsquo;ve verified that the property *does* exist in the content model and it&rsquo;s
+You've verified that the property *does* exist in the content model and it's
 present in the actual entity on file, but when you try to use it in the
-transformer, it just plain isn&rsquo;t there? Sounds like it needs to be added to the
-content model&rsquo;s `filter`.
+transformer, it just plain isn't there? Sounds like it needs to be added to the
+content model's `filter`.
 
 
 ### Solution
 
-Make sure the content model&rsquo;s [`filter`](transformation-process.md) includes the property you want to use in
+Make sure the content model's [`filter`](transformation-process.md) includes the property you want to use in
 the transformer.
 
