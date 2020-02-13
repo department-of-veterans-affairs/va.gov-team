@@ -2,7 +2,7 @@
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 
-**Last Updated:** 2020-02-11
+**Last Updated:** 2020-02-13
 
 **Status:** **Draft**
 
@@ -26,7 +26,7 @@ We are adding a public landing page that will contain a search input where users
 
 ### Detailed Design
 
-For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/). This will use [Algolia's Search API](https://www.algolia.com/products/search/) to query Algolia's Hosted database (link needed), which will be populated by [Algolia's scraper](https://github.com/algolia/docsearch-scraper) using a configuration we supply (link needed).
+For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/). This will use [Algolia's Search API](https://www.algolia.com/products/search/) to query Algolia's hosted database (https://www.algolia.com/pricing/), which will be populated by [Algolia's scraper](https://github.com/algolia/docsearch-scraper) using a configuration we supply (link needed).
 
 In general, this kind of system requires the following components:
 
@@ -46,7 +46,7 @@ By leveraging the following existing technologies, we should only need to add th
 
 #### Where/when to run the scraper
 
-For the MVP, we will run the crawler in a scheduled job once every 24 hours in Circle CI.
+For the MVP, we will run the crawler in a scheduled job once every 24 hours in a Circle CI pipeline for the `va.gov-team` repo.
 
 #### Private repos
 
@@ -54,7 +54,9 @@ For the MVP, we will run the crawler in a scheduled job once every 24 hours in C
 
 ### Code Location
 
-The code will live in a new repo (tentatively titled something like `docs-landing-page`).
+The search input and DocSearch JS snippet will live in the `docs/index.html` file inside the `va.gov-team` repo.
+
+The config file for the crawler (`config.json`) will also live inside inside the `va.gov-team` repo.
 
 ### Testing Plan
 
@@ -171,8 +173,10 @@ The recommendation from the discovery sprint is to build a custom documentation 
 
 ### Revision History
 
-| Date         | Revisions Made         | Author        | Reviewed By |
-| ------------ | ---------------------- | ------------- | ----------- |
-| Jan 27, 2020 | Initial Draft          | Bill Fienberg |             |
-| Feb 10, 2020 | Update Detailed Design | Bill Fienberg |             |
-| Feb 11, 2020 | Answer open questions  | Bill Fienberg |             |
+| Date         | Revisions Made                      | Author        | Reviewed By |
+| ------------ | ----------------------------------- | ------------- | ----------- |
+| Jan 27, 2020 | Initial Draft                       | Bill Fienberg |             |
+| Feb 10, 2020 | Update Detailed Design              | Bill Fienberg |             |
+| Feb 11, 2020 | Answer open questions               | Bill Fienberg |             |
+| Feb 12, 2020 | Expand on where/when to run crawler | Bill Fienberg |             |
+| Feb 13, 2020 | Update Code Location section        | Bill Fienberg |             |
