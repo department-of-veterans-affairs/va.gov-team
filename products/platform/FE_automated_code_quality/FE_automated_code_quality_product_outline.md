@@ -18,7 +18,7 @@
 ---
 
 ## Problem Statement
-The VSP Platform needs an automated method of measuring code quality against a standardized and published set of quality rules so that we can speed up development of VSF teams by eliminating time-consuming code reviews required for changes by FE VSA Devs while also ensuring VSP can maintain it's platform Front-End Development standards around security, stability, scalability and maintainability. 
+The VSP Platform needs an automated method of measuring code quality against a standardized and published set of quality rules so that we can speed up development of VSF teams by eliminating time-consuming code reviews required for changes by FE VSA Devs while also balancing VSP's desire to maintain it's platform Front-End Development standards around security, stability, scalability and maintainability. 
  
 ## User Goals (VSF Teams)
 - Reduce the time spent waiting for PR reviews from the VSP team on changes to the front-end
