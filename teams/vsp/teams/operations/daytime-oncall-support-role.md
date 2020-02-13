@@ -6,11 +6,11 @@ The Operations team can be “interrupted” by unscheduled requests that come i
 * Requests for assistance from the VFS or VSP teams
 * Support requests in the support channels
 * Monitoring oncall channel
-* Supporting and monitoring deployments
+* Supporting and monitoring deployments **need to add section on this**
 * Responding to and reviewing any internal or external DevOps PRs
 * Small, non-critical issues that can be easily stopped/started
-* Working on Postmortem action items.
-* Respond and grant approved access to requests from access in Zenhub.
+* Working on Postmortem action items. **need to add section on this**
+* Respond and grant approved access to requests from access in Zenhub.**need to add link to this section**
 
 There is no intention to permanently assign this role to a single person -- this is a shared responsibility assigned to the entire team much like handling oncall responsibilities and implemented by a single person on a rotating basis.
 
@@ -45,22 +45,20 @@ At the end of the rotation, the developer should unassign themselves from the tw
 
 ### Pull Requests
 
-Your Github team notification and #vsp-operations channel can be used to track PRs that need to be reviewed. We try to have a 24h turnaround, so getting to them quickly is important, especially for small/simple/easy PRs.
+Your Github team notification and #vsp-operations channel can be used to track PRs that need to be reviewed. 
 
 ### Support requests
 
-Create an issue describing the request in GitHub and link it to one of the two super-epics. Assign it to yourself. Track any work done with comments. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
+Create an issue describing the request in GitHub and link it to one of the two super-epics. Assign it to yourself. Track any work done with comments. Only track support that takes more than 15 mins and if it a PR that takes under 15 mins please link to the super epic. If the support work seems to be taking you down a long road, make a note around this and bring to the teamto scope out into a project. Unlesss an emeregeny don't spend more than 2 hours on any given support work. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
 
 ### Everything else
 
 The oncall developer should handle normal oncall tasks, but may need some support. Helping out or finding the right people to help out can make emergent platform issues easier to deal with.
 
-If there is *literally* nothing else to do, here are a few more ideas:
+If there is nothing else to do, here are a few more ideas:
 
-* Refactor a spec
-* Work through a Postmodern action item
-* Pair with another developer to help move their issue forward
 * Dig into an area of the code you are unfamiliar with
+* Pair with another developer to help move their issue forward
 
 ## Ongoing review
 
