@@ -1,0 +1,63 @@
+{
+  "index_name": "dev_docs",
+  "start_urls": [
+    {
+      "url": "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/",
+      "selectors_key": "folder",
+      "page_rank": 0,
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "url": "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.+$",
+      "selectors_key": "folder",
+      "page_rank": 0,
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "url": "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.+\\.md$",
+      "selectors_key": "file",
+      "page_rank": 5,
+      "tags": [
+        "file"
+      ]
+    }
+  ],
+  "selectors": {
+    "folder": {
+      "text": ".js-navigation-item td.content"
+    },
+    "file": {
+      "lvl0": "article h1",
+      "lvl1": "article h2",
+      "lvl2": "article h3",
+      "lvl3": "article h4",
+      "lvl4": "article h5",
+      "lvl5": "article h6",
+      "text": "article p, article li"
+    }
+  },
+  "selectors_exclude": [
+    ".up-tree"
+  ],
+  "custom_settings": {
+    "attributesForFaceting": [
+      "language",
+      "version"
+    ]
+  },
+  "stop_urls": [
+    "https://raw.githubusercontent.com",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/commits/*",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/blame",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/pulls",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/pull/*",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/issues/*",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/branches",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/graphs",
+    "https://github.com/department-of-veterans-affairs/va.gov-team/find"
+  ]
+}
