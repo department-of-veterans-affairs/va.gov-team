@@ -1,7 +1,7 @@
 # How we work
 
 ### Documentation:
-**Google Drive:** https://drive.google.com/open?id=1lP6czKPYp0Qk0XalnG2CLLTxlnbS-WsN 
+**Google Drive (Ad Hoc):** https://drive.google.com/open?id=1lP6czKPYp0Qk0XalnG2CLLTxlnbS-WsN 
 - Documentation that should NOT be shared publicly (e.g., BIP technical resource documents)
 - WIP documents (e.g., Team of Teams slides)
 
@@ -9,24 +9,25 @@
 - Architecture diagrams
 - Pull Request/Merging Etiquette - TBD
 
-**ZenHub:** VFT board (labels: structured-data + form 530)
+**ZenHub:** VFT board (labels: `structured-data` + `form 530`)
 - **Icebox:** Blocked until other work is completed
 - **Backlog:** Ready to be worked
-- **In Progress:** Work that is in progress
+- **In Progress:** Work that is currently in progress
 - **Validate:** Work that is completed but is pending a review or other action from someone outside the team
 - **Closed:** Work that has been reviewed and completed
-Issue Etiquette
+
+**Issue Etiquette**
 
 For an issue to go into the Backlog pipeline, it must have the following:
-- **Title:** Describes task
+- **Title:** Descriptive, short
 - **User story:** Describes what we’re going to build or do from the end user’s perspective
-- **Tasks:** Describe what needs to be done
-- **Acceptance Criteria:** What needs to happen for this story to be closed
+- **Tasks:** Describe steps that need to be done
+- **Acceptance Criteria:** What needs to happen for this story to be considered "done"
 - **Nested in an Epic:**
  1. Vets-api integration with BGS
-  2. Vets-api integration with Claims
-  3. Vets-api integration with eFolder
-  4. Vets-api integration with BPD
+ 2. Vets-api integration with Claims
+ 3. Vets-api integration with eFolder
+ 4. Vets-api integration with BPD
  
 ### Workflow + Cadence
 Our project cadence will be determined by our release plan (rather than sprints) since we will be releasing on a frequent basis. There will be four release cycles with intermittent PRs throughout.
@@ -42,9 +43,9 @@ Mon + Weds @ 2:30 PM EST for 30 min
 
 ### Communication
 **Slack:**
-#va-startup-pension-automation: Should only be used for sensitive internal communications
-#vfs-pension-automation: Should be used for day-to-day discussions about project work
-#vfs-platform-support: For any issues or questions
+- #vfs-pension-automation (dsva): Should be used for day-to-day discussions about project work
+- #vfs-platform-support (dsva): For any issues or questions
+- #va-startup-pension-automation (adhoc): Should only be used for sensitive internal communications
 
 **Meetings:**
 - Standup on Monday and Wednesday
