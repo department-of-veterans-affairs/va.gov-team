@@ -12,7 +12,7 @@
 
 ### Objective
 
-Add search functionality to a public documentation landing page.
+Sign up for Algolia, add a search input and Algolia's DocSearch JS snippet to the root page of `va.gov-team`'s GitHub Pages site, and configure CircleCI to run's Algolia's scraper to crawl our docs once per day.
 
 ### Background
 
@@ -20,13 +20,11 @@ The documentation we have is spread across many different locations (public repo
 
 ### High Level Design
 
-We are adding a public landing page that will contain a search input where users can search multiple sources of documentation with one query.
-
 ## Specifics
 
 ### Detailed Design
 
-For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/). This will use [Algolia's Search API](https://www.algolia.com/products/search/) to query Algolia's hosted database (https://www.algolia.com/pricing/), which will be populated by [Algolia's scraper](https://github.com/algolia/docsearch-scraper) using a configuration we supply (link needed).
+For a multi-repo search MVP, we are adding an HTML text input and [Algolia's DocSearch JS snippet](https://github.com/algolia/docsearch) to the [`va.gov-team` GitHub Pages site](https://department-of-veterans-affairs.github.io/va.gov-team/). This will use [Algolia's Search API](https://www.algolia.com/products/search/) to query Algolia's hosted database (https://www.algolia.com/pricing/), which will be populated by [Algolia's scraper](https://github.com/algolia/docsearch-scraper) using a [configuration we supply](docs/docsearch-scraper-config.json).
 
 In general, this kind of system requires the following components:
 
@@ -36,13 +34,17 @@ In general, this kind of system requires the following components:
 - Crawler/Scraper - We need a crawler to scan our documentation sources and push data to our index.
 - Pipeline - We need a way to routinely run the crawler
 
-Each one of the above components could be a separate buy-or-build decision.
+By using Algolia's Search API product with their open source Dropdown Search-UI and open source scraper, we can avoid building/maintaining the database, API, UI, and crawler components.
 
-By leveraging the following existing technologies, we should only need to add the search input to the landing page, configure the scraper, and configure when to run the scraper.
+That means we'd be responsible for:
 
-- Algolia's Search API product will satisfy the index and API components.
-- Algolia's open source JavaScript snippet will display search results to the user.
-- Algolia's open source scraper will crawl and scrape our public documentation sources to push records into our index.
+- Converting `va.gov-team`'s `docs/index.md` from markdown to HTML
+- Adding a search input to `va.gov-team`'s `docs/index.html`
+- Adding the DocSearch `<style>` and `<script>` tags to `va.gov-team`'s `docs/index.html`
+- Writing the config file for the scraper
+- Adding CircleCI to `va.gov-team`
+- Adding a scheduled job to `va.gov-team`'s CircleCI pipeline to run the scraper once every 24 hours
+- Manually triggering the initial scraper run to populate our Algolia index
 
 #### Usage limits
 
@@ -62,7 +64,7 @@ The upper tier, the Pro plan, includes up to 1M records and 5M operations. If we
 
 ---
 
-Essentially, every line of text (`<p>`, `<li>`, `<h1-6>`, etc) in a markdown file ends up as a separate record in the Algolia index. We have approximately 3K `.md` files in the `va.gov-team` repo. We ran a test crawler to estimate how many elements would match our selectors, and it found almost 150K matching elements, which would translate to 150K records.
+Essentially, every line of text (`<p>`, `<li>`, `<h1-6>`, etc) in a markdown file ends up as a separate record in the Algolia index. We have approximately 3K `.md` files in the `va.gov-team` repo. We ran a test crawler on the `va.gov-team` repo to estimate how many elements would match our selectors, and it found almost 150K matching elements, which equates to almost 150K records.
 
 #### Where/when to run the scraper
 
