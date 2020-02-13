@@ -18,8 +18,8 @@ This list of questions is _not_ intended to be comprehensive. It _is_ intended t
 
 #### Logs
 
-* What new log statements have the developers added? (FE or BE). This includes data sent to Sentry, Cloudwatch, Google Analytics, ...?
-* What kinds of information are being logging? Is there anything that uniquely identifies a user (PII)?
+* Are there any new logging statements? (FE or BE). This includes data sent to Sentry, Cloudwatch, Google Analytics, ...?
+* What kinds of information are logged in the new logging? Is there anything that uniquely identifies a user (Personally Identifiable Information)?
 
 #### User tracking / identity
 
