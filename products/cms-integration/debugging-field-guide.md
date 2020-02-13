@@ -42,9 +42,9 @@ From this message we can see the following:
 -   Which content model it was
     -   `node-health_care_region_page`
 -   Which schema failed
-    -   &ldquo;invalid after transformation&rdquo; means the schema in question can be found in
+    -   "invalid after transformation" means the schema in question can be found in
         `schemas/transformed/node-health_care_region_page.js`
-    -   &ldquo;invalid before transformation&rdquo; would mean the schema could be found in
+    -   "invalid before transformation" would mean the schema could be found in
         `schemas/raw/node-health_care_region_page.js`
 -   The field that failed validation
     -   Look in the `dataPath`
