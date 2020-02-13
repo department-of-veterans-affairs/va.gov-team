@@ -2,10 +2,16 @@
 
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
-1. What product & team are you doing this research for?	
-2. Background: Briefly, what is the background on this product? What would a new person on the team need to know about this product? 	
-3. Research questions: What question(s) do you hope to be able to answer after completing this research? 	
-4. Hypothesis: What is your hypothesis for this research? 	
+The goal of this research is to learn what user expectations are for searching and receiving results on the facility locator.
+
+### Background
+
+### Research questions
+- How does user interaction with the map differ between urban and rural residents?
+
+### Hypothesis	
+
+
 ## Method	
 1.	What method of research are you planning? 	
   - **Sample Methodologies**: Directed interviews; ethnographic interviews; observation; card sorts; tree tests; guerilla usability testing; usability testing with low- or high-fidelity prototypes; user acceptance testing. 	
