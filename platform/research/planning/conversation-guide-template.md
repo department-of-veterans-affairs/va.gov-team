@@ -16,8 +16,10 @@
 
 ### Project-specific setup
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Complete research plan
+- [ ] Complete conversation guide
+- [ ] Submit to Perigean
+- [ ] Schedule pilot session
 
 ## Intro - 5 minutes
 
