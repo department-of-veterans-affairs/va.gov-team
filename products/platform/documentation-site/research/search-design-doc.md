@@ -44,9 +44,31 @@ By leveraging the following existing technologies, we should only need to add th
 - Algolia's open source JavaScript snippet will display search results to the user.
 - Algolia's open source scraper will crawl and scrape our public documentation sources to push records into our index.
 
+#### Usage limits
+
+[Algolia's pricing page](https://www.algolia.com/pricing/) shows three different tiers, in addition to an enterprise plan. The primary differentiator between the tiers is the number of records and the number of operations (read/write/edit/delete) included with each plan.
+
+##### The Community Plan
+
+The free tier, the Community plan, includes up to 10K records and 50K operations (read/write/edit/delete). After hitting the limit, we'd have to upgrade to a paid plan.
+
+##### The Starter Plan
+
+The middle tier, the Starter plan, includes up to 50K records and 250k operations. It costs an extra $10/month to get 100K additional operations, and it costs an extra $10/month to get an extra 20K records.
+
+##### The Pro Plan
+
+And the upper tier, the Pro plan, includes up to 1M records and 5M operations. It costs an extra $5/month to get 100K additional operations, and it costs an extra $5/month to get an extra 20K records.
+
+---
+
+Essentially, every line of text (`<p>`, `<li>`, `<h1-6>`, etc) in a markdown file ends up as a separate record in the Algolia index. We have approximately 3K `.md` files in the `va.gov-team` repo. We ran a test crawler to estimate how many elements would match our selectors, and it found almost 150K matching elements, which would translate to 150K records.
+
 #### Where/when to run the scraper
 
-For the MVP, we will run the crawler in a scheduled job once every 24 hours in a Circle CI pipeline for the `va.gov-team` repo.
+Subject to review, we will run the crawler in a scheduled job once every 24 hours in a Circle CI pipeline for the `va.gov-team` repo.
+
+It's possible that running the scraper once per day would consume a significant number of operations.
 
 #### Private repos
 
@@ -173,10 +195,10 @@ The recommendation from the discovery sprint is to build a custom documentation 
 
 ### Revision History
 
-| Date         | Revisions Made                      | Author        | Reviewed By |
-| ------------ | ----------------------------------- | ------------- | ----------- |
-| Jan 27, 2020 | Initial Draft                       | Bill Fienberg |             |
-| Feb 10, 2020 | Update Detailed Design              | Bill Fienberg |             |
-| Feb 11, 2020 | Answer open questions               | Bill Fienberg |             |
-| Feb 12, 2020 | Expand on where/when to run crawler | Bill Fienberg |             |
-| Feb 13, 2020 | Update Code Location section        | Bill Fienberg |             |
+| Date         | Revisions Made                                            | Author        | Reviewed By |
+| ------------ | --------------------------------------------------------- | ------------- | ----------- |
+| Jan 27, 2020 | Initial Draft                                             | Bill Fienberg |             |
+| Feb 10, 2020 | Update Detailed Design                                    | Bill Fienberg |             |
+| Feb 11, 2020 | Answer open questions                                     | Bill Fienberg |             |
+| Feb 12, 2020 | Expand on where/when to run crawler                       | Bill Fienberg |             |
+| Feb 13, 2020 | Add Usage Limits section and update Code Location section | Bill Fienberg |             |
