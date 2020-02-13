@@ -27,17 +27,17 @@
 
 # Transformation Process
 
-So you want to take a peek under the hood, eh? Please, step inside. I&rsquo;ll show
+So you want to take a peek under the hood, eh? Please, step inside. I'll show
 you how it works.
 
 
 ## The actors
 
 The goal of the whole transformer system is to change all the content models
-from one shape to another. In the end, it&rsquo;s just inputs (raw content), process
+from one shape to another. In the end, it's just inputs (raw content), process
 (the transformers), and outputs (transformed content).
 
-Before we talk about how it all works, let&rsquo;s get some shared terminology first.
+Before we talk about how it all works, let's get some shared terminology first.
 
 
 ### Content model name
@@ -87,9 +87,9 @@ The JSON objects in of each of these files should match exactly one [pre-transfo
 
 ### Filter
 
-Filters are found in as a named export in a content model&rsquo;s [`transformer` file](#content-model-transformers).
-They&rsquo;re used to filter out properties in the [raw content](#raw-content) before [entity expansion](#entity-expansion)
-so it doesn&rsquo;t read more files than necessary.
+Filters are found in as a named export in a content model's [`transformer` file](#content-model-transformers).
+They're used to filter out properties in the [raw content](#raw-content) before [entity expansion](#entity-expansion)
+so it doesn't read more files than necessary.
 
 
 ### Transformer
@@ -102,7 +102,7 @@ using the content in the [templates](#liquid-templates).
 ### Transformed content
 
 The [transformer](#transformer), converts raw content into transformed content. The resulting
-data structure must match the content model&rsquo;s [post-transformation JSON schema](#post-transformation-json-schema)
+data structure must match the content model's [post-transformation JSON schema](#post-transformation-json-schema)
 and is what will be used in the [templates](#liquid-templates).
 
 
@@ -112,7 +112,7 @@ The final step before content is translated from an abstract content model to
 full-fledged HTML files, the liquid templates are used to couch the content in
 the necessary trappings of HTML.
 
-For more information on the Liquid template language, see [Shopify&rsquo;s
+For more information on the Liquid template language, see [Shopify's
 documentation](https://shopify.github.io/liquid/).
 
 
@@ -129,7 +129,7 @@ the pipeline. A high-level overview looks something like this:
     -   Certain properties will be kept based on the [filters](#filter) provided for the
         content model type
     -   The remaining properties will be scoured for references to other entities
-        -   If found, it&rsquo;ll recurse with those new entities, [expanding](#entity-expansion) the child
+        -   If found, it'll recurse with those new entities, [expanding](#entity-expansion) the child
             references
     -   The [transformer](#content-model-transformers) for the content model is run on the data
     -   The newly-transformed data is validated against the [post-transformation JSON
@@ -218,8 +218,8 @@ it against a post-transformation JSON schema found in
 `src/site/stages/build/process-cms-exports/schemas/transformed/` to ensure
 nothing unexpected happened during transformation.
 
-These schemas are also **useful for debugging** what&rsquo;s going on in the templates
-(see below). If you know what content model you&rsquo;re working with in a given
+These schemas are also **useful for debugging** what's going on in the templates
+(see below). If you know what content model you're working with in a given
 template, you can look at the schema to see what data you have access to and
 what shape it takes.
 
@@ -250,7 +250,7 @@ The unit test will:
 
 ## Digging deep
 
-There&rsquo;s some magic hidden behind the scenes to make adding new content models as
+There's some magic hidden behind the scenes to make adding new content models as
 easy as possible.
 
 
