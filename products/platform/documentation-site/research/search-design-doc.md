@@ -50,15 +50,15 @@ By leveraging the following existing technologies, we should only need to add th
 
 ##### The Community Plan
 
-The free tier, the Community plan, includes up to 10K records and 50K operations (read/write/edit/delete). After hitting the limit, we'd have to upgrade to a paid plan.
+The free tier, the Community plan, includes up to 10K records and 50K operations (read/write/edit/delete). If we exceed the limits of the free tier, we'd have to upgrade to a paid tier.
 
 ##### The Starter Plan
 
-The middle tier, the Starter plan, includes up to 50K records and 250k operations. It costs an extra $10/month to get 100K additional operations, and it costs an extra $10/month to get an extra 20K records.
+The middle tier, the Starter plan, includes up to 50K records and 250k operations. If we exceed the limits of the Starter plan, it would cost an extra $10/month for every additional 100K operations, and an extra $10/month for every additional 20K records.
 
 ##### The Pro Plan
 
-And the upper tier, the Pro plan, includes up to 1M records and 5M operations. It costs an extra $5/month to get 100K additional operations, and it costs an extra $5/month to get an extra 20K records.
+The upper tier, the Pro plan, includes up to 1M records and 5M operations. If we exceed the limits of the Pro plan, it would cost an extra $5/month foe every 100K additional operations, and an extra $5/month for every additional 20K records.
 
 ---
 
