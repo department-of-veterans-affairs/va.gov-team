@@ -7,10 +7,15 @@ The goal of this research is to learn what user expectations are for searching a
 ### Background
 
 ### Research questions
-- How does user interaction with the map differ between urban and rural residents?
+- How does user interaction with the map and search results differ between urban and rural residents?
+- What impact does facility or service type have on how participants interact with search results?
+- How many search results should the facility locator display before pagination?
+- How do participants utilize the map and search results together?
+- How do particpants expect to refine their search results?
 
 ### Hypothesis	
-
+- Rural participants will not want to see many return results if the facilities are far away
+- Urban participants will want to see multiple locations and compare them by if they are close 
 
 ## Method	
 1.	What method of research are you planning? 	
