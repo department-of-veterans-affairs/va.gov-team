@@ -15,6 +15,6 @@ attempts to gather those into one place.
 ## Schema naming
 
 For raw and transformed schemas, the `$id` is [added automatically](transformation-process.md#automatic-id), but for
-common schemas, it&rsquo;s best to add them manually. When doing so, **capitalize the
+common schemas, it's best to add them manually. When doing so, **capitalize the
 schema name**.
 
