@@ -9,7 +9,7 @@ The Operations team can be “interrupted” by unscheduled requests that come i
 * Supporting and monitoring deployments
 * Responding to and reviewing any internal or external DevOps PRs
 * Small, non-critical issues that can be easily stopped/started
-* Working on Postmodorem action items.
+* Working on Postmortem action items.
 * Respond and grant approved access to requests from access in Zenhub.
 
 There is no intention to permanently assign this role to a single person -- this is a shared responsibility assigned to the entire team much like handling oncall responsibilities and implemented by a single person on a rotating basis.
