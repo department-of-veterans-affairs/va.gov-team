@@ -14,5 +14,6 @@ assignees: 1Copenut, jenstrickland
 - [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
 
 ## Artifacts - _please provide the following artifacts when you request a full review_
-- Link to where the feature lives on staging and link to any user testing credentials in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility
-- Link to completed Accessibility Test Plan
+- Link to where the feature lives on staging and link to any user testing credentials stored as a .md file in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility. DO NOT PUT STAGING PASSWORDS IN THE PUBLIC REPO. 
+- Link to completed Accessibility Test Plan (Github or TestRail) 
+
