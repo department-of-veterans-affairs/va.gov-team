@@ -33,3 +33,5 @@
 
 2. [Analytics & Insights](https://docs.google.com/spreadsheets/d/1Kv91DobU2sl1Y-vzicfIDZg8MtiX254tcYPiwU6VkWA/edit#gid=1554481611)
 
+3. [Content & IA](https://docs.google.com/spreadsheets/d/1eoYLCAV1pmE0CPXD4npgsPocJZMmvzp2E6lZJrMJgH4/edit#gid=1554481611)
+
