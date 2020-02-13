@@ -10,7 +10,7 @@ The Operations team can be “interrupted” by unscheduled requests that come i
 * Responding to and reviewing any internal or external DevOps PRs
 * Small, non-critical issues that can be easily stopped/started
 * Working on Postmortem action items. **need to add section on this**
-* Respond and grant approved access to requests from access in Zenhub.**need to add link to this section**
+* Respond and grant [approved access](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/operations/Internal_Onboarding_Instructions.md) to requests for access in Zenhub.
 
 There is no intention to permanently assign this role to a single person -- this is a shared responsibility assigned to the entire team much like handling oncall responsibilities and implemented by a single person on a rotating basis.
 
