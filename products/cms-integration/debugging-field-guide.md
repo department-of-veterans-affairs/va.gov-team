@@ -137,6 +137,6 @@ content model's `filter`.
 
 ### Solution
 
-Make sure the content model's [`filter`](transformation-process.md) includes the property you want to use in
+Make sure the content model's [`filter`](transformation-process.md#filter) includes the property you want to use in
 the transformer.
 
