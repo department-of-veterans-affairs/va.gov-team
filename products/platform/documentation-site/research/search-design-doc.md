@@ -162,16 +162,13 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 
 ### Work Estimates
 
-1. Provision and configure data store to house records that will be returned from the Search API. - 1 week
-
-- I estimate one week because I suspect we'll either need to get approval to use Algolia's hosted API or get approval to provision a custom data store.
-
-1. Configure crawler to seed the initial data store. - 2 days
-1. Run the crawler to populate the data store. - 2 days
-1. Build a landing page that will contain a search input that submits requests to the Search API. - 2 days
-1. Deploy the landing page to a publicly available location. - 2 days
-
-- I estimate this may take longer if we need to need to coordinate with other teams.
+1. Convert `va.gov-team`'s `docs/index.md` from markdown to HTML - <1 hour
+1. Add a search input to `va.gov-team`'s `docs/index.html` - <5 minutes
+1. Add the DocSearch `<style>` and `<script>` tags to `va.gov-team`'s `docs/index.html` - <5 minutes
+1. Write the config file for the scraper - <1 day
+1. Add CircleCI to `va.gov-team` - <1 day
+1. Add a scheduled job to run the scraper once every 24 hours in `va.gov-team`'s CircleCI pipeline - <1 day
+1. Run the scraper - <1 day
 
 ### Alternatives
 
@@ -199,10 +196,10 @@ The recommendation from the discovery sprint is to build a custom documentation 
 
 ### Revision History
 
-| Date         | Revisions Made                                            | Author        | Reviewed By |
-| ------------ | --------------------------------------------------------- | ------------- | ----------- |
-| Jan 27, 2020 | Initial Draft                                             | Bill Fienberg |             |
-| Feb 10, 2020 | Update Detailed Design                                    | Bill Fienberg |             |
-| Feb 11, 2020 | Answer open questions                                     | Bill Fienberg |             |
-| Feb 12, 2020 | Expand on where/when to run crawler                       | Bill Fienberg |             |
-| Feb 13, 2020 | Add Usage Limits section and update Code Location section | Bill Fienberg |             |
+| Date         | Revisions Made                                                              | Author        | Reviewed By |
+| ------------ | --------------------------------------------------------------------------- | ------------- | ----------- |
+| Jan 27, 2020 | Initial Draft                                                               | Bill Fienberg |             |
+| Feb 10, 2020 | Update Detailed Design                                                      | Bill Fienberg |             |
+| Feb 11, 2020 | Answer open questions                                                       | Bill Fienberg |             |
+| Feb 12, 2020 | Expand on where/when to run crawler                                         | Bill Fienberg |             |
+| Feb 13, 2020 | Add Usage Limits section, and update Code Location & Work Estimate sections | Bill Fienberg |             |
