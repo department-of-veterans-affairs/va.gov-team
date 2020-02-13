@@ -1,40 +1,35 @@
 
 # Table of Contents
 
-1.  [Transformation Process](#org3d51180)
-    1.  [The actors](#org742210c)
-        1.  [Content model name](#org5d30ede)
-        2.  [Content model](#org0c2b21d)
-        3.  [Raw content](#org28b6201)
-        4.  [Filter](#orga60e353)
-        5.  [Transformer](#org2c9bdf4)
-        6.  [Transformed content](#orgb2e5ea4)
-        7.  [Liquid templates](#org6f052af)
-    2.  [The process](#orga5401ec)
-        1.  [Metalsmith pipeline](#orgf0c5512)
-        2.  [CMS export tarball](#orgffc87ba)
-        3.  [Pre-transformation JSON schema](#orgd4903ba)
-        4.  [Entity expansion](#orgf48d43f)
-        5.  [Content model transformers](#org0b354f8)
-        6.  [Post-transformation JSON schema](#org2a89c43)
-        7.  [Liquid templates](#org5a3177e)
-    3.  [Testing](#org43964c1)
-    4.  [Digging deep](#org6a46c23)
-        1.  [Automatic schema imports](#org8ff8e44)
-        2.  [Automatic `$id`](#orgfdcff70)
-    5.  [Debugging](#orgd20bc34)
+1.  [Transformation Process](#transformation-process)
+    1.  [The actors](#the-actors)
+        1.  [Content model name](#content-model-name)
+        2.  [Content model](#content-model)
+        3.  [Raw content](#raw-content)
+        4.  [Filter](#filter)
+        5.  [Transformer](#transformer)
+        6.  [Transformed content](#transformed-content)
+        7.  [Liquid templates](#liquid-templates)
+    2.  [The process](#the-process)
+        1.  [Metalsmith pipeline](#metalsmith-pipeline)
+        2.  [CMS export tarball](#cms-export-tarball)
+        3.  [Pre-transformation JSON schema](#pre-transformation-json-schema)
+        4.  [Entity expansion](#entity-expansion)
+        5.  [Content model transformers](#content-model-transformers)
+        6.  [Post-transformation JSON schema](#post-transformation-json-schema)
+        7.  [Liquid templates](#liquid-templates)
+    3.  [Testing](#testing)
+    4.  [Digging deep](#digging-deep)
+        1.  [Automatic schema imports](#automatic-schema-imports)
+        2.  [Automatic `$id`](#automatic-id)
+    5.  [Debugging](#debugging)
 
-
-
-<a id="org3d51180"></a>
 
 # Transformation Process
 
 So you want to take a peek under the hood, eh? Please, step inside. I&rsquo;ll show
 you how it works.
 
-
-<a id="org742210c"></a>
 
 ## The actors
 
@@ -45,8 +40,6 @@ from one shape to another. In the end, it&rsquo;s just inputs (raw content), pro
 Before we talk about how it all works, let&rsquo;s get some shared terminology first.
 
 
-<a id="org5d30ede"></a>
-
 ### Content model name
 
 A content model has a two-part name, for the purposes of this integration:
@@ -56,7 +49,7 @@ A content model has a two-part name, for the purposes of this integration:
 
 The **base type** is found in the first part of the name of the file in the CMS
 export content directory. For a `node.<UUID>.json` file, its base type is
-`node`. See the section [Raw content](#org28b6201) below for context.
+`node`. See the section [Raw content](#raw-content) below for context.
 
 The **sub type** is found *inside* the entity, usually in its `type[0].target_id`
 property.
@@ -65,22 +58,18 @@ To get the full name, simply separate them with a hyphen. Examples include
 `node-page` and `paragraph-q_a_section`.
 
 
-<a id="org0c2b21d"></a>
-
 ### Content model
 
 Each content model name applies to two separate content models (shapes for the
 data):
 
 -   Raw content model
-    -   The shape of the entity fresh from the [CMS export tarball](#orgffc87ba)
-    -   The [pre-transformation JSON schema](#orgd4903ba) says what this model actually is
+    -   The shape of the entity fresh from the [CMS export tarball](#cms-export-tarball)
+    -   The [pre-transformation JSON schema](#pre-transformation-json-schema) says what this model actually is
 -   Transformed content model
-    -   The shape of the entity after it passes through the [transformer](#org2c9bdf4)
-    -   The [post-transformation JSON schema](#org2a89c43) says what this model actually is
+    -   The shape of the entity after it passes through the [transformer](#transformer)
+    -   The [post-transformation JSON schema](#post-transformation-json-schema) says what this model actually is
 
-
-<a id="org28b6201"></a>
 
 ### Raw content
 
@@ -92,38 +81,30 @@ one for now.
 Each file is named like `node.<UUID>.json` where `<UUID>` is the UUID of the
 entity.
 
-The JSON objects in of each of these files should match exactly one [pre-transformation JSON schema](#orgd4903ba) which determines which raw content model it is
+The JSON objects in of each of these files should match exactly one [pre-transformation JSON schema](#pre-transformation-json-schema) which determines which raw content model it is
 (and subsequently which transformer should be used on it).
 
 
-<a id="orga60e353"></a>
-
 ### Filter
 
-Filters are found in as a named export in a content model&rsquo;s [`transformer` file](#org0b354f8).
-They&rsquo;re used to filter out properties in the [raw content](#org28b6201) before [entity expansion](#orgf48d43f)
+Filters are found in as a named export in a content model&rsquo;s [`transformer` file](#content-model-transformers).
+They&rsquo;re used to filter out properties in the [raw content](#raw-content) before [entity expansion](#entity-expansion)
 so it doesn&rsquo;t read more files than necessary.
 
-
-<a id="org2c9bdf4"></a>
 
 ### Transformer
 
 When you boil down a transformer, all you find is a function that takes an
 object and returns an object. The purpose behind the transformer is to simplify
-using the content in the [templates](#org6f052af).
+using the content in the [templates](#liquid-templates).
 
-
-<a id="orgb2e5ea4"></a>
 
 ### Transformed content
 
-The [transformer](#org2c9bdf4), converts raw content into transformed content. The resulting
-data structure must match the content model&rsquo;s [post-transformation JSON schema](#org2a89c43)
-and is what will be used in the [templates](#org6f052af).
+The [transformer](#transformer), converts raw content into transformed content. The resulting
+data structure must match the content model&rsquo;s [post-transformation JSON schema](#post-transformation-json-schema)
+and is what will be used in the [templates](#liquid-templates).
 
-
-<a id="org6f052af"></a>
 
 ### Liquid templates
 
@@ -135,8 +116,6 @@ For more information on the Liquid template language, see [Shopify&rsquo;s
 documentation](https://shopify.github.io/liquid/).
 
 
-<a id="orga5401ec"></a>
-
 ## The process
 
 Building the content is a step-by-step process which uses Metalsmith to manage
@@ -146,20 +125,18 @@ the pipeline. A high-level overview looks something like this:
 -   All `node` entities are fed into the entity tree assembler function
 -   The following will be performed on each `node`
     -   The content model type (name) will be determined
-    -   The entity will be validated against [pre-transformation JSON schema](#orgd4903ba)
-    -   Certain properties will be kept based on the [filters](#orga60e353) provided for the
+    -   The entity will be validated against [pre-transformation JSON schema](#pre-transformation-json-schema)
+    -   Certain properties will be kept based on the [filters](#filter) provided for the
         content model type
     -   The remaining properties will be scoured for references to other entities
-        -   If found, it&rsquo;ll recurse with those new entities, [expanding](#orgf48d43f) the child
+        -   If found, it&rsquo;ll recurse with those new entities, [expanding](#entity-expansion) the child
             references
-    -   The [transformer](#org0b354f8) for the content model is run on the data
+    -   The [transformer](#content-model-transformers) for the content model is run on the data
     -   The newly-transformed data is validated against the [post-transformation JSON
-        schema](#org2a89c43)
-    -   Finally, the transformed content will be applied to a [liquid template](#org6f052af) to be
+        schema](#post-transformation-json-schema)
+    -   Finally, the transformed content will be applied to a [liquid template](#liquid-templates) to be
         transmogrified into HTML
 
-
-<a id="orgf0c5512"></a>
 
 ### Metalsmith pipeline
 
@@ -174,8 +151,6 @@ parts** are:
     static HTML
 
 
-<a id="orgffc87ba"></a>
-
 ### CMS export tarball
 
 Before we can *do* anything with the content, we need to actually fetch the
@@ -184,8 +159,6 @@ latest.
 TODO: Once we know where the tarball will live after the CMS bundles the export
 up, this section should say where the build fetches that tarball from.
 
-
-<a id="orgd4903ba"></a>
 
 ### Pre-transformation JSON schema
 
@@ -203,8 +176,6 @@ heavily in these schemas for readability.
 See [json-schema.org](https://json-schema.org/understanding-json-schema/) for a great introduction and reference for all things JSON
 schema.
 
-
-<a id="orgf48d43f"></a>
 
 ### Entity expansion
 
@@ -228,12 +199,10 @@ all child entities will be fully expanded and transformed by the time the data
 is passed to the transformer.
 
 
-<a id="org0b354f8"></a>
-
 ### Content model transformers
 
 By performing some basic data transformations, we can take the raw data and **mold
-it into a shape that the [templates](#org6f052af) expect**.
+it into a shape that the [templates](#liquid-templates) expect**.
 
 Transformers can be found in
 `src/site/stages/build/process-cms-exports/transformers/`. **Each file in this
@@ -241,8 +210,6 @@ directory is named after the content model it transforms** (e.g. `node-page.js`)
 Common functions from `transformers/helpers.js` are used heavily in these
 transformers for readability and consistency.
 
-
-<a id="org2a89c43"></a>
 
 ### Post-transformation JSON schema
 
@@ -257,16 +224,12 @@ template, you can look at the schema to see what data you have access to and
 what shape it takes.
 
 
-<a id="org5a3177e"></a>
-
 ### Liquid templates
 
 This is where the magic happens. In the end, the content models are applied to
 various templates to **generate the static HTML**. This happens after the content
 model transformation in a separate Metalsmith step.
 
-
-<a id="org43964c1"></a>
 
 ## Testing
 
@@ -285,23 +248,17 @@ The unit test will:
     matches the entry in `tests/transformed-entitites/`
 
 
-<a id="org6a46c23"></a>
-
 ## Digging deep
 
 There&rsquo;s some magic hidden behind the scenes to make adding new content models as
 easy as possible.
 
 
-<a id="org8ff8e44"></a>
-
 ### Automatic schema imports
 
 Files in the **three schemas directories** are imported and used intelligently in
 [schema-validation.js](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/site/stages/build/process-cms-exports/schema-validation.js).
 
-
-<a id="orgfdcff70"></a>
 
 ### Automatic `$id`
 
@@ -315,8 +272,6 @@ Example: `$ref: 'transformed/page-node'`
 See [Structuring a complex schema](https://json-schema.org/understanding-json-schema/structuring.html) for more information on how to use `$id` and
 `$ref`.
 
-
-<a id="orgd20bc34"></a>
 
 ## Debugging
 
