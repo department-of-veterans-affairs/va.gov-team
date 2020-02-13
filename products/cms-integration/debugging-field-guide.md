@@ -95,6 +95,7 @@ Open the full logs in Jenkins to find the error output. Search for
 Typically, it's best to leave child entities alone in the parent transformer,
 but sometimes this causes a circular reference. For example:
 
+```json
     {
         "$id": "Foo",
         "type": "object",
@@ -110,6 +111,7 @@ but sometimes this causes a circular reference. For example:
             "fooChild": { "$ref": "Foo" }
         }
     }
+```
 
 If this happens, AJV, the underlying JSON schema validator, will fail with the
 following error:
