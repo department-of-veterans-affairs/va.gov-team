@@ -1,4 +1,4 @@
-# Research Plan for facility locator user expectations for search
+# Research plan for facility locator user expectations for search
 
 As a designer I need to create a research plan to share with my team.	(This should be filled out and maintained by the designer on the team & can be cross-linked and referenced in any issues.) 	
 ## Goals	
