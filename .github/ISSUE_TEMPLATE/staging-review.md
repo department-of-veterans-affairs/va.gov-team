@@ -20,7 +20,7 @@ assignees: andreahewitt-odd, meganhkelley
 
 ## Artifacts - _please provide the following artifacts at least 2 days before scheduled review meeting_
 
-- Link to where the feature lives on staging and link to any user testing credentials in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility
+- Link to where the feature lives on staging and link to any user testing credentials stored as a .md file in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility. DO NOT PUT STAGING PASSWORDS IN THE PUBLIC REPO. 
 - Link to test cases/test plan in TestRail and test execution logs in https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility
 - Link to Reference Test Coverage report in TestRail 
 - Link to Summary(defects) report in TestRail
