@@ -136,7 +136,11 @@ We could search for the same term in both the Algolia UI and the landing page to
 
 ### Security Concerns
 
-If the search input dispatched a request directly to the Algolia API, then there'd be minimal risk of the documentation search negatively affecting other systems. If the request was proxied through our API, then we should be able to rely on any existing DOS protections.
+The [DocSearch JS snippet](https://docsearch.algolia.com/docs/dropdown) requires four pieces of data; the `appId` (public), search `apiKey` (public), `indexName`, and `inputSelector`.
+
+The `appId` and search `apiKey` are both public. The search `apiKey` only allows read access. There is a separate admin API key that the crawler will use, and that admin API key will need to be configured in an environment variable in CircleCI.
+
+We don't currently have any custom private attributes on the records in our index. If we did, we could configure [`unretrievableAttributes`](https://www.algolia.com/doc/api-reference/api-parameters/unretrievableAttributes/), which is a list of attributes that cannot be retrieved at query time.
 
 ### Privacy Concerns
 
