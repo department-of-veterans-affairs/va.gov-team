@@ -1,20 +1,16 @@
 
 # Table of Contents
 
-1.  [Best Practices](#orgffadb84)
-    1.  [Schema naming](#org3c7669a)
+1.  [Best Practices](#best-practices)
+    1.  [Schema naming](#schema-naming)
 
 
-
-<a id="orgffadb84"></a>
 
 # Best Practices
 
 Things tend to be a little easier with some established norms. This document
 attempts to gather those into one place.
 
-
-<a id="org3c7669a"></a>
 
 ## Schema naming
 
