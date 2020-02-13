@@ -10,7 +10,7 @@ To connect BigQuery to the Product Success Tool, the Analytics Insights team wil
 
 ## BigQuery Schema
 
-#### Overview of Google Analytics Structure**
+#### Overview of Google Analytics Structure
 The hierarchy of Google Analytis is the VA.gov is the parent "property" and child "views" are organized underneath it. More context is below:
 
 - All VA.gov view - Houses all production activity across modernized and legacy sections
