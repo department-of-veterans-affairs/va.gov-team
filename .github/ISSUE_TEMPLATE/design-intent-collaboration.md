@@ -1,13 +1,13 @@
 ---
 name: Design Intent Collaboration
 about: Request to Schedule a Design intent Collaboration
-title: Design intent Collaboration[Feature-Name]
+title: Design intent Collaboration [Feature-Name]
 labels: product support
 assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
 
 ---
 
-## Steps to complete Project Kickoff
+## Steps to complete Design Intent Collaboration
 - [ ] Designer: using this template, create issue and fill in feature name in the title and other bolded information appropriately
 - [ ] Assign issue to yourself and @meganhkelley, @andreahewitt-odd, @crystabelreiter and @emilywaggoner
 - [ ] Crystabel and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
