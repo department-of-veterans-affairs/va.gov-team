@@ -1,4 +1,4 @@
-# Accessibility Defect Rubric
+# Accessibility Defect Severity Rubric
 This document will provide a common language for determining accessibility defect seriousness. It will capture the following things:
 
 1. Defect severity
