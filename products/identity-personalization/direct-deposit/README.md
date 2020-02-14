@@ -84,9 +84,19 @@ The full background on Direct Deposit is found [here](https://github.com/departm
 
 ## Requirements 
 
-- Only LOA3 user with 2FA setup will have access the Direct Deposit section of the Profile. 
-- When Direct Deposit information is changed an email confirmation will be set to the user. 
-- Direct Deposit information emails will have information to report fraud.
+- We will only support direct deposit for compensation & pension to start. Direct deposit for Education/GI Bill benefits will continue to live on eBenefits.
+- Users should be able to change their direct deposit information via the VA.gov profile. This includes routing number, account number, and account type.
+- Users who currently receive paper checks should be able to switch to direct deposit via the VA.gov profile. 
+- However, users can not switch back to paper checks from VA.gov if they already have direct deposit.
+- Users can not delete direct deposit information.
+- Only the following people can access direct deposit:
+  - People eligible for compensation and pension benefits.
+  - Users logged into VA.gov.
+  - LOA3 users.
+  - Users with 2FA.
+- When direct deposit information is changed an email confirmation will be sent to the user.
+- Direct deposit confirmation emails will have information to report fraud.
+
 
 ## Constraints
 
