@@ -323,7 +323,7 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 ### Artifact inputs
 You bring:
 - [Access instructions for your product in staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md)
-- A link to your test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)  
+- A link to your accessibility test cases in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or in [Github with required cases completed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)  
 
 ### Outcomes and artifact outputs 
 - Accessibility experts identify any outstanding accessibility concerns with your product
