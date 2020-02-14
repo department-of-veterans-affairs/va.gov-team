@@ -15,7 +15,7 @@ assignees: andreahewitt-odd, meganhkelley
 - [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please bring the following to the kickoff meeting_
-- [Product brief/outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (draft)
+- Link to rough draft of product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Explanation of the problem space
 - Any other artifacts you have so far
 - You **do not** need to prepare a presentation
