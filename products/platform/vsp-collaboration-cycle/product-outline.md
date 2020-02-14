@@ -84,16 +84,20 @@ Top pain points include:
 - Formally incorporate support for KPI setting into the VSP Collaboration Cycle (currently the VSP KPI workshops are run by team, not by project)
 - Determine whether a "development intent" engineering touchpoint is something that would be valuable to add 
 
-## KPIs
+## KRs & KPIs
 - VSP KR (Q1 & Q2 2020) & QASP Metric: Platform NPS
 - VSP KR (Q1 & Q2 2020): Increase in VA.gov user satisfaction — _need to implement measurement_
 - VSP KR (Q1 & Q2 2020): Increase in affirmative response from VSP teammates on whether they feel customers are taking + acting on their feedback. — _need to implement measurement_
-- KPI: [Collaboration Cycle survey](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) data (% of neutral and % of positive respondents when asked how valuable the collaboration point was)
-- KPI: Qualitative feedback from collaboration cycle survey
+- KPI: [Collaboration Cycle survey](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) data: % of neutral and % of positive respondents when asked how valuable the collaboration point was)
 - KPI: % of products launched on VA.gov that are noncompliant by practice area — _need to implement measurement_
 - KPI: % of VFS teams complying with VSP's required review points — _need to implement measurement_ 
 
-### Additional Measures of Success
+### Metrics & Additional Measures of Success
+
+- Metric: [Collaboration Cycle survey](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) data % of respondents who say `I'm not sure` regarding which collaboration point they just completed
+- Metric: Qualitative feedback from collaboration cycle survey
+- Metric: average elapsed time between request submitted and meeting (as applicable) scheduled _need to implement measurement_ 
+- Metric: average elapsed time between request submitted and meeting (as applicable) completed _need to implement measurement_ 
 
 This initiative is tied to VSP O1 (Q1 & Q2 2020): Any volume of simultaneous customers have a delightful, self-service, end-to-end experience using the Platform to build on VA.gov.
 
