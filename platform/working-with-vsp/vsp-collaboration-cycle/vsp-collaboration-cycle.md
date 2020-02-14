@@ -258,7 +258,7 @@ You bring:
 - A link to your test cases/test plan in TestRail with test execution logs
 - A [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - [Access instructions for your product in staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md)
-- A link to your accessibility test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)
+- A link to your accessibility test cases in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or in [Github with required cases completed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
