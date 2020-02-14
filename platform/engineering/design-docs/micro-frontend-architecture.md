@@ -91,25 +91,12 @@ will result in a failure at build time.
 
 
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of
-the document and will probably receive the most attention. You should explain,
-at a high level, how your system will work. Don't get bogged down with details;
-those belong later in the document._
-
-_A diagram showing how the major components communicate is very useful and a
-great way to start this section. If this system is intended to be a component in
-a larger system, a diagram showing how it fits in to the larger system will also
-be appreciated by your readers._
-
-_Most diagrams will need to be updated over time as the design evolves, so
-please create your diagrams with a program that is easily (and freely) available
-and attach the diagram source to the document to make it easy for a future
-maintainer (who could be you) to update the diagrams along with the document._
 
 **Each application** will be version controlled in its own **separate
 repository** with its own **CI pipeline** and **deployment schedule**.
 
 ![Separate Builds - Separate content bucket](https://user-images.githubusercontent.com/12970166/74556016-d1bbb700-4f11-11ea-9a6f-d562e9048a0a.png)
+[Link to original diagram](https://www.lucidchart.com/invitations/accept/5ca3645c-fcf8-4cd1-bad2-d8ff17c9f1ba)
 
 
 To support this, the [platform
@@ -214,6 +201,7 @@ stored or logged? How long is it stored?_
 We could have a dedicated S3 bucket for each application.
 
 ![Separate Builds - All separate buckets](https://user-images.githubusercontent.com/12970166/74556070-f6179380-4f11-11ea-8f2f-ee2d44733415.png)
+[Link to original diagram](https://www.lucidchart.com/invitations/accept/5ca3645c-fcf8-4cd1-bad2-d8ff17c9f1ba)
 
 **Pros:**
 - More-or-less complete autonomy for application teams over what belongs in
