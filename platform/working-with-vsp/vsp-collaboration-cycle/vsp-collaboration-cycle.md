@@ -120,10 +120,10 @@ Meet with VSP practice area reviewers to confirm that your prototypes or mockups
 ### Artifact inputs
 You bring: 
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
-- Link to prototype or mockups
+- Link to or attach prototype or mockups
 - Link to research plan ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)) and script ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
-- Link to regression test plan ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#regression-test-plan)(if there isn't already a regression test plan for this feature in TestRail) _for QA practice area review_
-- Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)(even if just a draft) _for QA practice area review_
+- Link to regression test plan ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#regression-test-plan)) (if there isn't already a regression test plan for this feature in TestRail) _for QA practice area review_
+- Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) (even if just a draft) _for QA practice area review_
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
@@ -191,11 +191,15 @@ Collaborate with VSP’s Information Architect to finalize your URL and other ke
 ## Collaboration format: asynchronous
 
 ### Request process
-**VFS Product Manager** initiates by completing `IA Request` template in ZenHub. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
+**VFS Product Manager** initiates by completing `IA Request` template in ZenHub _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley%2C+mnorthuis&labels=product+support%2C+content-ia-team&template=ia-request.md&title=IA+Request+%5BFeature-Name%5D) to open a ticket)_. VSP Information Architect provides feedback and finalized information architecture asynchronously on the ZenHub ticket.
 
 ### Artifact inputs
 You bring: 
-- A completed information architecture worksheet (in ZenHub template)
+- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+- Link to or attach prototype or mockups
+- Link to research readout/results ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md))
+- Link to or attach final content including H1s (if separate from prototype/mockup)
+- (Optional) completed information architecture worksheet (in ZenHub template)
 
 ### Outcomes and artifact outputs
 VSP provides:
