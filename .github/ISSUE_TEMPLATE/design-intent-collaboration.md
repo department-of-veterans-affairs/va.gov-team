@@ -23,9 +23,9 @@ assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
 - Lo-fi mockups
 
 ## Meeting attendees from **requesting team**
-- Designer(s): _name(s)_
-- Product Manager (optional): _name_
-- DEPO design lead (required as applicable): _name_
+- Designer(s) (required): **name(s)**
+- Product Manager (optional): **name**
+- DEPO design lead (required as applicable): **name**
 
 ## Scheduling
 Preferred dates or times: 
