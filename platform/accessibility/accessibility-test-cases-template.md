@@ -1,6 +1,6 @@
 # Accessibility Test Cases Template
 
-Make sure you have filled out your Accessibility Test Credentials template. Save that document and this one to your your team's [platform accessibility folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility) on the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive) repository.
+Make sure you have filled out your [accessibility test credentials template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md). Save that document and this one to your your team's [platform accessibility folder](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/platform/accessibility) on the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive) repository.
 
 ## Automated testing (required)
 
