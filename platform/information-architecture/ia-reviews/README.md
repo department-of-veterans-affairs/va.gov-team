@@ -4,6 +4,7 @@ List of projects with final and in progress IA work. If your team/work is not li
 
 Team | Project | Review Status | IA Documentation 
 --- | --- | --- | --- 
+Public Websites | AMA Updates | DECLINED | IA Review was declined by team in order to make deadline for content updates.  Team agreed that no URL changes, redirects or nav structural changes can be made.  Complete IA review of Decision Review process is needed as part of next steps. 
 eBenefits | Add/Remove Dependents | IN PROGRESS | Draft IA provided https://github.com/department-of-veterans-affairs/va.gov-team/issues/4545#
 Authenticated Experience | Profile 2.0 | NOT STARTED | Directional feedback given as part of design intent meeting https://github.com/department-of-veterans-affairs/va.gov-team/issues/5061
 Public Websites | Yellow Ribbon Tool | NOT STARTED | Directional feedback given as part of design intent meeting https://github.com/department-of-veterans-affairs/va.gov-team/issues/5192
