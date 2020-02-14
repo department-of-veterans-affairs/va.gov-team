@@ -18,7 +18,7 @@ assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
 - [ ] VFS designer and all other requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please provide the following at least 2 days before the scheduled meeting_
-- Product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Sketches
 - Lo-fi mockups
 
