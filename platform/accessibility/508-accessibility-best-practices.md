@@ -9,6 +9,8 @@ __Please note: some links in this document point to the vets.gov-team repo.__
   - [Semantic Markup](#semantic-markup)
   - [Formation Design System](#formation-design-system)
   - [Automated Accessibility/508 Testing](#automated-accessibility508-testing)
+    - [Getting Started With Automation](#getting-started-with-automation)
+    - [Build Pipeline Requirements](#build-pipeline-requirements)
   - [Manual Accessibility/508 Testing](#manual-accessibility-testing)
     - [Color Tests](#color-tests)
     - [Zoom to 400%](#zoom-to-400)
@@ -53,26 +55,30 @@ The following recommendations have been put together to help teams identify and 
 
 Automated scan errors are the first recommendation for logging and fixing. These errors can cause issues for screen reader, keyboard, mobile, and low-vision users. Issues include improperly formed markup, misused ARIA attributes, color contrast, and missing landmark structures.
 
+### Getting Started With Automation
+
 - **axe Scans** Front-end engineers should install the [axe plugin for Chrome or Firefox](https://deque.com/axe) and [run automated scans](https://www.youtube.com/watch?v=FW1giWW5M9I) periodically during their daily work against all application pages or states. The axe-core plugin is available for [Chrome](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/). This adds a tab to developer tools and provides on-demand accessibility scanning for single pages during development.
 - **Lighthouse scans** Front-end engineers may audit with the [Lighthouse plugin](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en) to ensure web performance, accessibility, best practices, SEO, and even progressive web app support will deliver an optimal user experience.
 - Going forward, we should also be testing pages with [axe-coconut](https://www.deque.com/blog/test-leading-edge-accessibility-axe-coconut-axe-core-3-0/), which identifies experimental WCAG2 warnings and best practices.
 - Developers should run the [axe browser plugin](https://deque.com/axe) while developing new components. Many automated errors can be avoided or fixed during the development cycle.
 - Validate rendered HTML to avoid automated accessibility errors. Valid HTML also helps screen reader users navigate your product.
 
-- **Automated build process** When you push your code to a feature branch or merge to master, the automated build process will test for accessibility/508 compliance on all **static** pages. The axe check scans for Section 508, WCAG2 A and WCAG2 AA [ruleset](https://dequeuniversity.com/rules/axe/) violations.
-    - **Each rendered page must pass an axe check.**
-      * Static Markdown pages should be checked for violations using the axe plugin.
-      * Static content created by Markdown files or the Content Management System (CMS) will be tested as part of the build step.
-      * Pages created with the content management system (CMS) should also be checked using the axe plugin.
-      * If a build error occurs, fix the issue and submit your code again.
-    - **Client-side applications must include end-to-end tests and axe checks**
-      * Client-side applications will be tested for accessibility as part of their larger e2e test suite.
-      * The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to add axe checks to e2e tests.
-      * Axe checks should be run for each view or unique state of an application. These checks should include hidden content like modal windows and accordions.
-      * If a build error occurs, fix the issue and submit your code again.
-    - **ESLint**
-      * ESLint exists as a Node module with a command-line interface. It runs a lint scan on all components as a pre-commit hook, and will break on errors.
-      * Generally speaking, ESLint and the needed dependencies should be installed when users *yarn install* from the *vets-website* root.
+### Build Pipeline Requirements
+When you push your code to a feature branch or merge to master, the automated build process will test for accessibility/508 compliance on all **static** pages. The axe check scans for Section 508, WCAG2 A and WCAG2 AA [ruleset](https://dequeuniversity.com/rules/axe/) violations.
+
+- **Each rendered page must pass an axe check.**
+  * Static Markdown pages should be checked for violations using the axe plugin.
+  * Static content created by Markdown files or the Content Management System (CMS) will be tested as part of the build step.
+  * Pages created with the content management system (CMS) should also be checked using the axe plugin.
+  * If a build error occurs, fix the issue and submit your code again.
+- **Client-side applications must include end-to-end tests and axe checks**
+  * Client-side applications will be tested for accessibility as part of their larger e2e test suite.
+  * The engineering team has created a [Nightwatch helper function](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/platform/testing/e2e/nightwatch-commands/axeCheck.js) to add axe checks to e2e tests.
+  * Axe checks should be run for each view or unique state of an application. These checks should include hidden content like modal windows and accordions.
+  * If a build error occurs, fix the issue and submit your code again.
+- **ESLint**
+  * ESLint exists as a Node module with a command-line interface. It runs a lint scan on all components as a pre-commit hook, and will break on errors.
+  * Generally speaking, ESLint and the needed dependencies should be installed when users *yarn install* from the *vets-website* root.
 
 ## Manual Accessibility Testing
 
