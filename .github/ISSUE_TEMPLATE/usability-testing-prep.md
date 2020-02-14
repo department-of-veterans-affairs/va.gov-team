@@ -7,22 +7,22 @@ assignees: andreahewitt-odd, meganhkelley
 
 ---
 
-## Steps to complete pre-usability VSP review: 
-- [ ] Using this template, create issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Assign issue to yourself and @meganhkelley and @andreahewitt-odd 
+## Steps to complete Usability Testing Prep: 
+- [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
 - [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ Megan Kelley @ AndreaHewitt
 - [ ] Andrea and Megan to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] At least 2 days before scheduled meeting, you must complete list of artifacts below
 - [ ] VSP <> **requesting team** review meeting completed
 - [ ] Practice area reviewers create sub-issues attached to this one with feedback for your team on *feature name*
 - [ ] **Requesting team** completes attached feedback tickets based on definition of done included in each practice area feedback ticket (may differ for each practice area, please refer to attached tickets for further instruction)
+- [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please provide the following artifacts at least 2 days before scheduled meeting_
 - Link to product outline
-- Link to Prototype or mockups
-- Link to Research plan
-- Link to Research script 
-- Link to Test cases/test plan in TestRail (even if just a draft) 
+- Link to prototype or mockups
+- Link to research plan and script
+- 
+- Link to test cases/test plan in TestRail (even if just a draft) 
 
 ## Review meeting attendees from **requesting team**
 - **You**
