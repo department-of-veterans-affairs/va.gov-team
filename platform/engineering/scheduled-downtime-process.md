@@ -10,7 +10,6 @@ Site upgrades, migrations, or changes that affect the public site may result in 
     - Proposed date and time for staging: DayOfWeek, Month Date, YYYY, from h:mm AM/PM to h:mm AM/PM
     - Proposed date and time for production: DayOfWeek, Month Date, YYYY, from h:mm AM/PM to h:mm AM/PM
 - Communicate planned downtime to the VSP Operation's Product Manager (@ricetj) in order to be added to the downtime schedule (link) and VA's Polaris. Then the DEPO Heads of the Platform (@KevinMHoffmanUSDS and Dror Matalon) should review your addition to the downtime schedule.
-- Communicate with your DEPO lead two weeks in advance for any planned downtime 
 - Make an announcement at the weekly Team of Teams meeting about the scheduled downtime one week in advance 
 - Post a notification of the downtime in the #vsa-public-websites channel at least three days in advance, ccing @Jen Lee so that team is aware and that the appropriate parties will be notified.
 - Make an announcement at the same time in #vfs-all-teams, detailing the dates and times approved by DEPO Heads of the Platform 
