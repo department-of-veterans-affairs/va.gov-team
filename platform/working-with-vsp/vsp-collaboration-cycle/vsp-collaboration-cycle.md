@@ -156,20 +156,20 @@ Reach out to Platform team in Slack #vfs-platform-support with any questions, an
 ---
 
 # Research Plan Review
-Get feedback from DEPO's research expert on your research plan and script. 
+Get approval from DEPO’s research expert on your research plan and script. Begin recruitment of Veterans for research.
 
 ## Timing
 - Development stage: **Discover**
-- A week before you plan to conduct research
+- A week before you plan to conduct user research (during `Discover` or any other development stage)
 
 ## Collaboration format: asynchronous
 
 ### Request Process
-**VFS Product Manager** message Lauren Alexanderson (@Lalexanderson) with your research plan and script
+**VFS Product Manager or Designer** message Lauren Alexanderson (@Lalexanderson) with your research plan and script
 
 ### Artifact inputs
 You bring:
-- Your complete research plan (resources located in [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/research/planning)).
+- Link to research plan ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)) and script ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
 
 ### Outcomes and artifact outputs
 - DEPO's research expert provides feedback on your research plan
