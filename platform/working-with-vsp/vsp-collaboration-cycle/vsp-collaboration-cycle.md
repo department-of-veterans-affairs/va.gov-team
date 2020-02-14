@@ -1,6 +1,9 @@
 # VSP Collaboration Cycle
 
-So you’re starting a new project — congratulations! This is a guide to required VSP collaboration points, written for VFS teams building on VA.gov. VSP is here to support VFS teams to ensure that you are able to deliver reliable digital services that are continuously improving and work for people. 
+So you’re starting a new project — congratulations! This is a guide to required Veteran-facing Services Platform (VSP) collaboration points, written for all Veteran-facing Services (VFS) teams building on VA.gov. VSP’s mission is to provide a framework comprised of systems, tools, processes, documentation, and customer support, that helps VFS Teams create successful VA.gov products.
+
+The VSP Collaboration Cycle was created for medium-to-large VFS work initiatives. Not sure if this process applies to your project? Not sure how your edge case fits in? Ask us in #vfs-platform-support and we’d be happy to help customize a plan! 
+
 
 ##### Table of contents
 * [Project Kickoff](#project-kickoff)
@@ -12,13 +15,13 @@ So you’re starting a new project — congratulations! This is a guide to requi
 * [Contact Center Review](#contact-center-review)
 * [Privacy and Security Review](#privacy-and-security-review)
 * [Staging Review](#staging-review)
-* [Full Accessibility and 508 Office Audit](#full-accessibility-audit-and-508-office-review)
+* [Full Accessibility and 508 Office Audit](#full-accessibility-and-508-office-audit)
 * [Post-launch Check-in](#post-launch-check-in)
 
 
 
 # Project Kickoff
-Help VSP support you more efficiently and effectively throughout the collaboration cycle by connecting in the early stages of your project. Introduce your work initiative in this meeting so we can identify any areas that may need additional support. 
+Start off by introducing your team and VSP to your new work initiative. Discuss existing solutions in the problem space, align team member expectations, and collaborate with VSP to identify any areas that may need additional support.
 
 ## Timing
 - Development stage: **Define**
@@ -27,18 +30,30 @@ Help VSP support you more efficiently and effectively throughout the collaborati
 ## Collaboration format: 30-minute meeting
 
 ### Request process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template. VSP will schedule the meeting. Meeting is recorded.
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Project Kickoff` issue template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team&template=project-kickoff.md&title=Project+Kickoff+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. Meeting is recorded.
 
 ### Meeting attendees
-- VFS brings: your Product Manager, DEPO PO, and anyone else you want to invite. 
+- VFS brings: 
+  - Your Product Manager (required)
+  - Your DEPO Product Lead (required)
+  - Your entire VFS team (recommended)
+  - Any other stakeholders you want to invite
 - If VFS team is part of VSA contract, also include as optional: Jennifer, Tze, Shawna, Mickin
-- VSP brings (all optional): design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea) and analytics (Joanne). VSP’s DEPO co-leads (Kevin) are included as optional.
+- VSP brings (all optional): 
+  - Design (Crystabel & Emily)
+  - Accessibility (Trevor)
+  - Content (Peggy)
+  - Information architecture (Mikki)
+  - QA (Peter)
+  - Product (Megan and/or Andrea)
+  - Analytics (Joanne)
+  - VSP’s DEPO co-leads (Kevin).
 
 ### Artifact inputs 
 You bring: 
+- A rough draft of [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub `va.gov-team/products` folder)
 - An explanation of the problem space
-- A rough draft of product outline (stored in appropriate GitHub `va.gov-team/products` folder)
-- Any other artifacts you have so far (such as lo-fi prototypes)
+- Any other artifacts you have so far
 - You **do not** need to prepare a presentation
 
 ### Outcomes and artifact outputs
@@ -258,7 +273,7 @@ You bring:
 - A link to your test cases/test plan in TestRail with test execution logs
 - A [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - [Access instructions for your product in staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md)
-- A link to your accessibility test cases in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or in [Github with required cases completed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)
+- A link to your accessibility test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
@@ -308,7 +323,7 @@ Reach out to Platform team in Slack #vfs-platform-support with any questions, an
 
 ---
 
-# Full Accessibility Audit and 508 Office Review
+# Full Accessibility and 508 Office Audit
 Accessibility experts complete a full accessibility audit and coordinate with the VA’s 508 office for feedback and approval.
 
 ## Timing
@@ -323,7 +338,7 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 ### Artifact inputs
 You bring:
 - [Access instructions for your product in staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md)
-- A link to your accessibility test cases in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or in [Github with required cases completed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md)  
+- A link to your test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)  
 
 ### Outcomes and artifact outputs 
 - Accessibility experts identify any outstanding accessibility concerns with your product
