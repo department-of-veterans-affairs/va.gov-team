@@ -54,6 +54,12 @@ This list of questions is _not_ intended to be comprehensive. It _is_ intended t
 * How much new traffic are you expecting to send to `vets-api`?
     * Consider both average (typical weekday traffic) and burst (e.g. an email blast to Veterans)
 
+#### Rollout
+
+* What's your rollout plan? Specifically:
+    * What % of users are you rolling out to at each phase?
+    * What metrics are you looking at before deciding to continue rollout?
+
 #### Dependencies
 
 * Are there new integrations with VA backends?
