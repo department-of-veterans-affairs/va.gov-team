@@ -8,14 +8,14 @@ assignees: andreahewitt-odd, meganhkelley
 ---
 
 ## Steps to complete Project Kickoff
-- [ ] Product Manager: using this template, create issue and fill in feature name in the title and other bolded information appropriately
+- [ ] Product Manager: create this issue and fill in feature name in the title and other bolded information appropriately
 - [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ Megan Kelley @ AndreaHewitt
-- [ ] Andrea and Megan to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
+- [ ] Andrea and Megan will schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] VSP <> **requesting team** kickoff meeting completed
 - [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please bring the following to the kickoff meeting_
-- Product brief/outline (draft)
+- [Product brief/outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (draft)
 - Explanation of the problem space
 - Any other artifacts you have so far
 - You **do not** need to prepare a presentation
