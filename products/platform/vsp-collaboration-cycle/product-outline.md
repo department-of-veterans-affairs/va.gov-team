@@ -116,6 +116,6 @@ This initiative is tied to VSP O1 (Q1 & Q2 2020): Any volume of simultaneous cus
 ## Screenshots
 
 ### Before
-
+![Screenshot Before 021320](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/vsp-collaboration-cycle/screenshot-before-021320.png)
 
 ### After
