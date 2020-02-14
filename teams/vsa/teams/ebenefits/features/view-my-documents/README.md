@@ -4,7 +4,7 @@
 
 ## User Stories
 
-- I can log in to VA.gov and see a page that has a list of all the documents I or my representtive have upoaded
+- I can log in to VA.gov and see a page that has a list of all the documents I (or my representtive) have upoaded
 - I can navigate through the list of documents by clicking to different pages
 - I can filter and sort the list by various document metadata criteria (TBD)
 - I can click on a document to view or download that document
