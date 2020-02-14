@@ -106,7 +106,7 @@ Reach out to design experts in Slack #design.
 ---
 
 # Usability Testing Prep
-Meet with VSP practice area reviewers to catch anything in your prototypes or mockups that may detract from usability testing. Ensure that you're on track to deliver a successful product for Veterans.
+Meet with VSP practice area reviewers to confirm that your prototypes or mockups are consistent with existing patterns and standards. Get feedback and ensure that your product is ready for successful usability testing. 
 
 ## Timing
 - Development stage: **Discover**
@@ -115,12 +115,14 @@ Meet with VSP practice area reviewers to catch anything in your prototypes or mo
 ## Collaboration format: 30-minute meeting 
 
 ### Request Process
-**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template. VSP will schedule the meeting. (Suggested scheduling: during VSP reviewer office hours)
+**VFS Product Manager** initiates scheduling by submitting ZenHub issue — use `Usability Testing Prep` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team&template=usability-testing-prep.md&title=Pre-Usability+Review+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
-- Prototypes or mockups prepped for user testing
-- A draft of your test cases and/or test plan (for QA practice area review) 
+- Link to product outline
+- Link to prototype or mockups
+- Link to research plan and script
+- Link to test cases/test plan in TestRail (even if just a draft) _for QA practice area review_
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
