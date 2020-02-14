@@ -110,7 +110,7 @@ Meet with VSP practice area reviewers to confirm that your prototypes or mockups
 
 ## Timing
 - Development stage: **Discover**
-- When you’ve determined your initial solution approach and you have prototypes or mockups ready for user testing.
+- When you’ve determined your initial solution approach and you have prototypes or mockups ready for usability testing, before you begin scheduling testing
 
 ## Collaboration format: 30-minute meeting 
 
@@ -119,23 +119,36 @@ Meet with VSP practice area reviewers to confirm that your prototypes or mockups
 
 ### Artifact inputs
 You bring: 
-- Link to product outline
+- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Link to prototype or mockups
-- Link to research plan and script
-- Link to test cases/test plan in TestRail (even if just a draft) _for QA practice area review_
+- Link to research plan ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)) and script ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
+- Link to regression test plan ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#regression-test-plan)(if there isn't already a regression test plan for this feature in TestRail) _for QA practice area review_
+- Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)(even if just a draft) _for QA practice area review_
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
-- Feedback on the artifacts you’ve provided from the following practice areas: design, accessibility, content, QA, and optional: information architecture (IA), product, analytics, engineering
+- Feedback on the artifacts you’ve provided from the following practice areas: design, accessibility, content, QA, and optional: information architecture (IA), product
 
 ### Outcomes and artifact outputs
 - VSP’s feedback regarding the artifacts you provided is documented in ZenHub.
 - We’ll use the 30-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
 
 ### Meeting attendees
-- VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point (suggested: your designer(s) and content writer(s)). 
-- If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna, Tze
-- VSP brings: design (Crystabel & Emily), accessibility (Trevor), content (Peggy), information architecture (Mikki), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea).
+- VFS brings: 
+  - Product manager (required)
+  - DEPO product lead (required)
+  - DEPO design lead (required as applicable)
+  - Anyone else from your team who significantly contributed to the artifacts provided (required)
+- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
+- VSP brings: 
+  - Design (Crystabel & Emily) - required
+  - Accessibility (Trevor) - required
+  - Content (Peggy) - required
+  - Information architecture (Mikki) - required
+  - QA (Peter) - required
+  - Product (Megan and/or Andrea) - required
+  - VSP’s DEPO co-leads (Kevin) - optional
+  - Analytics (Joanne) - optional
 
 ## For further support at this point
 Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
