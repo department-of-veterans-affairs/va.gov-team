@@ -38,7 +38,7 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
   - Your DEPO Product Lead (required)
   - Your entire VFS team (recommended)
   - Any other stakeholders you want to invite
-- If VFS team is part of VSA contract, also include as optional: Jennifer, Tze, Shawna, Mickin
+- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), QA (Tze), Design (Shawna), Product (Mickin)
 - VSP brings (all optional): 
   - Design (Crystabel & Emily)
   - Accessibility (Trevor)
@@ -47,11 +47,11 @@ Start off by introducing your team and VSP to your new work initiative. Discuss 
   - QA (Peter)
   - Product (Megan and/or Andrea)
   - Analytics (Joanne)
-  - VSP’s DEPO co-leads (Kevin).
+  - VSP’s DEPO co-leads (Kevin)
 
 ### Artifact inputs 
 You bring: 
-- A rough draft of [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub `va.gov-team/products` folder)
+- A rough draft of your [product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md) (stored in appropriate GitHub `va.gov-team/products` folder)
 - An explanation of the problem space
 - Any other artifacts you have so far
 - You **do not** need to prepare a presentation
@@ -65,7 +65,7 @@ Reach out via Slack #vfs-platform-support with any questions, and you’ll be di
 ---
 
 # Design Intent Collaboration
-Present a draft of your ideas to designers. Learn about existing design components and research findings relevant to the problem space. Discuss accessibility considerations with accessibility experts.
+Present a draft of your ideas to VSP and other expert designers. Learn about existing design components and research findings relevant to the problem space. Discuss accessibility considerations with accessibility experts.
 
 ## Timing
 - Development stage: **Define**
@@ -74,12 +74,18 @@ Present a draft of your ideas to designers. Learn about existing design componen
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template. VSP will schedule the meeting. 
+**VFS Designer or Product Manager** initiates scheduling by submitting ZenHub issue — use `Design Intent Collaboration` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley%2C+crystabelreiter%2C+emilywaggoner&labels=product+support&template=design-intent-collaboration.md&title=Design+intent+Collaboration%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting. 
 
 ### Meeting attendees
-- VFS brings: Designer(s) from your product team; DEPO PO
-- If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna
-- Design experts bring: DEPO platform design expert (Kevin H - optional); VSP design (Emily & Crystabel) and accessibility (Trevor) practice area reviewers
+- VFS brings: 
+  - Designer(s) from your product team (required)
+  - Product Manager (optional)
+  - DEPO design lead (required as applicable)
+- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna)
+- Design experts bring: 
+  - VSP designers (Emily and/or Crystabel) - required
+  - Accessibility (Trevor) - required
+  - DEPO platform design expert (Kevin H) - optional
 
 ### Artifact inputs
 You bring:
@@ -89,7 +95,6 @@ You bring:
 Design experts provide after the meeting:
 - A list of relevant design components and patterns (with URLs)
 - A list of existing applications or pages with similar execution or patterns with URLs in staging
-- A list of relevant test user accounts for auth apps
 
 ### Outcomes and artifact outputs 
 - Design and accessibility expert feedback (including relevant components, patterns, apps, test accounts, existing research, and notes on accessibility approach) is documented in ZenHub. 
