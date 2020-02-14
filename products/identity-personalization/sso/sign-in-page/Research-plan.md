@@ -1,106 +1,79 @@
-# SSO: VA.gov Manage Benefit Page Alerts Discussion Guide
+# Research Plan for SSO, Alert Updates on VA.gov Manage Benefit Pages, February 14, 2020
 
-**[Internal] Research Objective**
-Discover if design directions for alert box updates enable participants to understand what the arrival of My VA Health means for managing health benefits online via VA.gov Manage Benefits pages.
-
-**[Internal] Research Questions**
-
-1. Do our screens enable participants to comprehend the arrival of My VA Health?
-2. What, if anything, do participants find unclear? 
-3. What questions or feedback do participants have about My VA Health? 
-4. Does one direction facilitate comprehension more than the others? Why? 
+1. **What product & team?** SSO
+2. **Background**: 5 Manage Benefit Pages need to be updated from linking to just My HealtheVet to linking to both My VA Health (Cerner) and My HealtheVet. To start, Cerner users will also need to use My HealtheVet to manage any care received at a non-Cerner facility or any health records older than 3 years. Our research objective is to discover if design directions for alert box updates enable participants to understand what the arrival of My VA Health means for managing health benefits online via VA.gov Manage Benefits pages.
+3. **Research questions**: Do our screens enable participants to comprehend the arrival of My VA Health?What, if anything, do participants find unclear? What questions or feedback do participants have about My VA Health? Does one direction facilitate comprehension more than the others? Why?
+4. **Hypothesis**: We expect that Veterans will have some questions about what My VA Health is, what it might mean for their care, and why they need to use it. We expect that Veterans may have some confusion over the similar names of My VA Health and My HealtheVet. We expect that Veterans might question why they can no longer see comprehensive views of care received across facilities within one management portal. Veterans may see the tool as duplicative. 
 
 
-## Introduction (5 minutes)
 
-Thank you for joining us today. My name is Bridget and I also have some colleagues on the line observing and taking notes.
+## Method 
 
-Today, I’d like to talk about some of your interactions with VA online healthcare management tools, and also get your feedback on how we might communicate changes to healthcare management tools on VA.gov. I'm going to ask you some questions and we will look at the website VA.gov together, then I'd like to show you some updates we're considering making to VA.gov. 
-
-Before we start, there are a few things I want to mention: 
-
-- This entire session should take about 30 minutes.
-- In our conversation today, we want to hear your honest opinions. My team’s goal is to improve VA online tools to better meet the needs of Veterans like you. I will not be offended by any opinions you express - please be as honest as you feel comfortable being with me today. 
-- If it’s alright with you, I would like to record our conversation. We use the recordings to confirm that we have captured your opinions accurately. The recordings are deleted after we complete analysis, and won’t be used for anything other than our internal research purposes. Are you comfortable if I record the screen and audio as we talk today? 
-- If yes: Once I start recording, I am going to confirm that you are ok with me recording this session once more.
-
-Those are all the logistics I wanted to share. Do you have any questions for me before we get started?
+1. What method of research are you planning? Remote, moderated feedback session and comprehension testing with medium-fidelity Invision prototype.
+2. Why this method? Ideally, we would like to test these design options with We will also be inviting Stakeholders to observe and participate in deriving insights. Coordinating this co-creation remotely will enable more stakeholder participation.
+3. Where are you planning to do your research? We will use the Perigean **GoToMeeting** account to enable participants to take over screen control. Because our first prototype will low-fidelity, this will allow us to more easily intercept to reset the Veteran if needed.
+4. What will you be testing? We will be testing a prototype that will be shared digitally via Mural or Invision.
 
 
-## Warm Up Questions (5 minutes)
 
-First, I want to learn a little more about you and how many VA Medical Centers you visit to receive health care. 
+## Participants and Recruitment
 
-- Do you have a primary VA Medical Center?
-- What other VAMCs do you visit on a regular basis, say once a year or more?   
-- [Recap VAMCs participant listed]: Are there any other VAMCs you have visited in the last year?
-- Do you know if you’re registered at any other VAMCs?
-  _[Prompt: These may be facilities you’re not currently using.]_
+Participant criteria:
 
-Great, thank you for sharing that. I'd next like to talk about your experience using My HealtheVet.
+1. All participants should have experience with VA medical care/VHA (Veterans would need healthcare support occasionally and Veterans who deal with healthcare needs on regular basis)
+2. All participants should use My HealtheVet to manage their healthcare online regularly 
+3. Both Women and men, 50/50
+4. **No** assistive device users. (Our Invision prototype will not be accessible to people using screen readers.)
+5. People who manage their healthcare on laptop or desktop computers at least some of the time (no smartphone-only users)
+6. Urban and rural circumstances
 
-- Have you used My HealtheVet to manage your healthcare?
-- Can you tell me a little bit about your experience using My HealtheVet?
-- Have you visited VA.gov to get information about managing your healthcare benefits?
+What is your recruitment strategy?
 
-I’d like to look at VA.gov together for a minute. I have pulled up VA.gov here on my screen, and navigated to the section of the site I’d like to talk about today: VA Secure Messaging. I’m going to give you control of the mouse. What I’d like you to do is explore this page at your own pace. Don't click on anything yet.
-
-- What sticks out to you as important? 
-- Why?
+1. Perigean will recruit
+2. 4-6 participants/per day. 8-10 total participants.
 
 
-## Manage Benefits Alerts (15 minutes)
 
-Now I’d like to show you a prototype of a couple different version of the same page we were just looking at: VA Secure Messaging. These versions of this page are different options for how updates to this page might look. This prototype isn’t a real website and nothing is clickable.
+## When?
 
-First, I want to give you some context about what you’ll see. Some VA Medical Centers are switching from My HealtheVet to a new healthcare management tool called My VA Health.
-[Option 1](https://adhoc.invisionapp.com/share/DYVMI5OXEQN#/screens/403460158)
-[Option 2](https://adhoc.invisionapp.com/share/DYVMI5OXEQN#/screens/403460274)
-[Option 3](https://adhoc.invisionapp.com/share/DYVMI5OXEQN#/screens/404834770)
-
-**First Look: Repeat for all 3 options**
-
-- What sticks out to you the most about this screen?
-- What information seems important here?
-
-**[Internal] Prompts for each option**
-
-- Option 1: What do you think of this message about your registration? 
-- Option 1: What do you think about seeing My VA Health first, and My HealtheVet below it?
-- Option 2: What do you think about seeing this one alert box with all your Secure Messaging Tools?
-- Option 2: What do you think about these buttons?
-- Option 3: What do you think about this option to select which VA facility you'd like to message with?
-- Option 3: What do you think about this information box and what it says? 
-
-**First Comparison**
-Before we look at each screen again in a little more detail, did one option stick out as clearer and easier to comprehend than the others? 
-
-**Follow Up Questions: Repeat for all 3 options**
-
-- Let’s say you want to send a message to a provider at Mann-Grandstaff VA Medical Center. What do you do?
-- Let’s say you want to send a message to a provider at any other VA Medical Center outside of Mann-Grandstaff. What do you do?
-- Let’s say you come to VA.gov, and you want to send a message to a provider at Mann-Grandstaff VA Medical Center, and a provider at another medical center. What would you do?
-- Were there any questions that were raised for you in trying to complete these tasks?
-- On a scale of 1 to 5, 1 being least clear and 5 being the most clear, how easy to comprehend do you find this option? Why?
-
-**Second Comparison**
-Now that we’ve looked at all 3 options in detail, does one option stick out as clearer and easier to comprehend than the others? Why?
+1. Timeline: 
+   - Ideally Thursday, February 20, 2020 (4-5 participants) and Friday, February 21, 2020 (4-5 participants). 
+   - If not possible, Monday, February 24, 2020 (4-5 participants) and Tuesday, February 25, 2020 (4-5 participants). 
+2. Prepare: The prototype will be completed the day before the sessions.
+3. Length of Sessions: 30 minutes.
+4. Availability: **9-6 (ET)** the following days:
+   - Thursday, February 20
+   - Friday, February 21
+   - Monday, February 24
+   - Tuesday, February 25
 
 
-## Wrap Up (2 minutes)
 
-That’s all the questions I have for you today. We really appreciate you taking the time to share your thoughts with us. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans like you.
+## Team Roles
 
-Enjoy the rest of your day!
+Please list the people who will be serving in each role. **Include the primary phone number for moderator and the emails for moderator, notetaker, and observers.**
+
+- Moderator: Bridget Hapner, bridget@adhocteam.us, 773-875-9019
+- Research guide writing: Bridget Hapner
+- Participant recruiting & screening: Perigean
+- Project point of contact: Bridget Hapner
+- Observers (potential):
+  - Lauren Alexanderson lauren.alexanderson@va.gov 
+  - Martha Wilkes Martha.A.Wilkes@omb.eop.gov 
+  - Ambika Roos ambika@adhocteam.us 
+  - Dan Hinze dan.hinze@adhocteam.us 
+  - Eric Buckley eric.buckley@adhocteam.us
+  - Patrick Vinograd patrick@adhocteam.us 
+  - Alex Taylor alex@adhocteam.us 
+  - Peggy Gannon peggy@thesocompany.com
 
 
-## Back pocket answers
 
-**If a Veteran asks: What is My VA Health?**
-My VA Health is a tool that houses electronic health records, and will allow you to manage tasks related to your healthcare online, like scheduling appointments, messaging, viewing lab results, and more.
+## Resources
 
-**If a Veteran asks: Will I need to use this?**
-To start, the VA is launching My VA Health at one VA Medical Center. Over time, it will launch at other Medical Centers. 
-
-**If a Veteran asks: Will I need to manage my healthcare in 2 different places?**
-As My VA Health is launched at VA Medical Centers around the country, a team at the VA will be working to minimize the possibility of needing to work across 2 tools. To start, that will be the case, but that won’t always be the case. 
+- Project Brief: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/sso
+- Discussion Guide: 
+- Notes & Recordings:
+- Synthesis:
+- Lessons Learned:
+- Read-Out/Results
