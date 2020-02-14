@@ -12,10 +12,10 @@ What this is: Work with VSP Information Architecture experts to finalize the IA 
 When to use this: After completion of usability/protyping, prior to moving to development
 
 ## Required Inputs:
-- link to product outline
-- link to research readout/results
-- attach or link to prototype and/or mockups
-- attach or link to final content including H1s
+- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+- Link to or attach prototype or mockups
+- Link to research readout/results ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md))
+- Link to or attach final content including H1s (if separate from prototype/mockup)
 
 ## Information Architecture Worksheet (Optional)
 
@@ -44,3 +44,4 @@ Provide the following information, as available, to support the final informatio
 - [ ] Required information above is complete and optional information provided where available
 - [ ] IA reviews information and provides final feedback/recommendation on ticket
 - [ ] Requesting team closes issue upon implementation
+- [ ] Requesting team member complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
