@@ -12,7 +12,7 @@ So you’re starting a new project — congratulations! This is a guide to requi
 * [Contact Center Review](#contact-center-review)
 * [Privacy and Security Review](#privacy-and-security-review)
 * [Staging Review](#staging-review)
-* [Full Accessibility and 508 Office Audit](#full-accessibility-and-508-office-audit)
+* [Full Accessibility and 508 Office Audit](#full-accessibility-audit-and-508-office-review)
 * [Post-launch Check-in](#post-launch-check-in)
 
 
@@ -308,7 +308,7 @@ Reach out to Platform team in Slack #vfs-platform-support with any questions, an
 
 ---
 
-# Full Accessibility and 508 Office Audit
+# Full Accessibility Audit and 508 Office Review
 Accessibility experts complete a full accessibility audit and coordinate with the VA’s 508 office for feedback and approval.
 
 ## Timing
