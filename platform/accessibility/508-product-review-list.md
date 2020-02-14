@@ -42,7 +42,7 @@ Please refer to the deprecated list for [previously closed issues](https://githu
 
 ## Helpful links
 * [Create a 508 accessibility issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=508%2FAccessibility&template=508-issue.md&title=)
-* [Review severity guidance for 508 accessibility issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/GUIDANCE-severity-rubric.md)
+* [Review severity guidance for 508 accessibility issues](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md)
 
 ## Issues by Application
 Each application or logical section of the site will have a heading and a detailed list of issues included. This is a transition from a data table approach, where rows will be removed from the table and added as list entries.
@@ -484,6 +484,6 @@ Each application or logical section of the site will have a heading and a detail
 #### Open issues
 
 * _Create a link from the issue title and issue number. Use the format `Issue Title - # Issue Number`_ <br/>
-**Opened:** _Date issue ticket was written_ | **Severity:** _Issue severity based on the [accessibility defect rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/GUIDANCE-severity-rubric.md)_
+**Opened:** _Date issue ticket was written_ | **Severity:** _Issue severity based on the [accessibility defect rubric](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/guidance/defect-severity-rubric.md)_
 
 ---
