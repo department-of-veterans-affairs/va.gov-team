@@ -21,7 +21,17 @@ assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
 - Sketches
 - Lo-fi mockups
 
+## Additional Notes
+Design experts will provide: 
+- A list of relevant design components and patterns (with URLs)
+- A list of existing applications or pages with similar execution or patterns with URLs in staging
+
+During this collaboration point, you will receive feedback from the following practice areas: **design, accessibility**
+
 ## Meeting attendees from **requesting team**
 - Designer(s): _name(s)_
 - Product Manager (optional): _name_
 - DEPO design lead (required as applicable): _name_
+
+## Scheduling
+Preferred dates or times: 
