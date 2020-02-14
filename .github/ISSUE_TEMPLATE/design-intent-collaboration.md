@@ -11,6 +11,7 @@ assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
 - [ ] Product Manager or Designer: create this issue and fill in feature name in the title and other bolded information appropriately
 - [ ] Link to this issue once created in #design in Slack; tag @ Crystabel Reiter @ Emily
 - [ ] Crystabel and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
+- [ ] At least 2 days before scheduled meeting, you must provide list of artifacts below
 - [ ] VSP <> **requesting team** design intent collaboration meeting completed
 - [ ] Design experts leave feedback and relevant resources on this ticket
 - [ ] VFS designer acknowledge receipt of feedback/resources
