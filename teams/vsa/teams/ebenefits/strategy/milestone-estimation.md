@@ -11,7 +11,7 @@
 | View Representative/POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jun |
 | Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jul |
 | View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Jun |
-| Document SEP Features* | Discovrtu  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| Document SEP Features* | Discovery  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
 `*` - Fill in when available? 
 # Sample Lifecycle
