@@ -8,21 +8,20 @@ assignees: andreahewitt-odd, meganhkelley, crystabelreiter, emilywaggoner
 ---
 
 ## Steps to complete Design Intent Collaboration
-- [ ] Designer: using this template, create issue and fill in feature name in the title and other bolded information appropriately
-- [ ] Assign issue to yourself and @meganhkelley, @andreahewitt-odd, @crystabelreiter and @emilywaggoner
+- [ ] Product Manager or Designer: create this issue and fill in feature name in the title and other bolded information appropriately
+- [ ] Link to this issue once created in #design in Slack; tag @ Crystabel Reiter @ Emily
 - [ ] Crystabel and Emily to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
-- [ ] VSP <> **requesting team** review meeting completed
+- [ ] VSP <> **requesting team** design intent collaboration meeting completed
+- [ ] Design experts leave feedback and relevant resources on this ticket
+- [ ] VFS designer acknowledge receipt of feedback/resources
+- [ ] VFS designer and all other requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please provide the following at least 2 days before the scheduled meeting_
-- Product outline
+- Product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Sketches
-- lo-fi mockups
+- Lo-fi mockups
 
 ## Meeting attendees from **requesting team**
-- Designer: _name_
-- Product Manager: _name_
-- DEPO Lead: _name_
-
-
-
-
+- Designer(s): _name(s)_
+- Product Manager (optional): _name_
+- DEPO design lead (required as applicable): _name_
