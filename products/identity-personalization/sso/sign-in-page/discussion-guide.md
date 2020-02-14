@@ -54,7 +54,7 @@ First, I want to give you some context about what you’ll see. Some VA Medical 
 - What sticks out to you the most about this screen?
 - What information seems important here?
 
-**[Internal] Prompts for each option**
+**[Internal] Things to look for and potential follow up questions**
 
 - Option 1: What do you think of this message about your registration? 
 - Option 1: What do you think about seeing My VA Health first, and My HealtheVet below it?
