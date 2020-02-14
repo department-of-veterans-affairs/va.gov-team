@@ -32,7 +32,7 @@ _VA.gov CMS team: Lapedra Tolson_
 _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 
 * X participants
-* [Research folder]()
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys)
 
 #### February XX - March XX, 2020: Content proofing usability study 
 
@@ -46,4 +46,4 @@ _VA.gov CMS team: Jordana Mello, Rachek Kauff_
 _VA.gov CMS team: Jordana Mello, Rachek Kauff, Howard Brande_
 
 * X participants
-* [Research folder]()
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/support-channels-log-analysis)
