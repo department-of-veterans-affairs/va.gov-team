@@ -4,7 +4,7 @@
 # Milestone Estimations
 | **Feature** | **Type** | **Minimum** | **Maximum** | **Completion Estimate (min)** |
 | ---- | ------- | ------------------ | ------------------ | ------- |
-| Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
+| :heavy_check_mark: Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
 | View Dependents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - Feb |
 | Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - May |
 | View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Mar - Apr |
