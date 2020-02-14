@@ -21,9 +21,9 @@ assignees: andreahewitt-odd, meganhkelley
 - You **do not** need to prepare a presentation
 
 ## Meeting attendees from **requesting team**
-- Product Manager (required): _name_
-- DEPO Product Lead (required): _name_
-- Entire VFS team (recommended): _names_
+- Product Manager (required): **name**
+- DEPO Product Lead (required): **name**
+- Entire VFS team (recommended): **names**
 
 ## Scheduling
 Preferred dates or times: 
