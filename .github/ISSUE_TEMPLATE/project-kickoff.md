@@ -12,7 +12,7 @@ assignees: andreahewitt-odd, meganhkelley
 - [ ] Link to this issue once created in #vfs-platform-support in Slack; tag @ Megan Kelley @ AndreaHewitt
 - [ ] Andrea and Megan to schedule meeting with VSP reviewers and **requesting team** attendees (as listed below)
 - [ ] VSP <> **requesting team** kickoff meeting completed
-- [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before)
+- [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please bring the following to the kickoff meeting_
 - Product brief/outline (draft)
