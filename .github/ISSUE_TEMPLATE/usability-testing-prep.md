@@ -27,7 +27,6 @@ assignees: andreahewitt-odd, meganhkelley
 ## Meeting attendees from **requesting team**
 - Product Manager (required): **name**
 - DEPO product lead (required): **name**
-- DEPO design lead (required as applicable): **name**
 - Anyone else from your team who significantly contributed to the artifacts provided (required): **names**
 
 ## Scheduling
