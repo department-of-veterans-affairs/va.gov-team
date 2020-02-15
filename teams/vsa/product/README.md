@@ -25,6 +25,20 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
 
 ### Delivery
 
+#### MVPs
+MVP is an often overused/convoluted term. And, there can be many definitions of an MVP. It may be referred to as the solution that *just* solves a problem or it may be referred to as the first version of a product. Without getting caught up in labels, an MVP has two primary characteristics: lessons are generated and future iterations are anticipated though not expected.
+
+It's up to the product team to determine what makes up their MVPs. The PO, the PM, and the cross-functional team determine their MVP after they've defined the problem and before they've started to build. It contains:
+- questions/problems they'd like to answer/solve
+- features that make it into the iteration
+- a target date for launching 
+
+But, it's easy for folks to refer to work as "MVPs" without reacting to or iterating on the lessons learned. At the end of the day, an MVP is a tool. Along with generating lessons that may be taken into subsequent iterations, it helps rally the team around a common goal. 
+
+Resources:
+- [SVPG Viable Product vs. Minimal Product](https://svpg.com/viable-product-vs-minimal-product/)
+- [SVPG Minimum Viable Product](https://svpg.com/minimum-viable-product/)
+
 #### Agile ceremonies
 - [Agile Ceremonies Overview Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-ceremonies-overview.md)
 - [Agile Ceremonies Checklist Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/agile-checklist.md). 
