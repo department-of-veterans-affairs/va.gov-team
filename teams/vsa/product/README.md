@@ -1,7 +1,12 @@
 # VSA Product Management
 *The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping #vsa-product or Mickin Sahni (@mickin).*
 
-### Guideposts, OKRs, and Bets
+## Contents
+- [Setting Direction-Guideposts, OKRs, and Bets](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#setting-direction-guideposts-okrs-and-bets)
+- [Product Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#product-documentation)
+- [Delivery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#delivery)
+
+### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
 They establish quarterly Objectives and Key Results (OKRs) that advance them towards their vision. 
 Teams develop bets, or hypotheses, they believe will help them achieve their OKRs.
