@@ -80,6 +80,7 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 
 ## Acceptance Criteria
 - [ ] QA has been completed
+- [ ] VFS team completes brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Definition of Done
 - [ ] All appropriate issue tagging is completed
