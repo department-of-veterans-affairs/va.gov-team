@@ -137,7 +137,6 @@ VSP brings:
 - VFS brings: 
   - Product manager (required)
   - DEPO product lead (required)
-  - DEPO design lead (required as applicable)
   - Anyone else from your team who significantly contributed to the artifacts provided (required)
 - If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
 - VSP brings: 
@@ -217,31 +216,41 @@ Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans 
 - Development stage: **Discover**
 - After you have defined your KPIs and are determining which frontend events would be beneficial to track on your application before you build.
 
-## Collaboration Format: 30-minute kickoff meeting
+## Collaboration Format: 30-minute kickoff meeting for Google Tag Manager
 
 ### Request process
-**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation. Slack #vfs-analytics for ForeSee setup.
+**VFS Product Manager** submits request using `Analytics Implementation and QA Request` template for Google Tag Manager implementation _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban%2C+jonwehausen%2C+nedierecel&labels=analytics-insights%2C+analytics-request&template=analytics-implementation-and-qa-request-template.md&title=Analytics+Implementation+or+QA+Support+for+%5BProduct%5D) to open a ticket)_. Slack #vfs-analytics for ForeSee setup.
 
 ### Meeting attendees 
-You Bring: 
-- Google Tag Manager implementation: Your Product Manager, DEPO PO, and point of contact for frontend engineering
-- ForeSee implementation: no meeting required; asynchronous collaboration
 
-VSP Brings: 
-- Google Tag Manager implementation: Google Tag Manager specialists
-- ForeSee implementation: no meeting required; asynchronous collaboration
+#### Google Tag Manager Implementation
+- VFS brings: 
+  - Product manager (required): **name**
+  - DEPO product lead (required): **name**
+  - Frontend engineering point of contact (required): **name**
+- VSP brings: 
+  - Google Tag Manager specialists
+
+#### ForeSee Setup
+No meeting required; asynchronous collaboration.
 
 ### Artifact inputs
+
+#### Google Tag Manager
+You bring:
+- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+- Objectives and definitions of success (e.g. a specific user interaction or final URL) for the product
+- Authenticated user logins for testing, when applicable
+- The URL(s) for your product including any unauthenticated landing pages that precede the start of the tool. _For example, if your product is a multi-step veteran-facing tool, please provide the full path of URLs along noting any conditional logic that would take users to a different branch of URLs for the tool_
+
+VSP brings: 
+- Examples of goal funnels and conversions
+- Suggestions and feedback on event naming
+- Google Tag Manager configuration services
+
+#### ForeSee
 You bring: 
-* Google Tag Manager 
-   * Objectives and definitions of success (e.g. a specific user interaction or final URL) that is deemed as success for the product)
-   * Authenticated user logins for testing, when applicable
-   * The URL(s) for your product including any unauthenticated landing pages that precede the start of the tool; for example, if your product is a multi-step veteran-facing tool, please provide the full path of URLs along noting any conditional logic that would take users to a different branch of URLs for the tool 
-ForeSee: The final staging and production URLs for pages you want the survey to appear on
-* VSP brings: 
-   * Examples of goal funnels and conversions
-   * Suggestions and feedback on event naming
-   * Google Tag Manager configuration services
+- The final staging and production URLs for pages you want the survey to appear on
    
 ### Outcomes and artifact outputs
 * VSP will configure Google Tag Manager so that it will translate the code into a readable format for Google Analytics reporting
