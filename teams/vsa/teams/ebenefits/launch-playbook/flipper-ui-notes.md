@@ -44,7 +44,7 @@ Flipper does a really great job of giving this control based on traffic percenta
 
 ### Considerations
 Eventually we may want to present the application directly and without authentication and to do this, we would operate Flipper with its intended behavior and wrap the application so a percentage of traffic moves through the new code vs redirected to the previous application.
-- In GA, use a no-follow tag?
+- In GA, use a `no-follow` tag?
 - Limit entrance pathways?
 - Simply not allow direct/unauthenticated access until more UAT is complete?
 
@@ -59,11 +59,11 @@ Eventually we may want to present the application directly and without authentic
 - Test
   - RBPS
   - Stakeholders
-  
-### Potential Acceptance Criteria
-- [ ] As an authenticated (LOA3) user, I can see on the static landing page there is a login button
-  - [ ] Some percentage of the time, I will be presented with the new application, else, be sent to existing application as if nothing happened.
-- [ ] The process is well documented and repeatable by other teams.
   - GA
   - Errors in Sentry
   - Call Center
+  
+### Potential Acceptance Criteria
+- [ ] As an authenticated (LOA3) user, I can see on the static landing page a login button
+  - [ ] Some percentage of the time, I will be presented with the new application, else, be sent to existing application as if nothing happened.
+- [ ] The process is well documented and repeatable by other teams.
