@@ -64,6 +64,6 @@ Eventually we may want to present the application directly and without authentic
   - Call Center
   
 ### Potential Acceptance Criteria
-- [ ] As an authenticated (LOA3) user, I can see on the static landing page a login button
-  - [ ] Some percentage of the time, I will be presented with the new application, else, be sent to existing application as if nothing happened.
+- [ ] As an authenticated (LOA3) user, I can see a login button on the static landing page that uses the usual design pattern
+  - [ ] Some predetermined percentage of the time, I will be presented with the new application, else, be sent to existing application as if nothing happened.
 - [ ] The process is well documented and repeatable by other teams.
