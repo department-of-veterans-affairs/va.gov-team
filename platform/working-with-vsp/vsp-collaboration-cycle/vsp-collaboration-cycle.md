@@ -293,20 +293,21 @@ Get feedback on your completed build before rolling out to users.
 
 ## Timing
 - Development stage: **Build**
-- When you're ready to begin rollout.
+- Before you begin rollout, allowing enough time to implement feedback
 
 ## Collaboration format: 30-minute meeting
 
 ### Request Process
-**VFS Product Manager** requests meeting using the `Staging Review` template. VSP will schedule the meeting. (Suggested scheduling: during VSP reviewer office hours)
+**VFS Product Manager** requests meeting using the `Staging Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=andreahewitt-odd%2C+meganhkelley&labels=product+support%2C+content-ia-team&template=staging-review.md&title=Staging+Review+%5BFeature-Name%5D) to open a ticket)_. VSP will schedule the meeting.
 
 ### Artifact inputs
 You bring: 
-- Access information for the tool or feature in staging
-- A link to your test cases/test plan in TestRail with test execution logs
-- A [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
-- [Access instructions for your product in staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-credentials-template.md)
-- A link to your accessibility test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)
+- Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
+- Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
+- Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
+- Link to your product test cases/test plan in TestRail with test execution logs ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) _for QA practice area review_
+- Link to your accessibility-specific test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md) _for accessibility practice area review_
+- List of known issues (with links to tickets when applicable)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 VSP brings:
@@ -317,9 +318,20 @@ VSP brings:
 - We’ll use the 30-minute meeting to go over high-level feedback for each practice area, and identify areas that might need further support. 
 
 ### Meeting attendees
-- VFS brings: your Product Manager, your DEPO PO, and anyone else from your product team that you think should be included at this point 
-- If VFS team is part of VSA contract, also include as optional: Jennifer, Shawna, Tze
-- VSP brings: design (Crystabel & Emily), accessibility (Trevor), content (Peggy), and QA (Peter) practice area reviewers as well as product managers (Megan & Andrea). Optional: analytics (Joanne).
+- VFS brings: 
+  - Product manager (required)
+  - DEPO product lead (required)
+  - Anyone else from your team who significantly contributed to the artifacts provided (required)
+- If VFS team is part of VSA contract, also include as optional: Accessibility (Jennifer), Design (Shawna), QA (Tze)
+- VSP brings: 
+  - Design (Crystabel & Emily) - required
+  - Accessibility (Trevor) - required
+  - Content (Peggy) - required
+  - Information architecture (Mikki) - required
+  - QA (Peter) - required
+  - Product (Megan and/or Andrea) - required
+  - VSP’s DEPO co-leads (Kevin) - optional
+  - Analytics (Joanne) - optional
 
 ## For further support at this point
 Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
