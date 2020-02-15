@@ -4,7 +4,13 @@
 ## Contents
 - [Setting Direction-Guideposts, OKRs, and Bets](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#setting-direction-guideposts-okrs-and-bets)
 - [Product Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#product-documentation)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#product-outline)
+  - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#roadmap)
 - [Delivery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#delivery)
+  - [MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#mvps)
+  - [Agile Ceremonies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#agile-ceremonies)
+  - [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#sprint-objectives)
+  - [Issue Templates and Examples](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#issue-templates-and-examples)
 
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
@@ -23,7 +29,8 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
   - [VA Forms API Product Outline](https://github.com/department-of-veterans-affairs/vets-contrib/blob/master/products/APIs/VA%20Forms%20API%20Product%20Outline.md)
 
 #### Roadmap
-- Each VSA product team publishes a "roadmap" of their OKRs and bets. It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
+Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
+It doesn’t include the typical timeline of assumed features. Rather, it’s a hierarchical and time-bound view of how the bets the team made trace back to strategic goals.
 - Template - tbd
 - Examples 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
