@@ -1,5 +1,5 @@
 # Checklist: WIP
-The steps here are meant to provide a framework to build upon for each feature that gets migrated out of eBenefits and into VA.gov.  They will not all be applicable everytime but they will at least be accounted for as we move forward.  For example, we can assume that onboarding tasks do not need to be repeated for each launch.
+The steps here are meant to provide a framework to build upon for each feature that gets migrated out of eBenefits and into VA.gov.  They will not all be applicable everytime but they will at least be accounted for as we move forward.  For example, we can assume that onboarding tasks do not need to be repeated for each launch.  Consolidate finished product documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).   (@jason-gcio for questions)
 
 **The more we are able to do before hand, the easier it will be for other teams.**
 
@@ -8,9 +8,9 @@ The steps here are meant to provide a framework to build upon for each feature t
 - [ ] Schedule and attend an orientation of the new feature  
   - [ ] List endpoints or questions about endpoints
 
-## Design
+## Design - Shawna
 ### Research Plan
-- [ ] Establish process for user interviews ([great resource](https://docs.google.com/document/d/1d2PJ6saIhzbWneevUs4rc153LTcbGxN-IJ9cXT51g1A/edit#heading=h.mfojcojhlwfx))
+- [ ] Establish process for user interviews ([great resource](https://docs.google.com/document/d/1d2PJ6saIhzbWneevUs4rc153LTcbGxN-IJ9cXT51g1A/edit#heading=h.mfojcojhlwfx), and [past sample](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md))
   - [ ] Create a Conversation Guide (sample [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/conversation-guide.md))
   
 ### UX
@@ -20,7 +20,7 @@ The steps here are meant to provide a framework to build upon for each feature t
 - [ ] Develop mockups
   - [ ] Seek applicable feedback, obtain understanding from team
   
-### Review Process
+### Review Process - Shawna/Platform
 - [ ] **Internal**
   - [ ] Review the [Web Brand Consolidation documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-gov-relaunch-2018/va-gov-strategy/the-new-va.gov-briefing-2019-07.pdf)
   - [ ] Review the [VA.gov Design System](https://design.va.gov/)
@@ -35,12 +35,12 @@ The steps here are meant to provide a framework to build upon for each feature t
     - Emily: Design
     - Peggy: Content
     - Mikki: IA
-    - Jennifer: Usability
+    - Jennifer: Accessibility
     - Trevor: 508
   - Iterate on other team's feedback
 - [ ] **As soon as feasible and iteration is finished,** request a [Design QA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/working-with-platform-design-team.md)
 
-### Content/IA  
+### Content/IA  - Peggy/Mikki
 _Share as soon as you have content - this is usually after mockups are created.  Get IA review after thumbnails (in case IA informs of a change, get Content review after mockups (provide as much final content to FE for implementation)_  
 - [ ] Discovery and reference the [VA.gov content style guide](https://design.va.gov/content-style-guide/)
 - [ ] Reference the [Content/IA best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
@@ -54,16 +54,20 @@ _Share as soon as you have content - this is usually after mockups are created. 
   - [ ] Confirm that wayfinding is appropriate
 - [ ] [Request IA Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md) & [Request a Content Review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md#how-to-request-content-review)
 _These links/reviews may end up being consolidated, stay tuned._
-- [ ] Before launch, circle back with Content/IA about further impact and feedback  
+- [ ] Before launch, circle back with Content/IA about further impact and feedback ([Sample of past feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/ebenefits-rated-disabilities.md), and [sample request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4545))
   - [ ] Deterime with IA whether the feature in question would be deemed a "top task" and put into the mega-menu
 
 ### Usability
 - [ ] Create a [test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/usability-research/research-plan.md)
   - [ ] Is the entry point established?
   - [ ] Is there a better entry point?
-- [ ] 508 Compliance
+- [Review the VSA Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-research-process.md)
+
+### Accessibility
+- [ ] 508 Compliance is important.  We should consider the VA.gov website to be the most accessible site on the web and an example for others.  Think in terms of "Veterans Centered Design."
   - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
   - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
+  - Overall [Accessibilty Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
   - [ ] Ensure the feature is tracked within the [508 Product Sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md)  
 
 ## Development
@@ -101,12 +105,14 @@ _Do we need to merge the FE and BE tasks?_
 ### Security/ATO
 - [ ] Establish who among VSP we should talk to about Security Reviews
   - [ ] What is the review process?
+  - [ ] Check with Andrea Hewitt for questions, [ref](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
 - [ ] Review the [ATO Procedures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 - [ ] Request a [preliminary ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 - [ ] Request a [pre-launch ATO review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/security/security-review-process.md)
 
 ### QA
 - [ ] [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/quality-assurance) from platform 
+- [ ] QA [rules of engagement](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/engineering/qa/vsa-qa-process.md)
 
 ### Testing
 - [ ] Create a test plan from an overall engineering perspective  
@@ -122,7 +128,8 @@ _Do we need to merge the FE and BE tasks?_
 
 ## Analytics
 - [ ] Confirm that the new feature/product is stable and visible in staging.va.gov  
-- [ ] Engage with the Analytics Team about what is to be launched  
+- [ ] Engage with the Analytics Team about what is to be launched
+  - Request a meeting or follow up ([past sample](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3527)
 - [ ] Review [KPI/metrics spreadsheet](https://docs.google.com/spreadsheets/d/1Zy_m5s6zrhmgKaUacYo2MLRmDjtJNhVKSeyeSeAtVec/edit#gid=1554481611)
 
 ## Support
@@ -139,9 +146,10 @@ _Do we need to merge the FE and BE tasks?_
 
 ## Release Plan
 - [ ] Refer to in-depth [Release Plan Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [ ] Review the -deployment policy](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/deployment-policy.md)
 
 ## Consider Deliverables and Artifacts
-- [ ] Ensure that these are noted and stored for easy access
+- [ ] Ensure that these are noted and [stored](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products) for easy access
   - [ ] Include contact information in case further discussion is required
 
 ## Launch
