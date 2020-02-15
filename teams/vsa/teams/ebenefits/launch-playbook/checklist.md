@@ -2,6 +2,7 @@
 The steps here are meant to provide a framework to build upon for each feature that gets migrated out of eBenefits and into VA.gov.  They will not all be applicable everytime but they will at least be accounted for as we move forward.  For example, we can assume that onboarding tasks do not need to be repeated for each launch.  Consolidate finished product documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).   (@jason-gcio, or @Jason in Slack, for questions)
 
 **The more we are able to do before hand, the easier it will be for other teams.**
+**Veteran Centered Design: We should strive for the VA.gov website to lead as the most accessible site on the web.**
 
 ## Discovery
 - [ ] [Review the Discovery How-to Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/how-to-run-discovery-sprint.md) as well as the [Discovery Toolkit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints)  
@@ -64,7 +65,7 @@ _These links/reviews may end up being consolidated, stay tuned._
 - [Review the VSA Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/vsa-research-process.md)
 
 ### Accessibility
-- [ ] 508 Compliance is important.  We should consider the VA.gov website to be the most accessible site on the web and an example for others.  Think in terms of "Veterans Centered Design."
+- [ ] 508 Compliance is important.  We should consider the VA.gov website to be the most accessible site on the web and an example for others.  Think in terms of "Veteran Centered Design."
   - [ ] Review [eBenefits 508 Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/508-checklist-wip.md)
   - [ ] [Request 508 Audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-request-prelaunch-review.md)
   - Overall [Accessibilty Review Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
