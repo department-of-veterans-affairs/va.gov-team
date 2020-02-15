@@ -327,7 +327,6 @@ VSP brings:
   - Design (Crystabel & Emily) - required
   - Accessibility (Trevor) - required
   - Content (Peggy) - required
-  - Information architecture (Mikki) - required
   - QA (Peter) - required
   - Product (Megan and/or Andrea) - required
   - VSP’s DEPO co-leads (Kevin) - optional
@@ -343,12 +342,12 @@ Ensure your feature meets VSP's privacy and security standards.
 
 ## Timing
 - Development stage: **Build**
-- When you're ready to begin rollout.
+- Before you begin rollout, allowing enough time to implement feedback.
 
 ## Collaboration format: 60-minute meeting
 
 ### Request process
-**VFS Lead Engineer or Product Manager** uses `Privacy and Security Review` template
+**VFS Lead Engineer or Product Manager** uses `Privacy and Security Review` template _(select in ZenHub dropdown or click [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=gunsch&labels=product+support&template=privacy-and-security-review.md&title=Privacy+and+Security+Review+%5BFeature-Name%5D) to open a ticket)_
 
 ### Artifact inputs
 - An architecture diagram, showing involved systems + data flows
@@ -357,11 +356,16 @@ Ensure your feature meets VSP's privacy and security standards.
 - Description of any other security hotspots you're concerned about / want extra attention on
 
 ### Outcomes and artifact outputs
-- VSP provides a list of concrete action items the need to be addressed, or approval to roll out
+- VSP provides a list of concrete action items that need to be addressed, or approval to roll out
 
 ### Meeting attendees 
-- VFS brings: your lead engineer, your Product Manager (optional), your DEPO PO, and whoever on your team can speak to the technical architecture and security concerns
-- VSP brings: engineering experts (Andrew, and another engineer that Andrew identifies as needed)
+- VFS brings:
+  - Lead engineer (required)
+  - Product manager (required)
+  - DEPO product lead (required)
+  - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
+- VSP brings: 
+  - Engineering experts (Andrew, others as needed)
 
 ## For further support at this point
 Reach out to Platform team in Slack #vfs-platform-support with any questions, and you’ll be directed to the correct resource.
