@@ -403,7 +403,7 @@ Now that you’ve released your product and gathered some initial KPI data, eval
 
 ## Timing
 - Development stage: **Validate**
-- One month after "Go Live."
+- One month after "Go Live" (as defined in Release Plan - [template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md))
 
 ## Collaboration format: asynchronous
 
@@ -413,12 +413,15 @@ Now that you’ve released your product and gathered some initial KPI data, eval
 ### Artifact inputs
 You bring: 
 - Completed [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with results populated
+- Brief answers to the following questions  _(no need to formally prepare responses, quick notes are great!): 
+  1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+  1. What qualitative feedback have you gathered from users or other stakeholders, if any?
+  1. Which of the assumptions you listed in your product outline were/were not validated? 
+  1. How might your product evolve now or in the future based on these results?
 
 ### Outcomes and artifact outputs
 Begin thinking about how your product should be evolving based on the results you've reported.
 
 ## For further support at this point
 Reach out in #vfs-all-teams with questions
-
-
 
