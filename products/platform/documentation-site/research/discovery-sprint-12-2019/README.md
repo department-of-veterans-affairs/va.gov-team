@@ -13,3 +13,4 @@
 - [Discovery Sprint Prep Resource Packet](prep-resource-packet.md)
 - [Prioritized Pain Points](prioritized-pain-points.md)
 - [Technology Discovery](technology-discovery.md)
+- [Pain Point & User Story Prioritization Worksheet (Google Sheets)](https://docs.google.com/spreadsheets/d/1U28U-y_-X8dTLFhm9gR023tMMVSRYLWDS5U-FOlnXlk/edit?folder=0ACGojOPyZxgPUk9PVA#gid=0)
