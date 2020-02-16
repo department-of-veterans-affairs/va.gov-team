@@ -45,7 +45,7 @@ It's up to the product team to determine what makes up their MVPs. The PO, the P
 - features that make it into address those questions/problems
 - a target date for launching the feature set 
 
-But, it's easy for folks to refer to work as "MVPs" without reacting to or iterating on the lessons learned. At the end of the day, an MVP is a tool. Along with generating lessons that may be taken into subsequent iterations, it helps rally the team around a common goal. 
+At the end of the day, an MVP is a tool. Along with generating lessons that may be taken into subsequent iterations, it helps rally the team around a common goal. 
 
 Resources:
 - [SVPG Viable Product vs. Minimal Product](https://svpg.com/viable-product-vs-minimal-product/)
