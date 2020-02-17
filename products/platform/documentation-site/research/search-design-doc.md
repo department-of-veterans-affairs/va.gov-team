@@ -72,6 +72,16 @@ Subject to review, we will run the crawler in a scheduled job once every 24 hour
 
 It's possible that running the scraper once per day would consume a significant number of operations.
 
+#### Public repos
+
+We will crawl and scrape the following public documentation sources:
+
+- [`va.gov-team` repo](https://github.com/department-of-veterans-affairs/va.gov-team)
+- [`veteran-facing-services-tools` repo](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/)
+- [`vets-contrib` repo](https://github.com/department-of-veterans-affairs/vets-contrib/)
+- [design.va.gov](https://design.va.gov/)
+- [developer.va.gov](https://developer.va.gov/)
+
 #### Private repos
 
 ---
@@ -200,11 +210,11 @@ The recommendation from the discovery sprint is to build a custom documentation 
 
 ### Revision History
 
-| Date         | Revisions Made                                                              | Author        | Reviewed By |
-| ------------ | --------------------------------------------------------------------------- | ------------- | ----------- |
-| Jan 27, 2020 | Initial Draft                                                               | Bill Fienberg |             |
-| Feb 10, 2020 | Update Detailed Design                                                      | Bill Fienberg |             |
-| Feb 11, 2020 | Answer open questions                                                       | Bill Fienberg |             |
-| Feb 12, 2020 | Expand on where/when to run crawler                                         | Bill Fienberg |             |
-| Feb 13, 2020 | Add Usage Limits section, and update Code Location & Work Estimate sections | Bill Fienberg |             |
-| Feb 17, 2020 | Add open question about crawler diffing capabilities                        | Bill Fienberg |             |
+| Date         | Revisions Made                                                                | Author        | Reviewed By |
+| ------------ | ----------------------------------------------------------------------------- | ------------- | ----------- |
+| Jan 27, 2020 | Initial Draft                                                                 | Bill Fienberg |             |
+| Feb 10, 2020 | Update Detailed Design                                                        | Bill Fienberg |             |
+| Feb 11, 2020 | Answer open questions                                                         | Bill Fienberg |             |
+| Feb 12, 2020 | Expand on where/when to run crawler                                           | Bill Fienberg |             |
+| Feb 13, 2020 | Add Usage Limits section, and update Code Location & Work Estimate sections   | Bill Fienberg |             |
+| Feb 17, 2020 | Add list of public docs, and open question about crawler diffing capabilities | Bill Fienberg |             |
