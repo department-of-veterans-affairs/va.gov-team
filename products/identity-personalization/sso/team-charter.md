@@ -7,7 +7,7 @@
 ### Desired Outcome:
 Remove barriers to entry for users to access services between VA.gov, MHV, eBenefits, and My VA Health (Cerner) by ensuring session continuity and clear redirects from VA.gov to My VA Health.
 
-### Worsktreams: 
+### Workstreams: 
 1. SSOe: Implement the VA's solution for session interoperability (see AccessVA for full list of current SSOe enabled sites)
 2. Standalone Sign-in page: Create URL-based sign in page for users accessing the Cerner My VA Health tools
 3. VA.gov Health pages (Prescriptions, Scheduling, Messaging, Lab & Test Results, Medical Records): Update alert boxes and main content to ensure users who are patients or caregivers of patients at a Cerner facility (such as Mann Grandstaff, Spokane) see the right information and are redirected to the correct page
