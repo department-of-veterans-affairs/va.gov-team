@@ -8,7 +8,7 @@ This document covers rules for engaging the VSP team in [pull request reviews](h
 
 We expect developers to be familiar with GitHub and the pull request review process, but want to be clear about our norms to reduce confusion and help code flow through the process as quickly and reliably as possible.
 
-## Code owners 
+## Code owners on vets-website
 
 VSP uses GitHub's [code owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) feature to trigger required reviews. A code owner is a GitHub [organization](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations) that must approve a change before it can be merged. 
 
