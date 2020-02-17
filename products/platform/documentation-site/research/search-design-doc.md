@@ -2,7 +2,7 @@
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 
-**Last Updated:** 2020-02-13
+**Last Updated:** 2020-02-17
 
 **Status:** **Draft**
 
@@ -160,6 +160,8 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 
 ### Open Questions and Risks
 
+- Does Algolia's scraper include any diffing feature? If it crawls a page and the result is identical to the previous crawl, does that still count towards our operation usage limit? If it has to read every record every day, that means we'd have at least 150k operations every day in `va.gov-team` alone. If the crawler has to execute a read operation to calculate a diff, and then execute a write operation to create a new record or edit an existing record, then that could be up to 300k operations every day in `va.gov-team` alone.
+
 ---
 
 ### Work Estimates
@@ -205,3 +207,4 @@ The recommendation from the discovery sprint is to build a custom documentation 
 | Feb 11, 2020 | Answer open questions                                                       | Bill Fienberg |             |
 | Feb 12, 2020 | Expand on where/when to run crawler                                         | Bill Fienberg |             |
 | Feb 13, 2020 | Add Usage Limits section, and update Code Location & Work Estimate sections | Bill Fienberg |             |
+| Feb 17, 2020 | Add open question about crawler diffing capabilities                        | Bill Fienberg |             |
