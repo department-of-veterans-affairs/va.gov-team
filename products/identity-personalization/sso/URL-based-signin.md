@@ -1,6 +1,6 @@
 # URL Based Sign-in
 
-_Updated Oct, 2019_
+_Updated Oct, 2019, Information from Lisa Koenigsberg_
 
 ### Project Name
 
@@ -8,17 +8,6 @@ URL Based Sign-in
 
 ### Problem Statement / How Might We statements
 This effort is one of many parts required for the SSOe supporting the new Health Care Portal launch in March 2020.  The portal will not have it's own login funciton and is depending on VA.gov to provide.  Our current login is a modal and needs to be relaunched as a reachable URL at va.gov/sign-in
-
-### What Sprint Teams Are Associated with this Discovery? 
-* Authenticited Experience 
-
-### Sprint Roles
-
-* DSVA Product Lead: Lisa Koenigsberg/Samara Strauss
-* Product Manager: Justin Pickett
-* Developers: Brad Conley, Eric Hansan, Lihan Li
-* Designer/Researcher: Arthur Green
-* QA: Tze-chiu Lei
 
 ### Stakeholders
 
