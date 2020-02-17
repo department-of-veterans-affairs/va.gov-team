@@ -355,6 +355,7 @@ Ensure your feature meets VSP's privacy and security standards.
 - Description of any new publicly-exposed endpoints (vets-api or otherwise)
 - Description of any new interactions with dependent services (i.e. vets-api --> ???)
 - Description of any other security hotspots you're concerned about / want extra attention on
+- **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
 ### Outcomes and artifact outputs
 - VSP provides a list of concrete action items that need to be addressed, or approval to roll out
@@ -365,6 +366,7 @@ Ensure your feature meets VSP's privacy and security standards.
   - Product manager (required)
   - DEPO product lead (required)
   - Anyone else on your team whose presence is needed to speak to the technical architecture and security concerns (required)
+- If VFS team is part of VSA contract, also include as optional: VSA Engineering Lead
 - VSP brings: 
   - Engineering experts (Andrew, others as needed)
 
