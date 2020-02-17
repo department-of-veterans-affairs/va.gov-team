@@ -37,7 +37,7 @@ The service blueprint will enable VSP teams to identify pain points they see as 
 
 ## Solution Approach
 
-The service blueprint connects all VFS-VSP touchpoints to the platform processes that are required to deliver them. It will consist of:
+The service blueprint connects VFS-VSP touchpoints to the platform processes that are required to deliver them. It will consist of:
 
 - The customer journey map phase by phase
 - The touchpoints for each VFS team member role
