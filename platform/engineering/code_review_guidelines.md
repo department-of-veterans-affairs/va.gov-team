@@ -12,7 +12,7 @@ We expect developers to be familiar with GitHub and the pull request review proc
 ## The pull request review lifecycle in brief
 
 1. For initial review by your project team, create a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-2. Once you are ready for the VSP team to review your PR, use the GitHub *Ready for review* button in the merge section of your pull request. An engineer should review the code within one business day. 
+2. Once your team has given it an approving peer review, use the GitHub *Ready for review* button in the merge section of your pull request. An engineer should review the code within one business day. 
 3. Each additional round of changes will be reviewed within one business day.
 4. When all review comments have been resolved, the PR can be merged into the master branch for deployment.
 
