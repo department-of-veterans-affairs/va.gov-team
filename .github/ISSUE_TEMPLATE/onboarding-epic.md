@@ -1,7 +1,7 @@
 ---
-name: New Team Onboarding Epic Template
+name: New Team VSP Orientation Epic Template
 about: For filing an onboarding epic on VSP.
-title: New Team Onboarding
+title: New Team VSP Orientation 
 labels: ''
 assignees: ''
 
@@ -11,12 +11,12 @@ assignees: ''
 As a new VA.gov team member, I need to complete onboarding activities so I can successfully work on my project.
 
 ## Acceptance Criteria
-- [ ] Each team member has completed each item in the onboarding checklist below.
+- [ ] Each team member has completed each item in the orientation checklist below.
 
 ## Onboarding Checklist
 
 - [ ] PM: Attend intro meeting with product support PM
-- [ ] Attend general onboarding meeting
+- [ ] Attend general orientation meeting
 - [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 - [ ] Review the [Norms for Using Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-tools.md)
@@ -46,5 +46,5 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 ## Notes:
 To track the work needed to complete the items in this checklist, you may want to create GitHub issues. 
 - [ ] Assign the issues to individual(s) to complete
-- [ ] Label the issues appropriately ( `onboarding`, `[your-team-name]`)
+- [ ] Label the issues appropriately ( `orientation`, `[your-team-name]`)
 - [ ] Attach the issues to this Epic
