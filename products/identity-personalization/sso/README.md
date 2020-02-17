@@ -61,7 +61,7 @@ VA.gov, MHV, and eBenefits each have separate but overlapping login flows. With 
 
 _The problem we’re trying to solve; why we’re doing this work. Describes an intent and sets a direction. How might we...?_
 
-Navigating from VA.gov to eBenefits, MHV, or My VA Health can result in a fragmented experience that may discourage users from interacting with the VA online.
+Users must navigate between multiple platforms to access benefits and tools (VA.gov to eBenefits, MHV, or My VA Health), and in most cases are asked to re-authenticate each time. This results in a fragmented experience that may discourage users from interacting with the VA online.
 
 
 ## Vision
