@@ -15,7 +15,7 @@ This document helps all teams working on VA.gov understand when you should engag
 
 VSP Design serves as a centralized design support team for all VFS teams, including teams working on Veteran-facing Services Applications (VSA), public website teams, and more.  
 
-**Onboarding new teams**
+**Orientation for new teams**
 - Your team will get a tour of how we approach UX! We’ll schedule a design breakout with you and team members to show you around the tools, services, support, and documentation available to you. 
 - You’ll meet the people on VSP who specialize in design and research, content, information architecture, and accessibility
 
