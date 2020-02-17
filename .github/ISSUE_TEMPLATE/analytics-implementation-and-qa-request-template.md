@@ -15,7 +15,7 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 > _Please see the following information for implementation timeline:_
 > New Teams: Implementation will usually be completed in 4 sprints:
 > 
-> - Sprint 1: Discovery/Onboarding
+> - Sprint 1: Discovery/Orientation
 > - Sprint 2: FE Implementation
 > - Sprint 3: Tagging Implementation
 > - Sprint 4: QA
