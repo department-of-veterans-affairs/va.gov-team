@@ -1,4 +1,6 @@
-# SSO Project Brief
+# SSO Product Outline
+
+_Last updated ~December 2019_
 
 
 # Context
@@ -44,7 +46,7 @@ VA.gov, MHV, and eBenefits each have separate but overlapping login flows. With 
 *   Developers of each of these sites bear the costs of the complexity and variance of log in options
 
 
-# Strategy Charter
+# Strategy
 
 
 ## Mission
