@@ -68,7 +68,7 @@ Navigating from VA.gov to eBenefits, MHV, or My VA Health can result in a fragme
 
 _What we hope to achieve, or enable, through our work. A vision should be ambitious and serve as a rallying point for the team._
 
-Seamless navigation for any user accessing health tools or benefits housed on multiple platforms (VA.gov, MHV, My VA Health).
+Seamless navigation for any user redirected between health tools or benefits housed on multiple platforms (VA.gov, MHV, My VA Health).
 
 
 ## North Star Metric
