@@ -1,4 +1,4 @@
-_Note, this file was copied from https://github.com/department-of-veterans-affairs/va-sso/blob/master/SymmetricSSOAndUUIDs.md_
+_Note, this file was migrated on 2/17/20 from https://github.com/department-of-veterans-affairs/va-sso/blob/master/SymmetricSSOAndUUIDs.md_
 # RFC - SSO Symmetry and Identifiers
 
 This document describes some known limitations with the VA.gov-SSOe integration approach and suggests ways we might mitigate them. Essentially, the question is "can we establish a VA.gov session from an existing SSOe session to facilitate full two-way session continuity?" 
