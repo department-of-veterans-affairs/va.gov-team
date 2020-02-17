@@ -1,4 +1,4 @@
-_Note this file was moved from https://github.com/department-of-veterans-affairs/va-sso/edit/master/LoginPageRFC.md_
+_Note this file was migrated on 2/17/20 from https://github.com/department-of-veterans-affairs/va-sso/edit/master/LoginPageRFC.md_
 
 # SSO Signin Page RFC
 #ssoe
