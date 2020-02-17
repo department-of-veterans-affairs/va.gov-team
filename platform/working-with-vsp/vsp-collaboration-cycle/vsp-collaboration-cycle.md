@@ -197,6 +197,7 @@ You bring:
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Link to or attach prototype or mockups
 - Link to research readout/results ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md))
+- Link to [reseach history masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) showing that you have added your research to the list as applicable
 - Link to or attach final content including H1s (if separate from prototype/mockup)
 - (Optional) completed information architecture worksheet (in ZenHub template)
 
