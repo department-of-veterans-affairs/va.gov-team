@@ -415,7 +415,7 @@ Now that you’ve released your product and gathered some initial KPI data, eval
 
 ### Artifact inputs
 You bring: 
-- Completed [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with results populated and (brief) answers written to the `Post-launch Questions` at the bottom
+- Completed [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with results populated, including answers written to the `Post-launch Questions` at the bottom
 
 ### Outcomes and artifact outputs
 Begin thinking about how your product should be evolving based on the results you've reported.
