@@ -25,7 +25,7 @@ VSP team members have a scannable view of touchpoints along the entire VFS produ
 
 ## Desired Business Outcomes
 
-The service blueprint provides stakeholders with a high-level view of insights research to highlight key areas where resources should be concentrated.
+The service blueprint provides stakeholders with a high-level view of insights research to highlight key areas warranting attention.
 
 ## Undesired User and Business Outcomes
 
@@ -46,16 +46,12 @@ The service blueprint connects all VFS-VSP touchpoints to the platform processes
 
 The service blueprint is intended to *show us what to look at* - where in the customer journey the experience breaks down or opportunities exist. It will *not tell us what to do* - it is an investigative tool not a solutioning one. 
 
+To validate our assumption, we will hold service blueprint workshops with each VSP team to understand each team’s interactions with VFS teams and identify pain points that should be prioritized for investigation.
+
 ## KPIs
 
 - Customer NPS
 - Resolution of pain points prioritized in service blueprint workshops.
-
-------
-
-## Go-to-market Strategy
-
-Hold service blueprint workshops with each VSP team to understand each team’s interactions with VFS teams and identify pain points that should be prioritized for investigation. 
 
 ------
 
