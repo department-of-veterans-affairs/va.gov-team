@@ -1,6 +1,6 @@
 # SSO Product Outline
 
-_Last updated ~December 2019_
+_Last updated ~October 2019_
 
 
 # Context
