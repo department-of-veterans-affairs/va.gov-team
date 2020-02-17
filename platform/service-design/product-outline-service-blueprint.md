@@ -49,7 +49,7 @@ The service blueprint is intended to *show us what to look at* - where in the cu
 ## KPIs
 
 - Customer NPS
-- Resolution of pain points prioritized in Service Blueprint workshops.
+- Resolution of pain points prioritized in service blueprint workshops.
 
 ------
 
