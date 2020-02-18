@@ -48,7 +48,7 @@ Questions are bound to come up that fall somewhere between "How do I?" and "What
 ## VFS team responsibilities
 
 ### Look for documentation before posting a question in Slack (or contacting DSVA).
-* See your team's Github "Product" folder or onboarding guides.
+* See your team's Github "Product" folder or orientation guides.
 * If you don't find an answer, post in #vfs-platform-support.
 
 ### Use Slack channels for different purposes.
