@@ -2,14 +2,14 @@
 
 **Goal**: All VFS teams will have Key Performance Indicators set up, be supported in tracking their data, and use these metrics for data-driven product decisions and goals. 
 
-## KPI Setting Workshops (_As a part of the initial weeks of Onboarding_)
+## KPI Setting Workshops (_As a part of the initial weeks of VSP Orientation_)
 1. The VSP Analytics and Insights Team (VSP Insights) will set up 2 hour workshops with teams building products or services in the VA.gov ecosystem - this includes VFS and VSP teams.
 2. VSP will send the VFS Team a [link to a pre-work template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/kpi-setting-pre-workshop-template.md) before the workshop.
 3. The VFS team needs to create a file from this template in their /team folder in GitHub, and meet internally to fill it out before the Workshop.
 4. VSP Insights will facilitate the KPI Workshop itself, to lead teams through setting the KPIs for their product(s). Teams will collaborate in this meeting via screenshare, to fill out a [KPIs Google Sheet](https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHMNrk/edit#gid=1554481611) hosted by VSP Insights.
 5. Post-workshop, VSP Insights will Slack an Excel version of the Google Sheet to the team, the team will upload it to their product folder, and return the link to Insights. 
 
-## Insights KPI Tracking (_Post Onboarding_)
+## Insights KPI Tracking (_Post Orientation_)
 
 1. Insights will add each team's KPIs to [this list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/insights-analytics/kpi-tracking/kpi-list.md) and consolidate them [here](https://docs.google.com/spreadsheets/d/1No7cWp3LgD69dQWgA5bdgo0zx5d-1m-4HW-ZLnasSDM/edit#gid=0).
 2. VSP Insights will synthesize the data from each team's KPI setting to track:
