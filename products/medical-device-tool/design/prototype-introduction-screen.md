@@ -1,7 +1,7 @@
 # Prototype: Introduction screen
 
 Navigation: <br>
-[Description](TBD) | [Feedback](TBD) | [Content](TBD)
+[Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content)
 
 Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/6CVSW1NTJB4) | [Mobile](https://vsateams.invisionapp.com/share/TKVSW1W9C3G)
 
