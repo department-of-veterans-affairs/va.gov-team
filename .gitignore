@@ -5,3 +5,4 @@
 scripts/node_modules
 scripts/repo-replace-url.log.csv
 scripts/repo-deprecation.log.csv
+.env
