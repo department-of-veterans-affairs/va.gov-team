@@ -23,7 +23,7 @@ There are 3 areas of the va.gov-teams repo that you will be working with - `plat
 **/platform** <br/>
 This area includes all platform-level products and services that support va.gov product development. 
 - All documentation and artifacts created by the platform teams (VSP teams) that support and help teams working on the platform and va.gov.
-- Examples of content you will find in this area include best practices, how to request reviews with different practice areas, onboarding materials for all VFS teams, and documentation on tools and services provided by VSP. 
+- Examples of content you will find in this area include best practices, how to request reviews with different practice areas, orientation materials for all VFS teams, and documentation on tools and services provided by VSP. 
 - The primary contributor to this area is the VSP team. 
 
 **/product**<br/>
