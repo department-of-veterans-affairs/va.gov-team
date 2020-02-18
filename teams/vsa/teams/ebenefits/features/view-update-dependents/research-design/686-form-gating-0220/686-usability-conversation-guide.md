@@ -35,6 +35,9 @@ Link: https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/?fulls
 Information shown here will not reflect any of your actual information.
 
 ## First Task: Find form
+- Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
+
+**Scenario**
 
 You've recently been married and want to add your new spouse and their child to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
@@ -43,8 +46,8 @@ OR
 Your child has recently started college and you want to add them to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
 ### Things to watch for:
-- Take note of how the user navigates (or attempts) to the form
-- How many attempts do they make to get to the form?
+- Where does the participant click first? next?
+- Note: since this doesn't actually "exist" anywhere on the site at some point we would stop them once they'd navigated a few clicks in and let them know it doesn't actually exist currently.
 
 ## Second Task: Select form(s)
 Now that you've found this page, show us what you would do next.
