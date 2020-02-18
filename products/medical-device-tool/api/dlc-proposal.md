@@ -185,4 +185,3 @@ Content-Type: application/json
   "status": "success"
 }
 ```
-
