@@ -19,8 +19,8 @@ The most updated version of the MDT prototype can be viewed [here](https://vsate
 ### Form Table of Contents 
 Documentation containing descriptions, feedback, and content for each chapter's pages can be found here.
 
-- **Content page** 
-   - Content Page (TBD)
+- **Drupal content page** 
+   - Drupal content page (TBD)
 - **Introduction Screen**
    - Page 1: Introduction screen (TBD)
 - **Chapter 1: Veteran Information**
