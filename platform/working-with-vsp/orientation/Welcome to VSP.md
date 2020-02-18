@@ -20,7 +20,7 @@ The VSP is the common infrastructure, technical and non-technical components, an
 
 Here's a sample timeline of what you should expect to do as you prepare to start designing / building / iterating in collaboration with VSP.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/VSP_Onboarding_Timeline.001.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/VSP_Onboarding_Timeline.001.png)
 
 ## Working in the open
 
@@ -36,7 +36,7 @@ Document what you're building, what problem it's solving, what outcomes you hope
 
 - [Here's how to write a great Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md).
 - Please store your VA.gov Product documentation in the [va.gov-team repo product folders](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products). As of November 2019 we are in the process of copying select legacy documentation from the vets.gov-team repo to supplement va.gov-team; expect to see additional content and updates to links as this work continues through January 2020. 
-- Teams regularly use ZenHub to better organize GitHub issues. [Here's how the VSP team uses ZenHub to manage its work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_product_management.pdf).
+- Teams regularly use ZenHub to better organize GitHub issues. [Here's how the VSP team uses ZenHub to manage its work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf).
 
 ### Design
 
