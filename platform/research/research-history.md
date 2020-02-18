@@ -22,6 +22,14 @@ __Please note that many links on this page reference research folders in the vet
 
 ### January 2020
 
+##January 2020
+January 15 - 22: Higher Level Review Usability Testing##
+Christian Valla, Kevin Stachura
+
+9 participants (15 scheduled, 2 cancelled, 4 no-show)
+
+Research folder: 
+
 #### January 27 - 31: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing 
 *Booz Allen: Amy Knox, Theresa McMurdo*
 
