@@ -1,7 +1,7 @@
-# Onboarding welcome email template
+# VSP orientation welcome email template
 Subject: Welcome to VA.gov! Let’s get started.
 
-Welcome to VA.gov! My name is ______, and I'm a ______ on VA.gov's Product Support team. I'll be your main point of contact during your onboarding experience. 
+Welcome to VA.gov! My name is ______, and I'm a ______ on VA.gov's Product Support team. I'll be your main point of contact during your VSP orientation experience. 
 
 My team, Product Support, is part of VA.gov's platform team, also known as VSP or Veteran Services Platform. Our main goal is to provide you with tools and guidance to build the best possible web experience for our country’s Veterans. We’re happy to have you contributing to the project and are looking forward to working with you.
 
@@ -11,13 +11,13 @@ We’re constantly iterating on our VSP tooling and processes to best serve you.
 
 Here’s how to get started:
 
-**1. Attend VSP Onboarding!**
+**1. Attend VSP Orientation!**
 
-* General onboarding: Monday, August 5th at 11:00am ET, [Zoom meeting](https://zoom.us/j/178649656 )
-* Engineering onboarding: Monday, August 5th at 2:30pm ET, [Zoom meeting](https://zoom.us/j/666886545) 
-* Design onboarding: Monday, August 5th at 4pm ET, [Zoom meeting](https://zoom.us/j/307060333) 
+* General orientation: Monday, August 5th at 11:00am ET, [Zoom meeting](https://zoom.us/j/178649656 )
+* Engineering breakout: Monday, August 5th at 2:30pm ET, [Zoom meeting](https://zoom.us/j/666886545) 
+* Design breakout: Monday, August 5th at 4pm ET, [Zoom meeting](https://zoom.us/j/307060333) 
 
-(If you have not received an invite to a onboarding meeting that you would like to attend, please let me know.)
+(If you have not received an invite to an orientation meeting that you would like to attend, please let me know.)
 
 **2. Have one person on your team complete the following questionnaire** so we can better understand your project, your team, and the best way we might help you: [https://adhoc.optimalworkshop.com/questions/vsa-team-intake](https://adhoc.optimalworkshop.com/questions/vsa-team-intake) 
 
