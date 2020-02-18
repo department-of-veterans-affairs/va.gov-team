@@ -12,7 +12,7 @@
 - Context for reasons behind recommendations and decisions
 - Time to learn new processes, tools, and languages
 - Relationships with people who are assigned to providing them support and guidance 
-- Frequent communication and guidance during onboarding
+- Frequent communication and guidance during VSP orientation
 
 #### Motivations
 - Launching product or service by deadline
