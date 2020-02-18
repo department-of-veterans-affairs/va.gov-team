@@ -4,6 +4,7 @@ jobs:
     docker:
       - image: ubuntu:14.04
 
+      # install `jq` because it's required by `algolia/docsearch-scraper`
       - image: stedolan/jq
 
       - image: algolia/docsearch-scraper
@@ -15,6 +16,7 @@ jobs:
 
     - run:
       name: Scrape public documentation sources
+      # use ALGOLIA_API_KEY and ALGOLIA_APP_ID env variables that were set in CircleCI UI
       command: |
         docker run -it -e "API_KEY=$ALGOLIA_API_KEY" -e "APPLICATION_ID=$ALGOLIA_APP_ID" -e "CONFIG=$(cat docs/docsearch-scraper-config.json | jq -r tostring)" algolia/docsearch-scraper
 
@@ -23,7 +25,8 @@ workflows:
   nightly:
     triggers:
       - schedule:
-          cron: "0 0 * * *"
+          # every night around midnight in eastern time
+          cron: "0 5 * * *"
           filters:
             branches:
               only:
