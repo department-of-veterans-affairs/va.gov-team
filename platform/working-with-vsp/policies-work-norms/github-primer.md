@@ -34,7 +34,7 @@
   * Folders have to contain at least one file.
   * README.md files are automatically displayed at the root of each folder. If you don't have a README.md file in a folder, the screen will just show the list of files and sub-folders.
 
-[Visit this page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding) to see the UI features below:
+[Visit this page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation) to see the UI features below:
 
 * **Find file button** - an alternate way to search
 * **History button** - Shows the history of the folder or file you're currently viewing
