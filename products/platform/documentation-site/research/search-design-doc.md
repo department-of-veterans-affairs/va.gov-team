@@ -1,6 +1,6 @@
 # Documentation Search MVP
 
-**Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
+**Author(s):** Bill Fienberg \<bill.fienberg@oddball.io\>
 
 **Last Updated:** 2020-02-18
 
@@ -201,7 +201,7 @@ If you don't have an `.env` file, you'll need to create one. If you do have an `
 
 ##### Dependencies to run `docsearch-scraper` locally
 
-- [Docker](https://docs.docker.com/install/).
+- [Docker](https://docs.docker.com/install/)
 - [`docsearch-scraper` Docker image](https://hub.docker.com/r/algolia/docsearch-scraper)
 - [`jq`](https://github.com/stedolan/jq/wiki/Installation)
 
