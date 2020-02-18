@@ -219,6 +219,8 @@ The [DocSearch JS snippet](https://docsearch.algolia.com/docs/dropdown) requires
 
 The `appId` and search `apiKey` are both public. The search `apiKey` only allows read access. There is a separate admin API key that the crawler will use, and that admin API key will need to be configured in an environment variable in CircleCI.
 
+CircleCI explains how to use environment variables in their [docs](https://circleci.com/docs/2.0/env-vars/).
+
 We don't currently have any custom private attributes on the records in our index. If we did, we could configure [`unretrievableAttributes`](https://www.algolia.com/doc/api-reference/api-parameters/unretrievableAttributes/), which is a list of attributes that cannot be retrieved at query time.
 
 ### Privacy Concerns
