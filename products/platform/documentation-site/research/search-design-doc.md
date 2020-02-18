@@ -215,13 +215,19 @@ We could search for the same term in both the Algolia UI and the landing page to
 
 ### Security Concerns
 
+We don't currently have any custom private attributes on the records in our index. If we did, we could configure [`unretrievableAttributes`](https://www.algolia.com/doc/api-reference/api-parameters/unretrievableAttributes/), which is a list of attributes that cannot be retrieved at query time.
+
 The [DocSearch JS snippet](https://docsearch.algolia.com/docs/dropdown) requires four pieces of data; the `appId` (public), search `apiKey` (public), `indexName`, and `inputSelector`.
 
 The `appId` and search `apiKey` are both public. The search `apiKey` only allows read access. There is a separate admin API key that the crawler will use, and that admin API key will need to be configured in an environment variable in CircleCI.
 
 CircleCI explains how to use environment variables in their [docs](https://circleci.com/docs/2.0/env-vars/).
 
-We don't currently have any custom private attributes on the records in our index. If we did, we could configure [`unretrievableAttributes`](https://www.algolia.com/doc/api-reference/api-parameters/unretrievableAttributes/), which is a list of attributes that cannot be retrieved at query time.
+According to [CircleCI's docs](https://circleci.com/docs/2.0/oss/#security):
+
+> If your repository is public, your CircleCI project and its build logs are also public. Pay attention to the information you choose to print.
+
+Fortunately, CircleCI introduced [secret masking](https://circleci.com/blog/keep-environment-variables-private-with-secret-masking/) which will scan logs and replace environment variables or contexts with `XXXXX`.
 
 ### Privacy Concerns
 
