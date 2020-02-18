@@ -12,6 +12,7 @@ assignees: gunsch
 - [ ] Reach out to Andrew Gunsch (@ gunsch in Slack) to schedule a 60 minute meeting 
 - [ ] VSP privacy and security review team provides written feedback for your team on your feature, including clear action items to complete
 - [ ] **Requesting team** completes action items
+- [ ] Requesting team requests validation of completed action items and signoff from Andrew Gunsch before rollout 
 - [ ] All requesting team attendees complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Artifacts - _please provide the following artifacts 2 days before scheduled meeting_
