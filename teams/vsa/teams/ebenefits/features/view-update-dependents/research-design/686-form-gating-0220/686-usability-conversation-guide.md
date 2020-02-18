@@ -37,11 +37,11 @@ Will you share your screen with me? I'm going to send you a link to the VA.gov w
 
 **Scenario**
 
-You've recently been married and want to add your new spouse and their child to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
+- You've recently been married and want to add your new spouse and their child to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
 OR
 
-Your child has recently started college and you want to add them to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
+- Your child has recently started college and you want to add them to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
 ### Things to watch for:
 - Where does the participant click first? next?
@@ -71,7 +71,7 @@ Go ahead and show us what you would do to add them.
 
 ## Fourth Task: Review application
 
-Take a moment to review the information presented on the screen. 
+- Take a moment to review the information presented on the screen. 
 - Go ahead and show us what you would do to finish the application.
 
 ### Things to watch for:
@@ -80,11 +80,11 @@ Take a moment to review the information presented on the screen.
 
 ## Fifth Task (if time): Remove
 
-Let's say that your step-child has moved out on their own. How would you go about removing them from your benefits?
+- Let's say that your step-child has moved out on their own. How would you go about removing them from your benefits?
 
 OR
 
-Let's say your child graduated college and is no longer eligible for your benefits. What would you do to remove them?
+- Let's say your child graduated college and is no longer eligible for your benefits. What would you do to remove them?
 
 ## Post-Task Interview
 - Would you prefer to complete multiple tasks at the same time? Or individually?
