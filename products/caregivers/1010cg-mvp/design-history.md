@@ -8,16 +8,15 @@ Designers: Jonathan Nelson
 ### Designs
 https://vsateams.invisionapp.com/share/HSW1FPQDXQ7
 
-
-### Feedback & Outcomes
-
-#### Usability Study and Content Review:
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
+#### Content Recommendations
+Meeting date: Ongoing   
+Attendees: Jonathan Nelson, Peggy Gannon, Patrick Sanders 
 
 Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
+- Terms from the 10-10CG accounted for and defined in plain language (paired with legalees when nesseracy) 
+- Added “family caregiver” to form.  
+_There  was a healthy discussion between design and content regarding adding, "family caregiver" to form. Originally, designs had "primary caregiver" or "caregiver".  Content thinks we need to add family as this is the name of the program and distriques the program - I was worried that users would get tripped up over the use of "family". After consulting with team, PO, and PM it was determined to defer to content on this. 
+
 - Bulleted list of outcomes
 
 Resources
