@@ -6,7 +6,7 @@ Further Reading:
 
 - https://reactjs.org/
 - https://github.com/department-of-veterans-affairs/vets-website/blob/master/README.md
-- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/how-to-collaborate-on-documents.md
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/how-to-collaborate-on-documents.md
 
 ## Process
 
