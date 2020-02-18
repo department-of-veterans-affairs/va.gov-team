@@ -14,7 +14,7 @@ Provide expert content and IA support and resources to VSP and VFS teams to ensu
 - [Documentation site](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/documentation-site/product-outline.md)
 - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md) and [content ROE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
 - [IA best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-best-practices.md), SEO best practices, and [IA ROE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-ia.md)
-- [Documentation site best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md) and documentation site ROE
+- [Documentation site best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md) and documentation site ROE
 - Content and IA sections of [VA.gov style guide](https://design.va.gov/) _(in collaboration with DEPO)_
 - VA.gov menus and navigation
 
