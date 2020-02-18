@@ -2,7 +2,7 @@
 
 **Author(s):** Bill Fienberg <bill.fienberg@oddball.io>
 
-**Last Updated:** 2020-02-17
+**Last Updated:** 2020-02-18
 
 **Status:** **Draft**
 
@@ -60,7 +60,7 @@ The middle tier, the Starter plan, includes up to 50K records and 250k operation
 
 ##### The Pro Plan
 
-The upper tier, the Pro plan, includes up to 1M records and 5M operations. If we exceed the limits of the Pro plan, it would cost an extra $5/month foe every 100K additional operations, and an extra $5/month for every additional 20K records.
+The upper tier, the Pro plan, includes up to 1M records and 5M operations. If we exceed the limits of the Pro plan, it would cost an extra $5/month for every 100K additional operations, and an extra $5/month for every additional 20K records.
 
 ---
 
@@ -218,3 +218,4 @@ The recommendation from the discovery sprint is to build a custom documentation 
 | Feb 12, 2020 | Expand on where/when to run crawler                                           | Bill Fienberg |             |
 | Feb 13, 2020 | Add Usage Limits section, and update Code Location & Work Estimate sections   | Bill Fienberg |             |
 | Feb 17, 2020 | Add list of public docs, and open question about crawler diffing capabilities | Bill Fienberg |             |
+| Feb 18, 2020 | Fix typo                                                                      | Bill Fienberg |             |
