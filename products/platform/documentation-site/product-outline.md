@@ -93,7 +93,7 @@ July/Aug 2019 — Decision to consolidate documentation into a single public (va
 
 Regarding migrating/copying content into new repositories, it was decided that content would be copied over, leaving historical content in legacy repositories in place as an intact artifact for reference. 
 
-October 2019 — Discussion of large file storage (Matt, Mikki, Megan, Andrew, Leah). Determined that for now, mid-sized files (such as Sketch files, PowerPoints, etc) will be stored in GitHub with [explicit instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md#file-storage-and-large-files) about uploading those to Git LFS. There is no interim solution for shared storage of larger files. Per instructions from Lauren, team members are no longer saving video clips of research sessions, even scrubbed of PII.
+October 2019 — Discussion of large file storage (Matt, Mikki, Megan, Andrew, Leah). Determined that for now, mid-sized files (such as Sketch files, PowerPoints, etc) will be stored in GitHub with [explicit instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md#file-storage-and-large-files) about uploading those to Git LFS. There is no interim solution for shared storage of larger files. Per instructions from Lauren, team members are no longer saving video clips of research sessions, even scrubbed of PII.
 
 December 16 - 20, 2019 — [Documentation site discovery sprint](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/platform/documentation-site/research/discovery-sprint-12-2019)
 
