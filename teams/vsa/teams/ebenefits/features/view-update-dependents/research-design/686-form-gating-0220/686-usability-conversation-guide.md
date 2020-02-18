@@ -26,13 +26,11 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 - What are your experiences adding or removing dependents from you disability claim?
 - Are you familiar with the VA 21-686 form? 
     - And what is your experience with the form?
+    
+I will be asking you to complete a few tasks. Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.
 
 ## Screenshare
-Will you share your screen with me? I'm going to send you a link. I will be asking you to complete a few tasks using this prototype. Try to move a bit slower than you normally would on a website and talk me through your actions.
-
-Link: https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/?fullscreen
-
-Information shown here will not reflect any of your actual information.
+Will you share your screen with me? I'm going to send you a link to the VA.gov website.
 
 ## First Task: Find form
 - Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
@@ -50,29 +48,33 @@ Your child has recently started college and you want to add them to your benefit
 - Note: since this doesn't actually "exist" anywhere on the site at some point we would stop them once they'd navigated a few clicks in and let them know it doesn't actually exist currently.
 
 ## Second Task: Select form(s)
-Now that you've found this page, show us what you would do next.
+
+Great! You found it and ended up on this page. 
+
+Moderator shares prototype link: https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/?fullscreen (make sure the participant is still sharing screen)
+- What are your first impressions? 
 - Are the options shown clear to you?
+- Show us what you would do next to add your spouse and their child to your benefits.
 
 ### Things to watch for:
 - Does the participant know they can select multiple scenarios?
-- Make note of how the participant interacts with the checkboxes.
+- Make note of how the participant interacts with the optinons
 
 ## Third Task: Step through form
 
-Walk through the steps of this form. Be sure to think aloud and comment on the process of walking through the form.
+Go ahead and show us what you would do to add them.
+- Be sure to think out loud and comment on anything that you may find confusing, interesting, etc.
 
 ### Things to watch for:
-
 - Does the participant understand that all the workflows are within this form? 
 - Watch for any hiccups in the form process
 
 ## Fourth Task: Review application
 
 Take a moment to review the information presented on the screen. 
-- Click the area of the prototype to complete this application process.
+- Go ahead and show us what you would do to finish the application.
 
 ### Things to watch for:
-
 - Does the participant discern between the different scenarios?
 - Make note of how participant reviews form summary
 
