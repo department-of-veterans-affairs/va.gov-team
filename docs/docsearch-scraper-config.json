@@ -5,25 +5,19 @@
       "url": "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/",
       "selectors_key": "folder",
       "page_rank": 0,
-      "tags": [
-        "folder"
-      ]
+      "tags": ["folder"]
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/.+$",
       "selectors_key": "folder",
       "page_rank": 0,
-      "tags": [
-        "folder"
-      ]
+      "tags": ["folder"]
     },
     {
       "url": "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.+\\.md$",
       "selectors_key": "file",
       "page_rank": 5,
-      "tags": [
-        "file"
-      ]
+      "tags": ["file"]
     }
   ],
   "selectors": {
@@ -40,14 +34,9 @@
       "text": "article p, article li"
     }
   },
-  "selectors_exclude": [
-    ".up-tree"
-  ],
+  "selectors_exclude": [".up-tree"],
   "custom_settings": {
-    "attributesForFaceting": [
-      "language",
-      "version"
-    ]
+    "attributesForFaceting": ["language", "version"]
   },
   "stop_urls": [
     "https://raw.githubusercontent.com",
