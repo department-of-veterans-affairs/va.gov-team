@@ -2,10 +2,17 @@ version: 2
 jobs:
   scrape:
     docker:
+      - image: ubuntu:14.04
+
+      - image: stedolan/jq
+
       - image: algolia/docsearch-scraper
+
   working_directory: ~/va.gov-team
+
   steps:
     - checkout
+
     - run:
       name: Scrape public documentation sources
       command: |
