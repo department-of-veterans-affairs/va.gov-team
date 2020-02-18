@@ -41,7 +41,15 @@ We need to determine an efficient way of getting PACT members and assignments. T
 
 ### Risk
 
-The primary risk if this recommendation is wrong is that some subset of Veterans will be able to schedule into clinics that they shouldn't be able to. Direct scheduling accounts for around 40% of submissions in legacy VAOS, and this would be a small subset of primary care DS users. In addition, users scheduling into the wrong clinics is a problem in general with VAOS. While we don't want to make this problem worse, it is not an issue that sites have not had to deal with in the past.
+The primary risk if this recommendation is wrong is that some subset of Veterans will be able to schedule into clinics that they shouldn't be able to. Essentially you would have a scenario where:
+
+1. The Veteran is scheduled in a clinic associated with their PACT
+2. The clinic is one they've been seen in before
+3. But their PACT has zero active providers 
+
+Currently, VAOS would prevent you from direct scheduling, but with this change, you would be able to continue.
+
+Direct scheduling accounts for around 40% of submissions in legacy VAOS, and this would be a small subset of primary care DS users. In addition, users scheduling into the wrong clinics is a problem in general with VAOS. While we don't want to make this problem worse, it is not an issue that sites have not had to deal with in the past.
 
 ### Areas of uncertainty
 
