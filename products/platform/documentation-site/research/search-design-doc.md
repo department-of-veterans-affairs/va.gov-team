@@ -84,7 +84,7 @@ The DocSearch JS snippet doesn't seem to use any debouncing. I noted the number 
 
 Since each crawl wipes and repopulates the index, that means each crawl will produce a number of operations approximately equal to the previous number of records. The number of operations may be larger due to new lines/files in the repos, and it may be smaller due to deleted lines/files in the repo.
 
-If the `va.gov-team` repo currently produces ~150K records, then the crawler `va.gov-team` would produce ~150K operations every time it runs. If the `va.gov-team` repo is crawler once per day, then that would produce ~150K operations every day. At that rate, we'd have approximately ~4.5M operations every month from crawling the `va.gov-team` repo alone.
+If the `va.gov-team` repo currently produces ~150K records, then crawling `va.gov-team` would produce ~150K operations every time it runs. If the `va.gov-team` repo is crawler once per day, then that would produce ~150K operations every day. At that rate, we'd have approximately ~4.5M operations every month from crawling the `va.gov-team` repo alone.
 
 ##### Recommended Plan for Our Usage
 
