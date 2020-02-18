@@ -151,5 +151,5 @@ GitHub is the single source of truth. Every body of work should be documented fo
 - Google Analytics 
     - [Overview recording](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/resources-google-analytics-walkthrough.md)
     - Access - ping us on Slack, #vfs-platform-support
-- [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf)
+- [Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf)
 - "Product Health Tool" TBD
