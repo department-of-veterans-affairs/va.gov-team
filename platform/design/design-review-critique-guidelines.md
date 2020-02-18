@@ -12,7 +12,7 @@ The purpose of these guidelines are for VSP design experts to give a standard fr
 
 ## Step 1: Analyze
 
-Reviewers: For Usability Testing Prep and Staging Reviews, reviewers should look at the work before the meeting and have questions, notes, and feedback prepared ahead of time. The first thing you’ll need to do is analyze the work. See if anything stands out from the design as particularly effective or ineffective..  The goal of providing feedback is to talk about what can be improved AND what was done really well. Be empathetic, keep in mind to try to understand why the team did that in the first place.
+**Reviewers:** For Usability Testing Prep and Staging Reviews, reviewers should look at the work before the meeting and have questions, notes, and feedback prepared ahead of time. The first thing you’ll need to do is analyze the work. See if anything stands out from the design as particularly effective or ineffective. The goal of providing feedback is to talk about what can be improved AND what was done really well. Be empathetic, keep in mind to try to understand why the team did that in the first place.
 
 
 A few questions that can help frame your thinking while analyzing:
@@ -79,7 +79,7 @@ Write down your thoughts as you are analyzing the work so that you are prepared 
 
 ### Step 3: Communicate it
 
-- **During the meeting:** reviewers should use their 5 minutes to ask their questions, note items that are particularly effective, and deliver their feedback. If you don’t think 5 minutes will be enough time, prioritize your questions and do feedback, and come back to it if there’s time after everyone else has gone. 
+- **During the meeting:** Reviewers should use their 5 minutes to ask their questions, note items that are particularly effective, and deliver their feedback. If you don’t think 5 minutes will be enough time, prioritize your questions and do feedback, and come back to it if there’s time after everyone else has gone. 
 
 - **After the meeting:** Before the end of the day, create an issue that captures your feedback and attach it to the collaboration point’s epic.
 
