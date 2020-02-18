@@ -46,25 +46,75 @@ That means we'd be responsible for:
 - Adding a scheduled job to `va.gov-team`'s CircleCI pipeline to run the scraper once every 24 hours
 - Manually triggering the initial scraper run to populate our Algolia index
 
-#### Usage limits
+#### Algolia account
+
+##### Usage limits
 
 [Algolia's pricing page](https://www.algolia.com/pricing/) shows three different tiers, in addition to an enterprise plan. The primary differentiator between the tiers is the number of records and the number of operations (read/write/edit/delete) included with each plan.
 
-##### The Community Plan
+You can read more about how Algolia counts records and operations in their [FAQ](https://www.algolia.com/doc/faq/accounts-billing/how-algolia-count-records-and-operation/).
+
+You can read more about how Algolia builds a DocSearch index in the [DocSearch docs](https://docsearch.algolia.com/docs/how-do-we-build-an-index).
+
+###### The Community Plan
 
 The free tier, the Community plan, includes up to 10K records and 50K operations (read/write/edit/delete). If we exceed the limits of the free tier, we'd have to upgrade to a paid tier.
 
-##### The Starter Plan
+###### The Starter Plan
 
-The middle tier, the Starter plan, includes up to 50K records and 250k operations. If we exceed the limits of the Starter plan, it would cost an extra $10/month for every additional 100K operations, and an extra $10/month for every additional 20K records.
+The middle tier, the Starter plan, starts at $29/month, and includes up to 50K records and 250k operations. If we exceed the limits of the Starter plan, it would cost an extra $10/month for every additional 100K operations, and an extra \$10/month for every additional 20K records.
 
-##### The Pro Plan
+###### The Pro Plan
 
-The upper tier, the Pro plan, includes up to 1M records and 5M operations. If we exceed the limits of the Pro plan, it would cost an extra $5/month for every 100K additional operations, and an extra $5/month for every additional 20K records.
+The upper tier, the Pro plan, starts at $499/month, and includes up to 1M records and 5M operations. If we exceed the limits of the Pro plan, it would cost an extra $5/month for every 100K additional operations, and an extra \$5/month for every additional 20K records.
 
 ---
 
+##### Records
+
 Essentially, every line of text (`<p>`, `<li>`, `<h1-6>`, etc) in a markdown file ends up as a separate record in the Algolia index. We have approximately 3K `.md` files in the `va.gov-team` repo. We ran a test crawler on the `va.gov-team` repo to estimate how many elements would match our selectors, and it found almost 150K matching elements, which equates to almost 150K records.
+
+Each crawl deletes and repopulates the index. I have confirmed this by noting how the `objectID` of a record changes after every crawl, even if the rest of the record was unchanged.
+
+On one hand, that is a good thing because it means the index will never have stale records. On the other hand, that is a bad thing because a bug in the crawler config could wipe out some/all of the index, which would degrade the utility of the search feature.
+
+##### Operations
+
+The DocSearch JS snippet doesn't seem to use any debouncing. I noted the number of operations, and then quickly typed `design`. I expected the search request to wait until I was done typing, and the number of operations to only increase by one. However, the number of operations increased by six.
+
+Since each crawl wipes and repopulates the index, that means each crawl will produce a number of operations approximately equal to the previous number of records. The number of operations may be larger due to new lines/files in the repos, and it may be smaller due to deleted lines/files in the repo.
+
+If the `va.gov-team` repo currently produces ~150K records, then the crawler `va.gov-team` would produce ~150K operations every time it runs. If the `va.gov-team` repo is crawler once per day, then that would produce ~150K operations every day. At that rate, we'd have approximately ~4.5M operations every month from crawling the `va.gov-team` repo alone.
+
+##### Recommended Plan for Our Usage
+
+If we crawled the `va.gov-team` repo every day, our minimum usage would be ~150K records and ~4.5M operations. Based on that usage, it would be cheaper to use the Pro plan.
+
+###### Starter plan: \$509 per month.
+
+- Base: \$29/month
+- Additional records: \$50/month
+
+  - 150k needed - 50k included = 100k additional
+  - An additional 20k records is \$10/month
+  - 100k / 20k = 5
+  - 5 \* \$10/month = \$50/month
+
+- Additional operations: \$430/month
+
+  - 4.5M needed - 250k included = 4.25M additional
+  - An additional 100k operations is \$10/month
+  - 4.25M / 100k = 42.5, which is 43 when rounded up
+  - 43 \* \$10/month = \$430/month
+
+- Total: \$509
+
+###### Pro plan: \$499 per month.
+
+- Base: \$499/month
+- Additional records: \$0/month
+- Additional operations: \$0/month
+- Total: \$499
 
 #### Where/when to run the scraper
 
@@ -175,8 +225,6 @@ While there shouldn't be any PII in our public documentation sources, it is poss
 
 ### Open Questions and Risks
 
-- Does Algolia's scraper include any diffing feature? If it crawls a page and the result is identical to the previous crawl, does that still count towards our operation usage limit? If it has to read every record every day, that means we'd have at least 150k operations every day in `va.gov-team` alone. If the crawler has to execute a read operation to calculate a diff, and then execute a write operation to create a new record or edit an existing record, then that could be up to 300k operations every day in `va.gov-team` alone.
-
 ---
 
 ### Work Estimates
@@ -224,3 +272,4 @@ The recommendation from the discovery sprint is to build a custom documentation 
 | Feb 13, 2020 | Add Usage Limits section, and update Code Location & Work Estimate sections   | Bill Fienberg |             |
 | Feb 17, 2020 | Add list of public docs, and open question about crawler diffing capabilities | Bill Fienberg |             |
 | Feb 18, 2020 | Fix typo, update search testing instructions, exclude private repos           | Bill Fienberg |             |
+| Feb 18, 2020 | Add Records section, add Operations section, and plan recommendation          | Bill Fienberg |             |
