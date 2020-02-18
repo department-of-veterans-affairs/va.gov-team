@@ -153,5 +153,4 @@ The target date for the pilot session is Friday, February 21.
  - [21-686c Business Workflows](https://xd.adobe.com/view/380c70df-eb96-4008-79af-c210c9c795c1-4e3d/)
 
 #### Approval
-[ Approval pending ]
-
+_This plan was approved by Lauren Alexanderson on 02/12/2020._
