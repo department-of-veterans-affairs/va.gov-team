@@ -18,7 +18,7 @@
 
 ## Across VSP
 
-### [Guidelines for documentation in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
+### [Guidelines for documentation in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md)
 - This page will help you determine where files should go and how to name them.
 
 ### [Documentation Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/working-with-documentation.md)
