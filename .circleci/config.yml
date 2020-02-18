@@ -6,6 +6,10 @@ jobs:
   working_directory: ~/va.gov-team
   steps:
     - checkout
+    - run:
+      name: Scrape public documentation sources
+      command: |
+        docker run -it -e "API_KEY=$ALGOLIA_API_KEY" -e "APPLICATION_ID=$ALGOLIA_APP_ID" -e "CONFIG=$(cat docs/docsearch-scraper-config.json | jq -r tostring)" algolia/docsearch-scraper
 
 workflows:
   version: 2
