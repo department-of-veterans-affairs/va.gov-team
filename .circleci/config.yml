@@ -1,0 +1,21 @@
+version: 2
+jobs:
+  scrape:
+    docker:
+      - image: algolia/docsearch-scraper
+  working_directory: ~/va.gov-team
+  steps:
+    - checkout
+
+workflows:
+  version: 2
+  nightly:
+    triggers:
+      - schedule:
+          cron: "0 0 * * *"
+          filters:
+            branches:
+              only:
+                - master
+    jobs:
+      - scrape
