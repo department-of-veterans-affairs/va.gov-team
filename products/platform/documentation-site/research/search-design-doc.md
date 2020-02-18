@@ -20,6 +20,8 @@ The documentation we have is spread across many different locations (public repo
 
 ### High Level Design
 
+We will use [Algolia's Search API](https://www.algolia.com/products/search/) coupled with [Algolia's DocSearch scraper](https://github.com/algolia/docsearch-scraper) and Algolia's [Dropdown Search-UI](https://docsearch.algolia.com/docs/dropdown) to index and search our public documentation sources.
+
 ## Specifics
 
 ### Detailed Design
