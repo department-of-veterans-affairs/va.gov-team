@@ -30,7 +30,7 @@ The platform needs a proper performance monitoring process for the website to en
 
 ## Assumptions
 - Once performance budgets are set, VFS teams will be required to have their applications meet the performance standards set by the platform.
-- Software does not have integration with Github Teams currently, so account creation\removal will need to be an added step within the onboarding\offboarding process.
+- Software does not have integration with Github Teams currently, so account creation\removal will need to be an added step within the orientation\offboarding process.
 - We will base our platform standards utilzing the web performance metrics recommended by [USWDS](https://designsystem.digital.gov/performance/glossary/#types-of-metrics)
   - Metrics: Speed Index, First Meaingful Paint, First Contentful Paint, Input Latency, Start Render, Backend Time or TTFB, Number of Requests, Total Size, Blocking CSS, Blocking JS
 
