@@ -9,7 +9,7 @@
 ## Product Responsibility (Last updated: *mm-dd-yy*)
 *List the team or individuals who are responsible for each of these areas. Include names and slack teams if possible*
 - Troubleshooting:
-- Onboarding:
+- Orientation:
 - Maintenance:
 - Training Documents:
 - Product Feedback or New Feature Requests:
