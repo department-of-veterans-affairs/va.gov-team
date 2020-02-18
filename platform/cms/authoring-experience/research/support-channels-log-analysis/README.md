@@ -32,9 +32,9 @@ Transcription and data sanitization:
 * XXX
 
 ## Analysis team:
-* Jordana Mello - jordana.mello@agile6.com
+* Jordana Mello (Design lead, CMS team) - jordana.mello@agile6.com
 * XXX
-* Rachel Kauff - rachel.kauff@civicactions.com
+* Rachel Kauff (UX Writer, CMS team)- rachel.kauff@civicactions.com
 
 ## Resources	
 * Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
