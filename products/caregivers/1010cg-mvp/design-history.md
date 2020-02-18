@@ -3,7 +3,7 @@ Link to product brief: https://github.com/department-of-veterans-affairs/va.gov-
 
 Designers: Jonathan Nelson
 
-## Iteration 4 - Sprint 14
+## Iteration 4 - Sprint 14/15
 
 ### Feedback & Outcomes
 
@@ -47,86 +47,50 @@ Outcomes
 Resources
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md
 
-
-#### Meeting Title (e.g. "Usability Testing Research Readout") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
-
-## Iteration 2 - Sprint X
+## Iteration 2 - Sprint 13
 
 ### Designs
-Include flows, screencaps, links to InVision prototypes, whatever captures your iteration the best.
+https://vsateams.invisionapp.com/share/K7VVY8YDN5P
+
+#### Usability Testing Research Readout
+Meeting date: 1/30/20
+Attendees: Caregiver team
+Meeting date: 2/4/20
+Attendees: VA stakeholders 
+
+Outcomes
+- Worked on redesigning medical center field
+- Worked on secondary caregiver field
+
+Resources
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md
+
+
+## Iteration 1 - Sprint 12
+
+### Designs
+https://vsateams.invisionapp.com/share/G2VL3SAN8XB
 
 
 ### Feedback & Outcomes
 
-#### Meeting Title (e.g. "Initial Presentation to Team") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
+#### Initial Presentation to Team
+Meeting date: 1/3/20 
+Attendees: Caregiver team, Shawna Hein 
 
 Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
+- Design and Prototype tested 
 
 Resources
-- e.g. link to research readout 
-- or other resources that came up
+- https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery
 
-#### Meeting Title (e.g. "VSP Design Intent Collaboration") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
+#### VSP Design Intent Collaboration
+Meeting date: 1/3/20 
+Attendees: Emily Wagner, Crystabel Reiter, Shawna Hein, Jennifer Strickland, Trevor Pierce 
 
 Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
+- Utilized "learn more component" 
 
 
-## Iteration 1 - Sprint X
-
-### Designs
-Include flows, screencaps, links to InVision prototypes, whatever captures your iteration the best.
 
 
-### Feedback & Outcomes
-
-#### Meeting Title (e.g. "Initial Presentation to Team") :
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
-
-#### Meeting Title (e.g. "VSP Design Intent Collaboration") :
-Meeting date: XX/XX/XXXX
-Attendees: Name, Name, Name 
-
-Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
-
-Resources
-- e.g. link to research readout 
-- or other resources that came up
