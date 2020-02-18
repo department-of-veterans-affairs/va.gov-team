@@ -21,7 +21,7 @@ _What are the objectives within your product line that your product plays into?_
 
 _Stating this will help ensure your strategy for what to build and pain points to solve fall within the overall strategy._
 
-- Onboarding (OBJECTIVES: Human-centered-ness, Agility, Ownership)
+- Orientation (OBJECTIVES: Human-centered-ness, Agility, Ownership)
 - Lights on (OBJECTIVES: Reliability, Agility)
 - Support (OBJECTIVES:Human-centered-ness, Agility)
 - VSP Rules of Engagement (ROE)(OBJECTIVES:Reliability, Human-centered-ness, Agility)
@@ -36,13 +36,13 @@ _What are the major user and business pain points along the entirety of the serv
 - Missing ROEs and content to guide teams
 - Account creation/access process - Keeping track along the way
 - Not enough visibility into what teams need
-- No process for what happens after onboarding training
+- No process for what happens after orientation
 - Not knowing what the most effective approach to training is (hands on, documentation, ect?)
 
 ### Desired Outcomes
 _What do you hope changes as a result of launching this product or feature?_
 
-- Full suite of onboarding materials
+- Full suite of orientation materials
 - Teams self sufficient for the most part
 - Teams can easily find answers they need (have documentation and it's easily found)
 - Teams are productive soon after on boarding
@@ -52,7 +52,7 @@ _What do you plan to do/build/create to achieve your user and business goals?_
 
 - Create ROEs 
 - Create more on boarding and training content
-- Create overall plan for onboarding from initial contact to team being self sufficient 
+- Create overall plan for orientation from initial contact to team being self sufficient 
 - Create documentation when pain points come up
 - Experiment/research different approaches to training
 - 
