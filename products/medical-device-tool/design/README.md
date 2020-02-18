@@ -19,8 +19,8 @@ The most updated version of the MDT prototype can be viewed [here](https://vsate
 ### Form Table of Contents 
 Documentation containing descriptions, feedback, and content for each chapter's pages can be found here.
 
-- **Drupal content page** 
-   - Drupal content page (TBD)
+- **Drupal content pages** 
+   - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-drupal-pages.md)
 - **Introduction Screen**
    - Page 1: Introduction screen (TBD)
 - **Chapter 1: Veteran Information**
