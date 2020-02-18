@@ -72,7 +72,7 @@ release.
 
 ###### Test failures in `master`? How?
 This happens most frequently when two individual branches work on similar parts
-of the code. The tests on each branch fail, but the combined changes cause the
+of the code. The tests on each branch pass, but the combined changes cause the
 result—`master`—to fail.
 
 **TODO:** Use an actual example of where this happened.
