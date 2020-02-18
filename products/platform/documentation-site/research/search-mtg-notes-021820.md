@@ -2,10 +2,31 @@
 
 2/18/20
 
+## Meeting Recap 
+
+- Move forward on all non-search portions of documentation site MVP recommendation — _full speed ahead!_
+- Plan to launch MVP without search
+- Continue info gathering on Algolia
+  - Connect with Algolia (sales?): would the Pro tier work for us?
+  - Connect with Kevin re: price, approval, VA approval (?) 
+- We **assume** that a documentation site MVP without search will not be sufficient to solve the majority of the pain points that we discovered. We still plan to launch our MVP without search to validate that assumption and gather other valuable info before determining next steps. 
+- Prioritize measuring pain points and implementing KPI tracking in order to better determine next steps (after a searchless MVP)
+- On another topic ... broken Gatsby build should be fixed as part of documentation MVP
+
+---
+
 ## Goals 
 - Determine whether we are moving forward with Algolia
+  - Algolia is no longer part of MVP phase 1, but we will continue info gathering in anticipation of future implementation
 - If yes, what are the next steps for implementation? 
-- If no, what are the next steps for documentation homepage MVP (may be out of scope of this mtg)?
+  - Info gathering
+- If no, what are the next steps for documentation homepage MVP (may be out of scope of this mtg)? 
+  - Finalize design and contents of homepage
+  - Fix broken Gatsby build
+  - Audit and standardize docs set
+  - Other discovery sprint recommentations
+- Can we move forward with the MVP without search? 
+  - Yes
 
 ## Agenda
 - Review core desired search feature set (Megan)
@@ -13,8 +34,6 @@
 - Review level of technical effort (Bill)
 - Review alternatives (Megan & Bill) 
 - Discuss 
-
-## Meeting Notes
 
 ## Artifacts 
 _not a complete set of final artifacts, but certainly enough to get the conversation going_
