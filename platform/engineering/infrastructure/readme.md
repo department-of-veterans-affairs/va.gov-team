@@ -43,13 +43,13 @@ The Vets.gov DevOps team has gone by both "DevOps" and "Platform" over time. You
 
 <details>
   
-<summary>DevOps Onboarding</summary>
+<summary>DevOps Orientation</summary>
 
-## DevOps Onboarding
+## DevOps Orientation
 
-Welcome to the team! If all has gone well, you've made it through our [main onboarding section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding) and you're ready to start work with the DevOps teem. This should help you get started. 
+Welcome to the team! If all has gone well, you've made it through our [main orientation section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding) and you're ready to start work with the DevOps teem. This should help you get started. 
 
-Resources from the sprint teams will work with the DevOps team regularly to encourage further cross-product communication. In onboarding, find out what we do, our history, our responsibilities, and who the people are who share those responsibilities.
+Resources from the sprint teams will work with the DevOps team regularly to encourage further cross-product communication. During orientation, find out what we do, our history, our responsibilities, and who the people are who share those responsibilities.
 
 [Get started on the DevOps team]().
 
