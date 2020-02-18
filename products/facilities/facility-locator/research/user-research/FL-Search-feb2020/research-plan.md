@@ -32,7 +32,6 @@ Criteria for recruiting:
 - 5 urban 
 - Veterans & Caregivers 
 - At least 3 participants who have used facility locator multiple times
-- 
 
 ## Timeline 	
 This study will take place from March 4 - 6, 2020.
