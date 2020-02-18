@@ -307,7 +307,9 @@ You bring:
 - Link to [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) with the "Planning" sections completed (in each section: Phase I, Phase II, Go Live)
 - Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
 - Link to your product test cases/test plan in TestRail with test execution logs ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) _for QA practice area review_
-- Link to your accessibility-specific test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md) _for accessibility practice area review_
+- Link to your accessibility test plan:
+  - **TestRail** [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
+  - **Markdown** [Github accessibility test plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)
 - List of known issues (with links to tickets when applicable)
 - **_Please provide these artifacts at least 2 days before the scheduled review meeting._**
 
@@ -380,7 +382,7 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 
 ## Timing
 - Development stage: **Validate**
-- As soon as your product is in production (can happen during a phased rollout after the first phase). 
+- Schedule a full audit when your product is launched to production, or code is relatively stable. This audit should be scheduled as early as possible.
 
 ## Collaboration format: asynchronous
 
@@ -389,8 +391,10 @@ Accessibility experts complete a full accessibility audit and coordinate with th
 
 ### Artifact inputs
 You bring:
-- Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
-- Link to your accessibility-specific test cases/test plan in [TestRail with test execution logs](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) or [Github with a team member certification](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-cases-template.md) 
+- Access information for the tool or feature in staging _**do not put staging credentials in your `va.gov-team` ticket. Store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
+- Link to your accessibility test plan:
+  - **TestRail** [TestRail VSP accessibility test plan template](https://dsvavsp.testrail.io/index.php?/suites/view/14&group_by=cases:section_id&group_order=asc) **OR**
+  - **Markdown** [Github accessibility test plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/accessibility-test-plan-template.md)
 
 ### Outcomes and artifact outputs 
 - Accessibility experts identify any outstanding accessibility concerns with your product
