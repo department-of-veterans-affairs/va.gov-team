@@ -1,6 +1,6 @@
 # Product development checklist
 
-Right after onboarding, you should be checking in with VSP regularly to connect on each of the items in this list. All items here must be completed and signed off on by VSP before a new application can launch, and you should start convos about each item early - so you can work on them incrementally and iterate from day one.
+Right after VSP orientation, you should be checking in with VSP regularly to connect on each of the items in this list. All items here must be completed and signed off on by VSP before a new application can launch, and you should start convos about each item early - so you can work on them incrementally and iterate from day one.
 
 If you're unsure how to tackle various things on this list, just ask in #vfs-platform-support so VSP can help! Hearing your questions also helps VSP iterate on the VSP documents and tools over time to make these things easier for VFS Teams in the future.
 
