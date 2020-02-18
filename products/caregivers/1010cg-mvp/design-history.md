@@ -34,17 +34,19 @@ https://vsateams.invisionapp.com/share/6JVXEOIWZ7G
 ### Feedback & Outcomes
 
 #### Usability Study Recommendations
-Meeting date: 
-Attendees: Name, Name, Name 
+Meeting date: N/A 
+Attendees: Caregiver team, VA stakeholders  
 
 Outcomes
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
+- Displayed Veteran and caregiver eligibility and requirements in plain language on the content and intro page
+- Defined in plain language who a primary and secondary caregiver are on the introduction page and reinforced in form.
+- Redesigned “Add a secondary caregiver” question on form 
+- Redesigned the medical components/fields
+- Redesigned confirmation page 
 
 Resources
-- e.g. link to research readout 
-- or other resources that came up
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-findings.md
+
 
 #### Meeting Title (e.g. "Usability Testing Research Readout") :
 Meeting date: XX/XX/XXXX  
