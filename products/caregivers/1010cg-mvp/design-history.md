@@ -3,7 +3,7 @@ Link to product brief: https://github.com/department-of-veterans-affairs/va.gov-
 
 Designers: Jonathan Nelson
 
-## Iteration 4 - Sprint 14/15
+## Iteration 4 - Sprint 14
 
 ### Designs
 https://vsateams.invisionapp.com/share/HSW1FPQDXQ7
