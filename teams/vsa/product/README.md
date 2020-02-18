@@ -76,8 +76,9 @@ Resources:
 #### Testing
    - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md)
 #### Launch Prep
-   - [Launch Guide]()
-   - [Launch Checklist]()
+   - [Product development checklist (update coming)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md)
+   - [Launch Guide (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Product_Launch_Guide.md)
+   - [Launch Checklist (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Launch%20Checklist.md)
    - [Product Demo Video Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/demo-video-creation-process.md)
 #### Tools
   - [Product Management Process in Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a2b160c2fbf52806323d6a54103229f99a730076/platform/working-with-vsp/onboarding/zenhub_product_management.pdf)
