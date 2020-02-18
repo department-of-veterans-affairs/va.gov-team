@@ -58,7 +58,7 @@ Capture and reconfigure "bad" alerts Sentry alerts to reduce noise and free up t
 
 **Bet: Support**
 
-Onboard _team ABC, DEF, and GHI_ so they are empowered to work in an agile, human-centered way.
+Orientation for _team ABC, DEF, and GHI_ so they are empowered to work in an agile, human-centered way.
 
 **Bet: Support**
 
@@ -68,6 +68,6 @@ Support VFS teams with their analytics questions so they can move forward withou
 
 Capture VA.gov and Platform issues and triage them to the appropriate team for resolution.
 
-**Bet: Onboarding**
+**Bet: Orientation**
 
-Test "pre-onboading" with VAOS PM and DSVA lead to see if it makes general onboarding more tailored and effective.
+Test "pre-orientation" with VAOS PM and DSVA lead to see if it makes general orientation more tailored and effective.
