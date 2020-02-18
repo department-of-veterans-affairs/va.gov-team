@@ -25,9 +25,9 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
     * Organization: ```Your company name```
     * Working on: ```The project your team is working on```, e.g., "526 ancillary forms"
 
-1. Developers, complete the [additional onboarding steps](#additional-onboarding-steps-for-developers) below to access the code repositories and tools you'll need for development and deployment.
+1. Developers, complete the [additional VSP orientation steps](#additional-orientation-steps-for-developers) below to access the code repositories and tools you'll need for development and deployment.
 
-## Additional onboarding steps for developers
+## Additional orientation steps for developers
 
 The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and
 available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from
