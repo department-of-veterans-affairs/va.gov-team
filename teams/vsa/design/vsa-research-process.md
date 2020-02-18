@@ -49,7 +49,7 @@ To talk to stakeholders or VA employees that are working on the other side of th
 At the end of each day of research, schedule a “debrief” session where you invite all the observers to share the key takeaways from the sessions. Keep track of these key takeaways.  You need to schedule these sessions, Perigeon will not do that.
 
 ## <a id="pilot-sessions"></a> Pilot / Test Session
-Run a pilot/test session before your study, including Perigean’s team and another designer, so you rehearse process of logging in, get any conversation guide kinks worked out, understand how to hand off mouse controls, have a participant show their screen. VSP and/or Perigean can help schedule the pilot.
+Run a pilot/test session before your study, including Perigean’s team, so you rehearse process of logging in, get any conversation guide kinks worked out, understand how to hand off mouse controls, and have a participant show their screen. VSP and/or Perigean can help schedule the pilot.
 
 The recommendation is to recruit one of your developers as a pilot participant, to get them involved early in the process. If that doesn't work, feel free to ask VSP or one of your VSA design colleagues to act as a pilot participant.
 
