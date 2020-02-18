@@ -21,5 +21,5 @@ Champion a data-driven culture across the VA by providing VFS teams with resourc
 - [VSP Original Insights Roadmap](https://docs.google.com/presentation/d/14xBIldr-CY1MzwAGqwASqQO5hqhD2xZOVFGnRQgLB2Y/edit#slide=id.g5b8a8c025b_0_0)
 - [Kickoff](https://docs.google.com/presentation/d/17k32S6dCGJYEnE4l55N7DBqPQX52-_J1GyBXW7eTTRE/edit#slide=id.g33cc3b02a5_0_49)
 - [Mission, Vision, OKRs, and Roadmap](https://docs.google.com/presentation/d/10QFMqTCrEliqYaQr0dP4MZGOeL9broJPmakNc6A5YKk/edit#slide=id.g61980307dd_0_0)
-- [VFS Team Onboarding for VSP Analytics & Insights](https://docs.google.com/presentation/d/1TKYK88pHqNAJ0HrGtXIjnDYPQT-ccBQcOTy64kd0cd4/edit#slide=id.g5f29ec5fc2_1_139)
+- [VFS Team Orientation for VSP Analytics & Insights](https://docs.google.com/presentation/d/1TKYK88pHqNAJ0HrGtXIjnDYPQT-ccBQcOTy64kd0cd4/edit#slide=id.g5f29ec5fc2_1_139)
 
