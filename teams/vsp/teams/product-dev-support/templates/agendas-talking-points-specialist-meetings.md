@@ -1,6 +1,6 @@
 # Agendas and talking points for meetings between VFS teams and specialists
 
-During onboarding, VFS teams are instructed to set up 30-minute meetings with the following practice area specialists:
+During VSP orientation, VFS teams are instructed to set up 30-minute meetings with the following practice area specialists:
 - Peggy G., content
 - Mikki N., information architecture
 - Trevor P., accessibility
