@@ -118,9 +118,7 @@ If we crawled the `va.gov-team` repo every day, our minimum usage would be ~150K
 
 #### Where/when to run the scraper
 
-Subject to review, we will run the crawler in a scheduled job once every 24 hours in a Circle CI pipeline for the `va.gov-team` repo.
-
-It's possible that running the scraper once per day would consume a significant number of operations.
+We will run the crawler in a scheduled job once every 24 hours in a Circle CI pipeline for the `va.gov-team` repo.
 
 #### Public repos
 
