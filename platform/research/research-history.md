@@ -22,8 +22,7 @@ __Please note that many links on this page reference research folders in the vet
 
 ### January 2020
 
-#### January 2020
-January 30 - February 3: Yellow Ribbon MVP##
+#### January 30 - February 3: Yellow Ribbon MVP
 
 *Public Websites, Liz Lantz*
 
