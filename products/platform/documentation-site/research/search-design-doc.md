@@ -84,6 +84,8 @@ We will crawl and scrape the following public documentation sources:
 
 #### Private repos
 
+For the MVP, we will not be indexing private documentation sources.
+
 ---
 
 ### Code Location
@@ -126,7 +128,10 @@ For an MVP, I'm not certain it's necessary to have different environments for th
 
 ##### Testing the search functionality
 
-Once we have records in our Algolia index and the DocSearch frontend library on a page, we should be able to test the search functionality the same way the end user would use it.
+We can test the search functionality the following ways:
+
+- [Algolia's Docsearch Preview page](https://community.algolia.com/docsearch-preview/)
+- On the actual page where the search input lives
 
 ### Logging
 
@@ -218,4 +223,4 @@ The recommendation from the discovery sprint is to build a custom documentation 
 | Feb 12, 2020 | Expand on where/when to run crawler                                           | Bill Fienberg |             |
 | Feb 13, 2020 | Add Usage Limits section, and update Code Location & Work Estimate sections   | Bill Fienberg |             |
 | Feb 17, 2020 | Add list of public docs, and open question about crawler diffing capabilities | Bill Fienberg |             |
-| Feb 18, 2020 | Fix typo                                                                      | Bill Fienberg |             |
+| Feb 18, 2020 | Fix typo, update search testing instructions, exclude private repos           | Bill Fienberg |             |
