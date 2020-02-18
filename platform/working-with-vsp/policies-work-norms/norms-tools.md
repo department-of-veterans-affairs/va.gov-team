@@ -23,7 +23,7 @@ After your team has been added to the VA Github organization (see [requesting ac
     * We'll set up a "Product" folder for your team, which you'll use to store and share product development artifacts.
     * We'll set up a "Teams" folder for your team, which you'll use to store and share internal team documents.
     * Your team will use Github issues in this repo to manage your agile workflow and to request tasks from the DSVA team.
-    * __Please review the detailed [guidelines for using the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md).__
+    * __Please review the detailed [guidelines for using the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md).__
 * [vets-ato](https://github.com/department-of-veterans-affairs/vets.gov-ato) (private, read access)
     * Provided so your team can review the current ATO documents.
 * [devops](https://github.com/department-of-veterans-affairs/devops) (private, developers have read access)
