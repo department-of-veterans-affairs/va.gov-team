@@ -140,9 +140,11 @@ For the MVP, we will not be indexing private documentation sources.
 
 ### Code Location
 
-The search input and DocSearch JS snippet will live in the `docs/index.html` file inside the `va.gov-team` repo.
+The search input, JS snippet, and scraper config file will all live in the `va.gov-team` repo.
 
-The config file for the crawler (`config.json`) will also live inside inside the `va.gov-team` repo.
+The search input and DocSearch JS snippet will live in the `docs/index.html` file.
+
+The config file for the scraper will live in the `docs/docsearch-scraper-config.json`) file.
 
 ### Testing Plan
 
@@ -189,9 +191,19 @@ Algolia includes analytics, such as ["Most popular searches and results most oft
 
 ### Debugging
 
-The Docker image for the scraper is available on [Docker Hub](https://hub.docker.com/r/algolia/docsearch-scraper). Once we have a config file, we can [run the scraper locally](https://community.algolia.com/docsearch/run-your-own.html#run-the-crawl-from-the-docker-image).
-
 #### Debugging the scraper
+
+The Docker image for the scraper is available on [Docker Hub](https://hub.docker.com/r/algolia/docsearch-scraper). We can [run the scraper locally](https://community.algolia.com/docsearch/run-your-own.html#run-the-crawl-from-the-docker-image) with the config file, and a `.env` file containing the `APPLICATION_ID` and `API_KEY`.
+
+I've added a [sample `.env` file](.env.sample).
+
+If you don't have an `.env` file, you'll need to create one. If you do have an `.env` file, then you'll need to add/edit the `APPLICATION_ID` and `API_KEY` keys to include the corresponding values from the Algolia website.
+
+##### Dependencies to run `docsearch-scraper` locally
+
+- [Docker](https://docs.docker.com/install/).
+- [`docsearch-scraper` Docker image](https://hub.docker.com/r/algolia/docsearch-scraper)
+- [`jq`](https://github.com/stedolan/jq/wiki/Installation)
 
 #### Debugging the search functionality
 
