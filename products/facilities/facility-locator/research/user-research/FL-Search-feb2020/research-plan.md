@@ -5,6 +5,7 @@ Prepared by Aricka Lewis, Ad Hoc | February 2020
 The goal of this research is to learn what user expectations are for searching and receiving results on the facility locator.
 
 ### Background
+Facility Locator is VA's single source of truth for customers to find VA facilities and location details about all VA facilities, across VHA, VBA, and NCA
 
 ### Research questions
 - How does user interaction with the map and search results differ between urban and rural residents?
