@@ -5,6 +5,8 @@ Designers: Jonathan Nelson
 
 ## Iteration 4 - Sprint 14
 
+### Feedback & Outcomes
+
 ### Designs
 https://vsateams.invisionapp.com/share/HSW1FPQDXQ7
 
@@ -16,7 +18,7 @@ Outcomes
 - Terms from the 10-10CG accounted for and defined in plain language (paired with legalees when nesseracy) 
 - Added “family caregiver” to form.  
 There  was a healthy discussion between design and content regarding adding, "family caregiver" to form. Originally, designs had "primary caregiver" or "caregiver".  Content thinks we need to add family as this is the name of the program and distriques the program - I was worried that users would get tripped up over the use of "family". After consulting with team, PO, and PM it was determined to defer to content on this. 
-- Changed some form labels whe needed. 
+- Changed form labels whe needed (see master link below). 
 
 Resources
 - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/VA.gov-form-labels.md
@@ -31,8 +33,8 @@ https://vsateams.invisionapp.com/share/6JVXEOIWZ7G
 
 ### Feedback & Outcomes
 
-#### Usability Study and Content Review:
-Meeting date: XX/XX/XXXX  
+#### Usability Study Recommendations
+Meeting date: 
 Attendees: Name, Name, Name 
 
 Outcomes
