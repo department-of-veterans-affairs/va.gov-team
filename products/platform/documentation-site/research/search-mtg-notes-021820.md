@@ -24,7 +24,7 @@ _not a complete set of final artifacts, but certainly enough to get the conversa
 - User flow (draft): https://dsva.slack.com/archives/CL181NRJQ/p1582033438083000
 - Brainstormed hypothesized value, assumptions, risks: see below
 
-### Value, assumptions, risks (#value-assumptions-risks)
+### Value, assumptions, risks
 **What is the level of effort to deploy Search Must Have List?** 
 - What does that include? 
   - A public search UI … 
