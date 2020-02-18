@@ -23,7 +23,7 @@ This document explains the rationale behind the access we've granted (or not gra
   * If team is working on an existing product, add them to the existing product channel (e.g., *#claimsmodern*). 
   * If team is working on a new product, create a new channel for them.
 
-* **Support channel** - Allows entire external team to ask process questions about onboarding, development, deployment, and project management.
+* **Support channel** - Allows entire external team to ask process questions about VSP orientation, development, deployment, and project management.
   * Add team to *#support-external* channel.
 
 * **<i>#devops</i> channel - NO access**. DSVA/AdHoc want this channel to remain internal only.
