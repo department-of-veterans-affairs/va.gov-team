@@ -21,9 +21,9 @@ Before we start, a few things I want to mention:
 
 Before we look at the prototype, let’s start with a few warm-up questions.
 
-- Please tell me about your service history.
-- Have you been recently married or do you have a child who recently started college?
+- Tell me about your service history.
 - What are your experiences adding or removing dependents from you disability claim?
+- Have you been recently married or do you have a child who recently started college?
 - Are you familiar with the VA 21-686 form? 
     - And what is your experience with the form?
     
