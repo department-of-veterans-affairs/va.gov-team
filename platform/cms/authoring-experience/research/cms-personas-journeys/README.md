@@ -20,7 +20,7 @@ Our hypothesis is that we will be able to identify a first version of VFS-CMS us
 * Support preferences
 
 ## Method	
-In-person moderated interviews combined with journey mapping in one session will help us uncover first-hand stories that are specific to the relevant phases of the journeys, while gaining understanding of behavior patterns. We'll watch for emotions, mindsets, motivations, pain-points and needs. In case where in-person sessions are not possible, the sessions will be conducted via Zoom.
+Our approach will help us uncover first-hand stories of key phases of the journeys, in adition to gaining an understanding of behavioral patterns. Each in-person session will be composed of one-on-one moderated interviews and journey mapping. In cases where in-person sessions are not possible, the sessions will be conducted via Zoom. We'll watch for emotions, mindsets, motivations, actions, pain-points and needs.
 
 ###### In-person sessions
 * Conversation guide
@@ -35,7 +35,7 @@ In-person moderated interviews combined with journey mapping in one session will
 Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures) to protect PII.
 
 ## Participants and Recruitment	
-Due to the a narrow user base for statistical-representative personas, three _user groups_ were selected in the editorial workflow spectrum based on editorial work commonalities. Research participants will be selected within each _user group_. We'll watch for behavioral patterns in each _user group_.
+Due to the narrow user base for statistically representative personas, three _user groups_ were selected in the editorial workflow spectrum based on work commonalities. Research participants will be selected within each _user group_. We seek to identify behavioral patterns unique to each _user group_.
 
 ###### VSA Public Website Teams - 5 participants
 * Constantly asking for features
