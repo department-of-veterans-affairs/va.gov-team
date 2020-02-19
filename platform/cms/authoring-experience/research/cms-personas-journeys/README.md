@@ -7,17 +7,8 @@ The VFS-CMS tool is VA.gov's content management system that provides the structu
 
 Our objective for this research is to identify VFS-CMS user personas and understand their experience with the _content editing_ and _CMS onboarding_ journeys. 
 
-#### Research questions
-- What is How easy/difficult is it for a user to find a facility?
-- What ways do users navigate to the facility locator?
-- What search criteria should be present so that Veterans can find facilities?
-- What information do Veterans expect to see in the search results?
-- Do Veterans understand what the different facility classifications mean?
-- How do Veterans distinguish emergency, urgent, and community care facilities?
-- What other tools/sites do vets use to find facilities or services?
-
 #### Hypothesis: 
-Our hypothesis is that we will be able to identify a firsr version of VFS-CMS user personas based on the way that they experience the the _content editing_ and _CMS onboarding_ journeys.
+Our hypothesis is that we will be able to identify a first version of VFS-CMS user personas based on the way that they experience the the _content editing_ and _CMS onboarding_ journeys.
 
 #### Personas key attributes
 * Work priorities
