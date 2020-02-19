@@ -35,3 +35,27 @@
 
 - guidance for required vs optional form controls
 
+- Existing open issues on the 508 Product Review list remain open for 8+ months	How might we help teams prioritize and address open issues?																						
+
+- Jump link issues -Focus currently stays on the link that initiated the jump down the page	Research what the recommendation is, communicate to teams, document in the design system																						
+
+- On this page component has different implementations, applications, design, and incorporates the above jump link issue																							
+- Hidden content in accordions, show/hide, additional info component is not available to screen readers, SEO, or axe e2e tests																							
+- Focus management guidelines
+
+- Charting presently is not accessible for screen readers, keyboard navigation																							
+
+- Select elements may contain more than ~23 characters, and are cut off in mobile view, and sometimes cut off on desktop																							
+- Even small bits of information are currently hidden in the show/hide, introducing challenges for screen readers, keyboard users, and some cognitive considerations																							
+
+- Reconsider structure of multiple pages within a single "part" of a form	https://github.com/department-of-veterans-affairs/va.gov-team/issues/1145																						
+
+- Application saved message could be missed by assistive devices	https://github.com/department-of-veterans-affairs/va.gov-team/issues/182																						
+
+- In typeahead inputs, there is a bug that reads an error after each character is input	
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/529
+  - https://github.com/department-of-veterans-affairs/va.gov-team/issues/5875"																						
+
+- Current autocomplete component is not accessible; possibly use datalist element + https://haltersweb.github.io/Accessibility/autocomplete.html
+
+- Consider a solution for accessible maps, see Facility Locator map for example; great tips https://phase.com/magazine/design-accessible-maps/
