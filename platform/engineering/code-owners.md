@@ -1,4 +1,4 @@
-## Code owners on `vets-website`
+# Code owners on `vets-website`
 
 VSP uses GitHub's [code owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) feature to trigger required reviews. A code owner is a GitHub [team](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations) that must approve a change before it can be merged. 
 
