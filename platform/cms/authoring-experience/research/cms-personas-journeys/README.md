@@ -22,6 +22,16 @@ Our hypothesis is that we will be able to identify a first version of VFS-CMS us
 ## Method	
 In-person moderated interviews combined with journey mapping in one session will help us uncover first-hand stories that are specific to the relevant phases of the journeys, while gaining understanding of behavior patterns. We'll watch for emotions, mindsets, motivations, pain-points and needs. In case where in-person sessions are not possible, the sessions will be conducted via Zoom.
 
+###### In-person sessions
+* Conversation guide
+* Post-its
+* Zoom recording
+
+###### Remote sessions
+* Conversation guide
+* Smaply journey template
+* Zoom recording
+
 Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures) to protect PII.
 
 ## Participants and Recruitment	
