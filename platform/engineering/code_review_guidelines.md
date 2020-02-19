@@ -10,7 +10,7 @@ We expect developers to be familiar with GitHub and the pull request review proc
 
 ## Code owners 
 
-Information on how VSP uses code owners can be found [here](code-owners.md)
+Information on how VSP uses code owners can be found [here](code-owners.md).
 
 ## The pull request review lifecycle in brief
 
