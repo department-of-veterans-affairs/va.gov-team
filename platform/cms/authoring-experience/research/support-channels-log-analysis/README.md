@@ -2,18 +2,18 @@
 As a member of the CMS team design pod, I need to establish a process for analyzing interactions between CMS users and the CMS team, so that I can identify common themes to inform research and design.	
 
 ## Goals	
-CMS users and CMS team members have stablished official channels for questions and answers regarding the CMS tool. This study aims to identify patterns in the content of these support channels to better understand the nature of the demands and identify opportunities for improvement.
+CMS users and CMS team members have established official channels for questions and answers regarding the CMS tool via email and the #cms-support Slack channel. This study aims to identify patterns in the content of these support channels to better understand the nature of the demands and identify opportunities for improvement.
 
 ### Research Questions
 - What are the most prominent usability considerations regarding the CMS tool?
 - What language do CMS users use to describe their work and problems?
-- What kinds of opportunities to refine CMS trainings do these findings present?
+- What kinds of opportunities do these findings provide to refine CMS trainings?
 - What CMS documentation needs exist for different teams?
 
 ## Method	
-For this study, we will use _Thematic Analysis_ to analyze transcripts of conversations between the CMS team and users. By identifying relevant themes, we can better understand users' paint points and needs. 
+For this study, we will use _Thematic Analysis_ to analyze transcripts of conversations between the CMS team and users. By identifying overarching themes, we can better understand users' paint points and needs. 
 
-Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures).
+Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures) to protect PII.
 
 ### Target Channels
 The conversations will be extracted from:
