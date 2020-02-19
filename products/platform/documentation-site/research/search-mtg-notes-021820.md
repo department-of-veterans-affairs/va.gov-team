@@ -1,6 +1,7 @@
 # Algolia Search Regroup Meeting 
 
 2/18/20
+Present: Megan, Bill, Chris, Rian, Andrew, Rachael, Gretchen, Mikki, Crystabel
 
 ## Meeting Recap 
 
