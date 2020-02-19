@@ -1,4 +1,4 @@
-# VFS-CSM Research Data Management
+# VFS-CMS Research Data Management
 
 _This page aims to explain how the VFS-CMS project will manage sensitive research data_
 
