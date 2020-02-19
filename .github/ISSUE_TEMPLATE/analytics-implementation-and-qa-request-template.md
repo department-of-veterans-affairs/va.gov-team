@@ -85,3 +85,4 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 ## Definition of Done
 - [ ] All appropriate issue tagging is completed
 - [ ] All AC completed
+- [ ] Requesting team members who participated in this collaboration, please complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
