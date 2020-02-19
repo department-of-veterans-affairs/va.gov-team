@@ -16,5 +16,5 @@ After creating your GitHub team, follow the conventions in the [`CODEOWNERS` con
 - Application code should be structured to **require as few rules as possible**. 
 - Only one required reviewer at a time can be triggered by code owners rules.
 - Code owners rules are applied to every push after a PR is created. Required reviewers can be removed during this process but **GitHub does not remove the frontend review group once it has been added to a PR** as a required reviewer. 
-- The `frontend-review-group` approves changes to the `CODEOWNERS` configuration. GitHub teams will be added to the `vets-website` repository during this review since this is required for code owners rules to trigger. 
+- The `frontend-review-group` approves changes to the `CODEOWNERS` configuration. The `frontend-review-group` will add new GitHub teams to the `vets-website` repository during this review since this is required for code owners rules to trigger. 
 - **Your group is responsible for managing its GitHub teams**. Since there are many ways to structure a GitHub organization, we recommend [being familiar](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-teams) with this feature.
