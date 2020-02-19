@@ -38,6 +38,12 @@
  **Additional Linking**
 - Link to the new content/tool should be included on:https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/
  - Consider adding a link to the right rail of the GI Bill Comparison tool: https://www.va.gov/gi-bill-comparison-tool
+ 
+ **Exit Points**
+ - Since there is no left hand navigation on this tool, ensure that there are clear CTAs to take users back into appropriate information and next steps in their benefit lifecycle.  Recommend providing links to:
+  - YR information page
+  - GI Bill eligibility page
+  - GI Bill How to Apply page
 
 ### Redirects/Canonical <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
