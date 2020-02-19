@@ -45,7 +45,8 @@ The primary risk if this recommendation is wrong is that some subset of Veterans
 
 1. The Veteran is scheduled in a clinic associated with their PACT
 2. The clinic is one they've been seen in before
-3. But their PACT has zero active providers 
+3. Their PACT has an assigned primary care provider
+4. But all providers (including the assigned primary care provider) are inactive
 
 Currently, VAOS would prevent you from direct scheduling, but with this change, you would be able to continue.
 
