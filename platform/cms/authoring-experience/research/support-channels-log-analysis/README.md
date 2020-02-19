@@ -1,8 +1,12 @@
-# Research Plan - VFS-CMS Support Channels Log Analysis
+# Research Plan for VFS-CMS tool, February 2020 
 As a member of the CMS team design pod, I need to establish a process for analyzing interactions between CMS users and the CMS team, so that I can identify common themes to inform research and design.	
 
-## Goals	
-CMS users and CMS team members have established official channels for questions and answers regarding the CMS tool via email and the #cms-support Slack channel. This study aims to identify patterns in the content of these support channels to better understand the nature of the demands and identify opportunities for improvement.
+## Goals
+This research plan is for the VFS-CMS Tool - VFS-CMS team.
+
+The VFS-CMS tool is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
+
+VFS-CMS users and team members have established official channels for questions and answers regarding the VFS-CMS tool via email and the #cms-support Slack channel. This study aims to identify patterns in the content of these support channels to better understand the nature of the demands and identify opportunities for improvement.
 
 ### Research Questions
 - What are the most prominent usability considerations regarding the CMS tool?
@@ -29,11 +33,11 @@ Data collection will happen until February 29, 2020. Data analysis is expected t
 ## Team Roles	
 Transcription and data sanitization:
 * Jordana Mello (Design lead, CMS team) - jordana.mello@agile6.com
-* XXX
+* Howard Brande (Help Desk / Support manager) - howard.brande@agile6.com
 
 Analysis:
 * Jordana Mello (Design lead, CMS team) - jordana.mello@agile6.com
-* XXX
+* Howard Brande (Help Desk / Support manager) - howard.brande@agile6.com
 * Rachel Kauff (UX Writer, CMS team)- rachel.kauff@civicactions.com
 
 ## Resources	
@@ -44,5 +48,3 @@ Analysis:
 * [WIP] Lessons Learned
 	
 * [WIP] Read-Out/Results	
-Read-out presentation should live in the appropriate product repo and folder; paste a link to it here.	
-Don't forget to add a link to your research folder to the research tracker! [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md)
