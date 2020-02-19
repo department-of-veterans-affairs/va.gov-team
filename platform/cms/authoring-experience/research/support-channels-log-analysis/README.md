@@ -11,7 +11,7 @@ CMS users and CMS team members have established official channels for questions 
 - What CMS documentation needs exist for different teams?
 
 ## Method	
-For this study, we will use _Thematic Analysis_ to analyze transcripts of conversations between the CMS team and users. By identifying overarching themes, we can better understand users' paint points and needs. 
+For this study, we will use _Thematic Analysis_ to analyze transcripts of conversations between the CMS team and users. By identifying overarching themes, we can better understand users' paint points and needs.
 
 Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures) to protect PII.
 
@@ -28,10 +28,10 @@ Data collection will happen until February 29, 2020. Data analysis is expected t
 	
 ## Team Roles	
 Transcription and data sanitization:
-* Jordana Mello - jordana.mello@agile6.com
+* Jordana Mello (Design lead, CMS team) - jordana.mello@agile6.com
 * XXX
 
-## Analysis team:
+Analysis:
 * Jordana Mello (Design lead, CMS team) - jordana.mello@agile6.com
 * XXX
 * Rachel Kauff (UX Writer, CMS team)- rachel.kauff@civicactions.com
