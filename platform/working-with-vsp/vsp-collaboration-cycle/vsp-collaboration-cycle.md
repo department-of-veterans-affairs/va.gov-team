@@ -243,7 +243,7 @@ No meeting required; asynchronous collaboration.
 You bring:
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Objectives and definitions of success (e.g. a specific user interaction or final URL) for the product
-- Authenticated user logins for testing, when applicable
+- Authenticated user logins for testing, when applicable _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
 - The URL(s) for your product including any unauthenticated landing pages that precede the start of the tool. _For example, if your product is a multi-step veteran-facing tool, please provide the full path of URLs along noting any conditional logic that would take users to a different branch of URLs for the tool_
 
 VSP brings: 
