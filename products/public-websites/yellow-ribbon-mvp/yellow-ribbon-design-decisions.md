@@ -3,7 +3,31 @@
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)  
 Designers: Liz Lantz, Public Websites
 
-//Note: Put the "latest" iteration at the top of the page, so if someone wants to see the latest design direction they don't have to scroll to the bottom. 
+## Iteration 4 - Sprint 14
+
+### Designs
+
+[Iterations on designs](https://vsateams.invisionapp.com/share/9SVV3Y8MBDP) with post-research feedback incorporated
+
+
+### Feedback & Outcomes
+
+#### Key research findings and recommendations :
+
+Meeting date: 02/11/2020  
+Attendees: Liz Lantz, Nick Sullivan, Kelson Adams, Anne Hurley, Jennifer Lee, and Mickin Sahni
+
+Outcomes
+
+- Team decision to remove comparison functionality from MVP; keep as a stretch goal
+- Jen Lee communicated that a fixed button to access comparison list is not something she is willing to consider due to the promo banner component
+
+Resources
+
+- [Mural board for product outline collaboration](https://app.mural.co/invitation/mural/vsa8243/1579702104127?sender=lizlantz1528&key=9bc900c5-957e-4a0b-988a-444b31ec1005)
+- [Draft product outline created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)
+
+- 
 
 ## Iteration 3 - Sprint 13
 
@@ -37,21 +61,19 @@ Resources
 - [Mural board for product outline collaboration](https://app.mural.co/invitation/mural/vsa8243/1579702104127?sender=lizlantz1528&key=9bc900c5-957e-4a0b-988a-444b31ec1005)
 - [Draft product outline created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)
 
-#### Meeting Title (e.g. "Usability Testing Research Readout") :
+#### Yellow Ribbon Team Alignment / Present Hi-fis to team :
 
-Meeting date: XX/XX/XXXX  
-Attendees: Name, Name, Name 
+Meeting date: 01/21/2020  
+Attendees: Liz Lantz, Kevin Hoffman, Ryan Thurlwell, Crystabel Reiter
 
 Outcomes
 
-- Bulleted list of outcomes 
-- Bulleted list of outcomes
-- Bulleted list of outcomes
+- 
 
 Resources
 
-- e.g. link to research readout 
-- or other resources that came up
+- [Mural board for product outline collaboration](https://app.mural.co/invitation/mural/vsa8243/1579702104127?sender=lizlantz1528&key=9bc900c5-957e-4a0b-988a-444b31ec1005)
+- [Draft product outline created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)
 
 
 ## Iteration 2 - Sprint 12
