@@ -2,9 +2,11 @@
 
 **Author(s):** Bill Fienberg \<bill.fienberg@oddball.io\>
 
-**Last Updated:** 2020-02-18
+**Last Updated:** 2020-02-19
 
-**Status:** **Draft**
+**Status:** **On Hold**
+
+This Design Doc is on hold while we wait for approval to sign up for Algolia.
 
 **Approvers:** Andrew G., Megan K., Rian F., Wyatt W.
 
@@ -293,3 +295,4 @@ The recommendation from the discovery sprint is to build a custom documentation 
 | Feb 17, 2020 | Add list of public docs, and open question about crawler diffing capabilities | Bill Fienberg |             |
 | Feb 18, 2020 | Fix typo, update search testing instructions, exclude private repos           | Bill Fienberg |             |
 | Feb 18, 2020 | Add Records section, add Operations section, and plan recommendation          | Bill Fienberg |             |
+| Feb 19, 2020 | Update status from "Draft" to "On Hold"                                       | Bill Fienberg |             |
