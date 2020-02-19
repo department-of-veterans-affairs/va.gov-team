@@ -1,6 +1,6 @@
 # Yellow Ribbon MVP Product Outline
 
-Last updated January 30, 2020
+Last updated February 19, 2020
 
 ## POCs
 
@@ -192,3 +192,4 @@ GIDS API (need link from developers)
 ### Screenshots
 
 #### Yellow Ribbon Before
+(Stuck. I don't know how to put screenshots in this .md file)
