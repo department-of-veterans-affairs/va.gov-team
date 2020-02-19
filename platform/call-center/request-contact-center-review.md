@@ -66,3 +66,4 @@ All applications on the Veteran-facing Services Platform include a phone number 
     * If you don't hear anything after 3 business days, reach out to your call center POC.
 1. After sending your team's materials to the Contact Center, the call center team will close the Github issue.
     * Github will send the person who created the Github issue a notification. This is your team's signal that this pre-launch activity is complete.
+1. Requesting team members who participated in this collaboration, please complete brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
