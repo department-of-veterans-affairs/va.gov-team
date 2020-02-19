@@ -22,7 +22,7 @@ Documentation containing descriptions, feedback, and content for each chapter's 
 - **Drupal content pages** 
    - [Drupal content pages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-drupal-pages.md)
 - **Introduction Screen**
-   - Page 1: Introduction screen (TBD)
+   - Page 1: [Introduction screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md)
 - **Chapter 1: Veteran Information**
    - Page 1: Personal details (TBD)
    - Page 2: Addresses (TBD)
