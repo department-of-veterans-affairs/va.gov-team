@@ -43,7 +43,7 @@
 - Hidden content in accordions, show/hide, additional info component is not available to screen readers, SEO, or axe e2e tests																							
 - Focus management guidelines
 
-- Charting presently is not accessible for screen readers, keyboard navigation																							
+- Charting presently is not accessible for screen readers, keyboard navigation	https://dev.to/richharris/a-new-technique-for-making-responsive-javascript-free-charts-gmp																						
 
 - Select elements may contain more than ~23 characters, and are cut off in mobile view, and sometimes cut off on desktop																							
 - Even small bits of information are currently hidden in the show/hide, introducing challenges for screen readers, keyboard users, and some cognitive considerations																							
