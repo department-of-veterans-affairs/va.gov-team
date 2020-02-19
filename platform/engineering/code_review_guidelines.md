@@ -10,7 +10,7 @@ We expect developers to be familiar with GitHub and the pull request review proc
 
 ## Code owners on vets-website
 
-VSP uses GitHub's [code owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) feature to trigger required reviews. A code owner is a GitHub [organization](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations) that must approve a change before it can be merged. 
+VSP uses GitHub's [code owners](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners) feature to trigger required reviews. A code owner is a GitHub [team](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations) that must approve a change before it can be merged. 
 
 By default, the [frontend review group](https://github.com/orgs/department-of-veterans-affairs/teams/frontend-review-group) is the code owner of vets-website. VSA teams can optionally create a GitHub team under the [Department of Veteran Affairs GitHub organization](https://github.com/orgs/department-of-veterans-affairs/teams) and assign that team as a code owner of application [folders](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications). **This will remove the frontend review group as a required reviewer when changes are made to those folders.** 
 
