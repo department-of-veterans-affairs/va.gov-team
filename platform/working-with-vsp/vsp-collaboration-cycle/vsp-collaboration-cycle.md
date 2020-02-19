@@ -268,7 +268,7 @@ Ensure that VA call center representatives are prepared to help Veterans trouble
 
 ## Timing
 - Development stage: **Build**
-- At least 4 weeks prior to launch for a brand new service, or at least 2 weeks prior to launch for a new feature in an existing service. The build on staging should be as complete and ready to launch as possible, but the priority is to begin this review with the required lead time (4 or 2 weeks).
+- At least 4 weeks prior to launch or unmoderated testing for a brand new service, or at least 2 weeks prior to launch or unmoderated testing for a new feature in an existing service. The build on staging should be as complete and ready to launch as possible, but the priority is to begin this review with the required lead time (4 or 2 weeks).
 
 ## Collaboration format: asynchronous
 
