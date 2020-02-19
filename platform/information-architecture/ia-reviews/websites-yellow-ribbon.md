@@ -16,8 +16,10 @@
 - The new YR school finder tool will live within the Education benefits hub and be linked to from the "More resources" spoke. 
 - **Visual sitemap:** Visual IA of education hub showing placement of new content/tool https://app.moqups.com/Rnc4BDEKrA/view/page/a041dc811
 - **URL:**  www.va.gov/education/yellow-ribbon-participating-schools <br>
-- **Breadcrumb:** Home > Education and training > [Find a Yellow Ribbon school] <br> 
-*Text in brackets should match the H1 of the page*
+- **Breadcrumbs:** 
+  - Initial page:  Home > Education and training > {Find a Yellow Ribbon school}
+  - Search results: Home > Education and training > {Find a Yellow Ribbon schoo} > Search results
+*Text in brackets should match the H1 of the initial page*
 
 <p>Rationale: Currently the YR participating school legacy pages are linked to from the YR info page which is deep under "About GI Bill benefits" page.  This new content/tool would benefit from more visibility higher in the structure and with upcoming navigation changes, we need to shallow up the IA to under 4 levels.  
 
