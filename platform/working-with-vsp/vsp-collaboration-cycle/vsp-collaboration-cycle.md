@@ -121,6 +121,7 @@ Meet with VSP practice area reviewers to confirm that your prototypes or mockups
 You bring: 
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Link to or attach prototype or mockups
+- Link to or attach artifact with copy (if separate from prototypes/mockups)
 - Link to research plan ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md)) and script ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
 - Link to regression test plan ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#regression-test-plan)) (if there isn't already a regression test plan for this feature in TestRail) _for QA practice area review_
 - Link to test cases/test plan in TestRail ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/qa-artifacts.md#test-plan)) (even if just a draft) _for QA practice area review_
@@ -196,6 +197,7 @@ Collaborate with VSP’s Information Architect to finalize your URL and other ke
 You bring: 
 - Link to product outline ([template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/product-outline-template.md))
 - Link to or attach prototype or mockups
+- Link to or attach artifact with copy (if separate from prototypes/mockups)
 - Link to research readout/results ([learn more](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/synthesis/how-to-do-research_synthesis.md))
 - Link to [reseach history masterlist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-history.md) showing that you have added your research to the list as applicable
 - Link to or attach final content including H1s (if separate from prototype/mockup)
