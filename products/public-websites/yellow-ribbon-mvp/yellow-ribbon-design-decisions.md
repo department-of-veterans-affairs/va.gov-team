@@ -41,6 +41,23 @@ High fi designs
 
 ### Feedback & Outcomes
 
+#### Pre-Usability Design Review with VSP 
+
+Meeting occurred asynchronously beginning 01/24/2020
+
+Outcomes
+
+- Updated comparison table 
+  - `remove` button from a red `X` icon, to the word `Remove` presented as a text link, to eliminate ambiguity about the functionality
+  - Update background color on table heading from blue to gray to help users understand the header is not interactive
+- Use source sans pro instead of bitter in the comparison button since it is not a heading
+- Explored alternative placements for the `Add to compare` button in the card to eliminate awkward spacing. Reorganized cards so that the data is presented in 2 columns w/ 2 rows, and the button lives underneath each row (screenshot available in [GH issue #5182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5182))
+- Made several copy updates based on content review, details available in [GH issue 4881](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4881)
+
+Resources
+
+- Suggestion to explore alternate presentations for comparison functionality, such as the behavior on Samsung's website https://www.samsung.com/us/mobile/phones/galaxy-s/?model_family=Galaxy+Note10%2B+5G,Galaxy+S10+5G
+
 #### Yellow Ribbon Team Alignment / Present Hi-fis to team :
 
 Meeting date: 01/22/2020  
@@ -68,12 +85,10 @@ Attendees: Liz Lantz, Kevin Hoffman, Ryan Thurlwell, Crystabel Reiter
 
 Outcomes
 
-- 
-
-Resources
-
-- [Mural board for product outline collaboration](https://app.mural.co/invitation/mural/vsa8243/1579702104127?sender=lizlantz1528&key=9bc900c5-957e-4a0b-988a-444b31ec1005)
-- [Draft product outline created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)
+- Ryan shared new layout for cards to be incorporated in the design system. Asked for the following changes
+  - Only non-default body text typography treatment permitted  in cards is an `h3` element for the card title
+  - Remove icons for location
+- In his card layouts, he presented call-to-actions as a list, instead of a button as shown with our `Add to compare` function.  Discussed usage of button for single calls-to-action that trigger a behavior in the UI, vs send the user to a new page, and agreed we can move forward w/ the existing design for now (using compare button instead of a link)
 
 
 ## Iteration 2 - Sprint 12
