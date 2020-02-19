@@ -14,7 +14,6 @@ the O drive of the VA Network.
 - System (i.e. IRIS or Salesforce)
 - Name of employee handling issue
 - Status
-- Users last name
 - Description/Case notes 
 - Topic
 - Subtopic
