@@ -21,8 +21,8 @@ Data management will follow the [VFS-CMS research procedures](https://github.com
 
 ### Target Channels
 The conversations will be extracted from:
-* <b>_#cms-support_ Slack channel</b> - Responsible: Jordana Mello (jordana.mello@agile6.com)
-* <b>VA CMS support email</b> - Responsible: XXX
+* <b>_#cms-support_ Slack channel</b> - Responsible: Jordana Mello
+* <b>VA CMS support email</b> - Responsible: Howard Brande
 
 ### Data Sample
 This study will look at conversations between the cms team and users occuring between January 1, 2020 and February 29, 2020.
