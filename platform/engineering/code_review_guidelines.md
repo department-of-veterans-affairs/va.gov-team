@@ -8,6 +8,9 @@ This document covers rules for engaging the VSP team in [pull request reviews](h
 
 We expect developers to be familiar with GitHub and the pull request review process, but want to be clear about our norms to reduce confusion and help code flow through the process as quickly and reliably as possible.
 
+## Code owners 
+
+Information on how VSP uses code owners can be found [here](code-owners.md).
 
 ## The pull request review lifecycle in brief
 
