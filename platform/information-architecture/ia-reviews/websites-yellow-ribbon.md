@@ -49,6 +49,3 @@
 
 ### Additional Notes/Recommendations
 
-**Early considerations/recommendations**
-- review existing YR static pages, how will this tool link from static content and how do pages redirect (parameter based)
-- content lives deep in education, content should be moved to more resources spoke
