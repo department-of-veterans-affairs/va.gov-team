@@ -43,7 +43,7 @@ Observing that participants are quickly deterred from exploring schools with cau
 The following users have been identified:
 * GI Bill beneficiaries who are interested in obtaining an undergraduate degree and have not yet enrolled in a school.
    * 6 Veterans
-   * 2 Family members 
+   * 2 Dependants  
 
 ### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
 
