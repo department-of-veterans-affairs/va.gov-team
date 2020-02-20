@@ -3,18 +3,23 @@
 Feb 18, 2019 – March 13, 2020
 
 ### Background
+
 Within the GI Bill Comparison Tool, military-connected students continue to view profiles of institutions that have increased regulatory or legal scrutiny, even when those schools are flagged with “Caution” labels. They may apply to and even attend the institutions without being aware of these potential hazards.
 
 ### Problem Statement 
+
 As a GI Bill beneficiary who is using the GI Bill Comparison Tool to compare schools, I'd like to know which schools have received cautionary warnings and may pose potential risks, so I don’t waste, or even lose, my benefits attending an institution that’s known to have critical issues. I'd like to make good use of my education benefits and receive a high quality education.
 
 ### Solution Hypothesis
+
 By enhancing the design and content of the caution flags that appear on the Search Results and School Profile pages of the GI Bill Comparison Tool, potential GI Bill Beneficiaries will be deterred from considering schools with cautionary warnings. In addition, the content changes will help GI Bill beneficiaries better understand the nature of the cautionary warnings.
 
 ### Research Questions
+
 The research is designed to answer the following questions:
 
 #### Caution Flag on Search Results page and School Profile page
+
 * Do the caution flags sufficiently deter GI Bill beneficiaries from exploring schools with cautions? 
 * What, if any, content or design modifications would increase the effectiveness of the caution flags?
 * Under what circumstances do GI Bill beneficiaries click through to the school profile page to learn more?
@@ -24,9 +29,10 @@ The research is designed to answer the following questions:
 * Are GI Bill beneficiaries interested in following the links to learn more about the cautions?
 
 #### Reduce Veteran risk during school section
+
 * How do GI Bill beneficiaries decide which school to attend? <-- Too similar to prior research?
 * What resources do GI Bill beneficiaries rely on for information related to the quality of schools?
-* What role does the GI Bill Comparison Tool play in the school selection process
+* What role does the GI Bill Comparison Tool play in the school selection process?
 
 ### What knowledge will make us feel like the research process has been successful?
 
@@ -44,6 +50,7 @@ The following users have been identified:
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses to recruit:
 
 ### Usability testing screener questions
+
 1.	Are you a Veteran or a family member or both?  
     * If more of this type of user is needed, to Question 2        
     * If not, end call  
@@ -62,7 +69,7 @@ The following research methods will be used:
 
 ### What testing and recording tools do we need to run the research sessions?
 
-Usability test sessions will be recorded via Zoom
+Usability test sessions will be recorded via Zoom.
 
 In-person notes will be taken by hand and/or on a computer.
 
@@ -72,10 +79,11 @@ The following artifacts will be developed:
 * Veteran Discussion Guide  
 * Interactive Prototype
 
-The Discussion Guide will be ready by: February 24, 2020
-The Interactive Prototype will be ready by: March 2, 2020
+The Discussion Guide will be ready by: February 24, 2020.
+The Interactive Prototype will be ready by: March 2, 2020.
 
 ### Who will fill the team roles?
+
 * Screener writers: UX Team
 * Recruiter: Perigean Recruiting Firm
 * Discussion guide writer: UX team
@@ -86,13 +94,13 @@ The Interactive Prototype will be ready by: March 2, 2020
 
 ### When do we want to conduct the testing?
 
-Interviews and site review
-*	Interview will be conducted March 3rd & 4th, 2020
-*	Usability Testing timeslots will be: 
+Usability Testing will be conducted on March 3rd & 4th, 2020.
+
+Timeslots will be: 
      * Mar 3: 11AM, 1PM, 3PM, 5PM 
      * Mar 4: 9AM, 11PM, 1PM, 3PM, 5PM 
 
-*	Each session will last no longer than 45 minutes
+*	Each session will last no longer than 45 minutes.
 *	A debrief among team members will be held immediately after each session.
 *	Findings from will be synthesized once all sessions have occurred and a findings report will be made.
 
