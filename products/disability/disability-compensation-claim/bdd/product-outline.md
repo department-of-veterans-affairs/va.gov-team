@@ -15,7 +15,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [Objectives and KPIs](#objectives-and-kpis)
 
 # Implementation Information
 - [Status](#status)
