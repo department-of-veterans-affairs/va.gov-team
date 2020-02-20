@@ -11,6 +11,16 @@ MVP 2.0 [Desktop](https://vsateams.invisionapp.com/share/P4W04QPWHTK) and [Mobil
 
 ### Feedback & Outcomes
 
+#### Yellow Ribbon a11y
+
+Meeting date: 02/20/2020  
+Attendees: Liz Lantz, Jennifer Strickland
+
+Outcomes
+
+- For a11y considerations and being able to navigate by links, Jennifer recommends moving the post-9/11 GI Bill application and eligibility links outside of each card
+- Jennifer also recommends linking the heading on each card to the school website
+
 #### Yellow Ribbon Sync
 
 Meeting date: 02/19/2020  
