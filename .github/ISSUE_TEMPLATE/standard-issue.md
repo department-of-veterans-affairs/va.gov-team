@@ -19,10 +19,13 @@ _What outcome(s) do we want to see?_
 
 ## Objectives or Key Results this is meant to further
 - _lorem ipsum_
+---
+## Tasks
+- [ ] _What work is necessary for this story to be completed?_
 
 ## Acceptance Criteria
 - [ ] _What needs to happen or be created?_
-
+---
 ## How to configure this issue
 - [ ] **Attached to a Milestone** (when will this be completed?)
 - [ ] **Attached to an Epic** (what body of work is this a part of?)
