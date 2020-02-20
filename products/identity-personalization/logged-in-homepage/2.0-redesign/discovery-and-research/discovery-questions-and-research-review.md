@@ -5,7 +5,7 @@
 Past research
 
 - [Personalization 2.0 Discovery: Summary and Strategy](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Personalization%202.0%20Discovery%20Summary%20%26%20Strategy.md)
-- [Dashboard 2.0 User Interviews Research Summary](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Personalization%202.0/Discovery%20%26%20Research/Dashboard%20interviews/Research%20Summary.md)
+- [Dashboard 2.0 User Interviews Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/personalization%202.0/discovery-research/dashboard-interviews/research-summary.md)
 - [Notification research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/Notifications/HCA%20MVP/Research/User%20Notifications%20Readout%20-%20end%20of%20sprint%20demo.pptx)
 - [Brand consolidation research (2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/tree/master/VA.gov%20Relaunch%202018/user-research)
   - [April 2018 deck 1](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/VA.gov%20Relaunch%202018/user-research/study-3/Merger%20Study%203%20Research%20Readout.pptx)
