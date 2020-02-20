@@ -59,7 +59,6 @@ Throughout FY 2018, the program made continuous improvements, which include:
 
 - BDD: Benefits Delivery at Discharge
 - Separation/Discharge Date: Date when service member becomes a veteran
-- Form DD-214: From wikipedia: The DD Form 214, Certificate of Release or Discharge from Active Duty, generally referred to as a "DD 214", is a document of the United States Department of Defense, issued upon a military service member's retirement, separation, or discharge from active duty in the Armed Forces of the United States, e.g., U.S. Air Force, U.S. Army, U.S. Coast Guard, U.S. Marine Corps, or U.S. Navy.
 
 ## User Problem Statement
 Currently the service member needs to go through eBenefits to access the BDD process.  When navigating to eBenefits and searching for "BDD" and/or "discharge" the search results do not provide a link to how to apply for this benefit.  Therefore, we want to move this capability to the VA.gov website and make it easy to fine and apply for the benefit.
