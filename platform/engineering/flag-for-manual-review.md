@@ -5,11 +5,6 @@ _Replace the previous line with the the title of your project or component and r
 **Last Updated:** February 20, 2020  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** _Rian Fowler_ \[ \], _Andrew Gunsch_ \[ \], ...  
-_You should complete the Overview section first. If your design is elaborate, you may want to pause after this section to wait for review comments before investing time into planning details that may get changed in the review._
-
-_Remember, a design document introduces a system or component to a fellow engineer. It should be written before implementing the system to aid in planning and to facilitate discussions about design decisions. After implementation, the design doc will serve as a reference for users, maintainers, and anyone else interested in the system (and for that reason it is still useful to write design docs for systems that have already been written)._
-
-_A design document is not a press release, a vision statement, a research report, or a business plan._
 
 _The intended audience for this document is software engineers, but it should make sense to anyone familiar with software development._
 
@@ -18,8 +13,11 @@ _The intended audience for this document is software engineers, but it should ma
 
 ### Objective
 _In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
+
 The goal is to improve our review process which by adding automated processes which will alert a review team when a manual review is required.
 These changes are meant to work alongside the Codeowners changes which will give each app team primary responsibility for reviewing their code.
+
+Non-goals: Creating automation which will absolve VFS teams of their review responsibility.
 
 ### Background
 _The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
@@ -34,16 +32,12 @@ From the perspective of a VFS engineer, the current review process involves:
 The final approval from the review group is often not helpful, and it slows the process down.
 This frustration often leads to VFS teams ignoring this process and they will directly ask for a VSP review before their PR is ready.
 
-
 ### High Level Design
-_A high-level description of the system. This is the most valuable section of the document and will probably receive the most attention. You should explain, at a high level, how your system will work. Don't get bogged down with details; those belong later in the document._
 
-_A diagram showing how the major components communicate is very useful and a great way to start this section. If this system is intended to be a component in a larger system, a diagram showing how it fits in to the larger system will also be appreciated by your readers._
-
-_Most diagrams will need to be updated over time as the design evolves, so please create your diagrams with a program that is easily (and freely) available and attach the diagram source to the document to make it easy for a future maintainer (who could be you) to update the diagrams along with the document._
+The plan is to use a CI process to run a script each time a change gets pushed to a PR.
+This script will look for anything that should trigger a manual review by the VSP review group, and alert them if it finds something.
 
 ## Specifics
-_Nothing goes here; all the content belongs in the subsections._
 
 ### Detailed Design
 _Designs that are too detailed for the above High Level Design section belong here. Anything that will require a day or more of work to implement should be described here._
