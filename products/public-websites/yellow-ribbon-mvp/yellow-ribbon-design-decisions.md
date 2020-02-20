@@ -3,6 +3,39 @@
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)  
 Designers: Liz Lantz, Public Websites
 
+## Iteration 5 - Sprint 15
+
+### Designs
+
+MVP 2.0 [Desktop](https://vsateams.invisionapp.com/share/P4W04QPWHTK) and [Mobile](https://vsateams.invisionapp.com/share/36W0CAZHJ2U) prototypes created. Mobile version only contains screens demonstrating the different layout and search criteria presentation for smaller screen sizes
+
+### Feedback & Outcomes
+
+#### Yellow Ribbon Sync
+
+Meeting date: 02/19/2020  
+Attendees: Liz Lantz, Kelson Adams, Anne Hurley, and Jennifer Lee
+
+Outcomes
+
+- Adding additional calls-to-action on each card to provide students w/ clear access to eligibility and application info for Post-9/11 GI Bill benefits
+- Anne will work on recommendations for incorporating our MVP into the benefit hub page, and incorporating eligibility and application info for Post-9/11 GI Bill benefits to our MVP landing page ([see GH Issue 6016](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6016))
+
+#### Yellow Ribbon Headings Discussion
+
+Meeting date: 02/14/2020  
+Attendees: Liz Lantz, Trevor Pierce
+
+Outcomes
+
+- Updating headings on Yellow Ribbon to improve screen reader experience ([mock-up here](https://vsateams.invisionapp.com/share/P4W04QPWHTK#/405289244_Results_-__dev_Notes))
+
+  - H1 will change on Search results page, and include a screen-reader only span with number of results
+
+  - Search criteria and Displaying x of xx schools headings updated and optimized for keyboard navigation by headings
+
+    
+
 ## Iteration 4 - Sprint 14
 
 ### Designs
@@ -19,15 +52,20 @@ Attendees: Liz Lantz, Nick Sullivan, Kelson Adams, Anne Hurley, Jennifer Lee, an
 
 Outcomes
 
-- Team decision to remove comparison functionality from MVP; keep as a stretch goal
-- Jen Lee communicated that a fixed button to access comparison list is not something she is willing to consider due to the promo banner component
+- Research findings updated with detailed [recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/research-findings.md#recommendations) and [next steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/research/research-findings.md#next-steps) based on decisions made during this meeting
+- Most significant changes
+  - Team decision to remove comparison functionality from MVP; keep as a stretch goal
+  - Need to update search criteria to better differentiate location options
+  - Adding filter/search criteria to allow users to see only schools offering unlimited funding to unlimited students
+  - Improving labels and language throughout prototype to reduce ambiguity
+  - Due to lack of quality data, we decided to remove `degree type` and `program or school` information from the MVP
+  - Adding `school website` as a data point for each school, to provide users with a next step
 
 Resources
 
-- [Mural board for product outline collaboration](https://app.mural.co/invitation/mural/vsa8243/1579702104127?sender=lizlantz1528&key=9bc900c5-957e-4a0b-988a-444b31ec1005)
-- [Draft product outline created](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)
+- Jen suggested to review REI's comparison functionality for a non-sticky option, when we do move forward with comparison functionality.  [Awaiting more info](https://dsva.slack.com/archives/C52CL1PKQ/p1581521770073100)
 
-- 
+
 
 ## Iteration 3 - Sprint 13
 
@@ -50,9 +88,12 @@ Outcomes
 - Updated comparison table 
   - `remove` button from a red `X` icon, to the word `Remove` presented as a text link, to eliminate ambiguity about the functionality
   - Update background color on table heading from blue to gray to help users understand the header is not interactive
-- Use source sans pro instead of bitter in the comparison button since it is not a heading
+- Use Source Sans Pro instead of Bitter in the comparison button since it is not a heading
+- Revisit overall styling and color of button/bar to access comparison list
 - Explored alternative placements for the `Add to compare` button in the card to eliminate awkward spacing. Reorganized cards so that the data is presented in 2 columns w/ 2 rows, and the button lives underneath each row (screenshot available in [GH issue #5182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5182))
 - Made several copy updates based on content review, details available in [GH issue 4881](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4881)
+- Update label for `Displaying x of xx` from `results` to `schools` for clarity
+- 
 
 Resources
 
