@@ -23,7 +23,7 @@ The research is designed to answer the following questions:
 * What questions do GI Bill beneficiaries have regarding the content and meaning of the cautions flags?
 * Are GI Bill beneficiaries interested in following the links to learn more about the cautions?
 
-#### Reduce Veteran Risk during school section
+#### Reduce Veteran risk during school section
 * How do GI Bill beneficiaries decide which school to attend? <-- Too similar to prior research?
 * What resources do GI Bill beneficiaries rely on for information related to the quality of schools?
 * What role does the GI Bill Comparison Tool play in the school selection process
