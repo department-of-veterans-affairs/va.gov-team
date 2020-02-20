@@ -5,18 +5,21 @@ This research plan is for the VFS-CMS Tool - VFS-CMS team.
 
 The VFS-CMS tool is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-Our objective for this research is to evaluate the content review experience within the Drupal CMS. We'll focus on the experience of benefits detail page Editors. 
-* Determine if users understand the content review process.
-* Evaluate comprehension of navigation and on-page interactions on the content review screens.
-* Verify if the text and labels used on the content review screens are clear and can guide users to a succesful content review.
+Our objective for this research is to evaluate the content proofing experience within the Drupal CMS. We'll focus on the experience of benefits detail page Editors. 
+* Evaluate users' mental model of what function the View screen performs in the context of the editorial workflow
+* Understand the value of the View screen in the editorial workflow.
+* Understand how the View screen currently fits into the users' editorial workflow.
+* Evaluate comprehension of navigation and on-page interactions on the View screens.
+* Understand if labels provide enough context and guidance for users to complete their tasks with confidence and ease.
 * Uncover pain points, user expectations, and potential future features.
 
 ### Hypothesis
 ...
 
 ## Method	
+Usability testing will be conducted primalily in-person. In cases where in-person sessions are not possible, a remote option will be available via Zoom. Participants will use their own Drupal CMS screens to. A remote moderator will prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the editorial workflow. Remote observers and note takers will be in attendance.
 
-Usability testing will be conducted primalily in-person. In cases where in-person sessions are not possible, a remote option will be available via Zoom. Participants will use their own Drupal CMS screens to. A remote moderator will prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the revision workflow. Remote observers and note takers will be in attendance.
+We'll use verbatim for 
 
 Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures) to protect PII.
 
