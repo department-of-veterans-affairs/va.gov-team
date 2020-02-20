@@ -1,4 +1,4 @@
-# Caution Flag on GIBCT & Reduce Veteran Risk - Research Plan
+# Caution Flag Prototype & Reduce Veteran Risk Discovery - Research Plan
 
 Feb 19, 2019 – March 13, 2020
 
