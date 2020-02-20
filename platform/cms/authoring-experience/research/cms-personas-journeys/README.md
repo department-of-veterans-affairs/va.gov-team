@@ -38,17 +38,16 @@ Data management will follow the [VFS-CMS research procedures](https://github.com
 Due to the narrow user base for statistically representative personas, three _user groups_ were selected in the editorial workflow spectrum based on work commonalities. Research participants will be selected within each _user group_. We seek to identify behavioral patterns unique to each _user group_.
 
 ###### VSA Public Website Teams - 5 participants
-* Constantly asking for features
+* Regularly contribute feature enhancement ideas
 * Experienced Drupal CMS users
-* Have more governance needs
-* Work with several stakeholders
-* "Content-empowered" people
+* Their content requires more governance (Tier 1)
+* Work with several stakeholders across VA business
+* Closely aligned with the content, design and IA platform team
 ###### Web Manager and VAMC PAOs - 2 participants
 * VAMC content editors
-* People on the ground, handling content regarding life/death situations
-* Work with decentralized content
 * Are at the receiving end of design intentions
-* We'll onboard new PAOs for VISN 4
+* Manage VAMC banner alerts, which can have life or death implications
+* Much of their content is Tier 2 or 3, not necessarily veteran-facing
 ###### Content Stakeholders - 4 participants
 * Content reviewers
 * Work with people who use the Drupal CMS tool
