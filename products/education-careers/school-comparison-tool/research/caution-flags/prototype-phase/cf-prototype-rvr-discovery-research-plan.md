@@ -97,12 +97,14 @@ The Interactive Prototype will be ready by: March 2, 2020.
 Usability Testing will be conducted on March 3rd & 4th, 2020.
 
 Timeslots will be: 
-     * Mar 3: 11AM, 1PM, 3PM, 5PM 
-     * Mar 4: 9AM, 11PM, 1PM, 3PM, 5PM 
+* Mar 3: 11AM, 1PM, 3PM, 5PM 
+* Mar 4: 9AM, 11PM, 1PM, 3PM, 5PM 
 
-*	Each session will last no longer than 45 minutes.
-*	A debrief among team members will be held immediately after each session.
-*	Findings from will be synthesized once all sessions have occurred and a findings report will be made.
+Each session will last no longer than 45 minutes.  
+
+A debrief among team members will be held immediately after each session.  
+
+Findings from will be synthesized once all sessions have occurred and a findings report will be made.  
 
 ### When will recruiting occur?
 
