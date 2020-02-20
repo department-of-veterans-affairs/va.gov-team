@@ -11,6 +11,7 @@
   - [Agile Ceremonies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#agile-ceremonies)
   - [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#sprint-objectives)
   - [Issue Templates and Examples](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#issue-templates-and-examples)
+- [Launch Prep](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#launch-prep)
 
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
@@ -75,13 +76,16 @@ Resources:
 
 #### Testing
    - [UAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-uat.md)
-#### Launch Prep
-   - [Product development checklist (update coming)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md)
-   - [Launch Guide (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Product_Launch_Guide.md)
-   - [Launch Checklist (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Launch%20Checklist.md)
-   - [Product Demo Video Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/demo-video-creation-process.md)
+
 #### Tools
   - [Product Management Process in Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a2b160c2fbf52806323d6a54103229f99a730076/platform/working-with-vsp/onboarding/zenhub_product_management.pdf)
   - [Vets/VA Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=972187789)
   - [Access to Error Logging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/engineering/internal-tools.md)
   - [VA.gov Form Mapping Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/va.gov-form-mapping-guide.xlsx)
+
+### Launch Prep
+   - [Launch Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product/launch-playbook)
+   - [Product development checklist (update coming)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md)
+   - [Launch Guide (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Product_Launch_Guide.md)
+   - [Launch Checklist (deprecated, shared for context)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Practice%20Areas/Product/Launch%20Checklist.md)
+   - [Product Demo Video Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/demo-video-creation-process.md)
