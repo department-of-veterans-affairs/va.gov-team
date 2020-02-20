@@ -31,11 +31,11 @@ These weekly syncs between BaM2 and the DLC are meant to discuss work currently 
       - Specific to different brands
       - Select that item each time they order
       - Rechargeable cases have desiccant capsules and they have generic dryers for older ones
-- Cleaning tools
-   - Specific to types of hearing aids and brands
-   - For in air hearing aids - wire loop to scrape off ear wax
-   - Older aids have a tube - fishing line to clean it out
-   - Some cleaning tools are labelled as wax guards
+   - Cleaning tools
+     - Specific to types of hearing aids and brands
+      - For in air hearing aids - wire loop to scrape off ear wax
+      - Older aids have a tube - fishing line to clean it out
+      - Some cleaning tools are labelled as wax guards
 - Average of 2-5 accessory items ordered in the past 2 years
    - 10 could be possible but not common in a single request 
 - Domes, wax guards, and dryers are most frequently ordered 
