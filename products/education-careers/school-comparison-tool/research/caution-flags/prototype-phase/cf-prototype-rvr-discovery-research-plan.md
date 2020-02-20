@@ -31,7 +31,7 @@ The research is designed to answer the following questions:
 
 #### What knowledge will make us feel like the research process has been successful?
 
-Observing that participants are quickly dissuaded from considering schools with cautions as they engage with the GI Bill Comparison Tool will make us feel like the research process has been successful.
+Observing that participants are quickly deterred from exploring schools with cautionary warnings as they engage with the GI Bill Comparison Tool will make us feel like the research process has been successful.
 
 #### What kinds of users do we need to talk to answer our questions?
 
