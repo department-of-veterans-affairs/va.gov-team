@@ -1,7 +1,7 @@
 # Yellow Ribbon MVP Design Decisions
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-mvp-product-brief.md)  
-Designers: Liz Lantz, Public Websites
+Designer: Liz Lantz, Public Websites
 
 ## Iteration 5 - Sprint 15
 
