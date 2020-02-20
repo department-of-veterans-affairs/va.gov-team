@@ -52,7 +52,8 @@ In addition to the standard questions, which ensure a representative mix of part
 
 ### Usability testing screener questions
 1.	Are you a Veteran or a family member or both?  
-    * If Veteran, family member or both, to Question 2        
+    * If more of this type of user is needed, to Question 2        
+    * If not, end call  
 2.	[Are you eligible for / Have you been awarded] GI Bill education benefits?  
     * If yes, to Question 2  
     * If no, end call  
