@@ -38,4 +38,4 @@ assignees: andreahewitt-odd, meganhkelley
 Preferred dates or times: 
 
 ## Additional Notes
-During this collaboration point, you will receive feedback from the following practice areas: design, accessibility, content, QA, and optional: product, analytics, engineering
+During this collaboration point, you will receive feedback from the following practice areas: design, accessibility, content, QA, and optional: product, analytics, engineering, information architecture
