@@ -6,7 +6,7 @@ Feb 18, 2019 – March 13, 2020
 Within the GI Bill Comparison Tool, military-connected students continue to view profiles of institutions that have increased regulatory or legal scrutiny, even when those schools are flagged with “Caution” labels. They may apply to and even attend the institutions without being aware of these potential hazards.
 
 ### Problem Statement 
-As a GI Bill beneficiary who is using the GI Bill Comparison Tool to compare schools, I'd like to know which schools have received cautionary warnings and may pose potential risks, so I don’t waste, or even lose, my benefits attending an institution that’s known to have critical issues. I'd like to make good use of my education benefits and receive a high quality education at a fully accredited institution of higher learning. 
+As a GI Bill beneficiary who is using the GI Bill Comparison Tool to compare schools, I'd like to know which schools have received cautionary warnings and may pose potential risks, so I don’t waste, or even lose, my benefits attending an institution that’s known to have critical issues. I'd like to make good use of my education benefits and receive a high quality education.
 
 ### Solution Hypothesis
 By enhancing the design and content of the caution flags that appear on the Search Results and School Profile pages of the GI Bill Comparison Tool, potential GI Bill Beneficiaries will be deterred from considering schools with cautionary warnings. In addition, the content changes will help GI Bill beneficiaries better understand the nature of the cautionary warnings.
