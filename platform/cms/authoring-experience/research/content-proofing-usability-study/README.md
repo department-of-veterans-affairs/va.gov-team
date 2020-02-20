@@ -5,7 +5,7 @@ This research plan is for the VFS-CMS Tool - VFS-CMS team.
 
 The VFS-CMS tool is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-Our objective for this research is to evaluate the content proofing experience within the Drupal CMS. We'll focus on the experience of benefits detail page Editors. 
+Our objective for this research is to evaluate the content proofing experience within the Drupal CMS. We'll focus on the experience of editors working with benefits detail pages. 
 * Evaluate users' mental model of what function the View screen performs in the context of the editorial workflow
 * Understand the value of the View screen in the editorial workflow.
 * Understand how the View screen currently fits into the users' editorial workflow.
@@ -13,24 +13,25 @@ Our objective for this research is to evaluate the content proofing experience w
 * Understand if labels provide enough context and guidance for users to complete their tasks with confidence and ease.
 * Uncover pain points, user expectations, and potential future features.
 
+
 ### Hypothesis
-...
+TBD
 
 ## Method	
-Usability testing will be conducted primalily in-person. In cases where in-person sessions are not possible, a remote option will be available via Zoom. Participants will use their own Drupal CMS screens to. A remote moderator will prompt users with guiding questions (from the conversation guide). Participants will be encouraged to talk through their exploration of the editorial workflow. Remote observers and note takers will be in attendance.
+Usability testing will be conducted primalily in-person. In cases where in-person sessions are not possible, a remote option will be available via Zoom. We will ask participants to use their own Drupal login in the current version of the CMS tool to test usability. A remote moderator will prompt users with guiding questions from the conversation guide. Participants will be encouraged to talk through their exploration of the editorial workflow. Remote observers and note takers will be in attendance.
 
-We'll use verbatim for 
+To record the session, we'll make an initial record using verbatim notes and zoom audio and screen recording, followed by synthesized notes on our observations.
 
-Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures) to protect PII.
+To protect PII, we will follow data management protocols outlined by [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures).
 
 ## Participants and Recruitment	
-The study will be done with X benefits detail page Editors.
+The study will be done with a minimum of 5 benefits detail page Editors.
 Usability test invitations will be sent via email. 
 
 ## Timeline
 
 #### Desired Timeline: March XX, 2020 – March XX, 2020
-Each session is likely to last 1 hour
+We will request up to an hour of participants' time for each usability session.
 
 #### Pilot Date: Wednesday, February XX, 2020
 The research will be piloted with Kevin Walsh, VFS-CMS Product Manager 
@@ -42,7 +43,7 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 - Project point of contact:	Kevin Walsh
 - Participant(s) for pilot test: Kevin Walsh
 - Note-takers: Rachel Kauff (rachel.kauff@civicactions.com)
-- Observers: CMS engineer(s) 
+- Observers: CMS engineer(s), TBD 
 
 ## Resources	
 * Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
