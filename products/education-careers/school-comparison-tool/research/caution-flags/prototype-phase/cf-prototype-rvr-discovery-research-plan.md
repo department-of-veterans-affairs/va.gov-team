@@ -42,13 +42,12 @@ Observing that participants are quickly deterred from exploring schools with cau
 
 The following users have been identified:
 * GI Bill beneficiaries who are interested in obtaining an undergraduate degree and have not yet enrolled in a school.
+   * 6 Veterans
+   * 2 Family members 
 
 ### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses to recruit:
-
-* 3-4 Veterans who [have been awarded / are eligible for] GI Bill education benefits 
-* 3-4 Veteran family members who [have been awarded / are eligible for] GI Bill education benefits
 
 ### Usability testing screener questions
 1.	Are you a Veteran or a family member or both?  
@@ -65,7 +64,7 @@ In addition to the standard questions, which ensure a representative mix of part
 
 The following research methods will be used:
 
-* Remote usability testing of a prototype with 6-8 Veterans
+* Remote usability testing of a prototype with 6-8 GI Bill Beneficiaries
 
 ### What testing and recording tools do we need to run the research sessions?
 
