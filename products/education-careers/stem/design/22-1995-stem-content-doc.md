@@ -169,7 +169,6 @@ Do you have a STEM undergraduate degree and are now pursuing a teaching certific
 { if NO, display an "x" for the "Undergrad STEM..." question on the next page }  
 
 Have you used all of your Post-9/11 GI Bill or Fry Scholarship benefits or do you have less than 6 months of benefits left? (*Required) 
-[Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
 
 - Yes  
 - No   
