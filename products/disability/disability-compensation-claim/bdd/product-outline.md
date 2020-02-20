@@ -105,43 +105,21 @@ _I am a Service Member who is in need of filing a Disability Claim, but since I 
 -	I can understand whether the submission was successful, and what I need to do to correct it if not
 -	I can easily resubmit a BDD claim request if it was unsuccessful the first time
 
-
-# NOT UPDATED BEYOND THIS SECTION
-
 ### Product Assumptions: Claims Assistant User Group
 
-- I can log into SOMETHING
-- I can see that there is a new digitally-submitted BDD claim
-- I can open the decision review request and check it for validity
-- As with my other decision review requests, I can use Caseflow Intake to further develop the request as necessary
+- TBD
 
 ## Requirements and Constraints
 
-- This product consists of three overlapping projects:
-  - The Veteran-facing submission experience on va.gov (vets-api and vets-website stacks)
-  - The Caseflow-facing administration/ review experience in Caseflow (caseflow stack)
-  - The API that facilitates communication between vets-api and caseflow (caseflow stack)
-- The teams building each of these parts must be staffed, must have access to shared resources, and must be able to work independently of one another.
-- As of early July the dev teams for the Veteran-facing and Claims-facing parts have not been resourced. They may receive resourcing via the pending Apps Contract, June/ July 2019.
-- The Veteran-facing and Claims-facing components could be built by the same dev teams, though the different stacks involved may slow progress. It may be best to slot development of the Claims-facing work into the regular Caseflow engineering backlog.
-- While this product touches every LOB that processes decision review requests, the "decision review request review" (i.e. Caseflow UI) solution will not be tailored to the individuated requirements of the individual LOBs.
-- VBA and BVA are both on board and will allow the development effort to proceed in the fashion typical to DSVA projects.
+Major changes happened recently, section will be updated.
 
 ## Discovery Takeaways
 
-
+Luke has this data, needs to update.
 
 ## Solution Approach
 
-Overall approach: Start with HLR Compensation (since it's relatively simple and represents the broadest use case) or NOD (since it generalizes LOBs), build a simple prototype, and iterate from there.
-
-1. Research and build a general service API on Caseflow Intake (patterned after Claims and Appeals Status API) which will evaluate a submitted dataset for validity against Intake's hardcoded business rules. Prepare to iterate as related projects develop.
-2. In parallel, formulate and conduct a research plan which validates the market and sets the parameters of a Veteran-facing solution. Research should include quantitative analysis of historical (pre-AMA) and contemporary submission trends, as well as qualitative assessment of the needs of Veterans, dependents, VSOs, and VA business stakeholders.
-3. Prototype (first paper, then digital) experiments which explore the parameters set above. Validate the experiments with the key user groups. Make sure that the Claims information provided by existing VBMS APIs provide intelligible and actionable information, and formulate mitigation strategies as necessary.
-4. Prototype the Claims-facing screen(s) and validate them with Claims Assistants and other groups as needed.
-5. Lead the dev team(s) in iteratively building the Vereran-facing and Claims-facing products.
-6. Coordinate dry runs and workload-tests with Claims Assistants to understand how their day-to-day will be impacted, and adjust as necessary.
-7. Follow standard launch procedures.
+This is being filled in after the fact.
 
 ## Value Propositions
 
@@ -153,42 +131,35 @@ Overall approach: Start with HLR Compensation (since it's relatively simple and 
 
 "You can reduce the burden on Intake staff significantly by providing them fact-checked information directly from VA partner systems." WIP: this will be further developed when the existing metrics are better understood (see KPIs, below).
 
-## KPIs
+## Objectives and KPIs
 
-WIP: Needs research into existing costs (in time, money, and quality-of-life) of decision review request processing. 
+Objective 1: Greater number of service members applying for benefits as they transition from active military to veteran status.
+- KR1: Tableau data shows an increase statistically significant over current growth patterns of BDD claims.
 
-Note that BVA has expressed that they are getting "hammered" with mail.
+Objective 2: Shorter gap between separation from service and receiving claims.
+- KR1: New veteran is receiving disability benefit within 30 days of separation.
+- KR2: Tableau data backs up claim digital < paper in terms of speed of processing.
 
-**Metrics**
-- Higher digital conversion rates and lower paper form submissions
-- Veterans are more satisfied with their claims process
-- Lower processing costs
-- Less time to complete forms
-- Less time to get adjudication/completion from VA for appeals
-- Fewer PDF downloads vs. completion rates
+Objective 3: Application process is simpler than paper form.
+- KR1: BDD process pulls in veteran data from VA-accessible military database.
+- KR2: BDD process only asks questions that are essentially or greatly helpful for purposes of filing/deciding on a claim.
 
+Objective 4: Higher digital conversion rates and lower paper form submission.
+- KR1: Tableau data shows a decrease statistically significant over current growth patterns of BDD paper claims.
+
+**Overall Metrics, Ideas**
+- Veterans are more satisfied with their claims process -> this really is an Objective should remove this.
+- Lower processing costs (can we prove this)
+- Less time to complete forms (baseline needed)
+- Less time to get adjudication/completion from VA for original claims (since BDD is part of original claims flow)
+- Less HLR, NOD, Supplemental Claims (not an easy metric to capture but could look at slowed growth)
 ---
 
 # Implementation Info
 
 ## Status
 
-**Aug 1 2019**
-- API: Baseline iteration complete
-- va.gov UX: Research complete, first design round complete, dev work beginning assignment
-- Caseflow Intake UX: Currently in planning
-
-**Sept 20 2019**
-- API: API team is working on resolving their issues that are preventing @SMLuthi from completing this task. Working on issues endpoint; UAT.
-- Design: Handoff from Carola to Benefits and Memorials designers occurred on 9/18. Additional research and design work in progress.
-- Development: FE identified work items to build out skeleton and individual form steps to work on during the next sprint or two.
-
-## Solution Narrative
-- Late April: Product appears on CTO list of high value targets
-- Early May: Kicked off API discovery, scaffolded project
-- Early June: VBA approval in email, BVA approval in email and over phone
-- Early June: Questions about PRA raised; looking into what compliance measures are necessary
-- Early June: Conceptual version of app workflow sketched
+Luke needs to update, catching up.
 
 ## How to Access and Test
 - Link:
