@@ -20,6 +20,7 @@
   - File naming convention of the download content, so that users can identify what they've downloaded. For example, VA-017-Brochure-One-Pager-3.2.pdf vs VA-GeneralBenefitsInfo-3.2.pdf.
   - This may be a painstaking effort of scouring the site to uncover where this pattern is coming from that it is implemented like [https://www.va.gov/outreach-and-events/outreach-materials/](https://www.va.gov/outreach-and-events/outreach-materials/).
   - [Mural collection of icon links](https://app.mural.co/t/vsa8243/m/vsa8243/1572978262728/21af0a3299046b16f45678c564a7535797473f0b)
+  - https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/152#issuecomment-553127340
   
 - 'button' styling without actual _button_ appearance, should follow 'link' styling and include the underline
   - [https://design.va.gov/content-style-guide/button-labels](https://design.va.gov/content-style-guide/button-labels)
