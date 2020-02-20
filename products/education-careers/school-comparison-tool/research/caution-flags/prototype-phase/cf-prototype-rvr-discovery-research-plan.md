@@ -51,14 +51,14 @@ In addition to the standard questions, which ensure a representative mix of part
 * 3-4 Veteran family members who [have been awarded / are eligible for] GI Bill education benefits
 
 ### Usability testing screener questions
-1.	Are you a Veteran or a family member or both?
-  * If Veteran, family member or both, to Question 2      
-2.	[Are you eligible for / Have you been awarded] GI Bill education benefits?
-  * If yes, to Question 2
-  * If no, end call 
-3.	Have you enrolled in an undergraduate degree program?
-  * If no, would you like to participate?      
-  * If yes, end call
+1.	Are you a Veteran or a family member or both?  
+    * If Veteran, family member or both, to Question 2        
+2.	[Are you eligible for / Have you been awarded] GI Bill education benefits?  
+    * If yes, to Question 2  
+    * If no, end call  
+3.	Have you enrolled in an undergraduate degree program?  
+    * If no, would you like to participate?  
+    * If yes, end call  
 
 ### What kind of user research do we want to conduct?
 
