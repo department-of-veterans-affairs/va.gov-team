@@ -60,8 +60,9 @@ This list of questions is _not_ intended to be comprehensive. It _is_ intended t
     * What % of users are you rolling out to at each phase?
     * What metrics are you looking at before deciding to continue rollout?
 
-#### Dependencies
+#### Incident response
 
+* Is there a playbook for investigating and handling likely failure modes?
 * Are there new integrations with VA backends?
     * What is this backend's latency/availability profile?
     * Do we have points of contact for each new backend, in case of outages or security incidents? (TODO: link to where these should be stored/documented)
