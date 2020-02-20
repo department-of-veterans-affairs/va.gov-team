@@ -335,6 +335,7 @@ VSP brings:
   - Content (Peggy) - required
   - QA (Peter) - required
   - Product (Megan and/or Andrea) - required
+  - Information architecture (Mikki) — optional
   - VSP’s DEPO co-leads (Kevin) - optional
   - Analytics (Joanne) - optional
 
