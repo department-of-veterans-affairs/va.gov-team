@@ -18,7 +18,7 @@ Problem description. How might we _____________ ?
 _What outcome(s) do we want to see?_
 
 ## Objectives or Key Results this is meant to further
-- _lorem ipsum_
+- _Include references to KPIs we intend to impact_
 ---
 ## Tasks
 - [ ] _What work is necessary for this story to be completed?_
