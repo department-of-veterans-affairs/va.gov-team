@@ -15,7 +15,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [Objectives and KPIs](#objectives-and-kpis)
+- [Objectives and Key Results](#objectives-and-key-results)
 
 # Implementation Information
 - [Status](#status)
@@ -130,7 +130,7 @@ This is being filled in after the fact.
 
 "You can reduce the burden on Intake staff significantly by providing them fact-checked information directly from VA partner systems." WIP: this will be further developed when the existing metrics are better understood (see KPIs, below).
 
-## Objectives and KPIs
+## Objectives and Key Results
 
 Objective 1: Greater number of service members applying for benefits as they transition from active military to veteran status.
 - KR1: Tableau data shows an increase statistically significant over current growth patterns of BDD claims.
