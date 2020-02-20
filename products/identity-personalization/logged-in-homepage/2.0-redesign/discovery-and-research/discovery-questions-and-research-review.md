@@ -20,22 +20,21 @@ Past research
 
 ### Analytics
 
--	What are the top 10 — 20  pages visited on VA.gov?
+- What are the top 10 — 20  pages visited on VA.gov?
   - We should see if this is any different than what is on the homepage now.
--	What are the top 10 – 20 logged in tools visited?
--	What are the top 10 – 20 search terms?
--	What are the top 10 – 20 entry points for VA.gov?
--	After people enter the site, what is the next thing they do?
-  - Why: This tells us where people go after the entry point to help us know more fully what they may be trying to do. Or, we may see they come to the site, do a thing and leave. This would also be helpful.
--	What are the top links clicked from My VA?
+- What are the top 10 – 20 logged in tools visited?
+- What are the top 10 – 20 search terms?
+- What are the top 10 – 20 entry points for VA.gov?
+- After people enter the site, what is the next thing they do?
+  - Why: This tells us where people go after the entry point to help us know more fully what they may be trying to do. Or, we - What are the top links clicked from My VA?
 
 ### User research/interviews
 
--	Why do people log in to VA.gov?
+- Why do people log in to VA.gov?
 -	Why do people go to the homepage?
--	Why do people go to My VA?
--	What makes the logged in homepage useful now? What would make it more useful?
--	What makes My VA useful? What would make it more useful than it is now?
--	Where do people expect to see/receive notifications? 
--	What do they expect to see on a logged in homepage?
--	Are people overly reliant on the homepage for navigation because the logged in navigation doesn’t do a good job at elevating tools?
+- Why do people go to My VA?
+- What makes the logged in homepage useful now? What would make it more useful?
+- What makes My VA useful? What would make it more useful than it is now?
+- Where do people expect to see/receive notifications? 
+- What do they expect to see on a logged in homepage?
+- Are people overly reliant on the homepage for navigation because the logged in navigation doesn’t do a good job at elevating tools?
