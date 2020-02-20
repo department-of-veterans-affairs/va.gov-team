@@ -58,7 +58,7 @@ Interview invitations to be done directly via email
 ## Timeline
 
 #### Desired Timeline: March 09, 2020 – March 27, 2020
-1,5 hour sessions
+1.5 hour sessions
 
 #### Pilot Date: Wednesday, February 26, 2020
 The research will be piloted with Kevin Walsh, VFS-CMS Product Manager 
@@ -70,7 +70,7 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 - Project point of contact:	Kevin Walsh
 - Participant(s) for pilot test: Kevin Walsh
 - Note-takers: Rachel Kauff (rachel.kauff@civicactions.com)
-- Observers: not defined
+- Observers: CMS engineer(s) 
 
 ## Resources	
 * Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
