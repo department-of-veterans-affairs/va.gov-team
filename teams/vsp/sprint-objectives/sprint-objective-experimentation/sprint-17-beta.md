@@ -74,11 +74,11 @@ Feedback / questions to consider to inform the above plans
 **Goal 3** - The pilot was not the best experiment to handle this goal; it did not increase the transparency for either party. The Google Doc already gives the client the right level of "zoom" on the team's work.
 
 #### Pain Points
-**Pain Point 1** - the pilot did not give more clarity into the work. The Zenhub board remains the source of truth for work completed and in progress; the Google Doc remains the source of metadata/summary of the teams' work.
+**Pain Point 1** - The pilot did not give more clarity into the work. The Zenhub board remains the source of truth for work completed and in progress; the Google Doc remains the source of metadata/summary of the teams' work.
 
 **Pain Point 2** - This is no longer a pain point.
 
 **Pain Point 3** - The pilot did not decrease work for the team.
 
 #### What's Next
-**We have completed the Zenhub sprint experiment, and will go back to using the Google Doc as the source of VSP Teams' sprint objectives. The Platform team has invited product managers to a bi-weekly sprint tag-up to increase experiment increasing transparency for objectives within that meeting.**
+**We have completed the Zenhub sprint experiment, and will go back to using the Google Doc as the source of VSP Teams' sprint objectives. The Platform team has invited product managers to a bi-weekly sprint tag-up to experiment increasing transparency for objectives within that meeting.**
