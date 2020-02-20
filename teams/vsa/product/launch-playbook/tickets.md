@@ -2,7 +2,7 @@
 
 ## Investigate and Define API Endpoints for {feature}
 ### Story
-As an eBenefits Team member, I want to be able to define what endpoints are being used to send to the frontend
+As a <VSA product team> team member, I want to be able to define what endpoints are being used to send to the frontend
 
 ### Tasks
 - Identify the service or stack that may house the endpoints
@@ -16,7 +16,7 @@ As an eBenefits Team member, I want to be able to define what endpoints are bein
 ```
 ## Implement API Endpoints for {feature}
 ### Story
-As a member of the eBenefits Team, I want to be utilize the endpoints so that data is dynamic and relelvenat to the end user
+As a member of the <VSA product team> Team, I want to be utilize the endpoints so that data is dynamic and relelvenat to the end user
 
 ### Tasks
 - Test, validate endpoints
@@ -29,7 +29,7 @@ As a member of the eBenefits Team, I want to be utilize the endpoints so that da
 ```
 ## Testing: E2E & Unit for {feature}
 ### Story
-As a member of the eBenefits Team, I want to test both the components and the full page of the feature we are working on.
+As a member of the <VSA product team> Team, I want to test both the components and the full page of the feature we are working on.
 
 ### Task
 - Define the major testing domains for this feature (e.g., load testing, usability, website responsiveness, integration, etc) and reference any existing documentation and create a test infrastructure.
@@ -69,8 +69,8 @@ As a design researcher, I want to create a consistent plan that encompasses the 
 To validate my hypothesis and ensure that I am applying user centered designs before engineers start to build. 
 
 ### Considerations 
-Previous Reasearch Plans used:
-- [General VSA eBenefits Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/discovery-research-plan.md)
+Previous Research Plans used:
+- _Links to previous research plans_
 
 ### Task
 - Document a research plan to include:
