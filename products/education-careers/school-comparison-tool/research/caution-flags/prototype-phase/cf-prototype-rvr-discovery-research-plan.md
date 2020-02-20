@@ -30,9 +30,9 @@ The research is designed to answer the following questions:
 
 #### Reduce Veteran risk during school section
 
-* How do GI Bill beneficiaries decide which school to attend? <-- Too similar to prior research?
-* What resources do GI Bill beneficiaries rely on for information related to the quality of schools?
-* What role does the GI Bill Comparison Tool play in the school selection process?
+* TBD
+* TBD
+* TBD
 
 ### What knowledge will make us feel like the research process has been successful?
 
@@ -49,7 +49,7 @@ The following users have been identified:
 
 In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses to recruit:
 
-### Usability testing screener questions
+### Screener questions
 
 1.	Are you a Veteran or a family member or both?  
     * If more of this type of user is needed, to Question 2        
