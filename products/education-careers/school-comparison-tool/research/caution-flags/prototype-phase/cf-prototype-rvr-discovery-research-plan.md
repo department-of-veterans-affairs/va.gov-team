@@ -88,7 +88,7 @@ The Interactive Prototype will be ready by: March 2, 2020
 * Discussion guide writer: UX team
 * Moderator: UX Team
 * Note-taker: Amy Knox and Cindy Cruz
-* Observers: UX Team, Education Services & DEPO (invited)
+* Observers: UX Team, Education Services & DEPO
 * Research readout writer: UX Team
 
 ### When do we want to conduct the testing?
