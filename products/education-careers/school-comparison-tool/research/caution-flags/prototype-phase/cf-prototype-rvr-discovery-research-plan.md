@@ -47,7 +47,7 @@ The following users have been identified:
 
 ### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
 
-In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses to recruit:
+In addition to the standard questions, which ensure a representative mix of participants, the screener should include the following questions and responses.
 
 ### Screener questions
 
