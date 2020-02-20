@@ -10,7 +10,7 @@ SonarJS rules for ESLint to detect bugs and suspicious patterns in the code can 
 
 The front-end team will be deploying SonarJS’ 25 rules in 3 different batches.
 
-These rules will be set in a testing stage and run using CircleCI. Each batch will have a 2 week testing period before moving them to the `.enslintrc` file to be enforced. 
+These rules will be enabled in a testing CircleCI workflow. Each batch will have a 2 week testing period before moving them to the `.enslintrc` file to be enforced. 
 
 The linting rules in CircleCI will be used as an experimental staging area as we explore new rules and ways to communicate any issues that are discovered.
 
