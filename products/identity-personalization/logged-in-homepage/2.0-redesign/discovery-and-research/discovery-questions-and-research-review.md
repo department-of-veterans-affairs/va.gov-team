@@ -38,3 +38,14 @@ Past research
 - Where do people expect to see/receive notifications? 
 - What do they expect to see on a logged in homepage?
 - Are people overly reliant on the homepage for navigation because the logged in navigation doesn’t do a good job at elevating tools?
+
+## Hypotheses to test
+
+### Homepage
+
+- People will want to see update information, but not at the expense or ease of scanning/navigating to tools.
+- How people use the homepage will change based on whether we tailor the authenticated navigation to be more tool-oriented.
+
+### Notifications
+
+- People expect to email notifications will take them directly into whatever tool they are accessing and not to the homepage. However, if people have notification emails turned off, they would want to see timely information on their dashboard.
