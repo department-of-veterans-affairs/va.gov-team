@@ -2,7 +2,7 @@
 
 ## Investigate and Define API Endpoints for {feature}
 ### Story
-As a <VSA product team> team member, I want to be able to define what endpoints are being used to send to the frontend
+As a < VSA product team > team member, I want to be able to define what endpoints are being used to send to the frontend
 
 ### Tasks
 - Identify the service or stack that may house the endpoints
@@ -16,7 +16,7 @@ As a <VSA product team> team member, I want to be able to define what endpoints 
 ```
 ## Implement API Endpoints for {feature}
 ### Story
-As a member of the <VSA product team> Team, I want to be utilize the endpoints so that data is dynamic and relelvenat to the end user
+As a member of the < VSA product team > Team, I want to be utilize the endpoints so that data is dynamic and relelvenat to the end user
 
 ### Tasks
 - Test, validate endpoints
@@ -29,7 +29,7 @@ As a member of the <VSA product team> Team, I want to be utilize the endpoints s
 ```
 ## Testing: E2E & Unit for {feature}
 ### Story
-As a member of the <VSA product team> Team, I want to test both the components and the full page of the feature we are working on.
+As a member of the < VSA product team > Team, I want to test both the components and the full page of the feature we are working on.
 
 ### Task
 - Define the major testing domains for this feature (e.g., load testing, usability, website responsiveness, integration, etc) and reference any existing documentation and create a test infrastructure.
@@ -115,7 +115,7 @@ As an engineer, I want to request a review for Security and Load Testing with th
 - Provide advance notice `(minimum 1 sprint, preferably 2)`
 - Create a QA ticket on GitHub:
 - Assign to `tlei123`
-- Add the `vsa-qa`, `vsa-ebenefits`, `vsa` label
+- Add the `vsa-qa`, < VSA product team label >, `vsa` label
 - Select the Milestone sprint, or otherwise provide due-date for testing results.
 - Provide the following info to support testing (via links if documented elsewhere):
   - Staging URL of product/feature
