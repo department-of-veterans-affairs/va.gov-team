@@ -1,6 +1,6 @@
 # Caution Flag Prototype & Reduce Veteran Risk Discovery - Research Plan
 
-Feb 19, 2019 – March 13, 2020
+Feb 18, 2019 – March 13, 2020
 
 #### Background
 Some Veterans use GI Bill education benefits to attend colleges and universities that are in jeopardy of losing their accreditation for a variety of reason.  These institutions may be on heightened cash monitoring, facing lawsuits for deceptive advertising lawsuit, etc.. By displaying caution flags on the GI Bill Comparison Tool, VA hopes to deter Veterans from exploring schools with cautionary warnings.
