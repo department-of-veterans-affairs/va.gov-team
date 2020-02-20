@@ -4,12 +4,11 @@
 
 ##### Participants on call
 
-- Kam Karshenas
-
-- James Chasia
-- Naomi Marcussen
-- Kiefer Furzland
-- Peter Hill
+- Kam Karshenas - Engineering Lead, VAOS
+- James Chasia - Product Mgr, VSP
+- Naomi Marcussen - UX Designer, VSP
+- Kiefer Furzland - Engineer, VSP
+- Peter Hill - QA Lead, VSP
 
 
 
