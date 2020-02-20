@@ -228,9 +228,9 @@ Begin setup of Google Tag Manager and ForeSee so we can understand how Veterans 
 
 #### Google Tag Manager Implementation
 - VFS brings: 
-  - Product manager (required): **name**
-  - DEPO product lead (required): **name**
-  - Frontend engineering point of contact (required): **name**
+  - Product manager (required)
+  - DEPO product lead (required)
+  - Frontend engineering point of contact (required)
 - VSP brings: 
   - Google Tag Manager specialists
 
