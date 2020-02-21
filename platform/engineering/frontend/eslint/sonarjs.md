@@ -10,7 +10,7 @@ SonarJS rules for ESLint to detect bugs and suspicious patterns in the code can 
 
 The front-end team will be deploying SonarJS’ 25 rules in 3 different batches.
 
-These rules will be enabled in a testing CircleCI workflow. Each batch will have a 2 week testing period before moving them to the `.enslintrc` file to be enforced. 
+These rules will be enabled in a testing CircleCI workflow. Each batch will have a 2 week testing period before moving them to the `.enslintrc` file to be enforced.
 
 The linting rules in CircleCI will be used as an experimental staging area as we explore new rules and ways to communicate any issues that are discovered.
 
@@ -23,6 +23,8 @@ The linting rules in CircleCI will be used as an experimental staging area as we
 **Enforced after:** 3/9/20
 
 **No. of rules:** 12
+
+These are the rules in which we are already in compliance and they are very straight forward.
 
 - [no-all-duplicated-branches](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-all-duplicated-branches.md)
 - [no-element-overwrite](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-element-overwrite.md)
@@ -44,6 +46,8 @@ The linting rules in CircleCI will be used as an experimental staging area as we
 **Enforced after:** 3/23/20
 
 **No. of rules:** 8
+
+In this batch we have some rules in which are throwing already a few errors. In this case, VFS teams will be responsible for making the necessary changes to be in compliance with the new rules. We are
 
 - [no-extra-arguments](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-extra-arguments.md)
 - [no-identical-expressions](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-identical-expressions.md)
