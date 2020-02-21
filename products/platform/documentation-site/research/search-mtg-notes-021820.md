@@ -1,7 +1,7 @@
 # Algolia Search Regroup Meeting 
 
 2/18/20
-Present: Megan, Bill, Chris, Rian, Andrew, Rachael, Gretchen, Mikki, Crystabel
+Present (all VSP team members): Megan, Bill, Chris V, Rian, Andrew, Rachael, Gretchen, Mikki, Crystabel
 
 ## Meeting Recap 
 
@@ -13,6 +13,13 @@ Present: Megan, Bill, Chris, Rian, Andrew, Rachael, Gretchen, Mikki, Crystabel
 - We **assume** that a documentation site MVP without search will not be sufficient to solve the majority of the pain points that we discovered. We still plan to launch our MVP without search to validate that assumption and gather other valuable info before determining next steps. 
 - Prioritize measuring pain points and implementing KPI tracking in order to better determine next steps (after a searchless MVP)
 - On another topic ... broken Gatsby build should be fixed as part of documentation MVP
+
+## Follow up meeting with Kevin H (DEPO) - notes
+
+- K: How can we more effectively leverage metadata in order to help people find what they need at the right time? "Owned by" and "last updated" are good, but what other taxonomy and IA work would help solve specific pain points? "Audience"? "Topic"? This could be a good step in between table of contents and search. 
+- K: Have we thought at all about Algolia for VA.gov?
+- K: Business goal — tell the story of how documentation accelerates a VFS team member's ability to build on VA.gov. Sub-bullet — time and need (findability). 
+- M: Other sub-bullets may relate to quality, existence of docs. Let's specify that searchless MVP may hurt _findability_ and therefore adoption, but other MVP recommendations apply to other pain points that need to be addressed regardless.
 
 ---
 
