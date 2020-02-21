@@ -32,7 +32,9 @@ Our approach will help us uncover first-hand stories of key phases of the journe
 * Smaply journey template
 * Zoom recording
 
-Data management will follow the [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures) to protect PII.
+To record the session, we'll make an initial record using verbatim notes and zoom audio and screen recording, followed by synthesized notes on our observations.
+
+To protect PII, we will follow data management protocols outlined by [VFS-CMS research procedures](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/research-procedures).
 
 ## Participants and Recruitment	
 Due to the narrow user base for statistically representative personas, three _user groups_ were selected in the editorial workflow spectrum based on work commonalities. Research participants will be selected within each _user group_. We seek to identify behavioral patterns unique to each _user group_.
