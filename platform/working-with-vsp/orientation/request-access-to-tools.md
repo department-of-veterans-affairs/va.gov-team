@@ -35,9 +35,7 @@ your browser to the SOCKS5 proxy for these private domains. For this we require 
 
 In addition to internal tools our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, log file review and to apply changes to the running instances and services. 
 
-We will be walking how to request access through the steps below. In order to be granted SOCKS access a SAC adjudication will need to be completed and returned as "favorable". Please remember to submitted all VA onboarding paperwork to your company/COR before a SAC adjudication can be conducted. **Opening the issue prematurely will slow down our ability to respond to you in a
-timely manner**. In order to be granted AWS access your PIV background (eQUIP adjudication) check needs to be underway. **If you do not need access to AWS please do not mark "Yes" in the Grant AWS Console Access section**.
-
+We will be walking how to request access through the steps below. In order to be granted SOCKS access, please follow the steps to submit a request issue in Github below. SOCKS access will be granted as soon as an engineer can address your request.  In order to be granted AWS access your PIV background (eQUIP adjudication) check needs to be underway. **If you do not need access to AWS please do not mark "Yes" in the Grant AWS Console Access section**. Please also remember to submitted all VA onboarding paperwork to your company/COR.
  
 
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
