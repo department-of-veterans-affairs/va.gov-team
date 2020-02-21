@@ -20,6 +20,9 @@ Present (all VSP team members): Megan, Bill, Chris V, Rian, Andrew, Rachael, Gre
 - K: Have we thought at all about Algolia for VA.gov?
 - K: Business goal — tell the story of how documentation accelerates a VFS team member's ability to build on VA.gov. Sub-bullet — time and need (findability). 
 - M: Other sub-bullets may relate to quality, existence of docs. Let's specify that searchless MVP may hurt _findability_ and therefore adoption, but other MVP recommendations apply to other pain points that need to be addressed regardless.
+- Action Items: 
+  - Continue with plan outlined above (searchless MVP, info gathering on Algolia)
+  - Connect with Kevin to brainstorm/collaborate on metadata taxonomy and IA work that could improve findability beyond a ToC
 
 ---
 
