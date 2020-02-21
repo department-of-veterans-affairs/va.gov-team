@@ -37,7 +37,7 @@ In addition to internal tools our infrastructure is hosted in and makes use of s
 
 For either SOCKS5 proxy and/or AWS Console access please create a "Environment Access Request" issue in Github. All SOCKS5 proxy access requests are reviewed by VSP Operations. 
 
-In order to be granted AWS Console access your PIV background (eQUIP adjudication) check needs to be underway. Please mark yes in the AWS Console access and provide a short description of why you need access. All AWS Console access requests will be reviewed by DEPO. **If you do not need access to AWS please mark "No" in the Grant AWS Console Access section**. Please ensure  all VA onboarding paperwork is submitted to your company/COR.
+In order to be granted AWS Console access, your PIV background (eQUIP adjudication) check needs to be underway. Please mark yes in the AWS Console access and provide a short description of why you need access. All AWS Console access requests will be reviewed by DEPO. **If you do not need access to AWS please mark "No" in the Grant AWS Console Access section**. Please ensure  all VA onboarding paperwork is submitted to your company/COR.
 
 We will be walking through how to request access in the steps outlined below.
 
