@@ -31,8 +31,14 @@ Back-end:
 
 \[Provide list of specific Staging test-accounts (with test-data ready behind pertinant Staging API-endpoints), that map to each user-scenario listed above.]
 
+## How to configure this issue
+
+- [ ] Attached to a **Milestone** (when will this be completed?)
+- [ ] Attached to **Epic** (what body of work is this a part of? possibly `Ongoing Maintenance`)
+- [ ] Labeled with **Team** (`vsa-authenticated-exp`, `vsa-benefits`, `vsa-benefits-2`, `vsa-caregiver`, `vsa-ebenefits`, `vsa-facilities`, `vsa-public-websites`, etc.)
+
 ## Definition of Done
 
-- [ ] Engineering-team review completed.
+- [ ] Test Plan reviewed by Product Team.
 - [ ] Test Plan finalized per review feedback.
 - [ ] Actual Test Run(s) completed on Staging, and defects logged.
