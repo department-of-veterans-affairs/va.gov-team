@@ -18,5 +18,5 @@ DEPO is moving towards a singular, scalable approach to cards throughout VA.gov.
 
 Now that BAH has implemented DEPO's new Caution Flag pattern into the Search Results Page, we're focusing on improvements to the Caution Flags in the Institution Profile. Part of our work is also focused on continuing improvements for Caution Flags in the search. A major aspect of this work is language considerations, specifically making the Caution Flags plain language to improve comprehension with users.
 
-[GIBCT Caution Flags SRP-Profile v0.0 - Desktop](hhttps://bahdigital.invisionapp.com/share/AGIACXL4ZJB) 
+[GIBCT Caution Flags SRP-Profile v0.0 - Desktop](https://bahdigital.invisionapp.com/share/AGIACXL4ZJB) 
 
