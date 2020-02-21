@@ -31,6 +31,7 @@ Teams develop bets, or hypotheses, they believe will help them achieve their OKR
   
   Resources:
   - [Great One-Pagers](https://medium.com/@johnpcutler/great-one-pagers-592ebbaf80ec)
+  - [Revisiting the Product Spec](https://svpg.com/revisiting-the-product-spec/)
 
 #### Roadmap
 Each VSA product team publishes a "roadmap" of their OKRs and bets. Roadmaps help the cross-functional product team and stakeholders gain a better sense of the outcomes a given team targets. 
