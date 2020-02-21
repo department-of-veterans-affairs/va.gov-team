@@ -49,7 +49,7 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 ## Resources	
 * Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
 
-* [Conversation Guide]()https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/content-proofing-usability-study/conversation%20guide
+* [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/content-proofing-usability-study/conversation%20guide)
 
 * [WIP] Synthesis	
 
