@@ -35,7 +35,7 @@ your browser to the SOCKS5 proxy for these private domains. For this we require 
 
 In addition to internal tools our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, log file review, and to apply changes to the running instances and services. 
 
-For either SOCKS5 proxy and/or AWS Console access please create a "Environment Access Request" issue in Github. All SOCKS5 proxy access requests will be reviewed by VSP Operations. 
+For either SOCKS5 proxy and/or AWS Console access please create a "Environment Access Request" issue in Github. All SOCKS5 proxy access requests are reviewed by VSP Operations. 
 
 In order to be granted AWS Console access your PIV background (eQUIP adjudication) check needs to be underway. Please mark yes in the AWS Console access and provide a short description of why you need access. All AWS Console access requests will be reviewed by DEPO. **If you do not need access to AWS please mark "No" in the Grant AWS Console Access section**. Please ensure  all VA onboarding paperwork is submitted to your company/COR.
 
