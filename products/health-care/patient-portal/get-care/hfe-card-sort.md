@@ -1,0 +1,53 @@
+# Human Factors Card Sort Cards
+
+- Access information to learn more about your health condition(s)
+- Chat/instant message with a provider    
+- Check to see if a medication prescribed outside the VA is safely compatible with your current VA medications      
+- Complete assessments (such as mood or overall health)
+- Connect digital health tools (such as Apple Watch)           
+- Connect to a nurse triage center to talk about symptoms or healthcare concerns
+- Create a list of topics or concerns for an upcoming appointment
+- Create and track health and personal goals          
+- Enter or upload health information to share with your VA healthcare team           
+- Find mental health facilities available to you       
+- Launch video visit with your VA healthcare team               
+- Receive updates about VA healthcare    
+- Record health symptoms             
+- Record non-VA medications       
+- Record vitals or other health measurements, such as weight       
+- Record your family health history             
+- Record your food and/or drink intake     
+- Record your medical diagnoses 
+- Reference your medical events, such as surgeries             
+- Request a follow-up with a nurse or provider      
+- Request a VA prescription refill 
+- Request immediate care              
+- Search for nearby pharmacies
+- Search for VA facilities in your area         
+- See recommendations for VA tools or resources to address a specific need (such as an app to help with insomnia)               
+- Send secure messages to your VA healthcare team or read messages from them
+- Send your military history to the VA        
+- Send your provider your health information when you're not at an appointment
+- Send your VA healthcare team photos of a bruise, wound, or skin marking            
+- Send your VA healthcare team videos of you doing physical therapeutic activities              
+- Set an appointment reminder   
+- Set reminders for tasks like taking medications or checking vitals               
+- Share a list of allergies with the VA          
+- Share your non-VA medical history with your VA healthcare team             
+- Start, stop, or change sharing device data with VA            
+- Tell VA your preferences around virtual health   
+- Track exercises Import previously recorded health information from other apps, websites, or devices
+- Track the delivery of a VA prescription   
+- Track the medications you have taken   
+- Update contact information (address or email)
+- View accepted insurance for urgent and community care facilities             
+- View benefits   
+- View community care options available to you   
+- View data gathered from a digital device (such as a FitBit or glucometer)
+- View lab results
+- View names of providers on your VA healthcare team
+- View or download VA billing statements
+- View virtual care options available to you             
+- View your VA medications          
+- View, download, print, and/or share your VA medical record (Blue Button)           
+- View, schedule, or cancel a VA appointment
