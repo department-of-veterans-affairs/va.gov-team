@@ -14,7 +14,7 @@ InVision Prototype: [GIBCT Caution Flags SRP-Profile v0.0 - Desktop](https://bah
 Attendees: Cindy Cruz, Crystabel Reiter, Trevor Pierce, Theresa McMurdo, Jen Jones, Amy Knox
 
 Outcomes
-* DEPO Design: VA recommends not showing so many alerts at once as users start to gloss over their content
+* DEPO Design: VA recommends not showing so many alerts at once for a flagged school as users start to gloss over their content
   * BAH UX: mentioned schools are not often flagged, and when they are, most flagged schools contain 1, maybe 2 alerts. It's rare to see schools with a greater number of alerts. The school closing alert is also quite rare in the Comparison Tool. Schools with many alerts are quickly taken off search.
 * DEPO Design: Consider red warning alert for school closing flag
   * BAH UX: The guidance VA gives for the use of red alerts wouldn't necessarily apply in this context, as red error alerts are typically reserved for when there is a system issue or user error. 
