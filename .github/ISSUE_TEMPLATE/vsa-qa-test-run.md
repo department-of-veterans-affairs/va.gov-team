@@ -18,7 +18,6 @@ Execute manual UI test-run(s) on Staging for \[Product/Feature].
 - [ ] Attached to a **Milestone** (when will this be completed?)
 - [ ] Attached to **Epic** (what body of work is this a part of? possibly `Ongoing Maintenance`)
 - [ ] Labeled with **Team** (`vsa-authenticated-exp`, `vsa-benefits`, `vsa-benefits-2`, `vsa-caregiver`, `vsa-ebenefits`, `vsa-facilities`, `vsa-public-websites`, etc.)
-- [ ] Labeled with **Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `call center`, `research`, `accessibility`, `content`)
 
 ## Definition of Done
 
