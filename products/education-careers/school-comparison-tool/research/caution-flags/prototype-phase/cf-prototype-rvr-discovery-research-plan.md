@@ -29,10 +29,11 @@ The research is designed to answer the following questions:
 * Are GI Bill beneficiaries interested in following the links to learn more about the cautions?
 
 #### Reduce Veteran risk during school section
-
-* TBD
-* TBD
-* TBD
+* How do Veterans think of their GI Bill Benefits? Do they consider them an investment asset or is there another characterization that’s more accurate? 
+* Where would Veterans look to find information from VA on the schools that are risky investments of GI Bill Benefits?
+* What are Veterans thoughts on the responsibility of VA to alert them if a school they were planning to attend or are attending was flagged as a risk?
+* How would Veterans expect VA might alert them if the school they were planning to attend or were attending was flagged as risky?
+* Why might a Veteran choose to attend a school that VA knows to be a risky use of GI Bill benefits due to performance or other issues?
 
 ### What knowledge will make us feel like the research process has been successful?
 
