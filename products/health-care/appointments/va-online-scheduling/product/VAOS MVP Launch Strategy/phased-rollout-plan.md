@@ -20,7 +20,7 @@
 
 ## Phase 0: Pre-launch & launch prep [Due Pre-Launch]
 The goal of this stage is to ensure the tool is holistically ready for production launch
-- [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md) complete
+- [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/Product%20Dev%20Checklist%20-%20VAOS%20MVP.md) complete
 - New feature development stops; focus on integration testing, manual QA testing and bug squashing
 - Go / No Go decision for continuing to Phase 1:
   - [ ] All pre-launch checks completed without issue
