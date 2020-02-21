@@ -11,7 +11,7 @@ Last updated February 19, 2020
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
 | Jennifer Lee  | Public Websites Product Owner                 |
-| Kara Kemahli  | Product Manager                               |
+| Aruna Kucherlapati  | Product Manager                         |
 | Liz Lantz     | Designer/Researcher                           |
 | Nick Sullivan | FE Engineer                                   |
 | Kelson Adams  | FE Engineer                                   |
