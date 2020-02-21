@@ -1,4 +1,4 @@
-# ESLint Additional Rules
+# ESLint Rule Changes
 
 The front-end team will be introducing a new set of rules from a third-party plugin called SonarJS ([eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs)).
 
