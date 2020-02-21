@@ -5,7 +5,7 @@ This research plan is for the VFS-CMS Tool - VFS-CMS team.
 
 The VFS-CMS tool is VA.gov's content management system that provides the structured content templates, workflows and governance that help various teams at VA serve veterans accurate, accessible, up-to-date content.
 
-Our objective for this research is to identify VFS-CMS user personas and understand their experience with the _content editing_ and _CMS onboarding_ journeys. 
+Our objective for this research is to **identify VFS-CMS user personas and understand their experience with the Content Editing and the CMS Onboarding journeys**. 
 
 #### Hypothesis: 
 Our hypothesis is that we will be able to identify a first version of VFS-CMS user personas based on the way that they experience the the _content editing_ and _CMS onboarding_ journeys.
@@ -72,10 +72,8 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 - Observers: CMS engineer(s) 
 
 ## Resources	
-* Project Brief: [VFS-CMS](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-
+* [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys)
 * [WIP] Synthesis	
-
 * [WIP] Lessons Learned
-
 * [WIP] Read-Out/Results
