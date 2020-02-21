@@ -10,6 +10,7 @@ Our objective for this research is to evaluate the content proofing experience w
 * Understand the value of the View screen in the editorial workflow.
 * Understand how the View screen currently fits into the users' editorial workflow.
 * Evaluate comprehension of navigation and on-page interactions on the View screens.
+* Uncover the users' expectations for navigating to and away from the View screen.
 * Understand if labels provide enough context and guidance for users to complete their tasks with confidence and ease.
 * Uncover pain points, user expectations, and potential future features.
 
