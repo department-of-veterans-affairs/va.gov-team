@@ -29,14 +29,17 @@ To work on the Veteran-facing Services Platform, each team member needs to use t
 
 ## Additional orientation steps for developers
 
-The internal tools available include Grafana, Sentry, Prometheus and Jenkins. These tools are hosted internally and
+The internal tools available include Grafana, Sentry, Prometheus, and Jenkins. These tools are hosted internally and
 available for developers via proxy access. We use `ssh` and the Chrome plugin SwitchyOmega to route web requests from
 your browser to the SOCKS5 proxy for these private domains. For this we require the use of an `ssh` key pair to secure access.
 
-In addition to internal tools our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, log file review and to apply changes to the running instances and services. 
+In addition to internal tools our infrastructure is hosted in and makes use of services in AWS GovCloud. This account is shared amongst many different teams; changes made to resources in this account will affect many services. You will need access to AWS for troubleshooting, log file review, and to apply changes to the running instances and services. 
 
-We will be walking through how to request access outlined in the steps below. In order to be granted SOCKS access, please follow the steps to submit a request issue in Github below. SOCKS access will be granted as soon as an engineer can address your request.  In order to be granted AWS access your PIV background (eQUIP adjudication) check needs to be underway. **If you do not need access to AWS please do not mark "Yes" in the Grant AWS Console Access section**. Please also remember to submitted all VA onboarding paperwork to your company/COR.
- 
+For either SOCKS5 proxy and/or AWS Console access please create a "Environment Access Request" issue in Github. All SOCKS5 proxy access requests will be reviewed by VSP Operations. 
+
+In order to be granted AWS Console access your PIV background (eQUIP adjudication) check needs to be underway. Please mark yes in the AWS Console access and provide a short description of why you need access. All AWS Console access requests will be reviewed by DEPO. **If you do not need access to AWS please mark "No" in the Grant AWS Console Access section**. Please ensure  all VA onboarding paperwork is submitted to your company/COR.
+
+We will be walking through how to request access in the steps outlined below.
 
 #### 1. Create [new SSH keys](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md#create-ssh-public-key).
 
