@@ -7,7 +7,7 @@
 - We raised the flag to Melissa Rebstock about helping us wrangle some staging users, and she said she'd be able to help with that.
 - 5:00ish ET: While PRs were ready, they needed to be reviewed, and we still didn't have staging users.
 - 5:30ish ET: After conversations with Charles and Melissa Rebstock, both of whom had been talking to Brad Houston at VBA, we determined that it would be a bad idea to try to push things out tonight if we couldn't confidently verify that the fixes would work. Also, we were nervous about making such a big change on a Friday before leaving for the weekend. So, the call was made to **take down direct deposit for th weekend**.
-- 7:00 ET: Direct deposit has been taken down in production. Erik confirmed this with his account.
+- 7:00 ET: Direct deposit UI has been taken down in production. Erik confirmed this with his account.
 
 ## Next steps
 
