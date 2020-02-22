@@ -35,8 +35,8 @@
 | vnp686PersonCreate                | vnpPersonCreate             |             |
 | vnp686AddresCreate                | vnpPtcpntAddrsCreate        | This service is used to create VONAPP participant address information |
 | vnp686PhoneCreate                 | vnpPtcpntPhoneCreate        | This service is used to create VONAPP participant phone information |
-| vnp686StudentCreate               |                             |             |
-| vnp686SchoolCreate                |                             |             |
+| vnp686StudentCreate               | vnpChildStudentCreate       |             |
+| vnp686SchoolCreate                | vnpChildSchoolCreate        |             |
 | vnp686RelationshipCreate          | vnpPtcpntRlnshpCreate       | This service is used to create VONAPP participant relationship information  |
 | vnp686Benefit                     |                             |             |
 | vnp686Attachment                  |                             |             |
