@@ -50,6 +50,11 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 - 3 participants (6 scheduled, 3 canceled / no-show)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/research/wizard-update/prototype-phase) 
 
+#### January 16 - 17, 20-21: VSA Caregiver 1010CG Usability
+*Ad Hoc: Johnathan Nelson, Shawna Hein*
+- 14 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-plan.md)
+
 #### January 16 - 23: Facility Locator Urgent Care PDF & Content
 *Ad Hoc: Aricka Lewis*
 - 5 Participants
