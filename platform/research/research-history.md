@@ -14,6 +14,12 @@ __Please note that many links on this page reference research folders in the vet
 
 ### February 2020
 
+#### February 19-March 6: eBenefits Form 21-686c Add/Remove Dependents Workflows
+*Aricka Lewis, James Adams*
+
+- 15 participants 
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
+
 #### February 3-4: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing, Redux
 *Booz Allen: Amy Knox, Theresa McMurdo*
 
