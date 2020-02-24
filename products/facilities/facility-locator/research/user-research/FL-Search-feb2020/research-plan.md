@@ -30,7 +30,7 @@ Facility Locator is VA's single source of truth for customers to find VA facilit
 - We will use Zoom to conduct remote moderated usability testing sessions to observe how participants use the live VA facility locator	
 	
 ## Participants and Recruitment	
-We will work with Perigean to reach our goal of observing **10** particpants
+We will work with Perigean to reach our goal of observing **10** participants
 
 Criteria for recruiting:
 - 15 sessions scheduled
@@ -40,6 +40,7 @@ Criteria for recruiting:
 - 5 urban 
 - Veterans & Caregivers 
 - At least 3 participants who have used facility locator multiple times
+- Some participants with cognitive disabilities
 
 ## Timeline 	
 This study will take place from March 4 - 6, 2020.
