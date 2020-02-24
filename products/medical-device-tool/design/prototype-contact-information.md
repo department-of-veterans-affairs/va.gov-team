@@ -59,7 +59,7 @@ TBD
 
 ## Use case - Error handling 
 
-Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/CMW1O5S9ZQN)
+Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/CMW1O5S9ZQN) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5791)
 
 ### Description 
 TBD
