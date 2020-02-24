@@ -7,8 +7,8 @@ The Operations team can be “interrupted” by unscheduled requests that come i
 * Requests for assistance from the VFS or VSP teams
 * Support requests in the support channels
 * Responding to and reviewing any internal or external DevOps PRs
+* Respond and grant [approved access](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/operations/Internal_Onboarding_Instructions.md) to requests for access in Zenhub.
 * Supporting and monitoring deployments
-* Respond and grant approved access to requests from access in Zenhub.
 * Small, non-critical issues that can be easily stopped/started
 * Working on Postmortem action items.
 
