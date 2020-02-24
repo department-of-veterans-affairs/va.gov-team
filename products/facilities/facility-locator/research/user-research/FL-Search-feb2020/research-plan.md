@@ -41,6 +41,7 @@ Criteria for recruiting:
 - Veterans & Caregivers 
 - At least 3 participants who have used facility locator multiple times
 - Some participants with cognitive disabilities
+- Some participants who have used Community Care
 
 ## Timeline 	
 This study will take place from March 4 - 6, 2020.
