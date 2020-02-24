@@ -28,7 +28,7 @@ The following list is a set of resources compiled by the people in your practice
         - [Launch Checklist]()
         - [Product Demo Video Creation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/demo-video-creation-process.md)
 - Tools
-     - [Product Management Process in Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a2b160c2fbf52806323d6a54103229f99a730076/platform/working-with-vsp/onboarding/zenhub_product_management.pdf)
+     - [Product Management Process in Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/a2b160c2fbf52806323d6a54103229f99a730076/platform/working-with-vsp/orientation/zenhub_product_management.pdf)
      - [Vets/VA Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1L_w8FhhcOttMitKB3_9ge8UN01GcSXmaPZWDIRJIhxI/edit#gid=972187789)
      - [Access to Error Logging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/402a408fa77a421bae0a8a84ce0c43b4c601e55c/platform/engineering/internal-tools.md)
      - [VA.gov Form Mapping Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/va.gov-form-mapping-guide.xlsx)

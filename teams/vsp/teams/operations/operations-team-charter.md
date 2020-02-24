@@ -148,9 +148,9 @@ Points: Complexity Estimate
   - CMS build overview (ping TJ for recording)
   - VA overview (ping TJ for recording)
 - Zenhub (if you would want to go over ZH more ping TJ)
-  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf
+  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf
  - Access to Tools and AWS
-   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md
+   - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md
 - VSP Operations Calendar 
    - We maintain our meetings and OOO here.
 

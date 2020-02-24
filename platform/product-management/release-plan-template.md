@@ -72,3 +72,12 @@ More phases? Sure! If it makes sense for your product! Plan them out with the sa
 - Types of errors logged: lorem ipsum
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
+
+## Post-launch Questions 
+
+_To be completed once you have gathered your initial set of data, as outlined above._ 
+
+1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
+1. What qualitative feedback have you gathered from users or other stakeholders, if any?
+1. Which of the assumptions you listed in your product outline were/were not validated? 
+1. How might your product evolve now or in the future based on these results?

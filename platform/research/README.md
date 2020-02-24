@@ -47,12 +47,12 @@ Current maintainer of this directory: Lauren Alexanderson
 This folder includes research resources, processes & guidance, and information about the research practice. It does NOT include design components or research components for specific products. You should find those in the appropriate product folder.
 
 ## Getting Started
-Welcome to the team! If all has gone well, you've made it through our [main onboarding section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding) and you're ready to start working in your practice area. This should help you get started. 
+Welcome to the team! If all has gone well, you've made it through our [main orientation section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation) and you're ready to start working in your practice area. This should help you get started. 
 
-## Practice area onboarding
+## Practice area orientation
 You've already gone through the overall onboarding, but here you'll find information specific to research. Note that research falls under the [design practice](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/design), so most of the information will be found there. 
 
-### Onboarding: If you're new or need a refresher
+### Orientation: If you're new or need a refresher
 - [5 Things We Want You to Know about Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/discovery-sprints/what-you-should-know-about-research.md)
 
 ## Important Links

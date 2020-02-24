@@ -6,7 +6,7 @@ Thanks for joining us today! My name is Aricka and I also have some colleagues o
 
 Before we start, a few things I want to mention:
 
-- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about an hour.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
 - **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
 - **You'll be interacting with a prototype.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
 - **If for any reason and at any time you want to stop the session, please let me know.** 
@@ -21,59 +21,70 @@ Before we start, a few things I want to mention:
 
 Before we look at the prototype, let’s start with a few warm-up questions.
 
-- Please tell me about your service history.
+- Tell me about your service history.
 - What are your experiences adding or removing dependents from you disability claim?
-- Are you familiar with the VA 21-686 form? And what is your experience using the form (online or paper)?
+- Have you been recently married or do you have a child who recently started college?
+- Are you familiar with the VA 21-686 form? 
+    - And what is your experience with the form?
+    
+I will be asking you to complete a few tasks. Try to move a bit slower than you normally would on a website and talk me through your actions. Information shown will not reflect any of your actual information.
 
 ## Screenshare
-Will you share your screen with me? I'm going to send you a link. I will be asking you to complete a few tasks using this prototype. Try to move a bit slower than you normally would on a website and talk me through your actions.
+Will you share your screen with me? I'm going to send you a link to the VA.gov website.
 
 ## First Task: Find form
+- Moderator sends link to VA.gov to participant and asks them to share their screen (note moderator should have backup open on their own computer to share in case veteran can't figure out sharing)
 
-You've recently been married and want to add your new spouse and their child to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
+**Scenario**
+
+- You've recently been married and want to add your new spouse and their child to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
 OR
 
-Your child has recently started college and you want to add them to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
+- Your child has recently started college and you want to add them to your benefits. You have navigated to VA.gov, show us where you would go to find the form to do this.
 
 ### Things to watch for:
-- Take note of how the user navigates (or attempts) to the form
-- How many attempts do they make to get to the form?
+- Where does the participant click first? next?
+- Note: since this doesn't actually "exist" anywhere on the site at some point we would stop them once they'd navigated a few clicks in and let them know it doesn't actually exist currently.
 
 ## Second Task: Select form(s)
-Now that you've found this page, show us what you would do next.
+
+Great! You found it and ended up on this page. 
+
+Moderator shares prototype link: https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/?fullscreen (make sure the participant is still sharing screen)
+- What are your first impressions? 
 - Are the options shown clear to you?
+- Show us what you would do next to add your spouse and their child to your benefits.
 
 ### Things to watch for:
 - Does the participant know they can select multiple scenarios?
-- Make note of how the participant interacts with the checkboxes.
+- Make note of how the participant interacts with the optinons
 
 ## Third Task: Step through form
 
-Walk through the steps of this form. Be sure to think aloud and comment on the process of walking through the form.
+Go ahead and show us what you would do to add them.
+- Be sure to think out loud and comment on anything that you may find confusing, interesting, etc.
 
 ### Things to watch for:
-
 - Does the participant understand that all the workflows are within this form? 
 - Watch for any hiccups in the form process
 
 ## Fourth Task: Review application
 
-Take a moment to review the information presented on the screen. 
-- Click the area of the prototype to complete this application process.
+- Take a moment to review the information presented on the screen. 
+- Go ahead and show us what you would do to finish the application.
 
 ### Things to watch for:
-
 - Does the participant discern between the different scenarios?
 - Make note of how participant reviews form summary
 
 ## Fifth Task (if time): Remove
 
-Let's say that your step-child has moved out on their own. How would you go about removing them from your benefits?
+- Let's say that your step-child has moved out on their own. How would you go about removing them from your benefits?
 
 OR
 
-Let's say your child graduated college and is no longer eligible for your benefits. What would you do to remove them?
+- Let's say your child graduated college and is no longer eligible for your benefits. What would you do to remove them?
 
 ## Post-Task Interview
 - Would you prefer to complete multiple tasks at the same time? Or individually?

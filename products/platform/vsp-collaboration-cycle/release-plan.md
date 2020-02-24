@@ -30,8 +30,11 @@ _For unmoderated production testing, we will have ask all VSA teams to follow th
 - Desired number of unique users: 8 teams; ~50 users including DEPO team members
 - How you'll make the product available in production while limiting the # of users who can find/access it: resources will be live in `va.gov-team` repository 
 - "Success" criteria (by the numbers):
-  - < 20% of collaboration point survey respondents say `I'm not sure` regarding which collaboration point they just completed
-  - ≥ 50% of collaboration point survey respondents indicate positive responses 
+  - < 20% of collaboration point survey respondents say `I'm not sure` regarding which collaboration point they just completed _(note: we will also note the approximate percentage of respondents who answer this question incorrectly, but because the survey is anonymous we will not have accurate data)_
+  - Qualitative feedback from collaboration cycle survey
+  - Average elapsed time between request submitted and meeting (as applicable) scheduled < 24 hours
+  - Average elapsed time between request submitted and meeting (as applicable) scheduled < 4 business days
+ 
 
 ### Results:
 - Number of unique users: x
@@ -41,10 +44,12 @@ _For unmoderated production testing, we will have ask all VSA teams to follow th
 - Any UX changes necessary based on the logs, or feedback on user challenges, or VA challenges? yes/no 
 - If yes, what: lorem ipsum
 
-## Go Live!
+## Hard Launch (Go Live!) 
+
+_After completing a Go/No Go meeting, our hard launch will mean that we roll this process out to all remaining VFS teams._ 
 
 ### Planning:
-- Desired date: 3/16/20
+- Desired date: by end of March 2020
 - Post-launch KPI 1: xx lorem ipsum
 - Post-launch KPI 2: xx lorem ipsum
 - Post-launch KPI 3: xx lorem ipsum

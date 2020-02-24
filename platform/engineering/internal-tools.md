@@ -90,7 +90,7 @@ here are the steps to create one:
     * You will have a subdirectory in your home directory `~/.ssh`
     * This subdirectory has restrictive permissions `0700`
     * In this subdirectory you will have two files, `id_rsa_vetsgov` and `id_rsa_vetsgov.pub`.
-    * Got it? --> Back to [Onboarding for Developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md#additional-onboarding-steps-for-developers)
+    * Got it? --> Back to [Orientation for Developers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md#additional-steps-for-developers)
 
 ## Configure the SOCKS proxy
 
@@ -98,7 +98,7 @@ These steps assume you're running on Linux or OSX. There are slightly different 
 are connected to the VA network or not. You will need to run the SOCKS proxy on your local system whenever you need access to tools on the
 `vetsgov-internal` domain.
 
-1. [Follow this process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md) to have your new SSH key added to the list of authorized SSH keys.
+1. [Follow this process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md) to have your new SSH key added to the list of authorized SSH keys.
     * When your SSH key has been added, you will receive a Github notification that your key has been added. Once you receive the notification, continue with the steps below.
 
 1. Copy down the SSH configuration that you'll need locally to access the remote SSH servers.

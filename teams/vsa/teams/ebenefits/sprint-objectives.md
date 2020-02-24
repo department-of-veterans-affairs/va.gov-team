@@ -11,7 +11,7 @@ This is a high-level summary of the current goals and tasks in the current Sprin
 ----
 ## Sprint 15 (2/12 - 2/25)
 ```diff 
-- 36 points over 14 issues
+- 44 points over 17 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Prepare and run user research session on 686c/674 vision ([#5786](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5786))

@@ -1,111 +1,68 @@
-# Review Instances Product Outline
+# Product Outline Template
 
-## Points of Contact
+#### Communications
+- Team Name: VSP Operations, Tools BE, and Tools FE
 - GitHub Label: None
-- Slack channel: #vsp-operations
 
- 
----
 
-### Table of Contents
 
-# Executive Summary 
-- [User Problem Statement](#user-problem-statement)
-- [Solution Goals](#solution-goals)
-- [Assumptions](#assumptions)
-- [Requirements](#requirements)
-- [Constraints](#constraints)
-- [User Feedback and Findings](#user-feedback-and-findings)
-- [Decisions](#decisions)
-- [How it works](#how-it-works)
-- [The Plan](#the-plan)
-- [KPIs](#kpis)
-
-# Implementation Information
-- [Current Status](#current-status)
-- [Solution Narrative](#solution-narrative)
-- [Dependencies](#Dependencies)
-- [Key Words](#key-words)
-
+ For information on how to use review instances see this [doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md).
 
 ---
-# Executive Summary
 
+
+## Overview
 There are two types of review instances we use on VA.gov. the first is for testing content or any visual changes (Heroku instance) that may need to be made. The second is a way to test a service or application on VA.gov or a backend change. These review instances are a deployment of a combination of vets.api and vets-website at specified versions.
 
 The work we are undertaking is to make improvements to the second, in order to give the ability to developers to test against live backends in staging in order to improve the testing experience overall. 
 
-## User Problem Statement
-Today, review instances (instances of the website spun up when mailing out PRs, but before merging it) are in "dev", which has some networking implications but also the backend connections are mocked out. As a developer or designer on VA.gov it is very hard to see and test tools and test the interaction with a live backend in staging without merging to master.
+In the past, review instances (instances of the website spun up when mailing out PRs, but before merging it) were in "dev", which had some networking implications but also the backend connections were mocked out. Now they are pointing to staging and connected to pre-production live backends. 
 
-## Solution Goals
 
-Point review instances to staging and allow those instances to test pre-production backends. Also, make accessing review instances easier. 
+## Problem Statement
+Testing on VA.gov can be changeling for both VFS and VSP teams. A poor testing experience can slow down development and prevent  features reaching veterans in a timely manner. 
 
-### User Goals
-- Reviewers can test their code/functionality against live backends rather than mocks
-- Accessing review instances will be easier.
+How might we make testing a pleasant, easy, and self severice experience for all, so that teams can have a faster and more stable launch of their products. 
 
-### Business Goals
-- Developers can test easier before sending their changes to the master branch
-- Will help keep the master branch in a more deployable state
-- Help increase the rate of development on VA.gov
+## Desired User Outcomes
+Users find review instances make testing easier and some pain points around testing are resolved. 
+
+- *Why would a user want to use this?*
+- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+
+## Undesired User Outcomes
+Review instances are not useful and don’t address any of the problems that were raised by VFS teams.
+
+## Desired Business Outcomes
+Review instances allows for faster testing, which in turn allows for faster development on VA.gov. 
+
+- *Why would your business want this to exist?*
+- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+
+## Undesired Business Outcomes
+Review instances don’t work for most use cases and will have no future on VA.gov.
 
 ## Assumptions
-- People will use these updated review instances
-- We will be able to track who accesses their instance
-- This will greatly help improve the testing experience
-- Downstream partners will be ok with this.
+- Teams are using review instances
+- Teams find review instances useful for testing
+- Down stream partners are unaffected by us connecting to their preproduction backends
+- Review instances will increase development on VA.gov
 
-## Requirements  
+- *Include indication of which assumption you think is most risky. Your Solution Approach (next section) should describe how you'll validate that assumtion w/your initial set of functionality*
 
+## Solution Approach
+After having conversation with multiple teams and information from Operations and Service Design discovery sprints. The VSP Operations team saw a need to address the testing problem on VA.gov. Up to this point Operations were creating custom one off solutions for users who needed testing environment support. These solutions were not scalable or sustainable, so the Operations team looked into possible ways to address this problem. 
 
-## Constraints
+Review instances at the time where broken for a month and even though they were utilized on vets.gov, review instances had become a resource that VFS and VSP forgot or didn’t utilize. After some discovery, speaking with users, and testing, Operations found that they point review instances to staging and then connect them to preproduction backends  for a better testing experience. The Operations team decided to only work towards this goal, because the assumption was it would address the current users needs. Although the Operations team at the same time realized that a lot more work could be done to expand and improve upon this work. 
 
-
-## User Feedback and Findings
-Prior to this work review instances were in a broken state for months and no one even noticed. 
-
-### Direct mentions
-- https://dsva.slack.com/archives/CBU0KDSB1/p1581361696135200
-- https://dsva.slack.com/archives/CBU0KDSB1/p1579639667123500?thread_ts=1579636704.123000&cid=CBU0KDSB1
-- Launch of new review instances: https://dsva.slack.com/archives/CBU0KDSB1/p1581452208147200
-
-## Decisions
-
-
-## How it works
-Right now when a PR is created a link to the review instance will be populated in the PR that can be clicked and directed to the review instance. 
-
-[Demo video](https://dsva.slack.com/files/UJ2JYB7D2/FTYTGNLMV/review_instance_demo.mp4)
-
-### How to access
-- Please see instructions [here.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/backend/review-instances.md)
-
-## The Plan
-
-### Phase 1 
-
-### Phase 2 
+Now that we achieved this goal we will be working with both the  Backend and Frontend tools teams to make improvements and shape the future roadmap for review instances. This will be done by soliciting feedback, discovery, and iterating on the current solution. 
 
 
 ## KPIs
-### Objective
-Review instances are useful and fulfilling devs testing needs.
-
-### Tracking
 - Number of users accessing review instances (increase)
-- Testing satisfaction using review instances (increases) 
-  - Working with Service Design team to gather this data
+- Testing satisfaction (increases) 
+  - Working with Service Design team to gather this qual data
 
-
----
-
-# Implementation Information
-
-
-## Current Status
-- currently working on implementing changes to review instances.
 
 ## Solution Narrative
 - **November 2019**: Review instances became broken 
@@ -117,9 +74,17 @@ Review instances are useful and fulfilling devs testing needs.
 - **February 5**: review instance demoed for VSP
 - **February 11**: Live, but some clean up needs done
 
-## Dependencies
+### Current Status
+Review instances are connected to preproduction backends and pointing to staging. 
+
+### Key Decisions
+- Review instances could be the product to address some of the testing needs 
+- Focusing on qualitative date from VFS teams to drive discussions on review instances. 
+- Operations are only working to address the current need and will bring in Backend and Frontend Tools to help shape the future of review instances. 
 
 
-## Key Words
-- review instance
-
+### Feedback 
+- https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/product-discovery/misc-research/review-instances-feedback.md
+- https://dsva.slack.com/archives/CBU0KDSB1/p1581361696135200
+- https://dsva.slack.com/archives/CBU0KDSB1/p1579639667123500?thread_ts=1579636704.123000&cid=CBU0KDSB1
+- Launch of new review instances: https://dsva.slack.com/archives/CBU0KDSB1/p1581452208147200

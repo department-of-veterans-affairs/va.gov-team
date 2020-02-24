@@ -26,3 +26,24 @@ _VA.gov CMS team: Lapedra Tolson_
 
 * 2 participants
 * [Research folder](ax%20research%20-%20operating%20status%20discovery%20-%20August%202019)
+
+#### [WIP] February XX - March XX, 2020: CMS personas and journey maps 
+
+_VA.gov CMS team: Jordana Mello, Rachek Kauff_
+
+* X participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys)
+
+#### [WIP] February XX - March XX, 2020: Content proofing usability study 
+
+_VA.gov CMS team: Jordana Mello, Rachek Kauff_
+
+* X participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/content-proofing-usability-study)
+
+#### [WIP] February XX - March XX, 2020: Support channels log analysis 
+
+_VA.gov CMS team: Jordana Mello, Rachek Kauff, Howard Brande_
+
+* X participants
+* [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/support-channels-log-analysis)

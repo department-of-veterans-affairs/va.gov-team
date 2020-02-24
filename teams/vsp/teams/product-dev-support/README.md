@@ -1,19 +1,13 @@
 # Overview
-The Product Support team is iterating on a process to onboard new teams that are working on VA.gov. This folder includes research, planning, and decision documents related to that effort.
+The Product Support team is iterating on an orientation process for new teams that are working on VA.gov. This folder includes research, planning, and decision documents related to that effort.
 
-#### [Planning](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Platform/Onboarding/planning)
-Includes documents used to plan onboarding strategies for new teams.
+#### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/product-dev-support/research/onboarding-mvp)
+Includes initial research conducted during each new team's onboarding process to uncover what's working what can be improved. Raw surveys can be found in Adhoc's Optimal Workshop account. 
 
-#### [Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Platform/Onboarding/research)
-Includes research conducted during each new team's onboarding process to uncover what's working what can be improved.
+Note: Slide decks for VSP Orientation are typically created and updated in an Oddball Google Drive directory. If you need access, ask a team member in the #vsp-product-support Slack channel. 
 
-#### [Templates](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Platform/Onboarding/templates)
-Includes presentation, meeting agenda, and email templates used when onboarding new teams. 
-
-Note: Slide decks for onboarding new teams are typically created and updated in an Oddball Google Drive directory. If you need access, ask a team member in the #vsp-product-support Slack channel. 
-
-#### Onboarding Teams
-If you are looking for information about teams that are going through or have completed the onboarding process, check out the [Onboarding Teams folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/Platform/Teams/Product%20Support/Onboarding%20Teams). 
+#### Orientation
+If you are looking for information as a team going through or having recently completed orientation, check out the [Orienation Teams folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/README.md). 
 
 
 

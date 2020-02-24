@@ -76,8 +76,8 @@ We use [Zenhub](https://www.zenhub.com) with Github to turn the "Issues" section
 
 The "Issues" section of the ```va.gov-team``` repo is where all teams manage their Epics, User Stories, and agile workflow.
 
-* Learn how to [get started using Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_onboarding.pdf).
-* See [how we use Zenhub for product/agile management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/zenhub_product_management.pdf).
+* Learn how to [get started using Zenhub](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_onboarding.pdf).
+* See [how we use Zenhub for product/agile management](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/zenhub_product_management.pdf).
 
 
 ## Get help with Github

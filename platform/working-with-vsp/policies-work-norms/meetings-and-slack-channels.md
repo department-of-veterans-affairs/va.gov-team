@@ -3,7 +3,7 @@
 ## Meetings
 
 #### How to get added to the meeting invites
-Prior to onboarding, VFS teams will be asked to send over a list of team member contact information. Once the Platform team gets the team's contact information, the Product Support team will send meeting invitations.
+Prior to VSP orientation, VFS teams will be asked to send over a list of team member contact information. Once the Platform team gets the team's contact information, the Product Support team will send meeting invitations.
 
 #### VA.gov Weekly Design + Content + Research sync
 

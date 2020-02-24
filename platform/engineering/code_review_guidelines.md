@@ -8,11 +8,14 @@ This document covers rules for engaging the VSP team in [pull request reviews](h
 
 We expect developers to be familiar with GitHub and the pull request review process, but want to be clear about our norms to reduce confusion and help code flow through the process as quickly and reliably as possible.
 
+## Code owners 
+
+Information on how VSP uses code owners can be found [here](code-owners.md).
 
 ## The pull request review lifecycle in brief
 
 1. For initial review by your project team, create a [Draft Pull Request](https://github.blog/2019-02-14-introducing-draft-pull-requests/)
-2. Once you are ready for the VSP team to review your PR, use the GitHub *Ready for review* button in the merge section of your pull request. An engineer should review the code within one business day. 
+2. Once your team has given it an approving peer review, use the GitHub *Ready for review* button in the merge section of your pull request. An engineer should review the code within one business day. 
 3. Each additional round of changes will be reviewed within one business day.
 4. When all review comments have been resolved, the PR can be merged into the master branch for deployment.
 

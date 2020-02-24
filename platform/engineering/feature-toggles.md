@@ -5,7 +5,7 @@ It's possible to enable/disable a feature entirely, for a percentage of all user
 Our feature toggles are powered by an open-source gem called [Flipper gem](https://github.com/jnunemaker/flipper)
 
 ## Managing Feature Toggles
-Features can be enabled/disabled in the Flipper user interface. To access the Flipper UI, first log in using an identity-verified id.me user listed in  [settings.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml#L397). If you're not sure if your account is identity-verified, you can check by going to [this page](https://www.va.gov/health-care/refill-track-prescriptions/). If you need to verify your account you'll see a "Verify your Identity" button.
+Features can be enabled/disabled in the Flipper user interface. To access the Flipper UI, first log in using an identity-verified id.me user listed in  [settings.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml#L397). If you're not sure if your account is identity-verified, you can check by going to [this page](https://www.va.gov/profile/). If you need to verify your account you'll see a "Verify with ID.me" button.
 
 |Environment|URL|
 |---|---|
@@ -17,7 +17,7 @@ The most basic action is to toggle the green/red "enable/disable" button to togg
 
 We can also roll out a feature for a select few users by adding the their email adddress to the actors section. For performace reasons, the list of actors is intended to be small, do not use for hundreds of users.
 
-<img width="1287" alt="Screen Shot 2019-09-20 at 4 20 04 PM" src="https://user-images.githubusercontent.com/19188/65519962-7595bf00-deac-11e9-9bb3-d81f376241e4.png">
+<img width="1287" alt="Screen Shot" src="https://user-images.githubusercontent.com/19188/74881655-b4d11a80-533b-11ea-8e97-fdea24c10830.png">
 
 
 ## Front End Implementation

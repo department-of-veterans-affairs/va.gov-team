@@ -7,7 +7,7 @@ Product Outline
 - Slack channel: #vsa-bam-2
 - Product POCs:
   - Matthew Self, DEPO Lead
-  - Nick Wygoink, BAM2 Product Manager
+  - Leah Keeler, BAM2 Product Manager
 
 - Stakeholders:
   - Pat Booth – Chief, Veteran Services Division (VSD)
@@ -45,10 +45,10 @@ Product Outline
 # Executive Summary
 
 ### User Problem Statement
-As a Veteran, I wish there was a way to order all my prosthetic socks and/or hearing aid items online.  
+As a Veteran, who is eligible to re-order hearing aid batteries and accesories from the Denver Logistics Center, I would like to be able to see what items I can reorder on line and the date I am eligible on-line without having to call or email the support center. As the DLC, I would like to migrate more users to online self service reordering system to decrease call center volume and reduce costs.
 
 ### Solution Goals
-Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system.
+Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system and makign the user experience easy adn intuitive.
 
 ### Minimal Viable Product (MVP)
 Medical Device Tool features: 
@@ -71,10 +71,12 @@ Streamline the Veterans ordering process by:
 ### Business Goals
 DLC
 -	Migration of orders from other offered channels to the online channel. 
--	Success is defined by DLC as 24,000 online orders per quarter.
+-	Currently the online channel is used by 7,000 veterans per month. Other channels are IvR, direct email, call center and reorder forms account for 180,000 per month.
+-The business goal is to migrate veterals from channels that have a high cost per order to online self service channel. 
+-A QoQ migration of 5% to online channel would be considered a huge win.
 
 -Primary Objectives:
-> - Transition hearing aid battery and prosthetic sock resupply ordering from eBenefits to VA.gov
+> - Transition hearing aid battery resupply ordering from eBenefits to VA.gov
 > - Add online resupply request capability for common hearing aid accessories
 > - Minimize need for Veteran data entry in online channel
 > - Maximize DLC processing of requests via automated methods

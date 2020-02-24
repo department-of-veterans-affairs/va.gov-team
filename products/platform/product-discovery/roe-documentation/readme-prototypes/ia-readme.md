@@ -73,7 +73,7 @@ The following list is a set of resources for practicing IA on VA.gov and to help
 - [XML Sitemap](https://www.va.gov/sitemap.xml)
 
 **Documentation Site (va.gov-team Github repo)**
-- [Guidelines for using the va.gov-team Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
+- [Guidelines for using the va.gov-team Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md)
 
 ## Questions?
 

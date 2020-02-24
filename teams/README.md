@@ -5,7 +5,7 @@ This space is for all teams currently working on and with the platform. Teams ca
 - If you are looking for documentation on the tools and services provided by VSP, please see [/platform](../platform/README.md). 
 
 ### Using this space
-For information on how to use this space, please review the [guidelines and best practices for using the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md). 
+For information on how to use this space, please review the [guidelines and best practices for using the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md). 
 
 Core documentation required for each team (as well as each sub-team when applicable):
 - Team README.md file - Please be sure to fill out the information on your team's README.md file. 

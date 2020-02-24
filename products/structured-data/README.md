@@ -33,7 +33,7 @@ How might we expedite the establishment of burial benefit claims?
 To reduce this redundancy, we will connect VA.gov directly to the claims-processing systems and automate the establishment of burial claims. These connections will be reusable and available to expediate even more online form submissions.
 
 ### North Star Metric
-
+Time it takes for claimants to receive benefits.
 
 ### Desired Outcome
 #### Hypothesis

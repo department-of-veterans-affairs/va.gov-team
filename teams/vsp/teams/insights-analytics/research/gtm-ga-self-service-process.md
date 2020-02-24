@@ -8,18 +8,18 @@
 3) be able to scale
 
 ## Current Process
-1. Discovery/Onboarding - Insights
+1. Discovery/VSP Orientation - Insights
 2. FE Implementation - Engineering
 
     _Most common elements in static content and forms libraries_
 3. Tagging Implementation - Insights
 4. QA - Insights
 
-### Onboarding Discussion
+### VSP Orientation Discussion
 Identify team members who will be engineering points of contacts
 
-### Post Onboarding Discussion
-- Nedie and Jon - reach out and schedule implementation onboarding
+### Post Orientation Discussion
+- Nedie and Jon - reach out and schedule implementation orientation
 - Identify who, if any, POCs will need edit access on GTM and GA.
 
 ---

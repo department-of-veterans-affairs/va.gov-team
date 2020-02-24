@@ -10,7 +10,7 @@ We want to help you measure the success of the products you are building for vet
 
 #### Getting Started
 
-After your onboarding, please check out these resources:
+After your VSP orientation, please check out these resources:
 
 1. [Google Analytics Opt-Out](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/google-analytics/opting-out-google-analytics.md)
 

@@ -1,6 +1,6 @@
 # Yellow Ribbon MVP Product Outline
 
-Last updated January 30, 2020
+Last updated February 19, 2020
 
 ## POCs
 
@@ -11,7 +11,7 @@ Last updated January 30, 2020
 | Name          | Role                                          |
 | ------------- | --------------------------------------------- |
 | Jennifer Lee  | Public Websites Product Owner                 |
-| Kara Kemahli  | Product Manager                               |
+| Aruna Kucherlapati  | Product Manager                         |
 | Liz Lantz     | Designer/Researcher                           |
 | Nick Sullivan | FE Engineer                                   |
 | Kelson Adams  | FE Engineer                                   |
@@ -133,11 +133,12 @@ As a Yellow Ribbon data producer, I want to submit timely up-to-date Yellow Ribb
 - We are not addressing the process of gathering and inputting Yellow Ribbon data, or taking it upon ourselves to ensure accuracy of this data
 - We will leverage the GIDS API for our data source
 - Our MVP will stand alone rather than on the current Yellow Ribbon hub page
+- [IA Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/websites-yellow-ribbon.md) from VSP available as of 2/19/20
+- [History of design decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/yellow-ribbon-mvp/yellow-ribbon-design-decisions.md) available to review
 
 #### Pending Decisions
 
-- Redirect strategy for existing Yellow Ribbon content to our tool
-- How will users get to the new tool from the current Yellow Ribbon page?
+- Redirect strategy for existing Yellow Ribbon content to our tool, work captured in [#4975](https://github.com/department-of-veterans-affairs/va.gov-team/issues/4975)
 
 ## The Plan
 
@@ -191,3 +192,4 @@ GIDS API (need link from developers)
 ### Screenshots
 
 #### Yellow Ribbon Before
+(Stuck. I don't know how to put screenshots in this .md file)

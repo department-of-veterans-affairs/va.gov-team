@@ -117,7 +117,7 @@ Is something broken?
 * [Review Instance](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/review-instance.md)
 * [SEO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/seo-best-practices.md)
 * [vets-api](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/engineering/backend/vets-api)
-* [Yeoman application generator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/Yeoman%20application%20generator.md)
+* [Yeoman application generator](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/yeoman-application-generator.md)
 
 ### Identity
 

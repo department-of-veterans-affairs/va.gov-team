@@ -27,7 +27,7 @@ Empower teams across VA to contribute experiences and tools that enable Veterans
 ## Biggest pain points
 - Current Handbook + checkpoint structure encouraged Waterfall.
 - Checklists in their current state didn’t incentivize outcome-driven decision-making.
-- Handbook w/o onboarding was hard for VSA teams - made for onerous code reviews.
+- Handbook w/o orientation was hard for VSA teams - made for onerous code reviews.
 - When VA stakeholders weren’t bought into the process, regardless of how great the VSA team was, it led to undesirable product decisions.
 - VSA teams weren’t discovering errors on their own.
 - Bad code contributed without isolation framework in place had wide negative impacts.
@@ -37,7 +37,7 @@ Empower teams across VA to contribute experiences and tools that enable Veterans
 ## Biggest Risks
 - If a VSA launches and either isn’t performant or causes negative impact, it will reflect poorly on VSP.
 - If process/instrumentation isn’t ready, but we rush to bring VSA Teams through those parts of VSP anyway, we’ll perpetuate the pain points of Apr 2018 - May 2019 and won’t be closer to achieving our desired outcomes.
-- If we don’t have funding to apply to the Optional tasks in the near future (next couple of months), we won’t be able to support more than the current external teams (CMS, VA.gov, VA API, Education) and we won’t have MVPs for the full VSP experience - will be missing critical Onboarding and API pieces.
+- If we don’t have funding to apply to the Optional tasks in the near future (next couple of months), we won’t be able to support more than the current external teams (CMS, VA.gov, VA API, Education) and we won’t have MVPs for the full VSP experience - will be missing critical orientation and API pieces.
 - If we overpack our Sprints, we won’t have time for tech debt or unexpected complexity, and will end up with shoddy, manual-based systems and processes that can’t scale.
 - If we don’t make it impossible to ignore issues with product performance, VSA teams will not track/resolve issues with their products’ performance.
 - If we continue relying on blocking applications from launching on Platform as a quality management tool, we will not be empowering VA and we will hurt our relationships with stakeholders and VSA teams.
@@ -51,7 +51,7 @@ Empower teams across VA to contribute experiences and tools that enable Veterans
 1) Test MVPs of VSP features/services/docs with real VSA Teams. Iterate, and continue testing.
 1) Concurrently, as we learn and iterate, define what VSP is (and what it is not) and create outreach materials intended for wide dissemination.
 1) Concurrently, compile list of prospective VSA teams and test Intake rules. Iterate, test again.
-1) Set expectations (esp wrt intake and onboarding) across VA through comms plan.
+1) Set expectations (esp wrt intake and orientation) across VA through comms plan.
 1) Continue running intake, iterating on features/processes/docs, supporting VSA teams.
 
 ## Assumptions

@@ -4,7 +4,7 @@ VA.gov uses the paid tier for Google Analytics, called Google Analytics 360 or G
 
 _Audience for this Resource_: This resource is for all team members who want to understand the tools available to VA.gov for measuring our success and how these platforms are accessed. 
 
-_Access_: To access Google Analytics, you should have completed onboarding or requested access via #vfs-platform-support. Your VA.gov or contractor email address must be tied to a Google Account before we can provision you with access. 
+_Access_: To access Google Analytics, you should have completed VSP orientation or requested access via #vfs-platform-support. Your VA.gov or contractor email address must be tied to a Google Account before we can provision you with access. 
 
 ## Analytics
 

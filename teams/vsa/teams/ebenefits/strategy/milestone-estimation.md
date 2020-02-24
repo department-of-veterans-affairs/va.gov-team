@@ -4,14 +4,14 @@
 # Milestone Estimations
 | **Feature** | **Type** | **Minimum** | **Maximum** | **Completion Estimate (min)** |
 | ---- | ------- | ------------------ | ------------------ | ------- |
-| Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
+| :heavy_check_mark: Rated Disabilities | View  | 11 sprints (2 months, 3 weeks) | 20 sprints (5 months)  | Sept - Feb |
 | View Dependents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - Feb |
 | Submit Dependents | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Dec - May |
-| View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Mar - Jun |
-| View Representative/ POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jun |
+| View Payment History | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Mar - Apr |
+| View Representative/POA | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jun |
 | Add or Update Representative/ POA | Submit  | 11 (2 months, 3 weeks) | 20 (5 months)  | Apr - Jul |
-| View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Aug |
-| Document SEP Features* | Discovrtu  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
+| View My Documents | View  | 11 (2 months, 3 weeks) | 20 (5 months)  | May - Jun |
+| Document SEP Features* | Discovery  | 11 (2 months, 3 weeks) | 20 (5 months)  | TBD |
 
 `*` - Fill in when available? 
 # Sample Lifecycle

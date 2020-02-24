@@ -15,7 +15,7 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 > _Please see the following information for implementation timeline:_
 > New Teams: Implementation will usually be completed in 4 sprints:
 > 
-> - Sprint 1: Discovery/Onboarding
+> - Sprint 1: Discovery/Orientation
 > - Sprint 2: FE Implementation
 > - Sprint 3: Tagging Implementation
 > - Sprint 4: QA
@@ -60,13 +60,13 @@ Use this template to request Google Tag Manager and Google Analytics implementat
     
     - [Other user interactions here]
 
-- Sample Users when authentication is required
+- Sample Users when authentication is required _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
 
-    - [Provide users here]
+    - [Provide sample users or link to user information here]
 
-- Test Users to replicate the event
+- Test Users to replicate the event _**do not put staging credentials in your `va.gov-team` ticket; store or reference them in a .md file in the `va.gov-team-sensitive` repository**_
 
-    - [Provide test users here]
+    - [Provide test users or link to user information here]
 
 - Certain conditions/responses that need to be reviewed
 
@@ -80,6 +80,7 @@ Use this template to request Google Tag Manager and Google Analytics implementat
 
 ## Acceptance Criteria
 - [ ] QA has been completed
+- [ ] VFS team completes brief [VSP Collaboration Cycle Feedback](https://adhoc.optimalworkshop.com/questions/20260uu8-0-0/questions/before) survey
 
 ## Definition of Done
 - [ ] All appropriate issue tagging is completed

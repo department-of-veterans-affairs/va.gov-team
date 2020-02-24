@@ -41,7 +41,18 @@ We need to determine an efficient way of getting PACT members and assignments. T
 
 ### Risk
 
-The primary risk if this recommendation is wrong is that some subset of Veterans will be able to schedule into clinics that they shouldn't be able to. Direct scheduling accounts for around 40% of submissions in legacy VAOS, and this would be a small subset of primary care DS users. In addition, users scheduling into the wrong clinics is a problem in general with VAOS. While we don't want to make this problem worse, it is not an issue that sites have not had to deal with in the past.
+The primary risk if this recommendation is wrong is that some subset of Veterans will be able to schedule into clinics that they shouldn't be able to. Given the following scenario:
+
+1. A Vetern has an active PACT
+2. That PACT has an assigned primary care provider, but they're not active
+3. A primary care VistA clinic is associated with the primary care provider who is inactive in PCMM
+4. All other providers in the team are also inactive (or the primary care provider is the only team member)
+
+Currently, if 1-3 are true, VAOS will allow the patient to direct schedule, but if 4 is true, then it will stop you. With the removal of the PACT service check, the patient will no longer be stopped from scheduling.
+
+According to the PCMM product owner, 4 would be "unusual." It's also worth noting that 1-3 are likely to be much more common than 4, so if this is actually a problem, it would already be occuring, and this recommendation would only impact the patients in the unusual circumstance of having a PACT with no active providers.
+
+Direct scheduling accounts for around 40% of submissions in legacy VAOS, and this would be a small subset of primary care DS users.
 
 ### Areas of uncertainty
 

@@ -23,5 +23,5 @@ Types of content relevant for this meeting:
 Types of content **not** relevant for this meeting:
 
 * Work status updates
-* Onboarding / ramp-up for new teams (see Product Support team)
+* Orientation / ramp-up for new teams (see Product Support team)
 * Asking for help with specific technical issues (see #vfs-platform-support)

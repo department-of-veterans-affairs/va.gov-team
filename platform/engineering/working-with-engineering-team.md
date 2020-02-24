@@ -13,7 +13,7 @@ This document helps all teams working on VA.gov understand when you should engag
 
 VSP Engineering is responsible for maintaining the application code, building tools to help the development process, and keeping the platform available and performant. Responsibilities for this work are divided between the back-end engineering team, the front-end engineering team, and the devops team. In addition, the support team has dedicated front-end and back-end engineers that can directly work with VFS teams to help ensure a successful project.
 
-**Onboarding new teams**
+**Orientation for new teams**
 - The support engineers will schedule breakout meetings for your engineers to help explain the tools, services, support, and documentation available to you.
 
 **During development**

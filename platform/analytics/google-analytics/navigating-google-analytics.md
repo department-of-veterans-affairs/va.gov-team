@@ -11,7 +11,7 @@ Each property has its own unique ID, and we route lower environment traffic from
 
 ### Accessing the Properties
 
-In the onboarding process, your PM should request Google Analytics access for you. If you don't see the Production and Non-Production properties available, please reach out to us for further assistance. 
+In the VSP orientation process, your PM should request Google Analytics access for you. If you don't see the Production and Non-Production properties available, please reach out to us for further assistance. 
 
 ### Views
 

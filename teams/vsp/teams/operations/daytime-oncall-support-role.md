@@ -3,14 +3,15 @@
 The Operations team can be “interrupted” by unscheduled requests that come in from the VFS or VSP teams, leadership, monitoring, and other teams and stakeholders at the VA. We want to find some ways to reduce the interruptions for individual team members and clarify who is responsible for handling each request by funneling individual tasks through one person. This person will, handle things that can be handled directly and efficiently and delegate things that cannot. Some specific examples of the kind of requests handled by this developer are:
 
 * Normal daytime oncall [responsbilites](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall) 
+* Monitoring oncall channel
 * Requests for assistance from the VFS or VSP teams
 * Support requests in the support channels
-* Monitoring oncall channel
-* Supporting and monitoring deployments
 * Responding to and reviewing any internal or external DevOps PRs
+* Supporting and monitoring deployments
+* Respond and grant approved access to requests from access in Zenhub.
 * Small, non-critical issues that can be easily stopped/started
 * Working on Postmortem action items.
-* Respond and grant [approved access](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/operations/Internal_Onboarding_Instructions.md) to requests for access in Zenhub.
+
 
 There is no intention to permanently assign this role to a single person -- this is a shared responsibility assigned to the entire team much like handling oncall responsibilities and implemented by a single person on a rotating basis.
 

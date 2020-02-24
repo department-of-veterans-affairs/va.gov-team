@@ -41,7 +41,7 @@ CMS support is available anytime you have questions or want to collaborate on yo
 
 ### For developers 
 
-**Onboarding**
+**Orientation**
 
 - needs writing
 
