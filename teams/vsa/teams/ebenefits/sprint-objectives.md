@@ -1,4 +1,4 @@
-# eBenefit Sprint Objectives :rocket:
+# eBenefits Transformation Sprint Objectives :rocket:
 This is a high-level summary of the current goals and tasks in the current Sprint set forth by the [eBenefits Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/charter.md).
 
 ### Guided by:
