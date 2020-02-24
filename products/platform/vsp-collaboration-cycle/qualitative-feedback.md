@@ -21,3 +21,9 @@ _Rollout meetings with VSA teams_
 "I got immediate feedback from my team that they are very stoked about the new and more organized process" 
 
 "I feel like (partially because we were working closely with Shawna) we did some of the check-ins (even though it was a bit disjointed). I am into it. I work better when there are processes in place!"
+
+"Nothing in particular just felt very dense, not that it shouldn't be, just felt like more time should have been allotted for the meeting."
+
+"It seems like there should be more in between Discover and Build - like checkins on progress, etc"
+
+"Excited to try it!"
