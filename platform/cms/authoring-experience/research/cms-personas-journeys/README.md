@@ -75,7 +75,7 @@ The research will be piloted with Kevin Walsh, VFS-CMS Product Manager
 
 ## Resources	
 * [Project Brief](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms)
-* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys)
+* [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys/conversation-guide)
 * [Recruitment Comms](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/authoring-experience/research/cms-personas-journeys/recruitment-comms)
 * [WIP] Synthesis	
 * [WIP] Lessons Learned
