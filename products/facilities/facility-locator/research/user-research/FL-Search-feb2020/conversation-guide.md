@@ -30,7 +30,7 @@ I'm going to send you a link to the VA website. Once you have it pulled up, will
 ## First Task: Find facility locator
 
 **Scenario**
-- You've come to the VA website because you need to find (EXAMPLE HERE). Show us what you would do to find it.
+- You've come to the VA website because you need to find a facility that will (EXAMPLE HERE). Show us what you would do to find it.
 
 ### Things to watch for:
 
