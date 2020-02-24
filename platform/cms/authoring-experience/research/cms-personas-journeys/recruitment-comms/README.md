@@ -18,7 +18,9 @@ Would you be interested in helping us?
 ---
 ##### [follow-up contact after participant indicates that they’re interested]
 
-Great! We really appreciate your participation. The next step is to gauge your availability, then we’ll send an official followup email to confirm a time. Can you give me a sense of when you’d be able to participate during March 9th and 20th?
+Great! We really appreciate your participation. The next step is to gauge your availability, then we’ll send an official followup email to confirm a time. Can you give me a sense of day you would be able to participate in a session? The slots are:
+- March 9 - 13, between 11 am EST and 7 pm EST?
+- March 16 - 20, between 9 am EST and 7 pm EST?
 
 
 #### Email template
