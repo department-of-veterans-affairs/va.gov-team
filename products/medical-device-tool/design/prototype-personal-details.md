@@ -1,7 +1,7 @@
 # Prototype: C1 P1: Personal details 
 
 Navigation: <br>
-[Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content)
+[Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md#content)
 
 Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/2FVSYCEPT7E)
 
