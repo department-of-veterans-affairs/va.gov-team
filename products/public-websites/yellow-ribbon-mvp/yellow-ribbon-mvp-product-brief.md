@@ -193,4 +193,4 @@ GIDS API (need link from developers)
 
 #### Yellow Ribbon Before
 ![Screenshot of Yellow Ribbon hub page, highlighting open accordion list of states linking to Yellow Ribbon school lists ](../images/yr-hub-feb2020.png)
-![An example Yellow Ribbon page on benefits.va.gov showing a large data table listing schools](../images/yellow-ribbon-hub-feb2020.png)
+![An example Yellow Ribbon page on benefits.va.gov showing a large data table listing schools](../images/yr-example-state-page-feb2020.png)
