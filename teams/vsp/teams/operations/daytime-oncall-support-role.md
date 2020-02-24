@@ -6,9 +6,9 @@ The Operations team can be “interrupted” by unscheduled requests that come i
 * Monitoring oncall channel
 * Requests for assistance from the VFS or VSP teams
 * Support requests in the support channels
+* Responding to and reviewing any internal or external DevOps PRs
 * Supporting and monitoring deployments
 * Respond and grant approved access to requests from access in Zenhub.
-* Responding to and reviewing any internal or external DevOps PRs
 * Small, non-critical issues that can be easily stopped/started
 * Working on Postmortem action items.
 
