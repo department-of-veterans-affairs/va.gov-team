@@ -21,7 +21,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/view-and-update-dependents/README.md#okrs--kpis)
+- [OKRs & KPIs](#okrs--kpis)
 
 # Implementation Information
 - [Status](#status)
@@ -118,19 +118,23 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 4. Make it easier to find the dependent management tools; increasing the number of applications
 
 ## OKRs & KPIs
-
-**Objective 1:** Greater number of Veterans applying to get benefits associated with their dependents.
+### OKRs - Q1/Q2 2020
+**Objective 1:** More Veterans apply to associate benefits with their dependents.
 - Key Results 1: Data shows the number of views of the 686 application has increased since migration; statistically significant increase in traffic
-- Key Results 2: Data shows more applications are being successfully submitted; statistaclly significant increase in number of approved submissions 
+- Key Results 2: Data shows more applications are being successfully submitted; statistically significant increase in number of approved submissions 
 
 **Objective 2:** Faster delivery of benefits obtained for the Veteran.
-- KR1: Data shows that more 686 applications are being automatically approved within the Rules Based Processing Service; RBPS is automatically processing statistically significantly more 686 applications 
+- KR1: Data shows that more 686 applications are being automatically approved within the Rules Based Processing Service (RBPS); RBPS is automatically processing statistically significantly more 686 applications 
 - KR2: Data shows that the new 686 user experience within VA.gov results in a faster fill out time compared to the eBenefits portal
 
-**Objective 3:** Increased conversion rate of successful, automatically approved forms.
+**Objective 3:** More Veterans successfully associate dependents with their benefits.
 - KR1: Data shows that RBPS is automatically approving more 686 forms upon submission compared to previous instance
 - KR2: Data shows that the payload has been improved resulting in more accurate applications making it easier to approve if not done by RBPS (for some reason)
 
+### KPIs
+- Number of 686 applications submitted
+- Time to 686 approval (<-- potential initiative North Star)
+- Number of 686 applications approved
 
 ---
 
