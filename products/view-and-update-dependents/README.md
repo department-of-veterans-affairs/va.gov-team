@@ -21,7 +21,7 @@
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/view-and-update-dependents/README.md#okrs--kpis)
 
 # Implementation Information
 - [Status](#status)
