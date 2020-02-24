@@ -24,7 +24,7 @@ _What outcome(s) do we want to see?_
 - [ ] _What work is necessary for this story to be completed?_
 
 ## Acceptance Criteria
-- [ ] _What needs to happen or be created?_
+- [ ] _What will be created or happen as a result of this story?_
 ---
 ## How to configure this issue
 - [ ] **Attached to a Milestone** (when will this be completed?)
