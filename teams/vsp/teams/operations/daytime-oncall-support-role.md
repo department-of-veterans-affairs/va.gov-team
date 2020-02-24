@@ -52,10 +52,10 @@ Your Github team notification and #vsp-operations channel can be used to track P
 
 Create an issue describing the request in GitHub and link it to one of the two super-epics. Assign it to yourself. Track any work done with comments. Only track support that takes more than 15 mins and if it a PR that takes under 15 mins please link to the super epic. If the support work seems to be taking you down a long road, make a note around this and bring to the team to scope out into a project. Unless an emergency doesn't spend more than 2 hours on any given support work. Summarize both failed attempts and final solutions so the issue can be referred to again in the future if necessary. If other team members are involved, add them to the ticket.
 
-## Working on Postmortem action items
+### Working on Postmortem action items
 In Zenhub there is a label entitled "Postmortem Action Item". These are tasked that have been itentifted after an incident's postmotem. The daytime oncall Dev should work of these items If there is no active support work or incident. If there is another dev working on the Postmortem Action Items connect with them to try and see how to help get that work completed. 
 
-## Supporting and Monitoring Deployments
+### Supporting and Monitoring Deployments
 If deploys fail and there is no direct owner, take some time to try and find the cause of the failed deploy. If you do decide to look into a failed deployment make sure to start a thread under it and let others know. 
 
 ### Everything else
@@ -67,6 +67,6 @@ If there is nothing else to do, here are a few more ideas:
 * Dig into an area of the code you are unfamiliar with
 * Pair with another developer to help move their issue forward
 
-## Ongoing review
+### Ongoing review
 
 At the end of each rotation, we’ll work to generate a report and figure out between the PM, tech lead, and both current and next utility developer how to adjust the process to continue to make things as smooth and easy as possible for the entire team while also providing excellent support to each other and teams working on VA.gov.
