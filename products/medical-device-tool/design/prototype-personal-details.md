@@ -3,10 +3,10 @@
 Navigation: <br>
 [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md#content)
 
-Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/2FVSYCEPT7E)
+Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/2FVSYCEPT7E) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5161)
 
 ### Description 
-This is the _Vetera's personal details_ screen meant to validate the veteran's identity. The initial focus point should be on the H1: _Order hearing aid batteries and accessories_
+This is the _Veteran's personal details_ screen meant to validate the veteran's identity. The initial focus point should be on the H1: _Order hearing aid batteries and accessories_
 
 ### Feedback 
 TBD
