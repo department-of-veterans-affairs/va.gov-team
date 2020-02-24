@@ -1,28 +1,28 @@
-Research recruitment comms
+## Research recruitment comms
 
-Communication process:
-Audience: VSA public website teams, ~ 11 people 
-Reach out in Slack via individual DM to get availability and gauge interest
-Send followup email to serve as official invite and confirmation for scheduling
+### Communication process:
+- Audience: VSA public website teams, ~ 11 people 
+- Reach out in Slack via individual DM to get availability and gauge interest
+- Send follow-up email to serve as official invite and confirmation for scheduling
 
-Slack template
-[Initial contact:]
+#### Slack template
+##### [Initial contact]
 
 Hi [NAME],
-I’m Jordana, the design lead on the CMS team responsible for making improvements to the Va.gov’s content management system. We’re currently conducting research that will inform our plans to improve the CMS, and would like to invite you to participate in a one-hour usability study.
+I’m Jordana, the design lead on the CMS team responsible for making improvements to the Va.gov’s content management system. We’re currently conducting research that will inform our plans to improve the CMS, and would like to invite you to participate in a 1.5 hours personas and journey mapping session.
 
-Our team is particularly interested in you and other benefits hub editors who use the CMS intensively, as your perspective can indicate pain points and opportunities to improve workflow that have far-reaching effects for other users.
+Our team is particularly interested in how your perspective can indicate pain points and apportunities to improve content creation and CMS onboarding.
 
 Would you be interested in helping us?
 
 ---
-[followup contact after participant indicates that they’re interested]
+##### [follow-up contact after participant indicates that they’re interested]
 
-Great! We really appreciate your participation. The next step is to gauge your availability, then we’ll send an official followup email to confirm a time. Can you give me a sense of when you’d be able to participate during [date range]?
+Great! We really appreciate your participation. The next step is to gauge your availability, then we’ll send an official followup email to confirm a time. Can you give me a sense of when you’d be able to participate during March 9th and 20th?
 
 
-Email template
-CMS Usability testing recruitment email 
+#### Email template
+##### CMS Usability testing recruitment email 
 
 Subject line: Help us make the VA.gov CMS better
 
@@ -37,9 +37,9 @@ After we’ve confirmed a time, [someone will be in touch with details about set
 
 [ALTERNATELY: to confirm scheduling, please visit this calendly link and select a time slot that works for you. I’ll follow up with you with additional details. If none of these times work and you want to participate, please reply with some times that work better for you.]
 
-If you have further questions or concerns, please reach out to myself, or to Kevin Walsh ([Kev’s VA email addy]), VFS-CMS product manager. We look forward to talking with you!
+If you have further questions or concerns, please reach out to myself, or to Kevin Walsh (kevin.walsh@civicactions.com), VFS-CMS product manager. We look forward to talking with you!
 
 Regards,
 
 Jordana Mello
-Design lead, VFS CMS team
+Design lead, VFS-CMS team
