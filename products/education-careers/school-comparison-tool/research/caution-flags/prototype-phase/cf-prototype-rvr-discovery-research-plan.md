@@ -21,7 +21,7 @@ The research is designed to answer the following questions:
 #### Caution Flag on Search Results page and School Profile page
 
 * Do the caution flags sufficiently deter GI Bill beneficiaries from exploring schools with cautions? 
-* What, if any, content or design modifications would increase the effectiveness of the caution flags?
+* What, if any, design modifications would increase the effectiveness of the caution flags?
 * Under what circumstances do GI Bill beneficiaries click through to the school profile page to learn more?
 * Which flags, if any, are less of a deterrent to GI Bill beneficiaries?
 * Do GI Bill beneficiaries feel they receive all of the necessary information at the moment they need it?
