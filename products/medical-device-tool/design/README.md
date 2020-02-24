@@ -24,7 +24,7 @@ Documentation containing descriptions, feedback, and content for each chapter's 
 - **Introduction Screen**
    - Page 1: [Introduction screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md)
 - **Chapter 1: Veteran Information**
-   - [Page 1: Personal details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md)
+   - Page 1: [Personal details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md)
    - Page 2: Addresses (TBD)
 - **Chapter 2: Select Supplies** 
    - Page 1: Batteries (TBD)
