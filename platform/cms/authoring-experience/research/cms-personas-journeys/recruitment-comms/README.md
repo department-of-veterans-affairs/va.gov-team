@@ -9,7 +9,7 @@
 ##### [Initial contact]
 
 Hi [NAME],
-I’m Jordana, the design lead on the CMS team responsible for making improvements to the Va.gov’s content management system. We’re currently conducting research that will inform our plans to improve the CMS, and would like to invite you to participate in a 1.5 hours personas and journey mapping session.
+I'm Jordana, the design lead on the CMS team responsible for making improvements to the VA.gov's content management system. We're currently conducting research that will inform our plans to improve the CMS, and would like to invite you to participate in a 1.5 hours personas and journey mapping session.
 
 Our team is particularly interested in how your perspective can indicate pain points and apportunities to improve content creation and CMS onboarding.
 
