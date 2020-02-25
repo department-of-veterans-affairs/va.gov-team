@@ -4,7 +4,7 @@
 
 Thanks for joining us today! My name is [NAME]. I also have several colleagues on the line.  They’ll be observing and taking notes to ensure that we capture your feedback accurately. 
 
-We work with a team at the VA that is enhancing the VA.gov website and we're interested in speaking with you today about the process of selecting a college where you can use your GI Bill education benefits. Specifically, we'll be looking at the GI Bill Comparison Tool. We're reviewing the Comparison Tool with students in sessions like this to ensure that it's easy to use.
+We work with a team at the VA that is enhancing the VA.gov website and we're interested in speaking with you today about the process of selecting a college where you can use your education benefits. Specifically, we'll be looking at the GI Bill Comparison Tool on VA.gov. We're reviewing the Comparison Tool with students in sessions like this to ensure that it's easy to use.
 
 The entire session should take less than 45 minutes.
 
