@@ -78,6 +78,7 @@ Let's say you've just moved to [State, perhaps Florida] and would like to compar
 4. Under what circumstances might you attend a school with a warning message?  
 
 [If they haven't already, have them click into the profile page]  
+
 5. What are your thought on the warnings you see at the top of the page?  
 6. What are your thoughts on the warnings you see further down the page?  
 
