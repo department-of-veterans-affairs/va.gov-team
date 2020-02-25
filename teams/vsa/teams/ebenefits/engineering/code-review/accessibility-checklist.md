@@ -1,0 +1,1 @@
+For each pull request that involves markup we want to make sure that a few basic accessibility requirements are met. This is not meant to be an exaustive accessibility checkpoint but rather to help us mitigate some of the accessibility burden as well as to write code that improves our codebase.
