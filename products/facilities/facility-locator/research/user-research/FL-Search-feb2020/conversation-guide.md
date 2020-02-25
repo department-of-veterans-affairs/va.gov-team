@@ -1,4 +1,4 @@
-# Conversation Guide Template for Moderated Research
+# Conversation Guide for Facility Locator search expectations
 
 ## Intro - 5 minutes
 
