@@ -43,26 +43,21 @@ It’s okay to take a break if you need to.
 * LGBTQ individuals are 2 or more times more likely as straight individuals to have a mental health condition.
 * Depression and anxiety have a significant economic impact; the estimated cost to the global economy is US$ 1 trillion per year in lost productivity.
 
-  <blockquote>
-  Sources: <br/> 
-  • https://www.nami.org/NAMI/media/NAMI-Media/Infographics/GeneralMHFacts.pdf<br/><br/>
-  • https://www.nami.org/NAMI/media/NAMI-Media/Infographics/MulticulturalMHFacts10-23-15.pdf<br/><br/>
-  • https://www.who.int/mental_health/in_the_workplace/en/
-  </blockquote>
+Sources: <br/> 
+• https://www.nami.org/NAMI/media/NAMI-Media/Infographics/GeneralMHFacts.pdf<br/><br/>
+• https://www.nami.org/NAMI/media/NAMI-Media/Infographics/MulticulturalMHFacts10-23-15.pdf<br/><br/>
+• https://www.who.int/mental_health/in_the_workplace/en/
 
 ### Nearly half (47.7 percent) of all Gulf War II veterans with a disability reported a cognitive difficulty. 
-  <blockquote>
-  Source: https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf
-  </blockquote>
+
+Source: https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf
 
 ### Since October 2001, approximately 1.64 million U.S. troops have deployed to support operations in Afghanistan and Iraq. 
 
 * A study conducted by the RAND corporation estimates approximately 300,000 veterans who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression, and about 320,000 may have experienced a traumatic brain injury (TBI) during deployment.
 * Approximately 18.5 percent of U.S. service members who have returned from Afghanistan and Iraq currently have post-traumatic stress disorder or depression; and 19.5 percent report experiencing a traumatic brain injury during deployment.
 
-  <blockquote>
-  Sources: https://www.rand.org/pubs/monographs/MG720.html and https://www.rand.org/news/press/2008/04/17.html
-  </blockquote>
+Sources: https://www.rand.org/pubs/monographs/MG720.html and https://www.rand.org/news/press/2008/04/17.html
 
 ### An estimated 31 percent of troops returning from Iraq and Afghanistan have a mental health condition or reported experiencing a TBI.
 <table>
@@ -96,9 +91,7 @@ It’s okay to take a break if you need to.
   </tr>
 </table>
 
-  <blockquote>
-  Source: https://www.rand.org/pubs/research_briefs/RB9336.html
-  </blockquote>
+Source: https://www.rand.org/pubs/research_briefs/RB9336.html
   
 ### What do you think of these stats?
 
