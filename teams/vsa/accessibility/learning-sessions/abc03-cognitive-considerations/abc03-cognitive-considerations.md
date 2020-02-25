@@ -386,17 +386,17 @@ WCAG 2.1 success criteria primarily address items related to mobile (small scree
 
 ## Takeaways
 
-- [] Simplify the interface as much as possible
-- [] Simplify and shorten the content as much as possible
-- [] Keep videos and audio as short as possible
-- [] Limit the number of choices on the screen
-- [] Design for ease of use
-- [] Test the usability of the interface with actual users, preferably including users with cognitive disabilities
-- [] Retain information across screens, and within a path
-- [] Provide help features, particularly contextual help
-- [] Reduce or eliminate distractions (be careful with motion, ads, carousels, intrusive audio, intrusive video, etc.)
-- [] Provide easy to use and secure authentication
-- [] Prevent errors, and provide clear support for messages
+- Simplify the interface as much as possible
+- Simplify and shorten the content as much as possible
+- Keep videos and audio as short as possible
+- Limit the number of choices on the screen
+- Design for ease of use
+- Test the usability of the interface with actual users, preferably including users with cognitive disabilities
+- Retain information across screens, and within a path
+- Provide help features, particularly contextual help
+- Reduce or eliminate distractions (be careful with motion, ads, carousels, intrusive audio, intrusive video, etc.)
+- Provide easy to use and secure authentication
+- Prevent errors, and provide clear support for messages
 
 ## Resources
 
