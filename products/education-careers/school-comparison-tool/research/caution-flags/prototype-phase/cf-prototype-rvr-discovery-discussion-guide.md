@@ -24,7 +24,7 @@ Are you comfortable if I record the audio and screen movements today? Thank you.
 
 Let’s start with a few warm-up questions 
 
-1.	As one thinks about attending college, there are many steps along the way -- deciding what to study, deciding where to study, comparing schools, etc.. Where are you on your educational journey?  
+1.	Where are you on your educational journey?  Have you already decided what you'd like to study and where you'd like to go to school or are you just starting the process?
 
 2.	As you think about comparing colleges, what 3 factors are most important to you?
 
@@ -42,7 +42,7 @@ While you are going through the site, we ask that you please think aloud and voc
 Let's say you've heard good things about Arizona State University's online degree program.  Starting on this page, how would you research Arizona State University?  
 
 **Questions**  
-	1. What are your thoughts on that process?  
+1. What are your thoughts on that process?  
 
 **Prototype**  
 
@@ -87,7 +87,7 @@ Let's say you've just moved to [City] and would like to compare schools.  Using 
 
 ### Scenario 4: Refine search   [Prototype]  
 
-Looks like there are [25] schools in [City]. Let's say you want to focus your search on specific types of school that meet your criteria, how might you narrow down the list of schools?  
+Looks like there are [56] schools in [City]. Let's say you want to focus your search on specific types of school that meet your criteria, how might you narrow down the list of schools?  
 
 [Let the participant know that on the real site, the number of results will change as they make selections.]  
 
@@ -101,11 +101,10 @@ Looks like there are [25] schools in [City]. Let's say you want to focus your se
 
 
 ### Task 5: Review Caution Flag Language   [Graphic with all flags]  
-There are actually 16 possible flags. We'd like to hear your thoughts on the language of the flags.  Specifically, we'd like to know if you think people would find any of the wording confusing.  Our goal is to make each message very easy to understand.  
+There are actually 17 possible flags. We'd like to hear your thoughts on the language of the flags.  Specifically, we'd like to know if you think people would find any of the wording confusing.  Our goal is to make each message very easy to understand.  
 
 1. What wording would you change?  
-2. Do you think any need a little more information?  
-3. Would you like to see the most detailed version on the result page, or would you prefer to click into the school record to see it, if you are interested?  
+2. Would you like to see the most detailed version on the result page, or would you prefer to click into the school record to see it, if you are interested?  
 
 &nbsp; 
 &nbsp; 
