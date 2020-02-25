@@ -20,7 +20,9 @@ As a beneficiary who is using the GI Bill Comparison Tool to compare schools, I'
 
 ### Solution Hypothesis
 
-By enhancing the design and content of the caution flags that appear on the Search Results and School Profile pages of the GI Bill Comparison Tool, potential GI Bill Beneficiaries will be deterred from considering schools with cautionary warnings. In addition, the content changes will help GI Bill beneficiaries better understand the nature of the cautionary warnings.
+By better understanding how GI Bill beneficiaries anticipate VA would alert them of flagged schools via mechanisms other than the GI Bill Comparison Tool, we can make recommendations on how to better notify beneficiaries of the potential dangers of relevant schools.  
+
+By enhancing the design and content of the caution flags that appear on the Search Results and School Profile pages of the GI Bill Comparison Tool, potential GI Bill Beneficiaries will be deterred from considering schools with cautionary warnings. In addition, the content changes will help GI Bill beneficiaries better understand the nature of the cautionary warnings.  
 
 ### Research Questions
 
