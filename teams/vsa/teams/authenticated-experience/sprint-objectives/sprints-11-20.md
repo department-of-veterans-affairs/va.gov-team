@@ -372,6 +372,7 @@ Tressa out most of the sprint. For when she is back:
 - Stop using country name for va profile contact information endpoint #5591
 - "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
 - Analytics work (not our team) #5895
+- Any analytics-related FE work
 - Go/No-go
 - Launch!
 
