@@ -94,7 +94,6 @@ Currently used: Not installed yet
 
 ## Revision History
 
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
 | Date             | Revisions Made | Author          | Reviewed By |
 | ---------------- | -------------- | --------------- | ----------- |
