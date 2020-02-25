@@ -10,7 +10,7 @@ This is an initial process to test and deploy new rules for ESLint.
 
 ## Objective
 
-To improve the code coverage and code quality in the repo by enforcing new ESLint rules. This also will help all VFS teams to write better code.
+To improve code quality in the repo by enforcing new ESLint rules.
 
 ## Background
 
