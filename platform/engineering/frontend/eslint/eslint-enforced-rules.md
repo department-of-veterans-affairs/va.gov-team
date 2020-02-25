@@ -4,7 +4,7 @@
 **Last Updated:** February 3, 2020
 **eslint version:** 4.18.2
 
-**Current Setup up**
+**Current Setup**
 
 ```
    "eslint": "^4.18.2",
