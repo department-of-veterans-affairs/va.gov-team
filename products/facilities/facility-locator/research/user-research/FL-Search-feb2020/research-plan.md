@@ -30,14 +30,13 @@ Facility Locator is VA's single source of truth for customers to find VA facilit
 - We will use Zoom to conduct remote moderated usability testing sessions to observe how participants use the live VA facility locator	
 	
 ## Participants and Recruitment	
-We will work with Perigean to reach our goal of observing **10** participants
+We will work with Perigean to reach our goal of observing **7-8** participants
 
 Criteria for recruiting:
-- 15 sessions scheduled
+- 10 sessions scheduled
 - Has used the VA facility locator
 - All genders
-- 5 rural
-- 5 urban 
+- A mix of rural and urban 
 - Veterans & Caregivers 
 - At least 3 participants who have used facility locator multiple times
 - Some participants with cognitive disabilities
@@ -51,22 +50,22 @@ Each session will be approximately 45 minutes.
 
 Date | Time
 -----|-------
-March 4 | times
-March 5 | times
-March 6 | times
+March 4 | 11AM - 12PM, 1PM - 5PM
+March 5 | 11AM - 6PM
+March 6 | 11AM - 5PM
 
-A pilot session will be held on March 3, 2020 at **time.** 
-Pilot partcipant: 
+A pilot session will be held on March 3, 2020 at 3:00 PM EST
+Pilot participant: Gibran Rodriguez
 
 ## Team Roles	
 Please list the people who will be serving in each role. 
 - Moderator: Aricka Lewis, aricka@adhocteam.us
 - Research guide writing and task development: Aricka Lewis	
-- Participant recruiting & screening:	Perigean
-- Project point of contact:	
-- Participant(s) for pilot test: 	
-- Note-takers:	
-- Observers:	
+- Participant recruiting & screening: Perigean
+- Project point of contact: Aricka Lewis	
+- Participant(s) for pilot test: Gibran Rodriguez, grodriguez@governmentcio.com	
+- Note-takers: Liz Lantz (liz.lantz@adhocteam.us), Tressa Furner (tressa.furner@adhocteam.us), Shawna Hein (shawna@adhocteam.us)	
+- Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (David.Conlon@va.gov), Lance Sanchez (osanchez@governmentcio.com)	
 
 ## Resources	
 - [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-feb2020/conversation-guide.md)	
