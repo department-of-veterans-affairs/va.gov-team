@@ -94,7 +94,7 @@ Looks like there are [25] schools in [City]. Let's say you want to focus your se
 **Questions**  
 1. What are your thoughts on the process of making selections to refine your search?  
 2. Did you notice the filter that let's you exclude schools with warnings?  
-3. What are your thoughts on the filter?  
+3. What are your thoughts on this filter?  
 
 &nbsp; 
 &nbsp; 
