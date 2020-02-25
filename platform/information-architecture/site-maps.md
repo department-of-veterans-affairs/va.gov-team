@@ -1,9 +1,9 @@
 # Site Maps
 
 There are 3 resources available to view the VA.gov site map:
-- A visual site map that shows the hierarchy and relationship of content pages and tools in a traditional site map view of boxes and arrows.  
-- The master IA URL spreadsheet provides a listing of current URLs and page redirects
-- XML sitemap: 
+- Visual site map: shows the hierarchy and relationship of content pages and tools in a traditional site map view of boxes and arrows.  
+- Master URL spreadsheet:  provides a listing of current URLs and page redirects
+- XML sitemap: XML output of site structure for search engine consumption
 
 ## Visual Site Map
 
