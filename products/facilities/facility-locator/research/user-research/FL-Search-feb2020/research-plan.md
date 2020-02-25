@@ -38,9 +38,11 @@ Criteria for recruiting:
 - All genders
 - A mix of rural and urban 
 - Veterans & Caregivers 
-- At least 3 participants who have used facility locator multiple times
-- Some participants with cognitive disabilities
-- Some participants who have used Community Care
+- Fits one of the following
+	- Has used facility locator multiple times
+	- Has cognitive disabilities
+	- Has used used Community Care
+	- Enrolled in VA health care
 
 ## Timeline 	
 This study will take place from March 4 - 6, 2020.
