@@ -74,10 +74,11 @@ Email address (optional)
 
 ## Use case - Manually entered information 
 
-Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/RJVXC02MS3W)
+Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/RJVXC02MS3W) | [Github Issue](https://vsateams.invisionapp.com/share/RJVXC02MS3W)
 
 ### Description 
-TBD
+If the veteran's data is not being pre-filled or they need to manually update a portion of their contact information, they are able to do so by editing the input fields. 
+Initial focus point should be on the H1: _Order hearing aid batteries and accessories_
 
 ### Feedback 
 TBD
@@ -86,7 +87,47 @@ TBD
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
 ```
-TBD
+Home > Health care > Order hearing aid batteries and accessories 
+
+# Order hearing aid batteries and accessories (h1)
+Form 2346
+
+[Chapter title] 1 of 3 Veteran Information
+
+[Blue info alert box]
+We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
+
+## Shipping address (h4 utility)
+Your order will ship to this address. Orders typically arrive within 7-10 business days. 
+
+[Dropdown component]
+Country
+
+[Text input]
+Address line 1
+
+[Text input]
+Address line 2 (Apartment, building, suite, etc.)
+
+[Text input] 
+City
+
+[Dropdown component]
+State
+
+[Text input]
+Postal code
+
+## Email address (h4 utility)
+We will send an order confirmation email with a tracking number to this email address.
+
+[Text input]
+Email address (optional)
+
+[Secondary blue button] Back
+[Primary blue buttom] Continue
+
+[Link to exit application] Finish this application later.
 ```
 
 ## Use case - Updated email 
