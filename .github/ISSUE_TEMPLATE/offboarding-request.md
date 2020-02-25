@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 # Instructions
-Fill out name of individual and **Description** section below.
+Fill out name of individual and *Description* section below.
 
 # Description
 - Please provide the name of the individual needing offboarded.
