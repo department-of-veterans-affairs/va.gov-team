@@ -380,9 +380,8 @@ Tressa out most of the sprint. For when she is back:
 
 Design
 - Submit for update to copy for Profile 2.0 #5093
-- Plan research
 - [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
-- Submit research proposal
+- Create research plan & kickoff recruiting #2585
 
 Dev
 
