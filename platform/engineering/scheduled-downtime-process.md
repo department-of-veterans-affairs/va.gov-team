@@ -13,3 +13,6 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 - Make an announcement at the weekly Team of Teams meeting about the scheduled downtime one week in advance 
 - Post a notification of the downtime in the #vsa-public-websites channel at least three days in advance, ccing @Jen Lee so that team is aware and that the appropriate parties will be notified.
 - Make an announcement at the same time in #vfs-all-teams, detailing the dates and times approved by DEPO Heads of the Platform 
+
+## Creating the message
+
