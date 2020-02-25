@@ -1,18 +1,15 @@
-# Plag for manual review process
+# Flag for manual review process
 
-_Replace the previous line with the the title of your project or component and replace the following lines with your name(s), email and the date._  
-**Author(s):** Brooks Johnson 
+**Author(s):** Brooks Johnson (brooks@adhoc.team)
 **Last Updated:** February 20, 2020  
 **Status:** **Draft** | In Review | Approved  
 **Approvers:** _Rian Fowler_ \[ \], _Andrew Gunsch_ \[ \], ...  
 
-_The intended audience for this document is software engineers, but it should make sense to anyone familiar with software development._
 
 
 ## Overview
 
 ### Objective
-_In the objective section you should include a succinct 1-3 sentence statement of the objective of your project. It is also useful to state non-goals. Bulleted lists are great. Finally, state who the intended audience for the document is._
 
 The goal is to improve our review process which by adding automated processes which will alert a review team when a manual review is required.
 These changes are meant to work alongside the Codeowners changes which will give each app team primary responsibility for reviewing their code.
@@ -22,7 +19,6 @@ Non-goals: Creating automation which will absolve VFS teams of their review resp
 Intended audience: VSP team
 
 ### Background
-_The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
 
 From the perspective of a VFS engineer, the current review process involves:
 
