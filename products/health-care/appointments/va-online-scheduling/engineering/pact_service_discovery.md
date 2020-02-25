@@ -23,11 +23,11 @@ A recent change to CDW's indexing model made queries that have a lot of row filt
 
 ## Recommendation
 
-My recommendation is that we do not call the PACT service from the redesigned VAOS in the short term.
+My recommendation is that if we can't improve latency on the PACT service to an acceptable level, removing the PACT service call is a viable path forward.
 
-In the future, we or our dependencies will definitely need PACT member information, so this is a temporary solution that may be invalidated when designs change.
+In the future, we or our dependencies will definitely need PACT member information, so removing it would be a temporary solution that may be invalidated when designs change.
 
-To be clear, _this does not mean we're ignoring PACTs entirely_. PACTs are still used to determine what clinics are available and have to remain a part of that logic. This recommendation is just to stop preventing users from direct scheduling while we call the PACT service and check that it has members.
+To be clear, _this does not mean we would be ignoring PACTs entirely_. PACTs are still used to determine what clinics are available and have to remain a part of that logic. This recommendation is just to stop preventing users from direct scheduling while we call the PACT service and check that it has members.
 
 ### Long term
 
