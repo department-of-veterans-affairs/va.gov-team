@@ -308,7 +308,7 @@ For reference in documenting acceptance criteria and scenarios, here are three e
 - No distractions <br> i.e. “I need to be able to read content or complete a task without distractions.”
 - Prevent errors <br> i.e. “I need help avoiding mistakes, and minimizing mistakes I might make.”
 
-> Question: What are some examples of digital design that support cognitive considerations?
+> Consider: What are some examples of digital design that support cognitive considerations?
 
 ## Technology Solutions
 
@@ -325,7 +325,7 @@ For cognitive disabilities, there are also assistive technologies that can:
 - Help a person organize their thoughts before writing a letter
 - Keep track of where they are in a project
 
-> Question: What are some tools that support cognitive considerations?
+> Consider: What are some tools that support cognitive considerations?
 
 ## ~~“Just ask for help.”~~
 
@@ -351,7 +351,7 @@ Sometimes people just need information presented in a different way in order to 
 
 > “Our job isn’t to tell them how to interact with what we create; our job is to create something that they can interact with in whatever way they choose to interact.” <br>– John Porter
 
-> Question: How do you react when you have to ask for help with something, and have to reveal your SSN, for example?
+> Consider: How do you react when you have to ask for help with something, and have to reveal your SSN, for example?
 
 ## Accessibility Compliance
 
@@ -370,7 +370,7 @@ The [Cognitive Accessibility Task Force](https://www.w3.org/WAI/GL/task-forces/c
 
 ### What’s in WCAG 2.1?
 
-WCAG 2.1 success criteria primarily address items related to mobile (small screens and touch screens) that accommodate users with motor and dexterity disabilities, users with low vision, and users with cognitive disabilities. In addition, there are success criteria that benefit users of voice input, users with vestibular disabilities, and users of screen readers. Source: Sources:   https://dev-level-access.pantheonsite.io/wcag-2-1-exploring-new-success-criteria/
+WCAG 2.1 success criteria primarily address items related to mobile (small screens and touch screens) that accommodate users with motor and dexterity disabilities, users with low vision, and users with cognitive disabilities. In addition, there are success criteria that benefit users of voice input, users with vestibular disabilities, and users of screen readers. Source: Sources: https://dev-level-access.pantheonsite.io/wcag-2-1-exploring-new-success-criteria/
 
 ## As you look at these user needs, you may be thinking, everyone will benefit from these improvements.  Correct! But for a person with a cognitive disability, these user needs are crucial for them to equally access content online.
 
