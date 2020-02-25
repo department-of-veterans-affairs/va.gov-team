@@ -28,7 +28,7 @@
 |                                   |                             |             |
 | **FLOW**                          |                             |             |
 | vnp686AppDelete                   |                             |             |
-| vnp686Proc                        |                             |             |
+| vnp686Proc                        | vnpProcCreate               | This service is used to create VONAPP process information|
 | inflightProc686Update             |                             |             |
 | vnp686ProcFormCreate              | vnpProcFormCreate           | Used to create a record in the database for the newly entered VONAPP form data  |
 | vnp686PtcpntCreate                | vnpPtcpntCreate             | This service is used to create VONAPP participant information |
