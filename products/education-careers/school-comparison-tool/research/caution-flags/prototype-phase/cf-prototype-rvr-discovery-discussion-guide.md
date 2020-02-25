@@ -69,7 +69,7 @@ Let's say your friend is studying cybersecurity at [school name] and you're thin
 
 ### Scenario 3: School with multiple warnings   [Prototype]  
   
-Let's say you've just moved to [State, perhaps Florida] and would like to compare schools.  Using the comparison tool, how would you find out what schools you might be able to attend in [State]?  
+Let's say you've just moved to [City] and would like to compare schools.  Using the comparison tool, how would you find out what schools you might be able to attend in [City]?  
 
 **Questions**  
 1. Which of these schools would you consider and why?  
@@ -87,7 +87,7 @@ Let's say you've just moved to [State, perhaps Florida] and would like to compar
 
 ### Scenario 4: Refine search   [Prototype]  
 
-Looks like there are [672] schools in [Florida]. Let's say you want to focus your search on specific types of school that meet your criteria, how might you narrow down the list of schools?  
+Looks like there are [25] schools in [City]. Let's say you want to focus your search on specific types of school that meet your criteria, how might you narrow down the list of schools?  
 
 [Let the participant know that on the real site, the number of results will change as they make selections.]  
 
