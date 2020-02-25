@@ -2,16 +2,17 @@
 *The following resources compiled by the people in your practice area to help you do your work and answer questions you might have. Some links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping #vsa-product or Mickin Sahni (@mickin).*
 
 ## Contents
-- [Setting Direction-Guideposts, OKRs, and Bets](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#setting-direction-guideposts-okrs-and-bets)
-- [Product Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#product-documentation)
-  - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#product-outline)
-  - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#roadmap)
-- [Delivery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#delivery)
-  - [MVPs](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#mvps)
-  - [Agile Ceremonies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#agile-ceremonies)
-  - [Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#sprint-objectives)
-  - [Issue Templates and Examples](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#issue-templates-and-examples)
-- [Launch Prep](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/product#launch-prep)
+- [Setting Direction-Guideposts, OKRs, and Bets](#setting-direction-guideposts-okrs-and-bets)
+- [Product Documentation](#product-documentation)
+  - [Product Outline](#product-outline)
+  - [Roadmap](#roadmap)
+- [Delivery](#delivery)
+  - [VSP Collaboration Cycle](#vsp-collaboration-cycle)
+  - [MVPs](#mvps)
+  - [Agile Ceremonies](#agile-ceremonies)
+  - [Sprint Objectives](#sprint-objectives)
+  - [Issue Templates and Examples](#issue-templates-and-examples)
+- [Launch Prep](#launch-prep)
 
 ### Setting Direction-Guideposts, OKRs, and Bets
 Each VSA product team defines their guideposts; the mission, vision, and north star of their impact on Veterans.
@@ -42,6 +43,10 @@ It doesn’t include the typical timeline of assumed features. Rather, it’s a 
   - [Facility Locator Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/roadmap.md)
 
 ### Delivery
+
+#### VSP Collaboration Cycle
+
+[The VSP Collaboration Cycle](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/vsp-collaboration-cycle) is a guide to required Veteran-facing Services Platform (VSP) collaboration points, written for all Veteran-facing Services (VFS) teams building on VA.gov.
 
 #### MVPs
 MVP is an often overused/convoluted term. And, there can be many definitions of an MVP. It may be referred to as the solution that *just* solves a problem or it may be referred to as the first version of a product. Without getting caught up in labels, an MVP has two primary characteristics: lessons are generated and future iterations are anticipated though not expected.

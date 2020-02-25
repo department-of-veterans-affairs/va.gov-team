@@ -29,6 +29,4 @@ The following list is a set of resources for practicing IA on VA.gov and to help
 
 **Working Documents and Current Site Documentation**
 - [Current and Past IA Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/ia-reviews/README.md) (Completed and in-progress IA reviews for teams)
-- [Master URL Mapping](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/master-url-mapping.md) (Official source of truth on IA and URLs)
-- [Visual Site Map](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md)
-- [XML Sitemap](https://www.va.gov/sitemap.xml)
+- [Site Maps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/site-maps.md) (Visual site map, URL spreadsheet and XML site map link)
