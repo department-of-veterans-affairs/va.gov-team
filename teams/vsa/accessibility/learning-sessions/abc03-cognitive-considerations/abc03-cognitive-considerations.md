@@ -43,10 +43,7 @@ It’s okay to take a break if you need to.
 * LGBTQ individuals are 2 or more times more likely as straight individuals to have a mental health condition.
 * Depression and anxiety have a significant economic impact; the estimated cost to the global economy is US$ 1 trillion per year in lost productivity.
 
-Sources: <br/> 
-• https://www.nami.org/NAMI/media/NAMI-Media/Infographics/GeneralMHFacts.pdf<br/><br/>
-• https://www.nami.org/NAMI/media/NAMI-Media/Infographics/MulticulturalMHFacts10-23-15.pdf<br/><br/>
-• https://www.who.int/mental_health/in_the_workplace/en/
+Sources: https://www.nami.org/NAMI/media/NAMI-Media/Infographics/GeneralMHFacts.pdf, https://www.nami.org/NAMI/media/NAMI-Media/Infographics/MulticulturalMHFacts10-23-15.pdf, https://www.who.int/mental_health/in_the_workplace/en/
 
 ### Nearly half (47.7 percent) of all Gulf War II veterans with a disability reported a cognitive difficulty. 
 
