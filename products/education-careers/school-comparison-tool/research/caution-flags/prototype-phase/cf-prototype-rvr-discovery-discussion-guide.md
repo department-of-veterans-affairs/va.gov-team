@@ -4,7 +4,7 @@
 
 Thanks for joining us today! My name is [NAME]. I also have several colleagues on the line.  They’ll be observing and taking notes to ensure that we capture your feedback accurately. 
 
-We work with a team at the VA that is enhancing the VA.gov website and we're interested in speaking with you today about the process of selecting a college where you can use your education benefits. Specifically, we'll be looking at the GI Bill Comparison Tool on VA.gov. We're reviewing the Comparison Tool with students in sessions like this to ensure that it's easy to use.
+We work with a team at the VA that is enhancing the VA.gov website.  We're interested in speaking with you today about the process of selecting a college. Specifically, we'll be looking at the GI Bill Comparison Tool on VA.gov. We're reviewing a new feature of the Comparison Tool with people who plan to use their benefits soon to ensure that it's easy to use.
 
 The entire session should take less than 45 minutes.
 
@@ -16,7 +16,7 @@ We generally record sessions, in case we need to confirm that we have captured y
 
 Great! I'm going to turn the recording on now.  Once it starts, I’ll ask again if you are okay if we record, so we have your verbal consent.
 
-[The meeting host will begin audio and screen recording. When we hear an announcement that it’s started] 
+[The meeting host will begin audio and screen recording.] 
 
 Are you comfortable if I record the audio and screen movements today? Thank you. 
 
@@ -39,25 +39,25 @@ While you are going through the site, we ask that you please think aloud and voc
 
 ### Scenario 1: GIBCT with full functionality   [Production site]. 
 
-Let's say you've heard good things about Arizona State University's online degree program.  Starting on this page, how would you research Arizona State University?  
+Let's say you've heard great things about Arizona State University's online degree program.  Starting on this page, how would you research Arizona State University?  
 
 **Questions**  
 1. What are your thoughts on that process?  
 
 **Prototype**  
 
-So far, we've been looking at the real site.  Now we're going to shift gears and review a clickable prototype that has some new functionality.  
+So far, we've been looking at the real VA.gov website.  Now we're going to shift gears and review a clickable prototype that has some new functionality.  
 
-Just so you know, the prototype is a mock-up, rather than a real website.  This means only certain links have been activated and you’ll see pretend data in some areas. In many cases, as soon as you click you'll see an example of what someone might type in the fields.  We do this to save you time and eliminate the need to type.  If you click on something and nothing happens, we can talk about what you expect might happen.
+Just so you know, the prototype is a mock-up, rather than a real website.  This means only certain links have been activated and you’ll see pretend data in some areas. In some cases, as soon as you click you'll see an example of what someone might type in the fields.  We do this to save you time and eliminate the need for you to type.  If you click something and nothing happens, we can talk about what you expect might happen.
 
 &nbsp; 
 &nbsp; 
 
 ### Scenario 2: School with one warning   [Prototype]  
   
-Let's say your friend is studying cybersecurity at Atlantic Institute and you're thinking about enrolling in the same program.  Using this site, how would you learn more about [school name]?  
+Let's say your friend is studying cybersecurity at Atlantic Institute and you're thinking about enrolling in the same program.  Using this site, how would you learn more about Atlantic Institute?  
 
-[Observe whether or not the participant is naturally interested in clicking the record or learning more]  
+[Observe whether or not the participant is naturally interested in clicking the record or learning more about the warning.]  
 
 **Questions**  
 1. What were your thoughts when you first noticed the warning message?  
@@ -69,16 +69,22 @@ Let's say your friend is studying cybersecurity at Atlantic Institute and you're
 
 ### Scenario 3: School with multiple warnings   [Prototype]  
   
-Let's say you've just moved to [City] and would like to compare schools.  Using the comparison tool, how would you find out what schools you might be able to attend in [City]?  
+Let's say you've just moved to Arizona and would like to compare schools.  Using the comparison tool, how would you determine what schools you might be interested in attending in Arizona?  
 
 **Questions**  
 1. Which of these schools might you consider and why?  
-2. What are your thoughts on <Name of school with multiple caution flags>? Might you attend that school? If no, why?  
+2. What are your thoughts on <Name of school with multiple caution flags>? Might you attend that school? If not, why?  
 3. What questions do you have about the warning messages you see on this page?  
 4. Under what circumstances might you attend a school with a warning message?  
-[If they haven't already, have them click into the profile page]  
-5. What are your thought on the warnings you see at the top of the page?  
+[If they haven't already, have them click into the School Profile page]  
+5. What are your thought on the warnings you see at the top of this page?  
+[If they haven't already, have them view the flags in the accordion]  
 6. What are your thoughts on the warnings you see further down the page?  
+
+**Observe***
+* How did the participant react to the caution flag?
+* Did the participant, click the school with the caution?  If yes, to learn more about the school or the caution? 
+* On the School Profile page, did the participant automatically click the jump link
 
 &nbsp; 
 &nbsp; 
@@ -90,9 +96,9 @@ Looks like there are [56] schools in [City]. Let's say you want to focus your se
 [Let the participant know that on the real site, the number of results will change as they make selections.]  
 
 **Questions**  
-1. What are your thoughts on the process of making selections to refine your search?  
-2. Did you notice the filter that let's you exclude schools with warnings?  
-3. What are your thoughts on this filter?  
+1. Did you notice the filter that let's you exclude schools with warnings?  
+2. What are your thoughts on this filter?  
+3. How likely would you be to use this filter?
 
 &nbsp; 
 &nbsp; 
