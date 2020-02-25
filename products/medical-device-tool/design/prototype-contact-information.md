@@ -8,19 +8,68 @@ Navigation: <br>
 
 ## Use case - Pre-filled information
 
-Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/Q7VVWGZUG4N)
+Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/Q7VVWGZUG4N) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5162)
 
 ### Description 
-TBD
+Since qualified veterans need to be logged in to place an order, the default state can be assumed to pre-fill the veteran's contact information. <br>
+Initial focus point should be on the H1: _Order hearing aid batteries and accessories_
 
 ### Feedback 
-TBD
+**VSP Office hours in early February**
+* Use either full state name or state abbreviation + state name 
+* Reference: Pension form has every address field stacked
+    * Some fields are shorter (such as postal code)
+    * All others are same width
+* Stack all the address input fields
+* Input field labeling: _Street address 1_; _Street address 2_
+    * Review w/ content
+* Add helper text to _Street address 2_ to provide clarity about what part of the address the veteran should input 
 
 ### Content
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
 ```
-TBD
+Home > Health care > Order hearing aid batteries and accessories 
+
+# Order hearing aid batteries and accessories (h1)
+Form 2346
+
+[Chapter title] 1 of 3 Veteran Information
+
+[Blue info alert box]
+We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
+
+## Shipping address (h4 utility)
+Your order will ship to this address. Orders typically arrive within 7-10 business days. 
+
+[Dropdown component]
+Country
+
+[Text input]
+Address line 1
+
+[Text input]
+Address line 2 (Apartment, building, suite, etc.)
+
+[Text input] 
+City
+
+[Dropdown component]
+State
+
+[Text input]
+Postal code
+
+## Email address (h4 utility)
+We will send an order confirmation email with a tracking number to this email address.
+
+[Text input]
+Email address (optional)
+
+[Secondary blue button] Back
+[Primary blue buttom] Continue
+
+[Link to exit application] Finish this application later.
 ```
 
 ## Use case - Manually entered information 
