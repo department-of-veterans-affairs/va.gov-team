@@ -360,6 +360,8 @@ Tressa out most of the sprint. For when she is back:
 2. Profile 2.0: Copy for profile screens
 3. Profile 2.0: Plan research/pre-usability review
 4. Profile 2.0: Continue/finish refactoring work
+5. Profile 2.0: Start build
+6. Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
 ### Address validation
 
@@ -367,6 +369,7 @@ Tressa out most of the sprint. For when she is back:
 - Finish all bug/QA/508 tickets that are still outstanding (TBD: We'll see what's still open by EOD Tuesday)
 - Revisit release plan 
 - Get/implement production key (note: this is already on its way but not sure what work Lihan has to do once he gets it)
+- Stop using country name for va profile contact information endpoint #5591
 - "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
 - Analytics work (not our team) #5895
 - Go/No-go
@@ -380,10 +383,16 @@ Design
 - [Pre-usability review](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
 - Submit research proposal
 
-
 Dev
-- [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
-- Start build for new profile
+
+- Any of the refactoring tickets Erik didn't get done this past sprint.
+- Start build?
+ - [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
+ - Figure out where build should start
+
+### Monitoring, maintenance, bug fixes, hardening, 508, etc.
+
+- [BE] Investigate MHV 400 errors #5893
 
 ## Sprint 17 (3/11 - 3/24)
 
