@@ -1,4 +1,4 @@
-# RFC: _title_
+# RFC: Git Hook For Breaking Change Alerts
 
 - Date: 2020/02/25
 
