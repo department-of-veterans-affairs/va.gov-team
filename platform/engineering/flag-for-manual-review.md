@@ -19,13 +19,16 @@ These changes are meant to work alongside the Codeowners changes which will give
 
 Non-goals: Creating automation which will absolve VFS teams of their review responsibility.
 
+Intended audience: VSP team
+
 ### Background
 _The background section should contain information the reader needs to know to understand the problem being solved. This can be a combination of text and links to other documents._
 
 From the perspective of a VFS engineer, the current review process involves:
+
 1. Creating a Draft PR with appropriate changes
 1. Getting a peer review
-  - Making any changes until the review is approving
+    - Making any changes until the review is approving
 1. Marking the PR as `Ready for Review`
 1. Getting approval from a member of the VSP *frontend-review-group*
 
@@ -52,10 +55,6 @@ The script will:
 
 This will rely on the Github API as well as some environment variables provided by Circle CI.
 
-_It is important to include assumptions about what external systems will provide. For example if this system has a method that takes a user id as input, will your implementation assume that the user id is valid? Or if a method has a string parameter, does it assume that the parameter has been sanitized against injection attacks? Having such assumptions explicitly spelled out here before you start implementing increases the chances that misunderstandings will be caught by a reviewer before they lead to bugs or vulnerabilities. Please reference the external system's documentation to justify your assumption whenever possible (and if such documentation doesn't exist, ask the external system's author to document the behavior or at least confirm it in an email)._
-
-_Here's an easy rule of thumb for deciding what to write here: Think of anything that would be a pain to change if you were requested to do so in a code review. If you put that implementation detail in here, you'll be less likely to be asked to change it once you've written all the code._
-
 ### Code Location
 
 - `script/pr-check.js`
@@ -72,27 +71,33 @@ The script will log to the console:
 - Any new comments that will be made
 
 ### Debugging
-_How users can debug interactions with your system. When designing a system it's important to think about what tools you can provide to make debugging problems easier. Sometimes it's unclear whether the problem is in your system at all, so a mechanism for isolating a particular interaction and examining it to see if your system behaved as expected is very valuable. Once a system is in use, this is a great place to put tips and recipes for debugging. If this section grows too large, the mechanisms can be summarized here and individual tips can be moved to another document._
+
+If a user sets up the proper environment variables locally, the script can be run in a local environment and the logging output can be viewed.  Otherwise we will rely on viewing CircleCI logs.
 
 ### Caveats
-_Gotchas, differences between the design and implementation, other potential stumbling blocks for users or maintainers, and their implications and workarounds. Unless something is known to be tricky ahead of time, this section will probably start out empty._
-
-_Rather than deleting it, it's recommended that you keep this section with a simple place holder, since caveats will almost certainly appear down the road._
 
 _To be determined._
 
 ### Security Concerns
-_This section should describe possible threats (denial of service, malicious requests, etc) and what, if anything, is being done to protect against them. Be sure to list concerns for which you don't have a solution or you believe don't need a solution. Security concerns that we don't need to worry about also belong here (e.g. we don't need to worry about denial of service attacks for this system because it only receives requests from the api server which already has DOS attack protections)._
+
+We should make sure that the Github bot auth token is kept secure and it should not be associated with an individual's account.  The sole communicators in the system are CircleCI and Github.  This isn't really a security concern, but more of a reliability one: if one of those services goes down we do not have a fallback plan.
 
 ### Privacy Concerns
-_This section should describe any risks related to user data, PII that are added by this new application. Think about flows of user data through systems, places data is stored and logged, places data is displayed to users. Where is user data stored or logged? How long is it stored?_
+
+None.  This will be static code analysis of a public repo.  No user data will be involved.
 
 ### Open Questions and Risks
-_This section should describe design questions that have not been decided yet, research that needs to be done and potential risks that could make make this system less effective or more difficult to implement._
 
-_Some examples are: Should we communicate using TCP or UDP? How often do we expect our users to interrupt running jobs? This relies on an undocumented third-party API which may be turned off at any point._
+With this planned implementation we don't have a way of forcing a VFS team to wait for a manual review - all we do is _ask_ them to wait.  It's possible that some teams won't respect this request and will merge a PR that has code that requries a manual review.
 
-_For each question you should include any relevant information you know. For risks you should include estimates of likelihood, cost if they occur and ideas for possible workarounds._
+It is difficult to estimate the liklihood of this risk.  These changes will be communicated to the teams, and if they disregard the process then we will be forced to implement stricter rules.  Here are some possible actions we could take, either by themselves or in combination:
+
+- Have the bot leave a review that "requests changes" rather than a simple comment.
+- If the script leaves a comment for manual review, have the process exit with a failing status and make it block the build.
+    - This could be implemented using a [required status check](https://help.github.com/en/github/administering-a-repository/about-required-status-checks) in GitHub
+- Implement a workflow requiring manual approval](https://circleci.com/docs/2.0/workflows/#holding-a-workflow-for-a-manual-approval) in CircleCI
+
+There was some discussion around these ideas in [a Slack thread](https://dsva.slack.com/archives/CQH357ZTP/p1582144303027700)
 
 ### Work Estimates
 This first iteration can be done in less than a sprint
@@ -103,12 +108,9 @@ During an early discovery phase we considered using Github Actions as our CI too
 organization-wide shift from Jenkins to Circle CI we decided to switch to Circle as well.
 
 ### Future Work
-_Features you'd like to (or will need to) add but aren't required for the current release. This is a great place to speculate on potential features and performance improvements._
 
 ### Revision History
-_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
 
 Date | Revisions Made | Author
 -----|----------------|--------
-Jan 24, 2020 | Added approvers, status, and privacy concerns. | Andrew Gunsch
-Jan 19, 2016 | Initial Draft based off [Arvados's template](https://dev.arvados.org/projects/arvados/wiki/Design_Doc_Template) which is reminiscent of Google's | Albert J. Wong
+Feb 20, 2020 | Initial Draft | Brooks Johnson
