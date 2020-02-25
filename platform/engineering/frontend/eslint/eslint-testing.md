@@ -14,7 +14,7 @@ To improve code quality in the repo by enforcing new ESLint rules.
 
 ## Background
 
-We installed ESLint a couple of years ago in the VA repo and hasn't been updated nor improved since then.
+We installed ESLint a couple of years ago in the `vets-website` repo and hasn't been updated nor improved since then.
 
 Now, that VFS teams will have an increased ownership on their pull request reviews, this will help them getting a better judgement as well as facilitate the review process.
 
