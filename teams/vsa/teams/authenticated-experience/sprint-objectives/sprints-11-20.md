@@ -387,8 +387,8 @@ Dev
 
 - Any of the refactoring tickets Erik didn't get done this past sprint.
 - Start build?
- - [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
- - Figure out where build should start
+  - [Design-Development Intent Checkpoint](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/vsa-accessibility-review-process.md)
+  - Figure out where build should start
 
 ### Monitoring, maintenance, bug fixes, hardening, 508, etc.
 
