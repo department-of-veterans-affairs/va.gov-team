@@ -1,9 +1,9 @@
 # VA Research Participation Consent 
 
 #### Session Description
-You are being asked to participate in a research session to share share your experience using the CMS tool to manage, edit, or publish content on VA.gov. By participating in this research session, you will help the VA design a product better suited for the editorial workflow.
+You are being asked to participate in a research session to share your experience using the CMS tool to manage, edit, or publish content on VA.gov. By participating in this research session, you will help the VA design a product better suited for the editorial workflow.
 
-This research session will take about 1.5 hours. We'll ask you some questions related to your work and do a journey mapping activity. We'll also record your comments and actions using written notes, audio recording, and screen recording. If you don’t want us to record one of these things, you can say no. We won't use your name when we're presenting the results of this feedback session.
+This research session will take about 1.5 hours. We'll ask you some questions related to your work and do a journey mapping activity. We'll also record your comments and actions using written notes, audio recording, and screen recording. If you don’t want us to record one of these things, you can say no. Regardless, we won't use your name when we're presenting the results of this feedback session.
 
 You may quit the session at any time. If you need a break, just tell the moderator. If you have questions, go ahead and ask them whenever you like.
 
