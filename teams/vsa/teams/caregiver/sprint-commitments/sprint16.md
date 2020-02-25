@@ -7,6 +7,7 @@
 - Implement checkbox component (5)
 - Match frontend to prototype (5)
 - Begin discussion around searchable field for Medical Facility (2)
+- Apply feature toggles to 1010-CG (3)
 
 ## Design/Research
 - Fill in gaps in protoype (3)
