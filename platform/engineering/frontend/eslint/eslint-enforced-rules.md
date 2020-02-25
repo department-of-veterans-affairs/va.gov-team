@@ -1,5 +1,9 @@
 ### ESLint Audit
 
+**Author:** Jhonny Gonzalez
+**Last Updated:** February 3, 2020
+**eslint version:** 4.18.2
+
 **Current Setup up**
 
 ```
@@ -87,3 +91,11 @@ Currently used: 1 Custom
 SonarJS is a static code analyzer for the JavaScript and TypeScript languages, plugin for SonarQube and SonarCloud.
 Rules: 25
 Currently used: Not installed yet
+
+## Revision History
+
+_The table below should record the major changes to this document. You don't need to add an entry for typo fixes, other small changes or changes before finishing the initial draft._
+
+| Date             | Revisions Made | Author          | Reviewed By |
+| ---------------- | -------------- | --------------- | ----------- |
+| February 3, 2020 | Initial Audit  | Jhonny Gonzalez |

@@ -1,4 +1,8 @@
-# ESLint Rule Changes
+# SonarJS Plugin
+
+**Author:** Jhonny Gonzalez
+**Last Updated:** February 24, 2020
+**eslint version:** 4.18.2
 
 The front-end team will be introducing a new set of rules from a third-party plugin called SonarJS ([eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs)).
 
@@ -8,19 +12,17 @@ SonarJS rules for ESLint to detect bugs and suspicious patterns in the code can 
 
 ## Rules Deployment
 
-The front-end team will be deploying SonarJS’ 25 rules in 3 different batches.
+The front-end team will be deploying SonarJS’ 25 rules in 3 different sprints.
 
-These rules will be enabled in a testing CircleCI workflow. Each batch will have a 2 week testing period before moving them to the `.enslintrc` file to be enforced.
+These rules will be enabled in a testing CircleCI workflow. Each set of rules will have a 2 week testing period before moving them to the `.enslintrc` file to be enforced.
 
-The linting rules in CircleCI will be used as an experimental staging area as we explore new rules and ways to communicate any issues that are discovered.
+## Sprints
 
-## Batches
+### Sprint 21
 
-### Batch # 1
+**Testing period:** 3/4/20 - 3/17/20
 
-**Testing period:** 2/24/20 - 3/6/20
-
-**Enforced after:** 3/9/20
+**Enforced after:** 3/18/20
 
 **No. of rules:** 12
 
@@ -39,11 +41,11 @@ These are the rules in which we are already in compliance and they are very stra
 - [prefer-single-boolean-return](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/prefer-single-boolean-return.md)
 - [prefer-while](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/prefer-while.md)
 
-### Batch # 2
+### Sprint 22
 
-**Testing period:** 3/9/20 - 3/20/20
+**Testing period:** 3/18/20 - 3/31/20
 
-**Enforced after:** 3/23/20
+**Enforced after:** 4/1/20
 
 **No. of rules:** 8
 
@@ -58,11 +60,11 @@ In this batch we have some rules in which are throwing already a few errors. In 
 - [no-small-switch](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-small-switch.md)
 - [no-unused-collection](https://github.com/SonarSource/eslint-plugin-sonarjs/blob/master/docs/rules/no-unused-collection.md)
 
-### Batch # 3
+### Sprint 23
 
-**Testing period:** 3/23/20 - 4/3/20
+**Testing period:** 4/1/20 - 4/14/20
 
-**Enforced after:** 4/6/20
+**Enforced after:** 4/15/20
 
 **No. of rules:** 5
 
