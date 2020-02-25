@@ -57,7 +57,9 @@ Just so you know, the prototype is a mock-up, rather than a real website.  This 
   
 Let's say your friend is studying cybersecurity at Atlantic Institute and you're thinking about enrolling in the same program.  Using this site, how would you learn more about Atlantic Institute?  
 
-[Observe whether or not the participant is naturally interested in clicking the record or learning more about the warning.]  
+**Observe***
+* How did the participant react to the caution flag?
+* Is the participant naturally interested in clicking the record or learning more about the warning.  
 
 **Questions**  
 1. What were your thoughts when you first noticed the warning message?  
@@ -95,6 +97,10 @@ Looks like there are [56] schools in [City]. Let's say you want to focus your se
 
 [Let the participant know that on the real site, the number of results will change as they make selections.]  
 
+**Observe***
+* Does the participant understand that the left column controls the right column?
+* Does the participant use the exclude schools with warnings filter?
+
 **Questions**  
 1. Did you notice the filter that let's you exclude schools with warnings?  
 2. What are your thoughts on this filter?  
@@ -107,8 +113,9 @@ Looks like there are [56] schools in [City]. Let's say you want to focus your se
 ### Task 5: Review Caution Flag Language   [Graphic with pairs of Caution flags]  
 There are actually 17 possible flags. We'd like to hear your thoughts on the language of these flags.  Specifically, we'd like to know if you think people would find any of the wording confusing.  Our goal is to make sure each message very easy to understand.  
 
-1. What wording might others find confusing?  
-2. Would you like to see the most detailed version on the result page, or would you prefer to click into the school record to see it, if you are interested?  
+1. What wording might others find confusing? 
+2. Do any of these warning seem so minor that you might consider going to the school? 
+3. Would you like to see the detailed version of the flag on the Search Results page, or would you prefer to click into the School Profile page to see it?  
 
 &nbsp; 
 &nbsp; 
