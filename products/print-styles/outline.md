@@ -2,7 +2,7 @@
 
 #### Communications
 - Team Name: Print Styles 
-- GitHub Label: 
+- GitHub Label: print-styles
 - Slack channel: N/A 
 - Product POCs:N/A 
 - Stakeholders: N/A 
