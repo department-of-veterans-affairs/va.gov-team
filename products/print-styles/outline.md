@@ -13,7 +13,10 @@
 ---
 
 ## Overview
-*After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
+Veterans have expressed interest in being able to print both the Review submission and Confirmation screens while completing forms on VA.gov. Many confirmation screens prompt the veteran to print this page for their records, however there is no current print style design implemented on VA.gov. This causes some strange printing errors. 
+
+The goal is to design the print stylesheet to both follow best practices and standardize print stylesheets across all VA.gov pages
+
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
