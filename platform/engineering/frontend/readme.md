@@ -1,7 +1,7 @@
 # Frontend
 
 - [Engineering best practices](engineering-best-practices.md)
-- [Eslint](eslint.md)
+- [Eslint](eslint/new-rule-release-notes.md)
 
 # Request DSVA to review your team's work
 

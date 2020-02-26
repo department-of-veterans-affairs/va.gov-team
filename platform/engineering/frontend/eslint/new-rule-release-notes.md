@@ -1,4 +1,4 @@
-# Eslint
+# Release Notes
 
 ## SonarJS release rules - Sprint 21
 
@@ -18,7 +18,7 @@ March 4, 2020
   - prefer-single-boolean-return
   - prefer-while
 - These rules will be under review for 2 weeks (Sprint 21)
-- Feedback from VFS teams will be collected during this period
+- Feedback from VFS teams will be collected during this period. Please use the tag `@frontend-review-group` or message any of the front-end tools team members in Slack and provide us with your feedback.
 
 ## SonarJS new rules
 
@@ -27,16 +27,17 @@ February 24, 2020
 - New rules and their intended release date
 - SonarJS details can be found [here](eslint/sonarjs.md)
 
-## ESLint testing stage
+## ESLint Rule Changes and Testing
 
 February 21, 2020
 
 - Added a procedure on how new ESLint rules will be added to a test stage before they are moved to enforced.
+- CircleCI process with ESLint
 - Feedback is expected from VSA teams
-- Testing procedure will be found [here](eslint/eslint-testing.md)
+- New rules procedure can be found [here](eslint/adding-new-rules.md)
 
-## ESLint enforced rules audit
+## ESLint Enforced Rules Audit
 
 February 3, 2020
 
-- An audit was performed to find out exactly what rules are being used for further expansion. Audit can be found [here](eslint/eslint-enforced-rules.md)
+- An audit was performed to find out exactly what rules are being used for further expansion. Audit can be found [here](eslint/eslint-initial-audit.md)

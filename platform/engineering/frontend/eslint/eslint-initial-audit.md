@@ -1,8 +1,16 @@
-### ESLint Audit
+### ESLint Enforced Rules Audit
 
 **Author:** Jhonny Gonzalez
 **Last Updated:** February 3, 2020
 **eslint version:** 4.18.2
+
+### Objective
+
+The purpose of this audit was to establish the current state of ESLint. It was necessary so I could identify what plugins and rules are already unabled, so we can explore and add new rules in a future.
+
+This audit is a snapshot in time and it should be used as a reference. It's a set base so we could start adding new plugins and rules.
+
+It also allow us to have a reference for dependencies' versions.
 
 **Current Setup**
 
@@ -23,7 +31,7 @@
 
 ### Plugins
 
-### [Airbnb](https://github.com/airbnb/javascript)
+## [Airbnb](https://github.com/airbnb/javascript)
 
 This package provides Airbnb's .eslintrc as an extensible shared config.
 It takes control over ESLint, Import, JSX-A11y, React, and React-hooks rules
@@ -85,7 +93,7 @@ ESLint rules for enzyme - JS testing utilities library for React
 Rules: 1
 Currently used: 1 Custom
 
-### Recommended plugin
+## Recommended plugin
 
 **[SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs)**
 SonarJS is a static code analyzer for the JavaScript and TypeScript languages, plugin for SonarQube and SonarCloud.
@@ -93,7 +101,6 @@ Rules: 25
 Currently used: Not installed yet
 
 ## Revision History
-
 
 | Date             | Revisions Made | Author          | Reviewed By |
 | ---------------- | -------------- | --------------- | ----------- |
