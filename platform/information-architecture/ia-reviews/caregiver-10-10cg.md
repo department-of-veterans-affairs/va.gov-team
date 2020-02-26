@@ -37,12 +37,22 @@ New form for applying for the caregiver program | https://www.va.gov/family-memb
 Priority | Placement | Description
 --- | --- | ---
 
+need to review:
+- health care hub page
+- health care left nav
+- health care family benefits page
+- family hub page
+- family hub left nav needs? (preferably not)
+
+
 The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
 
 <hr>
 
 ### Redirect Needs <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
+
+- redirect for PCAFC page
 
 For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
 
