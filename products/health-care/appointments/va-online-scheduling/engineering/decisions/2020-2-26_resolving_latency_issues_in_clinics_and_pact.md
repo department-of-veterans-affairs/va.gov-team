@@ -32,3 +32,7 @@ CDW is how the current (legacy) VAOS application currently works and as a result
 While the ideal long term solution would be to get this data direct from PCMM, the authoritative source, it's not clear how well their web services have been vetted or if they could support the load and strain of bringing on additional API consumers at this time. Currently the web service is consumed solely by MyHealtheVet (MHV) with several other partners working to integrate. On a call with the group earlier in the week they were very open and transparent about stability challenges that they've run into. They do not yet know the root cause but are actively working to address this and other challenges. It is advised that we continue to engage with PCMM and work towards a long term solution as the web services available become more mature, but at present it comes with added risk and development effort. 
 
 The optimized row-indexed CDW indexing addresses the latency challenges with the least amount of development needed to implement a solution. Asuming everything goes to plan and this solution can be delivered in timely manner, this solution should allow both the VAOS redesign and legacy VAOS application to immediately benefit from improved response time, a complaint and issue raised by veterans throughout user research discovery.
+
+## Final Decision
+
+TBD
