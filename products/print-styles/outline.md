@@ -1,4 +1,4 @@
-# Product Outline Template
+# Print Styles Outline 
 
 #### Communications
 - Team Name: 
