@@ -10,7 +10,7 @@
  - There is no current plans for this capability to impact benefits beyond disability, but this should not necessarily be ruled out.
  - The tool will require authentication to utilize. 
 
-**Review Date:** In Progress
+**Review Date:** Complete, 2/25/2020
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/4545
 
@@ -47,11 +47,11 @@ Vew Dependents tool | www.va.gov/view-dependents/dependents | Home > Your VA dep
 
 Priority | Placement | Description
 --- | --- | ---
-High | https://www.va.gov/disability/add-remove-dependent/ | Add link within content for users to view dependents currently on their disability compensation
+High | https://www.va.gov/disability/add-remove-dependent/ | Add link within content for users to view dependents that are currently on their disability compensation. 
 Medium | Disability hub left nav | An option can be added to the left nav just below the Add dependents option.  Since this tool does not live in Disability this is not required. 
-Medium | https://www.va.gov/disability/ | A link to View dependents could be added to the Manage benefits section of the disability hub page.  However, the standard max links on this page per section is 10 and this page is already at 11. Links in the list should be prioritized in terms of usage and this additional link should only be added if 2 other links can be removed.  Placement would be immediately after the Add dependent option.  
-Medium | https://www.va.gov/search/?query=disability+dependents | Add to top recommendations section for " disability dependents" query
-Low | https://www.va.gov/search/?page=1&query=dependents | Add to top recommendation section for "dependents" query. This is a very broad term
+Medium | https://www.va.gov/disability/ | A link to View dependents could be added to the Manage benefits section of the disability hub page.  However, the standard max links on this page per section is 10 and this page is already at 11. Links in the list should be prioritized in terms of usage and this additional link should only be added if 2 other links can be removed.  Placement would be immediately after the Add dependent option.  Link label and teaser text will be required. 
+Medium | https://www.va.gov/search/?query=disability+dependents | Add to top recommendations section for "disability dependents" query.
+Low | https://www.va.gov/search/?page=1&query=dependents | Add to top recommendation section for "dependents" query. This is a very broad term and there is already 2 items in the top recommendations. 
 
 The above linking opportunities rated "medium" or "low" are purely recommendations and can be utilized at your team's discretion.
 
