@@ -31,7 +31,7 @@ Once the planned downtime has been announced in the #vsa-public-websites channel
  
  ## Downtime notification content and design resources
  
- Standardized messaging scheduled donwntime notifications and design componenets can be found here: 
+ Standardized messaging scheduled donwntime notifications and design components can be found here: 
  
  https://design.va.gov/patterns/messaging-dictionary
  
