@@ -1,7 +1,7 @@
 # Print Styles Outline 
 
 #### Communications
-- Team Name: 
+- Team Name: Print Styles 
 - GitHub Label: 
 - Slack channel: 
 - Product POCs:
