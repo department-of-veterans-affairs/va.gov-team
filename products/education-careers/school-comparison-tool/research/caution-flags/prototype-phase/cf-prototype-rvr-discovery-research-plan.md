@@ -54,8 +54,8 @@ Understanding Veterans’ expectations regarding VA’s responsibility to alert 
 
 The following users have been identified:
 * GI Bill beneficiaries who are interested in obtaining an undergraduate degree and have not yet enrolled in a school.
-   * 6 Veterans
-   * 2 Dependents  
+   * 7 Veterans
+   * 3 Dependents  
 
 ### What specific questions do we need to ask on our Usability Testing screener to get the right kinds of users to test the form?
 
@@ -117,7 +117,7 @@ Usability Testing will be conducted on March 2nd, 3rd & 4th, 2020.
 
 Timeslots will be: 
 *	Mar 2: 1PM, 3PM
-*	Mar 3: 9AM, 11AM, 1PM 
+*	Mar 3: 9AM, 11AM, 1PM, 3PM, 5PM 
 *	Mar 4: 9AM, 11AM, 1PM, 3PM
 
 
