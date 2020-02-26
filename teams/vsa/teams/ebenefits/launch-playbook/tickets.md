@@ -106,7 +106,24 @@ As a design researcher, I want to create a consistent conversation guide that en
 ```diff
 + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
 ```
+## Usability Session Readout for {feature}
+### Goal
+After conducting an in-depth usability study, we want to synthesize the information gathered and distill some recommendations for moving forward in creating the feature that best benefit the Veteran.
 
+### Considerations
+- Here is the [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md) for this study.
+
+### Tasks
+- [ ] Review notes, audio
+- [ ] Data analysis
+- [ ] Report findings of Usability testing of 686 pathfinding, workflow selection and general usability 
+
+### Acceptance Criteria
+- [ ] Create a presentation to include recommendations in long form of usability testing and key findings, PowerPoint (with pdf supplement) format is probably preferred
+
+```diff
++ + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
+```
 ## Request QA Review for {feature}
 ### Story  
 As an engineer, I want to request a review for Security and Load Testing with the QA Team to ensure that my feature meets the requirements for publication so that my pages will safely perform as expected under heavy loads typically found in the VA.gov environment.
