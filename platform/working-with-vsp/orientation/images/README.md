@@ -1,1 +1,1 @@
-Images in this folder were uploaded in support of the following document: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/accessing-va-network-without-va-laptop.md
+Images in this folder were uploaded in support of the following document: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/accessing-va-network-without-va-laptop.md

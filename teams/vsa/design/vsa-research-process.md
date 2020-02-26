@@ -16,7 +16,7 @@ Questions? Contact Shawna Hein.
 There is a required basic process to follow for planning and executing design research on VA.gov applications under the Veteran-facing Services Applications (VSA) contract. The Digital Experience and Product Office (DEPO, formerly DSVA) updated process document can be found  [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-process.md). Please read that process doc first and then read this document for more tips/details.
 
 ## <a id="setup"></a>Setup
-Create a new folder or folder structure in github under the product and/or application being researched, e.g. “UrgentCare/Research/June-2019-Usability-Test/.” This is where the research plan, conversation guide, notes, and final results should be stored. Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/repo-guidelines.md)
+Create a new folder or folder structure in github under the product and/or application being researched, e.g. “UrgentCare/Research/June-2019-Usability-Test/.” This is where the research plan, conversation guide, notes, and final results should be stored. Read [this naming guide for further details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md)
 
 Create a [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) and [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md) and save them in that folder as Markdown files.
 

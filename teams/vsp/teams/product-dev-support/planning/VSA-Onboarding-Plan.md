@@ -111,7 +111,7 @@ Consider including:
 ### Launching
 * Do we have the authority to delay a launch if there are issues? 
    * Assumption: Yes. It’s our responsibility to notify DSVA, and they decide.
-   * Andrew drafted launch criteria: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/Product%20Development%20Checklist.md
+   * Andrew drafted launch criteria: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/Product%20Development%20Checklist.md
    * Harry is working on the engineering best practices presentation (which addresses things that should be in place prior to launch): https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/frontend/engineering-best-practices.md
    
 ### VSA team structure
@@ -128,7 +128,7 @@ Consider including:
 
 ## Resources
 * [Onboarding Workshop Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Intake/June%202019%20MVP%20Workshop/decisions.md)
-* [Onboarding for External Contractors](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding)
+* [Onboarding for External Contractors](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation)
 * [Draft - Kickoff Agendas for New Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Onboarding/New%20VFS%20Team%20Kickoff%20Template.md)
 * [How does onboarding work today? -- meeting notes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/Platform/Teams/Product%20Support/Intake/June%202019%20MVP%20Workshop/Running%20Notes.md)
 
