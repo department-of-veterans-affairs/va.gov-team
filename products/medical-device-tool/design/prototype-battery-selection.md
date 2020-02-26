@@ -2,7 +2,7 @@
 
 Navigation: <br>
 **Select supplies (Default):** [Description](TBD) | [Feedback](TBD) | [Content](TBD)<br>
-**Use case - Rechargeable hearing aids only:** [Description](TBD) | [Feedback](TBD) | [Content](TBD)
+**Use case - Rechargeable hearing aids only:** [Description](TBD) | [Feedback](TBD) | [Content](TBD)<br>
 **Use case - All devices are ineligible:** [Description](TBD) | [Feedback](TBD) | [Content](TBD)
 
 ## Select Supplies (Default)
