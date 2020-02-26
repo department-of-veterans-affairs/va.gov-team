@@ -20,6 +20,7 @@
 ## 2. Complete "View Dependents"
 - Frontend: Establish GA events
 - Frontend: Finish unit tests
+- Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites
 
 ## 3. Initial Design: "My Payment History"
 - Design: Schedule Design intent meeting and create an initial feature design
