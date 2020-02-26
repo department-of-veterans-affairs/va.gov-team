@@ -1,4 +1,4 @@
-# IA Review and Recommendations - DRAFT
+# IA Review and Recommendations
 
 **Team:** eBenefits
 
