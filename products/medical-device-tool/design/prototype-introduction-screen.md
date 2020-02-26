@@ -3,7 +3,7 @@
 Navigation: <br>
 [Description](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#description) | [Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#feedback) | [Content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-introduction-screen.md#content)
 
-Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/6CVSW1NTJB4) | [Mobile](https://vsateams.invisionapp.com/share/TKVSW1W9C3G)
+Relevant links: Invision prototype [(Desktop)](https://vsateams.invisionapp.com/share/6CVSW1NTJB4) [(Mobile)](https://vsateams.invisionapp.com/share/TKVSW1W9C3G) | [Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5250)
 
 ### Description 
 This is the introduction screen for the MDT form. All veterans must log in before navigating to the order form, so the only alert that needs to be displayed is the _authenticated pre-fill and save form_ info alert. 
