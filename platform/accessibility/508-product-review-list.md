@@ -482,13 +482,13 @@ Each application or logical section of the site will have a heading and a detail
 
 #### Open issues
 * [[SCREENREADER, KEYBOARD]: Edit address link will not receive keyboard focus](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5866)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-0 — **_Showstopper_**
-* [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-0 — **_Showstopper_**
 * [[SCREENREADER, KEYBOARD]: Focus needs to return to Edit button that launched the modals when modals are closed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6156)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 * [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
 
 #### Closed issues
 * [Warning alert box icon abuts the H3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5735)
 * [[COGNITION]: Bug There is a character bug in country select data option ‘Reunion’ where it is ‘R�union’.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5846)
+* [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)
 
 ---
 
