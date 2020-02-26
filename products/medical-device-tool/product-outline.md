@@ -3,7 +3,7 @@ Product Outline
 
 ## Communications
 - Implementation Team: Veteran-facing Services Apps, Benefits and Memorials 2 (BAM2)
-- GitHub Label: 
+- GitHub Label: vsa-benefits2
 - Slack channel: #vsa-bam-2
 - Product POCs:
   - Matthew Self, DEPO Lead
@@ -45,17 +45,17 @@ Product Outline
 # Executive Summary
 
 ### User Problem Statement
-As a Veteran, who is eligible to re-order hearing aid batteries and accesories from the Denver Logistics Center, I would like to be able to see what items I can reorder on line and the date I am eligible on-line without having to call or email the support center. As the DLC, I would like to migrate more users to online self service reordering system to decrease call center volume and reduce costs.
+As a Veteran, who is eligible to re-order hearing aid batteries and accesories from the Denver Logistics Center (DLC), I would like to be able to see what items I can reorder on line and the date I am eligible ro reorder on-line without having to call or email the support center. As the DLC, I would like to migrate more users to online self service reordering system to decrease call center volume, mail in cards and reduce costs.
 
 ### Solution Goals
-Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system and makign the user experience easy adn intuitive.
+Improve the overall reordering experience for Veterans by increasing the number of medical items offered through Denver Logistic Center's (DLC) online ordering system and makign the user experience easy and intuitive.
 
 ### Minimal Viable Product (MVP)
 Medical Device Tool features: 
-- Veteran's personal information
-> Name, Address, Email
-- Edit veterans personal information
-- Products to order
+- Veteran's personal information - login and authenticate with Vet360 API
+> Name, Address, Email is prepopulated in the personal information forms.
+- Clear instructions on how to edit veterans personal information, if it is incorrect
+- Pull in reorder data using Reorder API so vets can see what productsthey are aligible to to reorder and eligibility dates and quantaties.
 > Hearing aid batteries
 > Hearing aid accessories
 - Confirmation page
@@ -78,29 +78,27 @@ DLC
 -Primary Objectives:
 > - Transition hearing aid battery resupply ordering from eBenefits to VA.gov
 > - Add online resupply request capability for common hearing aid accessories
-> - Minimize need for Veteran data entry in online channel
-> - Maximize DLC processing of requests via automated methods
+> - Minimize need for Veteran data entry in online channel. Personal information adn reorder information is prefilled for the Vets. 
+> - Maximize DLC processing of requests via online channel
 
 -Secondary Objectives:
-> - Include features to ensure correct delivery address for products being shipped
-> - Include features to augment communication to Veterans regarding status of their requests
+> - Include features to ensure correct delivery address for products being shipped. The Vet can edit deliviry address on-line. 
 
 VA
 -	Migrate DLC's medical device ordering tool from eBenefits to Va.gov
-Providers
--	TBD
 
 ## Assumptions
 - The low online orders are a result of Veterans finding it difficult to log into the eBenefits because of its additional authentication requirements. 
-- Veterans use other avenues to reorder their items because the online services only provides 2 items.
+- Veterans use other channels to reorder their items because the online channel is difficult and confusing to use.
 
 ## Requirements and Constraints
 ### Requirements- 
--	Access to Vets API
+-	Access to Vets API for user authentication, personal information
+- DLC to develop API to provide catalog information, reorder eligibility and reorder dates.
 -	Development environment compatible with VA standards
 
 ### Constraints- 
--	Lack of access to DLC’s applet. 
+-	Lack of access to DLC’s data. 
 -	DLC resources and time to update their system. Currently the DLC will have to build their own API.
 
 ## Discovery Takeaways
@@ -113,12 +111,12 @@ Providers
 Team will utilize shared resources to include, but not limited to: Front End engineer, Editors, content review, IA, 508, and local PAO input.
 
 #### User Value
--	Streamline the ordering process and improve reordering experience.
+-	Streamline the ordering process and improve reordering experience on on-line channel, migrate users from higher cost fulfillment options such as contact center and mail in reorder cards.
 
 #### Business Value
 Increase customer satisfaction
--	By fulling Veterans desire to reorder medical supplies online
--	Reducing number of mail-in and Call Center calls 
+-	By fulling Veterans desire to reorder medical supplies online instead of calling contact center or sending in reorder cards.
+-	Reducing number of mail-in and Call Center calls to decrease operating costs for DLC
 -	The opportunity to increasing focus on a Veterans needs because the volume of cued calls will be reduced.
 
 ## KPIs
