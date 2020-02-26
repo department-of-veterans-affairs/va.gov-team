@@ -369,7 +369,6 @@ Tressa out most of the sprint. For when she is back:
 - Finish all bug/QA/508 tickets that are still outstanding (TBD: We'll see what's still open by EOD Tuesday)
 - Revisit release plan #5085
 - Get/implement production key (note: this is already on its way but not sure what work Lihan has to do once he gets it)
-- Stop using country name for va profile contact information endpoint #5591
 - "Learn and Improve" plan written: KPI measurements, analytics reporting, next phase of features to build
 - Analytics work (not our team) #5895
 - Any analytics-related FE work
@@ -399,6 +398,8 @@ Dev
 ### Address validation
 
 - Launch?
+- Post launch: Stop using country name for va profile contact information endpoint #5591
+
 
 ### Profile 2.0
 
