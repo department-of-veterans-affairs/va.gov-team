@@ -106,6 +106,7 @@ The Interactive Prototype will be ready by: March 2, 2020.
 * Recruiter: Perigean Recruiting Firm
 * Discussion guide writer: UX team
 * Moderator: UX Team
+* Prototype designer: Cindy Cruz
 * Note-taker: Amy Knox, Cindy Cruz, Jen Jones
 * Observers: UX Team, Education Services & DEPO
 * Research readout writer: UX Team
