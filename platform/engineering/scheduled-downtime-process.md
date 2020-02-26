@@ -21,17 +21,17 @@ Once the planned downtime has been announced in the #vsa-public-websites channel
  **For downtime messages that will appear sitewide on static pages:**
  - Jen Lee and #vsa-public-website dev will be added as reviewers to the content ticket 
  - VSA-public-website team dev will create PR using the approved message and add Jen Lee and Peggy Gannon as reviewers
- - Once PR has been reviewed/approved, #vsa-public-website dev implement
+ - Once PR has been reviewed/approved, #vsa-public-website dev can implement it
  
  **For downtime messages that will appear in applications, tools, and on sign-in modules:**
  - VSP engineering POC (to confirm who??) and the DEPO product owners of product teams (Andrea Schneider, Matt Self, Samara Strauss, and Steve Kovacs) will be added as reviewers to the content ticket
  - VSP engineering POC (to confirm who??) will create PR using the approved message and add Peggy Gannon as reviewer 
- - Once PR has been reviewed/approved, it can be implemented 
+ - Once PR has been reviewed/approved, VSP dev can implement it 
 
  
  ## Downtime notification content and design resources
  
- Standardized messaging scheduled donwntime notifications and design components can be found here: 
+ Standardized scheduled downtime messages and design components can be found here: 
  
  https://design.va.gov/patterns/messaging-dictionary
  
