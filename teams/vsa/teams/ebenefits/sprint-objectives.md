@@ -17,12 +17,16 @@
 - Frontend: Stub out remaining FE workflows and unit tests (7-8)
 - Backend: Build infrastructure sufficient to pass first (n) steps in 686c submission workflow
 
-## 2. Initial Design: Design View Payments
+## 2. Complete "View Dependents"
+- Frontend: Establish GA events
+- Frontend: Finish unit tests
+
+## 3. Initial Design: "My Payment History"
 - Design: Schedule Design intent meeting and create an initial feature design
 - Design/ Research: Prepare user research/ interview sessions on how Veterans use View Payments  
 *(doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)*
 
-## 3. Stretch - Improve Product Infrastructure
+## 4. Stretch - Improve Product Infrastructure
 Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature.  
 *(Determine what kind of Product-level support is needed.)*
 
