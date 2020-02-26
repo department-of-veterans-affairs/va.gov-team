@@ -9,8 +9,7 @@ The VSP IA Team supports teams building on VA.gov by providing guidance and best
 * [How to contact us](#how-to-contact-us)
 * [What we do](#what-we-do)
 * [Working with us](#working-with-us)
-* [Key deliverables](#key-deliverables)
-* [Best practices and resources](#best-practices-and-resources)
+* [Best practices and resources](#best-practices-and-guides)
 
 
 
