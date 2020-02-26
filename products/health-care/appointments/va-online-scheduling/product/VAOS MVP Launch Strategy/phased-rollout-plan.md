@@ -14,6 +14,10 @@
     - Lets us push marketing until we've gotten some good feedback to include
     - Minimizes risk that a large number of veterans hit show-stopping problems at once, which could build distrust
 
+## Latest Status of Phased Rollout (2.26.2020)
+![Status as of 2/26/2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/phased_rollout_as_of_2.26.png)
+
+
 -----
 
 ## Phase 0: Pre-launch & launch prep [Due Pre-Launch]
