@@ -8,7 +8,7 @@ Navigation: <br>
 
 ## Use case - Pre-filled information
 
-Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/Q7VVWGZUG4N) | [Github Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5162)
+Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/Q7VVWGZUG4N) | [Github Issue: Default state v.01](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5162) | [Github Issue: Default state v.02](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5789)
 
 ### Description 
 Since qualified veterans need to be logged in to place an order, the default state can be assumed to pre-fill the veteran's contact information. <br>
@@ -16,6 +16,7 @@ Initial focus point should be on the H1: _Order hearing aid batteries and access
 
 ### Feedback 
 **VSP Office hours in early February**
+The following feedback was incorporated into the design via [this Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5789).  
 * Use either full state name or state abbreviation + state name 
 * Reference: Pension form has every address field stacked
     * Some fields are shorter (such as postal code)
@@ -74,7 +75,7 @@ Email address (optional)
 
 ## Use case - Manually entered information 
 
-Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/RJVXC02MS3W) | [Github Issue](https://vsateams.invisionapp.com/share/RJVXC02MS3W)
+Related links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/RJVXC02MS3W) | [Github Issue: Manually entering information](https://vsateams.invisionapp.com/share/RJVXC02MS3W) | [Github Issue: Adding a forwarding address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5168)
 
 ### Description 
 If the veteran's data is not being pre-filled or they need to manually update a portion of their contact information, they are able to do so by editing the input fields. 
@@ -132,7 +133,7 @@ Email address (optional)
 
 ## Use case - Updated email 
 
-Relevant links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/JVVXCA1W3GA) | [Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5167)
+Relevant links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/JVVXCA1W3GA) | [Github issue: Adding a new email address ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5167)
 
 ### Description 
 This screen shows how a veteran could add a new address or update an existing address. Since the component to capture email addresses is a text input field, the veteran would need to overwrite the current address or type a new one in the blank field.<br> 
