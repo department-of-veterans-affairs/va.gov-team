@@ -12,7 +12,7 @@ Throughout the process, we are interested in hearing your honest opinions. We a
 
 **Recording**
 
-We generally record sessions, in case we need to confirm that we have captured your opinions accurately. Are you comfortable if I record the audio and screen movements as we talk? 
+We like to record sessions in case we need to confirm  we captured your opinions accurately. Are you comfortable if I record the audio and screen movements as we talk? 
 
 Great! I'm going to turn the recording on now.  Once it starts, I’ll ask again if you are okay if we record, so we have your verbal consent.
 
