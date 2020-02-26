@@ -20,9 +20,9 @@ If you need a hand with anything IA-related, don't hesitate to contact us.
 * Mikki Northius, IA - Slack @Mikki
 * Megan Kelley, PM - Slack @Megan Kelley
 
-Slack channels: - #vfs-platform-support, #vsp-content-ia
+Slack channels: #vfs-platform-support, #vsp-content-ia
 
-Github/Zenhub labels: - `content-ia-team`
+Github/Zenhub labels: `content-ia-team`
 
 ## What we do
 >*”Information Architecture focuses on organizing, structuring, and labeling content…The goal is to help users find information and complete tasks.“* - Usability.gov
