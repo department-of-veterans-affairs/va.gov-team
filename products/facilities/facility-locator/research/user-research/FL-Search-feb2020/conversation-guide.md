@@ -47,16 +47,20 @@ I'm going to send you a link to the VA website. Once you have it pulled up, will
 ### Things to watch for:
 
 - How do they interact with the map?
-- Do they scroll through results? Do they compare anything?
+- Do they scroll through results? 
+- Do they compare anything?
 
 ## Third Task: Start new search
 
-Great! I'm going to give you another task:
-- You've decided that you want to see what community clinics provide urgent care near your home. Show us what you would do to find this.
+Great! I'm going to give you another scenario:
+
+- You have a sore throat and want to find a community clinic that provides urgent care for Veterans close to your house. Show us what you would do to find this.
 
 ### Things to watch for:
 
--
+- What categories are they searching for?
+- Do they make note of the listings?
+- Do they look at the map first?
 
 ## Post-Task Interview - X minutes
 
