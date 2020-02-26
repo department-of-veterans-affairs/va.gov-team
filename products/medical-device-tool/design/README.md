@@ -32,5 +32,4 @@ Documentation containing descriptions, feedback, and content for each chapter's 
 - **Chapter 3: Review order** 
    - Page 1: Review order (TBD)
 - **Confirmation screen** 
-   - Confirmation screen (TBD)
-   - Print stylesheet (TBD)
+   - [Confirmation screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-confirmation-screen.md)
