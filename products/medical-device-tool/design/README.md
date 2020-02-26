@@ -27,7 +27,7 @@ Documentation containing descriptions, feedback, and content for each chapter's 
    - Page 1: [Personal details](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-personal-details.md)
    - Page 2: [Contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-contact-information.md)
 - **Chapter 2: Select Supplies** 
-   - Page 1: Batteries (TBD)
+   - Page 1: [Batteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/design/prototype-battery-selection.md)
    - Page 2: Accessories (TBD)
 - **Chapter 3: Review order** 
    - Page 1: Review order (TBD)
