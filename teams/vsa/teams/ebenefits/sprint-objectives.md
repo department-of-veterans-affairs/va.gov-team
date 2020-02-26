@@ -17,7 +17,7 @@
 - Frontend: Stub out remaining FE workflows and unit tests (7-8)
 - Backend: Build infrastructure sufficient to pass first (n) steps in 686c submission workflow
 
-## 2. Complete "View Dependents"
+## 2. Complete "View Dependents" in Staging
 - Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites
 - Frontend: Establish GA events
 - Frontend: Finish unit tests
