@@ -29,8 +29,10 @@
 *(doesn’t necessarily need a fully resourced research project, could be extremely lightweight voice interviews, just looking for pain points in the existing product)*
 
 ## 4. Stretch - Improve Product Infrastructure
-Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature.  
+- Frontend: Work across platform to plan development on a Drupal+vets-website UAT solution. The goal is to be able to launch a full product to production behind a feature flag and invite a specific group of users to interact with the feature.  
 *(Determine what kind of Product-level support is needed.)*
+- Submit request to allow developers to directly modify and update our documentation
+- Submit request for an alert to all devs for breaking changes
 
 ## Sprint 15 (2/12 - 2/25)
 ```diff 
