@@ -105,10 +105,14 @@ The Interactive Prototype will be ready by: March 2, 2020.
 * Screener writers: UX Team
 * Recruiter: Perigean Recruiting Firm
 * Discussion guide writer: UX team
-* Moderator: UX Team
+* Moderator: Amy Knox
 * Prototype designer: Cindy Cruz
-* Note-taker: Amy Knox, Cindy Cruz, Jen Jones
-* Observers: UX Team, Education Services & DEPO
+* Note-taker: Cindy Cruz, Jen Jones
+* Observers: 
+  * DEPO: Matt Self
+  * Education Service: Joseph Preisser, Brian Grubb, Tammy Hurley
+  * OIT: Darla van Nieukerk
+  * Booz Allen: Will McCormack, Dan Shawkey, Desiree Turner
 * Research readout writer: UX Team
 
 ### When do we want to conduct the testing?
