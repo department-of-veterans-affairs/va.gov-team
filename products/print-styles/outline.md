@@ -8,7 +8,8 @@
 - Stakeholders: N/A 
 
 #### Team Members
-Riley Orr, Jonathan Nelson 
+
+- Riley Orr, Jonathan Nelson 
 ---
 
 ## Overview
