@@ -117,7 +117,7 @@ Usability Testing will be conducted on March 2nd, 3rd & 4th, 2020.
 Timeslots will be: 
 *	Mar 2: 1PM, 3PM
 *	Mar 3: 9AM, 11AM, 1PM 
-*	Mar 4: 9AM, 11PM, 1PM, 3PM
+*	Mar 4: 9AM, 11AM, 1PM, 3PM
 
 
 Each session will last no longer than 45 minutes.  
