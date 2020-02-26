@@ -1,7 +1,7 @@
 # Prototype: C2 P1: Battery selection 
 
 Navigation: <br>
-**Select supplies (Default):** [Description](TBD) | [Feedback](TBD) | [Content](TBD)
+**Select supplies (Default):** [Description](TBD) | [Feedback](TBD) | [Content](TBD)<br>
 **Use case - Select supplies (Rechargeable only):** [Description](TBD) | [Feedback](TBD) | [Content](TBD)
 
 
