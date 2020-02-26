@@ -19,7 +19,6 @@
 
 ## 2. Complete "View Dependents" in Staging
 - Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites
-- Frontend: Establish GA events
 - Frontend: Finish unit tests
 - Backend: Update the data format for "View Dependents"  
 
