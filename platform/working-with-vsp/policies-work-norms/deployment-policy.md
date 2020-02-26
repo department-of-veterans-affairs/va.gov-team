@@ -12,7 +12,13 @@ If there are days or periods of time when many people will be out of the office 
 
 ### Holiday release freeze schedule
 
-Automated deploys will not occur on the following days, due to holidays:
+During holiday release freezes:
+
+* Automated deploys will not occur
+* All code deploys require approval via the "Requesting out-of-band-deploys" process below
+* Content-only deploys may continue without explicit approval, but need to be manually triggered
+
+The holiday release freeze is in effect during the following dates:
 
 #### 2020
 
