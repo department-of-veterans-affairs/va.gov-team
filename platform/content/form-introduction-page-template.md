@@ -46,15 +46,15 @@ Note: If you sign in after you’ve started your application, you won’t be abl
 
 {CTA Blue button} Sign in to start your [benefit] application
 
+{link} Start your application without signing in
+
 {end blue box}
 
-{link} Start your application without signing in
 
 Most online applications will give you the option to start the form without signing in. 
 The exception is Disability Compensation form. You need to sign in to start that application. 
 
-
-[TO ADD: screenshot]
+![signed out.png](https://images.zenhubusercontent.com/59b0414bb0222d5de476aa22/1d5d3f75-9047-44d1-8ebb-93c5c7c25e53)
 
 
 ## Subway map (required)
@@ -124,7 +124,8 @@ Depending on the type of benefit, we sometimes include an informational alert bo
 
 This is an optional component and should only be used if there is important benefit or part of the application process to call out to the applicant. 
 
-[TO ADD screenshot]
+![alert box.png](https://images.zenhubusercontent.com/59b0414bb0222d5de476aa22/05c0adb9-7d2d-4040-8d2f-9742273d7771)
+
 
 
 ### OMB information 
