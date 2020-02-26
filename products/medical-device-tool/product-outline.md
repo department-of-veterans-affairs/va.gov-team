@@ -181,8 +181,8 @@ In progress
   + [Technical](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/WebSequenceDiagram.pdf)
 
 - Product specs
-  -wip- 
-  > Producsts: Hearing aid Batteries, Accessories, Prosthetic Socks
+  
+  > Producsts: Hearing aid Batteries, Accessories
   > Order history of last 2 years of items
   > Product: Make
   > Product: Name 
@@ -203,14 +203,14 @@ In progress
 ## Team
 - DSVA Product Manager: 
 - DSVA Supporting Product Manager: Matt Self
-- Team Product Manager: Nicolaus Wygonik
+- Team Product Manager: Leah Keeler
 - VA Regional PAO(s): TBD
 - VA local site PAO(s): TBD
 - Managing Editor: Louis Carlozo
 - Business Analysts:  + TBD
 - Content Writers:  + TBD
 - Front-end Engineer: Amen Ra, Mahariel Rosario
-- Back-end Engineer: TBD
+- Back-end Engineer: Cameron Testerman
 - Designers: Rebecca Walsh, Riley Orr
 - Design Lead: Shawna Hein
 - Eng Lead: Joe Costa
