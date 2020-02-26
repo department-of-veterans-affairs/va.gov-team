@@ -17,7 +17,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 
 - [ ] PM: Attend intro meeting with product support PM
 - [ ] Attend general orientation meeting
-- [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
+- [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 - [ ] Review the [Norms for Using Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-tools.md)
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/code-of-conduct.md)
