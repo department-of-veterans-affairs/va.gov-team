@@ -3,9 +3,9 @@
 #### Communications
 - Team Name: Print Styles 
 - GitHub Label: 
-- Slack channel: 
-- Product POCs:
-- Stakeholders: 
+- Slack channel: N/A 
+- Product POCs:N/A 
+- Stakeholders: N/A 
 
 #### Team Members
 
