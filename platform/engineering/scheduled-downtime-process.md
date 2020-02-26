@@ -16,25 +16,24 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 
 ## Content and PR creation 
 
- Once the downtime has been announced in the #vsa-public-websites channel and#vfs-all-teams channel, VSP content lead @peggygannon will create a content ticket for the downtime notifications. 
+Once the planned downtime has been announced in the #vsa-public-websites channel and #vfs-all-teams channel, VSP content lead (@peggygannon) will create a content ticket for the downtime notifications. 
  
- For downtime messages that will appear sitewide on static pages:
- - Jen Lee, and #vsa-public website Dev will be added as reviewers so the correct message can is used in the PR. 
- - VSA-public-website team dev will create PR and add Jen Lee and Peggy Gannon as reviewer
- - Once PR has been reviewed/approved, it can be implemented
+ **For downtime messages that will appear sitewide on static pages:**
+ - Jen Lee and #vsa-public-website dev will be added as reviewers to the content ticket 
+ - VSA-public-website team dev will create PR using the approved message and add Jen Lee and Peggy Gannon as reviewers
+ - Once PR has been reviewed/approved, #vsa-public-website dev implement
  
- For downtime messages that will appear in applications, tools and on sign-in modules:
- - VSP engineering POC (??) and the DEPO product owners of those teams (Andrea Schneider, Matt Self, Samara Strauss, and Steve Kovacs) will be added to the content ticket so the correct message is used in the PR
- - VSP dev POC (??) will create PR and add Peggy Gannon as reviewer. 
- - Once PR has been reviewed/approved, it can be implemented
- 
+ **For downtime messages that will appear in applications, tools, and on sign-in modules:**
+ - VSP engineering POC (to confirm who??) and the DEPO product owners of product teams (Andrea Schneider, Matt Self, Samara Strauss, and Steve Kovacs) will be added as reviewers to the content ticket
+ - VSP engineering POC (to confirm who??) will create PR using the approved message and add Peggy Gannon as reviewer 
+ - Once PR has been reviewed/approved, it can be implemented 
 
  
  ## Downtime notification content and design resources
  
- Standardized messaging scheduled donwntime notifications can be found here: 
+ Standardized messaging scheduled donwntime notifications and design componenets can be found here: 
  
  https://design.va.gov/patterns/messaging-dictionary
  
- Standardizd design components for scheduled downtime notifications can be found here: 
+  
  
