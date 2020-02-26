@@ -32,13 +32,11 @@ Vew Dependents tool | www.va.gov/view-dependents/dependents | Home > Your VA dep
  
 **General Details**
 - Label used in breadcrumb should closely match H1, work with your writer to finalize. 
-- Because these pages are outside of the benefit hubs, there is no left nav on either static page or the tool.
+- Breadcrumb for the tool does not need to represent the static page in the hierarchy since that page is a pass-through for authenticated users.
+- Because these pages are outside of the benefit hubs, there is no left nav on neither static page nor the tool.
 - The static page will need to include a sign-in CTA module. 
 - If an authenticated user lands on the static page URL, they will bypass the static the page and be taken directly to the tool
-- If an unauthenticated user lands directly on the tool URL, they should be redirected to the static page.
-- Breadcrumb for the tool does not need to represent the static page in the hierarchy since that page is a pass-through for authenticated users.  
-- Label used in breadcrumb should closely match H1, work with your writer to finalize. 
-  
+- If an unauthenticated user lands directly on the tool URL, they should be redirected to the static page.  
 
 <hr>
 
