@@ -49,10 +49,14 @@ I'm going to send you a link to the VA website. Once you have it pulled up, will
 - How do they interact with the map?
 - Do they scroll through results? Do they compare anything?
 
-## Second Task: Start new search
+## Third Task: Start new search
 
 Great! I'm going to give you another task:
 - You've decided that you want to see what community clinics provide urgent care near your home. Show us what you would do to find this.
+
+### Things to watch for:
+
+-
 
 ## Post-Task Interview - X minutes
 
