@@ -15,26 +15,18 @@
 ## Overview
 Veterans have expressed interest in being able to print both the Review submission and Confirmation screens while completing forms on VA.gov. Many confirmation screens prompt the veteran to print this page for their records, however there is no current print style design implemented on VA.gov. This causes some strange printing errors. 
 
-The goal is to design the print stylesheet to both follow best practices and standardize print stylesheets across all VA.gov pages
-
-
-## Problem Statement
-*In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
-
-*Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
+The goal is to design the print stylesheet to both follow best practices and standardize print stylesheets across all VA.gov pages. 
  
 ## Desired User Outcomes
 
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+
 
 ## Undesired User Outcomes
 
 
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Consitent 
 
 ## Undesired Business Outcomes
 
