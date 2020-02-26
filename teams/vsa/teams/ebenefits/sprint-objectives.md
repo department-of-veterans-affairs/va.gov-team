@@ -18,9 +18,10 @@
 - Backend: Build infrastructure sufficient to pass first (n) steps in 686c submission workflow
 
 ## 2. Complete "View Dependents"
+- Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites
 - Frontend: Establish GA events
 - Frontend: Finish unit tests
-- Design: Establish a recommended landing page to be sent to Content/IA, and eventually Public Websites
+- Backend: Update the data format for "View Dependents"  
 
 ## 3. Initial Design: "My Payment History"
 - Design: Schedule Design intent meeting and create an initial feature design
