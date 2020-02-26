@@ -132,10 +132,11 @@ Email address (optional)
 
 ## Use case - Updated email 
 
-Invision Prototype: [Desktop](https://vsateams.invisionapp.com/share/JVVXCA1W3GA)
+Relevant links: [Invision prototype (Desktop)](https://vsateams.invisionapp.com/share/JVVXCA1W3GA) | [Github issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5167)
 
 ### Description 
-TBD
+This screen shows how a veteran could add a new address or update an existing address. Since the component to capture email addresses is a text input field, the veteran would need to overwrite the current address or type a new one in the blank field.<br> 
+Initial focus point: Since the Veteran is editing their email address, the focus point should be on the _email address_ text input field. This is marked using the focus management styling provided in the VA design system. 
 
 ### Feedback 
 TBD
@@ -144,7 +145,47 @@ TBD
 **Note:** Content still needs to be reviewed by content team. Utility classes need to be reviewed by A11Y team. 
 
 ```
-TBD
+Home > Health care > Order hearing aid batteries and accessories 
+
+# Order hearing aid batteries and accessories (h1)
+Form 2346
+
+[Chapter title] 1 of 3 Veteran Information
+
+[Blue info alert box]
+We’ve prefilled some of your information from your account. If you need to correct anything, you can edit the form fields below.
+
+## Shipping address (h4 utility)
+Your order will ship to this address. Orders typically arrive within 7-10 business days. 
+
+[Dropdown component]
+Country
+
+[Text input]
+Address line 1
+
+[Text input]
+Address line 2 (Apartment, building, suite, etc.)
+
+[Text input] 
+City
+
+[Dropdown component]
+State
+
+[Text input]
+Postal code
+
+## Email address (h4 utility)
+We will send an order confirmation email with a tracking number to this email address.
+
+[Text input]
+Email address (optional)
+
+[Secondary blue button] Back
+[Primary blue buttom] Continue
+
+[Link to exit application] Finish this application later.
 ```
 
 ## Use case - Error handling 
