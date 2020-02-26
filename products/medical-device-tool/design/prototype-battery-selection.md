@@ -8,12 +8,12 @@ Navigation: <br>
 Related links: [Invision prototype: Default page, unselected (Desktop)](https://vsateams.invisionapp.com/share/PYW5VLL32XU) | [Invision prototype: Default page, 'no' selected (Desktop)](https://vsateams.invisionapp.com/share/NZW5VMKMUE9) | [Invision prototype: Default page, 'yes' selected, hearing aids for both ears only](https://vsateams.invisionapp.com/share/C5W5VNGNBPY) | Invision prototype: Default page, 'yes' selected, mix of hearing aids [(Desktop)](https://vsateams.invisionapp.com/share/QVW5VPDMK3B) [(Mobile)](https://vsateams.invisionapp.com/share/8YW5VRVWRUS) | [Github Issue: Default state v.01](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5793)
 
 ### Description 
-This is the flow for the default state allowing the veteran to select the hearing aid(s) they would like to place batteries for. The flow contains multiple screens for various use cases. <br>
+This is the flow for the default state allowing the veteran to select the hearing aid(s) they would like to place batteries for. The flow contains multiple screens for various use cases. <br><br>
 The initial focus point per screen: <br>
-Default page, unselected - H1 _Order hearing aid batteries and accessories_<br>
-Default page, 'no' selected - The radio button _No, I don't need to order hearing aid batteries._<br>
-Default page, 'yes' selected, hearing aids for both ears only - The radio button _Yes, I need to order hearing aid batteries._<br>
-Default page, 'yes' selected, mix of hearing aids -  Since one of the cards is selected, the focus point should be on that card. We may need to provide styling references to the front-end engineers. <br>
+**Default page, unselected** - H1 _Order hearing aid batteries and accessories_<br>
+**Default page, 'no' selected** - The radio button _No, I don't need to order hearing aid batteries._<br>
+**Default page, 'yes' selected, hearing aids for both ears only** - The radio button _Yes, I need to order hearing aid batteries._<br>
+**Default page, 'yes' selected, mix of hearing aids** -  Since one of the cards is selected, the focus point should be on that card. We may need to provide styling references to the front-end engineers. <br>
 
 ### Feedback 
 TBD
