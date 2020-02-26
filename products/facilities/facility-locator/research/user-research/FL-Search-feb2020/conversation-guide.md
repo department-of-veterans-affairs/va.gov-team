@@ -30,25 +30,36 @@ I'm going to send you a link to the VA website. Once you have it pulled up, will
 ## First Task: Find facility locator
 
 **Scenario**
-- You've come to the VA website because you made an appointment at your VAMC and need to find the address. Show us what you would do to find it.
+- You've come to the VA website because you need help applying for benefits and want to see someone in person at a VA facility. Show us how you would do that.
 
 ### Things to watch for:
 
 - How does the participant search by location (ZIP, city, etc.)?
+- Which dropdown options do they select?
 
-## Second Task: 
+## Second Task: Review results
 
-- Step 1
-- Step 2
+- I noticed you clicked [search info]. Talk about why you chose this.
+- What are your impressions of the search results?
+- How many search results would you expect to see?
+- Why would you choose [the one they choose]?
 
 ### Things to watch for:
 
-- Example
+- How do they interact with the map?
+- Do they scroll through results? Do they compare anything?
+
+## Second Task: Start new search
+
+Great! I'm going to give you another task:
+- You've decided that you want to see what community clinics provide urgent care near your home. Show us what you would do to find this.
 
 ## Post-Task Interview - X minutes
 
 - How many results do you want to see after you search?
 - Do you use any sort of map applications? If so, which one(s)?
+- What kind of device do you normally use?
+- Would you use that device to search for facilities on VA.gov?
 - Any questions for me? 
 
 ## Thank-You and Closing - X minutes
