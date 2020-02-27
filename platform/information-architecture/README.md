@@ -3,7 +3,7 @@
 
 # Information Architecture (IA)
 
-The VSP IA Team supports teams building on VA.gov by providing guidance and best practice recommmendations to ensure all content is easily findable and to maintain a consistent navigation experience for our users regardless of the number of people and teams building user experiences on VA.gov.
+The VSP IA Team supports teams building on VA.gov by providing guidance and best practice recommendations to ensure all content is easily findable and to maintain a consistent navigation experience for our users regardless of the number of people and teams building user experiences on VA.gov.
 
 ##### Table of contents
 * [How to contact us](#how-to-contact-us)
