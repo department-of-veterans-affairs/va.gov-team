@@ -28,7 +28,7 @@ Product Outline
 - [Discovery Takeaways](#discovery-takeaways)
 - [Solution Approach](#solution-approach)
 - [Value Propositions](#value-propositions)
-- [KPIs](#kpis)
+- [OKRs & KPIs](#okrs-kpis)
 
 # Implementation Information
 - [Status](#status)
@@ -119,7 +119,7 @@ Increase customer satisfaction
 -	Reducing number of mail-in and Call Center calls to decrease operating costs for DLC
 -	The opportunity to increasing focus on a Veterans needs because the volume of cued calls will be reduced.
 
-## KPIs
+## OKRs-KPIs
 *Objective:* Reduce ordering complexity and streamline the process.
 * Reduction in mailed in orders
 * Reduction of Call Center orders
