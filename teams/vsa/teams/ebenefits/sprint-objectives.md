@@ -10,7 +10,7 @@
 ----
 ## Sprint 16 (2/26 - 3/10)
 ```diff 
-- TBD
+- 44 points over 16 issues
 ```
 ## 1. Continue Developing "Submit 686c Dependency Claims"
 - Design: Synthesize feedback from usability study and update mocks, prepare for/ run final platform design meetings
