@@ -29,6 +29,7 @@ Anyone can be a pilot participant! It helps the team gain empathy for our users 
 Ask the moderator to explain who will actually be participating in the study and what their goals are for the research study. You can also read the research plan before the pilot session.
 
 **What if I'm "too close" to the work?**
+
 Try to separate yourself from the role you played in building the tool/site. Imagine that you are using it just as the actual participants do. 
 
 Thanks for participating and have fun!
