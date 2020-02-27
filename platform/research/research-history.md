@@ -12,6 +12,14 @@ This does not include research for Appeals projects, which is stored in differen
 
 __Please note that many links on this page reference research folders in the vets.gov-team GitHub repo. These links will be updated as work on migrating documentation to va.gov-team repo progresses.__
 
+### March 2020
+
+#### March 2-4: GI Bill Comparison Tool - Caution Flags & Reducing Veteran Risk in School Selection  
+*Booz Allen: Amy Knox, Cindy Cruz*
+
+- 8 participants  
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/school-comparison-tool/research/caution-flags/prototype-phase) 
+
 ### February 2020
 
 #### February 19-March 6: eBenefits Form 21-686c Add/Remove Dependents Workflows
