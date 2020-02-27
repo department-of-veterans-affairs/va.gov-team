@@ -31,11 +31,10 @@ Key Links
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
 
-As a Veteran using the Facility Locator, I need to...
-- have relevant search results returned to me quickly 
-- view an appropriate number of search results
-- define my search area by interacting with the map
-- find the location closest to me (whether it is five or fifty miles away)
+As a Veteran using the Facility Locator, I need search results returned to me quickly so that I can have my need met. 
+As a Veteran using the Facility Locator, I need to find the location closest to me (whether it is five or fifty miles away) so that I can visit the most convenient location. 
+As a Veteran using the Facility Locator, I need to define my search area by interacting with the map so that the results returned are relevant to my location. 
+
  
 ### Project Rationale
 _Why should this project be a priority?_ 
@@ -53,34 +52,30 @@ TBD
 
 ### Project Scope and Scale
 _What's in and what's out?_
-
-
-Focused on solving the following problems:
-
-
-To address the following user stories: 
-- 
+- Setting default for number of search results
+- Setting default for map parameters
+- Enabling user interaction with the map to impact search parameters
 
 ### Not currently in scope
-
+- Change to search UX
 
 ### Measuring Success
 _How will we know if we are successful?_
 
-**Objective: 
-
-**Objective: 
+**Objective 2: Enhance the search process (The search is intuitive, efficient and fast)** 
+- KR 1b: Time for delivery of search results will improve by (TBD) by (date)
 
 ### Dependencies
 _Are other features dependent on this one? What do we need from partners? What do we need outside of engineering?_
 
 **Team/Internal dependencies**
-  
+ Competing priorities and front end resource constraints 
+
 **Partner dependencies**
   - Availability of Mapbox functionality and features based on current contract and version
   
   ### Risk factors
-  - 
+  
 
 ### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
