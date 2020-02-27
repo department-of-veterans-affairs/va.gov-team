@@ -131,7 +131,7 @@ On Wednesday, February 27, the Debt Letters MVP was officially assigned to BAM2 
 ## Solution Narrative
 
 - **Sprint XX: (02/26/2020 - 03/10/2020)**:
- - Project officially passed intake and was assigned to BAM2
+  - Project officially passed intake and was assigned to BAM2
 - **5/27/2019**: On staging 
 - **6/24/2019**: Started Usability testing
 - **July 2019**: Project put on hold while eBenefits worked on figuring out data requirements for the eBenefits fraud team
