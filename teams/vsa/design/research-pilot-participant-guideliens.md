@@ -2,10 +2,9 @@
 
 We run a pilot/test session before each study so we can rehearse the process of logging in, working through kinks, and getting familiar with how the study will go. 
 
-## How it works
-You should receive an invitation for a pilot session from either Perigean or somone from VSP
-
 ## What to expect
+- You should receive an invitation for a pilot session from either Perigean or somone from VSP
+
 - You may be given a series of tasks to complete or asked to answer questions about "your experience" with the VA.gov site.
   - Don't worry about pretending to be someone else. Answer the questions truthfully, keeping in mind the target audience for the real study
 
