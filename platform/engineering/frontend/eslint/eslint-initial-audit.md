@@ -1,7 +1,9 @@
 ### ESLint Enforced Rules Audit
 
 **Author:** Jhonny Gonzalez
+
 **Last Updated:** February 3, 2020
+
 **eslint version:** 4.18.2
 
 ### Objective
