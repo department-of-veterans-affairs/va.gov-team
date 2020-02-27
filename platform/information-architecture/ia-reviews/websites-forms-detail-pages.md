@@ -11,27 +11,27 @@
 
 **IA Review Issue:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/3836
 
+<hr>
 
 ### IA Structure, URLs and Breadcrumbs <br>
 *Description of IA or link to site map documentation, the final URLs to be used and breadcrumb requirements.*
 
 **Structure**
-- All form detail pages will be root level pages, they will not be related to or linked to from the forms search tool. 
+- All form detail pages will be root level pages, they will not be related to or linked to from the forms search tool or elsewhere on the site, except organic search results. 
 
 **URLs**
 - All landing pages will have a consistent structured URL that can be dynamically generated from form data. 
   - The form number will be pulled from the forms data and used in the URL preceeded by "/about-form-"
   - Spaces in form numbers will be replaced by dashes
   - All alpha characters will be lower case
-  - All characters in the form number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
+  - All characters in the form name/number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
 
-Structure: www.va.gov/about-form-[form-nbr] 
+URL Structure: www.va.gov/about-form-[form-nbr] 
 
-Example Form data | Example URL
---- | ---
-10-10EZ | www.va.gov/about-form-10-10ez
-21-526EZ | www.va.gov/about-form-21-526ez
-VA 4107 VHA | www.va.gov/about-form-va-4107-vha
+**Drupal URL Requirements**
+- Drupal will auto-generate the URL based on the specified form data to complete the URL structure above. 
+- The URL, once established, should be locked down so it is not changed if data is changed
+- The auto-generated URL can only be changed by being manually overwritten by the Public Websites team if they choose to do so - changing the URL will likely require redirects to be put in place
 
 **Breadcrumb** 
 - The breadcrumb will have a consistent structured label that is dynamically generated from form data
@@ -39,13 +39,20 @@ VA 4107 VHA | www.va.gov/about-form-va-4107-vha
   - Spacing and capitalization will be displayed as it is in the data
   - All characters in the form number coming from the data will be used (i.e. we will not drop extra characters such as "VA")
 
-Example:  Home > VA form 21-526ez 
+Breadcrumb Structure:  Home > VA form [form number] 
 
+Example Form data | Example URL  | Example Breadcrumb
+--- | ---
+10-10ez | www.va.gov/about-form-10-10ez | Home > VA form 10-10ez
+21-526EZ | www.va.gov/about-form-21-526ez | Home > VA form 21-526EZ 
+VA 4107 VHA | www.va.gov/about-form-va-4107-vha | Home > VA form VA 4107 VHA 
+
+<hr>
 
 ### Navigation/Entry Points <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
-No navigational links will be added to these pages, users will access these pages directly through external search and va.gov search.
+No navigational links will be added to these pages, users will access these pages directly through external search and va.gov search only.
 
 **User Flows:**  
 
@@ -69,7 +76,6 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
 ### Open Questions/Issues
 
 - Need technical conversation with Drupal team on Drupal auto-URL generation.  How are URLs generated?  Based on what content/data? This information will help inform:
-  - The standard URL structure for every landing page (custom and dynamic)
   - We will need to know exact URL of new landing pages so we can map the legacy redirects accurately
   - Determine if anything can impact the URL - either change in data (such as H1 change) or manual override
   
@@ -78,4 +84,4 @@ For redirects, please submit a Redirect Request at least 2 weeks in advance per 
   
 - There are a number of OPM forms that currently have search landing pages and appear in the legacy form search results.  Jen will follow up with stakeholders to determine if there is a way to suppress these from showing in the results given they are not VA forms and for internal use only.  
   - If they can be suppressed, users will get a "form not found" message
-  - If they cannot be suppressed, we will add some of the higher visited forms to our 1:1 redirect list
+  - If they cannot be suppressed, we will add some of the higher visited forms to our 1:1 redirect list and direct them to either the OPM or GSA site
