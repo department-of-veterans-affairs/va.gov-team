@@ -2,10 +2,13 @@
 
 We run a pilot/test session before each study so we can rehearse the process of logging in, working through kinks, and getting familiar with how the study will go. 
 
+So you've been asked to participate in a research pilot. What's next?
+
 ## What to expect
 - You should receive an invitation for a pilot session from either Perigean or somone from VSP
 - You may be given a series of tasks to complete or asked to answer questions about "your experience" with the VA.gov site.
-  - Don't worry about pretending to be someone else. Answer the questions truthfully, keeping in mind the target audience for the real study
+  - You don't need to create a new "character" or "persona"
+  - Answer the questions truthfully and try to imagine yourself through the lens of the actual study participants
 
 ### Helpful Tips
 - Familiarize yourself with the research plan for the study
@@ -13,5 +16,16 @@ We run a pilot/test session before each study so we can rehearse the process of 
 - Ask questions during the pilot session
 - Give the moderator feedback
   - If you have difficulty understanding a question, let the moderator know
+- Check out the [Veteran personas]()
 
-Serving as a pilot participant allows you to  view the product through a different lens and see the value in what we're building. Thanks for participating and have fun!
+## FAQ
+**I'm a developer and look at websites/UX differently than most vistors. Why should I participate?**
+
+Anyone can be a pilot participant! It helps the team gain empathy for our users and allows you to view the product through a different lens and se the value in what we're building. It also helps the moderator figure out how to run the study efficiently.
+
+**How do I pretend to be a VA.gov user?**
+
+Ask the moderator to explain who will actually be participating in the study and what their goals are for the research study. You can also read the research plan before the pilot session.
+
+
+Thanks for participating and have fun!
