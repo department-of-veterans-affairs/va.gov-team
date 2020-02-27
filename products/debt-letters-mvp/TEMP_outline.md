@@ -53,11 +53,12 @@ Last Updated February 26, 2020
 There’s an overarching project called the Veteran Debt Processing Enhancement that was put into place due to several overarching legislative requirements specifically related to Veteran debt.  VA is working on a comprehensive solution across all administrations that encompasses all requirements, to include business process re-engineering and modernization of systems.
 As an initial MVP, the DMC is looking to demonstrate forward progress on this initiative by implementing a solution that allows Veterans to more quickly and easily understand if and why they may have debts with the VA, and how to work with the VA to resolve them.
 
-## User Problem Statements
-
-- As a Veteran, I want to securely access and change my compensation and pension direct deposit information so I can receive the money that I've earned from the VA.
-- As a Veteran, I want to securely change my compensation and pension direct deposit information if I switch banks or need to receive money in a different bank account.
-- As a Veteran who receives paper checks from the VA, I want to be able to switch to receive payments via direct deposit.
+## User Problem Statement
+### OPTIONS
+- How might we make communications regarding debt accurate, timely, and clear, while treating Veterans with dignity and compassion?
+- Veterans who have incurred a debt with the VA need a way to get accurate, timely, and clear information about the reason and status of that debt, along with their options for resolving it, while being treated with dignity and compassion.
+- I am a Veteran who has incurred a debt with the VA for one reason or another, and I need to understand why and what my options for resolving it are. Currently, in addition to the information sometimes being inaccurate or out of date, the communications I receive from the VA about debt leave me feeling frustrated and demeaned.
+- Those of our Veterans who have incurred a debt with the VA struggle to understand the reason for the debt and what their options are to resolve it because the communications about debt the VA sends are difficult to understand and slow to arrive. Our solution should focus on making all content and communication about debt accurate, timely, clear, and compassionate, so that Veterans can take appropriate action while maintaining their dignity.
 
 
 ## Solution Goals
