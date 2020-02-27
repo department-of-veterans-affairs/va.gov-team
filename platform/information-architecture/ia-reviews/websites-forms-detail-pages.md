@@ -42,7 +42,7 @@ URL Structure: www.va.gov/about-form-[form-nbr]
 Breadcrumb Structure:  Home > VA form [form number] 
 
 Example Form data | Example URL  | Example Breadcrumb
---- | ---
+--- | --- | ---
 10-10ez | www.va.gov/about-form-10-10ez | Home > VA form 10-10ez
 21-526EZ | www.va.gov/about-form-21-526ez | Home > VA form 21-526EZ 
 VA 4107 VHA | www.va.gov/about-form-va-4107-vha | Home > VA form VA 4107 VHA 
