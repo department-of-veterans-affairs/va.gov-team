@@ -25,7 +25,7 @@ March 4, 2020
 February 24, 2020
 
 - New rules and their intended release date
-- SonarJS details can be found [here](eslint/sonarjs.md)
+- SonarJS details can be found [here](sonarjs.md)
 
 ## ESLint Rule Changes and Testing
 
