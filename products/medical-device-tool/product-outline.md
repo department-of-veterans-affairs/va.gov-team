@@ -120,6 +120,11 @@ Increase customer satisfaction
 -	The opportunity to increasing focus on a Veterans needs because the volume of cued calls will be reduced.
 
 ## OKRs-KPIs
+
+### KPIs
+* Top 3 indicators for medical device reordering to be added
+
+### Objectives and Key Results
 *Objective:* Reduce ordering complexity and streamline the process.
 * Reduction in mailed in orders
 * Reduction of Call Center orders
