@@ -23,11 +23,11 @@ A recent change to CDW's indexing model made queries that have a lot of row filt
 
 ## Recommendation
 
-My recommendation is that we do not call the PACT service from the redesigned VAOS in the short term.
+My recommendation is that if we can't improve latency on the PACT service to an acceptable level, removing the PACT service call is a viable path forward.
 
-In the future, we or our dependencies will definitely need PACT member information, so this is a temporary solution that may be invalidated when designs change.
+In the future, we or our dependencies will definitely need PACT member information, so removing it would be a temporary solution that may be invalidated when designs change.
 
-To be clear, _this does not mean we're ignoring PACTs entirely_. PACTs are still used to determine what clinics are available and have to remain a part of that logic. This recommendation is just to stop preventing users from direct scheduling while we call the PACT service and check that it has members.
+To be clear, _this does not mean we would be ignoring PACTs entirely_. PACTs are still used to determine what clinics are available and have to remain a part of that logic. This recommendation is just to stop preventing users from direct scheduling while we call the PACT service and check that it has members.
 
 ### Long term
 
@@ -41,16 +41,18 @@ We need to determine an efficient way of getting PACT members and assignments. T
 
 ### Risk
 
-The primary risk if this recommendation is wrong is that some subset of Veterans will be able to schedule into clinics that they shouldn't be able to. Essentially you would have a scenario where:
+The primary risk if this recommendation is wrong is that some subset of Veterans will be able to schedule into clinics that they shouldn't be able to. Given the following scenario:
 
-1. The Veteran is scheduled in a clinic associated with their PACT
-2. The clinic is one they've been seen in before
-3. Their PACT has an assigned primary care provider
-4. But all providers (including the assigned primary care provider) are inactive
+1. A Vetern has an active PACT
+2. That PACT has an assigned primary care provider, but they're not active
+3. A primary care VistA clinic is associated with the primary care provider who is inactive in PCMM
+4. All other providers in the team are also inactive (or the primary care provider is the only team member)
 
-Currently, VAOS would prevent you from direct scheduling, but with this change, you would be able to continue.
+Currently, if 1-3 are true, VAOS will allow the patient to direct schedule, but if 4 is true, then it will stop you. With the removal of the PACT service check, the patient will no longer be stopped from scheduling.
 
-Direct scheduling accounts for around 40% of submissions in legacy VAOS, and this would be a small subset of primary care DS users. In addition, users scheduling into the wrong clinics is a problem in general with VAOS. While we don't want to make this problem worse, it is not an issue that sites have not had to deal with in the past.
+According to the PCMM product owner, 4 would be "unusual." It's also worth noting that 1-3 are likely to be much more common than 4, so if this is actually a problem, it would already be occuring, and this recommendation would only impact the patients in the unusual circumstance of having a PACT with no active providers. PACTs should typically have at least three members and there are no expected situations where all members are inactive.
+
+Direct scheduling accounts for around 40% of submissions in legacy VAOS, and this would be a small subset of primary care DS users.
 
 ### Areas of uncertainty
 
@@ -95,3 +97,15 @@ The empty clinic list check is a newer addition to legacy VAOS, so it's likely t
 #### Conversation with Marcy Nadeau
 
 Marcy indicated that a Veteran having an active PACT, but that PACT not having any members would be a data error, not an expected use case. Marcy also confirmed that legacy VAOS is no longer showing the PACT assignment error message in staging, which would display in the active clinics, but no PACT members scenario.
+
+#### Meeting with PCMM team
+
+VAOS team members talked with PCMM team members about how PCMM works. According to Melanie Sapasap:
+
+- There's no expected situation where a PACT would have no active members and have Veterans assigned to it
+- We don't know how long a PACT might have an inactive primary care provider, but it supposed to be updated "immediately."
+- PACTs should generally have at least 3 members
+- In order to deactivate a team, all patients must be removed from that team.
+- There are three primary care provider roles, though the CDW tables only have one column
+  - It's not clear if CDW accounts for this by populating that column from one of the three roles
+  

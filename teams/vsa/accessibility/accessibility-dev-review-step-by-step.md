@@ -11,6 +11,6 @@
 - [ ] Visual evaluation to identify cognitive considerations to align with WCAG
 - [ ] Create Epic to contain issues found, assign to yourself
 - [ ] Add issues found to the [508 Product Review List](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-product-review-list.md) (This will be used to create the weekly email to the 508 Office.)
-- [ ] Add issues to the [GCIO Sprint Checkoff Sheet](https://docs.google.com/document/d/1031rFMfaUQKMLLA0yybGNz9tMIH7WtTVwVWCOsjep0E/edit?ts=5d77e7f8#heading=h.rsumqrms2hm2)
+- [ ] ~~Add issues to the [GCIO Sprint Checkoff Sheet](https://docs.google.com/document/d/1031rFMfaUQKMLLA0yybGNz9tMIH7WtTVwVWCOsjep0E/edit?ts=5d77e7f8#heading=h.rsumqrms2hm2)~~
 
 Use [this accessibility review roadmap](https://docs.google.com/spreadsheets/d/19ZH_1imuTKHQfyMbOU5IKHwPDb_LGUqnnwoeMbKXH9I/edit#gid=0) this checklist to itemize and document review.

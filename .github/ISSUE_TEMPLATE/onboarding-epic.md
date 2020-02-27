@@ -17,7 +17,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
 
 - [ ] PM: Attend intro meeting with product support PM
 - [ ] Attend general orientation meeting
-- [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
+- [ ] [Request Access to Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
 - [ ] Review the [Guidelines for Working Safely in an Open Source Repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/sensitive-guidance.md)
 - [ ] Review the [Norms for Using Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/norms-tools.md)
 - [ ] Review the [Code of Conduct](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/policies-work-norms/code-of-conduct.md)
@@ -31,7 +31,7 @@ As a new VA.gov team member, I need to complete onboarding activities so I can s
   - [ ] [Set Up Front-end](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/getting-started/)
   - [ ] [Set Up Back-end](https://github.com/department-of-veterans-affairs/vets-api#vets-api-)
   - [ ] [Confirm that You Can Log In as a Test User](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/accessing-staging.md)
-  - [ ] [Set up internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/onboarding/request-access-to-tools.md)
+  - [ ] [Set up internal tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/request-access-to-tools.md)
 - [ ] Designers: Attend breakout session
 - [ ] Engineers: Attend breakout session
 - [ ] Front-end Engineers: Attend deep-dive session

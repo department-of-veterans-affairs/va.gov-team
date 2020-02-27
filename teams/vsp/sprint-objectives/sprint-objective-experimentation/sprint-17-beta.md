@@ -1,4 +1,4 @@
-# Sprint 17 Beta Test for Sprint Objective + Sprint Reporting Methodology
+# Sprint 17 & 18 Beta Test for Sprint Objective + Sprint Reporting Methodology
 ## Short-name: ZenHub-only communication of sprint plans and reports
 
 ### Background
@@ -63,3 +63,22 @@ Feedback / questions to consider to inform the above plans
 - How does the team track out of offices to display personnel breaks in the sprint workflow that might affect the sprint's completed work?
 - In writing the tickets, what is the intended proxy within an issue for the Google Doc "Objectives"? The Title, the Problem Statement?
 - Are estimates helpful to add for leadership to understand the tickets' levels of effort?
+
+### Outcomes
+
+#### Goals
+**Goal 1** - The client did not see much of a difference in being closer to the work.
+
+**Goal 2** - The Zenhub workflow did not make a big difference in reducing unnecessary work with the team.
+
+**Goal 3** - The pilot was not the best experiment to handle this goal; it did not increase the transparency for either party. The Google Doc already gives the client the right level of "zoom" on the team's work.
+
+#### Pain Points
+**Pain Point 1** - The pilot did not give more clarity into the work. The Zenhub board remains the source of truth for work completed and in progress; the Google Doc remains the source of metadata/summary of the teams' work.
+
+**Pain Point 2** - This is no longer a pain point.
+
+**Pain Point 3** - The pilot did not decrease work for the team.
+
+#### What's Next
+**We have completed the Zenhub sprint experiment, and will go back to using the Google Doc as the source of VSP Teams' sprint objectives. The Platform team has invited product managers to a bi-weekly sprint tag-up to experiment increasing transparency for objectives within that meeting.**

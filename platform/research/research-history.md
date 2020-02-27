@@ -14,6 +14,12 @@ __Please note that many links on this page reference research folders in the vet
 
 ### February 2020
 
+#### February 19-March 6: eBenefits Form 21-686c Add/Remove Dependents Workflows
+*Aricka Lewis, James Adams*
+
+- 15 participants 
+- [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
+
 #### February 3-4: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing, Redux
 *Booz Allen: Amy Knox, Theresa McMurdo*
 
@@ -23,20 +29,14 @@ __Please note that many links on this page reference research folders in the vet
 ### January 2020
 
 #### January 30 - February 3: Yellow Ribbon MVP
-
 *Public Websites, Liz Lantz*
-
 - 12 participants (12 scheduled, 2 no show)
 - Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/public-websites/yellow-ribbon-mvp/research
 
-#### January 2020
-January 15 - 22: Higher Level Review Usability Testing##
-
-Christian Valla, Kevin Stachura
-
-9 participants (15 scheduled, 2 cancelled, 4 no-show)
-
-Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review/research
+#### January 28 - 29: STEM Scholarship Education Routing 
+*BAH: Amy Knox, Theresa McMurdo*
+- 6 participants 
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/research/wizard-update/prototype-phase/stem-wizard-update-prototype-research-discussion-guide.md)
 
 #### January 27 - 31: VA Form 22-1995 STEM Scholarship & Education Routing Wizard Usability Testing 
 *Booz Allen: Amy Knox, Theresa McMurdo*
@@ -44,10 +44,35 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 - 3 participants (6 scheduled, 3 canceled / no-show)
 - [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/education-careers/stem/research/wizard-update/prototype-phase) 
 
+#### January 16 - 17, 20-21: VSA Caregiver 1010CG Usability
+*Ad Hoc: Johnathan Nelson, Shawna Hein*
+- 14 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/1010cg-mvp/usability-testing-jan2020/research-plan.md)
+
+#### January 16 - 23: VAOS UAT Phase III 
+*Lauren Alexanderson*
+- 15 participants 
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/january-2020-uat/research_plan.md)
+
 #### January 16 - 23: Facility Locator Urgent Care PDF & Content
 *Ad Hoc: Aricka Lewis*
 - 5 Participants
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/research-plan.md)
+
+#### January 16 - 17: Facility Locator Urgent Care PDF Testing
+*AdHoc: Aricka Lewis*
+- 8 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care-PDF/research-plan.md)
+
+#### January 15 - 22: Higher Level Review Usability Testing##
+*Christian Valla, Kevin Stachura*
+9 participants (15 scheduled, 2 cancelled, 4 no-show)
+Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews/higher-level-review/research
+
+#### January 6 - 8: STEM Scholarship Application
+*BAH: Amy Knox, Theresa McMurdo*
+- 6 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/education-careers/stem/research/wizard-update/research-plan.md)
 
 ### December 2019
 
@@ -56,15 +81,25 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 - 5 Participants
 - [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/urgent-care/research-plan.md)
 
+#### December 9 - 20: VAOS UAT Phase II 
+*Lauren Alexanderson*
+- 30 participants 
+- Research Plan 
+
+#### December 6 - 13: Medical Device Tool Discovery 
+*Riley Orr, Rebecca Walsh*
+- 20 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md) 
+
 #### December 5 - 12: Medical Device Tool Discovery
 *AdHoc: Rebecca Walsh, Amida: Riley Orr*
 - 11 participants 
 - [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md)
 
-#### VAOS UAT Phase II
-*VA: Lauren Alexanderson*
-- 30 participants 
-- Research plan
+#### December 2 - 10: Global UX, Local Navigation, November/December 2019
+*Kevin Hoffman*
+- 16 participants
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/left-nav/research-plan.md)
 
 ### November 2019
 
