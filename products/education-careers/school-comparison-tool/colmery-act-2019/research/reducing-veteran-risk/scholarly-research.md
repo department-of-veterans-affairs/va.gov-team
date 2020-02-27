@@ -39,3 +39,59 @@ Abbey, Derek.  Dissertation. “How Navy and Marine Corps Veterans Make Meaning 
 >	“When the participants were asked if they sought out a specific educational model, most expressed that they wanted to take resident classes or did not seek a specific model. The two participants that applied for an online university and a hybrid university, sought the flexibility of these models because of their potential for traveling or moving while they were still in the military”
 
 >	“More common in the participants’ answers were the models or systems that they were trying to avoid. Multiple students expressed that they did not want to attend an online university and many said that they were avoiding for-profit universities. David said, “I knew I wanted nothing to do with a for-profit institution.” One participant expressed that she did not want to go to a college that was a nationally accredited institution. When asked if she knew the difference between nationally and regionally accredited programs, Lynn expressed, “I just know that [nationally accredited programs] are bad.” Connected to the trusted relationships discussed above, these students avoided these models because someone they trusted told them to not go there, not because they understood the difference between the models they listed and others”
+
+
+
+
+
+
+
+Ives, Emily Joanne. Dissertation. “Understanding the College Choice Process of United States Military-Affiliated Transfer Students” University of California, Los Angeles.  2017.
+
+## Noted Limitations:
+1. Only looking at students transferring from community college to public research universities
+2. Only looking at students that had transferred to University of California schools
+
+## Important Factors
+-	Major
+> Almost every survey respondent (91.2%) reported that that college major was “essential”or “important” to his/her college search. 
+
+> “For the students who indicated that their major was important in their search phase, the simple offering of that major was what students cited as important to them when looking at transfer institutions”
+	
+-	Academic Quality / Prestige
+> “In the survey, a quarter (25.9%) of respondents indicated that prestige was an essential factor in their college search process, and more than a third (40.7%) of respondents indicated that prestige was a very important factor in their college search”
+
+> "All but three interviewees (85%) reported they were influenced chiefly by the academic quality of the institution, citing overall prestige, perceived quality of the faculty, and the availability of a particular major as particularly critical considerations"
+
+-	Location
+> “Specifically, when asked about the important of location in their college choice decision, many survey participants felt that the location of campus was very important or essential in their search (73.3%, n= 135) for a transfer institution”
+
+
+## Sources of Information
+
+- Internet
+> “According to the survey results, 68.1% of participants reported that they used the Internet to a great degree and 25.5% of participants reported that they used the Internet to some extent when seeking out information to learn about the requirements and process for applying to a UC institution"
+
+- Community College Transfer Centers
+> "The survey results found that 33.3% of participants reported using their community college transfer center to a great degree,and 40.7% of participants reported that they used their community college transfer center to some extent when seeking out information to learn about the requirements and process for applying to a UC institution. Similarly, 17 out of 20 (85%) of students said that had used their community college transfer center at some point to seek out information to learn about the requirements and process for applying toa UC institution"
+
+- Community College Veteran Center
+> “The survey results found that 21.5% of participants reported using their community college veteran center to a great degree and 31.9% of participants reported using their community college veteran center to some extent when seeking out information to learn about the requirements and process for applying to a UC institution. Eleven out of 20 interviewees (55%) reported using their campus veteran center to learn about the requirements and process of transferring to a UC institution”
+
+## Final Choice
+
+- Major
+> “The survey results found that more than half (57.5%) of participants reported that major was an extremely important factor used to make their college choice and more than a quarter (28.4%) of participants reported that quality of their major was very important to their college choice. Similarly, 16 of out of 20 (80%) of interviewees shared that academic major was influential to their final college choice.“
+
+- Academic Reputation
+> “The survey results found that more than half (57.5%) of the participants reported that academic reputation was an extremely important factor used to make their college choice and nearly a quarter (23.9%) of participants reported that the school’s academic reputation was very important to their college choice. Similarly, all but two of the 20 interview participants (90%) indicated that the institution’s academic reputation was important in their final selection of a transfer institution“
+
+- Quality of Faculty
+> “The survey results found that close to one half of participants (42.5%) reported that the quality of the institution’s faculty was an extremely important factor used to make their college choice and a third of participants (33.6%) reported that the school’s quality of faculty was very important to their college choice“
+
+
+## Other factors
+ > “Survey respondents rated that influences from faculty (58.2%), family (55.3%), friends (38.3%), and a community college counselor (34.6%) were extremely important or very important in their college choice“
+
+
+
