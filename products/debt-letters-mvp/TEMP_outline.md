@@ -1,7 +1,7 @@
 # Debt Letters MVP Product Outline
 Last Updated February 26, 2020
 
-## POCs
+## Keywords/Labels
 - GitHub Label: Debt Letters MVP 
 - Slack channel: #vsa-bam-2
 - Keywords
@@ -9,6 +9,7 @@ Last Updated February 26, 2020
      - Debt
      - DMC
 
+## POCs
 |Name|Role|
 |----|----|
 |Matthew Self| DSVA Lead| 
@@ -63,12 +64,14 @@ As an initial MVP, the DMC is looking to demonstrate forward progress on this in
 
 ## Solution Goals
 
-- We will house direct deposit in the VA.gov user profile.
-- All users need to be LOA3 and have enabled 2FA to use the feature. 
+- TBD
+- 
 
 ### User Goals
-
-- VA.gov Direct Deposit will be a secure way to access or change your compensation and pension direct deposit information.
+- To have a single place through which I can manage any debts I have with the VA
+- To be able to understand all of the communication about any debts I have with the VA
+- To be able to understand and access all of the available paths to resolve any debts I have incurred
+- To understand ahead of time what benefits and/or set of circumstances might lead to me incurring a debt with the VA
 
 ## Hypothesis
 
