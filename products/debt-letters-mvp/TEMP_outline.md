@@ -138,9 +138,6 @@ On Wednesday, February 27, the Debt Letters MVP was officially assigned to BAM2 
 
 **Staging**
 
-**Staging profile with debt letters**
-![Profile with direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit.gif)
-
 ## Error Handling
 
 ## Service Level Objective
