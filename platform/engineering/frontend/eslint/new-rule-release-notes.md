@@ -40,4 +40,4 @@ February 21, 2020
 
 February 3, 2020
 
-- An audit was performed to find out exactly what rules are being used for further expansion. Audit can be found [here](eslint/eslint-initial-audit.md)
+- An audit was performed to find out exactly what rules are being used for further expansion. Audit can be found [here](eslint-initial-audit.md)
