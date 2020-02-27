@@ -11,7 +11,7 @@
 |Name|Role|Email|
 |----|----|-----|
 |Samara Strauss |DSVA Lead| samara.strauss@va.gov |
-|??? |Product Manager| ??? |
+|Matt Shea |Product Manager| matt.shea@adhocteam.us |
 |Tressa Furner |Designer| tressa.furner@adhocteam.us |
 |Erik Hansen | FE Engineer| erik@adhocteam.us |
 |Brad Conley | FE Engineer| bconley@governmentcio.com |
