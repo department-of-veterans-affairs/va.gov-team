@@ -2,7 +2,7 @@
 
 Abbey, Derek.  Dissertation. “How Navy and Marine Corps Veterans Make Meaning of the College Choice Process in the Post-9/11 GI Bill Era” University of San Diego.  19 May 2019.
 
-Primary motivation for Choosing College/University:
+###### Primary motivation for Choosing College/University:######
 -	Location (Primarily Resident students)
   -	Factors/attachments tie them to a particular area – family, work, assets (own a home)
 >	“Ten of the 12 participants focused their exploration on one region or city. Sometimes their reason for this focused search was because they did not want to return to their home region. However, most of the participants had established ties to the region they were in.”
@@ -13,7 +13,7 @@ Primary motivation for Choosing College/University:
 
 >	“For those without a tie to the region, convenience replaced this influence. Participants striving to complete their degree on active duty or who expected to move, selected programs, like online or hybrid programs, that allowed them to travel or move while continuing their studies with the same institution.”
 
-Factors in Making a Decision:
+###### Factors in Making a Decision:######
 -	Social circle/relationships are a MAJOR influence
 >	“10 of the 12 participants sought out and placed significant weight in these relationships while going through the college choice process.”
 
@@ -26,7 +26,7 @@ Factors in Making a Decision:
 >	“Donald shared that he avoided private colleges because he was not aware of the Yellow Ribbon program”
 
 
-Search Process:
+###### Search Process: ######
 -	General Process for Finding School: 
 	1. Individuals searched by location and/or received recommendation from a social contact.  
 	2. Individual confirmed that the institution had the major they were looking for 
