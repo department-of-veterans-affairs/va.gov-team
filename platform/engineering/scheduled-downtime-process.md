@@ -21,14 +21,16 @@ Downtime on VA.gov is admittedly rare, but from time to time it may need to happ
 6. Once the planned downtime has been announced in the #vsa-public-websites and #vfs-all-teams channels, VSP content lead (@peggygannon) will create a content ticket for the downtime messages. 
 
 7.  **For downtime messages that will appear sitewide on static pages:**
- - Peggy will add Jen Lee and #vsa-public-website dev to the content ticket as reviewers. 
- - VSA-public-website dev will create PR using the approved message and add Peggy Gannon as reviewer. (Jen Lee as optional reviewer.)
- - Once PR has been reviewed/approved, #vsa-public-website dev can implement it.
+
+     - Peggy will add Jen Lee and #vsa-public-website dev to the content ticket as reviewer. 
+     - VSA-public-website dev will create PR using the approved message and add Peggy Gannon as reviewer. (Jen Lee as optional reviewer.)
+     - Once PR has been reviewed/approved, #vsa-public-website dev can implement it.
  
 8.  **For downtime messages that will appear in applications, tools, and on sign-in modules:**
- - Peggy will add VSP engineering POC (to confirm who??) and the DEPO product owners of product teams (Andrea Schneider, Matt Self, Samara Strauss, and Steve Kovacs) to the content ticket as reviewers. 
- - VSP engineering POC (to confirm who??) will create PR using the approved message and add Peggy Gannon as reviewer 
- - Once PR has been reviewed/approved, VSP dev can implement it. 
+
+       - Peggy will add VSP engineering POC (to confirm who??) and the DEPO product owners of product teams (Andrea Schneider, Matt Self, Samara Strauss, and Steve Kovacs) to the content ticket as reviewers. 
+       - VSP engineering POC (to confirm who??) will create PR using the approved message and add Peggy Gannon as reviewer 
+       - Once PR has been reviewed/approved, VSP dev can implement it. 
 
  
  ## Downtime notification content and design resources
