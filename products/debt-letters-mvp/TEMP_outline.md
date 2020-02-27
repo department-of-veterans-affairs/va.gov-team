@@ -107,23 +107,16 @@ Technical: There are many different types communications about debt (typically r
 
 ## The Plan
 
-## PHASED ROLL OUT APPROACH
+## Roll-Out Approach
 
 ## KPIs
 
 [KPI Process Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d5625a8ebf6a4fc0ff21ce0830907de993593d21/teams/vsp/teams/insights-analytics/kpi-tracking/kpi-process.md)
 
-### Objective
+[KPI Worksheet Template](
+https://docs.google.com/spreadsheets/d/1LGN2TKNwmobdl4yhxjyd_bua22KUkW3K56RU7yHMNrk/edit#gid=1554481611)
 
-- Improve direct deposit security and decrease the number of cases of fraud.
-- Implement improved error messaging that will help direct users to the National Call Center if they are experieincing errors when attempting to update their Direct Deposit information. 
-- Decrease "flagged for fraud" error rate. Information on this can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
-
-### Tracking
-
-[Direct Deposit GA dashboard](https://analytics.google.com/analytics/web/?authuser=0#/dashboard/T7daIpzoRw2LOg1BVHJ0Dw/a50123418w177519031p187673796/)
-
-- Work with the fraud team to see if there is an decrease in cases. (Need to see if we can access this.)
+[Sample KPI Worksheet (Disability and Appeals)](https://docs.google.com/spreadsheets/d/1kd9BINUvJYvSa5vO2a4gCjs2x8-6ouhVYXA_VFj4eDY/edit#gid=1554481611)
 
 ---
 
@@ -131,42 +124,14 @@ Technical: There are many different types communications about debt (typically r
 
 ## Status
 
-**January 2020**
+**February 2020**
 
-On January 29, 2020, eBenefits removed the direct deposit feature from the website and now send all users over to VA.gov.
-
-**Mid December 2019** 
-
-- Direct deposit has been launched to 100% of users on VA.gov.
-- We completed our investigation of the "routing number flagged for fraud" error and determined this was a result of a list of previously compromise routing numbers kept by the BGS team and had nothing to do with our tool. Given this, we were able to launch to all users.
-
-**Early December 2019** 
-
-- We launched to 75% of users.
-- We decided not to add additional gating for DS Logon users and need to check in with the fraud team to see whether fraud incidence have reduced.
-- The errors we're seeing are about 80% "account flagged" errors, which we won't be able to reduce.  Users have to call the help desk to unflag the account and are currently getting a message telling them take that action. 
-- There are also some "bad routing number" errors that are also likely just that, an incorrectly entered routing number. 
-- At the moment, the only one that might be erroneous would be the "bad home phone" errors. The solution we think would work for that is to adjust Google Analytics to better track those, and see if users update their phone number after receiving the error and are then able to update their DD info.
-
-**8/21/19**
-
-As of 8/16/2019, VBA leadership has asked the DSVA team to launch the direct deposit functionality on VA.gov as quick as possible. We received clearance to pursue launch despite not yet having everything in place for the eBenefits fraud team.
-
-Currently, our team is preparing for launch. Our work haulted in June just after user testing, so we are currently undergoing QA, 508 testing, UAT, and other pre-launch tasks.
-
-**May 2019**
-
-- Currently in Staging, not in Production.
-
-- Conversations with the eBenfits team unearthed a few different rule that are in place on for direct deposit. Conversations will continue to find out what needs to be in place for direct deposit on VA.gov, but for an MVP is the goal. 
-
-- Working with the ID.me team to improve security for MFA to protect Veterans from Fraudsters. Still to be decided if this will be included in the MVP. 
-
-- There are on going conversations with the Fraud team on eBenfits. They expressed a desire to have IP address tracked in order to provide those to law enforcement to catch fraudsters. These conversations are still on going at this time. 
+On Wednesday, February 27, the Debt Letters MVP was officially assigned to BAM2 to be slotted in as our next project. We will be moving forward with the project. Our first major milestone will be creating and delivering a first draft roadmap to all stakeholders; the target window for delivering this roadmap is early March 2020.
 
 ## Solution Narrative
 
-- **March 2019**: Design and development begins
+- **Sprint XX: (02/26/2020 - 03/10/2020)**:
+ - Project officially passed intake and was assigned to BAM2
 - **5/27/2019**: On staging 
 - **6/24/2019**: Started Usability testing
 - **July 2019**: Project put on hold while eBenefits worked on figuring out data requirements for the eBenefits fraud team
