@@ -32,4 +32,4 @@ As part of testing protocol we testing the new VAOS tool with actual users. This
 3. Create Community Care Appointment Request -- Completed Jan 2020, see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/january-2020-uat)
 4. Direct Scheduling -- Completed Jan/Feb 2020, see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/feb-2020-uat-direct-schedule)
 
-### UAT Completed in Schedule Manager (Currently in-progress: #5059)
+### UAT Completed in Schedule Manager (Currently in-progress: GH-5059)
