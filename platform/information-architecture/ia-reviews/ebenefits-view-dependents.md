@@ -40,7 +40,7 @@ Vew Dependents tool | www.va.gov/view-dependents/dependents | Home > Your VA dep
 
 <hr>
 
-### Navigation. Entry Points and Crosslinking
+### Navigation, Entry Points and Crosslinking
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 **Entry point and crosslinking placement**
