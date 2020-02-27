@@ -1,7 +1,9 @@
 # ESLint Rule Changes and Testing
 
 **Author:** Jhonny Gonzalez
+
 **Last Updated:** February 21, 2020
+
 **eslint version:** 4.18.2
 
 ## Overview
