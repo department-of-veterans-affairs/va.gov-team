@@ -17,7 +17,7 @@ March 4, 2020
   - prefer-object-literal
   - prefer-single-boolean-return
   - prefer-while
-- These rules will be under review for 2 weeks (Sprint 21)
+- These rules will be under review for 2 weeks (Sprint 21) and enforced starting Sprint 22
 - Feedback from VFS teams will be collected during this period. Please use the tag `@frontend-review-group` or message any of the front-end tools team members in Slack and provide us with your feedback.
 
 ## SonarJS new rules
