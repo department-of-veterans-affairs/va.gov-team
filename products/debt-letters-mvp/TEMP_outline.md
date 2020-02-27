@@ -138,6 +138,9 @@ On Wednesday, February 27, the Debt Letters MVP was officially assigned to BAM2 
 
 **Staging**
 
+**Staging profile with debt letters**
+![Profile with direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit.gif)
+
 ## Error Handling
 
 ## Service Level Objective
@@ -164,19 +167,18 @@ VBMS eFolder
 
 ## Design 
 
+- The Debt Letters MVP lo-fi mock-ups can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery-research)
+- The Debt Letters MVP product designs can be found [here](https://)
+
 ### Screenshots
 
-#### Before 
-![screen shot 2018-10-29 at 10 18 05 am](https://user-images.githubusercontent.com/21130918/47655714-fe548f80-db63-11e8-8812-3e2fe920f09f.gif)
+#### Before
 
-![screen shot 2018-10-29 at 10 19 58 am](https://user-images.githubusercontent.com/21130918/47655822-3a87f000-db64-11e8-98a4-ebebb2a8183c.gif)
+![DMC Veteran-facing homepage](https://)
+
+![DMC debt payment hub](https://)
 
 #### After 
 
-The Debt Letters MVP screenshots can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery-research)
-
-**Staging profile with debt letters**
-![Profile with direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit.gif)
-
-**Profile with direct deposit modal open**
-![Direct deposit modal open](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit_Edit%20modal%20open.gif)
+VA.gov's MVP debt letters page
+![DMC debt payment hub](https://)
