@@ -6,7 +6,7 @@
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md
 
 ### Design
-- Research Plan
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/usability-march20/research-plan.md)
 - Conversation Guide
 - Research Plan Feedback
   - Shawna's Feedback
