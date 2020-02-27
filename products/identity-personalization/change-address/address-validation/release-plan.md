@@ -1,3 +1,12 @@
+Thoughts on a phased release plan
+
+- Launch behind a feature flag. Test with team.
+- Launch to 25% of folks. Observe for a week.
+- Launch to 50% of users. Observe for 48 hours.
+- Launch to 100% of users.
+
+-----
+
 # Release plan for address validation
 
 ---
