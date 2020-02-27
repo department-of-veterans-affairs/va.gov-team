@@ -72,55 +72,46 @@ As an initial MVP, the DMC is looking to demonstrate forward progress on this in
 - To be able to understand all of the communication about any debts I have with the VA
 - To be able to understand and access all of the available paths to resolve any debts I have incurred
 - To understand ahead of time what benefits and/or set of circumstances might lead to me incurring a debt with the VA
+- To know as quickly as possible about changes to my debt status with the VA, to include newly filed debts, and changes to existing debts regardless of the cause of the change
+- For the overall experience of handling a debt with the VA be as painless as possible instead of leaving me feeling frustrated and demeaned
+- To receive consistently accurate information about the status of my account, regardless of the way in which that communication gets to me
 
-## Hypothesis
+## Hypotheses
 
-- 2FA will be one of the major reasons for increase security of direct deposit on Va.gov.
-- Moving direct deposit to VA.gov will reduce fraud cases.
-- Moving direct deposit to VA.gov is more secure and better for Veterans.
+- TBD
 
 ## Requirements 
+### High-Level
 
-- We will only support direct deposit for compensation & pension to start. Direct deposit for Education/GI Bill benefits will continue to live on eBenefits.
-- Users should be able to change their direct deposit information via the VA.gov profile. This includes routing number, account number, and account type.
-- Users who currently receive paper checks should be able to switch to direct deposit via the VA.gov profile. 
-- However, users can not switch back to paper checks from VA.gov if they already have direct deposit.
-- Users can not delete direct deposit information.
-- Only the following people can access direct deposit:
-  - People eligible for compensation and pension benefits.
-  - Users logged into VA.gov.
-  - LOA3 users.
-  - Users with 2FA.
-- When direct deposit information is changed an email confirmation will be sent to the user.
-- Direct deposit confirmation emails will have information to report fraud.
-
+- Digital "landing page" explaining the debt management process at the VA
+- Veterans can view information about debts they owe the VA in a single place
+- Veterans are automatically notified when new communications about debts are available to them, and given a way to navigate directly to the new communication on VA.gov
+- Outgoing notifications about debt are configurable
+- Veterans can understand the communications they receive from the VA about debts; they are plain-language, adhere to modern design practices, and engage with Veterans in an empathetic way
+- Information delivered to Veterans about the status and nature of their debts is accurate and up-to-date
 
 ## Constraints
 
-- The fraud team at the VA needed reports to be in place so that they could track and research fraud cases. This put about a two month pause on the project as the VA.gov identity team worked with ID.me to get APIs set up to be able to pull the information the needed when they needed it.
+There are two main contraints known at this time, one coming from the business and one from the technical landscape within the VA.
+
+Business: This problem affects Veterans as well as eligible dependents, however due to external pressures from Congress, there is a desire to limit the scope of this problem to indebted Veterans to expedite the process of launching something meaningful to Veterans. It's currently unclear how much wiggle room there is here; it's possible we might be able to address the concerns of non-Veterans without adding complexity to the problem or lengthening the delivery timeline
+
+Technical: There are many different types communications about debt (typically referred to as "debt letters) that are sent out to Veterans. At this time, many of these have yet to be migrated into a central respository and organized in a reliable fashion. Because of this, the scope of this problem is limited to addressing only those letters types which ARE organized and accessible in a central respository (VBMS eFolder)
+
 
 ## Discovery Takeaways
-- Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
+- Initial Discovery notes can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery-research)
 
 ## Decisions
 
-At this time we are only adding Compensation & Pension and not Post-9/11 GI Bill because the payment methods associated with the Post-9/11 GI Bill are stored in _LTS Ch33_ but have not been exposed in a consumable service.
 
 ## The Plan
 
-- Work with the eBenfits to better understand needs of Veterans. 
-- Implement a secure direct deposit feature for Compensation & Pension in the user profile.
-- Port the Post-9/11 GI Bill direct deposit after more discovery.
-- Test Test Test
-
 ## PHASED ROLL OUT APPROACH
 
-- Intial roll out released to 10% of users - 9.25.19
-- Ramped up from 10% of users to 50% of users - 10.16.19
-- Ramped up from 50% of users to 75% of users - 12.5.19
-- Ramped up to 100% of users — 12.16.19
-
 ## KPIs
+
+[KPI Process Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/d5625a8ebf6a4fc0ff21ce0830907de993593d21/teams/vsp/teams/insights-analytics/kpi-tracking/kpi-process.md)
 
 ### Objective
 
