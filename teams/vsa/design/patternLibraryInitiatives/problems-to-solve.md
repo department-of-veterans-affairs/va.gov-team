@@ -7,6 +7,8 @@
 
 - Form controls with errors - document the error message styling for form controls in the design system
 
+- update checkbox component to include ARIA, so that it is usable. Current checkbox experience is confusing and vulnerable to errors - Link: https://www.w3.org/TR/wai-aria-practices-1.1/examples/checkbox/checkbox-1/checkbox-1.html
+
 - Relationship of aside/sidenav and main element to be compliant. Currently, the design system uses divs so the code passes, but the classes indicate the aside/sidenav nature of the div that is inside the main element, thereby breaking the semantic relationship of the elements and interfering with the screen reader identification of areas of content.
   - Current `<main>` would be more compliant and semantic if it were `<section>`
   - Sidenav is currently a `<div>` and would benefit from semantics of `<aside>` or `<nav>` (although the breadcrumbs are currently coded as `<nav>`)
