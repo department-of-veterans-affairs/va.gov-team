@@ -1,5 +1,4 @@
-# eBenefits 686 Usability Study
-### Topline Summary
+# eBenefits 686 Usability Study Topline Summary
 
 `Prepared by: Aricka Lewis, Ad Hoc, VSA`
 
@@ -16,7 +15,7 @@ This topline summary is a result of the synthesis that happens after conducting/
 ## Research Questions & Answers
 **Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows?**
  - All participants who were prompted with the add spouse & child flow were able to discern that the form was multi-purpose
- - When asked in a post test interview, participants mentioned that they would prefer to complete multiple tasks in the same form over doing them individually
+ - When asked in a post test interview, participants who were prompted with multi-purpose form tasks mentioned that they would prefer to complete multiple tasks in the same form over doing them individually
 
 **Are the forms presented clearly and easy to understand by Veterans?**
  - Overall, the forms were clear and easy for Veterans to understand
