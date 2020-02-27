@@ -30,7 +30,7 @@ URL Structure: www.va.gov/about-form-[form-nbr]
 
 **Drupal URL Requirements**
 - Drupal will auto-generate the URL based on the specified form data to complete the URL structure above. 
-- The URL, once established, should be locked down so it is not changed if data is changed
+- The URL, once established, should be locked down so it is not changed if the data is changed
 - The auto-generated URL can only be changed by being manually overwritten by the Public Websites team if they choose to do so - changing the URL will likely require redirects to be put in place
 
 **Breadcrumb** 
@@ -49,7 +49,7 @@ VA 4107 VHA | www.va.gov/about-form-va-4107-vha | Home > VA form VA 4107 VHA
 
 <hr>
 
-### Navigation/Entry Points <br>
+### Navigation, Entry Points and Crosslinking <br>
 *The primary entry points and changes to global navigation, as well as any potential crosslinking opportunities*
 
 No navigational links will be added to these pages, users will access these pages directly through external search and va.gov search only.
@@ -58,6 +58,8 @@ No navigational links will be added to these pages, users will access these page
 
 ![va-forms-user-flows](https://user-images.githubusercontent.com/20994159/73305106-155ab500-41df-11ea-9edc-88d63c940399.png)
 
+<hr>
+
 ### Redirects/Canonical <br>
 *Identify if any redirect or canonical tags are needed.  This is not intended to be a complete and final list of redirect needs, but directional information only.*  
 
@@ -65,20 +67,19 @@ No navigational links will be added to these pages, users will access these page
 - We will do server-side redirects of legacy form detail landing pages with the following approach:
   - For X number of high search value form detail landing pages, we will do 1:1 redirect mapping from the current legacy form detail landing page to the new.
   - For the remaining (562-X) landing pages, we will do a default redirect to the new main search page URL (va.gov/find-forms)
-- Specific redirects needed will be documented in a redirect request ticket.   
+- Specific redirects will be documented in a redirect request ticket.  
+- We will need to identify the data source that will be used to generate the URLs for those legacy detail pages that we need to 1:1 redirect.
  
 For redirects, please submit a Redirect Request at least 2 weeks in advance per the [Redirect Request Process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/information-architecture/request-redirect.md).
 
+<hr>
 
 ### Additional Notes/Recommendations
 
+<hr>
 
 ### Open Questions/Issues
 
-- Need technical conversation with Drupal team on Drupal auto-URL generation.  How are URLs generated?  Based on what content/data? This information will help inform:
-  - We will need to know exact URL of new landing pages so we can map the legacy redirects accurately
-  - Determine if anything can impact the URL - either change in data (such as H1 change) or manual override
-  
 - Facebook currently appends a "fbclid" parameter to URLs when accessed through a link in a FB post.
   - If a specific form page is redirected, will the redirect recognize the request with the additional parameter and redirect appropriately?
   
