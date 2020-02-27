@@ -20,7 +20,7 @@ Once the planned downtime has been announced in the #vsa-public-websites channel
  
  **For downtime messages that will appear sitewide on static pages:**
  - Jen Lee and #vsa-public-website dev will be added as reviewers to the content ticket 
- - VSA-public-website team dev will create PR using the approved message and add Jen Lee and Peggy Gannon as reviewers
+ - VSA-public-website dev will create PR using the approved message and add Peggy Gannon as reviewer. (Jen Lee as optional reviewer.)
  - Once PR has been reviewed/approved, #vsa-public-website dev can implement it
  
  **For downtime messages that will appear in applications, tools, and on sign-in modules:**
