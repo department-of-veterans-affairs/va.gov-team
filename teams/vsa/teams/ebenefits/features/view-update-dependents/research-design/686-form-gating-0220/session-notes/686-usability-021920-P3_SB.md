@@ -1,7 +1,7 @@
 ## eBenefits 21-686c Form Usability Session 1
 #### Conducted: February 19, 2020 via Zoom
 #### Moderator: Aricka Lewis
-#### Participant: NB (F)
+#### Participant: XX (M)
 #### Session Recorded: Yes
 #### Note-taker: S. Bildstein
 ## Participant 3
