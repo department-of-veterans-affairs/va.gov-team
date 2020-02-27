@@ -131,7 +131,7 @@ The [Edith Nourse Rogers STEM Scholarship](https://benefits.va.gov/gibill/fgib/s
 **To be considered, you must meet all the requirements below. You:**  
 - Are using or recently used Post-9/11 GI Bill or Fry Scholarship benefits 
 - Have used all your education benefits or are within 6 months of doing so. [Check your remaining benefits](https://www.va.gov/education/gi-bill/post-9-11/ch-33-benefit/)
-- Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
+- Are enrolled in an undergraduate degree program for STEM, *or* have already earned a STEM degree and are pursuing a teaching certification. [See approved STEM programs](https://benefits.va.gov/gibill/docs/fgib/STEM_Program_List.pdf)
 
 
 Are you applying for the Rogers STEM Scholarship? (*Required) { radio }
@@ -211,7 +211,7 @@ Since it appears you're not eligible for the scholarship, would you still like a
 { if "No" display:
 If your situation changes in the future and you meet all of the criteria, you may return to apply for the Rogers STEM Scholarship.  
 
-[Explore other education benefits](https://www.va.gov/education/eligibility/) { button } . 
+[Explore other education benefits](https://www.va.gov/education/about-gi-bill-benefits/) { button } . 
 
 { end gray box }
 
