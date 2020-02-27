@@ -1,7 +1,9 @@
 # SonarJS Plugin
 
 **Author:** Jhonny Gonzalez
+
 **Last Updated:** February 24, 2020
+
 **eslint version:** 4.18.2
 
 The front-end team will be introducing a new set of rules from a third-party plugin called SonarJS ([eslint-plugin-sonarjs](https://github.com/SonarSource/eslint-plugin-sonarjs)).
