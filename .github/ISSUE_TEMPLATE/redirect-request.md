@@ -15,10 +15,10 @@ assignees: mnorthuis
 ### Description
 *This is a detailed description of the request. It should include background information and reason for the request.*
 
-### Requestor Info
+### Requestor team info
 *Indicate what team and who the primary contact on that team is*
 
-### Implementation Date
+### Implementation date
 Date new URL(s) will be live: *enter date new pages/URLs will be live*
 
 Please indicate when the redirect(s) needs to be implemented"
@@ -28,14 +28,14 @@ Please indicate when the redirect(s) needs to be implemented"
 
 **The requesting team is responsible for notifying the group working on this issue if the target date changes. They are also responsible for ensuring the destination URLs are implemented correctly and live at the time the redirects are deployed.**
 
-### Redirects Needed
+### Redirects needed
 
 Current URL  |  Redirect Destination (new URL)
 ---  |  ---
 *enter current URL* | *enter new URL*
 
 
-### Steps to complete
+### Definition of done
 - [ ] Above information is provided and issue is tagged and assigned appropriately - *@ requesting team*
 - [ ] All appropriate VA stakeholders are notified of pending redirect - *@ requesting team*
 - [ ] Redirect request is vetted and documented and implementation plan is clear - *@ Content & IA team*

@@ -60,3 +60,5 @@
 - Current autocomplete component is not accessible; possibly use datalist element + https://haltersweb.github.io/Accessibility/autocomplete.html
 
 - Consider a solution for accessible maps, see Facility Locator map for example; great tips https://phase.com/magazine/design-accessible-maps/
+
+- Consider the use of the Additional Info component. Perhaps it is being over-used. Given that it can be difficult for keyboard, screen reader, and mobility challenged users to open and close (experiencing what it is like as a screen reader user will highlight why this is a concern) these, this show/hide should be used judiciousy. Asking, 'Why am I hiding this content?' often reveals it would be helpful to have it persisten on a page, particularly Introduction pages.

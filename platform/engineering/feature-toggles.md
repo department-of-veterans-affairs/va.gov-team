@@ -17,7 +17,7 @@ The most basic action is to toggle the green/red "enable/disable" button to togg
 
 We can also roll out a feature for a select few users by adding the their email adddress to the actors section. For performace reasons, the list of actors is intended to be small, do not use for hundreds of users.
 
-<img width="1287" alt="Screen Shot 2019-09-20 at 4 20 04 PM" src="https://user-images.githubusercontent.com/19188/65519962-7595bf00-deac-11e9-9bb3-d81f376241e4.png">
+<img width="1287" alt="Screen Shot" src="https://user-images.githubusercontent.com/19188/74881655-b4d11a80-533b-11ea-8e97-fdea24c10830.png">
 
 
 ## Front End Implementation

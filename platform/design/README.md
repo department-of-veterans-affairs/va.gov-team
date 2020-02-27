@@ -41,7 +41,7 @@ This folder includes design resources, processes & guidance, and information abo
 
 ## Getting started
 
-Welcome to the team! If all has gone well, you've made it through our [main onboarding section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding) and you're ready to start working in your practice area. This should help you get started. 
+Welcome to the team! If all has gone well, you've made it through our [main onboarding section](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation) and you're ready to start working in your practice area. This should help you get started. 
 
 ## Onboarding: Are you new or need a refresher of all the basic things? 
 - [UX Onboarding talking points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/uxonboarding.md)

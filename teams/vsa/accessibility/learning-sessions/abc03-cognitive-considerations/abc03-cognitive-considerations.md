@@ -43,26 +43,18 @@ It’s okay to take a break if you need to.
 * LGBTQ individuals are 2 or more times more likely as straight individuals to have a mental health condition.
 * Depression and anxiety have a significant economic impact; the estimated cost to the global economy is US$ 1 trillion per year in lost productivity.
 
-  <blockquote>
-  Sources: <br/> 
-  • https://www.nami.org/NAMI/media/NAMI-Media/Infographics/GeneralMHFacts.pdf<br/><br/>
-  • https://www.nami.org/NAMI/media/NAMI-Media/Infographics/MulticulturalMHFacts10-23-15.pdf<br/><br/>
-  • https://www.who.int/mental_health/in_the_workplace/en/
-  </blockquote>
+Sources: https://www.nami.org/NAMI/media/NAMI-Media/Infographics/GeneralMHFacts.pdf, https://www.nami.org/NAMI/media/NAMI-Media/Infographics/MulticulturalMHFacts10-23-15.pdf, https://www.who.int/mental_health/in_the_workplace/en/
 
 ### Nearly half (47.7 percent) of all Gulf War II veterans with a disability reported a cognitive difficulty. 
-  <blockquote>
-  Source: https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf
-  </blockquote>
+
+Source: https://www.census.gov/content/dam/Census/library/working-papers/2016/demo/Holder-2016-01.pdf
 
 ### Since October 2001, approximately 1.64 million U.S. troops have deployed to support operations in Afghanistan and Iraq. 
 
 * A study conducted by the RAND corporation estimates approximately 300,000 veterans who have returned from Afghanistan and Iraq are currently suffering from PTSD or major depression, and about 320,000 may have experienced a traumatic brain injury (TBI) during deployment.
 * Approximately 18.5 percent of U.S. service members who have returned from Afghanistan and Iraq currently have post-traumatic stress disorder or depression; and 19.5 percent report experiencing a traumatic brain injury during deployment.
 
-  <blockquote>
-  Sources: https://www.rand.org/pubs/monographs/MG720.html and https://www.rand.org/news/press/2008/04/17.html
-  </blockquote>
+Sources: https://www.rand.org/pubs/monographs/MG720.html and https://www.rand.org/news/press/2008/04/17.html
 
 ### An estimated 31 percent of troops returning from Iraq and Afghanistan have a mental health condition or reported experiencing a TBI.
 <table>
@@ -96,9 +88,7 @@ It’s okay to take a break if you need to.
   </tr>
 </table>
 
-  <blockquote>
-  Source: https://www.rand.org/pubs/research_briefs/RB9336.html
-  </blockquote>
+Source: https://www.rand.org/pubs/research_briefs/RB9336.html
   
 ### What do you think of these stats?
 
@@ -310,3 +300,103 @@ Some people experience math anxiety, which is an emotional or psychological fear
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/learning-sessions/abc03-cognitive-considerations/vagov-math.png" alt="the VA.gov Disability Calculator lists individual disability ratings and the total rating, which may not add up as a person expects due to calculations" width="40%" />
 
 In the case of the VA.gov Disability Calculator, people with difficulties understanding or using math would benefit from text explaining why the numbers don't add up, placed close to the total rating.
+
+### Examples of user needs
+
+For reference in documenting acceptance criteria and scenarios, here are three examples of types of user needs for people with cognitive disabilities:
+- Easy to use and secure authentication <br> i.e. “I need a secure way to log in that is easy enough for me to use.”
+- No distractions <br> i.e. “I need to be able to read content or complete a task without distractions.”
+- Prevent errors <br> i.e. “I need help avoiding mistakes, and minimizing mistakes I might make.”
+
+> Consider: What are some examples of digital design that support cognitive considerations?
+
+## Technology Solutions
+
+### Assistive Technology (Software/Hardware)
+
+There are many solutions to help people with disabilities access content online. Assistive technologies can help people with disabilities:
+- Type or speak to their computer to help them write emails
+- Search the internet
+- Post to Facebook
+- Keep records
+- Make documents
+For cognitive disabilities, there are also assistive technologies that can:
+- Remember passwords
+- Help a person organize their thoughts before writing a letter
+- Keep track of where they are in a project
+
+> Consider: What are some tools that support cognitive considerations?
+
+## ~~“Just ask for help.”~~
+
+> Often, if you cannot do something on your own, or encounter inaccessible experiences, the common response is “just ask for help.” <br> However, this is not an appropriate response to a person with a cognitive disability, as they should be able to access the web with the same independence as a person without a disability.
+
+### Keeping information private
+
+Being able to access your information independently is a civil right. This is very important when the information about you is personal and something you want to keep private. 
+Asking for help means having to sacrifice not only independence, but may become vulnerable to sharing personal information, such as medical information in the following example. Potential accessibility blockers:
+- The website does not work with your assistive technology.
+- You can’t remember your login and password, then have trouble resetting it because the steps are not easy to follow.
+- Once you open the results, they are in a PDF that doesn’t work with your assistive technology.
+It may happen with password information on VA.gov, if the person encounters issues with login.
+
+### Deliver for the range of possibilities
+
+Sometimes people just need information presented in a different way in order to retain their independence. How might that apply for someone who learns best from videos? Here are a few examples of accessibility blockers in a video that may exist for a person with a cognitive disability.
+- **Difficult words** — The words and examples in the video script might be too difficult.
+- **Complicated directions** — The video may not break things down so the steps are easy to follow. Do you ever get lost when the directions are too complicated?
+- **No captions** — Many people use captions, including some people with cognitive disabilities. If the captions are not there, some people may not be able to follow along. They may not remember the information as well. Or they may not learn the new vocabulary.
+- **Not able to turn captions off** — For other people the captions can be distracting. If unable to turn off the captions, they may have difficulty focusing on your content.
+- **Can’t play video** — What if you can’t control the video player using your way of interacting with a computer (such as your voice)? You may not be able to use the video at all.
+
+> “Our job isn’t to tell them how to interact with what we create; our job is to create something that they can interact with in whatever way they choose to interact.” <br>– John Porter
+
+> Consider: How do you react when you have to ask for help with something, and have to reveal your SSN, for example?
+
+## Accessibility Compliance
+
+### Is There Existing Web Accessibility Legislation?
+
+- A group of people at the [W3C](https://www.w3.org/) created a rule called the Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)). 
+- This rule explains how to make the web work better for people with disabilities. 
+- Some countries have made this rule required for governments to follow. Examples are the United States, Canada, and Europe.
+
+### Do these rules apply for supporting people with cognitive disabilities?
+
+The [Cognitive Accessibility Task Force](https://www.w3.org/WAI/GL/task-forces/coga/) at the W3C is working on making the web more accessible for people with cognitive disabilities. They identify where user needs are not being met and are writing a guide for “[Making Content Usable for People with Cognitive and Learning Disabilities.](https://www.w3.org/TR/coga-usable/)”
+- Their efforts informed [WCAG 2.1](https://www.w3.org/TR/WCAG21/), which builds on and extends WCAG 2.0, but does not supersede or replace 2.0.  
+- WCAG 2.0 doesn’t explicitly list criteria for cognitive considerations. The WCAG 2.0 spec has sections for Perceivable (1) and Understandable (3) that hint at cognitive, but each release builds on the previous one and fills in gaps, adding more clarity and expectation to those seeking to follow that standard. WCAG 2.1 is the next release.
+- The same criteria that ensure an accessible experience — semantic structure, sight and sound, interactivity and dynamic content, understandability — apply for cognitive considerations. 
+
+### What’s in WCAG 2.1?
+
+WCAG 2.1 success criteria primarily address items related to mobile (small screens and touch screens) that accommodate users with motor and dexterity disabilities, users with low vision, and users with cognitive disabilities. In addition, there are success criteria that benefit users of voice input, users with vestibular disabilities, and users of screen readers. Source: Sources: https://dev-level-access.pantheonsite.io/wcag-2-1-exploring-new-success-criteria/
+
+## As you look at these user needs, you may be thinking, everyone will benefit from these improvements.  Correct! But for a person with a cognitive disability, these user needs are crucial for them to equally access content online.
+
+## Takeaways
+
+- Simplify the interface as much as possible
+- Simplify and shorten the content as much as possible
+- Keep videos and audio as short as possible
+- Limit the number of choices on the screen
+- Design for ease of use
+- Test the usability of the interface with actual users, preferably including users with cognitive disabilities
+- Retain information across screens, and within a path
+- Provide help features, particularly contextual help
+- Reduce or eliminate distractions (be careful with motion, ads, carousels, intrusive audio, intrusive video, etc.)
+- Provide easy to use and secure authentication
+- Prevent errors, and provide clear support for messages
+
+## Resources
+
+* [Deque University’s curriculum on cognitive disabilities](https://dequeuniversity.com/) (requires subscription)
+* [Assistive Technology for Individuals with Cognitive Impairments, 3.5MB PDF](http://idahoat.org/Portals/60/Documents/Services/Resources/AT_CognitiveImpairmentsHandbook.pdf)
+* [An Introductory Guide to Understanding Cognitive Disabilities Deque](https://www.deque.com/blog/an-introductory-guide-to-understanding-cognitive-disabilities/)
+* [Cognitive Accessibility Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Accessibility/Cognitive_accessibility)
+* [WCAG 2.1, exploring the new success criteria Level Access](https://dev-level-access.pantheonsite.io/wcag-2-1-exploring-new-success-criteria/)
+* [Web Accessibility Perspectives Videos W3C](https://www.w3.org/WAI/perspective-videos/)
+* [How to Design for Dyslexia Usabilla/UX Booth](https://usabilla.com/blog/how-to-design-for-dyslexia/)
+* [Dyslexia Bookmarklet https://data.qz.com/2016/dyslexia/](https://data.qz.com/2016/dyslexia/)
+* [Funkify, Disability Simulator https://www.funkify.org](https://www.funkify.org)
+* [How to enable Reader Mode on your site](https://mathiasbynens.be/notes/safari-reader)

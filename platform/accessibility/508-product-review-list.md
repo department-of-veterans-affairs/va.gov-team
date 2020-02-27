@@ -96,6 +96,13 @@ Each application or logical section of the site will have a heading and a detail
 **Audit Status:** Issues logged by auditor in July 2019<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A508%2FAccessibility+label%3A%22facility+locator%22+is%3Aclosed)**
 
+**Audit Status:** Issues logged by auditor in February 2020<br/>
+* [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-0 - **_Showstopper_** 
+* [[SCREENREADER]: Links in map attribution should open in new tab to aid in error recovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6158)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_** 
+* [[MOBILE, ZOOM]: At 400%, content does not fit in screen view responsively](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6184)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_** 
+* [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_** 
+
+
 #### Open Issues
 
 * [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
@@ -465,6 +472,23 @@ Each application or logical section of the site will have a heading and a detail
 **Audit Status:** Design review phase<br/>
 **No Open Issues**<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Abah-comparisontool+is%3Aclosed+label%3A508%2FAccessibility)**
+
+---
+
+### Authenticated Experience - Address Validation
+
+**Maintainer:** VSA <br/>
+**Audit status:** Pre-launch 508 Review<br/>
+
+#### Open issues
+* [[SCREENREADER, KEYBOARD]: Edit address link will not receive keyboard focus](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5866)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-0 — **_Showstopper_**
+* [[SCREENREADER, KEYBOARD]: Focus needs to return to Edit button that launched the modals when modals are closed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6156)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+* [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+#### Closed issues
+* [Warning alert box icon abuts the H3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5735)
+* [[COGNITION]: Bug There is a character bug in country select data option ‘Reunion’ where it is ‘R�union’.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5846)
+* [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)
 
 ---
 

@@ -94,7 +94,7 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 - Review historical Dependents work and documentation
 - Audit Dependents app currently in staging, noting differences between it and EBN functionality
 - Perform any necessary supplementary research how Veterans use the Dependents feature on EBN
-- Mock/ update existing designs of Dependents app
+- Mock/update existing designs of Dependents app
 - Audit existing EVSS endpoints and build connection to BGS endpoints
 - Write e2e tests
 - Perform comprehensive usability
@@ -105,17 +105,32 @@ Migrate this functionality from EBN to the modern front door at VA.gov, conducti
 
 ### User Value
 
-"I don't have to deal with paper forms, potentially making mistakes that will cost me and my family years of cycling with the VA. I can update my family's information on other websites, so I should be able to at the VA."
+**Veterans:** Submit a 686 on VA.gov resulting in my dependents getting benefits
+**Intake Admin Proffesionals:** Review and approve a successfully submitted 686 application automatically or further develop the application manually.
+
+*"I don't have to deal with paper forms, potentially making mistakes that will cost me and my family years of cycling with the VA. I can update my family's information on other websites, so I should be able to this at the VA."*
 
 ### Business Value
 
-1. Reduce the burden on administrative professionals significantly by providing them fact-checked information directly from VA partner systems
-2. Reduce mail processing costs
-3. Establish claims in an automated way through RBPS, leveraging existing high-value infrastructure
+1. Reduce the burden on administrative professionals significantly by providing them fact-checked information directly from VA partner systems. Reduce the amount of time taken to review; less labor costs.
+2. Reduce mail processing costs, decrease the number of paper forms submitted; reducing cost/overhead
+3. Establish claims in an automated way through RBPS, leveraging existing high-value infrastructure. Increase the accuracy of the data being submitted; more applications will be automatically approved.
+4. Make it easier to find the dependent management tools; increasing the number of applications
 
-## KPIs
+## OKRs & KPIs
 
-TBD
+**Objective 1:** Greater number of Veterans applying to get benefits associated with their dependents.
+- Key Results 1: Data shows the number of views of the 686 application has increased since migration; statistically significant increase in traffic
+- Key Results 2: Data shows more applications are being successfully submitted; statistaclly significant increase in number of approved submissions 
+
+**Objective 2:** Faster delivery of benefits obtained for the Veteran.
+- KR1: Data shows that more 686 applications are being automatically approved within the Rules Based PRocessing Service; RBPS is automatically processing statistically significantly more 686 applications 
+- KR2: Data shows that the new 686 user experience within VA.gov results in a faster fill out time compared to the eBenefits portal
+
+**Objective 2:** Increased conversion rate of successful, automatically approved forms.
+- KR1: Data shows that RBPS is automatically approving more 686 forms upon submission compared to previous instance
+- KR2: Data shows that the payload has been improved resulting in more accurate applications making it easier to approve if not done by RBPS (for some reason)
+
 
 ---
 
@@ -128,30 +143,35 @@ TBD
 
 ## Solution Narrative
 - Late September: Team orientation to Dependents feature on EBN
+- October & November: Research and design mockups
+- December & January: Work with previous teams (rainbows) code and schemas
+- February: Restart code development from scratch using rainbows schemas as high level guide, build out the different workflows
+- March: Continue building out workflows, start thinking about how to get the different sections to work together, connect backend and frontend
+
 
 ## Team
 
-- VA Executive Sponsor `*`:
+- VA Executive Sponsor`*`: Paul Schute
 - VA Policy Expert(s):
-- VA Digital Strategist(s) `*`:
-- Product Manager `*`: 
-- Design Lead: 
-- Eng Lead:
-- VA Web Comms Partner:
-- VA Call Center Partner(s):
+- DEPO`*`: Steve Kovacs
+- Product Manager`*`: Jason Wolf
+- Design Lead: Shawna Hein
+- Eng Lead: Paul Short
+- VA Web Comms Partner: 
+- VA Call Center Partner(s): Chante
 - Production Testing Partner(s):
-- Designer(s):
-- Content Writer(s):
+- Designer(s): Jim Adams
+- Content Writer(s): None
 
 ### API Team
-- Product and Project: 
-- Front-end Engineer(s):
-- Back-end Engineer(s):
+- Product and Project: Jason Wolf
+- Front-end Engineer(s): Micah Chiang, Jesse Cohn
+- Back-end Engineer(s): Kathleen Crawford
 
 ### Veteran Facing UX Team
-- Product and Project:
-- Front-end Engineer(s):
-- Back-end Engineer(s):
+- Product and Project: Jason Wolf
+- Front-end Engineer(s): Micah Chiang, Jesse Cohn
+- Back-end Engineer(s): Kathleen Crawford
 
 
 `*` = approval required for launch

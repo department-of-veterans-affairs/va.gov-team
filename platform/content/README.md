@@ -12,7 +12,7 @@ VSP Content POC:
 ### Table of contents
 The following list is a set of resources to help you do your work and answer content questions you might have. Some of the links may take you to other sites and resources outside this repo. If you need a hand with anything, don't hesitate to ping the #vsp-content-ia Slack channel or your VSP content POC directly.
 - Orientation/training
-    - [Orientation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/onboarding)
+    - [Orientation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/working-with-vsp/orientation)
 - Content processes
     - [Content Review process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-review-process.md)
     - [Content best practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/content/content-best-practices.md)  

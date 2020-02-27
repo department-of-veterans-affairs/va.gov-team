@@ -54,6 +54,7 @@
 
 ## Target Launch Date
 - *What is your target launch date of your MVP/iteration?*
+- *What is your date for when you'll evaluate impact after launch?*
 
 ---
 

@@ -13,9 +13,9 @@ All teams building on the Veteran Services Platform should follow VA.gov IA best
 >*”Information Architecture focuses on organizing, structuring, and labeling content…The goal is to help users find information and complete tasks.“* - Usability.gov
 
 **There are 2 primary focus areas of IA support on VSP**
-1. **Site IA** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. We also help ensure proper redirects and/or vanity URLs are in place if needed. 
+1. **Site Structure** = The overall structure and organization of all content and tools on VA.gov. The structure impacts content design, page flow, URLs, labeling and SEO. We also help ensure proper redirects and/or vanity URLs are in place if needed. 
 
-2. **Navigation Design** = The flow, labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
+2. **Navigation Design** = The labeling and experience of all navigation elements and the identification of primary entry points and key cross-linking opportunities.  This includes top and left navigation components, home and hub page links, the breadcrumb, footer links, related link components, inline content links, etc.  
 
 **When should you think about IA?**
 - Launching a new content page(s) on VA.gov

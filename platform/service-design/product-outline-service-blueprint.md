@@ -11,13 +11,17 @@
 
 ## Overview
 
-The Service Blueprint will provide an end-to-end view of VFS teams' interactions with VSP throughout their product development lifecycle.
+The Service Blueprint visualizes pain points and successes along the typical VFS team user journey.
 
 ## Problem Statement
 
-For VSP teams and other stakeholders, connecting together all of the different touchpoints with VFS teams and aligning them to platform priorities is very complex.  Visually mapping out this complexity while showing how the end-to-end customer experience can be broken down into specific touchpoints for further analysis should enable identification of both problem areas and opportunities for innovation.
+Today, there is no way to visualize the end-to-end VFS team user journey which means VSP teams may not understand how the features and services they are providing impact the broader customer experience.
 
-*How might we enable VSP teams gain a holistic understanding of the end-to-end experience of VFS teams on the platform.*
+VSP do not have a single place tto go to see high-level view of pain points across the platform so they cannot ensure they are prioritizing the highest value work.
+
+Leads to disjointed overall customer experience and leaves certain fustrating pain points unresolved.
+
+*How might we enable VSP teams to see pain points and successes across the end-to-end experience of VFS teams on the platform.*
 
 ## Desired User Outcomes
 
