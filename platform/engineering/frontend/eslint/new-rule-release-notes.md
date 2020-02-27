@@ -34,7 +34,7 @@ February 21, 2020
 - Added a procedure on how new ESLint rules will be added to a test stage before they are moved to enforced.
 - CircleCI process with ESLint
 - Feedback is expected from VSA teams
-- New rules procedure can be found [here](eslint/adding-new-rules.md)
+- New rules procedure can be found [here](adding-new-rules.md)
 
 ## ESLint Enforced Rules Audit
 
