@@ -131,33 +131,18 @@ On Wednesday, February 27, the Debt Letters MVP was officially assigned to BAM2 
 ## Solution Narrative
 
 - **Sprint XX: (02/26/2020 - 03/10/2020)**:
-  - Project officially passed intake and was assigned to BAM2
-- **5/27/2019**: On staging 
-- **6/24/2019**: Started Usability testing
-- **July 2019**: Project put on hold while eBenefits worked on figuring out data requirements for the eBenefits fraud team
-- **8/16/2019**: Request from VBA leadership to launch as soon as possible
-- **8/19/2019**: Resumed development and began launch planning
-- **8/20/2019**: Approval from eBenefits fraud team to move forward
-- **8/21/2019**: QA begins
-- **12/10/2019**: learned mroe detailed information regarding fraud error flags. More info can be located [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/discovery-research/fraud%20error%20keys.md)
-- **12/16/2019**: Laucnhed to 100% of users
-- **1/29/2020**: eBenefits removed direct deposit for comp and pen from their site.
+  - Project officially passed intake and was assigned to BAM2 to begin work immediately, in parallel with existing projects
+  - A recurring meeting series has been established with the primary stakeholder group (Thursdays at 1200PM, EST) to discuss project status and to help coordinate with various secondary stakeholders both within the VA (numerous lines of business that deal with debt) and without (Congress, Pay.gov, etc)
 
 ## How to Access and Test
 
 **Staging**
 
-- https://staging.va.gov/my-va/
-- LOA3 with 2FA: Sign in with [any staging user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv).
-- LOA3 without 2FA: Will be prompted to setup 2FA before accessing.
-- LOA1: Create an account on staging and navigate to the profile. You will see a prompt to verify your identity since the profile is only available to users who have verified their identities.
-- [QA Manual Testing Matrix](https://app.zenhub.com/files/31788863/7d925a6a-4824-4437-a80e-2dbaf2224dfa/download) spreadsheet
-
 ## Error Handling
 
-Error handling can be found [here](./error-handling/README.md).
-
 ## Service Level Objective
+
+TBD; sample below from MyVA team
 
 | Service&#160;Level&#160;Indicator | Service Level Objective |
 | :-------------------------------- | ----------------------- |
@@ -167,31 +152,31 @@ Error handling can be found [here](./error-handling/README.md).
 
 ## API Calls and Dependent Systems
 
-Direct Deposit uses the EVSS PPIU API (https://www.ebenefits.va.gov/wss-ppiu-services-web/rest/ppiuServices/v1) to retrieve and update a veteran's financial information.
-
-We also use the govDelivery API to send emails.
+VBMS eFolder
+- We've been told that there are five (5) unique debt letter types that are currently available in a Veterans eFolder (where applicable)
+- That means we will need to integrate with the eFolder to be able to retrieve each of those different letter types for a given Veteran
+- We are reliant on letters in the eFolder being consistently and accurately identifiable; in other words, there needs to be a defined set of characteristics (a taxonomy, if you must) for each of the letter types we care about, and that definition needs to be adhered to in order for the solution to succeed
+- The burder of defining and maintaing the letter taxonomy will be managed, both up-front and on an ongoing basis by our partners in...(DMC? VBMS? Other?)
 
 ## On Call Support
 
-#vsp-platform-support and #vsa-authd-exp slack channels
+#vsp-platform-support and #vsa-bam-2 slack channels
 
 ## Design 
 
 ### Screenshots
 
 #### Before 
-![screen shot 2018-10-29 at 10 18 05 am](https://user-images.githubusercontent.com/21130918/47655714-fe548f80-db63-11e8-8812-3e2fe920f09f.png)
+![screen shot 2018-10-29 at 10 18 05 am](https://user-images.githubusercontent.com/21130918/47655714-fe548f80-db63-11e8-8812-3e2fe920f09f.gif)
 
-![screen shot 2018-10-29 at 10 19 58 am](https://user-images.githubusercontent.com/21130918/47655822-3a87f000-db64-11e8-98a4-ebebb2a8183c.png)
+![screen shot 2018-10-29 at 10 19 58 am](https://user-images.githubusercontent.com/21130918/47655822-3a87f000-db64-11e8-98a4-ebebb2a8183c.gif)
 
 #### After 
 
-The eBenefits Direct Deposit Secreen shots can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/discovery-research)
+The Debt Letters MVP screenshots can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp/discovery-research)
 
-All the new VA.gov [direct deposit designs can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/direct-deposit/design).
-
-**Profile with direct deposit**
-![Profile with direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit.png)
+**Staging profile with debt letters**
+![Profile with direct deposit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit.gif)
 
 **Profile with direct deposit modal open**
-![Direct deposit modal open](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit_Edit%20modal%20open.png)
+![Direct deposit modal open](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/design/Profile%20with%20direct%20deposit_Edit%20modal%20open.gif)
