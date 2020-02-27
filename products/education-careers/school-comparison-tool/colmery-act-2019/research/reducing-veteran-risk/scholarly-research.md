@@ -10,11 +10,13 @@ Primary motivation for Choosing College/University:
 -	Convenience (Primarily Online/Hybrid students)
   - Individuals who are still in military/may experience relocation due to job or other factors. 
 >	“The two students that selected and continued their education at hybrid and online programs, selected these programs because the programs provided the flexibility to move and continue their education”
+
 >	“For those without a tie to the region, convenience replaced this influence. Participants striving to complete their degree on active duty or who expected to move, selected programs, like online or hybrid programs, that allowed them to travel or move while continuing their studies with the same institution.”
 
 Factors in Making a Decision:
 -	Social circle/relationships are a MAJOR influence
 >	“10 of the 12 participants sought out and placed significant weight in these relationships while going through the college choice process.”
+
 >	“The search phase for the students that participated in this study did not include an in-depth analysis of multiple programs and was heavily weighted on the input and perceived trust of others”
 
 -	Internet was primary information gathering tool, but was research was cursory
@@ -30,6 +32,7 @@ Search Process:
 	2. Individual confirmed that the institution had the major they were looking for 
 	3. Individual applied (in many cases – only applying to ONE institution)
 >	 “Although most of the participants attended more than one college, all of the participants only applied to one university when accessing the institution from which they would ultimately strive to attain their four-year degree. The participants decided on the college they wanted to attend, confirmed that it had the degree that they were seeking, and applied without a backup plan for their education”
+
 >	“Participants did verify that their major of interest was offered at the college they were considering. However, the participants simply were confirming that the university offered the major they were interested in studying, it does not appear to be a significant influencing factor.”
 
 -	Most participants did not seek a particular educational model (resident, online, etc.) – instead they focused on what they DIDN’T want (online classes, for-profit institutions).
