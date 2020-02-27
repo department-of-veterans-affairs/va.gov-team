@@ -33,6 +33,8 @@ The goal is to design the print stylesheet to both follow best practices and sta
    
 ## Screenshots
 
+
+
 ### Before
 
 ### After
