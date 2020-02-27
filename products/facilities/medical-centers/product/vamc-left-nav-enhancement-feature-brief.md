@@ -2,44 +2,43 @@
 
 This document will focus on the VAMC Left Navigation enhancement project, part of the redesign of VAMC websites, beginning with Pittsburgh’s VAMC system of websites. 
 
-User Journey
+## Table of Contents
 
-User Stories
+[User Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#user-journey)
 
-Project Rationale
+[User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#user-stories--use-cases)
 
-Project Scope and Scale
+[Project Rationale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#project-rationale)
 
-Not in Scope
+[Project Scope and Scale](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#project-scope-and-scale)
 
-Measuring Success
+[Measuring Success](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#measuring-success)
 
-Dependencies
+[Dependencies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#dependencies)
 
-Risk factors
+[Risk factors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#risk-factors)
 
-Rejected Solutions
+[Rejected Solutions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#rejected-solutions)
 
-Definition of Done
+[Definition of Done](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#definition-of-done)
 
-Key Links
+[Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/medical-centers/product/vamc-left-nav-enhancement-feature-brief.md#key-links)
 
 ### User Journey
 
 
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
-- Veteran users of VA.gov should be able to navigate to their desired content or functionality without the need to navigate deep (2 levels or more) within one section of the site to understand its contents.
+- As a Veteran, I need to quickly find the content I need on the Pittsburgh VAMC website so I can complete my online task.  
 
 ### Project Rationale
 _Why should this project be a priority?_ 
 As a VA, but not VA.gov, website, the following design principles and rules apply to this project
 - Users should get to all content and tools in just 1-2 clicks/taps
 - Users should know what page they are on and what section that are in
-With current functionality: 
-- Users forget what page they are on after scrolling past the page heading (H1)
-- Users do not know (i.e., no visual affordance or ability to preview) there are children or grandchildren pages in a section of content using the current left-hand page menu
-- Users are distracted by the menu item selected state (and often interpret it as their call to action, instead of focusing on the call to action on the content page)
+
+** However** with current functionality: 
+- The Pittsburgh VAMC webistes are confusing to navigate. Users forget what page they are on after scrolling past the page heading, do not understand the hierarchial content structure and find the menu to be distracting rather than helpful. 
 
 **Stakeholder/Business drivers**
 
@@ -73,8 +72,7 @@ Specifically,
 - Implement four levels of menu/page publishing (Spoke -> Parent -> Child -> Grandchild)
 - Optimize for mobile navigation and scrolling
 - Improve wayfinding support (such as sticky headers)
-- Address usability issues 
-- Animate menu opening/closing processes 
+- Address usability issues and 508 accessibility defects 
 - Improve visibility for third level pages in the local navigation (except those which are chronologically listed)
 
 **Future Iterations**
@@ -104,13 +102,15 @@ _Are other features dependent on this one? What do we need from partners? What d
 ### Rejected Solutions
 *What other approaches did we consider and why were they rejected?*
 
-
 ### Definition of Done
-
+- Users can access all content and tools in just 1-2 clicks/taps
+- Users can "preview" all content pages in a section of content
 
 ### Key Links
 _Links to requirements documentation, wireframes/mock-ups, research, etc._
 
 [Current website](https://www.va.gov/pittsburgh-health-care)
+
 [Prototype of new design](https://staging.va.gov/pittsburgh-health-care)
+
 [Page navigation, see also folder called left-nav](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/left-nav)
