@@ -1,7 +1,7 @@
-# Questions & Answers about Mapbox (as of November 2019)
+# Questions & Answers about Mapbox (as of February 2020)
 
 ## What version of Mapbox is Facility Locator using?
-_unknown_
+Mapbox sdk-js was updated from 1.0.0-beta7 to v 0.9.0 in December 2019-January 2020. 
 
 ## What Mapbox Services/APIs is Facility Locator using?
 _unknown_
@@ -19,3 +19,4 @@ _unknown_
 _unknown_
 
 ## Do we have an account with MapBox?
+_As of October 1, 2019, we have an annual license version of Mapbox and have paid for an entire year, approved by DSVA._
