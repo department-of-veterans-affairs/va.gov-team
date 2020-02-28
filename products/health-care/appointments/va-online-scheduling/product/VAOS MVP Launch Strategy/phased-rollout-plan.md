@@ -2,25 +2,26 @@
 
 ## Goals
 1. Transition veterans to new VAOS tool on VA.gov in order to improve online scheduling uptake and veteran satisfaction with online scheduling
-2. Minimize risk that new tool won't be accepted by veterans; conversely, maximize chances of veteran acceptance & good press, which should result in higher usage numbers
+2. Minimize any potential performance risk for the new tool; conversely, maximize likelihood of veteran adoption and good press, which should result in higher usage numbers
 3. Generate positive perception & goodwill in the veteran community
 
 ## How do we get there?
 - Leverage a phased rollout strategy to test veteran acceptance of the tool in production
-- Introduce the new tool with individual ability to revert to old scheduling experience in order to ensure that only veterans who are wiling to accept the risks associated with using a brand-new tool are using it initially
+- Introduce the new tool with individual ability to revert to old scheduling experience in order to ensure that only veterans who are wiling to accept the risks associated with using a brand-new tool are using it initially -- *need to discuss this
 - Monitor core experience metrics very closely at each phase to ensure that we're only introducing the tool to more veterans once we are sure that performance is acceptable compared to the old experience & veteran expectations
 - Have a 'No Go' plan in case the tool doesn't perform as expected in production; identifying No-Go issues on a smaller scale will allow us to minimize confusing changes for veterans
-- Delay veteran comms until we've successfully launched VAOS on VA.gov fully, so that comms can contain the great feedback from earlier rounds
-    - Lets us push marketing until we've gotten some good feedback to include
-    - Minimizes risk that a large number of veterans hit show-stopping problems at once, which could build distrust
+- Delay external veteran communitication and PR until we've successfully launched VAOS on VA.gov fully (meaning 90%+ availability)
+    - Minimize risk that a large number of veterans hit show-stopping problems at once, which could build distrust
+    - During rollout a comms plan for internal commuincation will be deployed
 
-## Latest Status of Phased Rollout (2.26.2020)
-![Status as of 2/26/2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/phased_rollout_as_of_2.26.png)
+
+## Latest Status of Phased Rollout (2.28.2020)
+![Status as of 2/26/2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/Timeline_2.28.20.png)
 
 
 -----
 
-## Phase 0: Pre-launch & launch prep [Due Pre-Launch]
+## Phase 0: Pre-launch & launch prep [Due Pre-Launch] <------- *WE ARE HERE*
 The goal of this stage is to ensure the tool is holistically ready for production launch
 - [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/Product%20Dev%20Checklist%20-%20VAOS%20MVP.md) complete
 - New feature development stops; focus on integration testing, manual QA testing and bug squashing
@@ -29,13 +30,21 @@ The goal of this stage is to ensure the tool is holistically ready for productio
   - [ ] No critical functionality or accessibility bugs found in manual or automated testing
   - [ ] No critical bugs found in production UAT sessions in any of the core flows (view, cancel, request, schedule)
   - [ ] Acceptance Criteria for MVP met (see [MVP Acceptance Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/README.md#acceptance-criteria) in PO)
+  - [ ] Internal Communication plan activated for internal VA Staff
+    - Main staff stakeholder groups to reach: 
+        - VA Scheduling staff- particularly VAOS Request Managers
+        - Community Care Schedulers
+        - Connected Care Coordinators (My HealtheVet Coordinators)
+    - Secondary groups include:
+        - VA Telehealth staff- FCTs, TCTs, etc.
+        - VA clinicians (primarily nurses)
 
 ## Phase 1: Initial Public Rollout [Week 1]
 The goal of this phase is to gather a statistically relevant usage sample to both compare performance against the legacy tool and also get enough veterans using the tool to surface edge-case bugs, service issues, etc. before a broader roll-out
 - Targeting 375 appointment attempts (~5% of legacy tool volume) to get statistically valid data set for comparison
-- ~5% of logged-in users on VA.gov automatically opted in (but have pathway for returning to legacy experience)
+- ~5% of logged-in users on VA.gov automatically opted in (but have pathway for returning to legacy experience) *[need to discuss with Lauren]*
 
-- Go / No Go decision for continuing to Phase 2:
+### Measurement of Success for Go / No Go decision for continuing to Phase 2:
   - [ ] Target sample of ~375 scheduling attempts reached
   - [ ] The tool is performing acceptably compared to legacy VAOS
     - [ ] Conversion rates (requested + direct-scheduled appointments / new appointment starts) are at least in-line with legacy tool (35%+)
@@ -46,30 +55,32 @@ The goal of this phase is to gather a statistically relevant usage sample to bot
   
  ## Phase 2: Rollout ramp-up [Weeks 2 - 3]
 The goal of this phase is to repeat the results from Phase 1 with an ever-increasing audience. Opt-in percentages should be turned up once or twice weekly, preceded by miniature go/no-go meetings to assess performance for the period along the lines of the framework outlined in Phase 1.
-- Go / No Go decision for continuing to Phase 3:
+
+### Measurement of Success Go / No Go decision for continuing to Phase 3:
     - [ ] All perforamnce criteria in Phase 1 met
     - [ ] At least 90% of logged-in veterans automatically opted in
 
-## Phase 3: Silent launch on VA.gov [Week 4]
+## Phase 3: Silent Launch, Full VA.gov Availability [Week 4]
 The goal of this phase is to fully launch the tool on VA.gov while paving the way for sunsetting legacy VAOS
 - VAOS auto-opt-in infrastructure removed; users directed to new VAOS as the default experience
 - Links from VA.gov and other unauthenticated pages (e.g., VA Mobile App Store) replaced with links to the new tool & corresponding content is updated
 - [TBD] Banner in MHV / legacy tool indicating sunsetting of the old experience will take place in the future
-- Veterans can continue to use legacy VAOS to schedule appointments
-- Go / No Go decision for continuing to Phase 4:
+- Veterans can continue to use legacy VAOS to schedule appointments ---*Need to review this with Lauren*
+
+### Measurement of Success Go / No Go decision for continuing to Phase 4:
   - [ ] The tool continues to perform acceptably compared to legacy VAOS as described in Phase 1
   - [ ] At least 8,000 scheduling attempts have been made
 
-## Phase 4: Comms & Sunset Legacy VAOS [Week 5+]
+## Phase 4: Marketed Launch of VAOS-R & Sunset Legacy VAOS [Week 5+]
 The goal of this phase is to complete the scheduling transition from legacy VAOS to VA.gov and let the veteran community know about the new tool
 - Comms sent to VSOs, partner organizations, veterans, and any other interested parties
-  - Waiting on comms allows us to 1. gradually ramp up volume to the tool and 2. incorporate  good feedback we've gotten into the actual comms
+  - Waiting on external comms/marketing till this phase allows us to - 1. gradually ramp up volume to the tool and 2. incorporate  good feedback we've gotten into the actual comms
 - MHV updated to point to VA.gov for all scheduling functionality (note: pending bidirectional SSOe integration on VA.gov)
 - `veteran.mobile.va.gov/var/v4/` (legacy link) redirects to `va.gov/some-path/vaos`
 - There is no rush to this step - we should feel extremely confident in performance of the new experience before sunsetting the old tool
   - Ideally, we would see traffic to MHV scheduling wind down somewhat on its own as veterans choose the new experience
-  - Could even add a step that allows veterans to request to use legacy VAOS, e.g. 'Online scheduling is now on VA.gov. [Continue] [Use the old scheduler]'
-  - Legacy & new tools can coexist for a time
+  - Could even add a step that allows veterans to request to use legacy VAOS, e.g. 'Online scheduling is now on VA.gov. [Continue] [Use the old scheduler]' -*Neeed to review with Lauren*
+  - Legacy & new tools can coexist for a time -*Need to review with Lauren. They will coexist during the phased rollout. Lingering that coexistance does not improve probability of adoption of new tool, and it also introduces additional, unnecessary confusion.*
   
 -----
 
