@@ -14,3 +14,7 @@
 - Fill in gaps in protoype (3)
 - Create prototype with no reference to log in (3)
 - Create and present options for plain language (5)
+
+## Backend
+- Establish connectivity to CARMADEV (3)
+- Verify Veteran in MVI (3)
