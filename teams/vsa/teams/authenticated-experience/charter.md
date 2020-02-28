@@ -7,7 +7,7 @@ Help users accomplish tasks more easily by leveraging what we know about them as
 
 ### Authenticated Experience Vision:
 "A personalized experience where veterans can easily accomplish what matters to them "
-- persoanlized experience
+- personalized experience
 - relevant information
 - notifications/status updates
 - complete tasks
