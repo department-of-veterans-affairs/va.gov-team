@@ -6,10 +6,22 @@
 Help users accomplish tasks more easily by leveraging what we know about them as a logged in user.
 
 ### Authenticated Experience Vision:
-WIP
+"A personalized experience where veterans can easily accomplish what matters to them "
+- persoanlized experience
+- relevant information
+- notifications/status updates
+- complete tasks
 
 ### Authenticated Experience North Star:
-WIP
+potentials:
+1) Minimizing the amount of time veterans spend to accomplish tasks within the AE.
+- want this to be a roll up of all possible relevant inputs/metrics
+
+Future note:
+If this was an ideal personalized product experience, we would show the user all relevant benefits/tasks that apply to them.
+
+
+
 
 ## What we work on
 
