@@ -13,7 +13,7 @@ Written notes of verbal statements (initial here ______)</br>
 Recorded voice (initial here ______)</br>
 Screen recording (initial here ______)
 
-I understand that I may quit the session at any time. If I need a break at any time, I will tell the moderator. I agree to ask questions about the session if I don't understand something. If I have questions after the session is over, I can contact Jeff Barnes at Jeffrey.barnes4@va.gov.
+I understand that I may quit the session at any time. If I need a break at any time, I will tell the moderator. I agree to ask questions about the session if I don't understand something. If I have questions after the session is over, I can contact xxx.
 
 I expressly release the Department of Veterans Affairs from and against any and all claims, which I have or may have for invasion of privacy, defamation, or any other cause of action arising out of the production, distribution, display or publication of the results of the project, as the conditions described above are met.  
 
