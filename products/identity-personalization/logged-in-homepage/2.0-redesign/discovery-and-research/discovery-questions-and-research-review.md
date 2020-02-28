@@ -18,16 +18,17 @@ Past research
   
 ## Product questions we're trying to answer
 
-Broadly speaking, we are trying to figure out how to reconcile the existing homepage (entirely a router) with the My VA dashboard (entirely a dashboard). From a logged in state, these two pages compete for attention and both have much room for improvement. We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
+We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
 
-Specific questions we're trying to understand are:
+To help us figure this out, we'd like to better understand:
 
-- Why do people come to VA.gov in the first place? What do they do here?
-- When do people go to the homepage? Why? What do they do from here?
-- How does the existing homepage meet user expectations? How does it miss them?
-- Now that the homepage has been live for about a year and half, what can we learn from it? Where is there room for improvement?
-- When do people go to My VA? Why? What do they do from here?
-- What do people expect to see on a logged in homepage/dashboard? Why? 
+- Why people come to VA.gov.
+- What people do on VA.gov
+- How people move through the site.
+- How people use the homepage.
+- How people use My VA.
+- Areas for improvement for existing functionality.
+- How people's experience with the site might change if we had a proper notification system.
 
 ## Questions
 
