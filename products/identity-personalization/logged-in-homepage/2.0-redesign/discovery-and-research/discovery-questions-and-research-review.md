@@ -52,8 +52,10 @@ To help us figure this out, we'd like to better understand:
 
 #### My VA
 
-- What are the top links clicked from My VA?
-- How many people visit My VA?
+- What page do people visit BEFORE My VA?
+- Is My VA ever a first entry point?
+- What do people do from My VA? (ie. what links do they click?)
+- How many people visit My VA? 
 
 ### User research/interviews
 
