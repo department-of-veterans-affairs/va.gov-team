@@ -26,7 +26,7 @@ The goal of this stage is to ensure the tool is holistically ready for productio
 - [VSP pre-launch checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/Product%20Dev%20Checklist%20-%20VAOS%20MVP.md) complete
 - New feature development stops; focus on integration testing, manual QA testing and bug squashing
 - Go / No Go decision for continuing to Phase 1:
-  - [ ] All pre-launch checks completed without issue
+  - [ ] All [pre-launch checks](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/Product%20Dev%20Checklist%20-%20VAOS%20MVP.md) completed without issue
   - [ ] No critical functionality or accessibility bugs found in manual or automated testing
   - [ ] No critical bugs found in production UAT sessions in any of the core flows (view, cancel, request, schedule)
   - [ ] Acceptance Criteria for MVP met (see [MVP Acceptance Criteria](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/README.md#acceptance-criteria) in PO)
