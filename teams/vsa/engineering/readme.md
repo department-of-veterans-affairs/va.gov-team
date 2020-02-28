@@ -14,3 +14,7 @@ DevOPS            | [Triage](devops/Triage-Process.md)
 Engineering       | [Pull Request](pull-request-process.md)
 Quality Assurance | [QA](qa/)           
        
+## Document history
+| Updated | Description  | User  |  
+|---|---|---|
+| 2/28/2020 at 1:00 PM | Readme Created | Jose Armando Costa |
