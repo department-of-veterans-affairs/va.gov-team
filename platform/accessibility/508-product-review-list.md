@@ -93,8 +93,9 @@ Each application or logical section of the site will have a heading and a detail
 ### Facility Locator
 
 **Maintainer:** VSA<br/>
-**Audit Status:** Issues logged by auditor in July 2019<br/>
 **[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A508%2FAccessibility+label%3A%22facility+locator%22+is%3Aclosed)**
+
+#### Open Issues
 
 **Audit Status:** Issues logged by auditor in February 2020<br/>
 * [[AXE-CORE]: Zoom In / Zoom Out controls MUST have their visible text as part of their accessible name](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6104)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-0 - **_Showstopper_** 
@@ -102,9 +103,7 @@ Each application or logical section of the site will have a heading and a detail
 * [[MOBILE, ZOOM]: At 400%, content does not fit in screen view responsively](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6184)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 - **_Serious_** 
 * [[AXE-CORE]: The Leaflet container needs a role appropriate for interactive content](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6103)<br/>**Production** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 - **_Trivial_** 
 
-
-#### Open Issues
-
+**Audit Status:** Issues logged by auditor in July 2019<br/>
 * [[SCREENREADER]: Search for dropdown text is read aloud each time a letter is entered into Search city... input - #529](https://github.com/department-of-veterans-affairs/va.gov-team/issues/529)<br/>
 **Opened:** July 10, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER]: The map is announcing a lot of extra data on focus and each droplet needs a usable name - #515](https://github.com/department-of-veterans-affairs/va.gov-team/issues/515)<br/>
