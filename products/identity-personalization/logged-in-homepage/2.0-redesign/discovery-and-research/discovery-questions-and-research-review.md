@@ -36,12 +36,11 @@ To help us figure this out, we'd like to better understand:
 
 #### General
 
-- What are the top 10 — 20  pages visited on VA.gov?
-  - What about for logged out users?
-  - Logged in users?
-- What are the top 10 – 20 search terms?
-- What are the top 10 – 20 entry points for VA.gov?
-- After people entering the site, what is the next thing they do?
+- What are the top ~20  pages visited on VA.gov?
+  - How does this change if we look at top pages for logged out users vs. logged in users?
+- What are the top ~20 search terms on VA.gov?
+- What are the top ~20 entry points for VA.gov?
+- After people enter the site, what is the next thing they do?
 - % of traffic by device (desktop; tablet; mobile).
 
 #### Homepage
