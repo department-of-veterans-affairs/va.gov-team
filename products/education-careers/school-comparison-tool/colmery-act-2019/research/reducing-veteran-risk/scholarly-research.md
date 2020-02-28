@@ -95,3 +95,39 @@ Ives, Emily Joanne. Dissertation. “Understanding the College Choice Process of
 
 
 
+Hill, Regina L. Dissertation. “Factors Affecting College Choice and Transfer: A Study of the Decision-Making Process of Student Veterans” Old Dominion University. Spring 2016.
+
+## Factors to attend private for-profit institution 
+
+
+-	Program offerings
+> “One of the characteristics of for-profit institutions is that students are provided a clear and flexible pathway to degree completion including accelerated programs and on-line courses (McQuestion & Abelman, 2004)”
+
+-	Ease of admission
+> "Wilson (2010) asserted that the admission process at for-profit institutions is quick and easy to navigate with prospective students receiving a call from admissions within 15 minutes of making an inquiry.”
+
+-	Receiving transfer credit for military experienced
+> “Mary and other participants were concerned about receiving transfer credit for military experience. Transfer of military credit was an important factor in the college selection process for participants.”
+
+-	Quick Time to Degree Completion
+> “Participants noted that duration was an important factor in college choice; they indicated they were eager to start college but also welcomed the quickest route to degree completion.”
+
+-	Location
+> “Participant responses regarding location included, the college was close to work and home, it was in the area, and the college was conveniently located close to after school activities”
+
+## Factors to transfer to community college
+
+-	Location
+> “Location was mentioned again as a reason for attending the community college.”
+
+-	Social Relationships/Connections
+> “Factors affecting decisions to attend a particular community college included: small class size, availability and flexibility of online courses, multiple locations, articulation agreements with four-year institutions, and positive experiences of family and friends who had attended the same community college.”
+
+
+-	Convenience
+> “The availability of online courses was especially important to single parents.”
+
+> “Factors influencing the specific selection of Parkview Community College as the transfer school included multiple locations, flexibility, transfer opportunities, and creditability”
+
+
+
