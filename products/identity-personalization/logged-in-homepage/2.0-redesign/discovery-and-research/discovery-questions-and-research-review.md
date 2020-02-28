@@ -16,6 +16,19 @@ Past research
 - My VA research
   - [Original pre-launch usability testing (April 2018)](https://github.com/department-of-veterans-affairs/vets.gov-team/blob/master/Products/Identity/Personalization/research/April%202018%20usability/Personalization%20MVP%20readout.pptx)
   
+## Product questions we're trying to answer
+
+Broadly speaking, we are trying to figure out how to reconcile the existing homepage (entirely a router) with the My VA dashboard (entirely a dashboard). From a logged in state, these two pages compete for attention and both have much room for improvement. We're broadly trying to figure out how to create a more useful logged in homepage, one that is the most useful blend of dashboard/personal information and links to tools. We want to do a better job than we are now of showing veterans the full picture of their care at the VA in one place, and a better job of helping them complete the tasks they come to VA.gov to complete.
+
+Specific questions we're trying to understand are:
+
+- Why do people come to VA.gov in the first place? What do they do here?
+- When do people go to the homepage? Why? What do they do from here?
+- How does the existing homepage meet user expectations? How does it miss them?
+- Now that the homepage has been live for about a year and half, what can we learn from it? Where is there room for improvement?
+- When do people go to My VA? Why? What do they do from here?
+- What do people expect to see on a logged in homepage/dashboard? Why? 
+
 ## Questions
 
 ### Analytics
