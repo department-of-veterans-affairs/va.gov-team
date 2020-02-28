@@ -22,7 +22,7 @@ So you've been asked to participate in a research pilot. What's next?
 ## FAQ
 **I'm a developer and look at websites/UX differently than most vistors. Why should I participate?**
 
-Anyone can be a pilot participant! It helps the team gain empathy for our users and allows you to view the product through a different lens and se the value in what we're building. It also helps the moderator figure out how to run the study efficiently.
+Anyone can be a pilot participant! It helps the team gain empathy for our users and allows you to view the product through a different lens and see the value in what we're building. It also helps the moderator figure out how to run the study efficiently.
 
 **How do I pretend to be a VA.gov user?**
 
