@@ -2,7 +2,7 @@
 As part of the redesign and development, VA Online Scheduling implemented the follow test plan to assure quality and usability. Our testing process is in line with the best practices deployed by [VSP](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/quality-assurance/process.md). 
 
 - Automated unit & E2E testing for VAOS front-end
-- Automated unit and end to end testing for vets-api
+- Automated unit and E2E testing for vets-api
 - Local and staging testing of user flows - 3 flow paths
   - *Path 1* - Direct Schedule Flow (including create new appointment, review scheduled appointment, cancel appointment)
   - *Path 2* - Request VA Appointment (including create new appointment, review scheduled appointment, cancel appointment)
