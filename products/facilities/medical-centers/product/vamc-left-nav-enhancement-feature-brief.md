@@ -1,6 +1,8 @@
 # _VAMC Left Navigation Enhancement Feature Brief_ (WIP)
 
-This document will focus on the VAMC Left Navigation enhancement project, part of the redesign of VAMC websites, beginning with Pittsburgh’s VAMC system of websites. 
+This document will focus on the VAMC Left Navigation enhancement project, part of the redesign of VAMC websites, beginning with Pittsburgh’s VAMC system of websites. This enhancement is the implementation of a revised design based upon veteran feedback and research and associated finding on the Pittsburgh VAMC website conducted in November/December 2019.
+
+Note: Originally intended as a global revision, DEPO has decided to implement on VAMCs-only at this time as further analysis of content and user-expectations should be done before executing a site-wide change.
 
 ## Table of Contents
 
