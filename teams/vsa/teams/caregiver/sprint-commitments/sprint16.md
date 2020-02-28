@@ -11,7 +11,7 @@
 - Apply feature toggles to 1010-CG (3)
 
 ## Design/Research
-- Fill in gaps in protoype (3)
+- ~Fill in gaps in protoype (3)~
 - Create prototype with no reference to log in (3)
 - Create and present options for plain language (5)
 
