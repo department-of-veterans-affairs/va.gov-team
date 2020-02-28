@@ -1,6 +1,6 @@
 ## Content
 - Intro meeting with Public Websites (2)
-- Meet with Caregiver policy expert to explore content (0)
+- ~Meet with Caregiver policy expert to explore content (0)~
 - Information Architecture Path (3)
 - Identify changes based off of proposed/modified/unreleased 1010-CG (5)
 
