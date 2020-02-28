@@ -45,6 +45,8 @@ To help us figure this out, we'd like to better understand:
 
 #### Homepage
 
+- What page do people visit BEFORE the homepage?
+- How often is the homepage people's first entry point?
 - What links do people click from the homepage?
 - How many people visit the homepage?
 
