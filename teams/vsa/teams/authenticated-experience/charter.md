@@ -78,7 +78,7 @@ To be prioritized:
 |**Roles**              |**Assigned**                        |
 |-----------------------|------------------------------------|
 |DSVA team lead         |Samara Strauss
-|Team Product Manager   |Justin Pickett
+|Team Product Manager   |Matt Shea
 |Front-End Engineer     |Erik Hansen
 |Front-End Engineer     |Brad Conley
 |Back-End Engineer      |Lihan Li
