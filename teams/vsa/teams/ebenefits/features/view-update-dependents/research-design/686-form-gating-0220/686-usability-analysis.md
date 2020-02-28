@@ -1,5 +1,5 @@
 # eBenefits VA Form 21-686c Usability Research Findings
-**Digital Services Veterans Affairs (DSVA), VSA, eBenefits Team, March 2020**
+**Digital Services Veterans Affairs (DSVA) | VSA eBenefits Team | March 2020**
 
 [Aricka Lewis](aricka@adhoc.com) | Moderator, researcher & [James Adams](jadams@governmentcio.com) | UX designer
 
@@ -53,23 +53,23 @@ Next steps here
 
 ## Appendix
 ### Conversation guide
-[Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
 
 ### Interview transcripts
-[Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/session-notes)
+[Session notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/session-notes)
 
 ### Tools used for synthesis
-[Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1581622373622/173449c7655d3f34a3ee81cab0afee14420dea59)
+[Mural board](https://app.mural.co/t/vsa8243/m/vsa8243/1581622373622/173449c7655d3f34a3ee81cab0afee14420dea59)
 
 ### Pages & applications used
 [Prototype](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
 
 ### Other supporting documents created
-[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
 
-[Topline Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
+[Topline research summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
 
-[Powerpoint Version of this analysis]()  |  Not yet available.
+[Powerpoint version of this analysis]()  |  Not yet available.
 
-[PDF Version of this analysis]()  |  Not yet available.
+[PDF version of this analysis]()  |  Not yet available.
 
