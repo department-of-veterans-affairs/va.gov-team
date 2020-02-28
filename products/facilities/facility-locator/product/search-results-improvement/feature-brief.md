@@ -27,14 +27,14 @@ This document will focus on the Facility Locator Search Results Improvement proj
 [Key Links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/product/search-results-improvement/feature-brief.md#key-links)
 
 ### User Journey
-Veterans use the Facility Locator to find locations where they can access a variety of benefits and services. The Mission Act defined criteria under which Veterans may be eligible for additional benefits or an expanded list of locations. Regardless of eligibility, Veterans have a right to expect search functionality that returns relevant and meaningful facility information quickly. 
+Veterans use the Facility Locator as the single source of truth on VA.gov to find a physical locations where s/he can recieve services and information as part of their Veteran benefit. Veterans expect search functionality that returns relevant and meaningful answers to their query with quick, relevant, and accurate information. 
 
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
 
-As a Veteran using the Facility Locator, I need search results returned to me quickly so that I can have my need met. 
-As a Veteran using the Facility Locator, I need a list of results to guide my selection (whether it is five or fifty miles away) so that I can visit the most convenient location. 
-As a Veteran using the Facility Locator, I need to define my search area by interacting with the map so that the results returned are relevant to my location. 
+- As a Veteran using the Facility Locator, I need search results returned to me quickly so that I can have my need met. 
+- As a Veteran using the Facility Locator, I need a list of results to guide my selection (whether it is five or fifty miles away) so that I can visit the most convenient location. 
+- As a Veteran using the Facility Locator, I need to define my search area by interacting with the map so that the results returned are relevant to my location. 
 
  
 ### Project Rationale
