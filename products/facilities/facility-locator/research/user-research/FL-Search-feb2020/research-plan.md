@@ -70,7 +70,9 @@ Please list the people who will be serving in each role.
 - Observers: Michelle Middaugh (michelle.middaugh@adhocteam.us), Dave Conlon (David.Conlon@va.gov), Lance Sanchez (osanchez@governmentcio.com)	
 
 ## Resources	
-- [Convo Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-feb2020/conversation-guide.md)	
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/research/user-research/FL-Search-feb2020/conversation-guide.md)	
+- [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1582917972915/2b5515a1af8c264004147d139990c29ca4ac090c)
 - Topline Summnary
 - Synthesis
 - Read-Out/Results	
+- Mural PDF
