@@ -122,7 +122,8 @@ Increase customer satisfaction
 ## OKRs-KPIs
 
 ### KPIs
-* Top 3 indicators for medical device reordering to be added
+* Increase online orders by 5% QoQ
+* Order abandon rate <10%
 
 ### Objectives and Key Results
 *Objective:* Reduce ordering complexity and streamline the process.
@@ -139,10 +140,6 @@ Increase customer satisfaction
 * See a reduction of orders from all other DLC ordering Channels
 * Compare online activity on GA with completion of orders from the DLC   
 
-*Objective:* Determine if Lager Catalogue is out of scope.  
-* How many products will create success.
-* Define what are the top ordered items
-* Define what top items have top ancillary items  
 
 *Objective:* Confirming (KPI) that new Medical tool will migrate orders to DLC VA.gov channel.  
 * Reduction in mailed in orders
