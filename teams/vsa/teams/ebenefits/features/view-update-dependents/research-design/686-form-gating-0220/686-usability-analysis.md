@@ -1,4 +1,4 @@
-# eBenefits VA Form 21-686c Usability Research Findings
+# VA Form 21-686c usability research findings
 **Digital Services Veterans Affairs (DSVA) | VSA eBenefits Team | March 2020**
 
 [Aricka Lewis](aricka@adhoc.com) | Moderator, researcher & [James Adams](jadams@governmentcio.com) | UX designer
