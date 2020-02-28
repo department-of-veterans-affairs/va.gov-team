@@ -10,9 +10,8 @@ documentation that have been developed to keep our team working efficiency.
 
 Discipline        | Process
 ----------------- | -------------
-DevOPS            | [Triage](devops/Triage-Process.md)
-Engineering       | [Pull Request](pull-request-process.md)
-Quality Assurance | [QA](qa/)           
+Engineering       | [Engineering Charter](charter.md)
+    
        
 ## Document history
 | Updated | Description  | User  |  
