@@ -1,5 +1,11 @@
-# eBenefits VA Form 21-686c Usability Research Analysis
-`eBenefits Team, March 2020`
+# eBenefits VA Form 21-686c Usability Research Findings
+**Digital Services Veterans Affairs (DSVA), VSA, eBenefits Team, March 2020**
+
+[Aricka Lewis](aricka@adhoc.com) | Moderator, researcher
+
+[James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) | UX designer
+
+View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md).
 
 ## Research goals
 **Background:** VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran. The 686 is 12 pages in its paper incarnation, and it supports eight discrete workflows (including the 21-674). Once deployed to VA.gov, the 686 will be one of the longer, more complex forms on the site. The new 686 must be developed within the conventions and constraints of the VA.gov form system. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
@@ -10,7 +16,14 @@
 - Have we properly "chaptered" the various business workflows?
 - What problems arise from longer/complicated chapter combinations?
 
-**Guiding questions:**
+## Research Methodology 
+Usability testing was conducted remotely using  Zoom. Participants were presented with a comprehensive high-fidelity prototype created using Adobe XD. The remote moderator prompted users with guiding questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their thoughts. Remote observers and note takers were in attendance, and all sessions were recorded.
+
+### Who we talked to
+
+Description of who was spoken to.
+
+### Research Questions
 - Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows?
 - Are the forms presented clearly and easy to understand by Veterans?
 - Where do users need examples, guidance or section headers as they interact with the form?
@@ -19,66 +32,40 @@
 - Do participants know they have to reports changes in their dependents status?
 - What workflow combinations (scenarios) do users think are likely?
 
-**Methods:** Usability testing was conducted remotely using  Zoom. Participants were presented with a comprehensive high-fidelity prototype created using Adobe XD. The remote moderator prompted users with guiding questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their thoughts. Remote observers and note takers were in attendance, and all sessions were recorded.
+## Key Findings
+List top findings here
 
-**Hypothesis:** The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
+## Details of Findings
+List details of each finding in top findings here, with supporting quotes when possible.
 
-## Top insights
-**Insights:**
-- Not yet available...
+## Additional Insights
+Any additional insights that aren't "top findings."
 
-**Collected Recommendations:**
+## Recommendations
+Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
 
-Section One
+## Next Steps
+Next steps here
 
-- Not yet available...
-
-Section Two
-
-- Not yet available...
-
-Section Three
-
-- Not yet available...
-
-## Participants
-
-**Locations:** The locations of participants across the United States...
-
-![Participant Map]()
-
-**Demographics:** The median participant was...
-
-![Participant demographic charts]()
-
-## Findings & Recommendations
-
-**Section:** Not yet available...
-
-### Section 
-**Findings:**
-
-**Recommendations:**
-
-### Section 
-**Findings:** 
-
-**Recommendations:**
-
-## Takeaways
-
-### Appendix / Resource links
-
-[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
-
+## Appendix
+### Conversation guide
 [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-conversation-guide.md)
 
-[Prototype](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
-
+### Interview transcripts
 [Session Notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/session-notes)
 
+### Tools used for synthesis
 [Mural Board](https://app.mural.co/t/vsa8243/m/vsa8243/1581622373622/173449c7655d3f34a3ee81cab0afee14420dea59)
+
+### Pages & applications used
+[Prototype](https://xd.adobe.com/view/fef8a415-74b4-45a9-6b5f-da956acd75d9-88c9/)
+
+### Other supporting documents created
+[Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
 
 [Topline Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md)
 
-[PDF Version of this Analysis]()  |  Not yet available.
+[Powerpoint Version of this analysis]()  |  Not yet available.
+
+[PDF Version of this analysis]()  |  Not yet available.
+
