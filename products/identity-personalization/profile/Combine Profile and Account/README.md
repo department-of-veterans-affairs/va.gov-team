@@ -89,11 +89,14 @@ As the authenticated experience team, we want to be able to do the following:
 ### Out of Scope
 
 1. Adding any new features to the combined Profile/Account that aren't already in development.  
-  - Notification MVP and disability rating MVP are OK since they are already in development.
 
 ## Solution Approach
 
 ## Value Propositions
+
+1. It should be easier for veterans to find the information they expect to find in a profile section.
+2. The profile should feel more personalized, making veterans feel "seen" by the VA.
+3. This new approach should allow us to easily scale the profile as new sections are added/needed.
 
 ## KPIs
 
@@ -118,7 +121,8 @@ Other metrics are qualitative:
 - **September 2019**: Initial design explorations
 - **October 2019**: Project put on hold due to other team needs.
 - **January 2010**: Project resumed. Design explorations delivered. Beginning profile refactoring.
-- **February 2020**: 
+- **February 2020**: Initial designs completed; beginning copy.
+- **March 2020**: Completing copy, beginning build, conducting user testing.
 
 ## Technical Decisions
 
