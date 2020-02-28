@@ -14,11 +14,16 @@
 - Have we properly "chaptered" the various business workflows?
 - What problems arise from longer/complicated chapter combinations?
 
-**Our hypothesis:** Lorem ipsum dolor sit amet.
+**Our hypotheses:** The 686 is a long and complicated form in its entirety, but the digital version should prove less daunting because it features user-selectable workflows and "step-by-step" chapter-based screens.
+
+ - Users will accept the checkbox selection of multiple forms, but will be wary about picking too many workflows at once.
+ - Users will require clatification or guidance at various points; The upload feature may create some confusion/frustration with its position at the end of the form.
+ - Users may not be immediately aware of the change in workflow "chapters" as they navigate the form. 
+ - Some users will find the add-spouse workflow will be problematic in it's length and the repetitive section of former marriages. The "remove" dependent flows will be easily understood.
 
 ## Research methodology 
 
-**Our methodology:** TUsability testing was conducted remotely using  Zoom. Participants were presented with a comprehensive high-fidelity prototype created using Adobe XD. The remote moderator prompted users with guiding questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their thoughts. Remote observers and note takers were in attendance, and all sessions were recorded.
+**Our methods:** Usability testing was conducted remotely using  Zoom. Participants were presented with a comprehensive high-fidelity prototype created using Adobe XD. The remote moderator prompted users with guiding questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their thoughts. Remote observers and note takers were in attendance, and all sessions were recorded.
 
 ### Who we talked to
 - Eight Veterans
@@ -40,7 +45,17 @@
 - What workflow combinations (scenarios) do users think are likely?
 
 ## Key findings
-List top findings here
+Our top 10 list
+- Participants initially expected to find the 21-686c in the VA.gov Family Benefits or Records sections.
+- Users generally scanned the introduction page, but stated they found the level of guidance acceptable; however, once they were completing the form, they wanted additional information up-front.
+- No participant seemed to notice there were two forms presented: 21-686c and 21-674.
+- Participants universally accepted the "checkbox" workflow selection strategy, and most stated they preferred to handle multiple workflows in one session.
+- Additional explanation and guidance is needed for certain key sections of the form (e.g. student address, marriage types and term dates).
+- The former marriage sections of the add spouse workflow was deemed accaptable.
+- The presentation of the introduction page, confirmation page, and the form itself was generally acceptable to users.
+- Generally, users moved through the longers workflows of the form quickly, with little prompting.
+- Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button.
+- Ten...
 
 ## Details of findings
 List details of each finding in top findings here, with supporting quotes when possible.
