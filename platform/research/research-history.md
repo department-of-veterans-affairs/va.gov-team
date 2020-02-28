@@ -94,11 +94,6 @@ Research folder: https://github.com/department-of-veterans-affairs/va.gov-team/t
 - 30 participants 
 - Research Plan 
 
-#### December 6 - 13: Medical Device Tool Discovery 
-*Riley Orr, Rebecca Walsh*
-- 20 participants
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/research/discovery-nov19/research-plan.md) 
-
 #### December 5 - 12: Medical Device Tool Discovery
 *AdHoc: Rebecca Walsh, Amida: Riley Orr*
 - 11 participants 
