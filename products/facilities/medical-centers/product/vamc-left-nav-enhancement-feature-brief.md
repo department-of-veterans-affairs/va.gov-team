@@ -1,8 +1,8 @@
 # _VAMC Left Navigation Enhancement Feature Brief_ (WIP)
 
-This document will focus on the VAMC Left Navigation enhancement project, part of the redesign of VAMC websites, beginning with Pittsburgh’s VAMC system of websites. This enhancement is the implementation of a revised design based upon veteran feedback and research and associated finding on the Pittsburgh VAMC website conducted in November/December 2019.
+This document will focus on the VA Medical Center (VAMC) Left Navigation enhancement project, part of the redesign of VAMC websites, that began with the soft launch of the new Pittsburgh health care in September 2019. This enhancement implements a revised design based upon initial veteran feedback and further veteran research and the associated findings. The research was conducted on the Pittsburgh health system site in November/December 2019.
 
-Note: Originally intended as a global revision, DEPO has decided to implement on VAMCs-only at this time as further analysis of content and user-expectations should be done before executing a site-wide change.
+Note: Originally considered for a global revision, DEPO has decided to implement on VAMCs-only at this time as further analysis of content and user-expectations should be done before executing a site-wide change.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Note: Originally intended as a global revision, DEPO has decided to implement on
 
 ### User Stories / Use Cases
 *What two or three core use cases do we believe should cover ~80% of users?*
-- As a Veteran, I need to quickly find the content I need on the Pittsburgh VAMC website so I can complete my online task.  
+- As a Veteran, I need to quickly find and navigate to the content or functionality I need on a VAMC website so I can complete my online task.
 
 ### Project Rationale
 _Why should this project be a priority?_ 
@@ -39,8 +39,15 @@ As a VA, but not VA.gov, website, the following design principles and rules appl
 - Users should get to all content and tools in just 1-2 clicks/taps
 - Users should know what page they are on and what section that are in
 
+Research Findings:
+- Veterans use the left menu (parent/children views) to help make informed navigation decisions
+
+The sub pages within a section — also known as the page’s “children” — provide additional context that helps a Veteran way find to the right information or services. By introducing a new design for local navigation that exposes these children, it will provide valuable additional context without requiring a user to leave the parent page.
+
 ** However** with current functionality: 
-- The Pittsburgh VAMC webistes are confusing to navigate. Users forget what page they are on after scrolling past the page heading, do not understand the hierarchial content structure and find the menu to be distracting rather than helpful. 
+- The Pittsburgh heath care site is confusing to navigate. Users forget what page they are on after scrolling past the page heading, do not understand the hierarchial content structure and find the menu to be distracting rather than helpful. 
+- Users of the existing site navigation make a “best guess” given the elements in the left navigation. The only way they could confirm their guess was by going to the page in question creating a "pogo-stick" behavior
+
 
 **Stakeholder/Business drivers**
 
