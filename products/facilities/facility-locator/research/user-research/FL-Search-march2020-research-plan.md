@@ -1,5 +1,5 @@
 # Research plan for facility locator user expectations for search
-Prepared by Aricka Lewis, Ad Hoc | February 2020
+Prepared by Aricka Lewis, Ad Hoc | March 2020
 
 ## Goals	
 The goal of this research is to understand users expectations for search results, including the following:
