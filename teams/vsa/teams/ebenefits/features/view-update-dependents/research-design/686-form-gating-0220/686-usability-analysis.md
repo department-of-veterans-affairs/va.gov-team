@@ -1,11 +1,9 @@
 # eBenefits VA Form 21-686c Usability Research Findings
 **Digital Services Veterans Affairs (DSVA), VSA, eBenefits Team, March 2020**
 
-[Aricka Lewis](aricka@adhoc.com) | Moderator, researcher
+[Aricka Lewis](aricka@adhoc.com) | Moderator, researcher & [James Adams](jadams@governmentcio.com) | UX designer
 
-[James Adams](jadams@governmentcio.com) [(VA Email)](james-adams2@va.gov) | UX designer
-
-View the [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md).
+[View the research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-research-plan.md)
 
 ## Research goals
 **Background:** VA uses the 21-686c (686) form to collect and process the information to allow a Veteran to add dpendents to their disability claim. The same form is used to remove dependents who have died or otherwise left the household of the Veteran. The 686 is 12 pages in its paper incarnation, and it supports eight discrete workflows (including the 21-674). Once deployed to VA.gov, the 686 will be one of the longer, more complex forms on the site. The new 686 must be developed within the conventions and constraints of the VA.gov form system. Usability testing will be critical to uncovering potential problems in the prototype workflows--and illuminating the solutions that will provide an optimal user experience.
@@ -20,8 +18,14 @@ View the [Research Plan](https://github.com/department-of-veterans-affairs/va.go
 Usability testing was conducted remotely using  Zoom. Participants were presented with a comprehensive high-fidelity prototype created using Adobe XD. The remote moderator prompted users with guiding questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their thoughts. Remote observers and note takers were in attendance, and all sessions were recorded.
 
 ### Who we talked to
-
-Description of who was spoken to.
+- Eight Veterans
+- Four have experience adding spouse to disability benefits
+- Three have experience claiming children over 18 enrolled in school
+- One has a child and will go through the process of claiming them for college in five years 
+- All with 30% or higher disability rating
+- One Veteran with 80% or higher disability rating and cognitive disabilities
+- Geographically diverse: MD, CA, FL, IA, VA, MD, PA, CA 
+- Ages ranged from 25-74 years
 
 ### Research Questions
 - Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows?
