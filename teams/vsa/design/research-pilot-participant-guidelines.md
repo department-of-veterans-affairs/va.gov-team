@@ -8,9 +8,8 @@ So you've been asked to participate in a research pilot. What's next?
 - You should receive an invitation for a pilot session from either Perigean or somone from VSP
 - You may be given a series of tasks to complete or asked to answer questions about "your experience" with the VA.gov site.
   - You don't need to create a new "character" or "persona"
-  - Answer the questions truthfully and try to imagine yourself through the lens of the actual study participants
--
-
+  - Answer the questions truthfully and try to imagine yourself through the lens of the study participants
+  
 ### Helpful Tips
 - Familiarize yourself with the research plan for the study
 - Understand who will actually be participating in the study
