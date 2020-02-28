@@ -25,6 +25,12 @@ Enter an issue title using the format [ERROR TYPE]: Brief description of the pro
 ---
 -->
 
+**Feedback framework**
+
+- **❗️ Must** for if the feedback must be applied 
+- **⚠️Should** if the feedback is best practice 
+- **✔️ Consider** for suggestions/enhancements 
+
 ## Description
 
 <!-- This is a detailed description of the issue. It should include a restatement of the title, and provide more background information. -->
