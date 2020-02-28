@@ -19,7 +19,7 @@ The goal is to design the print stylesheet to both follow best practices and sta
 
 ## Solution Approach
 
-- Utilize rint style best practices
+- Utilize print style best practices
 - Prints in black and white
 - Consistent format of pages across VA.gov 
 - All text is left aligned
