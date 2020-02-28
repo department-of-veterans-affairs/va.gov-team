@@ -14,7 +14,7 @@
 - Have we properly "chaptered" the various business workflows?
 - What problems arise from longer/complicated chapter combinations?
 
-## Research Methodology 
+## Research methodology 
 Usability testing was conducted remotely using  Zoom. Participants were presented with a comprehensive high-fidelity prototype created using Adobe XD. The remote moderator prompted users with guiding questions from the conversation guide. Participants were encouraged to talk through their exploration of the prototypes, and to speak candidly about their thoughts. Remote observers and note takers were in attendance, and all sessions were recorded.
 
 ### Who we talked to
@@ -27,7 +27,7 @@ Usability testing was conducted remotely using  Zoom. Participants were presente
 - Geographically diverse: MD, CA, FL, IA, VA, MD, PA, CA 
 - Ages ranged from 25-74 years
 
-### Research Questions
+### Research questions
 - Do participants understand the 21-686c is a multi-purpose form? And do they understand and accept the "checkbox" selection of the various 686 workflows?
 - Are the forms presented clearly and easy to understand by Veterans?
 - Where do users need examples, guidance or section headers as they interact with the form?
@@ -36,19 +36,19 @@ Usability testing was conducted remotely using  Zoom. Participants were presente
 - Do participants know they have to reports changes in their dependents status?
 - What workflow combinations (scenarios) do users think are likely?
 
-## Key Findings
+## Key findings
 List top findings here
 
-## Details of Findings
+## Details of findings
 List details of each finding in top findings here, with supporting quotes when possible.
 
-## Additional Insights
+## Additional insights
 Any additional insights that aren't "top findings."
 
 ## Recommendations
 Put together initial recommendations here based on your findings. Review with your team, then edit as needed.
 
-## Next Steps
+## Next steps
 Next steps here
 
 ## Appendix
