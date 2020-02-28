@@ -37,6 +37,7 @@ There's only one Cerner "system," compared with many VistA sites, but based on t
 This creation of ids for individual sites will continue for the forseeable future, but will be stopped at some point. For our current interim use case, we should be able to check for identifiers with `^C` (see discussion in https://dsva.slack.com/archives/GM5JJ5388/p1582212755096000).
 
 > I stand corrected, I got the following from our team: the post IOC environment there is a dual registration business process. The patient is registered in Millennium and in the converted VistA. (making a DFN^C correlation in the VA MPI.)
+
 (via Damien DeAntonio)
 
 ## What will Cerner sites look like in the UI when, for example, a veteran gets to the system selection page in VAOS
