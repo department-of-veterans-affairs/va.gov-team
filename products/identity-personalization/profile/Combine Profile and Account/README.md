@@ -100,6 +100,10 @@ As the authenticated experience team, we want to be able to do the following:
 
 ## KPIs
 
+- Can people find what they need more easily?
+- Can people complete tasks that were already in the profile (eg. updating contact info/direct deposit) just as easily?
+- Do we see any increases in traffic now that the Account tasks have been rolled into this page?
+
 We need to figure out how to measure the following:
 
 1. Reduced time finding a task (eg. reduced time finding the direct deposit tool or updating contact information).
