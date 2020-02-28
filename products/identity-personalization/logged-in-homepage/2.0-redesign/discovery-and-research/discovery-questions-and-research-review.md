@@ -20,19 +20,24 @@ Past research
 
 ### Analytics
 
+#### General
+
 - What are the top 10 — 20  pages visited on VA.gov?
-  - We should see if this is any different than what is on the homepage now.
-- What are the top 10 – 20 logged in tools visited?
+  - What about for logged out users?
+  - Logged in users?
 - What are the top 10 – 20 search terms?
 - What are the top 10 – 20 entry points for VA.gov?
-- After people enter the site, what is the next thing they do?
-  - Why: This tells us where people go after the entry point to help us know more fully what they may be trying to do. Or, we - What are the top links clicked from My VA?
+- After people entering the site, what is the next thing they do?
 - % of traffic by device (desktop; tablet; mobile).
+
+#### Homepage
+
 - What links do people click from the homepage?
-- What links do people click from My VA?
-- What are people doing when they're logged in?
-- What are poeple doing from a logged out state?
 - How many people visit the homepage?
+
+#### My VA
+
+- What are the top links clicked from My VA?
 - How many people visit My VA?
 
 ### User research/interviews
