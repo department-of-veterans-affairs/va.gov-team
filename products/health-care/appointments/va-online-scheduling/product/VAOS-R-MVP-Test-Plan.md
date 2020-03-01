@@ -29,3 +29,6 @@ As part of testing protocol we testing the new VAOS tool with actual users. This
 4. Direct Scheduling -- Completed Jan/Feb 2020, see documentation [here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling/research/feb-2020-uat-direct-schedule)
 
 ### UAT Completed in Schedule Manager (Currently in-progress: GH-5059)
+
+## TestRail Plan -- https://dsvavsp.testrail.io/index.php?/auth/login/L3N1aXRlcy92aWV3LzIxJmdyb3VwX2J5PWNhc2VzOnNlY3Rpb25faWQmZ3JvdXBfb3JkZXI9YXNjLTYwZWY4NmFiZGM5MzRiZDJmMGViZTlkODI5ODA5YWZlOGQ1NGUwYWI1OTk1ZjE2MTY3MWM4ODdkYTVlOTVjN2E:
+need to verify that Mark enabled this plan once @lenaecb gets access to TestRail account.
