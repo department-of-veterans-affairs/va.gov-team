@@ -2,11 +2,14 @@
 
 ## Introduction 
 
-Thanks for joining us today! My name is [NAME]. I also have several colleagues on the line.  They’ll be observing and taking notes to ensure that we capture your feedback accurately. 
+Thanks for joining us today! My name is [NAME]. I work with a team at the VA that is enhancing the VA.gov website. Some of the folks I work with are also on the line.  They’ll be observing and taking notes to ensure we capture your feedback accurately. 
 
-We work with a team at the VA that is enhancing the VA.gov website.  We're interested in speaking with you today about the process of selecting a college. Specifically, we're looking at the GI Bill Comparison Tool on VA.gov. We're reviewing a new feature of the Comparison Tool with people who plan to use their benefits soon to ensure that it's easy to use.
+We're interested in speaking with you today about the process of selecting a college. Specifically, we're looking at the GI Bill Comparison Tool on VA.gov. We're reviewing a new feature of the Comparison Tool with people who plan to use their benefits soon to ensure that it's easy to use.
 
 The entire session should take less than 45 minutes. 
+
+Are you familiar with the GI BIll Comparision Tool? 
+{ if yes: Great. I'm looking forward to hearing your perspectives. If no or unsure: Not a problem. We love to get fresh eyes on it! }  
 
 Have you done any usability testing before? 
 { if yes: How'd it go? If no: Ok, it's always fun to try something new.  Thanks for signing up! }
