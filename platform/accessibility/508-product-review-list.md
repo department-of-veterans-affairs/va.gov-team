@@ -147,11 +147,6 @@ Each application or logical section of the site will have a heading and a detail
 * [[USABILITY]: Application saved message could be missed by assistive devices - #182](https://github.com/department-of-veterans-affairs/va.gov-team/issues/182)<br/>
 **Opened:** June 5, 2019 | **Severity:** 508-defect-4 - **_Trivial_**
 
-#### Open issues identified by VSP Product Support
-
-* [[USABILITY]: 526 v2: Draw attention to 20+ character address line - #5225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5225)<br/>
-**Opened:** January 28, 2020 | **Severity:** 508-defect-3 - **_Minor_**
-
 ---
 
 ### HCA Dashboard Notifications
