@@ -63,6 +63,7 @@
    - Filtered by: ICN, type of care id, clinic id, start date, end date
    - Data for each item:
       - Date and time
+      - Timezone
       - Duration
       - Availability
 - Contact info
