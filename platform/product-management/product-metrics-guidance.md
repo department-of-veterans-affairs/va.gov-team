@@ -17,10 +17,10 @@ Reference for ideas on managing and reporing performance:
 ### Sample metrics
 - Faster processing time
 - Increased automation in process
-- Higher percentage of online Veteran transactions (vs. call center, in person etc.)
+- Higher percentage of online Veteran transactions (vs. contact center, in person etc.)
 - Improved usability (completion rates, design improvements, plain language, etc.)
 - Improved accessibility (508 compliance, mobile responsive)
-- Reduced calls to call center
+- Reduced calls to contact center
 - Higher availability
 - Improved security
 - Decreased abandon rate
@@ -30,10 +30,10 @@ Example metrics below for a form to apply for a VA benefit (PLEASE INCLUDE YOUR 
 
 #### Baseline (BEFORE) Form Metrics (use # and %)
 - Total applications received by VA (all modes)
-- Number / % online applications (vs. paper, call center, in-person transactions)
+- Number / % online applications (vs. paper, contact center, in-person transactions)
 - Average time to process paper application
 - Average time to process online application
-- Number of calls to call center
+- Number of calls to contact center
 - Cost data (development + sustainment)
 - Usabilty testing quantitative data (e.g., completion rates % old vs. new, etc.)
 - Completion time for happy path on key tasks (old vs. new)
@@ -43,7 +43,7 @@ Example metrics below for a form to apply for a VA benefit (PLEASE INCLUDE YOUR 
 - Number / % online applications using vets.gov
 - Average time to process vets.gov application
 - Increased automation (are we using an API vs. a manual process)
-- Number of calls to vets.gov call center
+- Number of calls to vets.gov contact center
 - Vets.gov Cost data (development + sustainment)
 - Usabilty testing quantitative data (e.g., completion rates % old vs. new, etc.)
 - Completion time for happy path on key tasks (old vs. new)
