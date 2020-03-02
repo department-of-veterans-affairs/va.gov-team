@@ -68,7 +68,7 @@ For the most part, users use Rated Disabilities as intended, to ensure they have
 - Users found the presentation of total and individual disability ratings acceptable. Many participants had favorable impressions of how, and how much, information was displayed.
 - Generally, Veterans were able to locate information and links quickly. Most considered the info presented appropriate in term of content  and amount.
 - Navigation back to the "landing-page" entry point was unclear to many participants. Many participants would opt for other navigational options or simply sign-out rather that return to the landing screen.
-- The most prominent pain points seemed to center around login/authorization, and call center experiences.
+- The most prominent pain points seemed to center around login/authorization, and contact center experiences.
 - The most requested featured included real-time chat, drill-down details for specific disabilities, and specific information regarding the VA disability ratings formula.  
 
 [More information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/research/disabilities-dependents-usability-1119/disabilities-dependents-usability-summary.md)
@@ -137,7 +137,7 @@ eBenefits, rated disabilities, total combined disability rating, claims and appe
 - Design Lead: Shawna
 - Eng Lead: Paul Short (GCIO)
 - VA Web Comms Partner: N/A
-- VA Call Center Partner(s): Chante Lantos-Swett
+- VA Contact Center Partner(s): Chante Lantos-Swett
 - Production Testing Partner(s):
 - Designer(s): James Andrews
 - Content Writer(s):
