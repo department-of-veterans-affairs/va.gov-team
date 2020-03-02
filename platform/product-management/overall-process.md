@@ -146,5 +146,5 @@
 - [QA]
 - [UAT]()
 - [Launch checklist](https://docs.google.com/document/d/1kv_zpT7FQviUC-nZ2Ef0g0aCfOaNJePneIvJroy_NUE/edit#)
-- [Sample product guide](https://docs.google.com/a/adhocteam.us/document/d/1lBt17sGFgVKCdNU0kecpL8fFdrtoqmY9bGPayEvquaY/edit?usp=sharing) (for circulation to call center etc)
+- [Sample product guide](https://docs.google.com/a/adhocteam.us/document/d/1lBt17sGFgVKCdNU0kecpL8fFdrtoqmY9bGPayEvquaY/edit?usp=sharing) (for circulation to contact center etc)
 - [Product Kickoff]()
