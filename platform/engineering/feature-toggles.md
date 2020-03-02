@@ -5,7 +5,7 @@ It's possible to enable/disable a feature entirely, for a percentage of all user
 Our feature toggles are powered by an open-source gem called [Flipper gem](https://github.com/jnunemaker/flipper)
 
 ## Managing Feature Toggles
-Features can be enabled/disabled in the Flipper user interface. To access the Flipper UI, first log in using an identity-verified id.me user listed in  [settings.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml#L397). If you're not sure if your account is identity-verified, you can check by going to [this page](https://www.va.gov/profile/). If you need to verify your account you'll see a "Verify with ID.me" button.
+Features can be enabled/disabled in the Flipper user interface. To access the Flipper UI, first log in using an identity-verified id.me user listed in  [settings.yml](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/settings.yml#L397). Any VFS user may add themself or their teammate to the list. If you're not sure if your account is identity-verified, you can check by going to [this page](https://www.va.gov/profile/). If you need to verify your account you'll see a "Verify with ID.me" button.
 
 |Environment|URL|
 |---|---|
