@@ -66,14 +66,14 @@ On July 13, 2017, Vets.gov launched Appeals Status, which allows Veterans to che
 
 ### Measure of Success
 - Adoption - Have more reoccuring Veterans over time
-- Call center volume - Reduce the amount of call center volume for information on their appeals status
+- Contact center volume - Reduce the amount of contact center volume for information on their appeals status
 - For Veterans to say "I understand why the appeals process is long."
 ___
 
 ### Top resources
 
-- [Call Center guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
-   - [Call center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
+- [Contact Center guides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
+   - [Contact Center discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/scripts-call-center.pdf)
 - [Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/appeals-status/v2/appeal-status-designs-and-features.md)
 - [Content](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v2/content)
 - [User Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/appeals-status/v2/research)
