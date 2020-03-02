@@ -266,7 +266,7 @@ Reach out to analytics experts on Slack via #vfs-platform-support
 ---
 
 # Contact Center Review
-Ensure that VA call center representatives are prepared to help Veterans troubleshoot VA.gov.
+Ensure that VA contact center representatives are prepared to help Veterans troubleshoot VA.gov.
 
 ## Timing
 - Development stage: **Build**
@@ -287,7 +287,7 @@ You bring (refer to [Contact Center Review page](https://github.com/department-o
 - Ensure that VA Contact Centers are prepared to help Veterans troubleshoot your product
 
 ## For further support at this point
-Reach out to call center leads in Slack via #vsp-contact-center-support or contact @chante or @joanne in Slack.
+Reach out to contact center leads in Slack via #vsp-contact-center-support or contact @chante or @joanne in Slack.
 
 ---
 
