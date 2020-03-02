@@ -15,4 +15,4 @@
 5. PM or engineer updates ticket 
 6. QA updates original Customer Support ticket to indicate fix is pushed live
 7. Customer Support updates Dynamics tickets
-8. Customer Support updates contact enter on fix
+8. Customer Support updates contact center on fix
