@@ -374,6 +374,7 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** First audit completed by VSA November 2019<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-facilities+label%3A508%2FAccessibility+Sidenav+is%3Aclosed)**
 
 #### Open issues
 
@@ -385,8 +386,6 @@ Each application or logical section of the site will have a heading and a detail
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
 * [[SCREENREADER, KEYBOARD]: The sidenav headings are read as buttons but cannot be activated - #3557](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3557)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-2 - **_Serious_**
-* [[COGNITION] Pittsburgh Sidenav - Links lack sufficient styling to differentiate from text - #3426](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3426)<br/>
-**Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: Pittsburgh Sidenav - The links with accordions have two different tab stops and two different links/actions - #3445](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3445)<br/>
 **Opened:** November 18, 2019 | **Severity:** 508-defect-3 - **_Minor_**
 * [[COGNITION]: Once opened, the "accordion" repeats the label, adds a horizontal rule separating related content - #3448](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3448)<br/>
