@@ -8,7 +8,7 @@ Enable Veterans,their family, and caregivers, through use of the VA's VISN Medic
 Providing these upgraded and streamlined tools to the ALL VAMC system Office of Public Affairs and adminstrators, so that they can efficently support and continualy enable Veterans, their family, and caregivers in their VAMC journey. 
 
 ### VAMC North Star
-Systems completed per quarter
+Systems published to "pre-prod" per quarter.
 
 ### OKRs - Q1 2020
 - Objective: Automate VISN creation
