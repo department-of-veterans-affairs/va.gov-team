@@ -151,12 +151,8 @@ Each row should have an availability target, and one or more latency targets. In
    </td>
   </tr>
   <tr>
-   <td><code>CreateWidget
-
-UpdateWidget
-
-DeleteWidget</code>
-
+   <td>
+      <code>CreateWidget|UpdateWidget|DeleteWidget</code>
    </td>
    <td>99.95%
    </td>
