@@ -62,7 +62,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
       * **Product Video**: ```link to the demo video on Github``` *(If this file is too large to upload on github, the file can be emailed to the contact center POCs)*
       * **Product Video Transcript**: ```link to the Product Video Transcript on Github```      
 
-1. **Within 3 business days**, the contact center POCs will review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the call center team will send the content to the Contact Center.
+1. **Within 3 business days**, the contact center POCs will review your Product Guide, Product Video, and Product Video Transcript. They will follow up with any questions or edits. After the materials have been finalized, the contact center team will send the content to the Contact Center.
     * If you don't hear anything after 3 business days, reach out to your contact center POC.
 1. After sending your team's materials to the Contact Center, the contact center team will close the Github issue.
     * Github will send the person who created the Github issue a notification. This is your team's signal that this pre-launch activity is complete.
