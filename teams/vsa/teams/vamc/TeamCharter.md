@@ -15,6 +15,12 @@ Through continued process review and business optimization, work to increase the
   - Key Result: 100% of system components included in package
     - System components e.g. detail page, facility page, menu
   - Key Result: Reduce time to finalize and incorporate content for a given system to less than 1 month
+  
+#### Bets
+- blank package for a system and let that run thru all req checks e.g. 508
+- dropping content into components/fields automatically 
+- dropping content into a content block (create block + drop content in for that block e.g. accordion for parking info)
+- created components + content via a "business-focused" CSV  
 
 
 ## What we work on
