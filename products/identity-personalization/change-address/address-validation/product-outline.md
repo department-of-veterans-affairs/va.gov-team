@@ -104,13 +104,13 @@ We expect to see the following:
 ## KPIs
 
 ### Objective
-- Improve the ability to manage address information and decrease the number of returned snail mail cases.
-- Decrease overall call volume to National Call Center regarding mailing address update errors. 
+- Reduce the number of veterans that report to the call center that they can't save their addresses (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
 - Google analytics insight will show a increase in successful mailing address submissions. 
 
 ### Tracking
 - Work with the call center team team to see if there is an decrease in call in cases.
 - Work with Google Analytics team to see if the percentages are increasing in success rates for users updating their mailing addresses successful by following the error messaging provided to the user when they are not able to initially save their mailing address.
+
 ---
 
 # Implementation Info
