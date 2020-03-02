@@ -72,7 +72,8 @@ If a user sets up the proper environment variables locally, the script can be ru
 
 ### Caveats
 
-_To be determined._
+This current implementation will only be able to identify potential issues if they occur on a single line.
+No other context is included.
 
 ### Security Concerns
 
