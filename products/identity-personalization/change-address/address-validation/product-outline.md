@@ -105,11 +105,13 @@ We expect to see the following:
 
 ### Objective
 - Reduce the number of veterans that report to the call center that they can't save their addresses (#[6012](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6012))
-- Google analytics insight will show a increase in successful mailing address submissions. 
+- Increase the amount of successful mailing address submissions. 
+- Reduce returned mail at the VA (Note: Not sure how to measure this).
 
 ### Tracking
 - Work with the call center team team to see if there is an decrease in call in cases.
-- Work with Google Analytics team to see if the percentages are increasing in success rates for users updating their mailing addresses successful by following the error messaging provided to the user when they are not able to initially save their mailing address.
+- Use Google Analytics team to see if the number of successful address form submissions increases.
+- Not sure how to determine whether the overall rate of returned mail has decreased at the VA.
 
 ---
 
@@ -138,6 +140,8 @@ We expect to see the following:
 - **Jan 2020**: VA Profile delivers new endpoint; Bug fixes complete
 
 - **Feb 2020**: QA begins
+
+- **March 2020**: Launch!
 
 ## How to Access and Test
 
