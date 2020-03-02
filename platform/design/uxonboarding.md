@@ -131,7 +131,7 @@ https://medium.com/the-u-s-digital-service/introducing-a-new-digital-application
 - VE materials
 - Read user voice submissions
 - Veteran forums and Facebook groups
-- Call centers
+- Contact centers
 - Secretary's help line group - get access to transcripts/talk over themes
 - POTUS letters
 - Vet data (https://www.va.gov/vetdata/) for lots of stats on veteran use of VA services, demographics, etc.
