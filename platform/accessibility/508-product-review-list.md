@@ -153,11 +153,7 @@ Each application or logical section of the site will have a heading and a detail
 
 **Maintainer:** VSA<br/>
 **Audit Status:** First audit completed by Product Support June 2019. Sent to VA 508 team on June 27, 2019. Certified as having no 508 issues on July 2, 2019.<br/>
-
-#### Open issues identified by VSP Product Support
-
-* [[COGNITION]: HCA - Heading levels could be adjusted for proper nesting - #3219](https://github.com/department-of-veterans-affairs/va.gov-team/issues/3219)<br/>
-**Opened:** November 7, 2019 | **Severity:** 508-defect-3 - **_Minor_**
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?utf8=%E2%9C%93&q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed+HCA)**
 
 ---
 
