@@ -5,6 +5,8 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 - Ability to attach Power of Attorney documentation
 - Allow Veteran/Caregiver to track application status?
 - Return ICN number for veteran and caregiver (if applicable)
+- Get static list of approved Caregiver facilities from CARMA to return
+- Long term: work with Facilities API to use them as a source of truth
 
 ## Nice to Haves
 - Address validation (against USPS?) (Caitlin to check with Program team)
