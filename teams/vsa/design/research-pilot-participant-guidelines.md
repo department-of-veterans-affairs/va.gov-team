@@ -1,4 +1,4 @@
-# VSA Research Pilot Participant Guidelines (WIP)
+# VSA Research Pilot Participant Guidelines
 
 We run a pilot/test session before each study so we can rehearse the process of logging in, working through kinks, and making sure we have allocated an appropriate amount of time for the sessions.
 
