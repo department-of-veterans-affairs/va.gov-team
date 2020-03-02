@@ -10,6 +10,13 @@ Providing these upgraded and streamlined tools to the ALL VAMC system Office of 
 ### VAMC North Star
 Through continued process review and business optimization, work to increase the number of fully upgraded VA Medical Center System Websites, that are turned over to the VAMC for continued administration. 
 
+### OKRs
+- Objective: Automate VISN creation
+  - Key Result: 100% of system components included in package
+    - System components e.g. detail page, facility page, menu
+  - Key Result: Reduce time to finalize and incorporate content for a given system to less than 1 month
+
+
 ## What we work on
 Optimization of content, language, and website structure to improve the website journey.  This includes reduction in page count, word count, and increased percentage of plain language throughout the site. While highlighting Veteran specified "Top Tasks", repetative activities, and web site priorities.
 
