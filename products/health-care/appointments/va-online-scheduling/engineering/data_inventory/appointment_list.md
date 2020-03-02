@@ -5,12 +5,14 @@
    - Data for each item:
       - Type of care
          - Requests only
-      - State
-         - Request
-         - Confirmed
-         - Cancelled appointment
-         - Cancelled request
       - Type
+         - Request
+         - Appointment
+      - Status
+         - Confirmed
+         - Pending
+         - Cancelled
+      - Method
          - Community Care
          - VA facility
          - VA video
