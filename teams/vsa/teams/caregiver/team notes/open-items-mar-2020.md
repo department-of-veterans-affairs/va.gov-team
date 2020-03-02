@@ -15,6 +15,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 
 ## Nice to Haves
 - Address validation (against USPS?) (Caitlin to check with Program team)
+- Systematic prevention of duplication
 
 ## Questions
 - How are we integrating plain language into the online 1010-CG experience while maintaining consistency with the paper form?
