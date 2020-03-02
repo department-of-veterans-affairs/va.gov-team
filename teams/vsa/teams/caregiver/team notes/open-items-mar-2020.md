@@ -12,6 +12,7 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 - Get static list of approved Caregiver facilities from CARMA
 - Long term: work with Facilities API to use them as a source of truth
 - Attach prefilled PDF to CARMA application
+- Ensure that identical applications can't be sent back-to-back
 
 ## Nice to Haves
 - Address validation (against USPS?) (Caitlin to check with Program team)
