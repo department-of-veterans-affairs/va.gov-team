@@ -108,4 +108,4 @@ For example: "If you don’t agree with the VBA’s decision, you can appeal to 
 **If a definition is long,** define the word in a separate sentence.
 For example: "If you can’t work because of a service-connected disability, you may be able to get the same benefits as a 100% disabled Veteran, regardless of your rating. This is called being individually unemployable."
 
-**7. When incorporating user research or call center feedback be sure it aligns with VA.gov voice, style, and tone.**
+**7. When incorporating user research or contact center feedback be sure it aligns with VA.gov voice, style, and tone.**
