@@ -55,7 +55,7 @@ _As we talk to users and learn about their experience, these questions can be ed
 * Have you used other CMS tools in the past? 
   * [If yes] What were the main ways in which those tools helped and didn't help your work?
 
-## [WIP] Journey Mapping - xx min
+## Journey Mapping - xx min
 
 Now, I'll share my screen with you and we'll do an activity called journey mapping. _(confirm that participant can see your screen)_ A journey map is a series of steps that someone goes through to accomplish a goal. For example, buy a car, book a hotel. This journey mapping exercise that you'll do with us will help us to better understand your overall experience, so we can use it to inform future improvements to the CMS.
 
