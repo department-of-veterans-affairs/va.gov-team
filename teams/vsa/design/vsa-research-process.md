@@ -114,6 +114,8 @@ The following process is recommended by the VSA Design Lead:
    * An example topline summary can be found [here](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit#heading=h.rmqlo4wmwa6f)
 3. Share the [topline summary](https://portigal.com/reading-ahead-topline-summary/) with necessary stakeholders that observed sessions and the team and ask if they feel anything was missing based on their observations. Also ask what topics they would like you to focus on when you conduct your detailed synthesis. 
 Note: Caveat the topline summary by saying that detailed synthesis has not yet been done, so things may change in the final report.
+   * A template for your topline summary [can be found here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md)
+   * Examples: [Caregiver summary](https://docs.google.com/document/d/1JhGb4t8jelGwD-dnjJC533ia0YNuGfo9lKuQ5V6wBUA/edit) and [eBenefits Dependent Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/ebenefits/features/view-update-dependents/research-design/686-form-gating-0220/686-usability-topline_summary.md) 
 4. Synthesize your research. 
    * To quickly synthesize, go through all the notes files and recordings files as needed and flesh out your topline summary in the following way:
       * Grab quotes to support your themes
