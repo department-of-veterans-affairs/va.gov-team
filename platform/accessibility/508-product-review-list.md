@@ -38,6 +38,8 @@ Please refer to the deprecated list for [previously closed issues](https://githu
     * [GI Bill Comparison Tool Forever GI Bill Section 116](#gi-bill-comparison-tool-forever-gi-bill-section-116)
     * [eBenefits Rated Disabilities](#ebenefits-rated-disabilities)
     * [GI Bill Comparison Tool Caution Flags](#gi-bill-comparison-tool-caution-flags)
+    * [Authenticated Experience Address Validation](#authenticated-experience-address-validation)
+    * [VA Online Scheduler (VAOS)](#va-online-scheduler-vaos)
     * [New Project Name](#new-project-name)
 
 ## Helpful links
@@ -457,7 +459,7 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
-### Authenticated Experience - Address Validation
+### Authenticated Experience Address Validation
 
 **Maintainer:** VSA <br/>
 **Audit Status:** Pre-launch 508 Review<br/>
