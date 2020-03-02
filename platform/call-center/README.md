@@ -12,7 +12,7 @@ Welcome to the Platform Contact Center Folder!
 
 ## Key Documents
 - [VFS Monthly Contact Center Report](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp/teams/insights-analytics/call-center/call-center-data)
-  * These reports compile contact center data across multiple VA call centers and sysytems. 
+  * These reports compile contact center data across multiple VA contact centers and sysytems. 
 
 
 
