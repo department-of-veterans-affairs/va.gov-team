@@ -15,7 +15,7 @@ Systems completed per quarter
   - Key Result: 100% of system components included in package
     - System components e.g. detail page, facility page, menu
   - Key Result: Reduce time to finalize and incorporate content for a given system to less than 1 month
-#### KPIS
+#### KPIs
 - Number of site/system page scaffolds completed in a sprint
 - Number of sites/systems completed in a sprint (with 508 + content)
 
