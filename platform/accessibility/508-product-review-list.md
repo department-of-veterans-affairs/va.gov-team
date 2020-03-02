@@ -470,6 +470,27 @@ Each application or logical section of the site will have a heading and a detail
 
 ---
 
+### VA Online Scheduler (VAOS)
+
+**Maintainer:** _VSP_<br/>
+**Audit Status:** _Staging review completed by VSP, February 2020. Request to review calendar widget sent to VA 508 office February 2020_<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+author%3A1Copenut+label%3Avaos+label%3A508%2FAccessibility+-label%3AEpic)**
+
+#### Open issues
+
+* [[SCREENREADER]: Adjust the calendar header markup for better IE11 + JAWS usability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6186)<br/>**Staging** | **Opened:** February 25, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+* [[COGNITION]: Add aria-describedby and SR-only instructions to the calendar widget for better semantic meaning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6100)<br/>**Staging** | **Opened:** February 21, 2020 | **Severity:** 508-defect-1 — **_Critical_**
+* [[KEYBOARD]: Let's make the Schedule an appointment just a button and not wrap it in a link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6250)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[COGNITION]: Consider moving the urgent medical need alert box above the action buttons](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6237)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[COGNITION]: Update the scheduling cards for better semantic meaning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6106)<br/>**Staging** | **Opened:** February 21, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[SCREENREADER] Calendar Widget - Fieldset needs to be a sibling to the button trigger for screen reader usability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/2709)<br/>**Staging** | **Opened:** February 21, 2020 | **Severity:** 508-defect-2 — **_Serious_**
+* [[COGNITION]: Can we review the language for Community Care appointment review times?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6279)<br/>**Staging** | **Opened:** February 27, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+* [[COGNITION]: Let's consider moving the Edit links on the review page after their text blocks](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6241)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-3 — **_Minor_**
+* [[COGNITION]: Let's add aria-hidden attributes to the check icons on our confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6243)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+* [[COGNITION]: Can we make the HR rule lines into borders or hide them from screen readers on review page?](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6242)<br/>**Staging** | **Opened:** February 26, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
+
+---
+
 ### New Project Name
 
 **Maintainer:** _VSA or VSP_<br/>
