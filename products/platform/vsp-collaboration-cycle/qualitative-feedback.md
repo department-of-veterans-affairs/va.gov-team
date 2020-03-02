@@ -27,3 +27,9 @@ _Rollout meetings with VSA teams_
 "It seems like there should be more in between Discover and Build - like checkins on progress, etc"
 
 "Excited to try it!"
+
+"Thank you for all the work and taking the time to walk us through it!"
+
+"Seems like it was well thought out and should run smoothly."
+
+"Thank you very much for reviewing all of these areas and requirements with our team, although we have a unique product, it was extremely helpful to determine how, when, and with whom we need to collaborate. This is also helpful if we ever do, cross the bridge of develop, design, and build an application in our work space. Great WORK!"
