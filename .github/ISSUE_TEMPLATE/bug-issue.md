@@ -29,5 +29,5 @@ _Describe in detail what was supposed to happen; reference existing Github issue
 - [ ] **Attached to a Milestone** (when will this be completed?)
 - [ ] **Attached to Epic** (what body of work is this a part of? possibly `Ongoing Maintenance`)
 - [ ] **Labeled with Team** (`product support`, `analytics-insights`, `operations`, `triage`, `tools-improvements`)
-- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `call center`, `research`, `accessibility`, `content`)
+- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)
 - [ ] **Labeled with `Bug`**
