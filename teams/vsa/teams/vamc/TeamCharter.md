@@ -8,14 +8,17 @@ Enable Veterans,their family, and caregivers, through use of the VA's VISN Medic
 Providing these upgraded and streamlined tools to the ALL VAMC system Office of Public Affairs and adminstrators, so that they can efficently support and continualy enable Veterans, their family, and caregivers in their VAMC journey. 
 
 ### VAMC North Star
-Through continued process review and business optimization, work to increase the number of fully upgraded VA Medical Center System Websites, that are turned over to the VAMC for continued administration. 
+Systems completed per quarter
 
 ### OKRs
 - Objective: Automate VISN creation
   - Key Result: 100% of system components included in package
     - System components e.g. detail page, facility page, menu
   - Key Result: Reduce time to finalize and incorporate content for a given system to less than 1 month
-  
+#### KPIS
+- Number of site/system page scaffolds completed in a sprint
+- Number of sites/systems completed in a sprint (with 508 + content)
+
 #### Bets
 - blank package for a system and let that run thru all req checks e.g. 508
 - dropping content into components/fields automatically 
