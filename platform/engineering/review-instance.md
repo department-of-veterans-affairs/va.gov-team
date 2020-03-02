@@ -3,7 +3,7 @@ The goal is to reduce our dependency on an external services to provide us with 
 
 ## User Stories
 - As a **Vets.gov developer**, I want a way to mock out a response from an external service, so that I can test all scenarios without needing said an external team to create a test user for me.
-- As a **call center training person**, I want a way that I can demonstrate possible error scenarios, so that call center staff is better trained at responding to calls from users.
+- As a **contact center training person**, I want a way that I can demonstrate possible error scenarios, so that contact center staff is better trained at responding to calls from users.
 - As a **product owner**, I want a way to demo features and their scenarios to stakeholders without the need of an engineer or test accounts, so that the product adequately matches the expectations of the stakeholder.
 
 ## Background
@@ -50,7 +50,7 @@ In case some cases, it may be appropriate to SSH into the `sandbox` `vets-api` i
 
 As mentioned earlier, the merge to `master` will automatically kick off the deploy process for a new `sandbox` instance.  Ideally for most cases, mock data will already exist and no action will be required at all.
 
-#### For Call Center Trainers
+#### For Contact Center Trainers
 1. Contact the relevant engineering scrum team with desired use-case(s)
 2. Engineering team updates [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata)
 3. An automatic Jenkins re-deploy occurs
