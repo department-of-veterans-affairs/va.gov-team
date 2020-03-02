@@ -460,25 +460,21 @@ Each application or logical section of the site will have a heading and a detail
 ### Authenticated Experience - Address Validation
 
 **Maintainer:** VSA <br/>
-**Audit status:** Pre-launch 508 Review<br/>
+**Audit Status:** Pre-launch 508 Review<br/>
+**[Closed Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3Avsa-authenticated-exp+label%3A508%2FAccessibility+is%3Aclosed)**
 
-#### Open issues
+#### Open Issues
 * [[SCREENREADER, KEYBOARD]: Edit address link will not receive keyboard focus](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5866)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-0 — **_Showstopper_**
 * [[SCREENREADER, KEYBOARD]: Focus needs to return to Edit button that launched the modals when modals are closed](https://github.com/department-of-veterans-affairs/va.gov-team/issues/6156)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-1 — **_Critical_**
 * [[COGNITION, SCREENREADER, KEYBOARD] Hiding 112 characters in a 40 character show/hide introduces screenreader and keyboard extra effort](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5861)<br/>**Staging** | **Opened:** February 13, 2020 | **Severity:** 508-defect-4 — **_Trivial_**
-
-#### Closed issues
-* [Warning alert box icon abuts the H3](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5735)
-* [[COGNITION]: Bug There is a character bug in country select data option ‘Reunion’ where it is ‘R�union’.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5846)
-* [[SCREENREADER, FOCUS MANAGEMENT] While on "Please confirm your address" screen, the content from "Edit mailing address" is read by screen reader](https://github.com/department-of-veterans-affairs/va.gov-team/issues/5865)
 
 ---
 
 ### New Project Name
 
 **Maintainer:** _VSA or VSP_<br/>
-**Audit status:** _Audit status, team, and date_<br/>
-**Closed issues:** _Create a reusable search link by filtering va.gov-team issues:_
+**Audit Status:** _Audit status, team, and date_<br/>
+**Closed Issues:** _Create a reusable search link by filtering va.gov-team issues:_
 
  1. Click the [Issues tab](https://github.com/department-of-veterans-affairs/va.gov-team/issues) on the va.gov-team repository
  1. Click the `<NUMBER> Closed` link to switch to closed issues
