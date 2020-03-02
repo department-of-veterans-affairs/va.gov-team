@@ -4,7 +4,7 @@
 #### Participant: MC (M)
 #### Session Recorded: Yes
 #### Note-taker: S. Bildstein
-## Participant 9
+## Participant 8
 
 Thanks for joining us today! My name is Aricka and I also have some colleagues on the line observing and taking notes. Today we&#39;re going to talk about adding and removing dependents to/from your benefits on the VA website.
 
