@@ -7,10 +7,10 @@ Here are some samples:
 - https://youtu.be/AZyswX6gCw8
 
 Here are some guidelines to follow:
-- Call center likes these videos to have as much detail as possible in under 15 minutes
+- Contact center likes these videos to have as much detail as possible in under 15 minutes
 - Try and show some samples of conditionals: errors you anticipate users may expereince, or use cases you think may happen
-- Call out the variety of ways users can get to the page
-- Remember that this link could be shared with anyone, so avoid saying things that could rub viewers (Call Center, VA Stakeholders, Vets.gov Stakeholders) the wrong way 
+- Contact out the variety of ways users can get to the page
+- Remember that this link could be shared with anyone, so avoid saying things that could rub viewers (Contact Center, VA Stakeholders, Vets.gov Stakeholders) the wrong way 
 
 Some people use QuickTime, some people use JoinMe, whatever you'd like.
 
