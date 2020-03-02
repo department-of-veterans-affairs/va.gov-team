@@ -45,17 +45,17 @@
 - What workflow combinations (scenarios) do users think are likely?
 
 ## Key findings
-Our top 10 list
+**Our top 10 findings:**
 - Participants initially expected to find the 21-686c in the VA.gov Family Benefits or Records sections.
 - Users generally scanned the introduction page, but stated they found the level of guidance acceptable; however, once they were completing the form, they wanted additional information up-front.
 - No participant seemed to notice there were two forms presented: 21-686c and 21-674.
 - Participants universally accepted the "checkbox" workflow selection strategy, and most stated they preferred to handle multiple workflows in one session.
+- Participants accepted the "wrokflow" arragement of the form without question.
 - Additional explanation and guidance is needed for certain key sections of the form (e.g. student address, marriage types and term dates).
 - The former marriage sections of the add spouse workflow was deemed accaptable.
 - The presentation of the introduction page, confirmation page, and the form itself was generally acceptable to users.
 - Generally, users moved through the longers workflows of the form quickly, with little prompting.
 - Many participants wanted printable versions of their form submission and/or a confirmation number as proof of submission; several asked for a "print" button.
-- Ten...
 
 ## Details of findings
 List details of each finding in top findings here, with supporting quotes when possible.
