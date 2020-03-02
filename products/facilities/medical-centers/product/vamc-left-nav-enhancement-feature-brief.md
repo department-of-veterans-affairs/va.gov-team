@@ -44,7 +44,7 @@ Research Findings:
 
 The sub pages within a section — also known as the page’s “children” — provide additional context that helps a Veteran way find to the right information or services. By introducing a new design for local navigation that exposes these children, it will provide valuable additional context without requiring a user to leave the parent page.
 
-** However** with current functionality: 
+**However** with current functionality: 
 - The Pittsburgh heath care site is confusing to navigate. Users forget what page they are on after scrolling past the page heading, do not understand the hierarchial content structure and find the menu to be distracting rather than helpful. 
 - Users of the existing site navigation make a “best guess” given the elements in the left navigation. The only way they could confirm their guess was by going to the page in question creating a "pogo-stick" behavior
 
@@ -67,9 +67,33 @@ The sub pages within a section — also known as the page’s “children” —
 - Double clicking on this menu design creates confusion for users who are likely to double click.
 - When certain items are not in the left hand navigation, it can be confusing and feel arbitrary. (Specific to specialized content, such as reports)
 
+**Impact to other VAMC roll outs**
+
 ### Project Scope and Scale
 _What's in and what's out?_
 - An upgrade to the local navigation component for Pittsburgh’s VAMC system of websites, beginning with the functionality available in staging and informed by the user research conducted in November/December 2019 
+
+**Status of the project when ownership was transferred**
+
+Improvements to the Left Nav were initiated by engineers on the Public Websites team. 
+To date, the following work is complete and available on staging: 
+
+- New sidebar navigation was implemented on Pittsburgh health care, including 
+- Abstraction of complexities in SideNav into functional components 
+- Addition of unit tests 
+- Updated SideNav `expanded` logic to not rely on original data source
+- Rotated expand/collapse buttons with arrows to be consistent with the main navigation
+- Resolved duplicate label and line issue 
+- Removed "Home" from breadcrumbs
+- Changes to focus of selected nav items 
+- Removed SideNav on `Events`, `News Releases`,`Research` and `Stories` subpages
+- Removed warning banner on Pittsburgh Health Care (due to non-prod environment)
+
+Pending development work (within scope)
+- Issues created during the SideNav Accessibility Audit 
+- Port SideNav to Design System
+- Need to update the sidenav to be 1/3 instead of 1/4 width on each page that uses it
+- _Other issues to be identified based on user research findings (TBD)_
 
 
 **Goals of the enhancement project**
@@ -124,3 +148,5 @@ _Links to requirements documentation, wireframes/mock-ups, research, etc._
 [Prototype of new design](https://staging.va.gov/pittsburgh-health-care)
 
 [Page navigation, see also folder called left-nav](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/global/left-nav)
+
+[Design](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/global/header-footer-and-navigation/page-nav/design/VA-gov-on-page-nav-MASTER.pdf)
