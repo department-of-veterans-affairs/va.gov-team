@@ -1,0 +1,42 @@
+# Appointment list
+
+- Appointment list
+   - Filtered by: ICN, start date, end date
+   - Data for each item:
+      - Type of care
+         - Requests only
+      - State
+         - Request
+         - Confirmed
+         - Cancelled appointment
+         - Cancelled request
+      - Type
+         - Community Care
+         - VA facility
+         - VA video
+         - Mobile GFE video
+      - Location
+         - Video link
+         - Clinic
+            - name
+            - facility name
+            - facility address
+            - facility phone number
+      - Appointment date and time
+         - Timezone of facility
+         - Both requested times and confirmed times
+      - User provided detail
+      - Appointment context
+         - Routine
+         - Medication concern
+         - New issue
+         - Other
+      - User contact details
+         - Email
+         - Phone
+      - Allowed cancel reasons
+      - Request messages
+         - Filtered by: ICN, request id
+         - Data for first item:
+            - Message text
+         
