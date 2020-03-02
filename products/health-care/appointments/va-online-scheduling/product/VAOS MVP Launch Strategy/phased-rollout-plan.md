@@ -16,7 +16,7 @@
 
 
 ## Latest Status of Phased Rollout (2.28.2020)
-![Status as of 2/26/2020](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/product/Timeline_2.28.20.png)
+Udpated timeline coming soon...
 
 
 -----
