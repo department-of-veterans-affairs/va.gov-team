@@ -5,7 +5,10 @@ Purpose: to keep track of the open issues needing resolution betweeen now and ou
 - Ability to attach Power of Attorney documentation
 - Allow Veteran/Caregiver to track application status?
 - Return ICN number for veteran and caregiver (if applicable)
+
+## Nice to Haves
 - Address formatting validation (against USPS?)
+
 
 ## Questions
 - How are we integrating plain language into the online 1010-CG experience while maintaining consistency with the paper form?
